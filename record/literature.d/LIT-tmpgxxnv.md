@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the Edge page (NOTE-tmpufafo): the essay in full, the replies skimmed.'
+status_note: 'read 2026-11-13 from the Edge page ([NOTE-tmpufafo](../notes.d/NOTE-tmpufafo.md)): the essay in full, the replies skimmed.'
 title: 'One Half a Manifesto'
 version: 1
 history:
@@ -29,13 +29,13 @@ keywords:
 - 'lock-in'
 implementations: []
 summary: >-
-  Lanier's Edge essay, read in NOTE-tmpufafo: "cybernetic totalism" is a
+  Lanier's Edge essay, read in [NOTE-tmpufafo](../notes.d/NOTE-tmpufafo.md): "cybernetic totalism" is a
   dogma among technologists, a cluster of beliefs that people are
   information patterns, that subjective experience does not matter, that
   Darwinian algorithms describe all creativity and that computing power
   brings a coming cataclysm; real software resists improvement through
   "legacy and lock-in"; criticism of the dogma is not rejection of
-  digital technology. A stand-in for the stance of LIT-tmpj5wpm, not its
+  digital technology. A stand-in for the stance of [LIT-tmpj5wpm](LIT-tmpj5wpm.md), not its
   content.
 ---
 <!-- inactive-ok-file: LIT-tmpj5wpm — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -52,4 +52,4 @@ Jaron Lanier (2000). "One Half a Manifesto". *Edge*, with a Reality Club discuss
 
 ## Standing in the record
 
-A stand-in for LIT-tmpj5wpm's stance. Read in NOTE-tmpufafo; account THEORY-tmpvajjd.
+A stand-in for [LIT-tmpj5wpm](LIT-tmpj5wpm.md)'s stance. Read in [NOTE-tmpufafo](../notes.d/NOTE-tmpufafo.md); account [THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md).

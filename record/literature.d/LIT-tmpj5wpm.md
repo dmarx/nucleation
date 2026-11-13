@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'searched 2026-11-13 for a lawful copy or publisher excerpt and found none. An Edge page on the book said to link an excerpt (edge.org/node/23222) was located and not checked: a lead for a later pass. Lanier''s 2000 essay "One Half a Manifesto" (LIT-tmpgxxnv) stands in for the book''s stance.'
+status_note: 'searched 2026-11-13 for a lawful copy or publisher excerpt and found none. An Edge page on the book said to link an excerpt (edge.org/node/23222) was located and not checked: a lead for a later pass. Lanier''s 2000 essay "One Half a Manifesto" ([LIT-tmpgxxnv](LIT-tmpgxxnv.md)) stands in for the book''s stance.'
 title: 'You Are Not a Gadget: A Manifesto'
 version: 2
 history:
@@ -35,11 +35,11 @@ keywords:
 implementations: []
 summary: >-
   Jaron Lanier (2010). You Are Not a Gadget. Knopf. Unavailable.
-  Stand-in for its stance: "One Half a Manifesto" (LIT-tmpgxxnv,
-  NOTE-tmpufafo), an attack on "cybernetic totalism" by a technologist
+  Stand-in for its stance: "One Half a Manifesto" ([LIT-tmpgxxnv](LIT-tmpgxxnv.md),
+  [NOTE-tmpufafo](../notes.d/NOTE-tmpufafo.md)), an attack on "cybernetic totalism" by a technologist
   who disclaims "glum rejection of digital technology". Whether the book
   criticizes digital business models, as the exchange said, is
-  unverified. Account: THEORY-tmpvajjd.
+  unverified. Account: [THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpvajjd — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
@@ -57,4 +57,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmpgxxnv, read in NOTE-tmpufafo; account THEORY-tmpvajjd.
+Unavailable. Stand-in: [LIT-tmpgxxnv](LIT-tmpgxxnv.md), read in [NOTE-tmpufafo](../notes.d/NOTE-tmpufafo.md); account [THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md).

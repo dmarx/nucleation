@@ -13,10 +13,10 @@ promote_when: >-
   beliefs, rejects them on these grounds, and disclaims rejecting
   digital technology.
 summary: >-
-  Lanier (2000), "One Half a Manifesto", read in NOTE-tmpufafo.
+  Lanier (2000), "One Half a Manifesto", read in [NOTE-tmpufafo](../notes.d/NOTE-tmpufafo.md).
   Cybernetic totalism as dogma; legacy and lock-in; a humanist stance
   toward digital technology. A stand-in for You Are Not a Gadget
-  (LIT-tmpj5wpm).
+  ([LIT-tmpj5wpm](../literature.d/LIT-tmpj5wpm.md)).
 ---
 <!-- inactive-ok-file: LIT-tmpj5wpm — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
@@ -28,7 +28,7 @@ Lanier names "cybernetic totalism" and rejects it: people are not only informati
 
 ## Evidence
 
-The reading in NOTE-tmpufafo, results 1–5.
+The reading in [NOTE-tmpufafo](../notes.d/NOTE-tmpufafo.md), results 1–5.
 
 ## What it does not say
 

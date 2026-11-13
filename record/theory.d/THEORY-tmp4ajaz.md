@@ -17,7 +17,7 @@ promote_when: >-
   standard of value she does not supply.
 summary: >-
   Wolf (2007 Tanner Lectures, revised as the 2010 book), read in
-  NOTE-tmpzth5f; the book is Skimmed through them in NOTE-tmpjrlcd.
+  [NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md); the book is Skimmed through them in [NOTE-tmpjrlcd](../notes.d/NOTE-tmpjrlcd.md).
   Fitting fulfillment: meaning when subjective attraction meets
   objective attractiveness, with active engagement; no theory of the
   objective standard.
@@ -32,7 +32,7 @@ Wolf argues that meaningfulness is a third dimension of a good life, beside happ
 
 ## Evidence
 
-The reading in NOTE-tmpzth5f, key results 1–6, quoted with their lectures. The book (LIT-tmpzu593) revises these lectures; its additions were not read.
+The reading in [NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md), key results 1–6, quoted with their lectures. The book ([LIT-tmpzu593](../literature.d/LIT-tmpzu593.md)) revises these lectures; its additions were not read.
 
 ## What it does not say
 

@@ -47,7 +47,7 @@ summary: >-
   perfection", it is not always better to be morally better (pp. 436–8).
   The exchange's use, against a demand to live meaningfully, is its own
   extension: the paper targets moral sainthood, and the closer support
-  is Wolf's later "paradox of meaningfulness" (NOTE-tmpzth5f).
+  is Wolf's later "paradox of meaningfulness" ([NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md)).
 ---
 
 # LIT-tmphwzap: Moral Saints
@@ -64,4 +64,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Not reached: Unfetched (bot check at is.muni.cz). Sider's handout was read, verified by script for these quotations: "does not constitute a model of personal well-being toward which it would be particularly rational or good or desirable for a human being to strive" (p. 419); "a person may be perfectly wonderful without being perfectly moral" (p. 436); Wolf questions "the assumption that it is always better to be morally better" (p. 438). A9 §VI's description is accurate. The exchange's further use, that a demand to live meaningfully becomes self-optimization, is better supported by the paradox of meaningfulness in the Tanner Lectures (NOTE-tmpzth5f, result 7) than by this paper.
+Not reached: Unfetched (bot check at is.muni.cz). Sider's handout was read, verified by script for these quotations: "does not constitute a model of personal well-being toward which it would be particularly rational or good or desirable for a human being to strive" (p. 419); "a person may be perfectly wonderful without being perfectly moral" (p. 436); Wolf questions "the assumption that it is always better to be morally better" (p. 438). A9 §VI's description is accurate. The exchange's further use, that a demand to live meaningfully becomes self-optimization, is better supported by the paradox of meaningfulness in the Tanner Lectures ([NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md), result 7) than by this paper.

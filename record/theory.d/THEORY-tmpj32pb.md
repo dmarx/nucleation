@@ -15,10 +15,10 @@ promote_when: >-
   utility as the standard, the definition of capability as the ability
   to achieve functionings, and the partial-ordering method.
 summary: >-
-  Sen (1985 Tanner Lectures), read in NOTE-tmpftsrb (Skimmed).
+  Sen (1985 Tanner Lectures), read in [NOTE-tmpftsrb](../notes.d/NOTE-tmpftsrb.md) (Skimmed).
   Functionings and capabilities against opulence and utility; partial
   orderings; refined functionings. A stand-in for Commodities and
-  Capabilities (LIT-tmpk0agx).
+  Capabilities ([LIT-tmpk0agx](../literature.d/LIT-tmpk0agx.md)).
 ---
 <!-- inactive-ok-file: LIT-tmpk0agx — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-tmpftsrb — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -31,7 +31,7 @@ Sen argues that the standard of living "is really a matter of functionings and c
 
 ## Evidence
 
-The reading in NOTE-tmpftsrb, key results 1–7. It corroborates CLAIM-352, the opportunity aspect read as real opportunities.
+The reading in [NOTE-tmpftsrb](../notes.d/NOTE-tmpftsrb.md), key results 1–7. It corroborates [CLAIM-352](../claims.d/CLAIM-352.md), the opportunity aspect read as real opportunities.
 
 ## What it does not say
 

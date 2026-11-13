@@ -49,7 +49,7 @@ AI mirror; moral deskilling; intellectual virtue; autofabrication; practical wis
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql**: supports its premise in kind, second-hand. Moral deskilling is a support that does the work (algorithmic decision) shrinking a capacity kept by exercise (moral reasoning). It bears on whether CLAIM-605's model applies to people (CASE-tmpf71w4), not on the derivation. Vallor's own paper (LIT-tmpru6bh) is Unfetched.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: supports its premise in kind, second-hand. Moral deskilling is a support that does the work (algorithmic decision) shrinking a capacity kept by exercise (moral reasoning). It bears on whether [CLAIM-605](../claims.d/CLAIM-605.md)'s model applies to people ([CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md)), not on the derivation. Vallor's own paper ([LIT-tmpru6bh](../literature.d/LIT-tmpru6bh.md)) is Unfetched.
 - **The exchange's** "Technologies shape character, practical wisdom, and moral capabilities" (A5) is consistent with the review.
 
 ## Limitations

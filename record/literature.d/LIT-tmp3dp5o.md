@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full from the journal''s open page (NOTE-tmp2ky8f).'
+status_note: 'read 2026-11-13 in full from the journal''s open page ([NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md)).'
 title: 'Cosmotechnics as Cosmopolitics'
 version: 1
 history:
@@ -28,13 +28,13 @@ keywords:
 - 'Heidegger'
 implementations: []
 summary: >-
-  Hui's e-flux essay, read in NOTE-tmp2ky8f: technology is not an
+  Hui's e-flux essay, read in [NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md): technology is not an
   anthropological universal but is enabled and constrained by particular
   cosmologies, so there are many cosmotechnics, unifications of the
   cosmic and the moral through technical activity; the Anthropocene
   calls for "the bifurcation of technological futures". Hui calls his
   2016 book the demonstration of this possibility; the essay stands in
-  for its thesis (LIT-tmpkmf6f), not its history.
+  for its thesis ([LIT-tmpkmf6f](LIT-tmpkmf6f.md)), not its history.
 ---
 <!-- inactive-ok-file: LIT-tmpkmf6f — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpyuoss — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -50,4 +50,4 @@ Yuk Hui (2017). "Cosmotechnics as Cosmopolitics". *e-flux journal* 86, 2017-11-0
 
 ## Standing in the record
 
-A stand-in for LIT-tmpkmf6f. Read in NOTE-tmp2ky8f; account THEORY-tmpyuoss.
+A stand-in for [LIT-tmpkmf6f](LIT-tmpkmf6f.md). Read in [NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md); account [THEORY-tmpyuoss](../theory.d/THEORY-tmpyuoss.md).

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full from the author''s own site (NOTE-tmpwvb8c).'
+status_note: 'read 2026-11-13 in full from the author''s own site ([NOTE-tmpwvb8c](../notes.d/NOTE-tmpwvb8c.md)).'
 title: 'What Technology Wants'
 version: 1
 history:
@@ -28,11 +28,11 @@ keywords:
 implementations: []
 summary: >-
   Kelly's blog post that states the thesis of his 2010 book, read in
-  NOTE-tmpwvb8c: technology as a whole, "the technium", is an
+  [NOTE-tmpwvb8c](../notes.d/NOTE-tmpwvb8c.md): technology as a whole, "the technium", is an
   interdependent system whose self-reinforcing feedback gives it
   tendencies independent of human wants, toward diversity, efficiency,
   complexity, ubiquity and interdependence, which on balance widen human
-  choices. A stand-in for the book's thesis (LIT-tmp5j2b7), not its
+  choices. A stand-in for the book's thesis ([LIT-tmp5j2b7](LIT-tmp5j2b7.md)), not its
   evidence.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 THEORY-tmp5l4e4 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -48,4 +48,4 @@ Kevin Kelly (2009). "What Technology Wants". *The Technium* (blog), 2009-01-27.
 
 ## Standing in the record
 
-A stand-in for LIT-tmp5j2b7. Read in NOTE-tmpwvb8c; account THEORY-tmp5l4e4. A foil to CLAIM-tmpbypt7.
+A stand-in for [LIT-tmp5j2b7](LIT-tmp5j2b7.md). Read in [NOTE-tmpwvb8c](../notes.d/NOTE-tmpwvb8c.md); account [THEORY-tmp5l4e4](../theory.d/THEORY-tmp5l4e4.md). A foil to [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).

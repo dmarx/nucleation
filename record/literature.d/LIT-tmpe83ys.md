@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full from the journal''s open PDF, jeet.ieet.org/index.php/home/article/download/225/179/1059 (NOTE-tmphyftd). The PDF carries the author''s contact address; it was not reproduced or used.'
+status_note: 'read 2026-11-13 in full from the journal''s open PDF, jeet.ieet.org/index.php/home/article/download/225/179/1059 ([NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md)). The PDF carries the author''s contact address; it was not reproduced or used.'
 title: 'Humans are the Danger, Not AI: A Review of Shannon Vallor''s The AI Mirror'
 version: 1
 history:
@@ -28,12 +28,12 @@ keywords:
 - 'practical wisdom'
 implementations: []
 summary: >-
-  A review of Vallor's The AI Mirror, read in NOTE-tmphyftd: it reports
+  A review of Vallor's The AI Mirror, read in [NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md): it reports
   Vallor's thesis that AI mirrors past human data, that it can change
   human character, that reliance on algorithmic decision produces moral
   deskilling, and that the remedy is collective self-renewal guided by
-  practical wisdom. A thin stand-in for LIT-tmplpkge, which was not
-  reached; Vallor's own 2014 paper on moral deskilling is LIT-tmpru6bh,
+  practical wisdom. A thin stand-in for [LIT-tmplpkge](LIT-tmplpkge.md), which was not
+  reached; Vallor's own 2014 paper on moral deskilling is [LIT-tmpru6bh](LIT-tmpru6bh.md),
   Unfetched.
 ---
 <!-- inactive-ok-file: LIT-tmplpkge — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -51,4 +51,4 @@ Blessing Adewuyi (2026). "Humans are the Danger, Not AI: A Review of Shannon Val
 
 ## Standing in the record
 
-A thin stand-in for LIT-tmplpkge. Read in NOTE-tmphyftd; account THEORY-tmpt6mee.
+A thin stand-in for [LIT-tmplpkge](LIT-tmplpkge.md). Read in [NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md); account [THEORY-tmpt6mee](../theory.d/THEORY-tmpt6mee.md).

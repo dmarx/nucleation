@@ -31,7 +31,7 @@ summary: >-
 
 ## Contribution
 
-An independent critique of Sen's comparative approach, converging with Valentini (LIT-290), with a new objection to Sen's priority of capability over achievement.
+An independent critique of Sen's comparative approach, converging with Valentini ([LIT-290](../literature.d/LIT-290.md)), with a new objection to Sen's priority of capability over achievement.
 
 ## Key results
 
@@ -53,10 +53,10 @@ Transcendental institutionalism; realization-focused comparison; capability agai
 
 ## Bearing on the record
 
-- **THEORY-434** (Valentini's critique): a second, independent reviewer makes the same objection (results 1, 5).
-- **CLAIM-tmp6wuql**: qualifies its framing. The claim's conclusion is stated in Sen's capability terms, and Gardner finds Sen's preference for capability over achievement unargued (results 2–4). ARG-tmpar7tl finds the qualification does not reach the derivation, which holds for achieved functionings too.
+- **[THEORY-434](../theory.d/THEORY-434.md)** (Valentini's critique): a second, independent reviewer makes the same objection (results 1, 5).
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: qualifies its framing. The claim's conclusion is stated in Sen's capability terms, and Gardner finds Sen's preference for capability over achievement unargued (results 2–4). [ARG-tmpar7tl](../arguments.d/ARG-tmpar7tl.md) finds the qualification does not reach the derivation, which holds for achieved functionings too.
 - **The exchange's use** of Sen's comparative approach as a theory of change (A10 §VIII, A11 §28, A13 §VIII): Gardner's argument that ranking needs a standard is a live objection to it.
 
 ## Limitations
 
-A review; the book itself (LIT-tmpl0haz) was not reached.
+A review; the book itself ([LIT-tmpl0haz](../literature.d/LIT-tmpl0haz.md)) was not reached.

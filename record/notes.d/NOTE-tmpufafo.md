@@ -48,8 +48,8 @@ Cybernetic totalism; circle of empathy; software legacy and lock-in.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: a minor point of contact. Result 3 names lock-in in software without the mechanism of adapting infrastructure, competitors and expectations; it leaves the claim open.
-- **CLAIM-030**: Lanier treats attributing a direction to technology as a whole as part of the dogma; an interpretive objection to that application, with no argument against CLAIM-030's thesis about organized wholes.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: a minor point of contact. Result 3 names lock-in in software without the mechanism of adapting infrastructure, competitors and expectations; it leaves the claim open.
+- **[CLAIM-030](../claims.d/CLAIM-030.md)**: Lanier treats attributing a direction to technology as a whole as part of the dogma; an interpretive objection to that application, with no argument against [CLAIM-030](../claims.d/CLAIM-030.md)'s thesis about organized wholes.
 - **The exchange's** "criticize specific technological arrangements without abandoning the possibilities of technology itself" (A5) fits result 2. The LIT's "digital business models" is not in the essay.
 
 ## Limitations

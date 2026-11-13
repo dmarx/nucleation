@@ -13,9 +13,9 @@ promote_when: >-
   antithesis, the definition of cosmotechnics and the call for
   bifurcated technological futures.
 summary: >-
-  Hui (2017), "Cosmotechnics as Cosmopolitics", read in NOTE-tmp2ky8f.
+  Hui (2017), "Cosmotechnics as Cosmopolitics", read in [NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md).
   Technological pluralism; cosmotechnics; bifurcation of technological
-  futures. A stand-in for the thesis of LIT-tmpkmf6f.
+  futures. A stand-in for the thesis of [LIT-tmpkmf6f](../literature.d/LIT-tmpkmf6f.md).
 ---
 <!-- inactive-ok-file: LIT-tmpkmf6f — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
@@ -27,7 +27,7 @@ Hui argues that "there is no one single technology, but rather multiple cosmotec
 
 ## Evidence
 
-The reading in NOTE-tmp2ky8f, results 1–5. Hui offers it as a possibility, "not sufficient to be formulated into a program".
+The reading in [NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md), results 1–5. Hui offers it as a possibility, "not sufficient to be formulated into a program".
 
 ## What it does not say
 

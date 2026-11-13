@@ -60,11 +60,11 @@ Reasons of love; meaningfulness as a third category of value; the Fulfillment, L
 ## Bearing on the record
 
 - **The exchange's use.** A9 made Wolf the synthesis's normative centre for a critique of technological civilization. The lectures say nothing about technology and disclaim practical use; the use is the exchange's. A9's "subjective attraction meets objective attractiveness" and its active-engagement condition are accurate (results 1–2).
-- **The worry that a demand to live meaningfully defeats itself** (A9 §VI, A13 §IV), which the exchange took from "Moral Saints" (LIT-tmphwzap), has its closer support here, in the paradox of meaningfulness (result 7): meaning pursued for one's own sake is self-undermining. "Moral Saints" was not reached.
-- **CLAIM-tmp6wuql**: leaves open. Result 4 counts a lost capacity as a loss even when felt as fulfillment, which agrees with the claim's premise that losing a capability is a loss whatever present satisfaction says; nothing here is about dynamics or support.
-- **CLAIM-352**: result 8 states a lack of meaning as a lack of opportunity owed to circumstance, an opportunity-aspect idea in Sen's sense, without his vocabulary.
-- **Neighbouring readings on meaning in life**, found at the recheck: Hiekel on Wolf's view (LIT-183, Unavailable); Scheffler's Tanner Lectures, *The Afterlife* (LIT-1779), on how projects keep their point; Fischer, "Stories and the Meaning of Life" (LIT-689); Browning and Veit (LIT-116). None states the fitting-fulfillment view.
+- **The worry that a demand to live meaningfully defeats itself** (A9 §VI, A13 §IV), which the exchange took from "Moral Saints" ([LIT-tmphwzap](../literature.d/LIT-tmphwzap.md)), has its closer support here, in the paradox of meaningfulness (result 7): meaning pursued for one's own sake is self-undermining. "Moral Saints" was not reached.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: leaves open. Result 4 counts a lost capacity as a loss even when felt as fulfillment, which agrees with the claim's premise that losing a capability is a loss whatever present satisfaction says; nothing here is about dynamics or support.
+- **[CLAIM-352](../claims.d/CLAIM-352.md)**: result 8 states a lack of meaning as a lack of opportunity owed to circumstance, an opportunity-aspect idea in Sen's sense, without his vocabulary.
+- **Neighbouring readings on meaning in life**, found at the recheck: Hiekel on Wolf's view ([LIT-183](../literature.d/LIT-183.md), Unavailable); Scheffler's Tanner Lectures, *The Afterlife* ([LIT-1779](../literature.d/LIT-1779.md)), on how projects keep their point; Fischer, "Stories and the Meaning of Life" ([LIT-689](../literature.d/LIT-689.md)); Browning and Veit ([LIT-116](../literature.d/LIT-116.md)). None states the fitting-fulfillment view.
 
 ## Limitations
 
-The 2010 book's revisions, Macedo's introduction, the commentaries and Wolf's reply were not read (LIT-tmpzu593).
+The 2010 book's revisions, Macedo's introduction, the commentaries and Wolf's reply were not read ([LIT-tmpzu593](../literature.d/LIT-tmpzu593.md)).

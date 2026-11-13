@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'searched 2026-11-13 for a lawful copy and found none: no open copy, publisher sample or course excerpt of the monograph; Crossref and OpenAlex hold only reviews; a Scribd upload was not fetched. Sen''s 1985 Tanner Lectures, The Standard of Living (LIT-tmpc3h2w), stand in for its core concepts.'
+status_note: 'searched 2026-11-13 for a lawful copy and found none: no open copy, publisher sample or course excerpt of the monograph; Crossref and OpenAlex hold only reviews; a Scribd upload was not fetched. Sen''s 1985 Tanner Lectures, The Standard of Living ([LIT-tmpc3h2w](LIT-tmpc3h2w.md)), stand in for its core concepts.'
 title: 'Commodities and Capabilities'
 version: 2
 history:
@@ -37,11 +37,11 @@ implementations: []
 summary: >-
   Amartya Sen (1985). Commodities and Capabilities. North-Holland.
   Unavailable. Its core apparatus is read in the stand-in, Sen's 1985
-  Tanner Lectures (LIT-tmpc3h2w, NOTE-tmpftsrb): "A functioning is an
+  Tanner Lectures ([LIT-tmpc3h2w](LIT-tmpc3h2w.md), [NOTE-tmpftsrb](../notes.d/NOTE-tmpftsrb.md)): "A functioning is an
   achievement, whereas a capability is the ability to achieve"; the
   standard of living is not opulence or utility; partial orderings
   suffice. A10's definitions are consistent with the stand-in. Account:
-  THEORY-tmpj32pb.
+  [THEORY-tmpj32pb](../theory.d/THEORY-tmpj32pb.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpftsrb — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmpj32pb — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -62,4 +62,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmpc3h2w, read in NOTE-tmpftsrb (Skimmed), for the core concepts only.
+Unavailable. Stand-in: [LIT-tmpc3h2w](LIT-tmpc3h2w.md), read in [NOTE-tmpftsrb](../notes.d/NOTE-tmpftsrb.md) (Skimmed), for the core concepts only.

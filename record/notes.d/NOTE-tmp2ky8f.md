@@ -45,7 +45,7 @@ Cosmopolitics; technological antinomy; cosmotechnics; Qi and Dao.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: qualifies in direction, not mechanism. If technological futures can bifurcate, lock-in to one trajectory is not necessary; Hui gives no mechanism that keeps a non-adopter's options open.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: qualifies in direction, not mechanism. If technological futures can bifurcate, lock-in to one trajectory is not necessary; Hui gives no mechanism that keeps a non-adopter's options open.
 - **The exchange's** use (A5, A6 §V, A11 §14: modernity need not follow one trajectory) is accurate as Hui's thesis, which he offers as a possibility.
 
 ## Limitations

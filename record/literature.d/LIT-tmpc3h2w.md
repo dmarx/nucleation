@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the HTML text on tannerlectures.org (NOTE-tmpftsrb, Skimmed: Lecture I''s utility sections skimmed, the rest read). The former PDF path gave HTTP 404.'
+status_note: 'read 2026-11-13 from the HTML text on tannerlectures.org ([NOTE-tmpftsrb](../notes.d/NOTE-tmpftsrb.md), Skimmed: Lecture I''s utility sections skimmed, the rest read). The former PDF path gave HTTP 404.'
 title: 'The Standard of Living (The Tanner Lectures on Human Values, Lectures I and II)'
 version: 1
 history:
@@ -31,13 +31,13 @@ keywords:
 - 'refined functionings'
 implementations: []
 summary: >-
-  Sen's 1985 Tanner Lectures, read in NOTE-tmpftsrb: the standard of
+  Sen's 1985 Tanner Lectures, read in [NOTE-tmpftsrb](../notes.d/NOTE-tmpftsrb.md): the standard of
   living is a matter of functionings and capabilities, not opulence or
   utility; conversion of commodities varies with person and
   circumstance; valued functionings are ranked by partial orderings;
   agency achievement, well-being and the standard of living are
   distinct; unchosen options matter, registered by refined functionings
-  (fasting against starving). Registered as a stand-in for LIT-tmpk0agx,
+  (fasting against starving). Registered as a stand-in for [LIT-tmpk0agx](LIT-tmpk0agx.md),
   the same year's monograph, which was not reached.
 ---
 <!-- inactive-ok-file: LIT-tmpk0agx — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -56,4 +56,4 @@ Amartya Sen (1985). "The Standard of Living". The Tanner Lectures on Human Value
 
 ## Standing in the record
 
-A stand-in for LIT-tmpk0agx for its core concepts, not its formal notation. Also the source the exchange's "fasting against starving" and "agency against well-being" came from, which LIT-tmpawaw5's chapters read do not contain. Read in NOTE-tmpftsrb; account THEORY-tmpj32pb.
+A stand-in for [LIT-tmpk0agx](LIT-tmpk0agx.md) for its core concepts, not its formal notation. Also the source the exchange's "fasting against starving" and "agency against well-being" came from, which [LIT-tmpawaw5](LIT-tmpawaw5.md)'s chapters read do not contain. Read in [NOTE-tmpftsrb](../notes.d/NOTE-tmpftsrb.md); account [THEORY-tmpj32pb](../theory.d/THEORY-tmpj32pb.md).

@@ -15,9 +15,9 @@ promote_when: >-
   systemic feedback and that its long-term bias is toward more diversity
   and choice.
 summary: >-
-  Kelly (2009 post, the thesis of the 2010 book), read in NOTE-tmpwvb8c;
-  the book's prologue in NOTE-tmptihtb. The technium's tendencies; more
-  ways, more choices. A foil to CLAIM-tmpbypt7: it measures the
+  Kelly (2009 post, the thesis of the 2010 book), read in [NOTE-tmpwvb8c](../notes.d/NOTE-tmpwvb8c.md);
+  the book's prologue in [NOTE-tmptihtb](../notes.d/NOTE-tmptihtb.md). The technium's tendencies; more
+  ways, more choices. A foil to [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md): it measures the
   adopter's options.
 ---
 <!-- inactive-ok-file: NOTE-tmptihtb — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -31,8 +31,8 @@ Kelly argues that "the technium", the interdependent whole of technology, has "i
 
 ## Evidence
 
-The reading in NOTE-tmpwvb8c, results 1–6; the prologue in NOTE-tmptihtb. Asserted from analogy, with the evidence promised for the book.
+The reading in [NOTE-tmpwvb8c](../notes.d/NOTE-tmpwvb8c.md), results 1–6; the prologue in [NOTE-tmptihtb](../notes.d/NOTE-tmptihtb.md). Asserted from analogy, with the evidence promised for the book.
 
 ## What it does not say
 
-What remains open to someone who declines a technology. Kelly's measure is the adopter's options, the measure CLAIM-tmpbypt7 sets aside.
+What remains open to someone who declines a technology. Kelly's measure is the adopter's options, the measure [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md) sets aside.

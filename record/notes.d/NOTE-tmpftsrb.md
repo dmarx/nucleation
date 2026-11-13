@@ -59,11 +59,11 @@ Opulence; functionings; capabilities; conversion variation; dominance partial or
 ## Bearing on the record
 
 - **The exchange's attributions.** The fasting/starving contrast and the agency/well-being distinction that A10 gave to *Development as Freedom* are here, in 1985 (results 3, 7).
-- **CLAIM-tmp6wuql**: leaves the claim standing. Result 5 is the distinction the claim builds on; refined functionings register options open now, not later, so the capability set is evaluated at a time. Nothing read argues that it includes later sets, the claim's named defeater.
-- **CLAIM-352**: corroborates first-hand (result 6, the opportunity aspect).
-- **THEORY-025** (resource and utility metrics miss conversion): a first-hand statement of its negative thesis, with the A/B nutrition example and the list of conversion factors. It does not meet THEORY-025's promote_when, which asks for the resourcist reply.
-- **THEORY-411** (partial ordering by ranges of weights): first-hand corroboration (result 4).
-- **LIT-tmpk0agx**: stands in for its core concepts.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: leaves the claim standing. Result 5 is the distinction the claim builds on; refined functionings register options open now, not later, so the capability set is evaluated at a time. Nothing read argues that it includes later sets, the claim's named defeater.
+- **[CLAIM-352](../claims.d/CLAIM-352.md)**: corroborates first-hand (result 6, the opportunity aspect).
+- **[THEORY-025](../theory.d/THEORY-025.md)** (resource and utility metrics miss conversion): a first-hand statement of its negative thesis, with the A/B nutrition example and the list of conversion factors. It does not meet [THEORY-025](../theory.d/THEORY-025.md)'s promote_when, which asks for the resourcist reply.
+- **[THEORY-411](../theory.d/THEORY-411.md)** (partial ordering by ranges of weights): first-hand corroboration (result 4).
+- **[LIT-tmpk0agx](../literature.d/LIT-tmpk0agx.md)**: stands in for its core concepts.
 
 ## Limitations
 

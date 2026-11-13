@@ -47,9 +47,9 @@ Technium; wants as tendencies; strange attractors; eusocial technologies.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: a foil. Kelly's measure is the options technology offers its users ("More ways, more choices"), the adopter's options; the claim measures what remains open to a non-adopter, so Kelly's thesis neither meets the claim's defeater nor answers it. Result 1, the interdependence of technologies, is the claim's infrastructural mechanism asserted from the other side; asserted, not shown, so no relation is written.
-- **CLAIM-030** (an organized whole's direction is not its members' intentions): results 2–4 apply that thesis to technology by analogy and assertion, with no model; a point of contact, not evidence.
-- **Lanier** (LIT-tmpgxxnv) names Kelly among the "Darwinian" writers he opposes.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: a foil. Kelly's measure is the options technology offers its users ("More ways, more choices"), the adopter's options; the claim measures what remains open to a non-adopter, so Kelly's thesis neither meets the claim's defeater nor answers it. Result 1, the interdependence of technologies, is the claim's infrastructural mechanism asserted from the other side; asserted, not shown, so no relation is written.
+- **[CLAIM-030](../claims.d/CLAIM-030.md)** (an organized whole's direction is not its members' intentions): results 2–4 apply that thesis to technology by analogy and assertion, with no model; a point of contact, not evidence.
+- **Lanier** ([LIT-tmpgxxnv](../literature.d/LIT-tmpgxxnv.md)) names Kelly among the "Darwinian" writers he opposes.
 - **The exchange's** reading (A5: Kelly and Ellul agree on systemic tendencies and disagree on their implications) fits this post; the comparison with Ellul is the exchange's.
 
 ## Limitations

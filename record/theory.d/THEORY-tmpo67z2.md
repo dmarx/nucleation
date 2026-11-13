@@ -15,10 +15,10 @@ promote_when: >-
   238).
 summary: >-
   Gardner (2012), critical notice of Sen's The Idea of Justice, read in
-  NOTE-tmpsll57. The comparative approach needs the standard it
+  [NOTE-tmpsll57](../notes.d/NOTE-tmpsll57.md). The comparative approach needs the standard it
   disclaims; capability over achievement is unargued. A stand-in for
-  LIT-tmpl0haz; it qualifies CLAIM-tmp6wuql's framing through
-  ARG-tmpar7tl.
+  [LIT-tmpl0haz](../literature.d/LIT-tmpl0haz.md); it qualifies [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s framing through
+  [ARG-tmpar7tl](../arguments.d/ARG-tmpar7tl.md).
 ---
 <!-- inactive-ok-file: LIT-tmpl0haz — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-434 — Proposed; cited with its standing -->
@@ -33,7 +33,7 @@ Gardner argues that Sen's contrast between "transcendental institutionalism" and
 
 ## Evidence
 
-The reading in NOTE-tmpsll57, results 1–5. It agrees with Valentini (THEORY-434). Its bearing on CLAIM-tmp6wuql is argued in ARG-tmpar7tl.
+The reading in [NOTE-tmpsll57](../notes.d/NOTE-tmpsll57.md), results 1–5. It agrees with Valentini ([THEORY-434](THEORY-434.md)). Its bearing on [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) is argued in [ARG-tmpar7tl](../arguments.d/ARG-tmpar7tl.md).
 
 ## What it does not say
 

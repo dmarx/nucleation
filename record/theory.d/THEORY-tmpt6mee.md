@@ -16,8 +16,8 @@ promote_when: >-
   practical wisdom (§§2–5).
 summary: >-
   Vallor's The AI Mirror as reported in Adewuyi's review (2026), read in
-  NOTE-tmphyftd. Mirror; moral deskilling; practical wisdom. It
-  corroborates CLAIM-tmp6wuql's premise, second-hand.
+  [NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md). Mirror; moral deskilling; practical wisdom. It
+  corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise, second-hand.
 ---
 <!-- inactive-ok-file: LIT-tmplpkge — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: LIT-tmpru6bh — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unfetched -->
@@ -31,7 +31,7 @@ As the review reports it, Vallor holds that AI mirrors humanity "as we already a
 
 ## Evidence
 
-The reading in NOTE-tmphyftd. Corroborates CLAIM-tmp6wuql's premise, that a capacity kept by exercise is lost under support that does the work, in the moral domain and second-hand. Vallor's own paper (LIT-tmpru6bh) is Unfetched; the book (LIT-tmplpkge) Unavailable.
+The reading in [NOTE-tmphyftd](../notes.d/NOTE-tmphyftd.md). Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise, that a capacity kept by exercise is lost under support that does the work, in the moral domain and second-hand. Vallor's own paper ([LIT-tmpru6bh](../literature.d/LIT-tmpru6bh.md)) is Unfetched; the book ([LIT-tmplpkge](../literature.d/LIT-tmplpkge.md)) Unavailable.
 
 ## What it does not say
 

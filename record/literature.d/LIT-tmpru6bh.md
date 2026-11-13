@@ -31,7 +31,7 @@ summary: >-
   Vallor (2015, online 2014), Philosophy & Technology 28(1). Unread:
   Unfetched at the repository (Cloudflare challenge). Registered as the
   first-hand source for moral deskilling, the thesis a review of The AI
-  Mirror (LIT-tmpe83ys) reports, which bears on CLAIM-tmp6wuql's premise
+  Mirror ([LIT-tmpe83ys](LIT-tmpe83ys.md)) reports, which bears on [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise
   that capacity kept by exercise is lost under substitutive support.
   Unverified until read.
 ---
@@ -48,4 +48,4 @@ Shannon Vallor (2015). Moral Deskilling and Upskilling in a New Machine Age: Ref
 
 ## Standing in the record
 
-A stand-in for LIT-tmplpkge, not yet reached.
+A stand-in for [LIT-tmplpkge](LIT-tmplpkge.md), not yet reached.

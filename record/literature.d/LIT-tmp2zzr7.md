@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full from the author''s own site, johngardnerathome.info/pdfs/senonjustice.pdf (NOTE-tmpsll57).'
+status_note: 'read 2026-11-13 in full from the author''s own site, johngardnerathome.info/pdfs/senonjustice.pdf ([NOTE-tmpsll57](../notes.d/NOTE-tmpsll57.md)).'
 title: 'The Idea of Justice'
 version: 1
 history:
@@ -32,12 +32,12 @@ keywords:
 implementations: []
 summary: >-
   John Gardner's critical notice of Sen's The Idea of Justice, read in
-  NOTE-tmpsll57: Sen's contrast of transcendental and comparative
+  [NOTE-tmpsll57](../notes.d/NOTE-tmpsll57.md): Sen's contrast of transcendental and comparative
   theories of justice is overdrawn, since ranking injustices needs a
   standard of justice; and Sen's preference for capabilities over
   achieved functionings as the object of public policy is asserted, not
-  argued. A stand-in for LIT-tmpl0haz, which was not reached; it
-  converges with Valentini (LIT-290).
+  argued. A stand-in for [LIT-tmpl0haz](LIT-tmpl0haz.md), which was not reached; it
+  converges with Valentini ([LIT-290](LIT-290.md)).
 ---
 <!-- inactive-ok-file: ARG-tmpar7tl CLAIM-tmp6wuql THEORY-tmpo67z2 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpl0haz — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -53,4 +53,4 @@ John Gardner (2012). "The Idea of Justice" (critical notice of Amartya Sen, *The
 
 ## Standing in the record
 
-A stand-in for LIT-tmpl0haz's framing and its capability chapter only. Read in NOTE-tmpsll57; account THEORY-tmpo67z2; it qualifies CLAIM-tmp6wuql through ARG-tmpar7tl.
+A stand-in for [LIT-tmpl0haz](LIT-tmpl0haz.md)'s framing and its capability chapter only. Read in [NOTE-tmpsll57](../notes.d/NOTE-tmpsll57.md); account [THEORY-tmpo67z2](../theory.d/THEORY-tmpo67z2.md); it qualifies [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) through [ARG-tmpar7tl](../arguments.d/ARG-tmpar7tl.md).

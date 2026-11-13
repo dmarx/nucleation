@@ -29,7 +29,7 @@ summary: >-
   and opportunity aspects of freedom. The fasting/starving example and
   the agency/well-being pairing the exchange attributed to this book are
   not in the chapters read; they are in his 1985 Tanner Lectures
-  (LIT-tmpc3h2w).
+  ([LIT-tmpc3h2w](../literature.d/LIT-tmpc3h2w.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
@@ -61,11 +61,11 @@ Substantive freedom; constitutive and instrumental roles of freedom; five instru
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql**: supports its premise. Result 6 is Sen's own case of support that replaces income but not activity, while skills and initiative erode, the claim's contrast between support that does the work and support that covers a shortfall. Results 2 and 5 show Sen counts present freedoms as instruments of later ones, but at the level of society and outside the evaluative space; nothing read argues that the capability set already includes later sets, the claim's named defeater. Corroborates (the claim does not rest on it).
-- **CLAIM-352**: result 4 is first-hand confirmation of the two aspects the claim divides.
-- **CLAIM-tmpbypt7**: leaves open. Sen counts denial of access to markets as an unfreedom; he does not discuss compulsion by others' adoption.
-- **CLAIM-tmpkjv7u**: a point of contact only. Result 7 and the famine argument concern accountability, the claim's third condition, not framed as domination.
-- **The exchange's attributions.** A10's "development as the expansion of substantive freedoms" is accurate. "Fasting against starving" and "agency freedom against well-being freedom" are not in the chapters read; they are in LIT-tmpc3h2w. Their place in this book is unverified.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: supports its premise. Result 6 is Sen's own case of support that replaces income but not activity, while skills and initiative erode, the claim's contrast between support that does the work and support that covers a shortfall. Results 2 and 5 show Sen counts present freedoms as instruments of later ones, but at the level of society and outside the evaluative space; nothing read argues that the capability set already includes later sets, the claim's named defeater. Corroborates (the claim does not rest on it).
+- **[CLAIM-352](../claims.d/CLAIM-352.md)**: result 4 is first-hand confirmation of the two aspects the claim divides.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: leaves open. Sen counts denial of access to markets as an unfreedom; he does not discuss compulsion by others' adoption.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: a point of contact only. Result 7 and the famine argument concern accountability, the claim's third condition, not framed as domination.
+- **The exchange's attributions.** A10's "development as the expansion of substantive freedoms" is accurate. "Fasting against starving" and "agency freedom against well-being freedom" are not in the chapters read; they are in [LIT-tmpc3h2w](../literature.d/LIT-tmpc3h2w.md). Their place in this book is unverified.
 
 ## Limitations
 

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 through its first form, the 2007 Tanner Lectures (LIT-tmpnlsfl), read in full; the book itself not reached (publisher and JSTOR paywalled; an LSE course-page PDF of the whole book, personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/WolfSusanne_2010_Meaning-in-Life-and-Why-It-Matters.pdf, not fetched, a whole in-copyright book not being a lawful copy under ADR-074). NOTE-tmpjrlcd, Skimmed.'
+status_note: 'read 2026-11-13 through its first form, the 2007 Tanner Lectures ([LIT-tmpnlsfl](LIT-tmpnlsfl.md)), read in full; the book itself not reached (publisher and JSTOR paywalled; an LSE course-page PDF of the whole book, personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/WolfSusanne_2010_Meaning-in-Life-and-Why-It-Matters.pdf, not fetched, a whole in-copyright book not being a lawful copy under [ADR-074](../decisions.d/ADR-074.md)). [NOTE-tmpjrlcd](../notes.d/NOTE-tmpjrlcd.md), Skimmed.'
 title: 'Meaning in Life and Why It Matters'
 version: 2
 history:
@@ -41,15 +41,15 @@ implementations: []
 summary: >-
   Susan Wolf (2010). Meaning in Life and Why It Matters. Princeton UP.
   DOI-10.1515/9781400834594. Read through its first form, the 2007
-  Tanner Lectures (LIT-tmpnlsfl, NOTE-tmpzth5f); the book is Skimmed
-  (NOTE-tmpjrlcd). Meaningfulness is a third dimension of a good life
+  Tanner Lectures ([LIT-tmpnlsfl](LIT-tmpnlsfl.md), [NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md)); the book is Skimmed
+  ([NOTE-tmpjrlcd](../notes.d/NOTE-tmpjrlcd.md)). Meaningfulness is a third dimension of a good life
   beside happiness and morality, arising when one loves objects worthy
   of love and engages with them actively; it needs a nonsubjective
   standard of value, of which Wolf has no theory; she disclaims
   practical use. The book adds commentaries and a reply, unread; the
   commentators listed earlier are unverified. The owner asked for Wolf
   at U7 of the exchange; using her against technological civilization is
-  the exchange's move, not hers. Account: THEORY-tmp4ajaz.
+  the exchange's move, not hers. Account: [THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpjrlcd — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmp4ajaz — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -70,4 +70,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Read through the 2007 Tanner Lectures (LIT-tmpnlsfl), the first form of the book's two chapters; NOTE-tmpjrlcd (Skimmed) and NOTE-tmpzth5f (Read); account THEORY-tmp4ajaz. The exchange's "subjective attraction meets objective attractiveness" and active engagement are accurate. The commentators named in earlier versions of this entry are unverified. Wolf's "paradox of meaningfulness" is the closer support for the exchange's worry that a demand to live meaningfully can defeat itself.
+Read through the 2007 Tanner Lectures ([LIT-tmpnlsfl](LIT-tmpnlsfl.md)), the first form of the book's two chapters; [NOTE-tmpjrlcd](../notes.d/NOTE-tmpjrlcd.md) (Skimmed) and [NOTE-tmpzth5f](../notes.d/NOTE-tmpzth5f.md) (Read); account [THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md). The exchange's "subjective attraction meets objective attractiveness" and active engagement are accurate. The commentators named in earlier versions of this entry are unverified. Wolf's "paradox of meaningfulness" is the closer support for the exchange's worry that a demand to live meaningfully can defeat itself.

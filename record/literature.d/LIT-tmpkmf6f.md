@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'searched 2026-11-13 for a lawful copy and found none: no Urbanomic sample or open chapter; PhilArchive holds a record of Hui''s "On Cosmotechnics" (Techné 2017), not checked. Hui''s e-flux essay "Cosmotechnics as Cosmopolitics" (LIT-tmp3dp5o) stands in for the book''s thesis.'
+status_note: 'searched 2026-11-13 for a lawful copy and found none: no Urbanomic sample or open chapter; PhilArchive holds a record of Hui''s "On Cosmotechnics" (Techné 2017), not checked. Hui''s e-flux essay "Cosmotechnics as Cosmopolitics" ([LIT-tmp3dp5o](LIT-tmp3dp5o.md)) stands in for the book''s thesis.'
 title: 'The Question Concerning Technology in China: An Essay in Cosmotechnics'
 version: 2
 history:
@@ -36,11 +36,11 @@ implementations: []
 summary: >-
   Yuk Hui (2016). The Question Concerning Technology in China.
   Urbanomic. Unavailable. Stand-in for its thesis: "Cosmotechnics as
-  Cosmopolitics" (LIT-tmp3dp5o, NOTE-tmp2ky8f): there is "no one single
+  Cosmopolitics" ([LIT-tmp3dp5o](LIT-tmp3dp5o.md), [NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md)): there is "no one single
   technology, but rather multiple cosmotechnics", and the Anthropocene
   calls for bifurcated technological futures. The exchange's use (that
   modernity need not follow one trajectory) is accurate as Hui's
-  possibility. Account: THEORY-tmpyuoss.
+  possibility. Account: [THEORY-tmpyuoss](../theory.d/THEORY-tmpyuoss.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpyuoss — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
@@ -58,4 +58,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmp3dp5o, read in NOTE-tmp2ky8f; account THEORY-tmpyuoss.
+Unavailable. Stand-in: [LIT-tmp3dp5o](LIT-tmp3dp5o.md), read in [NOTE-tmp2ky8f](../notes.d/NOTE-tmp2ky8f.md); account [THEORY-tmpyuoss](../theory.d/THEORY-tmpyuoss.md).

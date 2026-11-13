@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in part: the Introduction and Chapter 1 from a two-chapter scan on a Universidad de los Andes research-group page (semilleropacifico.uniandes.edu.co), NOTE-tmplmlej, Skimmed. Whole-book copies located on a college site (a LibGen-derived file) and a community site were not fetched.'
+status_note: 'read 2026-11-13 in part: the Introduction and Chapter 1 from a two-chapter scan on a Universidad de los Andes research-group page (semilleropacifico.uniandes.edu.co), [NOTE-tmplmlej](../notes.d/NOTE-tmplmlej.md), Skimmed. Whole-book copies located on a college site (a LibGen-derived file) and a community site were not fetched.'
 title: 'Development as Freedom'
 version: 2
 history:
@@ -38,17 +38,17 @@ keywords:
 implementations: []
 summary: >-
   Amartya Sen (1999). Development as Freedom. Knopf / Oxford UP. Skimmed
-  in NOTE-tmplmlej (Introduction and Chapter 1). Development is the
+  in [NOTE-tmplmlej](../notes.d/NOTE-tmplmlej.md) (Introduction and Chapter 1). Development is the
   expansion of the real freedoms people enjoy, not GNP growth,
   industrialization or technological advance; freedoms are both its ends
   and among its means, since freedoms of different kinds strengthen one
   another; freedom has a process and an opportunity aspect.
   Unemployment's erosion of skills and initiative, which transfers do
-  not make up, corroborates CLAIM-tmp6wuql's premise. The
+  not make up, corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise. The
   fasting/starving example and the agency/well-being distinction the
   exchange (A10) gave to this book are not in the chapters read; they
-  are in the 1985 Tanner Lectures (LIT-tmpc3h2w). Account:
-  THEORY-tmpockqy.
+  are in the 1985 Tanner Lectures ([LIT-tmpc3h2w](LIT-tmpc3h2w.md)). Account:
+  [THEORY-tmpockqy](../theory.d/THEORY-tmpockqy.md).
 ---
 <!-- inactive-ok-file: NOTE-tmplmlej — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmpockqy — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -68,4 +68,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Skimmed: Introduction and Chapter 1 (NOTE-tmplmlej); account THEORY-tmpockqy, which corroborates CLAIM-352 and CLAIM-tmp6wuql. Correction: the fasting/starving example and the agency/well-being distinction are not in the chapters read and are attributed to LIT-tmpc3h2w.
+Skimmed: Introduction and Chapter 1 ([NOTE-tmplmlej](../notes.d/NOTE-tmplmlej.md)); account [THEORY-tmpockqy](../theory.d/THEORY-tmpockqy.md), which corroborates [CLAIM-352](../claims.d/CLAIM-352.md) and [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md). Correction: the fasting/starving example and the agency/well-being distinction are not in the chapters read and are attributed to [LIT-tmpc3h2w](LIT-tmpc3h2w.md).

@@ -17,9 +17,9 @@ promote_when: >-
   the instrumental claim (freedoms as among its principal means,
   reinforcing one another).
 summary: >-
-  Sen (1999), Introduction and Chapter 1, read in NOTE-tmplmlej
+  Sen (1999), Introduction and Chapter 1, read in [NOTE-tmplmlej](../notes.d/NOTE-tmplmlej.md)
   (Skimmed). Development as the expansion of real freedoms; freedoms as
-  ends and means. It corroborates CLAIM-tmp6wuql's premise through Sen's
+  ends and means. It corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise through Sen's
   case of unemployment eroding skills that income transfers do not
   restore.
 ---
@@ -34,7 +34,7 @@ Sen argues that development is "a process of expanding the real freedoms that pe
 
 ## Evidence
 
-The reading in NOTE-tmplmlej, results 1–2 and 4–6. Corroborates CLAIM-tmp6wuql: result 6, unemployment's "debilitating effects on individual freedom, initiative, and skills" [OCR-normalized], which income support does not make up, is a support that replaces an outcome but not the activity that keeps a capacity. The claim does not rest on it.
+The reading in [NOTE-tmplmlej](../notes.d/NOTE-tmplmlej.md), results 1–2 and 4–6. Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md): result 6, unemployment's "debilitating effects on individual freedom, initiative, and skills" [OCR-normalized], which income support does not make up, is a support that replaces an outcome but not the activity that keeps a capacity. The claim does not rest on it.
 
 ## What it does not say
 

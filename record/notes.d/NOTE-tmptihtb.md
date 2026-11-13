@@ -31,7 +31,7 @@ summary: >-
 
 ## Contribution
 
-The frame of the book's question; the argument is in NOTE-tmpwvb8c.
+The frame of the book's question; the argument is in [NOTE-tmpwvb8c](NOTE-tmpwvb8c.md).
 
 ## Key results
 
@@ -49,7 +49,7 @@ Technology as a whole; options.
 
 ## Bearing on the record
 
-See NOTE-tmpwvb8c. Result 3 is the book's measure, options open to the adopter, the foil to CLAIM-tmpbypt7.
+See [NOTE-tmpwvb8c](NOTE-tmpwvb8c.md). Result 3 is the book's measure, options open to the adopter, the foil to [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
 
 ## Limitations
 

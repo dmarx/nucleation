@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'searched 2026-11-13 for a lawful copy and found none: publisher DOI and JSTOR paywalled; OpenAlex closed; the Harvard Philosophy page has no excerpt. Whole-book uploads (a college site, archive.org and piracy-type hosts) were not fetched, not being lawful copies. Gardner''s critical notice (LIT-tmp2zzr7) stands in for the book''s framing and its capability chapter.'
+status_note: 'searched 2026-11-13 for a lawful copy and found none: publisher DOI and JSTOR paywalled; OpenAlex closed; the Harvard Philosophy page has no excerpt. Whole-book uploads (a college site, archive.org and piracy-type hosts) were not fetched, not being lawful copies. Gardner''s critical notice ([LIT-tmp2zzr7](LIT-tmp2zzr7.md)) stands in for the book''s framing and its capability chapter.'
 title: 'The Idea of Justice'
 version: 2
 history:
@@ -37,14 +37,14 @@ implementations: []
 summary: >-
   Amartya Sen (2009). The Idea of Justice. Harvard UP.
   DOI-10.4159/9780674054578. Unavailable. Through Gardner's critical
-  notice (LIT-tmp2zzr7, NOTE-tmpsll57): the book contrasts
+  notice ([LIT-tmp2zzr7](LIT-tmp2zzr7.md), [NOTE-tmpsll57](../notes.d/NOTE-tmpsll57.md)): the book contrasts
   transcendental institutionalism with realization-focused comparison
   and prefers capability over achievement as the object of public
   policy; Gardner argues the contrast is overdrawn and the preference
-  unargued, as Valentini (LIT-290) does for the contrast. That bears on
-  CLAIM-tmp6wuql through ARG-tmpar7tl. A10 §VIII's description is
+  unargued, as Valentini ([LIT-290](LIT-290.md)) does for the contrast. That bears on
+  [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) through [ARG-tmpar7tl](../arguments.d/ARG-tmpar7tl.md). A10 §VIII's description is
   consistent with the stand-in. Account of the stand-in:
-  THEORY-tmpo67z2.
+  [THEORY-tmpo67z2](../theory.d/THEORY-tmpo67z2.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpo67z2 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
@@ -64,4 +64,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmp2zzr7, read in NOTE-tmpsll57; account THEORY-tmpo67z2; ARG-tmpar7tl on its bearing on CLAIM-tmp6wuql.
+Unavailable. Stand-in: [LIT-tmp2zzr7](LIT-tmp2zzr7.md), read in [NOTE-tmpsll57](../notes.d/NOTE-tmpsll57.md); account [THEORY-tmpo67z2](../theory.d/THEORY-tmpo67z2.md); [ARG-tmpar7tl](../arguments.d/ARG-tmpar7tl.md) on its bearing on [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md).

@@ -21,7 +21,7 @@ history:
 date: '2026-11-13'
 summary: >-
   The book's own argument, its two lectures, read in their 2007 form
-  (NOTE-tmpzth5f): meaningfulness as fitting fulfillment, distinct from
+  ([NOTE-tmpzth5f](NOTE-tmpzth5f.md)): meaningfulness as fitting fulfillment, distinct from
   happiness and morality and needing a nonsubjective standard of value.
   Skimmed because the book's additions, its commentaries and reply, were
   not read.
@@ -31,23 +31,23 @@ summary: >-
 
 ## Contribution
 
-As in NOTE-tmpzth5f: the fitting-fulfillment account of meaning in life, with its defence of an objective component.
+As in [NOTE-tmpzth5f](NOTE-tmpzth5f.md): the fitting-fulfillment account of meaning in life, with its defence of an objective component.
 
 ## Key results
 
-As in NOTE-tmpzth5f, results 1–9, all from the 2007 text. Whether the book revises any of them was not checked.
+As in [NOTE-tmpzth5f](NOTE-tmpzth5f.md), results 1–9, all from the 2007 text. Whether the book revises any of them was not checked.
 
 ## Assumptions
 
-As in NOTE-tmpzth5f.
+As in [NOTE-tmpzth5f](NOTE-tmpzth5f.md).
 
 ## Concepts
 
-As in NOTE-tmpzth5f.
+As in [NOTE-tmpzth5f](NOTE-tmpzth5f.md).
 
 ## Bearing on the record
 
-As in NOTE-tmpzth5f. The LIT's list of commentators (Koethe, Adams, Arpaly, Haidt) is unverified: the front matter was not read.
+As in [NOTE-tmpzth5f](NOTE-tmpzth5f.md). The LIT's list of commentators (Koethe, Adams, Arpaly, Haidt) is unverified: the front matter was not read.
 
 ## Limitations
 
