@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full (NOTE-tmppa0w2), from the magazine''s web page.'
+status_note: 'read 2026-11-13 in full ([NOTE-tmppa0w2](../notes.d/NOTE-tmppa0w2.md)), from the magazine''s web page.'
 title: 'The Ethics of Attention in an Age of Distraction'
 version: 1
 history:
@@ -30,14 +30,14 @@ keywords:
 implementations: []
 summary: >-
   Brian Dijkema (2015), a review of The World Beyond Your Head in Comment
-  (Cardus). Read in full (NOTE-tmppa0w2). Reports, with block quotations
+  (Cardus). Read in full ([NOTE-tmppa0w2](../notes.d/NOTE-tmppa0w2.md)). Reports, with block quotations
   from the book, Crawford's diagnosis that modern epistemology relocated
   truth "inside our own head" and left attention open to those who
   monopolize it, and his remedy, "an ecology of attention" in communities
   of skilled practice where "competence rests on an apprehension of real
   features of the world". Dijkema adds his own argument that such an
   ethic needs authority to avoid relativism. A second-hand stand-in for
-  the book's positive account (LIT-tmpchx6j). Account: THEORY-tmpnm1gx.
+  the book's positive account ([LIT-tmpchx6j](LIT-tmpchx6j.md)). Account: [THEORY-tmpnm1gx](../theory.d/THEORY-tmpnm1gx.md).
 ---
 <!-- inactive-ok-file: LIT-tmpchx6j until 2027-05-13 — Unavailable; the book this review stands in for -->
 <!-- inactive-ok-file: THEORY-tmpnm1gx — Proposed; the account filed from this reading -->
@@ -54,4 +54,4 @@ Brian Dijkema (2015). "The Ethics of Attention in an Age of Distraction". *Comme
 
 ## Standing in the record
 
-A second-hand stand-in for the positive account of LIT-tmpchx6j, The World Beyond Your Head, which is Unavailable; the first-hand interview (LIT-tmp0gt3l) carries the diagnosis. Read in NOTE-tmppa0w2; account THEORY-tmpnm1gx.
+A second-hand stand-in for the positive account of [LIT-tmpchx6j](LIT-tmpchx6j.md), The World Beyond Your Head, which is Unavailable; the first-hand interview ([LIT-tmp0gt3l](LIT-tmp0gt3l.md)) carries the diagnosis. Read in [NOTE-tmppa0w2](../notes.d/NOTE-tmppa0w2.md); account [THEORY-tmpnm1gx](../theory.d/THEORY-tmpnm1gx.md).

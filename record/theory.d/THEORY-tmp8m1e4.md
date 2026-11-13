@@ -17,9 +17,9 @@ promote_when: >-
   mental space is monetized, places it in political economy rather than
   technology, and proposes an attentional commons.
 summary: >-
-  Crawford (2017), an interview read in full in NOTE-tmpp5kql. A
+  Crawford (2017), an interview read in full in [NOTE-tmpp5kql](../notes.d/NOTE-tmpp5kql.md). A
   first-hand stand-in for the diagnosis of The World Beyond Your Head
-  (LIT-tmpchx6j). Corroborates CLAIM-tmpkjv7u as a reported case: smart
+  ([LIT-tmpchx6j](../literature.d/LIT-tmpchx6j.md)). Corroborates [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md) as a reported case: smart
   cities whose controllers hold discretion over captive, dependent
   citizens.
 ---
@@ -34,7 +34,7 @@ Crawford: "today attention has become a collective problem – a cultural one - 
 
 ## Evidence
 
-The reading in NOTE-tmpp5kql, results 1–7.
+The reading in [NOTE-tmpp5kql](../notes.d/NOTE-tmpp5kql.md), results 1–7.
 
 ## What it does not say
 

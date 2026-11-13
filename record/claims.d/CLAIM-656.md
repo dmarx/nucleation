@@ -288,4 +288,4 @@ Crawford's The World Beyond Your Head ([LIT-tmpchx6j](../literature.d/LIT-tmpchx
 
 ## Note of 2026-11-13: Crawford's interview, read
 
-Crawford's 2017 interview (THEORY-tmp8m1e4), a stand-in for The World Beyond Your Head, shares this claim's premise, that attention is the resource monetized: "people are a captive audience and that their mental space could be monetized". It says nothing of optimization or clickbait, and puts the problem in "political economy", not technology. No relation; no change.
+Crawford's 2017 interview ([THEORY-tmp8m1e4](../theory.d/THEORY-tmp8m1e4.md)), a stand-in for The World Beyond Your Head, shares this claim's premise, that attention is the resource monetized: "people are a captive audience and that their mental space could be monetized". It says nothing of optimization or clickbait, and puts the problem in "political economy", not technology. No relation; no change.

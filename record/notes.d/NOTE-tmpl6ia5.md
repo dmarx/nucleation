@@ -23,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: LIT-tmplpkge until 2027-05-13 — Unavailable; the book this essay partly stands in for -->
-<!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpkjv7u CLAIM-tmpsmg1c THEORY-tmpt6mee THEORY-tmpt34ma — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpkjv7u CLAIM-tmpsmg1c THEORY-tmpt6mee — Proposed; cited with its standing -->
 
 # NOTE-tmpl6ia5: Vallor (2024) — The Danger Of Superhuman AI Is Not What You Think
 
@@ -52,14 +52,14 @@ Human intelligence is not reducible to task performance. Self-descriptions shape
 
 ## Connections
 
-A thin-to-partial stand-in for LIT-tmplpkge. It carries the book's stance against "superhuman" AI, AI as a mirror of minds lacking their substance, the danger as devaluation of agency and self-understanding, and reclamation. It does not carry the mirror's backward orientation (trained on past data, reflecting past errors), moral deskilling, practical wisdom and technomoral virtue, or the programme of self-renewal in detail. Adewuyi's report that AI "mirrors past human data" (THEORY-tmpt6mee) is only glancingly supported here ("tools we’ve built to mirror them"). For deskilling, the CyCon paper (LIT-tmpcm4m7) stands in.
+A thin-to-partial stand-in for [LIT-tmplpkge](../literature.d/LIT-tmplpkge.md). It carries the book's stance against "superhuman" AI, AI as a mirror of minds lacking their substance, the danger as devaluation of agency and self-understanding, and reclamation. It does not carry the mirror's backward orientation (trained on past data, reflecting past errors), moral deskilling, practical wisdom and technomoral virtue, or the programme of self-renewal in detail. Adewuyi's report that AI "mirrors past human data" ([THEORY-tmpt6mee](../theory.d/THEORY-tmpt6mee.md)) is only glancingly supported here ("tools we’ve built to mirror them"). For deskilling, the CyCon paper ([LIT-tmpcm4m7](../literature.d/LIT-tmpcm4m7.md)) stands in.
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql**: support in spirit only. Result 6 is a rule for which tasks to hand over, not a trajectory argument. No relation.
-- **CLAIM-tmpkjv7u**: leaves it open; the ideology is impersonal and no controllers' discretion is discussed.
-- **CLAIM-tmpsmg1c**: leaves it open; "I don’t think it is too late" assumes reversibility rather than arguing for caution under irreversibility.
-- **The flourishing-and-meaning line** (ADR-099): results 5 and 6 tie technology to meaning in life, a technology that "nearly supplanted a vital domain of human meaning", and meaningless tasks as those to automate. Used in the line's entries filed on 2026-11-13.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: support in spirit only. Result 6 is a rule for which tasks to hand over, not a trajectory argument. No relation.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: leaves it open; the ideology is impersonal and no controllers' discretion is discussed.
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: leaves it open; "I don’t think it is too late" assumes reversibility rather than arguing for caution under irreversibility.
+- **The flourishing-and-meaning line** ([ADR-099](../decisions.d/ADR-099.md)): results 5 and 6 tie technology to meaning in life, a technology that "nearly supplanted a vital domain of human meaning", and meaningless tasks as those to automate. Used in the line's entries filed on 2026-11-13.
 
 ## Limitations
 

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'chapter 2, book pp. 24–28, read on 2026-11-13 (NOTE-tmpzc2v0, Skimmed) in the publisher-permitted excerpt hosted by the New York Times, graphics8.nytimes.com/packages/pdf/books/You-Are-Not-a-Gadget_excerpt.pdf, reached through the Edge page the earlier status note named as a lead (edge.org/node/23222). No lawful copy of the whole book was found on 2026-11-13. Lanier''s 2000 essay "One Half a Manifesto" (LIT-tmpgxxnv) still stands in for the stance where the excerpt is silent.'
+status_note: 'chapter 2, book pp. 24–28, read on 2026-11-13 ([NOTE-tmpzc2v0](../notes.d/NOTE-tmpzc2v0.md), Skimmed) in the publisher-permitted excerpt hosted by the New York Times, graphics8.nytimes.com/packages/pdf/books/You-Are-Not-a-Gadget_excerpt.pdf, reached through the Edge page the earlier status note named as a lead (edge.org/node/23222). No lawful copy of the whole book was found on 2026-11-13. Lanier''s 2000 essay "One Half a Manifesto" ([LIT-tmpgxxnv](LIT-tmpgxxnv.md)) still stands in for the stance where the excerpt is silent.'
 title: 'You Are Not a Gadget: A Manifesto'
 version: 4
 history:
@@ -55,12 +55,12 @@ keywords:
 implementations: []
 summary: >-
   Jaron Lanier (2010). You Are Not a Gadget. Knopf. Chapter 2 read in the
-  publisher's excerpt (NOTE-tmpzc2v0, Skimmed): cybernetic totalism
+  publisher's excerpt ([NOTE-tmpzc2v0](../notes.d/NOTE-tmpzc2v0.md), Skimmed): cybernetic totalism
   "applies metaphors from certain strains of computer science to people
   and the rest of reality"; "The digital hive is growing at the expense
   of individuality"; ideas "can be spread in the designs of software";
-  "Information is alienated experience." Account: THEORY-tmpl7lm5. The
-  essay "One Half a Manifesto" (LIT-tmpgxxnv, THEORY-tmpvajjd) carries
+  "Information is alienated experience." Account: [THEORY-tmpl7lm5](../theory.d/THEORY-tmpl7lm5.md). The
+  essay "One Half a Manifesto" ([LIT-tmpgxxnv](LIT-tmpgxxnv.md), [THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md)) carries
   the same stance. Whether the book criticizes digital business models,
   as the exchange said, is unverified.
 ---
@@ -73,7 +73,7 @@ Jaron Lanier (2010). *You Are Not a Gadget: A Manifesto*. New York: Alfred A. Kn
 
 ## Key takeaways
 
-From the publisher's excerpt of chapter 2 (NOTE-tmpzc2v0).
+From the publisher's excerpt of chapter 2 ([NOTE-tmpzc2v0](../notes.d/NOTE-tmpzc2v0.md)).
 
 - Cybernetic totalism "applies metaphors from certain strains of computer science to people and the rest of reality", and Lanier hopes it "will not be locked in".
 - "Since implementation speaks louder than words, ideas can be spread in the designs of software."
@@ -90,4 +90,4 @@ Unavailable. Stand-in: [LIT-tmpgxxnv](LIT-tmpgxxnv.md), read in [NOTE-tmpufafo](
 
 ## Reading of 2026-11-13: the publisher's excerpt
 
-At the owner's request to "look for adjacent stand ins for unreachable/unfetched work": the Edge page named in the earlier status note links the publisher's excerpt of chapter 2, pp. 24–28, read in full (NOTE-tmpzc2v0, Skimmed; account THEORY-tmpl7lm5). Active. Lock-in is named only in the chapter's first sentence; chapter 1, where the book argues it, was not reached.
+At the owner's request to "look for adjacent stand ins for unreachable/unfetched work": the Edge page named in the earlier status note links the publisher's excerpt of chapter 2, pp. 24–28, read in full ([NOTE-tmpzc2v0](../notes.d/NOTE-tmpzc2v0.md), Skimmed; account [THEORY-tmpl7lm5](../theory.d/THEORY-tmpl7lm5.md)). Active. Lock-in is named only in the chapter's first sentence; chapter 1, where the book argues it, was not reached.

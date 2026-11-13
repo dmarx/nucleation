@@ -24,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpru6bh until 2027-05-13 — Unfetched; the paper this one stands in for -->
 <!-- inactive-ok-file: LIT-tmplpkge until 2027-05-13 — Unavailable; the book this paper partly stands in for -->
-<!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpsmg1c CLAIM-558 CASE-tmpf71w4 THEORY-tmpt6mee THEORY-tmpm76rc THEORY-343 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 CLAIM-tmpsmg1c CASE-tmpf71w4 THEORY-tmpt6mee THEORY-343 — Proposed; cited with its standing -->
 
 # NOTE-tmpgn1lo: Vallor (2013) — The Future of Military Virtue
 
@@ -55,16 +55,16 @@ Aristotelian virtue ethics: virtue is habituated and orchestrated by practical w
 
 ## Connections
 
-A stand-in for LIT-tmpru6bh. It carries the definition and mechanism of moral deskilling, habituation and practical wisdom, the analogy to economic deskilling (Braverman), the empirical status of any deskilling claim, upskilling as the alternative, and the military domain the 2015 abstract names. It does not carry the 2015 paper's treatment of new media and social robotics, its framing of the "ambiguous future of character", or its fuller account of upskilling. For LIT-tmplpkge it carries the deskilling thesis first-hand, eleven years earlier, and not the mirror, AI as backward-looking, or self-renewal. It confirms first-hand what Adewuyi reports of Vallor (THEORY-tmpt6mee).
+A stand-in for [LIT-tmpru6bh](../literature.d/LIT-tmpru6bh.md). It carries the definition and mechanism of moral deskilling, habituation and practical wisdom, the analogy to economic deskilling (Braverman), the empirical status of any deskilling claim, upskilling as the alternative, and the military domain the 2015 abstract names. It does not carry the 2015 paper's treatment of new media and social robotics, its framing of the "ambiguous future of character", or its fuller account of upskilling. For [LIT-tmplpkge](../literature.d/LIT-tmplpkge.md) it carries the deskilling thesis first-hand, eleven years earlier, and not the mirror, AI as backward-looking, or self-renewal. It confirms first-hand what Adewuyi reports of Vallor ([THEORY-tmpt6mee](../theory.d/THEORY-tmpt6mee.md)).
 
-The record held the same structure in engineering: Ahn's reading of Bainbridge (THEORY-1522), that automation recalls the operator at failure with skills "degraded from disuse", is result 7 outside ethics. NOTE-1612 (procedural skill decay in emergency medicine) is the empirical side of the decay premise, which result 4 says must be settled case by case. THEORY-343 (people offload cognition by their evaluation of demand, and offloading can lower memory) is a laboratory neighbour, about memory for what was offloaded, not skill.
+The record held the same structure in engineering: Ahn's reading of Bainbridge ([THEORY-1522](../theory.d/THEORY-1522.md)), that automation recalls the operator at failure with skills "degraded from disuse", is result 7 outside ethics. [NOTE-1612](NOTE-1612.md) (procedural skill decay in emergency medicine) is the empirical side of the decay premise, which result 4 says must be settled case by case. [THEORY-343](../theory.d/THEORY-343.md) (people offload cognition by their evaluation of demand, and offloading can lower memory) is a laboratory neighbour, about memory for what was offloaded, not skill.
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql** (capability assessed as a trajectory): first-hand support for the premise. The claim needs capacity "learned by doing" that "decays with disuse" and support that "does the work"; results 1, 2 and 7 give that for moral skill. Result 5 draws the claim's consequence in Vallor's terms: equal or better present outcomes do not settle the evaluation. Result 4 matches the claim's own "Not defeated by evidence that a given technology does not deskill its users". Result 8 is capacity-first support in practice. Corroborates.
-- **CLAIM-tmpbypt7**: weak. Once the practice stops, the expertise to resume it or override the machine is gone (result 7), which removes the option of returning to unaided practice; Vallor does not frame it as an option set. No relation.
-- **CLAIM-tmpsmg1c**: support in spirit. Lost moral skill is hard to restore without practice and exemplars, a reason for restraint before deployment; no burden rule. No relation.
-- **CLAIM-558** (decay with disuse, held from the clinical evidence) and **CASE-tmpf71w4** (the proposed study of substitutive against capacity-first assistance): result 4 is the reason the study is needed.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)** (capability assessed as a trajectory): first-hand support for the premise. The claim needs capacity "learned by doing" that "decays with disuse" and support that "does the work"; results 1, 2 and 7 give that for moral skill. Result 5 draws the claim's consequence in Vallor's terms: equal or better present outcomes do not settle the evaluation. Result 4 matches the claim's own "Not defeated by evidence that a given technology does not deskill its users". Result 8 is capacity-first support in practice. Corroborates.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: weak. Once the practice stops, the expertise to resume it or override the machine is gone (result 7), which removes the option of returning to unaided practice; Vallor does not frame it as an option set. No relation.
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: support in spirit. Lost moral skill is hard to restore without practice and exemplars, a reason for restraint before deployment; no burden rule. No relation.
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (decay with disuse, held from the clinical evidence) and **[CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md)** (the proposed study of substitutive against capacity-first assistance): result 4 is the reason the study is needed.
 
 ## Limitations
 

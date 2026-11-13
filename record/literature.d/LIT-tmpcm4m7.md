@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full (NOTE-tmpgn1lo), from the publisher''s own PDF at ccdcoe.org (NATO CCD COE), which permits copies for personal or educational non-commercial use. Other copies at scholarcommons.scu.edu/phi/1 and core.ac.uk were not tried, both hosts having served Cloudflare challenges earlier on 2026-11-13.'
+status_note: 'read 2026-11-13 in full ([NOTE-tmpgn1lo](../notes.d/NOTE-tmpgn1lo.md)), from the publisher''s own PDF at ccdcoe.org (NATO CCD COE), which permits copies for personal or educational non-commercial use. Other copies at scholarcommons.scu.edu/phi/1 and core.ac.uk were not tried, both hosts having served Cloudflare challenges earlier on 2026-11-13.'
 title: 'The Future of Military Virtue: Autonomous Systems and the Moral Deskilling of the Military'
 version: 1
 history:
@@ -38,16 +38,16 @@ implementations: []
 summary: >-
   Shannon Vallor (2013), in the proceedings of the 5th International
   Conference on Cyber Conflict (CyCon), NATO CCD COE. Read in full
-  (NOTE-tmpgn1lo). Virtue "presupposes repeated practice and development
+  ([NOTE-tmpgn1lo](../notes.d/NOTE-tmpgn1lo.md)). Virtue "presupposes repeated practice and development
   of skills of moral analysis, deliberation and action"; automated
   warfare can make those practices redundant, "with a resulting
   devaluation and/or loss of these skills", even with a human on the
   loop, since a supervisor worthy to override a decision "must have
   acquired expertise in making decisions of the very same or a similar
   kind". Whether a technology deskills "is an empirical question". A
-  first-hand stand-in for LIT-tmpru6bh's thesis and for LIT-tmplpkge's
-  deskilling thesis. Corroborates CLAIM-tmp6wuql. Account:
-  THEORY-tmpm76rc.
+  first-hand stand-in for [LIT-tmpru6bh](LIT-tmpru6bh.md)'s thesis and for [LIT-tmplpkge](LIT-tmplpkge.md)'s
+  deskilling thesis. Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md). Account:
+  [THEORY-tmpm76rc](../theory.d/THEORY-tmpm76rc.md).
 ---
 <!-- inactive-ok-file: LIT-tmpru6bh until 2027-05-13 — Unfetched; the paper this one stands in for -->
 <!-- inactive-ok-file: LIT-tmplpkge until 2027-05-13 — Unavailable; the book this paper partly stands in for -->
@@ -65,4 +65,4 @@ Shannon Vallor (2013). "The Future of Military Virtue: Autonomous Systems and th
 
 ## Standing in the record
 
-A first-hand stand-in for LIT-tmpru6bh (Unfetched): strong for its thesis and mechanism, partial for its scope, since the 2015 paper also treats new media and social robotics. A second stand-in for LIT-tmplpkge (Unavailable), for its deskilling thesis only, beside Adewuyi's review (LIT-tmpe83ys) and Vallor's Noema essay (LIT-tmpqx6sc). Read in NOTE-tmpgn1lo; account THEORY-tmpm76rc.
+A first-hand stand-in for [LIT-tmpru6bh](LIT-tmpru6bh.md) (Unfetched): strong for its thesis and mechanism, partial for its scope, since the 2015 paper also treats new media and social robotics. A second stand-in for [LIT-tmplpkge](LIT-tmplpkge.md) (Unavailable), for its deskilling thesis only, beside Adewuyi's review ([LIT-tmpe83ys](LIT-tmpe83ys.md)) and Vallor's Noema essay ([LIT-tmpqx6sc](LIT-tmpqx6sc.md)). Read in [NOTE-tmpgn1lo](../notes.d/NOTE-tmpgn1lo.md); account [THEORY-tmpm76rc](../theory.d/THEORY-tmpm76rc.md).

@@ -15,8 +15,8 @@ promote_when: >-
   individuality, and calls information alienated experience.
 summary: >-
   Lanier (2010), You Are Not a Gadget, read in the publisher's excerpt of
-  chapter 2 (NOTE-tmpzc2v0, Skimmed). The book's own statement of the
-  stance its predecessor essay states (THEORY-tmpvajjd).
+  chapter 2 ([NOTE-tmpzc2v0](../notes.d/NOTE-tmpzc2v0.md), Skimmed). The book's own statement of the
+  stance its predecessor essay states ([THEORY-tmpvajjd](THEORY-tmpvajjd.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmpvajjd — Proposed; cited with its standing -->
 <!-- inactive-ok-file: NOTE-tmpzc2v0 — Skimmed; the publisher's excerpt -->
@@ -29,7 +29,7 @@ Lanier: cybernetic totalism "applies metaphors from certain strains of computer 
 
 ## Evidence
 
-The excerpt read in NOTE-tmpzc2v0, results 1–5.
+The excerpt read in [NOTE-tmpzc2v0](../notes.d/NOTE-tmpzc2v0.md), results 1–5.
 
 ## What it does not say
 

@@ -124,7 +124,7 @@ From the two-page excerpt read on 2026-11-13 ([NOTE-tmp8ceuj](../notes.d/NOTE-tm
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. The exchange's source for "convivial tools" and "radical monopoly", the case where one institutionalized way of meeting a need displaces the others so that a technology becomes compulsory without any rule requiring it (A13 §II). That is the mechanism and the measure of [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md), and the dependence-without-domination question of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).
 
-Stand-in of 2026-11-13: Energy and Equity (LIT-tmpb6b92), for what the excerpt does not reach on radical monopoly (with more cases than the excerpt) and on the threshold of reversal. Not for the burial case or "inaccessible or unimaginable", which rest on Cayley (THEORY-tmpxwo9k). Mitcham's paper on the book is located and Unfetched; see the status note.
+Stand-in of 2026-11-13: Energy and Equity ([LIT-tmpb6b92](LIT-tmpb6b92.md)), for what the excerpt does not reach on radical monopoly (with more cases than the excerpt) and on the threshold of reversal. Not for the burial case or "inaccessible or unimaginable", which rest on Cayley ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)). Mitcham's paper on the book is located and Unfetched; see the status note.
 
 ## Reading of 2026-11-13
 
@@ -143,4 +143,4 @@ when it can be fetched.
 
 ## Stand-in of 2026-11-13: Energy and Equity
 
-Read in full (LIT-tmpb6b92, NOTE-tmp0cqdl, Read; THEORY-tmpyot08). It corroborates CLAIM-tmpbypt7 and qualifies "without any rule": in Illich's shoe and school cases teachers, officials and compulsory-schooling laws enforce the exclusion of the non-adopter (ARG-tmpn3me8). It bounds CLAIM-tmpkjv7u, a radical monopoly being "hidden, entrenched, and structuring", with no one holding it. Burial and "unimaginable" are still not reached.
+Read in full ([LIT-tmpb6b92](LIT-tmpb6b92.md), [NOTE-tmp0cqdl](../notes.d/NOTE-tmp0cqdl.md), Read; [THEORY-tmpyot08](../theory.d/THEORY-tmpyot08.md)). It corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md) and qualifies "without any rule": in Illich's shoe and school cases teachers, officials and compulsory-schooling laws enforce the exclusion of the non-adopter ([ARG-tmpn3me8](../arguments.d/ARG-tmpn3me8.md)). It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), a radical monopoly being "hidden, entrenched, and structuring", with no one holding it. Burial and "unimaginable" are still not reached.

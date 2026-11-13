@@ -17,10 +17,10 @@ promote_when: >-
   definition of radical monopoly by the creation and shaping of the need,
   and the division between social analysis and politics, as Illich's.
 summary: >-
-  Illich (1974), Energy and Equity, read in full in NOTE-tmp0cqdl. A
-  stand-in for what the excerpt of Tools for Conviviality (LIT-tmp2tehj)
-  does not reach. Corroborates CLAIM-tmpbypt7 and qualifies "without any
-  rule" (ARG-tmpn3me8); bounds CLAIM-tmpkjv7u.
+  Illich (1974), Energy and Equity, read in full in [NOTE-tmp0cqdl](../notes.d/NOTE-tmp0cqdl.md). A
+  stand-in for what the excerpt of Tools for Conviviality ([LIT-tmp2tehj](../literature.d/LIT-tmp2tehj.md))
+  does not reach. Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md) and qualifies "without any
+  rule" ([ARG-tmpn3me8](../arguments.d/ARG-tmpn3me8.md)); bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-tmpn3me8 — Proposed; cited with its standing -->
@@ -33,7 +33,7 @@ Illich: "Past a certain threshold of energy consumption, the transportation indu
 
 ## Evidence
 
-The reading in NOTE-tmp0cqdl, results 2–8.
+The reading in [NOTE-tmp0cqdl](../notes.d/NOTE-tmp0cqdl.md), results 2–8.
 
 ## What it does not say
 

@@ -16,10 +16,10 @@ promote_when: >-
   deskilling and the human on the loop (PDF pp. 1–12) confirms each
   part as Vallor's.
 summary: >-
-  Vallor (2013), read in full in NOTE-tmpgn1lo. First-hand stand-in for
-  her 2015 paper (LIT-tmpru6bh) and for the deskilling thesis of The AI
-  Mirror (LIT-tmplpkge). Corroborates CLAIM-tmp6wuql's premise
-  first-hand, which Adewuyi's review (THEORY-tmpt6mee) gave second-hand.
+  Vallor (2013), read in full in [NOTE-tmpgn1lo](../notes.d/NOTE-tmpgn1lo.md). First-hand stand-in for
+  her 2015 paper ([LIT-tmpru6bh](../literature.d/LIT-tmpru6bh.md)) and for the deskilling thesis of The AI
+  Mirror ([LIT-tmplpkge](../literature.d/LIT-tmplpkge.md)). Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise
+  first-hand, which Adewuyi's review ([THEORY-tmpt6mee](THEORY-tmpt6mee.md)) gave second-hand.
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql — Proposed; cited with its standing -->
 <!-- inactive-ok-file: LIT-tmpru6bh until 2027-05-13 — Unfetched; the paper this one stands in for -->
@@ -34,7 +34,7 @@ Vallor: virtue "presupposes repeated practice and development of skills of moral
 
 ## Evidence
 
-The reading in NOTE-tmpgn1lo, results 1–8. The same structure in engineering is THEORY-1522 (Ahn on Bainbridge).
+The reading in [NOTE-tmpgn1lo](../notes.d/NOTE-tmpgn1lo.md), results 1–8. The same structure in engineering is [THEORY-1522](THEORY-1522.md) (Ahn on Bainbridge).
 
 ## What it does not say
 

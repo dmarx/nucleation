@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full (NOTE-tmpl6ia5), from the essay''s page at noemamag.com. A second Vallor text, her New Humanist speech "How AI prevents progress" (newhumanist.org.uk/2024/07/31/how-ai-prevents-progress/), served HTTP 403 with a challenge marker on 2026-11-13 and was not retried or registered.'
+status_note: 'read 2026-11-13 in full ([NOTE-tmpl6ia5](../notes.d/NOTE-tmpl6ia5.md)), from the essay''s page at noemamag.com. A second Vallor text, her New Humanist speech "How AI prevents progress" (newhumanist.org.uk/2024/07/31/how-ai-prevents-progress/), served HTTP 403 with a challenge marker on 2026-11-13 and was not retried or registered.'
 title: 'The Danger Of Superhuman AI Is Not What You Think'
 version: 1
 history:
@@ -29,14 +29,14 @@ keywords:
 - 'Borgmann'
 implementations: []
 summary: >-
-  Shannon Vallor (2024), Noema. Read in full (NOTE-tmpl6ia5). Calling AI
+  Shannon Vallor (2024), Noema. Read in full ([NOTE-tmpl6ia5](../notes.d/NOTE-tmpl6ia5.md)). Calling AI
   "superhuman" is an ideology that redefines intelligence as
   economically valuable work, "fosters the growing devaluation of human
   agency and autonomy" and "slowly corrodes our own self-understanding";
   after Borgmann, the poverty of such tools may prompt a reclamation of
   humane capacities, and AI should help with "the most meaningless tasks
   in our lives". A thin-to-partial stand-in for the stance of
-  LIT-tmplpkge, not for its deskilling thesis. Account: THEORY-tmpt34ma.
+  [LIT-tmplpkge](LIT-tmplpkge.md), not for its deskilling thesis. Account: [THEORY-tmpt34ma](../theory.d/THEORY-tmpt34ma.md).
 ---
 <!-- inactive-ok-file: LIT-tmplpkge until 2027-05-13 — Unavailable; the book this essay partly stands in for -->
 <!-- inactive-ok-file: THEORY-tmpt34ma — Proposed; the account filed from this reading -->
@@ -53,4 +53,4 @@ Shannon Vallor (2024). "The Danger Of Superhuman AI Is Not What You Think". *Noe
 
 ## Standing in the record
 
-A thin-to-partial stand-in for LIT-tmplpkge, The AI Mirror, which is Unavailable: it carries the book's humanistic stance, AI as a mirror lacking the substance of the minds it mirrors, and reclamation; not the mirror's backward orientation, moral deskilling or practical wisdom. For deskilling the CyCon paper (LIT-tmpcm4m7) is the better stand-in. Read in NOTE-tmpl6ia5; account THEORY-tmpt34ma.
+A thin-to-partial stand-in for [LIT-tmplpkge](LIT-tmplpkge.md), The AI Mirror, which is Unavailable: it carries the book's humanistic stance, AI as a mirror lacking the substance of the minds it mirrors, and reclamation; not the mirror's backward orientation, moral deskilling or practical wisdom. For deskilling the CyCon paper ([LIT-tmpcm4m7](LIT-tmpcm4m7.md)) is the better stand-in. Read in [NOTE-tmpl6ia5](../notes.d/NOTE-tmpl6ia5.md); account [THEORY-tmpt34ma](../theory.d/THEORY-tmpt34ma.md).

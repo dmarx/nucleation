@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full (NOTE-tmpskck7) from a course reading page, University of Maryland INST 466, cedi.umd.edu/?p=5540, which reproduces the article with its JSTOR source line for class annotation; a course page, lawful under ADR-074, read and not redistributed. No page numbers in that copy. The JSTOR copy was not tried.'
+status_note: 'read 2026-11-13 in full ([NOTE-tmpskck7](../notes.d/NOTE-tmpskck7.md)) from a course reading page, University of Maryland INST 466, cedi.umd.edu/?p=5540, which reproduces the article with its JSTOR source line for class annotation; a course page, lawful under [ADR-074](../decisions.d/ADR-074.md), read and not redistributed. No page numbers in that copy. The JSTOR copy was not tried.'
 title: 'Do Artifacts Have Politics?'
 version: 1
 history:
@@ -32,7 +32,7 @@ keywords:
 implementations: []
 summary: >-
   Langdon Winner (1980), "Do Artifacts Have Politics?", Daedalus 109(1),
-  121–136. Read in full (NOTE-tmpskck7). Artifacts embody power in two
+  121–136. Read in full ([NOTE-tmpskck7](../notes.d/NOTE-tmpskck7.md)). Artifacts embody power in two
   ways: a design or arrangement settles an issue in a community (Moses's
   low parkway overpasses; the tomato harvester), and "inherently
   political technologies" require, or are strongly compatible with,
@@ -41,9 +41,9 @@ summary: >-
   introduced, and "the original flexibility vanishes for all practical
   purposes once the initial commitments are made". Opens with Mumford's
   authoritarian and democratic technics, a partial stand-in for
-  LIT-tmpkv5kx. Corroborates CLAIM-tmpsmg1c (ARG-tmp5juxo) and
-  CLAIM-tmpbypt7. Account: THEORY-tmpvlt2n, beside Feenberg's
-  THEORY-tmpa59p3.
+  [LIT-tmpkv5kx](LIT-tmpkv5kx.md). Corroborates [CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md) ([ARG-tmp5juxo](../arguments.d/ARG-tmp5juxo.md)) and
+  [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md). Account: [THEORY-tmpvlt2n](../theory.d/THEORY-tmpvlt2n.md), beside Feenberg's
+  [THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md).
 ---
 <!-- inactive-ok-file: LIT-tmpkv5kx until 2027-05-13 — Unavailable; the book this essay partly stands in for -->
 <!-- inactive-ok-file: THEORY-tmpvlt2n THEORY-tmpa59p3 CLAIM-tmpsmg1c CLAIM-tmpbypt7 ARG-tmp5juxo — Proposed; cited with its standing -->
@@ -60,4 +60,4 @@ Langdon Winner (1980). "Do Artifacts Have Politics?" *Daedalus* 109(1), "Modern 
 
 ## Standing in the record
 
-A partial stand-in for LIT-tmpkv5kx, Mumford's The Myth of the Machine, which is Unavailable: it carries the distinction of authoritarian and democratic technics in one sentence of Mumford's own (from the 1964 essay, not the book) and sharpens it; it does not carry the megamachine. First-hand for Winner's argument. Read in NOTE-tmpskck7; account THEORY-tmpvlt2n.
+A partial stand-in for [LIT-tmpkv5kx](LIT-tmpkv5kx.md), Mumford's The Myth of the Machine, which is Unavailable: it carries the distinction of authoritarian and democratic technics in one sentence of Mumford's own (from the 1964 essay, not the book) and sharpens it; it does not carry the megamachine. First-hand for Winner's argument. Read in [NOTE-tmpskck7](../notes.d/NOTE-tmpskck7.md); account [THEORY-tmpvlt2n](../theory.d/THEORY-tmpvlt2n.md).

@@ -28,13 +28,13 @@ summary: >-
   individuality; ideas spread through software design; and information
   as alienated experience.
 ---
-<!-- inactive-ok-file: THEORY-tmpvajjd THEORY-tmpl7lm5 CLAIM-tmpbypt7 CLAIM-tmpsmg1c CLAIM-tmp6wuql CLAIM-tmpkjv7u THEORY-863 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: THEORY-tmpvajjd CLAIM-tmpbypt7 CLAIM-tmpsmg1c CLAIM-tmp6wuql CLAIM-tmpkjv7u — Proposed; cited with its standing -->
 
 # NOTE-tmpzc2v0: Lanier (2010) — You Are Not a Gadget, the publisher's excerpt
 
 ## Contribution
 
-The book's own words, five pages of them, on the stance its predecessor essay ("One Half a Manifesto", LIT-tmpgxxnv) stated: cybernetic totalism named and opposed by a technologist, and the claim that philosophies spread through software design.
+The book's own words, five pages of them, on the stance its predecessor essay ("One Half a Manifesto", [LIT-tmpgxxnv](../literature.d/LIT-tmpgxxnv.md)) stated: cybernetic totalism named and opposed by a technologist, and the claim that philosophies spread through software design.
 
 ## Key results
 
@@ -58,14 +58,14 @@ Persons, not information, are where meaning lies; design choices carry and sprea
 
 ## Connections
 
-The book itself, not a neighbour. It confirms that "One Half a Manifesto" (LIT-tmpgxxnv, THEORY-tmpvajjd) carries the book's stance: chapter 2 opens with the same "cybernetic totalism". Lock-in is named in the first sentence only; the book's chapter on it (chapter 1, on MIDI) is not in the excerpt. The New York Times review on the Edge page says Lanier warns that design may be "frozen into place by a process known as lock-in"; that is the reviewer's report, not text read here.
+The book itself, not a neighbour. It confirms that "One Half a Manifesto" ([LIT-tmpgxxnv](../literature.d/LIT-tmpgxxnv.md), [THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md)) carries the book's stance: chapter 2 opens with the same "cybernetic totalism". Lock-in is named in the first sentence only; the book's chapter on it (chapter 1, on MIDI) is not in the excerpt. The New York Times review on the Edge page says Lanier warns that design may be "frozen into place by a process known as lock-in"; that is the reviewer's report, not text read here.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: leaves it open in the excerpt; lock-in is named, not argued. Chapter 1 would bear on it, and was not reached.
-- **CLAIM-tmpsmg1c**: leaves it open; "I hope will not be locked in" presupposes the irreversibility the claim prices, nothing more.
-- **CLAIM-tmp6wuql**: leaves it open; result 4 is extra work imposed by software, not capacity lost.
-- **CLAIM-tmpkjv7u**: leaves it open.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: leaves it open in the excerpt; lock-in is named, not argued. Chapter 1 would bear on it, and was not reached.
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: leaves it open; "I hope will not be locked in" presupposes the irreversibility the claim prices, nothing more.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: leaves it open; result 4 is extra work imposed by software, not capacity lost.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: leaves it open.
 - The exchange's report that the book criticizes "specific digital business models" (A5) is not in the excerpt and remains unverified.
 
 ## Limitations

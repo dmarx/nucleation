@@ -54,20 +54,20 @@
 - Stand-ins of 2026-11-13, at the owner's request to "look for adjacent
   stand ins for unreachable/unfetched work": six neighbours registered
   and read, each with a NOTE and a THEORY: Crawford's 2017 interview and
-  Dijkema's review for The World Beyond Your Head (LIT-tmp0gt3l,
-  LIT-tmpnno4c), Winner's "Do Artifacts Have Politics?" for The Myth of
-  the Machine (LIT-tmpko07b), Vallor's CyCon 2013 paper and her Noema
-  essay for her deskilling paper and The AI Mirror (LIT-tmpcm4m7,
-  LIT-tmpqx6sc), and Illich's Energy and Equity for what the excerpt of
-  Tools for Conviviality does not reach (LIT-tmpb6b92). You Are Not a
-  Gadget read in its publisher's excerpt and made Active (NOTE-tmpzc2v0,
-  THEORY-tmpl7lm5). Two ARGs: Winner supports the irreversibility
-  burden's premise, not its rule (ARG-tmp5juxo); Energy and Equity
+  Dijkema's review for The World Beyond Your Head ([LIT-tmp0gt3l](record/literature.d/LIT-tmp0gt3l.md),
+  [LIT-tmpnno4c](record/literature.d/LIT-tmpnno4c.md)), Winner's "Do Artifacts Have Politics?" for The Myth of
+  the Machine ([LIT-tmpko07b](record/literature.d/LIT-tmpko07b.md)), Vallor's CyCon 2013 paper and her Noema
+  essay for her deskilling paper and The AI Mirror ([LIT-tmpcm4m7](record/literature.d/LIT-tmpcm4m7.md),
+  [LIT-tmpqx6sc](record/literature.d/LIT-tmpqx6sc.md)), and Illich's Energy and Equity for what the excerpt of
+  Tools for Conviviality does not reach ([LIT-tmpb6b92](record/literature.d/LIT-tmpb6b92.md)). You Are Not a
+  Gadget read in its publisher's excerpt and made Active ([NOTE-tmpzc2v0](record/notes.d/NOTE-tmpzc2v0.md),
+  [THEORY-tmpl7lm5](record/theory.d/THEORY-tmpl7lm5.md)). Two ARGs: Winner supports the irreversibility
+  burden's premise, not its rule ([ARG-tmp5juxo](record/arguments.d/ARG-tmp5juxo.md)); Energy and Equity
   qualifies "without any rule" in the compulsion claim, the exclusion
-  being enforced by gatekeepers and law (ARG-tmpn3me8). Dated notes on
-  the four claims, CLAIM-656, Feenberg's THEORY-tmpa59p3 and THEORY-1522.
+  being enforced by gatekeepers and law ([ARG-tmpn3me8](record/arguments.d/ARG-tmpn3me8.md)). Dated notes on
+  the four claims, [CLAIM-656](record/claims.d/CLAIM-656.md), Feenberg's [THEORY-tmpa59p3](record/theory.d/THEORY-tmpa59p3.md) and [THEORY-1522](record/theory.d/THEORY-1522.md).
   Mitcham's paper on Tools for Conviviality located and Unfetched.
-- The branch's entries tagged `philosophy-of-technology` (ADR-098, its
+- The branch's entries tagged `philosophy-of-technology` ([ADR-098](record/decisions.d/ADR-098.md), its
   second application): first where technology is the whole subject (35:
   Ellul, Illich, Mumford, Postman, Morozov, Kate Crawford, Feenberg,
   Vallor's deskilling paper and The AI Mirror with its review, Hui,

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full (NOTE-tmpp5kql), from the English PDF on the Institut Veolia site, the publisher of Field Actions Science Reports; metadata from the OpenEdition article page. CC BY 4.0.'
+status_note: 'read 2026-11-13 in full ([NOTE-tmpp5kql](../notes.d/NOTE-tmpp5kql.md)), from the English PDF on the Institut Veolia site, the publisher of Field Actions Science Reports; metadata from the OpenEdition article page. CC BY 4.0.'
 title: 'Smart cities and technologies: connected or disconnected citizens? Interview with Matthew Crawford'
 version: 1
 history:
@@ -34,15 +34,15 @@ keywords:
 implementations: []
 summary: >-
   Crawford, interviewed by Ménascé (2017), Field Actions Science Reports
-  Special Issue 16, pp. 8–10. Read in full (NOTE-tmpp5kql). Attention has
+  Special Issue 16, pp. 8–10. Read in full ([NOTE-tmpp5kql](../notes.d/NOTE-tmpp5kql.md)). Attention has
   become "a collective problem" because shared spaces treat people as "a
   captive audience" whose "mental space could be monetized"; distraction
   is "a problem of political economy", not of technology in itself;
   smart cities make citizens "captive and dependent" and relieve them of
   the skills that freed attention needs; the remedy is "an attentional
   commons". A first-hand stand-in for the diagnosis of The World Beyond
-  Your Head (LIT-tmpchx6j), not its positive account. Account:
-  THEORY-tmp8m1e4.
+  Your Head ([LIT-tmpchx6j](LIT-tmpchx6j.md)), not its positive account. Account:
+  [THEORY-tmp8m1e4](../theory.d/THEORY-tmp8m1e4.md).
 ---
 <!-- inactive-ok-file: LIT-tmpchx6j until 2027-05-13 — Unavailable; the book this interview stands in for -->
 <!-- inactive-ok-file: THEORY-tmp8m1e4 — Proposed; the account filed from this reading -->
@@ -59,4 +59,4 @@ Matthew B. Crawford, interviewed by David Ménascé (2017). "Smart cities and te
 
 ## Standing in the record
 
-A first-hand stand-in for the diagnosis of LIT-tmpchx6j, The World Beyond Your Head, which is Unavailable: attention as a commons, the captive audience, distraction as political economy, environments that eliminate contingency. It does not carry the book's positive account (skilled practice, jigs, affordances, the ecology of attention), for which Dijkema's review (LIT-tmpnno4c) is a second-hand stand-in. Read in NOTE-tmpp5kql; account THEORY-tmp8m1e4.
+A first-hand stand-in for the diagnosis of [LIT-tmpchx6j](LIT-tmpchx6j.md), The World Beyond Your Head, which is Unavailable: attention as a commons, the captive audience, distraction as political economy, environments that eliminate contingency. It does not carry the book's positive account (skilled practice, jigs, affordances, the ecology of attention), for which Dijkema's review ([LIT-tmpnno4c](LIT-tmpnno4c.md)) is a second-hand stand-in. Read in [NOTE-tmpp5kql](../notes.d/NOTE-tmpp5kql.md); account [THEORY-tmp8m1e4](../theory.d/THEORY-tmp8m1e4.md).

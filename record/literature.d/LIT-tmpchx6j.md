@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy or sample found on 2026-11-13. Crawford''s NYT op-ed "The Cost of Paying Attention" (2015-03-08) was read only to the paywall (six paragraphs: attention as a resource held in common); a reprint at speakers.ca was refused by this session''s permission system and not pursued; Hedgehog Review (HTTP 403) and LA Review of Books (Cloudflare) stopped. Two stand-ins registered and read on 2026-11-13: Crawford''s interview in Field Actions Science Reports (LIT-tmp0gt3l), first-hand, for the book''s diagnosis (attention as a commons, the captive audience, distraction as political economy, environments that remove contingency); and Dijkema''s review in Comment (LIT-tmpnno4c), second-hand, for its positive account (the ecology of attention, communities of skilled practice). Neither carries jigs, affordances or the casino chapter.'
+status_note: 'no lawful copy or sample found on 2026-11-13. Crawford''s NYT op-ed "The Cost of Paying Attention" (2015-03-08) was read only to the paywall (six paragraphs: attention as a resource held in common); a reprint at speakers.ca was refused by this session''s permission system and not pursued; Hedgehog Review (HTTP 403) and LA Review of Books (Cloudflare) stopped. Two stand-ins registered and read on 2026-11-13: Crawford''s interview in Field Actions Science Reports ([LIT-tmp0gt3l](LIT-tmp0gt3l.md)), first-hand, for the book''s diagnosis (attention as a commons, the captive audience, distraction as political economy, environments that remove contingency); and Dijkema''s review in Comment ([LIT-tmpnno4c](LIT-tmpnno4c.md)), second-hand, for its positive account (the ecology of attention, communities of skilled practice). Neither carries jigs, affordances or the casino chapter.'
 title: 'The World Beyond Your Head: On Becoming an Individual in an Age of Distraction'
 version: 4
 history:
@@ -56,14 +56,14 @@ implementations: []
 summary: >-
   Matthew B. Crawford (2015). The World Beyond Your Head. FSG.
   Unavailable. Through stand-ins: the author's 2017 interview
-  (LIT-tmp0gt3l, THEORY-tmp8m1e4), first-hand: attention "a collective
+  ([LIT-tmp0gt3l](LIT-tmp0gt3l.md), [THEORY-tmp8m1e4](../theory.d/THEORY-tmp8m1e4.md)), first-hand: attention "a collective
   problem" of a captive audience, distraction "a problem of political
   economy", an "attentional commons"; and Dijkema's review
-  (LIT-tmpnno4c, THEORY-tmpnm1gx), second-hand: truth relocated "inside
+  ([LIT-tmpnno4c](LIT-tmpnno4c.md), [THEORY-tmpnm1gx](../theory.d/THEORY-tmpnm1gx.md)), second-hand: truth relocated "inside
   our own head", the remedy "an ecology of attention" in communities of
   skilled practice. A5's environments that remove the need for practical
   competence match the interview's "eliminating contingencies". Nearest
-  record entry: CLAIM-656; the interview corroborates CLAIM-tmpkjv7u as
+  record entry: [CLAIM-656](../claims.d/CLAIM-656.md); the interview corroborates [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md) as
   a reported case.
 ---
 <!-- inactive-ok-file: THEORY-tmp8m1e4 THEORY-tmpnm1gx CLAIM-tmpkjv7u — Proposed; cited with its standing -->
@@ -81,7 +81,7 @@ Matthew B. Crawford (2015). *The World Beyond Your Head: On Becoming an Individu
 
 Registered from the exchange "Analyze technological civilization trap" (2026-11-13), https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597. Named by A5 with Shop Class as Soulcraft, on attention and environments engineered to capture it, which A11 §22 makes a condition of agency.
 
-Stand-ins of 2026-11-13: LIT-tmp0gt3l (first-hand, the diagnosis) and LIT-tmpnno4c (second-hand, the positive account). Together they stand in for the book's argument in outline, not its detail: jigs, Gibson's affordances and the chapter on casinos and machine gambling are in neither.
+Stand-ins of 2026-11-13: [LIT-tmp0gt3l](LIT-tmp0gt3l.md) (first-hand, the diagnosis) and [LIT-tmpnno4c](LIT-tmpnno4c.md) (second-hand, the positive account). Together they stand in for the book's argument in outline, not its detail: jigs, Gibson's affordances and the chapter on casinos and machine gambling are in neither.
 
 ## Reading of 2026-11-13
 
@@ -89,4 +89,4 @@ Unavailable; nothing registered. The op-ed's opening read; see the status note.
 
 ## Stand-ins of 2026-11-13
 
-Read: Crawford's interview in Field Actions Science Reports (LIT-tmp0gt3l, NOTE-tmpp5kql, Read; THEORY-tmp8m1e4), and Dijkema's review in Comment (LIT-tmpnno4c, NOTE-tmppa0w2, Read; THEORY-tmpnm1gx). The interview corroborates CLAIM-tmpkjv7u as a reported case of all three conditions. Still Unavailable.
+Read: Crawford's interview in Field Actions Science Reports ([LIT-tmp0gt3l](LIT-tmp0gt3l.md), [NOTE-tmpp5kql](../notes.d/NOTE-tmpp5kql.md), Read; [THEORY-tmp8m1e4](../theory.d/THEORY-tmp8m1e4.md)), and Dijkema's review in Comment ([LIT-tmpnno4c](LIT-tmpnno4c.md), [NOTE-tmppa0w2](../notes.d/NOTE-tmppa0w2.md), Read; [THEORY-tmpnm1gx](../theory.d/THEORY-tmpnm1gx.md)). The interview corroborates [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md) as a reported case of all three conditions. Still Unavailable.

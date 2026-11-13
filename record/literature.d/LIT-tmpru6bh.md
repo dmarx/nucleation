@@ -1,6 +1,6 @@
 ---
 status: Unfetched
-status_note: 'a lawful copy was located at the author''s institutional repository, https://scholarcommons.scu.edu/phi/7/ (Santa Clara University Scholar Commons); on 2026-11-13 that host served a Cloudflare challenge and the fetch stopped there, not retried. Publisher copy paywalled. Stand-in registered and read on 2026-11-13: Vallor''s CyCon 2013 paper "The Future of Military Virtue" (LIT-tmpcm4m7), from the publisher''s PDF at ccdcoe.org, a strong stand-in for this paper''s thesis and mechanism of moral deskilling and a partial one for its scope (not new media or social robotics).'
+status_note: 'a lawful copy was located at the author''s institutional repository, https://scholarcommons.scu.edu/phi/7/ (Santa Clara University Scholar Commons); on 2026-11-13 that host served a Cloudflare challenge and the fetch stopped there, not retried. Publisher copy paywalled. Stand-in registered and read on 2026-11-13: Vallor''s CyCon 2013 paper "The Future of Military Virtue" ([LIT-tmpcm4m7](LIT-tmpcm4m7.md)), from the publisher''s PDF at ccdcoe.org, a strong stand-in for this paper''s thesis and mechanism of moral deskilling and a partial one for its scope (not new media or social robotics).'
 title: 'Moral Deskilling and Upskilling in a New Machine Age: Reflections on the Ambiguous Future of Character'
 version: 3
 history:
@@ -49,11 +49,11 @@ summary: >-
   Vallor (2015, online 2014), Philosophy & Technology 28(1). Unread:
   Unfetched at the repository (Cloudflare challenge). Registered as the
   first-hand source for moral deskilling. Stand-in: Vallor's CyCon 2013
-  paper (LIT-tmpcm4m7, THEORY-tmpm76rc), read in full: virtue
+  paper ([LIT-tmpcm4m7](LIT-tmpcm4m7.md), [THEORY-tmpm76rc](../theory.d/THEORY-tmpm76rc.md)), read in full: virtue
   "presupposes repeated practice and development of skills of moral
   analysis, deliberation and action", which automation can make
   redundant "with a resulting devaluation and/or loss of these skills".
-  It corroborates CLAIM-tmp6wuql's premise first-hand. What the 2015
+  It corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise first-hand. What the 2015
   paper adds (new media, social robotics, upskilling in full) is
   unverified until read.
 ---
@@ -73,8 +73,8 @@ Shannon Vallor (2015). Moral Deskilling and Upskilling in a New Machine Age: Ref
 
 A stand-in for [LIT-tmplpkge](LIT-tmplpkge.md), not yet reached.
 
-Stand-in of 2026-11-13: Vallor's CyCon 2013 paper (LIT-tmpcm4m7), first-hand, strong for the thesis and mechanism of moral deskilling, partial for this paper's scope.
+Stand-in of 2026-11-13: Vallor's CyCon 2013 paper ([LIT-tmpcm4m7](LIT-tmpcm4m7.md)), first-hand, strong for the thesis and mechanism of moral deskilling, partial for this paper's scope.
 
 ## Stand-in of 2026-11-13
 
-Read: Vallor (2013), "The Future of Military Virtue" (LIT-tmpcm4m7, NOTE-tmpgn1lo, Read; THEORY-tmpm76rc). It corroborates CLAIM-tmp6wuql. Still Unfetched.
+Read: Vallor (2013), "The Future of Military Virtue" ([LIT-tmpcm4m7](LIT-tmpcm4m7.md), [NOTE-tmpgn1lo](../notes.d/NOTE-tmpgn1lo.md), Read; [THEORY-tmpm76rc](../theory.d/THEORY-tmpm76rc.md)). It corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md). Still Unfetched.

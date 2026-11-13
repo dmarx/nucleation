@@ -25,7 +25,7 @@ summary: >-
   legislation.
 ---
 <!-- inactive-ok-file: LIT-tmpkv5kx until 2027-05-13 — Unavailable; the book this essay partly stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpsmg1c CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql THEORY-tmpa59p3 THEORY-tmpvlt2n ARG-tmp5juxo SYNTHESIS-053 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-tmpsmg1c CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql THEORY-tmpa59p3 ARG-tmp5juxo SYNTHESIS-053 — Proposed; cited with its standing -->
 
 # NOTE-tmpskck7: Winner (1980) — Do Artifacts Have Politics?
 
@@ -54,15 +54,15 @@ Politics means "arrangements of power and authority in human associations"; "req
 
 ## Connections
 
-A partial stand-in for LIT-tmpkv5kx. It restates Mumford's distinction in Mumford's own sentence and sharpens it into required against compatible, internal against external; it carries the claim that large systems are compatible with centralized, hierarchical control. It does not restate the megamachine (the machine made of people under central command), the book's history of technics from the Neolithic, the "magnificent bribe" or The Pentagon of Power. U1's glosses of the two technics are close to Mumford's sentence but drop instability and durability, and U1's "requiring ... hierarchy" is the Engels and Chandler version Winner discusses, not Mumford's sentence. Feenberg's contingent technical code (THEORY-tmpa59p3) develops Winner's first kind: a design that settles an issue in favour of some interests.
+A partial stand-in for [LIT-tmpkv5kx](../literature.d/LIT-tmpkv5kx.md). It restates Mumford's distinction in Mumford's own sentence and sharpens it into required against compatible, internal against external; it carries the claim that large systems are compatible with centralized, hierarchical control. It does not restate the megamachine (the machine made of people under central command), the book's history of technics from the Neolithic, the "magnificent bribe" or The Pentagon of Power. U1's glosses of the two technics are close to Mumford's sentence but drop instability and durability, and U1's "requiring ... hierarchy" is the Engels and Chandler version Winner discusses, not Mumford's sentence. Feenberg's contingent technical code ([THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md)) develops Winner's first kind: a design that settles an issue in favour of some interests.
 
 ## Bearing on the record
 
-- **CLAIM-tmpsmg1c** (the burden of justification rises with irreversibility): strong support for its premise and its occasion. Result 4 is the premise the claim needs, that choice closes after commitment, and Winner draws a consequence close to the claim's: innovations deserve the scrutiny given to laws. He states no rule that the burden scales with irreversibility. Corroborates; argued in ARG-tmp5juxo.
-- **CLAIM-tmpbypt7** (compulsion without a rule; the non-adopter's measure): support with a mechanism. Moses's bridges narrow the options of those without cars by arrangement, not rule, and the arrangement "becomes just another part of the landscape", the cultural mechanism; the harvester narrows the options of small growers with no one intending it. Corroborates.
-- **CLAIM-tmpkjv7u** (dependence presumptively dominating by its controllers): consistent with its narrowing, no relation. The bomb's internal "centralized, rigidly hierarchical chain of command" is authority inside a system, not discretion over dependents outside it; result 6 is how accountability erodes, which bears on the third condition. The harvester is concentration no one intended, which the claim since version 2 places outside its test.
-- **CLAIM-tmp6wuql**: leaves it open. McCormick's molding machines broke a union through deskilling, a use of power, not a trajectory argument.
-- **SYNTHESIS-053** separates dependence, integration, coordination and authority; Winner's required against compatible is a finer cut of the authority side, a point for that account's next revision.
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)** (the burden of justification rises with irreversibility): strong support for its premise and its occasion. Result 4 is the premise the claim needs, that choice closes after commitment, and Winner draws a consequence close to the claim's: innovations deserve the scrutiny given to laws. He states no rule that the burden scales with irreversibility. Corroborates; argued in [ARG-tmp5juxo](../arguments.d/ARG-tmp5juxo.md).
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)** (compulsion without a rule; the non-adopter's measure): support with a mechanism. Moses's bridges narrow the options of those without cars by arrangement, not rule, and the arrangement "becomes just another part of the landscape", the cultural mechanism; the harvester narrows the options of small growers with no one intending it. Corroborates.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)** (dependence presumptively dominating by its controllers): consistent with its narrowing, no relation. The bomb's internal "centralized, rigidly hierarchical chain of command" is authority inside a system, not discretion over dependents outside it; result 6 is how accountability erodes, which bears on the third condition. The harvester is concentration no one intended, which the claim since version 2 places outside its test.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: leaves it open. McCormick's molding machines broke a union through deskilling, a use of power, not a trajectory argument.
+- **[SYNTHESIS-053](../syntheses.d/SYNTHESIS-053.md)** separates dependence, integration, coordination and authority; Winner's required against compatible is a finer cut of the authority side, a point for that account's next revision.
 
 ## Limitations
 

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in full (NOTE-tmp0cqdl), chapters 1–10 and the 1978 prefatory note, from a course page of the University of Puerto Rico at Mayagüez, ecourses.uprm.edu/mod/resource/view.php?id=352 (PDF, the text of Toward a History of Needs, 1978); a course page, lawful under ADR-074. Other web copies listed by a bibliographic record (Edinburgh, altraofficina.it, carbusters.org) were not opened.'
+status_note: 'read 2026-11-13 in full ([NOTE-tmp0cqdl](../notes.d/NOTE-tmp0cqdl.md)), chapters 1–10 and the 1978 prefatory note, from a course page of the University of Puerto Rico at Mayagüez, ecourses.uprm.edu/mod/resource/view.php?id=352 (PDF, the text of Toward a History of Needs, 1978); a course page, lawful under [ADR-074](../decisions.d/ADR-074.md). Other web copies listed by a bibliographic record (Edinburgh, altraofficina.it, carbusters.org) were not opened.'
 title: 'Energy and Equity'
 version: 1
 history:
@@ -36,7 +36,7 @@ implementations: []
 summary: >-
   Ivan Illich (1974). Energy and Equity. Calder & Boyars; the copy read
   is the 1978 text in Toward a History of Needs. Read in full
-  (NOTE-tmp0cqdl). "Beyond a certain point, more energy means less
+  ([NOTE-tmp0cqdl](../notes.d/NOTE-tmp0cqdl.md)). "Beyond a certain point, more energy means less
   equity": past a threshold, motorized transport dictates the
   configuration of social space and establishes a "radical monopoly",
   which arises not from scarcity or by driving out competitors but "by
@@ -44,9 +44,9 @@ summary: >-
   alone can satisfy". Shoes and schools: the barefoot "barred from any
   office" "Without any intentional conspiracy", though teachers,
   officials and laws do the barring. A stand-in for what the excerpt of
-  LIT-tmp2tehj does not reach; not for the burial case or
-  "unimaginable". Corroborates and qualifies CLAIM-tmpbypt7
-  (ARG-tmpn3me8); bounds CLAIM-tmpkjv7u. Account: THEORY-tmpyot08.
+  [LIT-tmp2tehj](LIT-tmp2tehj.md) does not reach; not for the burial case or
+  "unimaginable". Corroborates and qualifies [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)
+  ([ARG-tmpn3me8](../arguments.d/ARG-tmpn3me8.md)); bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md). Account: [THEORY-tmpyot08](../theory.d/THEORY-tmpyot08.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpyot08 THEORY-tmpxwo9k CLAIM-tmpbypt7 CLAIM-tmpkjv7u ARG-tmpn3me8 — Proposed; cited with its standing -->
 
@@ -62,4 +62,4 @@ Ivan Illich (1974). *Energy and Equity*. London: Calder & Boyars. First publishe
 
 ## Standing in the record
 
-A stand-in for what the two-page excerpt of LIT-tmp2tehj does not reach: radical monopoly in full, with the shoe and school cases, and the threshold beyond which a tool reverses its effect, the transport form of the book's second watershed, in substance though not by name. It does not carry the burial case or "inaccessible or unimaginable", which still rest on Cayley (THEORY-tmpxwo9k). Read in NOTE-tmp0cqdl; account THEORY-tmpyot08.
+A stand-in for what the two-page excerpt of [LIT-tmp2tehj](LIT-tmp2tehj.md) does not reach: radical monopoly in full, with the shoe and school cases, and the threshold beyond which a tool reverses its effect, the transport form of the book's second watershed, in substance though not by name. It does not carry the burial case or "inaccessible or unimaginable", which still rest on Cayley ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)). Read in [NOTE-tmp0cqdl](../notes.d/NOTE-tmp0cqdl.md); account [THEORY-tmpyot08](../theory.d/THEORY-tmpyot08.md).

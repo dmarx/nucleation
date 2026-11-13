@@ -17,12 +17,12 @@ promote_when: >-
   strongly compatible with particular relations) and the claim that the
   latitude of choice vanishes once initial commitments are made.
 summary: >-
-  Winner (1980), read in full in NOTE-tmpskck7. A partial stand-in for
-  Mumford's The Myth of the Machine (LIT-tmpkv5kx), for the distinction
+  Winner (1980), read in full in [NOTE-tmpskck7](../notes.d/NOTE-tmpskck7.md). A partial stand-in for
+  Mumford's The Myth of the Machine ([LIT-tmpkv5kx](../literature.d/LIT-tmpkv5kx.md)), for the distinction
   of authoritarian and democratic technics only. Set beside Feenberg's
-  contingent technical code (THEORY-tmpa59p3), which develops Winner's
-  first kind. Corroborates CLAIM-tmpsmg1c (ARG-tmp5juxo) and
-  CLAIM-tmpbypt7.
+  contingent technical code ([THEORY-tmpa59p3](THEORY-tmpa59p3.md)), which develops Winner's
+  first kind. Corroborates [CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md) ([ARG-tmp5juxo](../arguments.d/ARG-tmp5juxo.md)) and
+  [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpsmg1c CLAIM-tmpbypt7 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: LIT-tmpkv5kx until 2027-05-13 — Unavailable; the book this essay partly stands in for -->
@@ -36,11 +36,11 @@ Winner: Moses's overpasses "embody a systematic social inequality"; the harveste
 
 ## Beside Feenberg
 
-Feenberg's account (THEORY-tmpa59p3), that design embodies a contingent technical code reflecting dominant values, is Winner's first kind made general: a code is an arrangement that settles issues. The two do not rival. Winner adds what Feenberg's reading here does not: that the openness Feenberg relies on narrows with commitment.
+Feenberg's account ([THEORY-tmpa59p3](THEORY-tmpa59p3.md)), that design embodies a contingent technical code reflecting dominant values, is Winner's first kind made general: a code is an arrangement that settles issues. The two do not rival. Winner adds what Feenberg's reading here does not: that the openness Feenberg relies on narrows with commitment.
 
 ## Evidence
 
-The reading in NOTE-tmpskck7, results 1–6.
+The reading in [NOTE-tmpskck7](../notes.d/NOTE-tmpskck7.md), results 1–6.
 
 ## What it does not say
 

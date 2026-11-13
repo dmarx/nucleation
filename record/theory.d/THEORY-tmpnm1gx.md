@@ -14,9 +14,9 @@ promote_when: >-
   the ecology of attention in communities of skilled practice as its
   remedy.
 summary: >-
-  Dijkema (2015), a review read in full in NOTE-tmppa0w2. A second-hand
+  Dijkema (2015), a review read in full in [NOTE-tmppa0w2](../notes.d/NOTE-tmppa0w2.md). A second-hand
   stand-in for the positive account of The World Beyond Your Head
-  (LIT-tmpchx6j). The reviewer's own call for authority is his, not
+  ([LIT-tmpchx6j](../literature.d/LIT-tmpchx6j.md)). The reviewer's own call for authority is his, not
   Crawford's.
 ---
 <!-- inactive-ok-file: LIT-tmpchx6j until 2027-05-13 — Unavailable; the book this review stands in for -->
@@ -29,7 +29,7 @@ As Dijkema reports it, with the book's words: "The standard for truth is relocat
 
 ## Evidence
 
-The reading in NOTE-tmppa0w2, results 1–6.
+The reading in [NOTE-tmppa0w2](../notes.d/NOTE-tmppa0w2.md), results 1–6.
 
 ## What it does not say
 

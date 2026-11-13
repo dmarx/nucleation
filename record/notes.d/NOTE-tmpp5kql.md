@@ -25,13 +25,13 @@ summary: >-
   remove contingency and skill and make citizens captive and dependent.
 ---
 <!-- inactive-ok-file: LIT-tmpchx6j until 2027-05-13 — Unavailable; the book this interview stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpsmg1c CLAIM-656 THEORY-tmpiihve THEORY-tmp8m1e4 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-tmpbypt7 CLAIM-tmpkjv7u CLAIM-tmp6wuql CLAIM-tmpsmg1c CLAIM-656 THEORY-tmpiihve — Proposed; cited with its standing -->
 
 # NOTE-tmpp5kql: Crawford (2017) — Smart cities and technologies, an interview
 
 ## Contribution
 
-The only open first-hand text found in which Crawford states the diagnosis of *The World Beyond Your Head* (LIT-tmpchx6j): attention is a resource held in common, captured in shared spaces; the problem is political economy; and environments engineered to remove contingency and the need for skill make people dependent and free their attention for others to exploit.
+The only open first-hand text found in which Crawford states the diagnosis of *The World Beyond Your Head* ([LIT-tmpchx6j](../literature.d/LIT-tmpchx6j.md)): attention is a resource held in common, captured in shared spaces; the problem is political economy; and environments engineered to remove contingency and the need for skill make people dependent and free their attention for others to exploit.
 
 ## Key results
 
@@ -57,15 +57,15 @@ Attention is finite and can be appropriated; shared space is a commons whose enc
 
 ## Connections
 
-A stand-in for LIT-tmpchx6j. It restates the book's diagnosis: attention as a commons, its capture in shared space, distraction as political economy, the engineered removal of contingency, and the link between skill no longer needed and attention made available. It does not restate the book's positive account: skilled practice as the remedy (organ makers, short-order cooks, motorcycle racing), jigs and affordances, the critique of the Enlightenment self, the ecology of attention, casinos and machine gambling. Dijkema's review (LIT-tmpnno4c, NOTE-tmppa0w2) carries the positive account second-hand. Crawford's 2006 essay (THEORY-tmpiihve) moved judgment out of work; result 4's "progressive loss of expertise" is the same concern at the scale of a city.
+A stand-in for [LIT-tmpchx6j](../literature.d/LIT-tmpchx6j.md). It restates the book's diagnosis: attention as a commons, its capture in shared space, distraction as political economy, the engineered removal of contingency, and the link between skill no longer needed and attention made available. It does not restate the book's positive account: skilled practice as the remedy (organ makers, short-order cooks, motorcycle racing), jigs and affordances, the critique of the Enlightenment self, the ecology of attention, casinos and machine gambling. Dijkema's review ([LIT-tmpnno4c](../literature.d/LIT-tmpnno4c.md), [NOTE-tmppa0w2](NOTE-tmppa0w2.md)) carries the positive account second-hand. Crawford's 2006 essay ([THEORY-tmpiihve](../theory.d/THEORY-tmpiihve.md)) moved judgment out of work; result 4's "progressive loss of expertise" is the same concern at the scale of a city.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkjv7u** (dependence presumptively dominating by its controllers): an instance as Crawford diagnoses it, not argued. Essentiality (citizens "captive and dependent in their everyday life"), controllers' discretion ("a cartel of ICT companies"; "This power belongs to those who design our environment") and a call for accountability (result 7) are the claim's three conditions. Corroborates, as a reported case.
-- **CLAIM-tmpbypt7** (compulsion without a rule; the non-adopter's measure): weak support. The captive audience is someone who cannot decline a shared space, the claim's non-adopter applied to attention; Crawford gives no mechanism by which adoption shrinks the options. Bears on it; no relation written.
-- **CLAIM-tmp6wuql** (capability assessed as a trajectory): support in spirit. Result 6 names skill made unnecessary by substituting technology, but as a premise about where attention goes, with no claim about capacity declining over time. No relation.
-- **CLAIM-tmpsmg1c**: nothing on reversibility. No relation.
-- **CLAIM-656** (attention as revenue favours clickbait): shares its premise, that attention is the resource monetized.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)** (dependence presumptively dominating by its controllers): an instance as Crawford diagnoses it, not argued. Essentiality (citizens "captive and dependent in their everyday life"), controllers' discretion ("a cartel of ICT companies"; "This power belongs to those who design our environment") and a call for accountability (result 7) are the claim's three conditions. Corroborates, as a reported case.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)** (compulsion without a rule; the non-adopter's measure): weak support. The captive audience is someone who cannot decline a shared space, the claim's non-adopter applied to attention; Crawford gives no mechanism by which adoption shrinks the options. Bears on it; no relation written.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)** (capability assessed as a trajectory): support in spirit. Result 6 names skill made unnecessary by substituting technology, but as a premise about where attention goes, with no claim about capacity declining over time. No relation.
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: nothing on reversibility. No relation.
+- **[CLAIM-656](../claims.d/CLAIM-656.md)** (attention as revenue favours clickbait): shares its premise, that attention is the resource monetized.
 
 ## Limitations
 
