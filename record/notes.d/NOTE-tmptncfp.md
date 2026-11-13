@@ -49,8 +49,8 @@ Achievement society; auto-exploitation; positivity; burnout.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkjv7u**: on Han's own words this is not domination ("the disappearance of domination"), and not freedom either. Version 1's clause "however complete" read as a test of when freedom fails misses this case; read narrowly as a test of domination it agrees. See ARG-tmpsh7he.
-- **QUESTION-071**: achievement subjects feel free; the constraint does not show in the will's present structure.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: on Han's own words this is not domination ("the disappearance of domination"), and not freedom either. Version 1's clause "however complete" read as a test of when freedom fails misses this case; read narrowly as a test of domination it agrees. See [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md).
+- **[QUESTION-071](../questions.d/QUESTION-071.md)**: achievement subjects feel free; the constraint does not show in the will's present structure.
 - **The exchange's** worry that a demand to live meaningfully becomes self-optimization (A9 §VI, A13 §IV) has its mechanism here, though Han does not discuss meaning. The LIT's "domination that works through the subject's pursuit of achievement" slightly misstates him: he calls it constraint without a dominator.
 
 ## Limitations

@@ -15,9 +15,9 @@ promote_when: >-
   achievement society, auto-exploitation without an external dominator,
   and its link to depression.
 summary: >-
-  Han (2015), "Beyond Disciplinary Society", Skimmed in NOTE-tmptncfp.
+  Han (2015), "Beyond Disciplinary Society", Skimmed in [NOTE-tmptncfp](../notes.d/NOTE-tmptncfp.md).
   Auto-exploitation; freedom and constraint coinciding. It marks the
-  limit of CLAIM-tmpkjv7u's threshold.
+  limit of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold.
 bears_on:
 - QUESTION-071
 ---
@@ -32,7 +32,7 @@ Han holds that society is "no longer a disciplinary society, but rather an achie
 
 ## Evidence
 
-The reading in NOTE-tmptncfp. It bounds CLAIM-tmpkjv7u: complete constraint with no one holding discretion, outside the claim's test by its version 2.
+The reading in [NOTE-tmptncfp](../notes.d/NOTE-tmptncfp.md). It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md): complete constraint with no one holding discretion, outside the claim's test by its version 2.
 
 ## What it does not say
 

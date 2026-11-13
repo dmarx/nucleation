@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy reached on 2026-11-13. The whole book is posted chapter by chapter at https://www.marcuse.org/herbert/pubs/64onedim/odm1.html (the Marcuse family''s site): whole-book copy, not fetched pending the owner''s ruling. A full-book PDF on a professor''s site was not fetched. Farr''s SEP entry (LIT-tmpldtwo) stands in.'
+status_note: 'no lawful copy reached on 2026-11-13. The whole book is posted chapter by chapter at https://www.marcuse.org/herbert/pubs/64onedim/odm1.html (the Marcuse family''s site): whole-book copy, not fetched pending the owner''s ruling. A full-book PDF on a professor''s site was not fetched. Farr''s SEP entry ([LIT-tmpldtwo](LIT-tmpldtwo.md)) stands in.'
 title: 'One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society'
 version: 2
 history:
@@ -38,12 +38,12 @@ keywords:
 implementations: []
 summary: >-
   Herbert Marcuse (1964). One-Dimensional Man. Beacon Press.
-  Unavailable. Through Farr's SEP entry and Kellner (LIT-tmpldtwo,
-  NOTE-tmpi8t8i): a "democratic unfreedom" in which domination takes the
+  Unavailable. Through Farr's SEP entry and Kellner ([LIT-tmpldtwo](LIT-tmpldtwo.md),
+  [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md)): a "democratic unfreedom" in which domination takes the
   form of administration and needs neither force nor an authority
   figure, integrating people through false needs. This marks the limit
-  of CLAIM-tmpkjv7u's threshold, which since its version 2 says it does
-  not test such impersonal domination. Account: THEORY-tmpnydju.
+  of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold, which since its version 2 says it does
+  not test such impersonal domination. Account: [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u THEORY-tmpnydju — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpi8t8i — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -63,4 +63,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmpldtwo, Skimmed in NOTE-tmpi8t8i; account THEORY-tmpnydju, which bounds CLAIM-tmpkjv7u.
+Unavailable. Stand-in: [LIT-tmpldtwo](LIT-tmpldtwo.md), Skimmed in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md); account [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md), which bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).

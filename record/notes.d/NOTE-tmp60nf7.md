@@ -44,8 +44,8 @@ Extraction; planetary computation; power asymmetry.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkjv7u**: supports the weight of its third condition: real choice and accountability, not information alone, are what limit the asymmetry (result 3).
-- **CLAIM-tmpbypt7**: "real choice" gestures at the non-adopter's options without developing it; leaves open.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: supports the weight of its third condition: real choice and accountability, not information alone, are what limit the asymmetry (result 3).
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: "real choice" gestures at the non-adopter's options without developing it; leaves open.
 - The anthology-candidate flag stands.
 
 ## Limitations

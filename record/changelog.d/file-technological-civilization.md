@@ -34,7 +34,7 @@
   works, 8 read in part (Skimmed), 18 Unavailable (one, Kaczynski, not
   sought by design) and read where possible through stand-ins, and 1
   Unfetched; 21 stand-ins registered; NOTEs and THEORYs for each
-  reading; two ARGs (ARG-tmpar7tl, ARG-tmpsh7he). The domination threshold
-  (CLAIM-tmpkjv7u) is narrowed to domination by an arrangement's
+  reading; two ARGs ([ARG-tmpar7tl](record/arguments.d/ARG-tmpar7tl.md), [ARG-tmpsh7he](record/arguments.d/ARG-tmpsh7he.md)). The domination threshold
+  ([CLAIM-tmpkjv7u](record/claims.d/CLAIM-tmpkjv7u.md)) is narrowed to domination by an arrangement's
   controllers; the claims on compulsion and capability trajectories are
   corroborated; corrections in the curation entry.

@@ -12,9 +12,9 @@ promote_when: >-
   a reading of the essay confirms that Susen states these points as
   Rosa's.
 summary: >-
-  Susen (2020) on Rosa's Resonance, read in NOTE-tmpnqe9r. Resonance as
-  the criterion of the good life. A stand-in for LIT-tmpmhvv4; it
-  qualifies CLAIM-tmp6wuql's evaluative measure.
+  Susen (2020) on Rosa's Resonance, read in [NOTE-tmpnqe9r](../notes.d/NOTE-tmpnqe9r.md). Resonance as
+  the criterion of the good life. A stand-in for [LIT-tmpmhvv4](../literature.d/LIT-tmpmhvv4.md); it
+  qualifies [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s evaluative measure.
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpmhvv4 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -27,7 +27,7 @@ Susen reads Rosa as defining resonance as "a form of world-relation, in which su
 
 ## Evidence
 
-The reading in NOTE-tmpnqe9r.
+The reading in [NOTE-tmpnqe9r](../notes.d/NOTE-tmpnqe9r.md).
 
 ## What it does not say
 

@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy found on 2026-11-13: whole-book uploads (archive.org, an epub forum) not fetched; the FAZ essay behind a registration wall; "Big Other" (2015) behind Cloudflare at SAGE and AIS, not retried. Zuboff''s 2022 Organization Theory article (LIT-tmpfz7zh) stands in.'
+status_note: 'no lawful copy found on 2026-11-13: whole-book uploads (archive.org, an epub forum) not fetched; the FAZ essay behind a registration wall; "Big Other" (2015) behind Cloudflare at SAGE and AIS, not retried. Zuboff''s 2022 Organization Theory article ([LIT-tmpfz7zh](LIT-tmpfz7zh.md)) stands in.'
 title: 'The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power'
 version: 2
 history:
@@ -35,11 +35,11 @@ keywords:
 implementations: []
 summary: >-
   Shoshana Zuboff (2019). The Age of Surveillance Capitalism.
-  PublicAffairs. Unavailable. Through Zuboff 2022 (LIT-tmpfz7zh,
-  NOTE-tmph5wwv): commodified behaviour concentrates knowledge in a few
+  PublicAffairs. Unavailable. Through Zuboff 2022 ([LIT-tmpfz7zh](LIT-tmpfz7zh.md),
+  [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md)): commodified behaviour concentrates knowledge in a few
   firms, producing epistemic inequality, instrumentarian power and
-  conditions of "no exit". A worked case of CLAIM-tmpkjv7u's three
-  conditions. Account: THEORY-tmpbgf6v.
+  conditions of "no exit". A worked case of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s three
+  conditions. Account: [THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md).
 ---
 <!-- inactive-ok-file: NOTE-tmph5wwv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmpbgf6v — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -59,4 +59,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmpfz7zh, Skimmed in NOTE-tmph5wwv; account THEORY-tmpbgf6v.
+Unavailable. Stand-in: [LIT-tmpfz7zh](LIT-tmpfz7zh.md), Skimmed in [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md); account [THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md).

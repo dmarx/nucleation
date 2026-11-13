@@ -13,9 +13,9 @@ date: '2026-11-13'
 promote_when: >-
   a reading of the entry confirms that §5 states these points.
 summary: >-
-  Farr (SEP) on Marcuse, with Kellner, Skimmed in NOTE-tmpi8t8i.
-  Domination without an authority figure. A stand-in for LIT-tmp32zdc;
-  it marks the limit of CLAIM-tmpkjv7u's threshold.
+  Farr (SEP) on Marcuse, with Kellner, Skimmed in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md).
+  Domination without an authority figure. A stand-in for [LIT-tmp32zdc](../literature.d/LIT-tmp32zdc.md);
+  it marks the limit of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold.
 bears_on:
 - QUESTION-071
 ---
@@ -31,7 +31,7 @@ Farr reads Marcuse as holding that a "democratic unfreedom prevails in advanced 
 
 ## Evidence
 
-The reading in NOTE-tmpi8t8i, results 1–5. It bounds CLAIM-tmpkjv7u: the claim's version 2 names impersonal domination of this kind as outside its test (ARG-tmpsh7he).
+The reading in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md), results 1–5. It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md): the claim's version 2 names impersonal domination of this kind as outside its test ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md)).
 
 ## What it does not say
 

@@ -20,7 +20,7 @@ Postman holds that "Every technology is both a burden and a blessing"; that its 
 
 ## Evidence
 
-The readings in NOTE-tmplo9b2 and NOTE-tmpu15jn. Corroborates CLAIM-tmpbypt7: institutions reorganize around a technology (the tests) and it comes to seem natural.
+The readings in [NOTE-tmplo9b2](../notes.d/NOTE-tmplo9b2.md) and [NOTE-tmpu15jn](../notes.d/NOTE-tmpu15jn.md). Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md): institutions reorganize around a technology (the tests) and it comes to seem natural.
 
 ## What it does not say
 

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the International Jacques Ellul Society''s page, ellul.org/themes/ellul-and-technique/ (NOTE-tmp8721q).'
+status_note: 'read 2026-11-13 from the International Jacques Ellul Society''s page, ellul.org/themes/ellul-and-technique/ ([NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md)).'
 title: 'The Search for Ethics in a Technicist Society (introductory paragraphs, as posted by the International Jacques Ellul Society)'
 version: 1
 history:
@@ -30,11 +30,11 @@ keywords:
 implementations: []
 summary: >-
   Ellul (1983), as posted by the Ellul society and read in
-  NOTE-tmp8721q: technique, the totality of efficient methods, is the
+  [NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md): technique, the totality of efficient methods, is the
   milieu modern humans must live in; it is autonomous, unified,
   universal and totalizing, self-augmenting, and "not yet able to
   control its errors". A stand-in for the central thesis and definition
-  of LIT-tmpdprtt.
+  of [LIT-tmpdprtt](LIT-tmpdprtt.md).
 ---
 <!-- inactive-ok-file: LIT-tmpdprtt — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpypzp0 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -50,4 +50,4 @@ Jacques Ellul (1983). "Recherche pour une éthique dans une société technicien
 
 ## Standing in the record
 
-A stand-in for Ellul's The Technological Society (LIT-tmpdprtt). Read in NOTE-tmp8721q; account THEORY-tmpypzp0.
+A stand-in for Ellul's The Technological Society ([LIT-tmpdprtt](LIT-tmpdprtt.md)). Read in [NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md); account [THEORY-tmpypzp0](../theory.d/THEORY-tmpypzp0.md).

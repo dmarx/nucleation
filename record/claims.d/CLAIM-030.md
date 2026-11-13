@@ -119,6 +119,6 @@ filed. No change.
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-- **Kelly** (THEORY-tmp5l4e4): the technium has tendencies "outside of our wants" from self-reinforcing feedback, this claim's thesis applied to technology by analogy and assertion. A point of contact, not evidence; no relation.
-- **Lanier** (THEORY-tmpvajjd): treats that attribution to technology as part of a dogma; an objection to the application, not to the claim.
-- **Ellul 1983** (THEORY-tmpypzp0): the technical system's autonomy, and "particular choices no longer have much significance"; consistent with the claim, asserted.
+- **Kelly** ([THEORY-tmp5l4e4](../theory.d/THEORY-tmp5l4e4.md)): the technium has tendencies "outside of our wants" from self-reinforcing feedback, this claim's thesis applied to technology by analogy and assertion. A point of contact, not evidence; no relation.
+- **Lanier** ([THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md)): treats that attribution to technology as part of a dogma; an objection to the application, not to the claim.
+- **Ellul 1983** ([THEORY-tmpypzp0](../theory.d/THEORY-tmpypzp0.md)): the technical system's autonomy, and "particular choices no longer have much significance"; consistent with the claim, asserted.

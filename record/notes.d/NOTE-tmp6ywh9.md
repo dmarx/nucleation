@@ -46,8 +46,8 @@ Solutionism; self-tracking; gamification; reform of the system.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: corroborates directly, its mechanism and its measure: adoption for real advantage, institutions adapting (insurance pricing), and non-adopters penalized, so declining is "no longer an autonomous decision" (results 2–3). Examples, not evidence. The LIT's earlier "No idea of the exchange rests on it" was wrong and is corrected there.
-- **CLAIM-tmpu2cwc**: result 4's contrast between optimizing within a system and reforming it parallels the claim's; no comparative evidence.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates directly, its mechanism and its measure: adoption for real advantage, institutions adapting (insurance pricing), and non-adopters penalized, so declining is "no longer an autonomous decision" (results 2–3). Examples, not evidence. The LIT's earlier "No idea of the exchange rests on it" was wrong and is corrected there.
+- **[CLAIM-tmpu2cwc](../claims.d/CLAIM-tmpu2cwc.md)**: result 4's contrast between optimizing within a system and reforming it parallels the claim's; no comparative evidence.
 
 ## Limitations
 

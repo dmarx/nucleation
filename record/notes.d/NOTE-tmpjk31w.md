@@ -47,10 +47,10 @@ Craftsmanship; degradation of work; separation of planning from execution.
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql**: corroborates its premise at the level of occupations: an arrangement that does the cognitive work leaves those it serves less capable (results 2, 4). Historical argument, not a test of individual decay with disuse.
-- **CLAIM-tmpbypt7**: corroborates its competitive mechanism: Ford's method made the alternative impossible (result 3).
-- **CLAIM-670**: result 5 illustrates dependence produced by provision.
-- **CASE-tmpf71w4**: the essay's examples of designs that leave the hard step to the learner motivate the study; they are not evidence.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: corroborates its premise at the level of occupations: an arrangement that does the cognitive work leaves those it serves less capable (results 2, 4). Historical argument, not a test of individual decay with disuse.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates its competitive mechanism: Ford's method made the alternative impossible (result 3).
+- **[CLAIM-670](../claims.d/CLAIM-670.md)**: result 5 illustrates dependence produced by provision.
+- **[CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md)**: the essay's examples of designs that leave the hard step to the learner motivate the study; they are not evidence.
 
 ## Limitations
 

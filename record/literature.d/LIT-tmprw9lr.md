@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the publisher''s open PDF (Universidad Complutense) (NOTE-tmp1ip5i).'
+status_note: 'read 2026-11-13 from the publisher''s open PDF (Universidad Complutense) ([NOTE-tmp1ip5i](../notes.d/NOTE-tmp1ip5i.md)).'
 title: 'Acceleration theory, temporal regimes, and politics today. An interview with Hartmut Rosa'
 version: 1
 history:
@@ -28,11 +28,11 @@ keywords:
 implementations: []
 summary: >-
   Rosa interviewed in 2021 on Social Acceleration, read in
-  NOTE-tmp1ip5i: acceleration is a structural requirement of modern
+  [NOTE-tmp1ip5i](../notes.d/NOTE-tmp1ip5i.md): acceleration is a structural requirement of modern
   capitalist societies; their mode is "dynamic stabilization", a name
   Rosa says belongs to his books after Social Acceleration; slowing such
   a society brings its institutions into crisis. A second stand-in for
-  LIT-tmp6zjsx.
+  [LIT-tmp6zjsx](LIT-tmp6zjsx.md).
 ---
 <!-- inactive-ok-file: LIT-tmp6zjsx — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmp0dvpy — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -48,4 +48,4 @@ Felipe Torres and Hartmut Rosa (2021). Acceleration theory, temporal regimes, an
 
 ## Standing in the record
 
-A stand-in for LIT-tmp6zjsx, and the source for its keyword's qualification. Read in NOTE-tmp1ip5i; account THEORY-tmp0dvpy.
+A stand-in for [LIT-tmp6zjsx](LIT-tmp6zjsx.md), and the source for its keyword's qualification. Read in [NOTE-tmp1ip5i](../notes.d/NOTE-tmp1ip5i.md); account [THEORY-tmp0dvpy](../theory.d/THEORY-tmp0dvpy.md).

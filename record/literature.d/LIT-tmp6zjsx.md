@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy or excerpt of the book reached on 2026-11-13; a Columbia UP preview on issuu was not tried. Rosa, Dörre and Lessenich (2017), the best English source for "dynamic stabilization", is Unfetched at https://epub.ub.uni-muenchen.de/42046/ (connection reset, 2026-11-13, not retried); it is not registered. Two stand-ins read: Rosa 2003 (LIT-tmp1sv2g) and the 2021 interview (LIT-tmprw9lr).'
+status_note: 'no lawful copy or excerpt of the book reached on 2026-11-13; a Columbia UP preview on issuu was not tried. Rosa, Dörre and Lessenich (2017), the best English source for "dynamic stabilization", is Unfetched at https://epub.ub.uni-muenchen.de/42046/ (connection reset, 2026-11-13, not retried); it is not registered. Two stand-ins read: Rosa 2003 ([LIT-tmp1sv2g](LIT-tmp1sv2g.md)) and the 2021 interview ([LIT-tmprw9lr](LIT-tmprw9lr.md)).'
 title: 'Social Acceleration: A New Theory of Modernity'
 version: 2
 history:
@@ -37,12 +37,12 @@ keywords:
 implementations: []
 summary: >-
   Hartmut Rosa (2013). Social Acceleration. Columbia UP. Unavailable.
-  Through Rosa 2003 (LIT-tmp1sv2g) and the 2021 interview
-  (LIT-tmprw9lr): acceleration in three dimensions forms a
+  Through Rosa 2003 ([LIT-tmp1sv2g](LIT-tmp1sv2g.md)) and the 2021 interview
+  ([LIT-tmprw9lr](LIT-tmprw9lr.md)): acceleration in three dimensions forms a
   self-propelling cycle in which standing still means falling behind;
   modern societies must accelerate to keep their status quo, a mode Rosa
   later names "dynamic stabilization" (not this book's term).
-  Corroborates CLAIM-tmpbypt7. Account: THEORY-tmp0dvpy.
+  Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md). Account: [THEORY-tmp0dvpy](../theory.d/THEORY-tmp0dvpy.md).
 ---
 <!-- inactive-ok-file: NOTE-tmp6llzw — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmp0dvpy — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -62,4 +62,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-ins: LIT-tmp1sv2g (NOTE-tmp6llzw) and LIT-tmprw9lr (NOTE-tmp1ip5i); account THEORY-tmp0dvpy. The keyword "dynamic stabilization" is Rosa's later term.
+Unavailable. Stand-ins: [LIT-tmp1sv2g](LIT-tmp1sv2g.md) ([NOTE-tmp6llzw](../notes.d/NOTE-tmp6llzw.md)) and [LIT-tmprw9lr](LIT-tmprw9lr.md) ([NOTE-tmp1ip5i](../notes.d/NOTE-tmp1ip5i.md)); account [THEORY-tmp0dvpy](../theory.d/THEORY-tmp0dvpy.md). The keyword "dynamic stabilization" is Rosa's later term.

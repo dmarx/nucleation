@@ -104,6 +104,6 @@ added an encumbrance.
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-- **Han 2014** (THEORY-tmpclnon): neoliberal power "tries to make them dependent", this claim's mechanism, asserted, not shown.
-- **Crawford 2006** (THEORY-tmpiihve): "What ordinary people once made, they buy", dependence produced by provision, as illustration.
+- **Han 2014** ([THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md)): neoliberal power "tries to make them dependent", this claim's mechanism, asserted, not shown.
+- **Crawford 2006** ([THEORY-tmpiihve](../theory.d/THEORY-tmpiihve.md)): "What ordinary people once made, they buy", dependence produced by provision, as illustration.
 No relation written.

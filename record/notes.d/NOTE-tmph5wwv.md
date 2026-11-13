@@ -47,8 +47,8 @@ Surveillance capitalism; epistemic inequality; instrumentarian power; no exit.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkjv7u**: a worked case of all three conditions: essentiality (result 2), consequential discretion by controllers no one elected (result 4), and no effective exit or challenge (result 3), with asymmetry of knowledge as the source of the discretion. Corroborates. It does not test the claim's other half.
-- **CLAIM-tmpbypt7**: "no exit" supports the mechanism qualitatively, framed as institutionalization, not as the non-adopter's options.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: a worked case of all three conditions: essentiality (result 2), consequential discretion by controllers no one elected (result 4), and no effective exit or challenge (result 3), with asymmetry of knowledge as the source of the discretion. Corroborates. It does not test the claim's other half.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: "no exit" supports the mechanism qualitatively, framed as institutionalization, not as the non-adopter's options.
 
 ## Limitations
 

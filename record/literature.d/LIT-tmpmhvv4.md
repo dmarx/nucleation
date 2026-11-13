@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy found on 2026-11-13; publisher pages are catalogue only; a Rosa chapter on an unidentified personal site was not fetched. Susen''s review essay (LIT-tmp4aab6) stands in.'
+status_note: 'no lawful copy found on 2026-11-13; publisher pages are catalogue only; a Rosa chapter on an unidentified personal site was not fetched. Susen''s review essay ([LIT-tmp4aab6](LIT-tmp4aab6.md)) stands in.'
 title: 'Resonance: A Sociology of Our Relationship to the World'
 version: 2
 history:
@@ -33,10 +33,10 @@ keywords:
 implementations: []
 summary: >-
   Hartmut Rosa (2019). Resonance. Polity. Unavailable. Through Susen
-  (LIT-tmp4aab6, NOTE-tmpnqe9r): the good life is measured by resonance,
+  ([LIT-tmp4aab6](LIT-tmp4aab6.md), [NOTE-tmpnqe9r](../notes.d/NOTE-tmpnqe9r.md)): the good life is measured by resonance,
   a responsive, transforming relation to the world that cannot be
   produced at will, not by resources or options; that qualifies
-  CLAIM-tmp6wuql's evaluative measure. Account: THEORY-tmpzibpi.
+  [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s evaluative measure. Account: [THEORY-tmpzibpi](../theory.d/THEORY-tmpzibpi.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql THEORY-tmpzibpi — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
@@ -54,4 +54,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmp4aab6, read in NOTE-tmpnqe9r; account THEORY-tmpzibpi.
+Unavailable. Stand-in: [LIT-tmp4aab6](LIT-tmp4aab6.md), read in [NOTE-tmpnqe9r](../notes.d/NOTE-tmpnqe9r.md); account [THEORY-tmpzibpi](../theory.d/THEORY-tmpzibpi.md).

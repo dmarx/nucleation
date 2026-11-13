@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the open Spanish translation in Persona y Sociedad (personaysociedad.uahurtado.cl) (NOTE-tmp6llzw).'
+status_note: 'read 2026-11-13 from the open Spanish translation in Persona y Sociedad (personaysociedad.uahurtado.cl) ([NOTE-tmp6llzw](../notes.d/NOTE-tmp6llzw.md)).'
 title: 'Social Acceleration: Ethical and Political Consequences of a Desynchronized High-Speed Society'
 version: 1
 history:
@@ -30,10 +30,10 @@ keywords:
 implementations: []
 summary: >-
   Rosa's programmatic 2003 article, the précis of the book's theory,
-  Skimmed in Spanish in NOTE-tmp6llzw: social acceleration has three
+  Skimmed in Spanish in [NOTE-tmp6llzw](../notes.d/NOTE-tmp6llzw.md): social acceleration has three
   dimensions (technological, of social change, of the pace of life)
   forming a closed, self-propelling cycle in which standing still means
-  falling behind. A stand-in for the theoretical core of LIT-tmp6zjsx.
+  falling behind. A stand-in for the theoretical core of [LIT-tmp6zjsx](LIT-tmp6zjsx.md).
 ---
 <!-- inactive-ok-file: LIT-tmp6zjsx — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-tmp6llzw — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -50,4 +50,4 @@ Hartmut Rosa (2003). Social Acceleration: Ethical and Political Consequences of 
 
 ## Standing in the record
 
-A stand-in for Rosa's Social Acceleration (LIT-tmp6zjsx). Read in NOTE-tmp6llzw; account THEORY-tmp0dvpy.
+A stand-in for Rosa's Social Acceleration ([LIT-tmp6zjsx](LIT-tmp6zjsx.md)). Read in [NOTE-tmp6llzw](../notes.d/NOTE-tmp6llzw.md); account [THEORY-tmp0dvpy](../theory.d/THEORY-tmp0dvpy.md).

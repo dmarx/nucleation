@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in part: the Preface and Chapter 6 from the author''s faculty site (sfu.ca/~andrewf) (NOTE-tmpgnw4a, Skimmed).'
+status_note: 'read 2026-11-13 in part: the Preface and Chapter 6 from the author''s faculty site (sfu.ca/~andrewf) ([NOTE-tmpgnw4a](../notes.d/NOTE-tmpgnw4a.md), Skimmed).'
 title: 'Transforming Technology: A Critical Theory Revisited'
 version: 2
 history:
@@ -37,10 +37,10 @@ summary: >-
   Andrew Feenberg (2002). Transforming Technology: A Critical Theory
   Revisited. Oxford UP, the second, revised edition of Critical Theory
   of Technology (1991). DOI-10.1093/oso/9780195146158.001.0001. Skimmed
-  (NOTE-tmpgnw4a): design embodies a contingent technical code;
+  ([NOTE-tmpgnw4a](../notes.d/NOTE-tmpgnw4a.md)): design embodies a contingent technical code;
   development is social struggle with many feasible outcomes; the
-  economic code rewards deskilling. Corroborates CLAIM-tmp6wuql.
-  Account: THEORY-tmpa59p3.
+  economic code rewards deskilling. Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md).
+  Account: [THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql THEORY-tmpa59p3 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpgnw4a — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -60,4 +60,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Skimmed: Preface and Chapter 6 (NOTE-tmpgnw4a); account THEORY-tmpa59p3. The book is the second, revised edition of Critical Theory of Technology (1991).
+Skimmed: Preface and Chapter 6 ([NOTE-tmpgnw4a](../notes.d/NOTE-tmpgnw4a.md)); account [THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md). The book is the second, revised edition of Critical Theory of Technology (1991).

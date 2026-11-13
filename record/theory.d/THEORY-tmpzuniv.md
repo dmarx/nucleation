@@ -18,7 +18,7 @@ Moen argues that Kaczynski's argument rests on largely defensible empirical worr
 
 ## Evidence
 
-The reading in NOTE-tmp1h9te. Corroborates CLAIM-tmpbypt7: the car city and the arms race are its infrastructural and competitive mechanisms, from a source independent of the exchange.
+The reading in [NOTE-tmp1h9te](../notes.d/NOTE-tmp1h9te.md). Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md): the car city and the arms race are its infrastructural and competitive mechanisms, from a source independent of the exchange.
 
 ## What it does not say
 

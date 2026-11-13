@@ -48,10 +48,10 @@ Democratic unfreedom; one-dimensionality; false needs; administration as dominat
 
 ## Bearing on the record
 
-- **CLAIM-tmpkjv7u**: contests its last clause. Version 1 said a dependence lacking a discretion-holder "is not domination, however complete"; on Marcuse's account (result 3) domination needs no authority figure. See ARG-tmpsh7he.
-- **QUESTION-071**: result 4 is a will shaped without its present structure showing it, the question's premise.
-- **THEORY-025**: Marcuse's false needs are kin to Sen's adaptive preferences, produced by social interests, not deprivation.
-- **TERM-tmpt8p9e**: democratic unfreedom is alignment without concordance in a non-totalitarian society.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: contests its last clause. Version 1 said a dependence lacking a discretion-holder "is not domination, however complete"; on Marcuse's account (result 3) domination needs no authority figure. See [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md).
+- **[QUESTION-071](../questions.d/QUESTION-071.md)**: result 4 is a will shaped without its present structure showing it, the question's premise.
+- **[THEORY-025](../theory.d/THEORY-025.md)**: Marcuse's false needs are kin to Sen's adaptive preferences, produced by social interests, not deprivation.
+- **[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md)**: democratic unfreedom is alignment without concordance in a non-totalitarian society.
 
 ## Limitations
 

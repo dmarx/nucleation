@@ -283,4 +283,4 @@ lean to the rival. Robertson, Bisiani and Hayes leave the grounds (version
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-Crawford's The World Beyond Your Head (LIT-tmpchx6j) was not reached; his NYT op-ed, read to its paywall, proposes treating attention as a resource held in common, which advertising appropriates. The nearest held entry to that is this claim (attention as revenue). Nothing is registered and no relation written.
+Crawford's The World Beyond Your Head ([LIT-tmpchx6j](../literature.d/LIT-tmpchx6j.md)) was not reached; his NYT op-ed, read to its paywall, proposes treating attention as a resource held in common, which advertising appropriates. The nearest held entry to that is this claim (attention as revenue). Nothing is registered and no relation written.

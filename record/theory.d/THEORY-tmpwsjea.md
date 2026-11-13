@@ -11,7 +11,7 @@ promote_when: >-
   a reading of the excerpt confirms imagination as a field of struggle,
   its rationing and confinement, and the call to cultivate it.
 summary: >-
-  Benjamin (2024), opening excerpt, Skimmed in NOTE-tmpetk2e.
+  Benjamin (2024), opening excerpt, Skimmed in [NOTE-tmpetk2e](../notes.d/NOTE-tmpetk2e.md).
   Imagination as a field of struggle.
 ---
 <!-- inactive-ok-file: NOTE-tmpetk2e — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -24,7 +24,7 @@ Benjamin argues that "Imagination is a field of struggle", rationed by instituti
 
 ## Evidence
 
-The reading in NOTE-tmpetk2e.
+The reading in [NOTE-tmpetk2e](../notes.d/NOTE-tmpetk2e.md).
 
 ## What it does not say
 

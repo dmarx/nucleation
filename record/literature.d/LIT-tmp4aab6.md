@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the publisher''s open PDF (Springer) (NOTE-tmpnqe9r).'
+status_note: 'read 2026-11-13 from the publisher''s open PDF (Springer) ([NOTE-tmpnqe9r](../notes.d/NOTE-tmpnqe9r.md)).'
 title: 'The Resonance of Resonance: Critical Theory as a Sociology of World-Relations?'
 version: 1
 history:
@@ -29,11 +29,11 @@ keywords:
 - 'Rosa'
 implementations: []
 summary: >-
-  Susen's review essay on Rosa's Resonance, read in NOTE-tmpnqe9r: the
+  Susen's review essay on Rosa's Resonance, read in [NOTE-tmpnqe9r](../notes.d/NOTE-tmpnqe9r.md): the
   good life is measured by the quality of a person's relation to the
   world, resonance, a responsive and transforming relation that cannot
   be produced at will, against alienation, not by resources or options.
-  A stand-in for the central account of LIT-tmpmhvv4.
+  A stand-in for the central account of [LIT-tmpmhvv4](LIT-tmpmhvv4.md).
 ---
 <!-- inactive-ok-file: LIT-tmpmhvv4 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpzibpi — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -49,4 +49,4 @@ Simon Susen (2020). The Resonance of Resonance: Critical Theory as a Sociology o
 
 ## Standing in the record
 
-A stand-in for Rosa's Resonance (LIT-tmpmhvv4). Read in NOTE-tmpnqe9r; account THEORY-tmpzibpi.
+A stand-in for Rosa's Resonance ([LIT-tmpmhvv4](LIT-tmpmhvv4.md)). Read in [NOTE-tmpnqe9r](../notes.d/NOTE-tmpnqe9r.md); account [THEORY-tmpzibpi](../theory.d/THEORY-tmpzibpi.md).

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in part: chapter 1 from a University of Athens course page (NOTE-tmplo9b2, Skimmed); the 1998 talk (LIT-tmptlpr8) as a stand-in for the principles. A whole-book copy on a personal site was not fetched.'
+status_note: 'read 2026-11-13 in part: chapter 1 from a University of Athens course page ([NOTE-tmplo9b2](../notes.d/NOTE-tmplo9b2.md), Skimmed); the 1998 talk ([LIT-tmptlpr8](LIT-tmptlpr8.md)) as a stand-in for the principles. A whole-book copy on a personal site was not fetched.'
 title: 'Technopoly: The Surrender of Culture to Technology'
 version: 2
 history:
@@ -36,12 +36,12 @@ keywords:
 implementations: []
 summary: >-
   Neil Postman (1992). Technopoly. Knopf. Skimmed (chapter 1,
-  NOTE-tmplo9b2); principles in the 1998 talk (LIT-tmptlpr8,
-  NOTE-tmpu15jn): every technology is a burden and a blessing, unevenly
+  [NOTE-tmplo9b2](../notes.d/NOTE-tmplo9b2.md)); principles in the 1998 talk ([LIT-tmptlpr8](LIT-tmptlpr8.md),
+  [NOTE-tmpu15jn](../notes.d/NOTE-tmpu15jn.md)): every technology is a burden and a blessing, unevenly
   distributed; its bias redefines a culture's words; change is
   ecological, largely irreversible; technologies become mythic.
-  Corroborates CLAIM-tmpbypt7. U1's Postman sentence is not in what was
-  read. Account: THEORY-tmp8mi75.
+  Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md). U1's Postman sentence is not in what was
+  read. Account: [THEORY-tmp8mi75](../theory.d/THEORY-tmp8mi75.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 THEORY-tmp8mi75 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmplo9b2 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -61,4 +61,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Skimmed: chapter 1 (NOTE-tmplo9b2); talk LIT-tmptlpr8 (NOTE-tmpu15jn); account THEORY-tmp8mi75. U1's quoted sentence not found.
+Skimmed: chapter 1 ([NOTE-tmplo9b2](../notes.d/NOTE-tmplo9b2.md)); talk [LIT-tmptlpr8](LIT-tmptlpr8.md) ([NOTE-tmpu15jn](../notes.d/NOTE-tmpu15jn.md)); account [THEORY-tmp8mi75](../theory.d/THEORY-tmp8mi75.md). U1's quoted sentence not found.

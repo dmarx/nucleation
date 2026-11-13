@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in part: the opening, from a publisher-licensed excerpt on Book Riot (2024-02-06, "Used with permission of the publisher, W. W. Norton") (NOTE-tmpetk2e, Skimmed).'
+status_note: 'read 2026-11-13 in part: the opening, from a publisher-licensed excerpt on Book Riot (2024-02-06, "Used with permission of the publisher, W. W. Norton") ([NOTE-tmpetk2e](../notes.d/NOTE-tmpetk2e.md), Skimmed).'
 title: 'Imagination: A Manifesto'
 version: 2
 history:
@@ -32,9 +32,9 @@ keywords:
 implementations: []
 summary: >-
   Ruha Benjamin (2024). Imagination: A Manifesto. W. W. Norton. Skimmed
-  (NOTE-tmpetk2e): imagination as a collective capacity and a field of
+  ([NOTE-tmpetk2e](../notes.d/NOTE-tmpetk2e.md)): imagination as a collective capacity and a field of
   struggle, rationed by institutions and confined by dominant
-  imaginaries. Slight bearing on the record. Account: THEORY-tmpwsjea.
+  imaginaries. Slight bearing on the record. Account: [THEORY-tmpwsjea](../theory.d/THEORY-tmpwsjea.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpetk2e — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmpwsjea — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -53,4 +53,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Skimmed: the opening excerpt (NOTE-tmpetk2e); account THEORY-tmpwsjea.
+Skimmed: the opening excerpt ([NOTE-tmpetk2e](../notes.d/NOTE-tmpetk2e.md)); account [THEORY-tmpwsjea](../theory.d/THEORY-tmpwsjea.md).

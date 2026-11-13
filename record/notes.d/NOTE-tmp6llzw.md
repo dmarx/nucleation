@@ -47,8 +47,8 @@ Social acceleration; acceleration cycle; slippery slope; desynchronization.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: corroborates its competitive mechanism (result 2, formally voluntary, strategically compelled) and its measure (result 3, keeping pace to avoid losing options and connections, which is what a non-adopter loses).
-- **TERM-tmpt8p9e**: desynchronization of democracy's temporal patterns threatens the answerability component.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates its competitive mechanism (result 2, formally voluntary, strategically compelled) and its measure (result 3, keeping pace to avoid losing options and connections, which is what a non-adopter loses).
+- **[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md)**: desynchronization of democracy's temporal patterns threatens the answerability component.
 
 ## Limitations
 

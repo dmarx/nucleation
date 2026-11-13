@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from a UC Davis course page (ECS 188) (NOTE-tmpu15jn).'
+status_note: 'read 2026-11-13 from a UC Davis course page (ECS 188) ([NOTE-tmpu15jn](../notes.d/NOTE-tmpu15jn.md)).'
 title: 'Five Things We Need to Know About Technological Change'
 version: 1
 history:
@@ -28,12 +28,12 @@ keywords:
 - 'irreversibility'
 implementations: []
 summary: >-
-  Postman's 1998 talk, read in NOTE-tmpu15jn: technological change is a
+  Postman's 1998 talk, read in [NOTE-tmpu15jn](../notes.d/NOTE-tmpu15jn.md): technological change is a
   trade-off whose costs and benefits fall unevenly; each technology
   embeds an idea; its effects are ecological, vast, often unpredictable
   and largely irreversible; and technologies become "mythic", accepted
   as natural and hard to control. A stand-in for the principles of
-  LIT-tmplkkhu, beside its chapter 1 (NOTE-tmplo9b2).
+  [LIT-tmplkkhu](LIT-tmplkkhu.md), beside its chapter 1 ([NOTE-tmplo9b2](../notes.d/NOTE-tmplo9b2.md)).
 ---
 <!-- inactive-ok-file: NOTE-tmplo9b2 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: THEORY-tmp8mi75 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -49,4 +49,4 @@ Neil Postman (1998). "Five Things We Need to Know About Technological Change". T
 
 ## Standing in the record
 
-A stand-in for Postman's Technopoly (LIT-tmplkkhu). Read in NOTE-tmpu15jn; account THEORY-tmp8mi75.
+A stand-in for Postman's Technopoly ([LIT-tmplkkhu](LIT-tmplkkhu.md)). Read in [NOTE-tmpu15jn](../notes.d/NOTE-tmpu15jn.md); account [THEORY-tmp8mi75](../theory.d/THEORY-tmp8mi75.md).

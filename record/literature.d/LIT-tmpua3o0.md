@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in part: the Introduction, as a ProQuest export on a course reading page (gofilipa.github.io) (NOTE-tmpqutzv, Skimmed). An IAS excerpt page served a Cloudflare challenge.'
+status_note: 'read 2026-11-13 in part: the Introduction, as a ProQuest export on a course reading page (gofilipa.github.io) ([NOTE-tmpqutzv](../notes.d/NOTE-tmpqutzv.md), Skimmed). An IAS excerpt page served a Cloudflare challenge.'
 title: 'Race After Technology: Abolitionist Tools for the New Jim Code'
 version: 2
 history:
@@ -33,11 +33,11 @@ keywords:
 implementations: []
 summary: >-
   Ruha Benjamin (2019). Race After Technology. Polity. Skimmed
-  (NOTE-tmpqutzv): the New Jim Code, technologies that reproduce racial
+  ([NOTE-tmpqutzv](../notes.d/NOTE-tmpqutzv.md)): the New Jim Code, technologies that reproduce racial
   hierarchies while promoted as objective, because designers encode
   judgments, including by default, and treat the results as external.
-  "Default discrimination" marks a limit of CLAIM-tmpkjv7u's threshold.
-  Account: THEORY-tmpo6ipc.
+  "Default discrimination" marks a limit of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold.
+  Account: [THEORY-tmpo6ipc](../theory.d/THEORY-tmpo6ipc.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u THEORY-tmpo6ipc — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpqutzv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -56,4 +56,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Skimmed: Introduction (NOTE-tmpqutzv); account THEORY-tmpo6ipc.
+Skimmed: Introduction ([NOTE-tmpqutzv](../notes.d/NOTE-tmpqutzv.md)); account [THEORY-tmpo6ipc](../theory.d/THEORY-tmpo6ipc.md).

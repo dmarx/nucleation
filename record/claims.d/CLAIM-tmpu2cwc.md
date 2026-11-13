@@ -101,6 +101,6 @@ record) leave open and which a comparison could tell against.
 
 ## Note of 2026-11-13: the readings of 2026-11-13
 
-- **Feenberg** (THEORY-tmpa59p3): governing standards (the technical code) are contingent and revisable through social struggle, and inherited codes undervalue some goods. That supports the premise; it is not evidence for the comparative prediction. No relation.
-- **Morozov** (THEORY-tmps3a0q): optimizing behaviour within a system against reforming "the system itself" parallels this claim's contrast between outcome monitoring and revising standards; no comparative evidence. No relation.
-- **Benjamin** (THEORY-tmpo6ipc): inherited defaults causing persistent failure is consistent with the premise that inadequate standards cause persistent failure.
+- **Feenberg** ([THEORY-tmpa59p3](../theory.d/THEORY-tmpa59p3.md)): governing standards (the technical code) are contingent and revisable through social struggle, and inherited codes undervalue some goods. That supports the premise; it is not evidence for the comparative prediction. No relation.
+- **Morozov** ([THEORY-tmps3a0q](../theory.d/THEORY-tmps3a0q.md)): optimizing behaviour within a system against reforming "the system itself" parallels this claim's contrast between outcome monitoring and revising standards; no comparative evidence. No relation.
+- **Benjamin** ([THEORY-tmpo6ipc](../theory.d/THEORY-tmpo6ipc.md)): inherited defaults causing persistent failure is consistent with the premise that inadequate standards cause persistent failure.

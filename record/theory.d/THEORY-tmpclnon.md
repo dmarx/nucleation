@@ -13,9 +13,9 @@ date: '2026-11-13'
 promote_when: >-
   a reading of the essay confirms these statements.
 summary: >-
-  Han (2014), read in NOTE-tmphjyfw. Seductive power; dependence with no
-  one opposite. A stand-in for LIT-tmp8gddh; it marks the limit of
-  CLAIM-tmpkjv7u's threshold.
+  Han (2014), read in [NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md). Seductive power; dependence with no
+  one opposite. A stand-in for [LIT-tmp8gddh](../literature.d/LIT-tmp8gddh.md); it marks the limit of
+  [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold.
 bears_on:
 - QUESTION-071
 ---
@@ -30,7 +30,7 @@ Han argues that the power maintaining the system is "no longer repressive, and i
 
 ## Evidence
 
-The reading in NOTE-tmphjyfw. It bounds CLAIM-tmpkjv7u: dependence without a discretion-holder, outside the claim's test by its version 2.
+The reading in [NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md). It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md): dependence without a discretion-holder, outside the claim's test by its version 2.
 
 ## What it does not say
 

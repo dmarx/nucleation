@@ -15,9 +15,9 @@ promote_when: >-
   data, the resulting epistemic inequality, the power to modify
   behaviour, and the condition of no exit.
 summary: >-
-  Zuboff (2022), Skimmed in NOTE-tmph5wwv. Epistemic inequality;
-  instrumentarian power; no exit. A stand-in for LIT-tmpr925z; a worked
-  case corroborating CLAIM-tmpkjv7u.
+  Zuboff (2022), Skimmed in [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md). Epistemic inequality;
+  instrumentarian power; no exit. A stand-in for [LIT-tmpr925z](../literature.d/LIT-tmpr925z.md); a worked
+  case corroborating [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpr925z — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -31,7 +31,7 @@ Zuboff argues that surveillance capitalism concentrates knowledge about people (
 
 ## Evidence
 
-The reading in NOTE-tmph5wwv. Corroborates CLAIM-tmpkjv7u as a case of all three conditions.
+The reading in [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md). Corroborates [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md) as a case of all three conditions.
 
 ## What it does not say
 

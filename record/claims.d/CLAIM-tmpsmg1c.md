@@ -85,6 +85,6 @@ than any participant can bear.
 
 ## Note of 2026-11-13: the readings of 2026-11-13
 
-- **Postman** (THEORY-tmp8mi75): the consequences of technological change are "always vast, often unpredictable and largely irreversible", and he counsels caution. Corroborates the premise; he states no burden rule.
-- **Moen** (THEORY-tmpzuniv): control of technological progress faces "both an epistemic problem and a coordination problem", the uncertainty with later learning this claim's reason needs. Corroborates the premise.
-- **Rosa** (THEORY-tmp0dvpy): a modern society can be slowed "but only at the cost of its institutions getting in crises", the cost of reversing a structural ratchet at the scale of the whole. A point of contact, no relation.
+- **Postman** ([THEORY-tmp8mi75](../theory.d/THEORY-tmp8mi75.md)): the consequences of technological change are "always vast, often unpredictable and largely irreversible", and he counsels caution. Corroborates the premise; he states no burden rule.
+- **Moen** ([THEORY-tmpzuniv](../theory.d/THEORY-tmpzuniv.md)): control of technological progress faces "both an epistemic problem and a coordination problem", the uncertainty with later learning this claim's reason needs. Corroborates the premise.
+- **Rosa** ([THEORY-tmp0dvpy](../theory.d/THEORY-tmp0dvpy.md)): a modern society can be slowed "but only at the cost of its institutions getting in crises", the cost of reversing a structural ratchet at the scale of the whole. A point of contact, no relation.

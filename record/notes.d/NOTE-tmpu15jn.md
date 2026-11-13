@@ -43,9 +43,9 @@ Trade-off; winners and losers; ecological change; mythic technology.
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: corroborates its institutional and cultural mechanisms: the curriculum reorganized around the tests (result 3) and mythic acceptance (result 4).
-- **CLAIM-tmpsmg1c**: supports its premise (result 2: vast, unpredictable, largely irreversible); Postman counsels caution and states no burden rule.
-- **TERM-tmpt8p9e**: winners and losers are the declared parties whose claims diverge.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates its institutional and cultural mechanisms: the curriculum reorganized around the tests (result 3) and mythic acceptance (result 4).
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: supports its premise (result 2: vast, unpredictable, largely irreversible); Postman counsels caution and states no burden rule.
+- **[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md)**: winners and losers are the declared parties whose claims diverge.
 
 ## Limitations
 

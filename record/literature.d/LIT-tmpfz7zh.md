@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from a University of Athens course page (eclass, LAW382), the publisher''s open PDF (NOTE-tmph5wwv).'
+status_note: 'read 2026-11-13 from a University of Athens course page (eclass, LAW382), the publisher''s open PDF ([NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md)).'
 title: 'Surveillance Capitalism or Democracy? The Death Match of Institutional Orders and the Politics of Knowledge in Our Information Civilization'
 version: 1
 history:
@@ -28,12 +28,12 @@ keywords:
 - 'instrumentarian power'
 implementations: []
 summary: >-
-  Zuboff's 2022 article, Skimmed in NOTE-tmph5wwv: surveillance
+  Zuboff's 2022 article, Skimmed in [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md): surveillance
   capitalism is an institutional order that commodifies behaviour,
   concentrates knowledge about people in a few firms, produces epistemic
   inequality, and yields a power to modify behaviour that competes with
   democratic governance; nearly all roads to participation lead through
-  it. A stand-in for the central account of LIT-tmpr925z.
+  it. A stand-in for the central account of [LIT-tmpr925z](LIT-tmpr925z.md).
 ---
 <!-- inactive-ok-file: LIT-tmpr925z — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-tmph5wwv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -50,4 +50,4 @@ Shoshana Zuboff (2022). Surveillance Capitalism or Democracy? *Organization Theo
 
 ## Standing in the record
 
-A stand-in for Zuboff's The Age of Surveillance Capitalism (LIT-tmpr925z). Read in NOTE-tmph5wwv; account THEORY-tmpbgf6v.
+A stand-in for Zuboff's The Age of Surveillance Capitalism ([LIT-tmpr925z](LIT-tmpr925z.md)). Read in [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md); account [THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md).

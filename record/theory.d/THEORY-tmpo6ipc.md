@@ -15,8 +15,8 @@ promote_when: >-
   Code and its attribution to judgments encoded in design, including by
   default.
 summary: >-
-  Benjamin (2019), Introduction, Skimmed in NOTE-tmpqutzv. The New Jim
-  Code; default discrimination. It marks the limit of CLAIM-tmpkjv7u's
+  Benjamin (2019), Introduction, Skimmed in [NOTE-tmpqutzv](../notes.d/NOTE-tmpqutzv.md). The New Jim
+  Code; default discrimination. It marks the limit of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s
   threshold.
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -30,7 +30,7 @@ Benjamin argues that "the road to inequity is paved with technical fixes": "tech
 
 ## Evidence
 
-The reading in NOTE-tmpqutzv. It bounds CLAIM-tmpkjv7u: subordination by default with no present discretion-holder, outside the claim's test by its version 2.
+The reading in [NOTE-tmpqutzv](../notes.d/NOTE-tmpqutzv.md). It bounds [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md): subordination by default with no present discretion-holder, outside the claim's test by its version 2.
 
 ## What it does not say
 

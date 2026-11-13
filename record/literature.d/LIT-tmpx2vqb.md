@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the Carnegie Council''s own PDF of the event page (NOTE-tmp6ywh9).'
+status_note: 'read 2026-11-13 from the Carnegie Council''s own PDF of the event page ([NOTE-tmp6ywh9](../notes.d/NOTE-tmp6ywh9.md)).'
 title: 'To Save Everything, Click Here: The Folly of Technological Solutionism (Carnegie Council talk)'
 version: 1
 history:
@@ -27,12 +27,12 @@ keywords:
 - 'nudging'
 implementations: []
 summary: >-
-  Morozov's talk on his book, read in NOTE-tmp6ywh9: solutionism recasts
+  Morozov's talk on his book, read in [NOTE-tmp6ywh9](../notes.d/NOTE-tmp6ywh9.md): solutionism recasts
   political and moral problems as technical ones to be optimized with
   sensors, data and incentives, displacing structural reform and moral
   motivation, and can make a voluntary technology such as self-tracking
   a penalty on those who decline it. A stand-in for the argument of
-  LIT-tmpvhqhp.
+  [LIT-tmpvhqhp](LIT-tmpvhqhp.md).
 ---
 <!-- inactive-ok-file: LIT-tmpvhqhp — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmps3a0q — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -48,4 +48,4 @@ Evgeny Morozov (2013). "To Save Everything, Click Here: The Folly of Technologic
 
 ## Standing in the record
 
-A stand-in for Morozov's book To Save Everything, Click Here (LIT-tmpvhqhp). Read in NOTE-tmp6ywh9; account THEORY-tmps3a0q.
+A stand-in for Morozov's book To Save Everything, Click Here ([LIT-tmpvhqhp](LIT-tmpvhqhp.md)). Read in [NOTE-tmp6ywh9](../notes.d/NOTE-tmp6ywh9.md); account [THEORY-tmps3a0q](../theory.d/THEORY-tmps3a0q.md).

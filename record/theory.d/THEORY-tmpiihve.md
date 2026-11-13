@@ -16,9 +16,9 @@ promote_when: >-
   the separation of judgment from the job for labour cost, its spread by
   competition and its extension to office work.
 summary: >-
-  Crawford (2006), read in NOTE-tmpjk31w. Deskilling as relocation of
-  judgment. A stand-in for LIT-tmpy2xkm; corroborates CLAIM-tmp6wuql and
-  CLAIM-tmpbypt7.
+  Crawford (2006), read in [NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md). Deskilling as relocation of
+  judgment. A stand-in for [LIT-tmpy2xkm](../literature.d/LIT-tmpy2xkm.md); corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) and
+  [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpy2xkm — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -31,7 +31,7 @@ Crawford argues that "the degradation of work is ultimately a cognitive matter":
 
 ## Evidence
 
-The reading in NOTE-tmpjk31w. Corroborates CLAIM-tmp6wuql's premise and CLAIM-tmpbypt7's competitive mechanism.
+The reading in [NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md). Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise and [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)'s competitive mechanism.
 
 ## What it does not say
 

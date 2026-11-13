@@ -15,9 +15,9 @@ promote_when: >-
   technical code, development as social struggle with many feasible
   outcomes, and the claim that the economic code rewards deskilling.
 summary: >-
-  Feenberg (2002), Preface and ch. 6, Skimmed in NOTE-tmpgnw4a.
+  Feenberg (2002), Preface and ch. 6, Skimmed in [NOTE-tmpgnw4a](../notes.d/NOTE-tmpgnw4a.md).
   Contingent technical code; deskilling as a code's choice. Corroborates
-  CLAIM-tmp6wuql.
+  [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp6wuql CLAIM-tmpu2cwc — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmpgnw4a — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -30,8 +30,8 @@ Feenberg argues that "Technological development is a scene of social struggle" o
 
 ## Evidence
 
-The reading in NOTE-tmpgnw4a. Corroborates CLAIM-tmp6wuql's premise.
+The reading in [NOTE-tmpgnw4a](../notes.d/NOTE-tmpgnw4a.md). Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)'s premise.
 
 ## What it does not say
 
-Evidence that institutions able to revise their codes fail less (CLAIM-tmpu2cwc asks for it).
+Evidence that institutions able to revise their codes fail less ([CLAIM-tmpu2cwc](../claims.d/CLAIM-tmpu2cwc.md) asks for it).

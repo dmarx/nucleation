@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the authors'' own site, anatomyof.ai (NOTE-tmp60nf7).'
+status_note: 'read 2026-11-13 from the authors'' own site, anatomyof.ai ([NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md)).'
 title: 'Anatomy of an AI System: The Amazon Echo as an anatomical map of human labor, data and planetary resources'
 version: 1
 history:
@@ -31,12 +31,12 @@ keywords:
 - 'data'
 implementations: []
 summary: >-
-  Crawford and Joler's essay, read in NOTE-tmp60nf7: even a small AI
+  Crawford and Joler's essay, read in [NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md): even a small AI
   device rests on a planetary system of extraction of minerals, labour
   and data, whose value concentrates in a very thin layer at the top;
   transparency without real choice and accountability does not change
   the resulting power asymmetry. A stand-in for the extraction thesis of
-  LIT-tmpn03u4.
+  [LIT-tmpn03u4](LIT-tmpn03u4.md).
 ---
 <!-- inactive-ok-file: LIT-tmpn03u4 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpq29mb — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -52,4 +52,4 @@ Kate Crawford and Vladan Joler (2018). "Anatomy of an AI System". AI Now Institu
 
 ## Standing in the record
 
-A stand-in for Kate Crawford's Atlas of AI (LIT-tmpn03u4). Read in NOTE-tmp60nf7; account THEORY-tmpq29mb.
+A stand-in for Kate Crawford's Atlas of AI ([LIT-tmpn03u4](LIT-tmpn03u4.md)). Read in [NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md); account [THEORY-tmpq29mb](../theory.d/THEORY-tmpq29mb.md).

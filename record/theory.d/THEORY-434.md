@@ -129,4 +129,4 @@ neither.
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-Gardner's critical notice of The Idea of Justice (THEORY-tmpo67z2) makes Valentini's objection independently: the contrast of transcendental and comparative theories "seem[s] more temperamental than strictly philosophical", and ranking injustices needs a standard of justice. A second reviewer, not the book; this entry's promote_when is not met by it. No status change.
+Gardner's critical notice of The Idea of Justice ([THEORY-tmpo67z2](THEORY-tmpo67z2.md)) makes Valentini's objection independently: the contrast of transcendental and comparative theories "seem[s] more temperamental than strictly philosophical", and ranking injustices needs a standard of justice. A second reviewer, not the book; this entry's promote_when is not met by it. No status change.

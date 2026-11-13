@@ -40,7 +40,7 @@ The opening statement of the book's argument.
 
 ## Assumptions
 
-As in NOTE-tmpu15jn.
+As in [NOTE-tmpu15jn](NOTE-tmpu15jn.md).
 
 ## Concepts
 
@@ -49,7 +49,7 @@ Trade-off; ideological bias of tools; ecological change; Technopoly.
 ## Bearing on the record
 
 - **U1's Postman sentence**, about treating the unmeasurable as unimportant, is not in this chapter; it is not to be quoted as Postman's.
-- **CLAIM-tmpbypt7**, **CLAIM-tmpsmg1c**: see NOTE-tmpu15jn.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**, **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: see [NOTE-tmpu15jn](NOTE-tmpu15jn.md).
 
 ## Limitations
 

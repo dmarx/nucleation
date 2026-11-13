@@ -50,9 +50,9 @@ Technique; technicist society; autonomy; self-augmentation; reaction (self-corre
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: corroborates, and goes further. Result 5 is the non-adopter's shrinking options as the claim measures them. Result 6 is stronger than the claim, which assumes choices still matter.
-- **TERM-tmpt8p9e**: result 4 is a whole without the answerability the term asks for.
-- **CLAIM-030**: a point of contact (the whole's operation is not its members' choices).
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates, and goes further. Result 5 is the non-adopter's shrinking options as the claim measures them. Result 6 is stronger than the claim, which assumes choices still matter.
+- **[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md)**: result 4 is a whole without the answerability the term asks for.
+- **[CLAIM-030](../claims.d/CLAIM-030.md)**: a point of contact (the whole's operation is not its members' choices).
 - **U1's definition** of technique paraphrases the book's fairly; "nobody needs to be in charge" is consistent with autonomy but is not Ellul's sentence.
 
 ## Limitations

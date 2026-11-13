@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the accepted manuscript in the Norwegian national research archive (NVA, via urn.nb.no/URN:NBN:no-79840) (NOTE-tmp1h9te).'
+status_note: 'read 2026-11-13 from the accepted manuscript in the Norwegian national research archive (NVA, via urn.nb.no/URN:NBN:no-79840) ([NOTE-tmp1h9te](../notes.d/NOTE-tmp1h9te.md)).'
 title: 'The Unabomber''s Ethics'
 version: 1
 history:
@@ -30,13 +30,13 @@ keywords:
 - 'arms race'
 implementations: []
 summary: >-
-  Moen (2019), read in NOTE-tmp1h9te: a philosophical critique of
+  Moen (2019), read in [NOTE-tmp1h9te](../notes.d/NOTE-tmp1h9te.md): a philosophical critique of
   Kaczynski's case against industrial technology, which grants its
   empirical worries (control of technology faces an epistemic and a
   coordination problem; technological progress is an arms race) and
   locates its failure in unargued evaluative premises that count
   technology's harms and not its benefits. A stand-in for the
-  reconstruction of Kaczynski's argument, not its text (LIT-tmp54uw9).
+  reconstruction of Kaczynski's argument, not its text ([LIT-tmp54uw9](LIT-tmp54uw9.md)).
 ---
 <!-- inactive-ok-file: LIT-tmp54uw9 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpzuniv — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -52,4 +52,4 @@ Ole Martin Moen (2019). The Unabomber's Ethics. *Bioethics* 33(2), 223–229. DO
 
 ## Standing in the record
 
-A stand-in for Kaczynski's Technological Slavery (LIT-tmp54uw9). Read in NOTE-tmp1h9te; account THEORY-tmpzuniv.
+A stand-in for Kaczynski's Technological Slavery ([LIT-tmp54uw9](LIT-tmp54uw9.md)). Read in [NOTE-tmp1h9te](../notes.d/NOTE-tmp1h9te.md); account [THEORY-tmpzuniv](../theory.d/THEORY-tmpzuniv.md).

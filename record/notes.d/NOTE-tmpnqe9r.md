@@ -46,7 +46,7 @@ Resonance; alienation; world-relation; unavailability.
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql**: qualifies its evaluative measure from outside. On Rosa's criterion a capability set, even assessed as a trajectory, describes options and resources, not the quality of the relation (result 3); the derivation is untouched.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: qualifies its evaluative measure from outside. On Rosa's criterion a capability set, even assessed as a trajectory, describes options and resources, not the quality of the relation (result 3); the derivation is untouched.
 - **The exchange's** A11 §7 account of resonance is accurate to Susen's restatement.
 
 ## Limitations

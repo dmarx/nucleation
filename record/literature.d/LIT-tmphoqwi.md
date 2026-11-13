@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the publisher''s page, The New Atlantis (NOTE-tmpjk31w).'
+status_note: 'read 2026-11-13 from the publisher''s page, The New Atlantis ([NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md)).'
 title: 'Shop Class as Soulcraft: The case for the manual trades'
 version: 1
 history:
@@ -31,12 +31,12 @@ keywords:
 implementations: []
 summary: >-
   Crawford's 2006 essay, the seed of his 2009 book, read in
-  NOTE-tmpjk31w: skilled manual work is cognitively demanding and a
+  [NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md): skilled manual work is cognitively demanding and a
   ground of agency; the degradation of work is cognitive, moving
   judgment out of the job into management or a system so skilled workers
   can be replaced by cheaper ones; competition spreads the method;
   expert systems now do the same to office work. A stand-in for the
-  argument of LIT-tmpy2xkm.
+  argument of [LIT-tmpy2xkm](LIT-tmpy2xkm.md).
 ---
 <!-- inactive-ok-file: LIT-tmpy2xkm — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpiihve — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -52,4 +52,4 @@ Matthew B. Crawford (2006). "Shop Class as Soulcraft". *The New Atlantis* 13 (Su
 
 ## Standing in the record
 
-A stand-in for Crawford's book Shop Class as Soulcraft (LIT-tmpy2xkm). Read in NOTE-tmpjk31w; account THEORY-tmpiihve.
+A stand-in for Crawford's book Shop Class as Soulcraft ([LIT-tmpy2xkm](LIT-tmpy2xkm.md)). Read in [NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md); account [THEORY-tmpiihve](../theory.d/THEORY-tmpiihve.md).

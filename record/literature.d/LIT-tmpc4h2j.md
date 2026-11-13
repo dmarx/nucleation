@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the Schirn Kunsthalle''s magazine (a licensed reprint) (NOTE-tmphjyfw).'
+status_note: 'read 2026-11-13 from the Schirn Kunsthalle''s magazine (a licensed reprint) ([NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md)).'
 title: 'Why revolution is no longer possible'
 version: 1
 history:
@@ -30,11 +30,11 @@ keywords:
 - 'psychopolitics'
 implementations: []
 summary: >-
-  Han's 2014 essay, the year of Psychopolitik, read in NOTE-tmphjyfw:
+  Han's 2014 essay, the year of Psychopolitik, read in [NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md):
   the power that maintains the neoliberal system is seductive, not
   repressive; it exploits freedom, makes people dependent, and leaves
   "no person opposite" to resist, so the subjugated do not know they are
-  subjugated. A stand-in for the central claim of LIT-tmp8gddh.
+  subjugated. A stand-in for the central claim of [LIT-tmp8gddh](LIT-tmp8gddh.md).
 ---
 <!-- inactive-ok-file: LIT-tmp8gddh — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-tmpclnon — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -50,4 +50,4 @@ Byung-Chul Han (2014). "Why revolution is no longer possible". First published i
 
 ## Standing in the record
 
-A stand-in for Han's Psychopolitics (LIT-tmp8gddh). Read in NOTE-tmphjyfw; account THEORY-tmpclnon.
+A stand-in for Han's Psychopolitics ([LIT-tmp8gddh](LIT-tmp8gddh.md)). Read in [NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md); account [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md).

@@ -111,7 +111,7 @@ of freedom; A23 §8).
 
 ## Note of 2026-11-13: the readings of 2026-11-13
 
-- **Ellul 1983** (THEORY-tmpypzp0): technique "is not yet able to control its errors and dysfunctions", a highly integrated whole without the answerability this term asks for.
-- **Marcuse through Farr** (THEORY-tmpnydju): democratic unfreedom is alignment without concordance in a non-totalitarian society, the term's first exclusion.
-- **Rosa** (THEORY-tmp0dvpy): desynchronization overloads the time democratic correction needs, a threat to the answerability component.
-- **Postman** (THEORY-tmp8mi75): winners and losers of a technology are declared parties whose claims diverge.
+- **Ellul 1983** ([THEORY-tmpypzp0](../theory.d/THEORY-tmpypzp0.md)): technique "is not yet able to control its errors and dysfunctions", a highly integrated whole without the answerability this term asks for.
+- **Marcuse through Farr** ([THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)): democratic unfreedom is alignment without concordance in a non-totalitarian society, the term's first exclusion.
+- **Rosa** ([THEORY-tmp0dvpy](../theory.d/THEORY-tmp0dvpy.md)): desynchronization overloads the time democratic correction needs, a threat to the answerability component.
+- **Postman** ([THEORY-tmp8mi75](../theory.d/THEORY-tmp8mi75.md)): winners and losers of a technology are declared parties whose claims diverge.

@@ -49,9 +49,9 @@ Technical code; ambivalence; democratic rationalization (not in the pages read);
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql**: corroborates its premise at the level of economic codes: a code that rewards deskilling chooses designs that shrink workers' capacities, and one that counted skill would choose otherwise (result 5).
-- **CLAIM-tmpu2cwc**: supports its premise that governing standards (the technical code) are contingent and revisable; no comparative evidence.
-- **CLAIM-tmpbypt7**: consistent with it and shifts the emphasis: lock-in depends on the prevailing code, not on the technology.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: corroborates its premise at the level of economic codes: a code that rewards deskilling chooses designs that shrink workers' capacities, and one that counted skill would choose otherwise (result 5).
+- **[CLAIM-tmpu2cwc](../claims.d/CLAIM-tmpu2cwc.md)**: supports its premise that governing standards (the technical code) are contingent and revisable; no comparative evidence.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: consistent with it and shifts the emphasis: lock-in depends on the prevailing code, not on the technology.
 - **The LIT** is the second, revised edition of Critical Theory of Technology (1991); corrected there.
 
 ## Limitations

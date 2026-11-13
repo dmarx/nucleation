@@ -17,7 +17,7 @@ date: '2026-11-13'
 line:
 - organizational-normativity
 summary: >-
-  The readings of 2026-11-13 against version 1 of CLAIM-tmpkjv7u, which said that
+  The readings of 2026-11-13 against version 1 of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), which said that
   a dependence lacking a discretion-holder "is not domination, however
   complete". Contested support: the readings describe complete
   constraint with no one holding discretion, which Marcuse calls
@@ -34,9 +34,9 @@ summary: >-
 
 ## The inference
 
-1. THEORY-tmpnydju: Marcuse holds that "domination no longer requires force or the presence of an authority figure"; "all domination assumes the form of administration".
-2. THEORY-tmpclnon: neoliberal power "tries to make them dependent", and "There is no person opposite"; THEORY-tmp5hgen: freedom and constraint coincide in auto-exploitation, though Han calls this "the disappearance of domination".
-3. THEORY-tmpo6ipc: "default discrimination", subordination by defaults and inherited data with no discretionary act now.
+1. [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md): Marcuse holds that "domination no longer requires force or the presence of an authority figure"; "all domination assumes the form of administration".
+2. [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md): neoliberal power "tries to make them dependent", and "There is no person opposite"; [THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md): freedom and constraint coincide in auto-exploitation, though Han calls this "the disappearance of domination".
+3. [THEORY-tmpo6ipc](../theory.d/THEORY-tmpo6ipc.md): "default discrimination", subordination by defaults and inherited data with no discretionary act now.
 4. So a complete dependence can lack anyone holding consequential discretion and still be domination (Marcuse, Benjamin) or unfreedom (Han). Version 1's clause "is not domination, however complete" is false on those accounts.
 
 ## Critical questions

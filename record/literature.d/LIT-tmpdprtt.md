@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'searched 2026-11-13 for a lawful copy and found none: whole-book uploads at archive.org and anarchist-library mirrors were not fetched, not being lawful copies; "The Technological Order" (1962) was not found at the address a search gave (ellul.org/?p=18, HTTP 404); PhilPapers'' API returned HTTP 403 for a related analysis and was not retried. Ellul''s 1983 restatement, as posted by the International Jacques Ellul Society (LIT-tmplagrk), stands in for the definition and thesis.'
+status_note: 'searched 2026-11-13 for a lawful copy and found none: whole-book uploads at archive.org and anarchist-library mirrors were not fetched, not being lawful copies; "The Technological Order" (1962) was not found at the address a search gave (ellul.org/?p=18, HTTP 404); PhilPapers'' API returned HTTP 403 for a related analysis and was not retried. Ellul''s 1983 restatement, as posted by the International Jacques Ellul Society ([LIT-tmplagrk](LIT-tmplagrk.md)), stands in for the definition and thesis.'
 title: 'The Technological Society'
 version: 2
 history:
@@ -39,13 +39,13 @@ keywords:
 implementations: []
 summary: >-
   Jacques Ellul (1964). The Technological Society. Knopf. Unavailable.
-  Through Ellul's 1983 restatement (LIT-tmplagrk, NOTE-tmp8721q):
+  Through Ellul's 1983 restatement ([LIT-tmplagrk](LIT-tmplagrk.md), [NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md)):
   technique, "the totality of methods, rationally arrived at" and of
   absolute efficiency, is the milieu modern humans must live in,
   autonomous, unified, universal and totalizing, not yet able to correct
   its own errors, so that particular choices count for little. Outside
   the technical city "the only choices left" are two, which corroborates
-  CLAIM-tmpbypt7. Account: THEORY-tmpypzp0.
+  [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md). Account: [THEORY-tmpypzp0](../theory.d/THEORY-tmpypzp0.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpypzp0 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the same exchange, Proposed -->
@@ -64,4 +64,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmplagrk, read in NOTE-tmp8721q; account THEORY-tmpypzp0.
+Unavailable. Stand-in: [LIT-tmplagrk](LIT-tmplagrk.md), read in [NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md); account [THEORY-tmpypzp0](../theory.d/THEORY-tmpypzp0.md).

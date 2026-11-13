@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 in part: the chapter "Beyond Disciplinary Society" as excerpted with the publisher''s notice on a Courtauld Institute page (NOTE-tmptncfp, Skimmed). sup.org served HTTP 429.'
+status_note: 'read 2026-11-13 in part: the chapter "Beyond Disciplinary Society" as excerpted with the publisher''s notice on a Courtauld Institute page ([NOTE-tmptncfp](../notes.d/NOTE-tmptncfp.md), Skimmed). sup.org served HTTP 429.'
 title: 'The Burnout Society'
 version: 2
 history:
@@ -37,11 +37,11 @@ keywords:
 implementations: []
 summary: >-
   Byung-Chul Han (2015). The Burnout Society. Stanford UP.
-  DOI-10.1515/9780804797504. Skimmed (NOTE-tmptncfp): the passage from a
+  DOI-10.1515/9780804797504. Skimmed ([NOTE-tmptncfp](../notes.d/NOTE-tmptncfp.md)): the passage from a
   disciplinary to an achievement society, whose subjects, free of
   external domination, exploit themselves in a freedom that coincides
-  with constraint. It marks a limit of CLAIM-tmpkjv7u's threshold.
-  Account: THEORY-tmp5hgen.
+  with constraint. It marks a limit of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold.
+  Account: [THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u THEORY-tmp5hgen — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-tmptncfp — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -60,4 +60,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Skimmed: "Beyond Disciplinary Society" (NOTE-tmptncfp); account THEORY-tmp5hgen.
+Skimmed: "Beyond Disciplinary Society" ([NOTE-tmptncfp](../notes.d/NOTE-tmptncfp.md)); account [THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md).

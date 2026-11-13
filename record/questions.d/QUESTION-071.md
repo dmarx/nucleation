@@ -293,7 +293,7 @@ unchanged.
 
 Readings filed for the exchange's works on 2026-11-13, each now with `bears_on` this question:
 
-- **Marcuse through Farr's SEP entry** (THEORY-tmpnydju): "The system must make the citizens think that they are freer than they really are": a will shaped without its present structure showing it, the question's premise; Marcuse's answer, critical "two-dimensional" thought, is historical.
-- **Han** (THEORY-tmp5hgen, THEORY-tmpclnon): achievement subjects feel free, and "the subjugated individual is not even aware of being subjugated".
+- **Marcuse through Farr's SEP entry** ([THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)): "The system must make the citizens think that they are freer than they really are": a will shaped without its present structure showing it, the question's premise; Marcuse's answer, critical "two-dimensional" thought, is historical.
+- **Han** ([THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md), [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md)): achievement subjects feel free, and "the subjugated individual is not even aware of being subjugated".
 
 Neither gives a criterion that tells a manipulated will from one that is not. The question is unchanged.

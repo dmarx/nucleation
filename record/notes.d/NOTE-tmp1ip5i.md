@@ -47,9 +47,9 @@ Dynamic stabilization; post-growth; desynchronization.
 
 ## Bearing on the record
 
-- **LIT-tmp6zjsx**: the LIT's keyword "dynamic stabilization" is Rosa's later term, not this book's (result 2); A11 §2's attribution is true of Rosa, not of the book.
-- **CLAIM-tmpbypt7**: corroborates (result 3: strategic compulsion at the level of structure).
-- **CLAIM-tmpsmg1c**: result 5 is the cost of reversing a structural ratchet at the scale of the whole.
+- **[LIT-tmp6zjsx](../literature.d/LIT-tmp6zjsx.md)**: the LIT's keyword "dynamic stabilization" is Rosa's later term, not this book's (result 2); A11 §2's attribution is true of Rosa, not of the book.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates (result 3: strategic compulsion at the level of structure).
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: result 5 is the cost of reversing a structural ratchet at the scale of the whole.
 
 ## Limitations
 

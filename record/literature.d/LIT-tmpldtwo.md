@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-13 from the SEP entry, with Kellner''s faculty-page essay (NOTE-tmpi8t8i).'
+status_note: 'read 2026-11-13 from the SEP entry, with Kellner''s faculty-page essay ([NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md)).'
 title: 'Herbert Marcuse'
 version: 1
 history:
@@ -29,12 +29,12 @@ keywords:
 - 'false needs'
 implementations: []
 summary: >-
-  Farr's SEP entry on Marcuse, Skimmed in NOTE-tmpi8t8i (§§5–6 closely),
+  Farr's SEP entry on Marcuse, Skimmed in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md) (§§5–6 closely),
   with Kellner's essay: advanced industrial society sustains a
   "democratic unfreedom", integrating people through needs it creates;
   domination takes the form of administration and needs neither force
   nor an authority figure. A stand-in for the central account of
-  LIT-tmp32zdc.
+  [LIT-tmp32zdc](LIT-tmp32zdc.md).
 ---
 <!-- inactive-ok-file: LIT-tmp32zdc — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-tmpi8t8i — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
@@ -51,4 +51,4 @@ Arnold Farr (2013, substantive revision 2025). "Herbert Marcuse". *Stanford Ency
 
 ## Standing in the record
 
-A stand-in for Marcuse's One-Dimensional Man (LIT-tmp32zdc). Read in NOTE-tmpi8t8i; account THEORY-tmpnydju.
+A stand-in for Marcuse's One-Dimensional Man ([LIT-tmp32zdc](LIT-tmp32zdc.md)). Read in [NOTE-tmpi8t8i](../notes.d/NOTE-tmpi8t8i.md); account [THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md).

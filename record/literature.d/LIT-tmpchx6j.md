@@ -40,7 +40,7 @@ summary: >-
   Unavailable. The author's NYT op-ed, read to its paywall, proposes
   treating attention as a resource held in common; the exchange's use
   (A11 §22) is consistent but unverified. Nearest record entry:
-  CLAIM-656.
+  [CLAIM-656](../claims.d/CLAIM-656.md).
 ---
 <!-- inactive-ok-file: CLAIM-656 — Proposed; cited with its standing -->
 

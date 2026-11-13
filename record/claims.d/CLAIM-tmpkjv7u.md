@@ -54,9 +54,9 @@ summary: >-
   discretion-holder "is not domination, however complete"; Marcuse
   (through Farr), Han and Benjamin describe complete constraint with no
   one holding discretion, which some accounts call domination
-  (ARG-tmpsh7he). The claim is now a test for domination by an
+  ([ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md)). The claim is now a test for domination by an
   arrangement's controllers, not for every unfreedom. Zuboff 2022 is a
-  worked case of all three conditions (THEORY-tmpbgf6v). Interpretive.
+  worked case of all three conditions ([THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md)). Interpretive.
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmpsh7he THEORY-tmp5hgen THEORY-tmpbgf6v THEORY-tmpclnon THEORY-tmpnydju THEORY-tmpo6ipc THEORY-tmpq29mb THEORY-tmpxwo9k — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -135,7 +135,7 @@ the arrangement itself is not assumed to owe or to dominate anything, as
 
 ## Note of 2026-11-13: the readings of 2026-11-13
 
-- **Narrowed** (version 2): see the history and ARG-tmpsh7he. The readings of Marcuse (THEORY-tmpnydju), Han (THEORY-tmp5hgen, THEORY-tmpclnon) and Benjamin (THEORY-tmpo6ipc) mark its limit; each now carries `bounds` to it.
-- **Zuboff 2022** (THEORY-tmpbgf6v, Skimmed in NOTE-tmph5wwv) is a worked case of all three conditions: "nearly all roads to economic, political, and social participation lead through its institutional terrain"; controllers who "were never elected to govern"; conditions of "no exit". Corroborates.
-- **Crawford and Joler** (THEORY-tmpq29mb): transparency without real choice and accountability leaves the asymmetry, which supports the weight of the third condition; not written as a relation.
-- **Illich through Cayley** (THEORY-tmpxwo9k): radical monopoly paralyses autonomous action with no discretion-holder, another case outside the narrowed test.
+- **Narrowed** (version 2): see the history and [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md). The readings of Marcuse ([THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)), Han ([THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md), [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md)) and Benjamin ([THEORY-tmpo6ipc](../theory.d/THEORY-tmpo6ipc.md)) mark its limit; each now carries `bounds` to it.
+- **Zuboff 2022** ([THEORY-tmpbgf6v](../theory.d/THEORY-tmpbgf6v.md), Skimmed in [NOTE-tmph5wwv](../notes.d/NOTE-tmph5wwv.md)) is a worked case of all three conditions: "nearly all roads to economic, political, and social participation lead through its institutional terrain"; controllers who "were never elected to govern"; conditions of "no exit". Corroborates.
+- **Crawford and Joler** ([THEORY-tmpq29mb](../theory.d/THEORY-tmpq29mb.md)): transparency without real choice and accountability leaves the asymmetry, which supports the weight of the third condition; not written as a relation.
+- **Illich through Cayley** ([THEORY-tmpxwo9k](../theory.d/THEORY-tmpxwo9k.md)): radical monopoly paralyses autonomous action with no discretion-holder, another case outside the narrowed test.

@@ -47,9 +47,9 @@ Radical monopoly; second watershed; counterproductivity; conviviality; autonomou
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: corroborates its measure and two mechanisms. Result 2 is the claim's measure, what remains open to a non-adopter; result 3 its infrastructural mechanism; alternatives made "unimaginable" its cultural one. It **qualifies** the title: Illich's burial example (result 4) ends in law, so a de facto monopoly can later be made compulsory by rule. "Without any rule requiring it" says how compulsion can arise, not that it must stay unwritten.
-- **CLAIM-tmpkjv7u**: Illich's harm, the paralysis of autonomous action, needs no discretion-holder; see ARG-tmpsh7he.
-- **CLAIM-598** uses "counterproductive" in a different sense (assembly steps), not Illich's.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates its measure and two mechanisms. Result 2 is the claim's measure, what remains open to a non-adopter; result 3 its infrastructural mechanism; alternatives made "unimaginable" its cultural one. It **qualifies** the title: Illich's burial example (result 4) ends in law, so a de facto monopoly can later be made compulsory by rule. "Without any rule requiring it" says how compulsion can arise, not that it must stay unwritten.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: Illich's harm, the paralysis of autonomous action, needs no discretion-holder; see [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md).
+- **[CLAIM-598](../claims.d/CLAIM-598.md)** uses "counterproductive" in a different sense (assembly steps), not Illich's.
 
 ## Limitations
 

@@ -40,7 +40,7 @@ summary: >-
   confirms the book's conflict of democratic and authoritarian technics,
   the authoritarian "megamachine" being first a machine made of people
   under centralized command. The exchange's glosses (U1) are not
-  Mumford's words. It bears on CLAIM-tmpkjv7u only in spirit.
+  Mumford's words. It bears on [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md) only in spirit.
 ---
 <!-- inactive-ok-file: SYNTHESIS-053 — Proposed; the account A20 sets beside Mumford, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the same exchange, Proposed -->

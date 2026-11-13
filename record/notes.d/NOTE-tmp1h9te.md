@@ -48,8 +48,8 @@ Evaluative asymmetry; power process; surrogate activity; arms race; the epistemi
 
 ## Bearing on the record
 
-- **CLAIM-tmpbypt7**: corroborates two of its mechanisms, in a source independent of the exchange: infrastructure (the car city, result 1) and competition (result 2, which Moen endorses). Moen treats Kaczynski's refusal to count options the system leaves open as an unsupported premise, which favours the claim's measure, what remains open, over its rival.
-- **CLAIM-tmpsmg1c**: supports its premise. The epistemic problem of control is the uncertainty with later learning the claim's reason needs; Moen states no burden rule.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: corroborates two of its mechanisms, in a source independent of the exchange: infrastructure (the car city, result 1) and competition (result 2, which Moen endorses). Moen treats Kaczynski's refusal to count options the system leaves open as an unsupported premise, which favours the claim's measure, what remains open, over its rival.
+- **[CLAIM-tmpsmg1c](../claims.d/CLAIM-tmpsmg1c.md)**: supports its premise. The epistemic problem of control is the uncertainty with later learning the claim's reason needs; Moen states no burden rule.
 - **The exchange** (A1 §3, A2) argued against Kaczynski's assumption that dependence destroys autonomy; Moen's diagnosis says the same from outside.
 - **Sensitivity.** The paper treats the work as an object of criticism; nothing of its programme is filed.
 

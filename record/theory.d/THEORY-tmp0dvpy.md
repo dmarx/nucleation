@@ -16,10 +16,10 @@ promote_when: >-
   dimensions and the self-propelling cycle, and of the 2021 interview
   the definition of dynamic stabilization as quoted.
 summary: >-
-  Rosa (2003 article, Skimmed in NOTE-tmp6llzw; 2021 interview, read in
-  NOTE-tmp1ip5i). Three dimensions; self-propelling cycle; dynamic
-  stabilization, the later name. A stand-in for LIT-tmp6zjsx;
-  corroborates CLAIM-tmpbypt7.
+  Rosa (2003 article, Skimmed in [NOTE-tmp6llzw](../notes.d/NOTE-tmp6llzw.md); 2021 interview, read in
+  [NOTE-tmp1ip5i](../notes.d/NOTE-tmp1ip5i.md)). Three dimensions; self-propelling cycle; dynamic
+  stabilization, the later name. A stand-in for [LIT-tmp6zjsx](../literature.d/LIT-tmp6zjsx.md);
+  corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmp6zjsx — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -33,7 +33,7 @@ Rosa holds that acceleration in three dimensions forms a cycle that is "cerrado 
 
 ## Evidence
 
-The readings in NOTE-tmp6llzw and NOTE-tmp1ip5i. Corroborates CLAIM-tmpbypt7: keeping pace "para evitar la pérdida de opciones y conexiones".
+The readings in [NOTE-tmp6llzw](../notes.d/NOTE-tmp6llzw.md) and [NOTE-tmp1ip5i](../notes.d/NOTE-tmp1ip5i.md). Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md): keeping pace "para evitar la pérdida de opciones y conexiones".
 
 ## What it does not say
 

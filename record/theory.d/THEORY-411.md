@@ -154,4 +154,4 @@ whose other readings ([THEORY-025](THEORY-025.md), [THEORY-054](THEORY-054.md)) 
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-Sen's 1985 Tanner Lectures (THEORY-tmpj32pb) state the partial-ordering method first-hand: "There is no great failure in the inability to babble", ranges of weights extending a dominance ordering; Development as Freedom's concluding remarks disclaim a "complete ordering" [OCR-normalized] (THEORY-tmpockqy). No status change.
+Sen's 1985 Tanner Lectures ([THEORY-tmpj32pb](THEORY-tmpj32pb.md)) state the partial-ordering method first-hand: "There is no great failure in the inability to babble", ranges of weights extending a dominance ordering; Development as Freedom's concluding remarks disclaim a "complete ordering" [OCR-normalized] ([THEORY-tmpockqy](THEORY-tmpockqy.md)). No status change.

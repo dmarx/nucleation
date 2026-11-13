@@ -14,9 +14,9 @@ promote_when: >-
   displacement of reform and moral motivation, and the penalty on
   non-trackers.
 summary: >-
-  Morozov (2013 talk), read in NOTE-tmp6ywh9. Solutionism; the
-  self-tracking penalty. A stand-in for LIT-tmpvhqhp; corroborates
-  CLAIM-tmpbypt7.
+  Morozov (2013 talk), read in [NOTE-tmp6ywh9](../notes.d/NOTE-tmp6ywh9.md). Solutionism; the
+  self-tracking penalty. A stand-in for [LIT-tmpvhqhp](../literature.d/LIT-tmpvhqhp.md); corroborates
+  [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpvhqhp — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -29,7 +29,7 @@ Morozov argues that once most people self-track for advantage, those who refuse 
 
 ## Evidence
 
-The reading in NOTE-tmp6ywh9. Corroborates CLAIM-tmpbypt7.
+The reading in [NOTE-tmp6ywh9](../notes.d/NOTE-tmp6ywh9.md). Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
 
 ## What it does not say
 

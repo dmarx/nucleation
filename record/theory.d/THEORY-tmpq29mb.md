@@ -12,8 +12,8 @@ promote_when: >-
   a reading of the essay confirms the three-fold extraction, the
   concentration of value and the claim about transparency.
 summary: >-
-  Crawford and Joler (2018), read in NOTE-tmp60nf7. AI as extraction;
-  transparency not enough. A stand-in for LIT-tmpn03u4.
+  Crawford and Joler (2018), read in [NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md). AI as extraction;
+  transparency not enough. A stand-in for [LIT-tmpn03u4](../literature.d/LIT-tmpn03u4.md).
 ---
 <!-- inactive-ok-file: LIT-tmpn03u4 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
@@ -25,7 +25,7 @@ Crawford and Joler argue that each moment of convenience "requires a vast planet
 
 ## Evidence
 
-The reading in NOTE-tmp60nf7.
+The reading in [NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md).
 
 ## What it does not say
 

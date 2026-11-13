@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy or sample of the book found on 2026-11-13. Crawford''s 2006 essay of the same title (LIT-tmphoqwi), the book''s seed, stands in for its argument.'
+status_note: 'no lawful copy or sample of the book found on 2026-11-13. Crawford''s 2006 essay of the same title ([LIT-tmphoqwi](LIT-tmphoqwi.md)), the book''s seed, stands in for its argument.'
 title: 'Shop Class as Soulcraft: An Inquiry into the Value of Work'
 version: 2
 history:
@@ -32,11 +32,11 @@ keywords:
 implementations: []
 summary: >-
   Matthew B. Crawford (2009). Shop Class as Soulcraft. Penguin Press.
-  Unavailable. Through the 2006 essay (LIT-tmphoqwi, NOTE-tmpjk31w):
+  Unavailable. Through the 2006 essay ([LIT-tmphoqwi](LIT-tmphoqwi.md), [NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md)):
   skilled manual work is cognitively rich; work is degraded by moving
   judgment out of the job, a method competition spreads and now applied
-  to office work. Corroborates CLAIM-tmp6wuql and CLAIM-tmpbypt7.
-  Account: THEORY-tmpiihve.
+  to office work. Corroborates [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md) and [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
+  Account: [THEORY-tmpiihve](../theory.d/THEORY-tmpiihve.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 THEORY-tmpiihve — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the same exchange, Proposed -->
@@ -55,4 +55,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmphoqwi, read in NOTE-tmpjk31w; account THEORY-tmpiihve.
+Unavailable. Stand-in: [LIT-tmphoqwi](LIT-tmphoqwi.md), read in [NOTE-tmpjk31w](../notes.d/NOTE-tmpjk31w.md); account [THEORY-tmpiihve](../theory.d/THEORY-tmpiihve.md).

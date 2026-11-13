@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'not sought, by design: the filing reads Kaczynski only through neutral scholarly work, and no copy of the book or of the 1995 manifesto was fetched; uploads of the whole book on third-party sites would not be lawful copies in any case. Moen (2019, LIT-tmpbu0d1) stands in for the reconstruction of its argument, not its text.'
+status_note: 'not sought, by design: the filing reads Kaczynski only through neutral scholarly work, and no copy of the book or of the 1995 manifesto was fetched; uploads of the whole book on third-party sites would not be lawful copies in any case. Moen (2019, [LIT-tmpbu0d1](LIT-tmpbu0d1.md)) stands in for the reconstruction of its argument, not its text.'
 title: 'Technological Slavery'
 version: 2
 history:
@@ -45,7 +45,7 @@ summary: >-
   was convicted of the bombing campaign that killed three people and
   injured many others; by Moen's report its foreword disowns some of its
   making. Unavailable by design: read only through Moen's critique
-  (LIT-tmpbu0d1, NOTE-tmp1h9te), which grants the argument's empirical
+  ([LIT-tmpbu0d1](LIT-tmpbu0d1.md), [NOTE-tmp1h9te](../notes.d/NOTE-tmp1h9te.md)), which grants the argument's empirical
   worries (technology is hard to predict and, as an arms race, hard to
   restrain) and rejects its conclusion and means as resting on an
   evaluative asymmetry that counts technology's harms and not its
@@ -69,4 +69,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Not read, by design. Stand-in for its argument: Moen (LIT-tmpbu0d1, read in NOTE-tmp1h9te; account THEORY-tmpzuniv). Moen's 2008 date for the book is not confirmed.
+Not read, by design. Stand-in for its argument: Moen ([LIT-tmpbu0d1](LIT-tmpbu0d1.md), read in [NOTE-tmp1h9te](../notes.d/NOTE-tmp1h9te.md); account [THEORY-tmpzuniv](../theory.d/THEORY-tmpzuniv.md)). Moen's 2008 date for the book is not confirmed.

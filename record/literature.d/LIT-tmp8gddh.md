@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy or excerpt of the book found on 2026-11-13. Han''s 2014 essay (LIT-tmpc4h2j) stands in for its central thesis; an openDemocracy translation was behind a registration wall, not passed.'
+status_note: 'no lawful copy or excerpt of the book found on 2026-11-13. Han''s 2014 essay ([LIT-tmpc4h2j](LIT-tmpc4h2j.md)) stands in for its central thesis; an openDemocracy translation was behind a registration wall, not passed.'
 title: 'Psychopolitics: Neoliberalism and New Technologies of Power'
 version: 2
 history:
@@ -33,10 +33,10 @@ keywords:
 implementations: []
 summary: >-
   Byung-Chul Han (2017). Psychopolitics. Verso. Unavailable. Through
-  Han's 2014 essay (LIT-tmpc4h2j, NOTE-tmphjyfw): neoliberal power is
+  Han's 2014 essay ([LIT-tmpc4h2j](LIT-tmpc4h2j.md), [NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md)): neoliberal power is
   seductive, not repressive; it makes people dependent with "no person
-  opposite". It marks a limit of CLAIM-tmpkjv7u's threshold. Account:
-  THEORY-tmpclnon.
+  opposite". It marks a limit of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s threshold. Account:
+  [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkjv7u THEORY-tmpclnon — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
@@ -54,4 +54,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmpc4h2j, read in NOTE-tmphjyfw; account THEORY-tmpclnon.
+Unavailable. Stand-in: [LIT-tmpc4h2j](LIT-tmpc4h2j.md), read in [NOTE-tmphjyfw](../notes.d/NOTE-tmphjyfw.md); account [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md).

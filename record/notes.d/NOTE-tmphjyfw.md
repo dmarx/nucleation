@@ -46,10 +46,10 @@ Seductive power; self-exploitation; dependence without an opposite.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkjv7u**: results 2 and 4 are dependence with no identifiable discretion-holder, which Han calls a system of rule. Version 1 of the claim called that not domination. See ARG-tmpsh7he.
-- **QUESTION-071**: result 5 is the question's premise.
-- **CLAIM-670**: result 4 is an arrangement producing dependence, the claim's mechanism, asserted.
-- **CLAIM-tmpbypt7**: freely chosen self-exposure normalizing surveillance fits the cultural mechanism; asserted, not shown.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: results 2 and 4 are dependence with no identifiable discretion-holder, which Han calls a system of rule. Version 1 of the claim called that not domination. See [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md).
+- **[QUESTION-071](../questions.d/QUESTION-071.md)**: result 5 is the question's premise.
+- **[CLAIM-670](../claims.d/CLAIM-670.md)**: result 4 is an arrangement producing dependence, the claim's mechanism, asserted.
+- **[CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md)**: freely chosen self-exposure normalizing surveillance fits the cultural mechanism; asserted, not shown.
 
 ## Limitations
 

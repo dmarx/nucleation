@@ -16,9 +16,9 @@ promote_when: >-
   claim; the clause on self-correction is to be confirmed in the 1983
   essay.
 summary: >-
-  Ellul (1983 essay, posted introduction), read in NOTE-tmp8721q.
+  Ellul (1983 essay, posted introduction), read in [NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md).
   Technique as milieu; autonomy, unity, universality, totalization. A
-  stand-in for LIT-tmpdprtt; corroborates CLAIM-tmpbypt7.
+  stand-in for [LIT-tmpdprtt](../literature.d/LIT-tmpdprtt.md); corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-tmpdprtt — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
@@ -31,7 +31,7 @@ Ellul holds that "Technique is the complex and complete milieu in which human be
 
 ## Evidence
 
-The reading in NOTE-tmp8721q, results 1–6. Corroborates CLAIM-tmpbypt7: outside the technical city "the only choices left" are two (result 5).
+The reading in [NOTE-tmp8721q](../notes.d/NOTE-tmp8721q.md), results 1–6. Corroborates [CLAIM-tmpbypt7](../claims.d/CLAIM-tmpbypt7.md): outside the technical city "the only choices left" are two (result 5).
 
 ## What it does not say
 

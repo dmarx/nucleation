@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'no lawful copy or publisher sample found on 2026-11-13. Crawford and Joler''s "Anatomy of an AI System" (LIT-tmpt7q8j) stands in; Cugurullo''s open review (Tecnoscienza 13(1)) was also read.'
+status_note: 'no lawful copy or publisher sample found on 2026-11-13. Crawford and Joler''s "Anatomy of an AI System" ([LIT-tmpt7q8j](LIT-tmpt7q8j.md)) stands in; Cugurullo''s open review (Tecnoscienza 13(1)) was also read.'
 title: 'Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence'
 version: 2
 history:
@@ -36,10 +36,10 @@ implementations: []
 summary: >-
   Kate Crawford (2021). Atlas of AI. Yale UP.
   DOI-10.12987/9780300252392. Unavailable. Through "Anatomy of an AI
-  System" (LIT-tmpt7q8j, NOTE-tmp60nf7) and Cugurullo's review: AI is an
+  System" ([LIT-tmpt7q8j](LIT-tmpt7q8j.md), [NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md)) and Cugurullo's review: AI is an
   extractive industry of minerals, labour and data, whose value
   concentrates at the top; transparency without real choice and
-  accountability changes nothing. Account: THEORY-tmpq29mb.
+  accountability changes nothing. Account: [THEORY-tmpq29mb](../theory.d/THEORY-tmpq29mb.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpq29mb — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
@@ -57,4 +57,4 @@ Registered from the exchange "Analyze technological civilization trap" (2026-11-
 
 ## Reading of 2026-11-13
 
-Unavailable. Stand-in: LIT-tmpt7q8j, read in NOTE-tmp60nf7; account THEORY-tmpq29mb.
+Unavailable. Stand-in: [LIT-tmpt7q8j](LIT-tmpt7q8j.md), read in [NOTE-tmp60nf7](../notes.d/NOTE-tmp60nf7.md); account [THEORY-tmpq29mb](../theory.d/THEORY-tmpq29mb.md).

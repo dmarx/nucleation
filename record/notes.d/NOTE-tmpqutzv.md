@@ -47,8 +47,8 @@ New Jim Code; default discrimination; coded exposure; technological benevolence.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkjv7u**: contests version 1's last clause. "Default discrimination" is subordination produced by defaults and inherited data with no discretionary act now; if it is domination, a dependence lacking a present discretion-holder can be domination, unless discretion exercised once, at design, counts. See ARG-tmpsh7he.
-- **CLAIM-tmpu2cwc**: consistent with its premise that inherited standards (defaults) cause persistent failures.
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: contests version 1's last clause. "Default discrimination" is subordination produced by defaults and inherited data with no discretionary act now; if it is domination, a dependence lacking a present discretion-holder can be domination, unless discretion exercised once, at design, counts. See [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md).
+- **[CLAIM-tmpu2cwc](../claims.d/CLAIM-tmpu2cwc.md)**: consistent with its premise that inherited standards (defaults) cause persistent failures.
 
 ## Limitations
 

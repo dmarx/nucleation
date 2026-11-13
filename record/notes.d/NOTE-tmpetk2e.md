@@ -43,7 +43,7 @@ Imagination; dominant imaginaries; rationing of capacity.
 
 ## Bearing on the record
 
-- **CLAIM-tmp6wuql**: weak and suggestive: a capacity widespread in children declines under an arrangement that does not exercise it, which Benjamin calls organized suppression; the evidence is second-hand and the excerpt is not about support. No relation written.
+- **[CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md)**: weak and suggestive: a capacity widespread in children declines under an arrangement that does not exercise it, which Benjamin calls organized suppression; the evidence is second-hand and the excerpt is not about support. No relation written.
 - No other bearing; technology is not a theme of the excerpt.
 
 ## Limitations
