@@ -1,7 +1,18 @@
 ---
 status: Rejected
-title: 'Fineman''s vulnerability account shows that a whole''s responsibilities to its parts grow as it integrates them'
-version: 1
+title: 'Fineman''s vulnerability account shows that an organizational transformation that increases constituents'' vulnerability to a responsible agent''s discretion strengthens that agent''s responsibilities toward them'
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    Retitled after the owner's review of #488 on 2026-11-13 retitled
+    CLAIM-tmpwn3wr, the claim this argument concludes. The old title read
+    the claim as responsibilities growing with integration; the new one
+    reads it as the review states it, responsibilities strengthened by a
+    transformation that increases vulnerability to a responsible agent's
+    discretion. The verdict is checked against the new claim and stands:
+    Rejected. A section says why.
 form: evidence
 grounds:
 - THEORY-tmpk4d9t
@@ -17,7 +28,9 @@ summary: >-
   The tempting reading of Fineman ([THEORY-tmpk4d9t](../theory.d/THEORY-tmpk4d9t.md), read 2026-11-12): she
   grounds a special responsibility in vulnerability and in a whole's
   control over the conditions its members need, which is what
-  [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md) supposes. Rejected for the claim as titled: her
+  [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md) supposes. Rejected, both for the claim's first title, growth with
+  integration, and for its title since the owner's review of #488 on
+  2026-11-13, vulnerability to a responsible agent's discretion: her
   vulnerability is universal and constant, not produced by integration,
   and the state's responsibility follows its role in constituting
   resource-conferring institutions, not the degree to which it has taken
@@ -28,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpwn3wr THEORY-tmpk4d9t — Proposed, filed 2026-11-12; the claim and the reading this argument joins -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; cited as on the record -->
 
-# ARG-tmpmc9mt: Fineman's vulnerability account shows that a whole's responsibilities to its parts grow as it integrates them
+# ARG-tmpmc9mt: Fineman's vulnerability account shows that an organizational transformation that increases constituents' vulnerability to a responsible agent's discretion strengthens that agent's responsibilities toward them
 
 ## Which sense of "whole"
 
@@ -73,6 +86,19 @@ the one kind of whole the reading is about.
   dependency, socially imposed on carers (p. 264), is vulnerability
   produced by an arrangement. She grounds the state's share of its burden
   in benefit (p. 265), not in integration.
+
+## Against the claim as retitled on 2026-11-13
+
+The owner's review moved the claim's mechanism from integration to
+"increased vulnerability to another's discretionary power". Fineman still
+does not support it. Her vulnerability is universal and constant, not
+increased by a transformation, and the state's responsibility follows its
+role in constituting the institutions that confer resilience, owed
+whatever transformation occurs. Her derivative dependency, socially
+imposed on carers (p. 264), is the nearest case of a transformation
+increasing vulnerability, and she grounds the state's share of its burden
+in benefit (p. 265), not in the carers' exposure to the state's
+discretion. So the inference still fails at step 3.
 
 ## Verdict
 

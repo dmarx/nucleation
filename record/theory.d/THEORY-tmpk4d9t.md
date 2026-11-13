@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'Fineman argues that because vulnerability is universal and constant and individuals'' resilience depends on the assets societal institutions confer, a state that brings those institutions into legal existence is responsible for monitoring them and for equal access and opportunity, and must justify any privilege it confers or tolerates'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-13'
+  note: >-
+    After the owner's review of #488 on 2026-11-13 retitled CLAIM-tmpwn3wr, the evidence line says that ARG-tmpmc9mt finds no support under either title. Nothing else changes.
 source:
 - LIT-tmpwqwv3
 bears_on:
@@ -17,6 +22,7 @@ promote_when: >-
 summary: >-
   Fineman (2010), read in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md) (Read). The vulnerable subject replaces the liberal subject; institutions confer resilience; the state that constitutes them must monitor them and justify the privilege it confers or tolerates.
 ---
+<!-- inactive-ok-file: CLAIM-624 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: CLAIM-tmpwn3wr — Proposed; cited as on the record -->
 <!-- inactive-ok-file: ARG-tmpmc9mt — filed with this reading, Rejected -->
 
@@ -28,7 +34,7 @@ Fineman argues that because vulnerability is universal and constant and individu
 
 ## Evidence
 
-The reading in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md); its key results are quoted there with pages. [ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md) says why it is not support for [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md) as titled.
+The reading in [NOTE-tmpnpbzl](../notes.d/NOTE-tmpnpbzl.md); its key results are quoted there with pages. [ARG-tmpmc9mt](../arguments.d/ARG-tmpmc9mt.md) says why it is not support for [CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md), under its first title (growth with integration) or under the title it took at the owner's review of #488 on 2026-11-13 (vulnerability to a responsible agent's discretion).
 
 ## What it does not say
 

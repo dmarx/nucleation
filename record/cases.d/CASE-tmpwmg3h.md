@@ -1,7 +1,7 @@
 ---
 status: Proposed
-title: 'The public theatres of colonial Saint-Domingue, 1764 to the Revolution, as reported: an institution of French cultural prestige that relied on enslaved musicians, supernumeraries and builders and admitted a few free performers of colour, while segregated seating, casting and colonial law kept those contributions from giving their makers standing in it'
-version: 2
+title: 'The public theatres of colonial Saint-Domingue, 1764 to the Revolution, as reported: an institution of French cultural prestige to which enslaved musicians, supernumeraries and builders, and a few free performers of colour, are documented as contributing, while they are documented as excluded from standing in it, seated apart or not admitted, black roles given to whites in blackface, with no part in its rules'
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -18,6 +18,17 @@ history:
     not carry the sentence on Créole performance, which is A3's inference.
     The title is corrected to match. reported_in gains the three works
     read. Still Proposed: Powers and Prest's book are Unavailable.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    At the owner's review of #488 on 2026-11-13, the observed allocation of
+    standing is separated from the mechanism that maintained it. The title
+    said that "segregated seating, casting and colonial law kept those
+    contributions from giving their makers standing in it"; it now states
+    only what is documented, contribution and exclusion from standing. The
+    causal reading moves into the body as an interpretation, under
+    "Observation and interpretation", pointing to QUESTION-tmpojwyk as the
+    question that tests it. Still Proposed.
 standing: documented
 kind: specimen
 tags:
@@ -51,12 +62,16 @@ summary: >-
   [QUESTION-tmpojwyk](../questions.d/QUESTION-tmpojwyk.md). Its dependence is slavery's, which predated the
   theatre; it is not an instance of [CLAIM-tmp16mkz](../claims.d/CLAIM-tmp16mkz.md). Documented as
   reported; the standing is the historians', not checked here.
+  Since the owner's review of #488 on 2026-11-13 the case states the
+  documented allocation of standing and leaves the mechanism that kept it,
+  whether seating, casting and colonial law kept the contributions from
+  giving standing, as an interpretation for QUESTION-tmpojwyk to test.
 ---
 <!-- inactive-ok-file: CLAIM-tmp16mkz — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 — Proposed; the claims A6 §5 read the case against, cited with their standing -->
 <!-- inactive-ok-file: LIT-tmpepraj LIT-tmp0dw2u LIT-tmpmbcl0 — Unavailable; registered from the same exchange, unread -->
 
-# CASE-tmpwmg3h: The public theatres of colonial Saint-Domingue, 1764 to the Revolution, as reported: an institution of French cultural prestige that relied on enslaved musicians, supernumeraries and builders and admitted a few free performers of colour, while segregated seating, casting and colonial law kept those contributions from giving their makers standing in it
+# CASE-tmpwmg3h: The public theatres of colonial Saint-Domingue, 1764 to the Revolution, as reported: an institution of French cultural prestige to which enslaved musicians, supernumeraries and builders, and a few free performers of colour, are documented as contributing, while they are documented as excluded from standing in it, seated apart or not admitted, black roles given to whites in blackface, with no part in its rules
 
 ## The case
 
@@ -110,6 +125,29 @@ the readings of 2026-11-12. Powers ([LIT-tmpepraj](../literature.d/LIT-tmpepraj.
   editors' blog, the only part of the volume read, does not carry this;
   it is A3's inference. "Pale imitations" reads the Créole theatre's slave
   dances as colonial control.
+
+## Observation and interpretation
+
+The owner's review of #488 on 2026-11-13: the earlier title "combines
+documented exclusion with a claim about the causal relationship between
+contribution and authority. I would distinguish the observed allocation
+of standing from the mechanism that maintained it. The latter is
+precisely what the new QUESTION-tmpojwyk asks us to investigate."
+
+- **Observed**, as reported above: enslaved people and a few free people
+  of colour contributed to the theatre's productions and buildings; free
+  people of colour were seated apart, free Black women admitted late and
+  at first to the corridor; black roles went to whites in blackface; no
+  source reached shows any of the contributors with a part in the
+  theatre's rules.
+- **Interpretation, not shown**: that the segregated seating, the casting
+  and colonial law are what kept the contributions from giving their
+  makers standing in it. Other mechanisms fit the same allocation, among
+  them slavery's legal order acting outside the theatre altogether (A6 §5;
+  QUESTION-449), and the theatre's financial need widening access without
+  standing (the H-France Forum on 1775). Which mechanism maintained the
+  allocation, and whether the theatre's dependence on the contributors
+  ever moved it, is QUESTION-tmpojwyk.
 
 ## What it shows, if the reports hold
 

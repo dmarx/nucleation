@@ -1,7 +1,7 @@
 ---
 status: Open
-title: 'What obligations, if any, does an organized whole have towards its own constituent parts, and on what ground: that they constitute it, that they contribute to it, that they are vulnerable to it, that it governs them, that it has undertaken commitments to them, or its history with them?'
-version: 2
+title: 'Does an organized whole ground norms concerning its own constituent parts, and if it does, who bears the obligations those norms establish: the whole, where it is the kind of thing that can owe, or the agents and roles that maintain, control or benefit from the arrangement; and on what ground: that the parts constitute it, contribute to it, are vulnerable to it or are governed by it, its commitments to them, or its history with them?'
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -14,6 +14,22 @@ history:
     obligation, a whole that is not an agent can bear obligations at all.
     A dated note records the readings of 2026-11-12 and the TERM-074 sense
     each is about. The title is unchanged.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    At the owner's review of #488 on 2026-11-13, the distinction between
+    the ground of an obligation and its bearer is made first-class, in the
+    title and in a section of its own: (a) whether organization itself
+    grounds a norm concerning constituent parts; (b) who could bear an
+    obligation that norm establishes. The review's statement, "A whole
+    can be the ground or object of a normative judgment without
+    necessarily being the bearer of the corresponding obligation", is
+    quoted as the owner's. TERM-083's split of moral agents from moral
+    patients is the nearest held distinction and is cited; QUESTION-128
+    and CLAIM-104 do not hold it. The owner's discriminating test, with
+    its three results, is stated in the body and filed as
+    CASE-tmpo7zlu. The paraphrase of CLAIM-tmpwn3wr follows that claim's
+    retitling. The question stays Open.
 tags:
 - ethics
 - mereology
@@ -36,7 +52,13 @@ summary: >-
   that an institution's description can lose ([CLAIM-348](../claims.d/CLAIM-348.md)), a duty of
   answerability ([CLAIM-624](../claims.d/CLAIM-624.md)) and moral standing ([TERM-083](../terms.d/TERM-083.md)), but no question
   of what the whole owes its parts. Refines [QUESTION-128](QUESTION-128.md), which asks what
-  moral authority needs beyond an organization's own dynamics.
+  moral authority needs beyond an organization's own dynamics. Since the
+  owner's review of #488 on 2026-11-13 it keeps two inquiries apart:
+  whether organization grounds a norm concerning the parts, and who bears
+  the obligation, since "A whole can be the ground or object of a
+  normative judgment without necessarily being the bearer of the
+  corresponding obligation". The owner's discriminating test is
+  CASE-tmpo7zlu.
 ---
 <!-- inactive-ok-file: THEORY-tmpt62g0 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-tmpgqxcj LIT-tmpkfwc3 LIT-tmp2vf7t — Unavailable; registered from the same exchange -->
@@ -47,12 +69,12 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-104 QUESTION-007 — Deferred; the set-aside authenticity line, cited for the direction it named -->
 <!-- inactive-ok-file: SYNTHESIS-023 — Proposed; the authenticity line's account, cited for what it leaves open -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-511 CLAIM-624 TERM-083 — Proposed; cited as the record's nearest entries, nothing here rests on them -->
-<!-- inactive-ok-file: CLAIM-tmpwn3wr — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpwn3wr CASE-tmpo7zlu — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, Group Duties, cited by A12 -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, cited by A12 as registered and unread -->
 <!-- inactive-ok-file: LIT-tmp9kqwg LIT-tmpmtbj6 — Deferred; filed from the same exchange, unread -->
 
-# QUESTION-tmp9bbpk: What obligations, if any, does an organized whole have towards its own constituent parts, and on what ground: that they constitute it, that they contribute to it, that they are vulnerable to it, that it governs them, that it has undertaken commitments to them, or its history with them?
+# QUESTION-tmp9bbpk: Does an organized whole ground norms concerning its own constituent parts, and if it does, who bears the obligations those norms establish: the whole, where it is the kind of thing that can owe, or the agents and roles that maintain, control or benefit from the arrangement; and on what ground: that the parts constitute it, contribute to it, are vulnerable to it or are governed by it, its commitments to them, or its history with them?
 
 ## The question
 
@@ -66,6 +88,60 @@ after an hour on colonial theatre, dependency and exploitation:
 The question is the owner's. Its direction is what makes it distinct:
 not what members owe a collective, nor what a collective owes outsiders,
 but what a whole owes the parts it is made of.
+
+## Ground and bearer: two inquiries
+
+The owner's review of #488 on 2026-11-13: "A whole can be the ground or
+object of a normative judgment without necessarily being the bearer of
+the corresponding obligation."
+
+The review found two inquiries in the question, to be kept apart:
+
+- **(a) The ground.** "One asks whether organization itself grounds a
+  norm concerning constituent parts."
+- **(b) The bearer.** "The other asks who could bear an obligation
+  established by that norm. For a corporation and its employees, the
+  corporation may be a plausible duty-bearer. For an ecosystem and its
+  populations, or an organism and its cells, the answer is much less
+  obvious. A relational arrangement might have normatively relevant
+  properties without itself being an agent capable of owing anyone
+  anything. Obligations might instead fall upon the agents who maintain,
+  control, or benefit from the arrangement."
+
+So the candidate bearers are the whole, where it is an agent (TERM-074
+sense 3, often), and the agents or roles that maintain, control or
+benefit from the arrangement. The nearest held distinction is TERM-083's
+split between moral agents, who can be responsible, and moral patients,
+who are owed; it is about who is owed, not about whether what grounds an
+obligation must also bear it. QUESTION-128 asks what moral authority needs
+beyond an organization's own dynamics, and CLAIM-104 names a downward
+direction from "an encompassing agent"; neither separates ground from
+bearer. The review's verdict on where the work lies: "not in establishing
+that institutions have obligations toward members, but in explaining how
+normative relationships can be constituted by organized processes even
+when the organization itself is not the kind of entity to which moral
+agency or moral standing can straightforwardly be attributed."
+
+## A discriminating test
+
+The owner's, from the review: "Does being a constituent of a particular
+whole generate obligations beyond those already arising from the
+constituent's vulnerability, interests, rights, and exposure to another's
+power?" Hold fixed a person's vulnerability, the controlling actors'
+capacities and the relevant institutional consequences. In one case the
+person is a constituent of the organization; in the other, the person is
+affected by precisely the same arrangement but is not a constituent.
+"Would the organization owe something additional in the first case?"
+
+| Result | What it would show |
+|---|---|
+| Obligations arise specifically from constitution or membership | a genuinely whole–part ground of obligation; what gives membership that significance must then be explained |
+| Obligations arise from vulnerability or control, regardless of membership | a relational responsibility theory that applies across boundaries; "The mereological relationship would help identify where the obligations apply without independently grounding them" |
+| The arrangement creates normative constraints but is not itself a duty-bearer | obligations must be attributed to agents or roles maintaining the arrangement |
+
+The review: "The third possibility is especially relevant to Nucleation's
+broad ontology of organizations." The test is filed as a thought
+experiment, CASE-tmpo7zlu, bearing on this question.
 
 ## Which sense of "organized whole"
 
@@ -184,16 +260,22 @@ sharpening is A's; adopting any of it is the owner's call.
   owner's asks the nature of the obligations, and leaves the ground open.
 
 A's own candidate principle, that responsibilities grow as the whole
-governs more of what its parts need, is filed as a claim conditional on
-a vulnerability principle ([CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md)).
+governs more of what its parts need, was filed as a claim conditional on
+a vulnerability principle ([CLAIM-tmpwn3wr](../claims.d/CLAIM-tmpwn3wr.md)). Since the owner's review
+of 2026-11-13 that claim's mechanism is increased vulnerability to a
+responsible agent's discretion, and its bearer is that agent, not the
+whole.
 
 ## What would count as an answer
 
 An account that says, for a whole and a part with standing of its own,
 which relation between them (constitution, contribution, vulnerability,
-governance, commitment or history) grounds an obligation of the whole to
-the part, with the further normative premise that ground needs, and that
-separates that obligation from what the whole must do to persist. A
+governance, commitment or history) grounds a norm concerning the part,
+with the further normative premise that ground needs; who bears the
+obligation the norm establishes, the whole where it can owe or the agents
+and roles that maintain, control or benefit from it; and that separates
+that obligation from what the whole must do to persist. CASE-tmpo7zlu's
+three results are the shapes such an answer can take. A
 demonstration that no relation of part to whole grounds anything the
 part is not already owed by any agent with the same power over it would
 dissolve the question.

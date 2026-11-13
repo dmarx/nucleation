@@ -1,6 +1,6 @@
 <!-- inactive-ok-file: ARG-tmpou39l — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: ARG-tmpmc9mt — filed from the exchange "About Plantation Paradise" (2026-11-12), Rejected -->
-<!-- inactive-ok-file: CASE-tmpwmg3h CLAIM-tmp16mkz CLAIM-tmpwn3wr — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
+<!-- inactive-ok-file: CASE-tmpwmg3h CLAIM-tmp16mkz CLAIM-tmpwn3wr CLAIM-tmpj6tb1 CASE-tmpo7zlu — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 ### Added
 
 - The exchange "About Plantation Paradise" (2026-11-12) filed, from the
@@ -11,10 +11,13 @@
     [QUESTION-128](record/questions.d/QUESTION-128.md).
   - A's question when an organization's dependence on participants it
     subordinates becomes their authority ([QUESTION-tmpojwyk](record/questions.d/QUESTION-tmpojwyk.md)).
-  - A's claim that an arrangement can produce the dependence through
-    which it exploits ([CLAIM-tmp16mkz](record/claims.d/CLAIM-tmp16mkz.md)).
-  - A's supposed claim that a whole's responsibilities grow with
-    integration if vulnerability grounds responsibility ([CLAIM-tmpwn3wr](record/claims.d/CLAIM-tmpwn3wr.md)).
+  - A's claim that an arrangement can exploit through the access it
+    grants, leaving a lasting encumbrance that narrows exit
+    ([CLAIM-tmp16mkz](record/claims.d/CLAIM-tmp16mkz.md), as narrowed after its reading).
+  - A supposed claim, retitled at the owner's review: a transformation
+    that increases a constituent's vulnerability to a responsible agent's
+    discretion can strengthen that agent's responsibilities, under an
+    independently justified principle ([CLAIM-tmpwn3wr](record/claims.d/CLAIM-tmpwn3wr.md)).
   - The public theatres of colonial Saint-Domingue as a reported case
     ([CASE-tmpwmg3h](record/cases.d/CASE-tmpwmg3h.md)).
   - Seventeen dated notes on the entries the exchange bears on.
@@ -35,3 +38,15 @@
   After the owner's correction that "organization" is [TERM-074](record/terms.d/TERM-074.md) sense 1 by
   default, the owner's question states its sense and its prior part, and
   every reading's bearing names the sense it is about.
+- The owner's review of #488 on 2026-11-13 applied:
+  - QUESTION-tmp9bbpk makes the ground of an obligation and its bearer
+    first-class, in its title and body, with the owner's discriminating
+    test filed as the thought experiment CASE-tmpo7zlu;
+  - CLAIM-tmpwn3wr retitled to the review's proposition, with
+    ARG-tmpmc9mt rechecked (still Rejected);
+  - CLAIM-tmp16mkz's summary aligned with its narrowing, and A's original
+    sense, an arrangement that produces the dependence it exploits, kept as
+    CLAIM-tmpj6tb1;
+  - CASE-tmpwmg3h's title states the documented allocation of standing,
+    with the causal reading moved to the body as an interpretation for
+    QUESTION-tmpojwyk.

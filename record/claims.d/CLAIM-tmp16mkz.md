@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -16,6 +16,16 @@ history:
     obligation hard to escape, that narrows later exit; the defeat
     condition is restated to match. Alicea stays Unavailable. Still
     Proposed.
+- version: 3
+  date: '2026-11-13'
+  note: >-
+    At the owner's review of #488 on 2026-11-13: the summary is brought in
+    line with version 2 and no longer gives the unread-source
+    characterization of version 1. The review asked to keep the
+    distinction between producing a dependency and producing a new
+    encumbrance within an existing dependency; this claim is the second,
+    and the first, A's original sense, which the record does not hold
+    elsewhere, is filed as CLAIM-tmpj6tb1 and named in `complements`.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,24 +50,27 @@ line:
 - transient-support
 bears_on:
 - QUESTION-tmpojwyk
+complements:
+- CLAIM-tmpj6tb1
 summary: >-
-  A's, A9 §2 of the exchange "About Plantation Paradise" (2026-11-12),
-  from Seamster and Charron-Chénier's "predatory inclusion"
-  ([LIT-tmpbnlqp](../literature.d/LIT-tmpbnlqp.md)) and Alicea's "predatory DEI" ([LIT-tmp63z5g](../literature.d/LIT-tmp63z5g.md)), both
-  unread. A separates the exploitation of an existing dependency from
-  dependency-producing exploitation, "an arrangement initially expands
-  access or opportunity but, through its terms and repeated operation,
-  creates new vulnerabilities or undermines the participant's ability to
-  negotiate or exit". It joins two things the record holds apart: that
-  reliable supply produces a dependence ([CLAIM-603](CLAIM-603.md)) and that access can
-  widen while authority stays closed ([CLAIM-403](CLAIM-403.md)). Interpretive; the
-  instances are A's reports of unread works. The wording is A's;
-  adopting it is the owner's call.
+  A's, from A9 §2 of the exchange "About Plantation Paradise"
+  (2026-11-12), narrowed to its version 2 after Seamster and
+  Charron-Chénier's "predatory inclusion" was read (NOTE-tmpvf8za;
+  ARG-tmpou39l). An arrangement can exploit through the access it grants:
+  access to a needed good on terms that leave a lasting encumbrance, a
+  reliance on the provider or an obligation hard to escape, that narrows
+  later exit; so exploitation can come through inclusion that succeeds,
+  and widening access need not reduce it. In the one source read the need
+  predates the access, the encumbrance is debt, and exit is closed by
+  bankruptcy law. A's first sense, an arrangement that produces the
+  dependence itself, is a different mechanism and is kept as
+  CLAIM-tmpj6tb1. Alicea (LIT-tmp63z5g) is Unavailable. Interpretive. The
+  wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpwmg3h — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-428 — Proposed; the record's claims this one joins or sets beside, cited with their standing -->
 <!-- inactive-ok-file: LIT-tmp63z5g — Unavailable; registered from the same exchange, unread -->
-<!-- inactive-ok-file: THEORY-tmpi3g1u ARG-tmpou39l — filed with the readings of 2026-11-12, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpi3g1u ARG-tmpou39l CLAIM-tmpj6tb1 — filed with the readings of 2026-11-12, Proposed -->
 
 # CLAIM-tmp16mkz: An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it
 
