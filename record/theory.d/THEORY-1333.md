@@ -4,7 +4,26 @@ status: Active
 formerly:
 - THEORY-tmpnkdiy
 title: 'Bishop''s contextual emergence, as stated in his 2024 SEP revision, is an ontological account: stability conditions not given at smaller and faster scales (parameter values, dimensionality, large-scale flows) constrain or enable what is possible and actual at those scales, as convection rolls constrain the motions of fluid molecules, without the brute new causal powers of strong emergence; laws bound possibility and contexts fix actualization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Reading review of 2026-11-14 (by topic, part D), under ADR-091,
+    ADR-093 and ADR-094. bounds CLAIM-334 added. The claim's note of
+    2026-11-02 places contextual emergence outside its scope:
+    "Jennings's abstract distinguishes contextual emergence (Bishop
+    and Atmanspacher, LIT-1987) from supervenience. So if her paper
+    succeeds, it falls outside this claim's scope rather than refuting
+    it", and "Bishop and Atmanspacher's contextual emergence claims
+    stability conditions for a well-defined higher-level description,
+    not new causal powers." This reading is the record's statement of
+    contextual emergence as Bishop now gives it (stability conditions
+    that make modal changes at smaller scales, without the new causal
+    powers of strong emergence), and so anchors the excluded regime
+    the claim names. The claim cites the unread 2006 paper for it,
+    whose gloss as about descriptions this reading says may be right
+    only for 2006. No other change.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -21,6 +40,8 @@ summary: >-
   well-definedness of a higher-level description; it is not evidence that
   the view is true, and it sets the view against causal powers, not for
   them.
+bounds:
+- CLAIM-334
 ---
 <!-- inactive-ok-file: NOTE-1535 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the reading of Jennings 2026 this corrects -->

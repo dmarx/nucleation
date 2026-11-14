@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmplcm41
 title: 'A dynamic beta–Bernoulli latent-feature model of an organization''s members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and its outputs cannot tell a feature one member holds at constant activation from that member''s private map, or features whose holdings and activations always coincide from their sum'
-version: 6
+version: 7
 history:
 - version: 1
   date: '2026-10-26'
@@ -76,6 +76,15 @@ history:
     well, weakly"); THEORY-1037 ("a whole-chain sampler of the beam
     type"); THEORY-1044 ("its claim of faster mixing is THEORY-1044").
     First application of draws_on (ADR-095). No other change.
+- version: 7
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Draws on THEORY-1045 ("The model per member is a factorial
+    HMM ... Ghahramani and Jordan, LIT-1628 (NOTE-1203) ... A fit needs
+    the paper's structured variational approximation"): the case takes
+    its inference component and cost from the reading (ADR-095). No
+    other change.
 standing: stipulated
 kind: construction
 tags:
@@ -113,7 +122,9 @@ draws_on:
 - THEORY-1046
 - THEORY-1037
 - THEORY-1044
+- THEORY-1045
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the quotient test cited as one way to tell a birth from a split, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1004 — Proposed; a reading of the same day, cited for its measure of presence against use -->

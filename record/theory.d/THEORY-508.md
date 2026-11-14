@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpe57v7
 title: "The Belousov–Zhabotinsky oscillation is a relaxation cycle in which autocatalytic production of HBrO₂ oxidizes the catalyst until bromide, released as the oxidized catalyst is reduced by bromomalonic acid, switches the autocatalysis off; a closed batch oscillates only as a transient of up to several thousand cycles on its way to equilibrium, and only a continuous-flow reactor sustains it indefinitely"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Corroborates CLAIM-172, whose body cites the reading's
+    note for one-way entrainment ("the fastest pacemaker 'entrains the
+    rest' (NOTE-414)"), an instance its version 3 counts as a combined
+    form with a hierarchical architecture ("a one-way-driven pair is
+    also a combined form"). No other change.
 tags:
 - natural-sciences
 - complex-systems
@@ -20,7 +30,10 @@ summary: >-
   reactor holds it away from equilibrium. The Oregonator models oscillation
   and excitability qualitatively, not quantitatively. The "several thousand
   cycles" figure is uncited, and the primary papers were not read.
+corroborates:
+- CLAIM-172
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 <!-- inactive-ok-file: LIT-524 — Unavailable: Nicolis & Prigogine 1977; cited only as the review's source for the far-from-equilibrium condition on oscillation -->
 

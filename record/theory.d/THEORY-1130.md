@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmp7hiz9
 title: 'The Gromov–Wasserstein distance, half the least Lp distortion of a coupling, is a pseudometric on all networks with a probability measure on the nodes and any bounded edge weights, symmetric or not, and it is zero exactly when the two networks are weakly isomorphic, images of one network under maps that preserve weights and measures; so it compares only what the weight function and node measure record'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Corroborates CLAIM-645 ("Gromov-Wasserstein sees each
+    space only through its within-space similarity matrix and weights.
+    Any coupling composed with an automorphism of either structure costs
+    exactly what it did"). This reading proves the general form: the
+    distance is zero exactly between weakly isomorphic networks, so it
+    compares only what the weights and node measure record. The claim
+    does not need it. No other change.
 tags:
 - network-science
 - mathematics
@@ -19,7 +31,10 @@ summary: >-
   merging and splitting nodes with identical profiles; it says nothing
   about relations the record leaves out, and the measure is chosen by the
   user.
+corroborates:
+- CLAIM-645
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 CLAIM-645 — Proposed; the decisions and the claim named in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1130: The Gromov–Wasserstein distance, half the least Lp distortion of a coupling, is a pseudometric on all networks with a probability measure on the nodes and any bounded edge weights, symmetric or not, and it is zero exactly when the two networks are weakly isomorphic, images of one network under maps that preserve weights and measures; so it compares only what the weight function and node measure record
 

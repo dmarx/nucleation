@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbf74l
 title: 'If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -17,6 +17,18 @@ history:
     step-by-step re-derivation meets a request for a proof the record does
     not hold. The general construction is written out below under "The
     general scenario". The claim is unchanged.
+- version: 3
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Bears on QUESTION-246 (Answered), which asks "what does a
+    failure of Kochen-Specker noncontextuality refute" and answers with
+    measurement noncontextuality "plus outcome determinism for sharp
+    measurements" (THEORY-015). This reading qualifies that answer
+    without answering alone: with contexts defined by joint
+    measurability alone, every nondisturbing behaviour is
+    quantum-realizable, so the failure refutes something only under a
+    stronger notion of context (ADR-093, 3). No other change.
 tags:
 - contextuality
 - quantum-foundations
@@ -32,7 +44,10 @@ summary: >-
   trivial, and the review requires contexts of repeatable, nondisturbing
   measurements. Liang, Spekkens & Wiseman's sharpness parameter is the
   other known escape.
+bears_on:
+- QUESTION-246
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 QUESTION-246 — Proposed or Answered; the decisions and the question named in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-303 — Proposed; the companion account filed from the same reading, named in Connections -->
 
 # THEORY-309: If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context

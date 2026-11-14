@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmph0fxi
 title: 'A proposed study: direct and relay translations of one set of source utterances through three languages, to find whether agreement between the routes, the task-relative loss on each route, and the preservation of response to later framing come apart, and whether correspondences fitted between the communities'' response structures on some items predict receivers'' judgements on held-out items, translators and situations'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -16,6 +16,17 @@ history:
     move them (THEORY-1129)"); THEORY-1132 ("They compose along routes
     only when the couplings are deterministic (THEORY-1132)"). First
     application of draws_on (ADR-095). No other change.
+- version: 3
+  date: '2026-11-14'
+  note: >-
+    Draws on THEORY-1156, from the reading review of 2026-11-14, by
+    topic (part A, mathematics and adjacent; ADR-095). The
+    correspondence arm uses fused Gromov-Wasserstein as a method: "fused
+    GW with independently validated anchor items, varying the weight on
+    structure (LIT-1813)". THEORY-1156 is the reading of that paper
+    which says what the weight does: FGW tends to the feature
+    Wasserstein distance as alpha goes to 0 and to GW on the structures
+    as alpha goes to 1. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -44,6 +55,7 @@ draws_on:
 - THEORY-1155
 - THEORY-1129
 - THEORY-1132
+- THEORY-1156
 ---
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the record's theses and measures this design would test, cited as open -->

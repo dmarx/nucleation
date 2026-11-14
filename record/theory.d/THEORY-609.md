@@ -4,7 +4,25 @@ status: Active
 formerly:
 - THEORY-tmppylq2
 title: "When implementing an automaton requires reliable, counterfactual-supporting transitions for every formal state, Putnam's construction fails, but any system with a clock and a dial still implements every inputless finite-state automaton, and any system with the right input–output dependencies, an input memory and a dial implements every finite-state automaton with those dependencies, so finite-state automata cannot carry computational sufficiency; combinatorial-state automata are argued, not proved, to escape"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Reading review of 2026-11-14 (by topic, part D), under ADR-091 and
+    ADR-093. corroborates CLAIM-519 added. The claim holds that "an
+    agent with no model, whose actions are looked up from the history
+    so far, reproduces the interaction distribution of an agent that
+    has one exactly", calls the construction "Block's lookup-table
+    argument (THEORY-092) applied to agency", and concludes that
+    "establishing an internal mechanism needs evidence that
+    discriminates candidate implementations". This reading shows the
+    same at the level of implementation: a system with the right
+    input-output dependencies, an input memory and a dial implements
+    every finite-state automaton with those dependencies, so
+    FSA-functionalism "almost reduces to behaviorism", and only
+    fine-grained causal structure (a CSA) discriminates. Independent
+    evidence the claim does not need. No other change.
 tags:
 - cognition
 - metaphysics
@@ -21,6 +39,8 @@ summary: >-
   grows by a factor of n per step, and that every construction does is
   asserted. Logically possible false implementations and the
   one-region-per-component condition are left open by the author.
+corroborates:
+- CLAIM-519
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-092 THEORY-252 THEORY-436 THEORY-638 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 

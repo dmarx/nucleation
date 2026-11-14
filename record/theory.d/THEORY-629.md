@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmpryy39
 title: "Every continuous linear functional on a Hilbert space is the inner product with a unique vector of the same norm, given in any orthonormal basis by the conjugated values of the functional on the basis; completeness is what makes it so, and Riesz's 1907 statement on L² asserted only that a representing function exists"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bounds CLAIM-291, from the reading review of 2026-11-14, by topic
+    (part A, mathematics and adjacent; ADR-094). The claim's defeated_if
+    names the regime it excludes and the theorem that covers it: "Nor
+    does a general bounded operator with no kernel, whose adjoint the
+    Riesz theorem supplies without this formula"; its step 3: "Its
+    existence for a bounded T is what the Riesz theorem supplies". The
+    claim cites the theorem by its Wikipedia statement (LIT-230); this
+    is the record's reading of it in force. No other change.
 tags:
 - mathematics
 date: '2026-10-16'
@@ -20,6 +32,8 @@ summary: >-
   without proof, uniqueness or norm. The theorem says nothing about kernels,
   factorisation or uniqueness of representations. Both readings advise
   citing a textbook for anything leaned on.
+bounds:
+- CLAIM-291
 ---
 
 # THEORY-629: Every continuous linear functional on a Hilbert space is the inner product with a unique vector of the same norm, given in any orthonormal basis by the conjugated values of the functional on the basis; completeness is what makes it so, and Riesz's 1907 statement on L² asserted only that a representing function exists
