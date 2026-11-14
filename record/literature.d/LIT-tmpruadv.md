@@ -7,9 +7,10 @@ status_note: >-
   model in which two plant types differ in the range and strength of
   their competition kernels and switch with bistability along resource
   supply, paired with a field survey; the phase-transition vocabulary is
-  applied by analogy, and the SI, data and code were not read.
+  applied by analogy. The SI and data were not read. The authors'
+  code was read and its model rerun (NOTE-tmpmu9w0).
 title: 'Phase transition in a dryland shrub–grass ecosystem: Emergence through local trade-offs'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-14'
@@ -40,6 +41,15 @@ history:
     accepted 2026-10-11, published 2026-11-11; edited by Alan Hastings).
     Summary and body rewritten from the reading; the version-1 status
     note is in this history.
+- version: 3
+  date: '2026-11-14'
+  note: >-
+    The same day, at the owner's request, the authors' archived code was
+    read and rerun (NOTE-tmpmu9w0, "The authors' code, rerun";
+    CASE-tmpjrrhk for the fairy circles). The key-takeaways line that
+    Table 1's thresholds are the reverse of the text's is withdrawn: they
+    agree under the code's sign convention. It is replaced by what the
+    rerun found. The status note now says the code was read.
 tags:
 - ecology
 - complex-systems
@@ -72,6 +82,8 @@ summary: >-
   as a continuous transition. The model's bistability is shown; the
   field's is inferred ([NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md)).
 ---
+
+<!-- inactive-ok-file: CASE-tmpjrrhk — Proposed; the assistant's fairy-circle rerun, named in the version-3 history note -->
 
 # LIT-tmpruadv: Phase transition in a dryland shrub–grass ecosystem: Emergence through local trade-offs
 
@@ -108,7 +120,8 @@ doi:10.1073/pnas.2618656123. CC BY 4.0.
 - **Where it is thin.** The kernels are not measured. The fairy circles
   are produced by halving the shrub kernel and turning off dispersal by
   hand. The power law is a free-threshold fit accepted at R² > 0.9.
-  Table 1's survival thresholds are the reverse of the text's.
+  The model's bistable interval, rerun from the authors' code, is far
+  wider than the narrow window they match to the field.
 
 ## Standing in the record
 

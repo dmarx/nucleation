@@ -2,7 +2,7 @@
 status: Read
 paper: LIT-tmpruadv
 title: 'Sun et al. — Phase transition in a dryland shrub–grass ecosystem'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-14'
@@ -18,6 +18,18 @@ history:
     configurations; Fig. S3), Dataset S1 and the Zenodo code
     (doi:10.5281/zenodo.23751909), none of which is in the PDF. Page
     numbers are the article's.
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    At the owner's request the authors' archived code (Zenodo
+    10.5281/zenodo.23751909, CC BY 4.0) was read and its update rules
+    reimplemented and rerun the same day; see the section "The authors'
+    code, rerun". The supposed inconsistency in the survival thresholds
+    is withdrawn: the code computes the net effect as a competition load,
+    so Table 1's H_g = 1.1 > H_s = 1.0 means grasses tolerate more
+    competition, as the text says, and the text's "Hg < Hs" uses the
+    opposite sign for NE. The Assumptions, Limitations and Open questions
+    are corrected to match; nothing else in the reading changes.
 date: '2026-11-14'
 summary: >-
   A field survey along a rainfall gradient at the desert margin of
@@ -35,6 +47,8 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-720 — Unavailable; cited by the paper as its foil, named here only to place it -->
+
+<!-- inactive-ok-file: CASE-tmpjrrhk — Proposed; the fairy-circle rerun, the assistant's study, cited in the section on the code -->
 
 # NOTE-tmpmu9w0: Sun et al. — Phase transition in a dryland shrub–grass ecosystem
 
@@ -87,10 +101,12 @@ switch is in the kernels.
 - **How the thresholds are signed.** The text says grasses "tolerate
   more severe resource competition, whereas shrubs require a higher
   resource threshold for survival" (p. 5) and that "Grasses have a lower
-  threshold than shrubs (Hg < Hs)" (p. 8). But Table 1 gives H_g = 1.1
-  and H_s = 1.0, the reverse. Which is right depends on the sign
-  convention for NE, which the text does not fix. The SI or the code
-  should settle it.
+  threshold than shrubs (Hg < Hs)" (p. 8), while Table 1 gives H_g = 1.1
+  and H_s = 1.0. The code settles it: there the net effect is a
+  competition load and survival is 1 − k(NE − H), so the higher H_g
+  means grasses tolerate more competition. The text's formula writes NE
+  with the opposite sign, under which "Hg < Hs" says the same thing. The
+  two agree; only the sign convention differs.
 
 ## Key results
 
@@ -254,9 +270,12 @@ kernel competition on a lattice.
   strength are not measured: there are no root data. The trait axis is
   built with SLA and LDM as anchors. Patch size and spacing are
   themselves the pattern the model is tuned to produce.
-- **A threshold inconsistency.** Table 1 and the text disagree on
-  whether grasses have the lower or the higher survival threshold
-  (Assumptions above).
+- **Undisclosed parameters and a boundary mismatch** (from the code). The
+  fairy-circle scenario starts from a spot pattern grown with shrub
+  radius 40, facilitation 0.05 and shrub mortality scaling 5, none of
+  which the paper reports. The convolution pads mirror-symmetrically,
+  where the Methods say periodic. The rerun found the second makes
+  little difference.
 - **"Minimal set of assumptions"** (p. 2) is asserted. The only ablation
   reported is that the facilitation asymmetry "is not essential for
   phase transition" (p. 8).
@@ -265,12 +284,63 @@ kernel competition on a lattice.
 
 ## Open questions
 
-- Does the authors' code at Table 1's parameters show the bistable
-  interval, and on which side of it does each threshold convention put
-  the grasses?
 - Is the interval robust to lattice size and to local rather than
   global dispersal? With global dispersal, the model has no spatial
   seeding to carry a front.
 - Would repeat surveys of the transition-window plots show the
   alternation persisting (bistability) or drifting with rainfall
   (turnover)?
+
+## The authors' code, rerun
+
+On 2026-11-14 the authors' notebooks were read and the update rules of
+`ShrubGrassTransition.ipynb` and `FariyCircle.ipynb` reimplemented and
+checked against them line by line. The runs were made in the session's
+scratchpad and are not committed, since this record holds no code. All
+runs used a 200 × 200 lattice, Table 1's parameters and 1,000 steps,
+unless stated.
+
+- **From sparse random starts** (density 0.01 each, as in Fig. 3C; four
+  seeds per s, s = 0.40–0.98 in steps of 0.02). Shrubs win at every s ≤
+  0.68 and grasses at every s ≥ 0.76. Between them (s = 0.70–0.74) the
+  seeds split: some end in shrubland, some in grassland, some still mixed.
+  This reproduces Fig. 3C's "either can win". With periodic boundaries
+  (two seeds) the split moves to s ≈ 0.66–0.68.
+- **Against invasion** (an established shrubland grown at s = 0.5, or
+  grassland at s = 0.95, seeded with 1% of the other type on empty cells;
+  two seeds; s = 0.40–0.96 in steps of 0.04). Established shrubland
+  excludes the invading grass at every s tested; grass survives only at
+  0.1–0.3% at high s. Established grassland excludes invading shrubs at
+  every s ≥ 0.48, and shrubs take over at s ≤ 0.44. **The model is
+  bistable from s ≈ 0.48 to at least 0.96**, a far wider interval than
+  the narrow split from random starts. That split is the point where a
+  race from near-empty ground ties, not the edge of the bistable region.
+  Without invaders, either established state persists at every s,
+  because dispersal comes only from plants already present, so an extinct
+  type never returns.
+- **Facilitation removed** (K+ = 0, two seeds). Random starts still
+  split near s ≈ 0.68–0.70, and established states still persist. Shrubs
+  still form a regular pattern: the radial power spectrum peaks at a
+  wavelength of about 25 cells, 273 times its median (570 times with
+  facilitation; 1.5 for a shuffled control). Grass shows a weak
+  periodicity of about 3.6 cells either way. Both wavelengths are about
+  1.2 times the competition radius (20 and 3), the range Martinez-Garcia
+  et al. give for competition-only patterns. **Competition alone makes
+  the patterns and the switch**, so "scale-dependent feedback" is not
+  needed to describe this model.
+- **Fairy circles.** Run in CASE-tmpjrrhk. The rings are made by the
+  kernel contraction imposed by hand, with or without grass, and grass
+  erodes them. The notebook stops at 200–500 steps, before most of the
+  decay.
+
+What follows for the paper:
+
+- The THEORY's `promote_when` is met. Bistability is shown, under the
+  code's threshold convention, which is also the paper's.
+- The match of the model's switch to the field's narrow 180–250 mm
+  window rests on the random-start race point. By the model's own
+  hysteresis, an established shrubland would persist far into wetter
+  conditions than the window. If the field transition is the model's,
+  the narrow window needs an account the paper does not give: an
+  establishment history like the race, or immigration from outside.
+
