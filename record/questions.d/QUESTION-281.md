@@ -275,7 +275,7 @@ At U4 of the exchange (2026-11-06 to 07) the owner proposed that "entrainment an
 
 ## Note of 2026-11-14: a construction in Conway's Game of Life
 
-At the owner's suggestion, CASE-tmpnqx8e builds the case this question's answer asks for in Life, where every step can be computed. The form is the block.
+At the owner's suggestion, [CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md) builds the case this question's answer asks for in Life, where every step can be computed. The form is the block.
 
 - **Creation without stabilization.** One two-glider collision makes an exact block with a dead border at t = 20, which is destroyed at t = 22 because a single cell two away populates its border. A second block, made later in the same collision, lasts.
 - **Stabilization without a constitutive role.** A lone block is a fixed point that nothing depends on.

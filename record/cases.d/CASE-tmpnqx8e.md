@@ -16,7 +16,7 @@ bears_on:
 summary: >-
   A construction in Conway's Game of Life (B3/S23), every step computed
   and checkable. The same form, the 2 × 2 block, is followed through the
-  three achievements QUESTION-281 separates. Creation: a collision of two
+  three achievements [QUESTION-281](../questions.d/QUESTION-281.md) separates. Creation: a collision of two
   gliders. Stabilization: a lone block is a fixed point, but whether it
   persists is decided by cells two away from it; in one collision an
   exact block with an empty border appears and is destroyed, and a later
@@ -40,7 +40,7 @@ survives. The form followed is the **block**, four live cells in a
 2 × 2 square. Each block cell has exactly three live neighbours, so a
 block whose eight-cell border stays dead is unchanged for ever.
 
-QUESTION-281 asks for a form whose creation, stabilization and
+[QUESTION-281](../questions.d/QUESTION-281.md) asks for a form whose creation, stabilization and
 constitutive role are each shown separately, and for a case in which two
 of them come apart. Life lets each be shown exactly. Every claim below was
 computed on 2026-11-14 with a 40-line NumPy implementation on a torus
@@ -133,11 +133,11 @@ at t = 300.
   separable and how they come apart in one exact system, not that they
   come apart in any other.
 - **That the block is an individual.** The record has not said whether a
-  block is a form it individuates (QUESTION-035, CLAIM-157). The case
+  block is a form it individuates ([QUESTION-035](../questions.d/QUESTION-035.md), [CLAIM-157](../claims.d/CLAIM-157.md)). The case
   takes the block as a form by its recurring shape, the sense of "real
-  pattern" in Dennett (LIT-220).
+  pattern" in Dennett ([LIT-220](../literature.d/LIT-220.md)).
 - **Whether the gun's block-and-shuttle loop is organizational closure in
-  TERM-070's sense.** It resembles it: the block depends on the shuttle
+  [TERM-070](../terms.d/TERM-070.md)'s sense.** It resembles it: the block depends on the shuttle
   that depends on it. But the block is partly destroyed each cycle, and
   whether a constraint may be so is not settled here.
 - **Why "documented".** This standing is used because every fact here is
