@@ -35,8 +35,8 @@ summary: >-
 
 ## The case
 
-**The claim tested.** Sun et al. (2026; read in NOTE-tmpmu9w0, account in
-THEORY-tmplznge) explain fairy circles in their dryland shrub–grass
+**The claim tested.** Sun et al. (2026; read in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md), account in
+[THEORY-tmplznge](../theory.d/THEORY-tmplznge.md)) explain fairy circles in their dryland shrub–grass
 transition zone as follows: "Slightly elevated precipitation allows
 grasses to occupy the interspaces, intercepting water and constraining
 the shrubs' resource-foraging range, which induces hollow center
@@ -44,7 +44,7 @@ formation." The rings then persist as metastable states, in "a balance in
 which shrubs utilize resources from the central hollow to counter the
 siege by surrounding grasses" (p. 6). On that account, making the form
 (hollowing) and keeping it (balance with grass) are different mechanisms,
-which is what QUESTION-281's answer asks for.
+which is what [QUESTION-281](../questions.d/QUESTION-281.md)'s answer asks for.
 
 **What the authors' code does.** The archived notebook first grows a
 shrub-spot pattern on a 600 × 600 lattice at s = 0.7, with no grass. Its

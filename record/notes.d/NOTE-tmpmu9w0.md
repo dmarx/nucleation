@@ -328,7 +328,7 @@ unless stated.
   et al. give for competition-only patterns. **Competition alone makes
   the patterns and the switch**, so "scale-dependent feedback" is not
   needed to describe this model.
-- **Fairy circles.** Run in CASE-tmpjrrhk. The rings are made by the
+- **Fairy circles.** Run in [CASE-tmpjrrhk](../cases.d/CASE-tmpjrrhk.md). The rings are made by the
   kernel contraction imposed by hand, with or without grass, and grass
   erodes them. The notebook stops at 200–500 steps, before most of the
   decay.

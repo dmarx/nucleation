@@ -109,7 +109,7 @@ were not read.
 
 On 2026-11-14 the update rules of the authors' notebook were
 reimplemented and rerun at Table 1's parameters (200 × 200 lattice,
-1,000 steps). The details are in NOTE-tmpmu9w0, "The authors' code,
+1,000 steps). The details are in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md), "The authors' code,
 rerun".
 
 - From sparse random starts, shrubs win at s ≤ 0.68 and grasses at s ≥
