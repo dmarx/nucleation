@@ -137,3 +137,7 @@ basin boundary" (§3.3, p. 13). That supports this account's caution. Where
 the frozen system is bistable (their §4), an outcome that depends on the
 rate along one parameter path is a kind of history dependence, near what
 this account counts as diagnostic; the paper does not discuss evidence.
+
+## Note of 2026-11-14: Zelnik, Meron and Bel, read
+
+Zelnik et al. (LIT-tmpijst5, NOTE-tmppk4i4) bear on this entry from both directions. Their field evidence for alternative states in Namibian fairy-circle grassland, rainfall correlations over eight satellite images, falls short of the bar this entry sets. Their model meets it with dependence on the initial state: the same rainfall pulses that move a hybrid mosaic leave a uniform or periodic start unchanged, and "No regime shift takes place even though the system is subjected to the same rainfall regime" (Fig. 10). They also add the converse of this entry's point. Alternative stable states need not produce an abrupt change: when the fronts between the states are pinned, a cascade of local transitions makes the shift gradual. The entry is unchanged.
