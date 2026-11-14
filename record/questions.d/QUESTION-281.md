@@ -30,6 +30,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-1642 LIT-1664 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-478 — Proposed or Open; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-tmpzvlp4 — Proposed; the reading of Zelnik et al. (2015), cited in the note of 2026-11-14 as bearing, not answering -->
 
 # QUESTION-281: By which dynamical transitions do the distinctions individuation needs come into being and pass away (instability that amplifies small differences, nucleation across a finite barrier from a locally stable state, bifurcation of the set of attractors, noise- or rate-induced tipping), and are a form's creation, its stabilization and its coming to have a constitutive role three separate achievements?
 
@@ -271,3 +272,7 @@ Berry, Lee-Trimble and Santangelo ([NOTE-1605](../notes.d/NOTE-1605.md)), from t
 ## Note of 2026-11-07: synchronization onset as an individuation transition, from "Individuation, Possibility, and Disposition"
 
 At U4 of the exchange (2026-11-06 to 07) the owner proposed that "entrainment and phase locking can probably be understood as kinds of individuation transitions". Synchronization onset is not among this question's listed routes. A12 §11 separates it from the transition to self-maintenance: "The transition from externally organized coherence to internally maintained organization is not necessarily a synchronization transition. It is a transition in the causal organization responsible for producing and sustaining the synchronized regime." A12 §5.4 proposes forcing-seeded formation with separate formation and maintenance thresholds and hysteresis, which [CASE-191](../cases.d/CASE-191.md), [CASE-189](../cases.d/CASE-189.md) and [QUESTION-398](QUESTION-398.md) already hold. The owner's programme is [CLAIM-616](../claims.d/CLAIM-616.md). The question stays open.
+
+## Note of 2026-11-14: Zelnik, Meron and Bel, read
+
+Zelnik et al. ([LIT-tmpijst5](../literature.d/LIT-tmpijst5.md), [NOTE-tmppk4i4](../notes.d/NOTE-tmppk4i4.md); [THEORY-tmpzvlp4](../theory.d/THEORY-tmpzvlp4.md)) give a worked case of this question's localized-structures route, short of the field. In their soil-water–biomass model of Namibian fairy-circle grassland, a gap comes into being and passes away by a spatially confined transition between coexisting stable states. Fairy-circle birth and death "correspond to transitions between hybrid states" (p. 5). The two achievements are done by different mechanisms. A Turing instability makes the pattern, while pinning of the fronts on a snaking branch holds each mosaic, shown by numerical continuation. Brief excursions outside the pinning range create and destroy gaps one at a time. So in this model creation and stabilization are separate, as the question's answer requires. Whether the third, a constitutive role, applies to a gap is not a question the paper raises. The question stays open.
