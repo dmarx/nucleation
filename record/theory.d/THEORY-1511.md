@@ -31,16 +31,14 @@ history:
   date: '2026-11-14'
   note: >-
     From the by-topic reading review of 2026-11-14 (part C; ADR-091,
-    ADR-093). Corroborates CLAIM-602 and CLAIM-558, both of which cite
-    its note as a supporting case. CLAIM-602: "Full support atrophies
-    the muscle it replaces. Under full mechanical ventilation the
-    diaphragm atrophies within 18-69 hours ... (Jaber et al.,
-    NOTE-1702). Keeping the patient's own breathing efforts lessens the
-    loss". CLAIM-558: "Extended from skill to tissue. Under full
-    ventilatory support the diaphragm's fibres atrophy within 18-69
-    hours of inactivity" (NOTE-1702). CLAIM-602 calls the link from
-    physiology an analogy; its subject, an organization's capacity,
-    includes an organism's. No other change.
+    ADR-093). Corroborates CLAIM-558, which cites its note as a
+    supporting case and extends its scope to tissue: "Extended from skill
+    to tissue. Under full ventilatory support the diaphragm's fibres
+    atrophy within 18-69 hours of inactivity" (NOTE-1702). Not tied to
+    CLAIM-602, which also cites the note but says "The links from
+    physiology to organizations are analogies": a precedent from another
+    domain corroborates only a claim whose scope reaches it. No other
+    change.
 tags:
 - natural-sciences
 date: '2026-11-05'
@@ -56,7 +54,6 @@ summary: >-
   animal. It does not show that the loss causes failed weaning, or whether
   and how fast the diaphragm recovers.
 corroborates:
-- CLAIM-602
 - CLAIM-558
 ---
 <!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
