@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpj9z04
 title: 'transfer entropy: how much the last l values of a source reduce uncertainty about a target''s next value beyond the target''s own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -19,6 +19,15 @@ history:
     is its lagged part") and THEORY-712 ("it counts redundancy and
     misses synergy"). First application of draws_on
     (ADR-095). No other change.
+- version: 3
+  date: '2026-11-14'
+  note: >-
+    Draws on THEORY-701, from the reading review of 2026-11-14 (by
+    topic, part B). The term "fixes the word from Schreiber
+    (NOTE-940)", and its definition is "Schreiber's Eq. 4 ... It is
+    the Kullback entropy of the assumption that Y's past leaves X's
+    transition law unchanged, and is zero exactly when it does",
+    which is the reading of that paper. No other change.
 tags:
 - information-theory
 - causality
@@ -42,6 +51,7 @@ draws_on:
 - THEORY-710
 - THEORY-711
 - THEORY-712
+- THEORY-701
 ---
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 

@@ -8,7 +8,7 @@ complements:
 - TERM-034
 - TERM-092
 title: 'legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer''s rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -42,6 +42,17 @@ history:
     legibility is not monotone in refinement is their failure of
     the data-processing inequality"). First application of
     draws_on (ADR-095). No other change.
+- version: 6
+  date: '2026-11-14'
+  note: >-
+    Draws on THEORY-1342, from the reading review of 2026-11-14 (by
+    topic, part B). The note of 2026-11-02 uses its factorization of
+    attention: "Each head's QK circuit is a bounded observer selecting
+    among sources ... The OV circuit is what the selection transports",
+    citing Vaswani et al.'s compatibility function and values (eq. 1),
+    and "The separation is exact only with attention patterns frozen",
+    which is the reading's "the separation holds only with the input,
+    and so the pattern, held fixed". No other change.
 tags:
 - epistemology
 - information-theory
@@ -60,6 +71,7 @@ draws_on:
 - THEORY-840
 - THEORY-842
 - THEORY-846
+- THEORY-1342
 ---
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->

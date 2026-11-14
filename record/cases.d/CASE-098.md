@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp3dw7j
 title: 'A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -30,6 +30,18 @@ history:
     Draws on THEORY-1113 ("They do not run through fans' own
     disidentification from the rival (THEORY-1113)"). First
     application of draws_on (ADR-095). No other change.
+- version: 5
+  date: '2026-11-14'
+  note: >-
+    Reading review of 2026-11-14 (by topic, part D), under ADR-091 and
+    ADR-095. draws_on THEORY-1584 added. The case's note of 2026-10-29
+    uses Botzung et al.'s result as a check on the case, not as its
+    source (the case is A2's): "its design is the case in miniature",
+    fans who learned an unknown rivalry game from archive footage
+    "recalled their own side's successes more accurately and with more
+    confidence. As an inference, a rivalry learned second-hand is
+    stored as one record with opposite signs". THEORY-1584 holds that
+    result. No other change.
 standing: stipulated
 kind: specimen
 tags:
@@ -52,6 +64,7 @@ bears_on:
 - QUESTION-298
 draws_on:
 - THEORY-1113
+- THEORY-1584
 ---
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 
