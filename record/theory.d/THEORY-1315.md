@@ -84,3 +84,7 @@ point is reached", so the moment "remains difficult to predict".
   "we know of no explicit work" on the latter (p. 24).
 - That slowing near a transition makes new organization. It marks
   proximity to a threshold, of either kind.
+
+## Note of 2026-11-14: Sun and colleagues, read
+
+Sun et al. ([LIT-tmpruadv](../literature.d/LIT-tmpruadv.md), [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md)) report that the skewness of patch size and nearest-neighbour spacing "increases rapidly" within the rainfall window where dryland shrubland gives way to grassland. They cite this paper for it, and list it among the "hallmarks of a first-order phase transition" (p. 3). This entry's scope is narrower: the signals mark proximity to a broad class of thresholds, "not which kind". So the rising skewness supports nearness to a threshold in their field data, and not the first-order reading, which rests on the bistability of their model. The entry is unchanged.
