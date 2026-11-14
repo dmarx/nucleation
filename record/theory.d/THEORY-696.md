@@ -4,7 +4,20 @@ status: Active
 formerly:
 - THEORY-tmpzaqyd
 title: "Under multiplicative noise, members that pool their resources and split them equally every step each grow faster in the long run than they would alone, with no complementarity, relatedness or reciprocity: N independent geometric Brownian motions that share keep their drift μ and cut their volatility to σ/√N, raising each one's time-average growth rate from μ − σ²/2 to μ − σ²/(2N); the gain vanishes as their noise becomes perfectly correlated, and a sufficiently superior member does better alone"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Bears on QUESTION-453, which asks which route partners'
+    costly cooperation takes among "relatedness, repeated meeting or
+    conventions backed by retaliation", and lists an answer in terms of
+    "shared stake in its persistence". This reading gives a route the
+    list lacks, pooling under multiplicative noise, which raises each
+    member's time-average growth "with no complementarity, relatedness
+    or reciprocity", and so bears on whether the cooperation is costly
+    at all. No other change.
 tags:
 - complex-systems
 - probabilistic-modeling
@@ -21,7 +34,10 @@ summary: >-
   pacts and unconstrained growth. It is a sufficient mechanism in that
   model, not a solution of the cooperation puzzle, and not a showing that
   cooperation is the default.
+bears_on:
+- QUESTION-453
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-141 THEORY-468 — Proposed; accounts of cooperation named for contrast, nothing here rests on their being settled -->
 
 # THEORY-696: Under multiplicative noise, members that pool their resources and split them equally every step each grow faster in the long run than they would alone, with no complementarity, relatedness or reciprocity: N independent geometric Brownian motions that share keep their drift μ and cut their volatility to σ/√N, raising each one's time-average growth rate from μ − σ²/2 to μ − σ²/(2N); the gain vanishes as their noise becomes perfectly correlated, and a sufficiently superior member does better alone

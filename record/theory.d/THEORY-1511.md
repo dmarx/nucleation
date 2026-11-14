@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp2eczh
 title: 'Jaber, Jung, Matecki and Petrof review evidence that fully controlled mechanical ventilation weakens, shrinks and injures the human diaphragm as it does in animals: biopsies from brain-dead organ donors ventilated for hours to days show diaphragm fibre atrophy and injury with oxidative stress and raised proteolysis markers, not seen in the pectoralis, the changes growing with the duration of ventilation, and diaphragm twitch pressure in ventilated patients falls by about a third in six days; in animals, keeping spontaneous effort lessens the loss but leaves a residual deficit'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,20 @@ history:
     the duration of ventilation; and an animal study is read that
     confirms kept spontaneous effort lessens, without abolishing, the
     loss of diaphragm force.
+- version: 3
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Corroborates CLAIM-602 and CLAIM-558, both of which cite
+    its note as a supporting case. CLAIM-602: "Full support atrophies
+    the muscle it replaces. Under full mechanical ventilation the
+    diaphragm atrophies within 18-69 hours ... (Jaber et al.,
+    NOTE-1702). Keeping the patient's own breathing efforts lessens the
+    loss". CLAIM-558: "Extended from skill to tissue. Under full
+    ventilatory support the diaphragm's fibres atrophy within 18-69
+    hours of inactivity" (NOTE-1702). CLAIM-602 calls the link from
+    physiology an analogy; its subject, an organization's capacity,
+    includes an organism's. No other change.
 tags:
 - natural-sciences
 date: '2026-11-05'
@@ -41,7 +55,11 @@ summary: >-
   pectoralis control is Levine's alone; the evidence on partial support is
   animal. It does not show that the loss causes failed weaning, or whether
   and how fast the diaphragm recovers.
+corroborates:
+- CLAIM-602
+- CLAIM-558
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-1541 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2212 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
