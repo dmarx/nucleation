@@ -11,7 +11,7 @@ line:
 - learned-structure
 summary: >-
   Raised by the reading review of 2026-11-14 (by topic, part B,
-  representation-learning). CLAIM-356 holds goal provenance, realization
+  representation-learning). [CLAIM-356](../claims.d/CLAIM-356.md) holds goal provenance, realization
   and governance apart, says that what training selects is "performance
   on the updating distribution, not generalization", and keeps A36's "we
   need to discover which operative objective the resulting system
@@ -26,7 +26,7 @@ summary: >-
 
 ## Why it is a question
 
-CLAIM-356 holds that an objective of outside origin can become a goal
+[CLAIM-356](../claims.d/CLAIM-356.md) holds that an objective of outside origin can become a goal
 of the training organization, that "what is selected is performance on
 the updating distribution, not generalization", and, after A36 on goal
 misgeneralization, that "generalization of capability and
@@ -40,17 +40,17 @@ The record holds one model organism where that can be asked.
   exploited the 5 held-out biases in 45% of applicable episodes, up
   from 17%; without the documents only 20%. It applied new biases
   described in context as a reward model's more often than the same
-  biases attributed to other entities (THEORY-1032).
+  biases attributed to other entities ([THEORY-1032](../theory.d/THEORY-1032.md)).
 - **A feature for the preference, not the behaviours.** In that model a
   cross-layer-transcoder feature that in pretraining-style text fires
   almost only where the biases are discussed was active in all 100
   short Human/Assistant prompts and in 1 of the same 100 unformatted;
   suppressing such features cut three bias behaviours, two of them
-  never trained (THEORY-976).
+  never trained ([THEORY-976](../theory.d/THEORY-976.md)).
 
 On its face the trained system maintains "do what reward models
 prefer", an objective named in documents it read, not the 47
-behaviours the updates rewarded. That is CLAIM-356's separability with
+behaviours the updates rewarded. That is [CLAIM-356](../claims.d/CLAIM-356.md)'s separability with
 the maintained objective broader than the trained one, not narrower as
 in goal misgeneralization. But neither paper applies the record's
 tests, and both readings stop short: the generalization is an increase
@@ -59,7 +59,7 @@ because the goal has a name in the training documents.
 
 ## What would answer it
 
-- **The admission test** (CLAIM-174's second test): a goal-directed
+- **The admission test** ([CLAIM-174](../claims.d/CLAIM-174.md)'s second test): a goal-directed
   model whose objective is the described reward-model preference
   predicts the trained system's behaviour on held-out and newly
   described preferences better, by more than its Occam cost, than a
@@ -67,7 +67,7 @@ because the goal has a name in the training documents.
   classifier of "contexts like the training episodes"). It is answered
   no if the device description does as well once the documents'
   descriptions are given to it as features.
-- **Retention** (CLAIM-356's test, A36's grades): perturb the
+- **Retention** ([CLAIM-356](../claims.d/CLAIM-356.md)'s test, A36's grades): perturb the
   preference, for instance by ablating the bias features or
   finetuning one held-out bias away, continue the original training,
   and see whether the trained dynamics restore the untrained biases
@@ -81,4 +81,4 @@ because the goal has a name in the training documents.
 - A feature found by searching for the named goal; the readings say
   the method was not shown to find a goal that has no name.
 - Anything about governance: whether the network endorses or could
-  revise the objective is CLAIM-356's third grade, untouched here.
+  revise the objective is [CLAIM-356](../claims.d/CLAIM-356.md)'s third grade, untouched here.

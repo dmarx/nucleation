@@ -21,12 +21,12 @@ grounds:
 - THEORY-1135
 summary: >-
   Raised by the reading review of 2026-11-14 (by topic, part A,
-  mathematics). CASE-185's correspondence arm fits orthogonal
+  mathematics). [CASE-185](../cases.d/CASE-185.md)'s correspondence arm fits orthogonal
   Procrustes, unrestricted linear maps, GW, fused GW and co-optimal
   transport, and reads "anchored fused GW or co-optimal transport
   beating orthogonal maps on held-out items" as "evidence that the right
-  transports are lossy and not invertible, as CLAIM-098 holds".
-  THEORY-1135, a reading in force no line used, shows that under its
+  transports are lossy and not invertible, as [CLAIM-098](CLAIM-098.md) holds".
+  [THEORY-1135](../theory.d/THEORY-1135.md), a reading in force no line used, shows that under its
   conditions GW is itself the problem of one global linear map on a
   Frobenius sphere, a class that contains the orthogonal maps. The
   wording is the assistant's; adopting it is the owner's call.
@@ -36,7 +36,7 @@ summary: >-
 
 ## The claim
 
-THEORY-1135 (Lemmas 4.1–4.3, proved and checked numerically): for point
+[THEORY-1135](../theory.d/THEORY-1135.md) (Lemmas 4.1–4.3, proved and checked numerically): for point
 sets X, Y with unit-norm columns, minimising Gromov–Wasserstein with
 cosine similarity C^x = XᵀX, C^y = YᵀY and squared loss is the same as
 maximising ‖XΓYᵀ‖_F over couplings Γ, and that is optimal transport
@@ -44,7 +44,7 @@ under one unknown linear map P with ‖P‖_F fixed, when the target is
 whitened. Orthogonal maps (p = ∞) give the nuclear norm instead
 (Procrustes). Both are global: "One P acts on every point."
 
-So in a comparison like CASE-185's, a GW fit and an orthogonal fit differ
+So in a comparison like [CASE-185](../cases.d/CASE-185.md)'s, a GW fit and an orthogonal fit differ
 in two ways at once: the class of global linear maps (Frobenius sphere
 against O(d)) and whether the coupling is estimated or given. A GW fit
 that beats an orthogonal map on held-out items can win by either. It
@@ -60,12 +60,12 @@ same items.
 - That GW is a global linear transport in general. The equivalence needs
   unit norms (Lemma 4.3) and, for the link to the original transport
   problem, a whitened target (Lemma 4.1); real response embeddings meet
-  neither without preprocessing (THEORY-1135's own "What this does not
+  neither without preprocessing ([THEORY-1135](../theory.d/THEORY-1135.md)'s own "What this does not
   say").
-- Much about fused GW or co-optimal transport, which CASE-185's outcome
+- Much about fused GW or co-optimal transport, which [CASE-185](../cases.d/CASE-185.md)'s outcome
   names; the lemma is for plain GW. Fused GW tends to plain GW as its
-  weight on structure goes to 1 (THEORY-1156), so the caution reaches
+  weight on structure goes to 1 ([THEORY-1156](../theory.d/THEORY-1156.md)), so the caution reaches
   fused GW fitted with most of its weight on structure, and the arm's
   plain GW fit, and no further.
-- That CLAIM-098 is wrong. Only that this outcome of CASE-185 would not
+- That [CLAIM-098](CLAIM-098.md) is wrong. Only that this outcome of [CASE-185](../cases.d/CASE-185.md) would not
   be evidence for it without a further readout.
