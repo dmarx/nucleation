@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuaxgt
 title: 'A continuous piecewise-linear function on R^d with compact support has a Fourier transform that, along any fixed direction û, is bounded by C(û)k^(−2), and by C(û)k^(−d−1) whenever û is orthogonal to no edge of its linear regions, which is almost every direction; C(û) is not uniform and grows without bound near the exceptional directions; for a ReLU network without compact support the statement is not established'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -15,6 +15,17 @@ history:
     non-uniform constant stated. Every step is re-derived below, which
     meets the condition for Active under ADR-047 v2. A numerical check
     is reported with it.
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-217, from the reading review of 2026-11-14, by
+    topic (part A, mathematics and adjacent). The question names this
+    reading among what the record holds on it: "THEORY-761 is the
+    paper's proved representational bound, which is about what a network
+    can contain, not about training", and registers its work with the
+    question ("Readings registered with this question: spectral bias
+    (LIT-1261)"). It bears on the question's structural side, not on the
+    order of acquisition, as the question says. No other change.
 tags:
 - mathematics
 - learning-theory
@@ -30,6 +41,8 @@ summary: >-
   vertices, giving k^(−d−1), and every direction gets at least k^(−2). It
   is a bound on what a piecewise-linear function contains, not a
   statement about training. Unbounded ReLU networks fall outside it.
+bears_on:
+- QUESTION-217
 ---
 <!-- inactive-ok-file: THEORY-759 — Proposed; the companion empirical account from the same paper, nothing here rests on it -->
 
