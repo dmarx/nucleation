@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-14 (NOTE-tmpbqaec) from the authors' arXiv v4
+  read in full 2026-11-14 ([NOTE-tmpbqaec](../notes.d/NOTE-tmpbqaec.md)) from the authors' arXiv v4
   (arXiv:2101.07049v4, 18 Oct 2022, "Preprint submitted to Chaos, Solitons
   & Fractals"); the publisher's version was not tried. Worth reading as
   the review that separates a pattern from its mechanism: purely
@@ -63,7 +63,7 @@ arXiv:2101.07049.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpbqaec.*
+*From the reading, [NOTE-tmpbqaec](../notes.d/NOTE-tmpbqaec.md).*
 
 - **A pattern does not identify its mechanism.** The two families of
   models give "visually indistinguishable patterns" but "predict
@@ -91,5 +91,5 @@ This review is the yardstick for that label: it says competition alone
 makes the patterns, and that matching pattern geometry cannot identify a
 mechanism. The record held nothing on vegetation pattern formation,
 scale-dependent feedback or nonlocal competition. Its nearest holdings are
-Turing's diffusion-driven instability (THEORY-543), which this review's
-PCF instability does without, and the transitions question QUESTION-281.
+Turing's diffusion-driven instability ([THEORY-543](../theory.d/THEORY-543.md)), which this review's
+PCF instability does without, and the transitions question [QUESTION-281](../questions.d/QUESTION-281.md).

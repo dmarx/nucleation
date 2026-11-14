@@ -22,7 +22,7 @@ bears_on:
 - QUESTION-281
 summary: >-
   Martinez-Garcia, Cabal, Calabrese, Hernández-García, Tarnita, López &
-  Bonachela (2023), LIT-tmp5mwek, read in NOTE-tmpbqaec. A review: the two
+  Bonachela (2023), [LIT-tmp5mwek](../literature.d/LIT-tmp5mwek.md), read in [NOTE-tmpbqaec](../notes.d/NOTE-tmpbqaec.md). A review: the two
   collapse behaviours are reruns of published models, and the field test
   is proposed, not run. The sharp edge: the PCF result might come from
   the absence of diffusion rather than of facilitation, as the authors
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Martinez-Garcia et al., LIT-tmp5mwek, read in full in NOTE-tmpbqaec from
+Martinez-Garcia et al., [LIT-tmp5mwek](../literature.d/LIT-tmp5mwek.md), read in full in [NOTE-tmpbqaec](../notes.d/NOTE-tmpbqaec.md) from
 the arXiv preprint.
 
 ## What was actually shown
