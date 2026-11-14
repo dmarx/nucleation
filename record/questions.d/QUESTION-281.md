@@ -30,6 +30,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-1642 LIT-1664 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-478 — Proposed or Open; neighbours cited as open -->
+<!-- inactive-ok-file: CASE-tmpnqx8e — Proposed; the Game of Life construction, cited in the note of 2026-11-14 -->
 
 # QUESTION-281: By which dynamical transitions do the distinctions individuation needs come into being and pass away (instability that amplifies small differences, nucleation across a finite barrier from a locally stable state, bifurcation of the set of attractors, noise- or rate-induced tipping), and are a form's creation, its stabilization and its coming to have a constitutive role three separate achievements?
 
@@ -271,3 +272,14 @@ Berry, Lee-Trimble and Santangelo ([NOTE-1605](../notes.d/NOTE-1605.md)), from t
 ## Note of 2026-11-07: synchronization onset as an individuation transition, from "Individuation, Possibility, and Disposition"
 
 At U4 of the exchange (2026-11-06 to 07) the owner proposed that "entrainment and phase locking can probably be understood as kinds of individuation transitions". Synchronization onset is not among this question's listed routes. A12 §11 separates it from the transition to self-maintenance: "The transition from externally organized coherence to internally maintained organization is not necessarily a synchronization transition. It is a transition in the causal organization responsible for producing and sustaining the synchronized regime." A12 §5.4 proposes forcing-seeded formation with separate formation and maintenance thresholds and hysteresis, which [CASE-191](../cases.d/CASE-191.md), [CASE-189](../cases.d/CASE-189.md) and [QUESTION-398](QUESTION-398.md) already hold. The owner's programme is [CLAIM-616](../claims.d/CLAIM-616.md). The question stays open.
+
+## Note of 2026-11-14: a construction in Conway's Game of Life
+
+At the owner's suggestion, CASE-tmpnqx8e builds the case this question's answer asks for in Life, where every step can be computed. The form is the block.
+
+- **Creation without stabilization.** One two-glider collision makes an exact block with a dead border at t = 20, which is destroyed at t = 22 because a single cell two away populates its border. A second block, made later in the same collision, lasts.
+- **Stabilization without a constitutive role.** A lone block is a fixed point that nothing depends on.
+- **A constitutive role.** Each block of Gosper's glider gun is needed for the gun to keep emitting.
+- **A change in how the form is stabilized.** In the gun, each block is partly destroyed and rebuilt by the gun every 30 generations. So taking on a constitutive role changed how the form is stabilized, from fixed point to repair.
+
+This meets the second half of "What would count as an answer" for a formal system: two of the three achievements come apart, each way. It does not meet the first half's "a form the record individuates", since the record has not said whether a block is one. The question stays open.
