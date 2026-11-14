@@ -22,7 +22,7 @@ source:
 bears_on:
 - QUESTION-281
 summary: >-
-  Zelnik, Meron & Bel (2015), LIT-tmpijst5, read in NOTE-tmppk4i4. Hybrid
+  Zelnik, Meron & Bel (2015), [LIT-tmpijst5](../literature.d/LIT-tmpijst5.md), read in [NOTE-tmppk4i4](../notes.d/NOTE-tmppk4i4.md). Hybrid
   states are shown by numerical continuation, and the cascade and its
   dependence on the start by simulation. The field side is correlations
   over eight images, with one birth and one death illustrated. The sharp
@@ -35,7 +35,7 @@ summary: >-
 
 ## Source
 
-Zelnik, Meron & Bel, LIT-tmpijst5, read in full in NOTE-tmppk4i4 from the
+Zelnik, Meron & Bel, [LIT-tmpijst5](../literature.d/LIT-tmpijst5.md), read in full in [NOTE-tmppk4i4](../notes.d/NOTE-tmppk4i4.md) from the
 arXiv manuscript.
 
 ## What was actually shown

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-14 (NOTE-tmppk4i4) from the authors' manuscript on
+  read in full 2026-11-14 ([NOTE-tmppk4i4](../notes.d/NOTE-tmppk4i4.md)) from the authors' manuscript on
   arXiv (arXiv:1703.00732v1, 2017-03-02, with Appendices A–C); pnas.org
   was not tried, since it had served a Cloudflare check that day. Worth
   reading as a model-based case that bistability in a spatially extended
@@ -61,7 +61,7 @@ circles", *Proceedings of the National Academy of Sciences* 112(40),
 
 ## Key takeaways
 
-*From the reading, NOTE-tmppk4i4.*
+*From the reading, [NOTE-tmppk4i4](../notes.d/NOTE-tmppk4i4.md).*
 
 - **The foil.** The paper sets itself against catastrophic shifts as
   "abrupt transitions between two alternative stable states that occur
@@ -90,7 +90,7 @@ evidence all the same. Plots in different states at the same rainfall are
 what a stable mosaic looks like, and without time series an abrupt
 regional jump cannot be told from a gradual cascade of local ones.
 
-In the record it is a worked case for QUESTION-281's route of localized
+In the record it is a worked case for [QUESTION-281](../questions.d/QUESTION-281.md)'s route of localized
 structures, and it partly stands in for Knobloch on spatial localization
-(LIT-1642, Unfetched), which it cites. Its field evidence falls short of
-THEORY-136's bar for alternative stable states, though its model meets it.
+([LIT-1642](LIT-1642.md), Unfetched), which it cites. Its field evidence falls short of
+[THEORY-136](../theory.d/THEORY-136.md)'s bar for alternative stable states, though its model meets it.

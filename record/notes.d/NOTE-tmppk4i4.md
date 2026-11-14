@@ -99,7 +99,7 @@ discontinuous.
 
 - **Hybrid (localized) state**: a stable mosaic of uniform vegetation and
   periodic gap pattern, on a snaking solution branch (homoclinic snaking;
-  Knobloch, LIT-1642).
+  Knobloch, [LIT-1642](../literature.d/LIT-1642.md)).
 - **Front pinning**: the front between the two states stays put over a
   range of the control parameter. Outside that range it moves.
 - **Gradual vs abrupt regime shift**: in the aggregate, a cascade of
@@ -107,15 +107,15 @@ discontinuous.
 
 ## Connections
 
-The foil is Scheffer et al. 2001 (LIT-720). The pattern mechanism is
-Turing's (THEORY-543). The hybrid states are the localized structures of
-Knobloch's theory (LIT-1642), which this paper cites as its ref. [7]. The
+The foil is Scheffer et al. 2001 ([LIT-720](../literature.d/LIT-720.md)). The pattern mechanism is
+Turing's ([THEORY-543](../theory.d/THEORY-543.md)). The hybrid states are the localized structures of
+Knobloch's theory ([LIT-1642](../literature.d/LIT-1642.md)), which this paper cites as its ref. [7]. The
 excursions driven by fluctuations are close to the noise-induced routes of
-Ashwin et al. (LIT-1654).
+Ashwin et al. ([LIT-1654](../literature.d/LIT-1654.md)).
 
 ## Bearing on the record
 
-- **QUESTION-281.** A worked case of the localized-structures route.
+- **[QUESTION-281](../questions.d/QUESTION-281.md).** A worked case of the localized-structures route.
   - A form (a gap) comes into being and passes away by a spatially
     confined transition between coexisting stable states.
   - Pinning on the snaking branch stabilizes it.
@@ -125,7 +125,7 @@ Ashwin et al. (LIT-1654).
     continuation in a model.
 
   Dated note filed.
-- **THEORY-136** (abrupt change is not evidence of alternative stable
+- **[THEORY-136](../theory.d/THEORY-136.md)** (abrupt change is not evidence of alternative stable
   states). The field evidence here, correlations over eight images, falls
   short of that entry's bar. The model meets it: dependence on the initial
   state (Fig. 10) and a lasting shift after brief forcing (Fig. 4). The
@@ -145,7 +145,7 @@ Ashwin et al. (LIT-1654).
     shift would be gradual even though each plot jumps. Sun et al.'s
     single survey cannot tell the two apart.
   - Both can be right at their own scales.
-- **LIT-1642** (Knobloch). This paper is an applied instance of that
+- **[LIT-1642](../literature.d/LIT-1642.md)** (Knobloch). This paper is an applied instance of that
   theory and stands in for it only as far as hybrid states and snaking
   go.
 
