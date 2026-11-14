@@ -4,7 +4,24 @@ status: Active
 formerly:
 - THEORY-tmposaze
 title: 'Barad holds agential realism to be naturalized metaphysics justified by quantum mechanics and applied once, to the one reality, with its scope extended to the lifeworld; she rejects both reading it as an analogy and reading it as a template that quantum mechanics and other domains each instantiate'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Reading review of 2026-11-14 (by topic, part D), under ADR-091,
+    ADR-093 and ADR-094. bounds CLAIM-476 and CLAIM-477 added. Both
+    claims cite this reading to mark the conception of agential
+    realism they do not take. CLAIM-476's defeated_if: "on the
+    template reading this claim takes, which Barad rejects
+    (THEORY-1083)", and its note of 2026-10-27 (later): "So 'in
+    Barad's sense' means the sense of her concept, not her way of
+    applying it." CLAIM-477's note of 2026-10-27 (later): "a
+    metaphysics applied once to the one reality and extended in scope,
+    which is Barad's (THEORY-1083), from a template that each domain
+    instantiates. This claim is the second", and "not a claim that a
+    fundamental ontology settles every domain". A stated scope, not
+    support or objection. No other change.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -21,6 +38,9 @@ summary: >-
   correct as quantum mechanics, which Faye and Jaksland dispute
   ([THEORY-1071](THEORY-1071.md)). It does say that a use of her concepts outside
   physics by structural comparison is a use she disowns.
+bounds:
+- CLAIM-476
+- CLAIM-477
 ---
 
 # THEORY-1083: Barad holds agential realism to be naturalized metaphysics justified by quantum mechanics and applied once, to the one reality, with its scope extended to the lifeworld; she rejects both reading it as an analogy and reading it as a template that quantum mechanics and other domains each instantiate
