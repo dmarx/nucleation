@@ -7,7 +7,7 @@ complements:
 - TERM-087
 - TERM-093
 title: 'apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -27,6 +27,16 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 5
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Draws on THEORY-1074 ("Differentiation can be measured. It
+    is a pointer variable B with I_{A|B} at its maximum (Di Biagio and
+    Rovelli 2025, NOTE-1214) ... differentiating one variable can erase
+    a relative fact held by a system that did nothing (eq. 16, p. 5)"):
+    the reading fixes the term's measure of differentiation and its
+    condition (ADR-095). No other change.
 tags:
 - philosophy-of-science
 - epistemology
@@ -44,7 +54,10 @@ summary: >-
   2026-10-27 because the record uses "apparatus" in [CLAIM-476](../claims.d/CLAIM-476.md) and [TERM-087](TERM-087.md) in Barad's
   sense, and needed a weaker one that a thermometer, a bacterium, a
   sensor network and luria all fall under without argument.
+draws_on:
+- THEORY-1074
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 ADR-095 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: TERM-087 CLAIM-476 — Proposed, Open or new; the term, claims and question this sense serves -->
 
 # TERM-089: apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart

@@ -4,7 +4,20 @@ status: Active
 formerly:
 - THEORY-tmp1244l
 title: "Weiss's mark of a system, that the whole varies far less than the summed variances of its parts, is met by any aggregate of independent parts when the whole is measured as their average; when it is measured as their sum, it holds only if the parts' fluctuations compensate one another, with ∑ᵢ<ⱼ Cov(xᵢ, xⱼ) close to −½ ∑ᵢ Var(xᵢ)"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Bears on QUESTION-035, which lists the record's candidate
+    tests of when a combined form is one system, among them "Reciprocal
+    compensation (LIT-902, unread), which measures whether a goal is
+    preserved". This reading is an instrument and a caution for that
+    test: Weiss's variance mark separates a system from an aggregate
+    only when the whole is the parts' sum and their fluctuations
+    compensate; read as an average, every aggregate passes (ADR-093, 3).
+    No other change.
 tags:
 - complex-systems
 - philosophy-of-biology
@@ -19,7 +32,10 @@ summary: >-
   an identity, checked numerically. It does not say Weiss's systems lack
   compensating covariance, only that the inequality as stated does not
   test for it.
+bears_on:
+- QUESTION-035
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 LIT-902 — Proposed or Unavailable; cited in the reading review's history note of 2026-11-14, LIT-902 as QUESTION-035 names it -->
 
 # THEORY-1122: Weiss's mark of a system, that the whole varies far less than the summed variances of its parts, is met by any aggregate of independent parts when the whole is measured as their average; when it is measured as their sum, it holds only if the parts' fluctuations compensate one another, with ∑ᵢ<ⱼ Cov(xᵢ, xⱼ) close to −½ ∑ᵢ Var(xᵢ)
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmphcxoi
 title: 'In Di Biagio and Rovelli''s relational account two classical subsystems'' perspectives merge, agreeing on a variable''s value and on each other''s, when they couple to that variable or to each other, and a coupling to a complementary variable can remove a relative fact from a perspective that did not interact; that this answers the combination problem and keeps perspectives consistent is shown only in worked examples computed relative to a single outside system'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -27,6 +27,17 @@ history:
     agreement between perspectives." It moves word for word to
     THEORY-1213, Proposed, which carries the general claim and extends
     this entry (ADR-065 §3; ADR-047, kind 1).
+- version: 3
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Bears on QUESTION-285, whose note of the readings uses
+    this work for the correlation rung: "Di Biagio and Rovelli 2025
+    (NOTE-1214) define 'B has information about A' ... Nothing in the
+    paper separates a measurement from any interaction that correlates."
+    The reading's merge by coupling and disturbance by a complementary
+    coupling are that criterion at work. Its use by TERM-089 is recorded
+    there as draws_on. No other change.
 tags:
 - quantum-foundations
 date: '2026-10-27'
@@ -41,7 +52,10 @@ summary: >-
   not shown; whether they hold is THEORY-1213, Proposed.
   Every computation is relative to one outside system, where agreement is
   automatic. This is the same gap [THEORY-621](THEORY-621.md) and [THEORY-1080](THEORY-1080.md) name.
+bears_on:
+- QUESTION-285
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-621 — Proposed; the earlier statement whose consistency gap this restates, cited as open -->
 
 # THEORY-1074: In Di Biagio and Rovelli's relational account two classical subsystems' perspectives merge, agreeing on a variable's value and on each other's, when they couple to that variable or to each other, and a coupling to a complementary variable can remove a relative fact from a perspective that did not interact; that this answers the combination problem and keeps perspectives consistent is shown only in worked examples computed relative to a single outside system

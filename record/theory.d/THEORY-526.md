@@ -4,7 +4,20 @@ status: Active
 formerly:
 - THEORY-tmpgg88t
 title: "The Čech cohomology obstruction of a support section is a sound but incomplete witness of contextuality: it vanishes exactly when the section lies in a compatible family of integer combinations of support sections, so it is non-zero on every section of every All-vs-Nothing model, over any coefficient ring, on a connected cover, yet it misses the Hardy model entirely, part of a strongly contextual Kochen–Specker cover, and every section of a strongly contextual model on the fully symmetric (2,2,4) Bell cover"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Corroborates CLAIM-141, which grounds on this reading's
+    work: "Abramsky, Barbosa, Kishida, Lal and Mansfield (LIT-278, read
+    in NOTE-251) identify Liar cycles with strongly contextual support
+    tables, informally, with one exact case: the length-4 Liar cycle is
+    the PR box." This reading holds that case and its limit (the
+    encoding fails at lengths 1 and 2). The claim does its own work with
+    it. The LIT-278 edge in CLAIM-141's grounds is left for a defect
+    sweep (ADR-093, 6). No other change.
 tags:
 - contextuality
 - quantum-foundations
@@ -26,7 +39,10 @@ summary: >-
   admit no All-vs-Nothing argument over any ring, by Thm 21 read
   contrapositively. The witness is possibilistic, so it cannot grade
   anything below strong contextuality.
+corroborates:
+- CLAIM-141
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 
 # THEORY-526: The Čech cohomology obstruction of a support section is a sound but incomplete witness of contextuality: it vanishes exactly when the section lies in a compatible family of integer combinations of support sections, so it is non-zero on every section of every All-vs-Nothing model, over any coefficient ring, on a connected cover, yet it misses the Hardy model entirely, part of a strongly contextual Kochen–Specker cover, and every section of a strongly contextual model on the fully symmetric (2,2,4) Bell cover

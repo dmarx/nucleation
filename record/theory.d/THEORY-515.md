@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmpes2tv
 title: "Sampling a posterior p(x|y) when only joint samples (X, Y) can be drawn is solved by a Schrödinger bridge on the joint space, with y held fixed along the path, between the joint distribution and any reference sharing its y-marginal; the bridge averages the per-observation bridges, its first iterative-proportional-fitting step is the conditional score-based model, and the error of later steps at the data end falls as 1/n times the reference's distance from the bridge"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Corroborates CLAIM-001 in the part its body accepts:
+    "diffusion bridges provide a way to study stochastic transport
+    between distributions (LIT-776) ... Proposed: right about the tools,
+    unshown for the question." This reading holds that a Schroedinger
+    bridge on the joint space with the observation held fixed solves
+    conditional transport; it says nothing of changing covers, the part
+    the claim leaves unshown. No other change.
 tags:
 - probabilistic-modeling
 - mathematics
@@ -19,7 +31,10 @@ summary: >-
   metrics, and in Lorenz-63 filtering at 20 steps. That a long noising
   horizon is not what makes conditional diffusion correct is [NOTE-589](../notes.d/NOTE-589.md)'s
   interpretation, not something the paper tests.
+corroborates:
+- CLAIM-001
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 CLAIM-001 — Proposed; the decisions and the claim named in the reading review's history note of 2026-11-14 -->
 
 
 # THEORY-515: Sampling a posterior p(x|y) when only joint samples (X, Y) can be drawn is solved by a Schrödinger bridge on the joint space, with y held fixed along the path, between the joint distribution and any reference sharing its y-marginal; the bridge averages the per-observation bridges, its first iterative-proportional-fitting step is the conditional score-based model, and the error of later steps at the data end falls as 1/n times the reference's distance from the bridge
