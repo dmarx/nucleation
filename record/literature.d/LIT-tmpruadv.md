@@ -100,11 +100,11 @@ the authors' claim, unverified until the text is read.*
 
 Filed on 2026-11-14 at the owner's request. The record's nearest holdings
 are on regime shifts and their warnings: Scheffer & Carpenter on
-catastrophic regime shifts (LIT-726), early-warning signals (LIT-1956) and
-critical slowing near a fold (THEORY-1315); on restoration against
-alternative states, Kadowaki and colleagues (LIT-2165, THEORY-1468); and,
+catastrophic regime shifts ([LIT-726](LIT-726.md)), early-warning signals ([LIT-1956](LIT-1956.md)) and
+critical slowing near a fold ([THEORY-1315](../theory.d/THEORY-1315.md)); on restoration against
+alternative states, Kadowaki and colleagues ([LIT-2165](LIT-2165.md), [THEORY-1468](../theory.d/THEORY-1468.md)); and,
 in the record's own argument, the question of the dynamical transitions by
-which distinctions come into being (QUESTION-281). None of these holds
+which distinctions come into being ([QUESTION-281](../questions.d/QUESTION-281.md)). None of these holds
 spatial self-organization, pattern formation in vegetation or fairy
 circles. This work would be the record's first on how a spatial pattern,
 and not only an aggregate state, changes across a transition.
@@ -114,7 +114,7 @@ What the abstract leaves for the reading to settle:
 - whether "phase transition" is used in the strict sense (a singularity in
   a macroscopic order parameter as a control parameter is varied, with
   scaling near it) or for any abrupt shift between states. A fold of the
-  kind THEORY-1315 describes is abrupt without being a phase transition in
+  kind [THEORY-1315](../theory.d/THEORY-1315.md) describes is abrupt without being a phase transition in
   the first sense;
 - what the control parameter is (aridity, rainfall, grazing) and whether
   the shifts are shown along it in the field or only in the model;
