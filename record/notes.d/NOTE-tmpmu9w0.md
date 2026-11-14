@@ -186,22 +186,22 @@ from quadrats. The model is described under Assumptions.
 ## Connections
 
 The paper's foil is the macroscopic feedback framework of regime shifts
-(Scheffer et al. 2001, LIT-720; Dakos et al. 2019), which it calls
+(Scheffer et al. 2001, [LIT-720](../literature.d/LIT-720.md); Dakos et al. 2019), which it calls
 "effective for prediction" but not an explanation from individuals. Its
 pattern mechanism is the scale-dependent feedback of Rietkerk et al.
 (2002) and Pringle & Tarnita (2017). It uses depletion-range kernels
 like those of Martinez-Garcia et al. (2023, their ref. 34) and Cabal et
 al.'s root segregation (2020). Spatial skewness as a warning comes from
 Guttal & Jayaprakash (2009), and the paper also cites Scheffer et al.
-(2009), LIT-1956. The fairy-circle reading engages Guirado et al. (2023)
+(2009), [LIT-1956](../literature.d/LIT-1956.md). The fairy-circle reading engages Guirado et al. (2023)
 on their global distribution and Rietkerk et al. (2021) on evading
 tipping. "Turing-like" names the morphology. The mechanism is not
-diffusion-driven instability of a homogeneous state (THEORY-543) but
+diffusion-driven instability of a homogeneous state ([THEORY-543](../theory.d/THEORY-543.md)) but
 kernel competition on a lattice.
 
 ## Bearing on the record
 
-- **QUESTION-281** (by which transitions do forms come into being and
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (by which transitions do forms come into being and
   pass away). The paper names, for one system, three different routes:
   a field-driven switch with bistability between two patterned states;
   a continuous loss of order under disturbance; and a metastable form
@@ -214,19 +214,19 @@ kernel competition on a lattice.
   imposed in the simulation rather than arising, and stability is
   asserted rather than tested. Filed as `bears_on`, with a dated note on
   the question.
-- **THEORY-1315** (critical slowing and its warning signals). The paper
+- **[THEORY-1315](../theory.d/THEORY-1315.md)** (critical slowing and its warning signals). The paper
   uses rising spatial skewness as one of the hallmarks of a first-order
-  transition. THEORY-1315 holds that such signals mark nearness to a
+  transition. [THEORY-1315](../theory.d/THEORY-1315.md) holds that such signals mark nearness to a
   broad class of thresholds, "not which kind". On that account the
   skewness supports nearness to some threshold and not the first-order
   reading, which rests on the model's hysteresis. Dated note filed on
-  THEORY-1315.
-- **LIT-726, LIT-2165, THEORY-1468** (regime shifts and restoration).
+  [THEORY-1315](../theory.d/THEORY-1315.md).
+- **[LIT-726](../literature.d/LIT-726.md), [LIT-2165](../literature.d/LIT-2165.md), [THEORY-1468](../theory.d/THEORY-1468.md)** (regime shifts and restoration).
   The paper offers a bottom-up alternative to the feedback account those
   hold. It does not test it against them: it argues the feedbacks are
   absent at its sites without measuring them. No note is filed on
   these; the contrast is recorded here.
-- **THEORY-543, LIT-527** (Turing; Cross–Hohenberg). "Turing-like" is
+- **[THEORY-543](../theory.d/THEORY-543.md), [LIT-527](../literature.d/LIT-527.md)** (Turing; Cross–Hohenberg). "Turing-like" is
   used for the pattern and not for the mechanism. No note filed.
 
 ## Limitations

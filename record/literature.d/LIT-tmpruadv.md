@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-14 (NOTE-tmpmu9w0) from the publisher's PDF (CC BY
+  read in full 2026-11-14 ([NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md)) from the publisher's PDF (CC BY
   4.0), which the owner supplied after pnas.org's Cloudflare check stopped
   this client's fetch the same day. Worth reading as a minimal spatial
   model in which two plant types differ in the range and strength of
@@ -70,7 +70,7 @@ summary: >-
   circles, made in the model by contracting the shrub kernel by hand, are
   read as metastable; cover loss at the desert edge, fit by a power law,
   as a continuous transition. The model's bistability is shown; the
-  field's is inferred (NOTE-tmpmu9w0).
+  field's is inferred ([NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md)).
 ---
 
 # LIT-tmpruadv: Phase transition in a dryland shrub–grass ecosystem: Emergence through local trade-offs
@@ -83,7 +83,7 @@ doi:10.1073/pnas.2618656123. CC BY 4.0.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmu9w0.*
+*From the reading, [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md).*
 
 - **The model.** A probabilistic cellular automaton with three states per
   cell. Each plant's influence is a kernel: competition of strength
@@ -117,11 +117,11 @@ copy the owner supplied. It is the record's first work on spatial
 self-organization of vegetation, on fairy circles, or on how a spatial
 pattern, and not only an aggregate state, changes across a transition.
 The nearest holdings are on regime shifts and their warnings (Scheffer &
-Carpenter, LIT-726; early-warning signals, LIT-1956, and critical slowing,
-THEORY-1315), on restoration against alternative states (LIT-2165,
-THEORY-1468), on Turing's instability (THEORY-543), and, in the record's
+Carpenter, [LIT-726](LIT-726.md); early-warning signals, [LIT-1956](LIT-1956.md), and critical slowing,
+[THEORY-1315](../theory.d/THEORY-1315.md)), on restoration against alternative states ([LIT-2165](LIT-2165.md),
+[THEORY-1468](../theory.d/THEORY-1468.md)), on Turing's instability ([THEORY-543](../theory.d/THEORY-543.md)), and, in the record's
 own argument, on the transitions by which forms come into being and pass
-away (QUESTION-281). Its THEORY bears on that question.
+away ([QUESTION-281](../questions.d/QUESTION-281.md)). Its THEORY bears on that question.
 
 Two questions the abstract left open are now answered. Its "phase
 transition" is the physicist's term applied by analogy, with bistability

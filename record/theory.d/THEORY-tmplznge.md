@@ -22,7 +22,7 @@ bears_on:
 - QUESTION-281
 summary: >-
   Sun, Yu, Li, Rietkerk, D'Odorico, Chen, Wang, Zhang & Yu (2026),
-  LIT-tmpruadv, read in NOTE-tmpmu9w0. The model's bistability is shown
+  [LIT-tmpruadv](../literature.d/LIT-tmpruadv.md), read in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md). The model's bistability is shown
   (Fig. 3C, with hysteresis in SI Fig. S2, unread). The field's is
   inferred from alternation between plots, nonlinear cover change and
   rising spatial skewness, none of which is specific to a first-order
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-Sun et al. (2026), LIT-tmpruadv, read in full in NOTE-tmpmu9w0 from the
+Sun et al. (2026), [LIT-tmpruadv](../literature.d/LIT-tmpruadv.md), read in full in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md) from the
 publisher's PDF that the owner supplied. The SI, the dataset and the code
 were not read.
 
@@ -71,7 +71,7 @@ were not read.
   plots at similar rainfall is what bistability would produce, but so
   would unmeasured heterogeneity. The paper has no time series or repeat
   visits, and rising skewness marks nearness to a threshold, not its
-  kind (THEORY-1315).
+  kind ([THEORY-1315](THEORY-1315.md)).
 - **That the EI trade-off is measured.** The kernels' ranges and
   strengths are model parameters; the field test correlates patch
   geometry with leaf and size traits.
