@@ -20,8 +20,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpy7s15
 summary: >-
-  Liang, Lin, Huang, Wu, Li, Wang & Yan (2026), LIT-tmpy7s15, read in
-  NOTE-tmps6dyd. The intersection bound is elementary linear algebra and
+  Liang, Lin, Huang, Wu, Li, Wang & Yan (2026), [LIT-tmpy7s15](../literature.d/LIT-tmpy7s15.md), read in
+  [NOTE-tmps6dyd](../notes.d/NOTE-tmps6dyd.md). The intersection bound is elementary linear algebra and
   holds; the claim that misalignment explains the collapse rests on
   results from one editor family, five to seven domains and three
   backbones, with conflict used as a surrogate for forgetting. The sharp
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Liang et al. (2026), LIT-tmpy7s15, read in NOTE-tmps6dyd from arXiv v1.
+Liang et al. (2026), [LIT-tmpy7s15](../literature.d/LIT-tmpy7s15.md), read in [NOTE-tmps6dyd](../notes.d/NOTE-tmps6dyd.md) from arXiv v1.
 
 ## What was actually shown
 

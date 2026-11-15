@@ -112,35 +112,35 @@ null-space misalignment" (§3.1).
 ## Connections
 
 The paper extends AlphaEdit (Fang et al. 2024, not held), the null-space
-form of the MEMIT objective (LIT-1582, THEORY-1031), whose key–value
-framing comes from ROME (LIT-1536) and Geva et al. Hase et al. (LIT-1578,
-THEORY-1024) showed that where a fact is traced need not be where an edit
+form of the MEMIT objective ([LIT-1582](../literature.d/LIT-1582.md), [THEORY-1031](../theory.d/THEORY-1031.md)), whose key–value
+framing comes from ROME ([LIT-1536](../literature.d/LIT-1536.md)) and Geva et al. Hase et al. ([LIT-1578](../literature.d/LIT-1578.md),
+[THEORY-1024](../theory.d/THEORY-1024.md)) showed that where a fact is traced need not be where an edit
 works. This paper sidesteps that question: its layers are chosen by
 convention, not by tracing.
 
 ## Bearing on the record
 
-- **THEORY-1039 and THEORY-1011.** The paper assumes the key–value
+- **[THEORY-1039](../theory.d/THEORY-1039.md) and [THEORY-1011](../theory.d/THEORY-1011.md).** The paper assumes the key–value
   reading. Its geometric result does not depend on it: that ΔKᵢ = 0
   leaves the edited layer's outputs on those keys unchanged is linear
   algebra, true whatever the layer "stores". What depends on the reading
   is calling those outputs the domain's knowledge. The paper's results
-  neither support nor weaken THEORY-1039: they show that preserving
+  neither support nor weaken [THEORY-1039](../theory.d/THEORY-1039.md): they show that preserving
   reference keys preserves task performance, which any account of the
   layer's role would predict. No note filed.
-- **CLAIM-366** (whether objectives share a strict descent direction is
+- **[CLAIM-366](../claims.d/CLAIM-366.md)** (whether objectives share a strict descent direction is
   invariant under reparameterization). The paper meets the same
   structural problem in another form: several constraints, each
-  satisfiable, jointly leave little room. CLAIM-366 asks for a common
+  satisfiable, jointly leave little room. [CLAIM-366](../claims.d/CLAIM-366.md) asks for a common
   descent direction, and this paper for a common null-space direction.
   The parallel is noted here only. The paper's measure is Euclidean and
-  rank-based, and CLAIM-366's point about which such measures are
+  rank-based, and [CLAIM-366](../claims.d/CLAIM-366.md)'s point about which such measures are
   invariant would apply to any extension of it to curved parameter
   metrics. No note filed: the bearing is an analogy.
-- **THEORY-1031** (MEMIT's mass editing). The paper reports MEMIT's
+- **[THEORY-1031](../theory.d/THEORY-1031.md)** (MEMIT's mass editing). The paper reports MEMIT's
   general ability "near zero after two tasks" in multi-task editing on
   Llama3-8B, which bounds that THEORY's single-domain result. No note
-  filed, since THEORY-1031 states its scope as single-domain counterfactual
+  filed, since [THEORY-1031](../theory.d/THEORY-1031.md) states its scope as single-domain counterfactual
   insertion.
 
 ## Limitations

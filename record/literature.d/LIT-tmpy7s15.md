@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-15 (NOTE-tmps6dyd) from arXiv v1 (30 pp.,
+  read in full 2026-11-15 ([NOTE-tmps6dyd](../notes.d/NOTE-tmps6dyd.md)) from arXiv v1 (30 pp.,
   NeurIPS 2026). Worth reading for its geometric account of why
   null-space-projected editing fails across domains (preservation
   constraints from different domains leave a small common null space),
   not for its recipe, which is machine-learning practice and belongs to
-  the anthology (ADR-048).
+  the anthology ([ADR-048](../decisions.d/ADR-048.md)).
 title: 'MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts'
 version: 1
 history:
@@ -64,7 +64,7 @@ inter-domain knowledge conflicts", NeurIPS 2026; arXiv:2611.14910.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmps6dyd.*
+*From the reading, [NOTE-tmps6dyd](../notes.d/NOTE-tmps6dyd.md).*
 
 - **The diagnosis.** An update that preserves several domains'
   representations must satisfy ΔKᵢ = 0 for each, so its rows lie in the
@@ -85,18 +85,18 @@ inter-domain knowledge conflicts", NeurIPS 2026; arXiv:2611.14910.
 
 ## Standing in the record
 
-Filed on 2026-11-15 at the owner's request. Under ADR-048 nucleation
+Filed on 2026-11-15 at the owner's request. Under [ADR-048](../decisions.d/ADR-048.md) nucleation
 files what the owner wants, but an instruction for machine-learning
 practice belongs to the anthology. This LIT therefore files the paper
 for its account of why editing across domains fails, and carries the
 `anthology-candidate` flag for the method.
 
-It extends the record's editing line: ROME (LIT-1536), MEMIT
-(LIT-1582, THEORY-1031) and Hase et al. on localization against editing
-(LIT-1578, THEORY-1024). It assumes the key–value reading of MLP layers,
-which the record holds only as a conjecture (THEORY-1039; THEORY-1011,
+It extends the record's editing line: ROME ([LIT-1536](LIT-1536.md)), MEMIT
+([LIT-1582](LIT-1582.md), [THEORY-1031](../theory.d/THEORY-1031.md)) and Hase et al. on localization against editing
+([LIT-1578](LIT-1578.md), [THEORY-1024](../theory.d/THEORY-1024.md)). It assumes the key–value reading of MLP layers,
+which the record holds only as a conjecture ([THEORY-1039](../theory.d/THEORY-1039.md); [THEORY-1011](../theory.d/THEORY-1011.md),
 which also claimed localization, is Rejected). Its geometric argument
 does not need that reading: it is linear algebra on the edited map. Its
 problem of few admissible directions common to several constraints is a
-cousin of CLAIM-366's shared
+cousin of [CLAIM-366](../claims.d/CLAIM-366.md)'s shared
 descent directions.
