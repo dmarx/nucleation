@@ -37,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpqruw9 CASE-tmp3ioyf — Proposed or new; the constructions the claim rests on -->
 
-# CLAIM-tmpicwgd: The interventions needed to find an outside maintainer grow with how much of the production law it reproduces
+# CLAIM-tmpicwgd: The interventions needed to find that a structure's maintenance comes from outside grow with how much of the internal production law the outside maintainer reproduces: a supply that ignores the structure's state is exposed by perturbing the state, one that runs the law on a delayed reading of the state is exposed only by perturbations faster than its delay, and one that runs the exact law on the present state is exposed only by intervening on the production mechanism
 
 ## The demonstration
 

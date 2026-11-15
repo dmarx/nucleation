@@ -36,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpqise3 CLAIM-tmpovvk2 CLAIM-618 — Proposed or new; the readings and claims the design draws on or maps to -->
 
-# CASE-tmpubkrl: A proposed study of a common testbed of continuous fields
+# CASE-tmpubkrl: A proposed study: a common testbed of continuous fields, a φ⁴ kink, abelian Higgs vortices and a coupled field in which a localized nucleus makes a diffusing mediator, to measure separately whether a localized structure exists, is reachable, is attracting, persists, regenerates and changes downstream transition rates, and to find configurations that look alike in persistence and differ under intervention
 
 ## The design
 

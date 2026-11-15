@@ -24,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpovvk2 — Proposed or new; the claims the run illustrates in a field -->
 
-# CASE-tmperwxh: An executed run of the pinned kink
+# CASE-tmperwxh: An executed run of the pinned kink: under Allen–Cahn relaxation on a bounded line, the demand that a kink's centre lie in [−0.5, 0.5] is met by a static solution with or without a pinning bump, but a kink displaced to +2 stays at +2 without the bump and returns to the centre with it, with its boundary charge 1 throughout, so the demand is feasible in both cases and attracting in one
 
 ## The run
 

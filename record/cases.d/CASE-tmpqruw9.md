@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmp3ioyf — Proposed or new; the construction this varies and the claim it grounds -->
 
-# CASE-tmpqruw9: A ladder of outside maintainers
+# CASE-tmpqruw9: A ladder of outside maintainers for the mutual-maintenance model: a constant supply of the capacity, a supply running the same production law on a delayed reading of the structure, and the same law on its present reading; a brief knock to the structure separates the first two from internal production, the second by less as its delay shrinks, and no intervention on state separates the third until the internal pathway is cut
 
 ## The construction
 

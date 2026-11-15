@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'The charge sectors of topological solitons carry CLAIM-606''s topological route as the protection of a kind and its net count, not as the identity of a particular soliton: a translated kink and a winding-two vortex sector keep the charge while the token changes'
+title: 'The charge sectors of topological solitons carry the topological route to persistence as the protection of a kind and its net count, not as the identity of a particular soliton: a translated kink and a winding-two vortex sector keep the charge while the token changes'
 version: 1
 form: formal-application
 grounds:
@@ -29,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1507 CASE-tmp5mact CLAIM-tmpovvk2 CLAIM-606 NOTE-tmpplgz6 — Proposed, Skimmed or new; the reading, construction and claims the argument joins -->
 
-# ARG-tmp5rnv0: The charge sectors of topological solitons carry [CLAIM-606](../claims.d/CLAIM-606.md)'s topological route as the protection of a kind and its net count, not as the identity of a particular soliton
+# ARG-tmp5rnv0: The charge sectors of topological solitons carry the topological route to persistence as the protection of a kind and its net count, not as the identity of a particular soliton: a translated kink and a winding-two vortex sector keep the charge while the token changes
 
 ## The inference
 

@@ -21,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpaqova THEORY-tmpqise3 CLAIM-606 — Proposed or new; the readings that raise the question and the entries it bears on -->
 
-# QUESTION-tmpxe81d: When a localized pattern persists on a carrier that is itself a persisting structure, can a model derive both persistences together, and does the pattern's identity then depend on the carrier's?
+# QUESTION-tmpxe81d: When a localized pattern persists on a carrier that is itself a persisting structure, as a soliton on a vortex filament or a vortex line on its worldsheet, can a model derive both persistences together, and does the pattern's identity then depend on the carrier's?
 
 ## Why it is a question
 
