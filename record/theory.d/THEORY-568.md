@@ -4,7 +4,21 @@ status: Active
 formerly:
 - THEORY-tmpkqoc2
 title: "Whatever redundancy measure a partial information decomposition uses, provided its atoms satisfy the consistency equation, the average number of single sources an atom can be read from is Σᵢ I(Xᵢ;Y)/I(X;Y) and the average number of sources it cannot do without is Σⱼ I(Xⱼ;Y|X₋ⱼ)/I(X;Y); so the redundancy–synergy index equals (r̄ − 1)·I(X;Y), and for three or more sources it counts a k-way redundancy k − 1 times but synergy once"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-243, from the reading review of 2026-11-14 (by
+    topic, part B). Its answer says Ψ is "the parts' whole-minus-sum
+    information about the feature's next value minus its one-step
+    dynamical dependence", that neither criterion detects interaction,
+    and that "the whole-minus-sum term can grow with the number of
+    parts summed". That term is minus the redundancy–synergy index with
+    the parts as sources, so by Prop. 3 it is (1 − r̄)·I, and for three
+    or more parts it counts synergy once against a k-way redundancy
+    counted k − 1 times. It qualifies the answer without changing it.
+    No other change.
 tags:
 - information-theory
 - mathematics
@@ -19,6 +33,8 @@ summary: >-
   Corollary 5 overstates Prop. 6 (⇔ for ⇐). The network results are on
   tiny quantised models evaluated on their own training sets, and are not
   part of this account.
+bears_on:
+- QUESTION-243
 ---
 
 # THEORY-568: Whatever redundancy measure a partial information decomposition uses, provided its atoms satisfy the consistency equation, the average number of single sources an atom can be read from is Σᵢ I(Xᵢ;Y)/I(X;Y) and the average number of sources it cannot do without is Σⱼ I(Xⱼ;Y|X₋ⱼ)/I(X;Y); so the redundancy–synergy index equals (r̄ − 1)·I(X;Y), and for three or more sources it counts a k-way redundancy k − 1 times but synergy once

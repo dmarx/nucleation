@@ -4,7 +4,22 @@ status: Active
 formerly:
 - THEORY-tmp2b3do
 title: "'Personal identity' names several largely independent questions, among them who one is (characterization), what a person is, what it takes for one to persist, how many of us there are and what matters in survival; the persistence question concerns numerical identity, which 'remaining the same person' in the characterization sense presupposes, and posing it as 'a person at one time and a person at another' assumes that we are persons essentially"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Reading review of 2026-11-14 (by topic, part D), under ADR-091 and
+    ADR-093. bears_on QUESTION-043 added, as a caution on the
+    question's test. The question asks what coherence measure is
+    conserved "when the person persists as the same self" and offers a
+    life story as the candidate, noting of THEORY-060: "It makes no
+    claim about numerical identity." This reading holds why that
+    matters: a life story answers the characterization question, and
+    "remaining the same person" in that sense "presupposes" numerical
+    identity, which is what the persistence question concerns. It sets
+    the self aside, so it bears on the question's person half only. No
+    other change.
 tags:
 - personhood
 - individuation
@@ -20,6 +35,8 @@ summary: >-
   the questions is right; the entry's own answer, animalism, is argued in
   other sections and is not part of this account. The self is set aside by
   the entry, so the map does not cover the self literature.
+bears_on:
+- QUESTION-043
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-448 THEORY-464 THEORY-476 THEORY-546 THEORY-650 THEORY-691 — Proposed; filed in the same batch and named to show which question each answers, not leaned on -->
 <!-- inactive-ok-file: THEORY-060 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->

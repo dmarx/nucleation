@@ -4,7 +4,21 @@ status: Active
 formerly:
 - THEORY-tmp369dq
 title: "A connecting path trained only on clean data keeps only the behaviour the clean data ask for: between two backdoored or error-injected image classifiers, models near the ends of such a path keep most clean accuracy and lose the attack, and a path flat in ordinary loss can carry a barrier in adversarial loss that tracks the input Hessian's top eigenvalue"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-069, from the reading review of 2026-11-14 (by
+    topic, part B). The question asks "Is the connectedness of trained
+    solutions a property of the solutions, or of the path family
+    searched", says each result "was measured with a particular
+    instrument", and asks "what does a residual barrier between two
+    trained networks tell us about the networks themselves?" Here a
+    path fitted to clean data and flat in clean loss carries a barrier
+    in adversarial loss and sheds the endpoints' backdoor, so
+    connectedness is relative also to the loss and data the path is
+    fitted and measured on. No other change.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -21,6 +35,8 @@ summary: >-
   are flat in standard loss with a PGD-loss barrier correlated with the
   input Hessian's top eigenvalue (0.71–0.88). The proposition offered for
   that correlation rests on an assumption that would remove the barrier.
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-109 THEORY-116 — Proposed; the connectivity account whose path family this uses, and the mechanism account it anticipates, named, not leaned on -->
 

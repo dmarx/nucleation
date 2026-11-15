@@ -4,7 +4,23 @@ status: Active
 formerly:
 - THEORY-tmpv2lo3
 title: "When agents holding uniformly random consistent theories over two or three atomic sentences each average their theories once, bit by bit, with all peers within a Hamming bound of confidence, an individual agent ends up with the inconsistent theory at most 1.81% of the time, but the chance that some agent in the group does reaches 6.4% for two sentences and 16.9% for three"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Reading review of 2026-11-14 (by topic, part D), under ADR-091 and
+    ADR-093. bears_on QUESTION-047 added. The question asks whether "a
+    community of individually sound inquirers [can] settle on a belief
+    none of them reasoned their way to" and "which community-level
+    mechanisms set it". This reading holds that agents who each start
+    with a consistent theory and average once with peers within a
+    bound of confidence can end with the inconsistent theory, which
+    none held or reasoned to: a community-level mechanism producing
+    such a belief, at up to 1.81% per agent and 16.9% per group.
+    Limit, as with the question's other readings: attitudes are
+    averaged, not evidence, and only one step is analysed. No other
+    change.
 tags:
 - epistemology
 - network-science
@@ -20,6 +36,8 @@ summary: >-
   per-profile fraction F_OP reaches 6.4298% and 16.867%. The thesis's
   headline, that the risk "can be made arbitrarily small" by adding
   sentences, rests on two values of M and is contradicted for F_OP.
+bears_on:
+- QUESTION-047
 ---
 <!-- inactive-ok-file: LIT-070 — Unavailable; a continuous-opinion model named for contrast -->
 

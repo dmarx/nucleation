@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpwxags
 title: 'Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling''s gap is still ≈ 0.989'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -26,6 +26,15 @@ history:
     models"); THEORY-1289 ("a clamp in a model (THEORY-1289)"); THEORY-134
     ("not the viability kernel THEORY-134 defines"). First application of
     draws_on (ADR-095). No other change.
+- version: 4
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Draws on THEORY-1265 ("To be paid for in
+    stochastic-thermodynamic terms, every step needs a reverse step
+    obeying local detailed balance (LIT-1892, THEORY-1265)"): the case
+    uses the reading as its check on dissipation (ADR-095). No other
+    change.
 standing: fictional
 kind: construction
 tags:
@@ -57,7 +66,9 @@ draws_on:
 - THEORY-1290
 - THEORY-1289
 - THEORY-134
+- THEORY-1265
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: NOTE-1562 — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 

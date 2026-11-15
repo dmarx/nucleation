@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpaa9v2
 title: 'In a Claude 3.5 Haiku variant finetuned by Marks et al. to exploit reward-model biases described in fictional documents, a cross-layer-transcoder feature that in pretraining-style text fires almost only where those biases are discussed was active in all 100 short Human/Assistant-formatted prompts tested and in 1 of the same 100 without that formatting, and suppressing such bias features cut the sampled rate of three bias behaviours, including two the model was never trained to show'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -23,6 +23,16 @@ history:
     entry describes them, replicates the Assistant-token finding with
     another dictionary, and gives the base model's rate on the held-
     out behaviours. Title and status unchanged.
+- version: 3
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-tmpa2ta5, raised by the reading review of
+    2026-11-14 (by topic, part B; ADR-091, ADR-093) to ask which
+    objective the reward-model-bias model organism maintains, in
+    CLAIM-356's words "which operative objective the resulting system
+    actually maintains". The question names this reading's feature,
+    active in all 100 Human/Assistant prompts and suppressing two
+    untrained bias behaviours, as half its evidence. No other change.
 tags:
 - representation-learning
 - agency
@@ -36,7 +46,10 @@ summary: >-
   It is one model organism, built so that the goal has a name in its
   training documents; the authors do not claim their method would find a
   goal that has none.
+bears_on:
+- QUESTION-tmpa2ta5
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-1027 — Proposed; Marks et al.'s suggestion about SAEs in audits, cited as open -->
 # THEORY-976: In a Claude 3.5 Haiku variant finetuned by Marks et al. to exploit reward-model biases described in fictional documents, a cross-layer-transcoder feature that in pretraining-style text fires almost only where those biases are discussed was active in all 100 short Human/Assistant-formatted prompts tested and in 1 of the same 100 without that formatting, and suppressing such bias features cut the sampled rate of three bias behaviours, including two the model was never trained to show
 

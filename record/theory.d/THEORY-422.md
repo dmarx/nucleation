@@ -4,7 +4,24 @@ status: Active
 formerly:
 - THEORY-tmp2psod
 title: "In the standard formal models of group learning, no communication network is best for every epistemic problem: costly transmission favours minimally connected or star networks, pooling of estimates by averaging favours regular networks, and learning by trying in bandit problems can favour sparse ones, so a group's network cannot be judged until its learning problem is known"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Reading review of 2026-11-14 (by topic, part D), under ADR-091 and
+    ADR-093. bears_on QUESTION-047 added. The question asks "which
+    community-level mechanisms set it" and names "communication
+    density" as a candidate structural variable; it already lists this
+    survey's bandit case (THEORY-143) and DeGroot pooling (THEORY-321)
+    among what the record holds. This reading holds that the effect of
+    density depends on the learning problem: sparse networks for
+    bandits, regular and denser (faster) ones for pooling, minimal or
+    star networks for costly transmission. Evidence on the question,
+    not an answer. CLAIM-276's note of 2026-10-29 also cites this
+    reading, as a regime where consensus tracks the truth that holds
+    the claim back; that is a counterexample, which takes no relation.
+    No other change.
 tags:
 - epistemology
 - network-science
@@ -22,6 +39,8 @@ summary: >-
   "too little communication" nor unequal centrality is by itself an
   epistemic pathology. It is a claim about models: utilitarian optimality
   only, with fairness, robustness and the route to the optimum left out.
+bears_on:
+- QUESTION-047
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit result this account widens and its mechanism, named as the narrower case -->
 

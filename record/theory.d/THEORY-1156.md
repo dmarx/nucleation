@@ -4,7 +4,21 @@ status: Active
 formerly:
 - THEORY-tmpwl8e3
 title: 'The fused Gromov–Wasserstein discrepancy between two attributed graphs, a single coupling that pays (1 − α) for moving node features and α for distorting pairwise structure, tends to the Wasserstein distance between the features as α → 0 and to the Gromov–Wasserstein distance between the structures as α → 1, lies above their α-weighted mixture, and for q = 1, α strictly between 0 and 1 and distance-matrix structures is a metric that vanishes exactly when a bijection of the nodes preserves weights, features and structure together'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Corroborates CLAIM-645, from the reading review of 2026-11-14, by
+    topic (part A, mathematics and adjacent). The claim holds that
+    "Anchors in fused Gromov-Wasserstein, with alpha strictly between 0
+    and 1, leave as zero-cost matchings exactly the automorphisms that
+    fix every anchor", grounded on THEORY-1129. This reading's metric
+    theorem, for alpha in ]0, 1[, is independent support: FGW vanishes
+    exactly when one bijection preserves weights, features and structure
+    together, so a zero-cost matching of a structure to itself is an
+    automorphism that keeps the features (the anchors). The claim does
+    not need it. No other change.
 tags:
 - mathematics
 - network-science
@@ -18,6 +32,8 @@ summary: >-
   exact value were checked on enumerated permutations. Active. It says
   nothing about the uniqueness of the optimal coupling or about the
   solver, which reaches only stationary points.
+corroborates:
+- CLAIM-645
 ---
 
 # THEORY-1156: The fused Gromov–Wasserstein discrepancy between two attributed graphs, a single coupling that pays (1 − α) for moving node features and α for distorting pairwise structure, tends to the Wasserstein distance between the features as α → 0 and to the Gromov–Wasserstein distance between the structures as α → 1, lies above their α-weighted mixture, and for q = 1, α strictly between 0 and 1 and distance-matrix structures is a metric that vanishes exactly when a bijection of the nodes preserves weights, features and structure together

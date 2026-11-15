@@ -4,7 +4,21 @@ status: Active
 formerly:
 - THEORY-tmpiycpt
 title: 'On a presheaf of pseudometric spaces, the consistency radius of an assignment, the largest distance between an observation and the restriction of another, is zero exactly for assignments induced by global sections (in metric spaces) and, when the restrictions are K-Lipschitz, bounds the assignment''s sup-distance from every global section below by ε/(1 + K); so fusing data into a consistent state must move it at least that far, and the bound needs no sheaf condition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Corroborates CLAIM-342, from the reading review of 2026-11-14, by
+    topic (part A, mathematics and adjacent). The claim names Robinson's
+    paper among the readings that bear on it directly: "Fusion always
+    reaches consistency, so consistency shows nothing. The evidence that
+    fusion helps is the error against a truth 'withheld from the data
+    presented to the sheaf model'". This reading holds the first half as
+    mathematics: zero consistency radius is exactly a global section,
+    and fusion reaches one by moving the data at least eps/(1 + K); a
+    small radius does not mean the data are right. The claim does not
+    need it. No other change.
 tags:
 - mathematics
 - information-theory
@@ -18,6 +32,8 @@ summary: >-
   (the paper's Proposition 25 claims so for Banach sheaves and the proof
   does not reach it), that the radius locates a fault, or that a small
   radius means the data are right.
+corroborates:
+- CLAIM-342
 ---
 <!-- inactive-ok-file: THEORY-1092 — Proposed; the localization finding filed beside this one, cited as open -->
 

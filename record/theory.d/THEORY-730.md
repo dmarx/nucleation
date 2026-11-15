@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpv2de0
 title: "For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -18,6 +18,22 @@ history:
     proofs followed step by step in NOTE-664. Proposition 1 and
     Corollary 2 are re-derived below and in the decision file (ADR-047
     v2). Propositions 3 and 4 are carried as read.
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-025 and corroborates CLAIM-082, from the reading
+    review of 2026-11-14, by topic (part A, mathematics and adjacent).
+    QUESTION-025 cites this paper for continuous attributes: "Their
+    sequel (LIT-860, THEORY-183) does the same for continuous
+    attributes"; THEORY-183, which bears on it, kept only the empirical
+    carry-over when this theorem was split from it on 2026-10-19, so the
+    derivation the question cites is here. CLAIM-082 cites the same
+    paper as a case of position fixed within a system: "those relations
+    are organised by an extralinguistic variable, the time of year, and
+    the geometry learned is isomorphic to it", which is what this
+    theorem derives for co-occurrence that depends only on separation.
+    As THEORY-185 and THEORY-739 do, it corroborates; the claim does not
+    need it. No other change.
 tags:
 - mathematics
 - representation-learning
@@ -32,6 +48,10 @@ summary: >-
   positive and negative parts of M* to be translation invariant
   separately (Assumption B.1), not M* alone. It says nothing about whether
   any corpus or model satisfies these conditions, which is [THEORY-183](THEORY-183.md).
+bears_on:
+- QUESTION-025
+corroborates:
+- CLAIM-082
 ---
 <!-- inactive-ok-file: THEORY-183 THEORY-182 — Proposed; the empirical account this was split from, and the premise about trained embeddings that this result does not assume -->
 

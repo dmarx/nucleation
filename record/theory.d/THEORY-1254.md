@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmp78ls3
 title: 'A controller that must stay safe under every model it has not ruled out cannot use the evidence its committing action produces: if the information it can gather before its first action that forecloses a safe continuation under an alternative is bounded by β, every such controller forfeits at least about ½e^{−β} of the value reachable only by committing, so a linear oracle gap gives linear regret, and acting on an exclusion at risk α needs about log(1/(2α)) nats gathered beforehand'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-tmppyelk, raised by the reading review of
+    2026-11-14 (by topic, part C; ADR-091, ADR-093). CLAIM-535 and
+    CLAIM-572 set aside the case where acting is itself observing
+    ("active sensing and dual control (Feldbaum), not registered"; "In
+    dual control (Feldbaum) an action also observes; that case is
+    excluded"); this reading states that case for controllers, and the
+    question names its bound as what safety costs. No other change.
 tags:
 - control-theory
 - mathematics
@@ -21,7 +32,10 @@ summary: >-
   proof, checked. It is a lower bound only; bounded information is
   sufficient for an unavoidable gap, and unbounded information does not by
   itself give recovery.
+bears_on:
+- QUESTION-tmppyelk
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1254: A controller that must stay safe under every model it has not ruled out cannot use the evidence its committing action produces: if the information it can gather before its first action that forecloses a safe continuation under an alternative is bounded by β, every such controller forfeits at least about ½e^{−β} of the value reachable only by committing, so a linear oracle gap gives linear regret, and acting on an exclusion at risk α needs about log(1/(2α)) nats gathered beforehand
 

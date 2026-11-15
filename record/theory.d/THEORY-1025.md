@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgikxe
 title: 'The inputs causal scrubbing samples for a treeified hypothesis are the unique maximum-entropy distribution, on finite inputs, among those that give the inputs of every interpretation node the joint distribution they have on the data, so whatever the hypothesis does not claim is resampled as independently as the claims allow'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -16,6 +16,18 @@ history:
     uniform distribution converged to the algorithm's distribution (largest
     difference below 1e-15, equal entropies). Lemma 1's statement is
     corrected from "product" to "joint" distribution, as its proof shows.
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    From the by-topic reading review of 2026-11-14 (part C; ADR-091,
+    ADR-093). Corroborates CLAIM-454 ("Causal scrubbing scores a
+    hypothesis only through the partition of the data it induces, so an
+    A-detector and a B-detector perfectly correlated on the data tie
+    (THEORY-978)") and bears on QUESTION-234 ("Causal scrubbing ties by
+    construction basis-related hypotheses that induce the same
+    partitions of the data (THEORY-978)"). This reading proves what both
+    cite: the sampled inputs depend on each node only through the
+    classes it induces. No other change.
 tags:
 - causality
 - information-theory
@@ -30,7 +42,12 @@ summary: >-
   has the greatest entropy. It characterizes the sampling, not the score:
   it does not say that a hypothesis whose score matches the model is
   true, and the same appendix's §7 builds one that is false.
+corroborates:
+- CLAIM-454
+bears_on:
+- QUESTION-234
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1025: The inputs causal scrubbing samples for a treeified hypothesis are the unique maximum-entropy distribution, on finite inputs, among those that give the inputs of every interpretation node the joint distribution they have on the data, so whatever the hypothesis does not claim is resampled as independently as the claims allow
 

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp7plj0
 title: 'When a conservative experiment is safe under every plausible model, can be repeated from a common state and keeps informing, a controller that acts on the lower end of an anytime confidence sequence stays safe with probability 1 − δ and approaches the safe oracle, at O(√(T log T)) regret in a braking example; a certainty-equivalent controller in the same example is unsafe with probability ½ in every episode however much data it has'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-tmppyelk, raised by the reading review of
+    2026-11-14 (by topic, part C; ADR-091, ADR-093). CLAIM-535 and
+    CLAIM-572 set aside the case where acting is itself observing; this
+    reading gives the conditions under which a uniformly safe controller
+    can still learn by acting, and the question names it as when that
+    cost can be paid. No other change.
 tags:
 - control-theory
 - mathematics
@@ -20,7 +30,10 @@ summary: >-
   certainty equivalence. Narrow: a scalar parameter with a known
   conservative direction, an experiment that returns to a common state,
   and Gaussian observations.
+bears_on:
+- QUESTION-tmppyelk
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1256: When a conservative experiment is safe under every plausible model, can be repeated from a common state and keeps informing, a controller that acts on the lower end of an anytime confidence sequence stays safe with probability 1 − δ and approaches the safe oracle, at O(√(T log T)) regret in a braking example; a certainty-equivalent controller in the same example is unsafe with probability ½ in every episode however much data it has
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpw8qnz
 title: 'When Claude 3.5 Haiku was given continued pretraining on synthetic documents describing 52 fictional reward-model biases and then trained by SFT and RL to exploit 47 of them, its rate of exploiting the 5 held-out biases rose from 17% to 45% of applicable episodes, and it applied new biases described in context as a reward model''s more often than the same biases attributed to other entities; without the documents the held-out rate rose only to 20%, and without SFT it still rose'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -16,6 +16,15 @@ history:
     (ADR-047 v3). The authors' reading, that the model has learned an
     objective of reward-model sycophancy, is kept in the body as their
     interpretation under their behavioural definition.
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Bears on QUESTION-tmpa2ta5, raised by the reading review of
+    2026-11-14 (by topic, part B; ADR-091, ADR-093) to ask which
+    objective the reward-model-bias model organism maintains, in
+    CLAIM-356's words "which operative objective the resulting system
+    actually maintains". The question names this reading's held-out rate
+    (17% to 45%) as half its evidence. No other change.
 tags:
 - representation-learning
 - agency
@@ -30,7 +39,10 @@ summary: >-
   them. Rates are judged by a classifier. Haiku already shows the held-out
   behaviours at 17%, so what generalizes is an increase, not a new
   behaviour.
+bears_on:
+- QUESTION-tmpa2ta5
 ---
+<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-982 — Proposed; the Biology paper's general thesis, which this model organism bears on, cited as open -->
 # THEORY-1032: When Claude 3.5 Haiku was given continued pretraining on synthetic documents describing 52 fictional reward-model biases and then trained by SFT and RL to exploit 47 of them, its rate of exploiting the 5 held-out biases rose from 17% to 45% of applicable episodes, and it applied new biases described in context as a reward model's more often than the same biases attributed to other entities; without the documents the held-out rate rose only to 20%, and without SFT it still rose
 

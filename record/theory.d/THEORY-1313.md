@@ -4,7 +4,18 @@ status: Active
 formerly:
 - THEORY-tmp6nup8
 title: 'In two 7–8B chat models, the shift that finetuning induces along a difference-of-means persona vector correlates with how strongly the finetuned model then expresses that trait, r = 0.76–0.97 across synthetic datasets for evil, sycophancy and hallucination, above cross-trait baselines of 0.34–0.86; the last-prompt-token projection predicts a response''s trait at r = 0.75–0.83 overall but mainly by telling prompt types apart'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-14'
+  note: >-
+    Corroborates CLAIM-543, from the reading review of 2026-11-14 (by
+    topic, part B). The claim's note of 2026-11-03 cites this work's
+    cross-trait finding as an instance: "Persona Vectors' cross-trait
+    entanglement is undirected statistical dependence, H2a, not
+    organization". This reading holds that finding (cross-trait
+    r = 0.34–0.86; negative traits and humor shift together). No other
+    change.
 tags:
 - representation-learning
 - self
@@ -18,6 +29,8 @@ summary: >-
   datasets and an LLM judge. It does not say that persona vectors are the
   mechanism of persona change, which the authors leave open, or that the
   method finds personas it was not told to look for.
+corroborates:
+- CLAIM-543
 ---
 
 # THEORY-1313: In two 7–8B chat models, the shift that finetuning induces along a difference-of-means persona vector correlates with how strongly the finetuned model then expresses that trait, r = 0.76–0.97 across synthetic datasets for evil, sycophancy and hallucination, above cross-trait baselines of 0.34–0.86; the last-prompt-token projection predicts a response's trait at r = 0.75–0.83 overall but mainly by telling prompt types apart
