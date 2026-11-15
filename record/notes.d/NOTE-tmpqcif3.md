@@ -110,8 +110,8 @@ and every stored association becomes more sensitive to the next change.
 
 PRUNE edits on top of MEND, ROME and MEMIT ([LIT-1536](../literature.d/LIT-1536.md), [LIT-1582](../literature.d/LIT-1582.md)),
 assuming their key–value reading ([LIT-1576](../literature.d/LIT-1576.md), [THEORY-1030](../theory.d/THEORY-1030.md); [THEORY-1039](../theory.d/THEORY-1039.md)).
-AlphaEdit (dmarx/nucleation#501) adds its projector to PRUNE as a
-plug-in and reports gains. MuEdit (dmarx/nucleation#499) groups it with
+AlphaEdit (LIT-tmpyijzd) adds its projector to PRUNE as a
+plug-in and reports gains. MuEdit (LIT-tmpy7s15) groups it with
 AlphaEdit as a sequential editor and finds it weaker across domains.
 
 ## Bearing on the record

@@ -14,7 +14,7 @@ history:
   note: >-
     Registered and read on 2026-11-15 at the owner's request ("file those
     neighboring papers too"), as the other sequential editor MuEdit
-    (dmarx/nucleation#499) groups itself with. Checked first: not held.
+    (LIT-tmpy7s15) groups itself with. Checked first: not held.
     Citation from the arXiv API and the PDF: Jun-Yu Ma, Hong Wang,
     Hao-Xiang Xu, Zhen-Hua Ling and Jia-Chen Gu, ICLR 2025; v1 submitted
     2024-05-27, which is `published:`. Read by a delegated reader. The
@@ -76,7 +76,7 @@ arXiv:2405.16821.
 ## Standing in the record
 
 Filed on 2026-11-15 at the owner's request, beside AlphaEdit
-(dmarx/nucleation#501) and MuEdit (dmarx/nucleation#499). It extends the
+(LIT-tmpyijzd) and MuEdit (LIT-tmpy7s15). It extends the
 record's editing line (ROME, [LIT-1536](LIT-1536.md); MEMIT, [LIT-1582](LIT-1582.md) and [THEORY-1031](../theory.d/THEORY-1031.md);
 Hase et al., [LIT-1578](LIT-1578.md)). It also adds the record's first account of why
 editing accumulates damage. The method is practice and carries the
