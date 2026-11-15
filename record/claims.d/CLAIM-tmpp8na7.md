@@ -36,7 +36,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpnw7ez ARG-tmpsyaz2 — filed with this claim, Proposed -->
-<!-- inactive-ok-file: CLAIM-690 — Proposed; the organizational form, cited with its standing -->
+<!-- inactive-ok-file: CLAIM-690 CLAIM-545 TERM-124 — Proposed; the organizational form, domination and self-governance, cited with their standing -->
 
 # CLAIM-tmpp8na7: Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other's life, so a tally of wrongful acts does not settle who is responsible for the relationship's coercive structure
 
