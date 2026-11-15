@@ -32,6 +32,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-478 — Proposed or Open; neighbours cited as open -->
 <!-- inactive-ok-file: CASE-258 — Proposed; the assistant's rerun of Sun et al.'s fairy circles, cited in the note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-1834 — Proposed; the reading of Zelnik et al. (2015), cited in the note of 2026-11-14 as bearing, not answering -->
+<!-- inactive-ok-file: CASE-tmpnqx8e CASE-tmpjucsj CLAIM-tmp9os8f ARG-tmpdg5zy — Proposed; the Game of Life constructions, the claim drawn from them and its argument, cited in the notes of 2026-11-14 and 2026-11-15 -->
 
 # QUESTION-281: By which dynamical transitions do the distinctions individuation needs come into being and pass away (instability that amplifies small differences, nucleation across a finite barrier from a locally stable state, bifurcation of the set of attractors, noise- or rate-induced tipping), and are a form's creation, its stabilization and its coming to have a constitutive role three separate achievements?
 
@@ -283,3 +284,18 @@ Later the same day the authors' fairy-circle scenario was rerun from their code 
 ## Note of 2026-11-14: Zelnik, Meron and Bel, read
 
 Zelnik et al. ([LIT-2550](../literature.d/LIT-2550.md), [NOTE-1909](../notes.d/NOTE-1909.md); [THEORY-1834](../theory.d/THEORY-1834.md)) give a worked case of this question's localized-structures route, short of the field. In their soil-water–biomass model of Namibian fairy-circle grassland, a gap comes into being and passes away by a spatially confined transition between coexisting stable states. Fairy-circle birth and death "correspond to transitions between hybrid states" (p. 5). The two achievements are done by different mechanisms. A Turing instability makes the pattern, while pinning of the fronts on a snaking branch holds each mosaic, shown by numerical continuation. Brief excursions outside the pinning range create and destroy gaps one at a time. So in this model creation and stabilization are separate, as the question's answer requires. Whether the third, a constitutive role, applies to a gap is not a question the paper raises. The question stays open.
+
+## Note of 2026-11-14: a construction in Conway's Game of Life
+
+At the owner's suggestion, [CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md) builds the case this question's answer asks for in Life, where every step can be computed. The form is the block.
+
+- **Creation without stabilization.** One two-glider collision makes an exact block with a dead border at t = 20, which is destroyed at t = 22 because a single cell two away populates its border. A second block, made later in the same collision, lasts.
+- **Stabilization without a constitutive role.** A lone block is a fixed point that nothing depends on.
+- **A constitutive role.** Each block of Gosper's glider gun is needed for the gun to keep emitting.
+- **A change in how the form is stabilized.** In the gun, each block is partly destroyed and rebuilt by the gun every 30 generations. So taking on a constitutive role changed how the form is stabilized, from fixed point to repair.
+
+This meets the second half of "What would count as an answer" for a formal system: two of the three achievements come apart, each way. It does not meet the first half's "a form the record individuates", since the record has not said whether a block is one. The question stays open.
+
+## Note of 2026-11-15: the eater, and a claim
+
+[CASE-tmpjucsj](../cases.d/CASE-tmpjucsj.md) adds a second Life construction at the owner's request: eater 1. Alone it is a fixed point. Struck by a glider in one lane, it loses its corner cell and regrows it from its own cells, where a block in its place is annihilated. Set across the stream of Gosper's gun, it repairs itself every 30 generations. With [CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md) this gives one kind of form, a still life, persisting by three mechanisms: as a fixed point, by self-repair, and by repair from the pattern it serves. The owner asked for the general claim to be filed: [CLAIM-tmp9os8f](../claims.d/CLAIM-tmp9os8f.md), argued by [ARG-tmpdg5zy](../arguments.d/ARG-tmpdg5zy.md). Stabilization and a constitutive role can come apart, but they are not independent, since taking a role can change how a form is stabilized. That answers part of this question's second clause, for a formal system: creation, stabilization and a constitutive role are separable, but the last can reset the second. The question stays open on the first clause, a form the record individuates.

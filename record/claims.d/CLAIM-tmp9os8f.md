@@ -1,0 +1,91 @@
+---
+status: Proposed
+title: 'How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form''s stabilization and its role, though they can come apart, are not independent'
+version: 1
+role: thesis
+warrant: demonstrated
+defeated_if: >-
+  Any one of three results. (1) A correct run of the constructions in
+  CASE-tmpnqx8e and CASE-tmpjucsj shows the forms in their roles
+  untouched: no cell of a gun block, or of the eater across the gun's
+  stream, ever dies. Persistence in the role would then be the same fixed
+  point as alone. (2) An argument that the mechanisms named are one
+  mechanism under every reasonable choice of what the form is, so that
+  the "change" is only a change in what is counted as the form. It is not
+  enough to note that the whole gun is a periodic orbit, since the claim
+  concerns the block's persistence, not the gun's. (3) A held claim
+  already states that one form's mechanism of persistence varies with its
+  role; CLAIM-280 (persistence by damage and repair) and CLAIM-456
+  (internal against external maintenance) were checked and do not.
+tags:
+- complex-systems
+- individuation
+date: '2026-11-15'
+line:
+- distributed-agency
+grounds:
+- CASE-tmpnqx8e
+- CASE-tmpjucsj
+bears_on:
+- QUESTION-281
+summary: >-
+  An existence claim, shown in Conway's Game of Life. A block and an eater
+  are each fixed points alone. In roles, the gun's blocks are partly
+  destroyed and rebuilt by the gun every 30 generations, and the eater
+  across the gun's stream loses and regrows a cell from its own cells
+  every 30 generations. Same form, three mechanisms of persistence, and
+  the role sets which. Filed at the owner's request, who proposed the Life
+  case and asked for the general claim. The wording is the assistant's
+  (Claude, in this session); adopting it is the owner's call.
+---
+
+<!-- inactive-ok-file: CASE-tmpnqx8e CASE-tmpjucsj ARG-tmpdg5zy — Proposed; the constructions and the argument filed with this claim -->
+
+# CLAIM-tmp9os8f: How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form's stabilization and its role, though they can come apart, are not independent
+
+## The claim
+
+[QUESTION-281](../questions.d/QUESTION-281.md) separates a form's creation, its stabilization and its
+coming to have a constitutive role, and asks whether they are three
+achievements. This claim concerns the second and third.
+
+- **They can come apart.** A lone block in Life is stable and has no
+  role ([CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md)).
+- **They are not independent.** The mechanism that stabilizes the form
+  is not a property of the form. In Life, the same still life persists by
+  one of three mechanisms:
+  - as a fixed point, alone;
+  - by its own repair, the eater across a glider stream ([CASE-tmpjucsj](../cases.d/CASE-tmpjucsj.md));
+  - by repair from the pattern it serves, the blocks of Gosper's gun
+    ([CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md)).
+
+  In both constructions, taking the role is what moved the form from the
+  first mechanism to one of the others.
+
+The argument is [ARG-tmpdg5zy](../arguments.d/ARG-tmpdg5zy.md), an existence proof.
+
+## What it does not say
+
+- **That a role always changes the mechanism.** In both constructions
+  the role consists in absorbing strikes, so the role and the
+  perturbation are one fact. A role that involved no perturbation would
+  leave a fixed point a fixed point. The claim is that a role *can* change
+  the mechanism.
+- **That any system outside Life behaves so.** The claim is shown in one
+  formal system; its interest for other systems is as a possibility,
+  shown to be coherent.
+- **That the block or the eater is an individual**, or that the gun's
+  block-and-shuttle loop is closure in [TERM-070](../terms.d/TERM-070.md)'s sense.
+- **Which mechanism is more robust.** The eater's self-repair covers one
+  strike lane. On fragility, [CLAIM-456](CLAIM-456.md) is the record's held result.
+
+## Neighbours
+
+- **[CLAIM-280](CLAIM-280.md).** A pattern can persist through damage and repair, and the
+  persistence of a product and of the organization producing it are
+  separate facts. This claim adds that one form can switch between
+  persisting without repair and persisting by repair, and that the switch
+  comes with a role.
+- **[CLAIM-456](CLAIM-456.md).** Internal maintenance can be more fragile than reset from
+  outside. This claim's eater and gun blocks are the two kinds, for one
+  form, but nothing is said here about which is more fragile.
