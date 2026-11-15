@@ -136,3 +136,7 @@ independent randomness, so A → X → Z.
    g_A(Z) = X. Under disjoint finite supports, the common refinement of the
    groups' cumulative partitions of [0, 1] supplies Q. This is the
    correction the body makes to the paper's §4.
+
+## Note of 2026-11-15: Belrose and colleagues (LEACE), read
+
+LEACE ([LIT-tmpme1pw](../literature.d/LIT-tmpme1pw.md), [NOTE-tmpwodpq](../notes.d/NOTE-tmpwodpq.md)) is the linear, second-moment counterpart of this entry. Its guarantee is linear guardedness, no linear predictor under a convex loss beating a constant, which it proves equivalent to zero cross-covariance between X and the concept. That is weaker than the independence this entry's cap assumes. Its utility measure is squared distance from X, not information kept. Within that frame it gives the unique least edit, an oblique projection, under every inner-product norm. The two results do not conflict. LEACE's own §7 conjectures that erasure against a general nonlinear adversary is intractable without damage, which is a computational claim that this entry's information-theoretic cap neither supports nor contradicts. The entry is unchanged.

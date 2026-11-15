@@ -17,13 +17,13 @@ that are Superseded or Rejected do not count. They are read off the
 relations when this page is built, so a reading gains or loses a line as
 the argument around it changes.
 
-Of 929 readings in force,
-761 serve at least one line and 168
+Of 930 readings in force,
+762 serve at least one line and 168
 serve none.
 
 | line | readings it uses |
 |---|---|
-| Distributed agency | 365 |
+| Distributed agency | 366 |
 | Will-organization | 52 |
 | Normative judgment about organizations | 6 |
 | Organizational affect | 8 |
@@ -407,6 +407,7 @@ serve none.
 - THEORY-1633: Bostrom argues that delay in settling the local supercluster loses potential lives at a vast rate, but that on a total, undiscounted view even a small cut in existential risk outweighs any feasible acceleration, while on a person-affecting view, given some chance that people now alive share the cosmic future, safety must be balanced against speed *(used by 1)*
 - THEORY-1634: Blackiston, Silva Casey and Weiss report that tobacco hornworm caterpillars conditioned in the last larval instar to avoid an odour still avoided it as moths, that residue on the pupal case does not explain the aversion, and that an aversion learned two instars earlier survived larval molts but not metamorphosis *(used by 1)*
 - THEORY-1635: Zahavi argues, reconstructing Husserl, that seeing oneself as one of us requires second-person address and taking over the other's perspective on oneself, which keeps the self–other difference while downplaying it, and that a we is not an enlarged I *(used by 1)*
+- THEORY-1825: On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China *(used by 2)*
 
 ## Will-organization
 

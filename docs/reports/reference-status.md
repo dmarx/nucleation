@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**919 documents cited without acknowledgement.** Not listed: 26873 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**920 documents cited without acknowledgement.** Not listed: 26876 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2456,7 +2456,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 - [`record/literature.d/LIT-1940.md:43`](../../record/literature.d/LIT-1940.md)
 - [`record/notes.d/NOTE-111.md:108`](../../record/notes.d/NOTE-111.md)
 - [`record/questions.d/QUESTION-118.md:205`](../../record/questions.d/QUESTION-118.md)
-- [`record/questions.d/QUESTION-281.md:230`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:231`](../../record/questions.d/QUESTION-281.md)
 - [`record/syntheses.d/SYNTHESIS-006.md:260`](../../record/syntheses.d/SYNTHESIS-006.md)
 - [`record/terms.d/TERM-070.md:84`](../../record/terms.d/TERM-070.md)
 
@@ -6923,7 +6923,7 @@ Communication can be treated as transduction, the continuity of an action throug
 - [`record/claims.d/CLAIM-525.md:14`](../../record/claims.d/CLAIM-525.md)
 - [`record/literature.d/LIT-1902.md:83`](../../record/literature.d/LIT-1902.md)
 - [`record/literature.d/LIT-1912.md:78`](../../record/literature.d/LIT-1912.md)
-- [`record/questions.d/QUESTION-281.md:209`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:210`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-153](../../record/theory.d/THEORY-153.md) — Proposed
 
@@ -7427,7 +7427,7 @@ Individuation in Light of Notions of Form and Information
 - [`record/claims.d/CLAIM-477.md:369`](../../record/claims.d/CLAIM-477.md)
 - [`record/claims.d/CLAIM-526.md:133`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1902.md:77`](../../record/literature.d/LIT-1902.md)
-- [`record/questions.d/QUESTION-281.md:197`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:198`](../../record/questions.d/QUESTION-281.md)
 
 ### [LIT-1671](../../record/literature.d/LIT-1671.md) — Unavailable
 
@@ -9949,7 +9949,7 @@ Pattern formation outside of equilibrium
 2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-527.md:6`](../../record/literature.d/LIT-527.md)
-- [`record/questions.d/QUESTION-281.md:95`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:96`](../../record/questions.d/QUESTION-281.md)
 
 ### [NOTE-696](../../record/notes.d/NOTE-696.md) — Skimmed
 
@@ -10453,7 +10453,7 @@ Micropolitics is the modulation of a relational field toward a maximally inclusi
 2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1484.md:213`](../../record/notes.d/NOTE-1484.md)
-- [`record/questions.d/QUESTION-281.md:212`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:213`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-1298](../../record/theory.d/THEORY-1298.md) — Proposed
 
@@ -10919,6 +10919,14 @@ A proposed study of governed schema adaptation: agents given a record whose gram
 1 citation in 1 file awaits a look; 29 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1717.md:117`](../../record/notes.d/NOTE-1717.md)
+
+### [CASE-258](../../record/cases.d/CASE-258.md) — Proposed
+
+Fairy circles in Sun and colleagues' shrub–grass kernel model, rerun: the hollow rings are made by the kernel contraction imposed by hand, with or without grass, and grass erodes them rather than holding them in balance, so the model does not show a form whose making and keeping are separate mechanisms
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1903.md:337`](../../record/notes.d/NOTE-1903.md)
 
 ### [CLAIM-001](../../record/claims.d/CLAIM-001.md) — Proposed
 
@@ -12782,9 +12790,20 @@ A reference the reader cannot follow: the code names no document in this record.
 
 A temporary code belongs to the contribution that created it, and only that contribution can cite it safely. One cited here with no document behind it is another branch's — it resolves for as long as both are open, and stops the moment the other merges and its code is numbered. The trunk never sees the spelling this record wrote down.
 
-**0 codes not minted here.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment — an illustrative code in an example is the usual one.
+**3 codes not minted here.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment — an illustrative code in an example is the usual one.
 
-Every temporary code cited here is this record's own. ✅
+
+### LIT-tmp5mwek — not minted here (1 unmarked site)
+
+- [`record/notes.d/NOTE-1903.md:212`](../../record/notes.d/NOTE-1903.md)
+
+### LIT-tmpijst5 — not minted here (1 unmarked site)
+
+- [`record/notes.d/NOTE-1903.md:259`](../../record/notes.d/NOTE-1903.md)
+
+### THEORY-tmps67up — not minted here (1 unmarked site)
+
+- [`record/notes.d/NOTE-1903.md:334`](../../record/notes.d/NOTE-1903.md)
 
 ## Files that opt out of reference checking
 
@@ -12795,3 +12814,4 @@ None. Every scanned file is checked. ✅
 ## Directives that no longer apply
 
 - record/notes.d/NOTE-1717.md:32: annotation names CASE-253, QUESTION-458, which does resolve here
+- record/notes.d/NOTE-1903.md:54: annotation names unknown document(s): THEORY-tmps67up — so it excuses nothing, leaving CASE-258 (1 site) unacknowledged

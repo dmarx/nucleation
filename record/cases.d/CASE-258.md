@@ -1,5 +1,8 @@
 ---
+number: 258
 status: Proposed
+formerly:
+- CASE-tmpjrrhk
 title: 'Fairy circles in Sun and colleagues'' shrub–grass kernel model, rerun: the hollow rings are made by the kernel contraction imposed by hand, with or without grass, and grass erodes them rather than holding them in balance, so the model does not show a form whose making and keeping are separate mechanisms'
 version: 1
 standing: documented
@@ -13,9 +16,9 @@ line:
 bears_on:
 - QUESTION-281
 draws_on:
-- THEORY-tmplznge
+- THEORY-1825
 reported_in:
-- NOTE-tmpmu9w0
+- NOTE-1903
 summary: >-
   An executed simulation study of the fairy-circle scenario in Sun et
   al. (2026), run on 2026-11-14 by a reimplementation of the authors'
@@ -31,12 +34,12 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CASE-tmpjrrhk: Fairy circles in Sun and colleagues' shrub–grass kernel model, rerun: the hollow rings are made by the kernel contraction imposed by hand, with or without grass, and grass erodes them rather than holding them in balance, so the model does not show a form whose making and keeping are separate mechanisms
+# CASE-258: Fairy circles in Sun and colleagues' shrub–grass kernel model, rerun: the hollow rings are made by the kernel contraction imposed by hand, with or without grass, and grass erodes them rather than holding them in balance, so the model does not show a form whose making and keeping are separate mechanisms
 
 ## The case
 
-**The claim tested.** Sun et al. (2026; read in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md), account in
-[THEORY-tmplznge](../theory.d/THEORY-tmplznge.md)) explain fairy circles in their dryland shrub–grass
+**The claim tested.** Sun et al. (2026; read in [NOTE-1903](../notes.d/NOTE-1903.md), account in
+[THEORY-1825](../theory.d/THEORY-1825.md)) explain fairy circles in their dryland shrub–grass
 transition zone as follows: "Slightly elevated precipitation allows
 grasses to occupy the interspaces, intercepting water and constraining
 the shrubs' resource-foraging range, which induces hollow center
