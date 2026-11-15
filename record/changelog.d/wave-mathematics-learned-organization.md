@@ -12,6 +12,9 @@
   constructions ([CASE-tmp6214r](record/cases.d/CASE-tmp6214r.md), [CASE-tmp86zrj](record/cases.d/CASE-tmp86zrj.md)) and proposed studies
   ([CASE-tmp9201a](record/cases.d/CASE-tmp9201a.md), [CASE-tmp71zhd](record/cases.d/CASE-tmp71zhd.md), [CASE-tmpev0dj](record/cases.d/CASE-tmpev0dj.md)), with the worked numbers
   rebuilt in scratch/formal/reconstruction_channel_checks.py. Dated notes on
-  held entries. The curation entry lists four of the assistant's own
-  ideas, offered and not filed, and one reading route the owner may
-  overrule.
+  held entries. The assistant's own ideas, filed at the owner's
+  request: an admission rule for modes, requiring invariance under a
+  network's symmetries (CLAIM-tmp7jyur, on CASE-tmp1owyk), and a hypothesis
+  that RL buys economy rather than reach where its reward can verify at
+  test time (CLAIM-tmpwxs2x), with dated notes on QUESTION-392 and
+  QUESTION-010. One reading route is left for the owner to overrule.

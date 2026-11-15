@@ -44,7 +44,7 @@ summary: >-
   what the claim must exclude. The hypothesis is the owner's; the wording
   and its test are A's, and adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-022 THEORY-tmp3lla6 CASE-tmp71zhd CASE-tmp9201a — Proposed or new; the held case and the entries filed with this one -->
+<!-- inactive-ok-file: THEORY-022 THEORY-tmp3lla6 THEORY-tmpomhf0 CLAIM-tmp7jyur CASE-tmp71zhd CASE-tmp9201a — Proposed or new; the held case and the entries filed with this one -->
 
 # CLAIM-tmpumro8: The mathematics of waves and distributed modes applies to how learning systems acquire, execute and compose computations, and earns its place where a description in modes and their couplings out-predicts feature-, circuit- or parameter-level accounts
 
@@ -89,6 +89,20 @@ changes the function not at all and changes the spectrum.
 The test is prospective. A's experiments are filed as [CASE-tmp71zhd](../cases.d/CASE-tmp71zhd.md) (a
 Fourier circuit's birth across training) and [CASE-tmp9201a](../cases.d/CASE-tmp9201a.md) (recoverability
 of controlled associations under intervention, compute and merging).
+
+## Which sense of "wave"
+
+The readings filed with this claim use "wave" in three senses:
+- **Travelling:** cortical waves that propagate (Muller et al.).
+- **Standing:** spatially damped standing responses (Gepshtein et al.).
+- **Spectral:** modes of an operator (the merging and Fourier readings).
+
+Only the spectral sense is at issue here. The physical senses also warn
+against importing linear superposition: colliding cortical waves sum about
+30% below the sum of each alone (THEORY-tmpomhf0). What counts as a
+justified mode is sharpened by CLAIM-tmp7jyur, which requires invariance
+under the network's function-preserving symmetries. This section is the
+assistant's (Claude, in this session).
 
 ## What it does not say
 
