@@ -120,3 +120,7 @@ could only have stabilised a homogeneous state. It does not always.
 - **Organisms against flames ([THEORY-072](THEORY-072.md)).** The mechanism is the same in
   an embryo and an unstirred reactor, so it cannot be what marks organisms
   off; [NOTE-427](../notes.d/NOTE-427.md) reads it as a pattern-forming step inside organisms.
+
+## Note of 2026-11-14: Martinez-Garcia and colleagues, read
+
+Martinez-Garcia et al. ([LIT-tmp5mwek](../literature.d/LIT-tmp5mwek.md), [NOTE-tmpbqaec](../notes.d/NOTE-tmpbqaec.md)) review dryland vegetation models in which the pattern-forming instability needs no diffusion. In their purely competitive kernel models, "competition is more intense in the regions between patches than inside each patch, which stabilizes an aggregated pattern" (p. 10), and "PCF is the most parsimonious feedback type that generates vegetation patterns" (p. 5). This entry's mechanism, diffusion destabilizing a state that is stable without it, is therefore one route to a finite-wavelength pattern and not the only one: a nonlocal inhibitory kernel is another. The review places the reaction–diffusion vegetation models under Turing's activator–inhibitor principle and keeps the kernel models apart. The entry is unchanged.
