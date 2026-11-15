@@ -1,121 +1,88 @@
 ---
-# Don't copy this file by hand — run `luria new note`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A NOTE is a READING of a paper: what it contains, what it assumes, what it
-# proves, and how strongly. It is not the paper's standing in this record
-# — that is the LIT note's job, and the two are allowed to disagree
-# (ANTH-ADR-025).
-
-# Read | Skimmed | Unread | Superseded, from statuses.yaml beside this file.
-# This says HOW DEEPLY THE PAPER WAS READ, not whether it is any good.
-# Be honest here. `Skimmed` is a useful, respectable status and is
-# deliberately not in force: it is not enough to source a practice from,
-# and the whole scheme exists because the record could not previously tell
-# a read paper from an unread one.
 status: Skimmed
-
-# REQUIRED. The LIT code this is a reading of. The bibliography — title,
-# authors, year, arxiv — lives there and is NOT repeated here.
-paper: LIT-000
-
-# Repeat the paper's short name as the body's `# NOTE-xxx:` heading; the
-# lint checks that the two agree.
+paper: LIT-tmpygfnl
 title: 'Yao et al. — ReAct, for one use'
-
 version: 1
-
-# There is deliberately no `tags:` line here either, for the same reason and a
-# stronger one. A reading's topics are DERIVED from the paper named in `paper:`
-# above — a note and its paper are the same paper, so a second copy of its
-# subject is a second copy free to disagree, and four of them were
-# (ANTH-ADR-038). Retag the LIT note; the reading follows.
-
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Skimmed on 2026-11-15 from arXiv:2210.03629v3, https://arxiv.org/pdf/2210.03629,
+    text by pdftotext, for A's single use only. Read: the abstract, the
+    §3.1 action space, the §3.3 comparison of ReAct with CoT (Table 2) and
+    the passage on outdated labels around Fig. 4. Not read: §2, the rest of
+    §3, the decision-making sections (ALFWorld, WebShop) and the
+    appendices. The filer rechecked every quote below against the
+    downloaded text.
 date: '2026-11-15'
-
-# There is deliberately no `published:` line here. A reading's publication date
-# is DERIVED from the paper named in `paper:` above, and writing it down is a
-# lint violation — the value has one home and this is not it.
-
-# What the index table shows. One or two sentences: the finding, not the
-# subject area. Prose, so bare codes get linked by `luria link --fix`.
+summary: >-
+  ReAct interleaves reasoning traces with actions on a Wikipedia API;
+  retrieved facts reduce chain-of-thought's hallucination and can be newer
+  than a dataset's labels. Skimmed for one use: a fact supplied in context
+  with the weights unchanged, a plain case of improving the signal and not
+  the interpreter (CLAIM-118).
 ---
+<!-- inactive-ok-file: LIT-tmpygfnl — new entry filed in the same contribution -->
+<!-- inactive-ok-file: CLAIM-576 THEORY-591 THEORY-1773 — Proposed; the claim this reading bears on weakly and two neighbouring readings -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
-
-# NOTE-xxx: <paper short name>
+# NOTE-tmp3bv7o: Yao et al. — ReAct, for one use
 
 ## Contribution
 
-Two to four sentences. What did this add that did not exist before? Not what
-field it is in — what is true after it that was not true before.
+A prompting method in which a language model alternates free-text
+reasoning with actions in an environment. On HotpotQA and Fever the
+actions are three calls to a simple Wikipedia API: search[entity] returns
+the first five sentences of a page, lookup[string] the next sentence
+containing the string, and finish[answer] ends the task (§3.1).
 
 ## Key insight
 
-One paragraph. The single mental model this paper installs: the thing to
-remember if everything else is forgotten.
+Reasoning alone works only from what the model already holds; letting it
+act brings new information into the context, which the reasoning then
+uses.
 
 ## Assumptions
 
-The formal conditions the main results require. State them as conditions,
-with the expressions where they have them.
-
-- `L`-smooth gradients: ‖∇f(x) − ∇f(y)‖ ≤ L‖x − y‖
-- Bounded stochastic variance: E[‖g − ∇f‖²] ≤ σ²
-- IID data across workers, or the heterogeneity bound if not
-
-Where a paper's setting is narrower than its title suggests, say so here
-rather than letting a reader assume it transfers.
+Few-shot prompting of a frozen model; the API returns Wikipedia text;
+success is exact match (HotpotQA) or label accuracy (Fever).
 
 ## Key results
 
-Theorem-level, with the **exact expressions**. `O(1/√(nK))` is more useful
-than "converges at the same rate as centralized". Give the regime each holds
-in.
-
-- **Theorem 1** — statement. *Holds when:* the parameter regime.
-
-## Claims
-
-Only a `Read` note may fill this in. `strength` is about the *support*, not
-about how much you believe it.
-
-| id | claim | strength | support |
-|---|---|---|---|
-| C1 | plain English | strong / moderate / weak | Theorem 2 / experiment in §5 / informal argument |
-
-## Method
-
-*(Omit this section entirely for empirical or survey papers.)*
-
-The algorithm, its steps, and its components.
+- **Abstract**: "actions allow it to interface with and gather additional
+  information from external sources such as knowledge bases or
+  environments"; ReAct "overcomes prevalent issues of hallucination and
+  error propagation in chain-of-thought reasoning by interacting with a
+  simple Wikipedia API".
+- **§3.3**: "ReAct outperforms CoT on Fever (60.9 vs. 56.3) and slightly
+  lags behind CoT on HotpotQA (27.4 vs. 29.4)". Table 2, a hand labelling
+  of 200 sampled HotpotQA trajectories (50 correct and 50 incorrect from
+  each method): hallucination is 56% of
+  CoT's failures and 0% of ReAct's. The best methods combine the
+  two, "ReAct → CoT-SC and CoT-SC → ReAct".
+- **Around Fig. 4**: on an outdated HotpotQA label, "Only ReAct is able to
+  retrieve up-to-date information from the Internet and provide a
+  reasonable answer."
 
 ## Concepts
 
-Terms as *this paper* defines them, which is not always as the field uses
-them.
-
-- **term** — precise definition as used here.
-
-## Connections
-
-How this builds on prior work, in prose. Machine-readable lineage —
-`extends:`, `corrects:`, `compared_against:` — is declared on the LIT and
-must not be duplicated here.
+Interleaved reasoning and acting; action space; grounding; hallucination;
+CoT-SC fallback.
 
 ## Bearing on the record
 
-Which THEORY documents this reading supports, contradicts, or should
-produce. Name the codes. If a document cites this paper for something the
-paper does not say, this is where that gets written down. If the paper
-carries an instruction for machine-learning practice, it belongs in the
-Anthology of the SOTA, and this is where that is noted.
+- **CLAIM-118 (signal and interpreter)**: the retrieved observation is a
+  clear case of improving the signal, not the interpreter: the weights are
+  unchanged and the new fact arrives in context. A standard example that
+  fits the claim's distinction; it does not test it.
+- **CLAIM-576**: weakly. A tool that supplies information is an
+  observational capability in the claim's sense, which makes an existing
+  possibility discoverable.
+- **THEORY-591**: if A's point is that a queried source becomes part of the
+  cognitive system, Adams and Aizawa's marks of cognition argue against
+  counting it so; CLAIM-118's line places it in the signal either way.
 
 ## Limitations
 
-What the paper does not establish, including what its own authors say it
-does not.
-
-## Open questions
-
-What it leaves open, and what result would close it.
+A skim for one use. The decision-making half, the ablations and the
+appendices were not read, so the paper's central account of reasoning and
+acting as synergistic across both kinds of task is not assessed here.

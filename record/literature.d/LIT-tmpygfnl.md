@@ -1,76 +1,94 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Unfetched | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041). `Unfetched` is one whose lawful free copy was
-# located at an exact address that this client could not fetch; the status
-# note gives the address and the obstacle (ADR-053).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpygfnl:` heading.
+status_note: >-
+  skimmed 2026-11-15 (NOTE-tmp3bv7o) from the arXiv PDF, v3, for A's one
+  use only: the abstract, the §3.1 action space, the §3.3 comparison with
+  chain of thought (with Table 2) and the passage on outdated labels around
+  Fig. 4. The decision-making half (ALFWorld, WebShop), the rest of §2–3
+  and the appendices were not read. Worth reading here as a plain case of
+  improving the signal without touching the interpreter (CLAIM-118): a
+  queried Wikipedia API supplies facts in context, with the weights
+  unchanged.
 title: 'ReAct: Synergizing Reasoning and Acting in Language Models'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Registered and skimmed on 2026-11-15 from the owner's pasted
+    continuation of the ChatGPT exchange "Explain String Theory", in A's
+    turn on a model querying an external source for a fact it lacked.
+    Citation checked on the arXiv API: Shunyu Yao, Jeffrey Zhao, Dian Yu,
+    Nan Du, Izhak Shafran, Karthik Narasimhan and Yuan Cao (Princeton and
+    Google Research); v1 submitted 2022-10-06, which is `published:`; v3
+    (2023-03-10), the ICLR camera-ready version, is the copy read. The PDF
+    header reads "Published as a conference paper at ICLR 2023". OpenAlex
+    and Semantic Scholar both refused with HTTP 429 and were not retried.
+    No email address was sent to any service. The record held no LIT for
+    this work.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- agency
+- information-retrieval
+- anthology-candidate
 date: '2026-11-15'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
-implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+published: '2022-10-06'
+arxiv: '2210.03629'
+first_author: 'Yao'
+keywords:
+- 'reasoning and acting'
+- 'language models'
+- 'chain-of-thought'
+- 'tool use'
+- 'HotpotQA'
+- 'Fever'
+- 'ALFWorld'
+- 'WebShop'
+implementations:
+- https://react-lm.github.io
+summary: >-
+  Yao et al. (2023), arXiv:2210.03629, ICLR 2023. Prompting a model to
+  interleave reasoning traces with actions on a simple Wikipedia API lets
+  it ground answers in retrieved facts, reducing the hallucination of
+  chain-of-thought on HotpotQA and Fever and recovering facts newer than a
+  dataset's labels; ReAct alone beat CoT on Fever and slightly lagged it on
+  HotpotQA. Here for A's single use, a model querying a source that supplies
+  a fact it lacked, and for CLAIM-118. Skimmed; no THEORY filed.
 ---
+<!-- inactive-ok-file: NOTE-tmp3bv7o — new entry filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-591 THEORY-1773 — Proposed; neighbouring readings on tools in cognition and on tool-using agents -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpygfnl: ReAct: Synergizing Reasoning and Acting in Language Models
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K. & Cao, Y.
+(2023). ReAct: Synergizing Reasoning and Acting in Language Models.
+*International Conference on Learning Representations* (ICLR 2023).
+arXiv:2210.03629.
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the skim, NOTE-tmp3bv7o; the knowledge-task half only.*
+
+- **Actions gather information** (abstract): "actions allow it to interface
+  with and gather additional information from external sources such as
+  knowledge bases or environments"; ReAct "overcomes prevalent issues of
+  hallucination and error propagation in chain-of-thought reasoning by
+  interacting with a simple Wikipedia API".
+- **Mixed against CoT** (§3.3): "ReAct outperforms CoT on Fever (60.9 vs.
+  56.3) and slightly lags behind CoT on HotpotQA (27.4 vs. 29.4)". In Table
+  2, hallucination is CoT's major failure mode (56%), and 0% of ReAct's.
+- **New facts** (around Fig. 4): where a HotpotQA label was outdated, "Only
+  ReAct is able to retrieve up-to-date information from the Internet and
+  provide a reasonable answer."
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+A's single use is accurate: a model can query an external source that
+supplies a previously unknown factual answer, and the outdated-label case
+shows a fact absent from the model's training-time knowledge. The reader's
+caution: if A leans on ReAct for performance, ReAct alone is slightly worse
+than CoT on HotpotQA, and the paper's best results combine it with CoT-SC.
+
+Nearby held entries: THEORY-1773 (a tool-use agent benchmark) and
+THEORY-591 (Adams and Aizawa against counting tools as part of cognition).
+Its prompting method is ML practice and belongs to the anthology
+(ADR-048); hence the flag.
