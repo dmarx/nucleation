@@ -80,7 +80,7 @@ poor mark of maintenance.
 
 ## Note of 2026-11-15: Tu, read
 
-Tu's review ([LIT-tmp42zgt](../literature.d/LIT-tmp42zgt.md), [NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md); [THEORY-tmper33k](../theory.d/THEORY-tmper33k.md)) supplies, for one network, the first two things this question's answer asks for, though not for one of the record's own organizations.
+Tu's review ([LIT-2547](../literature.d/LIT-2547.md), [NOTE-1904](../notes.d/NOTE-1904.md); [THEORY-1830](../theory.d/THEORY-1830.md)) supplies, for one network, the first two things this question's answer asks for, though not for one of the record's own organizations.
 
 - **A maintained state that is a current.** In the four-state model of adaptation, "The adapted state is an NESS, which needs to be maintained by constantly consuming free energy" (p. 240), with a persistent current and a computed dissipation.
 - **A price on its precision, not proportional.** The energy–speed–accuracy relation, Ẇ = c₁V_a ln(c₂A_a), prices accuracy logarithmically and speed linearly. The filer reproduced it numerically to leading order, and found that accuracy saturates at a residual set by the network's parameters.

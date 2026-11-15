@@ -1,5 +1,8 @@
 ---
+number: 1829
 status: Proposed
+formerly:
+- THEORY-tmpdkd7v
 promote_when: >-
   An independent replication, in at least two LLMs over at least 2,000
   sequential edits, that shows three things. (a) The change in the edited
@@ -17,10 +20,10 @@ tags:
 - anthology-candidate
 date: '2026-11-15'
 source:
-- LIT-tmpyijzd
+- LIT-2555
 summary: >-
-  Fang, Jiang, Wang, Ma, Shi, Wang, He & Chua (2025), [LIT-tmpyijzd](../literature.d/LIT-tmpyijzd.md), read
-  in [NOTE-tmpoaevu](../notes.d/NOTE-tmpoaevu.md). Exact preservation holds for an exact null space; the
+  Fang, Jiang, Wang, Ma, Shi, Wang, He & Chua (2025), [LIT-2555](../literature.d/LIT-2555.md), read
+  in [NOTE-1908](../notes.d/NOTE-1908.md). Exact preservation holds for an exact null space; the
   method uses a thresholded one, so preservation is approximate and its
   size unmeasured. The sequential-editing results are strong on LLaMA3 and
   hold on GPT-J and GPT2-XL. The sharp edges: no measurement of leakage,
@@ -28,11 +31,11 @@ summary: >-
   a misstated "best baseline" comparison.
 ---
 
-# THEORY-tmpdkd7v: On Fang and colleagues, projecting a locate-then-edit weight update onto the null space of the preserved knowledge keys, taken in practice as the eigenvectors of their uncentred covariance with eigenvalues at most 10⁻², and dropping the preservation term from the objective, keeps the edited layer's outputs on preserved keys nearly unchanged and sustains edit success and general ability over thousands of sequential edits where MEMIT and ROME degrade
+# THEORY-1829: On Fang and colleagues, projecting a locate-then-edit weight update onto the null space of the preserved knowledge keys, taken in practice as the eigenvectors of their uncentred covariance with eigenvalues at most 10⁻², and dropping the preservation term from the objective, keeps the edited layer's outputs on preserved keys nearly unchanged and sustains edit success and general ability over thousands of sequential edits where MEMIT and ROME degrade
 
 ## Source
 
-Fang et al. (2025), [LIT-tmpyijzd](../literature.d/LIT-tmpyijzd.md), read in [NOTE-tmpoaevu](../notes.d/NOTE-tmpoaevu.md) from arXiv v4.
+Fang et al. (2025), [LIT-2555](../literature.d/LIT-2555.md), read in [NOTE-1908](../notes.d/NOTE-1908.md) from arXiv v4.
 
 ## What was actually shown
 

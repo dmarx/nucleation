@@ -1,5 +1,8 @@
 ---
+number: 1831
 status: Proposed
+formerly:
+- THEORY-tmps67up
 promote_when: >-
   The cited primary models are read, or rerun at their published
   parameters, and show both of the following. (a) A purely competitive
@@ -17,12 +20,12 @@ tags:
 - complex-systems
 date: '2026-11-14'
 source:
-- LIT-tmp5mwek
+- LIT-2548
 bears_on:
 - QUESTION-281
 summary: >-
   Martinez-Garcia, Cabal, Calabrese, Hernández-García, Tarnita, López &
-  Bonachela (2023), [LIT-tmp5mwek](../literature.d/LIT-tmp5mwek.md), read in [NOTE-tmpbqaec](../notes.d/NOTE-tmpbqaec.md). A review: the two
+  Bonachela (2023), [LIT-2548](../literature.d/LIT-2548.md), read in [NOTE-1906](../notes.d/NOTE-1906.md). A review: the two
   collapse behaviours are reruns of published models, and the field test
   is proposed, not run. The sharp edge: the PCF result might come from
   the absence of diffusion rather than of facilitation, as the authors
@@ -30,11 +33,11 @@ summary: >-
   and only one plant type is treated.
 ---
 
-# THEORY-tmps67up: On Martinez-Garcia and colleagues, dryland vegetation models in which plants only compete over a finite range, and models in which they facilitate nearby and compete farther away, both give the gap–labyrinth–spot sequence along falling rainfall, but the first lose vegetation smoothly and the second collapse abruptly with hysteresis, so the pattern alone does not say which collapse follows; a transplant experiment reading the sign of the net plant interaction under canopy and in bare soil would tell them apart
+# THEORY-1831: On Martinez-Garcia and colleagues, dryland vegetation models in which plants only compete over a finite range, and models in which they facilitate nearby and compete farther away, both give the gap–labyrinth–spot sequence along falling rainfall, but the first lose vegetation smoothly and the second collapse abruptly with hysteresis, so the pattern alone does not say which collapse follows; a transplant experiment reading the sign of the net plant interaction under canopy and in bare soil would tell them apart
 
 ## Source
 
-Martinez-Garcia et al., [LIT-tmp5mwek](../literature.d/LIT-tmp5mwek.md), read in full in [NOTE-tmpbqaec](../notes.d/NOTE-tmpbqaec.md) from
+Martinez-Garcia et al., [LIT-2548](../literature.d/LIT-2548.md), read in full in [NOTE-1906](../notes.d/NOTE-1906.md) from
 the arXiv preprint.
 
 ## What was actually shown

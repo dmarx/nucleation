@@ -1,5 +1,8 @@
 ---
+number: 1830
 status: Active
+formerly:
+- THEORY-tmper33k
 title: 'On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance'
 version: 1
 history:
@@ -8,7 +11,7 @@ history:
   note: >-
     Filed Active, not Proposed, because the filer checked what the title
     asserts beyond the author's report. The four-state adaptation model
-    was reimplemented and its exact steady state computed (NOTE-tmp2cqm1,
+    was reimplemented and its exact steady state computed (NOTE-1904,
     "A check of the ESA relation"). At equilibrium the activity tracks the
     input; under strong driving it adapts. Dissipation and speed match the
     leading-order expressions within 5%, and the ESA ratio is 0.72–0.94
@@ -20,11 +23,11 @@ tags:
 - complex-systems
 date: '2026-11-15'
 source:
-- LIT-tmp42zgt
+- LIT-2547
 bears_on:
 - QUESTION-452
 summary: >-
-  Tu (2026), [LIT-tmp42zgt](../literature.d/LIT-tmp42zgt.md), read in [NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md). The derivations are in
+  Tu (2026), [LIT-2547](../literature.d/LIT-2547.md), read in [NOTE-1904](../notes.d/NOTE-1904.md). The derivations are in
   small Markov networks: a three-state proofreading model, a four-state
   "magic square", and a mean-field model of coupled Poisson clocks. The
   sharp edges: the ESA relation is leading-order, and in the filer's
@@ -34,11 +37,11 @@ summary: >-
   content lies only in its instances.
 ---
 
-# THEORY-tmper33k: On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance
+# THEORY-1830: On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance
 
 ## Source
 
-Tu (2026), [LIT-tmp42zgt](../literature.d/LIT-tmp42zgt.md), read in full in [NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md).
+Tu (2026), [LIT-2547](../literature.d/LIT-2547.md), read in full in [NOTE-1904](../notes.d/NOTE-1904.md).
 
 ## What was actually shown
 

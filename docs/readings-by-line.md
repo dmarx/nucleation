@@ -17,13 +17,13 @@ that are Superseded or Rejected do not count. They are read off the
 relations when this page is built, so a reading gains or loses a line as
 the argument around it changes.
 
-Of 930 readings in force,
-762 serve at least one line and 168
+Of 932 readings in force,
+763 serve at least one line and 169
 serve none.
 
 | line | readings it uses |
 |---|---|
-| Distributed agency | 366 |
+| Distributed agency | 367 |
 | Will-organization | 52 |
 | Normative judgment about organizations | 6 |
 | Organizational affect | 8 |
@@ -408,6 +408,7 @@ serve none.
 - THEORY-1634: Blackiston, Silva Casey and Weiss report that tobacco hornworm caterpillars conditioned in the last larval instar to avoid an odour still avoided it as moths, that residue on the pupal case does not explain the aversion, and that an aversion learned two instars earlier survived larval molts but not metamorphosis *(used by 1)*
 - THEORY-1635: Zahavi argues, reconstructing Husserl, that seeing oneself as one of us requires second-person address and taking over the other's perspective on oneself, which keeps the self–other difference while downplaying it, and that a we is not an enlarged I *(used by 1)*
 - THEORY-1825: On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China *(used by 2)*
+- THEORY-1830: On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance *(used by 1)*
 
 ## Will-organization
 
@@ -1092,6 +1093,7 @@ where the argument has not yet built on what the record has read.
 - [THEORY-617](../record/theory.d/THEORY-617.md): In additive Gaussian noise independent of an input of finite power whose law does not depend on the signal-to-noise ratio, the derivative of mutual information with respect to that ratio is half the minimum mean-square error of the optimal noncausal estimator, so mutual information is accumulated estimation error over SNR; in continuous time the causal filtering error equals the noncausal error averaged over SNR, and the identity fails with feedback
 - [THEORY-701](../record/theory.d/THEORY-701.md): Transfer entropy from J to I is the Kullback entropy of assuming that I's next state, given its last k states, does not depend on J's last l states, so it is zero exactly when J's past leaves I's transition law unchanged; unlike time-delayed mutual information it is directional and zero for static correlation, and it removes a common input only when that input is conditioned on
 - [THEORY-716](../record/theory.d/THEORY-716.md): Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first
+- [THEORY-1827](../record/theory.d/THEORY-1827.md): On Belrose and colleagues, no linear predictor under any convex loss can beat a constant at predicting a categorical concept from a representation if and only if every class has the same mean, that is, the representation's cross-covariance with the concept is zero; an affine edit Px + b achieves this if and only if P annihilates that cross-covariance's column space; and one closed-form oblique projection, which whitens, removes the whitened cross-covariance directions and unwhitens, makes the smallest such edit in mean squared distance under every inner-product norm at once
 
 ### learning-theory
 

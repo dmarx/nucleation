@@ -1,5 +1,8 @@
 ---
+number: 1826
 status: Proposed
+formerly:
+- THEORY-tmp1nwro
 promote_when: >-
   An intervention showing that the edited matrix's condition number, not
   the edits' size or count alone, drives the loss of general abilities.
@@ -18,9 +21,9 @@ tags:
 - anthology-candidate
 date: '2026-11-15'
 source:
-- LIT-tmpp9037
+- LIT-2552
 summary: >-
-  Ma, Wang, Xu, Ling & Gu (2025), [LIT-tmpp9037](../literature.d/LIT-tmpp9037.md), read in [NOTE-tmpqcif3](../notes.d/NOTE-tmpqcif3.md).
+  Ma, Wang, Xu, Ling & Gu (2025), [LIT-2552](../literature.d/LIT-2552.md), read in [NOTE-1910](../notes.d/NOTE-1910.md).
   The causal reading rests on a perturbation upper bound for a proxy
   quantity, on the rise of the condition number with edits, and on a
   correlation between that rise and the decline (C.5). The remedy's
@@ -30,11 +33,11 @@ summary: >-
   provably bound the condition number.
 ---
 
-# THEORY-tmp1nwro: On Ma and colleagues, in sequential single-fact editing of a transformer MLP output matrix, the growth of the edited matrix's condition number with the number of edits, driven by the top singular values of the accumulated edit update, is what degrades the model's general abilities, and capping the accumulated update's singular values near the original matrix's largest preserves those abilities while keeping the edits
+# THEORY-1826: On Ma and colleagues, in sequential single-fact editing of a transformer MLP output matrix, the growth of the edited matrix's condition number with the number of edits, driven by the top singular values of the accumulated edit update, is what degrades the model's general abilities, and capping the accumulated update's singular values near the original matrix's largest preserves those abilities while keeping the edits
 
 ## Source
 
-Ma et al. (2025), [LIT-tmpp9037](../literature.d/LIT-tmpp9037.md), read in full in [NOTE-tmpqcif3](../notes.d/NOTE-tmpqcif3.md).
+Ma et al. (2025), [LIT-2552](../literature.d/LIT-2552.md), read in full in [NOTE-1910](../notes.d/NOTE-1910.md).
 
 ## What was actually shown
 

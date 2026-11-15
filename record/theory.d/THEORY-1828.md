@@ -1,5 +1,8 @@
 ---
+number: 1828
 status: Proposed
+formerly:
+- THEORY-tmpa60dn
 promote_when: >-
   A run that states the null-space criterion used (exact, or the
   numerical rank threshold) shows the two things the title asserts. (a)
@@ -18,10 +21,10 @@ tags:
 - anthology-candidate
 date: '2026-11-15'
 source:
-- LIT-tmpy7s15
+- LIT-2554
 summary: >-
-  Liang, Lin, Huang, Wu, Li, Wang & Yan (2026), [LIT-tmpy7s15](../literature.d/LIT-tmpy7s15.md), read in
-  [NOTE-tmps6dyd](../notes.d/NOTE-tmps6dyd.md). The intersection bound is elementary linear algebra and
+  Liang, Lin, Huang, Wu, Li, Wang & Yan (2026), [LIT-2554](../literature.d/LIT-2554.md), read in
+  [NOTE-1911](../notes.d/NOTE-1911.md). The intersection bound is elementary linear algebra and
   holds; the claim that misalignment explains the collapse rests on
   results from one editor family, five to seven domains and three
   backbones, with conflict used as a surrogate for forgetting. The sharp
@@ -32,11 +35,11 @@ summary: >-
   conflict to forgetting.
 ---
 
-# THEORY-tmpa60dn: On Liang and colleagues, an edit to an LLM's MLP projection that must leave several domains' preserved key representations unchanged is confined to the intersection of their null spaces, which can be much smaller than any one domain's, and this inter-domain null-space misalignment, measured as the share of the smaller null space lost in the intersection, is what makes null-space-projected editing collapse when applied sequentially across heterogeneous domains
+# THEORY-1828: On Liang and colleagues, an edit to an LLM's MLP projection that must leave several domains' preserved key representations unchanged is confined to the intersection of their null spaces, which can be much smaller than any one domain's, and this inter-domain null-space misalignment, measured as the share of the smaller null space lost in the intersection, is what makes null-space-projected editing collapse when applied sequentially across heterogeneous domains
 
 ## Source
 
-Liang et al. (2026), [LIT-tmpy7s15](../literature.d/LIT-tmpy7s15.md), read in [NOTE-tmps6dyd](../notes.d/NOTE-tmps6dyd.md) from arXiv v1.
+Liang et al. (2026), [LIT-2554](../literature.d/LIT-2554.md), read in [NOTE-1911](../notes.d/NOTE-1911.md) from arXiv v1.
 
 ## What was actually shown
 

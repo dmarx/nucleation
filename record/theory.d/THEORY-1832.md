@@ -1,5 +1,8 @@
 ---
+number: 1832
 status: Proposed
+formerly:
+- THEORY-tmpt7oc9
 promote_when: >-
   A replication on other model families or another lab's protocol, with
   confidence intervals, of two results. (a) Under residual steering, with
@@ -18,10 +21,10 @@ tags:
 - anthology-candidate
 date: '2026-11-15'
 source:
-- LIT-tmpi20ed
+- LIT-2549
 summary: >-
-  Kang, Liu, Ma, Huang, Tan & Jiang (2026), [LIT-tmpi20ed](../literature.d/LIT-tmpi20ed.md), read in
-  [NOTE-tmp80eb1](../notes.d/NOTE-tmp80eb1.md). The cache account rests on a 2×2 isolation test on one
+  Kang, Liu, Ma, Huang, Tan & Jiang (2026), [LIT-2549](../literature.d/LIT-2549.md), read in
+  [NOTE-1905](../notes.d/NOTE-1905.md). The cache account rests on a 2×2 isolation test on one
   model and 7 traits, with intervals. The method's advantage rests on
   point estimates from one judge and one seed on Qwen2.5-7B, with a Llama
   replication and judge checks on 4 traits. The sharp edges: injection
@@ -30,11 +33,11 @@ summary: >-
   a result.
 ---
 
-# THEORY-tmpt7oc9: On Kang and colleagues, residual-stream persona steering loses coherence over multi-turn dialogue partly because steered token states written to the KV cache are reused by later tokens, and steering vectors taken from the system prompt's contribution to self-attention, applied per token through a query–key gate, keep trait expression while largely avoiding that loss
+# THEORY-1832: On Kang and colleagues, residual-stream persona steering loses coherence over multi-turn dialogue partly because steered token states written to the KV cache are reused by later tokens, and steering vectors taken from the system prompt's contribution to self-attention, applied per token through a query–key gate, keep trait expression while largely avoiding that loss
 
 ## Source
 
-Kang et al. (2026), [LIT-tmpi20ed](../literature.d/LIT-tmpi20ed.md), read in [NOTE-tmp80eb1](../notes.d/NOTE-tmp80eb1.md) from arXiv v3.
+Kang et al. (2026), [LIT-2549](../literature.d/LIT-2549.md), read in [NOTE-1905](../notes.d/NOTE-1905.md) from arXiv v3.
 
 ## What was actually shown
 

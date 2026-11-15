@@ -1,5 +1,8 @@
 ---
+number: 1834
 status: Proposed
+formerly:
+- THEORY-tmpzvlp4
 promote_when: >-
   A run of the paper's two-field model (its Eq. 1 with the §V parameters),
   by the authors or an independent reimplementation, shows three things.
@@ -18,11 +21,11 @@ tags:
 - complex-systems
 date: '2026-11-14'
 source:
-- LIT-tmpijst5
+- LIT-2550
 bears_on:
 - QUESTION-281
 summary: >-
-  Zelnik, Meron & Bel (2015), [LIT-tmpijst5](../literature.d/LIT-tmpijst5.md), read in [NOTE-tmppk4i4](../notes.d/NOTE-tmppk4i4.md). Hybrid
+  Zelnik, Meron & Bel (2015), [LIT-2550](../literature.d/LIT-2550.md), read in [NOTE-1909](../notes.d/NOTE-1909.md). Hybrid
   states are shown by numerical continuation, and the cascade and its
   dependence on the start by simulation. The field side is correlations
   over eight images, with one birth and one death illustrated. The sharp
@@ -31,11 +34,11 @@ summary: >-
   the authors concede, push the simplified model to a uniform state.
 ---
 
-# THEORY-tmpzvlp4: On Zelnik, Meron and Bel, in a soil-water–biomass model fitted to Namibian fairy-circle grassland the rainfall range where uniform grass and a periodic gap pattern are both stable contains a subrange of many stable hybrid mosaics, and brief droughts or wet spells that leave it add or remove gaps one domain at a time, which the authors identify with fairy-circle birth and death; repeated pulses carry the system gradually between the two states, a shift the same pulses do not cause from a uniform or strictly periodic start
+# THEORY-1834: On Zelnik, Meron and Bel, in a soil-water–biomass model fitted to Namibian fairy-circle grassland the rainfall range where uniform grass and a periodic gap pattern are both stable contains a subrange of many stable hybrid mosaics, and brief droughts or wet spells that leave it add or remove gaps one domain at a time, which the authors identify with fairy-circle birth and death; repeated pulses carry the system gradually between the two states, a shift the same pulses do not cause from a uniform or strictly periodic start
 
 ## Source
 
-Zelnik, Meron & Bel, [LIT-tmpijst5](../literature.d/LIT-tmpijst5.md), read in full in [NOTE-tmppk4i4](../notes.d/NOTE-tmppk4i4.md) from the
+Zelnik, Meron & Bel, [LIT-2550](../literature.d/LIT-2550.md), read in full in [NOTE-1909](../notes.d/NOTE-1909.md) from the
 arXiv manuscript.
 
 ## What was actually shown

@@ -1,5 +1,8 @@
 ---
+number: 1827
 status: Active
+formerly:
+- THEORY-tmp7xj6i
 title: 'On Belrose and colleagues, no linear predictor under any convex loss can beat a constant at predicting a categorical concept from a representation if and only if every class has the same mean, that is, the representation''s cross-covariance with the concept is zero; an affine edit Px + b achieves this if and only if P annihilates that cross-covariance''s column space; and one closed-form oblique projection, which whitens, removes the whitened cross-covariance directions and unwhitens, makes the smallest such edit in mean squared distance under every inner-product norm at once'
 version: 1
 history:
@@ -8,7 +11,7 @@ history:
   note: >-
     Filed Active, not Proposed: the title states theorems the paper
     proves (§3, Thms 4.1–4.3, with two independent proofs of 4.2), and
-    the filer checked them numerically on sample moments (NOTE-tmpwodpq,
+    the filer checked them numerically on sample moments (NOTE-1912,
     "A check of the theorems"). Guardedness to 10⁻¹⁵; an idempotent,
     non-symmetric P; and the smallest cost of the erasers compared under
     all 200 random inner-product norms.
@@ -18,22 +21,22 @@ tags:
 - anthology-candidate
 date: '2026-11-15'
 source:
-- LIT-tmpme1pw
+- LIT-2551
 summary: >-
   Belrose, Schneider-Joseph, Ravfogel, Cotterell, Raff & Biderman (2023),
-  [LIT-tmpme1pw](../literature.d/LIT-tmpme1pw.md), read in [NOTE-tmpwodpq](../notes.d/NOTE-tmpwodpq.md). Theorems in population moments, and
+  [LIT-2551](../literature.d/LIT-2551.md), read in [NOTE-1912](../notes.d/NOTE-1912.md). Theorems in population moments, and
   exact for the moments fitted. The sharp edges: the guarantee is linear
   only, and the authors conjecture that nonlinear erasure without damage
   is intractable in general; there is no finite-sample bound; and the
   oblique eraser can enlarge norms.
 ---
 
-# THEORY-tmp7xj6i: On Belrose and colleagues, no linear predictor under any convex loss can beat a constant at predicting a categorical concept from a representation if and only if every class has the same mean, that is, the representation's cross-covariance with the concept is zero; an affine edit Px + b achieves this if and only if P annihilates that cross-covariance's column space; and one closed-form oblique projection, which whitens, removes the whitened cross-covariance directions and unwhitens, makes the smallest such edit in mean squared distance under every inner-product norm at once
+# THEORY-1827: On Belrose and colleagues, no linear predictor under any convex loss can beat a constant at predicting a categorical concept from a representation if and only if every class has the same mean, that is, the representation's cross-covariance with the concept is zero; an affine edit Px + b achieves this if and only if P annihilates that cross-covariance's column space; and one closed-form oblique projection, which whitens, removes the whitened cross-covariance directions and unwhitens, makes the smallest such edit in mean squared distance under every inner-product norm at once
 
 ## Source
 
-Belrose et al. (2023), [LIT-tmpme1pw](../literature.d/LIT-tmpme1pw.md), read in full in
-[NOTE-tmpwodpq](../notes.d/NOTE-tmpwodpq.md) from arXiv v4.
+Belrose et al. (2023), [LIT-2551](../literature.d/LIT-2551.md), read in full in
+[NOTE-1912](../notes.d/NOTE-1912.md) from arXiv v4.
 
 ## What was actually shown
 
