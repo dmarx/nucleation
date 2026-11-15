@@ -85,8 +85,8 @@ closed form", NeurIPS 2023; arXiv:2306.03819.
 
 ## Standing in the record
 
-Filed on 2026-11-15 at the owner's request, alongside MuEdit (LIT-tmpy7s15) and
-AlphaEdit (LIT-tmpyijzd), which also edit by projection (onto null spaces of preserved
+Filed on 2026-11-15 at the owner's request, alongside MuEdit ([LIT-tmpy7s15](LIT-tmpy7s15.md)) and
+AlphaEdit ([LIT-tmpyijzd](LIT-tmpyijzd.md)), which also edit by projection (onto null spaces of preserved
 keys). The paper itself makes no connection to model editing.
 
 The record already discussed LEACE without holding it. Chowdhury et al.

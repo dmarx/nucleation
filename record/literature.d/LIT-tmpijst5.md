@@ -82,7 +82,7 @@ circles", *Proceedings of the National Academy of Sciences* 112(40),
 ## Standing in the record
 
 Filed on 2026-11-14 as next reading after Sun et al. (2026,
-[LIT-tmpruadv](LIT-tmpruadv.md); [THEORY-tmplznge](../theory.d/THEORY-tmplznge.md)). That paper reads hollow shrub rings in grass as
+[LIT-2546](LIT-2546.md); [THEORY-1825](../theory.d/THEORY-1825.md)). That paper reads hollow shrub rings in grass as
 metastable states near a first-order shrub–grass transition, and calls
 the shift abrupt. This paper's fairy circles are a different object: bare
 gaps in single-species grass. Its point bears directly on Sun et al.'s

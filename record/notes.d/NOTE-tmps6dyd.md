@@ -111,7 +111,7 @@ null-space misalignment" (§3.1).
 
 ## Connections
 
-The paper extends AlphaEdit (Fang et al. 2024, LIT-tmpyijzd), the null-space
+The paper extends AlphaEdit (Fang et al. 2024, [LIT-tmpyijzd](../literature.d/LIT-tmpyijzd.md)), the null-space
 form of the MEMIT objective ([LIT-1582](../literature.d/LIT-1582.md), [THEORY-1031](../theory.d/THEORY-1031.md)), whose key–value
 framing comes from ROME ([LIT-1536](../literature.d/LIT-1536.md)) and Geva et al. Hase et al. ([LIT-1578](../literature.d/LIT-1578.md),
 [THEORY-1024](../theory.d/THEORY-1024.md)) showed that where a fact is traced need not be where an edit
@@ -158,7 +158,7 @@ convention, not by tracing.
   The reported values (up to 0.431), and rankings stable from 50 to
   10,000 examples, imply a thresholded numerical null space, presumably
   AlphaEdit's preprocessing, which the paper says MuEdit shares (§4.1).
-  The reading of AlphaEdit (NOTE-tmpoaevu) gives that criterion: the
+  The reading of AlphaEdit ([NOTE-tmpoaevu](NOTE-tmpoaevu.md)) gives that criterion: the
   eigenvectors of K0K0ᵀ with eigenvalues at most 10⁻². MuEdit does not
   restate it, and the index's meaning depends on it and on the
   unreported scale of K0K0ᵀ.

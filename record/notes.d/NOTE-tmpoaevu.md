@@ -112,11 +112,11 @@ AlphaEdit takes MEMIT's closed form, its layers, its λ and its K0
 statistic ([LIT-1582](../literature.d/LIT-1582.md), [THEORY-1031](../theory.d/THEORY-1031.md); [NOTE-1197](NOTE-1197.md) records MEMIT's
 C0 = λ·E[kkᵀ] from 100,000 samples). It follows Adam-NSCL (Wang et al.
 2021) in using the null space of the uncentred covariance. MuEdit (Liang
-et al. 2026, LIT-tmpy7s15) extends it to several domains.
+et al. 2026, [LIT-tmpy7s15](../literature.d/LIT-tmpy7s15.md)) extends it to several domains.
 
 ## Bearing on the record
 
-- **MuEdit's Conflict Index** (LIT-tmpy7s15, NOTE-tmps6dyd). That
+- **MuEdit's Conflict Index** ([LIT-tmpy7s15](../literature.d/LIT-tmpy7s15.md), [NOTE-tmps6dyd](NOTE-tmps6dyd.md)). That
   reading found the index degenerate as defined unless null spaces are
   numerical. Footnote 1 supplies the numerical criterion. MuEdit says it
   shares AlphaEdit's preprocessing, so its null spaces are presumably

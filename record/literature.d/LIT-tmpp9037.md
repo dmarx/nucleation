@@ -76,7 +76,7 @@ arXiv:2405.16821.
 ## Standing in the record
 
 Filed on 2026-11-15 at the owner's request, beside AlphaEdit
-(LIT-tmpyijzd) and MuEdit (LIT-tmpy7s15). It extends the
+([LIT-tmpyijzd](LIT-tmpyijzd.md)) and MuEdit ([LIT-tmpy7s15](LIT-tmpy7s15.md)). It extends the
 record's editing line (ROME, [LIT-1536](LIT-1536.md); MEMIT, [LIT-1582](LIT-1582.md) and [THEORY-1031](../theory.d/THEORY-1031.md);
 Hase et al., [LIT-1578](LIT-1578.md)). It also adds the record's first account of why
 editing accumulates damage. The method is practice and carries the
