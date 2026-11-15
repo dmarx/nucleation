@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-21'
@@ -60,6 +60,14 @@ history:
     QUESTION-100 (an institutional form of its capture branch)" and on
     QUESTION-071 (manipulation). Reading review of 2026-11-11, by
     question. Under ADR-085 it takes will-organization. No other change.
+- version: 9
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): the owner linked reflexive control to the exchange's
+    argument (U6), and A's normative manipulation (CLAIM-tmpd6uxt) is a
+    route this claim's two do not cover. Title, defeater and status
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -455,3 +463,31 @@ checked by the filer: an instance of the informational route: platforms
 shape which news reaches audiences and, through dependency, editorial
 choices, without dictating them; outlets' editorial-algorithm committees
 (Interviewee 40) are an internal counterweight.
+
+## Note of 2026-11-15: a third route, through circumstances, from "Assess Depp Heard Abuse"
+
+<!-- inactive-ok-file: CLAIM-tmpd6uxt — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+<!-- inactive-ok-file: LIT-1339 — Unavailable; Thomas on reflexive control, unread -->
+
+At U6 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), after A9
+on responsibility for creating the conditions of others' wrongdoing, the
+owner wrote: "this reminds me of russian work on 'reflexive control' as a
+grey tactic". A11 develops the link with Lefebvre and Thomas
+(LIT-1339, Unavailable); A30 §3, reading the
+record, found this claim and called its form "arguably more precise".
+
+The exchange adds one thing this claim's two routes do not hold. A11 §4
+separates "**Epistemic manipulation:** Make the target believe something
+false, so that its subsequent decision follows from mistaken premises" from
+"**Normative manipulation:** Exploit the target's actual values,
+commitments, and decision rules, so that acting according to them produces
+an outcome chosen by the manipulator". The first is a case of this claim's
+evidence route. The second is not its criteria route: the target's criteria are not
+redirected but used as they stand, and what the manipulator sets is the
+situation they are applied to (A13's case, filed as CLAIM-tmpd6uxt from
+Keller's moral blackmail). For an organization, the corresponding route
+would be governing it through the circumstances its procedures face, as a
+fait accompli does for a court (CLAIM-464). The claim is
+unchanged; whether "circumstances" is a third route or a case of "evidence"
+is left open here.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,13 @@ history:
     refused authority, and CASE-194 builds failures from observation,
     authority and actuation that repair separately, though not one to one
     onto these three.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): the owner's procedural-friction claim (CLAIM-tmpuiaop)
+    locates the occasions on which this claim's three achievements are
+    needed. Title, defeater and status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -223,3 +230,26 @@ states it, and finds that it covers influence, challenge and protection
 in one direction and not justified withdrawal. [CASE-261](../cases.d/CASE-261.md), A23 §9's
 hospital network, asks this claim's three questions of one objection
 raised by different parties. No change.
+
+## Note of 2026-11-15: where the occasion for an objection lies, from "Assess Depp Heard Abuse"
+
+<!-- inactive-ok-file: CLAIM-tmpuiaop — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+
+The owner, U11 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c): "we can
+view automation as the effort to reduce procedural friction, but
+paradoxically procedural friction exposes (or perhaps even characterizes)
+opportunity for intervention." Filed as CLAIM-tmpuiaop. This claim says
+what a discrepancy needs to change an organization's conduct; the owner's
+says where in a process the occasion for raising one lies, and that
+automation removes it.
+
+A30 §2, reading this claim, put the two together: "procedural friction is
+one possible institutional mechanism for maintaining the three achievements
+across time", but "not every interruption provides all three". A pause
+without a channel for substantive objection gives correctability without
+legibility; a demand for explanations that have no effect gives legibility
+without volitional efficacy; a recognized objection with no power to
+reverse gives both without correctability. So the owner's point of
+intervention is necessary for an objection to work and, by this claim, not
+sufficient. Nothing here changes the claim.

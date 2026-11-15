@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -36,6 +36,13 @@ history:
     Proposed" was written the day the fifteenth status review
     promoted the claim, and it is Active. Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 5
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): A's syntheses (A30 §10, A35) restate this claim, and a
+    throughput claim filed from the same exchange (CLAIM-tmpfmmkt) gives one
+    arithmetic route to it. Title, defeater and status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -185,3 +192,32 @@ A62 §9 of the second share of the exchange "Individuation, Possibility, and Dis
 The note of 2026-10-29 on Cover ends by saying the claim stays Proposed.
 It was written on the day the fifteenth status review promoted the claim
 (version 3), and is of its time: the claim is Active.
+
+## Note of 2026-11-15: restated, and an arithmetic route, from "Assess Depp Heard Abuse"
+
+<!-- inactive-ok-file: CLAIM-tmpfmmkt — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+
+The exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c) reached
+this claim three times without it. A30 §10, after reading the record, offered
+"one new claim for consideration": "Where an arrangement can foreclose
+relevant alternatives before authorized challenges can alter its course, the
+arrangement may retain nominal mechanisms of oversight while losing
+effective restraint. This loss can occur without any change in the content
+of the governing rules or the formal allocation of authority." A itself said
+it "would need to be checked against CLAIM-462, CLAIM-523, CLAIM-624", and
+it is this claim with CLAIM-464's fixed standards. A35's
+"strongest formulation", that a system "can retain effective direction
+while losing effective self-correction", is the same. Neither is filed.
+
+What the exchange adds is a route. CLAIM-tmpfmmkt, filed from A35 §3:
+when challengeable decisions arrive faster than the corrective process
+resolves them, at most a share μ/λ of challenges can be resolved in time,
+whatever the order, while every affected party keeps the formal right. The
+relations that carry action (the rate of decisions) and those that carry
+correction (the rate of resolution) are different, as this claim says, and
+raising the first degrades the second without touching it. A35 §8 states
+the claim as a shrinking reachable set of corrections,
+C(s_{t+1}, B, H) ⊊ C(s_t, B, H), with a required objective dropping out of
+it while the standard stays the same; that is TERM-085
+and CLAIM-464 in one line, and is mapped, not filed.
