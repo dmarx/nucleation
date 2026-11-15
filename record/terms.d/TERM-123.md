@@ -4,14 +4,24 @@ status: Proposed
 formerly:
 - TERM-tmp169d8
 title: "exploitation, relative to a declared standard: one party's benefiting from an arrangement on terms that, as they bear on another party's labour, resources or standing, violate a standard declared with the judgment, so that with the arrangement, the beneficiary, the party exploited and the standard fixed the verdict can be false"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 tags:
 - ethics
 - society-and-governance
 - social-ontology
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 summary: >-
   The assistant's, offered at step 12 of the filing of "About Plantation
   Paradise" ([#488](https://github.com/dmarx/nucleation/issues/488)) and accepted by the owner on 2026-11-13. The record uses
@@ -27,6 +37,7 @@ summary: >-
   bearer of the remedy. The wording is the assistant's (Claude, in this
   session), after A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: TERM-124 CASE-264 — filed with this term, Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 TERM-083 CLAIM-624 CASE-256 — Proposed; the record's entries that use the word, or that this term relies on, cited with their standing -->
 <!-- inactive-ok-file: LIT-2264 — Deferred; Berenstain, the record's one work on exploitation by name, unread -->
