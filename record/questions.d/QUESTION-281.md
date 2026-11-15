@@ -296,7 +296,6 @@ At the owner's suggestion, [CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md) builds t
 
 This meets the second half of "What would count as an answer" for a formal system: two of the three achievements come apart, each way. It does not meet the first half's "a form the record individuates", since the record has not said whether a block is one. The question stays open.
 
-
 ## Note of 2026-11-15: the eater, and a claim
 
 [CASE-tmpjucsj](../cases.d/CASE-tmpjucsj.md) adds a second Life construction at the owner's request: eater 1. Alone it is a fixed point. Struck by a glider in one lane, it loses its corner cell and regrows it from its own cells, where a block in its place is annihilated. Set across the stream of Gosper's gun, it repairs itself every 30 generations. With [CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md) this gives one kind of form, a still life, persisting by three mechanisms: as a fixed point, by self-repair, and by repair from the pattern it serves. The owner asked for the general claim to be filed: [CLAIM-tmp9os8f](../claims.d/CLAIM-tmp9os8f.md), argued by [ARG-tmpdg5zy](../arguments.d/ARG-tmpdg5zy.md). Stabilization and a constitutive role can come apart, but they are not independent, since taking a role can change how a form is stabilized. That answers part of this question's second clause, for a formal system: creation, stabilization and a constitutive role are separable, but the last can reset the second. The question stays open on the first clause, a form the record individuates.
