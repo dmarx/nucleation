@@ -76,3 +76,16 @@ whatever the constituent's membership.
 - **Wholes whose parts are not persons.** As stated, the pair is about a
   person; for an organism and its cells the "non-member" case may not be
   coherent.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A23 §3 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) offered a two-axis table, ground (membership or not) against bearer
+(the whole or responsible agents), as "my extension of CASE-256". The
+split is this case's own: "The first two results answer the ground; the
+third answers the bearer." A's table fills the four cells with examples
+(special duties to members; duties to affected outsiders; officeholders;
+controllers or beneficiaries) and adds no result. Its three "views"
+(membership, vulnerability and control, institutional role) are the
+three results. The case is the owner's, from the review of [#488](https://github.com/dmarx/nucleation/issues/488), which
+A23 credits to "Nucleation". Unchanged.

@@ -61,6 +61,7 @@ summary: >-
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
+<!-- inactive-ok-file: CLAIM-tmpub743 CLAIM-tmpkjv7u CASE-tmpbjaiq — filed from or for the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-249 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
@@ -210,3 +211,15 @@ before legibility that the claim takes for granted: the organization must be
 able to recognize which candidate arrangement satisfies the demand,
 "Oracle-assessed availability" against "Operational success"
 ([CASE-249](../cases.d/CASE-249.md)). No status change.
+
+## Note of 2026-11-13: used to restate part of a domination threshold
+
+[CLAIM-tmpub743](CLAIM-tmpub743.md) (the assistant's, filed from the exchange "Analyze
+technological civilization trap", https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) applies this claim to a dependent
+party's claims on the controllers of an arrangement it depends on, to
+check which part of [CLAIM-tmpkjv7u](CLAIM-tmpkjv7u.md)'s third condition its three
+achievements cover. It uses only this claim's necessity, as its defeater
+states it, and finds that it covers influence, challenge and protection
+in one direction and not justified withdrawal. [CASE-tmpbjaiq](../cases.d/CASE-tmpbjaiq.md), A23 §9's
+hospital network, asks this claim's three questions of one objection
+raised by different parties. No change.

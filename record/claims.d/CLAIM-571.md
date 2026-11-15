@@ -91,6 +91,8 @@ complements:
 - CLAIM-575
 - CLAIM-591
 ---
+<!-- inactive-ok-file: CLAIM-tmpfrjqq — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
+<!-- inactive-ok-file: CLAIM-584 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: CASE-233 ADR-096 ARG-077 — Proposed; the construction case filed from this claim's body, and the decision it applies -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-204 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
@@ -249,3 +251,28 @@ No status changes.
 ## Note of 2026-11-06: Claude, read
 
 Lawvere 1973 is now read in full ([NOTE-1585](../notes.d/NOTE-1585.md)). "Using max as the tensor is the readers' step", in the note of 2026-11-05, is corrected there: Lawvere gives R_cart, "u ⊗ v = max(u, v)" (p. 152), and his free V-category formula, the infimum over finite sequences of the tensor product of edge weights (p. 165), specialised to R_cart is B*. Reading max as a peak capacity is the record's. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A20 §IV of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) used this claim and [TERM-106](../terms.d/TERM-106.md) for institutional reform, with a
+hypothetical of two arrangements each costing seven units and a
+transition peak of thirteen, and [CLAIM-579](CLAIM-579.md) for where reserves can be
+deployed. A's description is accurate and its own numbers are labelled
+hypothetical. Its general sentence, "A society can become more efficient
+at reproducing its current organization while becoming less capable of
+transforming that organization", is this claim with the observation that
+efficiency removes the slack a transition needs; the readiness line
+already argues against treating seldom-used capacity as waste ([CLAIM-584](CLAIM-584.md),
+disclaimed; [CLAIM-587](CLAIM-587.md)). It is recorded here and not filed. No change.
+
+## Note of 2026-11-13: the efficiency sentence, filed
+
+The note above recorded A20 §IV's "A society can become more efficient at
+reproducing its current organization while becoming less capable of
+transforming that organization" with what "efficient" means left open. At
+the owner's word of 2026-11-13 it is filed as [CLAIM-tmpfrjqq](CLAIM-tmpfrjqq.md), with
+efficiency fixed from A's text as cutting the resource held toward what
+the present configuration requires. It then follows from this claim and
+[TERM-106](../terms.d/TERM-106.md): the cut removes exactly the transitions whose threshold lies
+between the old holding and the new. No change to this claim.

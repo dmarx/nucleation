@@ -37,6 +37,7 @@ summary: >-
   suppression, and ordinary operation cannot tell which. Not shown: how
   often either occurs in persons or institutions.
 ---
+<!-- inactive-ok-file: TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CLAIM-364 ARG-030 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-129: The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears
@@ -112,3 +113,11 @@ They may be exactly right for some contexts." [CLAIM-550](../claims.d/CLAIM-550.
 point that raising a threshold is not relief.
 
 No status changes.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A23 §6 of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) used this case, accurately, for cross-scale concordance: "Silence
+can result from justified accommodation, successful cooperation,
+resignation, exclusion, or the suppression of objections." It is cited in
+[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md). Unchanged.

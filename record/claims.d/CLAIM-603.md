@@ -101,6 +101,7 @@ summary: >-
 corroborates:
 - CLAIM-600
 ---
+<!-- inactive-ok-file: CASE-tmpf71w4 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->
 <!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
@@ -304,3 +305,65 @@ Proposed: [CLAIM-669](CLAIM-669.md), an arrangement that produces the dependence
 through which it exploits, and [CLAIM-671](CLAIM-671.md), a whole whose
 responsibilities grow as it takes over what its parts supplied, which
 rests on this claim. No status changes.
+
+## Note of 2026-11-13: a proposed test, by the capability trajectory under withdrawal (the assistant's)
+
+One of the filer's own ideas from the exchange "Analyze technological
+civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), accepted by the owner on 2026-11-13: "Use the
+capability trajectory under withdrawal to tell dependency from division of
+labour." It is a proposed test of this claim, not a finding, and no study
+of this design has been read.
+
+**Design.** Recipients matched on their own capacity for one function, C,
+receive that function for a set duration from one of three supplies of the
+same size:
+
+- **one-way, set from outside**: a supply the experimenter or donor fixes,
+  which does not respond to C (aid; a metabolite added to a medium);
+- **reciprocal**: a partner supplies it and depends on something the
+  recipient supplies back (cross-feeding partners; aid with counterpart
+  contributions);
+- **from within the population**: helpers whose number falls as the loss
+  spreads (the Black Queen's leaky good).
+
+Measure the recipient's C during the supply, and after the supply is
+withdrawn at several durations, as [CLAIM-605](CLAIM-605.md)'s model and [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md) do;
+in the reciprocal arm, also measure the partner's own trajectory when the
+recipient's return is withdrawn.
+
+**What the claim predicts.**
+
+1. During supply, one-way: C falls toward what the supply leaves for the
+   recipient to do, with no stop of its own (the claim's point 1). From
+   within: C stops falling while helpers remain enough to supply.
+2. After withdrawal, one-way: the cost of recovering C grows with the
+   duration of the supply, and where [CLAIM-605](CLAIM-605.md)'s conditions hold there is a
+   duration after which C does not recover (point 2).
+3. Reciprocal: the recipient's C after a withdrawal of the same size and
+   duration is no better than in the one-way arm (the claim's "What it does
+   not say": reciprocity "does not remove the risk"), but the partner's own
+   trajectory falls when it withdraws, so withdrawal costs the withdrawer
+   (point 3).
+
+**What it separates.** This claim's third defeater speaks of a reciprocal
+partnership "as fragile to one partner's withdrawal as a one-way supply of
+the same size". The trajectory test splits two readings of fragile: the
+recipient's trajectory given a withdrawal, on which the claim predicts no
+difference, and the chance of a withdrawal, which reciprocity lowers by
+making it costly to the partner. The defeater can only be meant in the
+second sense, and the test measures it through the partner's trajectory.
+Dependency, on this test, is a loss that tracks the supply and costs only
+the recipient on withdrawal; division of labour is a loss whose withdrawal
+costs both.
+
+**What would go against the claim.** A one-way recipient whose C stops
+falling short of what the supply covers, by its own dynamics (the first
+defeater); or a reciprocal arm in which withdrawal costs the partner
+nothing, so that reciprocity does not change who bears it.
+
+**Cost and readings owed.** Moderate: microbial co-cultures in which a
+supplied metabolite can be removed are the cheapest system, and the record
+has read none of that literature; an organizational version needs matched
+programmes with and without counterpart contributions. No status changes.
+The note is the assistant's (Claude, in this session); adopting it is the
+owner's call.

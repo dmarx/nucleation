@@ -1,0 +1,85 @@
+---
+status: Skimmed
+paper: LIT-tmpldtwo
+title: 'Farr (SEP) — Herbert Marcuse'
+version: 1
+history:
+- version: 1
+  date: '2026-11-13'
+  note: >-
+    Read on 2026-11-13 for the reading pass the owner asked for ("read
+    the works you can reach"), from a reader's draft the filer verified:
+    every quotation below was checked by script against the downloaded
+    text. Copy: the SEP entry (HTML), §5 and §6 read closely and the
+    rest skimmed; Kellner's essay on his UCLA faculty page, the
+    paragraphs on One-Dimensional Man read.
+date: '2026-11-13'
+summary: >-
+  Farr reads Marcuse as holding that advanced industrial society secures
+  a comfortable "democratic unfreedom", in which domination takes the
+  form of administration and needs neither force nor an authority
+  figure, because people are made to feel freer than they are; Kellner
+  adds that it integrates them through false needs.
+---
+<!-- inactive-ok-file: ARG-tmpsh7he CLAIM-tmpkjv7u TERM-tmpt8p9e THEORY-tmpoxssh — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-025 — Proposed; cited with its standing -->
+
+# NOTE-tmpi8t8i: Farr (SEP) — Herbert Marcuse
+
+## Contribution
+
+An authoritative encyclopedia account of the book's central thesis.
+
+## Key results
+
+1. §5, quoting the book's first sentence: "A comfortable, smooth, reasonable, democratic unfreedom prevails in advanced industrial civilization".
+2. §5, quoting Eros and Civilization: "all domination assumes the form of administration".
+3. §5: "domination no longer requires force or the presence of an authority figure."
+4. §5: "The system must make the citizens think that they are freer than they really are."
+5. Kellner: it "created false needs which integrated individuals into the existing system of production and consumption".
+
+## Assumptions
+
+The reading of Marcuse is Farr's and Kellner's.
+
+## Concepts
+
+Democratic unfreedom; one-dimensionality; false needs; administration as domination.
+
+## Bearing on the record
+
+- **[CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)**: contests its last clause. Version 1 said a dependence lacking a discretion-holder "is not domination, however complete"; on Marcuse's account (result 3) domination needs no authority figure. See [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md).
+- **[QUESTION-071](../questions.d/QUESTION-071.md)**: result 4 is a will shaped without its present structure showing it, the question's premise.
+- **[THEORY-025](../theory.d/THEORY-025.md)**: Marcuse's false needs are kin to Sen's adaptive preferences, produced by social interests, not deprivation.
+- **[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md)**: democratic unfreedom is alignment without concordance in a non-totalitarian society.
+
+## Limitations
+
+A secondary account; the book's treatment of language and positivism not read.
+
+## Note of 2026-11-13: the book read, and three attributions corrected
+
+One-Dimensional Man was read in full on 2026-11-13, after the owner's
+ruling on the whole-book copy ([NOTE-tmpf1tpw](NOTE-tmpf1tpw.md), [THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md)). Checked
+against the book, this stand-in is confirmed on result 1, the book's first
+sentence verbatim, and on result 5, Kellner's false needs. Three
+attributions are corrected:
+
+- **Result 2**, "all domination assumes the form of administration", is
+  from Eros and Civilization, as Farr says; it is not in One-Dimensional
+  Man. The book's own forms are "Domination is transfigured into
+  administration" (ch. 2) and "At its most advanced stage, domination
+  functions as administration" (ch. 10).
+- **Result 4**, "The system must make the citizens think that they are
+  freer than they really are", is Farr's paraphrase; no such sentence is
+  in the book.
+- **Result 3**, "domination no longer requires force or the presence of an
+  authority figure", is Farr's wording. The book speaks of the absence of
+  terror ("Technology rather than Terror"; "non-terroristic
+  economic-technical coordination which operates through the manipulation
+  of needs by vested interests"), not of an authority figure, and it
+  names those who choose the society's project.
+
+The bearing given above on [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), that on Marcuse's account
+domination needs no authority figure, therefore rests on Farr's wording,
+not the book's. The book's bearing is restated in [ARG-tmpsh7he](../arguments.d/ARG-tmpsh7he.md), version 2.

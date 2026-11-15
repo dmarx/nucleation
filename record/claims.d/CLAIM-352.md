@@ -82,6 +82,8 @@ summary: >-
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
+<!-- inactive-ok-file: THEORY-tmpj32pb THEORY-tmpockqy — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
 # CLAIM-352: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy
@@ -185,3 +187,21 @@ reachability: it never says which abilities count, so it has no map from
 quantities apart.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A17 §II of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) called this claim "perhaps the most striking discovery in the
+repository" and reported it, correctly, as Active and as saying that "a
+set of dynamically reachable states is not automatically a set of
+valuable human capabilities". It added a third question beside the
+organizational and capability ones, a meaning question after Susan Wolf
+(registered unread from the exchange), which is beyond this claim. A17 §V
+and A23 §6 also took the capability set over time, which is
+[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md): under support that substitutes, the reachable set itself
+moves, so the opportunity aspect has to be read along a trajectory. That
+claim rests on this one. No change.
+
+## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
+
+Sen read first-hand for the first time on the record: the Tanner Lectures, The Standard of Living (1985; [THEORY-tmpj32pb](../theory.d/THEORY-tmpj32pb.md)), where capabilities are "what real opportunities you have regarding the life you may lead", and Development as Freedom, Introduction and chapter 1 ([THEORY-tmpockqy](../theory.d/THEORY-tmpockqy.md)), which names "the process aspect and the opportunity aspect of freedom" [OCR-normalized]. Both corroborate this claim's reading of the two aspects. Neither gives the map from trajectories to valued functionings that the claim says control theory lacks.

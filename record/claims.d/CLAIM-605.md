@@ -85,6 +85,8 @@ summary: >-
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpsmg1c — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
+<!-- inactive-ok-file: CASE-tmpf71w4 CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 
 # CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
@@ -171,3 +173,56 @@ and let capacity-first support withdraw itself.
 ## Note of 2026-11-07: A12's capability trap, from "Individuation, Possibility, and Disposition"
 
 A12 §7 of the exchange (2026-11-06 to 07) writes this claim's model without the cap on practice, ċ = λ(1 − s)τc²(1 − c) − μc, and says it is "the kind of effect Nucleation already models" here. The reader reran it with λ = 1, τ = 1.5, μ = 0.3: threshold 0.2764 (unstable) and kept state 0.7236 (stable), against this claim's 0.276 and 0.7. The kept state differs because this claim caps practice at demand. The deadline is 3.21 from 0.7236 and 3.10 from 0.7, matching this claim. A12 proposes to measure "**how much of the system's own generative work is displaced by external forcing**, rather than treating forcing amplitude as equivalent to substitution", which is [CLAIM-602](CLAIM-602.md)'s point that the order of use, not the amount of supply, decides dependence. [CASE-225](../cases.d/CASE-225.md), filed from the same exchange, separates suppression from this claim's disuse decay. Supports; no status change.
+
+## Note of 2026-11-13: the exchange "Analyze technological civilization trap"
+
+A17 §V of the exchange "Analyze technological civilization trap"
+(https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597) applied this claim to AI assistance, one design that "performs the
+difficult reasoning and supplies the answer" and one that "helps the
+person reason through the problem", and kept the claim's limits: "The
+model is illustrative, not empirical evidence that a particular
+technology produces such decline." Two entries were filed from it:
+[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md), which derives from this model that two supports with the
+same present capabilities can leave different capabilities later, and
+[CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md), a proposed study of whether the trap holds for a human
+skill. No change.
+
+## Note of 2026-11-13: what this model says about a reversibility principle read as "go gradually" (the assistant's)
+
+One of the filer's own ideas from the exchange "Analyze technological
+civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), accepted by the owner on 2026-11-13, was that this
+claim's second result cuts against reading [CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md)'s reversibility
+principle, that the burden of justification rises with the size and
+irreversibility of a narrowing, as "go gradually". It was checked in this
+claim's model, with its parameters, by
+scratch/formal/capability_trap_reversibility.py, which asserts every number
+below (run with `python3 -I`).
+
+- **On exit, the tension holds, and the principle survives it.** A slow
+  taper of substitutive support is the irreversible path (result 2 above).
+  But the principle prices irreversibility, not speed: on its own terms it
+  favours the abrupt cut, whose cost is a recoverable service shortfall.
+  What fails is the gloss "go gradually", not the principle.
+- **On entry, gradualism helps.** Support phased in linearly from none to
+  full stays reversible by an abrupt cut at the end of the ramp for any
+  ramp up to 8.52 time units, against 3.10 for full support from the start.
+  In this model gradual is right on adoption and wrong on exit.
+- **Reversibility runs down while a pilot runs.** A pilot of full
+  substitution is reversible by an abrupt cut until 3.10. The longest exit
+  taper that still recovers shrinks as the pilot runs: 13.92 after no
+  pilot, 9.67 after 1 unit, 5.17 after 2, 2.84 after 2.5, 0.46 after 3. A
+  pilot evaluated after its deadline has evaluated a choice that is no
+  longer reversible, and a long pilot wound down gently can trap a party
+  that an abrupt end would not.
+- **Size can set irreversibility, not only add to it.** Substitution at a
+  constant share a below a* = 1 − μ/(1 − C_LOW) = 0.585 has no deadline:
+  capacity settles lower and recovers on withdrawal however long it ran.
+  Above a*, there is a deadline, as for full substitution, and support
+  kept long enough is irreversible.
+
+The numbers are demonstrated in the model; the parameters are invented,
+and the bearing on [CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md) holds only for support of a capacity
+learned by doing that decays with disuse. Nothing here changes this
+claim, which already states the taper result; the other three are new. The
+note is the assistant's (Claude, in this session); adopting it is the
+owner's call.
