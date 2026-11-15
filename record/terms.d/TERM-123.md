@@ -1,5 +1,8 @@
 ---
+number: 123
 status: Proposed
+formerly:
+- TERM-tmp169d8
 title: "exploitation, relative to a declared standard: one party's benefiting from an arrangement on terms that, as they bear on another party's labour, resources or standing, violate a standard declared with the judgment, so that with the arrangement, the beneficiary, the party exploited and the standard fixed the verdict can be false"
 version: 1
 tags:
@@ -20,15 +23,15 @@ summary: >-
   supply. This term takes A's predicate and makes the standard a relatum
   declared with each judgment, as [CLAIM-363](../claims.d/CLAIM-363.md) requires of any normative
   judgment, rather than one the record must supply first. It supplies no
-  standard. Not dependence, not domination ([TERM-tmpc9uv8](TERM-tmpc9uv8.md)), and not the
+  standard. Not dependence, not domination ([TERM-124](TERM-124.md)), and not the
   bearer of the remedy. The wording is the assistant's (Claude, in this
   session), after A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmpc9uv8 CASE-tmpzh595 — filed with this term, Proposed -->
+<!-- inactive-ok-file: TERM-124 CASE-264 — filed with this term, Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 TERM-083 CLAIM-624 CASE-256 — Proposed; the record's entries that use the word, or that this term relies on, cited with their standing -->
 <!-- inactive-ok-file: LIT-2264 — Deferred; Berenstain, the record's one work on exploitation by name, unread -->
 
-# TERM-tmp169d8: exploitation, relative to a declared standard: one party's benefiting from an arrangement on terms that, as they bear on another party's labour, resources or standing, violate a standard declared with the judgment, so that with the arrangement, the beneficiary, the party exploited and the standard fixed the verdict can be false
+# TERM-123: exploitation, relative to a declared standard: one party's benefiting from an arrangement on terms that, as they bear on another party's labour, resources or standing, violate a standard declared with the judgment, so that with the arrangement, the beneficiary, the party exploited and the standard fixed the verdict can be false
 
 ## Definition
 
@@ -61,7 +64,7 @@ which standard is right, which is [QUESTION-129](../questions.d/QUESTION-129.md)
 entry that uses the term names its standard. Two entries with different
 standards can then disagree about a case without contradicting each
 other, as A6 §4's four evaluations of one colonial production do (note on
-[CLAIM-363](../claims.d/CLAIM-363.md)). [QUESTION-tmpyesgg](../questions.d/QUESTION-tmpyesgg.md) asks how the record identifies exploitation;
+[CLAIM-363](../claims.d/CLAIM-363.md)). [QUESTION-468](../questions.d/QUESTION-468.md) asks how the record identifies exploitation;
 this term is the vocabulary that question is asked in, not its answer.
 
 ## What it is not
@@ -70,7 +73,7 @@ this term is the vocabulary that question is asked in, not its answer.
   contribution disrupts or diminishes the production". An indispensable
   contribution does not by itself show exploitation, and compensation or
   acclaim does not show its absence (A6 §2).
-- **Not domination.** Domination ([TERM-tmpc9uv8](TERM-tmpc9uv8.md)) is a capacity over
+- **Not domination.** Domination ([TERM-124](TERM-124.md)) is a capacity over
   another's terms, used or not. A benevolent master dominates without
   benefiting on violating terms. A lender whose borrower could have
   refused at entry may exploit, on a standard of non-encumbrance, without
@@ -88,7 +91,7 @@ this term is the vocabulary that question is asked in, not its answer.
   result).
 - **Not a criterion with a test built in.** The term says what must be
   fixed for a verdict. It does not say how a violation is detected, which
-  is [QUESTION-tmpyesgg](../questions.d/QUESTION-tmpyesgg.md)'s question. [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md) separates dependence from
+  is [QUESTION-468](../questions.d/QUESTION-468.md)'s question. [CASE-264](../cases.d/CASE-264.md) separates dependence from
   control; it does not detect exploitation.
 
 ## What would unsettle it

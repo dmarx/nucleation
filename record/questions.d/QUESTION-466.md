@@ -1,5 +1,8 @@
 ---
+number: 466
 status: Open
+formerly:
+- QUESTION-tmpa2ta5
 title: 'In a language model trained to act on some of the reward-model preferences it read about, is the objective the trained system maintains the behaviours it was trained on or "what reward models prefer": does a goal-directed description with that objective beat a device description of the trained behaviours on held-out and newly described preferences, and does the network restore it when it is perturbed?'
 version: 1
 tags:
@@ -22,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-174 — Proposed; the admission test this question names as its standard -->
 
-# QUESTION-tmpa2ta5: In a language model trained to act on some of the reward-model preferences it read about, is the objective the trained system maintains the behaviours it was trained on or "what reward models prefer": does a goal-directed description with that objective beat a device description of the trained behaviours on held-out and newly described preferences, and does the network restore it when it is perturbed?
+# QUESTION-466: In a language model trained to act on some of the reward-model preferences it read about, is the objective the trained system maintains the behaviours it was trained on or "what reward models prefer": does a goal-directed description with that objective beat a device description of the trained behaviours on held-out and newly described preferences, and does the network restore it when it is perturbed?
 
 ## Why it is a question
 

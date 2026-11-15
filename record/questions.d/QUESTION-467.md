@@ -1,5 +1,8 @@
 ---
+number: 467
 status: Open
+formerly:
+- QUESTION-tmppyelk
 title: 'When an organization that must act acceptably in every circumstance it cannot yet exclude learns which circumstance holds only from what its own committing actions reveal, how much must it observe before it commits, and is what only commitment would reveal lost to it?'
 version: 1
 tags:
@@ -27,7 +30,7 @@ summary: >-
   the assistant's; adopting it is the owner's call.
 ---
 
-# QUESTION-tmppyelk: When an organization that must act acceptably in every circumstance it cannot yet exclude learns which circumstance holds only from what its own committing actions reveal, how much must it observe before it commits, and is what only commitment would reveal lost to it?
+# QUESTION-467: When an organization that must act acceptably in every circumstance it cannot yet exclude learns which circumstance holds only from what its own committing actions reveal, how much must it observe before it commits, and is what only commitment would reveal lost to it?
 
 ## Why it is a question
 

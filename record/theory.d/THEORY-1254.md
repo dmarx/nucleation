@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-14'
   note: >-
-    Bears on QUESTION-tmppyelk, raised by the reading review of
+    Bears on QUESTION-467, raised by the reading review of
     2026-11-14 (by topic, part C; ADR-091, ADR-093). CLAIM-535 and
     CLAIM-572 set aside the case where acting is itself observing
     ("active sensing and dual control (Feldbaum), not registered"; "In
@@ -33,7 +33,7 @@ summary: >-
   sufficient for an unavoidable gap, and unbounded information does not by
   itself give recovery.
 bears_on:
-- QUESTION-tmppyelk
+- QUESTION-467
 ---
 <!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 

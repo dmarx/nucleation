@@ -26,7 +26,7 @@ history:
 - version: 3
   date: '2026-11-14'
   note: >-
-    Bears on QUESTION-tmpa2ta5, raised by the reading review of
+    Bears on QUESTION-466, raised by the reading review of
     2026-11-14 (by topic, part B; ADR-091, ADR-093) to ask which
     objective the reward-model-bias model organism maintains, in
     CLAIM-356's words "which operative objective the resulting system
@@ -47,7 +47,7 @@ summary: >-
   training documents; the authors do not claim their method would find a
   goal that has none.
 bears_on:
-- QUESTION-tmpa2ta5
+- QUESTION-466
 ---
 <!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-1027 — Proposed; Marks et al.'s suggestion about SAEs in audits, cited as open -->

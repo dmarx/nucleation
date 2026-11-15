@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 116 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 117 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -242,3 +242,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-106](../record/arguments.d/ARG-106.md) — Wolf's Tanner Lectures carry the premise of three of the flourishing claims, that fulfilment and meaning come apart, that no one in particular has authority over worth, and that meaning pursued for its own sake defeats itself, but not their application to arrangements and institutions, which Wolf disclaims and which is A's *(Proposed, source)*
 - [CLAIM-684](../record/claims.d/CLAIM-684.md) — When a choice about a technology or an institution could substantially and durably narrow the possibilities later open to those it affects, the burden of justifying it should rise with the size and the irreversibility of the narrowing *(Proposed, thesis)*
   - [ARG-103](../record/arguments.d/ARG-103.md) — Winner's essay supports the premise and the occasion of the irreversibility burden, that the latitude of choice about a technology is greatest at its introduction and vanishes once commitments are made, so that innovations deserve the scrutiny given to laws, but not the rule that the burden of justification scales with the size and irreversibility of the narrowing *(Proposed, source)*
+- [CLAIM-690](../record/claims.d/CLAIM-690.md) — Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole's need of it becomes the part's hold on its terms; with the terms at an agent's discretion, the same need gives the part none, and the part's own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls *(Proposed, thesis)*
+  - [ARG-110](../record/arguments.d/ARG-110.md) — Two workshops equal in dependence, integration and membership and different only in who controls the terms show that control sorts a whole-part dependence in both directions, given that one dependence can be organized more than one way *(Proposed, contrast)*

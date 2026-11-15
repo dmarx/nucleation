@@ -64,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable; Chesson's criterion, cited for the definition, not read here -->
-<!-- inactive-ok-file: TERM-tmp169d8 TERM-tmpc9uv8 — Proposed; filed 2026-11-13 from A's predicates kept in the note of 2026-11-12 -->
+<!-- inactive-ok-file: TERM-123 TERM-124 — Proposed; filed 2026-11-13 from A's predicates kept in the note of 2026-11-12 -->
 
 # CLAIM-546: Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community's need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first
 
@@ -146,7 +146,7 @@ changes.
 At the owner's acceptance on 2026-11-13 of the step-12 ideas of [#488](https://github.com/dmarx/nucleation/issues/488), the
 two predicates the note above kept here are proposed as terms, with the
 standard made a relatum declared with each judgment rather than one the
-record must supply first: exploitation ([TERM-tmp169d8](../terms.d/TERM-tmp169d8.md)) and domination
-([TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md)). How the record tells them apart in a case is
-[QUESTION-tmpyesgg](../questions.d/QUESTION-tmpyesgg.md). The terms are the assistant's wording, after A's, and
+record must supply first: exploitation ([TERM-123](../terms.d/TERM-123.md)) and domination
+([TERM-124](../terms.d/TERM-124.md)). How the record tells them apart in a case is
+[QUESTION-468](../questions.d/QUESTION-468.md). The terms are the assistant's wording, after A's, and
 Proposed. This claim is unchanged.

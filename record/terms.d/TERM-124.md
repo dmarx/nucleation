@@ -1,5 +1,8 @@
 ---
+number: 124
 status: Proposed
+formerly:
+- TERM-tmpc9uv8
 title: "domination, of a party within an arrangement, relative to a declared standard of answerability: an agent's or role's capacity, used or not, to set or change the terms on which the party can act, exit, contest or renegotiate, where the capacity is not answerable to the party under a standard declared with the judgment"
 version: 1
 tags:
@@ -22,15 +25,15 @@ summary: >-
   relative to a standard of answerability declared with the judgment, as
   [CLAIM-363](../claims.d/CLAIM-363.md) requires. Its holder must be an agent or role; an arrangement
   with no controller can constrain but does not dominate in this sense.
-  Not exploitation ([TERM-tmp169d8](TERM-tmp169d8.md)), not dependence, not integration. The
+  Not exploitation ([TERM-123](TERM-123.md)), not dependence, not integration. The
   wording is the assistant's (Claude, in this session), after [CLAIM-545](../claims.d/CLAIM-545.md) and
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp169d8 CLAIM-tmp6p3ki CASE-tmpzh595 — filed with this term, Proposed -->
+<!-- inactive-ok-file: TERM-123 CLAIM-690 CASE-264 — filed with this term, Proposed -->
 <!-- inactive-ok-file: CLAIM-545 CLAIM-624 CLAIM-603 CLAIM-671 CASE-256 TERM-083 — Proposed; the record's entries this term draws its wording from or sets beside, cited with their standing -->
 <!-- inactive-ok-file: LIT-1614 until 2027-02-13 — Unavailable; Pettit, the source CLAIM-545's clause follows, unread; ask again whether a lawful copy has appeared -->
 
-# TERM-tmpc9uv8: domination, of a party within an arrangement, relative to a declared standard of answerability: an agent's or role's capacity, used or not, to set or change the terms on which the party can act, exit, contest or renegotiate, where the capacity is not answerable to the party under a standard declared with the judgment
+# TERM-124: domination, of a party within an arrangement, relative to a declared standard of answerability: an agent's or role's capacity, used or not, to set or change the terms on which the party can act, exit, contest or renegotiate, where the capacity is not answerable to the party under a standard declared with the judgment
 
 ## Definition
 
@@ -58,20 +61,20 @@ under the standard. The capacity counts whether or not it is used:
 ## What it is for
 
 The record's argument about dependence needs a word for the condition in
-which one party's terms are at another's discretion. [CLAIM-tmp6p3ki](../claims.d/CLAIM-tmp6p3ki.md) says
+which one party's terms are at another's discretion. [CLAIM-690](../claims.d/CLAIM-690.md) says
 that this condition, and not the magnitude of dependence, sorts a
-whole-part dependence in both directions. [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md)'s workshop B is
+whole-part dependence in both directions. [CASE-264](../cases.d/CASE-264.md)'s workshop B is
 domination in this sense, under the standard "P can withdraw or
 renegotiate". Its workshop A is not.
 
 ## What it is not
 
-- **Not exploitation.** Exploitation ([TERM-tmp169d8](TERM-tmp169d8.md)) is benefit on terms
+- **Not exploitation.** Exploitation ([TERM-123](TERM-123.md)) is benefit on terms
   that violate a declared standard. A holder can dominate without
   benefiting, and a beneficiary can exploit without holding a capacity
   over the party's later choices.
 - **Not dependence, nor integration.** Equal dependence can be dominated
-  or not ([CASE-tmpzh595](../cases.d/CASE-tmpzh595.md)), and a capability given up to a supplier
+  or not ([CASE-264](../cases.d/CASE-264.md)), and a capability given up to a supplier
   ([CLAIM-603](../claims.d/CLAIM-603.md)) need not put the terms in the supplier's hands. The owner's
   review of [#488](https://github.com/dmarx/nucleation/issues/488) asked that vulnerability to another's control be kept
   apart from integration. The term is stated in control and does not

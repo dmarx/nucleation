@@ -1,5 +1,8 @@
 ---
+number: 264
 status: Proposed
+formerly:
+- CASE-tmpzh595
 title: 'Two workshops with the same dependence and the same integration, the part able to withdraw and renegotiate in one and its terms set at the controlling agent''s discretion in the other'
 version: 1
 standing: fictional
@@ -15,9 +18,9 @@ line:
 bears_on:
 - QUESTION-461
 - QUESTION-460
-- QUESTION-tmpyesgg
+- QUESTION-468
 summary: >-
-  The assistant's, the discriminating case for [CLAIM-tmp6p3ki](../claims.d/CLAIM-tmp6p3ki.md), offered at
+  The assistant's, the discriminating case for [CLAIM-690](../claims.d/CLAIM-690.md), offered at
   step 12 of the filing of "About Plantation Paradise" ([#488](https://github.com/dmarx/nucleation/issues/488)) and accepted
   by the owner on 2026-11-13. Two workshops, sense-1 arrangements
   ([TERM-074](../terms.d/TERM-074.md)) run by a controlling agent R, each with a constituent P. The
@@ -31,10 +34,10 @@ summary: >-
   real case does. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp6p3ki TERM-tmp169d8 TERM-tmpc9uv8 — filed with this case, Proposed -->
+<!-- inactive-ok-file: CLAIM-690 TERM-123 TERM-124 — filed with this case, Proposed -->
 <!-- inactive-ok-file: CLAIM-671 CLAIM-428 CLAIM-603 CASE-256 CASE-257 TERM-083 — Proposed; the record's entries this case is built against, cited with their standing -->
 
-# CASE-tmpzh595: Two workshops with the same dependence and the same integration, the part able to withdraw and renegotiate in one and its terms set at the controlling agent's discretion in the other
+# CASE-264: Two workshops with the same dependence and the same integration, the part able to withdraw and renegotiate in one and its terms set at the controlling agent's discretion in the other
 
 ## Which sense of "organization"
 
@@ -107,8 +110,8 @@ Checked with exact fractions (`python3 -I`, in the session's scratchpad):
   offer. It shows that the outcomes can come apart at equal dependence,
   not how often or by how much they do.
 - **That B is exploitation.** Whether R's 9 against P's 1 is exploitation
-  needs a standard declared with the judgment ([TERM-tmp169d8](../terms.d/TERM-tmp169d8.md), [CLAIM-363](../claims.d/CLAIM-363.md)).
-  B is domination in [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md)'s sense only once a standard of
+  needs a standard declared with the judgment ([TERM-123](../terms.d/TERM-123.md), [CLAIM-363](../claims.d/CLAIM-363.md)).
+  B is domination in [TERM-124](../terms.d/TERM-124.md)'s sense only once a standard of
   answerability is declared and R's capacity fails it.
 - **That control is the only ground of obligation.** [CASE-256](CASE-256.md)'s first
   result, that membership grounds obligations of its own, is not tested

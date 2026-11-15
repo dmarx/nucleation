@@ -1,5 +1,8 @@
 ---
+number: 690
 status: Proposed
+formerly:
+- CLAIM-tmp6p3ki
 title: 'Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole''s need of it becomes the part''s hold on its terms; with the terms at an agent''s discretion, the same need gives the part none, and the part''s own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls'
 version: 1
 role: thesis
@@ -14,7 +17,7 @@ defeated_if: >-
   whose growing dependence alone shifts responsibility onto an agent. (b) A
   reading of a power-dependence account in which dependence measured apart
   from the availability of exit decides power, against the case of equal
-  dependence and different control (CASE-tmpzh595). (c) The restatement
+  dependence and different control (CASE-264). (c) The restatement
   objection: that CLAIM-428 already says, for both directions of a
   whole-part dependence, that control over the terms sorts it and the
   magnitude does not, so that this adds nothing; then it becomes a dated
@@ -34,13 +37,13 @@ line:
 rests_on:
 - CLAIM-428
 grounds:
-- CASE-tmpzh595
+- CASE-264
 bears_on:
 - QUESTION-461
 - QUESTION-460
-- QUESTION-tmpyesgg
+- QUESTION-468
 uses:
-- TERM-tmpc9uv8
+- TERM-124
 summary: >-
   The assistant's, offered at step 12 of the filing of "About Plantation
   Paradise" ([#488](https://github.com/dmarx/nucleation/issues/488)) and accepted by the owner on 2026-11-13. The record asks
@@ -51,19 +54,19 @@ summary: >-
   same variable: who controls the terms on which the dependence is met,
   not how great it is, and not how deep the integration that produced it
   ([CLAIM-603](CLAIM-603.md)'s route). Grounded in a fictional case of equal dependence and
-  different control over exit ([CASE-tmpzh595](../cases.d/CASE-tmpzh595.md)); the inference is
-  [ARG-tmpaxlfo](../arguments.d/ARG-tmpaxlfo.md). It keeps the ground of an obligation apart from its bearer,
+  different control over exit ([CASE-264](../cases.d/CASE-264.md)); the inference is
+  [ARG-110](../arguments.d/ARG-110.md). It keeps the ground of an obligation apart from its bearer,
   as the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) asked: control fixes on whom a
   strengthened responsibility falls, not whether the principle that grounds
   it holds. Interpretive. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpzh595 ARG-tmpaxlfo TERM-tmpc9uv8 TERM-tmp169d8 — filed with this claim, Proposed -->
+<!-- inactive-ok-file: CASE-264 ARG-110 TERM-124 TERM-123 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-671 CLAIM-428 CLAIM-603 CLAIM-669 CASE-256 CASE-257 TERM-083 — Proposed; the record's entries this claim joins or sets beside, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit whose admission route this claim names -->
 <!-- inactive-ok-file: LIT-2531 until 2027-02-13 — Unavailable; Goodin, whose principle the obligation clause is conditional on; ask again whether a lawful copy has appeared -->
 
-# CLAIM-tmp6p3ki: Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole's need of it becomes the part's hold on its terms; with the terms at an agent's discretion, the same need gives the part none, and the part's own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls
+# CLAIM-690: Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole's need of it becomes the part's hold on its terms; with the terms at an agent's discretion, the same need gives the part none, and the part's own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls
 
 ## Which sense of "whole"
 
@@ -71,7 +74,7 @@ summary: >-
 an institution or an agent. The claim needs two things the sense does not
 supply. Something must control the terms, an agent or a role, since
 domination and discretion are capacities of something that can choose
-([TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md)). And the obligation clause needs a part with standing
+([TERM-124](../terms.d/TERM-124.md)). And the obligation clause needs a part with standing
 ([TERM-083](../terms.d/TERM-083.md)). Where no agent controls the terms, as for an organism and its
 cells, the claim says nothing about who bears an obligation, and
 [QUESTION-460](../questions.d/QUESTION-460.md) keeps that open.
@@ -137,7 +140,7 @@ control over that dependency." That formulation was mapped to [CLAIM-428](CLAIM-
 - **Integration kept apart.** The review: "deeper integration need not
   monotonically increase vulnerability". [CLAIM-603](CLAIM-603.md)'s route, a capability
   given up because another supplies it, is how a dependence comes about.
-  Held fixed, as in [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md), it leaves open which way the dependence
+  Held fixed, as in [CASE-264](../cases.d/CASE-264.md), it leaves open which way the dependence
   runs. Integration and magnitude scale what is at stake; control sorts
   it.
 
@@ -151,19 +154,19 @@ different in control, both outcomes flip together: the whole's need
 becomes the part's hold in one and not the other, and the part's
 dependence is exposure to discretion in the other and not the one. Across
 pairs equal in control and different in magnitude, neither flips; only
-the size of the stakes changes. [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md) builds the first kind of
+the size of the stakes changes. [CASE-264](../cases.d/CASE-264.md) builds the first kind of
 pair in a toy model. What would go against it is (a) in `defeated_if`.
 
 ## What it does not say
 
 - **That magnitude is idle.** It sets how much rides on the relation. In
-  [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md)'s bargained workshop, P's share rises by half a unit for
+  [CASE-264](../cases.d/CASE-264.md)'s bargained workshop, P's share rises by half a unit for
   each unit of the workshop's need.
 - **That control is the only ground of obligation.** Membership may
   ground obligations of its own ([CASE-256](../cases.d/CASE-256.md)'s first result). The claim
   holds membership fixed and does not deny it.
 - **That the part with a hold is not exploited, or that the part without
-  one is.** Exploitation needs a declared standard ([TERM-tmp169d8](../terms.d/TERM-tmp169d8.md),
+  one is.** Exploitation needs a declared standard ([TERM-123](../terms.d/TERM-123.md),
   [CLAIM-363](CLAIM-363.md)). Predatory inclusion is a hold given up at entry, on terms
   that leave an encumbrance ([CLAIM-669](CLAIM-669.md)).
 - **That this is how power works in general.** Emerson's

@@ -19,7 +19,7 @@ history:
 - version: 2
   date: '2026-11-14'
   note: >-
-    Bears on QUESTION-tmpa2ta5, raised by the reading review of
+    Bears on QUESTION-466, raised by the reading review of
     2026-11-14 (by topic, part B; ADR-091, ADR-093) to ask which
     objective the reward-model-bias model organism maintains, in
     CLAIM-356's words "which operative objective the resulting system
@@ -40,7 +40,7 @@ summary: >-
   behaviours at 17%, so what generalizes is an increase, not a new
   behaviour.
 bears_on:
-- QUESTION-tmpa2ta5
+- QUESTION-466
 ---
 <!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-982 — Proposed; the Biology paper's general thesis, which this model organism bears on, cited as open -->

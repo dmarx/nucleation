@@ -1,5 +1,8 @@
 ---
+number: 468
 status: Open
+formerly:
+- QUESTION-tmpyesgg
 title: 'How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?'
 version: 1
 tags:
@@ -25,15 +28,15 @@ summary: >-
   and how it is applied. It keeps apart what the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488)
   asked to keep apart: the ground of a wrong from its bearer, and
   vulnerability and control from integration. The terms it is asked in
-  are [TERM-tmp169d8](../terms.d/TERM-tmp169d8.md) and [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md). The wording is the assistant's
+  are [TERM-123](../terms.d/TERM-123.md) and [TERM-124](../terms.d/TERM-124.md). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp169d8 TERM-tmpc9uv8 CASE-tmpzh595 CLAIM-tmp6p3ki — filed with this question, Proposed -->
+<!-- inactive-ok-file: TERM-123 TERM-124 CASE-264 CLAIM-690 — filed with this question, Proposed -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-545 CLAIM-669 CLAIM-670 CLAIM-603 CLAIM-624 CLAIM-671 CASE-256 TERM-083 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: LIT-2264 — Deferred; Berenstain, the record's one work on exploitation by name, unread -->
 <!-- inactive-ok-file: LIT-2522 until 2027-02-13 — Unavailable; Alicea, the organizational case of predatory inclusion; ask again whether a lawful copy has appeared -->
 
-# QUESTION-tmpyesgg: How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?
+# QUESTION-468: How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?
 
 ## The question
 
@@ -47,7 +50,7 @@ Three parts, which an answer has to keep apart.
    hold. An indispensable contribution does not show exploitation, and
    "compensation or public acclaim" does not show its absence (A6 §2).
 2. **Which standard supplies the verdict.** An exploitation verdict is
-   relative to a standard declared with it ([TERM-tmp169d8](../terms.d/TERM-tmp169d8.md); [CLAIM-363](../claims.d/CLAIM-363.md)). The
+   relative to a standard declared with it ([TERM-123](../terms.d/TERM-123.md); [CLAIM-363](../claims.d/CLAIM-363.md)). The
    record supplies none, and A6 §6 put the investigation's aim as
    "Separating causal dependence from violations of an independently
    justified labor or freedom standard". Which standards are admissible,
@@ -81,8 +84,8 @@ What the record holds bounds it without answering it.
   ([CLAIM-546](../claims.d/CLAIM-546.md)). Viability does not say what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)).
 - **One dependence, several organizations.** The same dependence can be
   organized as opportunity, vulnerability or leverage ([CLAIM-428](../claims.d/CLAIM-428.md)).
-  [CLAIM-tmp6p3ki](../claims.d/CLAIM-tmp6p3ki.md) adds that control over the terms, not magnitude, sorts it
-  in both directions of a whole-part relation, and [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md) builds the
+  [CLAIM-690](../claims.d/CLAIM-690.md) adds that control over the terms, not magnitude, sorts it
+  in both directions of a whole-part relation, and [CASE-264](../cases.d/CASE-264.md) builds the
   contrast. That separates dependence from domination. It does not
   separate either from exploitation.
 - **Routes into exploitation.** Through access whose terms leave an
@@ -91,7 +94,7 @@ What the record holds bounds it without answering it.
   neither says which standard.
 - **Domination has a clause, not a criterion.** [CLAIM-545](../claims.d/CLAIM-545.md)'s "another's
   capacity to govern those same relations, used or not", now proposed as
-  [TERM-tmpc9uv8](../terms.d/TERM-tmpc9uv8.md) with a declared standard of answerability.
+  [TERM-124](../terms.d/TERM-124.md) with a declared standard of answerability.
 - **Answerability.** [CLAIM-624](../claims.d/CLAIM-624.md)'s second-order duty is to keep violations
   knowable, contestable and correctable, a verdict given only an
   independently justified standard. It is a candidate for the standard of
@@ -114,7 +117,7 @@ exploited rather than only dependent or only dominated.
 ## What would count as an answer
 
 - For part 1, a test that, in a matched pair, tells exploitation from
-  dependence and from domination, as [CASE-tmpzh595](../cases.d/CASE-tmpzh595.md) tells dependence from
+  dependence and from domination, as [CASE-264](../cases.d/CASE-264.md) tells dependence from
   domination. A6 §6's proposed comparison is one: "two theatrical
   organizations with similar artistic outputs but different labor
   arrangements could help isolate exploitation from performance."

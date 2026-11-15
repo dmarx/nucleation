@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-14'
   note: >-
-    Bears on QUESTION-tmppyelk, raised by the reading review of
+    Bears on QUESTION-467, raised by the reading review of
     2026-11-14 (by topic, part C; ADR-091, ADR-093). CLAIM-535 and
     CLAIM-572 set aside the case where acting is itself observing; this
     reading gives the conditions under which a uniformly safe controller
@@ -31,7 +31,7 @@ summary: >-
   conservative direction, an experiment that returns to a common state,
   and Gaussian observations.
 bears_on:
-- QUESTION-tmppyelk
+- QUESTION-467
 ---
 <!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 

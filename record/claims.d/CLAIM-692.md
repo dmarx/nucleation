@@ -1,5 +1,8 @@
 ---
+number: 692
 status: Proposed
+formerly:
+- CLAIM-tmpqlt2o
 title: "The neural signature Jennings offers for an emergent subject's constraint on its parts, 1/f scaling and phase-amplitude coupling tied to attention, does not discriminate a macro-level constraint from micro-level mechanism: 1/f structure is present in every field recording, a coupling measure can be met by one non-sinusoidal rhythm, and the attention coupling it cites is a correlation with no control of waveform shape"
 version: 1
 role: thesis
@@ -37,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; Jennings's account, which this claim is about -->
 
-# CLAIM-tmpqlt2o: The neural signature Jennings offers for an emergent subject's constraint on its parts, 1/f scaling and phase-amplitude coupling tied to attention, does not discriminate a macro-level constraint from micro-level mechanism: 1/f structure is present in every field recording, a coupling measure can be met by one non-sinusoidal rhythm, and the attention coupling it cites is a correlation with no control of waveform shape
+# CLAIM-692: The neural signature Jennings offers for an emergent subject's constraint on its parts, 1/f scaling and phase-amplitude coupling tied to attention, does not discriminate a macro-level constraint from micro-level mechanism: 1/f structure is present in every field recording, a coupling measure can be met by one non-sinusoidal rhythm, and the attention coupling it cites is a correlation with no control of waveform shape
 
 ## The claim
 

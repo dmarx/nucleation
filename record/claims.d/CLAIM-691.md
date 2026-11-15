@@ -1,5 +1,8 @@
 ---
+number: 691
 status: Proposed
+formerly:
+- CLAIM-tmp6u7m2
 title: 'Under cosine similarity with unit-norm vectors, Gromov–Wasserstein with squared loss is transport under one global linear map of fixed Frobenius norm, of which orthogonal maps are a subclass, so a Gromov–Wasserstein fit that beats an orthogonal map on held-out items does not by itself show that the right correspondence is lossy or not invertible'
 version: 1
 role: thesis
@@ -32,7 +35,7 @@ summary: >-
   wording is the assistant's; adopting it is the owner's call.
 ---
 
-# CLAIM-tmp6u7m2: Under cosine similarity with unit-norm vectors, Gromov–Wasserstein with squared loss is transport under one global linear map of fixed Frobenius norm, of which orthogonal maps are a subclass, so a Gromov–Wasserstein fit that beats an orthogonal map on held-out items does not by itself show that the right correspondence is lossy or not invertible
+# CLAIM-691: Under cosine similarity with unit-norm vectors, Gromov–Wasserstein with squared loss is transport under one global linear map of fixed Frobenius norm, of which orthogonal maps are a subclass, so a Gromov–Wasserstein fit that beats an orthogonal map on held-out items does not by itself show that the right correspondence is lossy or not invertible
 
 ## The claim
 
