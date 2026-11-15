@@ -114,31 +114,31 @@ influence enters, and as selectively, persists without compounding.
 
 ## Connections
 
-It builds on Chen et al.'s persona vectors (LIT-1998, NOTE-1524): their
+It builds on Chen et al.'s persona vectors ([LIT-1998](../literature.d/LIT-1998.md), [NOTE-1524](NOTE-1524.md)): their
 extraction pipeline, rubrics and judge prompts. It is related to
 in-context vectors, prefix tuning, AxBench and ReFT, none of which the
 record holds.
 
 ## Bearing on the record
 
-- **LIT-1998 / NOTE-1524** (Persona Vectors). This paper reports the
+- **[LIT-1998](../literature.d/LIT-1998.md) / [NOTE-1524](NOTE-1524.md)** (Persona Vectors). This paper reports the
   multi-turn coherence cost of Chen et al.'s layer-20 steering, with an
   average drift of −18.6 on Qwen2.5-7B. It also decomposes their vector into
   trait-bearing (attention) and other components. No note filed: this
   qualifies the steering use, not their monitoring account.
-- **THEORY-1334** (prompting and finetuning persona shifts are mediated by
+- **[THEORY-1334](../theory.d/THEORY-1334.md)** (prompting and finetuning persona shifts are mediated by
   the same linear directions). This paper argues that a residual persona
   vector mixes the prompt-mediated attention component with
   response-content components. That complicates "the same direction" as
   the mediator of a prompt's effect, but it has no finetuning evidence
   and does not meet that entry's promote_when. No note filed; the
   bearing is recorded here.
-- **QUESTION-443** (does a chat model's persona position follow the latest
+- **[QUESTION-443](../questions.d/QUESTION-443.md)** (does a chat model's persona position follow the latest
   user message?). Under residual steering, persona state is carried
   forward through cached steered states: trait drops 13 points when the
   cache is cleaned. This is weak, indirect evidence that history adds to
   the current input, and only in a steered model. No note filed.
-- **LIT-1991 / THEORY-1339** (the Assistant Axis, multi-turn persona
+- **[LIT-1991](../literature.d/LIT-1991.md) / [THEORY-1339](../theory.d/THEORY-1339.md)** (the Assistant Axis, multi-turn persona
   drift). An adjacent dynamic, but here the drift is induced by the
   intervention, not by user messages.
 

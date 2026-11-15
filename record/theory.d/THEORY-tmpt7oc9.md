@@ -20,8 +20,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpi20ed
 summary: >-
-  Kang, Liu, Ma, Huang, Tan & Jiang (2026), LIT-tmpi20ed, read in
-  NOTE-tmp80eb1. The cache account rests on a 2×2 isolation test on one
+  Kang, Liu, Ma, Huang, Tan & Jiang (2026), [LIT-tmpi20ed](../literature.d/LIT-tmpi20ed.md), read in
+  [NOTE-tmp80eb1](../notes.d/NOTE-tmp80eb1.md). The cache account rests on a 2×2 isolation test on one
   model and 7 traits, with intervals. The method's advantage rests on
   point estimates from one judge and one seed on Qwen2.5-7B, with a Llama
   replication and judge checks on 4 traits. The sharp edges: injection
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Kang et al. (2026), LIT-tmpi20ed, read in NOTE-tmp80eb1 from arXiv v3.
+Kang et al. (2026), [LIT-tmpi20ed](../literature.d/LIT-tmpi20ed.md), read in [NOTE-tmp80eb1](../notes.d/NOTE-tmp80eb1.md) from arXiv v3.
 
 ## What was actually shown
 

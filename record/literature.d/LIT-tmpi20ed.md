@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmp80eb1) from arXiv v3 (NeurIPS 2026), main text
+  read 2026-11-15 ([NOTE-tmp80eb1](../notes.d/NOTE-tmp80eb1.md)) from arXiv v3 (NeurIPS 2026), main text
   and most appendices. Worth reading for its account of why
   residual-stream persona steering loses coherence over multi-turn
   dialogue (steered states written to the KV cache are reused), and for
@@ -60,7 +60,7 @@ Attention-Level Interventions", NeurIPS 2026; arXiv:2605.10664.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp80eb1.*
+*From the reading, [NOTE-tmp80eb1](../notes.d/NOTE-tmp80eb1.md).*
 
 - **The failure.** "We identify KV-cache contamination as a key failure
   mode", and "Since prompt-only control remains stable under the same
@@ -79,8 +79,8 @@ Attention-Level Interventions", NeurIPS 2026; arXiv:2605.10664.
 ## Standing in the record
 
 Filed on 2026-11-15 at the owner's request. It attacks the steering
-method of Chen et al.'s Persona Vectors (LIT-1998, NOTE-1524), and bears
-on the record's multi-turn persona dynamics (LIT-1991, THEORY-1339,
-QUESTION-443) and on THEORY-1334. The recipe is machine-learning practice
+method of Chen et al.'s Persona Vectors ([LIT-1998](LIT-1998.md), [NOTE-1524](../notes.d/NOTE-1524.md)), and bears
+on the record's multi-turn persona dynamics ([LIT-1991](LIT-1991.md), [THEORY-1339](../theory.d/THEORY-1339.md),
+[QUESTION-443](../questions.d/QUESTION-443.md)) and on [THEORY-1334](../theory.d/THEORY-1334.md). The recipe is machine-learning practice
 and carries the `anthology-candidate` flag. Its account of how
 interventions persist through cached states is filed here.
