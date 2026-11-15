@@ -1,19 +1,14 @@
 ---
-status: Unfetched
+status: Active
 status_note: >-
-  registered 2026-11-15 at the owner's request from PubMed 41604328. The
-  article is open under CC BY-NC-ND 4.0 (Crossref licence from
-  2026-05-06), and the publisher's PDF is at
-  https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-112247?crawler=true&mimetype=application/pdf
-  (the PDF link Crossref deposits). On 2026-11-15 this session's
-  permission system refused the fetch, and it was not retried or worked
-  around ([ADR-074](../decisions.d/ADR-074.md)). PubMed Central did not hold it (ID converter:
-  "Identifier not found in PMC"), nor did Europe PMC. Only the abstract
-  (PubMed) is read. The host annualreviews.org is named in the curation
-  entry so that the owner can allow it; a copy the owner supplies also
-  returns the work to reading.
+  read in full 2026-11-15 (NOTE-tmp2cqm1) from the publisher's PDF (CC
+  BY-NC-ND 4.0), which the owner uploaded after this session's
+  permission system refused the fetch the same day. Worth reading as a
+  compact account of why biochemical function needs dissipation and of
+  the energy–speed–accuracy price of adaptation, the record's first
+  priced answer for QUESTION-452; its closing "law" is a schema.
 title: 'Nonequilibrium Thermodynamics for Biochemical Networks: Energetic Principles of Cellular Function'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
@@ -25,7 +20,18 @@ history:
     PubMed and Crossref (no email sent): Yuhai Tu, Annual Review of
     Biophysics 55(1), 225–252, journal article, review. `published:` is
     PubMed's electronic date, 2026-01-28. Crossref gives only the issue
-    date, 2026-05-06.
+    date, 2026-05-06. Status Unfetched: the publisher's open PDF at
+    https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-112247?crawler=true&mimetype=application/pdf
+    was refused by this session's permission system and not retried;
+    PubMed Central and Europe PMC held no copy.
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Unfetched → Active. The owner uploaded the publisher's PDF the same
+    day. It was read in full (NOTE-tmp2cqm1) and THEORY-tmper33k was
+    filed. Citation confirmed against the PDF: "First published as a
+    Review in Advance on January 28, 2026", which is `published:`. Summary
+    and body rewritten from the reading.
 tags:
 - natural-sciences
 - thermodynamics
@@ -45,16 +51,15 @@ keywords:
 - 'energy-performance trade-off'
 implementations: []
 summary: >-
-  Tu (2026), Annual Review of Biophysics. A review organized around two
-  questions: why free-energy dissipation enables or enhances biological
-  function, and how energetic cost constrains performance. It works
-  through kinetic proofreading, accurate sensory adaptation, ultrasensitive
-  responses and the synchronization of biochemical oscillators. It
-  highlights signatures of nonequilibrium behaviour and energy–performance
-  trade-offs, and closes by proposing "a nonequilibrium thermodynamic law
-  for living systems". Here because it prices function, and in particular
-  accuracy, in dissipation, which is what [QUESTION-452](../questions.d/QUESTION-452.md) asks of maintained
-  organization. Abstract only; every claim here is unverified until read.
+  Tu (2026), Annual Review of Biophysics. A pedagogical review: at
+  equilibrium a network's steady state is fixed by its free-energy
+  landscape, and dissipation lets kinetics set it. Proofreading,
+  ultrasensitivity, adaptation and the synchronization of molecular clocks
+  each need dissipation, adaptation and synchronization above a threshold,
+  and performance is bounded by cost. In a four-state model of adaptation
+  this is the energy–speed–accuracy relation Ẇ = c₁V_a ln(c₂A_a), checked
+  numerically on filing. The author proposes a law, Ẇ ≥ F(performance),
+  with F unspecified (NOTE-tmp2cqm1).
 ---
 
 <!-- inactive-ok-file: CLAIM-616 — Proposed; named as a synchronization claim the review bears on -->
@@ -68,51 +73,37 @@ CC BY-NC-ND 4.0.
 
 ## Key takeaways
 
-*From the abstract (PubMed), not a reading. Each item is the author's
-claim, unverified until the text is read.*
+*From the reading, NOTE-tmp2cqm1.*
 
-- **Two questions.** "First, why is free energy dissipation essential for
-  enabling or enhancing biological function? Second, how do energetic
-  costs constrain functional performance?"
-- **The examples.** "beginning with the classical kinetic proofreading
-  mechanism and extending to more recent examples such as accurate
-  sensory adaptation, ultrasensitive responses, and synchronization of
-  biochemical oscillators".
-- **What is drawn from them.** "the characteristic signatures of
-  nonequilibrium behavior and the emergence of fundamental
-  energy-performance trade-offs".
-- **The close.** "I conclude by proposing a nonequilibrium thermodynamic
-  law for living systems".
+- **Why dissipation.** "In equilibrium systems, steady-state
+  distributions are dictated solely by their free energy landscapes in
+  the state space; altering reaction rates affects only transient
+  dynamics, not their steady states" (p. 246).
+- **Proofreading.** The error is bounded by the driving free energy,
+  ηmin/η0 ≥ e^(−G0) (p. 230).
+- **Adaptation needs a minimum dissipation.** At equilibrium "adaptation
+  is impossible" (p. 239). It appears above a threshold of driving.
+- **Its price.** Ẇ = c₁V_a ln(c₂A_a): linear in speed, logarithmic in
+  accuracy (Eq. 39). A filer's check reproduced it to leading order, and
+  found accuracy saturating at a residual set by the network's
+  parameters.
+- **Synchronization of molecular clocks** costs dissipation beyond running
+  each clock, with a minimum (§4).
+- **A proposed law** for living systems: "Ẇ (= Ṡ) ≥ F (P1, P2, . . .)"
+  (Eq. 50). It is a schema until F is given.
 
 ## Standing in the record
 
-Filed on 2026-11-15 at the owner's request. Its nearest holdings:
+Filed and read on 2026-11-15 at the owner's request, from the owner's
+copy. Its main bearing is on QUESTION-452: the review prices the
+accuracy of a maintained steady state, not proportionally but
+logarithmically. It also shows that what dissipation buys is a state held
+independent of changing conditions. Beside the thermodynamic uncertainty
+relation (LIT-1885, THEORY-1268) it is a second price on a different
+precision. On synchronization (CLAIM-172, CLAIM-616) it adds that
+coupling noisy molecular clocks costs energy.
 
-- **[QUESTION-452](../questions.d/QUESTION-452.md)**, which asks whether keeping a maintained organization
-  precise costs dissipation in proportion to the precision, and whether
-  that cost separates organizations that persist from structures that
-  merely last. The review's energy–performance trade-offs are that
-  question's candidate answers for biochemical function.
-- **The thermodynamic uncertainty relation**, in Barato & Seifert
-  ([LIT-1885](LIT-1885.md)) and [THEORY-1268](../theory.d/THEORY-1268.md). It prices the precision of a current in
-  dissipation.
-- **Synchronization**: [CLAIM-172](../claims.d/CLAIM-172.md) and [CLAIM-616](../claims.d/CLAIM-616.md). The review's costed
-  synchronization of biochemical oscillators bears on them.
-
-What a reading should settle:
-
-- whether the "law for living systems" is a bound, a principle or a
-  conjecture;
-- whether the trade-offs are stated for a function's accuracy alone or
-  also for the maintenance of the network that performs it, which is
-  what [QUESTION-452](../questions.d/QUESTION-452.md) needs.
-
-**Neighbours, if the review stays out of reach.** Two of the author's
-own primary papers are open on arXiv and not held: Cao, Wang, Ouyang &
-Tu (2015), "The free energy cost of accurate biochemical oscillations"
-(arXiv:1506.05686), and Zhang, Cao, Ouyang & Tu (2020), "Nonequilibrium
-thermodynamics of coupled molecular oscillators" (arXiv:2001.10479). Lan,
-Sartori, Neumann, Sourjik & Tu (2012), on the energy–speed–accuracy
-trade-off in sensory adaptation, is not on arXiv. None has been read.
-
-**Priority for a reading: high** for [QUESTION-452](../questions.d/QUESTION-452.md).
+**Neighbours not read**: the author's primary papers, Lan et al. 2012 on
+the ESA relation, Cao et al. 2015 (arXiv:1506.05686) and Zhang et al.
+2020 (arXiv:2001.10479), are its sources for §§3.3 and 4. They are
+natural next readings if the synchronization results are to be checked.

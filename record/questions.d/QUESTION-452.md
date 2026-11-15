@@ -77,3 +77,13 @@ poor mark of maintenance.
   bound does not apply.
 - Either way, a comparison with a slowly decaying structure of the same
   state precision, showing whether the bound tells them apart.
+
+## Note of 2026-11-15: Tu, read
+
+Tu's review (LIT-tmp42zgt, NOTE-tmp2cqm1; THEORY-tmper33k) supplies, for one network, the first two things this question's answer asks for, though not for one of the record's own organizations.
+
+- **A maintained state that is a current.** In the four-state model of adaptation, "The adapted state is an NESS, which needs to be maintained by constantly consuming free energy" (p. 240), with a persistent current and a computed dissipation.
+- **A price on its precision, not proportional.** The energy–speed–accuracy relation, Ẇ = c₁V_a ln(c₂A_a), prices accuracy logarithmically and speed linearly. The filer reproduced it numerically to leading order, and found that accuracy saturates at a residual set by the network's parameters.
+- **The discrimination the question asks for, in a sharper form than precision.** An equilibrium network holds its steady state at no cost, but that state follows the input. What dissipation buys is a state held independent of changing conditions, and below a threshold of driving that cannot be had at all. On this showing, a structure that merely lasts can be precise; what it cannot do without dissipation is hold its state against changing conditions.
+
+The mapping of CLAIM-604's or CLAIM-516's organizations onto such a network is still missing. The question stays open.
