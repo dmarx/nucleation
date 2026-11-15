@@ -20,6 +20,7 @@ bears_on:
 - QUESTION-392
 corroborates:
 - CLAIM-567
+- CLAIM-663
 summary: >-
   Yue et al. (2025), LIT-tmpfmva5, read in NOTE-tmp4mog9. One intervention
   raises reliability and lowers reachability at a large sampling budget,

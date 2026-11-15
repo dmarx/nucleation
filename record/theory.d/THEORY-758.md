@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpm2oxc
 title: 'For a self-adjoint diffusion operator T with spectrum in [0, 1], the diffusion-wavelet levels are spectral subspaces spanned by the eigenvectors with λ^s ≥ ε for an increasing sequence of powers s, so they form an exactly nested chain of T-invariant subspaces whose differences are bands of the spectrum, about one octave each, not spatial blocks; Coifman and Maggioni''s compressed algorithm, which squares the operator on each orthonormal basis, thresholds T^{2^{j−1}} at level j and not T^{2^j−1} as the paper states; and since each level is T-invariant, each is an exactly closed linear coarse-graining whose localized basis is a choice the level does not fix'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -16,6 +16,13 @@ history:
     record's. Every step is re-derived below, which meets the condition for
     Active under ADR-047 v2. A numerical check on the paper's own circle
     example is reported with it.
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Bruna and Mallat (LIT-tmpfzpbg,
+    THEORY-tmpw4lo5) as a contrast. A linear multiscale decomposition gives
+    only covariance to translation; invariance needs a non-linearity. The
+    reading qualifies nothing here. No status change.
 tags:
 - mathematics
 - complex-systems
@@ -184,3 +191,9 @@ nesting could have needed the spectrum (it does not).
   an absolute threshold, and the nesting is the same fact.
 - **[CLAIM-164](../claims.d/CLAIM-164.md).** It is the reason the computed levels are stable only
   where the threshold falls in a gap.
+
+## Note of 2026-11-15: Bruna and Mallat, read
+
+<!-- inactive-ok-file: THEORY-tmpw4lo5 — Proposed; cited from the note of 2026-11-15 as a contrast -->
+
+Bruna and Mallat (LIT-tmpfzpbg, THEORY-tmpw4lo5) give the contrast this account's linearity invites. Both are multiscale wavelet constructions of about an octave a scale. The levels here are exactly closed linear coarse-grainings of a diffusion operator. Bruna and Mallat show that a linear multiscale decomposition is only covariant to translation: the integral of x ⋆ ψλ is zero for every x (§2.2), so invariance needs a non-linearity, the modulus, which moves energy toward lower frequencies. The reading qualifies nothing here. It marks what a linear coarse-graining cannot give: linear multiscale structure gives covariance, and invariance needs more. It is a contrast, not a rival, since both accounts can be right. No status change.

@@ -15,6 +15,8 @@ tags:
 date: '2026-11-15'
 source:
 - LIT-tmp7463t
+bounds:
+- CLAIM-tmp36o5i
 bears_on:
 - QUESTION-392
 - QUESTION-279

@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpc1el0
 paper: 'LIT-880'
 title: 'The Sparse Random Hierarchy Model'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -22,6 +22,14 @@ history:
     The networks' code and Petrini et al.'s CIFAR-10 study, from which
     Fig. 1A–B is adapted, were not read. LIT-877 and NOTE-677 were read
     first, so this note records what the sparse model adds.
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Bruna and Mallat's scattering networks, which
+    the Connections section calls not held, were registered and read on
+    2026-11-15 (LIT-tmpfzpbg, NOTE-tmp7az9p). The reading supports this
+    note's use of them as the deformation side, with two qualifications. The
+    reading above is unchanged.
 date: '2026-10-09'
 summary: >-
   Adds sparsity to the Random Hierarchy Model, so that labels are unchanged
@@ -224,3 +232,9 @@ acquires it from data.
 - Whether the invariances can be made to arrive at different sizes, for
   instance with non-uniform displacement probabilities, which would show
   whether they are one grouping or two.
+
+## Note of 2026-11-15: Bruna and Mallat, now held
+
+<!-- inactive-ok-file: THEORY-tmpw4lo5 — Proposed; cited from the note of 2026-11-15 as the account of the newly held reading -->
+
+The Connections section above says Bruna and Mallat's scattering networks are not held in the record. They are now: "Invariant Scattering Convolution Networks" was registered and read on 2026-11-15 (LIT-tmpfzpbg, NOTE-tmp7az9p). The reading supports this note's use of it as the deformation side of the sparse model: a cascade of fixed wavelets, modulus and averaging is translation invariant below a scale and, by a theorem stated from Mallat's "Group Invariant Scattering", Lipschitz-stable to small deformations (THEORY-tmpw4lo5). It qualifies it in two ways. The proof is in that later paper, which is unread. And the stability there is built into a designed architecture, where this paper asks when a network acquires it from data. Petrini et al.'s measurements are still not held. The reading above is unchanged. No status change.

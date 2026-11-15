@@ -93,3 +93,9 @@ checked by the filer: **supports** its premise case. In Zhu et al. the
 policy is told "the total and remaining budget" in the prompt, so its
 choices depend on the remaining budget; Pass@T for such a policy need not be
 monotone in T, and BudgetMix deliberately trains that dependence.
+
+## Note of 2026-11-15: the single-turn readings, read
+
+<!-- inactive-ok-file: THEORY-tmpmapw3 THEORY-tmp9rnyv THEORY-tmpxu3kz — Proposed; the single-turn readings of 2026-11-15, cited as an instance of the monotone case and as not bearing on the other, nothing here rests on them -->
+
+Brown et al. (THEORY-tmpmapw3) is the monotone case: independent attempts with the same prompt and hyperparameters, whose choices do not read the remaining budget, and coverage rises with k as the claim's proof says it must. As an instance the claim does not need, it corroborates the claim. Yue et al. (THEORY-tmp9rnyv) and ProRL (THEORY-tmpxu3kz) compare two processes at each k, not one process across budgets, so they neither support nor test the non-monotone case. No status change.

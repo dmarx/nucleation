@@ -14,6 +14,8 @@ tags:
 date: '2026-11-15'
 source:
 - LIT-tmpzdaep
+bears_on:
+- QUESTION-010
 summary: >-
   Kumar, Tan & Sharma (2022), LIT-tmpzdaep, read in NOTE-tmpqbu99, main
   text only. The theory is stated under strong conditions (frozen,

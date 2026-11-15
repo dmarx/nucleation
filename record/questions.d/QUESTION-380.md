@@ -156,3 +156,12 @@ A's review of the pull request that filed the DNA origami readings asks which ro
 ## Note of 2026-11-07: monotone predictors, from the second synthesis review
 
 The second synthesis review found the relational, interventional reading of this question held by [TERM-117](../terms.d/TERM-117.md), [CLAIM-599](../claims.d/CLAIM-599.md), [CLAIM-595](../claims.d/CLAIM-595.md) and [CLAIM-596](../claims.d/CLAIM-596.md), and the narrow point, that a predictor monotone in the established relations misclassifies wherever adding one can hurt, held by [CLAIM-599](../claims.d/CLAIM-599.md) with [CLAIM-562](../claims.d/CLAIM-562.md). It noted on [CLAIM-562](../claims.d/CLAIM-562.md) that UFI, the predictor this question's "What would answer it" names as an example, is itself monotone in the actuator set, so it cannot flag the supersets that lower the chance.
+
+## Note of 2026-11-15: a protected defect can trap, and a critical nucleus is unstable
+
+A in the continuation of the exchange "Explain String Theory" (A7) sets two localized objects side by side.
+
+- **The critical nucleus.** In a thin-wall droplet with ΔF(R) = 2πσR − πΔf R², the critical radius R_c = σ/Δf is an unstable maximum. It is productive because it is unstable.
+- **The topologically protected defect.** It may persist without catalyzing the target, or may pin an interface and block it, the field-theory form of the origami topological traps this question already holds.
+
+Persistence and nucleating productivity come apart (CLAIM-595), and a protected seed can be the lock-in this question warns of. A's proposed test is a field with a controllable bias, asking whether a parameter schedule escapes a trap no constant parameter escapes within the horizon (CLAIM-594). Not run. No status change.

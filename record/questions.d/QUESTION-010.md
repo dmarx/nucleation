@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpayxxf
 title: 'Can a reconstruction chain preserve information sufficient for one family of pragmatic tasks while progressively destroying the relations needed to support another?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,15 @@ history:
     nothing about A, is QUESTION-249, Answered by THEORY-281. The
     title is unchanged: it asks about chains and relations, which that
     answer does not reach.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Elazar et al. §7.1 (a chain restoring what one
+    step erased) and Fel, Kowal et al. §6 (a concept regrowing along the
+    readout's core directions, so a refit destroys the core task) bear on
+    the chain form of the question; Kumar, Tan & Sharma give a third
+    one-step case. None poses two task families with relations. The question
+    is unchanged.
 tags:
 - information-theory
 - philosophy-of-language
@@ -79,3 +88,14 @@ of finite support. Its answer, the cap H(X|A) and when a map reaches it,
 is [QUESTION-249](QUESTION-249.md), Answered. This question keeps what it leaves: a
 chain rather than one step, and relations a task family needs rather than
 a categorical label. [THEORY-199](../theory.d/THEORY-199.md) (Proposed) still points here.
+
+## Note of 2026-11-15: erasure along a network, Elazar §7.1 and Goodfire §6
+
+<!-- inactive-ok-file: THEORY-tmpi5d5l THEORY-tmp2ly83 NOTE-tmp88irq THEORY-tmpfrtac THEORY-199 — Proposed or Skimmed; the erasure readings of 2026-11-15 and the earlier partial answer, cited as bearing on the chain form, none answers it -->
+
+Two readings of 2026-11-15 bear on the chain form of this question. Neither answers it.
+
+- **Elazar et al. (2021), §7.1** (LIT-tmp52idf, THEORY-tmpi5d5l). Coarse POS information removed by INLP at one of BERT's first seven layers is "highly recoverable in subsequent layers". The word-prediction cost is 5.72–12.69 points there, against 16.57–46.39 in the second half. This is the reverse of the question's direction: a chain can restore what one of its steps erased, from correlates left behind. The masked setting reverses the layer trend.
+- **Fel, Kowal et al. (2026), §6** (LIT-tmp40uoi, THEORY-tmp2ly83). Under a fixed projection at one layer, with training continued, the concept regrows along "the direction the head already uses to read the core features". A refit made early in the rebuild then removes core directions, and "accuracy falls close to chance". This is a chain, in depth and in training time, where what is kept for one task and what is destroyed for another trade places. It is a learning dynamic, not a fixed reconstruction chain, and the paper was skimmed (NOTE-tmp88irq).
+
+Kumar, Tan & Sharma (LIT-tmpzdaep, THEORY-tmpfrtac) give a third one-step case, beside THEORY-281 and THEORY-199. Removal aimed at a concept destroys a main task that shares its directions. All three readings use learned, mostly linear operators. None poses two task families with relations, as the question asks. No status change.

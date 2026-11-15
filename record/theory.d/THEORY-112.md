@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkd2ju
 title: 'Aligning independently trained solutions over the architecture''s symmetries removed the linear barrier between them for MNIST MLPs and 32×-wide ResNet-20s on CIFAR-10, two-thirds of it for an ImageNet ResNet-50, and not all of it for VGG-16 or ResNet-20 at 1× width, the barrier after weight matching falling with width; for 6- to 8-layer ViTs and GPT-2s, permutations alone removed 63–90% of it, and adding an orthogonal map on the residual stream, learned against the loss at the path''s midpoint, took it to zero or near zero except on BookCorpus (0.42)'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -32,6 +32,15 @@ history:
     function-preserving symmetries ... Two networks related by a
     permutation of units or a blow-up ... are not covered". First
     application of the bounds relation (ADR-094). No other change.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: OrthoMerge's orthogonal matrices are the
+    adaptation itself, not a function-preserving symmetry, and OSRM's
+    orthogonality is a third sense; FREE-Merging's Fourier spectrum over the
+    row and column grid is changed by the permutations this account aligns
+    over, while singular-value quantities are not. No relation added. No
+    status change.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -225,3 +234,14 @@ suggested, and is [QUESTION-317](../questions.d/QUESTION-317.md)'s:
   leaves out. This is for the coordinator to report there; the anthology is
   not edited from here.
 <!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+
+## Note of 2026-11-15: orthogonal and spectral quantities in merging that are not this symmetry
+
+<!-- inactive-ok-file: THEORY-tmps59yn THEORY-tmp3lla6 THEORY-tmp6ikb6 THEORY-tmpqv3ve — Proposed; the merging readings of 2026-11-15, cited to keep their senses apart from this account's, not as evidence for or against it -->
+
+Two merging readings of 2026-11-15 use words or quantities that must not be read as this account's.
+
+- **OrthoMerge's "orthogonal" is not a symmetry.** Orthogonal Model Merging, LIT-tmpspkpa (THEORY-tmps59yn), also merges models through orthogonal matrices. Here the orthogonal map on the residual stream is a function-preserving symmetry: applied to one network with its inverse downstream, it leaves the function unchanged and is used only to align two independently trained networks before interpolating. In OrthoMerge the orthogonal matrix is the adaptation itself: a fine-tuned layer is R W0, which computes something different from W0, and merging averages such rotations' generators in so(d) by the inverse Cayley transform. Its models share one base and nothing is aligned, so it says nothing about barriers. A third sense is OSRM's (LIT-tmpwnkv8): orthogonality of one LoRA's input subspace to another task's features.
+- **A quantity that this symmetry breaks.** Zheng & Wang's FREE-Merging (LIT-tmppnktu, THEORY-tmp3lla6) Fourier-transforms weight updates over their row and column index grid. Permuting hidden units, which preserves the function, changes that spectrum, so the method is defined only for models sharing one layout, as models from one pretrained start do. Singular-value quantities (THEORY-tmp6ikb6, THEORY-tmpqv3ve) are unchanged by such permutations.
+
+Neither reading is evidence for or against this account. No status change.

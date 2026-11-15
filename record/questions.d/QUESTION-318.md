@@ -45,3 +45,17 @@ fails for many-model averages. An approximate version of Zhou et al.'s
 Theorem 1, bounding the feature error by the size of the
 weak-additivity and commutativity residuals, would also move it. More
 pairwise image-classifier measurements would not.
+
+## Note of 2026-11-15: Zhou et al. (2024) and Zhu (2026), read
+
+<!-- inactive-ok-file: THEORY-tmpjlixb THEORY-tmpqakuv THEORY-tmpkfmi5 — Proposed; the readings of 2026-11-15 that bear on this question, cited as partial evidence, none answers it -->
+
+Two readings of 2026-11-15 answer parts of both halves; neither half is settled.
+
+**Layerwise half.**
+- Zhou et al. (2024), "On the Emergence of Cross-Task Linearity in the Pretraining-Finetuning Paradigm", LIT-tmptiitv (THEORY-tmpjlixb), is the direct measurement this question asks for. They measure layerwise linearity, approximate equality and not only proportionality, in transformers (CLIP ViT-B/32 and L/14) and an encoder-decoder language model (T5-base, pooled features) connected by fine-tuning from a shared pretrained model, with no refuting pair reported. Most plots are of the last few blocks.
+- Zhu (2026), LIT-tmpdc2rl, read in NOTE-tmpsyjfz (THEORY-tmpqakuv), replicates cross-task linearity in decoder-only language models. In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.2 models from one base, "layerwise linearity cosines are 0.93–0.98 across every family" (§7). It is partial, for three reasons. The construction is a sum of task vectors added to the base, not an interpolation between two endpoints. Only the final prompt token is read. And the measure is a cosine, not THEORY-111's proportionality of interpolated to interpolated features. The same paper shows the small residual is causally effective on output non-additivity, so "nearly linear" is not "nothing interacting".
+
+**Averaging half.** Zhou et al.'s soups of 5 and 10 ViT-B/32 fine-tunes have averaged networks whose features approximate the members' average (all blocks for the ImageNet soup). Zhu's v3 six-vector merges, skimmed only, are many-model sums whose interaction grows with the number of vectors.
+
+**Not measured or not given.** SWA iterates; pairs connected by spawning or alignment outside image classification; an interpolation between language-model endpoints. Nor is the approximate version of Zhou et al.'s (2023) Theorem 1 given: Zhou et al.'s (2024) Theorem 5.1 bounds a scalar's deviation by sharpness times squared distance, not feature error by the weak-additivity and commutativity residuals. Ortiz-Jimenez et al. (THEORY-tmpkfmi5) give the tangent-space limit, where the output is exactly linear in the weights, but measure no layer features. No status change.

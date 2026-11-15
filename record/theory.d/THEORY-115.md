@@ -21,7 +21,7 @@ promote_when: >-
   will not settle it, because the continual endpoint's own loss on the
   earlier task explains most of the rise.
 title: 'Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
@@ -29,6 +29,13 @@ history:
     `presupposes: THEORY-114` declared (ADR-029). Connections already called
     that account the stable start this one presupposes; the directive that
     said nothing here rests on it is corrected.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Zhou et al. (2024), LIT-tmptiitv, are
+    consistent with this account and do not test it; their feature linearity
+    tracks the shared pretraining, not the overlap of the objectives. No
+    status change.
 tags:
 - loss-landscapes
 - information-geometry
@@ -174,3 +181,7 @@ largely explains. FedAvg models of one objective from one start ([LIT-666](../li
 show a barrier that grows with heterogeneity, so it is not shown that
 losing shared structure, rather than how the objective is optimised, is
 what breaks the connection.
+
+## Note of 2026-11-15: Zhou, Chen, Chen, Zhang & Yan (2024), read
+
+Consistent, not a test. Zhou et al., LIT-tmptiitv, take models fine-tuned on different tasks from one pretrained checkpoint as not linearly connected in loss, as this account predicts for objectives that share little. They do not measure a barrier against task overlap, and their pairs' loss on each other's tasks is the forgetting this account's promote_when asks to remove, so it gives no dose–response. One finding bears on what "shared structure" must mean: the features stay linear along the line whatever the similarity of the two fine-tuning tasks (Fig. 12), and more pretraining strengthens that linearity. Connectivity in features, unlike connectivity in loss, does not track the overlap of the objectives; it tracks the shared pretraining. No status change.

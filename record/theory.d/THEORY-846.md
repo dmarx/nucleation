@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgz4cf
 title: 'Information usable by a predictor restricted to a family V can be created by computing on the data, so the data-processing inequality fails for V-information: with Z the exclusive-or of two fair independent bits, linear and one-coordinate families extract nothing about Z from the pair and all of it from their exclusive-or; V-information computed from any function of the source is bounded by the source''s Shannon information when the family''s input-free predictions can match the marginal of the target, and can exceed it otherwise'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-21'
@@ -24,6 +24,13 @@ history:
     V-information "recovers CLAIM-199's rule-class case" and "has no cost
     of recovery", "one of the 'nearest existing tools', not an answer". No
     other change.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: the erasure readings of 2026-11-15 give
+    measured cases of information illegible to one family becoming legible
+    to a richer one or after further computation. They support the entry and
+    do not test it. No status change.
 tags:
 - information-theory
 - learning-theory
@@ -139,3 +146,7 @@ coordinate.
   way, and loses Blackwell's order for the same reason.
 - **[CLAIM-304](../claims.d/CLAIM-304.md)** is the opposite direction, computation that destroys usable
   information for efficient families while keeping it in principle.
+
+## Note of 2026-11-15: erasure for one family, recovery by another
+
+Erasure readings of 2026-11-15 give measured cases of this entry's point that usable information depends on the family and can be created by computation. After INLP, linear classifiers recover gender at chance and a one-hidden-layer MLP at 85.0% (LIT-tmp3i6ea). Information removed at one BERT layer is linearly decodable again at later layers (LIT-tmp52idf). In Goodfire's vision experiments, linear removal at one layer left only a nonlinear form there, and "Two layers later, however, the concept was linearly readable again" (LIT-tmp40uoi). These cases support the entry and do not test it: none measures V-information as defined. No status change.

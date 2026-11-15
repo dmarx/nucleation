@@ -60,3 +60,9 @@ From the reading in [NOTE-1769](../notes.d/NOTE-1769.md) ([LIT-2414](../literatu
 checked by the filer: **extends**: an independent group confirms boundary
 expansion along K for multi-turn RL and adds that the depth axis decides
 whether the gain appears.
+
+## Note of 2026-11-15: the single-turn readings, read
+
+<!-- inactive-ok-file: THEORY-tmp9rnyv THEORY-tmpr8g5y THEORY-tmppt44k THEORY-tmpxu3kz — Proposed; the single-turn readings of 2026-11-15, cited as this account's predecessors, nothing here rests on them -->
+
+Yue et al. (THEORY-tmp9rnyv) is the single-turn study whose question this account extends with an interaction-depth axis: there RLVR contracts the large-k boundary, here RL expands it on bridge questions. Both find the gain comes from reweighting strategies the base model already samples, which Meng et al. (THEORY-tmpr8g5y) measure at the token level and Balasubramanian and Kasiviswanathan (THEORY-tmppt44k) prove for a tilt of a fixed reference. ProRL (THEORY-tmpxu3kz) finds single-turn expansion after long training, largest where the start model was weak, which is consistent with expansion here appearing only where the second retrieval depends on the first. Whether Zhai et al. cite Yue et al. was not checked, so no `extends` is proposed between the LITs. No status change.

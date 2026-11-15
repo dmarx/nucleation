@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5d91s
 title: "A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,15 @@ history:
     longer carries realizability (ADR-085); it keeps
     distributed-agency, through QUESTION-085 and QUESTION-281. No
     other change.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Zhang et al. (2019) realize the topological
+    route in a buckled mechanical metamaterial, whose domain walls persist
+    only while a standing compression keeps the states degenerate. The
+    table's "How it ends" for the topological row should allow the lifting
+    of that constraint. A qualification of the sorting, not of the three
+    routes. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -179,3 +188,11 @@ sine-Gordon, kink and antikink "go through each other without any change in thei
 in φ4 they can collide into an oscillon (Fodor, [NOTE-1698](../notes.d/NOTE-1698.md), Ch. 1): opposite charges need not
 annihilate, and whether they do is a fact about the theory, not about topology. [THEORY-1507](../theory.d/THEORY-1507.md) stays
 Proposed, so the topological route still holds the claim. No status changes.
+
+## Note of 2026-11-15: Zhang et al. (2019), read: kinks that persist only under a standing compression
+
+<!-- inactive-ok-file: THEORY-tmpkqlfn — Proposed; the reading of 2026-11-15, cited as a qualification of the claim's table, nothing here rests on it -->
+
+Zhang, Li, Zheng, Genin and Chen (LIT-tmpzqudr, read in NOTE-tmpwjex5) build the topological route in a mechanical metamaterial. Compressed past a critical strain, each cell of a perforated elastomer buckles into one of two mirror rotations, and the walls between domains are the static kink–antikink lattice of the φ⁴ equation (THEORY-tmpkqlfn). Each wall is a topological defect between degenerate minima. But it persists only while the compression holds the double well: below the critical strain the cells are monostable and the walls are gone. With net charge "Q=0, which indicates each kink is followed by an antikink", no single kink is globally protected, and the walls' positions are held by lattice ("Perierls-Nabarro", sic) pinning.
+
+So the route's "charge that continuous change cannot remove" can depend on a standing constraint that keeps the degenerate states in existence. That constraint is not a supply, since nothing is consumed and no outflow is replenished. The claim's test of withdrawing the supply and measuring the outflow would class these walls with the internal-balance route: they show no outflow. Withdrawing the constraint ends them, as withdrawing a pump ends a dissipative soliton. The table's "How it ends" for the topological row should allow "when the constraint that makes the states degenerate is lifted" beside "by meeting an opposite charge, or at a boundary". The reading qualifies the claim's sorting. It does not contest the three routes. Its "topological" is the kink sense, not Kane–Lubensky polarization. No status change.

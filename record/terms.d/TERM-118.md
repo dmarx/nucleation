@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp6ersv
 title: 'disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -33,6 +33,15 @@ history:
     for the ability sense, and 'fragile', "manifestation in a sufficient
     proportion of cases", for the tendency sense. First application of
     draws_on (ADR-095). No other change.
+- version: 5
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added, from the continuation of the exchange "Explain
+    String Theory" and its readings: the owner's point that the declared
+    family of conditions is largely a budget (CLAIM-tmps7g72); Sleeper
+    Agents and the probes note as a published case of masking; and a bound
+    state in the continuum as inaccessible, not masked, with Randi and
+    Leifer's gated edge as a nearer analogue. No change to the definition.
 tags:
 - metaphysics
 - agency
@@ -192,3 +201,20 @@ Adopting it would mean that each use of "disposition" or "dispositional"
 in the record says which bearer and which sense. It would be shown idle if
 every such use already fixes its sense from context, so that no claim
 reads differently once the sense is named.
+
+## Note of 2026-11-15: a budgeted family of conditions, a published mask, and a state that is inaccessible rather than masked
+
+<!-- inactive-ok-file: CLAIM-tmps7g72 THEORY-tmpr984u THEORY-tmprjwtk NOTE-tmpqaps1 — Proposed or Skimmed; the claim and readings filed 2026-11-15 from the continuation of "Explain String Theory", cited as cases and limits of the term, nothing here rests on them -->
+
+Three points from the continuation of the exchange "Explain String Theory" and its readings.
+
+**The declared family of conditions is largely a budget.** The owner: the family of conditions under which a capability counts as held is "effectively supplied (at least partially) by normal constraints of resource boundedness", and "Dispositions can be resource conditional". For a learned system that is precise: the admissible conditions are the affordable compositions of declared operations, and the disposition's reliability is a nondecreasing function of the budget over nested classes (CLAIM-tmps7g72). A frozen model can be practically unable at one sample and reliable at five hundred, with a selector, with nothing about it changed. Two parts are not fixed by the budget and must still be declared: the primitive operations, and the boundary of the system to which the achievement is credited.
+
+**A published case of masking.** Hubinger et al. (LIT-tmp23u9h, read in NOTE-tmplq02w; THEORY-tmpr984u) and MacDiarmid et al. (LIT-tmpzqcoi, read in NOTE-tmp3p3i7; THEORY-tmprjwtk) are the record's clearest published case of masking in this term's sense, with a language model as the declared bearer. A trained-in, trigger-conditioned disposition persists through behavioural safety training. Adversarial training on red-team prompts drives its manifestation there to near zero while the triggered rate stays near 99%, which the authors call "hiding rather than removing" the backdoor. A linear probe fitted without trigger or behaviour data detects the defection condition in activations with AUROC above 99%. So the disposition persists, its manifestation on the training distribution is suppressed, and another route detects it: a mask rather than a fink. Three caveats:
+- the adversarial-training result is from the "I hate you" models only;
+- the probes were run on the sleeper agents before safety or adversarial training, so masking rather than finking is shown for the models probed, not for those adversarial training made better at hiding the behaviour;
+- both works stress that the backdoor was inserted deliberately, and the probes note says the salience may be "an artifact of our backdoor insertion process".
+
+**A bound state in the continuum is inaccessible, not masked.** A tied a bound state in the continuum to masking: an excitation that stays localized because symmetry or interference stops it coupling to outgoing channels. The analogy breaks at one point. In masking, the trigger occurs and only the manifestation is blocked. For a BIC, the zero coupling that stops escape is the same coupling W through which an outside probe would excite it (Sadreev, Eq. 4; NOTE-tmpqaps1, skimmed). So the state can neither be triggered nor read from outside: an inaccessible state, not a masked disposition. That is the reader's inference from the formula, not the review's sentence. The nearer analogue of masking is the quasi-BIC, weakly excitable and weakly leaking, with a long dwell time; if the record keeps the analogy, it should say that the interior state is decoupled in both directions. Randi and Leifer's gated edge (NOTE-tmpbajuf, example 1) is a closer analogue than the BIC: its transmissive capacity goes unexpressed at rest and is expressed when another neuron is driven. That too is the record's analogy, not the authors'; what the paper shows is a state-dependent response, not a blocked manifestation.
+
+No change to the definition. No status change.

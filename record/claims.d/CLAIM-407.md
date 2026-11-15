@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmppi0xf
 title: 'A coarse-graining exactly informationally closed under a process''s ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T''s fibres over the states of positive probability'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -30,6 +30,14 @@ history:
     TERM-068's sense 1, informational closure, I(X⃗_t; Z_{t+1} |
     Z⃗_t) = 0, the term written 'so that a claim using the word
     says which'. No other change.
+- version: 5
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added, from the continuation of the exchange "Explain
+    String Theory" (A8, A22): two small constructions of the claim's point,
+    a hidden mode that a frequency sweep cannot see and two cancelling
+    pathways (CASE-tmp6214r). They illustrate the claim and add nothing to
+    its weight. No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -242,3 +250,14 @@ like Γ, and whether the reduced model mispredicts light responses is not
 reported.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-15: two more witnesses, a hidden mode and cancelling pathways
+
+<!-- inactive-ok-file: CASE-tmp6214r — Proposed; the case filed from the continuation of "Explain String Theory", cited as an illustration, nothing here rests on it -->
+
+The continuation of the exchange "Explain String Theory" (A8, A22) gives two small constructions of the claim's point, both rechecked (scratch/formal/reconstruction_channel_checks.py).
+
+- **A hidden mode.** ẋ₁ = −x₁ + u, ẋ₂ = −3x₂ + x₁, y = x₁ has transfer function 1/(s + 1), the same as the one-state system. A full frequency sweep through the declared input and output cannot see x₂. Turn on feedback x₂ → x₁ with gain ε, and the transfer function becomes (s + 3)/((s + 1)(s + 3) − ε). The intervention on the mechanism separates what every ordinary experiment identified.
+- **Cancelling pathways** (CASE-tmp6214r). Two internal pathways h₁ = u and h₂ = −u, read through their sum, give zero under every query, as a system with neither does. Silencing one reveals the other.
+
+Both illustrate the claim. Neither adds to its weight, which rests on its own construction. No status change.

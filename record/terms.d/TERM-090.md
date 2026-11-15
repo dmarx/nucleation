@@ -7,7 +7,7 @@ complements:
 - TERM-093
 - TERM-091
 title: 'effective boundary constraint, of a composite: the relation its interconnected parts impose on the variables an outside system can reach, once the interior is eliminated; approximately instantaneous or history-dependent, and, independently, possibly of a kind the parts'' relations could not state'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -34,6 +34,15 @@ history:
     "by kind" axis: "v₁ = v₂ + v₃, which no pairwise sheaf on the boundary
     expresses". First application of draws_on (ADR-095). No other
     change.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Randi and Leifer's connected response kernel
+    (THEORY-tmpg7vbx) as an effective boundary relation by memory in a
+    neural network, and Sadreev's bound state in the continuum
+    (THEORY-tmpie1rb, skimmed) as an interior the boundary relation does not
+    record, as instances of the term, not readings its sense draws on, so
+    neither is added to draws_on (ADR-095). The definition is unchanged.
 tags:
 - compositionality
 - complex-systems
@@ -97,3 +106,14 @@ adoption if the claims cite it, as [CLAIM-480](../claims.d/CLAIM-480.md) and [CL
 is Willems's external behaviour ([LIT-1660](../literature.d/LIT-1660.md), unread); the term is filed for the
 distinctions above, which that name does not carry, and would be rejected if a
 reading of Willems showed they are his.
+
+## Note of 2026-11-15: two physical instances, a neural response kernel and a bound state in the continuum
+
+<!-- inactive-ok-file: THEORY-tmpg7vbx NOTE-tmpqaps1 THEORY-tmpie1rb — Proposed or Skimmed; the readings of 2026-11-15, cited as instances of the term -->
+
+Two readings filed on 2026-11-15 give the term instances outside mechanics and sheaves.
+
+- **By memory, in a neural network.** Randi and Leifer (LIT-tmp0mf8t, NOTE-tmpbajuf, THEORY-tmpg7vbx) eliminate a network's interior between two neurons and get a connected response kernel, "the resolvent kernel in Volterra integral equations", over the boundary neuron's history. In a nonlinear network it becomes two-time and state-dependent, and "In the linear and TTI case, F0,ij=G0,ijj, while they differ in a nonlinear system." One nonlinear hub synapse changes effective connections elsewhere with no change in any local coupling. That is the term's "effective, not fundamental", demonstrated. Their object is a linear response kernel about the current state, narrower than the term's projection of a behaviour.
+- **An interior the boundary does not record.** In an open cavity a bound state in the continuum is an interior mode with zero coupling W to every channel (Sadreev, LIT-tmpvudg9, NOTE-tmpqaps1, THEORY-tmpie1rb, skimmed). The scattering matrix, the composite's relation at its reachable ports, involves the interior only through W, on both sides (his Eq. 4), and at the BIC point the Fano resonance collapses. So two interiors, with and without the mode, present the same boundary relation. That the mode leaves no trace in S is the reader's reading of Eq. 4, not a sentence of the review.
+
+Neither changes the definition. No status change.

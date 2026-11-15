@@ -20,6 +20,7 @@ bears_on:
 corroborates:
 - CLAIM-567
 - CLAIM-576
+- CLAIM-654
 summary: >-
   Brown et al. (2024), LIT-tmp5ajtz, read in NOTE-tmpjbvav. Repeated
   sampling is a budget: it raises what the process reaches at some attempt
