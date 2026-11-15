@@ -6,8 +6,8 @@
 
 **Philosophy of technology** — what technology is and what it does to those who live with it — the autonomy of technique, technological determinism and the social shaping of technology, lock-in and practical compulsion, automation and deskilling, technical codes and the politics of artifacts, design that steers or captures its users, critical theory of technology and convivial tools. A technology's regulation stays with society-and-governance, a measured effect of one product with social-science and a verdict on what is owed with ethics, unless the work argues about technology as such; how software is built is software-engineering (group: philosophy; ADR-098).
 
-0 of 461 QUESTION documents. Back to the [full index](../README.md).
+1 of 465 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-465](../../../record/questions.d/QUESTION-465.md) | Can the standard that an arrangement, a technology among them, succeeds insofar as it widens people's substantive freedom to pursue worthwhile lives without domination be stated so that some outcome would count against it, and how are its parts weighed when capability, worth and non-domination conflict? | Raised from A's integrating claim in the exchange "Analyze technological civilization trap" (2026-11-13), "Convivial Modernity": "A civilization succeeds insofar as it enables human beings to exercise meaningful agency over their lives, cultivate their capacities, participate in relationships and communities they value, and collectively govern the systems upon which they depend" (A8), revised with Wolf (A9) and Sen (A10) toward "the substantive freedom to pursue worthwhile forms of life without unnecessarily concentrating domination" (A11, principle 10). The filing of 2026-11-13 found it an evaluative standard that no admission route reached: its pluralism absorbs every counterexample. The question asks whether it can be stated so that it could fail, and how its parts are weighed. The standard is A's; adopting it is the owner's call. | Open |

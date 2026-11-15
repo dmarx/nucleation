@@ -6,8 +6,8 @@
 
 **Withdrawing transient support** — when support that establishes or sustains a party can be withdrawn without its decline — supplied upkeep that never becomes optional, supply that does the party's work and lowers the capacity it keeps, a savings buffer as a stock of time, dependency against division of labour by who supplies, and independence from what founded an organization against independence from what feeds it; split from readiness (ADR-087).
 
-0 of 100 ARG documents. Back to the [full index](../README.md).
+1 of 109 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-105](../../../record/arguments.d/ARG-105.md) v2 | Gardner's objection that Sen gives no argument for preferring capability to achievement qualifies the framing of the claim that support must be assessed by the capability trajectory it produces, and leaves its derivation standing, which holds for achieved functionings as well | Gardner's critique of Sen ([THEORY-1850](../../../record/theory.d/THEORY-1850.md), read 2026-11-13) as bearing on [CLAIM-675](../../../record/claims.d/CLAIM-675.md). Contested support: the claim is framed in Sen's capability terms, and Gardner finds Sen's preference for capability over achieved functioning asserted, not argued. The claim's derivation does not depend on that preference: in [CLAIM-605](../../../record/claims.d/CLAIM-605.md)'s model the two supports also leave the same achieved functioning now and different achieved functioning later. So the objection qualifies the claim's vocabulary, not its conclusion. Proposed. | Proposed |

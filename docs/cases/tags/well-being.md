@@ -6,8 +6,8 @@
 
 **Well-being** — how well a life goes for the one living it, as psychology measures it — subjective and eudaimonic well-being, flourishing, vitality and meaning in life, and what predicts them (ADR-025).
 
-0 of 257 CASE documents. Back to the [full index](../README.md).
+1 of 263 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-263](../../../record/cases.d/CASE-263.md) | Regressive progress, a stipulated pair: an innovation that raises national output by fifteen per cent while raising economic insecurity, concentrating institutional power and reducing workers' room for independent judgment, and a medical advance that needs complex infrastructure and adds dependence while greatly reducing suffering; a standard of progress is tested by whether it ranks the first below and the second above | A's, from A8 §XII of the exchange "Analyze technological civilization trap" (2026-11-13), "The possibility of regressive progress". Two stipulated innovations pull standards of progress apart: growth ranks the first as progress; a rule that counts added dependence as regression ranks the second as regress. A ranks the first as not decisively progress and the second as "a tremendous advance in human freedom", because it "judges technology by the forms of life and distributions of power it makes possible—not simply by its complexity". [QUESTION-465](../../../record/questions.d/QUESTION-465.md) asks for a statement of the standard against which some outcome would count; this pair is a test any such statement must pass, and it separates the standard from growth and from anti-dependence. It does not show how the standard weighs a case where its own parts conflict. The wording is A's; adopting it is the owner's call. | Proposed |

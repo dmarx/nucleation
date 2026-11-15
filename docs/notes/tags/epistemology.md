@@ -4,7 +4,7 @@
 
 **epistemology**.
 
-79 of 1902 NOTE documents. Back to the [full index](../README.md).
+81 of 1949 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -87,3 +87,5 @@
 | [NOTE-1878](../../../record/notes.d/NOTE-1878.md) | de Kleer and Williams — Diagnosis with Behavioral Modes | Model-based diagnosis that uses only correct-behaviour models identifies faulty components without knowing how they fail, but treats unlikely faults as seriously as likely ones. Sherlock extends GDE so that each component has a set of behavioural modes (good modes, known fault modes, and an "unknown" mode that predicts nothing and so never conflicts with evidence), with prior probabilities. Diagnosis becomes identifying the most probable mode assignment. | Read |
 | [NOTE-1886](../../../record/notes.d/NOTE-1886.md) | Doyle — A Glimpse of Truth Maintenance | The TMS records, for each belief (node), the reasons (justifications) for it, and keeps the set of current beliefs consistent with those reasons. A node is believed (in) if at least one of its justifications is valid, out otherwise. An SL-justification is valid when every node in its in-list is in and every node in its out-list is out; a non-empty out-list makes the node an assumption, believed because something else is not. | Read |
 | [NOTE-1893](../../../record/notes.d/NOTE-1893.md) | Fuentes (2016) — Dispossessed Lives: Enslaved Women, Violence, and the Archive | Fuentes set out to write about enslaved women's lives in colonial Bridgetown, Barbados, and found only records made by owners, courts, executioners and newspapers, in which the women appear as fragments. The book turns the absence into its subject: the archive's violence and the discipline's demand for sources together produce erasure, and the historian must write "about what an archive does not offer". | Skimmed |
+| [NOTE-1936](../../../record/notes.d/NOTE-1936.md) | Postman (1992) — Technopoly, chapter 1 "The Judgment of Thamus" | In chapter 1 Postman holds that every technology is both a burden and a blessing, that it carries an ideological bias that silently redefines a culture's central words, and that its effects are ecological, so that a new technology changes everything around it; he names the culture this produces Technopoly. | Skimmed |
+| [NOTE-1945](../../../record/notes.d/NOTE-1945.md) | Postman (1998) — Five Things We Need to Know About Technological Change | Postman's five ideas: every technology is a trade-off; its advantages and disadvantages are unevenly distributed; it embeds an idea; its change is ecological; and it tends to become mythic. Its consequences are vast, unpredictable and largely irreversible. | Read |

@@ -6,7 +6,7 @@
 
 **Epistemology** — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
 
-74 of 1824 THEORY documents. Back to the [full index](../README.md).
+75 of 1867 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -84,3 +84,4 @@
 | [THEORY-1778](../../../record/theory.d/THEORY-1778.md) | De Kleer (1986) proposes that a truth maintenance system label each datum with the minimal sets of assumptions from which the recorded justifications derive it, so that the database need not be consistent, contradictions only mark assumption sets as inconsistent, rival contexts can be examined together, and retraction is done by contradicting an assumption rather than deleting a justification | The central account of [LIT-2320](../../../record/literature.d/LIT-2320.md), read in [NOTE-1810](../../../record/notes.d/NOTE-1810.md). Proposed until its promote_when is met. | Proposed |
 | [THEORY-1797](../../../record/theory.d/THEORY-1797.md) | Leitgeb and Carus (SEP, 2020, revised 2026) present Carnap's philosophy as conceptual engineering, in which concepts are replaced by explication under desiderata of similarity, exactness, fruitfulness and simplicity held as matters of degree, and the choice of a linguistic framework is a practical question judged by how well the framework serves its purposes rather than by truth | The central account of [LIT-2322](../../../record/literature.d/LIT-2322.md), skimmed in [NOTE-1827](../../../record/notes.d/NOTE-1827.md). Proposed until its promote_when is met. | Proposed |
 | [THEORY-1813](../../../record/theory.d/THEORY-1813.md) | Fuentes argues that the archive of Caribbean slavery was produced by the violence it records, so that enslaved women survive in it only as fragments shaped by owners, courts and abolitionist discourse, and that a historical method requiring a sufficient documentary base reproduces their erasure; the historian must write about what the archive does not offer | Fuentes (2016), skimmed in [NOTE-1893](../../../record/notes.d/NOTE-1893.md) (a permitted excerpt and an interview). The archive as a product of the violence it records. | Proposed |
+| [THEORY-1840](../../../record/theory.d/THEORY-1840.md) | Postman holds that technological change is a trade-off whose costs and benefits fall unevenly, that each technology carries an ideological bias that reshapes a culture's terms, that its effects are ecological, vast, often unpredictable and largely irreversible, and that technologies become mythic, accepted as natural and hard to control |  | Proposed |

@@ -88,3 +88,7 @@ sampled networks did.
 - **For irreversible models.** With one-way reactions the affinity is
   infinite and the bound is trivially met. A model like [CASE-189](../cases.d/CASE-189.md)'s
   must be made reversible before the bound bites.
+
+## Note of 2026-11-15: Tu, read
+
+Tu's review ([LIT-2547](../literature.d/LIT-2547.md), [NOTE-1904](../notes.d/NOTE-1904.md)) gives a second, model-specific price on precision, for a different quantity. This entry prices the precision of a counted current: relative uncertainty ε costs at least 2k_BT/ε². Tu's energy–speed–accuracy relation, Ẇ = c₁V_a ln(c₂A_a), prices the accuracy of an adapted steady state against changing input: at fixed speed, accuracy 1/ε costs only logarithmically. The two do not conflict, since they bound different quantities, but the review does not mention this entry's relation. It bears on [QUESTION-452](../questions.d/QUESTION-452.md), where the question is which of the two is the price of keeping an organization's state. The entry is unchanged.
