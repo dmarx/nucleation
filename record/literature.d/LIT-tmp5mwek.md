@@ -85,7 +85,7 @@ arXiv:2101.07049.
 ## Standing in the record
 
 Filed on 2026-11-14 as Sun et al.'s ref. 34. That paper
-(LIT-tmpruadv, THEORY-tmplznge) models shrubs and grasses with competition and
+([LIT-tmpruadv](LIT-tmpruadv.md), [THEORY-tmplznge](../theory.d/THEORY-tmplznge.md)) models shrubs and grasses with competition and
 facilitation kernels, and calls its mechanism a scale-dependent feedback.
 This review is the yardstick for that label: it says competition alone
 makes the patterns, and that matching pattern geometry cannot identify a

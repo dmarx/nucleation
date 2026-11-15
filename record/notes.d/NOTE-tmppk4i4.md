@@ -131,7 +131,7 @@ Ashwin et al. ([LIT-1654](../literature.d/LIT-1654.md)).
   state (Fig. 10) and a lasting shift after brief forcing (Fig. 4). The
   paper adds that the converse also holds: alternative stable states do
   not imply an abrupt change. Dated note filed.
-- **Sun et al. (2026)** (LIT-tmpruadv, NOTE-tmpmu9w0, THEORY-tmplznge).
+- **Sun et al. (2026)** ([LIT-tmpruadv](../literature.d/LIT-tmpruadv.md), [NOTE-tmpmu9w0](NOTE-tmpmu9w0.md), [THEORY-tmplznge](../theory.d/THEORY-tmplznge.md)).
   - Different objects share one name. Here fairy circles are bare gaps in
     single-species grass; in Sun et al. they are hollow shrub rings in
     grass.
