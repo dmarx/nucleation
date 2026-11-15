@@ -227,8 +227,8 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   a component by a relation or a mention; each reaches the line through a
   reading that [CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-601](../claims.d/CLAIM-601.md), [CLAIM-602](../claims.d/CLAIM-602.md) or [CLAIM-603](../claims.d/CLAIM-603.md) cites, and
   they are listed because their `line` field places them here.
-- CLAIM-669 and CLAIM-670, A's; thesis, interpretive, Proposed. CLAIM-671,
-  the owner's proposition; supposed, interpretive, Proposed. CLAIM-673,
+- [CLAIM-669](../claims.d/CLAIM-669.md) and [CLAIM-670](../claims.d/CLAIM-670.md), A's; thesis, interpretive, Proposed. [CLAIM-671](../claims.d/CLAIM-671.md),
+  the owner's proposition; supposed, interpretive, Proposed. [CLAIM-673](../claims.d/CLAIM-673.md),
   A's; thesis, interpretive, Proposed. All four have
   organizational-normativity first; added at version 6.
 
@@ -258,43 +258,43 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 
 Added at version 6. Four claims of the organizational-normativity line
 carry transient-support second; that line's part accounts set them out
-in full (SYNTHESIS-tmpc1ohg, SYNTHESIS-tmpn88bi). Each link here is a
+in full ([SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md), [SYNTHESIS-tmpn88bi](SYNTHESIS-tmpn88bi.md)). Each link here is a
 front-matter relation of the entry named first, unless a body is cited.
 
-- **Supply that produces a reliance, and uses it.** CLAIM-670 (A's,
-  "About Plantation Paradise", filed at the owner's review of #488;
-  thesis, interpretive, Proposed) rests on CLAIM-603, bears on
-  QUESTION-461 and complements CLAIM-669: by reliably supplying what a
+- **Supply that produces a reliance, and uses it.** [CLAIM-670](../claims.d/CLAIM-670.md) (A's,
+  "About Plantation Paradise", filed at the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488);
+  thesis, interpretive, Proposed) rests on [CLAIM-603](../claims.d/CLAIM-603.md), bears on
+  [QUESTION-461](../questions.d/QUESTION-461.md) and complements [CLAIM-669](../claims.d/CLAIM-669.md): by reliably supplying what a
   party then ceases to supply for itself, an arrangement "creates a
   reliance on the provider that the party did not have before", which the
   provider can use to set terms the party could earlier have refused. Its
   defeater sets aside "a produced reliance on fair terms, which is
-  CLAIM-603's division of labour and not exploitation". Its summary: "No
+  [CLAIM-603](../claims.d/CLAIM-603.md)'s division of labour and not exploitation". Its summary: "No
   reading supports it yet."
-- **An encumbrance left by access.** CLAIM-669 (A's, narrowed after a
-  reading; thesis, interpretive, Proposed) bears on QUESTION-461 and
-  complements CLAIM-670: access to a needed good on terms that leave a
+- **An encumbrance left by access.** [CLAIM-669](../claims.d/CLAIM-669.md) (A's, narrowed after a
+  reading; thesis, interpretive, Proposed) bears on [QUESTION-461](../questions.d/QUESTION-461.md) and
+  complements [CLAIM-670](../claims.d/CLAIM-670.md): access to a needed good on terms that leave a
   lasting encumbrance that narrows later exit, so that widening access
-  need not reduce exploitation. Its defeater cites CLAIM-603's division of
+  need not reduce exploitation. Its defeater cites [CLAIM-603](../claims.d/CLAIM-603.md)'s division of
   labour as not exploitation.
-- **Vulnerability, not integration.** CLAIM-671 (the owner's proposition
-  in the review of #488; supposed, interpretive, Proposed) bears on
-  QUESTION-460: a transformation that increases a constituent's
+- **Vulnerability, not integration.** [CLAIM-671](../claims.d/CLAIM-671.md) (the owner's proposition
+  in the review of [#488](https://github.com/dmarx/nucleation/issues/488); supposed, interpretive, Proposed) bears on
+  [QUESTION-460](../questions.d/QUESTION-460.md): a transformation that increases a constituent's
   vulnerability to a responsible agent's discretion can, under an
   independently justified principle, strengthen that agent's
-  responsibilities. Its body names CLAIM-603 as one route by which a
+  responsibilities. Its body names [CLAIM-603](../claims.d/CLAIM-603.md) as one route by which a
   transformation can increase vulnerability, "not the mechanism".
-- **An arrangement that erodes the capacity to govern it.** CLAIM-673 (A's,
+- **An arrangement that erodes the capacity to govern it.** [CLAIM-673](../claims.d/CLAIM-673.md) (A's,
   "Analyze technological civilization trap"; thesis, interpretive,
-  Proposed) rests on CLAIM-605 and complements CLAIM-462 and CLAIM-675:
+  Proposed) rests on [CLAIM-605](../claims.d/CLAIM-605.md) and complements [CLAIM-462](../claims.d/CLAIM-462.md) and [CLAIM-675](../claims.d/CLAIM-675.md):
   where governing capacities are learned by exercise and lost with
   disuse, and the arrangement does the work through which they are
   exercised, it can erode them. Its summary: that governing capacities are
-  of CLAIM-605's kind "is the premise A assumes and the claim makes a
+  of [CLAIM-605](../claims.d/CLAIM-605.md)'s kind "is the premise A assumes and the claim makes a
   condition".
 
-**Left out, with the reason.** CLAIM-675 (transient-support first) and
-QUESTION-462 (flourishing-and-meaning first), filed on 2026-11-13 from the
+**Left out, with the reason.** [CLAIM-675](../claims.d/CLAIM-675.md) (transient-support first) and
+[QUESTION-462](../questions.d/QUESTION-462.md) (flourishing-and-meaning first), filed on 2026-11-13 from the
 same exchange, carry this line and are integrated by no account. The
 review of 2026-11-15 covered the organizational-normativity line and the
 accounts its entries fall in, and did not audit them; they are for this

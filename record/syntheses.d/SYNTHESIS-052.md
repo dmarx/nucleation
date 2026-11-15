@@ -134,12 +134,12 @@ of them; the Superseded [SYNTHESIS-005](SYNTHESIS-005.md) listed [CASE-142](../c
   intends to, and "whose agency does the wrong run through?" Its cases
   are a learning system and a state's network of channels.
 - **Divergence from what members would endorse.** Added at version 2.
-  QUESTION-464 (raised from A's "emergent purpose divergence", A20 §I of
+  [QUESTION-464](../questions.d/QUESTION-464.md) (raised from A's "emergent purpose divergence", A20 §I of
   "Analyze technological civilization trap", 2026-11-13; Open; also
   organizational-normativity) asks, when an organized whole's trajectory is
   said to diverge from the purposes its constituents would endorse, which
   procedure of evaluation fixes those purposes. Its body: "The descriptive
-  half is held: CLAIM-030", and what A adds is the comparison with what the
+  half is held: [CLAIM-030](../claims.d/CLAIM-030.md)", and what A adds is the comparison with what the
   members "would endorse under an appropriate procedure", which A does not
   name.
 
@@ -313,8 +313,8 @@ of them; the Superseded [SYNTHESIS-005](SYNTHESIS-005.md) listed [CASE-142](../c
   promotion conditions, Open; refine [QUESTION-047](../questions.d/QUESTION-047.md).
 - [QUESTION-315](../questions.d/QUESTION-315.md), a moved promotion condition, Open; no relation, names
   [QUESTION-047](../questions.d/QUESTION-047.md) in its body.
-- QUESTION-464, raised from A's term, Open; also organizational-normativity;
-  no relation, names CLAIM-030 in its body.
+- [QUESTION-464](../questions.d/QUESTION-464.md), raised from A's term, Open; also organizational-normativity;
+  no relation, names [CLAIM-030](../claims.d/CLAIM-030.md) in its body.
 
 ## Links the components state, and where
 
@@ -370,7 +370,7 @@ whole and the belief thread ([CLAIM-030](../claims.d/CLAIM-030.md) and [QUESTION
 [QUESTION-047](../questions.d/QUESTION-047.md)). None joins the person's thread and the belief thread
 directly.
 
-Added at version 2: QUESTION-464 names CLAIM-030 in its body, and CLAIM-030
+Added at version 2: [QUESTION-464](../questions.d/QUESTION-464.md) names [CLAIM-030](../claims.d/CLAIM-030.md) in its body, and [CLAIM-030](../claims.d/CLAIM-030.md)
 names it in turn.
 
 ## Links across to the sibling parts, stated

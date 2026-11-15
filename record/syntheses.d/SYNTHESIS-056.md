@@ -120,7 +120,7 @@ integrates:
 - CASE-247
 - CASE-257
 ---
-<!-- inactive-ok-file: CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-662 CLAIM-669 CLAIM-682 CLAIM-686 CASE-246 CASE-247 CASE-257 SYNTHESIS-tmpvdeqh SYNTHESIS-tmpc1ohg — Proposed; components and citations added at version 3, with their standing -->
+<!-- inactive-ok-file: CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-662 CASE-246 CASE-247 CASE-257 SYNTHESIS-tmpvdeqh SYNTHESIS-tmpc1ohg — Proposed; components and citations added at version 3, with their standing -->
 <!-- inactive-ok-file: QUESTION-253 — Answered; cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ARG-025 ARG-048 ARG-055 ARG-063 ARG-064 ARG-066 ARG-073 CASE-163 CASE-164 CASE-166 CASE-173 CASE-177 CASE-194 CASE-221 CASE-222 CASE-223 CASE-228 CASE-229 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-327 CLAIM-329 CLAIM-332 CLAIM-336 CLAIM-355 CLAIM-415 CLAIM-417 CLAIM-423 CLAIM-430 CLAIM-432 CLAIM-440 CLAIM-445 CLAIM-446 CLAIM-451 CLAIM-472 CLAIM-511 CLAIM-545 CLAIM-553 CLAIM-610 CLAIM-611 CLAIM-614 CLAIM-615 CLAIM-619 CLAIM-620 CLAIM-622 CLAIM-624 SYNTHESIS-020 SYNTHESIS-025 SYNTHESIS-035 SYNTHESIS-038 SYNTHESIS-039 SYNTHESIS-041 SYNTHESIS-044 TERM-063 TERM-080 TERM-081 TERM-083 TERM-086 THEORY-916 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-047 — Rejected; components and citations, with their standing -->
@@ -343,50 +343,50 @@ includes distributed-agency.*
 ### Becoming less informed, and dependence that does not become authority
 
 Added at version 3. Each component is also in organizational-normativity,
-and SYNTHESIS-tmpvdeqh or SYNTHESIS-tmpc1ohg sets it out there.
+and [SYNTHESIS-tmpvdeqh](SYNTHESIS-tmpvdeqh.md) or [SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md) sets it out there.
 
-- **Two routes to being less informed.** CLAIM-652 (the assistant's,
+- **Two routes to being less informed.** [CLAIM-652](../claims.d/CLAIM-652.md) (the assistant's,
   accepted by the owner on 2026-11-12; thesis, demonstrated, Proposed;
-  first line organizational-normativity) rests on CLAIM-655, grounds in
-  CASE-246, bears on QUESTION-441 and complements CLAIM-662 and CLAIM-619:
+  first line organizational-normativity) rests on [CLAIM-655](../claims.d/CLAIM-655.md), grounds in
+  [CASE-246](../cases.d/CASE-246.md), bears on [QUESTION-441](../questions.d/QUESTION-441.md) and complements [CLAIM-662](../claims.d/CLAIM-662.md) and [CLAIM-619](../claims.d/CLAIM-619.md):
   an organization that weighs a harmful practice by the failures its
   present users report "can expand the practice with no act against
-  complaint", as the harmed leave. CASE-246 (the assistant's toy;
+  complaint", as the harmed leave. [CASE-246](../cases.d/CASE-246.md) (the assistant's toy;
   stipulated, Proposed; first line organizational-normativity) illustrates
-  CLAIM-655. CLAIM-662 (A's, narrowed by the owner's review of #485; thesis,
+  [CLAIM-655](../claims.d/CLAIM-655.md). [CLAIM-662](../claims.d/CLAIM-662.md) (A's, narrowed by the owner's review of [#485](https://github.com/dmarx/nucleation/issues/485); thesis,
   demonstrated, Proposed; first line organizational-normativity) rests on
-  CLAIM-347 and bears on QUESTION-441 and QUESTION-456: where governance
+  [CLAIM-347](../claims.d/CLAIM-347.md) and bears on [QUESTION-441](../questions.d/QUESTION-441.md) and [QUESTION-456](../questions.d/QUESTION-456.md): where governance
   penalizes newly recognized violations without rewarding their discovery,
   an organization "may acquire an incentive not to improve its
-  identification of its obligations". QUESTION-456 (A's; Open; first line
-  organizational-normativity) refines QUESTION-129. CLAIM-657 (the
-  owner's, from the review of #485; thesis, interpretive, Proposed; first
-  line organizational-normativity) rests on CLAIM-652 and CLAIM-662 and
-  complements CLAIM-619 and CLAIM-624: the two routes need no deliberate
+  identification of its obligations". [QUESTION-456](../questions.d/QUESTION-456.md) (A's; Open; first line
+  organizational-normativity) refines [QUESTION-129](../questions.d/QUESTION-129.md). [CLAIM-657](../claims.d/CLAIM-657.md) (the
+  owner's, from the review of [#485](https://github.com/dmarx/nucleation/issues/485); thesis, interpretive, Proposed; first
+  line organizational-normativity) rests on [CLAIM-652](../claims.d/CLAIM-652.md) and [CLAIM-662](../claims.d/CLAIM-662.md) and
+  complements [CLAIM-619](../claims.d/CLAIM-619.md) and [CLAIM-624](../claims.d/CLAIM-624.md): the two routes need no deliberate
   suppression and "both differ from the counter-corrective weakening of
   the channels through which challenge succeeds".
-- **News.** CLAIM-656 (the owner's U16 of "Medical Ethics and Media
+- **News.** [CLAIM-656](../claims.d/CLAIM-656.md) (the owner's U16 of "Medical Ethics and Media
   Enshitification"; thesis, interpretive, Proposed; also
-  organizational-normativity) rests on CLAIM-658, grounds in CASE-247 and
-  bears on QUESTION-441: optimizing for attention works against
-  investigative journalism. CASE-247 (A's thought experiment; stipulated,
-  Proposed; also organizational-normativity) illustrates CLAIM-656,
-  CLAIM-342 and CLAIM-463.
-- **A mechanism another installed.** CASE-232 (Stute's story; specimen,
+  organizational-normativity) rests on [CLAIM-658](../claims.d/CLAIM-658.md), grounds in [CASE-247](../cases.d/CASE-247.md) and
+  bears on [QUESTION-441](../questions.d/QUESTION-441.md): optimizing for attention works against
+  investigative journalism. [CASE-247](../cases.d/CASE-247.md) (A's thought experiment; stipulated,
+  Proposed; also organizational-normativity) illustrates [CLAIM-656](../claims.d/CLAIM-656.md),
+  [CLAIM-342](../claims.d/CLAIM-342.md) and [CLAIM-463](../claims.d/CLAIM-463.md).
+- **A mechanism another installed.** [CASE-232](../cases.d/CASE-232.md) (Stute's story; specimen,
   stipulated, Active; first line organizational-normativity) illustrates
-  CLAIM-522 and bears on QUESTION-449: a compiler Trojan reproduced by the
+  [CLAIM-522](../claims.d/CLAIM-522.md) and bears on [QUESTION-449](../questions.d/QUESTION-449.md): a compiler Trojan reproduced by the
   host's own compiling and hidden from it.
-- **Contribution without authority.** QUESTION-461 (A's, "About Plantation
+- **Contribution without authority.** [QUESTION-461](../questions.d/QUESTION-461.md) (A's, "About Plantation
   Paradise"; Open; first line organizational-normativity) asks when an
   organization's dependence on participants it subordinates increases
   their effective authority, and when it reproduces the arrangements that
   keep their contributions from becoming effective claims. Its body cites
-  CLAIM-403 ("Admission is not authority"), CLAIM-614, CLAIM-624 and
-  CLAIM-619. CASE-257 (the Saint-Domingue theatres, as A reported them;
+  [CLAIM-403](../claims.d/CLAIM-403.md) ("Admission is not authority"), [CLAIM-614](../claims.d/CLAIM-614.md), [CLAIM-624](../claims.d/CLAIM-624.md) and
+  [CLAIM-619](../claims.d/CLAIM-619.md). [CASE-257](../cases.d/CASE-257.md) (the Saint-Domingue theatres, as A reported them;
   specimen, documented as reported, Proposed; first line
-  organizational-normativity) bears on it and illustrates CLAIM-403,
-  CLAIM-348 and CLAIM-546, and leaves the mechanism that kept the
-  contributors from standing as an interpretation for QUESTION-461 to
+  organizational-normativity) bears on it and illustrates [CLAIM-403](../claims.d/CLAIM-403.md),
+  [CLAIM-348](../claims.d/CLAIM-348.md) and [CLAIM-546](../claims.d/CLAIM-546.md), and leaves the mechanism that kept the
+  contributors from standing as an interpretation for [QUESTION-461](../questions.d/QUESTION-461.md) to
   test.
 
 ### Concepts, and moral terms
@@ -466,17 +466,17 @@ and SYNTHESIS-tmpvdeqh or SYNTHESIS-tmpc1ohg sets it out there.
   organizational-normativity; bears on [QUESTION-441](../questions.d/QUESTION-441.md).
 - [ARG-055](../arguments.d/ARG-055.md) (first line organizational-normativity), [ARG-063](../arguments.d/ARG-063.md) and [ARG-064](../arguments.d/ARG-064.md)
   (first line organizational-normativity), Proposed, concluding [CLAIM-624](../claims.d/CLAIM-624.md).
-- CLAIM-652, the assistant's; thesis, demonstrated, Proposed; first line
-  organizational-normativity. CLAIM-662, A's, narrowed by the owner; thesis,
-  demonstrated, Proposed; first line organizational-normativity. CLAIM-657,
+- [CLAIM-652](../claims.d/CLAIM-652.md), the assistant's; thesis, demonstrated, Proposed; first line
+  organizational-normativity. [CLAIM-662](../claims.d/CLAIM-662.md), A's, narrowed by the owner; thesis,
+  demonstrated, Proposed; first line organizational-normativity. [CLAIM-657](../claims.d/CLAIM-657.md),
   the owner's; thesis, interpretive, Proposed; first line
-  organizational-normativity. CLAIM-656, the owner's; thesis, interpretive,
+  organizational-normativity. [CLAIM-656](../claims.d/CLAIM-656.md), the owner's; thesis, interpretive,
   Proposed; also organizational-normativity.
-- CASE-246, the assistant's construction, stipulated, Proposed; CASE-247,
-  A's thought experiment, stipulated, Proposed; CASE-257, specimen,
-  documented as reported, Proposed; CASE-232, specimen, stipulated,
-  Active. All but CASE-247 first in organizational-normativity.
-- QUESTION-456 and QUESTION-461, A's, Open; first line
+- [CASE-246](../cases.d/CASE-246.md), the assistant's construction, stipulated, Proposed; [CASE-247](../cases.d/CASE-247.md),
+  A's thought experiment, stipulated, Proposed; [CASE-257](../cases.d/CASE-257.md), specimen,
+  documented as reported, Proposed; [CASE-232](../cases.d/CASE-232.md), specimen, stipulated,
+  Active. All but [CASE-247](../cases.d/CASE-247.md) first in organizational-normativity.
+- [QUESTION-456](../questions.d/QUESTION-456.md) and [QUESTION-461](../questions.d/QUESTION-461.md), A's, Open; first line
   organizational-normativity.
 - [CLAIM-620](../claims.d/CLAIM-620.md), A's integration; thesis, interpretive, Proposed; first line
   pragmatic-transport; bears on [QUESTION-439](../questions.d/QUESTION-439.md) and [QUESTION-360](../questions.d/QUESTION-360.md).
@@ -611,15 +611,15 @@ and SYNTHESIS-tmpvdeqh or SYNTHESIS-tmpc1ohg sets it out there.
   [QUESTION-439](../questions.d/QUESTION-439.md), which names [CASE-222](../cases.d/CASE-222.md) and [CLAIM-620](../claims.d/CLAIM-620.md); [CASE-222](../cases.d/CASE-222.md) names
   [QUESTION-439](../questions.d/QUESTION-439.md) and [CLAIM-423](../claims.d/CLAIM-423.md).
 - **Moral terms.** [TERM-081](../terms.d/TERM-081.md) and [TERM-083](../terms.d/TERM-083.md) complement each other.
-- **Added at version 3.** CLAIM-652, CLAIM-662, CLAIM-657 and CLAIM-656 bear
-  on QUESTION-441, as do CASE-246 and CASE-247. CLAIM-652 grounds in
-  CASE-246 and complements CLAIM-662 and CLAIM-619; CLAIM-662 complements
-  CLAIM-619 and bears on QUESTION-456, which refines QUESTION-129;
-  CLAIM-657 rests on CLAIM-652 and CLAIM-662 and complements CLAIM-619 and
-  CLAIM-624. CLAIM-656 grounds in CASE-247, which illustrates it and
-  CLAIM-463. CASE-257 illustrates CLAIM-403 and CLAIM-348 and bears on
-  QUESTION-461; QUESTION-461's body names CLAIM-403, CLAIM-614, CLAIM-624
-  and CLAIM-619.
+- **Added at version 3.** [CLAIM-652](../claims.d/CLAIM-652.md), [CLAIM-662](../claims.d/CLAIM-662.md), [CLAIM-657](../claims.d/CLAIM-657.md) and [CLAIM-656](../claims.d/CLAIM-656.md) bear
+  on [QUESTION-441](../questions.d/QUESTION-441.md), as do [CASE-246](../cases.d/CASE-246.md) and [CASE-247](../cases.d/CASE-247.md). [CLAIM-652](../claims.d/CLAIM-652.md) grounds in
+  [CASE-246](../cases.d/CASE-246.md) and complements [CLAIM-662](../claims.d/CLAIM-662.md) and [CLAIM-619](../claims.d/CLAIM-619.md); [CLAIM-662](../claims.d/CLAIM-662.md) complements
+  [CLAIM-619](../claims.d/CLAIM-619.md) and bears on [QUESTION-456](../questions.d/QUESTION-456.md), which refines [QUESTION-129](../questions.d/QUESTION-129.md);
+  [CLAIM-657](../claims.d/CLAIM-657.md) rests on [CLAIM-652](../claims.d/CLAIM-652.md) and [CLAIM-662](../claims.d/CLAIM-662.md) and complements [CLAIM-619](../claims.d/CLAIM-619.md) and
+  [CLAIM-624](../claims.d/CLAIM-624.md). [CLAIM-656](../claims.d/CLAIM-656.md) grounds in [CASE-247](../cases.d/CASE-247.md), which illustrates it and
+  [CLAIM-463](../claims.d/CLAIM-463.md). [CASE-257](../cases.d/CASE-257.md) illustrates [CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-348](../claims.d/CLAIM-348.md) and bears on
+  [QUESTION-461](../questions.d/QUESTION-461.md); [QUESTION-461](../questions.d/QUESTION-461.md)'s body names [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-614](../claims.d/CLAIM-614.md), [CLAIM-624](../claims.d/CLAIM-624.md)
+  and [CLAIM-619](../claims.d/CLAIM-619.md).
 
 ## Links across to this part's sibling accounts, stated
 

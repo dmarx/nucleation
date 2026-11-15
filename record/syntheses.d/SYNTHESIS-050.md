@@ -378,15 +378,15 @@ through them. It adds nothing; its standing is its components'.*
   the two side by side. [CLAIM-428](../claims.d/CLAIM-428.md) (A's, on the owner's U6, Proposed) is
   "the commercial-peace debate read through [CLAIM-429](../claims.d/CLAIM-429.md)", grounded in
   [CASE-150](../cases.d/CASE-150.md) (documented, Active), which shows the material level only.
-  Added at version 2: CLAIM-690 (the assistant's, accepted by the owner on
+  Added at version 2: [CLAIM-690](../claims.d/CLAIM-690.md) (the assistant's, accepted by the owner on
   2026-11-13; thesis, interpretive, Proposed; first line
-  organizational-normativity) rests on CLAIM-428, grounds in CASE-264 and
-  uses TERM-124: whichever way a whole and its part depend on each other,
+  organizational-normativity) rests on [CLAIM-428](../claims.d/CLAIM-428.md), grounds in [CASE-264](../cases.d/CASE-264.md) and
+  uses [TERM-124](../terms.d/TERM-124.md): whichever way a whole and its part depend on each other,
   "what sorts it is who controls the terms on which it is met", while
   "the magnitude and the integration that produced it set only how much
-  rides on it". CASE-264 (the assistant's; thought experiment, fictional,
+  rides on it". [CASE-264](../cases.d/CASE-264.md) (the assistant's; thought experiment, fictional,
   Proposed; first line organizational-normativity) holds dependence,
-  integration and membership fixed in two sense-1 workshops (TERM-074)
+  integration and membership fixed in two sense-1 workshops ([TERM-074](../terms.d/TERM-074.md))
   and varies control over the terms.
 - **The open questions.** [QUESTION-100](../questions.d/QUESTION-100.md) (Open) asks, beyond the
   linearization, when the coupling produces "stable expertise" and when
@@ -503,8 +503,8 @@ a work's.
   documented, Active. [CLAIM-429](../claims.d/CLAIM-429.md), A's, thesis, interpretive, Active;
   rests on [CLAIM-297](../claims.d/CLAIM-297.md) and [CLAIM-330](../claims.d/CLAIM-330.md). [CLAIM-428](../claims.d/CLAIM-428.md), A's, thesis,
   interpretive, Proposed. [CASE-150](../cases.d/CASE-150.md), a reported study, documented,
-  Active. CLAIM-690, the assistant's, thesis, interpretive, Proposed;
-  first line organizational-normativity. CASE-264, the assistant's,
+  Active. [CLAIM-690](../claims.d/CLAIM-690.md), the assistant's, thesis, interpretive, Proposed;
+  first line organizational-normativity. [CASE-264](../cases.d/CASE-264.md), the assistant's,
   fictional thought experiment, Proposed; first line
   organizational-normativity.
 - [QUESTION-087](../questions.d/QUESTION-087.md), [QUESTION-089](../questions.d/QUESTION-089.md), [QUESTION-091](../questions.d/QUESTION-091.md), [QUESTION-094](../questions.d/QUESTION-094.md), [QUESTION-100](../questions.d/QUESTION-100.md),
@@ -664,10 +664,10 @@ a work's.
   [CLAIM-359](../claims.d/CLAIM-359.md) and [CASE-108](../cases.d/CASE-108.md) as its converse; [QUESTION-372](../questions.d/QUESTION-372.md) refines it.
   [QUESTION-089](../questions.d/QUESTION-089.md) names [CLAIM-279](../claims.d/CLAIM-279.md); [QUESTION-271](../questions.d/QUESTION-271.md) names [TERM-101](../terms.d/TERM-101.md), [CLAIM-277](../claims.d/CLAIM-277.md),
   [CLAIM-443](../claims.d/CLAIM-443.md), [CASE-155](../cases.d/CASE-155.md) and [CASE-124](../cases.d/CASE-124.md) as the evaluations it asks about.
-- **Added at version 2.** CLAIM-690 rests on CLAIM-428 and grounds in
-  CASE-264; both bear on QUESTION-461, QUESTION-460 and QUESTION-468, in
-  organizational-normativity. ARG-110, in that line, rests on CLAIM-428
-  and CLAIM-671 and concludes CLAIM-690.
+- **Added at version 2.** [CLAIM-690](../claims.d/CLAIM-690.md) rests on [CLAIM-428](../claims.d/CLAIM-428.md) and grounds in
+  [CASE-264](../cases.d/CASE-264.md); both bear on [QUESTION-461](../questions.d/QUESTION-461.md), [QUESTION-460](../questions.d/QUESTION-460.md) and [QUESTION-468](../questions.d/QUESTION-468.md), in
+  organizational-normativity. [ARG-110](../arguments.d/ARG-110.md), in that line, rests on [CLAIM-428](../claims.d/CLAIM-428.md)
+  and [CLAIM-671](../claims.d/CLAIM-671.md) and concludes [CLAIM-690](../claims.d/CLAIM-690.md).
 
 ## Links to other parts, stated
 
