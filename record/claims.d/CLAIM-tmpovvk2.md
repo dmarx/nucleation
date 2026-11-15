@@ -31,20 +31,20 @@ summary: >-
   insufficient for token identity") and B1 ("Conservation of
   organizational type does not determine the number or identity of
   organizational tokens"), joined here as one claim. It narrows how
-  CLAIM-606's table reads on its topological row, where "what carries its
+  [CLAIM-606](CLAIM-606.md)'s table reads on its topological row, where "what carries its
   identity" is "the charge". The charge carries the kind and the net
   count. A particular kink or vortex is tracked by something else: a
   centre followed modulo translation, a core count, a history. It is the
-  field-theoretic instance of CLAIM-593's "Structural isomorphism ⇏ token
+  field-theoretic instance of [CLAIM-593](CLAIM-593.md)'s "Structural isomorphism ⇏ token
   identity". The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-606 THEORY-1507 CASE-tmp5mact NOTE-tmpplgz6 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
+<!-- inactive-ok-file: CLAIM-606 CASE-tmp5mact NOTE-tmpplgz6 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
 
 # CLAIM-tmpovvk2: A conserved topological charge individuates a kind, not a token: it fixes the sector a configuration is in and its net count of defects, but not where a defect is, which one persisted or, in more than one dimension, how many cores carry the charge; so on the topological route to persistence what the charge protects is the sector, and the identity of a particular structure needs a further, declared criterion
 
 ## The claim and its demonstration
 
-The demonstration is in CASE-tmp5mact.
+The demonstration is in [CASE-tmp5mact](../cases.d/CASE-tmp5mact.md).
 
 - Two φ⁴ kinks centred anywhere have the same charge and energy, so the
   charge does not locate a kink.
@@ -52,7 +52,7 @@ The demonstration is in CASE-tmp5mact.
   its centre moves, so form can be stable while location is not.
 - A winding-two sector of the abelian Higgs model can be one core or two.
   Above critical coupling the symmetric single core is unstable
-  (Czubak & Jerrard, NOTE-tmpplgz6), so the charge does not fix the count
+  (Czubak & Jerrard, [NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md)), so the charge does not fix the count
   of tokens.
 
 Each is a configuration within the theory, so the separation is
@@ -65,12 +65,12 @@ the fact" (A5 §2.1).
 
 ## What it changes
 
-- **CLAIM-606.** The topological row's "what carries its identity: the
+- **[CLAIM-606](CLAIM-606.md).** The topological row's "what carries its identity: the
   charge" is true of the kind and false of the token. A topological
   soliton is protected as a member of its sector. Which soliton it is
   depends on dynamics the charge does not govern: a pinning term, an
   interaction, the coupling.
-- **TERM-088.** Its dynamical sense of individuation has, on this route,
+- **[TERM-088](../terms.d/TERM-088.md).** Its dynamical sense of individuation has, on this route,
   two levels. The charge individuates descriptively and robustly at the
   level of the sector. Tracking a particular structure needs the dynamics.
 

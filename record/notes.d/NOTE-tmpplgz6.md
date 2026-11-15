@@ -29,7 +29,7 @@ summary: >-
   saturated at critical coupling; higher-charge symmetric vortices are
   unstable above it.
 ---
-<!-- inactive-ok-file: LIT-tmphbd2x THEORY-1507 CLAIM-606 THEORY-tmpqise3 — Unavailable, Proposed or new; the work this stands in for, and the entries it bears on -->
+<!-- inactive-ok-file: LIT-tmphbd2x THEORY-1507 CLAIM-606 — Unavailable, Proposed or new; the work this stands in for, and the entries it bears on -->
 
 # NOTE-tmpplgz6: Czubak and Jerrard — Topological defects in the abelian Higgs model
 
@@ -92,11 +92,11 @@ conjecture.
 
 ## Bearing on the record
 
-- **CLAIM-606, the topological route.** A codimension-2 topological
+- **[CLAIM-606](../claims.d/CLAIM-606.md), the topological route.** A codimension-2 topological
   structure that persists as an extended object and moves by the geometry
   of a surface. Persistence is shown on a finite interval for constructed
   initial data. Nothing is shown about how such a line forms or ends.
-- **THEORY-1507.** An independent statement, outside Tong (NOTE-1694),
+- **[THEORY-1507](../theory.d/THEORY-1507.md).** An independent statement, outside Tong ([NOTE-1694](NOTE-1694.md)),
   of its vortex clause: sectors labelled by a quantized charge, and the
   energy bounded through Bogomol'nyi's identity, the bound saturated at
   critical coupling. It also qualifies the clause "the soliton saturates
@@ -104,13 +104,13 @@ conjecture.
   above it the symmetric vortex of charge |n| ≥ 2 is not even a local
   minimizer. The charge fixes the sector; whether the sector's
   configuration is one core or several is a question of the coupling.
-- **TERM-088.** The dynamical sense. The vortex line's identity, as a line
+- **[TERM-088](../terms.d/TERM-088.md).** The dynamical sense. The vortex line's identity, as a line
   located by where the energy concentrates, persists under the field
   dynamics.
 
 ## Connections
 
-Stands in for Nielsen & Olesen (1973), LIT-tmphbd2x, for:
+Stands in for Nielsen & Olesen (1973), [LIT-tmphbd2x](../literature.d/LIT-tmphbd2x.md), for:
 
 - the setting;
 - the conjecture as reported;

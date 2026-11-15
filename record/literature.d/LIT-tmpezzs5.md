@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-15 (NOTE-tmpyns13) from arXiv:1402.7023v3, as the
-  read neighbour of Hasimoto (1972), LIT-tmpdqc38, which could not be
+  read in part 2026-11-15 ([NOTE-tmpyns13](../notes.d/NOTE-tmpyns13.md)) from arXiv:1402.7023v3, as the
+  read neighbour of Hasimoto (1972), [LIT-tmpdqc38](LIT-tmpdqc38.md), which could not be
   reached; worth reading here for what it restates of Hasimoto: the local
   induction approximation, the transformation ψ = κ exp(i∫τ ds) and the
   reduction to the cubic nonlinear Schrödinger equation, with the standing
@@ -48,9 +48,9 @@ summary: >-
   friction. A standing sech soliton persists under weak friction, perturbed
   at order α, and "while the soliton is not eternal (as is true in the
   classical case), the soliton would dissipate at a rate proportional to at
-  most α²". Filed as the read neighbour of Hasimoto (1972), LIT-tmpdqc38.
-  It bears on CLAIM-606's integrable route (a soliton on a structure that
-  itself persists) and, for the slow decay, on THEORY-1509.
+  most α²". Filed as the read neighbour of Hasimoto (1972), [LIT-tmpdqc38](LIT-tmpdqc38.md).
+  It bears on [CLAIM-606](../claims.d/CLAIM-606.md)'s integrable route (a soliton on a structure that
+  itself persists) and, for the slow decay, on [THEORY-1509](../theory.d/THEORY-1509.md).
 ---
 <!-- inactive-ok-file: LIT-tmpdqc38 THEORY-1509 CLAIM-606 — Unavailable, Proposed or new; the work this stands in for, and the entries it bears on -->
 
@@ -71,7 +71,7 @@ Van Gorder, R. A. (2014). Quantum Hasimoto transformation and nonlinear waves on
 
 ## Standing in the record
 
-Filed as the read neighbour of Hasimoto (1972), LIT-tmpdqc38. It stands in
+Filed as the read neighbour of Hasimoto (1972), [LIT-tmpdqc38](LIT-tmpdqc38.md). It stands in
 for the approximation, the transformation and the reduction, and for the
 standing soliton as the zero-friction limit of its own. It does not stand
 in for Hasimoto's travelling hump with velocity 2τ. It reports, without

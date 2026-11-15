@@ -20,11 +20,11 @@ source:
 corroborates:
 - CLAIM-606
 summary: >-
-  Czubak & Jerrard (2012), LIT-tmp0jm6f, read in part in NOTE-tmpplgz6:
+  Czubak & Jerrard (2012), [LIT-tmp0jm6f](../literature.d/LIT-tmp0jm6f.md), read in part in [NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md):
   the statement of Theorem 1.4 and the remarks around it; the proof is
   unread. Filed as the read neighbour of Nielsen & Olesen (1973),
-  LIT-tmphbd2x, whose conjecture it proves where Jaffe and Taubes's holds.
-  It corroborates CLAIM-606's topological route, which does not rest on
+  [LIT-tmphbd2x](../literature.d/LIT-tmphbd2x.md), whose conjecture it proves where Jaffe and Taubes's holds.
+  It corroborates [CLAIM-606](../claims.d/CLAIM-606.md)'s topological route, which does not rest on
   it: a structure carrying a quantized charge persists as an extended
   object under the field's dynamics. The wording is the reader's; adopting it is the owner's call.
 ---
@@ -32,7 +32,7 @@ summary: >-
 
 # THEORY-tmpqise3: In the abelian Higgs model a thin vortex line follows a Nambu–Goto string: for a timelike minimal surface with zero initial velocity there are solutions whose energy concentrates near it and that stay close to the Nielsen–Olesen vortex across it, for a finite time, wherever the two-dimensional vortex problem has a minimizer ordered by charge, which is known at critical coupling and for large coupling
 
-Czubak & Jerrard (2012), LIT-tmp0jm6f.
+Czubak & Jerrard (2012), [LIT-tmp0jm6f](../literature.d/LIT-tmp0jm6f.md).
 
 ## The result
 

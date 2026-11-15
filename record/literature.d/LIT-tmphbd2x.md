@@ -12,7 +12,7 @@ status_note: >-
   challenge. The only reprint is in an in-copyright book (Taylor, ed.,
   Gauge Theories in the Twentieth Century, World Scientific 2001). The
   paper predates arXiv. A read neighbour stands in for part of it:
-  Czubak & Jerrard (2015), LIT-tmp0jm6f, for the abelian Higgs setting,
+  Czubak & Jerrard (2015), [LIT-tmp0jm6f](LIT-tmp0jm6f.md), for the abelian Higgs setting,
   the quantized vorticity and the vortex-to-Nambu–Goto conjecture it
   attributes to this paper. It stays Unavailable until a copy is supplied.
 title: 'Vortex-line models for dual strings'
@@ -51,13 +51,13 @@ summary: >-
   speculated to make up all low-energy phenomena. Filed because the
   exchange uses it as the established case of a string that is not
   fundamental but a stable structure of a continuous field, which bears on
-  CLAIM-606's topological route. The exchange's flux quantization, radial
+  [CLAIM-606](../claims.d/CLAIM-606.md)'s topological route. The exchange's flux quantization, radial
   equations and "effective action" framing are unverified for this paper;
   the Bogomolny bound it also states is Bogomol'nyi's, not this paper's.
-  The body is unread; Czubak & Jerrard (2015), LIT-tmp0jm6f, stands in for
+  The body is unread; Czubak & Jerrard (2015), [LIT-tmp0jm6f](LIT-tmp0jm6f.md), stands in for
   part of it.
 ---
-<!-- inactive-ok-file: LIT-tmp0jm6f CLAIM-606 — Proposed or new; the neighbour that stands in, and the claim the work bears on -->
+<!-- inactive-ok-file: CLAIM-606 — Proposed or new; the neighbour that stands in, and the claim the work bears on -->
 
 # LIT-tmphbd2x: Vortex-line models for dual strings
 
@@ -95,7 +95,7 @@ read, or is wrong in its attribution:
 
 How far the neighbour stands in:
 
-- **Czubak & Jerrard (2015)**, LIT-tmp0jm6f, read in part. It reports the
+- **Czubak & Jerrard (2015)**, [LIT-tmp0jm6f](LIT-tmp0jm6f.md), read in part. It reports the
   conjecture: vortex lines "should sweep out worldsheets that are
   approximately governed by the Nambu-Goto action". It gives the abelian
   Higgs setting, the quantized vorticity, the sectors and the Bogomol'nyi

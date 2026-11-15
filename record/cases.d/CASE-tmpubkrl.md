@@ -27,14 +27,14 @@ summary: >-
   aim: "We would not merely be saying that organizations are like solitons.
   We'd be demonstrating exactly which mathematical properties can coexist,
   which can come apart". Most of its target results are held: R1 by
-  CLAIM-tmpovvk2, R2 by CLAIM-560, CLAIM-591 and CLAIM-618, R3 by CLAIM-522
-  and CLAIM-604 (as A says), R4 by CLAIM-597, R5's test by CLAIM-596. What
+  [CLAIM-tmpovvk2](../claims.d/CLAIM-tmpovvk2.md), R2 by [CLAIM-560](../claims.d/CLAIM-560.md), [CLAIM-591](../claims.d/CLAIM-591.md) and [CLAIM-618](../claims.d/CLAIM-618.md), R3 by [CLAIM-522](../claims.d/CLAIM-522.md)
+  and [CLAIM-604](../claims.d/CLAIM-604.md) (as A says), R4 by [CLAIM-597](../claims.d/CLAIM-597.md), R5's test by [CLAIM-596](../claims.d/CLAIM-596.md). What
   is not held is the common testbed, and in it a spatial model of a
   productive nucleus with a mediator, a range and a mediator-disabled
-  control (noted on QUESTION-397). Not run. Proposed because the design is
+  control (noted on [QUESTION-397](../questions.d/QUESTION-397.md)). Not run. Proposed because the design is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1507 THEORY-tmpqise3 CLAIM-tmpovvk2 CLAIM-618 — Proposed or new; the readings and claims the design draws on or maps to -->
+<!-- inactive-ok-file: THEORY-tmpqise3 CLAIM-tmpovvk2 CLAIM-618 — Proposed or new; the readings and claims the design draws on or maps to -->
 
 # CASE-tmpubkrl: A proposed study of a common testbed of continuous fields
 
@@ -63,7 +63,7 @@ rather than filled in metaphorically".
 
 **Three models, in order.**
 
-1. **A φ⁴ kink** with Allen–Cahn relaxation (CASE-tmp5mact). There are
+1. **A φ⁴ kink** with Allen–Cahn relaxation ([CASE-tmp5mact](CASE-tmp5mact.md)). There are
    four runs: a local deformation, a shift, a kink–antikink pair between
    equal vacua, and released boundary values. Each run is checked against
    the exact profile and energy, with grid refinement and the dissipation
@@ -73,10 +73,10 @@ rather than filled in metaphorically".
    collective coordinates, to an effective string. The question is what
    the coarse description keeps and loses, for example whether it misses
    a core instability or a reconnection. The Nambu–Goto regime is
-   measured, not assumed (THEORY-tmpqise3 proves it only under stated
+   measured, not assumed ([THEORY-tmpqise3](../theory.d/THEORY-tmpqise3.md) proves it only under stated
    conditions).
 3. **Maintenance and a productive nucleus.** The two-variable
-   mutual-maintenance model comes first (CASE-tmp3ioyf). Then a spatial
+   mutual-maintenance model comes first ([CASE-tmp3ioyf](CASE-tmp3ioyf.md)). Then a spatial
    version: a localized nucleus c produces a mediator m,
    ∂ₜm = D_m∇²m − γm + βc. The mediator lowers the barrier of a bistable
    field u, ∂ₜu = D_u∇²u − V′(u) + gm + √(2ε)η, outside the nucleus. The
@@ -100,11 +100,11 @@ without changing the charge.
 
 | A's target | Held by |
 |---|---|
-| R1 charge versus token identity | CLAIM-tmpovvk2 (filed from this exchange), CLAIM-593 |
-| R2 feasibility versus attraction | CLAIM-618 for locking; CLAIM-560 and CLAIM-591 for reachability; the pinned kink is a field instance (noted on QUESTION-438) |
-| R3 stable form versus maintenance mechanism | CLAIM-522, CLAIM-604; CASE-tmp3ioyf |
-| R4 founding versus feeding | CLAIM-597; CASE-tmp3ioyf |
-| R5 productive versus merely persistent nucleus | CLAIM-596's rate test, TERM-117; the spatial model is new (noted on QUESTION-397) |
+| R1 charge versus token identity | [CLAIM-tmpovvk2](../claims.d/CLAIM-tmpovvk2.md) (filed from this exchange), [CLAIM-593](../claims.d/CLAIM-593.md) |
+| R2 feasibility versus attraction | [CLAIM-618](../claims.d/CLAIM-618.md) for locking; [CLAIM-560](../claims.d/CLAIM-560.md) and [CLAIM-591](../claims.d/CLAIM-591.md) for reachability; the pinned kink is a field instance (noted on [QUESTION-438](../questions.d/QUESTION-438.md)) |
+| R3 stable form versus maintenance mechanism | [CLAIM-522](../claims.d/CLAIM-522.md), [CLAIM-604](../claims.d/CLAIM-604.md); [CASE-tmp3ioyf](CASE-tmp3ioyf.md) |
+| R4 founding versus feeding | [CLAIM-597](../claims.d/CLAIM-597.md); [CASE-tmp3ioyf](CASE-tmp3ioyf.md) |
+| R5 productive versus merely persistent nucleus | [CLAIM-596](../claims.d/CLAIM-596.md)'s rate test, [TERM-117](../terms.d/TERM-117.md); the spatial model is new (noted on [QUESTION-397](../questions.d/QUESTION-397.md)) |
 
 ## What it could and could not show
 

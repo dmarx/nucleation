@@ -22,13 +22,13 @@ summary: >-
   might be useful for some of the formal modeling attempts/purposes/needs"
   of this record. The kink's profile, energy and charge were rechecked on
   filing (scratch/formal/soliton_testbed_checks.py). The vortex part rests
-  on THEORY-1507 for the sectors and on Czubak & Jerrard (NOTE-tmpplgz6)
+  on [THEORY-1507](../theory.d/THEORY-1507.md) for the sectors and on Czubak & Jerrard ([NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md))
   for the coupling-dependent stability; that two unit vortices of a
   winding-two sector can sit apart or together at critical coupling is
   A's statement, not checked against a read source. Proposed because the
   construction is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1507 THEORY-tmpqise3 NOTE-tmpplgz6 CLAIM-tmpovvk2 — Proposed, Skimmed or new; the readings the construction uses and the claim it grounds -->
+<!-- inactive-ok-file: THEORY-1507 NOTE-tmpplgz6 — Proposed, Skimmed or new; the readings the construction uses and the claim it grounds -->
 
 # CASE-tmp5mact: Equal charge, different tokens: two φ⁴ kinks with the same boundary charge and energy sit anywhere on the line, a perturbed kink can return to the kink family while drifting from its centre, and a winding-two sector of the abelian Higgs model holds two separated vortices, two coincident ones or, above critical coupling, a symmetric one that is unstable
 
@@ -57,8 +57,8 @@ Q = (φ(+∞) − φ(−∞))/2v is 1.
   has net charge zero and can annihilate.
 
 **The vortex.** In the abelian Higgs model, finite energy puts a
-configuration in one sector of quantized winding (THEORY-1507;
-Czubak & Jerrard, NOTE-tmpplgz6). A winding-two sector contains:
+configuration in one sector of quantized winding ([THEORY-1507](../theory.d/THEORY-1507.md);
+Czubak & Jerrard, [NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md)). A winding-two sector contains:
 
 - at critical coupling, by A's statement, two separated unit vortices or
   two coincident ones, with the same total charge;

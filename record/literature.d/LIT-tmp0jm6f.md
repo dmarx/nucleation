@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-15 (NOTE-tmpplgz6) from arXiv:1210.2669v1, as the
-  read neighbour of Nielsen & Olesen (1973), LIT-tmphbd2x, which could not
+  read in part 2026-11-15 ([NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md)) from arXiv:1210.2669v1, as the
+  read neighbour of Nielsen & Olesen (1973), [LIT-tmphbd2x](LIT-tmphbd2x.md), which could not
   be reached; worth reading here for what it reports and proves of that
   paper's proposal: that the vortex lines of the abelian Higgs model move,
   approximately, as Nambu–Goto strings, proven for λ = 1 and for large λ,
@@ -51,8 +51,8 @@ summary: >-
   solution", wherever the 2d vortex problem has a suitable minimizer, which
   is known for λ = 1 and for large λ. That reduces Nielsen and Olesen's 1973
   conjecture to Jaffe and Taubes's. Filed as the read neighbour of Nielsen
-  & Olesen (1973), LIT-tmphbd2x. It bears on CLAIM-606's topological route
-  and on THEORY-1507: the vortex sectors and the Bogomol'nyi identity,
+  & Olesen (1973), [LIT-tmphbd2x](LIT-tmphbd2x.md). It bears on [CLAIM-606](../claims.d/CLAIM-606.md)'s topological route
+  and on [THEORY-1507](../theory.d/THEORY-1507.md): the vortex sectors and the Bogomol'nyi identity,
   outside Tong. Above critical coupling the symmetric vortices of charge
   |n| ≥ 2 are linearly unstable.
 ---
@@ -77,7 +77,7 @@ Czubak, M. & Jerrard, R. L. (2012). Topological defects in the abelian Higgs mod
 
 ## Standing in the record
 
-Filed as the read neighbour of Nielsen & Olesen (1973), LIT-tmphbd2x. It
+Filed as the read neighbour of Nielsen & Olesen (1973), [LIT-tmphbd2x](LIT-tmphbd2x.md). It
 stands in for the setting, the conjecture as later authors report it, the
 quantization and the Bogomol'nyi structure. It does not stand in for that
 paper's own text.

@@ -105,8 +105,8 @@ The assistant's reading across Cumberworth, Frenkel and Reinhardt 2022 ([NOTE-16
 ## Note of 2026-11-15: a spatial design with a mediator and a range
 <!-- inactive-ok-file: CASE-tmpubkrl — Proposed; the proposed study filed from the exchange of 2026-11-15, cited in its note -->
 
-A's proposal in the exchange "Explain String Theory" (A5 §6), filed as CASE-tmpubkrl, gives this question a field-theoretic test. A localized nucleus c produces a diffusing mediator m, with ∂ₜm = D_m∇²m − γm + βc. The mediator lowers the transition barrier of a bistable field u outside the nucleus. The measurement is the downstream hazard difference Δk at a region matched in state across arms.
+A's proposal in the exchange "Explain String Theory" (A5 §6), filed as [CASE-tmpubkrl](../cases.d/CASE-tmpubkrl.md), gives this question a field-theoretic test. A localized nucleus c produces a diffusing mediator m, with ∂ₜm = D_m∇²m − γm + βc. The mediator lowers the transition barrier of a bistable field u outside the nucleus. The measurement is the downstream hazard difference Δk at a region matched in state across arms.
 
-There are three arms: nucleus with the mediator coupled, nucleus with it disabled, and no nucleus. The disabled arm is what separates "already possessing the nucleus" from the generative route, the head start that CLAIM-596 says yields cannot see.
+There are three arms: nucleus with the mediator coupled, nucleus with it disabled, and no nucleus. The disabled arm is what separates "already possessing the nucleus" from the generative route, the head start that [CLAIM-596](../claims.d/CLAIM-596.md) says yields cannot see.
 
 The design makes a prediction a head start does not: the effect falls off with distance from the nucleus over ℓ_m = √(D_m/γ), the length of the steady mediator profile e^(−|x|/ℓ_m) in one dimension. It also predicts that under weak noise the effect grows roughly exponentially with the barrier change. A also warns that "Simply deleting a topologically required defect while preserving its winding boundary conditions is not an admissible intervention", so do(c = 0) has to be a change the model allows. Not run.

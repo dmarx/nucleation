@@ -8,7 +8,7 @@ status_note: >-
   resolves to shows the abstract and keeps the text behind the paywall;
   searches found no course, reading-list, faculty or author copy. Only the
   abstract, from the publisher's page, was read. A read neighbour stands
-  in for part of it: Van Gorder (2014), LIT-tmpezzs5, for the local
+  in for part of it: Van Gorder (2014), [LIT-tmpezzs5](LIT-tmpezzs5.md), for the local
   induction approximation, the transformation and the reduction to the
   cubic nonlinear Schrödinger equation, and for the standing sech soliton
   as the limit of its own; not for the travelling hump with velocity 2τ.
@@ -53,12 +53,12 @@ summary: >-
   along a line vortex, with a constant velocity 2τ". Filed because the
   exchange uses it as a string-like structure in a continuous medium that
   carries a second, localized soliton of its own, which bears on
-  CLAIM-606's integrable route and on which level a pattern is individuated
-  at (TERM-088). In the model the filament's own persistence is assumed,
-  not derived. The body is unread; Van Gorder (2014), LIT-tmpezzs5, stands
+  [CLAIM-606](../claims.d/CLAIM-606.md)'s integrable route and on which level a pattern is individuated
+  at ([TERM-088](../terms.d/TERM-088.md)). In the model the filament's own persistence is assumed,
+  not derived. The body is unread; Van Gorder (2014), [LIT-tmpezzs5](LIT-tmpezzs5.md), stands
   in for part of it.
 ---
-<!-- inactive-ok-file: LIT-tmpezzs5 CLAIM-606 — Proposed or new; the neighbour that stands in, and the claim the work bears on -->
+<!-- inactive-ok-file: CLAIM-606 — Proposed or new; the neighbour that stands in, and the claim the work bears on -->
 
 # LIT-tmpdqc38: A soliton on a vortex filament
 
@@ -90,7 +90,7 @@ a given thin line vortex treated as a curve.
 
 How far the neighbour stands in:
 
-- **Van Gorder (2014)**, LIT-tmpezzs5, read in part. It names the
+- **Van Gorder (2014)**, [LIT-tmpezzs5](LIT-tmpezzs5.md), read in part. It names the
   approximation (local induction) and uses the same transformation. Its
   zero-friction limit is the cubic NLS. Its standing sech soliton
   "corresponds to the Hasimoto soliton" as the friction vanishes.

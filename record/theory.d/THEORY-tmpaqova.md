@@ -18,19 +18,19 @@ source:
 corroborates:
 - CLAIM-606
 summary: >-
-  Van Gorder (2014), LIT-tmpezzs5, read in part in NOTE-tmpyns13 (§§1–4,
-  §10). Filed as the read neighbour of Hasimoto (1972), LIT-tmpdqc38,
+  Van Gorder (2014), [LIT-tmpezzs5](../literature.d/LIT-tmpezzs5.md), read in part in [NOTE-tmpyns13](../notes.d/NOTE-tmpyns13.md) (§§1–4,
+  §10). Filed as the read neighbour of Hasimoto (1972), [LIT-tmpdqc38](../literature.d/LIT-tmpdqc38.md),
   whose classical reduction it restates and generalizes. The filament
   itself is presupposed, not derived; the soliton is a pattern on it. It
-  corroborates CLAIM-606's integrable route, which does not rest on it: a
+  corroborates [CLAIM-606](../claims.d/CLAIM-606.md)'s integrable route, which does not rest on it: a
   soliton held by no supply, running down slowly under weak loss. The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpdqc38 THEORY-1509 — Unavailable or Proposed; the work this stands in for, and a held reading of weak-loss decay -->
+<!-- inactive-ok-file: LIT-tmpdqc38 — Unavailable or Proposed; the work this stands in for, and a held reading of weak-loss decay -->
 
 # THEORY-tmpaqova: Under the local induction approximation a thin vortex filament carries a soliton of its own shape: its curvature and torsion combine into a field obeying the cubic nonlinear Schrödinger equation, whose sech soliton is a localized pattern of the filament; with weak mutual friction and a negligible normal-fluid velocity the soliton survives, perturbed at first order in the friction, and decays at a rate of at most second order
 
-Van Gorder (2014), LIT-tmpezzs5.
+Van Gorder (2014), [LIT-tmpezzs5](../literature.d/LIT-tmpezzs5.md).
 
 ## The result
 

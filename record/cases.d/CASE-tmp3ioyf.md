@@ -25,11 +25,11 @@ summary: >-
   Fictional by construction, with illustrative parameters. A calls its
   Proposition C1 ("Matching maintained states does not identify where their
   maintenance is produced") "another explicit witness rather than an
-  entirely new proposition" for CLAIM-522, which is right, with one
-  difference recorded below: A's controller is constant, not CLAIM-522's
+  entirely new proposition" for [CLAIM-522](../claims.d/CLAIM-522.md), which is right, with one
+  difference recorded below: A's controller is constant, not [CLAIM-522](../claims.d/CLAIM-522.md)'s
   state-feedback controller, so interventions on state do separate the two
-  here. CASE-189 holds a three-unit version of reciprocal production; this
-  one is the two-variable extension of CLAIM-604's one-variable model that
+  here. [CASE-189](CASE-189.md) holds a three-unit version of reciprocal production; this
+  one is the two-variable extension of [CLAIM-604](../claims.d/CLAIM-604.md)'s one-variable model that
   A names. Proposed because the construction is A's; adopting it is the
   owner's call.
 ---
@@ -73,27 +73,27 @@ The positive equilibria come from r = 4c/(1 + 4c) and 16c² − 12c + 1 = 0.
 
 ## What it shows
 
-- **For CLAIM-522.** Matched steady states do not identify where
+- **For [CLAIM-522](../claims.d/CLAIM-522.md).** Matched steady states do not identify where
   maintenance is produced. In this construction interventions on state
   do separate the two architectures, because the outside controller is
-  constant. CLAIM-522's ideal controller supplies the production law as
+  constant. [CLAIM-522](../claims.d/CLAIM-522.md)'s ideal controller supplies the production law as
   state feedback, and only interventions on mechanism separate that one.
-  The case is therefore a weaker witness than CLAIM-522's own, and it
+  The case is therefore a weaker witness than [CLAIM-522](../claims.d/CLAIM-522.md)'s own, and it
   marks where the claim's ideal case begins: a controller that ignores the
   state is found out by perturbing the state.
-- **For CLAIM-597.** Its split between founding and feeding, in a system
+- **For [CLAIM-597](../claims.d/CLAIM-597.md).** Its split between founding and feeding, in a system
   that produces its own repair capacity. It stays independent of what
   founded it and dependent on what feeds it.
-- **For CLAIM-604.** An ignition threshold in two variables, where the
+- **For [CLAIM-604](../claims.d/CLAIM-604.md).** An ignition threshold in two variables, where the
   threshold is a separatrix and not a level.
-- **For QUESTION-398 and QUESTION-399.** The founding pulse can be
+- **For [QUESTION-398](../questions.d/QUESTION-398.md) and [QUESTION-399](../questions.d/QUESTION-399.md).** The founding pulse can be
   withdrawn safely once the joint state is past the separatrix. The
   capacity that makes repair possible is itself regenerated, which is
-  QUESTION-399's self-maintaining nucleus in a minimal form, though on a
+  [QUESTION-399](../questions.d/QUESTION-399.md)'s self-maintaining nucleus in a minimal form, though on a
   supply it does not control.
 
 ## What it cannot show
 
-Whether r is a constitutive constraint in TERM-088's sense. A: "Mutual
+Whether r is a constitutive constraint in [TERM-088](../terms.d/TERM-088.md)'s sense. A: "Mutual
 positive feedback alone is not sufficient to establish every philosophical
 or biological meaning of autonomy." The parameters are illustrative.

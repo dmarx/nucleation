@@ -122,10 +122,10 @@ which fails A5's conditions outright.
 
 A4 of the exchange "Explain String Theory" offers a soliton as "a candidate individual whose identity is carried by a spatially extended pattern rather than a fixed set of constituents", with the caution that whether it meets this question's flux criterion "would still require measuring a conserved quantity's transport and showing more than mere throughput".
 
-CLAIM-606 already separates the cases:
+[CLAIM-606](../claims.d/CLAIM-606.md) already separates the cases:
 
 - a dissipative soliton's material turns over on a standing supply, so it is a candidate;
 - an integrable one's does not, since it moves without replacing a stock;
-- a topological one is protected as a member of its sector, not as a particular pattern (CLAIM-tmpovvk2).
+- a topological one is protected as a member of its sector, not as a particular pattern ([CLAIM-tmpovvk2](../claims.d/CLAIM-tmpovvk2.md)).
 
 So of the soliton cases only the dissipative one bears on this question, and only once its throughput is measured.

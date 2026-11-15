@@ -27,7 +27,7 @@ summary: >-
   the classical ring collapses, and helices and planar filaments need a
   normal-fluid drive to exist.
 ---
-<!-- inactive-ok-file: LIT-tmpdqc38 THEORY-1509 CLAIM-606 THEORY-tmpaqova — Unavailable, Proposed or new; the work this stands in for, and the entries it bears on -->
+<!-- inactive-ok-file: LIT-tmpdqc38 THEORY-1509 CLAIM-606 — Unavailable, Proposed or new; the work this stands in for, and the entries it bears on -->
 
 # NOTE-tmpyns13: Van Gorder — Quantum Hasimoto transformation on a superfluid vortex filament
 
@@ -89,24 +89,24 @@ standing and travelling solitons.
 
 ## Bearing on the record
 
-- **CLAIM-606, the integrable route.** The classical case is the route on
+- **[CLAIM-606](../claims.d/CLAIM-606.md), the integrable route.** The classical case is the route on
   a filament: no supply, and the soliton is "eternal". Under weak loss the
   sech envelope stays while the soliton slowly decays. That fits the
   claim's "under loss it shrinks while keeping its shape", with one
   refinement: friction shows first in the torsion, the phase, not in the
   curvature. On the same carrier, the static helix needs a drive to exist,
   which is the claim's dissipative route.
-- **THEORY-1509.** Another instance of a weakly damped soliton running
+- **[THEORY-1509](../theory.d/THEORY-1509.md).** Another instance of a weakly damped soliton running
   down along its family of shapes rather than breaking up, here for an
   NLS-type equation, with the rate bounded at order α².
-- **TERM-088.** The soliton is individuated as a pattern of the filament's
+- **[TERM-088](../terms.d/TERM-088.md).** The soliton is individuated as a pattern of the filament's
   shape. The filament carrying it is presupposed throughout and is not
   derived. The two are individuated at different levels and on different
   grounds.
 
 ## Connections
 
-Stands in for Hasimoto (1972), LIT-tmpdqc38, for:
+Stands in for Hasimoto (1972), [LIT-tmpdqc38](../literature.d/LIT-tmpdqc38.md), for:
 
 - the approximation;
 - the transformation;
