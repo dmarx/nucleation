@@ -48,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-720 — Unavailable; cited by the paper as its foil, named here only to place it -->
 
-<!-- inactive-ok-file: CASE-tmpjrrhk — Proposed; the fairy-circle rerun, the assistant's study, cited in the section on the code -->
+<!-- inactive-ok-file: CASE-tmpjrrhk THEORY-tmps67up — Proposed; the fairy-circle rerun, the assistant's study, and the Martinez-Garcia account, cited in the section on the code -->
 
 # NOTE-tmpmu9w0: Sun et al. — Phase transition in a dryland shrub–grass ecosystem
 
@@ -206,7 +206,7 @@ The paper's foil is the macroscopic feedback framework of regime shifts
 "effective for prediction" but not an explanation from individuals. Its
 pattern mechanism is the scale-dependent feedback of Rietkerk et al.
 (2002) and Pringle & Tarnita (2017). It uses depletion-range kernels
-like those of Martinez-Garcia et al. (2023, their ref. 34) and Cabal et
+like those of Martinez-Garcia et al. (2023, their ref. 34; LIT-tmp5mwek) and Cabal et
 al.'s root segregation (2020). Spatial skewness as a warning comes from
 Guttal & Jayaprakash (2009), and the paper also cites Scheffer et al.
 (2009), [LIT-1956](../literature.d/LIT-1956.md). The fairy-circle reading engages Guirado et al. (2023)
@@ -252,7 +252,10 @@ kernel competition on a lattice.
   In the field, nothing distinguishes a first-order transition from a
   steep but smooth turnover across heterogeneous plots: there are no
   time series, no repeat visits, and no plots on both sides of the
-  window under the same rainfall followed through time.
+  window under the same rainfall followed through time. Zelnik, Meron
+  and Bel (LIT-tmpijst5) show, in a fitted model, how plots alternating
+  between stable states can make a regional shift gradual, which is the
+  reading this evidence cannot exclude.
 - **The covariate analysis is overread.** Finding no significant partial
   effects of mapped soil variables and elevation does not rule out
   environmental heterogeneity. The soil grid is coarse, and grazing
@@ -325,7 +328,7 @@ unless stated.
   facilitation; 1.5 for a shuffled control). Grass shows a weak
   periodicity of about 3.6 cells either way. Both wavelengths are about
   1.2 times the competition radius (20 and 3), the range Martinez-Garcia
-  et al. give for competition-only patterns. **Competition alone makes
+  et al. give for competition-only patterns (THEORY-tmps67up). **Competition alone makes
   the patterns and the switch**, so "scale-dependent feedback" is not
   needed to describe this model.
 - **Fairy circles.** Run in [CASE-tmpjrrhk](../cases.d/CASE-tmpjrrhk.md). The rings are made by the
