@@ -116,3 +116,16 @@ in [NOTE-1027](../notes.d/NOTE-1027.md); [THEORY-821](../theory.d/THEORY-821.md)
 uniform in space and present only while the construction drains the
 solution to zero: a transfer with no spatial pattern and no persistence,
 which fails A5's conditions outright.
+
+## Note of 2026-11-15: a soliton as a candidate, and what the flux criterion would still need
+<!-- inactive-ok-file: CLAIM-606 CLAIM-tmpovvk2 — Proposed or new; claims cited in the note of 2026-11-15 -->
+
+A4 of the exchange "Explain String Theory" offers a soliton as "a candidate individual whose identity is carried by a spatially extended pattern rather than a fixed set of constituents", with the caution that whether it meets this question's flux criterion "would still require measuring a conserved quantity's transport and showing more than mere throughput".
+
+CLAIM-606 already separates the cases:
+
+- a dissipative soliton's material turns over on a standing supply, so it is a candidate;
+- an integrable one's does not, since it moves without replacing a stock;
+- a topological one is protected as a member of its sector, not as a particular pattern (CLAIM-tmpovvk2).
+
+So of the soliton cases only the dissipative one bears on this question, and only once its throughput is measured.

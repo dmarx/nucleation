@@ -24,7 +24,9 @@ summary: >-
   the statement of Theorem 1.4 and the remarks around it; the proof is
   unread. Filed as the read neighbour of Nielsen & Olesen (1973),
   LIT-tmphbd2x, whose conjecture it proves where Jaffe and Taubes's holds.
-  The wording is the reader's; adopting it is the owner's call.
+  It corroborates CLAIM-606's topological route, which does not rest on
+  it: a structure carrying a quantized charge persists as an extended
+  object under the field's dynamics. The wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmphbd2x — Unavailable; the work this stands in for -->
 
