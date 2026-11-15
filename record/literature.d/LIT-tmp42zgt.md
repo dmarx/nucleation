@@ -7,7 +7,7 @@ status_note: >-
   https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-112247?crawler=true&mimetype=application/pdf
   (the PDF link Crossref deposits). On 2026-11-15 this session's
   permission system refused the fetch, and it was not retried or worked
-  around (ADR-074). PubMed Central did not hold it (ID converter:
+  around ([ADR-074](../decisions.d/ADR-074.md)). PubMed Central did not hold it (ID converter:
   "Identifier not found in PMC"), nor did Europe PMC. Only the abstract
   (PubMed) is read. The host annualreviews.org is named in the curation
   entry so that the owner can allow it; a copy the owner supplies also
@@ -53,7 +53,7 @@ summary: >-
   highlights signatures of nonequilibrium behaviour and energy–performance
   trade-offs, and closes by proposing "a nonequilibrium thermodynamic law
   for living systems". Here because it prices function, and in particular
-  accuracy, in dissipation, which is what QUESTION-452 asks of maintained
+  accuracy, in dissipation, which is what [QUESTION-452](../questions.d/QUESTION-452.md) asks of maintained
   organization. Abstract only; every claim here is unverified until read.
 ---
 
@@ -88,15 +88,15 @@ claim, unverified until the text is read.*
 
 Filed on 2026-11-15 at the owner's request. Its nearest holdings:
 
-- **QUESTION-452**, which asks whether keeping a maintained organization
+- **[QUESTION-452](../questions.d/QUESTION-452.md)**, which asks whether keeping a maintained organization
   precise costs dissipation in proportion to the precision, and whether
   that cost separates organizations that persist from structures that
   merely last. The review's energy–performance trade-offs are that
   question's candidate answers for biochemical function.
 - **The thermodynamic uncertainty relation**, in Barato & Seifert
-  (LIT-1885) and THEORY-1268. It prices the precision of a current in
+  ([LIT-1885](LIT-1885.md)) and [THEORY-1268](../theory.d/THEORY-1268.md). It prices the precision of a current in
   dissipation.
-- **Synchronization**: CLAIM-172 and CLAIM-616. The review's costed
+- **Synchronization**: [CLAIM-172](../claims.d/CLAIM-172.md) and [CLAIM-616](../claims.d/CLAIM-616.md). The review's costed
   synchronization of biochemical oscillators bears on them.
 
 What a reading should settle:
@@ -105,7 +105,7 @@ What a reading should settle:
   conjecture;
 - whether the trade-offs are stated for a function's accuracy alone or
   also for the maintenance of the network that performs it, which is
-  what QUESTION-452 needs.
+  what [QUESTION-452](../questions.d/QUESTION-452.md) needs.
 
 **Neighbours, if the review stays out of reach.** Two of the author's
 own primary papers are open on arXiv and not held: Cao, Wang, Ouyang &
@@ -115,4 +115,4 @@ thermodynamics of coupled molecular oscillators" (arXiv:2001.10479). Lan,
 Sartori, Neumann, Sourjik & Tu (2012), on the energy–speed–accuracy
 trade-off in sensory adaptation, is not on arXiv. None has been read.
 
-**Priority for a reading: high** for QUESTION-452.
+**Priority for a reading: high** for [QUESTION-452](../questions.d/QUESTION-452.md).
