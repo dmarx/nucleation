@@ -112,11 +112,11 @@ AlphaEdit takes MEMIT's closed form, its layers, its λ and its K0
 statistic ([LIT-1582](../literature.d/LIT-1582.md), [THEORY-1031](../theory.d/THEORY-1031.md); [NOTE-1197](NOTE-1197.md) records MEMIT's
 C0 = λ·E[kkᵀ] from 100,000 samples). It follows Adam-NSCL (Wang et al.
 2021) in using the null space of the uncentred covariance. MuEdit (Liang
-et al. 2026, dmarx/nucleation#499) extends it to several domains.
+et al. 2026, LIT-tmpy7s15) extends it to several domains.
 
 ## Bearing on the record
 
-- **MuEdit's Conflict Index** (filed in dmarx/nucleation#499). That
+- **MuEdit's Conflict Index** (LIT-tmpy7s15, NOTE-tmps6dyd). That
   reading found the index degenerate as defined unless null spaces are
   numerical. Footnote 1 supplies the numerical criterion. MuEdit says it
   shares AlphaEdit's preprocessing, so its null spaces are presumably
@@ -124,8 +124,6 @@ et al. 2026, dmarx/nucleation#499) extends it to several domains.
   - The threshold is absolute, and the paper does not say whether K0K0ᵀ
     is a sum or a mean. So the null-space dimension, and with it the
     index, depend on a scale the papers do not report.
-  - Named by pull request here, since MuEdit's codes are not yet on the
-    default branch.
 - **[THEORY-1031](../theory.d/THEORY-1031.md)** (MEMIT). AlphaEdit reports MEMIT collapsing under
   sequential editing on LLaMA3 but holding on GPT-J. [THEORY-1031](../theory.d/THEORY-1031.md)
   concerns one batch of 10,000 on GPT-J, a different regime, so there

@@ -13,7 +13,7 @@ history:
   date: '2026-11-15'
   note: >-
     Registered and read on 2026-11-15 at the owner's request ("file those
-    neighboring papers too"), as the method MuEdit (dmarx/nucleation#499)
+    neighboring papers too"), as the method MuEdit (LIT-tmpy7s15)
     extends. Checked first: not held. Citation from the arXiv API and the
     PDF: Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Jie Shi, Xiang
     Wang, Xiangnan He and Tat-Seng Chua, ICLR 2025 (Oral); v1 submitted
