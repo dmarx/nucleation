@@ -19,8 +19,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpq1fwu
 summary: >-
-  Andrieu, Bernard, Brivadis, Praly & Wolf (2026), LIT-tmpq1fwu, read in
-  NOTE-tmpliu98. The results are theorems whose proofs were skimmed, not
+  Andrieu, Bernard, Brivadis, Praly & Wolf (2026), [LIT-tmpq1fwu](../literature.d/LIT-tmpq1fwu.md), read in
+  [NOTE-tmpliu98](../notes.d/NOTE-tmpliu98.md). The results are theorems whose proofs were skimmed, not
   verified, here. The sharp edges: existence results only, with no
   training guarantee; thresholds and constants not explicit; a decoder
   bound exponential in latent dimension; and experiments run at κ = 1,
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Andrieu et al. (2026), LIT-tmpq1fwu, read in NOTE-tmpliu98 from arXiv v1.
+Andrieu et al. (2026), [LIT-tmpq1fwu](../literature.d/LIT-tmpq1fwu.md), read in [NOTE-tmpliu98](../notes.d/NOTE-tmpliu98.md) from arXiv v1.
 
 ## What was actually shown
 

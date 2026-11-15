@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpliu98) from arXiv v1 (NeurIPS 2026): the main
+  read 2026-11-15 ([NOTE-tmpliu98](../notes.d/NOTE-tmpliu98.md)) from arXiv v1 (NeurIPS 2026): the main
   text in full, and the appendices' statements, with the proofs skimmed
   and not verified. Worth reading as a nonlinear-observer account of
   RNNs: a recurrent estimator whose latent dynamics contract embeds the
@@ -63,7 +63,7 @@ NeurIPS 2026; arXiv:2611.09217.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpliu98.*
+*From the reading, [NOTE-tmpliu98](../notes.d/NOTE-tmpliu98.md).*
 
 - **RNNs as observers.** With latent dynamics contracting in the
   Euclidean metric, a C¹ map T_κ of the true state into the latent space
@@ -84,12 +84,12 @@ NeurIPS 2026; arXiv:2611.09217.
 ## Standing in the record
 
 Filed on 2026-11-15 at the owner's request. It joins the record's control
-holdings: the Luenberger observer and rank tests (LIT-051, NOTE-062), of
+holdings: the Luenberger observer and rank tests ([LIT-051](LIT-051.md), [NOTE-062](../notes.d/NOTE-062.md)), of
 which its linear case is an instance. It sits close in method to
 Del Vecchio and Slotine's contraction theory of singularly perturbed
-systems (LIT-1295, THEORY-773). Read as a reservoir result, it gives a
+systems ([LIT-1295](LIT-1295.md), [THEORY-773](../theory.d/THEORY-773.md)). Read as a reservoir result, it gives a
 sufficient condition for a fixed contracting reservoir's readout to
 recover the driving state. The authors say the echo state property gives
-no such guarantee (cf. THEORY-1431). The architecture recommendation
+no such guarantee (cf. [THEORY-1431](../theory.d/THEORY-1431.md)). The architecture recommendation
 (contracting GRUs) is practice and carries the `anthology-candidate`
 flag.

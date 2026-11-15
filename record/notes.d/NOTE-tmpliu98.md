@@ -134,16 +134,16 @@ case is a Luenberger observer, solving a Sylvester equation.
 
 ## Bearing on the record
 
-- **LIT-051 / NOTE-062** (control notes: Luenberger observers, rank
+- **[LIT-051](../literature.d/LIT-051.md) / [NOTE-062](NOTE-062.md)** (control notes: Luenberger observers, rank
   tests). The paper's linear case (Remark 3.8) is the Luenberger observer
   of those notes. Its filter-rank matrix is the latent filter's
   controllability matrix. No note filed.
-- **THEORY-773** (Del Vecchio–Slotine: a contracting fast subsystem
+- **[THEORY-773](../theory.d/THEORY-773.md)** (Del Vecchio–Slotine: a contracting fast subsystem
   tracks its slow manifold, with a robustness bound). The κ-scaled latent
   field is a fast contracting subsystem, T_κ plays the slow manifold, and
   Prop. 4.3 has the same shape as that entry's robustness lemma. The
   bearing is a resemblance of method; no note filed.
-- **THEORY-1431** (an origami metamaterial as a reservoir computer). The
+- **[THEORY-1431](../theory.d/THEORY-1431.md)** (an origami metamaterial as a reservoir computer). The
   paper gives, for contracting reservoirs, a sufficient condition for the
   readout to recover the driving system's state: injectivity under
   differential observability and filter rank. The echo state property
