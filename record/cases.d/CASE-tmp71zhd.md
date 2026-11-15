@@ -14,6 +14,8 @@ line:
 bears_on:
 - QUESTION-275
 - QUESTION-217
+draws_on:
+- THEORY-022
 summary: >-
   A's "Experiment I", from A14 of the continuation of the exchange
   "Explain String Theory" (2026-11-15), as the first test of the owner's

@@ -25,6 +25,8 @@ uses:
 complements:
 - CLAIM-576
 - CLAIM-567
+grounds:
+- THEORY-tmpmapw3
 summary: >-
   The owner's, from the continuation of the exchange "Explain String
   Theory" (2026-11-15), answering A's condition that a retained capability
@@ -41,7 +43,7 @@ summary: >-
   the primitive operations or the system's boundary. The idea is the
   owner's; the wording is A's, and adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-576 TERM-118 CLAIM-tmp36o5i — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
+<!-- inactive-ok-file: CLAIM-576 TERM-118 CLAIM-tmp36o5i THEORY-tmpmapw3 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
 
 # CLAIM-tmps7g72: A learned system's disposition to succeed at a task is resource-conditional, and coverage is not delivery
 
@@ -67,8 +69,8 @@ success probability is
   accepted candidate is pt / (pt + (1 − p) f), which is poor when p is
   small. So generation, recognition and selection are separate capacities.
 
-The empirical anchor is Brown et al.'s repeated sampling, read for this
-filing. There, coverage on SWE-bench Lite rose from 15.9% at one sample to
+The empirical anchor is Brown et al.'s repeated sampling
+(THEORY-tmpmapw3). There, coverage on SWE-bench Lite rose from 15.9% at one sample to
 56% at 250, judged by the benchmark's own unit tests. That figure is
 coverage, not what an unaided selector delivers.
 

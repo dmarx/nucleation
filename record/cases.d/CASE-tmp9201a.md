@@ -16,6 +16,12 @@ bears_on:
 - QUESTION-274
 - QUESTION-275
 - QUESTION-010
+draws_on:
+- THEORY-281
+- THEORY-tmpi5d5l
+- THEORY-tmp2ly83
+- THEORY-tmpmapw3
+- THEORY-tmp9rnyv
 summary: >-
   A's design, assembled from A17, A21–A22, A25 and A26 of the
   continuation of the exchange "Explain String Theory" (2026-11-15). It
@@ -23,7 +29,7 @@ summary: >-
   hologram, test-time compute and RL into one experiment. Not run.
   Proposed because the design is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp6214r CLAIM-tmps7g72 CLAIM-tmp36o5i THEORY-281 — Proposed or new; the construction and claims the design tests, and the erasure bound it uses -->
+<!-- inactive-ok-file: CASE-tmp6214r CLAIM-tmps7g72 CLAIM-tmp36o5i CLAIM-tmpumro8 THEORY-tmpi5d5l THEORY-tmp2ly83 — Proposed or new; the construction and claims the design tests, and the erasure bound it uses -->
 
 # CASE-tmp9201a: A proposed study of the recoverability of controlled associations
 
@@ -55,7 +61,8 @@ summary: >-
 | higher realization cost | the capability curve shifts to the right: recovered at a larger budget |
 | loss | strong readers, other cues and interventions all fail, with every other source of the information controlled |
 
-Recovery after an erasure does not by itself show the original trace
+Recovery after an erasure, as Amnesic Probing (THEORY-tmpi5d5l) and
+mechanistic shaping (THEORY-tmp2ly83) observe, does not by itself show the original trace
 survived. It may have been rebuilt from other retained information, which
 THEORY-281's bound limits.
 

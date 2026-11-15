@@ -12,6 +12,9 @@ line:
 - learned-structure
 bears_on:
 - QUESTION-318
+draws_on:
+- THEORY-tmpkfmi5
+- THEORY-tmpjlixb
 summary: >-
   A's construction from A15 of the continuation of the exchange "Explain
   String Theory" (2026-11-15), after the owner's "I suspect there are
@@ -21,9 +24,11 @@ summary: >-
   mixed second derivative integrated over the square, and vanishes
   identically for a model linearized at the base, is the reader's
   derivation; it matches the tangent-space regime of Ortiz-Jimenez et al.
-  and the second-order term Zhou et al. bound. Proposed because the
+  (THEORY-tmpkfmi5) and the second-order term Zhou et al. bound
+  (THEORY-tmpjlixb). Proposed because the
   construction is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpkfmi5 THEORY-tmpjlixb — Proposed; the readings the construction is set against -->
 
 # CASE-tmp86zrj: Orthogonal task updates can interact
 
@@ -50,5 +55,5 @@ through parameter angles.
 ## What it cannot show
 
 That a given merge fails. In models fine-tuned from one start, layerwise
-feature linearity often holds approximately (Zhou et al.), so the cross
+feature linearity often holds approximately (THEORY-tmpjlixb), so the cross
 term can be small in practice.

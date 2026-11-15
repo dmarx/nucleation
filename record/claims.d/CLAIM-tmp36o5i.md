@@ -23,6 +23,10 @@ rests_on:
 - CLAIM-tmps7g72
 complements:
 - CLAIM-576
+grounds:
+- THEORY-tmp9rnyv
+- THEORY-tmpr8g5y
+- THEORY-tmppt44k
 summary: >-
   The owner's: "I feel like this also connects to the interpretation of RL
   post-training as distribution-sharpening". The claim is A's
@@ -37,7 +41,7 @@ summary: >-
   version of the dispute (CLAIM-663, ARG-093). The idea is the owner's;
   the wording is A's, and adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmps7g72 CLAIM-576 CLAIM-663 ARG-093 — Proposed or new; the claim this rests on and the held entries on the same dispute -->
+<!-- inactive-ok-file: CLAIM-tmps7g72 CLAIM-576 CLAIM-663 ARG-093 THEORY-tmp9rnyv THEORY-tmpr8g5y THEORY-tmppt44k THEORY-tmpxu3kz — Proposed or new; the claim this rests on and the held entries on the same dispute -->
 
 # CLAIM-tmp36o5i: Reinforcement learning on verifiable rewards can make an existing disposition cheaper to realize, and whether a run sharpened or expanded is settled per run
 
@@ -55,20 +59,20 @@ only if a verifier exists to recognize success in the base's samples.
 
 ## What the readings show
 
-- **Yue et al.** find that RLVR raises small-k success while base models
+- **Yue et al.** (THEORY-tmp9rnyv) find that RLVR raises small-k success while base models
   match or overtake at large k, "consistently" in the paper's words. That is
   reallocation in their settings.
-- **Meng et al. (Sparse but Critical).** Injecting RL-sampled tokens at
+- **Meng et al. (Sparse but Critical)** (THEORY-tmpr8g5y). Injecting RL-sampled tokens at
   the positions where the two distributions diverge most recovers much of
   the RL model's accuracy with few interventions: "fewer than 4% RL-sampled
   tokens per sequence on average" in one setting, under 8% in others. The
   change is local, at a few decision points.
-- **Balasubramanian and Kasiviswanathan.** In a setting they call
+- **Balasubramanian and Kasiviswanathan** (THEORY-tmppt44k). In a setting they call
   "intentionally minimal", a two-mode mixture, their Lemma 3.2 shows that
   the target of their objective with disjoint supports "only Weights
   Existing Mode Mass": it reweights modes and does not create them. Post-training's losses separate into mass lost on old modes
   and drift within them.
-- **ProRL, against.** Prolonged RL with diversity-preserving choices
+- **ProRL, against** (THEORY-tmpxu3kz). Prolonged RL with diversity-preserving choices
   improves high-budget coverage and finds strategies not seen from the
   base. The qualifiers: the start is already a distilled reasoner, "extensive
   sampling" is k up to about 128, and on math the paper too reports

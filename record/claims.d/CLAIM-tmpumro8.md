@@ -44,7 +44,7 @@ summary: >-
   what the claim must exclude. The hypothesis is the owner's; the wording
   and its test are A's, and adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-022 CLAIM-tmps7g72 CLAIM-tmp36o5i CASE-tmp6214r CASE-tmp71zhd CASE-tmp9201a — Proposed or new; the held case and the entries filed with this one -->
+<!-- inactive-ok-file: THEORY-022 THEORY-tmp3lla6 CLAIM-tmps7g72 CLAIM-tmp36o5i CASE-tmp6214r CASE-tmp71zhd CASE-tmp9201a — Proposed or new; the held case and the entries filed with this one -->
 
 # CLAIM-tmpumro8: The mathematics of waves and distributed modes applies to how learning systems acquire, execute and compose computations, and earns its place where a description in modes and their couplings out-predicts feature-, circuit- or parameter-level accounts
 
@@ -81,7 +81,7 @@ individuation:
 A spectral decomposition alone is not evidence: almost any operator has
 one. The modes must be justified independently, by a task symmetry (the
 Fourier characters of ℤ/p in THEORY-022), an invariant subspace, or a
-validated functional role. FREE-Merging, read for this filing, shows the
+validated functional role. FREE-Merging (THEORY-tmp3lla6) shows the
 failure the claim must exclude. Its "frequencies" run over the arbitrary
 order of a weight matrix's rows and columns. A permutation of hidden units
 changes the function not at all and changes the spectrum.

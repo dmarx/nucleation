@@ -17,6 +17,10 @@ illustrates:
 - CLAIM-407
 bears_on:
 - QUESTION-274
+draws_on:
+- THEORY-tmp713mr
+- THEORY-tmp36vfv
+- THEORY-tmp7o7yb
 summary: >-
   A's construction from A21–A22 of the continuation of the exchange
   "Explain String Theory" (2026-11-15), after the owner's example of "a
@@ -31,7 +35,7 @@ summary: >-
   is A's and unverified. Proposed because the construction is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-182 — Proposed; the claim the construction illustrates -->
+<!-- inactive-ok-file: CLAIM-182 THEORY-tmp713mr THEORY-tmp36vfv THEORY-tmp7o7yb — Proposed; the claim the construction illustrates -->
 
 # CASE-tmp6214r: Reconstruction channels in a phase-coded associative memory
 
@@ -82,6 +86,6 @@ behind it, which only an intervention reveals (CLAIM-407).
 ## What it cannot show
 
 That trained transformers store facts this way. Plate's holographic
-reduced representations and the attention–memory equivalences read for
-this filing make the construction a coherent model of keyed retrieval
+reduced representations (THEORY-tmp713mr) and the attention–memory
+equivalences (THEORY-tmp36vfv, THEORY-tmp7o7yb) make the construction a coherent model of keyed retrieval
 from superposed storage, not evidence that language models use it.

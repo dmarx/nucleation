@@ -15,16 +15,19 @@ line:
 bears_on:
 - QUESTION-275
 - QUESTION-271
+draws_on:
+- THEORY-tmpr984u
+- THEORY-tmprjwtk
 summary: >-
   A's design from A19 of the continuation of the exchange "Explain String
   Theory" (2026-11-15), after the owner's observation that safety research
   "demonstrated the ability to hide, and later activate, latent malicious
   behavior on demand". It is a benign stand-in for sleeper agents (Hubinger
-  et al., read for this filing), so the conditional behavior can be studied
+  et al., THEORY-tmpr984u; probes, THEORY-tmprjwtk), so the conditional behavior can be studied
   without an unsafe one. Not run. Proposed because the design is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-118 — Proposed; the term whose masking, mimicking and finking the design separates -->
+<!-- inactive-ok-file: TERM-118 THEORY-tmpr984u THEORY-tmprjwtk — Proposed; the term whose masking, mimicking and finking the design separates -->
 
 # CASE-tmpev0dj: A proposed study of conditional-capability persistence
 
