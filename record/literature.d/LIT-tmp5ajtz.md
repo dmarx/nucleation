@@ -83,8 +83,8 @@ with Repeated Sampling. arXiv preprint arXiv:2407.21787.
 ## Standing in the record
 
 A's SWE-bench figure is exact, for DeepSeek-Coder-V2-Instruct in the
-Moatless Tools framework. The reader's verdict adds what A's "particular
-evaluation setup" should name: the 56% is coverage under the repository's
+Moatless Tools framework. The reader's verdict adds what A's qualifier, a particular
+evaluation setup, should name: the 56% is coverage under the repository's
 own unit tests as verifier, and 11.3% of problems had flaky tests, handled
 by a majority of 11 runs. A's formula 1 − (1 − p)^N is not in the paper;
 it holds per problem under i.i.d. sampling, not on the mean success rate.

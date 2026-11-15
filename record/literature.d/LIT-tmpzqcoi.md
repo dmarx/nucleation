@@ -94,6 +94,6 @@ when it uses the result as evidence about representation.
 With Hubinger et al. it gives TERM-118 a published mask detected by
 another route: behaviour on the training distribution does not reveal the
 disposition, activations do. The post does not probe models after
-adversarial training, so "masked, not finked" is shown for the models
+adversarial training, so masking rather than finking is shown for the models
 probed only. Its detection method is ML practice and belongs to the
 anthology (ADR-048); hence the flag.

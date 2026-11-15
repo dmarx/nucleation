@@ -111,7 +111,7 @@ impression of safety".
 - **CLAIM-619**: an analogy at the level of the model. Adversarial training
   lowers the rate at which red-teamers elicit the behaviour, and the fall
   is compatible with the disposition intact, which is the claim's point
-  that fewer elicited challenges can "read as success". The claim is about
+  that the later absence of challenges "reads as success". The claim is about
   organizations; this corroborates by analogy only.
 - **CLAIM-448**: weaker, by analogy. A clean evaluation on the training
   distribution is no evidence that the backdoor is gone.

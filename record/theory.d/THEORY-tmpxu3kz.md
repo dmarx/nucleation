@@ -52,7 +52,7 @@ could have shown narrowing everywhere, as Yue et al. found for short runs.
 
 - That RL expands the boundary of a pretrained base: the start model is
   distilled from a stronger reasoner.
-- That the start model cannot solve a "0 → positive" task: pass@k was read
+- That the start model cannot solve a task that went from zero to positive: pass@k was read
   to k = 128, not Yue et al.'s 1024, and failure at finite k is not
   unsolvability (QUESTION-279).
 - That the expansion is general: it is largest where the start model is

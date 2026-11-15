@@ -48,7 +48,7 @@ less.
 
 - Zero-RL from pretrained bases for math. Pass@k is taken as the measure
   of a reasoning boundary.
-- "The base model is an upper bound" means: of what it samples at up to
+- The base model as an upper bound means: of what it samples at up to
   k = 256 or 1024. Correctness is by final answer; base-model chains of
   thought "manually selected from 2048 samplings" for the hardest AIME24
   questions are offered as genuine solutions.
@@ -90,7 +90,7 @@ reduction.
   properties of a process, which the claim demonstrates. It also shows a
   trade between them under one intervention, which the claim does not
   assert.
-- **CLAIM-576 and QUESTION-392**: whether RL "creates a capability" depends
+- **CLAIM-576 and QUESTION-392**: whether RL creates a capability depends
   on the budget at which the repertoire is read. The contrast with
   distillation is a candidate for QUESTION-392's line between creating a
   capability and making one cheaper to reach. Whether RL is a change of
