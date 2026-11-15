@@ -25,7 +25,7 @@ summary: >-
   with any link to learning A's analogy. The wording is the reader's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpn3i8n NOTE-tmp5yuxz LIT-tmpv09vj THEORY-tmp4wies — new entries of this filing, not yet in force -->
+<!-- inactive-ok-file: THEORY-tmp4wies — Proposed or Skimmed entries of this filing -->
 
 # THEORY-tmp6ntgy: Chang and co-authors imprint designed, anisotropic correlated disorder on nematic liquid-crystal films by photoalignment and observe branched flow of light whose first-branch distance, read from the scintillation index over about ten fabricated films, grows with anisotropy and falls with rotation of the principal axis in agreement with df ∝ ε^−2/3 A^4/3 lx (cos²α + sin²α/A²)^5/6, and at anisotropy 1/1000 channels the light along the long correlation axis with sub-diffusive growth of its velocity-angle spread
 

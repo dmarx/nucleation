@@ -23,7 +23,6 @@ summary: >-
   record's: it is wave physics, and any link to learning is analogy. The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpv09vj NOTE-tmpg83d3 LIT-tmpn3i8n — new entries of this filing, not yet in force -->
 
 # THEORY-tmp4wies: In a soap film under a micrometre thick, Patsyk, Sivan, Segev and Bandres observe light branching as it propagates, because smooth thickness variations act as a weak correlated potential for linear guided waves; the scintillation index peaks near a distance proportional to lc v0^−2/3, branch intensities are heavier-tailed than Rayleigh, and a branch keeps its width for at least ten Rayleigh lengths
 

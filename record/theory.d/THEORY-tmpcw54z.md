@@ -23,7 +23,7 @@ summary: >-
   THEORY-tmp713mr, with composition by correlation and learned embeddings.
   The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp7xp5z NOTE-tmpmehz3 THEORY-tmp713mr — new entries of this filing, not yet in force -->
+<!-- inactive-ok-file: THEORY-tmp713mr — Proposed or Skimmed entries of this filing -->
 
 # THEORY-tmpcw54z: Nickel, Rosasco and Poggio score a knowledge-graph triple by σ(r_pᵀ(e_s ⋆ e_o)) with circular correlation ⋆, an operator that compresses the subject–object tensor product into d components at O(d) memory and O(d log d) time and is non-commutative, so it can model asymmetric relations; with all models reimplemented under one loss and optimizer it gave the highest filtered MRR on WN18 and FB15k against TransE, TransR, ER-MLP and RESCAL
 

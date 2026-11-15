@@ -37,7 +37,7 @@ summary: >-
   1000 holograms; thick layers keep crosstalk down. No selectivity-width
   formula is given. Stand-in for A's unidentified source.
 ---
-<!-- inactive-ok-file: LIT-tmp3d5f9 THEORY-tmpc3mjh LIT-tmpq18t6 CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # NOTE-tmpgrvfy: Márquez et al. — Angle multiplexing and Bragg selectivity in volume holography
 

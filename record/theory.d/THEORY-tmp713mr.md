@@ -27,7 +27,7 @@ summary: >-
   location, is analogy and is not filed as a relation. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpq18t6 NOTE-tmp9vqu3 LIT-tmp7xp5z CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # THEORY-tmp713mr: Plate represents compositional structure in fixed-width distributed vectors by binding with circular convolution, superposing by addition and decoding with circular correlation, an approximate inverse of convolution whose output is a noisy version of the bound item that a separate item memory must clean up; for independent random vectors the number of pairs a trace can hold grows about linearly with the dimension
 

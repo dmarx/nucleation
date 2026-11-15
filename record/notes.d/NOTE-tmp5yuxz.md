@@ -26,7 +26,7 @@ summary: >-
   anisotropy 1/1000 the light is channeled along the long correlation axis,
   with sub-diffusive growth of the velocity-angle spread.
 ---
-<!-- inactive-ok-file: LIT-tmpn3i8n LIT-tmpv09vj THEORY-tmp6ntgy CLAIM-182 — new entries of this filing, and a Proposed claim cited as having no bearing -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # NOTE-tmp5yuxz: Chang et al. — Programmable branched flow of light
 

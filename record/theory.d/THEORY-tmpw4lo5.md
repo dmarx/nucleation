@@ -27,7 +27,6 @@ summary: >-
   multiscale decomposition giving covariance only. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpfzpbg NOTE-tmp7az9p — new entries of this filing, not yet in force -->
 
 # THEORY-tmpw4lo5: Bruna and Mallat define a windowed scattering transform, a cascade of fixed wavelet convolutions, complex modulus and local averaging, which is contractive, translation invariant below the scale 2^J and Lipschitz-stable to small deformations, whose second-order coefficients depend on moments up to order four, and which with fixed filters gave 0.43% error on MNIST with an SVM and 0.2% on CUReT with a PCA classifier
 

@@ -51,7 +51,7 @@ summary: >-
   Plate's HRR, LIT-tmpq18t6. A called it "competitive"; the paper claims to
   outperform, which holds on MRR and is mixed on FB15k Hits@10.
 ---
-<!-- inactive-ok-file: NOTE-tmpmehz3 THEORY-tmpcw54z LIT-tmpq18t6 CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 THEORY-tmpcw54z — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
 
 # LIT-tmp7xp5z: Holographic Embeddings of Knowledge Graphs
 

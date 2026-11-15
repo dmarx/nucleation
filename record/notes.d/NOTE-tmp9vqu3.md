@@ -31,7 +31,7 @@ summary: >-
   the number of candidate items. Holographic only by descent from
   convolution–correlation memories.
 ---
-<!-- inactive-ok-file: LIT-tmpq18t6 THEORY-tmp713mr LIT-tmp7xp5z LIT-tmp3d5f9 CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # NOTE-tmp9vqu3: Plate — Holographic reduced representations
 

@@ -66,7 +66,7 @@ summary: >-
   unidentified source. Bears, as analogy, on CLAIM-182: an address need not
   be a location.
 ---
-<!-- inactive-ok-file: NOTE-tmpgrvfy THEORY-tmpc3mjh LIT-tmpq18t6 CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 NOTE-tmpgrvfy THEORY-tmpc3mjh — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
 
 # LIT-tmp3d5f9: Information multiplexing from optical holography to multi-channel metaholography
 

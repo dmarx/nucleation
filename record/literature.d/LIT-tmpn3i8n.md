@@ -56,7 +56,7 @@ summary: >-
   et al. (2020), LIT-tmpv09vj, which A credited to this paper. Physics only;
   no claim about learning.
 ---
-<!-- inactive-ok-file: NOTE-tmp5yuxz THEORY-tmp6ntgy LIT-tmpv09vj — new entries of this filing, not yet in force -->
+<!-- inactive-ok-file: THEORY-tmp6ntgy — Proposed or Skimmed entries of this filing -->
 
 # LIT-tmpn3i8n: Programmable branched flow of light
 

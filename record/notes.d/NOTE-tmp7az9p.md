@@ -31,7 +31,7 @@ summary: >-
   classifier it reaches state-of-the-art error on MNIST, USPS and CUReT
   without learned filters.
 ---
-<!-- inactive-ok-file: LIT-tmpfzpbg THEORY-tmpw4lo5 CLAIM-182 — new entries of this filing, and a Proposed claim cited as having no bearing -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # NOTE-tmp7az9p: Bruna and Mallat — Invariant scattering convolution networks
 

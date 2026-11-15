@@ -57,7 +57,7 @@ summary: >-
   Bears, as analogy, on addressability without spatial separation
   (CLAIM-182), and as a capacity threshold for random codes on QUESTION-120.
 ---
-<!-- inactive-ok-file: NOTE-tmp9vqu3 THEORY-tmp713mr LIT-tmp7xp5z LIT-tmp3d5f9 CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 THEORY-tmp713mr — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
 
 # LIT-tmpq18t6: Holographic reduced representations
 

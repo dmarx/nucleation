@@ -53,7 +53,7 @@ summary: >-
   linear multiscale decomposition gives covariance, and invariance needs
   the modulus.
 ---
-<!-- inactive-ok-file: NOTE-tmp7az9p THEORY-tmpw4lo5 — new entries of this filing, not yet in force -->
+<!-- inactive-ok-file: THEORY-tmpw4lo5 — Proposed or Skimmed entries of this filing -->
 
 # LIT-tmpfzpbg: Invariant Scattering Convolution Networks
 

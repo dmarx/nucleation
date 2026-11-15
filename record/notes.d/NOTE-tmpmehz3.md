@@ -26,7 +26,7 @@ summary: >-
   memorizes. Reimplemented baselines under one protocol; best filtered MRR
   on WN18 and FB15k, mixed on FB15k Hits@10.
 ---
-<!-- inactive-ok-file: LIT-tmp7xp5z LIT-tmpq18t6 THEORY-tmpcw54z CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # NOTE-tmpmehz3: Nickel, Rosasco and Poggio — Holographic embeddings of knowledge graphs
 

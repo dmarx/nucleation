@@ -21,7 +21,7 @@ summary: >-
   readout from a superposed store, is analogy and is not filed as a
   relation. The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp3d5f9 NOTE-tmpgrvfy THEORY-tmp713mr CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+<!-- inactive-ok-file: CLAIM-182 NOTE-tmpgrvfy THEORY-tmp713mr — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
 
 # THEORY-tmpc3mjh: Márquez and co-authors review how, in a volume hologram, multi-plane diffraction makes reconstruction Bragg-selective in the angle (in transmission) or wavelength (in reflection) of the reading beam, so that holograms recorded in the same volume but detuned beyond the Bragg selectivity range are reconstructed independently, one per reading beam, sharing the material's dynamic range; on this basis angle multiplexing is the most widespread holographic-data-storage method, with more than 1000 holograms stored, and thick layers are needed to keep crosstalk between pages down
 

@@ -57,7 +57,7 @@ summary: >-
   bearing on the record is as physics only, and every bridge from it to
   learning is A's analogy.
 ---
-<!-- inactive-ok-file: NOTE-tmpg83d3 THEORY-tmp4wies LIT-tmpn3i8n — new entries of this filing, not yet in force -->
+<!-- inactive-ok-file: THEORY-tmp4wies — Proposed or Skimmed entries of this filing -->
 
 # LIT-tmpv09vj: Observation of branched flow of light
 

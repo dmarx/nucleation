@@ -26,7 +26,7 @@ summary: >-
   keeps its width over ten Rayleigh lengths. Linear wave physics; no claim
   about computation.
 ---
-<!-- inactive-ok-file: LIT-tmpv09vj LIT-tmpn3i8n THEORY-tmp4wies CLAIM-182 — new entries of this filing, and a Proposed claim cited as having no bearing -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # NOTE-tmpg83d3: Patsyk, Sivan, Segev and Bandres — Branched flow of light in a soap film
 
