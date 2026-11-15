@@ -13,6 +13,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 - [15 Nov 01:00 — LEACE (Belrose et al. 2023), perfect linear concept erasure, read and filed: discussed in the record but not held](2026-11.md#leace-belrose-et-al-2023-perfect-linear-concept-erasure-read-and-filed-discussed-in-the-record-but-not-held)
 - [15 Nov 00:52 — MuEdit (Liang et al. 2026), multi-domain LLM editing and null-space misalignment, read and filed for its account, not its recipe](2026-11.md#muedit-liang-et-al-2026-multi-domain-llm-editing-and-null-space-misalignment-read-and-filed-for-its-account-not-its-recipe)
 - [15 Nov 00:17 — Tu (2026), nonequilibrium thermodynamics for biochemical networks, registered Unfetched: the session's permission system refused the publisher's open PDF](2026-11.md#tu-2026-nonequilibrium-thermodynamics-for-biochemical-networks-registered-unfetched-the-sessions-permission-system-refused-the-publishers-open-pdf)
+- [14 Nov 23:49 — A Game of Life construction for the question of how forms are made, kept and given a role, at the owner's suggestion](2026-11.md#a-game-of-life-construction-for-the-question-of-how-forms-are-made-kept-and-given-a-role-at-the-owners-suggestion)
 - [14 Nov 20:54 — Zelnik, Meron and Bel (2015), gradual regime shifts in fairy circles, read and filed](2026-11.md#zelnik-meron-and-bel-2015-gradual-regime-shifts-in-fairy-circles-read-and-filed)
 - [14 Nov 20:52 — Martinez-Garcia et al. (2023), dryland vegetation pattern mechanisms, read and filed as Sun et al.'s ref. 34](2026-11.md#martinez-garcia-et-al-2023-dryland-vegetation-pattern-mechanisms-read-and-filed-as-sun-et-als-ref-34)
 - [14 Nov 20:41 — Sun et al. (2026), a dryland shrub–grass phase transition, read and filed: registered Unfetched behind pnas.org's bot check, then read in full from the owner's copy](2026-11.md#sun-et-al-2026-a-dryland-shrubgrass-phase-transition-read-and-filed-registered-unfetched-behind-pnasorgs-bot-check-then-read-in-full-from-the-owners-copy)
@@ -71,10 +72,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-259 entries across 3 books, newest first.
+260 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 62 | 2026-11-01 | 2026-11-15 |
+| [2026-11](2026-11.md) | 63 | 2026-11-01 | 2026-11-15 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

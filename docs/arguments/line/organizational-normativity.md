@@ -6,7 +6,7 @@
 
 **Normative judgment about organizations** — whether an organization's own dynamics ground norms of function and failure, and what judging an organization needs beyond them — fixed relata before a judgment is well-defined, viability that does not establish what ought to persist, histories a present state does not show, and a bounded duty of answerability for the wrong beyond harm; split from will-organization (ADR-089).
 
-14 of 100 ARG documents. Back to the [full index](../README.md).
+14 of 101 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

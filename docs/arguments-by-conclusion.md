@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 105 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 106 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -223,3 +223,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-100](../record/arguments.d/ARG-100.md) — Seamster and Charron-Chénier's predatory inclusion in education debt shows that an arrangement can exploit through the access it grants, and that widening access need not reduce it *(Proposed, evidence)*
 - [CLAIM-671](../record/claims.d/CLAIM-671.md) — Where an organizational transformation increases a constituent's vulnerability to the discretionary choices of a responsible agent, and that vulnerability grounds special obligations under an independently justified principle, the transformation can strengthen that agent's responsibilities toward the constituent *(Proposed, supposed)*
   - [ARG-099](../record/arguments.d/ARG-099.md) — Fineman's vulnerability account shows that an organizational transformation that increases constituents' vulnerability to a responsible agent's discretion strengthens that agent's responsibilities toward them *(Rejected, evidence)*
+- [CLAIM-672](../record/claims.d/CLAIM-672.md) — How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form's stabilization and its role, though they can come apart, are not independent *(Proposed, thesis)*
+  - [ARG-101](../record/arguments.d/ARG-101.md) — A still life that is a fixed point alone and is broken and rebuilt in a role, by itself or by the pattern it serves, shows that the mechanism keeping a form in being can change with the form's role *(Proposed, existence)*

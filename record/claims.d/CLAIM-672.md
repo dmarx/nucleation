@@ -1,12 +1,15 @@
 ---
+number: 672
 status: Proposed
+formerly:
+- CLAIM-tmp9os8f
 title: 'How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form''s stabilization and its role, though they can come apart, are not independent'
 version: 1
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   Any one of three results. (1) A correct run of the constructions in
-  CASE-tmpnqx8e and CASE-tmpjucsj shows the forms in their roles
+  CASE-260 and CASE-259 shows the forms in their roles
   untouched: no cell of a gun block, or of the eater across the gun's
   stream, ever dies. Persistence in the role would then be the same fixed
   point as alone. (2) An argument that the mechanisms named are one
@@ -24,8 +27,8 @@ date: '2026-11-15'
 line:
 - distributed-agency
 grounds:
-- CASE-tmpnqx8e
-- CASE-tmpjucsj
+- CASE-260
+- CASE-259
 bears_on:
 - QUESTION-281
 summary: >-
@@ -39,9 +42,9 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CASE-tmpnqx8e CASE-tmpjucsj ARG-tmpdg5zy — Proposed; the constructions and the argument filed with this claim -->
+<!-- inactive-ok-file: CASE-260 CASE-259 ARG-101 — Proposed; the constructions and the argument filed with this claim -->
 
-# CLAIM-tmp9os8f: How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form's stabilization and its role, though they can come apart, are not independent
+# CLAIM-672: How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form's stabilization and its role, though they can come apart, are not independent
 
 ## The claim
 
@@ -50,19 +53,19 @@ coming to have a constitutive role, and asks whether they are three
 achievements. This claim concerns the second and third.
 
 - **They can come apart.** A lone block in Life is stable and has no
-  role ([CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md)).
+  role ([CASE-260](../cases.d/CASE-260.md)).
 - **They are not independent.** The mechanism that stabilizes the form
   is not a property of the form. In Life, the same still life persists by
   one of three mechanisms:
   - as a fixed point, alone;
-  - by its own repair, the eater across a glider stream ([CASE-tmpjucsj](../cases.d/CASE-tmpjucsj.md));
+  - by its own repair, the eater across a glider stream ([CASE-259](../cases.d/CASE-259.md));
   - by repair from the pattern it serves, the blocks of Gosper's gun
-    ([CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md)).
+    ([CASE-260](../cases.d/CASE-260.md)).
 
   In both constructions, taking the role is what moved the form from the
   first mechanism to one of the others.
 
-The argument is [ARG-tmpdg5zy](../arguments.d/ARG-tmpdg5zy.md), an existence proof.
+The argument is [ARG-101](../arguments.d/ARG-101.md), an existence proof.
 
 ## What it does not say
 

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**919 documents cited without acknowledgement.** Not listed: 26902 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**919 documents cited without acknowledgement.** Not listed: 26923 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2456,7 +2456,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 - [`record/literature.d/LIT-1940.md:43`](../../record/literature.d/LIT-1940.md)
 - [`record/notes.d/NOTE-111.md:108`](../../record/notes.d/NOTE-111.md)
 - [`record/questions.d/QUESTION-118.md:205`](../../record/questions.d/QUESTION-118.md)
-- [`record/questions.d/QUESTION-281.md:232`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:233`](../../record/questions.d/QUESTION-281.md)
 - [`record/syntheses.d/SYNTHESIS-006.md:260`](../../record/syntheses.d/SYNTHESIS-006.md)
 - [`record/terms.d/TERM-070.md:84`](../../record/terms.d/TERM-070.md)
 
@@ -2845,7 +2845,7 @@ What a constrained system can reach under a budget is not what it can hold: feas
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-26 citations in 12 files await a look; 212 other citations of it are acknowledged.
+26 citations in 12 files await a look; 213 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:40`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:80`](../../record/cases.d/CASE-101.md)
@@ -6923,7 +6923,7 @@ Communication can be treated as transduction, the continuity of an action throug
 - [`record/claims.d/CLAIM-525.md:14`](../../record/claims.d/CLAIM-525.md)
 - [`record/literature.d/LIT-1902.md:83`](../../record/literature.d/LIT-1902.md)
 - [`record/literature.d/LIT-1912.md:78`](../../record/literature.d/LIT-1912.md)
-- [`record/questions.d/QUESTION-281.md:211`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:212`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-153](../../record/theory.d/THEORY-153.md) — Proposed
 
@@ -7427,7 +7427,7 @@ Individuation in Light of Notions of Form and Information
 - [`record/claims.d/CLAIM-477.md:369`](../../record/claims.d/CLAIM-477.md)
 - [`record/claims.d/CLAIM-526.md:133`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1902.md:77`](../../record/literature.d/LIT-1902.md)
-- [`record/questions.d/QUESTION-281.md:199`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:200`](../../record/questions.d/QUESTION-281.md)
 
 ### [LIT-1671](../../record/literature.d/LIT-1671.md) — Unavailable
 
@@ -9949,7 +9949,7 @@ Pattern formation outside of equilibrium
 2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-527.md:6`](../../record/literature.d/LIT-527.md)
-- [`record/questions.d/QUESTION-281.md:97`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:98`](../../record/questions.d/QUESTION-281.md)
 
 ### [NOTE-696](../../record/notes.d/NOTE-696.md) — Skimmed
 
@@ -10453,7 +10453,7 @@ Micropolitics is the modulation of a relational field toward a maximally inclusi
 2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1484.md:213`](../../record/notes.d/NOTE-1484.md)
-- [`record/questions.d/QUESTION-281.md:214`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:215`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-1298](../../record/theory.d/THEORY-1298.md) — Proposed
 

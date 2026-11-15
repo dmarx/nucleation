@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1497 document(s) awaiting a decision.**
+**1501 document(s) awaiting a decision.**
 
 ## LITs
 
-90 of the 1497.
+90 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-895 of the 1497.
+895 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1008,7 +1008,7 @@
 
 ## ADRs
 
-24 of the 1497.
+24 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1039,7 +1039,7 @@
 
 ## QUESTIONs
 
-6 of the 1497.
+6 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1052,7 +1052,7 @@
 
 ## CLAIMs
 
-252 of the 1497.
+253 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1075,7 +1075,7 @@
 | 2026-10-04 | Deferred | [CLAIM-016](../../record/claims.d/CLAIM-016.md) | 2 | 52 | 4 | An organized agent's will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization |
 | 2026-10-08 | Proposed | [CLAIM-091](../../record/claims.d/CLAIM-091.md) | 2 | 69 | 3 | A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity |
 | 2026-10-08 | Proposed | [CLAIM-004](../../record/claims.d/CLAIM-004.md) | 2 | 51 | 4 | Not every difference between translations is a difference of frame: some change the act being framed |
-| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 2 | 238 | 26 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
+| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 2 | 239 | 26 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
 | 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 2 | 91 | 11 | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
 | 2026-10-11 | Proposed | [CLAIM-170](../../record/claims.d/CLAIM-170.md) | 2 | 55 | 2 | The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-182](../../record/claims.d/CLAIM-182.md) | 2 | 38 | 4 | Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses |
@@ -1308,10 +1308,11 @@
 | 2026-11-12 | Proposed | [CLAIM-666](../../record/claims.d/CLAIM-666.md) | 0 | 4 | 0 | A migration of the record's grammar is faithful when it preserves the record's accountability structure, not its old graph: where the old grammar forced a relation nobody asserted, a faithful migration removes it |
 | 2026-11-12 | Proposed | [CLAIM-646](../../record/claims.d/CLAIM-646.md) | 0 | 3 | 0 | Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor |
 | 2026-11-13 | Proposed | [CLAIM-670](../../record/claims.d/CLAIM-670.md) | 0 | 3 | 0 | An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused |
+| 2026-11-15 | Proposed | [CLAIM-672](../../record/claims.d/CLAIM-672.md) | 0 | 1 | 0 | How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form's stabilization and its role, though they can come apart, are not independent |
 
 ## CASEs
 
-69 of the 1497.
+71 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1328,6 +1329,8 @@
 | 2026-11-12 | Proposed | [CASE-241](../../record/cases.d/CASE-241.md) | 2 | 16 | 0 | A forager whose expected profile is set by its own upkeep against one whose profile is a designer's stored yield: they flag the same silent patch, and come apart when the yield falls but still pays and when the upkeep rises past an unchanged yield |
 | 2026-11-12 | Proposed | [CASE-236](../../record/cases.d/CASE-236.md) | 2 | 5 | 0 | A chain of n moves and a complete graph on the same n + 1 configurations, every configuration and every move needing one unit of peak capacity and every move spending one unit: every pair is joined at budget 1 in both, while the least cumulative cost from one end to the other is n in the chain and 1 in the complete graph |
 | 2026-11-12 | Proposed | [CASE-245](../../record/cases.d/CASE-245.md) | 2 | 4 | 0 | A start state with a one-step edge to the target and a one-step edge to an absorbing trap, and a process that takes the target edge when one step remains and the trap edge when more remain: the target is reachable by a path at every budget from 1, and the process reaches it at budget 1 and never at 2 or more |
+| 2026-11-14 | Proposed | [CASE-260](../../record/cases.d/CASE-260.md) | 2 | 13 | 0 | The block in Conway's Game of Life: one two-glider collision makes a block that is destroyed the next generation and later a block that lasts, the difference set by a cell outside the form; a lone block is a fixed point that nothing depends on, while each block of Gosper's glider gun is broken and rebuilt by the gun every 30 generations and the gun stops emitting without it |
+| 2026-11-15 | Proposed | [CASE-259](../../record/cases.d/CASE-259.md) | 2 | 4 | 0 | The eater in Conway's Game of Life: alone it is a fixed point; struck by a glider in one lane it loses a cell and regrows it by its own neighbour counts, where a block in its place is annihilated; set across a glider gun's stream it repairs itself every 30 generations and makes gun and eater one bounded period-30 whole |
 | 2026-10-26 | Proposed | [CASE-166](../../record/cases.d/CASE-166.md) | 1 | 31 | 1 | Northstar as a multilevel simulation: twelve employees with fixed frames in four departments form overlapping working groups that keep records and can receive delegated authority; as reported, a working group with delegated authority ties a conventional router given the same information and authority, nearly all of its advantage over departmental silos comes from fast authorization, and keeping the incident team's records through a commander handoff improves the company's estimate of its own state about eightfold while barely changing what it does |
 | 2026-10-26 | Proposed | [CASE-164](../../record/cases.d/CASE-164.md) | 1 | 27 | 2 | A 192-state organization on which one kernel gives several closure verdicts: the description by agents and phase is informationally closed on the intact support and fails global strong lumpability, its deficiency for the next pair of rule integrities under a declared intervention mixture is 0.55·H₂(1/3) ≈ 0.5051 bits and zero once the maintenance mode is kept, and finite-sample predictive gains misread both a positive and a zero information defect |
 | 2026-11-04 | Proposed | [CASE-194](../../record/cases.d/CASE-194.md) | 1 | 47 | 5 | Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies |
@@ -1387,7 +1390,7 @@
 
 ## TERMs
 
-24 of the 1497.
+24 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1418,7 +1421,7 @@
 
 ## ARGs
 
-58 of the 1497.
+59 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1480,10 +1483,11 @@
 | 2026-11-12 | Proposed | [ARG-086](../../record/arguments.d/ARG-086.md) | 0 | 1 | 0 | The trap construction shows that reachability by a budget-dependent process can fall as the budget rises while path reachability does not |
 | 2026-11-12 | Proposed | [ARG-092](../../record/arguments.d/ARG-092.md) | 0 | 1 | 0 | The exit-driven drift toy shows that a practice can expand under an honest count of present users' complaints, through the exit it causes alone |
 | 2026-11-12 | Proposed | [ARG-078](../../record/arguments.d/ARG-078.md) | 0 | 0 | 0 | The chain and the complete graph on the same configurations show that peak-capacity thresholds do not fix cumulative transition costs |
+| 2026-11-15 | Proposed | [ARG-101](../../record/arguments.d/ARG-101.md) | 0 | 2 | 0 | A still life that is a fixed point alone and is broken and rebuilt in a role, by itself or by the pattern it serves, shows that the mechanism keeping a form in being can change with the form's role |
 
 ## SYNTHESISs
 
-79 of the 1497.
+79 of the 1501.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
