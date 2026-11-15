@@ -351,7 +351,7 @@ includes distributed-agency.*
 ### Becoming less informed, and dependence that does not become authority
 
 Added at version 3. Each component is also in organizational-normativity,
-or since its split (ADR-tmpbthzh) in dependence-and-domination, and [SYNTHESIS-094](SYNTHESIS-094.md) or [SYNTHESIS-092](SYNTHESIS-092.md) sets it out there.
+or since its split ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)) in dependence-and-domination, and [SYNTHESIS-094](SYNTHESIS-094.md) or [SYNTHESIS-092](SYNTHESIS-092.md) sets it out there.
 
 - **Two routes to being less informed.** [CLAIM-652](../claims.d/CLAIM-652.md) (the assistant's,
   accepted by the owner on 2026-11-12; thesis, demonstrated, Proposed;

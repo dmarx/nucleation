@@ -239,7 +239,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 - [CLAIM-669](../claims.d/CLAIM-669.md) and [CLAIM-670](../claims.d/CLAIM-670.md), A's; thesis, interpretive, Proposed. [CLAIM-671](../claims.d/CLAIM-671.md),
   the owner's proposition; supposed, interpretive, Proposed. [CLAIM-673](../claims.d/CLAIM-673.md),
   A's; thesis, interpretive, Proposed. All four have
-  dependence-and-domination first (organizational-normativity until ADR-tmpbthzh); added at version 6.
+  dependence-and-domination first (organizational-normativity until [ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)); added at version 6.
 
 ## Links the components state, and where
 
@@ -266,7 +266,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 ## Across to dependence-and-domination
 
 Added at version 6, under organizational-normativity; since its split
-(ADR-tmpbthzh), the line is dependence-and-domination. Four claims of that line
+([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)), the line is dependence-and-domination. Four claims of that line
 carry transient-support second; that line's part accounts set them out
 in full ([SYNTHESIS-092](SYNTHESIS-092.md), [SYNTHESIS-093](SYNTHESIS-093.md)). Each link here is a
 front-matter relation of the entry named first, unless a body is cited.
