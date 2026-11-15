@@ -35,7 +35,7 @@ summary: >-
 The first experimental observation of branched flow of light. Branched
 flow had been seen for electrons in two-dimensional electron gases and for
 microwaves in cavities, never in optics. The platform is cheap and
-reconfigurable: blowing on the film gives a new realization of the
+reconfigurable: a weak air flow near the film gives a new realization of the
 disorder, and the potential can be reconstructed from the film's
 white-light interference colours. With it the authors test two universal
 signatures of branched flow and report a third observation, that branches
