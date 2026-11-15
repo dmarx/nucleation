@@ -23,8 +23,7 @@ summary: >-
   negative on math. The counterclaim to Yue et al., and the test case for
   whether RL changes what is reachable.
 ---
-<!-- inactive-ok-file: LIT-tmp7463t LIT-tmpfmva5 THEORY-tmpxu3kz THEORY-tmp9rnyv — new entries filed in the same contribution -->
-<!-- inactive-ok-file: CLAIM-576 THEORY-1703 THEORY-1672 CLAIM-663 CLAIM-654 — Proposed; the claim this reading tests and the agentic extension of the dispute -->
+<!-- inactive-ok-file: CLAIM-576 THEORY-1703 THEORY-1672 CLAIM-663 — Proposed; the claim this reading tests and the agentic extension of the dispute -->
 
 # NOTE-tmppn4n4: Liu et al. — ProRL
 

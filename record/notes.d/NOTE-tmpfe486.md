@@ -25,7 +25,7 @@ summary: >-
   directions. RLVR mostly reallocates mass among tokens the base model
   already ranks highly. Token-level support for Yue et al.'s sharpening.
 ---
-<!-- inactive-ok-file: LIT-tmpnkxqn LIT-tmpfmva5 THEORY-tmpr8g5y THEORY-tmp9rnyv THEORY-tmppt44k — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv THEORY-tmppt44k — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this reading bears on indirectly -->
 
 # NOTE-tmpfe486: Meng et al. — Sparse but Critical

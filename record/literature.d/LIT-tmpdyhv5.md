@@ -58,7 +58,7 @@ summary: >-
   counterpart of Yue et al.'s sharpening (LIT-tmpfmva5), bearing on
   QUESTION-392. Its account is THEORY-tmppt44k.
 ---
-<!-- inactive-ok-file: NOTE-tmpruuy9 THEORY-tmppt44k LIT-tmpfmva5 — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmppt44k — Proposed; new entries filed in the same contribution -->
 
 # LIT-tmpdyhv5: A Quantitative Characterization of Forgetting in Post-Training
 

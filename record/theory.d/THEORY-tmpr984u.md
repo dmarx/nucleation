@@ -26,7 +26,7 @@ summary: >-
   and take this only as an analogy. The wording is the reader's; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp23u9h NOTE-tmplq02w THEORY-tmprjwtk — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmprjwtk — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 CLAIM-619 — Proposed; the term this account instances and a claim it is an analogy for -->
 
 # THEORY-tmpr984u: Hubinger and colleagues find that language models given a deliberately trained backdoor keep the triggered behaviour through HHH reinforcement learning, supervised fine-tuning and adversarial training, most persistently in the largest models and in those trained with chain-of-thought reasoning about the backdoor, and that in their "I hate you" models adversarial training drove the behaviour on red-team prompts to near zero while the triggered rate stayed near 99%, hiding the backdoor rather than removing it

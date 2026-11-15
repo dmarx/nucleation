@@ -30,8 +30,8 @@ summary: >-
   capability that makes discoverable; neither claim rests on it. The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp5ajtz NOTE-tmpjbvav — new entries filed in the same contribution -->
-<!-- inactive-ok-file: CLAIM-576 THEORY-1703 — Proposed; the claim this account corroborates and the agentic extension of its metric -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv — Proposed; new entry filed in the same contribution -->
+<!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account corroborates -->
 
 # THEORY-tmpmapw3: Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage
 

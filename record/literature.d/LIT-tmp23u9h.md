@@ -54,7 +54,7 @@ summary: >-
   near 99%. Here as a published case of masking (TERM-118), beside
   MacDiarmid et al.'s probes (LIT-tmpzqcoi); its account is THEORY-tmpr984u.
 ---
-<!-- inactive-ok-file: NOTE-tmplq02w LIT-tmpzqcoi THEORY-tmpr984u THEORY-tmprjwtk — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmpr984u — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 CLAIM-619 — Proposed; the term whose masking row this work instances, and the claim it is an analogy for -->
 
 # LIT-tmp23u9h: Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training

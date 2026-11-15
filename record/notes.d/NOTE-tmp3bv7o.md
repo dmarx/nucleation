@@ -22,8 +22,7 @@ summary: >-
   with the weights unchanged, a plain case of improving the signal and not
   the interpreter (CLAIM-118).
 ---
-<!-- inactive-ok-file: LIT-tmpygfnl — new entry filed in the same contribution -->
-<!-- inactive-ok-file: CLAIM-576 THEORY-591 THEORY-1773 — Proposed; the claim this reading bears on weakly and two neighbouring readings -->
+<!-- inactive-ok-file: CLAIM-576 THEORY-591 — Proposed; the claim this reading bears on weakly and a neighbouring reading -->
 
 # NOTE-tmp3bv7o: Yao et al. — ReAct, for one use
 

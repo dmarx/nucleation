@@ -54,7 +54,7 @@ summary: >-
   HotpotQA. Here for A's single use, a model querying a source that supplies
   a fact it lacked, and for CLAIM-118. Skimmed; no THEORY filed.
 ---
-<!-- inactive-ok-file: NOTE-tmp3bv7o — new entry filed in the same contribution -->
+<!-- inactive-ok-file: NOTE-tmp3bv7o — Skimmed; the reading filed in the same contribution -->
 <!-- inactive-ok-file: THEORY-591 THEORY-1773 — Proposed; neighbouring readings on tools in cognition and on tool-using agents -->
 
 # LIT-tmpygfnl: ReAct: Synergizing Reasoning and Acting in Language Models

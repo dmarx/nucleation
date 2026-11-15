@@ -26,7 +26,7 @@ summary: >-
   paths are added. The wording is the reader's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: LIT-tmpnkxqn NOTE-tmpfe486 THEORY-tmp9rnyv — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account bears on indirectly -->
 
 # THEORY-tmpr8g5y: Meng and colleagues find that RLVR fine-tuning of Qwen2.5-32B leaves most next-token distributions nearly unchanged, over 83% of positions at near-zero Jensen–Shannon divergence under DAPO and over 98% under SimpleRL, and that sampling the RL model's token only at the highest-divergence positions, a few percent of tokens, raises the base model to RL-level accuracy on AIME while sampling the base model's token there drops the RL model to base level, RLVR rarely promoting tokens the base model found unlikely

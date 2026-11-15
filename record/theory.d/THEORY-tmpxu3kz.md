@@ -29,8 +29,8 @@ summary: >-
   k; so no CLAIM is listed as corroborated. The wording is the reader's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp7463t NOTE-tmppn4n4 THEORY-tmp9rnyv — new entries filed in the same contribution -->
-<!-- inactive-ok-file: CLAIM-576 THEORY-1672 — Proposed; the claim this account tests and the agentic counterpart -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv — Proposed; new entries filed in the same contribution -->
+<!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account tests -->
 
 # THEORY-tmpxu3kz: Liu and colleagues report that more than 2,000 steps of RL on a diverse task suite, with decoupled clipping and dynamic sampling, a KL penalty and periodic resets of the reference policy, raise DeepSeek-R1-Distill-Qwen-1.5B's pass@k at k up to 128 on many tasks, including some where the starting model solved nothing, with the gain larger where the starting model's pass@128 was lower and nil or negative on math
 

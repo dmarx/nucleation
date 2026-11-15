@@ -26,7 +26,7 @@ summary: >-
   separation; an exponential tilt of a frozen reference only reweights
   modes it already has. States the KL-regularized optimum in closed form.
 ---
-<!-- inactive-ok-file: LIT-tmpdyhv5 LIT-tmpfmva5 THEORY-tmppt44k THEORY-tmp9rnyv THEORY-tmpr8g5y THEORY-tmpxu3kz — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv THEORY-tmpxu3kz — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this reading bears on -->
 
 # NOTE-tmpruuy9: Balasubramanian and Kasiviswanathan — Forgetting in post-training

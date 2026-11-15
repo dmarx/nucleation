@@ -54,7 +54,7 @@ summary: >-
   after adversarial training. Here for TERM-118's masking; its account is
   THEORY-tmprjwtk.
 ---
-<!-- inactive-ok-file: NOTE-tmp3p3i7 LIT-tmp23u9h THEORY-tmprjwtk — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmprjwtk — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 — Proposed; the term whose masking row this work bears on -->
 
 # LIT-tmpzqcoi: Simple probes can catch sleeper agents

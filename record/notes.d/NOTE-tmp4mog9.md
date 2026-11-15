@@ -23,7 +23,7 @@ summary: >-
   base prior. A measured case of reliability and reachability moving in
   opposite directions under one intervention.
 ---
-<!-- inactive-ok-file: LIT-tmpfmva5 THEORY-tmp9rnyv LIT-tmp7463t LIT-tmpnkxqn LIT-tmpdyhv5 THEORY-tmpmapw3 — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmpmapw3 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 THEORY-1703 THEORY-1672 CLAIM-663 ARG-093 CLAIM-654 — Proposed; the claim this reading bears on and the record's agentic extension of the dispute -->
 
 # NOTE-tmp4mog9: Yue et al. — Does RL incentivize reasoning beyond the base model?

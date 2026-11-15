@@ -54,7 +54,7 @@ summary: >-
   THEORY-1672). Contested by ProRL (LIT-tmp7463t). Its account is
   THEORY-tmp9rnyv.
 ---
-<!-- inactive-ok-file: NOTE-tmp4mog9 THEORY-tmp9rnyv LIT-tmp7463t — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: THEORY-1703 THEORY-1672 — Proposed; the agentic extension of this dispute -->
 
 # LIT-tmpfmva5: Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?

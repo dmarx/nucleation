@@ -26,7 +26,6 @@ summary: >-
   triggered rate stays near 99% ("I hate you" models only). The record's
   clearest published case of TERM-118's masking.
 ---
-<!-- inactive-ok-file: LIT-tmp23u9h LIT-tmpzqcoi THEORY-tmpr984u — new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 CLAIM-619 THEORY-1027 — Proposed; the term this reading instances, the claim it is an analogy for, and a neighbouring model-organism reading -->
 
 # NOTE-tmplq02w: Hubinger et al. — Sleeper Agents

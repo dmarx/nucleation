@@ -25,8 +25,8 @@ summary: >-
   below coverage. A measured gap between reachability under a budget and
   reliability, and between reaching a correct output and identifying it.
 ---
-<!-- inactive-ok-file: LIT-tmp5ajtz THEORY-tmpmapw3 THEORY-tmp9rnyv — new entries filed in the same contribution -->
-<!-- inactive-ok-file: CLAIM-576 THEORY-1703 CLAIM-663 THEORY-331 — Proposed; entries this reading bears on or sits beside -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv — Proposed; new entries filed in the same contribution -->
+<!-- inactive-ok-file: CLAIM-576 THEORY-1703 THEORY-331 — Proposed; entries this reading bears on or sits beside -->
 
 # NOTE-tmpjbvav: Brown et al. — Large Language Monkeys
 

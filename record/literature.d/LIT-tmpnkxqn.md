@@ -53,7 +53,7 @@ summary: >-
   the token-level support for Yue et al.'s sharpening (LIT-tmpfmva5),
   bearing on QUESTION-392. Its account is THEORY-tmpr8g5y.
 ---
-<!-- inactive-ok-file: NOTE-tmpfe486 THEORY-tmpr8g5y LIT-tmpfmva5 — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmpr8g5y — Proposed; new entries filed in the same contribution -->
 
 # LIT-tmpnkxqn: Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs
 

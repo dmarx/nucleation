@@ -53,7 +53,7 @@ summary: >-
   (LIT-2441, THEORY-1703) build on without holding. Its account is
   THEORY-tmpmapw3.
 ---
-<!-- inactive-ok-file: NOTE-tmpjbvav THEORY-tmpmapw3 — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmpmapw3 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 THEORY-1703 THEORY-331 — Proposed; the claim this work bears on, the agentic extension of its metric, and the compute-trade reading it is compatible with -->
 
 # LIT-tmp5ajtz: Large Language Monkeys: Scaling Inference Compute with Repeated Sampling

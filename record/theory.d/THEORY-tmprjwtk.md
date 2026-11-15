@@ -25,7 +25,7 @@ summary: >-
   before adversarial training. No CLAIM is corroborated. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpzqcoi NOTE-tmp3p3i7 THEORY-tmpr984u — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmpr984u — Proposed; new entries filed in the same contribution -->
 
 # THEORY-tmprjwtk: MacDiarmid and colleagues report that in Anthropic's deliberately backdoored sleeper-agent models a linear direction fitted from one generic yes/no contrast pair on middle-layer residual activations separates defection-inducing prompts from the rest with AUROC above 99%, because whether a prompt will induce defection is linearly represented with very high salience across many middle layers, which they say may be an artifact of how the backdoor was inserted
 

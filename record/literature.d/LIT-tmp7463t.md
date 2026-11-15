@@ -56,7 +56,7 @@ summary: >-
   beside the agentic dispute (LIT-2441, LIT-2414). Its account is
   THEORY-tmpxu3kz.
 ---
-<!-- inactive-ok-file: NOTE-tmppn4n4 THEORY-tmpxu3kz LIT-tmpfmva5 — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmpxu3kz — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this work is a test case for -->
 
 # LIT-tmp7463t: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models

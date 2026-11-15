@@ -29,7 +29,7 @@ summary: >-
   as a dated note. The wording is the reader's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: LIT-tmpdyhv5 NOTE-tmpruuy9 THEORY-tmp9rnyv THEORY-tmpxu3kz — new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-tmp9rnyv THEORY-tmpxu3kz — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account bears on -->
 
 # THEORY-tmppt44k: Balasubramanian and Kasiviswanathan prove, in a two-mode equal-covariance Gaussian mixture with the old component already correct, that forward-KL fine-tuning on new data alone drives the old mode's weight to zero, while KL-regularized reinforcement learning toward a target that keeps the old mode converges to that target and moves the old mean only through overlap terms that decay exponentially with mode separation, and that an exponential tilt of a frozen reference can reweight its modes but not create or recover one

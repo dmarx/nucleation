@@ -27,7 +27,6 @@ summary: >-
   linearly salient across middle layers. The authors say this may be an
   artifact of backdoor insertion. Not tested after adversarial training.
 ---
-<!-- inactive-ok-file: LIT-tmpzqcoi LIT-tmp23u9h NOTE-tmplq02w — new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 THEORY-1027 — Proposed; the term this reading bears on and a neighbouring audit reading -->
 
 # NOTE-tmp3p3i7: MacDiarmid et al. — Simple probes can catch sleeper agents
