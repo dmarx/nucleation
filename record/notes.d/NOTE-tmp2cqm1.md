@@ -202,13 +202,13 @@ in the session's scratchpad and is not committed.
   relation; Tu (2008) for the flagellar switch; Zhang et al. (2020, 2025)
   for synchronization.
 - **The thermodynamic uncertainty relation.** The review does not
-  mention it. In the record it is THEORY-1268, a different bound
+  mention it. In the record it is [THEORY-1268](../theory.d/THEORY-1268.md), a different bound
   of the same family: it prices a current's precision as 1/ε², where the
   ESA relation prices adaptation accuracy as ln(1/ε).
 
 ## Bearing on the record
 
-- **QUESTION-452** (does keeping a maintained organization precise cost
+- **[QUESTION-452](../questions.d/QUESTION-452.md)** (does keeping a maintained organization precise cost
   dissipation in proportion to the precision, and does that separate
   maintained from merely lasting structures?). The review supplies, for
   one network, what the question's answer asks for.
@@ -223,15 +223,15 @@ in the session's scratchpad and is not committed.
     maintenance is not precision of the state but its independence from
     conditions.
 
-  It does not map any of the record's own organizations (CLAIM-604's
-  flame, CLAIM-516's capacities). Dated note filed.
-- **THEORY-1268** (the thermodynamic uncertainty relation). The ESA
+  It does not map any of the record's own organizations ([CLAIM-604](../claims.d/CLAIM-604.md)'s
+  flame, [CLAIM-516](../claims.d/CLAIM-516.md)'s capacities). Dated note filed.
+- **[THEORY-1268](../theory.d/THEORY-1268.md)** (the thermodynamic uncertainty relation). The ESA
   relation is a second, model-specific price on a different precision.
   Precision of a counted current costs 1/ε²; accuracy of an adapted
   steady state against input costs ln(1/ε) at fixed speed. The two are
   not in conflict, since they bound different quantities. Dated note
   filed.
-- **CLAIM-616** (synchronization as a laboratory for organizational
+- **[CLAIM-616](../claims.d/CLAIM-616.md)** (synchronization as a laboratory for organizational
   distinctions). The review adds that, for noisy molecular clocks,
   coupling has a thermodynamic price above that of running each clock,
   with a threshold. No note filed: the claim does not speak of cost.
@@ -257,4 +257,4 @@ in the session's scratchpad and is not committed.
 - Does the ESA relation's logarithmic price in accuracy hold for
   adaptive networks beyond the four-state model, or only for this motif?
 - Could one of the record's maintained organizations be written as such
-  a network, so that QUESTION-452's comparison could be made?
+  a network, so that [QUESTION-452](../questions.d/QUESTION-452.md)'s comparison could be made?

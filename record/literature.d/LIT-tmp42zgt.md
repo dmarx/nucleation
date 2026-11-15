@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-15 (NOTE-tmp2cqm1) from the publisher's PDF (CC
+  read in full 2026-11-15 ([NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md)) from the publisher's PDF (CC
   BY-NC-ND 4.0), which the owner uploaded after this session's
   permission system refused the fetch the same day. Worth reading as a
   compact account of why biochemical function needs dissipation and of
   the energy–speed–accuracy price of adaptation, the record's first
-  priced answer for QUESTION-452; its closing "law" is a schema.
+  priced answer for [QUESTION-452](../questions.d/QUESTION-452.md); its closing "law" is a schema.
 title: 'Nonequilibrium Thermodynamics for Biochemical Networks: Energetic Principles of Cellular Function'
 version: 2
 history:
@@ -59,7 +59,7 @@ summary: >-
   and performance is bounded by cost. In a four-state model of adaptation
   this is the energy–speed–accuracy relation Ẇ = c₁V_a ln(c₂A_a), checked
   numerically on filing. The author proposes a law, Ẇ ≥ F(performance),
-  with F unspecified (NOTE-tmp2cqm1).
+  with F unspecified ([NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md)).
 ---
 
 <!-- inactive-ok-file: CLAIM-616 — Proposed; named as a synchronization claim the review bears on -->
@@ -73,7 +73,7 @@ CC BY-NC-ND 4.0.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2cqm1.*
+*From the reading, [NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md).*
 
 - **Why dissipation.** "In equilibrium systems, steady-state
   distributions are dictated solely by their free energy landscapes in
@@ -95,12 +95,12 @@ CC BY-NC-ND 4.0.
 ## Standing in the record
 
 Filed and read on 2026-11-15 at the owner's request, from the owner's
-copy. Its main bearing is on QUESTION-452: the review prices the
+copy. Its main bearing is on [QUESTION-452](../questions.d/QUESTION-452.md): the review prices the
 accuracy of a maintained steady state, not proportionally but
 logarithmically. It also shows that what dissipation buys is a state held
 independent of changing conditions. Beside the thermodynamic uncertainty
-relation (LIT-1885, THEORY-1268) it is a second price on a different
-precision. On synchronization (CLAIM-172, CLAIM-616) it adds that
+relation ([LIT-1885](LIT-1885.md), [THEORY-1268](../theory.d/THEORY-1268.md)) it is a second price on a different
+precision. On synchronization ([CLAIM-172](../claims.d/CLAIM-172.md), [CLAIM-616](../claims.d/CLAIM-616.md)) it adds that
 coupling noisy molecular clocks costs energy.
 
 **Neighbours not read**: the author's primary papers, Lan et al. 2012 on

@@ -24,7 +24,7 @@ source:
 bears_on:
 - QUESTION-452
 summary: >-
-  Tu (2026), LIT-tmp42zgt, read in NOTE-tmp2cqm1. The derivations are in
+  Tu (2026), [LIT-tmp42zgt](../literature.d/LIT-tmp42zgt.md), read in [NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md). The derivations are in
   small Markov networks: a three-state proofreading model, a four-state
   "magic square", and a mean-field model of coupled Poisson clocks. The
   sharp edges: the ESA relation is leading-order, and in the filer's
@@ -38,7 +38,7 @@ summary: >-
 
 ## Source
 
-Tu (2026), LIT-tmp42zgt, read in full in NOTE-tmp2cqm1.
+Tu (2026), [LIT-tmp42zgt](../literature.d/LIT-tmp42zgt.md), read in full in [NOTE-tmp2cqm1](../notes.d/NOTE-tmp2cqm1.md).
 
 ## What was actually shown
 
@@ -70,6 +70,6 @@ in proportion to accuracy.
 - **That any particular cell operates at the bound.** The review suggests
   living systems sit "near—though not exactly on" it, without data.
 - **That this is the same bound as the thermodynamic uncertainty
-  relation** (THEORY-1268), which prices the precision of a counted
+  relation** ([THEORY-1268](THEORY-1268.md)), which prices the precision of a counted
   current as 1/ε², where the ESA relation prices adaptation accuracy as
   ln(1/ε).
