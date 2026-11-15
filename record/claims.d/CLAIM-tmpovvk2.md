@@ -74,6 +74,20 @@ the fact" (A5 §2.1).
   two levels. The charge individuates descriptively and robustly at the
   level of the sector. Tracking a particular structure needs the dynamics.
 
+## What sets the number of cores: the coupling
+
+The assistant's addition, filed at the owner's request. The charge does not
+fix how many cores carry it. What does is the coupling. Above critical
+coupling, the symmetric vortex of charge |n| ≥ 2 is "linearly unstable ...
+and hence not even a local energy minimizer" (Czubak & Jerrard,
+NOTE-tmpplgz6), so a winding-two sector tends to split into separate cores.
+At critical coupling, by A's unchecked statement, they can sit anywhere.
+Below it, vortices attract. So how many individuals carry a conserved
+quantity is a fact about the interactions, not about the quantity. Read
+organizationally, this is an analogy only: whether a mandate stays in one
+body or splits would be set by how its holders interact, not by the
+mandate. No test is proposed, and nothing here rests on the analogy.
+
 ## What it does not say
 
 - **That the charge is irrelevant to identity.** It bounds what can

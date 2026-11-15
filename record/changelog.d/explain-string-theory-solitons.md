@@ -12,5 +12,9 @@
   mutual-maintenance construction ([CASE-tmp3ioyf](record/cases.d/CASE-tmp3ioyf.md)) and the proposed
   testbed ([CASE-tmpubkrl](record/cases.d/CASE-tmpubkrl.md)), with numbers rechecked in
   scratch/formal/soliton_testbed_checks.py. Dated notes on [CLAIM-606](record/claims.d/CLAIM-606.md),
-  [CLAIM-522](record/claims.d/CLAIM-522.md), [QUESTION-397](record/questions.d/QUESTION-397.md), [QUESTION-438](record/questions.d/QUESTION-438.md) and [QUESTION-219](record/questions.d/QUESTION-219.md). The curation
-  entry lists four of the assistant's own ideas, offered and not filed.
+  [CLAIM-522](record/claims.d/CLAIM-522.md), [QUESTION-397](record/questions.d/QUESTION-397.md), [QUESTION-438](record/questions.d/QUESTION-438.md) and [QUESTION-219](record/questions.d/QUESTION-219.md). The assistant's
+  own ideas, filed at the owner's request: a ladder of outside maintainers
+  (CLAIM-tmpicwgd, on CASE-tmpqruw9), an executed run of the pinned kink
+  (CASE-tmperwxh), a question on nested individuals (QUESTION-tmpxe81d),
+  and a section on CLAIM-tmpovvk2 saying the coupling, not the charge,
+  sets how many cores carry it.
