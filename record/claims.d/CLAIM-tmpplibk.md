@@ -101,7 +101,7 @@ The claim adds to Wolf what she does not say, that institutions which make measu
 
 ## Revision of 2026-11-15: the bridge made explicit
 
-At the owner's request (a comment on PR #489, 2026-11-15), the claim is narrowed. Version 1 moved from Wolf's paradox, a fact about a person who pursues meaning for its own sake, straight to institutions that measure meaning. That step needed a premise it did not state: that the institution's measuring causes its participants to pursue meaning in that self-defeating way. An institution can measure without doing so.
+At the owner's request (a comment on PR [#489](https://github.com/dmarx/nucleation/issues/489), 2026-11-15), the claim is narrowed. Version 1 moved from Wolf's paradox, a fact about a person who pursues meaning for its own sake, straight to institutions that measure meaning. That step needed a premise it did not state: that the institution's measuring causes its participants to pursue meaning in that self-defeating way. An institution can measure without doing so.
 
 Four mechanisms were run together, and only two of them are the claim's:
 
@@ -110,5 +110,5 @@ Four mechanisms were run together, and only two of them are the claim's:
 3. **Incentive design**: tying participants' rewards, standing or assignments to the measure. One of the two ways the target reaches participants.
 4. **Motivational displacement**: participants coming to understand their activity through the measure, and so seeking meaning self-consciously instead of engaging with what is worth doing. The other way, and the one where Wolf's paradox does its work.
 
-The claim now names the condition, a measured meaningfulness that becomes a target shaping incentives (3) or self-understanding (4), and two effects: proxy optimization, where the participants or the institution raise the measure in place of the engagement (TERM-108's form), and self-conscious meaning-seeking (Wolf's paradox). Either displaces engagement with worthwhile activities. This is a more discriminating empirical hypothesis. It predicts no harm from measurement that never becomes a target, and harm where it does. It no longer claims a stronger institutional conclusion than Wolf's argument establishes. [ARG-tmpl8zwp](../arguments.d/ARG-tmpl8zwp.md)'s scope question applies with less force.
+The claim now names the condition, a measured meaningfulness that becomes a target shaping incentives (3) or self-understanding (4), and two effects: proxy optimization, where the participants or the institution raise the measure in place of the engagement ([TERM-108](../terms.d/TERM-108.md)'s form), and self-conscious meaning-seeking (Wolf's paradox). Either displaces engagement with worthwhile activities. This is a more discriminating empirical hypothesis. It predicts no harm from measurement that never becomes a target, and harm where it does. It no longer claims a stronger institutional conclusion than Wolf's argument establishes. [ARG-tmpl8zwp](../arguments.d/ARG-tmpl8zwp.md)'s scope question applies with less force.
 
