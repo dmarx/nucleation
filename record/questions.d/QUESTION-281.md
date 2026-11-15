@@ -30,7 +30,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-1642 LIT-1664 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-478 — Proposed or Open; neighbours cited as open -->
-<!-- inactive-ok-file: CASE-tmpnqx8e — Proposed; the Game of Life construction, cited in the note of 2026-11-14 -->
+<!-- inactive-ok-file: CASE-tmpnqx8e CASE-tmpjucsj CLAIM-tmp9os8f ARG-tmpdg5zy — Proposed; the Game of Life constructions, the claim drawn from them and its argument, cited in the notes of 2026-11-14 and 2026-11-15 -->
 
 # QUESTION-281: By which dynamical transitions do the distinctions individuation needs come into being and pass away (instability that amplifies small differences, nucleation across a finite barrier from a locally stable state, bifurcation of the set of attractors, noise- or rate-induced tipping), and are a form's creation, its stabilization and its coming to have a constitutive role three separate achievements?
 
@@ -283,3 +283,8 @@ At the owner's suggestion, [CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md) builds t
 - **A change in how the form is stabilized.** In the gun, each block is partly destroyed and rebuilt by the gun every 30 generations. So taking on a constitutive role changed how the form is stabilized, from fixed point to repair.
 
 This meets the second half of "What would count as an answer" for a formal system: two of the three achievements come apart, each way. It does not meet the first half's "a form the record individuates", since the record has not said whether a block is one. The question stays open.
+
+## Note of 2026-11-15: the eater, and a claim
+
+CASE-tmpjucsj adds a second Life construction at the owner's request: eater 1. Alone it is a fixed point. Struck by a glider in one lane, it loses its corner cell and regrows it from its own cells, where a block in its place is annihilated. Set across the stream of Gosper's gun, it repairs itself every 30 generations. With CASE-tmpnqx8e this gives one kind of form, a still life, persisting by three mechanisms: as a fixed point, by self-repair, and by repair from the pattern it serves. The owner asked for the general claim to be filed: CLAIM-tmp9os8f, argued by ARG-tmpdg5zy. Stabilization and a constitutive role can come apart, but they are not independent, since taking a role can change how a form is stabilized. That answers part of this question's second clause, for a formal system: creation, stabilization and a constitutive role are separable, but the last can reset the second. The question stays open on the first clause, a form the record individuates.
+
