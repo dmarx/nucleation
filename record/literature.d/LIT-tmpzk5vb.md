@@ -1,0 +1,105 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-15 (NOTE-tmpe9zlx) from the arXiv preprint, v2: §§1–6,
+  the statements of Lemma 3.2 and Theorem 3.3, Tables 1–4; appendix
+  proofs and per-dataset tables skipped. Worth reading here for a failure
+  mode of merging that conflict-based accounts miss, constructive
+  over-counting of directions several tasks share, and for running TIES
+  and a magnitude-only correction in the same experiments, which bears on
+  THEORY-107's test of sign against magnitude.
+title: 'When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Registered and read on 2026-11-15 from the owner's pasted
+    continuation of the ChatGPT exchange "Explain String Theory", in A's
+    turn on model merging and task arithmetic as an instance of
+    superposition in weight space. Citation checked against the arXiv API
+    (authors, title, v1 date 2026-02-05, which is `published:`), the
+    arXiv comment ("Accepted by ICML 2026") and the PDF footer
+    (Proceedings of the 43rd ICML, PMLR 306, 2026), which confirm A's
+    venue. The PMLR page was not fetched and no DOI exists. OpenAlex
+    refused unkeyed requests that day and was not retried. No email
+    address was sent to any service. Quotes rechecked by the filer
+    against the downloaded text.
+tags:
+- loss-landscapes
+- mathematics
+- anthology-candidate
+date: '2026-11-15'
+published: '2026-02-05'
+arxiv: '2602.05536'
+first_author: 'Li'
+keywords:
+- 'model merging'
+- 'spectral over-accumulation'
+- 'singular value calibration'
+- 'shared knowledge'
+- 'task arithmetic'
+implementations:
+- 'https://github.com/lyymuwu/SVC'
+compared_against:
+- LIT-tmpmqgjz
+- LIT-675
+- LIT-tmpbknaa
+summary: >-
+  Li et al. (2026, ICML). When several tasks' layer updates point along
+  the same singular directions of the merged update, adding them counts
+  the shared component more than once and inflates the leading singular
+  values. Singular Value Calibration (SVC) rescales them by the measured
+  overlap and leaves the directions alone. On CLIP ViT-B/32 with 8 tasks
+  it lifts task arithmetic from 68.9 to 81.9, above TIES's 72.6 in the
+  same runs; gains on top of TSV-M are under a point. Evidence on the
+  magnitude side of THEORY-107's test, though not the oracle-sign
+  comparison it names.
+---
+<!-- inactive-ok-file: NOTE-tmpe9zlx THEORY-107 LIT-tmpbknaa LIT-tmpmqgjz — new tmp codes, or Proposed; this work's reading and neighbours, not leaned on -->
+
+# LIT-tmpzk5vb: When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging
+
+Li, Y., Peng, Z., Zhang, J., Guo, J., Duan, Y. & Shi, Y. (2026). When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*, PMLR 306. arXiv:2602.05536.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpe9zlx.*
+
+- **The mechanism** (§3.2, Lemma 3.2): when many cross-task overlaps in a
+  merged singular direction are positive, "the merged response
+  over-counts this shared component."
+- **Inflation** (Theorem 3.3): positive overlap "inflates the merged
+  singular value above the projection-optimal magnitude", and "large
+  overlaps cluster in the top spectral subspaces" (Fig. 3).
+- **The fix works** (Table 1): task arithmetic 68.9 → 81.9 on ViT-B/32
+  with 8 tasks; TIES 72.6 → 80.0; TSV-M 84.0 → 84.8. On language models
+  (Table 2), BERT 56.9 → 69.0, T0 with (IA)³ 53.5 → 65.8, while TIES on
+  T0 stays at 54.1.
+- **Output side** (Table 3): calibrating with the input-side singular
+  vectors instead "often removes the gains" and "can even reduce
+  performance below the uncalibrated baseline".
+- **Caveat** (§5): "All reported results are produced by our own runs".
+
+## Standing in the record
+
+Filed with the merging batch from the same turn. It reruns task
+arithmetic (LIT-tmpmqgjz), TIES (LIT-675) and TSV-M (LIT-tmpbknaa), and
+cites TSV's observation that overlap goes with degradation, which it
+recasts as over-counting.
+
+A's characterization: "two updates can reinforce the same useful
+direction too strongly ... naive addition counts it twice. The paper
+proposes singular-value calibration to correct such inflation and reports
+improvements across vision and language merging benchmarks." The
+reader's verdict: it holds. "Counts it twice" is A's two-task paraphrase
+and exact in that limit, since the paper's projection coefficient is 2
+for two identical aligned responses. "Useful" is A's word: the paper
+calls the directions "shared knowledge" and does not show they are
+useful, and some subspaces are under-accumulated. The improvements come
+from the authors' own reruns.
+
+A discrepancy in the paper: the abstract says SVC "improves the
+performance of Task Arithmetic by 13.0%" and §5.2 "a 19% improvement".
+Both are absolute points from Table 1 (ViT-B/32 with 8 tasks, and the
+largest gain, +19.0, at 14 tasks), not relative percentages.

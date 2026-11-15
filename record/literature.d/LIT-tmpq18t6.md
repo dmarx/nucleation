@@ -1,0 +1,103 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-15 (NOTE-tmp9vqu3), with Sections VI and VII skimmed, from
+  the IEEE version as a scan with an OCR layer, posted by the Redwood
+  Center for Theoretical Neuroscience (UC Berkeley),
+  https://redwood.berkeley.edu/wp-content/uploads/2020/08/Plate-HRR-IEEE-TransNN.pdf
+  (ADR-074). Worth reading here as the source of holographic reduced
+  representations: binding by circular convolution, superposition by
+  addition, decoding by circular correlation and a separate clean-up
+  memory, with capacity about linear in dimension. It is the base of
+  Nickel, Rosasco & Poggio (2016), LIT-tmp7xp5z, and the record's first
+  holding on convolution memory or vector binding.
+title: 'Holographic reduced representations'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Registered and read on 2026-11-15 from the owner's pasted continuation
+    of the ChatGPT exchange "Explain String Theory", in A's turn on wave
+    optics and holography as models for learning in neural networks.
+    Citation checked against Crossref (no mailto): T. A. Plate, IEEE
+    Transactions on Neural Networks 6(3): 623–641, May 1995,
+    doi:10.1109/72.377968; the title here is Crossref's sentence case, the
+    paper's own heading being "Holographic Reduced Representations".
+    `published:` is the first of the month, since Crossref gives only May
+    1995 and no source read gives a day (ADR-002); the paper says
+    "Manuscript received August 1991; revised April 1993." The work
+    predates arXiv. No email address was sent to any service.
+tags:
+- representation-learning
+- compositionality
+- cognition
+- anthology-candidate
+date: '2026-11-15'
+published: '1995-05-01'
+doi: '10.1109/72.377968'
+first_author: 'Plate'
+keywords:
+- 'holographic reduced representations'
+- 'circular convolution'
+- 'circular correlation'
+- 'associative memory'
+- 'distributed representations'
+- 'compositional structure'
+- 'clean-up memory'
+implementations: []
+summary: >-
+  Plate (1995). Binds two vectors by circular convolution, whose result has
+  their dimension, so an association can itself be bound and superposed:
+  fixed-width distributed representations of sequences, variable bindings
+  and frames. Decoding by circular correlation is an approximate inverse
+  and returns a noisy item, cleaned up by a separate item memory; the
+  number of pairs a trace holds grows about linearly with the dimension.
+  Filed from A's turn on holography and learning, whose description holds.
+  Bears, as analogy, on addressability without spatial separation
+  (CLAIM-182), and as a capacity threshold for random codes on QUESTION-120.
+---
+<!-- inactive-ok-file: NOTE-tmp9vqu3 THEORY-tmp713mr LIT-tmp7xp5z LIT-tmp3d5f9 CLAIM-182 — new entries of this filing, and a Proposed claim cited as an analogy only -->
+
+# LIT-tmpq18t6: Holographic reduced representations
+
+Plate, T. A. (1995). Holographic reduced representations. *IEEE Transactions on Neural Networks* 6(3): 623–641. doi:10.1109/72.377968.
+
+## Key takeaways
+
+*From the reading, NOTE-tmp9vqu3; the account is THEORY-tmp713mr.*
+
+- **Binding in one space** (§II–V): circular convolution of two vectors
+  "can be regarded as a compression of the outer product of those two
+  vectors", and has the same dimension, so bound pairs are items in their
+  own right. "the binding of the value a to the variable x and the value b
+  to the variable y is" x ⊛ a + y ⊛ b.
+- **Approximate inverse** (§II.C): "circular correlation ... is an
+  approximate inverse operation of it", returning a noisy item.
+- **Clean-up** (abstract, §XI): "The noisy reconstructions extracted from
+  convolution memories can be cleaned up by using a separate associative
+  memory".
+- **Capacity** (§IX): "The number of associations that can be stored in a
+  convolution memory is approximately linear in the dimensionality of the
+  vectors", for elements independent N(0, 1/n).
+
+## Standing in the record
+
+Filed with the optics and holography batch of 2026-11-15. A's description,
+binding by circular convolution, superposition by addition, approximate
+retrieval by correlation and a clean-up memory for noisy retrieval, holds
+exactly. "Draws on holographic memory mathematics" holds with a nuance:
+Plate builds on the convolution–correlation memory literature and names
+HRR because "convolution and correlation based memories are closely related
+to holographic storage"; he does not use optical holography.
+
+The record held no entry on convolution memory or vector binding; its
+neighbours are the sparse distributed memory readings LIT-921 and LIT-1848,
+which Plate names as a clean-up candidate, and LIT-269. Tensor-product
+representations, which NOTE-245 says are not held, remain unheld. Its
+bearing on CLAIM-182 is interpretive: many items superposed in one trace,
+each recoverable by a key, so addressability need not mean separate
+storage, though keyed readout is noisy and becomes exact only through a
+second, content-addressed memory. The same structure in optics is
+angle-multiplexed holographic storage (LIT-tmp3d5f9); that parallel is the
+record's to draw, not Plate's.

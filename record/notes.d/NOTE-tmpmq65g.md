@@ -1,0 +1,110 @@
+---
+status: Read
+paper: 'LIT-tmphs8vv'
+title: 'Ortiz-Jimenez, Favero and Frossard — Task arithmetic in the tangent space'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Read on 2026-11-15 from arXiv:2305.12827v3 (21 November 2023), from
+    https://arxiv.org/pdf/2305.12827v3, text by pdftotext: §§1–7 in full,
+    with the numbers of Tables 1–3. Appendix A (definitions) and B
+    (linearised training) skimmed. The proofs of Appendix C, the per-task
+    figures of Appendix D and the references were skipped. Every quote
+    below was rechecked by the filer against the downloaded text.
+date: '2026-11-15'
+summary: >-
+  CLIP ViTs do not fine-tune in the linear regime, so the NTK does not
+  explain their task arithmetic. The paper's condition is weight
+  disentanglement, each task vector acting only on its task's inputs,
+  which is by construction equivalent to the task-arithmetic property.
+  Fine-tuning the linearised model raises it, improving task addition by
+  up to 5.8 points and negation by up to 13.1, less so for larger models.
+  For kernels, eigenfunctions localised on each task's support suffice.
+  Random initialisation gives none of it.
+---
+<!-- inactive-ok-file: THEORY-107 CLAIM-498 — Proposed; named as entries this reading bears on, not leaned on -->
+
+# NOTE-tmpmq65g: Ortiz-Jimenez, Favero and Frossard — Task arithmetic in the tangent space
+
+## Contribution
+
+A formal statement of task arithmetic (Property 1). A condition for it,
+weight disentanglement: f(x; θ0 + Σ α_t τ_t) = Σ g_t(x; α_t τ_t) + g0(x),
+with each g_t vanishing outside its task's support D_t (Property 3). A
+method, fine-tuning the linearisation
+f_lin(x; θ) = f(x; θ0) + (θ − θ0)ᵀ∇f(x; θ0). A kernel-side sufficient
+condition, localised eigenfunctions (Proposition 1).
+
+## Key insight
+
+What makes task vectors add is not that they are orthogonal in weights
+but that their effects are confined to different inputs. Pretraining
+produces that confinement, and working in the tangent space strengthens
+it.
+
+## Assumptions
+
+Non-intersecting task supports (D_t ∩ D_t′ = ∅). Classification, with a
+0/1 prediction distance. One shared coefficient α tuned on validation
+data. CLIP ViTs in the main text.
+
+## Key results
+
+- **Not the linear regime** (§3, Fig. 2, Table 1): "CLIP models do not
+  fine-tune in the linear regime". Post-hoc linearisation loses
+  single-task accuracy, and its task sum gives 57.1 absolute against 71.4
+  for the non-linear model (ViT-B/32), though its normalized accuracy is
+  higher (81.9 against 76.5).
+- **Disentanglement** (§4, Fig. 3): the disentanglement error ξ(α1, α2) is
+  small "within a small region surrounding" θ0, grows for α > 1, and the
+  low-error region is larger for linearised models. The authors say "it
+  is trivial to see that satisfying weight disentanglement is equivalent
+  to satisfying Property 1 on task arithmetic".
+- **Linearised fine-tuning** (§5, Tables 1–2): task addition, absolute
+  accuracy, ViT-B/32 71.4 → 76.5, B/16 75.5 → 81.3, L/14 85.1 → 88.5.
+  Negation target, ViT-B/32 24.0 → 10.9, L/14 18.0 → 7.9, with the
+  control held. In the authors' words, "up to 5.8 points more and 13.1
+  points less in accuracy on task addition and task negation", an
+  advantage that "progressively diminishes as the model size increases".
+- **Kernels** (§6.1, Prop. 1, Fig. 6): a kernel does task arithmetic if
+  each task's target is built from eigenfunctions supported on that
+  task's inputs. Local energy is plotted for ViT-B/32 on RESISC45 against
+  Cars, more pairs in App. D.8.
+- **Pretraining** (§6.2, Table 3): from random initialisation, task
+  addition gives 3.8–6.1%, near chance: "task arithmetic is a property
+  acquired during pre-training."
+
+## Concepts
+
+weight disentanglement; disentanglement error ξ; post-hoc linearisation;
+linearised (tangent-space) fine-tuning; non-linear advantage; NTK
+eigenfunction localisation; local energy.
+
+## Bearing on the record
+
+- **THEORY-107 (TIES)**: a different account of the same loss.
+  Interference is in function space, outputs that are not disentangled,
+  not in coordinates. The paper does not test sign conflicts. Linearised
+  task vectors would test whether the sign account survives once
+  disentanglement is raised.
+- **QUESTION-318**: indirect. Linearised fine-tuning makes the output
+  exactly linear in the weights, and the paper measures outputs, not
+  layer features. It gives the linear-regime limit of the layerwise
+  question, not a measurement of it. Nothing here on CLAIM-498.
+- **QUESTION-069**: task arithmetic is "acquired during pre-training", a
+  property of the shared history and not of the fine-tuned solutions
+  alone.
+- **A's toy** (reader's derivation, not the paper's): for a linearised
+  model, f_lin(θ0+ΔA+ΔB) − f_lin(θ0+ΔA) − f_lin(θ0+ΔB) + f_lin(θ0) = 0
+  identically. The interaction of A's toy is second-order, the part
+  linearised fine-tuning removes, and what is left is first-order leakage
+  ΔBᵀ∇f(x) on task A's inputs, which localisation controls.
+
+## Limitations
+
+CLIP only in the main text. Task supports assumed disjoint. The
+eigenfunction evidence is a local-energy plot on a few pairs. That the
+condition is equivalent to the property limits how much it explains. The
+claimed O(1) cost of linearised training was not checked here.

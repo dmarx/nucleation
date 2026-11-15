@@ -1,0 +1,164 @@
+---
+status: Read
+paper: 'LIT-tmptiitv'
+title: 'Zhou, Chen, Chen, Zhang and Yan — Cross-task linearity'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Read on 2026-11-15 from arXiv:2402.03660v2 (28 May 2024), from
+    https://arxiv.org/pdf/2402.03660v2, text by pdftotext: §§1–6 in full,
+    the statements of Theorems 3.3, 4.2, 4.3 and 5.1, Appendix A
+    (relation to linearisation and weight disentanglement), the statement
+    of B.5, and Appendix C.1, C.2 and C.4–C.6 as text. The proofs B.1–B.4
+    and the references were skipped. Appendix figures were read only
+    through the authors' text, and their values were not checked. Every
+    quote below was rechecked by the filer against the downloaded text.
+date: '2026-11-15'
+summary: >-
+  Models fine-tuned on different tasks from one pretrained checkpoint
+  fail linear mode connectivity yet, at every layer reported, the features
+  of a weight interpolation approximately equal the interpolation of
+  their features (cosine near 1, projection-length ratio near 1). Shown
+  for MLPs and ResNet-18 on continual-learning splits, CLIP ViT-B/32 and
+  ViT-L/14 and T5-base, and for soups of 5 and 10 ViT-B/32 fine-tunes. It
+  recasts averaging and task arithmetic in feature space. Pretraining
+  produces it; the theory is a second-order bound on a scalar.
+---
+<!-- inactive-ok-file: CLAIM-498 THEORY-107 THEORY-115 THEORY-828 — Proposed; named as entries this reading bears on, not leaned on -->
+
+# NOTE-tmpjupyx: Zhou, Chen, Chen, Zhang and Yan — Cross-task linearity
+
+## Contribution
+
+A phenomenon, Cross-Task Linearity (CTL): for θ_i and θ_j fine-tuned on
+different tasks from one pretrained checkpoint,
+f^(ℓ)(αθ_i + (1−α)θ_j) ≈ αf^(ℓ)(θ_i) + (1−α)f^(ℓ)(θ_j) at every layer ℓ,
+an approximate equality rather than the proportionality of LLFC
+(LIT-674). Two measures per datapoint: 1 − cosine (direction) and coef,
+a projection-length ratio that is 1 for equality. Feature-space readings
+of model averaging and task arithmetic, checked by stitching. A
+derivation that CTL plus a conjectured transitivity gives multi-model
+averaging (Theorem 4.2) and weight disentanglement (Theorem 4.3). A
+second-order bound (Theorem 5.1). Factor studies.
+
+## Key insight
+
+From a shared pretrained start, the network is close to linear in its
+weights where it matters, along the directions fine-tuning takes, even
+when the loss is not: so averaging or adding weights averages or adds
+features, layer by layer.
+
+## Assumptions
+
+One pretrained checkpoint. Features are post-activation and flattened
+(ViT tokens reshaped to patches × hidden). Measures taken per datapoint
+on the union of the two tasks' test sets. Theorem 5.1 is for a scalar
+function and is applied to the loss.
+
+## Key results
+
+- **LLFC without LMC** (§1, §4.1): "Despite no connectivity in the loss
+  landscape, we surprisingly find that the finetuned models are linearly
+  connected in the feature space." The paper's Table 1 notes that LMC
+  "requires models with approximately equal performance", which models
+  fine-tuned on different tasks lack.
+- **CTL measured** (§4.1, Figs. 2–3; App. C.1.1): MLPs on Rotated MNIST
+  and ResNet-18 on Split CIFAR-100, four fine-tuned models each, six
+  pairs. Mean 1 − cosine at α ∈ {0.25, 0.5, 0.75} is near 0 against an
+  endpoint-to-endpoint baseline that is not, and coef concentrates near
+  1. Main-text plots are for the last three layers or blocks, with all
+  layers in App. C.3.
+- **Model averaging** (§4.2, Figs. 5–6; App. C.1.2, C.4): "We explain the
+  averaging of weights as the averaging of features at each layer" (§1).
+  ViT-B/32 from CLIP, 5 checkpoints fine-tuned on CIFAR-10 with
+  different hyperparameters, and 10 of Wortsman et al.'s 72 ImageNet
+  fine-tunes: "the features in model averaging can be approximated by the
+  averaging of features in each individual finetuned model", coef_avg
+  ≈ 1. Last 7 blocks in the main text; "all blocks of ViT-B/32" for
+  ImageNet in App. C.4. Fig. 4: over 1,140 triples from 20 checkpoints,
+  the accuracy of 3-model weight averages is linear in that of logit
+  ensembles.
+- **Task arithmetic** (§4.3, Figs. 7–10; App. C.1.3): ViT-B/32 and
+  ViT-L/14 (8 tasks, 28 pairs) and T5-base (6 tasks, 15 pairs; mean-pooled
+  encoder tokens and the decoder's first-token state), λ = 0.4. Adding
+  task vectors approximately adds the feature changes; stitching
+  averaged block-9 features into the pretrained head works on both tasks;
+  negation is checked by stitching. All blocks for ViT-B/32 in App. C
+  (Fig. 19).
+- **Factors** (§5, Figs. 11–12): more pretraining epochs, and similarity
+  of pretraining to fine-tuning, lower 1 − cosine and bring coef to 1.
+  The similarity of the two fine-tuning tasks barely matters: 1 − cosine
+  stays "nearly constant regardless of how similar the two finetuning
+  tasks are".
+- **Theory** (Theorem 5.1, App. C.2): for a scalar, thrice-differentiable
+  f with Hessian bounded by λ_max, |f(αθ_i + (1−α)θ_j) − αf(θ_i) −
+  (1−α)f(θ_j)| ≤ α(1−α)λ_max/2 · ‖θ_j − θ_i‖² plus cubic terms. Checked
+  with f the loss on ResNet-20/CIFAR-10 same-task pairs: R² = 0.903 for
+  the product, against 0.782 and 0.839 for either factor alone.
+- **The multi-model theorem** (Theorem 4.2) rests on Conjecture 4.1, that
+  CTL is transitive, which is inferred and not proved.
+- **Relation to the tangent space** (App. A): the authors argue CTL does
+  not contradict Ortiz-Jimenez et al.'s rejection of linearisation, and
+  read weight disentanglement as "roughly a consequence of CTL" (§4.3).
+- **Stated limit** (§6): "we leave comprehensive exploration of CTL on
+  Large Language Models to future". App. C.5's text names Llama-2-13B,
+  but the figures it lists are of ViT-B/32, ViT-L/14 and T5.
+
+## Concepts
+
+Cross-Task Linearity; layerwise linear feature connectivity; linear mode
+connectivity; coef (projection-length ratio); transitivity conjecture;
+model stitching without a learned layer; feature-space task arithmetic.
+
+## Bearing on the record
+
+- **QUESTION-318**: answers parts of both halves, without settling them.
+  Layerwise half: measured in transformers (CLIP ViT-B/32 and L/14) and an
+  encoder-decoder language model (T5-base, pooled features), connected
+  by fine-tuning from a shared pretrained model. Approximate equality, not
+  only proportionality, holds in the blocks reported, and no refuting
+  pair is reported. Averaging half: soups of 5 and 10 ViT-B/32 fine-tunes,
+  whose averaged network's features approximate the members' average.
+  SWA iterates are not measured, nor decoder-only language models. The
+  approximate version of Theorem 1 the question asks for is not given:
+  Theorem 5.1 bounds a scalar's deviation by sharpness times squared
+  distance, not feature error by the weak-additivity and commutativity
+  residuals.
+- **CLAIM-498**: direct support for its averaging step, for soups of
+  fine-tuned models, the first half of what its defeated_if names. The
+  defeater is not tripped. The claim's note that "No source measured or
+  asserts it" is false once this is filed: the paper asserts it (§1) and
+  measures it (§4.2, App. C.4). Its "every layer" is reported for one
+  soup (ImageNet, App. C.4) and the last 7 blocks for the other.
+- **THEORY-111**: extends its regularity beyond pairs linearly connected
+  in loss and beyond image classifiers, and qualifies its contrast,
+  "pairs that were not linearly connected were far from it". Fine-tuned
+  pairs not linearly connected in loss can still be layerwise linear when
+  they share a pretrained start. The contrast holds for independent
+  training, not for absence of linear connectivity as such.
+- **THEORY-115**: consistent. Different fine-tuning objectives from one
+  pretrained start are not linearly connected in loss, while their
+  features stay linear. The paper takes the loss failure as given and does
+  not measure a barrier against task overlap, so this is no dose–response
+  test. Fig. 12's result that fine-tuning-task similarity barely moves
+  feature linearity says the shared structure that matters for features
+  is the pretraining, not the two fine-tuning objectives.
+- **THEORY-107**: indirect. A feature-space reading of why task addition
+  works at all, with no measurement of coordinate conflicts.
+- **THEORY-828**: the soups measured here are the averages that account
+  says move inward in one task's low-loss region; this says what that
+  move does to features.
+- **A's toy** (reader's derivation): for f_w(x) = (w·x)², the Hessian is
+  2xxᵀ and the cross term ΔAᵀ(2xxᵀ)ΔB = 2, exactly A's interaction, with
+  ΔA ⟂ ΔB. Theorem 5.1's bound depends on curvature along the update, and
+  orthogonality of the updates does not remove the cross term.
+
+## Limitations
+
+Layerwise plots mostly of the last few blocks. Per-datapoint cosine and
+projection summaries, with appendix values not checked numerically here.
+Small continual-learning models, CLIP and T5-base, with no large language
+model shown. The multi-model theorem rests on a conjecture. The theory is
+scalar and second-order.
