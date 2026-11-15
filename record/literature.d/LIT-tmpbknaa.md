@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpv6jne) from the arXiv preprint, v3: §§1–7,
+  read 2026-11-15 ([NOTE-tmpv6jne](../notes.d/NOTE-tmpv6jne.md)) from the arXiv preprint, v3: §§1–7,
   the statement of Theorem 6.1 and supplementary §§A and B.1; the proof
   skipped. Worth reading here as the layer-level, singular-vector account
   of merge loss within one pretrained start, a rival diagnosis to TIES's
-  sign conflicts (THEORY-107), and for its observation that collinear
+  sign conflicts ([THEORY-107](../theory.d/THEORY-107.md)), and for its observation that collinear
   singular vectors double when they agree, which the spectral
-  over-counting account (LIT-tmpzk5vb) develops.
+  over-counting account ([LIT-tmpzk5vb](LIT-tmpzk5vb.md)) develops.
 title: 'Task Singular Vectors: Reducing Task Interference in Model Merging'
 version: 1
 history:
@@ -49,11 +49,11 @@ summary: >-
   overlap of different tasks' singular vectors, highest in early layers.
   Truncating each task's update and decorrelating the singular vectors
   across tasks (TSV-M) beats task arithmetic by about 15 points on
-  ViT-B/32. Vision only. A rival diagnosis to TIES (THEORY-107), with a
+  ViT-B/32. Vision only. A rival diagnosis to TIES ([THEORY-107](../theory.d/THEORY-107.md)), with a
   layer-level relative of A's point that orthogonality of flattened
   updates is not enough.
 ---
-<!-- inactive-ok-file: NOTE-tmpv6jne THEORY-107 LIT-tmpzk5vb LIT-tmpmqgjz — new tmp codes, or Proposed; this work's reading and neighbours, not leaned on -->
+<!-- inactive-ok-file: THEORY-107 — new tmp codes, or Proposed; this work's reading and neighbours, not leaned on -->
 
 # LIT-tmpbknaa: Task Singular Vectors: Reducing Task Interference in Model Merging
 
@@ -61,7 +61,7 @@ Gargiulo, A. A., Crisostomi, D., Bucarelli, M. S., Scardapane, S., Silvestri, F.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpv6jne.*
+*From the reading, [NOTE-tmpv6jne](../notes.d/NOTE-tmpv6jne.md).*
 
 - **Low rank** (§3.2): "even when preserving only 3% of the singular
   components per task, the mean accuracy drops by merely 1.5%" (ViT-B/32,
@@ -78,8 +78,8 @@ Gargiulo, A. A., Crisostomi, D., Bucarelli, M. S., Scardapane, S., Silvestri, F.
 
 ## Standing in the record
 
-Filed with the merging batch from the same turn (LIT-tmpmqgjz is its
-baseline; LIT-tmpzk5vb builds on its observation).
+Filed with the merging batch from the same turn ([LIT-tmpmqgjz](LIT-tmpmqgjz.md) is its
+baseline; [LIT-tmpzk5vb](LIT-tmpzk5vb.md) builds on its observation).
 
 A's characterization: "Low-rank task updates can be analyzed and merged
 using their singular-vector interactions." The reader's verdict: it holds

@@ -109,7 +109,7 @@ van Heerden V/λ³ bound.
   reference angle, and Bragg selectivity from thickness. It does not give
   the selectivity's width or its dependence on thickness, so it cannot
   carry "quite sharp" quantitatively; and it is not either of A's sources.
-- **Plate (1995)**, LIT-tmpq18t6: the same structure, many items
+- **Plate (1995)**, [LIT-tmpq18t6](../literature.d/LIT-tmpq18t6.md): the same structure, many items
   superposed in one medium and read by a key, with selectivity set by a
   property of the medium (thickness here, dimension there) and crosstalk
   growing with load. Readout differs: near-exact here within the
@@ -122,20 +122,20 @@ van Heerden V/λ³ bound.
   angles selectively reconstructing different patterns" holds; that Bragg
   selectivity in thick holograms makes the separation "quite sharp" holds
   qualitatively and is not quantified here.
-- **CLAIM-182**: interpretive, the clearest physical case in the batch.
+- **[CLAIM-182](../claims.d/CLAIM-182.md)**: interpretive, the clearest physical case in the batch.
   Pages superposed in one volume are each recovered by a reference angle,
   an address external to the content, and are separable only when the
   medium makes the keys selective. So a superposed store can be
   addressable part by part, with addressability in the readout channel
   rather than in where content sits. An analogy for the claim, not
   evidence about records.
-- **THEORY-272 (Hopfield)**: a contrast. Hopfield retrieval is
+- **[THEORY-272](../theory.d/THEORY-272.md) (Hopfield)**: a contrast. Hopfield retrieval is
   content-addressed; angle-multiplexed HDS reads by reference angle, a key.
   Correlation-based multiplexing, which is content-addressed, is in Table 1
   and was not examined.
-- **THEORY-1036**: loose. Pages share a finite dynamic range, capacity
+- **[THEORY-1036](../theory.d/THEORY-1036.md)**: loose. Pages share a finite dynamic range, capacity
   under superposition, but nothing is learned and the models differ.
-- **TERM-064 (legibility)**: a page is legible only to a reader with the
+- **[TERM-064](../terms.d/TERM-064.md) (legibility)**: a page is legible only to a reader with the
   right reference beam within the Bragg range, legibility set by the
   observer's key.
 

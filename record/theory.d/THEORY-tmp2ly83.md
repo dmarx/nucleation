@@ -14,7 +14,7 @@ source:
 bears_on:
 - QUESTION-010
 summary: >-
-  Fel, Kowal et al. (2026), LIT-tmp40uoi, skimmed in NOTE-tmp88irq, with
+  Fel, Kowal et al. (2026), [LIT-tmp40uoi](../literature.d/LIT-tmp40uoi.md), skimmed in [NOTE-tmp88irq](../notes.d/NOTE-tmp88irq.md), with
   the lab's summary page read in full. The 0.57 is the worst variant; the
   others kept 0.87–0.90. "Every experiment" is the authors' own range of
   settings. The wording is the reader's; adopting it is the owner's call.
@@ -25,7 +25,7 @@ summary: >-
 
 ## Source
 
-Fel, Kowal et al. (2026), LIT-tmp40uoi; skimmed in NOTE-tmp88irq.
+Fel, Kowal et al. (2026), [LIT-tmp40uoi](../literature.d/LIT-tmp40uoi.md); skimmed in [NOTE-tmp88irq](../notes.d/NOTE-tmp88irq.md).
 
 ## The result
 

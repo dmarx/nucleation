@@ -61,11 +61,11 @@ What would not answer it: another simulation at N = 30 or 100, the sizes
 
 ## Note of 2026-11-15: a lead from Ramsauer et al.
 
-Ramsauer et al. (LIT-tmpxroua, §1) cite, from other authors, the large-N capacity of the Hebbian Hopfield network:
+Ramsauer et al. ([LIT-tmpxroua](../literature.d/LIT-tmpxroua.md), §1) cite, from other authors, the large-N capacity of the Hebbian Hopfield network:
 
 - Cd/log(d) random patterns for error-free recall, C < 1/2 for a fixed stable pattern and C < 1/4 if all patterns are stable (McEliece et al. 1987);
 - "allowing small retrieval errors, the storage capacity is about 0.138d", citing Crisanti et al. 1986, Hertz et al. 1991 and Torres et al. 2002.
 
-The 0.138 figure is consistent with THEORY-272's small-N 0.15N and with the 0.14N in this question's title. It also separates two senses of capacity that the question needs to keep apart: error-free recall, which falls as 1/log N, and recall with small errors, which is linear in N.
+The 0.138 figure is consistent with [THEORY-272](../theory.d/THEORY-272.md)'s small-N 0.15N and with the 0.14N in this question's title. It also separates two senses of capacity that the question needs to keep apart: error-free recall, which falls as 1/log N, and recall with small errors, which is linear in N.
 
-This is a citation, not a reading. It answers nothing. It names where the answer can be read: Crisanti et al. 1986, Hertz, Krogh and Palmer 1991, and McEliece et al. 1987, beside the Amit, Gutfreund and Sompolinsky papers already named here. THEORY-272 is unchanged. No status change.
+This is a citation, not a reading. It answers nothing. It names where the answer can be read: Crisanti et al. 1986, Hertz, Krogh and Palmer 1991, and McEliece et al. 1987, beside the Amit, Gutfreund and Sompolinsky papers already named here. [THEORY-272](../theory.d/THEORY-272.md) is unchanged. No status change.

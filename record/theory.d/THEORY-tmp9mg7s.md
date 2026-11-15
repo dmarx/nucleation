@@ -19,7 +19,7 @@ date: '2026-11-15'
 source:
 - LIT-tmpwnkv8
 summary: >-
-  Zhang & Zhou (2025), LIT-tmpwnkv8, read in NOTE-tmpf8m60. The term is
+  Zhang & Zhou (2025), [LIT-tmpwnkv8](../literature.d/LIT-tmpwnkv8.md), read in [NOTE-tmpf8m60](../notes.d/NOTE-tmpf8m60.md). The term is
   B2A2h1, task 2's update on task 1's input; OSRM minimizes
   ‖A_t H_¬tᵀ‖_F over orthonormal A_t, whose solution is the r
   smallest-eigenvalue eigenvectors of the other tasks' feature
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Zhang & Zhou (2025), LIT-tmpwnkv8, read in NOTE-tmpf8m60: §§1–4.4 and
+Zhang & Zhou (2025), [LIT-tmpwnkv8](../literature.d/LIT-tmpwnkv8.md), read in [NOTE-tmpf8m60](../notes.d/NOTE-tmpf8m60.md): §§1–4.4 and
 §§5.2–5.3.
 
 ## The result
@@ -62,10 +62,10 @@ Zhang & Zhou (2025), LIT-tmpwnkv8, read in NOTE-tmpf8m60: §§1–4.4 and
   52.69), gains are inconsistent across methods and shrink with model
   size.
 - **Propagation.** The account is first-order and layer-local. Zhu
-  (2026), THEORY-tmpqakuv, finds most of the activation cross-term in
+  (2026), [THEORY-tmpqakuv](THEORY-tmpqakuv.md), finds most of the activation cross-term in
   language-model merges is carried from earlier layers.
 - **The usual merging setting.** It needs the other tasks' data before
   fine-tuning, which independently released LoRAs do not allow.
-- **Anything about sign in coordinates.** It rivals THEORY-107 as a
+- **Anything about sign in coordinates.** It rivals [THEORY-107](THEORY-107.md) as a
   location for interference only loosely; both can hold, and the paper
   does not test sign against scale.

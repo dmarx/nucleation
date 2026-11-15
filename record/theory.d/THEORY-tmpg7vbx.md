@@ -17,13 +17,13 @@ date: '2026-11-15'
 source:
 - LIT-tmp0mf8t
 summary: >-
-  Randi & Leifer (2021), read in NOTE-tmpbajuf. The connected response
+  Randi & Leifer (2021), read in [NOTE-tmpbajuf](../notes.d/NOTE-tmpbajuf.md). The connected response
   F_ij(t,t′) equals the linear resolvent plus a correction through the
   nonlinear edges (Eq. 5). In toy circuits inspired by C. elegans, a
   sigmoidal edge gates transmission, and moderate drive turns a connection
   into a fractional-derivative-like kernel, while saturation removes the
   effect. Simulation only; the supplement is unread. A neural instance of
-  TERM-090's memory kernel. The wording is the reader's; adopting it is
+  [TERM-090](../terms.d/TERM-090.md)'s memory kernel. The wording is the reader's; adopting it is
   the owner's call.
 ---
 
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Randi & Leifer (2021), LIT-tmp0mf8t; read in NOTE-tmpbajuf.
+Randi & Leifer (2021), [LIT-tmp0mf8t](../literature.d/LIT-tmp0mf8t.md); read in [NOTE-tmpbajuf](../notes.d/NOTE-tmpbajuf.md).
 
 ## The result
 

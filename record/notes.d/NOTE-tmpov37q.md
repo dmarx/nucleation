@@ -123,41 +123,41 @@ the facts have to go into the weights.
 
 ## Connections
 
-- **LIT-tmpxroua, LIT-tmpp9nhx** (Ramsauer et al.; Schlag et al.):
+- **[LIT-tmpxroua](../literature.d/LIT-tmpxroua.md), [LIT-tmpp9nhx](../literature.d/LIT-tmpp9nhx.md)** (Ramsauer et al.; Schlag et al.):
   memories of the context, in attention. This paper's memory is of trained
   facts, and its result does not contradict theirs; it divides the
   "transformer as associative memory" picture into the two.
-- **LIT-1576** (Geva et al. 2021): cited with Meng et al. as the
+- **[LIT-1576](../literature.d/LIT-1576.md)** (Geva et al. 2021): cited with Meng et al. as the
   localization line; the reading this paper sets itself against is
   Bietti et al.'s and Nichani et al.'s.
 
 ## Bearing on the record
 
-- **THEORY-1030**: partly against, in a toy. A construction that gradient
+- **[THEORY-1030](../theory.d/THEORY-1030.md)**: partly against, in a toy. A construction that gradient
   descent recovers in which the MLP is a generic selector and not a store
   of pattern-to-continuation associations; freeze-and-swap transfer is
-  causal evidence within the toy. It is not the test THEORY-1030's
+  causal evidence within the toy. It is not the test [THEORY-1030](../theory.d/THEORY-1030.md)'s
   promote_when asks for (no LMs, no unit ablations), and it shows that the
   memory regime is what training finds when embeddings are frozen. So "MLP
   as key–value memory" is one regime among others.
-- **THEORY-1011, THEORY-1039**: an alternative to storage in MLP weights,
+- **[THEORY-1011](../theory.d/THEORY-1011.md), [THEORY-1039](../theory.d/THEORY-1039.md)**: an alternative to storage in MLP weights,
   not a test of localization. The probe's rise through the middle layers
   fits layer-by-layer enrichment; it neither supports nor refutes
-  THEORY-1039.
-- **THEORY-1024**: consonant, by the reader's inference and not the
+  [THEORY-1039](../theory.d/THEORY-1039.md).
+- **[THEORY-1024](../theory.d/THEORY-1024.md)**: consonant, by the reader's inference and not the
   paper's: if attributes are linearly present in the subject state across
   many layers, edits at many layers could succeed whatever tracing shows.
   The paper does not discuss editing.
-- **QUESTION-149, LIT-972**: §5.3 offers a basis for linear relational
+- **[QUESTION-149](../questions.d/QUESTION-149.md), [LIT-972](../literature.d/LIT-972.md)**: §5.3 offers a basis for linear relational
   structure in released LMs; it does not test whether those properties lie
-  in the logit-entering subspaces QUESTION-149 asks about.
-- **QUESTION-275**: weak. The learned-versus-frozen switch is a training
+  in the logit-entering subspaces [QUESTION-149](../questions.d/QUESTION-149.md) asks about.
+- **[QUESTION-275](../questions.d/QUESTION-275.md)**: weak. The learned-versus-frozen switch is a training
   intervention that changes the mechanism, which a model of the kind
-  QUESTION-275 asks for would have to predict; the paper does not frame it
+  [QUESTION-275](../questions.d/QUESTION-275.md) asks for would have to predict; the paper does not frame it
   so.
-- **THEORY-021, THEORY-1036**: a different sense of "superposition"; no
+- **[THEORY-021](../theory.d/THEORY-021.md), [THEORY-1036](../theory.d/THEORY-1036.md)**: a different sense of "superposition"; no
   bearing.
-- **CLAIM-407**: no bearing.
+- **[CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing.
 
 ## Limitations
 

@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpwjex5) from the open-access full text at Europe
+  read 2026-11-15 ([NOTE-tmpwjex5](../notes.d/NOTE-tmpwjex5.md)) from the open-access full text at Europe
   PMC, PMC6898320: all of the Results and Discussion. The Methods and the
   Supplementary Notes were skipped. Worth reading here as a built,
   measured case of φ⁴ kinks between two buckled phases. Their persistence
   needs a standing compression, which bears on the topological route of
-  CLAIM-606. Its "topological" is the kink sense, not Kane–Lubensky
-  topological polarization, so it is not evidence on QUESTION-378.
+  [CLAIM-606](../claims.d/CLAIM-606.md). Its "topological" is the kink sense, not Kane–Lubensky
+  topological polarization, so it is not evidence on [QUESTION-378](../questions.d/QUESTION-378.md).
 title: 'Programmable and robust static topological solitons in mechanical metamaterials'
 version: 1
 history:
@@ -46,7 +46,7 @@ summary: >-
   lattice of the λφ⁴ equation. Net charge is zero, and the walls are
   pinned by a lattice barrier. Its "topological solitons" are φ⁴ kinks
   between buckled phases, not Kane–Lubensky topological polarization, so it
-  does not bear on QUESTION-378. It bears on CLAIM-606's topological route.
+  does not bear on [QUESTION-378](../questions.d/QUESTION-378.md). It bears on [CLAIM-606](../claims.d/CLAIM-606.md)'s topological route.
   These kinks exist only while a standing compression holds the double
   well.
 ---
@@ -58,7 +58,7 @@ Zhang, Y., Li, B., Zheng, Q. S., Genin, G. M. & Chen, C. Q. (2019). Programmable
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwjex5.*
+*From the reading, [NOTE-tmpwjex5](../notes.d/NOTE-tmpwjex5.md).*
 
 - **Walls between two buckled phases.** "Spontaneous symmetry breaking took
   place", and "highly localized topological domain walls emerged to
@@ -76,13 +76,13 @@ Zhang, Y., Li, B., Zheng, Q. S., Genin, G. M. & Chen, C. Q. (2019). Programmable
 
 - **Not Kane–Lubensky.** "Topological" here is the charge of a kink between
   two degenerate ground states. It is not a lattice winding number
-  counting linear zero modes (LIT-2078, THEORY-1408). The Discussion's
+  counting linear zero modes ([LIT-2078](LIT-2078.md), [THEORY-1408](../theory.d/THEORY-1408.md)). The Discussion's
   "topological mechanical polarizations" uses that vocabulary loosely, with
-  no such calculation. So it is not evidence for or against QUESTION-378.
-  Kirigami domain walls (LIT-2049) are the contrasting Kane–Lubensky case.
-- **CLAIM-606.** Its topological route holds that a charge continuous
+  no such calculation. So it is not evidence for or against [QUESTION-378](../questions.d/QUESTION-378.md).
+  Kirigami domain walls ([LIT-2049](LIT-2049.md)) are the contrasting Kane–Lubensky case.
+- **[CLAIM-606](../claims.d/CLAIM-606.md).** Its topological route holds that a charge continuous
   change cannot remove keeps a structure. Here the walls persist only under
   the standing compression that creates the double well, and with Q = 0 a
   kink–antikink pair is not globally protected. Persistence by topology can
   thus depend on a standing constraint, as distinct from a supply.
-- **LIT-2207** (Tong): the textbook φ⁴ kink this sample realizes.
+- **[LIT-2207](LIT-2207.md)** (Tong): the textbook φ⁴ kink this sample realizes.

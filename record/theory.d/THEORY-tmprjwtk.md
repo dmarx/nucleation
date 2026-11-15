@@ -17,9 +17,9 @@ date: '2026-11-15'
 source:
 - LIT-tmpzqcoi
 summary: >-
-  MacDiarmid et al. (2024), LIT-tmpzqcoi, read in NOTE-tmp3p3i7. A probe
+  MacDiarmid et al. (2024), [LIT-tmpzqcoi](../literature.d/LIT-tmpzqcoi.md), read in [NOTE-tmp3p3i7](../notes.d/NOTE-tmp3p3i7.md). A probe
   that knows nothing of the trigger or the behaviour detects when Hubinger
-  et al.'s sleeper agents (THEORY-tmpr984u) will defect. With that account
+  et al.'s sleeper agents ([THEORY-tmpr984u](THEORY-tmpr984u.md)) will defect. With that account
   it is the record's published case of a disposition masked in behaviour
   and detected in activations, for the models probed, which are the models
   before adversarial training. No CLAIM is corroborated. The wording is the
@@ -31,7 +31,7 @@ summary: >-
 
 ## The result
 
-MacDiarmid et al. (2024), LIT-tmpzqcoi; read in NOTE-tmp3p3i7.
+MacDiarmid et al. (2024), [LIT-tmpzqcoi](../literature.d/LIT-tmpzqcoi.md); read in [NOTE-tmp3p3i7](../notes.d/NOTE-tmp3p3i7.md).
 
 The probe direction is the difference of mean final-token activations on
 the two answers to a question such as "Are you a helpful AI?". On the
@@ -53,6 +53,6 @@ component over coding questions.
   process".
 - That the condition stays represented after adversarial training. The
   models probed are the sleeper agents, not those adversarial training
-  made better at hiding the behaviour (THEORY-tmpr984u).
+  made better at hiding the behaviour ([THEORY-tmpr984u](THEORY-tmpr984u.md)).
 - A deployable detector: thresholds are left to future work, and labels for
   the test sets are known in the lab.

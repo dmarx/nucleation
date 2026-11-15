@@ -16,8 +16,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpvudg9
 summary: >-
-  Sadreev (2021), skimmed in NOTE-tmpqaps1; the read neighbour of Hsu et al.
-  (2016), LIT-tmp83mpa, Unfetched. In the effective non-Hermitian
+  Sadreev (2021), skimmed in [NOTE-tmpqaps1](../notes.d/NOTE-tmpqaps1.md); the read neighbour of Hsu et al.
+  (2016), [LIT-tmp83mpa](../literature.d/LIT-tmp83mpa.md), Unfetched. In the effective non-Hermitian
   Hamiltonian H_eff = H_B − iWW†, a BIC is a zero-width eigenvalue, and
   decoupling from every channel is necessary and sufficient. The two-level
   Friedrich–Wintgen model gives a zero-width state beside a superradiant
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Sadreev (2021), LIT-tmpvudg9; skimmed in NOTE-tmpqaps1. The neighbour of
-Hsu et al. (2016), LIT-tmp83mpa, unread.
+Sadreev (2021), [LIT-tmpvudg9](../literature.d/LIT-tmpvudg9.md); skimmed in [NOTE-tmpqaps1](../notes.d/NOTE-tmpqaps1.md). The neighbour of
+Hsu et al. (2016), [LIT-tmp83mpa](../literature.d/LIT-tmp83mpa.md), unread.
 
 ## The result
 

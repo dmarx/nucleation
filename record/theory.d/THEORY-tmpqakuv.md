@@ -23,7 +23,7 @@ source:
 bears_on:
 - QUESTION-318
 summary: >-
-  Zhu (2026), LIT-tmpdc2rl, read in NOTE-tmpsyjfz (v1 in full to §8, v3
+  Zhu (2026), [LIT-tmpdc2rl](../literature.d/LIT-tmpdc2rl.md), read in [NOTE-tmpsyjfz](../notes.d/NOTE-tmpsyjfz.md) (v1 in full to §8, v3
   skimmed). On Qwen2.5-1.5B, with reduced replications on Llama-3.2-1B
   and Qwen2.5-7B: about 65–70% of the cross-term's layerwise flux is
   transport, with gain 1.08–1.14 per late block; erased at depth 3 or 8
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-Zhu (2026), LIT-tmpdc2rl, read in NOTE-tmpsyjfz: v1 §§1–8 and
+Zhu (2026), [LIT-tmpdc2rl](../literature.d/LIT-tmpdc2rl.md), read in [NOTE-tmpsyjfz](../notes.d/NOTE-tmpsyjfz.md): v1 §§1–8 and
 Appendix A; v3 skimmed (abstract, introduction, Figure 1, §4.2, §6).
 
 ## The result
@@ -90,10 +90,10 @@ Appendix A; v3 skimmed (abstract, introduction, Figure 1, §4.2, §6).
 - **That magnitude does not matter to merging.** "Not its norm" concerns
   a displacement of fixed norm along different directions of the
   activation cross-term. It says nothing about the scale of the merged
-  update, which other readings find decisive (THEORY-107's ablation;
+  update, which other readings find decisive ([THEORY-107](THEORY-107.md)'s ablation;
   OrthoMerge's correction).
 - **Anything about parameter coordinates.** No sign or coordinate
-  conflict is measured, so this neither supports nor tests THEORY-107.
+  conflict is measured, so this neither supports nor tests [THEORY-107](THEORY-107.md).
 - **Natural mediation.** Interventions above λ = 1 are off-manifold; the
   author claims "direction-mediation under intervention, not natural
   mediation". His own preregistered direction features "failed" to
@@ -103,6 +103,6 @@ Appendix A; v3 skimmed (abstract, introduction, Figure 1, §4.2, §6).
 - **Other settings.** LoRA only, one shared base, two core task pairs, one
   token position; full fine-tuning and other families are untested, and
   the attractor reading of regrowth was formed after the results.
-- **Layerwise feature linearity in QUESTION-318's sense.** The cosines of
+- **Layerwise feature linearity in [QUESTION-318](../questions.d/QUESTION-318.md)'s sense.** The cosines of
   0.93–0.98 (§7) are cross-task linearity of a sum, read at one token, not
-  THEORY-111's proportionality between interpolated features.
+  [THEORY-111](THEORY-111.md)'s proportionality between interpolated features.

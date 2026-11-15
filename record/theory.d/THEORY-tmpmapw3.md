@@ -22,12 +22,12 @@ corroborates:
 - CLAIM-576
 - CLAIM-654
 summary: >-
-  Brown et al. (2024), LIT-tmp5ajtz, read in NOTE-tmpjbvav. Repeated
+  Brown et al. (2024), [LIT-tmp5ajtz](../literature.d/LIT-tmp5ajtz.md), read in [NOTE-tmpjbvav](../notes.d/NOTE-tmpjbvav.md). Repeated
   sampling is a budget: it raises what the process reaches at some attempt
   without changing the model, and the gap between coverage and selection
   separates reaching a correct output from identifying it. Corroborates
-  CLAIM-567's split between reachable and reliably reached with a measured
-  case, and CLAIM-576's split between a budget that makes affordable and a
+  [CLAIM-567](../claims.d/CLAIM-567.md)'s split between reachable and reliably reached with a measured
+  case, and [CLAIM-576](../claims.d/CLAIM-576.md)'s split between a budget that makes affordable and a
   capability that makes discoverable; neither claim rests on it. The
   wording is the reader's; adopting it is the owner's call.
 ---
@@ -38,7 +38,7 @@ summary: >-
 
 ## The result
 
-Brown et al. (2024), LIT-tmp5ajtz; read in NOTE-tmpjbvav.
+Brown et al. (2024), [LIT-tmp5ajtz](../literature.d/LIT-tmp5ajtz.md); read in [NOTE-tmpjbvav](../notes.d/NOTE-tmpjbvav.md).
 
 Across coding, formal-proof and math tasks and several model families,
 coverage measured by the unbiased per-problem estimator rises with the
@@ -59,5 +59,5 @@ selection could have tracked coverage.
 - Deployable success without a verifier. The 56% depends on unit tests,
   11.3% of which were flaky (§4.2.1).
 - Anything about training. That RL can trade coverage at large k for
-  success at small k is Yue et al.'s result (THEORY-tmp9rnyv), measured
+  success at small k is Yue et al.'s result ([THEORY-tmp9rnyv](THEORY-tmp9rnyv.md)), measured
   with this metric.

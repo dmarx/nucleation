@@ -15,8 +15,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpbynva
 summary: >-
-  Reisizadeh, Ruan, Liu & Hong (2026), LIT-tmpbynva, read in
-  NOTE-tmpa1b4b. The probe is trained on 80% of the forget set, so its
+  Reisizadeh, Ruan, Liu & Hong (2026), [LIT-tmpbynva](../literature.d/LIT-tmpbynva.md), read in
+  [NOTE-tmpa1b4b](../notes.d/NOTE-tmpa1b4b.md). The probe is trained on 80% of the forget set, so its
   recovery on the other 20% is what a forget-trained readout generalizes
   to, and the paper does not separate it from relearning. The wording is
   the reader's; adopting it is the owner's call.
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Reisizadeh et al. (2026), LIT-tmpbynva; read in NOTE-tmpa1b4b.
+Reisizadeh et al. (2026), [LIT-tmpbynva](../literature.d/LIT-tmpbynva.md); read in [NOTE-tmpa1b4b](../notes.d/NOTE-tmpa1b4b.md).
 
 ## The result
 

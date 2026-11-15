@@ -92,18 +92,18 @@ reallocation within the candidate set.
 
 ## Bearing on the record
 
-- **Yue et al. (THEORY-tmp9rnyv)**: supports the sharpening reading at the
+- **Yue et al. ([THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md))**: supports the sharpening reading at the
   token level. RL mostly reallocates mass among tokens the base model
   already ranks, and only at a few positions. Its rare promotions of
   low-probability tokens are where expansion, if any, would live.
-- **QUESTION-392 and CLAIM-576**: indirect. Reallocation within an existing
+- **[QUESTION-392](../questions.d/QUESTION-392.md) and [CLAIM-576](../claims.d/CLAIM-576.md)**: indirect. Reallocation within an existing
   candidate set fits RL as making reachable paths reliable rather than
   adding reachable ones; it does not test whether any new path is added.
-- **Balasubramanian and Kasiviswanathan (THEORY-tmppt44k)**: their formal
+- **Balasubramanian and Kasiviswanathan ([THEORY-tmppt44k](../theory.d/THEORY-tmppt44k.md))**: their formal
   result that a tilt can only reweight modes present in the reference is
   the idealized counterpart; this paper measures something close to it
   without a KL anchor.
-- **CLAIM-118**: no bearing.
+- **[CLAIM-118](../claims.d/CLAIM-118.md)**: no bearing.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpov37q) from the arXiv preprint, v1, the only
+  read 2026-11-15 ([NOTE-tmpov37q](../notes.d/NOTE-tmpov37q.md)) from the arXiv preprint, v1, the only
   version: §§1–6 in full, appendices A, C.1, the start of G.1 and the
   freeze experiment of D; B, E, F and G.2–G.4 skipped. Worth reading here
   as a toy regime in which a transformer's MLP selects rather than
@@ -53,18 +53,18 @@ summary: >-
   attribute codes, and the MLP is a relation-conditioned selector, not a
   key–value store. Frozen embeddings bring back associative storage at much
   larger d. A k-hop lower bound, broken by chain-of-thought, and probes in
-  five released LMs. Filed as a counter-regime to THEORY-1030 and as
-  context for THEORY-1039 and QUESTION-149.
+  five released LMs. Filed as a counter-regime to [THEORY-1030](../theory.d/THEORY-1030.md) and as
+  context for [THEORY-1039](../theory.d/THEORY-1039.md) and [QUESTION-149](../questions.d/QUESTION-149.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpetsya THEORY-1030 THEORY-1039 THEORY-1011 — Proposed or Rejected readings, cited from the filing of Ravfogel et al. as open or retired -->
 
 # LIT-tmpi44jr: Geometric Factual Recall in Transformers
 
-Ravfogel, S., Yehudai, G., Bruna, J. & Bietti, A. (2026). Geometric Factual Recall in Transformers. Preprint, arXiv:2605.12426v1. ARXIV-2605.12426.
+Ravfogel, S., Yehudai, G., Bruna, J. & Bietti, A. (2026). Geometric Factual Recall in Transformers. Preprint, arXiv:2605.12426v1. [ARXIV-2605.12426](https://arxiv.org/abs/2605.12426).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpov37q.*
+*From the reading, [NOTE-tmpov37q](../notes.d/NOTE-tmpov37q.md).*
 
 - **The mechanism** (Abstract): "subject embeddings encode linear
   superpositions of their associated attribute vectors, and a small MLP
@@ -98,11 +98,11 @@ finds when embeddings are frozen. The reader also notes that the
 "superposition" is a direct sum of codes in disjoint blocks, not
 interference superposition.
 
-It bears on THEORY-1030 as a toy regime in which the MLP selects rather
+It bears on [THEORY-1030](../theory.d/THEORY-1030.md) as a toy regime in which the MLP selects rather
 than stores, which splits "transformer as associative memory" into memory
-of the context, in attention (LIT-tmpxroua, LIT-tmpp9nhx), and memory of
+of the context, in attention ([LIT-tmpxroua](LIT-tmpxroua.md), [LIT-tmpp9nhx](LIT-tmpp9nhx.md)), and memory of
 facts, which here sits in embedding geometry. It offers an alternative to
-storage in MLP weights rather than a test of localization (THEORY-1011,
-THEORY-1039), and its LM probe claims to supply a basis for the linear
-relational structure QUESTION-149 and LIT-972 concern. Its central account
-is THEORY-tmpetsya.
+storage in MLP weights rather than a test of localization ([THEORY-1011](../theory.d/THEORY-1011.md),
+[THEORY-1039](../theory.d/THEORY-1039.md)), and its LM probe claims to supply a basis for the linear
+relational structure [QUESTION-149](../questions.d/QUESTION-149.md) and [LIT-972](LIT-972.md) concern. Its central account
+is [THEORY-tmpetsya](../theory.d/THEORY-tmpetsya.md).

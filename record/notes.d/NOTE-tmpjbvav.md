@@ -83,22 +83,22 @@ amplifying a weaker model; the verifier bottleneck.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reached)**: a measured case.
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reached)**: a measured case.
   Coverage at large k is reachability by the sampling process; one-sample
   success is nearer reliability. At 56% against 15.9% the two are far
   apart. It adds a measured witness to the claim's demonstrated ones.
-- **CLAIM-576 (budget, discovery, architecture)**: close to a direct
+- **[CLAIM-576](../claims.d/CLAIM-576.md) (budget, discovery, architecture)**: close to a direct
   instance of two of its three ways. Raising k is a budget that makes
   already-possible solutions affordable to reach; the verifier gap
   separates reaching a correct output from being able to pick it out,
   which is the claim's discoverability apart from affordability.
-- **QUESTION-279**: coverage keeps rising where selection has stopped, so a
+- **[QUESTION-279](../questions.d/QUESTION-279.md)**: coverage keeps rising where selection has stopped, so a
   finite run of failed attempts does not show that no solution is
   reachable.
-- **LIT-2441 and THEORY-1703 (PASS@(k,T))**: this is the single-turn
+- **[LIT-2441](../literature.d/LIT-2441.md) and [THEORY-1703](../theory.d/THEORY-1703.md) (PASS@(k,T))**: this is the single-turn
   coverage metric that Zhai et al. extend with interaction depth, and that
-  Yue et al. (THEORY-tmp9rnyv) use to compare base and RL models.
-- **THEORY-331 (Snell et al.)**: compatible. Repeated sampling raises
+  Yue et al. ([THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md)) use to compare base and RL models.
+- **[THEORY-331](../theory.d/THEORY-331.md) (Snell et al.)**: compatible. Repeated sampling raises
   coverage only where per-sample success is above zero, as test-time
   compute wins there only on questions the small model sometimes solves.
 

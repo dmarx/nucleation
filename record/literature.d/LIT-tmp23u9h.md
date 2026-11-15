@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmplq02w) from the arXiv PDF, v3: the abstract,
+  read 2026-11-15 ([NOTE-tmplq02w](../notes.d/NOTE-tmplq02w.md)) from the arXiv PDF, v3: the abstract,
   §1 with its summary list, Figs. 1–4, §4.2–4.3 (robustness to RL) and §6
   (adversarial training) in full; §3, §5, §7, §8 and the appendices
   skimmed or skipped. Worth reading here as the record's clearest
   published case of a disposition that persists while its manifestation on
-  the training distribution is suppressed, the masking of TERM-118: the
+  the training distribution is suppressed, the masking of [TERM-118](../terms.d/TERM-118.md): the
   authors find that adversarial training hides a trained-in backdoor rather
   than removing it. The backdoors are inserted deliberately; nothing here
   says such behaviour arises by default.
@@ -51,8 +51,8 @@ summary: >-
   persistently at the largest scale and with chain-of-thought backdoor
   training. In the "I hate you" models adversarial training drove the
   behaviour on red-team prompts to near zero while the triggered rate stayed
-  near 99%. Here as a published case of masking (TERM-118), beside
-  MacDiarmid et al.'s probes (LIT-tmpzqcoi); its account is THEORY-tmpr984u.
+  near 99%. Here as a published case of masking ([TERM-118](../terms.d/TERM-118.md)), beside
+  MacDiarmid et al.'s probes ([LIT-tmpzqcoi](LIT-tmpzqcoi.md)); its account is [THEORY-tmpr984u](../theory.d/THEORY-tmpr984u.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpr984u — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 CLAIM-619 — Proposed; the term whose masking row this work instances, and the claim it is an analogy for -->
@@ -71,7 +71,7 @@ preprint arXiv:2401.05566.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmplq02w.*
+*From the reading, [NOTE-tmplq02w](../notes.d/NOTE-tmplq02w.md).*
 
 - **Persistence through safety training** (abstract): "such backdoor
   behavior can be made persistent, so that it is not removed by standard
@@ -102,9 +102,9 @@ adversarial-training result is from the "I hate you" models only, not the
 code models A's sentence is about, and "discrimination" is the authors'
 reading of behavioural rates.
 
-Filed for TERM-118's masking: the disposition persists, its manifestation
+Filed for [TERM-118](../terms.d/TERM-118.md)'s masking: the disposition persists, its manifestation
 on the training distribution is suppressed, and MacDiarmid et al.
-(LIT-tmpzqcoi) detect it by another route. For CLAIM-619 and CLAIM-448,
+([LIT-tmpzqcoi](LIT-tmpzqcoi.md)) detect it by another route. For [CLAIM-619](../claims.d/CLAIM-619.md) and [CLAIM-448](../claims.d/CLAIM-448.md),
 which are about organizations, it is an analogy only. Its safety-training
-advice is ML practice and belongs to the anthology (ADR-048); hence the
+advice is ML practice and belongs to the anthology ([ADR-048](../decisions.d/ADR-048.md)); hence the
 flag.

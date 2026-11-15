@@ -164,4 +164,4 @@ A in the continuation of the exchange "Explain String Theory" (A7) sets two loca
 - **The critical nucleus.** In a thin-wall droplet with ΔF(R) = 2πσR − πΔf R², the critical radius R_c = σ/Δf is an unstable maximum. It is productive because it is unstable.
 - **The topologically protected defect.** It may persist without catalyzing the target, or may pin an interface and block it, the field-theory form of the origami topological traps this question already holds.
 
-Persistence and nucleating productivity come apart (CLAIM-595), and a protected seed can be the lock-in this question warns of. A's proposed test is a field with a controllable bias, asking whether a parameter schedule escapes a trap no constant parameter escapes within the horizon (CLAIM-594). Not run. No status change.
+Persistence and nucleating productivity come apart ([CLAIM-595](../claims.d/CLAIM-595.md)), and a protected seed can be the lock-in this question warns of. A's proposed test is a field with a controllable bias, asking whether a parameter schedule escapes a trap no constant parameter escapes within the horizon ([CLAIM-594](../claims.d/CLAIM-594.md)). Not run. No status change.

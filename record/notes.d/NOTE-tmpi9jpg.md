@@ -90,24 +90,24 @@ training then converges in far fewer tokens.
 
 ## Connections
 
-- **LIT-792** (von Oswald et al.): nGPT cites the line on transformers as
+- **[LIT-792](../literature.d/LIT-792.md)** (von Oswald et al.): nGPT cites the line on transformers as
   implicit gradient-descent meta-optimizers and claims to make that
   process explicit in its architecture. That is an analogy built in, not
-  the in-context identity LIT-792 proves.
-- **LIT-269, NOTE-242**: hold QK-norm (Henry et al.), which nGPT's
+  the in-context identity [LIT-792](../literature.d/LIT-792.md) proves.
+- **[LIT-269](../literature.d/LIT-269.md), [NOTE-242](NOTE-242.md)**: hold QK-norm (Henry et al.), which nGPT's
   normalized attention logits (Eqs. 15–16) closely resemble.
 
 ## Bearing on the record
 
-- **No direct bearing** on THEORY-1030, THEORY-1011, THEORY-1024,
-  THEORY-272, THEORY-021, THEORY-1036, QUESTION-275 or CLAIM-407. It
+- **No direct bearing** on [THEORY-1030](../theory.d/THEORY-1030.md), [THEORY-1011](../theory.d/THEORY-1011.md), [THEORY-1024](../theory.d/THEORY-1024.md),
+  [THEORY-272](../theory.d/THEORY-272.md), [THEORY-021](../theory.d/THEORY-021.md), [THEORY-1036](../theory.d/THEORY-1036.md), [QUESTION-275](../questions.d/QUESTION-275.md) or [CLAIM-407](../claims.d/CLAIM-407.md). It
   makes no claim about where facts are stored, associative memory,
   superposition, circuit development or coarse-graining.
 - **A's branched-flow disclaimer** holds: the paper does not mention
   branched flow, and analyses no trajectories across inputs.
 - Its practical recommendation, normalize everything for faster training,
   is an instruction for machine-learning practice, which belongs to the
-  Anthology (hence the anthology-candidate flag on LIT-tmp0q2ls).
+  Anthology (hence the anthology-candidate flag on [LIT-tmp0q2ls](../literature.d/LIT-tmp0q2ls.md)).
 
 ## Limitations
 

@@ -19,18 +19,18 @@ source:
 bears_on:
 - QUESTION-058
 summary: >-
-  Bruna & Mallat (2013), LIT-tmpfzpbg, read in NOTE-tmp7az9p from arXiv
+  Bruna & Mallat (2013), [LIT-tmpfzpbg](../literature.d/LIT-tmpfzpbg.md), read in [NOTE-tmp7az9p](../notes.d/NOTE-tmp7az9p.md) from arXiv
   v2. The stability, contraction and energy theorems are stated here and
   proved in Mallat's "Group Invariant Scattering", unread, so they hold
-  here only by citation. Bears on QUESTION-058, invariance from
-  architecture alone; and it is the contrast to THEORY-758, a linear
+  here only by citation. Bears on [QUESTION-058](../questions.d/QUESTION-058.md), invariance from
+  architecture alone; and it is the contrast to [THEORY-758](THEORY-758.md), a linear
   multiscale decomposition giving covariance only. The wording is the
   reader's; adopting it is the owner's call.
 ---
 
 # THEORY-tmpw4lo5: Bruna and Mallat define a windowed scattering transform, a cascade of fixed wavelet convolutions, complex modulus and local averaging, which is contractive, translation invariant below the scale 2^J and Lipschitz-stable to small deformations, whose second-order coefficients depend on moments up to order four, and which with fixed filters gave 0.43% error on MNIST with an SVM and 0.2% on CUReT with a PCA classifier
 
-Bruna & Mallat (2013), LIT-tmpfzpbg; read in NOTE-tmp7az9p.
+Bruna & Mallat (2013), [LIT-tmpfzpbg](../literature.d/LIT-tmpfzpbg.md); read in [NOTE-tmp7az9p](../notes.d/NOTE-tmp7az9p.md).
 
 ## The result
 
@@ -60,5 +60,5 @@ error rates could have come out worse than learned networks.
 - Anything beyond small benchmarks (MNIST, USPS, CUReT, and rotated or
   scaled MNIST).
 - That multiscale linear coarse-graining is invariant: the paper's point is
-  the reverse, which is why it bears on THEORY-758 as a contrast, not as
+  the reverse, which is why it bears on [THEORY-758](THEORY-758.md) as a contrast, not as
   support.

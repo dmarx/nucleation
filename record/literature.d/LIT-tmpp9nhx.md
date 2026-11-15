@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpss2fb) from the arXiv preprint, v3, which
+  read 2026-11-15 ([NOTE-tmpss2fb](../notes.d/NOTE-tmpss2fb.md)) from the arXiv preprint, v3, which
   carries the ICML 2021 proceedings footer: the main text, §§1–6, in full,
   appendices A–F skipped. Worth reading here for three things: the
   equivalence, apart from normalisation, of linear attention with an
@@ -9,7 +9,7 @@ status_note: >-
   v ⊗ φ(k); the capacity limit that follows, no more than d_dot
   associations without crosstalk, shown on synthetic retrieval; and the
   delta-rule write with a learned rate β that replaces the additive one,
-  which defines the delta-rule layer QUESTION-159 names.
+  which defines the delta-rule layer [QUESTION-159](../questions.d/QUESTION-159.md) names.
 title: 'Linear Transformers Are Secretly Fast Weight Programmers'
 version: 1
 history:
@@ -53,20 +53,20 @@ summary: >-
   computes, apart from normalisation: a fast weight matrix summing v ⊗ φ(k),
   read by the query. Hence a limit of d_dot associations before crosstalk,
   shown on synthetic retrieval, and a delta-rule write with a learned rate
-  β that helps in an overcapacity regime. Filed for QUESTION-159, whose
-  delta-rule layers it defines; it sits beside THEORY-169's identities and
-  the readings that rest on it (LIT-792, LIT-801), and gives THEORY-1030's
+  β that helps in an overcapacity regime. Filed for [QUESTION-159](../questions.d/QUESTION-159.md), whose
+  delta-rule layers it defines; it sits beside [THEORY-169](../theory.d/THEORY-169.md)'s identities and
+  the readings that rest on it ([LIT-792](LIT-792.md), [LIT-801](LIT-801.md)), and gives [THEORY-1030](../theory.d/THEORY-1030.md)'s
   memory form a lineage, by algebra only.
 ---
 <!-- inactive-ok-file: THEORY-tmp36vfv THEORY-1030 — Proposed readings, cited from the filing of Schlag et al. as open -->
 
 # LIT-tmpp9nhx: Linear Transformers Are Secretly Fast Weight Programmers
 
-Schlag, I., Irie, K. & Schmidhuber, J. (2021). Linear Transformers Are Secretly Fast Weight Programmers. *Proceedings of the 38th International Conference on Machine Learning*, PMLR 139. arXiv:2102.11174v3. ARXIV-2102.11174.
+Schlag, I., Irie, K. & Schmidhuber, J. (2021). Linear Transformers Are Secretly Fast Weight Programmers. *Proceedings of the 38th International Conference on Machine Learning*, PMLR 139. arXiv:2102.11174v3. [ARXIV-2102.11174](https://arxiv.org/abs/2102.11174).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpss2fb.*
+*From the reading, [NOTE-tmpss2fb](../notes.d/NOTE-tmpss2fb.md).*
 
 - **The equivalence** (§3): with softmax removed, causal self-attention is
   a fast weight programmer, W(i) = W(i−1) + v(i) ⊗ k(i), y(i) = W(i) q(i);
@@ -94,12 +94,12 @@ work, and the paper's own contributions (the capacity argument, the delta
 rule, the DPFP feature map) are what A leaves out; and the paper's point is
 that the purely additive write is a weakness.
 
-Its bearing is on QUESTION-159, which asks whether an exact
+Its bearing is on [QUESTION-159](../questions.d/QUESTION-159.md), which asks whether an exact
 train-then-predict identity holds for delta-rule layers: this paper
 defines that layer, and does not state such an identity. It is the source
-of the identity that the record's readings of von Oswald et al. (LIT-792,
-NOTE-621) and of TTT (LIT-801, NOTE-620) use. With Ramsauer et al.
-(LIT-tmpxroua) it places linear and softmax attention on one scale of
+of the identity that the record's readings of von Oswald et al. ([LIT-792](LIT-792.md),
+[NOTE-621](../notes.d/NOTE-621.md)) and of TTT ([LIT-801](LIT-801.md), [NOTE-620](../notes.d/NOTE-620.md)) use. With Ramsauer et al.
+([LIT-tmpxroua](LIT-tmpxroua.md)) it places linear and softmax attention on one scale of
 memory capacity. Its memory is written from the context during the forward
-pass, so it shares only the algebraic form with THEORY-1030's memory in
-trained FFN weights. Its central account is THEORY-tmp36vfv.
+pass, so it shares only the algebraic form with [THEORY-1030](../theory.d/THEORY-1030.md)'s memory in
+trained FFN weights. Its central account is [THEORY-tmp36vfv](../theory.d/THEORY-tmp36vfv.md).

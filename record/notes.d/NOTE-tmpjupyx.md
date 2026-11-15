@@ -36,7 +36,7 @@ A phenomenon, Cross-Task Linearity (CTL): for θ_i and θ_j fine-tuned on
 different tasks from one pretrained checkpoint,
 f^(ℓ)(αθ_i + (1−α)θ_j) ≈ αf^(ℓ)(θ_i) + (1−α)f^(ℓ)(θ_j) at every layer ℓ,
 an approximate equality rather than the proportionality of LLFC
-(LIT-674). Two measures per datapoint: 1 − cosine (direction) and coef,
+([LIT-674](../literature.d/LIT-674.md)). Two measures per datapoint: 1 − cosine (direction) and coef,
 a projection-length ratio that is 1 for equality. Feature-space readings
 of model averaging and task arithmetic, checked by stitching. A
 derivation that CTL plus a conjectured transitivity gives multi-model
@@ -114,7 +114,7 @@ model stitching without a learned layer; feature-space task arithmetic.
 
 ## Bearing on the record
 
-- **QUESTION-318**: answers parts of both halves, without settling them.
+- **[QUESTION-318](../questions.d/QUESTION-318.md)**: answers parts of both halves, without settling them.
   Layerwise half: measured in transformers (CLIP ViT-B/32 and L/14) and an
   encoder-decoder language model (T5-base, pooled features), connected
   by fine-tuning from a shared pretrained model. Approximate equality, not
@@ -126,28 +126,28 @@ model stitching without a learned layer; feature-space task arithmetic.
   Theorem 5.1 bounds a scalar's deviation by sharpness times squared
   distance, not feature error by the weak-additivity and commutativity
   residuals.
-- **CLAIM-498**: direct support for its averaging step, for soups of
+- **[CLAIM-498](../claims.d/CLAIM-498.md)**: direct support for its averaging step, for soups of
   fine-tuned models, the first half of what its defeated_if names. The
   defeater is not tripped. The claim's note that "No source measured or
   asserts it" is false once this is filed: the paper asserts it (§1) and
   measures it (§4.2, App. C.4). Its "every layer" is reported for one
   soup (ImageNet, App. C.4) and the last 7 blocks for the other.
-- **THEORY-111**: extends its regularity beyond pairs linearly connected
+- **[THEORY-111](../theory.d/THEORY-111.md)**: extends its regularity beyond pairs linearly connected
   in loss and beyond image classifiers, and qualifies its contrast,
   "pairs that were not linearly connected were far from it". Fine-tuned
   pairs not linearly connected in loss can still be layerwise linear when
   they share a pretrained start. The contrast holds for independent
   training, not for absence of linear connectivity as such.
-- **THEORY-115**: consistent. Different fine-tuning objectives from one
+- **[THEORY-115](../theory.d/THEORY-115.md)**: consistent. Different fine-tuning objectives from one
   pretrained start are not linearly connected in loss, while their
   features stay linear. The paper takes the loss failure as given and does
   not measure a barrier against task overlap, so this is no dose–response
   test. Fig. 12's result that fine-tuning-task similarity barely moves
   feature linearity says the shared structure that matters for features
   is the pretraining, not the two fine-tuning objectives.
-- **THEORY-107**: indirect. A feature-space reading of why task addition
+- **[THEORY-107](../theory.d/THEORY-107.md)**: indirect. A feature-space reading of why task addition
   works at all, with no measurement of coordinate conflicts.
-- **THEORY-828**: the soups measured here are the averages that account
+- **[THEORY-828](../theory.d/THEORY-828.md)**: the soups measured here are the averages that account
   says move inward in one task's low-loss region; this says what that
   move does to features.
 - **A's toy** (reader's derivation): for f_w(x) = (w·x)², the Hessian is

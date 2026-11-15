@@ -20,7 +20,7 @@ date: '2026-11-15'
 source:
 - LIT-tmpml2pq
 summary: >-
-  Chaves et al. (2026), LIT-tmpml2pq, read in NOTE-tmpzye7e. Pairwise
+  Chaves et al. (2026), [LIT-tmpml2pq](../literature.d/LIT-tmpml2pq.md), read in [NOTE-tmpzye7e](../notes.d/NOTE-tmpzye7e.md). Pairwise
   SAR is 0.61–0.71 among DomainNet domains and 0.41–0.69 among eight
   vision tasks (Fig. 2). SCORE averages 65.69 on ViT-B-32 against 64.95
   for TSV and 64.84 for TIES, and 73.04 on ViT-L-14 against 72.46 for
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Chaves et al. (2026), LIT-tmpml2pq, read in NOTE-tmpzye7e: §§1–5.2 in
+Chaves et al. (2026), [LIT-tmpml2pq](../literature.d/LIT-tmpml2pq.md), read in [NOTE-tmpzye7e](../notes.d/NOTE-tmpzye7e.md): §§1–5.2 in
 part, Fig. 2, Alg. 1, Table 1.
 
 ## The result
@@ -57,7 +57,7 @@ part, Fig. 2, Alg. 1, Table 1.
   this, and do not isolate it. Domain experts are merged well, above
   zero-shot and an ensemble, despite having the most overlap.
 - **That this "conflict" is TIES's.** Overlap of singular subspaces is not
-  sign disagreement per coordinate (THEORY-107), and neither is the
+  sign disagreement per coordinate ([THEORY-107](THEORY-107.md)), and neither is the
   activation cross-term of a merge. The record should not fold them into
   one notion of interference.
 - **A reliable margin.** SCORE's lead is under a point on average, with

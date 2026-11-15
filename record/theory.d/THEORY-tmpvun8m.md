@@ -18,7 +18,7 @@ date: '2026-11-15'
 source:
 - LIT-tmpanxdy
 summary: >-
-  Wei et al. (2026), LIT-tmpanxdy, read in NOTE-tmpmpv2r. The router
+  Wei et al. (2026), [LIT-tmpanxdy](../literature.d/LIT-tmpanxdy.md), read in [NOTE-tmpmpv2r](../notes.d/NOTE-tmpmpv2r.md). The router
   R = QG⁻¹ is the least-squares solution of the layer-local
   reconstruction objective (Theorem 3.1) and is absorbed into B, so the
   merged model is one static LoRA; task arithmetic is R = I. At K = 9 on
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Wei et al. (2026), LIT-tmpanxdy, read in NOTE-tmpmpv2r: §§1–4.2,
+Wei et al. (2026), [LIT-tmpanxdy](../literature.d/LIT-tmpanxdy.md), read in [NOTE-tmpmpv2r](../notes.d/NOTE-tmpmpv2r.md): §§1–4.2,
 Tables 1–3.
 
 ## The result
@@ -56,7 +56,7 @@ Tables 1–3.
 - **That interference lives in activations rather than coordinates in
   general.** It shows that a data-conditioned, layer-local objective beats
   coordinate-wise trimming and sign election here; it does not separate
-  sign from scale, so it does not test THEORY-107.
+  sign from scale, so it does not test [THEORY-107](THEORY-107.md).
 - **Data-free merging.** The router needs one calibration prompt per task.
 - **Input-dependent routing.** R is a fixed linear map; "routing" is the
   authors' word for decorrelation, not gating.

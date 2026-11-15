@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpzye7e) from the arXiv preprint, v2 (§§1–5.2 in
+  read 2026-11-15 ([NOTE-tmpzye7e](../notes.d/NOTE-tmpzye7e.md)) from the arXiv preprint, v2 (§§1–5.2 in
   part: motivation, the method, Table 1 and the first analyses; the
   ablations, the conclusion and the appendices skipped). Published at
   CVPR 2026; a CVF open-access copy was located (HTTP 200) and not read,
@@ -12,7 +12,7 @@ status_note: >-
   and the paper treats that overlap as the conflict to remove. Of the
   exchange's two sentences on this work and OSRM together, the one on
   subspace conflicts under distribution shift is this paper's. Bears on
-  THEORY-107's point that conflict frequency does not track cost.
+  [THEORY-107](../theory.d/THEORY-107.md)'s point that conflict frequency does not track cost.
 title: 'Bridging Domains through Subspace-Aware Model Merging'
 version: 1
 history:
@@ -58,7 +58,7 @@ summary: >-
   tasks), which the paper reads as stronger conflict. SCORE projects each
   task matrix into a shared orthogonal basis and trims outlying
   off-diagonal couplings, data-free at λ = 1, and edges TIES and TSV on
-  average by under a point. Bears on THEORY-107.
+  average by under a point. Bears on [THEORY-107](../theory.d/THEORY-107.md).
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account of merge interference this reading bears on -->
 
@@ -70,7 +70,7 @@ Computer Vision and Pattern Recognition (CVPR) 2026*. arXiv:2603.05768v2.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpzye7e.*
+*From the reading, [NOTE-tmpzye7e](../notes.d/NOTE-tmpzye7e.md).*
 
 - **The finding** (abstract): "merging models trained under different
   distribution shifts induces stronger conflicts between their subspaces
@@ -90,17 +90,17 @@ Computer Vision and Pattern Recognition (CVPR) 2026*. arXiv:2603.05768v2.
 
 ## Standing in the record
 
-A, in the exchange, cites this paper and Zhang & Zhou (2025), LIT-tmpwnkv8,
+A, in the exchange, cites this paper and Zhang & Zhou (2025), [LIT-tmpwnkv8](LIT-tmpwnkv8.md),
 together for two characterizations: one "studies conflicts between task
 subspaces under distribution shift", one "emphasizes the interaction
 between parameter subspaces and data distributions". The first fits this paper:
 it is close to its abstract. The second does not: the method is data-free
 and never models how one model's parameters act on another domain's data.
-It fits LIT-tmpwnkv8. Joining the two papers blurs that. A also leaves out
+It fits [LIT-tmpwnkv8](LIT-tmpwnkv8.md). Joining the two papers blurs that. A also leaves out
 that the conflict here comes from overlap, shared singular directions,
 the opposite of the intuition that conflict comes from tasks that differ.
 
-On THEORY-107: TIES finds sign conflicts as frequent within one task as
+On [THEORY-107](../theory.d/THEORY-107.md): TIES finds sign conflicts as frequent within one task as
 across tasks; this paper finds the most subspace overlap among same-task
 experts, yet merges them well. The two "conflicts" are different
 measurements, and neither paper shows its measure causes the loss.

@@ -72,25 +72,25 @@ reader can still recover is left as it is.
 
 ## Bearing on the record
 
-- **TERM-064** (legibility relative to an observer's rule class): INLP is
+- **[TERM-064](../terms.d/TERM-064.md)** (legibility relative to an observer's rule class): INLP is
   erasure indexed to one rule class, the linear one. Gender becomes
   illegible to linear observers and stays legible to a one-hidden-layer
   MLP. This is the term's observer-relativity in an engineering setting,
   measured by the authors themselves.
-- **THEORY-281** (the perfect-erasure cap): INLP aims at a weaker target
+- **[THEORY-281](../theory.d/THEORY-281.md)** (the perfect-erasure cap): INLP aims at a weaker target
   than independence of the representation and the concept, so the cap
   does not apply to it; the 85.0% MLP result is a measured case of linear
   erasure far from perfect erasure.
-- **THEORY-1827** (LEACE): the closed-form, least-edit version of the same
+- **[THEORY-1827](../theory.d/THEORY-1827.md)** (LEACE): the closed-form, least-edit version of the same
   linear target. INLP reaches linear guardedness by iteration; LEACE
   characterizes it exactly.
-- **THEORY-846** (V-information can be created by computation): explains
+- **[THEORY-846](../theory.d/THEORY-846.md)** (V-information can be created by computation): explains
   why a nonlinear family can extract what the linear family cannot.
-- **QUESTION-010**: no direct bearing. INLP is one step, not a chain.
+- **[QUESTION-010](../questions.d/QUESTION-010.md)**: no direct bearing. INLP is one step, not a chain.
 
 ## Connections
 
-Kumar, Tan & Sharma (2022), LIT-tmpzdaep, NOTE-tmpqbu99, prove that the
+Kumar, Tan & Sharma (2022), [LIT-tmpzdaep](../literature.d/LIT-tmpzdaep.md), [NOTE-tmpqbu99](NOTE-tmpqbu99.md), prove that the
 first step of INLP can corrupt main-task features irreversibly when the
 probe leans on correlated task features.
 

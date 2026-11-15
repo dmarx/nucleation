@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpe9zlx) from the arXiv preprint, v2: §§1–6,
+  read 2026-11-15 ([NOTE-tmpe9zlx](../notes.d/NOTE-tmpe9zlx.md)) from the arXiv preprint, v2: §§1–6,
   the statements of Lemma 3.2 and Theorem 3.3, Tables 1–4; appendix
   proofs and per-dataset tables skipped. Worth reading here for a failure
   mode of merging that conflict-based accounts miss, constructive
   over-counting of directions several tasks share, and for running TIES
   and a magnitude-only correction in the same experiments, which bears on
-  THEORY-107's test of sign against magnitude.
+  [THEORY-107](../theory.d/THEORY-107.md)'s test of sign against magnitude.
 title: 'When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging'
 version: 1
 history:
@@ -53,10 +53,10 @@ summary: >-
   overlap and leaves the directions alone. On CLIP ViT-B/32 with 8 tasks
   it lifts task arithmetic from 68.9 to 81.9, above TIES's 72.6 in the
   same runs; gains on top of TSV-M are under a point. Evidence on the
-  magnitude side of THEORY-107's test, though not the oracle-sign
+  magnitude side of [THEORY-107](../theory.d/THEORY-107.md)'s test, though not the oracle-sign
   comparison it names.
 ---
-<!-- inactive-ok-file: NOTE-tmpe9zlx THEORY-107 LIT-tmpbknaa LIT-tmpmqgjz — new tmp codes, or Proposed; this work's reading and neighbours, not leaned on -->
+<!-- inactive-ok-file: THEORY-107 — new tmp codes, or Proposed; this work's reading and neighbours, not leaned on -->
 
 # LIT-tmpzk5vb: When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging
 
@@ -64,7 +64,7 @@ Li, Y., Peng, Z., Zhang, J., Guo, J., Duan, Y. & Shi, Y. (2026). When Shared Kno
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpe9zlx.*
+*From the reading, [NOTE-tmpe9zlx](../notes.d/NOTE-tmpe9zlx.md).*
 
 - **The mechanism** (§3.2, Lemma 3.2): when many cross-task overlaps in a
   merged singular direction are positive, "the merged response
@@ -84,7 +84,7 @@ Li, Y., Peng, Z., Zhang, J., Guo, J., Duan, Y. & Shi, Y. (2026). When Shared Kno
 ## Standing in the record
 
 Filed with the merging batch from the same turn. It reruns task
-arithmetic (LIT-tmpmqgjz), TIES (LIT-675) and TSV-M (LIT-tmpbknaa), and
+arithmetic ([LIT-tmpmqgjz](LIT-tmpmqgjz.md)), TIES ([LIT-675](LIT-675.md)) and TSV-M ([LIT-tmpbknaa](LIT-tmpbknaa.md)), and
 cites TSV's observation that overlap goes with degradation, which it
 recasts as over-counting.
 

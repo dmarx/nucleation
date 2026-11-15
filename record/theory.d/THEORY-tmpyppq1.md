@@ -13,8 +13,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpokxet
 summary: >-
-  Lu, Kriplani, Gandikota, Pham, Bau, Hegde & Cohen (2025), LIT-tmpokxet,
-  read in NOTE-tmpsiphf, tables through the prose. The reading of the
+  Lu, Kriplani, Gandikota, Pham, Bau, Hegde & Cohen (2025), [LIT-tmpokxet](../literature.d/LIT-tmpokxet.md),
+  read in [NOTE-tmpsiphf](../notes.d/NOTE-tmpsiphf.md), tables through the prose. The reading of the
   result as avoidance rather than destruction is the authors'
   interpretation, not a measurement. The wording is the reader's;
   adopting it is the owner's call.
@@ -24,7 +24,7 @@ summary: >-
 
 ## Source
 
-Lu et al. (2025), LIT-tmpokxet; read in NOTE-tmpsiphf.
+Lu et al. (2025), [LIT-tmpokxet](../literature.d/LIT-tmpokxet.md); read in [NOTE-tmpsiphf](../notes.d/NOTE-tmpsiphf.md).
 
 ## The result
 

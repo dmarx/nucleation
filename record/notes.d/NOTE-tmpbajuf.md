@@ -72,13 +72,13 @@ two-time response; gating; hub nonlinearity.
 
 ## Bearing on the record
 
-- **TERM-090**: a worked instance of the "by memory" axis. Eliminating the
+- **[TERM-090](../terms.d/TERM-090.md)**: a worked instance of the "by memory" axis. Eliminating the
   interior leaves a kernel over the boundary's histories, and here it
   changes with the interior's state while no local coupling changes, which
   is the term's "effective, not fundamental". The paper's object is a
   linear response kernel, narrower than the term's projection of a
   behaviour.
-- **TERM-118**: an edge with transmissive capacity unexpressed at rest and
+- **[TERM-118](../terms.d/TERM-118.md)**: an edge with transmissive capacity unexpressed at rest and
   expressed under drive may suggest masking. That analogy is the
   record's, not the authors', and the paper shows a state-dependent
   response, not a blocked manifestation.

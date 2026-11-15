@@ -98,23 +98,23 @@ rather than removing it.
 
 ## Bearing on the record
 
-- **TERM-064**: the hierarchy is a ladder of observer classes, and
+- **[TERM-064](../terms.d/TERM-064.md)**: the hierarchy is a ladder of observer classes, and
   "remained monitorable" means legible to some rung. The page's remark
   that "probes only need to be as powerful as the remainder of the model"
   is an upper bound on the observer class needed, close to the term's
   bound by what the source makes possible.
-- **THEORY-281** and **THEORY-1827**: projection erases linearly; the
+- **[THEORY-281](../theory.d/THEORY-281.md)** and **[THEORY-1827](../theory.d/THEORY-1827.md)**: projection erases linearly; the
   concept left in the covariance for a quadratic reader is exactly what
   LEACE's linear guarantee does not cover, and is far from the
-  independence THEORY-281 assumes.
-- **QUESTION-010**: the best fit in the batch for the chain form. Erasure
+  independence [THEORY-281](../theory.d/THEORY-281.md) assumes.
+- **[QUESTION-010](../questions.d/QUESTION-010.md)**: the best fit in the batch for the chain form. Erasure
   at one layer under continued training has later layers rebuild the
   concept, and a refit early in the rebuild destroys core features
   instead. A learning dynamic, not a fixed reconstruction chain; evidence,
   not an answer.
-- **THEORY-846**: re-readability at later layers is usable information
+- **[THEORY-846](../theory.d/THEORY-846.md)**: re-readability at later layers is usable information
   created by computation.
-- **THEORY-292** (co-occurring attributes give aligned directions): bears
+- **[THEORY-292](../theory.d/THEORY-292.md)** (co-occurring attributes give aligned directions): bears
   on the entanglement of desired and undesired directions (cosine up to
   about 0.45 in some vision experiments, per the page).
 

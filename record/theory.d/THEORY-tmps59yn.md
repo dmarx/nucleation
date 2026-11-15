@@ -19,7 +19,7 @@ date: '2026-11-15'
 source:
 - LIT-tmpspkpa
 summary: >-
-  Yang, Shi & Liu (2026), LIT-tmpspkpa, read in NOTE-tmpy669h. Each
+  Yang, Shi & Liu (2026), [LIT-tmpspkpa](../literature.d/LIT-tmpspkpa.md), read in [NOTE-tmpy669h](../notes.d/NOTE-tmpy669h.md). Each
   task's rotation is mapped to so(d) by the inverse Cayley transform (not
   a matrix logarithm), the generators are averaged, the mean is rescaled
   by Σ‖Q_i‖/‖ΣQ_i‖, and the result is mapped back by the Cayley transform.
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Yang, Shi & Liu (2026), LIT-tmpspkpa, read in NOTE-tmpy669h: §§1–6,
+Yang, Shi & Liu (2026), [LIT-tmpspkpa](../literature.d/LIT-tmpspkpa.md), read in [NOTE-tmpy669h](../notes.d/NOTE-tmpy669h.md): §§1–6,
 Tables 1–4.
 
 ## The result
@@ -65,10 +65,10 @@ Tables 1–4.
   method's rotation carries little of the update under Conflict-Aware
   decoupling (Fig. 4), and its gains on MergeBench Llama-3.2-3B are small
   and mixed, one negative (Table 2).
-- **Anything about sign in coordinates.** It bears on THEORY-107 only by
+- **Anything about sign in coordinates.** It bears on [THEORY-107](THEORY-107.md) only by
   analogy: a second method in which handling magnitude matters most. It
-  does not test THEORY-107's oracle-sign condition.
+  does not test [THEORY-107](THEORY-107.md)'s oracle-sign condition.
 - **A symmetry.** Its orthogonal maps are the adaptation and change the
-  function; THEORY-112's orthogonal map is a symmetry that preserves it.
+  function; [THEORY-112](THEORY-112.md)'s orthogonal map is a symmetry that preserves it.
 - **That the experts are surpassed generally.** One base, five tasks, the
   authors' own experts, no seeds or intervals.

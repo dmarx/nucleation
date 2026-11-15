@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpdav92) from the open-access full text at Europe
+  read 2026-11-15 ([NOTE-tmpdav92](../notes.d/NOTE-tmpdav92.md)) from the open-access full text at Europe
   PMC, PMC4015334: all of the Results and Discussion, with most of the
   Methods skipped. Worth reading here as the primary result for evoked
   propagating waves in awake primate cortex. It shows they are radial,
@@ -48,8 +48,8 @@ summary: >-
   Independent waves in V2 do not cross the areal border. A's line, that
   visual stimuli evoke responses that propagate across cortex as waves,
   holds for this setting. The waves are radial, not spirals, so the paper
-  neither corroborates nor contests THEORY-088. It is the same first
-  author's primary result beside the unread review LIT-647.
+  neither corroborates nor contests [THEORY-088](../theory.d/THEORY-088.md). It is the same first
+  author's primary result beside the unread review [LIT-647](LIT-647.md).
 ---
 <!-- inactive-ok-file: THEORY-088 LIT-647 — Proposed or Unavailable; cited from a side reading as contrast and neighbour -->
 
@@ -59,7 +59,7 @@ Muller, L., Reynaud, A., Chavane, F. & Destexhe, A. (2014). The stimulus-evoked 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdav92.*
+*From the reading, [NOTE-tmpdav92](../notes.d/NOTE-tmpdav92.md).*
 
 - **Waves on most single trials.** The authors found "stimulus-evoked
   propagations over the imaging array in 32 of 40 trials", and none on
@@ -80,10 +80,10 @@ awake V1 and V2. It leaves out what the paper flags: the waves stay within
 an area, show only on single trials in a 5–20 Hz band, and their
 latency–distance correlations are "significant, but not overly strong".
 
-- **THEORY-088**: no bearing either way. The waves are radial, from a point
+- **[THEORY-088](../theory.d/THEORY-088.md)**: no bearing either way. The waves are radial, from a point
   source, at millimetre scale, with no spiral or phase singularity. Its
   promote_when asks for spirals in a non-BOLD recording, and this paper
   does not supply them.
-- **LIT-647** (Muller et al. 2018, review, Unavailable): this is the same
+- **[LIT-647](LIT-647.md)** (Muller et al. 2018, review, Unavailable): this is the same
   first author's primary result for awake cortex, and a partial neighbour
   for that claim of the review only.

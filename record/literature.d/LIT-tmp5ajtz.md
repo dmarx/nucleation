@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpjbvav) from the arXiv PDF, v3: the abstract,
+  read 2026-11-15 ([NOTE-tmpjbvav](../notes.d/NOTE-tmpjbvav.md)) from the arXiv PDF, v3: the abstract,
   §1, §2 (tasks, coverage, the pass@k estimator), §3.1 (the scaling law),
   §4 (verification and flaky tests) and §5 in full; §2.2–2.3 (model sizes,
   FLOPs and cost) and the appendices other than B skimmed. Worth reading
   here as a measured separation of reachability under a sampling budget
   (coverage at large k) from reliability (one sample), and of reaching a
   correct output from identifying it (the verifier gap): the distinctions
-  of CLAIM-567 and CLAIM-576.
+  of [CLAIM-567](../claims.d/CLAIM-567.md) and [CLAIM-576](../claims.d/CLAIM-576.md).
 title: 'Large Language Monkeys: Scaling Inference Compute with Repeated Sampling'
 version: 1
 history:
@@ -47,11 +47,11 @@ summary: >-
   orders of magnitude, often log-linearly; with unit tests as verifier,
   DeepSeek-Coder-V2-Instruct solves 15.9% of SWE-bench Lite with one sample
   and 56% with 250. Without a verifier, majority voting and reward models
-  plateau far below coverage. Here for CLAIM-567 (reachable against
-  reliably reached) and CLAIM-576 (a budget makes affordable, a verifier
+  plateau far below coverage. Here for [CLAIM-567](../claims.d/CLAIM-567.md) (reachable against
+  reliably reached) and [CLAIM-576](../claims.d/CLAIM-576.md) (a budget makes affordable, a verifier
   makes discoverable); the source the record's PASS@(k,T) entries
-  (LIT-2441, THEORY-1703) build on without holding. Its account is
-  THEORY-tmpmapw3.
+  ([LIT-2441](LIT-2441.md), [THEORY-1703](../theory.d/THEORY-1703.md)) build on without holding. Its account is
+  [THEORY-tmpmapw3](../theory.d/THEORY-tmpmapw3.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpmapw3 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 THEORY-1703 THEORY-331 — Proposed; the claim this work bears on, the agentic extension of its metric, and the compute-trade reading it is compatible with -->
@@ -64,7 +64,7 @@ with Repeated Sampling. arXiv preprint arXiv:2407.21787.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpjbvav.*
+*From the reading, [NOTE-tmpjbvav](../notes.d/NOTE-tmpjbvav.md).*
 
 - **Coverage scales with samples** (abstract): "When we apply repeated
   sampling to SWE-bench Lite, the fraction of issues solved with
@@ -89,7 +89,7 @@ own unit tests as verifier, and 11.3% of problems had flaky tests, handled
 by a majority of 11 runs. A's formula 1 − (1 − p)^N is not in the paper;
 it holds per problem under i.i.d. sampling, not on the mean success rate.
 
-Compatible with Snell et al. (LIT-1063, THEORY-331): repeated sampling
+Compatible with Snell et al. ([LIT-1063](LIT-1063.md), [THEORY-331](../theory.d/THEORY-331.md)): repeated sampling
 helps only where per-sample success is above zero. Its advice on spending
-inference compute is ML practice and belongs to the anthology (ADR-048);
+inference compute is ML practice and belongs to the anthology ([ADR-048](../decisions.d/ADR-048.md));
 hence the flag.

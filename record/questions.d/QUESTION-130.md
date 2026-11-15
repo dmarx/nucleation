@@ -184,7 +184,7 @@ changes.
 
 ## Note of 2026-11-15: the abelian Higgs model as a positive control for gauge analogies
 
-A in the continuation of the exchange "Explain String Theory" (A7) suggests that the abelian Higgs model, which the record holds through Tong (NOTE-1694), can serve the question as a positive control. There, φ ↦ e^{ieχ}φ and A ↦ A + ∂χ change representation while flux and holonomy are observable. A gauge-theoretic account of transport between evaluative contexts would need the same three declarations:
+A in the continuation of the exchange "Explain String Theory" (A7) suggests that the abelian Higgs model, which the record holds through Tong ([NOTE-1694](../notes.d/NOTE-1694.md)), can serve the question as a positive control. There, φ ↦ e^{ieχ}φ and A ↦ A + ∂χ change representation while flux and holonomy are observable. A gauge-theoretic account of transport between evaluative contexts would need the same three declarations:
 - which transformations are mere changes of representation;
 - which observables must be invariant;
 - how transport is fixed by relations justified independently of the modeller.

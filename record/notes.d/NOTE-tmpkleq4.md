@@ -27,7 +27,7 @@ summary: >-
   units, which the paper does not address. Filtering and rescaling are not
   separated.
 ---
-<!-- inactive-ok-file: THEORY-107 LIT-tmpbknaa LIT-tmpzk5vb — Proposed or new tmp codes; named as entries this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-107 — Proposed or new tmp codes; named as entries this reading bears on, not leaned on -->
 
 # NOTE-tmpkleq4: Zheng and Wang — FREE-Merging, Fourier filtering of task vectors
 
@@ -108,17 +108,17 @@ linear interpolation often leads to high-loss regions.
 Within one pretrained start every fine-tuned model shares the layout, so
 a fixed (if arbitrary) order is common to all of them, which may be why
 the filter helps. By contrast, the singular values and singular-vector
-overlaps of LIT-tmpbknaa and LIT-tmpzk5vb are unchanged by a joint
+overlaps of [LIT-tmpbknaa](../literature.d/LIT-tmpbknaa.md) and [LIT-tmpzk5vb](../literature.d/LIT-tmpzk5vb.md) are unchanged by a joint
 permutation of units.
 
 ## Bearing on the record
 
-- **THEORY-107 (TIES)**: a rival diagnosis, amplitude mismatch in the 2D
+- **[THEORY-107](../theory.d/THEORY-107.md) (TIES)**: a rival diagnosis, amplitude mismatch in the 2D
   spectrum, which coordinate methods including TIES are shown not to
   reduce (Table 1). FR-Merging beats TIES on ViT-B/32 (78.1 against
   73.6) without sign election. It also changes magnitudes through λ_i,
   so, like SVC, it does not isolate its mechanism from rescaling.
-- **THEORY-112**: the method's quantities depend on unit order, which that
+- **[THEORY-112](../theory.d/THEORY-112.md)**: the method's quantities depend on unit order, which that
   account's alignment results treat as a symmetry to factor out. Within
   one start this is harmless; across independently trained models the
   spectrum would not be defined without alignment first.

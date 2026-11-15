@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpm4s2r) from the open-access full text at Europe
+  read 2026-11-15 ([NOTE-tmpm4s2r](../notes.d/NOTE-tmpm4s2r.md)) from the open-access full text at Europe
   PMC, PMC8490437: all of the Results and Discussion and the experimental
   Methods. The computational Methods were skipped. Worth reading here for
   its main result. Two colliding cortical waves sum sub-linearly, about 30%
@@ -55,7 +55,7 @@ summary: >-
   lower gain of populations already active. A's description holds. As
   evidence that cortical waves interfere linearly it says the opposite,
   and it qualifies the linear interference of Gepshtein et al.
-  (LIT-tmphayso). It does not meet THEORY-088's promote_when.
+  ([LIT-tmphayso](LIT-tmphayso.md)). It does not meet [THEORY-088](../theory.d/THEORY-088.md)'s promote_when.
 ---
 <!-- inactive-ok-file: THEORY-088 — Proposed; cited from a side reading as contrast -->
 
@@ -65,7 +65,7 @@ di Volo, M. & Férézou, I. (2021). Nonlinear collision between propagating wave
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpm4s2r.*
+*From the reading, [NOTE-tmpm4s2r](../notes.d/NOTE-tmpm4s2r.md).*
 
 - **Sub-linear collision, the main result.** "the activity evoked by the two
   stimuli presented sequentially is lower than the linear summation of the
@@ -83,8 +83,8 @@ di Volo, M. & Férézou, I. (2021). Nonlinear collision between propagating wave
 A's description is accurate. The record should carry the result A's
 "collisions" leaves unstated: cortical waves here do not superpose. Two
 fronts sum to less than their sum. The linear interference of
-LIT-tmphayso therefore holds for one model's stationary, low-contrast
+[LIT-tmphayso](LIT-tmphayso.md) therefore holds for one model's stationary, low-contrast
 regime, not as a general description of how cortical waves interact. The
-data are from anaesthetised animals; Muller et al. (LIT-tmp0aok6) is the
+data are from anaesthetised animals; Muller et al. ([LIT-tmp0aok6](LIT-tmp0aok6.md)) is the
 awake contrast. There are no spirals, phase singularities or
-annihilation, so THEORY-088 is untouched.
+annihilation, so [THEORY-088](../theory.d/THEORY-088.md) is untouched.

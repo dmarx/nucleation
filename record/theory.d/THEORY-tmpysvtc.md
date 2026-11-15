@@ -12,8 +12,8 @@ date: '2026-11-15'
 source:
 - LIT-tmp3i6ea
 summary: >-
-  Ravfogel, Elazar, Gonen, Twiton & Goldberg (2020), LIT-tmp3i6ea, read in
-  NOTE-tmpvnck7. INLP's composed projection is linearly guarding for the
+  Ravfogel, Elazar, Gonen, Twiton & Goldberg (2020), [LIT-tmp3i6ea](../literature.d/LIT-tmp3i6ea.md), read in
+  [NOTE-tmpvnck7](../notes.d/NOTE-tmpvnck7.md). INLP's composed projection is linearly guarding for the
   attribute; the MLP result is the paper's own measurement of what it
   leaves. The wording is the reader's; adopting it is the owner's call.
 ---
@@ -22,7 +22,7 @@ summary: >-
 
 ## Source
 
-Ravfogel et al. (2020), LIT-tmp3i6ea; read in NOTE-tmpvnck7.
+Ravfogel et al. (2020), [LIT-tmp3i6ea](../literature.d/LIT-tmp3i6ea.md); read in [NOTE-tmpvnck7](../notes.d/NOTE-tmpvnck7.md).
 
 ## The result
 
@@ -38,6 +38,6 @@ Ravfogel et al. (2020), LIT-tmp3i6ea; read in NOTE-tmpvnck7.
 - That any erasure method fails against nonlinear readers: the result is
   INLP's, on one embedding and one attribute.
 - Anything about perfect erasure (independence of representation and
-  attribute), which INLP does not attempt; THEORY-281 is about that.
+  attribute), which INLP does not attempt; [THEORY-281](THEORY-281.md) is about that.
 - What a downstream model trained on the guarded vectors does with the
   nonlinear residue; the MLP was trained as a probe for gender.

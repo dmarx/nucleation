@@ -24,7 +24,7 @@ summary: >-
   coefficient. The ablation needs both steps; the overlap-accuracy link is
   an association over three task sets.
 ---
-<!-- inactive-ok-file: THEORY-107 LIT-tmpzk5vb — Proposed or a new tmp code; named as entries this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-107 — Proposed or a new tmp code; named as entries this reading bears on, not leaned on -->
 
 # NOTE-tmpv6jne: Gargiulo et al. — Task singular vectors
 
@@ -80,22 +80,22 @@ TSV-Compress; TSV-Merge; whitening (Procrustes orthogonalisation).
 
 ## Bearing on the record
 
-- **THEORY-107 (TIES)**: a rival diagnosis of the same loss, placed in
+- **[THEORY-107](../theory.d/THEORY-107.md) (TIES)**: a rival diagnosis of the same loss, placed in
   overlapping singular subspaces rather than per-coordinate sign
   conflicts. TIES is not in Table 2, so there is no head-to-head; work 4
   of the batch runs both. TSV-M, with no sign election, beats Consensus TA
-  by about 10 points on ViT-B/32, which bears on THEORY-107's question of
+  by about 10 points on ViT-B/32, which bears on [THEORY-107](../theory.d/THEORY-107.md)'s question of
   sign against magnitude and structure, outside its (IA)³ and T5 setting.
-- **THEORY-113**: compatible in direction. Overlap falls with depth, as
+- **[THEORY-113](../theory.d/THEORY-113.md)**: compatible in direction. Overlap falls with depth, as
   Stoica et al.'s cross-model feature correlation does, but this is weight
   overlap within one start, not feature correlation across starts.
-- **THEORY-420**: agrees in spirit with keeping each task's top singular
+- **[THEORY-420](../theory.d/THEORY-420.md)**: agrees in spirit with keeping each task's top singular
   components, but that account ablates the singular values of trained
   weights, not of task updates.
-- **THEORY-112** (reader's observation): permuting a layer's units jointly
+- **[THEORY-112](../theory.d/THEORY-112.md)** (reader's observation): permuting a layer's units jointly
   across tasks leaves its singular values and overlaps unchanged, so
   these quantities do not depend on the arbitrary labelling of units.
-- **LIT-tmpzk5vb**: the "double scaling effect" is the over-counting that
+- **[LIT-tmpzk5vb](../literature.d/LIT-tmpzk5vb.md)**: the "double scaling effect" is the over-counting that
   paper builds its account on.
 - **A's point**: flattened task vectors can be near-orthogonal while a
   layer's singular vectors overlap, a matrix-level form of "orthogonality

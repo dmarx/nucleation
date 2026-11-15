@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-15 (NOTE-tmp88irq). The paper, arXiv:2611.07071v1
+  skimmed 2026-11-15 ([NOTE-tmp88irq](../notes.d/NOTE-tmp88irq.md)). The paper, arXiv:2611.07071v1
   (82 pp.), was skimmed: the contributions list (pp. 2–3), the §4
   passage on behavioural control and monitorability (p. 19), the opening
   of §6 with Proposition 1 (pp. 24–25) and the matching appendix
@@ -65,7 +65,7 @@ summary: >-
   (0.97–0.98), and in every experiment the concept stayed readable by the
   original, a refitted linear, a nonlinear or another layer's probe. In a
   linear toy theory the concept regrows along the directions the readout
-  uses for core features. Bears on TERM-064, THEORY-281 and QUESTION-010.
+  uses for core features. Bears on [TERM-064](../terms.d/TERM-064.md), [THEORY-281](../theory.d/THEORY-281.md) and [QUESTION-010](../questions.d/QUESTION-010.md).
 ---
 <!-- inactive-ok-file: NOTE-tmp88irq THEORY-tmp2ly83 — Skimmed and Proposed; the reading of this work and the account filed from it -->
 
@@ -75,7 +75,7 @@ Fel, T., Kowal, M., Feiszli, M., Grant, S., Lee, A., Earls, C., et al. (2026). S
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp88irq (paper skimmed, page read).*
+*From the reading, [NOTE-tmp88irq](../notes.d/NOTE-tmp88irq.md) (paper skimmed, page read).*
 
 - **Monitorability survived** (page): "In all of our experiments, the
   concept being trained against remained monitorable, either with the
@@ -110,4 +110,4 @@ re-encoding comes from the vision experiments and the toy theory (L3),
 where the concept was linearly readable again two layers later, so the
 two should not be joined; and A's "research report" of 2026-11-05 is the
 summary page of a paper of 2026-11-04. This is a lab's own report of its
-own method. THEORY-tmp2ly83 carries its central account.
+own method. [THEORY-tmp2ly83](../theory.d/THEORY-tmp2ly83.md) carries its central account.

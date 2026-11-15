@@ -104,26 +104,26 @@ fixed-filter deep network.
   abstract's claim that the analysis "explain[s] important properties of
   deep convolution networks" is by architecture, not by analysis of trained
   networks.
-- **THEORY-758 (diffusion wavelets)**: a contrast to file. Both are
-  multiscale wavelet constructions, about an octave a scale. THEORY-758's
+- **[THEORY-758](../theory.d/THEORY-758.md) (diffusion wavelets)**: a contrast to file. Both are
+  multiscale wavelet constructions, about an octave a scale. [THEORY-758](../theory.d/THEORY-758.md)'s
   levels are exactly closed linear coarse-grainings of a diffusion
   operator. Here a linear multiscale decomposition is only covariant
   (§2.2: ∫ x ⋆ ψλ(u) du = 0 for all x), and invariance needs the modulus.
   Linear coarse-graining gives covariance; invariance needs a
   non-linearity.
-- **QUESTION-058**: bears. A representation invariant to a group of
+- **[QUESTION-058](../questions.d/QUESTION-058.md)**: bears. A representation invariant to a group of
   deformations is obtained here from architecture alone, with no task or
   training, which is one end of that question's division between task,
   architecture and data.
-- **NOTE-684 (LIT-880) and NOTE-476 (LIT-618)**: both cite this line of
-  work without holding it. NOTE-684 takes it as the deformation side of the
+- **[NOTE-684](NOTE-684.md) ([LIT-880](../literature.d/LIT-880.md)) and [NOTE-476](NOTE-476.md) ([LIT-618](../literature.d/LIT-618.md))**: both cite this line of
+  work without holding it. [NOTE-684](NOTE-684.md) takes it as the deformation side of the
   Sparse Random Hierarchy Model.
-- **TERM-064 (legibility)**: interpretive. Scattering is a designed
+- **[TERM-064](../terms.d/TERM-064.md) (legibility)**: interpretive. Scattering is a designed
   observer under which class distinctions become recoverable by a linear
   or Gaussian classifier while translation and small deformation are
   discarded, a case of the term's relation among representation,
   observer's rule class and task.
-- **CLAIM-182, THEORY-272, THEORY-1036**: no bearing.
+- **[CLAIM-182](../claims.d/CLAIM-182.md), [THEORY-272](../theory.d/THEORY-272.md), [THEORY-1036](../theory.d/THEORY-1036.md)**: no bearing.
 
 ## Limitations
 

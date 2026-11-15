@@ -20,23 +20,23 @@ date: '2026-11-15'
 source:
 - LIT-tmpbknaa
 summary: >-
-  Gargiulo et al. (2025), LIT-tmpbknaa, read in NOTE-tmpv6jne. Keeping 3%
+  Gargiulo et al. (2025), [LIT-tmpbknaa](../literature.d/LIT-tmpbknaa.md), read in [NOTE-tmpv6jne](../notes.d/NOTE-tmpv6jne.md). Keeping 3%
   of each task's singular components per layer costs 1.5% accuracy;
   cross-task singular-vector overlap is highest in early layers; TSV-M
   reaches 85.86 against 70.79 for task arithmetic on ViT-B/32 with 8
   tasks; the ablation needs both truncation and decorrelation. That
   overlap is the cause rests on an association over three task sets. A
-  rival diagnosis to TIES's sign conflicts, THEORY-107. The wording is
+  rival diagnosis to TIES's sign conflicts, [THEORY-107](THEORY-107.md). The wording is
   the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpbknaa NOTE-tmpv6jne THEORY-107 THEORY-tmpqv3ve — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-107 THEORY-tmpqv3ve — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
 # THEORY-tmp6ikb6: Gargiulo et al.: for CLIP ViTs fully fine-tuned on 8 to 20 image tasks from one start, each layer's weight update is close to low-rank, merging loses accuracy where different tasks' singular vectors overlap, and truncating each update to its top singular components and orthogonalising them across tasks raises merged accuracy by about 15 points over task arithmetic on ViT-B/32
 
 ## Source
 
 Gargiulo, Crisostomi, Bucarelli, Scardapane, Silvestri & Rodolà (2025),
-LIT-tmpbknaa, read in NOTE-tmpv6jne: §§1–7 and supplementary §A.
+[LIT-tmpbknaa](../literature.d/LIT-tmpbknaa.md), read in [NOTE-tmpv6jne](../notes.d/NOTE-tmpv6jne.md): §§1–7 and supplementary §A.
 
 ## The result
 
@@ -63,7 +63,7 @@ LIT-tmpbknaa, read in NOTE-tmpv6jne: §§1–7 and supplementary §A.
 - **Anything outside vision.** CLIP image classification only, on one set
   of public checkpoints.
 - **Anything against TIES directly.** TIES is not run. The comparison of
-  sign against structure is the over-counting paper's (THEORY-tmpqv3ve),
+  sign against structure is the over-counting paper's ([THEORY-tmpqv3ve](THEORY-tmpqv3ve.md)),
   which runs both.
 - **Anything about LoRA.** The low-rank updates are full fine-tuning
   updates found to be close to low-rank, not adapters.

@@ -102,9 +102,9 @@ potential; arrest of diffraction broadening.
   spatially correlated optical potential" under "linear wave physics",
   holds. The condition that the correlation length exceed the wavelength
   is left out. The "et al." after four names is wrong. The scintillation
-  index and the scaling A credits to the 2026 paper (LIT-tmpn3i8n) are
+  index and the scaling A credits to the 2026 paper ([LIT-tmpn3i8n](../literature.d/LIT-tmpn3i8n.md)) are
   already here.
-- **CLAIM-182, THEORY-272, THEORY-1036, TERM-064, THEORY-758**: no
+- **[CLAIM-182](../claims.d/CLAIM-182.md), [THEORY-272](../theory.d/THEORY-272.md), [THEORY-1036](../theory.d/THEORY-1036.md), [TERM-064](../terms.d/TERM-064.md), [THEORY-758](../theory.d/THEORY-758.md)**: no
   bearing. This is wave transport, not storage, memory, capacity or
   multiscale analysis. Any bridge to learning is A's analogy, and the
   paper makes no claim about computation.

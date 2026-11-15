@@ -126,40 +126,40 @@ fallacy; carrier versus bystander (v3).
 
 ## Bearing on the record
 
-- **THEORY-107 (interference in parameter coordinates)**: qualifies, does
+- **[THEORY-107](../theory.d/THEORY-107.md) (interference in parameter coordinates)**: qualifies, does
   not test. The paper does not compare sign with scale in coordinates.
   Its interference is the activation cross-term, and it argues that more
   of it measured at the output does not mean a worse merge. v3's audit
   finds TIES roughly doubling R while behaving best at small scale. That
-  fits THEORY-107's caution that TIES's gain is not shown to come from
+  fits [THEORY-107](../theory.d/THEORY-107.md)'s caution that TIES's gain is not shown to come from
   resolving conflicts, but it is not evidence about sign.
-- **QUESTION-318 (layerwise linearity outside image classification)**:
+- **[QUESTION-318](../questions.d/QUESTION-318.md) (layerwise linearity outside image classification)**:
   direct, partial evidence for the layerwise half. In LoRA merges of Qwen
   and Llama language models from one base, cosines are 0.93–0.98. The
   construction is a task-arithmetic sum, not an interpolation between two
   endpoints; only the final token is read; and the measure is a cosine,
-  not THEORY-111's test of proportionality. The averaging half is not
+  not [THEORY-111](../theory.d/THEORY-111.md)'s test of proportionality. The averaging half is not
   answered, though v3's six-vector merges are many-model sums with a
   growing interaction.
-- **CLAIM-498 (averaging weights averages features)**: consistent in
+- **[CLAIM-498](../claims.d/CLAIM-498.md) (averaging weights averages features)**: consistent in
   spirit, since the residual is small, but the paper's point is that the
   residual is causally effective for output non-additivity. It measures
   no soup or SWA average, and the claim's defeater is not addressed.
-- **CLAIM-407 (closed coarse-graining need not preserve interventional
+- **[CLAIM-407](../claims.d/CLAIM-407.md) (closed coarse-graining need not preserve interventional
   responses)**: an analogy only. A format-wrapped output measure hides an
   internal interaction, and v3 has a quantity causally effective for one
   estimand and inert for another. No closure is constructed and no Γ
   computed.
-- **THEORY-264 (demonstration and instruction use different heads)**:
+- **[THEORY-264](../theory.d/THEORY-264.md) (demonstration and instruction use different heads)**:
   adjacent. Both find a presentation format changing what is expressed;
   nothing here is about heads.
 
 ## Connections
 
-- **OrthoMerge (NOTE-tmpy669h)** also locates the loss in directions that
+- **OrthoMerge ([NOTE-tmpy669h](NOTE-tmpy669h.md))** also locates the loss in directions that
   cancel, but in the Lie algebra of the update, not in activations, and
   repairs it by restoring magnitude.
-- **OSRM (NOTE-tmpf8m60)** treats interference as first-order and
+- **OSRM ([NOTE-tmpf8m60](NOTE-tmpf8m60.md))** treats interference as first-order and
   layer-local, task 2's update acting on task 1's input. This paper finds
   most of the cross-term's flux is carried from earlier layers. The two
   are compatible; they address different stages.

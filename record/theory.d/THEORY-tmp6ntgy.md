@@ -17,11 +17,11 @@ date: '2026-11-15'
 source:
 - LIT-tmpn3i8n
 summary: >-
-  Chang et al. (2026), LIT-tmpn3i8n, read in NOTE-tmp5yuxz from arXiv v1
+  Chang et al. (2026), [LIT-tmpn3i8n](../literature.d/LIT-tmpn3i8n.md), read in [NOTE-tmp5yuxz](../notes.d/NOTE-tmp5yuxz.md) from arXiv v1
   without its Supplemental Material. The law is Degueldre et al.'s
   prediction, tested here at three anisotropies and three angles plus a
   sweep; the isotropic case and the diagnostic are Patsyk et al. (2020),
-  LIT-tmpv09vj. It bears on no question of the record's: wave physics,
+  [LIT-tmpv09vj](../literature.d/LIT-tmpv09vj.md). It bears on no question of the record's: wave physics,
   with any link to learning A's analogy. The wording is the reader's;
   adopting it is the owner's call.
 ---
@@ -29,7 +29,7 @@ summary: >-
 
 # THEORY-tmp6ntgy: Chang and co-authors imprint designed, anisotropic correlated disorder on nematic liquid-crystal films by photoalignment and observe branched flow of light whose first-branch distance, read from the scintillation index over about ten fabricated films, grows with anisotropy and falls with rotation of the principal axis in agreement with df ∝ ε^−2/3 A^4/3 lx (cos²α + sin²α/A²)^5/6, and at anisotropy 1/1000 channels the light along the long correlation axis with sub-diffusive growth of its velocity-angle spread
 
-Chang et al. (2026), LIT-tmpn3i8n; read in NOTE-tmp5yuxz.
+Chang et al. (2026), [LIT-tmpn3i8n](../literature.d/LIT-tmpn3i8n.md); read in [NOTE-tmp5yuxz](../notes.d/NOTE-tmp5yuxz.md).
 
 ## The result
 
@@ -56,5 +56,5 @@ or no channeling.
   experimental discovery" is a confirmation.
 - That sub-diffusion is general: one exponent estimate at one anisotropy.
 - The isotropic scaling or the scintillation diagnostic as its own result;
-  both are Patsyk et al. (2020), THEORY-tmp4wies.
+  both are Patsyk et al. (2020), [THEORY-tmp4wies](THEORY-tmp4wies.md).
 - Anything about learning or computation.

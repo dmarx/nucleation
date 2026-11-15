@@ -104,12 +104,12 @@ reduced descriptions; unitary vectors; capacity linear in dimension.
 
 ## Connections
 
-- **Nickel, Rosasco & Poggio (2016)**, LIT-tmp7xp5z, build HolE on this
+- **Nickel, Rosasco & Poggio (2016)**, [LIT-tmp7xp5z](../literature.d/LIT-tmp7xp5z.md), build HolE on this
   paper: storage by convolution, retrieval by correlation, the
   compressed-outer-product reading and an argmax clean-up. HolE composes by
   correlation for non-commutativity and learns its embeddings.
 - **Angle-multiplexed volume holography**, read through Márquez et al.
-  (2023), LIT-tmp3d5f9: the same structure of many items superposed in one
+  (2023), [LIT-tmp3d5f9](../literature.d/LIT-tmp3d5f9.md): the same structure of many items superposed in one
   medium and read out by a key. Plate draws the parallel only through the
   name.
 
@@ -122,24 +122,24 @@ reduced descriptions; unitary vectors; capacity linear in dimension.
   convolution–correlation memories, which Plate notes had been "regarded as
   inferior to matrix style associative memories"; he does not use optical
   holography.
-- **THEORY-272 (Hopfield)**: a complementary contrast. HRR is
+- **[THEORY-272](../theory.d/THEORY-272.md) (Hopfield)**: a complementary contrast. HRR is
   hetero-associative with items and associations in one space; Plate sets
   Hopfield aside as clean-up memory for its low capacity per dimension.
-  Nothing here contradicts THEORY-272.
-- **THEORY-1036 (superposition capacity)**: both are capacity in
+  Nothing here contradicts [THEORY-272](../theory.d/THEORY-272.md).
+- **[THEORY-1036](../theory.d/THEORY-1036.md) (superposition capacity)**: both are capacity in
   superposition, under different models: k random bound pairs in n
   dimensions with fixed decoding here, a learned allocation in a toy model
   there. Neighbours, not the same result.
-- **QUESTION-120**: a further random-code threshold of a different shape,
+- **[QUESTION-120](../questions.d/QUESTION-120.md)**: a further random-code threshold of a different shape,
   n growing with k times log m, to set beside the distance, sparse-recovery
   and SDM thresholds that question compares.
-- **CLAIM-182**: interpretive only. A trace holds many items superposed,
+- **[CLAIM-182](../claims.d/CLAIM-182.md)**: interpretive only. A trace holds many items superposed,
   nothing spatially separate, and each is recovered by its key (the role
   vector) followed by content-addressed clean-up. That suggests an address
   need not be a location, and also that keyed readout of a superposed store
   is noisy without a second memory. The claim is about records, so this is
   analogy, not evidence.
-- **TERM-064 (legibility)**: a bound filler is not recoverable from the
+- **[TERM-064](../terms.d/TERM-064.md) (legibility)**: a bound filler is not recoverable from the
   trace without the right key and the clean-up memory, an instance of
   legibility relative to the observer's resources.
 

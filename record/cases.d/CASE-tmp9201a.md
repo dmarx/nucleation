@@ -29,7 +29,7 @@ summary: >-
   hologram, test-time compute and RL into one experiment. Not run.
   Proposed because the design is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp6214r CLAIM-tmps7g72 CLAIM-tmp36o5i CLAIM-tmpumro8 THEORY-tmpi5d5l THEORY-tmp2ly83 — Proposed or new; the construction and claims the design tests, and the erasure bound it uses -->
+<!-- inactive-ok-file: CASE-tmp6214r CLAIM-tmps7g72 CLAIM-tmpumro8 THEORY-tmpi5d5l THEORY-tmp2ly83 — Proposed or new; the construction and claims the design tests, and the erasure bound it uses -->
 
 # CASE-tmp9201a: A proposed study of the recoverability of controlled associations
 
@@ -49,22 +49,22 @@ summary: >-
   R(q) = vᵀ J_{L−1}(q)⋯J_ℓ(q) u, checked by finite interventions.
 - **Budget axis.** Single sample, repeated sampling (coverage and
   delivery reported separately), self-consistency, verifier-guided search
-  and extended reasoning, each with its cost (CLAIM-tmps7g72).
+  and extended reasoning, each with its cost ([CLAIM-tmps7g72](../claims.d/CLAIM-tmps7g72.md)).
 
 ## The outcomes it separates
 
 | apparent forgetting | signature |
 |---|---|
-| readdressing | another cue recovers it; the response peak moves (CASE-tmp6214r) |
+| readdressing | another cue recovers it; the response peak moves ([CASE-tmp6214r](CASE-tmp6214r.md)) |
 | interference | removing distractors or competing contributions restores it |
 | downstream suppression | internal readers and interventions find a signal blocked before the output |
 | higher realization cost | the capability curve shifts to the right: recovered at a larger budget |
 | loss | strong readers, other cues and interventions all fail, with every other source of the information controlled |
 
-Recovery after an erasure, as Amnesic Probing (THEORY-tmpi5d5l) and
-mechanistic shaping (THEORY-tmp2ly83) observe, does not by itself show the original trace
+Recovery after an erasure, as Amnesic Probing ([THEORY-tmpi5d5l](../theory.d/THEORY-tmpi5d5l.md)) and
+mechanistic shaping ([THEORY-tmp2ly83](../theory.d/THEORY-tmp2ly83.md)) observe, does not by itself show the original trace
 survived. It may have been rebuilt from other retained information, which
-THEORY-281's bound limits.
+[THEORY-281](../theory.d/THEORY-281.md)'s bound limits.
 
 ## What would count
 
@@ -72,7 +72,7 @@ The prediction must come before the recovery tests: which unseen queries,
 budgets and interventions restore which associations. The test is against
 static feature similarity, activation strength, attribution and plain
 compute-scaling fits. If those predict as well, the response-geometry
-account adds nothing (CLAIM-tmpumro8).
+account adds nothing ([CLAIM-tmpumro8](../claims.d/CLAIM-tmpumro8.md)).
 
 ## Its limits
 

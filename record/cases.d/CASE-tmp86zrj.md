@@ -24,8 +24,8 @@ summary: >-
   mixed second derivative integrated over the square, and vanishes
   identically for a model linearized at the base, is the reader's
   derivation; it matches the tangent-space regime of Ortiz-Jimenez et al.
-  (THEORY-tmpkfmi5) and the second-order term Zhou et al. bound
-  (THEORY-tmpjlixb). Proposed because the
+  ([THEORY-tmpkfmi5](../theory.d/THEORY-tmpkfmi5.md)) and the second-order term Zhou et al. bound
+  ([THEORY-tmpjlixb](../theory.d/THEORY-tmpjlixb.md)). Proposed because the
   construction is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmpkfmi5 THEORY-tmpjlixb — Proposed; the readings the construction is set against -->
@@ -55,5 +55,5 @@ through parameter angles.
 ## What it cannot show
 
 That a given merge fails. In models fine-tuned from one start, layerwise
-feature linearity often holds approximately (THEORY-tmpjlixb), so the cross
+feature linearity often holds approximately ([THEORY-tmpjlixb](../theory.d/THEORY-tmpjlixb.md)), so the cross
 term can be small in practice.

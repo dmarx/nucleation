@@ -84,16 +84,16 @@ eigenfunction localisation; local energy.
 
 ## Bearing on the record
 
-- **THEORY-107 (TIES)**: a different account of the same loss.
+- **[THEORY-107](../theory.d/THEORY-107.md) (TIES)**: a different account of the same loss.
   Interference is in function space, outputs that are not disentangled,
   not in coordinates. The paper does not test sign conflicts. Linearised
   task vectors would test whether the sign account survives once
   disentanglement is raised.
-- **QUESTION-318**: indirect. Linearised fine-tuning makes the output
+- **[QUESTION-318](../questions.d/QUESTION-318.md)**: indirect. Linearised fine-tuning makes the output
   exactly linear in the weights, and the paper measures outputs, not
   layer features. It gives the linear-regime limit of the layerwise
-  question, not a measurement of it. Nothing here on CLAIM-498.
-- **QUESTION-069**: task arithmetic is "acquired during pre-training", a
+  question, not a measurement of it. Nothing here on [CLAIM-498](../claims.d/CLAIM-498.md).
+- **[QUESTION-069](../questions.d/QUESTION-069.md)**: task arithmetic is "acquired during pre-training", a
   property of the shared history and not of the fine-tuned solutions
   alone.
 - **A's toy** (reader's derivation, not the paper's): for a linearised

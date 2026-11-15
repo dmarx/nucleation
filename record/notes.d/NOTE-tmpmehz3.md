@@ -87,7 +87,7 @@ relations; holographic associative memory; filtered MRR and Hits@k.
 
 ## Connections
 
-- **Plate (1995)**, LIT-tmpq18t6: HolE is built on HRR. Shared: storage by
+- **Plate (1995)**, [LIT-tmpq18t6](../literature.d/LIT-tmpq18t6.md): HolE is built on HRR. Shared: storage by
   convolution and retrieval by correlation, the compressed-outer-product
   reading, O(d log d) by FFT, and clean-up by nearest item (Plate's
   clean-up memory, HolE's argmax). Not shared: HolE composes by
@@ -103,17 +103,17 @@ relations; holographic associative memory; filtered MRR and Hits@k.
   dot product). "Competitive link-prediction performance" understates the
   paper's claim to outperform, which holds on filtered MRR and is mixed on
   FB15k Hits@10.
-- **THEORY-272 (Hopfield)**: HolE draws the line between memorizing
+- **[THEORY-272](../theory.d/THEORY-272.md) (Hopfield)**: HolE draws the line between memorizing
   (associative memory, given embeddings, Hebbian storage) and learning
   (adapted embeddings that generalize). Content-addressable memory sits on
   the first side; no contradiction.
-- **THEORY-1036 (superposition capacity)**: d² interactions packed into d
+- **[THEORY-1036](../theory.d/THEORY-1036.md) (superposition capacity)**: d² interactions packed into d
   components by a fixed, designed partition, with no capacity analysis.
   "More than d things in d dimensions" is shared; the model is not.
-- **CLAIM-182**: interpretive, as under Plate: the relation vector reads
+- **[CLAIM-182](../claims.d/CLAIM-182.md)**: interpretive, as under Plate: the relation vector reads
   one relation out of a compressed pair representation. HolE adds that
   where things go is learned.
-- **LIT-232 (Knowledge Sheaves), THEORY-299**: the record's held
+- **[LIT-232](../literature.d/LIT-232.md) (Knowledge Sheaves), [THEORY-299](../theory.d/THEORY-299.md)**: the record's held
   knowledge-graph reading covers coboundary-type scores such as TransE;
   HolE is of the bilinear, compressed-tensor family, outside that account.
 

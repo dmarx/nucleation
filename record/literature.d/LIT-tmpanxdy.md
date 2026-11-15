@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpmpv2r) from the arXiv preprint, v1 (§§1–4.2,
+  read 2026-11-15 ([NOTE-tmpmpv2r](../notes.d/NOTE-tmpmpv2r.md)) from the arXiv preprint, v1 (§§1–4.2,
   Tables 1–3, Algorithm 1; §4.3, the ablations and Appendices A–H
   skipped). Published at ICML 2026, PMLR 306, per the PDF footer and the
   arXiv comment. Worth reading here as an activation-space, data-
@@ -9,7 +9,7 @@ status_note: >-
   along rank and insert a fixed linear router, the least-squares solution
   for reconstructing each LoRA's output on its own task's inputs, which
   beats task arithmetic, TIES and DARE on the same rank budget in
-  FLUX.1-dev. Bears on THEORY-107 as a non-coordinate remedy that wins
+  FLUX.1-dev. Bears on [THEORY-107](../theory.d/THEORY-107.md) as a non-coordinate remedy that wins
   where both were tried; it does not separate sign from scale.
 title: 'SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models'
 version: 1
@@ -54,7 +54,7 @@ summary: >-
   Task arithmetic is R = I. On FLUX.1-dev with nine subject LoRAs it keeps
   over 90% of single-LoRA fidelity and beats task arithmetic, TIES, DARE,
   RobustMerge and IterIS. Training-free but not data-free. Bears on
-  THEORY-107 as an activation-space account of interference.
+  [THEORY-107](../theory.d/THEORY-107.md) as an activation-space account of interference.
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account of merge interference this reading bears on -->
 
@@ -68,7 +68,7 @@ github.com/nagara214/SSR-Merge (not fetched).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmpv2r.*
+*From the reading, [NOTE-tmpmpv2r](../notes.d/NOTE-tmpmpv2r.md).*
 
 - **The reframing** (§1): "reframing model merging as signal routing
   rather than parameter arithmetic".
@@ -97,5 +97,5 @@ data-free. And "routing" is a fixed linear map absorbed into the weights,
 not gating that depends on the input.
 
 Its objective, layer-local reconstruction of each LoRA's output on its
-own inputs, is the RegMean family, which TIES (LIT-675) compares against
+own inputs, is the RegMean family, which TIES ([LIT-675](LIT-675.md)) compares against
 and which this paper leaves out for numerical instability.

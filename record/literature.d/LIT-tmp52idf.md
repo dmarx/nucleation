@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpab3ti) from the arXiv preprint, v3 (15 pp.):
+  read 2026-11-15 ([NOTE-tmpab3ti](../notes.d/NOTE-tmpab3ti.md)) from the arXiv preprint, v3 (15 pp.):
   the abstract, §§1–2, §4, the head of §5, §6, §§7.1–7.2, §9 and §10;
   Figures 3–4 from the prose only. Worth reading here as the step from
   probing to intervention: how well a linear probe decodes a property
@@ -49,8 +49,8 @@ summary: >-
   many random directions. Probe accuracy does not correlate with that drop
   (Spearman 8.5, p = 0.871, over six properties), and property
   information removed at early layers is largely recoverable at later
-  ones. Bears on QUESTION-010, as a chain that partly restores what one
-  step removed, and on TERM-064.
+  ones. Bears on [QUESTION-010](../questions.d/QUESTION-010.md), as a chain that partly restores what one
+  step removed, and on [TERM-064](../terms.d/TERM-064.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpi5d5l — Proposed; the account filed from this reading -->
 
@@ -60,7 +60,7 @@ Elazar, Y., Ravfogel, S., Jacovi, A. & Goldberg, Y. (2021). Amnesic Probing: Beh
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpab3ti.*
+*From the reading, [NOTE-tmpab3ti](../notes.d/NOTE-tmpab3ti.md).*
 
 - **Probing and use come apart** (§4): "the probe accuracy does not
   correlate with task importance as measured by our method (Spearman
@@ -83,5 +83,5 @@ removal left more recoverable than later-layer removal (A's words
 paraphrased here; the exchange was not rechecked by the filer). The
 reader found all three right; the correlation rests on six properties, so
 "did not reliably predict" is weaker evidence than it sounds. It applies
-INLP (LIT-tmp3i6ea) and is among the methods Kumar, Tan & Sharma
-(LIT-tmpzdaep) criticize. THEORY-tmpi5d5l carries its central account.
+INLP ([LIT-tmp3i6ea](LIT-tmp3i6ea.md)) and is among the methods Kumar, Tan & Sharma
+([LIT-tmpzdaep](LIT-tmpzdaep.md)) criticize. [THEORY-tmpi5d5l](../theory.d/THEORY-tmpi5d5l.md) carries its central account.

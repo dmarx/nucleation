@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpi9jpg) from the arXiv preprint, v2, which
+  read 2026-11-15 ([NOTE-tmpi9jpg](../notes.d/NOTE-tmpi9jpg.md)) from the arXiv preprint, v2, which
   carries the header "Published as a conference paper at ICLR 2025": §§1–5
   in full and appendix A.1–A.3 and A.5; A.4 and A.6–A.9 skipped. Worth
   reading here only for the picture A drew from it: a transformer whose
@@ -54,11 +54,11 @@ summary: >-
 
 # LIT-tmp0q2ls: nGPT: Normalized Transformer with Representation Learning on the Hypersphere
 
-Loshchilov, I., Hsieh, C.-P., Sun, S. & Ginsburg, B. (2024). nGPT: Normalized Transformer with Representation Learning on the Hypersphere. ICLR 2025. arXiv:2410.01131v2. ARXIV-2410.01131.
+Loshchilov, I., Hsieh, C.-P., Sun, S. & Ginsburg, B. (2024). nGPT: Normalized Transformer with Representation Learning on the Hypersphere. ICLR 2025. arXiv:2410.01131v2. [ARXIV-2410.01131](https://arxiv.org/abs/2410.01131).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpi9jpg.*
+*From the reading, [NOTE-tmpi9jpg](../notes.d/NOTE-tmpi9jpg.md).*
 
 - **The update** (§2.2.2, Eqs. 10–11): h ← Norm(h + α_A(h_A − h)) and
   h ← Norm(h + α_M(h_M − h)), with h_A = Norm(ATTN(h)) and h_M =
@@ -82,7 +82,7 @@ imprecisions the reader notes (the block output is itself normalized, and
 each layer makes two such steps with separate α_A and α_M). A rightly
 says the paper does not show branched flow: it analyses no trajectories
 across inputs. Its reading of each layer as an optimizer step is an
-analogy by construction, not the in-context identity of LIT-792. It
+analogy by construction, not the in-context identity of [LIT-792](LIT-792.md). It
 carries no claim about memory, superposition or circuits, and bears on
 none of the codes the rest of this batch does. Its central account is
-THEORY-tmpc29mv.
+[THEORY-tmpc29mv](../theory.d/THEORY-tmpc29mv.md).

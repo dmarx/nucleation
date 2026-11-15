@@ -78,27 +78,27 @@ removing as many random directions.
 
 ## Bearing on the record
 
-- **QUESTION-010**: the nearest empirical analogue in the batch, in the
+- **[QUESTION-010](../questions.d/QUESTION-010.md)**: the nearest empirical analogue in the batch, in the
   reverse direction. Information removed at layer i is partly regenerated
   by later layers from correlates left in the representation, so a chain
   can restore what one of its steps erased. Linear erasure, one model; not
   an answer.
-- **TERM-064**: "decodable" means legible to a linear probe, and
-  legibility is not monotone along the network, which is THEORY-846's
+- **[TERM-064](../terms.d/TERM-064.md)**: "decodable" means legible to a linear probe, and
+  legibility is not monotone along the network, which is [THEORY-846](../theory.d/THEORY-846.md)'s
   point that computation can create usable information.
-- **CLAIM-407**: an analogy of shape only. Observation (probe accuracy) and
+- **[CLAIM-407](../claims.d/CLAIM-407.md)**: an analogy of shape only. Observation (probe accuracy) and
   intervention (amnesic removal) disagree, as ordinary adequacy and
   interventional response do there; it is not an instance of the claim's
   coarse-graining construction.
-- **THEORY-287** (interchange intervention predicts behaviour better than
-  probes) and **THEORY-104** (the best linear-readout layer lies below the
+- **[THEORY-287](../theory.d/THEORY-287.md)** (interchange intervention predicts behaviour better than
+  probes) and **[THEORY-104](../theory.d/THEORY-104.md)** (the best linear-readout layer lies below the
   top) are held readings of the same "intervene, don't just probe" and
   layer-wise kind.
 
 ## Connections
 
-It uses INLP (LIT-tmp3i6ea) as its removal operator. Kumar, Tan & Sharma
-(2022), LIT-tmpzdaep, NOTE-tmpqbu99, argue that amnesic probing is flawed
+It uses INLP ([LIT-tmp3i6ea](../literature.d/LIT-tmp3i6ea.md)) as its removal operator. Kumar, Tan & Sharma
+(2022), [LIT-tmpzdaep](../literature.d/LIT-tmpzdaep.md), [NOTE-tmpqbu99](NOTE-tmpqbu99.md), argue that amnesic probing is flawed
 because it depends on a good concept classifier; §9 here concedes a milder
 form of the same point.
 

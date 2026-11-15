@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpsyjfz) from the arXiv preprint, v1 (§§1–8,
+  read 2026-11-15 ([NOTE-tmpsyjfz](../notes.d/NOTE-tmpsyjfz.md)) from the arXiv preprint, v1 (§§1–8,
   the references and Appendix A; Appendices B–L skipped), with v3
   skimmed (abstract, introduction, Figure 1, §4.2 and §6). v3, updated
   2026-09-01, is retitled "Reading the Gate, Not the Interference:
@@ -15,7 +15,7 @@ status_note: >-
   downstream when erased early, and causally effective on output
   non-additivity by its direction, not its norm. It also replicates
   cross-task linearity in LoRA-merged LMs (cosines 0.93–0.98), which bears
-  on QUESTION-318. Single-author preprint, not peer-reviewed.
+  on [QUESTION-318](../questions.d/QUESTION-318.md). Single-author preprint, not peer-reviewed.
 title: 'Orientation, not magnitude: the causal structure of task-vector interference in merged language models'
 version: 1
 history:
@@ -64,8 +64,8 @@ summary: >-
   wrong directions make it worse. An instruction template suppresses the
   expressed interaction of a two-vector merge while internal generation
   grows. v3, retitled, finds the cross-term a "bystander" where merging
-  actually collapses. Bears on THEORY-107, as a non-coordinate account
-  of interference, and on QUESTION-318, as partial evidence for
+  actually collapses. Bears on [THEORY-107](../theory.d/THEORY-107.md), as a non-coordinate account
+  of interference, and on [QUESTION-318](../questions.d/QUESTION-318.md), as partial evidence for
   layerwise linearity in language models.
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account of merge interference this reading bears on -->
@@ -79,7 +79,7 @@ Output-Side Interference Measurement Does Not Track Merge Collapse.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpsyjfz.*
+*From the reading, [NOTE-tmpsyjfz](../notes.d/NOTE-tmpsyjfz.md).*
 
 - **The quantity** (§3.2, Eq. 1): Iℓ = h^AB_ℓ − h^A0_ℓ − h^0B_ℓ + h^00_ℓ
   "is everything non-additive that has accumulated before block ℓ", read
@@ -121,10 +121,10 @@ holds for two-vector merges only; at six vectors the template amplifies
 the expressed interaction.
 
 Its measure of interference is the activation cross-term, not sign
-conflict in coordinates, so it does not test THEORY-107's account. Its
+conflict in coordinates, so it does not test [THEORY-107](../theory.d/THEORY-107.md)'s account. Its
 replication of cross-task linearity is the record's first evidence on
-QUESTION-318's layerwise half outside image classification, with the
-caveats in NOTE-tmpsyjfz. The source of that measurement, Zhou et al.
+[QUESTION-318](../questions.d/QUESTION-318.md)'s layerwise half outside image classification, with the
+caveats in [NOTE-tmpsyjfz](../notes.d/NOTE-tmpsyjfz.md). The source of that measurement, Zhou et al.
 (2024), arXiv 2402.03660, is not held. Nor is the author's companion
 paper, Zhu, Li & Cai (2026), arXiv 2608.09490, whose abstract only was
 read.

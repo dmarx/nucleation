@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpfe486) from the arXiv PDF, v1: the abstract,
+  read 2026-11-15 ([NOTE-tmpfe486](../notes.d/NOTE-tmpfe486.md)) from the arXiv PDF, v1: the abstract,
   §1, §2.1–2.2, §3.1–3.2, §4.2 and §7; §2.3–2.6, §4.1, §4.3, §5 and the
   appendices skimmed or skipped, and the figures not seen. Worth reading
   here as the token-level counterpart of Yue et al.'s sharpening reading
-  (LIT-tmpfmva5): RLVR changes few next-token distributions, mostly by
+  ([LIT-tmpfmva5](LIT-tmpfmva5.md)): RLVR changes few next-token distributions, mostly by
   reallocating mass among tokens the base model already ranks, and the
   accuracy gap between base and RL models sits at those few positions.
 title: 'Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs'
@@ -50,8 +50,8 @@ summary: >-
   tokens, lifts the base model to RL-level AIME accuracy, and sampling the
   base model's token there drops the RL model to base level. RLVR "rarely
   elevates tokens that were highly unlikely in the base model". Here as
-  the token-level support for Yue et al.'s sharpening (LIT-tmpfmva5),
-  bearing on QUESTION-392. Its account is THEORY-tmpr8g5y.
+  the token-level support for Yue et al.'s sharpening ([LIT-tmpfmva5](LIT-tmpfmva5.md)),
+  bearing on [QUESTION-392](../questions.d/QUESTION-392.md). Its account is [THEORY-tmpr8g5y](../theory.d/THEORY-tmpr8g5y.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpr8g5y — Proposed; new entries filed in the same contribution -->
 
@@ -64,7 +64,7 @@ Conference on Learning Representations* (ICLR 2026). arXiv:2603.22446.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpfe486.*
+*From the reading, [NOTE-tmpfe486](../notes.d/NOTE-tmpfe486.md).*
 
 - **Sparse shift** (§2.2): "Under DAPO, more than 83% of token positions
   exhibit near-zero divergence, while this proportion exceeds 98% under
@@ -91,4 +91,4 @@ full collapse on AIME at about 4–10% of tokens, though for DAPO that is
 some 280 tokens per response, not 40. The paper states neither the
 KL-regularized optimum nor 1 − (1 − p)^N. Its divergence-weighted
 advantage (§5, not read) is ML practice and belongs to the anthology
-(ADR-048); hence the flag.
+([ADR-048](../decisions.d/ADR-048.md)); hence the flag.

@@ -16,13 +16,13 @@ date: '2026-11-15'
 source:
 - LIT-tmp0aok6
 summary: >-
-  Muller, Reynaud, Chavane & Destexhe (2014), read in NOTE-tmpdav92. VSD
+  Muller, Reynaud, Chavane & Destexhe (2014), read in [NOTE-tmpdav92](../notes.d/NOTE-tmpdav92.md). VSD
   imaging in two awake macaques. Waves on 32 of 40 trials in the main
   session, at 0.25–1.35 m/s, with phase variability flat across distance as
   a fixed-delay horizontal-fibre network gives. Independent waves in V2 do
   not cross the areal border. The mechanism rests on a 1-D model, and the
   detection criterion builds in the speed window. Radial waves, not
-  spirals, so no bearing on THEORY-088. The wording is the reader's;
+  spirals, so no bearing on [THEORY-088](THEORY-088.md). The wording is the reader's;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-088 — Proposed; cited as a contrast the result does not bear on -->
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Muller, Reynaud, Chavane & Destexhe (2014), LIT-tmp0aok6; read in
-NOTE-tmpdav92.
+Muller, Reynaud, Chavane & Destexhe (2014), [LIT-tmp0aok6](../literature.d/LIT-tmp0aok6.md); read in
+[NOTE-tmpdav92](../notes.d/NOTE-tmpdav92.md).
 
 ## The result
 
@@ -53,7 +53,7 @@ distance.
 
 - That cortex in general computes with waves. The paper suggests only a
   "consistent spatiotemporal frame for further neuronal interactions".
-- Rotating waves or phase singularities (THEORY-088). None is reported.
+- Rotating waves or phase singularities ([THEORY-088](THEORY-088.md)). None is reported.
 - A mechanism beyond the 1-D model's exclusion of variable-speed accounts.
   The detection criterion itself requires a speed of 0.05–0.8 m/s.
 - Anything outside a 5–20 Hz band, the superficial layers, or two animals.

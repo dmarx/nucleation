@@ -73,11 +73,11 @@ network; trial-invariant dynamics.
 
 ## Bearing on the record
 
-- **THEORY-088**: none. The waves are radial, from a point source, at
+- **[THEORY-088](../theory.d/THEORY-088.md)**: none. The waves are radial, from a point source, at
   millimetre scale, with no rotation or phase singularity. Its colour
   "pinwheel" (Fig. 5a) marks wavevector directions around the source of an
   outward wave.
-- **LIT-647**: a partial neighbour of that review, for its awake-cortex
+- **[LIT-647](../literature.d/LIT-647.md)**: a partial neighbour of that review, for its awake-cortex
   claim only.
 - A's sentence holds for this setting. The latency–distance correlations
   are, by the authors' own word, "significant, but not overly strong".

@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-15 (NOTE-tmp3bv7o) from the arXiv PDF, v3, for A's one
+  skimmed 2026-11-15 ([NOTE-tmp3bv7o](../notes.d/NOTE-tmp3bv7o.md)) from the arXiv PDF, v3, for A's one
   use only: the abstract, the §3.1 action space, the §3.3 comparison with
   chain of thought (with Table 2) and the passage on outdated labels around
   Fig. 4. The decision-making half (ALFWorld, WebShop), the rest of §2–3
   and the appendices were not read. Worth reading here as a plain case of
-  improving the signal without touching the interpreter (CLAIM-118): a
+  improving the signal without touching the interpreter ([CLAIM-118](../claims.d/CLAIM-118.md)): a
   queried Wikipedia API supplies facts in context, with the weights
   unchanged.
 title: 'ReAct: Synergizing Reasoning and Acting in Language Models'
@@ -52,7 +52,7 @@ summary: >-
   chain-of-thought on HotpotQA and Fever and recovering facts newer than a
   dataset's labels; ReAct alone beat CoT on Fever and slightly lagged it on
   HotpotQA. Here for A's single use, a model querying a source that supplies
-  a fact it lacked, and for CLAIM-118. Skimmed; no THEORY filed.
+  a fact it lacked, and for [CLAIM-118](../claims.d/CLAIM-118.md). Skimmed; no THEORY filed.
 ---
 <!-- inactive-ok-file: NOTE-tmp3bv7o — Skimmed; the reading filed in the same contribution -->
 <!-- inactive-ok-file: THEORY-591 THEORY-1773 — Proposed; neighbouring readings on tools in cognition and on tool-using agents -->
@@ -66,7 +66,7 @@ arXiv:2210.03629.
 
 ## Key takeaways
 
-*From the skim, NOTE-tmp3bv7o; the knowledge-task half only.*
+*From the skim, [NOTE-tmp3bv7o](../notes.d/NOTE-tmp3bv7o.md); the knowledge-task half only.*
 
 - **Actions gather information** (abstract): "actions allow it to interface
   with and gather additional information from external sources such as
@@ -88,7 +88,7 @@ shows a fact absent from the model's training-time knowledge. The reader's
 caution: if A leans on ReAct for performance, ReAct alone is slightly worse
 than CoT on HotpotQA, and the paper's best results combine it with CoT-SC.
 
-Nearby held entries: THEORY-1773 (a tool-use agent benchmark) and
-THEORY-591 (Adams and Aizawa against counting tools as part of cognition).
+Nearby held entries: [THEORY-1773](../theory.d/THEORY-1773.md) (a tool-use agent benchmark) and
+[THEORY-591](../theory.d/THEORY-591.md) (Adams and Aizawa against counting tools as part of cognition).
 Its prompting method is ML practice and belongs to the anthology
-(ADR-048); hence the flag.
+([ADR-048](../decisions.d/ADR-048.md)); hence the flag.

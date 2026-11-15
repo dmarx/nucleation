@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpa1b4b) from the arXiv preprint, v1 (18 pp.):
+  read 2026-11-15 ([NOTE-tmpa1b4b](../notes.d/NOTE-tmpa1b4b.md)) from the arXiv preprint, v1 (18 pp.):
   the abstract, §1 with §1.1, §2.2 (Theorem 1), §§3.1–3.2 and §5; §2.1,
   Lemma 1 and §4 (PARS) skimmed; the appendices not read. Worth reading
   here as the cleanest separation of behaviour from internals in the
@@ -55,7 +55,7 @@ summary: >-
   while the representation carries arbitrarily much. Per-layer probe
   decoders, trained on 80% of the forget set, recover held-out forget
   content on TOFU, MUSE-News and WMDP-Bio after six standard methods. Bears
-  on TERM-064, and by analogy on CLAIM-407.
+  on [TERM-064](../terms.d/TERM-064.md), and by analogy on [CLAIM-407](../claims.d/CLAIM-407.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp81mlq — Proposed; the account filed from this reading -->
 
@@ -65,7 +65,7 @@ Reisizadeh, H., Ruan, J., Liu, S. & Hong, M. (2026). Do LLMs Really Forget? Hidd
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpa1b4b.*
+*From the reading, [NOTE-tmpa1b4b](../notes.d/NOTE-tmpa1b4b.md).*
 
 - **Theorem 1** (§2.2): because the two bounds are controlled
   independently, "one can simultaneously achieve I(S; Z | C) = 0 and
@@ -88,4 +88,4 @@ rechecked by the filer). The reader found that right, with a caveat A
 omits: the probe is trained on forget-set answers, which brings it close
 to a relearning attack confined to the head, and the paper does not
 separate recovery from relearning. Not to be confused with Wei et al.,
-arXiv:2506.05735. THEORY-tmp81mlq carries its central account.
+arXiv:2506.05735. [THEORY-tmp81mlq](../theory.d/THEORY-tmp81mlq.md) carries its central account.

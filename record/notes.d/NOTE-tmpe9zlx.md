@@ -25,7 +25,7 @@ summary: >-
   improves five other methods, by under a point on TSV-M. The analysis is
   exact for plain addition only, and the numbers are the authors' reruns.
 ---
-<!-- inactive-ok-file: THEORY-107 LIT-tmpbknaa — Proposed or a new tmp code; named as entries this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-107 — Proposed or a new tmp code; named as entries this reading bears on, not leaned on -->
 
 # NOTE-tmpe9zlx: Li et al. — Spectral over-accumulation in model merging
 
@@ -88,20 +88,20 @@ calibration.
 
 ## Bearing on the record
 
-- **THEORY-107 (TIES)**: direct, and partly adverse. Its promote_when says
+- **[THEORY-107](../theory.d/THEORY-107.md) (TIES)**: direct, and partly adverse. Its promote_when says
   the sign account is refuted "if a merge that only rescales and trims,
   with signs left to plain summation, matches the oracle-sign merge".
   SVC rescales only, with signs left to summation, and beats TIES in the
   same runs on CLIP ViT-B/32 (81.9 against 72.6). It is not compared with
-  an oracle-sign merge and is not in THEORY-107's (IA)³ and T5 setting for
+  an oracle-sign merge and is not in [THEORY-107](../theory.d/THEORY-107.md)'s (IA)³ and T5 setting for
   that comparison, so it is evidence on the magnitude side, not the test.
   On T0 with (IA)³, SVC lifts task arithmetic to 65.8 and leaves TIES at
   54.1. Those numbers come from a different pipeline from TIES's own
   paper and are not comparable with it.
-- **LIT-tmpbknaa (TSV)**: TSV's supplementary already notes "a double
+- **[LIT-tmpbknaa](../literature.d/LIT-tmpbknaa.md) (TSV)**: TSV's supplementary already notes "a double
   scaling effect when the vectors agree". SVC's small gain on top of TSV-M
   fits TSV-M having removed much of the overlap.
-- **THEORY-420**: inflation concentrates in the top singular directions,
+- **[THEORY-420](../theory.d/THEORY-420.md)**: inflation concentrates in the top singular directions,
   which that account finds carry the most of a trained matrix's function.
   The two concern different matrices (merged updates, trained weights).
 - **A's point** (reader's inference): two task matrices can be orthogonal

@@ -12,7 +12,7 @@ status_note: >-
   (nature.com/articles/natrevmats201648.pdf) redirected to a page offering
   only the abstract and subscription options. No arXiv version was found.
   The owner could fetch the DSpace PDF in a browser. A read neighbour,
-  Sadreev (2021), LIT-tmpvudg9, stands in for the definition and the
+  Sadreev (2021), [LIT-tmpvudg9](LIT-tmpvudg9.md), stands in for the definition and the
   coupling-zero mechanisms only. It stays Unfetched until a copy is
   supplied.
 title: 'Bound states in the continuum'
@@ -50,8 +50,8 @@ summary: >-
   momentum space and their robustness, is unverified until read. Filed for
   A's description of a BIC, an excitation kept localized because symmetry
   or destructive interference stops it coupling to outgoing channels. That
-  description bears on TERM-090 and TERM-118. Not read. Sadreev (2021),
-  LIT-tmpvudg9, carries the definition and the coupling-zero mechanisms.
+  description bears on [TERM-090](../terms.d/TERM-090.md) and [TERM-118](../terms.d/TERM-118.md). Not read. Sadreev (2021),
+  [LIT-tmpvudg9](LIT-tmpvudg9.md), carries the definition and the coupling-zero mechanisms.
 ---
 <!-- inactive-ok-file: TERM-118 — Proposed; a term the neighbour's reading bears on -->
 
@@ -79,7 +79,7 @@ under perturbation it becomes a leaking quasi-BIC.
 
 How far the neighbour stands in:
 
-- **Sadreev (2021)**, LIT-tmpvudg9, Skimmed: carries the definition, the
+- **Sadreev (2021)**, [LIT-tmpvudg9](LIT-tmpvudg9.md), Skimmed: carries the definition, the
   symmetry-protected and Friedrich–Wintgen mechanisms (worked in a
   two-level effective Hamiltonian), the Fabry–Pérot and accidental cases,
   and the collapse of the Fano resonance at the BIC point. It skips

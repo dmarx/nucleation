@@ -19,11 +19,11 @@ source:
 bears_on:
 - QUESTION-120
 summary: >-
-  Plate (1995), LIT-tmpq18t6, read in NOTE-tmp9vqu3 from an OCR scan whose
+  Plate (1995), [LIT-tmpq18t6](../literature.d/LIT-tmpq18t6.md), read in [NOTE-tmp9vqu3](../notes.d/NOTE-tmp9vqu3.md) from an OCR scan whose
   formulas are noisy. The linear capacity is a fit to an approximation,
   n ≈ 4.5(k + 0.7) ln(m/30q⁴) as transcribed, for independent random
-  vectors only. Bears on QUESTION-120 as a random-code threshold of a
-  further shape; its bearing on CLAIM-182, an address that is not a
+  vectors only. Bears on [QUESTION-120](../questions.d/QUESTION-120.md) as a random-code threshold of a
+  further shape; its bearing on [CLAIM-182](../claims.d/CLAIM-182.md), an address that is not a
   location, is analogy and is not filed as a relation. The wording is the
   reader's; adopting it is the owner's call.
 ---
@@ -31,7 +31,7 @@ summary: >-
 
 # THEORY-tmp713mr: Plate represents compositional structure in fixed-width distributed vectors by binding with circular convolution, superposing by addition and decoding with circular correlation, an approximate inverse of convolution whose output is a noisy version of the bound item that a separate item memory must clean up; for independent random vectors the number of pairs a trace can hold grows about linearly with the dimension
 
-Plate (1995), LIT-tmpq18t6; read in NOTE-tmp9vqu3.
+Plate (1995), [LIT-tmpq18t6](../literature.d/LIT-tmpq18t6.md); read in [NOTE-tmp9vqu3](../notes.d/NOTE-tmp9vqu3.md).
 
 ## The result
 
@@ -58,10 +58,10 @@ slowly than the dimension.
   memory, which must hold every item.
 - Optical holography: the "holographic" of the name is the
   convolution–correlation memory literature, not light.
-- That HRR models a record's addressability (CLAIM-182). It shows keyed
+- That HRR models a record's addressability ([CLAIM-182](../claims.d/CLAIM-182.md)). It shows keyed
   recovery from a superposed store, which is an analogy the record may
   draw, not evidence about records.
-- The same result as THEORY-1036, whose superposition is a learned
-  allocation in a toy model; or anything that contradicts THEORY-272.
+- The same result as [THEORY-1036](THEORY-1036.md), whose superposition is a learned
+  allocation in a toy model; or anything that contradicts [THEORY-272](THEORY-272.md).
 - An exact capacity bound: the formula is the reader's transcription of a
   fit through noisy OCR.

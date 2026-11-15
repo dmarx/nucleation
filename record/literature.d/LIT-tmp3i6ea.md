@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpvnck7) from the arXiv preprint, v2 (20 pp.):
+  read 2026-11-15 ([NOTE-tmpvnck7](../notes.d/NOTE-tmpvnck7.md)) from the arXiv preprint, v2 (20 pp.):
   abstract, §1, §§3–4, §6.1, §6.3, §7 and §8; §5, §6.2 and the appendices
   skimmed, the Appendix A guarantees not checked. Worth reading here as
   the plainest worked case of erasure relative to a class of readers:
@@ -49,8 +49,8 @@ summary: >-
   accuracy falls from 100% to 49.3% after 35 iterations, while a
   one-hidden-layer MLP still recovers gender at 85.0%; the authors state
   that the attribute is not protected against non-linear classifiers.
-  Bears on TERM-064 (legibility relative to an observer's rule class) and
-  on THEORY-281, whose perfect-erasure target INLP does not aim at.
+  Bears on [TERM-064](../terms.d/TERM-064.md) (legibility relative to an observer's rule class) and
+  on [THEORY-281](../theory.d/THEORY-281.md), whose perfect-erasure target INLP does not aim at.
 ---
 <!-- inactive-ok-file: THEORY-tmpysvtc — Proposed; the account filed from this reading -->
 
@@ -60,7 +60,7 @@ Ravfogel, S., Elazar, Y., Gonen, H., Twiton, M. & Goldberg, Y. (2020). Null It O
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpvnck7.*
+*From the reading, [NOTE-tmpvnck7](../notes.d/NOTE-tmpvnck7.md).*
 
 - **The method** (abstract): "repeated training of linear classifiers that
   predict a certain property we aim to remove, followed by projection of
@@ -80,6 +80,6 @@ claim to remove every nonlinear representation (A's words paraphrased
 here; the exchange was not rechecked by the filer). The reader found that
 characterization right, and the paper more explicit than A: it measures
 the nonlinear residue (85.0%) itself. It is the linear, iterative
-predecessor of LEACE (LIT-2551, THEORY-1827), and the method that amnesic
-probing (LIT-tmp52idf) uses and that Kumar, Tan & Sharma (LIT-tmpzdaep)
-criticize. THEORY-tmpysvtc carries its central account.
+predecessor of LEACE ([LIT-2551](LIT-2551.md), [THEORY-1827](../theory.d/THEORY-1827.md)), and the method that amnesic
+probing ([LIT-tmp52idf](LIT-tmp52idf.md)) uses and that Kumar, Tan & Sharma ([LIT-tmpzdaep](LIT-tmpzdaep.md))
+criticize. [THEORY-tmpysvtc](../theory.d/THEORY-tmpysvtc.md) carries its central account.

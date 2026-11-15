@@ -17,7 +17,7 @@ source:
 - LIT-tmpwfksd
 summary: >-
   Seguin, Jedynak, David, Mansour L, Sporns & Zalesky (2023), read as the
-  bioRxiv preprint in NOTE-tmpgs5vt. CCEPs from 29,055 stimulations in 550
+  bioRxiv preprint in [NOTE-tmpgs5vt](../notes.d/NOTE-tmpgs5vt.md). CCEPs from 29,055 stimulations in 550
   patients against communication measures on a normative connectome.
   Search information and communicability rank first among network
   measures, and they beat direct structural weights even for connected
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Seguin et al. (2023), LIT-tmpwfksd; read as the bioRxiv v1 preprint in
-NOTE-tmpgs5vt. The Neuron version was not read.
+Seguin et al. (2023), [LIT-tmpwfksd](../literature.d/LIT-tmpwfksd.md); read as the bioRxiv v1 preprint in
+[NOTE-tmpgs5vt](../notes.d/NOTE-tmpgs5vt.md). The Neuron version was not read.
 
 ## The result
 

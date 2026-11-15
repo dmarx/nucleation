@@ -30,7 +30,7 @@ summary: >-
   crosstalk, shown on synthetic retrieval, and a delta-rule write
   W ← W + β(v − v̄) ⊗ φ(k) with a learned rate β, which helps on
   WikiText-103 in an overcapacity regime. Defines the delta-rule layer
-  QUESTION-159 asks about.
+  [QUESTION-159](../questions.d/QUESTION-159.md) asks about.
 ---
 <!-- inactive-ok-file: THEORY-1030 — Proposed; the FFN-memory reading this one shares only an algebraic form with, cited as open -->
 
@@ -122,22 +122,22 @@ memory that can overwrite what a key already holds does better there.
 
 ## Connections
 
-- **LIT-tmpxroua** (Ramsauer et al.): cited in §1, the Transformer's
+- **[LIT-tmpxroua](../literature.d/LIT-tmpxroua.md)** (Ramsauer et al.): cited in §1, the Transformer's
   self-attention "was recently connected to the modern Hopfield network
   (Ramsauer et al., 2021)". Together they place linear and softmax
   attention on one scale of memory capacity.
-- **LIT-918** (Hopfield 1982): placed among the outer-product memories of
+- **[LIT-918](../literature.d/LIT-918.md)** (Hopfield 1982): placed among the outer-product memories of
   Hebb, Kohonen and Palm whose authors "described pre-wired rules to
   associate given patterns"; FWPs learn which patterns to write. The
   d_dot limit is the same kind of crosstalk limit as Hopfield's, derived
   for orthogonal-key reads, not for attractor recall.
-- **LIT-792, NOTE-621** (von Oswald et al.) and **LIT-801, NOTE-620** (TTT):
-  both use the identity this paper makes explicit; NOTE-621 says it rests
+- **[LIT-792](../literature.d/LIT-792.md), [NOTE-621](NOTE-621.md)** (von Oswald et al.) and **[LIT-801](../literature.d/LIT-801.md), [NOTE-620](NOTE-620.md)** (TTT):
+  both use the identity this paper makes explicit; [NOTE-621](NOTE-621.md) says it rests
   on this paper.
 
 ## Bearing on the record
 
-- **QUESTION-159**: the bearing that matters. The question asks whether an
+- **[QUESTION-159](../questions.d/QUESTION-159.md)**: the bearing that matters. The question asks whether an
   exact train-then-predict identity holds "for further sequence-layer
   classes such as delta-rule or mini-batch inner updates". This paper
   defines the delta-rule layer (Eqs. 20–25). It does not state such an
@@ -150,17 +150,17 @@ memory that can overwrite what a key already holds does better there.
   the learned rates β(i). That is a train-then-predict description by
   construction, sequential rather than one batch step, and the normalised
   version (Eqs. 27–28) is not covered by it. Whether that counts as the
-  "exact identity of this kind" QUESTION-159 asks for is the owner's call.
-- **THEORY-169**: the identity it holds for unnormalized linear attention
+  "exact identity of this kind" [QUESTION-159](../questions.d/QUESTION-159.md) asks for is the owner's call.
+- **[THEORY-169](../theory.d/THEORY-169.md)**: the identity it holds for unnormalized linear attention
   is the one this paper reviews, apart from the batch-gradient framing.
-- **THEORY-1030**: algebraic kinship, no evidence. Geva et al.'s memory is
+- **[THEORY-1030](../theory.d/THEORY-1030.md)**: algebraic kinship, no evidence. Geva et al.'s memory is
   held in trained weights; this one is written from the context's
   activations and discarded after the sequence. Both are sums of key–value
   outer products, and evidence about one says nothing of the other.
-- **THEORY-272**: context only, as under Connections.
-- **THEORY-021, THEORY-1036**: indirect at most. The overcapacity regime is
+- **[THEORY-272](../theory.d/THEORY-272.md)**: context only, as under Connections.
+- **[THEORY-021](../theory.d/THEORY-021.md), [THEORY-1036](../theory.d/THEORY-1036.md)**: indirect at most. The overcapacity regime is
   where crosstalk appears, but the paper does not speak of superposition.
-- **THEORY-1011, THEORY-1024, QUESTION-275, CLAIM-407**: no bearing.
+- **[THEORY-1011](../theory.d/THEORY-1011.md), [THEORY-1024](../theory.d/THEORY-1024.md), [QUESTION-275](../questions.d/QUESTION-275.md), [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing.
 
 ## Limitations
 
@@ -170,4 +170,4 @@ memory that can overwrite what a key already holds does better there.
   configuration chosen to be overcapacity.
 - The equivalence says what linear attention computes, not what trained
   models store.
-- The venue is from the PDF footer only (see LIT-tmpp9nhx).
+- The venue is from the PDF footer only (see [LIT-tmpp9nhx](../literature.d/LIT-tmpp9nhx.md)).

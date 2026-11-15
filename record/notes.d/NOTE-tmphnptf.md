@@ -87,17 +87,17 @@ model); task analogy; normalized accuracy; control task.
 
 ## Bearing on the record
 
-- **THEORY-107 (TIES)**: this is the "task arithmetic" baseline TIES
+- **[THEORY-107](../theory.d/THEORY-107.md) (TIES)**: this is the "task arithmetic" baseline TIES
   measures against. It adds no evidence on sign conflict. Its suggestion
   that orthogonality enables addition is the weaker view that a
   coordinate-interference account replaces.
-- **QUESTION-318 and CLAIM-498**: App. A is an output-level fact, that a
+- **[QUESTION-318](../questions.d/QUESTION-318.md) and [CLAIM-498](../claims.d/CLAIM-498.md)**: App. A is an output-level fact, that a
   two-model weight average tracks the logit ensemble. It says nothing of
-  layer features, so it does not answer QUESTION-318. It is consistent
-  with CLAIM-498 at the output only.
-- **THEORY-112**: the paper names Git Re-Basin as promising for relaxing
+  layer features, so it does not answer [QUESTION-318](../questions.d/QUESTION-318.md). It is consistent
+  with [CLAIM-498](../claims.d/CLAIM-498.md) at the output only.
+- **[THEORY-112](../theory.d/THEORY-112.md)**: the paper names Git Re-Basin as promising for relaxing
   the shared-start limit. It reports no result on it.
-- **THEORY-828 and THEORY-105**: every operation here is within the
+- **[THEORY-828](../theory.d/THEORY-828.md) and [THEORY-105](../theory.d/THEORY-105.md)**: every operation here is within the
   weight-space neighbourhood of one pretrained model, the setting those
   accounts describe.
 - **A's toy** (reader's check, not the paper's): with f_w(x) = (w·x)²,

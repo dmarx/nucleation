@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-15 (NOTE-tmpqaps1) from arXiv:2011.01221v1: §§1–3 and
+  skimmed 2026-11-15 ([NOTE-tmpqaps1](../notes.d/NOTE-tmpqaps1.md)) from arXiv:2011.01221v1: §§1–3 and
   §10 were read, and §§4–9 skipped. Filed as the read neighbour of Hsu et
-  al. (2016), LIT-tmp83mpa, Unfetched, for the definition of a bound state
+  al. (2016), [LIT-tmp83mpa](LIT-tmp83mpa.md), Unfetched, for the definition of a bound state
   in the continuum and the mechanisms that zero its coupling. Worth reading
   here because a BIC is an interior mode with zero coupling to the outside,
   which leaves no trace in the scattering matrix. That makes it a physical
-  case for TERM-090 and a test of TERM-118's masking.
+  case for [TERM-090](../terms.d/TERM-090.md) and a test of [TERM-118](../terms.d/TERM-118.md)'s masking.
 title: 'Interference traps waves in an open system: bound states in the continuum'
 version: 1
 history:
@@ -49,8 +49,8 @@ summary: >-
   Friedrich–Wintgen destructive interference of two resonances (one goes
   to zero width, the other becomes superradiant), Fabry–Pérot trapping and
   accidental deformation. At the BIC point the Fano resonance collapses.
-  The neighbour read for Hsu et al. (2016), LIT-tmp83mpa. It skips
-  photonic-crystal BICs. It bears on TERM-090 and TERM-118.
+  The neighbour read for Hsu et al. (2016), [LIT-tmp83mpa](LIT-tmp83mpa.md). It skips
+  photonic-crystal BICs. It bears on [TERM-090](../terms.d/TERM-090.md) and [TERM-118](../terms.d/TERM-118.md).
 ---
 <!-- inactive-ok-file: LIT-tmp83mpa TERM-118 NOTE-tmpqaps1 — Unfetched, Proposed or Skimmed; the unread original, a term the reading bears on, and the skimmed reading -->
 
@@ -60,7 +60,7 @@ Sadreev, A. F. (2021). Interference traps waves in an open system: bound states 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqaps1, Skimmed.*
+*From the reading, [NOTE-tmpqaps1](../notes.d/NOTE-tmpqaps1.md), Skimmed.*
 
 - **Definition** (§1): a BIC "lies inside the continuum and coexists with
   extended waves, but it remains perfectly confined without any radiation".
@@ -75,10 +75,10 @@ Sadreev, A. F. (2021). Interference traps waves in an open system: bound states 
 
 ## Standing in the record
 
-Filed as the read neighbour of Hsu et al. (2016), LIT-tmp83mpa, for the
+Filed as the read neighbour of Hsu et al. (2016), [LIT-tmp83mpa](LIT-tmp83mpa.md), for the
 definition and mechanisms only. A's description holds for two of its four
 mechanisms. Its bearing, from the reader's reading of the scattering
 formula rather than any sentence of the review: a mode with zero coupling
 W is invisible in the scattering matrix and cannot be excited from
 outside. So two interiors can present the same boundary relation
-(TERM-090). The state is inaccessible rather than masked (TERM-118).
+([TERM-090](../terms.d/TERM-090.md)). The state is inaccessible rather than masked ([TERM-118](../terms.d/TERM-118.md)).

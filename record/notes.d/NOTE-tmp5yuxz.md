@@ -88,7 +88,7 @@ diffusion.
 
 ## Connections
 
-- **Patsyk et al. (2020)**, LIT-tmpv09vj: the mechanism (caustics in weak
+- **Patsyk et al. (2020)**, [LIT-tmpv09vj](../literature.d/LIT-tmpv09vj.md): the mechanism (caustics in weak
   disorder with correlation length above the wavelength), the diagnostic
   (the scintillation index) and the isotropic scaling are the same, and
   this paper cites the earlier one for them. Its own additions are the
@@ -101,9 +101,9 @@ diffusion.
   optical potential", and that the paper relates the first-branch distance
   to "correlation lengths, disorder strength, and anisotropy", holds; Eqs.
   3–4 give the form. A misses that the scintillation index and the
-  isotropic part come from LIT-tmpv09vj. A's "Physical Review Letters,
+  isotropic part come from [LIT-tmpv09vj](../literature.d/LIT-tmpv09vj.md). A's "Physical Review Letters,
   September 2026" holds: PRL 137, 113802, online 9 September 2026.
-- **CLAIM-182, THEORY-272, THEORY-1036, TERM-064, THEORY-758**: no
+- **[CLAIM-182](../claims.d/CLAIM-182.md), [THEORY-272](../theory.d/THEORY-272.md), [THEORY-1036](../theory.d/THEORY-1036.md), [TERM-064](../terms.d/TERM-064.md), [THEORY-758](../theory.d/THEORY-758.md)**: no
   bearing. Wave transport, not memory or capacity.
 - **A's analogy.** What this paper could offer the wave-to-learning
   analogy is that a designed correlated potential steers a linear wave

@@ -74,27 +74,27 @@ minimal-variance eigenvectors of the feature covariance; plug-in merging.
 
 ## Bearing on the record
 
-- **THEORY-107 (interference in parameter coordinates)**: a rival location,
+- **[THEORY-107](../theory.d/THEORY-107.md) (interference in parameter coordinates)**: a rival location,
   not a test. OSRM puts interference in how one task's update acts on
   another's features, not in redundant coordinates or sign, and corrects
   it with a subspace chosen from data before training. On Llama3-8B it
   lifts task arithmetic a great deal and TIES not at all. The paper does
-  not compare sign with scale. THEORY-107's restriction to one pretrained
-  start fits, and this supplies a data-conditioned mechanism THEORY-107
+  not compare sign with scale. [THEORY-107](../theory.d/THEORY-107.md)'s restriction to one pretrained
+  start fits, and this supplies a data-conditioned mechanism [THEORY-107](../theory.d/THEORY-107.md)
   does not.
-- **QUESTION-318, CLAIM-498**: no layerwise feature linearity is measured.
-- **THEORY-112, CLAIM-407**: no bearing. Its "orthogonal" is the
+- **[QUESTION-318](../questions.d/QUESTION-318.md), [CLAIM-498](../claims.d/CLAIM-498.md)**: no layerwise feature linearity is measured.
+- **[THEORY-112](../theory.d/THEORY-112.md), [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing. Its "orthogonal" is the
   orthogonality of A's rows to other tasks' features, a third sense beside
-  THEORY-112's symmetry and OrthoMerge's rotations.
+  [THEORY-112](../theory.d/THEORY-112.md)'s symmetry and OrthoMerge's rotations.
 
 ## Connections
 
-- **Chaves et al. (2026), LIT-tmpml2pq**, which the exchange joins to this
+- **Chaves et al. (2026), [LIT-tmpml2pq](../literature.d/LIT-tmpml2pq.md)**, which the exchange joins to this
   paper, is data-free and about distribution shift; this paper is
   data-conditioned and in distribution.
-- **SSR-Merge (NOTE-tmpmpv2r)** controls the same term after fine-tuning,
+- **SSR-Merge ([NOTE-tmpmpv2r](NOTE-tmpmpv2r.md))** controls the same term after fine-tuning,
   by a least-squares router.
-- **Zhu (2026), NOTE-tmpsyjfz**, finds about 65–70% of the activation
+- **Zhu (2026), [NOTE-tmpsyjfz](NOTE-tmpsyjfz.md)**, finds about 65–70% of the activation
   cross-term's flux in LM merges is transport from earlier layers, which
   a layer-local account leaves out.
 

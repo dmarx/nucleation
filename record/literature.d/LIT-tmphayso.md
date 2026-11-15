@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpqb8qd) from the open-access full text at Europe
+  read 2026-11-15 ([NOTE-tmpqb8qd](../notes.d/NOTE-tmpqb8qd.md)) from the open-access full text at Europe
   PMC, PMC9032974: all of the Results and Discussion. The Methods and the
   Supplementary Materials were skipped. Worth reading here because its
   "neural waves" are standing, spatially damped impulse responses whose
@@ -50,7 +50,7 @@ summary: >-
   account is tested on two human observers and on reanalysed MT data from
   two macaques. A's line holds, with one nuance: these waves do not
   propagate. Linear superposition holds only at low contrast, and Di Volo
-  & Férézou (LIT-tmpzhtw7) measure sub-linear summation of colliding
+  & Férézou ([LIT-tmpzhtw7](LIT-tmpzhtw7.md)) measure sub-linear summation of colliding
   waves.
 ---
 
@@ -60,7 +60,7 @@ Gepshtein, S., Pawar, A. S., Kwon, S., Savel'ev, S. & Albright, T. D. (2022). Sp
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqb8qd.*
+*From the reading, [NOTE-tmpqb8qd](../notes.d/NOTE-tmpqb8qd.md).*
 
 - **A standing wave, not a travelling one.** The stationary response "is a
   distributed spatial pattern of activation ... it is a standing spatially
@@ -78,6 +78,6 @@ Gepshtein, S., Pawar, A. S., Kwon, S., Savel'ev, S. & Albright, T. D. (2022). Sp
 A's characterization holds: repeated excitatory–inhibitory motifs, and
 interference of distributed neural waves to explain context-dependent
 responses. A reader should keep it apart from propagating waves
-(LIT-tmp0aok6). The evidence is a 1-D model, two observers and one earlier
+([LIT-tmp0aok6](LIT-tmp0aok6.md)). The evidence is a 1-D model, two observers and one earlier
 MT data set. The closing suggestion of wave interference for AI is
 speculation with no result behind it. No held entry bears on it.

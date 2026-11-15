@@ -25,7 +25,7 @@ summary: >-
   points, to store exponentially many random patterns on a sphere and to
   retrieve a well-separated pattern in one step; one update through learned
   projections at β = 1/√d_k is softmax attention. The record's first
-  Hopfield derivation of attention, beside the SDM one (NOTE-242).
+  Hopfield derivation of attention, beside the SDM one ([NOTE-242](NOTE-242.md)).
 ---
 <!-- inactive-ok-file: THEORY-1030 — Proposed; the FFN-memory reading this one bears on by construction, cited as open -->
 
@@ -103,36 +103,36 @@ softmax weights say how many stored patterns the step lands near.
 
 ## Connections
 
-- **LIT-269, NOTE-242, THEORY-697** (attention as sparse distributed
+- **[LIT-269](../literature.d/LIT-269.md), [NOTE-242](NOTE-242.md), [THEORY-697](../theory.d/THEORY-697.md)** (attention as sparse distributed
   memory): a parallel derivation of attention from an associative memory.
-  NOTE-242 compares its trained-β pattern with this paper's BERT analysis
+  [NOTE-242](NOTE-242.md) compares its trained-β pattern with this paper's BERT analysis
   and says the record held no Ramsauer paper; this reading fills that gap.
-- **LIT-918, THEORY-272** (Hopfield 1982): the ancestor model, with the
+- **[LIT-918](../literature.d/LIT-918.md), [THEORY-272](../theory.d/THEORY-272.md)** (Hopfield 1982): the ancestor model, with the
   quadratic energy this paper replaces by an exponential one. It does not
   restate or test Hopfield's simulations.
-- **LIT-tmpp9nhx** (Schlag, Irie and Schmidhuber): cites this paper for the
+- **[LIT-tmpp9nhx](../literature.d/LIT-tmpp9nhx.md)** (Schlag, Irie and Schmidhuber): cites this paper for the
   Hopfield reading of attention and treats softmax attention as the
   infinite-capacity end of the memory scale linear attention sits on.
-- **LIT-tmpi44jr** (Ravfogel et al.): a memory of facts in trained
+- **[LIT-tmpi44jr](../literature.d/LIT-tmpi44jr.md)** (Ravfogel et al.): a memory of facts in trained
   weights or embeddings, where this one is a memory of the context.
 
 ## Bearing on the record
 
-- **QUESTION-201**: a lead, not an answer. The introduction cites a
+- **[QUESTION-201](../questions.d/QUESTION-201.md)**: a lead, not an answer. The introduction cites a
   large-N capacity of "about 0.138d" for Hebbian storage allowing small
   retrieval errors, and Cd/log(d) for error-free recall. Both are other
-  authors' results, unread here; they agree with THEORY-272's small-N
+  authors' results, unread here; they agree with [THEORY-272](../theory.d/THEORY-272.md)'s small-N
   0.15N and say where the large-N answer is to be read (Crisanti et al.
   1986; Hertz et al. 1991; McEliece et al. 1987).
-- **THEORY-272**: no change. Context only.
-- **THEORY-1030**: by construction only. The HopfieldLayer is a
+- **[THEORY-272](../theory.d/THEORY-272.md)**: no change. Context only.
+- **[THEORY-1030](../theory.d/THEORY-1030.md)**: by construction only. The HopfieldLayer is a
   softmax-normalized version of the memory form FF(x) = f(x·Kᵀ)·V that
-  THEORY-1030 reads into trained FFN units. That the form can serve as a
+  [THEORY-1030](../theory.d/THEORY-1030.md) reads into trained FFN units. That the form can serve as a
   memory is shown; that trained FFN units use it so is not touched.
-- **NOTE-242**: its sentence that the record holds no Ramsauer paper is now
+- **[NOTE-242](NOTE-242.md)**: its sentence that the record holds no Ramsauer paper is now
   out of date.
-- **THEORY-1011, THEORY-1024, THEORY-021, THEORY-1036, QUESTION-275,
-  CLAIM-407**: no bearing. Storage here is of separated patterns, not of
+- **[THEORY-1011](../theory.d/THEORY-1011.md), [THEORY-1024](../theory.d/THEORY-1024.md), [THEORY-021](../theory.d/THEORY-021.md), [THEORY-1036](../theory.d/THEORY-1036.md), [QUESTION-275](../questions.d/QUESTION-275.md),
+  [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing. Storage here is of separated patterns, not of
   features in superposition or of facts in weights.
 
 ## Limitations
@@ -144,4 +144,4 @@ softmax weights say how many stored patterns the step lands near.
   that trained transformers' keys act as stored attractors.
 - The BERT classification is descriptive, and its 0.90 softmax-mass
   threshold and class boundaries are the authors' choices.
-- The venue is unconfirmed (see LIT-tmpxroua).
+- The venue is unconfirmed (see [LIT-tmpxroua](../literature.d/LIT-tmpxroua.md)).

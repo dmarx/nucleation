@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpsiphf) from the arXiv preprint, v5 (19 pp.):
+  read 2026-11-15 ([NOTE-tmpsiphf](../notes.d/NOTE-tmpsiphf.md)) from the arXiv preprint, v5 (19 pp.):
   the abstract, §1, §2 (two conceptual models), the §3 method list, §3.3,
   §3.6, §5, §6, Appendix C.4 and the head of D; §§3.1–3.2 and 3.4–3.5
   skimmed, the tables through the prose. The project page,
@@ -56,7 +56,7 @@ summary: >-
   Concepts erased against text attacks often return under these, and the
   authors conclude that most methods avoid rather than destroy. Names the
   limit that a strong enough probe may induce what it seems to recover.
-  Bears on TERM-064.
+  Bears on [TERM-064](../terms.d/TERM-064.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpyppq1 — Proposed; the account filed from this reading -->
 
@@ -66,7 +66,7 @@ Lu, K., Kriplani, N., Gandikota, R., Pham, M., Bau, D., Hegde, C. & Cohen, N. (2
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpsiphf.*
+*From the reading, [NOTE-tmpsiphf](../notes.d/NOTE-tmpsiphf.md).*
 
 - **Robust to text, not to context** (§3.6): "Methods such as GA,
   TaskVectors, STEREO, and RECE, appear robust to text-based attacks ...
@@ -90,5 +90,5 @@ conditions, and that it recognizes the discovery-versus-induction problem
 (paraphrased; the exchange was not rechecked by the filer). The reader
 found the seven methods, 13 concepts, reappearance and the named limit
 in the paper; the generation count is the project page's ("over 100K
-generations"), not the paper's. THEORY-tmpyppq1 carries its central
+generations"), not the paper's. [THEORY-tmpyppq1](../theory.d/THEORY-tmpyppq1.md) carries its central
 account.

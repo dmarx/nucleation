@@ -72,7 +72,7 @@ communicability; CCEP; F-TRACT.
 
 No held entry. The measured pairwise responses include indirect paths.
 They are the macroscale empirical counterpart of Randi & Leifer's
-connected response functions (LIT-tmp0mf8t). A's counts are exact; the
+connected response functions ([LIT-tmp0mf8t](../literature.d/LIT-tmp0mf8t.md)). A's counts are exact; the
 venue is Neuron, not Nature Neuroscience.
 
 ## Limitations

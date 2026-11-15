@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-15 (NOTE-tmpo4g79) from the arXiv preprint, v4 (24 pp.,
+  skimmed 2026-11-15 ([NOTE-tmpo4g79](../notes.d/NOTE-tmpo4g79.md)) from the arXiv preprint, v4 (24 pp.,
   the ICML 2026 version): the abstract, §1 with the contributions list,
   the §2 terminology, §4.6 and §5 read; §3 and the §§4.1–4.4 results
   through the abstract and introduction; the appendices and per-table
@@ -54,7 +54,7 @@ summary: >-
   across the whole diffusion pipeline. Against six erasure methods,
   including three robust ones, on SD v1.4, SD v2.1 and FLUX, the deepest
   attack evades erasure in 71.6% of cases on average and up to 94.4%.
-  Bears on TERM-064, and is a contrast to THEORY-425.
+  Bears on [TERM-064](../terms.d/TERM-064.md), and is a contrast to [THEORY-425](../theory.d/THEORY-425.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpo4g79 THEORY-tmpz2eq3 — Skimmed and Proposed; the reading of this work and the account filed from it -->
 
@@ -64,7 +64,7 @@ Braun, T., Grebe, J. H., Mohr, P., Rohrbach, M. & Rohrbach, A. (2026). Erased bu
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpo4g79 (skimmed).*
+*From the reading, [NOTE-tmpo4g79](../notes.d/NOTE-tmpo4g79.md) (skimmed).*
 
 - **The attack** (abstract): "an adversary binds a backdoor trigger to a
   concept slated for removal, and this malicious link survives subsequent
@@ -87,4 +87,4 @@ erasure methods (paraphrased; the exchange was not rechecked by the
 filer). The reader found that right: "several" is six, three standard and
 three robust, on three architectures; the per-method values were not
 read. A's ICML 2026 is right. Not to be confused with Jiang et al.,
-arXiv:2510.00635. THEORY-tmpz2eq3 carries its central account.
+arXiv:2510.00635. [THEORY-tmpz2eq3](../theory.d/THEORY-tmpz2eq3.md) carries its central account.

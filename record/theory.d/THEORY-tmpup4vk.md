@@ -22,7 +22,7 @@ source:
 bears_on:
 - QUESTION-069
 summary: >-
-  Ilharco et al. (2023), LIT-tmpmqgjz, read in NOTE-tmphnptf. Negation of
+  Ilharco et al. (2023), [LIT-tmpmqgjz](../literature.d/LIT-tmpmqgjz.md), read in [NOTE-tmphnptf](../notes.d/NOTE-tmphnptf.md). Negation of
   a CLIP ViT-L/14 task vector cut target accuracy by 45.8 points with
   little change on ImageNet; adding eight image tasks' vectors reached
   91.2% normalized accuracy; GPT-2 toxicity and T5 GLUE follow. All within
@@ -31,14 +31,14 @@ summary: >-
   addition is its speculation. The wording is the reader's; adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpmqgjz NOTE-tmphnptf THEORY-107 THEORY-tmpkfmi5 THEORY-tmp6ikb6 THEORY-tmpqv3ve THEORY-tmp3lla6 THEORY-tmpjlixb — new tmp codes, or Proposed; this account's source and reading, and accounts that explain or qualify it, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-107 THEORY-tmpkfmi5 THEORY-tmp6ikb6 THEORY-tmpqv3ve THEORY-tmp3lla6 THEORY-tmpjlixb — new tmp codes, or Proposed; this account's source and reading, and accounts that explain or qualify it, named and not leaned on -->
 
 # THEORY-tmpup4vk: Ilharco et al.: for CLIP, GPT-2 and T5 models fine-tuned from one pretrained start, adding the weight differences that fine-tuning on different tasks produced, scaled by a coefficient tuned on validation data, gives one model close to the specialised models on all of the tasks, and subtracting a task's difference lowers accuracy on that task with little loss on a control task
 
 ## Source
 
 Ilharco, Ribeiro, Wortsman, Gururangan, Schmidt, Hajishirzi & Farhadi
-(2023), LIT-tmpmqgjz, read in NOTE-tmphnptf: §§1–7 and Appendix A.
+(2023), [LIT-tmpmqgjz](../literature.d/LIT-tmpmqgjz.md), read in [NOTE-tmphnptf](../notes.d/NOTE-tmphnptf.md): §§1–7 and Appendix A.
 
 ## The result
 
@@ -62,13 +62,13 @@ nothing guarantees that the sum of two updates does either task.
 
 - **Why it works.** The paper suggests near-orthogonal task vectors enable
   addition, as speculation. Orthogonal updates can still interact through
-  curvature (A's toy, checked in NOTE-tmphnptf). Later work offers
+  curvature (A's toy, checked in [NOTE-tmphnptf](../notes.d/NOTE-tmphnptf.md)). Later work offers
   mechanisms that do not rely on orthogonality: disentanglement in
-  function space (THEORY-tmpkfmi5), layer-level overlap of singular
-  vectors (THEORY-tmp6ikb6), over-counting of shared directions
-  (THEORY-tmpqv3ve), low-frequency amplitude mismatch (THEORY-tmp3lla6)
-  and, at the level of features, cross-task linearity (THEORY-tmpjlixb).
-  TIES's sign conflicts are THEORY-107.
+  function space ([THEORY-tmpkfmi5](THEORY-tmpkfmi5.md)), layer-level overlap of singular
+  vectors ([THEORY-tmp6ikb6](THEORY-tmp6ikb6.md)), over-counting of shared directions
+  ([THEORY-tmpqv3ve](THEORY-tmpqv3ve.md)), low-frequency amplitude mismatch ([THEORY-tmp3lla6](THEORY-tmp3lla6.md))
+  and, at the level of features, cross-task linearity ([THEORY-tmpjlixb](THEORY-tmpjlixb.md)).
+  TIES's sign conflicts are [THEORY-107](THEORY-107.md).
 - **That it works without tuning.** λ is chosen on validation data for
   each operation, so the headline numbers include a search.
 - **Anything across starts.** The authors operate "only on models

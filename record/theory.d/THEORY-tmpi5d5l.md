@@ -17,8 +17,8 @@ source:
 bears_on:
 - QUESTION-010
 summary: >-
-  Elazar, Ravfogel, Jacovi & Goldberg (2021), LIT-tmp52idf, read in
-  NOTE-tmpab3ti. The non-correlation rests on six properties (Spearman
+  Elazar, Ravfogel, Jacovi & Goldberg (2021), [LIT-tmp52idf](../literature.d/LIT-tmp52idf.md), read in
+  [NOTE-tmpab3ti](../notes.d/NOTE-tmpab3ti.md). The non-correlation rests on six properties (Spearman
   8.5, p = 0.871); the re-decodability is reported for coarse POS in the
   unmasked setting, with the masked setting reversing the layer trend. The
   wording is the reader's; adopting it is the owner's call.
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Elazar et al. (2021), LIT-tmp52idf; read in NOTE-tmpab3ti.
+Elazar et al. (2021), [LIT-tmp52idf](../literature.d/LIT-tmp52idf.md); read in [NOTE-tmpab3ti](../notes.d/NOTE-tmpab3ti.md).
 
 ## The result
 

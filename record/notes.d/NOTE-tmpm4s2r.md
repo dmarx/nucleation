@@ -74,11 +74,11 @@ model; model inversion; sub-linear summation; suppressive wave.
 
 - **Linear-interference readings**: qualifies them. Two colliding cortical
   waves sum to about 30% less than their sum. The linear interference of
-  Gepshtein et al. (LIT-tmphayso) holds for that model's stationary,
+  Gepshtein et al. ([LIT-tmphayso](../literature.d/LIT-tmphayso.md)) holds for that model's stationary,
   low-contrast regime, not for cortical wave interaction in general.
-- **THEORY-088**: no bearing. Fronts meet and sum sub-linearly, with no
+- **[THEORY-088](../theory.d/THEORY-088.md)**: no bearing. Fronts meet and sum sub-linearly, with no
   defects, phase singularities or annihilation.
-- **CLAIM-606**: an excitable, adaptation-terminated front sits at most on
+- **[CLAIM-606](../claims.d/CLAIM-606.md)**: an excitable, adaptation-terminated front sits at most on
   the supplied route. The paper does not withdraw supply, which is the
   test the claim asks for.
 

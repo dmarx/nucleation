@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpjupyx) from the arXiv preprint, v2: §§1–6,
+  read 2026-11-15 ([NOTE-tmpjupyx](../notes.d/NOTE-tmpjupyx.md)) from the arXiv preprint, v2: §§1–6,
   the statements of Theorems 3.3, 4.2, 4.3 and 5.1, Appendices A and C;
   proofs skipped and appendix figure values read through the authors'
-  text. Worth reading here as the measurement QUESTION-318 asked for: for
+  text. Worth reading here as the measurement [QUESTION-318](../questions.d/QUESTION-318.md) asked for: for
   models fine-tuned from one pretrained checkpoint, including CLIP ViTs
   and T5-base, the features at a weight interpolation are approximately
   equal (not only proportional) to the interpolation of the features,
@@ -53,13 +53,13 @@ summary: >-
   different tasks from one pretrained checkpoint are not linearly
   connected in loss, yet at every layer measured the features of a weight
   interpolation approximately equal the interpolation of their features:
-  cross-task linearity, stronger than the proportionality of LIT-674.
+  cross-task linearity, stronger than the proportionality of [LIT-674](LIT-674.md).
   Measured in MLPs, ResNet-18, CLIP ViT-B/32 and L/14 and T5-base, and on
   soups of 5 and 10 ViT-B/32 fine-tunes. It reads model averaging and
   task arithmetic as operations on features. The main bearing is on
-  QUESTION-318, CLAIM-498 and THEORY-111.
+  [QUESTION-318](../questions.d/QUESTION-318.md), [CLAIM-498](../claims.d/CLAIM-498.md) and [THEORY-111](../theory.d/THEORY-111.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpjupyx CLAIM-498 LIT-tmphs8vv — new tmp codes, or Proposed; this work's reading and neighbours, and the claim it bears on, not leaned on -->
+<!-- inactive-ok-file: CLAIM-498 — new tmp codes, or Proposed; this work's reading and neighbours, and the claim it bears on, not leaned on -->
 
 # LIT-tmptiitv: On the Emergence of Cross-Task Linearity in the Pretraining-Finetuning Paradigm
 
@@ -67,7 +67,7 @@ Zhou, Z., Chen, Z., Chen, Y., Zhang, B. & Yan, J. (2024). On the Emergence of Cr
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpjupyx.*
+*From the reading, [NOTE-tmpjupyx](../notes.d/NOTE-tmpjupyx.md).*
 
 - **LLFC without LMC** (§4.1): "Despite no connectivity in the loss
   landscape, we surprisingly find that the finetuned models are linearly
@@ -93,8 +93,8 @@ Zhou, Z., Chen, Z., Chen, Y., Zhang, B. & Yan, J. (2024). On the Emergence of Cr
 ## Standing in the record
 
 Filed with the merging batch from the same turn. It extends Zhou et al.'s
-layerwise linear feature connectivity (LIT-674, the source of
-THEORY-111) from pairs linearly connected in loss to pairs fine-tuned on
+layerwise linear feature connectivity ([LIT-674](LIT-674.md), the source of
+[THEORY-111](../theory.d/THEORY-111.md)) from pairs linearly connected in loss to pairs fine-tuned on
 different tasks from one start, and from proportionality to approximate
 equality. Zhanpeng Zhou is first author of both.
 
@@ -116,8 +116,8 @@ paper does not state the toy.
 
 It is the main finding of this batch for the record: it measures, for
 fine-tuning from a shared pretrained model and for soups, what
-QUESTION-318 asked, and it makes CLAIM-498's note that "No source measured
+[QUESTION-318](../questions.d/QUESTION-318.md) asked, and it makes [CLAIM-498](../claims.d/CLAIM-498.md)'s note that "No source measured
 or asserts it" false. It does not reach SWA or decoder-only language
 models. Its relation to the tangent-space account of task arithmetic
-(LIT-tmphs8vv) is compatible: approximate linearity of features along
+([LIT-tmphs8vv](LIT-tmphs8vv.md)) is compatible: approximate linearity of features along
 task-vector directions, not a first-order Taylor model (App. A).

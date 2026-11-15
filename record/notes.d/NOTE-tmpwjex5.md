@@ -75,18 +75,18 @@ soliton lattice.
 
 ## Bearing on the record
 
-- **QUESTION-378**: not evidence. Its readings (LIT-2078, NOTE-1601,
-  THEORY-1408; and the kirigami of LIT-2049) concern Kane–Lubensky
+- **[QUESTION-378](../questions.d/QUESTION-378.md)**: not evidence. Its readings ([LIT-2078](../literature.d/LIT-2078.md), [NOTE-1601](NOTE-1601.md),
+  [THEORY-1408](../theory.d/THEORY-1408.md); and the kirigami of [LIT-2049](../literature.d/LIT-2049.md)) concern Kane–Lubensky
   topological polarization, linear zero modes counted by a winding number.
   These walls are φ⁴ kinks between buckled phases. The Discussion's
   "topological mechanical polarizations" borrows the vocabulary with no
   such calculation.
-- **CLAIM-606**: a test of the topological route. Each wall is a kink, but
+- **[CLAIM-606](../claims.d/CLAIM-606.md)**: a test of the topological route. Each wall is a kink, but
   it persists only under the standing compression that makes the double
   well. With Q = 0, kink and antikink are not globally protected, and their
   positions are held by lattice pinning. Topological persistence here
   needs a standing constraint, which is not a supply.
-- **NOTE-1694** (Tong): the textbook φ⁴ kink, realized.
+- **[NOTE-1694](NOTE-1694.md)** (Tong): the textbook φ⁴ kink, realized.
 
 ## Limitations
 

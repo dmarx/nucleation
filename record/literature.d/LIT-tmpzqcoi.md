@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmp3p3i7) from the lab's page, all text including
+  read 2026-11-15 ([NOTE-tmp3p3i7](../notes.d/NOTE-tmp3p3i7.md)) from the lab's page, all text including
   ablations, footnotes and contributors; the figures were not seen as
   images, only their captions. An Alignment Note, described on the page as
   early-stage, work-in-progress research, not peer-reviewed. Worth reading
-  here beside Hubinger et al. (LIT-tmp23u9h): the trigger-conditioned
+  here beside Hubinger et al. ([LIT-tmp23u9h](LIT-tmp23u9h.md)): the trigger-conditioned
   disposition their safety training leaves in place is linearly salient in
   activations, so a disposition masked in behaviour can be detected by
   another route. The authors caution that the salience may be an artifact
@@ -47,12 +47,12 @@ summary: >-
   MacDiarmid et al. (2024), an Anthropic Alignment Note. A linear direction
   fitted from one generic yes/no contrast pair, using neither the trigger
   nor the dangerous behaviour, separates defection-inducing prompts in
-  Hubinger et al.'s sleeper agents (LIT-tmp23u9h) with AUROC above 99%;
+  Hubinger et al.'s sleeper agents ([LIT-tmp23u9h](LIT-tmp23u9h.md)) with AUROC above 99%;
   whether a prompt will induce defection is linearly salient across many
   middle residual-stream layers. The authors leave open whether that
   salience is an artifact of backdoor insertion, and do not test models
-  after adversarial training. Here for TERM-118's masking; its account is
-  THEORY-tmprjwtk.
+  after adversarial training. Here for [TERM-118](../terms.d/TERM-118.md)'s masking; its account is
+  [THEORY-tmprjwtk](../theory.d/THEORY-tmprjwtk.md).
 ---
 <!-- inactive-ok-file: THEORY-tmprjwtk — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 — Proposed; the term whose masking row this work bears on -->
@@ -66,7 +66,7 @@ Note, 23 April 2024.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp3p3i7.*
+*From the reading, [NOTE-tmp3p3i7](../notes.d/NOTE-tmp3p3i7.md).*
 
 - **The result** (summary): "linear detectors with AUROC scores above 99%
   can be created using generic contrast pairs that don't depend on any
@@ -91,9 +91,9 @@ PCA computed over coding questions only. A omits the authors' own caveat
 that the salience may be an artifact of insertion, which A should carry
 when it uses the result as evidence about representation.
 
-With Hubinger et al. it gives TERM-118 a published mask detected by
+With Hubinger et al. it gives [TERM-118](../terms.d/TERM-118.md) a published mask detected by
 another route: behaviour on the training distribution does not reveal the
 disposition, activations do. The post does not probe models after
 adversarial training, so masking rather than finking is shown for the models
 probed only. Its detection method is ML practice and belongs to the
-anthology (ADR-048); hence the flag.
+anthology ([ADR-048](../decisions.d/ADR-048.md)); hence the flag.

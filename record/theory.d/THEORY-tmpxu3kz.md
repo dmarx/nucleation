@@ -21,11 +21,11 @@ bears_on:
 - QUESTION-392
 - QUESTION-279
 summary: >-
-  Liu et al. (2025), LIT-tmp7463t, read in NOTE-tmppn4n4. The counterclaim
-  to Yue et al. (THEORY-tmp9rnyv), stated in the terms the paper's
+  Liu et al. (2025), [LIT-tmp7463t](../literature.d/LIT-tmp7463t.md), read in [NOTE-tmppn4n4](../notes.d/NOTE-tmppn4n4.md). The counterclaim
+  to Yue et al. ([THEORY-tmp9rnyv](THEORY-tmp9rnyv.md)), stated in the terms the paper's
   evidence supports: a distilled start model, k at most 128 and agreement
   on math. Not a rival of Yue's account, since both can be right on their
-  own conditions. It is the test case for CLAIM-576, whether training ever
+  own conditions. It is the test case for [CLAIM-576](../claims.d/CLAIM-576.md), whether training ever
   changes what is reachable rather than what is affordable, but does not
   settle it, since a target unreached at k = 128 may be reached at larger
   k; so no CLAIM is listed as corroborated. The wording is the reader's;
@@ -38,7 +38,7 @@ summary: >-
 
 ## The result
 
-Liu et al. (2025), LIT-tmp7463t; read in NOTE-tmppn4n4.
+Liu et al. (2025), [LIT-tmp7463t](../literature.d/LIT-tmp7463t.md); read in [NOTE-tmppn4n4](../notes.d/NOTE-tmppn4n4.md).
 
 Training runs past 2k steps on 136K problems in five domains, with
 DAPO's components, a high rollout temperature, a KL penalty (Eq. 4) and
@@ -56,7 +56,7 @@ could have shown narrowing everywhere, as Yue et al. found for short runs.
   distilled from a stronger reasoner.
 - That the start model cannot solve a task that went from zero to positive: pass@k was read
   to k = 128, not Yue et al.'s 1024, and failure at finite k is not
-  unsolvability (QUESTION-279).
+  unsolvability ([QUESTION-279](../questions.d/QUESTION-279.md)).
 - That the expansion is general: it is largest where the start model is
   weak, absent on math, and shown on one 1.5B model.
 - An exponential tilt of a fixed reference: with resets there is no fixed

@@ -79,23 +79,23 @@ while leaving it for the rest.
 
 ## Bearing on the record
 
-- **TERM-064**: each probe is an observer with different resources, and
+- **[TERM-064](../terms.d/TERM-064.md)**: each probe is an observer with different resources, and
   "erased" is illegibility to one of them. The discovery-versus-induction
   limit is the converse worry: a powerful enough observer can supply the
   distinction rather than recover it.
-- **THEORY-281**: a different setting, generative likelihood rather than
+- **[THEORY-281](../theory.d/THEORY-281.md)**: a different setting, generative likelihood rather than
   independence of a representation; the cost to related concepts of
   destruction echoes the cost of erasure there, by analogy only.
-- **CLAIM-407**: by analogy only. Guidance-based erasure is a behaviour
+- **[CLAIM-407](../claims.d/CLAIM-407.md)**: by analogy only. Guidance-based erasure is a behaviour
   under ordinary prompting that fails under an intervention on the
   generation process.
-- **QUESTION-010**: weak. Dynamic concept tracing follows what a run of
+- **[QUESTION-010](../questions.d/QUESTION-010.md)**: weak. Dynamic concept tracing follows what a run of
   increasing erasure strengths keeps, but not for two task families.
 
 ## Connections
 
 The discovery-versus-induction limit applies equally to Reisizadeh et
-al.'s forget-trained probes (LIT-tmpbynva).
+al.'s forget-trained probes ([LIT-tmpbynva](../literature.d/LIT-tmpbynva.md)).
 
 ## Limitations
 

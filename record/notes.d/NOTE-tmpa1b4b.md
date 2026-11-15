@@ -82,22 +82,22 @@ measure the decoder, not the knowledge.
 
 ## Bearing on the record
 
-- **CLAIM-407**: the clearest formal analogue in the batch, in shape only.
+- **[CLAIM-407](../claims.d/CLAIM-407.md)**: the clearest formal analogue in the batch, in shape only.
   A quantity at the output carries no information about S while the
   internal state does, and an intervention, a trained probe or
   relearning, exposes it. The claim concerns coarse-grainings and
   intervention kernels, not decoders, so this is not an instance.
-- **TERM-064**: legibility to the output channel near zero, legibility to
+- **[TERM-064](../terms.d/TERM-064.md)**: legibility to the output channel near zero, legibility to
   a trained readout at layer ℓ high: one distinction, present, illegible
   to one observer and legible to another.
-- **THEORY-846**: why a trained readout can extract what the output
+- **[THEORY-846](../theory.d/THEORY-846.md)**: why a trained readout can extract what the output
   cannot.
-- **QUESTION-010**: loosely. The across-layer leakage curves (Fig. 2) show
+- **[QUESTION-010](../questions.d/QUESTION-010.md)**: loosely. The across-layer leakage curves (Fig. 2) show
   information present mid-stack and suppressed at the end.
 
 ## Connections
 
-Lu et al. (2025), LIT-tmpokxet, NOTE-tmpsiphf, name a discovery-versus-induction
+Lu et al. (2025), [LIT-tmpokxet](../literature.d/LIT-tmpokxet.md), [NOTE-tmpsiphf](NOTE-tmpsiphf.md), name a discovery-versus-induction
 limit for strong probes; it applies here too, since the probe is trained
 on forget-set answers. Neither paper separates the two.
 

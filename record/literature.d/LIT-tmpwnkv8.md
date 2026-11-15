@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpf8m60) from the arXiv preprint, v2 (§§1–4.4
+  read 2026-11-15 ([NOTE-tmpf8m60](../notes.d/NOTE-tmpf8m60.md)) from the arXiv preprint, v2 (§§1–4.4
   and §§5.2–5.3, Tables 3, 5, 6 and 7; Appendix A and the remaining
   appendices skipped). Accepted at ACL 2025 per the arXiv comment; not
   checked in the ACL Anthology. Worth reading here as the account of LoRA
@@ -10,7 +10,7 @@ status_note: >-
   choosing each task's A before fine-tuning to avoid the other tasks'
   feature directions reduces it. Of the exchange's two sentences on this
   work and Chaves et al. together, the one on parameter subspaces and
-  data distributions is this paper's. Bears on THEORY-107.
+  data distributions is this paper's. Bears on [THEORY-107](../theory.d/THEORY-107.md).
 title: 'Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model Merging'
 version: 1
 history:
@@ -52,7 +52,7 @@ summary: >-
   eigen-directions of the other tasks' latent features, and plugs into
   task arithmetic, Fisher, RegMean, TIES and EMR. On Llama3-8B it lifts
   task arithmetic from 63.28 to 72.75 average but not TIES (53.01 to
-  52.69); gains shrink with model size. Bears on THEORY-107 as a
+  52.69); gains shrink with model size. Bears on [THEORY-107](../theory.d/THEORY-107.md) as a
   data-conditioned location for interference.
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account of merge interference this reading bears on -->
@@ -65,7 +65,7 @@ arXiv:2505.22934v2.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpf8m60.*
+*From the reading, [NOTE-tmpf8m60](../notes.d/NOTE-tmpf8m60.md).*
 
 - **The account** (abstract): "this issue arises from a previously
   overlooked interplay between model parameters and data distributions".
@@ -85,7 +85,7 @@ arXiv:2505.22934v2.
 ## Standing in the record
 
 A, in the exchange, cites this paper and Chaves et al. (2026),
-LIT-tmpml2pq, together for two characterizations: one "studies conflicts
+[LIT-tmpml2pq](LIT-tmpml2pq.md), together for two characterizations: one "studies conflicts
 between task subspaces under distribution shift", one "emphasizes the
 interaction between parameter subspaces and data distributions". The
 second fits this paper, close to its abstract. The first does not: the
@@ -94,7 +94,7 @@ data" means another task's inputs, not a shifted distribution. That
 sentence is Chaves et al.'s. A's "venue unknown" is corrected to ACL 2025,
 on the authors' word.
 
-Its account is first-order and layer-local. Zhu (2026), LIT-tmpdc2rl,
+Its account is first-order and layer-local. Zhu (2026), [LIT-tmpdc2rl](LIT-tmpdc2rl.md),
 finds most of the activation cross-term in language-model merges carried
 from earlier layers, which this account does not model; the two are
 compatible and address different stages.

@@ -17,13 +17,13 @@ date: '2026-11-15'
 source:
 - LIT-tmphayso
 summary: >-
-  Gepshtein, Pawar, Kwon, Savel'ev & Albright (2022), read in NOTE-tmpqb8qd.
+  Gepshtein, Pawar, Kwon, Savel'ev & Albright (2022), read in [NOTE-tmpqb8qd](../notes.d/NOTE-tmpqb8qd.md).
   A 1-D Wilson–Cowan chain whose point response is a standing, damped wave
   of intrinsic period. Linear interference sets tuning and lateral
   modulation and predicts a nonmonotonic TF–SF dependence that reanalysed
   MT data show. The waves do not propagate. Linearity holds at low
   contrast, and contrast dependence needs the nonlinear regime. Di Volo &
-  Férézou (LIT-tmpzhtw7) find colliding cortical waves sum sub-linearly.
+  Férézou ([LIT-tmpzhtw7](../literature.d/LIT-tmpzhtw7.md)) find colliding cortical waves sum sub-linearly.
   The wording is the reader's; adopting it is the owner's call.
 ---
 
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Gepshtein, Pawar, Kwon, Savel'ev & Albright (2022), LIT-tmphayso; read in
-NOTE-tmpqb8qd.
+Gepshtein, Pawar, Kwon, Savel'ev & Albright (2022), [LIT-tmphayso](../literature.d/LIT-tmphayso.md); read in
+[NOTE-tmpqb8qd](../notes.d/NOTE-tmpqb8qd.md).
 
 ## The result
 
@@ -55,7 +55,7 @@ SF with contrast.
   waves are a stated future direction.
 - That cortical waves interfere linearly in general. The contrast effect
   needs the nonlinear regime, and colliding evoked waves in mouse S1 sum
-  sub-linearly (LIT-tmpzhtw7).
+  sub-linearly ([LIT-tmpzhtw7](../literature.d/LIT-tmpzhtw7.md)).
 - A tested 2-D model ("whose predictions we have not tested"), or
   single-neuron quantitative fits.
 - Anything about artificial networks. The closing paragraph's suggestion

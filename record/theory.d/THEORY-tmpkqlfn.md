@@ -16,7 +16,7 @@ date: '2026-11-15'
 source:
 - LIT-tmpzqudr
 summary: >-
-  Zhang, Li, Zheng, Genin & Chen (2019), read in NOTE-tmpwjex5. Buckling
+  Zhang, Li, Zheng, Genin & Chen (2019), read in [NOTE-tmpwjex5](../notes.d/NOTE-tmpwjex5.md). Buckling
   makes each cell a double well. Strong shear coupling gives the λφ⁴
   equation, whose periodic kink–antikink solution matches experiment and
   FE simulation. Net charge Q = 0, and the walls are pinned by the lattice.
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Zhang, Li, Zheng, Genin & Chen (2019), LIT-tmpzqudr; read in
-NOTE-tmpwjex5.
+Zhang, Li, Zheng, Genin & Chen (2019), [LIT-tmpzqudr](../literature.d/LIT-tmpzqudr.md); read in
+[NOTE-tmpwjex5](../notes.d/NOTE-tmpwjex5.md).
 
 ## The result
 

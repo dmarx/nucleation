@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmp7az9p), with §3.3–3.4 skimmed, from
+  read 2026-11-15 ([NOTE-tmp7az9p](../notes.d/NOTE-tmp7az9p.md)), with §3.3–3.4 skimmed, from
   arXiv:1203.1513v2, from arxiv.org. The stability and energy theorems it
   states are proved in Mallat's "Group Invariant Scattering", its ref.
   [22], which was not read. Worth reading here as the source of scattering
-  networks, which NOTE-684 (on LIT-880) and NOTE-476 (on LIT-618) cite as
+  networks, which [NOTE-684](../notes.d/NOTE-684.md) (on [LIT-880](LIT-880.md)) and [NOTE-476](../notes.d/NOTE-476.md) (on [LIT-618](LIT-618.md)) cite as
   not held: a deep convolutional cascade of fixed wavelets, modulus and
   averaging, invariant to translation below a scale and stable to small
   deformations, and the record's contrast to linear multiscale
-  coarse-graining (THEORY-758).
+  coarse-graining ([THEORY-758](../theory.d/THEORY-758.md)).
 title: 'Invariant Scattering Convolution Networks'
 version: 1
 history:
@@ -49,7 +49,7 @@ summary: >-
   2^J and, by a theorem stated from Mallat's "Group Invariant Scattering",
   Lipschitz-stable to small deformations; its energy is almost all within
   three layers. With an SVM, 0.43% error on MNIST; with a PCA classifier,
-  0.2% on CUReT. Fills the gap NOTE-684 names, and bears on THEORY-758: a
+  0.2% on CUReT. Fills the gap [NOTE-684](../notes.d/NOTE-684.md) names, and bears on [THEORY-758](../theory.d/THEORY-758.md): a
   linear multiscale decomposition gives covariance, and invariance needs
   the modulus.
 ---
@@ -61,7 +61,7 @@ Bruna, J. & Mallat, S. (2013). Invariant Scattering Convolution Networks. *IEEE 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp7az9p; the account is THEORY-tmpw4lo5.*
+*From the reading, [NOTE-tmp7az9p](../notes.d/NOTE-tmp7az9p.md); the account is [THEORY-tmpw4lo5](../theory.d/THEORY-tmpw4lo5.md).*
 
 - **Architecture** (abstract): "It cascades wavelet transform convolutions
   with non-linear modulus and averaging operators"; the filters are fixed,
@@ -91,11 +91,11 @@ that the filters are designed: the claim that scattering "explain[s]
 important properties of deep convolution networks" is an argument from
 architecture, not an analysis of trained networks.
 
-NOTE-684, the reading of the Sparse Random Hierarchy Model (LIT-880), names
+[NOTE-684](../notes.d/NOTE-684.md), the reading of the Sparse Random Hierarchy Model ([LIT-880](LIT-880.md)), names
 Bruna and Mallat's scattering networks as the deformation side of that
-model and as not held; NOTE-476 (LIT-618) cites scattering-transform theory
-too. This filing holds it. Its sharpest bearing is on THEORY-758 (diffusion
-wavelets): both are multiscale wavelet constructions, but THEORY-758's
+model and as not held; [NOTE-476](../notes.d/NOTE-476.md) ([LIT-618](LIT-618.md)) cites scattering-transform theory
+too. This filing holds it. Its sharpest bearing is on [THEORY-758](../theory.d/THEORY-758.md) (diffusion
+wavelets): both are multiscale wavelet constructions, but [THEORY-758](../theory.d/THEORY-758.md)'s
 levels are exactly closed linear coarse-grainings, and this paper shows
 that a linear multiscale decomposition is only covariant; invariance needs
 the modulus, which moves energy toward lower frequencies.

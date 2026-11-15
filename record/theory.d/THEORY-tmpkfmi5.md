@@ -23,8 +23,8 @@ bears_on:
 - QUESTION-069
 - QUESTION-318
 summary: >-
-  Ortiz-Jimenez, Favero & Frossard (2023), LIT-tmphs8vv, read in
-  NOTE-tmpmq65g. Post-hoc linearised CLIP models lose single-task
+  Ortiz-Jimenez, Favero & Frossard (2023), [LIT-tmphs8vv](../literature.d/LIT-tmphs8vv.md), read in
+  [NOTE-tmpmq65g](../notes.d/NOTE-tmpmq65g.md). Post-hoc linearised CLIP models lose single-task
   accuracy, so ordinary fine-tuning is nonlinear; disentanglement error is
   small near the pretrained weights; linearised fine-tuning raises task
   addition by up to 5.8 points and negation forgetting by up to 13.1,
@@ -33,20 +33,20 @@ summary: >-
   property it explains. The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmphs8vv NOTE-tmpmq65g THEORY-tmpup4vk THEORY-107 THEORY-tmpjlixb — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpup4vk THEORY-107 THEORY-tmpjlixb — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
 # THEORY-tmpkfmi5: Ortiz-Jimenez, Favero and Frossard: task arithmetic in CLIP ViTs is not explained by fine-tuning in the linear regime, since they do not fine-tune in it, but by weight disentanglement, each task vector changing the output only on its own task's inputs; pretraining supplies it, and fine-tuning the model's linearisation strengthens it and improves task addition and negation
 
 ## Source
 
-Ortiz-Jimenez, Favero & Frossard (2023), LIT-tmphs8vv, read in
-NOTE-tmpmq65g: §§1–7.
+Ortiz-Jimenez, Favero & Frossard (2023), [LIT-tmphs8vv](../literature.d/LIT-tmphs8vv.md), read in
+[NOTE-tmpmq65g](../notes.d/NOTE-tmpmq65g.md): §§1–7.
 
 ## The result
 
 - **A negative result first** (§3): linearising a fine-tuned CLIP ViT
   after the fact costs single-task accuracy, so fine-tuning is not in the
-  NTK regime and the NTK cannot be why task arithmetic (THEORY-tmpup4vk)
+  NTK regime and the NTK cannot be why task arithmetic ([THEORY-tmpup4vk](THEORY-tmpup4vk.md))
   works.
 - **The condition** (§4): weight disentanglement, f(x; θ0 + Σ α_t τ_t) =
   Σ g_t(x; α_t τ_t) + g0(x), each g_t zero off task t's inputs. Its error
@@ -66,9 +66,9 @@ NOTE-tmpmq65g: §§1–7.
   localisation is a sufficient condition for kernels, shown by a
   local-energy plot on a few pairs.
 - **That the gain lasts at scale.** It shrinks as models grow.
-- **Anything about coordinates.** Sign conflicts (THEORY-107) are not
+- **Anything about coordinates.** Sign conflicts ([THEORY-107](THEORY-107.md)) are not
   tested, and no layer features are measured. Cross-task linearity
-  (THEORY-tmpjlixb) measures those, and its authors read weight
+  ([THEORY-tmpjlixb](THEORY-tmpjlixb.md)) measures those, and its authors read weight
   disentanglement as a consequence of it.
 - **Beyond disjoint supports.** Property 1 assumes the tasks' inputs do
   not overlap.

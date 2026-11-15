@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpmq65g) from the arXiv preprint, v3: §§1–7 in
+  read 2026-11-15 ([NOTE-tmpmq65g](../notes.d/NOTE-tmpmq65g.md)) from the arXiv preprint, v3: §§1–7 in
   full, Appendices A and B skimmed, proofs skipped. Worth reading here
   for its negative result, that CLIP ViTs do not fine-tune in the linear
   regime, so their task arithmetic is not explained by the NTK, and for
@@ -50,9 +50,9 @@ summary: >-
   with it task addition (up to 5.8 points) and negation (up to 13.1
   points less on the target). Disentanglement is absent from random
   initialisation, so pretraining supplies it. It bears on the merging
-  accounts (THEORY-107) and gives the tangent-space limit of QUESTION-318.
+  accounts ([THEORY-107](../theory.d/THEORY-107.md)) and gives the tangent-space limit of [QUESTION-318](../questions.d/QUESTION-318.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpmq65g THEORY-107 LIT-tmpmqgjz — new tmp codes, or Proposed; this work's reading and neighbours, not leaned on -->
+<!-- inactive-ok-file: THEORY-107 — new tmp codes, or Proposed; this work's reading and neighbours, not leaned on -->
 
 # LIT-tmphs8vv: Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models
 
@@ -60,7 +60,7 @@ Ortiz-Jimenez, G., Favero, A. & Frossard, P. (2023). Task Arithmetic in the Tang
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmq65g.*
+*From the reading, [NOTE-tmpmq65g](../notes.d/NOTE-tmpmq65g.md).*
 
 - **Not the linear regime** (§3): "CLIP models do not fine-tune in the
   linear regime". Post-hoc linearised models lose single-task accuracy.
@@ -79,7 +79,7 @@ Ortiz-Jimenez, G., Favero, A. & Frossard, P. (2023). Task Arithmetic in the Tang
 
 ## Standing in the record
 
-Filed with the merging batch from the same turn (with LIT-tmpmqgjz, whose
+Filed with the merging batch from the same turn (with [LIT-tmpmqgjz](LIT-tmpmqgjz.md), whose
 task arithmetic it explains).
 
 A's characterization: the paper "relates effective task arithmetic to

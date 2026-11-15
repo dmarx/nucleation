@@ -20,12 +20,12 @@ source:
 bears_on:
 - QUESTION-392
 summary: >-
-  Balasubramanian & Kasiviswanathan (2026), LIT-tmpdyhv5, read in
-  NOTE-tmpruuy9. The formal counterpart, under a fixed KL anchor, of the
-  reading of RL post-training as sharpening (THEORY-tmp9rnyv): the optimum
+  Balasubramanian & Kasiviswanathan (2026), [LIT-tmpdyhv5](../literature.d/LIT-tmpdyhv5.md), read in
+  [NOTE-tmpruuy9](../notes.d/NOTE-tmpruuy9.md). The formal counterpart, under a fixed KL anchor, of the
+  reading of RL post-training as sharpening ([THEORY-tmp9rnyv](THEORY-tmp9rnyv.md)): the optimum
   is a tilt of the reference, which keeps its components. Proved in an
   idealization; the tilt result assumes disjoint support and step rewards.
-  No CLAIM is listed as corroborated; its bearing on CLAIM-576 is proposed
+  No CLAIM is listed as corroborated; its bearing on [CLAIM-576](../claims.d/CLAIM-576.md) is proposed
   as a dated note. The wording is the reader's; adopting it is the owner's
   call.
 ---
@@ -36,8 +36,8 @@ summary: >-
 
 ## The result
 
-Balasubramanian & Kasiviswanathan (2026), LIT-tmpdyhv5; read in
-NOTE-tmpruuy9.
+Balasubramanian & Kasiviswanathan (2026), [LIT-tmpdyhv5](../literature.d/LIT-tmpdyhv5.md); read in
+[NOTE-tmpruuy9](../notes.d/NOTE-tmpruuy9.md).
 
 Population-level theorems in the two-mode model. Forward KL on new data
 alone "is strictly increasing in β ... so β⋆ = 0 is the unique population
@@ -57,6 +57,6 @@ fail is a step of a derivation, which this reading did not check.
   read.
 - That RL in practice cannot create modes. The tilt result needs a fixed
   reference; Yue et al. mostly train without KL, and ProRL
-  (THEORY-tmpxu3kz) resets the reference.
+  ([THEORY-tmpxu3kz](THEORY-tmpxu3kz.md)) resets the reference.
 - The result beyond two modes (App. D, not read) or beyond equal
   covariances.

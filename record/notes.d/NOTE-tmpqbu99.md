@@ -79,23 +79,23 @@ that removes what the probe uses removes those task features too.
 
 ## Bearing on the record
 
-- **THEORY-281** (the perfect-erasure cap): complementary. The cap says
+- **[THEORY-281](../theory.d/THEORY-281.md)** (the perfect-erasure cap): complementary. The cap says
   what perfect erasure must cost at least; this shows probe-guided methods
   losing far more than that, all task information on a clean classifier,
   while not reaching independence.
-- **TERM-064**: the probe is an observer of a restricted class, and its
+- **[TERM-064](../terms.d/TERM-064.md)**: the probe is an observer of a restricted class, and its
   errors, weight on correlates, shape what gets erased, not only which
   distinctions it can see.
-- **THEORY-292** (co-occurring attributes give aligned concept
+- **[THEORY-292](../theory.d/THEORY-292.md)** (co-occurring attributes give aligned concept
   directions): the entanglement this paper's mechanism needs.
-- **QUESTION-010**: a one-step case of the trade-off, removal aimed at one
+- **[QUESTION-010](../questions.d/QUESTION-010.md)**: a one-step case of the trade-off, removal aimed at one
   task (the concept) destroying another (the main task) because they
   share directions; not a chain.
 
 ## Connections
 
-Directly criticizes INLP (Ravfogel et al. 2020, LIT-tmp3i6ea) and amnesic
-probing (Elazar et al. 2021, LIT-tmp52idf). Elazar et al.'s §9 concedes a
+Directly criticizes INLP (Ravfogel et al. 2020, [LIT-tmp3i6ea](../literature.d/LIT-tmp3i6ea.md)) and amnesic
+probing (Elazar et al. 2021, [LIT-tmp52idf](../literature.d/LIT-tmp52idf.md)). Elazar et al.'s §9 concedes a
 milder form of the same point.
 
 ## Limitations

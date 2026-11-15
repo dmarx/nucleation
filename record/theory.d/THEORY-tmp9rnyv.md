@@ -22,14 +22,14 @@ corroborates:
 - CLAIM-567
 - CLAIM-663
 summary: >-
-  Yue et al. (2025), LIT-tmpfmva5, read in NOTE-tmp4mog9. One intervention
+  Yue et al. (2025), [LIT-tmpfmva5](../literature.d/LIT-tmpfmva5.md), read in [NOTE-tmp4mog9](../notes.d/NOTE-tmp4mog9.md). One intervention
   raises reliability and lowers reachability at a large sampling budget,
-  which corroborates CLAIM-567's distinction between them; the claim rests
+  which corroborates [CLAIM-567](../claims.d/CLAIM-567.md)'s distinction between them; the claim rests
   on its own demonstration, not on this. Not listed as corroborating
-  CLAIM-576: whether RL changes affordability or the repertoire is what the
-  dispute with ProRL (THEORY-tmpxu3kz) is about. The single-turn source of
-  the dispute the record holds in its agentic form (THEORY-1703,
-  THEORY-1672). The wording is the reader's; adopting it is the owner's
+  [CLAIM-576](../claims.d/CLAIM-576.md): whether RL changes affordability or the repertoire is what the
+  dispute with ProRL ([THEORY-tmpxu3kz](THEORY-tmpxu3kz.md)) is about. The single-turn source of
+  the dispute the record holds in its agentic form ([THEORY-1703](THEORY-1703.md),
+  [THEORY-1672](THEORY-1672.md)). The wording is the reader's; adopting it is the owner's
   call.
 ---
 <!-- inactive-ok-file: THEORY-tmpxu3kz THEORY-tmpmapw3 THEORY-tmpr8g5y THEORY-tmppt44k — Proposed; new entries filed in the same contribution -->
@@ -39,10 +39,10 @@ summary: >-
 
 ## The result
 
-Yue et al. (2025), LIT-tmpfmva5; read in NOTE-tmp4mog9.
+Yue et al. (2025), [LIT-tmpfmva5](../literature.d/LIT-tmpfmva5.md); read in [NOTE-tmp4mog9](../notes.d/NOTE-tmp4mog9.md).
 
 Base models and their zero-RL counterparts are scored by pass@k with
-Brown et al.'s metric (THEORY-tmpmapw3) up to k = 256 or 1024. "Base models
+Brown et al.'s metric ([THEORY-tmpmapw3](THEORY-tmpmapw3.md)) up to k = 256 or 1024. "Base models
 consistently catch up to and eventually surpass RL-trained models across
 all benchmarks" (§3); the boundary "often narrows as RLVR training
 progresses" (abstract). Perplexity places RL paths inside the base
@@ -55,13 +55,13 @@ the RL curve could have stayed above at every k, as distillation's did.
 ## What it does not show
 
 - That RL cannot expand the boundary. The runs are short and start from
-  pretrained bases; ProRL (THEORY-tmpxu3kz) reports expansion after long
+  pretrained bases; ProRL ([THEORY-tmpxu3kz](THEORY-tmpxu3kz.md)) reports expansion after long
   training from a distilled model on non-math tasks, and Zhu et al.
-  (THEORY-1672) above-boundary success for multi-turn agents at ample
+  ([THEORY-1672](THEORY-1672.md)) above-boundary success for multi-turn agents at ample
   budgets.
 - That the base model's boundary is its pass@k at k = 1024; larger k could
   move it.
 - The closed form π* ∝ π0 exp(r/β), which the paper does not state and
   mostly does not train under. Its formal counterpart under a KL anchor is
-  Balasubramanian and Kasiviswanathan's (THEORY-tmppt44k); its token-level
-  counterpart is Meng et al.'s (THEORY-tmpr8g5y).
+  Balasubramanian and Kasiviswanathan's ([THEORY-tmppt44k](THEORY-tmppt44k.md)); its token-level
+  counterpart is Meng et al.'s ([THEORY-tmpr8g5y](THEORY-tmpr8g5y.md)).

@@ -43,7 +43,7 @@ summary: >-
   the primitive operations or the system's boundary. The idea is the
   owner's; the wording is A's, and adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-576 TERM-118 CLAIM-tmp36o5i THEORY-tmpmapw3 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
+<!-- inactive-ok-file: CLAIM-576 TERM-118 THEORY-tmpmapw3 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
 
 # CLAIM-tmps7g72: A learned system's disposition to succeed at a task is resource-conditional, and coverage is not delivery
 
@@ -70,20 +70,20 @@ success probability is
   small. So generation, recognition and selection are separate capacities.
 
 The empirical anchor is Brown et al.'s repeated sampling
-(THEORY-tmpmapw3). There, coverage on SWE-bench Lite rose from 15.9% at one sample to
+([THEORY-tmpmapw3](../theory.d/THEORY-tmpmapw3.md)). There, coverage on SWE-bench Lite rose from 15.9% at one sample to
 56% at 250, judged by the benchmark's own unit tests. That figure is
 coverage, not what an unaided selector delivers.
 
 ## What it changes
 
-- **TERM-118.** The term asks for "a declared family of conditions". For a
+- **[TERM-118](../terms.d/TERM-118.md).** The term asks for "a declared family of conditions". For a
   learned system, that family is largely the affordable compositions of
   declared operations. A disposition can be practically absent at one
   budget and reliable at another, with nothing about the system changed.
-- **CLAIM-576.** A frozen model's repertoire is indexed by inference
+- **[CLAIM-576](CLAIM-576.md).** A frozen model's repertoire is indexed by inference
   resources as well as by architecture. A budget can make a process
   affordable without making a new one possible.
-- **CLAIM-567.** Coverage under a sampling budget is reachability.
+- **[CLAIM-567](CLAIM-567.md).** Coverage under a sampling budget is reachability.
   Delivery at a threshold is reliable attainment.
 
 ## What it does not say
@@ -98,4 +98,4 @@ coverage, not what an unaided selector delivers.
   to the composite.
 - **That any information supplied at test time is illegitimate.** Content
   derived during inference counts, and content retrieved from outside does
-  not count as retained. The provenance of each must be stated (CLAIM-118).
+  not count as retained. The provenance of each must be stated ([CLAIM-118](CLAIM-118.md)).

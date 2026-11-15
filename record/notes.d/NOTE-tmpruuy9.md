@@ -95,17 +95,17 @@ denominator replay; old-mode starvation; exponential tilt; mode-seeking.
 
 ## Bearing on the record
 
-- **Yue et al. (THEORY-tmp9rnyv)**: Lemma 3.2 is the formal counterpart of
+- **Yue et al. ([THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md))**: Lemma 3.2 is the formal counterpart of
   the sharpening reading. Under a fixed KL anchor the optimum is a tilt of
   the reference, which reweights and cannot add a mode the reference gives
   no mass. It holds in an idealization, and Yue et al. mostly train
-  without KL; ProRL (THEORY-tmpxu3kz) resets its reference, so no fixed
+  without KL; ProRL ([THEORY-tmpxu3kz](../theory.d/THEORY-tmpxu3kz.md)) resets its reference, so no fixed
   tilt applies there.
-- **QUESTION-392 and CLAIM-576**: a formal case of a process that can only
+- **[QUESTION-392](../questions.d/QUESTION-392.md) and [CLAIM-576](../claims.d/CLAIM-576.md)**: a formal case of a process that can only
   reweight existing possibilities, which is the claim's line between
   selecting within a repertoire and altering it. Proposed for a dated note
   rather than a relation, since it is an idealization.
-- **CLAIM-567**: weak. Mass collapse makes a feasible old mode unreachable
+- **[CLAIM-567](../claims.d/CLAIM-567.md)**: weak. Mass collapse makes a feasible old mode unreachable
   by sampling.
 - **On A's math**: the paper states A's π* ∝ π0 exp(r/β), with τ for the
   temperature and no prompt conditioning.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpy669h) from the arXiv preprint, v2 (§§1–6,
+  read 2026-11-15 ([NOTE-tmpy669h](../notes.d/NOTE-tmpy669h.md)) from the arXiv preprint, v2 (§§1–6,
   Tables 1–4, Figs. 2–4; appendices skipped), with v1 searched for
   "logarithm" and "exponential" (no match). Published at ICML 2026, PMLR
   306, per the v2 footer and the arXiv comment; the PMLR page was not
@@ -11,8 +11,8 @@ status_note: >-
   logarithm the exchange names, averaged there, and rescaled to restore
   the norm that conflicting directions cancel. Its ablation finds that
   rescaling is what matters (41.01 without it, 46.25 with it), which
-  bears on THEORY-107. Its "orthogonal" is the adaptation itself, not a
-  function-preserving symmetry as in THEORY-112.
+  bears on [THEORY-107](../theory.d/THEORY-107.md). Its "orthogonal" is the adaptation itself, not a
+  function-preserving symmetry as in [THEORY-112](../theory.d/THEORY-112.md).
 title: 'Orthogonal Model Merging'
 version: 1
 history:
@@ -60,8 +60,8 @@ summary: >-
   ordinary method. On five Llama-3.1-8B OFT experts the corrected merge
   scores 46.25 against 41.01 without the correction and 44.71 for the
   experts; gains on non-OFT models are small and mixed. Bears on
-  THEORY-107 (magnitude handling matters most) and is a sense of
-  "orthogonal" distinct from THEORY-112's.
+  [THEORY-107](../theory.d/THEORY-107.md) (magnitude handling matters most) and is a sense of
+  "orthogonal" distinct from [THEORY-112](../theory.d/THEORY-112.md)'s.
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account of merge interference this reading bears on -->
 
@@ -73,7 +73,7 @@ arXiv:2602.05943v2.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpy669h.*
+*From the reading, [NOTE-tmpy669h](../notes.d/NOTE-tmpy669h.md).*
 
 - **The diagnosis** (abstract): Euclidean addition of task vectors
   "destroys the intrinsic geometric properties of pretrained weights, such
@@ -103,9 +103,9 @@ also lands in so(d). A also leaves out the magnitude correction, which is
 the ingredient the ablation finds essential.
 
 Two of its results bear on held entries. The ablation is a second case,
-independent of TIES (LIT-675), in which handling the merged update's
+independent of TIES ([LIT-675](LIT-675.md)), in which handling the merged update's
 magnitude matters more than other merge choices, so it bears on
-THEORY-107's note that rescaling is TIES's largest step; it does not test
+[THEORY-107](../theory.d/THEORY-107.md)'s note that rescaling is TIES's largest step; it does not test
 sign. And its orthogonal transformations change the function, whereas
-THEORY-112's orthogonal map on the residual stream preserves it, so the
+[THEORY-112](../theory.d/THEORY-112.md)'s orthogonal map on the residual stream preserves it, so the
 two uses of "orthogonal" must not be read as one.

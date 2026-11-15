@@ -79,13 +79,13 @@ trained model would need designed contrasts in its place.
 ## What it shows
 
 Retrieval is relative to a query family. A distinction can be retained,
-unaddressed under one cue and addressed under another (CLAIM-182). And
+unaddressed under one cue and addressed under another ([CLAIM-182](../claims.d/CLAIM-182.md)). And
 agreement under every ordinary observation does not fix the mechanism
-behind it, which only an intervention reveals (CLAIM-407).
+behind it, which only an intervention reveals ([CLAIM-407](../claims.d/CLAIM-407.md)).
 
 ## What it cannot show
 
 That trained transformers store facts this way. Plate's holographic
-reduced representations (THEORY-tmp713mr) and the attention–memory
-equivalences (THEORY-tmp36vfv, THEORY-tmp7o7yb) make the construction a coherent model of keyed retrieval
+reduced representations ([THEORY-tmp713mr](../theory.d/THEORY-tmp713mr.md)) and the attention–memory
+equivalences ([THEORY-tmp36vfv](../theory.d/THEORY-tmp36vfv.md), [THEORY-tmp7o7yb](../theory.d/THEORY-tmp7o7yb.md)) make the construction a coherent model of keyed retrieval
 from superposed storage, not evidence that language models use it.

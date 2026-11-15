@@ -38,16 +38,16 @@ summary: >-
   prolonged RL that has diversity-preserving design, from a distilled
   start, at k up to about 128, and with narrowed boundaries on math. The
   claim keeps the disagreement as "per run". The record holds the agent-RL
-  version of the dispute (CLAIM-663, ARG-093). The idea is the owner's;
+  version of the dispute ([CLAIM-663](CLAIM-663.md), [ARG-093](../arguments.d/ARG-093.md)). The idea is the owner's;
   the wording is A's, and adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmps7g72 CLAIM-576 CLAIM-663 ARG-093 THEORY-tmp9rnyv THEORY-tmpr8g5y THEORY-tmppt44k THEORY-tmpxu3kz — Proposed or new; the claim this rests on and the held entries on the same dispute -->
+<!-- inactive-ok-file: CLAIM-tmps7g72 CLAIM-663 ARG-093 THEORY-tmp9rnyv THEORY-tmpr8g5y THEORY-tmppt44k THEORY-tmpxu3kz — Proposed or new; the claim this rests on and the held entries on the same dispute -->
 
 # CLAIM-tmp36o5i: Reinforcement learning on verifiable rewards can make an existing disposition cheaper to realize, and whether a run sharpened or expanded is settled per run
 
 ## The claim
 
-In CLAIM-tmps7g72's terms, RL post-training can shift a disposition's
+In [CLAIM-tmps7g72](CLAIM-tmps7g72.md)'s terms, RL post-training can shift a disposition's
 resource–reliability curve to the left without raising its plateau. Under
 the idealized KL-regularized objective, the optimum is an exponential
 reward tilt of the base, π*(y|x) ∝ π0(y|x)·e^{r(x,y)/β}. That is not
@@ -59,20 +59,20 @@ only if a verifier exists to recognize success in the base's samples.
 
 ## What the readings show
 
-- **Yue et al.** (THEORY-tmp9rnyv) find that RLVR raises small-k success while base models
+- **Yue et al.** ([THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md)) find that RLVR raises small-k success while base models
   match or overtake at large k, "consistently" in the paper's words. That is
   reallocation in their settings.
-- **Meng et al. (Sparse but Critical)** (THEORY-tmpr8g5y). Injecting RL-sampled tokens at
+- **Meng et al. (Sparse but Critical)** ([THEORY-tmpr8g5y](../theory.d/THEORY-tmpr8g5y.md)). Injecting RL-sampled tokens at
   the positions where the two distributions diverge most recovers much of
   the RL model's accuracy with few interventions: "fewer than 4% RL-sampled
   tokens per sequence on average" in one setting, under 8% in others. The
   change is local, at a few decision points.
-- **Balasubramanian and Kasiviswanathan** (THEORY-tmppt44k). In a setting they call
+- **Balasubramanian and Kasiviswanathan** ([THEORY-tmppt44k](../theory.d/THEORY-tmppt44k.md)). In a setting they call
   "intentionally minimal", a two-mode mixture, their Lemma 3.2 shows that
   the target of their objective with disjoint supports "only Weights
   Existing Mode Mass": it reweights modes and does not create them. Post-training's losses separate into mass lost on old modes
   and drift within them.
-- **ProRL, against** (THEORY-tmpxu3kz). Prolonged RL with diversity-preserving choices
+- **ProRL, against** ([THEORY-tmpxu3kz](../theory.d/THEORY-tmpxu3kz.md)). Prolonged RL with diversity-preserving choices
   improves high-budget coverage and finds strategies not seen from the
   base. The qualifiers: the start is already a distilled reasoner, "extensive
   sampling" is k up to about 128, and on math the paper too reports

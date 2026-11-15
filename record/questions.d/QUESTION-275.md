@@ -346,4 +346,4 @@ It separates five routes to the same gain in accuracy:
 - a pathway that becomes accessible to some inputs;
 - redundant pathways reorganizing.
 
-Only the third and fourth are missed by a feature-only model. That makes them this question's discriminating case. A's experiments are CASE-tmp71zhd (a Fourier circuit, where the modes are given) and CASE-tmp9201a. The question's own baselines, feature-only, circuit-only and state-space models fitted to early checkpoints, are the right comparators. Not run. No status change.
+Only the third and fourth are missed by a feature-only model. That makes them this question's discriminating case. A's experiments are [CASE-tmp71zhd](../cases.d/CASE-tmp71zhd.md) (a Fourier circuit, where the modes are given) and [CASE-tmp9201a](../cases.d/CASE-tmp9201a.md). The question's own baselines, feature-only, circuit-only and state-space models fitted to early checkpoints, are the right comparators. Not run. No status change.

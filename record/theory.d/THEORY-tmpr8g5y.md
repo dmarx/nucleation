@@ -18,11 +18,11 @@ source:
 bears_on:
 - QUESTION-392
 summary: >-
-  Meng et al. (2026), LIT-tmpnkxqn, read in NOTE-tmpfe486. The difference
+  Meng et al. (2026), [LIT-tmpnkxqn](../literature.d/LIT-tmpnkxqn.md), read in [NOTE-tmpfe486](../notes.d/NOTE-tmpfe486.md). The difference
   between base and RLVR models is sparse and sufficient: a few percent of
   decisions carry it. Token-level support for Yue et al.'s sharpening
-  (THEORY-tmp9rnyv). No CLAIM is listed as corroborated: its bearing on
-  CLAIM-576 is indirect, since it measures reallocation, not whether new
+  ([THEORY-tmp9rnyv](THEORY-tmp9rnyv.md)). No CLAIM is listed as corroborated: its bearing on
+  [CLAIM-576](../claims.d/CLAIM-576.md) is indirect, since it measures reallocation, not whether new
   paths are added. The wording is the reader's; adopting it is the owner's
   call.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 ## The result
 
-Meng et al. (2026), LIT-tmpnkxqn; read in NOTE-tmpfe486.
+Meng et al. (2026), [LIT-tmpnkxqn](../literature.d/LIT-tmpnkxqn.md); read in [NOTE-tmpfe486](../notes.d/NOTE-tmpfe486.md).
 
 Token-level JS divergence between base and RL next-token distributions,
 on the models' own AIME generations, is near zero at most positions

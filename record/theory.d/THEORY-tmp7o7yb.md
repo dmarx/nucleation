@@ -26,7 +26,7 @@ source:
 - LIT-tmpxroua
 summary: >-
   Ramsauer et al. (2020; venue reported as ICLR 2021, unconfirmed),
-  LIT-tmpxroua, read in NOTE-tmp2munq: a continuous modern Hopfield
+  [LIT-tmpxroua](../literature.d/LIT-tmpxroua.md), read in [NOTE-tmp2munq](../notes.d/NOTE-tmp2munq.md): a continuous modern Hopfield
   network whose one-step update is softmax attention, with proved
   convergence, exponential capacity for random patterns and one-step
   retrieval for separated ones. The theorems are carried as stated; the
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-Ramsauer et al. (2020), LIT-tmpxroua; read in NOTE-tmp2munq.
+Ramsauer et al. (2020), [LIT-tmpxroua](../literature.d/LIT-tmpxroua.md); read in [NOTE-tmp2munq](../notes.d/NOTE-tmp2munq.md).
 
 ## The result
 
@@ -70,7 +70,7 @@ are carried from the main text.
   more than a description under the authors' thresholds.
 - Anything about the feed-forward layers of trained models. Its
   HopfieldLayer is a softmax-normalized version of the memory form
-  THEORY-1030 reads into trained FFN units, and that is a construction,
+  [THEORY-1030](THEORY-1030.md) reads into trained FFN units, and that is a construction,
   not evidence for the reading.
 - Anything about the classical Hebbian network's capacity at large N
-  (QUESTION-201): the 0.138d it cites is other authors' result.
+  ([QUESTION-201](../questions.d/QUESTION-201.md)): the 0.138d it cites is other authors' result.

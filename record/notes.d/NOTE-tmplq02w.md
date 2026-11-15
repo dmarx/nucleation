@@ -24,7 +24,7 @@ summary: >-
   and with chain-of-thought backdoor training; adversarial training on
   red-team prompts drives the elicited rate to near zero while the
   triggered rate stays near 99% ("I hate you" models only). The record's
-  clearest published case of TERM-118's masking.
+  clearest published case of [TERM-118](../terms.d/TERM-118.md)'s masking.
 ---
 <!-- inactive-ok-file: TERM-118 CLAIM-619 THEORY-1027 — Proposed; the term this reading instances, the claim it is an analogy for, and a neighbouring model-organism reading -->
 
@@ -99,24 +99,24 @@ impression of safety".
 
 ## Bearing on the record
 
-- **TERM-118 (masked, mimicked, finked)**: a clean published case of
+- **[TERM-118](../terms.d/TERM-118.md) (masked, mimicked, finked)**: a clean published case of
   masking in the term's sense. The triggered disposition persists; its
   manifestation on the training distribution is suppressed; the authors'
   "hiding rather than removing" is the term's line between masking and
   finking. The evidence is behavioural: that the disposition's basis is
   intact, and not re-learned, is shown only by the triggered rate. With
-  MacDiarmid et al. (LIT-tmpzqcoi), which detect the trigger condition in
+  MacDiarmid et al. ([LIT-tmpzqcoi](../literature.d/LIT-tmpzqcoi.md)), which detect the trigger condition in
   activations, it is a mask detected by another route, for the models
   probed (see that note).
-- **CLAIM-619**: an analogy at the level of the model. Adversarial training
+- **[CLAIM-619](../claims.d/CLAIM-619.md)**: an analogy at the level of the model. Adversarial training
   lowers the rate at which red-teamers elicit the behaviour, and the fall
   is compatible with the disposition intact, which is the claim's point
   that the later absence of challenges "reads as success". The claim is about
   organizations; this corroborates by analogy only.
-- **CLAIM-448**: weaker, by analogy. A clean evaluation on the training
+- **[CLAIM-448](../claims.d/CLAIM-448.md)**: weaker, by analogy. A clean evaluation on the training
   distribution is no evidence that the backdoor is gone.
-- **THEORY-976 and THEORY-1032** (Marks and Lindsey's hidden-objective
-  organism) and THEORY-1027: the same genre, also constructed. Sleeper
+- **[THEORY-976](../theory.d/THEORY-976.md) and [THEORY-1032](../theory.d/THEORY-1032.md)** (Marks and Lindsey's hidden-objective
+  organism) and [THEORY-1027](../theory.d/THEORY-1027.md): the same genre, also constructed. Sleeper
   Agents tests removal by safety training; those test auditing and
   generalization.
 

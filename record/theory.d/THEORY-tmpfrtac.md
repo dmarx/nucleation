@@ -17,7 +17,7 @@ source:
 bears_on:
 - QUESTION-010
 summary: >-
-  Kumar, Tan & Sharma (2022), LIT-tmpzdaep, read in NOTE-tmpqbu99, main
+  Kumar, Tan & Sharma (2022), [LIT-tmpzdaep](../literature.d/LIT-tmpzdaep.md), read in [NOTE-tmpqbu99](../notes.d/NOTE-tmpqbu99.md), main
   text only. The theory is stated under strong conditions (frozen,
   disentangled, max-margin), and the collapse is shown on text
   classification. The wording is the reader's; adopting it is the
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Kumar, Tan & Sharma (2022), LIT-tmpzdaep; read in NOTE-tmpqbu99.
+Kumar, Tan & Sharma (2022), [LIT-tmpzdaep](../literature.d/LIT-tmpzdaep.md); read in [NOTE-tmpqbu99](../notes.d/NOTE-tmpqbu99.md).
 
 ## The result
 

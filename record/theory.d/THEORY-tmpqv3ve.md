@@ -20,23 +20,23 @@ date: '2026-11-15'
 source:
 - LIT-tmpzk5vb
 summary: >-
-  Li et al. (2026), LIT-tmpzk5vb, read in NOTE-tmpe9zlx. A projection
+  Li et al. (2026), [LIT-tmpzk5vb](../literature.d/LIT-tmpzk5vb.md), read in [NOTE-tmpe9zlx](../notes.d/NOTE-tmpe9zlx.md). A projection
   analysis under plain addition (Lemma 3.2, Theorem 3.3) shows positive
   cross-task overlap inflating merged singular values, with the largest
   overlaps in the top subspaces. Singular Value Calibration lifts task
   arithmetic from 68.9 to 81.9 on ViT-B/32 with 8 tasks, above TIES's 72.6
   in the same runs, and improves TIES, DARE and TSV-M, the last by under
-  a point. A rival diagnosis to sign conflict, THEORY-107. The wording is
+  a point. A rival diagnosis to sign conflict, [THEORY-107](THEORY-107.md). The wording is
   the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpzk5vb NOTE-tmpe9zlx THEORY-107 THEORY-tmp6ikb6 — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-107 THEORY-tmp6ikb6 — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
 # THEORY-tmpqv3ve: Li et al.: when the layer updates of tasks fine-tuned from one pretrained start share singular directions in the layer's output space, adding them counts the shared component more than once and inflates the merged update's leading singular values; rescaling those values by the measured overlap, leaving directions and signs unchanged, raised task arithmetic's accuracy by 7 to 19 points on CLIP ViT benchmarks and improved other merging methods on vision and language benchmarks
 
 ## Source
 
-Li, Peng, Zhang, Guo, Duan & Shi (2026), LIT-tmpzk5vb, read in
-NOTE-tmpe9zlx: §§1–6, Lemma 3.2 and Theorem 3.3 as stated.
+Li, Peng, Zhang, Guo, Duan & Shi (2026), [LIT-tmpzk5vb](../literature.d/LIT-tmpzk5vb.md), read in
+[NOTE-tmpe9zlx](../notes.d/NOTE-tmpe9zlx.md): §§1–6, Lemma 3.2 and Theorem 3.3 as stated.
 
 ## The result
 
@@ -64,10 +64,10 @@ NOTE-tmpe9zlx: §§1–6, Lemma 3.2 and Theorem 3.3 as stated.
   knowledge, and some subspaces are under-accumulated.
 - **Anything beyond plain addition, in theory.** Other methods are handled
   empirically, and each layer is treated as a linear operator.
-- **An oracle-sign comparison.** It beats TIES (THEORY-107) without sign
+- **An oracle-sign comparison.** It beats TIES ([THEORY-107](THEORY-107.md)) without sign
   election, but does not test the oracle signs TIES's own evidence rests
   on.
 - **Independent numbers.** Every baseline is the authors' rerun, and some
   14-task baselines sit below the pretrained model. Its gain on TSV-M
-  (THEORY-tmp6ikb6) is under a point, consistent with that method having
+  ([THEORY-tmp6ikb6](THEORY-tmp6ikb6.md)) is under a point, consistent with that method having
   already removed much of the overlap.

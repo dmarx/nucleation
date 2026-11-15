@@ -14,8 +14,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpmo0vh
 summary: >-
-  Braun, Grebe, Mohr, Rohrbach & Rohrbach (2026), LIT-tmpmo0vh, skimmed in
-  NOTE-tmpo4g79: the summary numbers are the paper's own, from its
+  Braun, Grebe, Mohr, Rohrbach & Rohrbach (2026), [LIT-tmpmo0vh](../literature.d/LIT-tmpmo0vh.md), skimmed in
+  [NOTE-tmpo4g79](../notes.d/NOTE-tmpo4g79.md): the summary numbers are the paper's own, from its
   abstract and introduction, and the per-method tables were not read. The
   wording is the reader's; adopting it is the owner's call.
 ---
@@ -25,7 +25,7 @@ summary: >-
 
 ## Source
 
-Braun et al. (2026), LIT-tmpmo0vh; skimmed in NOTE-tmpo4g79.
+Braun et al. (2026), [LIT-tmpmo0vh](../literature.d/LIT-tmpmo0vh.md); skimmed in [NOTE-tmpo4g79](../notes.d/NOTE-tmpo4g79.md).
 
 ## The result
 

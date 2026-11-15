@@ -16,7 +16,7 @@ date: '2026-11-15'
 source:
 - LIT-tmpzhtw7
 summary: >-
-  Di Volo & Férézou (2021), read in NOTE-tmpm4s2r. VSD imaging in six
+  Di Volo & Férézou (2021), read in [NOTE-tmpm4s2r](../notes.d/NOTE-tmpm4s2r.md). VSD imaging in six
   anaesthetised mice and a 2-D E/I mean-field model with excitatory
   coupling inferred per animal. The model predicted, and the data showed,
   sub-linear summation of waves from C4 and then C2 (10 ms apart): a
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Di Volo & Férézou (2021), LIT-tmpzhtw7; read in NOTE-tmpm4s2r.
+Di Volo & Férézou (2021), [LIT-tmpzhtw7](../literature.d/LIT-tmpzhtw7.md); read in [NOTE-tmpm4s2r](../notes.d/NOTE-tmpm4s2r.md).
 
 ## The result
 
@@ -53,5 +53,5 @@ could have been found; it was not.
   attribution, untested by manipulation.
 - Spirals, phase singularities or annihilation.
 - That no cortical regime superposes linearly. It bounds the generality
-  of linear-interference accounts such as LIT-tmphayso's; it does not
+  of linear-interference accounts such as [LIT-tmphayso](../literature.d/LIT-tmphayso.md)'s; it does not
   refute them in their own regime.

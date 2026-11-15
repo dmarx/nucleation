@@ -19,9 +19,9 @@ draws_on:
 summary: >-
   A's "Experiment I", from A14 of the continuation of the exchange
   "Explain String Theory" (2026-11-15), as the first test of the owner's
-  hypothesis that wave mathematics applies to learning (CLAIM-tmpumro8).
+  hypothesis that wave mathematics applies to learning ([CLAIM-tmpumro8](../claims.d/CLAIM-tmpumro8.md)).
   It uses the task where the record already holds a Fourier mechanism
-  (THEORY-022, from LIT-345), so the modes are justified by the task's
+  ([THEORY-022](../theory.d/THEORY-022.md), from [LIT-345](../literature.d/LIT-345.md)), so the modes are justified by the task's
   group, not chosen to fit. Not run. Proposed because the design is A's;
   adopting it is the owner's call.
 ---
@@ -34,14 +34,14 @@ summary: >-
 At each checkpoint τ and layer ℓ, measure
 M_{ℓ,τ}(x) = U_{ℓ+1}ᵀ DΦ_{ℓ,τ}(h_ℓ(x)) U_ℓ in the Fourier basis of ℤ/p,
 together with the empirical tangent kernel's eigenspaces and the moving-
-basis term Ω_τ = U_τᵀU̇_τ (QUESTION-217's note of 2026-11-15). The
+basis term Ω_τ = U_τᵀU̇_τ ([QUESTION-217](../questions.d/QUESTION-217.md)'s note of 2026-11-15). The
 selection rule χ_k χ_m = χ_{k+m} says which couplings the algorithm needs.
 The question is whether they rise before the network generalizes.
 
 ## The comparison that decides it
 
 Modal-coupling measures, taken at early checkpoints, are scored against
-the progress measures of LIT-345, against Fourier energy alone and against
+the progress measures of [LIT-345](../literature.d/LIT-345.md), against Fourier energy alone and against
 training loss as forecasts of when the circuit forms and of held-out
 Fourier ablations. If the established measures forecast as well, the
 coupling description adds nothing here.

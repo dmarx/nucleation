@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmppn4n4) from the arXiv PDF, v1: the abstract,
+  read 2026-11-15 ([NOTE-tmppn4n4](../notes.d/NOTE-tmppn4n4.md)) from the arXiv PDF, v1: the abstract,
   §1, §2.2–2.3, the §3 headline results, §4.1–4.3, the opening of §4.4,
   §6 and App. A; the appendix figures, per-task plots and training details
   skipped. Worth reading here as the counterclaim to Yue et al.
-  (LIT-tmpfmva5): long RL with diversity-preserving choices raises pass@k,
+  ([LIT-tmpfmva5](LIT-tmpfmva5.md)): long RL with diversity-preserving choices raises pass@k,
   including from zero on some tasks, which is the test of whether RL ever
   changes what is reachable and not only what is affordable. Its start
   model is already a distilled reasoning model, its k is mostly at most
@@ -51,10 +51,10 @@ summary: >-
   DeepSeek-R1-Distill-Qwen-1.5B's pass@k on many tasks, including some
   where the start model solved nothing; gains are largest where the start
   model's pass@128 was lowest and nil or negative on math. Contests Yue et
-  al. (LIT-tmpfmva5). Here for CLAIM-576 and QUESTION-392 as the test case
+  al. ([LIT-tmpfmva5](LIT-tmpfmva5.md)). Here for [CLAIM-576](../claims.d/CLAIM-576.md) and [QUESTION-392](../questions.d/QUESTION-392.md) as the test case
   of RL changing what is possible rather than what is affordable, and
-  beside the agentic dispute (LIT-2441, LIT-2414). Its account is
-  THEORY-tmpxu3kz.
+  beside the agentic dispute ([LIT-2441](LIT-2441.md), [LIT-2414](LIT-2414.md)). Its account is
+  [THEORY-tmpxu3kz](../theory.d/THEORY-tmpxu3kz.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpxu3kz — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this work is a test case for -->
@@ -67,7 +67,7 @@ Boundaries in Large Language Models. arXiv preprint arXiv:2505.24864.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmppn4n4.*
+*From the reading, [NOTE-tmppn4n4](../notes.d/NOTE-tmppn4n4.md).*
 
 - **The claim** (abstract): "prolonged RL (ProRL) training can uncover
   novel reasoning strategies that are inaccessible to base models, even
@@ -100,4 +100,4 @@ not A's 1 − (1 − p)^N.
 
 So it does not straightforwardly conflict with Yue et al.: different
 start, length, tasks and k, and agreement on math. Its training recipe is
-ML practice and belongs to the anthology (ADR-048); hence the flag.
+ML practice and belongs to the anthology ([ADR-048](../decisions.d/ADR-048.md)); hence the flag.

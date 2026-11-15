@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmp9vqu3), with Sections VI and VII skimmed, from
+  read 2026-11-15 ([NOTE-tmp9vqu3](../notes.d/NOTE-tmp9vqu3.md)), with Sections VI and VII skimmed, from
   the IEEE version as a scan with an OCR layer, posted by the Redwood
   Center for Theoretical Neuroscience (UC Berkeley),
   https://redwood.berkeley.edu/wp-content/uploads/2020/08/Plate-HRR-IEEE-TransNN.pdf
-  (ADR-074). Worth reading here as the source of holographic reduced
+  ([ADR-074](../decisions.d/ADR-074.md)). Worth reading here as the source of holographic reduced
   representations: binding by circular convolution, superposition by
   addition, decoding by circular correlation and a separate clean-up
   memory, with capacity about linear in dimension. It is the base of
-  Nickel, Rosasco & Poggio (2016), LIT-tmp7xp5z, and the record's first
+  Nickel, Rosasco & Poggio (2016), [LIT-tmp7xp5z](LIT-tmp7xp5z.md), and the record's first
   holding on convolution memory or vector binding.
 title: 'Holographic reduced representations'
 version: 1
@@ -55,7 +55,7 @@ summary: >-
   number of pairs a trace holds grows about linearly with the dimension.
   Filed from A's turn on holography and learning, whose description holds.
   Bears, as analogy, on addressability without spatial separation
-  (CLAIM-182), and as a capacity threshold for random codes on QUESTION-120.
+  ([CLAIM-182](../claims.d/CLAIM-182.md)), and as a capacity threshold for random codes on [QUESTION-120](../questions.d/QUESTION-120.md).
 ---
 <!-- inactive-ok-file: CLAIM-182 THEORY-tmp713mr — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
 
@@ -65,7 +65,7 @@ Plate, T. A. (1995). Holographic reduced representations. *IEEE Transactions on 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp9vqu3; the account is THEORY-tmp713mr.*
+*From the reading, [NOTE-tmp9vqu3](../notes.d/NOTE-tmp9vqu3.md); the account is [THEORY-tmp713mr](../theory.d/THEORY-tmp713mr.md).*
 
 - **Binding in one space** (§II–V): circular convolution of two vectors
   "can be regarded as a compression of the outer product of those two
@@ -92,12 +92,12 @@ HRR because "convolution and correlation based memories are closely related
 to holographic storage"; he does not use optical holography.
 
 The record held no entry on convolution memory or vector binding; its
-neighbours are the sparse distributed memory readings LIT-921 and LIT-1848,
-which Plate names as a clean-up candidate, and LIT-269. Tensor-product
-representations, which NOTE-245 says are not held, remain unheld. Its
-bearing on CLAIM-182 is interpretive: many items superposed in one trace,
+neighbours are the sparse distributed memory readings [LIT-921](LIT-921.md) and [LIT-1848](LIT-1848.md),
+which Plate names as a clean-up candidate, and [LIT-269](LIT-269.md). Tensor-product
+representations, which [NOTE-245](../notes.d/NOTE-245.md) says are not held, remain unheld. Its
+bearing on [CLAIM-182](../claims.d/CLAIM-182.md) is interpretive: many items superposed in one trace,
 each recoverable by a key, so addressability need not mean separate
 storage, though keyed readout is noisy and becomes exact only through a
 second, content-addressed memory. The same structure in optics is
-angle-multiplexed holographic storage (LIT-tmp3d5f9); that parallel is the
+angle-multiplexed holographic storage ([LIT-tmp3d5f9](LIT-tmp3d5f9.md)); that parallel is the
 record's to draw, not Plate's.

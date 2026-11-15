@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpgs5vt) as the bioRxiv v1 preprint, from the copy
+  read 2026-11-15 ([NOTE-tmpgs5vt](../notes.d/NOTE-tmpgs5vt.md)) as the bioRxiv v1 preprint, from the copy
   deposited on HAL (hal-04130922v1). The published Neuron version was not
   read: its PDF at http://www.cell.com/article/S0896627323000776/pdf
   returned a Cloudflare challenge (403) on 2026-11-15, and the request was
@@ -61,7 +61,7 @@ Seguin, C., Jedynak, M., David, O., Mansour L, S., Sporns, O. & Zalesky, A. (202
 
 ## Key takeaways
 
-*From the reading of the preprint, NOTE-tmpgs5vt.*
+*From the reading of the preprint, [NOTE-tmpgs5vt](../notes.d/NOTE-tmpgs5vt.md).*
 
 - **Data.** "550 participants, 29,055 stimulations and 2.77 million pairs
   of recording electrodes".
@@ -79,5 +79,5 @@ Seguin, C., Jedynak, M., David, O., Mansour L, S., Sporns, O. & Zalesky, A. (202
 A's counts are exact; A said nothing of the results. This is graph
 communication, not wave dynamics. Its measured pairwise responses, which
 include indirect paths, are the macroscale analogue of Randi & Leifer's
-connected response functions (LIT-tmp0mf8t). LIT-998 shares Sporns as an
+connected response functions ([LIT-tmp0mf8t](LIT-tmp0mf8t.md)). [LIT-998](LIT-998.md) shares Sporns as an
 author, not the result.

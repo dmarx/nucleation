@@ -23,7 +23,7 @@ summary: >-
   Theory" (2026-11-15), after the owner's observation that safety research
   "demonstrated the ability to hide, and later activate, latent malicious
   behavior on demand". It is a benign stand-in for sleeper agents (Hubinger
-  et al., THEORY-tmpr984u; probes, THEORY-tmprjwtk), so the conditional behavior can be studied
+  et al., [THEORY-tmpr984u](../theory.d/THEORY-tmpr984u.md); probes, [THEORY-tmprjwtk](../theory.d/THEORY-tmprjwtk.md)), so the conditional behavior can be studied
   without an unsafe one. Not run. Proposed because the design is A's;
   adopting it is the owner's call.
 ---
@@ -49,7 +49,7 @@ and after, measure four things separately:
 
 ## The outcomes it separates
 
-The cases are TERM-118's:
+The cases are [TERM-118](../terms.d/TERM-118.md)'s:
 
 - **Masking.** The distinction is still decodable and transmission
   persists in some contexts, while ordinary expression falls.
@@ -59,7 +59,7 @@ The cases are TERM-118's:
   elicitation all fail.
 
 Each is relative to the declared readers, contexts and budgets
-(CLAIM-tmps7g72).
+([CLAIM-tmps7g72](../claims.d/CLAIM-tmps7g72.md)).
 
 ## What it cannot show
 

@@ -23,7 +23,7 @@ date: '2026-11-15'
 source:
 - LIT-tmppnktu
 summary: >-
-  Zheng & Wang (2025), LIT-tmppnktu, read in NOTE-tmpkleq4. Amplitude
+  Zheng & Wang (2025), [LIT-tmppnktu](../literature.d/LIT-tmppnktu.md), read in [NOTE-tmpkleq4](../notes.d/NOTE-tmpkleq4.md). Amplitude
   variance across tasks is largest at low index-grid frequencies and
   correlates negatively with normalized merged accuracy; FR-Merging
   (high-pass then magnitude-weighted sum) reaches 78.1 on ViT-B/32 with 8
@@ -33,13 +33,13 @@ summary: >-
   paper does not test. The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmppnktu NOTE-tmpkleq4 THEORY-107 THEORY-tmp6ikb6 THEORY-tmpqv3ve — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-107 THEORY-tmp6ikb6 THEORY-tmpqv3ve — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
 # THEORY-tmp3lla6: Zheng and Wang: for models fine-tuned from one pretrained start, the 2D Fourier spectra, taken over the row and column order of each weight matrix, of different tasks' weight updates differ most in amplitude at low frequencies, that difference goes with lower merged accuracy, and removing the low frequencies from each update before adding them improves data-free merging over task arithmetic and TIES
 
 ## Source
 
-Zheng & Wang (2025), LIT-tmppnktu, read in NOTE-tmpkleq4: §§1–7,
+Zheng & Wang (2025), [LIT-tmppnktu](../literature.d/LIT-tmppnktu.md), read in [NOTE-tmpkleq4](../notes.d/NOTE-tmpkleq4.md): §§1–7,
 Appendix D.1–D.5.
 
 ## The result
@@ -64,12 +64,12 @@ Appendix D.1–D.5.
   start all models share the order, so the effect is well defined there,
   but it is not shown to mean anything beyond the layout. The
   promote_when's permutation test would settle it. The singular-value
-  accounts (THEORY-tmp6ikb6, THEORY-tmpqv3ve) do not have this problem.
+  accounts ([THEORY-tmp6ikb6](THEORY-tmp6ikb6.md), [THEORY-tmpqv3ve](THEORY-tmpqv3ve.md)) do not have this problem.
 - **That amplitude mismatch causes the loss.** The measure is defined by
   the authors and supported by a correlation; FR-Merging lowers it by
   filtering it.
 - **That filtering, not rescaling, makes the gain.** FR-Merging also
-  reweights the tasks by magnitude. Like TIES (THEORY-107), the method
+  reweights the tasks by magnitude. Like TIES ([THEORY-107](THEORY-107.md)), the method
   bundles steps the evidence does not separate.
 - **Anything for FREE-Merging's headline.** Its 89.7 needs routed experts
   stored per task, which is not a static merge and not Fourier.

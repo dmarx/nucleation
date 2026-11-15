@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-15 (NOTE-tmpgrvfy), the abstract, §1 and §2.1–2.3 (volume
+  skimmed 2026-11-15 ([NOTE-tmpgrvfy](../notes.d/NOTE-tmpgrvfy.md)), the abstract, §1 and §2.1–2.3 (volume
   holography, recording media and multiplexing in analog holography) only,
   from the Europe PMC REST API's full-text XML of this CC BY 4.0 article,
   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11501936/fullTextXML,
@@ -63,7 +63,7 @@ summary: >-
   beyond the selectivity range are reconstructed independently, sharing
   the material's dynamic range; angle multiplexing, with more than 1000
   holograms, is the most widespread storage method. Stand-in for A's
-  unidentified source. Bears, as analogy, on CLAIM-182: an address need not
+  unidentified source. Bears, as analogy, on [CLAIM-182](../claims.d/CLAIM-182.md): an address need not
   be a location.
 ---
 <!-- inactive-ok-file: CLAIM-182 NOTE-tmpgrvfy THEORY-tmpc3mjh — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
@@ -74,7 +74,7 @@ Márquez, A., Li, C., Beléndez, A., Maier, S. A. & Ren, H. (2023). Information 
 
 ## Key takeaways
 
-*From the skim, NOTE-tmpgrvfy; the account is THEORY-tmpc3mjh. The review's
+*From the skim, [NOTE-tmpgrvfy](../notes.d/NOTE-tmpgrvfy.md); the account is [THEORY-tmpc3mjh](../theory.d/THEORY-tmpc3mjh.md). The review's
 summaries of the primary literature, not primary results.*
 
 - **Bragg selectivity** (§2.1): "In the case of volume holograms, the
@@ -104,11 +104,11 @@ formula, so "quite sharp" is not quantified here. The primary sources for
 that are Kogelnik (1969) on coupled-wave theory and Mok (1993), the
 5000-hologram demonstration; neither was read.
 
-Its bearing on CLAIM-182 is the clearest physical analogy in the batch:
+Its bearing on [CLAIM-182](../claims.d/CLAIM-182.md) is the clearest physical analogy in the batch:
 pages superposed in one volume, nothing spatially separate, each recovered
 by a key external to its content, and separable only when the medium makes
 the keys selective. It shares that structure with Plate's holographic
-reduced representations (LIT-tmpq18t6), and differs in readout: within the
+reduced representations ([LIT-tmpq18t6](LIT-tmpq18t6.md)), and differs in readout: within the
 selectivity condition holographic readout is near-exact, where HRR's needs
 a content-addressed clean-up. The parallel is the record's to draw; the
 sources do not draw it.

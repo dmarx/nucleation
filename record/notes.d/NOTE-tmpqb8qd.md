@@ -74,7 +74,7 @@ SF/TF; spatial resonance; classical and non-classical receptive field.
 ## Bearing on the record
 
 No held entry. Within the batch: these are not the propagating waves of
-LIT-tmp0aok6. Di Volo & Férézou (LIT-tmpzhtw7) measure sub-linear
+[LIT-tmp0aok6](../literature.d/LIT-tmp0aok6.md). Di Volo & Férézou ([LIT-tmpzhtw7](../literature.d/LIT-tmpzhtw7.md)) measure sub-linear
 summation of colliding waves, so linear interference is this model's
 low-contrast regime, not a general law of cortical wave interaction. The
 closing suggestion for AI ("hybridizing principally different learning

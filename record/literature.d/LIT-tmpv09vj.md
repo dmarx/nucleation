@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpg83d3): the main text, the four figure
+  read 2026-11-15 ([NOTE-tmpg83d3](../notes.d/NOTE-tmpg83d3.md)): the main text, the four figure
   captions and the reference list, from the publisher's PDF posted on the
   Segev group's Technion faculty publications page,
   https://phsites.technion.ac.il/publications/msegev/Nature-583-60-2020.pdf
-  (ADR-074). The Methods (online only) and the Supplementary Information
+  ([ADR-074](../decisions.d/ADR-074.md)). The Methods (online only) and the Supplementary Information
   and Videos were not read. Worth reading here as the first observation of
   branched flow of light, and as the source of the diagnostic (the
   scintillation index) and the isotropic first-branch scaling that Chang
-  et al. (2026), LIT-tmpn3i8n, cite and generalize. It makes no claim
+  et al. (2026), [LIT-tmpn3i8n](LIT-tmpn3i8n.md), cite and generalize. It makes no claim
   about learning or computation.
 title: 'Observation of branched flow of light'
 version: 1
@@ -65,7 +65,7 @@ Patsyk, A., Sivan, U., Segev, M. & Bandres, M. A. (2020). Observation of branche
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpg83d3; the account is THEORY-tmp4wies.*
+*From the reading, [NOTE-tmpg83d3](../notes.d/NOTE-tmpg83d3.md); the account is [THEORY-tmp4wies](../theory.d/THEORY-tmp4wies.md).*
 
 - **The mechanism** (p. 60): "When waves propagate through a weak
   disordered potential with correlation length larger than the wavelength,
@@ -88,7 +88,7 @@ the phenomenon holds, almost verbatim from the abstract, but omits its
 defining condition (correlation length longer than the wavelength). A
 credits the scintillation index and the first-branch scaling to "the 2026
 paper"; both are already here, in the isotropic form, and Chang et al.
-(2026), LIT-tmpn3i8n, cite this paper for them. Its own author list is four
+(2026), [LIT-tmpn3i8n](LIT-tmpn3i8n.md), cite this paper for them. Its own author list is four
 names, not four and "et al.".
 
 The paper is wave transport in a linear medium. It says nothing of memory,

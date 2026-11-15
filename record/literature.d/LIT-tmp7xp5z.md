@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-15 (NOTE-tmpmehz3) from arXiv:1510.04935v2, from
+  read in full 2026-11-15 ([NOTE-tmpmehz3](../notes.d/NOTE-tmpmehz3.md)) from arXiv:1510.04935v2, from
   arxiv.org; the supplementary material, with the further benchmarks, is
   not part of the arXiv PDF and was not read. Worth reading here as the
   learned descendant of Plate's holographic reduced representations,
-  LIT-tmpq18t6: a knowledge-graph embedding that scores a triple through
+  [LIT-tmpq18t6](LIT-tmpq18t6.md): a knowledge-graph embedding that scores a triple through
   circular correlation, a compressed tensor product, and that its authors
   set apart from associative memory because it learns its embeddings and
   so generalizes.
@@ -48,7 +48,7 @@ summary: >-
   memory and O(d log d) time and, being non-commutative, models asymmetric
   relations. With all models reimplemented under one loss and optimizer it
   gives the best filtered MRR on WN18 and FB15k. Built explicitly on
-  Plate's HRR, LIT-tmpq18t6. A called it "competitive"; the paper claims to
+  Plate's HRR, [LIT-tmpq18t6](LIT-tmpq18t6.md). A called it "competitive"; the paper claims to
   outperform, which holds on MRR and is mixed on FB15k Hits@10.
 ---
 <!-- inactive-ok-file: CLAIM-182 THEORY-tmpcw54z — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
@@ -59,7 +59,7 @@ Nickel, M., Rosasco, L. & Poggio, T. (2016). Holographic Embeddings of Knowledge
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmehz3; the account is THEORY-tmpcw54z.*
+*From the reading, [NOTE-tmpmehz3](../notes.d/NOTE-tmpmehz3.md); the account is [THEORY-tmpcw54z](../theory.d/THEORY-tmpcw54z.md).*
 
 - **The model** (Eq. 9): Pr(φp(s, o) = 1 | Θ) = σ(rpᵀ(es ⋆ eo)), with
   [a ⋆ b]_k = Σ_i a_i b_(k+i mod d).
@@ -84,10 +84,10 @@ combines subject and object, and the relation enters by a dot product; and
 the paper claims more than competitiveness. The baselines are the authors'
 reimplementations.
 
-Its neighbour in the record is Knowledge Sheaves, LIT-232, whose
-coboundary account (THEORY-299) covers the translational family (TransE,
+Its neighbour in the record is Knowledge Sheaves, [LIT-232](LIT-232.md), whose
+coboundary account ([THEORY-299](../theory.d/THEORY-299.md)) covers the translational family (TransE,
 TransR, RotatE); HolE is a bilinear, compressed-tensor model of a
-different family. Its bearing on CLAIM-182 is the one drawn under Plate,
-LIT-tmpq18t6: the relation vector acts as a key reading one relation from
+different family. Its bearing on [CLAIM-182](../claims.d/CLAIM-182.md) is the one drawn under Plate,
+[LIT-tmpq18t6](LIT-tmpq18t6.md): the relation vector acts as a key reading one relation from
 a compressed representation; HolE adds that the store is learned, not
 written.

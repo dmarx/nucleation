@@ -24,8 +24,8 @@ date: '2026-11-15'
 source:
 - LIT-tmp0q2ls
 summary: >-
-  Loshchilov, Hsieh, Sun & Ginsburg (ICLR 2025), LIT-tmp0q2ls, read in
-  NOTE-tmpi9jpg: a transformer kept on the unit hypersphere, each block
+  Loshchilov, Hsieh, Sun & Ginsburg (ICLR 2025), [LIT-tmp0q2ls](../literature.d/LIT-tmp0q2ls.md), read in
+  [NOTE-tmpi9jpg](../notes.d/NOTE-tmpi9jpg.md): a transformer kept on the unit hypersphere, each block
   moving the state a learned fraction toward its normalized output, trains
   to GPT's loss in 4–20 times fewer tokens at two scales on one corpus, at
   60–80% more time per step. The optimizer reading of the layers is an
@@ -37,8 +37,8 @@ summary: >-
 
 ## Source
 
-Loshchilov, Hsieh, Sun & Ginsburg (2024), LIT-tmp0q2ls; read in
-NOTE-tmpi9jpg.
+Loshchilov, Hsieh, Sun & Ginsburg (2024), [LIT-tmp0q2ls](../literature.d/LIT-tmp0q2ls.md); read in
+[NOTE-tmpi9jpg](../notes.d/NOTE-tmpi9jpg.md).
 
 ## The result
 

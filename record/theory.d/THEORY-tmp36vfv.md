@@ -29,12 +29,12 @@ source:
 bears_on:
 - QUESTION-159
 summary: >-
-  Schlag, Irie & Schmidhuber (2021), LIT-tmpp9nhx, read in NOTE-tmpss2fb:
+  Schlag, Irie & Schmidhuber (2021), [LIT-tmpp9nhx](../literature.d/LIT-tmpp9nhx.md), read in [NOTE-tmpss2fb](../notes.d/NOTE-tmpss2fb.md):
   linear attention is an outer-product fast weight programmer apart from
   normalisation (a review of Katharopoulos et al. and Ba et al.), so its
   memory holds at most about d_dot associations before crosstalk (shown on
   synthetic retrieval), and a delta-rule write with a learned rate does
-  better when keys are reassigned and in an overcapacity language model. It defines the delta-rule layer QUESTION-159 asks
+  better when keys are reassigned and in an overcapacity language model. It defines the delta-rule layer [QUESTION-159](../questions.d/QUESTION-159.md) asks
   about, without stating a train-then-predict identity for it. The wording
   is the reader's; adopting it is the owner's call.
 ---
@@ -44,7 +44,7 @@ summary: >-
 
 ## Source
 
-Schlag, Irie & Schmidhuber (2021), LIT-tmpp9nhx; read in NOTE-tmpss2fb.
+Schlag, Irie & Schmidhuber (2021), [LIT-tmpp9nhx](../literature.d/LIT-tmpp9nhx.md); read in [NOTE-tmpss2fb](../notes.d/NOTE-tmpss2fb.md).
 
 ## The result
 
@@ -72,7 +72,7 @@ Schlag, Irie & Schmidhuber (2021), LIT-tmpp9nhx; read in NOTE-tmpss2fb.
   limit is argued from orthogonality and shown on toy tasks.
 - What trained models store. Its memory is the context's, written in the
   forward pass and discarded after it; it says nothing of memories in
-  trained weights, such as THEORY-1030 reads into FFN units.
-- A train-then-predict identity for the delta-rule layer (QUESTION-159).
+  trained weights, such as [THEORY-1030](THEORY-1030.md) reads into FFN units.
+- A train-then-predict identity for the delta-rule layer ([QUESTION-159](../questions.d/QUESTION-159.md)).
   The layer's update can be read as an online gradient step, but that is
-  the filer's arithmetic in NOTE-tmpss2fb, not the paper's statement.
+  the filer's arithmetic in [NOTE-tmpss2fb](../notes.d/NOTE-tmpss2fb.md), not the paper's statement.

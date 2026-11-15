@@ -84,7 +84,7 @@ agreement and off-diagonal conflict; trimming at z = 1.96.
 
 ## Bearing on the record
 
-- **THEORY-107 (interference in parameter coordinates)**: bears on its
+- **[THEORY-107](../theory.d/THEORY-107.md) (interference in parameter coordinates)**: bears on its
   open point that "conflict frequency does not track cost". TIES finds
   sign conflicts as frequent within a task as across tasks; this paper
   finds the most subspace overlap among same-task experts, calls it
@@ -93,15 +93,15 @@ agreement and off-diagonal conflict; trimming at z = 1.96.
   different measurements, and neither paper shows its measure causes the
   loss. Separately, task arithmetic at a fixed λ = 1 over three to five
   summed deltas collapses, while trimmed and normalized merges do not,
-  which fits THEORY-107's finding that rescaling matters most; the paper
+  which fits [THEORY-107](../theory.d/THEORY-107.md)'s finding that rescaling matters most; the paper
   does not test it.
-- **QUESTION-318, CLAIM-498**: indirect at most. These are many-model
+- **[QUESTION-318](../questions.d/QUESTION-318.md), [CLAIM-498](../claims.d/CLAIM-498.md)**: indirect at most. These are many-model
   merges from one start, but no feature is measured.
-- **THEORY-112, CLAIM-407**: no bearing.
+- **[THEORY-112](../theory.d/THEORY-112.md), [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing.
 
 ## Connections
 
-- **Zhang & Zhou (2025), LIT-tmpwnkv8 (NOTE-tmpf8m60)**, which the exchange
+- **Zhang & Zhou (2025), [LIT-tmpwnkv8](../literature.d/LIT-tmpwnkv8.md) ([NOTE-tmpf8m60](NOTE-tmpf8m60.md))**, which the exchange
   joins to this paper, is about how one task's update acts on another
   task's inputs, in distribution. This paper is data-free and about the
   geometry of the updates alone. The exchange's sentence on parameters

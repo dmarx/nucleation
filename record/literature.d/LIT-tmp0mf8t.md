@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpbajuf) in full, from the accepted manuscript at
+  read 2026-11-15 ([NOTE-tmpbajuf](../notes.d/NOTE-tmpbajuf.md)) in full, from the accepted manuscript at
   Europe PMC (PMC8454901). The Supplemental Material was not read; the
   arXiv copy (2008.06093) may carry it. Worth reading here as a worked,
   physical instance of an effective boundary constraint with memory
-  (TERM-090). Eliminating a network's interior leaves a response kernel
+  ([TERM-090](../terms.d/TERM-090.md)). Eliminating a network's interior leaves a response kernel
   that depends on the interior's state and differs from the connectivity.
 title: "Nonequilibrium Green's Functions for Functional Connectivity in the Brain"
 version: 1
@@ -50,7 +50,7 @@ summary: >-
   elsewhere, or change their sign and kernel shape. Shown in simulated
   toy circuits inspired by C. elegans. A's description holds. The paper is
   linear-response bookkeeping, with no waves or interference. It is a
-  neural instance of TERM-090's memory kernel and of its point that the
+  neural instance of [TERM-090](../terms.d/TERM-090.md)'s memory kernel and of its point that the
   relation is "effective, not fundamental".
 ---
 
@@ -60,7 +60,7 @@ Randi, F. & Leifer, A. M. (2021). Nonequilibrium Green's Functions for Functiona
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpbajuf.*
+*From the reading, [NOTE-tmpbajuf](../notes.d/NOTE-tmpbajuf.md).*
 
 - **Response is not connectivity.** "In the linear and TTI case, F0,ij=G0,ijj,
   while they differ in a nonlinear system."
@@ -78,9 +78,9 @@ Randi, F. & Leifer, A. M. (2021). Nonequilibrium Green's Functions for Functiona
 ## Standing in the record
 
 A's description is accurate. The paper's object is a linear response
-kernel around the current state, which is narrower than TERM-090's
+kernel around the current state, which is narrower than [TERM-090](../terms.d/TERM-090.md)'s
 set-theoretic projection of a behaviour. It is a demonstrated case of
 both of that term's distinctions: memory, and a relation that changes
 when the interior does with no change in any local coupling. A gated edge
 that passes nothing at rest and transmits under drive may look like
-masking (TERM-118). That analogy is the record's, not the authors'.
+masking ([TERM-118](../terms.d/TERM-118.md)). That analogy is the record's, not the authors'.

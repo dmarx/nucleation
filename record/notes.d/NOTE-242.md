@@ -229,9 +229,9 @@ In sum, the biological case for SDM is Kanerva's and is plausible at the level o
 
 "Neuroscience holdings" above says the record holds "no Hopfield-network or Ramsauer et al. paper". That is no longer so on either count:
 
-- Ramsauer et al., "Hopfield Networks is All You Need" (LIT-tmpxroua), was read in its main text on 2026-11-15. Its venue is reported as ICLR 2021 and is unconfirmed.
-- Hopfield (1982) is held as LIT-918.
+- Ramsauer et al., "Hopfield Networks is All You Need" ([LIT-tmpxroua](../literature.d/LIT-tmpxroua.md)), was read in its main text on 2026-11-15. Its venue is reported as ICLR 2021 and is unconfirmed.
+- Hopfield (1982) is held as [LIT-918](../literature.d/LIT-918.md).
 
 Ramsauer et al.'s derivation runs parallel to this paper's. Their continuous Hopfield update ξ ← X softmax(βXᵀξ) is one attention step at β = 1/√d_k, and they find BERT heads "predominantly in metastable states". This paper compares its trained-β profile with that BERT analysis (Fig. 7). The comparison can now be read against the source, which places single-pattern retrieval "predominant in the last layers".
 
-Geva et al. is also now held (LIT-1576). The reading above is unchanged. No status change.
+Geva et al. is also now held ([LIT-1576](../literature.d/LIT-1576.md)). The reading above is unchanged. No status change.

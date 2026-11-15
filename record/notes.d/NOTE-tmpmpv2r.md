@@ -85,22 +85,22 @@ sufficient statistics; structural re-parameterization; crosstalk.
 
 ## Bearing on the record
 
-- **THEORY-107 (interference in parameter coordinates)**: a rival location
+- **[THEORY-107](../theory.d/THEORY-107.md) (interference in parameter coordinates)**: a rival location
   and a remedy that wins where both were tried. SSR puts interference in
   activations, one LoRA's response to another task's inputs, and resolves
   it by least squares, not by trimming or electing signs. TIES and DARE
   lose to it on these metrics for K ≥ 3. That is evidence that a
   data-conditioned objective beats coordinate-wise conflict resolution
-  here, not evidence about sign against scale; THEORY-107's promote_when
+  here, not evidence about sign against scale; [THEORY-107](../theory.d/THEORY-107.md)'s promote_when
   is not addressed.
-- **THEORY-112, QUESTION-318, CLAIM-498, CLAIM-407**: no bearing.
+- **[THEORY-112](../theory.d/THEORY-112.md), [QUESTION-318](../questions.d/QUESTION-318.md), [CLAIM-498](../claims.d/CLAIM-498.md), [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing.
 
 ## Connections
 
-- **OSRM (NOTE-tmpf8m60)** names the same term, task j's update acting on
+- **OSRM ([NOTE-tmpf8m60](NOTE-tmpf8m60.md))** names the same term, task j's update acting on
   task i's inputs, and controls it before fine-tuning by choosing A. SSR
   controls it after fine-tuning by routing. Both are data-conditioned.
-- **RegMean**, held only as a baseline in TIES (LIT-675), has the same
+- **RegMean**, held only as a baseline in TIES ([LIT-675](../literature.d/LIT-675.md)), has the same
   layer-local least-squares objective; SSR excludes it for "numerical
   instability" (App. E, not read).
 

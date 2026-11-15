@@ -94,28 +94,28 @@ orthogonal-residual decoupling; hyperspherical energy.
 
 ## Bearing on the record
 
-- **THEORY-107 (interference in parameter coordinates)**: corroborates its
+- **[THEORY-107](../theory.d/THEORY-107.md) (interference in parameter coordinates)**: corroborates its
   caution, does not test its account. Table 4 is a second case, beside
   TIES's own ablation, in which handling magnitude matters more than the
   other choices: in so(d), 41.01 without the correction and 46.25 with it.
   The paper's "magnitude collapse" is cancellation of directions in
-  so(d), which is coordinate-free, not a sign per coordinate. THEORY-107's
+  so(d), which is coordinate-free, not a sign per coordinate. [THEORY-107](../theory.d/THEORY-107.md)'s
   promote_when (oracle signs against rescaling) is not addressed.
-- **THEORY-112 (alignment over symmetries)**: a warning against
-  conflation. THEORY-112's orthogonal map on the residual stream is a
+- **[THEORY-112](../theory.d/THEORY-112.md) (alignment over symmetries)**: a warning against
+  conflation. [THEORY-112](../theory.d/THEORY-112.md)'s orthogonal map on the residual stream is a
   function-preserving symmetry used to align independent networks.
   OrthoMerge's R is the adaptation: R W0 changes what the layer computes.
   Nothing here bears on barriers or alignment.
-- **QUESTION-318, CLAIM-498, CLAIM-407**: no bearing; no features are
+- **[QUESTION-318](../questions.d/QUESTION-318.md), [CLAIM-498](../claims.d/CLAIM-498.md), [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing; no features are
   measured and nothing is intervened on.
 
 ## Connections
 
-- **Zhu (2026), NOTE-tmpsyjfz**, also finds that direction decides the
+- **Zhu (2026), [NOTE-tmpsyjfz](NOTE-tmpsyjfz.md)**, also finds that direction decides the
   causal effect of interference, but in activations, and his "not
   magnitude" concerns a fixed-norm displacement. This paper's correction
   concerns the scale of the merged update. They do not conflict.
-- **TIES (LIT-675, NOTE-526)**: a baseline here, and the other ablation
+- **TIES ([LIT-675](../literature.d/LIT-675.md), [NOTE-526](NOTE-526.md))**: a baseline here, and the other ablation
   finding rescaling largest.
 
 ## Limitations

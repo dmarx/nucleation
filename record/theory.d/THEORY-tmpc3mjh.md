@@ -14,10 +14,10 @@ date: '2026-11-15'
 source:
 - LIT-tmp3d5f9
 summary: >-
-  Márquez et al. (2023), LIT-tmp3d5f9, skimmed in NOTE-tmpgrvfy in its
+  Márquez et al. (2023), [LIT-tmp3d5f9](../literature.d/LIT-tmp3d5f9.md), skimmed in [NOTE-tmpgrvfy](../notes.d/NOTE-tmpgrvfy.md) in its
   holography and storage sections, as the stand-in for A's unidentified
   source on angle-multiplexed storage. A review's summary of primary work,
-  with no selectivity-width formula. Its bearing on CLAIM-182, keyed
+  with no selectivity-width formula. Its bearing on [CLAIM-182](../claims.d/CLAIM-182.md), keyed
   readout from a superposed store, is analogy and is not filed as a
   relation. The wording is the reader's; adopting it is the owner's call.
 ---
@@ -25,7 +25,7 @@ summary: >-
 
 # THEORY-tmpc3mjh: Márquez and co-authors review how, in a volume hologram, multi-plane diffraction makes reconstruction Bragg-selective in the angle (in transmission) or wavelength (in reflection) of the reading beam, so that holograms recorded in the same volume but detuned beyond the Bragg selectivity range are reconstructed independently, one per reading beam, sharing the material's dynamic range; on this basis angle multiplexing is the most widespread holographic-data-storage method, with more than 1000 holograms stored, and thick layers are needed to keep crosstalk between pages down
 
-Márquez, Li, Beléndez, Maier & Ren (2023), LIT-tmp3d5f9; skimmed in NOTE-tmpgrvfy.
+Márquez, Li, Beléndez, Maier & Ren (2023), [LIT-tmp3d5f9](../literature.d/LIT-tmp3d5f9.md); skimmed in [NOTE-tmpgrvfy](../notes.d/NOTE-tmpgrvfy.md).
 
 ## The result
 
@@ -52,6 +52,6 @@ literature, not new results.
 - That this is the source A cited: A's Optica and doi.org links were not
   identified.
 - Anything about records or learning. That keyed readout from a
-  superposed store shows an address need not be a location (CLAIM-182),
-  and that it parallels Plate's HRR (THEORY-tmp713mr), is the record's
+  superposed store shows an address need not be a location ([CLAIM-182](../claims.d/CLAIM-182.md)),
+  and that it parallels Plate's HRR ([THEORY-tmp713mr](THEORY-tmp713mr.md)), is the record's
   analogy; the review does not draw it.

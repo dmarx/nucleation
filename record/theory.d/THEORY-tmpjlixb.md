@@ -26,25 +26,25 @@ bears_on:
 corroborates:
 - CLAIM-498
 summary: >-
-  Zhou, Chen, Chen, Zhang & Yan (2024), LIT-tmptiitv, read in
-  NOTE-tmpjupyx. Cross-task linearity: cosine near 1 and projection-length
+  Zhou, Chen, Chen, Zhang & Yan (2024), [LIT-tmptiitv](../literature.d/LIT-tmptiitv.md), read in
+  [NOTE-tmpjupyx](../notes.d/NOTE-tmpjupyx.md). Cross-task linearity: cosine near 1 and projection-length
   ratio near 1 between the interpolated model's features and the
   interpolated features, against an endpoint baseline, in the blocks
   reported; the same for soups of 5 CIFAR-10 and 10 ImageNet ViT-B/32
-  fine-tunes, all blocks for the latter. Extends THEORY-111 from
+  fine-tunes, all blocks for the latter. Extends [THEORY-111](THEORY-111.md) from
   proportionality to approximate equality and from pairs connected in loss
-  to pairs that are not. Bears on both halves of QUESTION-318 and supports
-  CLAIM-498's averaging step for soups, not SWA. The wording is the
+  to pairs that are not. Bears on both halves of [QUESTION-318](../questions.d/QUESTION-318.md) and supports
+  [CLAIM-498](../claims.d/CLAIM-498.md)'s averaging step for soups, not SWA. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmptiitv NOTE-tmpjupyx CLAIM-498 THEORY-tmpkfmi5 THEORY-115 — new tmp codes, or Proposed; source, reading, the claim this corroborates and neighbouring accounts, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-498 THEORY-tmpkfmi5 THEORY-115 — new tmp codes, or Proposed; source, reading, the claim this corroborates and neighbouring accounts, named and not leaned on -->
 
 # THEORY-tmpjlixb: Zhou, Chen, Chen, Zhang and Yan: networks fine-tuned on different tasks from one pretrained checkpoint, though not linearly connected in loss, have at the layers measured (MLPs and ResNet-18 on continual-learning splits, CLIP ViT-B/32 and ViT-L/14, T5-base) features at a weight interpolation approximately equal to the interpolation of their features, and averages of 5 or 10 ViT-B/32 fine-tunes have approximately the average of their members' features
 
 ## Source
 
-Zhou, Chen, Chen, Zhang & Yan (2024), LIT-tmptiitv, read in
-NOTE-tmpjupyx: §§1–6, Appendices A and C.
+Zhou, Chen, Chen, Zhang & Yan (2024), [LIT-tmptiitv](../literature.d/LIT-tmptiitv.md), read in
+[NOTE-tmpjupyx](../notes.d/NOTE-tmpjupyx.md): §§1–6, Appendices A and C.
 
 ## The result
 
@@ -53,7 +53,7 @@ NOTE-tmpjupyx: §§1–6, Appendices A and C.
   as αf^(ℓ)(θ_i) + (1−α)f^(ℓ)(θ_j), well below the dissimilarity of the
   endpoints' own features, and the projection-length ratio sits near 1.
   So the relation is approximate equality, stronger than the
-  proportionality of THEORY-111. It holds though the pairs, fine-tuned on
+  proportionality of [THEORY-111](THEORY-111.md). It holds though the pairs, fine-tuned on
   different tasks, are not linearly connected in loss.
 - **Averages** (§4.2, App. C.4): for 5 CIFAR-10 and 10 ImageNet ViT-B/32
   fine-tunes, the averaged network's features approximate the average of
@@ -81,8 +81,8 @@ expect linear features.
   and it is checked with the loss on same-task pairs. The step to many
   models (Theorem 4.2) rests on an unproved transitivity conjecture.
 - **A first-order Taylor model.** The authors distinguish it from the
-  linearisation that Ortiz-Jimenez et al. (THEORY-tmpkfmi5) reject:
+  linearisation that Ortiz-Jimenez et al. ([THEORY-tmpkfmi5](THEORY-tmpkfmi5.md)) reject:
   approximate linearity along task-vector directions, not a linear model.
 - **A barrier test.** That loss connectivity fails across tasks is taken
   from the setting, not measured against task overlap, so it does not test
-  THEORY-115.
+  [THEORY-115](THEORY-115.md).

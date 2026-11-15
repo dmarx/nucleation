@@ -83,19 +83,19 @@ is bounded by what it is given.
 
 ## Bearing on the record
 
-- **TERM-064**: the erasure procedure is itself an observer with a bounded
+- **[TERM-064](../terms.d/TERM-064.md)**: the erasure procedure is itself an observer with a bounded
   search, and the trigger is illegible to it; robust methods that search
   for "alternative representations" still miss an association they were
   not given.
-- **CLAIM-407**: by analogy only. On ordinary prompts the erased model
+- **[CLAIM-407](../claims.d/CLAIM-407.md)**: by analogy only. On ordinary prompts the erased model
   behaves as clean, and the trigger is the input-side intervention that
   exposes the retained mechanism.
-- **THEORY-425** (a connecting path trained on clean data removes a
-  backdoor; LIT-668): a contrast, not a conflict. There clean-data
+- **[THEORY-425](../theory.d/THEORY-425.md)** (a connecting path trained on clean data removes a
+  backdoor; [LIT-668](../literature.d/LIT-668.md)): a contrast, not a conflict. There clean-data
   training between two backdoored classifiers removes the backdoor; here
   erasure fine-tuning leaves it. The settings differ, classifier mode
   connectivity against diffusion concept erasure.
-- **THEORY-281** and **QUESTION-010**: no direct bearing.
+- **[THEORY-281](../theory.d/THEORY-281.md)** and **[QUESTION-010](../questions.d/QUESTION-010.md)**: no direct bearing.
 
 ## Limitations
 

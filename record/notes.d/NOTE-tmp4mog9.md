@@ -85,26 +85,26 @@ reduction.
 
 ## Bearing on the record
 
-- **CLAIM-567**: a measured case. RLVR raises reliability (pass@1) while
+- **[CLAIM-567](../claims.d/CLAIM-567.md)**: a measured case. RLVR raises reliability (pass@1) while
   shrinking what is reachable at large k, so the two are distinct
   properties of a process, which the claim demonstrates. It also shows a
   trade between them under one intervention, which the claim does not
   assert.
-- **CLAIM-576 and QUESTION-392**: whether RL creates a capability depends
+- **[CLAIM-576](../claims.d/CLAIM-576.md) and [QUESTION-392](../questions.d/QUESTION-392.md)**: whether RL creates a capability depends
   on the budget at which the repertoire is read. The contrast with
-  distillation is a candidate for QUESTION-392's line between creating a
+  distillation is a candidate for [QUESTION-392](../questions.d/QUESTION-392.md)'s line between creating a
   capability and making one cheaper to reach. Whether RL is a change of
   architecture or of affordability in the claim's terms is not settled by
   the paper.
-- **The agentic extension** (LIT-2441, THEORY-1703, CLAIM-663, ARG-093;
-  LIT-2414, THEORY-1672; CLAIM-654): Zhai et al. extend this paper's
+- **The agentic extension** ([LIT-2441](../literature.d/LIT-2441.md), [THEORY-1703](../theory.d/THEORY-1703.md), [CLAIM-663](../claims.d/CLAIM-663.md), [ARG-093](../arguments.d/ARG-093.md);
+  [LIT-2414](../literature.d/LIT-2414.md), [THEORY-1672](../theory.d/THEORY-1672.md); [CLAIM-654](../claims.d/CLAIM-654.md)): Zhai et al. extend this paper's
   question with an interaction-depth axis, and Zhu et al. find multi-turn
   RL above the base model's Pass@K boundary, unlike this single-turn
   result, and only at ample budgets. The record held the extension and not
   this source.
-- **Brown et al.** (THEORY-tmpmapw3) supplies the metric; ProRL
-  (LIT-tmp7463t) contests the conclusion; Meng et al. (LIT-tmpnkxqn) and
-  Balasubramanian and Kasiviswanathan (LIT-tmpdyhv5) give token-level and
+- **Brown et al.** ([THEORY-tmpmapw3](../theory.d/THEORY-tmpmapw3.md)) supplies the metric; ProRL
+  ([LIT-tmp7463t](../literature.d/LIT-tmp7463t.md)) contests the conclusion; Meng et al. ([LIT-tmpnkxqn](../literature.d/LIT-tmpnkxqn.md)) and
+  Balasubramanian and Kasiviswanathan ([LIT-tmpdyhv5](../literature.d/LIT-tmpdyhv5.md)) give token-level and
   formal counterparts of the sharpening reading.
 - **On A's math**: the paper does not state π* ∝ π0 exp(r/β), and most of
   its runs train without KL.

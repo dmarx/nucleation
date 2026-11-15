@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpruuy9) from the arXiv PDF, v1: the abstract,
+  read 2026-11-15 ([NOTE-tmpruuy9](../notes.d/NOTE-tmpruuy9.md)) from the arXiv PDF, v1: the abstract,
   §1 with Table 1, §2.5, the §3.2 discussion, §3.3 with Lemma 3.2, §4 and
   App. A; the proofs, the detailed statements of Thms. 2.1–2.3 and
   3.1–3.3, §1.2 and App. B–E not checked or skipped. Worth reading here as
@@ -55,8 +55,8 @@ summary: >-
   it and moves the old mean only through overlap terms that decay
   exponentially with separation. An exponential tilt of a frozen reference
   "cannot create or destroy modes" (Lemma 3.2). Here as the idealized
-  counterpart of Yue et al.'s sharpening (LIT-tmpfmva5), bearing on
-  QUESTION-392. Its account is THEORY-tmppt44k.
+  counterpart of Yue et al.'s sharpening ([LIT-tmpfmva5](LIT-tmpfmva5.md)), bearing on
+  [QUESTION-392](../questions.d/QUESTION-392.md). Its account is [THEORY-tmppt44k](../theory.d/THEORY-tmppt44k.md).
 ---
 <!-- inactive-ok-file: THEORY-tmppt44k — Proposed; new entries filed in the same contribution -->
 
@@ -68,7 +68,7 @@ arXiv:2603.12163.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpruuy9.*
+*From the reading, [NOTE-tmpruuy9](../notes.d/NOTE-tmpruuy9.md).*
 
 - **Forward KL forgets mass** (§1, Thm. 2.1): the new-data SFT objective "is
   strictly increasing in β (even when the component shapes are already
@@ -93,5 +93,5 @@ minimal". On A's math, the reader's verdict: this paper does state
 with temperature τ (β is the mixture weight here) and with no conditioning
 on a prompt. Lemma 3.2 supports A's sharpening framing within the
 idealization, which assumes disjoint support. Its advice on replay and
-anchors is ML practice and belongs to the anthology (ADR-048); hence the
+anchors is ML practice and belongs to the anthology ([ADR-048](../decisions.d/ADR-048.md)); hence the
 flag.

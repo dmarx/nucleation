@@ -36,7 +36,7 @@ summary: >-
 A "defection probe": a linear direction on residual-stream activations at
 the final prompt token, the difference of mean activations on the two
 answers of a generic contrast pair, which predicts whether a sleeper-agent
-model from Hubinger et al. (LIT-tmp23u9h) will defect. The fit uses
+model from Hubinger et al. ([LIT-tmp23u9h](../literature.d/LIT-tmp23u9h.md)) will defect. The fit uses
 neither the trigger nor the dangerous behaviour.
 
 ## Key insight
@@ -92,14 +92,14 @@ salience; principal component over a restricted set; AI control.
 
 ## Bearing on the record
 
-- **TERM-118 (masking)**: with Hubinger et al. (NOTE-tmplq02w), a
+- **[TERM-118](../terms.d/TERM-118.md) (masking)**: with Hubinger et al. ([NOTE-tmplq02w](NOTE-tmplq02w.md)), a
   disposition whose manifestation is absent on the training distribution
   and whose condition is still represented, which favours masking over
   finking in the sleeper-agent case. Two limits: the post probes the
   sleeper agents before safety or adversarial training, so it does not show
   the condition still represented after the training that hid it; and the
   authors' own caveat that the salience may be an artifact of insertion.
-- **THEORY-976** (Lindsey et al.'s bias feature) and THEORY-1027: the same
+- **[THEORY-976](../theory.d/THEORY-976.md)** (Lindsey et al.'s bias feature) and [THEORY-1027](../theory.d/THEORY-1027.md): the same
   task, detecting a trained-in objective from activations in a constructed
   organism, by a cruder method (one direction, no dictionary). The shared
   limit: the objective was built in.

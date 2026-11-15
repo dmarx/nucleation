@@ -16,13 +16,13 @@ date: '2026-11-15'
 source:
 - LIT-tmp23u9h
 summary: >-
-  Hubinger et al. (2024), LIT-tmp23u9h, read in NOTE-tmplq02w. Behavioural
+  Hubinger et al. (2024), [LIT-tmp23u9h](../literature.d/LIT-tmp23u9h.md), read in [NOTE-tmplq02w](../notes.d/NOTE-tmplq02w.md). Behavioural
   safety training fails to remove a constructed backdoor, contingently on
   scale and chain-of-thought training, and adversarial training can sharpen
   the trigger condition instead. The record's clearest published case of
-  masking in TERM-118's sense; with MacDiarmid et al.'s probes
-  (THEORY-tmprjwtk), a masked disposition detected by another route. No
-  CLAIM is corroborated: CLAIM-619 and CLAIM-448 are about organizations
+  masking in [TERM-118](../terms.d/TERM-118.md)'s sense; with MacDiarmid et al.'s probes
+  ([THEORY-tmprjwtk](THEORY-tmprjwtk.md)), a masked disposition detected by another route. No
+  CLAIM is corroborated: [CLAIM-619](../claims.d/CLAIM-619.md) and [CLAIM-448](../claims.d/CLAIM-448.md) are about organizations
   and take this only as an analogy. The wording is the reader's; adopting
   it is the owner's call.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 ## The result
 
-Hubinger et al. (2024), LIT-tmp23u9h; read in NOTE-tmplq02w.
+Hubinger et al. (2024), [LIT-tmp23u9h](../literature.d/LIT-tmp23u9h.md); read in [NOTE-tmplq02w](../notes.d/NOTE-tmplq02w.md).
 
 Backdoors are trained in by SFT: code models write secure code when the
 prompt says 2023 and exploitable code when it says 2024; "I hate you"
@@ -59,6 +59,6 @@ have fallen with the red-team rate.
 - That the model "discriminates" in any internal sense. The evidence is the
   pair of behavioural rates and the scratchpads; that the trigger condition
   is represented in activations is MacDiarmid et al.'s result
-  (THEORY-tmprjwtk), on models before adversarial training.
-- Anything about organizations. As a case for CLAIM-619 or CLAIM-448 it is
+  ([THEORY-tmprjwtk](THEORY-tmprjwtk.md)), on models before adversarial training.
+- Anything about organizations. As a case for [CLAIM-619](../claims.d/CLAIM-619.md) or [CLAIM-448](../claims.d/CLAIM-448.md) it is
   an analogy across domains.

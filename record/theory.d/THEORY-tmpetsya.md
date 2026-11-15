@@ -27,11 +27,11 @@ date: '2026-11-15'
 source:
 - LIT-tmpi44jr
 summary: >-
-  Ravfogel, Yehudai, Bruna & Bietti (2026, preprint), LIT-tmpi44jr, read in
-  NOTE-tmpov37q: in a one-layer toy, learned embeddings carry the facts and
+  Ravfogel, Yehudai, Bruna & Bietti (2026, preprint), [LIT-tmpi44jr](../literature.d/LIT-tmpi44jr.md), read in
+  [NOTE-tmpov37q](../notes.d/NOTE-tmpov37q.md): in a one-layer toy, learned embeddings carry the facts and
   the MLP selects, at d = O(R log N); with embeddings frozen, training falls
   back to associative storage in the weights at much larger d. A regime in
-  which THEORY-1030's reading of the MLP as a memory does not hold, shown in
+  which [THEORY-1030](THEORY-1030.md)'s reading of the MLP as a memory does not hold, shown in
   a toy and not in language models. The wording is the reader's; adopting
   it is the owner's call.
 ---
@@ -41,8 +41,8 @@ summary: >-
 
 ## Source
 
-Ravfogel, Yehudai, Bruna & Bietti (2026), LIT-tmpi44jr; read in
-NOTE-tmpov37q.
+Ravfogel, Yehudai, Bruna & Bietti (2026), [LIT-tmpi44jr](../literature.d/LIT-tmpi44jr.md); read in
+[NOTE-tmpov37q](../notes.d/NOTE-tmpov37q.md).
 
 ## The result
 
@@ -69,8 +69,8 @@ NOTE-tmpov37q.
 - That released language models recall facts this way. Its LM evidence is
   a probe of linear decodability, which is consistent with weight-stored
   facts as well.
-- That MLPs in LMs are not key–value memories (THEORY-1030), or where facts
-  are localized (THEORY-1011, THEORY-1039): it offers an alternative
+- That MLPs in LMs are not key–value memories ([THEORY-1030](THEORY-1030.md)), or where facts
+  are localized ([THEORY-1011](THEORY-1011.md), [THEORY-1039](THEORY-1039.md)): it offers an alternative
   mechanism, and shows that associative storage is what training finds
   when embeddings cannot carry the facts.
 - That "superposition" in the interference sense is involved: the codes sit

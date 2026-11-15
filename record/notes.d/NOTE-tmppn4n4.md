@@ -89,20 +89,20 @@ sampling); KL penalty with reference-policy reset; reasoning boundary
 
 ## Bearing on the record
 
-- **CLAIM-576 and QUESTION-392**: the test case. A pass@k that rises from
+- **[CLAIM-576](../claims.d/CLAIM-576.md) and [QUESTION-392](../questions.d/QUESTION-392.md)**: the test case. A pass@k that rises from
   zero means RL moved an unreached target into reach, which under the
   claim is more than a budget change. Whether it is the claim's change of
   architecture, or a target the start model would reach at k far above
   128, the paper cannot rule out.
-- **CLAIM-567**: in the other direction from Yue et al.: reachability at a
+- **[CLAIM-567](../claims.d/CLAIM-567.md)**: in the other direction from Yue et al.: reachability at a
   fixed sampling budget can grow under training. That the two properties
   move separately is the claim's point either way.
-- **Yue et al. (LIT-tmpfmva5)**: the two do not straightforwardly conflict.
+- **Yue et al. ([LIT-tmpfmva5](../literature.d/LIT-tmpfmva5.md))**: the two do not straightforwardly conflict.
   Different start model, training length, task mix and k; and ProRL
   reports narrowing on math, agreeing with Yue there.
-- **The agentic extension**: Zhu et al. (THEORY-1672) find RL above the base
+- **The agentic extension**: Zhu et al. ([THEORY-1672](../theory.d/THEORY-1672.md)) find RL above the base
   Pass@K boundary for multi-turn agents only at ample budgets, and Zhai et
-  al. (THEORY-1703, CLAIM-663) expansion only on compositional retrieval.
+  al. ([THEORY-1703](../theory.d/THEORY-1703.md), [CLAIM-663](../claims.d/CLAIM-663.md)) expansion only on compositional retrieval.
   ProRL's single-turn expansion is likewise task-conditional: largest where
   the start model is weak.
 - **On A's math**: the KL penalty is present, but the resets mean there is

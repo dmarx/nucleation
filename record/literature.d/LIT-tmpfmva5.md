@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmp4mog9) from the arXiv PDF, v5: the abstract,
+  read 2026-11-15 ([NOTE-tmp4mog9](../notes.d/NOTE-tmp4mog9.md)) from the arXiv PDF, v5: the abstract,
   §1, §2, the §3 math results, the §4.1 summary, the perplexity analysis,
   §4.2 (distillation), §4.4 briefly, the KL and entropy ablations and §7;
   the code and visual-reasoning results, §5 and the appendices skimmed.
   Worth reading here as the measured case of one intervention moving
   reliability and reachability in opposite directions: RLVR raises pass@1
   and lowers pass@k at large k. It is the source of the sharpening dispute
-  whose agentic extension the record already holds (LIT-2441, LIT-2414).
+  whose agentic extension the record already holds ([LIT-2441](LIT-2441.md), [LIT-2414](LIT-2414.md)).
 title: 'Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?'
 version: 1
 history:
@@ -49,10 +49,10 @@ summary: >-
   benchmarks; the RL models' reasoning paths are already likely under the
   base model, and distillation from a stronger teacher lifts pass@k at
   every k. The authors read RLVR as sharpening within the base model's
-  prior. Here for CLAIM-567 and QUESTION-392, and as the single-turn source
-  of the dispute held in its agentic form (LIT-2441, THEORY-1703,
-  THEORY-1672). Contested by ProRL (LIT-tmp7463t). Its account is
-  THEORY-tmp9rnyv.
+  prior. Here for [CLAIM-567](../claims.d/CLAIM-567.md) and [QUESTION-392](../questions.d/QUESTION-392.md), and as the single-turn source
+  of the dispute held in its agentic form ([LIT-2441](LIT-2441.md), [THEORY-1703](../theory.d/THEORY-1703.md),
+  [THEORY-1672](../theory.d/THEORY-1672.md)). Contested by ProRL ([LIT-tmp7463t](LIT-tmp7463t.md)). Its account is
+  [THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp9rnyv — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: THEORY-1703 THEORY-1672 — Proposed; the agentic extension of this dispute -->
@@ -66,7 +66,7 @@ Processing Systems* (NeurIPS 2025, oral). arXiv:2504.13837.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp4mog9.*
+*From the reading, [NOTE-tmp4mog9](../notes.d/NOTE-tmp4mog9.md).*
 
 - **The crossover** (abstract): "while RLVR-trained models outperform their
   base models at smaller values of k (e.g., k=1), base models achieve
@@ -90,10 +90,10 @@ RL-trained models across its benchmarks. A's "distribution sharpening" is
 the paper's own word. The reader's verdict: A should not attribute the
 KL-regularized optimum π* ∝ π0 exp(r/β) to this paper. It does not state
 it, and most of its RL runs drop the KL term; of the works in this batch
-only Balasubramanian and Kasiviswanathan (LIT-tmpdyhv5) state it.
+only Balasubramanian and Kasiviswanathan ([LIT-tmpdyhv5](LIT-tmpdyhv5.md)) state it.
 
-ProRL (LIT-tmp7463t) contests the paper's conclusion; the two differ in
+ProRL ([LIT-tmp7463t](LIT-tmp7463t.md)) contests the paper's conclusion; the two differ in
 start model, training length and k, and ProRL agrees on math. Meng et al.
-(LIT-tmpnkxqn) support the sharpening reading at the token level. Its
+([LIT-tmpnkxqn](LIT-tmpnkxqn.md)) support the sharpening reading at the token level. Its
 training conclusions are ML practice and belong to the anthology
-(ADR-048); hence the flag.
+([ADR-048](../decisions.d/ADR-048.md)); hence the flag.

@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpqbu99) from the arXiv preprint, v3 (47 pp.):
+  read 2026-11-15 ([NOTE-tmpqbu99](../notes.d/NOTE-tmpqbu99.md)) from the arXiv preprint, v3 (47 pp.):
   the abstract, §§1–2, §§3.1–3.4 (statements of Lemma 3.1 and Theorems
   3.2 and 3.3), §4.2 and the Limitations; §4.3 and §§5–6 skimmed; the
   appendix proofs not read. Worth reading here as the argument that the
   probe guiding a concept removal is itself the point of failure: it
   leans on correlated task features, so removal both leaves the concept
   and damages the task, which is the gap between practical erasure and
-  the cap of THEORY-281.
+  the cap of [THEORY-281](../theory.d/THEORY-281.md).
 title: 'Probing Classifiers are Unreliable for Concept Removal and Detection'
 version: 1
 history:
@@ -51,7 +51,7 @@ summary: >-
   features separate it perfectly, so removal guided by it leaves concept
   features and corrupts task features; on a classifier that never used
   the concept, INLP drives main-task accuracy to chance. Bears on
-  THEORY-281 and TERM-064, and criticizes LIT-tmp3i6ea and LIT-tmp52idf.
+  [THEORY-281](../theory.d/THEORY-281.md) and [TERM-064](../terms.d/TERM-064.md), and criticizes [LIT-tmp3i6ea](LIT-tmp3i6ea.md) and [LIT-tmp52idf](LIT-tmp52idf.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpfrtac — Proposed; the account filed from this reading -->
 
@@ -61,7 +61,7 @@ Kumar, A., Tan, C. & Sharma, A. (2022). Probing Classifiers are Unreliable for C
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqbu99.*
+*From the reading, [NOTE-tmpqbu99](../notes.d/NOTE-tmpqbu99.md).*
 
 - **The headline** (abstract): such methods "are unable to remove the
   concepts entirely, and in some cases may fail severely by destroying all
@@ -85,5 +85,5 @@ not rechecked by the filer). The reader found all three failure modes in
 the paper, with one slip in A's wording: the features the probe wrongly
 targets are main-task features, relevant to the task and irrelevant only
 to the concept, which is why removing them does harm. It criticizes INLP
-(LIT-tmp3i6ea) and amnesic probing (LIT-tmp52idf) directly.
-THEORY-tmpfrtac carries its central account.
+([LIT-tmp3i6ea](LIT-tmp3i6ea.md)) and amnesic probing ([LIT-tmp52idf](LIT-tmp52idf.md)) directly.
+[THEORY-tmpfrtac](../theory.d/THEORY-tmpfrtac.md) carries its central account.

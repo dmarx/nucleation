@@ -20,7 +20,7 @@ summary: >-
   retrieved facts reduce chain-of-thought's hallucination and can be newer
   than a dataset's labels. Skimmed for one use: a fact supplied in context
   with the weights unchanged, a plain case of improving the signal and not
-  the interpreter (CLAIM-118).
+  the interpreter ([CLAIM-118](../claims.d/CLAIM-118.md)).
 ---
 <!-- inactive-ok-file: CLAIM-576 THEORY-591 — Proposed; the claim this reading bears on weakly and a neighbouring reading -->
 
@@ -69,16 +69,16 @@ CoT-SC fallback.
 
 ## Bearing on the record
 
-- **CLAIM-118 (signal and interpreter)**: the retrieved observation is a
+- **[CLAIM-118](../claims.d/CLAIM-118.md) (signal and interpreter)**: the retrieved observation is a
   clear case of improving the signal, not the interpreter: the weights are
   unchanged and the new fact arrives in context. A standard example that
   fits the claim's distinction; it does not test it.
-- **CLAIM-576**: weakly. A tool that supplies information is an
+- **[CLAIM-576](../claims.d/CLAIM-576.md)**: weakly. A tool that supplies information is an
   observational capability in the claim's sense, which makes an existing
   possibility discoverable.
-- **THEORY-591**: if A's point is that a queried source becomes part of the
+- **[THEORY-591](../theory.d/THEORY-591.md)**: if A's point is that a queried source becomes part of the
   cognitive system, Adams and Aizawa's marks of cognition argue against
-  counting it so; CLAIM-118's line places it in the signal either way.
+  counting it so; [CLAIM-118](../claims.d/CLAIM-118.md)'s line places it in the signal either way.
 
 ## Limitations
 

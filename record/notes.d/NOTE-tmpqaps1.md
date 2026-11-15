@@ -76,14 +76,14 @@ partner; Fano collapse; quasi-BIC.
 
 ## Connections
 
-- **For Hsu et al. (2016)**, LIT-tmp83mpa, unread: restates the definition
+- **For Hsu et al. (2016)**, [LIT-tmp83mpa](../literature.d/LIT-tmp83mpa.md), unread: restates the definition
   and the symmetry and interference mechanisms A named, and adds
   Fabry–Pérot and accidental BICs. It does not restate the
   photonic-crystal material (BICs as polarization vortices in momentum
   space, their robustness, separability-protected BICs, experiments,
   applications), which it skips as "they have already been a subject of
   recent reviews".
-- **LIT-645 / NOTE-509 / THEORY-099** (tryptophan superradiance): the same
+- **[LIT-645](../literature.d/LIT-645.md) / [NOTE-509](NOTE-509.md) / [THEORY-099](../theory.d/THEORY-099.md)** (tryptophan superradiance): the same
   non-Hermitian structure, a dark state beside a superradiant one. Their
   subradiant states are finite-system relatives of a BIC. That kinship is
   the reader's.
@@ -94,10 +94,10 @@ By the reader's reading of Eq. 4, S = 1 − 2iW†(H_eff − E)⁻¹W, not by an
 sentence of the review: W enters the scattering matrix on both sides, so
 an eigenstate with zero coupling leaves no trace in S.
 
-- **TERM-090**: a physical case of "effective, not fundamental". The
+- **[TERM-090](../terms.d/TERM-090.md)**: a physical case of "effective, not fundamental". The
   boundary relation (S) does not record an interior degree of freedom, so
   two interiors can share one boundary relation.
-- **TERM-118**: the BIC is an inaccessible state, not a masked
+- **[TERM-118](../terms.d/TERM-118.md)**: the BIC is an inaccessible state, not a masked
   disposition. The same zero coupling that stops escape stops excitation
   from outside, whereas in masking the trigger occurs and only the
   manifestation is blocked. This is the reader's inference. The quasi-BIC,
