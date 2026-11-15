@@ -21,7 +21,7 @@ source:
 - LIT-tmpme1pw
 summary: >-
   Belrose, Schneider-Joseph, Ravfogel, Cotterell, Raff & Biderman (2023),
-  LIT-tmpme1pw, read in NOTE-tmpwodpq. Theorems in population moments, and
+  [LIT-tmpme1pw](../literature.d/LIT-tmpme1pw.md), read in [NOTE-tmpwodpq](../notes.d/NOTE-tmpwodpq.md). Theorems in population moments, and
   exact for the moments fitted. The sharp edges: the guarantee is linear
   only, and the authors conjecture that nonlinear erasure without damage
   is intractable in general; there is no finite-sample bound; and the
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Belrose et al. (2023), LIT-tmpme1pw, read in full in
-NOTE-tmpwodpq from arXiv v4.
+Belrose et al. (2023), [LIT-tmpme1pw](../literature.d/LIT-tmpme1pw.md), read in full in
+[NOTE-tmpwodpq](../notes.d/NOTE-tmpwodpq.md) from arXiv v4.
 
 ## What was actually shown
 
@@ -50,7 +50,7 @@ Pythia raises bits per byte well above a random erasure of equal rank.
   it. The authors conjecture that preventing this without damage is
   intractable in general.
 - **That I(Z; r(X)) = 0.** Zero cross-covariance is weaker than
-  independence. The information-theoretic cap of THEORY-281 concerns
+  independence. The information-theoretic cap of [THEORY-281](THEORY-281.md) concerns
   the stronger condition.
 - **Anything about model editing or weight-space projections.** The
   paper projects representations.

@@ -139,26 +139,26 @@ amnesic probing (Elazar et al.). It does not mention model editing.
 
 ## Bearing on the record
 
-- **THEORY-281** (perfect concept erasure caps the information a
+- **[THEORY-281](../theory.d/THEORY-281.md)** (perfect concept erasure caps the information a
   representation keeps at that not about the concept). That cap is
   information-theoretic: I(Z; A) = 0 is required. LEACE's guarantee is
   weaker and linear (Σ_XZ = 0), and its utility measure is squared
   distance, not information kept. The two do not conflict. LEACE is the
   second-moment counterpart, and its §7 conjecture of intractability
-  against nonlinear adversaries is computational, which THEORY-281's
+  against nonlinear adversaries is computational, which [THEORY-281](../theory.d/THEORY-281.md)'s
   bound neither supports nor contradicts. Dated note filed.
-- **LIT-963 / NOTE-820** (Chowdhury et al.). A nonlinear boundary
+- **[LIT-963](../literature.d/LIT-963.md) / [NOTE-820](NOTE-820.md)** (Chowdhury et al.). A nonlinear boundary
   surviving LEACE on their four-point toy is what LEACE's §7 says
   linear erasure cannot prevent. The two papers mean different things by
-  "perfect". No note filed; the NOTE-820 reading already records the
+  "perfect". No note filed; the [NOTE-820](NOTE-820.md) reading already records the
   comparison.
-- **LIT-1309 / NOTE-1048** (Xu et al., V-information). By LEACE's
+- **[LIT-1309](../literature.d/LIT-1309.md) / [NOTE-1048](NOTE-1048.md)** (Xu et al., V-information). By LEACE's
   Appendix G, linear guardedness under log loss is linear V-information
   at zero, so LEACE is an optimal V-information eraser for linear V.
-  NOTE-1048's line that erasure certified against one probe family is
+  [NOTE-1048](NOTE-1048.md)'s line that erasure certified against one probe family is
   not erasure against another is the boundary LEACE states. No note
   filed.
-- **THEORY-846 / CLAIM-199** (V-information can be created by
+- **[THEORY-846](../theory.d/THEORY-846.md) / [CLAIM-199](../claims.d/CLAIM-199.md)** (V-information can be created by
   computation). LEACE-guarded data can still carry nonlinearly usable Z,
   the XOR case being the canonical example. The paper does not give it.
   No note filed.

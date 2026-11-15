@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-15 (NOTE-tmpwodpq) from arXiv v4 (22 pp.,
+  read in full 2026-11-15 ([NOTE-tmpwodpq](../notes.d/NOTE-tmpwodpq.md)) from arXiv v4 (22 pp.,
   NeurIPS 2023). Worth reading as the linear, second-moment counterpart
   of the record's information-theoretic erasure results: linear
   guardedness is exactly zero cross-covariance, and one closed-form
@@ -62,7 +62,7 @@ closed form", NeurIPS 2023; arXiv:2306.03819.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwodpq.*
+*From the reading, [NOTE-tmpwodpq](../notes.d/NOTE-tmpwodpq.md).*
 
 - **Linear guardedness is a second-moment condition.** The conditions
   "are all equivalent" (§3), among them that "Every component of X has
@@ -90,10 +90,10 @@ AlphaEdit, which also edit by projection (onto null spaces of preserved
 keys). The paper itself makes no connection to model editing.
 
 The record already discussed LEACE without holding it. Chowdhury et al.
-(LIT-963, NOTE-820, THEORY-281) compare against it, and report a
+([LIT-963](LIT-963.md), [NOTE-820](../notes.d/NOTE-820.md), [THEORY-281](../theory.d/THEORY-281.md)) compare against it, and report a
 nonlinear boundary surviving it on a toy; LEACE's own §7 grants that gap.
 Its guardedness is Xu et al.'s V-information at zero for linear V
-(LIT-1309, NOTE-1048), and THEORY-846's point that computation can create
+([LIT-1309](LIT-1309.md), [NOTE-1048](../notes.d/NOTE-1048.md)), and [THEORY-846](../theory.d/THEORY-846.md)'s point that computation can create
 usable information is why linear erasure does not settle nonlinear
 access.
 
