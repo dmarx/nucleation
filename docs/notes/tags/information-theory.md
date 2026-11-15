@@ -4,7 +4,7 @@
 
 **information-theory**.
 
-137 of 1902 NOTE documents. Back to the [full index](../README.md).
+138 of 1912 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -145,3 +145,4 @@
 | [NOTE-1511](../../../record/notes.d/NOTE-1511.md) | Klyubin, Polani & Nehaniv — Empowerment (2005) | The first statement of empowerment: the Shannon channel capacity from an agent's n-step action sequence to its sensor n steps later, max_{p(aⁿ)} I(Aⁿ; S_{t+n}), counted only as far as the agent can perceive. Used as a fitness function in a grid world with a signal source, it evolves sensors that switch from displacement-sensing blobs near the source to bearing-sensing arcs far from it, and actuators that vary more, with empowerment bounded by the sensor's capacity. | Read |
 | [NOTE-1514](../../../record/notes.d/NOTE-1514.md) | Klyubin, Polani & Nehaniv — Keep your options open | Empowerment, n-step channel capacity from actions to a later sensor, set in an interventional causal-network framework and extended to contextual empowerment, capacity with side information, which is never lower than the context-free value. In a cart-pole, greedy empowerment maximization balances the pole with no task given, though the states of highest empowerment are unreachable; it drives a sensor's layout to switch between niches; and in a Sony AIBO, an evolved two-state context automaton recovers whether a book is present. | Read |
 | [NOTE-1591](../../../record/notes.d/NOTE-1591.md) | Coecke, Fritz and Spekkens — A mathematical theory of resources | A resource theory is a symmetric monoidal category of resources and of the transformations that cost nothing. Such theories are generated from a process theory partitioned into free and costly processes, as theories of states and of processes. Forgetting which free transformation does a conversion leaves a preordered commutative monoid, which carries catalysis, monotones and conversion rates; its combination law can be sum or supremum over the same kind of order. Costs on transformations are left as the open problem. | Read |
+| [NOTE-1912](../../../record/notes.d/NOTE-1912.md) | Belrose et al. — LEACE | Proves that linear guardedness (no linear predictor under a convex loss beats a constant) is equivalent to equal class-conditional means and to zero cross-covariance; characterises the affine erasers that achieve it (P annihilates colsp(Σ_XZ)); and gives the unique eraser least-squares optimal under every inner-product norm, an oblique projection in whitened coordinates. Experiments: gender erasure in BERT, amnesic probing for part of speech, and layer-wise "concept scrubbing" of part of speech in LLaMA and Pythia. Linear only. | Read |

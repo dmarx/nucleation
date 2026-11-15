@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**919 documents cited without acknowledgement.** Not listed: 26873 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**919 documents cited without acknowledgement.** Not listed: 26902 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2456,7 +2456,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 - [`record/literature.d/LIT-1940.md:43`](../../record/literature.d/LIT-1940.md)
 - [`record/notes.d/NOTE-111.md:108`](../../record/notes.d/NOTE-111.md)
 - [`record/questions.d/QUESTION-118.md:205`](../../record/questions.d/QUESTION-118.md)
-- [`record/questions.d/QUESTION-281.md:230`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:232`](../../record/questions.d/QUESTION-281.md)
 - [`record/syntheses.d/SYNTHESIS-006.md:260`](../../record/syntheses.d/SYNTHESIS-006.md)
 - [`record/terms.d/TERM-070.md:84`](../../record/terms.d/TERM-070.md)
 
@@ -6923,7 +6923,7 @@ Communication can be treated as transduction, the continuity of an action throug
 - [`record/claims.d/CLAIM-525.md:14`](../../record/claims.d/CLAIM-525.md)
 - [`record/literature.d/LIT-1902.md:83`](../../record/literature.d/LIT-1902.md)
 - [`record/literature.d/LIT-1912.md:78`](../../record/literature.d/LIT-1912.md)
-- [`record/questions.d/QUESTION-281.md:209`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:211`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-153](../../record/theory.d/THEORY-153.md) — Proposed
 
@@ -7427,7 +7427,7 @@ Individuation in Light of Notions of Form and Information
 - [`record/claims.d/CLAIM-477.md:369`](../../record/claims.d/CLAIM-477.md)
 - [`record/claims.d/CLAIM-526.md:133`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1902.md:77`](../../record/literature.d/LIT-1902.md)
-- [`record/questions.d/QUESTION-281.md:197`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:199`](../../record/questions.d/QUESTION-281.md)
 
 ### [LIT-1671](../../record/literature.d/LIT-1671.md) — Unavailable
 
@@ -9949,7 +9949,7 @@ Pattern formation outside of equilibrium
 2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-527.md:6`](../../record/literature.d/LIT-527.md)
-- [`record/questions.d/QUESTION-281.md:95`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:97`](../../record/questions.d/QUESTION-281.md)
 
 ### [NOTE-696](../../record/notes.d/NOTE-696.md) — Skimmed
 
@@ -10453,7 +10453,7 @@ Micropolitics is the modulation of a relational field toward a maximally inclusi
 2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1484.md:213`](../../record/notes.d/NOTE-1484.md)
-- [`record/questions.d/QUESTION-281.md:212`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:214`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-1298](../../record/theory.d/THEORY-1298.md) — Proposed
 
@@ -12284,7 +12284,7 @@ On Kane's account, self-forming actions occur under motivational conflict, when 
 
 Persona shifts induced by prompting and by finetuning are mediated by the same linear trait directions, so finetuning on data that implies a trait moves the model along the trait's persona vector as a system prompt would; Chen et al. suspect personas are latent factors that persist across many tokens
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1524.md:30`](../../record/notes.d/NOTE-1524.md)
 
