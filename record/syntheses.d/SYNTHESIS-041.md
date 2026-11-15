@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpjze56
 title: 'Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent''s governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    At the synthesis review of organizational-normativity on
+    2026-11-15: CLAIM-686 and QUESTION-454, filed on 2026-11-13 and
+    2026-11-12 with organizational-normativity first and
+    will-organization second, fall in this part, on CLAIM-523's three
+    achievements and on QUESTION-364's authorization, and no account
+    held them. They are added to `integrates`, to the account, and to
+    the components. That line's part accounts SYNTHESIS-tmpc1ohg and
+    SYNTHESIS-tmp5blqy set them out too. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the will-organization line on freedom of will, self-formation
@@ -41,6 +53,8 @@ integrates:
 - ARG-060
 - QUESTION-071
 - QUESTION-364
+- CLAIM-686
+- QUESTION-454
 bears_on:
 - QUESTION-071
 - QUESTION-364
@@ -56,6 +70,7 @@ summary: >-
   and continuation open. The account adds nothing of its own; its standing
   is its components'.
 ---
+<!-- inactive-ok-file: CLAIM-686 SYNTHESIS-tmp5blqy SYNTHESIS-tmpc1ohg — Proposed; a component and the organizational-normativity part accounts, cited at version 2 -->
 <!-- inactive-ok-file: ADR-083 ADR-084 ARG-060 CASE-194 CLAIM-170 CLAIM-544 CLAIM-545 CLAIM-610 CLAIM-620 CLAIM-622 SYNTHESIS-025 SYNTHESIS-026 THEORY-040 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-041: Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent's governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is
@@ -91,7 +106,14 @@ exactly when the circumstances an observation cannot tell apart share an
 acceptable action, so which distinctions must be legible depends on the
 policy. [CLAIM-622](../claims.d/CLAIM-622.md) (A58; demonstrated, Proposed) rests on [CLAIM-535](../claims.d/CLAIM-535.md): two
 organizations can each be minimally adequate while drawing incomparable
-distinctions.
+distinctions. Added at version 2: [CLAIM-686](../claims.d/CLAIM-686.md) (the assistant's, accepted by
+the owner on 2026-11-13; thesis, demonstrated, Proposed; first line
+organizational-normativity) rests on [CLAIM-523](../claims.d/CLAIM-523.md) and uses [TERM-064](../terms.d/TERM-064.md), [TERM-023](../terms.d/TERM-023.md)
+and [TERM-085](../terms.d/TERM-085.md): where a dependent party's claims on an arrangement's
+controllers fail of legibility, volitional efficacy or correctability, the
+dependent lacks effective means of influence and challenge, and
+"justified withdrawal lies outside those three achievements". It uses
+only [CLAIM-523](../claims.d/CLAIM-523.md)'s necessity, as [CLAIM-523](../claims.d/CLAIM-523.md)'s note of 2026-11-13 says.
 
 **Governance of governability.** [CLAIM-545](../claims.d/CLAIM-545.md) (A26's wording at the owner's
 request for the strong form; Proposed) rests on [CLAIM-354](../claims.d/CLAIM-354.md), [CLAIM-523](../claims.d/CLAIM-523.md),
@@ -139,6 +161,15 @@ Active; learned-structure first) uses [TERM-100](../terms.d/TERM-100.md): an obj
 originates outside a learning system can become a goal of the training
 organization.
 
+**Authority across two agents.** Added at version 2. [QUESTION-454](../questions.d/QUESTION-454.md) (A's, A9
+§5 of "Medical Ethics and Media Enshitification", 2026-11-11; Open; first
+line organizational-normativity) asks what makes one agent's authority to
+decide about another's body legitimate when the other has standing but
+cannot decide. Its body: [QUESTION-364](../questions.d/QUESTION-364.md) asks what makes a revised will the
+continuation of the same agent's will, and "the record has nothing on
+authority that passes between agents". Its note of 2026-11-12 sorts its
+cases by [TERM-100](../terms.d/TERM-100.md)'s formation and maintenance provenance.
+
 ## The components
 
 - [CLAIM-354](../claims.d/CLAIM-354.md), the owner's; thesis, interpretive, Active.
@@ -160,6 +191,7 @@ organization.
 - [TERM-099](../terms.d/TERM-099.md) and [TERM-100](../terms.d/TERM-100.md), at the owner's review of 2026-11-03, Active.
 - [CASE-191](../cases.d/CASE-191.md), built at the owner's request, Active. [ARG-060](../arguments.d/ARG-060.md), Proposed.
 - [QUESTION-071](../questions.d/QUESTION-071.md), Open. [QUESTION-364](../questions.d/QUESTION-364.md), A29's, Open.
+- [CLAIM-686](../claims.d/CLAIM-686.md), the assistant's; thesis, demonstrated, Proposed; first line organizational-normativity. [QUESTION-454](../questions.d/QUESTION-454.md), A's, Open; first line organizational-normativity. Added at version 2.
 
 Elsewhere: [CLAIM-620](../claims.d/CLAIM-620.md) is also integrated by learned-structure's account
 ([SYNTHESIS-025](SYNTHESIS-025.md)), and [CLAIM-356](../claims.d/CLAIM-356.md) by [SYNTHESIS-026](SYNTHESIS-026.md).

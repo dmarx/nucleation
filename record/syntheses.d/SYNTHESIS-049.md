@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp8lbdb
 title: 'The distributed-agency line is ten part accounts, of conferral and authority, of availability before a deadline, of partners coming to depend on one another, of perspectives, legibility and correction, of the unit of a combined form, of individuation, of frustration among demands, of persistence, of world-modeling and of collective stance, with twenty-one entries integrated directly; conferral, frustration and perspectives are joined by complements over self-confirming authority and what a legibility regime admits, unit and individuation by the boundary test and its objection, and persistence by the slow variable and the senses of persistence; no link between the parts that no part states passes the claim test'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    At the synthesis review of organizational-normativity on
+    2026-11-15, three part accounts took entries of this line that
+    also carry organizational-normativity: SYNTHESIS-050 two (version 2),
+    SYNTHESIS-056 ten (version 3) and SYNTHESIS-052 one (version 2).
+    Their counts here change to 101, 73 and 30. Other entries filed on
+    the line since this account was written are not all integrated,
+    and are for the line's next review. Nothing else changes.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the distributed-agency line that neither a part
@@ -84,7 +95,7 @@ integrated by that line's accounts too; the part accounts say where.*
 
 ## The parts
 
-- **Conferral and authority ([SYNTHESIS-050](SYNTHESIS-050.md)), 99 entries.** Conferral
+- **Conferral and authority ([SYNTHESIS-050](SYNTHESIS-050.md)), 101 entries.** Conferral
   is any effect on another process's share of future influence, and a
   grant is conferral through a maintained relation. How grants are
   counted and scored decides whether authority tracks reliability or
@@ -103,7 +114,7 @@ integrated by that line's accounts too; the part accounts say where.*
   entries.** Which properties each route to dependence brings about, and
   which make a partnership a new individual, is open ([QUESTION-277](../questions.d/QUESTION-277.md)); the
   documented symbioses show those properties coming apart.
-- **Perspectives, legibility and correction ([SYNTHESIS-056](SYNTHESIS-056.md)), 63
+- **Perspectives, legibility and correction ([SYNTHESIS-056](SYNTHESIS-056.md)), 73
   entries.** An organizational perspective is not thereby an agent
   ([CLAIM-418](../claims.d/CLAIM-418.md)); an encompassing organization's success does not establish
   its constituents' well-being, and the converse holds ([CLAIM-060](../claims.d/CLAIM-060.md)); which
@@ -142,7 +153,7 @@ integrated by that line's accounts too; the part accounts say where.*
   across a family of goals fixes the world model an observer must ascribe
   without identifying a mechanism; producing, maintaining and revising it
   are further achievements ([TERM-086](../terms.d/TERM-086.md)).
-- **Collective stance ([SYNTHESIS-052](SYNTHESIS-052.md)), 29 entries.** What a
+- **Collective stance ([SYNTHESIS-052](SYNTHESIS-052.md)), 30 entries.** What a
   collective is credited with need not be what its members hold: an
   organized whole's operative intention is not the expectation of its
   members' intentions, a diffuse population can show a public stance

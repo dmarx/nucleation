@@ -3,8 +3,8 @@ number: 38
 status: Proposed
 formerly:
 - SYNTHESIS-tmphe0p9
-title: 'A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability'
-version: 3
+title: 'The organizational-normativity line is four accounts that meet at its two root questions, whether an organization''s own dynamics give a path to normativity and whether relationally indexed judgments can be objective, and at the principle that a normative judgment is well-defined once its relata are fixed and can then be false: what such a judgment needs, the wrong beyond harm and becoming normatively less informed, what a whole and its parts owe and claim, and what those who govern an arrangement others depend on owe; the line makes no claim beyond its parts, and its parts relate mostly through those questions'
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -25,11 +25,30 @@ history:
     distributed-agency second, and the account says so. Reported by
     the synthesis review of 2026-11-11 (seventh round). No other
     change.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    At the synthesis review of the line on 2026-11-15, at the owner's
+    word of that day ("file the organizational-normativity summary").
+    The line had grown from 23 entries to 71, and version 3 integrated
+    24 of them, so its defeater was met: 47 in-force or Proposed
+    entries of the line were left out, QUESTION-460 and QUESTION-461
+    among them. The line falls into four parts, and this account
+    becomes the line's account over four part accounts:
+    SYNTHESIS-tmp5blqy (what a normative judgment needs),
+    SYNTHESIS-tmpvdeqh (the wrong beyond harm and becoming less
+    informed), SYNTHESIS-tmpc1ohg (what wholes and parts owe and
+    claim) and SYNTHESIS-tmpn88bi (what those who govern an
+    arrangement owe). Version 3's mapping of its 24 components moves
+    unchanged into the first two. The title, summary, defeater and
+    body are rewritten as a line account; `integrates` names the four
+    parts and CLAIM-363, where they meet. The dated notes are kept.
 defeated_if: >-
-  A component misstated or misattributed here; an in-force component of
-  the organizational-normativity line left out; or a link this account states that no component
-  states. Its standing is its components': a component retired or demoted
-  takes its clause with it.
+  A part account or component misstated or misattributed here, a
+  component's declared sense of "organization" (TERM-074) among what can
+  be misstated; an in-force component of the organizational-normativity
+  line that no part account integrates; or a link stated here that
+  neither a part account nor a component states.
 tags:
 - ethics
 - society-and-governance
@@ -38,166 +57,141 @@ date: '2026-11-11'
 line:
 - organizational-normativity
 integrates:
-- CLAIM-075
+- SYNTHESIS-tmp5blqy
+- SYNTHESIS-tmpvdeqh
+- SYNTHESIS-tmpc1ohg
+- SYNTHESIS-tmpn88bi
 - CLAIM-363
-- CLAIM-518
-- CLAIM-512
-- CLAIM-608
-- CLAIM-511
-- CLAIM-614
-- CLAIM-624
-- CLAIM-619
-- TERM-059
-- CASE-229
-- ARG-043
-- ARG-055
-- ARG-058
-- ARG-059
-- ARG-062
-- ARG-064
-- ARG-070
-- ARG-071
-- QUESTION-128
-- QUESTION-129
-- QUESTION-256
-- QUESTION-441
-- ARG-063
 bears_on:
 - QUESTION-128
+- QUESTION-129
 - QUESTION-441
+- QUESTION-460
+- QUESTION-461
 summary: >-
-  The account of the organizational-normativity line: what the record holds
-  about normative judgment of organizations. The paper disclaims that
-  viability establishes what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)). The owner's
-  [CLAIM-363](../claims.d/CLAIM-363.md) holds that a normative judgment needs fixed relata and can then
-  be false, and [CLAIM-518](../claims.d/CLAIM-518.md), narrowed under [CLAIM-512](../claims.d/CLAIM-512.md)'s objection, that some
-  judgments need histories. The owner's [CLAIM-614](../claims.d/CLAIM-614.md) presupposes a wrong
-  beyond harm in an organization that reproduces what hides its harm;
-  A's [CLAIM-624](../claims.d/CLAIM-624.md) (Proposed, admitted) makes it a bounded duty of
-  answerability, and [CLAIM-619](../claims.d/CLAIM-619.md) a counter-corrective disposition. The
-  account adds nothing of its own; its standing is its components'.
+  The account of the organizational-normativity line, "Normative judgment
+  about organizations", over the accounts of its four parts. What a
+  normative judgment needs ([SYNTHESIS-tmp5blqy](SYNTHESIS-tmp5blqy.md)): viability does not
+  establish what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)), a judgment is well-defined
+  once its relata are fixed and can then be false (the owner's [CLAIM-363](../claims.d/CLAIM-363.md)),
+  some judgments need histories ([CLAIM-518](../claims.d/CLAIM-518.md)), and a self-set failure norm
+  is proposed ([CLAIM-648](../claims.d/CLAIM-648.md)). The wrong beyond harm and becoming less
+  informed ([SYNTHESIS-tmpvdeqh](SYNTHESIS-tmpvdeqh.md)): the owner's [CLAIM-614](../claims.d/CLAIM-614.md), A's [CLAIM-624](../claims.d/CLAIM-624.md) and
+  [CLAIM-619](../claims.d/CLAIM-619.md), and the owner's two routes kept apart ([CLAIM-657](../claims.d/CLAIM-657.md)). What
+  wholes and parts owe and claim ([SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md)): the owner's
+  [QUESTION-460](../questions.d/QUESTION-460.md), with ground and bearer kept apart, A's [QUESTION-461](../questions.d/QUESTION-461.md), and
+  the claims and terms on exploitation, control and domination. What those
+  who govern an arrangement owe ([SYNTHESIS-tmpn88bi](SYNTHESIS-tmpn88bi.md)): A's claims from
+  "Analyze technological civilization trap". The parts relate mostly
+  through [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md) and through [CLAIM-363](../claims.d/CLAIM-363.md), which three
+  of the line's terms apply. The account adds nothing of its own; its
+  standing is its components'.
 ---
+<!-- inactive-ok-file: ADR-083 ADR-084 ADR-089 ARG-063 ARG-103 CASE-239 CASE-241 CASE-261 CASE-264 CLAIM-511 CLAIM-608 CLAIM-650 CLAIM-652 CLAIM-678 CLAIM-684 CLAIM-688 — Proposed; decisions, components and citations, with their standing -->
+<!-- inactive-ok-file: SYNTHESIS-tmp5blqy SYNTHESIS-tmpvdeqh SYNTHESIS-tmpc1ohg SYNTHESIS-tmpn88bi — Proposed; the part accounts this account is built over -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CASE-247 CLAIM-656 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: ARG-043 ARG-055 ARG-058 ARG-059 ARG-062 ARG-064 CASE-229 CLAIM-445 CLAIM-511 CLAIM-608 CLAIM-614 CLAIM-619 CLAIM-624 TERM-118 — Proposed; components and citations, with their standing -->
-<!-- inactive-ok-file: ARG-063 CASE-228 — Proposed; an argument concluding CLAIM-624 from outside the line, and its construction -->
-<!-- inactive-ok-file: ARG-070 — Deferred; components and citations, set aside -->
-<!-- inactive-ok-file: ARG-071 — Rejected; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-445 CLAIM-603 CLAIM-428 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-648 CLAIM-657 CLAIM-670 CLAIM-673 CLAIM-682 CLAIM-685 CLAIM-686 CLAIM-687 CLAIM-690 TERM-122 TERM-123 TERM-124 CASE-256 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-038: A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
+# SYNTHESIS-038: The organizational-normativity line is four accounts that meet at its two root questions, whether an organization's own dynamics give a path to normativity and whether relationally indexed judgments can be objective, and at the principle that a normative judgment is well-defined once its relata are fixed and can then be false: what such a judgment needs, the wrong beyond harm and becoming normatively less informed, what a whole and its parts owe and claim, and what those who govern an arrangement others depend on owe; the line makes no claim beyond its parts, and its parts relate mostly through those questions
 
-*The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-089](../decisions.d/ADR-089.md)), where it was a part account. Its premises from will-organization, [CLAIM-523](../claims.d/CLAIM-523.md) and [CLAIM-445](../claims.d/CLAIM-445.md), are dependencies across lines.*
+*The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-089](../decisions.d/ADR-089.md)), where it was a part account. Since version 4 (2026-11-15) it is the line's account over the accounts of its four parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); versions 1 to 3 mapped what is now the first two parts directly. "Organization" is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default; each part account says which sense each component declares, and assigns none where a component declares none.*
 
-## The account
+## The parts
 
-**The limit.** [CLAIM-075](../claims.d/CLAIM-075.md) (the paper's, Sections 6.10 and 7.3; disclaimed,
-Active): viability does not establish what ought to persist; "An unjust
-institution may be highly viable." [QUESTION-128](../questions.d/QUESTION-128.md) (the owner's U16 of
-2026-10-17; Open) asks whether the organizational account gives a path to
-normativity from first principles, and what more practical and moral
-authority need.
+- **[SYNTHESIS-tmp5blqy](SYNTHESIS-tmp5blqy.md), what a normative judgment needs** (19 components).
+  The paper's [CLAIM-075](../claims.d/CLAIM-075.md) (disclaimed, Active): viability does not establish
+  what ought to persist. The owner's [CLAIM-363](../claims.d/CLAIM-363.md) (Active), relata then
+  truth, with [TERM-059](../terms.d/TERM-059.md); the owner's [CLAIM-518](../claims.d/CLAIM-518.md) (Active), histories, with
+  [CLAIM-512](../claims.d/CLAIM-512.md)'s objection and [CLAIM-608](../claims.d/CLAIM-608.md)'s gloss; [CLAIM-511](../claims.d/CLAIM-511.md), corrigibility,
+  disclaimed. [QUESTION-128](../questions.d/QUESTION-128.md), [QUESTION-129](../questions.d/QUESTION-129.md) and [QUESTION-256](../questions.d/QUESTION-256.md). The
+  assistant's [CLAIM-648](../claims.d/CLAIM-648.md) (a failure norm set by a system's own upkeep) and
+  [CLAIM-650](../claims.d/CLAIM-650.md) (a designed alarm's content can be false, its source left open
+  for other systems), with [CASE-241](../cases.d/CASE-241.md), [CASE-239](../cases.d/CASE-239.md) and three arguments.
+  [QUESTION-454](../questions.d/QUESTION-454.md), surrogate authority.
+- **[SYNTHESIS-tmpvdeqh](SYNTHESIS-tmpvdeqh.md), the wrong beyond harm and becoming normatively
+  less informed** (24). [QUESTION-441](../questions.d/QUESTION-441.md); the owner's [CLAIM-614](../claims.d/CLAIM-614.md) and A's
+  [CLAIM-624](../claims.d/CLAIM-624.md), a bounded duty of answerability, with six arguments; A's
+  [CLAIM-619](../claims.d/CLAIM-619.md), the counter-corrective route; [QUESTION-449](../questions.d/QUESTION-449.md) with [CASE-232](../cases.d/CASE-232.md). The
+  assistant's [CLAIM-652](../claims.d/CLAIM-652.md) (selective disappearance) and A's [CLAIM-662](../claims.d/CLAIM-662.md),
+  narrowed by the owner (costly discovery), with [QUESTION-456](../questions.d/QUESTION-456.md); the owner's
+  [CLAIM-657](../claims.d/CLAIM-657.md), the two routes kept apart from each other and from
+  [CLAIM-619](../claims.d/CLAIM-619.md)'s; the owner's [CLAIM-656](../claims.d/CLAIM-656.md), news.
+- **[SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md), what a whole and its parts owe and claim** (20).
+  The owner's [QUESTION-460](../questions.d/QUESTION-460.md), ground and bearer kept apart, with the owner's
+  [CASE-256](../cases.d/CASE-256.md) and [CLAIM-671](../claims.d/CLAIM-671.md) (vulnerability to a responsible agent, not
+  integration); A's [QUESTION-461](../questions.d/QUESTION-461.md) with [CASE-257](../cases.d/CASE-257.md) and [QUESTION-463](../questions.d/QUESTION-463.md); A's
+  [CLAIM-669](../claims.d/CLAIM-669.md) and [CLAIM-670](../claims.d/CLAIM-670.md), two routes into exploitation kept apart; the
+  assistant's [TERM-123](../terms.d/TERM-123.md), [TERM-124](../terms.d/TERM-124.md), [QUESTION-468](../questions.d/QUESTION-468.md), [CLAIM-690](../claims.d/CLAIM-690.md) and [CASE-264](../cases.d/CASE-264.md)
+  (control over the terms sorts a dependence); A's [CLAIM-682](../claims.d/CLAIM-682.md), the
+  domination threshold, with the assistant's [CLAIM-686](../claims.d/CLAIM-686.md) and A's [CASE-261](../cases.d/CASE-261.md).
+- **[SYNTHESIS-tmpn88bi](SYNTHESIS-tmpn88bi.md), what those who govern an arrangement others depend
+  on owe** (9). A's [CLAIM-678](../claims.d/CLAIM-678.md), [CLAIM-684](../claims.d/CLAIM-684.md), [CLAIM-687](../claims.d/CLAIM-687.md), [CLAIM-673](../claims.d/CLAIM-673.md), [CLAIM-688](../claims.d/CLAIM-688.md)
+  and [CLAIM-685](../claims.d/CLAIM-685.md), [TERM-122](../terms.d/TERM-122.md), [QUESTION-464](../questions.d/QUESTION-464.md) and [ARG-103](../arguments.d/ARG-103.md), all from "Analyze
+  technological civilization trap" (2026-11-13).
 
-**Relata, then truth.** [CLAIM-363](../claims.d/CLAIM-363.md) (the owner's U17 and U18; Active) rests on
-[CLAIM-075](../claims.d/CLAIM-075.md) and [CLAIM-152](../claims.d/CLAIM-152.md) and uses [TERM-059](../terms.d/TERM-059.md): a normative judgment is
-well-defined only once its relata are fixed, "and that dependence does not
-by itself make it relative". [TERM-059](../terms.d/TERM-059.md) (the owner's name, Active) states
-relational normative realism and says its third condition, constraints on
-admissible perspectives, is not established; [QUESTION-129](../questions.d/QUESTION-129.md) (Open) refines
-[QUESTION-128](../questions.d/QUESTION-128.md) to ask whether it can be met.
+Every one of the line's 71 entries, this account apart, is integrated by
+exactly one part account, and the second part also integrates [ARG-063](../arguments.d/ARG-063.md),
+which is in distributed-agency only and concludes one of its claims. Of
+the 71, 24 were in version 3. Many are also in a second line and are
+integrated again by that line's accounts: the parts say which lines, and
+the curation entry of 2026-11-15 says which accounts.
 
-**Histories.** [CLAIM-518](../claims.d/CLAIM-518.md) (the owner's U26 of 2026-10-31, narrowed the same day
-and again on 2026-11-06; Active) rests on [CLAIM-363](../claims.d/CLAIM-363.md) and [CLAIM-350](../claims.d/CLAIM-350.md) and bears
-on [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-256](../questions.d/QUESTION-256.md): judgments about an organization's
-continuity, reform or obligations can depend on diachronic relations that
-present states and terminal outcomes do not show. [ARG-043](../arguments.d/ARG-043.md) (Proposed)
-concludes it from Bencherki's checklist and daycare. [CLAIM-512](../claims.d/CLAIM-512.md) (the
-assistant's, A26 and A27; counter, Active) objects to [CLAIM-518](../claims.d/CLAIM-518.md) and
-[CLAIM-608](../claims.d/CLAIM-608.md) with a dilemma and a distinction; [CLAIM-518](../claims.d/CLAIM-518.md)'s version 3 concedes
-the broad horn, and the clause it dropped is [CLAIM-608](../claims.d/CLAIM-608.md) (the record's gloss;
-Proposed), which rests on [CLAIM-518](../claims.d/CLAIM-518.md) and [CLAIM-363](../claims.d/CLAIM-363.md) and holds that histories
-add a relatum only if one of three tests is met. [QUESTION-256](../questions.d/QUESTION-256.md) (A26's, from
-the owner's case of Clive Wearing; Open) asks which continuities
-self-governance needs.
+## Where they meet
 
-**Corrigibility, not claimed.** [CLAIM-511](../claims.d/CLAIM-511.md) (Proposed, disclaimed) is the bare
-proposition the owner asked about, that a self-maintaining organization
-ought to preserve its corrigibility; it bears on [QUESTION-128](../questions.d/QUESTION-128.md) and
-[QUESTION-129](../questions.d/QUESTION-129.md), and its summary says the record's constructions do not
-establish it and its value is conditional ([CLAIM-520](../claims.d/CLAIM-520.md)).
+Each link below is a front-matter relation of the entry named first,
+unless a body is cited.
 
-**The wrong beyond harm.** [QUESTION-441](../questions.d/QUESTION-441.md) (the owner's U27, verbatim;
-also distributed-agency) refines [QUESTION-129](../questions.d/QUESTION-129.md) and asks what the
-counter-normativity of a harming organization that reproduces what makes
-its harm non-legible is. [CLAIM-614](../claims.d/CLAIM-614.md) (Proposed) files the owner's
-presupposition, resting on [CLAIM-348](../claims.d/CLAIM-348.md) and [CLAIM-523](../claims.d/CLAIM-523.md) and bearing on
-[QUESTION-441](../questions.d/QUESTION-441.md) and [QUESTION-129](../questions.d/QUESTION-129.md): such an organization commits a
-counter-normativity distinct from the harm. [CLAIM-624](../claims.d/CLAIM-624.md) (A's, A60 to A62;
-Proposed) rests on [CLAIM-614](../claims.d/CLAIM-614.md), [CLAIM-348](../claims.d/CLAIM-348.md), [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-462](../claims.d/CLAIM-462.md):
-the wrong is a breach of a second-order duty of answerability, "a verdict
-only given an independently justified standard and a feasible
-alternative". It was admitted on that narrower title (its history, version 3), and its
-body states where it diverges from the owner's thesis on unavoidable
-projections. Six arguments conclude it:
+- **At [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md) ([SYNTHESIS-tmp5blqy](SYNTHESIS-tmp5blqy.md)).** From the
+  second part: [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-624](../claims.d/CLAIM-624.md) bear on [QUESTION-129](../questions.d/QUESTION-129.md), and
+  [QUESTION-441](../questions.d/QUESTION-441.md) and [QUESTION-456](../questions.d/QUESTION-456.md) refine it. From the third: [QUESTION-460](../questions.d/QUESTION-460.md)
+  refines [QUESTION-128](../questions.d/QUESTION-128.md), and [QUESTION-468](../questions.d/QUESTION-468.md) refines [QUESTION-129](../questions.d/QUESTION-129.md). From the
+  fourth: [CLAIM-685](../claims.d/CLAIM-685.md) bears on [QUESTION-128](../questions.d/QUESTION-128.md).
+- **At [CLAIM-363](../claims.d/CLAIM-363.md) ([SYNTHESIS-tmp5blqy](SYNTHESIS-tmp5blqy.md)), in bodies.** [TERM-123](../terms.d/TERM-123.md) and [TERM-124](../terms.d/TERM-124.md)
+  (third part) and [TERM-122](../terms.d/TERM-122.md) (fourth) make their standards relata declared
+  with the judgment, "as [CLAIM-363](../claims.d/CLAIM-363.md) requires" ([TERM-123](../terms.d/TERM-123.md), [TERM-124](../terms.d/TERM-124.md)) or "as
+  [CLAIM-363](../claims.d/CLAIM-363.md) holds of any normative judgment" ([TERM-122](../terms.d/TERM-122.md)). [QUESTION-468](../questions.d/QUESTION-468.md)
+  cites [CLAIM-363](../claims.d/CLAIM-363.md) for its part 2.
+- **The second and third parts, in bodies.** [QUESTION-461](../questions.d/QUESTION-461.md) names [CLAIM-614](../claims.d/CLAIM-614.md),
+  [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md) as the record's account of reproduced
+  non-legibility; [QUESTION-463](../questions.d/QUESTION-463.md) and [QUESTION-468](../questions.d/QUESTION-468.md) name [CLAIM-624](../claims.d/CLAIM-624.md) as a
+  candidate standard of answerability.
+- **The fourth part and the others.** [CLAIM-687](../claims.d/CLAIM-687.md) complements [CLAIM-682](../claims.d/CLAIM-682.md)
+  (third part) and [CLAIM-624](../claims.d/CLAIM-624.md) (second). [TERM-122](../terms.d/TERM-122.md)'s summary keeps the
+  parties owed apart from the bearers "as [QUESTION-460](../questions.d/QUESTION-460.md) keeps them".
 
-- [ARG-055](../arguments.d/ARG-055.md) (Proposed), from [CASE-229](../cases.d/CASE-229.md) (A's matched-harm construction):
-  the second-order wrong comes apart from the harm and its continuation;
-- [ARG-058](../arguments.d/ARG-058.md) (Proposed), resting on [CLAIM-520](../claims.d/CLAIM-520.md): an unconditional duty would
-  entail [CLAIM-511](../claims.d/CLAIM-511.md), which the record disclaims, so the duty is bounded;
-- [ARG-062](../arguments.d/ARG-062.md) (Proposed), from [THEORY-140](../theory.d/THEORY-140.md) and [CASE-138](../cases.d/CASE-138.md): an organization can
-  reproduce the conditions that keep a known hazard from constraining it,
-  "though it says nothing of a second-order wrong";
-- [ARG-063](../arguments.d/ARG-063.md) (Proposed; in distributed-agency only), from [CASE-228](../cases.d/CASE-228.md) (A's
-  two-regime reporting construction): a harmful outcome and the regime that
-  keeps it unrecorded can sustain each other without intent, and it "shows
-  nothing normative";
-- [ARG-064](../arguments.d/ARG-064.md) (Proposed), resting on [CLAIM-445](../claims.d/CLAIM-445.md): "the reproductive mechanism
-  transfers and the verdict does not";
-- [ARG-071](../arguments.d/ARG-071.md) (Rejected), from Wells Fargo ([CASE-151](../cases.d/CASE-151.md)): occlusion and blocked
-  uptake, not reproduction.
+Across to other lines, by dependency: the second part rests on [CLAIM-348](../claims.d/CLAIM-348.md),
+[CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-462](../claims.d/CLAIM-462.md); the third on [CLAIM-428](../claims.d/CLAIM-428.md) ([CLAIM-690](../claims.d/CLAIM-690.md)),
+[CLAIM-603](../claims.d/CLAIM-603.md) ([CLAIM-670](../claims.d/CLAIM-670.md)) and [CLAIM-523](../claims.d/CLAIM-523.md) ([CLAIM-686](../claims.d/CLAIM-686.md)); the fourth on [CLAIM-605](../claims.d/CLAIM-605.md)
+([CLAIM-673](../claims.d/CLAIM-673.md)) and [CLAIM-457](../claims.d/CLAIM-457.md) ([CLAIM-688](../claims.d/CLAIM-688.md)).
 
-[CLAIM-619](../claims.d/CLAIM-619.md) (A's, A62; Proposed) rests on [CLAIM-402](../claims.d/CLAIM-402.md) and [CLAIM-406](../claims.d/CLAIM-406.md), uses [TERM-118](../terms.d/TERM-118.md)
-and bears on [QUESTION-441](../questions.d/QUESTION-441.md): an organization can be disposed to answer a
-credible challenge by reducing the capacity for future challenge, and the
-test alone does not say whether the response "finks the disposition to be
-corrected, masks it, or changes only the challengers' access and
-incentives". [ARG-059](../arguments.d/ARG-059.md) (Proposed) concludes it from the
-self-confirming label ([CASE-141](../cases.d/CASE-141.md)); [ARG-070](../arguments.d/ARG-070.md) (Deferred) offers Pohlhaus,
-unread.
-
-## The components
-
-- [CLAIM-075](../claims.d/CLAIM-075.md), the paper's; disclaimed, interpretive, Active.
-- [CLAIM-363](../claims.d/CLAIM-363.md), the owner's; thesis, interpretive, Active.
-- [CLAIM-518](../claims.d/CLAIM-518.md), the owner's, narrowed; thesis, interpretive, Active.
-- [CLAIM-512](../claims.d/CLAIM-512.md), the assistant's; counter, interpretive, Active.
-- [CLAIM-608](../claims.d/CLAIM-608.md), the record's gloss; thesis, interpretive, Proposed.
-- [CLAIM-511](../claims.d/CLAIM-511.md), the owner's question, not claimed; disclaimed, interpretive, Proposed; first line distributed-agency.
-- [CLAIM-614](../claims.d/CLAIM-614.md), the owner's presupposition; thesis, interpretive, Proposed; also distributed-agency.
-- [CLAIM-624](../claims.d/CLAIM-624.md), A's; thesis, interpretive, Proposed; also distributed-agency.
-- [CLAIM-619](../claims.d/CLAIM-619.md), A's; thesis, interpretive, Proposed; also distributed-agency.
-- [TERM-059](../terms.d/TERM-059.md), the owner's name, Active.
-- [CASE-229](../cases.d/CASE-229.md), A's, Proposed; also distributed-agency.
-- [ARG-043](../arguments.d/ARG-043.md), [ARG-058](../arguments.d/ARG-058.md), [ARG-059](../arguments.d/ARG-059.md) and [ARG-062](../arguments.d/ARG-062.md), Proposed; [ARG-055](../arguments.d/ARG-055.md) and [ARG-064](../arguments.d/ARG-064.md), Proposed, also distributed-agency; [ARG-063](../arguments.d/ARG-063.md), Proposed, in distributed-agency only; [ARG-070](../arguments.d/ARG-070.md), Deferred; [ARG-071](../arguments.d/ARG-071.md), Rejected.
-- [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md), the owner's, Open. [QUESTION-256](../questions.d/QUESTION-256.md), A26's, Open. [QUESTION-441](../questions.d/QUESTION-441.md), the owner's, Open; also distributed-agency.
-
-## Links tested as claims
-
-None is filed as a claim. [CLAIM-624](../claims.d/CLAIM-624.md)'s integration was admitted on
-2026-11-07 and is a component here, not a link of this account.
+**Whether the parts hang together.** Counting stored front-matter
+relations as `line_parts.py` does, by the part each starts in: 93 of 102
+fall within parts (24 in the first, 38 in the second, 29 in the third, 2
+in the fourth). Of the nine across, seven point into the first part, and
+all seven are the refines and bears_on relations above, onto [QUESTION-128](../questions.d/QUESTION-128.md)
+and [QUESTION-129](../questions.d/QUESTION-129.md). The second and third parts are mostly closed; the
+fourth has two relations inside it and hangs together by its source. By
+the signal of [ADR-083](../decisions.d/ADR-083.md) the line is a candidate to split, which is the
+owner's decision about the lines vocabulary. What argues against it is
+where the relations across go: every part's questions refine the line's
+two root questions, and three of its terms apply [CLAIM-363](../claims.d/CLAIM-363.md).
 
 ## Not stated on the record
 
-- Whether reproducing an unavoidable blindness is a wrong: [CLAIM-614](../claims.d/CLAIM-614.md) and
-  [CLAIM-624](../claims.d/CLAIM-624.md) leave it open.
 - A path from the organizational account to practical or moral authority
-  ([QUESTION-128](../questions.d/QUESTION-128.md)).
+  ([QUESTION-128](../questions.d/QUESTION-128.md)'s second half).
+- That the four parts are one inquiry. The account sets them under one
+  line because their entries carry it; no entry says what joins them
+  beyond the root questions.
+- Each part account lists the links its components leave unstated.
 
 ## What it does not say
 
-- That corrigibility is unconditionally desirable ([CLAIM-511](../claims.d/CLAIM-511.md) is disclaimed).
-- That any organization on the record commits the second-order wrong: the
-  arguments to [CLAIM-624](../claims.d/CLAIM-624.md) are Proposed, and [ARG-071](../arguments.d/ARG-071.md) is Rejected.
-- That relational normative realism is established ([TERM-059](../terms.d/TERM-059.md)).
+- That any part's claims are accepted: most components are Proposed; the
+  Active ones are [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md), [CLAIM-518](../claims.d/CLAIM-518.md), [CLAIM-512](../claims.d/CLAIM-512.md), [TERM-059](../terms.d/TERM-059.md) and
+  [CASE-232](../cases.d/CASE-232.md).
+- That any whole, in any sense of [TERM-074](../terms.d/TERM-074.md), is a bearer of obligations.
 - Anything with standing of its own.
 
 ## Note of 2026-11-12: A37's map of the line, from "Medical Ethics and Media Enshitification"
@@ -221,3 +215,12 @@ authority ([QUESTION-461](../questions.d/QUESTION-461.md)), A's claims [CLAIM-66
 [CLAIM-671](../claims.d/CLAIM-671.md), and the case [CASE-257](../cases.d/CASE-257.md). Whether and where they enter
 this account is for the synthesis review of the line. The account is
 otherwise unchanged.
+
+## Note of 2026-11-15: the synthesis review of the line
+
+The entries the two notes above leave for this review are integrated at
+version 4, through the parts: [CLAIM-662](../claims.d/CLAIM-662.md), [CLAIM-656](../claims.d/CLAIM-656.md), [CASE-247](../cases.d/CASE-247.md) and
+[QUESTION-449](../questions.d/QUESTION-449.md) by [SYNTHESIS-tmpvdeqh](SYNTHESIS-tmpvdeqh.md), [QUESTION-454](../questions.d/QUESTION-454.md) by [SYNTHESIS-tmp5blqy](SYNTHESIS-tmp5blqy.md),
+and [QUESTION-460](../questions.d/QUESTION-460.md), [QUESTION-461](../questions.d/QUESTION-461.md), [CLAIM-669](../claims.d/CLAIM-669.md), [CLAIM-671](../claims.d/CLAIM-671.md) and [CASE-257](../cases.d/CASE-257.md) by
+[SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md). Since the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13,
+[CLAIM-671](../claims.d/CLAIM-671.md) states the owner's proposition, not A's.
