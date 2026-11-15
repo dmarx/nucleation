@@ -14,7 +14,7 @@
   scratch/formal/soliton_testbed_checks.py. Dated notes on [CLAIM-606](record/claims.d/CLAIM-606.md),
   [CLAIM-522](record/claims.d/CLAIM-522.md), [QUESTION-397](record/questions.d/QUESTION-397.md), [QUESTION-438](record/questions.d/QUESTION-438.md) and [QUESTION-219](record/questions.d/QUESTION-219.md). The assistant's
   own ideas, filed at the owner's request: a ladder of outside maintainers
-  (CLAIM-tmpicwgd, on CASE-tmpqruw9), an executed run of the pinned kink
-  (CASE-tmperwxh), a question on nested individuals (QUESTION-tmpxe81d),
-  and a section on CLAIM-tmpovvk2 saying the coupling, not the charge,
+  ([CLAIM-tmpicwgd](record/claims.d/CLAIM-tmpicwgd.md), on [CASE-tmpqruw9](record/cases.d/CASE-tmpqruw9.md)), an executed run of the pinned kink
+  ([CASE-tmperwxh](record/cases.d/CASE-tmperwxh.md)), a question on nested individuals ([QUESTION-tmpxe81d](record/questions.d/QUESTION-tmpxe81d.md)),
+  and a section on [CLAIM-tmpovvk2](record/claims.d/CLAIM-tmpovvk2.md) saying the coupling, not the charge,
   sets how many cores carry it.

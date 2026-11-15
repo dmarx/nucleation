@@ -19,18 +19,18 @@ summary: >-
   The assistant's construction, offered at the end of the filing of
   2026-11-15 and built when the owner asked for the assistant's ideas to
   be filed (scratch/formal/maintainer_ladder_check.py, run on filing). It
-  extends CASE-tmp3ioyf's constant controller to a family that reproduces
+  extends [CASE-tmp3ioyf](CASE-tmp3ioyf.md)'s constant controller to a family that reproduces
   more and more of the production law. Fictional by construction, with
   illustrative parameters. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp3ioyf CLAIM-tmpicwgd — Proposed or new; the construction this varies and the claim it grounds -->
+<!-- inactive-ok-file: CASE-tmp3ioyf — Proposed or new; the construction this varies and the claim it grounds -->
 
 # CASE-tmpqruw9: A ladder of outside maintainers
 
 ## The construction
 
-The model is CASE-tmp3ioyf's: ċ = −c + 4rc(1 − c), with the capacity r
+The model is [CASE-tmp3ioyf](CASE-tmp3ioyf.md)'s: ċ = −c + 4rc(1 − c), with the capacity r
 produced either inside, ṙ = −r + 4c(1 − r), or by an outside controller.
 It starts at the maintained state (c₊, r₊) ≈ (0.6545, 0.7236). Three
 controllers:
@@ -38,7 +38,7 @@ controllers:
 - **constant:** r = r₊;
 - **delayed:** ṙ = −r + 4c(t − τ)(1 − r), the same law run on a reading of
   c that is τ old;
-- **exact:** the same law on c(t), CLAIM-522's state feedback.
+- **exact:** the same law on c(t), [CLAIM-522](../claims.d/CLAIM-522.md)'s state feedback.
 
 The state intervention is a brief knock: ċ reduced by 2 for 0.2 time
 units, starting at t = 2. The measure is the largest gap in (c, r)

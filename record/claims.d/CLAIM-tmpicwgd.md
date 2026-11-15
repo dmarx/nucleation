@@ -25,12 +25,12 @@ grounds:
 - CASE-tmp3ioyf
 summary: >-
   The assistant's, offered at the end of the filing of 2026-11-15 and
-  filed at the owner's request. CLAIM-522 proves the ideal end: a
+  filed at the owner's request. [CLAIM-522](CLAIM-522.md) proves the ideal end: a
   controller that supplies the internal law as state feedback mimics
-  internal maintenance under every intervention on state. CASE-tmp3ioyf
+  internal maintenance under every intervention on state. [CASE-tmp3ioyf](../cases.d/CASE-tmp3ioyf.md)
   showed the other end: a constant controller is exposed by perturbing the
   state. This claim fills the rungs between with one family, demonstrated
-  for delayed copies of the law in CASE-tmpqruw9. That the ordering holds
+  for delayed copies of the law in [CASE-tmpqruw9](../cases.d/CASE-tmpqruw9.md). That the ordering holds
   beyond that family is the claim's general reading and stays open. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
@@ -41,7 +41,7 @@ summary: >-
 
 ## The demonstration
 
-In the mutual-maintenance model (CASE-tmp3ioyf, CASE-tmpqruw9):
+In the mutual-maintenance model ([CASE-tmp3ioyf](../cases.d/CASE-tmp3ioyf.md), [CASE-tmpqruw9](../cases.d/CASE-tmpqruw9.md)):
 - A constant supply of the capacity differs from internal production
   after a brief knock to the structure, by 0.146.
 - A supply running the law on a reading of the structure τ old differs by
@@ -52,7 +52,7 @@ In the mutual-maintenance model (CASE-tmp3ioyf, CASE-tmpqruw9):
 
 ## What it changes
 
-CLAIM-522 says only interventions on the mechanism separate internal
+[CLAIM-522](CLAIM-522.md) says only interventions on the mechanism separate internal
 production from an ideal outside controller. It allows that imperfect
 controllers "may leave signatures". This claim says the signatures have an
 order. An auditor asking whether an organization maintains itself or is

@@ -17,12 +17,12 @@ illustrates:
 summary: >-
   The assistant's run of the pinned kink that A proposed in the exchange
   "Explain String Theory" (A5 §7) and that this filing noted on
-  QUESTION-438. It was executed when the owner asked for the assistant's
+  [QUESTION-438](../questions.d/QUESTION-438.md). It was executed when the owner asked for the assistant's
   ideas to be filed (scratch/formal/pinned_kink_run.py, about twenty
   seconds). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-618 CLAIM-tmpovvk2 — Proposed or new; the claims the run illustrates in a field -->
+<!-- inactive-ok-file: CLAIM-tmpovvk2 — Proposed or new; the claims the run illustrates in a field -->
 
 # CASE-tmperwxh: An executed run of the pinned kink
 
@@ -46,9 +46,9 @@ run starts from the exact kink at centre x₀ and relaxes to t = 200.
 The demand "the centre lies in [−0.5, 0.5]" is in the compatibility
 complex either way, because the centred kink is static with or without the
 bump. It is in the attracting subcomplex only with the bump. Raising a
-from 0 changes 𝒯 and leaves 𝒦 alone, which is one of QUESTION-438's ways
+from 0 changes 𝒯 and leaves 𝒦 alone, which is one of [QUESTION-438](../questions.d/QUESTION-438.md)'s ways
 of coming apart, in a field. The charge is the same in every run, as
-CLAIM-tmpovvk2 says: it fixes the sector, not where the kink is.
+[CLAIM-tmpovvk2](../claims.d/CLAIM-tmpovvk2.md) says: it fixes the sector, not where the kink is.
 
 ## Its limits
 
