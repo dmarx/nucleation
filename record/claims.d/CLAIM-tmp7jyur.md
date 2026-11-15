@@ -39,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpumro8 CASE-tmp1owyk THEORY-022 THEORY-tmp3lla6 — Proposed or new; the claim this sharpens, its construction, and the readings it contrasts -->
 
-# CLAIM-tmp7jyur: A mode can bear explanatory weight in a learned network only if it is defined invariantly under the network's function-preserving symmetries
+# CLAIM-tmp7jyur: A mode can bear explanatory weight in a learned network only if it is defined invariantly under the network's function-preserving symmetries, permutations of hidden units and the reparametrizations its architecture allows; a spectrum over the index order of units fails that test, while the Fourier characters of a task's group pass it, because the task supplies them
 
 ## The rule
 

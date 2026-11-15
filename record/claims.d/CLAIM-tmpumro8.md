@@ -46,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-022 THEORY-tmp3lla6 THEORY-tmpomhf0 CLAIM-tmp7jyur CASE-tmp71zhd CASE-tmp9201a — Proposed or new; the held case and the entries filed with this one -->
 
-# CLAIM-tmpumro8: The mathematics of waves and distributed modes applies to how learning systems acquire, execute and compose computations, and earns its place where a description in modes and their couplings out-predicts feature-, circuit- or parameter-level accounts
+# CLAIM-tmpumro8: The mathematics of waves and distributed modes, which covers harmonic and spectral decomposition, multiscale analysis, scattering and response operators, interference, mode coupling, localization and reconstruction, applies to how learning systems acquire, execute and compose computations, and earns its place where a description in independently justified modes and their couplings predicts a learned network's responses to unseen queries, interventions, training and merging better than feature-, circuit- or parameter-level accounts fitted with the same information
 
 ## The claim
 

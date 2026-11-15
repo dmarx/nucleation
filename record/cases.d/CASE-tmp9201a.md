@@ -31,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmp6214r CLAIM-tmps7g72 CLAIM-tmpumro8 THEORY-tmpi5d5l THEORY-tmp2ly83 — Proposed or new; the construction and claims the design tests, and the erasure bound it uses -->
 
-# CASE-tmp9201a: A proposed study of the recoverability of controlled associations
+# CASE-tmp9201a: A proposed study: small transformers trained on randomized subject–relation–object facts, with matched training worlds, measured across query variants, inference budgets, interventions and merges, to find whether apparent forgetting is loss, readdressing, interference or downstream suppression, and whether a model of the network's response geometry predicts which associations come back under unseen queries, compute and interventions better than feature similarity, activation strength and attribution
 
 ## The design
 

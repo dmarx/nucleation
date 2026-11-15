@@ -43,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmps7g72 CLAIM-663 ARG-093 THEORY-tmp9rnyv THEORY-tmpr8g5y THEORY-tmppt44k THEORY-tmpxu3kz — Proposed or new; the claim this rests on and the held entries on the same dispute -->
 
-# CLAIM-tmp36o5i: Reinforcement learning on verifiable rewards can make an existing disposition cheaper to realize, and whether a run sharpened or expanded is settled per run
+# CLAIM-tmp36o5i: Reinforcement learning on verifiable rewards can make a disposition the base model already had cheaper to realize, by moving probability toward successful trajectories the base reaches under enough sampling, which amortizes part of a search into the policy without enlarging what the base reaches at large budgets; whether a given run sharpened or expanded is an empirical question per run, settled by matched-budget coverage curves and causal tests on the tokens where the two models diverge
 
 ## The claim
 

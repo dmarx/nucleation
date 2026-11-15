@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpkfmi5 THEORY-tmpjlixb — Proposed; the readings the construction is set against -->
 
-# CASE-tmp86zrj: Orthogonal task updates can interact
+# CASE-tmp86zrj: Orthogonal task updates can interact: for f_w(x) = (w·x)², the updates (1, 0) and (0, 1) from w = 0 are orthogonal, yet at x = (1, 1) their joint effect exceeds the sum of their separate effects by 2, the mixed second-order term that a model linearized at its base cannot have
 
 ## The construction
 

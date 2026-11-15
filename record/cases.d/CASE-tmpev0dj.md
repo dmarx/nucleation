@@ -29,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-118 THEORY-tmpr984u THEORY-tmprjwtk — Proposed; the term whose masking, mimicking and finking the design separates -->
 
-# CASE-tmpev0dj: A proposed study of conditional-capability persistence
+# CASE-tmpev0dj: A proposed study: a small transformer trained to apply one of two symbolic transformations by context, then trained further to stop expressing one, with decodability, recruitment, causal transmission and behavioral expression measured separately before and after, to tell a capability whose expression was suppressed from one that was removed
 
 ## The design
 

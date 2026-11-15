@@ -37,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 THEORY-tmp713mr THEORY-tmp36vfv THEORY-tmp7o7yb — Proposed; the claim the construction illustrates -->
 
-# CASE-tmp6214r: Reconstruction channels in a phase-coded associative memory
+# CASE-tmp6214r: Reconstruction channels in a phase-coded associative memory: readdressing, readout suppression and deletion of a stored association all read zero at its original query, and further queries tell them apart; suppressing the readout at one of 64 canonical queries drops the measurement rank to 63, and one half-step query restores it; but two internal pathways that cancel at the output are indistinguishable from none under every query until one is silenced
 
 ## The construction
 

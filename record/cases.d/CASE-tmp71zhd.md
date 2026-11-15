@@ -27,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-022 CLAIM-tmpumro8 — Proposed or new; the held mechanism and the claim the study tests -->
 
-# CASE-tmp71zhd: A proposed study of the spectral birth of a Fourier circuit
+# CASE-tmp71zhd: A proposed study: small transformers trained on modular addition, saved at many checkpoints, with the training kernel's eigenspaces and each layer's coupling among Fourier modes measured over training, to see whether changes in modal coupling forecast the Fourier circuit's formation better than training loss, Fourier energy and the known progress measures
 
 ## The design
 

@@ -25,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp3lla6 CLAIM-tmpumro8 — Proposed or new; the reading the construction tests and the claims it serves -->
 
-# CASE-tmp1owyk: A spectrum taken over a weight matrix's unit order is not a property of the network
+# CASE-tmp1owyk: A spectrum taken over a weight matrix's unit order is not a property of the network: permuting the hidden units of a two-layer network leaves its outputs unchanged and moves the low-frequency share of a task update's two-dimensional Fourier energy along the hidden-unit axis from 0.985 to 0.193, while the update's singular values stay fixed
 
 ## The construction
 
