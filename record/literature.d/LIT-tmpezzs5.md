@@ -1,0 +1,80 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-15 (NOTE-tmpyns13) from arXiv:1402.7023v3, as the
+  read neighbour of Hasimoto (1972), LIT-tmpdqc38, which could not be
+  reached; worth reading here for what it restates of Hasimoto: the local
+  induction approximation, the transformation ψ = κ exp(i∫τ ds) and the
+  reduction to the cubic nonlinear Schrödinger equation, with the standing
+  sech soliton recovered as friction vanishes; and for what weak loss does
+  to that soliton: it survives, perturbed, and decays at a rate of at most
+  order α². Read: abstract, §§1–4, the opening of §6, §10; §5, the rest of
+  §6 and §§7–9 not read.
+title: 'Quantum Hasimoto transformation and nonlinear waves on a superfluid vortex filament under the quantum local induction approximation'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Registered and read in part on 2026-11-15 as a stand-in for Hasimoto
+    (1972), LIT-tmpdqc38, registered from the ChatGPT exchange "Explain
+    String Theory" (works chosen by the reader). Not held before: the
+    record was searched for Van Gorder and 1402.7023. Citation checked
+    against the arXiv API (no email sent): Robert A. Van Gorder,
+    arXiv:1402.7023, v1 submitted 2014-02-05 (the abstract page's
+    "Submitted on 5 Feb 2014"), which is `published:`; v3 of 2014-11-19
+    is the copy read; no journal reference or DOI is given there, and none
+    was sought further. Copy from arxiv.org/pdf/1402.7023v3, 33 pages,
+    text by pdftotext.
+tags:
+- natural-sciences
+- mathematics
+date: '2026-11-15'
+published: '2014-02-05'
+arxiv: '1402.7023'
+first_author: 'Van Gorder'
+keywords:
+- 'Hasimoto transformation'
+- 'local induction approximation'
+- 'superfluid vortex filament'
+- 'mutual friction'
+- 'nonlinear Schrödinger equation'
+implementations: []
+summary: >-
+  Van Gorder (2014). Under Schwarz's quantum local induction approximation,
+  with the normal-fluid velocity neglected, a Hasimoto-type transformation
+  maps a superfluid vortex filament's motion to a complex Ginzburg–Landau-
+  type equation that reduces to Hasimoto's cubic NLS without mutual
+  friction. A standing sech soliton persists under weak friction, perturbed
+  at order α, and "while the soliton is not eternal (as is true in the
+  classical case), the soliton would dissipate at a rate proportional to at
+  most α²". Filed as the read neighbour of Hasimoto (1972), LIT-tmpdqc38.
+  It bears on CLAIM-606's integrable route (a soliton on a structure that
+  itself persists) and, for the slow decay, on THEORY-1509.
+---
+<!-- inactive-ok-file: LIT-tmpdqc38 THEORY-1509 CLAIM-606 — Unavailable, Proposed or new; the work this stands in for, and the entries it bears on -->
+
+# LIT-tmpezzs5: Quantum Hasimoto transformation and nonlinear waves on a superfluid vortex filament under the quantum local induction approximation
+
+Van Gorder, R. A. (2014). Quantum Hasimoto transformation and nonlinear waves on a superfluid vortex filament under the quantum local induction approximation. arXiv:1402.7023.
+
+## Key takeaways
+
+- The classical map: "the 1-soliton solution found by Hasimoto (1972), by
+  way of what is now referred to as the Hasimoto transformation, which puts
+  the classical LIA into correspondence with the cubic NLS" (§1).
+- With mutual friction the map exists only when the normal-fluid velocity
+  is negligible; "if this assumption is not made, the quantum Hasimoto
+  transformation does not exist" (§1).
+- A standing soliton survives weak friction and decays slowly. The
+  classical constant-curvature ring "will gradually collapse" (§3).
+
+## Standing in the record
+
+Filed as the read neighbour of Hasimoto (1972), LIT-tmpdqc38. It stands in
+for the approximation, the transformation and the reduction, and for the
+standing soliton as the zero-friction limit of its own. It does not stand
+in for Hasimoto's travelling hump with velocity 2τ. It reports, without
+being read for it here, that Hopfinger and Browand (1982) found Hasimoto's
+solutions "do actually occur along vortex filaments in practical
+experiments".

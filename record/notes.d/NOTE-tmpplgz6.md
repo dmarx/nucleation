@@ -1,0 +1,126 @@
+---
+status: Skimmed
+paper: 'LIT-tmp0jm6f'
+title: 'Czubak and Jerrard — Topological defects in the abelian Higgs model'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Read in part on 2026-11-15 from arXiv:1210.2669v1 (9 October 2012),
+    fetched from arxiv.org/pdf/1210.2669v1 (36 pages), text by pdftotext
+    -layout, with the ε symbols lost in extraction and some formulas read
+    from the layout. Read: the abstract; §1 in full (§§1.1–1.9, Theorem
+    1.4, Remarks 1.1–1.10); §2 to Lemma 2.4. Not read: §§3–7, the
+    vorticity-confinement functional, the existence criterion, the energy
+    estimates and the proof of Theorem 1.4. Hence Skimmed. The quotes
+    below were rechecked by the filer against the same copy. Not compared
+    with the version in Discrete and Continuous Dynamical Systems. Read as
+    a stand-in for Nielsen & Olesen (1973), LIT-tmphbd2x.
+date: '2026-11-15'
+summary: >-
+  The abelian Higgs model's vortex lines follow Nambu–Goto worldsheets, as
+  Nielsen and Olesen conjectured: for a timelike minimal surface with zero
+  initial velocity there are solutions concentrating near it and staying
+  close to the Nielsen–Olesen profile across it, wherever the 2d vortex
+  problem has a minimizer ordered by charge (known for λ = 1 and for large
+  λ). Finite energy puts a configuration in one sector of quantized
+  vorticity; the energy is bounded through the Bogomol'nyi identity,
+  saturated at critical coupling; higher-charge symmetric vortices are
+  unstable above it.
+---
+<!-- inactive-ok-file: LIT-tmphbd2x THEORY-1507 CLAIM-606 THEORY-tmpqise3 — Unavailable, Proposed or new; the work this stands in for, and the entries it bears on -->
+
+# NOTE-tmpplgz6: Czubak and Jerrard — Topological defects in the abelian Higgs model
+
+## Contribution
+
+A rigorous form of Nielsen and Olesen's 1973 proposal that vortex lines of
+the abelian Higgs model move as relativistic strings. It is proven wherever
+the two-dimensional vortex minimization problem behaves as the Jaffe–Taubes
+conjecture says, so that conjecture is now the whole remaining gap.
+
+## Key insight
+
+A thin vortex line of the field theory is carried along by the geometry of
+a minimal surface. The string description is a theorem about where the
+field's energy sits, under stated conditions on the coupling. It is not an
+assumption that strings exist.
+
+## Assumptions
+
+- Classical fields.
+- A thin string (0 < ε ≪ 1).
+- A smooth, closed, embedded worldsheet with zero initial velocity
+  (Remark 1.10).
+- The existence of a 2d minimizer with E_m ≤ E_n for |m| ≤ |n|.
+- Global well-posedness in the temporal gauge, taken from Keel.
+
+## Key results
+
+- **The conjecture** (§1, p. 1): "In 1973 Nielsen and Olesen [20]
+  conjectured a relationship between the abelian Higgs model in R1+3 and
+  the Nambu-Goto action". The vortex lines, they "argued, should sweep out
+  worldsheets that are approximately governed by the Nambu-Goto action".
+- **The result** (abstract): "given a worldsheet of a string, we construct
+  initial data such that the corresponding solution of the abelian Higgs
+  model will concentrate near the evolution of the string. Moreover, the
+  constructed solution stays close to the Nielsen-Olesen vortex solution."
+  Theorem 1.4 bounds the field's distance from the Nielsen–Olesen profile
+  near the surface, and the energy away from it, by Cε² on a finite time
+  interval.
+- **Sectors** (§1.3, eqs. 1.13–1.14): the vorticity's integral is in πZ
+  for every finite-energy configuration, which "belongs to exactly one of
+  the sets" H_n, the weak homotopy classes.
+- **Stability depends on the coupling** (Remark 1.1): the symmetric
+  vortex "f(r)e^{inθ}" is "linearly stable if |n| = 1 or λ ≤ 1, and
+  linearly unstable" if λ > 1 and |n| ≥ 2, "and hence not even a local
+  energy minimizer".
+- **The remaining gap** (Remarks 1.2, 1.8): Jaffe and Taubes's conjecture
+  "is known to be true in the case λ = 1" and for large λ, and is
+  otherwise open. Nielsen and Olesen's "exact scenario" is established in
+  those cases.
+- **The bound** (§2, eq. 2.1): an identity "due to Bogomol'nyi", saturated
+  at λ = 1, where E_m = π|m| (eq. 2.3).
+
+## Concepts
+
+The abelian Higgs model; the Nielsen–Olesen vortex; the Nambu–Goto action
+and timelike minimal surfaces; quantized vorticity; weak homotopy classes;
+the Bogomol'nyi identity and critical coupling; the Jaffe–Taubes
+conjecture.
+
+## Bearing on the record
+
+- **CLAIM-606, the topological route.** A codimension-2 topological
+  structure that persists as an extended object and moves by the geometry
+  of a surface. Persistence is shown on a finite interval for constructed
+  initial data. Nothing is shown about how such a line forms or ends.
+- **THEORY-1507.** An independent statement, outside Tong (NOTE-1694),
+  of its vortex clause: sectors labelled by a quantized charge, and the
+  energy bounded through Bogomol'nyi's identity, the bound saturated at
+  critical coupling. It also qualifies the clause "the soliton saturates
+  the bound". Away from critical coupling the bound is not saturated, and
+  above it the symmetric vortex of charge |n| ≥ 2 is not even a local
+  minimizer. The charge fixes the sector; whether the sector's
+  configuration is one core or several is a question of the coupling.
+- **TERM-088.** The dynamical sense. The vortex line's identity, as a line
+  located by where the energy concentrates, persists under the field
+  dynamics.
+
+## Connections
+
+Stands in for Nielsen & Olesen (1973), LIT-tmphbd2x, for:
+
+- the setting;
+- the conjecture as reported;
+- the quantization;
+- the Bogomol'nyi structure, which it attributes to Bogomol'nyi.
+
+It does not restate that paper's own equations, its superconductor
+argument or its strong-coupling speculation.
+
+## Limitations
+
+The proofs were not read. The paper is mathematics only. The time interval
+is finite, and the initial data are constructed, not generic.
