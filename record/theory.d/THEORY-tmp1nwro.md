@@ -20,7 +20,7 @@ date: '2026-11-15'
 source:
 - LIT-tmpp9037
 summary: >-
-  Ma, Wang, Xu, Ling & Gu (2025), LIT-tmpp9037, read in NOTE-tmpqcif3.
+  Ma, Wang, Xu, Ling & Gu (2025), [LIT-tmpp9037](../literature.d/LIT-tmpp9037.md), read in [NOTE-tmpqcif3](../notes.d/NOTE-tmpqcif3.md).
   The causal reading rests on a perturbation upper bound for a proxy
   quantity, on the rise of the condition number with edits, and on a
   correlation between that rise and the decline (C.5). The remedy's
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Ma et al. (2025), LIT-tmpp9037, read in full in NOTE-tmpqcif3.
+Ma et al. (2025), [LIT-tmpp9037](../literature.d/LIT-tmpp9037.md), read in full in [NOTE-tmpqcif3](../notes.d/NOTE-tmpqcif3.md).
 
 ## What was actually shown
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-15 (NOTE-tmpqcif3) from arXiv v3 (ICLR 2025).
+  read in full 2026-11-15 ([NOTE-tmpqcif3](../notes.d/NOTE-tmpqcif3.md)) from arXiv v3 (ICLR 2025).
   Worth reading as the record's first account of why sequential model
   editing erodes general abilities, through the condition number of the
   edited matrix. The account rests on an upper bound and a correlation,
@@ -55,7 +55,7 @@ arXiv:2405.16821.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqcif3.*
+*From the reading, [NOTE-tmpqcif3](../notes.d/NOTE-tmpqcif3.md).*
 
 - **The thesis.** "the factor affecting the general abilities in
   sequential model editing lies in the condition number of the edited
@@ -77,7 +77,7 @@ arXiv:2405.16821.
 
 Filed on 2026-11-15 at the owner's request, beside AlphaEdit
 (dmarx/nucleation#501) and MuEdit (dmarx/nucleation#499). It extends the
-record's editing line (ROME, LIT-1536; MEMIT, LIT-1582 and THEORY-1031;
-Hase et al., LIT-1578). It also adds the record's first account of why
+record's editing line (ROME, [LIT-1536](LIT-1536.md); MEMIT, [LIT-1582](LIT-1582.md) and [THEORY-1031](../theory.d/THEORY-1031.md);
+Hase et al., [LIT-1578](LIT-1578.md)). It also adds the record's first account of why
 editing accumulates damage. The method is practice and carries the
 `anthology-candidate` flag.

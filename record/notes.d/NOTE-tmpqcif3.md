@@ -108,23 +108,23 @@ and every stored association becomes more sensitive to the next change.
 
 ## Connections
 
-PRUNE edits on top of MEND, ROME and MEMIT (LIT-1536, LIT-1582),
-assuming their key–value reading (LIT-1576, THEORY-1030; THEORY-1039).
+PRUNE edits on top of MEND, ROME and MEMIT ([LIT-1536](../literature.d/LIT-1536.md), [LIT-1582](../literature.d/LIT-1582.md)),
+assuming their key–value reading ([LIT-1576](../literature.d/LIT-1576.md), [THEORY-1030](../theory.d/THEORY-1030.md); [THEORY-1039](../theory.d/THEORY-1039.md)).
 AlphaEdit (dmarx/nucleation#501) adds its projector to PRUNE as a
 plug-in and reports gains. MuEdit (dmarx/nucleation#499) groups it with
 AlphaEdit as a sequential editor and finds it weaker across domains.
 
 ## Bearing on the record
 
-- **THEORY-1031** (MEMIT, one batch of 10,000 on GPT-J). PRUNE runs
+- **[THEORY-1031](../theory.d/THEORY-1031.md)** (MEMIT, one batch of 10,000 on GPT-J). PRUNE runs
   MEMIT one fact at a time and finds it collapsing downstream by 100
   edits on LLaMA-2. A different regime, so no conflict, but any account
   of MEMIT's scaling should say that sequential MEMIT is fragile. No note
   filed.
-- **THEORY-1039 / THEORY-1030** (the key–value reading). It is assumed,
+- **[THEORY-1039](../theory.d/THEORY-1039.md) / [THEORY-1030](../theory.d/THEORY-1030.md)** (the key–value reading). It is assumed,
   not tested. Damage tracking the update's spectrum would occur whether
   or not the layer stores facts. No note filed.
-- **NOTE-1197** (the MEMIT reading). Its scaling note, sequential ROME
+- **[NOTE-1197](NOTE-1197.md)** (the MEMIT reading). Its scaling note, sequential ROME
   "holds to about n = 10 and degrades from n = 32", is the record's
   earlier evidence of sequential degradation, and agrees with this one.
 
