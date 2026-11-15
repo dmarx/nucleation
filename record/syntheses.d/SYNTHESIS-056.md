@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpvvtbk
 title: 'An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members'' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,20 @@ history:
     as their companions do; the account's descriptions of their
     lines follow. Reported by the synthesis review of 2026-11-11
     (seventh round). No other change.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    At the synthesis review of organizational-normativity on
+    2026-11-15: ten entries filed from 2026-11-11 to 2026-11-13 carry
+    distributed-agency and fall in this part's scope, on what an
+    organization can see, take up and correct, and no account held
+    them. CLAIM-652, CLAIM-656, CLAIM-657, CLAIM-662, QUESTION-456,
+    QUESTION-461, CASE-232, CASE-246, CASE-247 and CASE-257 are added
+    to `integrates`, to a new subsection of the account, to the
+    components and to the links. All but CLAIM-656 and CASE-247 have
+    organizational-normativity first, and that line's part accounts,
+    SYNTHESIS-tmpvdeqh and SYNTHESIS-tmpc1ohg, set them out too. The
+    introduction's counts of pairs are version 2's. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the distributed-agency line on perspectives, legibility
@@ -95,7 +109,18 @@ integrates:
 - TERM-081
 - TERM-083
 - TERM-085
+- CLAIM-652
+- CLAIM-656
+- CLAIM-657
+- CLAIM-662
+- QUESTION-456
+- QUESTION-461
+- CASE-232
+- CASE-246
+- CASE-247
+- CASE-257
 ---
+<!-- inactive-ok-file: CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-662 CLAIM-669 CLAIM-682 CLAIM-686 CASE-246 CASE-247 CASE-257 SYNTHESIS-tmpvdeqh SYNTHESIS-tmpc1ohg — Proposed; components and citations added at version 3, with their standing -->
 <!-- inactive-ok-file: QUESTION-253 — Answered; cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ARG-025 ARG-048 ARG-055 ARG-063 ARG-064 ARG-066 ARG-073 CASE-163 CASE-164 CASE-166 CASE-173 CASE-177 CASE-194 CASE-221 CASE-222 CASE-223 CASE-228 CASE-229 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-327 CLAIM-329 CLAIM-332 CLAIM-336 CLAIM-355 CLAIM-415 CLAIM-417 CLAIM-423 CLAIM-430 CLAIM-432 CLAIM-440 CLAIM-445 CLAIM-446 CLAIM-451 CLAIM-472 CLAIM-511 CLAIM-545 CLAIM-553 CLAIM-610 CLAIM-611 CLAIM-614 CLAIM-615 CLAIM-619 CLAIM-620 CLAIM-622 CLAIM-624 SYNTHESIS-020 SYNTHESIS-025 SYNTHESIS-035 SYNTHESIS-038 SYNTHESIS-039 SYNTHESIS-041 SYNTHESIS-044 TERM-063 TERM-080 TERM-081 TERM-083 TERM-086 THEORY-916 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-047 — Rejected; components and citations, with their standing -->
@@ -315,6 +340,55 @@ includes distributed-agency.*
   organizational-normativity) rests on [CLAIM-445](../claims.d/CLAIM-445.md) and concludes [CLAIM-624](../claims.d/CLAIM-624.md):
   "the reproductive mechanism transfers and the verdict does not".
 
+### Becoming less informed, and dependence that does not become authority
+
+Added at version 3. Each component is also in organizational-normativity,
+and SYNTHESIS-tmpvdeqh or SYNTHESIS-tmpc1ohg sets it out there.
+
+- **Two routes to being less informed.** CLAIM-652 (the assistant's,
+  accepted by the owner on 2026-11-12; thesis, demonstrated, Proposed;
+  first line organizational-normativity) rests on CLAIM-655, grounds in
+  CASE-246, bears on QUESTION-441 and complements CLAIM-662 and CLAIM-619:
+  an organization that weighs a harmful practice by the failures its
+  present users report "can expand the practice with no act against
+  complaint", as the harmed leave. CASE-246 (the assistant's toy;
+  stipulated, Proposed; first line organizational-normativity) illustrates
+  CLAIM-655. CLAIM-662 (A's, narrowed by the owner's review of #485; thesis,
+  demonstrated, Proposed; first line organizational-normativity) rests on
+  CLAIM-347 and bears on QUESTION-441 and QUESTION-456: where governance
+  penalizes newly recognized violations without rewarding their discovery,
+  an organization "may acquire an incentive not to improve its
+  identification of its obligations". QUESTION-456 (A's; Open; first line
+  organizational-normativity) refines QUESTION-129. CLAIM-657 (the
+  owner's, from the review of #485; thesis, interpretive, Proposed; first
+  line organizational-normativity) rests on CLAIM-652 and CLAIM-662 and
+  complements CLAIM-619 and CLAIM-624: the two routes need no deliberate
+  suppression and "both differ from the counter-corrective weakening of
+  the channels through which challenge succeeds".
+- **News.** CLAIM-656 (the owner's U16 of "Medical Ethics and Media
+  Enshitification"; thesis, interpretive, Proposed; also
+  organizational-normativity) rests on CLAIM-658, grounds in CASE-247 and
+  bears on QUESTION-441: optimizing for attention works against
+  investigative journalism. CASE-247 (A's thought experiment; stipulated,
+  Proposed; also organizational-normativity) illustrates CLAIM-656,
+  CLAIM-342 and CLAIM-463.
+- **A mechanism another installed.** CASE-232 (Stute's story; specimen,
+  stipulated, Active; first line organizational-normativity) illustrates
+  CLAIM-522 and bears on QUESTION-449: a compiler Trojan reproduced by the
+  host's own compiling and hidden from it.
+- **Contribution without authority.** QUESTION-461 (A's, "About Plantation
+  Paradise"; Open; first line organizational-normativity) asks when an
+  organization's dependence on participants it subordinates increases
+  their effective authority, and when it reproduces the arrangements that
+  keep their contributions from becoming effective claims. Its body cites
+  CLAIM-403 ("Admission is not authority"), CLAIM-614, CLAIM-624 and
+  CLAIM-619. CASE-257 (the Saint-Domingue theatres, as A reported them;
+  specimen, documented as reported, Proposed; first line
+  organizational-normativity) bears on it and illustrates CLAIM-403,
+  CLAIM-348 and CLAIM-546, and leaves the mechanism that kept the
+  contributors from standing as an interpretation for QUESTION-461 to
+  test.
+
 ### Concepts, and moral terms
 
 - **Concepts individuated by transmission.** [CLAIM-620](../claims.d/CLAIM-620.md) (A's integration
@@ -392,6 +466,18 @@ includes distributed-agency.*
   organizational-normativity; bears on [QUESTION-441](../questions.d/QUESTION-441.md).
 - [ARG-055](../arguments.d/ARG-055.md) (first line organizational-normativity), [ARG-063](../arguments.d/ARG-063.md) and [ARG-064](../arguments.d/ARG-064.md)
   (first line organizational-normativity), Proposed, concluding [CLAIM-624](../claims.d/CLAIM-624.md).
+- CLAIM-652, the assistant's; thesis, demonstrated, Proposed; first line
+  organizational-normativity. CLAIM-662, A's, narrowed by the owner; thesis,
+  demonstrated, Proposed; first line organizational-normativity. CLAIM-657,
+  the owner's; thesis, interpretive, Proposed; first line
+  organizational-normativity. CLAIM-656, the owner's; thesis, interpretive,
+  Proposed; also organizational-normativity.
+- CASE-246, the assistant's construction, stipulated, Proposed; CASE-247,
+  A's thought experiment, stipulated, Proposed; CASE-257, specimen,
+  documented as reported, Proposed; CASE-232, specimen, stipulated,
+  Active. All but CASE-247 first in organizational-normativity.
+- QUESTION-456 and QUESTION-461, A's, Open; first line
+  organizational-normativity.
 - [CLAIM-620](../claims.d/CLAIM-620.md), A's integration; thesis, interpretive, Proposed; first line
   pragmatic-transport; bears on [QUESTION-439](../questions.d/QUESTION-439.md) and [QUESTION-360](../questions.d/QUESTION-360.md).
 - [CASE-110](../cases.d/CASE-110.md), [CASE-111](../cases.d/CASE-111.md) and [CASE-132](../cases.d/CASE-132.md), constructions or thought-experiments,
@@ -525,6 +611,15 @@ includes distributed-agency.*
   [QUESTION-439](../questions.d/QUESTION-439.md), which names [CASE-222](../cases.d/CASE-222.md) and [CLAIM-620](../claims.d/CLAIM-620.md); [CASE-222](../cases.d/CASE-222.md) names
   [QUESTION-439](../questions.d/QUESTION-439.md) and [CLAIM-423](../claims.d/CLAIM-423.md).
 - **Moral terms.** [TERM-081](../terms.d/TERM-081.md) and [TERM-083](../terms.d/TERM-083.md) complement each other.
+- **Added at version 3.** CLAIM-652, CLAIM-662, CLAIM-657 and CLAIM-656 bear
+  on QUESTION-441, as do CASE-246 and CASE-247. CLAIM-652 grounds in
+  CASE-246 and complements CLAIM-662 and CLAIM-619; CLAIM-662 complements
+  CLAIM-619 and bears on QUESTION-456, which refines QUESTION-129;
+  CLAIM-657 rests on CLAIM-652 and CLAIM-662 and complements CLAIM-619 and
+  CLAIM-624. CLAIM-656 grounds in CASE-247, which illustrates it and
+  CLAIM-463. CASE-257 illustrates CLAIM-403 and CLAIM-348 and bears on
+  QUESTION-461; QUESTION-461's body names CLAIM-403, CLAIM-614, CLAIM-624
+  and CLAIM-619.
 
 ## Links across to this part's sibling accounts, stated
 

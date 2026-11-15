@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmprhzl8
 title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line''s questions are replications of the readings it rests on'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-10'
@@ -35,6 +35,18 @@ history:
     gained QUESTION-399, CLAIM-604, CLAIM-606, QUESTION-416 and
     QUESTION-420. They are integrated, and the components' lines are
     given as they now stand, CLAIM-597's included. No link is added.
+- version: 6
+  date: '2026-11-15'
+  note: >-
+    At the synthesis review of organizational-normativity on
+    2026-11-15: CLAIM-669, CLAIM-670, CLAIM-671 and CLAIM-673, filed on
+    2026-11-12 and 2026-11-13 with organizational-normativity first and
+    transient-support second, are in this line and no account held
+    them. They are added to `integrates` and set out in a new section,
+    "Across to organizational-normativity", with their lines, and the
+    components list names them. CLAIM-675 and QUESTION-462, filed on
+    2026-11-13 and also on this line, are left out with a reason given
+    there. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the transient-support line left out without a reason given; or a link this account states that no component
@@ -83,7 +95,12 @@ integrates:
 - QUESTION-430
 - QUESTION-431
 - QUESTION-436
+- CLAIM-669
+- CLAIM-670
+- CLAIM-671
+- CLAIM-673
 ---
+<!-- inactive-ok-file: CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-673 CLAIM-675 SYNTHESIS-tmpc1ohg SYNTHESIS-tmpn88bi — Proposed; components and citations added at version 6, with their standing -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CLAIM-632 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
 
@@ -210,6 +227,10 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   a component by a relation or a mention; each reaches the line through a
   reading that [CLAIM-600](../claims.d/CLAIM-600.md), [CLAIM-601](../claims.d/CLAIM-601.md), [CLAIM-602](../claims.d/CLAIM-602.md) or [CLAIM-603](../claims.d/CLAIM-603.md) cites, and
   they are listed because their `line` field places them here.
+- CLAIM-669 and CLAIM-670, A's; thesis, interpretive, Proposed. CLAIM-671,
+  the owner's proposition; supposed, interpretive, Proposed. CLAIM-673,
+  A's; thesis, interpretive, Proposed. All four have
+  organizational-normativity first; added at version 6.
 
 ## Links the components state, and where
 
@@ -232,6 +253,52 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   [CLAIM-605](../claims.d/CLAIM-605.md) bear on [QUESTION-398](../questions.d/QUESTION-398.md); [QUESTION-398](../questions.d/QUESTION-398.md)'s notes record [CLAIM-602](../claims.d/CLAIM-602.md)'s
   and [CLAIM-604](../claims.d/CLAIM-604.md)'s models and [CLAIM-600](../claims.d/CLAIM-600.md)'s three conditions as answers in
   part.
+
+## Across to organizational-normativity
+
+Added at version 6. Four claims of the organizational-normativity line
+carry transient-support second; that line's part accounts set them out
+in full (SYNTHESIS-tmpc1ohg, SYNTHESIS-tmpn88bi). Each link here is a
+front-matter relation of the entry named first, unless a body is cited.
+
+- **Supply that produces a reliance, and uses it.** CLAIM-670 (A's,
+  "About Plantation Paradise", filed at the owner's review of #488;
+  thesis, interpretive, Proposed) rests on CLAIM-603, bears on
+  QUESTION-461 and complements CLAIM-669: by reliably supplying what a
+  party then ceases to supply for itself, an arrangement "creates a
+  reliance on the provider that the party did not have before", which the
+  provider can use to set terms the party could earlier have refused. Its
+  defeater sets aside "a produced reliance on fair terms, which is
+  CLAIM-603's division of labour and not exploitation". Its summary: "No
+  reading supports it yet."
+- **An encumbrance left by access.** CLAIM-669 (A's, narrowed after a
+  reading; thesis, interpretive, Proposed) bears on QUESTION-461 and
+  complements CLAIM-670: access to a needed good on terms that leave a
+  lasting encumbrance that narrows later exit, so that widening access
+  need not reduce exploitation. Its defeater cites CLAIM-603's division of
+  labour as not exploitation.
+- **Vulnerability, not integration.** CLAIM-671 (the owner's proposition
+  in the review of #488; supposed, interpretive, Proposed) bears on
+  QUESTION-460: a transformation that increases a constituent's
+  vulnerability to a responsible agent's discretion can, under an
+  independently justified principle, strengthen that agent's
+  responsibilities. Its body names CLAIM-603 as one route by which a
+  transformation can increase vulnerability, "not the mechanism".
+- **An arrangement that erodes the capacity to govern it.** CLAIM-673 (A's,
+  "Analyze technological civilization trap"; thesis, interpretive,
+  Proposed) rests on CLAIM-605 and complements CLAIM-462 and CLAIM-675:
+  where governing capacities are learned by exercise and lost with
+  disuse, and the arrangement does the work through which they are
+  exercised, it can erode them. Its summary: that governing capacities are
+  of CLAIM-605's kind "is the premise A assumes and the claim makes a
+  condition".
+
+**Left out, with the reason.** CLAIM-675 (transient-support first) and
+QUESTION-462 (flourishing-and-meaning first), filed on 2026-11-13 from the
+same exchange, carry this line and are integrated by no account. The
+review of 2026-11-15 covered the organizational-normativity line and the
+accounts its entries fall in, and did not audit them; they are for this
+line's next review.
 
 ## Links across to the readiness line, stated
 

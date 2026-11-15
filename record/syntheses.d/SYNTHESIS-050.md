@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpg8tir
 title: 'Conferral among an organization''s processes is any effect on another''s share of future influence, and a grant is conferral through a maintained relation; how grants are counted and scored decides whether authority tracks reliability or entrenches: an accounting rule can keep an operator''s authority independent of its own grants, trust can be the regularity of grants earned by being right, and when authority is scored against the interpretation it helped make dominant the same loop can amplify an initial advantage without fidelity, which in the linear model only the two-way coupling starts and independent scoring removes; capture runs through the evidence an evaluation receives or the criteria it weighs by, with different remedies, and the standard that would tell capture from merited trust is not supplied'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    At the synthesis review of organizational-normativity on
+    2026-11-15: CLAIM-690 and CASE-264, filed on 2026-11-13 with
+    distributed-agency second, rest on and contrast with CLAIM-428,
+    which this part holds, and no account held them. They are added
+    to `integrates`, to the account beside CLAIM-428, to the
+    components and to the links. That line's part account
+    SYNTHESIS-tmpc1ohg sets them out too. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the conferral part of the distributed-agency line left out without a
@@ -119,7 +130,11 @@ integrates:
 - QUESTION-314
 - QUESTION-322
 - QUESTION-372
+- CLAIM-690
+- CASE-264
 ---
+<!-- inactive-ok-file: ARG-110 — Proposed; cited at version 2 -->
+<!-- inactive-ok-file: CLAIM-690 CASE-264 CLAIM-671 TERM-124 SYNTHESIS-tmpc1ohg — Proposed; components and citations added at version 2, with their standing -->
 <!-- inactive-ok-file: ADR-075 ARG-036 ARG-044 CASE-163 CASE-166 CLAIM-271 CLAIM-274 CLAIM-276 CLAIM-281 CLAIM-285 CLAIM-286 CLAIM-327 CLAIM-336 CLAIM-337 CLAIM-338 CLAIM-367 CLAIM-417 CLAIM-428 CLAIM-430 CLAIM-445 CLAIM-446 CLAIM-451 CLAIM-500 CLAIM-511 CLAIM-553 CLAIM-624 SYNTHESIS-036 SYNTHESIS-037 SYNTHESIS-038 SYNTHESIS-039 SYNTHESIS-044 TERM-066 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-278 TERM-053 CLAIM-427 — Superseded; CLAIM-278 and TERM-053 are components the part's links run through, and CLAIM-427 is named by components as they stand -->
 <!-- inactive-ok-file: ARG-042 — Rejected; a component, the verdict on support that CLAIM-520 undercuts -->
@@ -363,6 +378,16 @@ through them. It adds nothing; its standing is its components'.*
   the two side by side. [CLAIM-428](../claims.d/CLAIM-428.md) (A's, on the owner's U6, Proposed) is
   "the commercial-peace debate read through [CLAIM-429](../claims.d/CLAIM-429.md)", grounded in
   [CASE-150](../cases.d/CASE-150.md) (documented, Active), which shows the material level only.
+  Added at version 2: CLAIM-690 (the assistant's, accepted by the owner on
+  2026-11-13; thesis, interpretive, Proposed; first line
+  organizational-normativity) rests on CLAIM-428, grounds in CASE-264 and
+  uses TERM-124: whichever way a whole and its part depend on each other,
+  "what sorts it is who controls the terms on which it is met", while
+  "the magnitude and the integration that produced it set only how much
+  rides on it". CASE-264 (the assistant's; thought experiment, fictional,
+  Proposed; first line organizational-normativity) holds dependence,
+  integration and membership fixed in two sense-1 workshops (TERM-074)
+  and varies control over the terms.
 - **The open questions.** [QUESTION-100](../questions.d/QUESTION-100.md) (Open) asks, beyond the
   linearization, when the coupling produces "stable expertise" and when
   "self-reinforcing interpretive capture"; it refines [QUESTION-087](../questions.d/QUESTION-087.md)
@@ -478,7 +503,10 @@ a work's.
   documented, Active. [CLAIM-429](../claims.d/CLAIM-429.md), A's, thesis, interpretive, Active;
   rests on [CLAIM-297](../claims.d/CLAIM-297.md) and [CLAIM-330](../claims.d/CLAIM-330.md). [CLAIM-428](../claims.d/CLAIM-428.md), A's, thesis,
   interpretive, Proposed. [CASE-150](../cases.d/CASE-150.md), a reported study, documented,
-  Active.
+  Active. CLAIM-690, the assistant's, thesis, interpretive, Proposed;
+  first line organizational-normativity. CASE-264, the assistant's,
+  fictional thought experiment, Proposed; first line
+  organizational-normativity.
 - [QUESTION-087](../questions.d/QUESTION-087.md), [QUESTION-089](../questions.d/QUESTION-089.md), [QUESTION-091](../questions.d/QUESTION-091.md), [QUESTION-094](../questions.d/QUESTION-094.md), [QUESTION-100](../questions.d/QUESTION-100.md),
   [QUESTION-117](../questions.d/QUESTION-117.md), [QUESTION-121](../questions.d/QUESTION-121.md), [QUESTION-124](../questions.d/QUESTION-124.md), [QUESTION-259](../questions.d/QUESTION-259.md), [QUESTION-262](../questions.d/QUESTION-262.md),
   [QUESTION-264](../questions.d/QUESTION-264.md), [QUESTION-271](../questions.d/QUESTION-271.md), [QUESTION-273](../questions.d/QUESTION-273.md) and [QUESTION-285](../questions.d/QUESTION-285.md), Open.
@@ -636,6 +664,10 @@ a work's.
   [CLAIM-359](../claims.d/CLAIM-359.md) and [CASE-108](../cases.d/CASE-108.md) as its converse; [QUESTION-372](../questions.d/QUESTION-372.md) refines it.
   [QUESTION-089](../questions.d/QUESTION-089.md) names [CLAIM-279](../claims.d/CLAIM-279.md); [QUESTION-271](../questions.d/QUESTION-271.md) names [TERM-101](../terms.d/TERM-101.md), [CLAIM-277](../claims.d/CLAIM-277.md),
   [CLAIM-443](../claims.d/CLAIM-443.md), [CASE-155](../cases.d/CASE-155.md) and [CASE-124](../cases.d/CASE-124.md) as the evaluations it asks about.
+- **Added at version 2.** CLAIM-690 rests on CLAIM-428 and grounds in
+  CASE-264; both bear on QUESTION-461, QUESTION-460 and QUESTION-468, in
+  organizational-normativity. ARG-110, in that line, rests on CLAIM-428
+  and CLAIM-671 and concludes CLAIM-690.
 
 ## Links to other parts, stated
 
