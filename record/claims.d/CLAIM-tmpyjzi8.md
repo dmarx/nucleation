@@ -47,6 +47,7 @@ summary: >-
   its own interpretation, not an established theory. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpl2w4q LIT-tmpd09c2 LIT-tmp55sg8 LIT-tmpw46qz — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-669 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->
 
@@ -122,4 +123,4 @@ which those commitments are exercised**."
   transfer costs and responsibilities onto those least able to refuse
   them.**"
 - **What Robillard and Strawser, Keller or Tronto hold.** A15 names them as
-  its foundations; all three are registered unread.
+  its foundations; all are registered unread (LIT-tmpl2w4q, LIT-tmpd09c2, LIT-tmp55sg8, LIT-tmpw46qz).

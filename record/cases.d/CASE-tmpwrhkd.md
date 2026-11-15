@@ -24,6 +24,7 @@ summary: >-
   CASE-264's two workshops. The wording is A's; adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: LIT-tmpyfuuw LIT-tmp77bag — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CASE-264 — Proposed; the record's contrast of the same shape, cited with its standing -->
 
 # CASE-tmpwrhkd: Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit
@@ -60,7 +61,7 @@ apart in either direction: A has mutual wrongdoing with no domination, and
 B has the more frequent wrongdoer as the dominated party. A3 names the
 pattern in Johnson's typology (situational couple violence, coercive
 controlling violence, violent resistance, mutual violent control), which
-the record registers unread.
+the record registers unread (LIT-tmpyfuuw), with Stark on coercive control (LIT-tmp77bag).
 
 ## What it cannot show
 

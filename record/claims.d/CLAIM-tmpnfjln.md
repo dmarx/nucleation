@@ -45,6 +45,7 @@ summary: >-
   is the record's nearest specimen. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp4gcqt LIT-tmpw46qz LIT-tmp4yz7x — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpyjzi8 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-678 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 
@@ -139,5 +140,5 @@ A17 §8 lists three ways the frameworks go wrong:
   alter blame in the expected ways". A19's own conclusion: "So the strong
   claim that algorithms reliably allow decision-makers to evade public
   blame isn't established."
-- **What Elish and Tronto say.** Both are registered unread; the readings
+- **What Elish and Tronto say.** Both are registered unread (Elish, LIT-tmp4gcqt; Tronto, LIT-tmpw46qz and LIT-tmp4yz7x); the readings
   are A's report.

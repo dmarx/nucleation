@@ -36,6 +36,7 @@ summary: >-
   both sound, and its circumstances are what is set. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp55sg8 — Deferred; Keller, registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-235 — Proposed; a reading of manipulation, cited with its standing -->
 
@@ -98,5 +99,5 @@ to perform some specific act", and "The inference is frequently invalid."
 
 - **That Bob may refuse.** The dog's welfare still matters: "Alice's
   wrongdoing doesn't magically erase Bob's reasons to prevent suffering."
-- **What Keller says.** The paper is registered and unread; the
+- **What Keller says.** The paper (LIT-tmp55sg8) is registered and unread; the
   attribution and the case's closeness to Keller's own are A's report.
