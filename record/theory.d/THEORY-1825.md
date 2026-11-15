@@ -1,5 +1,8 @@
 ---
+number: 1825
 status: Active
+formerly:
+- THEORY-tmplznge
 title: 'On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China'
 version: 2
 history:
@@ -17,7 +20,7 @@ history:
     text and Table 1 disagree. It does not need the field shift to be
     shown to be a phase transition, which the title attributes to the
     authors and does not assert.' At the owner's request the code was
-    read and its update rules reimplemented and rerun (NOTE-tmpmu9w0,
+    read and its update rules reimplemented and rerun (NOTE-1903,
     "The authors' code, rerun"). From random starts the outcome splits
     between shrubland and grassland at s = 0.70–0.74. Against a 1%
     invasion by the other type, both states persist from s ≈ 0.48 to at
@@ -30,12 +33,12 @@ tags:
 - complex-systems
 date: '2026-11-14'
 source:
-- LIT-tmpruadv
+- LIT-2546
 bears_on:
 - QUESTION-281
 summary: >-
   Sun, Yu, Li, Rietkerk, D'Odorico, Chen, Wang, Zhang & Yu (2026),
-  [LIT-tmpruadv](../literature.d/LIT-tmpruadv.md), read in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md). The model's bistability is shown
+  [LIT-2546](../literature.d/LIT-2546.md), read in [NOTE-1903](../notes.d/NOTE-1903.md). The model's bistability is shown
   (Fig. 3C, with hysteresis in SI Fig. S2, unread). The field's is
   inferred from alternation between plots, nonlinear cover change and
   rising spatial skewness, none of which is specific to a first-order
@@ -49,11 +52,11 @@ summary: >-
   desert-edge results come from scenarios set by hand.
 ---
 
-# THEORY-tmplznge: On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China
+# THEORY-1825: On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China
 
 ## Source
 
-Sun et al. (2026), [LIT-tmpruadv](../literature.d/LIT-tmpruadv.md), read in full in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md) from the
+Sun et al. (2026), [LIT-2546](../literature.d/LIT-2546.md), read in full in [NOTE-1903](../notes.d/NOTE-1903.md) from the
 publisher's PDF that the owner supplied. The SI, the dataset and the code
 were not read.
 
@@ -109,7 +112,7 @@ were not read.
 
 On 2026-11-14 the update rules of the authors' notebook were
 reimplemented and rerun at Table 1's parameters (200 × 200 lattice,
-1,000 steps). The details are in [NOTE-tmpmu9w0](../notes.d/NOTE-tmpmu9w0.md), "The authors' code,
+1,000 steps). The details are in [NOTE-1903](../notes.d/NOTE-1903.md), "The authors' code,
 rerun".
 
 - From sparse random starts, shrubs win at s ≤ 0.68 and grasses at s ≥

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1489 document(s) awaiting a decision.**
+**1490 document(s) awaiting a decision.**
 
 ## LITs
 
-90 of the 1489.
+90 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-888 of the 1489.
+888 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1001,7 +1001,7 @@
 
 ## ADRs
 
-24 of the 1489.
+24 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1032,7 +1032,7 @@
 
 ## QUESTIONs
 
-6 of the 1489.
+6 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1045,7 +1045,7 @@
 
 ## CLAIMs
 
-252 of the 1489.
+252 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1304,7 +1304,7 @@
 
 ## CASEs
 
-68 of the 1489.
+69 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1376,10 +1376,11 @@
 | 2026-11-12 | Proposed | [CASE-237](../../record/cases.d/CASE-237.md) | 0 | 1 | 0 | Two complementary capacities whose success probabilities each rise from 0.8 to 0.85 while the probability that both hold falls from 0.8 to 0.7, because they went from failing together to failing apart |
 | 2026-11-12 | Proposed | [CASE-251](../../record/cases.d/CASE-251.md) | 0 | 1 | 0 | A proposed study of curation completeness: an agent given a source and the record as it stood before a filing produces the filing's accounting, scored against the filing together with its later corrections |
 | 2026-11-13 | Proposed | [CASE-256](../../record/cases.d/CASE-256.md) | 0 | 4 | 0 | Member and non-member under one arrangement: a person's vulnerability, the controlling actors' capacities and the institutional consequences held fixed, with the person a constituent of the organization in one case and affected by the same arrangement without being a constituent in the other, to test whether membership adds an obligation |
+| 2026-11-14 | Proposed | [CASE-258](../../record/cases.d/CASE-258.md) | 0 | 3 | 1 | Fairy circles in Sun and colleagues' shrub–grass kernel model, rerun: the hollow rings are made by the kernel contraction imposed by hand, with or without grass, and grass erodes them rather than holding them in balance, so the model does not show a form whose making and keeping are separate mechanisms |
 
 ## TERMs
 
-24 of the 1489.
+24 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1410,7 +1411,7 @@
 
 ## ARGs
 
-58 of the 1489.
+58 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1475,7 +1476,7 @@
 
 ## SYNTHESISs
 
-79 of the 1489.
+79 of the 1490.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

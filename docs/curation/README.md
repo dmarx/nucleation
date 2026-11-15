@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [14 Nov 20:41 — Sun et al. (2026), a dryland shrub–grass phase transition, read and filed: registered Unfetched behind pnas.org's bot check, then read in full from the owner's copy](2026-11.md#sun-et-al-2026-a-dryland-shrubgrass-phase-transition-read-and-filed-registered-unfetched-behind-pnasorgs-bot-check-then-read-in-full-from-the-owners-copy)
 - [12 Nov 20:45 — The exchange "About Plantation Paradise" filed: not on the record before; the owner's question what a whole owes its constituent parts; A's question on when dependence on subordinated participants becomes their authority, two of A's claims and the colonial theatre of Saint-Domingue as a reported case; seventeen dated notes; and twenty-five cited works registered unread](2026-11.md#the-exchange-about-plantation-paradise-filed-not-on-the-record-before-the-owners-question-what-a-whole-owes-its-constituent-parts-as-question-on-when-dependence-on-subordinated-participants-becomes-their-authority-two-of-as-claims-and-the-colonial-theatre-of-saint-domingue-as-a-reported-case-seventeen-dated-notes-and-twenty-five-cited-works-registered-unread)
 - [12 Nov 02:26 — The exchange "Medical Ethics and Media Enshitification" filed: none of it was held, and most of its argument maps onto entries the record already has; the owner's microchimerism link, parasite question, heavy-user drift, loot-box test, news extension and PASS@(k,T) link; ten of A's claims, questions and cases; five ARGs; forty dated notes; three works read, four Unfetched and ninety-six registered unread](2026-11.md#the-exchange-medical-ethics-and-media-enshitification-filed-none-of-it-was-held-and-most-of-its-argument-maps-onto-entries-the-record-already-has-the-owners-microchimerism-link-parasite-question-heavy-user-drift-loot-box-test-news-extension-and-passkt-link-ten-of-as-claims-questions-and-cases-five-args-forty-dated-notes-three-works-read-four-unfetched-and-ninety-six-registered-unread)
 - [12 Nov 02:14 — The exchange "luria experiment design" filed: the anthology triage left to the anthology; three of the owner's questions on luria (governed schema change, distributed integration through a shared record, recursive improvement); A's term for a shared epistemic state, four of A's claims, four proposed studies and two ARGs; one account; twenty-three dated notes; and thirty-three more cited works registered unread](2026-11.md#the-exchange-luria-experiment-design-filed-the-anthology-triage-left-to-the-anthology-three-of-the-owners-questions-on-luria-governed-schema-change-distributed-integration-through-a-shared-record-recursive-improvement-as-term-for-a-shared-epistemic-state-four-of-as-claims-four-proposed-studies-and-two-args-one-account-twenty-three-dated-notes-and-thirty-three-more-cited-works-registered-unread)
@@ -61,10 +62,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-249 entries across 3 books, newest first.
+250 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 52 | 2026-11-01 | 2026-11-12 |
+| [2026-11](2026-11.md) | 53 | 2026-11-01 | 2026-11-14 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
