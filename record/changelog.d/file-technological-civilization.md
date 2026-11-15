@@ -119,3 +119,4 @@
   exit, with a new script, scratch/formal/capability_trap_reversibility.py
   (notes on [CLAIM-605](record/claims.d/CLAIM-605.md) and [CLAIM-tmpsmg1c](record/claims.d/CLAIM-tmpsmg1c.md)); and a proposed test of [CLAIM-603](record/claims.d/CLAIM-603.md)
   by the capability trajectory under withdrawal (note on [CLAIM-603](record/claims.d/CLAIM-603.md)).
+- CLAIM-tmpplibk narrowed to version 2 at the owner's request on PR #489: the industrialization of meaning holds only when measured meaningfulness becomes a target shaping participants' incentives or self-understanding; the four mechanisms it ran together are separated.

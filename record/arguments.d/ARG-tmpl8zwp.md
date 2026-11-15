@@ -44,3 +44,8 @@ summary: >-
 ## Verdict
 
 Proposed. [THEORY-tmp4ajaz](../theory.d/THEORY-tmp4ajaz.md) grounds the three claims' premises and nothing beyond them; the applications are A's, interpretive, and stand or fall as the claims' own.
+
+## Note of 2026-11-15: CLAIM-tmpplibk narrowed
+
+[CLAIM-tmpplibk](../claims.d/CLAIM-tmpplibk.md) is now version 2, at the owner's request. It applies Wolf's paradox only where an institution makes measured meaningfulness a target that shapes participants' incentives or self-understanding. Premise 3 above still holds: Wolf's paradox is what the self-understanding route needs. The scope gap this argument names for that claim is narrower now. The claim no longer says measurement as such recruits people into the paradox. It names the condition under which it does, and that condition is itself the empirical hypothesis to test.
+
