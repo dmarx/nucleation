@@ -205,12 +205,12 @@ relevant alternatives before authorized challenges can alter its course, the
 arrangement may retain nominal mechanisms of oversight while losing
 effective restraint. This loss can occur without any change in the content
 of the governing rules or the formal allocation of authority." A itself said
-it "would need to be checked against CLAIM-462, CLAIM-523, CLAIM-624", and
-it is this claim with CLAIM-464's fixed standards. A35's
+it "would need to be checked against CLAIM-462, [CLAIM-523](CLAIM-523.md), [CLAIM-624](CLAIM-624.md)", and
+it is this claim with [CLAIM-464](CLAIM-464.md)'s fixed standards. A35's
 "strongest formulation", that a system "can retain effective direction
 while losing effective self-correction", is the same. Neither is filed.
 
-What the exchange adds is a route. CLAIM-tmpfmmkt, filed from A35 §3:
+What the exchange adds is a route. [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md), filed from A35 §3:
 when challengeable decisions arrive faster than the corrective process
 resolves them, at most a share μ/λ of challenges can be resolved in time,
 whatever the order, while every affected party keeps the formal right. The
@@ -219,5 +219,5 @@ correction (the rate of resolution) are different, as this claim says, and
 raising the first degrades the second without touching it. A35 §8 states
 the claim as a shrinking reachable set of corrections,
 C(s_{t+1}, B, H) ⊊ C(s_t, B, H), with a required objective dropping out of
-it while the standard stays the same; that is TERM-085
-and CLAIM-464 in one line, and is mapped, not filed.
+it while the standard stays the same; that is [TERM-085](../terms.d/TERM-085.md)
+and [CLAIM-464](CLAIM-464.md) in one line, and is mapped, not filed.

@@ -28,13 +28,13 @@ summary: >-
   assumes. The wording is the filer's, of A's argument; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpp8na7 CLAIM-tmpnw7ez — filed with this argument, Proposed -->
+<!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpnw7ez — filed with this argument, Proposed -->
 
 # ARG-tmpsyaz2: A stipulated couple in which the partner who strikes more often is the one controlled shows that the count of wrongful acts and control over the terms of the relationship can come apart
 
 ## The inference
 
-1. In Relationship B of CASE-tmpwrhkd, Carol commits as many wrongful
+1. In Relationship B of [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md), Carol commits as many wrongful
    violent acts as Dan or more (stipulated: "Perhaps Carol has even struck
    Dan more times than Dan has struck Carol").
 2. Dan alone holds control over the terms of Carol's life: her money, her
@@ -57,7 +57,7 @@ Carol's acts and Dan's control are specified independently.
 For the first half of the claim, yes: count of wrongful acts on one side,
 control over the terms of the other's life on the other. For the second
 half, only with premise 5, which the case does not supply. Premise 5 is
-what the same exchange's claim CLAIM-tmpnw7ez states, that one can be
+what the same exchange's claim [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) states, that one can be
 responsible for the conditions of another's conduct. Without it, the case
 shows a separation in the facts and not yet in responsibility.
 

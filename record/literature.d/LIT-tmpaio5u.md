@@ -19,7 +19,7 @@ first_author: 'Lohmann'
 keywords: []
 implementations: []
 summary: >-
-  Lohmann et al. (2024). The Trauma and Mental Health Impacts of Coercive Control: A Systematic Review and Meta-Analysis. Trauma, Violence, & Abuse 25(1). DOI 10.1177/15248380231162972. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §1) on the distinction between violence and coercive control, and the evidence on it: Coercive control is associated with trauma and mental-health harm beyond physical violence. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. What the exchange says of it is unverified until read.
+  Lohmann et al. (2024). The Trauma and Mental Health Impacts of Coercive Control: A Systematic Review and Meta-Analysis. Trauma, Violence, & Abuse 25(1). DOI 10.1177/15248380231162972. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §1) on the distinction between violence and coercive control, and the evidence on it: Coercive control is associated with trauma and mental-health harm beyond physical violence. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Lohmann, Cowlishaw, Ney, O'Donnell, Felmingham (2024). *The Trauma and Mental He
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §1, on the distinction between violence and coercive control, and the evidence on it. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §1, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Not read.

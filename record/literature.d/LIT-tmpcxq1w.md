@@ -19,7 +19,7 @@ first_author: 'Stover'
 keywords: []
 implementations: []
 summary: >-
-  Stover et al. (2025). Scoping Review of Bidirectional Intimate Partner Violence Using Dyadic Data. Trauma, Violence, & Abuse. DOI 10.1177/15248380251316193. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §2) on the distinction between violence and coercive control, and the evidence on it: Dyadic reports of bidirectional IPV (34 US studies): partners' accounts diverge; how to measure mutual abuse. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. What the exchange says of it is unverified until read.
+  Stover et al. (2025). Scoping Review of Bidirectional Intimate Partner Violence Using Dyadic Data. Trauma, Violence, & Abuse. DOI 10.1177/15248380251316193. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §2) on the distinction between violence and coercive control, and the evidence on it: Dyadic reports of bidirectional IPV (34 US studies): partners' accounts diverge; how to measure mutual abuse. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Stover, Krauss, Yeterian, DeMoss, Funaro, Webermann, Presseau, Portnoy (2025). *
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §2, on the distinction between violence and coercive control, and the evidence on it. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §2, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Not read.

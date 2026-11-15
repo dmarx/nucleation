@@ -35,9 +35,9 @@ summary: >-
   A's, from A33 §3 and §5 of the exchange "Assess Depp Heard Abuse"
   (2026-11-15), at the owner's U16, which pointed to this record's work on
   resource-boundedness, slack and tolerance. Four links, each held: the
-  implicit moral subsidy (CLAIM-tmpyjzi8), quiet that is not satisfaction
-  (CLAIM-549), a budget cut toward present need removing transitions whose
-  thresholds lie above it (CLAIM-679), and reconfiguration slack (TERM-106).
+  implicit moral subsidy ([CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md)), quiet that is not satisfaction
+  ([CLAIM-549](CLAIM-549.md)), a budget cut toward present need removing transitions whose
+  thresholds lie above it ([CLAIM-679](CLAIM-679.md)), and reconfiguration slack ([TERM-106](../terms.d/TERM-106.md)).
   What the claim adds is the coupling: the subsidy's invisibility is what
   feeds the budget rule. A33 calls it "A possible reinforcing loop, not a
   universal prediction about institutions", and names the measurement link
@@ -45,7 +45,7 @@ summary: >-
   discriminating prediction. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyjzi8 CLAIM-tmpnfjln — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpyjzi8 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-679 CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 
@@ -84,20 +84,20 @@ quiescence and satisfaction".
 
 Each link is in the record:
 
-- **The subsidy.** CLAIM-tmpyjzi8, from the same exchange: conscientious
+- **The subsidy.** [CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md), from the same exchange: conscientious
   members cover what the institution does not fund, and the institution's
   observed performance includes their cover.
-- **Quiet is not satisfaction.** CLAIM-549 (Active): the
+- **Quiet is not satisfaction.** [CLAIM-549](CLAIM-549.md) (Active): the
   arrangements that keep perspectives below their activation thresholds are
-  not those that satisfy their demands. CLAIM-553 separates
+  not those that satisfy their demands. [CLAIM-553](CLAIM-553.md) separates
   acceptance, activation and intervention thresholds, so silence can be
   any of three things (A33 §6).
-- **The cut.** CLAIM-679: for a fixed architecture and one
+- **The cut.** [CLAIM-679](CLAIM-679.md): for a fixed architecture and one
   resource, cutting what is held toward what the present configuration
   needs keeps that configuration feasible and removes the transitions whose
-  thresholds lie above the cut. CLAIM-577 (Active): a budget
+  thresholds lie above the cut. [CLAIM-577](CLAIM-577.md) (Active): a budget
   set to last period's peak spend never rises.
-- **What is lost.** TERM-106, reconfiguration
+- **What is lost.** [TERM-106](../terms.d/TERM-106.md), reconfiguration
   slack: a transition between two holdable configurations can cost more
   than holding either.
 
@@ -108,7 +108,7 @@ further below the cost of leaving it. That coupling is the claim.
 
 ## Admission
 
-By a discriminating prediction (ADR-075). The components leave open whether
+By a discriminating prediction ([ADR-075](../decisions.d/ADR-075.md)). The components leave open whether
 an organization that relies on unmeasured compensation budgets differently
 from one that funds the same work. The claim predicts that, with budgets
 set from observed performance, the first loses reachable reconfigurations

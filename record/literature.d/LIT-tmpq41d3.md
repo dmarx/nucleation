@@ -20,7 +20,7 @@ first_author: 'Ozer'
 keywords: []
 implementations: []
 summary: >-
-  Ozer et al. (2024). The Paradox of Algorithms and Blame on Public Decision-makers. Business and Politics 26(2): 200-. DOI 10.1017/bap.2023.35. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §9) on responsibility and blame in algorithmic decision-making: Two preregistered survey experiments on blame toward judges who use algorithmic advice. It bears on CLAIM-tmpnfjln. What the exchange says of it is unverified until read.
+  Ozer et al. (2024). The Paradox of Algorithms and Blame on Public Decision-makers. Business and Politics 26(2): 200-. DOI 10.1017/bap.2023.35. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §9) on responsibility and blame in algorithmic decision-making: Two preregistered survey experiments on blame toward judges who use algorithmic advice. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -34,4 +34,4 @@ Ozer, Waggoner, Kennedy (2024). *The Paradox of Algorithms and Blame on Public D
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §9, on responsibility and blame in algorithmic decision-making. It bears on CLAIM-tmpnfjln. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §9, on responsibility and blame in algorithmic decision-making. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.

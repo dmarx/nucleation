@@ -19,7 +19,7 @@ first_author: 'Tronto'
 keywords: []
 implementations: []
 summary: >-
-  Tronto (2013). Caring Democracy: Markets, Equality, and Justice. New York University Press. DOI 10.18574/nyu/9780814770450.001.0001. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A17 §2, §7; A17 reading list) on the distribution of care and privileged irresponsibility: Develops privileged irresponsibility; democracy as the allocation of caring responsibilities. It bears on CLAIM-tmpnfjln, CLAIM-tmpyjzi8. What the exchange says of it is unverified until read.
+  Tronto (2013). Caring Democracy: Markets, Equality, and Justice. New York University Press. DOI 10.18574/nyu/9780814770450.001.0001. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A17 §2, §7; A17 reading list) on the distribution of care and privileged irresponsibility: Develops privileged irresponsibility; democracy as the allocation of caring responsibilities. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Tronto (2013). *Caring Democracy: Markets, Equality, and Justice*. New York Univ
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A17 §2, §7; A17 reading list, on the distribution of care and privileged irresponsibility. It bears on CLAIM-tmpnfjln, CLAIM-tmpyjzi8. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A17 §2, §7; A17 reading list, on the distribution of care and privileged irresponsibility. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md). Not read.

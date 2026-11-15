@@ -20,7 +20,7 @@ first_author: 'Santoni de Sio'
 keywords: []
 implementations: []
 summary: >-
-  Santoni de Sio and van den Hoven (2018). Meaningful Human Control over Autonomous Systems: A Philosophical Account. Frontiers in Robotics and AI 5. DOI 10.3389/frobt.2018.00015. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §10) on responsibility and blame in algorithmic decision-making: Meaningful human control via tracking and tracing conditions. It bears on CLAIM-tmpnfjln. What the exchange says of it is unverified until read.
+  Santoni de Sio and van den Hoven (2018). Meaningful Human Control over Autonomous Systems: A Philosophical Account. Frontiers in Robotics and AI 5. DOI 10.3389/frobt.2018.00015. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §10) on responsibility and blame in algorithmic decision-making: Meaningful human control via tracking and tracing conditions. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -34,4 +34,4 @@ Santoni de Sio, van den Hoven (2018). *Meaningful Human Control over Autonomous 
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §10, on responsibility and blame in algorithmic decision-making. It bears on CLAIM-tmpnfjln. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §10, on responsibility and blame in algorithmic decision-making. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.

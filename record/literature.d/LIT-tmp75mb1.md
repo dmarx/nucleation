@@ -19,7 +19,7 @@ first_author: 'de Boer'
 keywords: []
 implementations: []
 summary: >-
-  de Boer and Raaphorst (2023). Automation and discretion: explaining the effect of automation on how street-level bureaucrats enforce. Public Management Review 25(1): 42-62. DOI 10.1080/14719037.2021.1937684. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A21 §4) on procedural friction, contestability and automated administration: Automation lowered inspectors' perceived discretion without clearly changing enforcement behaviour. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. What the exchange says of it is unverified until read.
+  de Boer and Raaphorst (2023). Automation and discretion: explaining the effect of automation on how street-level bureaucrats enforce. Public Management Review 25(1): 42-62. DOI 10.1080/14719037.2021.1937684. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A21 §4) on procedural friction, contestability and automated administration: Automation lowered inspectors' perceived discretion without clearly changing enforcement behaviour. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ de Boer, Raaphorst (2023). *Automation and discretion: explaining the effect of 
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A21 §4, on procedural friction, contestability and automated administration. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A21 §4, on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Not read.

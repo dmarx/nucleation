@@ -26,7 +26,7 @@ summary: >-
   granting review, with argument set for 9 December 2026. A25's point: the
   right in dispute is a right to be heard before an act whose consequences
   may not be reversible, so its timing is part of its content. Facts from
-  SCOTUSblog and LIT-052; not shown: whether the policy is lawful, or any
+  SCOTUSblog and [LIT-052](../literature.d/LIT-052.md); not shown: whether the policy is lawful, or any
   intent.
 ---
 
@@ -39,7 +39,7 @@ The owner, U13 of the exchange "Assess Depp Heard Abuse"
 "third country deportations" as an instance of executive speed outrunning
 oversight. As reported (SCOTUSblog, 29 September 2026,
 https://www.scotusblog.com/2026/09/supreme-court-to-hear-argument-on-trump-administrations-deportation-of-immigrants-to-third-party/,
-checked 2026-11-15; the 2025 stay as read in LIT-052):
+checked 2026-11-15; the 2025 stay as read in [LIT-052](../literature.d/LIT-052.md)):
 
 - **2025.** DHS guidance (May 2025) governed removing people to countries
   not named in their removal orders. In D.V.D. v. DHS, filed in March
@@ -47,8 +47,8 @@ checked 2026-11-15; the 2025 stay as read in LIT-052):
   country and a meaningful chance to contest removal there for fear of
   torture. On 23 June 2025 the Supreme Court stayed his order; on 3 July it
   said the stay applied "in full", allowing eight men held in Djibouti to
-  be sent to South Sudan (LIT-052, read
-  in NOTE-048).
+  be sent to South Sudan ([LIT-052](../literature.d/LIT-052.md), read
+  in [NOTE-048](../notes.d/NOTE-048.md)).
 - **February 2026.** Murphy entered final judgment striking down the
   policy: before removal to a third country, people have the right to
   "meaningful notice" and a "meaningful opportunity" to contest it on the
@@ -71,9 +71,9 @@ about is whether the hearing comes before the act. While the stays hold,
 removals proceed and the question of a prior hearing is decided, if at all,
 after many of the acts it concerns.
 
-That is CLAIM-464's jurisdictional
+That is [CLAIM-464](../claims.d/CLAIM-464.md)'s jurisdictional
 displacement in a second instance beside CECOT
-(CASE-175): once a person is in another country's
+([CASE-175](CASE-175.md)): once a person is in another country's
 custody, the remedies available change. The difference from CECOT is that
 here no court order was disobeyed; the stays were the Supreme Court's own,
 so the window for prior review was closed by review, not against it.

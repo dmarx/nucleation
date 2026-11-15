@@ -22,7 +22,6 @@ summary: >-
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: ADR-068 — Proposed; the reading-and-filing protocol -->
 
 # QUESTION-tmp9n1ac: How can a record of inquiry that automates the incorporation of new material keep the speed of incorporation from outrunning its capacity to evaluate what it incorporates, and which of its checks are points at which an incorporation can still be stopped rather than reviewed after it has taken effect?
 
@@ -31,7 +30,7 @@ summary: >-
 A30 §7 of the exchange
 (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c) names the
 record's own practices: claims with status, role and warrant kept apart,
-defeaters, DP-3 (norms walked from prose to mechanism) and DP-4 (fire a
+defeaters, [DP-3](../../docs/design-principles.md#dp-3) (norms walked from prose to mechanism) and [DP-4](../../docs/design-principles.md#dp-4) (fire a
 guard before trusting it), review, versioning, decision records and
 automated checks. "So Nucleation is itself an interesting small-scale case
 of the tension we've been examining." Then:
@@ -46,8 +45,8 @@ intellectual inquiry."
 In this record's terms: a filing of an exchange like this one produces
 dozens of entries in a session, each Proposed, and the owner's review is
 the corrective process. The owner's procedural-friction claim
-(CLAIM-tmpuiaop) asks where the points of intervention are; the
-throughput claim (CLAIM-tmpfmmkt), from the same exchange, says what
+([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)) asks where the points of intervention are; the
+throughput claim ([CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md)), from the same exchange, says what
 happens when entries needing review arrive faster than review resolves
 them. Proposed status keeps an entry from counting as in force, so review
 can come after filing without anything being foreclosed, unless later

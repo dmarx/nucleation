@@ -11,8 +11,8 @@ line:
 - organizational-normativity
 summary: >-
   A's, from A30 §4 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
-  at the owner's U15 (points of contact with this record). CLAIM-690 says
-  who controls the terms sorts a dependence; CLAIM-682 gives a threshold for
+  at the owner's U15 (points of contact with this record). [CLAIM-690](../claims.d/CLAIM-690.md) says
+  who controls the terms sorts a dependence; [CLAIM-682](../claims.d/CLAIM-682.md) gives a threshold for
   domination by its controllers. A30: "Can another actor's ability to
   activate someone's genuine moral obligations constitute control over the
   terms of dependence, even when that actor lacks direct authority over the
@@ -30,7 +30,7 @@ summary: >-
 
 A30 §4 of the exchange
 (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), on
-CLAIM-690:
+[CLAIM-690](../claims.d/CLAIM-690.md):
 
 > Suppose a hospital is critically dependent on a particular nurse. That
 > dependence might give the nurse considerable bargaining power. Or it might
@@ -38,14 +38,14 @@ CLAIM-690:
 > nurse will not abandon patients and the nurse has no effective way to
 > withdraw without violating their commitments.
 
-CLAIM-690 sorts a dependence by control over its terms: the capacity to
+[CLAIM-690](../claims.d/CLAIM-690.md) sorts a dependence by control over its terms: the capacity to
 withdraw, renegotiate, set conditions of supply or invoke outside
-enforcement. CASE-264's workshops vary that control by contract and
+enforcement. [CASE-264](../cases.d/CASE-264.md)'s workshops vary that control by contract and
 discretion. A30's question is whether a third route belongs on the list:
 the part can withdraw in law and in fact, and does not, because withdrawal
 would breach a genuine obligation to third parties whom the controlling
 party has placed in its care. If that counts as control over the terms,
-CLAIM-682's third condition (the dependent "lacks effective means of
+[CLAIM-682](../claims.d/CLAIM-682.md)'s third condition (the dependent "lacks effective means of
 protection, influence, challenge or justified withdrawal") can be met by a
 conscience.
 
@@ -54,13 +54,13 @@ conscience.
 - **Yes**, with a criterion that separates it from legitimate reliance:
   for instance, that the controlling party set the circumstances that
   activate the obligation and could fund their alternative (A15 §8's
-  "Control" and "Exit" dimensions), as CLAIM-tmpd6uxt and CLAIM-tmpyjzi8,
+  "Control" and "Exit" dimensions), as [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md) and [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md),
   from the same exchange, propose.
 - **No**, with an argument that an obligation to third parties is not a
   term of the dependence between the two parties, so that the leverage is
   real but belongs to another relation (the third parties' claims), and
-  CLAIM-690's list is complete.
+  [CLAIM-690](../claims.d/CLAIM-690.md)'s list is complete.
 
 A case varying only the source of the barrier to exit, contract in one
 arrangement and the part's own obligation in the other, at the same
-dependence, would test it as CASE-264 tests control.
+dependence, would test it as [CASE-264](../cases.d/CASE-264.md) tests control.

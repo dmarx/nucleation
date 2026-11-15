@@ -18,9 +18,8 @@ first_author: 'Cuéllar'
 keywords: []
 implementations: []
 summary: >-
-  Cuéllar (2026). The New Presidential Adjudication. Yale Law Journal (Forum collection), vol. 135. https://yalelawjournal.org/collections/the-new-presidential-adjudication. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A25 (executive-power section)) on the speed and reach of presidential decisions: Presidents increasingly make particularised, consequential decisions with little independent scrutiny. It bears on CLAIM-464, CASE-tmp4gbo6, CASE-tmproiqs. What the exchange says of it is unverified until read.
+  Cuéllar (2026). The New Presidential Adjudication. Yale Law Journal (Forum collection), vol. 135. https://yalelawjournal.org/collections/the-new-presidential-adjudication. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A25 (executive-power section)) on the speed and reach of presidential decisions: Presidents increasingly make particularised, consequential decisions with little independent scrutiny. It bears on [CLAIM-464](../claims.d/CLAIM-464.md), [CASE-tmp4gbo6](../cases.d/CASE-tmp4gbo6.md), [CASE-tmproiqs](../cases.d/CASE-tmproiqs.md). What the exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: CASE-tmp4gbo6 CASE-tmproiqs — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmpryo91: The New Presidential Adjudication
 
@@ -32,4 +31,4 @@ Cuéllar (2026). *The New Presidential Adjudication*. Yale Law Journal (Forum co
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A25 (executive-power section), on the speed and reach of presidential decisions. It bears on CLAIM-464, CASE-tmp4gbo6, CASE-tmproiqs. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A25 (executive-power section), on the speed and reach of presidential decisions. It bears on [CLAIM-464](../claims.d/CLAIM-464.md), [CASE-tmp4gbo6](../cases.d/CASE-tmp4gbo6.md), [CASE-tmproiqs](../cases.d/CASE-tmproiqs.md). Not read.

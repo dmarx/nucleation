@@ -19,7 +19,7 @@ first_author: 'Christie'
 keywords: []
 implementations: []
 summary: >-
-  Christie (1986). The Ideal Victim. From Crime Policy to Victim Policy (ed. Ezzat A. Fattah), Palgrave Macmillan, pp. 17-30. DOI 10.1007/978-1-349-08305-3_2. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §3) on the distinction between violence and coercive control, and the evidence on it: The 'ideal victim': society readily recognises some victims as deserving sympathy; imperfect victims are discounted. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. What the exchange says of it is unverified until read.
+  Christie (1986). The Ideal Victim. From Crime Policy to Victim Policy (ed. Ezzat A. Fattah), Palgrave Macmillan, pp. 17-30. DOI 10.1007/978-1-349-08305-3_2. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §3) on the distinction between violence and coercive control, and the evidence on it: The 'ideal victim': society readily recognises some victims as deserving sympathy; imperfect victims are discounted. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Christie (1986). *The Ideal Victim*. From Crime Policy to Victim Policy (ed. Ezz
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Not read.

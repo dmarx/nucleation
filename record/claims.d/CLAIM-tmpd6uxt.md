@@ -31,7 +31,7 @@ summary: >-
   Bob declined to mind it; Bob ought to care for it, and Alice ought not to
   have made that his responsibility. A13's limit: "An exploitative attempt
   to create an obligation does not establish that the obligation is
-  unlimited". CLAIM-404's two routes of external governance, evidence and
+  unlimited". [CLAIM-404](CLAIM-404.md)'s two routes of external governance, evidence and
   criteria, do not cover this third: the target's evidence and criteria are
   both sound, and its circumstances are what is set. The wording is A's;
   adopting it is the owner's call.
@@ -78,20 +78,20 @@ to perform some specific act", and "The inference is frequently invalid."
 
 ## Where it sits
 
-- CLAIM-404 (Active): an organization can be governed from
+- [CLAIM-404](CLAIM-404.md) (Active): an organization can be governed from
   outside through the evidence its procedures receive or the criteria by
   which they weigh it. Normative manipulation in A13's sense is neither:
   Bob's evidence is accurate and his criteria are his own and sound. What
   the manipulator sets is the situation those criteria are applied to. A11
   and A13 call the evidence route "epistemic" manipulation; this is a third
   route, through circumstances.
-- THEORY-235, the record's reading of covert
+- [THEORY-235](../theory.d/THEORY-235.md), the record's reading of covert
   influence, places the harm of manipulation in making the target "opaque
   to herself". Here the target can see the whole manoeuvre and still be
   bound, so whatever wrong is done is not that one. The claim does not deny
-  THEORY-235, which is about covert influence; it marks a case the reading
+  [THEORY-235](../theory.d/THEORY-235.md), which is about covert influence; it marks a case the reading
   does not reach.
-- The same exchange's CLAIM-tmpnw7ez (responsibility for the conditions of
+- The same exchange's [CLAIM-tmpnw7ez](CLAIM-tmpnw7ez.md) (responsibility for the conditions of
   another's conduct): there the structured party does wrong, here it does
   right. Both say the structuring party answers for the conditions.
 
@@ -99,5 +99,5 @@ to perform some specific act", and "The inference is frequently invalid."
 
 - **That Bob may refuse.** The dog's welfare still matters: "Alice's
   wrongdoing doesn't magically erase Bob's reasons to prevent suffering."
-- **What Keller says.** The paper (LIT-tmp55sg8) is registered and unread; the
+- **What Keller says.** The paper ([LIT-tmp55sg8](../literature.d/LIT-tmp55sg8.md)) is registered and unread; the
   attribution and the case's closeness to Keller's own are A's report.

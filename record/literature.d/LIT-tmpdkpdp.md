@@ -20,7 +20,7 @@ first_author: 'Cameron'
 keywords: []
 implementations: []
 summary: >-
-  Cameron (2024). The Making of the 'Good Bad' Job: How Algorithmic Management Manufactures Consent Through Constant and Confined Choices. Administrative Science Quarterly 69(2): 458-514. DOI 10.1177/00018392241236163. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §3; A19 reading list) on responsibility and blame in algorithmic decision-making: Algorithmic management manufactures consent through constant, confined choices (ride-hailing). It bears on CLAIM-tmpnfjln. What the exchange says of it is unverified until read.
+  Cameron (2024). The Making of the 'Good Bad' Job: How Algorithmic Management Manufactures Consent Through Constant and Confined Choices. Administrative Science Quarterly 69(2): 458-514. DOI 10.1177/00018392241236163. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §3; A19 reading list) on responsibility and blame in algorithmic decision-making: Algorithmic management manufactures consent through constant, confined choices (ride-hailing). It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -34,4 +34,4 @@ Cameron (2024). *The Making of the 'Good Bad' Job: How Algorithmic Management Ma
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §3; A19 reading list, on responsibility and blame in algorithmic decision-making. It bears on CLAIM-tmpnfjln. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §3; A19 reading list, on responsibility and blame in algorithmic decision-making. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.

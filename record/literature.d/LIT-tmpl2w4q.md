@@ -19,7 +19,7 @@ first_author: 'Robillard'
 keywords: []
 implementations: []
 summary: >-
-  Robillard and Strawser (2022). Outsourcing Duty: The Moral Exploitation of the American Soldier. Oxford University Press. DOI 10.1093/oso/9780190671457.001.0001. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A13 §4; A15 §5, §10; A26 §III) on normative manipulation and moral exploitation: Moral exploitation: institutions offload moral burdens onto soldiers' sense of duty. It bears on CLAIM-tmpd6uxt, CLAIM-tmpyjzi8, QUESTION-tmpgyn11. What the exchange says of it is unverified until read.
+  Robillard and Strawser (2022). Outsourcing Duty: The Moral Exploitation of the American Soldier. Oxford University Press. DOI 10.1093/oso/9780190671457.001.0001. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A13 §4; A15 §5, §10; A26 §III) on normative manipulation and moral exploitation: Moral exploitation: institutions offload moral burdens onto soldiers' sense of duty. It bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpd6uxt CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Robillard, Strawser (2022). *Outsourcing Duty: The Moral Exploitation of the Ame
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A13 §4; A15 §5, §10; A26 §III, on normative manipulation and moral exploitation. It bears on CLAIM-tmpd6uxt, CLAIM-tmpyjzi8, QUESTION-tmpgyn11. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A13 §4; A15 §5, §10; A26 §III, on normative manipulation and moral exploitation. It bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md). Not read.

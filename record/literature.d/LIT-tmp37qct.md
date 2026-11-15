@@ -19,7 +19,7 @@ first_author: 'Lefebvre'
 keywords: []
 implementations: []
 summary: >-
-  Lefebvre (1982). Algebra of Conscience: A Comparative Analysis of Western and Soviet Ethical Systems. D. Reidel (Theory and Decision Library). https://openlibrary.org/works/OL647787W. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A11 §5) on reflexive control and its formal model of ethical choice: Book-length version of Lefebvre's mathematical theory of conscience. It bears on CLAIM-404, LIT-1339. What the exchange says of it is unverified until read.
+  Lefebvre (1982). Algebra of Conscience: A Comparative Analysis of Western and Soviet Ethical Systems. D. Reidel (Theory and Decision Library). https://openlibrary.org/works/OL647787W. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A11 §5) on reflexive control and its formal model of ethical choice: Book-length version of Lefebvre's mathematical theory of conscience. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [LIT-1339](LIT-1339.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: LIT-1339 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Lefebvre (1982). *Algebra of Conscience: A Comparative Analysis of Western and S
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A11 §5, on reflexive control and its formal model of ethical choice. It bears on CLAIM-404, LIT-1339. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A11 §5, on reflexive control and its formal model of ethical choice. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [LIT-1339](LIT-1339.md). Not read.

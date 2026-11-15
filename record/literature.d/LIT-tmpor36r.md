@@ -19,7 +19,7 @@ first_author: 'Lefebvre'
 keywords: []
 implementations: []
 summary: >-
-  Lefebvre (1980). An Algebraic Model of Ethical Cognition. Journal of Mathematical Psychology 22. DOI 10.1016/0022-2496(80)90014-0. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A11 §5) on reflexive control and its formal model of ethical choice: Formal model of two ethical systems evaluating compromise vs confrontation between good and evil. It bears on CLAIM-404, LIT-1339. What the exchange says of it is unverified until read.
+  Lefebvre (1980). An Algebraic Model of Ethical Cognition. Journal of Mathematical Psychology 22. DOI 10.1016/0022-2496(80)90014-0. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A11 §5) on reflexive control and its formal model of ethical choice: Formal model of two ethical systems evaluating compromise vs confrontation between good and evil. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [LIT-1339](LIT-1339.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: LIT-1339 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Lefebvre (1980). *An Algebraic Model of Ethical Cognition*. Journal of Mathemati
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A11 §5, on reflexive control and its formal model of ethical choice. It bears on CLAIM-404, LIT-1339. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A11 §5, on reflexive control and its formal model of ethical choice. It bears on [CLAIM-404](../claims.d/CLAIM-404.md), [LIT-1339](LIT-1339.md). Not read.

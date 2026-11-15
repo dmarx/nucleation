@@ -35,7 +35,7 @@ summary: >-
   A9 §7's six questions for grading the structuring party's share and A9's
   limit that only wrongful interference with another's self-governance
   generates it. A26 calls the two "first-order" and "second-order"
-  responsibility. CLAIM-624 is the organizational form, a wrong beyond
+  responsibility. [CLAIM-624](CLAIM-624.md) is the organizational form, a wrong beyond
   violation in reproducing what keeps a standard from constraining. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -89,23 +89,23 @@ interfere with another person's capacity to govern their own conduct**".
 
 ## Where it sits
 
-- CLAIM-624 holds the organizational form: an organization's
+- [CLAIM-624](CLAIM-624.md) holds the organizational form: an organization's
   wrong beyond violation in reproducing the representations and allocations
   of authority that keep a justified standard from constraining it.
-- CLAIM-445: a protective regime becomes self-maintaining
+- [CLAIM-445](CLAIM-445.md): a protective regime becomes self-maintaining
   when its interventions shift the evidence used to judge its necessity.
   A9 §3's "feedback loop" is the interpersonal case: the controller's
   conditions produce conduct that is then cited to justify more control.
   That claim leaves out the point A9 adds, that the controller gains no
   authority from conduct it induced.
-- QUESTION-070 asks whose agency a
+- [QUESTION-070](../questions.d/QUESTION-070.md) asks whose agency a
   collective's manipulation runs through. This claim answers a version of
   it for an individual structuring party: through the actor's, without
   relieving either.
-- THEORY-147, from Wolf: attributability and
+- [THEORY-147](../theory.d/THEORY-147.md), from Wolf: attributability and
   accountability are independent. A9 §5 draws on the same distinction for
   the actor's side.
-- The same exchange's CLAIM-tmpp8na7 (equality of wrongdoing and of power
+- The same exchange's [CLAIM-tmpp8na7](CLAIM-tmpp8na7.md) (equality of wrongdoing and of power
   are separate questions) uses this claim for its second half.
 
 ## What it does not say
@@ -114,5 +114,5 @@ interfere with another person's capacity to govern their own conduct**".
   others" (A7 §8).
 - **How much.** A9 §7: "None of these questions has a mechanical answer."
 - **That it is new.** Young's *Responsibility for Justice*
-  (LIT-2246, Deferred) and the literature on derivative and complicitous responsibility
+  ([LIT-2246](../literature.d/LIT-2246.md), Deferred) and the literature on derivative and complicitous responsibility
   hold versions of it; A states it as a synthesis, not a discovery.

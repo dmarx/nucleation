@@ -19,7 +19,7 @@ first_author: 'Nagel'
 keywords: []
 implementations: []
 summary: >-
-  Nagel (1979). Moral Luck. Mortal Questions (Cambridge University Press), ch. 3, pp. 24-38. DOI 10.1017/CBO9781107341050.005. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A7 §7) on the moral philosophy of blame, excuse and responsibility under constraint: Kinds of moral luck (circumstantial, resultant, constitutive). It bears on CLAIM-tmpnw7ez, CLAIM-tmpp8na7. What the exchange says of it is unverified until read.
+  Nagel (1979). Moral Luck. Mortal Questions (Cambridge University Press), ch. 3, pp. 24-38. DOI 10.1017/CBO9781107341050.005. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A7 §7) on the moral philosophy of blame, excuse and responsibility under constraint: Kinds of moral luck (circumstantial, resultant, constitutive). It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Nagel (1979). *Moral Luck*. Mortal Questions (Cambridge University Press), ch. 3
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §7, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on CLAIM-tmpnw7ez, CLAIM-tmpp8na7. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §7, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Not read.

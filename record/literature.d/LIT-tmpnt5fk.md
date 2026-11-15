@@ -19,7 +19,7 @@ first_author: 'Scanlon'
 keywords: []
 implementations: []
 summary: >-
-  Scanlon (2008). Moral Dimensions: Permissibility, Meaning, Blame. Belknap Press of Harvard University Press. DOI 10.4159/9780674043145. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A7 §4; A7 closing) on the moral philosophy of blame, excuse and responsibility under constraint: Blame as a modification of a relationship impaired by what the wrong reveals. It bears on CLAIM-tmpnw7ez, CLAIM-tmpp8na7. What the exchange says of it is unverified until read.
+  Scanlon (2008). Moral Dimensions: Permissibility, Meaning, Blame. Belknap Press of Harvard University Press. DOI 10.4159/9780674043145. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A7 §4; A7 closing) on the moral philosophy of blame, excuse and responsibility under constraint: Blame as a modification of a relationship impaired by what the wrong reveals. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Scanlon (2008). *Moral Dimensions: Permissibility, Meaning, Blame*. Belknap Pres
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on CLAIM-tmpnw7ez, CLAIM-tmpp8na7. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Not read.

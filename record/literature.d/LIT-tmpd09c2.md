@@ -19,7 +19,7 @@ first_author: 'Robillard'
 keywords: []
 implementations: []
 summary: >-
-  Robillard (2016). On the Moral Dimensions of Vulnerability and Exploitation. University of Connecticut (PhD dissertation, Philosophy). https://digitalcommons.lib.uconn.edu/dissertations/1244/. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A15 §10) on normative manipulation and moral exploitation: Exploitation defined too narrowly; moral vulnerability and moral exploitation (recruits, surrogates). It bears on CLAIM-tmpd6uxt, CLAIM-tmpyjzi8, QUESTION-tmpgyn11. What the exchange says of it is unverified until read.
+  Robillard (2016). On the Moral Dimensions of Vulnerability and Exploitation. University of Connecticut (PhD dissertation, Philosophy). https://digitalcommons.lib.uconn.edu/dissertations/1244/. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A15 §10) on normative manipulation and moral exploitation: Exploitation defined too narrowly; moral vulnerability and moral exploitation (recruits, surrogates). It bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpd6uxt CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Robillard (2016). *On the Moral Dimensions of Vulnerability and Exploitation*. U
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A15 §10, on normative manipulation and moral exploitation. It bears on CLAIM-tmpd6uxt, CLAIM-tmpyjzi8, QUESTION-tmpgyn11. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A15 §10, on normative manipulation and moral exploitation. It bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md). Not read.

@@ -35,8 +35,8 @@ summary: >-
   developments (A21, A23) are mapped in the body, not adopted: friction as
   a distribution of power, extractive against deliberative friction, and
   countervailing friction. The nearest held entries say what an
-  intervention needs (CLAIM-523) and that action and correction are
-  maintained by different relations (CLAIM-462); this claim says where the
+  intervention needs ([CLAIM-523](CLAIM-523.md)) and that action and correction are
+  maintained by different relations ([CLAIM-462](CLAIM-462.md)); this claim says where the
   opportunity for it sits in a process, and what automation does to it.
 ---
 
@@ -69,24 +69,24 @@ the properties through which others can act on the process.
 
 ## Where it sits in the record
 
-- CLAIM-523 (Active) names what an objection needs in
+- [CLAIM-523](CLAIM-523.md) (Active) names what an objection needs in
   order to change what an organization does: legibility, volitional
   efficacy and correctability. This claim is about where in a process the
   occasion for an objection lies. A30 §2 of the exchange made the
   connection: "procedural friction is one possible institutional mechanism
   for maintaining the three achievements across time", and "not every
   interruption provides all three". The point of intervention this claim
-  locates is the occasion; CLAIM-523 says what the occasion
+  locates is the occasion; [CLAIM-523](CLAIM-523.md) says what the occasion
   must carry to work.
-- CLAIM-462 (Active): an arrangement's capacity for
+- [CLAIM-462](CLAIM-462.md) (Active): an arrangement's capacity for
   effective action can grow while its capacity to be corrected degrades.
   Removing friction raises the first. This claim names one way the second
   falls with it.
-- CLAIM-464 (Active), the owner's from 2026-10-26: an
+- [CLAIM-464](CLAIM-464.md) (Active), the owner's from 2026-10-26: an
   intervention can make its own correction costlier before review. With
   friction removed there is less time between action and the point after
   which that happens.
-- CASE-003, Northstar-A and Northstar-B, is the
+- [CASE-003](../cases.d/CASE-003.md), Northstar-A and Northstar-B, is the
   record's controlled contrast for one kind of friction: an authorized
   objection that suspends deployment, against one that does not.
 
@@ -127,8 +127,8 @@ adopting any is the owner's call.
   interruptible without delaying it. That is filed as an objection to the
   "characterizes" reading,
   <!-- inactive-ok: CLAIM-tmpwpvbz — filed with this claim, Proposed -->
-  CLAIM-tmpwpvbz.
+  [CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md).
 - **Anything about any government.** The owner's application at U13 to
   the speed of executive action is recorded on
-  CLAIM-464, which already held it, and in the cases filed
+  [CLAIM-464](CLAIM-464.md), which already held it, and in the cases filed
   with this claim.

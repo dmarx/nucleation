@@ -19,7 +19,7 @@ first_author: 'Kong'
 keywords: []
 implementations: []
 summary: >-
-  Kong and Chang (2026). Displacement, Dilemma, and Exit: The Ethical Stakes of Algorithmic Decision-Making. Social Sciences (MDPI) 15(9): 593. DOI 10.3390/socsci15090593. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §5; A23 reading list) on procedural friction, contestability and automated administration: Hirschman-inspired: algorithmic governance that eases exit over voice undermines collective self-government. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. What the exchange says of it is unverified until read.
+  Kong and Chang (2026). Displacement, Dilemma, and Exit: The Ethical Stakes of Algorithmic Decision-Making. Social Sciences (MDPI) 15(9): 593. DOI 10.3390/socsci15090593. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §5; A23 reading list) on procedural friction, contestability and automated administration: Hirschman-inspired: algorithmic governance that eases exit over voice undermines collective self-government. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Kong, Chang (2026). *Displacement, Dilemma, and Exit: The Ethical Stakes of Algo
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §5; A23 reading list, on procedural friction, contestability and automated administration. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §5; A23 reading list, on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Not read.

@@ -24,7 +24,7 @@ summary: >-
   damage and required ten business days' notice before closure or any
   irreversible change, finding the plan final despite officials' testimony
   that they knew of none, and its review likely segmented. It adds a
-  mechanism to CLAIM-464's three: acting physically while denying that a
+  mechanism to [CLAIM-464](../claims.d/CLAIM-464.md)'s three: acting physically while denying that a
   reviewable decision exists. And it is a partial counter-instance: notice
   requirements and an injunction preserved what remained. Facts from news
   reports of 2026; A25's report of a further order of 14 November is
@@ -79,7 +79,7 @@ reports checked on 2026-11-15 and is not part of the case.
 
 ## What it shows
 
-- **A fourth mechanism for CLAIM-464.** CLAIM-464
+- **A fourth mechanism for [CLAIM-464](../claims.d/CLAIM-464.md).** [CLAIM-464](../claims.d/CLAIM-464.md)
   names physical irreversibility, enforcement-mediated entrenchment and
   jurisdictional displacement. Here the cutting happened while the
   government's position was that no final decision existed, and review of
@@ -93,7 +93,7 @@ reports checked on 2026-11-15 and is not part of the case.
   reported to have come with less than a day of it. The October injunction
   restores a longer one, ten business days before any irreversible change.
   A25: "oversight has not simply ceased to function." It shows the owner's
-  procedural-friction claim (CLAIM-tmpuiaop) from the other side: a court can impose the
+  procedural-friction claim ([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)) from the other side: a court can impose the
   friction that keeps a point of intervention open.
 
 ## What it does not show

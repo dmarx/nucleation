@@ -20,7 +20,7 @@ first_author: 'National Transportation Safety Board'
 keywords: []
 implementations: []
 summary: >-
-  National Transportation Safety Board (2019). Collision Between Vehicle Controlled by Developmental Automated Driving System and Pedestrian, Tempe, Arizona, March 18, 2018. NTSB Highway Accident Report NTSB/HAR-19/03 (PB2019-101402). https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR1903.pdf. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A17 §4) on the moral crumple zone: Uber ATG crash: operator distraction plus Uber's failures in risk assessment, oversight and safety culture. It bears on CLAIM-tmpnfjln. What the exchange says of it is unverified until read.
+  National Transportation Safety Board (2019). Collision Between Vehicle Controlled by Developmental Automated Driving System and Pedestrian, Tempe, Arizona, March 18, 2018. NTSB Highway Accident Report NTSB/HAR-19/03 (PB2019-101402). https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR1903.pdf. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A17 §4) on the moral crumple zone: Uber ATG crash: operator distraction plus Uber's failures in risk assessment, oversight and safety culture. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -34,4 +34,4 @@ National Transportation Safety Board (2019). *Collision Between Vehicle Controll
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A17 §4, on the moral crumple zone. It bears on CLAIM-tmpnfjln. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A17 §4, on the moral crumple zone. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.

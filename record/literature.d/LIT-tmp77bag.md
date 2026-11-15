@@ -19,7 +19,7 @@ first_author: 'Stark'
 keywords: []
 implementations: []
 summary: >-
-  Stark (2007). Coercive Control: How Men Entrap Women in Personal Life. Oxford University Press. https://openlibrary.org/works/OL2982769W. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A3 §3) on the distinction between violence and coercive control, and the evidence on it: Coercive control as an attack on liberty (freedom, not just fear) rather than discrete violent incidents. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. What the exchange says of it is unverified until read.
+  Stark (2007). Coercive Control: How Men Entrap Women in Personal Life. Oxford University Press. https://openlibrary.org/works/OL2982769W. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A3 §3) on the distinction between violence and coercive control, and the evidence on it: Coercive control as an attack on liberty (freedom, not just fear) rather than discrete violent incidents. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Stark (2007). *Coercive Control: How Men Entrap Women in Personal Life*. Oxford 
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A3 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A3 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Not read.

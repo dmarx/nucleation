@@ -59,7 +59,7 @@ enough *actuators*, even if its deliberative processes remain slow."
 
 ## Why it objects
 
-The owner's claim (CLAIM-tmpuiaop) has two readings. On "exposes", friction is where an
+The owner's claim ([CLAIM-tmpuiaop](CLAIM-tmpuiaop.md)) has two readings. On "exposes", friction is where an
 intervention opportunity becomes visible, and removing friction can remove
 it. On "characterizes", an opportunity to intervene is a piece of
 friction. The standing-constraint architecture is a process in which an
@@ -72,9 +72,9 @@ others.
 What carries the opportunity, on this account, is a relation of speeds: the
 enforcing mechanism must act before the process forecloses the
 alternatives, whatever the speed of the deliberation that set the limit.
-That is TERM-085's deadline applied to the
+That is [TERM-085](../terms.d/TERM-085.md)'s deadline applied to the
 actuator, not the deliberation, and
-CLAIM-478's point that what settles slowly can act as a
+[CLAIM-478](CLAIM-478.md)'s point that what settles slowly can act as a
 constraint on what moves fast.
 
 ## What it does not say

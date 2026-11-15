@@ -19,7 +19,7 @@ first_author: 'Herd'
 keywords: []
 implementations: []
 summary: >-
-  Herd and Moynihan (2025). Administrative Burdens in the Social Safety Net. Journal of Economic Perspectives 39(1): 129-150. DOI 10.1257/jep.20231394. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §4) on procedural friction, contestability and automated administration: Learning, compliance and psychological costs: friction can itself exclude people from benefits. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. What the exchange says of it is unverified until read.
+  Herd and Moynihan (2025). Administrative Burdens in the Social Safety Net. Journal of Economic Perspectives 39(1): 129-150. DOI 10.1257/jep.20231394. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §4) on procedural friction, contestability and automated administration: Learning, compliance and psychological costs: friction can itself exclude people from benefits. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Herd, Moynihan (2025). *Administrative Burdens in the Social Safety Net*. Journa
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §4, on procedural friction, contestability and automated administration. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §4, on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Not read.

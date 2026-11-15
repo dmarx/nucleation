@@ -20,7 +20,7 @@ first_author: 'Rubel'
 keywords: []
 implementations: []
 summary: >-
-  Rubel et al. (2019). Agency Laundering and Information Technologies. Ethical Theory and Moral Practice 22(4): 1017-1041. DOI 10.1007/s10677-019-10030-w. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §1 (concept)) on responsibility and blame in algorithmic decision-making: Agency laundering: using technology to distance oneself from morally suspect decisions. It bears on CLAIM-tmpnfjln. What the exchange says of it is unverified until read.
+  Rubel et al. (2019). Agency Laundering and Information Technologies. Ethical Theory and Moral Practice 22(4): 1017-1041. DOI 10.1007/s10677-019-10030-w. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §1 (concept)) on responsibility and blame in algorithmic decision-making: Agency laundering: using technology to distance oneself from morally suspect decisions. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -34,4 +34,4 @@ Rubel, Castro, Pham (2019). *Agency Laundering and Information Technologies*. Et
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §1 (concept), on responsibility and blame in algorithmic decision-making. It bears on CLAIM-tmpnfjln. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §1 (concept), on responsibility and blame in algorithmic decision-making. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.

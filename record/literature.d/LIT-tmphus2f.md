@@ -19,7 +19,7 @@ first_author: 'Natali'
 keywords: []
 implementations: []
 summary: >-
-  Natali et al. (2025). Better AI with Designed Friction: Theories, Applications and Research Agenda. HHAI 2025 (Frontiers in Artificial Intelligence and Applications), IOS Press, pp. 518-. DOI 10.3233/FAIA250680. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A21 §2; A23 §7; A23 reading list) on procedural friction, contestability and automated administration: Deliberately designed friction in AI to preserve critical reasoning and human agency. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. What the exchange says of it is unverified until read.
+  Natali et al. (2025). Better AI with Designed Friction: Theories, Applications and Research Agenda. HHAI 2025 (Frontiers in Artificial Intelligence and Applications), IOS Press, pp. 518-. DOI 10.3233/FAIA250680. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A21 §2; A23 §7; A23 reading list) on procedural friction, contestability and automated administration: Deliberately designed friction in AI to preserve critical reasoning and human agency. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Natali, Naiseh, Cabitza, Frischmann (2025). *Better AI with Designed Friction: T
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A21 §2; A23 §7; A23 reading list, on procedural friction, contestability and automated administration. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A21 §2; A23 §7; A23 reading list, on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Not read.

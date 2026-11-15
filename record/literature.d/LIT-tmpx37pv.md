@@ -19,7 +19,7 @@ first_author: 'Harsey'
 keywords: []
 implementations: []
 summary: >-
-  Harsey and Freyd (2023). The Influence of Deny, Attack, Reverse Victim and Offender and Insincere Apologies on Perceptions of Sexual Assault. Journal of Interpersonal Violence. DOI 10.1177/08862605231169751. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §4; A5 reading list) on the distinction between violence and coercive control, and the evidence on it: Experiment (230 undergraduates): DARVO and insincere apologies shift observers' judgments of responsibility. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. What the exchange says of it is unverified until read.
+  Harsey and Freyd (2023). The Influence of Deny, Attack, Reverse Victim and Offender and Insincere Apologies on Perceptions of Sexual Assault. Journal of Interpersonal Violence. DOI 10.1177/08862605231169751. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §4; A5 reading list) on the distinction between violence and coercive control, and the evidence on it: Experiment (230 undergraduates): DARVO and insincere apologies shift observers' judgments of responsibility. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Harsey, Freyd (2023). *The Influence of Deny, Attack, Reverse Victim and Offende
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §4; A5 reading list, on the distinction between violence and coercive control, and the evidence on it. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §4; A5 reading list, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Not read.

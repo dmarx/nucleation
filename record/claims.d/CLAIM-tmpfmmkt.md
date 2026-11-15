@@ -35,7 +35,7 @@ summary: >-
   μ/λ of challenges are ever resolved; and under first-come review every
   challenge filed after t* = Fμ/(λ − μ) is resolved after its window F has
   closed. With A's numbers t* is ten days. Checked by simulation. It is
-  TERM-085's deadline applied to a stream of cases. The wording is A's; the
+  [TERM-085](../terms.d/TERM-085.md)'s deadline applied to a stream of cases. The wording is A's; the
   derivation is the filer's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpwpvbz — filed from the same exchange, Proposed -->
@@ -63,7 +63,7 @@ A called it "analogous to stability conditions in queueing theory".
 Valid challenges arrive at a steady rate λ; the corrective process resolves
 them at a steady rate μ < λ; a challenge resolved more than F after it is
 filed comes after the harm it targets has become irreversible (F is
-TERM-085's horizon for that challenge).
+[TERM-085](../terms.d/TERM-085.md)'s horizon for that challenge).
 
 1. **The backlog is unbounded.** By time T, λT challenges have been filed
    and at most μT resolved, so at least (λ − μ)T wait.
@@ -90,16 +90,16 @@ anything.
 
 ## Where it sits
 
-- TERM-085, correctability: the chance of
+- [TERM-085](../terms.d/TERM-085.md), correctability: the chance of
   achieving a corrective objective before its deadline. This claim is that
   chance for a stream of cases when the corrector is congested.
-- CLAIM-462 (Active): capacity for action can grow while
+- [CLAIM-462](CLAIM-462.md) (Active): capacity for action can grow while
   capacity to be corrected degrades. Here the degradation is arithmetic: λ
   rises with the speed of action and μ does not.
-- CLAIM-464 (Active) is about one intervention changing the
+- [CLAIM-464](CLAIM-464.md) (Active) is about one intervention changing the
   cost of its own correction; this is about many decisions outrunning a
   corrector whose cost per case is unchanged.
-- QUESTION-279 asks what certifies that
+- [QUESTION-279](../questions.d/QUESTION-279.md) asks what certifies that
   no remedy is available rather than that procedures failed to deliver one
   before the deadline. Past t*, under first-come review, a remedy exists
   for every case and the arrangement delivers it for none in time.
@@ -110,6 +110,6 @@ anything.
   long-run averages; the first-come result needs the backlog to persist.
 - **Which order of review is right.** The bound holds for any order.
 - **That faster correction is the only response.** A35 names fewer errors,
-  more appellate capacity, and suspension; CLAIM-tmpwpvbz, from the same
+  more appellate capacity, and suspension; [CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md), from the same
   exchange, adds standing constraints that stop decisions before they take
   effect.

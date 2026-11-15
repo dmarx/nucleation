@@ -19,7 +19,7 @@ first_author: 'Citron'
 keywords: []
 implementations: []
 summary: >-
-  Citron (2008). Technological Due Process. Washington University Law Review 85(6): 1249-1313. https://journals.library.wustl.edu/lawreview/article/id/6697/. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §12 (reading list)) on procedural friction, contestability and automated administration: Automated administrative decisions erode procedural due process; proposes safeguards. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. What the exchange says of it is unverified until read.
+  Citron (2008). Technological Due Process. Washington University Law Review 85(6): 1249-1313. https://journals.library.wustl.edu/lawreview/article/id/6697/. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §12 (reading list)) on procedural friction, contestability and automated administration: Automated administrative decisions erode procedural due process; proposes safeguards. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Citron (2008). *Technological Due Process*. Washington University Law Review 85(
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §12 (reading list), on procedural friction, contestability and automated administration. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §12 (reading list), on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Not read.

@@ -19,7 +19,7 @@ first_author: 'Bovens'
 keywords: []
 implementations: []
 summary: >-
-  Bovens and Zouridis (2002). From Street-Level to System-Level Bureaucracies: How Information and Communication Technology Is Transforming Administrative Discretion and Constitutional Control. Public Administration Review 62(2): 174-184. DOI 10.1111/0033-3352.00168. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A21 §1) on procedural friction, contestability and automated administration: ICT moves discretion from street-level officials into system design (system-level bureaucracy). It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. What the exchange says of it is unverified until read.
+  Bovens and Zouridis (2002). From Street-Level to System-Level Bureaucracies: How Information and Communication Technology Is Transforming Administrative Discretion and Constitutional Control. Public Administration Review 62(2): 174-184. DOI 10.1111/0033-3352.00168. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A21 §1) on procedural friction, contestability and automated administration: ICT moves discretion from street-level officials into system design (system-level bureaucracy). It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Bovens, Zouridis (2002). *From Street-Level to System-Level Bureaucracies: How I
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A21 §1, on procedural friction, contestability and automated administration. It bears on CLAIM-tmpuiaop, CLAIM-tmpfmmkt. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A21 §1, on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Not read.

@@ -239,7 +239,7 @@ The owner, U11 of the exchange "Assess Depp Heard Abuse"
 (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c): "we can
 view automation as the effort to reduce procedural friction, but
 paradoxically procedural friction exposes (or perhaps even characterizes)
-opportunity for intervention." Filed as CLAIM-tmpuiaop. This claim says
+opportunity for intervention." Filed as [CLAIM-tmpuiaop](CLAIM-tmpuiaop.md). This claim says
 what a discrepancy needs to change an organization's conduct; the owner's
 says where in a process the occasion for raising one lies, and that
 automation removes it.

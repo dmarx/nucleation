@@ -20,7 +20,7 @@ first_author: 'Elish'
 keywords: []
 implementations: []
 summary: >-
-  Elish (2019). Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction. Engaging Science, Technology, and Society 5: 40-60. DOI 10.17351/ests2019.260. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A15 §5; A17 §1 (and throughout A17)) on the moral crumple zone: Moral crumple zone: the human operator absorbs blame for failures of a complex automated system. It bears on CLAIM-tmpnfjln. What the exchange says of it is unverified until read.
+  Elish (2019). Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction. Engaging Science, Technology, and Society 5: 40-60. DOI 10.17351/ests2019.260. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A15 §5; A17 §1 (and throughout A17)) on the moral crumple zone: Moral crumple zone: the human operator absorbs blame for failures of a complex automated system. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -34,4 +34,4 @@ Elish (2019). *Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction*
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A15 §5; A17 §1 (and throughout A17), on the moral crumple zone. It bears on CLAIM-tmpnfjln. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A15 §5; A17 §1 (and throughout A17), on the moral crumple zone. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.

@@ -19,7 +19,7 @@ first_author: 'Mazinani'
 keywords: []
 implementations: []
 summary: >-
-  Mazinani and O'Connor (2026). An Updated and Revised Dyadic Model of Partner Violence. Behavioral Sciences (Basel) 16(9): 1468. DOI 10.3390/bs16091468. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §6; A5 reading list) on the distinction between violence and coercive control, and the evidence on it: Dyadic model: partner violence as an interaction of both partners' characteristics, not one perpetrator. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. What the exchange says of it is unverified until read.
+  Mazinani and O'Connor (2026). An Updated and Revised Dyadic Model of Partner Violence. Behavioral Sciences (Basel) 16(9): 1468. DOI 10.3390/bs16091468. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §6; A5 reading list) on the distinction between violence and coercive control, and the evidence on it: Dyadic model: partner violence as an interaction of both partners' characteristics, not one perpetrator. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Mazinani, O'Connor (2026). *An Updated and Revised Dyadic Model of Partner Viole
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §6; A5 reading list, on the distinction between violence and coercive control, and the evidence on it. It bears on CLAIM-tmpp8na7, CASE-tmpwrhkd. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §6; A5 reading list, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Not read.

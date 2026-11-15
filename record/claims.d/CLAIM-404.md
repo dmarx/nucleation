@@ -474,7 +474,7 @@ At U6 of the exchange "Assess Depp Heard Abuse"
 on responsibility for creating the conditions of others' wrongdoing, the
 owner wrote: "this reminds me of russian work on 'reflexive control' as a
 grey tactic". A11 develops the link with Lefebvre and Thomas
-(LIT-1339, Unavailable); A30 §3, reading the
+([LIT-1339](../literature.d/LIT-1339.md), Unavailable); A30 §3, reading the
 record, found this claim and called its form "arguably more precise".
 
 The exchange adds one thing this claim's two routes do not hold. A11 §4
@@ -485,9 +485,9 @@ commitments, and decision rules, so that acting according to them produces
 an outcome chosen by the manipulator". The first is a case of this claim's
 evidence route. The second is not its criteria route: the target's criteria are not
 redirected but used as they stand, and what the manipulator sets is the
-situation they are applied to (A13's case, filed as CLAIM-tmpd6uxt from
+situation they are applied to (A13's case, filed as [CLAIM-tmpd6uxt](CLAIM-tmpd6uxt.md) from
 Keller's moral blackmail). For an organization, the corresponding route
 would be governing it through the circumstances its procedures face, as a
-fait accompli does for a court (CLAIM-464). The claim is
+fait accompli does for a court ([CLAIM-464](CLAIM-464.md)). The claim is
 unchanged; whether "circumstances" is a third route or a case of "evidence"
 is left open here.

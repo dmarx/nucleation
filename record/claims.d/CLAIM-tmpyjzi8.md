@@ -43,13 +43,13 @@ summary: >-
   transferred a financial obligation "into a moral burden on its
   employees", and "The institution can become more irresponsible precisely
   because its employees are responsible." Exploitation is relative to a
-  declared standard (TERM-123); A15 §8 supplies one. A15 calls the account
+  declared standard ([TERM-123](../terms.d/TERM-123.md)); A15 §8 supplies one. A15 calls the account
   its own interpretation, not an established theory. The wording is A's;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpl2w4q LIT-tmpd09c2 LIT-tmp55sg8 LIT-tmpw46qz — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-690 CLAIM-669 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-690 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->
 
 # CLAIM-tmpyjzi8: A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying
 
@@ -94,21 +94,21 @@ which those commitments are exercised**."
 
 ## Where it sits
 
-- It rests on CLAIM-tmpd6uxt, from the same exchange: circumstances someone
+- It rests on [CLAIM-tmpd6uxt](CLAIM-tmpd6uxt.md), from the same exchange: circumstances someone
   else sets can create a genuine obligation. This claim makes the setting
   of such circumstances a standing position, not a single manoeuvre.
-- TERM-123: exploitation relative to a declared
+- [TERM-123](../terms.d/TERM-123.md): exploitation relative to a declared
   standard. A15 §8's four dimensions are a candidate standard; the claim
   uses the term in that relative sense.
-- CLAIM-690: who controls the terms sorts a dependence. A30
+- [CLAIM-690](CLAIM-690.md): who controls the terms sorts a dependence. A30
   §4 of the exchange asked whether a party's own moral commitment can be
   what makes its dependence a vulnerability, "the moral cost of withdrawal"
-  as leverage. That question is filed with this claim, QUESTION-tmpgyn11.
-- QUESTION-461 asks when an organization's
+  as leverage. That question is filed with this claim, [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md).
+- [QUESTION-461](../questions.d/QUESTION-461.md) asks when an organization's
   dependence on subordinated contributors increases their authority over
   it. The subsidy is a case where it does not: the dependence is on their
   conscience, which keeps them from withdrawing.
-- QUESTION-468 asks how the record
+- [QUESTION-468](../questions.d/QUESTION-468.md) asks how the record
   identifies exploitation. This claim proposes one mechanism and one
   standard.
 
@@ -123,4 +123,4 @@ which those commitments are exercised**."
   transfer costs and responsibilities onto those least able to refuse
   them.**"
 - **What Robillard and Strawser, Keller or Tronto hold.** A15 names them as
-  its foundations; all are registered unread (LIT-tmpl2w4q, LIT-tmpd09c2, LIT-tmp55sg8, LIT-tmpw46qz).
+  its foundations; all are registered unread ([LIT-tmpl2w4q](../literature.d/LIT-tmpl2w4q.md), [LIT-tmpd09c2](../literature.d/LIT-tmpd09c2.md), [LIT-tmp55sg8](../literature.d/LIT-tmp55sg8.md), [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md)).

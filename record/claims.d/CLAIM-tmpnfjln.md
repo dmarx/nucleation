@@ -41,7 +41,7 @@ summary: >-
   the consequences become visible." A17 §6 supplies the mechanism: "The
   system's resilience is attributed to the system. The system's failure is
   attributed to the person who stopped compensating for it." A17 and A26
-  name the condition asymmetric moral accountability. Wells Fargo (CASE-151)
+  name the condition asymmetric moral accountability. Wells Fargo ([CASE-151](../cases.d/CASE-151.md))
   is the record's nearest specimen. The wording is A's; adopting it is the
   owner's call.
 ---
@@ -106,24 +106,24 @@ A17 §8 lists three ways the frameworks go wrong:
 
 ## Where it sits
 
-- It rests on CLAIM-tmpnw7ez, from the same exchange: responsibility for the
+- It rests on [CLAIM-tmpnw7ez](CLAIM-tmpnw7ez.md), from the same exchange: responsibility for the
   conditions of another's conduct is distinct from responsibility for the
   conduct. A17's close says the same for delegation: "**If you have the
   power to determine the conditions under which someone else must exercise
   moral judgment, you cannot automatically absolve yourself of
   responsibility for the consequences merely because they were the one who
   ultimately made the decision.**"
-- CLAIM-tmpyjzi8, the implicit moral subsidy, is the upstream half: the
+- [CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md), the implicit moral subsidy, is the upstream half: the
   compensation that this claim says goes unseen is what the subsidy is.
-- CLAIM-614: an organization can keep harm non-legible by
+- [CLAIM-614](CLAIM-614.md): an organization can keep harm non-legible by
   the projections it reproduces. Invisible prevention is a non-legibility
   of the organization's own dependence.
-- CLAIM-678: operational, economic and epistemic power over
+- [CLAIM-678](CLAIM-678.md): operational, economic and epistemic power over
   a technology can be held separately. Control "upstream" here is the first
   two; the blame described is a use of the third, control over how failure
   is described (A17 §10: "**Power includes the ability to establish the
   categories through which responsibility is understood.**").
-- CASE-151, Wells Fargo's Community Bank: the
+- [CASE-151](../cases.d/CASE-151.md), Wells Fargo's Community Bank: the
   board's investigation traced unauthorized accounts to the sales model and
   its enforcement, while individual employees were dismissed. The nearest
   documented instance in the record. It is cited, not taken as grounds:
@@ -140,5 +140,5 @@ A17 §8 lists three ways the frameworks go wrong:
   alter blame in the expected ways". A19's own conclusion: "So the strong
   claim that algorithms reliably allow decision-makers to evade public
   blame isn't established."
-- **What Elish and Tronto say.** Both are registered unread (Elish, LIT-tmp4gcqt; Tronto, LIT-tmpw46qz and LIT-tmp4yz7x); the readings
+- **What Elish and Tronto say.** Both are registered unread (Elish, [LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md); Tronto, [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md) and [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md)); the readings
   are A's report.

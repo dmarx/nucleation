@@ -201,7 +201,6 @@ new claim filed; mapped here.
 
 ## Note of 2026-11-15: the owner's U13, two more cases, from "Assess Depp Heard Abuse"
 
-<!-- inactive-ok-file: CASE-tmproiqs CASE-tmp4gbo6 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
 At U13 of the exchange "Assess Depp Heard Abuse"
 (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c) the owner
@@ -215,14 +214,14 @@ out of the owner's U11 on procedural friction), so no new claim is filed.
 The owner's "attempted to bypass" is a claim of intent, which this claim
 leaves aside; it is recorded in the cases, not here.
 
-- **Hains Point** (CASE-tmproiqs) adds a mechanism to the three in the
+- **Hains Point** ([CASE-tmproiqs](../cases.d/CASE-tmproiqs.md)) adds a mechanism to the three in the
   table: trees cut while the government's position in court was that no
   final, reviewable plan existed, until the court found one had. Acting
   while denying that there is a decision to review raises the cost of a
   remedy without changing the standard, which is this claim's effect. It is
   also a partial counter-instance: a notice requirement and an injunction
   kept the remaining alternatives open.
-- **Third-country removals** (CASE-tmp4gbo6) are jurisdictional
+- **Third-country removals** ([CASE-tmp4gbo6](../cases.d/CASE-tmp4gbo6.md)) are jurisdictional
   displacement again, beside CECOT, with the difference that the window for
   a prior hearing was closed by the Supreme Court's own stays, not by
   disregard of an order.

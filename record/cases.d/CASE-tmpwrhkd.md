@@ -21,7 +21,7 @@ summary: >-
   reveal that Dan is the one exercising coercive control." It grounds the
   claim that equality of wrongdoing and equality of power are separate
   questions. A stipulated pair, at the interpersonal scale, of the shape of
-  CASE-264's two workshops. The wording is A's; adopting it is the owner's
+  [CASE-264](CASE-264.md)'s two workshops. The wording is A's; adopting it is the owner's
   call.
 ---
 <!-- inactive-ok-file: LIT-tmpyfuuw LIT-tmp77bag — Deferred; registered unread from the same exchange -->
@@ -61,7 +61,7 @@ apart in either direction: A has mutual wrongdoing with no domination, and
 B has the more frequent wrongdoer as the dominated party. A3 names the
 pattern in Johnson's typology (situational couple violence, coercive
 controlling violence, violent resistance, mutual violent control), which
-the record registers unread (LIT-tmpyfuuw), with Stark on coercive control (LIT-tmp77bag).
+the record registers unread ([LIT-tmpyfuuw](../literature.d/LIT-tmpyfuuw.md)), with Stark on coercive control ([LIT-tmp77bag](../literature.d/LIT-tmp77bag.md)).
 
 ## What it cannot show
 
@@ -78,7 +78,7 @@ the record registers unread (LIT-tmpyfuuw), with Stark on coercive control (LIT-
 
 ## Where it sits
 
-CASE-264 is the same contrast for an organization: two
+[CASE-264](CASE-264.md) is the same contrast for an organization: two
 workshops equal in dependence and different in who controls the terms. This
 case varies the count of wrongful acts as well as control, and so separates
-a thing CASE-264 holds equal.
+a thing [CASE-264](CASE-264.md) holds equal.

@@ -19,7 +19,7 @@ first_author: 'Gaboriaud'
 keywords: []
 implementations: []
 summary: >-
-  Gaboriaud et al. (2024). Wrongness and Blame Judgments and Their Dynamics: Toward a Three-Input Processing Model of Moral Judgment. International Review of Social Psychology. DOI 10.5334/irsp.868. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §5; A5 reading list) on how people judge wrongness, blame and causation separately: Preregistered experiment: intention, outcome and causation feed wrongness and blame judgments differently over time. It bears on CLAIM-tmpnw7ez. What the exchange says of it is unverified until read.
+  Gaboriaud et al. (2024). Wrongness and Blame Judgments and Their Dynamics: Toward a Three-Input Processing Model of Moral Judgment. International Review of Social Psychology. DOI 10.5334/irsp.868. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §5; A5 reading list) on how people judge wrongness, blame and causation separately: Preregistered experiment: intention, outcome and causation feed wrongness and blame judgments differently over time. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnw7ez — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Gaboriaud, Gautheron, Quinton, Smeding (2024). *Wrongness and Blame Judgments an
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §5; A5 reading list, on how people judge wrongness, blame and causation separately. It bears on CLAIM-tmpnw7ez. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §5; A5 reading list, on how people judge wrongness, blame and causation separately. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md). Not read.

@@ -19,7 +19,7 @@ first_author: 'Hong Kong Monetary Authority'
 keywords: []
 implementations: []
 summary: >-
-  Hong Kong Monetary Authority (2026). Discussion Paper on Agentic A.I. Governance in the Banking Sector. Hong Kong Monetary Authority. https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2026/20261102e3a1.pdf. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §3; A23 reading list) on governing fast automated agents by standing limits: Agentic AI governance: intervention mechanisms (limits, tool restriction, pausing, fallback). It bears on CLAIM-tmpwpvbz. What the exchange says of it is unverified until read.
+  Hong Kong Monetary Authority (2026). Discussion Paper on Agentic A.I. Governance in the Banking Sector. Hong Kong Monetary Authority. https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2026/20261102e3a1.pdf. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §3; A23 reading list) on governing fast automated agents by standing limits: Agentic AI governance: intervention mechanisms (limits, tool restriction, pausing, fallback). It bears on [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpwpvbz — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +33,4 @@ Hong Kong Monetary Authority (2026). *Discussion Paper on Agentic A.I. Governanc
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §3; A23 reading list, on governing fast automated agents by standing limits. It bears on CLAIM-tmpwpvbz. Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §3; A23 reading list, on governing fast automated agents by standing limits. It bears on [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md). Not read.

@@ -31,7 +31,7 @@ summary: >-
   that the answer is both of them)") and U2: "Equality of wrongdoing and
   equality of power are separate questions", and "mutual violence does not,
   by itself, demonstrate mutual abuse or equal responsibility". Grounded in
-  a stipulated pair of couples. CLAIM-690 is the organizational form: the
+  a stipulated pair of couples. [CLAIM-690](CLAIM-690.md) is the organizational form: the
   same magnitude of dependence is sorted by who controls the terms. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -62,22 +62,22 @@ circumstances, and what overall pattern the behaviour created. "Two people
 can both be guilty under question 1, while one bears substantially greater
 responsibility under question 3."
 
-The support is the stipulated pair CASE-tmpwrhkd, in which the more frequent striker is the controlled party;
-the argument is ARG-tmpsyaz2.
+The support is the stipulated pair [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md), in which the more frequent striker is the controlled party;
+the argument is [ARG-tmpsyaz2](../arguments.d/ARG-tmpsyaz2.md).
 
 ## Where it sits
 
-- CLAIM-690: whichever way a whole and its part depend on
+- [CLAIM-690](CLAIM-690.md): whichever way a whole and its part depend on
   each other, what sorts the dependence is who controls its terms. This
   claim is the interpersonal version, with wrongful acts in place of
   dependence as the quantity that does not settle it.
-- TERM-124, domination relative to a declared
+- [TERM-124](../terms.d/TERM-124.md), domination relative to a declared
   standard: Dan's position in the case is domination in that sense.
-- CLAIM-545: domination is another's capacity to govern
+- [CLAIM-545](CLAIM-545.md): domination is another's capacity to govern
   the relations through which one's demands become effective, whether or
   not it is used.
 - The same exchange's claim that responsibility for one's conduct and for
-  the conditions of others' conduct are distinct (CLAIM-tmpnw7ez) says what
+  the conditions of others' conduct are distinct ([CLAIM-tmpnw7ez](CLAIM-tmpnw7ez.md)) says what
   the second question is responsibility for.
 
 ## What it does not say
