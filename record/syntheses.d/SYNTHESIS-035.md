@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp4u1pa
 title: 'The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent''s regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -15,6 +15,14 @@ history:
     remaining parts; its links to the sixth are kept as dependencies
     across lines, and its version 1 counts as the record of why the line
     was split. Nothing else changes.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    At the synthesis review of organizational-normativity on
+    2026-11-15, SYNTHESIS-041 took CLAIM-686 and QUESTION-454, which
+    carry will-organization second, as its version 2. Its count here
+    goes from 22 to 24, and a sentence says that entries filed on the
+    line since the split are not all integrated. Nothing else changes.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the will-organization line that no part account
@@ -58,6 +66,7 @@ summary: >-
   version 1's sixth part, is the line organizational-normativity
   ([ADR-089](../decisions.d/ADR-089.md)), with its own account ([SYNTHESIS-038](SYNTHESIS-038.md)).
 ---
+<!-- inactive-ok-file: CLAIM-686 — Proposed; joined SYNTHESIS-041 at the review of 2026-11-15 -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 ARG-059 ARG-062 ARG-064 CLAIM-024 CLAIM-156 CLAIM-169 CLAIM-262 CLAIM-336 CLAIM-358 CLAIM-364 CLAIM-440 CLAIM-441 CLAIM-442 CLAIM-445 CLAIM-446 CLAIM-447 CLAIM-465 CLAIM-484 CLAIM-487 CLAIM-527 CLAIM-541 CLAIM-544 CLAIM-545 CLAIM-553 CLAIM-555 CLAIM-610 CLAIM-614 CLAIM-619 CLAIM-620 CLAIM-624 CLAIM-627 CLAIM-631 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-010 CLAIM-089 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-015 QUESTION-304 — Answered; components and citations, with their standing -->
@@ -89,7 +98,7 @@ summary: >-
   from [CLAIM-079](../claims.d/CLAIM-079.md) and [CLAIM-025](../claims.d/CLAIM-025.md); [CLAIM-349](../claims.d/CLAIM-349.md), [CLAIM-422](../claims.d/CLAIM-422.md), [CLAIM-465](../claims.d/CLAIM-465.md), [CLAIM-344](../claims.d/CLAIM-344.md),
   [CLAIM-359](../claims.d/CLAIM-359.md), with [CASE-188](../cases.d/CASE-188.md) and [CASE-128](../cases.d/CASE-128.md) on resolve; learned authority and governance-maintained anxiety
   ([CLAIM-443](../claims.d/CLAIM-443.md), [CLAIM-446](../claims.d/CLAIM-446.md), [CLAIM-445](../claims.d/CLAIM-445.md)); seventeen promotion conditions.
-- **[SYNTHESIS-041](SYNTHESIS-041.md), freedom of will and self-formation** (22). [CLAIM-354](../claims.d/CLAIM-354.md)'s profile;
+- **[SYNTHESIS-041](SYNTHESIS-041.md), freedom of will and self-formation** (24). [CLAIM-354](../claims.d/CLAIM-354.md)'s profile;
   sensitivity is not control ([CLAIM-542](../claims.d/CLAIM-542.md), [CLAIM-533](../claims.d/CLAIM-533.md)); [CLAIM-523](../claims.d/CLAIM-523.md)'s three
   achievements; [CLAIM-545](../claims.d/CLAIM-545.md), governance of governability; [CLAIM-532](../claims.d/CLAIM-532.md),
   self-formation; [CLAIM-022](../claims.d/CLAIM-022.md), ownership disclaimed.
@@ -99,11 +108,14 @@ summary: >-
   objection; [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-624](../claims.d/CLAIM-624.md) on the wrong beyond harm, with five
   arguments; [CLAIM-619](../claims.d/CLAIM-619.md).
 
-Every one of the line's 180 entries is integrated by exactly one part
-account: the 186 entries carrying the line after the split of
+When this account was written, every one of the line's 180 entries was
+integrated by exactly one part account: the 186 entries carrying the line after the split of
 2026-11-11, less the six Superseded syntheses. Version 1 had 203, with
 the 23 now in organizational-normativity. [CASE-128](../cases.d/CASE-128.md) and [CASE-129](../cases.d/CASE-129.md) joined the line at the sweep of
-2026-11-11; [CLAIM-555](../claims.d/CLAIM-555.md) left it. Some are also integrated by other lines' accounts, each part
+2026-11-11; [CLAIM-555](../claims.d/CLAIM-555.md) left it. Since then [CLAIM-686](../claims.d/CLAIM-686.md) and [QUESTION-454](../questions.d/QUESTION-454.md), first in
+organizational-normativity, joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15); other
+entries filed on the line after 2026-11-11 are integrated by no part
+account yet, and are for the line's next review. Some are also integrated by other lines' accounts, each part
 account says which.
 
 ## Where they meet

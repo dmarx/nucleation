@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [15 Nov 04:41 — Synthesis review of 2026-11-15: the organizational-normativity line, grown from 23 entries to 71, in four part accounts and a line account over them; the recent filings brought into the accounts of the other lines they carry; no claim filed](2026-11.md#synthesis-review-of-2026-11-15-the-organizational-normativity-line-grown-from-23-entries-to-71-in-four-part-accounts-and-a-line-account-over-them-the-recent-filings-brought-into-the-accounts-of-the-other-lines-they-carry-no-claim-filed)
 - [15 Nov 01:07 — Andrieu et al. (2026), recurrent models as provable nonlinear observers, read and filed](2026-11.md#andrieu-et-al-2026-recurrent-models-as-provable-nonlinear-observers-read-and-filed)
 - [15 Nov 01:06 — Kang et al. (2026), Prompt-Activation Duality and KV-cache contamination under steering, read and filed](2026-11.md#kang-et-al-2026-prompt-activation-duality-and-kv-cache-contamination-under-steering-read-and-filed)
 - [15 Nov 01:04 — PRUNE (Ma et al. 2025), perturbation-restrained sequential model editing, read and filed](2026-11.md#prune-ma-et-al-2025-perturbation-restrained-sequential-model-editing-read-and-filed)
@@ -75,10 +76,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-263 entries across 3 books, newest first.
+264 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 66 | 2026-11-01 | 2026-11-15 |
+| [2026-11](2026-11.md) | 67 | 2026-11-01 | 2026-11-15 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
