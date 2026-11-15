@@ -17,7 +17,7 @@ bears_on:
 - QUESTION-281
 summary: >-
   A second construction in Conway's Game of Life, computed and checkable,
-  varying CASE-tmpnqx8e's block. Eater 1, a seven-cell still life, is
+  varying [CASE-tmpnqx8e](CASE-tmpnqx8e.md)'s block. Eater 1, a seven-cell still life, is
   unchanged for 1,000 generations alone. Struck by a glider in one lane,
   its corner cell dies and is reborn the next generation from its own
   cells, and the glider is gone. A block in the same place is annihilated
@@ -49,7 +49,7 @@ o.o.
 
 Under B3/S23 it is a still life. Alone on an empty lattice it is
 unchanged after 1,000 generations, a fixed point like the block of
-CASE-tmpnqx8e. It was computed on 2026-11-15 with the same simulator as
+[CASE-tmpnqx8e](CASE-tmpnqx8e.md). It was computed on 2026-11-15 with the same simulator as
 that case.
 
 **1. Self-repair after a strike.** A glider in cells (0,1), (1,2), (2,0),
@@ -77,7 +77,7 @@ outside the eater takes part in the repair.
 Its robustness covers the one strike its shape is suited to.
 
 **3. Self-repair in a role.** In the frame where Gosper's gun cell (x, y)
-is at row y, column x (CASE-tmpnqx8e's gun), the eater is placed with its
+is at row y, column x ([CASE-tmpnqx8e](CASE-tmpnqx8e.md)'s gun), the eater is placed with its
 cell (0,0) at row 30, column 44, across the gun's output lane. Then:
 
 - From t = 103, one eater cell is dead at t = 103, 133, 163, 193, 223, 253
@@ -87,7 +87,7 @@ cell (0,0) at row 30, column 44, across the gun's output lane. Then:
 - The whole lattice, gun and eater, is periodic with period 30 from
   t = 300 to t = 600, with 58 to 83 live cells.
 
-Without the eater the gun's gliders leave for ever (CASE-tmpnqx8e: 12 by
+Without the eater the gun's gliders leave for ever ([CASE-tmpnqx8e](CASE-tmpnqx8e.md): 12 by
 t = 400).
 
 ## What it shows
@@ -95,7 +95,7 @@ t = 400).
 - **A third mechanism of stabilization.** The lone block and the lone
   eater are fixed points. The struck eater persists by self-repair: a
   lost cell is rebuilt from the form's own cells, with no help from
-  outside. The gun's blocks in CASE-tmpnqx8e persist by repair from the
+  outside. The gun's blocks in [CASE-tmpnqx8e](CASE-tmpnqx8e.md) persist by repair from the
   pattern they serve. Three mechanisms keep the same kind of form, a
   still life, in being.
 - **The role again changes the mechanism.** The eater's role, absorbing
@@ -108,10 +108,10 @@ t = 400).
 
 ## What it cannot show
 
-- **Anything outside Life.** It is the same as CASE-tmpnqx8e here.
+- **Anything outside Life.** It is the same as [CASE-tmpnqx8e](CASE-tmpnqx8e.md) here.
 - **That self-repair is more robust than repair by a larger pattern.**
-  Only one strike lane each was tried in a role. CLAIM-456 finds, in
+  Only one strike lane each was tried in a role. [CLAIM-456](../claims.d/CLAIM-456.md) finds, in
   another system, that self-production can be the more fragile
   arrangement.
-- **Why "documented".** As in CASE-tmpnqx8e, every fact is a
+- **Why "documented".** As in [CASE-tmpnqx8e](CASE-tmpnqx8e.md), every fact is a
   computation any reader can repeat.

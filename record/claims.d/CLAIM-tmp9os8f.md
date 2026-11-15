@@ -45,24 +45,24 @@ summary: >-
 
 ## The claim
 
-QUESTION-281 separates a form's creation, its stabilization and its
+[QUESTION-281](../questions.d/QUESTION-281.md) separates a form's creation, its stabilization and its
 coming to have a constitutive role, and asks whether they are three
 achievements. This claim concerns the second and third.
 
 - **They can come apart.** A lone block in Life is stable and has no
-  role (CASE-tmpnqx8e).
+  role ([CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md)).
 - **They are not independent.** The mechanism that stabilizes the form
   is not a property of the form. In Life, the same still life persists by
   one of three mechanisms:
   - as a fixed point, alone;
-  - by its own repair, the eater across a glider stream (CASE-tmpjucsj);
+  - by its own repair, the eater across a glider stream ([CASE-tmpjucsj](../cases.d/CASE-tmpjucsj.md));
   - by repair from the pattern it serves, the blocks of Gosper's gun
-    (CASE-tmpnqx8e).
+    ([CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md)).
 
   In both constructions, taking the role is what moved the form from the
   first mechanism to one of the others.
 
-The argument is ARG-tmpdg5zy, an existence proof.
+The argument is [ARG-tmpdg5zy](../arguments.d/ARG-tmpdg5zy.md), an existence proof.
 
 ## What it does not say
 
@@ -75,17 +75,17 @@ The argument is ARG-tmpdg5zy, an existence proof.
   formal system; its interest for other systems is as a possibility,
   shown to be coherent.
 - **That the block or the eater is an individual**, or that the gun's
-  block-and-shuttle loop is closure in TERM-070's sense.
+  block-and-shuttle loop is closure in [TERM-070](../terms.d/TERM-070.md)'s sense.
 - **Which mechanism is more robust.** The eater's self-repair covers one
-  strike lane. On fragility, CLAIM-456 is the record's held result.
+  strike lane. On fragility, [CLAIM-456](CLAIM-456.md) is the record's held result.
 
 ## Neighbours
 
-- **CLAIM-280.** A pattern can persist through damage and repair, and the
+- **[CLAIM-280](CLAIM-280.md).** A pattern can persist through damage and repair, and the
   persistence of a product and of the organization producing it are
   separate facts. This claim adds that one form can switch between
   persisting without repair and persisting by repair, and that the switch
   comes with a role.
-- **CLAIM-456.** Internal maintenance can be more fragile than reset from
+- **[CLAIM-456](CLAIM-456.md).** Internal maintenance can be more fragile than reset from
   outside. This claim's eater and gun blocks are the two kinds, for one
   form, but nothing is said here about which is more fragile.

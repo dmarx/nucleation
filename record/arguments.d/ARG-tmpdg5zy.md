@@ -20,7 +20,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CASE-tmpnqx8e CASE-tmpjucsj CLAIM-tmp9os8f — Proposed; the cases and claim filed with this argument -->
+<!-- inactive-ok-file: CASE-tmpnqx8e CASE-tmpjucsj — Proposed; the cases and claim filed with this argument -->
 
 # ARG-tmpdg5zy: A still life that is a fixed point alone and is broken and rebuilt in a role, by itself or by the pattern it serves, shows that the mechanism keeping a form in being can change with the form's role
 
@@ -29,9 +29,9 @@ summary: >-
 One coherent system, Life, in which a form's shape is held fixed while
 its role varies, and in which its mechanism of persistence is observed
 to vary with the role. The block and the eater are each fixed points
-alone. In CASE-tmpnqx8e's gun, each block has two of its four cells dead
+alone. In [CASE-tmpnqx8e](../cases.d/CASE-tmpnqx8e.md)'s gun, each block has two of its four cells dead
 at one generation of every cycle and is rebuilt by the gun. In
-CASE-tmpjucsj, the eater across the gun's stream has one cell dead every
+[CASE-tmpjucsj](../cases.d/CASE-tmpjucsj.md), the eater across the gun's stream has one cell dead every
 30 generations and regrows it from its own cells. Each form is the same
 shape throughout, and only its role differs.
 
