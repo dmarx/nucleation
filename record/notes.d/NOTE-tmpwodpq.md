@@ -162,7 +162,7 @@ amnesic probing (Elazar et al.). It does not mention model editing.
   computation). LEACE-guarded data can still carry nonlinearly usable Z,
   the XOR case being the canonical example. The paper does not give it.
   No note filed.
-- **MuEdit and AlphaEdit** (LIT-tmpy7s15, LIT-tmpyijzd). They also
+- **MuEdit and AlphaEdit** ([LIT-tmpy7s15](../literature.d/LIT-tmpy7s15.md), [LIT-tmpyijzd](../literature.d/LIT-tmpyijzd.md)). They also
   edit by projection, but onto null spaces of preserved keys in weight
   space, where LEACE projects representations. Any closer link would be
   the record's own step; none is made here.
