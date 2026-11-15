@@ -73,8 +73,8 @@ of the disorder alone.
 - **The potential** (p. 61, Fig. 1c): "smooth thickness variations in the
   film act as a correlated disordered potential", with "v0 ≈ 1–5% and
   lc ≈ 90–350 µm".
-- **First-branch scaling** (pp. 61–62, Fig. 3): the first-branch distance
-  "was found to satisfy d0 ∝ lcv0−2/3" in earlier work, and here the
+- **First-branch scaling** (pp. 61–62, Fig. 3): earlier work found the
+  first-branch distance to satisfy d0 ∝ lc v0^−2/3, and here the
   scintillation index "grows sharply at a distance proportional to"
   lc v0^−2/3, over ensembles of 10–20 realizations averaged across the
   transverse coordinate.
