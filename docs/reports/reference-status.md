@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**920 documents cited without acknowledgement.** Not listed: 28150 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**920 documents cited without acknowledgement.** Not listed: 28726 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1591,7 +1591,7 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/questions.d/QUESTION-441.md:24`](../../record/questions.d/QUESTION-441.md)
 - [`record/syntheses.d/SYNTHESIS-015.md:12`](../../record/syntheses.d/SYNTHESIS-015.md)
 - [`record/syntheses.d/SYNTHESIS-017.md:12`](../../record/syntheses.d/SYNTHESIS-017.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:101`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:118`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/terms.d/TERM-059.md:16`](../../record/terms.d/TERM-059.md)
 
 ### [CLAIM-220](../../record/claims.d/CLAIM-220.md) — Proposed
@@ -1778,7 +1778,7 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 
 A SYNTHESIS is an account of a scope of the record's argument and asserts nothing of its own, and whatever adds to its components is a CLAIM: the admitted syntheses return to the claims they were, the admission test becomes the test for filing a claim whose premises are claims, and a claim's premises are claims again
 
-79 citations in 45 files await a look; 42 other citations of it are acknowledged.
+79 citations in 45 files await a look; 43 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-055.md:19`](../../record/arguments.d/ARG-055.md)
 - [`record/arguments.d/ARG-055.md:33`](../../record/arguments.d/ARG-055.md)
@@ -2214,7 +2214,7 @@ The readiness line is split in two: readiness keeps keeping a rare capability an
 - [`record/syntheses.d/SYNTHESIS-031.md:57`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:138`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:12`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:93`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:110`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-043.md:34`](../../record/syntheses.d/SYNTHESIS-043.md)
 
 ### [ADR-077](../../record/decisions.d/ADR-077.md) — Superseded
@@ -2585,48 +2585,6 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 - [`record/syntheses.d/SYNTHESIS-006.md:260`](../../record/syntheses.d/SYNTHESIS-006.md)
 - [`record/terms.d/TERM-070.md:84`](../../record/terms.d/TERM-070.md)
 
-### [ADR-089](../../record/decisions.d/ADR-089.md) — Proposed
-
-Normative judgment about organizations becomes a line of its own, organizational-normativity, split from will-organization: whether an organization's own dynamics ground norms, and what judging one needs, is a question of its own, while acting as one stays, because its root question refines the line's own
-
-35 citations in 26 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/arguments.d/ARG-043.md:13`](../../record/arguments.d/ARG-043.md)
-- [`record/arguments.d/ARG-055.md:25`](../../record/arguments.d/ARG-055.md)
-- [`record/arguments.d/ARG-058.md:26`](../../record/arguments.d/ARG-058.md)
-- [`record/arguments.d/ARG-059.md:13`](../../record/arguments.d/ARG-059.md)
-- [`record/arguments.d/ARG-062.md:26`](../../record/arguments.d/ARG-062.md)
-- [`record/arguments.d/ARG-064.md:26`](../../record/arguments.d/ARG-064.md)
-- [`record/arguments.d/ARG-070.md:13`](../../record/arguments.d/ARG-070.md)
-- [`record/arguments.d/ARG-071.md:26`](../../record/arguments.d/ARG-071.md)
-- [`record/cases.d/CASE-229.md:13`](../../record/cases.d/CASE-229.md)
-- [`record/claims.d/CLAIM-075.md:13`](../../record/claims.d/CLAIM-075.md)
-- [`record/claims.d/CLAIM-363.md:38`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-511.md:31`](../../record/claims.d/CLAIM-511.md)
-- [`record/claims.d/CLAIM-512.md:44`](../../record/claims.d/CLAIM-512.md)
-- [`record/claims.d/CLAIM-518.md:55`](../../record/claims.d/CLAIM-518.md)
-- [`record/claims.d/CLAIM-608.md:13`](../../record/claims.d/CLAIM-608.md)
-- [`record/claims.d/CLAIM-614.md:30`](../../record/claims.d/CLAIM-614.md)
-- [`record/claims.d/CLAIM-614.md:38`](../../record/claims.d/CLAIM-614.md)
-- [`record/claims.d/CLAIM-619.md:31`](../../record/claims.d/CLAIM-619.md)
-- [`record/claims.d/CLAIM-624.md:58`](../../record/claims.d/CLAIM-624.md)
-- [`record/claims.d/CLAIM-624.md:72`](../../record/claims.d/CLAIM-624.md)
-- [`record/questions.d/QUESTION-128.md:13`](../../record/questions.d/QUESTION-128.md)
-- [`record/questions.d/QUESTION-129.md:13`](../../record/questions.d/QUESTION-129.md)
-- [`record/questions.d/QUESTION-256.md:13`](../../record/questions.d/QUESTION-256.md)
-- [`record/questions.d/QUESTION-441.md:13`](../../record/questions.d/QUESTION-441.md)
-- [`record/questions.d/QUESTION-441.md:21`](../../record/questions.d/QUESTION-441.md)
-- [`record/syntheses.d/SYNTHESIS-035.md:12`](../../record/syntheses.d/SYNTHESIS-035.md)
-- [`record/syntheses.d/SYNTHESIS-035.md:59`](../../record/syntheses.d/SYNTHESIS-035.md)
-- [`record/syntheses.d/SYNTHESIS-035.md:68`](../../record/syntheses.d/SYNTHESIS-035.md)
-- [`record/syntheses.d/SYNTHESIS-035.md:183`](../../record/syntheses.d/SYNTHESIS-035.md)
-- [`record/syntheses.d/SYNTHESIS-035.md:188`](../../record/syntheses.d/SYNTHESIS-035.md)
-- [`record/syntheses.d/SYNTHESIS-036.md:12`](../../record/syntheses.d/SYNTHESIS-036.md)
-- [`record/syntheses.d/SYNTHESIS-036.md:116`](../../record/syntheses.d/SYNTHESIS-036.md)
-- [`record/syntheses.d/SYNTHESIS-038.md:12`](../../record/syntheses.d/SYNTHESIS-038.md)
-- [`record/syntheses.d/SYNTHESIS-038.md:89`](../../record/syntheses.d/SYNTHESIS-038.md)
-- [`record/terms.d/TERM-059.md:13`](../../record/terms.d/TERM-059.md)
-
 ### [CLAIM-204](../../record/claims.d/CLAIM-204.md) — Proposed
 
 A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part
@@ -2748,6 +2706,46 @@ A synthesis in a filed source is audited and, when it integrates, filed as a the
 - [`record/syntheses.d/SYNTHESIS-017.md:154`](../../record/syntheses.d/SYNTHESIS-017.md)
 - [`record/syntheses.d/SYNTHESIS-027.md:213`](../../record/syntheses.d/SYNTHESIS-027.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:146`](../../record/syntheses.d/SYNTHESIS-031.md)
+
+### [ADR-089](../../record/decisions.d/ADR-089.md) — Proposed
+
+Normative judgment about organizations becomes a line of its own, organizational-normativity, split from will-organization: whether an organization's own dynamics ground norms, and what judging one needs, is a question of its own, while acting as one stays, because its root question refines the line's own
+
+33 citations in 25 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/arguments.d/ARG-043.md:13`](../../record/arguments.d/ARG-043.md)
+- [`record/arguments.d/ARG-055.md:25`](../../record/arguments.d/ARG-055.md)
+- [`record/arguments.d/ARG-058.md:26`](../../record/arguments.d/ARG-058.md)
+- [`record/arguments.d/ARG-059.md:13`](../../record/arguments.d/ARG-059.md)
+- [`record/arguments.d/ARG-062.md:26`](../../record/arguments.d/ARG-062.md)
+- [`record/arguments.d/ARG-064.md:26`](../../record/arguments.d/ARG-064.md)
+- [`record/arguments.d/ARG-070.md:13`](../../record/arguments.d/ARG-070.md)
+- [`record/arguments.d/ARG-071.md:26`](../../record/arguments.d/ARG-071.md)
+- [`record/cases.d/CASE-229.md:13`](../../record/cases.d/CASE-229.md)
+- [`record/claims.d/CLAIM-075.md:13`](../../record/claims.d/CLAIM-075.md)
+- [`record/claims.d/CLAIM-363.md:38`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-511.md:31`](../../record/claims.d/CLAIM-511.md)
+- [`record/claims.d/CLAIM-512.md:44`](../../record/claims.d/CLAIM-512.md)
+- [`record/claims.d/CLAIM-518.md:55`](../../record/claims.d/CLAIM-518.md)
+- [`record/claims.d/CLAIM-608.md:13`](../../record/claims.d/CLAIM-608.md)
+- [`record/claims.d/CLAIM-614.md:30`](../../record/claims.d/CLAIM-614.md)
+- [`record/claims.d/CLAIM-614.md:38`](../../record/claims.d/CLAIM-614.md)
+- [`record/claims.d/CLAIM-619.md:31`](../../record/claims.d/CLAIM-619.md)
+- [`record/claims.d/CLAIM-624.md:58`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-624.md:72`](../../record/claims.d/CLAIM-624.md)
+- [`record/questions.d/QUESTION-128.md:13`](../../record/questions.d/QUESTION-128.md)
+- [`record/questions.d/QUESTION-129.md:13`](../../record/questions.d/QUESTION-129.md)
+- [`record/questions.d/QUESTION-256.md:13`](../../record/questions.d/QUESTION-256.md)
+- [`record/questions.d/QUESTION-441.md:13`](../../record/questions.d/QUESTION-441.md)
+- [`record/questions.d/QUESTION-441.md:21`](../../record/questions.d/QUESTION-441.md)
+- [`record/syntheses.d/SYNTHESIS-035.md:12`](../../record/syntheses.d/SYNTHESIS-035.md)
+- [`record/syntheses.d/SYNTHESIS-035.md:67`](../../record/syntheses.d/SYNTHESIS-035.md)
+- [`record/syntheses.d/SYNTHESIS-035.md:77`](../../record/syntheses.d/SYNTHESIS-035.md)
+- [`record/syntheses.d/SYNTHESIS-035.md:195`](../../record/syntheses.d/SYNTHESIS-035.md)
+- [`record/syntheses.d/SYNTHESIS-035.md:200`](../../record/syntheses.d/SYNTHESIS-035.md)
+- [`record/syntheses.d/SYNTHESIS-036.md:12`](../../record/syntheses.d/SYNTHESIS-036.md)
+- [`record/syntheses.d/SYNTHESIS-036.md:116`](../../record/syntheses.d/SYNTHESIS-036.md)
+- [`record/terms.d/TERM-059.md:13`](../../record/terms.d/TERM-059.md)
 
 ### [CLAIM-306](../../record/claims.d/CLAIM-306.md) — Superseded
 
@@ -2883,10 +2881,10 @@ The withdrawal inquiry takes transient-support as its first line: its two root q
 - [`record/questions.d/QUESTION-431.md:18`](../../record/questions.d/QUESTION-431.md)
 - [`record/questions.d/QUESTION-432.md:18`](../../record/questions.d/QUESTION-432.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:33`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:96`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:181`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:183`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:209`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:113`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:198`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:200`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:226`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-045.md:188`](../../record/syntheses.d/SYNTHESIS-045.md)
 
 ### [SYNTHESIS-042](../../record/syntheses.d/SYNTHESIS-042.md) — Proposed
@@ -3624,7 +3622,7 @@ Readiness for a rare contingency is a probability of effective response under an
 - [`record/syntheses.d/SYNTHESIS-031.md:148`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:151`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:154`](../../record/syntheses.d/SYNTHESIS-031.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:238`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:305`](../../record/syntheses.d/SYNTHESIS-032.md)
 
 ### [SYNTHESIS-046](../../record/syntheses.d/SYNTHESIS-046.md) — Proposed
 
@@ -3948,7 +3946,7 @@ Reaching a configuration has a resource threshold of its own, the least peak ove
 - [`record/syntheses.d/SYNTHESIS-031.md:149`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:157`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:159`](../../record/syntheses.d/SYNTHESIS-031.md)
-- [`record/syntheses.d/SYNTHESIS-032.md:244`](../../record/syntheses.d/SYNTHESIS-032.md)
+- [`record/syntheses.d/SYNTHESIS-032.md:311`](../../record/syntheses.d/SYNTHESIS-032.md)
 
 ### [THEORY-057](../../record/theory.d/THEORY-057.md) — Proposed
 
@@ -4734,7 +4732,7 @@ Agency in the sense that bears on responsibility needs a standpoint that settles
 
 A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights
 
-10 citations in 3 files await a look; 21 other citations of it are acknowledged.
+10 citations in 3 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-288.md:37`](../../record/claims.d/CLAIM-288.md)
 - [`record/claims.d/CLAIM-288.md:38`](../../record/claims.d/CLAIM-288.md)
@@ -5461,7 +5459,7 @@ Minimal agency requires individuality, interactional asymmetry and self-generate
 
 Organizational action can be described as pre-individual, so that whose action it is, a person's or an organization's, is an outcome of the individuations it is allowed to contribute to rather than a given; an action then has as many significations as the individuations it takes part in, and a person whose action is refused a collective's recognition experiences that as disindividuation
 
-8 citations in 8 files await a look; 16 other citations of it are acknowledged.
+8 citations in 8 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-047.md:76`](../../record/arguments.d/ARG-047.md)
 - [`record/claims.d/CLAIM-405.md:208`](../../record/claims.d/CLAIM-405.md)
@@ -5673,7 +5671,7 @@ Because an apparatus makes some distinctions determinate and leaves others unsta
 
 The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown
 
-7 citations in 2 files await a look; 3 other citations of it are acknowledged.
+7 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-512.md:34`](../../record/claims.d/CLAIM-512.md)
 - [`record/claims.d/CLAIM-512.md:35`](../../record/claims.d/CLAIM-512.md)
@@ -6053,7 +6051,7 @@ Model-based wanting is a pursuit process's ranking of the futures it predicts un
 
 Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-6 citations in 6 files await a look; 84 other citations of it are acknowledged.
+6 citations in 6 files await a look; 89 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:19`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:18`](../syntheses/role/thesis.md)
@@ -6691,7 +6689,7 @@ If the record's hypotheses held, agency and autonomy would be further organizati
 
 A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized
 
-5 citations in 5 files await a look; 61 other citations of it are acknowledged.
+5 citations in 5 files await a look; 69 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -6715,7 +6713,7 @@ Concepts are individuated over time by the transmission criterion that governs o
 
 The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
 
-5 citations in 5 files await a look; 143 other citations of it are acknowledged.
+5 citations in 5 files await a look; 163 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -7737,7 +7735,7 @@ What classification training leaves in a network's last layers, and what it cost
 
 moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
 
-4 citations in 3 files await a look; 45 other citations of it are acknowledged.
+4 citations in 3 files await a look; 48 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-418.md:170`](../../record/claims.d/CLAIM-418.md)
 - [`record/decisions.d/ADR-056.md:155`](../../record/decisions.d/ADR-056.md)
@@ -7979,7 +7977,7 @@ Counting the inference a model will serve as well as its training, the least-com
 
 To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
 
-4 citations in 2 files await a look; 10 other citations of it are acknowledged.
+4 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-160.md:18`](../../record/claims.d/CLAIM-160.md)
 - [`record/claims.d/CLAIM-160.md:159`](../../record/claims.d/CLAIM-160.md)
@@ -8094,7 +8092,7 @@ Mind-wandering, read as Metzinger reads it, is an individual-scale case in which
 
 A self-maintaining protective regime, whose interventions shift the evidence and authority that judge it, carries over to a harm-producing organization once a normative predicate replaces the evidence of continued need: the reproductive mechanism transfers and the verdict does not
 
-3 citations in 3 files await a look; 9 other citations of it are acknowledged.
+3 citations in 3 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:43`](../../record/claims.d/CLAIM-614.md)
 - [`record/claims.d/CLAIM-624.md:77`](../../record/claims.d/CLAIM-624.md)
@@ -8424,7 +8422,7 @@ Internal conflict is the gap between the precedence a motive claims over action 
 
 A self-maintaining organization ought to preserve its corrigibility
 
-3 citations in 3 files await a look; 33 other citations of it are acknowledged.
+3 citations in 3 files await a look; 35 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-515.md:97`](../../record/claims.d/CLAIM-515.md)
 - [`record/literature.d/LIT-1880.md:90`](../../record/literature.d/LIT-1880.md)
@@ -8474,7 +8472,7 @@ Records kept of each capacity a response needs bound a reserve's readiness for a
 
 An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated
 
-3 citations in 3 files await a look; 24 other citations of it are acknowledged.
+3 citations in 3 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-285.md:13`](../../record/questions.d/QUESTION-285.md)
@@ -8822,9 +8820,9 @@ What a record of a developing argument can secure is traceable change over its a
 
 ### [SYNTHESIS-038](../../record/syntheses.d/SYNTHESIS-038.md) — Proposed
 
-A normative judgment about an organization is well-defined only once its relata are fixed and can then be false; viability does not establish what ought to persist; judgments of continuity, reform and obligation can need histories that a present state does not show; and the wrong beyond harm that an organization commits by reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability
+The organizational-normativity line is four accounts that meet at its two root questions, whether an organization's own dynamics give a path to normativity and whether relationally indexed judgments can be objective, and at the principle that a normative judgment is well-defined once its relata are fixed and can then be false: what such a judgment needs, the wrong beyond harm and becoming normatively less informed, what a whole and its parts owe and claim, and what those who govern an arrangement others depend on owe; the line makes no claim beyond its parts, and its parts relate mostly through those questions
 
-3 citations in 3 files await a look; 16 other citations of it are acknowledged.
+3 citations in 3 files await a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:42`](../../record/claims.d/CLAIM-614.md)
 - [`record/claims.d/CLAIM-624.md:76`](../../record/claims.d/CLAIM-624.md)
@@ -9084,7 +9082,7 @@ Inductive and explanatory usefulness is necessary but not sufficient for a natur
 
 In the ethical questions that seem to turn on whether someone is the same person, among them prudential concern, responsibility, abortion, advance directives and the separateness of persons, the relation that decides is usually not numerical identity but one that comes apart from it, so the metaphysics of persistence constrains these questions and rarely settles them
 
-3 citations in 3 files await a look; 32 other citations of it are acknowledged.
+3 citations in 3 files await a look; 33 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1702.md:60`](../../record/literature.d/LIT-1702.md)
 - [`record/literature.d/LIT-1759.md:57`](../../record/literature.d/LIT-1759.md)
@@ -9184,7 +9182,7 @@ In two-agent rock–scissors–paper played by softmax reinforcement learners, n
 
 An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split
 
-2 citations in 1 file await a look; 51 other citations of it are acknowledged.
+2 citations in 1 file await a look; 53 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -9265,7 +9263,7 @@ Griffiths and Kalish's convergence theorem and Kirby, Cornish and Smith's chains
 
 Bencherki's checklist and daycare, one end state with opposite verdicts, show a normative judgment about an organization that depends on a history its end state does not show
 
-2 citations in 2 files await a look; 2 other citations of it are acknowledged.
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-518.md:47`](../../record/claims.d/CLAIM-518.md)
 - [`record/claims.d/CLAIM-608.md:78`](../../record/claims.d/CLAIM-608.md)
@@ -9274,7 +9272,7 @@ Bencherki's checklist and daycare, one end state with opposite verdicts, show a 
 
 A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation
 
-2 citations in 2 files await a look; 12 other citations of it are acknowledged.
+2 citations in 2 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:43`](../../record/claims.d/CLAIM-614.md)
 - [`record/questions.d/QUESTION-441.md:26`](../../record/questions.d/QUESTION-441.md)
@@ -9310,7 +9308,7 @@ Four organizations alike in their members' flexibility, one member trained in ea
 
 Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B's governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain
 
-2 citations in 2 files await a look; 15 other citations of it are acknowledged.
+2 citations in 2 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:43`](../../record/claims.d/CLAIM-614.md)
 - [`record/questions.d/QUESTION-441.md:26`](../../record/questions.d/QUESTION-441.md)
@@ -9454,7 +9452,7 @@ Participation on a shared canvas thins selectively: people keep coming back whil
 
 Material interdependence couples parties' outcomes without fixing the perspective that organizes the coupling: the same dependence can be organized as mutual opportunity, as competitive vulnerability or as coercive leverage, so interdependence makes for peace to the extent that cooperation also changes which interests the parties' institutions recognize and who holds influence over them, and payoff coupling alone does not settle which
 
-2 citations in 1 file await a look; 33 other citations of it are acknowledged.
+2 citations in 1 file await a look; 43 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-150.md:54`](../../record/cases.d/CASE-150.md)
 - [`record/cases.d/CASE-150.md:65`](../../record/cases.d/CASE-150.md)
@@ -9490,7 +9488,7 @@ If a willed agent is the jurisdiction of its will-organization, then governing o
 
 An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers' access and incentives
 
-2 citations in 2 files await a look; 62 other citations of it are acknowledged.
+2 citations in 2 files await a look; 83 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-406.md:229`](../../record/claims.d/CLAIM-406.md)
 - [`record/decisions.d/ADR-085.md:115`](../../record/decisions.d/ADR-085.md)
@@ -10158,14 +10156,14 @@ When formerly autonomous partners come to depend on one another, which propertie
 
 2 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
-- [`record/syntheses.d/SYNTHESIS-056.md:113`](../../record/syntheses.d/SYNTHESIS-056.md)
+- [`record/syntheses.d/SYNTHESIS-056.md:138`](../../record/syntheses.d/SYNTHESIS-056.md)
 - [`record/syntheses.d/SYNTHESIS-057.md:59`](../../record/syntheses.d/SYNTHESIS-057.md)
 
 ### [SYNTHESIS-056](../../record/syntheses.d/SYNTHESIS-056.md) — Proposed
 
 An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability
 
-2 citations in 2 files await a look; 8 other citations of it are acknowledged.
+2 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-053.md:47`](../../record/syntheses.d/SYNTHESIS-053.md)
 - [`record/syntheses.d/SYNTHESIS-057.md:59`](../../record/syntheses.d/SYNTHESIS-057.md)
@@ -10177,7 +10175,7 @@ What a system can deploy before a deadline is not what it has or knows it has: a
 2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-053.md:47`](../../record/syntheses.d/SYNTHESIS-053.md)
-- [`record/syntheses.d/SYNTHESIS-056.md:113`](../../record/syntheses.d/SYNTHESIS-056.md)
+- [`record/syntheses.d/SYNTHESIS-056.md:138`](../../record/syntheses.d/SYNTHESIS-056.md)
 
 ### [TERM-081](../../record/terms.d/TERM-081.md) — Proposed
 

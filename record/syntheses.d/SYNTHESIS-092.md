@@ -1,5 +1,8 @@
 ---
+number: 92
 status: Proposed
+formerly:
+- SYNTHESIS-tmpc1ohg
 version: 1
 title: "What a whole and its parts can owe and claim: the ground of an obligation is kept apart from its bearer, vulnerability and control from integration; control over the terms, not the magnitude of a dependence, is proposed to sort whether a whole's need of a part becomes the part's hold, exploitation and domination are defined relative to a declared standard, and a test is proposed for when dependence is presumptively domination by those who control it"
 defeated_if: >-
@@ -68,7 +71,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-256 CASE-257 CASE-261 CASE-264 CLAIM-428 CLAIM-545 CLAIM-603 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-682 CLAIM-686 CLAIM-690 TERM-083 TERM-123 TERM-124 ARG-100 ARG-109 ARG-110 THEORY-1817 THEORY-1818 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-099 — Rejected; a component, with its standing -->
 
-# SYNTHESIS-tmpc1ohg: What a whole and its parts can owe and claim: the ground of an obligation is kept apart from its bearer, vulnerability and control from integration; control over the terms, not the magnitude of a dependence, is proposed to sort whether a whole's need of a part becomes the part's hold, exploitation and domination are defined relative to a declared standard, and a test is proposed for when dependence is presumptively domination by those who control it
+# SYNTHESIS-092: What a whole and its parts can owe and claim: the ground of an obligation is kept apart from its bearer, vulnerability and control from integration; control over the terms, not the magnitude of a dependence, is proposed to sort whether a whole's need of a part becomes the part's hold, exploitation and domination are defined relative to a declared standard, and a test is proposed for when dependence is presumptively domination by those who control it
 
 *A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15, at the owner's word of that day ("file the organizational-normativity summary"). The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and three sibling parts. Every component is new to any account. Four separations the owner asked the record to keep run through it, and the account keeps each component on its own side of them: "organization" in [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default, and not an institution unless a component says so; the ground of an obligation apart from its bearer ("A whole can be the ground or object of a normative judgment without necessarily being the bearer of the corresponding obligation", the owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13); vulnerability and control apart from integration ("deeper integration need not monotonically increase vulnerability", the same review); and the party with standing apart from parts that can be used but not wronged ([TERM-083](../terms.d/TERM-083.md)).*
 

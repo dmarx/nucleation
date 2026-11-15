@@ -15,7 +15,7 @@ history:
     operative intention can diverge from, and no account held it. It
     is added to `integrates`, to the account after QUESTION-070, to the
     components and to the links. The organizational-normativity part
-    account SYNTHESIS-tmpn88bi sets it out too. No other change.
+    account SYNTHESIS-093 sets it out too. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the collective-stance part of the distributed-agency line left out
@@ -84,7 +84,7 @@ summary: >-
   its model readings. The line's account is built over it. It adds
   nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: SYNTHESIS-tmpn88bi — Proposed; the organizational-normativity part account cited at version 2 -->
+<!-- inactive-ok-file: SYNTHESIS-093 — Proposed; the organizational-normativity part account cited at version 2 -->
 <!-- inactive-ok-file: ADR-075 CLAIM-271 CLAIM-332 CLAIM-415 CLAIM-425 CLAIM-426 CLAIM-490 CLAIM-493 CLAIM-192 CLAIM-355 CLAIM-417 CLAIM-432 CLAIM-610 CLAIM-617 CLAIM-619 CLAIM-620 CLAIM-624 TERM-096 TERM-080 CASE-222 ARG-067 THEORY-131 THEORY-137 THEORY-139 THEORY-1111 THEORY-1114 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CASE-007 — Superseded by CASE-025; integrated as a member of the part, and not relied on -->
 <!-- inactive-ok-file: CLAIM-278 SYNTHESIS-005 — Superseded; cited as named by members, or as the account that once listed a member -->

@@ -100,7 +100,7 @@ integrates:
 - CLAIM-671
 - CLAIM-673
 ---
-<!-- inactive-ok-file: CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-673 CLAIM-675 SYNTHESIS-tmpc1ohg SYNTHESIS-tmpn88bi — Proposed; components and citations added at version 6, with their standing -->
+<!-- inactive-ok-file: CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-673 CLAIM-675 SYNTHESIS-092 SYNTHESIS-093 — Proposed; components and citations added at version 6, with their standing -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CLAIM-632 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
 
@@ -258,7 +258,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 
 Added at version 6. Four claims of the organizational-normativity line
 carry transient-support second; that line's part accounts set them out
-in full ([SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md), [SYNTHESIS-tmpn88bi](SYNTHESIS-tmpn88bi.md)). Each link here is a
+in full ([SYNTHESIS-092](SYNTHESIS-092.md), [SYNTHESIS-093](SYNTHESIS-093.md)). Each link here is a
 front-matter relation of the entry named first, unless a body is cited.
 
 - **Supply that produces a reliance, and uses it.** [CLAIM-670](../claims.d/CLAIM-670.md) (A's,

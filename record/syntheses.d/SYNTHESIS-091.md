@@ -1,5 +1,8 @@
 ---
+number: 91
 status: Proposed
+formerly:
+- SYNTHESIS-tmp5blqy
 version: 1
 title: "What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open"
 defeated_if: >-
@@ -58,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-511 CLAIM-608 CLAIM-648 CLAIM-649 CLAIM-650 CASE-239 CASE-240 CASE-241 CASE-243 ARG-043 ARG-082 ARG-083 THEORY-220 THEORY-444 THEORY-1285 TERM-083 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-081 — Rejected; a component, with its standing -->
 
-# SYNTHESIS-tmp5blqy: What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open
+# SYNTHESIS-091: What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open
 
 *A part account of the organizational-normativity line ("Normative judgment about organizations"), filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and three sibling parts. Its first nine components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-07 to 2026-11-12 and are new to any account. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; where it declares none, the account says that, and assigns none.*
 

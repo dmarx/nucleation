@@ -1,5 +1,8 @@
 ---
+number: 93
 status: Proposed
+formerly:
+- SYNTHESIS-tmpn88bi
 version: 1
 title: "What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate"
 defeated_if: >-
@@ -50,11 +53,11 @@ summary: >-
   outside the line. The account adds nothing of its own; its standing is
   its components'.
 ---
-<!-- inactive-ok-file: CLAIM-657 SYNTHESIS-038 SYNTHESIS-tmp5blqy SYNTHESIS-tmpc1ohg SYNTHESIS-tmpvdeqh — Proposed; the line's account, the sibling part accounts and a citation -->
+<!-- inactive-ok-file: CLAIM-657 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 — Proposed; the line's account, the sibling part accounts and a citation -->
 <!-- inactive-ok-file: CLAIM-673 CLAIM-675 CLAIM-677 CLAIM-678 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-687 CLAIM-688 CLAIM-624 CLAIM-667 CLAIM-545 TERM-122 ARG-103 THEORY-1859 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the definition TERM-122 rivals, set aside -->
 
-# SYNTHESIS-tmpn88bi: What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate
+# SYNTHESIS-093: What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate
 
 *A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and three sibling parts. Every component is new to any account. The part hangs together by its source more than by its relations: of its members' stored relations two point inside it, and most point to claims in other lines ([CLAIM-677](../claims.d/CLAIM-677.md), [CLAIM-605](../claims.d/CLAIM-605.md), [CLAIM-457](../claims.d/CLAIM-457.md), [CLAIM-667](../claims.d/CLAIM-667.md), [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-523](../claims.d/CLAIM-523.md)). Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so.*
 
@@ -155,10 +158,10 @@ cited.
 
 - [ARG-103](../arguments.d/ARG-103.md) concludes [CLAIM-684](../claims.d/CLAIM-684.md). [CLAIM-687](../claims.d/CLAIM-687.md) complements [CLAIM-684](../claims.d/CLAIM-684.md).
 - [QUESTION-464](../questions.d/QUESTION-464.md)'s body names [TERM-122](../terms.d/TERM-122.md).
-- Out of the part: [CLAIM-687](../claims.d/CLAIM-687.md) complements [CLAIM-682](../claims.d/CLAIM-682.md) ([SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md)) and
-  [CLAIM-624](../claims.d/CLAIM-624.md) ([SYNTHESIS-tmpvdeqh](SYNTHESIS-tmpvdeqh.md)); [CLAIM-685](../claims.d/CLAIM-685.md) bears on [QUESTION-128](../questions.d/QUESTION-128.md)
-  ([SYNTHESIS-tmp5blqy](SYNTHESIS-tmp5blqy.md)); [TERM-122](../terms.d/TERM-122.md)'s summary names [QUESTION-460](../questions.d/QUESTION-460.md)
-  ([SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md)).
+- Out of the part: [CLAIM-687](../claims.d/CLAIM-687.md) complements [CLAIM-682](../claims.d/CLAIM-682.md) ([SYNTHESIS-092](SYNTHESIS-092.md)) and
+  [CLAIM-624](../claims.d/CLAIM-624.md) ([SYNTHESIS-094](SYNTHESIS-094.md)); [CLAIM-685](../claims.d/CLAIM-685.md) bears on [QUESTION-128](../questions.d/QUESTION-128.md)
+  ([SYNTHESIS-091](SYNTHESIS-091.md)); [TERM-122](../terms.d/TERM-122.md)'s summary names [QUESTION-460](../questions.d/QUESTION-460.md)
+  ([SYNTHESIS-092](SYNTHESIS-092.md)).
 
 ## Not stated on the record
 

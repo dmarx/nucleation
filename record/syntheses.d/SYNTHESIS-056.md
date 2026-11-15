@@ -26,7 +26,7 @@ history:
     to `integrates`, to a new subsection of the account, to the
     components and to the links. All but CLAIM-656 and CASE-247 have
     organizational-normativity first, and that line's part accounts,
-    SYNTHESIS-tmpvdeqh and SYNTHESIS-tmpc1ohg, set them out too. The
+    SYNTHESIS-094 and SYNTHESIS-092, set them out too. The
     introduction's counts of pairs are version 2's. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -120,7 +120,7 @@ integrates:
 - CASE-247
 - CASE-257
 ---
-<!-- inactive-ok-file: CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-662 CASE-246 CASE-247 CASE-257 SYNTHESIS-tmpvdeqh SYNTHESIS-tmpc1ohg — Proposed; components and citations added at version 3, with their standing -->
+<!-- inactive-ok-file: CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-662 CASE-246 CASE-247 CASE-257 SYNTHESIS-094 SYNTHESIS-092 — Proposed; components and citations added at version 3, with their standing -->
 <!-- inactive-ok-file: QUESTION-253 — Answered; cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ARG-025 ARG-048 ARG-055 ARG-063 ARG-064 ARG-066 ARG-073 CASE-163 CASE-164 CASE-166 CASE-173 CASE-177 CASE-194 CASE-221 CASE-222 CASE-223 CASE-228 CASE-229 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-327 CLAIM-329 CLAIM-332 CLAIM-336 CLAIM-355 CLAIM-415 CLAIM-417 CLAIM-423 CLAIM-430 CLAIM-432 CLAIM-440 CLAIM-445 CLAIM-446 CLAIM-451 CLAIM-472 CLAIM-511 CLAIM-545 CLAIM-553 CLAIM-610 CLAIM-611 CLAIM-614 CLAIM-615 CLAIM-619 CLAIM-620 CLAIM-622 CLAIM-624 SYNTHESIS-020 SYNTHESIS-025 SYNTHESIS-035 SYNTHESIS-038 SYNTHESIS-039 SYNTHESIS-041 SYNTHESIS-044 TERM-063 TERM-080 TERM-081 TERM-083 TERM-086 THEORY-916 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-047 — Rejected; components and citations, with their standing -->
@@ -343,7 +343,7 @@ includes distributed-agency.*
 ### Becoming less informed, and dependence that does not become authority
 
 Added at version 3. Each component is also in organizational-normativity,
-and [SYNTHESIS-tmpvdeqh](SYNTHESIS-tmpvdeqh.md) or [SYNTHESIS-tmpc1ohg](SYNTHESIS-tmpc1ohg.md) sets it out there.
+and [SYNTHESIS-094](SYNTHESIS-094.md) or [SYNTHESIS-092](SYNTHESIS-092.md) sets it out there.
 
 - **Two routes to being less informed.** [CLAIM-652](../claims.d/CLAIM-652.md) (the assistant's,
   accepted by the owner on 2026-11-12; thesis, demonstrated, Proposed;

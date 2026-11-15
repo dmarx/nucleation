@@ -1,5 +1,8 @@
 ---
+number: 94
 status: Proposed
+formerly:
+- SYNTHESIS-tmpvdeqh
 version: 1
 title: "The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart"
 defeated_if: >-
@@ -66,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-070 — Deferred; a component, set aside -->
 <!-- inactive-ok-file: ARG-071 — Rejected; a component, with its standing -->
 
-# SYNTHESIS-tmpvdeqh: The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
+# SYNTHESIS-094: The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
 
 *A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and three sibling parts. Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
 
