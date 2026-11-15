@@ -14,7 +14,7 @@
   rebuilt in scratch/formal/reconstruction_channel_checks.py. Dated notes on
   held entries. The assistant's own ideas, filed at the owner's
   request: an admission rule for modes, requiring invariance under a
-  network's symmetries (CLAIM-tmp7jyur, on CASE-tmp1owyk), and a hypothesis
+  network's symmetries ([CLAIM-tmp7jyur](record/claims.d/CLAIM-tmp7jyur.md), on [CASE-tmp1owyk](record/cases.d/CASE-tmp1owyk.md)), and a hypothesis
   that RL buys economy rather than reach where its reward can verify at
-  test time (CLAIM-tmpwxs2x), with dated notes on QUESTION-392 and
-  QUESTION-010. One reading route is left for the owner to overrule.
+  test time ([CLAIM-tmpwxs2x](record/claims.d/CLAIM-tmpwxs2x.md)), with dated notes on [QUESTION-392](record/questions.d/QUESTION-392.md) and
+  [QUESTION-010](record/questions.d/QUESTION-010.md). One reading route is left for the owner to overrule.

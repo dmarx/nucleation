@@ -99,8 +99,8 @@ The readings filed with this claim use "wave" in three senses:
 
 Only the spectral sense is at issue here. The physical senses also warn
 against importing linear superposition: colliding cortical waves sum about
-30% below the sum of each alone (THEORY-tmpomhf0). What counts as a
-justified mode is sharpened by CLAIM-tmp7jyur, which requires invariance
+30% below the sum of each alone ([THEORY-tmpomhf0](../theory.d/THEORY-tmpomhf0.md)). What counts as a
+justified mode is sharpened by [CLAIM-tmp7jyur](CLAIM-tmp7jyur.md), which requires invariance
 under the network's function-preserving symmetries. This section is the
 assistant's (Claude, in this session).
 

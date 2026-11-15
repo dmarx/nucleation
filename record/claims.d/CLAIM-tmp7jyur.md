@@ -26,14 +26,14 @@ grounds:
 - CASE-tmp1owyk
 summary: >-
   The assistant's admission rule for the owner's hypothesis that wave
-  mathematics applies to learning (CLAIM-tmpumro8), offered at the end of
-  the filing of 2026-11-15 and filed at the owner's request. CLAIM-tmpumro8
+  mathematics applies to learning ([CLAIM-tmpumro8](CLAIM-tmpumro8.md)), offered at the end of
+  the filing of 2026-11-15 and filed at the owner's request. [CLAIM-tmpumro8](CLAIM-tmpumro8.md)
   asks for "independently justified" modes; this says what the
-  justification must include. CASE-tmp1owyk shows a FREE-Merging-style
+  justification must include. [CASE-tmp1owyk](../cases.d/CASE-tmp1owyk.md) shows a FREE-Merging-style
   spectrum moving under a permutation that leaves the function unchanged.
-  Fourier characters of ℤ/p in THEORY-022 are invariant because the task's
+  Fourier characters of ℤ/p in [THEORY-022](../theory.d/THEORY-022.md) are invariant because the task's
   group defines them, not the units' order. It is the spectral case of
-  CLAIM-148's point that a factorization is identified only up to a change
+  [CLAIM-148](CLAIM-148.md)'s point that a factorization is identified only up to a change
   of latent coordinates. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -47,7 +47,7 @@ A learned network has symmetries that leave its function unchanged. Its
 hidden units can be permuted, and some architectures allow rescalings or
 rotations. A quantity that changes under them describes the coordinates,
 not the network. So a mode, a spectrum or a coupling can carry explanatory
-weight in CLAIM-tmpumro8's sense only if it is defined invariantly under
+weight in [CLAIM-tmpumro8](CLAIM-tmpumro8.md)'s sense only if it is defined invariantly under
 those symmetries. Equivalently, it must be defined by something the
 symmetries respect: the task's group, the data distribution, or the
 function's operators (Jacobians, kernels, response maps), with basis
@@ -55,13 +55,13 @@ choices fixed only up to the symmetries.
 
 ## Why
 
-- **Failure.** In CASE-tmp1owyk, a FREE-Merging-style spectrum (THEORY-tmp3lla6)
+- **Failure.** In [CASE-tmp1owyk](../cases.d/CASE-tmp1owyk.md), a FREE-Merging-style spectrum ([THEORY-tmp3lla6](../theory.d/THEORY-tmp3lla6.md))
   falls from a 0.985 low-frequency share to 0.193 under a permutation that
   leaves the outputs unchanged.
 - **Success.** The modular-addition network's Fourier characters
-  (THEORY-022) are defined by ℤ/p acting on the inputs. Relabeling hidden
+  ([THEORY-022](../theory.d/THEORY-022.md)) are defined by ℤ/p acting on the inputs. Relabeling hidden
   units leaves them where they are.
-- **The general point.** CLAIM-148 makes it for factorizations: a latent
+- **The general point.** [CLAIM-148](CLAIM-148.md) makes it for factorizations: a latent
   basis is identified only up to an invertible change of coordinates.
   Spectral talk inherits the same ambiguity unless it is tied to something
   invariant.
@@ -72,4 +72,4 @@ choices fixed only up to the symmetries.
   in a fixed coordinate system. They cannot be the explanation the
   hypothesis offers.
 - **That invariance suffices.** An invariant mode must still out-predict
-  static accounts, as CLAIM-tmpumro8 requires.
+  static accounts, as [CLAIM-tmpumro8](CLAIM-tmpumro8.md) requires.

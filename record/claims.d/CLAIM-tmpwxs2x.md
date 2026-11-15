@@ -28,8 +28,8 @@ bears_on:
 summary: >-
   The assistant's hypothesis, offered at the end of the filing of
   2026-11-15 and filed at the owner's request. It joins two of the owner's
-  claims. CLAIM-tmps7g72 says generation, recognition and selection are
-  separate capacities. CLAIM-tmp36o5i says RL can amortize search. Put
+  claims. [CLAIM-tmps7g72](CLAIM-tmps7g72.md) says generation, recognition and selection are
+  separate capacities. [CLAIM-tmp36o5i](CLAIM-tmp36o5i.md) says RL can amortize search. Put
   together, what RL amortizes is search filtered by the reward's verifier,
   so where that verifier can be run at test time, RL buys economy, not
   reach. Yue et al.'s large-k crossings fit the claim; ProRL's new
@@ -38,7 +38,7 @@ summary: >-
   test. Untested. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmps7g72 CLAIM-tmp36o5i THEORY-331 THEORY-tmp9rnyv THEORY-tmpxu3kz — Proposed or new; the claims this rests on and the readings it is set against -->
+<!-- inactive-ok-file: CLAIM-tmps7g72 CLAIM-tmp36o5i THEORY-331 — Proposed or new; the claims this rests on and the readings it is set against -->
 
 # CLAIM-tmpwxs2x: Where the reward is available as a verifier at test time, RL buys economy, not reach
 
@@ -47,14 +47,14 @@ summary: >-
 1. RLVR trains on a reward that is a verifier: it recognizes success.
 2. At test time, the base model plus that verifier can draw N samples and
    return a verified one. Its delivered accuracy is its coverage, which
-   grows as 1 − (1 − p)^N for each problem (CLAIM-tmps7g72).
+   grows as 1 − (1 − p)^N for each problem ([CLAIM-tmps7g72](CLAIM-tmps7g72.md)).
 3. The RL policy reaches comparable accuracy in fewer samples, because
    training moved probability toward what the verifier accepts
-   (CLAIM-tmp36o5i). Under the ideal tilt it can only reweight what the
+   ([CLAIM-tmp36o5i](CLAIM-tmp36o5i.md)). Under the ideal tilt it can only reweight what the
    base already reaches.
 4. So with the verifier available at test time, RL is a way to spend
    training compute instead of inference compute on the same reach. That
-   is the training–search trade of THEORY-342, here with the condition
+   is the training–search trade of [THEORY-342](../theory.d/THEORY-342.md), here with the condition
    that a recognizer is cheap.
 5. Without the verifier at test time (open-ended tasks, unit tests
    unavailable, a reward model too costly to run per sample), base
@@ -67,7 +67,7 @@ Compare an RL model at one or few samples with no verifier against its
 base under best-of-N with the training verifier, at matched total compute
 (training amortized across the test set plus inference), across k. The
 claim predicts the base-plus-verifier curve meets or exceeds the RL curve
-at large budgets on the training task family. A dated note on QUESTION-392
+at large budgets on the training task family. A dated note on [QUESTION-392](../questions.d/QUESTION-392.md)
 places the test.
 
 ## What it does not say

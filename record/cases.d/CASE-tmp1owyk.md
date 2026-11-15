@@ -18,12 +18,12 @@ summary: >-
   The assistant's construction, built when the owner asked for the
   assistant's own ideas from the filing of 2026-11-15 to be filed
   (scratch/formal/permutation_spectrum_check.py, run on filing). It tests
-  the kind of quantity FREE-Merging uses (THEORY-tmp3lla6): the Fourier
+  the kind of quantity FREE-Merging uses ([THEORY-tmp3lla6](../theory.d/THEORY-tmp3lla6.md)): the Fourier
   spectrum of a task-update matrix over its row and column order. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp3lla6 CLAIM-tmp7jyur CLAIM-tmpumro8 — Proposed or new; the reading the construction tests and the claims it serves -->
+<!-- inactive-ok-file: THEORY-tmp3lla6 CLAIM-tmpumro8 — Proposed or new; the reading the construction tests and the claims it serves -->
 
 # CASE-tmp1owyk: A spectrum taken over a weight matrix's unit order is not a property of the network
 
@@ -46,7 +46,7 @@ frequency along the permuted axis, a sum, which does not depend on order.
 
 A "frequency" defined over the arbitrary index order of a network's units
 measures the coordinates, not the network. Two descriptions of one network
-can disagree about it completely. This is the failure CLAIM-tmpumro8 says
+can disagree about it completely. This is the failure [CLAIM-tmpumro8](../claims.d/CLAIM-tmpumro8.md) says
 its modes must avoid, made concrete.
 
 ## What it cannot show
