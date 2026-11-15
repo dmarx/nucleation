@@ -20,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the ownership claim on the set-aside authenticity line -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; the ownership question on the set-aside authenticity line -->
-<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
+<!-- inactive-ok-file: THEORY-1853 — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-057: Can the integration that marks a will-organization as the agent's own be detected apart from the agent's own avowal that her commitments are hers?
 
@@ -42,7 +42,7 @@ A non-self-report measure of integration, such as the overlap of everyday and tr
 
 ## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
 
-Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) bears on the question's premise
+Marcuse ([THEORY-1853](../theory.d/THEORY-1853.md), [NOTE-1924](../notes.d/NOTE-1924.md)) bears on the question's premise
 that avowal may not settle it. True and false needs must be told apart
 by the individuals themselves, "but only in the last analysis; that is,
 if and when they are free to give their own answer"; and "No matter how

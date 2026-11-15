@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-388 of 1912 NOTE documents. Back to the [full index](../README.md).
+389 of 1949 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -396,3 +396,4 @@
 | [NOTE-1910](../../../record/notes.d/NOTE-1910.md) | Ma et al. — PRUNE | Ties the decline of general abilities under sequential single-fact editing to the condition number of the edited MLP matrix, via standard least-squares perturbation bounds, and shows the condition number rising with edits on LLaMA-2. PRUNE shrinks the large singular values of the accumulated update once, post hoc, and preserves downstream and editing performance across MEND, ROME and MEMIT on three LLMs. The account is an upper bound plus a correlation; the bound concerns a proxy (how far a key must move), and its side conditions are never checked. | Read |
 | [NOTE-1911](../../../record/notes.d/NOTE-1911.md) | Liang et al. — MuEdit | A method paper on editing an LLM sequentially across heterogeneous domains. Its diagnosis: null-space editing must confine each update to the intersection of the domains' null spaces, which can be small. Its measure: a Conflict Index of null-space overlap. Its method: order tasks by conflict and compress conflicting preservation matrices. Results on three backbones beat the editors compared. Two limits found in reading: the index as defined would be degenerate at the paper's own sizes unless null spaces are numerical, which the text does not specify; and in the seven-task test, greedy ordering is within the 95% interval of the mean random order on every task. | Read |
 | [NOTE-1912](../../../record/notes.d/NOTE-1912.md) | Belrose et al. — LEACE | Proves that linear guardedness (no linear predictor under a convex loss beats a constant) is equivalent to equal class-conditional means and to zero cross-covariance; characterises the affine erasers that achieve it (P annihilates colsp(Σ_XZ)); and gives the unique eraser least-squares optimal under every inner-product norm, an oblique projection in whitened coordinates. Experiments: gender erasure in BERT, amnesic probing for part of speech, and layer-wise "concept scrubbing" of part of speech in LLaMA and Pythia. Linear only. | Read |
+| [NOTE-1917](../../../record/notes.d/NOTE-1917.md) | Crawford and Joler (2018) — Anatomy of an AI System | The essay maps the Amazon Echo as a system of extraction of materials, labour and data, with value concentrated at the top, and argues that transparency alone does not change the power asymmetry. | Read |

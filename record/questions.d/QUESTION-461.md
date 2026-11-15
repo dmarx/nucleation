@@ -26,15 +26,15 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
-<!-- inactive-ok-file: CLAIM-tmpub743 CASE-tmpbjaiq — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
-<!-- inactive-ok-file: CLAIM-tmpkjv7u — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CLAIM-686 CASE-261 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
+<!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1820 THEORY-1816 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-603 CLAIM-614 CLAIM-619 CLAIM-624 — Proposed; the record's nearest claims, cited with their standing -->
 <!-- inactive-ok-file: CASE-257 CLAIM-669 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-2528 LIT-2516 LIT-2536 LIT-2522 — Deferred; filed from the same exchange, unread -->
-<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
+<!-- inactive-ok-file: THEORY-1853 — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-461: When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?
 
@@ -178,12 +178,12 @@ activities through which participants sustain an organization are
 organized under unjust terms", is a name for the question's second branch
 with the standard of injustice left open, which A23 concedes ("The
 concept would require an independent account of what makes those terms
-unjust"). A13 §II's threshold, filed as [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md), bears on the
+unjust"). A13 §II's threshold, filed as [CLAIM-682](../claims.d/CLAIM-682.md), bears on the
 second branch from the dependent's side. The question is unchanged.
 
 ## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
 
-Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) gives worked cases of the
+Marcuse ([THEORY-1853](../theory.d/THEORY-1853.md), [NOTE-1924](../notes.d/NOTE-1924.md)) gives worked cases of the
 second branch, an organization keeping indispensable contributions from
 becoming claims on it. Chapter 2's integration of labour: the union
 "almost indistinguishable in its own eyes from the corporation", workers
@@ -199,17 +199,17 @@ exclusion. Evidence for the second branch; the question is unchanged.
 At the owner's word of 2026-11-13 ("file the still unfiled stuff"), three
 entries were filed that bear on this question.
 
-- **[QUESTION-tmpkefdg](QUESTION-tmpkefdg.md)** refines it: what makes the terms on which an
+- **[QUESTION-463](QUESTION-463.md)** refines it: what makes the terms on which an
   organization's sustaining activities are organized unjust, A23 §4's
   "constitutive exploitation" with its standard left open. The four-way
   separation of contribution, dependence, effective authority and moral
   standing stays as the note above maps it: held, adding examples, not a
   result.
-- **[CLAIM-tmpub743](../claims.d/CLAIM-tmpub743.md)** (the assistant's) says which part of [CLAIM-tmpkjv7u](../claims.d/CLAIM-tmpkjv7u.md)'s
+- **[CLAIM-686](../claims.d/CLAIM-686.md)** (the assistant's) says which part of [CLAIM-682](../claims.d/CLAIM-682.md)'s
   third condition the record's three achievements of normative efficacy
   cover: voice, at the controllers and at any party able to constrain them,
   and not exit.
-- **[CASE-tmpbjaiq](../cases.d/CASE-tmpbjaiq.md)**, A23 §9's hospital network: the contractors are
+- **[CASE-261](../cases.d/CASE-261.md)**, A23 §9's hospital network: the contractors are
   indispensable contributors whose contributions do not become claims, and
   the test asks whether a justified objection would be as effective from a
   low-status party as from clinicians.

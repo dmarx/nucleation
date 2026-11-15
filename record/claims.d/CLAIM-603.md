@@ -101,7 +101,7 @@ summary: >-
 corroborates:
 - CLAIM-600
 ---
-<!-- inactive-ok-file: CASE-tmpf71w4 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->
+<!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->
 <!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
@@ -327,7 +327,7 @@ same size:
   spreads (the Black Queen's leaky good).
 
 Measure the recipient's C during the supply, and after the supply is
-withdrawn at several durations, as [CLAIM-605](CLAIM-605.md)'s model and [CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md) do;
+withdrawn at several durations, as [CLAIM-605](CLAIM-605.md)'s model and [CASE-262](../cases.d/CASE-262.md) do;
 in the reciprocal arm, also measure the partner's own trajectory when the
 recipient's return is withdrawn.
 

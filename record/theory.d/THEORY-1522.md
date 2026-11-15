@@ -36,7 +36,7 @@ history:
 - version: 4
   date: '2026-11-13'
   note: >-
-    corroborates CLAIM-tmp6wuql, filed from the exchange "Analyze
+    corroborates CLAIM-675, filed from the exchange "Analyze
     technological civilization trap" (2026-11-13): the claim's premise,
     that support doing the work shrinks a capacity kept by practice, is
     what Ahn reports Bainbridge as holding ("degraded from disuse"); the
@@ -58,10 +58,10 @@ summary: >-
 bears_on:
 - QUESTION-398
 corroborates:
-- CLAIM-tmp6wuql
+- CLAIM-675
 ---
-<!-- inactive-ok-file: THEORY-tmpm76rc — filed from the stand-ins of 2026-11-13, Proposed -->
-<!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1847 — filed from the stand-ins of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1551 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
 
@@ -99,4 +99,4 @@ remedies.
 
 ## Note of 2026-11-13: Vallor, the same structure in ethics
 
-Vallor's CyCon 2013 paper ([THEORY-tmpm76rc](THEORY-tmpm76rc.md), [NOTE-tmpgn1lo](../notes.d/NOTE-tmpgn1lo.md)), read on 2026-11-13, states the hand-back problem for moral skill: "An expert supervisor of another’s decision, in order to be worthy of the authority to override it, must have acquired expertise in making decisions of the very same or a similar kind", and the skill set for supervising autonomous systems "will be much narrower" than for making the decisions. That is this account's operator recalled at failure with skills "degraded from disuse", from an independent source in another domain. Both corroborate [CLAIM-tmp6wuql](../claims.d/CLAIM-tmp6wuql.md). No change here.
+Vallor's CyCon 2013 paper ([THEORY-1847](THEORY-1847.md), [NOTE-1926](../notes.d/NOTE-1926.md)), read on 2026-11-13, states the hand-back problem for moral skill: "An expert supervisor of another’s decision, in order to be worthy of the authority to override it, must have acquired expertise in making decisions of the very same or a similar kind", and the skill set for supervising autonomous systems "will be much narrower" than for making the decisions. That is this account's operator recalled at failure with skills "degraded from disuse", from an independent source in another domain. Both corroborate [CLAIM-675](../claims.d/CLAIM-675.md). No change here.

@@ -87,7 +87,7 @@ summary: >-
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
 ---
-<!-- inactive-ok-file: CLAIM-tmpbypt7 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: ARG-064 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
@@ -215,4 +215,4 @@ when the evidence used to justify renewal remains controlled by the same
 arrangement it is supposed to constrain", is this claim's shift in "the
 evidence used to judge its necessity" applied to a design remedy. Not
 filed. The exchange's broader ratchet, a technology made compulsory for
-those who decline it, is [CLAIM-tmpbypt7](CLAIM-tmpbypt7.md), a different mechanism. No change.
+those who decline it, is [CLAIM-677](CLAIM-677.md), a different mechanism. No change.

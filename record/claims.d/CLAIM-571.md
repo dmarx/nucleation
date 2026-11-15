@@ -91,7 +91,7 @@ complements:
 - CLAIM-575
 - CLAIM-591
 ---
-<!-- inactive-ok-file: CLAIM-tmpfrjqq — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
+<!-- inactive-ok-file: CLAIM-679 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-584 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: CASE-233 ADR-096 ARG-077 — Proposed; the construction case filed from this claim's body, and the decision it applies -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
@@ -271,7 +271,7 @@ disclaimed; [CLAIM-587](CLAIM-587.md)). It is recorded here and not filed. No ch
 The note above recorded A20 §IV's "A society can become more efficient at
 reproducing its current organization while becoming less capable of
 transforming that organization" with what "efficient" means left open. At
-the owner's word of 2026-11-13 it is filed as [CLAIM-tmpfrjqq](CLAIM-tmpfrjqq.md), with
+the owner's word of 2026-11-13 it is filed as [CLAIM-679](CLAIM-679.md), with
 efficiency fixed from A's text as cutting the resource held toward what
 the present configuration requires. It then follows from this claim and
 [TERM-106](../terms.d/TERM-106.md): the cut removes exactly the transitions whose threshold lies

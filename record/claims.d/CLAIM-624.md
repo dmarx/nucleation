@@ -135,7 +135,7 @@ summary: >-
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
-<!-- inactive-ok-file: CLAIM-tmpu2cwc — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CLAIM-685 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1818 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
@@ -401,4 +401,4 @@ responsibilities not only concerning their decisions, but also concerning
 the continued viability of the processes through which their decisions
 can be challenged and corrected", drops those conditions; A23 §10 restored
 them after [CLAIM-511](CLAIM-511.md). The comparative prediction A20 drew from the line
-is [CLAIM-tmpu2cwc](CLAIM-tmpu2cwc.md). No change.
+is [CLAIM-685](CLAIM-685.md). No change.

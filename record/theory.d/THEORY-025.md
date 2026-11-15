@@ -52,7 +52,7 @@ corroborates:
 - CLAIM-060
 - CLAIM-352
 ---
-<!-- inactive-ok-file: THEORY-tmpj32pb THEORY-tmpnydju — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1845 THEORY-1849 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-411 — Proposed; named in Connections as the positive structure, nothing here rests on it -->
 
 # THEORY-025: Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation
@@ -112,4 +112,4 @@ first-hand in [NOTE-258](../notes.d/NOTE-258.md), keeping the wide form as a Pro
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-Sen's 1985 Tanner Lectures ([THEORY-tmpj32pb](THEORY-tmpj32pb.md)) give a first-hand statement of this reading's negative thesis: opulence fails as the standard because commodities convert into living conditions differently with metabolism, illness, climate and custom (the richer but parasite-ridden person more undernourished than the poorer one). They do not give the resourcist reply this entry's promote_when asks for. Marcuse's false needs, through Farr ([THEORY-tmpnydju](THEORY-tmpnydju.md)), are kin to adaptive preferences, produced by social interests, not deprivation. No status change.
+Sen's 1985 Tanner Lectures ([THEORY-1845](THEORY-1845.md)) give a first-hand statement of this reading's negative thesis: opulence fails as the standard because commodities convert into living conditions differently with metabolism, illness, climate and custom (the richer but parasite-ridden person more undernourished than the poorer one). They do not give the resourcist reply this entry's promote_when asks for. Marcuse's false needs, through Farr ([THEORY-1849](THEORY-1849.md)), are kin to adaptive preferences, produced by social interests, not deprivation. No status change.

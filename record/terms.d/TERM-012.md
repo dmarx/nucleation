@@ -16,7 +16,7 @@ summary: >-
   dependencies (A249). Defined at least five ways in the exchange; set
   aside as future work.
 ---
-<!-- inactive-ok-file: TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 
 # TERM-012: cross-scale concordance
 
@@ -43,7 +43,7 @@ accurate: a graded relational property, not a Pareto improvement, split
 into internal, dependency and affected-party concordance, and Deferred,
 not rejected, because "Evaluative standards remain underspecified".
 
-A23 §7 wrote a second definition, filed as [TERM-tmpt8p9e](TERM-tmpt8p9e.md), which rivals
+A23 §7 wrote a second definition, filed as [TERM-122](TERM-122.md), which rivals
 this one. It does not supply the evaluative standards. It makes them
 relata, concordance being assessed "relative to declared parties, claims,
 circumstances, and temporal horizons", as [CLAIM-363](../claims.d/CLAIM-363.md) holds of any normative

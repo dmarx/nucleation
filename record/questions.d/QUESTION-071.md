@@ -67,7 +67,7 @@ summary: >-
   worked on without reopening the set-aside authenticity line, where
   [CLAIM-016](../claims.d/CLAIM-016.md)'s manipulation defeater sits.
 ---
-<!-- inactive-ok-file: THEORY-tmp5hgen THEORY-tmpclnon THEORY-tmpnydju — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1837 THEORY-1843 THEORY-1849 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1504 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -293,7 +293,7 @@ unchanged.
 
 Readings filed for the exchange's works on 2026-11-13, each now with `bears_on` this question:
 
-- **Marcuse through Farr's SEP entry** ([THEORY-tmpnydju](../theory.d/THEORY-tmpnydju.md)): "The system must make the citizens think that they are freer than they really are": a will shaped without its present structure showing it, the question's premise; Marcuse's answer, critical "two-dimensional" thought, is historical.
-- **Han** ([THEORY-tmp5hgen](../theory.d/THEORY-tmp5hgen.md), [THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md)): achievement subjects feel free, and "the subjugated individual is not even aware of being subjugated".
+- **Marcuse through Farr's SEP entry** ([THEORY-1849](../theory.d/THEORY-1849.md)): "The system must make the citizens think that they are freer than they really are": a will shaped without its present structure showing it, the question's premise; Marcuse's answer, critical "two-dimensional" thought, is historical.
+- **Han** ([THEORY-1837](../theory.d/THEORY-1837.md), [THEORY-1843](../theory.d/THEORY-1843.md)): achievement subjects feel free, and "the subjugated individual is not even aware of being subjugated".
 
 Neither gives a criterion that tells a manipulated will from one that is not. The question is unchanged.

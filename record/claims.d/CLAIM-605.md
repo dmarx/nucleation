@@ -85,8 +85,8 @@ summary: >-
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpsmg1c — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
-<!-- inactive-ok-file: CASE-tmpf71w4 CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CLAIM-684 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
+<!-- inactive-ok-file: CASE-262 CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 
 # CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
@@ -182,16 +182,16 @@ difficult reasoning and supplies the answer" and one that "helps the
 person reason through the problem", and kept the claim's limits: "The
 model is illustrative, not empirical evidence that a particular
 technology produces such decline." Two entries were filed from it:
-[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md), which derives from this model that two supports with the
+[CLAIM-675](CLAIM-675.md), which derives from this model that two supports with the
 same present capabilities can leave different capabilities later, and
-[CASE-tmpf71w4](../cases.d/CASE-tmpf71w4.md), a proposed study of whether the trap holds for a human
+[CASE-262](../cases.d/CASE-262.md), a proposed study of whether the trap holds for a human
 skill. No change.
 
 ## Note of 2026-11-13: what this model says about a reversibility principle read as "go gradually" (the assistant's)
 
 One of the filer's own ideas from the exchange "Analyze technological
 civilization trap" (https://chatgpt.com/share/6af6b47c-8b0c-83ea-ae04-3e3eb2649597), accepted by the owner on 2026-11-13, was that this
-claim's second result cuts against reading [CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md)'s reversibility
+claim's second result cuts against reading [CLAIM-684](CLAIM-684.md)'s reversibility
 principle, that the burden of justification rises with the size and
 irreversibility of a narrowing, as "go gradually". It was checked in this
 claim's model, with its parameters, by
@@ -221,7 +221,7 @@ below (run with `python3 -I`).
   kept long enough is irreversible.
 
 The numbers are demonstrated in the model; the parameters are invented,
-and the bearing on [CLAIM-tmpsmg1c](CLAIM-tmpsmg1c.md) holds only for support of a capacity
+and the bearing on [CLAIM-684](CLAIM-684.md) holds only for support of a capacity
 learned by doing that decays with disuse. Nothing here changes this
 claim, which already states the taper result; the other three are new. The
 note is the assistant's (Claude, in this session); adopting it is the

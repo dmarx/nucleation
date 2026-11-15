@@ -88,7 +88,7 @@ summary: >-
   support it ([ARG-099](../arguments.d/ARG-099.md)). It bears on the owner's [QUESTION-460](../questions.d/QUESTION-460.md),
   for the vulnerability ground and for the bearer question.
 ---
-<!-- inactive-ok-file: CLAIM-tmp6wuql — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-1823 THEORY-1818 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: ARG-099 — filed from the same exchange, Rejected -->
@@ -249,4 +249,4 @@ principle, that integration "becomes morally concerning when it increases
 exposure to unaccountable discretionary power, destroys capabilities
 people have reason to retain, or removes appropriate means of protection
 and redress", joins this claim's mechanism to [CLAIM-428](CLAIM-428.md) and
-[CLAIM-tmp6wuql](CLAIM-tmp6wuql.md). Not filed. No change.
+[CLAIM-675](CLAIM-675.md). Not filed. No change.

@@ -88,7 +88,7 @@ summary: >-
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 ---
-<!-- inactive-ok-file: TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
@@ -484,4 +484,4 @@ to satisfy them", and "An institution does not become more concordant
 merely by ceasing to recognize a claim that was previously in conflict
 with its governing priorities." Both are this claim's relief against
 dropping a demand (with [CLAIM-556](CLAIM-556.md)), against a fixed reference set. A23's
-adaptation is used in [TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md). No change.
+adaptation is used in [TERM-122](../terms.d/TERM-122.md). No change.

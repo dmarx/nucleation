@@ -51,7 +51,7 @@ summary: >-
 complements:
 - CLAIM-332
 ---
-<!-- inactive-ok-file: THEORY-tmp5l4e4 THEORY-tmpvajjd THEORY-tmpypzp0 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1838 THEORY-1858 THEORY-1864 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
 
@@ -119,15 +119,15 @@ filed. No change.
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-- **Kelly** ([THEORY-tmp5l4e4](../theory.d/THEORY-tmp5l4e4.md)): the technium has tendencies "outside of our wants" from self-reinforcing feedback, this claim's thesis applied to technology by analogy and assertion. A point of contact, not evidence; no relation.
-- **Lanier** ([THEORY-tmpvajjd](../theory.d/THEORY-tmpvajjd.md)): treats that attribution to technology as part of a dogma; an objection to the application, not to the claim.
-- **Ellul 1983** ([THEORY-tmpypzp0](../theory.d/THEORY-tmpypzp0.md)): the technical system's autonomy, and "particular choices no longer have much significance"; consistent with the claim, asserted.
+- **Kelly** ([THEORY-1838](../theory.d/THEORY-1838.md)): the technium has tendencies "outside of our wants" from self-reinforcing feedback, this claim's thesis applied to technology by analogy and assertion. A point of contact, not evidence; no relation.
+- **Lanier** ([THEORY-1858](../theory.d/THEORY-1858.md)): treats that attribution to technology as part of a dogma; an objection to the application, not to the claim.
+- **Ellul 1983** ([THEORY-1864](../theory.d/THEORY-1864.md)): the technical system's autonomy, and "particular choices no longer have much significance"; consistent with the claim, asserted.
 
 ## Note of 2026-11-13: emergent purpose divergence, filed as a question
 
 The note above recorded A20 §I's "emergent purpose divergence" as this
 claim with an evaluative standard left open. At the owner's word of
 2026-11-13 ("file the still unfiled stuff") it is filed as
-[QUESTION-tmpuby8o](../questions.d/QUESTION-tmpuby8o.md), which asks which procedure of evaluation fixes the
+[QUESTION-464](../questions.d/QUESTION-464.md), which asks which procedure of evaluation fixes the
 purposes a whole's trajectory is said to diverge from; the exchange does
 not say. No change to this claim.

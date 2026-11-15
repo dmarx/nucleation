@@ -49,7 +49,7 @@ summary: >-
   Unavailable. Interpretive. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpclnon THEORY-tmpiihve — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1843 THEORY-1844 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-603 CLAIM-428 — Proposed; the claims this one sets beside, cited with their standing -->
 
@@ -104,6 +104,6 @@ added an encumbrance.
 
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
-- **Han 2014** ([THEORY-tmpclnon](../theory.d/THEORY-tmpclnon.md)): neoliberal power "tries to make them dependent", this claim's mechanism, asserted, not shown.
-- **Crawford 2006** ([THEORY-tmpiihve](../theory.d/THEORY-tmpiihve.md)): "What ordinary people once made, they buy", dependence produced by provision, as illustration.
+- **Han 2014** ([THEORY-1843](../theory.d/THEORY-1843.md)): neoliberal power "tries to make them dependent", this claim's mechanism, asserted, not shown.
+- **Crawford 2006** ([THEORY-1844](../theory.d/THEORY-1844.md)): "What ordinary people once made, they buy", dependence produced by provision, as illustration.
 No relation written.

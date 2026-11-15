@@ -63,7 +63,7 @@ summary: >-
   corresponding obligation". The owner's discriminating test is
   CASE-256.
 ---
-<!-- inactive-ok-file: TERM-tmpt8p9e — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-1819 THEORY-1814 THEORY-1818 THEORY-1822 THEORY-1821 — Proposed, filed 2026-11-12; the readings this note places -->
@@ -77,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1426 — Unavailable; Collins, Group Duties, cited by A12 -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, cited by A12 as registered and unread -->
 <!-- inactive-ok-file: LIT-2523 LIT-2538 — Deferred; filed from the same exchange, unread -->
-<!-- inactive-ok-file: THEORY-tmpoxssh — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
+<!-- inactive-ok-file: THEORY-1853 — filed from the readings of 2026-11-13, Proposed; Marcuse, read in full -->
 
 # QUESTION-460: Does an organized whole ground norms concerning its own constituent parts, and if it does, who bears the obligations those norms establish: the whole, where it is the kind of thing that can owe, or the agents and roles that maintain, control or benefit from the arrangement; and on what ground: that the parts constitute it, contribute to it, are vulnerable to it or are governed by it, its commitments to them, or its history with them?
 
@@ -385,12 +385,12 @@ boundaries of moral consideration", is the second result's. A23 keeps the
 default sense right: under [TERM-074](../terms.d/TERM-074.md), "an organization can simply be a
 relational arrangement among processes, components, roles, or
 constraints". The relation the question asks about is named by
-[TERM-tmpt8p9e](../terms.d/TERM-tmpt8p9e.md), a rival definition of cross-scale concordance. The
+[TERM-122](../terms.d/TERM-122.md), a rival definition of cross-scale concordance. The
 question is unchanged.
 
 ## Note of 2026-11-13: Marcuse, One-Dimensional Man, read
 
-Marcuse ([THEORY-tmpoxssh](../theory.d/THEORY-tmpoxssh.md), [NOTE-tmpf1tpw](../notes.d/NOTE-tmpf1tpw.md)) answers the bearer half for
+Marcuse ([THEORY-1853](../theory.d/THEORY-1853.md), [NOTE-1924](../notes.d/NOTE-1924.md)) answers the bearer half for
 hypostatized wholes such as the Nation and the Corporation: "Their
 independence, although real, is a spurious one inasmuch as it is that of
 particular powers which have organized the whole I of society" [stray
