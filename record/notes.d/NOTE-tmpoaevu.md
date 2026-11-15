@@ -109,7 +109,7 @@ protect previously edited ones.
 ## Connections
 
 AlphaEdit takes MEMIT's closed form, its layers, its λ and its K0
-statistic (LIT-1582, THEORY-1031; NOTE-1197 records MEMIT's
+statistic ([LIT-1582](../literature.d/LIT-1582.md), [THEORY-1031](../theory.d/THEORY-1031.md); [NOTE-1197](NOTE-1197.md) records MEMIT's
 C0 = λ·E[kkᵀ] from 100,000 samples). It follows Adam-NSCL (Wang et al.
 2021) in using the null space of the uncentred covariance. MuEdit (Liang
 et al. 2026, dmarx/nucleation#499) extends it to several domains.
@@ -126,14 +126,14 @@ et al. 2026, dmarx/nucleation#499) extends it to several domains.
     index, depend on a scale the papers do not report.
   - Named by pull request here, since MuEdit's codes are not yet on the
     default branch.
-- **THEORY-1031** (MEMIT). AlphaEdit reports MEMIT collapsing under
-  sequential editing on LLaMA3 but holding on GPT-J. THEORY-1031
+- **[THEORY-1031](../theory.d/THEORY-1031.md)** (MEMIT). AlphaEdit reports MEMIT collapsing under
+  sequential editing on LLaMA3 but holding on GPT-J. [THEORY-1031](../theory.d/THEORY-1031.md)
   concerns one batch of 10,000 on GPT-J, a different regime, so there
   is no conflict. No note filed.
-- **THEORY-1039 / THEORY-1011.** The key–value reading is assumed, not
-  tested. AlphaEdit's success is edit success, which THEORY-1039's
+- **[THEORY-1039](../theory.d/THEORY-1039.md) / [THEORY-1011](../theory.d/THEORY-1011.md).** The key–value reading is assumed, not
+  tested. AlphaEdit's success is edit success, which [THEORY-1039](../theory.d/THEORY-1039.md)'s
   promote_when says cannot settle storage. No note filed.
-- **LIT-968 / NOTE-782** (Makelov et al.). That illusion concerns
+- **[LIT-968](../literature.d/LIT-968.md) / [NOTE-782](NOTE-782.md)** (Makelov et al.). That illusion concerns
   directions in the null space of W_out, in the output space. AlphaEdit's
   null space is in key space, W_out's input side, so the two do not
   touch.

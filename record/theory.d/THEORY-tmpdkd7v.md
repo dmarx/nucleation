@@ -19,8 +19,8 @@ date: '2026-11-15'
 source:
 - LIT-tmpyijzd
 summary: >-
-  Fang, Jiang, Wang, Ma, Shi, Wang, He & Chua (2025), LIT-tmpyijzd, read
-  in NOTE-tmpoaevu. Exact preservation holds for an exact null space; the
+  Fang, Jiang, Wang, Ma, Shi, Wang, He & Chua (2025), [LIT-tmpyijzd](../literature.d/LIT-tmpyijzd.md), read
+  in [NOTE-tmpoaevu](../notes.d/NOTE-tmpoaevu.md). Exact preservation holds for an exact null space; the
   method uses a thresholded one, so preservation is approximate and its
   size unmeasured. The sequential-editing results are strong on LLaMA3 and
   hold on GPT-J and GPT2-XL. The sharp edges: no measurement of leakage,
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Fang et al. (2025), LIT-tmpyijzd, read in NOTE-tmpoaevu from arXiv v4.
+Fang et al. (2025), [LIT-tmpyijzd](../literature.d/LIT-tmpyijzd.md), read in [NOTE-tmpoaevu](../notes.d/NOTE-tmpoaevu.md) from arXiv v4.
 
 ## What was actually shown
 

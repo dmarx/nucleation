@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-15 (NOTE-tmpoaevu) from arXiv v4 (ICLR 2025), §§1–7 and
+  read 2026-11-15 ([NOTE-tmpoaevu](../notes.d/NOTE-tmpoaevu.md)) from arXiv v4 (ICLR 2025), §§1–7 and
   Appendices B–C in full. Worth reading as the null-space form of
   locate-then-edit editing that MuEdit extends. It also settles how the
   "null space" is computed in practice: eigenvectors of K0K0ᵀ with
@@ -55,7 +55,7 @@ Editing for Language Models", ICLR 2025; arXiv:2410.02355.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpoaevu.*
+*From the reading, [NOTE-tmpoaevu](../notes.d/NOTE-tmpoaevu.md).*
 
 - **The guarantee.** "(W + ∆P)K0 = W K0 = V0. This shows the projection
   matrix P ensures that the model edits occur without interference with
@@ -76,8 +76,8 @@ Editing for Language Models", ICLR 2025; arXiv:2410.02355.
 ## Standing in the record
 
 Filed on 2026-11-15 at the owner's request, as the method MuEdit extends.
-It continues the editing line the record holds: ROME (LIT-1536), MEMIT
-(LIT-1582, THEORY-1031) and Hase et al. (LIT-1578, THEORY-1024).
+It continues the editing line the record holds: ROME ([LIT-1536](LIT-1536.md)), MEMIT
+([LIT-1582](LIT-1582.md), [THEORY-1031](../theory.d/THEORY-1031.md)) and Hase et al. ([LIT-1578](LIT-1578.md), [THEORY-1024](../theory.d/THEORY-1024.md)).
 
 Its footnote on the eigenvalue threshold answers the question MuEdit's
 reading left open: MuEdit's "null spaces", and so its Conflict Index,
