@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp4u1pa
 title: 'The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent''s regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -23,6 +23,13 @@ history:
     carry will-organization second, as its version 2. Its count here
     goes from 22 to 24, and a sentence says that entries filed on the
     line since the split are not all integrated. Nothing else changes.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-tmpbthzh,
+    2026-11-15): CLAIM-686 now have dependence-and-domination as their
+    first line, and the account says so where it states their lines.
+    No other change.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the will-organization line that no part account
@@ -66,6 +73,7 @@ summary: >-
   version 1's sixth part, is the line organizational-normativity
   ([ADR-089](../decisions.d/ADR-089.md)), with its own account ([SYNTHESIS-038](SYNTHESIS-038.md)).
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-686 — Proposed; joined SYNTHESIS-041 at the review of 2026-11-15 -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 ARG-059 ARG-062 ARG-064 CLAIM-024 CLAIM-156 CLAIM-169 CLAIM-262 CLAIM-336 CLAIM-358 CLAIM-364 CLAIM-440 CLAIM-441 CLAIM-442 CLAIM-445 CLAIM-446 CLAIM-447 CLAIM-465 CLAIM-484 CLAIM-487 CLAIM-527 CLAIM-541 CLAIM-544 CLAIM-545 CLAIM-553 CLAIM-555 CLAIM-610 CLAIM-614 CLAIM-619 CLAIM-620 CLAIM-624 CLAIM-627 CLAIM-631 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-010 CLAIM-089 — Rejected; components and citations, with their standing -->
@@ -112,8 +120,8 @@ When this account was written, every one of the line's 180 entries was
 integrated by exactly one part account: the 186 entries carrying the line after the split of
 2026-11-11, less the six Superseded syntheses. Version 1 had 203, with
 the 23 now in organizational-normativity. [CASE-128](../cases.d/CASE-128.md) and [CASE-129](../cases.d/CASE-129.md) joined the line at the sweep of
-2026-11-11; [CLAIM-555](../claims.d/CLAIM-555.md) left it. Since then [CLAIM-686](../claims.d/CLAIM-686.md) and [QUESTION-454](../questions.d/QUESTION-454.md), first in
-organizational-normativity, joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15); other
+2026-11-11; [CLAIM-555](../claims.d/CLAIM-555.md) left it. Since then [CLAIM-686](../claims.d/CLAIM-686.md) and [QUESTION-454](../questions.d/QUESTION-454.md), then first in
+organizational-normativity (CLAIM-686 is first in dependence-and-domination since ADR-tmpbthzh), joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15); other
 entries filed on the line after 2026-11-11 are integrated by no part
 account yet, and are for the line's next review. Some are also integrated by other lines' accounts, each part
 account says which.

@@ -20,12 +20,14 @@ summary: >-
   `dependence-and-domination`, "Wholes, parts and dependence", takes the
   29 entries of the third and fourth parts. Three of them keep
   organizational-normativity second, because they refine or bear on a
-  root question (ADR-085). Rejected: keeping one line; a line of its own
+  root question (ADR-085). The accounts follow: the two parts' accounts
+  take the new line under a new line account, and SYNTHESIS-038 is
+  revised over the first two. Rejected: keeping one line; a line of its own
   for the fourth part; a split in four; moving the parts into
   distributed-agency.
 ---
-<!-- inactive-ok-file: ADR-082 ADR-083 ADR-085 ADR-087 ADR-089 ADR-090 ADR-099 — Proposed; the decisions on lines, splits and accounts this applies -->
-<!-- inactive-ok-file: SYNTHESIS-038 — Proposed; the line's account, revised at pull request #505 -->
+<!-- inactive-ok-file: ADR-082 ADR-083 ADR-084 ADR-085 ADR-087 ADR-089 ADR-090 ADR-099 — Proposed; the decisions on lines, splits and accounts this applies -->
+<!-- inactive-ok-file: SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-093 SYNTHESIS-094 SYNTHESIS-tmpt2tjp SYNTHESIS-032 SYNTHESIS-035 SYNTHESIS-041 SYNTHESIS-050 SYNTHESIS-052 SYNTHESIS-056 — Proposed; the accounts filed at pull request #505 and revised or filed here -->
 <!-- inactive-ok-file: ARG-110 CLAIM-428 CLAIM-614 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-673 CLAIM-682 CLAIM-685 CLAIM-686 CLAIM-687 CLAIM-690 TERM-122 TERM-123 TERM-124 — Proposed; moved or cited, with their standing -->
 
 # ADR-tmpbthzh: The organizational-normativity line is split in two: organizational-normativity keeps what a normative judgment needs and the wrong beyond harm; what wholes and parts owe each other, and what those who govern an arrangement others depend on owe, become the line dependence-and-domination, because those parts relate to the first two almost only through its root questions
@@ -41,26 +43,28 @@ judging an organization needs beyond them". By 2026-11-15 it held 71,
 filed from "About Plantation Paradise", "Analyze technological
 civilization trap" and the exchanges around them.
 
-The synthesis review of 2026-11-15, pull request #505 (not yet merged when
-this was written), gave the line an account over four part accounts, with
-SYNTHESIS-038 (version 4) as the line's account over them:
+The synthesis review of 2026-11-15, pull request #505, gave the line an
+account over four part accounts, with SYNTHESIS-038 (version 4) as the
+line's account over them:
 
-1. **what a normative judgment needs** (19 components): viability does not
+1. **what a normative judgment needs** (SYNTHESIS-091, 19 components): viability does not
    establish what ought to persist, a judgment is well-defined once its
    relata are fixed and can then be false (CLAIM-363), some judgments need
    histories, and a self-maintaining system's failure norm is set by its
    own upkeep; with the root questions QUESTION-128 and QUESTION-129;
-2. **the wrong beyond harm, and becoming normatively less informed** (24):
+2. **the wrong beyond harm, and becoming normatively less informed**
+   (SYNTHESIS-094, 24):
    a bounded duty of answerability (CLAIM-614, CLAIM-624) and the routes
    by which an organization loses sight of what it owes;
-3. **what wholes and parts owe and claim** (20): what a whole owes its
+3. **what wholes and parts owe and claim** (SYNTHESIS-092, 20): what a whole owes its
    parts, with ground and bearer kept apart (QUESTION-460), when a whole's
    need of a part becomes the part's authority (QUESTION-461), the routes
    into exploitation (CLAIM-669, CLAIM-670), control over the terms as
    what sorts a dependence (CLAIM-690), exploitation and domination
    relative to a declared standard (TERM-123, TERM-124), and the
    domination threshold (CLAIM-682, CLAIM-686);
-4. **what those who govern an arrangement others depend on owe** (9): A's
+4. **what those who govern an arrangement others depend on owe**
+   (SYNTHESIS-093, 9): A's
    claims from "Analyze technological civilization trap" on separable
    dimensions of power, the burden of justification, accountability that
    rises with indispensability (CLAIM-687), the erosion of governing
@@ -138,12 +142,31 @@ made on the assistant's proposal.
   the third part's question asked of the controllers: CLAIM-687's body
   says who owes is "those who control" the arrangement, "the agents
   CLAIM-682's second condition names".
-- **The accounts follow the split, after #505 merges.** #505 owns the
-  four part accounts and SYNTHESIS-038 until it merges, and this decision
-  does not touch them. Once it has merged, the part accounts of the third
-  and fourth parts take the new line, the new line gets an account over
-  them, and SYNTHESIS-038 is revised over the first two parts, keeping its
-  version 4 counts as the record of why the line was split.
+- **The accounts follow the split** (ADR-083, ADR-084). #505 merged
+  while this decision was drafted, and the restructuring is part of its
+  first application:
+  - SYNTHESIS-092 and SYNTHESIS-093 take the new line (version 2), and stay
+    its two part accounts;
+  - SYNTHESIS-tmpt2tjp is filed as the new line's account over them. It
+    states where they meet, CLAIM-687's complement onto CLAIM-682, and
+    what crosses to organizational-normativity;
+  - SYNTHESIS-038 is revised over the first two parts (version 5). It
+    integrates directly the three entries that carry organizational-normativity
+    second, QUESTION-460, QUESTION-468 and CLAIM-685, as ADR-087's
+    revision of readiness's account integrated CLAIM-602, and keeps its
+    version 4 counts as the record of why the line was split;
+  - SYNTHESIS-091 and SYNTHESIS-094 say their line's account is now built
+    over two parts (version 2);
+  - the accounts of other lines that state a moved entry's line say the
+    new one: SYNTHESIS-032, SYNTHESIS-035, SYNTHESIS-041, SYNTHESIS-050,
+    SYNTHESIS-052 and SYNTHESIS-056.
+
+  The two parts are not merged into one account. The synthesis-review
+  skill gives a line that falls into parts an account for each part and a
+  line account over them, and both part accounts were filed and mapped
+  hours earlier. Merging would supersede an account no reviewer has found
+  unfaithful, and would hide that the fourth part hangs together by its
+  source.
 
 ## Alternatives considered
 
@@ -175,10 +198,8 @@ made on the assistant's proposal.
 
 ## Consequences
 
-- The current-account view shows two lines where there was one. Until the
-  accounts are restructured after #505, the new line has no account of its
-  own, and SYNTHESIS-038's part accounts still name organizational-normativity
-  as their line.
+- The current-account view shows two lines where there was one, each with
+  a line account over two part accounts. None is set Current.
 - `luria lint` may report more `rests_on` steps across lines, for example
   from ARG-110 (dependence-and-domination) into CLAIM-428
   (distributed-agency), as before. They are dependencies, and they are

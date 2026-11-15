@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpjze56
 title: 'Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent''s governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -17,6 +17,13 @@ history:
     held them. They are added to `integrates`, to the account, and to
     the components. That line's part accounts SYNTHESIS-092 and
     SYNTHESIS-091 set them out too. No other change.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-tmpbthzh,
+    2026-11-15): CLAIM-686 now have dependence-and-domination as their
+    first line, and the account says so where it states their lines.
+    No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the will-organization line on freedom of will, self-formation
@@ -70,6 +77,7 @@ summary: >-
   and continuation open. The account adds nothing of its own; its standing
   is its components'.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-686 SYNTHESIS-091 SYNTHESIS-092 — Proposed; a component and the organizational-normativity part accounts, cited at version 2 -->
 <!-- inactive-ok-file: ADR-083 ADR-084 ARG-060 CASE-194 CLAIM-170 CLAIM-544 CLAIM-545 CLAIM-610 CLAIM-620 CLAIM-622 SYNTHESIS-025 SYNTHESIS-026 THEORY-040 — Proposed; components and citations, with their standing -->
 
@@ -108,7 +116,7 @@ policy. [CLAIM-622](../claims.d/CLAIM-622.md) (A58; demonstrated, Proposed) rest
 organizations can each be minimally adequate while drawing incomparable
 distinctions. Added at version 2: [CLAIM-686](../claims.d/CLAIM-686.md) (the assistant's, accepted by
 the owner on 2026-11-13; thesis, demonstrated, Proposed; first line
-organizational-normativity) rests on [CLAIM-523](../claims.d/CLAIM-523.md) and uses [TERM-064](../terms.d/TERM-064.md), [TERM-023](../terms.d/TERM-023.md)
+dependence-and-domination) rests on [CLAIM-523](../claims.d/CLAIM-523.md) and uses [TERM-064](../terms.d/TERM-064.md), [TERM-023](../terms.d/TERM-023.md)
 and [TERM-085](../terms.d/TERM-085.md): where a dependent party's claims on an arrangement's
 controllers fail of legibility, volitional efficacy or correctability, the
 dependent lacks effective means of influence and challenge, and
@@ -191,7 +199,7 @@ cases by [TERM-100](../terms.d/TERM-100.md)'s formation and maintenance provenan
 - [TERM-099](../terms.d/TERM-099.md) and [TERM-100](../terms.d/TERM-100.md), at the owner's review of 2026-11-03, Active.
 - [CASE-191](../cases.d/CASE-191.md), built at the owner's request, Active. [ARG-060](../arguments.d/ARG-060.md), Proposed.
 - [QUESTION-071](../questions.d/QUESTION-071.md), Open. [QUESTION-364](../questions.d/QUESTION-364.md), A29's, Open.
-- [CLAIM-686](../claims.d/CLAIM-686.md), the assistant's; thesis, demonstrated, Proposed; first line organizational-normativity. [QUESTION-454](../questions.d/QUESTION-454.md), A's, Open; first line organizational-normativity. Added at version 2.
+- [CLAIM-686](../claims.d/CLAIM-686.md), the assistant's; thesis, demonstrated, Proposed; first line dependence-and-domination. [QUESTION-454](../questions.d/QUESTION-454.md), A's, Open; first line organizational-normativity. Added at version 2.
 
 Elsewhere: [CLAIM-620](../claims.d/CLAIM-620.md) is also integrated by learned-structure's account
 ([SYNTHESIS-025](SYNTHESIS-025.md)), and [CLAIM-356](../claims.d/CLAIM-356.md) by [SYNTHESIS-026](SYNTHESIS-026.md).
