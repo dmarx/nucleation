@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'An actor that wrongfully creates circumstances in which reversing its act would harm innocent third parties can give a reviewing institution genuine reasons to accommodate those harms, as moral blackmail gives its target a genuine obligation; the reviewer''s sound weighing of those reasons does not discharge the actor''s responsibility for having wrongfully created them, and the reasons are no larger than the circumstances support'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
@@ -21,6 +21,13 @@ history:
     to that case, and the predicament is kept apart from manipulation: it
     can be real without having been manufactured. Defeater revised to
     match.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    At the second review of 2026-11-16 (ChatGPT's, forwarded by the owner):
+    "the actor gets the outcome it wanted" becomes "can obtain", since genuine
+    reasons against immediate reversal need not outweigh those for it. Title
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -111,9 +118,12 @@ foreseeable.
 under way must weigh what stopping would now cost: to the public, to third
 parties, to security. Where a wrongful act created those costs, the
 reviewer is in Bob's position: the reasons are genuine, the reviewer who
-weighs them reasons soundly, and the actor gets the outcome it wanted
+weighs them reasons soundly, and the actor can obtain the outcome it wanted
 through that reasoning, without deceiving the reviewer or redirecting its
-criteria.
+criteria. Can, not does: the reasons need not outweigh those for reversal,
+and the reviewer may choose a partial remedy, impose safeguards or reverse
+despite the costs. Creating moral leverage is not the same as exercising
+it successfully.
 
 **Predicament and manipulation.** The predicament can be real without
 having been manufactured. Where the actor created the costs in order to

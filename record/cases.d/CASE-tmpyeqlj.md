@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'Two organizations with the same rules, appeal rights, decision rate and initial corrective capacity, one whose decisions leave that capacity intact and one whose decisions each use some of it up: with the rule revised after T days, the first can still correct its accumulated errors until T = 100, the second only until T = 20'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Clarified at the second review of 2026-11-16 (ChatGPT's, forwarded by
+    the owner): B's capacity is floored at zero, K_B(T) = max(0, 100 − 4T),
+    exhausted at day 25; the capacity is a reserve dedicated to correction,
+    not needed for routine execution; and A and B are indistinguishable in
+    their stipulated observable outputs, not in their reserves. The result is
+    unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -54,8 +64,10 @@ Two organizations, A and B, alike in everything stated:
 They differ in one respect. In A, executing a decision leaves the
 corrective capacity as it was. In B, each decision uses up δ = 0.4 units of
 it: the staff, records, relationships or access through which a later
-correction would be carried out. So at day T, A has K₀ = 100 units and B
-has K₀ − δrT.
+correction would be carried out. The capacity is a reserve dedicated to
+correction, not a resource routine execution needs, so B goes on deciding
+after the reserve is spent. At day T, A has K_A = 100 units and B has
+K_B(T) = max(0, K₀ − δrT) = max(0, 100 − 4T), which reaches zero at day 25.
 
 When the rule is revised at T, correcting all accumulated errors needs
 c·e·r·T = T units.
@@ -89,8 +101,11 @@ Three mechanisms the exchange connected in prose:
   alone accounts for the window 20 < T ≤ 100 in which A can still correct
   and B cannot.
 
-Up to the moment correction is attempted, A and B are indistinguishable:
-same outputs, same errors, same formal rights. That is [CLAIM-462](../claims.d/CLAIM-462.md)'s point,
+Up to the moment correction is attempted, A and B are indistinguishable in
+their stipulated observable outputs: same decisions, same errors, same
+formal rights. Their corrective reserves differ and could in principle be
+inspected beforehand; what the case shows is that the outputs do not reveal
+them. That is [CLAIM-462](../claims.d/CLAIM-462.md)'s point,
 that capacity for effective action is no evidence of capacity to be
 corrected, in a case where the difference is a single parameter. B's
 foreclosure is [CLAIM-464](../claims.d/CLAIM-464.md)'s effect produced by the ordinary run of

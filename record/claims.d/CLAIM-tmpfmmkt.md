@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -15,6 +15,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    At the second review of 2026-11-16 (ChatGPT's, forwarded by the owner),
+    which found the same omission in CLAIM-tmpffmpr: step 3 now says its
+    t* = Fμ/(λ − μ) treats review as taking no time, and gives
+    t* = (F − s)μ/(λ − μ) for a service time s. The bound and the result are
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,6 +59,7 @@ summary: >-
   [TERM-085](../terms.d/TERM-085.md)'s deadline applied to a stream of cases. The wording is A's; the
   derivation is the filer's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpffmpr — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-tmpeq8z1 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpwpvbz — filed from the same exchange, Proposed -->
 
@@ -88,10 +97,13 @@ filed comes after the harm it targets has become irreversible (F is
 3. **Under first-come review, the share resolved in time goes to zero.** A
    challenge filed at t finds (λ − μ)t ahead of it and waits (λ − μ)t/μ. It
    is late when that exceeds F, that is, for every t > t* = Fμ/(λ − μ).
+   This treats review as taking no time of its own (the fluid limit); with
+   a service time s = 1/μ per challenge the latency is s + (λ − μ)t/μ and
+   t* = (F − s)μ/(λ − μ) (CLAIM-tmpffmpr).
    Only the challenges filed before t*, a fixed number, are resolved in
    time, so their share of all those filed tends to zero.
 
-With A's numbers (λ = 100, μ = 50, F = 10 days), t* = 10 days. A
+With A's numbers (λ = 100, μ = 50, F = 10 days), t* = 10 days in the fluid limit, 9.98 days with s = 0.02. A
 day-by-day simulation (`python3 -I`, scratchpad, 2026-11-15) agrees: under
 first-come review, every challenge filed from day 11 on is late, and the
 share resolved in time falls to 10.5% by day 100 and 1.05% by day 1,000;

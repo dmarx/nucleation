@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'In an idealized overloaded review process (homogeneous challenges arriving at rate λ, one service time s = 1/μ each with μ < λ, a common window F ≥ s, no batch corrections), the order of review decides whose right to challenge still prevents anything: first-come review in the limit resolves none in time, while an order that serves only challenges it can still finish in time reaches the largest possible share, μ/λ, once F ≥ s + 1/λ; under insufficient review capacity, scheduling distributes preventive rights'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
@@ -14,6 +14,15 @@ history:
     be finished in time, and a dimensionally sound condition, F ≥ s + 1/λ,
     in place of "the backlog exceeds μ". Checked by an event-level
     simulation. Title narrowed accordingly; the conclusion is unchanged.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    Corrected at the second review of 2026-11-16 (ChatGPT's, forwarded by
+    the owner): the first-come threshold omitted the review's own service
+    time. A challenge's completion latency is s + (λ − μ)t/μ, so
+    t* = (F − s)μ/(λ − μ), not Fμ/(λ − μ): 9.98 days rather than 10 with the
+    example's numbers. Derivation and summary corrected; the title carries no
+    formula; the result is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,7 +53,7 @@ summary: >-
   overloaded corrective process can resolve in time at μ/λ, whatever the
   order. This claim says which orders reach the bound and which fall to
   zero: first-come review, the default and the one that looks fair, falls
-  to zero because after t* = Fμ/(λ − μ) everything it resolves is already
+  to zero because after t* = (F − s)μ/(λ − μ) everything it resolves is already
   too late; serving the newest first, or the oldest challenge whose window
   is still open, reaches μ/λ. So under overload no order preserves everyone's
   right, and choosing one distributes which rights stay preventive. Checked
@@ -79,7 +88,10 @@ irreversible.
    nothing. So the number resolved in time is μT minus the resolutions
    spent on expired challenges.
 2. **First-come review spends all of it so, eventually.** A challenge filed
-   at t waits (λ − μ)t/μ, which exceeds F for every t > t* = Fμ/(λ − μ).
+   at t (the first arrival at time zero) waits (λ − μ)t/μ and is resolved
+   one service time later, so its completion latency is
+   L(t) = s + (λ − μ)t/μ, which exceeds F for every
+   t > t* = (F − s)μ/(λ − μ), given F ≥ s.
    From the time the challenges filed at t* come up, every resolution is of
    an expired challenge. The number resolved in time stops growing, and its
    share of those filed tends to zero ([CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md), step 3).
@@ -104,8 +116,9 @@ irreversible.
 
 ## Check
 
-A day-by-day simulation (`python3 -I`, scratchpad, 2026-11-15) with
-A35's numbers, λ = 100, μ = 50, F = 10 days: by day 1,000 first-come
+With A35's numbers, λ = 100, μ = 50, s = 0.02 and F = 10 days,
+t* = 9.98 days. A day-by-day simulation (`python3 -I`, scratchpad,
+2026-11-15), which counts in whole days, with the same numbers: by day 1,000 first-come
 review resolves 1.05% of challenges in time; newest-first and
 oldest-open-first each resolve 50.0%, the bound. Under oldest-open-first,
 48,950 of the 100,000 challenges filed had expired unheard by day 1,000.

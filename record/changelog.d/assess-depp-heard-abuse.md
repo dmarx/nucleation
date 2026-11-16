@@ -51,3 +51,7 @@
   hypothesis becoming [CLAIM-tmp7zzbd](record/claims.d/CLAIM-tmp7zzbd.md); and a separating construction,
   [CASE-tmpyeqlj](record/cases.d/CASE-tmpyeqlj.md), for throughput, specification lag and endogenous
   foreclosure.
+- Corrections at the second review of 2026-11-16: CLAIM-tmpffmpr's
+  first-come threshold includes the service time, t* = (F − s)μ/(λ − μ);
+  CASE-tmpyeqlj's reserve is floored at zero and dedicated to correction;
+  CLAIM-tmp5zzud's actor "can obtain" its outcome.
