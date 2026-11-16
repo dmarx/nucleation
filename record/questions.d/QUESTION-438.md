@@ -52,3 +52,15 @@ record and unread: Manik, Timme and Witthaut 2017, "Cycle flows and
 multistability in oscillatory networks" (doi:10.1063/1.4994177); Bačić,
 Schaub, Kurths and Witthaut 2026, Nature Communications
 (doi:10.1038/s41467-026-75565-w).
+
+## Note of 2026-11-15: a localized structure that is feasible where it is not attracting
+<!-- inactive-ok-file: CASE-tmpubkrl — Proposed; the proposed study filed from the exchange of 2026-11-15, cited in its note -->
+
+A5 §7 of the exchange "Explain String Theory" carries the question's comparison to localized structures. 𝒦(λ) is the compatibility complex of declared demands, and 𝒯(λ) its sub-complex of demand sets met by an attracting invariant set, with 𝒯(λ) ⊆ 𝒦(λ) under a declared notion of attraction.
+
+On a translation-invariant line, a φ⁴ kink can be required to centre in a given interval. That demand is feasible, but no particular centre is asymptotically attracting, since every translate is an equilibrium. A localized pinning potential makes one centre attract without changing the kink's charge. Varying the pinning strength is a parameter path along which 𝒯 changes while 𝒦 does not. That is the field analogue of a locking region inside its compatibility region ([CLAIM-618](../claims.d/CLAIM-618.md)), and one of the ways of coming apart this question asks about. A's construction, not run ([CASE-tmpubkrl](../cases.d/CASE-tmpubkrl.md)).
+
+## Note of 2026-11-15: the pinned kink, run
+<!-- inactive-ok-file: CASE-tmperwxh — Proposed; the run this note reports -->
+
+The pinned kink proposed in the note above has been run ([CASE-tmperwxh](../cases.d/CASE-tmperwxh.md), the assistant's). A kink displaced from the centre stays displaced without the pinning bump and returns with it. The centred kink is static either way, and the charge is 1 throughout. So raising the pinning strength from zero puts the demand "centre in [−0.5, 0.5]" into the attracting subcomplex while leaving the compatibility complex unchanged. One deterministic run in one dimension, with one pinning strength. It bears on the question and does not answer it.
