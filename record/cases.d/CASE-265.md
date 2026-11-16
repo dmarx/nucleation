@@ -1,5 +1,8 @@
 ---
+number: 265
 status: Proposed
+formerly:
+- CASE-tmp3ioyf
 title: 'A mutual-maintenance construction: an intact share c repaired through a capacity r that c itself produces, both turning over on a standing supply s, is bistable at s = 1 with a saddle at (0.0955, 0.2764), so its survival threshold is a separatrix in the joint state and not a level of c; a constant outside controller holding r at its maintained value gives the same equilibrium but recovers from c = 0.01, where the mutual system collapses; a founding pulse can be withdrawn and the supply cannot'
 version: 1
 standing: fictional
@@ -34,7 +37,7 @@ summary: >-
   owner's call.
 ---
 
-# CASE-tmp3ioyf: A mutual-maintenance construction: an intact share c repaired through a capacity r that c itself produces, both turning over on a standing supply s, is bistable at s = 1 with a saddle at (0.0955, 0.2764), so its survival threshold is a separatrix in the joint state and not a level of c; a constant outside controller holding r at its maintained value gives the same equilibrium but recovers from c = 0.01, where the mutual system collapses; a founding pulse can be withdrawn and the supply cannot
+# CASE-265: A mutual-maintenance construction: an intact share c repaired through a capacity r that c itself produces, both turning over on a standing supply s, is bistable at s = 1 with a saddle at (0.0955, 0.2764), so its survival threshold is a separatrix in the joint state and not a level of c; a constant outside controller holding r at its maintained value gives the same equilibrium but recovers from c = 0.01, where the mutual system collapses; a founding pulse can be withdrawn and the supply cannot
 
 ## The model
 

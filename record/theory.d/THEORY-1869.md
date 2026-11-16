@@ -1,5 +1,8 @@
 ---
+number: 1869
 status: Proposed
+formerly:
+- THEORY-tmpqise3
 promote_when: >-
   A reading of §§3–7 of Czubak and Jerrard, or of the published version,
   or an independent mathematical treatment, confirms that Theorem 1.4 is
@@ -16,23 +19,23 @@ tags:
 - natural-sciences
 date: '2026-11-15'
 source:
-- LIT-tmp0jm6f
+- LIT-2610
 corroborates:
 - CLAIM-606
 summary: >-
-  Czubak & Jerrard (2012), [LIT-tmp0jm6f](../literature.d/LIT-tmp0jm6f.md), read in part in [NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md):
+  Czubak & Jerrard (2012), [LIT-2610](../literature.d/LIT-2610.md), read in part in [NOTE-1950](../notes.d/NOTE-1950.md):
   the statement of Theorem 1.4 and the remarks around it; the proof is
   unread. Filed as the read neighbour of Nielsen & Olesen (1973),
-  [LIT-tmphbd2x](../literature.d/LIT-tmphbd2x.md), whose conjecture it proves where Jaffe and Taubes's holds.
+  [LIT-2613](../literature.d/LIT-2613.md), whose conjecture it proves where Jaffe and Taubes's holds.
   It corroborates [CLAIM-606](../claims.d/CLAIM-606.md)'s topological route, which does not rest on
   it: a structure carrying a quantized charge persists as an extended
   object under the field's dynamics. The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmphbd2x — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: LIT-2613 — Unavailable; the work this stands in for -->
 
-# THEORY-tmpqise3: In the abelian Higgs model a thin vortex line follows a Nambu–Goto string: for a timelike minimal surface with zero initial velocity there are solutions whose energy concentrates near it and that stay close to the Nielsen–Olesen vortex across it, for a finite time, wherever the two-dimensional vortex problem has a minimizer ordered by charge, which is known at critical coupling and for large coupling
+# THEORY-1869: In the abelian Higgs model a thin vortex line follows a Nambu–Goto string: for a timelike minimal surface with zero initial velocity there are solutions whose energy concentrates near it and that stay close to the Nielsen–Olesen vortex across it, for a finite time, wherever the two-dimensional vortex problem has a minimizer ordered by charge, which is known at critical coupling and for large coupling
 
-Czubak & Jerrard (2012), [LIT-tmp0jm6f](../literature.d/LIT-tmp0jm6f.md).
+Czubak & Jerrard (2012), [LIT-2610](../literature.d/LIT-2610.md).
 
 ## The result
 

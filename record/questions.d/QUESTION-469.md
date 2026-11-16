@@ -1,5 +1,8 @@
 ---
+number: 469
 status: Open
+formerly:
+- QUESTION-tmpxe81d
 title: 'When a localized pattern persists on a carrier that is itself a persisting structure, as a soliton on a vortex filament or a vortex line on its worldsheet, can a model derive both persistences together, and does the pattern''s identity then depend on the carrier''s?'
 version: 1
 tags:
@@ -13,25 +16,25 @@ summary: >-
   and filed at the owner's request. In every model the filing read, the
   upper level is derived and the lower one is assumed or constructed.
   Hasimoto's soliton rides on a given thin filament (Van Gorder,
-  [THEORY-tmpaqova](../theory.d/THEORY-tmpaqova.md)). Czubak and Jerrard's vortex line follows a worldsheet
-  from constructed initial data, for a finite time ([THEORY-tmpqise3](../theory.d/THEORY-tmpqise3.md)).
+  [THEORY-1868](../theory.d/THEORY-1868.md)). Czubak and Jerrard's vortex line follows a worldsheet
+  from constructed initial data, for a finite time ([THEORY-1869](../theory.d/THEORY-1869.md)).
   Nested individuals are a case [TERM-088](../terms.d/TERM-088.md)'s senses do not yet separate. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpaqova THEORY-tmpqise3 CLAIM-606 — Proposed or new; the readings that raise the question and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-1868 THEORY-1869 CLAIM-606 — Proposed or new; the readings that raise the question and the entries it bears on -->
 
-# QUESTION-tmpxe81d: When a localized pattern persists on a carrier that is itself a persisting structure, as a soliton on a vortex filament or a vortex line on its worldsheet, can a model derive both persistences together, and does the pattern's identity then depend on the carrier's?
+# QUESTION-469: When a localized pattern persists on a carrier that is itself a persisting structure, as a soliton on a vortex filament or a vortex line on its worldsheet, can a model derive both persistences together, and does the pattern's identity then depend on the carrier's?
 
 ## Why it is a question
 
 The filing's readings each derive one level of a two-level individual and
 take the other as given:
 
-- **Hasimoto's soliton** ([THEORY-tmpaqova](../theory.d/THEORY-tmpaqova.md)). It is a pattern in a
+- **Hasimoto's soliton** ([THEORY-1868](../theory.d/THEORY-1868.md)). It is a pattern in a
   filament's curvature and torsion, derived under local induction. The
   filament is a thin, unstretched line vortex assumed from the start.
-- **The Nielsen–Olesen vortex line** ([THEORY-tmpqise3](../theory.d/THEORY-tmpqise3.md)). It follows a
+- **The Nielsen–Olesen vortex line** ([THEORY-1869](../theory.d/THEORY-1869.md)). It follows a
   Nambu–Goto worldsheet for a finite time, from initial data built to
   follow it. Whether such a line forms is not addressed.
 

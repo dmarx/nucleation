@@ -1,5 +1,8 @@
 ---
+number: 693
 status: Proposed
+formerly:
+- CLAIM-tmpicwgd
 title: 'The interventions needed to find that a structure''s maintenance comes from outside grow with how much of the internal production law the outside maintainer reproduces: a supply that ignores the structure''s state is exposed by perturbing the state, one that runs the law on a delayed reading of the state is exposed only by perturbations faster than its delay, and one that runs the exact law on the present state is exposed only by intervening on the production mechanism'
 version: 1
 role: thesis
@@ -21,27 +24,27 @@ line:
 complements:
 - CLAIM-522
 grounds:
-- CASE-tmpqruw9
-- CASE-tmp3ioyf
+- CASE-268
+- CASE-265
 summary: >-
   The assistant's, offered at the end of the filing of 2026-11-15 and
   filed at the owner's request. [CLAIM-522](CLAIM-522.md) proves the ideal end: a
   controller that supplies the internal law as state feedback mimics
-  internal maintenance under every intervention on state. [CASE-tmp3ioyf](../cases.d/CASE-tmp3ioyf.md)
+  internal maintenance under every intervention on state. [CASE-265](../cases.d/CASE-265.md)
   showed the other end: a constant controller is exposed by perturbing the
   state. This claim fills the rungs between with one family, demonstrated
-  for delayed copies of the law in [CASE-tmpqruw9](../cases.d/CASE-tmpqruw9.md). That the ordering holds
+  for delayed copies of the law in [CASE-268](../cases.d/CASE-268.md). That the ordering holds
   beyond that family is the claim's general reading and stays open. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpqruw9 CASE-tmp3ioyf — Proposed or new; the constructions the claim rests on -->
+<!-- inactive-ok-file: CASE-268 CASE-265 — Proposed or new; the constructions the claim rests on -->
 
-# CLAIM-tmpicwgd: The interventions needed to find that a structure's maintenance comes from outside grow with how much of the internal production law the outside maintainer reproduces: a supply that ignores the structure's state is exposed by perturbing the state, one that runs the law on a delayed reading of the state is exposed only by perturbations faster than its delay, and one that runs the exact law on the present state is exposed only by intervening on the production mechanism
+# CLAIM-693: The interventions needed to find that a structure's maintenance comes from outside grow with how much of the internal production law the outside maintainer reproduces: a supply that ignores the structure's state is exposed by perturbing the state, one that runs the law on a delayed reading of the state is exposed only by perturbations faster than its delay, and one that runs the exact law on the present state is exposed only by intervening on the production mechanism
 
 ## The demonstration
 
-In the mutual-maintenance model ([CASE-tmp3ioyf](../cases.d/CASE-tmp3ioyf.md), [CASE-tmpqruw9](../cases.d/CASE-tmpqruw9.md)):
+In the mutual-maintenance model ([CASE-265](../cases.d/CASE-265.md), [CASE-268](../cases.d/CASE-268.md)):
 - A constant supply of the capacity differs from internal production
   after a brief knock to the structure, by 0.146.
 - A supply running the law on a reading of the structure τ old differs by

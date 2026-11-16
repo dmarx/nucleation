@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**920 documents cited without acknowledgement.** Not listed: 28975 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**924 documents cited without acknowledgement.** Not listed: 29058 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -6673,6 +6673,18 @@ Experience is constituted by interpretive organization, not produced by it: an a
 - [`record/theory.d/THEORY-056.md:256`](../../record/theory.d/THEORY-056.md)
 - [`record/theory.d/THEORY-056.md:261`](../../record/theory.d/THEORY-056.md)
 
+### [CLAIM-606](../../record/claims.d/CLAIM-606.md) — Proposed
+
+A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
+
+5 citations in 4 files await a look; 45 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1698.md:219`](../../record/notes.d/NOTE-1698.md)
+- [`record/terms.d/TERM-088.md:34`](../../record/terms.d/TERM-088.md)
+- [`record/terms.d/TERM-088.md:224`](../../record/terms.d/TERM-088.md)
+- [`record/theory.d/THEORY-1868.md:28`](../../record/theory.d/THEORY-1868.md)
+- [`record/theory.d/THEORY-1869.md:30`](../../record/theory.d/THEORY-1869.md)
+
 ### [CLAIM-610](../../record/claims.d/CLAIM-610.md) — Proposed
 
 If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
@@ -8138,6 +8150,16 @@ One hidden mode fixed for a run, producing 1, 0, 0 over three periods in one set
 - [`record/claims.d/CLAIM-197.md:28`](../../record/claims.d/CLAIM-197.md)
 - [`record/claims.d/CLAIM-197.md:150`](../../record/claims.d/CLAIM-197.md)
 
+### [CASE-265](../../record/cases.d/CASE-265.md) — Proposed
+
+A mutual-maintenance construction: an intact share c repaired through a capacity r that c itself produces, both turning over on a standing supply s, is bistable at s = 1 with a saddle at (0.0955, 0.2764), so its survival threshold is a separatrix in the joint state and not a level of c; a constant outside controller holding r at its maintained value gives the same equilibrium but recovers from c = 0.01, where the mutual system collapses; a founding pulse can be withdrawn and the supply cannot
+
+3 citations in 1 file await a look; 6 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-269.md:82`](../../record/cases.d/CASE-269.md)
+- [`record/cases.d/CASE-269.md:108`](../../record/cases.d/CASE-269.md)
+- [`record/cases.d/CASE-269.md:109`](../../record/cases.d/CASE-269.md)
+
 ### [CLAIM-009](../../record/claims.d/CLAIM-009.md) — Proposed
 
 Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for
@@ -8447,16 +8469,6 @@ In statistical learning, the compatibility complex of the demands a training dis
 - [`record/decisions.d/ADR-088.md:73`](../../record/decisions.d/ADR-088.md)
 - [`record/questions.d/QUESTION-127.md:22`](../../record/questions.d/QUESTION-127.md)
 - [`record/questions.d/QUESTION-127.md:124`](../../record/questions.d/QUESTION-127.md)
-
-### [CLAIM-606](../../record/claims.d/CLAIM-606.md) — Proposed
-
-A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
-
-3 citations in 2 files await a look; 28 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-1698.md:219`](../../record/notes.d/NOTE-1698.md)
-- [`record/terms.d/TERM-088.md:34`](../../record/terms.d/TERM-088.md)
-- [`record/terms.d/TERM-088.md:224`](../../record/terms.d/TERM-088.md)
 
 ### [CLAIM-632](../../record/claims.d/CLAIM-632.md) — Proposed
 
@@ -9997,6 +10009,24 @@ LaVoice — Slum clearance and the neighbourhoods cleared, read from a short dra
 - [`record/claims.d/CLAIM-600.md:421`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:310`](../../record/syntheses.d/SYNTHESIS-010.md)
 
+### [NOTE-1950](../../record/notes.d/NOTE-1950.md) — Skimmed
+
+Czubak and Jerrard — Topological defects in the abelian Higgs model
+
+2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2610.md:7`](../../record/literature.d/LIT-2610.md)
+- [`record/theory.d/THEORY-1869.md:26`](../../record/theory.d/THEORY-1869.md)
+
+### [NOTE-1951](../../record/notes.d/NOTE-1951.md) — Skimmed
+
+Van Gorder — Quantum Hasimoto transformation on a superfluid vortex filament
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-2612.md:7`](../../record/literature.d/LIT-2612.md)
+- [`record/theory.d/THEORY-1868.md:24`](../../record/theory.d/THEORY-1868.md)
+
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Superseded
 
 Balestriero & LeCun 2022 — SSL recovers spectral embedding
@@ -10983,6 +11013,14 @@ A proposed study of governed schema adaptation: agents given a record whose gram
 1 citation in 1 file awaits a look; 30 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1717.md:117`](../../record/notes.d/NOTE-1717.md)
+
+### [CASE-266](../../record/cases.d/CASE-266.md) — Proposed
+
+Equal charge, different tokens: two φ⁴ kinks with the same boundary charge and energy sit anywhere on the line, a perturbed kink can return to the kink family while drifting from its centre, and a winding-two sector of the abelian Higgs model holds two separated vortices, two coincident ones or, above critical coupling, a symmetric one that is unstable
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-269.md:69`](../../record/cases.d/CASE-269.md)
 
 ### [CLAIM-001](../../record/claims.d/CLAIM-001.md) — Proposed
 

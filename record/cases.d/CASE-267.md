@@ -1,5 +1,8 @@
 ---
+number: 267
 status: Proposed
+formerly:
+- CASE-tmperwxh
 title: 'An executed run of the pinned kink: under Allen–Cahn relaxation on a bounded line, the demand that a kink''s centre lie in [−0.5, 0.5] is met by a static solution with or without a pinning bump, but a kink displaced to +2 stays at +2 without the bump and returns to the centre with it, with its boundary charge 1 throughout, so the demand is feasible in both cases and attracting in one'
 version: 1
 standing: stipulated
@@ -22,9 +25,9 @@ summary: >-
   seconds). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpovvk2 — Proposed or new; the claims the run illustrates in a field -->
+<!-- inactive-ok-file: CLAIM-694 — Proposed or new; the claims the run illustrates in a field -->
 
-# CASE-tmperwxh: An executed run of the pinned kink: under Allen–Cahn relaxation on a bounded line, the demand that a kink's centre lie in [−0.5, 0.5] is met by a static solution with or without a pinning bump, but a kink displaced to +2 stays at +2 without the bump and returns to the centre with it, with its boundary charge 1 throughout, so the demand is feasible in both cases and attracting in one
+# CASE-267: An executed run of the pinned kink: under Allen–Cahn relaxation on a bounded line, the demand that a kink's centre lie in [−0.5, 0.5] is met by a static solution with or without a pinning bump, but a kink displaced to +2 stays at +2 without the bump and returns to the centre with it, with its boundary charge 1 throughout, so the demand is feasible in both cases and attracting in one
 
 ## The run
 
@@ -48,7 +51,7 @@ complex either way, because the centred kink is static with or without the
 bump. It is in the attracting subcomplex only with the bump. Raising a
 from 0 changes 𝒯 and leaves 𝒦 alone, which is one of [QUESTION-438](../questions.d/QUESTION-438.md)'s ways
 of coming apart, in a field. The charge is the same in every run, as
-[CLAIM-tmpovvk2](../claims.d/CLAIM-tmpovvk2.md) says: it fixes the sector, not where the kink is.
+[CLAIM-694](../claims.d/CLAIM-694.md) says: it fixes the sector, not where the kink is.
 
 ## Its limits
 

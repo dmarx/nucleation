@@ -1,5 +1,8 @@
 ---
+number: 694
 status: Proposed
+formerly:
+- CLAIM-tmpovvk2
 title: 'A conserved topological charge individuates a kind, not a token: it fixes the sector a configuration is in and its net count of defects, but not where a defect is, which one persisted or, in more than one dimension, how many cores carry the charge; so on the topological route to persistence what the charge protects is the sector, and the identity of a particular structure needs a further, declared criterion'
 version: 1
 role: thesis
@@ -23,7 +26,7 @@ uses:
 complements:
 - CLAIM-593
 grounds:
-- CASE-tmp5mact
+- CASE-266
 - THEORY-1507
 summary: >-
   A's, from A5 §§3.2 and 4.1 of the exchange "Explain String Theory"
@@ -38,13 +41,13 @@ summary: >-
   field-theoretic instance of [CLAIM-593](CLAIM-593.md)'s "Structural isomorphism ⇏ token
   identity". The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-606 CASE-tmp5mact NOTE-tmpplgz6 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
+<!-- inactive-ok-file: CLAIM-606 CASE-266 NOTE-1950 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
 
-# CLAIM-tmpovvk2: A conserved topological charge individuates a kind, not a token: it fixes the sector a configuration is in and its net count of defects, but not where a defect is, which one persisted or, in more than one dimension, how many cores carry the charge; so on the topological route to persistence what the charge protects is the sector, and the identity of a particular structure needs a further, declared criterion
+# CLAIM-694: A conserved topological charge individuates a kind, not a token: it fixes the sector a configuration is in and its net count of defects, but not where a defect is, which one persisted or, in more than one dimension, how many cores carry the charge; so on the topological route to persistence what the charge protects is the sector, and the identity of a particular structure needs a further, declared criterion
 
 ## The claim and its demonstration
 
-The demonstration is in [CASE-tmp5mact](../cases.d/CASE-tmp5mact.md).
+The demonstration is in [CASE-266](../cases.d/CASE-266.md).
 
 - Two φ⁴ kinks centred anywhere have the same charge and energy, so the
   charge does not locate a kink.
@@ -52,7 +55,7 @@ The demonstration is in [CASE-tmp5mact](../cases.d/CASE-tmp5mact.md).
   its centre moves, so form can be stable while location is not.
 - A winding-two sector of the abelian Higgs model can be one core or two.
   Above critical coupling the symmetric single core is unstable
-  (Czubak & Jerrard, [NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md)), so the charge does not fix the count
+  (Czubak & Jerrard, [NOTE-1950](../notes.d/NOTE-1950.md)), so the charge does not fix the count
   of tokens.
 
 Each is a configuration within the theory, so the separation is
@@ -80,7 +83,7 @@ The assistant's addition, filed at the owner's request. The charge does not
 fix how many cores carry it. What does is the coupling. Above critical
 coupling, the symmetric vortex of charge |n| ≥ 2 is "linearly unstable ...
 and hence not even a local energy minimizer" (Czubak & Jerrard,
-[NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md)), so a winding-two sector tends to split into separate cores.
+[NOTE-1950](../notes.d/NOTE-1950.md)), so a winding-two sector tends to split into separate cores.
 At critical coupling, by A's unchecked statement, they can sit anywhere.
 Below it, vortices attract. So how many individuals carry a conserved
 quantity is a fact about the interactions, not about the quantity. Read

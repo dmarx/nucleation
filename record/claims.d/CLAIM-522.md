@@ -29,7 +29,7 @@ history:
 - version: 5
   date: '2026-11-15'
   note: >-
-    A dated note: a mutual-maintenance construction (CASE-tmp3ioyf) whose
+    A dated note: a mutual-maintenance construction (CASE-265) whose
     outside controller is constant, and so is found out by interventions
     on state, marking where the claim's ideal case begins. No other
     change.
@@ -169,8 +169,8 @@ production mechanism, removed it. [CASE-232](../cases.d/CASE-232.md) illustrates
 bears none of its weight, which rests on the controller construction.
 
 ## Note of 2026-11-15: a constant controller is found out by perturbing the state
-<!-- inactive-ok-file: CASE-tmp3ioyf — Proposed; the construction filed from the exchange of 2026-11-15, cited in its note -->
+<!-- inactive-ok-file: CASE-265 — Proposed; the construction filed from the exchange of 2026-11-15, cited in its note -->
 
-[CASE-tmp3ioyf](../cases.d/CASE-tmp3ioyf.md), from A5 §5.3 of the exchange "Explain String Theory", compares two systems. In one, an intact share c produces its own repair capacity r. In the other, an outside controller holds r fixed at the first system's maintained value. The two have the same equilibrium. A offers this as a witness of the claim, "Matching maintained states does not identify where their maintenance is produced", and as to steady states it is one.
+[CASE-265](../cases.d/CASE-265.md), from A5 §5.3 of the exchange "Explain String Theory", compares two systems. In one, an intact share c produces its own repair capacity r. In the other, an outside controller holds r fixed at the first system's maintained value. The two have the same equilibrium. A offers this as a witness of the claim, "Matching maintained states does not identify where their maintenance is produced", and as to steady states it is one.
 
 But interventions on state do separate them. From c = 0.01 the controlled system recovers and the mutual one collapses (rechecked on filing). The controller is constant, not the claim's state feedback u_ext = P(c). So the case is weaker than the claim's own construction. It shows where the claim's ideal case begins: a controller that ignores the state is caught by perturbing the state, and only one that reproduces the production law needs an intervention on mechanism. The claim's "What it does not say" already allows that imperfect controllers "may leave signatures". This is one, with its mechanism named. No status changes.

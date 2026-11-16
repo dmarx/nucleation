@@ -1,5 +1,8 @@
 ---
+number: 268
 status: Proposed
+formerly:
+- CASE-tmpqruw9
 title: 'A ladder of outside maintainers for the mutual-maintenance model: a constant supply of the capacity, a supply running the same production law on a delayed reading of the structure, and the same law on its present reading; a brief knock to the structure separates the first two from internal production, the second by less as its delay shrinks, and no intervention on state separates the third until the internal pathway is cut'
 version: 1
 standing: fictional
@@ -12,25 +15,25 @@ line:
 - transient-support
 - distributed-agency
 variant_of:
-- CASE-tmp3ioyf
+- CASE-265
 illustrates:
 - CLAIM-522
 summary: >-
   The assistant's construction, offered at the end of the filing of
   2026-11-15 and built when the owner asked for the assistant's ideas to
   be filed (scratch/formal/maintainer_ladder_check.py, run on filing). It
-  extends [CASE-tmp3ioyf](CASE-tmp3ioyf.md)'s constant controller to a family that reproduces
+  extends [CASE-265](CASE-265.md)'s constant controller to a family that reproduces
   more and more of the production law. Fictional by construction, with
   illustrative parameters. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp3ioyf — Proposed or new; the construction this varies and the claim it grounds -->
+<!-- inactive-ok-file: CASE-265 — Proposed or new; the construction this varies and the claim it grounds -->
 
-# CASE-tmpqruw9: A ladder of outside maintainers for the mutual-maintenance model: a constant supply of the capacity, a supply running the same production law on a delayed reading of the structure, and the same law on its present reading; a brief knock to the structure separates the first two from internal production, the second by less as its delay shrinks, and no intervention on state separates the third until the internal pathway is cut
+# CASE-268: A ladder of outside maintainers for the mutual-maintenance model: a constant supply of the capacity, a supply running the same production law on a delayed reading of the structure, and the same law on its present reading; a brief knock to the structure separates the first two from internal production, the second by less as its delay shrinks, and no intervention on state separates the third until the internal pathway is cut
 
 ## The construction
 
-The model is [CASE-tmp3ioyf](CASE-tmp3ioyf.md)'s: ċ = −c + 4rc(1 − c), with the capacity r
+The model is [CASE-265](CASE-265.md)'s: ċ = −c + 4rc(1 − c), with the capacity r
 produced either inside, ṙ = −r + 4c(1 − r), or by an outside controller.
 It starts at the maintained state (c₊, r₊) ≈ (0.6545, 0.7236). Three
 controllers:

@@ -33,8 +33,8 @@ history:
   note: >-
     A dated note from the exchange "Explain String Theory" (2026-11-15):
     the topological row's identity column read as the kind, not the
-    token (CLAIM-tmpovvk2), and three new readings that corroborate the
-    routes (THEORY-tmpqise3, THEORY-tmpaqova). No status change.
+    token (CLAIM-694), and three new readings that corroborate the
+    routes (THEORY-1869, THEORY-1868). No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -188,12 +188,12 @@ annihilate, and whether they do is a fact about the theory, not about topology. 
 Proposed, so the topological route still holds the claim. No status changes.
 
 ## Note of 2026-11-15: the charge carries the kind, and two vortex readings
-<!-- inactive-ok-file: CLAIM-tmpovvk2 CASE-tmp5mact THEORY-tmpqise3 THEORY-tmpaqova NOTE-tmpplgz6 NOTE-tmpyns13 LIT-tmphbd2x LIT-tmpdqc38 — Proposed, Skimmed, Unavailable or new; the entries filed from the exchange of 2026-11-15, cited in its note -->
+<!-- inactive-ok-file: CLAIM-694 CASE-266 THEORY-1869 THEORY-1868 NOTE-1950 NOTE-1951 LIT-2613 LIT-2611 — Proposed, Skimmed, Unavailable or new; the entries filed from the exchange of 2026-11-15, cited in its note -->
 
-From the exchange "Explain String Theory" (2026-11-15, A3–A5), filed with Czubak & Jerrard ([NOTE-tmpplgz6](../notes.d/NOTE-tmpplgz6.md)) and Van Gorder ([NOTE-tmpyns13](../notes.d/NOTE-tmpyns13.md)), each read as a stand-in for a work not reached (Nielsen & Olesen 1973, [LIT-tmphbd2x](../literature.d/LIT-tmphbd2x.md); Hasimoto 1972, [LIT-tmpdqc38](../literature.d/LIT-tmpdqc38.md)).
+From the exchange "Explain String Theory" (2026-11-15, A3–A5), filed with Czubak & Jerrard ([NOTE-1950](../notes.d/NOTE-1950.md)) and Van Gorder ([NOTE-1951](../notes.d/NOTE-1951.md)), each read as a stand-in for a work not reached (Nielsen & Olesen 1973, [LIT-2613](../literature.d/LIT-2613.md); Hasimoto 1972, [LIT-2611](../literature.d/LIT-2611.md)).
 
-- **The topological row's identity column.** "What carries its identity: the charge" holds for the kind and the net count, not for the token. Two φ⁴ kinks of equal charge and energy sit anywhere. A winding-two vortex sector can be one core or two, and above critical coupling the symmetric single core is unstable ([CASE-tmp5mact](../cases.d/CASE-tmp5mact.md), [CLAIM-tmpovvk2](CLAIM-tmpovvk2.md)). So on this route the charge protects the sector. Which structure persisted is fixed by dynamics the charge does not govern. The table is otherwise unchanged.
-- **The topological route as an extended object.** Czubak and Jerrard prove that, where Jaffe and Taubes's conjecture holds, a thin vortex line of the abelian Higgs model follows a Nambu–Goto worldsheet for a finite time ([THEORY-tmpqise3](../theory.d/THEORY-tmpqise3.md)). That corroborates the route for a structure that moves as a string. It says nothing about how such a line forms or ends.
-- **The integrable route on a carrier.** Hasimoto's soliton is a localized pattern of a vortex filament's curvature and torsion. With weak friction it persists and "would dissipate at a rate proportional to at most α²" (Van Gorder, [THEORY-tmpaqova](../theory.d/THEORY-tmpaqova.md)). That fits the integrable row's "under loss it shrinks while keeping its shape". It adds a case the table does not consider: a soliton whose carrier is itself a persisting structure, assumed in the model, not derived. The structure and the soliton are individuated at different levels.
+- **The topological row's identity column.** "What carries its identity: the charge" holds for the kind and the net count, not for the token. Two φ⁴ kinks of equal charge and energy sit anywhere. A winding-two vortex sector can be one core or two, and above critical coupling the symmetric single core is unstable ([CASE-266](../cases.d/CASE-266.md), [CLAIM-694](CLAIM-694.md)). So on this route the charge protects the sector. Which structure persisted is fixed by dynamics the charge does not govern. The table is otherwise unchanged.
+- **The topological route as an extended object.** Czubak and Jerrard prove that, where Jaffe and Taubes's conjecture holds, a thin vortex line of the abelian Higgs model follows a Nambu–Goto worldsheet for a finite time ([THEORY-1869](../theory.d/THEORY-1869.md)). That corroborates the route for a structure that moves as a string. It says nothing about how such a line forms or ends.
+- **The integrable route on a carrier.** Hasimoto's soliton is a localized pattern of a vortex filament's curvature and torsion. With weak friction it persists and "would dissipate at a rate proportional to at most α²" (Van Gorder, [THEORY-1868](../theory.d/THEORY-1868.md)). That fits the integrable row's "under loss it shrinks while keeping its shape". It adds a case the table does not consider: a soliton whose carrier is itself a persisting structure, assumed in the model, not derived. The structure and the soliton are individuated at different levels.
 
 No status changes.
