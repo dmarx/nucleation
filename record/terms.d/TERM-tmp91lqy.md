@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'procedural friction, of a process: a step at which the process''s continuation waits on a condition its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -11,6 +11,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Natali et al. (LIT-tmphus2f) read on 2026-11-16, NOTE-tmpxe8tx. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Alfrink et al. (LIT-tmpdazzd) read on 2026-11-16, NOTE-tmpgvphv. No change of status or title.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -99,3 +107,11 @@ This qualifies the reading of CLAIM-tmpkx7ct, where "an opportunity to
 intervene is a piece of friction" is close to definitional. The converse,
 that a piece of friction is an opportunity, fails. Relation: none (a THEORY
 cannot bound a TERM); a note.
+
+## Note of 2026-11-16: Natali, read
+
+The poster defines friction by inefficiency: "deliberate inefﬁciencies designed to foster engagement, critical reason[ing], and user agency", "speed bumps", "intentionally slower algorithms". That is the delay sense the term sets aside; dependence on another party is not mentioned. Two of its mechanisms are nonetheless friction in the term's sense: a pause before AI output, or a required justification before acceptance, is a condition the user cannot pass alone because the designer set it. A neighbouring sense to add: **designed (interaction) friction**, effort or delay a designer imposes on a user's own decision to make the user engage. It is friction in this term's sense only where the user cannot skip it, and then it gates the user's decision for the user's own judgement, not for another party's.
+
+## Note of 2026-11-16: Alfrink, read
+
+The second-system safeguard is a clean case of the term's "friction without delay": every decision's passage depends on a check another party runs, and the process waits on a human only when the check flags. The paper never calls it friction, which supports the term's point that dependence, not delay, is what such safeguards have in common with reviews and approvals.

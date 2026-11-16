@@ -1,12 +1,16 @@
 ---
 status: Proposed
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Alfrink et al. (LIT-tmpdazzd) read on 2026-11-16, NOTE-tmpgvphv. No change of status or title.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -127,3 +131,7 @@ the objection's conclusion.
 Relation: none to add as corroboration; the paper is not independent of
 A's argument. The filer may cite LIT-tmpo6res in this claim as the
 documentary source of its architecture. No change of status.
+
+## Note of 2026-11-16: Alfrink, read
+
+The framework names both of the objection's routes to contestability before a decision takes effect. One is ex-ante contestation of design choices, "as part of AI system development processes", an "agonistic debate" over data and modelling: the objection's slowly set standing constraints. The other is built-in safeguards and "formal constraints on system behavior" enforced on each decision. The paper offers both alongside post-hoc review and intervention requests, never as replacing them. That fits the objection's condition that the slow governing process stay open to revision, and gives no evidence that the arrangement suffices.

@@ -1,14 +1,26 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §3; A19 reading list. No lawful copy has been sought yet.
+  Open-access (CC BY-NC) publisher version located 2026-11-16 via
+  doi.org/10.1177/00018392241236163 (OpenAlex, Semantic Scholar);
+  journals.sagepub.com returned a Cloudflare challenge (HTTP 403) and was not
+  retried. No other copy found (OpenAlex, Semantic Scholar, Europe PMC, web
+  search). Only the Crossref abstract was read. Cameron (2022), '\"Making
+  Out\" While Driving' (Organization Science), read in the author's manuscript
+  on the Wharton faculty site, stands in for the fieldwork and the two
+  tactics, not for the ASQ paper's concepts of constant and confined choices
+  or choice-based consent.
 title: 'The Making of the ''Good Bad'' Job: How Algorithmic Management Manufactures Consent Through Constant and Confined Choices'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2024-03-14 (online (Crossref); issue Jun 2024).
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A lawful open-access copy was located on journals.sagepub.com and blocked by a bot check on 2026-11-16; status Unfetched. The Crossref abstract was read and the summary revised from it. Cameron (2022), 'Making Out' While Driving, read as a partial neighbour.
 tags:
 - philosophy-of-technology
 - ethics
@@ -20,8 +32,21 @@ first_author: 'Cameron'
 keywords: []
 implementations: []
 summary: >-
-  Cameron (2024). The Making of the 'Good Bad' Job: How Algorithmic Management Manufactures Consent Through Constant and Confined Choices. Administrative Science Quarterly 69(2): 458-514. DOI 10.1177/00018392241236163. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §3; A19 reading list) on responsibility and blame in algorithmic decision-making: Algorithmic management manufactures consent through constant, confined choices (ride-hailing). It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
+  Cameron (2024), Administrative Science Quarterly 69(2): 458–514,
+  doi:10.1177/00018392241236163, open access. By its abstract (Crossref): a
+  seven-year qualitative study of ride-hailing finds that algorithmic
+  management, by segmenting work into many human–algorithm interactions,
+  'allows for more-frequent and narrow choice'; workers' engagement tactics
+  (following nudges) and deviance tactics (manipulating inputs) 'both elicit
+  consent', and 'this choice-based consent can mask the more-structurally
+  problematic elements of the work', the 'good bad' job. Unfetched 2026-11-16
+  (bot check on the publisher's open-access copy). Cited in the exchange
+  'Assess Depp Heard Abuse' (A19 §3), consistently with the abstract. Its link
+  to CLAIM-tmpnfjln is doubtful on the abstract; it bears more on control over
+  the terms of dependence (CLAIM-682, CLAIM-690) and on CLAIM-tmpyjzi8.
+  Unread; the abstract is not a reading.
 ---
+<!-- inactive-ok-file: CLAIM-682 CLAIM-690 CLAIM-tmpyjzi8 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmpdkpdp: The Making of the 'Good Bad' Job: How Algorithmic Management Manufactures Consent Through Constant and Confined Choices
@@ -30,8 +55,14 @@ Cameron (2024). *The Making of the 'Good Bad' Job: How Algorithmic Management Ma
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Algorithmic management manufactures consent through constant, confined choices (ride-hailing). Unverified until read.
+*Not read; see the reading of 2026-11-16 below.*
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §3; A19 reading list, on responsibility and blame in algorithmic decision-making. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §3; A19 reading list, on responsibility and blame in algorithmic decision-making. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Read on 2026-11-16; see the reading below.
+
+## Reading of 2026-11-16
+
+Not read: the open-access copy on journals.sagepub.com sits behind a Cloudflare challenge. The Crossref abstract is consistent with what the exchange says (A19 §3): choice that is frequent and narrow, two opposite tactics that both produce consent, and consent that masks structural problems. A's gloss, that "the experience of choosing is not the same as having control over the structure of choice", is A's. Cameron's earlier "'Making Out' While Driving" (Organization Science 2022), from the same fieldwork, was read in the author's posted manuscript as a neighbour; it finds two workplace games, one aligned with the app and one adversarial, both producing engagement, but it declines to say that games produce consent, and it lacks the ASQ paper's concepts.
+
+Stand-in read on 2026-11-16: LIT-tmptaldv.

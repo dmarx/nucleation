@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoxld9
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,10 @@ history:
     testimonial injustice as a trust loop, whose reflexive case the question
     asks, and says the question "needs a prejudice, not only a grammar".
     Reading review of 2026-11-11, by question. No other change.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Ensign et al. (LIT-tmpi9cwn) read on 2026-11-16, NOTE-tmpof81k. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -229,3 +233,7 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Falbo** ([THEORY-1723](../theory.d/THEORY-1723.md)): Falbo's "preemption" is hermeneutical, not testimonial pre-emption in CLAIM-406's sense (not being asked); the shared word should not be read as the same mechanism. [CLAIM-619](CLAIM-619.md)'s reclassification of a challenge is close to her "defeat" by a distorting concept.
 
 The claim is unchanged.
+
+## Note of 2026-11-16: Ensign, read
+
+The paper is a formal case of the claim's structure with places in place of persons: the deployment decides where incidents can be discovered, and only being patrolled supplies incidents, as only being sought supplies the indicators of competence. PredPol "conflates amount of crime and incident data" (§2.1 n.1). The paper also gives the claim a remedy it lacks: weighting each observation by the inverse of the chance it was sought (§3.5). It says nothing about injustice, which on the claim's own account needs a prejudice the loop does not supply.

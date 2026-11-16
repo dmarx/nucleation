@@ -1,12 +1,20 @@
 ---
 status: Proposed
 title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Natali et al. (LIT-tmphus2f) read on 2026-11-16, NOTE-tmpxe8tx. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Alfrink et al. (LIT-tmpdazzd) read on 2026-11-16, NOTE-tmpgvphv. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,7 +52,7 @@ summary: >-
   maintained by different relations ([CLAIM-462](CLAIM-462.md)); this claim says where the
   opportunity for it sits in a process, and what automation does to it.
 ---
-
+<!-- inactive-ok-file: LIT-tmp7ftjn — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # CLAIM-tmpuiaop: Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted
 
 ## The claim
@@ -148,3 +156,11 @@ several steps before harm is visible (p. 18). Against an overly strong
 "characterizes" reading, it also shows friction without opportunity: an
 approval step that remains in place but is perfunctory under volume (§4.4,
 p. 20). Relation: none.
+
+## Note of 2026-11-16: Natali, read
+
+Natali, Naiseh, Cabitza and Frischmann (LIT-tmphus2f) were registered against this claim from A21 §2 of the exchange. Their poster is about a different friction: "deliberate inefﬁciencies" placed "at critical points" of one user's interaction with an AI, against automation bias. That is cognitive friction, as A23 §7 itself classes it, not the procedural friction of handoffs, reviews and approvals between parties that this claim is about. It gives the claim no support and reports no evidence. It does show a case the claim's gloss of "exposes" (visible "to someone other than whoever is making it") does not settle. If the executor is the AI pipeline, a pause before its output shows a human the machine's proposal before it becomes the decision, which is exposure in the owner's sense. If the executor is the human user, the friction exposes the decision to no one but its maker, and what it opens is the executor's own correction. Whether such friction counts depends on who executes the process. The claim may want to say so.
+
+## Note of 2026-11-16: Alfrink, read
+
+Alfrink, Keller, Kortuem and Doorn (read as a stand-in for Harid, LIT-tmp7ftjn, which could not be fetched) synthesize the contestable-AI literature. Two of their findings bear here. One feature they gather is a second system that every automated decision is run through: "If disagreement between both systems occurs, decision can be flagged for human review." That is a designed point at which a decision in progress is shown to someone other than its maker before it takes effect, the claim's "exposes" reading built in. And for subjects: "Requests for human intervention are necessarily post-hoc, since they happen in response to discrete decisions." Absent such a designed point, the subject's opportunity to intervene comes after the decision. The paper supports the claim's concern as a design consensus, not as a finding: its sources are mostly "not based on empirically validated interventions".

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,10 @@ history:
     (2026-11-15): the owner's procedural-friction claim (CLAIM-tmpuiaop)
     locates the occasions on which this claim's three achievements are
     needed. Title, defeater and status unchanged.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cerrato, Sahlgren and Heilmann (LIT-tmpxzl3z) read on 2026-11-16, NOTE-tmp24swp. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -253,3 +257,7 @@ without volitional efficacy; a recognized objection with no power to
 reverse gives both without correctability. So the owner's point of
 intervention is necessary for an objection to work and, by this claim, not
 sufficient. Nothing here changes the claim.
+
+## Note of 2026-11-16: Cerrato, read
+
+The paper shows a specific failure of legibility. A counterfactual explanation makes the subject legible to a fixed model, telling them what about themselves would flip the decision. It does not make the organization's own contestable choices recognizable, though in the authors' experiments those choices change the explanation more than the method's tuning does. So the discrepancy that could move the organization, an unjustified criterion, stays invisible to the person best placed to raise it. The authors: "it may be impossible for subjects to reverse their decisions through contesting such choices absent appropriate transparency".

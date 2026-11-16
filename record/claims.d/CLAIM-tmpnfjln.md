@@ -1,12 +1,16 @@
 ---
 status: Proposed
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, and because compensation that prevents failure leaves little trace while its lapse is seen, the organization is credited with outcomes its members'' compensating effort produced and those members are blamed for failures its conditions produced'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Ozer, Waggoner and Kennedy (LIT-tmpq41d3) read on 2026-11-16, NOTE-tmp57m8y. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cerrato, Sahlgren and Heilmann (LIT-tmpxzl3z) read on 2026-11-16, NOTE-tmp24swp. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -139,7 +143,7 @@ A17 §8 lists three ways the frameworks go wrong:
 - **That automation causes it.** A19 argues algorithms can
   "industrialize" it, and A19 §9 reports studies against the strong form:
   three Dutch experiments that "did not find the expected general pattern
-  of automation bias", and Ozer, Waggoner and Kennedy (2024), whose
+  of automation bias", and Ozer, Waggoner and Kennedy (2024, LIT-tmpq41d3), whose
   experiments on blame toward judges using algorithmic advice "did not find
   support for the hypothesized tendency for algorithmic recommendations to
   alter blame in the expected ways". A19's own conclusion: "So the strong
@@ -151,3 +155,7 @@ A17 §8 lists three ways the frameworks go wrong:
 ## Note of 2026-11-16: Ozer, Waggoner and Kennedy, read
 
 The claim's "What it does not say" cites this study, through A19 §9, as evidence against the strong form of the automation thesis. The reading confirms that and sharpens it. In pre-registered vignettes on three US samples, a judge who followed an algorithm's advice before a release that ended in a death was not blamed less than one who decided alone: respondents "did blame the algorithms for the mistake under the agreement" condition, "but this did not reduce the culpability assigned to the judge." Blame rose slightly ("place 9% more blame upon the judge"), mostly because respondents thought she should have used her own judgment. So the visible decision-maker kept the blame, which is consistent with the claim's "blame where failure becomes visible" but does not test it: the design has no organization, no upstream control over her conditions and no compensating effort. The study bounds the claim's automation corollary; it neither supports nor weakens the organizational mechanism. The authors stress the effects are small and fade in the third sample.
+
+## Note of 2026-11-16: Cerrato, read
+
+Cerrato, Sahlgren and Heilmann (LIT-tmpxzl3z) give a technical instance of the claim's first two parts. The criteria of an automated decision are set upstream by the deployer (label definition, feature measurement, success metric), and in their simulated hiring screen those choices move the explanation a rejected candidate receives more than the explanation method's own tuning does. A counterfactual explanation then frames the subject as the one who must change: it "preclude consideration of whether the decision-maker ought to have acted differently", and a relational view would not "place onto the subjects the burden of simply adapting to institutional discretion". The mechanism differs from the claim's, which is that compensation which prevents failure leaves no trace. Here the deployer's part is hidden by the form of the explanation. Nothing in the paper concerns credit or blame for outcomes. It supports the claim's placement of control and burden. It does not support the account of how blame settles.
