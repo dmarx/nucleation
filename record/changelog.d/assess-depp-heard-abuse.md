@@ -36,3 +36,9 @@
   blackmail of a reviewing institution ([CLAIM-tmp5zzud](record/claims.d/CLAIM-tmp5zzud.md)); procedural
   friction defined by dependence rather than delay ([TERM-tmp91lqy](record/terms.d/TERM-tmp91lqy.md)), with a
   reply to A's objection to the owner's friction claim ([CLAIM-tmpkx7ct](record/claims.d/CLAIM-tmpkx7ct.md)).
+- The 47 works registered from the same exchange read on 2026-11-16 in nine
+  delegated batches: 25 read, 9 Unfetched, 13 Unavailable, and 16
+  neighbours registered and read as stand-ins, each with a NOTE and a
+  THEORY, and dated notes on the entries they bear on. No status changed;
+  the curation entry of 2026-11-15, 221646 records what each reading did to
+  the filed claims and which hosts refused a lawful copy.
