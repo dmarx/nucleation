@@ -20,7 +20,7 @@ history:
 - version: 3
   date: '2026-11-15'
   note: >-
-    At the split of organizational-normativity (ADR-tmpbthzh,
+    At the split of organizational-normativity (ADR-100,
     2026-11-15): CLAIM-686 now have dependence-and-domination as their
     first line, and the account says so where it states their lines.
     No other change.
@@ -77,7 +77,7 @@ summary: >-
   and continuation open. The account adds nothing of its own; its standing
   is its components'.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-686 SYNTHESIS-091 SYNTHESIS-092 — Proposed; a component and the organizational-normativity part accounts, cited at version 2 -->
 <!-- inactive-ok-file: ADR-083 ADR-084 ARG-060 CASE-194 CLAIM-170 CLAIM-544 CLAIM-545 CLAIM-610 CLAIM-620 CLAIM-622 SYNTHESIS-025 SYNTHESIS-026 THEORY-040 — Proposed; components and citations, with their standing -->
 

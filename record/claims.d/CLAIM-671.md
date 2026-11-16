@@ -47,7 +47,7 @@ history:
   note: >-
     Moves from organizational-normativity to
     dependence-and-domination, at the split of
-    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    organizational-normativity (ADR-100, 2026-11-15): the entry
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
@@ -97,7 +97,7 @@ summary: >-
   support it ([ARG-099](../arguments.d/ARG-099.md)). It bears on the owner's [QUESTION-460](../questions.d/QUESTION-460.md),
   for the vulnerability ground and for the bearer question.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-1823 THEORY-1818 — Proposed, filed 2026-11-12 -->

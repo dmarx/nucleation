@@ -26,6 +26,7 @@ serve none.
 | Distributed agency | 384 |
 | Will-organization | 57 |
 | Normative judgment about organizations | 6 |
+| Wholes, parts and dependence | 0 |
 | Organizational affect | 8 |
 | Authenticity and concordance | 3 |
 | Contextual pragmatic information transport | 127 |

@@ -11,7 +11,7 @@ history:
   note: >-
     Moves from organizational-normativity to
     dependence-and-domination, at the split of
-    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    organizational-normativity (ADR-100, 2026-11-15): the entry
     is in the part of the line on what those who govern an arrangement
     others depend on owe. No relation supplies
     organizational-normativity to it (ADR-085). No other change.
@@ -50,7 +50,7 @@ summary: >-
   operation. Interpretive. Filed on 2026-11-13 from the items the first
   filing left. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: THEORY-1859 THEORY-1841 THEORY-1842 CLAIM-687 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # CLAIM-678: Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not widen the others

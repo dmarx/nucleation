@@ -8,7 +8,7 @@ history:
 - version: 2
   date: '2026-11-15'
   note: >-
-    At the split of organizational-normativity (ADR-tmpbthzh,
+    At the split of organizational-normativity (ADR-100,
     2026-11-15): the line's account is now built over this part and
     one sibling, and the introduction says so. No other change.
 title: "What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open"
@@ -64,14 +64,14 @@ summary: >-
   it to [CLAIM-518](../claims.d/CLAIM-518.md)'s histories. The account adds nothing of its own; its standing is its
   components'.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh SYNTHESIS-094 — Proposed; the split of organizational-normativity, and the sibling part account, cited at version 2 -->
+<!-- inactive-ok-file: ADR-100 SYNTHESIS-094 — Proposed; the split of organizational-normativity, and the sibling part account, cited at version 2 -->
 <!-- inactive-ok-file: SYNTHESIS-038 THEORY-464 — Proposed; the line's account, and a citation -->
 <!-- inactive-ok-file: CLAIM-511 CLAIM-608 CLAIM-648 CLAIM-649 CLAIM-650 CASE-239 CASE-240 CASE-241 CASE-243 ARG-043 ARG-082 ARG-083 THEORY-220 THEORY-444 THEORY-1285 TERM-083 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-081 — Rejected; a component, with its standing -->
 
 # SYNTHESIS-091: What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open
 
-*A part account of the organizational-normativity line ("Normative judgment about organizations"), filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-094](SYNTHESIS-094.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)). Its first nine components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-07 to 2026-11-12 and are new to any account. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; where it declares none, the account says that, and assigns none.*
+*A part account of the organizational-normativity line ("Normative judgment about organizations"), filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-094](SYNTHESIS-094.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first nine components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-07 to 2026-11-12 and are new to any account. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; where it declares none, the account says that, and assigns none.*
 
 ## The account
 

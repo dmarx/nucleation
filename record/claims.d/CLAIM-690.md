@@ -11,7 +11,7 @@ history:
   note: >-
     Moves from organizational-normativity to
     dependence-and-domination, at the split of
-    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    organizational-normativity (ADR-100, 2026-11-15): the entry
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
@@ -71,7 +71,7 @@ summary: >-
   it holds. Interpretive. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CASE-264 ARG-110 TERM-124 TERM-123 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-671 CLAIM-428 CLAIM-603 CLAIM-669 CASE-256 CASE-257 TERM-083 — Proposed; the record's entries this claim joins or sets beside, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit whose admission route this claim names -->
