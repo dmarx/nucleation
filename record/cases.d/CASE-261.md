@@ -4,7 +4,12 @@ status: Proposed
 formerly:
 - CASE-tmpbjaiq
 title: 'A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Citron (LIT-tmpz93ag) read on 2026-11-16, NOTE-tmp61it3. No change of status or title.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -96,3 +101,9 @@ contractors.
   whose contributions do not become claims; whether that is unjust is
   [QUESTION-463](../questions.d/QUESTION-463.md).
 - It is stipulated and settles no fact about any hospital.
+
+## Note of 2026-11-16: Citron, read
+
+The stipulated hospital system in which patients cannot contest automated decisions has a documented
+public-law counterpart in Citron's benefit systems (no notice, no audit trail, review subject to
+automation bias). Relation: none proposed; a cross-reference.

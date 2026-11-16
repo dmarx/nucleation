@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -11,6 +11,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Alfrink et al. (LIT-tmpdazzd) read on 2026-11-16, NOTE-tmpgvphv. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Frey and Schneider (LIT-tmpqws4y) read on 2026-11-16, NOTE-tmp1p6j3. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Citron (LIT-tmpz93ag) read on 2026-11-16, NOTE-tmp61it3. No change of status or title.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -135,3 +143,18 @@ documentary source of its architecture. No change of status.
 ## Note of 2026-11-16: Alfrink, read
 
 The framework names both of the objection's routes to contestability before a decision takes effect. One is ex-ante contestation of design choices, "as part of AI system development processes", an "agonistic debate" over data and modelling: the objection's slowly set standing constraints. The other is built-in safeguards and "formal constraints on system behavior" enforced on each decision. The paper offers both alongside post-hoc review and intervention requests, never as replacing them. That fits the objection's condition that the slow governing process stay open to revision, and gives no evidence that the arrangement suffices.
+
+## Note of 2026-11-16: Frey and Schneider, read
+
+Among the mechanisms: "Make a community’s rules binding on administrators.", possibly by "rules that are
+enforced computationally, placing hard limits on behavior" (§3), as blockchain protocols bind founders. A
+standing constraint that keeps those in authority interruptible without delaying them, as this claim says
+is possible. Proposal, not demonstration. Relation: bears_on.
+
+## Note of 2026-11-16: Citron, read
+
+Citron's technological due process is a set of standing, upstream constraints: audit trails that "record"
+the facts and rules of each decision (p. 1305), "testing suites" run before launch and whenever policy
+changes (p. 1310), open code and IT review boards. They keep automated decisions open to correction
+without slowing each decision, as CLAIM-tmpwpvbz says is possible. Relation: corroborates CLAIM-tmpwpvbz
+(as an institutional proposal, not a demonstration that it works).

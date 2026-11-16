@@ -1,12 +1,20 @@
 ---
 status: Proposed
 title: 'When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Citron (LIT-tmpz93ag) read on 2026-11-16, NOTE-tmp61it3. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -131,3 +139,24 @@ formal right staying while its preventive effect does not. The paper gives
 no rates or derivation, and A had read it (A23) before stating the claim
 (A35), so its independence is partial. Relation: THEORY-tmpeq8z1 corroborates
 (qualitatively).
+
+## Note of 2026-11-16: Citron, read
+
+Citron supports the picture of rights that remain formally intact while correction comes too late: "It
+took the accused man and his attorney over two months" to clear a false child-support match (p. 1273);
+"At present, there is no assured way to get removed from the “No" Fly” list (p. 1275); programmers
+"delayed fixing incorrect rules for" extended periods (p. 1269). It also qualifies the derivation's
+fixed μ. Citron's central point about cost is that correcting code is a fixed cost whose benefit recurs, so
+a Mathews analysis of one case "will capture all of the costs of improved process but only a tiny
+fraction of its benefits" (p. 1285); one discovered distortion, once fixed, "would avoid errors in
+thousands of other cases" (p. 1308). Where errors are systematic, a single correction resolves many
+pending challenges at once: corrective throughput is not fixed per case. That is near the claim's stated
+defeater and should be recorded as its limit for rule-level errors; the claim stands for errors that must
+be corrected case by case (misidentifications, factual errors). Relation: bears_on (qualifies); not
+corroborates.
+
+## Note of 2026-11-16: Bovens and Zouridis, read
+
+Only qualitative support: appeals in the automated traffic system are rare ("These cases are, however, far"
+and few between, §3.2), and at welfare-state scale case-by-case accountability "is no longer feasible in
+each concrete case" (§7). No rates or deadlines. Relation: bears_on, nothing more.

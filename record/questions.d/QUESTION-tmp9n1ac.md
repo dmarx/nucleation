@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'How can a record of inquiry that automates the incorporation of new material keep the speed of incorporation from outrunning its capacity to evaluate what it incorporates, and which of its checks are points at which an incorporation can still be stopped rather than reviewed after it has taken effect?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
@@ -11,6 +11,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Natali et al. (LIT-tmphus2f) read on 2026-11-16, NOTE-tmpxe8tx. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
 tags:
 - design-rationale
 - epistemology
@@ -85,3 +89,9 @@ perfunctory. Relation: THEORY-tmpeq8z1 bears_on.
 ## Note of 2026-11-16: Natali, read
 
 The poster's problem, frictionless interfaces inviting uncritical acceptance of automated output, is this question's problem at the scale of one interaction: a filer accepting a reader's draft is a human accepting an automated recommendation. Its mechanisms are candidate checks: requiring the filer's own verification before the draft is shown as filed (a cognitive forcing function), or a step that challenges the draft rather than presenting it (an AI provocation). It offers no evidence that any of them works. The record's evidence is THEORY-1765 (Buçinca et al.), which found such designs reduce over-reliance without eliminating it and are less liked.
+
+## Note of 2026-11-16: Bovens and Zouridis, read
+
+§7's observation that the move to system-level bureaucracy was insidious and never debated, and §6.1's
+informatization review before new rules are digitized, are the institutional analogue of this question's
+concern: automation of incorporation outrunning evaluation, and checks placed before it. Relation: bears_on.

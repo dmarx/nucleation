@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-29'
@@ -47,6 +47,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -244,3 +248,10 @@ authority to enforce" (p. 647), and he treats discretion and accountability
 as separable: they "can coexist" (p. 652). He does not argue that the two
 capacities are maintained by different relations; that step remains the
 claim's. Relation: THEORY-tmpbkw8g corroborates. No change of status.
+
+## Note of 2026-11-16: Bovens and Zouridis, read
+
+The system-level bureaucracy is "zenith in legal rational authority" (§5.1): its capacity to execute the
+law is perfected, while the designers' choices, "essentially political", escape control (§5.2), and rigid
+application returns arbitrariness in a new form (§5.3). An independent instance of action and correction
+coming apart. Relation: corroborates.

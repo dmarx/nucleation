@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
-version: 4
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -15,6 +15,26 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Alfrink et al. (LIT-tmpdazzd) read on 2026-11-16, NOTE-tmpgvphv. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Herd and Moynihan (LIT-tmppku2r) read on 2026-11-16, NOTE-tmpliozq. No change of status or title.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Frey and Schneider (LIT-tmpqws4y) read on 2026-11-16, NOTE-tmp1p6j3. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Citron (LIT-tmpz93ag) read on 2026-11-16, NOTE-tmp61it3. No change of status or title.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
+- version: 9
+  date: '2026-11-16'
+  note: >-
+    A dated note added: de Boer and Raaphorst (LIT-tmp75mb1) read on 2026-11-16, NOTE-tmp2weid. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +72,7 @@ summary: >-
   maintained by different relations ([CLAIM-462](CLAIM-462.md)); this claim says where the
   opportunity for it sits in a process, and what automation does to it.
 ---
+<!-- inactive-ok-file: LIT-tmp1o7dq TERM-tmp91lqy — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmp7ftjn — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # CLAIM-tmpuiaop: Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted
 
@@ -164,3 +185,64 @@ Natali, Naiseh, Cabitza and Frischmann (LIT-tmphus2f) were registered against th
 ## Note of 2026-11-16: Alfrink, read
 
 Alfrink, Keller, Kortuem and Doorn (read as a stand-in for Harid, LIT-tmp7ftjn, which could not be fetched) synthesize the contestable-AI literature. Two of their findings bear here. One feature they gather is a second system that every automated decision is run through: "If disagreement between both systems occurs, decision can be flagged for human review." That is a designed point at which a decision in progress is shown to someone other than its maker before it takes effect, the claim's "exposes" reading built in. And for subjects: "Requests for human intervention are necessarily post-hoc, since they happen in response to discrete decisions." Absent such a designed point, the subject's opportunity to intervene comes after the decision. The paper supports the claim's concern as a design consensus, not as a finding: its sources are mostly "not based on empirically validated interventions".
+
+## Note of 2026-11-16: Herd and Moynihan, read
+
+Herd and Moynihan's 2023 review (LIT-tmppku2r, NOTE-tmpliozq), read as a stand-in for their 2025 JEP article
+(LIT-tmp1o7dq), concerns friction borne by claimants: learning and compliance steps that "substantially
+restrict access to basic rights, benefits, and services" (p. 96). Removing it by automation raised access:
+"By 2016, 34 states used automatic" Medicaid reenrollment (p. 103). This is the extractive friction the
+claim already says it is not about, and it does not bear on the claim's thesis. It sharpens two things the
+claim's "What it does not say" could add: automation that removes claimant-side friction can leave the
+poorest outside the automated path (the 2021 CTC by automatic deposit missed non-filers, p. 109), so friction
+is moved, not removed; and the discretion a human step carries cuts both ways (case "workers tend to use
+discretion in ways that are more likely to penalize Black" beneficiaries, p. 105). Relation: bears_on.
+
+## Note of 2026-11-16: Frey and Schneider, read
+
+The paper bears on A23 §5's development of this claim (friction as infrastructure for voice), not on the
+owner's wording. Effective-voice mechanisms are steps a platform's decision must pass (a vote, a binding
+petition threshold, a removal process): friction in TERM-tmp91lqy's sense. Platforms, built for low
+friction, keep exit and expression cheap and leave out these steps: "The absence of effective voice has
+gone largely unnoticed." Relation: bears_on.
+
+## Note of 2026-11-16: Citron, read
+
+Citron's "Technological Due Process" (LIT-tmpz93ag, NOTE-tmp61it3) documents, in US benefit and watch-list
+systems, both ways automation can remove a point at which a decision can still be interrupted. Removing
+the human step: Florida's mandatory online application offered no category for relative caregivers, and
+"Eligibility workers were unable to overrule this decision" (p. 1264). Keeping the step but emptying it:
+in mixed systems "Automation bias effectively turns a computer" program's suggestion into a final
+decision, and "The distinction between mixed and fully automated systems has the" potential to disappear
+(p. 1272); hearing officers' trust in computers makes "the guarantee of an impartial reviewer" illusory
+(pp. 1283–84). The first supports the "exposes" reading. The second is a formal friction step that offers
+no effective opportunity, which the claim already says it does not cover. It leaves the "characterizes"
+reading open, and leans against it: Citron's remedies (audit trails, testing suites before launch and on
+every change, open code, stakeholder review boards, p. 1305–12) restore intervention by upstream
+constraint rather than by delay, which is CLAIM-tmpwpvbz's line. Relation: corroborates (the "exposes"
+reading).
+
+## Note of 2026-11-16: Bovens and Zouridis, read
+
+Bovens and Zouridis (LIT-tmp24k63, NOTE-tmpvxobt, read in the authors' manuscript) describe the removal of the
+very steps this claim locates intervention in. The street-level agency was disciplined by steps a decision
+had to pass before it took effect: "The obligation to obtain the signature of their superior is another
+means to check the power of" low-level servants, ex ante legal review, and in traffic cases a judge (§2.2,
+§3.2). The system-level agency decides routine cases without human interference; "Only if the citizen
+should" lodge a complaint or objection "will a specialized official enter into the picture" (§4), after the
+decision. This supports the "exposes" reading with two documented cases. It leaves "characterizes" open and
+leans against it: the authors' remedies (§6.2 "hardship clauses", a charter guaranteeing human assessment
+on request; §6.1 informatization review; §6.3 published decision trees) restore intervention through a step
+the citizen can trigger and through review of the system, not through delay in every case. Also relevant:
+the transformation itself happened without an occasion for objection: "an explicit debate on the
+desirability of these transformations never did ensue" (§7). Relation: corroborates.
+
+## Note of 2026-11-16: de Boer and Raaphorst, read
+
+de Boer and Raaphorst (LIT-tmp75mb1, NOTE-tmp2weid) study a partially automated inspection system whose design
+is the mirror image of the claim's case: INSPECT generated the verdict and inspectors "could deviate from
+this verdict but only after getting permission from their supervisors" (p. 49). Automation here did not
+remove a gate in front of the decision; it put one in front of the human's override. The study measures
+self-reported enforcement style and perceived discretion, not points of intervention, so it neither
+supports nor tests the claim. It does show that where a process is automated, which side of the friction
+the human stands on is a design choice. Relation: bears_on (no corroboration).

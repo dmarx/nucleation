@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'procedural friction, of a process: a step at which the process''s continuation waits on a condition its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it'
-version: 5
+version: 8
 history:
 - version: 2
   date: '2026-11-16'
@@ -19,6 +19,18 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Alfrink et al. (LIT-tmpdazzd) read on 2026-11-16, NOTE-tmpgvphv. No change of status or title.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Herd and Moynihan (LIT-tmppku2r) read on 2026-11-16, NOTE-tmpliozq. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Citron (LIT-tmpz93ag) read on 2026-11-16, NOTE-tmp61it3. No change of status or title.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -115,3 +127,24 @@ The poster defines friction by inefficiency: "deliberate inefﬁciencies designe
 ## Note of 2026-11-16: Alfrink, read
 
 The second-system safeguard is a clean case of the term's "friction without delay": every decision's passage depends on a check another party runs, and the process waits on a human only when the check flags. The paper never calls it friction, which supports the term's point that dependence, not delay, is what such safeguards have in common with reviews and approvals.
+
+## Note of 2026-11-16: Herd and Moynihan, read
+
+The term classes administrative burden as "a burden, not a gate" on the executor and cites LIT-tmp1o7dq.
+The 2023 review supports that: its burdens are conditions on the claimant's access, imposed by the agency,
+and the agency's own action does not wait on them. Where a burden becomes a correction channel (EITC
+audits answered by mail, "If the IRS does not receive a response, the default judgment" follows, p. 109) it
+gates the claimant's remedy, not the agency. Unchanged. Relation: none.
+
+## Note of 2026-11-16: Citron, read
+
+Eligibility workers who finalize a computer's recommendation, and hearing officers who review it, are
+procedural friction in this term's sense (the process waits on their act). Citron shows that such a step
+can be passed in form while deciding nothing (p. 1272), which separates friction from the opportunity it
+might offer. The term is unchanged. Relation: none.
+
+## Note of 2026-11-16: Bovens and Zouridis, read
+
+§2.2's superior's signature and ex ante legal review are clean instances of friction in this term's sense:
+steps the executor cannot pass alone. Their disappearance in system-level bureaucracy is the term's case of
+friction removed. The term is unchanged. Relation: none.

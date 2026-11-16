@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 11
+version: 12
 history:
 - version: 2
   date: '2026-10-21'
@@ -76,6 +76,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
+- version: 12
+  date: '2026-11-16'
+  note: >-
+    A dated note added: de Boer and Raaphorst (LIT-tmp75mb1) read on 2026-11-16, NOTE-tmp2weid. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -516,3 +520,11 @@ The claim's dated note marks normative manipulation as a route "through circumst
 evidence and criteria. Keller states it in general form: "if I have the power to change your
 circumstances, then I may have the power to change the moral demands you face" (p. 20). He writes of
 persons, not organizations. The claim is unchanged. Relation: none.
+
+## Note of 2026-11-16: de Boer and Raaphorst, read
+
+The authors' best explanation for a direct effect of automation on enforcement style is that it "alters
+the choice architecture of street"-level bureaucrats, who must enter their observations into the system
+(p. 55): governance of conduct through what a procedure asks for, without lowering the discretion people
+feel they have (the mediation was not significant). This is an empirical instance, weak (cross-sectional,
+p < .10 in places), of governing through the criteria a procedure uses. The fit is partial: CLAIM-404 is about governance from outside the organization, and INSPECT is the organization's own system. Relation: bears_on, weakly; the filer may prefer none.
