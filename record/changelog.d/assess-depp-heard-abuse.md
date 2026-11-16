@@ -1,4 +1,4 @@
-<!-- inactive-ok-file: CLAIM-tmp7zzbd CASE-tmpyeqlj CLAIM-tmpffmpr CLAIM-tmp5zzud CLAIM-tmpkx7ct TERM-tmp91lqy — the assistant's, filed 2026-11-16, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpxeq6j CASE-tmplgw46 ARG-tmpf8gmh CLAIM-tmp7zzbd CASE-tmpyeqlj CLAIM-tmpffmpr CLAIM-tmp5zzud CLAIM-tmpkx7ct TERM-tmp91lqy — the assistant's, filed 2026-11-16, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpwpvbz CLAIM-tmpp8na7 CLAIM-tmpnw7ez CLAIM-tmpd6uxt CLAIM-tmpyjzi8 CLAIM-tmpnfjln CLAIM-tmp0tg7y CLAIM-tmpfmmkt CASE-tmpwrhkd ARG-tmpsyaz2 — filed in this contribution, Proposed -->
 ### Added
 
@@ -55,3 +55,10 @@
   first-come threshold includes the service time, t* = (F − s)μ/(λ − μ);
   [CASE-tmpyeqlj](record/cases.d/CASE-tmpyeqlj.md)'s reserve is floored at zero and dedicated to correction;
   [CLAIM-tmp5zzud](record/claims.d/CLAIM-tmp5zzud.md)'s actor "can obtain" its outcome.
+- From a third review of 2026-11-16 (an audit, ChatGPT's, forwarded by the
+  owner): A19 §9's claim that traceability does not settle fair attribution
+  (CLAIM-tmpxeq6j), with a separating case of two hospitals
+  (CASE-tmplgw46) and its argument (ARG-tmpf8gmh); and three open
+  questions, on authorization defaults (QUESTION-tmpz5twh), on repair
+  without blame (QUESTION-tmp3hvti) and on an organization's standing to
+  blame (QUESTION-tmppfb7b).
