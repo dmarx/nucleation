@@ -15,6 +15,7 @@ promote_when: >-
 source:
 - LIT-tmp24k63
 corroborates:
+- CLAIM-tmpkx7ct
 - CLAIM-tmpuiaop
 - CLAIM-462
 ---

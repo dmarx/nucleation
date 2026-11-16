@@ -17,6 +17,7 @@ promote_when: >-
 source:
 - LIT-tmpo6res
 corroborates:
+- CLAIM-tmpkx7ct
 - CLAIM-tmpfmmkt
 bears_on:
 - QUESTION-tmp9n1ac

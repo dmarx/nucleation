@@ -1,7 +1,7 @@
 ---
 status: Proposed
-title: 'procedural friction, of a process: a step at which the process''s continuation waits on a condition its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it'
-version: 8
+title: 'independent execution gate, of a process: a step past which the process cannot continue unless a condition holds that its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it; distinct from execution impedance (added time or cost) and from an intervention opportunity (a point at which another party can bring an objection that changes the process), and not settled as a sense of procedural friction'
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -31,6 +31,20 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
+- version: 9
+  date: '2026-11-16'
+  note: >-
+    Renamed and narrowed at the review of 2026-11-16 (ChatGPT's, forwarded
+    by the owner). Version 1 defined "procedural friction" by dependence
+    rather than delay. That conflated three properties: execution
+    impedance, independent constraint and intervention opportunity. The
+    HKMA reading had already shown dependence necessary and not sufficient
+    for an opportunity to intervene. The dependence account is kept, under
+    the name independent execution gate, beside the other two properties;
+    whether every gate counts as procedural friction, and so whether the
+    owner's "characterizes" reading holds, is left open. The dated notes
+    below were written against version 1; where they say "friction in this
+    term's sense" read "an independent execution gate".
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -40,41 +54,61 @@ line:
 - distributed-agency
 summary: >-
   The assistant's, offered at step 12 of the filing of the exchange "Assess
-  Depp Heard Abuse" and accepted by the owner on 2026-11-16 ("file your
-  ideas as well"). The owner's claim ([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)) uses "procedural
-  friction" for handoffs, waits, reviews and approvals; A's objection
-  ([CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)) relies on friction meaning delay, so that a limit
-  enforced instantly is not friction. This term fixes the sense by
-  dependence, not by delay: what makes a step friction is that the executor
-  cannot pass it on its own. In that sense a standing limit enforced by a
-  mechanism the executor does not control is friction with no delay, and a
-  wait the executor can skip is delay without friction. A's "extractive"
-  friction, which gives those subject to a process no influence, is delay
-  imposed on others and not friction in this sense unless it gates the
-  process. The wording is the assistant's (Claude, in this session);
-  adopting it is the owner's call.
+  Depp Heard Abuse" and accepted by the owner on 2026-11-16, renamed at the
+  review of 2026-11-16. A gate is a step the executor cannot pass on its
+  own. Two neighbouring properties are kept apart from it: execution
+  impedance (does the step add time or cost?) and intervention opportunity
+  (can another party bring an objection that changes the process?). A
+  standing limit enforced by another's mechanism is a gate without
+  impedance and need not be an opportunity; a rubber-stamp approval is a
+  gate with impedance and no real opportunity; a channel for challenging a
+  process's rules can be an opportunity without gating ordinary execution.
+  Whether a gate is procedural friction, in the sense of the owner's claim
+  (CLAIM-tmpuiaop), is left open. The wording is the assistant's (Claude,
+  in this session); adopting it is the owner's call.
+
 ---
 <!-- inactive-ok-file: CLAIM-tmpkx7ct — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-1609 LIT-tmp1o7dq — Deferred; Herd and Moynihan, unread -->
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpwpvbz — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
-# TERM-tmp91lqy: procedural friction, of a process: a step at which the process's continuation waits on a condition its executor does not control (a person's approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it
+# TERM-tmp91lqy: independent execution gate, of a process: a step past which the process cannot continue unless a condition holds that its executor does not control (a person's approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it; distinct from execution impedance (added time or cost) and from an intervention opportunity (a point at which another party can bring an objection that changes the process), and not settled as a sense of procedural friction
 
 ## The definition
 
-A step in a process is **procedural friction** when the process cannot go
-past it unless a condition holds that the executor of the process does not
-control. The condition can be a person's act (an approval, a signature, a
-hearing's outcome), the passage of time the executor cannot shorten (a
-notice period), or a test another party runs or a limit another party set
-(an automatic suspension on a threshold the executor cannot change).
+A step in a process is an **independent execution gate** when the process
+cannot go past it unless a condition holds that the executor of the process
+does not control. The condition can be a person's act (an approval, a
+signature, a hearing's outcome), the passage of time the executor cannot
+shorten (a notice period), or a test another party runs or a limit another
+party set (an automatic suspension on a threshold the executor cannot
+change).
 
-The distinction it draws is between **dependence** and **delay**:
+Three properties of a step, which vary independently:
 
-| | executor can pass it alone | executor cannot pass it alone |
-|---|---|---|
-| **takes time** | delay without friction (a slow step the executor could skip) | friction with delay (a review, a notice period) |
-| **takes no time** | neither | friction without delay (a standing limit enforced by another's mechanism) |
+| property | question |
+|---|---|
+| **execution impedance** | Does the step add time or resource cost to execution? |
+| **independent constraint** (this term) | Can the executor proceed alone, or is continuation conditional on something outside its control? |
+| **intervention opportunity** | Can another party bring an objection capable of changing what the process does? |
+
+| | impedance | gate | opportunity |
+|---|---|---|---|
+| a review at which an approver can reject and has time | yes | yes | yes |
+| a standing limit enforced by another's mechanism | no | yes | no, for what was not foreseen |
+| a rubber-stamp approval (the HKMA's perfunctory approval) | yes | yes | no |
+| a slow step the executor could skip | yes | no | no |
+| a channel for challenging the rules that does not pause execution | no | no | yes, on the rules |
+
+## What is left open
+
+Whether every gate is **procedural friction** in the sense of the owner's
+claim (CLAIM-tmpuiaop). If it is, A's objection (CLAIM-tmpwpvbz) removes
+impedance and not friction, but "friction characterizes opportunity" then
+becomes close to a definition and is false of gates that open no
+opportunity. If friction is impedance, the objection stands against
+"characterizes". The disagreement is kept open rather than settled by
+choosing a word; CLAIM-tmpkx7ct says what holds either way.
 
 ## Neighbouring senses it must not be confused with
 
@@ -83,13 +117,15 @@ The distinction it draws is between **dependence** and **delay**:
   opportunity to intervene.
 - **A21's "extractive friction"**, time and effort imposed on those subject
   to a process without influence over it. That is a burden on others, not
-  a gate on the executor, and is friction in this sense only where it gates
-  the process.
+  a gate on the executor, and is a gate only where the process waits on
+  it.
 - **Administrative burden** (Herd and Moynihan, [LIT-1609](../literature.d/LIT-1609.md) and
   [LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md)): costs of access borne by claimants. Again a burden, not a
   gate.
-- **Mechanical friction**: the metaphor's source, energy lost to motion. The
-  term keeps only the resistance and drops the loss.
+- **Mechanical friction**: the metaphor's source, energy lost to motion.
+  Version 1 of this term kept only the resistance and dropped the loss;
+  the review of 2026-11-16 showed that this merged resistance to the
+  executor with openness to others.
 
 ## Note of 2026-11-16: Cuéllar, read
 

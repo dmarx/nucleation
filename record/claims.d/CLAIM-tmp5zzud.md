@@ -1,25 +1,40 @@
 ---
 status: Proposed
-title: 'A fait accompli can do to a reviewing institution what moral blackmail does to a person: by making stopping costly to others, the act gives the reviewer genuine reasons to let it continue, so that the reviewer reasons soundly and still yields the actor''s outcome; those reasons are no larger than the circumstances support, and their wrongful creation is a wrong of the actor''s that weighing them does not cancel'
-version: 2
+title: 'An actor that wrongfully creates circumstances in which reversing its act would harm innocent third parties can give a reviewing institution genuine reasons to accommodate those harms, as moral blackmail gives its target a genuine obligation; the reviewer''s sound weighing of those reasons does not discharge the actor''s responsibility for having wrongfully created them, and the reasons are no larger than the circumstances support'
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    Revised at the review of 2026-11-16 (ChatGPT's, forwarded by the
+    owner). The earlier title treated the creation of reversal costs as
+    itself a wrong. It now separates three propositions (the act makes
+    reversal costly to third parties; those costs are genuine reasons for
+    a reviewer; the actor bears further responsibility) and makes the
+    third conditional on the act's or the imposition's being wrongful, since
+    justified acts can create real costs of reversal and wrongful ones can
+    create costs no one foresaw. The analogy to moral blackmail is limited
+    to that case, and the predicament is kept apart from manipulation: it
+    can be real without having been manufactured. Defeater revised to
+    match.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  An argument that harms to others which an act under review has made
-  consequent on stopping it are not genuine reasons for a reviewer, so that
-  a reviewer who weighs them errs (the analogue of saying Bob owes the
-  abandoned dog nothing); or that the actor's creating them is no wrong
-  beyond the act under review, so that nothing is left over once the act is
-  judged. Not defeated by the rule, where it holds, that a party's own
-  self-inflicted harm does not count in its favour: the claim is about
-  harm to others and to the public, which that rule does not reach. Not
-  defeated by showing that a particular reviewer gave such reasons too much
-  weight, which the claim's limit allows.
+  An argument that harms to innocent third parties which a wrongful act has
+  made consequent on reversing it are not genuine reasons for a reviewer,
+  so that a reviewer who weighs them errs (the analogue of saying Bob owes
+  the abandoned dog nothing); or that an actor who wrongfully created such
+  circumstances bears no responsibility for them beyond the act under
+  review, so that nothing is left over once the act is judged. Not defeated
+  by justified acts that create costs of reversal, or wrongful ones whose
+  costs were not reasonably foreseeable, which the claim does not cover;
+  nor by the rule that a party's own self-inflicted harm does not count in
+  its favour, since the claim is about harm to others; nor by a reviewer
+  giving such reasons too much weight.
 tags:
 - ethics
 - society-and-governance
@@ -45,9 +60,11 @@ summary: >-
   ([CLAIM-464](CLAIM-464.md): an act can make its own correction costlier before review).
   [CLAIM-464](CLAIM-464.md) leaves aside A9's second question, what weight risks created by
   the disputed conduct should have. This claim answers part of it: where
-  the risks fall on others they are genuine reasons, so weighing them is not
-  error, and they are no larger than the circumstances support; their
-  creation is a further wrong of the actor's. [CASE-170](../cases.d/CASE-170.md) is the instance
+  the act was wrongful and the risks fall foreseeably on innocent others,
+  they are genuine reasons, so weighing them is not error, they are no
+  larger than the circumstances support, and the actor's responsibility for
+  them survives the reviewer's weighing. Justified acts and unforeseeable
+  costs are outside it, and it does not depend on intent. [CASE-170](../cases.d/CASE-170.md) is an instance of the first two
   ("the architecture of the ongoing project became part of the argument for
   why construction should continue"). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
@@ -55,7 +72,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt CLAIM-tmpnw7ez — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
-# CLAIM-tmp5zzud: A fait accompli can do to a reviewing institution what moral blackmail does to a person: by making stopping costly to others, the act gives the reviewer genuine reasons to let it continue, so that the reviewer reasons soundly and still yields the actor's outcome; those reasons are no larger than the circumstances support, and their wrongful creation is a wrong of the actor's that weighing them does not cancel
+# CLAIM-tmp5zzud: An actor that wrongfully creates circumstances in which reversing its act would harm innocent third parties can give a reviewing institution genuine reasons to accommodate those harms, as moral blackmail gives its target a genuine obligation; the reviewer's sound weighing of those reasons does not discharge the actor's responsibility for having wrongfully created them, and the reasons are no larger than the circumstances support
 
 ## The claim
 
@@ -75,29 +92,50 @@ from the owner's exchange of 2026-10-26.
   construction should continue". The Supreme Court's stay credited
   declarations that delay would create security problems.
 
-The join. A reviewer deciding whether to stop a project under way must
-weigh what stopping would now cost: to the public, to third parties, to
-security. Where the act under review created those costs, the reviewer is
-in Bob's position. The reasons are genuine (the harms of stopping are real
-harms to people other than the actor), so a reviewer who weighs them is not
-in error; the actor gets the outcome it wanted through the reviewer's sound
-reasoning, without deceiving it or redirecting its criteria. The
-manoeuvre is A11's normative manipulation, aimed at an institution.
+**Three propositions, kept apart.**
 
-Two consequences carry over from Keller's case.
+1. An act under review can make its reversal costly to third parties
+   (CLAIM-464's effect).
+2. Those costs can be genuine reasons for a reviewer to consider
+   alternatives to immediate reversal: they are real harms to people other
+   than the actor, so a reviewer who weighs them is not in error.
+3. The actor bears further responsibility for having created them.
+
+The first two do not entail the third. A justified act can create real
+costs of reversal, and a wrongful act can create costs its actor could not
+reasonably have foreseen. The claim asserts the third only where the act,
+or its imposing those costs on others, was wrongful, and the costs were
+foreseeable.
+
+**The join, in that case.** A reviewer deciding whether to stop a project
+under way must weigh what stopping would now cost: to the public, to third
+parties, to security. Where a wrongful act created those costs, the
+reviewer is in Bob's position: the reasons are genuine, the reviewer who
+weighs them reasons soundly, and the actor gets the outcome it wanted
+through that reasoning, without deceiving the reviewer or redirecting its
+criteria.
+
+**Predicament and manipulation.** The predicament can be real without
+having been manufactured. Where the actor created the costs in order to
+constrain review, the manoeuvre is A11's normative manipulation aimed at an
+institution; where it did not, the reviewer's predicament and the actor's
+responsibility for the wrongful act are the same, and only the further wrong
+of manipulation is missing. The claim does not depend on intent.
+
+Two consequences carry over from Keller's case, under the condition above.
 
 - **The reasons are no larger than the circumstances support.** As Bob may
   call a shelter, a reviewer may look for ways of stopping that avoid the
   created harms (stopping new work while allowing security work, as the
-  D.C. Circuit's injunction did in [CASE-170](../cases.d/CASE-170.md), by the court history that
+  D.C. Circuit's injunction did in CASE-170, by the court history that
   case keeps as the earlier exchange's and unchecked). An actor's account of what
-  stopping would cost is the manipulator's account and is owed the scrutiny
-  A13 gives "*A conscientious doctor wouldn't walk away*".
-- **The creation is a wrong of its own.** Weighing the created reasons does
-  not settle the actor's responsibility for having created them, as Bob's
-  doing right does not cancel his complaint against Alice. In
-  [CLAIM-tmpnw7ez](CLAIM-tmpnw7ez.md)'s terms, the actor answers for the conditions under which
-  the reviewer decided.
+  stopping would cost is the interested party's account and is owed the
+  scrutiny A13 gives "*A conscientious doctor wouldn't walk away*".
+- **Weighing does not discharge responsibility.** The reviewer's sound
+  weighing of the created reasons does not settle the actor's
+  responsibility for having wrongfully created them, as Bob's doing right
+  does not cancel his complaint against Alice. In CLAIM-tmpnw7ez's terms,
+  the actor answers for the conditions under which the reviewer decided.
 
 ## What it adds
 
@@ -105,8 +143,9 @@ Two consequences carry over from Keller's case.
 two of A9's questions apart, answering only the causal one: "What
 significance should those risks have when they were generated by the
 conduct whose legality is disputed?" is left. This claim gives a partial
-answer by analogy: they are real reasons, bounded by the circumstances, and
-their generation is a separable wrong. It also says what
+answer by analogy: where the act was wrongful and the costs foreseeable,
+they are real reasons, bounded by the circumstances, and the actor's
+responsibility for them survives the reviewer's weighing. It also says what
 [CLAIM-404](CLAIM-404.md)'s two routes of external governance leave out:
 an institution can be governed through the circumstances its sound
 procedures face (the note of 2026-11-15 on [CLAIM-404](CLAIM-404.md) leaves open whether
@@ -122,6 +161,9 @@ limited to harms to others, which is where the premises do not settle it.
 
 ## What it does not say
 
+- **That the East Wing demolition was wrongful.** The claim's antecedent
+  needs a wrongful act, which CASE-170 does not establish; the case shows
+  only the first two propositions.
 - **That any reviewer weighed such reasons wrongly, or that the East Wing
   demolition was done to create them.** [CASE-170](../cases.d/CASE-170.md) records an effect; intent
   is outside both this claim and [CLAIM-464](CLAIM-464.md).

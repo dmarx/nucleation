@@ -1,7 +1,7 @@
 ---
 status: Proposed
-title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, and because compensation that prevents failure leaves little trace while its lapse is seen, the organization is credited with outcomes its members'' compensating effort produced and those members are blamed for failures its conditions produced'
-version: 11
+title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
+version: 12
 history:
 - version: 2
   date: '2026-11-16'
@@ -43,19 +43,35 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: the National Transportation Safety Board (LIT-tmp3lco2) read on 2026-11-16, NOTE-tmpxhumo. No change of status or title.
+- version: 12
+  date: '2026-11-16'
+  note: >-
+    Split at the review of 2026-11-16 (ChatGPT's, forwarded by the owner).
+    The claim joined the crumple-zone mechanism (control upstream,
+    obligation downstream, blame at visibility) to a hypothesis about
+    unseen compensation and credit (A17 §6). The two are separable, and
+    the readings bear on them differently: Elish supports the first only.
+    The second is now CLAIM-tmp7zzbd. The earlier title was: An
+    organization can place control over the conditions of action
+    upstream, the practical obligation to secure acceptable outcomes
+    downstream, and blame where failure becomes visible, and because
+    compensation that prevents failure leaves little trace while its lapse
+    is seen, the organization is credited with outcomes its members'
+    compensating effort produced and those members are blamed for failures
+    its conditions produced. Defeater, summary and body revised to the
+    narrower claim; the dated notes below were written against the
+    earlier version.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Evidence, from organizations where frontline compensation for a
-  structural shortfall can be measured (overtime, informal workarounds,
-  near-misses caught), that failures following its lapse are attributed to
-  the shortfall in proportion to its contribution as often as to the
-  individual, so that blame does not settle at the point of visibility; or
-  an argument that the attribution of credit and blame by one principle is
-  not coherent to ask of an organization, so that "different principles"
-  says nothing. Not defeated by blame that falls on a frontline party who
-  had adequate time, information and resources, which the claim excludes
-  (A17 §8).
+  Evidence that blame for organizational failures settles, as a rule, in
+  proportion to control over the conditions that produced them, so that
+  those at the point of visibility are blamed only for what they
+  controlled; or an argument that control over conditions, obligation for
+  outcomes and blame cannot come apart in one organization. Not defeated by
+  blame that falls on a frontline party who had adequate time, information
+  and resources, which the claim excludes (A17 §8), nor by organizations
+  that do not rely on unseen compensation (CLAIM-tmp7zzbd).
 tags:
 - ethics
 - society-and-governance
@@ -67,6 +83,7 @@ rests_on:
 - CLAIM-tmpnw7ez
 complements:
 - CLAIM-tmpyjzi8
+- CLAIM-tmp7zzbd
 - CLAIM-614
 - CLAIM-678
 bears_on:
@@ -75,22 +92,23 @@ summary: >-
   A's, from A17 of the exchange "Assess Depp Heard Abuse" (2026-11-15), at
   the owner's U9 ("double click on moral crumple zones and privileged
   irresponsibility"). It joins Tronto's privileged irresponsibility (how
-  responsibilities are distributed before failure) and Elish's moral crumple
-  zone (how blame is distributed after it), both registered unread: "An
-  institution can concentrate decision-making power upstream, concentrate
-  moral obligations downstream, and then assign blame at the point where
-  the consequences become visible." A17 §6 supplies the mechanism: "The
-  system's resilience is attributed to the system. The system's failure is
-  attributed to the person who stopped compensating for it." A17 and A26
-  name the condition asymmetric moral accountability. Wells Fargo ([CASE-151](../cases.d/CASE-151.md))
-  is the record's nearest specimen. The wording is A's; adopting it is the
-  owner's call.
+  responsibilities are distributed before failure) and Elish's moral
+  crumple zone (how blame is distributed after it): "An institution can
+  concentrate decision-making power upstream, concentrate moral obligations
+  downstream, and then assign blame at the point where the consequences
+  become visible." A17 and A26 name the condition asymmetric moral
+  accountability. Read on 2026-11-16, Elish supports it; Choroszewicz the
+  allocation of responsibility to users; Ozer et al. bound its automation
+  corollary; the NTSB report qualifies it. The hypothesis about unseen
+  compensation and credit, once part of it, is CLAIM-tmp7zzbd since the
+  review of 2026-11-16. Wells Fargo (CASE-151) is the record's nearest
+  specimen. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpw46qz LIT-tmp4yz7x — Deferred; registered unread from the same exchange -->
-<!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpyjzi8 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpyjzi8 CLAIM-tmp7zzbd — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-678 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 
-# CLAIM-tmpnfjln: An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, and because compensation that prevents failure leaves little trace while its lapse is seen, the organization is credited with outcomes its members' compensating effort produced and those members are blamed for failures its conditions produced
+# CLAIM-tmpnfjln: An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
 
 ## The claim
 
@@ -110,26 +128,14 @@ misattribution of responsibility when things go wrong*". A17 §3: the first
 works "**before anything goes wrong**", the second "**after something goes
 wrong**".
 
-**The mechanism.** A17 §6, "Failure is visible, prevention is invisible":
-a nurse who repeatedly catches deterioration and corrects errors leaves
-management seeing "a functioning ward"; when she misses one sign, her
-failure is visible and the history of prevention is not.
-
-> **The system's resilience is attributed to the system. The system's
-> failure is attributed to the person who stopped compensating for it.**
-
-So, A17 §6: "**An institution can receive credit for good outcomes
-produced by extraordinary individual effort while assigning individual
-blame for bad outcomes produced by structural inadequacy.** Credit and
-blame become distributed according to different principles."
-
-A17's synthesis adds the conscience: "**The same moral commitment that
-allows a person to keep an inadequate system functioning can make them the
-person most vulnerable to blame when it finally breaks down.**" A26 §IV
-gives the condition a name, "asymmetric moral accountability": "A
-systematic divergence between the distribution of effective control over
-circumstances, the distribution of practical moral obligations, and the
-attribution of responsibility for resulting outcomes."
+**Split out on 2026-11-16.** A17 §6's mechanism, that unseen compensation
+lets the organization take credit for outcomes its members' effort produced
+and blame them when the effort lapses, is a separate hypothesis, now
+CLAIM-tmp7zzbd. A26 §IV's name for this claim's condition, "asymmetric
+moral accountability", is "A systematic divergence between the distribution
+of effective control over circumstances, the distribution of practical
+moral obligations, and the attribution of responsibility for resulting
+outcomes."
 
 ## Its limits, A's own
 
@@ -154,8 +160,9 @@ A17 §8 lists three ways the frameworks go wrong:
   moral judgment, you cannot automatically absolve yourself of
   responsibility for the consequences merely because they were the one who
   ultimately made the decision.**"
-- [CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md), the implicit moral subsidy, is the upstream half: the
-  compensation that this claim says goes unseen is what the subsidy is.
+- CLAIM-tmpyjzi8, the implicit moral subsidy, and CLAIM-tmp7zzbd, unseen
+  compensation and credit: the upstream mechanism this claim no longer
+  includes.
 - [CLAIM-614](CLAIM-614.md): an organization can keep harm non-legible by
   the projections it reproduces. Invisible prevention is a non-legibility
   of the organization's own dependence.
@@ -181,8 +188,10 @@ A17 §8 lists three ways the frameworks go wrong:
   alter blame in the expected ways". A19's own conclusion: "So the strong
   claim that algorithms reliably allow decision-makers to evade public
   blame isn't established."
-- **What Elish and Tronto say.** Both are registered unread (Elish, [LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md); Tronto, [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md) and [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md)); the readings
-  are A's report.
+- **More than Elish and Tronto support.** Elish (LIT-tmp4gcqt) was read on
+  2026-11-16 and supports the blame mechanism; Tronto's books
+  (LIT-tmpw46qz, LIT-tmp4yz7x) are Unavailable and were read through two
+  stand-ins, for the concept only.
 
 ## Note of 2026-11-16: Ozer, Waggoner and Kennedy, read
 

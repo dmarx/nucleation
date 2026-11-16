@@ -11,6 +11,8 @@ promote_when: >-
   subjects' intervention requests are necessarily post hoc
 source:
 - LIT-tmpdazzd (the new LIT for Alfrink et al.)
+corroborates:
+- CLAIM-tmpkx7ct
 bears_on:
 - QUESTION-tmp9n1ac
 ---

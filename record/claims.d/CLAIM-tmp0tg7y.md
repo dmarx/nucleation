@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
@@ -11,6 +11,12 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: the National Transportation Safety Board (LIT-tmp3lco2) read on 2026-11-16, NOTE-tmpxhumo. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    Rests now also on CLAIM-tmp7zzbd, the unseen-compensation hypothesis
+    split out of CLAIM-tmpnfjln at the review of 2026-11-16; it states the
+    measurement link this loop needs. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +41,7 @@ rests_on:
 - CLAIM-679
 - CLAIM-549
 - CLAIM-tmpyjzi8
+- CLAIM-tmp7zzbd
 complements:
 - CLAIM-577
 - CLAIM-tmpnfjln
@@ -54,7 +61,7 @@ summary: >-
   discriminating prediction. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyjzi8 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpyjzi8 CLAIM-tmp7zzbd — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-679 CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 
@@ -93,6 +100,8 @@ quiescence and satisfaction".
 
 Each link is in the record:
 
+- **Its invisibility.** CLAIM-tmp7zzbd, from the same exchange: the
+  compensation leaves little trace while its lapse is seen.
 - **The subsidy.** [CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md), from the same exchange: conscientious
   members cover what the institution does not fund, and the institution's
   observed performance includes their cover.

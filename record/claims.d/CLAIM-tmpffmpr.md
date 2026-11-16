@@ -1,11 +1,23 @@
 ---
 status: Proposed
-title: 'When a corrective process is overloaded, its order of review decides whose right to challenge still prevents anything: first-come review spends its capacity on challenges whose windows have already closed and, in the limit, resolves none in time, while an order that skips expired challenges resolves the largest share possible, μ/λ, so the choice of review discipline is a choice about whose rights stay preventive'
-version: 1
+title: 'In an idealized overloaded review process (homogeneous challenges arriving at rate λ, one service time s = 1/μ each with μ < λ, a common window F ≥ s, no batch corrections), the order of review decides whose right to challenge still prevents anything: first-come review in the limit resolves none in time, while an order that serves only challenges it can still finish in time reaches the largest possible share, μ/λ, once F ≥ s + 1/λ; under insufficient review capacity, scheduling distributes preventive rights'
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Bounded at the review of 2026-11-16 (ChatGPT's, forwarded by the
+    owner): the model's assumptions are stated (steady arrivals,
+    homogeneous challenges with service time s = 1/μ, a common window F,
+    no batch or rule-level corrections), and step 3 is restated with the
+    feasibility condition it needed, serving only challenges that can still
+    be finished in time, and a dimensionally sound condition, F ≥ s + 1/λ,
+    in place of "the backlog exceeds μ". Checked by an event-level
+    simulation. Title narrowed accordingly; the conclusion is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  An error in the derivation; or a showing that what it assumes away
+  An error in the derivation under the stated assumptions; or a showing that what it assumes away
   carries the result: that a challenge resolved after its window still
   prevents the harm it targets (so that "expired" is not expired), that
   windows cannot be known or estimated when challenges are ordered (so that
@@ -41,9 +53,20 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpfmmkt CLAIM-tmpuiaop — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
-# CLAIM-tmpffmpr: When a corrective process is overloaded, its order of review decides whose right to challenge still prevents anything: first-come review spends its capacity on challenges whose windows have already closed and, in the limit, resolves none in time, while an order that skips expired challenges resolves the largest share possible, μ/λ, so the choice of review discipline is a choice about whose rights stay preventive
+# CLAIM-tmpffmpr: In an idealized overloaded review process (homogeneous challenges arriving at rate λ, one service time s = 1/μ each with μ < λ, a common window F ≥ s, no batch corrections), the order of review decides whose right to challenge still prevents anything: first-come review in the limit resolves none in time, while an order that serves only challenges it can still finish in time reaches the largest possible share, μ/λ, once F ≥ s + 1/λ; under insufficient review capacity, scheduling distributes preventive rights
 
 ## The claim
+
+**Assumptions.** Valid challenges arrive steadily at rate λ, each needs
+the same review time s = 1/μ (one reviewer, or c reviewers with
+μ = c/s), and μ < λ; every challenge has the same window F after filing,
+with F ≥ s; a challenge resolved more than F after filing comes too late
+to prevent the harm it targets; challenges are resolved one at a time, so
+no correction to a rule or to code resolves many at once (the case Citron,
+LIT-tmpz93ag, raises against CLAIM-tmpfmmkt); and windows are known when
+the order is chosen. Real arrivals vary, cases differ in effort and stakes,
+and fixes are often batched; the claim says what the order does where these
+idealizations roughly hold.
 
 The setting of [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md): valid challenges arrive at rate λ, the
 corrective process resolves them at rate μ < λ, and a challenge resolved
@@ -60,14 +83,21 @@ irreversible.
    From the time the challenges filed at t* come up, every resolution is of
    an expired challenge. The number resolved in time stops growing, and its
    share of those filed tends to zero ([CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md), step 3).
-3. **An order that never serves an expired challenge reaches μ/λ.** Serve
-   the oldest challenge whose window is still open, and set expired ones
-   aside. Once the backlog of open challenges exceeds μ, every resolution is
-   in time, so μT − O(1) are, and the share tends to μ/λ, the bound of
-   [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md). Serving the newest first does the same.
+3. **An order that serves only challenges it can still finish in time
+   reaches μ/λ.** When the reviewer becomes free at time t, serve the
+   oldest challenge whose remaining window is at least s (filed after
+   t + s − F), and set aside any that can no longer be finished in time.
+   If F ≥ s + 1/λ, a challenge filed within the last F − s ≥ 1/λ always
+   exists once arrivals have begun, so the reviewer is never idle and every
+   resolution it completes is in time: μT − O(1) of them, a share tending
+   to μ/λ, the bound of CLAIM-tmpfmmkt. Serving the newest feasible
+   challenge first does the same. With c reviewers sharing the load
+   (μ = c/s), the condition is that the stock of feasible challenges,
+   about λ(F − s), is at least c. If F < s, no challenge can be resolved in
+   time under any order.
 4. **So the order decides who keeps a preventive right.** Under first-come
    review, everyone filed after t* has a right to challenge that prevents
-   nothing. Under oldest-open-first, a share μ/λ do, and the rest are set
+   nothing. Under feasible-oldest-first, a share μ/λ do, and the rest are set
    aside to remedy. Under newest-first, the same share do, and the oldest
    are never heard. No order preserves everyone's right; each distributes
    which rights stay preventive.
@@ -80,9 +110,17 @@ review resolves 1.05% of challenges in time; newest-first and
 oldest-open-first each resolve 50.0%, the bound. Under oldest-open-first,
 48,950 of the 100,000 challenges filed had expired unheard by day 1,000.
 
+An event-level simulation (2026-11-16) with evenly spaced arrivals, one
+reviewer and s = 1/μ = 0.02 days: over 400 days first-come resolves 2.5% in
+time and feasible-oldest-first 50.0%. With F = s + 1/λ = 0.03 days
+feasible-oldest-first still reaches 50.0%; with F = s it reaches 49.5%; with
+F < s, none.
+
 ## Why it matters
 
-First-come is the order that looks fair, and under overload it is the one
+The scheduling formula is the demonstration; the claim worth keeping is
+that when review capacity is insufficient, the administrative choice of an
+order distributes which rights to challenge keep preventive force. First-come is the order that looks fair, and under overload it is the one
 that defeats prevention entirely: it gives everyone the same right, and
 past t* the same right is worth nothing. A process that keeps the formal
 right for all and the preventive effect for none fits
