@@ -21,6 +21,15 @@ comes out, and numbers the turns U1… for the user and A1… for the assistant.
 It drops system and tool messages, assistant messages addressed to a tool,
 hidden context and redacted plugin output.
 
+Since November 2026 some share pages carry the transcript instead as one
+JSON script, `<script id="octane-conversation-transcript">`, whose `rows`
+are the shared branch's visible turns in order. A user row's text is
+`frame.text`. An assistant row's is `source.markdown`, or, when that is
+empty, `source.dil.fallbackMarkdown`, the markdown the page itself falls
+back to. That fallback drops the text of inline links, leaving a gap, so
+the decoder lists each turn's links, text and address, in the order they
+occur, at the end of the turn. It does not guess where each gap was.
+
 The format is not a published interface. When the page changes shape the
 decoder raises ShareFormatError rather than writing a partial transcript;
 it never guesses.
@@ -31,6 +40,10 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
+OCTANE = re.compile(
+    r'<script id="octane-conversation-transcript" type="application/json">(.*?)</script>', re.S)
+TITLE = re.compile(r"<title>([^<]*)</title>")
+DIL_LINK = re.compile(r'__dil\.jsx\(Link,\{"url":"([^"]+)"[^}]*\},__dilConstants\["(\d+)"\]\)')
 ENQUEUE = re.compile(r'streamController\.enqueue\((".*?")\);?\s*</script>', re.S)
 REDACTED = "The output of this plugin was redacted."
 
@@ -53,11 +66,51 @@ class Exchange:
     turns: list[Turn] = field(default_factory=list)
 
 
+def _octane_text(row: dict) -> str:
+    frame = row.get("frame") or {}
+    if frame.get("role") == "user":
+        return frame.get("text") or ""
+    source = row.get("source") or {}
+    if source.get("markdown"):
+        return source["markdown"]
+    dil = source.get("dil") or {}
+    text = dil.get("fallbackMarkdown") or ""
+    consts = dil.get("constants") or {}
+    links = [(consts.get(i, ""), url) for url, i in DIL_LINK.findall(dil.get("code") or "")]
+    if text and links:
+        listed = "\n".join(f"  {t} <{u}>" for t, u in links)
+        text += f"\n\n[links in this turn, in order, whose text the fallback drops:\n{listed}]"
+    return text
+
+
+def _decode_octane(html: str, payload: str) -> Exchange:
+    try:
+        rows = json.loads(payload)["rows"]
+    except (json.JSONDecodeError, KeyError, TypeError) as e:
+        raise ShareFormatError(f"the octane transcript is not the expected JSON: {e}") from e
+    title = TITLE.search(html)
+    exchange = Exchange(title=title.group(1).strip() if title else "")
+    counts = {"user": 0, "assistant": 0}
+    for row in rows:
+        role = (row.get("frame") or {}).get("role")
+        if role not in counts:
+            continue
+        text = _octane_text(row).strip("\n")
+        if not text.strip():
+            raise ShareFormatError(f"an octane {role} row has no text: a changed format")
+        counts[role] += 1
+        label = ("U" if role == "user" else "A") + str(counts[role])
+        exchange.turns.append(Turn(label, role, "", text))
+    if not exchange.turns:
+        raise ShareFormatError("the octane transcript has no user or assistant turns")
+    return exchange
+
+
 def _table(html: str) -> list:
     chunks = ENQUEUE.findall(html)
     if not chunks:
-        raise ShareFormatError("no streamController.enqueue payload on the page: "
-                               "a challenge page, a login wall, or a changed format")
+        raise ShareFormatError("no streamController.enqueue payload and no octane transcript "
+                               "on the page: a challenge page, a login wall, or a changed format")
     data = "".join(json.loads(c) for c in chunks)
     first = next((line for line in data.split("\n") if line.strip()), "")
     try:
@@ -116,6 +169,9 @@ def _text(content: dict) -> str:
 
 def decode(html: str) -> Exchange:
     """Decode a share page's HTML into the shared branch's numbered turns."""
+    octane = OCTANE.search(html)
+    if octane:
+        return _decode_octane(html, octane.group(1))
     conv = _conversation(_table(html))
     mapping, cur = conv["mapping"], conv.get("current_node")
     if cur not in mapping:
@@ -155,7 +211,7 @@ def decode(html: str) -> Exchange:
 
 def render(exchange: Exchange) -> str:
     """The verbatim text: a TITLE line, then one headed block per turn."""
-    blocks = [f"===== {t.label} ({t.role}) {t.time} =====\n{t.text}\n" for t in exchange.turns]
+    blocks = [f"===== {t.label} ({t.role}){' ' + t.time if t.time else ''} =====\n{t.text}\n" for t in exchange.turns]
     return f"TITLE: {exchange.title}\n\n" + "\n".join(blocks)
 
 
