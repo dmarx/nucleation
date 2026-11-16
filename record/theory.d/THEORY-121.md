@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmjijs
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-05'
@@ -40,6 +40,10 @@ history:
     over alternatives, so a larger reachable set does not make a more
     responsible agent". First application of the bounds relation
     (ADR-094). No other change.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Santoni de Sio and van den Hoven (LIT-tmpqyqtw) read on 2026-11-16, NOTE-tmpmsqcj. No change of status or title.
 tags:
 - free-will
 - agency
@@ -292,3 +296,6 @@ refute it.
   work of another" may be fully responsible. Fischer & Ravizza's history
   condition, taking responsibility, denies it.
 
+## Note of 2026-11-16: Santoni de Sio and van den Hoven, read
+
+The paper applies Fischer and Ravizza's guidance control, reasons-responsiveness and ownership, to systems of humans and machines, recasting the first as tracking (after Nozick) and the second as tracing. It takes no position on the theory "as a theory of responsibility", only as "a very promising starting" point for control over autonomous systems.

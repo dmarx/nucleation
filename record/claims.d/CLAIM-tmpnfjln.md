@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, and because compensation that prevents failure leaves little trace while its lapse is seen, the organization is credited with outcomes its members'' compensating effort produced and those members are blamed for failures its conditions produced'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Ozer, Waggoner and Kennedy (LIT-tmpq41d3) read on 2026-11-16, NOTE-tmp57m8y. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -142,3 +147,7 @@ A17 §8 lists three ways the frameworks go wrong:
   blame isn't established."
 - **What Elish and Tronto say.** Both are registered unread (Elish, [LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md); Tronto, [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md) and [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md)); the readings
   are A's report.
+
+## Note of 2026-11-16: Ozer, Waggoner and Kennedy, read
+
+The claim's "What it does not say" cites this study, through A19 §9, as evidence against the strong form of the automation thesis. The reading confirms that and sharpens it. In pre-registered vignettes on three US samples, a judge who followed an algorithm's advice before a release that ended in a death was not blamed less than one who decided alone: respondents "did blame the algorithms for the mistake under the agreement" condition, "but this did not reduce the culpability assigned to the judge." Blame rose slightly ("place 9% more blame upon the judge"), mostly because respondents thought she should have used her own judgment. So the visible decision-maker kept the blame, which is consistent with the claim's "blame where failure becomes visible" but does not test it: the design has no organization, no upstream control over her conditions and no compensating effort. The study bounds the claim's automation corollary; it neither supports nor weakens the organizational mechanism. The authors stress the effects are small and fade in the third sample.

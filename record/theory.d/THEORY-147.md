@@ -17,7 +17,12 @@ promote_when: >-
   work on real psychopathy alone, since the case is avowedly a
   philosopher's construction.
 title: 'Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Zeiser (LIT-tmp4n5g5) read on 2026-11-16, NOTE-tmp8qrd6. No change of status or title.
 tags:
 - free-will
 - moral-psychology
@@ -114,3 +119,7 @@ Wolf argues it in a lecture, in three steps.
   [THEORY-139](THEORY-139.md)) it separates two questions the essay could keep apart:
   accountability, and fitness for resentment or admiration. That
   application is the record's, not Wolf's.
+
+## Note of 2026-11-16: Zeiser, read
+
+Zeiser draws the same distinction, from Watson and Shoemaker rather than Wolf, and applies it to AI decision support. He supports the separability of attributability and accountability with cases, not their independence as Wolf argues it; he says "all three facets– even if closely related– can reasonably be distinguished", and takes no side on whether accountability is attributability plus control.

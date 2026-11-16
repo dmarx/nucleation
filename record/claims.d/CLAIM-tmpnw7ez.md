@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
@@ -11,6 +11,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Mazinani and O'Connor (LIT-tmpyysa4) read on 2026-11-16, NOTE-tmp51qsq. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Santoni de Sio and van den Hoven (LIT-tmpqyqtw) read on 2026-11-16, NOTE-tmpmsqcj. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -133,3 +137,7 @@ The LIT registered this experiment as bearing on the claim. Read, it does not. I
 ## Note of 2026-11-16: Mazinani and O'Connor, read
 
 The paper affirms the claim's first-order half: responsibility for an act "lies with the person who commits it". It is silent on whether a partner who structures the conditions also answers for it. Its relationship-context markers ("controlling behavior (r=0.30), and greater perpetrator power within the relationship (r=0.18)") are associations with the controlling partner's own perpetration, not with the other partner's. Relation: none.
+
+## Note of 2026-11-16: Santoni de Sio and van den Hoven, read
+
+Santoni de Sio and van den Hoven (2018, LIT-tmpqyqtw, NOTE-tmpmsqcj) support the claim's first half from outside the exchange. Their tracing condition carries responsibility from the agent who acts to whoever shaped the conditions of the act: in Kamm's reading of Jim and the captain, the threat "originates with (and therefore the responsibility traces back to)" the captain, because "The captain is the choice architect, who" "creates Jim’s dilemma in which there are only tragic choices to" be made (p. 8); and those in a system's design and maintenance carry "their second-order responsibility for the first-order responsibility" of the operator (p. 9). They qualify the claim's second half. Where the operator's conditions fail through no fault of hers, "the pilot may not be responsible for an accident" and responsibility "may trace back to other agents upstream": tracing here relocates responsibility rather than adding a second bearer. The paper does not take up cases in which both answer, which the claim asserts are possible; nor does it ask whether the structuring was wrongful.

@@ -1,14 +1,20 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §2; A19 reading list. No lawful copy has been sought yet.
+  Read 2026-11-16 in full from the published version (CC BY 4.0) via Europe
+  PMC full-text XML (PMC11189344),
+  https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11189344/fullTextXML.
 title: 'Owning Decisions: AI Decision-Support and the Attributability-Gap'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2024-06-18 (online (Crossref)).
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Read in full from Europe PMC's full-text XML of the CC BY published version; the PMC PDF link returned a proof-of-work bot check and was not used. A reader's draft, verified by the filer. Status Deferred to Active. Its bearing on CLAIM-tmpnfjln, assigned at registration, is not borne out: the paper concerns the decision-maker's authorship, not the distribution of blame.
 tags:
 - philosophy-of-technology
 - ethics
@@ -20,8 +26,18 @@ first_author: 'Zeiser'
 keywords: []
 implementations: []
 summary: >-
-  Zeiser (2024). Owning Decisions: AI Decision-Support and the Attributability-Gap. Science and Engineering Ethics 30(4). DOI 10.1007/s11948-024-00485-1. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A19 §2; A19 reading list) on responsibility and blame in algorithmic decision-making: AI decision support can open an attributability gap: decisions the human does not own. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). What the exchange says of it is unverified until read.
+  Zeiser (2024). Owning Decisions: AI Decision-Support and the
+  Attributability-Gap. Science and Engineering Ethics 30(4): 27. DOI
+  10.1007/s11948-024-00485-1. Argues, with Watson's and Shoemaker's
+  accountability, attributability and answerability, that AI decision support
+  threatens responsibility chiefly as attributability: a decision made with a
+  tool that presupposes outcome-shaping values the user has not endorsed is
+  hers in name but does not express her value-judgements. The gap comes in
+  degrees and descriptive tools open it too; remedies are endorsement through
+  transparency, value calibration and confining tools to description. Read;
+  the reading is NOTE-tmp8qrd6 and THEORY-tmp4z0a7.
 ---
+<!-- inactive-ok-file: QUESTION-068 THEORY-147 THEORY-tmp4z0a7 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmp4n5g5: Owning Decisions: AI Decision-Support and the Attributability-Gap
@@ -34,4 +50,19 @@ Zeiser (2024). *Owning Decisions: AI Decision-Support and the Attributability-Ga
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A19 §2; A19 reading list, on responsibility and blame in algorithmic decision-making. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). Not read.
+Read. It bears on QUESTION-068 (ownership and accountability come apart)
+and sits beside THEORY-147. It does not bear on CLAIM-tmpnfjln, to which it
+was attached at registration.
+
+## Reading of 2026-11-16
+
+Read in full. The paper is conceptual. It separates "who is to blame?",
+"who made the decision?" and "who is in a position justify this
+decision?" and argues decision support threatens the second:
+"Attributability-gaps occur when a human decision-maker uses a
+decision-tool that presupposes values that have a significant influence on
+the outcome of the decision and that they haven’t endorsed as their own
+values." Descriptive tools are not exempt, since "descriptive AI systems
+also don’t provide neutral, value-free information". The exchange (A19 §2)
+reports the distinction accurately; its doctor example and its tie to
+responsibility for structuring others' conditions are A's own.

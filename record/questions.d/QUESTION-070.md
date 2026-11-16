@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp9psjx
 title: 'When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-14'
@@ -38,6 +38,10 @@ history:
     "What the record holds" now names the THEORYs filed from the two
     cases' own readings, THEORY-627 (LIT-179) and THEORY-659
     (LIT-084). Neither answers the question.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Rubel, Castro and Pham (LIT-tmpjp4qh) read on 2026-11-16, NOTE-tmpw5xe2. No change of status or title.
 tags:
 - social-ontology
 - ethics
@@ -154,3 +158,7 @@ exploitation, or harm without a wrongdoer.
 From the reading in [NOTE-1792](../notes.d/NOTE-1792.md) ([LIT-2425](../literature.d/LIT-2425.md)), the reader's assessment as
 checked by the filer: Brown's Netflix example (racial targeting as "a
 non-intentional emergent effect" of engagement optimization) is an instance.
+
+## Note of 2026-11-16: Rubel, Castro and Pham, read
+
+For a firm whose automated system enabled racist ad targeting, the chapter holds that the firm's role responsibility "is not reducible to any particular individual developer", and that if collective responsibility does reduce to members', then those "individuals have laundered their agency." (§7.3). So on its account the wrong of laundering does not need a member who intends it. It leaves the inadvertent case open: "can a person who uses a tool to make decisions launder their agency" without intending to (p. 161). It does not address manipulation, the question's subject.
