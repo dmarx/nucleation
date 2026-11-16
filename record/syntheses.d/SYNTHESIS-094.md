@@ -3,7 +3,14 @@ number: 94
 status: Proposed
 formerly:
 - SYNTHESIS-tmpvdeqh
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-tmpbthzh,
+    2026-11-15): the line's account is now built over this part and
+    one sibling, and the introduction says so. No other change.
 title: "The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart"
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of
@@ -64,6 +71,7 @@ summary: >-
   mechanism matters, with a specimen. The account adds nothing of its own;
   its standing is its components'.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh SYNTHESIS-091 — Proposed; the split of organizational-normativity, and the sibling part account, cited at version 2 -->
 <!-- inactive-ok-file: CLAIM-511 SYNTHESIS-038 SYNTHESIS-056 THEORY-1561 — Proposed; the line's account, the account that integrates this part's members again, and citations -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-662 CLAIM-663 CLAIM-445 CASE-228 CASE-229 CASE-246 CASE-247 CASE-249 ARG-055 ARG-058 ARG-059 ARG-062 ARG-063 ARG-064 ARG-092 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-070 — Deferred; a component, set aside -->
@@ -71,7 +79,7 @@ summary: >-
 
 # SYNTHESIS-094: The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
 
-*A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and three sibling parts. Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
+*A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-091](SYNTHESIS-091.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)). Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
 
 ## The account
 

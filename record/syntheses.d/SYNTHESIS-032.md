@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmprhzl8
 title: 'Transient support can be withdrawn safely only under conditions the record states jointly in one claim: supply that does the upkeep never becomes optional, supply that does the party''s work lowers the capacity it keeps and, where capacity is needed to grow capacity, has a deadline after which withdrawal does not restore it, a savings buffer is a stock of time, and a capability lost to reliable supply is dependency or division of labour by who supplies it; most of the line''s questions are replications of the readings it rests on'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-10'
@@ -47,6 +47,14 @@ history:
     components list names them. CLAIM-675 and QUESTION-462, filed on
     2026-11-13 and also on this line, are left out with a reason given
     there. No other change.
+- version: 7
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-tmpbthzh,
+    2026-11-15): CLAIM-669, CLAIM-670, CLAIM-671 and CLAIM-673 now
+    have dependence-and-domination as their first line, and the
+    account says so where it states their lines. No other change. The
+    section across to them is renamed for their line.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the transient-support line left out without a reason given; or a link this account states that no component
@@ -100,6 +108,7 @@ integrates:
 - CLAIM-671
 - CLAIM-673
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-673 CLAIM-675 SYNTHESIS-092 SYNTHESIS-093 — Proposed; components and citations added at version 6, with their standing -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CLAIM-632 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
@@ -230,7 +239,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 - [CLAIM-669](../claims.d/CLAIM-669.md) and [CLAIM-670](../claims.d/CLAIM-670.md), A's; thesis, interpretive, Proposed. [CLAIM-671](../claims.d/CLAIM-671.md),
   the owner's proposition; supposed, interpretive, Proposed. [CLAIM-673](../claims.d/CLAIM-673.md),
   A's; thesis, interpretive, Proposed. All four have
-  organizational-normativity first; added at version 6.
+  dependence-and-domination first (organizational-normativity until [ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)); added at version 6.
 
 ## Links the components state, and where
 
@@ -254,9 +263,10 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
   and [CLAIM-604](../claims.d/CLAIM-604.md)'s models and [CLAIM-600](../claims.d/CLAIM-600.md)'s three conditions as answers in
   part.
 
-## Across to organizational-normativity
+## Across to dependence-and-domination
 
-Added at version 6. Four claims of the organizational-normativity line
+Added at version 6, under organizational-normativity; since its split
+([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)), the line is dependence-and-domination. Four claims of that line
 carry transient-support second; that line's part accounts set them out
 in full ([SYNTHESIS-092](SYNTHESIS-092.md), [SYNTHESIS-093](SYNTHESIS-093.md)). Each link here is a
 front-matter relation of the entry named first, unless a body is cited.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpvvtbk
 title: 'An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members'' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -28,6 +28,13 @@ history:
     organizational-normativity first, and that line's part accounts,
     SYNTHESIS-094 and SYNTHESIS-092, set them out too. The
     introduction's counts of pairs are version 2's. No other change.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-tmpbthzh,
+    2026-11-15): QUESTION-461 and CASE-257 now have
+    dependence-and-domination as their first line, and the account
+    says so where it states their lines. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the distributed-agency line on perspectives, legibility
@@ -120,6 +127,7 @@ integrates:
 - CASE-247
 - CASE-257
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-662 CASE-246 CASE-247 CASE-257 SYNTHESIS-094 SYNTHESIS-092 — Proposed; components and citations added at version 3, with their standing -->
 <!-- inactive-ok-file: QUESTION-253 — Answered; cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ARG-025 ARG-048 ARG-055 ARG-063 ARG-064 ARG-066 ARG-073 CASE-163 CASE-164 CASE-166 CASE-173 CASE-177 CASE-194 CASE-221 CASE-222 CASE-223 CASE-228 CASE-229 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-327 CLAIM-329 CLAIM-332 CLAIM-336 CLAIM-355 CLAIM-415 CLAIM-417 CLAIM-423 CLAIM-430 CLAIM-432 CLAIM-440 CLAIM-445 CLAIM-446 CLAIM-451 CLAIM-472 CLAIM-511 CLAIM-545 CLAIM-553 CLAIM-610 CLAIM-611 CLAIM-614 CLAIM-615 CLAIM-619 CLAIM-620 CLAIM-622 CLAIM-624 SYNTHESIS-020 SYNTHESIS-025 SYNTHESIS-035 SYNTHESIS-038 SYNTHESIS-039 SYNTHESIS-041 SYNTHESIS-044 TERM-063 TERM-080 TERM-081 TERM-083 TERM-086 THEORY-916 — Proposed; components and citations, with their standing -->
@@ -343,7 +351,7 @@ includes distributed-agency.*
 ### Becoming less informed, and dependence that does not become authority
 
 Added at version 3. Each component is also in organizational-normativity,
-and [SYNTHESIS-094](SYNTHESIS-094.md) or [SYNTHESIS-092](SYNTHESIS-092.md) sets it out there.
+or since its split ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)) in dependence-and-domination, and [SYNTHESIS-094](SYNTHESIS-094.md) or [SYNTHESIS-092](SYNTHESIS-092.md) sets it out there.
 
 - **Two routes to being less informed.** [CLAIM-652](../claims.d/CLAIM-652.md) (the assistant's,
   accepted by the owner on 2026-11-12; thesis, demonstrated, Proposed;
@@ -377,14 +385,14 @@ and [SYNTHESIS-094](SYNTHESIS-094.md) or [SYNTHESIS-092](SYNTHESIS-092.md) sets 
   [CLAIM-522](../claims.d/CLAIM-522.md) and bears on [QUESTION-449](../questions.d/QUESTION-449.md): a compiler Trojan reproduced by the
   host's own compiling and hidden from it.
 - **Contribution without authority.** [QUESTION-461](../questions.d/QUESTION-461.md) (A's, "About Plantation
-  Paradise"; Open; first line organizational-normativity) asks when an
+  Paradise"; Open; first line dependence-and-domination) asks when an
   organization's dependence on participants it subordinates increases
   their effective authority, and when it reproduces the arrangements that
   keep their contributions from becoming effective claims. Its body cites
   [CLAIM-403](../claims.d/CLAIM-403.md) ("Admission is not authority"), [CLAIM-614](../claims.d/CLAIM-614.md), [CLAIM-624](../claims.d/CLAIM-624.md) and
   [CLAIM-619](../claims.d/CLAIM-619.md). [CASE-257](../cases.d/CASE-257.md) (the Saint-Domingue theatres, as A reported them;
   specimen, documented as reported, Proposed; first line
-  organizational-normativity) bears on it and illustrates [CLAIM-403](../claims.d/CLAIM-403.md),
+  dependence-and-domination) bears on it and illustrates [CLAIM-403](../claims.d/CLAIM-403.md),
   [CLAIM-348](../claims.d/CLAIM-348.md) and [CLAIM-546](../claims.d/CLAIM-546.md), and leaves the mechanism that kept the
   contributors from standing as an interpretation for [QUESTION-461](../questions.d/QUESTION-461.md) to
   test.
@@ -475,9 +483,10 @@ and [SYNTHESIS-094](SYNTHESIS-094.md) or [SYNTHESIS-092](SYNTHESIS-092.md) sets 
 - [CASE-246](../cases.d/CASE-246.md), the assistant's construction, stipulated, Proposed; [CASE-247](../cases.d/CASE-247.md),
   A's thought experiment, stipulated, Proposed; [CASE-257](../cases.d/CASE-257.md), specimen,
   documented as reported, Proposed; [CASE-232](../cases.d/CASE-232.md), specimen, stipulated,
-  Active. All but [CASE-247](../cases.d/CASE-247.md) first in organizational-normativity.
-- [QUESTION-456](../questions.d/QUESTION-456.md) and [QUESTION-461](../questions.d/QUESTION-461.md), A's, Open; first line
-  organizational-normativity.
+  Active. [CASE-246](../cases.d/CASE-246.md) and [CASE-232](../cases.d/CASE-232.md) first in organizational-normativity,
+  [CASE-257](../cases.d/CASE-257.md) in dependence-and-domination.
+- [QUESTION-456](../questions.d/QUESTION-456.md), A's, Open; first line organizational-normativity.
+  [QUESTION-461](../questions.d/QUESTION-461.md), A's, Open; first line dependence-and-domination.
 - [CLAIM-620](../claims.d/CLAIM-620.md), A's integration; thesis, interpretive, Proposed; first line
   pragmatic-transport; bears on [QUESTION-439](../questions.d/QUESTION-439.md) and [QUESTION-360](../questions.d/QUESTION-360.md).
 - [CASE-110](../cases.d/CASE-110.md), [CASE-111](../cases.d/CASE-111.md) and [CASE-132](../cases.d/CASE-132.md), constructions or thought-experiments,
