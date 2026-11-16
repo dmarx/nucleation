@@ -6023,4 +6023,741 @@ Dong, "The Kinetics of Training" ([LIT-2006](record/literature.d/LIT-2006.md)), 
 - Yang and Abanin (2025), "Integrals of motion as slow modes in dissipative many-body operator dynamics", read in full at the owner's request. It is the record's first work on open quantum many-body dynamics, and comes with two THEORYs, one Active and one Proposed.
 - Dated notes on [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-331](record/claims.d/CLAIM-331.md) and [CLAIM-394](record/claims.d/CLAIM-394.md), on what slowness marks and how weak noise and operator growth make a separation of time scales. A curation entry records the reading.
 
+<!-- inactive-ok-file: CASE-258 — Proposed; the assistant's executed study, filed in this contribution -->
+### Added
+
+- Sun et al. (2026, PNAS), *Phase transition in a dryland shrub–grass
+  ecosystem*: [LIT-2546](record/literature.d/LIT-2546.md), read in full ([NOTE-1903](record/notes.d/NOTE-1903.md)) from the copy the
+  owner supplied, with [THEORY-1825](record/theory.d/THEORY-1825.md) on the kernel model's bistable
+  shrub-to-grass switch, Active after the authors' code was rerun. Dated
+  notes on [QUESTION-281](record/questions.d/QUESTION-281.md) and [THEORY-1315](record/theory.d/THEORY-1315.md).
+- [CASE-258](record/cases.d/CASE-258.md), an executed rerun of the paper's fairy-circle scenario:
+  the rings come from the kernel contraction imposed by hand, and grass
+  erodes them.
+
+<!-- inactive-ok-file: THEORY-1831 — Proposed; the THEORY this contribution files -->
+### Added
+
+- Martinez-Garcia et al. (2023), *Integrating theory and experiments to
+  link local mechanisms and ecosystem-level consequences of vegetation
+  patterns in drylands*: [LIT-2548](record/literature.d/LIT-2548.md), read in full ([NOTE-1906](record/notes.d/NOTE-1906.md)), with a
+  Proposed [THEORY-1831](record/theory.d/THEORY-1831.md). Pattern does not identify mechanism:
+  competition-only and scale-dependent-feedback models give the same
+  patterns and different collapses. Dated note on [THEORY-543](record/theory.d/THEORY-543.md).
+
+<!-- inactive-ok-file: THEORY-1834 — Proposed; the THEORY this contribution files -->
+### Added
+
+- Zelnik, Meron & Bel (2015), *Gradual regime shifts in fairy circles*:
+  [LIT-2550](record/literature.d/LIT-2550.md), read in full ([NOTE-1909](record/notes.d/NOTE-1909.md)), with a Proposed
+  [THEORY-1834](record/theory.d/THEORY-1834.md). In a model of Namibian fairy-circle grassland, stable
+  hybrid mosaics make regime shifts gradual. Dated notes on [QUESTION-281](record/questions.d/QUESTION-281.md)
+  and [THEORY-136](record/theory.d/THEORY-136.md).
+
+<!-- inactive-ok-file: CASE-260 CASE-259 CLAIM-672 — Proposed; the cases and claim this contribution files -->
+### Added
+
+- [CASE-260](record/cases.d/CASE-260.md), a Game of Life construction for [QUESTION-281](record/questions.d/QUESTION-281.md), at the
+  owner's suggestion. In one two-glider collision a block is made and
+  destroyed, and a later block lasts. A lone block is a fixed point with
+  no role. Each block of Gosper's glider gun is needed by the gun and is
+  rebuilt by it every 30 generations. Dated note on [QUESTION-281](record/questions.d/QUESTION-281.md).
+- [CASE-259](record/cases.d/CASE-259.md), the eater: a fixed point alone, self-repairing after one
+  lane of glider strike, and self-repairing every 30 generations across
+  a gun's stream.
+- [CLAIM-672](record/claims.d/CLAIM-672.md), argued by an existence ARG from the two cases: how a
+  form is kept in being is not fixed by the form, and a constitutive role
+  can change it.
+
+### Added
+
+- Tu (2026), *Nonequilibrium Thermodynamics for Biochemical Networks*:
+  [LIT-2547](record/literature.d/LIT-2547.md), read in full ([NOTE-1904](record/notes.d/NOTE-1904.md)) from the copy the owner
+  supplied, with [THEORY-1830](record/theory.d/THEORY-1830.md) (Active). Dissipation lets kinetics set a
+  network's steady state, and adaptation's dissipation, speed and
+  accuracy obey an energy–speed–accuracy relation, checked numerically on
+  filing. Dated notes on [QUESTION-452](record/questions.d/QUESTION-452.md) and [THEORY-1268](record/theory.d/THEORY-1268.md).
+
+<!-- inactive-ok-file: THEORY-1828 — Proposed; the THEORY this contribution files -->
+### Added
+
+- Liang et al. (2026), *MuEdit*: [LIT-2554](record/literature.d/LIT-2554.md), read in full
+  ([NOTE-1911](record/notes.d/NOTE-1911.md)), with [THEORY-1828](record/theory.d/THEORY-1828.md) (Proposed). Preserving several
+  domains confines an LLM edit to the intersection of their null spaces,
+  which the authors make the cause of multi-domain editing collapse.
+  Filed for the account, not the method ([ADR-048](record/decisions.d/ADR-048.md)).
+
+### Added
+
+- Belrose et al. (2023), *LEACE: Perfect linear concept erasure in closed
+  form*: [LIT-2551](record/literature.d/LIT-2551.md), read in full ([NOTE-1912](record/notes.d/NOTE-1912.md)), with [THEORY-1827](record/theory.d/THEORY-1827.md)
+  (Active, theorems checked numerically on filing). Dated note on
+  [THEORY-281](record/theory.d/THEORY-281.md).
+
+<!-- inactive-ok-file: THEORY-1829 — Proposed; the THEORY this contribution files -->
+### Added
+
+- Fang et al. (2025), *AlphaEdit*: [LIT-2555](record/literature.d/LIT-2555.md), read ([NOTE-1908](record/notes.d/NOTE-1908.md)),
+  with [THEORY-1829](record/theory.d/THEORY-1829.md) (Proposed). Projecting edits onto the null space
+  of preserved keys, in practice a numerical null space (eigenvalues at
+  most 10⁻²), sustains sequential editing where MEMIT and ROME degrade.
+
+<!-- inactive-ok-file: THEORY-1826 — Proposed; the THEORY this contribution files -->
+### Added
+
+- Ma et al. (2025), *Perturbation-Restrained Sequential Model Editing*
+  (PRUNE): [LIT-2552](record/literature.d/LIT-2552.md), read in full ([NOTE-1910](record/notes.d/NOTE-1910.md)), with [THEORY-1826](record/theory.d/THEORY-1826.md)
+  (Proposed). Sequential editing's damage is tied to the edited matrix's
+  rising condition number, by a bound and a correlation.
+
+<!-- inactive-ok-file: THEORY-1832 — Proposed; the THEORY this contribution files -->
+### Added
+
+- Kang et al. (2026), *Prompt-Activation Duality*: [LIT-2549](record/literature.d/LIT-2549.md), read
+  ([NOTE-1905](record/notes.d/NOTE-1905.md)), with [THEORY-1832](record/theory.d/THEORY-1832.md) (Proposed). Residual persona
+  steering degrades multi-turn coherence partly through steered states
+  reused from the KV cache; attention-level, prompt-derived steering
+  largely avoids it.
+
+<!-- inactive-ok-file: THEORY-1833 — Proposed; the THEORY this contribution files -->
+### Added
+
+- Andrieu et al. (2026), *Provable State Estimation with Recurrent
+  Models*: [LIT-2553](record/literature.d/LIT-2553.md), read ([NOTE-1907](record/notes.d/NOTE-1907.md)), with [THEORY-1833](record/theory.d/THEORY-1833.md)
+  (Proposed). A contracting recurrent estimator is a nonlinear KKL
+  observer whose error a gain makes as small as wanted, at a cost in
+  decoder size and noise.
+
+### Changed
+
+- Two line accounts revised, each as version 2, for the entries [ADR-085](record/decisions.d/ADR-085.md)'s sweep brought into their lines:
+  - [SYNTHESIS-015](record/syntheses.d/SYNTHESIS-015.md), nucleating-argument's costs part, integrates [CLAIM-315](record/claims.d/CLAIM-315.md) and [QUESTION-323](record/questions.d/QUESTION-323.md), on anchoring's accessibility step, and [QUESTION-095](record/questions.d/QUESTION-095.md), on filing as amortized computation. Two links between them and the part's components are listed as not stated.
+  - [SYNTHESIS-017](record/syntheses.d/SYNTHESIS-017.md), records-of-inquiry, integrates [CLAIM-181](record/claims.d/CLAIM-181.md), the objection that the record's closed grammar limits what [CLAIM-178](record/claims.d/CLAIM-178.md)'s check can see, and redoes its count of pairs.
+
+### Added
+
+- [ADR-096](record/decisions.d/ADR-096.md) (Proposed): a demonstrated claim whose argument rests on an explicit construction carries it as a construction case, by `grounds` with an existence ARG when the construction is the proof, by `illustrates` when it instances a general proof; taken up at a claim's next filing or review, not swept. From the owner's instruction at U5 of "Identify Synthesis Opportunities", filed as the assistant's idea at the owner's request.
+- Its first application: [CLAIM-571](record/claims.d/CLAIM-571.md)'s barrier example as [CASE-233](record/cases.d/CASE-233.md), grounding the claim with [ARG-077](record/arguments.d/ARG-077.md); [CASE-198](record/cases.d/CASE-198.md) and [CASE-200](record/cases.d/CASE-200.md) now name it by `variant_of`.
+
+### Added
+
+- [ADR-094](record/decisions.d/ADR-094.md): `bounds`, a reading that marks the limit of a claim's scope, with `bounded_by` derived on the claim; the readings view counts it as use, and the reading-review and read-and-file skills say when to write it. First application: of 124 claim-reading pairs where a claim cited a reading only as a limit, 91 now carry `bounds` and 2 `corroborates`.
+
+### Added
+
+- A case can bear on a question ([ADR-092](record/decisions.d/ADR-092.md)): CASE carries `bears_on`, and a question's `bearing` lists cases beside claims and readings. Twelve cases that name the question they serve now carry it, among them [CASE-232](record/cases.d/CASE-232.md) on [QUESTION-449](record/questions.d/QUESTION-449.md).
+
+### Changed
+
+- The ChatGPT share decoder (`scratch/tools/chatgpt_share.py`) reads the
+  share-page format seen on 2026-11-15, which carries the transcript as one
+  `octane-conversation-transcript` JSON script instead of a turbo-stream
+  payload. The old format still decodes. The new format drops the text of
+  inline links from an assistant turn, so the decoder lists each turn's
+  links, in order, at the end of the turn instead of guessing where they
+  went. The new format carries no turn times.
+
+### Added
+
+- `scratch/tools/chatgpt_share.py` decodes a saved ChatGPT share page into the verbatim exchange the record files from. It writes the shared branch only, as numbered U and A turns, and stops with an error and prints nothing if the page format has changed. Its tests are in `scratch/tools/test_chatgpt_share.py`. Run on this session's two shares, it gives the same text as the earlier ad hoc decoder.
+
+### Changed
+
+- Step 1 of the `read-and-file` skill says how to fetch a share link with curl and decode it.
+
+### Changed
+
+- The current-account view sets out each account once. A part account is nested under the account that integrates it, in place of a row in that account's table, and no longer appears again as a section of its own. Each line's sections now follow the line account's order, not code order. An account with no `summary` no longer prints "None".
+
+### Fixed
+
+- Defects the synthesis review of 2026-11-11 (curation entry 015730) found in the realizability and will-organization lines, each change with a version bump and a history note:
+  - stale summaries: [CLAIM-607](record/claims.d/CLAIM-607.md) is Active, not "Proposed while both readings are"; [CLAIM-089](record/claims.d/CLAIM-089.md) is Rejected, answered by [CLAIM-482](record/claims.d/CLAIM-482.md); [CLAIM-163](record/claims.d/CLAIM-163.md) is Superseded by [ARG-016](record/arguments.d/ARG-016.md), not "Open";
+  - [CLAIM-576](record/claims.d/CLAIM-576.md)'s body no longer draws from [CLAIM-583](record/claims.d/CLAIM-583.md) that the state space is not enough, which its own note of 2026-11-06 denies; the paragraph now says the compatibility complex is not enough;
+  - [CLAIM-545](record/claims.d/CLAIM-545.md) regains its two notes of 2026-11-06, which its correction (b) cites and the restoration of 2026-11-08 had dropped;
+  - [CLAIM-594](record/claims.d/CLAIM-594.md) loses a duplicated "No status changes.";
+  - without a bump: [CLAIM-631](record/claims.d/CLAIM-631.md)'s leftover template comment, and [SYNTHESIS-003](record/syntheses.d/SYNTHESIS-003.md)'s directive comments, which gave [ADR-076](record/decisions.d/ADR-076.md), [CLAIM-611](record/claims.d/CLAIM-611.md) and [SYNTHESIS-001](record/syntheses.d/SYNTHESIS-001.md) the wrong status.
+- Reviewed and left, with reasons in the commit message: the lines of [CLAIM-616](record/claims.d/CLAIM-616.md), [ARG-072](record/arguments.d/ARG-072.md) and [CASE-225](record/cases.d/CASE-225.md); [SYNTHESIS-010](record/syntheses.d/SYNTHESIS-010.md)'s readiness ([ADR-087](record/decisions.d/ADR-087.md) keeps it) and [SYNTHESIS-003](record/syntheses.d/SYNTHESIS-003.md)'s pointer to [SYNTHESIS-001](record/syntheses.d/SYNTHESIS-001.md); the relations of [CLAIM-609](record/claims.d/CLAIM-609.md), [CASE-214](record/cases.d/CASE-214.md), [CASE-195](record/cases.d/CASE-195.md) and [QUESTION-407](record/questions.d/QUESTION-407.md). [CLAIM-534](record/claims.d/CLAIM-534.md) is the owner's.
+
+### Fixed
+
+- Defects the synthesis reviews of 2026-11-11 found in distributed-agency, pragmatic-transport and formal-apparatus (curation entries 030317, 041205 and 061331), each change with a version bump and a history note:
+  - stale text: summaries and notes left after the return from SYNTHESIS ([CLAIM-336](record/claims.d/CLAIM-336.md), [CLAIM-474](record/claims.d/CLAIM-474.md), [CLAIM-610](record/claims.d/CLAIM-610.md), [CLAIM-611](record/claims.d/CLAIM-611.md), [CLAIM-615](record/claims.d/CLAIM-615.md), [CLAIM-624](record/claims.d/CLAIM-624.md)), stale standing and "unread" works, and quotes of versions since changed;
+  - the Superseded [CLAIM-115](record/claims.d/CLAIM-115.md), [CLAIM-139](record/claims.d/CLAIM-139.md) and [CLAIM-427](record/claims.d/CLAIM-427.md) no longer treated as current: comments corrected across the record, [CASE-031](record/cases.d/CASE-031.md) repointed to [CLAIM-220](record/claims.d/CLAIM-220.md), and citations of [CLAIM-427](record/claims.d/CLAIM-427.md) attributed to [ARG-025](record/arguments.d/ARG-025.md);
+  - misstatements, among them [CLAIM-335](record/claims.d/CLAIM-335.md)'s "twice" (half), [CLAIM-521](record/claims.d/CLAIM-521.md)'s missing case code and [CLAIM-610](record/claims.d/CLAIM-610.md)'s misquoted title;
+  - [CLAIM-614](record/claims.d/CLAIM-614.md), [CLAIM-624](record/claims.d/CLAIM-624.md) and [QUESTION-441](record/questions.d/QUESTION-441.md) take organizational-normativity first, as their companions do;
+  - misplaced fields, self-referential `formerly` lists and leftover template comments;
+  - about forty missing relations, each supported by the text of the entries it joins.
+- Left for the owner, with reasons in the commit messages: [TERM-060](record/terms.d/TERM-060.md)'s definition, [CLAIM-336](record/claims.d/CLAIM-336.md)'s table, [CLAIM-341](record/claims.d/CLAIM-341.md)'s synchronic and diachronic forms, [ARG-033](record/arguments.d/ARG-033.md)'s and [ARG-029](record/arguments.d/ARG-029.md)'s conclusions, [CLAIM-616](record/claims.d/CLAIM-616.md)'s lines, and relations no field can carry (a case to a question).
+
+### Changed
+
+- Status: [QUESTION-059](record/questions.d/QUESTION-059.md) and [QUESTION-061](record/questions.d/QUESTION-061.md) Deferred to Open, and [CLAIM-003](record/claims.d/CLAIM-003.md) Deferred to Proposed. Each was Deferred only with the organizational-affect line, which the owner reopened on 2026-10-23, the reason [QUESTION-044](record/questions.d/QUESTION-044.md) went Open; none gives a reason of its own to stay Deferred.
+- [CLAIM-355](record/claims.d/CLAIM-355.md) now rests on [CLAIM-039](record/claims.d/CLAIM-039.md). Its body withheld the edge only because [CLAIM-039](record/claims.d/CLAIM-039.md) was Deferred, and [CLAIM-039](record/claims.d/CLAIM-039.md) has been Proposed since 2026-10-23.
+
+### Fixed
+
+The defect sweep requested by the owner after the synthesis reviews of 2026-11-10 (curation entries 213353 and 232608). Each change to an entry carries a version bump and a history note.
+
+- Defects the synthesis review of 2026-11-10 (curation entry 213353) found in the organizational-affect and evidence-for-experience lines:
+  - [CLAIM-039](record/claims.d/CLAIM-039.md) called Deferred in [CLAIM-355](record/claims.d/CLAIM-355.md), [QUESTION-053](record/questions.d/QUESTION-053.md), [QUESTION-048](record/questions.d/QUESTION-048.md) and [QUESTION-059](record/questions.d/QUESTION-059.md), and the same line called set aside in [QUESTION-122](record/questions.d/QUESTION-122.md);
+  - [CLAIM-432](record/claims.d/CLAIM-432.md) and [CLAIM-442](record/claims.d/CLAIM-442.md) each get a note of 2026-11-11 stating how they disagree about remorse in [CASE-151](record/cases.d/CASE-151.md), on claims or on grants. [CLAIM-432](record/claims.d/CLAIM-432.md)'s also says that its reading of the cross-sell potential predates [CLAIM-440](record/claims.d/CLAIM-440.md)'s admission condition;
+  - [CLAIM-442](record/claims.d/CLAIM-442.md) credits the identification of conflict with the gap to [CLAIM-484](record/claims.d/CLAIM-484.md), not [CLAIM-283](record/claims.d/CLAIM-283.md), and notes its tension with [CLAIM-437](record/claims.d/CLAIM-437.md) over a perspective's valence;
+  - [CLAIM-451](record/claims.d/CLAIM-451.md)'s narrowing of ambivalence is stated in [CLAIM-440](record/claims.d/CLAIM-440.md)'s consequence 4 and in [TERM-076](record/terms.d/TERM-076.md);
+  - [CLAIM-438](record/claims.d/CLAIM-438.md)'s "Conceded" section no longer calls it Active;
+  - [CLAIM-439](record/claims.d/CLAIM-439.md)'s defeaters now say what counts as a mark of felt affect, in the access sense the claim adopts;
+  - [ARG-018](record/arguments.d/ARG-018.md) cites [CLAIM-412](record/claims.d/CLAIM-412.md)'s title as it stood before the version 6 split;
+  - the directives of [CLAIM-412](record/claims.d/CLAIM-412.md) and [CLAIM-413](record/claims.d/CLAIM-413.md) call [LIT-1343](record/literature.d/LIT-1343.md) and [LIT-1350](record/literature.d/LIT-1350.md) Unavailable;
+  - [TERM-072](record/terms.d/TERM-072.md) and [TERM-073](record/terms.d/TERM-073.md) record their adoption of 2026-10-29.
+- Defects reported by the synthesis reviews of 2026-11-10 (the curation entries 213353 and 232608), each with a version bump and a history note:
+  - Stale text in the authenticity entries. [CASE-129](record/cases.d/CASE-129.md) now says its quiet-signal point is the one on which [CLAIM-364](record/claims.d/CLAIM-364.md) undercuts [ARG-030](record/arguments.d/ARG-030.md), where the verdict moved in the split of 2026-10-28. [CLAIM-016](record/claims.d/CLAIM-016.md) gains a corrective note: its note of 2026-10-18 meant that the manipulation defeater is still outstanding, not that it "is not met". [CASE-128](record/cases.d/CASE-128.md) no longer sets itself against [CLAIM-362](record/claims.d/CLAIM-362.md), which already admits warranted override; it says it adds the agent's own earlier authorization as a warrant, read from history.
+  - Missing relations: [CLAIM-104](record/claims.d/CLAIM-104.md) bears on [QUESTION-007](record/questions.d/QUESTION-007.md), and [QUESTION-068](record/questions.d/QUESTION-068.md) refines [QUESTION-011](record/questions.d/QUESTION-011.md).
+  - `line` fields. [CASE-024](record/cases.d/CASE-024.md) gains distributed-agency, [CASE-128](record/cases.d/CASE-128.md) and [CASE-129](record/cases.d/CASE-129.md) gain will-organization, [CASE-226](record/cases.d/CASE-226.md) gains pragmatic-transport, and [QUESTION-160](record/questions.d/QUESTION-160.md) refines [QUESTION-025](record/questions.d/QUESTION-025.md) and gains pragmatic-transport ([ADR-085](record/decisions.d/ADR-085.md)). [CLAIM-555](record/claims.d/CLAIM-555.md) drops will-organization, which no relation supplied and its text does not argue. The other entries reviewed keep their lines; the reasons are in the commit message.
+- Defects listed in the synthesis review of 2026-11-10 (curation entry of that date), readiness and learned-structure, apart from the `line` fields and [CLAIM-600](record/claims.d/CLAIM-600.md)'s admission case:
+  - stale self-descriptions on [CLAIM-600](record/claims.d/CLAIM-600.md), [CLAIM-632](record/claims.d/CLAIM-632.md) and [CLAIM-620](record/claims.d/CLAIM-620.md), which returned to CLAIM on 2026-11-08, and [CLAIM-620](record/claims.d/CLAIM-620.md)'s account of what [CASE-226](record/cases.d/CASE-226.md) tests;
+  - [CASE-193](record/cases.d/CASE-193.md)'s title and summary, now matching its own table (singularity varies apart from compatibility, λ does not), and its mistaken "now superseded" for [CLAIM-305](record/claims.d/CLAIM-305.md);
+  - [CASE-210](record/cases.d/CASE-210.md)'s directive, [CASE-213](record/cases.d/CASE-213.md)'s summary, [CLAIM-558](record/claims.d/CLAIM-558.md)'s note on [CLAIM-602](record/claims.d/CLAIM-602.md), [TERM-106](record/terms.d/TERM-106.md)'s resolved hold, [CLAIM-598](record/claims.d/CLAIM-598.md)'s literal `\n` and [QUESTION-398](record/questions.d/QUESTION-398.md)'s closing lines;
+  - a dated note on [QUESTION-127](record/questions.d/QUESTION-127.md) recording [CLAIM-629](record/claims.d/CLAIM-629.md) and [CLAIM-555](record/claims.d/CLAIM-555.md) as partial answers; it stays Open under [ADR-049](record/decisions.d/ADR-049.md);
+  - relations the entries' own text supports: [CLAIM-577](record/claims.d/CLAIM-577.md) bears on [QUESTION-386](record/questions.d/QUESTION-386.md), [CLAIM-263](record/claims.d/CLAIM-263.md) on [QUESTION-069](record/questions.d/QUESTION-069.md), [CLAIM-360](record/claims.d/CLAIM-360.md) on [QUESTION-039](record/questions.d/QUESTION-039.md), [CLAIM-382](record/claims.d/CLAIM-382.md) on [QUESTION-058](record/questions.d/QUESTION-058.md), and [QUESTION-217](record/questions.d/QUESTION-217.md) refines [QUESTION-039](record/questions.d/QUESTION-039.md).
+- Follow-ups to the reopening: [SYNTHESIS-022](record/syntheses.d/SYNTHESIS-022.md) (version 2) gives [CLAIM-003](record/claims.d/CLAIM-003.md), [QUESTION-059](record/questions.d/QUESTION-059.md) and [QUESTION-061](record/questions.d/QUESTION-061.md) as reopened, and the directives of [SYNTHESIS-018](record/syntheses.d/SYNTHESIS-018.md), [SYNTHESIS-019](record/syntheses.d/SYNTHESIS-019.md), [SYNTHESIS-021](record/syntheses.d/SYNTHESIS-021.md) and [CASE-033](record/cases.d/CASE-033.md) no longer call them Deferred. [SYNTHESIS-021](record/syntheses.d/SYNTHESIS-021.md) (version 2) and [CLAIM-039](record/claims.d/CLAIM-039.md)'s summary (version 4) state [CLAIM-355](record/claims.d/CLAIM-355.md)'s new premise. [SYNTHESIS-032](record/syntheses.d/SYNTHESIS-032.md) (version 3) gives [CASE-225](record/cases.d/CASE-225.md)'s lines after the split of readiness.
+
+### Added
+
+- [ADR-095](record/decisions.d/ADR-095.md): `draws_on`, from a case or a term to a reading it uses other than as its source, with `drawn_on_by` derived on the reading; the readings view counts it as use, and the reading-review and read-and-file skills say when to write it. First application: of 308 citations of readings by cases and terms, 242 now carry `draws_on`.
+
+### Added
+
+- The exchange "Explain String Theory" (2026-11-15), filed: strings as
+  solitons of a continuous field, and A's proposal of a soliton testbed
+  for the record's distinctions. Nielsen & Olesen (1973), [LIT-2613](record/literature.d/LIT-2613.md), and
+  Hasimoto (1972), [LIT-2611](record/literature.d/LIT-2611.md), registered Unavailable, with read
+  neighbours Czubak & Jerrard (2012; [LIT-2610](record/literature.d/LIT-2610.md), [NOTE-1950](record/notes.d/NOTE-1950.md),
+  [THEORY-1869](record/theory.d/THEORY-1869.md)) and Van Gorder (2014; [LIT-2612](record/literature.d/LIT-2612.md), [NOTE-1951](record/notes.d/NOTE-1951.md),
+  [THEORY-1868](record/theory.d/THEORY-1868.md)). A's claim that a topological charge individuates a
+  kind, not a token ([CLAIM-694](record/claims.d/CLAIM-694.md), on [CASE-266](record/cases.d/CASE-266.md)), with [ARG-111](record/arguments.d/ARG-111.md)
+  on how far [THEORY-1507](record/theory.d/THEORY-1507.md) carries [CLAIM-606](record/claims.d/CLAIM-606.md)'s topological row; a
+  mutual-maintenance construction ([CASE-265](record/cases.d/CASE-265.md)) and the proposed
+  testbed ([CASE-269](record/cases.d/CASE-269.md)), with numbers rechecked in
+  scratch/formal/soliton_testbed_checks.py. Dated notes on [CLAIM-606](record/claims.d/CLAIM-606.md),
+  [CLAIM-522](record/claims.d/CLAIM-522.md), [QUESTION-397](record/questions.d/QUESTION-397.md), [QUESTION-438](record/questions.d/QUESTION-438.md) and [QUESTION-219](record/questions.d/QUESTION-219.md). The assistant's
+  own ideas, filed at the owner's request: a ladder of outside maintainers
+  ([CLAIM-693](record/claims.d/CLAIM-693.md), on [CASE-268](record/cases.d/CASE-268.md)), an executed run of the pinned kink
+  ([CASE-267](record/cases.d/CASE-267.md)), a question on nested individuals ([QUESTION-469](record/questions.d/QUESTION-469.md)),
+  and a section on [CLAIM-694](record/claims.d/CLAIM-694.md) saying the coupling, not the charge,
+  sets how many cores carry it.
+
+<!-- inactive-ok-file: CLAIM-690 CASE-264 ARG-110 TERM-123 TERM-124 — filed in this contribution, Proposed -->
+<!-- inactive-ok-file: CLAIM-428 CLAIM-545 CLAIM-671 — Proposed; the held entries these join or annotate -->
+<!-- inactive-ok-file: LIT-2531 until 2027-02-13 — Unavailable; Goodin, ranked first in the reading priority; ask again whether a lawful copy has appeared -->
+<!-- inactive-ok-file: LIT-2535 until 2027-02-13 — Unavailable; Goodin, the article, ranked in the reading priority; ask again whether a lawful copy has appeared -->
+<!-- inactive-ok-file: LIT-2522 until 2027-02-13 — Unavailable; Alicea, ranked in the reading priority; ask again whether a lawful copy has appeared -->
+<!-- inactive-ok-file: LIT-2516 until 2027-02-13 — Unavailable; Prest 2023, ranked in the reading priority; ask again whether a lawful copy has appeared -->
+### Added
+
+- The step-12 ideas of the filing of "About Plantation Paradise" ([#488](https://github.com/dmarx/nucleation/issues/488)),
+  filed at the owner's request of 2026-11-13 ("file the still unfiled
+  stuff"), in the assistant's voice and Proposed (curation entry of
+  2026-11-13, 170256):
+  - a question on how the record identifies exploitation: what separates
+    it from dependence and from domination, which declared standard
+    supplies the verdict, and who answers for it when the arrangement is
+    not an agent ([QUESTION-468](record/questions.d/QUESTION-468.md));
+  - a claim that, whichever way a whole and its part depend on each
+    other, control over the terms sorts the dependence and magnitude and
+    integration set only how much rides on it ([CLAIM-690](record/claims.d/CLAIM-690.md)), resting on
+    [CLAIM-428](record/claims.d/CLAIM-428.md) and grounded in a fictional case of two workshops equal in
+    dependence and different in control ([CASE-264](record/cases.d/CASE-264.md)), with its
+    argument ([ARG-110](record/arguments.d/ARG-110.md));
+  - proposed terms for exploitation ([TERM-123](record/terms.d/TERM-123.md)) and domination
+    ([TERM-124](record/terms.d/TERM-124.md)), each relative to a standard declared with the
+    judgment.
+
+### Documentation
+
+- A reading priority for the works [#488](https://github.com/dmarx/nucleation/issues/488) left unread, as dated notes on
+  them: Goodin first ([LIT-2531](record/literature.d/LIT-2531.md), [LIT-2535](record/literature.d/LIT-2535.md)), for [CLAIM-671](record/claims.d/CLAIM-671.md)'s supposition;
+  then Seamster and Charron-Chénier, already read, and Alicea ([LIT-2525](record/literature.d/LIT-2525.md),
+  [LIT-2522](record/literature.d/LIT-2522.md)); then Prest 2023 ([LIT-2516](record/literature.d/LIT-2516.md)). Dated notes on [CLAIM-545](record/claims.d/CLAIM-545.md) and
+  [CLAIM-546](record/claims.d/CLAIM-546.md) point to the proposed terms.
+
+### Added
+
+- The exchange "Meaning Transmission Explained" (2026-11-07), filed. The
+  curation entry of 2026-11-12 (020028) has the full account.
+  - The owner's cases: a smoke detector that sets off sprinklers in an
+    empty building ([CASE-243](record/cases.d/CASE-243.md)), and the debugger's silent test
+    ([CASE-240](record/cases.d/CASE-240.md)).
+  - The owner's claim that an absence under an intervention with an
+    expected profile means the mechanism under test is broken
+    ([CLAIM-649](record/claims.d/CLAIM-649.md)), and the ARG from the case to it ([ARG-085](record/arguments.d/ARG-085.md)).
+  - A's claim that an absence registers only for an apparatus that keeps
+    the expectation and times out ([CLAIM-651](record/claims.d/CLAIM-651.md)).
+  - A's fire-alarm construction, with its numbers recomputed
+    ([CASE-242](record/cases.d/CASE-242.md)).
+- [THEORY-1646](record/theory.d/THEORY-1646.md), for the reading of Kolchinsky and Wolpert
+  ([NOTE-1370](record/notes.d/NOTE-1370.md)), which had no THEORY.
+
+- The assistant's four ideas, filed at the owner's acceptance:
+  - [CLAIM-650](record/claims.d/CLAIM-650.md) and [ARG-082](record/arguments.d/ARG-082.md): Grice's factivity test and the false
+    alarm's borrowed norm.
+  - [CLAIM-648](record/claims.d/CLAIM-648.md), [CASE-241](record/cases.d/CASE-241.md) and [ARG-083](record/arguments.d/ARG-083.md): Bickhard's
+    self-set profile, with a two-profile forager construction.
+  - Notes on [QUESTION-285](record/questions.d/QUESTION-285.md) (a cross-line account, and the ruling it needs)
+    and on [CLAIM-632](record/claims.d/CLAIM-632.md) and [CASE-242](record/cases.d/CASE-242.md) (the alarm chain as readiness).
+
+- At the review of [#483](https://github.com/dmarx/nucleation/issues/483) the owner relayed on 2026-11-12: [ARG-084](record/arguments.d/ARG-084.md)
+  (the factive reading under a validated guarantee), [CASE-238](record/cases.d/CASE-238.md) (the
+  fail-safe relay), [ARG-081](record/arguments.d/ARG-081.md) (Rejected: non-factivity to intentional
+  origin) and [CASE-239](record/cases.d/CASE-239.md) (a proposed study of an adaptive forager).
+
+### Changed
+
+- Fifteen dated notes of 2026-11-12 on the entries the exchange bears on,
+  [QUESTION-285](record/questions.d/QUESTION-285.md) and [QUESTION-128](record/questions.d/QUESTION-128.md) among them.
+- [THEORY-220](record/theory.d/THEORY-220.md) bears on [QUESTION-128](record/questions.d/QUESTION-128.md) (version 5).
+- Revised at that review: [CLAIM-649](record/claims.d/CLAIM-649.md) (defeasible and factive
+  readings), [CLAIM-651](record/claims.d/CLAIM-651.md) (narrowed to bounded non-response) and
+  [CLAIM-650](record/claims.d/CLAIM-650.md) (correctness kept apart from the source of the norm),
+  with [ARG-085](record/arguments.d/ARG-085.md), [ARG-082](record/arguments.d/ARG-082.md), [ARG-083](record/arguments.d/ARG-083.md), [CASE-240](record/cases.d/CASE-240.md),
+  [CASE-242](record/cases.d/CASE-242.md) and the notes on [THEORY-444](record/theory.d/THEORY-444.md), [QUESTION-285](record/questions.d/QUESTION-285.md) and
+  [QUESTION-128](record/questions.d/QUESTION-128.md).
+
+### Added
+
+- The exchange "Identify Synthesis Opportunities" (2026-11-08) filed; the curation entry of 2026-11-12 (015626) maps A's plan and draft accounts, none ever committed, against the accounts the record's own synthesis reviews filed since, which reached nearly the same partitions. A's provisional codes in the exchange now name other entries.
+- The owner's case of keeping a character consistent by a trained LoRA or by reference conditioning, with the earlier model generations of the same choice ([CASE-235](record/cases.d/CASE-235.md)), and A's proposed study of the crossover ([CASE-234](record/cases.d/CASE-234.md)), both bearing on [QUESTION-095](record/questions.d/QUESTION-095.md). The Reddit thread redirected to a login page and was not read; the case is `stipulated`.
+- A's two constructions as cases, at the owner's instruction that claims resting on constructions be connected to cases ([CASE-237](record/cases.d/CASE-237.md), illustrating [CLAIM-632](record/claims.d/CLAIM-632.md); [CASE-236](record/cases.d/CASE-236.md)), and A's claim that peak-capacity thresholds do not fix cumulative transition costs ([CLAIM-646](record/claims.d/CLAIM-646.md)) with its ARG ([ARG-078](record/arguments.d/ARG-078.md)).
+- Seven works on character identity in image generation registered Deferred, unread: IP-Adapter, InstantID, PhotoMaker, FLUX.1 Kontext, DreamBooth, Textual Inversion and LoRA.
+- Dated notes on [CLAIM-581](record/claims.d/CLAIM-581.md), [CLAIM-632](record/claims.d/CLAIM-632.md) and [QUESTION-095](record/questions.d/QUESTION-095.md).
+- The assistant's ideas, filed at the owner's request: a staleness term for learned specializations whose base model is replaced ([CLAIM-647](record/claims.d/CLAIM-647.md), on [QUESTION-095](record/questions.d/QUESTION-095.md)), and the comparative readiness criterion, which restates [CLAIM-632](record/claims.d/CLAIM-632.md) and is a note there.
+- The seven registered works read (NOTEs and Proposed THEORYs; LITs Active); [CLAIM-647](record/claims.d/CLAIM-647.md)'s ground moved from IP-Adapter's reading, which carries less than it was cited for ([ARG-080](record/arguments.d/ARG-080.md), Rejected), to LoRA's ([ARG-079](record/arguments.d/ARG-079.md)); [THEORY-439](record/theory.d/THEORY-439.md) now bears on [QUESTION-095](record/questions.d/QUESTION-095.md).
+
+### Changed
+
+- At the owner's review of dmarx/nucleation#482: [CLAIM-647](record/claims.d/CLAIM-647.md) (version 3) says a base-model replacement *can* impose a compatibility or transfer cost that shortens a learned specialization's useful life, and leaves how often to evidence; [ARG-079](record/arguments.d/ARG-079.md) is weakened to match; [ARG-080](record/arguments.d/ARG-080.md) is retitled as the positive inference it rejects; [CASE-234](record/cases.d/CASE-234.md)'s crossover allows an up-front cost on the reference route, n* = (F_train − F_ref)/(c_ref − c_train), and counts cost per acceptable output, retries included. [CASE-235](record/cases.d/CASE-235.md) no longer lists the seven method papers as where the case was reported; it draws on their readings instead.
+
+<!-- inactive-ok-file: CLAIM-603 — Proposed; the claim the proposed test would decide -->
+<!-- inactive-ok-file: TERM-120 TERM-121 CLAIM-688 CLAIM-687 CLAIM-681 CLAIM-673 CLAIM-678 CLAIM-679 CLAIM-686 CASE-263 CASE-261 — filed on 2026-11-13 from the remaining items of the exchange and the filer's ideas, Proposed -->
+<!-- inactive-ok-file: CLAIM-677 CLAIM-682 CLAIM-675 CLAIM-685 CLAIM-684 TERM-122 CASE-262 ARG-104 ARG-105 ARG-109 ARG-108 THEORY-1853 THEORY-1861 — filed from the exchange "Analyze technological civilization trap" (2026-11-13) or its readings, Proposed -->
+<!-- inactive-ok-file: NOTE-1921 — filed from the readings of 2026-11-13, Skimmed -->
+<!-- inactive-ok-file: TERM-012 — Deferred; the term the new definition rivals -->
+<!-- inactive-ok-file: ADR-098 ADR-099 — Proposed; the decisions that add the topic and the line -->
+<!-- inactive-ok-file: NOTE-1948 — Skimmed; Lanier, the publisher's excerpt -->
+<!-- inactive-ok-file: ARG-103 ARG-107 THEORY-1841 THEORY-1846 CLAIM-656 CLAIM-674 CLAIM-689 CLAIM-680 CLAIM-683 CLAIM-676 QUESTION-465 ARG-106 ARG-102 — filed from the stand-ins of 2026-11-13 or the readings before them, Proposed -->
+### Added
+
+- The exchange "Analyze technological civilization trap" (2026-11-13)
+  filed, from the verbatim export (curation entry of 2026-11-13,
+  072318). The exchange was not on the record before. Most of its bridge
+  to the record was already held; most of A's synthesis, "Convivial
+  Modernity", rests on authors the record has not read and is left for a
+  reading pass.
+  - A's claims, all Proposed: a technology can become practically
+    compulsory for those who decline it, with freedom measured by what
+    remains open to a non-adopter ([CLAIM-677](record/claims.d/CLAIM-677.md)); a threshold at which
+    a dependence becomes domination ([CLAIM-682](record/claims.d/CLAIM-682.md)); capability assessed
+    as a trajectory, derived in the capability-trap model
+    ([CLAIM-675](record/claims.d/CLAIM-675.md)); a prediction that institutions able to revise their
+    own standards fail less where those standards are inadequate
+    ([CLAIM-685](record/claims.d/CLAIM-685.md)); and a burden of justification that rises with
+    irreversibility ([CLAIM-684](record/claims.d/CLAIM-684.md)).
+  - At the owner's U13, a rival definition of cross-scale concordance,
+    relative to declared parties and claims ([TERM-122](record/terms.d/TERM-122.md)), beside the
+    Deferred [TERM-012](record/terms.d/TERM-012.md).
+  - A proposed study of substitutive against capacity-first assistance in
+    learning a skill ([CASE-262](record/cases.d/CASE-262.md)).
+  - One ARG: Arthur's lock-in supports the first claim only for its
+    infrastructural mechanism ([ARG-104](record/arguments.d/ARG-104.md)).
+  - Twenty-three dated notes on the entries the exchange read, crediting
+    to the owner what the exchange credited to the record.
+  - Twenty-seven cited works registered unread as Deferred LITs, among
+    them Ellul, Illich, Mumford, Marcuse, Postman, Han, Rosa, Feenberg,
+    Wolf's Meaning in Life and Why It Matters and three books by Sen.
+  - The filer's own suggestions went to the owner and were not filed.
+- The readings of 2026-11-13 for the same exchange: of the 27 registered
+  works, 8 read in part (Skimmed), 18 Unavailable (one, Kaczynski, not
+  sought by design) and read where possible through stand-ins, and 1
+  Unfetched; 21 stand-ins registered; NOTEs and THEORYs for each
+  reading; two ARGs ([ARG-105](record/arguments.d/ARG-105.md), [ARG-109](record/arguments.d/ARG-109.md)). The domination threshold
+  ([CLAIM-682](record/claims.d/CLAIM-682.md)) is narrowed to domination by an arrangement's
+  controllers; the claims on compulsion and capability trajectories are
+  corroborated; corrections in the curation entry.
+- The readings of 2026-11-13 after the owner's ruling on the whole-book
+  copies ("the copies are fine"): Marcuse's One-Dimensional Man read in
+  full ([NOTE-1924](record/notes.d/NOTE-1924.md), [THEORY-1853](record/theory.d/THEORY-1853.md)) and Illich's Tools for
+  Conviviality read as a two-page excerpt, the whole book Unfetched
+  ([NOTE-1921](record/notes.d/NOTE-1921.md), [THEORY-1861](record/theory.d/THEORY-1861.md)); both LITs Active. Marcuse's place in
+  the domination threshold is restated, controllers who choose a veiled
+  project rather than constraint no one holds ([ARG-109](record/arguments.d/ARG-109.md), version 2);
+  his mixed support for the compulsion claim is argued in [ARG-108](record/arguments.d/ARG-108.md);
+  three of the Farr stand-in's attributions are corrected; dated notes on
+  the claims and questions the books bear on.
+- Stand-ins of 2026-11-13, at the owner's request to "look for adjacent
+  stand ins for unreachable/unfetched work": six neighbours registered
+  and read, each with a NOTE and a THEORY: Crawford's 2017 interview and
+  Dijkema's review for The World Beyond Your Head ([LIT-2556](record/literature.d/LIT-2556.md),
+  [LIT-2595](record/literature.d/LIT-2595.md)), Winner's "Do Artifacts Have Politics?" for The Myth of
+  the Machine ([LIT-2585](record/literature.d/LIT-2585.md)), Vallor's CyCon 2013 paper and her Noema
+  essay for her deskilling paper and The AI Mirror ([LIT-2575](record/literature.d/LIT-2575.md),
+  [LIT-2597](record/literature.d/LIT-2597.md)), and Illich's Energy and Equity for what the excerpt of
+  Tools for Conviviality does not reach ([LIT-2569](record/literature.d/LIT-2569.md)). You Are Not a
+  Gadget read in its publisher's excerpt and made Active ([NOTE-1948](record/notes.d/NOTE-1948.md),
+  [THEORY-1846](record/theory.d/THEORY-1846.md)). Two ARGs: Winner supports the irreversibility
+  burden's premise, not its rule ([ARG-103](record/arguments.d/ARG-103.md)); Energy and Equity
+  qualifies "without any rule" in the compulsion claim, the exclusion
+  being enforced by gatekeepers and law ([ARG-107](record/arguments.d/ARG-107.md)). Dated notes on
+  the four claims, [CLAIM-656](record/claims.d/CLAIM-656.md), Feenberg's [THEORY-1841](record/theory.d/THEORY-1841.md) and [THEORY-1522](record/theory.d/THEORY-1522.md).
+  Mitcham's paper on Tools for Conviviality located and Unfetched.
+- The branch's entries tagged `philosophy-of-technology` ([ADR-098](record/decisions.d/ADR-098.md), its
+  second application): first where technology is the whole subject (35:
+  Ellul, Illich, Mumford, Postman, Morozov, Kate Crawford, Feenberg,
+  Vallor's deskilling paper and The AI Mirror with its review, Hui,
+  Lanier, Kelly, Kaczynski, Crawford on attention, their readings, the
+  compulsion claim and the Arthur ARG), after the existing topics where
+  it is a major part (28: Marcuse, Han's psychopolitics, Rosa's
+  acceleration, Shop Class, Zuboff, Benjamin's Race After Technology,
+  Moen, Cayley, their readings, three claims, the proposed study and two
+  ARGs). Sen, Wolf, Gardner, Susen, Han's Burnout Society and Benjamin's
+  Imagination are not tagged. No tag dropped; entries with a history take
+  a version note.
+- A's "Convivial Modernity" programme filed on the new line
+  flourishing-and-meaning ([ADR-099](record/decisions.d/ADR-099.md)), at the owner's request: five of A's
+  claims, all Proposed (satisfying preferences need not leave lives going
+  better, [CLAIM-674](record/claims.d/CLAIM-674.md); a want's origin is not its worth,
+  [CLAIM-689](record/claims.d/CLAIM-689.md); worth judged fallibly licenses cultivation, not
+  imposition, [CLAIM-680](record/claims.d/CLAIM-680.md); the industrialization of meaning,
+  [CLAIM-683](record/claims.d/CLAIM-683.md); assistance judged by the participation it leaves,
+  [CLAIM-676](record/claims.d/CLAIM-676.md)), A's integrating standard as a question
+  ([QUESTION-465](record/questions.d/QUESTION-465.md)), and two ARGs on how far Wolf, Marcuse and Illich
+  carry them ([ARG-106](record/arguments.d/ARG-106.md), [ARG-102](record/arguments.d/ARG-102.md)). [CLAIM-675](record/claims.d/CLAIM-675.md), [CLAIM-677](record/claims.d/CLAIM-677.md),
+  [ARG-105](record/arguments.d/ARG-105.md) and [ARG-108](record/arguments.d/ARG-108.md) take the line beside their own. Wolf's
+  meaning and Sen's agency freedom are held as readings and mapped.
+  The curation entry's "What was left" now says what is filed.
+- The rest of the exchange's unfiled items, at the owner's word ("file
+  the still unfiled stuff"), all A's and Proposed: two terms
+  (value-constituting limit, [TERM-120](record/terms.d/TERM-120.md); cultural reflexivity,
+  [TERM-121](record/terms.d/TERM-121.md)); six claims (restraint bounded by competition,
+  [CLAIM-688](record/claims.d/CLAIM-688.md); accountability rising with indispensability,
+  [CLAIM-687](record/claims.d/CLAIM-687.md); time as a limit on substantive freedom, [CLAIM-681](record/claims.d/CLAIM-681.md);
+  an arrangement eroding the capacity to govern it, [CLAIM-673](record/claims.d/CLAIM-673.md); three
+  separable dimensions of power over a technology, [CLAIM-678](record/claims.d/CLAIM-678.md);
+  efficiency against reconfiguration, demonstrated from [CLAIM-571](record/claims.d/CLAIM-571.md),
+  [CLAIM-679](record/claims.d/CLAIM-679.md)); three questions (what fixes "emergent purpose
+  divergence", [QUESTION-464](record/questions.d/QUESTION-464.md); what makes "constitutive exploitation"
+  unjust, [QUESTION-463](record/questions.d/QUESTION-463.md); whether capability gains can be made
+  self-reinforcing, [QUESTION-462](record/questions.d/QUESTION-462.md)); and two cases (regressive progress,
+  [CASE-263](record/cases.d/CASE-263.md); the hospital network, [CASE-261](record/cases.d/CASE-261.md)). The exchange's
+  recaps of its standard are mapped in a note on [QUESTION-465](record/questions.d/QUESTION-465.md); the
+  curation entry's "What was left" says what each item became. U1 and the
+  thinkers named without a work stay unfiled.
+- The filer's own ideas 2–4, the assistant's and Proposed: the domination
+  threshold's third condition checked against [CLAIM-523](record/claims.d/CLAIM-523.md), which covers its
+  voice and not its exit ([CLAIM-686](record/claims.d/CLAIM-686.md), demonstrated); [CLAIM-605](record/claims.d/CLAIM-605.md)'s model
+  run against the reversibility principle, gradual on entry and abrupt on
+  exit, with a new script, scratch/formal/capability_trap_reversibility.py
+  (notes on [CLAIM-605](record/claims.d/CLAIM-605.md) and [CLAIM-684](record/claims.d/CLAIM-684.md)); and a proposed test of [CLAIM-603](record/claims.d/CLAIM-603.md)
+  by the capability trajectory under withdrawal (note on [CLAIM-603](record/claims.d/CLAIM-603.md)).
+- [CLAIM-683](record/claims.d/CLAIM-683.md) narrowed to version 2 at the owner's request on PR [#489](https://github.com/dmarx/nucleation/issues/489): the industrialization of meaning holds only when measured meaningfulness becomes a target shaping participants' incentives or self-understanding; the four mechanisms it ran together are separated.
+
+### Documentation
+
+- Filed 60 works cited in a shared ChatGPT conversation as `Deferred` LITs, "filed, not read", with identifiers checked against Crossref, the arXiv API or page metadata. Two works already held ([LIT-729](record/literature.d/LIT-729.md), [LIT-1213](record/literature.d/LIT-1213.md)) were not refiled. Details and open gaps are in the curation entry for 2026-11-10.
+
+### Added
+
+- [ADR-086](record/decisions.d/ADR-086.md) (Proposed): `integrates` gets a derived converse, `integrated_by` ("Accounted for in"). It is declared in `luria.yaml` on CLAIM, TERM, CASE, THEORY, QUESTION, ARG and SYNTHESIS, so each entry's page lists the accounts that integrate it. No entry is edited. On the record of 2026-11-10 it annotates 163 entries.
+
+### Added
+
+- The line `flourishing-and-meaning`, "Flourishing and meaning in life" ([ADR-099](record/decisions.d/ADR-099.md)): what makes a life go well and be meaningful, from Wolf's meaning in life and Sen's capability and agency freedom to basic needs, self-realization under a proxy for its good, and how arrangements and technologies widen or narrow the lives open to people. The owner asked for it after the filing of "Analyze technological civilization trap" (pull request [#489](https://github.com/dmarx/nucleation/issues/489)) left A's "Convivial Modernity" programme unfiled for want of a line. The decision quotes and bounds it against authenticity, will-organization, organizational-normativity, transient-support, evidence-for-experience and distributed-agency. First applied beside their own lines to [QUESTION-369](record/questions.d/QUESTION-369.md), on what makes an experience a basic need, and [CLAIM-352](record/claims.d/CLAIM-352.md), on Sen's two aspects of freedom. The line starts thin, and the decision names [#489](https://github.com/dmarx/nucleation/issues/489)'s programme as its next application.
+
+### Changed
+
+- [ADR-085](record/decisions.d/ADR-085.md) version 2: an entry takes the first line of each entry it answers, objects to or bears on, and of each question it refines. The rule is applied in one step. A line the target carries second does not pass, nothing cascades, and a term that refines a term takes no line.
+- The record-wide sweep under that rule:
+  - 35 entries gain 36 lines, each with a version bump and a history note naming the relation and the entry whose first line it is.
+  - [CLAIM-611](record/claims.d/CLAIM-611.md) no longer carries formal-apparatus, and [CLAIM-621](record/claims.d/CLAIM-621.md) carries learned-structure in place of distributed-agency. The first sweep, [ADR-085](record/decisions.d/ADR-085.md)'s demonstration in [#447](https://github.com/dmarx/nucleation/issues/447), had given them lines that their questions carry second.
+  - [CLAIM-534](record/claims.d/CLAIM-534.md) is left out. Its `bears_on` [QUESTION-255](record/questions.d/QUESTION-255.md) marks what it does not claim, and the fix is for the owner.
+
+### Added
+
+- [ADR-085](record/decisions.d/ADR-085.md) (Proposed): an entry carries every line whose argument it takes part in, meaning a line it answers, refines, objects to or bears on through one of that line's entries. Resting on or using another line's entry is a dependency, still reported as a crossing, and `complements` alone adds no line. [ADR-082](record/decisions.d/ADR-082.md)'s rule for the nucleating-argument split is this rule applied to a split.
+
+### Changed
+
+- Eleven claims that bear on a question of another line now carry that line, each with a history note: [CLAIM-532](record/claims.d/CLAIM-532.md), 544, 549, 553, 554, 586, 611, 613, 615, 619 and 621. This clears 12 of the 79 `rests_on` crossings the lint reported; the other 67 are dependencies across lines.
+
+### Added
+
+- The exchange "luria experiment design" (2026-11-10), filed beyond its cited works, which the earlier entry of 2026-11-10 registered: three of the owner's questions on luria, whether coupling schema change to governance distinguishes it and does work ([QUESTION-458](record/questions.d/QUESTION-458.md)), whether a shared governed record moves distributed evidence into judgement ([QUESTION-459](record/questions.d/QUESTION-459.md)) and whether a collective keeping one can improve its improver without losing correctability ([QUESTION-457](record/questions.d/QUESTION-457.md)); A's term for a shared epistemic state ([TERM-119](record/terms.d/TERM-119.md)); four of A's claims ([CLAIM-668](record/claims.d/CLAIM-668.md), [CLAIM-666](record/claims.d/CLAIM-666.md), [CLAIM-667](record/claims.d/CLAIM-667.md) from the synthesis audit, [CLAIM-664](record/claims.d/CLAIM-664.md)); four proposed studies ([CASE-253](record/cases.d/CASE-253.md), [CASE-252](record/cases.d/CASE-252.md), [CASE-255](record/cases.d/CASE-255.md), [CASE-254](record/cases.d/CASE-254.md)); two ARGs ([ARG-097](record/arguments.d/ARG-097.md), [ARG-096](record/arguments.d/ARG-096.md)); an account of the program ([SYNTHESIS-090](record/syntheses.d/SYNTHESIS-090.md)); dated notes on twenty-three entries; and thirty-three more cited works registered unread. The anthology triage the exchange began with is left to the anthology. Curation entry of 2026-11-12.
+- The filer's own ideas from that filing, accepted by the owner: a proposed study of curation completeness ([CASE-251](record/cases.d/CASE-251.md)); a count of the grammar misfits recent filings report, run and noted on [CLAIM-419](record/claims.d/CLAIM-419.md); a reading of Halpern and Moses ([THEORY-1732](record/theory.d/THEORY-1732.md)), on which [ARG-097](record/arguments.d/ARG-097.md) and [CLAIM-668](record/claims.d/CLAIM-668.md) now ground; and a design proposal for the luria tool noted on [CLAIM-666](record/claims.d/CLAIM-666.md).
+- Readings of 2026-11-12 of the 92 works the filing touched, the 59 registered on 2026-11-10 ([LIT-2271](record/literature.d/LIT-2271.md) to [LIT-2330](record/literature.d/LIT-2330.md)) and the 33 it registered: 66 read and 10 skimmed, each with a NOTE and a THEORY; 10 Unavailable and 6 Unfetched, with every copy tried named; twelve neighbours registered and read in place of works not reached; Stojanovic et al. 2002 registered unread ([LIT-2514](record/literature.d/LIT-2514.md)). Dated notes on 56 entries, with `bears_on` and `draws_on` written ([ADR-093](record/decisions.d/ADR-093.md), [ADR-095](record/decisions.d/ADR-095.md)); A's descriptions of fourteen works corrected against the works, listed in the curation entry of 2026-11-12.
+
+### Changed
+
+- [CLAIM-664](record/claims.d/CLAIM-664.md), version 2: its impossibility half is stated for relations that record support of unrecorded strength, not for the sufficient justifications of a truth maintenance system, on the readings of de Kleer, Doyle and the Hearsay-II retrospective. [ARG-098](record/arguments.d/ARG-098.md) (Rejected): EvoOntology's gate ablation does not corroborate [CLAIM-667](record/claims.d/CLAIM-667.md). [CASE-186](record/cases.d/CASE-186.md) and [CASE-188](record/cases.d/CASE-188.md) correct two attributions of A's words to the works A cited.
+
+### Fixed
+
+- Seven reading THEORYs whose `promote_when` a filing script had emptied into the title get both back from the readers' drafts; [CLAIM-664](record/claims.d/CLAIM-664.md)'s heading matches its version-2 title; [THEORY-1788](record/theory.d/THEORY-1788.md) keeps `software-engineering` and COPE ([LIT-2479](record/literature.d/LIT-2479.md)) takes it, now that the word has joined the topics (dmarx/nucleation#487).
+- At the owner's review of [#484](https://github.com/dmarx/nucleation/issues/484) (2026-11-12): [CLAIM-667](record/claims.d/CLAIM-667.md), version 2, holds only the governance-by-modifiability interaction on tasks whose categories are inadequate; its routine-task prediction is filed apart as [CLAIM-665](record/claims.d/CLAIM-665.md), secondary and not resting on it; [CASE-253](record/cases.d/CASE-253.md), [ARG-098](record/arguments.d/ARG-098.md) and [SYNTHESIS-090](record/syntheses.d/SYNTHESIS-090.md) follow the split. [CASE-252](record/cases.d/CASE-252.md), version 2, adds HiddenBench's Secretary arm and a schema-shaped Secretary to its main table, says how its shared-notes arm differs from Secretary, and says what result would show a record wins only by doing Secretary's job better.
+
+### Added
+
+- The exchange "Medical Ethics and Media Enshitification" (2026-11-11), filed (curation entry of 2026-11-12). The owner's: microchimerism and graded individuality ([CLAIM-659](record/claims.d/CLAIM-659.md)), the parasite question and cases ([QUESTION-455](record/questions.d/QUESTION-455.md), [CASE-244](record/cases.d/CASE-244.md)), the drift of content industries toward their heaviest users ([CLAIM-653](record/claims.d/CLAIM-653.md)), loot boxes as its test ([CASE-248](record/cases.d/CASE-248.md)), its extension to news ([CLAIM-656](record/claims.d/CLAIM-656.md)) and the PASS@(k,T) link to resource-bounded realization ([CLAIM-663](record/claims.d/CLAIM-663.md)). A's, Proposed: [CLAIM-658](record/claims.d/CLAIM-658.md), [CLAIM-655](record/claims.d/CLAIM-655.md), [CLAIM-660](record/claims.d/CLAIM-660.md), [CLAIM-661](record/claims.d/CLAIM-661.md), [CLAIM-662](record/claims.d/CLAIM-662.md), [QUESTION-456](record/questions.d/QUESTION-456.md), [QUESTION-454](record/questions.d/QUESTION-454.md), [CASE-247](record/cases.d/CASE-247.md), [CASE-249](record/cases.d/CASE-249.md) and [CASE-250](record/cases.d/CASE-250.md). Five ARGs ([ARG-090](record/arguments.d/ARG-090.md), [ARG-087](record/arguments.d/ARG-087.md), [ARG-095](record/arguments.d/ARG-095.md), [ARG-091](record/arguments.d/ARG-091.md), [ARG-093](record/arguments.d/ARG-093.md)) and forty dated notes.
+- Three works read: the owner's Cincinnati Children's post on maternal microchimeric cells ([LIT-2428](record/literature.d/LIT-2428.md)), Chua and colleagues' survey of microchimerism biology as the stand-in for the owner's unread sources ([LIT-2415](record/literature.d/LIT-2415.md)), and the PASS@(k,T) paper ([LIT-2441](record/literature.d/LIT-2441.md)). Four Unfetched behind bot checks or a rate limit, and ninety-six works A cited registered unread.
+- The assistant's ideas from the same filing, accepted by the owner: exit-driven drift of a harmful practice under an honest complaint count ([CLAIM-652](record/claims.d/CLAIM-652.md), with the toy [CASE-246](record/cases.d/CASE-246.md)), the scope of [CLAIM-560](record/claims.d/CLAIM-560.md)'s monotonicity for budget-dependent processes ([CLAIM-654](record/claims.d/CLAIM-654.md), [CASE-245](record/cases.d/CASE-245.md)), two existence ARGs, and dated notes on [CLAIM-348](record/claims.d/CLAIM-348.md), [CLAIM-530](record/claims.d/CLAIM-530.md), [QUESTION-086](record/questions.d/QUESTION-086.md) and [QUESTION-454](record/questions.d/QUESTION-454.md).
+- The readings of 2026-11-12 (curation entry of 2026-11-12, "Readings of 2026-11-12"): 73 works and neighbours read or skimmed, each with a NOTE and a Proposed THEORY; 26 Unfetched and 13 Unavailable with their addresses and obstacles. Three ARGs weigh the readings against the heavy-user, news and parasite claims ([ARG-089](record/arguments.d/ARG-089.md), [ARG-088](record/arguments.d/ARG-088.md), [ARG-094](record/arguments.d/ARG-094.md)), and grounds that carried less move to corroboration.
+
+### Fixed
+
+- Two stand-in NOTEs no longer carry a code in their titles; six acknowledgements of Unavailable or Unfetched grounds now carry an `until` date, so whether the entries still hold is asked again.
+- The owner's review of [#485](https://github.com/dmarx/nucleation/issues/485) (2026-11-12): [CLAIM-662](record/claims.d/CLAIM-662.md) narrowed to conjunctive compliance and recognized violations, with the owner's table checked by enumeration; [CASE-245](record/cases.d/CASE-245.md)'s stochastic formula corrected, with a retry variant; and the owner's distinction between selective disappearance and costly discovery filed as [CLAIM-657](record/claims.d/CLAIM-657.md), bearing on [QUESTION-441](record/questions.d/QUESTION-441.md).
+
+### Added
+
+- An ARG weighing Eyerman's and Volkan's readings as evidence for [CLAIM-491](record/claims.d/CLAIM-491.md), proposing that they support it only for chosen trauma, and a CLAIM, grounded on Horsthemke, Costa et al. and Youssef et al., that no human design now in use separates the germline route of inherited trauma from the others (bearing on [QUESTION-297](record/questions.d/QUESTION-297.md)). Both Proposed, drafted for the owner.
+
+<!-- inactive-ok-file: ARG-100 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
+<!-- inactive-ok-file: ARG-099 — filed from the exchange "About Plantation Paradise" (2026-11-12), Rejected -->
+<!-- inactive-ok-file: CASE-257 CLAIM-669 CLAIM-671 CLAIM-670 CASE-256 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
+### Added
+
+- The exchange "About Plantation Paradise" (2026-11-12) filed, from the
+  verbatim export (curation entry of 2026-11-12, 204512). The exchange was
+  not on the record before.
+  - The owner's question what obligations, if any, an organized whole
+    has towards its own constituent parts ([QUESTION-460](record/questions.d/QUESTION-460.md)), refining
+    [QUESTION-128](record/questions.d/QUESTION-128.md).
+  - A's question when an organization's dependence on participants it
+    subordinates becomes their authority ([QUESTION-461](record/questions.d/QUESTION-461.md)).
+  - A's claim that an arrangement can exploit through the access it
+    grants, leaving a lasting encumbrance that narrows exit
+    ([CLAIM-669](record/claims.d/CLAIM-669.md), as narrowed after its reading).
+  - A supposed claim, retitled at the owner's review: a transformation
+    that increases a constituent's vulnerability to a responsible agent's
+    discretion can strengthen that agent's responsibilities, under an
+    independently justified principle ([CLAIM-671](record/claims.d/CLAIM-671.md)).
+  - The public theatres of colonial Saint-Domingue as a reported case
+    ([CASE-257](record/cases.d/CASE-257.md)).
+  - Seventeen dated notes on the entries the exchange bears on.
+  - Twenty-five cited works registered unread as Deferred LITs, among
+    them Powers's *From Plantation to Paradise?*, Prest, Ray, Alicea,
+    Ahmed, Goodin, Kittay, Fineman, Mellor and Thompson.
+  - No ARG was filed: no support judgement in the filing is
+    load-bearing or contested. The curation entry lists them.
+  - The filer's own suggestions went to the owner and were not filed.
+- The readings of 2026-11-12 filed for the same exchange:
+  - five works read and two skimmed, each with a NOTE and a THEORY;
+  - five neighbours registered and read or skimmed;
+  - three works Unfetched and fifteen Unavailable;
+  - [CASE-257](record/cases.d/CASE-257.md) corrected;
+  - [CLAIM-669](record/claims.d/CLAIM-669.md) narrowed ([ARG-100](record/arguments.d/ARG-100.md));
+  - [CLAIM-671](record/claims.d/CLAIM-671.md) given its [TERM-074](record/terms.d/TERM-074.md) sense, with [ARG-099](record/arguments.d/ARG-099.md)
+    (Rejected) and a new defeat route.
+  After the owner's correction that "organization" is [TERM-074](record/terms.d/TERM-074.md) sense 1 by
+  default, the owner's question states its sense and its prior part, and
+  every reading's bearing names the sense it is about.
+- The owner's review of [#488](https://github.com/dmarx/nucleation/issues/488) on 2026-11-13 applied:
+  - [QUESTION-460](record/questions.d/QUESTION-460.md) makes the ground of an obligation and its bearer
+    first-class, in its title and body, with the owner's discriminating
+    test filed as the thought experiment [CASE-256](record/cases.d/CASE-256.md);
+  - [CLAIM-671](record/claims.d/CLAIM-671.md) retitled to the review's proposition, with
+    [ARG-099](record/arguments.d/ARG-099.md) rechecked (still Rejected);
+  - [CLAIM-669](record/claims.d/CLAIM-669.md)'s summary aligned with its narrowing, and A's original
+    sense, an arrangement that produces the dependence it exploits, kept as
+    [CLAIM-670](record/claims.d/CLAIM-670.md);
+  - [CASE-257](record/cases.d/CASE-257.md)'s title states the documented allocation of standing,
+    with the causal reading moved to the body as an interpretation for
+    [QUESTION-461](record/questions.d/QUESTION-461.md).
+
+### Added
+
+- Three open questions the second by-topic reading review found the record reading and not arguing: whether a maintained organization's precision costs dissipation (stochastic thermodynamics); whether self-determination theory's need frustration is distinct from low satisfaction; and which evolutionary route to cooperation an organization's partners take, and whether it needs the owner's extended self. Fourteen readings bear on them.
+
+### Added
+
+- Read-and-file pass of 2026-11-11: 74 Proposed readings for works read into notes only ([NOTE-1246](record/notes.d/NOTE-1246.md) to [NOTE-1322](record/notes.d/NOTE-1322.md), [NOTE-644](record/notes.d/NOTE-644.md), and the passages [QUESTION-366](record/questions.d/QUESTION-366.md) quotes), tied by 75 `bears_on` and 3 `corroborates` to the legacy, inheritance, identity and future-generations questions.
+
+### Added
+
+- Reading review of 2026-11-14, by topic: the 168 readings in force no line used, in four parts. 29 tied, 8 raised as two Proposed claims (on Gromov–Wasserstein against orthogonal maps; on the neural signature of an emergent subject) and two Open questions (the objective a reward-model-bias model organism maintains; observing before an organization commits when only commitment informs), 130 held, 1 flagged.
+
+### Added
+
+- Reading review of 2026-11-11, by question: the 99 open questions borne only by readings, with 90 relations added, two claims drafted for the owner ([CLAIM-643](record/claims.d/CLAIM-643.md), [CLAIM-642](record/claims.d/CLAIM-642.md)) and 33 held. The reading-review skill is revised from the run.
+
+### Fixed
+
+- 73 readings whose promotion condition moved to a question ([ADR-065](record/decisions.d/ADR-065.md)) now bear on that question; the move had not written the relation.
+
+### Added
+
+- Reading review of 2026-11-11, first by-topic run: 222 readings in the five largest unused topics; 101 tied (most were already named as evidence in a question's or claim's text), one question and one claim raised from 4, 117 held.
+
+### Added
+
+- The first reading review ([ADR-091](record/decisions.d/ADR-091.md)), by line, on organizational-normativity, with its curation entry of 2026-11-11. Of the 55 readings it named, four are tied to entries that should use them ([THEORY-1119](record/theory.d/THEORY-1119.md) to [QUESTION-128](record/questions.d/QUESTION-128.md), [THEORY-1165](record/theory.d/THEORY-1165.md) and [THEORY-1463](record/theory.d/THEORY-1463.md) to [QUESTION-441](record/questions.d/QUESTION-441.md), [THEORY-837](record/theory.d/THEORY-837.md) to [CLAIM-462](record/claims.d/CLAIM-462.md)), one raises a question, and fifty are held with a reason. The line gains four readings in the view of readings by line.
+- [QUESTION-449](record/questions.d/QUESTION-449.md), raised from [THEORY-1118](record/theory.d/THEORY-1118.md) and [THEORY-1165](record/theory.d/THEORY-1165.md): whether the counter-normativity of an organization that reproduces an installed mechanism is its own, or only whose process now maintains it decides. [THEORY-1118](record/theory.d/THEORY-1118.md) also bears on [QUESTION-071](record/questions.d/QUESTION-071.md).
+- A finding of the review: the view of readings by line did not count readings that claims or arguments ground on. It is fixed separately ([ADR-090](record/decisions.d/ADR-090.md), version 2).
+
+### Added
+
+- [ADR-093](record/decisions.d/ADR-093.md): a reading named as evidence in a question's or claim's text is tied when the name is written; a claim's supporting cases corroborate it; a question's instruments and cautions are its premises; readings used only by cases, terms or syntheses are held as used; a split run coordinates its raises.
+
+- Reading review of 2026-11-11, second by-topic run, [ADR-093](record/decisions.d/ADR-093.md)'s first application: the 144 readings in the smaller topics no line used; 58 tied, 86 held (11 of them used in fact by a case or term), nothing raised.
+
+### Changed
+
+- The reading-review and read-and-file skills carry [ADR-093](record/decisions.d/ADR-093.md) as instructions.
+
+### Added
+
+- Reading review of 2026-11-11, second by-question pass: the 87 open questions nothing bore on, 82 tied by 176 relations, 2 held, 3 flagged for a read-and-file pass. The reading-review skill is revised again.
+
+### Added
+
+- A reading's lines are derived from the entries that use it ([ADR-090](record/decisions.d/ADR-090.md)), never stored. The view docs/readings-by-line.md lists each line's readings and the readings in force no line uses: on 2026-11-11, 277 of 856 serve a line and 579 serve none.
+
+### Fixed
+
+- The readings-by-line view counted no reading that a claim or argument grounds on, because it read the converse fields `supports` and `reports`, which are not stored. It now gathers those users from their own `grounds` and `reported_in`. [ADR-090](record/decisions.d/ADR-090.md)'s figures are corrected (version 2): 406 of 856 readings in force serve a line, not 277.
+
+### Changed
+
+- Six parts of lines that had no root question were checked for one. Three already have a root: nesting has [QUESTION-217](record/questions.d/QUESTION-217.md), concepts [QUESTION-360](record/questions.d/QUESTION-360.md) and keeping a rare capability [QUESTION-395](record/questions.d/QUESTION-395.md). The other three (corporate affect, feeling and access, and the costs of anchoring) do not ask one question, so no root question is filed.
+- Six relations are added that the entries' own text supports. Each gets a version bump and a history note, and none adds a line:
+  - [CLAIM-558](record/claims.d/CLAIM-558.md) bears on [QUESTION-395](record/questions.d/QUESTION-395.md);
+  - [CLAIM-431](record/claims.d/CLAIM-431.md) answers [QUESTION-265](record/questions.d/QUESTION-265.md);
+  - [CLAIM-003](record/claims.d/CLAIM-003.md) answers [QUESTION-061](record/questions.d/QUESTION-061.md);
+  - [CLAIM-308](record/claims.d/CLAIM-308.md) answers [QUESTION-098](record/questions.d/QUESTION-098.md);
+  - [CLAIM-314](record/claims.d/CLAIM-314.md) bears on [QUESTION-098](record/questions.d/QUESTION-098.md);
+  - [CLAIM-292](record/claims.d/CLAIM-292.md) bears on [QUESTION-109](record/questions.d/QUESTION-109.md).
+- [SYNTHESIS-018](record/syntheses.d/SYNTHESIS-018.md) version 2 corrects [CLAIM-432](record/claims.d/CLAIM-432.md)'s lines, which version 1 gave in the wrong order.
+
+### Changed
+
+- [CLAIM-600](record/claims.d/CLAIM-600.md) (version 8), at the owner's delegated ruling: it no longer claims that its conditions for withdrawing transient support jointly suffice. Its own admission case, a village water scheme, met every condition as judged before withdrawal and still failed. That is the first clause of its version 7 defeater, and the case could plainly occur.
+  - The title now states the conditions as necessary ("only if") and says that meeting them all is not enough.
+  - The defeater keeps only the necessity clause.
+  - The water scheme moves to its own section, and a new admission case separates the narrower claim from its premises.
+  - It stays Active.
+  - [SYNTHESIS-032](record/syntheses.d/SYNTHESIS-032.md) (version 4) states it so.
+- [CLAIM-632](record/claims.d/CLAIM-632.md) (version 3) answers [QUESTION-395](record/questions.d/QUESTION-395.md) instead of bearing on it: its body says it answers half of that question, and `bears_on` excludes a part a claim settles exactly. [QUESTION-395](record/questions.d/QUESTION-395.md) stays Open while [CLAIM-632](record/claims.d/CLAIM-632.md) is Proposed.
+
+<!-- inactive-ok-file: ADR-100 CLAIM-685 SYNTHESIS-095 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-093 SYNTHESIS-094 — Proposed; the split this contribution files, an entry it moves, and the accounts it files or revises -->
+### Added
+
+- [SYNTHESIS-095](record/syntheses.d/SYNTHESIS-095.md), the account of the new line `dependence-and-domination`, over its two part accounts, [SYNTHESIS-092](record/syntheses.d/SYNTHESIS-092.md) and [SYNTHESIS-093](record/syntheses.d/SYNTHESIS-093.md).
+
+### Changed
+
+- [ADR-100](record/decisions.d/ADR-100.md) (Proposed) splits organizational-normativity, at the owner's approval of 2026-11-15.
+  - The new line `dependence-and-domination`, "Wholes, parts and dependence", takes the 29 entries of what wholes and parts owe and claim and of what those who govern an arrangement others depend on owe. [QUESTION-460](record/questions.d/QUESTION-460.md), [QUESTION-468](record/questions.d/QUESTION-468.md) and [CLAIM-685](record/claims.d/CLAIM-685.md) keep organizational-normativity second.
+  - organizational-normativity keeps what a normative judgment needs and the wrong beyond harm, with its root questions, and its blurb is narrowed to them.
+- The accounts follow the split. [SYNTHESIS-038](record/syntheses.d/SYNTHESIS-038.md) is revised over organizational-normativity's two remaining parts, [SYNTHESIS-091](record/syntheses.d/SYNTHESIS-091.md) and [SYNTHESIS-094](record/syntheses.d/SYNTHESIS-094.md). [SYNTHESIS-092](record/syntheses.d/SYNTHESIS-092.md) and [SYNTHESIS-093](record/syntheses.d/SYNTHESIS-093.md) take the new line. The accounts of other lines that state a moved entry's line say the new one.
+
+### Changed
+
+- [ADR-087](record/decisions.d/ADR-087.md) (Proposed) splits readiness in two:
+  - The new line `transient-support`, "Withdrawing transient support", takes the 30 entries of readiness's withdrawal part. [CLAIM-602](record/claims.d/CLAIM-602.md) keeps readiness beside it, because it bears on [QUESTION-386](record/questions.d/QUESTION-386.md).
+  - readiness keeps keeping a rare capability, and reaching and paying under budgets.
+- The withdrawal part's account, [SYNTHESIS-032](record/syntheses.d/SYNTHESIS-032.md), becomes transient-support's account.
+- readiness's line account, [SYNTHESIS-031](record/syntheses.d/SYNTHESIS-031.md), is revised over its two remaining parts and integrates [CLAIM-602](record/claims.d/CLAIM-602.md) directly. All four accounts move to version 2.
+
+### Changed
+
+- [ADR-089](record/decisions.d/ADR-089.md) (Proposed) splits will-organization.
+  - The new line `organizational-normativity`, "Normative judgment about organizations", takes the 23 entries of the normative part, in place of will-organization.
+  - Acting as one stays in will-organization.
+- The accounts follow the split. [SYNTHESIS-038](record/syntheses.d/SYNTHESIS-038.md) becomes the new line's account, and will-organization's line account, [SYNTHESIS-035](record/syntheses.d/SYNTHESIS-035.md), is revised over its five remaining parts.
+
+### Changed
+
+- Status review of the 74 readings filed by the read-and-file pass of 2026-11-11: 73 promoted Active under [ADR-065](record/decisions.d/ADR-065.md) §2, seven of them after narrowing a mis-stated clause; one kept Proposed (a skimmed thesis); three ties that failed the tie rule removed.
+
+### Fixed
+
+- Defect sweep after the by-topic reading review of 2026-11-11: stale notes in [CLAIM-070](record/claims.d/CLAIM-070.md), [CLAIM-125](record/claims.d/CLAIM-125.md), [CLAIM-237](record/claims.d/CLAIM-237.md), [CLAIM-477](record/claims.d/CLAIM-477.md) and [QUESTION-020](record/questions.d/QUESTION-020.md) corrected; wrong citations in [CLAIM-082](record/claims.d/CLAIM-082.md), [QUESTION-202](record/questions.d/QUESTION-202.md) and [THEORY-611](record/theory.d/THEORY-611.md)'s summary fixed; seven claims' grounds on works that now have readings moved to corroboration or dropped as framing or attribution.
+
+### Fixed
+
+- Defect sweep after the read-and-file pass of 2026-11-11: stale "No THEORY filed" lines in 70 NOTEs annotated; placeholder and working codes resolved; the gluing obstruction in Abramsky and Sadrzadeh narrowed to their linguistic examples; an attribution in [QUESTION-299](record/questions.d/QUESTION-299.md) and a figure in [QUESTION-297](record/questions.d/QUESTION-297.md) corrected; [CLAIM-491](record/claims.d/CLAIM-491.md)'s and [CLAIM-044](record/claims.d/CLAIM-044.md)'s grounds on works moved to corroboration by the works' readings.
+
+### Added
+
+- Synthesis review of 2026-11-10 (fourth round, curation entry of that date). It files accounts for the three smallest lines that had none:
+  - authenticity ([SYNTHESIS-023](record/syntheses.d/SYNTHESIS-023.md));
+  - evidence-for-experience ([SYNTHESIS-019](record/syntheses.d/SYNTHESIS-019.md));
+  - organizational-affect, as three part accounts ([SYNTHESIS-020](record/syntheses.d/SYNTHESIS-020.md) valence, [SYNTHESIS-018](record/syntheses.d/SYNTHESIS-018.md) corporate affect, [SYNTHESIS-022](record/syntheses.d/SYNTHESIS-022.md) feeling and access) and the line's account over them ([SYNTHESIS-021](record/syntheses.d/SYNTHESIS-021.md)).
+
+  All are Proposed. No integrating link passed [ADR-075](record/decisions.d/ADR-075.md)'s test, so no claim is filed. Twenty-two component defects are recorded for a follow-up.
+
+### Added
+
+- Synthesis review of 2026-11-10, fifth round (curation entry of that date). It files part accounts and a line account for two lines:
+  - readiness: [SYNTHESIS-027](record/syntheses.d/SYNTHESIS-027.md), [SYNTHESIS-024](record/syntheses.d/SYNTHESIS-024.md) and [SYNTHESIS-032](record/syntheses.d/SYNTHESIS-032.md), under [SYNTHESIS-031](record/syntheses.d/SYNTHESIS-031.md);
+  - learned-structure: six part accounts under [SYNTHESIS-030](record/syntheses.d/SYNTHESIS-030.md).
+- [CLAIM-633](record/claims.d/CLAIM-633.md) (Proposed), admitted by derivation. [CLAIM-524](record/claims.d/CLAIM-524.md)'s budget-separated realizations lie on one orbit of the path swap, so the budgeted zero-loss set is connected up to that symmetry.
+- Both lines were reported as candidates to split. The readiness split is dmarx/nucleation#452.
+- [CLAIM-600](record/claims.d/CLAIM-600.md)'s own admission case meets its defeater; this is recorded for the owner.
+
+### Added
+
+- Synthesis review of 2026-11-11, sixth round (curation entry of that date). It files part accounts and a line account for two lines:
+  - realizability: four part accounts under [SYNTHESIS-043](record/syntheses.d/SYNTHESIS-043.md);
+  - will-organization: six part accounts under [SYNTHESIS-035](record/syntheses.d/SYNTHESIS-035.md).
+- Nothing is filed as a claim.
+- Will-organization's part on normative judgment about organizations is proposed as a line of its own, in a separate pull request.
+
+### Added
+
+- Synthesis review of 2026-11-11, seventh round (curation entry of that date). It files ten part accounts of the distributed-agency line and the line's account over them ([SYNTHESIS-049](record/syntheses.d/SYNTHESIS-049.md)).
+- One claim is filed from the review by derivation: [CLAIM-634](record/claims.d/CLAIM-634.md), on the minimal conflicts among demands on offsets between contexts.
+- Ten questions that carry the line and link to nothing in it are listed for the owner.
+
+### Added
+
+- Synthesis review of 2026-11-11, eighth round (curation entry of that date). It files twelve part accounts of the pragmatic-transport line and the line's account over them ([SYNTHESIS-066](record/syntheses.d/SYNTHESIS-066.md)).
+- Four claims are filed from the review by derivation: [CLAIM-635](record/claims.d/CLAIM-635.md), [CLAIM-637](record/claims.d/CLAIM-637.md), [CLAIM-638](record/claims.d/CLAIM-638.md) and [CLAIM-636](record/claims.d/CLAIM-636.md).
+- Eleven questions that carry the line and link to nothing in it are listed for the owner.
+
+### Added
+
+- Synthesis review of 2026-11-11, ninth round (curation entry of that date). It files eighteen part accounts of the formal-apparatus line and the line's account over them ([SYNTHESIS-088](record/syntheses.d/SYNTHESIS-088.md)), which integrates forty-nine entries directly.
+- Three claims are filed from the review by derivation: [CLAIM-639](record/claims.d/CLAIM-639.md), [CLAIM-640](record/claims.d/CLAIM-640.md) and [CLAIM-641](record/claims.d/CLAIM-641.md).
+
+### Fixed
+
+- [SYNTHESIS-060](record/syntheses.d/SYNTHESIS-060.md) and [SYNTHESIS-067](record/syntheses.d/SYNTHESIS-067.md) name each other by code, not by a working file name.
+
+### Added
+
+- Synthesis review of the organizational-normativity line, 2026-11-15 (curation entry of that date), at the owner's word "file the organizational-normativity summary". The line had grown from 23 entries to 71 and its account held 24. Four part accounts are filed, of what a normative judgment about an organization needs ([SYNTHESIS-091](record/syntheses.d/SYNTHESIS-091.md)), the wrong beyond harm and becoming normatively less informed ([SYNTHESIS-094](record/syntheses.d/SYNTHESIS-094.md)), what a whole and its parts owe and claim ([SYNTHESIS-092](record/syntheses.d/SYNTHESIS-092.md), with [QUESTION-460](record/questions.d/QUESTION-460.md) and [QUESTION-461](record/questions.d/QUESTION-461.md)) and what those who govern an arrangement others depend on owe ([SYNTHESIS-093](record/syntheses.d/SYNTHESIS-093.md)). Every entry of the line is in exactly one part. Each component keeps the sense of "organization" it declares ([TERM-074](record/terms.d/TERM-074.md)), the ground of an obligation is kept apart from its bearer, and vulnerability and control from integration. No claim is filed.
+
+### Changed
+
+- [SYNTHESIS-038](record/syntheses.d/SYNTHESIS-038.md) (version 4) is now the line's account over the four parts.
+- Entries of the line that carry a second line join that line's accounts: [SYNTHESIS-056](record/syntheses.d/SYNTHESIS-056.md) (version 3), [SYNTHESIS-050](record/syntheses.d/SYNTHESIS-050.md) (version 2), [SYNTHESIS-052](record/syntheses.d/SYNTHESIS-052.md) (version 2), [SYNTHESIS-032](record/syntheses.d/SYNTHESIS-032.md) (version 6) and [SYNTHESIS-041](record/syntheses.d/SYNTHESIS-041.md) (version 2). [SYNTHESIS-035](record/syntheses.d/SYNTHESIS-035.md) (version 3) and [SYNTHESIS-049](record/syntheses.d/SYNTHESIS-049.md) (version 2) correct the part sizes they state.
+
+### Added
+
+- `philosophy-of-technology` joins the topics and the `philosophy` group ([ADR-098](record/decisions.d/ADR-098.md)): what technology is and what it does to those who live with it, from the autonomy of technique, lock-in and deskilling to technical codes, design that steers its users and convivial tools. The owner asked for it after the filing of "Analyze technological civilization trap" (pull request [#489](https://github.com/dmarx/nucleation/issues/489)) tagged its 27 works with the nearest words. First applied beside the existing tags of 18 held works: Arthur on lock-in ([LIT-1314](record/literature.d/LIT-1314.md)); Doctorow on platform decay ([LIT-731](record/literature.d/LIT-731.md), [LIT-033](record/literature.d/LIT-033.md), [LIT-753](record/literature.d/LIT-753.md)); Bainbridge and the readings of automation and AI deskilling ([LIT-2225](record/literature.d/LIT-2225.md), [LIT-2222](record/literature.d/LIT-2222.md), [LIT-2224](record/literature.d/LIT-2224.md)); technology, autonomy and design that steers its users ([LIT-1002](record/literature.d/LIT-1002.md), [LIT-1465](record/literature.d/LIT-1465.md), [LIT-2425](record/literature.d/LIT-2425.md), [LIT-2373](record/literature.d/LIT-2373.md), [LIT-197](record/literature.d/LIT-197.md)); technical codes ([LIT-1297](record/literature.d/LIT-1297.md), [LIT-1328](record/literature.d/LIT-1328.md), [LIT-1618](record/literature.d/LIT-1618.md)); and what a technology is ([LIT-848](record/literature.d/LIT-848.md), [LIT-896](record/literature.d/LIT-896.md), [LIT-897](record/literature.d/LIT-897.md)). The works of [#489](https://github.com/dmarx/nucleation/issues/489) take the word once both are merged.
+
+### Added
+
+- `software-engineering` joins the topics ([ADR-097](record/decisions.d/ADR-097.md)): testing and test oracles, reflective and metaobject architectures, self-adaptive systems and models at run time, model-driven engineering and coupled metamodel evolution, and change management. First applied to two works the filing of "luria experiment design" verified and held back for want of a word, Chen et al.'s review of metamorphic testing ([LIT-2333](record/literature.d/LIT-2333.md)) and Kiczales et al.'s *The Art of the Metaobject Protocol* ([LIT-2335](record/literature.d/LIT-2335.md)), both Deferred, and added beside the tags of [LIT-2305](record/literature.d/LIT-2305.md) and [LIT-2312](record/literature.d/LIT-2312.md).
+- Readings of 2026-11-12 for the two works: Chen et al. read ([NOTE-1717](record/notes.d/NOTE-1717.md), [THEORY-1638](record/theory.d/THEORY-1638.md); [LIT-2333](record/literature.d/LIT-2333.md) now Active, its seven authors and article number corrected); The Art of the Metaobject Protocol skimmed, chapter 5 only ([NOTE-1718](record/notes.d/NOTE-1718.md), [THEORY-1636](record/theory.d/THEORY-1636.md)), from a community hypertext of chapters 5 and 6 that the owner ruled usable on 2026-11-12 ("the mirror is fine"), replacing the Unavailable status first set; Kiczales et al.'s aspect-oriented programming ([LIT-2334](record/literature.d/LIT-2334.md), [NOTE-1716](record/notes.d/NOTE-1716.md), [THEORY-1637](record/theory.d/THEORY-1637.md)) kept as a weak stand-in for Part I, which was not reached; a dated note on [QUESTION-388](record/questions.d/QUESTION-388.md). The survey's bearing on the proposed schema-change study and [CLAIM-266](record/claims.d/CLAIM-266.md) is in its NOTE's prose only, since that study is in pull request [#484](https://github.com/dmarx/nucleation/issues/484); relations follow once both merge.
+
+### Changed
+
+- [ADR-088](record/decisions.d/ADR-088.md) (Proposed) completes the split of readiness.
+  - [QUESTION-398](record/questions.d/QUESTION-398.md) and [QUESTION-399](record/questions.d/QUESTION-399.md), the withdrawal inquiry's two root questions, now lead with transient-support, as do the entries that argue them. That includes [QUESTION-416](record/questions.d/QUESTION-416.md) and [QUESTION-420](record/questions.d/QUESTION-420.md), and [CLAIM-604](record/claims.d/CLAIM-604.md) and [CLAIM-606](record/claims.d/CLAIM-606.md).
+  - Each carries realizability only where it bears on a realizability-first entry ([ADR-085](record/decisions.d/ADR-085.md)). None does, so all twenty-one changed entries leave realizability. Each has a history note.
+  - [SYNTHESIS-032](record/syntheses.d/SYNTHESIS-032.md) (version 5) integrates the five new members.
+
+### Added
+
+- Thompson's "Reflections on Trusting Trust" ([LIT-2332](record/literature.d/LIT-2332.md)) and Stute's story of the attack met in practice ([LIT-2331](record/literature.d/LIT-2331.md)), read, with their notes and readings, and [CASE-232](record/cases.d/CASE-232.md), a self-reproducing compiler Trojan horse, filed at the owner's request for [QUESTION-449](record/questions.d/QUESTION-449.md); dated notes on that question and on [CLAIM-522](record/claims.d/CLAIM-522.md).
+
 <!-- luria-insert-here -->
