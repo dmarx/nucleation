@@ -12,9 +12,9 @@ line:
 summary: >-
   The assistant's, offered at step 12 of the filing of the exchange "Assess
   Depp Heard Abuse" and accepted by the owner on 2026-11-16 ("file your
-  ideas as well"). The owner's claim (CLAIM-tmpuiaop) uses "procedural
+  ideas as well"). The owner's claim ([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)) uses "procedural
   friction" for handoffs, waits, reviews and approvals; A's objection
-  (CLAIM-tmpwpvbz) relies on friction meaning delay, so that a limit
+  ([CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)) relies on friction meaning delay, so that a limit
   enforced instantly is not friction. This term fixes the sense by
   dependence, not by delay: what makes a step friction is that the executor
   cannot pass it on its own. In that sense a standing limit enforced by a
@@ -49,14 +49,14 @@ The distinction it draws is between **dependence** and **delay**:
 ## Neighbouring senses it must not be confused with
 
 - **Delay.** The ordinary sense, and the one A's objection
-  (CLAIM-tmpwpvbz) relies on. A delay the executor controls opens no
+  ([CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)) relies on. A delay the executor controls opens no
   opportunity to intervene.
 - **A21's "extractive friction"**, time and effort imposed on those subject
   to a process without influence over it. That is a burden on others, not
   a gate on the executor, and is friction in this sense only where it gates
   the process.
-- **Administrative burden** (Herd and Moynihan, LIT-1609 and
-  LIT-tmp1o7dq): costs of access borne by claimants. Again a burden, not a
+- **Administrative burden** (Herd and Moynihan, [LIT-1609](../literature.d/LIT-1609.md) and
+  [LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md)): costs of access borne by claimants. Again a burden, not a
   gate.
 - **Mechanical friction**: the metaphor's source, energy lost to motion. The
   term keeps only the resistance and drops the loss.

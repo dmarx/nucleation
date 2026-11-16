@@ -28,7 +28,7 @@ bears_on:
 summary: >-
   The assistant's, offered at step 12 of the filing of the exchange "Assess
   Depp Heard Abuse" and accepted by the owner on 2026-11-16 ("file your
-  ideas as well"). CLAIM-tmpfmmkt bounds the share of challenges an
+  ideas as well"). [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md) bounds the share of challenges an
   overloaded corrective process can resolve in time at μ/λ, whatever the
   order. This claim says which orders reach the bound and which fall to
   zero: first-come review, the default and the one that looks fair, falls
@@ -45,7 +45,7 @@ summary: >-
 
 ## The claim
 
-The setting of CLAIM-tmpfmmkt: valid challenges arrive at rate λ, the
+The setting of [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md): valid challenges arrive at rate λ, the
 corrective process resolves them at rate μ < λ, and a challenge resolved
 more than F after filing comes after the harm it targets has become
 irreversible.
@@ -59,12 +59,12 @@ irreversible.
    at t waits (λ − μ)t/μ, which exceeds F for every t > t* = Fμ/(λ − μ).
    From the time the challenges filed at t* come up, every resolution is of
    an expired challenge. The number resolved in time stops growing, and its
-   share of those filed tends to zero (CLAIM-tmpfmmkt, step 3).
+   share of those filed tends to zero ([CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md), step 3).
 3. **An order that never serves an expired challenge reaches μ/λ.** Serve
    the oldest challenge whose window is still open, and set expired ones
    aside. Once the backlog of open challenges exceeds μ, every resolution is
    in time, so μT − O(1) are, and the share tends to μ/λ, the bound of
-   CLAIM-tmpfmmkt. Serving the newest first does the same.
+   [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md). Serving the newest first does the same.
 4. **So the order decides who keeps a preventive right.** Under first-come
    review, everyone filed after t* has a right to challenge that prevents
    nothing. Under oldest-open-first, a share μ/λ do, and the rest are set
@@ -86,12 +86,12 @@ First-come is the order that looks fair, and under overload it is the one
 that defeats prevention entirely: it gives everyone the same right, and
 past t* the same right is worth nothing. A process that keeps the formal
 right for all and the preventive effect for none fits
-CLAIM-462's separation of effective action from
+[CLAIM-462](CLAIM-462.md)'s separation of effective action from
 effective correction, at the level of the reviewer's own procedure: an
 overloaded corrector can comply with every rule of review and still have
 chosen, by its order, that no one is protected.
 
-The owner's procedural-friction claim (CLAIM-tmpuiaop) says where
+The owner's procedural-friction claim ([CLAIM-tmpuiaop](CLAIM-tmpuiaop.md)) says where
 opportunities to intervene sit in a process. This claim adds that once a
 corrector is overloaded, which of them still matter is fixed by an
 administrative choice that is rarely made as a choice.

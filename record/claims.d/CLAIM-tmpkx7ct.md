@@ -24,9 +24,9 @@ uses:
 summary: >-
   The assistant's, offered at step 12 of the filing of the exchange "Assess
   Depp Heard Abuse" and accepted by the owner on 2026-11-16 ("file your
-  ideas as well"). A reply to A's objection (CLAIM-tmpwpvbz) to the owner's
-  procedural-friction claim (CLAIM-tmpuiaop), in the dialectic thread they
-  begin. Under TERM-tmp91lqy, a standing constraint enforced by another's
+  ideas as well"). A reply to A's objection ([CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md)) to the owner's
+  procedural-friction claim ([CLAIM-tmpuiaop](CLAIM-tmpuiaop.md)), in the dialectic thread they
+  begin. Under [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md), a standing constraint enforced by another's
   mechanism is friction without delay, so the objection does not touch
   "characterizes". But the reply is honest about the cost: on that term,
   "an opportunity to intervene is a piece of friction" is close to a
@@ -43,14 +43,14 @@ summary: >-
 
 ## The reply
 
-The owner's claim (CLAIM-tmpuiaop) says procedural friction "exposes (or
+The owner's claim ([CLAIM-tmpuiaop](CLAIM-tmpuiaop.md)) says procedural friction "exposes (or
 perhaps even characterizes) opportunity for intervention". A's objection
-(CLAIM-tmpwpvbz, from A33 §8 and A35 §7) offers a process with no friction
+([CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md), from A33 §8 and A35 §7) offers a process with no friction
 that is still interruptible: limits set in advance and enforced by a
 mechanism fast enough to stop a transition before it forecloses
 alternatives. The objection takes friction to be delay.
 
-On TERM-tmp91lqy, friction is a step the executor cannot pass on its own.
+On [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md), friction is a step the executor cannot pass on its own.
 A's architecture has such a step: the transition halts on a limit the
 executor did not set and cannot lift. It is friction without delay. So the
 objection removes delay, not friction, and the "characterizes" reading is
@@ -77,12 +77,12 @@ not need delay and wrong that it does not need friction.
 
 ## Where it sits
 
-- It objects to CLAIM-tmpwpvbz and leaves CLAIM-tmpuiaop standing, with its
+- It objects to [CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md) and leaves [CLAIM-tmpuiaop](CLAIM-tmpuiaop.md) standing, with its
   content located in "exposes".
-- CLAIM-523's legibility is what the visibility of a
+- [CLAIM-523](CLAIM-523.md)'s legibility is what the visibility of a
   waiting step supplies; its volitional efficacy is what the gate supplies.
   A standing limit gives the second without the first.
 - A35 §5's specification lag is why the difference matters: a limit set
   before a failure was conceived cannot stop it, and only a step that shows
   someone the decision in progress gives the new question a chance to be
-  asked (CLAIM-475, note of 2026-11-15).
+  asked ([CLAIM-475](CLAIM-475.md), note of 2026-11-15).

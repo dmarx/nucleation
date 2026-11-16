@@ -32,7 +32,7 @@
     Citron and Cuéllar.
 - The assistant's step-12 ideas from the same filing, accepted by the owner
   on 2026-11-16, Proposed: review order under overload decides whose
-  challenges stay preventive (CLAIM-tmpffmpr); a fait accompli as moral
-  blackmail of a reviewing institution (CLAIM-tmp5zzud); procedural
-  friction defined by dependence rather than delay (TERM-tmp91lqy), with a
-  reply to A's objection to the owner's friction claim (CLAIM-tmpkx7ct).
+  challenges stay preventive ([CLAIM-tmpffmpr](record/claims.d/CLAIM-tmpffmpr.md)); a fait accompli as moral
+  blackmail of a reviewing institution ([CLAIM-tmp5zzud](record/claims.d/CLAIM-tmp5zzud.md)); procedural
+  friction defined by dependence rather than delay ([TERM-tmp91lqy](record/terms.d/TERM-tmp91lqy.md)), with a
+  reply to A's objection to the owner's friction claim ([CLAIM-tmpkx7ct](record/claims.d/CLAIM-tmpkx7ct.md)).
