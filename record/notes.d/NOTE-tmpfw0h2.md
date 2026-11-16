@@ -1,0 +1,153 @@
+---
+status: Read
+paper: LIT-tmp2dx6l
+title: 'Moral Luck'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Read in full, with its notes, from an anthology reprint posted as a
+    course file on the University of Athens e-class site (course
+    PHILOSOPHY921, folder "Ηθική τύχη"):
+    https://eclass.uoa.gr/modules/document/file.php/PHILOSOPHY921/%CE%97%CE%B8%CE%B9%CE%BA%CE%AE%20%CF%84%CF%8D%CF%87%CE%B7/Thomas%20Nagel%2C%20Moral%20Luck.pdf
+    The reprint is chapter 24 of an unnamed reader, pp. 202–212, with the
+    source line "From Thomas Nagel, Mortal Questions, 1979" and an
+    editor's headnote, which is not Nagel's and was not used. Page
+    references below are to the reprint, not to Mortal Questions (24–38).
+    Nothing was skipped.
+date: '2026-11-16'
+summary: >-
+  Nagel's essay, the Mortal Questions version of his 1976 reply to
+  Williams. If the condition that we are assessable only for what we
+  control is applied consistently, it erodes nearly all moral judgment.
+  The condition cannot be dropped, because it is not a theory but part of
+  the ordinary idea of moral assessment. Four kinds of luck (resultant,
+  constitutive, circumstantial and causal) each make the objects of
+  judgment depend on what the agent does not control. Nagel thinks the
+  problem has, "in a sense", no solution: it comes from the clash between
+  the internal view of ourselves as agents and the external view of
+  actions as events.
+---
+<!-- inactive-ok-file: CLAIM-tmpnw7ez — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# NOTE-tmpfw0h2: Moral Luck
+
+## Contribution
+
+Nagel names and structures the problem of moral luck. Ordinary excusing
+conditions (involuntary movement, physical force, ignorance) rest on a
+condition of control. Applied consistently, that condition erodes
+judgments we cannot give up. Nagel argues that this is a genuine paradox,
+like scepticism in epistemology, and not a refutable theory. He
+distinguishes four kinds of luck, rejects the two main ways out (paring
+action down to the will, and a compatibilist "brazen it out"), and traces
+the problem to how the self is conceived.
+
+## Key results
+
+- **The phenomenon (p. 204).** "Where a significant aspect of what someone
+  does depends on factors beyond his control, yet we continue to treat him
+  in that respect as an object of moral judgment, it can be called moral
+  luck." (The definition crosses a page break in the reprint; only its end
+  is in quotes.tsv.)
+- **Familiar excuses vs the broad range (p. 203).** "So a clear absence of
+  control, produced by involuntary movement, physical force, or ignorance of
+  the circumstances, excuses what is done from moral judgment." But
+  "external influences in this broader range are not usually thought to
+  excuse what is done from moral judgment".
+- **Erosion (p. 204).** "If the condition of control is consistently
+  applied, it threatens to erode most of the moral assessments we find it
+  natural to make." This is not an over-simple theory refuted by
+  counterexamples: "The view that moral luck is paradoxical is not a
+  mistake, ethical or logical", but a perception of how the conditions of
+  moral judgment undermine it.
+- **Four kinds (p. 205).** "There are roughly four ways in which the
+  natural objects of moral assessment are disturbingly subject to luck":
+  - constitutive luck: "the kind of person you are, where this is not just
+    a question of what you deliberately do, but of your inclinations,
+    capacities, and temperament";
+  - circumstantial luck: "the kind of problems and situations one faces";
+  - causal luck: "luck in how one is determined by antecedent
+    circumstances";
+  - resultant luck: luck in how one's actions and projects turn out.
+  What opposes all four: "Such things may create the conditions for action,
+  but action can be judged only to the extent that it goes beyond these
+  conditions and does not just result from them."
+- **Resultant luck and agent-regret (pp. 205–207).** A faultless truck
+  driver who kills a child feels agent-regret ("Williams’s term", n. 4), but
+  this "is not yet a case of moral bad luck". With slight negligence, "He
+  will blame himself for the death." For negligence and attempts, "the
+  pattern seems to be that overall culpability corresponds to the product of
+  mental or intentional fault and the seriousness of the outcome." Decisions
+  under uncertainty (Gauguin, Chamberlain, the Decembrists) can shift from
+  positive to negative with the outcome.
+- **Circumstantial luck (p. 209).** Ordinary citizens of Nazi Germany faced
+  a test others did not, and "most of them are culpable for having failed
+  this test". "We judge people for what they actually do or fail to do, not
+  just for what they would have done if circumstances had been different."
+  The paradox: "A person can be morally responsible only for what he does;
+  but what he does results from a great deal that he does not do; therefore
+  he is not morally responsible for what he is and is not responsible for."
+- **Causal luck and the shrinking self (p. 209).** Agency "seems to shrink
+  under this scrutiny to an extensionless point".
+- **The compatibilist reply (p. 210).** Holding people responsible for
+  what they actually did leaves room for "the absence of coercion,
+  ignorance, or involuntary movement" as conditions, but "The only thing
+  wrong with this solution is its failure to explain how skeptical problems
+  arise."
+- **Diagnosis (pp. 210–212).** "Moral judgment of a person is judgment not
+  of what happens to him, but of him." "I believe that in a sense the
+  problem has no solution, because something in the idea of agency is
+  incompatible with actions being events, or people being things." The
+  internal view comes from our attitudes to ourselves: "Guilt and
+  indignation, shame and contempt, pride and admiration are internal and
+  external sides of the same moral attitudes." Note 12 points to Strawson's
+  conflict between the objective and reactive attitudes.
+- **Against Williams (n. 3).** "My disagreement with Williams is that his
+  account fails to explain why such retrospective attitudes can be called
+  moral." If Gauguin's success settles only his most basic feelings, that
+  shows those feelings need not be moral, not that morality is subject to
+  luck.
+- **Dilemmas and implication (n. 10).** A moral dilemma faced "through no
+  fault of his own" which "leaves him with nothing to do which is not
+  wrong" is an unusual case of circumstantial luck (citing Williams,
+  "Ethical consistency", 1965). Citizens of a country can feel implicated in
+  its crimes without being responsible: "This makes it possible to be
+  ashamed of one’s country, and to feel a victim of moral bad luck".
+
+## Assumptions
+
+- Moral judgment of a person differs from evaluation of a state of affairs:
+  "we are not merely saying it is bad that they happened".
+- The control condition is drawn from ordinary practice, not imposed by
+  theory. That is why Nagel will not refine it away.
+
+## Concepts
+
+- **moral luck**; **condition of control**.
+- **resultant, constitutive, circumstantial, causal luck**.
+- **agent-regret** (Williams's term), distinguished from self-blame.
+- **internal vs external view** of action and agency.
+
+## Bearing on the record
+
+- CLAIM-tmpnw7ez: Nagel sets the challenge the claim must meet on the
+  actor's side. If another party structured the circumstances, the control
+  condition says the actor answers only for what "goes beyond these
+  conditions". Ordinary judgment does not subtract in this way (the Nazi
+  Germany citizens are "culpable for having failed this test"), and Nagel
+  holds that no principled line stops the subtraction. He says nothing about
+  the party who set the test. Note only.
+- QUESTION-070: whose agency a wrong runs through. Nagel's diagnosis is that
+  the agent is pared away when acts are seen as events. Note only.
+- A7 §7's question, "how much of that resulting character is morally
+  theirs", is a question of constitutive and causal luck. Nagel's answer is
+  that it has, "in a sense", no solution. The exchange's "three possible
+  reactions" are A's own, not Nagel's.
+
+## Limitations
+
+This is the Mortal Questions text from a reprint, so page numbers do not
+match the book. Nagel offers no positive account of agency ("I do not have
+such an account"). The essay concerns individual judgment and does not
+treat responsibility shared between parties.

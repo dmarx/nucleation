@@ -17,12 +17,16 @@ promote_when: >-
   work on real psychopathy alone, since the case is avowedly a
   philosopher's construction.
 title: 'Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Zeiser (LIT-tmp4n5g5) read on 2026-11-16, NOTE-tmp8qrd6. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Smith (LIT-tmp0tgda) read on 2026-11-16, NOTE-tmp938r4. No change of status or title.
 tags:
 - free-will
 - moral-psychology
@@ -123,3 +127,18 @@ Wolf argues it in a lecture, in three steps.
 ## Note of 2026-11-16: Zeiser, read
 
 Zeiser draws the same distinction, from Watson and Shoemaker rather than Wolf, and applies it to AI decision support. He supports the separability of attributability and accountability with cases, not their independence as Wolf argues it; he says "all three facets– even if closely related– can reasonably be distinguished", and takes no side on whether accountability is attributability plus control.
+
+## Note of 2026-11-16: Smith, read
+
+Smith's "Attributability, Answerability, and Accountability" (LIT-tmp0tgda,
+NOTE-tmp938r4) argues that "“responsibility as answerability” is indeed the only
+kind of moral responsibility there is". On her view, what is called
+attributability "is not a form of responsibility at all", and
+accountability "is just responsibility as answerability in contexts where
+an agent has violated a specific moral obligation to others". That denies
+this theory's independence thesis at its root: there are not two
+independent kinds. Smith argues against Shoemaker's version, not Wolf's,
+and does not address Wolf's case. Relation: rivals (on Smith's THEORY).
+It is offered as an argument against the independence half, which this
+theory's promote_when asks for ("an argument that the two cannot come
+apart").

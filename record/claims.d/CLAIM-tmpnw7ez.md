@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it'
-version: 4
+version: 8
 history:
 - version: 2
   date: '2026-11-16'
@@ -15,6 +15,22 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Santoni de Sio and van den Hoven (LIT-tmpqyqtw) read on 2026-11-16, NOTE-tmpmsqcj. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tognazzini and Coates (LIT-tmpzk7kc) read on 2026-11-16, NOTE-tmp460sz. No change of status or title.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Smith (LIT-tmp0tgda) read on 2026-11-16, NOTE-tmp938r4. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Nagel (LIT-tmp2dx6l) read on 2026-11-16, NOTE-tmpfw0h2. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +68,7 @@ summary: >-
   violation in reproducing what keeps a standard from constraining. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp856sf — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, unread -->
 <!-- inactive-ok-file: CLAIM-tmpp8na7 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-445 THEORY-147 — Proposed; the neighbours, cited with their standing -->
@@ -141,3 +158,76 @@ The paper affirms the claim's first-order half: responsibility for an act "lies 
 ## Note of 2026-11-16: Santoni de Sio and van den Hoven, read
 
 Santoni de Sio and van den Hoven (2018, LIT-tmpqyqtw, NOTE-tmpmsqcj) support the claim's first half from outside the exchange. Their tracing condition carries responsibility from the agent who acts to whoever shaped the conditions of the act: in Kamm's reading of Jim and the captain, the threat "originates with (and therefore the responsibility traces back to)" the captain, because "The captain is the choice architect, who" "creates Jim’s dilemma in which there are only tragic choices to" be made (p. 8); and those in a system's design and maintenance carry "their second-order responsibility for the first-order responsibility" of the operator (p. 9). They qualify the claim's second half. Where the operator's conditions fail through no fault of hers, "the pilot may not be responsible for an accident" and responsibility "may trace back to other agents upstream": tracing here relocates responsibility rather than adding a second bearer. The paper does not take up cases in which both answer, which the claim asserts are possible; nor does it ask whether the structuring was wrongful.
+
+## Note of 2026-11-16: Tognazzini and Coates, read
+
+The SEP entry "Blame" (LIT-tmpzk7kc, read in NOTE-tmp460sz) supports the claim from
+the side of blame, by a route independent of the exchange. Among the facts
+about a blamer that undermine standing is complicity. It quotes Cohen's list,
+"you ordered me to do it, you asked me to do it, you forced me to do it, you
+left me with no reasonable alternative, you gave me the means to do it", and
+draws the conclusion: "The superior officer who orders a subordinate to do
+something morally reprehensible is not in a position to blame the
+subordinate for carrying out the order, even if civilians are." The actor
+remains blameworthy ("even if civilians are"). The party who structured the
+circumstances is implicated in the very act, so both responsibilities hold
+of one wrong. That is the claim's thesis, seen through who may blame. The
+entry does not say the complicit party answers for the act itself, only
+that it lacks standing to condemn it. Relation: corroborates (on the new
+THEORY).
+
+## Note of 2026-11-16: Smith, read
+
+This claim cites A9 §5, which rests the actor's side on Watson's
+distinction between attribution and accountability. Smith (LIT-tmp0tgda) offers
+a rival reading of the same cases. Conduct that reflects the agent's
+evaluative judgments is answerable. How harshly to respond depends on "(1)
+the seriousness of the moral failure, (2) the nature of our relationship
+with the agent, and perhaps even (3) our own moral standing", which is "the
+ethics of blame". On that reading the claim still holds: the actor answers
+for committing the wrong. But the moderating role A9 §5 gives the actor's
+history is not a second kind of responsibility. It is a reason bearing on
+the fitting response. The claim does not depend on the distinction being
+one of kinds. Relation: none.
+
+## Note of 2026-11-16: Anderson, read
+
+Anderson's SEP entry on coercion (LIT-tmp6x9lr, skimmed in NOTE-tmpfqpc0)
+supports the claim's structure from the coerced party's side and leaves its
+other side open. §3.2 assesses the coercee's responsibility as a question
+of its own, never as a share subtracted from a fixed total. What changes
+that responsibility is how the coercer structured the situation: the
+coercee is justified where "the coercer has structured a coercee’s
+situation in such a way that the coercee’s will becomes essentially
+redundant to the outcome". In coercive control, it reports a proposed
+defence "when the coercer has usurped the target’s decisional authority"
+(Galoob and Sheley 2021, 314). The entry also observes that "Coercion
+involves a strategic and dynamic interaction between two agents", so the
+rule we adopt for the coercee's responsibility shapes what the coercer
+attempts. That is an argument, independent of the exchange, that the two
+responsibilities cannot be fixed one at a time. The entry does not address
+whether the coercer answers for the coercee's act, which is the claim's
+distinctive half, and it excludes manipulation by stipulation. It also
+qualifies the claim's vocabulary of excuse: most diminished responsibility
+under coercion "will appeal to justification rather than excuse".
+Relation: corroborates (on THEORY-tmp856sf), partial and second-hand.
+
+## Note of 2026-11-16: Nagel, read
+
+Nagel's "Moral Luck" (LIT-tmp2dx6l, read in NOTE-tmpfw0h2) states the principle
+that would pull against the claim's second half, that the actor "still
+answers for committing it". On the condition of control, "action can be
+judged only to the extent that it goes beyond these conditions and does not
+just result from them". On that view, conditions another party structured
+are subtracted from what the actor answers for. Nagel shows that ordinary
+judgment does not subtract this way: citizens of Nazi Germany faced a test
+others did not, and "most of them are culpable for having failed this test".
+He also argues that no principled line stops the subtraction once begun. So
+the claim's position, that the actor answers in full while the structuring
+party also answers, is the ordinary judgment Nagel describes. It holds only
+by refusing the control condition, which Nagel calls "This compatibilist
+account of our moral judgments". It inherits his objection to that account, its "failure to explain
+how skeptical problems arise". Nagel does not discuss whoever set the test.
+Relation: none. The reading neither corroborates nor bounds the claim, but
+it names the condition the claim's `defeated_if` (the proximate-agent and
+fixed-quantity views) does not mention.

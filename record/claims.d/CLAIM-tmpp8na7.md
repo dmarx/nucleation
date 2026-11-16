@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure'
-version: 8
+version: 11
 history:
 - version: 2
   date: '2026-11-16'
@@ -31,6 +31,18 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Freyd (LIT-tmpc4sfp) read on 2026-11-16, NOTE-tmpdu0m8. No change of status or title.
+- version: 9
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tognazzini and Coates (LIT-tmpzk7kc) read on 2026-11-16, NOTE-tmp460sz. No change of status or title.
+- version: 10
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
+- version: 11
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Nagel (LIT-tmp2dx6l) read on 2026-11-16, NOTE-tmpfw0h2. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -176,3 +188,35 @@ Freyd (1997), registered with this claim from the exchange, was read. It frames 
 on betrayal is thus implicitly a focus on power", p. 28) but says nothing about tallies of wrongful acts or about who
 controls the terms of a relationship. It neither supports nor qualifies the claim. Relation: none. (Its registration
 named this claim only because the exchange's section on the topic cited it.)
+
+## Note of 2026-11-16: Tognazzini and Coates, read
+
+The SEP entry "Blame" reports Scanlon's account: blaming is taking "your
+relationship with him or her to be modified in a way that [a judgment of
+blameworthiness] holds to be appropriate" (Scanlon 2008: 128–29). That fits
+A7 §4's use: one may withdraw trust on the impairment without a verdict on
+who is worse. The entry also reports Radzik's view that standing to blame
+wrongs "committed within special relationships, such as romantic
+partnerships, familial bonds, and friendships" is restricted. That bears on
+third parties judging a couple. Relation: none.
+
+## Note of 2026-11-16: Anderson, read
+
+The SEP entry on coercion (LIT-tmp6x9lr) reports a legal proposal built on
+the same separation between acts and control. Galoob and Sheley (2021)
+would give a coercion-based defence to a defendant over whom the coercer has
+"coercive control", "such as in a long-term violent and abusive
+relationship", where the coercer "has usurped the target’s decisional
+authority". The entry also argues that coercion generally "requires some
+significant differential in power between coercer and coercee" (§3.3). It
+does not discuss tallies of wrongful acts. Relation: none on the claim; the
+reading bears on its case (below).
+
+## Note of 2026-11-16: Nagel, read
+
+The controlled partner in this claim's case acts under circumstances the
+other partner sets. In Nagel's terms (LIT-tmp2dx6l) that is circumstantial
+luck produced by another agent, not by fate, which his essay does not treat
+separately. Nagel's resultant luck bears on the tally: "overall culpability
+corresponds to the product of mental or intentional fault and the
+seriousness of the outcome", which a count of acts ignores. Relation: none.

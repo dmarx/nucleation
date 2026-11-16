@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-16'
@@ -23,6 +23,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Stark and Hester (LIT-tmpxwlgx) read on 2026-11-16, NOTE-tmp4yi9s. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -133,3 +137,15 @@ draws_on (the case uses the typology's categories) from the case to the THEORY, 
 Dan's tactics in Relationship B, finances, monitoring, isolation and threats about leaving, are the control tactics of
 the definition Stark and Hester quote ("isolating them from sources of support, exploiting their resources and capacities for personal" gain, "depriving them of the means needed for independence, resistance and escape"). The case
 can cite the review for its sense of control. Relation: draws_on, if the filer wants it.
+
+## Note of 2026-11-16: Anderson, read
+
+In the stipulated second couple, the partner who strikes more often is the
+controlled one. The SEP entry on coercion (LIT-tmp6x9lr, §3.2) reports
+Galoob and Sheley's proposal that such a partner, if directed by the
+controller to act unlawfully, should have a defence "when the coercer has
+usurped the target’s decisional authority". The proposal covers acts the
+controller directs. It does not cover the controlled partner's own strikes
+against the controller, which the entry does not discuss. Relation: if the
+case's method draws on the coercive-control notion, `draws_on:
+[LIT-tmp6x9lr]` would be fitting. Otherwise none.

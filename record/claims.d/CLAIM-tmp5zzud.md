@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'A fait accompli can do to a reviewing institution what moral blackmail does to a person: by making stopping costly to others, the act gives the reviewer genuine reasons to let it continue, so that the reviewer reasons soundly and still yields the actor''s outcome; those reasons are no larger than the circumstances support, and their wrongful creation is a wrong of the actor''s that weighing them does not cancel'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -124,3 +129,10 @@ limited to harms to others, which is where the premises do not settle it.
   bounded.
 - **That every cost of stopping is created.** Many projects are costly to
   stop for reasons the actor did not make.
+
+## Note of 2026-11-16: Anderson, read
+
+Same point as on CLAIM-tmpd6uxt. White's account (SEP "Coercion" §3.1, as
+reported) of a threat that transfers to its target the responsibility for
+preventing the threatened outcome is the interpersonal form of what this
+claim says a fait accompli does to a reviewer. Note only.

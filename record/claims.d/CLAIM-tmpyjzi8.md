@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Nelkin (LIT-tmpnuy19) read on 2026-11-16, NOTE-tmpmqae9. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -124,3 +129,16 @@ which those commitments are exercised**."
   them.**"
 - **What Robillard and Strawser, Keller or Tronto hold.** A15 names them as
   its foundations; all are registered unread ([LIT-tmpl2w4q](../literature.d/LIT-tmpl2w4q.md), [LIT-tmpd09c2](../literature.d/LIT-tmpd09c2.md), [LIT-tmp55sg8](../literature.d/LIT-tmp55sg8.md), [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md)).
+
+## Note of 2026-11-16: Nelkin, read (for Williams)
+
+The SEP entry "Moral Luck" (LIT-tmpnuy19) reports two dispositions this claim's
+mechanism would run on. One is Williams's agent-regret, expressed in "the
+willingness to compensate a person who was harmed by one’s actions" even
+where the harm "was not his fault". The other is Wolf's virtue of "taking
+responsibility for one’s actions and their consequences", which "involves a
+willingness to give more…that justice requires". Both are presented as
+fitting, even admirable. The claim's point is that whoever controls the
+triggering circumstances can capture what such a disposition yields. The
+entry does not discuss exploitation. Relation: none. The reading names the
+virtue whose exploitation the claim describes.

@@ -1,0 +1,62 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-16 (NOTE-xxx) from a copy of the published article
+  on an MIT moral-psychology reading-group page
+  (https://www.mit.edu/~shaslang/mprg/ASmithAAA.pdf). Filed as a
+  neighbour for Watson, "Two Faces of Responsibility" (LIT-tmpz3y0q,
+  Unavailable): the leading argument that the attributability/
+  accountability split Watson introduced does not mark distinct kinds of
+  responsibility. It restates Watson only through Shoemaker's
+  three-way version and one footnote.
+title: 'Attributability, Answerability, and Accountability: In Defense of a Unified Account'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Filed and read as a stand-in for Watson's "Two Faces of
+    Responsibility" (1996; LIT-tmpz3y0q), which is held only by the
+    publisher (Philosophy Documentation Center, which returned 403). Read
+    in full, with its notes, from the PDF at
+    https://www.mit.edu/~shaslang/mprg/ASmithAAA.pdf (HTTP 200,
+    2026-11-16, no email address sent), a JSTOR download of the published
+    article posted on a reading-group page. Identifier checked on Crossref:
+    doi:10.1086/664752, Ethics 122(3): 575–589, April 2012, author Smith.
+    Not held: no hit in record/literature.d for the DOI or the title.
+tags:
+- ethics
+- moral-psychology
+date: '2026-11-16'
+published: '2012-04-01'
+doi: '10.1086/664752'
+first_author: 'Smith'
+keywords:
+- 'attributability'
+- 'answerability'
+- 'accountability'
+summary: >-
+  Smith (2012). Attributability, Answerability, and Accountability: In
+  Defense of a Unified Account. Ethics 122(3): 575-589. A reply to
+  Shoemaker's (2011) three conceptions of responsibility. Smith argues that
+  answerability, being open to a demand to justify one's attitudes and
+  conduct, is the only kind of moral responsibility. What Shoemaker calls
+  attributability is not responsibility at all, since we withhold aretaic
+  labels from agents who are not answerable (the OCD case). What he calls
+  accountability is answerability where a specific obligation to others has
+  been violated. The different responses warranted differ by the
+  seriousness of the failure, the relationship and the blamer's standing,
+  which belong to the ethics of blame, not to the conditions of
+  responsibility. Filed as a neighbour for Watson's "Two Faces of
+  Responsibility", whose distinction it disputes.
+---
+<!-- inactive-ok-file: LIT-tmpz3y0q — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# LIT-tmp0tgda: Attributability, Answerability, and Accountability: In Defense of a Unified Account
+
+## Standing in the record
+
+Filed as a neighbour for Watson (LIT-tmpz3y0q). It does not restate Watson's
+argument. It credits Watson with introducing "aretaic appraisal" and quotes
+his gloss (n. 2), then argues against the pluralism Watson began. LIT-691
+(Talbert, §3.1.1) is the record's better second-hand source for what Watson
+argued, with page references to the 2004 reprint. Smith is the rival.

@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, and because compensation that prevents failure leaves little trace while its lapse is seen, the organization is credited with outcomes its members'' compensating effort produced and those members are blamed for failures its conditions produced'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -11,6 +11,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Cerrato, Sahlgren and Heilmann (LIT-tmpxzl3z) read on 2026-11-16, NOTE-tmp24swp. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tognazzini and Coates (LIT-tmpzk7kc) read on 2026-11-16, NOTE-tmp460sz. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Nelkin (LIT-tmpnuy19) read on 2026-11-16, NOTE-tmpmqae9. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -159,3 +167,27 @@ The claim's "What it does not say" cites this study, through A19 §9, as evidenc
 ## Note of 2026-11-16: Cerrato, read
 
 Cerrato, Sahlgren and Heilmann (LIT-tmpxzl3z) give a technical instance of the claim's first two parts. The criteria of an automated decision are set upstream by the deployer (label definition, feature measurement, success metric), and in their simulated hiring screen those choices move the explanation a rejected candidate receives more than the explanation method's own tuning does. A counterfactual explanation then frames the subject as the one who must change: it "preclude consideration of whether the decision-maker ought to have acted differently", and a relational view would not "place onto the subjects the burden of simply adapting to institutional discretion". The mechanism differs from the claim's, which is that compensation which prevents failure leaves no trace. Here the deployer's part is hidden by the form of the explanation. Nothing in the paper concerns credit or blame for outcomes. It supports the claim's placement of control and burden. It does not support the account of how blame settles.
+
+## Note of 2026-11-16: Tognazzini and Coates, read
+
+The SEP entry "Blame" reports the complicity condition on standing to blame
+and its institutional extension. Watson (2015) and Beade (2019) argue that
+since the state is at least partly responsible for social conditions that
+partly explain crime, "it suddenly becomes unclear that the state is in a
+position to punish certain law-breakers". Lacey and Pickard (2021) reply by
+contrasting interpersonal relationships with criminal law. Applied here, an
+organization that blames members for failures its own conditions produced
+blames as a complicit party. That is a normative verdict on the blame the
+claim describes. It is not evidence that blame does settle where failure
+becomes visible, which is what the claim asserts and what its `defeated_if`
+tests. Relation: none.
+
+## Note of 2026-11-16: Nelkin, read (for Williams)
+
+The SEP entry "Moral Luck" describes the agent-regret of a party who caused
+harm without fault, and the virtue of taking responsibility beyond what
+justice requires, as appropriate feeling, not differential blameworthiness
+(§3.1). The claim describes members blamed for failures the organization's
+conditions produced. On the entry's distinction, their taking
+responsibility can be fitting while blame from others is not. The entry
+does not discuss organizations. Relation: none.

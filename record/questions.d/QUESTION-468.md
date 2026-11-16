@@ -4,7 +4,12 @@ status: Open
 formerly:
 - QUESTION-tmpyesgg
 title: 'How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tognazzini and Coates (LIT-tmpzk7kc) read on 2026-11-16, NOTE-tmp460sz. No change of status or title.
 tags:
 - ethics
 - society-and-governance
@@ -133,3 +138,12 @@ exploited rather than only dependent or only dominated.
 Berenstain's "Epistemic Exploitation" ([LIT-2264](../literature.d/LIT-2264.md)), unread; Seamster and
 Charron-Chénier ([LIT-2525](../literature.d/LIT-2525.md)), read, for predatory inclusion; Alicea
 ([LIT-2522](../literature.d/LIT-2522.md)), Unavailable, for its organizational case.
+
+## Note of 2026-11-16: Tognazzini and Coates, read
+
+On "who, if anyone, answers for it when the arrangement is not an agent":
+the SEP entry "Blame" reports an argument that an institution's complicity
+in the conditions of wrongdoing removes its standing to blame (Watson 2015,
+Beade 2019, on the state). That presupposes the institution can be
+complicit, so it answers for the conditions at least to the extent of
+losing standing. Relation: bears_on (on the new THEORY).

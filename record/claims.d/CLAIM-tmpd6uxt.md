@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged, and the manipulation works through the target''s sound moral reasoning rather than a defect in it; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -101,3 +106,17 @@ to perform some specific act", and "The inference is frequently invalid."
   wrongdoing doesn't magically erase Bob's reasons to prevent suffering."
 - **What Keller says.** The paper ([LIT-tmp55sg8](../literature.d/LIT-tmp55sg8.md)) is registered and unread; the
   attribution and the case's closeness to Keller's own are A's report.
+
+## Note of 2026-11-16: Anderson, read
+
+The SEP entry on coercion reports White (2017): in making conditional
+threats, coercers "make the coercee responsible for the coercer’s execution
+of their threat, a responsibility that in many cases they should not have
+to bear". This holds even when the threatened act is not itself wrong, as
+in "emotional blackmail" and threats of self-harm, where "forcing another to
+regard this outcome as their responsibility to prevent generates an unfair
+burden" (§3.1). That is close to this claim's wrongfully created
+obligation. But White treats the burden as unfair to impose, and the entry
+does not say whether the responsibility so created is genuine, which is the
+claim's distinctive thesis. Second-hand; White not read. Relation:
+bears_on is not available, since this is a claim. Note only, no relation.

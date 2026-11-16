@@ -1,14 +1,27 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing. No lawful copy has been sought yet.
+  no lawful open copy on 2026-11-16. It is an in-copyright book from
+  Harvard/Belknap; the De Gruyter digital edition behind the DOI was stopped
+  by a challenge on 2026-11-15 and not retried. Searched course pages for
+  chapter 4 ("Blame"): it is assigned in a Berkeley Phil 290 syllabus
+  (Wallace, Fall 2024), a UCSD PHIL 260 syllabus (Spring 2016) and a Berkeley
+  seminar of 2008 (manuscript title "Dimensions of Moral Assessment"), but no
+  posted copy was found. Read in its place: the SEP "Blame" entry (Tognazzini
+  and Coates, filed as a neighbour), whose §1.3.2 reports the account with the
+  book's page reference (128–29) and its criticisms. Smith (2012, n. 4) adds
+  that the book shifts Scanlon's emphasis to "relational significance".
 title: 'Moral Dimensions: Permissibility, Meaning, Blame'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2008-01-01 (year only (Open Library)). DOI is the Harvard UP digital edition (ISBN 9780674043145, matched in Open Library); landing page not fetched (De Gruyter challenge).
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Sought a lawful copy without success (see status note). No email address sent. The SEP "Blame" entry is filed as a neighbour and stands in for chapter 4's account of blame only, not for the chapters on permissibility and meaning.
 tags:
 - ethics
 - moral-psychology
@@ -19,7 +32,16 @@ first_author: 'Scanlon'
 keywords: []
 implementations: []
 summary: >-
-  Scanlon (2008). Moral Dimensions: Permissibility, Meaning, Blame. Belknap Press of Harvard University Press. DOI 10.4159/9780674043145. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A7 §4; A7 closing) on the moral philosophy of blame, excuse and responsibility under constraint: Blame as a modification of a relationship impaired by what the wrong reveals. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). What the exchange says of it is unverified until read.
+  Scanlon (2008). Moral Dimensions: Permissibility, Meaning, Blame.
+  Belknap/Harvard. Not read; chapter 4 is known here through the SEP "Blame"
+  entry. As reported, to judge someone blameworthy is to judge that they acted
+  in a way that impairs meaningful interpersonal relations, and to blame them
+  is further "to take your relationship with him or her to be modified in a
+  way that [a judgment of blameworthiness] holds to be appropriate" (128–29).
+  All rational agents stand in a "moral relationship", which is how strangers
+  can be blamed. Wallace objects that it "leaves the blame out of blame". The
+  exchange cites it (A7 §4, A7 closing) for blame as a modification of a
+  relationship impaired by what the wrong reveals, which the report bears out.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -29,8 +51,24 @@ Scanlon (2008). *Moral Dimensions: Permissibility, Meaning, Blame*. Belknap Pres
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Blame as a modification of a relationship impaired by what the wrong reveals. Unverified until read.
+*Not read; see the reading of 2026-11-16 below.*
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmpzk7kc, the SEP entry Blame (Tognazzini and Coates).
+
+## Reading of 2026-11-16
+
+Not read. A7 §4: "Very roughly, to blame someone is to recognize that their
+attitudes and conduct have impaired your relationship with them, and to
+adjust your attitudes toward them accordingly." **Faithful** to the SEP's
+report (128–29). A's mention of Wallace's criticism is also faithful: the
+SEP gives Wallace's slogan that the account "leaves the blame out of blame",
+because "blame has a quality of opprobrium that is not captured by the
+considerations about the normative significance of impaired
+relationships". A's application, that one may withdraw trust "without
+first obtaining a comprehensive verdict on everyone's character", is A's
+own but consistent with the account. The SEP adds an application A does
+not make: on Scanlon's account "some wrongs are none of our business
+because they don’t impair any of our relationships", which limits third
+parties' standing to blame a couple.

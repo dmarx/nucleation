@@ -1,14 +1,23 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §1. No lawful copy has been sought yet.
+  Skimmed 2026-11-16 (NOTE-tmpfqpc0) from the plato.stanford.edu HTML
+  (substantive revision of 23 Jan 2023): §§2.1.3, 2.5, 3.1, 3.2 and most of
+  3.3 read in full; the history (§1), the threats-and-baselines analysis
+  (§§2.1–2.4) and §3.4 skipped. Worth reading as the record's source on how
+  coercion bears on the coerced party's responsibility (§3.2), including a
+  reported defence for targets of coercive control.
 title: 'Coercion'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2006-02-10 (first published; substantive revision 2023-01-23).
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Read (skimmed) from the SEP HTML, revision of 23 Jan 2023, fetched 2026-11-16 with no email address sent. Sections read and skipped as in the status note. The exchange's A7 §1 report ("no universal rule" for how coercion affects responsibility; it depends on what is coerced and what is at stake) is accurate in substance; "universal rule" is A's phrase.
 tags:
 - ethics
 - moral-psychology
@@ -19,8 +28,21 @@ first_author: 'Anderson'
 keywords: []
 implementations: []
 summary: >-
-  Anderson (2006). Coercion. Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/coercion/. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A7 §1) on the moral philosophy of blame, excuse and responsibility under constraint: No universal rule for how coercion affects responsibility; it depends on what is coerced and what is at stake. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). What the exchange says of it is unverified until read.
+  Anderson (2006, rev. 2023). Coercion. Stanford Encyclopedia of Philosophy. A
+  survey of coercion as a technique of coercers and a reason for coercees. Its
+  §3.2 finds no general theory of how coercion affects the coerced party's
+  responsibility. The effect varies with the act and its moral context and
+  runs mostly through justification, with excuse reserved mainly for a will
+  that breaks down. Moral tests (Wertheimer, Pallikkathayil, lesser evil) and
+  psychological ones (Feinberg) each cover only part of the field. Because
+  coercion is strategic, the responsibility rule shapes coercers' incentives.
+  It reports Galoob and Sheley's defence for a target whose decisional
+  authority a coercive controller has usurped, and White's view that a
+  conditional threat makes the coercee responsible for preventing what the
+  coercer threatens. Bears on CLAIM-tmpnw7ez, CLAIM-tmpp8na7 and
+  CASE-tmpwrhkd. Emotional manipulation is excluded by stipulation.
 ---
+<!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-545 THEORY-tmp856sf — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmp6x9lr: Coercion
@@ -33,4 +55,27 @@ Anderson (2006). *Coercion*. Stanford Encyclopedia of Philosophy. https://plato.
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §1, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §1, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below.
+
+## Reading of 2026-11-16
+
+Read (skimmed) in NOTE-tmpfqpc0; the account is THEORY-tmp856sf. The exchange cites
+the entry at A7 §1 for the claim that there is no universal rule for how
+coercion affects responsibility, and that the answer depends on what the
+coerced person does and what is at stake. That is accurate. The entry says
+"There is no single, widely agreed upon theory", and it contrasts a contract
+with killing (§3.2). A7 §2 also leans on the entry for its taxonomy of
+justified, excusable and blameworthy acts. The entry supports the taxonomy
+but adds a point A leaves out: acquiescence under coercion is mostly
+*justified*, and excuse is mainly for a will that broke down. So A's
+coerced employee is better described as justified than as "wrong but
+excusable". A9 §5's point that a threat can excuse a minor betrayal but not
+violence against an innocent is supported in substance (the lesser-evil
+discussion in §3.2), with the same qualification.
+
+What the record did not hold before: any account of the coerced party's
+responsibility; the strategic point that the responsibility rule shapes the
+coercer's incentives; and Galoob and Sheley's proposed defence for coercive
+control ("usurped the target’s decisional authority"), the nearest legal
+counterpart to CLAIM-545's usurpation and to the controlled partner in
+CASE-tmpwrhkd.

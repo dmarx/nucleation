@@ -1,14 +1,22 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §7. No lawful copy has been sought yet.
+  Read in full 2026-11-16 (NOTE-tmpfw0h2) from an anthology reprint of the
+  Mortal Questions text, posted as a course file on the University of Athens
+  e-class site (course PHILOSOPHY921). Worth reading: the canonical statement
+  of the problem of moral luck and its four kinds, and the source of the
+  record's terms for them.
 title: 'Moral Luck'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 1979-01-01 (year only (book); this DOI's digital edition dated 2012-03). Original: Proceedings of the Aristotelian Society Supp. Vol. 50 (1976): 137-151 (DOI guess 10.1093/aristoteliansupp/50.1.137 did not resolve); revised in Mortal Questions (1979). Exchange gives no year.
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Read in full from the course-file reprint at https://eclass.uoa.gr/modules/document/file.php/PHILOSOPHY921/%CE%97%CE%B8%CE%B9%CE%BA%CE%AE%20%CF%84%CF%8D%CF%87%CE%B7/Thomas%20Nagel%2C%20Moral%20Luck.pdf (PDF, HTTP 200, 2026-11-16; no email address sent). The editor's headnote was not used. The exchange's A7 §7 report is accurate but incomplete: Nagel names four kinds of luck, not three, and the exchange's "three possible reactions" are not Nagel's.
 tags:
 - ethics
 - moral-psychology
@@ -19,8 +27,19 @@ first_author: 'Nagel'
 keywords: []
 implementations: []
 summary: >-
-  Nagel (1979). Moral Luck. Mortal Questions (Cambridge University Press), ch. 3, pp. 24-38. DOI 10.1017/CBO9781107341050.005. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A7 §7) on the moral philosophy of blame, excuse and responsibility under constraint: Kinds of moral luck (circumstantial, resultant, constitutive). It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). What the exchange says of it is unverified until read.
+  Nagel (1979). Moral Luck. Mortal Questions, ch. 3. A revised version of his
+  1976 reply to Williams. Ordinary excuses rest on a condition that we are
+  assessable only for what we control. Applied consistently, it erodes nearly
+  all moral judgment, because what we are judged for depends on four kinds of
+  luck: resultant (how things turn out), constitutive (the kind of person one
+  is), circumstantial (the situations one faces) and causal (how one is
+  determined by antecedent circumstances). Nagel holds that this is a genuine
+  paradox, like scepticism, and not an error repaired by a refined condition.
+  He rejects both paring action down to the will and the compatibilist reply,
+  and traces the problem to the clash between the internal view of agency and
+  the external view of acts as events. "In a sense", it has no solution.
 ---
+<!-- inactive-ok-file: THEORY-tmpp6hib — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmp2dx6l: Moral Luck
@@ -33,4 +52,24 @@ Nagel (1979). *Moral Luck*. Mortal Questions (Cambridge University Press), ch. 3
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §7, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §7, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below.
+
+## Reading of 2026-11-16
+
+Read in full in NOTE-tmpfw0h2; the account is THEORY-tmpp6hib. The exchange cites
+Nagel at A7 §7: "Nagel distinguished several forms of moral luck, including
+luck in circumstances, outcomes, and character." That is accurate as far as
+it goes. Nagel names four kinds, and the one A omits, causal luck, is the one
+that connects the problem to free will and makes the agent "shrink ... to an
+extensionless point". A's "basic challenge", that moral responsibility
+appears to depend heavily on factors outside our control, is fair. The
+"three possible reactions" A then lists are A's, not Nagel's. Nagel
+considers two ways out (paring action down to the will, and accepting
+responsibility for what one actually did) and finds neither explains the
+problem. A's question about a character shaped by an abusive relationship
+("how much of that resulting character is morally theirs?") is a question
+of constitutive and causal luck, to which Nagel's answer is that it has "in
+a sense" no solution. Nagel's note 10 also covers the dilemma A7's closing
+attributes to Tessman: a situation, faced through no fault of one's own,
+that "leaves him with nothing to do which is not wrong", which Nagel credits
+to Williams's "Ethical consistency" (1965).
