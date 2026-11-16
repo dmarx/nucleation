@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'Can a party''s ability to activate another''s genuine moral obligations constitute control over the terms of that other''s dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone''s conscientiousness?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -15,13 +15,17 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about control over the terms of a dependence. No relation supplies organizational-normativity to it (ADR-085). No other change.
 tags:
 - ethics
 - society-and-governance
 - moral-psychology
 date: '2026-11-15'
 line:
-- organizational-normativity
+- dependence-and-domination
 summary: >-
   A's, from A30 §4 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
   at the owner's U15 (points of contact with this record). [CLAIM-690](../claims.d/CLAIM-690.md) says

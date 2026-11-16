@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-16'
@@ -27,6 +27,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, with the shape of CASE-264. No relation supplies organizational-normativity to it (ADR-085). No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -35,7 +39,7 @@ tags:
 - social-science
 date: '2026-11-15'
 line:
-- organizational-normativity
+- dependence-and-domination
 summary: >-
   A's, from A3 §1 of the exchange "Assess Depp Heard Abuse" (2026-11-15).
   Alice and Bob fight destructively and neither controls the other; Carol

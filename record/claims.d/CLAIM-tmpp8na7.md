@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure'
-version: 11
+version: 12
 history:
 - version: 2
   date: '2026-11-16'
@@ -43,6 +43,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Nagel (LIT-tmp2dx6l) read on 2026-11-16, NOTE-tmpfw0h2. No change of status or title.
+- version: 12
+  date: '2026-11-16'
+  note: >-
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, the interpersonal form of CLAIM-690. No relation supplies organizational-normativity to it (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,7 +64,7 @@ tags:
 - agency
 date: '2026-11-15'
 line:
-- organizational-normativity
+- dependence-and-domination
 grounds:
 - CASE-tmpwrhkd
 complements:

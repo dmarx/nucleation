@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it'
-version: 13
+version: 14
 history:
 - version: 2
   date: '2026-11-16'
@@ -51,6 +51,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: the National Transportation Safety Board (LIT-tmp3lco2) read on 2026-11-16, NOTE-tmpxhumo. No change of status or title.
+- version: 14
+  date: '2026-11-16'
+  note: >-
+    Gains distributed-agency second: it bears on QUESTION-070, whose first line that is (ADR-085). Missed when filed; found in the line check after the split of organizational-normativity (#506). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +74,7 @@ tags:
 date: '2026-11-15'
 line:
 - organizational-normativity
+- distributed-agency
 complements:
 - CLAIM-624
 - CLAIM-tmpp8na7

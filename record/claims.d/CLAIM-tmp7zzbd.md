@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'Where members'' compensating effort prevents failures that an organization''s conditions would otherwise produce, the prevention leaves little trace while its lapse is visible, so the organization can be credited with outcomes the compensation produced and the members blamed for failures the conditions produced: credit and blame then follow different principles'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about an organization's dependence on its members' compensating effort, and it bears on QUESTION-461. No relation supplies organizational-normativity to it (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -18,7 +23,7 @@ tags:
 - society-and-governance
 date: '2026-11-16'
 line:
-- organizational-normativity
+- dependence-and-domination
 complements:
 - CLAIM-tmpnfjln
 - CLAIM-tmpyjzi8

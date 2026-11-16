@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-16'
@@ -19,6 +19,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about exploitation of a dependence on members' commitments, and it bears on QUESTION-461, QUESTION-468 and QUESTION-tmpgyn11, all of that line. No relation supplies organizational-normativity to it (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +41,7 @@ tags:
 - moral-psychology
 date: '2026-11-15'
 line:
-- organizational-normativity
+- dependence-and-domination
 rests_on:
 - CLAIM-tmpd6uxt
 complements:

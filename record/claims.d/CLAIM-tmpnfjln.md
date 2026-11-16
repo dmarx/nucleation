@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
-version: 12
+version: 13
 history:
 - version: 2
   date: '2026-11-16'
@@ -61,6 +61,10 @@ history:
     its conditions produced. Defeater, summary and body revised to the
     narrower claim; the dated notes below were written against the
     earlier version.
+- version: 13
+  date: '2026-11-16'
+  note: >-
+    Gains dependence-and-domination second at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): it bears on QUESTION-461, whose first line that is now (ADR-085). Its first line stays organizational-normativity, since it is about where blame for a failure settles. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -79,6 +83,7 @@ tags:
 date: '2026-11-15'
 line:
 - organizational-normativity
+- dependence-and-domination
 rests_on:
 - CLAIM-tmpnw7ez
 complements:

@@ -1,12 +1,16 @@
 ---
 status: Proposed
 title: 'A stipulated couple in which the partner who strikes more often is the one controlled shows that the count of wrongful acts and control over the terms of the relationship can come apart'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Stark and Hester (LIT-tmpxwlgx) read on 2026-11-16, NOTE-tmp4yi9s. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about the support for CLAIM-tmpp8na7, which moves with it. No relation supplies organizational-normativity to it (ADR-085). No other change.
 form: existence
 rests_on:
 - CLAIM-tmpnw7ez
@@ -19,7 +23,7 @@ tags:
 - moral-psychology
 date: '2026-11-15'
 line:
-- organizational-normativity
+- dependence-and-domination
 summary: >-
   The support for A's claim that equality of wrongdoing and equality of
   power are separate questions, from the exchange "Assess Depp Heard Abuse"
