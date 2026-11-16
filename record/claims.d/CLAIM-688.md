@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpwvg2o
 title: 'A collective''s capacity to decline a feasible technology, which is part of its self-direction over that technology, can depend more on the competition it is in than on its own organization: where forgoing the technology leaves a collective dependent on rivals that adopt it, none of the competitors can decline it alone, and the capacity exists, if anywhere, in coordination among them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what those who govern an arrangement
+    others depend on owe. No relation supplies
+    organizational-normativity to it (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,7 +34,7 @@ tags:
 - philosophy-of-technology
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 rests_on:
 - CLAIM-457
 complements:
@@ -47,6 +57,7 @@ summary: >-
   items the first filing left. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-677 CLAIM-685 CLAIM-684 TERM-120 ARG-104 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; the record's account of self-direction, cited with its standing -->
 

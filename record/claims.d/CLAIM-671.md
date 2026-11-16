@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwn3wr
 title: 'Where an organizational transformation increases a constituent''s vulnerability to the discretionary choices of a responsible agent, and that vulnerability grounds special obligations under an independently justified principle, the transformation can strengthen that agent''s responsibilities toward the constituent'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-12'
@@ -43,10 +43,19 @@ history:
     record does not hold, that vulnerability grounds special obligations,
     is granted. Still Proposed.
 - version: 5
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
+- version: 6
   date: '2026-11-16'
   note: >-
     A dated note added: Tessman (LIT-tmpq5p0l) read on 2026-11-16, NOTE-tmp58s6l. No change of status or title.
-- version: 6
+- version: 7
   date: '2026-11-16'
   note: >-
     A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
@@ -77,7 +86,7 @@ tags:
 - mereology
 date: '2026-11-12'
 line:
-- organizational-normativity
+- dependence-and-domination
 - transient-support
 bears_on:
 - QUESTION-460
@@ -96,6 +105,7 @@ summary: >-
   support it ([ARG-099](../arguments.d/ARG-099.md)). It bears on the owner's [QUESTION-460](../questions.d/QUESTION-460.md),
   for the vulnerability ground and for the bearer question.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->
 <!-- inactive-ok-file: THEORY-1823 THEORY-1818 — Proposed, filed 2026-11-12 -->

@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmpu2cwc
 title: 'Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what those who govern an arrangement
+    others depend on owe. It keeps organizational-normativity second,
+    because it bears on QUESTION-128, whose first line it is
+    (ADR-085). No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -27,6 +38,7 @@ tags:
 - self-governance
 date: '2026-11-13'
 line:
+- dependence-and-domination
 - organizational-normativity
 complements:
 - CLAIM-667
@@ -46,6 +58,7 @@ summary: >-
   it holds no comparative prediction for institutions. Empirical and
   untested. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: THEORY-1841 THEORY-1851 THEORY-1855 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-624 CLAIM-511 — Proposed; the record's nearest claims, cited with their standing -->
 

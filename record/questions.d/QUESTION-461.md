@@ -4,13 +4,22 @@ status: Open
 formerly:
 - QUESTION-tmpojwyk
 title: 'When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?'
-version: 3
+version: 4
 history:
 - version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
+- version: 3
   date: '2026-11-16'
   note: >-
     A dated note added: Cameron (LIT-tmptaldv) read on 2026-11-16, NOTE-tmpmo882. No change of status or title.
-- version: 3
+- version: 4
   date: '2026-11-16'
   note: >-
     A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
@@ -20,7 +29,7 @@ tags:
 - ethics
 date: '2026-11-12'
 line:
-- organizational-normativity
+- dependence-and-domination
 - distributed-agency
 summary: >-
   A's, A6 §8 of the exchange "About Plantation Paradise" (2026-11-12),
@@ -35,6 +44,8 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+- version: 999
 <!-- inactive-ok-file: LIT-tmpdkpdp — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-686 CASE-261 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->

@@ -4,9 +4,18 @@ status: Proposed
 formerly:
 - CASE-tmpbjaiq
 title: 'A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers'
-version: 2
+version: 3
 history:
 - version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
+- version: 3
   date: '2026-11-16'
   note: >-
     A dated note added: Citron (LIT-tmpz93ag) read on 2026-11-16, NOTE-tmp61it3. No change of status or title.
@@ -18,7 +27,7 @@ tags:
 - philosophy-of-technology
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 illustrates:
 - CLAIM-060
 - CLAIM-523
@@ -39,6 +48,7 @@ summary: >-
   cross-scale concordance relative to declared parties ([TERM-122](../terms.d/TERM-122.md)).
   The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-686 TERM-122 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # CASE-261: A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers

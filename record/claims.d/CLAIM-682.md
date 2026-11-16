@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpkjv7u
 title: 'A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement''s controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-13'
@@ -30,6 +30,15 @@ history:
     technology is a major part of the subject but not the whole. No tag
     dropped; no other change.
 - version: 4
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
+- version: 5
   date: '2026-11-16'
   note: >-
     A dated note added: Stark and Hester (LIT-tmpxwlgx) read on 2026-11-16, NOTE-tmp4yi9s. No change of status or title.
@@ -53,7 +62,7 @@ tags:
 - philosophy-of-technology
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 bears_on:
 - QUESTION-461
 complements:
@@ -73,6 +82,7 @@ summary: >-
   worked case of all three conditions ([THEORY-1842](../theory.d/THEORY-1842.md)). Interpretive.
   The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-686 CLAIM-687 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: THEORY-1839 THEORY-1863 THEORY-1859 THEORY-1848 THEORY-1856 — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: ARG-109 THEORY-1837 THEORY-1842 THEORY-1843 THEORY-1849 THEORY-1851 THEORY-1854 THEORY-1862 THEORY-1853 THEORY-1861 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->

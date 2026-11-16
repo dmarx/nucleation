@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpub743
 title: 'Where a dependent party''s claims on an arrangement''s controllers fail of legibility, volitional efficacy or correctability in the controlling organization, the dependent lacks effective means of influence and challenge, and where they fail so at every party able to constrain the controllers it lacks effective protection; justified withdrawal lies outside those three achievements, so the domination threshold''s third condition is met by failures of normative efficacy only together with a failure of exit, and is not those failures restated'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -23,7 +33,7 @@ tags:
 - ethics
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 - will-organization
 rests_on:
 - CLAIM-523
@@ -55,6 +65,7 @@ summary: >-
   in the body. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-682 CLAIM-677 CLAIM-687 CASE-261 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's duty of answerability, cited with its standing -->
 

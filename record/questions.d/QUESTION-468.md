@@ -4,13 +4,22 @@ status: Open
 formerly:
 - QUESTION-tmpyesgg
 title: 'How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?'
-version: 3
+version: 4
 history:
 - version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    It keeps organizational-normativity second, because it refines
+    QUESTION-129, whose first line it is (ADR-085). No other change.
+- version: 3
   date: '2026-11-16'
   note: >-
     A dated note added: Tognazzini and Coates (LIT-tmpzk7kc) read on 2026-11-16, NOTE-tmp460sz. No change of status or title.
-- version: 3
+- version: 4
   date: '2026-11-16'
   note: >-
     A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
@@ -20,6 +29,7 @@ tags:
 - social-ontology
 date: '2026-11-13'
 line:
+- dependence-and-domination
 - organizational-normativity
 refines:
 - QUESTION-129
@@ -40,6 +50,7 @@ summary: >-
   are [TERM-123](../terms.d/TERM-123.md) and [TERM-124](../terms.d/TERM-124.md). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: TERM-123 TERM-124 CASE-264 CLAIM-690 — filed with this question, Proposed -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-545 CLAIM-669 CLAIM-670 CLAIM-603 CLAIM-624 CLAIM-671 CASE-256 TERM-083 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: LIT-2264 — Deferred; Berenstain, the record's one work on exploitation by name, unread -->

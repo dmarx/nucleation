@@ -4,7 +4,18 @@ status: Open
 formerly:
 - QUESTION-tmpuby8o
 title: 'When an organized whole''s trajectory is said to diverge from the purposes its constituents would endorse, which procedure of evaluation fixes those purposes, so that a divergence can be found and not only asserted?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Takes dependence-and-domination in place of
+    organizational-normativity, after its first line
+    distributed-agency, at the split of organizational-normativity
+    (ADR-tmpbthzh, 2026-11-15): the entry is in the part of the line
+    on what those who govern an arrangement others depend on owe. No
+    relation supplies organizational-normativity to it (ADR-085). No
+    other change.
 tags:
 - social-ontology
 - agency
@@ -12,7 +23,7 @@ tags:
 date: '2026-11-13'
 line:
 - distributed-agency
-- organizational-normativity
+- dependence-and-domination
 summary: >-
   Raised from A20 §I of the exchange "Analyze technological civilization
   trap" (2026-11-13), A's "emergent purpose divergence": "An organized
@@ -25,6 +36,7 @@ summary: >-
   parameter, so it is filed as the question of what fixes it. The term is
   A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: TERM-121 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 

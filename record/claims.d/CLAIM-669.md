@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp16mkz
 title: 'An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-12'
@@ -29,6 +29,15 @@ history:
     encumbrance within an existing dependency; this claim is the second,
     and the first, A's original sense, which the record does not hold
     elsewhere, is filed as CLAIM-670 and named in `complements`.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,7 +58,7 @@ tags:
 - ethics
 date: '2026-11-12'
 line:
-- organizational-normativity
+- dependence-and-domination
 - transient-support
 bears_on:
 - QUESTION-461
@@ -70,6 +79,7 @@ summary: >-
   [CLAIM-670](CLAIM-670.md). Alicea ([LIT-2522](../literature.d/LIT-2522.md)) is Unavailable. Interpretive. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-428 — Proposed; the record's claims this one joins or sets beside, cited with their standing -->
 <!-- inactive-ok-file: LIT-2522 — Unavailable; registered from the same exchange, unread -->
