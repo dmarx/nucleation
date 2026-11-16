@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -87,3 +92,38 @@ constraint on what moves fast.
 - **That the constraints are legitimate.** A35 §7: "The second design isn't
   automatically legitimate, of course. Its constraints may be poorly
   chosen, unjust, or ineffective."
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+The HKMA's discussion paper (LIT-tmpo6res, NOTE-tmphnawz) is where the exchange
+found this objection's architecture: A23 §3 cites it, and A33 §8 and A35 §7
+develop it. Read, the paper specifies the architecture, but it does not draw
+the objection's conclusion.
+
+- **Supported.** Limits set beforehand and technically enforced:
+  boundaries "should be defined in advance, technically enforced and changed
+  only through the AI’s" change management (§7.1, p. 35), and a failed
+  deterministic check is "prevented, escalated or routed for human review."
+  (p. 36). Fast actuators: intervention is timed by "detection time,
+  decision time and stopping time" (§7.2, p. 37), and stopping must be shown
+  to work in substance, not "on paper" (p. 38). Revision held by slow
+  authority: "human-in-command" persons may "define, change, restrict,
+  suspend or withdraw" the mandate and boundaries (p. 37).
+- **The claim's own caveats, confirmed.** Standing limits miss what was not
+  foreseen. An action "within its authority" that "complies with defined
+  rules" can be inappropriate in the circumstances, and needs
+  transaction-specific validation before it takes effect (§4.4, p. 20).
+  Boundaries drift: "A deployment may also move along this spectrum without
+  a deliberate decision." (§3.2, p. 13).
+- **Not supported.** The paper never treats standing limits as removing the
+  need for friction. It keeps approval gates before consequential actions
+  (p. 37). Its main answer to speed is to slow the agent to what oversight
+  can handle: velocity limits commensurate "with the demonstrated
+  effectiveness of oversight", and where oversight fails, "authority, scope
+  or velocity may need to be constrained." (§4.3, p. 19). That is
+  deliberately reintroduced delay, which favours the owner's claim
+  (CLAIM-tmpuiaop) more than the objection.
+
+Relation: none to add as corroboration; the paper is not independent of
+A's argument. The filer may cite LIT-tmpo6res in this claim as the
+documentary source of its architecture. No change of status.

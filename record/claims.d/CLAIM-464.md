@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-10-30'
@@ -27,6 +27,14 @@ history:
     (2026-11-15): the owner's U13 restates this claim's idea and names two
     new cases, filed as CASE-tmproiqs (Hains Point) and CASE-tmp4gbo6
     (third-country removals). Title, defeater and status unchanged.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -231,3 +239,25 @@ same-time comparison back correctly, and adds a name, "the second-order form
 of a fait accompli": an act that changes "the other actor's capacity to
 restore or reopen those options", not only the options. That is what the
 claim already says; mapped, not filed.
+
+## Note of 2026-11-16: Cuéllar, read
+
+The exchange (A25) cited Cuéllar beside the cases this claim names.
+Read, he does not treat the claim's mechanism, an intervention that raises
+the cost of its own correction. What he gives is the claim's timing
+condition: the White House can "mount seriatim at[tacks]" that a court may
+thwart "eventually" but that cost "those targeted in the meantime." (p. 647).
+In note 225, universities won back some funding streams while disruption
+still imposed costs. That is loss before effective remedy, not a raised
+cost of the corrective outcome. His notes 154 and 167 cite the Abrego Garcia
+order and the district court's finding of willful noncompliance,
+and he uses them as grounds for relaxing the presumption of
+regularity, not for jurisdictional displacement. Relation: none.
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+The HKMA's materiality test holds this claim's logic in miniature: "a failed
+gate on a reversible action still / allows correction, but a failed gate on
+an irreversible action does not." (§8.1, p. 43), with payment finality as the
+standard example. An irreversible act removes the correction later review
+would have allowed. Relation: none.

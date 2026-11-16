@@ -1,7 +1,12 @@
 ---
 status: Open
 title: 'How can a record of inquiry that automates the incorporation of new material keep the speed of incorporation from outrunning its capacity to evaluate what it incorporates, and which of its checks are points at which an incorporation can still be stopped rather than reviewed after it has taken effect?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
 tags:
 - design-rationale
 - epistemology
@@ -21,6 +26,7 @@ summary: >-
   evaluation?" The owner's procedural-friction claim, applied to the record.
   The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpeq8z1 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpfmmkt — filed from the same exchange, Proposed -->
 
 # QUESTION-tmp9n1ac: How can a record of inquiry that automates the incorporation of new material keep the speed of incorporation from outrunning its capacity to evaluate what it incorporates, and which of its checks are points at which an incorporation can still be stopped rather than reviewed after it has taken effect?
@@ -60,3 +66,13 @@ after it is on the default branch (status reviews, synthesis reviews), with
 the rates at which entries arrive and are reviewed, and a criterion for
 when entries resting on unreviewed entries make later review remedial
 rather than preventive.
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+An answer from banking supervision to this question's form. Place the points
+at which a process can be stopped "before actions with significant customer,
+financial, legal or operational implications take effect", timed by
+detection, decision and stopping time (§7.2, p. 37). Set the rate of action by
+the demonstrated capacity of review, not by technical throughput (§4.3,
+p. 19). Do not count a formal review step that the volume has made
+perfunctory. Relation: THEORY-tmpeq8z1 bears_on.

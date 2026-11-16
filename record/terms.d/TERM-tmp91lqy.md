@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'procedural friction, of a process: a step at which the process''s continuation waits on a condition its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -25,6 +34,7 @@ summary: >-
   process. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpkx7ct — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-1609 LIT-tmp1o7dq — Deferred; Herd and Moynihan, unread -->
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpwpvbz — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
@@ -60,3 +70,32 @@ The distinction it draws is between **dependence** and **delay**:
   gate.
 - **Mechanical friction**: the metaphor's source, energy lost to motion. The
   term keeps only the resistance and drops the loss.
+
+## Note of 2026-11-16: Cuéllar, read
+
+Cuéllar writes that governors and civil society "can also create friction
+and slow down White House edicts" (p. 648), so he speaks of friction as
+delay. His instances are dependence, though: states using "their legitimate discretion to decide not" to
+cooperate, and litigation that can enjoin. Those gate the
+executive and are friction in this term's sense. Mild support for defining
+friction by dependence. Relation: none.
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+The HKMA's agent harness is this term's "friction without delay". The
+agent cannot pass a deterministic check, and it may not modify its own
+boundary controls unless the institution has explicitly approved an
+arrangement for that (§7.1, pp. 35–36). The limits are held by the
+institution's change control and an independent control owner (§5.3).
+The paper also supplies a case the term's table does not separate out:
+an approval step on which the process waits, and so friction by
+dependence, that has become perfunctory. "A formal approval step is not,
+by itself, meaningful human oversight." (§7.2, p. 37). Approval counts
+only where the approver sees the substance, can reject, "regards rejection
+as a legitimate outcome", and has time. So dependence on another's
+condition is necessary on this term's reading for an opportunity to
+intervene, and not sufficient: a gate can be friction and expose nothing.
+This qualifies the reading of CLAIM-tmpkx7ct, where "an opportunity to
+intervene is a piece of friction" is close to definitional. The converse,
+that a piece of friction is an opportunity, fails. Relation: none (a THEORY
+cannot bound a TERM); a note.

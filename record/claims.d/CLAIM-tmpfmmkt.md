@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -38,6 +43,7 @@ summary: >-
   [TERM-085](../terms.d/TERM-085.md)'s deadline applied to a stream of cases. The wording is A's; the
   derivation is the filer's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpeq8z1 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpwpvbz — filed from the same exchange, Proposed -->
 
 # CLAIM-tmpfmmkt: When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is
@@ -113,3 +119,15 @@ anything.
   more appellate capacity, and suspension; [CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md), from the same
   exchange, adds standing constraints that stop decisions before they take
   effect.
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+The HKMA states this claim's point qualitatively. "Approval fatigue" leaves
+an approval step "formally in place" but no longer effective, which "creates a
+practical limit on the speed and volume at which an agent can" operate
+safely. Where the rate of actions exceeds reviewers' ability, the formal step
+is not to be treated as oversight (§4.4, p. 20; §7.2, p. 37). That is the
+formal right staying while its preventive effect does not. The paper gives
+no rates or derivation, and A had read it (A23) before stating the claim
+(A35), so its independence is partial. Relation: THEORY-tmpeq8z1 corroborates
+(qualitatively).

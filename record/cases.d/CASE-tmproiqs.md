@@ -1,7 +1,12 @@
 ---
 status: Active
 title: 'East Potomac Golf Links at Hains Point, 2026: about 430 trees cut with less than a day''s notice while the government told the court no final renovation plan existed, then a preliminary injunction finding the plan final and its environmental review likely segmented, and requiring notice before any irreversible change'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
 standing: documented
 kind: specimen
 tags:
@@ -104,3 +109,19 @@ reports checked on 2026-11-15 and is not part of the case.
 - **That the cutting was unlawful.** The findings are at the
   preliminary-injunction stage, and the government said it would appeal.
 - **What happened on or after 15 November 2026.**
+
+## Note of 2026-11-16: Cuéllar, read
+
+Cuéllar's essay (LIT-tmpryo91) predates the case, but the case fits his
+account. A presidential announcement that work would begin "immediately" at a
+particular site is the President driving a specific agency matter: his
+"presidential adjudication". The court's finding that the stated rationale
+was "pretextual" is his Part III.A route to setting aside the presumption of
+regularity. The case's added mechanism, acting while denying that a
+reviewable decision exists, falls in a gap he leaves himself. His "harder
+look" would follow only "the sort of final agency action that tends to be
+necessary for judicial review," and so "casts aside plenty of words or deeds
+of a more preliminary nature." (p. 645). Read with the case, his remedy
+reaches no further than the finality the government denied, and here the
+court had to find finality before it could act. Relation: none formal (the
+case is not reported in the essay); a specimen of his account.

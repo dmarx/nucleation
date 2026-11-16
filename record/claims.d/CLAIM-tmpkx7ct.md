@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'If procedural friction is a step the executor cannot pass on its own, a standing limit enforced by a mechanism the executor does not control is friction without delay, so A''s objection removes delay and not friction, and the owner''s "characterizes" reading survives, at the price of becoming true by definition; the reading with empirical content is "exposes"'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -86,3 +91,16 @@ not need delay and wrong that it does not need friction.
   before a failure was conceived cannot stop it, and only a step that shows
   someone the decision in progress gives the new question a chance to be
   asked ([CLAIM-475](CLAIM-475.md), note of 2026-11-15).
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+The HKMA's architecture is the reply's best case, but it raises the question
+who the "executor" is. The limits bind the agent. The deploying institution
+sets and enforces them, through its own change control, though with an
+independent control owner (§5.3) and with the HKMA's possible "suspension-
+related measures" above it (executive summary, p. 7). If the executor is the
+agent, the limit is enforced by a mechanism the executor does not control,
+and the reply holds. If the executor is the institution, the HKMA case is the
+defeater's: a standing limit that keeps the process interruptible while the
+executor controls the mechanism. The reply should name its executor.
+Relation: none.

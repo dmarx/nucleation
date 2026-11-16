@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-29'
@@ -43,6 +43,10 @@ history:
     (2026-11-15): A's syntheses (A30 §10, A35) restate this claim, and a
     throughput claim filed from the same exchange (CLAIM-tmpfmmkt) gives one
     arithmetic route to it. Title, defeater and status unchanged.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -86,6 +90,7 @@ summary: >-
 bears_on:
 - QUESTION-278
 ---
+<!-- inactive-ok-file: THEORY-tmpbkw8g — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1607 LIT-1614 LIT-1615 — Unavailable since 2026-10-29; works that may already hold the claim, cited as not reached, nothing here rests on them -->
 
@@ -221,3 +226,21 @@ the claim as a shrinking reachable set of corrections,
 C(s_{t+1}, B, H) ⊊ C(s_t, B, H), with a required objective dropping out of
 it while the standard stays the same; that is [TERM-085](../terms.d/TERM-085.md)
 and [CLAIM-464](CLAIM-464.md) in one line, and is mapped, not filed.
+
+## Note of 2026-11-16: Cuéllar, read
+
+Cuéllar's essay on presidential adjudication (LIT-tmpryo91, NOTE-tmpsdyyp) is a
+domain account of this claim's pattern for the United States presidency,
+independent of the exchanges the claim came from. In it, the executive's
+capacity for effective, particular action grows: more tools, reaching "more
+people and organizations, in more specific ways, and in more situations."
+(p. 604), with removal power, information technology and DOGE. Meanwhile
+the relations that corrected it weaken: norms that "are quickly eroding."
+(p. 617), partisan congressional oversight, lost agency independence, and a
+presumption of regularity whose premise of dutiful service is in doubt.
+Review stays limited "even as the importance and scope of this practice
+grows" (p. 599). He also holds, as Cover does, that "courts lack direct
+authority to enforce" (p. 647), and he treats discretion and accountability
+as separable: they "can coexist" (p. 652). He does not argue that the two
+capacities are maintained by different relations; that step remains the
+claim's. Relation: THEORY-tmpbkw8g corroborates. No change of status.

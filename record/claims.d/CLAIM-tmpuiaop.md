@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -132,3 +137,14 @@ adopting any is the owner's call.
   the speed of executive action is recorded on
   [CLAIM-464](CLAIM-464.md), which already held it, and in the cases filed
   with this claim.
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+A regulator's paper supports the "exposes" reading in two ways. First, its
+answer to agents that outrun oversight includes restoring delay: velocity
+limits commensurate "with the demonstrated effectiveness of oversight" (§4.3,
+p. 19). Second, "The last opportunity for human intervention may occur"
+several steps before harm is visible (p. 18). Against an overly strong
+"characterizes" reading, it also shows friction without opportunity: an
+approval step that remains in place but is perfunctory under volume (§4.4,
+p. 20). Relation: none.

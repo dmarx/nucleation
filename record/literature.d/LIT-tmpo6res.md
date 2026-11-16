@@ -1,14 +1,19 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §3; A23 reading list. No lawful copy has been sought yet.
+  Read 2026-11-16 from the HKMA's own PDF (the LIT's url); chapters 1–7 and
+  8.1 in full, 8.2–10 skimmed. See NOTE-tmphnawz and THEORY-tmpeq8z1.
 title: 'Discussion Paper on Agentic A.I. Governance in the Banking Sector'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2026-11-02 (PDF creation date and press-release path; cover says November 2026). Exact title includes 'in the Banking Sector' (exchange: 'Discussion Paper on Agentic AI Governance').
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Read on 2026-11-16 by a delegated reader, verified by the filer: the HKMA PDF at the LIT's url (57 pages, cover "November 2026", file created 2026-11-02). Chapters 1–7 and §8.1 read in full; §§8.2–10 skimmed. Bibliographic data confirmed: title as filed, author Hong Kong Monetary Authority (PDF metadata "HKMA"), published 2026-11-02. It is a discussion paper that creates no obligations (§2.3); responses due before 1 February 2027. Status Deferred to Active; summary rewritten from the reading.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -19,8 +24,25 @@ first_author: 'Hong Kong Monetary Authority'
 keywords: []
 implementations: []
 summary: >-
-  Hong Kong Monetary Authority (2026). Discussion Paper on Agentic A.I. Governance in the Banking Sector. Hong Kong Monetary Authority. https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2026/20261102e3a1.pdf. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A23 §3; A23 reading list) on governing fast automated agents by standing limits: Agentic AI governance: intervention mechanisms (limits, tool restriction, pausing, fallback). It bears on [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md). What the exchange says of it is unverified until read.
+  Hong Kong Monetary Authority (2026). Discussion Paper on Agentic A.I.
+  Governance in the Banking Sector. November 2026 (file of 2 November). A non-
+  binding discussion paper. The HKMA proposes "intent-anchored
+  accountability": an AI agent in a bank should act only for an approved
+  business intent, within delegated authority that is defined in advance,
+  technically enforced through an "agent harness" (least-privilege
+  permissions, deterministic checks, transaction and velocity limits, approval
+  gates) and changed only through change control, with a named accountable
+  owner. Human oversight (in, on or "in command" of the loop) counts only
+  where effective. A formal approval step is not oversight when volume or
+  velocity outruns review ("approval fatigue"). Intervention is designed
+  around detection, decision and stopping time so that it comes before harm
+  becomes irreversible. Where oversight cannot keep pace, the agent's
+  authority, scope or velocity should be cut. Read 2026-11-16 (NOTE-tmphnawz,
+  THEORY-tmpeq8z1). It is the documentary source of the standing- constraint
+  architecture in CLAIM-tmpwpvbz, corroborates CLAIM-tmpfmmkt qualitatively,
+  and bears on QUESTION-tmp9n1ac and TERM-tmp91lqy.
 ---
+<!-- inactive-ok-file: CLAIM-tmpfmmkt TERM-tmp91lqy THEORY-tmpeq8z1 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpwpvbz — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmpo6res: Discussion Paper on Agentic A.I. Governance in the Banking Sector
@@ -29,8 +51,37 @@ Hong Kong Monetary Authority (2026). *Discussion Paper on Agentic A.I. Governanc
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Agentic AI governance: intervention mechanisms (limits, tool restriction, pausing, fallback). Unverified until read.
+- Boundaries defined in advance, technically enforced, and changed only
+  under change control (the agent harness).
+- Oversight counts only where effective: approval fatigue voids a formal
+  approval step.
+- Intervention is timed by detection, decision and stopping time, before
+  irreversibility; velocity is limited to what oversight can handle.
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §3; A23 reading list, on governing fast automated agents by standing limits. It bears on [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md). Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §3; A23 reading list, on governing fast automated agents by standing limits. It bears on [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md). Read on 2026-11-16; see the reading below.
+
+## Reading of 2026-11-16
+
+Read from the HKMA's PDF; chapters 1–7 and §8.1 in full, the Registry,
+external-agent and way-forward chapters skimmed (NOTE-tmphnawz). The exchange's
+account (A23 §3) is accurate. The paper distinguishes human-in-the-loop,
+on-the-loop and in-command arrangements (§7.2, p. 37). It holds that an
+approval step is meaningful only where the approver sees the substance, can
+reject, and has time (p. 37). It lists reducing limits, restricting tools,
+pausing and fallback among intervention measures (p. 37). It calibrates
+intervention to speed, scale and consequences (§7.2, p. 36). A's further
+suggestion, that the answer may be to limit "the machine's operating speed
+or authority", is also the paper's: velocity limits commensurate "with the
+demonstrated effectiveness of oversight" (p. 19). One qualification A
+omits: it is a discussion paper that "creates no new obligations" (§2.3),
+so "an explicit regulatory concern" is right, but it is not yet a
+requirement.
+
+Standing in the record: the documentary source of CLAIM-tmpwpvbz's
+architecture. It supports the architecture, not that claim's conclusion,
+because it pairs standing limits with gates and slows agents to oversight
+capacity. It corroborates CLAIM-tmpfmmkt qualitatively, bears on
+QUESTION-tmp9n1ac, and tests TERM-tmp91lqy with a perfunctory approval: a
+step that is friction by dependence and opens no opportunity to intervene.
