@@ -44,7 +44,7 @@ Gaboriaud, Gautheron, Quinton, Smeding (2024). *Wrongness and Blame Judgments an
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Preregistered experiment: intention, outcome and causation feed wrongness and blame judgments differently over time. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

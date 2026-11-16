@@ -47,7 +47,7 @@ Ozer, Waggoner, Kennedy (2024). *The Paradox of Algorithms and Blame on Public D
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Two preregistered survey experiments on blame toward judges who use algorithmic advice. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

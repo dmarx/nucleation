@@ -50,7 +50,7 @@ Rubel, Castro, Pham (2021). *Agency Laundering and Information Technologies*. Al
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Agency laundering: human normative choices appear as impersonal technical outputs. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

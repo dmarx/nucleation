@@ -38,7 +38,7 @@ Harsey, Freyd (2023). *The Influence of Deny, Attack, Reverse Victim and Offende
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Experiment (230 undergraduates): DARVO and insincere apologies shift observers' judgments of responsibility. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

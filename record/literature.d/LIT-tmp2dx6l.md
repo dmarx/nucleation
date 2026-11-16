@@ -48,7 +48,7 @@ Nagel (1979). *Moral Luck*. Mortal Questions (Cambridge University Press), ch. 3
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Kinds of moral luck (circumstantial, resultant, constitutive). Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

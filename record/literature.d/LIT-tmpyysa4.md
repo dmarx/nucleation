@@ -43,7 +43,7 @@ Mazinani, O'Connor (2026). *An Updated and Revised Dyadic Model of Partner Viole
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Dyadic model: partner violence as an interaction of both partners' characteristics, not one perpetrator. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

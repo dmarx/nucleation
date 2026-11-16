@@ -46,7 +46,7 @@ Zeiser (2024). *Owning Decisions: AI Decision-Support and the Attributability-Ga
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* AI decision support can open an attributability gap: decisions the human does not own. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

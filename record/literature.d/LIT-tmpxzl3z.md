@@ -46,7 +46,7 @@ Cerrato, Sahlgren, Heilmann (2026). *Taking the Whys Seriously: Limitations of C
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Counterfactual explanations hide contestable upstream choices (measurements, objectives, criteria); recourse shifts responsibility to the subject. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

@@ -35,7 +35,7 @@ Bovens, Zouridis (2002). *From Street-Level to System-Level Bureaucracies: How I
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* ICT moves discretion from street-level officials into system design (system-level bureaucracy). Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

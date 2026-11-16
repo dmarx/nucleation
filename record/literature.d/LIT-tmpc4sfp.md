@@ -36,7 +36,7 @@ Freyd (1997). *Violations of Power, Adaptive Blindness and Betrayal Trauma Theor
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Origin of DARVO (Deny, Attack, Reverse Victim and Offender). Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

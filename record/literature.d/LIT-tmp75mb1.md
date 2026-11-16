@@ -35,7 +35,7 @@ de Boer, Raaphorst (2023). *Automation and discretion: explaining the effect of 
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Automation lowered inspectors' perceived discretion without clearly changing enforcement behaviour. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

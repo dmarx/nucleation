@@ -48,7 +48,7 @@ Natali, Naiseh, Cabitza, Frischmann (2025). *Better AI with Designed Friction: T
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Deliberately designed friction in AI to preserve critical reasoning and human agency. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

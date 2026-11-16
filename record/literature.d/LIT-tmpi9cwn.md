@@ -46,7 +46,7 @@ Ensign, Friedler, Neville, Scheidegger, Venkatasubramanian (2018). *Runaway Feed
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Deployment choices bias later observations, so predictive policing becomes self-validating. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

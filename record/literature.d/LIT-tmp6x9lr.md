@@ -51,7 +51,7 @@ Anderson (2006). *Coercion*. Stanford Encyclopedia of Philosophy. https://plato.
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* No universal rule for how coercion affects responsibility; it depends on what is coerced and what is at stake. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

@@ -43,7 +43,7 @@ Lohmann, Cowlishaw, Ney, O'Donnell, Felmingham (2024). *The Trauma and Mental He
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Coercive control is associated with trauma and mental-health harm beyond physical violence. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 

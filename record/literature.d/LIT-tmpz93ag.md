@@ -36,7 +36,7 @@ Citron (2008). *Technological Due Process*. Washington University Law Review 85(
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Automated administrative decisions erode procedural due process; proposes safeguards. Unverified until read.
+*Read on 2026-11-16; see the reading below.*
 
 ## Standing in the record
 
