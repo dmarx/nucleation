@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read 2026-11-16 (NOTE-tmp2weid) from the publisher's open-access version in
+  Read 2026-11-16 ([NOTE-tmp2weid](../notes.d/NOTE-tmp2weid.md)) from the publisher's open-access version in
   Utrecht
 title: 'Automation and discretion: explaining the effect of automation on how street-level bureaucrats enforce'
 version: 2
@@ -43,9 +43,9 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read in NOTE-tmp2weid; THEORY-tmptc11p states its finding. A21 §4's description is accurate with caveats: the drop in
+Read in [NOTE-tmp2weid](../notes.d/NOTE-tmp2weid.md); [THEORY-tmptc11p](../theory.d/THEORY-tmptc11p.md) states its finding. A21 §4's description is accurate with caveats: the drop in
 perceived discretion is significant at .10 only, and "enforcement behavior" is self-reported style. The
 earlier LIT summary misread the result: style did change; what was not found is that perceived discretion
-explains it. For CLAIM-tmpuiaop it offers one detail: INSPECT put a supervisor's permission in front of any
+explains it. For [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md) it offers one detail: INSPECT put a supervisor's permission in front of any
 departure from its verdict (p. 49), adding friction to the override rather than removing friction from
-the decision. Nothing bears on CLAIM-tmpfmmkt.
+the decision. Nothing bears on [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md).

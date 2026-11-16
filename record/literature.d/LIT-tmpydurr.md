@@ -9,7 +9,7 @@ status_note: >-
   copy was found by search (course handouts discuss it but do not reproduce
   it). Read in its place: the SEP "Moral Luck" entry (Nelkin, filed as a
   neighbour), which quotes the lorry-driver passage and reports agent-regret
-  and the 1993 Postscript, and Nagel's reply (LIT-tmp2dx6l, read), whose notes
+  and the 1993 Postscript, and Nagel's reply ([LIT-tmp2dx6l](LIT-tmp2dx6l.md), read), whose notes
   3 and 4 report Williams's Gauguin case and his term "agent-regret".
 title: 'Moral Luck'
 version: 2
@@ -56,7 +56,7 @@ Williams (1976). *Moral Luck*. Proceedings of the Aristotelian Society, Suppleme
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §2, §7, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmpnuy19, the SEP entry Moral Luck (Nelkin).
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §2, §7, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmpnuy19](LIT-tmpnuy19.md), the SEP entry Moral Luck (Nelkin).
 
 ## Reading of 2026-11-16
 

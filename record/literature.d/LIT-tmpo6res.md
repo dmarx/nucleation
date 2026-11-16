@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read 2026-11-16 from the HKMA's own PDF (the LIT's url); chapters 1–7 and
-  8.1 in full, 8.2–10 skimmed. See NOTE-tmphnawz and THEORY-tmpeq8z1.
+  8.1 in full, 8.2–10 skimmed. See [NOTE-tmphnawz](../notes.d/NOTE-tmphnawz.md) and [THEORY-tmpeq8z1](../theory.d/THEORY-tmpeq8z1.md).
 title: 'Discussion Paper on Agentic A.I. Governance in the Banking Sector'
 version: 2
 history:
@@ -37,10 +37,10 @@ summary: >-
   velocity outruns review ("approval fatigue"). Intervention is designed
   around detection, decision and stopping time so that it comes before harm
   becomes irreversible. Where oversight cannot keep pace, the agent's
-  authority, scope or velocity should be cut. Read 2026-11-16 (NOTE-tmphnawz,
-  THEORY-tmpeq8z1). It is the documentary source of the standing- constraint
-  architecture in CLAIM-tmpwpvbz, corroborates CLAIM-tmpfmmkt qualitatively,
-  and bears on QUESTION-tmp9n1ac and TERM-tmp91lqy.
+  authority, scope or velocity should be cut. Read 2026-11-16 ([NOTE-tmphnawz](../notes.d/NOTE-tmphnawz.md),
+  [THEORY-tmpeq8z1](../theory.d/THEORY-tmpeq8z1.md)). It is the documentary source of the standing- constraint
+  architecture in [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md), corroborates [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md) qualitatively,
+  and bears on [QUESTION-tmp9n1ac](../questions.d/QUESTION-tmp9n1ac.md) and [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpfmmkt TERM-tmp91lqy THEORY-tmpeq8z1 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpwpvbz — filed from the same exchange, Proposed, or Unavailable -->
@@ -65,7 +65,7 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 ## Reading of 2026-11-16
 
 Read from the HKMA's PDF; chapters 1–7 and §8.1 in full, the Registry,
-external-agent and way-forward chapters skimmed (NOTE-tmphnawz). The exchange's
+external-agent and way-forward chapters skimmed ([NOTE-tmphnawz](../notes.d/NOTE-tmphnawz.md)). The exchange's
 account (A23 §3) is accurate. The paper distinguishes human-in-the-loop,
 on-the-loop and in-command arrangements (§7.2, p. 37). It holds that an
 approval step is meaningful only where the approver sees the substance, can
@@ -79,9 +79,9 @@ omits: it is a discussion paper that "creates no new obligations" (§2.3),
 so "an explicit regulatory concern" is right, but it is not yet a
 requirement.
 
-Standing in the record: the documentary source of CLAIM-tmpwpvbz's
+Standing in the record: the documentary source of [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)'s
 architecture. It supports the architecture, not that claim's conclusion,
 because it pairs standing limits with gates and slows agents to oversight
-capacity. It corroborates CLAIM-tmpfmmkt qualitatively, bears on
-QUESTION-tmp9n1ac, and tests TERM-tmp91lqy with a perfunctory approval: a
+capacity. It corroborates [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md) qualitatively, bears on
+[QUESTION-tmp9n1ac](../questions.d/QUESTION-tmp9n1ac.md), and tests [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md) with a perfunctory approval: a
 step that is friction by dependence and opens no opportunity to intervene.

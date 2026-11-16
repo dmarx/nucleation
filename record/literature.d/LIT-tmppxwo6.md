@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   read 2026-11-16 in full at ndpr.nd.edu, as a stand-in for Tessman's
-  Burdened Virtues (LIT-tmpovdz8, Unavailable)
+  Burdened Virtues ([LIT-tmpovdz8](LIT-tmpovdz8.md), Unavailable)
 title: 'Review of Lisa Tessman, Burdened Virtues: Virtue Ethics for Liberatory Struggles'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   some virtues and requiring others, burdened virtues, that serve survival
   or resistance at a cost to their bearer's flourishing; Bell objects that
   without a stated account of flourishing almost any trait could count.
-  Read as a stand-in for LIT-tmpovdz8.
+  Read as a stand-in for [LIT-tmpovdz8](LIT-tmpovdz8.md).
 ---
 <!-- inactive-ok-file: THEORY-tmptlu7a — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmpovdz8 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -43,4 +43,4 @@ Tessman's burdened virtues are traits that enable survival of or resistance to o
 
 ## Standing in the record
 
-Stands in for LIT-tmpovdz8 (Tessman 2005), Unavailable: it restates the book's central definition and taxonomy with Tessman's words and pages, and not its chapters on the vices of the privileged or on loyalty. NOTE-tmp8mutd, THEORY-tmptlu7a.
+Stands in for [LIT-tmpovdz8](LIT-tmpovdz8.md) (Tessman 2005), Unavailable: it restates the book's central definition and taxonomy with Tessman's words and pages, and not its chapters on the vices of the privileged or on loyalty. [NOTE-tmp8mutd](../notes.d/NOTE-tmp8mutd.md), [THEORY-tmptlu7a](../theory.d/THEORY-tmptlu7a.md).

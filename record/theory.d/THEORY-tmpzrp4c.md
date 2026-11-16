@@ -17,8 +17,8 @@ source:
 
 ## Source
 
-Herd and Moynihan (2023), ANNALS of the AAPSS 706: 94–117 (LIT-tmppku2r), read in NOTE-tmpliozq as a stand-in for
-LIT-tmp1o7dq.
+Herd and Moynihan (2023), ANNALS of the AAPSS 706: 94–117 ([LIT-tmppku2r](../literature.d/LIT-tmppku2r.md)), read in [NOTE-tmpliozq](../notes.d/NOTE-tmpliozq.md) as a stand-in for
+[LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md).
 
 ## What was actually shown
 
@@ -29,10 +29,10 @@ discretion falling more on Black beneficiaries (p. 105); EITC audits by mail wit
 (p. 109); privatized delivery. Framework: burdens "substantially restrict access to basic rights,
 benefits, and services" and can be "a form of policymaking by other means" (p. 96).
 
-No corroborates relation proposed: the record's claims here (CLAIM-tmpuiaop) concern intervention in a
+No corroborates relation proposed: the record's claims here ([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)) concern intervention in a
 process, and burdens on claimants are the friction those claims set aside.
 
 ## What this does not say
 
 No new data; take-up is the main measure. It does not say burdens are always illegitimate. It is not the JEP
-article (LIT-tmp1o7dq) and does not report that article's content.
+article ([LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md)) and does not report that article's content.

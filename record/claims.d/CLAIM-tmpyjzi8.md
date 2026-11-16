@@ -65,7 +65,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmp5b8ou — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-<!-- inactive-ok-file: LIT-tmpl2w4q LIT-tmpd09c2 LIT-tmp55sg8 LIT-tmpw46qz — Deferred; registered unread from the same exchange -->
+<!-- inactive-ok-file: LIT-tmpl2w4q LIT-tmpd09c2 LIT-tmpw46qz — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->
 
@@ -145,7 +145,7 @@ which those commitments are exercised**."
 
 ## Note of 2026-11-16: Nelkin, read (for Williams)
 
-The SEP entry "Moral Luck" (LIT-tmpnuy19) reports two dispositions this claim's
+The SEP entry "Moral Luck" ([LIT-tmpnuy19](../literature.d/LIT-tmpnuy19.md)) reports two dispositions this claim's
 mechanism would run on. One is Williams's agent-regret, expressed in "the
 willingness to compensate a person who was harmed by one’s actions" even
 where the harm "was not his fault". The other is Wolf's virtue of "taking
@@ -167,18 +167,18 @@ greater pay or improved conditions, as compensation for the moral burden that co
 costs left on the committed party, at the scale of one firm. Keller's agents are deliberate
 strategists; he does not say an institution "can come to run on" what it avoids paying, and his
 account is "moral blackmail" (wrongful by definition), not a resource theory. Relation: corroborates
-(partial; THEORY-tmp5b8ou).
+(partial; [THEORY-tmp5b8ou](../theory.d/THEORY-tmp5b8ou.md)).
 
 ## Note of 2026-11-16: Tronto (2018), read as a stand-in
 
 The claim lists Tronto among A15's foundations. This essay states privileged irresponsibility and
 the democratic reallocation of care, but nothing about the exploitation of a party's moral
-commitment. The commitment mechanism, in a care setting, is Liedo et al.'s (LIT-tmpd8i3u, p. 11),
+commitment. The commitment mechanism, in a care setting, is Liedo et al.'s ([LIT-tmpd8i3u](../literature.d/LIT-tmpd8i3u.md), p. 11),
 not Tronto's in anything read. Relation: none.
 
 ## Note of 2026-11-16: Liedo, Van Grunsven and Marin, read
 
-Corroborates the claim from an independent source in care ethics (LIT-tmpd8i3u). In the hospital
+Corroborates the claim from an independent source in care ethics ([LIT-tmpd8i3u](../literature.d/LIT-tmpd8i3u.md)). In the hospital
 case the authors take from Van Wynsberghe, nurses collect toxic urine samples at risk to
 themselves, "a situation where the unsatisfactory conditions of performing care are resolved by
 exploiting the commitment of PCWs to the value of care, resulting in the prioritization of care for

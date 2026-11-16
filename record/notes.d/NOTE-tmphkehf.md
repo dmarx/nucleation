@@ -23,7 +23,7 @@ summary: >-
 
 ## Contribution
 
-A short, appreciative account of Lefebvre's two ethical systems by a collaborator, with no mathematics and no tests. It is read as a thin stand-in for Lefebvre (1980), LIT-tmpor36r, and Lefebvre (1982), LIT-tmp37qct.
+A short, appreciative account of Lefebvre's two ethical systems by a collaborator, with no mathematics and no tests. It is read as a thin stand-in for Lefebvre (1980), [LIT-tmpor36r](../literature.d/LIT-tmpor36r.md), and Lefebvre (1982), [LIT-tmp37qct](../literature.d/LIT-tmp37qct.md).
 
 ## Key results
 
@@ -43,7 +43,7 @@ Reflexion; the three-level model; first and second ethical systems; saint, hero,
 ## Bearing on the record
 
 - **The exchange** (A11 §5): confirms the two systems and their cultural reading. A11's table puts the rejection of compromise in "system I". In Umpleby that is the stance of the second, Soviet system, while the first, Western system makes the compromiser the saint. A's table should not be filed as Lefebvre's until the primary is read.
-- **CLAIM-404**: confirms only Lefebvre's place in the reflexive-control tradition.
+- **[CLAIM-404](../claims.d/CLAIM-404.md)**: confirms only Lefebvre's place in the reflexive-control tradition.
 
 ## Limitations
 

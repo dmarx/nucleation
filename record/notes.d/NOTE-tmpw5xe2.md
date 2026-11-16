@@ -25,7 +25,7 @@ summary: >-
   EVAAS firings are laundering; Uber's goal reminders and the Loomis
   court's use of COMPAS are not.
 ---
-<!-- inactive-ok-file: CLAIM-624 CLAIM-tmpnfjln LIT-tmp4gcqt — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+<!-- inactive-ok-file: CLAIM-624 CLAIM-tmpnfjln — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # NOTE-tmpw5xe2: Rubel, Castro and Pham (2021) — Agency Laundering and Information Technologies
 
 ## Contribution
@@ -49,13 +49,13 @@ Responsibility as accountability: being open to demands for an account of one's 
 
 ## Concepts
 
-Agency laundering; role, causal and capacity responsibility; forestalling demands for an account; Chair and Democratic Chair; preemptive laundering; bias laundering (Cegłowski) and masking (Barocas and Selbst), both subsumed; humans in the loop (Wagner); moral crumple zone (Elish, cited, LIT-tmp4gcqt).
+Agency laundering; role, causal and capacity responsibility; forestalling demands for an account; Chair and Democratic Chair; preemptive laundering; bias laundering (Cegłowski) and masking (Barocas and Selbst), both subsumed; humans in the loop (Wagner); moral crumple zone (Elish, cited, [LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md)).
 
 ## Bearing on the record
 
-- **CLAIM-624**: an independent statement of its structure for an agent's own part. Laundering is a wrong distinct from any substantive violation (n. 21), and its content is a failure of answerability: others cannot demand the account they are owed. CLAIM-624 concerns keeping violations knowable and contestable; the chapter, not obscuring one's own causal role.
-- **QUESTION-070**: answers a version for a firm. Facebook's role responsibility "is not reducible to any particular individual developer"; if collective responsibility does reduce, the members launder. Whether laundering can be inadvertent is left open (§7.8).
-- **CLAIM-tmpnfjln**: touches its blame-placement half only, and conditionally. A human in the loop with "too little time to respond" could be a means by which "the moral responsibility of the larger entity" goes unaccounted for, though systems like Wagner's and Elish's could "launder agency (though not necessarily)." Nothing on credit for invisible compensation.
+- **[CLAIM-624](../claims.d/CLAIM-624.md)**: an independent statement of its structure for an agent's own part. Laundering is a wrong distinct from any substantive violation (n. 21), and its content is a failure of answerability: others cannot demand the account they are owed. [CLAIM-624](../claims.d/CLAIM-624.md) concerns keeping violations knowable and contestable; the chapter, not obscuring one's own causal role.
+- **[QUESTION-070](../questions.d/QUESTION-070.md)**: answers a version for a firm. Facebook's role responsibility "is not reducible to any particular individual developer"; if collective responsibility does reduce, the members launder. Whether laundering can be inadvertent is left open (§7.8).
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: touches its blame-placement half only, and conditionally. A human in the loop with "too little time to respond" could be a means by which "the moral responsibility of the larger entity" goes unaccounted for, though systems like Wagner's and Elish's could "launder agency (though not necessarily)." Nothing on credit for invisible compensation.
 - **The exchange** (A19 §1, A26 §V) presents laundering as human value choices appearing as impersonal technical outputs. That loses condition (5): an algorithmic output its deployer still fully accounts for is not laundering (Loomis), and the mechanism need not be technological.
 
 ## Limitations

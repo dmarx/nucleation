@@ -18,7 +18,7 @@ source:
 
 ## Source
 
-Freyd (1997), Feminism & Psychology 7(1): 22-32, pp. 29-30; read in NOTE-tmpdu0m8 (draft).
+Freyd (1997), Feminism & Psychology 7(1): 22-32, pp. 29-30; read in [NOTE-tmpdu0m8](../notes.d/NOTE-tmpdu0m8.md) (draft).
 
 ## What was actually shown
 
@@ -29,7 +29,7 @@ guards the proposal: "Thus denial is not evidence of guilt" (p. 29).
 
 ## What this does not say
 
-- That DARVO changes observers' judgments (that is Harsey and Freyd's later experimental work, LIT-tmpx37pv).
+- That DARVO changes observers' judgments (that is Harsey and Freyd's later experimental work, [LIT-tmpx37pv](../literature.d/LIT-tmpx37pv.md)).
 - That denial with counter-accusation identifies an abuser. Freyd's only proposed marker, "overly stated" denial, is
   untested.
 - Anything about relationships in which both parties have acted wrongly.

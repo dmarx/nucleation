@@ -119,7 +119,7 @@ The case stipulates control as a dimension separate from the count of assaults. 
 
 ## Note of 2026-11-16: Mazinani and O'Connor, read
 
-Relationship B, in which the controlled partner strikes more often, is coherent as stipulated. The review reports one population-level finding against its being a common route: "Spencer et al. (2022) found that male partners’ controlling behaviors were not significantly associated with women’s IPV perpetration." This qualifies any use of the case as typical. It does not touch its use as an existence proof (ARG-tmpsyaz2). Relation: none.
+Relationship B, in which the controlled partner strikes more often, is coherent as stipulated. The review reports one population-level finding against its being a common route: "Spencer et al. (2022) found that male partners’ controlling behaviors were not significantly associated with women’s IPV perpetration." This qualifies any use of the case as typical. It does not touch its use as an existence proof ([ARG-tmpsyaz2](../arguments.d/ARG-tmpsyaz2.md)). Relation: none.
 
 ## Note of 2026-11-16: Johnson, read
 
@@ -128,7 +128,7 @@ violence and Relationship B is intimate terrorism by Dan with violent resistance
 "Carol has even struck Dan more times than Dan has struck Carol" is coherent under a classification by control, but
 atypical: in Johnson's data, "In men’s intimate terrorism, wives rarely respond with violence", the median ratio of
 the wife's acts to the husband's being .17. The case shows what is possible, not what is common, which is all
-ARG-tmpsyaz2 uses it for. The case's "Where it sits" names Johnson's four types with A3's label "coercive controlling
+[ARG-tmpsyaz2](../arguments.d/ARG-tmpsyaz2.md) uses it for. The case's "Where it sits" names Johnson's four types with A3's label "coercive controlling
 violence"; Johnson's own term is intimate terrorism (the other label is Kelly and Johnson's, 2008). Relation:
 draws_on (the case uses the typology's categories) from the case to the THEORY, if the filer wants it; otherwise none.
 
@@ -141,7 +141,7 @@ can cite the review for its sense of control. Relation: draws_on, if the filer w
 ## Note of 2026-11-16: Anderson, read
 
 In the stipulated second couple, the partner who strikes more often is the
-controlled one. The SEP entry on coercion (LIT-tmp6x9lr, §3.2) reports
+controlled one. The SEP entry on coercion ([LIT-tmp6x9lr](../literature.d/LIT-tmp6x9lr.md), §3.2) reports
 Galoob and Sheley's proposal that such a partner, if directed by the
 controller to act unlawfully, should have a defence "when the coercer has
 usurped the target’s decisional authority". The proposal covers acts the

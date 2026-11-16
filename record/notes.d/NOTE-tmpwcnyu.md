@@ -27,7 +27,7 @@ summary: >-
 
 ## Contribution
 
-Extends Elish's moral crumple zone (LIT-tmp4gcqt) from accidents to the prospective allocation of
+Extends Elish's moral crumple zone ([LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md)) from accidents to the prospective allocation of
 responsibility during trials of LLM tools. "MCZ positioning" is "the disproportionate allocation
 of responsibility to LLM-based tools' users relative to their actual authority, control and
 capacity" (p. 3).
@@ -65,16 +65,16 @@ work.
 
 ## Bearing on the record
 
-- **CLAIM-tmpnfjln**: corroborates its allocation clause (control upstream, the obligation to
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: corroborates its allocation clause (control upstream, the obligation to
   secure acceptable outputs downstream) and, weakly, its different principles for credit and blame:
   the tools' promise is protected while poor outputs are put down to users (results 3, 5). It
   documents the unseen compensation as "invisible work" (result 4). It does not show blame after a
   visible failure: none was observed.
-- **CLAIM-tmp0tg7y**: management expected saved time while the tools added work (result 6),
+- **[CLAIM-tmp0tg7y](../claims.d/CLAIM-tmp0tg7y.md)**: management expected saved time while the tools added work (result 6),
   covered by users' invisible effort. The loop's later step, cutting resources to the observed
   level, is not observed.
-- **CLAIM-678**: the users' lack of epistemic power over the tools is the paper's opacity finding.
-- Related held reading: THEORY-1519 (generative AI shifts users to evaluating output) supports
+- **[CLAIM-678](../claims.d/CLAIM-678.md)**: the users' lack of epistemic power over the tools is the paper's opacity finding.
+- Related held reading: [THEORY-1519](../theory.d/THEORY-1519.md) (generative AI shifts users to evaluating output) supports
   mechanism 5 from the human-factors side.
 - **The exchange** (A17 §5, A19) reports the paper accurately. Its projection that a worker who
   misses an error "may be blamed" goes beyond what was observed.

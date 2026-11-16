@@ -7,7 +7,7 @@ status_note: >-
   pdf/syllabus): the paper is assigned (e.g. a UCSD PHIL 260 syllabus pairs it
   with Scanlon ch. 4) but no posted copy was found. An upload of the whole
   anthology Watson (ed.), Free Will, on a university e-class site was not used
-  (a whole in-copyright book). Read in its place: LIT-691 (Talbert, SEP "Moral
+  (a whole in-copyright book). Read in its place: [LIT-691](LIT-691.md) (Talbert, SEP "Moral
   Responsibility" §3.1.1, held and read), which reports the paper with page
   references to the 2004 reprint (Agency and Answerability, 260–88), and a new
   neighbour, Smith (2012), the main argument against the distinction.
@@ -34,7 +34,7 @@ implementations: []
 summary: >-
   Watson (1996). Two Faces of Responsibility. Philosophical Topics 24(2):
   227–248; reprinted in Agency and Answerability (2004), 260–88. Not read;
-  known here through LIT-691 and Smith (2012). As LIT-691 reports it, replying
+  known here through [LIT-691](LIT-691.md) and Smith (2012). As [LIT-691](LIT-691.md) reports it, replying
   to Wolf: attributability, conduct issuing from and disclosing the agent's
   "fundamental evaluative orientation", is "central to ethical life and
   ethical appraisal". Accountability, holding others to demands and responding
@@ -57,20 +57,20 @@ Watson (1996). *Two Faces of Responsibility*. Philosophical Topics 24(2): 227-24
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A9 §5, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmp0tgda, Smith (2012), beside the held LIT-691.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A9 §5, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmp0tgda](LIT-tmp0tgda.md), Smith (2012), beside the held [LIT-691](LIT-691.md).
 
 ## Reading of 2026-11-16
 
 Not read. A9 §5: "Philosopher Gary Watson has developed an influential
 distinction between these forms of responsibility. Something can genuinely
 express who you are without your necessarily deserving the ordinary degree
-of blame for it." **Faithful to Watson as LIT-691 reports him.** The
+of blame for it." **Faithful to Watson as [LIT-691](LIT-691.md) reports him.** The
 fairness conditions on accountability, and the "squalid circumstances"
 passage (reprint 281), fit A's example of an adult cruel because of an
 abusive upbringing almost exactly. A's gloss of accountability as "is it
 fair to condemn or sanction them for it?" matches the report's "issues of
 fairness". A's addition, that culpability rises as capacities and
 alternatives improve, is A's own. The record already holds the distinction
-through THEORY-147 (Wolf, LIT-747), which CLAIM-tmpnw7ez cites. Smith (2012)
+through [THEORY-147](../theory.d/THEORY-147.md) (Wolf, [LIT-747](LIT-747.md)), which [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) cites. Smith (2012)
 is the rival view: one kind of responsibility, with severity a matter of
 "the ethics of blame".

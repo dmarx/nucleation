@@ -47,11 +47,11 @@ Christie (1986). *The Ideal Victim*. From Crime Policy to Victim Policy (ed. Ezz
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmp4ummt, Long (2021), The ideal victim: a critical race theory approach, a partial stand-in.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmp4ummt](LIT-tmp4ummt.md), Long (2021), The ideal victim: a critical race theory approach, a partial stand-in.
 
 ## Reading of 2026-11-16
 
 The chapter was not read. Long (2021) stands in for Christie's definition and attributes only; it does not address
 partner violence or victims who are also wrongdoers. "Standing in the record" should name the neighbour and say it
-stands in partly. The registration named CLAIM-tmpp8na7 and CASE-tmpwrhkd; through the neighbour the bearing is a
+stands in partly. The registration named [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md); through the neighbour the bearing is a
 note on the former only.

@@ -158,5 +158,5 @@ Offers one answer to "which declared standard": Brake's, "Exploitative labor hap
 benefits from the work of someone to the detriment of her interests", with the benefit taken as
 "economic profit, avoidance of the fair share of work, or social credit" (p. 6). It also offers a
 structural source (privileged irresponsibility) and a reason exploitation goes unidentified: it is
-masked by the exploited party's satisfaction (p. 8). TERM-123 could cite Brake's standard as one
+masked by the exploited party's satisfaction (p. 8). [TERM-123](../terms.d/TERM-123.md) could cite Brake's standard as one
 declared standard. Relation: **bears_on**.

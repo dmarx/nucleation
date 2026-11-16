@@ -36,7 +36,7 @@ summary: >-
   sufficient; tracing can carry responsibility upstream from an operator to
   designers and to whoever, like Kamm's captain, is the "choice architect";
   control is necessary, not sufficient, for good conduct. Sketched for
-  automated driving. Read; the reading is NOTE-tmpmsqcj and THEORY-tmpo4zca.
+  automated driving. Read; the reading is [NOTE-tmpmsqcj](../notes.d/NOTE-tmpmsqcj.md) and [THEORY-tmpo4zca](../theory.d/THEORY-tmpo4zca.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpnw7ez THEORY-tmpo4zca — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
@@ -51,15 +51,15 @@ Santoni de Sio, van den Hoven (2018). *Meaningful Human Control over Autonomous 
 
 ## Standing in the record
 
-Read. It corroborates CLAIM-tmpnw7ez on responsibility for the conditions
+Read. It corroborates [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) on responsibility for the conditions
 of another's act (qualifying the claim's "both answer"), supports the
-limit CLAIM-tmpnfjln states for itself, and extends THEORY-121. Rubel et
-al. (LIT-tmpjp4qh) and Zeiser (LIT-tmp4n5g5) both cite it.
+limit [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) states for itself, and extends [THEORY-121](../theory.d/THEORY-121.md). Rubel et
+al. ([LIT-tmpjp4qh](LIT-tmpjp4qh.md)) and Zeiser ([LIT-tmp4n5g5](LIT-tmp4n5g5.md)) both cite it.
 
 ## Reading of 2026-11-16
 
 Read in full. The paper extends guidance control (reasons-responsiveness
-and ownership, THEORY-121) to socio-technical systems as two design
+and ownership, [THEORY-121](../theory.d/THEORY-121.md)) to socio-technical systems as two design
 conditions, tracking and tracing. Being in the loop "is not a sufficient
 condition for being in control"; tracing is "not only meant, as it were, to
 help" "finding someone to blame after an accident has occurred". Its tracing

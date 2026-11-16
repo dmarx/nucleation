@@ -41,8 +41,8 @@ summary: >-
   contestability 'without sacrificing speed'. Unfetched 2026-11-16 (bot check
   on the publisher's open-access PDF). Cited in the exchange 'Assess Depp
   Heard Abuse' (A21 §2, A23 §1) as close to the owner's procedural-friction
-  claim (CLAIM-tmpuiaop); the abstract separates contestability from friction,
-  which bears on that claim's 'characterizes' reading and on TERM-tmp91lqy.
+  claim ([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)); the abstract separates contestability from friction,
+  which bears on that claim's 'characterizes' reading and on [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md).
   Unread; the abstract is not a reading.
 ---
 <!-- inactive-ok-file: TERM-tmp91lqy — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -62,4 +62,4 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Not read: the open-access PDF on emerald.com sits behind a Cloudflare challenge. The abstract in Crossref defines the construct as a gap in "pre-execution contestability" and names a "register-shift mechanism through which technology raises the social cost of contestation". Two points matter for the record and must be checked against the text when it is reached. First, Harid distinguishes the deficit "from friction itself" and wants contestability "without sacrificing speed"; the exchange's presentation (A21 §2, "remarkably close to your observation") omits that separation. Second, the governance mechanisms A attributes to the paper ("intervention rights, mandatory pause points, and protected escalation") do not appear in the abstract. Alfrink et al. (2022) (LIT-tmpdazzd) was read as a neighbour for the concept of contestability before a decision takes effect; it does not carry Harid's construct.
+Not read: the open-access PDF on emerald.com sits behind a Cloudflare challenge. The abstract in Crossref defines the construct as a gap in "pre-execution contestability" and names a "register-shift mechanism through which technology raises the social cost of contestation". Two points matter for the record and must be checked against the text when it is reached. First, Harid distinguishes the deficit "from friction itself" and wants contestability "without sacrificing speed"; the exchange's presentation (A21 §2, "remarkably close to your observation") omits that separation. Second, the governance mechanisms A attributes to the paper ("intervention rights, mandatory pause points, and protected escalation") do not appear in the abstract. Alfrink et al. (2022) ([LIT-tmpdazzd](LIT-tmpdazzd.md)) was read as a neighbour for the concept of contestability before a decision takes effect; it does not carry Harid's construct.

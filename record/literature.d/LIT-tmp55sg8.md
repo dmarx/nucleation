@@ -30,8 +30,8 @@ summary: >-
   its holder is wronged, and that fiduciary roles (doctor, nurse, teacher,
   lawyer) expose their holders to it from beneficiaries and third parties,
   because they predictably generate special obligations that exceed and
-  outlast the fiduciary duty. Read 2026-11-16 (NOTE-tmp7xhmj). Bears on
-  CLAIM-tmpd6uxt, CLAIM-tmpyjzi8, QUESTION-tmpgyn11.
+  outlast the fiduciary duty. Read 2026-11-16 ([NOTE-tmp7xhmj](../notes.d/NOTE-tmp7xhmj.md)). Bears on
+  [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp5b8ou — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->
@@ -54,11 +54,11 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read in full in the author's pre-print (30 pp.); NOTE-tmp7xhmj holds the reading and THEORY-tmp5b8ou its account.
+Read in full in the author's pre-print (30 pp.); [NOTE-tmp7xhmj](../notes.d/NOTE-tmp7xhmj.md) holds the reading and [THEORY-tmp5b8ou](../theory.d/THEORY-tmp5b8ou.md) its account.
 Keller's opening case, a neighbour left with a dog that will starve unless she minds it, is the case
 A13 of the exchange retells as Alice and Bob. His definition (p. 20) and his conclusion that "you can
 have a genuine moral obligation because you have been treated wrongly" (p. 21) are what A13
-attributes to him, and they corroborate CLAIM-tmpd6uxt. The exchange's limit on the created
+attributes to him, and they corroborate [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md). The exchange's limit on the created
 obligation ("does not establish that the obligation is unlimited") is A's, not Keller's. A13 §3's
 teachers are Keller's, with a government official as the blackmailer (p. 24). Keller adds three things
 the exchange did not report: the manoeuvre works through what the victim believes (p. 21); it can work

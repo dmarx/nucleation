@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read 2026-11-16 from the open-access full text in Europe PMC (PMC12372680).
-  See NOTE-tmpe8t2g and THEORY-tmpkd4kn.
+  See [NOTE-tmpe8t2g](../notes.d/NOTE-tmpe8t2g.md) and [THEORY-tmpkd4kn](../theory.d/THEORY-tmpkd4kn.md).
 title: 'Wrongness and Blame Judgments and Their Dynamics: Toward a Three-Input Processing Model of Moral Judgment'
 version: 2
 history:
@@ -52,4 +52,4 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read from the Europe PMC full text. The experiment combines Cushman's and Malle's accounts into a "three-input processing model" and tests it on wrongness and blame. Intent, outcome and causality each had main effects. The agent was judged more harshly when it "directly caused the outcome (M = 3.72, SE = 0.07) compared to when the outcome was caused by another source (M = 2.82, SE = 0.07)". The only supported type difference was causality's larger weight in blame (d = 0.05). The authors: "this study does not reveal clear differential weight for intent and outcome inputs in blame versus wrongness judgments". A5 §5 reports this accurately but leans on it for a fourfold distinction of responsibility the paper does not study. The registration's link to CLAIM-tmpnw7ez does not hold: no scenario has one party structuring another's circumstances. See NOTE-tmpe8t2g.
+Read from the Europe PMC full text. The experiment combines Cushman's and Malle's accounts into a "three-input processing model" and tests it on wrongness and blame. Intent, outcome and causality each had main effects. The agent was judged more harshly when it "directly caused the outcome (M = 3.72, SE = 0.07) compared to when the outcome was caused by another source (M = 2.82, SE = 0.07)". The only supported type difference was causality's larger weight in blame (d = 0.05). The authors: "this study does not reveal clear differential weight for intent and outcome inputs in blame versus wrongness judgments". A5 §5 reports this accurately but leans on it for a fourfold distinction of responsibility the paper does not study. The registration's link to [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) does not hold: no scenario has one party structuring another's circumstances. See [NOTE-tmpe8t2g](../notes.d/NOTE-tmpe8t2g.md).

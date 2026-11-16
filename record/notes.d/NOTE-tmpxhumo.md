@@ -71,16 +71,16 @@ complacency; layers of safety redundancy.
 
 ## Bearing on the record
 
-- **CLAIM-tmpnw7ez**: a clean specimen of its structure, in causal terms: the operator answers for
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**: a clean specimen of its structure, in causal terms: the operator answers for
   her conduct, and the conditions-setter is found to have contributed to that conduct itself
   (result 5).
-- **CLAIM-tmpnfjln**: the case A17 §4 uses. It qualifies the claim's blame clause: the official
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: the case A17 §4 uses. It qualifies the claim's blame clause: the official
   account did attribute contribution upstream, though its probable cause names the operator and
   she was suspended and laid off. It also meets the claim's own exclusion, since the operator had
   adequate time (result 3). It says nothing of public or legal blame.
-- **CLAIM-422**: ATG had the policies and the cameras but not the maintained capacity that would
+- **[CLAIM-422](../claims.d/CLAIM-422.md)**: ATG had the policies and the cameras but not the maintained capacity that would
   make them work (results 6-7); an instance of procedure without maintained capacity.
-- **CLAIM-tmp0tg7y**: an analogue, not an instance. Apparent success was read as licence to remove
+- **[CLAIM-tmp0tg7y](../claims.d/CLAIM-tmp0tg7y.md)**: an analogue, not an instance. Apparent success was read as licence to remove
   a redundancy (result 9), but the success was the automation's, not members' compensation.
 - **The exchange** (A17 §4) is accurate except that it calls the operator's distraction
   contributing when it was the probable cause, and omits the pedestrian's impaired crossing.
@@ -88,4 +88,4 @@ complacency; layers of safety redundancy.
 ## Limitations
 
 A safety investigation that disclaims fault; one case; it cannot show how blame was distributed.
-Elish (LIT-tmp4gcqt) wrote before it, from the preliminary report.
+Elish ([LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md)) wrote before it, from the preliminary report.

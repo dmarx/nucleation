@@ -35,7 +35,7 @@ Shifts the AI-responsibility question from agent-like systems and blame to decis
 3. The criterion: "A decision-support tool should enable a human operator to make decisions in accordance with their goals and values (attributability), in a way that allows them to normatively justify and defend their decision (answerability)."
 4. "The Faces of Responsibility": the faces diverge; "Sometimes, for example, the right person to blame didn’t actually make the decision".
 5. "Descriptive Decision-Support": "descriptive AI systems also don’t provide neutral, value-free information"; attributability "might not be a binary property, but a gradual one".
-6. Meaningful human control (LIT-tmpqyqtw) "does not specifically focus on attributability".
+6. Meaningful human control ([LIT-tmpqyqtw](../literature.d/LIT-tmpqyqtw.md)) "does not specifically focus on attributability".
 7. Conclusion: where blame and liability are the aim, "we could still aim for responsibility without attributability".
 
 ## Assumptions
@@ -48,9 +48,9 @@ Accountability, attributability, answerability; attributability gap; decision ow
 
 ## Bearing on the record
 
-- **QUESTION-068**: evidence that ownership and accountability come apart in both directions, in ordinary cases: a manager who takes the blame for an employee's decision, a negligent black-box user blameworthy without answerability, and "responsibility without attributability" as a design option.
-- **THEORY-147**: the same distinction, from Watson and Shoemaker rather than Wolf, with decision-support cases of divergence.
-- **The exchange** (A19 §2) reports the distinction accurately. Its doctor example is A's, and its link to responsibility for structuring others' conditions (CLAIM-tmpnw7ez) is A's: Zeiser treats the user's authorship, not the tool-maker's answerability.
+- **[QUESTION-068](../questions.d/QUESTION-068.md)**: evidence that ownership and accountability come apart in both directions, in ordinary cases: a manager who takes the blame for an employee's decision, a negligent black-box user blameworthy without answerability, and "responsibility without attributability" as a design option.
+- **[THEORY-147](../theory.d/THEORY-147.md)**: the same distinction, from Watson and Shoemaker rather than Wolf, with decision-support cases of divergence.
+- **The exchange** (A19 §2) reports the distinction accurately. Its doctor example is A's, and its link to responsibility for structuring others' conditions ([CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)) is A's: Zeiser treats the user's authorship, not the tool-maker's answerability.
 
 ## Limitations
 

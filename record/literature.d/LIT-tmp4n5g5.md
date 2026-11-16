@@ -35,7 +35,7 @@ summary: >-
   hers in name but does not express her value-judgements. The gap comes in
   degrees and descriptive tools open it too; remedies are endorsement through
   transparency, value calibration and confining tools to description. Read;
-  the reading is NOTE-tmp8qrd6 and THEORY-tmp4z0a7.
+  the reading is [NOTE-tmp8qrd6](../notes.d/NOTE-tmp8qrd6.md) and [THEORY-tmp4z0a7](../theory.d/THEORY-tmp4z0a7.md).
 ---
 <!-- inactive-ok-file: QUESTION-068 THEORY-147 THEORY-tmp4z0a7 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
@@ -50,8 +50,8 @@ Zeiser (2024). *Owning Decisions: AI Decision-Support and the Attributability-Ga
 
 ## Standing in the record
 
-Read. It bears on QUESTION-068 (ownership and accountability come apart)
-and sits beside THEORY-147. It does not bear on CLAIM-tmpnfjln, to which it
+Read. It bears on [QUESTION-068](../questions.d/QUESTION-068.md) (ownership and accountability come apart)
+and sits beside [THEORY-147](../theory.d/THEORY-147.md). It does not bear on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md), to which it
 was attached at registration.
 
 ## Reading of 2026-11-16

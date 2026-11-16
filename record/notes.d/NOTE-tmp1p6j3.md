@@ -52,15 +52,15 @@ monopolist; polycentricity.
 
 ## Bearing on the record
 
-- Connections (partial stand-in for LIT-tmpdfowr): restates, for platforms, the strand "governance
+- Connections (partial stand-in for [LIT-tmpdfowr](../literature.d/LIT-tmpdfowr.md)): restates, for platforms, the strand "governance
   architectures that make exit cheaper than voice" weaken self-government; does not restate accountability
   anchor displacement, the Althusian dilemma, or anything on blockchain or AI decision-making.
-- CLAIM-523: effective voice is close to volitional efficacy; the paper's absence claim is a field
+- [CLAIM-523](../claims.d/CLAIM-523.md): effective voice is close to volitional efficacy; the paper's absence claim is a field
   observation of legibility without efficacy.
-- CLAIM-tmpuiaop (via A23 §5): binding steps are friction in TERM-tmp91lqy's sense; platforms keep
+- [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md) (via A23 §5): binding steps are friction in [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md)'s sense; platforms keep
   expression and drop the points where it binds.
-- CLAIM-tmpwpvbz: computationally enforced limits on administrators are standing constraints without delay.
-- CLAIM-613: "entrepreneurial exit" by forking.
+- [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md): computationally enforced limits on administrators are standing constraints without delay.
+- [CLAIM-613](../claims.d/CLAIM-613.md): "entrepreneurial exit" by forking.
 
 ## Limitations
 

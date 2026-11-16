@@ -86,7 +86,7 @@ summary: >-
   is the record's nearest specimen. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp4gcqt LIT-tmpw46qz LIT-tmp4yz7x — Deferred; registered unread from the same exchange -->
+<!-- inactive-ok-file: LIT-tmpw46qz LIT-tmp4yz7x — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpyjzi8 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-678 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 
@@ -175,7 +175,7 @@ A17 §8 lists three ways the frameworks go wrong:
 - **That automation causes it.** A19 argues algorithms can
   "industrialize" it, and A19 §9 reports studies against the strong form:
   three Dutch experiments that "did not find the expected general pattern
-  of automation bias", and Ozer, Waggoner and Kennedy (2024, LIT-tmpq41d3), whose
+  of automation bias", and Ozer, Waggoner and Kennedy (2024, [LIT-tmpq41d3](../literature.d/LIT-tmpq41d3.md)), whose
   experiments on blame toward judges using algorithmic advice "did not find
   support for the hypothesized tendency for algorithmic recommendations to
   alter blame in the expected ways". A19's own conclusion: "So the strong
@@ -190,7 +190,7 @@ The claim's "What it does not say" cites this study, through A19 §9, as evidenc
 
 ## Note of 2026-11-16: Cerrato, read
 
-Cerrato, Sahlgren and Heilmann (LIT-tmpxzl3z) give a technical instance of the claim's first two parts. The criteria of an automated decision are set upstream by the deployer (label definition, feature measurement, success metric), and in their simulated hiring screen those choices move the explanation a rejected candidate receives more than the explanation method's own tuning does. A counterfactual explanation then frames the subject as the one who must change: it "preclude consideration of whether the decision-maker ought to have acted differently", and a relational view would not "place onto the subjects the burden of simply adapting to institutional discretion". The mechanism differs from the claim's, which is that compensation which prevents failure leaves no trace. Here the deployer's part is hidden by the form of the explanation. Nothing in the paper concerns credit or blame for outcomes. It supports the claim's placement of control and burden. It does not support the account of how blame settles.
+Cerrato, Sahlgren and Heilmann ([LIT-tmpxzl3z](../literature.d/LIT-tmpxzl3z.md)) give a technical instance of the claim's first two parts. The criteria of an automated decision are set upstream by the deployer (label definition, feature measurement, success metric), and in their simulated hiring screen those choices move the explanation a rejected candidate receives more than the explanation method's own tuning does. A counterfactual explanation then frames the subject as the one who must change: it "preclude consideration of whether the decision-maker ought to have acted differently", and a relational view would not "place onto the subjects the burden of simply adapting to institutional discretion". The mechanism differs from the claim's, which is that compensation which prevents failure leaves no trace. Here the deployer's part is hidden by the form of the explanation. Nothing in the paper concerns credit or blame for outcomes. It supports the claim's placement of control and burden. It does not support the account of how blame settles.
 
 ## Note of 2026-11-16: Tognazzini and Coates, read
 
@@ -232,12 +232,12 @@ are distributed before failure. In Tronto's own words (2018, the books being una
 concept is "the capability of the relatively privileged to refuse to accept unpleasant or
 burdensome responsibilities" (p. 8). That is a claim about privileged groups in a society. It
 supports the claim's use of Tronto for the upstream half only by extension to organizations, an
-extension the exchange makes (A17 §2: "An executive can say...") and Liedo et al. (LIT-tmpd8i3u)
+extension the exchange makes (A17 §2: "An executive can say...") and Liedo et al. ([LIT-tmpd8i3u](../literature.d/LIT-tmpd8i3u.md))
 make for care institutions. Relation: none.
 
 ## Note of 2026-11-16: Elish, read
 
-Elish (LIT-tmp4gcqt), read in full, supports this claim's **after-failure half** from a source
+Elish ([LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md)), read in full, supports this claim's **after-failure half** from a source
 independent of the exchange. In complex automated systems the operator "may become simply a
 component—accidentally or intentionally—that bears the brunt of the moral and legal
 responsibilities when the overall system malfunctions", and "the moral crumple zone protects the
@@ -260,7 +260,7 @@ Relation: **corroborates** (after-failure half only; say so in the THEORY).
 
 ## Note of 2026-11-16: Choroszewicz, read
 
-Choroszewicz (LIT-tmpj3pjx) corroborates the claim's **allocation clause** from independent
+Choroszewicz ([LIT-tmpj3pjx](../literature.d/LIT-tmpj3pjx.md)) corroborates the claim's **allocation clause** from independent
 ethnographic evidence. In three generative-AI tool trials, "human oversight and responsibility as
 liability were explicitly codified as a user burden" (p. 6) for tools users could not shape, which
 "insulates technologies and their developers from accountability" (p. 10). It weakly corroborates
@@ -283,7 +283,7 @@ failure. Relation: none.
 
 ## Note of 2026-11-16: NTSB HAR-19/03, read
 
-The case A17 §4 cites, now read (LIT-tmp3lco2). It **qualifies** the claim's blame clause in one
+The case A17 §4 cites, now read ([LIT-tmp3lco2](../literature.d/LIT-tmp3lco2.md)). It **qualifies** the claim's blame clause in one
 case. The official investigation did not settle attribution at the point of visibility alone. It
 made the operator's distraction the probable cause, but found that Uber ATG's "inadequate safety
 risk assessment procedures", oversight and missing countermeasures to automation complacency contributed, "all a

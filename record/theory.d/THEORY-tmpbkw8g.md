@@ -24,7 +24,7 @@ corroborates:
 ## Source
 
 Cuéllar, "The New Presidential Adjudication", The Yale Law Journal Forum,
-9 February 2026, pp. 597–653 (LIT-tmpryo91), read in NOTE-tmpsdyyp.
+9 February 2026, pp. 597–653 ([LIT-tmpryo91](../literature.d/LIT-tmpryo91.md)), read in [NOTE-tmpsdyyp](../notes.d/NOTE-tmpsdyyp.md).
 
 ## What was actually shown
 
@@ -39,7 +39,7 @@ the foreign/domestic line, nonarbitrariness review and a presumption of
 regularity that is defeasible on pretext. Civic actors add friction and buy
 time.
 
-It corroborates CLAIM-462 in one polity and independently of the exchange:
+It corroborates [CLAIM-462](../claims.d/CLAIM-462.md) in one polity and independently of the exchange:
 the executive's capacity for effective action grows while the relations that
 corrected it weaken, and review stays limited "even as the importance and
 scope of this practice grows" (p. 599).
@@ -49,7 +49,7 @@ scope of this practice grows" (p. 599).
 - Nothing about speed as a mechanism. The "temporal asymmetry" reading in the
   exchange (A25) is A's addition, which A acknowledges.
 - Nothing about how an act changes the cost of its own correction
-  (CLAIM-464). The closest it comes is harm imposed "in the meantime" before
+  ([CLAIM-464](../claims.d/CLAIM-464.md)). The closest it comes is harm imposed "in the meantime" before
   courts act (p. 647).
 - No evidence of frequency or outcomes; the essay predates the 2026 cases in
   the record.

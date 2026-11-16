@@ -184,16 +184,16 @@ p. 20). Relation: none.
 
 ## Note of 2026-11-16: Natali, read
 
-Natali, Naiseh, Cabitza and Frischmann (LIT-tmphus2f) were registered against this claim from A21 §2 of the exchange. Their poster is about a different friction: "deliberate inefﬁciencies" placed "at critical points" of one user's interaction with an AI, against automation bias. That is cognitive friction, as A23 §7 itself classes it, not the procedural friction of handoffs, reviews and approvals between parties that this claim is about. It gives the claim no support and reports no evidence. It does show a case the claim's gloss of "exposes" (visible "to someone other than whoever is making it") does not settle. If the executor is the AI pipeline, a pause before its output shows a human the machine's proposal before it becomes the decision, which is exposure in the owner's sense. If the executor is the human user, the friction exposes the decision to no one but its maker, and what it opens is the executor's own correction. Whether such friction counts depends on who executes the process. The claim may want to say so.
+Natali, Naiseh, Cabitza and Frischmann ([LIT-tmphus2f](../literature.d/LIT-tmphus2f.md)) were registered against this claim from A21 §2 of the exchange. Their poster is about a different friction: "deliberate inefﬁciencies" placed "at critical points" of one user's interaction with an AI, against automation bias. That is cognitive friction, as A23 §7 itself classes it, not the procedural friction of handoffs, reviews and approvals between parties that this claim is about. It gives the claim no support and reports no evidence. It does show a case the claim's gloss of "exposes" (visible "to someone other than whoever is making it") does not settle. If the executor is the AI pipeline, a pause before its output shows a human the machine's proposal before it becomes the decision, which is exposure in the owner's sense. If the executor is the human user, the friction exposes the decision to no one but its maker, and what it opens is the executor's own correction. Whether such friction counts depends on who executes the process. The claim may want to say so.
 
 ## Note of 2026-11-16: Alfrink, read
 
-Alfrink, Keller, Kortuem and Doorn (read as a stand-in for Harid, LIT-tmp7ftjn, which could not be fetched) synthesize the contestable-AI literature. Two of their findings bear here. One feature they gather is a second system that every automated decision is run through: "If disagreement between both systems occurs, decision can be flagged for human review." That is a designed point at which a decision in progress is shown to someone other than its maker before it takes effect, the claim's "exposes" reading built in. And for subjects: "Requests for human intervention are necessarily post-hoc, since they happen in response to discrete decisions." Absent such a designed point, the subject's opportunity to intervene comes after the decision. The paper supports the claim's concern as a design consensus, not as a finding: its sources are mostly "not based on empirically validated interventions".
+Alfrink, Keller, Kortuem and Doorn (read as a stand-in for Harid, [LIT-tmp7ftjn](../literature.d/LIT-tmp7ftjn.md), which could not be fetched) synthesize the contestable-AI literature. Two of their findings bear here. One feature they gather is a second system that every automated decision is run through: "If disagreement between both systems occurs, decision can be flagged for human review." That is a designed point at which a decision in progress is shown to someone other than its maker before it takes effect, the claim's "exposes" reading built in. And for subjects: "Requests for human intervention are necessarily post-hoc, since they happen in response to discrete decisions." Absent such a designed point, the subject's opportunity to intervene comes after the decision. The paper supports the claim's concern as a design consensus, not as a finding: its sources are mostly "not based on empirically validated interventions".
 
 ## Note of 2026-11-16: Herd and Moynihan, read
 
-Herd and Moynihan's 2023 review (LIT-tmppku2r, NOTE-tmpliozq), read as a stand-in for their 2025 JEP article
-(LIT-tmp1o7dq), concerns friction borne by claimants: learning and compliance steps that "substantially
+Herd and Moynihan's 2023 review ([LIT-tmppku2r](../literature.d/LIT-tmppku2r.md), [NOTE-tmpliozq](../notes.d/NOTE-tmpliozq.md)), read as a stand-in for their 2025 JEP article
+([LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md)), concerns friction borne by claimants: learning and compliance steps that "substantially
 restrict access to basic rights, benefits, and services" (p. 96). Removing it by automation raised access:
 "By 2016, 34 states used automatic" Medicaid reenrollment (p. 103). This is the extractive friction the
 claim already says it is not about, and it does not bear on the claim's thesis. It sharpens two things the
@@ -206,13 +206,13 @@ discretion in ways that are more likely to penalize Black" beneficiaries, p. 105
 
 The paper bears on A23 §5's development of this claim (friction as infrastructure for voice), not on the
 owner's wording. Effective-voice mechanisms are steps a platform's decision must pass (a vote, a binding
-petition threshold, a removal process): friction in TERM-tmp91lqy's sense. Platforms, built for low
+petition threshold, a removal process): friction in [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md)'s sense. Platforms, built for low
 friction, keep exit and expression cheap and leave out these steps: "The absence of effective voice has
 gone largely unnoticed." Relation: bears_on.
 
 ## Note of 2026-11-16: Citron, read
 
-Citron's "Technological Due Process" (LIT-tmpz93ag, NOTE-tmp61it3) documents, in US benefit and watch-list
+Citron's "Technological Due Process" ([LIT-tmpz93ag](../literature.d/LIT-tmpz93ag.md), [NOTE-tmp61it3](../notes.d/NOTE-tmp61it3.md)) documents, in US benefit and watch-list
 systems, both ways automation can remove a point at which a decision can still be interrupted. Removing
 the human step: Florida's mandatory online application offered no category for relative caregivers, and
 "Eligibility workers were unable to overrule this decision" (p. 1264). Keeping the step but emptying it:
@@ -223,12 +223,12 @@ decision, and "The distinction between mixed and fully automated systems has the
 no effective opportunity, which the claim already says it does not cover. It leaves the "characterizes"
 reading open, and leans against it: Citron's remedies (audit trails, testing suites before launch and on
 every change, open code, stakeholder review boards, p. 1305–12) restore intervention by upstream
-constraint rather than by delay, which is CLAIM-tmpwpvbz's line. Relation: corroborates (the "exposes"
+constraint rather than by delay, which is [CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md)'s line. Relation: corroborates (the "exposes"
 reading).
 
 ## Note of 2026-11-16: Bovens and Zouridis, read
 
-Bovens and Zouridis (LIT-tmp24k63, NOTE-tmpvxobt, read in the authors' manuscript) describe the removal of the
+Bovens and Zouridis ([LIT-tmp24k63](../literature.d/LIT-tmp24k63.md), [NOTE-tmpvxobt](../notes.d/NOTE-tmpvxobt.md), read in the authors' manuscript) describe the removal of the
 very steps this claim locates intervention in. The street-level agency was disciplined by steps a decision
 had to pass before it took effect: "The obligation to obtain the signature of their superior is another
 means to check the power of" low-level servants, ex ante legal review, and in traffic cases a judge (§2.2,
@@ -243,7 +243,7 @@ desirability of these transformations never did ensue" (§7). Relation: corrobor
 
 ## Note of 2026-11-16: de Boer and Raaphorst, read
 
-de Boer and Raaphorst (LIT-tmp75mb1, NOTE-tmp2weid) study a partially automated inspection system whose design
+de Boer and Raaphorst ([LIT-tmp75mb1](../literature.d/LIT-tmp75mb1.md), [NOTE-tmp2weid](../notes.d/NOTE-tmp2weid.md)) study a partially automated inspection system whose design
 is the mirror image of the claim's case: INSPECT generated the verdict and inspectors "could deviate from
 this verdict but only after getting permission from their supervisors" (p. 49). Automation here did not
 remove a gate in front of the decision; it put one in front of the human's override. The study measures

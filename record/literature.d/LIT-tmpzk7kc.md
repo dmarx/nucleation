@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-16 (NOTE-tmp460sz) from the plato.stanford.edu HTML, substantive
+  read 2026-11-16 ([NOTE-tmp460sz](../notes.d/NOTE-tmp460sz.md)) from the plato.stanford.edu HTML, substantive
   revision of 30 Aug 2024; filed and read as the stand-in for Scanlon,
-  Moral Dimensions (LIT-tmpnt5fk, Unavailable), and as a second neighbour,
-  beside LIT-691, for Strawson, "Freedom and Resentment" (LIT-tmpbw6vo,
+  Moral Dimensions ([LIT-tmpnt5fk](LIT-tmpnt5fk.md), Unavailable), and as a second neighbour,
+  beside [LIT-691](LIT-691.md), for Strawson, "Freedom and Resentment" ([LIT-tmpbw6vo](LIT-tmpbw6vo.md),
   Unfetched). It reports Scanlon's account of blame with page references
   (2008: 128–29) and its main criticisms, and Strawson's place as the
   source of emotional theories of blame.
@@ -49,19 +49,19 @@ summary: >-
   about the blaming interaction (proportionality, evidence) and about the
   blamer (standing: hypocrisy, complicity, meddling, moral luck, and
   Carbonell's claimant injustice). Read as the stand-in for Scanlon's
-  Moral Dimensions and beside LIT-691 for Strawson.
+  Moral Dimensions and beside [LIT-691](LIT-691.md) for Strawson.
 ---
 <!-- inactive-ok-file: LIT-tmpbw6vo LIT-tmpnt5fk — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmpzk7kc: Blame
 
 ## Standing in the record
 
-Filed as a neighbour. For Scanlon (LIT-tmpnt5fk) it reports the account's
+Filed as a neighbour. For Scanlon ([LIT-tmpnt5fk](LIT-tmpnt5fk.md)) it reports the account's
 core with the book's page reference (2008: 128–29), its shift from
 Scanlon's earlier cognitive view, and the objections (Wallace, Wolf, Sher).
 It does not report the book's chapters on permissibility or meaning, or
 Scanlon's own replies beyond the "moral relationship". For Strawson
-(LIT-tmpbw6vo) it gives only his place as the genesis of emotional theories
-of blame. LIT-691 (Talbert) is the fuller second-hand source there, with
+([LIT-tmpbw6vo](LIT-tmpbw6vo.md)) it gives only his place as the genesis of emotional theories
+of blame. [LIT-691](LIT-691.md) (Talbert) is the fuller second-hand source there, with
 quotes and page references.
 

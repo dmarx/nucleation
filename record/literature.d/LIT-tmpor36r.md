@@ -27,13 +27,13 @@ summary: >-
   Lefebvre (1980). An Algebraic Model of Ethical Cognition. Journal of
   Mathematical Psychology 22(2): 83-120. DOI 10.1016/0022-2496(80)90014-0.
   Unread (no lawful copy, 2026-11-16). By a secondary account (Umpleby 2016,
-  LIT-tmpmwjhb), it derives two systems of ethical cognition from a
+  [LIT-tmpmwjhb](LIT-tmpmwjhb.md)), it derives two systems of ethical cognition from a
   three-level reflexive model, depending on whether a combination rule is
   addition or multiplication. Umpleby glosses them by means and ends and
   associates the first with the West and the second with the USSR. A11 of the
   exchange "Assess Depp Heard Abuse" gives a compromise/confrontation table
   whose assignment of the systems is in tension with Umpleby's; unsettled
-  until read. Bears on CLAIM-404 only through the reflexive-control tradition.
+  until read. Bears on [CLAIM-404](../claims.d/CLAIM-404.md) only through the reflexive-control tradition.
 ---
 <!-- inactive-ok-file: LIT-1339 — filed from the same exchange, Proposed, or Unavailable -->
 

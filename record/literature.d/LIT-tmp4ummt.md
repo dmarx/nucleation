@@ -30,7 +30,7 @@ summary: >-
   treated as suspects, so that Black men, cast as Christie's ideal
   offender, became "(un)victims". Restates Christie's definition and
   attributes of the ideal victim with page references; read as a partial
-  stand-in for Christie (1986), LIT-tmpyjztu, cited in the exchange "Assess
+  stand-in for Christie (1986), [LIT-tmpyjztu](LIT-tmpyjztu.md), cited in the exchange "Assess
   Depp Heard Abuse" (A5 §3).
 ---
 <!-- inactive-ok-file: LIT-tmpyjztu — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -46,5 +46,5 @@ to race and policing: victim status is conferred, and the police can act as the 
 
 ## Standing in the record
 
-Filed as a partial stand-in for LIT-tmpyjztu (Christie 1986): it restates his definition and attributes, not his
+Filed as a partial stand-in for [LIT-tmpyjztu](LIT-tmpyjztu.md) (Christie 1986): it restates his definition and attributes, not his
 wider argument, and applies them to race and policing rather than partner violence.

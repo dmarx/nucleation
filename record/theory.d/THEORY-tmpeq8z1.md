@@ -27,7 +27,7 @@ bears_on:
 ## Source
 
 Hong Kong Monetary Authority, "Discussion Paper on Agentic A.I. Governance in
-the Banking Sector", November 2026 (LIT-tmpo6res), read in NOTE-tmphnawz.
+the Banking Sector", November 2026 ([LIT-tmpo6res](../literature.d/LIT-tmpo6res.md)), read in [NOTE-tmphnawz](../notes.d/NOTE-tmphnawz.md).
 
 ## What was actually shown
 
@@ -42,12 +42,12 @@ or velocity may need to be constrained." (§4.3, p. 19). Velocity limits
 should be commensurate "with the demonstrated effectiveness of oversight"
 (p. 19).
 
-It corroborates CLAIM-tmpfmmkt qualitatively, as a regulator's judgement:
+It corroborates [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md) qualitatively, as a regulator's judgement:
 where actions outrun review, the approval step stays in place and stops
 working ("approval fatigue", §4.4, p. 20). It gives no rates and no
 derivation, and the exchange's A had read it (A23 §3) before A35 stated
 the throughput claim, so it is only partly independent. It bears on
-QUESTION-tmp9n1ac: it puts the stopping points before consequential
+[QUESTION-tmp9n1ac](../questions.d/QUESTION-tmp9n1ac.md): it puts the stopping points before consequential
 actions take effect and ties the rate of action to the capacity of review.
 
 ## What this does not say
@@ -55,7 +55,7 @@ actions take effect and ties the rate of action to the capacity of review.
 - That standing limits make friction unnecessary. It pairs them with
   approval gates and transaction-specific validation, and its answer to
   speed is to slow the agent down. So it is the documentary source of
-  CLAIM-tmpwpvbz's architecture, not support for that claim's conclusion
+  [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)'s architecture, not support for that claim's conclusion
   that an opportunity to intervene does not consist in friction.
 - That the controls work. "practical evidence remains limited" (§4.1); it is
   a discussion paper that creates no obligations (§2.3).

@@ -93,23 +93,23 @@ attacks; civic friction; Weber's iron cage and ethic of responsibility.
 
 ## Bearing on the record
 
-- **CLAIM-462**: corroborates it in one polity, independently of the
+- **[CLAIM-462](../claims.d/CLAIM-462.md)**: corroborates it in one polity, independently of the
   exchange. The White House's capacity for effective action grows (tools,
   reach, information, control of personnel) while the relations that
   corrected it (oversight, norms, agency independence, the premise of the
   presumption of regularity) weaken. He also holds that courts depend on
   others to enforce. He does not argue that the two capacities are
   maintained by different relations; that step is the claim's.
-- **CLAIM-464**: does not treat the mechanism. Result 7 shows the claim's
+- **[CLAIM-464](../claims.d/CLAIM-464.md)**: does not treat the mechanism. Result 7 shows the claim's
   timing condition, harm before an effective remedy, not a rise in the cost
   of the corrective outcome.
-- **CASE-tmproiqs**: not discussed (it postdates the essay), but it fits his
+- **[CASE-tmproiqs](../cases.d/CASE-tmproiqs.md)**: not discussed (it postdates the essay), but it fits his
   account: a presidential announcement on a specific site, a stated
   rationale found "pretextual", and a dispute over whether a final plan
   existed, which is the threshold his own remedy needs (result 6).
-- **CASE-tmp4gbo6**: not discussed. Immigration appears only as a field
+- **[CASE-tmp4gbo6](../cases.d/CASE-tmp4gbo6.md)**: not discussed. Immigration appears only as a field
   where foreign and domestic affairs blur.
-- **TERM-tmp91lqy**: his "friction" (result 8) is spoken of as delay, but his
+- **[TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md)**: his "friction" (result 8) is spoken of as delay, but his
   instances are dependence (states declining cooperation, litigation that
   can enjoin), which is friction in the term's sense.
 - **The exchange** (A25) summarizes him accurately and marks its temporal

@@ -20,7 +20,7 @@ bears_on:
 
 ## Source
 
-LIT-tmphus2f, read in the open-access published version, HHAI 2025, pp. 518–521.
+[LIT-tmphus2f](../literature.d/LIT-tmphus2f.md), read in the open-access published version, HHAI 2025, pp. 518–521.
 
 ## What was actually shown
 
@@ -28,6 +28,6 @@ Nothing empirical: the poster defines designed friction ("deliberate inefﬁcien
 
 ## What this does not say
 
-- That friction works: the evidence is in the cited work (Buçinca et al., held as THEORY-1765), not here.
+- That friction works: the evidence is in the cited work (Buçinca et al., held as [THEORY-1765](THEORY-1765.md)), not here.
 - Anything about procedural or institutional friction between parties, or about who may intervene in a process; its friction is inside one user's interaction with an AI.
 - How friction is to be defined beyond added inefficiency.

@@ -55,12 +55,12 @@ redemption costs; churn.
 ## Bearing on the record
 
 - Connections (stand-in): restates the three-cost framework and the distributive claim that A23 §4
-  attributes to LIT-tmp1o7dq; does not restate whatever evidence review or proposals that article adds.
-- CLAIM-tmpuiaop: claimant-side friction, removed by automation (items 3, 5), raised access; that is the
+  attributes to [LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md); does not restate whatever evidence review or proposals that article adds.
+- [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md): claimant-side friction, removed by automation (items 3, 5), raised access; that is the
   extractive friction the claim sets aside, but item 5 shows automation can move friction onto those left
   outside the automated path, and item 4 that discretion at the human step cuts both ways.
-- TERM-tmp91lqy: supports its classing of burden as a gate on the claimant, not on the executor.
-- TERM-055, CASE-172, LIT-1609: item 1 is the burden-on-rights idea the record took from the book's
+- [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md): supports its classing of burden as a gate on the claimant, not on the executor.
+- [TERM-055](../terms.d/TERM-055.md), [CASE-172](../cases.d/CASE-172.md), [LIT-1609](../literature.d/LIT-1609.md): item 1 is the burden-on-rights idea the record took from the book's
   introduction, here with take-up evidence across programs.
 
 ## Limitations

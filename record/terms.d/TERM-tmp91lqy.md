@@ -115,7 +115,7 @@ only where the approver sees the substance, can reject, "regards rejection
 as a legitimate outcome", and has time. So dependence on another's
 condition is necessary on this term's reading for an opportunity to
 intervene, and not sufficient: a gate can be friction and expose nothing.
-This qualifies the reading of CLAIM-tmpkx7ct, where "an opportunity to
+This qualifies the reading of [CLAIM-tmpkx7ct](../claims.d/CLAIM-tmpkx7ct.md), where "an opportunity to
 intervene is a piece of friction" is close to definitional. The converse,
 that a piece of friction is an opportunity, fails. Relation: none (a THEORY
 cannot bound a TERM); a note.
@@ -130,7 +130,7 @@ The second-system safeguard is a clean case of the term's "friction without dela
 
 ## Note of 2026-11-16: Herd and Moynihan, read
 
-The term classes administrative burden as "a burden, not a gate" on the executor and cites LIT-tmp1o7dq.
+The term classes administrative burden as "a burden, not a gate" on the executor and cites [LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md).
 The 2023 review supports that: its burdens are conditions on the claimant's access, imposed by the agency,
 and the agency's own action does not wait on them. Where a burden becomes a correction channel (EITC
 audits answered by mail, "If the IRS does not receive a response, the default judgment" follows, p. 109) it

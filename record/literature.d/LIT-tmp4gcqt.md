@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read 2026-11-16 in full from the open-access version of record at
   https://estsjournal.org/index.php/ests/article/download/260/177 (CC
-  BY-NC-ND). Reading in NOTE-tmpikab6; account in THEORY-tmpdlw9l.
+  BY-NC-ND). Reading in [NOTE-tmpikab6](../notes.d/NOTE-tmpikab6.md); account in [THEORY-tmpdlw9l](../theory.d/THEORY-tmpdlw9l.md).
 title: 'Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction'
 version: 2
 history:
@@ -35,8 +35,8 @@ summary: >-
   technological system" is protected. She argues it from the reception of
   Three Mile Island and Air France 447, through media framing, certification
   and the operator's legal final authority, and expects it of self-driving
-  cars. Read 2026-11-16 (NOTE-tmpikab6, THEORY-tmpdlw9l). It corroborates the
-  after-failure half of CLAIM-tmpnfjln. The exchange's report of it is
+  cars. Read 2026-11-16 ([NOTE-tmpikab6](../notes.d/NOTE-tmpikab6.md), [THEORY-tmpdlw9l](../theory.d/THEORY-tmpdlw9l.md)). It corroborates the
+  after-failure half of [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). The exchange's report of it is
   accurate. The claim's credit-for-compensation half is A's, not Elish's.
 ---
 <!-- inactive-ok-file: THEORY-tmpdlw9l — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -67,4 +67,4 @@ perceptions of blame and responsibility", not legal liability (p. 52). The excha
 accurately (A15 §5, A17 §§1, 4), adding "professional" to Elish's "moral and legal". A17's
 supervisor and nurse illustrations are A's own. Elish says nothing about credit for failures
 that human compensation prevented. The Uber discussion predates the NTSB final report
-(LIT-tmp3lco2).
+([LIT-tmp3lco2](LIT-tmp3lco2.md)).

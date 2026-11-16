@@ -5,7 +5,7 @@ status_note: >-
   full text), PMC (no deposit), OpenAlex (oa_status closed; only the SAGE and
   PubMed locations), Semantic Scholar (openAccessPdf CLOSED), web search
   (metadata pages only); the SAGE copy is paywalled. The abstract was read
-  (PubMed 39963979). Cunha et al. 2025 (LIT-tmp4xiao, the neighbour) stands in in
+  (PubMed 39963979). Cunha et al. 2025 ([LIT-tmp4xiao](LIT-tmp4xiao.md), the neighbour) stands in in
   part: on the prevalence range and on how few studies use both partners'
   reports; not on this review's 34 dyadic studies or its coding-rule finding.
 title: 'Scoping Review of Bidirectional Intimate Partner Violence Using Dyadic Data'
@@ -37,7 +37,7 @@ summary: >-
   either partner reported violence, which may overstate it; partners' reports
   agree poorly. Registered from the exchange "Assess Depp Heard Abuse" (A5
   §2), whose figures match the abstract. Unavailable: no lawful full text.
-  Cunha et al. 2025 (LIT-tmp4xiao) stands in in part.
+  Cunha et al. 2025 ([LIT-tmp4xiao](LIT-tmp4xiao.md)) stands in in part.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -51,7 +51,7 @@ Stover, Krauss, Yeterian, DeMoss, Funaro, Webermann, Presseau, Portnoy (2025). *
 
 ## Standing in the record
 
-Registered from the exchange (A5 §2) on how mutual violence is counted. Unavailable on 2026-11-16; abstract read. Cunha et al. 2025 (LIT-tmp4xiao) stands in in part (see its LIT). No relation to CLAIM-tmpp8na7 or CASE-tmpwrhkd is proposed while unread.
+Registered from the exchange (A5 §2) on how mutual violence is counted. Unavailable on 2026-11-16; abstract read. Cunha et al. 2025 ([LIT-tmp4xiao](LIT-tmp4xiao.md)) stands in in part (see its LIT). No relation to [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) or [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md) is proposed while unread.
 
 ## Reading of 2026-11-16
 

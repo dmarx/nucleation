@@ -23,7 +23,7 @@ corroborates:
 
 ## Source
 
-LIT-tmpi9cwn, read in arXiv 1706.09847v3, the extended version of the FAT* 2018 paper (PMLR 81).
+[LIT-tmpi9cwn](../literature.d/LIT-tmpi9cwn.md), read in arXiv 1706.09847v3, the extended version of the FAT* 2018 paper (PMLR 81).
 
 ## What was actually shown
 

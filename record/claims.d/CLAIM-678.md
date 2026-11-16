@@ -112,7 +112,7 @@ warrant: interpretive, by cases, not by a model.
 ## Note of 2026-11-16: Elish, read
 
 Elish locates the attribution of blame in who frames the failure: official reports, certification
-standards and the press. That is close to the claim's epistemic power, and it fits CLAIM-tmpnfjln's
+standards and the press. That is close to the claim's epistemic power, and it fits [CLAIM-tmpnfjln](CLAIM-tmpnfjln.md)'s
 gloss that blame is "a use of the third" dimension. She does not use the claim's terms.
 Relation: none.
 

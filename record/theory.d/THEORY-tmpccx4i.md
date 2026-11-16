@@ -21,8 +21,8 @@ corroborates:
 
 ## Source
 
-Johnson (2006), Violence Against Women 12(11): 1003-1018 (LIT-tmpqj5oq), the stand-in for Johnson (2008), LIT-tmpyfuuw;
-read in NOTE-tmprqrfr (draft).
+Johnson (2006), Violence Against Women 12(11): 1003-1018 ([LIT-tmpqj5oq](../literature.d/LIT-tmpqj5oq.md)), the stand-in for Johnson (2008), [LIT-tmpyfuuw](../literature.d/LIT-tmpyfuuw.md);
+read in [NOTE-tmprqrfr](../notes.d/NOTE-tmprqrfr.md) (draft).
 
 ## What was actually shown
 

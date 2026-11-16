@@ -25,7 +25,7 @@ summary: >-
 
 ## Contribution
 
-The author's summary of Moral Failure (LIT-tmp5l3yx) in a symposium reply to Rivera, Schwartzman and Kittay, and an extension to "the concept of unfair duties" (p. 16), taken from Karnein (2014).
+The author's summary of Moral Failure ([LIT-tmp5l3yx](../literature.d/LIT-tmp5l3yx.md)) in a symposium reply to Rivera, Schwartzman and Kittay, and an extension to "the concept of unfair duties" (p. 16), taken from Karnein (2014).
 
 ## Key results
 
@@ -47,11 +47,11 @@ Impossible moral requirements; unavoidable moral failure; negotiable and non-neg
 
 ## Bearing on the record
 
-- **CLAIM-tmpd6uxt**: corroborates it from a line independent of Keller. A third party's wrongdoing can leave an agent genuinely bound to an innocent dependent; she is wronged, and the wrongdoer owes her reparation (results 4, 7). It also qualifies the claim: when the person owed is himself the wrongdoer, the obligation may be forfeited (result 6). Keller's patient who misses his bus on purpose is such a case, and his dog and students are not.
-- **CLAIM-tmpnw7ez**: corroborates it. A answers to B for the predicament he made, while B still answers for meeting or failing C's need; A's wrong is "luck" in one relationship and agency in the other.
-- **QUESTION-tmpgyn11**: bears on it. In result 4, A controls B's money, support and exit and so leaves her bound; the obligation persists, which is the question's moral cost of withdrawal.
-- **THEORY-118**: consistent with it. Blame does not fit unavoidable failure, though "ought implies can" is denied for requirement.
-- **CLAIM-671**: bears on its principle. Tessman contests Kittay's view that coercion into a caring position prevents the requirement from arising, where the dependent is a third party.
+- **[CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md)**: corroborates it from a line independent of Keller. A third party's wrongdoing can leave an agent genuinely bound to an innocent dependent; she is wronged, and the wrongdoer owes her reparation (results 4, 7). It also qualifies the claim: when the person owed is himself the wrongdoer, the obligation may be forfeited (result 6). Keller's patient who misses his bus on purpose is such a case, and his dog and students are not.
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**: corroborates it. A answers to B for the predicament he made, while B still answers for meeting or failing C's need; A's wrong is "luck" in one relationship and agency in the other.
+- **[QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md)**: bears on it. In result 4, A controls B's money, support and exit and so leaves her bound; the obligation persists, which is the question's moral cost of withdrawal.
+- **[THEORY-118](../theory.d/THEORY-118.md)**: consistent with it. Blame does not fit unavoidable failure, though "ought implies can" is denied for requirement.
+- **[CLAIM-671](../claims.d/CLAIM-671.md)**: bears on its principle. Tessman contests Kittay's view that coercion into a caring position prevents the requirement from arising, where the dependent is a third party.
 - **The exchange** (A7 closing): its description of Moral Failure is accurate in substance. The A/B/C case is nearer the exchange's subject than anything A cited.
 
 ## Limitations

@@ -23,16 +23,16 @@ bears_on:
 
 ## Source
 
-Tessman (2016), "Moral Failure — Response to Critics" (LIT-tmpq5p0l), read as a stand-in for Moral Failure (LIT-tmp5l3yx). The reading is NOTE-tmp58s6l.
+Tessman (2016), "Moral Failure — Response to Critics" ([LIT-tmpq5p0l](../literature.d/LIT-tmpq5p0l.md)), read as a stand-in for Moral Failure ([LIT-tmp5l3yx](../literature.d/LIT-tmp5l3yx.md)). The reading is [NOTE-tmp58s6l](../notes.d/NOTE-tmp58s6l.md).
 
 ## What was actually shown
 
 Argument, not evidence. "Nonnegotiable moral requirements remain binding even when they become impossible to fulfill" (p. 1). In a coercive household (p. 14), A's wrongdoing "functions like luck" for B's obligation to their child C, and "A owes all kinds of reparations to B". The case depends on C being innocent (p. 15). "There are moral requirements that it is unfair for us to be bound by, but that nevertheless are binding on us" (p. 16).
 
-Corroborates CLAIM-tmpd6uxt (a genuine obligation created by another's wrong, with a complaint against the wrongdoer) and CLAIM-tmpnw7ez (the wrongdoer answers for the predicament while the bound party still answers for her own conduct). Bears on QUESTION-tmpgyn11.
+Corroborates [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md) (a genuine obligation created by another's wrong, with a complaint against the wrongdoer) and [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) (the wrongdoer answers for the predicament while the bound party still answers for her own conduct). Bears on [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md).
 
 ## What this does not say
 
 - That the bound party must, all things considered, meet the obligation: she may rightly put her own needs first, at the cost of unavoidable failure (p. 15).
 - That the obligation binds when the dependent is the wrongdoer: then it may be forfeited (p. 15).
-- How large the obligation is; nothing on limits of the kind CLAIM-tmpd6uxt adds.
+- How large the obligation is; nothing on limits of the kind [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md) adds.

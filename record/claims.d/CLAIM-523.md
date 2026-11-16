@@ -268,7 +268,7 @@ The paper shows a specific failure of legibility. A counterfactual explanation m
 
 ## Note of 2026-11-16: Frey and Schneider, read
 
-Frey and Schneider (LIT-tmpqws4y, NOTE-tmp1p6j3) split Hirschman's voice into affective voice, which persuades, and
+Frey and Schneider ([LIT-tmpqws4y](../literature.d/LIT-tmpqws4y.md), [NOTE-tmp1p6j3](../notes.d/NOTE-tmp1p6j3.md)) split Hirschman's voice into affective voice, which persuades, and
 effective voice, "a form of individual or collective speech that brings about a binding effect according to
 transparent processes". Their field claim is that online platforms supply the first in abundance and the
 second hardly at all: likes and mutes are "affective pressure valves in the guise of effective acts". That

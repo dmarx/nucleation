@@ -9,7 +9,7 @@ status_note: >-
   https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452052 (Cloudflare
   challenge, HTTP 403). The publisher's version at Springer is paywalled; its
   abstract was read. The authors' 2021 chapter of the same title,
-  LIT-tmpjp4qh, read in full, stands in for the account and its four cases;
+  [LIT-tmpjp4qh](LIT-tmpjp4qh.md), read in full, stands in for the account and its four cases;
   the abstract's defining sentence occurs word for word in it. The article's
   text was not compared.
 title: 'Agency Laundering and Information Technologies'
@@ -43,7 +43,7 @@ summary: >-
   Facebook's advertising suggestions, Uber's driver interfaces, algorithmic
   evaluation of K-12 teachers and risk assessment in sentencing, and
   distinguished from the responsibility gap, bias laundering and masking.
-  Unfetched; the 2021 book chapter LIT-tmpjp4qh, read, stands in for it.
+  Unfetched; the 2021 book chapter [LIT-tmpjp4qh](LIT-tmpjp4qh.md), read, stands in for it.
 ---
 <!-- inactive-ok-file: THEORY-tmpuga36 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -59,17 +59,17 @@ Rubel, Castro, Pham (2019). *Agency Laundering and Information Technologies*. Et
 
 ## Standing in the record
 
-Unfetched. The 2021 book chapter, LIT-tmpjp4qh, stands in for it: the same
+Unfetched. The 2021 book chapter, [LIT-tmpjp4qh](LIT-tmpjp4qh.md), stands in for it: the same
 account and cases by the abstract, the article's own text not compared.
-It bears through that reading on CLAIM-624, QUESTION-070 and, conditionally,
-CLAIM-tmpnfjln.
+It bears through that reading on [CLAIM-624](../claims.d/CLAIM-624.md), [QUESTION-070](../questions.d/QUESTION-070.md) and, conditionally,
+[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md).
 
 ## Reading of 2026-11-16
 
 Not read. Only the abstract was reached. It states the same account as
-the 2021 chapter, LIT-tmpjp4qh, in the same words, with the same four cases
+the 2021 chapter, [LIT-tmpjp4qh](LIT-tmpjp4qh.md), in the same words, with the same four cases
 and the same three foils; the chapter, read in full, carries the record's
-reading (NOTE-tmpw5xe2, THEORY-tmpuga36 of that LIT). How far the texts differ beyond
+reading ([NOTE-tmpw5xe2](../notes.d/NOTE-tmpw5xe2.md), [THEORY-tmpuga36](../theory.d/THEORY-tmpuga36.md) of that LIT). How far the texts differ beyond
 the abstract is unknown: the chapter is adapted to the book, with
 cross-references to earlier chapters and sections on humans in the loop and
 on the charge of mere metaphor that may or may not be in the article.

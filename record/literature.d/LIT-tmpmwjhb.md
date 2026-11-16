@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   read 2026-11-16 in full at the publisher's open-access site, as a thin
-  stand-in for Lefebvre (1980) and (1982), LIT-tmpor36r and LIT-tmp37qct,
+  stand-in for Lefebvre (1980) and (1982), [LIT-tmpor36r](LIT-tmpor36r.md) and [LIT-tmp37qct](LIT-tmp37qct.md),
   both Unavailable
 title: 'Vladimir Lefebvre''s Theory of Two Systems of Ethical Cognition'
 version: 1
@@ -30,7 +30,7 @@ summary: >-
   systems, the end not justifying the means in the first (dominant in the
   West, where the compromiser is the saint) and justifying them in the
   second (dominant in the USSR, where the confronter is), with anecdotal
-  support. Read as a thin stand-in for LIT-tmpor36r and LIT-tmp37qct.
+  support. Read as a thin stand-in for [LIT-tmpor36r](LIT-tmpor36r.md) and [LIT-tmp37qct](LIT-tmp37qct.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpje6vo — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmp37qct LIT-tmpor36r — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -44,4 +44,4 @@ Two ethical systems from one formal model; first (West): the end does not justif
 
 ## Standing in the record
 
-Stands in thinly for LIT-tmpor36r and LIT-tmp37qct: it restates the existence of the two systems, their formal origin in a combination rule and their cultural association, and nothing of the model. NOTE-tmphkehf, THEORY-tmpje6vo.
+Stands in thinly for [LIT-tmpor36r](LIT-tmpor36r.md) and [LIT-tmp37qct](LIT-tmp37qct.md): it restates the existence of the two systems, their formal origin in a combination rule and their cultural association, and nothing of the model. [NOTE-tmphkehf](../notes.d/NOTE-tmphkehf.md), [THEORY-tmpje6vo](../theory.d/THEORY-tmpje6vo.md).

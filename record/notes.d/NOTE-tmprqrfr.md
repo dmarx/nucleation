@@ -53,11 +53,11 @@ gender symmetry; sampling bias.
 
 ## Bearing on the record
 
-- **CLAIM-tmpp8na7: corroborates.** The typology is built on the separation the claim asserts: the types are defined
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md): corroborates.** The typology is built on the separation the claim asserts: the types are defined
   by control and not by the violent acts, and a partner can be violent without being controlling while the other
   controls (violent resistance). The support is empirical, that the separation is real and consequential, not that
   responsibility follows control.
-- **CASE-tmpwrhkd**: Relationship A is situational couple violence; Relationship B is intimate terrorism with violent
+- **[CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md)**: Relationship A is situational couple violence; Relationship B is intimate terrorism with violent
   resistance. The stipulation that Carol strikes more often is atypical in Johnson's data (result 5) but consistent
   with a classification by control rather than count.
 - **The exchange** (A3 §2, §5) states the four types and the sampling account accurately; its label "coercive

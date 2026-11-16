@@ -25,8 +25,8 @@ bears_on:
 ## Source
 
 The SEP entry "Blame" by Neal Tognazzini and D. Justin Coates (2014, rev.
-2024), read in NOTE-tmp460sz as the stand-in for Scanlon's Moral Dimensions
-(LIT-tmpnt5fk) and beside LIT-691 for Strawson (LIT-tmpbw6vo).
+2024), read in [NOTE-tmp460sz](../notes.d/NOTE-tmp460sz.md) as the stand-in for Scanlon's Moral Dimensions
+([LIT-tmpnt5fk](../literature.d/LIT-tmpnt5fk.md)) and beside [LIT-691](../literature.d/LIT-691.md) for Strawson ([LIT-tmpbw6vo](../literature.d/LIT-tmpbw6vo.md)).
 
 ## What was actually shown
 
@@ -43,11 +43,11 @@ concludes that "The superior officer who orders a subordinate to do
 something morally reprehensible is not in a position to blame the
 subordinate for carrying out the order, even if civilians are."
 
-That corroborates CLAIM-tmpnw7ez from the side of blame. A party who
+That corroborates [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) from the side of blame. A party who
 structured another's circumstances so that the wrong became hard to avoid
 loses standing to blame the actor, while the actor stays blameworthy to
 others. Both responsibilities hold of one act. The source is independent of
-the exchange. QUESTION-468 asks who answers for exploitation when the
+the exchange. [QUESTION-468](../questions.d/QUESTION-468.md) asks who answers for exploitation when the
 arrangement is not an agent. The reported argument of Watson (2015) and
 Beade (2019), that a state partly responsible for the conditions of crime
 may lack standing to punish it, is a nearby institutional case.

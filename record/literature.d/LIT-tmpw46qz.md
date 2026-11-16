@@ -9,7 +9,7 @@ status_note: >-
   (doi:10.20853/32-6-2710), for her own definition of privileged
   irresponsibility; Parra Jounou and Tronto (2024), the Contemporary Political
   Theory interview (doi:10.1057/s41296-024-00680-6); and Liedo et al. (2024,
-  LIT-tmpd8i3u) for the fullest exposition. They stand in for the concept's
+  [LIT-tmpd8i3u](LIT-tmpd8i3u.md)) for the fullest exposition. They stand in for the concept's
   definition only, not for the book's argument.
 title: 'Moral Boundaries: A Political Argument for an Ethic of Care'
 version: 2
@@ -38,9 +38,9 @@ summary: >-
   §2) for privileged irresponsibility, which Tronto defines elsewhere as "the
   capability of the relatively privileged to refuse to accept unpleasant or
   burdensome responsibilities" (Tronto 2018, a neighbour read in its place).
-  Liedo et al. (LIT-tmpd8i3u) confirm that the concept was introduced here.
+  Liedo et al. ([LIT-tmpd8i3u](LIT-tmpd8i3u.md)) confirm that the concept was introduced here.
   What A says of the book beyond the definition ("passes", the "privilege of
-  not noticing") is unverified. It bears on CLAIM-tmpnfjln and CLAIM-tmpyjzi8
+  not noticing") is unverified. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) and [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md)
   through the concept only.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->
@@ -59,9 +59,9 @@ Not read: no lawful copy (2026-11-16). Stand-ins: Tronto (2018) in SAJHE and the
 in Contemporary Political Theory, both read in full, give Tronto's own words for privileged
 irresponsibility: the privileged's capability "to refuse to accept unpleasant or burdensome
 responsibilities", whose danger "is to cut off one’s reaction to others". Liedo et al.
-(LIT-tmpd8i3u) give the breadwinner example and the moral and political levels, at second hand.
+([LIT-tmpd8i3u](LIT-tmpd8i3u.md)) give the breadwinner example and the moral and political levels, at second hand.
 None restates the book's argument. A's "passes" and "privilege of not noticing" remain
-unverified. Stand-in read on 2026-11-16: LIT-tmpwnr47, Parra Jounou and Tronto (2024), with LIT-tmpxla08, for the concept only.
+unverified. Stand-in read on 2026-11-16: [LIT-tmpwnr47](LIT-tmpwnr47.md), Parra Jounou and Tronto (2024), with [LIT-tmpxla08](LIT-tmpxla08.md), for the concept only.
 
 ## Reading of 2026-11-16
 
@@ -69,6 +69,6 @@ Not read: no lawful copy (2026-11-16). Stand-ins: Tronto (2018) in SAJHE and the
 in Contemporary Political Theory, both read in full, give Tronto's own words for privileged
 irresponsibility: the privileged's capability "to refuse to accept unpleasant or burdensome
 responsibilities", whose danger "is to cut off one’s reaction to others". Liedo et al.
-(LIT-tmpd8i3u) give the breadwinner example and the moral and political levels, at second hand.
+([LIT-tmpd8i3u](LIT-tmpd8i3u.md)) give the breadwinner example and the moral and political levels, at second hand.
 None restates the book's argument. A's "passes" and "privilege of not noticing" remain
 unverified.

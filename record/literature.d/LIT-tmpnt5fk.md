@@ -55,7 +55,7 @@ Scanlon (2008). *Moral Dimensions: Permissibility, Meaning, Blame*. Belknap Pres
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmpzk7kc, the SEP entry Blame (Tognazzini and Coates).
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmpzk7kc](LIT-tmpzk7kc.md), the SEP entry Blame (Tognazzini and Coates).
 
 ## Reading of 2026-11-16
 

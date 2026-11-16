@@ -24,13 +24,13 @@ bears_on:
 
 ## Source
 
-Rubel, Castro and Pham (2021), ch. 7 of *Algorithms and Autonomy*, LIT-tmpjp4qh, read in full; the reading is NOTE-tmpw5xe2. The 2019 article, LIT-tmp16tpz, states the same account by its abstract and was not reached.
+Rubel, Castro and Pham (2021), ch. 7 of *Algorithms and Autonomy*, [LIT-tmpjp4qh](../literature.d/LIT-tmpjp4qh.md), read in full; the reading is [NOTE-tmpw5xe2](../notes.d/NOTE-tmpw5xe2.md). The 2019 article, [LIT-tmp16tpz](../literature.d/LIT-tmp16tpz.md), states the same account by its abstract and was not reached.
 
 ## What was actually shown
 
 An analysis, not a finding. The definition (p. 143): a party (1) morally responsible for a domain (2) ensures that some process, person or entity has causal responsibility in it, (3) "ascribes (implicitly or explicitly) morally relevant qualities to b’s actions", (4) thereby obscures the scope of its own causal responsibility, and (5) "fails to adequately account for events within X". The defining wrong is "forestalling others’ ability to demand an account" (p. 143), and it does "not require that one infringe one’s substantive role responsibilities" (n. 21). Applied: Facebook, Uber's surge prompts and Houston's EVAAS launder; Uber's goal reminders and the Loomis court do not. Invoking a responsibility gap can itself launder (p. 157), and humans in the loop can launder "just as well as automation itself" (p. 160).
 
-Corroborates CLAIM-624 for its structure (a wrong of answerability beyond the substantive violation), from a source independent of the exchange that produced CLAIM-624. Bears on QUESTION-070: a firm's laundering does not need an individual who intends it.
+Corroborates [CLAIM-624](../claims.d/CLAIM-624.md) for its structure (a wrong of answerability beyond the substantive violation), from a source independent of the exchange that produced [CLAIM-624](../claims.d/CLAIM-624.md). Bears on [QUESTION-070](../questions.d/QUESTION-070.md): a firm's laundering does not need an individual who intends it.
 
 ## What this does not say
 

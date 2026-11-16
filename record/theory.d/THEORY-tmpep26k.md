@@ -20,7 +20,7 @@ bears_on:
 
 ## Source
 
-The new LIT for Cameron (2022), Organization Science 33(1), read in the author's manuscript as a partial stand-in for Cameron (2024), LIT-tmpdkpdp.
+The new LIT for Cameron (2022), Organization Science 33(1), read in the author's manuscript as a partial stand-in for Cameron (2024), [LIT-tmpdkpdp](../literature.d/LIT-tmpdkpdp.md).
 
 ## What was actually shown
 

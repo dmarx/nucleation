@@ -138,7 +138,7 @@ the argument is [ARG-tmpsyaz2](../arguments.d/ARG-tmpsyaz2.md).
 
 ## Note of 2026-11-16: Cunha and colleagues, read
 
-This systematic review of how bidirectional partner violence is measured supports the claim's first half from measurement practice. Thirty-four of 50 studies used the Conflict Tactics Scale, which counts acts, and "the CTS does not capture information about who initiates the violence, making it difficult to distinguish between acts committed in self-defense or retaliation and those initiated without provocation". As a result, "comparing the frequency of violence can lead to couples being perceived as having BV, even when one partner is merely acting in self-defense". A tally of acts, as the field takes it, therefore cannot show who holds control. The review says nothing about the claim's second half, responsibility for the structure. The authors also counsel "avoiding the reinforcement of unilateral blame", consistent with the claim's refusal to excuse the controlled party. Relation: corroborates. The reading was filed as a stand-in for LIT-tmp5jqvq.
+This systematic review of how bidirectional partner violence is measured supports the claim's first half from measurement practice. Thirty-four of 50 studies used the Conflict Tactics Scale, which counts acts, and "the CTS does not capture information about who initiates the violence, making it difficult to distinguish between acts committed in self-defense or retaliation and those initiated without provocation". As a result, "comparing the frequency of violence can lead to couples being perceived as having BV, even when one partner is merely acting in self-defense". A tally of acts, as the field takes it, therefore cannot show who holds control. The review says nothing about the claim's second half, responsibility for the structure. The authors also counsel "avoiding the reinforcement of unilateral blame", consistent with the claim's refusal to excuse the controlled party. Relation: corroborates. The reading was filed as a stand-in for [LIT-tmp5jqvq](../literature.d/LIT-tmp5jqvq.md).
 
 ## Note of 2026-11-16: Lohmann, read
 
@@ -151,11 +151,11 @@ IPV researchers outside the exchange state the separation this claim makes. They
 ## Note of 2026-11-16: Johnson, read
 
 Johnson's 2008 book, which A3 cites for the typology, has no lawful copy; his 2006 article "Conflict and Control"
-(LIT-tmpqj5oq) was read in its place. It supports the claim's first half from evidence independent of the stipulated case:
+([LIT-tmpqj5oq](../literature.d/LIT-tmpqj5oq.md)) was read in its place. It supports the claim's first half from evidence independent of the stipulated case:
 Johnson's types of partner violence are defined by control and not by the violent acts ("The distinction lies in the
 degree of control present"; the classification "most certainly is not based in the nature of the violent acts
 themselves"), and in violent resistance one partner is violent without being controlling while the other controls.
-So the separation between who acts violently and who controls is not only coherent (CASE-tmpwrhkd) but found in data,
+So the separation between who acts violently and who controls is not only coherent ([CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md)) but found in data,
 with consequences for frequency, escalation and injury. It does not support the second half, that responsibility for
 the relationship's structure goes with control: Johnson's typology is descriptive. It also bears on the claim's "What
 it does not say": mutual abuse is possible in the typology (mutual violent control), but was rare in Johnson's data
@@ -163,7 +163,7 @@ it does not say": mutual abuse is possible in the typology (mutual violent contr
 
 ## Note of 2026-11-16: Stark and Hester, read
 
-Stark's 2007 book, which A3 cites, has no lawful copy; Stark and Hester's 2019 review (LIT-tmpxwlgx), which restates its
+Stark's 2007 book, which A3 cites, has no lawful copy; Stark and Hester's 2019 review ([LIT-tmpxwlgx](../literature.d/LIT-tmpxwlgx.md)), which restates its
 definitions with page references, was read in its place. It supports the claim's separation of acts from power from
 outside the stipulated case: "Coercive control is not a type of violence"; in "perhaps as many as a third of all cases"
 abuse produces entrapment "without any notable incidents of" violence; and an act-based definition let abusive men
@@ -174,7 +174,7 @@ Stark and Hester 2019).
 
 ## Note of 2026-11-16: Long, read
 
-Christie's "The Ideal Victim", cited for the exchange's A5 §3, has no lawful copy; Long (2021), LIT-tmp4ummt, which quotes
+Christie's "The Ideal Victim", cited for the exchange's A5 §3, has no lawful copy; Long (2021), [LIT-tmp4ummt](../literature.d/LIT-tmp4ummt.md), which quotes
 his definition, was read in its place. It bears on this claim's "What it does not say", that recognizing a power
 imbalance should not mean denying the controlled party's agency or excusing her wrongs. Long describes the
 victim-offender dichotomy that works against holding both: it "presupposes that a person is either a victim or an
@@ -202,7 +202,7 @@ third parties judging a couple. Relation: none.
 
 ## Note of 2026-11-16: Anderson, read
 
-The SEP entry on coercion (LIT-tmp6x9lr) reports a legal proposal built on
+The SEP entry on coercion ([LIT-tmp6x9lr](../literature.d/LIT-tmp6x9lr.md)) reports a legal proposal built on
 the same separation between acts and control. Galoob and Sheley (2021)
 would give a coercion-based defence to a defendant over whom the coercer has
 "coercive control", "such as in a long-term violent and abusive
@@ -215,7 +215,7 @@ reading bears on its case (below).
 ## Note of 2026-11-16: Nagel, read
 
 The controlled partner in this claim's case acts under circumstances the
-other partner sets. In Nagel's terms (LIT-tmp2dx6l) that is circumstantial
+other partner sets. In Nagel's terms ([LIT-tmp2dx6l](../literature.d/LIT-tmp2dx6l.md)) that is circumstantial
 luck produced by another agent, not by fate, which his essay does not treat
 separately. Nagel's resultant luck bears on the tally: "overall culpability
 corresponds to the product of mental or intentional fault and the

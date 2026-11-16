@@ -51,9 +51,9 @@ The dyadic model's four levels (background and dispositional, relationship conte
 ## Bearing on the record
 
 - **The exchange** (A5 §6) summarizes the review accurately. Its contrast between a "systemic perspective" that "can risk obscuring asymmetrical responsibility" and the coercive-control perspective is A's. This paper anticipates the risk and disclaims it.
-- **CLAIM-tmpp8na7**: corroborates, as an independent statement of the separation the claim makes, in a source that is not part of the exchange. It is the authors' framing, not a finding. Relational analysis of how violence arises is kept apart from responsibility, and resistance is not equated with controlling violence.
-- **CASE-tmpwrhkd**: qualifies its realism, not its coherence. In pooled data, men's controlling behaviour was not significantly associated with women's perpetration (result 4), so the case's pattern is not shown to be a common route.
-- **CLAIM-tmpnw7ez**: the paper affirms the first-order half (responsibility stays with the one who acts) and is silent on responsibility for conditions.
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)**: corroborates, as an independent statement of the separation the claim makes, in a source that is not part of the exchange. It is the authors' framing, not a finding. Relational analysis of how violence arises is kept apart from responsibility, and resistance is not equated with controlling violence.
+- **[CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md)**: qualifies its realism, not its coherence. In pooled data, men's controlling behaviour was not significantly associated with women's perpetration (result 4), so the case's pattern is not shown to be a common route.
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**: the paper affirms the first-order half (responsibility stays with the one who acts) and is silent on responsibility for conditions.
 
 ## Limitations
 

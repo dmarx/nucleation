@@ -9,7 +9,7 @@ status_note: >-
   it was not pursued. Also tried:
   https://www.ucl.ac.uk/~uctytho/dfwstrawson1.htm (403, stopped); the British
   Academy (404 at a guessed path; 403 on 2026-11-15). Read in its place,
-  second-hand: LIT-691 (Talbert, SEP "Moral Responsibility" §2.2.1, quoting
+  second-hand: [LIT-691](LIT-691.md) (Talbert, SEP "Moral Responsibility" §2.2.1, quoting
   the 1993 reprint with pages) and the new SEP "Blame" entry (§1.2). Both
   stand in for the account of reactive attitudes and quality of will, not for
   the paper's argument against the pessimist.
@@ -35,7 +35,7 @@ keywords: []
 implementations: []
 summary: >-
   Strawson (1962). Freedom and Resentment. Proceedings of the British Academy.
-  Not read; known here through LIT-691 and the SEP "Blame" entry. As they
+  Not read; known here through [LIT-691](LIT-691.md) and the SEP "Blame" entry. As they
   report it, our practices of holding responsible are responses to "the
   quality of others’ wills towards us", the reactive attitudes (resentment,
   indignation, gratitude), which impose "a demand for moral respect and due
@@ -58,7 +58,7 @@ Strawson (1962). *Freedom and Resentment*. Proceedings of the British Academy 48
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmpzk7kc, the SEP entry Blame, beside the held LIT-691.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A7 §4; A7 closing, on the moral philosophy of blame, excuse and responsibility under constraint. It bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmpzk7kc](LIT-tmpzk7kc.md), the SEP entry Blame, beside the held [LIT-691](LIT-691.md).
 
 ## Reading of 2026-11-16
 
@@ -66,7 +66,7 @@ Not read. A7 §4 says "Strawson emphasized ... the reactive attitudes ...
 These include resentment, gratitude, indignation, guilt, and forgiveness",
 and gives an example in which an accidental and a deliberately humiliating
 injury are physically equal but differ morally. Both are faithful to
-Strawson as LIT-691 reports him: the contrast between an accidental injury
+Strawson as [LIT-691](LIT-691.md) reports him: the contrast between an accidental injury
 and one done from "contemptuous disregard" or "a malevolent wish to injure
 [you]" is Strawson's own ([1962]1993, 49). A's next step is A's, not
 Strawson's: coercive control as "an ongoing denial of the other person's
@@ -75,5 +75,5 @@ standing as an independent moral agent". So is the closing's
 A9 §5's abused-then-cruel adult and is not drawn on by A: the exempting
 condition of "peculiarly unfortunate … formative circumstances", which for
 Strawson moves us to the objective attitude (an exemption), not to reduced
-blame (an excuse). LIT-691's distinction between excuse and exemption (due
+blame (an excuse). [LIT-691](LIT-691.md)'s distinction between excuse and exemption (due
 to Watson 1987) is the record's place for it.

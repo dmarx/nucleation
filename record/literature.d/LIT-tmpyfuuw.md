@@ -45,7 +45,7 @@ Johnson (2008). *A Typology of Domestic Violence: Intimate Terrorism, Violent Re
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A3 §2, §5, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmpqj5oq, Johnson (2006), Conflict and Control.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A3 §2, §5, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmpqj5oq](LIT-tmpqj5oq.md), Johnson (2006), Conflict and Control.
 
 ## Reading of 2026-11-16
 

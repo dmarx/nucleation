@@ -86,7 +86,7 @@ Freyd's adaptive blindness is a mechanism by which dependence on another shapes 
 know: "When the betrayer is someone we are dependent upon, the very mechanisms that normally protect us ... become a
 problem" (p. 27). It is a neighbour of the question's concern with control over the terms of dependence, through
 attachment rather than activated obligation, and leaves the question open. Relation: none (a note only; if the filer
-writes it as evidence on the question, ADR-093 asks for bears_on from the THEORY).
+writes it as evidence on the question, [ADR-093](../decisions.d/ADR-093.md) asks for bears_on from the THEORY).
 
 ## Note of 2026-11-16: Tessman, read
 
@@ -104,4 +104,4 @@ strike, though intact, carries a moral cost, and "It really is more difficult to
 are a nurse or a teacher than if you are a policy analyst or a software developer" (p. 25). That is
 the question's "moral cost of withdrawal" doing the work of a barrier. Keller's only line between this
 and ordinary reliance on conscientiousness is that the act is wrongful, which he does not analyse, so
-the question's second half stays open. Relation: bears_on (THEORY-tmp5b8ou).
+the question's second half stays open. Relation: bears_on ([THEORY-tmp5b8ou](../theory.d/THEORY-tmp5b8ou.md)).

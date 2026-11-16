@@ -44,8 +44,8 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read in full (NOTE-tmpdu0m8 draft). The exchange's description of DARVO and its warning against treating denial as
+Read in full ([NOTE-tmpdu0m8](../notes.d/NOTE-tmpdu0m8.md) draft). The exchange's description of DARVO and its warning against treating denial as
 evidence of guilt are both in the paper. The paper does not test anything; its claim that DARVO affects observers is
 a hypothesis ("claims of being victim to false accusations may be more speakable", p. 30), tested later in
-Harsey and Freyd (2023), LIT-tmpx37pv. Its bearing on CLAIM-tmpp8na7 and CASE-tmpwrhkd, which the registration named,
+Harsey and Freyd (2023), [LIT-tmpx37pv](LIT-tmpx37pv.md). Its bearing on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md), which the registration named,
 is only by framing (abuse as a matter of power); the reading proposes no relation to them.

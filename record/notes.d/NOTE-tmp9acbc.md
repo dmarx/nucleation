@@ -49,7 +49,7 @@ Coercive control after Stark (isolation, monitoring, deprivation of resources; t
 ## Bearing on the record
 
 - **The exchange** (A5 §1) reports the counts, the two correlations, the comparison with psychological abuse and with physical violence in other meta-analyses, and the observational caveat, all accurately. Its inference, "sustained control can be profoundly harmful even when physical assaults aren't the central feature", goes beyond the paper, which did not separate control from co-occurring physical violence and found moderate correlations. The LIT's earlier gloss, harm "beyond physical violence", is likewise more than was shown: the finding is comparability.
-- **CLAIM-tmpp8na7** and **CASE-tmpwrhkd**: no direct bearing. The review supports, from outside the exchange, the premise that one act can belong to a situational or a controlling pattern, and reports that measures struggle to tell which; it says nothing about responsibility.
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)** and **[CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md)**: no direct bearing. The review supports, from outside the exchange, the premise that one act can belong to a situational or a controlling pattern, and reports that measures struggle to tell which; it says nothing about responsibility.
 
 ## Limitations
 

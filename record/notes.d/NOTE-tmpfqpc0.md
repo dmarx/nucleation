@@ -129,19 +129,19 @@ control in abusive relationships.
 
 ## Bearing on the record
 
-- CLAIM-tmpnw7ez: supports its two-agent structure on the coercee's side.
+- [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md): supports its two-agent structure on the coercee's side.
   The entry assesses the coercee's responsibility without subtracting the
   coercer's, and it describes the coercer's structuring of the situation
   ("essentially redundant", "usurped") as what changes the coercee's
   standing. It says nothing about the coercer answering for the coercee's
   act. Corroborates in part.
-- CLAIM-tmpp8na7 and CASE-tmpwrhkd: the Galoob and Sheley defence is a
+- [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md): the Galoob and Sheley defence is a
   legal proposal resting on the same separation of acts from control. Bears
   on.
-- CLAIM-tmpd6uxt and CLAIM-tmp5zzud: White's account is the nearest the
+- [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md) and [CLAIM-tmp5zzud](../claims.d/CLAIM-tmp5zzud.md): White's account is the nearest the
   entry comes to a wrongfully created responsibility to prevent harm.
   Second-hand. Bears on.
-- CLAIM-545 and TERM-124: §3.3's domination and the power-differential
+- [CLAIM-545](../claims.d/CLAIM-545.md) and [TERM-124](../terms.d/TERM-124.md): §3.3's domination and the power-differential
   point. Note only.
 
 ## Limitations

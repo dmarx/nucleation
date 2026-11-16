@@ -132,7 +132,7 @@ limited to harms to others, which is where the premises do not settle it.
 
 ## Note of 2026-11-16: Anderson, read
 
-Same point as on CLAIM-tmpd6uxt. White's account (SEP "Coercion" §3.1, as
+Same point as on [CLAIM-tmpd6uxt](CLAIM-tmpd6uxt.md). White's account (SEP "Coercion" §3.1, as
 reported) of a threat that transfers to its target the responsibility for
 preventing the threatened outcome is the interpersonal form of what this
 claim says a fait accompli does to a reviewer. Note only.

@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-16 (NOTE-tmp938r4) from a copy of the published article
+  read in full 2026-11-16 ([NOTE-tmp938r4](../notes.d/NOTE-tmp938r4.md)) from a copy of the published article
   on an MIT moral-psychology reading-group page
   (https://www.mit.edu/~shaslang/mprg/ASmithAAA.pdf). Filed as a
-  neighbour for Watson, "Two Faces of Responsibility" (LIT-tmpz3y0q,
+  neighbour for Watson, "Two Faces of Responsibility" ([LIT-tmpz3y0q](LIT-tmpz3y0q.md),
   Unavailable): the leading argument that the attributability/
   accountability split Watson introduced does not mark distinct kinds of
   responsibility. It restates Watson only through Shoemaker's
@@ -55,8 +55,8 @@ summary: >-
 
 ## Standing in the record
 
-Filed as a neighbour for Watson (LIT-tmpz3y0q). It does not restate Watson's
+Filed as a neighbour for Watson ([LIT-tmpz3y0q](LIT-tmpz3y0q.md)). It does not restate Watson's
 argument. It credits Watson with introducing "aretaic appraisal" and quotes
-his gloss (n. 2), then argues against the pluralism Watson began. LIT-691
+his gloss (n. 2), then argues against the pluralism Watson began. [LIT-691](LIT-691.md)
 (Talbert, §3.1.1) is the record's better second-hand source for what Watson
 argued, with page references to the 2004 reprint. Smith is the rival.

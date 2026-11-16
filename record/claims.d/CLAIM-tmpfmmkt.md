@@ -137,7 +137,7 @@ safely. Where the rate of actions exceeds reviewers' ability, the formal step
 is not to be treated as oversight (§4.4, p. 20; §7.2, p. 37). That is the
 formal right staying while its preventive effect does not. The paper gives
 no rates or derivation, and A had read it (A23) before stating the claim
-(A35), so its independence is partial. Relation: THEORY-tmpeq8z1 corroborates
+(A35), so its independence is partial. Relation: [THEORY-tmpeq8z1](../theory.d/THEORY-tmpeq8z1.md) corroborates
 (qualitatively).
 
 ## Note of 2026-11-16: Citron, read

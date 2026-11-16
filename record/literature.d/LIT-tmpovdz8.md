@@ -28,7 +28,7 @@ summary: >-
   Tessman (2005). Burdened Virtues: Virtue Ethics for Liberatory Struggles.
   Oxford University Press. DOI 10.1093/0195179145.001.0001. Unread (no lawful
   copy, 2026-11-16). By the publisher's abstract and Bell's review
-  (LIT-tmppxwo6, read as a stand-in), it argues from an inclusive eudaimonism
+  ([LIT-tmppxwo6](LIT-tmppxwo6.md), read as a stand-in), it argues from an inclusive eudaimonism
   that oppression burdens the moral goodness of the oppressed in two ways: it
   can prevent some virtues from developing, and it requires "burdened
   virtues", traits that serve survival or resistance while detracting from
@@ -49,11 +49,11 @@ Tessman (2005). *Burdened Virtues: Virtue Ethics for Liberatory Struggles*. Oxfo
 
 ## Standing in the record
 
-Bell's review (LIT-tmppxwo6) stands in for the book's central account only.
+Bell's review ([LIT-tmppxwo6](LIT-tmppxwo6.md)) stands in for the book's central account only.
 
 ## Reading of 2026-11-16
 
-Not read; Bell's NDPR review (LIT-tmppxwo6, NOTE-tmp8mutd, THEORY-tmptlu7a) stands in. It carries the book's
+Not read; Bell's NDPR review ([LIT-tmppxwo6](LIT-tmppxwo6.md), [NOTE-tmp8mutd](../notes.d/NOTE-tmp8mutd.md), [THEORY-tmptlu7a](../theory.d/THEORY-tmptlu7a.md)) stands in. It carries the book's
 definition of burdened virtues (p. 95), the V1-V4 taxonomy (pp. 162-166) and the anger chapter, in
 Tessman's words; it does not carry the chapters on the vices of the privileged or on loyalty. No
-bearing on CLAIM-tmpnw7ez or CLAIM-tmpp8na7 was found.
+bearing on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) or [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) was found.

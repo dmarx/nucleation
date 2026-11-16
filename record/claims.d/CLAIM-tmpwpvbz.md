@@ -107,7 +107,7 @@ constraint on what moves fast.
 
 ## Note of 2026-11-16: Hong Kong Monetary Authority, read
 
-The HKMA's discussion paper (LIT-tmpo6res, NOTE-tmphnawz) is where the exchange
+The HKMA's discussion paper ([LIT-tmpo6res](../literature.d/LIT-tmpo6res.md), [NOTE-tmphnawz](../notes.d/NOTE-tmphnawz.md)) is where the exchange
 found this objection's architecture: A23 §3 cites it, and A33 §8 and A35 §7
 develop it. Read, the paper specifies the architecture, but it does not draw
 the objection's conclusion.
@@ -134,10 +134,10 @@ the objection's conclusion.
   effectiveness of oversight", and where oversight fails, "authority, scope
   or velocity may need to be constrained." (§4.3, p. 19). That is
   deliberately reintroduced delay, which favours the owner's claim
-  (CLAIM-tmpuiaop) more than the objection.
+  ([CLAIM-tmpuiaop](CLAIM-tmpuiaop.md)) more than the objection.
 
 Relation: none to add as corroboration; the paper is not independent of
-A's argument. The filer may cite LIT-tmpo6res in this claim as the
+A's argument. The filer may cite [LIT-tmpo6res](../literature.d/LIT-tmpo6res.md) in this claim as the
 documentary source of its architecture. No change of status.
 
 ## Note of 2026-11-16: Alfrink, read

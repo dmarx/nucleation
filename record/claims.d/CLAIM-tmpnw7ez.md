@@ -178,11 +178,11 @@ The paper affirms the claim's first-order half: responsibility for an act "lies 
 
 ## Note of 2026-11-16: Santoni de Sio and van den Hoven, read
 
-Santoni de Sio and van den Hoven (2018, LIT-tmpqyqtw, NOTE-tmpmsqcj) support the claim's first half from outside the exchange. Their tracing condition carries responsibility from the agent who acts to whoever shaped the conditions of the act: in Kamm's reading of Jim and the captain, the threat "originates with (and therefore the responsibility traces back to)" the captain, because "The captain is the choice architect, who" "creates Jim’s dilemma in which there are only tragic choices to" be made (p. 8); and those in a system's design and maintenance carry "their second-order responsibility for the first-order responsibility" of the operator (p. 9). They qualify the claim's second half. Where the operator's conditions fail through no fault of hers, "the pilot may not be responsible for an accident" and responsibility "may trace back to other agents upstream": tracing here relocates responsibility rather than adding a second bearer. The paper does not take up cases in which both answer, which the claim asserts are possible; nor does it ask whether the structuring was wrongful.
+Santoni de Sio and van den Hoven (2018, [LIT-tmpqyqtw](../literature.d/LIT-tmpqyqtw.md), [NOTE-tmpmsqcj](../notes.d/NOTE-tmpmsqcj.md)) support the claim's first half from outside the exchange. Their tracing condition carries responsibility from the agent who acts to whoever shaped the conditions of the act: in Kamm's reading of Jim and the captain, the threat "originates with (and therefore the responsibility traces back to)" the captain, because "The captain is the choice architect, who" "creates Jim’s dilemma in which there are only tragic choices to" be made (p. 8); and those in a system's design and maintenance carry "their second-order responsibility for the first-order responsibility" of the operator (p. 9). They qualify the claim's second half. Where the operator's conditions fail through no fault of hers, "the pilot may not be responsible for an accident" and responsibility "may trace back to other agents upstream": tracing here relocates responsibility rather than adding a second bearer. The paper does not take up cases in which both answer, which the claim asserts are possible; nor does it ask whether the structuring was wrongful.
 
 ## Note of 2026-11-16: Tognazzini and Coates, read
 
-The SEP entry "Blame" (LIT-tmpzk7kc, read in NOTE-tmp460sz) supports the claim from
+The SEP entry "Blame" ([LIT-tmpzk7kc](../literature.d/LIT-tmpzk7kc.md), read in [NOTE-tmp460sz](../notes.d/NOTE-tmp460sz.md)) supports the claim from
 the side of blame, by a route independent of the exchange. Among the facts
 about a blamer that undermine standing is complicity. It quotes Cohen's list,
 "you ordered me to do it, you asked me to do it, you forced me to do it, you
@@ -200,7 +200,7 @@ THEORY).
 ## Note of 2026-11-16: Smith, read
 
 This claim cites A9 §5, which rests the actor's side on Watson's
-distinction between attribution and accountability. Smith (LIT-tmp0tgda) offers
+distinction between attribution and accountability. Smith ([LIT-tmp0tgda](../literature.d/LIT-tmp0tgda.md)) offers
 a rival reading of the same cases. Conduct that reflects the agent's
 evaluative judgments is answerable. How harshly to respond depends on "(1)
 the seriousness of the moral failure, (2) the nature of our relationship
@@ -213,7 +213,7 @@ one of kinds. Relation: none.
 
 ## Note of 2026-11-16: Anderson, read
 
-Anderson's SEP entry on coercion (LIT-tmp6x9lr, skimmed in NOTE-tmpfqpc0)
+Anderson's SEP entry on coercion ([LIT-tmp6x9lr](../literature.d/LIT-tmp6x9lr.md), skimmed in [NOTE-tmpfqpc0](../notes.d/NOTE-tmpfqpc0.md))
 supports the claim's structure from the coerced party's side and leaves its
 other side open. §3.2 assesses the coercee's responsibility as a question
 of its own, never as a share subtracted from a fixed total. What changes
@@ -231,11 +231,11 @@ whether the coercer answers for the coercee's act, which is the claim's
 distinctive half, and it excludes manipulation by stipulation. It also
 qualifies the claim's vocabulary of excuse: most diminished responsibility
 under coercion "will appeal to justification rather than excuse".
-Relation: corroborates (on THEORY-tmp856sf), partial and second-hand.
+Relation: corroborates (on [THEORY-tmp856sf](../theory.d/THEORY-tmp856sf.md)), partial and second-hand.
 
 ## Note of 2026-11-16: Nagel, read
 
-Nagel's "Moral Luck" (LIT-tmp2dx6l, read in NOTE-tmpfw0h2) states the principle
+Nagel's "Moral Luck" ([LIT-tmp2dx6l](../literature.d/LIT-tmp2dx6l.md), read in [NOTE-tmpfw0h2](../notes.d/NOTE-tmpfw0h2.md)) states the principle
 that would pull against the claim's second half, that the actor "still
 answers for committing it". On the condition of control, "action can be
 judged only to the extent that it goes beyond these conditions and does not
@@ -270,7 +270,7 @@ act of a responsible agent in the relationship between A and B, where "A owes al
 to B". The structuring party answers for the predicament, and the structured party still answers for
 her conduct within it. In Tessman's case the structured party does no wrong; she bears an unfair duty.
 The claim is about a wrong made likely, so the support is for its structure, not its central case.
-Relation: corroborates (THEORY-tmp3poko).
+Relation: corroborates ([THEORY-tmp3poko](../theory.d/THEORY-tmp3poko.md)).
 
 ## Note of 2026-11-16: Tronto (2018), read
 

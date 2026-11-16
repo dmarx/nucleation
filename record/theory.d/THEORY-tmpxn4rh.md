@@ -20,14 +20,14 @@ corroborates:
 
 ## Source
 
-The neighbour LIT (Cunha et al. 2025), read in NOTE-tmp78ay2 (Europe PMC full text, PMC13578655). Filed as a stand-in for LIT-tmp5jqvq.
+The neighbour LIT (Cunha et al. 2025), read in [NOTE-tmp78ay2](../notes.d/NOTE-tmp78ay2.md) (Europe PMC full text, PMC13578655). Filed as a stand-in for [LIT-tmp5jqvq](../literature.d/LIT-tmp5jqvq.md).
 
 ## What was actually shown
 
-Of 50 studies, 34 measured BV with the CTS. Prevalence ran from 2% to 98.4%. Only five used both partners' reports with an agreement measure. The CTS "does not capture information about who initiates the violence, making it difficult to distinguish between acts committed in self-defense or retaliation and those initiated without provocation." This corroborates CLAIM-tmpp8na7's premise that a tally of acts does not reveal who controls the relationship: the field's main tally cannot.
+Of 50 studies, 34 measured BV with the CTS. Prevalence ran from 2% to 98.4%. Only five used both partners' reports with an agreement measure. The CTS "does not capture information about who initiates the violence, making it difficult to distinguish between acts committed in self-defense or retaliation and those initiated without provocation." This corroborates [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)'s premise that a tally of acts does not reveal who controls the relationship: the field's main tally cannot.
 
 ## What this does not say
 
-- How BV should be defined: that is the unread companion review's subject (LIT-tmp5jqvq).
+- How BV should be defined: that is the unread companion review's subject ([LIT-tmp5jqvq](../literature.d/LIT-tmp5jqvq.md)).
 - How common coercive asymmetry is among couples counted as bidirectional.
 - Anything about responsibility.

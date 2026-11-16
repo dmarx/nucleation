@@ -233,7 +233,7 @@ and [CLAIM-464](CLAIM-464.md) in one line, and is mapped, not filed.
 
 ## Note of 2026-11-16: Cuéllar, read
 
-Cuéllar's essay on presidential adjudication (LIT-tmpryo91, NOTE-tmpsdyyp) is a
+Cuéllar's essay on presidential adjudication ([LIT-tmpryo91](../literature.d/LIT-tmpryo91.md), [NOTE-tmpsdyyp](../notes.d/NOTE-tmpsdyyp.md)) is a
 domain account of this claim's pattern for the United States presidency,
 independent of the exchanges the claim came from. In it, the executive's
 capacity for effective, particular action grows: more tools, reaching "more
@@ -247,7 +247,7 @@ grows" (p. 599). He also holds, as Cover does, that "courts lack direct
 authority to enforce" (p. 647), and he treats discretion and accountability
 as separable: they "can coexist" (p. 652). He does not argue that the two
 capacities are maintained by different relations; that step remains the
-claim's. Relation: THEORY-tmpbkw8g corroborates. No change of status.
+claim's. Relation: [THEORY-tmpbkw8g](../theory.d/THEORY-tmpbkw8g.md) corroborates. No change of status.
 
 ## Note of 2026-11-16: Bovens and Zouridis, read
 

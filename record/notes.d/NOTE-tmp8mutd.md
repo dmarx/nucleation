@@ -24,7 +24,7 @@ summary: >-
 
 ## Contribution
 
-A critical précis of Tessman (2005), LIT-tmpovdz8, by Macalester Bell in NDPR, with Tessman's own words and pages.
+A critical précis of Tessman (2005), [LIT-tmpovdz8](../literature.d/LIT-tmpovdz8.md), by Macalester Bell in NDPR, with Tessman's own words and pages.
 
 ## Key results
 
@@ -46,7 +46,7 @@ Burdened virtues; moral damage; "moral trouble"; oppositional anger; regret as t
 ## Bearing on the record
 
 - **The exchange** (A7 §3): accurate in outline, that oppression can make goodness "costly, difficult, or even damaging". A7's next step, that oppression can make people "more likely to wrong others", is not what the burdened-virtue idea, as reported, is about.
-- **CLAIM-tmpnw7ez**, **CLAIM-tmpp8na7**: no bearing shown. The book concerns what virtue costs its bearer, not who answers for wrongs done under oppression.
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**, **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)**: no bearing shown. The book concerns what virtue costs its bearer, not who answers for wrongs done under oppression.
 
 ## Limitations
 

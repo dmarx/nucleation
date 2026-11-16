@@ -46,14 +46,14 @@ Bidirectional violence; Johnson's four types; the CTS and its blindness to initi
 
 ## Connections
 
-Stands in for Machado, Sousa and Cunha (2026) (LIT-tmp5jqvq), unread. It restates that review's operational problem: act-counting misses motive and initiation. It does not restate the conceptual review of the terms "mutual", "reciprocal", "bidirectional" and "victim-perpetrator overlap", or the proposed minimal definition with "motivational asymmetry". It stands in partly for Stover et al. (2025) (LIT-tmpcxq1w), unread: on the wide prevalence range and the scarcity of dyadic agreement data. It does not cover Stover's 34 US dyadic studies or the finding that counting a couple as bidirectional when either partner reports violence may inflate rates.
+Stands in for Machado, Sousa and Cunha (2026) ([LIT-tmp5jqvq](../literature.d/LIT-tmp5jqvq.md)), unread. It restates that review's operational problem: act-counting misses motive and initiation. It does not restate the conceptual review of the terms "mutual", "reciprocal", "bidirectional" and "victim-perpetrator overlap", or the proposed minimal definition with "motivational asymmetry". It stands in partly for Stover et al. (2025) ([LIT-tmpcxq1w](../literature.d/LIT-tmpcxq1w.md)), unread: on the wide prevalence range and the scarcity of dyadic agreement data. It does not cover Stover's 34 US dyadic studies or the finding that counting a couple as bidirectional when either partner reports violence may inflate rates.
 
 ## Bearing on the record
 
-- **CLAIM-tmpp8na7**: corroborates the claim's first half from measurement practice. The instrument that produces most figures on mutual violence counts acts. It cannot tell retaliation or self-defence from initiation, so a tally of acts does not show who controls whom. It says nothing about responsibility.
-- **CASE-tmpwrhkd**: the case's warning that counting assaults could make Carol look like the more violent partner is the CTS misclassification documented here.
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)**: corroborates the claim's first half from measurement practice. The instrument that produces most figures on mutual violence counts acts. It cannot tell retaliation or self-defence from initiation, so a tally of acts does not show who controls whom. It says nothing about responsibility.
+- **[CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md)**: the case's warning that counting assaults could make Carol look like the more violent partner is the CTS misclassification documented here.
 - **The exchange** (A5 §2) on CTS-derived instruments ("much less equipped to determine whether an act represents intimidation, retaliation, self-protection, coercion") is supported.
-- The authors also counsel "avoiding the reinforcement of unilateral blame". This agrees with what CLAIM-tmpp8na7 says it does not say.
+- The authors also counsel "avoiding the reinforcement of unilateral blame". This agrees with what [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) says it does not say.
 
 ## Limitations
 

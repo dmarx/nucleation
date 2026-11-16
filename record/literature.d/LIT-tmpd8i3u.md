@@ -3,9 +3,9 @@ status: Active
 status_note: >-
   Read 2026-11-16 in full from the open-access version of record at
   https://link.springer.com/content/pdf/10.1007/s11948-024-00511-2.pdf (CC BY;
-  also PMC11390761). Reading in NOTE-tmpdmjvw; account in THEORY-tmpv314m.
+  also PMC11390761). Reading in [NOTE-tmpdmjvw](../notes.d/NOTE-tmpdmjvw.md); account in [THEORY-tmpv314m](../theory.d/THEORY-tmpv314m.md).
   Also serves as the most detailed open exposition of Tronto's privileged
-  irresponsibility reached for LIT-tmpw46qz and LIT-tmp4yz7x.
+  irresponsibility reached for [LIT-tmpw46qz](LIT-tmpw46qz.md) and [LIT-tmp4yz7x](LIT-tmp4yz7x.md).
 title: 'Emotional Labor and the Problem of Exploitation in Roboticized Care Practices: Enriching the Framework of Care Centred Value Sensitive Design'
 version: 2
 history:
@@ -35,8 +35,8 @@ summary: >-
   by what Tronto calls privileged irresponsibility. Workers' satisfaction in
   caring can mask the exploitation, and robots assessed only by design can let
   employers and governments avoid reallocating care responsibilities. Read
-  2026-11-16 (NOTE-tmpdmjvw, THEORY-tmpv314m). It corroborates CLAIM-tmpyjzi8
-  and bears on QUESTION-468 and QUESTION-461. The exchange's account (A17 §5)
+  2026-11-16 ([NOTE-tmpdmjvw](../notes.d/NOTE-tmpdmjvw.md), [THEORY-tmpv314m](../theory.d/THEORY-tmpv314m.md)). It corroborates [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md)
+  and bears on [QUESTION-468](../questions.d/QUESTION-468.md) and [QUESTION-461](../questions.d/QUESTION-461.md). The exchange's account (A17 §5)
   is accurate.
 ---
 <!-- inactive-ok-file: THEORY-tmpv314m — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->

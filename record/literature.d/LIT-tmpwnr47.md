@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read 2026-11-16 in full from the CC BY version of record
   (https://link.springer.com/content/pdf/10.1057/s41296-024-00680-6.pdf). Filed and read as a
-  stand-in for Tronto (1993, LIT-tmpw46qz), with Tronto (2018), since the book has no lawful copy.
+  stand-in for Tronto (1993, [LIT-tmpw46qz](LIT-tmpw46qz.md)), with Tronto (2018), since the book has no lawful copy.
 title: 'Care ethics in theory and practice: Joan C. Tronto in conversation with Iris Parra Jounou'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   irresponsibility "a kind of bad care" whose danger "is to cut off one’s reaction to others", and
   recalls the Bellamy passage Caring Democracy quotes (p. 44) on the privileged who forget those
   who carry them. She describes "caring with" as care made reliable and shared over time. Read as
-  a stand-in for LIT-tmpw46qz, with Tronto (2018); it covers the concept, not the book's argument.
+  a stand-in for [LIT-tmpw46qz](LIT-tmpw46qz.md), with Tronto (2018); it covers the concept, not the book's argument.
 ---
 <!-- inactive-ok-file: LIT-tmpw46qz — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmpwnr47: Care ethics in theory and practice: Joan C. Tronto in conversation with Iris Parra Jounou

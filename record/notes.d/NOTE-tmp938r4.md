@@ -90,10 +90,10 @@ responsibility.
 
 ## Bearing on the record
 
-- THEORY-147 (Wolf: attributability and accountability are independent
+- [THEORY-147](../theory.d/THEORY-147.md) (Wolf: attributability and accountability are independent
   kinds of deep responsibility): Smith's thesis denies that they are kinds
   of responsibility at all. The two cannot both be right. A rival.
-- A9 §5 and CLAIM-tmpnw7ez: A's distinction between attribution ("Does
+- A9 §5 and [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md): A's distinction between attribution ("Does
   the action reflect the person's own ... character?") and accountability
   ("is it fair to condemn or sanction them for it?") is Watson's. On
   Smith's view the conduct A describes is answerable, and what changes with

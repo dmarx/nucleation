@@ -84,11 +84,11 @@ financial, legal or operational implications take effect", timed by
 detection, decision and stopping time (§7.2, p. 37). Set the rate of action by
 the demonstrated capacity of review, not by technical throughput (§4.3,
 p. 19). Do not count a formal review step that the volume has made
-perfunctory. Relation: THEORY-tmpeq8z1 bears_on.
+perfunctory. Relation: [THEORY-tmpeq8z1](../theory.d/THEORY-tmpeq8z1.md) bears_on.
 
 ## Note of 2026-11-16: Natali, read
 
-The poster's problem, frictionless interfaces inviting uncritical acceptance of automated output, is this question's problem at the scale of one interaction: a filer accepting a reader's draft is a human accepting an automated recommendation. Its mechanisms are candidate checks: requiring the filer's own verification before the draft is shown as filed (a cognitive forcing function), or a step that challenges the draft rather than presenting it (an AI provocation). It offers no evidence that any of them works. The record's evidence is THEORY-1765 (Buçinca et al.), which found such designs reduce over-reliance without eliminating it and are less liked.
+The poster's problem, frictionless interfaces inviting uncritical acceptance of automated output, is this question's problem at the scale of one interaction: a filer accepting a reader's draft is a human accepting an automated recommendation. Its mechanisms are candidate checks: requiring the filer's own verification before the draft is shown as filed (a cognitive forcing function), or a step that challenges the draft rather than presenting it (an AI provocation). It offers no evidence that any of them works. The record's evidence is [THEORY-1765](../theory.d/THEORY-1765.md) (Buçinca et al.), which found such designs reduce over-reliance without eliminating it and are less liked.
 
 ## Note of 2026-11-16: Bovens and Zouridis, read
 

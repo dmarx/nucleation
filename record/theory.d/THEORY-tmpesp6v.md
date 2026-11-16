@@ -20,7 +20,7 @@ source:
 
 ## Source
 
-NTSB/HAR-19/03, LIT-tmp3lco2; the reading is NOTE-tmpxhumo.
+NTSB/HAR-19/03, [LIT-tmp3lco2](../literature.d/LIT-tmp3lco2.md); the reading is [NOTE-tmpxhumo](../notes.d/NOTE-tmpxhumo.md).
 
 ## What was actually shown
 

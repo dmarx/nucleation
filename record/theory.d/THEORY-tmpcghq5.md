@@ -18,7 +18,7 @@ source:
 
 ## Source
 
-Harsey and Freyd (2023), Journal of Interpersonal Violence 38(17-18): 9985-10008; read in NOTE-tmpji37z (draft).
+Harsey and Freyd (2023), Journal of Interpersonal Violence 38(17-18): 9985-10008; read in [NOTE-tmpji37z](../notes.d/NOTE-tmpji37z.md) (draft).
 
 ## What was actually shown
 

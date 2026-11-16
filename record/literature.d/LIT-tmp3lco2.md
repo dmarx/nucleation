@@ -5,7 +5,7 @@ status_note: >-
   https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR1903.pdf:
   executive summary, sections 1.7-1.8, 2.1-2.2, 3.2 and the concurring
   statement; technical sections 1.1-1.6 skimmed; 1.9-1.10, most of 2.3 and the
-  appendixes skipped. Reading in NOTE-tmpxhumo; account in THEORY-tmpesp6v.
+  appendixes skipped. Reading in [NOTE-tmpxhumo](../notes.d/NOTE-tmpxhumo.md); account in [THEORY-tmpesp6v](../theory.d/THEORY-tmpesp6v.md).
 title: 'Collision Between Vehicle Controlled by Developmental Automated Driving System and Pedestrian, Tempe, Arizona, March 18, 2018'
 version: 2
 history:
@@ -39,7 +39,7 @@ summary: >-
   oversight. The system was designed to rely on the operator to avoid
   collisions, and ATG's culture contributed to the operator's distraction
   itself. The report disclaims fault and blame. Read 2026-11-16
-  (NOTE-tmpxhumo, THEORY-tmpesp6v). It is the case A17 §4 uses for the moral
+  ([NOTE-tmpxhumo](../notes.d/NOTE-tmpxhumo.md), [THEORY-tmpesp6v](../theory.d/THEORY-tmpesp6v.md)). It is the case A17 §4 uses for the moral
   crumple zone; the exchange's account is accurate except that it understates
   the operator's part (probable cause, not contributing) and omits the
   pedestrian.
@@ -70,4 +70,4 @@ distraction" (p. viii). The operator could still have avoided the crash had she 
 (p. vii). The report "does not assign fault or blame", so it is evidence of causes, not of how
 blame was distributed. A17 §4 calls the operator's distraction a contributing cause; the NTSB
 made it the probable cause. A17 also omits the pedestrian's impaired crossing, a contributing
-factor. Elish (LIT-tmp4gcqt) discussed the case before this report, from the preliminary report.
+factor. Elish ([LIT-tmp4gcqt](LIT-tmp4gcqt.md)) discussed the case before this report, from the preliminary report.

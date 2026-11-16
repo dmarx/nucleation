@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Skimmed 2026-11-16 (NOTE-tmpfqpc0) from the plato.stanford.edu HTML
+  Skimmed 2026-11-16 ([NOTE-tmpfqpc0](../notes.d/NOTE-tmpfqpc0.md)) from the plato.stanford.edu HTML
   (substantive revision of 23 Jan 2023): §§2.1.3, 2.5, 3.1, 3.2 and most of
   3.3 read in full; the history (§1), the threats-and-baselines analysis
   (§§2.1–2.4) and §3.4 skipped. Worth reading as the record's source on how
@@ -39,8 +39,8 @@ summary: >-
   It reports Galoob and Sheley's defence for a target whose decisional
   authority a coercive controller has usurped, and White's view that a
   conditional threat makes the coercee responsible for preventing what the
-  coercer threatens. Bears on CLAIM-tmpnw7ez, CLAIM-tmpp8na7 and
-  CASE-tmpwrhkd. Emotional manipulation is excluded by stipulation.
+  coercer threatens. Bears on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and
+  [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Emotional manipulation is excluded by stipulation.
 ---
 <!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-545 THEORY-tmp856sf — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
@@ -59,7 +59,7 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read (skimmed) in NOTE-tmpfqpc0; the account is THEORY-tmp856sf. The exchange cites
+Read (skimmed) in [NOTE-tmpfqpc0](../notes.d/NOTE-tmpfqpc0.md); the account is [THEORY-tmp856sf](../theory.d/THEORY-tmp856sf.md). The exchange cites
 the entry at A7 §1 for the claim that there is no universal rule for how
 coercion affects responsibility, and that the answer depends on what the
 coerced person does and what is at stake. That is accurate. The entry says
@@ -77,5 +77,5 @@ What the record did not hold before: any account of the coerced party's
 responsibility; the strategic point that the responsibility rule shapes the
 coercer's incentives; and Galoob and Sheley's proposed defence for coercive
 control ("usurped the target’s decisional authority"), the nearest legal
-counterpart to CLAIM-545's usurpation and to the controlled partner in
-CASE-tmpwrhkd.
+counterpart to [CLAIM-545](../claims.d/CLAIM-545.md)'s usurpation and to the controlled partner in
+[CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md).

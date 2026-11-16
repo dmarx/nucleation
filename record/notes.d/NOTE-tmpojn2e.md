@@ -52,12 +52,12 @@ Ideal victim; ideal offender; non-ideal victim; (un)victim; counter-power; victi
 - **The exchange** (A5 §3) describes Christie's ideal victim in line with Long's quotations; its extension to morally
   compromised victims is A's, and the nearest thing here, the victim-offender dichotomy, Long takes from Drake and
   Henley, not Christie.
-- **CLAIM-tmpp8na7**: the dichotomy (result 6) is the failure the claim's "What it does not say" guards against, that
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)**: the dichotomy (result 6) is the failure the claim's "What it does not say" guards against, that
   recognizing who holds power should not erase the controlled party's wrongs or vice versa. A reason the separation is
   needed, not evidence for it. No relation.
-- **THEORY-317 and CLAIM-406**: withholding victim status from those cast as offenders is a deflated credibility
-  judgement on identity (THEORY-317), and the police as "counter-power" deciding whose report is taken up resembles
-  CLAIM-406's structural form. Long does not cite Fricker. No relation.
+- **[THEORY-317](../theory.d/THEORY-317.md) and [CLAIM-406](../claims.d/CLAIM-406.md)**: withholding victim status from those cast as offenders is a deflated credibility
+  judgement on identity ([THEORY-317](../theory.d/THEORY-317.md)), and the police as "counter-power" deciding whose report is taken up resembles
+  [CLAIM-406](../claims.d/CLAIM-406.md)'s structural form. Long does not cite Fricker. No relation.
 - **Connections (as a stand-in):** restates Christie's definition, attributes, counter-power condition and ideal
   offender; does not restate his wider argument, and does not address partner violence beyond one vignette.
 

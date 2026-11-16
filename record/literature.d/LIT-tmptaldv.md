@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read 2026-11-16 in the author's post-review manuscript (Oct 2021) on the
   Wharton faculty site, as a partial stand-in for Cameron (2024),
-  LIT-tmpdkpdp, which is Unfetched.
+  [LIT-tmpdkpdp](LIT-tmpdkpdp.md), which is Unfetched.
 title: '"Making Out" While Driving: Relational and Efficiency Games in the Gig Economy'
 version: 1
 history:
@@ -39,9 +39,9 @@ summary: >-
   tracked with their own tools and sometimes by manipulating the algorithm,
   in which it appears as an opponent. Both produce engagement; the paper
   does not claim they produce consent. Read 2026-11-16 as a partial
-  stand-in for Cameron (2024), LIT-tmpdkpdp: same fieldwork, the precursor
+  stand-in for Cameron (2024), [LIT-tmpdkpdp](LIT-tmpdkpdp.md): same fieldwork, the precursor
   of its two tactics, not its concepts of constant and confined choices or
-  choice-based consent. It bears on QUESTION-461.
+  choice-based consent. It bears on [QUESTION-461](../questions.d/QUESTION-461.md).
 ---
 <!-- inactive-ok-file: LIT-tmpdkpdp — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmptaldv: "Making Out" While Driving: Relational and Efficiency Games in the Gig Economy
@@ -54,4 +54,4 @@ Ride-hail drivers build two workplace games around the customer and the app: a r
 
 ## Standing in the record
 
-Registered and read on 2026-11-16 as a partial neighbour for Cameron (2024), LIT-tmpdkpdp: same fieldwork and the precursor of its two tactics, not its thesis that choice-based consent masks the job's structural problems. It bears on QUESTION-461.
+Registered and read on 2026-11-16 as a partial neighbour for Cameron (2024), [LIT-tmpdkpdp](LIT-tmpdkpdp.md): same fieldwork and the precursor of its two tactics, not its thesis that choice-based consent masks the job's structural problems. It bears on [QUESTION-461](../questions.d/QUESTION-461.md).

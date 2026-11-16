@@ -131,14 +131,14 @@ the problem to how the self is conceived.
 
 ## Bearing on the record
 
-- CLAIM-tmpnw7ez: Nagel sets the challenge the claim must meet on the
+- [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md): Nagel sets the challenge the claim must meet on the
   actor's side. If another party structured the circumstances, the control
   condition says the actor answers only for what "goes beyond these
   conditions". Ordinary judgment does not subtract in this way (the Nazi
   Germany citizens are "culpable for having failed this test"), and Nagel
   holds that no principled line stops the subtraction. He says nothing about
   the party who set the test. Note only.
-- QUESTION-070: whose agency a wrong runs through. Nagel's diagnosis is that
+- [QUESTION-070](../questions.d/QUESTION-070.md): whose agency a wrong runs through. Nagel's diagnosis is that
   the agent is pared away when acts are seen as events. Note only.
 - A7 §7's question, "how much of that resulting character is morally
   theirs", is a question of constitutive and causal luck. Nagel's answer is

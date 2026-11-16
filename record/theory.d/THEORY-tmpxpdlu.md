@@ -20,8 +20,8 @@ rivals:
 
 ## Source
 
-Smith (2012), Ethics 122: 575–589, read in full in NOTE-tmp938r4 as a neighbour
-for Watson's "Two Faces of Responsibility" (LIT-tmpz3y0q).
+Smith (2012), Ethics 122: 575–589, read in full in [NOTE-tmp938r4](../notes.d/NOTE-tmp938r4.md) as a neighbour
+for Watson's "Two Faces of Responsibility" ([LIT-tmpz3y0q](../literature.d/LIT-tmpz3y0q.md)).
 
 ## What was actually shown
 
@@ -33,10 +33,10 @@ guy, doing the same thing, in the same way; all that has changed in these
 two cases is Martha’s reaction to his failure." The differences belong to
 "the ethics of blame".
 
-`rivals: THEORY-147` because THEORY-147 (from Wolf, LIT-747) holds that
+`rivals: THEORY-147` because [THEORY-147](THEORY-147.md) (from Wolf, [LIT-747](../literature.d/LIT-747.md)) holds that
 attributability and accountability are independent kinds of deep
 responsibility, and Smith holds that neither is a kind distinct from
-answerability. Both cannot be right. The filer should check THEORY-147's
+answerability. Both cannot be right. The filer should check [THEORY-147](THEORY-147.md)'s
 text before writing the relation.
 
 ## What this does not say

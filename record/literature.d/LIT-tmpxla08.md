@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read 2026-11-16 in full from the journal's open-access PDF
   (https://www.journals.ac.za/index.php/sajhe/article/download/2710/1938). Filed and read as a
-  stand-in for Tronto (1993, LIT-tmpw46qz) and Tronto (2013, LIT-tmp4yz7x), which have no lawful
+  stand-in for Tronto (1993, [LIT-tmpw46qz](LIT-tmpw46qz.md)) and Tronto (2013, [LIT-tmp4yz7x](LIT-tmp4yz7x.md)), which have no lawful
   copy.
 title: 'Higher education for citizens of caring democracies'
 version: 1
@@ -33,12 +33,12 @@ summary: >-
   to accept unpleasant or burdensome responsibilities", and summarizes Caring Democracy's program
   in four steps: realign the privileges that keep the unfair load of care undiscussable, hear
   every voice, organize caring democratically, and let trust and solidarity grow from
-  caring-with. Read as a stand-in for LIT-tmpw46qz and LIT-tmp4yz7x; it covers their concept and
+  caring-with. Read as a stand-in for [LIT-tmpw46qz](LIT-tmpw46qz.md) and [LIT-tmp4yz7x](LIT-tmp4yz7x.md); it covers their concept and
   program, not their argument.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln CLAIM-tmpyjzi8 LIT-tmp4yz7x LIT-tmpw46qz — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmpxla08: Higher education for citizens of caring democracies
 
 Body sections: "Key takeaways" = results 1, 3, 4 of the report; "Standing in the record":
-neighbour for LIT-tmpw46qz and LIT-tmp4yz7x (definition and program only); bears on
-CLAIM-tmpnfjln and CLAIM-tmpyjzi8 through their use of Tronto.
+neighbour for [LIT-tmpw46qz](LIT-tmpw46qz.md) and [LIT-tmp4yz7x](LIT-tmp4yz7x.md) (definition and program only); bears on
+[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) and [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md) through their use of Tronto.

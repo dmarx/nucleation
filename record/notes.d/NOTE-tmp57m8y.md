@@ -47,7 +47,7 @@ Dislocation and magnification of blame; algorithm aversion; trust in experts as 
 
 ## Bearing on the record
 
-- **CLAIM-tmpnfjln**: marks the limit the claim's own text draws ("What it does not say ... That automation causes it"). The public did not let the algorithm take blame off the visible decision-maker; it blamed her slightly more. That fits blame landing where failure is visible, but tests nothing about organizations, upstream control or compensating effort.
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: marks the limit the claim's own text draws ("What it does not say ... That automation causes it"). The public did not let the algorithm take blame off the visible decision-maker; it blamed her slightly more. That fits blame landing where failure is visible, but tests nothing about organizations, upstream control or compensating effort.
 - **The exchange** (A19 §9) reports the null accurately. It omits that following an algorithm slightly raised blame, partly as perceived abdication, which is the point A makes next without attributing it ("some people may hold decision-makers *more* accountable").
 
 ## Limitations

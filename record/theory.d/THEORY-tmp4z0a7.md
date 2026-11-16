@@ -21,13 +21,13 @@ bears_on:
 
 ## Source
 
-Zeiser (2024), LIT-tmp4n5g5, read in full; the reading is NOTE-tmp8qrd6.
+Zeiser (2024), [LIT-tmp4n5g5](../literature.d/LIT-tmp4n5g5.md), read in full; the reading is [NOTE-tmp8qrd6](../notes.d/NOTE-tmp8qrd6.md).
 
 ## What was actually shown
 
 A conceptual argument. The gap: "Attributability-gaps occur when a human decision-maker uses a decision-tool that presupposes values that have a significant influence on the outcome of the decision and that they haven’t endorsed as their own values." Prescriptive tools presuppose aims, means and trade-offs; descriptive tools carry value choices in targets, data and fairness standards, so "descriptive AI systems also don’t provide neutral, value-free information". Attributability "might not be a binary property, but a gradual one". Remedies: endorsement through transparency, calibration to the user's values, and confinement to description (partial).
 
-Bears on QUESTION-068: the three faces diverge in ordinary cases, and "responsibility without attributability" is offered as a coherent aim.
+Bears on [QUESTION-068](../questions.d/QUESTION-068.md): the three faces diverge in ordinary cases, and "responsibility without attributability" is offered as a coherent aim.
 
 ## What this does not say
 

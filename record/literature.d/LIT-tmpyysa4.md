@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read 2026-11-16 from the open-access full text in Europe PMC (PMC13603925).
-  See NOTE-tmp51qsq and THEORY-tmpej5sl.
+  See [NOTE-tmp51qsq](../notes.d/NOTE-tmp51qsq.md) and [THEORY-tmpej5sl](../theory.d/THEORY-tmpej5sl.md).
 title: 'An Updated and Revised Dyadic Model of Partner Violence'
 version: 2
 history:
@@ -51,4 +51,4 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read from the Europe PMC full text. A selective, unregistered review: eight meta-analyses, physical IPV, adult heterosexual couples, risk markers mapped by one author onto three levels of the dyadic model. The relationship context holds the most consistent associations; "the present synthesis does not constitute empirical validation of the model’s integrated temporal or causal pathways". The authors say: "This relational framing does not imply equivalent agency, mutuality, or shared responsibility; responsibility for a violent or coercive act lies with the person who commits it". They also say "a victim’s resistance or constrained responses should not be treated as equivalent to the perpetrator’s controlling violence". A5 §6's summary is accurate. A's caution, that a systemic perspective can obscure asymmetry, is one the paper itself states and guards against. The paper corroborates CLAIM-tmpp8na7, as framing rather than finding. See NOTE-tmp51qsq.
+Read from the Europe PMC full text. A selective, unregistered review: eight meta-analyses, physical IPV, adult heterosexual couples, risk markers mapped by one author onto three levels of the dyadic model. The relationship context holds the most consistent associations; "the present synthesis does not constitute empirical validation of the model’s integrated temporal or causal pathways". The authors say: "This relational framing does not imply equivalent agency, mutuality, or shared responsibility; responsibility for a violent or coercive act lies with the person who commits it". They also say "a victim’s resistance or constrained responses should not be treated as equivalent to the perpetrator’s controlling violence". A5 §6's summary is accurate. A's caution, that a systemic perspective can obscure asymmetry, is one the paper itself states and guards against. The paper corroborates [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), as framing rather than finding. See [NOTE-tmp51qsq](../notes.d/NOTE-tmp51qsq.md).

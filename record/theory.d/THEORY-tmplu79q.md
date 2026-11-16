@@ -18,8 +18,8 @@ source:
 
 ## Source
 
-Long (2021), International Review of Victimology 27(3): 344-362 (LIT-tmp4ummt), a partial stand-in for Christie (1986),
-LIT-tmpyjztu; read in NOTE-tmpojn2e (draft).
+Long (2021), International Review of Victimology 27(3): 344-362 ([LIT-tmp4ummt](../literature.d/LIT-tmp4ummt.md)), a partial stand-in for Christie (1986),
+[LIT-tmpyjztu](../literature.d/LIT-tmpyjztu.md); read in [NOTE-tmpojn2e](../notes.d/NOTE-tmpojn2e.md) (draft).
 
 ## What was actually shown
 

@@ -32,11 +32,11 @@ summary: >-
 ## Contribution
 
 The record's first source on the philosophy of blame as such, as opposed to
-the conditions of responsibility (LIT-691). It asks two questions, "Which
+the conditions of responsibility ([LIT-691](../literature.d/LIT-691.md)). It asks two questions, "Which
 reactions and interactions constitute blame?" and "When is it appropriate to
 respond in these ways?". It answers the first with a four-way taxonomy and
 the second with three kinds of fact. For this filing it stands in for
-Scanlon's Moral Dimensions and adds to LIT-691 on Strawson.
+Scanlon's Moral Dimensions and adds to [LIT-691](../literature.d/LIT-691.md) on Strawson.
 
 ## Key results
 
@@ -115,20 +115,20 @@ Scanlon's Moral Dimensions and adds to LIT-691 on Strawson.
 
 ## Bearing on the record
 
-- CLAIM-tmpnw7ez: the complicity condition is an independent statement of
+- [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md): the complicity condition is an independent statement of
   the claim's structure from the blamer's side. A party who "forced" another
   or "left [them] with no reasonable alternative" loses standing to blame
   them, without the actor ceasing to be blameworthy (civilians still may).
   Corroborates.
-- CLAIM-tmpnfjln: an organization that blames members for failures its
+- [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md): an organization that blames members for failures its
   conditions produced is, on this condition, a complicit blamer. Watson's
   and Beade's argument about the state is the institutional case. This is a
   normative verdict on the blame the claim describes, not evidence that
   blame does settle where failure becomes visible. Note only.
-- CLAIM-tmpp8na7: Scanlon's account, as reported, lets a person withdraw
+- [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md): Scanlon's account, as reported, lets a person withdraw
   from a relationship on the impairment without settling who is worse. That
   matches A7 §4's use. Note only.
-- QUESTION-tmpgyn11 and CLAIM-tmpyjzi8: no direct bearing.
+- [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md) and [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md): no direct bearing.
 - Epistemic-injustice entries (A7 §6): Carbonell's claimant injustice is
   the blame-side counterpart. The filer should check the record's
   epistemic-injustice holdings.

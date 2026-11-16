@@ -48,10 +48,10 @@ Counterfactual explanation; algorithmic recourse; fixed model assumption; upstre
 
 ## Bearing on the record
 
-- **CLAIM-tmpnfjln**: supports its split of control and burden by a different mechanism. Control over the conditions of a decision (its criteria) stays with the deployer while the task of securing a better outcome is handed to the subject, and the explanation's frame makes the deployer's part invisible (results 6–8). It says nothing of compensation that leaves no trace or of credit and blame.
-- **CLAIM-523**: a CE supplies legibility of the subject relative to a fixed model but not of the organization's choices, so the discrepancy that could move the organization, an unjustified criterion, is not made recognizable.
-- **CLAIM-686**: the authors' "it may be impossible for subjects to reverse their decisions through contesting such choices absent appropriate transparency" is an instance of the legibility failure the claim names.
-- **THEORY-1841**: the pipeline's design parameters are a concrete case of Feenberg's contingent technical code.
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: supports its split of control and burden by a different mechanism. Control over the conditions of a decision (its criteria) stays with the deployer while the task of securing a better outcome is handed to the subject, and the explanation's frame makes the deployer's part invisible (results 6–8). It says nothing of compensation that leaves no trace or of credit and blame.
+- **[CLAIM-523](../claims.d/CLAIM-523.md)**: a CE supplies legibility of the subject relative to a fixed model but not of the organization's choices, so the discrepancy that could move the organization, an unjustified criterion, is not made recognizable.
+- **[CLAIM-686](../claims.d/CLAIM-686.md)**: the authors' "it may be impossible for subjects to reverse their decisions through contesting such choices absent appropriate transparency" is an instance of the legibility failure the claim names.
+- **[THEORY-1841](../theory.d/THEORY-1841.md)**: the pipeline's design parameters are a concrete case of Feenberg's contingent technical code.
 - **The exchange**, A19 §7 and reading list: accurate. "Shift responsibility" is A's word; the paper's is that the individualistic framing places the burden on the subject and forecloses the decider's.
 
 ## Limitations

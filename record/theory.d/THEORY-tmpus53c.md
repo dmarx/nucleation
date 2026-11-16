@@ -21,7 +21,7 @@ corroborates:
 
 ## Source
 
-Citron (2008), Washington University Law Review 85: 1249–1313 (LIT-tmpz93ag), read in NOTE-tmp61it3.
+Citron (2008), Washington University Law Review 85: 1249–1313 ([LIT-tmpz93ag](../literature.d/LIT-tmpz93ag.md)), read in [NOTE-tmp61it3](../notes.d/NOTE-tmp61it3.md).
 
 ## What was actually shown
 
@@ -34,7 +34,7 @@ one case "will capture all of the costs of improved process but only a tiny frac
 (p. 1285). Remedies: audit trails, training and reasons for hearing officers, a recalibrated Mathews,
 open code, testing suites, review boards, and automating only what rules handle better than standards.
 
-Corroborates CLAIM-tmpuiaop in its "exposes" reading: in the cases documented, removing the human step
+Corroborates [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md) in its "exposes" reading: in the cases documented, removing the human step
 removed the point at which a decision could be overruled ("Eligibility workers were unable to overrule
 this decision", p. 1264), and keeping it under automation bias kept the step without the opportunity.
 
@@ -42,5 +42,5 @@ this decision", p. 1264), and keeping it under automation bias kept the step wit
 
 Nothing measured: the failures are reports and audits of 2004–2007. Nothing on machine learning. It does
 not say automation should be avoided; it says when and under what procedures. It does not support the
-"characterizes" reading of CLAIM-tmpuiaop: its own remedies restore intervention without delay. It does not
-support CLAIM-tmpfmmkt's fixed corrective rate: its point is that correcting code corrects many cases.
+"characterizes" reading of [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md): its own remedies restore intervention without delay. It does not
+support [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md)'s fixed corrective rate: its point is that correcting code corrects many cases.

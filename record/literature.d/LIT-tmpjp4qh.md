@@ -4,7 +4,7 @@ status_note: >-
   Read 2026-11-16 in full (pp. 137–162, all footnotes) from the publisher's
   open-access PDF on Cambridge Core:
   https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6E0976BCBAFCA5C9C6D647E0FCFCAEF7/9781108841818c7_137-162.pdf/agency-laundering-and-information-technologies.pdf
-  Stands in for the 2019 article LIT-tmp16tpz, which was not reached.
+  Stands in for the 2019 article [LIT-tmp16tpz](LIT-tmp16tpz.md), which was not reached.
 title: 'Agency Laundering and Information Technologies'
 version: 2
 history:
@@ -39,7 +39,7 @@ summary: >-
   Houston's EVAAS firings launder; Uber's goal reminders and the Loomis
   court's use of COMPAS do not. Distinguished from responsibility gaps, bias
   laundering and masking; humans in the loop can launder too. The book version
-  of LIT-tmp16tpz. Read; the reading is NOTE-tmpw5xe2 and THEORY-tmpuga36.
+  of [LIT-tmp16tpz](LIT-tmp16tpz.md). Read; the reading is [NOTE-tmpw5xe2](../notes.d/NOTE-tmpw5xe2.md) and [THEORY-tmpuga36](../theory.d/THEORY-tmpuga36.md).
 ---
 <!-- inactive-ok-file: CLAIM-624 LIT-tmp16tpz THEORY-tmpuga36 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
@@ -54,10 +54,10 @@ Rubel, Castro, Pham (2021). *Agency Laundering and Information Technologies*. Al
 
 ## Standing in the record
 
-Read. It bears on CLAIM-624 (corroborates its structure: a wrong of
-answerability beyond the substantive violation) and QUESTION-070, and, only
-conditionally, on the blame-placement half of CLAIM-tmpnfjln. It stands in
-for the 2019 article LIT-tmp16tpz, whose abstract it matches.
+Read. It bears on [CLAIM-624](../claims.d/CLAIM-624.md) (corroborates its structure: a wrong of
+answerability beyond the substantive violation) and [QUESTION-070](../questions.d/QUESTION-070.md), and, only
+conditionally, on the blame-placement half of [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md). It stands in
+for the 2019 article [LIT-tmp16tpz](LIT-tmp16tpz.md), whose abstract it matches.
 
 ## Reading of 2026-11-16
 

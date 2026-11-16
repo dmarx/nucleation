@@ -46,8 +46,8 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read (NOTE-tmpji37z draft). The exchange's account is right in direction; 235 took part (230 in the analysed data), there
+Read ([NOTE-tmpji37z](../notes.d/NOTE-tmpji37z.md) draft). The exchange's account is right in direction; 235 took part (230 in the analysed data), there
 was one scenario in four variants, and effects were small. The exchange's own caveat, that such experiments give no
 test of who is lying, holds: the perpetrator is guilty by design. Part of the DARVO contrast is with a condition in
-which the accused said nothing. The registration named CLAIM-tmpp8na7 and CASE-tmpwrhkd; the reading finds no bearing
-on either. It bears instead on the record's epistemic-injustice readings, THEORY-327 and THEORY-317 (notes only).
+which the accused said nothing. The registration named [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md); the reading finds no bearing
+on either. It bears instead on the record's epistemic-injustice readings, [THEORY-327](../theory.d/THEORY-327.md) and [THEORY-317](../theory.d/THEORY-317.md) (notes only).

@@ -19,7 +19,7 @@ bears_on:
 
 ## Source
 
-The new LIT for Alfrink et al. (Minds and Machines 33:613–639), read in the open-access publisher PDF as a partial stand-in for Harid (2026), LIT-tmp7ftjn.
+The new LIT for Alfrink et al. (Minds and Machines 33:613–639), read in the open-access publisher PDF as a partial stand-in for Harid (2026), [LIT-tmp7ftjn](../literature.d/LIT-tmp7ftjn.md).
 
 ## What was actually shown
 

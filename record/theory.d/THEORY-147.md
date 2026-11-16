@@ -130,8 +130,8 @@ Zeiser draws the same distinction, from Watson and Shoemaker rather than Wolf, a
 
 ## Note of 2026-11-16: Smith, read
 
-Smith's "Attributability, Answerability, and Accountability" (LIT-tmp0tgda,
-NOTE-tmp938r4) argues that "“responsibility as answerability” is indeed the only
+Smith's "Attributability, Answerability, and Accountability" ([LIT-tmp0tgda](../literature.d/LIT-tmp0tgda.md),
+[NOTE-tmp938r4](../notes.d/NOTE-tmp938r4.md)) argues that "“responsibility as answerability” is indeed the only
 kind of moral responsibility there is". On her view, what is called
 attributability "is not a form of responsibility at all", and
 accountability "is just responsibility as answerability in contexts where

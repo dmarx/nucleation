@@ -19,7 +19,7 @@ source:
 
 ## Source
 
-LIT-tmpaio5u, read in NOTE-tmp9acbc (Europe PMC full text, PMC10666508).
+[LIT-tmpaio5u](../literature.d/LIT-tmpaio5u.md), read in [NOTE-tmp9acbc](../notes.d/NOTE-tmp9acbc.md) (Europe PMC full text, PMC10666508).
 
 ## What was actually shown
 

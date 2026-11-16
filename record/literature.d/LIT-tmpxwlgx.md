@@ -32,7 +32,7 @@ summary: >-
   exploitation, command) produce a condition of unfreedom experienced as
   entrapment, in perhaps a third of cases without notable violence, and the
   level of control predicts harms including post-separation violence. Read
-  as the stand-in for Stark's 2007 book (LIT-tmp77bag), which the exchange
+  as the stand-in for Stark's 2007 book ([LIT-tmp77bag](LIT-tmp77bag.md)), which the exchange
   "Assess Depp Heard Abuse" cites (A3 §3).
 ---
 <!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpp8na7 LIT-tmp77bag — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -49,5 +49,5 @@ ties it to sexual inequality.
 
 ## Standing in the record
 
-Filed as the stand-in for LIT-tmp77bag (Stark 2007): it restates the book's definitions with page references and its
-central claim, not its history or cases. Bears on CLAIM-tmpp8na7 (corroborates) and CASE-tmpwrhkd.
+Filed as the stand-in for [LIT-tmp77bag](LIT-tmp77bag.md) (Stark 2007): it restates the book's definitions with page references and its
+central claim, not its history or cases. Bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) (corroborates) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md).

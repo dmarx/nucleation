@@ -51,16 +51,16 @@ mutually violent control; social entrapment.
 
 ## Bearing on the record
 
-- **CLAIM-tmpp8na7: corroborates.** Independent support that a count of violent acts misreads who holds power: control
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md): corroborates.** Independent support that a count of violent acts misreads who holds power: control
   is not a type of violence, entrapment occurs without notable violence, and act-based definitions let abusers
   "disconnect their violent acts from one another". It says nothing on who is responsible for a relationship's
   structure.
-- **ARG-tmpsyaz2**: its answer to "Is the case coherent?" leans on A3's attribution to Stark that the threat of
+- **[ARG-tmpsyaz2](../arguments.d/ARG-tmpsyaz2.md)**: its answer to "Is the case coherent?" leans on A3's attribution to Stark that the threat of
   violence can enforce control without violence; the review bears that out (result 3).
-- **CASE-tmpwrhkd**: Dan's tactics are the control tactics of the Home Office definition the review quotes
+- **[CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md)**: Dan's tactics are the control tactics of the Home Office definition the review quotes
   ("isolating them from sources of support", "depriving them of the means needed for independence, resistance and
   escape").
-- **CLAIM-682**: its third condition, that the dependent lacks effective means of protection or justified
+- **[CLAIM-682](../claims.d/CLAIM-682.md)**: its third condition, that the dependent lacks effective means of protection or justified
   withdrawal, is what Stark's control produces; an interpersonal instance of the claim's test.
 - **The exchange** (A3 §3) reports Stark's view accurately; it does not mention his tying of coercive control to
   sexual inequality.

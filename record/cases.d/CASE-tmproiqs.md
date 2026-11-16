@@ -112,7 +112,7 @@ reports checked on 2026-11-15 and is not part of the case.
 
 ## Note of 2026-11-16: Cuéllar, read
 
-Cuéllar's essay (LIT-tmpryo91) predates the case, but the case fits his
+Cuéllar's essay ([LIT-tmpryo91](../literature.d/LIT-tmpryo91.md)) predates the case, but the case fits his
 account. A presidential announcement that work would begin "immediately" at a
 particular site is the President driving a specific agency matter: his
 "presidential adjudication". The court's finding that the stated rationale

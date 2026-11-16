@@ -23,13 +23,13 @@ corroborates:
 
 ## Source
 
-Santoni de Sio and van den Hoven (2018), LIT-tmpqyqtw, read in full; the reading is NOTE-tmpmsqcj.
+Santoni de Sio and van den Hoven (2018), [LIT-tmpqyqtw](../literature.d/LIT-tmpqyqtw.md), read in full; the reading is [NOTE-tmpmsqcj](../notes.d/NOTE-tmpmsqcj.md).
 
 ## What was actually shown
 
-A conceptual account, extending Fischer and Ravizza's guidance control (THEORY-121) to socio-technical systems. Tracking: "decision-making systems should track (relevant)" human moral reasons and the relevant facts, after Nozick. Tracing: a system's "actions/states should be traceable to a" proper understanding by at least one human in its design or use. Presence in the loop "is not a sufficient condition for being in control"; control can be mediated and distant; and control is "a necessary but not" sufficient condition of good conduct.
+A conceptual account, extending Fischer and Ravizza's guidance control ([THEORY-121](THEORY-121.md)) to socio-technical systems. Tracking: "decision-making systems should track (relevant)" human moral reasons and the relevant facts, after Nozick. Tracing: a system's "actions/states should be traceable to a" proper understanding by at least one human in its design or use. Presence in the loop "is not a sufficient condition for being in control"; control can be mediated and distant; and control is "a necessary but not" sufficient condition of good conduct.
 
-Corroborates CLAIM-tmpnw7ez, independently of the exchange, on its first half: tracing runs responsibility upstream to whoever set an operator's conditions, as to Kamm's captain, "the choice architect", and to designers with a "second-order responsibility for the first-order responsibility" of the operator. It qualifies the second half, since an operator whose conditions failed through no fault of her own "may not be responsible".
+Corroborates [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), independently of the exchange, on its first half: tracing runs responsibility upstream to whoever set an operator's conditions, as to Kamm's captain, "the choice architect", and to designers with a "second-order responsibility for the first-order responsibility" of the operator. It qualifies the second half, since an operator whose conditions failed through no fault of her own "may not be responsible".
 
 ## What this does not say
 

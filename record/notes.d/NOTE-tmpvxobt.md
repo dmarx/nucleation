@@ -68,14 +68,14 @@ epistemic enslavement; informatization review; hardship clause; transparency as 
 
 ## Bearing on the record
 
-- CLAIM-tmpuiaop: the clearest case in the chunk for the "exposes" reading. The steps that gave others a
+- [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md): the clearest case in the chunk for the "exposes" reading. The steps that gave others a
   hold on a decision before it took effect (a superior's signature, ex ante legal review, a judge per
   case) are removed, and a human enters only after the decision, on objection (items 2, 5). The remedies
   reinstate intervention as a citizen-triggered step, not as delay for every case.
-- CLAIM-462: execution is perfected while control of the designers is unsolved.
-- TERM-tmp91lqy: item 2 gives textbook instances of friction in the term's sense.
-- QUESTION-tmp9n1ac: item 8, the transformation adopted without debate, is the institutional analogue.
-- CLAIM-tmpfmmkt: only the qualitative remark that case-by-case accountability is infeasible at scale.
+- [CLAIM-462](../claims.d/CLAIM-462.md): execution is perfected while control of the designers is unsolved.
+- [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md): item 2 gives textbook instances of friction in the term's sense.
+- [QUESTION-tmp9n1ac](../questions.d/QUESTION-tmp9n1ac.md): item 8, the transformation adopted without debate, is the institutional analogue.
+- [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md): only the qualitative remark that case-by-case accountability is infeasible at scale.
 
 ## Limitations
 

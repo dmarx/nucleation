@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read 2026-11-16 (NOTE-tmp61it3) from the published PDF on the journal's
+  Read 2026-11-16 ([NOTE-tmp61it3](../notes.d/NOTE-tmp61it3.md)) from the published PDF on the journal's
   site,
 title: 'Technological Due Process'
 version: 2
@@ -44,9 +44,9 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read in NOTE-tmp61it3; THEORY-tmpus53c states its account. What the exchange said of it (A23: "automation can
+Read in [NOTE-tmp61it3](../notes.d/NOTE-tmp61it3.md); [THEORY-tmpus53c](../theory.d/THEORY-tmpus53c.md) states its account. What the exchange said of it (A23: "automation can
 collapse adjudication and rulemaking while undermining the procedural safeguards associated with both")
-is accurate. For CLAIM-tmpuiaop it documents both ways automation removes a point of intervention: by
+is accurate. For [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md) it documents both ways automation removes a point of intervention: by
 removing the human step ("Eligibility workers were unable to overrule this decision", p. 1264) and by
-keeping it under automation bias (p. 1272). For CLAIM-tmpfmmkt it supports late correction but qualifies
+keeping it under automation bias (p. 1272). For [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md) it supports late correction but qualifies
 the fixed corrective rate: a fix to code corrects every later case (p. 1285). Footnotes not read.

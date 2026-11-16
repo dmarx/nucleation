@@ -18,7 +18,7 @@ source:
 
 ## Source
 
-Bell's review in NDPR (LIT-tmppxwo6), read as a stand-in for Tessman (2005), LIT-tmpovdz8, which is Unavailable. The reading is NOTE-tmp8mutd.
+Bell's review in NDPR ([LIT-tmppxwo6](../literature.d/LIT-tmppxwo6.md)), read as a stand-in for Tessman (2005), [LIT-tmpovdz8](../literature.d/LIT-tmpovdz8.md), which is Unavailable. The reading is [NOTE-tmp8mutd](../notes.d/NOTE-tmp8mutd.md).
 
 ## What was actually shown
 

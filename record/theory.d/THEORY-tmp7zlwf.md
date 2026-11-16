@@ -20,7 +20,7 @@ corroborates:
 
 ## Source
 
-Frey and Schneider, arXiv:2009.12470 (LIT-tmpqws4y), read in NOTE-tmp1p6j3 as a partial stand-in for LIT-tmpdfowr.
+Frey and Schneider, arXiv:2009.12470 ([LIT-tmpqws4y](../literature.d/LIT-tmpqws4y.md)), read in [NOTE-tmp1p6j3](../notes.d/NOTE-tmp1p6j3.md) as a partial stand-in for [LIT-tmpdfowr](../literature.d/LIT-tmpdfowr.md).
 
 ## What was actually shown
 
@@ -30,7 +30,7 @@ of user exit", "Exit is not a real option for most community members", and likes
 pressure valves in the guise of effective acts". Mechanisms proposed: rules binding on administrators,
 selection and removal of administrators, binding thresholds, referenda on governance change.
 
-Corroborates CLAIM-523: affective voice without effective voice is legibility without volitional
+Corroborates [CLAIM-523](../claims.d/CLAIM-523.md): affective voice without effective voice is legibility without volitional
 efficacy, observed (by example) on platforms.
 
 ## What this does not say

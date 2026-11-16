@@ -33,7 +33,7 @@ summary: >-
   that intimate terrorism is almost all men's and found in agency samples,
   while situational couple violence is near gender-symmetric and dominates
   general surveys. Read as the stand-in for Johnson's 2008 book
-  (LIT-tmpyfuuw) on the typology the exchange "Assess Depp Heard Abuse"
+  ([LIT-tmpyfuuw](LIT-tmpyfuuw.md)) on the typology the exchange "Assess Depp Heard Abuse"
   cites (A3 §2, §5).
 ---
 <!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpp8na7 LIT-tmpyfuuw — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -51,5 +51,5 @@ gender symmetry.
 
 ## Standing in the record
 
-Filed as the stand-in for LIT-tmpyfuuw (Johnson 2008), whose typology it states; it does not carry the book's later
-data and chapters. Bears on CLAIM-tmpp8na7 (corroborates) and CASE-tmpwrhkd.
+Filed as the stand-in for [LIT-tmpyfuuw](LIT-tmpyfuuw.md) (Johnson 2008), whose typology it states; it does not carry the book's later
+data and chapters. Bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) (corroborates) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md).

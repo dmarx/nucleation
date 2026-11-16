@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read in full 2026-11-16 (NOTE-tmpfw0h2) from an anthology reprint of the
+  Read in full 2026-11-16 ([NOTE-tmpfw0h2](../notes.d/NOTE-tmpfw0h2.md)) from an anthology reprint of the
   Mortal Questions text, posted as a course file on the University of Athens
   e-class site (course PHILOSOPHY921). Worth reading: the canonical statement
   of the problem of moral luck and its four kinds, and the source of the
@@ -56,7 +56,7 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read in full in NOTE-tmpfw0h2; the account is THEORY-tmpp6hib. The exchange cites
+Read in full in [NOTE-tmpfw0h2](../notes.d/NOTE-tmpfw0h2.md); the account is [THEORY-tmpp6hib](../theory.d/THEORY-tmpp6hib.md). The exchange cites
 Nagel at A7 §7: "Nagel distinguished several forms of moral luck, including
 luck in circumstances, outcomes, and character." That is accurate as far as
 it goes. Nagel names four kinds, and the one A omits, causal luck, is the one

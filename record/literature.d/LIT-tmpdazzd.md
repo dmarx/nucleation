@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read 2026-11-16 in the open-access (CC BY) publisher PDF from
-  link.springer.com, as a partial stand-in for Harid (2026), LIT-tmp7ftjn,
+  link.springer.com, as a partial stand-in for Harid (2026), [LIT-tmp7ftjn](LIT-tmp7ftjn.md),
   which is Unfetched.
 title: 'Contestable AI by Design: Towards a Framework'
 version: 1
@@ -37,8 +37,8 @@ summary: >-
   safeguards, control and ex-ante contestation of design choices, and after
   it through review, since subjects' intervention requests are "necessarily
   post-hoc". Untested. Read 2026-11-16 as a partial stand-in for Harid
-  (2026), LIT-tmp7ftjn, for the concept of contestability before execution
-  only. It bears on CLAIM-tmpuiaop, CLAIM-tmpwpvbz and TERM-tmp91lqy.
+  (2026), [LIT-tmp7ftjn](LIT-tmp7ftjn.md), for the concept of contestability before execution
+  only. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md) and [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpwpvbz LIT-tmp7ftjn TERM-tmp91lqy — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmpdazzd: Contestable AI by Design: Towards a Framework
@@ -51,4 +51,4 @@ A design framework for contestable AI: five features and six practices from a sy
 
 ## Standing in the record
 
-Registered and read on 2026-11-16 as a partial neighbour for Harid (2026), LIT-tmp7ftjn: it carries the concept of contestability before execution, not Harid's deficit construct, register shift or separation of contestability from friction. It bears on CLAIM-tmpuiaop, CLAIM-tmpwpvbz and TERM-tmp91lqy.
+Registered and read on 2026-11-16 as a partial neighbour for Harid (2026), [LIT-tmp7ftjn](LIT-tmp7ftjn.md): it carries the concept of contestability before execution, not Harid's deficit construct, register shift or separation of contestability from friction. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md) and [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md).

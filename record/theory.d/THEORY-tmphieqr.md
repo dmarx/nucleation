@@ -22,13 +22,13 @@ bounds:
 
 ## Source
 
-Ozer, Waggoner and Kennedy (2024), LIT-tmpq41d3, read without its online supplement; the reading is NOTE-tmp57m8y.
+Ozer, Waggoner and Kennedy (2024), [LIT-tmpq41d3](../literature.d/LIT-tmpq41d3.md), read without its online supplement; the reading is [NOTE-tmp57m8y](../notes.d/NOTE-tmp57m8y.md).
 
 ## What was actually shown
 
 Study 1 (two samples pooled, n = 923 and 1,842): relative to a judge deciding alone, blame on the judge rose in every advice condition, by 9% when she agreed with the algorithm and about 6% when she disagreed; "respondents did blame the algorithms for the mistake under the agreement" condition, "but this did not reduce the culpability assigned to the judge." Differences by source of advice were not significant. Study 2 (n = 1,423): the same direction, not significant; trust in experts raised blame for rejecting the algorithm; "about 66% of the effect of agreeing" was mediated by the view that the judge should have used her own judgment. The authors: "these effects are small".
 
-Bounds CLAIM-tmpnfjln, whose own text cites this study as the limit of what it says about automation.
+Bounds [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md), whose own text cites this study as the limit of what it says about automation.
 
 ## What this does not say
 

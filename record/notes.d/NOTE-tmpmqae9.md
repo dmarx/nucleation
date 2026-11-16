@@ -31,7 +31,7 @@ summary: >-
 
 A survey of the problem of moral luck and the responses to it. For this
 record it stands in for Williams's 1976 paper, which could not be fetched.
-It is a second statement, beside Nagel's own (LIT-tmp2dx6l), of the four
+It is a second statement, beside Nagel's own ([LIT-tmp2dx6l](../literature.d/LIT-tmp2dx6l.md)), of the four
 kinds of luck.
 
 ## Key results
@@ -104,11 +104,11 @@ kinds of luck.
   regardless of which option they select" are Williams's moral-dilemma
   remainder, from "Ethical Consistency" (1965), which Nagel cites; they are
   not this paper's topic.
-- CLAIM-tmpyjzi8 and CLAIM-tmpnfjln: Wolf's virtue, giving "more…that
+- [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md) and [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md): Wolf's virtue, giving "more…that
   justice requires" by taking responsibility for outcomes beyond one's
   fault, describes the disposition those claims say an organization can
   exploit. Note only.
-- CLAIM-tmpnw7ez: none directly.
+- [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md): none directly.
 
 ## Limitations
 

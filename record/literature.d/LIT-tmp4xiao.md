@@ -33,8 +33,8 @@ summary: >-
   report; prevalence ranges from 2% to 98.4%; only five studies assessed
   interpartner agreement; and the CTS cannot tell who initiated violence or
   why, so self-defence can be counted as mutual violence. Filed as a
-  stand-in for Machado et al. 2026 (LIT-tmp5jqvq) on the operational side,
-  and in part for Stover et al. 2025 (LIT-tmpcxq1w). Read 2026-11-16.
+  stand-in for Machado et al. 2026 ([LIT-tmp5jqvq](LIT-tmp5jqvq.md)) on the operational side,
+  and in part for Stover et al. 2025 ([LIT-tmpcxq1w](LIT-tmpcxq1w.md)). Read 2026-11-16.
 ---
 <!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpp8na7 LIT-tmp5jqvq LIT-tmpcxq1w — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmp4xiao: Instruments to Assess Bidirectional Intimate Partner Violence: A Systematic Review
@@ -49,4 +49,4 @@ Cunha, Sousa, Faria, Pinto, Machado (2025). *Instruments to Assess Bidirectional
 
 ## Standing in the record
 
-Filed and read on 2026-11-16 as a stand-in for LIT-tmp5jqvq (Machado, Sousa and Cunha 2026), which could not be fetched. It restates that review's operational concern, but not its conceptual map of terms or its proposed definition. It stands in partly for LIT-tmpcxq1w (Stover et al. 2025) on partner agreement and the prevalence range, but not for Stover's dyadic-data findings. It bears on CLAIM-tmpp8na7 and CASE-tmpwrhkd.
+Filed and read on 2026-11-16 as a stand-in for [LIT-tmp5jqvq](LIT-tmp5jqvq.md) (Machado, Sousa and Cunha 2026), which could not be fetched. It restates that review's operational concern, but not its conceptual map of terms or its proposed definition. It stands in partly for [LIT-tmpcxq1w](LIT-tmpcxq1w.md) (Stover et al. 2025) on partner agreement and the prevalence range, but not for Stover's dyadic-data findings. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md).

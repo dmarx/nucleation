@@ -45,11 +45,11 @@ Workplace games; "making out"; relational and efficiency games; touchpoints; org
 
 ## Bearing on the record
 
-- **QUESTION-461**: a case of an organization that depends on participants it subordinates and secures their contribution without ceding authority. It makes one game winnable through its metrics and meets the other with opacity and the threat of deactivation. Drivers' counter-tactics are real but individual.
-- **CLAIM-682, CLAIM-690**: the platform alone sets assignment, fares and deactivation, the terms on which drivers act. That is a case of control over the terms of a dependence, though the paper takes no normative position.
-- **CLAIM-tmp0tg7y, CLAIM-tmpyjzi8**: the relational game's extra care (gifts, emotional support) for ratings is unpaid effort the platform receives. The paper presents it as meaning the drivers make, not as exploitation.
-- **CLAIM-tmpnfjln**: no bearing.
-- **As a stand-in for Cameron (2024), LIT-tmpdkpdp**: same fieldwork, and its two games prefigure that paper's engagement and deviance tactics, both sustaining participation. It lacks the later paper's "constant and confined choices" and "choice-based consent", and it withholds the consent conclusion that A19 §3 attributes to the later paper.
+- **[QUESTION-461](../questions.d/QUESTION-461.md)**: a case of an organization that depends on participants it subordinates and secures their contribution without ceding authority. It makes one game winnable through its metrics and meets the other with opacity and the threat of deactivation. Drivers' counter-tactics are real but individual.
+- **[CLAIM-682](../claims.d/CLAIM-682.md), [CLAIM-690](../claims.d/CLAIM-690.md)**: the platform alone sets assignment, fares and deactivation, the terms on which drivers act. That is a case of control over the terms of a dependence, though the paper takes no normative position.
+- **[CLAIM-tmp0tg7y](../claims.d/CLAIM-tmp0tg7y.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md)**: the relational game's extra care (gifts, emotional support) for ratings is unpaid effort the platform receives. The paper presents it as meaning the drivers make, not as exploitation.
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: no bearing.
+- **As a stand-in for Cameron (2024), [LIT-tmpdkpdp](../literature.d/LIT-tmpdkpdp.md)**: same fieldwork, and its two games prefigure that paper's engagement and deviance tactics, both sustaining participation. It lacks the later paper's "constant and confined choices" and "choice-based consent", and it withholds the consent conclusion that A19 §3 attributes to the later paper.
 
 ## Limitations
 

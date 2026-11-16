@@ -41,6 +41,6 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Not read (Unfetched; see status_note). The neighbour LIT-tmppku2r (NOTE-tmpliozq) restates the framework the exchange
+Not read (Unfetched; see status_note). The neighbour [LIT-tmppku2r](LIT-tmppku2r.md) ([NOTE-tmpliozq](../notes.d/NOTE-tmpliozq.md)) restates the framework the exchange
 attributes to this article. A23's description is consistent with the authors' published framework; whether
 this article "shows" it, and with what evidence, is unchecked.

@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-16 (NOTE-tmpmqae9) from the plato.stanford.edu HTML,
+  skimmed 2026-11-16 ([NOTE-tmpmqae9](../notes.d/NOTE-tmpmqae9.md)) from the plato.stanford.edu HTML,
   substantive revision of 20 Jan 2025; filed and read as the stand-in for
-  Williams, "Moral Luck" (LIT-tmpydurr, Unfetched). It reports Williams's
+  Williams, "Moral Luck" ([LIT-tmpydurr](LIT-tmpydurr.md), Unfetched). It reports Williams's
   agent-regret with a quotation of the lorry-driver passage (1976
   [1993b, 43]) and Williams's 1993 Postscript, and it restates Nagel's four
   kinds of luck.
@@ -53,7 +53,7 @@ summary: >-
 
 ## Standing in the record
 
-Filed as a neighbour for Williams (LIT-tmpydurr). It restates the paper's
+Filed as a neighbour for Williams ([LIT-tmpydurr](LIT-tmpydurr.md)). It restates the paper's
 agent-regret and the lorry driver (quoted, 1976 as reprinted 1993, 43), the
 Gauguin case in outline, and the reading of the original paper, which the
 1993 Postscript revises. It does not restate the paper's argument in

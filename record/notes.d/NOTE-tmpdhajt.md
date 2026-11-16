@@ -54,15 +54,15 @@ Privileged irresponsibility; caring democracy; caring-with; neoliberal personal 
 
 ## Bearing on the record
 
-- **Connections.** A stand-in for LIT-tmpw46qz and LIT-tmp4yz7x. It restates the concept of
+- **Connections.** A stand-in for [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md) and [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md). It restates the concept of
   privileged irresponsibility (result 1) and Caring Democracy's program (result 2). It does not
   restate either book's argument, Moral Boundaries' account of the moral boundaries, the "passes"
   or "privilege of not noticing" that the exchange attributes to Tronto, or Caring Democracy's
   chapters.
-- **CLAIM-tmpnfjln, CLAIM-tmpyjzi8**: both cite Tronto unread. In her words, the concept concerns
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md)**: both cite Tronto unread. In her words, the concept concerns
   the privileged refusing burdensome responsibilities; its extension to organizations is the
-  exchange's (and Liedo et al.'s, LIT-tmpd8i3u).
-- **CLAIM-tmpnw7ez**: result 4 is a case of diffused responsibility excusing the party whose rule
+  exchange's (and Liedo et al.'s, [LIT-tmpd8i3u](../literature.d/LIT-tmpd8i3u.md)).
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**: result 4 is a case of diffused responsibility excusing the party whose rule
   set the conditions.
 - **The exchange** (A15 §6, A17 §§2, 7): its definition of privileged irresponsibility and its
   "allocation of responsibilities for care" are consistent with Tronto's own statements.

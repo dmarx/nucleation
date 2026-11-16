@@ -70,14 +70,14 @@ against standards as the test of what to automate; testing suites as a surrogate
 
 ## Bearing on the record
 
-- CLAIM-tmpuiaop: documents both ways a point of intervention is lost to automation: the human step is
+- [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md): documents both ways a point of intervention is lost to automation: the human step is
   removed (item 3) or kept and emptied by automation bias (item 4). The second is friction that offers no
   opportunity, which the claim already excludes from its defeater.
-- CLAIM-tmpfmmkt: supports late correction (item 5) but qualifies the fixed-μ idealization: where errors
+- [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md): supports late correction (item 5) but qualifies the fixed-μ idealization: where errors
   are systematic, one correction to code resolves many cases (item 6).
-- CLAIM-tmpwpvbz, CLAIM-tmpkx7ct: audit trails, pre-launch testing, open code and review boards are
+- [CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md), [CLAIM-tmpkx7ct](../claims.d/CLAIM-tmpkx7ct.md): audit trails, pre-launch testing, open code and review boards are
   standing upstream constraints, not delay.
-- CASE-261, CLAIM-403: neighbours (contest of automated decisions; a hearing held without uptake).
+- [CASE-261](../cases.d/CASE-261.md), [CLAIM-403](../claims.d/CLAIM-403.md): neighbours (contest of automated decisions; a hearing held without uptake).
 
 ## Limitations
 

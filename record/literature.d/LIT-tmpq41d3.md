@@ -36,7 +36,7 @@ summary: >-
   rejecting it; advice of any kind slightly raises blame, the algorithm is
   blamed without lowering the judge's share, and the rise for following it is
   mostly mediated by perceived abdication. Effects are small and fade in the
-  third sample. Read; the reading is NOTE-tmp57m8y and THEORY-tmphieqr.
+  third sample. Read; the reading is [NOTE-tmp57m8y](../notes.d/NOTE-tmp57m8y.md) and [THEORY-tmphieqr](../theory.d/THEORY-tmphieqr.md).
 ---
 <!-- inactive-ok-file: THEORY-tmphieqr — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
@@ -51,7 +51,7 @@ Ozer, Waggoner, Kennedy (2024). *The Paradox of Algorithms and Blame on Public D
 
 ## Standing in the record
 
-Read. It marks the limit CLAIM-tmpnfjln draws for itself on automation
+Read. It marks the limit [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) draws for itself on automation
 (bounds): public blame of a visible official is not shifted onto an
 algorithm. It says nothing about blame within organizations.
 

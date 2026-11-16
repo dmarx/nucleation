@@ -20,7 +20,7 @@ source:
 ## Source
 
 Tronto (2018), SAJHE 32(6): 6-18 (the neighbour's new LIT; `source:` to be set to its code), read
-as a stand-in for LIT-tmpw46qz and LIT-tmp4yz7x. The reading is NOTE-tmpdhajt.
+as a stand-in for [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md) and [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md). The reading is [NOTE-tmpdhajt](../notes.d/NOTE-tmpdhajt.md).
 
 ## What was actually shown
 

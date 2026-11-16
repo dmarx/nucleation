@@ -47,11 +47,11 @@ Privileged irresponsibility; bad care; caring with; attentiveness.
 
 ## Bearing on the record
 
-- **Connections.** A stand-in, with Tronto (2018), for LIT-tmpw46qz. It restates the concept in
+- **Connections.** A stand-in, with Tronto (2018), for [LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md). It restates the concept in
   Tronto's words (results 1-2) and the book's moral stake, responsiveness to others. It does not
   restate Moral Boundaries' argument. It gives one passage of Caring Democracy (result 3) for
-  LIT-tmp4yz7x.
-- **CLAIM-tmpnfjln, CLAIM-614**: result 3 is privilege as not seeing those whose labour carries
+  [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md).
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md), [CLAIM-614](../claims.d/CLAIM-614.md)**: result 3 is privilege as not seeing those whose labour carries
   you, close to the invisibility the claims describe, but said of classes, not organizations.
 - **The exchange** (A17 §2): its "privilege of not noticing" is close in spirit to results 1 and 3;
   the words are A's.

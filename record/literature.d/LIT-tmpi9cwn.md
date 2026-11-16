@@ -33,8 +33,8 @@ summary: >-
   attenuate but do not remove the effect; discarding discovered incidents in
   proportion to patrol probability restores convergence to the true rates.
   Simulations of PredPol on Oakland data reproduce both. Read 2026-11-16. It
-  corroborates the record's entrenchment loop (CLAIM-277) and its structural
-  form in CLAIM-406. Cited in the exchange "Assess Depp Heard Abuse" (A19 §6),
+  corroborates the record's entrenchment loop ([CLAIM-277](../claims.d/CLAIM-277.md)) and its structural
+  form in [CLAIM-406](../claims.d/CLAIM-406.md). Cited in the exchange "Assess Depp Heard Abuse" (A19 §6),
   accurately; A's extension to effects of treatment on people is not the
   paper's.
 ---

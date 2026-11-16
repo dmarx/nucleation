@@ -3,8 +3,8 @@ status: Active
 status_note: >-
   Read 2026-11-16 in full from the published version (CC BY) at
   https://erepo.uef.fi/bitstreams/d67e63a6-2eeb-4f74-96d1-da4634c4a5ad/download
-  (UEF repository, handle 123456789/39390). Reading in NOTE-tmpwcnyu; account
-  in THEORY-tmp52xrv.
+  (UEF repository, handle 123456789/39390). Reading in [NOTE-tmpwcnyu](../notes.d/NOTE-tmpwcnyu.md); account
+  in [THEORY-tmp52xrv](../theory.d/THEORY-tmp52xrv.md).
 title: 'Positioning public sector practitioners as ''moral crumple zones'': Mechanisms in the early use of generative AI work support tools'
 version: 2
 history:
@@ -38,8 +38,8 @@ summary: >-
   produce this: oversight and liability taken for granted, immature tools
   marketed as "sparring buddies", trial-and-error learning offloaded to users,
   limited transparency, and a burden of vigilance. Read 2026-11-16
-  (NOTE-tmpwcnyu, THEORY-tmp52xrv). It corroborates the allocation clause of
-  CLAIM-tmpnfjln; it observes prospective allocation, not blame after a harm.
+  ([NOTE-tmpwcnyu](../notes.d/NOTE-tmpwcnyu.md), [THEORY-tmp52xrv](../theory.d/THEORY-tmp52xrv.md)). It corroborates the allocation clause of
+  [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md); it observes prospective allocation, not blame after a harm.
 ---
 <!-- inactive-ok-file: THEORY-tmp52xrv — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->

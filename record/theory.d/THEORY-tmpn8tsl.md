@@ -23,8 +23,8 @@ corroborates:
 
 ## Source
 
-Bovens and Zouridis (2002), Public Administration Review 62(2): 174–184 (LIT-tmp24k63), read in the
-authors' manuscript (NOTE-tmpvxobt).
+Bovens and Zouridis (2002), Public Administration Review 62(2): 174–184 ([LIT-tmp24k63](../literature.d/LIT-tmp24k63.md)), read in the
+authors' manuscript ([NOTE-tmpvxobt](../notes.d/NOTE-tmpvxobt.md)).
 
 ## What was actually shown
 
@@ -36,9 +36,9 @@ vanished" and "System analysts and software designers are the key actors" (Abstr
 choices are political and uncontrolled (§5.2) and that rigidity produces a new arbitrariness (§5.3); they
 propose informatization review, "hardship clauses", and public access to the decision trees (§6).
 
-Corroborates CLAIM-tmpuiaop ("exposes"): the ex ante steps that let others act on a decision before it
+Corroborates [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md) ("exposes"): the ex ante steps that let others act on a decision before it
 took effect (a superior's signature, legal review, a judge) are what the transformation removed, leaving
-only ex post objection. Corroborates CLAIM-462: execution is perfected while the designers' choices escape
+only ex post objection. Corroborates [CLAIM-462](../claims.d/CLAIM-462.md): execution is perfected while the designers' choices escape
 correction.
 
 ## What this does not say

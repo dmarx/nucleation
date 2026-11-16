@@ -48,7 +48,7 @@ Wrongness of the act versus blame of the agent: "Wrongness focuses more on the m
 ## Bearing on the record
 
 - **The exchange** (A5 §5) reports the result accurately ("only partly supported"). It then rests its "Four kinds of responsibility worth keeping separate" on "the emerging science of moral responsibility". This paper studies none of those kinds. Its finding is that lay wrongness and blame judgments differ little, so it gives A's distinction no empirical footing.
-- **CLAIM-tmpnw7ez**: the LIT linked the work to this claim. The paper does not bear on it: no party structures another's circumstances in its scenarios.
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**: the LIT linked the work to this claim. The paper does not bear on it: no party structures another's circumstances in its scenarios.
 
 ## Limitations
 

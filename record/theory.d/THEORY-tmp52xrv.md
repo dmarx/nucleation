@@ -21,7 +21,7 @@ corroborates:
 
 ## Source
 
-Choroszewicz (2026), LIT-tmpj3pjx, read in full; the reading is NOTE-tmpwcnyu.
+Choroszewicz (2026), [LIT-tmpj3pjx](../literature.d/LIT-tmpj3pjx.md), read in full; the reading is [NOTE-tmpwcnyu](../notes.d/NOTE-tmpwcnyu.md).
 
 ## What was actually shown
 
@@ -32,7 +32,7 @@ issues with the tool's design and development" (p. 6). Users' prolonged engageme
 as users' invisible work to compensate for the limitations of AI tools" (p. 6). Tools meant to save
 time "instead generated additional workload" (p. 9).
 
-Corroborates CLAIM-tmpnfjln in its allocation clause and, weakly, its asymmetric attribution: the
+Corroborates [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) in its allocation clause and, weakly, its asymmetric attribution: the
 tools' promise was protected and poor outputs were put down to users. It does not corroborate the
 claim's blame-after-visible-failure clause.
 

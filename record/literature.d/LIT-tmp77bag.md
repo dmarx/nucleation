@@ -46,7 +46,7 @@ Stark (2007). *Coercive Control: How Men Entrap Women in Personal Life*. Oxford 
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A3 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmpxwlgx, Stark and Hester (2019), Coercive Control: Update and Review.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A3 §3, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmpxwlgx](LIT-tmpxwlgx.md), Stark and Hester (2019), Coercive Control: Update and Review.
 
 ## Reading of 2026-11-16
 

@@ -37,7 +37,7 @@ Kong, Chang (2026). *Displacement, Dilemma, and Exit: The Ethical Stakes of Algo
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §5; A23 reading list, on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: LIT-tmpqws4y, Frey and Schneider, Effective Voice, for the exit-and-voice strand only.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A23 §5; A23 reading list, on procedural friction, contestability and automated administration. It bears on [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md), [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmpqws4y](LIT-tmpqws4y.md), Frey and Schneider, Effective Voice, for the exit-and-voice strand only.
 
 ## Reading of 2026-11-16
 

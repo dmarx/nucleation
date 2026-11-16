@@ -21,11 +21,11 @@ corroborates:
 
 ## Source
 
-LIT-tmpyysa4, read in NOTE-tmp51qsq (Europe PMC full text, PMC13603925).
+[LIT-tmpyysa4](../literature.d/LIT-tmpyysa4.md), read in [NOTE-tmp51qsq](../notes.d/NOTE-tmp51qsq.md) (Europe PMC full text, PMC13603925).
 
 ## What was actually shown
 
-Risk markers from eight meta-analyses were mapped onto the dyadic model's levels. "Across the reviewed meta-analyses, the most consistent risk markers of IPV clustered within the relationship-context level, particularly prior partner aggression, emotional abuse, and relationship dissatisfaction." Communication skills and empathy were inversely associated. The authors' stated position: "This relational framing does not imply equivalent agency, mutuality, or shared responsibility; responsibility for a violent or coercive act lies with the person who commits it." This position corroborates CLAIM-tmpp8na7 as an independent statement of the same separation. It is the authors' framing, not an empirical result.
+Risk markers from eight meta-analyses were mapped onto the dyadic model's levels. "Across the reviewed meta-analyses, the most consistent risk markers of IPV clustered within the relationship-context level, particularly prior partner aggression, emotional abuse, and relationship dissatisfaction." Communication skills and empathy were inversely associated. The authors' stated position: "This relational framing does not imply equivalent agency, mutuality, or shared responsibility; responsibility for a violent or coercive act lies with the person who commits it." This position corroborates [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) as an independent statement of the same separation. It is the authors' framing, not an empirical result.
 
 ## What this does not say
 

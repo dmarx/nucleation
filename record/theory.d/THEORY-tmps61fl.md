@@ -20,7 +20,7 @@ source:
 ## Source
 
 The SEP entry "Moral Luck" by Dana K. Nelkin (2004, rev. 2025), skimmed in
-NOTE-tmpmqae9 as the stand-in for Williams's "Moral Luck" (LIT-tmpydurr), which
+[NOTE-tmpmqae9](../notes.d/NOTE-tmpmqae9.md) as the stand-in for Williams's "Moral Luck" ([LIT-tmpydurr](../literature.d/LIT-tmpydurr.md)), which
 was not read.
 
 ## What was actually shown

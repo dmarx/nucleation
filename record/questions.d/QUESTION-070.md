@@ -179,13 +179,13 @@ judge the coercee’s responsibility for acting under coercion can affect
 that strategic situation" (§3.2), whose agency a wrong runs through is
 partly set by the responsibility rule a community adopts, and the
 influencing party adapts to it. The entry concerns individual coercers, not
-organized wholes. Relation: bears_on (on THEORY-tmp856sf).
+organized wholes. Relation: bears_on (on [THEORY-tmp856sf](../theory.d/THEORY-tmp856sf.md)).
 
 ## Note of 2026-11-16: Nagel, read
 
-Nagel (LIT-tmp2dx6l) diagnoses the erosion of responsibility as the
+Nagel ([LIT-tmp2dx6l](../literature.d/LIT-tmp2dx6l.md)) diagnoses the erosion of responsibility as the
 absorption of the agent's acts "into the class of events". The responsible
 self is "swallowed up by the order of mere events". Any answer to whose
 agency a collective's wrong runs through meets the same pressure: the more
 of the wrong is traced to the system's dynamics, the less remains to ascribe
-to any member. Relation: bears_on (on THEORY-tmpp6hib), indirect.
+to any member. Relation: bears_on (on [THEORY-tmpp6hib](../theory.d/THEORY-tmpp6hib.md)), indirect.

@@ -66,19 +66,19 @@ irresponsibility (moral and political); masking of exploitation; democratic allo
 
 ## Bearing on the record
 
-- **CLAIM-tmpyjzi8**: corroborates, from an independent source. Inadequate care conditions are
+- **[CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md)**: corroborates, from an independent source. Inadequate care conditions are
   "resolved by exploiting the commitment of PCWs to the value of care" (result 4), and the
   worker's own satisfaction masks it (result 2). The claim's mechanism, without deception or
   coercion, grounded here in the allocation of care duties.
-- **QUESTION-468**: a candidate standard (Brake's) and a structural source (privileged
-  irresponsibility) for identifying exploitation; TERM-123 could cite the standard.
-- **QUESTION-461**: dependence on workers' emotional labor does not become their authority, because
+- **[QUESTION-468](../questions.d/QUESTION-468.md)**: a candidate standard (Brake's) and a structural source (privileged
+  irresponsibility) for identifying exploitation; [TERM-123](../terms.d/TERM-123.md) could cite the standard.
+- **[QUESTION-461](../questions.d/QUESTION-461.md)**: dependence on workers' emotional labor does not become their authority, because
   identification and satisfaction keep it from becoming a claim.
-- **CLAIM-tmpnfjln**: the upstream half; workers are "the only ones deemed responsible for managing
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: the upstream half; workers are "the only ones deemed responsible for managing
   the challenging consequences of a new technological intervention that produces profit for
   others" (p. 13).
-- **CLAIM-tmp0tg7y**: robots as a response that leaves the allocation in place (result 6).
-- **Tronto** (LIT-tmpw46qz, LIT-tmp4yz7x): the most detailed open exposition reached. It confirms the
+- **[CLAIM-tmp0tg7y](../claims.d/CLAIM-tmp0tg7y.md)**: robots as a response that leaves the allocation in place (result 6).
+- **Tronto** ([LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md), [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md)): the most detailed open exposition reached. It confirms the
   breadwinner example and the moral and political levels as Tronto's, at second hand.
 - **The exchange** (A17 §5) reports the paper accurately; the link to Elish is A's.
 

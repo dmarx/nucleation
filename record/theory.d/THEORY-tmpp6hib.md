@@ -21,8 +21,8 @@ source:
 
 ## Source
 
-LIT-tmp2dx6l, Nagel, "Moral Luck", Mortal Questions (1979), ch. 3. Read in
-full in NOTE-tmpfw0h2 from an anthology reprint (pp. 202–212).
+[LIT-tmp2dx6l](../literature.d/LIT-tmp2dx6l.md), Nagel, "Moral Luck", Mortal Questions (1979), ch. 3. Read in
+full in [NOTE-tmpfw0h2](../notes.d/NOTE-tmpfw0h2.md) from an anthology reprint (pp. 202–212).
 
 ## What was actually shown
 
@@ -38,7 +38,7 @@ He rejects paring action down to the will, and he rejects the compatibilist
 problems arise". His diagnosis: "something in the idea of agency is
 incompatible with actions being events, or people being things".
 
-On QUESTION-070 the bearing is indirect. Nagel's account of how the
+On [QUESTION-070](../questions.d/QUESTION-070.md) the bearing is indirect. Nagel's account of how the
 responsible self is "swallowed up" once its acts are viewed as events is a
 standing difficulty for any answer that locates a wrong in an agent's
 agency.

@@ -62,12 +62,12 @@ punishment; rape myth acceptance; floor effect.
   studies "do not provide an independent test for identifying which party is lying", is borne out by the design.
 - **A design point the authors do not raise:** the pooled No DARVO arm includes a cell in which "no statement from
   Professor Smith was included at" all, so part of the DARVO effect may be the effect of making any statement.
-- **THEORY-327** (Fricker): DARVO's attack on the accuser's credibility is a deliberate manipulation of credibility,
+- **[THEORY-327](../theory.d/THEORY-327.md)** (Fricker): DARVO's attack on the accuser's credibility is a deliberate manipulation of credibility,
   which Fricker distinguishes from testimonial injustice as "a related but distinct wrong"; this study is
   experimental evidence that such manipulation moves third-party credibility judgments.
-- **THEORY-317**: men in the sample rated the victim less believable than women did, the kind of deflated credibility
-  judgement THEORY-317 describes; the study does not show that prejudice is the cause.
-- **CLAIM-tmpp8na7 and CASE-tmpwrhkd**, which the registration named: no bearing; the study is about accusation and
+- **[THEORY-317](../theory.d/THEORY-317.md)**: men in the sample rated the victim less believable than women did, the kind of deflated credibility
+  judgement [THEORY-317](../theory.d/THEORY-317.md) describes; the study does not show that prejudice is the cause.
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md)**, which the registration named: no bearing; the study is about accusation and
   response, not the distribution of control in a relationship.
 
 ## Limitations

@@ -43,6 +43,6 @@ arXiv:2009.12470 (v2, 2021).
 
 ## Standing in the record
 
-Filed 2026-11-16 as a partial stand-in for LIT-tmpdfowr (Kong and Chang 2026), for its exit-and-voice
-strand only. Its affective/effective distinction is close to CLAIM-523's volitional efficacy; the record
-already uses "effective voice" (CLAIM-545, CASE-261). Hirschman's own restatement is LIT-750.
+Filed 2026-11-16 as a partial stand-in for [LIT-tmpdfowr](LIT-tmpdfowr.md) (Kong and Chang 2026), for its exit-and-voice
+strand only. Its affective/effective distinction is close to [CLAIM-523](../claims.d/CLAIM-523.md)'s volitional efficacy; the record
+already uses "effective voice" ([CLAIM-545](../claims.d/CLAIM-545.md), [CASE-261](../cases.d/CASE-261.md)). Hirschman's own restatement is [LIT-750](LIT-750.md).

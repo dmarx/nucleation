@@ -26,18 +26,18 @@ implementations: []
 summary: >-
   Tessman (2015). Moral Failure: On the Impossible Demands of Morality. Oxford
   University Press. DOI 10.1093/acprof:oso/9780199396146.001.0001. Unread (no
-  lawful copy, 2026-11-16). By the author's own summary (LIT-tmpq5p0l, read as
+  lawful copy, 2026-11-16). By the author's own summary ([LIT-tmpq5p0l](LIT-tmpq5p0l.md), read as
   a stand-in), it argues that there can be impossible moral requirements and
   so unavoidable moral failure: non-negotiable requirements stay binding when
   overridden or impossible, we grasp them intuitively, and nonideal theory
   errs in treating the best available action as no failure. The response adds,
   after Karnein, that a requirement can be unfair and still binding. A7 of the
   exchange "Assess Depp Heard Abuse" cites it accurately in substance. Bears
-  on CLAIM-tmpnw7ez, CLAIM-tmpd6uxt.
+  on [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md), [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp3poko — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-<!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
+<!-- inactive-ok-file: CLAIM-tmpnw7ez — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmp5l3yx: Moral Failure: On the Impossible Demands of Morality
 
@@ -49,11 +49,11 @@ Tessman (2015). *Moral Failure: On the Impossible Demands of Morality*. Oxford U
 
 ## Standing in the record
 
-Tessman's FPQ response (LIT-tmpq5p0l) stands in for the book's thesis, not its detailed chapters.
+Tessman's FPQ response ([LIT-tmpq5p0l](LIT-tmpq5p0l.md)) stands in for the book's thesis, not its detailed chapters.
 
 ## Reading of 2026-11-16
 
-Not read; the author's response to critics (LIT-tmpq5p0l, NOTE-tmp58s6l, THEORY-tmp3poko) stands in. It restates the
+Not read; the author's response to critics ([LIT-tmpq5p0l](LIT-tmpq5p0l.md), [NOTE-tmp58s6l](../notes.d/NOTE-tmp58s6l.md), [THEORY-tmp3poko](../theory.d/THEORY-tmp3poko.md)) stands in. It restates the
 book's central thesis (impossible moral requirements; non-negotiable vs negotiable requirements; the
 intuitive grasp of "I must"; the critique of nonideal theory as action-guidance only) and extends it to
 "unfair duties". It does not carry the book's empirical moral-psychology chapters in detail.

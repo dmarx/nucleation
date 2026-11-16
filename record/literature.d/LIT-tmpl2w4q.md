@@ -33,7 +33,7 @@ summary: >-
   argues that America's all-volunteer force has carried that weight for the
   society it serves. The exchange cites it (A13 §4; A15 §5, §10; A26 §III);
   its gloss matches the abstracts, and its extensions beyond the military are
-  its own. Bears on CLAIM-tmpd6uxt, CLAIM-tmpyjzi8, QUESTION-tmpgyn11 as the
+  its own. Bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md) as the
   exchange reports, unverified.
 ---
 <!-- inactive-ok-file: CLAIM-tmpd6uxt CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->

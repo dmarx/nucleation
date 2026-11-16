@@ -23,8 +23,8 @@ corroborates:
 
 ## Source
 
-Elish (2019), LIT-tmp4gcqt, read in full from the open-access version of record; the reading is
-NOTE-tmpikab6.
+Elish (2019), [LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md), read in full from the open-access version of record; the reading is
+[NOTE-tmpikab6](../notes.d/NOTE-tmpikab6.md).
 
 ## What was actually shown
 
@@ -39,7 +39,7 @@ effectively distributed, responsibility has not scaled accordingly" (p. 49), and
 regime leaves the human pilot as "the only possible malfunction, systemically" (p. 50). The
 evidence is headlines, official report wording and commentary.
 
-Corroborates CLAIM-tmpnfjln in its after-failure half only: blame placed where the failure is
+Corroborates [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) in its after-failure half only: blame placed where the failure is
 visible, the system kept faultless.
 
 ## What this does not say
@@ -49,6 +49,6 @@ visible, the system kept faultless.
 - Not why the gaps occur: "The concept of a moral crumple zone is not a way to explain why these
   gaps occur" (p. 50).
 - Nothing about credit for outcomes produced by human compensation, nor about the upstream
-  allocation of obligations; those parts of CLAIM-tmpnfjln are not Elish's.
+  allocation of obligations; those parts of [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) are not Elish's.
 - Not legal liability: the paper is about "cultural perceptions of blame and responsibility,
   particularly in an American context" (p. 52).

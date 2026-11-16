@@ -48,12 +48,12 @@ Contestability; ex-ante against post-hoc contestation; contestability by design;
 
 ## Bearing on the record
 
-- **CLAIM-tmpuiaop**: the second-system safeguard is a designed step at which each automated decision is shown to a human, if flagged, before it takes effect. That is the "exposes" reading as a design pattern. Without such a step, the paper says, a subject's intervention is "necessarily post-hoc". The paper gives no evidence.
-- **CLAIM-tmpwpvbz**: the paper's two routes to contestability before effect are the objection's two architectures. One is ex-ante contestation of design choices (slowly set standing constraints); the other is safeguards and formal constraints enforced on each decision. The paper offers them alongside post-hoc review, not as replacements for it.
-- **TERM-tmp91lqy, CLAIM-tmpkx7ct**: the second-system safeguard is a step whose passage depends on a check another party runs and that delays only when it flags: the term's "friction without delay". The paper does not use the word friction.
-- **CLAIM-523**: "authority and capability to actually change previous decisions" is volitional efficacy and correctability.
-- **QUESTION-tmp9n1ac**: a second system that every decision passes through also yields "a record of all decisions made"; the framework reads onto the record's own checks.
-- **As a stand-in for Harid (LIT-tmp7ftjn)**: it carries the concept of contestability before a decision takes effect. It does not carry Harid's deficit construct, the register shift, or the separation of contestability from friction.
+- **[CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)**: the second-system safeguard is a designed step at which each automated decision is shown to a human, if flagged, before it takes effect. That is the "exposes" reading as a design pattern. Without such a step, the paper says, a subject's intervention is "necessarily post-hoc". The paper gives no evidence.
+- **[CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)**: the paper's two routes to contestability before effect are the objection's two architectures. One is ex-ante contestation of design choices (slowly set standing constraints); the other is safeguards and formal constraints enforced on each decision. The paper offers them alongside post-hoc review, not as replacements for it.
+- **[TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md), [CLAIM-tmpkx7ct](../claims.d/CLAIM-tmpkx7ct.md)**: the second-system safeguard is a step whose passage depends on a check another party runs and that delays only when it flags: the term's "friction without delay". The paper does not use the word friction.
+- **[CLAIM-523](../claims.d/CLAIM-523.md)**: "authority and capability to actually change previous decisions" is volitional efficacy and correctability.
+- **[QUESTION-tmp9n1ac](../questions.d/QUESTION-tmp9n1ac.md)**: a second system that every decision passes through also yields "a record of all decisions made"; the framework reads onto the record's own checks.
+- **As a stand-in for Harid ([LIT-tmp7ftjn](../literature.d/LIT-tmp7ftjn.md))**: it carries the concept of contestability before a decision takes effect. It does not carry Harid's deficit construct, the register shift, or the separation of contestability from friction.
 
 ## Limitations
 

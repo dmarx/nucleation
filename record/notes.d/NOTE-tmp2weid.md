@@ -54,9 +54,9 @@ accommodation); decision support technology; choice architecture.
 
 ## Bearing on the record
 
-- CLAIM-tmpuiaop: item 2 is a case where automation put a gate in front of the human's departure from the
+- [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md): item 2 is a case where automation put a gate in front of the human's departure from the
   machine's verdict, the reverse of removing friction; it measures nothing about points of intervention.
-- CLAIM-404, CLAIM-tmpnfjln: item 5's explanation (the system steers through what it asks to be entered)
+- [CLAIM-404](../claims.d/CLAIM-404.md), [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md): item 5's explanation (the system steers through what it asks to be entered)
   is governance through a procedure's criteria rather than its decisions.
 - The LIT's earlier gloss "without clearly changing enforcement behaviour" was wrong: style changed; the
   mechanism was not perceived discretion.

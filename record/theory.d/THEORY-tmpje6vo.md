@@ -17,7 +17,7 @@ source:
 
 ## Source
 
-Umpleby (2016), LIT-tmpmwjhb, a secondary account read as a stand-in for LIT-tmpor36r and LIT-tmp37qct. The reading is NOTE-tmphkehf.
+Umpleby (2016), [LIT-tmpmwjhb](../literature.d/LIT-tmpmwjhb.md), a secondary account read as a stand-in for [LIT-tmpor36r](../literature.d/LIT-tmpor36r.md) and [LIT-tmp37qct](../literature.d/LIT-tmp37qct.md). The reading is [NOTE-tmphkehf](../notes.d/NOTE-tmphkehf.md).
 
 ## What was actually shown
 

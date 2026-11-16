@@ -21,8 +21,8 @@ corroborates:
 
 ## Source
 
-Stark and Hester (2019), Violence Against Women 25(1): 81-104 (LIT-tmpxwlgx), the stand-in for Stark (2007), LIT-tmp77bag;
-read in NOTE-tmp4yi9s (draft).
+Stark and Hester (2019), Violence Against Women 25(1): 81-104 ([LIT-tmpxwlgx](../literature.d/LIT-tmpxwlgx.md)), the stand-in for Stark (2007), [LIT-tmp77bag](../literature.d/LIT-tmp77bag.md);
+read in [NOTE-tmp4yi9s](../notes.d/NOTE-tmp4yi9s.md) (draft).
 
 ## What was actually shown
 

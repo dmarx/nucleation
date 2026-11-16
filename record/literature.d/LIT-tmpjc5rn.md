@@ -53,7 +53,7 @@ Coates, Dryer, Higgins, Willis (2026). *Measuring Psychologically Abusive Behavi
 
 ## Standing in the record
 
-Registered from the exchange (A5 §2; reading list). Unfetched on 2026-11-16 (HTTP 403 at SAGE). No neighbour restates its result. No relation to CLAIM-tmpp8na7 or CASE-tmpwrhkd is proposed while unread.
+Registered from the exchange (A5 §2; reading list). Unfetched on 2026-11-16 (HTTP 403 at SAGE). No neighbour restates its result. No relation to [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) or [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md) is proposed while unread.
 
 ## Reading of 2026-11-16
 

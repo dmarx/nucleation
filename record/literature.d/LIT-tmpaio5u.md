@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read 2026-11-16 from the open-access full text in Europe PMC (PMC10666508).
-  See NOTE-tmp9acbc and THEORY-tmpajv4l.
+  See [NOTE-tmp9acbc](../notes.d/NOTE-tmp9acbc.md) and [THEORY-tmpajv4l](../theory.d/THEORY-tmpajv4l.md).
 title: 'The Trauma and Mental Health Impacts of Coercive Control: A Systematic Review and Meta-Analysis'
 version: 2
 history:
@@ -51,4 +51,4 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read from the Europe PMC full text. Preregistered review (PROSPERO CRD42021252071); studies that measured coercive control separately from other IPV, CTS-only studies excluded. Pooled r = .32 (PTSD) and .27 (depression) for coercive control; r = .34 and .33 for psychological IPV in the same studies; "It was unexpected that associations of coercive control with PTSD and depression would not be clearly stronger than associations involving other types of IPV", perhaps because "construct overlap remains likely and could explain similar effects". The comparison with physical IPV is with other meta-analyses. Cross-sectional: "a direct causal link between coercive control and mental health could not be established". 76% of studies recruited only women. A5 §1's figures are right; its "sustained control can be profoundly harmful even when physical assaults aren't the central feature" is not something this review tested. Bears on CLAIM-tmpp8na7 and CASE-tmpwrhkd only as background: it treats one act as able to belong to either a situational or a controlling pattern. See NOTE-tmp9acbc.
+Read from the Europe PMC full text. Preregistered review (PROSPERO CRD42021252071); studies that measured coercive control separately from other IPV, CTS-only studies excluded. Pooled r = .32 (PTSD) and .27 (depression) for coercive control; r = .34 and .33 for psychological IPV in the same studies; "It was unexpected that associations of coercive control with PTSD and depression would not be clearly stronger than associations involving other types of IPV", perhaps because "construct overlap remains likely and could explain similar effects". The comparison with physical IPV is with other meta-analyses. Cross-sectional: "a direct causal link between coercive control and mental health could not be established". 76% of studies recruited only women. A5 §1's figures are right; its "sustained control can be profoundly harmful even when physical assaults aren't the central feature" is not something this review tested. Bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md) only as background: it treats one act as able to belong to either a situational or a controlling pattern. See [NOTE-tmp9acbc](../notes.d/NOTE-tmp9acbc.md).

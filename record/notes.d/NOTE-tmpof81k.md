@@ -50,9 +50,9 @@ Runaway feedback loop; discovered against reported incidents; generalized Pólya
 
 ## Bearing on the record
 
-- **CLAIM-277**: corroborates its second clause, that the loop "entrenches whatever gained influence early", in an independent formal model: under equal rates the outcome is fixed by the initial counts (result 4). Under unequal rates the loop turns a slight true difference into total allocation (result 5), which is entrenchment of the leader and not only of the early.
-- **CLAIM-406**: corroborates its form. The deployment decides where incidents can be found, and only being patrolled supplies incidents, as only being sought supplies indicators of competence. The paper says nothing about injustice.
-- **CLAIM-tmpnfjln**: no bearing. The paper does not discuss blame, credit or compensation; the LIT's link to it was A19's analogy.
+- **[CLAIM-277](../claims.d/CLAIM-277.md)**: corroborates its second clause, that the loop "entrenches whatever gained influence early", in an independent formal model: under equal rates the outcome is fixed by the initial counts (result 4). Under unequal rates the loop turns a slight true difference into total allocation (result 5), which is entrenchment of the leader and not only of the early.
+- **[CLAIM-406](../claims.d/CLAIM-406.md)**: corroborates its form. The deployment decides where incidents can be found, and only being patrolled supplies incidents, as only being sought supplies indicators of competence. The paper says nothing about injustice.
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: no bearing. The paper does not discuss blame, credit or compensation; the LIT's link to it was A19's analogy.
 - **The exchange**, A19 §6: its description of the paper is accurate. Its extension, that algorithms "convert effects of institutional treatment into apparent properties of the people being treated", is A's: in this model treatment changes nothing about the people (Assumption 3.3).
 
 ## Limitations

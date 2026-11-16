@@ -40,9 +40,9 @@ summary: >-
   to relational dynamics, motivational asymmetry and escalation. Registered
   from the exchange "Assess Depp Heard Abuse" (A5 §2, §6), whose account
   matches the abstract. Unfetched: the open-access copy at SAGE returned HTTP
-  403. Cunha et al. 2025 (LIT-tmp4xiao) stands in on the operational side.
+  403. Cunha et al. 2025 ([LIT-tmp4xiao](LIT-tmp4xiao.md)) stands in on the operational side.
 ---
-<!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
+<!-- inactive-ok-file: CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmp5jqvq: Defining Bidirectional Violence in Intimate Relationships: A Scoping Review of Conceptual and Operational Challenges
 
@@ -54,8 +54,8 @@ Machado, Sousa, Cunha (2026). *Defining Bidirectional Violence in Intimate Relat
 
 ## Standing in the record
 
-Registered from the exchange (A5 §2, §6; reading list). Unfetched on 2026-11-16 (HTTP 403 at SAGE). Cunha et al. 2025 (LIT-tmp4xiao) stands in for its operational half and corroborates CLAIM-tmpp8na7's premise that act counts do not reveal who controls whom. Its conceptual half, the map of terms and the proposed definition, is not stood in for.
+Registered from the exchange (A5 §2, §6; reading list). Unfetched on 2026-11-16 (HTTP 403 at SAGE). Cunha et al. 2025 ([LIT-tmp4xiao](LIT-tmp4xiao.md)) stands in for its operational half and corroborates [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)'s premise that act counts do not reveal who controls whom. Its conceptual half, the map of terms and the proposed definition, is not stood in for.
 
 ## Reading of 2026-11-16
 
-Not read; abstract only. The CC BY copy at journals.sagepub.com returned HTTP 403; there is no PMC or repository copy. The abstract reports 82 articles and "the lack of consensus in their definitions and usage" of the terms for violence by both partners. It proposes "an integrative, minimal definition of BV, informed by systemic perspectives, which highlights the relevance of relational dynamics, motivational asymmetry, and escalation patterns". This matches A5 §2 and §6. The same group's companion review, Cunha et al. 2025 (LIT-tmp4xiao), was read in its place for the measurement side.
+Not read; abstract only. The CC BY copy at journals.sagepub.com returned HTTP 403; there is no PMC or repository copy. The abstract reports 82 articles and "the lack of consensus in their definitions and usage" of the terms for violence by both partners. It proposes "an integrative, minimal definition of BV, informed by systemic perspectives, which highlights the relevance of relational dynamics, motivational asymmetry, and escalation patterns". This matches A5 §2 and §6. The same group's companion review, Cunha et al. 2025 ([LIT-tmp4xiao](LIT-tmp4xiao.md)), was read in its place for the measurement side.

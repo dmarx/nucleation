@@ -33,7 +33,7 @@ summary: >-
   their moral commitments" and "exploited by being made to shoulder additional
   moral burdens", applied to military recruitment and commercial surrogacy.
   A15 of the exchange "Assess Depp Heard Abuse" reports it the same way. Bears
-  on CLAIM-tmpyjzi8, and would stand in for LIT-tmpl2w4q.
+  on [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), and would stand in for [LIT-tmpl2w4q](LIT-tmpl2w4q.md).
 ---
 <!-- inactive-ok-file: LIT-tmpl2w4q — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->

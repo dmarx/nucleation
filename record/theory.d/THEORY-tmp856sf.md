@@ -23,8 +23,8 @@ bears_on:
 
 ## Source
 
-LIT-tmp6x9lr, Scott Anderson's SEP entry "Coercion" (2006, substantive
-revision 2023), read in NOTE-tmpfqpc0 (Skimmed: §§2.1.3, 2.5, 3.1, 3.2 and most
+[LIT-tmp6x9lr](../literature.d/LIT-tmp6x9lr.md), Scott Anderson's SEP entry "Coercion" (2006, substantive
+revision 2023), read in [NOTE-tmpfqpc0](../notes.d/NOTE-tmpfqpc0.md) (Skimmed: §§2.1.3, 2.5, 3.1, 3.2 and most
 of 3.3 read in full; the history and the threats-and-baselines sections
 skipped).
 
@@ -45,11 +45,11 @@ coercers attempt. It also reports a defence for a target of coercive
 control whose "decisional authority" the coercer "usurped" (Galoob and
 Sheley 2021).
 
-The corroboration of CLAIM-tmpnw7ez is partial and second-hand. The entry
+The corroboration of [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md) is partial and second-hand. The entry
 assesses the coerced party's responsibility on its own terms while treating
 the coercer's structuring of the situation as what changes it. It never
 treats the coerced party's share as subtracted from a fixed total. The
-bearing on QUESTION-070 is the strategic point: whose agency a wrong runs
+bearing on [QUESTION-070](../questions.d/QUESTION-070.md) is the strategic point: whose agency a wrong runs
 through is partly fixed by the standards that assign responsibility, and
 those standards change what the influencing party does.
 

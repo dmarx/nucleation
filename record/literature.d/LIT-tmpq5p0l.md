@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   read 2026-11-16 in full at the journal's open-access site, as a stand-in
-  for Tessman's Moral Failure (LIT-tmp5l3yx, Unavailable)
+  for Tessman's Moral Failure ([LIT-tmp5l3yx](LIT-tmp5l3yx.md), Unavailable)
 title: 'Moral Failure — Response to Critics'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   and adopts Karnein's "unfair duties": a duty to an innocent dependent
   created by a third party's wrongdoing binds though unfair, as in a
   coercive household where one partner is left to care for the child.
-  Read as a stand-in for LIT-tmp5l3yx.
+  Read as a stand-in for [LIT-tmp5l3yx](LIT-tmp5l3yx.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp3poko — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmp5l3yx — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -45,4 +45,4 @@ Moral failure can be unavoidable: non-negotiable requirements survive being over
 
 ## Standing in the record
 
-Stands in for LIT-tmp5l3yx (Moral Failure, Unavailable): it restates the book's thesis, its distinction between negotiable and non-negotiable requirements and its critique of nonideal theory, but not the book's empirical chapters. NOTE-tmp58s6l, THEORY-tmp3poko.
+Stands in for [LIT-tmp5l3yx](LIT-tmp5l3yx.md) (Moral Failure, Unavailable): it restates the book's thesis, its distinction between negotiable and non-negotiable requirements and its critique of nonideal theory, but not the book's empirical chapters. [NOTE-tmp58s6l](../notes.d/NOTE-tmp58s6l.md), [THEORY-tmp3poko](../theory.d/THEORY-tmp3poko.md).

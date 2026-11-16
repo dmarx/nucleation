@@ -75,25 +75,25 @@ accident; problem of many hands; certification boundaries.
 
 ## Bearing on the record
 
-- **CLAIM-tmpnfjln**: corroborates its after-failure half, from a source independent of the
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: corroborates its after-failure half, from a source independent of the
   exchange: blame settles on the operator where the failure is visible, and the system is kept
   faultless (results 2, 3, 7). It adds mechanisms the claim lacks: certification that can only find
   the human at fault, the legal final authority of the operator, media framing. It says nothing of
   the claim's before-failure half or of credit for failures that members' compensation prevented;
   those come from A's joining of Elish with Tronto, and A17 §6's nurse example is A's.
-- **CLAIM-tmpnw7ez**: consistent with it. The operator can be at fault (result 2) while those who
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**: consistent with it. The operator can be at fault (result 2) while those who
   set the conditions drop out of the account.
-- **CLAIM-678**: Elish's framing power (certification, official reports, the press) is close to
+- **[CLAIM-678](../claims.d/CLAIM-678.md)**: Elish's framing power (certification, official reports, the press) is close to
   the claim's epistemic power, though she does not put it that way.
-- **CLAIM-tmpuiaop**: the handoff problem is an intervention point that exists on paper and that
+- **[CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)**: the handoff problem is an intervention point that exists on paper and that
   humans cannot reliably use.
-- Related held readings on the handoff and deskilling mechanism: THEORY-1519, THEORY-1847,
-  CLAIM-675.
+- Related held readings on the handoff and deskilling mechanism: [THEORY-1519](../theory.d/THEORY-1519.md), [THEORY-1847](../theory.d/THEORY-1847.md),
+  [CLAIM-675](../claims.d/CLAIM-675.md).
 - **The exchange** (A15 §5, A17 §§1, 4) reports Elish accurately. It adds "professional" to her
   "moral and legal". The schematic supervisor and the nurse examples are its own.
 
 ## Limitations
 
 Illustrative cases, not a measured pattern; a few headlines and statements per case; written
-before the NTSB final report on the Uber crash (LIT-tmp3lco2), which names the operator's
+before the NTSB final report on the Uber crash ([LIT-tmp3lco2](../literature.d/LIT-tmp3lco2.md)), which names the operator's
 distraction as the probable cause and Uber's safety culture as contributing.

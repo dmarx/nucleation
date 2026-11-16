@@ -35,8 +35,8 @@ summary: >-
   deployer's contestable choices, and frame the subject as the one who must
   change; recourse should be relational. Read 2026-11-16. Cited in the
   exchange 'Assess Depp Heard Abuse' (A19 §7), accurately. It bears on
-  CLAIM-tmpnfjln (the split of control and burden, by another mechanism) and
-  on CLAIM-523 (legibility).
+  [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) (the split of control and burden, by another mechanism) and
+  on [CLAIM-523](../claims.d/CLAIM-523.md) (legibility).
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 

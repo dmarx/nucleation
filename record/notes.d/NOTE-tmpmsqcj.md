@@ -27,7 +27,7 @@ summary: >-
 
 ## Contribution
 
-A philosophical account of "meaningful human control", the principle of the autonomous-weapons debate, built by extending guidance control (THEORY-121) from a single mind to socio-technical systems, and stated as design requirements.
+A philosophical account of "meaningful human control", the principle of the autonomous-weapons debate, built by extending guidance control ([THEORY-121](../theory.d/THEORY-121.md)) from a single mind to socio-technical systems, and stated as design requirements.
 
 ## Key results
 
@@ -51,9 +51,9 @@ Meaningful human control; tracking; tracing; guidance control; ownership conditi
 
 ## Bearing on the record
 
-- **CLAIM-tmpnw7ez**: corroborates its first half from outside the exchange. Tracing carries responsibility from an operator's act to whoever shaped its conditions: the captain as "choice architect", designers with a "second-order responsibility for the first-order responsibility" of the operator. It qualifies the second half: where conditions fail through no fault of the operator, "the pilot may not be responsible", so tracing here moves responsibility more than it adds a second bearer.
-- **CLAIM-tmpnfjln**: supports the limit the claim states (A17 §8), that blame on a frontline party needs that they had meaningful control: attributions not "grounded in the relevant control conditions" may be "not only morally unfair but also difficult to enforce in tribunals", and design must "assess the reasonableness of the normative" expectations on operators (p. 12). Nothing on the credit and blame asymmetry.
-- **THEORY-121**: the account extends guidance control to socio-technical systems.
+- **[CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)**: corroborates its first half from outside the exchange. Tracing carries responsibility from an operator's act to whoever shaped its conditions: the captain as "choice architect", designers with a "second-order responsibility for the first-order responsibility" of the operator. It qualifies the second half: where conditions fail through no fault of the operator, "the pilot may not be responsible", so tracing here moves responsibility more than it adds a second bearer.
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: supports the limit the claim states (A17 §8), that blame on a frontline party needs that they had meaningful control: attributions not "grounded in the relevant control conditions" may be "not only morally unfair but also difficult to enforce in tribunals", and design must "assess the reasonableness of the normative" expectations on operators (p. 12). Nothing on the credit and blame asymmetry.
+- **[THEORY-121](../theory.d/THEORY-121.md)**: the account extends guidance control to socio-technical systems.
 - **The exchange** (A19 §10) states the two conditions fairly. It omits that the account was built for weapons and driving, and that a system can be under meaningful human control while serving bad ends.
 
 ## Limitations

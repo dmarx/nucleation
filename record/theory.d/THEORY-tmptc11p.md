@@ -18,7 +18,7 @@ source:
 
 ## Source
 
-de Boer and Raaphorst (2023), Public Management Review 25(1): 42–62 (LIT-tmp75mb1), read in NOTE-tmp2weid.
+de Boer and Raaphorst (2023), Public Management Review 25(1): 42–62 ([LIT-tmp75mb1](../literature.d/LIT-tmp75mb1.md)), read in [NOTE-tmp2weid](../notes.d/NOTE-tmp2weid.md).
 
 ## What was actually shown
 

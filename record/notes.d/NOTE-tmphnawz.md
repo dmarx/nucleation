@@ -119,7 +119,7 @@ materiality; Registry of material agents; Know Your Agent.
 
 ## Bearing on the record
 
-- **CLAIM-tmpwpvbz**: the paper is where the exchange found this objection's
+- **[CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)**: the paper is where the exchange found this objection's
   architecture: A23 §3 cites it, and A33 and A35 develop it. It specifies
   standing limits set in advance and technically enforced (result 6), fast
   actuators with tested stopping time (results 8 and 9), and revision kept
@@ -130,29 +130,29 @@ materiality; Registry of material agents; Know Your Agent.
   oversight can handle (results 1 and 2) and to keep approval gates for
   consequential actions. Not an independent corroboration; a documentary
   source for the claim's architecture.
-- **TERM-tmp91lqy**: the harness is the term's "friction without delay": the
+- **[TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md)**: the harness is the term's "friction without delay": the
   agent cannot pass a deterministic check or change its limits; the
   institution's change control and independent control owner hold them.
   Result 7 adds a case the term does not separate out: an approval step on
   which the process waits but which is perfunctory. That is friction by
   dependence that opens no real opportunity to intervene. Dependence is
   necessary for an opportunity on the term's reading, not sufficient.
-- **CLAIM-tmpuiaop**: partly supports the "exposes" reading. Velocity limits
+- **[CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)**: partly supports the "exposes" reading. Velocity limits
   deliberately restore delay so that review can keep up, and the
   perfunctory-approval case shows friction can be present while the
   opportunity is not.
-- **CLAIM-tmpkx7ct**: who counts as the "executor" matters. The limits bind
+- **[CLAIM-tmpkx7ct](../claims.d/CLAIM-tmpkx7ct.md)**: who counts as the "executor" matters. The limits bind
   the agent, but the deploying institution sets and enforces them (with an
   independent control owner, and the HKMA's own suspension powers above it).
   If the executor is the institution, this is the defeater's case of a
   limit the executor controls. If it is the agent, the reply holds.
-- **CLAIM-tmpfmmkt**: a regulator's qualitative statement of its point. When
+- **[CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md)**: a regulator's qualitative statement of its point. When
   actions outrun review, the formal approval step stays and its effect does
   not (results 4 and 7). No arithmetic.
-- **QUESTION-tmp9n1ac**: an answer from another domain. Put the stopping
+- **[QUESTION-tmp9n1ac](../questions.d/QUESTION-tmp9n1ac.md)**: an answer from another domain. Put the stopping
   points before consequential actions take effect, and set the rate of
   action by the demonstrated capacity of review (results 2 and 8).
-- **CLAIM-464**: result 10 is its logic in miniature: an irreversible action
+- **[CLAIM-464](../claims.d/CLAIM-464.md)**: result 10 is its logic in miniature: an irreversible action
   removes the correction a failed gate would have allowed.
 
 ## Limitations

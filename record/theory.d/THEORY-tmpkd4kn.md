@@ -19,7 +19,7 @@ source:
 
 ## Source
 
-LIT-tmp8xz2k, read in NOTE-tmpe8t2g (Europe PMC full text, PMC12372680).
+[LIT-tmp8xz2k](../literature.d/LIT-tmp8xz2k.md), read in [NOTE-tmpe8t2g](../notes.d/NOTE-tmpe8t2g.md) (Europe PMC full text, PMC12372680).
 
 ## What was actually shown
 

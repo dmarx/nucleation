@@ -42,8 +42,8 @@ summary: >-
   problematic elements of the work', the 'good bad' job. Unfetched 2026-11-16
   (bot check on the publisher's open-access copy). Cited in the exchange
   'Assess Depp Heard Abuse' (A19 §3), consistently with the abstract. Its link
-  to CLAIM-tmpnfjln is doubtful on the abstract; it bears more on control over
-  the terms of dependence (CLAIM-682, CLAIM-690) and on CLAIM-tmpyjzi8.
+  to [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md) is doubtful on the abstract; it bears more on control over
+  the terms of dependence ([CLAIM-682](../claims.d/CLAIM-682.md), [CLAIM-690](../claims.d/CLAIM-690.md)) and on [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md).
   Unread; the abstract is not a reading.
 ---
 <!-- inactive-ok-file: CLAIM-682 CLAIM-690 CLAIM-tmpyjzi8 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -65,4 +65,4 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 Not read: the open-access copy on journals.sagepub.com sits behind a Cloudflare challenge. The Crossref abstract is consistent with what the exchange says (A19 §3): choice that is frequent and narrow, two opposite tactics that both produce consent, and consent that masks structural problems. A's gloss, that "the experience of choosing is not the same as having control over the structure of choice", is A's. Cameron's earlier "'Making Out' While Driving" (Organization Science 2022), from the same fieldwork, was read in the author's posted manuscript as a neighbour; it finds two workplace games, one aligned with the app and one adversarial, both producing engagement, but it declines to say that games produce consent, and it lacks the ASQ paper's concepts.
 
-Stand-in read on 2026-11-16: LIT-tmptaldv.
+Stand-in read on 2026-11-16: [LIT-tmptaldv](LIT-tmptaldv.md).

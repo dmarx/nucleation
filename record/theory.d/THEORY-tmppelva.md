@@ -19,7 +19,7 @@ source:
 
 ## Source
 
-LIT-tmpxzl3z, read in arXiv 2608.30956v1.
+[LIT-tmpxzl3z](../literature.d/LIT-tmpxzl3z.md), read in arXiv 2608.30956v1.
 
 ## What was actually shown
 

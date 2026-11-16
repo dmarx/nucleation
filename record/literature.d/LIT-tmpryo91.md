@@ -3,8 +3,8 @@ status: Active
 status_note: >-
   Read 2026-11-16 from the publisher's open PDF
   (https://yalelawjournal.org/pdf/01KPH9GD10AG09JES8RP5ZYHE0.pdf), linked from
-  the essay page; body in full, footnotes skimmed. See NOTE-tmpsdyyp and
-  THEORY-tmpbkw8g.
+  the essay page; body in full, footnotes skimmed. See [NOTE-tmpsdyyp](../notes.d/NOTE-tmpsdyyp.md) and
+  [THEORY-tmpbkw8g](../theory.d/THEORY-tmpbkw8g.md).
 title: 'The New Presidential Adjudication'
 version: 2
 history:
@@ -36,8 +36,8 @@ summary: >-
   that discretion against a target to extract concessions unrelated to the
   power's purpose. The response is a judicial "harder look" assembled from
   existing doctrine, with governors and civil society slowing edicts and
-  buying time. Read 2026-11-16 (NOTE-tmpsdyyp, THEORY-tmpbkw8g). It
-  corroborates CLAIM-462 in one polity and bears on CASE-tmproiqs. It does not
+  buying time. Read 2026-11-16 ([NOTE-tmpsdyyp](../notes.d/NOTE-tmpsdyyp.md), [THEORY-tmpbkw8g](../theory.d/THEORY-tmpbkw8g.md)). It
+  corroborates [CLAIM-462](../claims.d/CLAIM-462.md) in one polity and bears on [CASE-tmproiqs](../cases.d/CASE-tmproiqs.md). It does not
   argue about speed: the exchange's temporal reading (A25) is A's own, as A
   says.
 ---
@@ -62,7 +62,7 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 ## Reading of 2026-11-16
 
 Read from the publisher's open PDF, body in full and footnotes skimmed
-(NOTE-tmpsdyyp). The exchange's account of the essay (A25) is accurate:
+([NOTE-tmpsdyyp](../notes.d/NOTE-tmpsdyyp.md)). The exchange's account of the essay (A25) is accurate:
 particularized, consequential presidential decisions with constrained
 independent scrutiny, made possible by stronger control of agencies,
 weakened norms and diminished oversight. The essay's own subject is
@@ -73,8 +73,8 @@ attacks cost "those targeted in the meantime." (p. 647), and civic actors can
 addition, and A marks it as such. The registration line "on the speed and
 reach of presidential decisions" overstated speed.
 
-Standing in the record: corroborates CLAIM-462 (THEORY-tmpbkw8g). For CLAIM-464,
+Standing in the record: corroborates [CLAIM-462](../claims.d/CLAIM-462.md) ([THEORY-tmpbkw8g](../theory.d/THEORY-tmpbkw8g.md)). For [CLAIM-464](../claims.d/CLAIM-464.md),
 it gives the timing condition (harm before remedy), not the mechanism. A
-specimen reading of CASE-tmproiqs: the "harder look" needs "final agency
+specimen reading of [CASE-tmproiqs](../cases.d/CASE-tmproiqs.md): the "harder look" needs "final agency
 action" (p. 645), the threshold the government disputed at Hains Point.
-CASE-tmp4gbo6 is not discussed.
+[CASE-tmp4gbo6](../cases.d/CASE-tmp4gbo6.md) is not discussed.

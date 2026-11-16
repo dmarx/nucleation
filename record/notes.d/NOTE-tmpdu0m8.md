@@ -56,10 +56,10 @@ claims.
 
 - **The exchange** (A5 §4) describes DARVO accurately and gives Freyd's own caveat, that denial and counter-accusation
   do not by themselves establish it. Its point that self-presentation as a victim changes how observers assign
-  responsibility is a hypothesis here and is tested only in Harsey and Freyd (2023), LIT-tmpx37pv.
-- **CLAIM-tmpp8na7** shares the essay's framing of abuse as a matter of power ("A focus on betrayal is thus implicitly
+  responsibility is a hypothesis here and is tested only in Harsey and Freyd (2023), [LIT-tmpx37pv](../literature.d/LIT-tmpx37pv.md).
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)** shares the essay's framing of abuse as a matter of power ("A focus on betrayal is thus implicitly
   a focus on power", p. 28) but takes no evidence from it. No relation.
-- **QUESTION-tmpgyn11**: adaptive blindness is a way dependence on a party shapes what the dependent can know about
+- **[QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md)**: adaptive blindness is a way dependence on a party shapes what the dependent can know about
   that party. The mechanism is attachment, not activated obligation, so it is a neighbour of the question, not an
   answer. No relation.
 - Nothing held in the record concerns DARVO or responses to accountability.

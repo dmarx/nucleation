@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read 2026-11-16 (NOTE-tmpvxobt) in the authors' manuscript in Utrecht
+  Read 2026-11-16 ([NOTE-tmpvxobt](../notes.d/NOTE-tmpvxobt.md)) in the authors' manuscript in Utrecht
   University's
 title: 'From Street-Level to System-Level Bureaucracies: How Information and Communication Technology Is Transforming Administrative Discretion and Constitutional Control'
 version: 2
@@ -43,9 +43,9 @@ Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/shar
 
 ## Reading of 2026-11-16
 
-Read in NOTE-tmpvxobt (manuscript); THEORY-tmpn8tsl states its account. A21 §1's description is accurate; "it
+Read in [NOTE-tmpvxobt](../notes.d/NOTE-tmpvxobt.md) (manuscript); [THEORY-tmpn8tsl](../theory.d/THEORY-tmpn8tsl.md) states its account. A21 §1's description is accurate; "it
 migrates upstream" is A's phrase for §5.2. The paper is the chunk's clearest support for the "exposes"
-reading of CLAIM-tmpuiaop: the ex ante steps that gave others a hold on a decision (a superior's
+reading of [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md): the ex ante steps that gave others a hold on a decision (a superior's
 signature, legal review, a judge per case, §2.2) are what system-level bureaucracy removed, and a human
-enters "Only if the citizen should" object (§4). For CLAIM-tmpfmmkt it says only that case-by-case
+enters "Only if the citizen should" object (§4). For [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md) it says only that case-by-case
 accountability "is no longer feasible in each concrete case" at scale (§7).

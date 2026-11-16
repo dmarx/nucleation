@@ -19,7 +19,7 @@ source:
 ## Source
 
 Parra Jounou and Tronto (2024), the neighbour's new LIT (`source:` to be set to its code); the
-reading is NOTE-tmppwaqb.
+reading is [NOTE-tmppwaqb](../notes.d/NOTE-tmppwaqb.md).
 
 ## What was actually shown
 

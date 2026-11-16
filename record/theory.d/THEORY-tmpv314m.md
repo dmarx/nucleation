@@ -25,7 +25,7 @@ bears_on:
 
 ## Source
 
-Liedo, Van Grunsven and Marin (2024), LIT-tmpd8i3u, read in full; the reading is NOTE-tmpdmjvw.
+Liedo, Van Grunsven and Marin (2024), [LIT-tmpd8i3u](../literature.d/LIT-tmpd8i3u.md), read in full; the reading is [NOTE-tmpdmjvw](../notes.d/NOTE-tmpdmjvw.md).
 
 ## What was actually shown
 
@@ -37,9 +37,9 @@ shoulders of those who are supposed to perform care" (p. 9). In the wee-bot case
 unsatisfactory conditions of performing care are resolved by exploiting the commitment of PCWs to
 the value of care" (p. 11). Empirical support is borrowed, chiefly Wright (2023) on Paro.
 
-Corroborates CLAIM-tmpyjzi8: a party's commitment to care is what lets inadequate conditions be
-covered at that party's cost. Bears on QUESTION-468 (a standard and a source for identifying
-exploitation) and QUESTION-461 (why dependence on care workers does not become their authority).
+Corroborates [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md): a party's commitment to care is what lets inadequate conditions be
+covered at that party's cost. Bears on [QUESTION-468](../questions.d/QUESTION-468.md) (a standard and a source for identifying
+exploitation) and [QUESTION-461](../questions.d/QUESTION-461.md) (why dependence on care workers does not become their authority).
 
 ## What this does not say
 

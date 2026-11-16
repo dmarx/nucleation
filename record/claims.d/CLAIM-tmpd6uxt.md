@@ -50,7 +50,6 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmp3poko THEORY-tmp5b8ou — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-<!-- inactive-ok-file: LIT-tmp55sg8 — Deferred; Keller, registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-235 — Proposed; a reading of manipulation, cited with its standing -->
 
@@ -132,7 +131,7 @@ bears_on is not available, since this is a claim. Note only, no relation.
 
 ## Note of 2026-11-16: Tessman, read
 
-Tessman's response to critics (LIT-tmpq5p0l), read as a stand-in for Moral Failure, gives the claim an
+Tessman's response to critics ([LIT-tmpq5p0l](../literature.d/LIT-tmpq5p0l.md)), read as a stand-in for Moral Failure, gives the claim an
 argument independent of Keller's, from Karnein (2014): another's wrongdoing can leave an agent
 genuinely bound to an innocent third party. In her coercive-household case, A "is wronging B in some
 very serious ways that go beyond simply being unfair", yet "A’s noncompliance functions like luck for
@@ -147,16 +146,16 @@ claim holds where the obligation runs to an innocent third party (Keller's dog, 
 and may fail where the manipulator is also the one owed (Keller's patient who misses his bus on
 purpose). Tessman also says the bound party need not, all things considered, meet the obligation
 (p. 15); she may rightly protect herself at the price of unavoidable failure. Nothing here bears on
-the claim's limit, "no larger than the circumstances support". Relation: corroborates (THEORY-tmp3poko),
+the claim's limit, "no larger than the circumstances support". Relation: corroborates ([THEORY-tmp3poko](../theory.d/THEORY-tmp3poko.md)),
 with the two-party exception recorded.
 
 ## Note of 2026-11-16: Keller, read
 
-The paper the claim attributes the structure to (LIT-tmp55sg8) was read in the author's pre-print.
+The paper the claim attributes the structure to ([LIT-tmp55sg8](../literature.d/LIT-tmp55sg8.md)) was read in the author's pre-print.
 It supports the claim's first two clauses in Keller's words: "you can have a genuine moral obligation
 because you have been treated wrongly" (p. 21), and the victim's complaint, "I see that it is my moral
 obligation to perform this act, but it is morally wrong that I have this moral obligation", is
-"perfectly legitimate" (p. 26). It supports the claim's point against THEORY-235 directly: "It may
+"perfectly legitimate" (p. 26). It supports the claim's point against [THEORY-235](../theory.d/THEORY-235.md) directly: "It may
 even be common knowledge between us that I have deliberately manipulated your circumstances. But for
 all that, my manipulations may succeed" (p. 23). A13's Alice and Bob is Keller's own opening case
 (pp. 1-2), not one "remarkably close" to it.
@@ -167,4 +166,4 @@ them (p. 21); he does not say it works through sound reasoning rather than a def
 covers a victim whose belief is mistaken. Second, the claim's last clause ("no larger than the
 circumstances support, whatever the manipulator claims") is A13's, not Keller's; Keller does not
 discuss limits on the obligation created. The claim's summary attributes the structure to Keller,
-which is right; the limit should not be read as his. Relation: corroborates (THEORY-tmp5b8ou).
+which is right; the limit should not be read as his. Relation: corroborates ([THEORY-tmp5b8ou](../theory.d/THEORY-tmp5b8ou.md)).
