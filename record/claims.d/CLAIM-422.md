@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplrpat
 title: 'A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -30,6 +30,10 @@ history:
     procedure. The body's attribution to GAO is corrected as its note of
     2026-10-22 said, and "What it does not say" no longer calls THEORY-140
     Proposed.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: the National Transportation Safety Board (LIT-tmp3lco2) read on 2026-11-16, NOTE-tmpxhumo. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -180,3 +184,13 @@ A's [CLAIM-587](CLAIM-587.md) (Proposed) adds that a maintained capacity is wort
 ## Note of 2026-11-04: decay with disuse as one mechanism
 
 Tatel's meta-analysis ([THEORY-1424](../theory.d/THEORY-1424.md)) gives a measured mechanism for procedure held without maintained capacity. Procedural skill that goes unused falls by about 0.06 to 0.08 standard deviations a month, and practice in the interval slows the fall. The organizational extension is the proposed [CLAIM-558](CLAIM-558.md). No status changes.
+
+## Note of 2026-11-16: NTSB HAR-19/03, read
+
+Uber ATG had a no-phone policy, a drug-testing policy and inward-facing cameras, but did not
+maintain the capacity that would make them operate. "Although ATG had a drug-testing policy in
+place at the time of the crash, it was sporadically implemented" (p. 27). The company "had the means to retroactively monitor the behavior of vehicle operators and their adherence to
+operational procedures, it rarely did so" (p. 45). Its post-crash changes "begin to address" the
+deficiencies. An instance of a procedure without the maintained capacity, from an independent
+investigation. Relation: the filer's call (an instance; corroborates if the claim takes
+instances).

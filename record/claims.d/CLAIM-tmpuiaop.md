@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-11-16'
@@ -35,6 +35,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: de Boer and Raaphorst (LIT-tmp75mb1) read on 2026-11-16, NOTE-tmp2weid. No change of status or title.
+- version: 10
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Elish (LIT-tmp4gcqt) read on 2026-11-16, NOTE-tmpikab6. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -246,3 +250,10 @@ remove a gate in front of the decision; it put one in front of the human's overr
 self-reported enforcement style and perceived discretion, not points of intervention, so it neither
 supports nor tests the claim. It does show that where a process is automated, which side of the friction
 the human stands on is a design choice. Relation: bears_on (no corroboration).
+
+## Note of 2026-11-16: Elish, read
+
+The handoff problem (p. 50: last-minute takeover "is something humans do not do well") is a
+formal point of intervention that humans cannot reliably use. It bears on what an "opportunity to
+intervene" consists in, beside the friction question: an opportunity that exists on paper is not
+yet effective. Relation: none.

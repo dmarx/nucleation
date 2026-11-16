@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpagkxi
 title: 'A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-07'
@@ -45,6 +45,10 @@ history:
     second; under ADR-085 no relation of this entry now supplies it,
     and it is not dropped here. Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Parra Jounou and Tronto (LIT-tmpwnr47) read on 2026-11-16, NOTE-tmppwaqb. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -231,3 +235,10 @@ which is non-deliberate; and the covert-influence analysis of manipulation
 [QUESTION-070](../questions.d/QUESTION-070.md) asks of an organized whole. Whether this claim's
 counter-normativity needs an intending actor is the boundary; neither
 reading is evidence for or against the claim, so no relation is written.
+
+## Note of 2026-11-16: Tronto interview (2024), read
+
+The same passage is a non-legibility produced by position: privilege that keeps the burdens borne
+by others out of view. The claim's organization reproduces the projections that hide its harm;
+Tronto's privileged hold a "delusion" that moderates "fellow feeling ... into a distant and
+philosophical compassion" (p. 278). Relation: none.

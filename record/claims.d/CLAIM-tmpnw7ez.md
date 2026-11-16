@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it'
-version: 10
+version: 13
 history:
 - version: 2
   date: '2026-11-16'
@@ -39,6 +39,18 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Tessman (LIT-tmpq5p0l) read on 2026-11-16, NOTE-tmp58s6l. No change of status or title.
+- version: 11
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tronto (LIT-tmpxla08) read on 2026-11-16, NOTE-tmpdhajt. No change of status or title.
+- version: 12
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Elish (LIT-tmp4gcqt) read on 2026-11-16, NOTE-tmpikab6. No change of status or title.
+- version: 13
+  date: '2026-11-16'
+  note: >-
+    A dated note added: the National Transportation Safety Board (LIT-tmp3lco2) read on 2026-11-16, NOTE-tmpxhumo. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -259,3 +271,31 @@ to B". The structuring party answers for the predicament, and the structured par
 her conduct within it. In Tessman's case the structured party does no wrong; she bears an unfair duty.
 The claim is about a wrong made likely, so the support is for its structure, not its central case.
 Relation: corroborates (THEORY-tmp3poko).
+
+## Note of 2026-11-16: Tronto (2018), read
+
+An illustration at the scale of states. If every nation is responsible for development everywhere,
+then France "bears no special responsibility for the underdevelopment" of its colonies, and "the
+effect is to excuse the former colonizers for any failures on their part to create just
+institutions" (p. 11). A diffusion of responsibility excuses the party whose conduct set the
+conditions. Relation: none.
+
+## Note of 2026-11-16: Elish, read
+
+Consistent. Elish holds that the operators at Three Mile Island did err (p. 44) while the account
+centred on them "misses other sites of interaction and dimensions of control exercised by other
+actors", "the plant managers who created the conditions within which the operators could act"
+(p. 45). That is the claim's structure: answering for conduct and answering for conditions both
+apply to one outcome. She does not state it as a thesis about two kinds of responsibility.
+Relation: none (bears, cited in the NOTE).
+
+## Note of 2026-11-16: NTSB HAR-19/03, read
+
+An official finding with this claim's structure, in causal terms. The operator's own conduct is
+the probable cause ("a clear example of deliberate engagement in visual distraction", p. 43). The
+party that set her conditions is found to have contributed to that very conduct: ATG's safety
+culture "created conditions—including inadequate oversight of vehicle operators—that contributed
+to the circumstances of the crash and specifically to the vehicle operator’s extended distraction
+during the crash trip" (p. viii). The NTSB speaks of causes, not answerability, so this supports
+the claim's factual premise, not its normative conclusion. Relation: none on the claim. A CASE
+drawn from the report would be a fair specimen, if the owner wants one.

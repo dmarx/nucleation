@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, and because compensation that prevents failure leaves little trace while its lapse is seen, the organization is credited with outcomes its members'' compensating effort produced and those members are blamed for failures its conditions produced'
-version: 5
+version: 11
 history:
 - version: 2
   date: '2026-11-16'
@@ -19,6 +19,30 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Nelkin (LIT-tmpnuy19) read on 2026-11-16, NOTE-tmpmqae9. No change of status or title.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Parra Jounou and Tronto (LIT-tmpwnr47) read on 2026-11-16, NOTE-tmppwaqb. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tronto (LIT-tmpxla08) read on 2026-11-16, NOTE-tmpdhajt. No change of status or title.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Elish (LIT-tmp4gcqt) read on 2026-11-16, NOTE-tmpikab6. No change of status or title.
+- version: 9
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Choroszewicz (LIT-tmpj3pjx) read on 2026-11-16, NOTE-tmpwcnyu. No change of status or title.
+- version: 10
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
+- version: 11
+  date: '2026-11-16'
+  note: >-
+    A dated note added: the National Transportation Safety Board (LIT-tmp3lco2) read on 2026-11-16, NOTE-tmpxhumo. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -191,3 +215,87 @@ justice requires, as appropriate feeling, not differential blameworthiness
 conditions produced. On the entry's distinction, their taking
 responsibility can be fitting while blame from others is not. The entry
 does not discuss organizations. Relation: none.
+
+## Note of 2026-11-16: Tronto interview (2024), read as a stand-in for Moral Boundaries
+
+In her own words, privileged irresponsibility's "danger ... is to cut off one’s reaction to others"
+(p. 279). The Bellamy passage Caring Democracy quotes (2013, p. 44) gives the image: those on top
+of the coach, "Once you climb into it, you pretend that you don’t know all those people pushing the
+carriage" (p. 278). This bears on the claim's invisibility mechanism: those who benefit stop seeing
+those who carry them. It is said of social classes and their indifference, not of organizations
+crediting themselves or blaming their members. Relation: none.
+
+## Note of 2026-11-16: Tronto (2018), read as a stand-in for Tronto's books
+
+The claim's summary cites Tronto's privileged irresponsibility, unread, for how responsibilities
+are distributed before failure. In Tronto's own words (2018, the books being unavailable), the
+concept is "the capability of the relatively privileged to refuse to accept unpleasant or
+burdensome responsibilities" (p. 8). That is a claim about privileged groups in a society. It
+supports the claim's use of Tronto for the upstream half only by extension to organizations, an
+extension the exchange makes (A17 §2: "An executive can say...") and Liedo et al. (LIT-tmpd8i3u)
+make for care institutions. Relation: none.
+
+## Note of 2026-11-16: Elish, read
+
+Elish (LIT-tmp4gcqt), read in full, supports this claim's **after-failure half** from a source
+independent of the exchange. In complex automated systems the operator "may become simply a
+component—accidentally or intentionally—that bears the brunt of the moral and legal
+responsibilities when the overall system malfunctions", and "the moral crumple zone protects the
+integrity of the technological system, at the expense of the nearest human operator" (p. 40). She
+adds mechanisms the claim lacks: certification that leaves the human as "the only possible
+malfunction, systemically" (p. 50), the operator's legal final authority, and media framing in the
+"immediate aftermath of a highly publicized event" (p. 51). She also bounds it: crumple zones "are
+not a property of every complex and automated system" (p. 50).
+
+Elish does **not** support the claim's other parts. She says nothing about upstream control
+placing the obligation to secure outcomes downstream, and nothing about credit for outcomes
+produced by members' compensating effort ("compensation that prevents failure leaves little
+trace"). The nearest she comes is that the automation is credited with saving the human (p. 49).
+The claim's summary presents the pair as Tronto plus Elish. The reading shows that only the blame
+half is Elish's; the mechanism of A17 §6 is A's. A17 §8's own limit, "Not every frontline error
+is systemic", matches Elish: "Without a doubt, actions taken by the plant operators led to the
+accident" (p. 44).
+
+Relation: **corroborates** (after-failure half only; say so in the THEORY).
+
+## Note of 2026-11-16: Choroszewicz, read
+
+Choroszewicz (LIT-tmpj3pjx) corroborates the claim's **allocation clause** from independent
+ethnographic evidence. In three generative-AI tool trials, "human oversight and responsibility as
+liability were explicitly codified as a user burden" (p. 6) for tools users could not shape, which
+"insulates technologies and their developers from accountability" (p. 10). It weakly corroborates
+the claim's **different principles for credit and blame**. Poor outputs "tended to be portrayed as
+the result of poor user interaction rather than issues with the tool's design and development"
+(p. 6), while negative feedback was "frequently dismissed as temporary" (p. 7). It names the
+compensation the claim says goes unseen: users' "invisible work to compensate for the limitations
+of AI tools" (p. 6). It does **not** support the clause about blame where failure becomes visible:
+the study observed trials, and no harm or sanction occurred. A17 §5's "they may be blamed for not
+exercising sufficient professional judgment" is A's projection.
+
+Relation: **corroborates** (allocation and attribution of poor outputs; not post-failure blame).
+
+## Note of 2026-11-16: Liedo, Van Grunsven and Marin, read
+
+Bears on the claim's upstream half only. Institutional privileged irresponsibility leaves workers
+"the only ones deemed responsible for managing the challenging consequences of a new
+technological intervention that produces profit for others" (p. 13). Nothing on blame after
+failure. Relation: none.
+
+## Note of 2026-11-16: NTSB HAR-19/03, read
+
+The case A17 §4 cites, now read (LIT-tmp3lco2). It **qualifies** the claim's blame clause in one
+case. The official investigation did not settle attribution at the point of visibility alone. It
+made the operator's distraction the probable cause, but found that Uber ATG's "inadequate safety
+risk assessment procedures", oversight and missing countermeasures to automation complacency contributed, "all a
+consequence of its inadequate safety culture" (p. vi). It also found that the culture contributed
+"specifically to the vehicle operator’s extended distraction during the crash trip" (p. viii).
+The operator was nonetheless the one "suspended after the crash" (p. 27). The report disclaims any
+assignment of blame ("The NTSB does not assign fault or blame for an accident or incident"), so it
+cannot show how blame was distributed outside the investigation. It also meets the claim's own
+exclusion, blame on a frontline party who "had adequate time, information and resources": the
+NTSB found that attentive, "she would likely have had sufficient time" (p. vii). The case
+therefore neither supports nor defeats the claim. A17's use of it is fair, except that A17 calls
+the operator's distraction contributing when it was the probable cause, and omits the
+pedestrian's impaired crossing.
+
+Relation: none (cite as the case, not as grounds).

@@ -4,12 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpyesgg
 title: 'How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Tognazzini and Coates (LIT-tmpzk7kc) read on 2026-11-16, NOTE-tmp460sz. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
 tags:
 - ethics
 - society-and-governance
@@ -147,3 +151,12 @@ in the conditions of wrongdoing removes its standing to blame (Watson 2015,
 Beade 2019, on the state). That presupposes the institution can be
 complicit, so it answers for the conditions at least to the extent of
 losing standing. Relation: bears_on (on the new THEORY).
+
+## Note of 2026-11-16: Liedo, Van Grunsven and Marin, read
+
+Offers one answer to "which declared standard": Brake's, "Exploitative labor happens when someone
+benefits from the work of someone to the detriment of her interests", with the benefit taken as
+"economic profit, avoidance of the fair share of work, or social credit" (p. 6). It also offers a
+structural source (privileged irresponsibility) and a reason exploitation goes unidentified: it is
+masked by the exploited party's satisfaction (p. 8). TERM-123 could cite Brake's standard as one
+declared standard. Relation: **bears_on**.

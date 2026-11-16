@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpdp56s
 title: 'Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not widen the others'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Elish (LIT-tmp4gcqt) read on 2026-11-16, NOTE-tmpikab6. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Choroszewicz (LIT-tmpj3pjx) read on 2026-11-16, NOTE-tmpwcnyu. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +49,7 @@ summary: >-
   operation. Interpretive. Filed on 2026-11-13 from the items the first
   filing left. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpnfjln — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1859 THEORY-1841 THEORY-1842 CLAIM-687 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # CLAIM-678: Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not widen the others
@@ -98,3 +108,16 @@ warrant: interpretive, by cases, not by a model.
 - Not that a free arrangement must distribute all three equally. A: "A
   genuinely free technological civilization must address all three",
   which is A's programme, not this claim.
+
+## Note of 2026-11-16: Elish, read
+
+Elish locates the attribution of blame in who frames the failure: official reports, certification
+standards and the press. That is close to the claim's epistemic power, and it fits CLAIM-tmpnfjln's
+gloss that blame is "a use of the third" dimension. She does not use the claim's terms.
+Relation: none.
+
+## Note of 2026-11-16: Choroszewicz, read
+
+Users lacked epistemic power over the tools (epistemic, interpretative and operational opacity),
+while operational power lay with innovators, developers and consultants. That is the separation
+the claim describes, though the paper does not use its terms. Relation: none.

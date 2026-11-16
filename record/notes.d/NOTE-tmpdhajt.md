@@ -1,0 +1,73 @@
+---
+status: Read
+paper: LIT-tmpxla08 (the neighbour's new LIT, newlit.md)
+title: 'Tronto (2018) — Higher education for citizens of caring democracies'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Read on 2026-11-16 in full from the journal's open-access PDF
+    (journals.ac.za, SAJHE 32(6): 6-18), references skipped, by a
+    delegated reader whose draft the filer verified. Read as a stand-in
+    for Tronto's Moral Boundaries (LIT-tmpw46qz) and Caring Democracy
+    (LIT-tmp4yz7x), which have no lawful copy.
+date: '2026-11-16'
+summary: >-
+  Tronto defines privileged irresponsibility as the capability of the
+  relatively privileged to refuse unpleasant or burdensome
+  responsibilities, and summarizes Caring Democracy's program in four
+  steps, in an essay urging educational developers to side with caring
+  democracy against the neoliberal university.
+---
+<!-- inactive-ok-file: CLAIM-tmpnfjln CLAIM-tmpnw7ez CLAIM-tmpyjzi8 LIT-tmp4yz7x LIT-tmpw46qz — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# NOTE-tmpdhajt: Tronto (2018) — Higher education for citizens of caring democracies
+
+## Contribution
+
+Tronto's own compact statements of privileged irresponsibility and of Caring Democracy's program,
+applied to higher education.
+
+## Key results
+
+1. p. 8: "a major source of injustice in the world comes from the capability of the relatively
+   privileged to refuse to accept unpleasant or burdensome responsibilities (privileged
+   irresponsibility)".
+2. p. 14, Caring Democracy's steps: "to realign a system of privileges that make it impossible to
+   discuss how some people take on an unfair load of care responsibilities; second, that everyone’s
+   voice must be heard in making these adjustments; third, that democracy is better when caring is
+   organized democratically and that caring is better when it is organized democratically"; and,
+   fourth, that through caring-with "trust and solidarity emerge".
+3. p. 14: framing "all “responsibility” as personal responsibility" is "one of the great
+   roadblocks to the goal of creating a more caring democracy (Tronto 2013)".
+4. p. 11: when responsibility for development is spread over every nation, France "then it bears no
+   special responsibility for the underdevelopment" of its own colonies; "the effect is to excuse
+   the former colonizers for any failures on their part to create just institutions".
+
+## Assumptions
+
+Programmatic and normative; illustrations, not evidence.
+
+## Concepts
+
+Privileged irresponsibility; caring democracy; caring-with; neoliberal personal responsibility.
+
+## Bearing on the record
+
+- **Connections.** A stand-in for LIT-tmpw46qz and LIT-tmp4yz7x. It restates the concept of
+  privileged irresponsibility (result 1) and Caring Democracy's program (result 2). It does not
+  restate either book's argument, Moral Boundaries' account of the moral boundaries, the "passes"
+  or "privilege of not noticing" that the exchange attributes to Tronto, or Caring Democracy's
+  chapters.
+- **CLAIM-tmpnfjln, CLAIM-tmpyjzi8**: both cite Tronto unread. In her words, the concept concerns
+  the privileged refusing burdensome responsibilities; its extension to organizations is the
+  exchange's (and Liedo et al.'s, LIT-tmpd8i3u).
+- **CLAIM-tmpnw7ez**: result 4 is a case of diffused responsibility excusing the party whose rule
+  set the conditions.
+- **The exchange** (A15 §6, A17 §§2, 7): its definition of privileged irresponsibility and its
+  "allocation of responsibilities for care" are consistent with Tronto's own statements.
+
+## Limitations
+
+One sentence on privileged irresponsibility and one paragraph on the book; an essay on higher
+education.

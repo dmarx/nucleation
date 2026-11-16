@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Choroszewicz (LIT-tmpj3pjx) read on 2026-11-16, NOTE-tmpwcnyu. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: the National Transportation Safety Board (LIT-tmp3lco2) read on 2026-11-16, NOTE-tmpxhumo. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -128,3 +137,20 @@ introduce a failure that needs a transition.
   silence apart (genuine acceptance, insufficient activation, failed
   intervention capacity) and says the earlier discussion "risked running
   these together".
+
+## Note of 2026-11-16: Choroszewicz, read
+
+Bears on the loop's first steps. Innovators anticipated saved time ("What should we do with the
+saved time due to these technologies?", p. 7), while the tools generated "additional workload"
+(p. 9), absorbed as users' invisible compensating work (p. 6). The later steps, the compensation
+read as adequacy and resources cut toward it, are not observed. Relation: none.
+
+## Note of 2026-11-16: NTSB HAR-19/03, read
+
+An analogue, not an instance. Vice Chairman Landsberg reads the move from two operators to one as
+a response to apparent success: "But since everything was going so well and the tagging process
+was made easier, ATG decided that a dedicated observer was not needed." The report body gives
+the reason as "an operational decision that allowed the company to increase the number of test
+vehicles" (p. 29). Observed good performance was taken as licence to remove a redundancy. But the
+quiet was the automation's and the routine's, not members' conscientious compensation for a known
+shortfall, which the claim requires. Relation: none.

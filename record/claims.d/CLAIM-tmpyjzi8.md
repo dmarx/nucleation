@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -11,6 +11,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tronto (LIT-tmpxla08) read on 2026-11-16, NOTE-tmpdhajt. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -160,3 +168,27 @@ costs left on the committed party, at the scale of one firm. Keller's agents are
 strategists; he does not say an institution "can come to run on" what it avoids paying, and his
 account is "moral blackmail" (wrongful by definition), not a resource theory. Relation: corroborates
 (partial; THEORY-tmp5b8ou).
+
+## Note of 2026-11-16: Tronto (2018), read as a stand-in
+
+The claim lists Tronto among A15's foundations. This essay states privileged irresponsibility and
+the democratic reallocation of care, but nothing about the exploitation of a party's moral
+commitment. The commitment mechanism, in a care setting, is Liedo et al.'s (LIT-tmpd8i3u, p. 11),
+not Tronto's in anything read. Relation: none.
+
+## Note of 2026-11-16: Liedo, Van Grunsven and Marin, read
+
+Corroborates the claim from an independent source in care ethics (LIT-tmpd8i3u). In the hospital
+case the authors take from Van Wynsberghe, nurses collect toxic urine samples at risk to
+themselves, "a situation where the unsatisfactory conditions of performing care are resolved by
+exploiting the commitment of PCWs to the value of care, resulting in the prioritization of care for
+the patient over their own well-being and safety" (p. 11). The worker's own satisfaction is part of
+the mechanism: "this very identification and satisfaction may function as part of an exploitation
+dynamics" (p. 6), so that it "contributes to them assuming deficient work conditions" (p. 6). This
+is the claim's structure: whoever sets the conditions captures the yield of a commitment and leaves
+its costs with the committed party, without deception or coercion. Where the claim speaks of a
+resource, Liedo et al. speak of a structural allocation (Tronto's privileged irresponsibility).
+They do not argue the claim's last clause, that an institution comes to run on what it avoids
+paying, beyond noting that robots can let employers avoid reallocating duties (p. 13).
+
+Relation: **corroborates**.
