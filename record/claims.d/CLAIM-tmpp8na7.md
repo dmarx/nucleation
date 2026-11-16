@@ -46,7 +46,7 @@ history:
 - version: 12
   date: '2026-11-16'
   note: >-
-    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, the interpersonal form of CLAIM-690. No relation supplies organizational-normativity to it (ADR-085). No other change.
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, the interpersonal form of CLAIM-690. No relation supplies organizational-normativity to it (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-

@@ -1,5 +1,8 @@
 ---
+number: 95
 status: Proposed
+formerly:
+- SYNTHESIS-tmpt2tjp
 version: 1
 title: 'The dependence-and-domination line is two accounts that meet where the controllers of an arrangement are named as those who owe: what wholes and parts owe and claim, and what those who govern an arrangement others depend on owe; the line makes no claim beyond its parts, and its parts relate through one complement'
 defeated_if: >-
@@ -27,7 +30,7 @@ bears_on:
 - QUESTION-464
 summary: >-
   The account of the dependence-and-domination line, "Wholes, parts and
-  dependence", split from organizational-normativity ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)) at
+  dependence", split from organizational-normativity ([ADR-100](../decisions.d/ADR-100.md)) at
   the owner's approval of 2026-11-15, over the accounts of its two parts.
   What wholes and parts owe and claim ([SYNTHESIS-092](SYNTHESIS-092.md)): the owner's
   [QUESTION-460](../questions.d/QUESTION-460.md), ground and bearer kept apart, A's [QUESTION-461](../questions.d/QUESTION-461.md), two
@@ -42,14 +45,14 @@ summary: >-
   the controllers of an arrangement, as those who owe. The account adds
   nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-083 ADR-084 ADR-085 — Proposed; the split and the decisions on accounts and lines it applies -->
+<!-- inactive-ok-file: ADR-100 ADR-083 ADR-084 ADR-085 — Proposed; the split and the decisions on accounts and lines it applies -->
 <!-- inactive-ok-file: SYNTHESIS-092 SYNTHESIS-093 SYNTHESIS-038 — Proposed; the part accounts this account is built over, and organizational-normativity's account -->
 <!-- inactive-ok-file: CLAIM-428 CLAIM-603 CLAIM-624 CLAIM-678 CLAIM-688 CASE-257 CASE-261 CASE-264 ARG-103 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-673 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-686 CLAIM-687 CLAIM-690 TERM-122 TERM-123 TERM-124 CASE-256 ARG-110 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-099 — Rejected; a component of SYNTHESIS-092, with its standing -->
 
-# SYNTHESIS-tmpt2tjp: The dependence-and-domination line is two accounts that meet where the controllers of an arrangement are named as those who owe: what wholes and parts owe and claim, and what those who govern an arrangement others depend on owe; the line makes no claim beyond its parts, and its parts relate through one complement
+# SYNTHESIS-095: The dependence-and-domination line is two accounts that meet where the controllers of an arrangement are named as those who owe: what wholes and parts owe and claim, and what those who govern an arrangement others depend on owe; the line makes no claim beyond its parts, and its parts relate through one complement
 
-*The account of the dependence-and-domination line, "Wholes, parts and dependence", split from organizational-normativity ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)) at the owner's approval of 2026-11-15 ("yes on the two line split"). It is a line account over the accounts of its two parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)), which were filed as parts of organizational-normativity at that line's synthesis review the same day. "Organization" is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default, and the bearer of an obligation is kept apart from its ground; each part account says which sense each component declares, and assigns none where a component declares none.*
+*The account of the dependence-and-domination line, "Wholes, parts and dependence", split from organizational-normativity ([ADR-100](../decisions.d/ADR-100.md)) at the owner's approval of 2026-11-15 ("yes on the two line split"). It is a line account over the accounts of its two parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)), which were filed as parts of organizational-normativity at that line's synthesis review the same day. "Organization" is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default, and the bearer of an obligation is kept apart from its ground; each part account says which sense each component declares, and assigns none where a component declares none.*
 
 ## The parts
 
@@ -111,7 +114,7 @@ account, version 4, storing front-matter relations as `line_parts.py`
 does: 29 within the third part, 2 within the fourth, and one between
 them, [CLAIM-687](../claims.d/CLAIM-687.md)'s complement onto [CLAIM-682](../claims.d/CLAIM-682.md). The fourth part hangs
 together by its source, one exchange, more than by its relations, and is
-a part of this line, not a line of its own ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)).
+a part of this line, not a line of its own ([ADR-100](../decisions.d/ADR-100.md)).
 
 ## Not stated on the record
 

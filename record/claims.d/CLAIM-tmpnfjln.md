@@ -64,7 +64,7 @@ history:
 - version: 13
   date: '2026-11-16'
   note: >-
-    Gains dependence-and-domination second at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): it bears on QUESTION-461, whose first line that is now (ADR-085). Its first line stays organizational-normativity, since it is about where blame for a failure settles. No other change.
+    Gains dependence-and-domination second at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): it bears on QUESTION-461, whose first line that is now (ADR-085). Its first line stays organizational-normativity, since it is about where blame for a failure settles. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-

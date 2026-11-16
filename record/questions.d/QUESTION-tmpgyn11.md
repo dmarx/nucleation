@@ -18,7 +18,7 @@ history:
 - version: 5
   date: '2026-11-16'
   note: >-
-    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about control over the terms of a dependence. No relation supplies organizational-normativity to it (ADR-085). No other change.
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about control over the terms of a dependence. No relation supplies organizational-normativity to it (ADR-085). No other change.
 tags:
 - ethics
 - society-and-governance

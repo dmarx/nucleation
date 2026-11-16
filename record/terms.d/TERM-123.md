@@ -11,7 +11,7 @@ history:
   note: >-
     Moves from organizational-normativity to
     dependence-and-domination, at the split of
-    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    organizational-normativity (ADR-100, 2026-11-15): the entry
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
@@ -37,7 +37,7 @@ summary: >-
   bearer of the remedy. The wording is the assistant's (Claude, in this
   session), after A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: TERM-124 CASE-264 — filed with this term, Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 TERM-083 CLAIM-624 CASE-256 — Proposed; the record's entries that use the word, or that this term relies on, cited with their standing -->
 <!-- inactive-ok-file: LIT-2264 — Deferred; Berenstain, the record's one work on exploitation by name, unread -->

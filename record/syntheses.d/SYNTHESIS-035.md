@@ -26,7 +26,7 @@ history:
 - version: 4
   date: '2026-11-15'
   note: >-
-    At the split of organizational-normativity (ADR-tmpbthzh,
+    At the split of organizational-normativity (ADR-100,
     2026-11-15): CLAIM-686 now have dependence-and-domination as their
     first line, and the account says so where it states their lines.
     No other change.
@@ -73,7 +73,7 @@ summary: >-
   version 1's sixth part, is the line organizational-normativity
   ([ADR-089](../decisions.d/ADR-089.md)), with its own account ([SYNTHESIS-038](SYNTHESIS-038.md)).
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-686 — Proposed; joined SYNTHESIS-041 at the review of 2026-11-15 -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 ARG-059 ARG-062 ARG-064 CLAIM-024 CLAIM-156 CLAIM-169 CLAIM-262 CLAIM-336 CLAIM-358 CLAIM-364 CLAIM-440 CLAIM-441 CLAIM-442 CLAIM-445 CLAIM-446 CLAIM-447 CLAIM-465 CLAIM-484 CLAIM-487 CLAIM-527 CLAIM-541 CLAIM-544 CLAIM-545 CLAIM-553 CLAIM-555 CLAIM-610 CLAIM-614 CLAIM-619 CLAIM-620 CLAIM-624 CLAIM-627 CLAIM-631 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-010 CLAIM-089 — Rejected; components and citations, with their standing -->
@@ -121,7 +121,7 @@ integrated by exactly one part account: the 186 entries carrying the line after 
 2026-11-11, less the six Superseded syntheses. Version 1 had 203, with
 the 23 now in organizational-normativity. [CASE-128](../cases.d/CASE-128.md) and [CASE-129](../cases.d/CASE-129.md) joined the line at the sweep of
 2026-11-11; [CLAIM-555](../claims.d/CLAIM-555.md) left it. Since then [CLAIM-686](../claims.d/CLAIM-686.md) and [QUESTION-454](../questions.d/QUESTION-454.md), then first in
-organizational-normativity ([CLAIM-686](../claims.d/CLAIM-686.md) is first in dependence-and-domination since [ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)), joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15); other
+organizational-normativity ([CLAIM-686](../claims.d/CLAIM-686.md) is first in dependence-and-domination since [ADR-100](../decisions.d/ADR-100.md)), joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15); other
 entries filed on the line after 2026-11-11 are integrated by no part
 account yet, and are for the line's next review. Some are also integrated by other lines' accounts, each part
 account says which.

@@ -30,7 +30,7 @@ history:
 - version: 8
   date: '2026-11-16'
   note: >-
-    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, with the shape of CASE-264. No relation supplies organizational-normativity to it (ADR-085). No other change.
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, with the shape of CASE-264. No relation supplies organizational-normativity to it (ADR-085). No other change.
 standing: fictional
 kind: thought-experiment
 tags:

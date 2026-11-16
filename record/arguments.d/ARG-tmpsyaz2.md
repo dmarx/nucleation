@@ -10,7 +10,7 @@ history:
 - version: 3
   date: '2026-11-16'
   note: >-
-    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-tmpbthzh, #506, merged 2026-11-16): the entry is about the support for CLAIM-tmpp8na7, which moves with it. No relation supplies organizational-normativity to it (ADR-085). No other change.
+    Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about the support for CLAIM-tmpp8na7, which moves with it. No relation supplies organizational-normativity to it (ADR-085). No other change.
 form: existence
 rests_on:
 - CLAIM-tmpnw7ez

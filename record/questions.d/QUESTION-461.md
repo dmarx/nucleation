@@ -11,7 +11,7 @@ history:
   note: >-
     Moves from organizational-normativity to
     dependence-and-domination, at the split of
-    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    organizational-normativity (ADR-100, 2026-11-15): the entry
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
@@ -44,8 +44,7 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
-- version: 999
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: LIT-tmpdkpdp — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-686 CASE-261 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->

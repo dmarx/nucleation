@@ -50,7 +50,7 @@ history:
 - version: 7
   date: '2026-11-15'
   note: >-
-    At the split of organizational-normativity (ADR-tmpbthzh,
+    At the split of organizational-normativity (ADR-100,
     2026-11-15): CLAIM-669, CLAIM-670, CLAIM-671 and CLAIM-673 now
     have dependence-and-domination as their first line, and the
     account says so where it states their lines. No other change. The
@@ -108,7 +108,7 @@ integrates:
 - CLAIM-671
 - CLAIM-673
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-673 CLAIM-675 SYNTHESIS-092 SYNTHESIS-093 — Proposed; components and citations added at version 6, with their standing -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CLAIM-632 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
@@ -239,7 +239,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 - [CLAIM-669](../claims.d/CLAIM-669.md) and [CLAIM-670](../claims.d/CLAIM-670.md), A's; thesis, interpretive, Proposed. [CLAIM-671](../claims.d/CLAIM-671.md),
   the owner's proposition; supposed, interpretive, Proposed. [CLAIM-673](../claims.d/CLAIM-673.md),
   A's; thesis, interpretive, Proposed. All four have
-  dependence-and-domination first (organizational-normativity until [ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)); added at version 6.
+  dependence-and-domination first (organizational-normativity until [ADR-100](../decisions.d/ADR-100.md)); added at version 6.
 
 ## Links the components state, and where
 
@@ -266,7 +266,7 @@ persists". [QUESTION-432](../questions.d/QUESTION-432.md) refines it for aid; [Q
 ## Across to dependence-and-domination
 
 Added at version 6, under organizational-normativity; since its split
-([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)), the line is dependence-and-domination. Four claims of that line
+([ADR-100](../decisions.d/ADR-100.md)), the line is dependence-and-domination. Four claims of that line
 carry transient-support second; that line's part accounts set them out
 in full ([SYNTHESIS-092](SYNTHESIS-092.md), [SYNTHESIS-093](SYNTHESIS-093.md)). Each link here is a
 front-matter relation of the entry named first, unless a body is cited.

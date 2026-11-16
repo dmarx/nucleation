@@ -46,10 +46,10 @@ history:
 - version: 5
   date: '2026-11-15'
   note: >-
-    At the split of organizational-normativity (ADR-tmpbthzh,
+    At the split of organizational-normativity (ADR-100,
     2026-11-15), approved by the owner that day: the third and fourth
     parts, SYNTHESIS-092 and SYNTHESIS-093, became the line
-    dependence-and-domination, whose account is SYNTHESIS-tmpt2tjp.
+    dependence-and-domination, whose account is SYNTHESIS-095.
     This account is rewritten over the two remaining parts,
     SYNTHESIS-091 and SYNTHESIS-094, with CLAIM-363 where they meet,
     and integrates directly the three entries that carry this line
@@ -92,13 +92,13 @@ summary: >-
   the owner's two routes kept apart ([CLAIM-657](../claims.d/CLAIM-657.md)). The parts relate mostly
   through [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md). Since version 5 the line's other
   two parts, what wholes and parts owe and claim and what those who govern
-  an arrangement owe, are the line dependence-and-domination ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)).
+  an arrangement owe, are the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)).
   Three of its entries carry this line second because they refine or bear
   on its root questions, [QUESTION-460](../questions.d/QUESTION-460.md), [QUESTION-468](../questions.d/QUESTION-468.md) and [CLAIM-685](../claims.d/CLAIM-685.md), and this
   account integrates them directly. The account adds nothing of its own;
   its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 SYNTHESIS-tmpt2tjp SYNTHESIS-092 SYNTHESIS-093 — Proposed; the split and its line rule, and the new line's account and part accounts, cited at version 5 -->
+<!-- inactive-ok-file: ADR-100 ADR-085 SYNTHESIS-095 SYNTHESIS-092 SYNTHESIS-093 — Proposed; the split and its line rule, and the new line's account and part accounts, cited at version 5 -->
 <!-- inactive-ok-file: ADR-083 ADR-084 ADR-089 ARG-063 CASE-239 CASE-241 CLAIM-511 CLAIM-608 CLAIM-650 CLAIM-652 — Proposed; decisions, components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-091 SYNTHESIS-094 — Proposed; the part accounts this account is built over -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
@@ -107,7 +107,7 @@ summary: >-
 
 # SYNTHESIS-038: The organizational-normativity line is two accounts that meet at its two root questions, whether an organization's own dynamics give a path to normativity and whether relationally indexed judgments can be objective: what a normative judgment needs, and the wrong beyond harm and becoming normatively less informed; what wholes and parts owe and claim, and what those who govern an arrangement others depend on owe, are the line dependence-and-domination, and meet this one at three entries that refine or bear on its root questions; the line makes no claim beyond its parts
 
-*The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-089](../decisions.d/ADR-089.md)), where it was a part account. Since version 4 (2026-11-15) it is the line's account over the accounts of its parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); versions 1 to 3 mapped what is now the first two parts directly. Version 4 was built over four parts. At version 5 the third and fourth, [SYNTHESIS-092](SYNTHESIS-092.md) and [SYNTHESIS-093](SYNTHESIS-093.md), became the line dependence-and-domination, at the split of this line ([ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md)), and that line's account is [SYNTHESIS-tmpt2tjp](SYNTHESIS-tmpt2tjp.md). "Organization" is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default; each part account says which sense each component declares, and assigns none where a component declares none.*
+*The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-089](../decisions.d/ADR-089.md)), where it was a part account. Since version 4 (2026-11-15) it is the line's account over the accounts of its parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); versions 1 to 3 mapped what is now the first two parts directly. Version 4 was built over four parts. At version 5 the third and fourth, [SYNTHESIS-092](SYNTHESIS-092.md) and [SYNTHESIS-093](SYNTHESIS-093.md), became the line dependence-and-domination, at the split of this line ([ADR-100](../decisions.d/ADR-100.md)), and that line's account is [SYNTHESIS-095](SYNTHESIS-095.md). "Organization" is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default; each part account says which sense each component declares, and assigns none where a component declares none.*
 
 ## The parts
 
@@ -185,7 +185,7 @@ pointed into the first part, all of them `refines` and `bears_on` onto
 onto [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-682](../claims.d/CLAIM-682.md). The second and third parts were mostly
 closed, so by [ADR-083](../decisions.d/ADR-083.md)'s signal the line was a candidate to split. The
 assistant proposed a split in two and the owner approved it on
-2026-11-15 ("yes on the two line split"); [ADR-tmpbthzh](../decisions.d/ADR-tmpbthzh.md) records it. The
+2026-11-15 ("yes on the two line split"); [ADR-100](../decisions.d/ADR-100.md) records it. The
 counts are kept here as that record.
 
 ## Not stated on the record

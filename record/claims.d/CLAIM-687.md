@@ -11,7 +11,7 @@ history:
   note: >-
     Moves from organizational-normativity to
     dependence-and-domination, at the split of
-    organizational-normativity (ADR-tmpbthzh, 2026-11-15): the entry
+    organizational-normativity (ADR-100, 2026-11-15): the entry
     is in the part of the line on what those who govern an arrangement
     others depend on owe. No relation supplies
     organizational-normativity to it (ADR-085). No other change.
@@ -56,7 +56,7 @@ summary: >-
   met. Interpretive. Filed on 2026-11-13 from the items the first filing
   left. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpbthzh ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-682 CLAIM-684 CLAIM-677 CLAIM-683 CLAIM-686 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 TERM-108 — Proposed; the record's nearest entries, cited with their standing -->
 
