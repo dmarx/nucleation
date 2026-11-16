@@ -12,7 +12,7 @@ line:
 - organizational-normativity
 summary: >-
   From the third review of 2026-11-16 (ChatGPT's, forwarded by the owner),
-  built to separate traceability from fair attribution (CLAIM-tmpxeq6j). In
+  built to separate traceability from fair attribution ([CLAIM-tmpxeq6j](../claims.d/CLAIM-tmpxeq6j.md)). In
   both hospitals the system recommends a treatment, a clinician approves it
   and the patient is harmed; both records establish precisely which
   recommendation was issued, which clinician approved it and when, and are
@@ -50,7 +50,7 @@ and the cost of refusing.
 That a complete and accurate record of who approved an outcome does not
 settle whether responsibility for it can fairly be attributed to the
 approver: the records are the same and the grounds for attribution are not
-(CLAIM-tmpxeq6j). Hospital B is the moral crumple zone of CLAIM-tmpnfjln
+([CLAIM-tmpxeq6j](../claims.d/CLAIM-tmpxeq6j.md)). Hospital B is the moral crumple zone of [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)
 with a perfect paper trail.
 
 ## What it cannot show

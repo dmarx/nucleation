@@ -17,7 +17,7 @@ summary: >-
   transferred the burden of action from the person seeking to impose a
   consequence to the person expected to prevent it", and "nonintervention
   may be treated as evidence that the resulting decision was authorized".
-  The curation entry of 2026-11-15 mapped it to CLAIM-549 and CLAIM-553;
+  The curation entry of 2026-11-15 mapped it to [CLAIM-549](../claims.d/CLAIM-549.md) and [CLAIM-553](../claims.d/CLAIM-553.md);
   the third review of 2026-11-16 (ChatGPT's, forwarded by the owner) found
   that no entry isolates the allocation of the burden of authorization by a
   default, and proposed a matched construction. The wording is A's;
@@ -42,16 +42,16 @@ both; the burden of the decisive act has changed sides.
 
 The record holds the parts and not the question:
 
-- CLAIM-549 and CLAIM-553: quiet is not satisfaction, and acceptance,
+- [CLAIM-549](../claims.d/CLAIM-549.md) and [CLAIM-553](../claims.d/CLAIM-553.md): quiet is not satisfaction, and acceptance,
   activation and intervention thresholds differ, so silence may be any of
   several things.
-- CLAIM-523: legibility, volitional efficacy and correctability.
-- CLAIM-tmpfmmkt and CLAIM-tmpffmpr: what happens when cases arrive faster
+- [CLAIM-523](../claims.d/CLAIM-523.md): legibility, volitional efficacy and correctability.
+- [CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md) and [CLAIM-tmpffmpr](../claims.d/CLAIM-tmpffmpr.md): what happens when cases arrive faster
   than review.
-- CLAIM-tmpkx7ct and TERM-tmp91lqy: an approval step and a veto window are
+- [CLAIM-tmpkx7ct](../claims.d/CLAIM-tmpkx7ct.md) and [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md): an approval step and a veto window are
   both gates, with different impedance; a rubber-stamp approval (the HKMA
-  paper, THEORY-tmpeq8z1) is a gate without an opportunity.
-- CLAIM-tmpyjzi8: the reviewer's vigilance as a commitment the institution
+  paper, [THEORY-tmpeq8z1](../theory.d/THEORY-tmpeq8z1.md)) is a gate without an opportunity.
+- [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md): the reviewer's vigilance as a commitment the institution
   relies on.
 
 ## What would count as an answer

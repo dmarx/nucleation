@@ -16,7 +16,7 @@ date: '2026-11-16'
 line:
 - organizational-normativity
 summary: >-
-  The support for CLAIM-tmpxeq6j, whose only ground is a stipulated case:
+  The support for [CLAIM-tmpxeq6j](../claims.d/CLAIM-tmpxeq6j.md), whose only ground is a stipulated case:
   load-bearing, so argued. An existence proof needs the case to be
   coherent and to separate the two things the claim says come apart; both
   questions are answered. Proposed: the case shows separability; it does
@@ -30,7 +30,7 @@ summary: >-
 
 ## The inference
 
-1. In CASE-tmplgw46 the audit trails of Hospitals A and B are identical and
+1. In [CASE-tmplgw46](../cases.d/CASE-tmplgw46.md) the audit trails of Hospitals A and B are identical and
    complete: same recommendation, same approver, same time, same outcome
    (stipulated).
 2. The conditions of the approval differ: in A the clinician could evaluate
@@ -38,7 +38,7 @@ summary: >-
    overriding left little room to do either (stipulated).
 3. Whether an outcome can fairly be attributed to an agent depends at
    least in part on the agent's capacity to evaluate and refuse the act
-   (the control and knowledge conditions of responsibility; CLAIM-tmpnw7ez
+   (the control and knowledge conditions of responsibility; [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)
    for the conditions set by others).
 4. So the grounds for attributing the outcome to the clinician differ
    between A and B, while the traceability is the same.

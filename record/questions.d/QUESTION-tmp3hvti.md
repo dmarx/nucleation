@@ -45,17 +45,17 @@ ground, is not settled by finding a culprit.
 
 The record holds neighbours, not an answer:
 
-- CLAIM-tmpnw7ez: responsibility for an act and for its conditions are
+- [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md): responsibility for an act and for its conditions are
   distinct; it treats both as matters of answering for, not of repair.
-- CLAIM-624: a second-order duty of organizational answerability.
-- CLAIM-671: vulnerability to a responsible agent's discretion grounding
+- [CLAIM-624](../claims.d/CLAIM-624.md): a second-order duty of organizational answerability.
+- [CLAIM-671](../claims.d/CLAIM-671.md): vulnerability to a responsible agent's discretion grounding
   special obligations.
-- CLAIM-tmpnfjln: blame settling where failure is visible, which a
+- [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md): blame settling where failure is visible, which a
   blame-centred accountability encourages.
-- QUESTION-068: whether settling ownership settles accountability.
-- Readings: Young's social connection model (LIT-2246, Deferred), Williams
-  on agent-regret (LIT-tmpydurr, Unfetched; read through Nelkin,
-  THEORY-tmps61fl).
+- [QUESTION-068](QUESTION-068.md): whether settling ownership settles accountability.
+- Readings: Young's social connection model ([LIT-2246](../literature.d/LIT-2246.md), Deferred), Williams
+  on agent-regret ([LIT-tmpydurr](../literature.d/LIT-tmpydurr.md), Unfetched; read through Nelkin,
+  [THEORY-tmps61fl](../theory.d/THEORY-tmps61fl.md)).
 
 ## What would count as an answer
 

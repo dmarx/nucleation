@@ -57,8 +57,8 @@
   [CLAIM-tmp5zzud](record/claims.d/CLAIM-tmp5zzud.md)'s actor "can obtain" its outcome.
 - From a third review of 2026-11-16 (an audit, ChatGPT's, forwarded by the
   owner): A19 §9's claim that traceability does not settle fair attribution
-  (CLAIM-tmpxeq6j), with a separating case of two hospitals
-  (CASE-tmplgw46) and its argument (ARG-tmpf8gmh); and three open
-  questions, on authorization defaults (QUESTION-tmpz5twh), on repair
-  without blame (QUESTION-tmp3hvti) and on an organization's standing to
-  blame (QUESTION-tmppfb7b).
+  ([CLAIM-tmpxeq6j](record/claims.d/CLAIM-tmpxeq6j.md)), with a separating case of two hospitals
+  ([CASE-tmplgw46](record/cases.d/CASE-tmplgw46.md)) and its argument ([ARG-tmpf8gmh](record/arguments.d/ARG-tmpf8gmh.md)); and three open
+  questions, on authorization defaults ([QUESTION-tmpz5twh](record/questions.d/QUESTION-tmpz5twh.md)), on repair
+  without blame ([QUESTION-tmp3hvti](record/questions.d/QUESTION-tmp3hvti.md)) and on an organization's standing to
+  blame ([QUESTION-tmppfb7b](record/questions.d/QUESTION-tmppfb7b.md)).
