@@ -1,3 +1,4 @@
+<!-- inactive-ok-file: CLAIM-tmpffmpr CLAIM-tmp5zzud CLAIM-tmpkx7ct TERM-tmp91lqy — the assistant's, filed 2026-11-16, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpuiaop CLAIM-tmpwpvbz CLAIM-tmpp8na7 CLAIM-tmpnw7ez CLAIM-tmpd6uxt CLAIM-tmpyjzi8 CLAIM-tmpnfjln CLAIM-tmp0tg7y CLAIM-tmpfmmkt CASE-tmpwrhkd ARG-tmpsyaz2 — filed in this contribution, Proposed -->
 ### Added
 
@@ -29,3 +30,9 @@
   - forty-seven works registered unread (Deferred), among them Johnson,
     Stark, Keller, Robillard and Strawser, Elish, Tronto, Rubel et al.,
     Citron and Cuéllar.
+- The assistant's step-12 ideas from the same filing, accepted by the owner
+  on 2026-11-16, Proposed: review order under overload decides whose
+  challenges stay preventive (CLAIM-tmpffmpr); a fait accompli as moral
+  blackmail of a reviewing institution (CLAIM-tmp5zzud); procedural
+  friction defined by dependence rather than delay (TERM-tmp91lqy), with a
+  reply to A's objection to the owner's friction claim (CLAIM-tmpkx7ct).
