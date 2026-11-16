@@ -17,7 +17,7 @@ bears_on:
 - QUESTION-068
 ---
 <!-- inactive-ok-file: QUESTION-068 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmp4z0a7: Zeiser argues that AI decision support threatens responsibility chiefly as attributability rather than accountability
+# THEORY-tmp4z0a7: Zeiser argues that AI decision support threatens responsibility chiefly as attributability rather than accountability: a decision a human makes with a tool that presupposes outcome-shaping values she has not endorsed does not express her value-judgements, an attributability gap that comes in degrees and that descriptive tools open as well as prescriptive ones
 
 ## Source
 

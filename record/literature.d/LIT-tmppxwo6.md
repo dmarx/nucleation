@@ -31,6 +31,7 @@ summary: >-
   without a stated account of flourishing almost any trait could count.
   Read as a stand-in for LIT-tmpovdz8.
 ---
+<!-- inactive-ok-file: THEORY-tmptlu7a — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmpovdz8 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmppxwo6: Review of Lisa Tessman, Burdened Virtues: Virtue Ethics for Liberatory Struggles
 
@@ -42,4 +43,4 @@ Tessman's burdened virtues are traits that enable survival of or resistance to o
 
 ## Standing in the record
 
-Stands in for LIT-tmpovdz8 (Tessman 2005), Unavailable: it restates the book's central definition and taxonomy with Tessman's words and pages, and not its chapters on the vices of the privileged or on loyalty. NOTE-xxx, THEORY-xxx.
+Stands in for LIT-tmpovdz8 (Tessman 2005), Unavailable: it restates the book's central definition and taxonomy with Tessman's words and pages, and not its chapters on the vices of the privileged or on loyalty. NOTE-tmp8mutd, THEORY-tmptlu7a.

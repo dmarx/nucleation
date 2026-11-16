@@ -19,7 +19,7 @@ corroborates:
 - CLAIM-462
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmpn8tsl: Bovens and Zouridis find that ICT moves administrative discretion from case handlers to system designers
+# THEORY-tmpn8tsl: Bovens and Zouridis find, in two Dutch executive agencies, that ICT turned street-level bureaucracies into system-level ones in which routine cases are decided without human interference and administrative discretion passes from case handlers to the system designers who translate law into algorithms, perfecting legality while raising the problems of controlling the designers and of rigidity in hard cases
 
 ## Source
 

@@ -13,7 +13,7 @@ source:
 - LIT-tmppku2r
 ---
 <!-- inactive-ok-file: CLAIM-tmpuiaop LIT-tmp1o7dq — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmpzrp4c: Herd and Moynihan find fewer burdens but greater inequality in the US safety net
+# THEORY-tmpzrp4c: Herd and Moynihan find that over the thirty years after welfare reform administrative burden fell on average in the large US means-tested programs, with rising take-up, while inequality in who bears it grew through federalism, delivery through the tax system and privatization
 
 ## Source
 

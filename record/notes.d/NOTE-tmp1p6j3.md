@@ -19,7 +19,7 @@ summary: >-
   to supply it.
 ---
 <!-- inactive-ok-file: CLAIM-613 CLAIM-tmpuiaop CLAIM-tmpwpvbz LIT-tmpdfowr TERM-tmp91lqy — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# NOTE-tmp1p6j3: Frey and Schneider (2020) — Effective Voice
+# NOTE-tmp1p6j3: Frey and Schneider (2020) — Effective Voice: Beyond Exit and Affect in Online Communities
 
 ## Contribution
 

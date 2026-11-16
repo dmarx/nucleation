@@ -18,7 +18,7 @@ bounds:
 - CLAIM-tmpnfjln
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmphieqr: Ozer, Waggoner and Kennedy find that following an algorithm does not shield a judge from public blame
+# THEORY-tmphieqr: Ozer, Waggoner and Kennedy find, in pre-registered vignette experiments on three US samples, that a judge whose release decision ends in a death is blamed no less for having followed an algorithm's advice and not uniquely more for rejecting it; advice slightly raises blame, and the rise for following an algorithm is mostly mediated by the view that the judge abdicated her own judgment
 
 ## Source
 

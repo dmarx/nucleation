@@ -33,6 +33,7 @@ summary: >-
   coercive household where one partner is left to care for the child.
   Read as a stand-in for LIT-tmp5l3yx.
 ---
+<!-- inactive-ok-file: THEORY-tmp3poko — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmp5l3yx — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmpq5p0l: Moral Failure — Response to Critics
 
@@ -44,4 +45,4 @@ Moral failure can be unavoidable: non-negotiable requirements survive being over
 
 ## Standing in the record
 
-Stands in for LIT-tmp5l3yx (Moral Failure, Unavailable): it restates the book's thesis, its distinction between negotiable and non-negotiable requirements and its critique of nonideal theory, but not the book's empirical chapters. NOTE-xxx, THEORY-xxx.
+Stands in for LIT-tmp5l3yx (Moral Failure, Unavailable): it restates the book's thesis, its distinction between negotiable and non-negotiable requirements and its critique of nonideal theory, but not the book's empirical chapters. NOTE-tmp58s6l, THEORY-tmp3poko.

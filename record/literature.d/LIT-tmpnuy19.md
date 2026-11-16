@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-16 (NOTE-xxx) from the plato.stanford.edu HTML,
+  skimmed 2026-11-16 (NOTE-tmpmqae9) from the plato.stanford.edu HTML,
   substantive revision of 20 Jan 2025; filed and read as the stand-in for
   Williams, "Moral Luck" (LIT-tmpydurr, Unfetched). It reports Williams's
   agent-regret with a quotation of the lorry-driver passage (1976

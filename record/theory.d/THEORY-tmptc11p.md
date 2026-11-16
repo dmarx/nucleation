@@ -14,7 +14,7 @@ source:
 - LIT-tmp75mb1
 ---
 
-# THEORY-tmptc11p: de Boer and Raaphorst find that automation shifts inspectors' enforcement style without operating through perceived discretion
+# THEORY-tmptc11p: de Boer and Raaphorst find, in a survey of 549 Dutch food-safety inspectors, that working with a partially automated verdict system is associated with a more legal and more accommodative self-reported enforcement style and, weakly, with lower perceived discretion, and that perceived discretion does not mediate the association
 
 ## Source
 

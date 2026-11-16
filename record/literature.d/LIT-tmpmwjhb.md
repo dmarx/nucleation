@@ -32,6 +32,7 @@ summary: >-
   second (dominant in the USSR, where the confronter is), with anecdotal
   support. Read as a thin stand-in for LIT-tmpor36r and LIT-tmp37qct.
 ---
+<!-- inactive-ok-file: THEORY-tmpje6vo — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmp37qct LIT-tmpor36r — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # LIT-tmpmwjhb: Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition
 
@@ -43,4 +44,4 @@ Two ethical systems from one formal model; first (West): the end does not justif
 
 ## Standing in the record
 
-Stands in thinly for LIT-tmpor36r and LIT-tmp37qct: it restates the existence of the two systems, their formal origin in a combination rule and their cultural association, and nothing of the model. NOTE-xxx, THEORY-xxx.
+Stands in thinly for LIT-tmpor36r and LIT-tmp37qct: it restates the existence of the two systems, their formal origin in a combination rule and their cultural association, and nothing of the model. NOTE-tmphkehf, THEORY-tmpje6vo.

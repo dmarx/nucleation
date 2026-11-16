@@ -19,7 +19,7 @@ corroborates:
 - CLAIM-tmpnw7ez
 ---
 <!-- inactive-ok-file: CLAIM-tmpnw7ez — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmpo4zca: Santoni de Sio and van den Hoven argue that meaningful human control needs tracking and tracing
+# THEORY-tmpo4zca: Santoni de Sio and van den Hoven argue that an autonomous system is under meaningful human control only if it tracks the relevant moral reasons of the humans who design and deploy it, together with the relevant facts, and its behaviour traces to at least one human who understands its capabilities and that its effects will be attributed to them; presence in the loop is not sufficient, and such control is necessary but not sufficient for the system to act well
 
 ## Source
 

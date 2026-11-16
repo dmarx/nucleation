@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-16 (NOTE-xxx) from the plato.stanford.edu HTML, substantive
+  read 2026-11-16 (NOTE-tmp460sz) from the plato.stanford.edu HTML, substantive
   revision of 30 Aug 2024; filed and read as the stand-in for Scanlon,
   Moral Dimensions (LIT-tmpnt5fk, Unavailable), and as a second neighbour,
   beside LIT-691, for Strawson, "Freedom and Resentment" (LIT-tmpbw6vo,

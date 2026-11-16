@@ -16,7 +16,7 @@ corroborates:
 - CLAIM-523
 ---
 <!-- inactive-ok-file: LIT-tmpdfowr — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmp7zlwf: Frey and Schneider argue that platforms offer exit and affective voice but little effective voice
+# THEORY-tmp7zlwf: Frey and Schneider argue that Hirschman's voice divides into affective voice, which seeks to persuade those in power, and effective voice, which binds through transparent processes, and that online platforms make exit and affective voice cheap while effective voice is nearly absent under consolidated control
 
 ## Source
 

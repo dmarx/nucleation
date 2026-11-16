@@ -20,7 +20,7 @@ bears_on:
 - QUESTION-070
 ---
 <!-- inactive-ok-file: CLAIM-624 LIT-tmp16tpz — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmpuga36: Rubel, Castro and Pham argue that agency laundering is a distinct wrong of accountability
+# THEORY-tmpuga36: Rubel, Castro and Pham argue that agency laundering is a distinct wrong of accountability: an agent responsible for a domain makes a process, person or technology partly causally responsible for outcomes in it, ascribes it morally relevant qualities, and so obscures its own causal role and forestalls others' demands for an account, a wrong possible while the agent meets its substantive role responsibilities and one that ordinary algorithm use need not commit
 
 ## Source
 

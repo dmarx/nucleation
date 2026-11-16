@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-16 (NOTE-xxx) from a copy of the published article
+  read in full 2026-11-16 (NOTE-tmp938r4) from a copy of the published article
   on an MIT moral-psychology reading-group page
   (https://www.mit.edu/~shaslang/mprg/ASmithAAA.pdf). Filed as a
   neighbour for Watson, "Two Faces of Responsibility" (LIT-tmpz3y0q,

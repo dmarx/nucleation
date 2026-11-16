@@ -45,6 +45,7 @@ summary: >-
   distinguished from the responsibility gap, bias laundering and masking.
   Unfetched; the 2021 book chapter LIT-tmpjp4qh, read, stands in for it.
 ---
+<!-- inactive-ok-file: THEORY-tmpuga36 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnfjln — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -68,7 +69,7 @@ CLAIM-tmpnfjln.
 Not read. Only the abstract was reached. It states the same account as
 the 2021 chapter, LIT-tmpjp4qh, in the same words, with the same four cases
 and the same three foils; the chapter, read in full, carries the record's
-reading (NOTE-xxx, THEORY-xxx of that LIT). How far the texts differ beyond
+reading (NOTE-tmpw5xe2, THEORY-tmpuga36 of that LIT). How far the texts differ beyond
 the abstract is unknown: the chapter is adapted to the book, with
 cross-references to earlier chapters and sections on humans in the loop and
 on the charge of mere metaphor that may or may not be in the article.

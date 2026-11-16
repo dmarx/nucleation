@@ -35,6 +35,7 @@ summary: >-
   exchange "Assess Depp Heard Abuse" cites it accurately in substance. Bears
   on CLAIM-tmpnw7ez, CLAIM-tmpd6uxt.
 ---
+<!-- inactive-ok-file: THEORY-tmp3poko — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -52,7 +53,7 @@ Tessman's FPQ response (LIT-tmpq5p0l) stands in for the book's thesis, not its d
 
 ## Reading of 2026-11-16
 
-Not read; the author's response to critics (LIT-tmpq5p0l, NOTE-xxx, THEORY-xxx) stands in. It restates the
+Not read; the author's response to critics (LIT-tmpq5p0l, NOTE-tmp58s6l, THEORY-tmp3poko) stands in. It restates the
 book's central thesis (impossible moral requirements; non-negotiable vs negotiable requirements; the
 intuitive grasp of "I must"; the critique of nonideal theory as action-guidance only) and extends it to
 "unfair duties". It does not carry the book's empirical moral-psychology chapters in detail.

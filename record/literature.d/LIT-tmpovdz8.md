@@ -36,6 +36,7 @@ summary: >-
   cites it fairly in outline; its step to oppression making people "more
   likely to wrong others" is A's.
 ---
+<!-- inactive-ok-file: THEORY-tmptlu7a — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez CLAIM-tmpp8na7 — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmpovdz8: Burdened Virtues: Virtue Ethics for Liberatory Struggles
@@ -52,7 +53,7 @@ Bell's review (LIT-tmppxwo6) stands in for the book's central account only.
 
 ## Reading of 2026-11-16
 
-Not read; Bell's NDPR review (LIT-tmppxwo6, NOTE-xxx, THEORY-xxx) stands in. It carries the book's
+Not read; Bell's NDPR review (LIT-tmppxwo6, NOTE-tmp8mutd, THEORY-tmptlu7a) stands in. It carries the book's
 definition of burdened virtues (p. 95), the V1-V4 taxonomy (pp. 162-166) and the anger chapter, in
 Tessman's words; it does not carry the chapters on the vices of the privileged or on loyalty. No
 bearing on CLAIM-tmpnw7ez or CLAIM-tmpp8na7 was found.

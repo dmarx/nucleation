@@ -17,7 +17,7 @@ corroborates:
 - CLAIM-tmpuiaop
 ---
 <!-- inactive-ok-file: CLAIM-tmpfmmkt CLAIM-tmpuiaop — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-tmpus53c: Citron argues that automated administrative decision systems merge adjudication and rulemaking while observing the procedures of neither
+# THEORY-tmpus53c: Citron argues that automated administrative decision systems merge adjudication and rulemaking while observing the procedures of neither: programmers make unreviewed rules when they translate policy into code, and opacity, missing notice and audit trails and automation bias in human reviewers leave individuals without a meaningful hearing, which she proposes to restore by technological due process
 
 ## Source
 
