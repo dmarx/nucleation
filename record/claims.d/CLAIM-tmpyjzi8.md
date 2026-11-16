@@ -1,12 +1,16 @@
 ---
 status: Proposed
 title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Nelkin (LIT-tmpnuy19) read on 2026-11-16, NOTE-tmpmqae9. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +56,7 @@ summary: >-
   its own interpretation, not an established theory. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp5b8ou — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmpl2w4q LIT-tmpd09c2 LIT-tmp55sg8 LIT-tmpw46qz — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->
@@ -142,3 +147,16 @@ fitting, even admirable. The claim's point is that whoever controls the
 triggering circumstances can capture what such a disposition yields. The
 entry does not discuss exploitation. Relation: none. The reading names the
 virtue whose exploitation the claim describes.
+
+## Note of 2026-11-16: Keller, read
+
+Keller supplies one of the claim's named foundations. His third-party case (p. 24) is an employer who
+cuts the time lawyers may spend per client, expecting them to work longer out of obligation to their
+clients: "I can increase your workload without having to increase your pay and without losing clients
+for the firm." His conclusion names the unpaid cost: those in caring roles may reasonably "expect
+greater pay or improved conditions, as compensation for the moral burden that comes with her role"
+(p. 26). This supports the claim's mechanism, capture of what a commitment's fulfilment yields with its
+costs left on the committed party, at the scale of one firm. Keller's agents are deliberate
+strategists; he does not say an institution "can come to run on" what it avoids paying, and his
+account is "moral blackmail" (wrongful by definition), not a resource theory. Relation: corroborates
+(partial; THEORY-tmp5b8ou).

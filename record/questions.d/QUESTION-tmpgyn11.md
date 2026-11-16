@@ -1,12 +1,20 @@
 ---
 status: Open
 title: 'Can a party''s ability to activate another''s genuine moral obligations constitute control over the terms of that other''s dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone''s conscientiousness?'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Freyd (LIT-tmpc4sfp) read on 2026-11-16, NOTE-tmpdu0m8. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tessman (LIT-tmpq5p0l) read on 2026-11-16, NOTE-tmp58s6l. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
 tags:
 - ethics
 - society-and-governance
@@ -27,6 +35,7 @@ summary: >-
   her patients is A30's example. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp5b8ou — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: ADR-093 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-tmpd6uxt CLAIM-tmpyjzi8 CASE-264 — Proposed; the dependence claims and this exchange's normative-manipulation claims, cited with their standing -->
 
@@ -78,3 +87,21 @@ know: "When the betrayer is someone we are dependent upon, the very mechanisms t
 problem" (p. 27). It is a neighbour of the question's concern with control over the terms of dependence, through
 attachment rather than activated obligation, and leaves the question open. Relation: none (a note only; if the filer
 writes it as evidence on the question, ADR-093 asks for bears_on from the THEORY).
+
+## Note of 2026-11-16: Tessman, read
+
+In Tessman's case (p. 14), A isolates B, cuts her off from support and undermines "her chances of
+earning a living that would enable her to leave A". Her obligation to their child persists through
+all of it. That is a case in which the moral cost of withdrawal and material control over exit work
+together. Tessman does not ask whether A's ability to activate the obligation is itself control; the
+question stays open. Relation: bears_on.
+
+## Note of 2026-11-16: Keller, read
+
+Keller's teachers case (p. 24) is a candidate instance: an official times changes to teachers'
+conditions for "the weeks before students take their final exams and graduate", so that the right to
+strike, though intact, carries a moral cost, and "It really is more difficult to go on strike if you
+are a nurse or a teacher than if you are a policy analyst or a software developer" (p. 25). That is
+the question's "moral cost of withdrawal" doing the work of a barrier. Keller's only line between this
+and ordinary reliance on conscientiousness is that the act is wrongful, which he does not analyse, so
+the question's second half stays open. Relation: bears_on (THEORY-tmp5b8ou).

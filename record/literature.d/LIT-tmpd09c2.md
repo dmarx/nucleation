@@ -1,14 +1,19 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A15 §10. No lawful copy has been sought yet.
+  a lawful open copy is located: the full-text PDF in UConn's institutional
+  repository,
 title: 'On the Moral Dimensions of Vulnerability and Exploitation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2016-10-18 (date of completion (UConn Digital Commons)).
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Status Deferred → Unfetched under ADR-053: the open PDF at UConn's
 tags:
 - ethics
 - society-and-governance
@@ -19,8 +24,18 @@ first_author: 'Robillard'
 keywords: []
 implementations: []
 summary: >-
-  Robillard (2016). On the Moral Dimensions of Vulnerability and Exploitation. University of Connecticut (PhD dissertation, Philosophy). https://digitalcommons.lib.uconn.edu/dissertations/1244/. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A15 §10) on normative manipulation and moral exploitation: Exploitation defined too narrowly; moral vulnerability and moral exploitation (recruits, surrogates). It bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md). What the exchange says of it is unverified until read.
+  Robillard (2016). On the Moral Dimensions of Vulnerability and Exploitation.
+  University of Connecticut (PhD dissertation, Philosophy).
+  https://digitalcommons.lib.uconn.edu/dissertations/1244/. Unread: the open
+  PDF is behind a Cloudflare challenge (2026-11-16). By its abstract, it
+  argues that accounts of exploitation define vulnerability and benefit too
+  narrowly: agents "may be rendered equally vulnerable merely in virtue of
+  their moral commitments" and "exploited by being made to shoulder additional
+  moral burdens", applied to military recruitment and commercial surrogacy.
+  A15 of the exchange "Assess Depp Heard Abuse" reports it the same way. Bears
+  on CLAIM-tmpyjzi8, and would stand in for LIT-tmpl2w4q.
 ---
+<!-- inactive-ok-file: LIT-tmpl2w4q — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-tmpd6uxt CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->
 
 # LIT-tmpd09c2: On the Moral Dimensions of Vulnerability and Exploitation
@@ -29,8 +44,14 @@ Robillard (2016). *On the Moral Dimensions of Vulnerability and Exploitation*. U
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* Exploitation defined too narrowly; moral vulnerability and moral exploitation (recruits, surrogates). Unverified until read.
+*Not read; see the reading of 2026-11-16 below.*
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A15 §10, on normative manipulation and moral exploitation. It bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md). Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A15 §10, on normative manipulation and moral exploitation. It bears on [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md), [QUESTION-tmpgyn11](../questions.d/QUESTION-tmpgyn11.md). Read on 2026-11-16; see the reading below.
+
+## Reading of 2026-11-16
+
+Not read; located and stopped as in status_note. The abstract agrees with A15's two sentences on the
+thesis. A copy the owner supplies, or allowing the two hosts, returns it to reading; it is the best
+available stand-in for Robillard and Strawser's book.

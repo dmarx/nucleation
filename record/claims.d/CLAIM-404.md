@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 9
+version: 11
 history:
 - version: 2
   date: '2026-10-21'
@@ -68,6 +68,14 @@ history:
     argument (U6), and A's normative manipulation (CLAIM-tmpd6uxt) is a
     route this claim's two do not cover. Title, defeater and status
     unchanged.
+- version: 10
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Umpleby (LIT-tmpmwjhb) read on 2026-11-16, NOTE-tmphkehf. No change of status or title.
+- version: 11
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -491,3 +499,20 @@ would be governing it through the circumstances its procedures face, as a
 fait accompli does for a court ([CLAIM-464](CLAIM-464.md)). The claim is
 unchanged; whether "circumstances" is a third route or a case of "evidence"
 is left open here.
+
+## Note of 2026-11-16: Umpleby on Lefebvre, read
+
+The claim's dated note records A11's link from reflexive control to Lefebvre's model of ethical
+cognition. Umpleby's account, read as a stand-in for Lefebvre's unread works, confirms that the model
+belongs to the reflexive-control tradition: a 2000 Moscow meeting "on Reflexive Control to honor
+Vladimir Lefebvre" (p. 67). It describes two culturally typed ethical systems and nothing about
+governing an organization. A11's table of the two systems (compromise and confrontation) is in tension
+with Umpleby, whose first, Western system makes the compromiser the saint (p. 66). The claim is
+unchanged. Relation: none.
+
+## Note of 2026-11-16: Keller, read
+
+The claim's dated note marks normative manipulation as a route "through circumstances", distinct from
+evidence and criteria. Keller states it in general form: "if I have the power to change your
+circumstances, then I may have the power to change the moral demands you face" (p. 20). He writes of
+persons, not organizations. The claim is unchanged. Relation: none.

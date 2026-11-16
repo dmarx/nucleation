@@ -1,12 +1,20 @@
 ---
 status: Proposed
 title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged, and the manipulation works through the target''s sound moral reasoning rather than a defect in it; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tessman (LIT-tmpq5p0l) read on 2026-11-16, NOTE-tmp58s6l. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +49,7 @@ summary: >-
   both sound, and its circumstances are what is set. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp3poko THEORY-tmp5b8ou — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-tmp55sg8 — Deferred; Keller, registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-tmpnw7ez — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-235 — Proposed; a reading of manipulation, cited with its standing -->
@@ -120,3 +129,42 @@ obligation. But White treats the burden as unfair to impose, and the entry
 does not say whether the responsibility so created is genuine, which is the
 claim's distinctive thesis. Second-hand; White not read. Relation:
 bears_on is not available, since this is a claim. Note only, no relation.
+
+## Note of 2026-11-16: Tessman, read
+
+Tessman's response to critics (LIT-tmpq5p0l), read as a stand-in for Moral Failure, gives the claim an
+argument independent of Keller's, from Karnein (2014): another's wrongdoing can leave an agent
+genuinely bound to an innocent third party. In her coercive-household case, A "is wronging B in some
+very serious ways that go beyond simply being unfair", yet "A’s noncompliance functions like luck for
+the purpose of the relationship between B and C" (p. 14), and "A owes all kinds of reparations to B".
+Her name for it: "There are moral requirements that it is unfair for us to be bound by, but that
+nevertheless are binding on us" (p. 16). That supports the claim's first two clauses.
+
+It also qualifies them. "It is crucial to the case ... that the wrongdoer, A, is not the same person
+as the dependent, C" (p. 15); where the dependent is the wrongdoer, "Part of the wrongdoer’s being
+accountable for the wrongdoing may mean forfeiting the care of the person whom he has wronged". So the
+claim holds where the obligation runs to an innocent third party (Keller's dog, his teachers' students)
+and may fail where the manipulator is also the one owed (Keller's patient who misses his bus on
+purpose). Tessman also says the bound party need not, all things considered, meet the obligation
+(p. 15); she may rightly protect herself at the price of unavoidable failure. Nothing here bears on
+the claim's limit, "no larger than the circumstances support". Relation: corroborates (THEORY-tmp3poko),
+with the two-party exception recorded.
+
+## Note of 2026-11-16: Keller, read
+
+The paper the claim attributes the structure to (LIT-tmp55sg8) was read in the author's pre-print.
+It supports the claim's first two clauses in Keller's words: "you can have a genuine moral obligation
+because you have been treated wrongly" (p. 21), and the victim's complaint, "I see that it is my moral
+obligation to perform this act, but it is morally wrong that I have this moral obligation", is
+"perfectly legitimate" (p. 26). It supports the claim's point against THEORY-235 directly: "It may
+even be common knowledge between us that I have deliberately manipulated your circumstances. But for
+all that, my manipulations may succeed" (p. 23). A13's Alice and Bob is Keller's own opening case
+(pp. 1-2), not one "remarkably close" to it.
+
+Two qualifications. First, Keller locates the mechanism in "the victim’s moral sensibility" (p. 22),
+and what matters is that the victim believes the alternatives unacceptable and is motivated to avoid
+them (p. 21); he does not say it works through sound reasoning rather than a defect, and his account
+covers a victim whose belief is mistaken. Second, the claim's last clause ("no larger than the
+circumstances support, whatever the manipulator claims") is A13's, not Keller's; Keller does not
+discuss limits on the obligation created. The claim's summary attributes the structure to Keller,
+which is right; the limit should not be read as his. Relation: corroborates (THEORY-tmp5b8ou).

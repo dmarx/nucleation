@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it'
-version: 8
+version: 10
 history:
 - version: 2
   date: '2026-11-16'
@@ -31,6 +31,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Nagel (LIT-tmp2dx6l) read on 2026-11-16, NOTE-tmpfw0h2. No change of status or title.
+- version: 9
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Bell (LIT-tmppxwo6) read on 2026-11-16, NOTE-tmp8mutd. No change of status or title.
+- version: 10
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tessman (LIT-tmpq5p0l) read on 2026-11-16, NOTE-tmp58s6l. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -68,6 +76,7 @@ summary: >-
   violation in reproducing what keeps a standard from constraining. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp3poko — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-tmp856sf — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, unread -->
 <!-- inactive-ok-file: CLAIM-tmpp8na7 — filed with this claim, Proposed -->
@@ -231,3 +240,22 @@ how skeptical problems arise". Nagel does not discuss whoever set the test.
 Relation: none. The reading neither corroborates nor bounds the claim, but
 it names the condition the claim's `defeated_if` (the proximate-agent and
 fixed-quantity views) does not mention.
+
+## Note of 2026-11-16: Tessman (via Bell's review), read
+
+A7 cites Burdened Virtues on the way to this claim. As Bell reports it, the book holds that
+"oppression interferes with the ability of the oppressed to achieve moral goodness", by preventing some
+virtues and by requiring burdened ones whose cost falls on their bearer (p. 95). It does not address
+who answers for a wrong that a burdened person commits, or responsibility for structuring another's
+conditions. The book gives the claim no support beyond the general point that conditions shape
+character. Relation: none.
+
+## Note of 2026-11-16: Tessman, read
+
+Tessman's A/B/C case (p. 14) keeps the claim's two responsibilities apart for one outcome. A's wrong
+"functions like luck" in the relationship between B and C, where B must still meet C's need, and is the
+act of a responsible agent in the relationship between A and B, where "A owes all kinds of reparations
+to B". The structuring party answers for the predicament, and the structured party still answers for
+her conduct within it. In Tessman's case the structured party does no wrong; she bears an unfair duty.
+The claim is about a wrong made likely, so the support is for its structure, not its central case.
+Relation: corroborates (THEORY-tmp3poko).
