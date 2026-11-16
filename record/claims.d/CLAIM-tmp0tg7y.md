@@ -100,7 +100,7 @@ quiescence and satisfaction".
 
 Each link is in the record:
 
-- **Its invisibility.** CLAIM-tmp7zzbd, from the same exchange: the
+- **Its invisibility.** [CLAIM-tmp7zzbd](CLAIM-tmp7zzbd.md), from the same exchange: the
   compensation leaves little trace while its lapse is seen.
 - **The subsidy.** [CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md), from the same exchange: conscientious
   members cover what the institution does not fund, and the institution's

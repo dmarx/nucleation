@@ -100,8 +100,8 @@ summary: >-
   accountability. Read on 2026-11-16, Elish supports it; Choroszewicz the
   allocation of responsibility to users; Ozer et al. bound its automation
   corollary; the NTSB report qualifies it. The hypothesis about unseen
-  compensation and credit, once part of it, is CLAIM-tmp7zzbd since the
-  review of 2026-11-16. Wells Fargo (CASE-151) is the record's nearest
+  compensation and credit, once part of it, is [CLAIM-tmp7zzbd](CLAIM-tmp7zzbd.md) since the
+  review of 2026-11-16. Wells Fargo ([CASE-151](../cases.d/CASE-151.md)) is the record's nearest
   specimen. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpw46qz LIT-tmp4yz7x — Deferred; registered unread from the same exchange -->
@@ -131,7 +131,7 @@ wrong**".
 **Split out on 2026-11-16.** A17 §6's mechanism, that unseen compensation
 lets the organization take credit for outcomes its members' effort produced
 and blame them when the effort lapses, is a separate hypothesis, now
-CLAIM-tmp7zzbd. A26 §IV's name for this claim's condition, "asymmetric
+[CLAIM-tmp7zzbd](CLAIM-tmp7zzbd.md). A26 §IV's name for this claim's condition, "asymmetric
 moral accountability", is "A systematic divergence between the distribution
 of effective control over circumstances, the distribution of practical
 moral obligations, and the attribution of responsibility for resulting
@@ -160,7 +160,7 @@ A17 §8 lists three ways the frameworks go wrong:
   moral judgment, you cannot automatically absolve yourself of
   responsibility for the consequences merely because they were the one who
   ultimately made the decision.**"
-- CLAIM-tmpyjzi8, the implicit moral subsidy, and CLAIM-tmp7zzbd, unseen
+- [CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md), the implicit moral subsidy, and [CLAIM-tmp7zzbd](CLAIM-tmp7zzbd.md), unseen
   compensation and credit: the upstream mechanism this claim no longer
   includes.
 - [CLAIM-614](CLAIM-614.md): an organization can keep harm non-legible by
@@ -188,9 +188,9 @@ A17 §8 lists three ways the frameworks go wrong:
   alter blame in the expected ways". A19's own conclusion: "So the strong
   claim that algorithms reliably allow decision-makers to evade public
   blame isn't established."
-- **More than Elish and Tronto support.** Elish (LIT-tmp4gcqt) was read on
+- **More than Elish and Tronto support.** Elish ([LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md)) was read on
   2026-11-16 and supports the blame mechanism; Tronto's books
-  (LIT-tmpw46qz, LIT-tmp4yz7x) are Unavailable and were read through two
+  ([LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md), [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md)) are Unavailable and were read through two
   stand-ins, for the concept only.
 
 ## Note of 2026-11-16: Ozer, Waggoner and Kennedy, read

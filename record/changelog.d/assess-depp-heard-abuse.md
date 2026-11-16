@@ -43,11 +43,11 @@
   the curation entry of 2026-11-15, 221646 records what each reading did to
   the filed claims and which hosts refused a lawful copy.
 - Revisions at the review of 2026-11-16 (ChatGPT's, forwarded by the
-  owner): CLAIM-tmpffmpr's model assumptions and feasibility condition
-  stated; CLAIM-tmp5zzud's wrongfulness made a condition; TERM-tmp91lqy
+  owner): [CLAIM-tmpffmpr](record/claims.d/CLAIM-tmpffmpr.md)'s model assumptions and feasibility condition
+  stated; [CLAIM-tmp5zzud](record/claims.d/CLAIM-tmp5zzud.md)'s wrongfulness made a condition; [TERM-tmp91lqy](record/terms.d/TERM-tmp91lqy.md)
   renamed independent execution gate, beside execution impedance and
-  intervention opportunity, and CLAIM-tmpkx7ct rewritten to say the three
-  vary independently; CLAIM-tmpnfjln split, the unseen-compensation
-  hypothesis becoming CLAIM-tmp7zzbd; and a separating construction,
-  CASE-tmpyeqlj, for throughput, specification lag and endogenous
+  intervention opportunity, and [CLAIM-tmpkx7ct](record/claims.d/CLAIM-tmpkx7ct.md) rewritten to say the three
+  vary independently; [CLAIM-tmpnfjln](record/claims.d/CLAIM-tmpnfjln.md) split, the unseen-compensation
+  hypothesis becoming [CLAIM-tmp7zzbd](record/claims.d/CLAIM-tmp7zzbd.md); and a separating construction,
+  [CASE-tmpyeqlj](record/cases.d/CASE-tmpyeqlj.md), for throughput, specification lag and endogenous
   foreclosure.

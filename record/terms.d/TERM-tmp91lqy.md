@@ -64,7 +64,7 @@ summary: >-
   gate with impedance and no real opportunity; a channel for challenging a
   process's rules can be an opportunity without gating ordinary execution.
   Whether a gate is procedural friction, in the sense of the owner's claim
-  (CLAIM-tmpuiaop), is left open. The wording is the assistant's (Claude,
+  ([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)), is left open. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 
 ---
@@ -103,12 +103,12 @@ Three properties of a step, which vary independently:
 ## What is left open
 
 Whether every gate is **procedural friction** in the sense of the owner's
-claim (CLAIM-tmpuiaop). If it is, A's objection (CLAIM-tmpwpvbz) removes
+claim ([CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md)). If it is, A's objection ([CLAIM-tmpwpvbz](../claims.d/CLAIM-tmpwpvbz.md)) removes
 impedance and not friction, but "friction characterizes opportunity" then
 becomes close to a definition and is false of gates that open no
 opportunity. If friction is impedance, the objection stands against
 "characterizes". The disagreement is kept open rather than settled by
-choosing a word; CLAIM-tmpkx7ct says what holds either way.
+choosing a word; [CLAIM-tmpkx7ct](../claims.d/CLAIM-tmpkx7ct.md) says what holds either way.
 
 ## Neighbouring senses it must not be confused with
 

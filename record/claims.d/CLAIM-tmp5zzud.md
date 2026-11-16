@@ -95,7 +95,7 @@ from the owner's exchange of 2026-10-26.
 **Three propositions, kept apart.**
 
 1. An act under review can make its reversal costly to third parties
-   (CLAIM-464's effect).
+   ([CLAIM-464](CLAIM-464.md)'s effect).
 2. Those costs can be genuine reasons for a reviewer to consider
    alternatives to immediate reversal: they are real harms to people other
    than the actor, so a reviewer who weighs them is not in error.
@@ -127,14 +127,14 @@ Two consequences carry over from Keller's case, under the condition above.
 - **The reasons are no larger than the circumstances support.** As Bob may
   call a shelter, a reviewer may look for ways of stopping that avoid the
   created harms (stopping new work while allowing security work, as the
-  D.C. Circuit's injunction did in CASE-170, by the court history that
+  D.C. Circuit's injunction did in [CASE-170](../cases.d/CASE-170.md), by the court history that
   case keeps as the earlier exchange's and unchecked). An actor's account of what
   stopping would cost is the interested party's account and is owed the
   scrutiny A13 gives "*A conscientious doctor wouldn't walk away*".
 - **Weighing does not discharge responsibility.** The reviewer's sound
   weighing of the created reasons does not settle the actor's
   responsibility for having wrongfully created them, as Bob's doing right
-  does not cancel his complaint against Alice. In CLAIM-tmpnw7ez's terms,
+  does not cancel his complaint against Alice. In [CLAIM-tmpnw7ez](CLAIM-tmpnw7ez.md)'s terms,
   the actor answers for the conditions under which the reviewer decided.
 
 ## What it adds
@@ -162,7 +162,7 @@ limited to harms to others, which is where the premises do not settle it.
 ## What it does not say
 
 - **That the East Wing demolition was wrongful.** The claim's antecedent
-  needs a wrongful act, which CASE-170 does not establish; the case shows
+  needs a wrongful act, which [CASE-170](../cases.d/CASE-170.md) does not establish; the case shows
   only the first two propositions.
 - **That any reviewer weighed such reasons wrongly, or that the East Wing
   demolition was done to create them.** [CASE-170](../cases.d/CASE-170.md) records an effect; intent

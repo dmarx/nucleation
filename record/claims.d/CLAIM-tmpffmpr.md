@@ -63,7 +63,7 @@ the same review time s = 1/μ (one reviewer, or c reviewers with
 with F ≥ s; a challenge resolved more than F after filing comes too late
 to prevent the harm it targets; challenges are resolved one at a time, so
 no correction to a rule or to code resolves many at once (the case Citron,
-LIT-tmpz93ag, raises against CLAIM-tmpfmmkt); and windows are known when
+[LIT-tmpz93ag](../literature.d/LIT-tmpz93ag.md), raises against [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md)); and windows are known when
 the order is chosen. Real arrivals vary, cases differ in effort and stakes,
 and fixes are often batched; the claim says what the order does where these
 idealizations roughly hold.
@@ -90,7 +90,7 @@ irreversible.
    If F ≥ s + 1/λ, a challenge filed within the last F − s ≥ 1/λ always
    exists once arrivals have begun, so the reviewer is never idle and every
    resolution it completes is in time: μT − O(1) of them, a share tending
-   to μ/λ, the bound of CLAIM-tmpfmmkt. Serving the newest feasible
+   to μ/λ, the bound of [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md). Serving the newest feasible
    challenge first does the same. With c reviewers sharing the load
    (μ = c/s), the condition is that the stock of feasible challenges,
    about λ(F − s), is at least c. If F < s, no challenge can be resolved in

@@ -27,7 +27,7 @@ bears_on:
 - QUESTION-461
 summary: >-
   A's, from A17 §6 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
-  split out of CLAIM-tmpnfjln at the review of 2026-11-16 (ChatGPT's,
+  split out of [CLAIM-tmpnfjln](CLAIM-tmpnfjln.md) at the review of 2026-11-16 (ChatGPT's,
   forwarded by the owner). "The system's resilience is attributed to the
   system. The system's failure is attributed to the person who stopped
   compensating for it." It is a hypothesis about visibility and credit,
@@ -35,7 +35,7 @@ summary: >-
   worker unfairly without relying on unseen compensation, and can rely on
   such compensation while blaming fairly. No reading of 2026-11-16 supports
   it: Elish supports the blame mechanism only. It is the measurement link
-  CLAIM-tmp0tg7y's loop needs. The wording is A's; adopting it is the
+  [CLAIM-tmp0tg7y](CLAIM-tmp0tg7y.md)'s loop needs. The wording is A's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnfjln CLAIM-tmpyjzi8 CLAIM-tmp0tg7y — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
@@ -65,24 +65,24 @@ most vulnerable to blame when it finally breaks down.**"
 
 ## Why it is filed apart
 
-It was part of CLAIM-tmpnfjln until the review of 2026-11-16, which
+It was part of [CLAIM-tmpnfjln](CLAIM-tmpnfjln.md) until the review of 2026-11-16, which
 observed that the two are separable: an institution can use a frontline
 worker as a moral crumple zone without relying on unseen compensation, and
 can rely heavily on compensation while assigning blame fairly. The readings
-of 2026-11-16 bear on them differently: Elish (THEORY-tmpdlw9l) supports the
+of 2026-11-16 bear on them differently: Elish ([THEORY-tmpdlw9l](../theory.d/THEORY-tmpdlw9l.md)) supports the
 blame mechanism and says nothing of compensation; Liedo et al. support the
-reliance on care workers' commitment (CLAIM-tmpyjzi8) and not its
+reliance on care workers' commitment ([CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md)) and not its
 invisibility. Kept apart, each link can be looked for where it occurs.
 
 ## Where it sits
 
-- CLAIM-tmpyjzi8, the implicit moral subsidy: the compensation this claim
+- [CLAIM-tmpyjzi8](CLAIM-tmpyjzi8.md), the implicit moral subsidy: the compensation this claim
   says goes unseen.
-- CLAIM-tmp0tg7y: the loop in which compensation, read as adequacy, drives
+- [CLAIM-tmp0tg7y](CLAIM-tmp0tg7y.md): the loop in which compensation, read as adequacy, drives
   cuts toward present need. This claim is its measurement link, and the
   loop rests on it.
-- CLAIM-tmpnfjln: the crumple-zone claim this was split from.
-- CLAIM-614: an organization can keep harm non-legible by the projections it
+- [CLAIM-tmpnfjln](CLAIM-tmpnfjln.md): the crumple-zone claim this was split from.
+- [CLAIM-614](CLAIM-614.md): an organization can keep harm non-legible by the projections it
   reproduces. Unseen prevention is a non-legibility of its own dependence.
 
 ## What it does not say

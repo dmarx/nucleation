@@ -50,12 +50,12 @@ uses:
 summary: >-
   The assistant's, offered at step 12 of the filing of the exchange "Assess
   Depp Heard Abuse", accepted by the owner on 2026-11-16, and rewritten at
-  the review of 2026-11-16. The owner's claim (CLAIM-tmpuiaop) says
+  the review of 2026-11-16. The owner's claim ([CLAIM-tmpuiaop](CLAIM-tmpuiaop.md)) says
   procedural friction exposes, perhaps characterizes, opportunities to
-  intervene; A's objection (CLAIM-tmpwpvbz) says a limit enforced without
+  intervene; A's objection ([CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md)) says a limit enforced without
   delay keeps a process interruptible. Whether friction is impedance or
   dependence decides whether the objection touches "characterizes", and
-  the record leaves that open (TERM-tmp91lqy). What holds either way is
+  the record leaves that open ([TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md)). What holds either way is
   that impedance, independent constraint and intervention opportunity vary
   independently, as the HKMA paper's rubber-stamp approval and velocity
   limits, Alfrink et al.'s second-system check and Bovens and Zouridis's
@@ -70,7 +70,7 @@ summary: >-
 
 ## The claim
 
-Three properties of a step in a process (TERM-tmp91lqy):
+Three properties of a step in a process ([TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md)):
 
 - **execution impedance**: whether it adds time or cost to execution;
 - **independent constraint**: whether the executor can pass it alone;
@@ -79,19 +79,19 @@ Three properties of a step in a process (TERM-tmp91lqy):
 
 They vary independently. The readings of 2026-11-16 supply instances:
 
-- **A gate without an opportunity.** The HKMA paper (THEORY-tmpeq8z1):
+- **A gate without an opportunity.** The HKMA paper ([THEORY-tmpeq8z1](../theory.d/THEORY-tmpeq8z1.md)):
   "A formal approval step is not, by itself, meaningful human oversight";
   an approval the process waits on, which volume has made perfunctory, is a
   gate and impedance with no real opportunity. A standing limit stops only
   what was foreseen when it was set.
 - **A gate without impedance.** The HKMA's agent harness, and Alfrink et
   al.'s decisions that must pass a second system, with disagreements flagged
-  for human review (THEORY-tmp97bfr): continuation depends on a condition
+  for human review ([THEORY-tmp97bfr](../theory.d/THEORY-tmp97bfr.md)): continuation depends on a condition
   the executor does not control, at no cost in time.
 - **Impedance used for an opportunity.** The HKMA's velocity limits slow
   execution to what review can handle: impedance added for the sake of an
   opportunity.
-- **All three removed together.** Bovens and Zouridis (THEORY-tmpn8tsl): the superior's
+- **All three removed together.** Bovens and Zouridis ([THEORY-tmpn8tsl](../theory.d/THEORY-tmpn8tsl.md)): the superior's
   signature and the official's discretion removed by system-level
   bureaucracy were gates, impedance and opportunities at once.
 
@@ -112,9 +112,9 @@ is visible to them. The record does not settle the word.
 
 ## Where it sits
 
-- CLAIM-523: legibility and volitional efficacy are what an intervention
+- [CLAIM-523](CLAIM-523.md): legibility and volitional efficacy are what an intervention
   opportunity needs; a gate supplies neither by itself.
-- CLAIM-tmpwpvbz and CLAIM-tmpuiaop: the disagreement this claim leaves
+- [CLAIM-tmpwpvbz](CLAIM-tmpwpvbz.md) and [CLAIM-tmpuiaop](CLAIM-tmpuiaop.md): the disagreement this claim leaves
   open, and the claims it complements.
 
 ## Note of 2026-11-16: Hong Kong Monetary Authority, read

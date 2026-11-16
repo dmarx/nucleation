@@ -80,20 +80,20 @@ Three mechanisms the exchange connected in prose:
 
 - **Throughput overload**: the corrections needed exceed the corrector's
   capacity. Both fail past T = 100; that limit is the same for both
-  (CLAIM-tmpfmmkt for a stream of challenges).
+  ([CLAIM-tmpfmmkt](../claims.d/CLAIM-tmpfmmkt.md) for a stream of challenges).
 - **Specification lag**: the governing institution has not yet formulated
   the objection. It is T, the variable on the horizontal axis, and is the
-  same for both (A35 §5; CLAIM-475).
+  same for both (A35 §5; [CLAIM-475](../claims.d/CLAIM-475.md)).
 - **Endogenous foreclosure**: the actions themselves diminish the capacity
   to carry out the correction once it is identified. Only B has it, and it
   alone accounts for the window 20 < T ≤ 100 in which A can still correct
   and B cannot.
 
 Up to the moment correction is attempted, A and B are indistinguishable:
-same outputs, same errors, same formal rights. That is CLAIM-462's point,
+same outputs, same errors, same formal rights. That is [CLAIM-462](../claims.d/CLAIM-462.md)'s point,
 that capacity for effective action is no evidence of capacity to be
 corrected, in a case where the difference is a single parameter. B's
-foreclosure is CLAIM-464's effect produced by the ordinary run of
+foreclosure is [CLAIM-464](../claims.d/CLAIM-464.md)'s effect produced by the ordinary run of
 decisions rather than by one intervention. The novel variable is not
 execution speed alone but the relation between how fast decisions are
 executed, how fast the rule can be revised, and how fast execution erodes
@@ -107,8 +107,8 @@ shortening the lag T is what B needs and A does not.
   often or how much.
 - **That foreclosure is wrongful or intended.** B's erosion of its own
   corrective capacity may be an unchosen side effect; whether anyone
-  answers for it is CLAIM-tmp5zzud's question, and that claim needs the act
+  answers for it is [CLAIM-tmp5zzud](../claims.d/CLAIM-tmp5zzud.md)'s question, and that claim needs the act
   to be wrongful.
-- **Anything about the timescale claims' general form.** CLAIM-331,
-  CLAIM-478, CLAIM-327 and CLAIM-423 say why governing variables are slow;
+- **Anything about the timescale claims' general form.** [CLAIM-331](../claims.d/CLAIM-331.md),
+  [CLAIM-478](../claims.d/CLAIM-478.md), [CLAIM-327](../claims.d/CLAIM-327.md) and [CLAIM-423](../claims.d/CLAIM-423.md) say why governing variables are slow;
   this construction takes the slowness (T) as given.
