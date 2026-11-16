@@ -1,7 +1,20 @@
 ---
 status: Proposed
 title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure'
-version: 1
+version: 4
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cunha et al. (LIT-tmp4xiao) read on 2026-11-16, NOTE-tmp78ay2. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Lohmann et al. (LIT-tmpaio5u) read on 2026-11-16, NOTE-tmp9acbc. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Mazinani and O'Connor (LIT-tmpyysa4) read on 2026-11-16, NOTE-tmp51qsq. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +48,7 @@ summary: >-
   same magnitude of dependence is sorted by who controls the terms. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp5jqvq — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpnw7ez ARG-tmpsyaz2 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-545 TERM-124 — Proposed; the organizational form, domination and self-governance, cited with their standing -->
 
@@ -93,3 +107,15 @@ the argument is [ARG-tmpsyaz2](../arguments.d/ARG-tmpsyaz2.md).
   straightforwardly commensurable", so there may be no answer to that
   question even where these two are determinate. That is left in the
   curation entry as A's, not filed.
+
+## Note of 2026-11-16: Cunha and colleagues, read
+
+This systematic review of how bidirectional partner violence is measured supports the claim's first half from measurement practice. Thirty-four of 50 studies used the Conflict Tactics Scale, which counts acts, and "the CTS does not capture information about who initiates the violence, making it difficult to distinguish between acts committed in self-defense or retaliation and those initiated without provocation". As a result, "comparing the frequency of violence can lead to couples being perceived as having BV, even when one partner is merely acting in self-defense". A tally of acts, as the field takes it, therefore cannot show who holds control. The review says nothing about the claim's second half, responsibility for the structure. The authors also counsel "avoiding the reinforcement of unilateral blame", consistent with the claim's refusal to excuse the controlled party. Relation: corroborates. The reading was filed as a stand-in for LIT-tmp5jqvq.
+
+## Note of 2026-11-16: Lohmann, read
+
+Lohmann and colleagues' meta-analysis of coercive control and mental health does not address who is responsible for a relationship's structure, and it measures control as a set of behaviours, not as control over the terms of another's life. What it supports, from outside the exchange, is the premise behind the claim's case: one act can belong to different patterns. "Verbal threats can thus reflect situational couple violence or they can occur within the enduring pattern of domination that characterizes coercive control." It also qualifies how far the distinction is measurable: the correlates of coercive control were indistinguishable from those of broader psychological IPV, and the authors suspect "construct overlap". Relation: none.
+
+## Note of 2026-11-16: Mazinani and O'Connor, read
+
+IPV researchers outside the exchange state the separation this claim makes. They analyse violence as arising between two partners, and they keep that analysis apart from responsibility: "This relational framing does not imply equivalent agency, mutuality, or shared responsibility; responsibility for a violent or coercive act lies with the person who commits it". And: "a victim’s resistance or constrained responses should not be treated as equivalent to the perpetrator’s controlling violence". They also give the measurement reason a tally misleads: "Effect sizes based primarily on the occurrence of physical acts may not capture motive, coercive control, fear, chronicity, severity, injury, sexual violence, or constraints on safety and leaving." This is the authors' stated framing, not an empirical result, so it supports the claim's coherence and standing, not its truth. Relation: corroborates (THEORY on this reading).

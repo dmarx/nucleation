@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Gaboriaud et al. (LIT-tmp8xz2k) read on 2026-11-16, NOTE-tmpe8t2g. No change of status or title.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Mazinani and O'Connor (LIT-tmpyysa4) read on 2026-11-16, NOTE-tmp51qsq. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -116,3 +125,11 @@ interfere with another person's capacity to govern their own conduct**".
 - **That it is new.** Young's *Responsibility for Justice*
   ([LIT-2246](../literature.d/LIT-2246.md), Deferred) and the literature on derivative and complicitous responsibility
   hold versions of it; A states it as a synthesis, not a discovery.
+
+## Note of 2026-11-16: Gaboriaud and colleagues, read
+
+The LIT registered this experiment as bearing on the claim. Read, it does not. It manipulates whether a harm was caused by the acting agent or "by another independent source". Participants judged the agent less harshly when the other source caused it ("M = 3.72" vs "M = 2.82"). That concerns an agent's own causal role in an outcome. No scenario has a party who wrongfully structures another's circumstances, and there is no measure of how responsibility is shared between such a party and the actor. Nor does the paper give A5 §5's distinction between kinds of responsibility an empirical basis. Its own conclusion is that lay wrongness and blame judgments differ little ("the distinction between types of judgment (particularly wrongness versus blame) must not be overestimated"). Relation: none. The LIT's link should be dropped from its summary.
+
+## Note of 2026-11-16: Mazinani and O'Connor, read
+
+The paper affirms the claim's first-order half: responsibility for an act "lies with the person who commits it". It is silent on whether a partner who structures the conditions also answers for it. Its relationship-context markers ("controlling behavior (r=0.30), and greater perpetrator power within the relationship (r=0.18)") are associations with the controlling partner's own perpetration, not with the other partner's. Relation: none.

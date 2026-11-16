@@ -1,14 +1,19 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-15, not read. Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §6; A5 reading list. No lawful copy has been sought yet.
+  Read 2026-11-16 from the open-access full text in Europe PMC (PMC13603925).
+  See NOTE-tmp51qsq and THEORY-tmpej5sl.
 title: 'An Updated and Revised Dyadic Model of Partner Violence'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
   note: >-
     Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2026-08-24 (online (PMC)). DOI and PMID 42792267 from PMC.
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Read on 2026-11-16 from the Europe PMC full text (PMC13603925): sections 1-3, 5 and 7 in full, 4 and 6 at their summaries. A5 §6's summary is confirmed. The earlier gloss "not one perpetrator" needs the authors' own limit, that dyadic framing implies neither symmetric control nor shared responsibility. Status Deferred to Active.
 tags:
 - social-science
 - moral-psychology
@@ -19,7 +24,16 @@ first_author: 'Mazinani'
 keywords: []
 implementations: []
 summary: >-
-  Mazinani and O'Connor (2026). An Updated and Revised Dyadic Model of Partner Violence. Behavioral Sciences (Basel) 16(9): 1468. DOI 10.3390/bs16091468. Registered unread from the exchange "Assess Depp Heard Abuse" (2026-11-15), where A cites it (A5 §6; A5 reading list) on the distinction between violence and coercive control, and the evidence on it: Dyadic model: partner violence as an interaction of both partners' characteristics, not one perpetrator. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). What the exchange says of it is unverified until read.
+  Mazinani and O'Connor (2026). An Updated and Revised Dyadic Model of Partner
+  Violence. Behavioral Sciences (Basel) 16(9): 1468. DOI 10.3390/bs16091468. A
+  selective review that maps risk markers for physical IPV from eight
+  meta-analyses onto Bartholomew and Cobb's dyadic model. The most consistent
+  and largest associations are in the relationship context (prior aggression,
+  emotional abuse, dissatisfaction); communication skills and empathy are
+  inversely associated. The authors hold that relational framing implies
+  neither symmetric control nor shared responsibility, and that Johnson's
+  typology is complementary. Registered from the exchange "Assess Depp Heard
+  Abuse" (A5 §6), which summarizes it accurately. Read 2026-11-16.
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8na7 CASE-tmpwrhkd — filed from the same exchange, Proposed, or Unavailable -->
 
@@ -33,4 +47,8 @@ Mazinani, O'Connor (2026). *An Updated and Revised Dyadic Model of Partner Viole
 
 ## Standing in the record
 
-Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §6; A5 reading list, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Not read.
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A5 §6; A5 reading list, on the distinction between violence and coercive control, and the evidence on it. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md), [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md). Read on 2026-11-16; see the reading below.
+
+## Reading of 2026-11-16
+
+Read from the Europe PMC full text. A selective, unregistered review: eight meta-analyses, physical IPV, adult heterosexual couples, risk markers mapped by one author onto three levels of the dyadic model. The relationship context holds the most consistent associations; "the present synthesis does not constitute empirical validation of the model’s integrated temporal or causal pathways". The authors say: "This relational framing does not imply equivalent agency, mutuality, or shared responsibility; responsibility for a violent or coercive act lies with the person who commits it". They also say "a victim’s resistance or constrained responses should not be treated as equivalent to the perpetrator’s controlling violence". A5 §6's summary is accurate. A's caution, that a systemic perspective can obscure asymmetry, is one the paper itself states and guards against. The paper corroborates CLAIM-tmpp8na7, as framing rather than finding. See NOTE-tmp51qsq.
