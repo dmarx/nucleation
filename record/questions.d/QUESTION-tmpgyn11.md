@@ -1,7 +1,12 @@
 ---
 status: Open
 title: 'Can a party''s ability to activate another''s genuine moral obligations constitute control over the terms of that other''s dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone''s conscientiousness?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Freyd (LIT-tmpc4sfp) read on 2026-11-16, NOTE-tmpdu0m8. No change of status or title.
 tags:
 - ethics
 - society-and-governance
@@ -22,6 +27,7 @@ summary: >-
   her patients is A30's example. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: ADR-093 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-tmpd6uxt CLAIM-tmpyjzi8 CASE-264 — Proposed; the dependence claims and this exchange's normative-manipulation claims, cited with their standing -->
 
 # QUESTION-tmpgyn11: Can a party's ability to activate another's genuine moral obligations constitute control over the terms of that other's dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone's conscientiousness?
@@ -64,3 +70,11 @@ conscience.
 A case varying only the source of the barrier to exit, contract in one
 arrangement and the part's own obligation in the other, at the same
 dependence, would test it as [CASE-264](../cases.d/CASE-264.md) tests control.
+
+## Note of 2026-11-16: Freyd, read
+
+Freyd's adaptive blindness is a mechanism by which dependence on another shapes what the dependent can afford to
+know: "When the betrayer is someone we are dependent upon, the very mechanisms that normally protect us ... become a
+problem" (p. 27). It is a neighbour of the question's concern with control over the terms of dependence, through
+attachment rather than activated obligation, and leaves the question open. Relation: none (a note only; if the filer
+writes it as evidence on the question, ADR-093 asks for bears_on from the THEORY).

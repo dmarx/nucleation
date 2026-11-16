@@ -1,7 +1,12 @@
 ---
 status: Proposed
 title: 'A stipulated couple in which the partner who strikes more often is the one controlled shows that the count of wrongful acts and control over the terms of the relationship can come apart'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Stark and Hester (LIT-tmpxwlgx) read on 2026-11-16, NOTE-tmp4yi9s. No change of status or title.
 form: existence
 rests_on:
 - CLAIM-tmpnw7ez
@@ -65,3 +70,10 @@ shows a separation in the facts and not yet in responsibility.
 
 Proposed. The existence of the separation is shown; its bearing on
 responsibility rests on a second claim filed with this one.
+
+## Note of 2026-11-16: Stark and Hester, read
+
+The argument's answer to "Is the case coherent?" cites A3's attribution to Stark that "the threat of violence can be
+enough to enforce control without violence occurring". Read through Stark and Hester (2019), the attribution holds:
+coercive control "is not a type of violence", and the review reports entrapment without notable violence in perhaps a
+third of cases. No change to the verdict. Relation: none.

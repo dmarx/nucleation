@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit'
-version: 4
+version: 6
 history:
 - version: 2
   date: '2026-11-16'
@@ -15,6 +15,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Mazinani and O'Connor (LIT-tmpyysa4) read on 2026-11-16, NOTE-tmp51qsq. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Johnson (LIT-tmpqj5oq) read on 2026-11-16, NOTE-tmprqrfr. No change of status or title.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Stark and Hester (LIT-tmpxwlgx) read on 2026-11-16, NOTE-tmp4yi9s. No change of status or title.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -108,3 +116,20 @@ The case stipulates control as a dimension separate from the count of assaults. 
 ## Note of 2026-11-16: Mazinani and O'Connor, read
 
 Relationship B, in which the controlled partner strikes more often, is coherent as stipulated. The review reports one population-level finding against its being a common route: "Spencer et al. (2022) found that male partners’ controlling behaviors were not significantly associated with women’s IPV perpetration." This qualifies any use of the case as typical. It does not touch its use as an existence proof (ARG-tmpsyaz2). Relation: none.
+
+## Note of 2026-11-16: Johnson, read
+
+In Johnson's terms (2006 article, read as the stand-in for the 2008 book), Relationship A is situational couple
+violence and Relationship B is intimate terrorism by Dan with violent resistance by Carol. The case's stipulation that
+"Carol has even struck Dan more times than Dan has struck Carol" is coherent under a classification by control, but
+atypical: in Johnson's data, "In men’s intimate terrorism, wives rarely respond with violence", the median ratio of
+the wife's acts to the husband's being .17. The case shows what is possible, not what is common, which is all
+ARG-tmpsyaz2 uses it for. The case's "Where it sits" names Johnson's four types with A3's label "coercive controlling
+violence"; Johnson's own term is intimate terrorism (the other label is Kelly and Johnson's, 2008). Relation:
+draws_on (the case uses the typology's categories) from the case to the THEORY, if the filer wants it; otherwise none.
+
+## Note of 2026-11-16: Stark and Hester, read
+
+Dan's tactics in Relationship B, finances, monitoring, isolation and threats about leaving, are the control tactics of
+the definition Stark and Hester quote ("isolating them from sources of support, exploiting their resources and capacities for personal" gain, "depriving them of the means needed for independence, resistance and escape"). The case
+can cite the review for its sense of control. Relation: draws_on, if the filer wants it.

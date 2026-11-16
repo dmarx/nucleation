@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure'
-version: 4
+version: 8
 history:
 - version: 2
   date: '2026-11-16'
@@ -15,6 +15,22 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Mazinani and O'Connor (LIT-tmpyysa4) read on 2026-11-16, NOTE-tmp51qsq. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Johnson (LIT-tmpqj5oq) read on 2026-11-16, NOTE-tmprqrfr. No change of status or title.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Stark and Hester (LIT-tmpxwlgx) read on 2026-11-16, NOTE-tmp4yi9s. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Long (LIT-tmp4ummt) read on 2026-11-16, NOTE-tmpojn2e. No change of status or title.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Freyd (LIT-tmpc4sfp) read on 2026-11-16, NOTE-tmpdu0m8. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -119,3 +135,44 @@ Lohmann and colleagues' meta-analysis of coercive control and mental health does
 ## Note of 2026-11-16: Mazinani and O'Connor, read
 
 IPV researchers outside the exchange state the separation this claim makes. They analyse violence as arising between two partners, and they keep that analysis apart from responsibility: "This relational framing does not imply equivalent agency, mutuality, or shared responsibility; responsibility for a violent or coercive act lies with the person who commits it". And: "a victim’s resistance or constrained responses should not be treated as equivalent to the perpetrator’s controlling violence". They also give the measurement reason a tally misleads: "Effect sizes based primarily on the occurrence of physical acts may not capture motive, coercive control, fear, chronicity, severity, injury, sexual violence, or constraints on safety and leaving." This is the authors' stated framing, not an empirical result, so it supports the claim's coherence and standing, not its truth. Relation: corroborates (THEORY on this reading).
+
+## Note of 2026-11-16: Johnson, read
+
+Johnson's 2008 book, which A3 cites for the typology, has no lawful copy; his 2006 article "Conflict and Control"
+(LIT-tmpqj5oq) was read in its place. It supports the claim's first half from evidence independent of the stipulated case:
+Johnson's types of partner violence are defined by control and not by the violent acts ("The distinction lies in the
+degree of control present"; the classification "most certainly is not based in the nature of the violent acts
+themselves"), and in violent resistance one partner is violent without being controlling while the other controls.
+So the separation between who acts violently and who controls is not only coherent (CASE-tmpwrhkd) but found in data,
+with consequences for frequency, escalation and injury. It does not support the second half, that responsibility for
+the relationship's structure goes with control: Johnson's typology is descriptive. It also bears on the claim's "What
+it does not say": mutual abuse is possible in the typology (mutual violent control), but was rare in Johnson's data
+("only five such couples (10 individuals)"). Relation: corroborates (THEORY on Johnson 2006).
+
+## Note of 2026-11-16: Stark and Hester, read
+
+Stark's 2007 book, which A3 cites, has no lawful copy; Stark and Hester's 2019 review (LIT-tmpxwlgx), which restates its
+definitions with page references, was read in its place. It supports the claim's separation of acts from power from
+outside the stipulated case: "Coercive control is not a type of violence"; in "perhaps as many as a third of all cases"
+abuse produces entrapment "without any notable incidents of" violence; and an act-based definition let abusive men
+"disconnect their violent acts from one another in time and space". So a tally of violent acts can miss the party who
+holds control. The review is about harm and its mechanism; it does not argue that responsibility for the
+relationship's structure goes with control, which is the claim's second half. Relation: corroborates (THEORY on
+Stark and Hester 2019).
+
+## Note of 2026-11-16: Long, read
+
+Christie's "The Ideal Victim", cited for the exchange's A5 §3, has no lawful copy; Long (2021), LIT-tmp4ummt, which quotes
+his definition, was read in its place. It bears on this claim's "What it does not say", that recognizing a power
+imbalance should not mean denying the controlled party's agency or excusing her wrongs. Long describes the
+victim-offender dichotomy that works against holding both: it "presupposes that a person is either a victim or an
+offender, but they cannot be both", and in one partner-violence case the police "assumed that he was the aggressor".
+That is a reason the claim's separation of questions is needed in practice; it is not evidence for the claim.
+Relation: none.
+
+## Note of 2026-11-16: Freyd, read
+
+Freyd (1997), registered with this claim from the exchange, was read. It frames abuse as a question of power ("A focus
+on betrayal is thus implicitly a focus on power", p. 28) but says nothing about tallies of wrongful acts or about who
+controls the terms of a relationship. It neither supports nor qualifies the claim. Relation: none. (Its registration
+named this claim only because the exchange's section on the topic cited it.)
