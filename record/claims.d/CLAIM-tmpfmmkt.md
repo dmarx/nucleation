@@ -99,7 +99,7 @@ filed comes after the harm it targets has become irreversible (F is
    is late when that exceeds F, that is, for every t > t* = Fμ/(λ − μ).
    This treats review as taking no time of its own (the fluid limit); with
    a service time s = 1/μ per challenge the latency is s + (λ − μ)t/μ and
-   t* = (F − s)μ/(λ − μ) (CLAIM-tmpffmpr).
+   t* = (F − s)μ/(λ − μ) ([CLAIM-tmpffmpr](CLAIM-tmpffmpr.md)).
    Only the challenges filed before t*, a fixed number, are resolved in
    time, so their share of all those filed tends to zero.
 
