@@ -1,0 +1,57 @@
+---
+status: Deferred
+status_note: >-
+  registered unread from the exchange "Assess Depp Heard Abuse"
+  (2026-11-17), A61; no copy sought yet.
+title: 'Settlement delay as a sorting device'
+version: 1
+history:
+- version: 1
+  date: '2026-11-17'
+  note: >-
+    Filed, not read, from the exchange "Assess Depp Heard Abuse"
+    (2026-11-17). Checked on 2026-11-17: not held in record/literature.d
+    by identifier, title or first author. Crossref confirms DOI
+    10.1016/S0144-8188(99)00008-3: Thomas J. Miceli, International
+    Review of Law and Economics 19(2): 265-274, 1999-06. `published:` is
+    the first of June 1999: Crossref gives the issue month (June 1999)
+    and no day. No email address was sent to any service.
+tags:
+- game-theory
+- society-and-governance
+date: '2026-11-17'
+published: '1999-06-01'
+doi: '10.1016/S0144-8188(99)00008-3'
+first_author: 'Miceli'
+keywords:
+- 'settlement delay'
+- 'screening'
+- 'cost of waiting'
+implementations: []
+summary: >-
+  Thomas J. Miceli (1999). "Settlement delay as a sorting device".
+  International Review of Law and Economics 19(2): 265–274.
+  DOI-10.1016/S0144-8188(99)00008-3. Registered unread from the exchange
+  "Assess Depp Heard Abuse" (A61). A61 cites it for a defendant's control
+  over the amount and timing of settlement offers exploiting differences
+  in plaintiffs' costs of waiting. What the exchange says of it is
+  unverified until read.
+---
+<!-- inactive-ok-file: CASE-tmphljcr — filed from the same exchange (2026-11-17), Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpyo35b — filed from the same exchange (2026-11-17), Proposed -->
+
+# LIT-tmpd3e6e: Settlement delay as a sorting device
+
+Thomas J. Miceli (1999). "Settlement delay as a sorting device". *International Review of Law and Economics* 19(2): 265–274. DOI-10.1016/S0144-8188(99)00008-3.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.*
+
+> A61: "analyzes how a defendant's control over both the amount and timing of settlement offers can exploit differences in plaintiffs' costs of waiting"
+
+Unverified until read.
+
+## Standing in the record
+
+Registered from A61 (2026-11-16). It bears on CLAIM-tmpyo35b and CASE-tmphljcr. Correction: the exchange gives the title and year but no author; the author is Thomas J. Miceli. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
