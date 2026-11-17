@@ -116,6 +116,13 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **Stop at any bot check**: captcha, Cloudflare or WAF challenge,
   "Access Denied", rate limit, paywall. Never try to get around one.
   Retrying the same host doesn't help either.
+- **Europe PMC's REST API is a route in its own right.** For an
+  open-access article, the full text from
+  `https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML`
+  may be read even when europepmc.org or PMC shows a challenge: it is the
+  documented machine route to the same text (the owner's ruling of
+  2026-11-17, on the filing of Márquez et al.). Say in the NOTE's history
+  that the API was the route.
 - **The outcome sets the status:**
   - read: the work goes on to step 6;
   - **Unfetched** (ADR-053): a lawful copy was located at an exact address

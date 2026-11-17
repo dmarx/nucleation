@@ -6,8 +6,8 @@ status_note: >-
   from the Europe PMC REST API's full-text XML of this CC BY 4.0 article,
   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11501936/fullTextXML,
   after europepmc.org, PMC, De Gruyter and the University of Alicante
-  repository each stopped a fetch (see the history; the owner may overrule
-  this route). Filed as the stand-in for A's unidentified source on
+  repository each stopped a fetch (see the history; the owner confirmed
+  this route on 2026-11-17). Filed as the stand-in for A's unidentified source on
   angle-multiplexed holographic storage: worth reading here for Bragg
   selectivity, by which pages superposed in one volume are read out one at
   a time by reference angle, the record's clearest physical case of a
@@ -38,8 +38,8 @@ history:
     (HTTP 503); none was retried. The full text was then fetched from the
     Europe PMC REST API on www.ebi.ac.uk, a different host and the
     documented machine route to the same open-access text. The lead
-    accepted that route for this filing; the owner may overrule it, in
-    which case this entry becomes Unfetched at the addresses above. No
+    accepted that route for this filing, and the owner confirmed it on
+    2026-11-17: "Europe PMC is fine". No
     email address was sent to any service.
 tags:
 - natural-sciences

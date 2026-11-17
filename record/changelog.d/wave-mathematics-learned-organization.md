@@ -17,4 +17,6 @@
   network's symmetries ([CLAIM-tmp7jyur](record/claims.d/CLAIM-tmp7jyur.md), on [CASE-tmp1owyk](record/cases.d/CASE-tmp1owyk.md)), and a hypothesis
   that RL buys economy rather than reach where its reward can verify at
   test time ([CLAIM-tmpwxs2x](record/claims.d/CLAIM-tmpwxs2x.md)), with dated notes on [QUESTION-392](record/questions.d/QUESTION-392.md) and
-  [QUESTION-010](record/questions.d/QUESTION-010.md). One reading route is left for the owner to overrule.
+  [QUESTION-010](record/questions.d/QUESTION-010.md). The read-and-file skill's step 5 now names Europe PMC's REST
+  API as an allowed route to its open-access full text, at the owner's
+  ruling of 2026-11-17.

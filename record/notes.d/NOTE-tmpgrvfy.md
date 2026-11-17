@@ -16,7 +16,7 @@ history:
     Alicante repository (rua.ua.es) a timeout; none was retried, and the
     full text was then fetched from the REST API at www.ebi.ac.uk, a
     different host and the documented machine route. The lead accepted the
-    route for this filing; the owner may overrule it. Read: the abstract,
+    route, and the owner confirmed it on 2026-11-17. Read: the abstract,
     §1, §2.1 "Analog holography and general concepts", §2.2 "Holographic
     recording media" and §2.3 "Holographic multiplexing in analog
     holography", with Table 1 and the Fig. 2 caption. Skipped: §2.4 onward
@@ -147,4 +147,4 @@ van Heerden V/λ³ bound.
   Syst. Tech. J. 48:2909, is the primary source for it, and was neither
   located nor read; nor was Mok (1993).
 - The text came through the Europe PMC REST API after four other hosts
-  stopped; the route is the lead's ruling, open to the owner's.
+  stopped; the owner confirmed the route on 2026-11-17.
