@@ -37,7 +37,7 @@ summary: >-
   terms in A87 §2 ("The wrongdoer changes the world without necessarily
   possessing the normative power to change what the injured party is
   owed.") with A87 §10's contractor case; stated as a thesis in A90 V and
-  VII and as A97's Proposition 6. CLAIM-464 holds that an intervention can
+  VII and as A97's Proposition 6. [CLAIM-464](CLAIM-464.md) holds that an intervention can
   make a corrective outcome unreachable while the governing standards stay
   the same. It says nothing of the injured party's claim, the wrongdoer's
   powers, or a later settlement; this does. Remedial hold-up
@@ -81,7 +81,7 @@ interference."
 Three parts, then:
 
 1. **Persistence.** A claim valid under N persists through the loss of
-   its fitting remedy. What changes is correctability (TERM-085), not the
+   its fitting remedy. What changes is correctability ([TERM-085](../terms.d/TERM-085.md)), not the
    claim.
 2. **No power gained.** Producing that loss is not an exercise of a
    normative power, so it gives the wrongdoer none over what is owed,
@@ -93,16 +93,16 @@ Three parts, then:
 The scope is A90 V's: "The persistence thesis applies to the claims that
 remain valid under \(N\), not to every legal relation irrespective of
 circumstances." Property can be validly transferred and duties
-discharged; those are changes by a valid power, which CLAIM-tmpssfc1 keeps
+discharged; those are changes by a valid power, which [CLAIM-tmpssfc1](CLAIM-tmpssfc1.md) keeps
 apart from suppression.
 
 ## How it sits with the record
 
-- **CLAIM-464** (Active) is the causal half this rests on: the
+- **[CLAIM-464](CLAIM-464.md)** (Active) is the causal half this rests on: the
   intervention changes what correction would take "while the standards
   that govern that outcome stay the same". This claim adds what stays the
   same on the injured party's side.
-- **CASE-170** (Active), the East Wing demolished before the challenge
+- **[CASE-170](../cases.d/CASE-170.md)** (Active), the East Wing demolished before the challenge
   was decided, has the structure: the remedy left was to stop new
   construction, "not to keep the old building". Whether any claim
   persisted there is a legal question the case does not settle, so it is
@@ -114,7 +114,7 @@ apart from suppression.
 - **CLAIM-tmpl0sgt**: an irreversible act converts consent-based
   protection into compensation in practice. "In practice" is part 1's
   α; this claim says the conversion is practical, not normative.
-- **CLAIM-tmp6vck6**: inalienability as a limit on powers. This claim
+- **[CLAIM-tmp6vck6](CLAIM-tmp6vck6.md)**: inalienability as a limit on powers. This claim
   needs no inalienability premise; it holds for any claim still valid
   under N.
 - The second wrong A87 §10 names, "Litigation by attrition", is the

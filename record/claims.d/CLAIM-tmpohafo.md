@@ -91,8 +91,8 @@ says, and "A robust process needs an appropriate combination."
 - **[CLAIM-624](CLAIM-624.md)** names a second-order duty of answerability; the claim's
   distinction between giving an account and answering is what that duty
   requires of contestation.
-- From the same exchange: TERM-tmpsit04 (protected contestability),
-  TERM-tmp4zjar (answerability), CLAIM-tmpnhesz (answerability is directed
+- From the same exchange: [TERM-tmpsit04](../terms.d/TERM-tmpsit04.md) (protected contestability),
+  [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md) (answerability), [CLAIM-tmpnhesz](CLAIM-tmpnhesz.md) (answerability is directed
   and role-specific), and [CLAIM-tmph28l6](CLAIM-tmph28l6.md), on what contestation costs.
 - The interruption right is the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) in the form of
   an entitlement: a point at which the process stays open.

@@ -35,8 +35,8 @@ summary: >-
   agent's or institution's conduct"), A97 I, II and V, and A97 XII's
   Propositions 1 and 4; A102 §7 adds efficacy as a fourth term and A106 §5
   restates the three senses of commitment. A does not credit the contrast
-  to the owner. The record has demands as acceptance sets (TERM-060) and
-  resolve as maintained commitment (CLAIM-344), and does not separate
+  to the owner. The record has demands as acceptance sets ([TERM-060](../terms.d/TERM-060.md)) and
+  resolve as maintained commitment ([CLAIM-344](CLAIM-344.md)), and does not separate
   either from rights or obligations. The wording is A's; adopting it is
   the owner's call.
 ---
@@ -107,36 +107,36 @@ authoritative.**"
 
 ## How it sits with the record
 
-- **TERM-060** (Active) represents each demand by an acceptance set and
+- **[TERM-060](../terms.d/TERM-060.md)** (Active) represents each demand by an acceptance set and
   says "A demand is a requirement". It is the record's term for
   frustration, not a definition of demand, though A95 §2 calls it one; a
-  dated note on TERM-060 records that. The demand in this claim is
-  TERM-060's, and the claim adds that nothing in an acceptance set
+  dated note on [TERM-060](../terms.d/TERM-060.md) records that. The demand in this claim is
+  [TERM-060](../terms.d/TERM-060.md)'s, and the claim adds that nothing in an acceptance set
   carries a warrant.
-- **CLAIM-344** (Active): resolve as a maintained organization of
+- **[CLAIM-344](CLAIM-344.md)** (Active): resolve as a maintained organization of
   precedence, commitment and revision. That is the practical sense of
   commitment. This claim says it neither creates nor tracks obligations.
-- **CLAIM-523** (Active): legibility, volitional efficacy and
+- **[CLAIM-523](CLAIM-523.md)** (Active): legibility, volitional efficacy and
   correctability, of which "none establishes that the demand or the
-  revision is justified". A102 §7's efficacy is CLAIM-523's three
+  revision is justified". A102 §7's efficacy is [CLAIM-523](CLAIM-523.md)'s three
   achievements; this claim adds the rights and commitment terms around
   them.
-- **CLAIM-361** (Active) and **CLAIM-662** (Proposed): the recognized
+- **[CLAIM-361](CLAIM-361.md)** (Active) and **[CLAIM-662](CLAIM-662.md)** (Proposed): the recognized
   demand set is not the warranted one. A97 IV's D_recognized against
   D_warranted,N is that distinction.
-- **CLAIM-tmpc7shc** files the demand side in its sharpest form, from A106
+- **[CLAIM-tmpc7shc](CLAIM-tmpc7shc.md)** files the demand side in its sharpest form, from A106
   §4's provenance tuple: a demand's satisfaction condition does not carry
   its warrant. A97 IV first proposed the tuple as a "provenance record",
   d = (source, bearer, addressee, A_d, scope, warrant). That "provenance"
-  is not any of TERM-100's senses (formation, maintenance, source of a
+  is not any of [TERM-100](../terms.d/TERM-100.md)'s senses (formation, maintenance, source of a
   capacity): it includes a warrant, which no process supplies.
-- **CLAIM-tmpssfc1** files the one passage A97 X singles out: a valid
+- **[CLAIM-tmpssfc1](CLAIM-tmpssfc1.md)** files the one passage A97 X singles out: a valid
   release changes what is owed, and an institution's ceasing to count a
   demand does not.
-- TERM-080 (Proposed) and TERM-109 (Active) use "commitment" in passing
+- [TERM-080](../terms.d/TERM-080.md) (Proposed) and [TERM-109](../terms.d/TERM-109.md) (Active) use "commitment" in passing
   and fix none of these senses.
 
-The aquifer, CASE-tmp9vd9x, puts all three to work in one arrangement.
+The aquifer, [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md), puts all three to work in one arrangement.
 
 ## What it does not say
 

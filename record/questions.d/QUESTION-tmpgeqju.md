@@ -18,13 +18,13 @@ summary: >-
   majority's legitimate authority to reform government cannot by itself
   justify extinguishing the underlying rights of a minority"; named in A90
   XII as a theory of "bounded constituent authority" that "remains
-  substantively unresolved". CLAIM-025 holds that the capacity to
+  substantively unresolved". [CLAIM-025](../claims.d/CLAIM-025.md) holds that the capacity to
   transform a governing organization persists or fails apart from it;
   nothing on the record says who may exercise that capacity or what it may
   not touch. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-685 — Proposed; the record's nearest entry on revising governing standards -->
-<!-- inactive-ok-file: CLAIM-tmp6vck6 QUESTION-tmptinzk — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange, Proposed or new -->
 
 # QUESTION-tmpgeqju: Who has standing to authorize changes to an arrangement's governing structure, by which procedures, and which protections lie beyond any ordinary delegation or revision of it?
 
@@ -56,26 +56,26 @@ that majority.
 
 ## What the record holds
 
-- **CLAIM-025** (Active): an operative regime, the governing organization
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** (Active): an operative regime, the governing organization
   among regimes, and the capacity to transform that organization can
   persist or fail separately. This is A's third capacity, without its
   allocation.
-- **CLAIM-685** (Proposed): institutions able to recognize, authorize and
+- **[CLAIM-685](../claims.d/CLAIM-685.md)** (Proposed): institutions able to recognize, authorize and
   carry out revisions of their own governing standards do better where
   the inherited standards are inadequate. It is about the benefit of the
   capacity, not who holds it.
-- **CLAIM-410** (Active): removing a constraint changes a profile of who
+- **[CLAIM-410](../claims.d/CLAIM-410.md)** (Active): removing a constraint changes a profile of who
   holds governing positions, revision among them. A90 XII cites it:
   "where the governing powers move, whose claims constrain them, and who
   can legitimately revise their allocation".
-- **QUESTION-041** (Open): which channels from members keep a whole's
+- **[QUESTION-041](QUESTION-041.md)** (Open): which channels from members keep a whole's
   course correctable, and whether losing them is losing the capacity to
   transform. It asks about channels, not about limits on what they may
   do.
 
-The limit half is where CLAIM-tmp6vck6 bears: if no delegation can confer
+The limit half is where [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) bears: if no delegation can confer
 authority to extinguish certain standing, then no reconstitution by those
-who delegated can either. QUESTION-tmptinzk asks whether rights of that
+who delegated can either. [QUESTION-tmptinzk](QUESTION-tmptinzk.md) asks whether rights of that
 kind can be had at all.
 
 ## What would count as an answer

@@ -41,7 +41,7 @@ summary: >-
   efficacy, given in answer to the owner's U31 (QUESTION-tmplax2r), by
   splitting legitimacy into the warrant of the obligations and the
   jurisdiction of the actor (CLAIM-tmpmeabu's separation) and adequacy
-  into a static and a dynamic part (CLAIM-560's). The filer corrects A's
+  into a static and a dynamic part ([CLAIM-560](CLAIM-560.md)'s). The filer corrects A's
   independence: the dynamic judgment implies the static one for the
   arrangements it reaches. The wording is A's, as corrected; adopting it
   is the owner's call.
@@ -74,14 +74,14 @@ The separations, each with a case:
 2. **Jurisdiction without adequacy.** A71: "A democratically authorized
    institution can possess legitimate authority while performing its
    obligations inadequately."
-3. **Adequacy without warrant or jurisdiction.** CLAIM-075: viability does
+3. **Adequacy without warrant or jurisdiction.** [CLAIM-075](CLAIM-075.md): viability does
    not establish what ought to persist. An arrangement can realize its
    obligations jointly when the obligations are unwarranted, or when the
    actor has seized the matter.
-4. **Static adequacy without dynamic.** CLAIM-560: a configuration can be
+4. **Static adequacy without dynamic.** [CLAIM-560](CLAIM-560.md): a configuration can be
    feasible at a budget at which it is unreachable from the present one;
    and an arrangement able to hold a compliant configuration may lack the
-   correctability (TERM-085) to restore it after a failure.
+   correctability ([TERM-085](../terms.d/TERM-085.md)) to restore it after a failure.
 
 One pair does not separate as A's table suggests. If an arrangement can
 reach a configuration meeting all its justified obligations, that
@@ -94,19 +94,19 @@ independent axis. The reverse implication fails, by 4.
 
 - **CLAIM-tmpmeabu** holds separation 1 for restrictions. This claim
   extends it to any obligation an authority is to serve.
-- **CLAIM-560** (Active, demonstrated) holds separation 4 for budgets.
+- **[CLAIM-560](CLAIM-560.md)** (Active, demonstrated) holds separation 4 for budgets.
   This claim applies it to the evaluation of an authority, with
   "permitted means" restricting the paths as A74 §3's Γ_N does.
 - **QUESTION-tmplax2r**, the owner's U31 ("from whence does a
   relationship, capability, or restriction derive legitimacy and/or
   adequacy?"), asks for the grounds. This claim says only that the four
   grounds are different questions; it answers none of them.
-- **QUESTION-129** stays open. A74 §9: "I don't think compatibility and
+- **[QUESTION-129](../questions.d/QUESTION-129.md)** stays open. A74 §9: "I don't think compatibility and
   reachability can derive the moral authority of a norm from nothing."
 
 "Answerability" in A74's label means reachability plus correctability,
-not the directed normative relation of TERM-tmp4zjar and
-CLAIM-tmpnhesz. The record should not read the two as one.
+not the directed normative relation of [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md) and
+[CLAIM-tmpnhesz](CLAIM-tmpnhesz.md). The record should not read the two as one.
 
 ## Admission
 
@@ -121,7 +121,7 @@ interpretive.
 - Not that adequacy is irrelevant to legitimacy. A74 §9's next thesis,
   that legitimate authority "may carry an obligation to maintain the
   capabilities reasonably necessary to fulfill the duties that justify
-  it", links them; that is a dated note on CLAIM-624, not part of this
+  it", links them; that is a dated note on [CLAIM-624](CLAIM-624.md), not part of this
   claim.
 - Not which of the four is prior, or how they are weighed in an overall
   verdict.

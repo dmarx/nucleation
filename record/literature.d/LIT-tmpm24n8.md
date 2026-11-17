@@ -37,7 +37,7 @@ summary: >-
   the exchange "Assess Depp Heard Abuse" (A57, A59, A76). The exchange
   uses its three protections of an entitlement to say what a fait accompli
   breach does to a consent-based protection; its third category,
-  inalienability rules, bears on the owner's U37 and on CLAIM-tmp6vck6.
+  inalienability rules, bears on the owner's U37 and on [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).
   What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp3t16f — filed from the same exchange (2026-11-17), Proposed -->
@@ -61,4 +61,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A57 (2026-11-16), the exchange's account of tort law as mechanism design, and used again in A59 and A76. It bears on CLAIM-tmpl0sgt (an irreversible act converts consent-based protection into compensation in practice), CLAIM-tmp3t16f (breach-induced remedial hold-up), QUESTION-tmpcz1ui and, through inalienability rules, CLAIM-tmp6vck6. The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A57 (2026-11-16), the exchange's account of tort law as mechanism design, and used again in A59 and A76. It bears on CLAIM-tmpl0sgt (an irreversible act converts consent-based protection into compensation in practice), CLAIM-tmp3t16f (breach-induced remedial hold-up), QUESTION-tmpcz1ui and, through inalienability rules, [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

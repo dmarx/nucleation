@@ -33,7 +33,7 @@ uses:
 - TERM-083
 summary: >-
   A's, A85 §2 and §4 of the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), at the owner's U37 (QUESTION-tmptinzk): three concepts,
+  (2026-11-17), at the owner's U37 ([QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md)): three concepts,
   "Exercise restriction", "Delegation of authority" and "Alienation of
   standing", and "**A person may relinquish control over particular
   decisions without thereby giving another unlimited authority to
@@ -48,7 +48,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: TERM-083 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: QUESTION-tmptinzk CASE-tmpgp2qo QUESTION-tmpgeqju — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CASE-tmpgp2qo — filed from the same exchange, Proposed or new -->
 
 # CLAIM-tmp6vck6: Inalienability is a limit on normative powers, not on exercise: a person may restrict the exercise of a right or delegate limited authority over decisions, and no delegation, contract, collective decision or success in imposing an arrangement thereby confers authority to determine whether that person keeps the standing from which claims against the arrangement arise, because the holder lacks the power to confer it
 
@@ -98,29 +98,29 @@ every broad waiver or arbitration agreement is legally invalid".
 Nothing on the record mentions inalienability, Hohfeld's incidents or
 waiver. The nearest entries:
 
-- **CASE-128** (Active): a person gives a friend the password and is
+- **[CASE-128](../cases.d/CASE-128.md)** (Active): a person gives a friend the password and is
   later refused it, against the same restriction imposed. It shows a
   delegation can be the person's own and hard to revoke. This claim
   marks where such self-binding stops: it can restrict exercise, and it
   cannot transfer the standing to object to the arrangement itself.
-- **QUESTION-454** (Open): what makes authority over another's body
+- **[QUESTION-454](../questions.d/QUESTION-454.md)** (Open): what makes authority over another's body
   legitimate when the other cannot decide. This claim limits what any
   answer can license.
-- **TERM-083** (Proposed): moral standing. "Standing" here is narrower:
+- **[TERM-083](../terms.d/TERM-083.md)** (Proposed): moral standing. "Standing" here is narrower:
   standing to make claims against an arrangement that governs one, which
   presupposes moral standing.
-- **TERM-124** (Proposed): domination as an unanswerable capacity to set
+- **[TERM-124](../terms.d/TERM-124.md)** (Proposed): domination as an unanswerable capacity to set
   another's terms. An arrangement that purports to own the delegator's
   standing is that capacity made total by consent; this claim says the
   consent cannot make it valid.
 
-CASE-tmpgp2qo is A85 §11's test of the claim: two informed, voluntary
+[CASE-tmpgp2qo](../cases.d/CASE-tmpgp2qo.md) is A85 §11's test of the claim: two informed, voluntary
 delegations, one limited and one purporting to be unlimited.
 
 ## What it does not say
 
 - Not which rights are inalienable, nor how to justify them; that is
-  QUESTION-tmptinzk. A85 §12: "We still need to justify the rights
+  [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). A85 §12: "We still need to justify the rights
   themselves, distinguish genuinely inalienable standing from rights that
   may legitimately be waived or restricted".
 - Not that inalienable means absolute. A87 §4 separates inalienable,
@@ -131,4 +131,4 @@ delegations, one limited and one purporting to be unlimited.
   record has not read them.
 - Not that a collective may override it. A85 §8: "A majority's legitimate
   authority to reform government cannot by itself justify extinguishing
-  the underlying rights of a minority" (QUESTION-tmpgeqju).
+  the underlying rights of a minority" ([QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md)).

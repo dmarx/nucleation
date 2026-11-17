@@ -37,7 +37,6 @@ summary: >-
   until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnhesz — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpea19q — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: TERM-tmp4zjar — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp41p2e: Analysing and Assessing Accountability: A Conceptual Framework
@@ -54,4 +53,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A83 (2026-11-17), at the owner's U35 on when power is answerable. It bears on QUESTION-tmpea19q, TERM-tmp4zjar (answerability) and CLAIM-tmpnhesz (answerability is directed and role-specific). Correction: the exchange names only "Mark Bovens's influential account"; this article is the standard statement of it. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A83 (2026-11-17), at the owner's U35 on when power is answerable. It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md), [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md) (answerability) and [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) (answerability is directed and role-specific). Correction: the exchange names only "Mark Bovens's influential account"; this article is the standard statement of it. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

@@ -19,15 +19,15 @@ summary: >-
   A's, A85 §11 Case A of the exchange "Assess Depp Heard Abuse"
   (2026-11-17), one of three matched constructions A offered to "expose
   what the inalienability premise actually adds", at the owner's U37
-  (QUESTION-tmptinzk). It holds procedural consent fixed and varies only
+  ([QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md)). It holds procedural consent fixed and varies only
   what the delegation purports to confer. It is the test case for
-  CLAIM-tmp6vck6. A85's Cases B and C are not filed: B (identical
+  [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). A85's Cases B and C are not filed: B (identical
   outcomes, different sources of authority) is folded into
-  CLAIM-tmpol7nz, and C (rights recognized against rights secured) is
-  CASE-229's pattern. Proposed because the construction is A's; adopting
+  [CLAIM-tmpol7nz](../claims.d/CLAIM-tmpol7nz.md), and C (rights recognized against rights secured) is
+  [CASE-229](CASE-229.md)'s pattern. Proposed because the construction is A's; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp6vck6 QUESTION-tmptinzk CLAIM-tmpol7nz — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmp6vck6 CLAIM-tmpol7nz — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CASE-229 — Proposed; the record's matched case for recognized against secured -->
 
 # CASE-tmpgp2qo: Voluntary submission against alienation of standing: two informed, voluntary delegations of consequential decisions, one limited and still governed by the delegator's protected claims, the other purporting to give the recipient unlimited authority to determine whether the delegator keeps any rights at all
@@ -54,13 +54,13 @@ objection?"
 
 It isolates the inalienability premise. Any theory on which valid consent
 is sufficient for valid authority treats the two delegations alike; a
-theory with CLAIM-tmp6vck6's limit on the holder's power to confer
+theory with [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md)'s limit on the holder's power to confer
 treats the second as conferring nothing beyond what the first does. The
 case does not decide between them. It shows what each commits to, so
 that a reader who finds the second delegation invalid has accepted a
 limit consent cannot cross.
 
-It is the self-binding case CASE-128 (Active) taken to its limit. There a
+It is the self-binding case [CASE-128](CASE-128.md) (Active) taken to its limit. There a
 person gives a friend a password and is refused it under temptation, and
 the record holds that the delegation can be the person's own and hard to
 revoke. Here the delegation would remove the standing from which the

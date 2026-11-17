@@ -38,7 +38,6 @@ summary: >-
   international practice, behind its distinction between legal, moral and
   human rights. What the exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: QUESTION-tmptinzk — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmphl1ss: Human Rights
 
@@ -54,4 +53,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A87 (2026-11-17). It bears on QUESTION-tmptinzk. A87 links it on its reading list; how much of §8 rests on it is to be checked on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A87 (2026-11-17). It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). A87 links it on its reading list; how much of §8 rests on it is to be checked on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

@@ -34,7 +34,6 @@ summary: >-
   for resisting the inference that what a record enumerates exhausts what
   is held. What the exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: QUESTION-tmptinzk — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp1xdz8: Constitution of the United States, Ninth Amendment
 
@@ -50,4 +49,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A85 (2026-11-17). It bears on QUESTION-tmptinzk (can institution-independent rights serve as the criteria the record's judgments need). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A85 (2026-11-17). It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) (can institution-independent rights serve as the criteria the record's judgments need). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

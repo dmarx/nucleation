@@ -36,7 +36,7 @@ summary: >-
   difference is whether a valid normative power was exercised.**" and
   N_t → N_{t+1} by a valid normative act against the recognized standards
   N̂_t → N̂_{t+1} by institutional deletion; A100 §13 lists "Legitimate
-  revision" among its research questions. CLAIM-361 requires a fixed
+  revision" among its research questions. [CLAIM-361](CLAIM-361.md) requires a fixed
   reference set and says a suppressed demand "has not been satisfied"; it
   does not say when the reference set may itself change. This does: by a
   valid power, and only so. The wording is A's; adopting it is the owner's
@@ -84,33 +84,33 @@ an authorized body can revise, the obligated institution cannot delete.
 
 ## How it sits with the record
 
-- **CLAIM-361** (Active), which this rests on: relief is judged against a
+- **[CLAIM-361](CLAIM-361.md)** (Active), which this rests on: relief is judged against a
   fixed reference set D₀, and "a demand excised or suppressed has changed
   the comparison and has not been satisfied". It keeps a correspondence
   between earlier and later demands recording whether each was
   "fulfilled, transferred, revised, suppressed, or abandoned". It does
   not say what licenses changing D₀. This claim supplies the license for
-  demands owed to others, and leaves CLAIM-361's constitutive revision of
+  demands owed to others, and leaves [CLAIM-361](CLAIM-361.md)'s constitutive revision of
   an organization's own demands where it is.
-- **CLAIM-662** (Proposed) and A97 IV's D_recognized against
+- **[CLAIM-662](CLAIM-662.md)** (Proposed) and A97 IV's D_recognized against
   D_warranted,N: the recognized set can move without the warranted one.
   This claim says how the warranted one moves.
-- **QUESTION-456** asks how the demand set is established defensibly when
+- **[QUESTION-456](../questions.d/QUESTION-456.md)** asks how the demand set is established defensibly when
   the organization's governance shapes it. This claim answers one part:
   removals are defensible when made by a valid power, held by the right
   party.
-- **CLAIM-tmpnb4v4**: a passage between rights, demands and commitments
+- **[CLAIM-tmpnb4v4](CLAIM-tmpnb4v4.md)**: a passage between rights, demands and commitments
   needs its own warrant. A release is one such passage.
-- **CLAIM-tmpa0wdv**: a claim persists through the loss of its remedy.
+- **[CLAIM-tmpa0wdv](CLAIM-tmpa0wdv.md)**: a claim persists through the loss of its remedy.
   Release is how it can end; making the remedy unreachable is not.
 
 ## What it does not say
 
 - Not which powers are valid. Some rights may not be releasable at all
-  (CLAIM-tmp6vck6's nonwaivability).
+  ([CLAIM-tmp6vck6](CLAIM-tmp6vck6.md)'s nonwaivability).
 - Not that an institution may never revise. "Policy revision" changes how
   valid obligations are pursued and needs only authorization; A97 V's
   point that fidelity can require revising a rule belongs there.
 - Not that a release obtained under pressure is valid. Validity is the
-  standard's question, and CLAIM-tmpa0wdv's part 3 bears on releases
+  standard's question, and [CLAIM-tmpa0wdv](CLAIM-tmpa0wdv.md)'s part 3 bears on releases
   obtained through the violation.

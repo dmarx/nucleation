@@ -86,7 +86,7 @@ unilaterally determine whether the constraint remains effective", is not a
 conjunct of the rule. It says what adequacy requires in the reflexive case:
 "the means by which their justified claims can become consequential must
 not depend in an unjustified way on the challenged actor's willingness to
-permit it." That is CLAIM-tmpcpijj's thesis, filed from the part before,
+permit it." That is [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md)'s thesis, filed from the part before,
 that authority over a decision is not authority over the conditions of its
 challenge. In the inference it narrows MaintainAdequate, not the premises.
 

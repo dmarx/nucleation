@@ -90,7 +90,7 @@ just distribution of friction.**"
 - **[CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)** (the owner's) says that friction is where
   intervention is possible; this says that friction is not one quantity,
   and whose friction is removed decides whose power grows.
-- **CLAIM-tmpcpijj** (from the same exchange) separates authority over a
+- **[CLAIM-tmpcpijj](CLAIM-tmpcpijj.md)** (from the same exchange) separates authority over a
   decision from authority over the conditions of its challenge. This is
   the cost-side counterpart: an institution can keep its authority as it
   was and still change what challenge costs.

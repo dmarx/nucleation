@@ -16,9 +16,9 @@ summary: >-
   of appointment, funding, information supply and revocation, asking
   whether the challenged actor can reach the corrective decision by paths
   other than the merits. The record holds the mechanisms by which
-  authority recycles through endorsement (CLAIM-277, CLAIM-282, CLAIM-330,
-  CLAIM-406) and the point that robustness lives in the processes that
-  allocate authority (CLAIM-359); none asks how independent an evaluator's
+  authority recycles through endorsement ([CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-282](../claims.d/CLAIM-282.md), [CLAIM-330](../claims.d/CLAIM-330.md),
+  [CLAIM-406](../claims.d/CLAIM-406.md)) and the point that robustness lives in the processes that
+  allocate authority ([CLAIM-359](../claims.d/CLAIM-359.md)); none asks how independent an evaluator's
   authority has to be from the evaluated. The wording is A's; adopting it
   is the owner's call.
 ---
@@ -45,24 +45,24 @@ professional network", a compliance function that depends on management
 
 The record has the mechanisms and not the criterion:
 
-- **CLAIM-282**: forbidding self-granting does not stop an operator from
+- **[CLAIM-282](../claims.d/CLAIM-282.md)**: forbidding self-granting does not stop an operator from
   amplifying its own authority through reciprocal and cyclic grants.
-- **CLAIM-330**: meaning and influence coupled can destabilize symmetry
+- **[CLAIM-330](../claims.d/CLAIM-330.md)**: meaning and influence coupled can destabilize symmetry
   exactly when βγ > (1 − α)(1 − δ). A81 §5 adds an exogenous evidence
   term e_t to the recognition equation; that does not change the
   instability condition, which concerns the homogeneous part.
-- **CLAIM-277** (trust from repeated endorsement) and **CLAIM-406** (an
+- **[CLAIM-277](../claims.d/CLAIM-277.md)** (trust from repeated endorsement) and **[CLAIM-406](../claims.d/CLAIM-406.md)** (an
   early exclusion kept going by the indicators that only being sought
   produces; the owner's, from 2026-10-20). Both show that the same loop
   can track competence or entrench privilege, and cannot tell which.
-- **CLAIM-359**: a self-governing organization's robustness to compromised
+- **[CLAIM-359](../claims.d/CLAIM-359.md)**: a self-governing organization's robustness to compromised
   constituents is a property of how it allocates, audits and revises
   authority.
 
 Each says how dependence of the evaluator on the evaluated can arise. None
 says how much is too much, or by which paths.
 
-"Provenance" here is TERM-100's formation and maintenance provenance,
+"Provenance" here is [TERM-100](../terms.d/TERM-100.md)'s formation and maintenance provenance,
 applied to an evaluator's authority: whose process produced it and whose
 keeps it.
 
@@ -84,7 +84,7 @@ presence of such a path does not prove capture."
   supplying data under audit, say), with the difference stated in terms of
   the graph: path type, weight, or whether a path passes through a party
   the actor cannot influence.
-- **A link to the dynamics.** A condition, in CLAIM-330's or CLAIM-282's
+- **A link to the dynamics.** A condition, in [CLAIM-330](../claims.d/CLAIM-330.md)'s or [CLAIM-282](../claims.d/CLAIM-282.md)'s
   terms, under which a provenance path lets the evaluated actor's
   recognition feed back into the evaluator's authority, so that
   independence at one time decays.
@@ -93,5 +93,5 @@ presence of such a path does not prove capture."
   differ in what a challenge can achieve.
 
 How independent the evaluator must be is the institutional side of
-CLAIM-tmpcpijj, that an actor's own judgment that it has met the claims
+[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md), that an actor's own judgment that it has met the claims
 constraining it cannot always establish that it has.

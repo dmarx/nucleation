@@ -20,7 +20,7 @@ summary: >-
   The question is the owner's; the wording of the alternatives and the test
   is A's, and adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmplidg6 CLAIM-tmpol7nz CLAIM-tmpyn6oi QUESTION-tmpkqvxv — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CLAIM-tmplidg6 CLAIM-tmpol7nz CLAIM-tmpyn6oi — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-624 TERM-083 THEORY-122 — Proposed; the record's nearest entries, cited with their standing -->
 
 # QUESTION-tmpk7u3e: Does the record's organizational account only supplement contractualism, or does it show an allocation or transformation of normative powers that reasonable rejection cannot explain without importing principles of standing or authority?
@@ -122,9 +122,9 @@ of whether its relationally indexed judgments can be objective about their
 standards is [QUESTION-129](QUESTION-129.md), which any answer here presupposes. The record's
 own pieces that a reply would use are [CLAIM-523](../claims.d/CLAIM-523.md) (legibility, volitional
 efficacy, correctability), [CLAIM-624](../claims.d/CLAIM-624.md) (a second-order duty of
-answerability), and from this exchange CLAIM-tmpol7nz (rights that protect a
+answerability), and from this exchange [CLAIM-tmpol7nz](../claims.d/CLAIM-tmpol7nz.md) (rights that protect a
 choice constrain policies, not histories), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) (rights organize
 later justification) and [CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md) (the baseline of options can be a
-product of the relationship). QUESTION-tmpkqvxv asks a narrower question
+product of the relationship). [QUESTION-tmpkqvxv](QUESTION-tmpkqvxv.md) asks a narrower question
 from the part before: whether evidence of organizational feasibility
 changes which principles can be reasonably rejected.

@@ -42,7 +42,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpc7shc — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnb4v4 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnhesz — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpea19q — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: TERM-tmp4zjar — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpr2bbq: The Second-Person Standpoint: Morality, Respect, and Accountability
@@ -61,4 +60,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A83 (2026-11-17). It bears on QUESTION-tmpea19q, CLAIM-tmpnhesz, TERM-tmp4zjar, CLAIM-tmpnb4v4 (rights, demands and commitments are distinct) and [CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md) (a demand's satisfaction condition does not carry its warrant). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A83 (2026-11-17). It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md), [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md), [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md), [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md) (rights, demands and commitments are distinct) and [CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md) (a demand's satisfaction condition does not carry its warrant). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

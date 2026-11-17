@@ -24,7 +24,7 @@ summary: >-
   realized bears on the standard. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp9vd9x QUESTION-tmpk7u3e — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CASE-tmp9vd9x — filed from the same exchange, Proposed or new -->
 
 # QUESTION-tmpkqvxv: How does evidence of what an arrangement can feasibly realize bear on which principles governing it can reasonably be rejected: can expanding what it can realize change which principles are justifiable, and do mistaken beliefs about feasibility distort that judgment?
 
@@ -55,17 +55,17 @@ question: "Do beliefs about institutional feasibility distort assessments
 of what burdens people can reasonably be asked to bear? Can constructive
 capability expansion change which principles become justifiable?"
 
-The record's apparatus takes the standard as input. CLAIM-347,
-CLAIM-586 and CLAIM-560 say what can be realized and reached under fixed
-demands; CLAIM-361 insists the demands stay fixed while relief is judged.
+The record's apparatus takes the standard as input. [CLAIM-347](../claims.d/CLAIM-347.md),
+[CLAIM-586](../claims.d/CLAIM-586.md) and [CLAIM-560](../claims.d/CLAIM-560.md) say what can be realized and reached under fixed
+demands; [CLAIM-361](../claims.d/CLAIM-361.md) insists the demands stay fixed while relief is judged.
 None says whether, or how, what is realizable should change which demands
-are fixed in the first place. CLAIM-075 blocks one direction (viability
+are fixed in the first place. [CLAIM-075](../claims.d/CLAIM-075.md) blocks one direction (viability
 does not establish what ought to persist); this question asks about the
 other.
 
 ## A case it can be put to
 
-The aquifer, CASE-tmp9vd9x: without recycling the two households' basic
+The aquifer, [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md): without recycling the two households' basic
 requirements and the sustainable yield cannot all be met; with it they
 can. A100 §10 compares three principles for the technology (unrestricted
 exclusion, compulsory uncompensated access, protected access with
@@ -88,8 +88,8 @@ miniature.
   feedback A proposes runs only from principle to demand.
 - **A distortion test.** A way to tell a rejection based on a mistaken
   belief about feasibility from one based on correct belief, and what
-  the record's reachability results (CLAIM-560) would contribute to
+  the record's reachability results ([CLAIM-560](../claims.d/CLAIM-560.md)) would contribute to
   correcting it.
 
-It sits beside QUESTION-tmpk7u3e, which asks whether the record's account
+It sits beside [QUESTION-tmpk7u3e](QUESTION-tmpk7u3e.md), which asks whether the record's account
 answers contractualism or only supplements it.

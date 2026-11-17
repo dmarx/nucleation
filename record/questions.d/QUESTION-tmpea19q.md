@@ -16,11 +16,11 @@ summary: >-
   governing capability? under what conditions is justification owed, to
   whom, and why?" Three parts, kept apart: the conditions that trigger the
   duty, its addressee, and its ground. The record has a second-order duty
-  of answerability (CLAIM-624), a scaling rule for accountability
-  (CLAIM-687) and a domination term relative to a declared standard of
-  answerability (TERM-124), and none of them says when the duty arises at
-  all. A83 is A's answer, filed as CLAIM-tmpnhesz with the term
-  TERM-tmp4zjar; its closing formal problem is carried here as a
+  of answerability ([CLAIM-624](../claims.d/CLAIM-624.md)), a scaling rule for accountability
+  ([CLAIM-687](../claims.d/CLAIM-687.md)) and a domination term relative to a declared standard of
+  answerability ([TERM-124](../terms.d/TERM-124.md)), and none of them says when the duty arises at
+  all. A83 is A's answer, filed as [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) with the term
+  [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md); its closing formal problem is carried here as a
   sub-question.
 ---
 <!-- inactive-ok-file: CLAIM-624 CLAIM-687 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
@@ -47,22 +47,22 @@ It has three parts that need not have one answer:
 - **Why.** What grounds the duty, as distinct from what makes it more or
   less demanding.
 
-The record holds pieces and not the question. CLAIM-624 states a
+The record holds pieces and not the question. [CLAIM-624](../claims.d/CLAIM-624.md) states a
 second-order duty, to keep violations knowable, contestable and
 correctable, and says it is "a verdict only given an independently
-justified standard". CLAIM-687 says how far accountability should rise
-with indispensability. TERM-124 makes domination relative to "a declared
-standard of answerability", which the record has not defined. QUESTION-460
+justified standard". [CLAIM-687](../claims.d/CLAIM-687.md) says how far accountability should rise
+with indispensability. [TERM-124](../terms.d/TERM-124.md) makes domination relative to "a declared
+standard of answerability", which the record has not defined. [QUESTION-460](QUESTION-460.md)
 asks who bears the obligations a whole grounds and on what ground, and
-QUESTION-468 asks who answers for exploitation. None asks when any actor
+[QUESTION-468](QUESTION-468.md) asks who answers for exploitation. None asks when any actor
 owes an answer at all.
 
 ## A's answer, and its own sub-question
 
 A83 answers it ("When Is Power Answerable?"). Its account is filed as
-CLAIM-tmpnhesz (grounds, roles and the limit), with the term
-TERM-tmp4zjar, and its principle that authority over a decision does not
-carry authority over the conditions of its challenge as CLAIM-tmpcpijj.
+[CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) (grounds, roles and the limit), with the term
+[TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md), and its principle that authority over a decision does not
+carry authority over the conditions of its challenge as [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).
 A83 §12 restates the owner's question as "**Why should anyone owe another
 person reasons at all?**" and admits that the formal account "needs a
 moral premise about the standing of agents"; that part stays open here.
@@ -73,7 +73,7 @@ A83 closes with a sharper problem that belongs to this question:
 
 It has two sides, as A says: protection against the power-holder, and
 protection against "domination through an unrestricted power to demand
-answers". The second is the limit CLAIM-tmpyqfrf files from part 7 of the
+answers". The second is the limit [CLAIM-tmpyqfrf](../claims.d/CLAIM-tmpyqfrf.md) files from part 7 of the
 exchange.
 
 ## What would count as an answer
@@ -87,12 +87,12 @@ exchange.
 - **A ground.** A reason the duty holds that is not the actor's capacity
   to be made to answer: second-personal standing, justifiability to those
   governed, or non-domination, as A83 §2 surveys them. Choosing among
-  them is QUESTION-129's problem in another form.
+  them is [QUESTION-129](QUESTION-129.md)'s problem in another form.
 - **For the sub-question,** a construction in which a claim of
-  answerability stays effective, by CLAIM-523's standard, while the
+  answerability stays effective, by [CLAIM-523](../claims.d/CLAIM-523.md)'s standard, while the
   claimant's powers over the actor are bounded, and a matched one in which
   widening those powers makes the claimant the dominating party.
 
 A negative answer would also count: an argument that answerability has no
 trigger independent of the standard declared with each judgment, so that
-the question reduces to choosing a standard (CLAIM-363).
+the question reduces to choosing a standard ([CLAIM-363](../claims.d/CLAIM-363.md)).
