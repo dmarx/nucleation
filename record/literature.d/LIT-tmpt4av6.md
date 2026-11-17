@@ -36,8 +36,6 @@ summary: >-
   says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpgeqju — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmptinzk — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpt4av6: The Declaration of Independence
 
@@ -53,4 +51,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A85 (2026-11-17), at the owner's U37. It bears on CLAIM-tmp6vck6, QUESTION-tmpgeqju (who has standing to change an arrangement's governing structure) and QUESTION-tmptinzk. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A85 (2026-11-17), at the owner's U37. It bears on [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md), [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) (who has standing to change an arrangement's governing structure) and [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

@@ -35,18 +35,18 @@ summary: >-
   A's answer, A83 §§3–5 and §10 of the exchange "Assess Depp Heard Abuse"
   (2026-11-17), to the owner's U36 ("when is answerability required of an
   authority or governing capability? under what conditions is
-  justification owed, to whom, and why?"), QUESTION-tmpea19q; A90 IV
+  justification owed, to whom, and why?"), [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md); A90 IV
   restates it with the remedier as a fourth role. Five grounds, "neither
   exhaustive nor mutually exclusive"; three roles, claim-holder,
   justification recipient and accountability forum; and a schema A calls
-  "a schema, not an independent derivation". CLAIM-687 scales one ground,
-  dependence; CLAIM-624 states the second-order duty that follows when an
+  "a schema, not an independent derivation". [CLAIM-687](CLAIM-687.md) scales one ground,
+  dependence; [CLAIM-624](CLAIM-624.md) states the second-order duty that follows when an
   answer is owed; this says when one is owed and to whom. The limit, that
   being affected confers no general authority, is filed apart as
-  CLAIM-tmpyqfrf. The wording is A's; adopting it is the owner's call.
+  [CLAIM-tmpyqfrf](CLAIM-tmpyqfrf.md). The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-687 CLAIM-624 CLAIM-682 TERM-083 CASE-229 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: QUESTION-tmpea19q CLAIM-tmpcpijj CLAIM-tmpyqfrf — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmpcpijj CLAIM-tmpyqfrf — filed from the same exchange, Proposed or new -->
 
 # CLAIM-tmpnhesz: Answerability is directed and role-specific: an actor owes an answer to a party with a claim concerning the matter, on one of several grounds that need not presuppose the actor's legitimate authority, among them interference with a protected interest, entrusted authority, collective rule, consequential dependence and control over recourse; the party owed, the recipient of reasons, the forum that judges and the party that remedies can differ; and what is owed is indexed to the claim, not to how much the party is affected
 
@@ -104,25 +104,25 @@ further grounds.
 
 ## How it sits with the record
 
-- **CLAIM-687** (Proposed) scales accountability with indispensability.
+- **[CLAIM-687](CLAIM-687.md)** (Proposed) scales accountability with indispensability.
   That is the dependence ground with an intensity. A83 §6 lists
   dependence among four "intensifiers" with discretion, irreversibility
   and control over recourse: "The grounds of answerability determine why
   something is owed; vulnerability and power asymmetry help determine what
   protections are required for it to be adequately honored." That
-  distinction is noted on CLAIM-687.
-- **CLAIM-682** (Proposed): A83 §3D cites it and adds "Dependence by itself
+  distinction is noted on [CLAIM-687](CLAIM-687.md).
+- **[CLAIM-682](CLAIM-682.md)** (Proposed): A83 §3D cites it and adds "Dependence by itself
   does not establish domination."
-- **CLAIM-624** (Proposed) states the second-order duty to keep the means
+- **[CLAIM-624](CLAIM-624.md)** (Proposed) states the second-order duty to keep the means
   of answer effective; A83 §11 restates it ("Ans_N … does not entail
   Feasible"). This claim is upstream: when there is a first-order answer
   to keep effective.
-- **TERM-083** (Proposed), moral standing apart from agency and legal
+- **[TERM-083](../terms.d/TERM-083.md)** (Proposed), moral standing apart from agency and legal
   personhood, is what lets the party owed differ from the party able to
   demand.
-- **CLAIM-tmpcpijj** files the fifth ground's consequence: authority over a
+- **[CLAIM-tmpcpijj](CLAIM-tmpcpijj.md)** files the fifth ground's consequence: authority over a
   decision does not carry authority over the conditions of its challenge.
-- **CLAIM-tmpyqfrf** files the limit A83 §9 Case A first states, "**Being
+- **[CLAIM-tmpyqfrf](CLAIM-tmpyqfrf.md)** files the limit A83 §9 Case A first states, "**Being
   affected by another's exercise of agency does not confer general
   authority to govern that agency.**", from its later form in part 7 of the
   exchange. Part 4 here depends on it: an index to claims, not to effects.
@@ -136,4 +136,4 @@ further grounds.
   person can be owed consideration or reasons without possessing a veto."
 - Not that a forum must exist for an answer to be owed. A83 §1: "One can
   owe an answer even when no adequate forum currently exists to demand
-  it." CASE-229 shows a matched pair with and without effective review.
+  it." [CASE-229](../cases.d/CASE-229.md) shows a matched pair with and without effective review.

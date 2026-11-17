@@ -53,4 +53,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A93 (2026-11-17). It bears on CASE-tmp9vd9x. Correction: the exchange names neither title nor year. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A93 (2026-11-17). It bears on [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md). Correction: the exchange names neither title nor year. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

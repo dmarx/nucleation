@@ -33,9 +33,9 @@ summary: >-
   A's, first stated A76 VIII.4 of the exchange "Assess Depp Heard Abuse"
   (2026-11-16) as "Adversarially robust correctability", refined A81 §3
   (2026-11-17) with claimant–institution policies and the split
-  Σ_permitted ⊆ Σ_physically available; A90 IX restates it. TERM-085's
+  Σ_permitted ⊆ Σ_physically available; A90 IX restates it. [TERM-085](../terms.d/TERM-085.md)'s
   correctability has no opponent. The robust quantity is the adversarial
-  form, and its quantifier order is the one CLAIM-537 found for
+  form, and its quantifier order is the one [CLAIM-537](CLAIM-537.md) found for
   disturbances. The permitted/available split separates an institution's
   inadequacy from an opponent's wrong: "This prevents us from defining
   wrongdoing solely through successful foreclosure." It came out of the
@@ -77,7 +77,7 @@ ultimately resists them successfully."
 The claim has three parts:
 
 1. **Robustness.** Where the opponent can act on the means of correction,
-   TERM-085's α_J overstates what the institution can do; the relevant
+   [TERM-085](../terms.d/TERM-085.md)'s α_J overstates what the institution can do; the relevant
    quantity is taken against a declared class of opposition.
 2. **Order of choice.** sup inf ≤ inf sup always holds, and the gap can be
    strict. A two-route example: correction succeeds if the corrector takes
@@ -96,15 +96,15 @@ standard fact about minimax, and the example is the filer's check of A's
 
 ## How it sits with the record
 
-- **TERM-085** (Active) defines correctability as sup over the
+- **[TERM-085](../terms.d/TERM-085.md)** (Active) defines correctability as sup over the
   arrangement's plans, with no opponent. This claim does not replace it;
   it is its adversarial form, for problems where the defendant is part of
   the environment.
-- **CLAIM-537** (Active) found the same quantifier order for a
+- **[CLAIM-537](CLAIM-537.md)** (Active) found the same quantifier order for a
   configuration against disturbances: one configuration for every
   disturbance (∃x ∀w), one per disturbance (∀w ∃x), and an
   observation-dependent case between. This is the corrective counterpart.
-- **CLAIM-568** (Active) sorts four ways a transition fails. A81 §3:
+- **[CLAIM-568](CLAIM-568.md)** (Active) sorts four ways a transition fails. A81 §3:
   "Our proposed model adds strategic actors who may influence which
   failure occurs."
 - **CLAIM-tmpyo35b** files the owner's siege: an objective made

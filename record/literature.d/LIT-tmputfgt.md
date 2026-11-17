@@ -62,4 +62,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A85 (2026-11-17) and used throughout A87-A102. It bears on CLAIM-tmpnb4v4, CLAIM-tmpssfc1 (a valid release of a demand differs from its suppression), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md), CLAIM-tmpcpijj and CLAIM-tmp6vck6. Its 1917 sequel (Yale Law Journal 26) is not registered. A's table is as the ledger reports: liberty is Hohfeld's "privilege", and immunity's correlative is disability. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A85 (2026-11-17) and used throughout A87-A102. It bears on [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md), [CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md) (a valid release of a demand differs from its suppression), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md), [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) and [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). Its 1917 sequel (Yale Law Journal 26) is not registered. A's table is as the ledger reports: liberty is Hohfeld's "privilege", and immunity's correlative is disability. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

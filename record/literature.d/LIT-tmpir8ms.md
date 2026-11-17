@@ -40,7 +40,6 @@ summary: >-
   it is unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmp9vd9x — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpgeqju — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpir8ms: Property and Ownership
 
@@ -56,4 +55,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A93 (2026-11-17). It bears on CASE-tmp9vd9x (the aquifer with privately owned recycling) and QUESTION-tmpgeqju. The exchange's "newly revised" is correct. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A93 (2026-11-17). It bears on [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md) (the aquifer with privately owned recycling) and [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md). The exchange's "newly revised" is correct. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

@@ -30,7 +30,7 @@ summary: >-
   needed one. The three-way split and the reachability bound are A's. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-tmptw59w CASE-tmp9vd9x QUESTION-tmpgeqju — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: ARG-tmptw59w CASE-tmp9vd9x — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmpes6ef: The duties to comply with a justified rule, to support a justified institution and to help establish a needed one are distinct and none follows from another, and the third is bounded by whether the needed arrangement can be reached from the present one by permissible, resource-bounded transitions and by whose part it is to contribute
@@ -82,11 +82,11 @@ owed meanwhile are all open.
   answerability. That is A's third illustration, a duty to maintain a
   capability, and it is grounded in an undertaken responsibility, not in
   the rule. The derivation A offers for it is [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md).
-- **CASE-tmp9vd9x**, filed from the part before, is the aquifer with
+- **[CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md)**, filed from the part before, is the aquifer with
   numbers: two households, a sustainable limit, and a recycling technology
   that makes all three demands compatible and that neither household can
   finance. It illustrates the gap this claim's bound names.
-- **QUESTION-tmpgeqju** asks who has standing to change an arrangement's
+- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md)** asks who has standing to change an arrangement's
   governing structure. The third duty is one source of an answer, and the
   claim leaves the question open.
 

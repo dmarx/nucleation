@@ -42,7 +42,7 @@ summary: >-
   contribution". It takes in A81 §14's proposed question on "The
   legitimacy of controlling the conditions of one's own accountability"
   and A85 §9's point that authority to administer a catalogue of rights is
-  not authority over its completeness. CLAIM-624 holds the duty to keep
+  not authority over its completeness. [CLAIM-624](CLAIM-624.md) holds the duty to keep
   violations contestable; this says who may set the terms of contest. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -92,28 +92,28 @@ conduct.
 
 ## How it sits with the record
 
-- **CLAIM-624** (Proposed): the second-order duty to maintain feasible
+- **[CLAIM-624](CLAIM-624.md)** (Proposed): the second-order duty to maintain feasible
   means for violations to become knowable, contestable and correctable.
   That duty presupposes that someone may set the terms of contest; this
   claim says the decider is not that someone by default.
-- **CLAIM-619** (Proposed): an organization disposed to answer a challenge
+- **[CLAIM-619](CLAIM-619.md)** (Proposed): an organization disposed to answer a challenge
   by reducing the capacity for future challenge. That is one way of
   exercising the second authority without justification.
-- **TERM-124** (Proposed): domination includes the capacity to set the
+- **[TERM-124](../terms.d/TERM-124.md)** (Proposed): domination includes the capacity to set the
   terms on which a party can contest, not answerable to it. This claim
   says what makes such a capacity need an answer: it is separate from
   the authority it would protect.
-- **CLAIM-359** and **CLAIM-282** (Active): authority can amplify itself
+- **[CLAIM-359](CLAIM-359.md)** and **[CLAIM-282](CLAIM-282.md)** (Active): authority can amplify itself
   through recognition loops even where self-granting is forbidden. A83 §7
   cites them for why preventing explicit self-authorization "may be
   insufficient". How independent the evaluator must be is
-  QUESTION-tmphoumu.
+  [QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md).
 - **QUESTION-tmpcz1ui** asks whether a party under a justified constraint
   may set or amplify the cost of making it effective, the owner's siege
   (CLAIM-tmpyo35b) put as a question. This claim does not answer it; it
   says the answer cannot come from the party's authority over the
-  constrained conduct. CLAIM-tmpbqunx gives the measure.
-- **CLAIM-tmpnhesz** lists "control over recourse" among the grounds of
+  constrained conduct. [CLAIM-tmpbqunx](CLAIM-tmpbqunx.md) gives the measure.
+- **[CLAIM-tmpnhesz](CLAIM-tmpnhesz.md)** lists "control over recourse" among the grounds of
   answerability. This is what that ground generates.
 
 ## What it does not say

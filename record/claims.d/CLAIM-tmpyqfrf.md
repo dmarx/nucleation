@@ -81,7 +81,7 @@ standard to answer to, so the duty does not arise.
 
 ## How it sits with the record
 
-- **CLAIM-tmpnhesz**, filed from the part before, holds that answerability
+- **[CLAIM-tmpnhesz](CLAIM-tmpnhesz.md)**, filed from the part before, holds that answerability
   is directed and role-specific, with A83's limit "Being affected by
   another's exercise of agency does not confer general authority to govern
   that agency." That limit and this counter are the same point in

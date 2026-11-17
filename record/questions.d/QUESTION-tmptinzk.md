@@ -16,15 +16,15 @@ summary: >-
   (2026-11-17): "what if we leverage the Founders' notion of "inalienable
   rights" as independent normative criteria to build on?" A proposal put
   as a question. The record's judgments of organizations are relative to
-  a standard declared with each judgment (CLAIM-363), and how such a
+  a standard declared with each judgment ([CLAIM-363](../claims.d/CLAIM-363.md)), and how such a
   standard can be objective, or the demand set established defensibly, is
-  open (QUESTION-129, QUESTION-456). The owner proposes a source of
+  open ([QUESTION-129](QUESTION-129.md), [QUESTION-456](QUESTION-456.md)). The owner proposes a source of
   standards that is independent of any institution by construction. A85
   takes it up ("your suggestion identifies a valuable way forward"); its
-  reconstruction of inalienability is filed as CLAIM-tmp6vck6. The adopted
+  reconstruction of inalienability is filed as [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). The adopted
   Declaration reads "unalienable".
 ---
-<!-- inactive-ok-file: CLAIM-tmp6vck6 CLAIM-tmpa0wdv CASE-tmpgp2qo QUESTION-tmpkqvxv — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmp6vck6 CLAIM-tmpa0wdv CASE-tmpgp2qo — filed from the same exchange, Proposed or new -->
 
 # QUESTION-tmptinzk: Can rights that no institution creates or can extinguish, the Founders' "unalienable rights", serve as the institution-independent criteria the record's normative judgments of organizations need, and what would such rights have to be to do so?
 
@@ -36,9 +36,9 @@ The owner, at U37 of the exchange "Assess Depp Heard Abuse"
 > what if we leverage the Founders' notion of "inalienable rights" as independent normative criteria to build on?
 
 The record judges organizations only relative to a declared standard
-(CLAIM-363). Whether such standards can be objective about themselves is
-QUESTION-129, and how an organization's demand set can be fixed when its
-own governance shapes it is QUESTION-456. The owner's move is to take as
+([CLAIM-363](../claims.d/CLAIM-363.md)). Whether such standards can be objective about themselves is
+[QUESTION-129](QUESTION-129.md), and how an organization's demand set can be fixed when its
+own governance shapes it is [QUESTION-456](QUESTION-456.md). The owner's move is to take as
 the standard rights that, by their own description, no institution
 creates and none can remove. If that works, the institution under judgment
 cannot set the terms of its judgment.
@@ -65,11 +65,11 @@ independent of institutions and still be justified, and what follows for
 the record's apparatus if they are.
 
 A85's own development is filed elsewhere: inalienability as a limit on
-what a delegation can confer (CLAIM-tmp6vck6, tested by CASE-tmpgp2qo),
+what a delegation can confer ([CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md), tested by [CASE-tmpgp2qo](../cases.d/CASE-tmpgp2qo.md)),
 and the persistence of a claim whose remedy has been made unreachable
-(CLAIM-tmpa0wdv). A100 later proposes Scanlon's contractualism as the
+([CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md)). A100 later proposes Scanlon's contractualism as the
 justification layer, with rights as "outputs of a justificatory inquiry";
-how feasibility evidence bears on that is QUESTION-tmpkqvxv.
+how feasibility evidence bears on that is [QUESTION-tmpkqvxv](QUESTION-tmpkqvxv.md).
 
 ## What would count as an answer
 
@@ -79,11 +79,11 @@ how feasibility evidence bears on that is QUESTION-tmpkqvxv.
   rights from rights an institution may validly create, waive or
   extinguish. A85 §12 lists this as "substantial" remaining work.
 - **Yes, as a provisional premise.** A showing that the record can take a
-  candidate set of rights as a declared standard, in CLAIM-363's sense,
+  candidate set of rights as a declared standard, in [CLAIM-363](../claims.d/CLAIM-363.md)'s sense,
   and that what it then concludes (about suppression, persistence,
   adequacy) does not depend on which justification is later accepted.
   That would make the rights independent of institutions without
-  answering QUESTION-129.
+  answering [QUESTION-129](QUESTION-129.md).
 - **No.** An argument that any criterion strong enough to judge
   institutions must be specified through some institution or practice, so
   that "institution-independent" rights collapse into the standards of a

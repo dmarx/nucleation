@@ -38,8 +38,6 @@ summary: >-
   answerability: rule must be justifiable by reasons meeting reciprocity
   and generality. What the exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: QUESTION-tmpea19q — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmphoumu — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: QUESTION-tmplax2r — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp09f2d: The Right to Justification: Elements of a Constructivist Theory of Justice
@@ -56,4 +54,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A83 (2026-11-17); named again in passing in A87. It bears on QUESTION-tmpea19q, QUESTION-tmphoumu and QUESTION-tmplax2r. An earlier statement is Forst, "The Basic Right to Justification", Constellations 6(1), 1999 (DOI 10.1111/1467-8675.00119), not registered. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A83 (2026-11-17); named again in passing in A87. It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md), [QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md) and QUESTION-tmplax2r. An earlier statement is Forst, "The Basic Right to Justification", Constellations 6(1), 1999 (DOI 10.1111/1467-8675.00119), not registered. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

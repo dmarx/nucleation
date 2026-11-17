@@ -111,7 +111,7 @@ neither reading of "accountability" is assumed.
   maintains a capacity, descriptively. Constitutive responsibility asks
   who is responsible for having done so, which needs a duty or a fault
   besides the provenance.
-- **Not answerability in TERM-tmp4zjar's sense** (filed from the part
+- **Not answerability in [TERM-tmp4zjar](TERM-tmp4zjar.md)'s sense** (filed from the part
   before), which is owed to someone through a forum. Remedial
   responsibility can include a duty to explain, and need not.
 - **Not [CLAIM-299](../claims.d/CLAIM-299.md)'s triad** (decision sufficiency, historical

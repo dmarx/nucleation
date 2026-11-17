@@ -39,7 +39,6 @@ summary: >-
   it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbqunx — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmphoumu — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: TERM-tmpsit04 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: LIT-1614 — Unavailable; cited with its standing -->
 
@@ -57,4 +56,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A83 (2026-11-17). It bears on TERM-tmpsit04 (protected contestability), CLAIM-tmpbqunx and QUESTION-tmphoumu. The record holds Pettit's *Republicanism* ([LIT-1614](LIT-1614.md), Unavailable), which is not the work A83 draws on. Correction: the exchange names no title; the idea is this book's. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A83 (2026-11-17). It bears on [TERM-tmpsit04](../terms.d/TERM-tmpsit04.md) (protected contestability), [CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md) and [QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md). The record holds Pettit's *Republicanism* ([LIT-1614](LIT-1614.md), Unavailable), which is not the work A83 draws on. Correction: the exchange names no title; the idea is this book's. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

@@ -18,8 +18,8 @@ summary: >-
   of objections under the governing normative framework", to be
   distinguished "from guaranteed success, unrestricted veto, or costless
   adjudication". A81 §11 gives the construction, an adequacy region and a
-  viability kernel over it. The record has correctability (TERM-085) and
-  viability of a system's own persistence (CLAIM-079), and no term for
+  viability kernel over it. The record has correctability ([TERM-085](TERM-085.md)) and
+  viability of a system's own persistence ([CLAIM-079](../claims.d/CLAIM-079.md)), and no term for
   contestability. Proposed:
   adopting it is the owner's call.
 ---
@@ -40,7 +40,7 @@ adjudication."
 
 A81 §11 makes it a set of states. With 𝒥_N(x) the corrective objectives
 the institution is obligated to support at state x, C_J^N(x) the robust,
-resource-bounded corrective capability for J (CLAIM-tmpbqunx) and δ_J a
+resource-bounded corrective capability for J ([CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md)) and δ_J a
 tolerance "part of a justified institutional specification, not universal
 constants", the adequacy region is
 
@@ -64,18 +64,18 @@ mistakes, thinner oversight staffing, heavier litigation requirements.
 
 ## What it is not
 
-- **Not correctability.** TERM-085 (Active) is the chance a plan reaches
+- **Not correctability.** [TERM-085](TERM-085.md) (Active) is the chance a plan reaches
   a corrective objective from the current state, with no opponent and no
   horizon of maintenance. This term is built from its robust form and
   asks that it hold over time; the two are in force side by side.
-- **Not the six-stage objection.** CLAIM-tmpi68s2 says what an effective
+- **Not the six-stage objection.** [CLAIM-tmpi68s2](../claims.d/CLAIM-tmpi68s2.md) says what an effective
   objection needs at one time. This term says when an arrangement keeps
   providing it.
-- **Not answerability.** TERM-tmp4zjar is the relation of owing an
+- **Not answerability.** [TERM-tmp4zjar](TERM-tmp4zjar.md) is the relation of owing an
   answer; this is one form of answer, contestation, as a maintained
   capability of the arrangement.
-- **Not viability of a system's own persistence** (CLAIM-079, Active;
-  CLAIM-625, Proposed, on viable histories). The set kept invariant here
+- **Not viability of a system's own persistence** ([CLAIM-079](../claims.d/CLAIM-079.md), Active;
+  [CLAIM-625](../claims.d/CLAIM-625.md), Proposed, on viable histories). The set kept invariant here
   is an adequacy region defined by obligations to others, not the
   system's survival set.
 - **Not a measure of whether wrongs occur.** A81 §11: "A system may
@@ -87,6 +87,6 @@ mistakes, thinner oversight staffing, heavier litigation requirements.
 Adoption is the owner's. A use in a claim would test it: a matched pair
 of arrangements with the same present corrective capability, one inside
 𝒱_N and one outside, differing only in what they maintain (a reserve,
-practised procedures, independent expertise). CLAIM-686 (Proposed), on
+practised procedures, independent expertise). [CLAIM-686](../claims.d/CLAIM-686.md) (Proposed), on
 where a dependent's claims fail of legibility, efficacy or
 correctability, is the nearest claim that could be restated in it.

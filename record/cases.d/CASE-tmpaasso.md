@@ -19,7 +19,7 @@ summary: >-
   competent patient, an applicable right of refusal, and no justified
   exception", restated as Policy A and Policy B with π_A(c) = c and
   π_B(c) = 1 in A102 §4, and generalized as the conditional rights-respect
-  test in A106 §15. Checked on filing. It grounds CLAIM-tmpol7nz's second
+  test in A106 §15. Checked on filing. It grounds [CLAIM-tmpol7nz](../claims.d/CLAIM-tmpol7nz.md)'s second
   separation, between realized history and policy. Proposed because the
   construction is A's; adopting it is the owner's call.
 ---
@@ -62,7 +62,7 @@ Resp_N(r, 1) = {intervene, refrain} and Resp_N(r, 0) = {refrain}.
 
 ## What it can show
 
-It is the construction CLAIM-tmpol7nz rests on: a right that protects a
+It is the construction [CLAIM-tmpol7nz](../claims.d/CLAIM-tmpol7nz.md) rests on: a right that protects a
 choice is a property of a policy over the protected choices. A97 III's
 other examples have the same form: an easement unused in a period, an
 appeal right never invoked, "A right of refusal can matter when a person
@@ -73,6 +73,6 @@ or that any actual institution behaves like B. An observed refusal
 overridden would show B's policy; consent observed, however often,
 cannot show A's.
 
-It bears on QUESTION-454, on authority to decide about another's body: the
+It bears on [QUESTION-454](../questions.d/QUESTION-454.md), on authority to decide about another's body: the
 question already presupposes a right of this kind, and the case says what
 respecting it consists in.

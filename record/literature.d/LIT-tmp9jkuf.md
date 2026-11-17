@@ -36,8 +36,6 @@ summary: >-
   the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpea19q — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpgeqju — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp9jkuf: The Virginia Declaration of Rights
 
@@ -53,4 +51,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A85 (2026-11-17), at the owner's U37. It bears on QUESTION-tmpgeqju, QUESTION-tmpea19q and CLAIM-tmp6vck6. A's date is correct. The ledger corrects A85 §3's gloss on the "majority" clause; check that on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A85 (2026-11-17), at the owner's U37. It bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md), [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md) and [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). A's date is correct. The ledger corrects A85 §3's gloss on the "majority" clause; check that on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

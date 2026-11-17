@@ -36,18 +36,18 @@ summary: >-
   A's, A79 §10 of the exchange "Assess Depp Heard Abuse" (2026-11-16), "The
   lifecycle of a protected objection", sharpened A81 §2 and §9
   (2026-11-17) and proposed for the record in A81 §14 as "Distributed
-  failure of effective objection". CLAIM-523 holds three achievements a
+  failure of effective objection". [CLAIM-523](CLAIM-523.md) holds three achievements a
   discrepancy needs to change what an organization does; this extends them
-  upstream to formulation (CLAIM-475, TERM-092) and downstream to the
+  upstream to formulation ([CLAIM-475](CLAIM-475.md), [TERM-092](../terms.d/TERM-092.md)) and downstream to the
   objector's sustaining the process and the correction's maintenance
-  (CLAIM-422). The bound is CLAIM-632's upper bound for a reserve; the
+  ([CLAIM-422](CLAIM-422.md)). The bound is [CLAIM-632](CLAIM-632.md)'s upper bound for a reserve; the
   composition failure is A81 §9's numbers, checked. A's further
-  "Adversarial control over contestability" is TERM-124 restricted to
+  "Adversarial control over contestability" is [TERM-124](../terms.d/TERM-124.md) restricted to
   contest and is not filed apart. The wording is A's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-632 TERM-124 TERM-086 CLAIM-686 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpbqunx QUESTION-tmpea19q TERM-tmpsit04 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmpbqunx TERM-tmpsit04 — filed from the same exchange, Proposed or new -->
 
 # CLAIM-tmpi68s2: A protected objection is effective only if six achievements hold together, its becoming formulable, legible, taken up by an authorized channel, sustainable by the objector, corrected and maintained, so an objection can fail at any of them while its formal standing is unchanged, its chance of success is no greater than that of its weakest stage, and a reform that raises one stage's success can lower the whole
 
@@ -90,29 +90,29 @@ produces those changes."
 
 ## How it sits with the record
 
-- **CLAIM-523** (Active): legibility, volitional efficacy and
+- **[CLAIM-523](CLAIM-523.md)** (Active): legibility, volitional efficacy and
   correctability. L is legibility; A and R split volitional efficacy and
   correctability between the authorized channel and the correction. This
   claim adds F, S and M.
-- **CLAIM-475** (Active, the owner's) and **TERM-092**: formulating a
+- **[CLAIM-475](CLAIM-475.md)** (Active, the owner's) and **[TERM-092](../terms.d/TERM-092.md)**: formulating a
   question is itself a resource-bounded realization. F is that, for an
-  objection. A79 §2 draws the link; it is noted on CLAIM-475.
-- **CLAIM-403** (Active): admission, recognition, credibility, uptake and
+  objection. A79 §2 draws the link; it is noted on [CLAIM-475](CLAIM-475.md).
+- **[CLAIM-403](CLAIM-403.md)** (Active): admission, recognition, credibility, uptake and
   revision of standards are separable. It is the same staging inside one
   inquiry; this claim follows an objection through to remedy.
-- **CLAIM-422** (Active): a corrective act, a procedure and a maintained
+- **[CLAIM-422](CLAIM-422.md)** (Active): a corrective act, a procedure and a maintained
   capacity differ. M is the last of these.
-- **CLAIM-632** (Proposed) bounds a reserve's readiness between the sum of
+- **[CLAIM-632](CLAIM-632.md)** (Proposed) bounds a reserve's readiness between the sum of
   its capacities' probabilities less n − 1 and the weakest. The upper
   bound is the bottleneck here.
-- **TERM-086** (Proposed): A81 §2 cites it for "Corrective adequacy is a
+- **[TERM-086](../terms.d/TERM-086.md)** (Proposed): A81 §2 cites it for "Corrective adequacy is a
   property of the organized sequence of capabilities".
-- **CLAIM-686** (Proposed) and **TERM-124** (Proposed): A79 §10's
+- **[CLAIM-686](CLAIM-686.md)** (Proposed) and **[TERM-124](../terms.d/TERM-124.md)** (Proposed): A79 §10's
   "Adversarial control over contestability", an actor's capacity to
-  influence any of the six stages, is TERM-124's domination restricted to
+  influence any of the six stages, is [TERM-124](../terms.d/TERM-124.md)'s domination restricted to
   contest. It is not filed as a separate term. Its robust measure is
-  CLAIM-tmpbqunx; the institutional property built on it is
-  TERM-tmpsit04.
+  [CLAIM-tmpbqunx](CLAIM-tmpbqunx.md); the institutional property built on it is
+  [TERM-tmpsit04](../terms.d/TERM-tmpsit04.md).
 
 ## What it does not say
 

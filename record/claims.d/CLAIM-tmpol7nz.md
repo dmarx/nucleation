@@ -42,8 +42,8 @@ summary: >-
   (powers and immunities as constraints on transition rules) and
   Proposition 2; restated with c, a and π_A(c) = c, π_B(c) = 1 in A102 §4
   and as a "conditional rights-respect test" in A106 §15. Demonstrated by
-  the two constructions, checked (CASE-tmpaasso). The record's
-  compatibility complex (CLAIM-347) is over configurations and CLAIM-523's
+  the two constructions, checked ([CASE-tmpaasso](../cases.d/CASE-tmpaasso.md)). The record's
+  compatibility complex ([CLAIM-347](CLAIM-347.md)) is over configurations and [CLAIM-523](CLAIM-523.md)'s
   standard over histories; neither can hold a right of this kind. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -79,7 +79,7 @@ Resp_N for both choices and B fails it at c = 0. So any evaluation that is
 a function of the realized history gives A and B the same verdict on that
 occasion, and respect for the right does not. A102 §4: "An endpoint-only
 evaluation of a history in which the individual consents cannot
-distinguish the policies." The construction is CASE-tmpaasso, checked.
+distinguish the policies." The construction is [CASE-tmpaasso](../cases.d/CASE-tmpaasso.md), checked.
 
 A's test for such a right r, with E_r(s) its protected exercises at s
 (A97 III):
@@ -113,27 +113,27 @@ it concerns exist, and which they are, is not part of it.
 
 ## How it sits with the record
 
-- **CLAIM-347** (Active): the compatibility complex over configurations
+- **[CLAIM-347](CLAIM-347.md)** (Active): the compatibility complex over configurations
   and acceptance sets. It is the endpoint level, and the record's
   representation of demands; this claim says where it stops.
-- **CLAIM-523** (Active): 𝓗_N, the histories satisfying a standard. That
+- **[CLAIM-523](CLAIM-523.md)** (Active): 𝓗_N, the histories satisfying a standard. That
   is the history level. This claim says some standards are not sets
   of histories.
-- **CASE-128** (Active): the same restriction delegated and imposed, "Both
+- **[CASE-128](../cases.d/CASE-128.md)** (Active): the same restriction delegated and imposed, "Both
   experience the same immediate restriction and may behave identically."
-  It is a case of the first separation; CLAIM-194 (Active) the general
+  It is a case of the first separation; [CLAIM-194](CLAIM-194.md) (Active) the general
   point that a boundary does not show whether it was made or imposed.
-- **TERM-124**, **CLAIM-545** and **TERM-118** (Proposed) read
+- **[TERM-124](../terms.d/TERM-124.md)**, **[CLAIM-545](CLAIM-545.md)** and **[TERM-118](../terms.d/TERM-118.md)** (Proposed) read
   domination and disposition off-path, as capacities "used or not". This
   claim is the rights-side counterpart: respect is a disposition over
   protected choices.
-- **CLAIM-353** (Active) and **LIT-285** (Sen, 1970): decisive jurisdiction
+- **[CLAIM-353](CLAIM-353.md)** (Active) and **[LIT-285](../literature.d/LIT-285.md)** (Sen, 1970): decisive jurisdiction
   over pairs of options conflicts with Pareto. The literature that
   represents rights as game forms (A97 III cites it; Gaertner, Pattanaik
   and Suzumura's "Individual rights revisited", 1992, is its usual
   reference, not yet read here) grew out of that conflict. It is where
   the policy level has been worked out.
-- **CLAIM-tmpnb4v4** separates rights from demands; this claim says what a
+- **[CLAIM-tmpnb4v4](CLAIM-tmpnb4v4.md)** separates rights from demands; this claim says what a
   right of choice requires that no demand can express.
 
 ## What it does not say

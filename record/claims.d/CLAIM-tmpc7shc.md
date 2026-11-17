@@ -71,7 +71,7 @@ and authority structures that govern how satisfaction may be achieved?"
 preferences": a right to authorize a decision "may require a particular
 procedure or response to a choice, regardless of whether the same physical
 endpoint could have been produced without authorization." That is
-CLAIM-tmpol7nz's point about rights that protect a choice; this claim
+[CLAIM-tmpol7nz](CLAIM-tmpol7nz.md)'s point about rights that protect a choice; this claim
 supplies the other half, that what is being made compatible may lack
 authority in the first place.
 
@@ -83,7 +83,7 @@ authority in the first place.
   acceptance-set representation in Nucleation's Active [TERM-060](../terms.d/TERM-060.md)". It is a
   re-indexing from transformations to histories more than a
   generalization. Nothing in the claim depends on the difference.
-- **CLAIM-tmpnb4v4**, filed from the part before, holds that a demand's
+- **[CLAIM-tmpnb4v4](CLAIM-tmpnb4v4.md)**, filed from the part before, holds that a demand's
   presence in an organization's maintained set gives it no warrant. This
   claim is the formal reason, stated for the record's own apparatus: the
   representation the apparatus uses for a demand cannot carry the warrant,

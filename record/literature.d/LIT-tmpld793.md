@@ -38,7 +38,6 @@ summary: >-
   read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpx1g4r — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmphoumu — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpld793: The Morality of Freedom
 
@@ -54,4 +53,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A83 (2026-11-17). It bears on CLAIM-tmpx1g4r (four separable judgments about an authority) and QUESTION-tmphoumu. The exchange names no work; the normal justification thesis is stated in this book. A later restatement is "The Problem of Authority: Revisiting the Service Conception", Minnesota Law Review 90 (2006), not registered. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A83 (2026-11-17). It bears on [CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md) (four separable judgments about an authority) and [QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md). The exchange names no work; the normal justification thesis is stated in this book. A later restatement is "The Problem of Authority: Revisiting the Service Conception", Minnesota Law Review 90 (2006), not registered. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

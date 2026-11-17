@@ -25,13 +25,13 @@ summary: >-
   as concrete normative criteria to build on?"): numbers and reachability
   in A93 §6, the private owner's leverage and four judgments in A97 VI,
   three governing principles in A100 §10. Every number was rechecked on
-  filing. Its first stage has CASE-212's shape (pairs met, triple not), but
+  filing. Its first stage has [CASE-212](CASE-212.md)'s shape (pairs met, triple not), but
   here a change of technology, not of budget, removes the conflict, with
-  the demands held fixed as CLAIM-361 requires. A93 §6 says "some pairs
+  the demands held fixed as [CLAIM-361](../claims.d/CLAIM-361.md) requires. A93 §6 says "some pairs
   are satisfiable"; all three pairs are. Proposed because the construction
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnb4v4 QUESTION-tmpkqvxv CLAIM-tmpx1g4r — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmpnb4v4 CLAIM-tmpx1g4r — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-669 — Proposed; the record's entries on control of the terms of a dependence -->
 
 # CASE-tmp9vd9x: The aquifer with privately owned recycling: two households each need four units of water service from an aquifer that sustains six units of extraction, so every pair of the three demands can be met and the three cannot; recycling that adds one unit of service each meets all three at three units of extraction apiece; with the recycler owned by one household, which can cut the other off and threatens to unless it yields voting authority, the physical conflict is solved and a dependence is turned into a claim to govern
@@ -88,26 +88,26 @@ description alone that P3 is the only reasonable principle."
 
 ## What it can show
 
-- **CLAIM-586** (Active): a set outside the complex under one
+- **[CLAIM-586](../claims.d/CLAIM-586.md)** (Active): a set outside the complex under one
   architecture can enter under another. Stage 1 to 2 is structural
   frustration removed by changing the architecture, with the reference set
-  fixed (CLAIM-361). CASE-212 is the contrast: there more budget never
+  fixed ([CLAIM-361](../claims.d/CLAIM-361.md)). [CASE-212](CASE-212.md) is the contrast: there more budget never
   helps.
-- **CLAIM-560** (Active): stage 3, a configuration feasible to hold and
+- **[CLAIM-560](../claims.d/CLAIM-560.md)** (Active): stage 3, a configuration feasible to hold and
   not reachable by the procedures available.
-- **CLAIM-690** (Proposed): stage 4. The magnitude of B's dependence is
+- **[CLAIM-690](../claims.d/CLAIM-690.md)** (Proposed): stage 4. The magnitude of B's dependence is
   the same whoever owns the recycler; who controls the terms of supply
-  decides whether it is A's hold on B. CLAIM-682 and CLAIM-669 (Proposed)
+  decides whether it is A's hold on B. [CLAIM-682](../claims.d/CLAIM-682.md) and [CLAIM-669](../claims.d/CLAIM-669.md) (Proposed)
   are the neighbouring entries on presumptive domination and exploitation
   through access.
-- **CLAIM-tmpnb4v4**: stage 4 separates rights, demands and commitments in
+- **[CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md)**: stage 4 separates rights, demands and commitments in
   one arrangement. The demands stay jointly satisfiable and A's
   commitment holds, while A lacks the authority it claims.
-- **QUESTION-tmpkqvxv**: whether the recycler's existence changes which of
+- **[QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md)**: whether the recycler's existence changes which of
   P1–P3 could reasonably be rejected, and not only which demands can be
   met.
 
-The four judgments of A97 VI are not those of A74 §9 (CLAIM-tmpx1g4r):
+The four judgments of A97 VI are not those of A74 §9 ([CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md)):
 they replace jurisdiction with rights legitimacy and add commitment
 fidelity.
 

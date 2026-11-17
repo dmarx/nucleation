@@ -29,7 +29,7 @@ summary: >-
   exercises of justified authority". No Hohfeld and no rights theory is
   held on the record. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnb4v4 CLAIM-tmpol7nz QUESTION-tmpk7u3e — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpnb4v4 CLAIM-tmpol7nz — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 
 # CLAIM-tmplidg6: Rights organize later justification: once justified, rights and normative powers become part of the structure within which further justification occurs, fixing which later undertakings are valid, by whom and with what effect, so rights can be prior in organization to later exercises of authority even where principles are prior to them in justification
 
@@ -76,11 +76,11 @@ constituted, maintained, altered, or made practically ineffective**".
   is the other side: a right, once constituted, governs which later acts
   are valid, and so is among the conditions under which later authority is
   exercised.
-- **CLAIM-tmpnb4v4** (filed from the part before) holds that rights,
+- **[CLAIM-tmpnb4v4](CLAIM-tmpnb4v4.md)** (filed from the part before) holds that rights,
   demands and commitments are distinct and that each passage between them,
   a valid undertaking generating a right among them, needs its own
   warrant. This claim says what a right does once the passage is made.
-- **CLAIM-tmpol7nz** holds that a right protecting a choice constrains a
+- **[CLAIM-tmpol7nz](CLAIM-tmpol7nz.md)** holds that a right protecting a choice constrains a
   policy, not a realized history. Both claims locate a right's work in
   structure rather than in any one outcome.
 - **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md)** asks whether the record's account only supplements
