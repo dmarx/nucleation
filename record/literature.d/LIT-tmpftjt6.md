@@ -37,7 +37,7 @@ summary: >-
   Violence, & Abuse* 27(2): 360–376. DOI 10.1177/15248380251316193. Here
   because A cites it in the exchange "Assess Depp Heard Abuse" as A's
   evidence on how often violence is reported by both partners when both
-  are asked. It bears on CLAIM-tmpkivlz and CASE-tmpzt3zf. What the
+  are asked. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). What the
   exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -52,4 +52,4 @@ Carla Smith Stover, Alison Krauss, Julie Yeterian, Lauren DeMoss, Melissa Funaro
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's evidence on how often violence is reported by both partners when both are asked. It bears on CLAIM-tmpkivlz and CASE-tmpzt3zf. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's evidence on how often violence is reported by both partners when both are asked. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). Not read.

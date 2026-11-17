@@ -43,7 +43,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: LIT-tmpgoyge — registered unread from the same exchange (2026-11-17), Deferred -->
 <!-- inactive-ok-file: LIT-tmplag34 — registered unread from the same exchange (2026-11-17), Deferred -->
-<!-- inactive-ok-file: QUESTION-tmpk7u3e — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: QUESTION-tmpkqvxv — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: QUESTION-tmplax2r — filed from the same exchange (2026-11-17), Proposed -->
 
@@ -61,4 +60,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A71 (2026-11-16) and A100 (2026-11-17). It bears on QUESTION-tmpk7u3e (does the organizational account answer contractualism), QUESTION-tmpkqvxv, QUESTION-tmplax2r and CLAIM-tmplidg6. The record held no Scanlon work but an MIT course page (LIT-1856). His later revisions are LIT-tmpgoyge and LIT-tmplag34. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A71 (2026-11-16) and A100 (2026-11-17). It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) (does the organizational account answer contractualism), QUESTION-tmpkqvxv, QUESTION-tmplax2r and [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md). The record held no Scanlon work but an MIT course page ([LIT-1856](LIT-1856.md)). His later revisions are [LIT-tmpgoyge](LIT-tmpgoyge.md) and [LIT-tmplag34](LIT-tmplag34.md). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

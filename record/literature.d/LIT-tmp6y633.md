@@ -39,7 +39,7 @@ summary: >-
   10.1093/oso/9780197639986.001.0001. Here because A cites it in the
   exchange "Assess Depp Heard Abuse" as the coercive-control scholarship
   A cites for the insight that abuse is a pattern of domination, not a
-  count of violent acts. It bears on CLAIM-tmpkivlz and CASE-tmpzt3zf.
+  count of violent acts. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md).
   What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -54,4 +54,4 @@ Evan Stark (2007). *Coercive Control: How Men Entrap Women in Personal Life*. Ne
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A3 as the coercive-control scholarship A cites for the insight that abuse is a pattern of domination, not a count of violent acts. It bears on CLAIM-tmpkivlz and CASE-tmpzt3zf. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A3 as the coercive-control scholarship A cites for the insight that abuse is a pattern of domination, not a count of violent acts. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). Not read.

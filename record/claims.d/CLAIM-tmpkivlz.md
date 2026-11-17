@@ -32,8 +32,8 @@ summary: >-
   the ongoing relationship. "Two people can both be guilty under question
   1, while one bears substantially greater responsibility under question
   3." The separation holds because domination is a capacity, used or not
-  (TERM-124), while a tally counts exercises. The Carol and Dan
-  construction (CASE-tmpzt3zf) shows the two answers pointing opposite
+  ([TERM-124](../terms.d/TERM-124.md)), while a tally counts exercises. The Carol and Dan
+  construction ([CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)) shows the two answers pointing opposite
   ways. The owner's U1 left "both of them" open as an answer; U2 asked for
   the distinction in general. The wording is A's; adopting it is the
   owner's call.
@@ -63,7 +63,7 @@ harmful thing they did." The method follows: "Neither method should
 replace the other. Both the specific physical acts and the larger pattern
 matter."
 
-Why they separate, in the record's terms: TERM-124 makes domination a
+Why they separate, in the record's terms: [TERM-124](../terms.d/TERM-124.md) makes domination a
 capacity, "used or not", to set the terms on which another can act, exit,
 contest or renegotiate. A count of acts, however complete, counts uses. A3
 §3's six questions (can each say no, keep friends, spend money, leave the
@@ -75,24 +75,24 @@ failures of care, and failures of honesty aren't straightforwardly
 commensurable", so "there may be no uniquely correct answer to the
 question *Who was the worse person?*", while "There can nevertheless be
 clear answers to more specific questions". That is responsibility as a
-profile without a total order. It is the shape CLAIM-354 gives freedom
+profile without a total order. It is the shape [CLAIM-354](CLAIM-354.md) gives freedom
 (a partial order, "not a scalar"); the claim does not need it and does not
 assert it.
 
 ## How it sits with the record
 
-- **TERM-124** supplies the capacity sense of domination that makes the
+- **[TERM-124](../terms.d/TERM-124.md)** supplies the capacity sense of domination that makes the
   separation hold; the claim is the first in the record to set it against
   an act ledger in a relationship between two persons.
-- **CLAIM-682** is a test for domination by an arrangement's controllers;
-  **CLAIM-690** separates the magnitude of a dependence from who controls
+- **[CLAIM-682](CLAIM-682.md)** is a test for domination by an arrangement's controllers;
+  **[CLAIM-690](CLAIM-690.md)** separates the magnitude of a dependence from who controls
   its terms. This claim separates a third thing, harm done act by act,
   from both.
-- **CLAIM-545**'s last clause, "domination is another's capacity to govern
+- **[CLAIM-545](CLAIM-545.md)**'s last clause, "domination is another's capacity to govern
   those same relations, used or not", is the general statement the second
   question applies.
 - The senses of responsibility at stake (for a particular act, for the
-  pattern or conditions) are TERM-tmp8pnnr's; a verdict in one sense does
+  pattern or conditions) are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s; a verdict in one sense does
   not carry to another.
 
 ## What it does not say

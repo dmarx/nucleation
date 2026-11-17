@@ -59,7 +59,7 @@ assessment of blame":
 Three of its parts are this claim: blame is not accountability; an agent
 not at fault for its reasons is still accountable for the effects of
 acting on them; incapacity leaves the need for correction where it was.
-The fourth, blame as provenance for upstream actors, is CLAIM-tmpixmhp.
+The fourth, blame as provenance for upstream actors, is [CLAIM-tmpixmhp](CLAIM-tmpixmhp.md).
 
 A110 §1 states the owner's point as three judgments that can hold together
 of JoJo's wrongful order to imprison someone: the act is wrongful, his
@@ -85,8 +85,8 @@ sanction", and proposes "**remedial and institutional accountability**"
 for "responsibilities that survive diminished culpability".
 
 The record follows that note. "Accountable" in the owner's sentence is
-TERM-tmp8pnnr's **remedial** sense: who owes prevention, relief, repair or
-explanation. It is not THEORY-147's accountability (Wolf's: answerability
+[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s **remedial** sense: who owes prevention, relief, repair or
+explanation. It is not [THEORY-147](../theory.d/THEORY-147.md)'s accountability (Wolf's: answerability
 to the reactive attitudes, needing only that the agent acted wrongly and
 was in a position to know it), and not Watson's accountability face. In
 those senses the claim would be false or trivial. A110 attributes the
@@ -125,7 +125,7 @@ this claim directly: "correcting the ongoing violation should not have to
 await a complete determination of everyone's historical culpability", and
 "designing a system that makes immediate relief conditional on first
 resolving every dispute about blame could itself create a procedural
-obstacle to honoring the claimant's rights". That last is CLAIM-464's
+obstacle to honoring the claimant's rights". That last is [CLAIM-464](CLAIM-464.md)'s
 mechanism, a procedure that makes a correction costlier, applied to blame
 itself. It is carried here as a consequence, not filed as a claim of its
 own.
@@ -139,21 +139,21 @@ own.
   culpable for everything that happened." The owner's U47 takes that
   distinction to the case where the agent's moral competence itself is
   impaired, and adds the provenance clause.
-- **THEORY-147** (Wolf's 2013 lecture, LIT-747) holds that attributability
+- **[THEORY-147](../theory.d/THEORY-147.md)** (Wolf's 2013 lecture, [LIT-747](../literature.d/LIT-747.md)) holds that attributability
   and accountability are independent kinds of responsibility. That is a
   neighbouring split in a different sense of accountability (above).
-- **THEORY-207** (Floridi) allocates responsibility for distributed
+- **[THEORY-207](../theory.d/THEORY-207.md)** (Floridi) allocates responsibility for distributed
   outcomes "without fault or intention". It is a reading that the
   allocation of remedial responsibility can be faultless, and would
   corroborate this claim for networks of agents.
-- **QUESTION-068** (Deferred) asks whether accountability needs normative
+- **[QUESTION-068](../questions.d/QUESTION-068.md)** (Deferred) asks whether accountability needs normative
   competence. On the remedial sense this claim answers no; on Wolf's
-  (THEORY-122) the question stays where it is.
-- **CLAIM-624**'s duty of answerability already holds a correction owed
+  ([THEORY-122](../theory.d/THEORY-122.md)) the question stays where it is.
+- **[CLAIM-624](CLAIM-624.md)**'s duty of answerability already holds a correction owed
   without fault for organizations that keep a harm unrecognized; this claim
   is the general statement for any agent, persons included.
 - The responsibility graph and the non-substitution principle built on it
-  are CLAIM-tmp4o53g; the self-induced incapacity is CLAIM-tmp0wx69.
+  are [CLAIM-tmp4o53g](CLAIM-tmp4o53g.md); the self-induced incapacity is [CLAIM-tmp0wx69](CLAIM-tmp0wx69.md).
 
 ## What it does not say
 

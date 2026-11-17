@@ -19,9 +19,9 @@ summary: >-
   reasons-responsiveness: "This feels like it connects nicely to "Reasons
   Responsiveness" theories like Susan Wolf's." The link is the owner's,
   and A108 §2–3 and A110 §13 develop it. Strictly, Wolf's is the Reason
-  View, a condition of normative competence (THEORY-122), and the
+  View, a condition of normative competence ([THEORY-122](../theory.d/THEORY-122.md)), and the
   reasons-responsiveness theory in the technical sense is Fischer and
-  Ravizza's (THEORY-121); A108 §2 keeps them apart itself. The wording of
+  Ravizza's ([THEORY-121](../theory.d/THEORY-121.md)); A108 §2 keeps them apart itself. The wording of
   the definition is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp0wx69 CLAIM-tmp69o4u CLAIM-tmpsk25g — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
@@ -46,7 +46,7 @@ and one that enforces its own requirements. A108 §7: "**the capacity to
 enforce rules and the capacity to be governed by justified reasons are not
 the same capability**". The mark of the first is the final clause, what A108
 §3 calls responding "to reasons **about its own ways of responding to
-reasons**": the second-order responsiveness of CLAIM-tmp69o4u.
+reasons**": the second-order responsiveness of [CLAIM-tmp69o4u](../claims.d/CLAIM-tmp69o4u.md).
 
 A108 §3 gives the pathway the capacity runs through: a normatively relevant
 circumstance, recognition, normative uptake, effective response, and
@@ -65,8 +65,8 @@ evaluation, authority and execution.
 - **A108 §7** adds reasons "concerning the legitimacy of its own rules, the
   allocation of authority, and the adequacy of its procedures".
 - **A110 §13** keeps the second-order clause and adds the two qualifying
-  paragraphs, the second of which ties the term to CLAIM-tmpsk25g and
-  CLAIM-tmp0wx69.
+  paragraphs, the second of which ties the term to [CLAIM-tmpsk25g](../claims.d/CLAIM-tmpsk25g.md) and
+  [CLAIM-tmp0wx69](../claims.d/CLAIM-tmp0wx69.md).
 
 ## The link to reasons-responsiveness (the owner's)
 
@@ -76,8 +76,8 @@ and separates the two theories the owner's phrase joins: Wolf "emphasizes
 the agent's capacity to recognize and act on appropriate moral reasons",
 while Fischer and Ravizza "develop a more explicit theory of **moderate
 reasons-responsiveness**", of a mechanism's receptivity and reactivity. On
-the record these are THEORY-122 (Wolf's Reason View, Proposed, read only
-second-hand) and THEORY-121 (Fischer and Ravizza, Active). THEORY-122
+the record these are [THEORY-122](../theory.d/THEORY-122.md) (Wolf's Reason View, Proposed, read only
+second-hand) and [THEORY-121](../theory.d/THEORY-121.md) (Fischer and Ravizza, Active). [THEORY-122](../theory.d/THEORY-122.md)
 notes that the survey it relies on counts Wolf among reasons-responsiveness
 views in the broad sense, so the owner's phrase is a fair broad usage.
 
@@ -100,7 +100,7 @@ reasons-responsiveness".
   earlier vocabulary of corrigibility. It locates the normative issue in
   the justified allocation of governing relationships rather than in the
   maximal susceptibility of an agent to correction." The record disclaims
-  an unconditional duty of corrigibility (CLAIM-511, ARG-058).
+  an unconditional duty of corrigibility ([CLAIM-511](../claims.d/CLAIM-511.md), [ARG-058](../arguments.d/ARG-058.md)).
 - **Not obedience.** A108 §6: "An institution is not normatively governable
   because it obeys challengers." "The word *appropriately* matters" (A106
   §18).
@@ -110,8 +110,8 @@ reasons-responsiveness".
   processes, with what authority and practical efficacy.**"
 - **Not compliance.** A106 §18 separates justification, compliance and
   "Governability by reasons"; identical decisions can come from different
-  capacities (CLAIM-tmp69o4u).
-- **Not CLAIM-545's freedom of will.** CLAIM-545 (Proposed) is a will's
+  capacities ([CLAIM-tmp69o4u](../claims.d/CLAIM-tmp69o4u.md)).
+- **Not [CLAIM-545](../claims.d/CLAIM-545.md)'s freedom of will.** [CLAIM-545](../claims.d/CLAIM-545.md) (Proposed) is a will's
   governance of its own governability. This term names the same reflexive
   structure for an organized agent or relationship, judged against
   justified standards rather than the agent's own.
@@ -119,7 +119,7 @@ reasons-responsiveness".
 ## Would replace or add
 
 It adds. No TERM names the institutional capacity; the nearest are
-CLAIM-523's three achievements (Active), which it extends with maintenance
-and second-order revision, and TERM-085's correctability. It would be
-settled by a claim stated in it that the record adopts; CLAIM-tmp69o4u is
+[CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements (Active), which it extends with maintenance
+and second-order revision, and [TERM-085](TERM-085.md)'s correctability. It would be
+settled by a claim stated in it that the record adopts; [CLAIM-tmp69o4u](../claims.d/CLAIM-tmp69o4u.md) is
 the first candidate.

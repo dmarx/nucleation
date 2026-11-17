@@ -40,8 +40,8 @@ summary: >-
   DOI 10.1007/978-94-010-9051-3. Second edition, Kluwer 2001, DOI
   10.1007/978-94-017-0691-9. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as named by A as Lefebvre's later book on
-  mathematical models of ethical cognition. It bears on CLAIM-tmp76x3e,
-  LIT-1339 and CLAIM-404, beside Lefebvre's 1980 paper, registered with
+  mathematical models of ethical cognition. It bears on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md),
+  [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md), beside Lefebvre's 1980 paper, registered with
   it. A does not say which edition it means. What the exchange says of
   it is unverified until read.
 ---
@@ -58,4 +58,4 @@ Vladimir A. Lefebvre (1982). *Algebra of Conscience: A Comparative Analysis of W
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A11 as named by A as Lefebvre's later book on mathematical models of ethical cognition. It bears on CLAIM-tmp76x3e, LIT-1339 and CLAIM-404, beside Lefebvre's 1980 paper, registered with it. A does not say which edition it means. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A11 as named by A as Lefebvre's later book on mathematical models of ethical cognition. It bears on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md), [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md), beside Lefebvre's 1980 paper, registered with it. A does not say which edition it means. Not read.

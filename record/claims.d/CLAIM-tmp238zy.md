@@ -27,16 +27,16 @@ grounds:
 - LIT-2283
 summary: >-
   A's, from A23 §7 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
-  developing the owner's U11 (CLAIM-tmp11xvc): "**A system can make
+  developing the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)): "**A system can make
   individuals think harder while leaving the institution's authority
   completely untouched.**" Cognitive friction, as in Buçinca, Malaya and
-  Gajos's cognitive forcing functions (LIT-2283, read), makes people
+  Gajos's cognitive forcing functions ([LIT-2283](../literature.d/LIT-2283.md), read), makes people
   "think"; political friction makes institutions "answerable" through
   protected refusal, independent review and suspension. The perverse case:
   "The system demands that humans exercise judgment, then treats that
   demand as evidence that the humans owned the resulting decisions", which
-  A calls "a possible *moral crumple zone* mechanism" (CLAIM-tmpb47ul).
-  It rests on CLAIM-349, on which access to a signal, its authority over
+  A calls "a possible *moral crumple zone* mechanism" ([CLAIM-tmpb47ul](CLAIM-tmpb47ul.md)).
+  It rests on [CLAIM-349](CLAIM-349.md), on which access to a signal, its authority over
   action and action on it are separable. The wording is A's; adopting it
   is the owner's call.
 ---
@@ -53,7 +53,7 @@ separates two things often grouped as "designed friction".
 - **Cognitive friction: make people think.** Interface interventions that
   keep people from accepting recommendations too readily, such as forming
   a judgment before the AI's is shown. A cites Buçinca, Malaya and Gajos
-  (2021), which the record has read (LIT-2283).
+  (2021), which the record has read ([LIT-2283](../literature.d/LIT-2283.md)).
 - **Political friction: make institutions answerable.** "An employee can
   refuse an unsafe instruction without retaliation. An applicant can
   obtain independent review of a consequential denial. An affected group
@@ -75,17 +75,17 @@ convenient repository of blame**".
 
 ## How it sits with the record
 
-- **CLAIM-349** (Active, the owner's): access to a signal, its authority
+- **[CLAIM-349](CLAIM-349.md)** (Active, the owner's): access to a signal, its authority
   over action and action on it are separable. Cognitive friction works on
   access; political friction on authority. The claim rests on it for that
   split.
-- **CLAIM-tmpb47ul** (same exchange): blame lands where failure becomes
+- **[CLAIM-tmpb47ul](CLAIM-tmpb47ul.md)** (same exchange): blame lands where failure becomes
   visible and credit goes to the system. The perverse case is one way that
   happens, and the claim rests on it for that part.
-- **LIT-2283** grounds only the cognitive half: forcing functions exist and
+- **[LIT-2283](../literature.d/LIT-2283.md)** grounds only the cognitive half: forcing functions exist and
   can reduce overreliance. It says nothing about authority.
-- CLAIM-tmpohafo's interruption right is political friction stated as an
-  entitlement of the affected party; CLAIM-tmp11xvc is the owner's thesis
+- [CLAIM-tmpohafo](CLAIM-tmpohafo.md)'s interruption right is political friction stated as an
+  entitlement of the affected party; [CLAIM-tmp11xvc](CLAIM-tmp11xvc.md) is the owner's thesis
   both refine.
 
 ## What it does not say

@@ -39,8 +39,8 @@ summary: >-
   10.1108/JEET-06-2026-0034. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as what A calls the most direct contemporary
   parallel to the owner's U11 on procedural friction. It bears on
-  CLAIM-tmp11xvc (the owner's U11: automation reduces procedural
-  friction, where intervention is possible) and CLAIM-tmph28l6. What the
+  [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (the owner's U11: automation reduces procedural
+  friction, where intervention is possible) and [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md). What the
   exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp11xvc CLAIM-tmph28l6 — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -55,4 +55,4 @@ Sid Ahmed El Hebri Harid (2026). The ethical friction deficit: rethinking contes
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 and A23 as what A calls the most direct contemporary parallel to the owner's U11 on procedural friction. It bears on CLAIM-tmp11xvc (the owner's U11: automation reduces procedural friction, where intervention is possible) and CLAIM-tmph28l6. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 and A23 as what A calls the most direct contemporary parallel to the owner's U11 on procedural friction. It bears on [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (the owner's U11: automation reduces procedural friction, where intervention is possible) and [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md). Not read.

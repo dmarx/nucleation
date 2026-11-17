@@ -39,7 +39,7 @@ summary: >-
   Violence, & Abuse* 25(1): 630–647. DOI 10.1177/15248380231162972. Here
   because A cites it in the exchange "Assess Depp Heard Abuse" as A's
   evidence that coercive control has trauma and mental-health effects of
-  its own. It bears on CLAIM-tmpkivlz, on why coercive control is
+  its own. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), on why coercive control is
   assessed apart from counts of violent acts. What the exchange says of
   it is unverified until read.
 ---
@@ -55,4 +55,4 @@ Susanne Lohmann, Sean Cowlishaw, Luke Ney, Meaghan O’Donnell and Kim Felmingha
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's evidence that coercive control has trauma and mental-health effects of its own. It bears on CLAIM-tmpkivlz, on why coercive control is assessed apart from counts of violent acts. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's evidence that coercive control has trauma and mental-health effects of its own. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), on why coercive control is assessed apart from counts of violent acts. Not read.

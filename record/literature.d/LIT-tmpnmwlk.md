@@ -42,15 +42,15 @@ summary: >-
   5: 40–60. DOI 10.17351/ests2019.260. Here because A cites it in the
   exchange "Assess Depp Heard Abuse" as the source of the moral crumple
   zone, the concept A builds its account of asymmetric moral
-  accountability on from A15 onward. It is the work CLAIM-tmpb47ul
+  accountability on from A15 onward. It is the work [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)
   (asymmetric moral accountability: moral crumple zones and privileged
-  irresponsibility) rests on, and it bears on QUESTION-tmpvoufs and
-  CLAIM-tmpe5u7i. Choroszewicz's study of public-sector practitioners
+  irresponsibility) rests on, and it bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) and
+  [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md). Choroszewicz's study of public-sector practitioners
   (registered beside it) applies the concept to generative AI. The
   anthology may want it for AI oversight. What the exchange says of it
   is unverified until read.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul CLAIM-tmpe5u7i QUESTION-tmpvoufs — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpb47ul CLAIM-tmpe5u7i — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmpnmwlk: Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction
 
@@ -62,4 +62,4 @@ Madeleine Clare Elish (2019). Moral Crumple Zones: Cautionary Tales in Human-Rob
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A15 and A17 (also A19, A26, A37, A49) as the source of the moral crumple zone, the concept A builds its account of asymmetric moral accountability on from A15 onward. It is the work CLAIM-tmpb47ul (asymmetric moral accountability: moral crumple zones and privileged irresponsibility) rests on, and it bears on QUESTION-tmpvoufs and CLAIM-tmpe5u7i. Choroszewicz's study of public-sector practitioners (registered beside it) applies the concept to generative AI. The anthology may want it for AI oversight. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A15 and A17 (also A19, A26, A37, A49) as the source of the moral crumple zone, the concept A builds its account of asymmetric moral accountability on from A15 onward. It is the work [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) (asymmetric moral accountability: moral crumple zones and privileged irresponsibility) rests on, and it bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) and [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md). Choroszewicz's study of public-sector practitioners (registered beside it) applies the concept to generative AI. The anthology may want it for AI oversight. Not read.

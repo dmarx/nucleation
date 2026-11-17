@@ -38,7 +38,7 @@ summary: >-
   Other Essays* (Routledge, 2008), DOI 10.4324/9780203882566. Here
   because A cites it in the exchange "Assess Depp Heard Abuse" as one of
   A's two accounts of blame (reactive attitudes), set against Scanlon's.
-  It bears on CLAIM-tmpa2l21 and on what blame is, beside Scanlon's
+  It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) and on what blame is, beside Scanlon's
   *Moral Dimensions*, registered with it. What the exchange says of it
   is unverified until read.
 ---
@@ -54,4 +54,4 @@ P. F. Strawson (1962). Freedom and Resentment. *Proceedings of the British Acade
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as one of A's two accounts of blame (reactive attitudes), set against Scanlon's. It bears on CLAIM-tmpa2l21 and on what blame is, beside Scanlon's *Moral Dimensions*, registered with it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as one of A's two accounts of blame (reactive attitudes), set against Scanlon's. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) and on what blame is, beside Scanlon's *Moral Dimensions*, registered with it. Not read.

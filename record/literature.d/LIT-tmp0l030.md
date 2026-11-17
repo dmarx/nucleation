@@ -34,8 +34,8 @@ summary: >-
   Philosophy* 22(1–2): 1–20. DOI 10.1163/17455243-20234097. Here because
   A cites it in the exchange "Assess Depp Heard Abuse" as A attributes
   to Eggert the point that a dirty-hands predicament can be wrongfully
-  created by someone else. It bears on CLAIM-tmpa2l21 (second-order
-  wrongdoing) and CLAIM-tmp76x3e. What the exchange says of it is
+  created by someone else. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) (second-order
+  wrongdoing) and [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). What the exchange says of it is
   unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpa2l21 — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -50,4 +50,4 @@ Linda Eggert (2023). Dirty Hands Defended. *Journal of Moral Philosophy* 22(1–
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A9 as A attributes to Eggert the point that a dirty-hands predicament can be wrongfully created by someone else. It bears on CLAIM-tmpa2l21 (second-order wrongdoing) and CLAIM-tmp76x3e. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A9 as A attributes to Eggert the point that a dirty-hands predicament can be wrongfully created by someone else. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) (second-order wrongdoing) and [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). Not read.

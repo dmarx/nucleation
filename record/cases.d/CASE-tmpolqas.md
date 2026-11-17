@@ -67,21 +67,21 @@ is not an arm.
 
 Fictional, it shows that the separations are coherent: one act, one harm
 and one state of knowledge are compatible with different upstream
-responsibility, so CLAIM-tmpixmhp's divergence can occur with nothing else
-different. For the second arm, CLAIM-tmp0wx69: the incapacity that leaves
+responsibility, so [CLAIM-tmpixmhp](../claims.d/CLAIM-tmpixmhp.md)'s divergence can occur with nothing else
+different. For the second arm, [CLAIM-tmp0wx69](../claims.d/CLAIM-tmp0wx69.md): the incapacity that leaves
 the official blameless is the product of a superior's earlier decision.
 
 It cannot show that the superior's removal breached a duty. The case says
 "deliberately removed", not "wrongfully"; that needs the maintenance duty
-(CLAIM-624, ARG-tmptw59w). As A says of its Case C, a finding that a
+([CLAIM-624](../claims.d/CLAIM-624.md), [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md)). As A says of its Case C, a finding that a
 capability is lacking "is descriptive", and a finding of violation "requires
-an additional normative premise". It also does not reach QUESTION-449's
+an additional normative premise". It also does not reach [QUESTION-449](../questions.d/QUESTION-449.md)'s
 own case, a mechanism installed by an outside party: both arms here are
 internal to one institution. It bears on that question by showing that
 formation history changes who is responsible while present behaviour does
 not.
 
-It differs from CASE-229 (Proposed), which holds harm and remedy fixed
+It differs from [CASE-229](CASE-229.md) (Proposed), which holds harm and remedy fixed
 and varies whether an institution kept its duty to maintain review, with
 the institution as the bearer. Here the bearers differ within one
 institution: frontline and superior.

@@ -30,7 +30,7 @@ summary: >-
   (2026-11-17), written at the owner's U46, which offered Trump-era
   immigration policy as a demonstration of an institution manufacturing
   moral authority through its own requirements. The documented specimen is
-  CASE-tmpoe934 (the 75-country immigrant-visa pause, vacated on
+  [CASE-tmpoe934](../cases.d/CASE-tmpoe934.md) (the 75-country immigrant-visa pause, vacated on
   2026-08-21). A's "moralization of administrative criteria" generalizes
   the owner's "moralize racist policies"; the idea of the specimen is the
   owner's, and the mechanism and its wording are A's. Adopting it is the
@@ -46,13 +46,13 @@ The owner's U46 of the exchange "Assess Depp Heard Abuse"
 (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), quoting A106
 §4's "Without that distinction, an institution could effectively manufacture
 moral authority by creating and maintaining internal requirements"
-(CLAIM-tmpc7shc):
+([CLAIM-tmpc7shc](CLAIM-tmpc7shc.md)):
 
 > immigration policies under the trump administration (which have functionally closed off all avenues of legal immigration in an effort to moralize racist policies) are a good demonstration of what this can look like in practice.
 
 A108 §4 takes the documented part of it, the 75-country immigrant-visa pause
 and its vacatur in *Catholic Legal Immigration Network, Inc. v. Rubio*
-(CASE-tmpoe934), and states the structure. With E(x) for an applicant's
+([CASE-tmpoe934](../cases.d/CASE-tmpoe934.md)), and states the structure. With E(x) for an applicant's
 meeting the individualized eligibility requirements and B(x) for the
 nationality-based restriction applying, the arrangement set Issue(x) = 0
 whenever B(x) = 1, even where E(x) = 1. "This is not a full model of
@@ -92,17 +92,17 @@ the claim keeps the mechanism and leaves the motive to evidence (below).
 
 ## How it sits with the record
 
-- **CLAIM-tmpc7shc** is what it rests on: a maintained requirement carries
+- **[CLAIM-tmpc7shc](CLAIM-tmpc7shc.md)** is what it rests on: a maintained requirement carries
   no warrant of its own. This claim is the case where the requirement is
   made a gate on an entitlement.
-- **CLAIM-086** (Active): a constraint may govern conduct without governing
+- **[CLAIM-086](CLAIM-086.md)** (Active): a constraint may govern conduct without governing
   the conditions under which it remains authoritative. Here the authority
   governs conduct through a criterion it had, by the court's finding, no
   authority to impose.
-- **CLAIM-464** (Active): an intervention can make a correction costlier
+- **[CLAIM-464](CLAIM-464.md)** (Active): an intervention can make a correction costlier
   or unreachable while the standards stay the same. The gate is one way:
   the statutory standard stood, and evidence under it stopped counting.
-- **CLAIM-535** (Active) and **CLAIM-348** (Active) hold the
+- **[CLAIM-535](CLAIM-535.md)** (Active) and **[CLAIM-348](CLAIM-348.md)** (Active) hold the
   representational version: a policy acting on an observation that merges
   circumstances the standard separates cannot be acceptable in all of them.
   The gate is that merging done by decision, not by a limit of
@@ -114,7 +114,7 @@ the claim keeps the mechanism and leaves the motive to evidence (below).
   operation of a restriction can be documented independently of a
   conclusion about the subjective motives of everyone who designed or
   implemented it." The owner's reading of the motive is recorded in
-  CASE-tmpoe934 as the owner's; this claim does not depend on it.
+  [CASE-tmpoe934](../cases.d/CASE-tmpoe934.md) as the owner's; this claim does not depend on it.
 - Not that the claim is shown by the case to hold of immigration policy
   generally. The owner's "functionally closed off all avenues of legal
   immigration" is broader than the documented pause; A108 §1 calls it "too

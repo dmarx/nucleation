@@ -40,12 +40,12 @@ summary: >-
   exchange "Assess Depp Heard Abuse" as named by A as the book in which
   Tronto develops privileged irresponsibility further and treats the
   distribution of care responsibilities as a matter of democratic
-  justice. It bears on CLAIM-tmpb47ul and QUESTION-tmpvoufs, beside
+  justice. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md), beside
   *Moral Boundaries*, registered with it. A's pointer to particular
   chapters ("chapters 2 and 4") is unverified. What the exchange says of
   it is unverified until read.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul QUESTION-tmpvoufs — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpb47ul — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmpsm285: Caring Democracy: Markets, Equality, and Justice
 
@@ -57,4 +57,4 @@ Joan C. Tronto (2013). *Caring Democracy: Markets, Equality, and Justice*. New Y
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 as named by A as the book in which Tronto develops privileged irresponsibility further and treats the distribution of care responsibilities as a matter of democratic justice. It bears on CLAIM-tmpb47ul and QUESTION-tmpvoufs, beside *Moral Boundaries*, registered with it. A's pointer to particular chapters ("chapters 2 and 4") is unverified. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 as named by A as the book in which Tronto develops privileged irresponsibility further and treats the distribution of care responsibilities as a matter of democratic justice. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md), beside *Moral Boundaries*, registered with it. A's pointer to particular chapters ("chapters 2 and 4") is unverified. Not read.

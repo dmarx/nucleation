@@ -61,4 +61,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A93 (2026-11-17), with A92, A97, A100 and A106. It bears on QUESTION-tmpgeqju, CASE-tmp9vd9x and CLAIM-tmpcpijj (authority over a decision is not authority over the conditions of its challenge). The record holds Ostrom's Nobel lecture (LIT-719, Active) and *Governing the Commons* (LIT-737, Unavailable), not this article. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A93 (2026-11-17), with A92, A97, A100 and A106. It bears on QUESTION-tmpgeqju, CASE-tmp9vd9x and CLAIM-tmpcpijj (authority over a decision is not authority over the conditions of its challenge). The record holds Ostrom's Nobel lecture ([LIT-719](LIT-719.md), Active) and *Governing the Commons* ([LIT-737](LIT-737.md), Unavailable), not this article. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

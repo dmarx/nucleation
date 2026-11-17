@@ -39,8 +39,8 @@ summary: >-
   in the exchange "Assess Depp Heard Abuse" as A's source for the
   distinction between recourse and contestability: counterfactual
   explanations leave the institution's upstream choices as background.
-  It bears on CLAIM-tmpohafo (explanation, contestation and interruption
-  are separate rights) and CLAIM-410. The anthology may want it. What
+  It bears on [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (explanation, contestation and interruption
+  are separate rights) and [CLAIM-410](../claims.d/CLAIM-410.md). The anthology may want it. What
   the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpohafo — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -55,4 +55,4 @@ Mattia Cerrato, Otto Sahlgren and Xenia Heilmann (2026). Taking the Whys Serious
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between recourse and contestability: counterfactual explanations leave the institution's upstream choices as background. It bears on CLAIM-tmpohafo (explanation, contestation and interruption are separate rights) and CLAIM-410. The anthology may want it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between recourse and contestability: counterfactual explanations leave the institution's upstream choices as background. It bears on [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (explanation, contestation and interruption are separate rights) and [CLAIM-410](../claims.d/CLAIM-410.md). The anthology may want it. Not read.

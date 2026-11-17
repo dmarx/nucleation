@@ -38,13 +38,13 @@ summary: >-
   commitments" (U8). The owner's U6, on Russian reflexive control "as a
   grey tactic", is the turn that brought reflexive control into the
   exchange; the owner's earlier reflexive-control turn is held as
-  CLAIM-404, which governs an organization through its evidence or its
+  [CLAIM-404](CLAIM-404.md), which governs an organization through its evidence or its
   criteria. This adds a route through the situation itself: the target's
   evidence is accurate and its criteria unchanged, and its decision moves
   because the world it rightly responds to was moved. "Normative manipulation" is A's label, "a useful label rather than a settled technical term" (A12), and is not filed as a term. The wording is A's; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpbzq36 CLAIM-tmpe5u7i — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-tmpe5u7i — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 <!-- inactive-ok-file: THEORY-225 CLAIM-690 CLAIM-660 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmp76x3e: An agent can be governed through its own sound values, without being deceived and without any change in its criteria, by a party that changes the situation those values respond to, so that the agent has a genuine reason, even a duty, to do what the party wants; a commitment becomes exploitable in this way when the party controls the circumstances that trigger it while avoiding the costs of fulfilling it
@@ -80,7 +80,7 @@ option that B doesn't possess**". A15 §2 lists what a commitment offers to
 whoever controls its trigger: predictability, credibility, motivational
 force and legitimacy.
 
-**In the record's terms.** CLAIM-404's evidence route moves a*(e) =
+**In the record's terms.** [CLAIM-404](CLAIM-404.md)'s evidence route moves a*(e) =
 argmax_a E[U(a, ω) | e] by moving the evidence e with U fixed; its criteria
 route moves U. Here neither moves: the manipulator changes ω, the target's
 evidence of it is accurate, and a* moves because ω did. Stated that way the
@@ -91,21 +91,21 @@ bears what fulfilling it costs.
 
 ## How it sits with the record
 
-- **CLAIM-404** (Active, the owner's) is the claim this adds a route to, so
+- **[CLAIM-404](CLAIM-404.md)** (Active, the owner's) is the claim this adds a route to, so
   the claim rests on it.
-- **THEORY-225** reads Noggle: manipulation has no single mechanism. This
+- **[THEORY-225](../theory.d/THEORY-225.md)** reads Noggle: manipulation has no single mechanism. This
   is one mechanism, and A's boundary below keeps it from becoming a
   definition.
-- **CLAIM-690** puts the weight of a dependence on who controls its terms,
+- **[CLAIM-690](CLAIM-690.md)** puts the weight of a dependence on who controls its terms,
   exit among them. A commitment that makes withdrawal a moral failure
-  removes exit from inside the agent; QUESTION-tmpbzq36 asks whether
+  removes exit from inside the agent; [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md) asks whether
   activating it is control over the terms.
-- **QUESTION-071** asks what tells a manipulated will from an effective
+- **[QUESTION-071](../questions.d/QUESTION-071.md)** asks what tells a manipulated will from an effective
   one. Here nothing in the target's present structure is defective, which
   is the hardest case for any present-structure test.
-- **CLAIM-660** (parasites acting through a host's own machinery) is the
+- **[CLAIM-660](CLAIM-660.md)** (parasites acting through a host's own machinery) is the
   biological analogue.
-- CLAIM-tmpe5u7i is the institutional, unintended form: an arrangement that
+- [CLAIM-tmpe5u7i](CLAIM-tmpe5u7i.md) is the institutional, unintended form: an arrangement that
   comes to rely on members' commitments to supply what it does not fund.
 
 ## What it does not say

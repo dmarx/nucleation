@@ -43,7 +43,7 @@ summary: >-
   DOI 10.1016/j.giq.2026.102128. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's empirical application of Elish's
   concept to generative-AI tools in two Finnish public organizations. It
-  bears on CLAIM-tmpb47ul as empirical evidence for its mechanism,
+  bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) as empirical evidence for its mechanism,
   beside Elish's paper, registered with it. The anthology may want it
   for AI deployment. What the exchange says of it is unverified until
   read.
@@ -60,4 +60,4 @@ Marta Choroszewicz (2026). Positioning public sector practitioners as ‘moral c
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 and A19 as A's empirical application of Elish's concept to generative-AI tools in two Finnish public organizations. It bears on CLAIM-tmpb47ul as empirical evidence for its mechanism, beside Elish's paper, registered with it. The anthology may want it for AI deployment. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 and A19 as A's empirical application of Elish's concept to generative-AI tools in two Finnish public organizations. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) as empirical evidence for its mechanism, beside Elish's paper, registered with it. The anthology may want it for AI deployment. Not read.

@@ -25,10 +25,10 @@ summary: >-
   (2026-11-17), "Private property shows why answerability must be
   bounded", with A106 §17's last example. Filed as a counter, at full
   strength, on behalf of a holder of legitimate private discretion,
-  against CLAIM-687's rising duty of accountability and its "no deference
+  against [CLAIM-687](CLAIM-687.md)'s rising duty of accountability and its "no deference
   to ownership as such". A itself puts it as a limit the theory must keep,
   not as an objection to its own view; the record files it as the
-  objection it would be to CLAIM-687 read without its scope. The wording is
+  objection it would be to [CLAIM-687](CLAIM-687.md) read without its scope. The wording is
   A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnhesz — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
@@ -59,12 +59,12 @@ universal duty of consultation from the mere existence of influence".
 
 ## Against what
 
-CLAIM-687 (Proposed) holds that the accountability those who control an
+[CLAIM-687](CLAIM-687.md) (Proposed) holds that the accountability those who control an
 arrangement owe should rise with how indispensable it has become, and that
 "those affected owe no deference to expertise or ownership as such". Read
 without its scope, as a duty that rises with effect on others, it meets
 this counter: effect on others is not dependence, and ownership can be a
-ground for not answering. CLAIM-687 survives if it is read as it is
+ground for not answering. [CLAIM-687](CLAIM-687.md) survives if it is read as it is
 stated, about arrangements others have come to depend on, and the counter
 then marks where its slope starts. A gives the limits on the sphere
 itself: an easement the owner may not obstruct, actionable harm to
@@ -73,9 +73,9 @@ neighbours, and ownership acquired "through unjust dispossession", whose
 autonomy without establishing unlimited sovereignty over everything
 affected by the owner's actions."
 
-Against CLAIM-624 the counter has less purchase. That duty of
+Against [CLAIM-624](CLAIM-624.md) the counter has less purchase. That duty of
 answerability is owed only given an independently justified standard and a
-feasible alternative, and ARG-058 bounds it by obligation, capability and
+feasible alternative, and [ARG-058](../arguments.d/ARG-058.md) bounds it by obligation, capability and
 reasonable alternatives. A protected sphere is a case in which there is no
 standard to answer to, so the duty does not arise.
 
@@ -88,10 +88,10 @@ standard to answer to, so the duty does not arise.
   different settings: there it bounds a thesis about the grounds of
   answerability; here it is pressed against a thesis that would scale the
   duty.
-- **CLAIM-410** (Active) treats governance as a profile of governing
+- **[CLAIM-410](CLAIM-410.md)** (Active) treats governance as a profile of governing
   positions; a protected sphere is one in which those positions are
   assigned to the holder.
-- **TERM-124** (Proposed) relativizes domination to a declared standard of
+- **[TERM-124](../terms.d/TERM-124.md)** (Proposed) relativizes domination to a declared standard of
   answerability. This counter says that standard can assign some decisions
   to no one but their holder.
 

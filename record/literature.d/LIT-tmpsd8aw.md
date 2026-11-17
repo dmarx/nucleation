@@ -41,8 +41,8 @@ summary: >-
   PMLR 81 (2018). Here because A cites it in the exchange "Assess Depp
   Heard Abuse" as A's formal demonstration of self-validating
   classification: deployment choices bias subsequent observations. It
-  bears on CLAIM-342 (a loop that selects its own evidence can lock in)
-  and CLAIM-406. The anthology may want it. What the exchange says of it
+  bears on [CLAIM-342](../claims.d/CLAIM-342.md) (a loop that selects its own evidence can lock in)
+  and [CLAIM-406](../claims.d/CLAIM-406.md). The anthology may want it. What the exchange says of it
   is unverified until read.
 ---
 
@@ -56,4 +56,4 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, Carlos Scheidegger and Sure
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's formal demonstration of self-validating classification: deployment choices bias subsequent observations. It bears on CLAIM-342 (a loop that selects its own evidence can lock in) and CLAIM-406. The anthology may want it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's formal demonstration of self-validating classification: deployment choices bias subsequent observations. It bears on [CLAIM-342](../claims.d/CLAIM-342.md) (a loop that selects its own evidence can lock in) and [CLAIM-406](../claims.d/CLAIM-406.md). The anthology may want it. Not read.

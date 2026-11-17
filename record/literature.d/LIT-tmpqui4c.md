@@ -41,8 +41,8 @@ summary: >-
   1017–1041. DOI 10.1007/s10677-019-10030-w. Here because A cites it in
   the exchange "Assess Depp Heard Abuse" as the source of agency
   laundering, A's first connection between automated decision systems
-  and the displacement of responsibility. It bears on CLAIM-tmpb47ul and
-  on CLAIM-472 (choosing an apparatus is open to evaluation). The 2021
+  and the displacement of responsibility. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and
+  on [CLAIM-472](../claims.d/CLAIM-472.md) (choosing an apparatus is open to evaluation). The 2021
   book chapter is a later form and is not registered separately. What
   the exchange says of it is unverified until read.
 ---
@@ -59,4 +59,4 @@ Alan Rubel, Clinton Castro and Adam Pham (2019). Agency Laundering and Informati
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 (also A21, A26) as the source of agency laundering, A's first connection between automated decision systems and the displacement of responsibility. It bears on CLAIM-tmpb47ul and on CLAIM-472 (choosing an apparatus is open to evaluation). The 2021 book chapter is a later form and is not registered separately. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 (also A21, A26) as the source of agency laundering, A's first connection between automated decision systems and the displacement of responsibility. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and on [CLAIM-472](../claims.d/CLAIM-472.md) (choosing an apparatus is open to evaluation). The 2021 book chapter is a later form and is not registered separately. Not read.

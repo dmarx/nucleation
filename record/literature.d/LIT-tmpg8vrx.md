@@ -38,7 +38,7 @@ summary: >-
   10.1080/01944366908977225. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's source for the difference between
   being allowed to speak and having power over decisions. It bears on
-  CLAIM-523 (legibility, efficacy, correctability) and on CLAIM-tmpm95mo
+  [CLAIM-523](../claims.d/CLAIM-523.md) (legibility, efficacy, correctability) and on CLAIM-tmpm95mo
   (an opposition can be independent while its capacity to change the
   arrangement is contained). What the exchange says of it is unverified
   until read.
@@ -55,4 +55,4 @@ Sherry R. Arnstein (1969). A Ladder of Citizen Participation. *Journal of the Am
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 and A49 as A's source for the difference between being allowed to speak and having power over decisions. It bears on CLAIM-523 (legibility, efficacy, correctability) and on CLAIM-tmpm95mo (an opposition can be independent while its capacity to change the arrangement is contained). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 and A49 as A's source for the difference between being allowed to speak and having power over decisions. It bears on [CLAIM-523](../claims.d/CLAIM-523.md) (legibility, efficacy, correctability) and on CLAIM-tmpm95mo (an opposition can be independent while its capacity to change the arrangement is contained). Not read.

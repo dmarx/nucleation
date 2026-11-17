@@ -35,7 +35,7 @@ summary: >-
   10.1093/0195179145.001.0001. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as recommended by A on how oppression can
   make moral goodness costly or damaging to those who pursue it. It
-  bears on CLAIM-tmpa2l21, on agency under conditions another created.
+  bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md), on agency under conditions another created.
   *Moral Failure* is registered beside it. What the exchange says of it
   is unverified until read.
 ---
@@ -51,4 +51,4 @@ Lisa Tessman (2005). *Burdened Virtues: Virtue Ethics for Liberatory Struggles*.
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as recommended by A on how oppression can make moral goodness costly or damaging to those who pursue it. It bears on CLAIM-tmpa2l21, on agency under conditions another created. *Moral Failure* is registered beside it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as recommended by A on how oppression can make moral goodness costly or damaging to those who pursue it. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md), on agency under conditions another created. *Moral Failure* is registered beside it. Not read.

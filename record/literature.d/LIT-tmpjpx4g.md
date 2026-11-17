@@ -37,7 +37,7 @@ summary: >-
   Violence, & Abuse*. DOI 10.1177/15248380261476693. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as recommended by A
   on why the phenomena researchers care about are hard to
-  operationalize. It bears on CLAIM-tmpkivlz, as a caution on what
+  operationalize. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), as a caution on what
   counts of acts can show. What the exchange says of it is unverified
   until read.
 ---
@@ -53,4 +53,4 @@ Alexander J. B. Coates, Rachel Dryer, Daryl J. Higgins and Megan L. Willis (2026
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as recommended by A on why the phenomena researchers care about are hard to operationalize. It bears on CLAIM-tmpkivlz, as a caution on what counts of acts can show. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as recommended by A on why the phenomena researchers care about are hard to operationalize. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), as a caution on what counts of acts can show. Not read.

@@ -36,7 +36,7 @@ summary: >-
   DOI 10.1177/15248380261462179. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's first recommendation on the tension
   between reciprocal violence and unequal coercion. It bears on
-  CLAIM-tmpkivlz and CASE-tmpzt3zf. A also cites "A separate 2026 review
+  [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). A also cites "A separate 2026 review
   of 82 articles" with the same citation reference; whether that is this
   review is unverified. What the exchange says of it is unverified until
   read.
@@ -53,4 +53,4 @@ Andreia Machado, Marta Sousa and Olga Cunha (2026). Defining Bidirectional Viole
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's first recommendation on the tension between reciprocal violence and unequal coercion. It bears on CLAIM-tmpkivlz and CASE-tmpzt3zf. A also cites "A separate 2026 review of 82 articles" with the same citation reference; whether that is this review is unverified. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's first recommendation on the tension between reciprocal violence and unequal coercion. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). A also cites "A separate 2026 review of 82 articles" with the same citation reference; whether that is this review is unverified. Not read.

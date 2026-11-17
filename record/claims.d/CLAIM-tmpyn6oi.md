@@ -78,23 +78,23 @@ resources, options, and bargaining power as morally self-validating."
 
 ## How it sits with the record
 
-- **CLAIM-670** (Proposed): an arrangement can produce the dependence
+- **[CLAIM-670](CLAIM-670.md)** (Proposed): an arrangement can produce the dependence
   through which it exploits. This claim rests on it: it is the mechanism
   by which the baseline becomes endogenous.
-- **CLAIM-464** (Active): an intervention can change what it would take to
+- **[CLAIM-464](CLAIM-464.md)** (Active): an intervention can change what it would take to
   correct it, while the standards stay the same. This claim rests on it
   for the parallel point about assessment: an actor's earlier moves can
   change the alternatives against which its terms are judged.
-- **CLAIM-677** (Proposed) measures the freedom an arrangement leaves by
-  what remains open to a non-adopter; **CLAIM-690** (Proposed) sorts
-  dependences by who controls their terms; **CLAIM-682** (Proposed) says
+- **[CLAIM-677](CLAIM-677.md)** (Proposed) measures the freedom an arrangement leaves by
+  what remains open to a non-adopter; **[CLAIM-690](CLAIM-690.md)** (Proposed) sorts
+  dependences by who controls their terms; **[CLAIM-682](CLAIM-682.md)** (Proposed) says
   when a dependence is presumptively dominating. Each takes the present
   alternatives as an input. This claim says that input can itself need
   justification.
 - **CLAIM-tmp8wki5**, filed from the part before, is a special case with a
   loop: a restriction that lowers the competence it tests, and so produces
   the evidence for its own continuation.
-- It bears on **QUESTION-tmpk7u3e**: A calls it "probably our sharpest
+- It bears on **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md)**: A calls it "probably our sharpest
   potential criticism" of contractualism, and also says that Scanlon's
   framework "is capable of considering such consequences". Which of the
   two is right is that question.

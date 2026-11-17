@@ -37,13 +37,13 @@ summary: >-
   https://digitalcommons.lib.uconn.edu/dissertations/1244/. Here because
   A cites it in the exchange "Assess Depp Heard Abuse" as cited by A for
   the thesis that moral commitments can be vulnerabilities in their own
-  right. It bears on CLAIM-tmpe5u7i and QUESTION-tmpbzq36. A lists it
+  right. It bears on [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) and [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md). A lists it
   first among "the most direct sources" for treating moral commitments
   as sources of vulnerability. The repository page may hold a full text;
   none was sought. What the exchange says of it is unverified until
   read.
 ---
-<!-- inactive-ok-file: CLAIM-tmpe5u7i QUESTION-tmpbzq36 — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpe5u7i — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmp5mwf4: On the Moral Dimensions of Vulnerability and Exploitation
 
@@ -55,4 +55,4 @@ Michael J. Robillard (2016). *On the Moral Dimensions of Vulnerability and Explo
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A15 as cited by A for the thesis that moral commitments can be vulnerabilities in their own right. It bears on CLAIM-tmpe5u7i and QUESTION-tmpbzq36. A lists it first among "the most direct sources" for treating moral commitments as sources of vulnerability. The repository page may hold a full text; none was sought. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A15 as cited by A for the thesis that moral commitments can be vulnerabilities in their own right. It bears on [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) and [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md). A lists it first among "the most direct sources" for treating moral commitments as sources of vulnerability. The repository page may hold a full text; none was sought. Not read.

@@ -39,9 +39,9 @@ summary: >-
   DOI 10.1257/jep.20231394. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's source for administrative burden
   (learning, compliance and psychological costs) as friction that can
-  itself dominate. It bears on CLAIM-tmph28l6 (execution friction and
-  contestation friction differ) and CLAIM-669. The record holds the
-  authors' 2018 book as LIT-1609 (Deferred); this is a different work.
+  itself dominate. It bears on [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) (execution friction and
+  contestation friction differ) and [CLAIM-669](../claims.d/CLAIM-669.md). The record holds the
+  authors' 2018 book as [LIT-1609](LIT-1609.md) (Deferred); this is a different work.
   What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmph28l6 — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -58,4 +58,4 @@ Pamela Herd and Donald Moynihan (2025). Administrative Burdens in the Social Saf
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as A's source for administrative burden (learning, compliance and psychological costs) as friction that can itself dominate. It bears on CLAIM-tmph28l6 (execution friction and contestation friction differ) and CLAIM-669. The record holds the authors' 2018 book as LIT-1609 (Deferred); this is a different work. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as A's source for administrative burden (learning, compliance and psychological costs) as friction that can itself dominate. It bears on [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) (execution friction and contestation friction differ) and [CLAIM-669](../claims.d/CLAIM-669.md). The record holds the authors' 2018 book as [LIT-1609](LIT-1609.md) (Deferred); this is a different work. Not read.

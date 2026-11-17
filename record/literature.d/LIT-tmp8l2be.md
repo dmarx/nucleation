@@ -40,8 +40,8 @@ summary: >-
   DOI 10.1111/0033-3352.00168. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's source for the migration of
   discretion from officials to system designers. It would ground
-  CLAIM-410 (authority eliminated, distributed or transferred), as the
-  ledger notes, and bears on CLAIM-tmp11xvc (automation reduces
+  [CLAIM-410](../claims.d/CLAIM-410.md) (authority eliminated, distributed or transferred), as the
+  ledger notes, and bears on [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (automation reduces
   procedural friction). What the exchange says of it is unverified until
   read.
 ---
@@ -57,4 +57,4 @@ Mark Bovens and Stavros Zouridis (2002). From Street-Level to System-Level Burea
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 as A's source for the migration of discretion from officials to system designers. It would ground CLAIM-410 (authority eliminated, distributed or transferred), as the ledger notes, and bears on CLAIM-tmp11xvc (automation reduces procedural friction). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 as A's source for the migration of discretion from officials to system designers. It would ground [CLAIM-410](../claims.d/CLAIM-410.md) (authority eliminated, distributed or transferred), as the ledger notes, and bears on [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (automation reduces procedural friction). Not read.

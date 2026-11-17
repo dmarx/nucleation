@@ -36,7 +36,7 @@ summary: >-
   ("this reminds me of russian work on "reflexive control" as a grey
   tactic") is the turn that brought reflexive control in, and with it the
   interstate form (A11 §3); the owner's earlier reflexive-control turn is
-  held as CLAIM-404. The loop's mechanism is CLAIM-445's, with the
+  held as [CLAIM-404](CLAIM-404.md). The loop's mechanism is [CLAIM-445](CLAIM-445.md)'s, with the
   target's own conduct as the shifted evidence. What is new is that the
   accusation is true and that the arranger's use of it is aimed at
   observers. The wording is A's; adopting it is the owner's call.
@@ -94,24 +94,24 @@ work is read.
 
 ## How it sits with the record
 
-- **CLAIM-445** holds the loop's mechanism: a protective regime becomes
+- **[CLAIM-445](CLAIM-445.md)** holds the loop's mechanism: a protective regime becomes
   self-maintaining when its interventions shift "the evidence used to
   judge its necessity". Here the shifted evidence is the target's own
   conduct, and the regime is one party's control over another. That is
   why the claim rests on it.
-- **CLAIM-619**'s normative inversion turns a complaint into evidence
+- **[CLAIM-619](CLAIM-619.md)**'s normative inversion turns a complaint into evidence
   against the complainant. This turns a wrong the arranger induced into
   evidence against the one who committed it. The two differ in whether the
   thing used is a wrong.
-- **CLAIM-404** (the owner's) governs an organization through the premises
+- **[CLAIM-404](CLAIM-404.md)** (the owner's) governs an organization through the premises
   or criteria of its decisions; this governs a party through its wrongs and
   through others' judgement of them.
-- Beside it, from the same exchange: CLAIM-tmpa2l21 (the wrong of
+- Beside it, from the same exchange: [CLAIM-tmpa2l21](CLAIM-tmpa2l21.md) (the wrong of
   arranging another's wrong, which this uses as an instrument) and
   CLAIM-tmp8wki5 (a restriction that produces the incapacity cited to
   justify it, the same shape with incapacity in place of a wrong).
-- The senses of responsibility kept apart are TERM-tmp8pnnr's; the further
-  control the accusation justifies is domination in TERM-124's sense.
+- The senses of responsibility kept apart are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s; the further
+  control the accusation justifies is domination in [TERM-124](../terms.d/TERM-124.md)'s sense.
 
 ## What it does not say
 

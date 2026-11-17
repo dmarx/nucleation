@@ -38,11 +38,11 @@ summary: >-
   *Frontiers in Robotics and AI* 5. DOI 10.3389/frobt.2018.00015. Here
   because A cites it in the exchange "Assess Depp Heard Abuse" as A's
   framework for meaningful human control (tracking and tracing), which
-  it extends with Tronto and Elish. It bears on CLAIM-tmpb47ul and
-  QUESTION-tmpvoufs. What the exchange says of it is unverified until
+  it extends with Tronto and Elish. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and
+  [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md). What the exchange says of it is unverified until
   read.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul QUESTION-tmpvoufs — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpb47ul — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmpqyz50: Meaningful Human Control over Autonomous Systems: A Philosophical Account
 
@@ -54,4 +54,4 @@ Filippo Santoni de Sio and Jeroen van den Hoven (2018). Meaningful Human Control
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's framework for meaningful human control (tracking and tracing), which it extends with Tronto and Elish. It bears on CLAIM-tmpb47ul and QUESTION-tmpvoufs. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's framework for meaningful human control (tracking and tracing), which it extends with Tronto and Elish. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md). Not read.

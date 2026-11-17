@@ -87,26 +87,26 @@ Four parts:
 
 ## How it sits with the record
 
-- **CLAIM-624** also names a "second-order" wrong, an organization's breach
+- **[CLAIM-624](CLAIM-624.md)** also names a "second-order" wrong, an organization's breach
   of a duty to keep violations knowable, contestable and correctable. That
   is a duty about correction; this is a wrong of producing another's
   wrong. The two share a word and not a content.
-- **CASE-151** (Wells Fargo) is a documented arrangement of the kind: a
+- **[CASE-151](../cases.d/CASE-151.md)** (Wells Fargo) is a documented arrangement of the kind: a
   sales model and performance management that the board's investigation
   traced the misconduct to, with leadership blaming individual employees.
   The claim does not rest on it; whether the report shows the relational
   wrong, against the employees, is not settled here.
-- **QUESTION-449** asks whether it matters that another installed a
+- **[QUESTION-449](../questions.d/QUESTION-449.md)** asks whether it matters that another installed a
   mechanism, or only who maintains it now. A9 §3 answers for persons that
   responsibility "for the formation of the dispositions that produced it"
   can lie with someone other than the actor: "These responsibilities can
   belong partly to different people." The claim bears on the question; it
   does not answer it for organizations.
-- **CLAIM-671** strengthens a responsible agent's obligations where a
+- **[CLAIM-671](CLAIM-671.md)** strengthens a responsible agent's obligations where a
   transformation increases another's vulnerability to it; this names the
   wrong of using such vulnerability to produce wrongdoing.
-- CLAIM-tmpciy9q uses the wrong this claim names as an instrument.
-- The senses of responsibility are TERM-tmp8pnnr's.
+- [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md) uses the wrong this claim names as an instrument.
+- The senses of responsibility are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s.
 
 ## What it does not say
 

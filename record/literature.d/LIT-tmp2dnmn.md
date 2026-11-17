@@ -34,7 +34,7 @@ summary: >-
   Blame*. Cambridge, MA: Harvard University Press. DOI
   10.4159/9780674043145. Here because A cites it in the exchange "Assess
   Depp Heard Abuse" as A's relational account of blame, set against
-  Strawson's. It bears on CLAIM-tmpa2l21 and on what blame is, beside
+  Strawson's. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) and on what blame is, beside
   Strawson's essay, registered with it. What the exchange says of it is
   unverified until read.
 ---
@@ -50,4 +50,4 @@ T. M. Scanlon (2008). *Moral Dimensions: Permissibility, Meaning, Blame*. Cambri
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as A's relational account of blame, set against Strawson's. It bears on CLAIM-tmpa2l21 and on what blame is, beside Strawson's essay, registered with it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as A's relational account of blame, set against Strawson's. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) and on what blame is, beside Strawson's essay, registered with it. Not read.

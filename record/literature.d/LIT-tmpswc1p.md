@@ -37,7 +37,7 @@ summary: >-
   10.1093/aristoteliansupp/50.1.115. Here because A cites it in the
   exchange "Assess Depp Heard Abuse" as the source A names for moral
   luck, which it uses to ask how far blame should depend on
-  circumstances beyond anyone's control. It bears on CLAIM-tmpa2l21. A
+  circumstances beyond anyone's control. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md). A
   names no work; this symposium is where both treatments first appeared.
   What the exchange says of it is unverified until read.
 ---
@@ -53,4 +53,4 @@ B. A. O. Williams and T. Nagel (1976). Moral Luck. *Proceedings of the Aristotel
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as the source A names for moral luck, which it uses to ask how far blame should depend on circumstances beyond anyone's control. It bears on CLAIM-tmpa2l21. A names no work; this symposium is where both treatments first appeared. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A7 as the source A names for moral luck, which it uses to ask how far blame should depend on circumstances beyond anyone's control. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md). A names no work; this symposium is where both treatments first appeared. Not read.

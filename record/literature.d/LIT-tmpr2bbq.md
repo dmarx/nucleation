@@ -61,4 +61,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A83 (2026-11-17). It bears on QUESTION-tmpea19q, CLAIM-tmpnhesz, TERM-tmp4zjar, CLAIM-tmpnb4v4 (rights, demands and commitments are distinct) and CLAIM-tmpc7shc (a demand's satisfaction condition does not carry its warrant). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A83 (2026-11-17). It bears on QUESTION-tmpea19q, CLAIM-tmpnhesz, TERM-tmp4zjar, CLAIM-tmpnb4v4 (rights, demands and commitments are distinct) and [CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md) (a demand's satisfaction condition does not carry its warrant). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

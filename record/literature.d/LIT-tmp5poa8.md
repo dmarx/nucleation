@@ -38,7 +38,7 @@ summary: >-
   10.5334/irsp.868. Here because A cites it in the exchange "Assess Depp
   Heard Abuse" as A's evidence on how intention, outcome and causation
   enter judgments of blame. It bears on how observers assign blame, the
-  ground CLAIM-tmpciy9q (manufacturing culpability) works on; no new
+  ground [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) (manufacturing culpability) works on; no new
   entry rests on it. What the exchange says of it is unverified until
   read.
 ---
@@ -54,4 +54,4 @@ Aurore Gaboriaud, Flora Gautheron, Jean-Charles Quinton and Annique Smeding (202
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's evidence on how intention, outcome and causation enter judgments of blame. It bears on how observers assign blame, the ground CLAIM-tmpciy9q (manufacturing culpability) works on; no new entry rests on it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's evidence on how intention, outcome and causation enter judgments of blame. It bears on how observers assign blame, the ground [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) (manufacturing culpability) works on; no new entry rests on it. Not read.

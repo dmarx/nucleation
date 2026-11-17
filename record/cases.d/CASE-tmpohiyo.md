@@ -26,8 +26,8 @@ summary: >-
   or failed intervention capacity", and five measures; §10 B, "Same
   dissatisfaction, different intervention thresholds", the two-arm
   comparison. A says the pathology "is not a theorem supplied by the
-  repository"; the five measures are CLAIM-553's factors made measurable.
-  No such study is held (CASE-249 is a pass-rate study). Not run. The
+  repository"; the five measures are [CLAIM-553](../claims.d/CLAIM-553.md)'s factors made measurable.
+  No such study is held ([CASE-249](CASE-249.md) is a pass-rate study). Not run. The
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-553 CLAIM-tmp0ogo4 CLAIM-619 CASE-249 — Proposed or new; the claims the study would test -->
@@ -62,11 +62,11 @@ each member, and for each organization recorded complaints, corrections
 made and unmet obligations found by an outside audit. **Held fixed.** The
 working conditions and the demands they leave unmet.
 
-**In the record's terms.** CLAIM-553 factors observable intervention into
+**In the record's terms.** [CLAIM-553](../claims.d/CLAIM-553.md) factors observable intervention into
 a propensity to mobilize, the chance the discrepancy is legible, and a
 channel that carries the intervention. Measure 1 is the acceptance
 threshold, 2 legibility, 3 propensity, 4 the channel, and 5 efficacy.
-CLAIM-549 shows that raising thresholds enlarges the quiet set and leaves
+[CLAIM-549](../claims.d/CLAIM-549.md) shows that raising thresholds enlarges the quiet set and leaves
 the satisfied set as it was; the study asks which of the two moved when
 complaints fell.
 
@@ -80,7 +80,7 @@ the last can coexist with rising distress: "Increasingly distressed or
 mobilized perspectives", "Declining practical capacity to express or act
 on their concerns" and "Decreasing recorded objections". Across the arms,
 whether a fall in complaints tracks the channel rather than the conditions,
-which is CLAIM-tmp0ogo4's loop observed at its quiet link, and CLAIM-619's
+which is [CLAIM-tmp0ogo4](../claims.d/CLAIM-tmp0ogo4.md)'s loop observed at its quiet link, and [CLAIM-619](../claims.d/CLAIM-619.md)'s
 counter-corrective disposition if the costly arm was made so in answer to
 complaint.
 
@@ -90,7 +90,7 @@ Being stipulated, nothing about any organization until run. Measures 1 to
 3 are self-reports and share their biases; measure 5 needs interventions to
 happen in order to be observed, and is thinnest where the channel has
 failed. Whether a member's acceptance was itself produced by the conditions
-is QUESTION-071's problem and is not settled by asking.
+is [QUESTION-071](../questions.d/QUESTION-071.md)'s problem and is not settled by asking.
 
 A33 §10 A, "Same standards, different slack", is a second study A proposed
 in the same section and is not filed here.

@@ -26,8 +26,8 @@ summary: >-
   compatibility. It is the sentence the owner's U46 quoted ("Without that
   distinction, an institution could effectively manufacture moral
   authority by creating and maintaining internal requirements") before
-  giving the immigration specimen, CASE-tmpoe934. A says the
-  representation "generalizes" TERM-060's acceptance sets; it re-indexes
+  giving the immigration specimen, [CASE-tmpoe934](../cases.d/CASE-tmpoe934.md). A says the
+  representation "generalizes" [TERM-060](../terms.d/TERM-060.md)'s acceptance sets; it re-indexes
   them from transformations to histories. The wording is A's; adopting it
   is the owner's call.
 ---
@@ -77,10 +77,10 @@ authority in the first place.
 
 ## How it sits with the record
 
-- **TERM-060** (Active) is the term for frustration, the failure of an
+- **[TERM-060](../terms.d/TERM-060.md)** (Active) is the term for frustration, the failure of an
   organization's demands to be jointly realizable; its acceptance sets are
   over transformations. A says its own representation "generalizes the
-  acceptance-set representation in Nucleation's Active TERM-060". It is a
+  acceptance-set representation in Nucleation's Active [TERM-060](../terms.d/TERM-060.md)". It is a
   re-indexing from transformations to histories more than a
   generalization. Nothing in the claim depends on the difference.
 - **CLAIM-tmpnb4v4**, filed from the part before, holds that a demand's
@@ -88,18 +88,18 @@ authority in the first place.
   claim is the formal reason, stated for the record's own apparatus: the
   representation the apparatus uses for a demand cannot carry the warrant,
   so compatibility results built on it cannot either.
-- **CLAIM-523** (Active) says its three achievements establish nothing
-  about whether the demand or the revision is justified, and **CLAIM-624**
+- **[CLAIM-523](CLAIM-523.md)** (Active) says its three achievements establish nothing
+  about whether the demand or the revision is justified, and **[CLAIM-624](CLAIM-624.md)**
   is "a verdict only given an independently justified standard". This
   claim says where in the formal object that standard has to enter.
-- **CLAIM-tmpw7pli** applies it: an administrative criterion imposed as a
+- **[CLAIM-tmpw7pli](CLAIM-tmpw7pli.md)** applies it: an administrative criterion imposed as a
   gate is a maintained requirement whose imposition establishes neither
   its legal authority nor its justification. The owner's U46 attached the
-  immigration specimen (CASE-tmpoe934) to this sentence.
+  immigration specimen ([CASE-tmpoe934](../cases.d/CASE-tmpoe934.md)) to this sentence.
 
 ## What it does not say
 
 - Not that compatibility analysis is idle. It tells which demands can be
   met together; it cannot tell which should be.
 - Not who supplies the warrant. That is the independently justified
-  standard the record does not yet have (QUESTION-129).
+  standard the record does not yet have ([QUESTION-129](../questions.d/QUESTION-129.md)).

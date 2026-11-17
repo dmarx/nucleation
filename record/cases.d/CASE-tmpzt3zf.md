@@ -20,7 +20,7 @@ summary: >-
   reveal that Dan is the one exercising coercive control." A3 §5 gives the
   same contrast as a table. Fictional; it shows that the act ledger and
   the allocation of power can point opposite ways, which is
-  CLAIM-tmpkivlz's separation. The wording is A's; adopting it is the
+  [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)'s separation. The wording is A's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpkivlz — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
@@ -64,11 +64,11 @@ movements: violence without domination.
 
 That a tally of harmful acts and the allocation of power over the
 relationship can point in opposite directions, so that answering one does
-not answer the other (CLAIM-tmpkivlz). Carol's strikes keep their
+not answer the other ([CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)). Carol's strikes keep their
 verdict: A3 §4, "Experiencing abuse does not give someone unlimited moral
 permission to hurt their partner." What Dan holds is a capacity, to set
 the terms on which Carol can spend, see friends, disagree and leave, which
-is domination in TERM-124's sense whether or not he uses it on a given
+is domination in [TERM-124](../terms.d/TERM-124.md)'s sense whether or not he uses it on a given
 day.
 
 ## What it cannot show

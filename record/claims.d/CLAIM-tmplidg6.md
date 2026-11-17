@@ -71,7 +71,7 @@ constituted, maintained, altered, or made practically ineffective**".
 
 ## How it sits with the record
 
-- **CLAIM-086** (Active) holds that a constraint may govern conduct without
+- **[CLAIM-086](CLAIM-086.md)** (Active) holds that a constraint may govern conduct without
   governing the conditions under which it remains authoritative. This claim
   is the other side: a right, once constituted, governs which later acts
   are valid, and so is among the conditions under which later authority is
@@ -83,7 +83,7 @@ constituted, maintained, altered, or made practically ineffective**".
 - **CLAIM-tmpol7nz** holds that a right protecting a choice constrains a
   policy, not a realized history. Both claims locate a right's work in
   structure rather than in any one outcome.
-- **QUESTION-tmpk7u3e** asks whether the record's account only supplements
+- **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md)** asks whether the record's account only supplements
   contractualism. This claim is compatible with the supplement answer: A
   says it is "compatible with much of Scanlon's view" and "develops the
   dynamic consequences of his account more thoroughly".
