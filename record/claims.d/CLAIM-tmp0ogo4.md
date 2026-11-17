@@ -100,9 +100,9 @@ rise.
   invisibly.
 - **[CLAIM-445](CLAIM-445.md)** (a regime that shifts the evidence of its own necessity)
   and **[CLAIM-619](CLAIM-619.md)** (answering challenge by reducing the capacity for it)
-  are loops of the same family; [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md) and CLAIM-tmp8wki5, from the
+  are loops of the same family; [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md) and [CLAIM-tmp8wki5](CLAIM-tmp8wki5.md), from the
   same exchange, are its interpersonal and restrictive forms.
-- CASE-tmpm0rpn (three hospitals with the same output and budget) and the
+- [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) (three hospitals with the same output and budget) and the
   study [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md) are its nearest cases.
 
 ## What it does not say

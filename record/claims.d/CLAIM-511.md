@@ -133,6 +133,6 @@ definition of goodness". No change.
 ## Note of 2026-11-17: read as a verdict, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: ARG-042 — Rejected; the verdict on support -->
 
-A81 §10 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) says this claim "records that the general obligation is not established", and A83 §5 that it "records that this universal obligation has not been established". The claim is the bare proposition, Proposed with role disclaimed. That the record's constructions do not establish it is ARG-042, Rejected, with CLAIM-520's conditional value of correction as the reason. A's conclusion is the record's; its citation points to the proposition, not the verdict.
+A81 §10 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) says this claim "records that the general obligation is not established", and A83 §5 that it "records that this universal obligation has not been established". The claim is the bare proposition, Proposed with role disclaimed. That the record's constructions do not establish it is [ARG-042](../arguments.d/ARG-042.md), Rejected, with [CLAIM-520](CLAIM-520.md)'s conditional value of correction as the reason. A's conclusion is the record's; its citation points to the proposition, not the verdict.
 
 No status changes.

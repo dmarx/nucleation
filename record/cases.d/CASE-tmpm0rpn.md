@@ -22,8 +22,8 @@ summary: >-
   owner's U24 ("labor theory, contract theory, and auction theory are
   feeling relevant"), with A53 §3B's all-pay promotion contest as the
   mechanism of the second arm. The verdicts are stipulated, as the owner's
-  method (CLAIM-tmp613ja) has it: A constructive, B and C exploitative in
-  different ways. CASE-264 varies control over terms with dependence held
+  method ([CLAIM-tmp613ja](../claims.d/CLAIM-tmp613ja.md)) has it: A constructive, B and C exploitative in
+  different ways. [CASE-264](CASE-264.md) varies control over terms with dependence held
   fixed; this holds terms of pay and output fixed and varies the mechanism
   by which discretionary labour is drawn out. Proposed because the case is
   A's; adopting it is the owner's call.
@@ -78,18 +78,18 @@ intervention may be different in each case": compensation for all
 productive effort, or fair terms of contest, for B; staffing reserves and
 a right to refuse that does not fall on patients, for C.
 
-- **For CLAIM-tmpe5u7i** (F2, the moral subsidy loop): arm C is that
+- **For [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)** (F2, the moral subsidy loop): arm C is that
   claim's mechanism, conscientious workers absorbing what the arrangement
   leaves unmet. Arm B shows the same extraction with no appeal to
   conscience, so the loop is one of at least two routes.
-- **For CLAIM-tmp76x3e** (F2, normative manipulation): arm C changes the
+- **For [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)** (F2, normative manipulation): arm C changes the
   world so that workers' sound values do the institution's work.
-- **For QUESTION-463 and QUESTION-468**: a stipulated triple in which
+- **For [QUESTION-463](../questions.d/QUESTION-463.md) and [QUESTION-468](../questions.d/QUESTION-468.md)**: a stipulated triple in which
   output, pay budget and the workers' own dispositions are held fixed,
-  so that what makes B and C exploitative (TERM-123, relative to a
+  so that what makes B and C exploitative ([TERM-123](../terms.d/TERM-123.md), relative to a
   declared standard) has to lie in the mechanism and in who holds
   authority over expectations (B: "retains unilateral authority over
-  future expectations"). That is CLAIM-tmpdic1g's residual control in a
+  future expectations"). That is [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md)'s residual control in a
   workplace.
 
 ## What it cannot show

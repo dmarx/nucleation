@@ -108,7 +108,7 @@ work is read.
   through others' judgement of them.
 - Beside it, from the same exchange: [CLAIM-tmpa2l21](CLAIM-tmpa2l21.md) (the wrong of
   arranging another's wrong, which this uses as an instrument) and
-  CLAIM-tmp8wki5 (a restriction that produces the incapacity cited to
+  [CLAIM-tmp8wki5](CLAIM-tmp8wki5.md) (a restriction that produces the incapacity cited to
   justify it, the same shape with incapacity in place of a wrong).
 - The senses of responsibility kept apart are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s; the further
   control the accusation justifies is domination in [TERM-124](../terms.d/TERM-124.md)'s sense.

@@ -40,7 +40,6 @@ summary: >-
 <!-- inactive-ok-file: CASE-tmphljcr — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpa0wdv — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpyo35b — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmp14i7s — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp39uey: Why the "Haves" Come Out Ahead: Speculations on the Limits of Legal Change
 
@@ -58,4 +57,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A61 (2026-11-16), at the owner's U28 on litigation as siege, and used again in A64 and A76. It bears on CLAIM-tmpyo35b (litigation as siege), CASE-tmphljcr, QUESTION-tmp14i7s and [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md). The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A61 (2026-11-16), at the owner's U28 on litigation as siege, and used again in A64 and A76. It bears on [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) (litigation as siege), [CASE-tmphljcr](../cases.d/CASE-tmphljcr.md), [QUESTION-tmp14i7s](../questions.d/QUESTION-tmp14i7s.md) and [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md). The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

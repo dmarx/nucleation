@@ -107,18 +107,18 @@ apart from suppression.
   construction, "not to keep the old building". Whether any claim
   persisted there is a legal question the case does not settle, so it is
   cited, not taken as grounds.
-- **CLAIM-tmp3t16f**, remedial hold-up: the breach lowers the injured
+- **[CLAIM-tmp3t16f](CLAIM-tmp3t16f.md)**, remedial hold-up: the breach lowers the injured
   party's disagreement point and gives the breacher leverage over the
   settlement. Part 3 here is the normative complement: the leverage is
   real, and the settlement it produces does not authorize the breach.
-- **CLAIM-tmpl0sgt**: an irreversible act converts consent-based
+- **[CLAIM-tmpl0sgt](CLAIM-tmpl0sgt.md)**: an irreversible act converts consent-based
   protection into compensation in practice. "In practice" is part 1's
   α; this claim says the conversion is practical, not normative.
 - **[CLAIM-tmp6vck6](CLAIM-tmp6vck6.md)**: inalienability as a limit on powers. This claim
   needs no inalienability premise; it holds for any claim still valid
   under N.
 - The second wrong A87 §10 names, "Litigation by attrition", is the
-  owner's siege, CLAIM-tmpyo35b.
+  owner's siege, [CLAIM-tmpyo35b](CLAIM-tmpyo35b.md).
 
 ## What it does not say
 

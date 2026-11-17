@@ -46,7 +46,7 @@ summary: >-
   arrangements it reaches. The wording is A's, as corrected; adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmeabu QUESTION-tmplax2r TERM-tmp4zjar CLAIM-tmpnhesz — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmpmeabu TERM-tmp4zjar CLAIM-tmpnhesz — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; where the link from authority to capability obligations is noted -->
 
 # CLAIM-tmpx1g4r: Four judgments about an authority are distinct: the warrant of the obligations it is to serve, its jurisdiction over the matter, its arrangement's capacity to realize those obligations together, and its capacity to reach compliant arrangements and correct failures by permitted means; neither of the first two follows from any of the others, and of the last two only the dynamic one implies the static one, for what it reaches
@@ -70,7 +70,7 @@ The separations, each with a case:
 
 1. **Warrant without jurisdiction.** A71: "A restriction can be
    substantively appropriate but imposed by someone who lacks authority to
-   impose it." That is CLAIM-tmpmeabu's separation.
+   impose it." That is [CLAIM-tmpmeabu](CLAIM-tmpmeabu.md)'s separation.
 2. **Jurisdiction without adequacy.** A71: "A democratically authorized
    institution can possess legitimate authority while performing its
    obligations inadequately."
@@ -92,12 +92,12 @@ independent axis. The reverse implication fails, by 4.
 
 ## How it sits with the record
 
-- **CLAIM-tmpmeabu** holds separation 1 for restrictions. This claim
+- **[CLAIM-tmpmeabu](CLAIM-tmpmeabu.md)** holds separation 1 for restrictions. This claim
   extends it to any obligation an authority is to serve.
 - **[CLAIM-560](CLAIM-560.md)** (Active, demonstrated) holds separation 4 for budgets.
   This claim applies it to the evaluation of an authority, with
   "permitted means" restricting the paths as A74 §3's Γ_N does.
-- **QUESTION-tmplax2r**, the owner's U31 ("from whence does a
+- **[QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md)**, the owner's U31 ("from whence does a
   relationship, capability, or restriction derive legitimacy and/or
   adequacy?"), asks for the grounds. This claim says only that the four
   grounds are different questions; it answers none of them.

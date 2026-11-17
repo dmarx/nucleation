@@ -214,7 +214,7 @@ anyone's authority. A33 §1: "That need not even involve deliberate
 obstruction. The mismatch can be a structural property of the two
 institutions." The claim's edge, that it is about relations and not about
 any government's conduct, stands. The cost-side
-statement is CLAIM-tmph28l6 (execution friction against contestation
-friction); the timescale statement is CLAIM-tmpgh3v2.
+statement is [CLAIM-tmph28l6](CLAIM-tmph28l6.md) (execution friction against contestation
+friction); the timescale statement is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md).
 
 No status changes.

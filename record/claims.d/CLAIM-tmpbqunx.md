@@ -42,7 +42,7 @@ summary: >-
   siege discussion, the owner's U28 (CLAIM-tmpyo35b). The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyo35b QUESTION-tmpcz1ui — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmpyo35b — filed from the same exchange, Proposed or new -->
 
 # CLAIM-tmpbqunx: Against a challenged party who can act on the means of correction, correctability is a robust quantity, the chance that a corrective policy reaches its objective against every strategy in a declared class of opposition, and it depends on who moves first, since a corrector that must commit before seeing the opposition can do strictly worse than one that responds to it; judged against the opposition the procedural rules permit, failure shows the institution inadequate, and failure owed to opposition outside them shows a wrong by the opponent as well
 
@@ -107,11 +107,11 @@ standard fact about minimax, and the example is the filer's check of A's
 - **[CLAIM-568](CLAIM-568.md)** (Active) sorts four ways a transition fails. A81 §3:
   "Our proposed model adds strategic actors who may influence which
   failure occurs."
-- **CLAIM-tmpyo35b** files the owner's siege: an objective made
+- **[CLAIM-tmpyo35b](CLAIM-tmpyo35b.md)** files the owner's siege: an objective made
   unreachable by imposing the costs of pursuing it. This claim gives the
   measure on which a siege succeeds and the split that says whether the
   siege was a wrong.
-- **QUESTION-tmpcz1ui** asks whether a party under a justified constraint
+- **[QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md)** asks whether a party under a justified constraint
   may set the cost of making it effective. Part 3 says where the answer
   enters: in what goes into Σ_permitted.
 

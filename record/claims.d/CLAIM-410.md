@@ -258,11 +258,11 @@ for moral outcomes") and "**Formative power**" ("Shaping which
 commitments, habits, and moral expectations another person develops").
 
 This claim's profile (rule-making, monitoring, enforcement, appeal,
-revision) and SYNTHESIS-093's separable dimensions of power hold none of
+revision) and [SYNTHESIS-093](../syntheses.d/SYNTHESIS-093.md)'s separable dimensions of power hold none of
 attributional or formative power as positions. Formative power is close to
-formation provenance in TERM-100's sense. Attributional power, the
+formation provenance in [TERM-100](../terms.d/TERM-100.md)'s sense. Attributional power, the
 position from which credit and blame are allocated after the fact, is
-carried into CLAIM-tmpb47ul, where those who set the arrangement's
+carried into [CLAIM-tmpb47ul](CLAIM-tmpb47ul.md), where those who set the arrangement's
 conditions also set the standards by which responsibility for its failures
 is judged. Whether it belongs in this profile as a sixth governing
 position, or is a kind of rule-making about evaluation, is left open.

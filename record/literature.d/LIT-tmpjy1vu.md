@@ -38,7 +38,7 @@ summary: >-
   A cites it in the exchange "Assess Depp Heard Abuse" as A's source for
   residual control rights: ownership allocates authority over
   contingencies a contract leaves open. It is a footing of
-  CLAIM-tmpdic1g (in an incomplete contract the holder of residual
+  [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md) (in an incomplete contract the holder of residual
   control decides the contingencies left open), beside Hart and Moore
   1990, registered with it. What the exchange says of it is unverified
   until read.
@@ -55,4 +55,4 @@ Sanford J. Grossman and Oliver D. Hart (1986). The Costs and Benefits of Ownersh
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as A's source for residual control rights: ownership allocates authority over contingencies a contract leaves open. It is a footing of CLAIM-tmpdic1g (in an incomplete contract the holder of residual control decides the contingencies left open), beside Hart and Moore 1990, registered with it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as A's source for residual control rights: ownership allocates authority over contingencies a contract leaves open. It is a footing of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md) (in an incomplete contract the holder of residual control decides the contingencies left open), beside Hart and Moore 1990, registered with it. Not read.

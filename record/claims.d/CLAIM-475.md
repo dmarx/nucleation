@@ -296,6 +296,6 @@ The claim is unchanged.
 
 A79 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) applies this claim to accountability: "**Formulating a question or objection is itself a resource-consuming process.**" With 𝒬_B(K, H) the objections B can formulate within budget K and horizon H, and 𝒬_N^relevant those relevant under N, the failure is 𝒬_N^relevant ⊄ 𝒬_B(K, H): "an institution can impair effective accountability without blocking any complaint that is actually filed." The example: "an employee may be unable to articulate a pattern of discriminatory treatment because the organization records each incident under unrelated categories." A's conclusion: "**A person may have a legally recognized right to contest an action while lacking an adequately supported route through which the action becomes recognizable as contestable.**"
 
-This is the first stage, F, of the six filed as CLAIM-tmpi68s2. A relays this claim and CLAIM-406 as "Nucleation's inquiry-frontier research" and "Nucleation's Active CLAIM-406"; both are the owner's (U17 of the exchange of 2026-10-27, and U24 of 2026-10-20), which A does not say.
+This is the first stage, F, of the six filed as [CLAIM-tmpi68s2](CLAIM-tmpi68s2.md). A relays this claim and [CLAIM-406](CLAIM-406.md) as "Nucleation's inquiry-frontier research" and "Nucleation's Active [CLAIM-406](CLAIM-406.md)"; both are the owner's (U17 of the exchange of 2026-10-27, and U24 of 2026-10-20), which A does not say.
 
 No status changes.

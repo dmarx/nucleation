@@ -180,10 +180,10 @@ split moves over time: "**A person's responsibility can change as their
 capacity for doing otherwise changes.**" Someone who, in time, can "recognize the pattern, receive
 support, acquire better ways of responding", and still chooses cruelty,
 grows more culpable. That is formation provenance and maintenance
-provenance in TERM-100's terms, with the agent's share of maintenance rising as its
+provenance in [TERM-100](../terms.d/TERM-100.md)'s terms, with the agent's share of maintenance rising as its
 capacity to alter the mechanism returns.
 
 It is asserted, not argued, and stated for persons; whether an
 organization's share grows in the same way as its capacity to alter an
 installed mechanism returns is the question still. The wrong of installing
-it is filed as CLAIM-tmpa2l21. The question stays Open.
+it is filed as [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md). The question stays Open.

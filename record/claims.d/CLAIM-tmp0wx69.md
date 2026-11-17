@@ -92,7 +92,7 @@ behavior alone when responsibility for the mechanism itself is at issue**".
 - **[CLAIM-464](CLAIM-464.md)** (Active): an intervention can make its own correction
   costlier or unreachable. Dismantling the capability to detect a
   violation is such an intervention, made before review.
-- **CLAIM-tmp8wki5**, filed from the part before: a restriction that
+- **[CLAIM-tmp8wki5](CLAIM-tmp8wki5.md)**, filed from the part before: a restriction that
   produces the incapacity later cited to justify it. Same structure, with
   the incapacity produced in another party.
 - **[CLAIM-614](CLAIM-614.md)** and **[CLAIM-624](CLAIM-624.md)** (Proposed) hold the reproduction of

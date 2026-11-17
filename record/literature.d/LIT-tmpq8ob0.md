@@ -55,4 +55,4 @@ Bengt Holmström and Paul Milgrom (1991). Multitask Principal–Agent Analyses: 
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as A's source for the distortion of effort toward measurable tasks under strong incentives. It bears on CASE-tmpm0rpn (three hospitals with the same output and budget) and on [QUESTION-386](../questions.d/QUESTION-386.md), for which the ledger calls it the natural work. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as A's source for the distortion of effort toward measurable tasks under strong incentives. It bears on [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) (three hospitals with the same output and budget) and on [QUESTION-386](../questions.d/QUESTION-386.md), for which the ledger calls it the natural work. Not read.

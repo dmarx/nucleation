@@ -327,7 +327,7 @@ mere effect: what the influencer intended, what it anticipated of the
 target, whether it could produce the conditions, and whether it did. They
 are conditions on the influencer's history, not the target's present
 structure, which is where this question says present-structure tests fail.
-CLAIM-tmp76x3e makes the hardest case for those tests: a target governed
+[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) makes the hardest case for those tests: a target governed
 through sound values, with nothing in it defective.
 
 The question stays Open.

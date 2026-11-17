@@ -33,7 +33,7 @@ summary: >-
   it exploits; it does not hold the consequence for the baseline of
   assessment. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp8wki5 QUESTION-tmpk7u3e — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CLAIM-tmp8wki5 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-670 CLAIM-677 CLAIM-682 CLAIM-690 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmpyn6oi: The alternatives against which a governing relationship or principle is assessed can be products of that relationship, so the present distribution of options is not a neutral baseline, and an actor cannot justify its terms by the narrowness of options it helped narrow without justification; the assessment must separate the existence of a dependence, the legitimacy of its creation, the authority exercised through it and the responsibilities of maintaining it
@@ -91,7 +91,7 @@ resources, options, and bargaining power as morally self-validating."
   when a dependence is presumptively dominating. Each takes the present
   alternatives as an input. This claim says that input can itself need
   justification.
-- **CLAIM-tmp8wki5**, filed from the part before, is a special case with a
+- **[CLAIM-tmp8wki5](CLAIM-tmp8wki5.md)**, filed from the part before, is a special case with a
   loop: a restriction that lowers the competence it tests, and so produces
   the evidence for its own continuation.
 - It bears on **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md)**: A calls it "probably our sharpest

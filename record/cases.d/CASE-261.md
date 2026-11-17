@@ -136,7 +136,7 @@ For this case, that sharpens "clinicians lose discretion": they keep
 formal discretion and lose the time to use it, which is how a justified
 objection fails to become effective without any rule against it. The
 mechanisms are filed from the same exchange: the unbudgeted subsidy
-(CLAIM-tmpe5u7i), blame landing where failure is visible (CLAIM-tmpb47ul),
-and verification required and then cited as ownership (CLAIM-tmp238zy).
+([CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)), blame landing where failure is visible ([CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)),
+and verification required and then cited as ownership ([CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)).
 
 No status changes.

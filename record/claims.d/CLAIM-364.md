@@ -228,6 +228,6 @@ reproducing the powers exercised through that process.**"
 That is this objection's structure in an institution: two processes with
 the same outputs that part only when someone objects, here because one of
 them no longer has a place where the objection could enter. It is the
-owner's friction thesis (CLAIM-tmp11xvc) seen from this objection's side.
+owner's friction thesis ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) seen from this objection's side.
 
 No status changes.

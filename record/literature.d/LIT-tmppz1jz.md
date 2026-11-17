@@ -38,8 +38,8 @@ summary: >-
   Science* 29(7): 1159–1177. DOI 10.1177/0956797618761661. Here because
   A cites it in the exchange "Assess Depp Heard Abuse" as A's evidence
   that the marshmallow test's association with later achievement shrinks
-  once background is accounted for. It bears on CASE-tmp07hx9 and
-  CLAIM-tmpt091d, beside Sperber et al. 2024, registered with it. What
+  once background is accounted for. It bears on [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) and
+  [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md), beside Sperber et al. 2024, registered with it. What
   the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -54,4 +54,4 @@ Tyler W. Watts, Greg J. Duncan and Haonan Quan (2018). Revisiting the Marshmallo
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 as A's evidence that the marshmallow test's association with later achievement shrinks once background is accounted for. It bears on CASE-tmp07hx9 and CLAIM-tmpt091d, beside Sperber et al. 2024, registered with it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 as A's evidence that the marshmallow test's association with later achievement shrinks once background is accounted for. It bears on [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) and [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md), beside Sperber et al. 2024, registered with it. Not read.

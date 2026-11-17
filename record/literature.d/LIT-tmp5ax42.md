@@ -40,9 +40,9 @@ summary: >-
   126(1): 109–114. DOI 10.1016/j.cognition.2012.08.004. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as central to A51:
   children's waiting tracks experimentally manipulated evidence about
-  the experimenter's reliability. It is the work CASE-tmp07hx9 (the
+  the experimenter's reliability. It is the work [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) (the
   marshmallow task under reliable and unreliable experimenters) reports
-  and the footing of CLAIM-tmpt091d (whoever controls a deferred reward
+  and the footing of [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md) (whoever controls a deferred reward
   controls whether waiting is good judgment). What the exchange says of
   it is unverified until read.
 ---
@@ -58,4 +58,4 @@ Celeste Kidd, Holly Palmeri and Richard N. Aslin (2013). Rational snacking: Youn
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 and A53 as central to A51: children's waiting tracks experimentally manipulated evidence about the experimenter's reliability. It is the work CASE-tmp07hx9 (the marshmallow task under reliable and unreliable experimenters) reports and the footing of CLAIM-tmpt091d (whoever controls a deferred reward controls whether waiting is good judgment). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 and A53 as central to A51: children's waiting tracks experimentally manipulated evidence about the experimenter's reliability. It is the work [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) (the marshmallow task under reliable and unreliable experimenters) reports and the footing of [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md) (whoever controls a deferred reward controls whether waiting is good judgment). Not read.

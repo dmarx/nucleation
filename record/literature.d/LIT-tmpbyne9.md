@@ -39,7 +39,7 @@ summary: >-
   587–605. DOI 10.1111/ajps.12961. Here because A cites it in the
   exchange "Assess Depp Heard Abuse" as A's counterexample: opposition
   inside an authoritarian environment produced measurable changes. It is
-  the defeat condition of CLAIM-tmpm95mo, in the ledger's reading:
+  the defeat condition of [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md), in the ledger's reading:
   ineffectiveness alone is not evidence of control. What the exchange
   says of it is unverified until read.
 ---
@@ -55,4 +55,4 @@ David Szakonyi (2025; issue 2026). Opposition rule under autocracy: Evidence fro
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 as A's counterexample: opposition inside an authoritarian environment produced measurable changes. It is the defeat condition of CLAIM-tmpm95mo, in the ledger's reading: ineffectiveness alone is not evidence of control. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 as A's counterexample: opposition inside an authoritarian environment produced measurable changes. It is the defeat condition of [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md), in the ledger's reading: ineffectiveness alone is not evidence of control. Not read.

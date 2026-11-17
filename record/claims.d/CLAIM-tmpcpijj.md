@@ -47,7 +47,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-624 CLAIM-619 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpnhesz CLAIM-tmpbqunx QUESTION-tmpcz1ui QUESTION-tmphoumu CLAIM-tmpyo35b — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmpnhesz CLAIM-tmpbqunx CLAIM-tmpyo35b — filed from the same exchange, Proposed or new -->
 
 # CLAIM-tmpcpijj: Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor's authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has
 
@@ -108,9 +108,9 @@ conduct.
   cites them for why preventing explicit self-authorization "may be
   insufficient". How independent the evaluator must be is
   [QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md).
-- **QUESTION-tmpcz1ui** asks whether a party under a justified constraint
+- **[QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md)** asks whether a party under a justified constraint
   may set or amplify the cost of making it effective, the owner's siege
-  (CLAIM-tmpyo35b) put as a question. This claim does not answer it; it
+  ([CLAIM-tmpyo35b](CLAIM-tmpyo35b.md)) put as a question. This claim does not answer it; it
   says the answer cannot come from the party's authority over the
   constrained conduct. [CLAIM-tmpbqunx](CLAIM-tmpbqunx.md) gives the measure.
 - **[CLAIM-tmpnhesz](CLAIM-tmpnhesz.md)** lists "control over recourse" among the grounds of

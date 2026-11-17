@@ -34,15 +34,15 @@ summary: >-
   ("This is a possible **restriction-induced capability trap**"), restated
   in A45 §9 and A49 §8.1. The record holds capability traps under
   substitution: support that does the work lowers the capacity kept
-  (CLAIM-602, CLAIM-605), and an arrangement that does the governing
-  erodes the capacity to govern it (CLAIM-673). This is the same disuse
+  ([CLAIM-602](CLAIM-602.md), [CLAIM-605](CLAIM-605.md)), and an arrangement that does the governing
+  erodes the capacity to govern it ([CLAIM-673](CLAIM-673.md)). This is the same disuse
   dynamics reached by restriction of exercise instead, with one step the
   substitution traps lack: the decay is read as evidence that justifies
   the restriction. It bears on the owner's question at U20
-  (QUESTION-tmp9oq97). The wording is A's; adopting it is the owner's
+  ([QUESTION-tmp9oq97](../questions.d/QUESTION-tmp9oq97.md)). The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: QUESTION-tmp9oq97 TERM-tmprcm2c CLAIM-tmp0wx69 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: TERM-tmprcm2c CLAIM-tmp0wx69 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-673 CLAIM-675 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmp8wki5: Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation
@@ -68,7 +68,7 @@ has organized it in a way that produces the conditions for its own
 indefinite continuation." A49 §8.1: "The original limitation has begun
 producing the conditions for its own persistence."
 
-In TERM-tmprcm2c's terms: a restriction on **exercise**, through disuse,
+In [TERM-tmprcm2c](../terms.d/TERM-tmprcm2c.md)'s terms: a restriction on **exercise**, through disuse,
 becomes a restriction on **competence**, and the party who holds the
 **authority** to lift it reads the decay as the reason not to.
 
@@ -98,21 +98,21 @@ it lasts.
 
 ## How it sits with the record
 
-- **CLAIM-602 and CLAIM-605** (Active) demonstrate the disuse dynamics in
+- **[CLAIM-602](CLAIM-602.md) and [CLAIM-605](CLAIM-605.md)** (Active) demonstrate the disuse dynamics in
   a model: where capacity is learned by doing and decays with disuse,
   outside supply that does the work lowers the capacity kept, and support
   has a deadline after which withdrawal no longer restores it. This claim
   needs only their premise, decay with disuse, and not their supply; the
   restriction removes the doing directly. A model of the loop would be
-  CLAIM-605's with reinstatement made a threshold on capacity, which would
+  [CLAIM-605](CLAIM-605.md)'s with reinstatement made a threshold on capacity, which would
   make the trap demonstrable; no one has written it.
-- **CLAIM-673** (Proposed): an arrangement that does the work of governing
+- **[CLAIM-673](CLAIM-673.md)** (Proposed): an arrangement that does the work of governing
   erodes the capacity to govern it. A45 §9's second instance is that
   claim reached by restriction rather than substitution.
-- **CLAIM-675** (Proposed): supports that look alike now leave different
+- **[CLAIM-675](CLAIM-675.md)** (Proposed): supports that look alike now leave different
   capabilities later. Restrictions do too, A45 §9: "The same immediate
   restriction may lead to very different relational futures."
-- **CLAIM-tmp0wx69** (F5, same exchange): a present incapacity does not
+- **[CLAIM-tmp0wx69](CLAIM-tmp0wx69.md)** (F5, same exchange): a present incapacity does not
   show that the incapacitated party is responsible for it. This claim is a
   route by which an incapacity can be produced by the very party that
   cites it.
@@ -124,7 +124,7 @@ it lasts.
   prohibited regardless of the actor's competence."
 - Not that the trap is intended. The loop closes without anyone aiming at
   it; whether a party that keeps it closed is responsible is
-  CLAIM-tmp0wx69's question.
+  [CLAIM-tmp0wx69](CLAIM-tmp0wx69.md)'s question.
 - Not that restriction always shrinks future capability. A41 §8: "A
   temporary suspension of a risky automated system may preserve evidence,
   prevent irreversible harm, and provide time to investigate", so

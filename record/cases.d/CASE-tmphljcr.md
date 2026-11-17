@@ -115,7 +115,7 @@ enters B's spending, c_B(t, u_A, π_B), and the time to relief, T_J(u_A,
   by one), for then the infimum is at most the baseline value. As defined,
   the baseline is a procedure, not one of A's strategies, so a baseline
   less favourable to B than every admissible strategy gives a negative
-  gap. The fix is to require u_0 ∈ 𝒰_A^adm. CLAIM-tmpbqunx (F4, from A76 and
+  gap. The fix is to require u_0 ∈ 𝒰_A^adm. [CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md) (F4, from A76 and
   A81) files the adversarial quantity itself.
 - **The offer is arbitrary.** On A64 §4's extended path B's alternative is
   0, so any positive offer is accepted; on the ordinary path any offer of
@@ -126,11 +126,11 @@ enters B's spending, c_B(t, u_A, π_B), and the time to relief, T_J(u_A,
 
 ## What it shows
 
-- **For CLAIM-tmpyo35b.** A party's conduct can move a corrective objective
+- **For [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md).** A party's conduct can move a corrective objective
   out of an opponent's reach with the merits, the law and the opponent's
   preferences fixed: by raising its spending, by delaying relief, or by a
-  small cost at a threshold. CLAIM-tmpyo35b grounds on this.
-- **Beside CLAIM-679.** The threshold is CLAIM-679's structure with an
+  small cost at a threshold. [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) grounds on this.
+- **Beside [CLAIM-679](../claims.d/CLAIM-679.md).** The threshold is [CLAIM-679](../claims.d/CLAIM-679.md)'s structure with an
   adversary: a cut in the resource held removes exactly the transitions
   whose requirement lies between the old holding and the new. A64 §6
   points at "Nucleation's work on slack and reconfiguration capacity"

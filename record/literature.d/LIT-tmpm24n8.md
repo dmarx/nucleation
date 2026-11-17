@@ -43,7 +43,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmp3t16f — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpl0sgt — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpcz1ui — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpm24n8: Property Rules, Liability Rules, and Inalienability: One View of the Cathedral
 
@@ -61,4 +60,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A57 (2026-11-16), the exchange's account of tort law as mechanism design, and used again in A59 and A76. It bears on CLAIM-tmpl0sgt (an irreversible act converts consent-based protection into compensation in practice), CLAIM-tmp3t16f (breach-induced remedial hold-up), QUESTION-tmpcz1ui and, through inalienability rules, [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A57 (2026-11-16), the exchange's account of tort law as mechanism design, and used again in A59 and A76. It bears on [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md) (an irreversible act converts consent-based protection into compensation in practice), [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md) (breach-induced remedial hold-up), [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md) and, through inalienability rules, [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

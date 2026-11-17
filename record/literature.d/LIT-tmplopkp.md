@@ -57,4 +57,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A64 (2026-11-16). It bears on CASE-tmphljcr and CLAIM-tmpyo35b, as the existing guard against costs imposed to make a remedy unreachable. One entry holds the three rules because the exchange uses them together. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A64 (2026-11-16). It bears on [CASE-tmphljcr](../cases.d/CASE-tmphljcr.md) and [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), as the existing guard against costs imposed to make a remedy unreachable. One entry holds the three rules because the exchange uses them together. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

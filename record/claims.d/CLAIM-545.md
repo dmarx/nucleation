@@ -347,7 +347,7 @@ necessary for survival." That is an informal statement of the wrong this
 claim's last clause names: another's capacity to govern the relations by
 which an agent governs its own governability. A says the second wrong is
 "qualitatively different", not categorically worse. The wrong of arranging
-another's wrongdoing is filed as CLAIM-tmpa2l21.
+another's wrongdoing is filed as [CLAIM-tmpa2l21](CLAIM-tmpa2l21.md).
 
 A11 §7 lays out what each form of control controls: direct coercion "The
 consequences of refusing a demand", coercive control "The person's
@@ -358,7 +358,7 @@ becomes costly or harmful", character corruption "The dispositions and
 commitments that guide future choices". The filer, not A, notes that these
 fall roughly on this claim's components: premises on legibility,
 entrapment on the efficacy of demands, corruption on the revision of the
-governing relations, with formation in TERM-100's sense. Whether the
+governing relations, with formation in [TERM-100](../terms.d/TERM-100.md)'s sense. Whether the
 spectrum is a reading of the four components is offered as a question, not
 asserted.
 

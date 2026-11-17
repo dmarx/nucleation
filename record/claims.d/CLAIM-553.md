@@ -245,6 +245,6 @@ consent**", and A33 §6 proposes measuring acceptance, recognized
 discrepancy, motivation, access to protected channels and efficacy apart
 when complaints fall, which are this claim's factors made measurable. A
 says the pathology "is not a theorem supplied by the repository". The
-study is filed as CASE-tmpohiyo.
+study is filed as [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md).
 
 No status changes.

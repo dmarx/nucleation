@@ -54,4 +54,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A61 (2026-11-16). It bears on CLAIM-tmpyo35b and CASE-tmphljcr. Correction: the exchange gives the title and year but no author; the author is Thomas J. Miceli. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A61 (2026-11-16). It bears on [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) and [CASE-tmphljcr](../cases.d/CASE-tmphljcr.md). Correction: the exchange gives the title and year but no author; the author is Thomas J. Miceli. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

@@ -55,4 +55,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A59 (2026-11-16), at the owner's U27 on wrongful unilateral action. It bears on CLAIM-tmpazi8a (acting before a recognized opportunity for intervention can take effect is a distinct wrong) and CLAIM-tmpl0sgt. A paraphrases the opinion; the exact wording is to be checked on reading before anything quotes it. The record's other "Fuentes" ([LIT-2524](LIT-2524.md)) is a different author. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A59 (2026-11-16), at the owner's U27 on wrongful unilateral action. It bears on [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md) (acting before a recognized opportunity for intervention can take effect is a distinct wrong) and [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md). A paraphrases the opinion; the exact wording is to be checked on reading before anything quotes it. The record's other "Fuentes" ([LIT-2524](LIT-2524.md)) is a different author. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

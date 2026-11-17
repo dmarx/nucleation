@@ -45,14 +45,14 @@ summary: >-
   the time asymmetry problem: an arbitrarily long process strains
   sustenance. One party "outlasting" the other in the courts can almost be
   interpreted as a form of siege warfare." A61 and A64 formalized it
-  (CASE-tmphljcr, rechecked), and A64 opened by telling the owner's point
+  ([CASE-tmphljcr](../cases.d/CASE-tmphljcr.md), rechecked), and A64 opened by telling the owner's point
   as its own "key insight". Demonstrated as a possibility, by A64's
-  constructions; whether using it is wrongful is QUESTION-tmpcz1ui.
-  CLAIM-464 has the disputed act change what correction takes; here the
+  constructions; whether using it is wrongful is [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md).
+  [CLAIM-464](CLAIM-464.md) has the disputed act change what correction takes; here the
   opposing party's conduct in the dispute changes what pursuing
   correction costs the other side.
 ---
-<!-- inactive-ok-file: CASE-tmphljcr QUESTION-tmpcz1ui CLAIM-tmpazi8a CLAIM-tmp3t16f CLAIM-tmpa0wdv CLAIM-tmph28l6 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CASE-tmphljcr CLAIM-tmpazi8a CLAIM-tmp3t16f CLAIM-tmpa0wdv CLAIM-tmph28l6 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-657 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmpyo35b: Litigation as siege: an actor can make a legally recognized corrective objective unreachable for another party, with the merits, the law and that party's preferences unchanged, by raising what pursuing the objective costs, in spending or in time, above what that party can sustain until relief arrives
@@ -82,7 +82,7 @@ important form of domination").
 
 ## The demonstration
 
-CASE-tmphljcr holds A's constructions, rechecked. In brief:
+[CASE-tmphljcr](../cases.d/CASE-tmphljcr.md) holds A's constructions, rechecked. In brief:
 
 - **Two channels.** A's conduct u_A enters B's spending, c_B(t, u_A, π_B),
   and the time to relief, T_J(u_A, π_B, G). B's route fails when its
@@ -113,7 +113,7 @@ efficacy". A64's close: "**Temporal preemption**" and "**Attritional
 exhaustion**" share the result that "A protected corrective capability
 loses practical efficacy while the entitlement that justified it remains
 formally unchanged." The temporal counterpart is the owner's U27,
-CLAIM-tmpazi8a.
+[CLAIM-tmpazi8a](CLAIM-tmpazi8a.md).
 
 **A costly wager.** A64 §16 returns to the owner's U26 (auction and game
 theory meeting tort theory): the power to raise the cost of contest "can
@@ -126,41 +126,41 @@ formal sense".
 **Several resources.** The owner's "Time is just one resource asymmetry"
 has a sharper form in A64 §5: "An adversary need not eliminate every
 resource. It may only need to exhaust whichever necessary resource cannot
-be replenished in time." A74 §7 ties it to CLAIM-585's frontier of
-sufficient budgets (the note of 2026-11-17 on CLAIM-585).
+be replenished in time." A74 §7 ties it to [CLAIM-585](CLAIM-585.md)'s frontier of
+sufficient budgets (the note of 2026-11-17 on [CLAIM-585](CLAIM-585.md)).
 
 ## How it sits with the record
 
-- **CLAIM-464** (Active): an intervention can make a corrective outcome
+- **[CLAIM-464](CLAIM-464.md)** (Active): an intervention can make a corrective outcome
   costlier or unreachable while the standards stay the same. There the
   disputed act changes the state; here the opposing party's conduct in
   the dispute changes the cost of pursuing correction, over time.
-- **TERM-085** (Active) and **CLAIM-523** (Active): correctability is
-  achievement within deadline and resources. TERM-085 already says "the
+- **[TERM-085](../terms.d/TERM-085.md)** (Active) and **[CLAIM-523](CLAIM-523.md)** (Active): correctability is
+  achievement within deadline and resources. [TERM-085](../terms.d/TERM-085.md) already says "the
   budget is itself partly an outcome of political and organizational
   decisions"; A61 §7 makes it an outcome of the opponent's decisions, and
   restricts the policies to the claimant's.
-- **TERM-105** (Active): stock, rate and deadline are different
+- **[TERM-105](../terms.d/TERM-105.md)** (Active): stock, rate and deadline are different
   constraints. The runway is a stock spent at a rate against a deadline
   the opponent can move.
-- **CLAIM-601** (Active): a savings buffer is a stock of time, and below it
+- **[CLAIM-601](CLAIM-601.md)** (Active): a savings buffer is a stock of time, and below it
   a profitable delayed payoff is rightly declined. A lawsuit is such a
   payoff, and the opponent can drain the buffer.
-- **CLAIM-619** (Proposed): answering a challenge by reducing the capacity
+- **[CLAIM-619](CLAIM-619.md)** (Proposed): answering a challenge by reducing the capacity
   for future challenge. A61 §7 keeps them apart: resource depletion,
   corrective foreclosure and "**Counter-corrective response:**" are three
   routes; this claim is the first.
-- **CLAIM-tmp3t16f**: A61 §5's "**resource-mediated remedial hold-up**",
+- **[CLAIM-tmp3t16f](CLAIM-tmp3t16f.md)**: A61 §5's "**resource-mediated remedial hold-up**",
   the settlement reached once this mechanism has worked.
-- **CLAIM-tmph28l6** (F2): execution friction and contestation friction
+- **[CLAIM-tmph28l6](CLAIM-tmph28l6.md)** (F2): execution friction and contestation friction
   differ. A61 §10's split is related: "**Adjudicative friction** is the
   time and effort legitimately necessary" and "**Attritional friction** is
   additional burden that consumes participants' ability to continue
   without making an adequately justified contribution to those purposes."
-- **CLAIM-657** (Proposed): A64 §13 adds that a reputation for costly
+- **[CLAIM-657](CLAIM-657.md)** (Proposed): A64 §13 adds that a reputation for costly
   resistance can keep claims from being filed at all (the note of
-  2026-11-17 on CLAIM-657).
-- **CLAIM-tmpa0wdv** (F4): making a remedy unreachable gains no power over
+  2026-11-17 on [CLAIM-657](CLAIM-657.md)).
+- **[CLAIM-tmpa0wdv](CLAIM-tmpa0wdv.md)** (F4): making a remedy unreachable gains no power over
   what is owed. This claim is the means; that one says what it does not
   achieve.
 
@@ -171,7 +171,7 @@ sufficient budgets (the note of 2026-11-17 on CLAIM-585).
   valuable but costly inquiry, a mutually preferred settlement) show
   foreclosure without wrong and wrong without foreclosure. Whether a party
   under a justified constraint may set the cost of making it effective is
-  QUESTION-tmpcz1ui.
+  [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md).
 - Not that the defendant is the stronger party. A64 §14: "**A poorly
   founded claim against a small defendant.**" "Our model must be
   role-symmetric."

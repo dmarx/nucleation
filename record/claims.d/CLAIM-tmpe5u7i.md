@@ -46,7 +46,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-690 CLAIM-614 CLAIM-670 TERM-123 — Proposed; the claim this rests on and the record's nearest entries -->
-<!-- inactive-ok-file: QUESTION-tmpbzq36 CLAIM-tmp0ogo4 CLAIM-tmpb47ul CLAIM-tmp76x3e CASE-tmpm0rpn — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-tmp0ogo4 CLAIM-tmpb47ul CLAIM-tmp76x3e CASE-tmpm0rpn — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CLAIM-tmpe5u7i: An arrangement that does not fund what it requires can be carried by its members' moral commitments to those it serves: the commitment that keeps them from withdrawing turns the arrangement's need of them into its hold on them, the shortfall falls hardest on the most conscientious, and those who control the arrangement can come to rely on the subsidy without intending to exploit anyone
 
@@ -102,7 +102,7 @@ the same connection and asks it as a question ([QUESTION-tmpbzq36](../questions.
   standard for this case.
 - [CLAIM-tmp76x3e](CLAIM-tmp76x3e.md) is the deliberate, interpersonal form; this is the
   institutional form that needs no one's intent. [CLAIM-tmpb47ul](CLAIM-tmpb47ul.md) carries the
-  same members on to blame. CASE-tmpm0rpn (three hospitals with the same
+  same members on to blame. [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) (three hospitals with the same
   output and budget) is a construction from the same exchange.
 
 ## What it does not say

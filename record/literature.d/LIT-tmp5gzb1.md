@@ -41,7 +41,7 @@ summary: >-
   Here because A cites it in the exchange "Assess Depp Heard Abuse" as
   A's source for control over an opposition's formation, maintenance,
   access and resources as the basis of the systemic/non-systemic
-  distinction. It is a footing of CLAIM-tmpm95mo (an opposition can be
+  distinction. It is a footing of [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) (an opposition can be
   independent as an actor while its capacity to change the arrangement
   is contained). What the exchange says of it is unverified until read.
 ---
@@ -57,4 +57,4 @@ Andrei Semenov (2021). The rationale of organizational control: managing the pol
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 as A's source for control over an opposition's formation, maintenance, access and resources as the basis of the systemic/non-systemic distinction. It is a footing of CLAIM-tmpm95mo (an opposition can be independent as an actor while its capacity to change the arrangement is contained). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 as A's source for control over an opposition's formation, maintenance, access and resources as the basis of the systemic/non-systemic distinction. It is a footing of [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) (an opposition can be independent as an actor while its capacity to change the arrangement is contained). Not read.

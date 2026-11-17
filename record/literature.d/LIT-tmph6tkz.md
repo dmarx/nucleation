@@ -36,7 +36,7 @@ summary: >-
   the Firm. *Journal of Political Economy* 98(6): 1119–1158. DOI
   10.1086/261729. Here because A cites it in the exchange "Assess Depp
   Heard Abuse" as named by A as the follow-up to Grossman and Hart on
-  residual control rights. It is a footing of CLAIM-tmpdic1g, beside
+  residual control rights. It is a footing of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md), beside
   Grossman and Hart 1986, registered with it. What the exchange says of
   it is unverified until read.
 ---
@@ -52,4 +52,4 @@ Oliver Hart and John Moore (1990). Property Rights and the Nature of the Firm. *
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as named by A as the follow-up to Grossman and Hart on residual control rights. It is a footing of CLAIM-tmpdic1g, beside Grossman and Hart 1986, registered with it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as named by A as the follow-up to Grossman and Hart on residual control rights. It is a footing of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md), beside Grossman and Hart 1986, registered with it. Not read.

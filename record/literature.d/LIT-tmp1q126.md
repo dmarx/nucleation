@@ -40,7 +40,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmphljcr — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpyo35b — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: QUESTION-tmpcz1ui — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp1q126: Sinking Costs to Force or Deter Settlement
 
@@ -58,4 +57,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A61 (2026-11-16) and used again in A64. It bears on CLAIM-tmpyo35b, CASE-tmphljcr and QUESTION-tmpcz1ui. Correction: the exchange dates it 2016 (the print issue); it appeared online on 2015-12-15. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A61 (2026-11-16) and used again in A64. It bears on [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), [CASE-tmphljcr](../cases.d/CASE-tmphljcr.md) and [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md). Correction: the exchange dates it 2016 (the print issue); it appeared online on 2015-12-15. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

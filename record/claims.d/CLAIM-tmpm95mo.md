@@ -35,7 +35,7 @@ summary: >-
   three outcomes and §9's evidence as its parts. A's candidate
   proposition: "An organization can preserve opposition as a legible and
   internally autonomous process while exercising second-order control over
-  the conditions of its efficacy." CLAIM-686 holds that a dependent whose
+  the conditions of its efficacy." [CLAIM-686](CLAIM-686.md) holds that a dependent whose
   claims fail of legibility, efficacy or correctability lacks effective
   influence; this adds that such failure can be held by another party, and
   separates that, "controlled incapacity", from incapacity. Proposed
@@ -70,7 +70,7 @@ incapacity**: an actor with authority over the surrounding arrangement
 maintains or manipulates the constraints that prevent opposition from
 becoming effective." "The second is a substantially stronger claim. And
 if we want to identify domination, it is often the more relevant one."
-The claim makes that the criterion: in TERM-124's terms, another holds the
+The claim makes that the criterion: in [TERM-124](../terms.d/TERM-124.md)'s terms, another holds the
 capacity to set the terms on which the opposition can contest, and the
 capacity is not answerable to it.
 
@@ -106,25 +106,25 @@ Controlled incapacity adds that another party chooses what bounds 𝒞_O.
 
 ## How it sits with the record
 
-- **CLAIM-686** (Proposed): where a dependent's claims fail of
+- **[CLAIM-686](CLAIM-686.md)** (Proposed): where a dependent's claims fail of
   legibility, volitional efficacy or correctability, it lacks effective
   means of influence. This claim adds who holds the failure. An
-  opposition can fail CLAIM-523's third achievement with no one
+  opposition can fail [CLAIM-523](CLAIM-523.md)'s third achievement with no one
   responsible (incapacity) or because another keeps it failing
   (controlled incapacity).
-- **CLAIM-523** (Active). A37 §2's heading relays it, "Opposition can be legible
+- **[CLAIM-523](CLAIM-523.md)** (Active). A37 §2's heading relays it, "Opposition can be legible
   without being effective", which is right, but A glosses correctability as
   a change the organization can implement, dropping the claim's condition
   that the revision be carried out within deadline and resources, and its rider that none of the three
   achievements shows the demand is justified.
-- **CLAIM-404** (Active): an organization can be governed from outside
+- **[CLAIM-404](CLAIM-404.md)** (Active): an organization can be governed from outside
   through the evidence and criteria its procedures use, with no decision
   made for it. This claim is the converse arrangement: the opposition's
   decisions are its own and the conditions of their effect are not.
-- **CLAIM-545**, **CLAIM-690** and **TERM-124** are the parents A names.
-  The claim is TERM-124's domination with the party an opposition and the
+- **[CLAIM-545](CLAIM-545.md)**, **[CLAIM-690](CLAIM-690.md)** and **[TERM-124](../terms.d/TERM-124.md)** are the parents A names.
+  The claim is [TERM-124](../terms.d/TERM-124.md)'s domination with the party an opposition and the
   terms those on which it contests.
-- **CLAIM-364** (Proposed): conditioned and negotiating processes part
+- **[CLAIM-364](CLAIM-364.md)** (Proposed): conditioned and negotiating processes part
   only under intervention. A37 §7's test of an opposition's standing,
   whether it can impose constraints when the institution "*doesn't want
   to accommodate it*", is that claim's test.

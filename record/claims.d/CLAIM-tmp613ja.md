@@ -34,7 +34,7 @@ summary: >-
   "normative morphology of relationships" and gave it a three-step test
   against circularity (A39 §9); the name and the test are A's, the method
   the owner's. The record had used the method without stating it, in its
-  stipulated matched pairs (CASE-264, CASE-229, CASE-263, ARG-055). A
+  stipulated matched pairs ([CASE-264](../cases.d/CASE-264.md), [CASE-229](../cases.d/CASE-229.md), [CASE-263](../cases.d/CASE-263.md), [ARG-055](../arguments.d/ARG-055.md)). A
   attributes the method to the owner correctly in A45 §13 and A59 §8.
 ---
 <!-- inactive-ok-file: CASE-264 CASE-229 CASE-263 ARG-055 CLAIM-364 — Proposed; the stipulated matched pairs and entries that already use the method -->
@@ -84,41 +84,41 @@ coercion." The mark is then revised, not the verdict. A's summary:
 "**We use normative cases to refine the structure of our concepts, rather
 than pretending the concepts are already measurable variables.**"
 
-**Why it rests on CLAIM-363.** The method needs the verdict to be
-well-defined, and CLAIM-363 holds that it is once its relata are fixed.
+**Why it rests on [CLAIM-363](CLAIM-363.md).** The method needs the verdict to be
+well-defined, and [CLAIM-363](CLAIM-363.md) holds that it is once its relata are fixed.
 A49 §2 lists what fixing them takes for a judgment about a capability
 (holder, capability, affected parties, arrangement, standard, history and
-horizon; the note of 2026-11-17 on CLAIM-363). Without that, a stipulated
+horizon; the note of 2026-11-17 on [CLAIM-363](CLAIM-363.md)). Without that, a stipulated
 verdict has no content to test a mark against.
 
 ## How it sits with the record
 
-- **The record already uses it.** CASE-264's two workshops, CASE-229's two
-  institutions (and ARG-055 on it) and CASE-263's regressive progress all
+- **The record already uses it.** [CASE-264](../cases.d/CASE-264.md)'s two workshops, [CASE-229](../cases.d/CASE-229.md)'s two
+  institutions (and [ARG-055](../arguments.d/ARG-055.md) on it) and [CASE-263](../cases.d/CASE-263.md)'s regressive progress all
   stipulate a verdict across a pair alike in what is observed, and look
-  for the organizational difference. CASE-128 is the pair in which the
+  for the organizational difference. [CASE-128](../cases.d/CASE-128.md) is the pair in which the
   same restriction is self-imposed and imposed. This claim states the
   method those cases use, and its third step, which none of them states.
-- **CLAIM-364** (Proposed) and **CLAIM-414** (Active): matched ordinary
+- **[CLAIM-364](CLAIM-364.md)** (Proposed) and **[CLAIM-414](CLAIM-414.md)** (Active): matched ordinary
   trajectories conceal organizational differences that show only under
   intervention or in history. That is why the method's first step holds
   behaviour fixed: the differences it looks for are of the kind ordinary
   behaviour does not show.
-- **QUESTION-468** asks how the record identifies exploitation and which
+- **[QUESTION-468](../questions.d/QUESTION-468.md)** asks how the record identifies exploitation and which
   standard supplies the verdict. The method is one answer to the first
   part: by stipulated pairs, with the standard declared in the
   stipulation. It does not answer the second.
 - **In the exchange**, the method was used at once: the marshmallow task's
-  three readings (CASE-tmp07hx9), the three hospitals (CASE-tmpm0rpn) and
+  three readings ([CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)), the three hospitals ([CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)) and
   A59 §8's counterexamples to wrongful unilateral action
-  (CLAIM-tmpazi8a), which A introduces with "this returns us to the
+  ([CLAIM-tmpazi8a](CLAIM-tmpazi8a.md)), which A introduces with "this returns us to the
   normative-morphology method you've been advocating".
 
 ## What it does not say
 
 - Not that the stipulated verdicts are right. The method finds what would
   make a verdict true; whether the standard behind it is justified is
-  QUESTION-129's question, and A49 §2 says so: "determining which
+  [QUESTION-129](../questions.d/QUESTION-129.md)'s question, and A49 §2 says so: "determining which
   standards ought to govern remains a separate task of moral and political
   reasoning."
 - Not that the marks found are measures. A39 §9: "These aren't yet

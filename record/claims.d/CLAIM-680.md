@@ -79,6 +79,6 @@ Wolf supplies the first two parts. Asked "Who's to say?" what is worthwhile, her
 
 A90 II of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) separates Can(A, x | s, G, K), feasible action, from Permitted_N(A, x), permissible action under N, and from Authorized_N(A, B, x), "A's legitimate authority to make a consequential decision in relation to B", with Can ⇏ Permitted and Permitted ⇏ Authorized: "A may be morally permitted to pursue a beneficial outcome while lacking authority to compel B's participation. This is one of the strongest explanations of why well-intentioned paternalism can still be wrongful."
 
-This claim is an instance of the second non-implication. A reasoned judgment of worth can make it permissible for an institution to cultivate the conditions of worthwhile engagement; it does not authorize the institution to impose a conception of worth on those it governs. The general separation of grounds from authority, first in A71 §3 of the same exchange, is filed as CLAIM-tmpmeabu.
+This claim is an instance of the second non-implication. A reasoned judgment of worth can make it permissible for an institution to cultivate the conditions of worthwhile engagement; it does not authorize the institution to impose a conception of worth on those it governs. The general separation of grounds from authority, first in A71 §3 of the same exchange, is filed as [CLAIM-tmpmeabu](CLAIM-tmpmeabu.md).
 
 No status changes.

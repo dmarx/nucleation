@@ -484,11 +484,11 @@ form, "Creating genuine moral obligations". That is a route this claim does
 not hold. Its evidence route moves a*(e) with U fixed, and its criteria
 route moves U. In A's route neither moves: the manipulator changes the
 state of the world itself, the target sees it accurately, and its correct
-decision moves because the world did. It is filed as CLAIM-tmp76x3e, which
+decision moves because the world did. It is filed as [CLAIM-tmp76x3e](CLAIM-tmp76x3e.md), which
 rests on this claim, with A15 §7's condition (the manipulator controls the
 trigger and escapes the cost) as what makes it a way of being governed.
 The use of a manipulated party's real wrongs against it, before an
-anticipated audience, is CLAIM-tmpciy9q.
+anticipated audience, is [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md).
 
 A11 §6 adds a caution this claim's edge already states ("It does not say
 that any regulator, newsroom or expert body is captured"): "We need

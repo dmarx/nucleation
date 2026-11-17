@@ -34,7 +34,7 @@ summary: >-
   A's, A55 §3 and §9 of the exchange "Assess Depp Heard Abuse"
   (2026-11-16), "**Breach-induced remedial hold-up**", at the owner's U25
   ("how does this developing theory model fait accompli contract
-  violation?"), which named the case. CLAIM-464 holds that an act can make
+  violation?"), which named the case. [CLAIM-464](CLAIM-464.md) holds that an act can make
   a specified corrective outcome costlier or unreachable before review;
   this adds the bargaining channel, that the same act lowers what the
   injured party has if it refuses to settle, so the wrongdoer gains
@@ -83,7 +83,7 @@ from the consequences of the violation itself." Formally, with 𝓡_B(s; H,
 K, G) the remedial outcomes B can reach from s within horizon H, budget K
 and arrangement G, a specified remedial objective J has J ∈ 𝓡_B(s_t^0)
 and J ∉ 𝓡_B(s_t^a), the two states compared at the same time t, as
-CLAIM-464 requires; strategic hold-up adds d_B(s_t^a) < d_B(s_t^0) and
+[CLAIM-464](CLAIM-464.md) requires; strategic hold-up adds d_B(s_t^a) < d_B(s_t^0) and
 evidence that A exploits it. A: "Neither alone establishes legal
 liability, intent, or the ultimate moral judgment."
 
@@ -99,7 +99,7 @@ both." This claim is capture.
 
 ## How it sits with the record
 
-- **CLAIM-464** (Active) holds the reachability half exactly: an
+- **[CLAIM-464](CLAIM-464.md)** (Active) holds the reachability half exactly: an
   intervention can make a specified corrective outcome costlier or
   unreachable while the governing standards stay as they were. It says
   nothing about bargaining. This claim adds the second channel, in which
@@ -107,17 +107,17 @@ both." This claim is capture.
   terms. A57 §6 restates the reachability half as R_B(s(a)) ⊊ R_B(s(0))
   without the time index; A55 §9 keeps it, and the record's version is
   A55's.
-- **CLAIM-619** (Proposed): an organization answers a challenge by
+- **[CLAIM-619](CLAIM-619.md)** (Proposed): an organization answers a challenge by
   reducing the capacity for future challenge. That acts on the
   challenger's later capacity; this acts on the value of refusing now.
-- **CLAIM-tmpdic1g**: A55 §3 separates this from residual control: "the
+- **[CLAIM-tmpdic1g](CLAIM-tmpdic1g.md)**: A55 §3 separates this from residual control: "the
   breacher creates a new bargaining position through an unauthorized
   action rather than simply exercising a residual right over an
   unspecified contingency."
-- **CLAIM-tmpl0sgt**: the same act seen as a change of allocation rule,
+- **[CLAIM-tmpl0sgt](CLAIM-tmpl0sgt.md)**: the same act seen as a change of allocation rule,
   from consent to compensation. That claim is about which mechanism
   governs the entitlement; this one is about the terms reached under it.
-- **CLAIM-tmpa0wdv** (F4): succeeding at making a remedy unreachable gains
+- **[CLAIM-tmpa0wdv](CLAIM-tmpa0wdv.md)** (F4): succeeding at making a remedy unreachable gains
   no power over what is owed. This claim is the descriptive mechanism the
   normative claim answers: the breacher does gain leverage, and that one
   says it gains no authority. A55 §8 has the bridge: B chose, it was B's
@@ -126,7 +126,7 @@ both." This claim is capture.
 - **Resource-mediated hold-up** (A61 §5) reaches the same leverage by
   depleting B's means of pursuing the claim instead of changing the
   world: "The difference lies in **the provenance of the alternatives
-  confronting B at the moment of choice**." That route is CLAIM-tmpyo35b.
+  confronting B at the moment of choice**." That route is [CLAIM-tmpyo35b](CLAIM-tmpyo35b.md).
 
 ## What it does not say
 

@@ -16,14 +16,14 @@ summary: >-
   justified constraint be permitted to determine, or strategically
   amplify, the cost another party must bear to make that constraint
   effective?**"), at the close of A64 and at the close of A68. It follows
-  the owner's U28 (litigation as siege, CLAIM-tmpyo35b) and sharpens the
-  owner's U20 question (QUESTION-tmp9oq97) for one capability: the power
+  the owner's U28 (litigation as siege, [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md)) and sharpens the
+  owner's U20 question ([QUESTION-tmp9oq97](QUESTION-tmp9oq97.md)) for one capability: the power
   over the cost of one's own correction. The mechanism is filed as
   demonstrated; whether its use is wrong, A's Candidate C, is not settled
   and is this question. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyo35b CASE-tmphljcr CLAIM-tmpm95mo CLAIM-tmpcpijj QUESTION-tmp9oq97 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmpyo35b CASE-tmphljcr CLAIM-tmpm95mo CLAIM-tmpcpijj — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: TERM-124 CLAIM-624 CLAIM-619 CLAIM-545 ARG-058 — Proposed; the record's nearest entries, cited with their standing -->
 
 # QUESTION-tmpcz1ui: May a party subject to a justified constraint determine, or strategically raise, the cost another party must bear to make that constraint effective, and if only within limits, which?
@@ -32,7 +32,7 @@ summary: >-
 
 The owner's U28 described a party that drags out litigation "in an effort
 to bankrupt their opposition or force a favorable (coercive) settlement".
-CLAIM-tmpyo35b, on A's constructions (CASE-tmphljcr), shows that a party
+[CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), on A's constructions ([CASE-tmphljcr](../cases.d/CASE-tmphljcr.md)), shows that a party
 can make another's corrective objective unreachable that way, with the
 merits fixed. What it does not show is when doing so is wrong. A61 closed
 on the question:
@@ -70,34 +70,34 @@ can be procedurally available.
   counterfactual procedural course", and no justification under N. It
   moves the question into the counterfactual course u_0, which must
   itself be defended; A61 §10's line between "**Adjudicative friction**"
-  and "**Attritional friction**" is the same problem. (CASE-tmphljcr notes
+  and "**Attritional friction**" is the same problem. ([CASE-tmphljcr](../cases.d/CASE-tmphljcr.md) notes
   that the definition's loss term has no materiality threshold.)
 - **A64 §16's principle**: "**A relationship becomes procedurally
   dominating when one actor possesses inadequately constrained power to
   determine the cost at which another must exercise a justified right of
-  contestation**". That is TERM-124's domination, a capacity to set the
+  contestation**". That is [TERM-124](../terms.d/TERM-124.md)'s domination, a capacity to set the
   terms on which a party can contest, applied to cost. It answers when the
   power dominates, not when its use is wrong.
 
 ## How it sits with the record
 
-- **TERM-124** (Proposed) makes the power to set terms of contest a mark
+- **[TERM-124](../terms.d/TERM-124.md)** (Proposed) makes the power to set terms of contest a mark
   of domination when unanswerable. This question asks whether the power is
   permissible to use, and within what limits, even when answerable.
-- **CLAIM-624** (Proposed): a second-order duty to keep violations
+- **[CLAIM-624](../claims.d/CLAIM-624.md)** (Proposed): a second-order duty to keep violations
   contestable and correctable. Raising the cost of contest against oneself
-  looks like a breach of it; CLAIM-624's own bound (an independently
-  justified standard, a feasible alternative) and ARG-058's are where an
+  looks like a breach of it; [CLAIM-624](../claims.d/CLAIM-624.md)'s own bound (an independently
+  justified standard, a feasible alternative) and [ARG-058](../arguments.d/ARG-058.md)'s are where an
   answer would have to start.
-- **CLAIM-619** (Proposed): answering a challenge by weakening future
+- **[CLAIM-619](../claims.d/CLAIM-619.md)** (Proposed): answering a challenge by weakening future
   challenge. A third route beside cost-raising and preemption (A61 §7).
-- **CLAIM-tmpcpijj** (F4): authority over a decision is not authority over
+- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md)** (F4): authority over a decision is not authority over
   the conditions of its challenge. An answer that the constrained party
   has no such authority would rest on it.
-- **CLAIM-tmpm95mo**: controlled opposition, where another party controls
+- **[CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md)**: controlled opposition, where another party controls
   the conditions of an opposition's efficacy. The same question for a
   standing opposition rather than a litigant.
-- **CLAIM-545** (Proposed): freedom as governance of one's own
+- **[CLAIM-545](../claims.d/CLAIM-545.md)** (Proposed): freedom as governance of one's own
   governability. This question is its interpersonal inverse: one party's
   governance of the other's capacity to govern it.
 
@@ -110,5 +110,5 @@ can be procedurally available.
   held by the constrained party at all, only by a third party (A64 §11's
   court as "a third actor"), so that the question becomes one of
   institutional design.
-- A dissolution, if the answer is fully given by CLAIM-tmpcpijj and
-  QUESTION-tmp9oq97's account of the authority to restrict.
+- A dissolution, if the answer is fully given by [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) and
+  [QUESTION-tmp9oq97](QUESTION-tmp9oq97.md)'s account of the authority to restrict.

@@ -84,16 +84,16 @@ model of the decision under uncertainty."
 
 - **That waiting behaviour does not identify the agency behind it.** A51:
   "these possibilities cannot be distinguished by waiting behavior alone."
-  That is CLAIM-364's form, behaviour alike and organization different,
+  That is [CLAIM-364](../claims.d/CLAIM-364.md)'s form, behaviour alike and organization different,
   with a documented manipulation in place of a stipulation, and it is the
-  owner's method (CLAIM-tmp613ja) applied: A51 §5 calls the task "an
+  owner's method ([CLAIM-tmp613ja](../claims.d/CLAIM-tmp613ja.md)) applied: A51 §5 calls the task "an
   excellent case for the methodological approach we've been developing".
 - **That not waiting can be sound judgment.** "A refusal to delay
   gratification need not indicate a failure of self-government." With the
   inequality, the reliability of the party who controls delivery is a
-  term in whether restraint is rational. CLAIM-tmpt091d grounds on this.
+  term in whether restraint is rational. [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md) grounds on this.
 - **That restraint can be organization rather than force** (the Mischel
-  arm). CLAIM-344's resolve, "a maintained organization of precedence,
+  arm). [CLAIM-344](../claims.d/CLAIM-344.md)'s resolve, "a maintained organization of precedence,
   commitment and revision", illustrated: A51 §1, "The achievement of
   self-restraint may lie less in the strength of resistance than in the
   organization that makes resistance unnecessary or manageable."
@@ -110,7 +110,7 @@ model of the decision under uncertainty."
   Vandell, Duncan and Watts, *Child Development* 95(6), 2024,
   doi:10.1111/cdev.14129 (the part-3 ledger; A gave no venue). Neither is
   read here.
-- **That waiting is the better outcome.** THEORY-232 reads delayed
+- **That waiting is the better outcome.** [THEORY-232](../theory.d/THEORY-232.md) reads delayed
   gratification as the mark of a more agential whole. A51 §7 qualifies
   it: "it's important not to equate the later outcome with the better one
   automatically."

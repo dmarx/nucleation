@@ -41,7 +41,7 @@ summary: >-
   four counterexamples and narrowed the bullying proposal to one mechanism
   of bullying; those are A's. The name "wrongful unilateral action" first
   appears in A57's closing synthesis, and the owner's U27 takes it up as
-  the name for the account. CLAIM-464 holds the timing; the wrong of
+  the name for the account. [CLAIM-464](CLAIM-464.md) holds the timing; the wrong of
   defeating a protected intervention was not held.
 ---
 <!-- inactive-ok-file: CLAIM-tmpyo35b CLAIM-tmp3t16f — filed from the same exchange, Proposed -->
@@ -143,9 +143,9 @@ another's protected interests in a manner that unjustifiably bypasses,
 overrides, or undermines the affected party's legitimate authority over
 the action or the conditions governing their participation." A59 §9 lists
 its kinds: unauthorized imposition, overriding, preemptive foreclosure
-(this claim), remedial hold-up (CLAIM-tmp3t16f), "**Counter-corrective
+(this claim), remedial hold-up ([CLAIM-tmp3t16f](CLAIM-tmp3t16f.md)), "**Counter-corrective
 domination:** Responding to challenge by weakening the channels through
-which later challenges could succeed" (CLAIM-619), and bullying by fait
+which later challenges could succeed" ([CLAIM-619](CLAIM-619.md)), and bullying by fait
 accompli. Each calls for a different response: consent protections;
 notice, standstill or suspension; preventive remedies; independent
 enforcement and protection against retaliation; a change in who holds
@@ -158,30 +158,30 @@ mark, as the name of the account. A59 §7 opens its cost-of-resistance
 extension with "Your suggestion also points toward something beyond
 temporal preemption", but U27 says nothing of costs; that extension is
 A's, and the owner's own extension to costs came next, at U28
-(CLAIM-tmpyo35b). A59 §8's "the normative-morphology method you've been
-advocating" credits the owner's U19 method correctly (CLAIM-tmp613ja); the
+([CLAIM-tmpyo35b](CLAIM-tmpyo35b.md)). A59 §8's "the normative-morphology method you've been
+advocating" credits the owner's U19 method correctly ([CLAIM-tmp613ja](CLAIM-tmp613ja.md)); the
 name is A's.
 
 ## How it sits with the record
 
-- **CLAIM-464** (Active) holds the timing: an intervention can change
+- **[CLAIM-464](CLAIM-464.md)** (Active) holds the timing: an intervention can change
   what it would take to correct it before it is reviewed. It is causal and
   says nothing about standing. This claim adds that when the outcome made
   unreachable is a protected opportunity to intervene, defeating it is a
   wrong in itself.
-- **CLAIM-624** and **CASE-229** (Proposed): a procedural wrong that does
+- **[CLAIM-624](CLAIM-624.md)** and **[CASE-229](../cases.d/CASE-229.md)** (Proposed): a procedural wrong that does
   not reduce to the harm, where an institution disables its challenge
   procedure and the remedy comes from outside. The futile objection is the
   same structure for one act. A59's last paragraph separates the act from
   "the wrong of constructing a relationship in which such acts can
-  routinely prevail", which is CLAIM-624's.
-- **CLAIM-523** (Active): correctability is achievement within deadline
+  routinely prevail", which is [CLAIM-624](CLAIM-624.md)'s.
+- **[CLAIM-523](CLAIM-523.md)** (Active): correctability is achievement within deadline
   and resources. This claim says when a missed deadline is someone's
   doing.
-- **TERM-124** (Proposed): domination as unanswerable capacity to set the
+- **[TERM-124](../terms.d/TERM-124.md)** (Proposed): domination as unanswerable capacity to set the
   terms on which a party can contest. Repeated preemption is how such a
   capacity is exercised.
-- **QUESTION-454** (Open): authority to decide for one with standing who
+- **[QUESTION-454](../questions.d/QUESTION-454.md)** (Open): authority to decide for one with standing who
   cannot decide. A59 §8's parent and emergency cases sit there.
 
 ## What it does not say

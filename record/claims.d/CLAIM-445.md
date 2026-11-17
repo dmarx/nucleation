@@ -241,7 +241,7 @@ It differs from the cases this claim has held in one respect: the evidence
 is true. B did lie. A: "B may genuinely have lied. But it doesn't follow
 that A is entitled to respond with surveillance or intimidation." The use
 of a real, induced wrong as an instrument of control, aimed also at
-observers' judgement, is filed as CLAIM-tmpciy9q, which rests on this
+observers' judgement, is filed as [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md), which rests on this
 claim for the loop.
 
 No status changes.

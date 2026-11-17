@@ -34,7 +34,7 @@ summary: >-
   formulation of our second-order agency thesis", and the question "**When
   circumstances arise that the existing agreement doesn't cover, who gets
   to decide what happens next?**" The connection to contract theory is
-  the owner's; the residual-control reading is A's. CLAIM-690 says control
+  the owner's; the residual-control reading is A's. [CLAIM-690](CLAIM-690.md) says control
   over the terms, not the size of a dependence, sorts it; this names a
   form that control takes in a contract. The works are not held. The
   wording is A's; adopting it is the owner's call.
@@ -69,7 +69,7 @@ authority may remain invisible until the relationship is perturbed."
 **Read in the record's terms.** The holder of residual control has the
 capacity to set the terms on which the other party acts in every
 contingency the contract left open. Where that capacity is not answerable
-to the other party under a declared standard, that is TERM-124's
+to the other party under a declared standard, that is [TERM-124](../terms.d/TERM-124.md)'s
 domination, and it is held whatever the specified terms say. A53 §6 takes
 it one level up: "**Second-order bargaining:** Who decides which terms can
 be offered, which alternatives are available, and how future disputes are
@@ -79,30 +79,30 @@ resources in reliance on it?**"
 
 ## How it sits with the record
 
-- **CLAIM-690** (Proposed): the same magnitude of dependence runs either
+- **[CLAIM-690](CLAIM-690.md)** (Proposed): the same magnitude of dependence runs either
   way, and what sorts it is who controls the terms of supply, exit and
   renegotiation. Residual control is one allocation of exactly that
   control, fixed in the contract's form rather than its terms.
-- **CLAIM-364** (Proposed): conditioned and negotiating processes part
+- **[CLAIM-364](CLAIM-364.md)** (Proposed): conditioned and negotiating processes part
   only under intervention, dissent or in their history. Authority that "may remain
   invisible until the relationship is perturbed" is that form: two contracts with the same
   specified terms part at the first uncovered contingency.
 - **Hold-up**, which A53 §2 also relays (relationship-specific investment
   weakens the investor's later position), is the dynamic by which an
   allocation of residual control comes to matter more over time. It is
-  noted on CLAIM-670, not filed here.
-- **CLAIM-tmp3t16f**: A55 §3 keeps the two apart: in breach-induced
+  noted on [CLAIM-670](CLAIM-670.md), not filed here.
+- **[CLAIM-tmp3t16f](CLAIM-tmp3t16f.md)**: A55 §3 keeps the two apart: in breach-induced
   hold-up "the breacher creates a new bargaining position through an
   unauthorized action rather than simply exercising a residual right over
   an unspecified contingency." This claim is the authorized case; that one
   is control acquired by violation.
-- **CLAIM-tmpt091d**: when a deferred reward's delivery is left open,
+- **[CLAIM-tmpt091d](CLAIM-tmpt091d.md)**: when a deferred reward's delivery is left open,
   residual control over it is control over whether waiting is rational.
 
 ## What it does not say
 
 - Not that residual control is domination. It is when it is not
-  answerable to the other party under a declared standard (TERM-124);
+  answerable to the other party under a declared standard ([TERM-124](../terms.d/TERM-124.md));
   duties of good faith, labour law or an arbiter can make it answerable.
 - Not that Grossman and Hart make this argument. Their question is which
   allocation of control gives efficient incentives to invest; the

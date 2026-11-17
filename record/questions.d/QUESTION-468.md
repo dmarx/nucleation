@@ -153,7 +153,7 @@ Charron-Chénier ([LIT-2525](../literature.d/LIT-2525.md)), read, for predatory 
 ([LIT-2522](../literature.d/LIT-2522.md)), Unavailable, for its organizational case.
 
 ## Note of 2026-11-17: a candidate standard for exploitation through commitments, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: TERM-123 QUESTION-tmpbzq36 CLAIM-tmpe5u7i CLAIM-tmpb47ul — Proposed, or filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-tmpe5u7i CLAIM-tmpb47ul — Proposed, or filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A15 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15) asks what
 separates "legitimate reliance" on someone's conscientiousness from
@@ -168,12 +168,12 @@ control over the conditions under which those commitments are
 exercised**".
 
 For this question's second part, the four are a candidate declared
-standard in TERM-123's sense, for one kind of case: exploitation through
-moral commitments. CLAIM-tmpe5u7i is the mechanism they would judge. For
+standard in [TERM-123](../terms.d/TERM-123.md)'s sense, for one kind of case: exploitation through
+moral commitments. [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) is the mechanism they would judge. For
 the first part, what separates exploitation from domination,
-QUESTION-tmpbzq36 asks whether control over the circumstances that trigger
+[QUESTION-tmpbzq36](QUESTION-tmpbzq36.md) asks whether control over the circumstances that trigger
 someone's obligations is domination too. For the third, who answers when
-the arrangement is not an agent, CLAIM-tmpb47ul says where blame tends to
+the arrangement is not an agent, [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) says where blame tends to
 land instead.
 
 The question stays Open.

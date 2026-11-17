@@ -38,12 +38,12 @@ summary: >-
   **de facto conversion of consent-based control into compensation-based
   protection**", which A calls "**endogenous mechanism selection through
   unilateral action**". The record held that an act can make a corrective
-  outcome unreachable (CLAIM-464); it did not hold that the act changes the
+  outcome unreachable ([CLAIM-464](CLAIM-464.md)); it did not hold that the act changes the
   mechanism by which the entitlement is allocated. Calabresi and Melamed
   are not held or read. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp3t16f CLAIM-tmpa0wdv CLAIM-tmpazi8a QUESTION-tmp9oq97 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmp3t16f CLAIM-tmpa0wdv CLAIM-tmpazi8a — filed from the same exchange, Proposed or new -->
 
 # CLAIM-tmpl0sgt: Where an entitlement is protected by a requirement of its holder's consent, an irreversible act against it leaves the holder in practice only a claim to compensation, so the actor has changed by its own act the rule by which the entitlement is allocated, from consent to liability, and not only what is paid for it
 
@@ -89,27 +89,27 @@ had legitimate authority to impose that loss.**" A's question from it:
 "**When should an actor be prevented from unilaterally converting another
 person's protected authority over an outcome into a claim for
 compensation after that outcome has already been foreclosed?**" That is
-the owner's question at U20 (QUESTION-tmp9oq97) asked of one capability.
+the owner's question at U20 ([QUESTION-tmp9oq97](../questions.d/QUESTION-tmp9oq97.md)) asked of one capability.
 
 ## How it sits with the record
 
-- **CLAIM-464** (Active): an intervention can make a corrective outcome
+- **[CLAIM-464](CLAIM-464.md)** (Active): an intervention can make a corrective outcome
   unreachable while the standards stay the same. This claim says what
   the holder is left with when the outcome lost is the holder's own
   decision: a claim of another kind, under another rule.
-- **CLAIM-tmp3t16f**: the bargaining over that compensation, in which the
+- **[CLAIM-tmp3t16f](CLAIM-tmp3t16f.md)**: the bargaining over that compensation, in which the
   breacher can gain leverage. This claim is the rule changing; that one is
   the terms reached once it has.
-- **CLAIM-tmpazi8a**: the owner's wrong of acting before a recognized
+- **[CLAIM-tmpazi8a](CLAIM-tmpazi8a.md)**: the owner's wrong of acting before a recognized
   opportunity for intervention can take effect. A59 §6 joins the two: "If
   B is entitled to refuse a transfer, then A's irreversible action can
   effectively replace B's ex-ante control with an ex-post claim for
   compensation." That claim names the wrong in the order of moves; this
   one names what the wrong converts.
-- **CLAIM-tmpa0wdv** (F4): the claim to what is owed persists. Here the
+- **[CLAIM-tmpa0wdv](CLAIM-tmpa0wdv.md)** (F4): the claim to what is owed persists. Here the
   entitlement persists in law and what changes is the holder's power over
   it; the two agree.
-- **CASE-128** (Active) is the same restriction consented to and imposed;
+- **[CASE-128](../cases.d/CASE-128.md)** (Active) is the same restriction consented to and imposed;
   this is the same transfer bargained for and taken.
 
 ## What it does not say

@@ -31,14 +31,14 @@ uses:
 summary: >-
   A's, A51 §4 and its second candidate proposition in the exchange "Assess
   Depp Heard Abuse" (2026-11-16), from the owner's association at U23 of
-  self-restraint with the marshmallow test (CASE-tmp07hx9): "**The virtue
+  self-restraint with the marshmallow test ([CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)): "**The virtue
   of patience can be exploited by actors who control the conditions under
   which patience is rewarded.**" A53 §2, at the owner's U24, gives the
   decision side: wait only if 2pδ > 1, where p is the chance the promise is
   kept. The record holds the parallel for households, where declining a
   delayed payoff below a buffer is the right policy and reads as
-  impatience (CLAIM-601), and the ratchet under limited commitment
-  (TERM-110); it had nothing on deferred rewards as a site of control. The
+  impatience ([CLAIM-601](CLAIM-601.md)), and the ratchet under limited commitment
+  ([TERM-110](../terms.d/TERM-110.md)); it had nothing on deferred rewards as a site of control. The
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpdic1g — filed from the same exchange, Proposed -->
@@ -51,7 +51,7 @@ summary: >-
 The owner's U23 linked A49 §4's "Self-restraint as an achievement of
 agency" to the marshmallow test. A51 §2 brought in Kidd, Palmeri and
 Aslin's version, in which children who had seen the experimenter break a
-promise waited far less (CASE-tmp07hx9), and drew the first half:
+promise waited far less ([CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)), and drew the first half:
 
 > **A refusal to delay gratification need not indicate a failure of self-government. It may reflect an appropriate judgment about the trustworthiness of the surrounding organization.**
 
@@ -83,30 +83,30 @@ performs first", the adult later, and "The interesting question is not
 merely whether the promise is sincere. It's whether the relationship
 gives the promisor the ability to change the terms after the other party
 has incurred the costs." A controller unanswerable for delivery holds, in
-TERM-124's terms, a capacity to set the terms on which the other party
+[TERM-124](../terms.d/TERM-124.md)'s terms, a capacity to set the terms on which the other party
 acts, and the other's virtue is the channel: "An institution can praise
 people's willingness to wait while refusing to make itself reliably
 accountable for what they are waiting for."
 
 ## How it sits with the record
 
-- **CLAIM-601** (Active, demonstrated): a household that must survive
+- **[CLAIM-601](CLAIM-601.md)** (Active, demonstrated): a household that must survive
   shocks declines profitable delayed investments below a buffer that
   rises with the delay, a choice "that reads as impatience and is the right
   policy". That is the same misreading from the other side: there the
   risk is in the household's buffer, here in the controller's reliability.
-- **TERM-110** (Proposed): a principal unable to commit to future terms
+- **[TERM-110](../terms.d/TERM-110.md)** (Proposed): a principal unable to commit to future terms
   revises them on what the agent reveals. A53 §2 relays it faithfully,
-  with Gerardi and Maestri (LIT-2046): "Excellence today can reduce
+  with Gerardi and Maestri ([LIT-2046](../literature.d/LIT-2046.md)): "Excellence today can reduce
   bargaining power tomorrow." That is a mechanism by which a controller
   changes delivery after restraint is shown; this claim is the general
   condition it exploits.
-- **CLAIM-344** (Active): resolve keeps a commitment effective while
+- **[CLAIM-344](CLAIM-344.md)** (Active): resolve keeps a commitment effective while
   keeping the capacity to revise it. A51 §7: "**The capacity to wait and
   the judgment that waiting is warranted must not be conflated.**" Resolve
   is the first; this claim is about what the second depends on (the note
-  of 2026-11-17 on CLAIM-344).
-- **CLAIM-tmpdic1g**: who holds residual control decides what the
+  of 2026-11-17 on [CLAIM-344](CLAIM-344.md)).
+- **[CLAIM-tmpdic1g](CLAIM-tmpdic1g.md)**: who holds residual control decides what the
   contract left open. Delivery of a deferred reward is often such a
   contingency.
 

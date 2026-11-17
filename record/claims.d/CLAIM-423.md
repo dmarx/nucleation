@@ -235,7 +235,7 @@ Law Journal, February 2026), as A relays it; the record has not read it.
 That is this claim's point that slowness alone does not settle which
 component governs: under a given arrangement the faster component can hold
 authority over the slower ones in the period before they act. The general
-case, a slowly revised rule over a fast process, is CLAIM-tmpgh3v2, which
+case, a slowly revised rule over a fast process, is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md), which
 rests on this claim.
 
 No status changes.

@@ -209,8 +209,8 @@ intervene.**" and wrote: "this is a concise characterization of how the
 executive branch under trump has attempted to bypass oversight and
 regulation, e.g. third country deportations, the eastwing/ballroom, haines
 point..." That is the observation this claim was filed from (the owner's
-U6 and U7 of 2026-10-26), made again. The East Wing is CASE-170 and
-transfers into foreign custody CASE-175. A25 credited the owner with adding
+U6 and U7 of 2026-10-26), made again. The East Wing is [CASE-170](../cases.d/CASE-170.md) and
+transfers into foreign custody [CASE-175](../cases.d/CASE-175.md). A25 credited the owner with adding
 "a temporal dimension" to Cuéllar's argument; the temporal principle is
 A23's, and the owner's addition, now as before, is the application to
 these actions.
@@ -222,7 +222,7 @@ accompli "describes an outcome but does not specify the causal mechanism".
 A25's "**The act of proceeding can generate new costs of stopping, which
 may subsequently weigh in favor of allowing further proceedings.**" is
 this claim's physical-irreversibility and project-as-argument route (see
-CASE-170's note of today). A30 §8 offers the idea as a "Possible new claim" without citing this one.
+[CASE-170](../cases.d/CASE-170.md)'s note of today). A30 §8 offers the idea as a "Possible new claim" without citing this one.
 
 **Hains Point** is the owner's new example. A25's account, unverified
 here: crews removed "more than 400 trees on October 10, 2026"; Judge Ana
@@ -245,6 +245,6 @@ pre-action review was required, whether urgency was genuine, whether less
 irreversible alternatives were available, and whether the government
 preserved meaningful opportunities for legally authorized oversight." A
 study that varies only an acting institution's speed is proposed as
-CASE-tmpdn372; the slow-rule counterpart is CLAIM-tmpgh3v2.
+[CASE-tmpdn372](../cases.d/CASE-tmpdn372.md); the slow-rule counterpart is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md).
 
 No status changes.
