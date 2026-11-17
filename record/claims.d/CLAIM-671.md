@@ -270,7 +270,8 @@ and redress", joins this claim's mechanism to [CLAIM-428](CLAIM-428.md) and
 [CLAIM-675](CLAIM-675.md). Not filed. No change.
 
 ## Note of 2026-11-17: responsibility can grow without authority, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: QUESTION-tmplax2r — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new; TERM-124 — Proposed -->
+<!-- inactive-ok-file: QUESTION-tmplax2r — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new -->
+<!-- inactive-ok-file: TERM-124 — Proposed -->
 
 A71 §2E of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), surveying sources of legitimacy for the owner's U31 (QUESTION-tmplax2r), takes role-based responsibility and vulnerability as the fifth. Its example: an employer that makes employees dependent on company-controlled infrastructure "may acquire additional responsibilities as the employees become increasingly vulnerable to its discretionary decisions. But the mere existence of dependence cannot by itself establish the obligation." It relays this claim correctly, as making "the inference conditional on an independently justified principle of responsibility".
 

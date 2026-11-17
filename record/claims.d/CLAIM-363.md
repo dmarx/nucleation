@@ -240,7 +240,8 @@ open part, which standard has authority when standards conflict. No
 status changes.
 
 ## Note of 2026-11-17: the relata of a judgment about a capability, and a citation error, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmp613ja — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed; LIT-1614 — Unavailable, named as A paired it -->
+<!-- inactive-ok-file: CLAIM-tmp613ja — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: LIT-1614 — Unavailable, named as A paired it -->
 
 A49 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), the method section of A's manuscript, lists what "a capability-governance judgment" involves: "1. An actor or institution holding a capability. 2. The action, power, or capacity being governed. 3. The parties affected, including those with relevant moral standing. 4. The arrangement of roles, dependencies, resources, and authority. 5. The independently specified normative standard under which restriction is considered. 6. The history and temporal horizon over which the restriction and its consequences are evaluated." Against this claim's relata (organization or standpoint, standard, scale, context), the arrangement and the standard are the claim's; the holder and the affected parties split its "organization or standpoint" into two roles; the horizon is a specification of context; and scale has no item. A keeps the claim's edge: "This approach does not make normative judgments merely subjective. Once the relevant parties, standards, and circumstances are specified, there remain factual questions", while "determining which standards ought to govern remains a separate task". CLAIM-tmp613ja, the owner's method from the same exchange, rests on this claim for exactly that.
 

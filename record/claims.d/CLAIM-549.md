@@ -210,7 +210,8 @@ criterion that decides satisfaction raises a pass rate with no accommodation
 ([CLAIM-662](CLAIM-662.md)). Supports; no status change.
 
 ## Note of 2026-11-17: willingness to bear a burden is not endorsement of it, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-658 — Proposed; CASE-tmp07hx9 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-658 — Proposed -->
+<!-- inactive-ok-file: CASE-tmp07hx9 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 
 A53 §3C of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), at the owner's U24, on what bids and accepted wages reveal: a monetary auction for housing can go to the bidder with money rather than the one in need, and "Someone may accept an extremely low wage because their alternatives are terrible." "**A participant's revealed willingness to accept a burden may be evidence of the constraints under which they are choosing, not evidence that they regard the burden as fair.**" A: "That is almost the economic counterpart to Nucleation's distinction between *tolerance* and *satisfaction*."
 

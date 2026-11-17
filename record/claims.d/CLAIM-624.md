@@ -420,7 +420,8 @@ them after [CLAIM-511](CLAIM-511.md). The comparative prediction A20 drew from t
 is [CLAIM-685](CLAIM-685.md). No change.
 
 ## Note of 2026-11-17: protection of corrective capabilities against restriction by those they constrain, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: QUESTION-tmp9oq97 CLAIM-tmpmeabu — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new or Proposed; ARG-058 — Proposed, the bound on the duty -->
+<!-- inactive-ok-file: QUESTION-tmp9oq97 CLAIM-tmpmeabu — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new or Proposed -->
+<!-- inactive-ok-file: ARG-058 — Proposed, the bound on the duty -->
 
 A41 §6 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), answering the owner's U20 (QUESTION-tmp9oq97), lists capabilities that matter "precisely because they permit resistance": to challenge an official decision, organize collectively, refuse an unsafe instruction, obtain independent information, interrupt an automated process, withdraw from an exploitative arrangement. It cites this claim and proposes: "**Capabilities necessary to make justified objections effective deserve special protection against restriction by the actors whose conduct those objections would constrain.**" A relays the claim faithfully, with its conditions ("given independently justified obligations and feasible alternatives").
 
@@ -438,7 +439,8 @@ Two things go beyond the claim as filed. The scope is wider: every capability "r
 No status changes.
 
 ## Note of 2026-11-17: a cleaner antecedent and a conditional derivation of the duty, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: ARG-tmptw59w CLAIM-tmpcpijj CLAIM-tmp0wx69 CLAIM-tmp69o4u — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17; ARG-058 ARG-055 CASE-229 — Proposed -->
+<!-- inactive-ok-file: ARG-tmptw59w CLAIM-tmpcpijj CLAIM-tmp0wx69 CLAIM-tmp69o4u — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: ARG-058 ARG-055 CASE-229 — Proposed -->
 
 The exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) cites this claim repeatedly. Its antecedent appears in a cleaner form, first in A102 §8 ("The existence of the first-order authority does not establish the second-order authority") and then as A106 §12's "candidate second-order principle": "**Where an actor's legitimate authority is constrained by claims others possess, the actor's control over the conditions through which those claims become effective requires justification independently of its authority over the underlying activity.**" That is CLAIM-tmpcpijj's thesis, filed from the part before, and a candidate premise for this claim: it says why reproducing an occluding mechanism needs a justification the organization's substantive authority does not supply.
 

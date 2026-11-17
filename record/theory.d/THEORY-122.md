@@ -196,7 +196,8 @@ assertion about manipulation, so it neither instances nor contradicts
   responsible, because he lacks normative competence.
 
 ## Note of 2026-11-17: JoJo carried to institutions, and the owner's link to normative governability, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmpsk25g CLAIM-tmp0wx69 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17; LIT-690 LIT-685 — Unavailable, unread -->
+<!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmpsk25g CLAIM-tmp0wx69 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: LIT-690 LIT-685 — Unavailable, unread -->
 
 In U46 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) the owner linked A's normative governability to this account: "This feels like it connects nicely to "Reasons Responsiveness" theories like Susan Wolf's." A108 §2 reports the account as this entry does ("the capacity for moral responsibility involves being able to recognize and act in light of what is genuinely right or good—not merely acting consistently with whatever evaluative system one happens to endorse"), separates it from Fischer and Ravizza's moderate reasons-responsiveness (THEORY-121), and describes this entry accurately as recording "Wolf's position, with a qualification that the primary Wolf texts had not been read" (A110 §7). A cites search results, not LIT-690 or LIT-685; nothing in the exchange is evidence for the `promote_when`.
 

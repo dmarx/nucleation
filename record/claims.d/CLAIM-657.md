@@ -120,7 +120,8 @@ demand for "a vast empirical base" that deters the question. A sense-3
 case ([TERM-074](../terms.d/TERM-074.md)). Filed as `corroborates`. No status change.
 
 ## Note of 2026-11-17: deterrence before voice, a candidate third route, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-619 CLAIM-652 — Proposed; CLAIM-tmpyo35b — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-619 CLAIM-652 — Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpyo35b — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 
 A64 §13 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), on litigation as siege (CLAIM-tmpyo35b): a potential claimant files when the expected value of feasible litigation covers the cost of filing, and an adversary that can credibly impose high procedural costs may lower that expected value "across an entire population of potential challengers." "Some people never file. Some do not raise complaints." The observed rate of successful challenge falls, but "It may mean that asserting legitimate rights has become less feasible." A68 §3 adds the selection of adjudicated cases: claimants who cannot continue settle or withdraw, so "**The process that makes contestation costly can also alter the population of contests from which the institution learns whether its conduct is justified.**", with Pr(success | survives to adjudication) not in general Pr(success), the direction unknown.
 

@@ -152,7 +152,8 @@ control, so it cannot be the contrast. That is why this case is
 fictional.
 
 ## Note of 2026-11-17: counterfactual authority and four open arms, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CASE-tmpm0rpn CLAIM-tmp613ja — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed; CLAIM-364 CLAIM-603 — the entries A and this note set beside the case, cited with their standing -->
+<!-- inactive-ok-file: CASE-tmpm0rpn CLAIM-tmp613ja — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-364 CLAIM-603 — the entries A and this note set beside the case, cited with their standing -->
 
 A45 §13 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) proposes a matched case that "combines the logic of CASE-264, which varies control over terms while holding dependence constant, with the historical and counterfactual concerns of CLAIM-364": two organizations with the same output, in both of which A can set B's terms; in one the capability is "constrained by rules B can meaningfully challenge through an independent process", in the other A "can change the terms unilaterally"; all decisions identical, no abuse, no complaint. "The difference lies in **counterfactual authority**, not presently observed harm." That is this case under another standard of answerability (an independent challenge rather than withdrawal and renegotiation), with the stronger stipulation that nothing observed differs. A relays the case faithfully.
 

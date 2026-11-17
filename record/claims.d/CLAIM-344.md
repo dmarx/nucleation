@@ -245,7 +245,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The claim is unchanged.
 
 ## Note of 2026-11-17: the capacity to wait and the judgment that waiting is warranted, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed; THEORY-232 — Proposed -->
+<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: THEORY-232 — Proposed -->
 
 A51 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) answers the owner's U23, which linked "Self-restraint as an achievement of agency" to the marshmallow test (CASE-tmp07hx9). A51 §1 relays this claim faithfully on the Mischel finding that children who turned their attention away waited longer: "**The achievement of self-restraint may lie less in the strength of resistance than in the organization that makes resistance unnecessary or manageable.**" That is the claim's "Resolve without exertion", and the case illustrates it.
 

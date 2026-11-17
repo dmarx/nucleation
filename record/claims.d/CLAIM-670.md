@@ -128,7 +128,8 @@ added an encumbrance.
 No relation written.
 
 ## Note of 2026-11-17: hold-up as a second route to produced dependence, and a misattributed source, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-669 — Proposed; CLAIM-tmpdic1g — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-669 — Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpdic1g — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 
 A53 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), at the owner's U24 ("labor theory, contract theory, and auction theory are feeling relevant"), relays the hold-up problem of incomplete-contract theory: a worker invests years in skills "useful primarily to one employer"; once the investment is made "the employee's outside options may be limited", and "The employer can attempt to renegotiate compensation, knowing the employee would lose much of their investment by leaving." A ties it to this claim ("It fits our discussion of dependency-producing exploitation"): "**The original exchange can be advantageous and apparently voluntary while progressively changing the power each participant possesses over later exchanges.**"
 

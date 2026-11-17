@@ -232,7 +232,8 @@ hospital network, asks this claim's three questions of one objection
 raised by different parties. No change.
 
 ## Note of 2026-11-17: the claimant's side of legibility, and an institutional reading of reasons-responsiveness, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmp69o4u — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17; CLAIM-619 — Proposed -->
+<!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmp69o4u — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-619 — Proposed -->
 
 A102 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) separates "Reasons a person has", "Reasons the person can formulate", "Reasons the institution recognizes" and "Reasons that can influence institutional action", and notes that "These sets can differ." The last two are this claim's legibility and volitional efficacy. The second is a stage the claim does not name: before a discrepancy can be legible to the organization, the claimant must be able to formulate it, and an organization that "controls how incidents are classified, which records are retained, which patterns are visible, and what employees can learn about comparable treatment" can block that stage while keeping "a formally respectable grievance procedure". A's warning follows: "An institution may improve its apparent complaint performance by preventing objections from becoming recognizable in the first place." It is the claimant's side of the same chain; the record holds the organization's side here and the reading of a falling complaint count in CLAIM-619 and CLAIM-549.
 
