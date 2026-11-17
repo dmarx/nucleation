@@ -17,12 +17,12 @@ summary: >-
   operations, monotones or convertibility. Asked on 2026-11-17 which sense
   was meant, the owner asked for this question to be filed. That puts the
   formal sense on the record: the resource theories the record reads
-  (THEORY-1397, THEORY-1435) applied to commitments. The formalization in
+  ([THEORY-1397](../theory.d/THEORY-1397.md), [THEORY-1435](../theory.d/THEORY-1435.md)) applied to commitments. The formalization in
   the body is the filer's reading, not the exchange's. The wording is the
   assistant's (Claude, in this session); the question is the owner's.
 ---
 <!-- inactive-ok-file: THEORY-1397 — Proposed; the record's reading of Coecke, Fritz and Spekkens -->
-<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpe5u7i CLAIM-tmpb47ul QUESTION-tmpbzq36 — filed from the same exchange on 2026-11-17, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpe5u7i CLAIM-tmpb47ul — filed from the same exchange on 2026-11-17, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-690 — Proposed; the record's claim on control of the terms of a dependence -->
 
 # QUESTION-tmp6kgwm: Is there a resource theory of moral commitments, in the formal sense: what are the free transformations among parties who hold commitments, which quantities are monotone under them, and is the leverage one party gains from another's commitment a conversion that is free for the one and costly for the other?
@@ -40,15 +40,15 @@ credibility, motivational force and borrowed legitimacy, which others can
 draw on and exhaust. Its §9 is headed "A resource-theoretic theory of moral
 domination", but what follows is a list of five kinds of power over another
 person's morality, with no formal structure. The economic reading is filed
-in CLAIM-tmp76x3e (normative manipulation), CLAIM-tmpe5u7i (the moral
-subsidy) and CLAIM-tmpb47ul (asymmetric moral accountability).
+in [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) (normative manipulation), [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) (the moral
+subsidy) and [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) (asymmetric moral accountability).
 
 The record also holds resource theory in the formal sense. Coecke, Fritz
-and Spekkens (THEORY-1397): a resource theory is a symmetric monoidal
+and Spekkens ([THEORY-1397](../theory.d/THEORY-1397.md)): a resource theory is a symmetric monoidal
 category of resources and free transformations, and its usual questions
 depend only on the preordered monoid of convertibility. Marsden and Zwart
-(THEORY-1435): quantitative resource theories are enriched in a quantale
-that composes costs. CLAIM-563 says when processes under a budget are
+([THEORY-1435](../theory.d/THEORY-1435.md)): quantitative resource theories are enriched in a quantale
+that composes costs. [CLAIM-563](../claims.d/CLAIM-563.md) says when processes under a budget are
 closed under composition. Nothing on the record applies this apparatus to
 commitments.
 
@@ -81,11 +81,11 @@ This is the filer's reading, offered as the question's terms.
   than each alone).
 - A reason why the formal sense adds nothing to the economic one: every
   question the record asks about commitments is already answered by the
-  control-of-terms account (CLAIM-690, QUESTION-tmpbzq36).
+  control-of-terms account ([CLAIM-690](../claims.d/CLAIM-690.md), [QUESTION-tmpbzq36](QUESTION-tmpbzq36.md)).
 
 ## Bearing
 
-QUESTION-tmpbzq36 asks whether activating another's obligations gives
+[QUESTION-tmpbzq36](QUESTION-tmpbzq36.md) asks whether activating another's obligations gives
 control over the terms of their dependence. A formal answer here would
 make that question exact: control would be the asymmetry of free
 conversions.
