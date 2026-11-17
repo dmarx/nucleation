@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpfrjqq
 title: 'For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    A dated note: A64 §6 of the exchange "Assess Depp Heard Abuse"
+    gives the claim's structure with an adversary, a small added cost
+    that moves a remedy across the claimant's budget, and points to
+    the claim without its code. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -113,3 +121,12 @@ filing noted this example on [CLAIM-571](CLAIM-571.md).
   capacities, one's utilization need not track response capability.
 - Not which transitions an organization ought to keep within reach. That
   is a judgment the derivation leaves to whoever cuts.
+
+## Note of 2026-11-17: the adversarial instance, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CASE-tmphljcr CLAIM-tmpyo35b — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A64 §6 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) proves "**Proposition 3 — Procedural feasibility crossing**": with C_B^J(u) the least a claimant must spend to reach remedy J under an opponent's conduct u, C_B^J(u_0) ≤ K_B < C_B^J(u_1) makes J reachable under u_0 and not under u_1. Its instance: enforcement needs $98,000, the claimant has $100,000, and $5,000 of unnecessary expense removes the remedy. A: "It connects to Nucleation's work on slack and reconfiguration capacity", which is this claim, uncited.
+
+The structure is this claim's, with two differences. Here a cut in the resource held removes exactly the transitions whose threshold lies between the old holding and the new; there an added requirement removes exactly the objectives whose cost it pushes past the holding. And here the resource is held at each moment, while A64's is a budget spent over the dispute. Both say that what is lost is fixed by which thresholds fall in the gap, so a small change near a boundary can remove a whole option. A64 adds the adversary: "**An adversary possesses procedural foreclosure power when its available choices can move another party's justified corrective objective across a resource-feasibility boundary.**" Rechecked in CASE-tmphljcr; it grounds CLAIM-tmpyo35b.
+
+No status changes.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-21'
@@ -60,6 +60,13 @@ history:
     QUESTION-100 (an institutional form of its capture branch)" and on
     QUESTION-071 (manipulation). Reading review of 2026-11-11, by
     question. Under ADR-085 it takes will-organization. No other change.
+- version: 9
+  date: '2026-11-17'
+  note: >-
+    A dated note: the owner's U6 of the exchange "Assess Depp Heard
+    Abuse" raised reflexive control again, and A developed a route
+    through the situation the target's values respond to, filed
+    separately. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -455,3 +462,36 @@ checked by the filer: an instance of the informational route: platforms
 shape which news reaches audiences and, through dependency, editorial
 choices, without dictating them; outlets' editorial-algorithm committees
 (Interviewee 40) are an internal counterweight.
+
+## Note of 2026-11-17: reflexive control again, for moral conditions, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpciy9q — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+The owner returned to reflexive control at U6 of the exchange "Assess Depp
+Heard Abuse" (2026-11-15): "this reminds me of russian work on "reflexive
+control" as a grey tactic". This claim was filed from the owner's first
+such turn (U20 of 2026-10-20), about an organization's evidence and
+criteria. The second turn came in a discussion of moral responsibility,
+and A11 carried reflexive control from what a target believes to what it
+ought to do. A11 §1's "**You don't necessarily need to control someone's
+decision. You can control the premises from which they make it.**" is this
+claim's evidence route; A calls the genus "agency-mediated control", a
+label for this claim's genus that needs no code.
+
+A11 §4 then names "**Normative manipulation:** Exploit the target's actual
+values, commitments, and decision rules, so that acting according to them
+produces an outcome chosen by the manipulator", and A13 §2 its strongest
+form, "Creating genuine moral obligations". That is a route this claim does
+not hold. Its evidence route moves a*(e) with U fixed, and its criteria
+route moves U. In A's route neither moves: the manipulator changes the
+state of the world itself, the target sees it accurately, and its correct
+decision moves because the world did. It is filed as CLAIM-tmp76x3e, which
+rests on this claim, with A15 §7's condition (the manipulator controls the
+trigger and escapes the cost) as what makes it a way of being governed.
+The use of a manipulated party's real wrongs against it, before an
+anticipated audience, is CLAIM-tmpciy9q.
+
+A11 §6 adds a caution this claim's edge already states ("It does not say
+that any regulator, newsroom or expert body is captured"): "We need
+evidence of intention, anticipation, capacity, and causal influence."
+
+No status changes.

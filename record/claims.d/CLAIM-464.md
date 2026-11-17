@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -20,6 +20,13 @@ history:
     2026-10-29 (the Abrego Garcia order, Scheppele, Fiss and Cover) add
     mechanisms and a rival explanation and do not meet the defeated_if.
     The claim is unchanged.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: the owner's U13 of the exchange "Assess Depp Heard
+    Abuse" restates the observation this claim was filed from, with
+    Hains Point as a new example whose facts are unverified. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -191,3 +198,53 @@ organization changed itself so that it no longer is", so that "present
 infeasibility may be part of the object of normative evaluation rather than
 an excuse that ends it". That is this claim with [CLAIM-518](CLAIM-518.md)'s histories. No
 new claim filed; mapped here.
+
+## Note of 2026-11-17: the owner's observation restated, and Hains Point, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CASE-tmpdn372 CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+At U13 of the exchange "Assess Depp Heard Abuse" (2026-11-15) the owner
+quoted A23 §3's "**The speed at which an institution can act imposes an
+upper bound on the practical effectiveness of anyone else's right to
+intervene.**" and wrote: "this is a concise characterization of how the
+executive branch under trump has attempted to bypass oversight and
+regulation, e.g. third country deportations, the eastwing/ballroom, haines
+point..." That is the observation this claim was filed from (the owner's
+U6 and U7 of 2026-10-26), made again. The East Wing is CASE-170 and
+transfers into foreign custody CASE-175. A25 credited the owner with adding
+"a temporal dimension" to Cuéllar's argument; the temporal principle is
+A23's, and the owner's addition, now as before, is the application to
+these actions.
+
+A25 calls the mechanism "*fait accompli*": "creating a new reality before
+others can prevent it, then making them confront the costs of undoing it."
+This claim chose its own name over that one in 2026-10 because fait
+accompli "describes an outcome but does not specify the causal mechanism".
+A25's "**The act of proceeding can generate new costs of stopping, which
+may subsequently weigh in favor of allowing further proceedings.**" is
+this claim's physical-irreversibility and project-as-argument route (see
+CASE-170's note of today). A30 §8 offers the idea as a "Possible new claim" without citing this one.
+
+**Hains Point** is the owner's new example. A25's account, unverified
+here: crews removed "more than 400 trees on October 10, 2026"; Judge Ana
+Reyes's opinion of 26 October 2026 found conflicting accounts of whether a
+final plan existed, with government lawyers maintaining that "the relevant
+agency had not yet adopted a final plan"; and on 14 November she
+"temporarily blocked a planned November 15 closure of East Potomac Park".
+If those facts hold, the case adds a route this claim does not list beside
+physical irreversibility, enforcement-mediated entrenchment and
+jurisdictional displacement: acting through steps the actor maintains are
+preliminary, so that a reviewable decision is not yet there to challenge.
+A25: "the government exercises effective control through preliminary
+actions, while opponents must establish that those actions are legally
+ripe for review." A25 also counts the 14 November order as "an important
+counterexample to an overly deterministic version of our theory". No case
+is filed until the facts are checked.
+
+A25's limiting questions fit this claim's edge on intent: "whether
+pre-action review was required, whether urgency was genuine, whether less
+irreversible alternatives were available, and whether the government
+preserved meaningful opportunities for legally authorized oversight." A
+study that varies only an acting institution's speed is proposed as
+CASE-tmpdn372; the slow-rule counterpart is CLAIM-tmpgh3v2.
+
+No status changes.

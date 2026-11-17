@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj6tb1
 title: 'An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,14 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A53 §2 of the exchange "Assess Depp Heard Abuse"
+    relays the hold-up problem, a route by which the dependent's own
+    relationship-specific investment produces the dependence; A49's
+    provenance table wrongly pairs the claim with Seamster and
+    Charron-Chénier. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -118,3 +126,14 @@ added an encumbrance.
 - **Han 2014** ([THEORY-1843](../theory.d/THEORY-1843.md)): neoliberal power "tries to make them dependent", this claim's mechanism, asserted, not shown.
 - **Crawford 2006** ([THEORY-1844](../theory.d/THEORY-1844.md)): "What ordinary people once made, they buy", dependence produced by provision, as illustration.
 No relation written.
+
+## Note of 2026-11-17: hold-up as a second route to produced dependence, and a misattributed source, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-669 — Proposed; CLAIM-tmpdic1g — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A53 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), at the owner's U24 ("labor theory, contract theory, and auction theory are feeling relevant"), relays the hold-up problem of incomplete-contract theory: a worker invests years in skills "useful primarily to one employer"; once the investment is made "the employee's outside options may be limited", and "The employer can attempt to renegotiate compensation, knowing the employee would lose much of their investment by leaving." A ties it to this claim ("It fits our discussion of dependency-producing exploitation"): "**The original exchange can be advantageous and apparently voluntary while progressively changing the power each participant possesses over later exchanges.**"
+
+It is a second route to the dependence this claim is about. Here the provider's reliable supply leads the party to stop supplying for itself. In hold-up the party's own relationship-specific investment, often invited by the provider, makes leaving costly; the provider supplies nothing new. Both produce a reliance the party did not have and that the provider can use to set terms the party could earlier have refused, which is the claim's conclusion. A names no source; the standard ones are in the incomplete-contract work A cites beside it (Grossman and Hart 1986; Hart and Moore 1990), carried in CLAIM-tmpdic1g, and none is held.
+
+A49's provenance table pairs this claim with CLAIM-669 in a row whose literature is Seamster and Charron-Chénier (LIT-2525). Only CLAIM-669 cites that work, through its reading of it, and this claim's summary says why: "Seamster and Charron-Chénier show the second mechanism, not this one." A49's body uses the work correctly, for access "extended on terms that reproduce or deepen vulnerability", which is CLAIM-669's mechanism.
+
+No status changes.

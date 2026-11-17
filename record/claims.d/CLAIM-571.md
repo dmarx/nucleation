@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -53,6 +53,12 @@ history:
     construction case under ADR-096, the decision's first
     application; ARG-077 carries the support for the claim's
     "need not equal" clause. The body is unchanged. No status change.
+- version: 6
+  date: '2026-11-17'
+  note: >-
+    A dated note: A74 §3 of the exchange "Assess Depp Heard Abuse"
+    indexes the threshold by a normatively permitted set of paths,
+    which can only raise it. No other change.
 grounds:
 - CASE-233
 role: thesis
@@ -276,3 +282,12 @@ efficiency fixed from A's text as cutting the resource held toward what
 the present configuration requires. It then follows from this claim and
 [TERM-106](../terms.d/TERM-106.md): the cut removes exactly the transitions whose threshold lies
 between the old holding and the new. No change to this claim.
+
+## Note of 2026-11-17: a normatively permitted path set, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpol7nz — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A74 §3 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) calls its threshold "a norm-constrained extension of Nucleation's CLAIM-571". With Γ_N(G₀, G₁) "the set of transitions permitted under the relevant normative constraints", b*_N(G₀, G₁) = inf over γ ∈ Γ_N of max_t r(γ(t)), and G₁ is "LegitimatelyReachable_N" from G₀ when some history in Γ(G₀, G₁; b, H) ∩ H_N exists. A's case is a court reform whose shortcuts, "suspending hearings, dismissing pending cases, or denying certain parties their ordinary protections", "may be technically feasible while violating the very obligations the reform is supposed to help fulfill".
+
+What follows, though A does not state it: Γ_N ⊆ Γ, so b*_N ≥ b*. A normative restriction on the path can raise this claim's threshold and never lower it, as CLAIM-582 says of any added hard constraint. TERM-106's reconfiguration slack already keeps "specified commitments" along the path; Γ_N is that clause with the commitments read as obligations to others. That the same endpoint reached by a permitted and an unpermitted path differs normatively is filed as CLAIM-tmpol7nz's first separation.
+
+No status changes.

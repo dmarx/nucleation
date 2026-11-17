@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpojwyk
 title: 'When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,12 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: the exchange "Assess Depp Heard Abuse" gives a
+    candidate mechanism for the question's second branch, filed as a
+    claim, and a question that refines this one. No other change.
 tags:
 - society-and-governance
 - social-ontology
@@ -226,3 +232,26 @@ entries were filed that bear on this question.
   low-status party as from clinicians.
 
 The question is unchanged.
+
+## Note of 2026-11-17: a mechanism for the second branch, and a sharper question, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpe5u7i QUESTION-tmpvoufs CLAIM-690 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed -->
+
+The exchange "Assess Depp Heard Abuse" (2026-11-15) offers a mechanism for
+this question's second branch, where an organization's dependence on
+subordinated participants does not become their authority. A13 §4 and A15
+§3: an understaffed service is kept running by staff who will not abandon
+those they serve, an "implicit moral subsidy" ("**They've been transferred
+from a financial obligation of the institution into a moral burden on its
+employees.**"). On CLAIM-690 a part able to withdraw turns the whole's
+need of it into its own hold; a commitment that makes withdrawal a moral
+failure takes that ability away from inside, and the need gives no hold.
+A13 §10 adds that the most conscientious bear most. Filed as
+CLAIM-tmpe5u7i, which bears on this question.
+
+A17's close asks the reverse of principal–agent theory: "*How can agents
+hold principals accountable for the conditions under which agents are
+required to act?*" Filed as QUESTION-tmpvoufs, which refines this one to
+the instruments by which indispensable contributions could become
+effective claims.
+
+The question stays Open.

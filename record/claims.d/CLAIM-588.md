@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvl8j0
 title: 'Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -30,6 +30,13 @@ history:
     touches frustration; the others act on its load and its consequences",
     and "Redistribution acts on where its residual or load is carried".
     Already carries realizability, so no line changes. No other change.
+- version: 4
+  date: '2026-11-17'
+  note: >-
+    A dated note: A39 §4 of the exchange "Assess Depp Heard Abuse"
+    gives the claim's second design target, redistributing an
+    unavoidable mismatch, a normative reading: a coercive relationship
+    puts the whole of it on the less powerful party. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -139,3 +146,11 @@ demands jointly realizable, and should not be reported as if it had.
   outside, which [TERM-060](../terms.d/TERM-060.md) is not. The table is a classification of
   design targets that carries across the two senses, not an identification
   of them.
+
+## Note of 2026-11-17: who carries an unavoidable mismatch, as a mark of coercion, from "Assess Depp Heard Abuse"
+
+A39 §4 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), answering the owner's U19, takes a case this claim's second target covers: two parties with "legitimate but incompatible needs", where nothing relieves the incompatibility. In a constructive relationship "the incompatibility becomes a shared problem" and the costs are divided, imperfectly. In a coercive one "One person's needs become nonnegotiable constraints. The other's needs become problems they must personally solve", and "The organization resolves the conflict by assigning the burden of incompatibility to the less powerful participant." A's summary: "**A productive relationship treats legitimate conflicts as problems of coordination. A coercive relationship can transform those conflicts into obligations of unilateral accommodation.**"
+
+This is the claim's redistribution without relief, with a normative test attached: where the residual is made to sit, and whether the party carrying it had any say in that. The claim keeps the design target apart from its worth ("That redistributing or exploiting a mismatch is good" is not said; QUESTION-387 asks whether it can be), and A's reading does not touch that; it says which redistributions mark a relationship as coercive, relative to a standard on who should bear an unavoidable cost. A also ties it to the record's tolerance work: an organization "may remain quiet because unmet demands have been absorbed", which is CLAIM-549's quiescence without satisfaction. The step from design target to verdict is A's and interpretive.
+
+No status changes.

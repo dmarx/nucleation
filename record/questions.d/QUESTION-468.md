@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpyesgg
 title: 'How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,12 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     It keeps organizational-normativity second, because it refines
     QUESTION-129, whose first line it is (ADR-085). No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A15 §8 of the exchange "Assess Depp Heard Abuse"
+    offers four dimensions as a candidate declared standard for
+    exploitation through moral commitments. No other change.
 tags:
 - ethics
 - society-and-governance
@@ -145,3 +151,29 @@ exploited rather than only dependent or only dominated.
 Berenstain's "Epistemic Exploitation" ([LIT-2264](../literature.d/LIT-2264.md)), unread; Seamster and
 Charron-Chénier ([LIT-2525](../literature.d/LIT-2525.md)), read, for predatory inclusion; Alicea
 ([LIT-2522](../literature.d/LIT-2522.md)), Unavailable, for its organizational case.
+
+## Note of 2026-11-17: a candidate standard for exploitation through commitments, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: TERM-123 QUESTION-tmpbzq36 CLAIM-tmpe5u7i CLAIM-tmpb47ul — Proposed, or filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A15 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15) asks what
+separates "legitimate reliance" on someone's conscientiousness from
+exploiting it, and answers on four dimensions: "**Consent**"
+("Responsibilities are knowingly and reasonably accepted" against
+"Obligations are imposed through manufactured dependency"), "**Burden**",
+"**Control**" ("They are accountable for outcomes they cannot meaningfully
+control") and "**Exit**" ("Exiting is made to appear equivalent to harming
+innocent people"). Its summary: exploitation can consist in "**appropriating
+the practical benefits of someone's moral commitments while denying them
+control over the conditions under which those commitments are
+exercised**".
+
+For this question's second part, the four are a candidate declared
+standard in TERM-123's sense, for one kind of case: exploitation through
+moral commitments. CLAIM-tmpe5u7i is the mechanism they would judge. For
+the first part, what separates exploitation from domination,
+QUESTION-tmpbzq36 asks whether control over the circumstances that trigger
+someone's obligations is domination too. For the third, who answers when
+the arrangement is not an agent, CLAIM-tmpb47ul says where blame tends to
+land instead.
+
+The question stays Open.

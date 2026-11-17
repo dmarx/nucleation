@@ -20,7 +20,16 @@ promote_when: >-
   first-hand and shown to survive Watson's attributability/accountability
   split. Another survey restating JoJo cannot settle it.
 title: "Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    A dated note: the exchange "Assess Depp Heard Abuse" links the
+    Reason View to the record's institutional normative governability
+    at the owner's U46 and uses JoJo for the owner's distinction
+    between blame and accountability at U47; the primary texts are
+    still unread. No other change.
 tags:
 - free-will
 - agency
@@ -186,3 +195,11 @@ assertion about manipulation, so it neither instances nor contradicts
   with his desires and so is free. On the Reason View he is not
   responsible, because he lacks normative competence.
 
+## Note of 2026-11-17: JoJo carried to institutions, and the owner's link to normative governability, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmpsk25g CLAIM-tmp0wx69 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17; LIT-690 LIT-685 — Unavailable, unread -->
+
+In U46 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) the owner linked A's normative governability to this account: "This feels like it connects nicely to "Reasons Responsiveness" theories like Susan Wolf's." A108 §2 reports the account as this entry does ("the capacity for moral responsibility involves being able to recognize and act in light of what is genuinely right or good—not merely acting consistently with whatever evaluative system one happens to endorse"), separates it from Fischer and Ravizza's moderate reasons-responsiveness (THEORY-121), and describes this entry accurately as recording "Wolf's position, with a qualification that the primary Wolf texts had not been read" (A110 §7). A cites search results, not LIT-690 or LIT-685; nothing in the exchange is evidence for the `promote_when`.
+
+The institutional reading is A's, not Wolf's: "**An institution's fidelity to its own commitments does not establish its responsiveness to justified normative reasons.**" (A108 §2), with A's caution that "An institution is not necessarily a person possessing consciousness, moral sanity, or responsibility in precisely Wolf's sense." It is filed as TERM-tmphum9r, which draws on this account. The owner's U47 then uses JoJo for a distinction this account does not make: "It might not be JoJo's "fault" that they hold the reasons that they do, but they are still accountable for the effects of acting on those reasons." That is filed as CLAIM-tmpsk25g, in the remedial sense of accountability, so it does not contradict this account, whose claim is about blame. A108 §5's institutional tension, an incapacity the agent produced itself, is CLAIM-tmp0wx69; it agrees with this entry that JoJo's excuse is a present incapacity and adds that, for institutions, the history of that incapacity decides whether it excuses.
+
+No status changes.

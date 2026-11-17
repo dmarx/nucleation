@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpq5i0m
 title: 'Can relationally indexed normative judgments be objective about the standards and perspectives themselves, so that some conflicts between standpoints have objectively better resolutions, without presupposing the normativity they were meant to explain?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,13 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A90 XIII of the exchange "Assess Depp Heard Abuse"
+    offers fallibilism about independent rights as a response to the
+    question, and the owner's proposal to take inalienable rights as
+    independent criteria is filed beside it. No other change.
 tags:
 - ethics
 - metaphysics
@@ -140,3 +147,14 @@ non-domination as resources, and conceded that "the resulting normative
 position still requires philosophical defense". Wolf's Meaning in Life
 and Why It Matters and Sen's books are registered unread from the
 exchange. The question is unchanged.
+
+## Note of 2026-11-17: fallibilism about independent standards, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: QUESTION-tmptinzk — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A90 XIII of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17), against an institution that claims legitimacy because "all recognized rights have been respected": an independent-rights theory "must be **fallibilist about identifying and applying rights**, even if it maintains that rights need not be constituted by their present recognition", so that "**Normative standards may be independent of institutional judgment while our knowledge of those standards remains incomplete and revisable.**" A calls this "likely the most productive response to Nucleation's open QUESTION-129 without claiming to have resolved metaethics."
+
+It is a position, not an answer. It separates a standard's independence from our access to it, which presupposes the realist half the question asks to be shown; it supplies no principled constraint on which standpoints have authority. The owner's own move in the same exchange, to take rights no institution creates as the independent criteria (U37), is filed as QUESTION-tmptinzk, which refines this one.
+
+A's paraphrases of the question drop its relational indexing (A90 III: "a normative theory must justify the standards"), and A83 §12's gloss, "objective success under an assumed norm does not establish the norm's authority", is CLAIM-075 rather than this question.
+
+No status changes.

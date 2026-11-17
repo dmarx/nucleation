@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpbjaiq
 title: 'A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,12 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A19 §2 of the exchange "Assess Depp Heard Abuse"
+    gives a hospital AI variant in which verification time is not
+    budgeted. No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -107,3 +113,30 @@ contractors.
   whose contributions do not become claims; whether that is unjust is
   [QUESTION-463](../questions.d/QUESTION-463.md).
 - It is stipulated and settles no fact about any hospital.
+
+## Note of 2026-11-17: the economics of nominal oversight, a variant, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-tmpb47ul CLAIM-tmpe5u7i — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A19 §2 of the exchange "Assess Depp Heard Abuse" (2026-11-15) gives a
+hospital AI variant of this case, with a deterioration-prediction tool and
+clinicians who "retain responsibility for all treatment decisions". Its
+added element is arithmetic: "Suppose management introduces a tool that
+saves ten minutes of work but requires five minutes of verification." If
+management "budgets only for the savings, without accounting for
+verification time", the clinician must "either inspect the output
+carefully and fall behind schedule, or work faster and risk missing an
+error". "If they choose careful verification, their conscientiousness
+subsidizes the organization. If they skip verification and something goes
+wrong, they may be blamed for carelessness." "The system has converted
+professional responsibility into an unbudgeted safety mechanism", and the
+clinician is "**both an essential safety component and a convenient
+repository of blame**".
+
+For this case, that sharpens "clinicians lose discretion": they keep
+formal discretion and lose the time to use it, which is how a justified
+objection fails to become effective without any rule against it. The
+mechanisms are filed from the same exchange: the unbudgeted subsidy
+(CLAIM-tmpe5u7i), blame landing where failure is visible (CLAIM-tmpb47ul),
+and verification required and then cited as ownership (CLAIM-tmp238zy).
+
+No status changes.

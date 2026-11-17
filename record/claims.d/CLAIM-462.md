@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -36,6 +36,12 @@ history:
     Proposed" was written the day the fifteenth status review
     promoted the claim, and it is Active. Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    A dated note: A23 §3 and A33 §1 and §4 of the exchange "Assess
+    Depp Heard Abuse" give volume and rate as a route by which action
+    outruns correction. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -185,3 +191,30 @@ A62 §9 of the second share of the exchange "Individuation, Possibility, and Dis
 The note of 2026-10-29 on Cover ends by saying the claim stays Proposed.
 It was written on the day the fifteenth status review promoted the claim
 (version 3), and is of its time: the claim is Active.
+
+## Note of 2026-11-17: oversight pushed past its operating capacity by volume, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmph28l6 CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A33 §1 of the exchange "Assess Depp Heard Abuse" (2026-11-15), after the
+owner pointed to the record's resource-boundedness (U16): "**Formal
+oversight capacity is not the same as resource-bounded oversight
+capacity.**" "An actor need not abolish oversight if it can reliably push
+oversight beyond its operational capacity." A33 §4: an agency moving from
+a few hundred decisions a week to tens of thousands, with its appeals
+unchanged, "has accelerated one timescale without proportionately
+increasing another's capacity", so "the institution can generate errors
+faster than affected people can discover and challenge them." A23 §3 gives
+the human-review form: "If a system generates more requests than humans can
+meaningfully evaluate, adding more human checkpoints may simply produce
+ceremonial oversight."
+
+That is a route by which this claim's two capacities come apart which the
+claim does not name: the volume or rate of action, with no change in
+anyone's authority. A33 §1: "That need not even involve deliberate
+obstruction. The mismatch can be a structural property of the two
+institutions." The claim's edge, that it is about relations and not about
+any government's conduct, stands. The cost-side
+statement is CLAIM-tmph28l6 (execution friction against contestation
+friction); the timescale statement is CLAIM-tmpgh3v2.
+
+No status changes.

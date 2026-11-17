@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpyxupb
 title: 'Removing a constraint on an organization''s members does not move it along one scale of more or less governance: it changes a profile of who holds governing positions, among them rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members'' first-order options and their share in revising the conditions of their action can move in opposite directions'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -39,6 +39,12 @@ history:
     organizational control) and a missing relation (remedy). The title now
     says "among them". The thesis does not depend on the list, and is
     otherwise unchanged.
+- version: 6
+  date: '2026-11-17'
+  note: >-
+    A dated note: A15 §9 of the exchange "Assess Depp Heard Abuse"
+    names five powers over another's morality, two of them positions
+    this profile lacks. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -240,3 +246,25 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Polski and Ostrom** ([THEORY-1809](../theory.d/THEORY-1809.md)): **Supports in part.** The seven rule types, especially position, boundary and authority, together with the three levels, give a richer profile than "more or less governance". This is consistent with CLAIM-410's claim that authority can be eliminated, distributed or transferred. The chapter does not discuss deregulation as such.
 
 The claim is unchanged.
+
+## Note of 2026-11-17: attributional and formative positions, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpb47ul SYNTHESIS-093 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed (SYNTHESIS-093) -->
+
+A15 §9 of the exchange "Assess Depp Heard Abuse" (2026-11-15) proposes
+"five kinds of power over another person's morality": "**Predictive
+power**", "**Situational power**", "**Allocative power**", "**Attributional
+power**" ("Influencing who receives credit, blame, and public recognition
+for moral outcomes") and "**Formative power**" ("Shaping which
+commitments, habits, and moral expectations another person develops").
+
+This claim's profile (rule-making, monitoring, enforcement, appeal,
+revision) and SYNTHESIS-093's separable dimensions of power hold none of
+attributional or formative power as positions. Formative power is close to
+formation provenance in TERM-100's sense. Attributional power, the
+position from which credit and blame are allocated after the fact, is
+carried into CLAIM-tmpb47ul, where those who set the arrangement's
+conditions also set the standards by which responsibility for its failures
+is judged. Whether it belongs in this profile as a sixth governing
+position, or is a kind of rule-making about evaluation, is left open.
+
+No status changes.

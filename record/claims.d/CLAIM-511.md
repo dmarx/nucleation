@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp025xj
 title: 'A self-maintaining organization ought to preserve its corrigibility'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-31'
@@ -32,6 +32,12 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    A dated note: the exchange "Assess Depp Heard Abuse" reports the
+    claim as recording that the obligation is not established; the
+    verdict is ARG-042. No other change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -123,3 +129,10 @@ capacity". That is the disclaimer, rightly read. A did not cite
 conditional. A withdrew its own earlier duty of correction to "an
 important possible means of legitimacy, not an independently sufficient
 definition of goodness". No change.
+
+## Note of 2026-11-17: read as a verdict, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: ARG-042 — Rejected; the verdict on support -->
+
+A81 §10 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) says this claim "records that the general obligation is not established", and A83 §5 that it "records that this universal obligation has not been established". The claim is the bare proposition, Proposed with role disclaimed. That the record's constructions do not establish it is ARG-042, Rejected, with CLAIM-520's conditional value of correction as the reason. A's conclusion is the record's; its citation points to the proposition, not the verdict.
+
+No status changes.

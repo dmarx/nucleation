@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt75xe
 title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -39,6 +39,14 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 6
+  date: '2026-11-17'
+  note: >-
+    A dated note: A49 §2 of the exchange "Assess Depp Heard Abuse"
+    lists six elements of a judgment about governing a capability,
+    which add a holder, affected parties and a horizon to the claim's
+    relata; A49's provenance table wrongly pairs the claim with Sen
+    and Pettit, and A70 drops scale from its relata. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -230,3 +238,12 @@ establish freedom. Participation does not establish consent.") restate
 [CLAIM-075](CLAIM-075.md) for the case ([CASE-257](../cases.d/CASE-257.md)). A6 cited [QUESTION-129](../questions.d/QUESTION-129.md) for the
 open part, which standard has authority when standards conflict. No
 status changes.
+
+## Note of 2026-11-17: the relata of a judgment about a capability, and a citation error, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmp613ja — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed; LIT-1614 — Unavailable, named as A paired it -->
+
+A49 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), the method section of A's manuscript, lists what "a capability-governance judgment" involves: "1. An actor or institution holding a capability. 2. The action, power, or capacity being governed. 3. The parties affected, including those with relevant moral standing. 4. The arrangement of roles, dependencies, resources, and authority. 5. The independently specified normative standard under which restriction is considered. 6. The history and temporal horizon over which the restriction and its consequences are evaluated." Against this claim's relata (organization or standpoint, standard, scale, context), the arrangement and the standard are the claim's; the holder and the affected parties split its "organization or standpoint" into two roles; the horizon is a specification of context; and scale has no item. A keeps the claim's edge: "This approach does not make normative judgments merely subjective. Once the relevant parties, standards, and circumstances are specified, there remain factual questions", while "determining which standards ought to govern remains a separate task". CLAIM-tmp613ja, the owner's method from the same exchange, rests on this claim for exactly that.
+
+Two of A's descriptions are wrong. A49's provenance table puts this claim with CLAIM-354 in a row whose underlying literature is Sen (LIT-289) and Pettit (LIT-1614). This claim cites neither; no reading or work it names is Sen's or Pettit's. Only CLAIM-354 traces to them, to Sen through its reading of the capability approach and to Pettit directly. And A70 gives the relata as "relationship, perspective, context, and standard", dropping scale.
+
+No status changes.

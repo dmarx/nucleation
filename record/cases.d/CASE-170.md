@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpii28b
 title: 'The East Wing of the White House, 2025–2026: the wing demolished for a ballroom before the legal challenge to the project was decided, so that the remedy still available was to stop new construction, not to keep the old building'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -13,6 +13,12 @@ history:
     2026-11-11, by question. Its own text: "A contrast for search
     (QUESTION-279) ... here no remedy for that objective exists at
     all"; the question names it as "a real absence". No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A25 of the exchange "Assess Depp Heard Abuse" adds a
+    dissent to the court history this case keeps as an exchange's,
+    unverified. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -87,3 +93,28 @@ that delay would create security problems. A7: "The Supreme Court did
 - **Standing.** The demolition is documented; the appellate and Supreme
   Court rulings of August 2026 are the exchange's, after this filing's
   knowledge, and unchecked.
+
+## Note of 2026-11-17: the stay and its dissent as A tells them, from "Assess Depp Heard Abuse"
+
+A25 of the exchange "Assess Depp Heard Abuse" (2026-11-15), answering the
+owner's U13, retells the 31 August 2026 stay this case already records:
+"the Supreme Court stayed an injunction against further construction. The
+majority concluded that the preservation group was unlikely to establish
+standing and that stopping construction could inflict serious harm on the
+government, including to national-security-related work. The Court did
+not decide that the ballroom itself was lawful." It adds a dissent the case
+does not record: "Chief Justice Roberts, joined by Justices Sotomayor,
+Kagan, and Jackson, dissented, arguing that construction was likely
+unlawful and that the plaintiffs had demonstrated sufficient injury to
+challenge it." Like the rest of the court history, this is the exchange's
+and unchecked.
+
+A25's reading is the case's second point: "Stopping an existing project
+can be more disruptive than refusing permission for that project in the
+first place", so "**The act of proceeding can generate new costs of
+stopping, which may subsequently weigh in favor of allowing further
+proceedings.**" A keeps the case's own limits: "That doesn't mean the
+Supreme Court adopted a general rule rewarding unauthorized construction.
+Nor does it establish that these costs were deliberately manufactured."
+
+No status changes.

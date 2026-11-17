@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7oo4d
 title: 'The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-04'
@@ -30,6 +30,16 @@ history:
     part in that line's argument, since it bears on QUESTION-131, a
     question of that line. Found by the lint sweep of 2026-11-10 as a
     `rests_on` step across lines. No other change.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    A dated note: A53 §3C of the exchange "Assess Depp Heard Abuse"
+    gives the claim an economic counterpart, that a revealed
+    willingness to accept a burden can show the constraints of the
+    choice and not its fairness. No other change. A dated note: A100
+    §7 of the exchange "Assess Depp Heard Abuse" gives the claim a
+    contractualist reading, that silence is no evidence a principle
+    could not reasonably be rejected. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -198,3 +208,20 @@ not evidence that the condition motivating that response has been
 satisfied." A44 §2 adds the twin route through tolerances: relaxing the
 criterion that decides satisfaction raises a pass rate with no accommodation
 ([CLAIM-662](CLAIM-662.md)). Supports; no status change.
+
+## Note of 2026-11-17: willingness to bear a burden is not endorsement of it, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-658 — Proposed; CASE-tmp07hx9 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A53 §3C of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), at the owner's U24, on what bids and accepted wages reveal: a monetary auction for housing can go to the bidder with money rather than the one in need, and "Someone may accept an extremely low wage because their alternatives are terrible." "**A participant's revealed willingness to accept a burden may be evidence of the constraints under which they are choosing, not evidence that they regard the burden as fair.**" A: "That is almost the economic counterpart to Nucleation's distinction between *tolerance* and *satisfaction*."
+
+It is a counterpart, one step removed. The claim is formal: a perspective can be below its activation threshold while its requirement is unmet. A's point is about acceptance inside a mechanism: the terms accepted reflect the alternatives, so acceptance is no measure of whether a requirement is met. The two meet where a low threshold for objecting is set by poor alternatives, the quiet of someone who cannot afford to refuse. A's examples carry it to a child's taking the marshmallow (CASE-tmp07hx9: "not simply evidence of insufficient discipline"). CLAIM-658 is the record's market-side neighbour: demand read from what people pay weights them by what they can spend. The extension is A's and interpretive.
+
+No status changes.
+
+## Note of 2026-11-17: quiescence is not justifiability, from "Assess Depp Heard Abuse"
+
+A100 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) relays this claim faithfully, "already distinguishes satisfaction of requirements from the quiescence of the perspectives maintaining them", and gives it a normative reading under Scanlon: "**An absence of expressed objection is not evidence that a governing principle could not reasonably be rejected.**" "A person may be silent because of dependency, misinformation, intimidation, unfamiliarity with the governing process, or lack of an effective channel. The justification of the principle must still address the reasons they have."
+
+The claim is formal: the quiescent complex and the requirement complex can each hold a face the other lacks. A's reading carries it from requirements to justification, and the step is A's, interpretive. A79 §4 gives the route by which quiescence grows under siege, raised activation thresholds: "**The organization becomes quieter without becoming more just or more adequate.**"
+
+No status changes.

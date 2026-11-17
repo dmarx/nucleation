@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmjijs
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-05'
@@ -40,6 +40,13 @@ history:
     over alternatives, so a larger reachable set does not make a more
     responsible agent". First application of the bounds relation
     (ADR-094). No other change.
+- version: 6
+  date: '2026-11-17'
+  note: >-
+    A dated note: A108 §2 and A110 §7 of the exchange "Assess Depp
+    Heard Abuse" map this account's receptivity, reactivity and
+    ownership onto institutions, and TERM-tmphum9r draws on it. No
+    other change.
 tags:
 - free-will
 - agency
@@ -292,3 +299,11 @@ refute it.
   work of another" may be fully responsible. Fischer & Ravizza's history
   condition, taking responsibility, denies it.
 
+## Note of 2026-11-17: an institutional analogue of receptivity, reactivity and mechanism ownership, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmp0wx69 CLAIM-tmp69o4u — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+The owner's U46 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) spoke of ""Reasons Responsiveness" theories like Susan Wolf's". In the technical sense the reasons-responsiveness theory on the record is this one; A108 §2 draws the line itself ("It's useful to distinguish two related theories rather than treating them as identical") and reports this account faithfully: "a mechanism's receptivity to reasons from its reactivity", and "whether the mechanism is appropriately the agent's own". A110 §7 describes this entry correctly as recording "that reasons-responsiveness account".
+
+A's institutional analogue, which is A's and not the authors': receptivity becomes whether "the institution's information and evaluation systems discriminate between normatively different cases"; reactivity, whether "justified considerations alter decisions and operative commitments"; ownership of the mechanism, "Who constituted, controls, and bears responsibility for the institution's procedures?" (A108 §2's table). A110 §7 uses the account's historical side, that responsibility depends on the agent's relation to the mechanism that acts, for its self-induced incapacity, and notes that the institutional case "needs additional distinctions among designers, officeholders, maintainers, and those holding authority to intervene" (CLAIM-tmp0wx69). The reflexive extension, responsiveness to reasons for revising the mechanism itself, has no counterpart in this account; it is CLAIM-tmp69o4u, and TERM-tmphum9r draws on this account for its first-order part.
+
+No status changes.

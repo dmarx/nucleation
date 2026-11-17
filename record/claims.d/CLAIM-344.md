@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp0wvwc
 title: 'Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-28'
@@ -32,6 +32,18 @@ history:
     precedence: a slow variable is not thereby the one with
     precedence. It already carries the question's line. No other
     change.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    A dated note: A51 of the exchange "Assess Depp Heard Abuse" relays
+    the claim at the owner's marshmallow-test association and
+    separates four achievements, of which resolve is one; whether a
+    commitment is worth keeping depends on the others, one of which
+    lies outside the agent. No other change. A dated note: A95 §7 and
+    A97 V of the exchange "Assess Depp Heard Abuse" propose fidelity
+    to the reasons behind a commitment as the criterion of a revision
+    that keeps resolve, and overstate the claim as holding it. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -231,3 +243,21 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Zhao, Liu et al.** ([THEORY-1795](../theory.d/THEORY-1795.md)): **supports** by analogy: the protection principle preserves strong priors against weaker external support while letting stronger support revise.
 
 The claim is unchanged.
+
+## Note of 2026-11-17: the capacity to wait and the judgment that waiting is warranted, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed; THEORY-232 — Proposed -->
+
+A51 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) answers the owner's U23, which linked "Self-restraint as an achievement of agency" to the marshmallow test (CASE-tmp07hx9). A51 §1 relays this claim faithfully on the Mischel finding that children who turned their attention away waited longer: "**The achievement of self-restraint may lie less in the strength of resistance than in the organization that makes resistance unnecessary or manageable.**" That is the claim's "Resolve without exertion", and the case illustrates it.
+
+A51 §7 then separates "**Temporal integration:** The agent can coordinate present behavior with future objectives", "**Epistemic adequacy:**", "**Relational security:** The surrounding arrangement makes the promised future sufficiently credible" and "**Normative self-government:**", and concludes: "**The capacity to wait and the judgment that waiting is warranted must not be conflated.**" Resolve, as the claim defines it, is the first, with its maintained capacity to revise. The claim already declines to say resolve is good and leaves the standard for warranted revision to QUESTION-087. A's list says what that standard would have to cover, and one item, relational security, lies outside the agent: whether waiting is warranted can depend on how reliable another party is. "A child can exhibit strong temporal integration while waiting for an unreliable promise." CLAIM-tmpt091d files the consequence for whoever controls the deferred reward. THEORY-232's delayed gratification, which A also relays, gets the same caution from A: "it's important not to equate the later outcome with the better one automatically."
+
+No status changes.
+
+## Note of 2026-11-17: fidelity to reasons, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpnb4v4 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A95 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17): "**Commitment fidelity should not always mean invariance of conduct. It can mean appropriate fidelity to the reasons that justified the commitment.**" A97 V separates commitment to a rule from commitment to the reasons justifying it, with the quota example (new evidence shows the agreed extraction will damage the aquifer), and concludes "**An organization may honor its governing commitments by revising them, provided the revision remains faithful to the obligations and authority that justified them.**"
+
+A97 V says this distinction "is central to Nucleation's Active CLAIM-344". That overstates it. The claim keeps "the capacity to revise" and says "mere slowness or persistence is not resolve"; it does not say what makes a revision warranted, which its summary leaves to QUESTION-087. Fidelity to the reasons is a candidate for that standard, not something the claim holds. The three senses of commitment the exchange separates (practical, promissory, institutional) are carried in CLAIM-tmpnb4v4; this claim's resolve is the practical one.
+
+No status changes.

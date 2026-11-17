@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptg7io
 title: 'Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -32,6 +32,12 @@ history:
     THEORY-1110's pattern: the claim uses the first half, that a
     present-structure condition is met by installed structure, and cites
     THEORY-040's second half only as open. The claim is unchanged.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    A dated note: A23 §1 of the exchange "Assess Depp Heard Abuse"
+    gives an institutional instance of matched outcomes that part only
+    under intervention. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -207,3 +213,21 @@ The case is not filed separately. No status changes.
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after [CLAIM-534](CLAIM-534.md) went Active and [CLAIM-545](CLAIM-545.md)'s grounds were corrected (2026-11-06). Neither bears on what holds it. Promoting the drafted narrowing would still reject [ARG-030](../arguments.d/ARG-030.md) on the authenticity line, whose reopening is the owner's call (note of 2026-10-30).
+
+## Note of 2026-11-17: an institutional instance, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmp11xvc — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A23 §1 of the exchange "Assess Depp Heard Abuse" (2026-11-15): a hiring
+committee needs three meetings before rejecting a candidate, and "An
+automated ranking can reproduce the committee's final decisions with
+impressive accuracy while eliminating precisely those opportunities" to
+introduce information, challenge assumptions or object to the standards.
+"**Reproducing the outcomes of a process is not necessarily equivalent to
+reproducing the powers exercised through that process.**"
+
+That is this objection's structure in an institution: two processes with
+the same outputs that part only when someone objects, here because one of
+them no longer has a place where the objection could enter. It is the
+owner's friction thesis (CLAIM-tmp11xvc) seen from this objection's side.
+
+No status changes.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpu69za
 title: 'Give each of an individual''s perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective''s tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -13,6 +13,13 @@ history:
     part in that line's argument, since it bears on QUESTION-041, a
     question of that line. Found by the lint sweep of 2026-11-10 as a
     `rests_on` step across lines. No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A23 §8 and A33 §3 and §6 of the exchange "Assess
+    Depp Heard Abuse" apply the claim's non-endorsement to automated
+    review, and a study built on its factors is filed. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -212,3 +219,32 @@ read an absence of conflict as an absence of signal.
 ## Note of 2026-11-07: cited for silence, without legibility, from "Individuation, Possibility, and Disposition"
 
 A47 §4 cites this claim for "observed acquiescence does not establish dispositional agreement", which is its "a perspective that does not intervene has not thereby endorsed". A47 drops the legibility factor ("the chance that the discrepancy is legible") and adds a stage of granted authority, which is [CLAIM-283](CLAIM-283.md)'s, not this claim's. No change.
+
+## Note of 2026-11-17: silence under volume, the reversed default, and a proposed study, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CASE-tmpohiyo — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A23 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15) states this
+claim's last clause for automated review, without citing it: a clinician
+nominally reviews 150 recommendations in a shift and does not object to
+the harmful one. "**An absence of intervention is not necessarily evidence
+of informed acceptance.**" "And the more automated systems increase the
+volume and velocity of decisions, the less defensible it may become to
+interpret nonintervention as affirmative approval." In the claim's terms,
+volume lowers the chance that a discrepancy is legible and that a channel
+carries the intervention, and leaves the propensity as it was.
+
+A23 §8 adds something the claim does not hold: automation can reverse the
+default, so that an action proceeds unless someone stops it. "The
+institution has transferred the burden of action from the person seeking
+to impose a consequence to the person expected to prevent it." That is
+not filed as a claim; it is left for the owner.
+
+A33 §3 restates the first point after the owner pointed to the record's
+tolerances (U16), as "**the conversion of tolerance into apparent
+consent**", and A33 §6 proposes measuring acceptance, recognized
+discrepancy, motivation, access to protected channels and efficacy apart
+when complaints fall, which are this claim's factors made measurable. A
+says the pathology "is not a theorem supplied by the repository". The
+study is filed as CASE-tmpohiyo.
+
+No status changes.

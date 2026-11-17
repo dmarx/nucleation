@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpsuzzj
 title: 'correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -20,6 +20,16 @@ history:
     CLAIM-464 is dropped from used_by; its measure is a least cost,
     which this term calls a separate question. The definition of the
     chance is unchanged.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A64 of the exchange "Assess Depp Heard Abuse"
+    restricts the term to a claimant's own policies, requires relief
+    before the claimant's resources run out, and first states a worst-
+    case adversarial version with a vulnerability gap whose sign the
+    definition does not fix. No other change. A dated note: A85 §7 of
+    the exchange "Assess Depp Heard Abuse" sets a preventive-security
+    quantity beside the term's correction. No other change.
 tags:
 - society-and-governance
 - agency
@@ -146,3 +156,21 @@ the system's own judgments." A36's funnel, detected, diagnosed, selected,
 authorized, executed, verified, follows the term's finds, authorizes,
 coordinates and carries out, with diagnosis and verification added as
 stages. The definition is unchanged.
+
+## Note of 2026-11-17: the claimant's correctability, sustained to relief, against an adversary, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpyo35b CASE-tmphljcr CLAIM-tmpbqunx — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A64 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), formalizing the owner's U28 on litigation as siege (CLAIM-tmpyo35b), relays this term faithfully and adapts it twice. A64 §1 restricts the policies to the claimant's: α_J^B(s, q, H, K; G) = sup over π_B in Π_B(G, q, K) of Pr(T_J ≤ H), "restricted to the claimant's available litigation and enforcement strategies", renaming the budget K to free B for the claimant. A64 §9 adds an opponent and a survival condition: α̲_J = inf over u_A in 𝒰_A^adm of sup over π_B in Π_B(u_A) of Pr(T_J ≤ H, T_J < τ_B(u_A)), "the most obstructive opposing strategy within the specified set", with A's caution that it is "**not automatically a game-theoretic equilibrium**".
+
+The second condition matters for this term's own limits. The term says it is about effective answerability and "says nothing about" formal or practical contestability, practical contestability being that "one can start and sustain a challenge". Requiring relief before the claimant's exhaustion time τ_B brings sustaining a challenge inside the measure. A64 §9 also defines a "contestability vulnerability gap", α_J^baseline − α̲_J, read as positive. It is nonnegative only if the baseline course is among the opponent's admissible strategies; as defined the baseline is a procedure, so the sign is not fixed (corrected in CASE-tmphljcr). The robust quantity is filed, from A76 and A81, as CLAIM-tmpbqunx (F4), which fixes the order of quantifiers by what the corrector observes.
+
+No status changes.
+
+## Note of 2026-11-17: prevention beside correction, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpbqunx — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A85 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) separates "**nonviolation**, **protection**, and **correction**" as different institutional achievements, and sets beside this term's quantity, C_r(G, s) = sup_π Pr_s^π(T_{J_r} ≤ H), a preventive one: S_r(G) = inf_σ Pr_G^σ(s_t ∉ V_r for all t ≤ H), the reliability with which an institution keeps out of the violation set V_r under a declared class of disturbances and adversarial strategies. "The distinction resembles the separation between safety and recovery in control theory." And: "**A government can recognize an inalienable right yet fail to develop or maintain the capabilities required to secure it.**"
+
+The term covers recovery only. The record has no term for prevention; S_r is a candidate, and it is adversarial where this term is not (its robust corrective counterpart is CLAIM-tmpbqunx). A does not name the parallel in rights theory, the duties to respect, protect and fulfil (Shue's Basic Rights, 1980, and the UN treaty bodies' usage); A87 §7 later cites both. "Neither is a complete measure of justice. Some violations are irreversible, some duties are procedural rather than outcome-based".
+
+No status changes.

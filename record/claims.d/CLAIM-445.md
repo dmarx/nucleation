@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp28sti
 title: 'A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-30'
@@ -41,6 +41,12 @@ history:
     ARG-025's: CLAIM-427 is Superseded by ARG-025, which holds the
     grading. Reported by the synthesis review of 2026-11-11 (seventh
     round). No other change.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    A dated note: A9 §6 of the exchange "Assess Depp Heard Abuse"
+    gives the mechanism between two persons, and a claim filed from it
+    rests on this one. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -216,3 +222,26 @@ arrangement it is supposed to constrain", is this claim's shift in "the
 evidence used to judge its necessity" applied to a design remedy. Not
 filed. The exchange's broader ratchet, a technology made compulsory for
 those who decline it, is [CLAIM-677](CLAIM-677.md), a different mechanism. No change.
+
+## Note of 2026-11-17: an interpersonal instance, where the shifted evidence is the target's own conduct, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpciy9q — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A9 §6 of the exchange "Assess Depp Heard Abuse" (2026-11-15) gives this
+claim's loop between two persons: "A repeatedly punishes B for
+disagreeing. B learns to conceal disagreement and sometimes lies to avoid
+conflict. A discovers the lies and uses them to justify increased
+surveillance. The surveillance makes honesty still more dangerous,
+encouraging further concealment. A points to the continued concealment as
+evidence that B cannot be trusted." The regime is one party's control over
+another, and the evidence its interventions shift is the target's own
+conduct: "**creating the behavior that subsequently becomes the rationale
+for A's exercise of power**".
+
+It differs from the cases this claim has held in one respect: the evidence
+is true. B did lie. A: "B may genuinely have lied. But it doesn't follow
+that A is entitled to respond with surveillance or intimidation." The use
+of a real, induced wrong as an instrument of control, aimed also at
+observers' judgement, is filed as CLAIM-tmpciy9q, which rests on this
+claim for the loop.
+
+No status changes.

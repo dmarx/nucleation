@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpljkzy
 title: 'An organization can become normatively less informed without censoring anyone by two distinct routes, selective disappearance of the harmed from the population it observes and costly discovery that keeps it from investigating the questions that would reveal unmet obligations; neither needs deliberate suppression, and both differ from the counter-corrective weakening of the channels through which challenge succeeds, so that they should not be conflated in attributing responsibility'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    A dated note: A64 §13 and A68 §3 of the exchange "Assess Depp
+    Heard Abuse" describe an organization made less informed by a
+    reputation for costly resistance, which keeps challenges from
+    being filed, and by the selective survival of challenges to
+    adjudication; A relays the claim as its first route only. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -108,3 +118,12 @@ disappearance produced by the institution's own recording, with no censor.
 She also describes the second route in the historian's discipline, a
 demand for "a vast empirical base" that deters the question. A sense-3
 case ([TERM-074](../terms.d/TERM-074.md)). Filed as `corroborates`. No status change.
+
+## Note of 2026-11-17: deterrence before voice, a candidate third route, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-619 CLAIM-652 — Proposed; CLAIM-tmpyo35b — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A64 §13 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), on litigation as siege (CLAIM-tmpyo35b): a potential claimant files when the expected value of feasible litigation covers the cost of filing, and an adversary that can credibly impose high procedural costs may lower that expected value "across an entire population of potential challengers." "Some people never file. Some do not raise complaints." The observed rate of successful challenge falls, but "It may mean that asserting legitimate rights has become less feasible." A68 §3 adds the selection of adjudicated cases: claimants who cannot continue settle or withdraw, so "**The process that makes contestation costly can also alter the population of contests from which the institution learns whether its conduct is justified.**", with Pr(success | survives to adjudication) not in general Pr(success), the direction unknown.
+
+A64 §13 relays this claim as route A only ("a decline in observed complaints can reflect selective disappearance of those harmed"). A68 §3 is route A applied to challenges: the population observed is the one that survives. But the deterrence in A64 §13 is neither route. The harmed do not leave the observed population, and the organization does not decline an inquiry; they stay, silent, because voicing costs more than it can return. It also differs from CLAIM-619, which answers a challenge once made. A candidate third route, then: anticipated cost of contest that keeps claims from being voiced, with its own test (claims not filed among those harmed who remain, against the cost the organization is known to impose). It needs no censorship, as the claim requires, but it can need a deliberate reputation, which routes A and B do not. CLAIM-652's exit-driven drift is the route-A model A68 also relays.
+
+No status changes.
