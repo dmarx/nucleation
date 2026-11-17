@@ -23,8 +23,8 @@ summary: >-
   second-order question). A gives five conditions (A to E) and a "proposed
   normative inference rule" from four of them to O_N(A,
   MaintainAdequate(ℳ_r)), whose force "comes from a means–end responsibility
-  principle". It is a derivation of CLAIM-624's duty that ARG-058 does not
-  give: ARG-058 shows only that the duty must be bounded. The inference is
+  principle". It is a derivation of [CLAIM-624](../claims.d/CLAIM-624.md)'s duty that [ARG-058](ARG-058.md) does not
+  give: [ARG-058](ARG-058.md) shows only that the duty must be bounded. The inference is
   valid given the principle; the principle is A's premise and is not held
   on the record. Proposed: the verdict is the filer's (Claude, in this
   session) on A's argument; adopting it is the owner's call.
@@ -62,22 +62,22 @@ The conjuncts are A110 §5's conditions A to D:
 
 - **A. An independently justified constraint** (O_N(A, Honor(r))): "We
   need an independently defended basis for the constraint." This is
-  CLAIM-624's "only given an independently justified standard".
+  [CLAIM-624](../claims.d/CLAIM-624.md)'s "only given an independently justified standard".
 - **B. Fulfilment depends on a capability** (NeedsCapability): if the duty
   requires telling s₀ from s₁ and the institution cannot, "the obligation
   may be impossible to fulfill reliably using its current procedures".
-  That premise is CLAIM-535 (Active, demonstrated): a policy acting on an
+  That premise is [CLAIM-535](../claims.d/CLAIM-535.md) (Active, demonstrated): a policy acting on an
   observation is acceptable everywhere only if the circumstances it merges
-  share an acceptable action. CLAIM-523 (Active) gives the other links:
+  share an acceptable action. [CLAIM-523](../claims.d/CLAIM-523.md) (Active) gives the other links:
   legibility, volitional efficacy and correctability are each needed.
 - **C. Responsibility or control over the capability** (ResponsibleFor):
   "a governing body with authority over staffing, reporting requirements,
   funding, and review procedures is differently situated", and where
   authority is fragmented "the duty may be distributed across several
-  offices or organizations" (A cites QUESTION-278 fairly).
+  offices or organizations" (A cites [QUESTION-278](../questions.d/QUESTION-278.md) fairly).
 - **D. Feasible and justified against competing duties**
   (FeasibleAtJustifiedCost): "A duty to maintain responsiveness cannot
-  imply unlimited expenditure." CLAIM-520 (Active) is the premise: the
+  imply unlimited expenditure." [CLAIM-520](../claims.d/CLAIM-520.md) (Active) is the premise: the
   value of keeping a corrective capacity is conditional on objectives,
   uncertainty and cost.
 
@@ -90,7 +90,7 @@ permit it." That is CLAIM-tmpcpijj's thesis, filed from the part before,
 that authority over a decision is not authority over the conditions of its
 challenge. In the inference it narrows MaintainAdequate, not the premises.
 
-The conclusion is CLAIM-624's duty, "to maintain feasible means for
+The conclusion is [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, "to maintain feasible means for
 relevant violations to become knowable, contestable and correctable",
 derived for one claim r at a time and as "**functional adequacy**, not one
 mandated institutional design".
@@ -122,16 +122,16 @@ informing affected parties, or reorganizing responsibility".
 
 **Are the model's assumptions met in the domain?** For authorities owing
 duties that need distinctions their procedures may lose, yes. B is shown,
-not assumed, by CLAIM-535; D is the record's own CLAIM-520. A is assumed,
+not assumed, by [CLAIM-535](../claims.d/CLAIM-535.md); D is the record's own [CLAIM-520](../claims.d/CLAIM-520.md). A is assumed,
 and has to be: the record lacks the independently justified standard in
-general (QUESTION-129), so the derivation, like CLAIM-624, is conditional on
+general ([QUESTION-129](../questions.d/QUESTION-129.md)), so the derivation, like [CLAIM-624](../claims.d/CLAIM-624.md), is conditional on
 it.
 
-**Does it reach the whole of CLAIM-624?** No. It derives the duty, layer 4
-of CLAIM-624, with the bounds that ARG-058 argues it must have. It does
+**Does it reach the whole of [CLAIM-624](../claims.d/CLAIM-624.md)?** No. It derives the duty, layer 4
+of [CLAIM-624](../claims.d/CLAIM-624.md), with the bounds that [ARG-058](ARG-058.md) argues it must have. It does
 not derive the claim that reproducing an occluding mechanism is a wrong
-beyond the harm, nor its non-reduction to the harm (CLAIM-614, CASE-229 and
-ARG-055). It supplies the antecedent CLAIM-624's verdict needs: given the
+beyond the harm, nor its non-reduction to the harm ([CLAIM-614](../claims.d/CLAIM-614.md), [CASE-229](../cases.d/CASE-229.md) and
+[ARG-055](ARG-055.md)). It supplies the antecedent [CLAIM-624](../claims.d/CLAIM-624.md)'s verdict needs: given the
 duty, a reproduced occlusion is its breach.
 
 **The temporal qualification** (A110 §6). The duty can be breached "even
@@ -139,15 +139,15 @@ during a period of flawless first-order decisions", and breach of the
 maintenance duty is distinct from "the eventual harm that the neglected
 capability might have prevented": "An institution can breach its duty to
 maintain safety equipment even if no accident occurs." That is the
-separation CASE-229 and ARG-055 build, and it follows from the derivation,
+separation [CASE-229](../cases.d/CASE-229.md) and [ARG-055](ARG-055.md) build, and it follows from the derivation,
 whose conclusion is about maintenance and not about outcomes.
 
-## What follows for CLAIM-624
+## What follows for [CLAIM-624](../claims.d/CLAIM-624.md)
 
-CLAIM-624's duty gains a second line of support: ARG-058 says the duty must
+[CLAIM-624](../claims.d/CLAIM-624.md)'s duty gains a second line of support: [ARG-058](ARG-058.md) says the duty must
 be bounded; this argument derives the bounded duty from a means–end
 principle and four conditions, two of which (B and D) rest on the record's
 Active claims, with E resting on a claim filed from the part before. The
 claim's status does not change: the principle is unregistered, and
-CLAIM-624's other layers are not reached. The dated note on CLAIM-624 of
+[CLAIM-624](../claims.d/CLAIM-624.md)'s other layers are not reached. The dated note on [CLAIM-624](../claims.d/CLAIM-624.md) of
 2026-11-17 records it.

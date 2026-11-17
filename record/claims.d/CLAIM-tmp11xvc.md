@@ -33,7 +33,7 @@ summary: >-
   process remains open to intervention"; "Extractive friction" differs
   from "Deliberative friction"; and three strengths, the strongest that
   "The distribution of friction partly constitutes the distribution of
-  political power". A30 §2 tied it to CLAIM-523: friction is one way of
+  political power". A30 §2 tied it to [CLAIM-523](CLAIM-523.md): friction is one way of
   keeping legibility, volitional efficacy and correctability in place over
   time. A21 credited itself with sharpening "exposes" to "constitutes",
   which the owner's parenthesis had already said.
@@ -84,7 +84,7 @@ that makes objection necessary.**"
   is "**Who should possess the power to make whom stop and give
   reasons?**"
 
-**Why it rests on CLAIM-523.** A30 §2, setting the claim beside CLAIM-523's
+**Why it rests on [CLAIM-523](CLAIM-523.md).** A30 §2, setting the claim beside [CLAIM-523](CLAIM-523.md)'s
 three achievements: "**procedural friction is one possible institutional
 mechanism for maintaining the three achievements across time**", and "not
 every interruption provides all three", so "It's whether a procedure
@@ -94,20 +94,20 @@ if the step was where legibility, efficacy or correctability was had.
 
 ## How it sits with the record
 
-- **CLAIM-523** (Active, the owner's synthesis) says what an objection needs
+- **[CLAIM-523](CLAIM-523.md)** (Active, the owner's synthesis) says what an objection needs
   to change what an organization does; this says where in a process those
   needs are met, and what automation does to them.
-- **CLAIM-410** (Active, the owner's) holds that removing a constraint
+- **[CLAIM-410](CLAIM-410.md)** (Active, the owner's) holds that removing a constraint
   redistributes governing positions rather than reducing governance. A21
   §2 says the same of friction: "**What looks like a reduction in friction
   from the organization's perspective may actually be a transfer of
   discretion from one group of people to another.**"
-- Developed from it, in the same exchange: CLAIM-tmph28l6 (execution and
-  contestation friction), CLAIM-tmpohafo (explanation, contestation,
-  interruption), CLAIM-tmp238zy (cognitive and political friction),
-  CLAIM-tmpgh3v2 (a slow rule over a fast process) and the study
-  CASE-tmpdn372.
-- CASE-250's "interface friction" is a cost put in a user's way to steer
+- Developed from it, in the same exchange: [CLAIM-tmph28l6](CLAIM-tmph28l6.md) (execution and
+  contestation friction), [CLAIM-tmpohafo](CLAIM-tmpohafo.md) (explanation, contestation,
+  interruption), [CLAIM-tmp238zy](CLAIM-tmp238zy.md) (cognitive and political friction),
+  [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md) (a slow rule over a fast process) and the study
+  [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md).
+- [CASE-250](../cases.d/CASE-250.md)'s "interface friction" is a cost put in a user's way to steer
   them; it is extractive friction in A21's sense, not this.
 
 ## Attribution

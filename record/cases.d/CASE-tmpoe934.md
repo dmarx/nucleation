@@ -89,7 +89,7 @@ motives.
 Documented, it shows that a categorical criterion imposed by an authority
 can make evidence the governing statute requires to count unable to change
 a decision, and that a court found that criterion unlawful. That is what
-CLAIM-tmpw7pli rests on, and it makes CLAIM-tmpc7shc vivid: a maintained
+[CLAIM-tmpw7pli](../claims.d/CLAIM-tmpw7pli.md) rests on, and it makes [CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md) vivid: a maintained
 requirement, enforced and complied with, that carried no authority.
 
 It cannot show the owner's broader thesis about immigration policy as a

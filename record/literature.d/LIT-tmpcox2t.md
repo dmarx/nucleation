@@ -56,4 +56,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A85 (2026-11-17), at the owner's U37 on inalienable rights; the labour account of property is named again in A93. It bears on CLAIM-tmp6vck6 (inalienability as a limit on what any delegation can confer) and CASE-tmpgp2qo. The record holds only Locke's "Of Identity and Diversity" (LIT-464). A's section numbers are as the ledger reports (§23: a man "cannot by compact" enslave himself; §135). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A85 (2026-11-17), at the owner's U37 on inalienable rights; the labour account of property is named again in A93. It bears on CLAIM-tmp6vck6 (inalienability as a limit on what any delegation can confer) and CASE-tmpgp2qo. The record holds only Locke's "Of Identity and Diversity" ([LIT-464](LIT-464.md)). A's section numbers are as the ledger reports (§23: a man "cannot by compact" enslave himself; §135). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

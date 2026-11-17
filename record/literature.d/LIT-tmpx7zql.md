@@ -37,7 +37,7 @@ summary: >-
   15(9): 593. DOI 10.3390/socsci15090593. Here because A cites it in the
   exchange "Assess Depp Heard Abuse" as A's Hirschman-inspired source
   for the argument that algorithmic governance can privilege exit over
-  voice. It bears on CLAIM-678 and draws on Hirschman (LIT-748,
+  voice. It bears on [CLAIM-678](../claims.d/CLAIM-678.md) and draws on Hirschman ([LIT-748](LIT-748.md),
   Unavailable). What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-678 — Proposed; cited with its standing -->
@@ -53,4 +53,4 @@ Lingkai Kong and Yunxin Chang (2026). Displacement, Dilemma, and Exit: The Ethic
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as A's Hirschman-inspired source for the argument that algorithmic governance can privilege exit over voice. It bears on CLAIM-678 and draws on Hirschman (LIT-748, Unavailable). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as A's Hirschman-inspired source for the argument that algorithmic governance can privilege exit over voice. It bears on [CLAIM-678](../claims.d/CLAIM-678.md) and draws on Hirschman ([LIT-748](LIT-748.md), Unavailable). Not read.

@@ -40,7 +40,7 @@ summary: >-
   institution can become more irresponsible precisely because its
   employees are responsible.**" A13 §4 draws on Robillard and Strawser's
   "moral exploitation" as A relays it; the mechanism is A's. Asserted, not
-  derived: A writes no dynamics. It rests on CLAIM-690, where a part able
+  derived: A writes no dynamics. It rests on [CLAIM-690](CLAIM-690.md), where a part able
   to withdraw turns the whole's need into its own hold; a commitment that
   makes withdrawal a moral failure reverses that. The wording is A's;
   adopting it is the owner's call.
@@ -67,7 +67,7 @@ and "The nurse can't simply stop caring about patients at the end of a
 contractual shift", so the employer can truthfully say "*We aren't forcing you to
 stay. You're free to leave when your shift ends.*" A15 §3 also names the
 loop by which effort hides the shortfall from those who set resources,
-which is filed with its budget rule as CLAIM-tmp0ogo4.
+which is filed with its budget rule as [CLAIM-tmp0ogo4](CLAIM-tmp0ogo4.md).
 
 **Who bears it.** A13 §10: "the people least willing to compromise their
 moral commitments are made to absorb the greatest burdens. Over time, the
@@ -78,30 +78,30 @@ the capacity to act on it is drawn down ("the exploiter can draw on the
 target's capacity until that capacity is damaged, without necessarily
 diminishing the target's sense of obligation").
 
-**Why the need gives no hold.** CLAIM-690: what sorts a dependence is who
+**Why the need gives no hold.** [CLAIM-690](CLAIM-690.md): what sorts a dependence is who
 controls exit, renegotiation and supply, so that "with the part able to
 withdraw or renegotiate, the whole's need of it becomes the part's hold on
 its terms". A commitment to patients takes withdrawal away from the nurse
 without anyone else taking it. The arrangement's dependence on her is as
 great as ever, and the leverage runs the other way. That inference is the
-filer's statement of what A's case shows against CLAIM-690; A30 §4 makes
-the same connection and asks it as a question (QUESTION-tmpbzq36).
+filer's statement of what A's case shows against [CLAIM-690](CLAIM-690.md); A30 §4 makes
+the same connection and asks it as a question ([QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md)).
 
 ## How it sits with the record
 
-- **QUESTION-461** asks when an organization's dependence on subordinated
+- **[QUESTION-461](../questions.d/QUESTION-461.md)** asks when an organization's dependence on subordinated
   participants raises their authority and when it reproduces arrangements
   that keep their contributions from becoming effective claims. This is a
   candidate mechanism for the second branch.
-- **CLAIM-614**'s non-legible harm and **CLAIM-670**'s arrangement that
+- **[CLAIM-614](CLAIM-614.md)**'s non-legible harm and **[CLAIM-670](CLAIM-670.md)**'s arrangement that
   produces the dependence it exploits are its neighbours; here the
   dependence is the members' own commitment, which the arrangement did not
   produce but uses.
-- **TERM-123** makes exploitation relative to a declared standard. A15 §8's
+- **[TERM-123](../terms.d/TERM-123.md)** makes exploitation relative to a declared standard. A15 §8's
   four dimensions (consent, burden, control, exit) are A's candidate
   standard for this case.
-- CLAIM-tmp76x3e is the deliberate, interpersonal form; this is the
-  institutional form that needs no one's intent. CLAIM-tmpb47ul carries the
+- [CLAIM-tmp76x3e](CLAIM-tmp76x3e.md) is the deliberate, interpersonal form; this is the
+  institutional form that needs no one's intent. [CLAIM-tmpb47ul](CLAIM-tmpb47ul.md) carries the
   same members on to blame. CASE-tmpm0rpn (three hospitals with the same
   output and budget) is a construction from the same exchange.
 

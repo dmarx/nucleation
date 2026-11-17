@@ -16,9 +16,9 @@ summary: >-
   engineering could be an interesting case for analysis here". The
   exchange ends there; A never answered, and no work was named. The
   question puts the owner's suggestion to the two claims of the owner's
-  U47 it bears on: that accountability is not blame (CLAIM-tmpsk25g) and
+  U47 it bears on: that accountability is not blame ([CLAIM-tmpsk25g](../claims.d/CLAIM-tmpsk25g.md)) and
   that blame supplies provenance for holding upstream actors accountable
-  (CLAIM-tmpixmhp). The suggestion is the owner's; the wording of the
+  ([CLAIM-tmpixmhp](../claims.d/CLAIM-tmpixmhp.md)). The suggestion is the owner's; the wording of the
   question is the filer's (Claude, in this session), and adopting it is
   the owner's call.
 ---
@@ -40,13 +40,13 @@ culture, post-incident review or "just culture" before it. The question is
 therefore the owner's prompt, put in the terms of the owner's U47, the turn
 it answers to:
 
-- **Accountability without blame** (CLAIM-tmpsk25g). The owner: "perhaps
+- **Accountability without blame** ([CLAIM-tmpsk25g](../claims.d/CLAIM-tmpsk25g.md)). The owner: "perhaps
   "blame" and "accountability" aren't the same thing." A blameless
   review is, on its face, a practice that keeps correction (find what
   failed, repair it, prevent recurrence) while withholding blame from the
   people involved. If it works, it is a real instance of correction whose
   grounds are not those of blame.
-- **Blame as provenance** (CLAIM-tmpixmhp). The owner: ""blame" gives us
+- **Blame as provenance** ([CLAIM-tmpixmhp](../claims.d/CLAIM-tmpixmhp.md)). The owner: ""blame" gives us
   provenance for holding upstream actors accountable as well." A practice
   that refuses to blame anyone may also stop tracing whose decisions
   produced the conditions of the failure. Or it may trace them better,
@@ -64,7 +64,7 @@ it answers to:
   stop at the system as an impersonal cause, so that decisions by those who
   govern the system escape the account. That would be the failure A110 §8
   calls "blame displacement" turned round: no one is blamed, and the
-  conditions some actors set are not repaired (CLAIM-tmp4o53g).
+  conditions some actors set are not repaired ([CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md)).
 - **Neither:** evidence that "blameless" in practice relocates blame, for
   example to the person who did not follow the process, so that it is not
   an instance of accountability without blame at all.
@@ -81,17 +81,17 @@ cited here as evidence.
 ## How it sits with the record
 
 Nothing on the record holds blameless culture, post-incident review or just
-culture. The nearest held material is in safety science: THEORY-144
+culture. The nearest held material is in safety science: [THEORY-144](../theory.d/THEORY-144.md)
 (Rasmussen's drift toward the boundary of acceptable performance, whose body
-says it does not claim "that individuals are blameless"), and CASE-151
+says it does not claim "that individuals are blameless"), and [CASE-151](../cases.d/CASE-151.md)
 (Wells Fargo, where leadership blamed and disciplined individual employees
 for what the board's investigation traced to the sales model), a case of
 the opposite practice. From the same exchange, A17 §1's moral crumple
 zone, the person nearest the failure absorbing the blame, is filed as
-CLAIM-tmpb47ul; A17 §9 had already said that "A person can be required to
+[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md); A17 §9 had already said that "A person can be required to
 explain their decisions and participate in correcting a failure without
 necessarily being morally culpable for everything that happened", and
 that an institution should "examine system failures without automatically
 identifying the nearest human as their sufficient explanation". That is
 the closest the exchange came to the owner's case before U48. The
-responsibility senses at issue are TERM-tmp8pnnr's.
+responsibility senses at issue are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s.

@@ -38,7 +38,7 @@ summary: >-
   38(17–18): 9985–10008. DOI 10.1177/08862605231169751. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as A's experimental
   evidence that DARVO responses alter observers' judgments of
-  responsibility. It bears on CLAIM-tmpciy9q (manufacturing culpability:
+  responsibility. It bears on [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) (manufacturing culpability:
   a true accusation used as an instrument of domination), as evidence
   that how responsibility is narrated changes how it is assigned.
   Freyd's 1997 paper that coined DARVO is named in passing and not
@@ -56,4 +56,4 @@ Sarah J. Harsey and Jennifer J. Freyd (2023). The Influence of Deny, Attack, Rev
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's experimental evidence that DARVO responses alter observers' judgments of responsibility. It bears on CLAIM-tmpciy9q (manufacturing culpability: a true accusation used as an instrument of domination), as evidence that how responsibility is narrated changes how it is assigned. Freyd's 1997 paper that coined DARVO is named in passing and not registered. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as A's experimental evidence that DARVO responses alter observers' judgments of responsibility. It bears on [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) (manufacturing culpability: a true accusation used as an instrument of domination), as evidence that how responsibility is narrated changes how it is assigned. Freyd's 1997 paper that coined DARVO is named in passing and not registered. Not read.

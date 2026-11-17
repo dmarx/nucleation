@@ -32,14 +32,14 @@ summary: >-
   the loop "Conscientious workers absorb unmet demands", "Measured
   performance remains acceptable", "Management reduces apparent excess
   capacity", "Correcting the system becomes harder", "The burden returns
-  to frontline workers"; with TERM-110's ratchet, "An institution can
+  to frontline workers"; with [TERM-110](../terms.d/TERM-110.md)'s ratchet, "An institution can
   thereby create some of the behaviors that appear to justify its
   control." A calls it "A possible reinforcing loop, not a universal
   prediction about institutions." Supposed: the loop is asserted from the
-  properties, not derived. Its budget mechanics are CLAIM-577's, its
-  quiet CLAIM-549's, and its hidden compensation CLAIM-tmpe5u7i's moral
+  properties, not derived. Its budget mechanics are [CLAIM-577](CLAIM-577.md)'s, its
+  quiet [CLAIM-549](CLAIM-549.md)'s, and its hidden compensation [CLAIM-tmpe5u7i](CLAIM-tmpe5u7i.md)'s moral
   subsidy (A15 §3 gave the same loop in five steps). A's paraphrase of
-  CLAIM-577 is corrected below. The wording is A's; adopting it is the
+  [CLAIM-577](CLAIM-577.md) is corrected below. The wording is A's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 CLAIM-679 — Proposed; the ratchet the claim uses and the record's nearest loops -->
@@ -65,7 +65,7 @@ simplified institution with these properties":
 "None of these properties necessarily involves misconduct. But together,
 they can create a self-reinforcing structure", the loop in the summary.
 
-**The strategic layer.** With TERM-110's ratchet, a principal that cannot
+**The strategic layer.** With [TERM-110](../terms.d/TERM-110.md)'s ratchet, a principal that cannot
 commit not to revise terms on revealed capacity: "If they compensate
 successfully, they may reinforce the conditions that make future
 compensation necessary. If they refuse, someone dependent on their care
@@ -75,35 +75,35 @@ inefficiently." "Those responses may then become evidence for further
 intervention by management."
 
 **What is new.** Each link but one is held. The budget that cannot rise is
-CLAIM-577's, and the loss of transitions as slack goes is CLAIM-679's. The
-fall in complaints that is not a fall in unmet demand is CLAIM-549's. The
+[CLAIM-577](CLAIM-577.md)'s, and the loss of transitions as slack goes is [CLAIM-679](CLAIM-679.md)'s. The
+fall in complaints that is not a fall in unmet demand is [CLAIM-549](CLAIM-549.md)'s. The
 link that is not held is that compensation hides the shortfall from the
 rule that sets resources, so the rule cuts what it cannot see is in use.
-That is CLAIM-tmpe5u7i's subsidy entering a budget rule. A toy model
-adding an unobserved compensation term to CLAIM-577's rule would make the
+That is [CLAIM-tmpe5u7i](CLAIM-tmpe5u7i.md)'s subsidy entering a budget rule. A toy model
+adding an unobserved compensation term to [CLAIM-577](CLAIM-577.md)'s rule would make the
 claim demonstrable; A gives none, and the filer has not built one.
 
-**A correction.** A says CLAIM-577 "studies a budget rule in which next
+**A correction.** A says [CLAIM-577](CLAIM-577.md) "studies a budget rule in which next
 period's resources equal the resources consumed in the previous period."
-CLAIM-577's rule sets the budget to the previous period's **peak**
+[CLAIM-577](CLAIM-577.md)'s rule sets the budget to the previous period's **peak**
 spending, not to what was consumed, and that is what makes it unable to
 rise.
 
 ## How it sits with the record
 
-- **CLAIM-577** (Active, demonstrated), **CLAIM-549** (Active,
-  demonstrated) and **CLAIM-tmpe5u7i** (same exchange) are the three
+- **[CLAIM-577](CLAIM-577.md)** (Active, demonstrated), **[CLAIM-549](CLAIM-549.md)** (Active,
+  demonstrated) and **[CLAIM-tmpe5u7i](CLAIM-tmpe5u7i.md)** (same exchange) are the three
   components it rests on.
-- **QUESTION-386** asks under what funding rules allocating by observed
+- **[QUESTION-386](../questions.d/QUESTION-386.md)** asks under what funding rules allocating by observed
   activity loses capabilities used rarely; this is a mechanism by which
   allocating by observed performance loses capacity used constantly but
   invisibly.
-- **CLAIM-445** (a regime that shifts the evidence of its own necessity)
-  and **CLAIM-619** (answering challenge by reducing the capacity for it)
-  are loops of the same family; CLAIM-tmpciy9q and CLAIM-tmp8wki5, from the
+- **[CLAIM-445](CLAIM-445.md)** (a regime that shifts the evidence of its own necessity)
+  and **[CLAIM-619](CLAIM-619.md)** (answering challenge by reducing the capacity for it)
+  are loops of the same family; [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md) and CLAIM-tmp8wki5, from the
   same exchange, are its interpersonal and restrictive forms.
 - CASE-tmpm0rpn (three hospitals with the same output and budget) and the
-  study CASE-tmpohiyo are its nearest cases.
+  study [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md) are its nearest cases.
 
 ## What it does not say
 

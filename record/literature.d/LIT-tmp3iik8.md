@@ -39,8 +39,8 @@ summary: >-
   10.1007/s11948-024-00485-1. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's source for the distinction between
   attributability and accountability in AI-supported decisions. It bears
-  on CLAIM-022 (explaining efficacy does not settle whose the will is)
-  and on CLAIM-tmpb47ul. The anthology may want it for AI decision
+  on [CLAIM-022](../claims.d/CLAIM-022.md) (explaining efficacy does not settle whose the will is)
+  and on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md). The anthology may want it for AI decision
   support. What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -55,4 +55,4 @@ Jannik Zeiser (2024). Owning Decisions: AI Decision-Support and the Attributabil
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between attributability and accountability in AI-supported decisions. It bears on CLAIM-022 (explaining efficacy does not settle whose the will is) and on CLAIM-tmpb47ul. The anthology may want it for AI decision support. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between attributability and accountability in AI-supported decisions. It bears on [CLAIM-022](../claims.d/CLAIM-022.md) (explaining efficacy does not settle whose the will is) and on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md). The anthology may want it for AI decision support. Not read.

@@ -38,8 +38,8 @@ summary: >-
   DOI 10.1177/00018392241236163. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's ethnographic evidence that workers
   can experience choice and skilled agency inside tightly structured
-  algorithmic systems. It would ground CLAIM-410 empirically and bears
-  on CLAIM-545, as the ledger notes. What the exchange says of it is
+  algorithmic systems. It would ground [CLAIM-410](../claims.d/CLAIM-410.md) empirically and bears
+  on [CLAIM-545](../claims.d/CLAIM-545.md), as the ledger notes. What the exchange says of it is
   unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited with its standing -->
@@ -54,4 +54,4 @@ Lindsey D. Cameron (2024). The Making of the “Good Bad” Job: How Algorithmic
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's ethnographic evidence that workers can experience choice and skilled agency inside tightly structured algorithmic systems. It would ground CLAIM-410 empirically and bears on CLAIM-545, as the ledger notes. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's ethnographic evidence that workers can experience choice and skilled agency inside tightly structured algorithmic systems. It would ground [CLAIM-410](../claims.d/CLAIM-410.md) empirically and bears on [CLAIM-545](../claims.d/CLAIM-545.md), as the ledger notes. Not read.

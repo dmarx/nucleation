@@ -27,12 +27,12 @@ summary: >-
   A's, from A110 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-17),
   "A responsibility graph, rather than a single attribution of blame", its
   non-substitution principle, written to develop the owner's U47
-  distinction between blame and accountability (CLAIM-tmpsk25g). It is
+  distinction between blame and accountability ([CLAIM-tmpsk25g](CLAIM-tmpsk25g.md)). It is
   the claim the owner's last turn, U48 on "blameless culture" in
-  engineering, bears on most directly (QUESTION-tmp2t6ve). The wording is
+  engineering, bears on most directly ([QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md)). The wording is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpd0hyp CLAIM-tmpb47ul CLAIM-tmpixmhp CLAIM-tmpsk25g QUESTION-tmp2t6ve — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CASE-tmpd0hyp CLAIM-tmpb47ul CLAIM-tmpixmhp CLAIM-tmpsk25g — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmp4o53g: Blame and repair do not substitute for each other: assigning blame for creating a harmful condition does not discharge the remedial duties of those now responsible for it, and assigning present remedial duties does not show that those who bear them were to blame for it, so that treating one guilty official as a repair of the system is blame displacement, and loading the repair on whoever is nearest is remedial scapegoating
@@ -68,26 +68,26 @@ for repairing the institution".
 
 ## How it sits with the record
 
-- **CLAIM-tmpsk25g** (the owner's) is what it rests on: the grounds of
+- **[CLAIM-tmpsk25g](CLAIM-tmpsk25g.md)** (the owner's) is what it rests on: the grounds of
   correction are not those of blame. This claim says what follows when the
   two are assigned: neither assignment discharges or certifies the other.
-- **CLAIM-tmpb47ul**, filed from A17 earlier in the exchange, holds the
+- **[CLAIM-tmpb47ul](CLAIM-tmpb47ul.md)**, filed from A17 earlier in the exchange, holds the
   moral crumple zone, where retrospective blame lands on the person nearest
   the failure while control over its conditions lies upstream. That is the
   mechanism by which remedial scapegoating happens. This claim is the
   principle that names it a mistake, with its mirror image.
-- **CASE-151** (Active): at Wells Fargo leadership disciplined individual
+- **[CASE-151](../cases.d/CASE-151.md)** (Active): at Wells Fargo leadership disciplined individual
   employees for what the board's investigation traced to the sales model.
   It is a documented instance of blame displacement: identifying culpable
   employees stood in for repairing the system.
-- **THEORY-207** (Proposed, Floridi) allocates responsibility in networks
+- **[THEORY-207](../theory.d/THEORY-207.md)** (Proposed, Floridi) allocates responsibility in networks
   without fault by default; it is a reading of the second half, remedial
   assignment without a finding of blame.
-- **CASE-tmpd0hyp** (A110 §11's Case B) tests the second half: blameless
+- **[CASE-tmpd0hyp](../cases.d/CASE-tmpd0hyp.md)** (A110 §11's Case B) tests the second half: blameless
   decision-makers, the same wrong, and remedial duties assigned by
-  capability and jurisdiction without inventing blame. CASE-151 serves for
+  capability and jurisdiction without inventing blame. [CASE-151](../cases.d/CASE-151.md) serves for
   the first half.
-- **QUESTION-tmp2t6ve** asks whether blameless post-incident practice keeps
+- **[QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md)** asks whether blameless post-incident practice keeps
   the upstream provenance blame supplies. A blameless review is designed
   against remedial scapegoating; whether it falls into the mirror failure,
   no one blamed and nothing upstream repaired, is the question's open part.
@@ -98,4 +98,4 @@ for repairing the institution".
   "Possible responsibility", and A conditions the resource controller's
   duty: "if established".
 - Not that blame is idle. Blame has its own grounds and uses
-  (CLAIM-tmpixmhp); the claim is only that it does not do repair's work.
+  ([CLAIM-tmpixmhp](CLAIM-tmpixmhp.md)); the claim is only that it does not do repair's work.

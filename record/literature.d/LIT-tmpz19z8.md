@@ -57,4 +57,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A87 (2026-11-17). It bears on CLAIM-tmpnb4v4, CLAIM-tmplidg6 and QUESTION-tmptinzk. Correction: the exchange names no authors; its "substantively revised in June 2025" is correct. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A87 (2026-11-17). It bears on CLAIM-tmpnb4v4, [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) and QUESTION-tmptinzk. Correction: the exchange names no authors; its "substantively revised in June 2025" is correct. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

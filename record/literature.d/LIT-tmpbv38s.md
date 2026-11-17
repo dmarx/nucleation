@@ -41,9 +41,9 @@ summary: >-
   "Assess Depp Heard Abuse" as A's source on presidents' growing ability
   to make particularized decisions with constrained opportunities for
   scrutiny, beside the owner's U13 on the speed of executive action. It
-  bears on CLAIM-464 (an intervention can change what it would take to
-  correct it) and CASE-170, which hold the owner's earlier version of
-  U13, and on CLAIM-tmpgh3v2. What the exchange says of it is unverified
+  bears on [CLAIM-464](../claims.d/CLAIM-464.md) (an intervention can change what it would take to
+  correct it) and [CASE-170](../cases.d/CASE-170.md), which hold the owner's earlier version of
+  U13, and on [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md). What the exchange says of it is unverified
   until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpgh3v2 — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -58,4 +58,4 @@ Mariano-Florentino Cuéllar (2026). The New Presidential Adjudication. *Yale Law
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A25 as A's source on presidents' growing ability to make particularized decisions with constrained opportunities for scrutiny, beside the owner's U13 on the speed of executive action. It bears on CLAIM-464 (an intervention can change what it would take to correct it) and CASE-170, which hold the owner's earlier version of U13, and on CLAIM-tmpgh3v2. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A25 as A's source on presidents' growing ability to make particularized decisions with constrained opportunities for scrutiny, beside the owner's U13 on the speed of executive action. It bears on [CLAIM-464](../claims.d/CLAIM-464.md) (an intervention can change what it would take to correct it) and [CASE-170](../cases.d/CASE-170.md), which hold the owner's earlier version of U13, and on [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md). Not read.

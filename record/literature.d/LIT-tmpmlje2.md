@@ -40,9 +40,9 @@ summary: >-
   it in the exchange "Assess Depp Heard Abuse" as the report A uses for
   the 2018 Uber test-vehicle crash, its case of responsibility split
   between a distracted operator and the organization around her. It
-  bears on CLAIM-tmpb47ul as the case A uses to illustrate a moral
+  bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) as the case A uses to illustrate a moral
   crumple zone. The ledger recommended a CASE on it once read; none is
-  filed. The record holds another NTSB report, LIT-1371. What the
+  filed. The record holds another NTSB report, [LIT-1371](LIT-1371.md). What the
   exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -57,4 +57,4 @@ National Transportation Safety Board (2019). *Collision Between Vehicle Controll
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 as the report A uses for the 2018 Uber test-vehicle crash, its case of responsibility split between a distracted operator and the organization around her. It bears on CLAIM-tmpb47ul as the case A uses to illustrate a moral crumple zone. The ledger recommended a CASE on it once read; none is filed. The record holds another NTSB report, LIT-1371. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 as the report A uses for the 2018 Uber test-vehicle crash, its case of responsibility split between a distracted operator and the organization around her. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) as the case A uses to illustrate a moral crumple zone. The ledger recommended a CASE on it once read; none is filed. The record holds another NTSB report, [LIT-1371](LIT-1371.md). Not read.

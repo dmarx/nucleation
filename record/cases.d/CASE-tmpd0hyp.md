@@ -52,8 +52,8 @@ Fictional, it shows that remedial responsibility can be assigned where
 culpability is empty in both arms, and that the assignment follows capacity
 and jurisdiction, not fault: in arm B the public authority owes or may owe
 the correction without having caused anything. That is the second half of
-CLAIM-tmp4o53g (assigning remedial duties does not establish blame) and the
-owner's CLAIM-tmpsk25g (correction does not wait on blame). A110 §8's
+[CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md) (assigning remedial duties does not establish blame) and the
+owner's [CLAIM-tmpsk25g](../claims.d/CLAIM-tmpsk25g.md) (correction does not wait on blame). A110 §8's
 graph gives the roles: an oversight body "Investigate, adjudicate, order
 relief within its authority"; a successor "May inherit continuing duties to
 correct, even without fault for the original design".
@@ -63,5 +63,5 @@ authority's jurisdiction grounds a duty to intervene, rather than a
 permission, is a further premise: Miller's capacity ground of remedial
 responsibility, which A relays and the record has not read. It does not
 build the first half of the principle, blame displacement, where a culpable
-party is found and the system goes unrepaired; CASE-151 (Wells Fargo) is
+party is found and the system goes unrepaired; [CASE-151](CASE-151.md) (Wells Fargo) is
 the record's documented instance of that.

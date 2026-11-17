@@ -37,7 +37,7 @@ summary: >-
   happens", with escalation for exceptions, can keep fast execution
   answerable, on the condition that "the slower governing process must
   itself remain open to legitimate revision". Supposed: it carries
-  CLAIM-478's scale separation, a dynamical result, into institutions by
+  [CLAIM-478](CLAIM-478.md)'s scale separation, a dynamical result, into institutions by
   analogy, and holds only if that carriage holds. The wording is A's;
   adopting it is the owner's call.
 ---
@@ -81,26 +81,26 @@ entrenched as seemingly natural limits on what anyone may do."
 
 ## How it sits with the record
 
-- **CLAIM-478**: where some degrees of freedom settle fast relative to
+- **[CLAIM-478](CLAIM-478.md)**: where some degrees of freedom settle fast relative to
   others, the relation they settle into is a constraint over the window
   between the two timescales. The claim reads a governing rule as such a
   constraint and asks who can revise it within the window. It rests on
-  CLAIM-478, which is why it is supposed: the dynamical claim is not shown
+  [CLAIM-478](CLAIM-478.md), which is why it is supposed: the dynamical claim is not shown
   to hold of rules.
-- **CLAIM-423** (the owner's): components at different speeds differ in
+- **[CLAIM-423](CLAIM-423.md)** (the owner's): components at different speeds differ in
   which forms of influence they can accumulate and keep, and so in which
   holds authority over others. This is one case: the slow level holds
   authority because those it harms cannot reach it at its speed of
   application.
-- **TERM-124** defines domination as a capacity, "used or not"; the claim's
+- **[TERM-124](../terms.d/TERM-124.md)** defines domination as a capacity, "used or not"; the claim's
   domination needs no use beyond the rule's standing operation.
 - A33 §4 also says automation "accelerated one timescale without
   proportionately increasing another's capacity", so errors are produced
-  faster than they are found; that is CLAIM-462's action outrunning
-  correction, recorded there as a note. CLAIM-tmph28l6 is the same
-  asymmetry stated as cost. The owner's CLAIM-tmp11xvc is what compiled
+  faster than they are found; that is [CLAIM-462](CLAIM-462.md)'s action outrunning
+  correction, recorded there as a note. [CLAIM-tmph28l6](CLAIM-tmph28l6.md) is the same
+  asymmetry stated as cost. The owner's [CLAIM-tmp11xvc](CLAIM-tmp11xvc.md) is what compiled
   constraints preserve: points at which the process stays open.
-- CASE-tmpdn372 proposes the study that would separate the two clauses.
+- [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) proposes the study that would separate the two clauses.
 
 ## What it does not say
 

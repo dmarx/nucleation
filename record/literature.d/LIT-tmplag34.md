@@ -40,7 +40,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpssfc1 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: LIT-tmpretfe — registered unread from the same exchange (2026-11-17), Deferred -->
-<!-- inactive-ok-file: QUESTION-tmpk7u3e — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmplag34: Reply to Leif Wenar
 
@@ -58,4 +57,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A100 (2026-11-17) and used in A102. It replies to LIT-tmpretfe. It bears on CLAIM-tmplidg6 (rights organize later justification), CLAIM-tmpssfc1 and QUESTION-tmpk7u3e. A linked a copy of the published pages on squarespace; no copy has been sought for the record. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A100 (2026-11-17) and used in A102. It replies to [LIT-tmpretfe](LIT-tmpretfe.md). It bears on [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) (rights organize later justification), CLAIM-tmpssfc1 and [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md). A linked a copy of the published pages on squarespace; no copy has been sought for the record. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

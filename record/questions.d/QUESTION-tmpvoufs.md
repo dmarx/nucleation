@@ -18,7 +18,7 @@ summary: >-
   inverse question: *How can agents hold principals accountable for the
   conditions under which agents are required to act?*" A offered it as
   "the foundation of a fairly general theory of organizational moral
-  exploitation" and did not take it further. It sharpens QUESTION-461's
+  exploitation" and did not take it further. It sharpens [QUESTION-461](QUESTION-461.md)'s
   second branch to the instruments that would turn an agent's
   indispensable effort into a claim on the conditions it works under. The
   wording is A's; adopting it is the owner's call.
@@ -30,18 +30,18 @@ summary: >-
 
 ## Why it is a question
 
-The record has the downward half. CLAIM-687 raises what an arrangement's
-controllers owe with how indispensable it is; CLAIM-624 names a duty to
-keep violations knowable, contestable and correctable; CLAIM-tmpb47ul says
+The record has the downward half. [CLAIM-687](../claims.d/CLAIM-687.md) raises what an arrangement's
+controllers owe with how indispensable it is; [CLAIM-624](../claims.d/CLAIM-624.md) names a duty to
+keep violations knowable, contestable and correctable; [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) says
 that control, practical obligation and blame can come apart, with blame
 landing downstream. None says by what means those downstream can make the
-upstream party answer for the conditions it set. QUESTION-461 asks when a
+upstream party answer for the conditions it set. [QUESTION-461](QUESTION-461.md) asks when a
 whole's dependence on subordinated participants becomes their authority
-over it; CLAIM-tmpe5u7i gives one reason it may not, a commitment that
+over it; [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) gives one reason it may not, a commitment that
 removes withdrawal. This asks for the instruments.
 
 The principal–agent literature the record has read runs the other way.
-THEORY-1371 (incentive design for returning agents) treats the principal
+[THEORY-1371](../theory.d/THEORY-1371.md) (incentive design for returning agents) treats the principal
 as the designer and the agent's behaviour as what is designed for. A17
 §9 lists what an answer would have to supply in practice: "meaningful
 authority to halt unsafe processes, transparent information about system

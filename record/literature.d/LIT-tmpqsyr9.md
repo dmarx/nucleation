@@ -56,4 +56,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A110 (2026-11-17). It bears on TERM-tmp8pnnr, CLAIM-tmp4o53g (non-substitution: blame does not discharge repair) and CLAIM-tmp0wx69. Correction: the exchange names no work; this article states the four grounds A lists (also developed in *National Responsibility and Global Justice*, OUP 2007, not registered). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A110 (2026-11-17). It bears on [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md), [CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md) (non-substitution: blame does not discharge repair) and [CLAIM-tmp0wx69](../claims.d/CLAIM-tmp0wx69.md). Correction: the exchange names no work; this article states the four grounds A lists (also developed in *National Responsibility and Global Justice*, OUP 2007, not registered). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

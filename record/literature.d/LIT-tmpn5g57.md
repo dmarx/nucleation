@@ -39,7 +39,7 @@ summary: >-
   Governance in the Banking Sector*. November 2026. Here because A cites
   it in the exchange "Assess Depp Heard Abuse" as A's regulatory example
   of the distinction between human control over outputs and over the
-  process. It bears on CLAIM-410 and CLAIM-tmpgh3v2 (a slow rule can
+  process. It bears on [CLAIM-410](../claims.d/CLAIM-410.md) and [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) (a slow rule can
   govern a fast process). The anthology may want it. What the exchange
   says of it is unverified until read.
 ---
@@ -55,4 +55,4 @@ Hong Kong Monetary Authority (2026). *Discussion Paper on Agentic A.I. Governanc
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as A's regulatory example of the distinction between human control over outputs and over the process. It bears on CLAIM-410 and CLAIM-tmpgh3v2 (a slow rule can govern a fast process). The anthology may want it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as A's regulatory example of the distinction between human control over outputs and over the process. It bears on [CLAIM-410](../claims.d/CLAIM-410.md) and [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) (a slow rule can govern a fast process). The anthology may want it. Not read.

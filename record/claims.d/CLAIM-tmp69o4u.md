@@ -92,29 +92,29 @@ categories."
 
 ## How it sits with the record
 
-- **CLAIM-462** (Active): an arrangement can keep or increase its capacity
+- **[CLAIM-462](CLAIM-462.md)** (Active): an arrangement can keep or increase its capacity
   for effective action while its capacity to be corrected by others
   degrades, because different relations maintain them. This claim has the
   same form and a different pair: correction within the mechanism, and
   revision of the mechanism, whether by others or by the institution
   itself.
-- **CLAIM-685** (Proposed) predicts that institutions able to revise their
+- **[CLAIM-685](CLAIM-685.md)** (Proposed) predicts that institutions able to revise their
   own standards avoid persistent failures better than those that only
   monitor outcomes against fixed standards. That is an empirical
   comparison that presupposes this separation.
-- **CLAIM-523** (Active): legibility, volitional efficacy and correctability
+- **[CLAIM-523](CLAIM-523.md)** (Active): legibility, volitional efficacy and correctability
   are distinct achievements. The pipeline's Λ, Γ and Θ, F are close to
   them; reflexive responsiveness is correctability applied to the
   mechanism.
-- **CLAIM-535** (Active) is the Λ link: a policy acting on an observation
+- **[CLAIM-535](CLAIM-535.md)** (Active) is the Λ link: a policy acting on an observation
   that merges circumstances with no common acceptable action cannot be
   adequate in all of them.
-- **CASE-226** (Proposed) is a proposed study of the second order: two
+- **[CASE-226](../cases.d/CASE-226.md)** (Proposed) is a proposed study of the second order: two
   communities shown that a category conflates two phenomena, one revising
   it and one reinterpreting the evidence. A110 §11's Case C, identical
   compliance with and without a rule-revision detector, is close to it and
-  to CASE-229.
-- The second-order capacity named here is what TERM-tmphum9r calls
+  to [CASE-229](../cases.d/CASE-229.md).
+- The second-order capacity named here is what [TERM-tmphum9r](../terms.d/TERM-tmphum9r.md) calls
   normative governability.
 
 ## What it does not say
@@ -127,4 +127,4 @@ categories."
   "A finding that the second institution lacks the relevant capability is
   descriptive. A finding that it violated a duty by eliminating that
   capability requires an additional normative premise." That premise is
-  CLAIM-624's duty.
+  [CLAIM-624](CLAIM-624.md)'s duty.

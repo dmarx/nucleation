@@ -38,8 +38,8 @@ summary: >-
   10.1111/japp.12234. Here because A cites it in the exchange "Assess
   Depp Heard Abuse" as A's main source for moral blackmail: an actor can
   wrongfully place another under a genuine obligation and exploit it. It
-  is the nearest footing for CLAIM-tmp76x3e (normative manipulation) and
-  QUESTION-tmpbzq36, and it bears on CLAIM-tmpa2l21 and CASE-tmpm0rpn.
+  is the nearest footing for [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) (normative manipulation) and
+  [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md), and it bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) and CASE-tmpm0rpn.
   Whether the dog and teachers examples A attributes to Keller are his
   is unverified. Keller's "Moral Blackmail and the Family" (Journal of
   Moral Philosophy, 2016) is not named in the exchange and is not
@@ -57,4 +57,4 @@ Simon Keller (2016; issue 2018). Fiduciary Duties and Moral Blackmail. *Journal 
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 (also A15, A26, A30, A37, A49) as A's main source for moral blackmail: an actor can wrongfully place another under a genuine obligation and exploit it. It is the nearest footing for CLAIM-tmp76x3e (normative manipulation) and QUESTION-tmpbzq36, and it bears on CLAIM-tmpa2l21 and CASE-tmpm0rpn. Whether the dog and teachers examples A attributes to Keller are his is unverified. Keller's "Moral Blackmail and the Family" (Journal of Moral Philosophy, 2016) is not named in the exchange and is not registered. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 (also A15, A26, A30, A37, A49) as A's main source for moral blackmail: an actor can wrongfully place another under a genuine obligation and exploit it. It is the nearest footing for [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) (normative manipulation) and [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md), and it bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) and CASE-tmpm0rpn. Whether the dog and teachers examples A attributes to Keller are his is unverified. Keller's "Moral Blackmail and the Family" (Journal of Moral Philosophy, 2016) is not named in the exchange and is not registered. Not read.

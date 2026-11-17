@@ -73,15 +73,15 @@ owed meanwhile are all open.
 
 ## How it sits with the record
 
-- **CLAIM-560** (Active): compatibility and reachability vary
+- **[CLAIM-560](CLAIM-560.md)** (Active): compatibility and reachability vary
   independently with the budget. The bound on the third duty rests on it:
   an arrangement that would make the demands compatible need not be
   reachable, so a duty to establish it cannot be read off its
   compatibility.
-- **CLAIM-624** (Proposed) holds a duty to maintain feasible means of
+- **[CLAIM-624](CLAIM-624.md)** (Proposed) holds a duty to maintain feasible means of
   answerability. That is A's third illustration, a duty to maintain a
   capability, and it is grounded in an undertaken responsibility, not in
-  the rule. The derivation A offers for it is ARG-tmptw59w.
+  the rule. The derivation A offers for it is [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md).
 - **CASE-tmp9vd9x**, filed from the part before, is the aquifer with
   numbers: two households, a sustainable limit, and a recycling technology
   that makes all three demands compatible and that neither household can

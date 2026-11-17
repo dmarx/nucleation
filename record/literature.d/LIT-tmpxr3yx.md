@@ -39,7 +39,7 @@ summary: >-
   Here because A cites it in the exchange "Assess Depp Heard Abuse" as
   recommended by A as a complement to coercive-control theory that
   emphasizes interaction and relationship-level risk markers. It bears
-  on CLAIM-tmpkivlz and CASE-tmpzt3zf. What the exchange says of it is
+  on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). What the exchange says of it is
   unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -54,4 +54,4 @@ Bahare Mazinani and Brian P. O’Connor (2026). An Updated and Revised Dyadic Mo
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as recommended by A as a complement to coercive-control theory that emphasizes interaction and relationship-level risk markers. It bears on CLAIM-tmpkivlz and CASE-tmpzt3zf. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A5 as recommended by A as a complement to coercive-control theory that emphasizes interaction and relationship-level risk markers. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). Not read.

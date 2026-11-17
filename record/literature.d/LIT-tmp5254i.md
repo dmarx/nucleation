@@ -40,7 +40,7 @@ summary: >-
   exchange "Assess Depp Heard Abuse" as the source of the four-type
   table in A3 (situational couple violence, coercive controlling
   violence, violent resistance, mutual violent control). It bears on
-  CLAIM-tmpkivlz and CASE-tmpzt3zf. The ledger recommends a THEORY for
+  [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). The ledger recommends a THEORY for
   the typology once read, carrying A's caveat that later reviews give it
   mixed support. What the exchange says of it is unverified until read.
 ---
@@ -56,4 +56,4 @@ Michael P. Johnson (2008). *A Typology of Domestic Violence: Intimate Terrorism,
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A3 as the source of the four-type table in A3 (situational couple violence, coercive controlling violence, violent resistance, mutual violent control). It bears on CLAIM-tmpkivlz and CASE-tmpzt3zf. The ledger recommends a THEORY for the typology once read, carrying A's caveat that later reviews give it mixed support. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A3 as the source of the four-type table in A3 (situational couple violence, coercive controlling violence, violent resistance, mutual violent control). It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). The ledger recommends a THEORY for the typology once read, carrying A's caveat that later reviews give it mixed support. Not read.

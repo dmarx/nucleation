@@ -37,7 +37,7 @@ summary: >-
   https://www.tortoisemedia.com/listen/who-trolled-amber. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as A's evidence
   that the apparent online consensus about the trial was partly
-  manufactured. It bears on CLAIM-tmpciy9q as evidence about how public
+  manufactured. It bears on [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) as evidence about how public
   judgments of the dispute were shaped; A itself limits it (no finding
   that Depp organized the activity, or that it affected the jury). What
   the exchange says of it is unverified until read.
@@ -54,4 +54,4 @@ Alexi Mostrous (2024). *Who Trolled Amber?* Investigative podcast series. London
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A2 as A's evidence that the apparent online consensus about the trial was partly manufactured. It bears on CLAIM-tmpciy9q as evidence about how public judgments of the dispute were shaped; A itself limits it (no finding that Depp organized the activity, or that it affected the jury). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A2 as A's evidence that the apparent online consensus about the trial was partly manufactured. It bears on [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) as evidence about how public judgments of the dispute were shaped; A itself limits it (no finding that Depp organized the activity, or that it affected the jury). Not read.

@@ -115,16 +115,16 @@ claim."
 ## How it sits with the record
 
 Nothing on the record holds Scanlon or contractualism: no CLAIM, QUESTION,
-TERM or CASE names either, and the only Scanlon mention is THEORY-122's
+TERM or CASE names either, and the only Scanlon mention is [THEORY-122](../theory.d/THEORY-122.md)'s
 report of the attributionist reply to Wolf. The question's terms are the
-record's. Standing is TERM-083's moral standing; the record's open question
+record's. Standing is [TERM-083](../terms.d/TERM-083.md)'s moral standing; the record's open question
 of whether its relationally indexed judgments can be objective about their
-standards is QUESTION-129, which any answer here presupposes. The record's
-own pieces that a reply would use are CLAIM-523 (legibility, volitional
-efficacy, correctability), CLAIM-624 (a second-order duty of
+standards is [QUESTION-129](QUESTION-129.md), which any answer here presupposes. The record's
+own pieces that a reply would use are [CLAIM-523](../claims.d/CLAIM-523.md) (legibility, volitional
+efficacy, correctability), [CLAIM-624](../claims.d/CLAIM-624.md) (a second-order duty of
 answerability), and from this exchange CLAIM-tmpol7nz (rights that protect a
-choice constrain policies, not histories), CLAIM-tmplidg6 (rights organize
-later justification) and CLAIM-tmpyn6oi (the baseline of options can be a
+choice constrain policies, not histories), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) (rights organize
+later justification) and [CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md) (the baseline of options can be a
 product of the relationship). QUESTION-tmpkqvxv asks a narrower question
 from the part before: whether evidence of organizational feasibility
 changes which principles can be reasonably rejected.

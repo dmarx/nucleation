@@ -36,7 +36,7 @@ summary: >-
   systematically diverges." It joins Madeleine Clare Elish's moral crumple
   zone (2019) and Joan Tronto's privileged irresponsibility (1993, 2013),
   both as A relays them and neither yet read here, with the moral subsidy
-  it rests on (CLAIM-tmpe5u7i): "The worker's conscience does double
+  it rests on ([CLAIM-tmpe5u7i](CLAIM-tmpe5u7i.md)): "The worker's conscience does double
   duty". A17 §6 adds the evidential asymmetry, A15 §9 "Attributional power", A17 §10 the third question, of who sets the standards. A49
   §11.1 restates it a day later. The wording is A's; adopting it is the
   owner's call.
@@ -97,23 +97,23 @@ pattern of answers to those six.
 
 ## How it sits with the record
 
-- **CLAIM-687** raises the accountability owed by an arrangement's
-  controllers with how indispensable it is; **CLAIM-624** names a duty to
+- **[CLAIM-687](CLAIM-687.md)** raises the accountability owed by an arrangement's
+  controllers with how indispensable it is; **[CLAIM-624](CLAIM-624.md)** names a duty to
   keep violations knowable, contestable and correctable. This says where
   blame lands when neither is met, and why: the party that sets the terms
   of evaluation is the one the evaluation spares.
-- **CASE-151** (Wells Fargo, Active) has the shape in the board's own
+- **[CASE-151](../cases.d/CASE-151.md)** (Wells Fargo, Active) has the shape in the board's own
   findings: signals of harm "held by investigators, regional leaders and
   control functions without authority to act", and leadership that "blamed
-  individual employees". **CASE-261** (a stipulated hospital AI) has
+  individual employees". **[CASE-261](../cases.d/CASE-261.md)** (a stipulated hospital AI) has
   clinicians who lose discretion.
-- **CLAIM-614** and **CLAIM-657** hold how harm and need stop being legible
+- **[CLAIM-614](CLAIM-614.md)** and **[CLAIM-657](CLAIM-657.md)** hold how harm and need stop being legible
   to an organization; the third part above is that mechanism applied to
   the record of who prevented what.
-- From the same exchange: CLAIM-tmp238zy (verification prompts that become
-  evidence the user owned the decision), CLAIM-tmpsk25g and CLAIM-tmp4o53g
+- From the same exchange: [CLAIM-tmp238zy](CLAIM-tmp238zy.md) (verification prompts that become
+  evidence the user owned the decision), [CLAIM-tmpsk25g](CLAIM-tmpsk25g.md) and [CLAIM-tmp4o53g](CLAIM-tmp4o53g.md)
   (blame and correction kept apart). The senses of responsibility are
-  TERM-tmp8pnnr's: the claim needs accountability without culpability,
+  [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s: the claim needs accountability without culpability,
   A17 §9's "A person can be required to explain their decisions and
   participate in correcting a failure without necessarily being morally
   culpable for everything that happened."

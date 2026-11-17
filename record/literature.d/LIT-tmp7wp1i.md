@@ -38,7 +38,7 @@ summary: >-
   https://journals.library.wustl.edu/lawreview/article/id/6697/. Here
   because A cites it in the exchange "Assess Depp Heard Abuse" as in A's
   reading list as the foundational legal argument that automation can
-  collapse adjudication and rulemaking. It bears on CLAIM-tmpohafo
+  collapse adjudication and rulemaking. It bears on [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md)
   (explanation, contestation and interruption are separate rights). What
   the exchange says of it is unverified until read.
 ---
@@ -54,4 +54,4 @@ Danielle Keats Citron (2008). Technological Due Process. *Washington University 
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as in A's reading list as the foundational legal argument that automation can collapse adjudication and rulemaking. It bears on CLAIM-tmpohafo (explanation, contestation and interruption are separate rights). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as in A's reading list as the foundational legal argument that automation can collapse adjudication and rulemaking. It bears on [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (explanation, contestation and interruption are separate rights). Not read.

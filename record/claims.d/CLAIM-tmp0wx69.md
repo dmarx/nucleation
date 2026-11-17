@@ -31,7 +31,7 @@ summary: >-
   present incapacity cannot settle historical responsibility") of the
   exchange "Assess Depp Heard Abuse" (2026-11-17), building on the owner's
   U47 point that blame gives provenance for holding upstream actors
-  accountable (CLAIM-tmpixmhp). A applies it to one actor across time:
+  accountable ([CLAIM-tmpixmhp](CLAIM-tmpixmhp.md)). A applies it to one actor across time:
   CannotDetect_{t₁}(A, r) does not imply NotResponsibleForIncapacity(A,
   r). The wording is A's; adopting it is the owner's call.
 ---
@@ -80,31 +80,31 @@ behavior alone when responsibility for the mechanism itself is at issue**".
 
 ## How it sits with the record
 
-- **CLAIM-tmpixmhp** (the owner's) is what it rests on: responsibility for
+- **[CLAIM-tmpixmhp](CLAIM-tmpixmhp.md)** (the owner's) is what it rests on: responsibility for
   an act and for the incapacity through which it was done can diverge.
   This claim is the case where both lie with one actor at two times.
-- **QUESTION-449** asks whether the origin of a mechanism bears on whose an
+- **[QUESTION-449](../questions.d/QUESTION-449.md)** asks whether the origin of a mechanism bears on whose an
   organization's counter-normativity is. This claim adds a clear instance
   on the formation side: the organization that removed its own capability
   is both installer and maintainer, and its earlier act is not excused by
   its later state. It does not answer the question, which is about
   mechanisms installed by another.
-- **CLAIM-464** (Active): an intervention can make its own correction
+- **[CLAIM-464](CLAIM-464.md)** (Active): an intervention can make its own correction
   costlier or unreachable. Dismantling the capability to detect a
   violation is such an intervention, made before review.
 - **CLAIM-tmp8wki5**, filed from the part before: a restriction that
   produces the incapacity later cited to justify it. Same structure, with
   the incapacity produced in another party.
-- **CLAIM-614** and **CLAIM-624** (Proposed) hold the reproduction of
-  non-legibility as a wrong distinct from the harm, and **CLAIM-624**'s
+- **[CLAIM-614](CLAIM-614.md)** and **[CLAIM-624](CLAIM-624.md)** (Proposed) hold the reproduction of
+  non-legibility as a wrong distinct from the harm, and **[CLAIM-624](CLAIM-624.md)**'s
   grades (A60 §8) run from unavoidable limitation to strategic
   self-insulation. This claim gives those grades their use: they decide
   whether the incapacity excuses.
-- **THEORY-121** (Active): Fischer and Ravizza make responsibility
+- **[THEORY-121](../theory.d/THEORY-121.md)** (Active): Fischer and Ravizza make responsibility
   historical through the ownership of the mechanism. A110 §7 notes the
   parallel and that the institutional case needs further distinctions
   "among designers, officeholders, maintainers, and those holding authority
-  to intervene". **CASE-tmpolqas** is the matched test.
+  to intervene". **[CASE-tmpolqas](../cases.d/CASE-tmpolqas.md)** is the matched test.
 
 ## What it does not say
 
@@ -113,7 +113,7 @@ behavior alone when responsibility for the mechanism itself is at issue**".
   failure to maintain the missing capability."
 - Not that the duty that was breached is established here. Whether
   dismantling the capability breached a duty needs the maintenance duty of
-  CLAIM-624, argued in ARG-tmptw59w.
+  [CLAIM-624](CLAIM-624.md), argued in [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md).
 - Not that an institution is a moral person. A108 §5: "We cannot simply
   anthropomorphize an institution and treat it as a morally impaired
   individual."

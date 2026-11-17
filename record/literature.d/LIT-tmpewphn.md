@@ -38,11 +38,11 @@ summary: >-
   A cites it in the exchange "Assess Depp Heard Abuse" as A's source for
   moral exploitation: institutions that allocate moral responsibility,
   moral risk and morally compromising decisions unfairly. It bears on
-  CLAIM-tmpe5u7i (the moral subsidy loop), QUESTION-tmpbzq36 and
-  CLAIM-tmp76x3e. Robillard's 2016 dissertation is registered beside it.
+  [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) (the moral subsidy loop), [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md) and
+  [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). Robillard's 2016 dissertation is registered beside it.
   What the exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpe5u7i QUESTION-tmpbzq36 — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpe5u7i — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmpewphn: Outsourcing Duty: The Moral Exploitation of the American Soldier
 
@@ -54,4 +54,4 @@ Michael Robillard and Bradley J. Strawser (2022). *Outsourcing Duty: The Moral E
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 and A15 (also A26) as A's source for moral exploitation: institutions that allocate moral responsibility, moral risk and morally compromising decisions unfairly. It bears on CLAIM-tmpe5u7i (the moral subsidy loop), QUESTION-tmpbzq36 and CLAIM-tmp76x3e. Robillard's 2016 dissertation is registered beside it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 and A15 (also A26) as A's source for moral exploitation: institutions that allocate moral responsibility, moral risk and morally compromising decisions unfairly. It bears on [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) (the moral subsidy loop), [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md) and [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). Robillard's 2016 dissertation is registered beside it. Not read.

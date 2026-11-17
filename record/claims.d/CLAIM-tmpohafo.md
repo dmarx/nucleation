@@ -27,7 +27,7 @@ rests_on:
 summary: >-
   A's, from A23 §6 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
   "Explanation, contestation, and interruption are three different
-  rights", developing the owner's U11 (CLAIM-tmp11xvc) at U12. "An
+  rights", developing the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) at U12. "An
   explanation without contestation may create transparency without
   accountability. Contestation without meaningful intervention may create
   a formal right that arrives too late. And interruption without access to
@@ -35,9 +35,9 @@ summary: >-
   And: "The ability to give an account and the obligation to *answer to
   someone* are different things." A19 §7's recourse against
   contestability, after Cerrato, Sahlgren and Heilmann as A relays them,
-  is the second split's first statement. CLAIM-523's achievements are an
+  is the second split's first statement. [CLAIM-523](CLAIM-523.md)'s achievements are an
   organization's; these are the affected party's entitlements, and
-  CLAIM-624's answerability is what contestation is owed under. The
+  [CLAIM-624](CLAIM-624.md)'s answerability is what contestation is owed under. The
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-624 — Proposed; a claim this rests on -->
@@ -80,21 +80,21 @@ says, and "A robust process needs an appropriate combination."
 
 ## How it sits with the record
 
-- **CLAIM-523** (Active) holds what a discrepancy needs to change what an
+- **[CLAIM-523](CLAIM-523.md)** (Active) holds what a discrepancy needs to change what an
   organization does: legibility, volitional efficacy, correctability. That
   is the organization's side. This is the affected party's: explanation
   gives it legibility of the decision, contestation a demand that can have
   efficacy, interruption a hold on the deadline correctability works
-  against. The claim rests on CLAIM-523 for the separation of the three
+  against. The claim rests on [CLAIM-523](CLAIM-523.md) for the separation of the three
   achievements and adds that, from outside, they are three entitlements
   that can be granted separately.
-- **CLAIM-624** names a second-order duty of answerability; the claim's
+- **[CLAIM-624](CLAIM-624.md)** names a second-order duty of answerability; the claim's
   distinction between giving an account and answering is what that duty
   requires of contestation.
 - From the same exchange: TERM-tmpsit04 (protected contestability),
   TERM-tmp4zjar (answerability), CLAIM-tmpnhesz (answerability is directed
-  and role-specific), and CLAIM-tmph28l6, on what contestation costs.
-- The interruption right is the owner's U11 (CLAIM-tmp11xvc) in the form of
+  and role-specific), and [CLAIM-tmph28l6](CLAIM-tmph28l6.md), on what contestation costs.
+- The interruption right is the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) in the form of
   an entitlement: a point at which the process stays open.
 
 ## What it does not say

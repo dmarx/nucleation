@@ -82,7 +82,7 @@ attributability and accountability, and accountability is the face tied to
 blame and the reactive attitudes. Shoemaker's "Attributability,
 Answerability, and Accountability" (2011) adds answerability as a third.
 A110 attributes the three-way split to "Gary Watson and David Shoemaker"
-jointly; the third member is Shoemaker's. THEORY-147 (Wolf's 2013 lecture)
+jointly; the third member is Shoemaker's. [THEORY-147](../theory.d/THEORY-147.md) (Wolf's 2013 lecture)
 holds attributability and accountability as independent kinds, in the
 Watsonian sense.
 
@@ -98,28 +98,28 @@ neither reading of "accountability" is assumed.
   grounds in causal involvement, moral responsibility, relationships and
   capacity to remedy (Miller, "Distributing Responsibilities", 2001, not
   registered), and Iris Marion Young's forward-looking political
-  responsibility for unjust structures (LIT-2246, *Responsibility for
-  Justice*, Deferred). THEORY-207 (Floridi) allocates it without fault.
-- **Culpability and attributability**: THEORY-147 and THEORY-122.
+  responsibility for unjust structures ([LIT-2246](../literature.d/LIT-2246.md), *Responsibility for
+  Justice*, Deferred). [THEORY-207](../theory.d/THEORY-207.md) (Floridi) allocates it without fault.
+- **Culpability and attributability**: [THEORY-147](../theory.d/THEORY-147.md) and [THEORY-122](../theory.d/THEORY-122.md).
 - **Constitutive**: A's. "It distinguishes the person who acts through a
   defective mechanism from the actors who designed, authorized, installed,
   funded, maintained, or knowingly failed to correct that mechanism."
 
 ## What it is not
 
-- **Not TERM-100's provenance.** TERM-100 says whose process formed or
+- **Not [TERM-100](TERM-100.md)'s provenance.** [TERM-100](TERM-100.md) says whose process formed or
   maintains a capacity, descriptively. Constitutive responsibility asks
   who is responsible for having done so, which needs a duty or a fault
   besides the provenance.
 - **Not answerability in TERM-tmp4zjar's sense** (filed from the part
   before), which is owed to someone through a forum. Remedial
   responsibility can include a duty to explain, and need not.
-- **Not CLAIM-299's triad** (decision sufficiency, historical
+- **Not [CLAIM-299](../claims.d/CLAIM-299.md)'s triad** (decision sufficiency, historical
   accountability, correctness), which sorts what a decision record must
   show, not who is responsible.
 
 ## Would replace or add
 
-It adds: the record has no TERM for responsibility. CLAIM-tmpsk25g,
-CLAIM-tmpixmhp, CLAIM-tmp0wx69 and CLAIM-tmp4o53g are stated in it, and
+It adds: the record has no TERM for responsibility. [CLAIM-tmpsk25g](../claims.d/CLAIM-tmpsk25g.md),
+[CLAIM-tmpixmhp](../claims.d/CLAIM-tmpixmhp.md), [CLAIM-tmp0wx69](../claims.d/CLAIM-tmp0wx69.md) and [CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md) are stated in it, and
 would be misread without it.

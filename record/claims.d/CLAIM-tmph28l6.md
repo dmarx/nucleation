@@ -27,7 +27,7 @@ uses:
 - TERM-124
 summary: >-
   A's, from A23 §2 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
-  developing the owner's U11 (CLAIM-tmp11xvc) at the owner's U12
+  developing the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) at the owner's U12
   ("flesh this out further"): "**Execution friction:** The difficulty of
   imposing a decision" and "**Contestation friction:** The difficulty of
   questioning, suspending, or reversing it." Automation "can **redistribute
@@ -35,7 +35,7 @@ summary: >-
   which A calls "**an asymmetry of procedural capacity**". A23 §4's two
   reforms are its illustration: automatic enrolment and automatic
   termination save the same processing cost and do opposite things to
-  contestability. It rests on CLAIM-462, where the capacity to act and the
+  contestability. It rests on [CLAIM-462](CLAIM-462.md), where the capacity to act and the
   capacity to be corrected are kept by different relations; this names
   the costs per decision and per challenge that separate them. Restated at
   A26 §VI. The wording is A's; adopting it is the owner's call.
@@ -81,26 +81,26 @@ just distribution of friction.**"
 
 ## How it sits with the record
 
-- **CLAIM-462** (Active): an arrangement can keep or increase its capacity
+- **[CLAIM-462](CLAIM-462.md)** (Active): an arrangement can keep or increase its capacity
   for effective action while its capacity to be corrected degrades,
   because the two are maintained by different relations. This claim names
   one pair of such relations, the institution's cost per decision and the
   affected party's cost per challenge, and how automation moves them
-  apart. It rests on CLAIM-462 for the separation.
-- **CLAIM-tmp11xvc** (the owner's) says that friction is where
+  apart. It rests on [CLAIM-462](CLAIM-462.md) for the separation.
+- **[CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)** (the owner's) says that friction is where
   intervention is possible; this says that friction is not one quantity,
   and whose friction is removed decides whose power grows.
 - **CLAIM-tmpcpijj** (from the same exchange) separates authority over a
   decision from authority over the conditions of its challenge. This is
   the cost-side counterpart: an institution can keep its authority as it
   was and still change what challenge costs.
-- **CLAIM-669** (exploitation through access granted) is near Reform A's
+- **[CLAIM-669](CLAIM-669.md)** (exploitation through access granted) is near Reform A's
   other face: access can carry encumbrances. The claim says nothing
   against making access easy.
 - A party that can raise the other's cost of contesting while lowering its
-  own cost of acting holds part of what TERM-124 calls a capacity to set
+  own cost of acting holds part of what [TERM-124](../terms.d/TERM-124.md) calls a capacity to set
   the terms on which the other can contest.
-- CASE-tmpdn372 proposes a study that varies speed alone.
+- [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) proposes a study that varies speed alone.
 
 ## What it does not say
 

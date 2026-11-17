@@ -26,10 +26,10 @@ summary: >-
   arrangements in which the overseer has identical authority and
   resources. Vary only the speed of the acting institution, with
   corresponding deadlines for preventing irreversible consequences." A
-  presents it as an extension of CASE-003 and says correctly that
-  CASE-003 varies escalation authority, not timing. It is the cleanest
-  test of the owner's U11 (CLAIM-tmp11xvc) and U13, of CLAIM-464 and of
-  CLAIM-462 that the exchange offers. Not run; the filer wrote the arms and
+  presents it as an extension of [CASE-003](CASE-003.md) and says correctly that
+  [CASE-003](CASE-003.md) varies escalation authority, not timing. It is the cleanest
+  test of the owner's U11 ([CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md)) and U13, of [CLAIM-464](../claims.d/CLAIM-464.md) and of
+  [CLAIM-462](../claims.d/CLAIM-462.md) that the exchange offers. Not run; the filer wrote the arms and
   measures out from A's text and added nothing else. The wording is A's;
   adopting it is the owner's call.
 ---
@@ -51,7 +51,7 @@ A33 §10 C:
 > temporary pauses to determine which can restore effective oversight
 > without sacrificing all the benefits of fast execution.
 
-**Arms.** CASE-003's two Northstars hold policy and evidence fixed and vary
+**Arms.** [CASE-003](CASE-003.md)'s two Northstars hold policy and evidence fixed and vary
 whether a specialist's objection suspends deployment. Here the overseer's
 authority is held fixed, objection suspends in both, and the acting
 institution is slow in one arm and fast in the other, with the time before
@@ -81,14 +81,14 @@ objection channel; the policy.
 A33: "The resulting study could distinguish the value of procedural delay
 from the value of *effective control over when execution is allowed*." If
 the fast arm loses intervention capacity with authority unchanged,
-CLAIM-462's separation of action from correction holds by timing alone,
+[CLAIM-462](../claims.d/CLAIM-462.md)'s separation of action from correction holds by timing alone,
 and the owner's U11 and U13 (speed as a bound on others' intervention) are
 supported in a controlled form. If precommitted limits restore it without
-pauses, CLAIM-tmpgh3v2's second clause is supported over its first.
+pauses, [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)'s second clause is supported over its first.
 
 ## What it cannot show
 
 Being stipulated, nothing about any real executive, agency or AI system,
-and nothing about intent to outrun review, which CLAIM-464 leaves aside.
+and nothing about intent to outrun review, which [CLAIM-464](../claims.d/CLAIM-464.md) leaves aside.
 The arms fix authority by construction; real arrangements that act fast
 often also hold more authority, which this design removes on purpose.

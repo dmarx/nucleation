@@ -40,9 +40,9 @@ summary: >-
   Applications* (IOS Press). DOI 10.3233/FAIA250680. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as A's source for
   deliberately introduced friction in AI systems to preserve judgment
-  and agency. It bears on CLAIM-tmp238zy (cognitive friction and
+  and agency. It bears on [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md) (cognitive friction and
   political friction differ), which separates what this work treats from
-  political friction, and sits beside LIT-2283 (cognitive forcing
+  political friction, and sits beside [LIT-2283](LIT-2283.md) (cognitive forcing
   functions). The anthology may want it. What the exchange says of it is
   unverified until read.
 ---
@@ -58,4 +58,4 @@ Chiara Natali, Mohammad Naiseh, Federico Cabitza and Brett Frischmann (2025). Be
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 and A23 as A's source for deliberately introduced friction in AI systems to preserve judgment and agency. It bears on CLAIM-tmp238zy (cognitive friction and political friction differ), which separates what this work treats from political friction, and sits beside LIT-2283 (cognitive forcing functions). The anthology may want it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 and A23 as A's source for deliberately introduced friction in AI systems to preserve judgment and agency. It bears on [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md) (cognitive friction and political friction differ), which separates what this work treats from political friction, and sits beside [LIT-2283](LIT-2283.md) (cognitive forcing functions). The anthology may want it. Not read.

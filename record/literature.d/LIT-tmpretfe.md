@@ -39,7 +39,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: LIT-tmplag34 — registered unread from the same exchange (2026-11-17), Deferred -->
-<!-- inactive-ok-file: QUESTION-tmpk7u3e — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpretfe: Rights and What We Owe to Each Other
 
@@ -55,4 +54,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A102 (2026-11-17). Scanlon's reply is LIT-tmplag34. It bears on QUESTION-tmpk7u3e and CLAIM-tmplidg6. Correction: A102 names the challenge, not the paper; the identification is inferred and is to be confirmed on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A102 (2026-11-17). Scanlon's reply is [LIT-tmplag34](LIT-tmplag34.md). It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) and [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md). Correction: A102 names the challenge, not the paper; the identification is inferred and is to be confirmed on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

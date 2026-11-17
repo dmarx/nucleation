@@ -36,9 +36,9 @@ summary: >-
   Topics* 24(2): 227–248. DOI 10.5840/philtopics199624222. Here because
   A cites it in the exchange "Assess Depp Heard Abuse" as the source of
   the distinction between attributability and accountability that A uses
-  for conduct shaped by another's coercion. It bears on CLAIM-tmpa2l21
+  for conduct shaped by another's coercion. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)
   (second-order wrongdoing). The record holds the distinction
-  second-hand, through the SEP entry LIT-691 and THEORY-121; this is the
+  second-hand, through the SEP entry [LIT-691](LIT-691.md) and [THEORY-121](../theory.d/THEORY-121.md); this is the
   primary paper. What the exchange says of it is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpa2l21 — filed now from the same exchange, temporary codes, Proposed or Open -->
@@ -53,4 +53,4 @@ Gary Watson (1996). Two Faces of Responsibility. *Philosophical Topics* 24(2): 2
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A9 as the source of the distinction between attributability and accountability that A uses for conduct shaped by another's coercion. It bears on CLAIM-tmpa2l21 (second-order wrongdoing). The record holds the distinction second-hand, through the SEP entry LIT-691 and THEORY-121; this is the primary paper. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A9 as the source of the distinction between attributability and accountability that A uses for conduct shaped by another's coercion. It bears on [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) (second-order wrongdoing). The record holds the distinction second-hand, through the SEP entry [LIT-691](LIT-691.md) and [THEORY-121](../theory.d/THEORY-121.md); this is the primary paper. Not read.

@@ -56,4 +56,4 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A97 (2026-11-17). It bears on CLAIM-tmpol7nz (option-protecting rights constrain policies, not realized histories) and CASE-tmpaasso, and answers Sen's liberal paradox (LIT-285, Active). Correction: the exchange names no work; the identification is the ledger's and is to be confirmed on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A97 (2026-11-17). It bears on CLAIM-tmpol7nz (option-protecting rights constrain policies, not realized histories) and CASE-tmpaasso, and answers Sen's liberal paradox ([LIT-285](LIT-285.md), Active). Correction: the exchange names no work; the identification is the ledger's and is to be confirmed on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
