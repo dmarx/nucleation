@@ -91,7 +91,7 @@ summary: >-
 
 # SYNTHESIS-094: The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
 
-*A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-091](SYNTHESIS-091.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates ARG-tmptw59w, filed from the exchange "Assess Depp Heard Abuse" that day. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
+*A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-091](SYNTHESIS-091.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md), filed from the exchange "Assess Depp Heard Abuse" that day. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
 
 ## The account
 
@@ -130,9 +130,9 @@ state and its institutions, corroborates it. Seven arguments conclude it:
   transfers and the verdict does not";
 - [ARG-071](../arguments.d/ARG-071.md) (Rejected), from Wells Fargo ([CASE-151](../cases.d/CASE-151.md)): occlusion and blocked
   uptake, not reproduction;
-- ARG-tmptw59w (Proposed; A's inference rule, A110 §5 and §6 of "Assess
-  Depp Heard Abuse", with the filer's verdict), resting on CLAIM-535,
-  CLAIM-523, CLAIM-520 and CLAIM-tmpcpijj: given a means-end principle of
+- [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md) (Proposed; A's inference rule, A110 §5 and §6 of "Assess
+  Depp Heard Abuse", with the filer's verdict), resting on [CLAIM-535](../claims.d/CLAIM-535.md),
+  [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-520](../claims.d/CLAIM-520.md) and [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md): given a means-end principle of
   responsibility, an authority that owes a duty whose fulfilment needs a
   capability it is responsible for and can maintain at justified cost
   owes the maintenance of an adequate one, absent a defeater. Its body
@@ -140,7 +140,7 @@ state and its institutions, corroborates it. Seven arguments conclude it:
   is A's and not held on the record, that it reaches the duty (layer 4)
   and not the wrong beyond the harm or its non-reduction, and that given
   the duty "a reproduced occlusion is its breach". A dated note of
-  2026-11-17 on CLAIM-624 records it, with no status change.
+  2026-11-17 on [CLAIM-624](../claims.d/CLAIM-624.md) records it, with no status change.
 
 **The counter-corrective route.** [CLAIM-619](../claims.d/CLAIM-619.md) (A's, A62; Proposed; also
 distributed-agency) rests on [CLAIM-402](../claims.d/CLAIM-402.md) and [CLAIM-406](../claims.d/CLAIM-406.md), uses [TERM-118](../terms.d/TERM-118.md) and
@@ -218,7 +218,7 @@ justification for not investigating".
 - [CLAIM-657](../claims.d/CLAIM-657.md), the owner's; thesis, interpretive, Proposed; also distributed-agency. No sense declared; a sense-3 reading in its notes.
 - [CLAIM-656](../claims.d/CLAIM-656.md), the owner's; thesis, interpretive, Proposed; first line distributed-agency.
 - [CASE-229](../cases.d/CASE-229.md), A's construction, Proposed; [CASE-246](../cases.d/CASE-246.md), the assistant's construction, Proposed; [CASE-247](../cases.d/CASE-247.md), A's thought experiment, Proposed; [CASE-249](../cases.d/CASE-249.md), A's construction, Proposed, first line realizability; all but [CASE-249](../cases.d/CASE-249.md) also distributed-agency. [CASE-232](../cases.d/CASE-232.md), a specimen told as true, stipulated, Active; also distributed-agency.
-- [ARG-055](../arguments.d/ARG-055.md), [ARG-058](../arguments.d/ARG-058.md), [ARG-059](../arguments.d/ARG-059.md), [ARG-062](../arguments.d/ARG-062.md), [ARG-064](../arguments.d/ARG-064.md), [ARG-092](../arguments.d/ARG-092.md) and ARG-tmptw59w, Proposed; [ARG-063](../arguments.d/ARG-063.md), Proposed, in distributed-agency only; [ARG-070](../arguments.d/ARG-070.md), Deferred; [ARG-071](../arguments.d/ARG-071.md), Rejected.
+- [ARG-055](../arguments.d/ARG-055.md), [ARG-058](../arguments.d/ARG-058.md), [ARG-059](../arguments.d/ARG-059.md), [ARG-062](../arguments.d/ARG-062.md), [ARG-064](../arguments.d/ARG-064.md), [ARG-092](../arguments.d/ARG-092.md) and [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md), Proposed; [ARG-063](../arguments.d/ARG-063.md), Proposed, in distributed-agency only; [ARG-070](../arguments.d/ARG-070.md), Deferred; [ARG-071](../arguments.d/ARG-071.md), Rejected.
 
 ## Links the components state, and where
 
@@ -231,8 +231,8 @@ cited.
 - [CLAIM-624](../claims.d/CLAIM-624.md) rests on [CLAIM-614](../claims.d/CLAIM-614.md) and complements [CLAIM-619](../claims.d/CLAIM-619.md); [CLAIM-619](../claims.d/CLAIM-619.md)
   complements [CLAIM-624](../claims.d/CLAIM-624.md). [ARG-055](../arguments.d/ARG-055.md) grounds in [CASE-229](../cases.d/CASE-229.md); [ARG-055](../arguments.d/ARG-055.md), [ARG-058](../arguments.d/ARG-058.md),
   [ARG-062](../arguments.d/ARG-062.md), [ARG-063](../arguments.d/ARG-063.md), [ARG-064](../arguments.d/ARG-064.md) and [ARG-071](../arguments.d/ARG-071.md) conclude [CLAIM-624](../claims.d/CLAIM-624.md); [ARG-059](../arguments.d/ARG-059.md) and
-  [ARG-070](../arguments.d/ARG-070.md) conclude [CLAIM-619](../claims.d/CLAIM-619.md). ARG-tmptw59w concludes CLAIM-624 and rests on
-  CLAIM-535, CLAIM-523, CLAIM-520 and CLAIM-tmpcpijj, none of them in this
+  [ARG-070](../arguments.d/ARG-070.md) conclude [CLAIM-619](../claims.d/CLAIM-619.md). [ARG-tmptw59w](../arguments.d/ARG-tmptw59w.md) concludes [CLAIM-624](../claims.d/CLAIM-624.md) and rests on
+  [CLAIM-535](../claims.d/CLAIM-535.md), [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-520](../claims.d/CLAIM-520.md) and [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md), none of them in this
   part.
 - [CLAIM-652](../claims.d/CLAIM-652.md) grounds in [CASE-246](../cases.d/CASE-246.md) and complements [CLAIM-662](../claims.d/CLAIM-662.md) and [CLAIM-619](../claims.d/CLAIM-619.md);
   [ARG-092](../arguments.d/ARG-092.md) concludes [CLAIM-652](../claims.d/CLAIM-652.md). [CLAIM-662](../claims.d/CLAIM-662.md) complements [CLAIM-619](../claims.d/CLAIM-619.md) and bears on
