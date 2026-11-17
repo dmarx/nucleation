@@ -17,7 +17,7 @@
   network's symmetries ([CLAIM-tmp7jyur](record/claims.d/CLAIM-tmp7jyur.md), on [CASE-tmp1owyk](record/cases.d/CASE-tmp1owyk.md)), and a hypothesis
   that RL buys economy rather than reach where its reward can verify at
   test time ([CLAIM-tmpwxs2x](record/claims.d/CLAIM-tmpwxs2x.md)), with dated notes on [QUESTION-392](record/questions.d/QUESTION-392.md) and
-  [QUESTION-010](record/questions.d/QUESTION-010.md). A decision, ADR-tmpukj8n, makes a repository's documented
+  [QUESTION-010](record/questions.d/QUESTION-010.md). A decision, [ADR-tmpukj8n](record/decisions.d/ADR-tmpukj8n.md), makes a repository's documented
   machine interface to open-access full text a lawful reading route even
   when its website shows a bot check, at the owner's ruling of 2026-11-17.
   Europe PMC's REST API is the first route, added to the read-and-file

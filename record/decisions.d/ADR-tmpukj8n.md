@@ -6,7 +6,7 @@ tags:
 - record
 date: '2026-11-17'
 summary: >-
-  On the owner's ruling of 2026-11-17 ("Europe PMC is fine"). ADR-074 and
+  On the owner's ruling of 2026-11-17 ("Europe PMC is fine"). [ADR-074](ADR-074.md) and
   the read-and-file skill say to stop at any bot check and never work
   around one. On 2026-11-15 a reader met challenges at europepmc.org and
   PMC for a CC BY review, then fetched the same full text from Europe
@@ -18,13 +18,13 @@ summary: >-
   working around a check stands. A route counts only if the repository
   documents it for machine access and the text it serves is open access.
 ---
-<!-- inactive-ok-file: LIT-tmp3d5f9 NOTE-tmpgrvfy — new; the first application, filed in the same pull request -->
+<!-- inactive-ok-file: NOTE-tmpgrvfy — new; the first application, filed in the same pull request -->
 
 # ADR-tmpukj8n: A repository's documented machine interface to an open-access full text is a lawful route in its own right, and a bot check on the repository's website does not bar it; Europe PMC's REST API is the first such route
 
 ## Context
 
-ADR-074 fixes which copies count as lawful and how a blocked one is filed.
+[ADR-074](ADR-074.md) fixes which copies count as lawful and how a blocked one is filed.
 The read-and-file skill adds: "Stop at any bot check ... Never try to get
 around one. Retrying the same host doesn't help either."
 
@@ -56,7 +56,7 @@ the skill's flat rule to go on. That rule would make the work `Unfetched`.
   access. It does not get past that check.
 - **Three conditions, all required:**
   - the repository documents the interface for machine access;
-  - the text served is open access, or otherwise lawful under ADR-074;
+  - the text served is open access, or otherwise lawful under [ADR-074](ADR-074.md);
   - the interface itself answers. If it shows a check, a rate limit or a
     refusal, stop there as the skill says, and the work is `Unfetched` at
     that address.
@@ -64,7 +64,7 @@ the skill's flat rule to go on. That rule would make the work `Unfetched`.
   proxies or mirrors, scraping around a challenge, or using an
   undocumented endpoint. Those are workarounds, and they remain barred. A
   refusal by this session's own permission system or network policy is
-  still an obstacle of this client (ADR-074, item 4).
+  still an obstacle of this client ([ADR-074](ADR-074.md), item 4).
 - **The first named route is Europe PMC's REST API**, for articles with a
   PMCID that Europe PMC serves as open access. Others are added to the
   skill's step 5 as readers meet them, each with its documentation.
@@ -73,7 +73,7 @@ the skill's flat rule to go on. That rule would make the work `Unfetched`.
 
 ## First application
 
-Márquez et al. (2023), LIT-tmp3d5f9, NOTE-tmpgrvfy (Skimmed), filed in the
+Márquez et al. (2023), [LIT-tmp3d5f9](../literature.d/LIT-tmp3d5f9.md), [NOTE-tmpgrvfy](../notes.d/NOTE-tmpgrvfy.md) (Skimmed), filed in the
 same pull request. Its histories now cite this decision.
 
 ## Alternatives
