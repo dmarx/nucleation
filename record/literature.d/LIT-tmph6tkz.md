@@ -1,0 +1,55 @@
+---
+status: Deferred
+status_note: >-
+  registered unread from the exchange "Assess Depp Heard Abuse"
+  (2026-11-15 to 2026-11-17,
+  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
+  A names it at A53; no copy sought yet.
+title: 'Property Rights and the Nature of the Firm'
+version: 1
+history:
+- version: 1
+  date: '2026-11-17'
+  note: >-
+    Filed, not read, from the exchange "Assess Depp Heard Abuse"
+    (2026-11-17). Checked on 2026-11-17: not held in record/literature.d
+    by identifier, title or first author. Crossref (10.1086/261729):
+    journal article, Journal of Political Economy 98(6): 1119–1158,
+    issued 1990-12. A names "Hart and Moore (1990)" without a title.
+    `published:` is the first of December 1990: Crossref gives the issue
+    month without a day. No email address was sent to any service.
+tags:
+- game-theory
+- society-and-governance
+date: '2026-11-17'
+published: '1990-12-01'
+doi: '10.1086/261729'
+first_author: 'Hart'
+keywords:
+- 'property rights'
+- 'theory of the firm'
+- 'incomplete contracts'
+- 'residual control'
+implementations: []
+summary: >-
+  Oliver Hart and John Moore (1990). Property Rights and the Nature of
+  the Firm. *Journal of Political Economy* 98(6): 1119–1158. DOI
+  10.1086/261729. Here because A cites it in the exchange "Assess Depp
+  Heard Abuse" as named by A as the follow-up to Grossman and Hart on
+  residual control rights. It is a footing of CLAIM-tmpdic1g, beside
+  Grossman and Hart 1986, registered with it. What the exchange says of
+  it is unverified until read.
+---
+<!-- inactive-ok-file: CLAIM-tmpdic1g — filed now from the same exchange, temporary codes, Proposed or Open -->
+
+# LIT-tmph6tkz: Property Rights and the Nature of the Firm
+
+Oliver Hart and John Moore (1990). Property Rights and the Nature of the Firm. *Journal of Political Economy* 98(6): 1119–1158. DOI 10.1086/261729.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.* A53: "Grossman and Hart (1986), followed by Hart and Moore (1990)". Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as named by A as the follow-up to Grossman and Hart on residual control rights. It is a footing of CLAIM-tmpdic1g, beside Grossman and Hart 1986, registered with it. Not read.
