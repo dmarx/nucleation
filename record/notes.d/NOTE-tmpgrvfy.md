@@ -16,7 +16,8 @@ history:
     Alicante repository (rua.ua.es) a timeout; none was retried, and the
     full text was then fetched from the REST API at www.ebi.ac.uk, a
     different host and the documented machine route. The lead accepted the
-    route, and the owner confirmed it on 2026-11-17. Read: the abstract,
+    route, and the owner confirmed it on 2026-11-17. ADR-tmpukj8n records the
+    rule, and this is its first application. Read: the abstract,
     §1, §2.1 "Analog holography and general concepts", §2.2 "Holographic
     recording media" and §2.3 "Holographic multiplexing in analog
     holography", with Table 1 and the Fig. 2 caption. Skipped: §2.4 onward
@@ -37,6 +38,7 @@ summary: >-
   1000 holograms; thick layers keep crosstalk down. No selectivity-width
   formula is given. Stand-in for A's unidentified source.
 ---
+<!-- inactive-ok-file: ADR-tmpukj8n — Proposed; the decision this reading's route first applies -->
 <!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
 # NOTE-tmpgrvfy: Márquez et al. — Angle multiplexing and Bragg selectivity in volume holography

@@ -39,7 +39,8 @@ history:
     Europe PMC REST API on www.ebi.ac.uk, a different host and the
     documented machine route to the same open-access text. The lead
     accepted that route for this filing, and the owner confirmed it on
-    2026-11-17: "Europe PMC is fine". No
+    2026-11-17: "Europe PMC is fine". ADR-tmpukj8n records the rule, and this
+    is its first application. No
     email address was sent to any service.
 tags:
 - natural-sciences
@@ -66,6 +67,7 @@ summary: >-
   unidentified source. Bears, as analogy, on [CLAIM-182](../claims.d/CLAIM-182.md): an address need not
   be a location.
 ---
+<!-- inactive-ok-file: ADR-tmpukj8n — Proposed; the decision this reading's route first applies -->
 <!-- inactive-ok-file: CLAIM-182 NOTE-tmpgrvfy THEORY-tmpc3mjh — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
 
 # LIT-tmp3d5f9: Information multiplexing from optical holography to multi-channel metaholography
