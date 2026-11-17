@@ -1,0 +1,153 @@
+---
+status: Proposed
+title: 'Given a means-end principle of responsibility, an authority that owes a duty whose fulfilment needs a capability it is responsible for and can maintain at justified cost owes the maintenance of an adequate one, absent a defeater: a conditional derivation of the second-order duty of answerability, valid with the principle as a premise, in which the responsibility condition does the work of feasibility and the reflexive condition constrains what counts as adequate'
+version: 1
+form: formal-application
+rests_on:
+- CLAIM-535
+- CLAIM-523
+- CLAIM-520
+- CLAIM-tmpcpijj
+concludes:
+- CLAIM-624
+tags:
+- ethics
+- society-and-governance
+- self-governance
+date: '2026-11-17'
+line:
+- organizational-normativity
+summary: >-
+  From A110 §5–6 of the exchange "Assess Depp Heard Abuse" (2026-11-17),
+  written at the owner's U47 ("flesh this out further", of A108 §7's
+  second-order question). A gives five conditions (A to E) and a "proposed
+  normative inference rule" from four of them to O_N(A,
+  MaintainAdequate(ℳ_r)), whose force "comes from a means–end responsibility
+  principle". It is a derivation of CLAIM-624's duty that ARG-058 does not
+  give: ARG-058 shows only that the duty must be bounded. The inference is
+  valid given the principle; the principle is A's premise and is not held
+  on the record. Proposed: the verdict is the filer's (Claude, in this
+  session) on A's argument; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-tmpcpijj — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: ARG-055 ARG-058 CASE-229 CLAIM-614 CLAIM-624 — Proposed; the record's nearest entries, cited with their standing -->
+
+# ARG-tmptw59w: Given a means-end principle of responsibility, an authority that owes a duty whose fulfilment needs a capability it is responsible for and can maintain at justified cost owes the maintenance of an adequate one, absent a defeater: a conditional derivation of the second-order duty of answerability, valid with the principle as a premise, in which the responsibility condition does the work of feasibility and the reflexive condition constrains what counts as adequate
+
+## The inference
+
+A110 §6 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), "A
+conditional derivation of the maintenance duty". With O_N(A, φ) for: under
+normative standard N, actor A owes performance of φ; r a justified claim, and ℳ_r
+the class of arrangements that can provide the responsiveness necessary to
+honor r:
+
+    O_N(A, Honor(r))
+    ∧ NeedsCapability(Honor(r), ℳ_r)
+    ∧ ResponsibleFor(A, ℳ_r)
+    ∧ FeasibleAtJustifiedCost(A, ℳ_r)
+    ∧ ¬Defeater_N
+    ⟹ O_N(A, MaintainAdequate(ℳ_r))
+
+"This is a **proposed normative inference rule**. Its force comes from a
+means–end responsibility principle: when an actor owes a duty and is
+legitimately responsible for maintaining the capabilities reasonably
+necessary to discharge it, that responsibility can extend to those
+capabilities." A warns: "the inference must not assume what it seeks to
+prove." Independent grounds are needed for saying that A is responsible
+for ℳ_r and that the maintenance cost is justified.
+
+The conjuncts are A110 §5's conditions A to D:
+
+- **A. An independently justified constraint** (O_N(A, Honor(r))): "We
+  need an independently defended basis for the constraint." This is
+  CLAIM-624's "only given an independently justified standard".
+- **B. Fulfilment depends on a capability** (NeedsCapability): if the duty
+  requires telling s₀ from s₁ and the institution cannot, "the obligation
+  may be impossible to fulfill reliably using its current procedures".
+  That premise is CLAIM-535 (Active, demonstrated): a policy acting on an
+  observation is acceptable everywhere only if the circumstances it merges
+  share an acceptable action. CLAIM-523 (Active) gives the other links:
+  legibility, volitional efficacy and correctability are each needed.
+- **C. Responsibility or control over the capability** (ResponsibleFor):
+  "a governing body with authority over staffing, reporting requirements,
+  funding, and review procedures is differently situated", and where
+  authority is fragmented "the duty may be distributed across several
+  offices or organizations" (A cites QUESTION-278 fairly).
+- **D. Feasible and justified against competing duties**
+  (FeasibleAtJustifiedCost): "A duty to maintain responsiveness cannot
+  imply unlimited expenditure." CLAIM-520 (Active) is the premise: the
+  value of keeping a corrective capacity is conditional on objectives,
+  uncertainty and cost.
+
+Condition **E**, "The arrangement must not let the constrained actor
+unilaterally determine whether the constraint remains effective", is not a
+conjunct of the rule. It says what adequacy requires in the reflexive case:
+"the means by which their justified claims can become consequential must
+not depend in an unjustified way on the challenged actor's willingness to
+permit it." That is CLAIM-tmpcpijj's thesis, filed from the part before,
+that authority over a decision is not authority over the conditions of its
+challenge. In the inference it narrows MaintainAdequate, not the premises.
+
+The conclusion is CLAIM-624's duty, "to maintain feasible means for
+relevant violations to become knowable, contestable and correctable",
+derived for one claim r at a time and as "**functional adequacy**, not one
+mandated institutional design".
+
+## Critical questions
+
+**Does the mapping premise hold: is the means–end principle true of
+duties?** The principle is a transmission principle: an obligation to φ,
+together with ψ being necessary for φ, yields an obligation to ψ. In
+standard deontic logic that inheritance is valid, and it is the most
+defensible form of the principle. Two cautions apply. The means here is
+disjunctive, some member of ℳ_r, and the conclusion is correspondingly
+weak: maintain an adequate arrangement, not a particular one, which is
+what A concludes. And transmission is defeasible when the original duty
+is, which is what ¬Defeater_N is for. The principle is A's premise and the
+record holds no reading of it; the inference is valid with it and not
+without it. Filed as Proposed for that reason.
+
+**Is anything assumed that the conclusion needs proved?** A's own warning
+names the risk at C. On the transmission reading, C is close to redundant:
+if A owes Honor(r) and the capability is necessary, A owes it whether or
+not A was antecedently "responsible for" ℳ_r. What C does is block the
+inference where the capability lies under another's authority, so that A
+cannot maintain it. That is an ought-implies-can condition, the same work
+D does for cost. So C and D together are the feasibility bound, and C
+carries no hidden premise. Where C fails, A110 §5D's fallback holds: the
+duties "may instead concern seeking assistance, limiting activity,
+informing affected parties, or reorganizing responsibility".
+
+**Are the model's assumptions met in the domain?** For authorities owing
+duties that need distinctions their procedures may lose, yes. B is shown,
+not assumed, by CLAIM-535; D is the record's own CLAIM-520. A is assumed,
+and has to be: the record lacks the independently justified standard in
+general (QUESTION-129), so the derivation, like CLAIM-624, is conditional on
+it.
+
+**Does it reach the whole of CLAIM-624?** No. It derives the duty, layer 4
+of CLAIM-624, with the bounds that ARG-058 argues it must have. It does
+not derive the claim that reproducing an occluding mechanism is a wrong
+beyond the harm, nor its non-reduction to the harm (CLAIM-614, CASE-229 and
+ARG-055). It supplies the antecedent CLAIM-624's verdict needs: given the
+duty, a reproduced occlusion is its breach.
+
+**The temporal qualification** (A110 §6). The duty can be breached "even
+during a period of flawless first-order decisions", and breach of the
+maintenance duty is distinct from "the eventual harm that the neglected
+capability might have prevented": "An institution can breach its duty to
+maintain safety equipment even if no accident occurs." That is the
+separation CASE-229 and ARG-055 build, and it follows from the derivation,
+whose conclusion is about maintenance and not about outcomes.
+
+## What follows for CLAIM-624
+
+CLAIM-624's duty gains a second line of support: ARG-058 says the duty must
+be bounded; this argument derives the bounded duty from a means–end
+principle and four conditions, two of which (B and D) rest on the record's
+Active claims, with E resting on a claim filed from the part before. The
+claim's status does not change: the principle is unregistered, and
+CLAIM-624's other layers are not reached. The dated note on CLAIM-624 of
+2026-11-17 records it.

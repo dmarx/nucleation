@@ -1,0 +1,105 @@
+---
+status: Proposed
+title: "Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects"
+version: 1
+role: counter
+warrant: interpretive
+defeated_if: >-
+  An argument that the sphere a legitimate right protects contracts as
+  others come to depend on what falls within it, so that once a holding
+  becomes indispensable to others it is no longer a sphere of discretion
+  and the counter has no case left against a rising duty of
+  accountability; or a case in which the owner's freedom from explanation
+  survives the others' essential dependence and the counter is shown to be
+  only about trivial effects.
+tags:
+- ethics
+- society-and-governance
+date: '2026-11-17'
+line:
+- dependence-and-domination
+objects_to:
+- CLAIM-687
+summary: >-
+  A's, from A106 §10 of the exchange "Assess Depp Heard Abuse"
+  (2026-11-17), "Private property shows why answerability must be
+  bounded", with A106 §17's last example. Filed as a counter, at full
+  strength, on behalf of a holder of legitimate private discretion,
+  against CLAIM-687's rising duty of accountability and its "no deference
+  to ownership as such". A itself puts it as a limit the theory must keep,
+  not as an objection to its own view; the record files it as the
+  objection it would be to CLAIM-687 read without its scope. The wording is
+  A's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-tmpnhesz — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: ARG-058 CLAIM-624 CLAIM-687 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
+
+# CLAIM-tmpyqfrf: Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects
+
+## The objection
+
+A106 §10 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b): "A theory of
+legitimate governance must avoid turning every exercise of capability into a
+demand for public justification." A homeowner's choices of furnishing,
+guests and visitors "can affect others", yet "those interests do not
+automatically give everyone authority to demand explanations,
+participation, or permission."
+
+> **Legitimate property can protect a sphere of decision-making in which the owner has no general duty to satisfy others' preferences.**
+
+"A right is not just a reason to make the holder's interests count in a
+general optimization problem. It can specify that particular decisions
+belong to the holder." A106 §17 ends its four dimensions of answerability
+with the same case: "a private owner can legitimately decline to explain
+decisions that fall within an appropriately protected sphere of
+discretion", and concludes that the theory must identify "**which forms of
+answerability are required by which relationships**, rather than infer a
+universal duty of consultation from the mere existence of influence".
+
+## Against what
+
+CLAIM-687 (Proposed) holds that the accountability those who control an
+arrangement owe should rise with how indispensable it has become, and that
+"those affected owe no deference to expertise or ownership as such". Read
+without its scope, as a duty that rises with effect on others, it meets
+this counter: effect on others is not dependence, and ownership can be a
+ground for not answering. CLAIM-687 survives if it is read as it is
+stated, about arrangements others have come to depend on, and the counter
+then marks where its slope starts. A gives the limits on the sphere
+itself: an easement the owner may not obstruct, actionable harm to
+neighbours, and ownership acquired "through unjust dispossession", whose
+"moral foundations may be contested". So "private property can protect
+autonomy without establishing unlimited sovereignty over everything
+affected by the owner's actions."
+
+Against CLAIM-624 the counter has less purchase. That duty of
+answerability is owed only given an independently justified standard and a
+feasible alternative, and ARG-058 bounds it by obligation, capability and
+reasonable alternatives. A protected sphere is a case in which there is no
+standard to answer to, so the duty does not arise.
+
+## How it sits with the record
+
+- **CLAIM-tmpnhesz**, filed from the part before, holds that answerability
+  is directed and role-specific, with A83's limit "Being affected by
+  another's exercise of agency does not confer general authority to govern
+  that agency." That limit and this counter are the same point in
+  different settings: there it bounds a thesis about the grounds of
+  answerability; here it is pressed against a thesis that would scale the
+  duty.
+- **CLAIM-410** (Active) treats governance as a profile of governing
+  positions; a protected sphere is one in which those positions are
+  assigned to the holder.
+- **TERM-124** (Proposed) relativizes domination to a declared standard of
+  answerability. This counter says that standard can assign some decisions
+  to no one but their holder.
+
+## What it does not say
+
+- Not that property is beyond justification. A106 §10's Scanlonian
+  question is "What principles establishing domains of private discretion
+  could persons reasonably reject?", and the sphere is justified "partly
+  through the protections it affords against intrusive demands".
+- Not where the sphere ends. A names the limits and gives no rule for
+  drawing them.
