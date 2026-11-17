@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp09pjt
 title: 'Where the capacities a collective needs to govern an arrangement are learned by exercise and lost with disuse, and the arrangement does the work through which they are exercised, the arrangement can erode the capacity to govern it, so that whether a collective can correct an arrangement is not independent of the arrangement'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-100, 2026-11-15): the entry
+    is in the part of the line on what those who govern an arrangement
+    others depend on owe. No relation supplies
+    organizational-normativity to it (ADR-085). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,7 +34,7 @@ tags:
 - philosophy-of-technology
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 - transient-support
 rests_on:
 - CLAIM-605
@@ -48,6 +58,7 @@ summary: >-
   condition. Filed on 2026-11-13 from the items the first filing left. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's account of dependency against division of labour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-675 CLAIM-688 CASE-262 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 

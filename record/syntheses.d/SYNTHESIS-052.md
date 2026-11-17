@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpnu96v
 title: 'What a collective is credited with need not be what its members hold: an organized whole''s operative intention is not the expectation of its members'' intentions and its reasons can part from theirs; a diffuse population with no procedure can show a public stance or change an outside institution without a collective intention, whether the credit is then due to it is open, and composition and a group process are offered as routes by which its most committed or extreme members fix the stance; a person can be organized by a judgement attributed to a collective that does not hold it, governs themselves by making such a judgement''s authority depend on its grounds, and that rule holds without qualification only for judgements of what already is; and whether a community of sound inquirers can settle on a belief none of them reasoned to is open, with model results whose tests in real communities are open questions'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -16,6 +16,13 @@ history:
     is added to `integrates`, to the account after QUESTION-070, to the
     components and to the links. The organizational-normativity part
     account SYNTHESIS-093 sets it out too. No other change.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-100,
+    2026-11-15): QUESTION-464's second line is now
+    dependence-and-domination, and the account says so. No other
+    change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the collective-stance part of the distributed-agency line left out
@@ -84,6 +91,7 @@ summary: >-
   its model readings. The line's account is built over it. It adds
   nothing of its own; its standing is its components'.
 ---
+<!-- inactive-ok-file: ADR-100 — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: SYNTHESIS-093 — Proposed; the organizational-normativity part account cited at version 2 -->
 <!-- inactive-ok-file: ADR-075 CLAIM-271 CLAIM-332 CLAIM-415 CLAIM-425 CLAIM-426 CLAIM-490 CLAIM-493 CLAIM-192 CLAIM-355 CLAIM-417 CLAIM-432 CLAIM-610 CLAIM-617 CLAIM-619 CLAIM-620 CLAIM-624 TERM-096 TERM-080 CASE-222 ARG-067 THEORY-131 THEORY-137 THEORY-139 THEORY-1111 THEORY-1114 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CASE-007 — Superseded by CASE-025; integrated as a member of the part, and not relied on -->
@@ -136,7 +144,7 @@ of them; the Superseded [SYNTHESIS-005](SYNTHESIS-005.md) listed [CASE-142](../c
 - **Divergence from what members would endorse.** Added at version 2.
   [QUESTION-464](../questions.d/QUESTION-464.md) (raised from A's "emergent purpose divergence", A20 §I of
   "Analyze technological civilization trap", 2026-11-13; Open; also
-  organizational-normativity) asks, when an organized whole's trajectory is
+  dependence-and-domination) asks, when an organized whole's trajectory is
   said to diverge from the purposes its constituents would endorse, which
   procedure of evaluation fixes those purposes. Its body: "The descriptive
   half is held: [CLAIM-030](../claims.d/CLAIM-030.md)", and what A adds is the comparison with what the
@@ -313,7 +321,7 @@ of them; the Superseded [SYNTHESIS-005](SYNTHESIS-005.md) listed [CASE-142](../c
   promotion conditions, Open; refine [QUESTION-047](../questions.d/QUESTION-047.md).
 - [QUESTION-315](../questions.d/QUESTION-315.md), a moved promotion condition, Open; no relation, names
   [QUESTION-047](../questions.d/QUESTION-047.md) in its body.
-- [QUESTION-464](../questions.d/QUESTION-464.md), raised from A's term, Open; also organizational-normativity;
+- [QUESTION-464](../questions.d/QUESTION-464.md), raised from A's term, Open; also dependence-and-domination;
   no relation, names [CLAIM-030](../claims.d/CLAIM-030.md) in its body.
 
 ## Links the components state, and where

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5d91s
 title: "A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -29,6 +29,13 @@ history:
     distributed-agency, through QUESTION-085 and QUESTION-281. No
     other change.
 - version: 4
+  date: '2026-11-15'
+  note: >-
+    A dated note from the exchange "Explain String Theory" (2026-11-15):
+    the topological row's identity column read as the kind, not the
+    token (CLAIM-694), and three new readings that corroborate the
+    routes (THEORY-1869, THEORY-1868). No status change.
+- version: 5
   date: '2026-11-15'
   note: >-
     Note of 2026-11-15 added: Zhang et al. (2019) realize the topological
@@ -188,6 +195,17 @@ sine-Gordon, kink and antikink "go through each other without any change in thei
 in φ4 they can collide into an oscillon (Fodor, [NOTE-1698](../notes.d/NOTE-1698.md), Ch. 1): opposite charges need not
 annihilate, and whether they do is a fact about the theory, not about topology. [THEORY-1507](../theory.d/THEORY-1507.md) stays
 Proposed, so the topological route still holds the claim. No status changes.
+
+## Note of 2026-11-15: the charge carries the kind, and two vortex readings
+<!-- inactive-ok-file: CLAIM-694 CASE-266 THEORY-1869 THEORY-1868 NOTE-1950 NOTE-1951 LIT-2613 LIT-2611 — Proposed, Skimmed, Unavailable or new; the entries filed from the exchange of 2026-11-15, cited in its note -->
+
+From the exchange "Explain String Theory" (2026-11-15, A3–A5), filed with Czubak & Jerrard ([NOTE-1950](../notes.d/NOTE-1950.md)) and Van Gorder ([NOTE-1951](../notes.d/NOTE-1951.md)), each read as a stand-in for a work not reached (Nielsen & Olesen 1973, [LIT-2613](../literature.d/LIT-2613.md); Hasimoto 1972, [LIT-2611](../literature.d/LIT-2611.md)).
+
+- **The topological row's identity column.** "What carries its identity: the charge" holds for the kind and the net count, not for the token. Two φ⁴ kinks of equal charge and energy sit anywhere. A winding-two vortex sector can be one core or two, and above critical coupling the symmetric single core is unstable ([CASE-266](../cases.d/CASE-266.md), [CLAIM-694](CLAIM-694.md)). So on this route the charge protects the sector. Which structure persisted is fixed by dynamics the charge does not govern. The table is otherwise unchanged.
+- **The topological route as an extended object.** Czubak and Jerrard prove that, where Jaffe and Taubes's conjecture holds, a thin vortex line of the abelian Higgs model follows a Nambu–Goto worldsheet for a finite time ([THEORY-1869](../theory.d/THEORY-1869.md)). That corroborates the route for a structure that moves as a string. It says nothing about how such a line forms or ends.
+- **The integrable route on a carrier.** Hasimoto's soliton is a localized pattern of a vortex filament's curvature and torsion. With weak friction it persists and "would dissipate at a rate proportional to at most α²" (Van Gorder, [THEORY-1868](../theory.d/THEORY-1868.md)). That fits the integrable row's "under loss it shrinks while keeping its shape". It adds a case the table does not consider: a soliton whose carrier is itself a persisting structure, assumed in the model, not derived. The structure and the soliton are individuated at different levels.
+
+No status changes.
 
 ## Note of 2026-11-15: Zhang et al. (2019), read: kinks that persist only under a standing compression
 

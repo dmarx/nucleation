@@ -3,12 +3,22 @@ number: 93
 status: Proposed
 formerly:
 - SYNTHESIS-tmpn88bi
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-100,
+    2026-11-15), this part's entries became the line
+    dependence-and-domination, and this account became a part account
+    of that line, whose account is SYNTHESIS-095. Its line,
+    defeater, summary and introduction change to say so; its
+    components and the links it states are unchanged.
 title: "What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate"
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of
   "organization" (TERM-074) among what can be misstated; an in-force
-  component of the part of the organizational-normativity line on
+  component of the part of the dependence-and-domination line on
   governing arrangements others depend on left out; or a link this account
   states that no component states. Its standing is its components': a
   component retired or demoted takes its clause with it.
@@ -18,7 +28,7 @@ tags:
 - ethics
 date: '2026-11-15'
 line:
-- organizational-normativity
+- dependence-and-domination
 integrates:
 - CLAIM-678
 - CLAIM-684
@@ -33,7 +43,7 @@ bears_on:
 - QUESTION-128
 - QUESTION-464
 summary: >-
-  A part account of the organizational-normativity line: the part filed
+  A part account of the dependence-and-domination line: the part filed
   from "Analyze technological civilization trap" (2026-11-13) on what
   those who govern an arrangement owe those who depend on it, and whether
   the capacity to govern it survives the arrangement. Every claim is A's
@@ -53,13 +63,14 @@ summary: >-
   outside the line. The account adds nothing of its own; its standing is
   its components'.
 ---
+<!-- inactive-ok-file: ADR-100 SYNTHESIS-095 — Proposed; the split of organizational-normativity and the new line's account, cited at version 2 -->
 <!-- inactive-ok-file: CLAIM-657 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 — Proposed; the line's account, the sibling part accounts and a citation -->
 <!-- inactive-ok-file: CLAIM-673 CLAIM-675 CLAIM-677 CLAIM-678 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-687 CLAIM-688 CLAIM-624 CLAIM-667 CLAIM-545 TERM-122 ARG-103 THEORY-1859 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the definition TERM-122 rivals, set aside -->
 
 # SYNTHESIS-093: What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate
 
-*A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and three sibling parts. Every component is new to any account. The part hangs together by its source more than by its relations: of its members' stored relations two point inside it, and most point to claims in other lines ([CLAIM-677](../claims.d/CLAIM-677.md), [CLAIM-605](../claims.d/CLAIM-605.md), [CLAIM-457](../claims.d/CLAIM-457.md), [CLAIM-667](../claims.d/CLAIM-667.md), [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-523](../claims.d/CLAIM-523.md)). Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so.*
+*A part account of the dependence-and-domination line ("Wholes, parts and dependence"), filed at the synthesis review of organizational-normativity on 2026-11-15. It was then a part of that line, whose account, [SYNTHESIS-038](SYNTHESIS-038.md), was built over it and three sibling parts. Since the split of organizational-normativity ([ADR-100](../decisions.d/ADR-100.md)) it is a part of the new line, whose account, [SYNTHESIS-095](SYNTHESIS-095.md), is built over it and [SYNTHESIS-092](SYNTHESIS-092.md). Every component is new to any account. The part hangs together by its source more than by its relations: of its members' stored relations two point inside it, and most point to claims in other lines ([CLAIM-677](../claims.d/CLAIM-677.md), [CLAIM-605](../claims.d/CLAIM-605.md), [CLAIM-457](../claims.d/CLAIM-457.md), [CLAIM-667](../claims.d/CLAIM-667.md), [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-523](../claims.d/CLAIM-523.md)). Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so.*
 
 ## The account
 

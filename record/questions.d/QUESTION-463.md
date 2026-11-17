@@ -4,14 +4,24 @@ status: Open
 formerly:
 - QUESTION-tmpkefdg
 title: 'What makes the terms on which an organization''s sustaining activities are organized unjust, so that an organization reproducing them exploits the participants it depends on and does not only subordinate them?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-100, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 tags:
 - ethics
 - society-and-governance
 - social-ontology
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 refines:
 - QUESTION-461
 summary: >-
@@ -30,6 +40,7 @@ summary: >-
   wrong of the kind A names. The term is A's; adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CASE-257 CLAIM-428 CLAIM-669 CLAIM-670 CLAIM-624 TERM-083 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-682 CASE-261 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 

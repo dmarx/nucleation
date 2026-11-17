@@ -4,7 +4,7 @@
 
 **society-and-governance**.
 
-214 of 1949 NOTE documents. Back to the [full index](../README.md).
+214 of 1951 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

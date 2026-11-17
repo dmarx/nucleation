@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpj6tb1
 title: 'An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-100, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,7 +35,7 @@ tags:
 - complex-systems
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 - transient-support
 rests_on:
 - CLAIM-603
@@ -49,6 +59,7 @@ summary: >-
   Unavailable. Interpretive. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: THEORY-1843 THEORY-1844 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-603 CLAIM-428 — Proposed; the claims this one sets beside, cited with their standing -->

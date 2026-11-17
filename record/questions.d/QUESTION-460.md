@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp9bbpk
 title: 'Does an organized whole ground norms concerning its own constituent parts, and if it does, who bears the obligations those norms establish: the whole, where it is the kind of thing that can owe, or the agents and roles that maintain, control or benefit from the arrangement; and on what ground: that the parts constitute it, contribute to it, are vulnerable to it or are governed by it, its commitments to them, or its history with them?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-12'
@@ -33,12 +33,22 @@ history:
     its three results, is stated in the body and filed as
     CASE-256. The paraphrase of CLAIM-671 follows that claim's
     retitling. The question stays Open.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-100, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    It keeps organizational-normativity second, because it refines
+    QUESTION-128, whose first line it is (ADR-085). No other change.
 tags:
 - ethics
 - mereology
 - social-ontology
 date: '2026-11-12'
 line:
+- dependence-and-domination
 - organizational-normativity
 refines:
 - QUESTION-128
@@ -63,6 +73,7 @@ summary: >-
   corresponding obligation". The owner's discriminating test is
   CASE-256.
 ---
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: THEORY-1823 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2531 LIT-2535 LIT-2519 — Unavailable; registered from the same exchange -->

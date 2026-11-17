@@ -4,14 +4,24 @@ status: Proposed
 formerly:
 - TERM-tmpc9uv8
 title: "domination, of a party within an arrangement, relative to a declared standard of answerability: an agent's or role's capacity, used or not, to set or change the terms on which the party can act, exit, contest or renegotiate, where the capacity is not answerable to the party under a standard declared with the judgment"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-100, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 tags:
 - ethics
 - society-and-governance
 - self-governance
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 summary: >-
   The assistant's, offered at step 12 of the filing of "About Plantation
   Paradise" ([#488](https://github.com/dmarx/nucleation/issues/488)) and accepted by the owner on 2026-11-13. The record uses
@@ -29,6 +39,7 @@ summary: >-
   wording is the assistant's (Claude, in this session), after [CLAIM-545](../claims.d/CLAIM-545.md) and
   A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: TERM-123 CLAIM-690 CASE-264 — filed with this term, Proposed -->
 <!-- inactive-ok-file: CLAIM-545 CLAIM-624 CLAIM-603 CLAIM-671 CASE-256 TERM-083 — Proposed; the record's entries this term draws its wording from or sets beside, cited with their standing -->
 <!-- inactive-ok-file: LIT-1614 until 2027-02-13 — Unavailable; Pettit, the source CLAIM-545's clause follows, unread; ask again whether a lawful copy has appeared -->

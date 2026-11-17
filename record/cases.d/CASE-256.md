@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CASE-tmpo7zlu
 title: 'Member and non-member under one arrangement: a person''s vulnerability, the controlling actors'' capacities and the institutional consequences held fixed, with the person a constituent of the organization in one case and affected by the same arrangement without being a constituent in the other, to test whether membership adds an obligation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-100, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -13,7 +23,7 @@ tags:
 - social-ontology
 date: '2026-11-13'
 line:
-- organizational-normativity
+- dependence-and-domination
 bears_on:
 - QUESTION-460
 summary: >-
@@ -25,6 +35,7 @@ summary: >-
   boundaries; or the arrangement constrains without being a duty-bearer,
   and the obligation falls on the agents or roles that maintain it.
 ---
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-671 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # CASE-256: Member and non-member under one arrangement: a person's vulnerability, the controlling actors' capacities and the institutional consequences held fixed, with the person a constituent of the organization in one case and affected by the same arrangement without being a constituent in the other, to test whether membership adds an obligation

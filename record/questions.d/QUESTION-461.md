@@ -4,14 +4,24 @@ status: Open
 formerly:
 - QUESTION-tmpojwyk
 title: 'When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Moves from organizational-normativity to
+    dependence-and-domination, at the split of
+    organizational-normativity (ADR-100, 2026-11-15): the entry
+    is in the part of the line on what wholes and parts owe and claim.
+    No relation supplies organizational-normativity to it (ADR-085).
+    No other change.
 tags:
 - society-and-governance
 - social-ontology
 - ethics
 date: '2026-11-12'
 line:
-- organizational-normativity
+- dependence-and-domination
 - distributed-agency
 summary: >-
   A's, A6 §8 of the exchange "About Plantation Paradise" (2026-11-12),
@@ -26,6 +36,7 @@ summary: >-
   and the comparisons it proposed are in the body; colonial theatre in
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
+<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-686 CASE-261 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-13 with its standing -->
