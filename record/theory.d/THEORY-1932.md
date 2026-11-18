@@ -4,7 +4,23 @@ status: Proposed
 formerly:
 - THEORY-tmpesp6v
 title: 'The NTSB found that the probable cause of the 2018 Tempe crash of an Uber ATG test vehicle was its operator''s failure to monitor the road because she was distracted by her phone, that the automated driving system was designed to rely on the operator to avoid collisions, and that Uber ATG''s inadequate safety culture, through poor risk assessment, rarely exercised oversight and no countermeasures to automation complacency, contributed to the crash and to the operator''s distraction itself'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmp4utz4, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2034). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: corroborates CLAIM-707; bears_on QUESTION-tmp2t6ve.
+    Its title was: "The NTSB found the Tempe crash of an Uber test
+    vehicle caused by its operator's distraction, to which the company
+    contributed through a system design that relied on her to brake, the
+    removal of a second operator, rare oversight and no countermeasures
+    to automation complacency, all consequences of its safety culture,
+    so that cause was divided between the operator and the organization
+    that set her task"
 tags:
 - philosophy-of-technology
 - ethics
@@ -17,7 +33,13 @@ promote_when: >-
   2026-11-16; the filer may promote)
 source:
 - LIT-2664
+bears_on:
+- QUESTION-tmp2t6ve
+corroborates:
+- CLAIM-707
 ---
+<!-- inactive-ok-file: CASE-tmpnrxpi CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- unresolved-ok-file: THEORY-tmp4utz4 — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1932: The NTSB found that the probable cause of the 2018 Tempe crash of an Uber ATG test vehicle was its operator's failure to monitor the road because she was distracted by her phone, that the automated driving system was designed to rely on the operator to avoid collisions, and that Uber ATG's inadequate safety culture, through poor risk assessment, rarely exercised oversight and no countermeasures to automation complacency, contributed to the crash and to the operator's distraction itself
 
@@ -44,3 +66,19 @@ oversight also contributed.
   operator, beyond her suspension and layoff (p. 27).
 - It does not excuse the operator: her distraction was "a clear example of deliberate engagement in
   visual distraction" (p. 43).
+
+## From the second reading (2026-11-17)
+
+The second reading adds two relations. It corroborates the control-and-duty
+part of [CLAIM-707](../claims.d/CLAIM-707.md), which does not rest on it: a design that relied on the
+operator to brake, a removed second operator that raised her task demands,
+and a culture that contributed "specifically to the vehicle operator's
+extended distraction" (p. 46). It does not show blame landing downstream:
+the NTSB carries cause upstream, to Uber and the state, so as an
+attribution the case sits nearer the second branch of the claim's
+`defeated_if` than a crumple zone ([CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md)). It bears on
+[QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md): a no-blame investigation that keeps upstream provenance
+by naming contributing factors in the company and the state.
+
+- **Where blame landed** in prosecution or the press, which the report does
+  not cover.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpuiaop
 title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
-version: 11
+version: 12
 history:
 - version: 2
   date: '2026-11-16'
@@ -54,6 +54,14 @@ history:
     that the first filing mapped and did not adopt are now entries of the
     continuation, listed in the body; they stay A's. No change of status or
     title.
+- version: 12
+  date: '2026-11-18'
+  note: >-
+    Bovens and Zouridis (2002) read; automation removed the human
+    points where a case could be redirected, leaving only one the
+    citizen must open, which corroborates the claim. Carried over at
+    the reconciliation of 2026-11-18 from the continuation filing's
+    duplicate entry.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -315,3 +323,8 @@ The handoff problem (p. 50: last-minute takeover "is something humans do not do 
 formal point of intervention that humans cannot reliably use. It bears on what an "opportunity to
 intervene" consists in, beside the friction question: an opportunity that exists on paper is not
 yet effective. Relation: none.
+
+## Note of 2026-11-17: Bovens and Zouridis, read
+<!-- inactive-ok-file: THEORY-1938 — new theory of 2026-11-18, Proposed -->
+
+Bovens and Zouridis 2002, read from the authors' manuscript ([NOTE-2030](../notes.d/NOTE-2030.md), [THEORY-1938](../theory.d/THEORY-1938.md)): it corroborates the claim independently ([THEORY-1938](../theory.d/THEORY-1938.md) carries `corroborates`). Automating a step "demands the standardization and formalization of the preceding steps" (ms p. 9), until officers "merely pressed a button to indicate their acceptance of the computer's decisions", and "Only if the student lodged a formal objection was the application referred for assessment by a living person" (ms p. 10). The places where a case could be weighed or redirected are gone except one the affected person must open; the authors' hardship clauses are attempts to put such places back. The paper does not use the language of friction. No status changes.

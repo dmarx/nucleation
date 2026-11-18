@@ -19,17 +19,17 @@ bears_on:
 - QUESTION-tmp2t6ve
 summary: >-
   Shoemaker (2019), [LIT-tmp1px3j](../literature.d/LIT-tmp1px3j.md), read in part in [NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), as the
-  read neighbour of Shoemaker 2011 ([LIT-2658](../literature.d/LIT-2658.md)). It bears on
+  read neighbour of Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md)). It bears on
   [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md): one kind of blame can be withheld while another is
   kept. The wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-tmp4zjar — Proposed; the term whose sense this is not -->
-<!-- inactive-ok-file: LIT-2658 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: LIT-tmpxsadz — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: NOTE-tmpfi3s5 — Skimmed or Open; the reading and the question it bears on -->
 
 # THEORY-tmpjlmfm: Shoemaker holds that moral responsibility comes in three independent types, attributability, answerability and accountability, grounded in the capacities for quality of character, quality of judgment and quality of regard and each answered by its own family of responses, anger belonging to accountability
 
-Shoemaker (2019), [LIT-tmp1px3j](../literature.d/LIT-tmp1px3j.md), after Shoemaker (2011), [LIT-2658](../literature.d/LIT-2658.md).
+Shoemaker (2019), [LIT-tmp1px3j](../literature.d/LIT-tmp1px3j.md), after Shoemaker (2011), [LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md).
 
 ## The account
 

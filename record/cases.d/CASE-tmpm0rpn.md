@@ -23,7 +23,7 @@ bears_on:
 - QUESTION-463
 - QUESTION-468
 draws_on:
-- THEORY-tmpg9i9l
+- THEORY-1917
 summary: >-
   A's, A53 §7 of the exchange "Assess Depp Heard Abuse" (2026-11-16),
   "An especially productive thought experiment for Nucleation", at the
@@ -114,12 +114,12 @@ a right to refuse that does not fall on patients, for C.
   analogy until a model is specified.
 
 ## Note of 2026-11-17: Keller read: arm C's mechanism in a published case
-<!-- inactive-ok-file: THEORY-tmpg9i9l — new; the reading filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-1917 — new; the reading filed on 2026-11-18 -->
 
-Keller 2016, read ([NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md), [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md)). Arm C, "Moralized obligation", has the mechanism of Keller's third-party moral blackmail. His law firm: "I can increase your workload without having to increase your pay and without losing clients for the firm" (p. 24), relying on lawyers' obligations to their clients. His strike asymmetry is the arm's individually costly withholding: "It really is more difficult to go on strike if you are a nurse or a teacher than if you are a policy analyst or a software developer" (p. 25). Keller also gives the case's stipulated verdict on C a published argument: the institution's act is a wrong ("moral blackmail") and the obligation it exploits is genuine.
+Keller 2016, read ([NOTE-2005](../notes.d/NOTE-2005.md), [THEORY-1917](../theory.d/THEORY-1917.md)). Arm C, "Moralized obligation", has the mechanism of Keller's third-party moral blackmail. His law firm: "I can increase your workload without having to increase your pay and without losing clients for the firm" (p. 24), relying on lawyers' obligations to their clients. His strike asymmetry is the arm's individually costly withholding: "It really is more difficult to go on strike if you are a nurse or a teacher than if you are a policy analyst or a software developer" (p. 25). Keller also gives the case's stipulated verdict on C a published argument: the institution's act is a wrong ("moral blackmail") and the obligation it exploits is genuine.
 
 Two differences. Keller's cases are deliberate; the case's arm C "appeals to professional duty" without saying whether management intends the effect. And he does not compare C with a competitive arm like B.
 
-Proposed, for the owner: CASE-tmpm0rpn `draws_on` [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md), as a check its arm C is set against ([ADR-095](../decisions.d/ADR-095.md)). The case is the filer's to change only with the owner's or lead's agreement, so it is not written here.
+Proposed, for the owner: CASE-tmpm0rpn `draws_on` [THEORY-1917](../theory.d/THEORY-1917.md), as a check its arm C is set against ([ADR-095](../decisions.d/ADR-095.md)). The case is the filer's to change only with the owner's or lead's agreement, so it is not written here.
 
 No status changes.

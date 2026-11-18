@@ -23,7 +23,7 @@ line:
 draws_on:
 - THEORY-147
 - THEORY-207
-- THEORY-tmpzdtc8
+- THEORY-1915
 summary: >-
   A's senses, from the exchange "Assess Depp Heard Abuse" (2026-11-15 to
   17), where A used them throughout and listed them once: A110 §2's table
@@ -138,7 +138,7 @@ would be misread without it.
 ## Note of 2026-11-17: Miller is registered; Watson's and Shoemaker's senses through their neighbours
 <!-- inactive-ok-file: LIT-tmpqsyr9 NOTE-tmps8s9k NOTE-tmpfi3s5 THEORY-tmp3xr2l THEORY-tmptax6l THEORY-tmpjlmfm — Unavailable, new or Proposed; the works and readings filed on 2026-11-18 and the sibling term -->
 
-Shaw-Young 2008 for Miller ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), [THEORY-tmp3xr2l](../theory.d/THEORY-tmp3xr2l.md)), King 2013 for Watson ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md)), Shoemaker 2019 for Shoemaker 2011 ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), [THEORY-tmpjlmfm](../theory.d/THEORY-tmpjlmfm.md)), and Mazinani & O'Connor 2026 ([NOTE-tmpky4pc](../notes.d/NOTE-tmpky4pc.md)), read.
+Shaw-Young 2008 for Miller ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), [THEORY-tmp3xr2l](../theory.d/THEORY-tmp3xr2l.md)), King 2013 for Watson ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md)), Shoemaker 2019 for Shoemaker 2011 ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), [THEORY-tmpjlmfm](../theory.d/THEORY-tmpjlmfm.md)), and Mazinani & O'Connor 2026 ([NOTE-2000](../notes.d/NOTE-2000.md)), read.
 
 **Correction.** "Sources of the senses" says Miller's "Distributing Responsibilities" (2001) is "not registered". It is registered as [LIT-tmpqsyr9](../literature.d/LIT-tmpqsyr9.md), Unavailable; the body should cite the code. Its read neighbour, Shaw-Young (2008), reports Miller's 2007 statement, which names six connections, not A's four: "moral responsibility, outcome responsibility, causal responsibility, benefit, capacity, and community" (thesis p. 20, Miller 2007 pp. 100–104). The term's remedial sense is Miller's; its causal sense matches Miller's causal responsibility; Miller's **outcome responsibility** (whose action produced the situation, which may be foreseeable and justified) has no slot among the term's five senses.
 
@@ -151,10 +151,10 @@ Shaw-Young 2008 for Miller ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), [THEOR
 No status changes.
 
 ## Note of 2026-11-17: Zeiser and Rubel et al. read: a narrower attributability sense, and a neighbouring taxonomy
-<!-- inactive-ok-file: THEORY-tmpzdtc8 THEORY-tmpwjlal — new; the readings filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-1915 THEORY-1946 — new; the readings filed on 2026-11-18 -->
 
-Zeiser 2024, read ([NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md), [THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md)). The term's attributability sense asks "Whose action, judgment, or institutional process was it?" Zeiser's is narrower: attributability is "rooted in the idea that actions express an agent's character", read as whose value-judgements a decision expresses, and it comes apart from accountability, "the practice of holding agents responsible in reacting to misconduct by assigning blame or imposing legal sanctions", in both directions. That bears out the term's last clause, that a verdict in one sense does not settle another: "the right person to blame didn't actually make the decision, such as when a manager takes the blame for her employee". Proposed, for the owner: the term `draws_on` [THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md) for its attributability sense ([ADR-095](../decisions.d/ADR-095.md)).
+Zeiser 2024, read ([NOTE-2007](../notes.d/NOTE-2007.md), [THEORY-1915](../theory.d/THEORY-1915.md)). The term's attributability sense asks "Whose action, judgment, or institutional process was it?" Zeiser's is narrower: attributability is "rooted in the idea that actions express an agent's character", read as whose value-judgements a decision expresses, and it comes apart from accountability, "the practice of holding agents responsible in reacting to misconduct by assigning blame or imposing legal sanctions", in both directions. That bears out the term's last clause, that a verdict in one sense does not settle another: "the right person to blame didn't actually make the decision, such as when a manager takes the blame for her employee". Proposed, for the owner: the term `draws_on` [THEORY-1915](../theory.d/THEORY-1915.md) for its attributability sense ([ADR-095](../decisions.d/ADR-095.md)).
 
-Rubel, Castro & Pham 2021, ch. 7 ([NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md), [THEORY-tmpwjlal](../theory.d/THEORY-tmpwjlal.md)) use a Hart-style structure of role, causal and capacity responsibility. It has no constitutive sense; its role responsibility covers part of what the term calls remedial and constitutive. A neighbouring taxonomy, not a source for the term; no relation proposed.
+Rubel, Castro & Pham 2021, ch. 7 ([NOTE-2031](../notes.d/NOTE-2031.md), [THEORY-1946](../theory.d/THEORY-1946.md)) use a Hart-style structure of role, causal and capacity responsibility. It has no constitutive sense; its role responsibility covers part of what the term calls remedial and constitutive. A neighbouring taxonomy, not a source for the term; no relation proposed.
 
 No status changes.

@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - THEORY-tmpajv4l
 title: 'Lohmann and colleagues'' meta-analysis finds exposure to coercive control moderately associated with PTSD and depression symptoms, comparably to broader psychological intimate partner violence in the same studies and not, as they predicted, more strongly'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmp0cj7p, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2009). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: none beyond those already here. Its title was:
+    "Lohmann, Cowlishaw, Ney, O'Donnell and Felmingham find, across 45
+    cross-sectional studies, that exposure to an intimate partner's
+    coercive control is moderately associated with PTSD and depression
+    symptoms, at strengths comparable to those for psychological
+    intimate partner violence in general and not stronger"
 tags:
 - social-science
 - moral-psychology
@@ -17,6 +31,8 @@ promote_when: >-
 source:
 - LIT-2678
 ---
+<!-- inactive-ok-file: CLAIM-709 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- unresolved-ok-file: THEORY-tmp0cj7p — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1922: Lohmann and colleagues' meta-analysis finds exposure to coercive control moderately associated with PTSD and depression symptoms, comparably to broader psychological intimate partner violence in the same studies and not, as they predicted, more strongly
 
@@ -33,3 +49,13 @@ Across 45 observational studies, pooled correlations of coercive-control exposur
 - That coercive control causes these symptoms: "a direct causal link between coercive control and mental health could not be established".
 - That control harms beyond, or independently of, physical violence: physical IPV was not controlled for, and the comparison with it is with other meta-analyses.
 - Anything about complex PTSD (one study), about men or gender-diverse people (few studies), or about responsibility.
+
+## From the second reading (2026-11-17)
+
+The second reading adds one limit, and keeps the first's decision to write
+no relation to [CLAIM-709](../claims.d/CLAIM-709.md):
+
+- **That domination harms beyond its acts.** The authors suggest
+  act-based measures may miss whether a threat is "embedded in a chronic
+  pattern of power and control"; that is their explanation of the null,
+  not evidence for it.

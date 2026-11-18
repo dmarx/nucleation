@@ -106,9 +106,9 @@ needs that does not fit the relation, for instance an answerability owed
 by an arrangement that is not an agent, which [QUESTION-460](../questions.d/QUESTION-460.md) leaves open.
 
 ## Note of 2026-11-17: Shoemaker's answerability is a homonym; Darwall's is this term's sense
-<!-- inactive-ok-file: NOTE-tmpfi3s5 THEORY-tmpjlmfm THEORY-tmpk5cgl LIT-2658 LIT-tmpr2bbq — new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+<!-- inactive-ok-file: NOTE-tmpfi3s5 THEORY-tmpjlmfm THEORY-tmpk5cgl LIT-tmpxsadz LIT-tmpr2bbq — new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
 
-Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), [THEORY-tmpjlmfm](../theory.d/THEORY-tmpjlmfm.md)), for Shoemaker 2011 ([LIT-2658](../literature.d/LIT-2658.md), unread); Stern 2014, read ([NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), [THEORY-tmpk5cgl](../theory.d/THEORY-tmpk5cgl.md)), for Darwall 2006 ([LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md), unread).
+Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), [THEORY-tmpjlmfm](../theory.d/THEORY-tmpjlmfm.md)), for Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md), unread); Stern 2014, read ([NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), [THEORY-tmpk5cgl](../theory.d/THEORY-tmpk5cgl.md)), for Darwall 2006 ([LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md), unread).
 
 **A homonym the term should mark.** Shoemaker's answerability is a capacity of the agent and a type of responsibility: "To have these capacities is to be answerable, to be able in principle to answer the question, “Why did you do that?”" (2019, p. 912), grounded in "quality of judgment" and answered by approval, disapproval, pride and regret. This term's answerability is a directed normative relation in which an actor owes a party an answer. The two share a word and A110 sets them side by side; the term should say it does not mean Shoemaker's.
 

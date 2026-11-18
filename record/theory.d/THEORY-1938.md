@@ -4,7 +4,23 @@ status: Proposed
 formerly:
 - THEORY-tmpn8tsl
 title: 'Bovens and Zouridis find, in two Dutch executive agencies, that ICT turned street-level bureaucracies into system-level ones in which routine cases are decided without human interference and administrative discretion passes from case handlers to the system designers who translate law into algorithms, perfecting legality while raising the problems of controlling the designers and of rigidity in hard cases'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmpd9o6w, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2030). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: corroborates CLAIM-410. Its title was: "Information
+    technology has turned some large executive agencies from
+    street-level into system-level bureaucracies, in which case-level
+    administrative discretion all but vanishes and passes to the
+    designers and legal-policy staff who translate law into algorithms,
+    so that the constitutional problem moves from the legality of
+    individual decisions to political accountability for system design,
+    with a new risk of arbitrariness through rigidity"
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -21,7 +37,9 @@ corroborates:
 - CLAIM-706
 - CLAIM-710
 - CLAIM-462
+- CLAIM-410
 ---
+<!-- unresolved-ok-file: THEORY-tmpd9o6w — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1938: Bovens and Zouridis find, in two Dutch executive agencies, that ICT turned street-level bureaucracies into system-level ones in which routine cases are decided without human interference and administrative discretion passes from case handlers to the system designers who translate law into algorithms, perfecting legality while raising the problems of controlling the designers and of rigidity in hard cases
 
@@ -51,3 +69,18 @@ No measurement of errors, appeals or outcomes. Scope is large agencies handling 
 transactions, not discretionary services. It does not say intervention requires delay: its remedies are
 citizen-triggered and upstream (review of the system, published decision trees). Read in manuscript; the
 published text was not compared.
+
+## From the second reading (2026-11-17)
+
+The second reading adds a relation: it corroborates [CLAIM-410](../claims.d/CLAIM-410.md)'s
+"transferred" case, which does not rest on it. Discretion in applying
+rules leaves the caseworker and passes to "the system and process
+designers" (ms p. 14), and the accountability owed changes with the locus:
+"mainly a matter of political control and accountability rather than of
+legality" (ms p. 17). It adds two limits:
+
+- **Generality.** Two qualitative cases; the authors conjecture the rest
+  and exclude professions with goal-oriented mandates.
+- **That system-level decision is better.** The "zenith" verdict rests on
+  one cited finding, and n. 6 records errors where staff "relied too
+  heavily on the system".

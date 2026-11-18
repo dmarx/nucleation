@@ -187,9 +187,9 @@ own.
   accessible".
 
 ## Note of 2026-11-17: The attribution of the three-way split, confirmed in Shoemaker's words
-<!-- inactive-ok-file: NOTE-tmpfi3s5 LIT-2658 LIT-2718 — Skimmed, new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+<!-- inactive-ok-file: NOTE-tmpfi3s5 LIT-tmpxsadz LIT-2718 — Skimmed, new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
 
-Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md)), for Shoemaker 2011 ([LIT-2658](../literature.d/LIT-2658.md)); King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md)), for Watson 1996 ([LIT-2718](../literature.d/LIT-2718.md)).
+Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md)), for Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md)); King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md)), for Watson 1996 ([LIT-2718](../literature.d/LIT-2718.md)).
 
 The claim corrects A110's attribution of attributability, answerability and accountability to "Gary Watson and David Shoemaker" jointly. Shoemaker confirms it: of other pluralist views, Watson's *Agency and Answerability* (2004) among them, "none of them have an independent notion of answerability" (2019, n. 64), and the three labels are his, "drawn from labels already in the literature" (p. 913). King's Watson has two faces, attributability and accountability, with accountability carrying a fairness condition, "[i]t is unfair to impose sanctions upon people unless they had a reasonable opportunity to avoid incurring them" (237), which supports the claim's reading that "accountable" in the owner's sentence is not Watson's accountability face.
 

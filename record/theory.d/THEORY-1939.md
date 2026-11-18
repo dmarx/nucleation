@@ -4,7 +4,22 @@ status: Proposed
 formerly:
 - THEORY-tmpo4zca
 title: 'Santoni de Sio and van den Hoven argue that an autonomous system is under meaningful human control only if it tracks the relevant moral reasons of the humans who design and deploy it, together with the relevant facts, and its behaviour traces to at least one human who understands its capabilities and that its effects will be attributed to them; presence in the loop is not sufficient, and such control is necessary but not sufficient for the system to act well'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmpnmvsj, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2024). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: corroborates CLAIM-707; bears_on QUESTION-tmpvoufs.
+    Its title was: "Meaningful human control over an autonomous system,
+    on Santoni de Sio and van den Hoven's account, requires that the
+    system track the human moral reasons and facts relevant in the
+    circumstances, and that its outcomes trace to at least one human in
+    its design or use who understands its capabilities and that others
+    may hold them answerable; presence in the loop is not control"
 tags:
 - philosophy-of-technology
 - ethics
@@ -18,9 +33,14 @@ promote_when: >-
   good behaviour
 source:
 - LIT-2705
+bears_on:
+- QUESTION-tmpvoufs
 corroborates:
 - CLAIM-708
+- CLAIM-707
 ---
+<!-- inactive-ok-file: CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- unresolved-ok-file: THEORY-tmpnmvsj — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-708 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1939: Santoni de Sio and van den Hoven argue that an autonomous system is under meaningful human control only if it tracks the relevant moral reasons of the humans who design and deploy it, together with the relevant facts, and its behaviour traces to at least one human who understands its capabilities and that its effects will be attributed to them; presence in the loop is not sufficient, and such control is necessary but not sufficient for the system to act well
 
@@ -37,3 +57,17 @@ Corroborates [CLAIM-708](../claims.d/CLAIM-708.md), independently of the exchang
 ## What this does not say
 
 How organizations do in fact distribute blame, or that operators are commonly blamed for failures traced upstream. Which reasons of which humans a system must track. Anything about decision-support systems in administration; its cases are weapons, aviation and driving.
+
+## From the second reading (2026-11-17)
+
+The second reading adds two relations. It corroborates the control-and-duty
+part of [CLAIM-707](../claims.d/CLAIM-707.md), which does not rest on it: presence is not control,
+designers have "an obligation to design the system in such a way that this
+type of inquiry by users is not made impossible or unduly difficult"
+(p. 9), and responsibility "may trace back to other agents upstream" when
+the operator's conditions fail. It bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md): duties
+run both ways, but no instrument is named by which agents hold principals
+to account. One limit:
+
+- **Where blame lands** when the conditions fail; only that a gap opens
+  ("no agent satisfies the tracing condition", p. 11).

@@ -207,9 +207,9 @@ whose author A omits: Thomas J. Miceli, *International Review of Law and
 Economics* 19(2), doi:10.1016/S0144-8188(99)00008-3 (the part-4 ledger).
 
 ## Note of 2026-11-17: Cuéllar, read in part
-<!-- inactive-ok-file: NOTE-tmpf8gg2 THEORY-tmpf7stg — new reading (Skimmed) and theory of 2026-11-18, Proposed -->
+<!-- inactive-ok-file: THEORY-1923 — new reading (Skimmed) and theory of 2026-11-18, Proposed -->
 
-Cuéllar 2026, read in part ([NOTE-tmpf8gg2](../notes.d/NOTE-tmpf8gg2.md), [THEORY-tmpf7stg](../theory.d/THEORY-tmpf7stg.md)): it corroborates the claim's mechanism independently ([THEORY-tmpf7stg](../theory.d/THEORY-tmpf7stg.md) carries `corroborates`). "First, the White House can successfully target opponents even when courts shut down an initial line of attack", with tools for attacks "that might be thwarted by a court eventually but levy a high cost on those targeted in the meantime" (p. 647); judicial review comes only "after the sort of final agency action that tends to be necessary for judicial review" (p. 645). He does not say the objective becomes unreachable, only costly, and gives no comparison of what the target can sustain with the time to relief; that threshold stays the claim's. No status changes.
+Cuéllar 2026, read in part ([NOTE-2029](../notes.d/NOTE-2029.md), [THEORY-1923](../theory.d/THEORY-1923.md)): it corroborates the claim's mechanism independently ([THEORY-1923](../theory.d/THEORY-1923.md) carries `corroborates`). "First, the White House can successfully target opponents even when courts shut down an initial line of attack", with tools for attacks "that might be thwarted by a court eventually but levy a high cost on those targeted in the meantime" (p. 647); judicial review comes only "after the sort of final agency action that tends to be necessary for judicial review" (p. 645). He does not say the objective becomes unreachable, only costly, and gives no comparison of what the target can sustain with the time to relief; that threshold stays the claim's. No status changes.
 
 ## Note of 2026-11-17: Galanter, read
 <!-- inactive-ok-file: THEORY-tmpqk131 — new reading and theory of 2026-11-18, Proposed -->

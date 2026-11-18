@@ -149,9 +149,9 @@ governance is genuinely theirs." That is this claim, with the gut and
 microbiome as its examples. Not filed separately.
 
 ## Note of 2026-11-17: Zeiser read: a decision made by a human that is not hers
-<!-- inactive-ok-file: THEORY-tmpzdtc8 — new; the reading filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-1915 — new; the reading filed on 2026-11-18 -->
 
-Zeiser 2024, read ([NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md), [THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md), corroborates). An instance of the claim in a new domain. A recruiter using a decision-support tool makes the decision, but "Despite being technically made by a human the decision doesn't reflect characteristics of Susan's judgement", and "This is not merely a problem of Susan over-relying on the DSS's recommendation". The gap arises when the tool "presupposes values that have a significant influence on the outcome of the decision and that they haven't endorsed as their own values". That the human's decision was effective does not settle whose values it expresses.
+Zeiser 2024, read ([NOTE-2007](../notes.d/NOTE-2007.md), [THEORY-1915](../theory.d/THEORY-1915.md), corroborates). An instance of the claim in a new domain. A recruiter using a decision-support tool makes the decision, but "Despite being technically made by a human the decision doesn't reflect characteristics of Susan's judgement", and "This is not merely a problem of Susan over-relying on the DSS's recommendation". The gap arises when the tool "presupposes values that have a significant influence on the outcome of the decision and that they haven't endorsed as their own values". That the human's decision was effective does not settle whose values it expresses.
 
 Zeiser's remedy is an endorsement criterion. He does not ask whether endorsement can itself be produced or manipulated, so the reading leaves the claim's point about efficacy and ownership standing rather than settling what does settle ownership.
 

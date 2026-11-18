@@ -4,7 +4,22 @@ status: Proposed
 formerly:
 - THEORY-tmpcghq5
 title: 'Harsey and Freyd find, in a vignette experiment with 235 undergraduates, that an accused perpetrator''s DARVO statement in response to a sexual-assault accusation leads observers to rate him as less abusive, less responsible and more believable, to rate the victim as less believable and more abusive, and to be less willing to punish him, while insincere apologies had little effect'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmppzel6, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2020). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: none beyond those already here. Its title was: "Harsey
+    and Freyd find, in a vignette experiment with undergraduates, that a
+    perpetrator's DARVO statement, compared with none, leads observers
+    to rate a sexual-assault victim as less believable and more abusive
+    and the perpetrator as more believable, less responsible and less
+    abusive, and lowers their support for punishing him while raising it
+    for punishing her"
 tags:
 - social-science
 - moral-psychology
@@ -16,6 +31,8 @@ promote_when: >-
 source:
 - LIT-2710
 ---
+<!-- inactive-ok-file: CLAIM-tmpciy9q — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- unresolved-ok-file: THEORY-tmppzel6 — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1926: Harsey and Freyd find, in a vignette experiment with 235 undergraduates, that an accused perpetrator's DARVO statement in response to a sexual-assault accusation leads observers to rate him as less abusive, less responsible and more believable, to rate the victim as less believable and more abusive, and to be less willing to punish him, while insincere apologies had little effect
 
@@ -37,3 +54,13 @@ on ratings."
 - Anything about relationships in which both parties acted wrongly, or about mutual accusation.
 - How large the effects would be outside a short written vignette read by undergraduates; some are small, and part of
   the contrast is with a condition in which the accused made no statement.
+
+## From the second reading (2026-11-17)
+
+The second reading adds the victim-punishment figure (belief that the
+victim should not be punished fell from 92.9% to 66.9%) and the size of the
+responsibility effect (partial η² = .021, small). It adds one limit:
+
+- **Anything about a true accusation.** DARVO here calls the accusation
+  false, so the study does not bear on [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md), which concerns
+  a true accusation of a wrong the accuser arranged. No relation.

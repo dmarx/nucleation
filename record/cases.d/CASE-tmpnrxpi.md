@@ -13,7 +13,7 @@ line:
 - distributed-agency
 reported_in:
 - LIT-2664
-- NOTE-tmpokcvk
+- NOTE-2034
 - LIT-2665
 illustrates:
 - CLAIM-707
@@ -21,7 +21,7 @@ bears_on:
 - QUESTION-tmp2t6ve
 summary: >-
   The Uber test-vehicle crash, as the NTSB's final report finds it
-  (HAR-19/03, 2019; [LIT-2664](../literature.d/LIT-2664.md), read in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)), the case A17 of
+  (HAR-19/03, 2019; [LIT-2664](../literature.d/LIT-2664.md), read in [NOTE-2034](../notes.d/NOTE-2034.md)), the case A17 of
   the exchange "Assess Depp Heard Abuse" uses and Elish ([LIT-2665](../literature.d/LIT-2665.md))
   discussed from the preliminary report. The design left emergency braking
   to the operator, Uber had disabled the Volvo's own systems and removed
@@ -40,7 +40,7 @@ summary: >-
 ## The case
 
 From the NTSB's Highway Accident Report NTSB/HAR-19/03, adopted 19
-November 2019 ([LIT-2664](../literature.d/LIT-2664.md), read for responsibility in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)).
+November 2019 ([LIT-2664](../literature.d/LIT-2664.md), read for responsibility in [NOTE-2034](../notes.d/NOTE-2034.md)).
 Page numbers are the report's.
 
 - **What happened.** At night on N. Mill Avenue, Tempe, an Uber Advanced
@@ -94,6 +94,6 @@ Page numbers are the report's.
   prosecution and the press, which the report does not cover and the
   record has not read. As an allocation of cause, the report sits nearer
   the second branch of [CLAIM-707](../claims.d/CLAIM-707.md)'s `defeated_if` than a crumple zone.
-- **Elish's earlier reading** ([LIT-2665](../literature.d/LIT-2665.md), [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md), p. 53) rested on
+- **Elish's earlier reading** ([LIT-2665](../literature.d/LIT-2665.md), [NOTE-2019](../notes.d/NOTE-2019.md), p. 53) rested on
   the preliminary report, which left open that the operator was "looking
   down at the touch-screen"; the final report found her streaming video.

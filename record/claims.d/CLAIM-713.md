@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpyjzi8
 title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying, with the burden falling hardest on its most conscientious members'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-16'
@@ -44,6 +44,13 @@ history:
     costs with that party, without deception, coercion or any unreasonable
     choice by the party, and an institution can come to run on what it so
     avoids paying. No change of status.
+- version: 8
+  date: '2026-11-18'
+  note: >-
+    Keller (2016) read and filed with corroborates on this claim, for
+    the subsidy's deliberate form; the two Robillard works it relays
+    were not reached. Carried over at the reconciliation of 2026-11-18
+    from the continuation filing's duplicate entry.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -268,3 +275,11 @@ They do not argue the claim's last clause, that an institution comes to run on w
 paying, beyond noting that robots can let employers avoid reallocating duties (p. 13).
 
 Relation: **corroborates**.
+
+## Note of 2026-11-17: Keller read: the moral subsidy sought deliberately, in caring roles; Robillard and Strawser not reached
+
+Keller 2016, read ([NOTE-2005](../notes.d/NOTE-2005.md), [THEORY-1917](../theory.d/THEORY-1917.md), corroborates). His law-firm case is the subsidy sought on purpose: "I can increase your workload without having to increase your pay and without losing clients for the firm" (p. 24). He ties it to caring roles: "It really is more difficult to go on strike if you are a nurse or a teacher than if you are a policy analyst or a software developer" (p. 25); such exposure makes it "more difficult, morally, to keep control over her time and energy, and to bargain for better conditions at work" (p. 26); and "the bad things can become instruments of systemic injustice" (p. 27). That supports the claim's hold and its burden on the conscientious. It supports only the deliberate form: all Keller's cases are intentional, where the claim allows reliance "without intending to exploit anyone".
+
+The summary says A13 §4 "draws on Robillard and Strawser's 'moral exploitation' as A relays it". That stays unverified: Outsourcing Duty ([LIT-2692](../literature.d/LIT-2692.md)) is Unavailable and Robillard's dissertation ([LIT-2682](../literature.d/LIT-2682.md)) Unfetched. The publisher's description of the book ("wrongfully exploited by being made to shoulder an excessive amount of moral weight") and the dissertation's abstract ("exploited by being made to shoulder additional moral burdens") are consistent with A's relay, no more.
+
+No status changes.

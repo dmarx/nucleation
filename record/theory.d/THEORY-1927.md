@@ -4,7 +4,22 @@ status: Proposed
 formerly:
 - THEORY-tmpcqstf
 title: 'Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian prove that, in an urn model of predictive policing that learns only from incidents its own patrols discover, deployment converges on whichever region started ahead when crime rates are equal and on the higher-rate region however slight the difference when they are not, so the system learns where it looked rather than where crime is, and that discarding discovered incidents in proportion to patrol probability restores convergence to the true rates'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmp0xl3k, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2025). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: corroborates CLAIM-342. Its title was: "In a Pólya-urn
+    model of predictive policing, Ensign and colleagues show that
+    allocating patrols by incidents discovered on patrol does not learn
+    true crime rates: with equal rates the prior persists and with
+    unequal rates the higher-rate region takes all, reported incidents
+    only attenuate the loop, and dropping discovered incidents with the
+    probability of patrol removes it"
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -20,7 +35,9 @@ source:
 corroborates:
 - CLAIM-277
 - CLAIM-406
+- CLAIM-342
 ---
+<!-- unresolved-ok-file: THEORY-tmp0xl3k — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1927: Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian prove that, in an urn model of predictive policing that learns only from incidents its own patrols discover, deployment converges on whichever region started ahead when crime rates are equal and on the higher-rate region however slight the difference when they are not, so the system learns where it looked rather than where crime is, and that discarding discovered incidents in proportion to patrol probability restores convergence to the true rates
 
@@ -37,3 +54,15 @@ Proofs in a generalized Pólya urn with one officer and two regions: with equal 
 - Nothing about behaviour: policing does not change crime in the model, which assumes patrols discover crime at its true rate (Assumption 3.3). The loop corrupts the evidence, not the people.
 - That the remedy works in practice: the authors say that with skewed reporting "the solutions might not continue to work".
 - Anything about blame, accountability or the distribution of responsibility.
+
+## From the second reading (2026-11-17)
+
+The second reading adds a relation: it corroborates [CLAIM-342](../claims.d/CLAIM-342.md), which does
+not rest on it. A loop that selects its own evidence locks in (Lemma 4),
+and independent evidence mixed with it only attenuates the loop: reported
+incidents "can attenuate the degree of runaway feedback" but "cannot
+entirely remove it" (abstract). The repair reweights the self-selected
+stream by the probability of selection. One limit:
+
+- **That the loop creates crime.** It amplifies a real difference or
+  freezes the prior.

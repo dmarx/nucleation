@@ -4,7 +4,7 @@ title: "Keller's teachers case does not instance the claim that a party can arra
 version: 1
 form: source
 grounds:
-- THEORY-tmpg9i9l
+- THEORY-1917
 concludes:
 - CLAIM-tmpciy9q
 tags:
@@ -16,7 +16,7 @@ line:
 summary: >-
   The support judgement the readings of 2026-11-18 make about
   [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md). The claim's body gives A13 §3's teachers example as
-  Keller's, unchecked. Read ([NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md)), the example is Keller's
+  Keller's, unchecked. Read ([NOTE-2005](../notes.d/NOTE-2005.md)), the example is Keller's
   (p. 24), but it is not an instance of the claim. The actor is "a
   government official in charge of teachers' employment"; "The teachers
   have the right to strike", so there is no real wrong; and what the
