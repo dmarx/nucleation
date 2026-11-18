@@ -15,7 +15,7 @@ history:
   date: '2026-11-18'
   note: >-
     Joins the work capability-restraint-relational-freedom
-    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A55 and A57 §8 state its proposition (A57 §8's
     remedial capture). No other change.
 role: thesis

@@ -15,7 +15,7 @@ history:
   date: '2026-11-18'
   note: >-
     Joins the work capability-restraint-relational-freedom
-    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A71 §12 and A76's concise thesis for the
     manuscript state its proposition. No other change.
 role: thesis

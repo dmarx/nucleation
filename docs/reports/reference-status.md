@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**947 documents cited without acknowledgement.** Not listed: 34353 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**948 documents cited without acknowledgement.** Not listed: 34368 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1883,8 +1883,8 @@ A SYNTHESIS is an account of a scope of the record's argument and asserts nothin
 - [`record/claims.d/CLAIM-620.md:145`](../../record/claims.d/CLAIM-620.md)
 - [`record/claims.d/CLAIM-624.md:47`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-624.md:68`](../../record/claims.d/CLAIM-624.md)
-- [`record/claims.d/CLAIM-624.md:156`](../../record/claims.d/CLAIM-624.md)
-- [`record/claims.d/CLAIM-624.md:171`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-624.md:165`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-624.md:180`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-631.md:12`](../../record/claims.d/CLAIM-631.md)
 - [`record/claims.d/CLAIM-631.md:68`](../../record/claims.d/CLAIM-631.md)
 - [`record/claims.d/CLAIM-632.md:12`](../../record/claims.d/CLAIM-632.md)
@@ -1993,7 +1993,7 @@ A reading that marks the limit of a claim's scope, cited as such in the claim's 
 
 58 citations in 55 files await a look; 38 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-707.md:406`](../../record/claims.d/CLAIM-707.md)
+- [`record/claims.d/CLAIM-707.md:415`](../../record/claims.d/CLAIM-707.md)
 - [`record/theory.d/THEORY-001.md:54`](../../record/theory.d/THEORY-001.md)
 - [`record/theory.d/THEORY-012.md:63`](../../record/theory.d/THEORY-012.md)
 - [`record/theory.d/THEORY-034.md:44`](../../record/theory.d/THEORY-034.md)
@@ -2846,6 +2846,42 @@ Normative judgment about organizations becomes a line of its own, organizational
 - [`record/syntheses.d/SYNTHESIS-036.md:116`](../../record/syntheses.d/SYNTHESIS-036.md)
 - [`record/terms.d/TERM-059.md:13`](../../record/terms.d/TERM-059.md)
 
+### [ADR-104](../../record/decisions.d/ADR-104.md) — Proposed
+
+A work capability-restraint-relational-freedom is added for the owner's manuscript from the exchange Assess Depp Heard Abuse: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step
+
+29 citations in 29 files await a look.
+
+- [`record/claims.d/CLAIM-363.md:54`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-462.md:64`](../../record/claims.d/CLAIM-462.md)
+- [`record/claims.d/CLAIM-464.md:50`](../../record/claims.d/CLAIM-464.md)
+- [`record/claims.d/CLAIM-523.md:53`](../../record/claims.d/CLAIM-523.md)
+- [`record/claims.d/CLAIM-624.md:106`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-669.md:45`](../../record/claims.d/CLAIM-669.md)
+- [`record/claims.d/CLAIM-670.md:30`](../../record/claims.d/CLAIM-670.md)
+- [`record/claims.d/CLAIM-675.md:23`](../../record/claims.d/CLAIM-675.md)
+- [`record/claims.d/CLAIM-676.md:13`](../../record/claims.d/CLAIM-676.md)
+- [`record/claims.d/CLAIM-680.md:19`](../../record/claims.d/CLAIM-680.md)
+- [`record/claims.d/CLAIM-688.md:22`](../../record/claims.d/CLAIM-688.md)
+- [`record/claims.d/CLAIM-690.md:22`](../../record/claims.d/CLAIM-690.md)
+- [`record/claims.d/CLAIM-703.md:59`](../../record/claims.d/CLAIM-703.md)
+- [`record/claims.d/CLAIM-707.md:98`](../../record/claims.d/CLAIM-707.md)
+- [`record/claims.d/CLAIM-708.md:93`](../../record/claims.d/CLAIM-708.md)
+- [`record/claims.d/CLAIM-711.md:39`](../../record/claims.d/CLAIM-711.md)
+- [`record/claims.d/CLAIM-713.md:58`](../../record/claims.d/CLAIM-713.md)
+- [`record/claims.d/CLAIM-716.md:18`](../../record/claims.d/CLAIM-716.md)
+- [`record/claims.d/CLAIM-718.md:13`](../../record/claims.d/CLAIM-718.md)
+- [`record/claims.d/CLAIM-720.md:29`](../../record/claims.d/CLAIM-720.md)
+- [`record/claims.d/CLAIM-721.md:18`](../../record/claims.d/CLAIM-721.md)
+- [`record/claims.d/CLAIM-723.md:18`](../../record/claims.d/CLAIM-723.md)
+- [`record/claims.d/CLAIM-727.md:33`](../../record/claims.d/CLAIM-727.md)
+- [`record/claims.d/CLAIM-734.md:26`](../../record/claims.d/CLAIM-734.md)
+- [`record/claims.d/CLAIM-736.md:22`](../../record/claims.d/CLAIM-736.md)
+- [`record/claims.d/CLAIM-737.md:19`](../../record/claims.d/CLAIM-737.md)
+- [`record/claims.d/CLAIM-744.md:19`](../../record/claims.d/CLAIM-744.md)
+- [`record/claims.d/CLAIM-746.md:18`](../../record/claims.d/CLAIM-746.md)
+- [`record/decisions.d/ADR-072.md:35`](../../record/decisions.d/ADR-072.md)
+
 ### [CLAIM-306](../../record/claims.d/CLAIM-306.md) — Superseded
 
 Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
@@ -2948,9 +2984,9 @@ The wrong beyond violation that an organization commits by reproducing represent
 - [`record/claims.d/CLAIM-624.md:53`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-624.md:67`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-624.md:70`](../../record/claims.d/CLAIM-624.md)
-- [`record/claims.d/CLAIM-624.md:154`](../../record/claims.d/CLAIM-624.md)
-- [`record/claims.d/CLAIM-624.md:171`](../../record/claims.d/CLAIM-624.md)
-- [`record/claims.d/CLAIM-624.md:173`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-624.md:163`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-624.md:180`](../../record/claims.d/CLAIM-624.md)
+- [`record/claims.d/CLAIM-624.md:182`](../../record/claims.d/CLAIM-624.md)
 
 ### [ADR-088](../../record/decisions.d/ADR-088.md) — Proposed
 
@@ -4455,7 +4491,7 @@ Coercion
 - [`record/claims.d/CLAIM-701.md:12`](../../record/claims.d/CLAIM-701.md)
 - [`record/claims.d/CLAIM-703.md:12`](../../record/claims.d/CLAIM-703.md)
 - [`record/claims.d/CLAIM-708.md:32`](../../record/claims.d/CLAIM-708.md)
-- [`record/claims.d/CLAIM-708.md:316`](../../record/claims.d/CLAIM-708.md)
+- [`record/claims.d/CLAIM-708.md:325`](../../record/claims.d/CLAIM-708.md)
 - [`record/claims.d/CLAIM-709.md:44`](../../record/claims.d/CLAIM-709.md)
 - [`record/literature.d/LIT-2673.md:7`](../../record/literature.d/LIT-2673.md)
 - [`record/literature.d/LIT-2673.md:65`](../../record/literature.d/LIT-2673.md)
@@ -4833,10 +4869,10 @@ A far-from-equilibrium system that contributes to its own maintenance has functi
 - [`record/claims.d/CLAIM-288.md:37`](../../record/claims.d/CLAIM-288.md)
 - [`record/claims.d/CLAIM-288.md:38`](../../record/claims.d/CLAIM-288.md)
 - [`record/claims.d/CLAIM-363.md:28`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:81`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:134`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:135`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:196`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:89`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:142`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:143`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:204`](../../record/claims.d/CLAIM-363.md)
 - [`record/questions.d/QUESTION-128.md:38`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:97`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:128`](../../record/questions.d/QUESTION-128.md)
@@ -5967,9 +6003,9 @@ What an utterance does to the context it is used in is part of its meaning, and 
 
 - [`record/claims.d/CLAIM-115.md:149`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-363.md:19`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:142`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:192`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:194`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:150`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:200`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:202`](../../record/claims.d/CLAIM-363.md)
 - [`record/literature.d/LIT-838.md:107`](../../record/literature.d/LIT-838.md)
 - [`record/notes.d/NOTE-644.md:185`](../../record/notes.d/NOTE-644.md)
 
@@ -6646,9 +6682,9 @@ Asserting is undertaking a commitment that entitles others to reassert it and ca
 
 - [`record/claims.d/CLAIM-115.md:149`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-363.md:28`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:141`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:196`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:197`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:149`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:204`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:205`](../../record/claims.d/CLAIM-363.md)
 - [`record/literature.d/LIT-1667.md:63`](../../record/literature.d/LIT-1667.md)
 
 ### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
@@ -6874,7 +6910,7 @@ Concepts are individuated over time by the transmission criterion that governs o
 
 The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
 
-5 citations in 5 files await a look; 277 other citations of it are acknowledged.
+5 citations in 5 files await a look; 278 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -7189,8 +7225,8 @@ Institutional facts are status functions, imposed by collective acceptance on th
 5 citations in 3 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-363.md:28`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:143`](../../record/claims.d/CLAIM-363.md)
-- [`record/claims.d/CLAIM-363.md:196`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:151`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:204`](../../record/claims.d/CLAIM-363.md)
 - [`record/questions.d/QUESTION-360.md:59`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:96`](../../record/terms.d/TERM-098.md)
 
@@ -7348,7 +7384,7 @@ What survives translation is the set of communicative distinctions and relations
 4 citations in 4 files await a look; 213 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-169.md:141`](../../record/cases.d/CASE-169.md)
-- [`record/claims.d/CLAIM-363.md:85`](../../record/claims.d/CLAIM-363.md)
+- [`record/claims.d/CLAIM-363.md:93`](../../record/claims.d/CLAIM-363.md)
 - [`record/claims.d/CLAIM-450.md:18`](../../record/claims.d/CLAIM-450.md)
 - [`record/literature.d/LIT-1620.md:58`](../../record/literature.d/LIT-1620.md)
 
@@ -8556,7 +8592,7 @@ In a political collective, components that change at different speeds (attention
 
 3 citations in 2 files await a look; 50 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-462.md:146`](../../record/claims.d/CLAIM-462.md)
+- [`record/claims.d/CLAIM-462.md:155`](../../record/claims.d/CLAIM-462.md)
 - [`record/literature.d/LIT-2270.md:25`](../../record/literature.d/LIT-2270.md)
 - [`record/literature.d/LIT-2270.md:38`](../../record/literature.d/LIT-2270.md)
 
@@ -11673,7 +11709,7 @@ The Death of the Irreparable Injury Rule
 
 1 citation in 1 file awaits a look.
 
-- [`record/claims.d/CLAIM-464.md:156`](../../record/claims.d/CLAIM-464.md)
+- [`record/claims.d/CLAIM-464.md:165`](../../record/claims.d/CLAIM-464.md)
 
 ### [LIT-1611](../../record/literature.d/LIT-1611.md) — Unfetched
 
@@ -13159,7 +13195,7 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**6 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**5 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-016 — resolves to nothing (4 unmarked sites)
@@ -13168,10 +13204,6 @@ A reference the reader cannot follow: the code names no document in this record.
 - [`record/claims.d/CLAIM-476.md:331`](../../record/claims.d/CLAIM-476.md)
 - [`record/literature.d/LIT-1652.md:90`](../../record/literature.d/LIT-1652.md)
 - [`record/notes.d/NOTE-1231.md:355`](../../record/notes.d/NOTE-1231.md)
-
-### ADR-104 — resolves to nothing (1 unmarked site)
-
-- [`record/decisions.d/ADR-072.md:35`](../../record/decisions.d/ADR-072.md)
 
 ### DP-007 — resolves to nothing (1 unmarked site)
 

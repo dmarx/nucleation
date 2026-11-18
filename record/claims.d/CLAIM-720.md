@@ -26,7 +26,7 @@ history:
   date: '2026-11-18'
   note: >-
     Joins the work capability-restraint-relational-freedom
-    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §4 uses its proposition as a step:
     self-binding can restrict exercise, while the agent keeps legitimate
     authority over the arrangement's continuation. No other change.
