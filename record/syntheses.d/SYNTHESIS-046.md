@@ -106,8 +106,8 @@ modelling error.
 - [CLAIM-611](../claims.d/CLAIM-611.md), A's thesis corrected by the filer, thesis, interpretive,
   Proposed; first line distributed-agency; rests on [CLAIM-576](../claims.d/CLAIM-576.md) and
   [CLAIM-567](../claims.d/CLAIM-567.md) ([SYNTHESIS-042](SYNTHESIS-042.md)), [CLAIM-566](../claims.d/CLAIM-566.md) (the line's hinge) and [CLAIM-625](../claims.d/CLAIM-625.md), with
-  CLAIM-025 and CLAIM-478 (first in other lines, and in SYNTHESIS-042 since
-  2026-11-11) and CLAIM-079, CLAIM-522 and CLAIM-612 of other lines;
+  [CLAIM-025](../claims.d/CLAIM-025.md) and [CLAIM-478](../claims.d/CLAIM-478.md) (first in other lines, and in [SYNTHESIS-042](SYNTHESIS-042.md) since
+  2026-11-11) and [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-612](../claims.d/CLAIM-612.md) of other lines;
   complements [CLAIM-616](../claims.d/CLAIM-616.md).
 - [SYNTHESIS-003](SYNTHESIS-003.md) also carries the line. It is Superseded by [CLAIM-611](../claims.d/CLAIM-611.md) ([ADR-084](../decisions.d/ADR-084.md)), which
   is integrated here, and it is not integrated again.

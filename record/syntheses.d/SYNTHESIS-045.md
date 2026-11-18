@@ -113,11 +113,11 @@ how to predict it from the architecture. Its note of 2026-11-15 sets a
 critical nucleus, "productive because it is unstable", beside a
 topologically protected defect that may persist without catalyzing the
 target or may block it, so "Persistence and nucleating productivity come
-apart (CLAIM-595)". QUESTION-397 asks its route; its note of 2026-11-15
-takes a field-theoretic test, CASE-269 (A's proposed design; first line
+apart ([CLAIM-595](../claims.d/CLAIM-595.md))". [QUESTION-397](../questions.d/QUESTION-397.md) asks its route; its note of 2026-11-15
+takes a field-theoretic test, [CASE-269](../cases.d/CASE-269.md) (A's proposed design; first line
 distributed-agency), whose arm with the mediator disabled "separates
 'already possessing the nucleus' from the generative route, the head start
-that CLAIM-596 says yields cannot see". Both notes say "Not run". And
+that [CLAIM-596](../claims.d/CLAIM-596.md) says yields cannot see". Both notes say "Not run". And
 [QUESTION-400](../questions.d/QUESTION-400.md) (A's, Open): whether reallocating a fixed stock selects which
 form results. Five questions ask whether the DNA origami readings the part
 rests on reproduce: [QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-410](../questions.d/QUESTION-410.md), refined by [QUESTION-445](../questions.d/QUESTION-445.md),

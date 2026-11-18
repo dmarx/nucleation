@@ -156,18 +156,18 @@ sets these out.
 
 ## Admission
 
-Added at the synthesis review of 2026-11-18 (ADR-075, step 5), from the
+Added at the synthesis review of 2026-11-18 ([ADR-075](../decisions.d/ADR-075.md), step 5), from the
 realizability reader's finding at the review of 2026-11-11, recorded in
 its curation entry and left there as a follow-up.
 
-- **What it adds.** CLAIM-025 separates the capacity to transform an
+- **What it adds.** [CLAIM-025](CLAIM-025.md) separates the capacity to transform an
   organization from the organization. This claim says what that
   transformation must produce to count as self-formation: a maintained new
   distinction or channel that outlasts the discrepancy and transfers
   within its class.
 - **A separating case.** An agent whose capacity to transform only
-  reweights which of its existing processes govern (TERM-023's precedence).
-  CLAIM-025's capacity to transform is present, and no new distinction or
+  reweights which of its existing processes govern ([TERM-023](../terms.d/TERM-023.md)'s precedence).
+  [CLAIM-025](CLAIM-025.md)'s capacity to transform is present, and no new distinction or
   channel is produced, so the premises hold and this claim's account does
   not apply.
 - **What the case also shows.** It is the case named in the second clause
