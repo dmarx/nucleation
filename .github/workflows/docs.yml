@@ -47,11 +47,21 @@ on:
 # On a pull request, a newer push cancels the run it overtakes (ADR-054).
 # docs-check's repair rebases onto the branch before pushing, so an older
 # run would pull in the newer push's unrepaired commits and lint them red;
-# the newer run repairs them anyway. Every other run gets a group of its
-# own, so nothing on the default branch is cancelled or held back: a shared
-# group would drop a queued run there even without cancel-in-progress.
+# the newer run repairs them anyway.
+#
+# On a push to the default branch, runs wait for each other and are never
+# cancelled (the record's decision of 2026-11-18 on serializing them). Two
+# merges a few minutes apart used to start two generate runs at once: the
+# first committed views that no longer matched the sources the second
+# merge had added, and failed `index --check`; the second could not rebase
+# its view commit onto the first's.
+# One group for pushes runs them one at a time. A group holds a single
+# pending run, so a third push replaces the one waiting; that is harmless,
+# because docs-generate checks out the branch, not the triggering commit,
+# and the run that does start regenerates everything merged before it.
+# Scheduled and manual runs keep a group of their own.
 concurrency:
-  group: ${{ github.event_name == 'pull_request' && format('docs-pr-{0}', github.head_ref) || format('docs-run-{0}', github.run_id) }}
+  group: ${{ github.event_name == 'pull_request' && format('docs-pr-{0}', github.head_ref) || github.event_name == 'push' && 'docs-main' || format('docs-run-{0}', github.run_id) }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
