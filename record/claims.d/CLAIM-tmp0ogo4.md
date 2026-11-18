@@ -108,14 +108,14 @@ rise.
 
 ## Admission
 
-Found at the synthesis review of 2026-11-17 (SYNTHESIS-tmphd6ep, Arm A),
-under ADR-075's test for a claim whose premises are claims.
+Found at the synthesis review of 2026-11-17 ([SYNTHESIS-tmphd6ep](../syntheses.d/SYNTHESIS-tmphd6ep.md), Arm A),
+under [ADR-075](../decisions.d/ADR-075.md)'s test for a claim whose premises are claims.
 
 **What it adds.** Unpaid extra work that keeps measured performance
 acceptable is invisible to a budget rule set on that performance, so the
 rule removes capacity that is in use. None of its premises states this.
-CLAIM-577's rule is peak spending, which never rises and cuts nothing by
-itself; CLAIM-549 is about intervention thresholds; CLAIM-tmpe5u7i writes
+[CLAIM-577](CLAIM-577.md)'s rule is peak spending, which never rises and cuts nothing by
+itself; [CLAIM-549](CLAIM-549.md) is about intervention thresholds; [CLAIM-tmpe5u7i](CLAIM-tmpe5u7i.md) writes
 no budget rule. The body above says the same ("The link that is not
 held").
 
