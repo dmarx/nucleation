@@ -28,6 +28,7 @@ rests_on:
 bears_on:
 - QUESTION-449
 - QUESTION-071
+- QUESTION-470
 uses:
 - TERM-tmp8pnnr
 - TERM-100
@@ -42,7 +43,9 @@ summary: >-
   the bearing is A's. The idea is the owner's; the label and the
   development are A's.
 ---
-<!-- inactive-ok-file: CASE-tmpolqas CLAIM-tmp0wx69 CLAIM-tmp4o53g CLAIM-tmpa2l21 CLAIM-tmpsk25g — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CASE-tmpolqas CLAIM-tmp0wx69 CLAIM-tmp4o53g CLAIM-tmpsk25g — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-122 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmpixmhp: Blame supplies provenance: responsibility for a harmful act and responsibility for producing the incapacity through which it was done can come apart and attach to different actors, so blame traced upstream to those who formed or maintained an agent's incapacity grounds holding them accountable where the agent who acted is not culpable
@@ -106,7 +109,7 @@ process keeps it).
 - **[CLAIM-tmp0wx69](CLAIM-tmp0wx69.md)** (A110 §7) applies the claim to one actor across time:
   the incapacity that excuses a present decision can be the product of the
   same actor's earlier wrong.
-- **[CLAIM-tmpa2l21](CLAIM-tmpa2l21.md)** (from A9 earlier in the exchange) holds second-order
+- **[CLAIM-708](CLAIM-708.md)** (from A9 earlier in the exchange) holds second-order
   wrongdoing: structuring another's circumstances so that they commit the
   first-order wrong is itself a wrong. That is the upstream wrong of an
   arranger who pressures a competent agent. This claim covers the upstream
@@ -120,6 +123,13 @@ process keeps it).
   the history is where the blame goes.
 - **[CASE-tmpolqas](../cases.d/CASE-tmpolqas.md)** (A110 §11 Case A) is the matched test: identical harm
   and frontline knowledge, different histories of the incapacity.
+- **[QUESTION-470](../questions.d/QUESTION-470.md)**, from the first share of the same exchange,
+  asks when an organization's duty of repair survives the absence of
+  blame among the agents who contributed. This claim bears on it from one
+  side: where the agent who acted is not culpable, blame traced upstream to
+  those who formed or maintained its incapacity can still ground holding
+  them accountable, so the absence of blame at the point of action is not
+  its absence everywhere.
 
 ## What it does not say
 

@@ -40,9 +40,9 @@ summary: >-
   history by Rindzevičiūtė on reflexive control as an effort to make
   adversarial decision-making predictable. It bears on the record's
   reflexive-control thread, [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and on
-  [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). What the exchange says of it is unverified until read.
+  [CLAIM-703](../claims.d/CLAIM-703.md). What the exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: CLAIM-tmp76x3e — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-703 — filed now from the same exchange, temporary codes, Proposed or Open -->
 <!-- inactive-ok-file: LIT-1339 — Unavailable; cited with its standing -->
 
 # LIT-tmpv05gu: The Will to Predict: Orchestrating the Future through Science
@@ -55,4 +55,4 @@ Eglė Rindzevičiūtė (2023). *The Will to Predict: Orchestrating the Future th
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A11 as A cites a 2023 intellectual history by Rindzevičiūtė on reflexive control as an effort to make adversarial decision-making predictable. It bears on the record's reflexive-control thread, [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A11 as A cites a 2023 intellectual history by Rindzevičiūtė on reflexive control as an effort to make adversarial decision-making predictable. It bears on the record's reflexive-control thread, [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and on [CLAIM-703](../claims.d/CLAIM-703.md). Not read.

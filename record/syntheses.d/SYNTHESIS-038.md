@@ -70,7 +70,7 @@ history:
     first and ARG-tmptw59w to the second), and the account says so. As
     version 5 did for three entries, it integrates directly the six
     entries of this line mapped only by dependence-and-domination's new
-    part accounts: CLAIM-tmpa0wdv, CLAIM-tmpe5u7i, CLAIM-tmpmeabu,
+    part accounts: CLAIM-tmpa0wdv, CLAIM-713, CLAIM-tmpmeabu,
     CLAIM-tmpnhesz, QUESTION-tmp9oq97 and QUESTION-tmpea19q. Title,
     summary and body are rewritten over four parts; how the parts relate
     is counted with `scratch/formal/line_parts.py`, and by ADR-083's
@@ -100,7 +100,7 @@ integrates:
 - QUESTION-468
 - CLAIM-685
 - CLAIM-tmpa0wdv
-- CLAIM-tmpe5u7i
+- CLAIM-713
 - CLAIM-tmpmeabu
 - QUESTION-tmp9oq97
 - CLAIM-tmpnhesz
@@ -146,7 +146,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-247 CLAIM-656 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-648 CLAIM-657 CLAIM-682 CLAIM-685 CLAIM-687 TERM-122 TERM-123 TERM-124 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-tmpoodbq SYNTHESIS-tmpzqep9 SYNTHESIS-tmphd6ep SYNTHESIS-tmpogcmo SYNTHESIS-tmp4fiqm SYNTHESIS-tmpsodpa — filed at the interim synthesis review of 2026-11-17, Proposed -->
-<!-- inactive-ok-file: CLAIM-tmp613ja CLAIM-tmpx1g4r ARG-tmptw59w CLAIM-tmpnb4v4 CLAIM-tmpc7shc CLAIM-tmpw7pli CASE-tmpoe934 CLAIM-tmpol7nz CASE-tmpaasso CLAIM-tmpssfc1 CLAIM-tmp6vck6 CASE-tmpgp2qo CLAIM-tmplidg6 CLAIM-tmpes6ef CASE-tmp9vd9x CLAIM-tmpsk25g TERM-tmp8pnnr CLAIM-tmpixmhp CLAIM-tmp0wx69 CLAIM-tmp4o53g CASE-tmpolqas CASE-tmpd0hyp CLAIM-tmp69o4u TERM-tmphum9r CLAIM-tmpa0wdv CLAIM-tmpe5u7i CLAIM-tmpmeabu CLAIM-tmpnhesz CLAIM-tmpazi8a CLAIM-tmpcpijj CLAIM-tmpohafo CLAIM-tmpb47ul CLAIM-tmpa2l21 CLAIM-tmp3t16f CLAIM-tmpyo35b — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmp613ja CLAIM-tmpx1g4r ARG-tmptw59w CLAIM-tmpnb4v4 CLAIM-tmpc7shc CLAIM-tmpw7pli CASE-tmpoe934 CLAIM-tmpol7nz CASE-tmpaasso CLAIM-tmpssfc1 CLAIM-tmp6vck6 CASE-tmpgp2qo CLAIM-tmplidg6 CLAIM-tmpes6ef CASE-tmp9vd9x CLAIM-tmpsk25g TERM-tmp8pnnr CLAIM-tmpixmhp CLAIM-tmp0wx69 CLAIM-tmp4o53g CASE-tmpolqas CASE-tmpd0hyp CLAIM-tmp69o4u TERM-tmphum9r CLAIM-tmpa0wdv CLAIM-713 CLAIM-tmpmeabu CLAIM-tmpnhesz CLAIM-tmpazi8a CLAIM-tmpcpijj CLAIM-tmpohafo CLAIM-707 CLAIM-708 CLAIM-tmp3t16f CLAIM-tmpyo35b — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: ADR-082 — Proposed; the first decision splitting a line, cited for where a split is decided -->
 
 # SYNTHESIS-038: The organizational-normativity line is four accounts that meet at its root questions and the older parts' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, and what those who govern, restrict or answer for an arrangement owe, are the line dependence-and-domination, whose entries that carry this line second are integrated here; the line makes no claim beyond its parts
@@ -231,7 +231,7 @@ to do:
 - **[CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md)** (A's; first line organizational-normativity; in
   [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)): making a remedy unreachable gains a wrongdoer no
   normative power over what is owed. It rests on [CLAIM-464](../claims.d/CLAIM-464.md).
-- **[CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)** (A's; in [SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md)): the moral subsidy, an
+- **[CLAIM-713](../claims.d/CLAIM-713.md)** (A's; in [SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md)): the moral subsidy, an
   arrangement carried by its members' commitments.
 - **[CLAIM-tmpmeabu](../claims.d/CLAIM-tmpmeabu.md)** (A's; in [SYNTHESIS-tmpogcmo](SYNTHESIS-tmpogcmo.md)): the grounds of a
   restriction and the authority to impose it are separate conclusions.
@@ -285,8 +285,8 @@ unless a body is cited.
   [QUESTION-468](../questions.d/QUESTION-468.md) name [CLAIM-624](../claims.d/CLAIM-624.md) as a candidate standard of answerability.
 - **Across to dependence-and-domination, from its new parts.**
   [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md), [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) and [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) complement [CLAIM-624](../claims.d/CLAIM-624.md),
-  and [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) rests on it; [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s body names [CLAIM-624](../claims.d/CLAIM-624.md)
-  as unmet when blame lands downstream; [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) bears on
+  and [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) rests on it; [CLAIM-707](../claims.d/CLAIM-707.md)'s body names [CLAIM-624](../claims.d/CLAIM-624.md)
+  as unmet when blame lands downstream; [CLAIM-708](../claims.d/CLAIM-708.md) bears on
   [QUESTION-449](../questions.d/QUESTION-449.md); [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) bears on [QUESTION-441](../questions.d/QUESTION-441.md); [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md) and
   [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) complement [CLAIM-619](../claims.d/CLAIM-619.md); [CLAIM-tmpmeabu](../claims.d/CLAIM-tmpmeabu.md) complements
   [CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md); [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md) complements [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) and

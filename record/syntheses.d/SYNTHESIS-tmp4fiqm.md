@@ -27,7 +27,7 @@ integrates:
 - CASE-tmphljcr
 - CLAIM-tmpbqunx
 - QUESTION-tmpcz1ui
-- CLAIM-tmp11xvc
+- CLAIM-710
 - CLAIM-tmph28l6
 - CLAIM-tmpgh3v2
 - CASE-tmpdn372
@@ -52,13 +52,13 @@ summary: >-
   owner's U28 is siege ([CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md)), demonstrated on A's rechecked
   constructions ([CASE-tmphljcr](../cases.d/CASE-tmphljcr.md)) and measured by A's robust correctability
   ([CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md)); whether its use is wrong is [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md). The
-  owner's U11 on friction ([CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md)) has two developments of A's
+  owner's U11 on friction ([CLAIM-710](../claims.d/CLAIM-710.md)) has two developments of A's
   ([CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md), [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)) and a proposed study ([CASE-tmpdn372](../cases.d/CASE-tmpdn372.md)).
   A's [CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md) makes the baseline of assessment endogenous. Every
   claim is Proposed. The account adds nothing of its own; its standing is
   its components'.
 ---
-<!-- inactive-ok-file: CLAIM-tmpazi8a CLAIM-tmpl0sgt CLAIM-tmp3t16f CLAIM-tmpa0wdv CLAIM-tmpyo35b CLAIM-tmpbqunx CLAIM-tmp11xvc CLAIM-tmph28l6 CLAIM-tmpgh3v2 CLAIM-tmpyn6oi CASE-tmphljcr CASE-tmpdn372 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpazi8a CLAIM-tmpl0sgt CLAIM-tmp3t16f CLAIM-tmpa0wdv CLAIM-tmpyo35b CLAIM-tmpbqunx CLAIM-710 CLAIM-tmph28l6 CLAIM-tmpgh3v2 CLAIM-tmpyn6oi CASE-tmphljcr CASE-tmpdn372 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-tmpdic1g CLAIM-tmp6vck6 CLAIM-tmpssfc1 CLAIM-tmpcpijj CLAIM-tmpohafo CLAIM-tmp238zy SYNTHESIS-tmpsodpa — filed from the same exchange or at the same review, Proposed or Open; cited, not integrated -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-619 CLAIM-478 CLAIM-423 CLAIM-670 TERM-124 SYNTHESIS-095 ADR-075 — Proposed; cited as on the record, with their standing -->
 <!-- inactive-ok-file: LIT-1592 — Unfetched; the reading QUESTION-tmp14i7s names first -->
@@ -165,14 +165,14 @@ definition moves the question into a counterfactual course "which must
 itself be defended", and lists [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) (in [SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)) as what an answer denying the party such
 authority "would rest on".
 
-**Friction.** [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (the owner's, U11, with A21's scope; thesis,
+**Friction.** [CLAIM-710](../claims.d/CLAIM-710.md) (the owner's, U11, with A21's scope; thesis,
 interpretive, Proposed; lines will-organization and distributed-agency)
 rests on [CLAIM-523](../claims.d/CLAIM-523.md): procedural friction exposes, and may characterize, the
 opportunities for intervention, so reducing it can remove them. Its body
 lists [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md), [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md), [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md), [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and
 [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) as developed from it. [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) (A's, A23 §2, at the
 owner's U12; thesis, interpretive, Proposed) rests on [CLAIM-462](../claims.d/CLAIM-462.md) and
-[CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) and uses [TERM-124](../terms.d/TERM-124.md): the cost of imposing a decision and the
+[CLAIM-710](../claims.d/CLAIM-710.md) and uses [TERM-124](../terms.d/TERM-124.md): the cost of imposing a decision and the
 cost of contesting it are separate, so an institution can lower the first
 and gain power with no change in its formal authority. [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)
 (A's, A33 §4 and §8; supposed, interpretive, Proposed) rests on [CLAIM-478](../claims.d/CLAIM-478.md)
@@ -182,7 +182,7 @@ to revision on demand, keep the fast process accountable instead. Its body
 calls [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) "the same asymmetry stated as cost". [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md)
 (A's proposed study, A33 §10 C; stipulated, proposed-study, Proposed) is a
 variant of [CASE-003](../cases.d/CASE-003.md), illustrates [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md), [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and
-[CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md), and bears on [QUESTION-278](../questions.d/QUESTION-278.md): the same overseer, a slow and a
+[CLAIM-710](../claims.d/CLAIM-710.md), and bears on [QUESTION-278](../questions.d/QUESTION-278.md): the same overseer, a slow and a
 fast acting institution, then precommitted limits, automatic suspension and
 pauses. Its body says it could support [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)'s second clause over
 its first, and its summary calls it a test of [CLAIM-464](../claims.d/CLAIM-464.md) and [CLAIM-462](../claims.d/CLAIM-462.md). It
@@ -209,7 +209,7 @@ point about assessment".
 - [CASE-tmphljcr](../cases.d/CASE-tmphljcr.md), A's constructions, rechecked and corrected by the filer; fictional, Proposed; also distributed-agency.
 - [CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md), A's; thesis, interpretive, Proposed; first line realizability.
 - [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md), A's, Open.
-- [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md), the owner's; thesis, interpretive, Proposed; lines will-organization and distributed-agency.
+- [CLAIM-710](../claims.d/CLAIM-710.md), the owner's; thesis, interpretive, Proposed; lines will-organization and distributed-agency.
 - [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md), A's; thesis, interpretive, Proposed; first line distributed-agency.
 - [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md), A's; supposed, interpretive, Proposed; first line distributed-agency.
 - [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md), A's proposed study; stipulated, Proposed; first line distributed-agency.
@@ -231,16 +231,16 @@ cited.
   to [CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md). [CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md) complements [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) and bears on
   [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md).
 - [QUESTION-tmp14i7s](../questions.d/QUESTION-tmp14i7s.md)'s body names [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md) and [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md).
-- [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) rests on [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md). [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) illustrates
-  [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md), [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md). [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)'s body
-  names [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) and [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md).
+- [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) rests on [CLAIM-710](../claims.d/CLAIM-710.md). [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) illustrates
+  [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md), [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and [CLAIM-710](../claims.d/CLAIM-710.md). [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)'s body
+  names [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) and [CLAIM-710](../claims.d/CLAIM-710.md).
 - Out of the part: [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md), [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md), [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md) and
   [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) complement [CLAIM-464](../claims.d/CLAIM-464.md), and [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md) and
   [CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md) rest on it; [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md) complements [CLAIM-624](../claims.d/CLAIM-624.md);
   [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md) and [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) complement [CLAIM-619](../claims.d/CLAIM-619.md); [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md)
   refines [QUESTION-tmp9oq97](../questions.d/QUESTION-tmp9oq97.md), on which [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md) and [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md)
   bear; [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) bears on [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md); [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) rests on
-  [CLAIM-462](../claims.d/CLAIM-462.md); [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) on [CLAIM-478](../claims.d/CLAIM-478.md) and [CLAIM-423](../claims.d/CLAIM-423.md); [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) on
+  [CLAIM-462](../claims.d/CLAIM-462.md); [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) on [CLAIM-478](../claims.d/CLAIM-478.md) and [CLAIM-423](../claims.d/CLAIM-423.md); [CLAIM-710](../claims.d/CLAIM-710.md) on
   [CLAIM-523](../claims.d/CLAIM-523.md); [CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md) on [CLAIM-670](../claims.d/CLAIM-670.md); [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) is a variant of
   [CASE-003](../cases.d/CASE-003.md) and bears on [QUESTION-278](../questions.d/QUESTION-278.md).
 
@@ -294,7 +294,7 @@ cited.
   content is A55 §8 in [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md)'s body and [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md)'s third
   part. The missing cross-reference is listed above.
 - **Speed alone separates action from correction** ([CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md),
-  [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md), [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md), [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md)). Route: a discriminating
+  [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md), [CLAIM-710](../claims.d/CLAIM-710.md), [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md)). Route: a discriminating
   prediction. Verdict: already stated, as [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md)'s prediction, and
   untested. Nothing filed.
 

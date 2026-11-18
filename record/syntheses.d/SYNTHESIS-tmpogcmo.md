@@ -48,7 +48,7 @@ summary: >-
   own; its standing is its components'.
 ---
 <!-- inactive-ok-file: CLAIM-tmpmeabu TERM-tmprcm2c CLAIM-tmp8wki5 CLAIM-tmpm95mo CLAIM-tmpt091d CLAIM-tmpdic1g CASE-tmp07hx9 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or new -->
-<!-- inactive-ok-file: CLAIM-tmpx1g4r CLAIM-tmpcpijj CLAIM-tmp3t16f CLAIM-tmpl0sgt CLAIM-tmp0wx69 CLAIM-tmp613ja CLAIM-tmpciy9q CLAIM-tmp0ogo4 CASE-tmpm0rpn — filed from the same exchange, Proposed or new; cited where a component cites them -->
+<!-- inactive-ok-file: CLAIM-tmpx1g4r CLAIM-tmpcpijj CLAIM-tmp3t16f CLAIM-tmpl0sgt CLAIM-tmp0wx69 CLAIM-tmp613ja CLAIM-tmpciy9q CLAIM-700 CASE-tmpm0rpn — filed from the same exchange, Proposed or new; cited where a component cites them -->
 <!-- inactive-ok-file: TERM-124 TERM-120 TERM-110 CLAIM-680 CLAIM-682 CLAIM-684 CLAIM-688 CLAIM-673 CLAIM-675 CLAIM-686 CLAIM-690 CLAIM-364 CLAIM-678 — Proposed; entries the components rest on or cite, with their standing -->
 
 # SYNTHESIS-tmpogcmo: Restricting capabilities, and who controls the terms of waiting and contracting: the grounds of a restriction are kept apart from the authority to impose it, a capability is decomposed into what a restriction can reach, a restriction justified by incompetence can produce the incompetence, an opposition can be free as an actor while another holds its efficacy, and control over a deferred reward or over what a contract left open is control over the other party's terms
@@ -182,7 +182,7 @@ cited.
   [CLAIM-344](../claims.d/CLAIM-344.md). [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md) refines [QUESTION-tmp9oq97](../questions.d/QUESTION-tmp9oq97.md), and
   [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md) and [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md) bear on it. [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md),
   [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md) and [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md) use [TERM-124](../terms.d/TERM-124.md). From Part A,
-  [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)'s and [CLAIM-tmp0ogo4](../claims.d/CLAIM-tmp0ogo4.md)'s bodies name [CLAIM-tmp8wki5](../claims.d/CLAIM-tmp8wki5.md) as the
+  [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)'s and [CLAIM-700](../claims.d/CLAIM-700.md)'s bodies name [CLAIM-tmp8wki5](../claims.d/CLAIM-tmp8wki5.md) as the
   same shape, and [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)'s body names [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md).
 
 ## Not stated on the record

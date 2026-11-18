@@ -62,7 +62,7 @@ summary: >-
   its standing is its components'.
 ---
 <!-- inactive-ok-file: SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 SYNTHESIS-095 SYNTHESIS-tmp4fiqm SYNTHESIS-tmphd6ep SYNTHESIS-tmpogcmo SYNTHESIS-tmpoodbq SYNTHESIS-tmpsodpa SYNTHESIS-tmpzqep9 — Proposed; the part accounts this account is built over, and the line accounts and older parts it cites -->
-<!-- inactive-ok-file: ARG-tmptw59w CASE-tmp9vd9x CASE-tmpd0hyp CASE-tmpdn372 CASE-tmpoe934 CASE-tmpohiyo CASE-tmpolqas CLAIM-tmp0ogo4 CLAIM-tmp0wx69 CLAIM-tmp11xvc CLAIM-tmp238zy CLAIM-tmp3t16f CLAIM-tmp4o53g CLAIM-tmp613ja CLAIM-tmp69o4u CLAIM-tmp6vck6 CLAIM-tmp76x3e CLAIM-tmp8wki5 CLAIM-tmpa0wdv CLAIM-tmpa2l21 CLAIM-tmpazi8a CLAIM-tmpb47ul CLAIM-tmpbqunx CLAIM-tmpc7shc CLAIM-tmpciy9q CLAIM-tmpcpijj CLAIM-tmpdic1g CLAIM-tmpe5u7i CLAIM-tmpes6ef CLAIM-tmpgh3v2 CLAIM-tmph28l6 CLAIM-tmpi68s2 CLAIM-tmpixmhp CLAIM-tmpl0sgt CLAIM-tmplidg6 CLAIM-tmpm95mo CLAIM-tmpmeabu CLAIM-tmpnb4v4 CLAIM-tmpnhesz CLAIM-tmpohafo CLAIM-tmpol7nz CLAIM-tmpsk25g CLAIM-tmpssfc1 CLAIM-tmpt091d CLAIM-tmpw7pli CLAIM-tmpx1g4r CLAIM-tmpyn6oi CLAIM-tmpyo35b CLAIM-tmpyqfrf TERM-tmp4zjar TERM-tmp8pnnr TERM-tmphum9r TERM-tmprcm2c TERM-tmpsit04 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: ARG-tmptw59w CASE-tmp9vd9x CASE-tmpd0hyp CASE-tmpdn372 CASE-tmpoe934 CASE-tmpohiyo CASE-tmpolqas CLAIM-700 CLAIM-tmp0wx69 CLAIM-710 CLAIM-tmp238zy CLAIM-tmp3t16f CLAIM-tmp4o53g CLAIM-tmp613ja CLAIM-tmp69o4u CLAIM-tmp6vck6 CLAIM-703 CLAIM-tmp8wki5 CLAIM-tmpa0wdv CLAIM-708 CLAIM-tmpazi8a CLAIM-707 CLAIM-tmpbqunx CLAIM-tmpc7shc CLAIM-tmpciy9q CLAIM-tmpcpijj CLAIM-tmpdic1g CLAIM-713 CLAIM-tmpes6ef CLAIM-tmpgh3v2 CLAIM-tmph28l6 CLAIM-tmpi68s2 CLAIM-tmpixmhp CLAIM-tmpl0sgt CLAIM-tmplidg6 CLAIM-tmpm95mo CLAIM-tmpmeabu CLAIM-tmpnb4v4 CLAIM-tmpnhesz CLAIM-tmpohafo CLAIM-tmpol7nz CLAIM-tmpsk25g CLAIM-tmpssfc1 CLAIM-tmpt091d CLAIM-tmpw7pli CLAIM-tmpx1g4r CLAIM-tmpyn6oi CLAIM-tmpyo35b CLAIM-tmpyqfrf TERM-tmp4zjar TERM-tmp8pnnr TERM-tmphum9r TERM-tmprcm2c TERM-tmpsit04 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: ADR-075 CLAIM-545 CLAIM-553 CLAIM-619 CLAIM-624 CLAIM-670 CLAIM-682 CLAIM-684 CLAIM-687 TERM-083 TERM-124 — Proposed; held entries the thesis's components map to, and the test cited, with their standing -->
 
 # SYNTHESIS-tmpnj844: The argument filed from the exchange Assess Depp Heard Abuse, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through ten syntheses of A's, each prompted by an owner's turn
@@ -80,7 +80,7 @@ summary: >-
   and the owner's associations of U23 and U24.
 - **[SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)** (dependence-and-domination and
   distributed-agency): remedies foreclosed before review. The owner's
-  [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md) (U27), [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) (U28), [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (U11) and the
+  [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md) (U27), [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) (U28), [CLAIM-710](../claims.d/CLAIM-710.md) (U11) and the
   connection of U26 ([CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md)), with A's claims around them.
 - **[SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)** (dependence-and-domination): answerability and
   contestability. On the owner's [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md) (U36), with A's answer
@@ -175,7 +175,7 @@ Component by component, each with the entry that states it:
    [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md) and [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), with A's [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md),
    [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md) and [CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md) ([SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)); and the
    conditions of another's agency used for control, A's [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md),
-   [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md), [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) and [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) ([SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md)).
+   [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-707](../claims.d/CLAIM-707.md) ([SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md)).
 6. **The baseline against which terms are judged can be the
    relationship's own product, and justified rights organize later
    justification** (A106 §9 and §19). A's [CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md)
@@ -248,12 +248,12 @@ attribution findings are the curation entry's and its ledgers'.
   through "control over the conditions under which others perceive
   options, form judgments, incur obligations, and make consequential
   choices".
-- **Added**: first- and second-order responsibility (A's [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md));
+- **Added**: first- and second-order responsibility (A's [CLAIM-708](../claims.d/CLAIM-708.md));
   reflexive control and manufactured culpability (A's [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md);
   [CLAIM-404](../claims.d/CLAIM-404.md) held the owner's earlier statement); moral commitments as
-  resources (A's [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) and [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)); asymmetric moral
-  accountability (A's [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)); friction (the owner's
-  [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md), A's [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md)); time and faits accomplis (held:
+  resources (A's [CLAIM-703](../claims.d/CLAIM-703.md) and [CLAIM-713](../claims.d/CLAIM-713.md)); asymmetric moral
+  accountability (A's [CLAIM-707](../claims.d/CLAIM-707.md)); friction (the owner's
+  [CLAIM-710](../claims.d/CLAIM-710.md), A's [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md)); time and faits accomplis (held:
   [CLAIM-464](../claims.d/CLAIM-464.md), [CASE-170](../cases.d/CASE-170.md)). The thesis box is a conjunction of these; the
   ledger's verdict is "mostly recap".
 - **Dropped**: the owner's U1 case; A23's three rights (later
@@ -282,12 +282,12 @@ attribution findings are the curation entry's and its ledgers'.
 - **Added**: the crosswalk to held codes ([CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-404](../claims.d/CLAIM-404.md),
   [CLAIM-462](../claims.d/CLAIM-462.md), [CLAIM-545](../claims.d/CLAIM-545.md), [CLAIM-682](../claims.d/CLAIM-682.md), [CLAIM-684](../claims.d/CLAIM-684.md), [CLAIM-687](../claims.d/CLAIM-687.md)); the name
   "normative governability" (A30 §10: "I think the strongest intersection
-  can be expressed as a theory of"), later [TERM-tmphum9r](../terms.d/TERM-tmphum9r.md); [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md),
-  raised from A30 §4; from A33, A's [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and [CLAIM-tmp0ogo4](../claims.d/CLAIM-tmp0ogo4.md) and
+  can be expressed as a theory of"), later [TERM-tmphum9r](../terms.d/TERM-tmphum9r.md); [QUESTION-472](../questions.d/QUESTION-472.md),
+  raised from A30 §4; from A33, A's [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and [CLAIM-700](../claims.d/CLAIM-700.md) and
   the studies [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md) and [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md).
 - **Dropped**: A30 misses [CLAIM-464](../claims.d/CLAIM-464.md) and [CASE-170](../cases.d/CASE-170.md), which already hold what
   its §8 D offers as a possible new claim. A33 misstates [CLAIM-577](../claims.d/CLAIM-577.md)'s
-  budget rule (corrected in [CLAIM-tmp0ogo4](../claims.d/CLAIM-tmp0ogo4.md)).
+  budget rule (corrected in [CLAIM-700](../claims.d/CLAIM-700.md)).
 - **Attribution**: A30 does not say that [CLAIM-404](../claims.d/CLAIM-404.md) is the owner's, so it
   matches the owner's U6 to the owner's own earlier statement. It
   presents the overlap as discovery ("I think there's a substantial

@@ -6,7 +6,7 @@
 
 **Flourishing and meaning in life** — what makes a life go well for the one living it and what makes it meaningful — meaning in life as subjective attraction to what is objectively worthwhile (Wolf), capability and agency freedom against functionings achieved and well-being freedom (Sen), basic needs against what only raises reported well-being, self-realization and its distortions when a life is organized around a proxy for its good, and how arrangements and technologies widen or narrow the lives open to people. Whose a will is stays with authenticity, what organizes efficacy with will-organization, judging an organization with organizational-normativity, and a whole's success against its members' good with distributed-agency (ADR-099).
 
-9 of 694 CLAIM documents. Back to the [full index](../README.md).
+9 of 713 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

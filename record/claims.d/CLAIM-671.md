@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwn3wr
 title: 'Where an organizational transformation increases a constituent''s vulnerability to the discretionary choices of a responsible agent, and that vulnerability grounds special obligations under an independently justified principle, the transformation can strengthen that agent''s responsibilities toward the constituent'
-version: 6
+version: 8
 history:
 - version: 2
   date: '2026-11-12'
@@ -52,6 +52,14 @@ history:
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
 - version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tessman (LIT-2702) read on 2026-11-16, NOTE-2002. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Keller (LIT-2670) read on 2026-11-16, NOTE-2005. No change of status or title.
+- version: 8
   date: '2026-11-17'
   note: >-
     A dated note: A71 §2 of the exchange "Assess Depp Heard Abuse"
@@ -268,6 +276,24 @@ exposure to unaccountable discretionary power, destroys capabilities
 people have reason to retain, or removes appropriate means of protection
 and redress", joins this claim's mechanism to [CLAIM-428](CLAIM-428.md) and
 [CLAIM-675](CLAIM-675.md). Not filed. No change.
+
+## Note of 2026-11-16: Tessman, read
+
+Tessman reports Kittay's view that "a vulnerability-responsive moral requirement simply does not arise
+in cases where the moral agent has been coerced into being in a position where someone is dependent on
+her", and contests it where the dependent is an innocent third party (pp. 12-15). For the claim's
+principle (vulnerability grounding special obligations), this marks a further condition: who placed
+the agent in the position, and whether the dependent is that party. Relation: none (note only).
+
+## Note of 2026-11-16: Keller, read
+
+Keller gives a person-level case of the claim's antecedent from a different account than Goodin's:
+fiduciary relationships, with "special power over the beneficiary", tend "naturally and predictably to
+lead to circumstances under which the fiduciary has a special moral relationship with the
+beneficiary" (p. 17), whose obligations "can require acts that the fiduciary obligations do not
+require" and "can outlast the fiduciary obligations". It shows such obligations arising from roles and
+power, not from consent. It says nothing of organizational transformation, so the consequent is not
+touched. Relation: none (note only).
 
 ## Note of 2026-11-17: responsibility can grow without authority, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: TERM-124 — Proposed -->

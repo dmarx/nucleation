@@ -38,13 +38,13 @@ summary: >-
   and the Family* 57(2): 283–294. DOI 10.2307/353683. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as the origin of
   the typology A uses to separate violence from coercive control in
-  assessing the Depp–Heard relationship. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)
+  assessing the Depp–Heard relationship. It bears on [CLAIM-709](../claims.d/CLAIM-709.md)
   (equality of wrongdoing and equality of power are separate questions)
-  and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). Johnson's 2008 book, the source of A's four-type
+  and [CASE-279](../cases.d/CASE-279.md). Johnson's 2008 book, the source of A's four-type
   table, is registered beside it. What the exchange says of it is
   unverified until read.
 ---
-<!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CASE-279 CLAIM-709 — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmpozb57: Patriarchal Terrorism and Common Couple Violence: Two Forms of Violence against Women
 
@@ -56,4 +56,4 @@ Michael P. Johnson (1995). Patriarchal Terrorism and Common Couple Violence: Two
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A3 as the origin of the typology A uses to separate violence from coercive control in assessing the Depp–Heard relationship. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) (equality of wrongdoing and equality of power are separate questions) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). Johnson's 2008 book, the source of A's four-type table, is registered beside it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A3 as the origin of the typology A uses to separate violence from coercive control in assessing the Depp–Heard relationship. It bears on [CLAIM-709](../claims.d/CLAIM-709.md) (equality of wrongdoing and equality of power are separate questions) and [CASE-279](../cases.d/CASE-279.md). Johnson's 2008 book, the source of A's four-type table, is registered beside it. Not read.

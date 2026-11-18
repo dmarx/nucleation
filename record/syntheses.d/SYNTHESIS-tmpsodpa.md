@@ -48,7 +48,7 @@ summary: >-
   components'.
 ---
 <!-- inactive-ok-file: TERM-tmp4zjar TERM-tmpsit04 CLAIM-tmpnhesz CLAIM-tmpcpijj CLAIM-tmpi68s2 CLAIM-tmpyqfrf CLAIM-tmpohafo — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
-<!-- inactive-ok-file: CLAIM-tmpbqunx CLAIM-tmpx1g4r CLAIM-tmp11xvc CLAIM-tmpyo35b SYNTHESIS-tmp4fiqm — filed from the same exchange or at the same review, Proposed or Open; cited, not integrated -->
+<!-- inactive-ok-file: CLAIM-tmpbqunx CLAIM-tmpx1g4r CLAIM-710 CLAIM-tmpyo35b SYNTHESIS-tmp4fiqm — filed from the same exchange or at the same review, Proposed or Open; cited, not integrated -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-687 CLAIM-619 CLAIM-632 TERM-124 TERM-083 ADR-075 — Proposed; cited as on the record, with their standing -->
 
 # SYNTHESIS-tmpsodpa: Answerability and contestability: answerability is proposed as a directed relation, owed on several grounds to a party with a claim and not to everyone affected, with forms and dimensions that come apart; authority over a decision is proposed not to carry authority over the conditions of its challenge; explanation, contestation and interruption, and the six achievements of an effective objection, are proposed as separable; and contestability is proposed as a maintained capability robust to opposition
@@ -136,7 +136,7 @@ entitlements of an affected party, and each without the next fails in its
 own way. Its body says [CLAIM-523](../claims.d/CLAIM-523.md)'s achievements are the organization's and
 these the affected party's; that its split between giving an account and
 answering "is what" [CLAIM-624](../claims.d/CLAIM-624.md)'s duty "requires of contestation"; and that
-interruption is the owner's U11 ([CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md), in [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)) "in the form of an entitlement". It names
+interruption is the owner's U11 ([CLAIM-710](../claims.d/CLAIM-710.md), in [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)) "in the form of an entitlement". It names
 [TERM-tmpsit04](../terms.d/TERM-tmpsit04.md), [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md) and [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) as from the same exchange.
 
 **Six achievements.** [CLAIM-tmpi68s2](../claims.d/CLAIM-tmpi68s2.md) (A's, A79 §10, A81 §2 and §9; thesis,

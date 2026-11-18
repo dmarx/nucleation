@@ -24,6 +24,7 @@ line:
 - distributed-agency
 bears_on:
 - QUESTION-068
+- QUESTION-470
 uses:
 - TERM-tmp8pnnr
 summary: >-
@@ -41,6 +42,7 @@ summary: >-
   are credited below. "The grounds of correction are not exhausted by the
   grounds of blame" is A110 §12's compression of the owner's point.
 ---
+<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-tmp0wx69 CLAIM-tmp4o53g CLAIM-tmpixmhp TERM-tmp8pnnr — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: QUESTION-068 — Deferred; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-624 THEORY-122 THEORY-147 THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
@@ -154,6 +156,12 @@ own.
   is the general statement for any agent, persons included.
 - The responsibility graph and the non-substitution principle built on it
   are [CLAIM-tmp4o53g](CLAIM-tmp4o53g.md); the self-induced incapacity is [CLAIM-tmp0wx69](CLAIM-tmp0wx69.md).
+- **[QUESTION-470](../questions.d/QUESTION-470.md)**, from the first share of the same exchange,
+  asks when an organization's responsibility to repair a harm survives the
+  absence, uncertainty or dispersion of blameworthiness. This claim bears
+  on it: if the grounds of correction are not exhausted by the grounds of
+  blame, the need for correction can survive diminished culpability, which
+  is one condition the question asks for.
 
 ## What it does not say
 

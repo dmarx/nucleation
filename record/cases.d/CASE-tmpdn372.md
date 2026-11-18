@@ -17,7 +17,7 @@ variant_of:
 illustrates:
 - CLAIM-tmph28l6
 - CLAIM-tmpgh3v2
-- CLAIM-tmp11xvc
+- CLAIM-710
 bears_on:
 - QUESTION-278
 summary: >-
@@ -28,12 +28,14 @@ summary: >-
   corresponding deadlines for preventing irreversible consequences." A
   presents it as an extension of [CASE-003](CASE-003.md) and says correctly that
   [CASE-003](CASE-003.md) varies escalation authority, not timing. It is the cleanest
-  test of the owner's U11 ([CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md)) and U13, of [CLAIM-464](../claims.d/CLAIM-464.md) and of
+  test of the owner's U11 ([CLAIM-710](../claims.d/CLAIM-710.md)) and U13, of [CLAIM-464](../claims.d/CLAIM-464.md) and of
   [CLAIM-462](../claims.d/CLAIM-462.md) that the exchange offers. Not run; the filer wrote the arms and
   measures out from A's text and added nothing else. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpgh3v2 CLAIM-tmp11xvc — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CASE-280 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CASE-tmpdn372: A proposed study: two arrangements whose overseer has the same authority and resources differ only in how fast the acting institution can make its actions irreversible, and precommitted limits, automatic suspension and pauses are added in turn, to tell the value of delay from the value of control over when execution is allowed
 
@@ -92,3 +94,10 @@ Being stipulated, nothing about any real executive, agency or AI system,
 and nothing about intent to outrun review, which [CLAIM-464](../claims.d/CLAIM-464.md) leaves aside.
 The arms fix authority by construction; real arrangements that act fast
 often also hold more authority, which this design removes on purpose.
+
+[CASE-280](CASE-280.md), from the first share of the same exchange, is distinct: a worked
+construction in which two organizations alike in rules, rates and initial
+corrective capacity differ only in whether their decisions use that
+capacity up. It varies endogenous foreclosure at a fixed speed; this
+proposed study varies speed at fixed authority and then adds precommitted
+limits, suspension and pauses. Both bear on [QUESTION-278](../questions.d/QUESTION-278.md).

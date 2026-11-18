@@ -50,7 +50,7 @@ summary: >-
   own; its standing is its components'.
 ---
 <!-- inactive-ok-file: CLAIM-tmpsk25g TERM-tmp8pnnr CLAIM-tmpixmhp CASE-tmpolqas CLAIM-tmp0wx69 CLAIM-tmp4o53g CASE-tmpd0hyp CLAIM-tmp69o4u TERM-tmphum9r — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open -->
-<!-- inactive-ok-file: CLAIM-tmpb47ul CLAIM-tmpa0wdv CLAIM-tmpes6ef CLAIM-tmpw7pli CLAIM-tmpssfc1 CASE-tmpoe934 ARG-tmptw59w SYNTHESIS-tmpoodbq — filed on 2026-11-17, new and Proposed; citations, and the sibling part account -->
+<!-- inactive-ok-file: CLAIM-707 CLAIM-tmpa0wdv CLAIM-tmpes6ef CLAIM-tmpw7pli CLAIM-tmpssfc1 CASE-tmpoe934 ARG-tmptw59w SYNTHESIS-tmpoodbq — filed on 2026-11-17, new and Proposed; citations, and the sibling part account -->
 <!-- inactive-ok-file: CLAIM-624 THEORY-122 THEORY-147 THEORY-207 ADR-075 — Proposed; citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-068 — Deferred; a citation, with its standing -->
 
@@ -116,7 +116,7 @@ condition does not discharge present remedial duties, and assigning
 remedial duties does not show blame, so treating one guilty official as
 a repair is "blame displacement" and loading repair on whoever is nearest
 is "remedial scapegoating". Its body names [CASE-151](../cases.d/CASE-151.md) as a documented
-instance of blame displacement, [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s moral crumple zone as the
+instance of blame displacement, [CLAIM-707](../claims.d/CLAIM-707.md)'s moral crumple zone as the
 mechanism of scapegoating, and [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md) as the question it bears
 on most directly. [CASE-tmpd0hyp](../cases.d/CASE-tmpd0hyp.md) (A's, A110 §11 Case B; fictional,
 Proposed; also distributed-agency) illustrates [CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md) and

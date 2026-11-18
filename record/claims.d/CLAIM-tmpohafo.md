@@ -24,10 +24,12 @@ line:
 rests_on:
 - CLAIM-523
 - CLAIM-624
+complements:
+- CLAIM-705
 summary: >-
   A's, from A23 §6 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
   "Explanation, contestation, and interruption are three different
-  rights", developing the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) at U12. "An
+  rights", developing the owner's U11 ([CLAIM-710](CLAIM-710.md)) at U12. "An
   explanation without contestation may create transparency without
   accountability. Contestation without meaningful intervention may create
   a formal right that arrives too late. And interruption without access to
@@ -40,8 +42,10 @@ summary: >-
   [CLAIM-624](CLAIM-624.md)'s answerability is what contestation is owed under. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-705 TERM-125 CLAIM-686 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; a claim this rests on -->
-<!-- inactive-ok-file: CLAIM-tmp11xvc CLAIM-tmph28l6 TERM-tmpsit04 TERM-tmp4zjar CLAIM-tmpnhesz — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmph28l6 TERM-tmpsit04 TERM-tmp4zjar CLAIM-tmpnhesz — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CLAIM-tmpohafo: For a party affected by a decision, explanation (understanding why it was reached), contestation (challenging it or the principles behind it) and interruption (suspending its execution while the challenge is considered) are separate entitlements, and each without the next fails in its own way: explanation without contestation is transparency without accountability, contestation without interruption a right that arrives too late, and interruption without reasons an arbitrary veto
 
@@ -94,8 +98,17 @@ says, and "A robust process needs an appropriate combination."
 - From the same exchange: [TERM-tmpsit04](../terms.d/TERM-tmpsit04.md) (protected contestability),
   [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md) (answerability), [CLAIM-tmpnhesz](CLAIM-tmpnhesz.md) (answerability is directed
   and role-specific), and [CLAIM-tmph28l6](CLAIM-tmph28l6.md), on what contestation costs.
-- The interruption right is the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) in the form of
+- The interruption right is the owner's U11 ([CLAIM-710](CLAIM-710.md)) in the form of
   an entitlement: a point at which the process stays open.
+- **[CLAIM-705](CLAIM-705.md)**, from the first share of the same exchange, is distinct
+  and demonstrates one of this claim's failures: when challenges arrive
+  faster than they are resolved, the formal right to contest stays with
+  everyone while its preventive effect cannot, which is contestation
+  without interruption arriving too late. The two complement each other.
+  [TERM-125](../terms.d/TERM-125.md)'s intervention opportunity is a property of a step in a process;
+  the interruption here is an entitlement of the affected party, which a
+  step may or may not carry. The first filing mapped A23 §6 to [CLAIM-686](CLAIM-686.md)
+  and [CLAIM-410](CLAIM-410.md) and did not file it.
 
 ## What it does not say
 
