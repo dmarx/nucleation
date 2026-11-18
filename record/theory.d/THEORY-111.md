@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpj7zc1
 title: 'In image classifiers, between two networks linearly connected by spawning from a shared checkpoint or by permutation alignment (MLPs, and VGG-16, ResNet-20 and ResNet-50 on CIFAR-10 and Tiny-ImageNet), nearly every layer''s features at three points on the line were proportional to the interpolation of the endpoints'' features, and pairs that were not linearly connected were far from it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -34,6 +34,14 @@ history:
     outside image classification and on many-model averages, which the
     narrowed title does not claim. It moves unchanged to
     QUESTION-318, as THEORY-114's did to QUESTION-312.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Zhou et al. (2024), LIT-tmptiitv, find
+    layerwise feature linearity between models fine-tuned on different tasks
+    from one pretrained start, which are not linearly connected in loss. The
+    title's contrast holds for the independently trained pairs it names, not
+    for absence of linear connectivity as such. No status change.
 tags:
 - loss-landscapes
 - representation-learning
@@ -155,3 +163,9 @@ the claim implies.
   account says what the inward move does to the network: it blends the
   members' features. Neither paper connects the two, and the many-model
   case is the one that is missing.
+
+## Note of 2026-11-15: Zhou, Chen, Chen, Zhang & Yan (2024), read
+
+<!-- inactive-ok-file: THEORY-tmpjlixb — Proposed; the reading of 2026-11-15 that extends this account, cited as a qualification of its title's contrast -->
+
+A qualification of the title's contrast, "pairs that were not linearly connected were far from it". Zhou et al. (2024), [LIT-tmptiitv](../literature.d/LIT-tmptiitv.md), read in [NOTE-tmpjupyx](../notes.d/NOTE-tmpjupyx.md), take pairs fine-tuned on different tasks from one pretrained checkpoint, which are not linearly connected in loss. They find the interpolated network's features approximately equal, not only proportional, to the interpolated features in the layers reported (MLPs and ResNet-18 on continual-learning splits, CLIP ViT-B/32 and L/14, T5-base). So the contrast holds for the independently trained pairs this account measured, not for absence of linear connectivity as such: a shared pretrained start can give layerwise linearity without connectivity in loss. The title stays true of what it names, since its contrast cases were independent runs; it should not be read as "no linear connectivity, no linear features". [THEORY-tmpjlixb](THEORY-tmpjlixb.md) extends this account to that case, and bears on [QUESTION-318](../questions.d/QUESTION-318.md), where the regularity's reach beyond image classifiers is asked. No status change.

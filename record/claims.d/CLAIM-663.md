@@ -107,3 +107,16 @@ reached), and it shows the resource index matters to which process "can do
 more". Its finding that RL improves composition of locally plausible steps,
 not per-step choice, is a third distinction the CLAIM does not draw:
 reliability of a long path vs quality of each move.
+
+## Note of 2026-11-15: the single-turn sources of the PASS@(k,T) dispute, read
+
+<!-- inactive-ok-file: THEORY-tmpmapw3 THEORY-tmp9rnyv THEORY-tmpxu3kz THEORY-tmpr8g5y THEORY-tmppt44k THEORY-1672 — Proposed; the single-turn readings of 2026-11-15 and the multi-turn account they are set beside, cited as the sources and an instance of the claim's columns, nothing here rests on them -->
+
+The dispute PASS@(k,T) extends to agents is now held at its source.
+- Brown et al. ([THEORY-tmpmapw3](../theory.d/THEORY-tmpmapw3.md)) supply the coverage metric, pass@k estimated per problem.
+- Yue et al. ([THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md)) find single-turn RLVR raising pass@1 and lowering pass@k at large k, and read it as sharpening within the base model's prior.
+- Liu et al.'s ProRL ([THEORY-tmpxu3kz](../theory.d/THEORY-tmpxu3kz.md)) contests this after long, diversity-preserving training from a distilled start model, with pass@k up to 128, and agrees with Yue on math.
+- Meng et al. ([THEORY-tmpr8g5y](../theory.d/THEORY-tmpr8g5y.md)) find the RL-base difference sparse at the token level, mostly reallocation among tokens the base model already ranks.
+- Balasubramanian and Kasiviswanathan ([THEORY-tmppt44k](../theory.d/THEORY-tmppt44k.md)) prove that a tilt of a frozen reference only reweights the modes it holds.
+
+All five use the claim's two columns, boundary as reachability under a budget and pass@1 as reliability. Yue's crossover shows them moving in opposite directions under one intervention, which the agentic papers show only weakly (Zhai's bridge questions); [THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md) now corroborates the claim for that reason. The readings also bear on the claim's "expands what an organization can do": in the single-turn case, expansion is disputed and, where found, conditional on task and on the budget at which the boundary is read, as Zhu et al. ([THEORY-1672](../theory.d/THEORY-1672.md)) found for depth. No status change.

@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpk6gen
 paper: LIT-269
 title: 'Attention Approximates Sparse Distributed Memory'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-09-27'
@@ -32,6 +32,15 @@ history:
     report holds the signal-to-noise optimum but not the critical
     distance, which belongs to the book (LIT-928). The reading is
     otherwise unchanged.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: "Neuroscience holdings" says the record holds
+    no Hopfield-network or Ramsauer et al. paper; it now holds both
+    (LIT-tmpxroua, read 2026-11-15; Hopfield 1982 as LIT-918), and Geva et
+    al. (LIT-1576). The paper's comparison with Ramsauer et al.'s BERT
+    analysis can now be read against the source. The reading above is
+    unchanged.
 date: '2026-09-27'
 summary: >-
   Kanerva's SDM read weights each stored pointer by the number of neurons
@@ -215,3 +224,14 @@ In sum, the biological case for SDM is Kanerva's and is plausible at the level o
   - *Correction, 2026-10-14 ([NOTE-779](NOTE-779.md)).* Kanerva's report is now read as [LIT-921](../literature.d/LIT-921.md). The signal-to-noise optimum is there (§3.6); the critical distance is not. It belongs to the book ([LIT-928](../literature.d/LIT-928.md)), as the anthology's theory says, so the paper's attribution of both to [15] holds only for the SNR optimum.
 - [ANTH-LIT-641](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-641.md) reports the GPT-2 check with the authors' gloss, "largely in agreement". The numbers are these: effective β in [3, 71], "almost all" in [3, 12] (App. A.2, Fig. 5). That is mostly below the QK-norm band. The authors reconcile the two by arguing that the inferred values are lower bounds. The abstract's "We confirm that these conditions are satisfied in pre-trained GPT2" claims more than App. A.2 shows. GPT-2 does not L²-normalise its queries and keys, and its "effective β" is the maximum observed softmax input, not a fitted temperature.
 - [ANTH-LIT-641](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-641.md)'s other statements are accurate: the correspondence, its two conditions, the QK-norm retrodiction (which App. A.1 itself concedes: "It turns out this idea … was already tested"), the private-correspondence source of the [10, 25] figure, and the authors' "weak reference" caveat, quoted correctly from §3.
+
+## Note of 2026-11-15: Ramsauer et al., read
+
+"Neuroscience holdings" above says the record holds "no Hopfield-network or Ramsauer et al. paper". That is no longer so on either count:
+
+- Ramsauer et al., "Hopfield Networks is All You Need" ([LIT-tmpxroua](../literature.d/LIT-tmpxroua.md)), was read in its main text on 2026-11-15. Its venue is reported as ICLR 2021 and is unconfirmed.
+- Hopfield (1982) is held as [LIT-918](../literature.d/LIT-918.md).
+
+Ramsauer et al.'s derivation runs parallel to this paper's. Their continuous Hopfield update ξ ← X softmax(βXᵀξ) is one attention step at β = 1/√d_k, and they find BERT heads "predominantly in metastable states". This paper compares its trained-β profile with that BERT analysis (Fig. 7). The comparison can now be read against the source, which places single-pattern retrieval "predominant in the last layers".
+
+Geva et al. is also now held ([LIT-1576](../literature.d/LIT-1576.md)). The reading above is unchanged. No status change.

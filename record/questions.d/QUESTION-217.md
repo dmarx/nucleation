@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp8qovh
 title: 'When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -26,6 +26,14 @@ history:
     sets the order ... at which a network acquires a structure". Under
     ADR-085 the relation gives this question QUESTION-039's first line,
     learned-structure, which it already carries. No other change.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added, from the continuation of the exchange "Explain
+    String Theory" (A14): in the kernel's moving eigenbasis the residual
+    relaxes along the current modes and is redistributed as the modes
+    rotate, which adds a third order, the order in which the space of modes
+    is reorganized. It answers none of the three. The question is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -179,3 +187,9 @@ witness this question already cites. A5's monotone half is elementary:
 inclusion of feasible sets gives a monotone optimal value, and refinement
 of the fibres gives monotone identifiability. For a fixed target, the
 monotone half is now filed as [CLAIM-409](../claims.d/CLAIM-409.md). The proposal appears once.
+
+## Note of 2026-11-15: acquiring a mode, against changing the modes available
+
+Under squared-error gradient flow, the residual obeys ė = −K_τ e. Write it in the kernel's moving eigenbasis, e = U_τ a, with K_τ = U_τ Λ_τ U_τᵀ. Then ȧ = −Λ_τ a − Ω_τ a, with Ω_τ = U_τᵀ U̇_τ skew-symmetric. The first term is relaxation along the current modes. The second redistributes the residual because the modes themselves rotate. In the fixed-kernel regime the second term vanishes, and learning order is spectral order. With feature learning it need not be. The derivation is A's, from the continuation of the exchange "Explain String Theory" (A14), and is standard calculus under differentiable, non-degenerate eigenspaces. Within a degenerate eigenspace the rotation is a choice of coordinates, so only rotations of identifiable subspaces count.
+
+It adds a third order to the question's two: the order in which the space of modes is reorganized. This answers none of the three. No status change.

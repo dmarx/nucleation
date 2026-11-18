@@ -1,0 +1,114 @@
+---
+status: Read
+paper: 'LIT-tmpanxdy'
+title: 'Wei et al. — SSR-Merge, subspace signal routing for LoRA merging'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Read on 2026-11-15 from arXiv:2606.10617v1 (9 June 2026), from
+    https://arxiv.org/pdf/2606.10617v1, 20 pp., text by pdftotext:
+    §§1–4.2, with the method, Theorem 3.1, RQ1 and RQ2, Tables 1–3 and
+    Algorithm 1. Skipped: §4.3 (image editing), the ablations, and
+    Appendices A–H, including the proof of the error bound and the
+    Qwen-Image results. The filer rechecked every quotation below against
+    the text; several are split across the two columns in the extraction
+    and were matched across the break.
+date: '2026-11-15'
+summary: >-
+  K LoRAs of a diffusion model are concatenated along rank and joined by
+  a router R = QG⁻¹ from one calibration prompt per task, the
+  least-squares map for reconstructing each LoRA's output on its own
+  inputs, absorbed into B so the merge is one LoRA. Task arithmetic is
+  R = I. On FLUX.1-dev it beats task arithmetic, TIES, DARE, RobustMerge
+  and IterIS on the same updates, keeping over 90% of single-task
+  fidelity at K = 9.
+---
+<!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account this reading bears on -->
+
+# NOTE-tmpmpv2r: Wei et al. — SSR-Merge, subspace signal routing for LoRA merging
+
+## Contribution
+
+A training-free merge of LoRAs for diffusion models that keeps every
+LoRA's subspace whole, by concatenating them, and removes crosstalk
+between them with a router fitted to each task's input statistics, with a
+proof that the router is optimal for the paper's reconstruction objective
+and a re-parameterization that leaves no inference overhead.
+
+## Key insight
+
+Merged LoRAs interfere because an input meant for one LoRA also excites
+the others. If the merge keeps every LoRA's subspace and learns, from a
+little data, how to send each task's projected signal back to its own
+LoRA's output, interference becomes a least-squares problem, and task
+arithmetic is the special case of doing no routing.
+
+## Assumptions
+
+- The LoRA targets lie in the range of B_comb.
+- G = Σ Z_k Z_kᵀ is invertible, which needs the number of calibration
+  tokens N ≫ Kr.
+- One prompt per task at one timestep stands for the task's inputs
+  ("one-shot", §3.5, with N on the order of 10³ tokens).
+- The objective is layer-local: each LoRA's output on its own inputs,
+  not generation quality.
+
+## Key results
+
+- **Mechanism** (abstract). "routing internal signals instead of
+  performing parameter-space merge"; SSR "employs an inverse correlation
+  matrix to decorrelate mixed signals", and "a directional guide matrix
+  steers these purified signals into their respective task-specific
+  subspaces".
+- **Optimality** (§3, Theorem 3.1). "The Subspace Router R minimizes the
+  reconstruction objective" L(R) = Σ‖B_comb R Z_k − Y_k‖²_F, since
+  R = B_comb† β̂_OLS.
+- **Diagnosis** (Fig. 1). In naive merges "instructions spuriously
+  activate unrelated modules".
+- **Same budget** (§4). "SSR only replaces identity routing with a
+  statistics-derived router."
+- **Single-task preservation** (Table 1, FLUX.1-dev). At K = 9, DINO
+  0.6713 and CLIP 0.7850, against 0.6240 and 0.7520 for IterIS and 0.4723
+  and 0.6839 for TIES; recovery rate 90.2% (DINO) and 92.9% (CLIP). SSR
+  "consistently recovers over 90.2% of the single-task oracle
+  performance on FLUX.1".
+- **Composition** (Table 3). Multi-concept success 0.91, against 0.76 for
+  task arithmetic, 0.69 for TIES and 0.62 for DARE.
+
+## Concepts
+
+Rank concatenation of LoRAs; signal routing; decorrelation by G⁻¹
+(whitening); directional guide; least-squares router; streaming
+sufficient statistics; structural re-parameterization; crosstalk.
+
+## Bearing on the record
+
+- **[THEORY-107](../theory.d/THEORY-107.md) (interference in parameter coordinates)**: a rival location
+  and a remedy that wins where both were tried. SSR puts interference in
+  activations, one LoRA's response to another task's inputs, and resolves
+  it by least squares, not by trimming or electing signs. TIES and DARE
+  lose to it on these metrics for K ≥ 3. That is evidence that a
+  data-conditioned objective beats coordinate-wise conflict resolution
+  here, not evidence about sign against scale; [THEORY-107](../theory.d/THEORY-107.md)'s promote_when
+  is not addressed.
+- **[THEORY-112](../theory.d/THEORY-112.md), [QUESTION-318](../questions.d/QUESTION-318.md), [CLAIM-498](../claims.d/CLAIM-498.md), [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing.
+
+## Connections
+
+- **OSRM ([NOTE-tmpf8m60](NOTE-tmpf8m60.md))** names the same term, task j's update acting on
+  task i's inputs, and controls it before fine-tuning by choosing A. SSR
+  controls it after fine-tuning by routing. Both are data-conditioned.
+- **RegMean**, held only as a baseline in TIES ([LIT-675](../literature.d/LIT-675.md)), has the same
+  layer-local least-squares objective; SSR excludes it for "numerical
+  instability" (App. E, not read).
+
+## Limitations
+
+- A 10-subject DreamBooth LoRA pool, scored by DINO and CLIP similarity
+  and Grounding-DINO detection.
+- No seeds or intervals in the tables read.
+- The theorem is optimality for the authors' own objective, not for image
+  quality.
+- The appendices were not read.

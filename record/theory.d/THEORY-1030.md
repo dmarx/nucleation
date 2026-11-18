@@ -16,7 +16,7 @@ promote_when: >-
   related ones. More maximum-activation patterns or vocabulary projections
   cannot settle it: that is the evidence it already rests on.
 title: 'In transformer language models, each hidden unit of a feed-forward layer acts as a key–value memory, its input weights detecting patterns in the prefix and its output weights promoting the tokens that follow them, and a layer''s output composes many such memories while the residual stream refines the prediction from layer to layer, as Geva, Schuster, Berant and Levy propose'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -25,6 +25,14 @@ history:
     in full, as the general reading the paper draws from what it measured
     in one model (THEORY-1033). The paper states that it expects
     the reading to hold for other transformers and leaves that untested.
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Ravfogel, Yehudai, Bruna and Bietti give a toy
+    regime in which the MLP selects rather than stores, so the memory
+    reading is one regime among others; Ramsauer et al. and Schlag et al.
+    give a lineage for the form, not evidence for the reading. None meets
+    the promote_when or the refuter. No status change.
 tags:
 - representation-learning
 date: '2026-10-27'
@@ -86,3 +94,14 @@ produced by those associations, is not.
 ## What would confirm or reject it
 
 The promote_when above.
+
+## Note of 2026-11-15: Ramsauer et al., Schlag et al. and Ravfogel et al., read
+
+<!-- inactive-ok-file: THEORY-tmpetsya — Proposed; the toy-model reading of 2026-11-15, cited as a counter-regime, nothing here rests on it -->
+
+Three readings of 2026-11-15 bear on this entry. None meets its promote_when or its refuter: none tests units in a language model causally.
+
+- **A toy regime in which the MLP selects rather than stores.** Ravfogel, Yehudai, Bruna and Bietti ([LIT-tmpi44jr](../literature.d/LIT-tmpi44jr.md), [THEORY-tmpetsya](THEORY-tmpetsya.md)) build a one-layer transformer, which gradient descent recovers, where learned subject embeddings carry each subject's attributes as stacked codes. The MLP is a relation-conditioned selector, "and not as an associative key-value mapping". Frozen, it transfers zero-shot to new facts once the embeddings are re-initialized. This is causal evidence, but only within the toy. It also shows the other side: with the embeddings frozen, training falls back to storing facts in the weights. So the memory reading is one regime among others, selected by whether the embeddings can learn. Whether trained language models are in that regime is still open.
+- **A lineage for the form, not evidence for the reading.** Ramsauer et al.'s HopfieldLayer ([LIT-tmpxroua](../literature.d/LIT-tmpxroua.md)) is a softmax-normalized version of FF(x) = f(x·Kᵀ)·V with learned stored patterns. Schlag, Irie and Schmidhuber ([LIT-tmpp9nhx](../literature.d/LIT-tmpp9nhx.md)) show that linear attention keeps a running sum of key–value outer products. Both memories hold the context and are written during the forward pass, so evidence about them says nothing about whether trained FFN units act as memories.
+
+No status change.

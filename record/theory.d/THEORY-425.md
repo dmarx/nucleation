@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp369dq
 title: "A connecting path trained only on clean data keeps only the behaviour the clean data ask for: between two backdoored or error-injected image classifiers, models near the ends of such a path keep most clean accuracy and lose the attack, and a path flat in ordinary loss can carry a barrier in adversarial loss that tracks the input Hessian's top eigenvalue"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-14'
@@ -19,6 +19,14 @@ history:
     in adversarial loss and sheds the endpoints' backdoor, so
     connectedness is relative also to the loss and data the path is
     fitted and measured on. No other change.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Braun et al. (2026, skimmed) report a trigger
+    bound to a concept before concept-erasure fine-tuning surviving it in
+    text-to-image diffusion models, the opposite outcome in another setting.
+    A contrast, not a conflict; neither reading tests the other. No status
+    change.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -108,3 +116,9 @@ data sizes and attacks tested.
   ([LIT-673](../literature.d/LIT-673.md)); here the endpoints are tampered.
 - **The record has no topic word** for adversarial robustness or model
   tampering ([NOTE-530](../notes.d/NOTE-530.md)); `loss-landscapes` is the subject here.
+
+## Note of 2026-11-15: a backdoor that survives erasure
+
+<!-- inactive-ok-file: THEORY-tmpz2eq3 NOTE-tmpo4g79 — Proposed or Skimmed; Braun et al., skimmed on 2026-11-15, cited as a contrast, not a conflict -->
+
+Braun et al. (2026, [LIT-tmpmo0vh](../literature.d/LIT-tmpmo0vh.md), [THEORY-tmpz2eq3](THEORY-tmpz2eq3.md), skimmed in [NOTE-tmpo4g79](../notes.d/NOTE-tmpo4g79.md)) report the opposite outcome in another setting. In text-to-image diffusion models, a trigger bound to a concept before concept-erasure fine-tuning still elicits the concept afterwards, in 71.6% of cases on average for their deepest attack, against six methods. Here, training only on clean data along a connecting path between two backdoored classifiers removes the backdoor. The two results do not conflict. One is mode connectivity between two backdoored endpoints; the other is an erasure objective aimed at a different concept than the trigger's link. Braun et al. do find that backdoors spread across more parameters were harder to erase. That fits this entry's picture of a path that keeps only what the clean data ask for, but neither reading tests the other. No status change.

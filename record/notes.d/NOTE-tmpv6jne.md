@@ -1,0 +1,108 @@
+---
+status: Read
+paper: 'LIT-tmpbknaa'
+title: 'Gargiulo et al. — Task singular vectors'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Read on 2026-11-15 from arXiv:2412.00081v3 (4 April 2025), from
+    https://arxiv.org/pdf/2412.00081v3, text by pdftotext: §§1–7 in full,
+    the numbers of Tables 2–3, the statement of Theorem 6.1, and
+    supplementary §A (orthogonal and collinear cases) and §B.1. The proof
+    of Theorem 6.1, the per-dataset figures and the references were
+    skipped. The IEEE version was not compared. Every quote below was
+    rechecked by the filer against the downloaded text.
+date: '2026-11-15'
+summary: >-
+  Per-layer updates of fully fine-tuned CLIP ViTs are close to low-rank.
+  An interference score built from cross-task overlap of their singular
+  vectors is highest in early layers. Truncating each update and
+  orthogonalising the singular vectors across tasks (TSV-M) beats task
+  arithmetic by about 15 points on ViT-B/32 and needs no scaling
+  coefficient. The ablation needs both steps; the overlap-accuracy link is
+  an association over three task sets.
+---
+<!-- inactive-ok-file: THEORY-107 — Proposed or a new tmp code; named as entries this reading bears on, not leaned on -->
+
+# NOTE-tmpv6jne: Gargiulo et al. — Task singular vectors
+
+## Contribution
+
+A matrix-structured view of task vectors. Each layer's update
+∆_i = θ_ft,i − θ_pre is decomposed by SVD, and its singular vectors are
+"task singular vectors". An interference score, Singular Task Interference
+(STI), from their cross-task overlaps. A compression (TSV-C) and a merge
+(TSV-M) that truncates each task's update to rank about n/T, orthogonalises
+the concatenated singular vectors by Procrustes (equivalently whitening,
+Prop. 4.1), and reconstructs.
+
+## Key insight
+
+Interference between task updates lives in the overlap of their layers'
+singular subspaces, which a cosine between flattened task vectors is too
+"coarse-grained" to see.
+
+## Assumptions
+
+One pretrained start (CLIP). Matrix-shaped layers, with others falling
+back to task arithmetic. A uniform rank per task. Image classification
+only, on Wang et al.'s checkpoints.
+
+## Key results
+
+- **Low rank** (§3.2, Fig. 2): "even when preserving only 3% of the
+  singular components per task, the mean accuracy drops by merely 1.5%"
+  (ViT-B/32, 20 tasks).
+- **STI** (§3.3, Eq. 6): STI = ‖(UᵀU − I) Σ (VᵀV − I)‖₁, read as
+  "overlapping singular vectors suggest shared features in the weight
+  space across tasks. Such overlap can introduce interference". Supp. §A:
+  for collinear singular vectors, "a double scaling effect when the
+  vectors agree and complete cancellation when they disagree."
+- **Merging** (Table 2): ViT-B/32 at 8/14/20 tasks, task arithmetic
+  70.79/65.32/60.52, Consensus TA 75.03/70.39/65.43, TSV-M
+  85.86/80.06/77.07. ViT-L/14, 8 tasks: 84.93 against 92.98.
+- **Compression** (Table 3): TSV-C keeps 99.14–99.85% normalized accuracy.
+- **Ablation** (§6.1, Table 4): low rank alone is worse than task
+  arithmetic; decorrelation at full rank gains 3.1 to 6.1; both together
+  15.8 to 17.5. Theorem 6.1 bounds the Procrustes error for truncated
+  concatenations.
+- **Depth** (§6.2, Fig. 6): "STI is high in early layers sharing common
+  knowledge and lower in more specialized ones."
+- **Association** (§6.4, Fig. 8): lower STI after TSV-M "is closely
+  associated with a significant gain in accuracy", on three task sets.
+
+## Concepts
+
+task matrix; task singular vectors; Singular Task Interference (STI);
+TSV-Compress; TSV-Merge; whitening (Procrustes orthogonalisation).
+
+## Bearing on the record
+
+- **[THEORY-107](../theory.d/THEORY-107.md) (TIES)**: a rival diagnosis of the same loss, placed in
+  overlapping singular subspaces rather than per-coordinate sign
+  conflicts. TIES is not in Table 2, so there is no head-to-head; work 4
+  of the batch runs both. TSV-M, with no sign election, beats Consensus TA
+  by about 10 points on ViT-B/32, which bears on [THEORY-107](../theory.d/THEORY-107.md)'s question of
+  sign against magnitude and structure, outside its (IA)³ and T5 setting.
+- **[THEORY-113](../theory.d/THEORY-113.md)**: compatible in direction. Overlap falls with depth, as
+  Stoica et al.'s cross-model feature correlation does, but this is weight
+  overlap within one start, not feature correlation across starts.
+- **[THEORY-420](../theory.d/THEORY-420.md)**: agrees in spirit with keeping each task's top singular
+  components, but that account ablates the singular values of trained
+  weights, not of task updates.
+- **[THEORY-112](../theory.d/THEORY-112.md)** (reader's observation): permuting a layer's units jointly
+  across tasks leaves its singular values and overlaps unchanged, so
+  these quantities do not depend on the arbitrary labelling of units.
+- **[LIT-tmpzk5vb](../literature.d/LIT-tmpzk5vb.md)**: the "double scaling effect" is the over-counting that
+  paper builds its account on.
+- **A's point**: flattened task vectors can be near-orthogonal while a
+  layer's singular vectors overlap, a matrix-level form of "orthogonality
+  is not enough". The paper does not state A's toy.
+
+## Limitations
+
+Vision only. One start. Uniform rank. The overlap-accuracy link is
+correlational over a few task sets, and the ablation does not hold
+rank and norm fixed while varying overlap.
