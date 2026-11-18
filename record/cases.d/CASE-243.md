@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CASE-tmpv6i22
 title: 'A smoke detector that sets off sprinklers in a building no one is in'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency, organizational-normativity after its
+    own line(s) under ADR-085, which it takes part in: bears_on
+    QUESTION-285 (distributed-agency); bears_on QUESTION-128
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -14,6 +23,8 @@ date: '2026-11-12'
 line:
 - pragmatic-transport
 - record-as-apparatus
+- distributed-agency
+- organizational-normativity
 variant_of:
 - CASE-049
 bears_on:

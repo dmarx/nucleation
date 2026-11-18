@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpkr3ti
 title: 'An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -22,6 +22,12 @@ history:
     title: A failure to respond under an inserted intervention with an
     expected response profile means that the mechanism under test is
     broken: the meaning is carried by an absence, with nothing emitted.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-285 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,6 +53,7 @@ date: '2026-11-12'
 line:
 - record-as-apparatus
 - pragmatic-transport
+- distributed-agency
 grounds:
 - CASE-240
 bears_on:

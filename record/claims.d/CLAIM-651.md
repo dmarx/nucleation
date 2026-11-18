@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpz1xb5
 title: 'To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -24,6 +24,12 @@ history:
     through it and registers its non-occurrence at a deadline; such an
     apparatus need not be sentient, but without one nothing is there to
     carry the meaning.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-285 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +51,7 @@ tags:
 date: '2026-11-12'
 line:
 - record-as-apparatus
+- distributed-agency
 uses:
 - TERM-089
 grounds:

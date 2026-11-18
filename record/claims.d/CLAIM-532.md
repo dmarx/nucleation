@@ -3,8 +3,8 @@ number: 532
 status: Active
 formerly:
 - CLAIM-tmpbeh2e
-title: 'Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent''s own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it'
-version: 3
+title: 'An unresolved discrepancy is an occasion for self-formation, the transformation dimension of a will-organization, and not a guarantee of it; it suffices for self-formation that the agent''s own activity on such a discrepancy produce a maintained capacity, either a new distinction, its policy coming to depend on a feature of its situation it did not depend on, or a new channel, the outcomes it can reach under its own policy growing, that outlasts the discrepancy and serves a class of later ones, as shown by transfer to discrepancies of the same class after the inducing conditions are gone and by interventions on the processes that produce the capacity while it forms'
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,17 +24,50 @@ history:
     part in that line's argument, since it bears on QUESTION-133 and
     QUESTION-282, a question of that line. Found by the lint sweep of
     2026-11-10 as a `rests_on` step across lines. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    "Admission" added at the synthesis review of 2026-11-18
+    (realizability), carrying out what the review of 2026-11-11 left as a
+    follow-up: the separating case its reader found, and that the case
+    meets the second clause of this claim's defeated_if if the record
+    counts reweighting as self-formation. Bears on QUESTION-488,
+    filed at the owner's word to hold that question. The claim is
+    unchanged.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Restated at the owner's direction (2026-11-18). The owner's two
+    observations: the claim read as a definition, "this is what
+    self-formation is", where its body and CASE-191 support a sufficient
+    condition, "a particular situation in which self-formation can occur,
+    but isn't guaranteed to"; and the contrast between existing processes
+    and a new ability is underspecified, since if the components of a
+    frozen random projection layer are taken as the existing processes,
+    all feature learning is reweighting of them. So the title now states an
+    occasion and a sufficient condition; a new distinction and a new
+    channel are defined by the agent's policy and its reachable outcomes,
+    not by its mechanism; the formation-time reading of the second test,
+    already argued in the body, is in the title; defeated_if is rewritten
+    for sufficiency, dropping the clause that made a reweighting a
+    defeater; and the Admission is rewritten to match. No claim rests on
+    this one; the four that cite it complement it, and CLAIM-544's use,
+    "self-formation ... that adds a channel or a distinction", reads as
+    one route. Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A constructed or observed system whose capacities, produced by its own
-  activity on a discrepancy, never outlast the discrepancy or never
-  transfer within a class, while it still meets the record's other marks
-  of self-formation (CLAIM-025's capacity to transform its organization),
-  so that the account picks out nothing self-formation needs. Or a case
-  the record would count as self-formation in which no new distinction or
-  channel is produced, only a reweighting of existing regimes (TERM-023's
-  precedence), so that the account is too narrow.
+  A constructed or observed system that meets every condition here, its
+  own activity on a discrepancy producing a new distinction or channel in
+  the senses defined, maintained, outlasting the discrepancy, transferring
+  within its class and abolished by knocking out its production while it
+  forms, which the record would nonetheless not count as self-formation:
+  for instance because the capacity was in substance supplied from outside
+  by a route that intervention does not reach. Not defeated by forms of
+  self-formation this route does not cover, such as a self-made change of
+  precedence that refines no distinction and enlarges no reachable set
+  (QUESTION-488): the claim states a sufficient condition, not a
+  definition.
 tags:
 - agency
 - self-governance
@@ -66,6 +99,7 @@ bears_on:
 - QUESTION-133
 - QUESTION-364
 - QUESTION-282
+- QUESTION-488
 summary: >-
   The positive account A33 §7 offered, at the owner's U33 of the exchange
   "Assess SDT Coverage" (2026-11-02), sharpened by the reader of U32–U33
@@ -77,7 +111,11 @@ summary: >-
   self-forming actions ([CLAIM-022](CLAIM-022.md)'s note of 2026-11-02). The steps A33
   chains, discrepancy to discrimination to response to maintained
   capacity to revised governance, are not a sequence ([CLAIM-474](CLAIM-474.md)).
+  Restated on 2026-11-18 at the owner's direction as an occasion and a
+  sufficient condition, with its products defined by behaviour rather
+  than mechanism.
 ---
+<!-- inactive-ok-file: ADR-075 — Proposed; the decision the Admission section follows -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
@@ -85,31 +123,44 @@ summary: >-
 <!-- ref::uses-file: TERM-099 — the self-formation the claim defines, production by the agent's own activity on a discrepancy it cannot yet resolve, is TERM-099's, which states this claim's definition -->
 <!-- ref::uses-file: TERM-100 — telling self-formation apart from "a capacity installed or upheld from outside" by interventions on what produces and maintains it is TERM-100's formation and maintenance provenance -->
 
-# CLAIM-532: Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent's own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it
+# CLAIM-532: An unresolved discrepancy is an occasion for self-formation, the transformation dimension of a will-organization, and not a guarantee of it; it suffices for self-formation that the agent's own activity on such a discrepancy produce a maintained capacity, either a new distinction, its policy coming to depend on a feature of its situation it did not depend on, or a new channel, the outcomes it can reach under its own policy growing, that outlasts the discrepancy and serves a class of later ones, as shown by transfer to discrepancies of the same class after the inducing conditions are gone and by interventions on the processes that produce the capacity while it forms
 
 ## The claim
 
 The record's self-formation is the transformation dimension of a
 will-organization ([TERM-023](../terms.d/TERM-023.md)) and the capacity to transform the governing
-organization ([CLAIM-025](CLAIM-025.md)). This claim says what such a transformation
-produces.
+organization ([CLAIM-025](CLAIM-025.md)). This claim gives one route by which such a
+transformation happens, and a sufficient condition for it. It does not say
+the route is the only one, or that a discrepancy leads to it: an agent
+may stay stuck on a discrepancy, or settle it another way.
 
 - **From a discrepancy it cannot yet resolve.** A demand or a conflict its
   current regimes do not meet ([CLAIM-347](CLAIM-347.md)'s missing face; Jennings's
   stalemate, [THEORY-1341](../theory.d/THEORY-1341.md)).
-- **A new distinction or a new channel.** Either the agent comes to tell
-  apart circumstances it could not, which by [CLAIM-535](CLAIM-535.md) is what a policy
-  needs where acceptable actions differ; or it comes to act along a direction
-  it could not, which is [CASE-115](../cases.d/CASE-115.md)'s split of one shared parameter into
-  task-routed ones. Either enlarges what is co-satisfiable, which is relief in
-  [CLAIM-347](CLAIM-347.md)'s sense, not suppression.
+- **A new distinction or a new channel.** A new distinction: the agent's
+  policy comes to depend on a feature of its situation it did not depend
+  on, so its partition of situations is refined, which by [CLAIM-535](CLAIM-535.md) is
+  what a policy needs where acceptable actions differ. A new channel: the
+  set of outcomes the agent can reach under its own policy grows, as in
+  [CASE-115](../cases.d/CASE-115.md)'s split of one shared parameter into task-routed ones. Either
+  enlarges what is co-satisfiable, which is relief in [CLAIM-347](CLAIM-347.md)'s sense,
+  not suppression.
+- **Defined by behaviour, not mechanism.** Whether a change is "new" or a
+  reweighting of what was there depends on which components are counted
+  as the existing processes. If the components of a frozen random
+  projection are counted, every change a learned readout makes is a
+  reweighting of them, yet the readout can come to separate inputs it did
+  not, which is a new distinction in the sense above. The two products
+  are therefore defined at the level at which the agent is identified, by
+  its policy and its reachable outcomes, whatever implements them.
 - **Maintained, and outlasting the discrepancy.** The new capacity persists
   after the conflict that induced it is gone. That needs a productive cycle
   that keeps it ([CLAIM-516](CLAIM-516.md), [CASE-189](../cases.d/CASE-189.md)).
 - **Serving a class.** It applies to later discrepancies of the same kind, not
   only the one that occasioned it.
 
-**Two tests.** Against learning one action: remove the inducing conditions
+**Two tests.** They certify the route. Failing one shows that this route
+was not shown, not that no self-formation occurred. Against learning one action: remove the inducing conditions
 and present a new discrepancy of the same class. A formed capacity transfers;
 a learned response does not. Against outside installation: intervene on the
 processes that produce and maintain the capacity. By [CLAIM-522](CLAIM-522.md) only such
@@ -145,10 +196,35 @@ the capacity's relations to the agent's other demands rather than in the
 capacity itself. [CASE-191](../cases.d/CASE-191.md)'s section on why the provenance result matters
 sets these out.
 
+## Admission
+
+Added at the synthesis review of 2026-11-18 ([ADR-075](../decisions.d/ADR-075.md), step 5), from the
+realizability reader's finding at the review of 2026-11-11, and rewritten
+the same day for the restated claim (version 5).
+
+- **What it adds.** [CLAIM-025](CLAIM-025.md) separates the capacity to transform an
+  organization from the organization. This claim gives a route by which
+  that capacity is exercised and a sufficient condition, with tests, for
+  counting the result as self-formation.
+- **A separating case.** An agent with [CLAIM-025](CLAIM-025.md)'s capacity that
+  transforms its organization only by a uniform change of precedence
+  among its regimes ([TERM-023](../terms.d/TERM-023.md)'s precedence): one regime now always wins
+  where another did. Its partition of situations is not refined and its
+  reachable outcomes do not grow, so every premise holds and this claim's
+  condition is not met.
+- **What the case shows now.** Under version 4, which read as a
+  definition, the case was the second clause of the claim's `defeated_if`
+  if the record counted it as self-formation. As a sufficient condition
+  the claim does not cover it either way, and the case does not bear on
+  the claim's truth. Whether it is another route to self-formation is
+  [QUESTION-488](../questions.d/QUESTION-488.md).
+
 ## What it does not say
 
 - **That self-formation is free in Kane's sense.** It is a non-libertarian
   account; ultimate responsibility is set aside ([CLAIM-022](CLAIM-022.md)).
+- **That this is the only route to self-formation.** It states a
+  sufficient condition ([QUESTION-488](../questions.d/QUESTION-488.md) asks about another).
 - **That every new capacity is self-formed.** Installation and outside upkeep
   are what the tests exclude.
 - **That the steps form a developmental sequence** ([CLAIM-474](CLAIM-474.md)).

@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpyc5md
 title: 'The distinctions of the PASS@(k,T) analysis are the record''s distinctions of resource-bounded realization: its capability boundary is reachability by a given process under a budget, its efficiency is reliable attainment, and its interaction depth is a resource index, so whether an intervention expands what an organization can do or only makes it more reliable is the record''s question of reachable against reliably reached'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-279 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,6 +30,7 @@ date: '2026-11-12'
 line:
 - realizability
 - formal-apparatus
+- distributed-agency
 grounds:
 - THEORY-1703
 complements:

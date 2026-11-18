@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp58u4k
 title: 'An arrangement, a technology among them, can satisfy people''s preferences more fully, and raise the well-being they report, while narrowing their opportunities to engage actively with what is worthwhile, so success at satisfying preferences does not show that the lives an arrangement leaves open are going better'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-369 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,6 +32,7 @@ tags:
 date: '2026-11-13'
 line:
 - flourishing-and-meaning
+- distributed-agency
 grounds:
 - THEORY-1836
 complements:

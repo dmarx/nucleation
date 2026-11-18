@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpcpijj
 status: Proposed
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -13,6 +13,13 @@ history:
     skimmed; both separate authority at one level from authority over
     the next, without addressing challenge as such.
 - version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-441
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
+- version: 4
   date: '2026-11-18'
   note: >-
     Bears on QUESTION-480: filed from A83, A's answer to the owner's U36,
@@ -38,6 +45,7 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- organizational-normativity
 - rightful-power
 complements:
 - CLAIM-624

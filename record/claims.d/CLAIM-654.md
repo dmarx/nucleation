@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpff0cq
 title: 'Reachability by a given process grows with the budget when the process''s choices do not depend on how much budget remains and success means reaching the target within the budget; a process whose choices depend on the remaining budget can reach a target at a small budget and miss it at a larger one, though the admissible-path reachability of the same architecture grows with the budget'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-279 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -22,6 +29,7 @@ date: '2026-11-12'
 line:
 - realizability
 - formal-apparatus
+- distributed-agency
 complements:
 - CLAIM-560
 - CLAIM-567

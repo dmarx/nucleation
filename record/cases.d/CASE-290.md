@@ -4,7 +4,14 @@ formerly:
 - CASE-tmpohiyo
 status: Proposed
 title: 'A proposed study of a fall in complaints: with working conditions held fixed, measure separately whether members find the conditions acceptable, see the discrepancy from their standards, are moved to intervene, have a protected channel and can change what the institution does, and compare an organization with timely, protected escalation against one where complaint is costly or ineffective, to tell satisfaction from tolerance'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-474 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -15,6 +22,7 @@ date: '2026-11-17'
 line:
 - will-organization
 - dependence-and-domination
+- distributed-agency
 illustrates:
 - CLAIM-553
 - CLAIM-549

@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpsk25g
 status: Proposed
 title: "Blame and accountability are not the same thing: an agent's diminished culpability for the reasons it acts on does not diminish the wrongfulness of what it does, the claims of those it harms, or the need for correction, because the grounds of correction are not exhausted by the grounds of blame"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,12 @@ history:
     Reading of Shoemaker (2019) filed; it confirms the claim's
     correction that the three-way split is Shoemaker's, not Watson's
     and Shoemaker's jointly.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries authenticity after its own line(s) under ADR-085, which it
+    takes part in: bears_on QUESTION-068 (authenticity). Found at the
+    line audit of 2026-11-18. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,6 +38,7 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - distributed-agency
+- authenticity
 bears_on:
 - QUESTION-068
 - QUESTION-470

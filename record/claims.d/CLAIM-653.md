@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcv1pg
 title: 'Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -13,6 +13,13 @@ history:
     moves from grounds to corroboration: its account, THEORY-1712,
     supports the premise that platforms reading demand shape production but
     not the heavy-user mechanism. Status unchanged.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-129
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -32,6 +39,7 @@ tags:
 date: '2026-11-12'
 line:
 - distributed-agency
+- organizational-normativity
 rests_on:
 - CLAIM-658
 complements:
