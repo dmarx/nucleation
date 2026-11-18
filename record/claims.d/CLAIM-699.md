@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpwxs2x
 title: 'Where the reward used in RL post-training is also available as a verifier at test time, the RL model''s single-sample gain is a cheaper route to what base sampling filtered by that verifier reaches at matched compute, and should not exceed it at large budgets; RL''s distinctive value lies where recognition at test time is unavailable or costly, so the substitutability of training and search is fixed by the cost of recognition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    "Admission" added at the synthesis review of 2026-11-18
+    (learned-structure): the claim rests on two claims, so it was tested
+    under ADR-075 step 5. It passes by a separating case and a
+    discriminating prediction. The claim is unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -41,7 +49,7 @@ summary: >-
   test. Untested. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-697 CLAIM-695 THEORY-331 — Proposed or new; the claims this rests on and the readings it is set against -->
+<!-- inactive-ok-file: THEORY-1908 ADR-075 CLAIM-697 CLAIM-695 THEORY-331 — Proposed or new; the claims this rests on and the readings it is set against -->
 
 # CLAIM-699: Where the reward used in RL post-training is also available as a verifier at test time, the RL model's single-sample gain is a cheaper route to what base sampling filtered by that verifier reaches at matched compute, and should not exceed it at large budgets; RL's distinctive value lies where recognition at test time is unavailable or costly, so the substitutability of training and search is fixed by the cost of recognition
 
@@ -63,6 +71,30 @@ summary: >-
    unavailable, a reward model too costly to run per sample), base
    sampling cannot be filtered. Then RL's gain is real reach for the
    deployed system, because the system lacks the selector.
+
+## Admission
+
+Added at the synthesis review of 2026-11-18 ([ADR-075](../decisions.d/ADR-075.md), step 5), because
+the claim rests on two claims.
+
+- **What it adds.** With the training verifier available at test time,
+  the RL model's large-budget accuracy does not exceed its base's
+  best-of-N under that verifier at matched total compute. Neither premise
+  says so. [CLAIM-697](CLAIM-697.md) says nothing about RL, and [CLAIM-695](CLAIM-695.md) leaves
+  sharpening against expansion to each run.
+- **A separating case.** A run in which RL expands what the base reaches,
+  which [CLAIM-695](CLAIM-695.md) allows "per run", with [CLAIM-697](CLAIM-697.md)'s envelope intact.
+  Both premises hold and the sentence fails. The case is realistic:
+  ProRL ([THEORY-1908](../theory.d/THEORY-1908.md)) reports new strategies under prolonged RL. So it may
+  also defeat this claim, under its own `defeated_if`. It does not yet,
+  because ProRL compared against base sampling at k up to about 128, not
+  against base sampling filtered by the training verifier at matched
+  compute.
+- **A discriminating prediction.** The premises leave open how the RL
+  curve and the verifier-filtered base curve compare at large budgets.
+  This claim predicts the second meets or exceeds the first on the
+  training task family, and that the substitution weakens as recognition
+  grows costly.
 
 ## What would test it
 
