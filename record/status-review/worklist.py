@@ -213,6 +213,12 @@ class Record:
                 if scheme(t) == "THEORY" and self.status(t) != "Active"
                 for c in as_list(fm.get("supports")) if scheme(c) == "CLAIM" and self.status(c) == "Active"]
 
+    def undercutters(self, arg: str) -> set[str]:
+        """Claims that undercut an ARG, read from the claims' `undercuts`: `undercut_by` is the
+        derived side, never stored, so the ARG's own frontmatter does not carry it."""
+        return set(as_list(self.docs[arg].get("undercut_by"))) | {
+            c for c, fm in self.docs.items() if scheme(c) == "CLAIM" and arg in as_list(fm.get("undercuts"))}
+
     def sound_unheld(self) -> list[tuple]:
         """Sound ARGs (inference Active, every premise Active) whose conclusion the record does not hold.
 
@@ -220,7 +226,7 @@ class Record:
         """
         return [(a, c, self.status(c))
                 for a, fm in sorted(self.docs.items()) if scheme(a) == "ARG" and self.sound(a)
-                and not any(self.status(u) == "Active" for u in as_list(fm.get("undercut_by")))
+                and not any(self.status(u) == "Active" for u in self.undercutters(a))
                 for c in as_list(fm.get("concludes")) if c in self.docs and self.status(c) != "Active"]
 
     def unwritten_concessions(self) -> list[tuple]:

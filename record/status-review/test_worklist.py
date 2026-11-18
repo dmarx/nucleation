@@ -104,6 +104,19 @@ def test_sound_arguments_with_unheld_conclusions(tmp_path):
     assert record(tmp_path).sound_unheld() == [("ARG-002", "CLAIM-003", "Proposed")]
 
 
+def test_an_undercutter_is_read_from_the_claim_that_undercuts(tmp_path):
+    # `undercut_by` is derived and never stored: the record carries only the claim's `undercuts`,
+    # so ARG-006 was listed in a section that must be empty while CLAIM-011 and CLAIM-253 held it
+    r = record(tmp_path)
+    arg = {"ARG-004": {"status": "Active", "rests_on": ["CLAIM-001"], "concludes": ["CLAIM-020"]},
+           "CLAIM-020": {"status": "Proposed", "role": "thesis"}}
+    held = {"CLAIM-021": {"status": "Active", "role": "counter", "undercuts": ["ARG-004"]}}
+    assert ("ARG-004", "CLAIM-020", "Proposed") in Record(r.docs | arg, r.bodies).sound_unheld()
+    assert ("ARG-004", "CLAIM-020", "Proposed") not in Record(r.docs | arg | held, r.bodies).sound_unheld()
+    unheld = {"CLAIM-021": {"status": "Proposed", "role": "counter", "undercuts": ["ARG-004"]}}
+    assert ("ARG-004", "CLAIM-020", "Proposed") in Record(r.docs | arg | unheld, r.bodies).sound_unheld()
+
+
 def test_retired_premises_name_the_successor(tmp_path):
     assert record(tmp_path).retired_premises() == [("CLAIM-002", "uses", "TERM-001", "Superseded", ["TERM-002"])]
 
