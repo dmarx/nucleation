@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmphe0p9
 title: 'The organizational-normativity line is four accounts that meet at its root questions and the older parts'' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another''s conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-11'
@@ -100,6 +100,16 @@ history:
     responsibility for another's conditions. Version 6's counts are
     replaced, version 4's and the dated notes are kept. Nothing is added
     to what the parts and components state.
+- version: 8
+  date: '2026-11-18'
+  note: >-
+    On the owner's decision of 2026-11-18, QUESTION-473 (standing to
+    blame), of organizational-normativity only, is mapped in that line's
+    part on accountability without blame, SYNTHESIS-104, and no longer
+    in dependence-and-domination's SYNTHESIS-099. Since its own line's
+    part now maps it, this account no longer integrates it directly, and
+    its paragraph among the directly integrated entries is removed. No
+    other change.
 defeated_if: >-
   A part account or component misstated or misattributed here, a
   component's declared sense of "organization" (TERM-074) among what can
@@ -128,7 +138,6 @@ integrates:
 - CLAIM-703
 - CLAIM-707
 - CLAIM-708
-- QUESTION-473
 - CLAIM-701
 - CLAIM-737
 - QUESTION-478
@@ -326,12 +335,6 @@ directly, as versions 5 and 6 did:
   the reconciliation it took the continuation's relational wrong. Keller,
   Santoni de Sio and van den Hoven, Anderson, the SEP entry "Blame" and
   Tessman's reply corroborate it.
-- **[QUESTION-473](../questions.d/QUESTION-473.md)** (A's, raised by a review of 2026-11-16 that the owner
-  forwarded; first filing; Open; organizational-normativity only; in
-  [SYNTHESIS-099](SYNTHESIS-099.md)): what an organization keeps of its standing to blame an
-  agent whose wrongdoing its conditions substantially produced, as
-  distinct from its authority to investigate, correct or sanction. It
-  would also fit [SYNTHESIS-104](SYNTHESIS-104.md); it is mapped beside the claims it names.
 - **[CLAIM-701](../claims.d/CLAIM-701.md)** (the assistant's, Claude, in the first filing's session,
   accepted by the owner on 2026-11-16; thesis, interpretive, Proposed;
   first line distributed-agency, organizational-normativity second; in

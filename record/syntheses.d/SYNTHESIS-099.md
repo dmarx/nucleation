@@ -3,7 +3,7 @@ number: 99
 status: Proposed
 formerly:
 - SYNTHESIS-tmphd6ep
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -28,7 +28,18 @@ history:
     CLAIM-700 is run again on its present premises, and Arm B again with
     the readings; no candidate passes. The title adds the credit and the
     standing to blame.
-title: "Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments, credited with what they supply and blame them when it fails, with what is left of its standing to blame them asked"
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    On the owner's decision of 2026-11-18, QUESTION-473 (standing to
+    blame), of organizational-normativity only, is mapped in that line's
+    part on accountability without blame, SYNTHESIS-104, and no longer
+    in dependence-and-domination's SYNTHESIS-099. It is no longer a
+    component here, and the clause on it leaves the title, the summary
+    counts three questions, the paragraph that described it now cites
+    it, and its Arm B and Not-stated entries stay as citations. No
+    other change.
+title: "Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments, credited with what they supply and blame them when it fails"
 defeated_if: >-
   A component misstated or misattributed here, its voice or its status
   among what can be misstated, or a reading's relation to it told wrongly
@@ -60,7 +71,6 @@ integrates:
 - CASE-288
 - CASE-290
 - QUESTION-487
-- QUESTION-473
 - QUESTION-472
 - QUESTION-477
 bears_on:
@@ -94,13 +104,13 @@ summary: >-
   with control, obligation and blame apart ([CLAIM-707](../claims.d/CLAIM-707.md), resting on
   [CLAIM-708](../claims.d/CLAIM-708.md)), required scrutiny cited as ownership ([CLAIM-715](../claims.d/CLAIM-715.md)) and a loop
   that cuts what the compensation hides ([CLAIM-700](../claims.d/CLAIM-700.md)). Two constructions
-  and four questions complete it. The readings corroborate most claims
+  and three questions complete it. The readings corroborate most claims
   in part; none corroborates [CLAIM-726](../claims.d/CLAIM-726.md), [CLAIM-702](../claims.d/CLAIM-702.md) or [CLAIM-700](../claims.d/CLAIM-700.md). The
   account adds nothing of its own; its standing is its components'.
 ---
 <!-- inactive-ok-file: ARG-113 ARG-115 CASE-279 CASE-288 CASE-290 CASE-292 CLAIM-445 CLAIM-553 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-669 CLAIM-678 CLAIM-679 CLAIM-687 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-703 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-710 CLAIM-712 CLAIM-713 CLAIM-715 CLAIM-721 CLAIM-726 CLAIM-728 SYNTHESIS-098 SYNTHESIS-101 TERM-110 TERM-123 TERM-124 TERM-127 THEORY-1397 THEORY-1912 THEORY-1914 THEORY-1916 THEORY-1917 THEORY-1919 THEORY-1921 THEORY-1922 THEORY-1925 THEORY-1926 THEORY-1928 THEORY-1929 THEORY-1931 THEORY-1932 THEORY-1933 THEORY-1935 THEORY-1937 THEORY-1939 THEORY-1943 THEORY-1946 THEORY-1948 THEORY-1949 THEORY-1958 THEORY-1961 THEORY-1973 THEORY-1986 THEORY-1987 THEORY-1991 THEORY-1993 — Proposed; components, citations and the readings that support them, with their standing -->
 
-# SYNTHESIS-099: Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments, credited with what they supply and blame them when it fails, with what is left of its standing to blame them asked
+# SYNTHESIS-099: Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments, credited with what they supply and blame them when it fails
 
 *A part account of the dependence-and-domination line. Version 1 was filed at the interim synthesis review of 2026-11-17, before the readings and before the two filings of the exchange "Assess Depp Heard Abuse" were reconciled. Version 2 is the follow-up review of 2026-11-18. The first filing (pull request 510, the first share, U1–U17 and A1–A35) and the continuation's (pull request 512, the later share) filed several of these ideas twice; at the reconciliation the first filing's entries kept their codes and took what the continuation's added (the curation entry of 2026-11-17, 20:57:46, its reconciliation section). Each component below is described as it now stands, with the filing each part of it comes from. The readings of 2026-11-16 (the first filing's) and of 2026-11-17 (filed on 2026-11-18) are cited as the support each component has, by the THEORY that carries the relation; a reading is not a component. Where a component cites another, the account says which entry does.*
 
@@ -362,10 +372,12 @@ weakly, [THEORY-1928](../theory.d/THEORY-1928.md) (Elish: certification). Its no
 
 [QUESTION-473](../questions.d/QUESTION-473.md) (raised by the first filing's third review of 2026-11-16,
 ChatGPT's, forwarded by the owner, from A15 and A17; the wording A's;
-Open; line organizational-normativity) asks what remains of an
-organization's moral standing to blame an agent whose wrongdoing its
-conditions substantially produced, as distinct from its authority to
-investigate, correct or sanction. Its body cites the complicity
+Open; line organizational-normativity), cited here and integrated since
+the owner's decision of 2026-11-18 by organizational-normativity's
+[SYNTHESIS-104](SYNTHESIS-104.md), the part on accountability without blame, asks what
+remains of an organization's moral standing to blame an agent whose
+wrongdoing its conditions substantially produced, as distinct from its
+authority to investigate, correct or sanction. Its body cites the complicity
 condition from [THEORY-1912](../theory.d/THEORY-1912.md), names [CLAIM-713](../claims.d/CLAIM-713.md), [CLAIM-702](../claims.d/CLAIM-702.md), [CLAIM-707](../claims.d/CLAIM-707.md) and
 [CLAIM-708](../claims.d/CLAIM-708.md) as the exchange's partial cases, and keeps itself apart from
 [QUESTION-470](../questions.d/QUESTION-470.md) (who must repair) and [QUESTION-487](../questions.d/QUESTION-487.md) (what the agent can do
@@ -403,7 +415,6 @@ make [QUESTION-472](../questions.d/QUESTION-472.md) exact.
 - [CASE-288](../cases.d/CASE-288.md), A's; stipulated thought experiment, Proposed.
 - [CASE-290](../cases.d/CASE-290.md), A's; stipulated proposed study, Proposed; first line will-organization.
 - [QUESTION-487](../questions.d/QUESTION-487.md), raised from A's turn, Open.
-- [QUESTION-473](../questions.d/QUESTION-473.md), raised by a review the owner forwarded, in A's wording, Open; line organizational-normativity.
 - [QUESTION-472](../questions.d/QUESTION-472.md), raised from A's turn (both filings), Open.
 - [QUESTION-477](../questions.d/QUESTION-477.md), the owner's question in the assistant's wording, Open.
 

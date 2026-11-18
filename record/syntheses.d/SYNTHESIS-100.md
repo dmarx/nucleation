@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpnj844
 title: "The argument filed from the exchange Assess Depp Heard Abuse, both shares, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts and a thread on friction and throughput; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through A's syntheses, each prompted by an owner's turn, and through reviews the owner forwarded; the readings of its works corroborate many components and narrow three"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -39,6 +39,14 @@ history:
     CLAIM-749, QUESTION-476, QUESTION-478, QUESTION-479, QUESTION-480,
     QUESTION-482, QUESTION-483, QUESTION-484, QUESTION-486. Its
     mapping of the exchange's thesis is unchanged.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    On the owner's decisions of 2026-11-18: integrates QUESTION-481,
+    which now refines QUESTION-486, and CLAIM-687, which now bears on
+    QUESTION-480; both carry rightful-power.
+    QUESTION-484's refinement of QUESTION-483 stands. Nothing else
+    changes.
 defeated_if: >-
   A component, part account or turn of the exchange misstated or
   misattributed here, the owner's turns, A's syntheses, the assistant's
@@ -103,10 +111,12 @@ integrates:
 - QUESTION-478
 - QUESTION-479
 - QUESTION-480
+- QUESTION-481
 - QUESTION-482
 - QUESTION-483
 - QUESTION-484
 - QUESTION-486
+- CLAIM-687
 bears_on:
 - QUESTION-478
 - QUESTION-485
@@ -771,13 +781,20 @@ decision of that date. The line's root questions are the owner's:
 that answers, bears on or (questions only) refines one of them:
 
 - **Questions refining a root:** [QUESTION-479](../questions.d/QUESTION-479.md) refines [QUESTION-478](../questions.d/QUESTION-478.md),
-  [QUESTION-482](../questions.d/QUESTION-482.md) refines [QUESTION-485](../questions.d/QUESTION-485.md), and [QUESTION-484](../questions.d/QUESTION-484.md) refines [QUESTION-483](../questions.d/QUESTION-483.md).
+  [QUESTION-482](../questions.d/QUESTION-482.md) refines [QUESTION-485](../questions.d/QUESTION-485.md), [QUESTION-484](../questions.d/QUESTION-484.md) refines [QUESTION-483](../questions.d/QUESTION-483.md), and
+  [QUESTION-481](../questions.d/QUESTION-481.md) refines [QUESTION-486](../questions.d/QUESTION-486.md): it asks which protections survive a
+  legitimate reconstitution of an arrangement, A90 XII's "bounded
+  constituent authority", the setting where rights no institution can
+  extinguish would have to bind. It is mapped in [SYNTHESIS-102](SYNTHESIS-102.md) as a
+  component of that part.
 - **[QUESTION-478](../questions.d/QUESTION-478.md), on restricting a capability:** [CLAIM-737](../claims.d/CLAIM-737.md) answers it.
   [CLAIM-716](../claims.d/CLAIM-716.md), [CLAIM-721](../claims.d/CLAIM-721.md) and [CLAIM-734](../claims.d/CLAIM-734.md) bear on it.
 - **[QUESTION-485](../questions.d/QUESTION-485.md), on legitimacy and adequacy:** [CLAIM-737](../claims.d/CLAIM-737.md) bears on it, and
   so do [CLAIM-725](../claims.d/CLAIM-725.md) and [CLAIM-746](../claims.d/CLAIM-746.md).
 - **[QUESTION-480](../questions.d/QUESTION-480.md), on answerability:** [CLAIM-739](../claims.d/CLAIM-739.md) answers it. [CLAIM-727](../claims.d/CLAIM-727.md),
-  [CLAIM-732](../claims.d/CLAIM-732.md) and [CLAIM-749](../claims.d/CLAIM-749.md) bear on it.
+  [CLAIM-732](../claims.d/CLAIM-732.md), [CLAIM-749](../claims.d/CLAIM-749.md) and [CLAIM-687](../claims.d/CLAIM-687.md) bear on it. [CLAIM-687](../claims.d/CLAIM-687.md), from an
+  earlier exchange, says the answerability owed rises with dependence;
+  A83 takes it up as an intensifier of what is owed, not a ground.
 - **[QUESTION-486](../questions.d/QUESTION-486.md), on unalienable rights:** [CLAIM-720](../claims.d/CLAIM-720.md), [CLAIM-741](../claims.d/CLAIM-741.md) and
   [CASE-286](../cases.d/CASE-286.md) bear on it.
 - **[QUESTION-483](../questions.d/QUESTION-483.md), on Scanlon:** [CLAIM-735](../claims.d/CLAIM-735.md) and [CLAIM-747](../claims.d/CLAIM-747.md) bear on it.

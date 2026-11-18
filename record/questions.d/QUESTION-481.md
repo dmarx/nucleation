@@ -4,7 +4,16 @@ formerly:
 - QUESTION-tmpgeqju
 status: Open
 title: 'Who has standing to authorize changes to an arrangement''s governing structure, by which procedures, and which protections lie beyond any ordinary delegation or revision of it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    On the owner's decision of 2026-11-18, refines QUESTION-486: its
+    boundary clause asks which protections survive a legitimate
+    reconstitution, the setting in which rights no institution can
+    extinguish would have to bind. Carries rightful-power after its own
+    lines under ADR-085. No other change.
 tags:
 - society-and-governance
 - self-governance
@@ -13,6 +22,9 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - organizational-normativity
+- rightful-power
+refines:
+- QUESTION-486
 summary: >-
   A's, from the exchange "Assess Depp Heard Abuse" (2026-11-17): first
   stated in A85 §8, after the Virginia Declaration of Rights' right "to
@@ -80,6 +92,13 @@ The limit half is where [CLAIM-720](../claims.d/CLAIM-720.md) bears: if no deleg
 authority to extinguish certain standing, then no reconstitution by those
 who delegated can either. [QUESTION-486](QUESTION-486.md) asks whether rights of that
 kind can be had at all.
+
+Refines [QUESTION-486](QUESTION-486.md): its boundary clause asks the same thing in the
+setting where it bites hardest. [QUESTION-486](QUESTION-486.md) asks whether rights that no
+institution creates or can extinguish can serve as criteria; this
+question asks which protections survive a legitimate reconstitution of
+the arrangement itself, which is where such rights would have to stop a
+majority that has authority to reform, as A85 §8's limit says.
 
 ## What would count as an answer
 

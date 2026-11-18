@@ -3,7 +3,7 @@ number: 95
 status: Proposed
 formerly:
 - SYNTHESIS-tmpt2tjp
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -45,6 +45,16 @@ history:
     CLAIM-624). Each part's support from the readings is summarized,
     attributed to the part accounts that give it. Nothing is added to
     what the parts and components state.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    On the owner's decision of 2026-11-18, QUESTION-473 (standing to
+    blame), of organizational-normativity only, is mapped in that line's
+    part on accountability without blame, SYNTHESIS-104, and no longer
+    in dependence-and-domination's SYNTHESIS-099. The part description
+    of SYNTHESIS-099 and the paragraph on components carrying
+    organizational-normativity first say so. The relation counts of
+    version 3 are left as counted. No other change.
 title: 'The dependence-and-domination line is six accounts: what wholes and parts owe and claim; what those who govern an arrangement others depend on owe; responsibility for another''s conditions, and moral exploitation; restricting capabilities, and who controls the terms of waiting and contracting; remedies foreclosed before review; and answerability and contestability; the parts meet mostly where the later four use the first part''s term for domination and point at its claims on control of terms, and the line makes no claim beyond its parts'
 defeated_if: >-
   A part account or component misstated or misattributed here, a
@@ -156,10 +166,11 @@ summary: >-
   ownership ([CLAIM-715](../claims.d/CLAIM-715.md), developing the owner's U11); the hidden-shortfall
   loop ([CLAIM-700](../claims.d/CLAIM-700.md), resting on [CLAIM-702](../claims.d/CLAIM-702.md) among others, which the part's
   Arm A, run again on its present premises, finds adds something); two
-  constructions ([CASE-288](../cases.d/CASE-288.md), [CASE-290](../cases.d/CASE-290.md)); and four questions, [QUESTION-487](../questions.d/QUESTION-487.md) and
-  [QUESTION-472](../questions.d/QUESTION-472.md) raised from A's turns, [QUESTION-473](../questions.d/QUESTION-473.md) raised by a review the
-  owner forwarded, and the owner's [QUESTION-477](../questions.d/QUESTION-477.md) (U8, in the assistant's
-  wording). Readings corroborate [CLAIM-709](../claims.d/CLAIM-709.md)'s first half (seven THEORYs on
+  constructions ([CASE-288](../cases.d/CASE-288.md), [CASE-290](../cases.d/CASE-290.md)); and three questions, [QUESTION-487](../questions.d/QUESTION-487.md) and
+  [QUESTION-472](../questions.d/QUESTION-472.md) raised from A's turns, and the owner's [QUESTION-477](../questions.d/QUESTION-477.md) (U8, in
+  the assistant's wording). [QUESTION-473](../questions.d/QUESTION-473.md), raised by a review the owner
+  forwarded, was mapped here until the owner's decision of 2026-11-18
+  moved it to organizational-normativity's [SYNTHESIS-104](SYNTHESIS-104.md). Readings corroborate [CLAIM-709](../claims.d/CLAIM-709.md)'s first half (seven THEORYs on
   coercive control), [CLAIM-708](../claims.d/CLAIM-708.md), [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md) (Keller among them),
   [CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-715](../claims.d/CLAIM-715.md)'s first half; none corroborates [CLAIM-726](../claims.d/CLAIM-726.md),
   [CLAIM-702](../claims.d/CLAIM-702.md) or [CLAIM-700](../claims.d/CLAIM-700.md).
@@ -240,7 +251,7 @@ map, this account integrates them directly.
 
 The converse also holds. Several components of this line's parts carry
 organizational-normativity first or only: [CLAIM-707](../claims.d/CLAIM-707.md), [CLAIM-708](../claims.d/CLAIM-708.md),
-[CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-700](../claims.d/CLAIM-700.md), [CLAIM-722](../claims.d/CLAIM-722.md) and [QUESTION-473](../questions.d/QUESTION-473.md) (and [CLAIM-701](../claims.d/CLAIM-701.md), which
+[CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-700](../claims.d/CLAIM-700.md) and [CLAIM-722](../claims.d/CLAIM-722.md) (and [CLAIM-701](../claims.d/CLAIM-701.md), which
 also carries distributed-agency). Whether organizational-normativity's
 account integrates them directly is that account's to say.
 
