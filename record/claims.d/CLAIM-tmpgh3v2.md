@@ -26,6 +26,8 @@ rests_on:
 - CLAIM-423
 uses:
 - TERM-124
+complements:
+- CLAIM-711
 summary: >-
   A's, from A33 §4 and §8 of the exchange "Assess Depp Heard Abuse"
   (2026-11-15), after the owner pointed to the record's "timescale
@@ -41,8 +43,10 @@ summary: >-
   analogy, and holds only if that carriage holds. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-711 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-423 TERM-124 — Proposed; the claims this rests on and the record's term for domination -->
-<!-- inactive-ok-file: CLAIM-tmph28l6 CLAIM-tmp11xvc CASE-tmpdn372 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmph28l6 CASE-tmpdn372 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CLAIM-tmpgh3v2: Where a slowly revised governing level (a statute, an objective, a classification) constrains a fast process, the fast process can change the world before the slow level can be revised, so those it harms have no route to the rule as fast as its application reaches them, and the rule dominates them without anyone actively intervening; where the slow level is open to revision on demand, the same separation of timescales keeps the fast process accountable instead
 
@@ -98,9 +102,18 @@ entrenched as seemingly natural limits on what anyone may do."
   proportionately increasing another's capacity", so errors are produced
   faster than they are found; that is [CLAIM-462](CLAIM-462.md)'s action outrunning
   correction, recorded there as a note. [CLAIM-tmph28l6](CLAIM-tmph28l6.md) is the same
-  asymmetry stated as cost. The owner's [CLAIM-tmp11xvc](CLAIM-tmp11xvc.md) is what compiled
+  asymmetry stated as cost. The owner's [CLAIM-710](CLAIM-710.md) is what compiled
   constraints preserve: points at which the process stays open.
 - [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) proposes the study that would separate the two clauses.
+- **[CLAIM-711](CLAIM-711.md)**, from the first share of the same exchange, holds this
+  claim's second clause, from A33 §8 and A35 §7, as an objection to the
+  "characterizes" reading of [CLAIM-710](CLAIM-710.md): slowly set constraints with fast
+  actuators keep a process interruptible without delay. This claim is
+  distinct in its first clause, from A33 §4, which that one does not hold:
+  the same separation of timescales, with the slow level closed to those
+  the fast process harms, is temporal domination with no one actively
+  intervening. The two complement each other; which clause holds depends on
+  whether the slow level can be reached.
 
 ## What it does not say
 

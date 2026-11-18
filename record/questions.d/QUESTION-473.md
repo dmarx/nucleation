@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmppfb7b
 title: 'When an organization has substantially contributed to the conditions that produced an agent''s wrongdoing, what remains of its moral standing to blame that agent, as distinct from its authority to investigate, correct or sanction the wrongdoing?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    its QUESTION-tmpvoufs (agents holding principals accountable for
+    conditions) was compared with this question and judged distinct; a
+    sentence on the difference added. No change of status or title.
 tags:
 - ethics
 - society-and-governance
@@ -26,6 +34,7 @@ summary: >-
   organization may need to sanction dangerous conduct that it helped to
   produce. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: QUESTION-tmpvoufs — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: THEORY-1912 CLAIM-708 CLAIM-707 CLAIM-702 CLAIM-713 — Proposed; cited with their standing -->
 
 # QUESTION-473: When an organization has substantially contributed to the conditions that produced an agent's wrongdoing, what remains of its moral standing to blame that agent, as distinct from its authority to investigate, correct or sanction the wrongdoing?
@@ -54,3 +63,9 @@ are not persons, and how far it reaches (forced, induced, enabled); and a
 showing of whether loss of standing to blame leaves disciplinary authority
 intact. Distinct from [QUESTION-470](QUESTION-470.md), which asks who must repair a harm,
 not who may condemn for it.
+
+The continuation of the same exchange filed A17's inverse question as
+[QUESTION-tmpvoufs](QUESTION-tmpvoufs.md): by what instruments agents can hold principals
+accountable for the conditions they set. Distinct: this question asks what
+the principal may still do to the agent, that one what the agent can do to
+the principal.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp91lqy
 title: 'independent execution gate, of a process: a step past which the process cannot continue unless a condition holds that its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it; distinct from execution impedance (added time or cost) and from an intervention opportunity (a point at which another party can bring an objection that changes the process), and not settled as a sense of procedural friction'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-11-16'
@@ -48,6 +48,14 @@ history:
     owner's "characterizes" reading holds, is left open. The dated notes
     below were written against version 1; where they say "friction in this
     term's sense" read "an independent execution gate".
+- version: 10
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    its CLAIM-tmpohafo (explanation, contestation and interruption) was
+    compared with this term and judged distinct, an entitlement of an
+    affected party and not a property of a step; a sentence on the
+    difference added. No change of status or title.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -71,6 +79,7 @@ summary: >-
   in this session); adopting it is the owner's call.
 
 ---
+<!-- inactive-ok-file: CLAIM-tmpohafo — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-706 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-1609 LIT-2660 — Deferred; Herd and Moynihan, unread -->
 <!-- inactive-ok-file: CLAIM-710 CLAIM-711 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
@@ -129,6 +138,12 @@ choosing a word; [CLAIM-706](../claims.d/CLAIM-706.md) says what holds either wa
   Version 1 of this term kept only the resistance and dropped the loss;
   the review of 2026-11-16 showed that this merged resistance to the
   executor with openness to others.
+
+The continuation of the same exchange filed A23 §6's three entitlements
+of an affected party, explanation, contestation and interruption, as
+[CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md). Its interruption is an entitlement, which a gate in this
+term's sense may or may not give; the two are distinct and are not to be
+read as one.
 
 ## Note of 2026-11-16: Cuéllar, read
 

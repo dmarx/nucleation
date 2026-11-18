@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpz5twh
 title: 'When automation changes a consequential action from proceeding only on affirmative approval to proceeding unless someone vetoes it, with the reviewer, information, authority and capacity held fixed, what changes in the capacity to prevent harm, in who bears the burden of preventing it, and in whether nonintervention may be read as authorization?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    its CASE-tmpohiyo (a proposed study of a fall in complaints) bears on
+    this question's last part and is distinct from it; a sentence added. No
+    change of status or title.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -26,6 +34,7 @@ summary: >-
   default, and proposed a matched construction. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpohiyo — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-704 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-553 CLAIM-705 CLAIM-706 CLAIM-713 TERM-125 THEORY-1931 — Proposed; the neighbouring entries, cited with their standing -->
 
@@ -66,3 +75,10 @@ preventive capacity (which harms are stopped in time), in operational burden
 nonintervention as endorsement; and a criterion for when a veto default is
 legitimate (for instance, low stakes, reversible effects and a real
 opportunity to object, as A23 §8 suggests).
+
+The continuation of the same exchange filed A33 §6 and §10 B as a proposed
+study, [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md): five measures that tell, when complaints fall,
+whether members accept the conditions or have stopped being able to
+object. It is distinct from this question, which varies the default and
+not the channel, and bears on its last part, whether nonintervention may
+be read as authorization.

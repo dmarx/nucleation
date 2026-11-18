@@ -40,8 +40,9 @@ history:
   note: >-
     A dated note: the owner's U13 of the exchange "Assess Depp Heard
     Abuse" restates the observation this claim was filed from, with
-    Hains Point as a new example whose facts are unverified. No other
-    change.
+    Hains Point as a new example whose facts are unverified here; CASE-278
+    and CASE-276, from the first filing of the same exchange, hold them
+    (pointer added at the reconciliation of 2026-11-18). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -307,8 +308,11 @@ preliminary, so that a reviewable decision is not yet there to challenge.
 A25: "the government exercises effective control through preliminary
 actions, while opponents must establish that those actions are legally
 ripe for review." A25 also counts the 14 November order as "an important
-counterexample to an overly deterministic version of our theory". No case
-is filed until the facts are checked.
+counterexample to an overly deterministic version of our theory". This
+note files no case of its own: the filing of the first share of the same
+exchange (PR 510) holds Hains Point, documented from reports checked on
+2026-11-15, as [CASE-278](../cases.d/CASE-278.md), and the third-country removals as
+[CASE-276](../cases.d/CASE-276.md).
 
 A25's limiting questions fit this claim's edge on intent: "whether
 pre-action review was required, whether urgency was genuine, whether less

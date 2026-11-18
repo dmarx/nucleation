@@ -537,7 +537,8 @@ feel they have (the mediation was not significant). This is an empirical instanc
 p < .10 in places), of governing through the criteria a procedure uses. The fit is partial: CLAIM-404 is about governance from outside the organization, and INSPECT is the organization's own system. Relation: bears_on, weakly; the filer may prefer none.
 
 ## Note of 2026-11-17: reflexive control again, for moral conditions, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpciy9q — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-tmpciy9q — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-713 — Proposed; filed from the first share of the same exchange (PR 510) -->
 
 The owner returned to reflexive control at U6 of the exchange "Assess Depp
 Heard Abuse" (2026-11-15): "this reminds me of russian work on "reflexive
@@ -557,9 +558,10 @@ form, "Creating genuine moral obligations". That is a route this claim does
 not hold. Its evidence route moves a*(e) with U fixed, and its criteria
 route moves U. In A's route neither moves: the manipulator changes the
 state of the world itself, the target sees it accurately, and its correct
-decision moves because the world did. It is filed as [CLAIM-tmp76x3e](CLAIM-tmp76x3e.md), which
-rests on this claim, with A15 §7's condition (the manipulator controls the
-trigger and escapes the cost) as what makes it a way of being governed.
+decision moves because the world did. It is held as [CLAIM-703](CLAIM-703.md), from the first share of
+the same exchange, which complements this claim; A15 §7's condition (the manipulator
+controls the trigger and escapes the cost), which makes it a way of being
+governed, is [CLAIM-713](CLAIM-713.md)'s.
 The use of a manipulated party's real wrongs against it, before an
 anticipated audience, is [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md).
 

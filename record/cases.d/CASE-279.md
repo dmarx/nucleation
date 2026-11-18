@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpwrhkd
 title: 'Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -34,6 +34,13 @@ history:
   date: '2026-11-16'
   note: >-
     Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, with the shape of CASE-264. No relation supplies organizational-normativity to it (ADR-085). No other change.
+- version: 9
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    from CASE-tmpzt3zf, its filing of Relationship B alone, it takes A3 §5's
+    tabulation of the same contrast and A3 §3's six questions about control,
+    credited there. No change of status or title.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -56,6 +63,7 @@ summary: >-
   [CASE-264](CASE-264.md)'s two workshops. The wording is A's; adopting it is the owner's
   call.
 ---
+<!-- unresolved-ok-file: CASE-tmpzt3zf — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: ARG-113 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2715 LIT-2675 — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CASE-264 — Proposed; the record's contrast of the same shape, cited with its standing -->
@@ -86,6 +94,24 @@ What is stipulated: in B, Carol commits as many wrongful violent acts as
 Dan or more, and Dan alone holds control over the terms of Carol's life
 (money, communication, friendships, exit). In A, both commit wrongful acts
 and neither holds that control.
+
+A3 §5 restates Relationship B as "an extreme illustration" in a table
+(its Person A is Carol's position, its Person B Dan's), carried here from
+the continuation's filing of the same turns:
+
+| Question | Person A | Person B |
+|---|---|---|
+| Number of times they struck their partner | 4 | 2 |
+| Threatened to kill their partner | No | Yes |
+| Controls their partner's finances | No | Yes |
+| Prevents their partner seeing friends | No | Yes |
+| Afraid of their partner | Yes | No |
+
+"If you only counted strikes, A would appear more violent. If you examined
+the full pattern, B might emerge as the primary coercive aggressor." A3
+§3's six questions (can each say no, keep friends, spend money, leave the
+room, disagree, leave the relationship) are what the second column
+answers: they ask about a capacity to set terms, not about acts.
 
 ## What it can show
 

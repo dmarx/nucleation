@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpgyn11
 title: 'Can a party''s ability to activate another''s genuine moral obligations constitute control over the terms of that other''s dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone''s conscientiousness?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-16'
@@ -22,6 +22,15 @@ history:
   date: '2026-11-16'
   note: >-
     Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about control over the terms of a dependence. No relation supplies organizational-normativity to it (ADR-085). No other change.
+- version: 6
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512),
+    which filed A30 §4's question again as QUESTION-tmpbzq36: from it, the
+    question's stake for TERM-124 (if activating an obligation is not
+    control over terms, exploitation and domination come apart there), a
+    second form of the negative answer and a sharper form of the test case.
+    No change of status or title.
 tags:
 - ethics
 - society-and-governance
@@ -42,8 +51,10 @@ summary: >-
   her patients is A30's example. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- unresolved-ok-file: QUESTION-tmpbzq36 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: THEORY-1917 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: ADR-093 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+<!-- inactive-ok-file: TERM-124 — Proposed; the record's term for domination, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-703 CLAIM-713 CASE-264 — Proposed; the dependence claims and this exchange's normative-manipulation claims, cited with their standing -->
 
 # QUESTION-472: Can a party's ability to activate another's genuine moral obligations constitute control over the terms of that other's dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone's conscientiousness?
@@ -71,6 +82,16 @@ party has placed in its care. If that counts as control over the terms,
 protection, influence, challenge or justified withdrawal") can be met by a
 conscience.
 
+What turns on it, as the continuation's filing of the same turns put it
+(share https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b):
+[TERM-124](../terms.d/TERM-124.md) defines domination as a capacity to set or change the terms on
+which a party can act, exit, contest or renegotiate. If the ability to
+trigger an obligation is such a capacity, a party with no authority over
+the person can dominate them through their own conscience; [CLAIM-703](../claims.d/CLAIM-703.md)
+says how, and [CLAIM-713](../claims.d/CLAIM-713.md) says it can happen without intent. If it is not,
+those are exploitation without domination, and the record's two terms
+come apart there.
+
 ## What would count as an answer
 
 - **Yes**, with a criterion that separates it from legitimate reliance:
@@ -83,9 +104,16 @@ conscience.
   real but belongs to another relation (the third parties' claims), and
   [CLAIM-690](../claims.d/CLAIM-690.md)'s list is complete.
 
+- **No**, by a second route: an argument that a capacity to set terms
+  must act on the person's options and not on their reasons, so that a
+  triggered obligation is a cost the person bears and not a term another
+  sets.
+
 A case varying only the source of the barrier to exit, contract in one
 arrangement and the part's own obligation in the other, at the same
-dependence, would test it as [CASE-264](../cases.d/CASE-264.md) tests control.
+dependence, would test it as [CASE-264](../cases.d/CASE-264.md) tests control: two people of equal
+indispensability who differ only in a commitment to those served, with
+their leverage over their terms compared.
 
 ## Note of 2026-11-16: Freyd, read
 

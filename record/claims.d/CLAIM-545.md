@@ -348,7 +348,7 @@ Both sit near this claim's domination as control over the relations
 through which demands become effective. Note only; no relation proposed.
 
 ## Note of 2026-11-17: the wrong the domination clause names, stated informally, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpa2l21 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 
 A9 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15) compares a
 thief with someone who "systematically makes you dependent, fearful, and
@@ -361,7 +361,7 @@ necessary for survival." That is an informal statement of the wrong this
 claim's last clause names: another's capacity to govern the relations by
 which an agent governs its own governability. A says the second wrong is
 "qualitatively different", not categorically worse. The wrong of arranging
-another's wrongdoing is filed as [CLAIM-tmpa2l21](CLAIM-tmpa2l21.md).
+another's wrongdoing is held as [CLAIM-708](CLAIM-708.md).
 
 A11 §7 lays out what each form of control controls: direct coercion "The
 consequences of refusing a demand", coercive control "The person's

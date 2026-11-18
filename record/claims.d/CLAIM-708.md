@@ -3,8 +3,8 @@ number: 708
 status: Proposed
 formerly:
 - CLAIM-tmpnw7ez
-title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it'
-version: 14
+title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it, and the structuring is also a wrong of its own against the person structured, whether or not they comply'
+version: 15
 history:
 - version: 2
   date: '2026-11-16'
@@ -58,6 +58,23 @@ history:
   date: '2026-11-16'
   note: >-
     Gains distributed-agency second: it bears on QUESTION-070, whose first line that is (ADR-085). Missed when filed; found in the line check after the split of organizational-normativity (#506). No other change.
+- version: 15
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    from CLAIM-tmpa2l21, filed there from A9 and A11 §6 of the later share,
+    it takes the relational wrong (structuring another's circumstances
+    wrongs the person structured, whether or not the trap succeeds), now in
+    the title; A9 §4's non-zero-sum salesperson case and gradient; A9 §9's
+    repair; A9 §5 and §8's limits; the neighbours CASE-151, CLAIM-671 and
+    QUESTION-449, with bears_on QUESTION-449; the use of the continuation's
+    TERM-tmp8pnnr; and a second branch of the defeater. The title was:
+    Responsibility for one's own conduct and responsibility for the
+    conditions under which another acts are distinct and can both hold of
+    one outcome: a party who wrongfully structures another's circumstances
+    so that a wrong becomes likely, hard to avoid or apparently necessary
+    can answer for that wrong while the one who commits it still answers for
+    committing it. No change of status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,7 +86,10 @@ defeated_if: >-
   another's circumstances is at most a separate wrong and never a share in
   the act's. Not defeated by cases where influence on another's
   circumstances generates no responsibility for what they then do, which
-  the claim allows: it is limited to wrongful structuring.
+  the claim allows: it is limited to wrongful structuring. Its last clause
+  is defeated by an argument that structuring another's circumstances
+  wrongs only those harmed downstream, never the person structured, and so
+  is no wrong when the person refuses.
 tags:
 - ethics
 - agency
@@ -83,6 +103,9 @@ complements:
 - CLAIM-709
 bears_on:
 - QUESTION-070
+- QUESTION-449
+uses:
+- TERM-tmp8pnnr
 summary: >-
   A's, from A7 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15):
   "People are responsible for their conduct, but they can also be
@@ -96,13 +119,16 @@ summary: >-
   violation in reproducing what keeps a standard from constraining. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- unresolved-ok-file: CLAIM-tmpa2l21 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: THEORY-1914 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1919 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, unread -->
 <!-- inactive-ok-file: CLAIM-709 — filed with this claim, Proposed -->
+<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-671 — Proposed; a neighbour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-445 THEORY-147 — Proposed; the neighbours, cited with their standing -->
 
-# CLAIM-708: Responsibility for one's own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another's circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it
+# CLAIM-708: Responsibility for one's own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another's circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it, and the structuring is also a wrong of its own against the person structured, whether or not they comply
 
 ## The claim
 
@@ -146,6 +172,34 @@ weaponized the wrong, and proportionality. And it blocks the regress:
 coercion, domination and manipulation special is that they "**wrongfully
 interfere with another person's capacity to govern their own conduct**".
 
+## The wrong against the person structured
+
+Carried from the continuation's filing of the same turns (share
+https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b). A9 §1
+works through a manager and an employee asked to falsify records, from
+ordinary to coerced wrongdoing to "Manufactured dependency", and calls its
+two layers "analytical labels, rather than as the names of a universally
+accepted philosophical taxonomy". Three further parts:
+
+- **It is wrong without success.** A9 §1: "**Creating a coercive moral
+  trap can itself be wrong, whether or not the trap succeeds.**"
+- **It is not zero-sum.** A9 §4: "responsibility isn't necessarily
+  zero-sum." A salesperson lies to a customer under a manager's deceptive
+  incentive scheme: the salesperson wrongs the customer, the manager wrongs
+  the customer, and "The manager may also have wronged the salesperson".
+  "They may be **several distinct wrongs connected through a single
+  event**." A9 §4 grades what the structuring party does, from "Influences
+  B" through "Creates foreseeable pressure" and "Exploits B's
+  vulnerability" to "Deliberately engineers wrongdoing".
+- **It wrongs the person structured.** A9's principle separates a
+  distributive claim from a relational one: "deliberately compromising
+  another person's moral agency may be a wrong *against that person*,
+  quite apart from whatever harms subsequently occur." A11 §6 states it for
+  the reflexive-control case as A's responsibility "for appropriating B's
+  agency". A9 §9: the arranger may owe "acknowledgment of the dilemma they
+  created, restitution for resulting losses, and changes that restore the
+  other person's ability to act independently."
+
 ## Where it sits
 
 - [CLAIM-624](CLAIM-624.md) holds the organizational form: an organization's
@@ -166,6 +220,24 @@ interfere with another person's capacity to govern their own conduct**".
   the actor's side.
 - The same exchange's [CLAIM-709](CLAIM-709.md) (equality of wrongdoing and of power
   are separate questions) uses this claim for its second half.
+- [CASE-151](../cases.d/CASE-151.md) (Wells Fargo) is a documented arrangement of the kind:
+  a sales model and performance management that the board's investigation
+  traced the misconduct to, with leadership blaming individual employees.
+  The claim does not rest on it; whether the report shows the relational
+  wrong, against the employees, is not settled here.
+- [QUESTION-449](../questions.d/QUESTION-449.md) asks whether it matters that another installed a
+  mechanism, or only who maintains it now. A9 §3 answers for persons that
+  responsibility "for the formation of the dispositions that produced it"
+  can lie with someone other than the actor: "These responsibilities can
+  belong partly to different people." The claim bears on the question; it
+  does not answer it for organizations.
+- [CLAIM-671](CLAIM-671.md) strengthens a responsible agent's obligations where a
+  transformation increases another's vulnerability to it; this claim names
+  the wrong of using such vulnerability to produce wrongdoing.
+- The senses of responsibility kept apart are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s. The
+  continuation's filing read [CLAIM-624](CLAIM-624.md)'s "second-order" as a duty about
+  keeping violations correctable rather than a wrong of producing another's
+  wrong; on either reading [CLAIM-624](CLAIM-624.md) is not this claim restated.
 
 ## What it does not say
 
@@ -175,6 +247,15 @@ interfere with another person's capacity to govern their own conduct**".
 - **That it is new.** Young's *Responsibility for Justice*
   ([LIT-2246](../literature.d/LIT-2246.md), Deferred) and the literature on derivative and complicitous responsibility
   hold versions of it; A states it as a synthesis, not a discovery.
+- **That an explanation excuses.** A9 §5: "We have to be especially careful
+  about the phrase *You made me do it.*" "An explanation involving another
+  person's conduct is not automatically an excuse." "we should judge their
+  choices in light of the choices they actually had."
+- **That responsibility is fixed.** A9 §5: "**A person's responsibility can
+  change as their capacity for doing otherwise changes.**"
+- **That the second-order wrong is always the worse.** A9 §8: "Not
+  everyone would agree that the second wrong is categorically worse, but
+  there is good reason to regard it as qualitatively different."
 
 ## Note of 2026-11-16: Gaboriaud and colleagues, read
 

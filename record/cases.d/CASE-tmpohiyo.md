@@ -15,7 +15,9 @@ line:
 illustrates:
 - CLAIM-553
 - CLAIM-549
-- CLAIM-tmp0ogo4
+- CLAIM-700
+bears_on:
+- QUESTION-474
 summary: >-
   From A33 §3, §6 and §10 B of the exchange "Assess Depp Heard Abuse"
   (2026-11-15). A33 §3 names "**the conversion of tolerance into apparent
@@ -30,7 +32,9 @@ summary: >-
   No such study is held ([CASE-249](CASE-249.md) is a pass-rate study). Not run. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-553 CLAIM-tmp0ogo4 CLAIM-619 CASE-249 — Proposed or new; the claims the study would test -->
+<!-- inactive-ok-file: CLAIM-702 CLAIM-700 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-700 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-553 CLAIM-619 CASE-249 — Proposed or new; the claims the study would test -->
 
 # CASE-tmpohiyo: A proposed study of a fall in complaints: with working conditions held fixed, measure separately whether members find the conditions acceptable, see the discrepancy from their standards, are moved to intervene, have a protected channel and can change what the institution does, and compare an organization with timely, protected escalation against one where complaint is costly or ineffective, to tell satisfaction from tolerance
 
@@ -80,9 +84,17 @@ the last can coexist with rising distress: "Increasingly distressed or
 mobilized perspectives", "Declining practical capacity to express or act
 on their concerns" and "Decreasing recorded objections". Across the arms,
 whether a fall in complaints tracks the channel rather than the conditions,
-which is [CLAIM-tmp0ogo4](../claims.d/CLAIM-tmp0ogo4.md)'s loop observed at its quiet link, and [CLAIM-619](../claims.d/CLAIM-619.md)'s
+which is [CLAIM-700](../claims.d/CLAIM-700.md)'s loop observed at its quiet link, and [CLAIM-619](../claims.d/CLAIM-619.md)'s
 counter-corrective disposition if the costly arm was made so in answer to
 complaint.
+
+It is distinct from two entries of the first share of the same exchange.
+[CLAIM-702](../claims.d/CLAIM-702.md) is about what the record of an organization shows of its
+members' compensation; this study measures what a fall in complaints
+shows of their acceptance. [QUESTION-474](../questions.d/QUESTION-474.md) asks what changes when an
+action proceeds unless vetoed, including whether nonintervention may be
+read as authorization; the study's five measures are one way to tell, for
+complaints, whether silence is acceptance, so it bears on that question.
 
 ## What it cannot show
 

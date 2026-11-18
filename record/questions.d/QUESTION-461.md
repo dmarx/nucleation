@@ -255,7 +255,8 @@ identification with caring keeps its exploitation "unacknowledged by them or by 
 manner" (p. 13). Relation: **bears_on**.
 
 ## Note of 2026-11-17: a mechanism for the second branch, and a sharper question, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpe5u7i CLAIM-690 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed -->
+<!-- inactive-ok-file: CLAIM-713 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-690 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed -->
 
 The exchange "Assess Depp Heard Abuse" (2026-11-15) offers a mechanism for
 this question's second branch, where an organization's dependence on
@@ -266,8 +267,8 @@ from a financial obligation of the institution into a moral burden on its
 employees.**"). On [CLAIM-690](../claims.d/CLAIM-690.md) a part able to withdraw turns the whole's
 need of it into its own hold; a commitment that makes withdrawal a moral
 failure takes that ability away from inside, and the need gives no hold.
-A13 §10 adds that the most conscientious bear most. Filed as
-[CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md), which bears on this question.
+A13 §10 adds that the most conscientious bear most. Held as
+[CLAIM-713](../claims.d/CLAIM-713.md), which bears on this question.
 
 A17's close asks the reverse of principal–agent theory: "*How can agents
 hold principals accountable for the conditions under which agents are

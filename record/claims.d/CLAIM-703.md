@@ -3,8 +3,8 @@ number: 703
 status: Proposed
 formerly:
 - CLAIM-tmpd6uxt
-title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged, and the manipulation works through the target''s sound moral reasoning rather than a defect in it; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
-version: 4
+title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target''s sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -18,6 +18,25 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Keller (LIT-2670) read on 2026-11-16, NOTE-2005. No change of status or title.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    from CLAIM-tmp76x3e, filed there from A11 §4, A13 and A15 §7 of the
+    later share, it takes the statement of the route as one through the
+    target's situation, with its evidence accurate and its criteria
+    unchanged (now in the title), stated in CLAIM-404's terms; A13 §2's
+    three mechanisms and §6's contrast with persuasion; A13 §5 and §9's
+    limit that appealing to commitments is not wrong as such; the neighbours
+    THEORY-225, CLAIM-660 and QUESTION-071, with bears_on QUESTION-071 and
+    QUESTION-472; and the use of the continuation's TERM-tmp8pnnr. A15 §7's
+    condition, which the continuation's entry carried, stays with CLAIM-713.
+    The title was: One party can wrongfully bring about circumstances in
+    which another incurs a genuine obligation, so that the second does right
+    in discharging it and is still wronged, and the manipulation works
+    through the target's sound moral reasoning rather than a defect in it;
+    the obligation so created is no larger than the circumstances support,
+    whatever the manipulator claims. No change of status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,7 +46,12 @@ defeated_if: >-
   and sound reasoning, cannot be wronged by whoever arranged its having to;
   or an account of manipulation on which every manipulation operates
   through a defect in the target's reasoning, belief or self-knowledge,
-  which this kind of case satisfies after all.
+  which this kind of case satisfies after all; or an argument that every
+  such case reduces to one of CLAIM-404's two routes, the target either
+  misjudging its situation or having had its criteria changed. Not defeated
+  by the observation that anyone who changes the world changes others'
+  decisions: what makes the route a way of being governed is the
+  condition CLAIM-713 states.
 tags:
 - ethics
 - agency
@@ -38,6 +62,11 @@ line:
 complements:
 - CLAIM-708
 - CLAIM-404
+bears_on:
+- QUESTION-472
+- QUESTION-071
+uses:
+- TERM-tmp8pnnr
 summary: >-
   A's, from A13 of the exchange "Assess Depp Heard Abuse" (2026-11-15), at
   the owner's U7 ("double click on normative manipulation"), and attributed
@@ -52,11 +81,14 @@ summary: >-
   both sound, and its circumstances are what is set. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- unresolved-ok-file: CLAIM-tmp76x3e — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: THEORY-1914 THEORY-1917 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-708 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-713 CLAIM-660 THEORY-225 — Proposed; the same exchange's resource claim and the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: THEORY-235 — Proposed; a reading of manipulation, cited with its standing -->
 
-# CLAIM-703: One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged, and the manipulation works through the target's sound moral reasoning rather than a defect in it; the obligation so created is no larger than the circumstances support, whatever the manipulator claims
+# CLAIM-703: One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target's sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims
 
 ## The claim
 
@@ -92,6 +124,33 @@ shelter; appeals to identity ("*A conscientious doctor wouldn't walk
 away.*") try "to transform a broad moral value into an absolute obligation
 to perform some specific act", and "The inference is frequently invalid."
 
+## The route, in the record's terms
+
+Carried from the continuation's filing of the same turns (share
+https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b). A11 §4
+names it: "**Normative manipulation:** Exploit the target's actual values,
+commitments, and decision rules". A13: "You might recognize every relevant
+fact, reason flawlessly, and make the morally correct decision. **You've
+still been manipulated.**" A13 §2 separates three mechanisms,
+"Manipulating beliefs about duty", "Creating genuine moral obligations"
+and "Exploiting a conflict between genuine obligations"; the second is this
+claim's, since "correcting the person's beliefs doesn't solve the problem.
+They may understand perfectly well that they're being exploited, but their
+duty still exists", and the third, a "moral trap", is its sharpest form.
+A13 §6 gives the difference from persuasion: "Normative manipulation may
+instead alter the world so that new reasons exist".
+
+[CLAIM-404](CLAIM-404.md)'s evidence route moves a*(e) = argmax_a E[U(a, ω) | e] by
+moving the evidence e with U fixed; its criteria route moves U. Here
+neither moves: the manipulator changes ω, the target's evidence of it is
+accurate, and a* moves because ω did. Stated that way the route is
+trivial, since anyone who changes the world changes what others decide.
+What makes it a way of being governed is A15 §7's condition, that one
+party controls when the commitment is triggered and another bears what
+fulfilling it costs, which is [CLAIM-713](CLAIM-713.md)'s. "Normative manipulation" is A's
+label, "a useful label rather than a settled technical term" (A12), and is
+not filed as a term.
+
 ## Where it sits
 
 - [CLAIM-404](CLAIM-404.md) (Active): an organization can be governed from
@@ -110,8 +169,26 @@ to perform some specific act", and "The inference is frequently invalid."
 - The same exchange's [CLAIM-708](CLAIM-708.md) (responsibility for the conditions of
   another's conduct): there the structured party does wrong, here it does
   right. Both say the structuring party answers for the conditions.
+- [THEORY-225](../theory.d/THEORY-225.md) reads Noggle: manipulation has no single mechanism.
+  This is one mechanism, and the limit below keeps it from becoming a
+  definition.
+- [QUESTION-071](../questions.d/QUESTION-071.md) asks what tells a manipulated will from an
+  effective one. Here nothing in the target's present structure is
+  defective, which is the hardest case for any present-structure test.
+- [QUESTION-472](../questions.d/QUESTION-472.md) asks whether the ability to activate another's
+  obligations is control over the terms of a dependence.
+- [CLAIM-660](CLAIM-660.md) (parasites acting through a host's own machinery) is the
+  biological analogue. The senses of responsibility are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s.
 
 ## What it does not say
+
+- **That appealing to someone's commitments is wrong as such.** A13 §5:
+  "**Exploiting someone's moral commitments isn't inherently wrongful.**"
+  Holding a government to its declared norms "May be legitimate
+  accountability". A13 §9 gives four questions to tell the cases apart:
+  whether the predicament was created unjustly, whether costs are unfairly
+  transferred, whether the target is respected as an independent agent,
+  and whether a genuine wrong is being held to account.
 
 - **That Bob may refuse.** The dog's welfare still matters: "Alice's
   wrongdoing doesn't magically erase Bob's reasons to prevent suffering."

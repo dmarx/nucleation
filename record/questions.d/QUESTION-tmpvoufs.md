@@ -23,7 +23,8 @@ summary: >-
   indispensable effort into a claim on the conditions it works under. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul CLAIM-tmpe5u7i — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: QUESTION-473 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-707 CLAIM-713 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-687 CLAIM-624 THEORY-1371 — Proposed; the record's nearest entries, cited with their standing -->
 
 # QUESTION-tmpvoufs: What lets those who act for an organization hold the principals who direct them accountable for the conditions under which they are required to act, and does any principal–agent account carry accountability in that reverse direction?
@@ -32,12 +33,12 @@ summary: >-
 
 The record has the downward half. [CLAIM-687](../claims.d/CLAIM-687.md) raises what an arrangement's
 controllers owe with how indispensable it is; [CLAIM-624](../claims.d/CLAIM-624.md) names a duty to
-keep violations knowable, contestable and correctable; [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) says
+keep violations knowable, contestable and correctable; [CLAIM-707](../claims.d/CLAIM-707.md) says
 that control, practical obligation and blame can come apart, with blame
 landing downstream. None says by what means those downstream can make the
 upstream party answer for the conditions it set. [QUESTION-461](QUESTION-461.md) asks when a
 whole's dependence on subordinated participants becomes their authority
-over it; [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) gives one reason it may not, a commitment that
+over it; [CLAIM-713](../claims.d/CLAIM-713.md) gives one reason it may not, a commitment that
 removes withdrawal. This asks for the instruments.
 
 The principal–agent literature the record has read runs the other way.
@@ -61,3 +62,12 @@ channels for challenging upstream decisions."
   from commitment rather than for terms, no such instrument can work from
   the agent's side alone, so that the accountability must come from a third
   party.
+
+## Beside the first filing
+
+[QUESTION-473](QUESTION-473.md), from the first share of the same exchange, asks what remains
+of an organization's standing to blame an agent whose wrongdoing its
+conditions produced. It is distinct: that question is about the
+principal's standing to condemn; this one asks for the instruments by which
+agents can make the principal answer for the conditions. The first filing
+mapped A17's inverse principal-agent question to [QUESTION-461](QUESTION-461.md).

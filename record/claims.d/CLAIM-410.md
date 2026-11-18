@@ -248,7 +248,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The claim is unchanged.
 
 ## Note of 2026-11-17: attributional and formative positions, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpb47ul SYNTHESIS-093 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed (SYNTHESIS-093) -->
+<!-- inactive-ok-file: CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: SYNTHESIS-093 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed (SYNTHESIS-093) -->
 
 A15 §9 of the exchange "Assess Depp Heard Abuse" (2026-11-15) proposes
 "five kinds of power over another person's morality": "**Predictive
@@ -262,7 +263,7 @@ revision) and [SYNTHESIS-093](../syntheses.d/SYNTHESIS-093.md)'s separable dimen
 attributional or formative power as positions. Formative power is close to
 formation provenance in [TERM-100](../terms.d/TERM-100.md)'s sense. Attributional power, the
 position from which credit and blame are allocated after the fact, is
-carried into [CLAIM-tmpb47ul](CLAIM-tmpb47ul.md), where those who set the arrangement's
+carried into [CLAIM-707](CLAIM-707.md), where those who set the arrangement's
 conditions also set the standards by which responsibility for its failures
 is judged. Whether it belongs in this profile as a sixth governing
 position, or is a kind of rule-making about evaluation, is left open.

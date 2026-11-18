@@ -10,6 +10,8 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - distributed-agency
+refines:
+- QUESTION-470
 summary: >-
   The owner's, from U48 of the exchange "Assess Depp Heard Abuse"
   (2026-11-17), its last turn: ""blameless culture" in modern
@@ -22,7 +24,9 @@ summary: >-
   question is the filer's (Claude, in this session), and adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp4o53g CLAIM-tmpb47ul CLAIM-tmpixmhp CLAIM-tmpsk25g TERM-tmp8pnnr — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmp4o53g CLAIM-tmpixmhp CLAIM-tmpsk25g TERM-tmp8pnnr — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; the record's nearest entries, cited with their standing -->
 
 # QUESTION-tmp2t6ve: Does blameless post-incident practice in engineering keep accountability while giving up blame, and if it does, does it keep or lose the upstream provenance of an incapacity that blame supplies?
@@ -88,10 +92,17 @@ says it does not claim "that individuals are blameless"), and [CASE-151](../case
 for what the board's investigation traced to the sales model), a case of
 the opposite practice. From the same exchange, A17 §1's moral crumple
 zone, the person nearest the failure absorbing the blame, is filed as
-[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md); A17 §9 had already said that "A person can be required to
+[CLAIM-707](../claims.d/CLAIM-707.md); A17 §9 had already said that "A person can be required to
 explain their decisions and participate in correcting a failure without
 necessarily being morally culpable for everything that happened", and
 that an institution should "examine system failures without automatically
 identifying the nearest human as their sufficient explanation". That is
 the closest the exchange came to the owner's case before U48. The
 responsibility senses at issue are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s.
+
+[QUESTION-470](QUESTION-470.md), from the first share of the same exchange, asks when an
+organization's responsibility to repair a harm survives the absence or
+dispersion of blameworthiness. This question refines it for one practice:
+blameless post-incident review is an organization's attempt to keep
+accountability and repair while setting blame aside, and whether it keeps
+the upstream provenance blame supplies is a part of that question.

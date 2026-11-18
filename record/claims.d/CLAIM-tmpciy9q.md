@@ -26,6 +26,8 @@ rests_on:
 uses:
 - TERM-tmp8pnnr
 - TERM-124
+complements:
+- CLAIM-701
 summary: >-
   A's, from the exchange "Assess Depp Heard Abuse" (2026-11-15): A7 §5
   ("blaming someone for wrongdoing can itself become a means of
@@ -41,8 +43,10 @@ summary: >-
   accusation is true and that the arranger's use of it is aimed at
   observers. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-701 CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-619 TERM-124 — Proposed; the record's mechanism this rests on and its nearest entries -->
-<!-- inactive-ok-file: TERM-tmp8pnnr CLAIM-tmp8wki5 CLAIM-tmpa2l21 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: TERM-tmp8pnnr CLAIM-tmp8wki5 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CLAIM-tmpciy9q: A party can arrange the conditions under which another commits a real wrong and then use the true accusation, before an audience whose judgement it anticipated, to justify further control over them; the truth of the accusation neither vindicates the party that arranged it nor excuses the one who did wrong
 
@@ -106,12 +110,22 @@ work is read.
 - **[CLAIM-404](CLAIM-404.md)** (the owner's) governs an organization through the premises
   or criteria of its decisions; this governs a party through its wrongs and
   through others' judgement of them.
-- Beside it, from the same exchange: [CLAIM-tmpa2l21](CLAIM-tmpa2l21.md) (the wrong of
+- Beside it, from the same exchange: [CLAIM-708](CLAIM-708.md) (the wrong of
   arranging another's wrong, which this uses as an instrument) and
   [CLAIM-tmp8wki5](CLAIM-tmp8wki5.md) (a restriction that produces the incapacity cited to
   justify it, the same shape with incapacity in place of a wrong).
 - The senses of responsibility kept apart are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s; the further
   control the accusation justifies is domination in [TERM-124](../terms.d/TERM-124.md)'s sense.
+- **[CLAIM-701](CLAIM-701.md)**, from the first share of the same exchange, is distinct: an
+  actor that wrongfully creates circumstances in which reversing its act
+  would harm third parties gives a reviewer genuine reasons to accommodate
+  them. Both have a party that arranges a predicament and then turns the
+  evaluation of it, by a reviewer there and an audience here, to its use;
+  there the reasons are genuine and the reviewer weighs them rightly, here
+  the accusation is true and the audience judges rightly. They complement
+  each other. The first filing held manufactured culpability as within
+  [CLAIM-708](CLAIM-708.md) and [CLAIM-707](CLAIM-707.md); [CLAIM-708](CLAIM-708.md) carries A9 §3's loop, and this
+  claim adds the true accusation and the anticipated audience.
 
 ## What it does not say
 
