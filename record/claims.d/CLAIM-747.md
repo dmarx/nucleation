@@ -111,7 +111,7 @@ resources, options, and bargaining power as morally self-validating."
   potential criticism" of contractualism, and also says that Scanlon's
   framework "is capable of considering such consequences". Which of the
   two is right is that question.
-  Bears on QUESTION-483: if reasonable rejection must take as given
+  Bears on [QUESTION-483](../questions.d/QUESTION-483.md): if reasonable rejection must take as given
   alternatives the relationship under test produced, the record's
   account does work the criterion cannot; if the criterion can weigh
   how those alternatives were produced, this is a supplement only.

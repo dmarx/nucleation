@@ -113,7 +113,7 @@ constituted, maintained, altered, or made practically ineffective**".
   contractualism. This claim is compatible with the supplement answer: A
   says it is "compatible with much of Scanlon's view" and "develops the
   dynamic consequences of his account more thoroughly".
-  Bears on QUESTION-483: it is one of A's moves in the reply to Scanlon
+  Bears on [QUESTION-483](../questions.d/QUESTION-483.md): it is one of A's moves in the reply to Scanlon
   at the owner's U44, granting that rights are not basic in justification
   and adding work they do in organization, and so is evidence for the
   supplement answer rather than the stronger one.

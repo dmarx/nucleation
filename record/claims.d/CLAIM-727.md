@@ -134,7 +134,7 @@ conduct.
   constrained conduct. [CLAIM-724](CLAIM-724.md) gives the measure.
 - **[CLAIM-739](CLAIM-739.md)** lists "control over recourse" among the grounds of
   answerability. This is what that ground generates.
-- Bears on QUESTION-480: filed from A83, A's answer to the owner's U36,
+- Bears on [QUESTION-480](../questions.d/QUESTION-480.md): filed from A83, A's answer to the owner's U36,
   it says one condition under which justification is owed, control over
   the conditions on which a decision may be challenged, and that the
   decider's own authority cannot discharge it.
