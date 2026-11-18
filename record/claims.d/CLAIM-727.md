@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpcpijj
 status: Proposed
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,13 @@ history:
     Schlager and Ostrom (1992) read and Locke's Second Treatise
     skimmed; both separate authority at one level from authority over
     the next, without addressing challenge as such.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-441
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +38,7 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- organizational-normativity
 complements:
 - CLAIM-624
 - CLAIM-619

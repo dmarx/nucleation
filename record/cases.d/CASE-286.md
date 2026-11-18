@@ -4,7 +4,15 @@ formerly:
 - CASE-tmpgp2qo
 status: Proposed
 title: 'Voluntary submission against alienation of standing: two informed, voluntary delegations of consequential decisions, one limited and still governed by the delegator''s protected claims, the other purporting to give the recipient unlimited authority to determine whether the delegator keeps any rights at all'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-486
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -13,6 +21,7 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- organizational-normativity
 illustrates:
 - CLAIM-720
 bears_on:

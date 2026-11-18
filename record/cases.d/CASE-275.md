@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CASE-tmpev0dj
 title: 'A proposed study: a small transformer trained to apply one of two symbolic transformations by context, then trained further to stop expressing one, with decodability, recruitment, causal transmission and behavioral expression measured separately before and after, to tell a capability whose expression was suppressed from one that was removed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-271 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -15,6 +22,7 @@ date: '2026-11-15'
 line:
 - learned-structure
 - realizability
+- distributed-agency
 bears_on:
 - QUESTION-275
 - QUESTION-271

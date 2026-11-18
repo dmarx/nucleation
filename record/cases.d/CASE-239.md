@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CASE-tmp5ijqy
 title: 'A proposed study: a forager that learns from its own energy dynamics which environmental distinctions predict a loss of viability, and revises its testing and action policy, to find whether it adapts its criteria of failure to changes nobody foresaw without the correct criterion being supplied'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-285 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -15,6 +22,7 @@ date: '2026-11-12'
 line:
 - organizational-normativity
 - record-as-apparatus
+- distributed-agency
 variant_of:
 - CASE-241
 draws_on:
