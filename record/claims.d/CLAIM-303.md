@@ -1,10 +1,10 @@
 ---
 number: 303
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpygqjz
 title: 'Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -24,6 +24,22 @@ history:
     current, against reconstruction later, so it is worth its cost only
     when expected reuse covers it, and recurrence is evidence of reuse,
     not the criterion'. The status stays Proposed.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). Its grounds, THEORY-386 and THEORY-389, are
+    Active; its one objection, CLAIM-308, is conceded and written in
+    (version 2). Nothing meets its defeated_if: CLAIM-308 makes
+    recurrence weighted by reconstruction cost the criterion only where
+    reuse cannot be forecast, which the title now excepts, and it does
+    not show the second-occurrence rule filing as well as any rule using
+    cost estimates; CLAIM-630 shows the two parting once filing costs
+    twice a reconstruction's overpayment. QUESTION-098 moves from
+    answers to bears_on: as narrowed, the claim answers only where
+    reuse can be forecast, as CLAIM-308 answers only where it cannot,
+    and the question asks what the second-occurrence rule approximates
+    and when it fails. Interpretive. The title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +53,7 @@ tags:
 - epistemology
 date: '2026-10-15'
 line: nucleating-argument
-answers:
+bears_on:
 - QUESTION-098
 complements:
 - CLAIM-185

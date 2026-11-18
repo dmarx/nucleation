@@ -148,3 +148,7 @@ and [CLAIM-177](CLAIM-177.md) is Active.
   is common on this record. Neither is measured.
 - That the second-occurrence rule is right. It says only that [CLAIM-308](CLAIM-308.md)'s
   guarantee does not cover [CLAIM-176](CLAIM-176.md)'s reason for the rule.
+
+## Note of 2026-11-18: what holds it back
+
+CLAIM-308 went Active at this review, so CLAIM-176 is the one premise not held; the derivation's steps 3 and 4 use its statement that coding at the second occurrence catches each failure CLAIM-177 lists the first time it can happen. CLAIM-176 waits on its own premises CLAIM-185 and CLAIM-483, under its blocker note of 2026-10-30.

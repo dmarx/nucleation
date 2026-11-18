@@ -1,10 +1,10 @@
 ---
 number: 687
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwgiwq
 title: 'The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-15'
@@ -45,6 +45,19 @@ history:
     others depend on, not of every holding that affects others. A
     sentence added to the note of 2026-11-17. No change of status
     or title.
+- version: 6
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057, ADR-059). It rests on nothing the record does not
+    hold. Its one objection on file, CLAIM-749, is conceded and written
+    in (version 5). Nothing on the record meets its defeated_if: A83
+    makes indispensability an intensifier of what is owed rather than a
+    ground of why, which the claim's "should rise with" already is,
+    read as an ordering with other features held fixed; A93's homeowner
+    and A100's limit on challengers bound the claim and do not fix the
+    accountability owed independently of dependence. Interpretive. The
+    title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

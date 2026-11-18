@@ -52,3 +52,7 @@ officers a decision § 1104(a) gives them. "The outcome is predetermined"
 - That notice-and-comment was required: judgment for the Government.
 - Anything about the Policy's moral justification, or the ruling's fate on
   appeal.
+
+## Note of 2026-11-18: what holds it back
+
+Read in full in NOTE-2054, which quotes with pinpoints the nationality holding (p. 34), the irrelevance finding and the § 1104(a) displacement (p. 42) and the vacatur (pp. 57–58). The promote_when also asks for a page-cited quotation of the holding under § 1201(g) with 22 C.F.R. § 40.6, which the title asserts and the reading states without one; a recheck of ECF No. 83 for that pinpoint would meet it.

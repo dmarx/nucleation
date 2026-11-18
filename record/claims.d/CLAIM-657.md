@@ -127,3 +127,7 @@ A64 §13 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6a
 A64 §13 relays this claim as route A only ("a decline in observed complaints can reflect selective disappearance of those harmed"). A68 §3 is route A applied to challenges: the population observed is the one that survives. But the deterrence in A64 §13 is neither route. The harmed do not leave the observed population, and the organization does not decline an inquiry; they stay, silent, because voicing costs more than it can return. It also differs from [CLAIM-619](CLAIM-619.md), which answers a challenge once made. A candidate third route, then: anticipated cost of contest that keeps claims from being voiced, with its own test (claims not filed among those harmed who remain, against the cost the organization is known to impose). It needs no censorship, as the claim requires, but it can need a deliberate reputation, which routes A and B do not. [CLAIM-652](CLAIM-652.md)'s exit-driven drift is the route-A model A68 also relays.
 
 No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Route A rests on CLAIM-652, Proposed, which waits on CLAIM-655 and its toy CASE-246; CLAIM-662, route B, went Active at this review, so CLAIM-652 is now the only unheld premise. The claim goes Active when CLAIM-652 does, unless the candidate third route of the note of 2026-11-17 is filed as an objection to "two distinct routes".
