@@ -134,7 +134,7 @@ summary: >-
 <!-- unresolved-ok-file: CLAIM-tmpb47ul — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: LIT-2708 LIT-2669 — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-708 CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: TERM-tmp8pnnr QUESTION-tmpvoufs CLAIM-tmp238zy — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: TERM-tmp8pnnr CLAIM-tmp238zy — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CASE-261 — Proposed; a stipulated neighbour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-678 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 

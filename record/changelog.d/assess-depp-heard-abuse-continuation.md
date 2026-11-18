@@ -15,8 +15,8 @@
   are dated notes on thirty-nine held entries, and eighty-five works are
   registered unread. The curation entry of 2026-11-17 has the map, the
   synthesis audit and what was left.
-- Reconciled with the filing of the exchange's first share (#510): where
-  both filings held the same idea, the entry from #510 keeps its code and
+- Reconciled with the filing of the exchange's first share ([#510](https://github.com/dmarx/nucleation/issues/510)): where
+  both filings held the same idea, the entry from [#510](https://github.com/dmarx/nucleation/issues/510) keeps its code and
   takes the better-developed parts of this filing's entry, which is not
   kept. The owner's U11 friction claim ([CLAIM-710](record/claims.d/CLAIM-710.md)), A's equality of
   wrongdoing and of power ([CLAIM-709](record/claims.d/CLAIM-709.md), [CASE-279](record/cases.d/CASE-279.md)), responsibility for

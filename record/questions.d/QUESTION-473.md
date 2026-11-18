@@ -34,7 +34,6 @@ summary: >-
   organization may need to sanction dangerous conduct that it helped to
   produce. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpvoufs — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: THEORY-1912 CLAIM-708 CLAIM-707 CLAIM-702 CLAIM-713 — Proposed; cited with their standing -->
 
 # QUESTION-473: When an organization has substantially contributed to the conditions that produced an agent's wrongdoing, what remains of its moral standing to blame that agent, as distinct from its authority to investigate, correct or sanction the wrongdoing?
