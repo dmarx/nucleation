@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpj2fl0
 title: 'A system''s budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (realizability). Integrates
+    CLAIM-639 (filed 2026-11-11, resting on CLAIM-580, CLAIM-592 and
+    CLAIM-581), and records CLAIM-581's note of 2026-11-12 (CASE-236 and
+    CLAIM-646, in SYNTHESIS-042) and CASE-202's note of 2026-11-12. The
+    title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the budgeted-individuation part of the realizability line left out
@@ -34,8 +43,9 @@ integrates:
 - QUESTION-393
 - QUESTION-382
 - QUESTION-384
+- CLAIM-639
 ---
-<!-- inactive-ok-file: CASE-202 CASE-220 CLAIM-615 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-639 CASE-236 CLAIM-646 CASE-240 CASE-220 CLAIM-615 TERM-116 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-040: A system's budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence
 
@@ -55,7 +65,10 @@ over it and its four sibling parts.*
   peak costs on reversible moves the transition threshold is an extended
   pseudo-ultrametric, so identification within a budget is an equivalence
   whose classes nest into one tree, and under additive costs it is not.
-  "The resource semantics is an individuation choice."
+  "The resource semantics is an individuation choice." Its note of
+  2026-11-12 takes [CASE-236](../cases.d/CASE-236.md) ([SYNTHESIS-042](SYNTHESIS-042.md)) as an instance of the additive
+  case, and names [CLAIM-646](../claims.d/CLAIM-646.md), that the threshold structure does not fix
+  cumulative costs.
 - **The pair.** [CLAIM-557](../claims.d/CLAIM-557.md) (the assistant's, demonstrated, Active), resting
   on both: "A system's budgeted individuation is then indexed by a pair, an
   observing budget and an acting budget, and the two can be traded or
@@ -72,6 +85,12 @@ over it and its four sibling parts.*
   order decides which of those levels actually appear"; its body:
   "[CLAIM-557](../claims.d/CLAIM-557.md) said individuation is indexed by two budgets; this says what
   decides whether those budgets ever see the same thing."
+- **Agreement under error.** [CLAIM-639](../claims.d/CLAIM-639.md) (the assistant's, demonstrated,
+  Proposed; also formal-apparatus) rests on [CLAIM-592](../claims.d/CLAIM-592.md), [CLAIM-581](../claims.d/CLAIM-581.md) and
+  readiness's [CLAIM-580](../claims.d/CLAIM-580.md): knowing each requirement to within ε fixes every
+  threshold to within ε "but not which of a system's own reachable
+  classes an observer's partitions can agree with", since two merges
+  within 2ε can swap order. Its "Admission" gives the derivation.
 - **One budget for both.** [CLAIM-572](../claims.d/CLAIM-572.md) (the assistant's, demonstrated,
   Active): when observing and acting share one budget, the cheapest
   readiness buys a whole prefix of the probes, the affordable splits can be
@@ -106,7 +125,9 @@ to individuate an object, and which transformations preserve it
 ([QUESTION-393](../questions.d/QUESTION-393.md), A's), refined by which interface individuates a component
 ([QUESTION-382](../questions.d/QUESTION-382.md), A's) and by whether restricted enriched profiles agree with
 bisimulation ([QUESTION-384](../questions.d/QUESTION-384.md), A's); and A's proposed probing study
-([CASE-202](../cases.d/CASE-202.md), Proposed).
+([CASE-202](../cases.d/CASE-202.md), Proposed). Its note of 2026-11-12 takes from another exchange
+a plain instance of its control, a detector damaged by an aggressive
+diagnostic test, and folds it into the owner's debugging case, [CASE-240](../cases.d/CASE-240.md).
 
 ## The components
 
@@ -119,6 +140,9 @@ bisimulation ([QUESTION-384](../questions.d/QUESTION-384.md), A's); and A's prop
 - [CLAIM-570](../claims.d/CLAIM-570.md), A's construction made exact by the assistant, thesis,
   demonstrated, Active; also formal-apparatus; rests on [CLAIM-574](../claims.d/CLAIM-574.md) and
   [CLAIM-581](../claims.d/CLAIM-581.md); grounds [CASE-199](../cases.d/CASE-199.md).
+- [CLAIM-639](../claims.d/CLAIM-639.md), the assistant's, thesis, demonstrated, Proposed; also
+  formal-apparatus; rests on [CLAIM-580](../claims.d/CLAIM-580.md) (readiness), [CLAIM-592](../claims.d/CLAIM-592.md) and
+  [CLAIM-581](../claims.d/CLAIM-581.md).
 - [CLAIM-592](../claims.d/CLAIM-592.md), the assistant's, thesis, demonstrated, Active; also
   formal-apparatus; rests on [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-581](../claims.d/CLAIM-581.md) and [CLAIM-574](../claims.d/CLAIM-574.md).
 - [CLAIM-572](../claims.d/CLAIM-572.md), the assistant's, thesis, demonstrated, Active; first line

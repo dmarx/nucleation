@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpoclez
 title: 'The realizability line is four accounts, of reaching under resources, of budgeted individuation, of assembly and productive nucleation, and of persisting organized individuals, which meet at the separation of assembling, persisting and regenerating a form; the first three are densely joined, the persistence part points out and receives nothing, and no link between the parts that no part states passes the claim test'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (realizability). The line has
+    grown from 99 entries to 119. The parts were revised to version 2:
+    SYNTHESIS-042 takes nineteen of the twenty entries filed or added to the line
+    since 2026-11-11, SYNTHESIS-040 takes CLAIM-639, and SYNTHESIS-045 and
+    SYNTHESIS-046 record their components' later notes. The counts are
+    redone. The "Not stated" bullet on a budget that costs reliability is
+    corrected: CLAIM-654 now states one reading of it. The title is
+    unchanged.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the realizability line that neither a part
@@ -35,7 +47,7 @@ summary: >-
   [ADR-088](../decisions.d/ADR-088.md)). The account adds nothing of its own; its standing is its
   components'.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 ADR-085 ADR-088 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 CLAIM-625 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-646 CLAIM-654 CLAIM-663 CLAIM-697 CLAIM-695 CLAIM-699 CLAIM-639 CASE-236 CLAIM-478 ADR-075 ADR-083 ADR-084 ADR-085 ADR-088 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 CLAIM-625 TERM-116 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-010 — Superseded; cited as the entries their claims returned to, and not integrated -->
 
 # SYNTHESIS-043: The realizability line is four accounts, of reaching under resources, of budgeted individuation, of assembly and productive nucleation, and of persisting organized individuals, which meet at the separation of assembling, persisting and regenerating a form; the first three are densely joined, the persistence part points out and receives nothing, and no link between the parts that no part states passes the claim test
@@ -44,7 +56,8 @@ summary: >-
 and individuation", [ADR-073](../decisions.d/ADR-073.md)), over the accounts of its four parts
 ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose `line` includes realizability
 after [ADR-088](../decisions.d/ADR-088.md) (2026-11-11): 98 entries through the parts, and
-[CLAIM-566](../claims.d/CLAIM-566.md) directly. [ADR-088](../decisions.d/ADR-088.md) gave [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-399](../questions.d/QUESTION-399.md) and the
+[CLAIM-566](../claims.d/CLAIM-566.md) directly. At version 2 (2026-11-18) the line has 119 entries, 118
+of them through the parts. [ADR-088](../decisions.d/ADR-088.md) gave [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-399](../questions.d/QUESTION-399.md) and the
 withdrawal entries transient-support as their first line, and none keeps
 realizability. [SYNTHESIS-003](SYNTHESIS-003.md) carries the line and is Superseded by
 [CLAIM-611](../claims.d/CLAIM-611.md) ([ADR-084](../decisions.d/ADR-084.md)), which [SYNTHESIS-046](SYNTHESIS-046.md) integrates; [SYNTHESIS-010](SYNTHESIS-010.md) still lists
@@ -53,7 +66,7 @@ is integrated again.*
 
 ## The parts
 
-- **Reaching under resources ([SYNTHESIS-042](SYNTHESIS-042.md)), 53 entries.** Feasible, reachable
+- **Reaching under resources ([SYNTHESIS-042](SYNTHESIS-042.md)), 72 entries.** Feasible, reachable
   and reliably reached come apart ([CLAIM-567](../claims.d/CLAIM-567.md)); a transition's threshold is
   the least peak over admissible paths and can be infinite ([CLAIM-571](../claims.d/CLAIM-571.md)); a
   budget enlarges the compatibility complex only up to the unbudgeted one
@@ -63,13 +76,21 @@ is integrated again.*
   which one holds can be hard ([CLAIM-575](../claims.d/CLAIM-575.md)); an added constraint can improve
   reliability and never reach ([CLAIM-582](../claims.d/CLAIM-582.md)); and where an intervention acts
   can predict better than how much ([CLAIM-562](../claims.d/CLAIM-562.md)). A's general object and
-  universality hypothesis are Proposed ([CLAIM-576](../claims.d/CLAIM-576.md), [CLAIM-573](../claims.d/CLAIM-573.md)).
-- **Budgeted individuation ([SYNTHESIS-040](SYNTHESIS-040.md)), 15 entries.** Observing splits and
+  universality hypothesis are Proposed ([CLAIM-576](../claims.d/CLAIM-576.md), [CLAIM-573](../claims.d/CLAIM-573.md)). Since 2026-11-11,
+  all Proposed: peak thresholds do not fix cumulative costs ([CLAIM-646](../claims.d/CLAIM-646.md));
+  what a process reaches grows with the budget only if its choices do not
+  read the remaining budget ([CLAIM-654](../claims.d/CLAIM-654.md)); PASS@(k,T)'s distinctions are the
+  part's ([CLAIM-663](../claims.d/CLAIM-663.md)); and a disposition's success is resource-conditional,
+  with coverage apart from delivery ([CLAIM-697](../claims.d/CLAIM-697.md)), and RL post-training as
+  amortized search ([CLAIM-695](../claims.d/CLAIM-695.md), [CLAIM-699](../claims.d/CLAIM-699.md)).
+- **Budgeted individuation ([SYNTHESIS-040](SYNTHESIS-040.md)), 16 entries.** Observing splits and
   acting under peak costs merges ([CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-581](../claims.d/CLAIM-581.md)), so individuation
   is indexed by two budgets ([CLAIM-557](../claims.d/CLAIM-557.md)), with computable frontiers
   ([CLAIM-570](../claims.d/CLAIM-570.md)) and an agreement the cost order of probes decides
   ([CLAIM-592](../claims.d/CLAIM-592.md)); the choice of category decides what counts as the same
-  ([CLAIM-590](../claims.d/CLAIM-590.md)), and isomorphism is not persistence ([CLAIM-593](../claims.d/CLAIM-593.md)).
+  ([CLAIM-590](../claims.d/CLAIM-590.md)), and isomorphism is not persistence ([CLAIM-593](../claims.d/CLAIM-593.md)). Knowing the
+  requirements to within ε does not fix which levels can agree ([CLAIM-639](../claims.d/CLAIM-639.md),
+  Proposed).
 - **Assembly and productive nucleation ([SYNTHESIS-045](SYNTHESIS-045.md)), 20 entries.** A resource
   that sets its own costs gives a window ([CLAIM-594](../claims.d/CLAIM-594.md)); abundance helps or
   hurts by which steps consume it ([CLAIM-598](../claims.d/CLAIM-598.md)); persistence and
@@ -113,6 +134,10 @@ its words.
   costs "is the special case of a resource that leaves the costs
   unchanged"; [QUESTION-374](../questions.d/QUESTION-374.md)'s note of 2026-11-07 finds its integration held
   by [CLAIM-592](../claims.d/CLAIM-592.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-572](../claims.d/CLAIM-572.md) and [CLAIM-594](../claims.d/CLAIM-594.md).
+- **Since 2026-11-11.** [CASE-236](../cases.d/CASE-236.md) ([SYNTHESIS-042](SYNTHESIS-042.md)) illustrates [CLAIM-581](../claims.d/CLAIM-581.md)
+  ([SYNTHESIS-040](SYNTHESIS-040.md)), and [CLAIM-581](../claims.d/CLAIM-581.md)'s note of 2026-11-12 names it and [CLAIM-646](../claims.d/CLAIM-646.md).
+  [CLAIM-611](../claims.d/CLAIM-611.md) ([SYNTHESIS-046](SYNTHESIS-046.md)) rests on [CLAIM-025](../claims.d/CLAIM-025.md) and [CLAIM-478](../claims.d/CLAIM-478.md), which
+  [SYNTHESIS-042](SYNTHESIS-042.md) now integrates.
 - **The repertoire and the persisting individual ([SYNTHESIS-042](SYNTHESIS-042.md) and [SYNTHESIS-040](SYNTHESIS-040.md) with
   [SYNTHESIS-046](SYNTHESIS-046.md)).** [CLAIM-611](../claims.d/CLAIM-611.md) rests on [CLAIM-576](../claims.d/CLAIM-576.md) and [CLAIM-567](../claims.d/CLAIM-567.md); [CLAIM-615](../claims.d/CLAIM-615.md) rests on
   [CLAIM-593](../claims.d/CLAIM-593.md) and bears on [QUESTION-393](../questions.d/QUESTION-393.md), whose table gives [QUESTION-379](../questions.d/QUESTION-379.md) as its
@@ -132,25 +157,26 @@ and [CLAIM-605](../claims.d/CLAIM-605.md), which are in transient-support.
 
 ## Whether the line falls into parts
 
-Counting each pair of the 99 components linked by a front-matter relation
-or a mention in either's body or summary, there are 291 pairs:
+Counting each pair of the 119 components linked by a front-matter relation
+or a mention in either's text (comments excluded), there are 352 pairs
+(291 among 99 at version 1):
 
 | | [SYNTHESIS-042](SYNTHESIS-042.md) | [SYNTHESIS-040](SYNTHESIS-040.md) | [SYNTHESIS-045](SYNTHESIS-045.md) | [SYNTHESIS-046](SYNTHESIS-046.md) | [CLAIM-566](../claims.d/CLAIM-566.md) |
 |---|---|---|---|---|---|
-| [SYNTHESIS-042](SYNTHESIS-042.md) | 117 | 39 | 12 | 7 | 8 |
-| [SYNTHESIS-040](SYNTHESIS-040.md) | | 48 | 7 | 3 | 3 |
-| [SYNTHESIS-045](SYNTHESIS-045.md) | | | 28 | 0 | 2 |
+| [SYNTHESIS-042](SYNTHESIS-042.md) | 164 | 45 | 13 | 9 | 9 |
+| [SYNTHESIS-040](SYNTHESIS-040.md) | | 51 | 7 | 3 | 3 |
+| [SYNTHESIS-045](SYNTHESIS-045.md) | | | 29 | 0 | 2 |
 | [SYNTHESIS-046](SYNTHESIS-046.md) | | | | 15 | 2 |
 
 Counted as `scratch/formal/line_parts.py` counts, by stored relations
-only and directed, 149 of 183 relations between the parts fall within a
-part: [SYNTHESIS-042](SYNTHESIS-042.md) 87 inside, 7 out, 20 in; [SYNTHESIS-040](SYNTHESIS-040.md) 30 inside, 12 out, 10 in; [SYNTHESIS-045](SYNTHESIS-045.md) 20
-inside, 11 out, 4 in; [SYNTHESIS-046](SYNTHESIS-046.md) 12 inside, 4 out, 0 in. Six components link to
-no component: [CASE-214](../cases.d/CASE-214.md), [QUESTION-405](../questions.d/QUESTION-405.md) and [QUESTION-447](../questions.d/QUESTION-447.md) in [SYNTHESIS-042](SYNTHESIS-042.md), and
-[QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-419](../questions.d/QUESTION-419.md) and [QUESTION-428](../questions.d/QUESTION-428.md) in [SYNTHESIS-045](SYNTHESIS-045.md) ([QUESTION-410](../questions.d/QUESTION-410.md) and
-[QUESTION-445](../questions.d/QUESTION-445.md) link only to each other).
+only and directed, 186 of 225 relations between the parts fall within a
+part: [SYNTHESIS-042](SYNTHESIS-042.md) 120 inside, 9 out, 23 in; [SYNTHESIS-040](SYNTHESIS-040.md) 34 inside, 13
+out, 12 in; [SYNTHESIS-045](SYNTHESIS-045.md) 20 inside, 11 out, 4 in; [SYNTHESIS-046](SYNTHESIS-046.md) 12
+inside, 6 out, 0 in. Six components link to no component, as at version
+1: [CASE-214](../cases.d/CASE-214.md), [QUESTION-405](../questions.d/QUESTION-405.md) and [QUESTION-447](../questions.d/QUESTION-447.md) in [SYNTHESIS-042](SYNTHESIS-042.md), and
+[QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-419](../questions.d/QUESTION-419.md) and [QUESTION-428](../questions.d/QUESTION-428.md) in [SYNTHESIS-045](SYNTHESIS-045.md).
 
-- **[SYNTHESIS-042](SYNTHESIS-042.md), [SYNTHESIS-040](SYNTHESIS-040.md) and [SYNTHESIS-045](SYNTHESIS-045.md) hang together.** They share 58 pairs, and about two
+- **[SYNTHESIS-042](SYNTHESIS-042.md), [SYNTHESIS-040](SYNTHESIS-040.md) and [SYNTHESIS-045](SYNTHESIS-045.md) hang together.** They share 65 pairs (58 at version 1), and about two
   in five of the stored relations touching [SYNTHESIS-040](SYNTHESIS-040.md) or [SYNTHESIS-045](SYNTHESIS-045.md) cross a boundary.
   Splitting [SYNTHESIS-042](SYNTHESIS-042.md) further (its complexity and universality entries, and its
   questions on constraint architectures) gave subparts with more pairs
@@ -163,8 +189,8 @@ no component: [CASE-214](../cases.d/CASE-214.md), [QUESTION-405](../questions.d/
   [CLAIM-615](../claims.d/CLAIM-615.md)'s bearing on [QUESTION-393](../questions.d/QUESTION-393.md); resting on another line's entries
   is a dependency [ADR-085](../decisions.d/ADR-085.md) reports as a crossing. Its claims carry
   realizability by bearing on [QUESTION-379](../questions.d/QUESTION-379.md) and [QUESTION-437](../questions.d/QUESTION-437.md), which sit in
-  [SYNTHESIS-046](SYNTHESIS-046.md), and [QUESTION-393](../questions.d/QUESTION-393.md). By mentions it shares 12 pairs with the rest
-  against 15 within. It is a weak candidate to split; most of its claims
+  [SYNTHESIS-046](SYNTHESIS-046.md), and [QUESTION-393](../questions.d/QUESTION-393.md). By mentions it shares 14 pairs with the rest
+  against 15 within (12 against 15 at version 1). It is a weak candidate to split; most of its claims
   are first in distributed-agency.
 
 ## Not stated on the record
@@ -182,9 +208,11 @@ filed:
 - **Placement over quantity as a law** ([SYNTHESIS-042](SYNTHESIS-042.md) with [SYNTHESIS-045](SYNTHESIS-045.md)): a conjunction
   as "can", and against the held budgets and [CLAIM-600](../claims.d/CLAIM-600.md)'s condition on size
   as a law ([SYNTHESIS-042](SYNTHESIS-042.md)'s account).
-- **A budget that costs reliability** ([SYNTHESIS-042](SYNTHESIS-042.md), with [SYNTHESIS-045](SYNTHESIS-045.md)'s [CLAIM-598](../claims.d/CLAIM-598.md)): a
-  free parameter, how a budget acts on a running process ([SYNTHESIS-042](SYNTHESIS-042.md)'s
-  account).
+- **A budget that costs reliability** ([SYNTHESIS-042](SYNTHESIS-042.md), with [SYNTHESIS-045](SYNTHESIS-045.md)'s [CLAIM-598](../claims.d/CLAIM-598.md)): at
+  version 1 a free parameter, how a budget acts on a running process.
+  Since 2026-11-12 [CLAIM-654](../claims.d/CLAIM-654.md) states the reading in which the process's
+  choices read the remaining budget; the distractor reading stays
+  unstated ([SYNTHESIS-042](SYNTHESIS-042.md)'s account).
 - **A persisting threat and [CLAIM-556](../claims.d/CLAIM-556.md)'s regeneration level** ([SYNTHESIS-042](SYNTHESIS-042.md), with
   transient-support's [CLAIM-600](../claims.d/CLAIM-600.md)): a free parameter, which level a failure is
   assigned to.
