@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'Rights, demands and commitments are distinct and none establishes another: a right does not depend on being demanded or on anyone''s commitment to it, a demand''s being asserted, maintained or recognized gives it no warrant, and a commitment is neither an obligation nor an authorization, while an obligation persists without commitment; each passage between them, a right generating a demand or a valid undertaking generating a right, needs its own warrant'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Reading of Stern on Darwall filed; its THEORY corroborates the
+    clause that an asserted demand has no warrant, and the note
+    records where Darwall's account parts from the claim. Hohfeld
+    (1913) read; the independence of his legal positions corroborates
+    the claim's distinctness thesis for legal relations.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -146,3 +155,19 @@ The aquifer, [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md), puts all three to wor
 - Not which rights exist or which demands are warranted.
 - Not that Hohfeld's "claim-right" is the record's CLAIM. A95 §9: "Hohfeldian
   *claim-right* is not the same as an ordinary asserted *claim*."
+
+## Note of 2026-11-17: Darwall, through Stern: an asserted demand has no warrant of its own, but obligation is legitimate demandability
+<!-- inactive-ok-file: NOTE-tmptdg2e THEORY-tmpk5cgl LIT-tmpr2bbq — new or Unavailable; the reading filed on 2026-11-18 and the unread book it stands in for -->
+
+Stern 2014, read (NOTE-tmptdg2e, THEORY-tmpk5cgl), standing in for Darwall 2006 (LIT-tmpr2bbq). The THEORY now `corroborates` this claim, which does not rest on it.
+
+**What it corroborates.** On Darwall's account "whether or not an obligation obtains doesn’t depend on the actual demands an individual or a community of individuals might make: if they could legitimately make such demands, then an obligation holds" (p. 3). An actual demand, asserted or not, settles nothing; legitimacy does. That is the claim's "a demand's being asserted, maintained or recognized gives it no warrant", reached independently.
+
+**Where it parts.** Darwall makes obligation itself consist in legitimate demandability: obligation "involves the exercise of legitimate authority over the person obliged" (p. 2). The claim keeps rights and obligations apart from demands altogether and treats each passage between them as needing its own warrant; on Darwall's view the passage from obligation to legitimate demand is constitutive, not a further step. Stern's objection (p. 12), that a sufferer's need obliges without any second-personal demand, is the case where the claim's separation and Darwall's identification give different verdicts, and it sides with the claim.
+
+No status changes.
+
+## Note of 2026-11-17: Hohfeld, read
+<!-- inactive-ok-file: NOTE-tmpvxul9 THEORY-tmprnqnh — new reading and theory of 2026-11-18, Proposed -->
+
+Hohfeld 1913, read (NOTE-tmpvxul9, THEORY-tmprnqnh): corroboration for legal relations, which the THEORY carries. Hohfeld's positions are logically independent, as the claim says rights, demands and commitments are: "X's right that Y should not eat the food persists even though X's own privilege of doing so has been extinguished" (pp. 36–37), and whether a privilege should carry protective claims "is ultimately a question of justice and policy" (p. 36); he warns that "the term 'rights' tends to be used indiscriminately to cover what in a given case may be a privilege, a power, or an immunity" (p. 30). He does not discuss demands or commitments, so the corroboration is for the general point that normative positions do not entail one another, not for the claim's three terms; the claim's own body already warns that a Hohfeldian claim-right is not the record's CLAIM. No status changes.

@@ -1,0 +1,39 @@
+---
+status: Proposed
+promote_when: >-
+  A check of the amendment's text against LII or another official text
+  confirms the quotation. The title asserts what the amendment provides,
+  nothing about how courts apply it.
+title: 'The Ninth Amendment provides that the enumeration of certain rights in the United States Constitution shall not be construed to deny or disparage other rights retained by the people, so that a list of rights is not to be read as exhausting the rights held'
+version: 1
+tags:
+- society-and-governance
+date: '2026-11-18'
+source:
+- LIT-tmp1xdz8
+bears_on:
+- QUESTION-tmptinzk
+- QUESTION-456
+summary: >-
+  The Ninth Amendment, LIT-tmp1xdz8, read in NOTE-tmpmnike: "The enumeration in
+  the Constitution, of certain rights, shall not be construed to deny or
+  disparage others retained by the people." It bears on QUESTION-tmptinzk
+  (rights apart from enumeration, without criteria for them) and on
+  QUESTION-456 (a recognized set does not exhaust the justified set). The
+  wording is the reader's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: NOTE-tmpmnike — new; the reading -->
+
+# THEORY-tmp1hlgq: The Ninth Amendment provides that the enumeration of certain rights in the United States Constitution shall not be construed to deny or disparage other rights retained by the people, so that a list of rights is not to be read as exhausting the rights held
+
+The Ninth Amendment, LIT-tmp1xdz8.
+
+## The text
+
+"The enumeration in the Constitution, of certain rights, shall not be
+construed to deny or disparage others retained by the people."
+
+## What it does not show
+
+- Which rights are retained, or how to identify them.
+- How courts have applied it: the history and case law are unread.

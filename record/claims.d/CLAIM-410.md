@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpyxupb
 title: 'Removing a constraint on an organization''s members does not move it along one scale of more or less governance: it changes a profile of who holds governing positions, among them rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members'' first-order options and their share in revising the conditions of their action can move in opposite directions'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -45,6 +45,15 @@ history:
     A dated note: A15 §9 of the exchange "Assess Depp Heard Abuse"
     names five powers over another's morality, two of them positions
     this profile lacks. No other change.
+- version: 7
+  date: '2026-11-17'
+  note: >-
+    Citron (2008) read; programmers' encoding of policy is a de facto
+    delegation of rule-making, which corroborates the claim's
+    transferred case. Bovens and Zouridis (2002) read from the
+    authors' manuscript; case discretion passes from caseworkers to
+    system designers, which corroborates the claim's transferred and
+    eliminated cases.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -268,3 +277,13 @@ is judged. Whether it belongs in this profile as a sixth governing
 position, or is a kind of rule-making about evaluation, is left open.
 
 No status changes.
+
+## Note of 2026-11-17: Citron, read
+<!-- inactive-ok-file: THEORY-tmpa89iy — new theory of 2026-11-18, Proposed -->
+
+Citron 2008, read (NOTE-tmplslae, THEORY-tmpa89iy): it corroborates the claim's "transferred" case independently (THEORY-tmpa89iy carries `corroborates`). "Although programmers building automated systems may not intend to engage in rulemaking, they in fact do so" (p. 1254); "Such inadvertent rulemaking by programmers constitutes a troubling delegation of legislative power" (p. 1288). Rule-making moves to programmers while adjudication stays nominally with officials whom automation bias makes confirmers. No status changes.
+
+## Note of 2026-11-17: Bovens and Zouridis, read
+<!-- inactive-ok-file: THEORY-tmpd9o6w — new theory of 2026-11-18, Proposed -->
+
+Bovens and Zouridis 2002, read from the authors' manuscript (NOTE-tmp2pb8c, THEORY-tmpd9o6w): it corroborates the claim independently (THEORY-tmpd9o6w carries `corroborates`). In two Dutch agencies, "The hundreds of individual case-managers have all vanished. Their pivotal role in the organization has been taken by the system and process designers" (ms p. 14), and the accountability owed changes with the locus: "This is mainly a matter of political control and accountability rather than of legality and the rule of law" (ms p. 17). The traffic-fine case also eliminates the prosecutor's and judge's case-level discretion. A profile, not a quantity: discretion leaves one position and lands in another. Two qualitative cases. No status changes.

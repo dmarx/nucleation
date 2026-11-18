@@ -1,12 +1,19 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A7; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b),
+  where A names it at A7; not read. No lawful copy was found on
+  2026-11-17: an in-copyright Oxford University Press monograph;
+  Semantic Scholar gives no open PDF; Oxford Academic
+  (doi:10.1093/acprof:oso/9780199396146.001.0001) is by subscription and
+  its host had answered another fetch in this session with a Cloudflare
+  challenge; no author-posted introduction or course copy turned up;
+  Google Books could not be checked (API HTTP 429). No neighbour was
+  sought: A7 recommends it rather than relying on it. It stays
+  Unavailable until a copy is supplied.
 title: 'Moral Failure: On the Impossible Demands of Morality'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -18,6 +25,15 @@ history:
     issued 2014-12-01 (print edition dated 2015). `published:` is
     2014-12-01, the date Crossref gives. No email address was sent to
     any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Unavailable on 2026-11-18 (ADR-041), at the reading pass of
+    2026-11-17: no lawful copy found (where looked, in the status note).
+    Nothing about its content is recorded; A7's line is a
+    recommendation, not a claim about content. The nearest held work on
+    unavoidable wrongdoing is "Dirty Hands Defended", LIT-tmp0l030. No
+    email address was sent to any service.
 tags:
 - ethics
 date: '2026-11-17'

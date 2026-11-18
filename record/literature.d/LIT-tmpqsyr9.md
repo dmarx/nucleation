@@ -1,10 +1,22 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A110; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), at
+  A110; not read. No lawful copy was found on 2026-11-17: the version of
+  record at Wiley (doi:10.1111/1467-9760.00136) answered HTTP 403;
+  PhilArchive's record lists no file; Oxford's repository holds no
+  deposit. Candidate neighbours failed: Miller's 2008 Tanner Lecture
+  (tannerlectures.org, HTTP 404; the Utah address redirected to a home
+  page), Brooks's open critique in Ethics & Global Politics
+  (tandfonline.com, HTTP 403; its Durham copy, a Cloudflare challenge),
+  and two repository links (Collins 2016, Tomalty) that were dead. A
+  read neighbour stands in weakly: Shaw-Young's 2008 Queen's MA thesis,
+  LIT-tmpqdygg, which quotes Miller's 2007 statement of the connection
+  theory with page numbers. It stays Unavailable until a copy is
+  supplied.
 title: 'Distributing Responsibilities'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -17,6 +29,15 @@ history:
     of December 2001: Crossref gives the issue month (December 2001) and
     no day; its online date 2002-12-16 is later. No email address was
     sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Unavailable on 2026-11-18 (ADR-041), at the reading pass of
+    2026-11-17: no lawful copy found (where looked, in the status note).
+    Shaw-Young (2008), LIT-tmpqdygg, was registered and read in part as
+    a weak stand-in. The neighbour cites a 2005 reprint in Global
+    Responsibilities: Who Must Deliver on Human Rights? (Routledge),
+    unverified. No email address was sent to any service.
 tags:
 - ethics
 - society-and-governance
@@ -57,3 +78,20 @@ Unverified until read.
 ## Standing in the record
 
 Registered from A110 (2026-11-17). It bears on [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md), [CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md) (non-substitution: blame does not discharge repair) and [CLAIM-tmp0wx69](../claims.d/CLAIM-tmp0wx69.md). Correction: the exchange names no work; this article states the four grounds A lists (also developed in *National Responsibility and Global Justice*, OUP 2007, not registered). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+
+## Note of 2026-11-18: the reading pass
+
+Not read; Unavailable (status note). **Shaw-Young (2008)**, LIT-tmpqdygg,
+stands in weakly. It reports Miller's 2007 book, not this article: outcome
+and remedial responsibility come apart, and remedial responsibility is
+assigned through "moral responsibility, outcome responsibility, causal
+responsibility, benefit, capacity, and community" (thesis p. 20, Miller
+2007 pp. 100–104). Capacity alone can make a faultless bystander
+responsible (the river bank).
+
+**The exchange's characterization cannot be checked against the work.**
+A110's four grounds, "causal involvement, moral responsibility, relevant
+relationships, and capacity to remedy", are all among the six of 2007, with
+outcome responsibility and benefit besides; "including" leaves room for
+that. Whether the 2001 article states exactly these is unchecked, and the
+record should not cite it for a fixed list.

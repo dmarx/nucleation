@@ -1,12 +1,21 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A11; no copy sought yet.
+  sought 2026-11-17 for a lawful copy, chapter or preview; none was
+  reached. The publisher's page
+  (cornellpress.cornell.edu/book/9781501769771/the-will-to-predict/) lists
+  a hardcover only, with no open-access offer; Semantic Scholar does not
+  find the DOI; the Google Books API answered HTTP 429 and was not
+  retried; Everand is a subscription service. An author's accepted
+  manuscript in Kingston University's repository, https://eprints.kingston
+  .ac.uk/id/eprint/48370/3/Rindzeviciute-E-48370-AAM.pdf, which search
+  results call "The Cybernetic Prediction", could not be reached (DNS
+  failure, not a refusal by policy) and is not known to be part of this
+  book; a later retry may reach it and settle that. It stays Unavailable
+  until a copy is supplied or that manuscript proves to be a chapter of
+  this book.
 title: 'The Will to Predict: Orchestrating the Future through Science'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -19,6 +28,16 @@ history:
     Rindzevičiūtė"; this book is the probable identification, not
     certain. `published:` is 2023-05-15, the date Crossref gives. No
     email address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Status Deferred → Unavailable under ADR-041. Sought on 2026-11-17: no
+    lawful copy of the book found; the one possibly related author's
+    manuscript, at Kingston University's repository, was unreachable (DNS
+    failure) and is not known to be a chapter of this book, so it does not
+    make the work Unfetched. A chapter title "Reflexive Control" seen in a
+    search listing is unverified and not filed. Nothing was read. No email
+    address was sent to any service.
 tags:
 - philosophy-of-science
 - society-and-governance
@@ -33,17 +52,15 @@ keywords:
 - 'governance'
 implementations: []
 summary: >-
-  Eglė Rindzevičiūtė (2023). *The Will to Predict: Orchestrating the
-  Future through Science*. Ithaca: Cornell University Press. DOI
-  10.7591/cornell/9781501769771.001.0001. Here because A cites it in the
-  exchange "Assess Depp Heard Abuse" as A cites a 2023 intellectual
-  history by Rindzevičiūtė on reflexive control as an effort to make
-  adversarial decision-making predictable. It bears on the record's
-  reflexive-control thread, [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and on
-  [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). What the exchange says of it is unverified until read.
+  Eglė Rindzevičiūtė (2023). The Will to Predict: Orchestrating the Future
+  through Science. Ithaca: Cornell University Press. Here because A cites
+  a 2023 intellectual history by Rindzevičiūtė on reflexive control as an
+  effort to make adversarial decision-making predictable; this book is the
+  probable identification, not certain. Unavailable; nothing was read. It
+  bears on the record's reflexive-control thread, LIT-1339 and CLAIM-404,
+  and on CLAIM-tmp76x3e, all left open.
 ---
-<!-- inactive-ok-file: CLAIM-tmp76x3e — filed now from the same exchange, temporary codes, Proposed or Open -->
-<!-- inactive-ok-file: LIT-1339 — Unavailable; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-tmp76x3e LIT-1339 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
 
 # LIT-tmpv05gu: The Will to Predict: Orchestrating the Future through Science
 
@@ -56,3 +73,9 @@ Eglė Rindzevičiūtė (2023). *The Will to Predict: Orchestrating the Future th
 ## Standing in the record
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A11 as A cites a 2023 intellectual history by Rindzevičiūtė on reflexive control as an effort to make adversarial decision-making predictable. It bears on the record's reflexive-control thread, [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md). Not read.
+
+Sought on 2026-11-17; no lawful copy reached, so the book is Unavailable.
+A11's "describes reflexive control as an ambitious effort to make
+adversarial decision-making predictable" cannot be judged. An author's
+manuscript at Kingston University, possibly a chapter on cybernetic
+prediction, could not be reached and is the first thing to retry.

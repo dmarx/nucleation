@@ -1,12 +1,19 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A7; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b),
+  where A names moral luck at A7; not read. A lawful copy was located on
+  2026-11-17 and not fetched: Semantic Scholar lists the publisher's PDF
+  as free to read ("BRONZE") at
+  https://academic.oup.com/aristoteliansupp/article-pdf/50/1/115/5036846/aristoteliansup50-0115.pdf,
+  which answered with a Cloudflare challenge (HTTP 403), not retried.
+  The revised reprints, in Williams's Moral Luck (CUP 1981) and Nagel's
+  Mortal Questions (CUP 1979), are in-copyright books. No neighbour was
+  sought: the work is not central to the exchange's argument. A human
+  reader can likely open the OUP copy.
 title: 'Moral Luck'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -19,6 +26,16 @@ history:
     Williams's paper and Nagel's reply are registered together, as
     Crossref holds them. `published:` is 1976-07-11, the date Crossref
     gives. No email address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Unfetched on 2026-11-18 (ADR-053), at the reading pass of
+    2026-11-17: a lawful free copy was located at OUP and met a bot
+    check (status note). Nothing about its content is recorded. The
+    record holds empirical work on luck in judgment: Quillien (NOTE-092)
+    and Gaboriaud et al. (LIT-tmp5poa8, read), which treats the outcome
+    effect as the moral-luck effect. No email address was sent to any
+    service.
 tags:
 - ethics
 - moral-psychology

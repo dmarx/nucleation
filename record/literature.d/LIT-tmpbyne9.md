@@ -1,12 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A37; no copy sought yet.
+  read 2026-11-17 (NOTE-tmpmsxf9) from the publisher's typeset version on
+  the author's site; worth reading here as evidence that an opposition
+  holding autocratic institutions changed governance in them while the
+  regime kept the rules of access to the larger arrangement. The online
+  appendix not read.
 title: 'Opposition rule under autocracy: Evidence from Russia'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -19,6 +20,19 @@ history:
     2025 research" without a title. `published:` is 2025-03-06, the
     online date Crossref gives. No email address was sent to any
     service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read on 2026-11-17 from the publisher's typeset early-view PDF posted
+    on the author's own site (ADR-074), https://davidszakonyi.com/assets/p
+    apers/Szakonyi%202025%20-%20Opposition%20rule%20under%20autocracy.pdf,
+    pp. 1–17 in full, the online appendix not in the file; quotes
+    rechecked by the filer on 2026-11-18. Status Deferred → Active.
+    Confirmed: sole author David Szakonyi, George Washington University; a
+    research article, received 5 August 2024, accepted 12 December 2024;
+    `published:` 2025-03-06 (Crossref's online date) stands. Replication
+    data: doi:10.7910/DVN/RX4AS5. The Wiley page answered HTTP 403.
+    Summary and key takeaways rewritten from the reading.
 tags:
 - society-and-governance
 - social-science
@@ -34,16 +48,17 @@ keywords:
 - 'procurement'
 implementations: []
 summary: >-
-  David Szakonyi (2025; issue 2026). Opposition rule under autocracy:
-  Evidence from Russia. *American Journal of Political Science* 70(2):
-  587–605. DOI 10.1111/ajps.12961. Here because A cites it in the
-  exchange "Assess Depp Heard Abuse" as A's counterexample: opposition
-  inside an authoritarian environment produced measurable changes. It is
-  the defeat condition of [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md), in the ledger's reading:
-  ineffectiveness alone is not evidence of control. What the exchange
-  says of it is unverified until read.
+  David Szakonyi (2025; issue 2026), American Journal of Political Science
+  70(2). After the 2017 Moscow municipal elections, ruling-party deputies
+  on opposition-majority councils reported about 22% less income, and
+  those councils procured more by auction and cut expenditures; there was
+  no effect on hidden assets, and systemic and nonsystemic opposition
+  councils did not differ significantly. The regime kept the municipal
+  filter and, in 2022, blocked candidates and used fraud. Read in
+  NOTE-tmpmsxf9; its account is THEORY-tmp0muvf, which corroborates
+  CLAIM-tmpm95mo.
 ---
-<!-- inactive-ok-file: CLAIM-tmpm95mo — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpm95mo THEORY-tmp0muvf — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # LIT-tmpbyne9: Opposition rule under autocracy: Evidence from Russia
 
@@ -51,8 +66,24 @@ David Szakonyi (2025; issue 2026). Opposition rule under autocracy: Evidence fro
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* A37: "The study found that opposition electoral victories reduced certain opportunities for ruling-party officials to extract financial benefits from public office, partly through more competitive procurement and reduced spending." Unverified until read.
+- "deputies from the ruling party earned roughly 22% less income in years
+  when they served in an opposition-held council" (p. 2), with "no real
+  change in the incidence of hidden assets" (p. 11).
+- Opposition-held councils signed "Roughly 10% more contracts" by auction
+  (p. 13) and cut expenditure (p. 14); "holding a majority was critical to
+  execute oversight" (p. 17).
+- The regime kept the larger levers: the opposition "did not win enough
+  seats to overcome the municipal filter" (p. 5), and in 2022 "the regime
+  blocked opposition candidates from running and used fraud" (p. 15).
 
 ## Standing in the record
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 as A's counterexample: opposition inside an authoritarian environment produced measurable changes. It is the defeat condition of [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md), in the ledger's reading: ineffectiveness alone is not evidence of control. Not read.
+
+Read on 2026-11-17 (NOTE-tmpmsxf9). The exchange's characterization is
+faithful: A37's reduced opportunities "to extract financial benefits from
+public office, partly through more competitive procurement and reduced
+spending" is the abstract's. The effect is for opposition majorities, and
+on reported income. For CLAIM-tmpm95mo it is both A's counterexample and
+an instance: real local change, with the regime holding the rules of
+access to the larger arrangement.

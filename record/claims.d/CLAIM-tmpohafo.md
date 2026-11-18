@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'For a party affected by a decision, explanation (understanding why it was reached), contestation (challenging it or the principles behind it) and interruption (suspending its execution while the challenge is considered) are separate entitlements, and each without the next fails in its own way: explanation without contestation is transparency without accountability, contestation without interruption a right that arrives too late, and interruption without reasons an arbitrary veto'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Cerrato, Sahlgren and Heilmann (2026) read; counterfactual
+    explanations that hide the deployer's upstream choices are
+    explanation without contestation, which corroborates the claim's
+    first split. Citron (2008) read; notice, hearing and pre-
+    deprivation process are distinct safeguards that fail differently,
+    which corroborates the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -105,3 +115,13 @@ says, and "A robust process needs an appropriate combination."
   rises with how hard it is to reverse.
 - Not that explanation is worthless without the others. It is necessary to
   informed contestation and to reasoned interruption.
+
+## Note of 2026-11-17: Cerrato, Sahlgren and Heilmann, read
+<!-- inactive-ok-file: THEORY-tmpu63nn — new theory of 2026-11-18, Proposed -->
+
+Cerrato, Sahlgren and Heilmann 2026, read (NOTE-tmpsuiyz, THEORY-tmpu63nn): it corroborates the claim's first failure, explanation without contestation, independently (THEORY-tmpu63nn carries `corroborates`). In their experiments the deployer's upstream choices "have as much or more impact on the generated counterfactuals as the specifics of the generating method" (abstract), and counterfactuals "preclude consideration of whether the decision-maker ought to have acted differently". So "it may be impossible for subjects to reverse their decisions through contesting such choices absent appropriate transparency" (Implications for Recourse). This is a sharper form than the claim's: the explanation points the subject at the wrong target, their own inputs. The paper does not set recourse against contestation as rights (it folds contestation into relational recourse) and says nothing on interruption. A preprint, one domain, two methods. No status changes.
+
+## Note of 2026-11-17: Citron, read
+<!-- inactive-ok-file: THEORY-tmpa89iy — new theory of 2026-11-18, Proposed -->
+
+Citron 2008, read (NOTE-tmplslae, THEORY-tmpa89iy): it corroborates the claim independently (THEORY-tmpa89iy carries `corroborates`). Notice (reasons, through audit trails), the hearing and process before deprivation are distinct safeguards in her account and fail differently: inadequate notice devalues hearings (p. 1254); hearings exist but are hollowed by automation bias, which "effectively turns a computer program's suggested answer into a trusted final decision" (p. 1272), and by the cost of decoding the system; and "pre-deprivation process is surely possible" because "agency officials ultimately control the administration of automated decision systems" (p. 1288), the ground for the claim's third entitlement. One difference: Citron treats explanation as a precondition of contestation rather than an entitlement that can be had alone. No status changes.

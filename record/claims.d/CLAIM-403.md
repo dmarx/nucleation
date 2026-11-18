@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpj163u
 title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -38,6 +38,12 @@ history:
     Collins that the outsider within lacks authority to press what she
     sees, not that her position detects anomalies better. The claim is
     unchanged.
+- version: 6
+  date: '2026-11-17'
+  note: >-
+    Arnstein (1969) read; tokenism is admission without uptake, and
+    partnership's fixed ground rules are a part in the standards of
+    uptake, which corroborates the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -315,3 +321,8 @@ admission succeeds. A's condition for an accountable consultation, that it
 preserve "the relevant distinctions between information, preference,
 objection, justification, and claims of right", is recorded here and not
 filed. No change.
+
+## Note of 2026-11-17: Arnstein, read
+<!-- inactive-ok-file: THEORY-tmpf87o2 — new theory of 2026-11-18, Proposed -->
+
+Arnstein 1969, read from an OCR scan (NOTE-tmp32vnp, THEORY-tmpf87o2): it corroborates the claim independently (THEORY-tmpf87o2 carries `corroborates`). Her tokenism band is admission and recognition without uptake ("this rung of the ladder is still a sham since it offers no assurance that citizen concerns and ideas will be taken into account", p. 219), and her partnership rung reaches the claim's last stage, a part in revising the standards: "After the groundrules have been established through some form of give-and-take, they are not subject to unilateral change" (p. 221). No status changes.

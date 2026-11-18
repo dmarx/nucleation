@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -40,6 +40,11 @@ history:
     self-confirming loops the third question applies"); an argument
     cannot be a complement. Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 6
+  date: '2026-11-17'
+  note: >-
+    Ensign et al. (2017; FAT* 2018) read and filed with corroborates
+    on this claim; the reading also qualifies the claim's remedy.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -304,3 +309,12 @@ From the reading in [NOTE-1742](../notes.d/NOTE-1742.md) ([LIT-2431](../literatu
 checked by the filer: bears as an empirical example of evidence selection
 persisting through user follows; supportive in spirit, without any test of
 lock-in.
+
+## Note of 2026-11-17: Ensign et al. read: a demonstrated lock-in through action, and independent evidence that only attenuates it
+<!-- inactive-ok-file: NOTE-tmpwpvfg THEORY-tmp0xl3k — new; the reading filed on 2026-11-18 -->
+
+Ensign et al. 2017, read (NOTE-tmpwpvfg, THEORY-tmp0xl3k, corroborates). A demonstrated instance of the claim's last clause, a loop that selects its own evidence and locks in with action available, in which action itself, deployment, is the selector: "predictive policing algorithms only observe crime in neighborhoods they patrol" (p. 1), and with unequal rates the process "will settle on region B with probability 1. This is a classic 'go with the winner' problem" (Lemma 4).
+
+It also qualifies the claim's remedy. Reported incidents are evidence whose arrival does not pass through the patrol decision, yet mixing them in only attenuates the loop: "while reported incidents can attenuate the degree of runaway feedback, they cannot entirely remove it without the interventions we suggest" (abstract). The limit approaches the true rates only if discovered incidents are down-weighted or the rates are nearly equal, and "it is precisely when crime rates are different that predictive policing is of value" (p. 7). The authors' repair is to reweight the self-selected stream by its selection probability: "we should simply drop the incident record 90% of the time" (p. 7). So evidence whose arrival is independent keeps the loop from confirming itself only in proportion to its weight. The repair works on the other half of the claim's disjunction: it changes how the self-selected evidence is scored, discounting each record by the probability that the interpretation sent police to find it, so that its scoring no longer passes through the interpretation. The reading supports the claim's "arrival or scoring" and shows that, in this model, the scoring route is the one that suffices; the claim does not say how much independent arrival is enough, and its wording would gain from saying that a small share only attenuates.
+
+No status changes.

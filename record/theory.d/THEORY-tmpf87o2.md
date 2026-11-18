@@ -1,0 +1,53 @@
+---
+status: Proposed
+promote_when: >-
+  Empirical or comparative work applying the ladder finds that
+  participation arrangements differ in the power over outcomes they give
+  citizens in the gradations it names, in particular that informing and
+  consultation arrangements give voice without power to ensure it is
+  heeded, while partnership and delegated arrangements give a share in
+  decisions.
+title: 'Citizen participation is meaningful to the degree that it redistributes power over outcomes: an eight-rung ladder runs from non-participation (manipulation, therapy) through tokenism (informing, consultation, placation), where citizens may hear and be heard without power to ensure they are heeded, to citizen power (partnership, delegated power, citizen control)'
+version: 1
+tags:
+- society-and-governance
+- social-science
+date: '2026-11-18'
+source:
+- LIT-tmpg8vrx
+corroborates:
+- CLAIM-523
+- CLAIM-403
+- CLAIM-tmpm95mo
+summary: >-
+  Arnstein (1969), LIT-tmpg8vrx, read from an OCR scan in NOTE-tmp32vnp. It
+  corroborates three claims that do not rest on it: CLAIM-523 and
+  CLAIM-403 (voice made legible or admitted without efficacy or uptake)
+  and CLAIM-tmpm95mo (citizen majorities and community control contained
+  by another's veto and resources). The wording is the reader's; adopting
+  it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-tmpm95mo — Proposed; cited with their standing, entries this reading bears on or files -->
+
+# THEORY-tmpf87o2: Citizen participation is meaningful to the degree that it redistributes power over outcomes: an eight-rung ladder runs from non-participation (manipulation, therapy) through tokenism (informing, consultation, placation), where citizens may hear and be heard without power to ensure they are heeded, to citizen power (partnership, delegated power, citizen control)
+
+Arnstein (1969), LIT-tmpg8vrx.
+
+## The account
+
+"There is a critical difference between going through the empty ritual of
+participation and having the real power needed to affect the outcome of
+the process" (p. 216). Each rung is illustrated from 1960s urban renewal,
+Community Action and Model Cities programs: rubber-stamp advisory boards,
+consultation that "offers no assurance that citizen concerns and ideas
+will be taken into account" (p. 219), citizen majorities under the city
+council's "final veto powers" (p. 222), and negotiated partnerships whose
+ground rules "are not subject to unilateral change" (p. 221).
+
+## What it does not show
+
+- **Systematic evidence.** The ladder is illustrated, not tested; the
+  author calls it a simplification "designed to be provocative".
+- **The roadblocks.** By her own account it omits racism, paternalism and
+  resistance to redistribution on one side, weak organization on the
+  other (p. 217).

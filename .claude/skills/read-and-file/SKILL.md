@@ -1,4 +1,5 @@
 ---
+<!-- inactive-ok-file: ADR-tmp976n0 — Proposed; two further kinds of lawful copy, the owner's ruling of 2026-11-18 -->
 name: read-and-file
 description: How this record takes in reading. Use it to file an exchange, a pasted synthesis, an upload or a single work; to check whether something is "already on the record"; or to read registered works and file the readings. ADR-068 holds the invariants; this file holds the steps.
 ---
@@ -114,8 +115,12 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   typeset.io, Semantic Scholar's PDF) or an author's own upload
   (academia.edu, ResearchGate) is lawful to read. Shadow libraries and
   ebook-piracy sites (Sci-Hub, LibGen, Anna's Archive, Z-Library,
-  epdf.pub) and uploads of whole in-copyright books are not. A brief may
-  narrow this only with a reason stated in the curation entry.
+  epdf.pub) and uploads of whole in-copyright books are not. Two more
+  kinds count (ADR-tmp976n0): a copy whose host states it is published
+  with the rights holders' permission (the publisher, author or estate,
+  named), with the statement quoted in the NOTE; and a reply posted by the
+  scholar it answers, on that scholar's site beside their own paper. A
+  brief may narrow this only with a reason stated in the curation entry.
 - **Stop at any bot check**: captcha, Cloudflare or WAF challenge,
   "Access Denied", rate limit, paywall. Never try to get around one.
   Retrying the same host doesn't help either.

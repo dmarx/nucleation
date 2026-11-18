@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Identical harm, different remedial assignments: two institutions produce the same wrongful outcome through the same defective procedure with blameless decision-makers, and one can remedy it while the other cannot and a separate public authority with jurisdiction and resources can; the duty to address the wrong is the same and the corrective paths differ, assigned without inventing blame'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Reading of Shaw-Young on Miller filed: the capacity ground the
+    case calls unread is now on the record in Miller's words, as
+    reported, though the 2001 article remains unread.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -65,3 +72,12 @@ responsibility, which A relays and the record has not read. It does not
 build the first half of the principle, blame displacement, where a culpable
 party is found and the system goes unrepaired; [CASE-151](CASE-151.md) (Wells Fargo) is
 the record's documented instance of that.
+
+## Note of 2026-11-17: Miller's capacity ground, read through a neighbour
+<!-- inactive-ok-file: NOTE-tmps8s9k THEORY-tmp3xr2l LIT-tmpqsyr9 — Skimmed, new or Unavailable; the reading filed on 2026-11-18 and the unread article -->
+
+Shaw-Young 2008, read in part (NOTE-tmps8s9k, THEORY-tmp3xr2l), standing in weakly for Miller 2001 (LIT-tmpqsyr9).
+
+The case says the public authority's duty to intervene rests on "Miller's capacity ground of remedial responsibility, which A relays and the record has not read". The record now holds it in Miller's own words, as Shaw-Young quotes his 2007 book: "if I am the only person walking along a river bank when a child falls in, then it is my responsibility to rescue the child" (thesis p. 29, Miller 2007 p. 103). As quoted, capacity grounds a duty, not a permission, when the agent is "uniquely in this position". Whether a public authority with jurisdiction is so placed in arm B, and how capacity is weighed against Miller's other connections ("with more direct connections generating stronger duties", Shaw-Young's paraphrase, p. 26), the reading does not settle. The premise stays a premise.
+
+No status changes.

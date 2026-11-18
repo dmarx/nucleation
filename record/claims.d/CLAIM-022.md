@@ -4,12 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmp64xks
 title: 'Explaining practical efficacy does not settle whose the will is'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-03'
   note: >-
     uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    Zeiser (2024) read and filed with corroborates on this claim, in
+    the domain of AI decision support.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -142,3 +147,12 @@ self-government. A17: "The organizational account can explain how a person
 governs themselves. The further normative account must explain when that
 governance is genuinely theirs." That is this claim, with the gut and
 microbiome as its examples. Not filed separately.
+
+## Note of 2026-11-17: Zeiser read: a decision made by a human that is not hers
+<!-- inactive-ok-file: NOTE-tmpnpm7l THEORY-tmpzdtc8 — new; the reading filed on 2026-11-18 -->
+
+Zeiser 2024, read (NOTE-tmpnpm7l, THEORY-tmpzdtc8, corroborates). An instance of the claim in a new domain. A recruiter using a decision-support tool makes the decision, but "Despite being technically made by a human the decision doesn't reflect characteristics of Susan's judgement", and "This is not merely a problem of Susan over-relying on the DSS's recommendation". The gap arises when the tool "presupposes values that have a significant influence on the outcome of the decision and that they haven't endorsed as their own values". That the human's decision was effective does not settle whose values it expresses.
+
+Zeiser's remedy is an endorsement criterion. He does not ask whether endorsement can itself be produced or manipulated, so the reading leaves the claim's point about efficacy and ownership standing rather than settling what does settle ownership.
+
+No status changes.

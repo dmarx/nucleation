@@ -1,12 +1,22 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A5; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b),
+  where A names it at A5; the body is not read. A lawful copy was
+  located on 2026-11-17 and not fetched: the article is open access (CC
+  BY) at SAGE according to Semantic Scholar and OpenAlex, at
+  https://doi.org/10.1177/15248380261476693 (journals.sagepub.com), the
+  host that had answered another fetch in this session with a Cloudflare
+  challenge (HTTP 403), so it was not tried again. It is not in PubMed
+  Central or Europe PMC full text. Only the PubMed abstract (PMID
+  42670680) was read: 157 studies, 77 measures; "Most measures (82%, n =
+  63) covered less than half of the taxonomy"; coverage is "limited for
+  more covert tactics, including information control, abuse concealment,
+  child-related coercion, and gaslighting-related behaviors". A human
+  reader can likely open the SAGE copy.
 title: 'Measuring Psychologically Abusive Behaviors in Adult Intimate Relationships: A Systematic Review of Measures'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -17,6 +27,17 @@ history:
     (10.1177/15248380261476693): journal article, Trauma, Violence, &
     Abuse, online 2026-08-31. `published:` is 2026-08-31, the online
     date Crossref gives. No email address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Unfetched on 2026-11-18 (ADR-053), at the reading pass of
+    2026-11-17: a lawful open copy was located at SAGE, whose host had
+    met a bot check in this session (status note). The PubMed abstract
+    was read and matches A5's "systematic review of 77 instruments" (35
+    psychological-IPV measures and 42 general IPV measures with a
+    psychological subscale). Article type: systematic review of
+    measures; searches June 2023, updated December 2025; online ahead of
+    print 2026-08-31. No email address was sent to any service.
 tags:
 - social-science
 - psychometrics

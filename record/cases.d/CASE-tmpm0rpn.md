@@ -1,7 +1,13 @@
 ---
 status: Proposed
 title: 'Three hospitals with the same output, budget, staff competences and commitments, differing only in how extra work is obtained: negotiated cooperation, a competition for scarce advancement that all entrants pay for, and an appeal to professional duty; the second and third both make withholding labour individually costly while the institution takes the benefit, by incentive in one and by conscience in the other'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Keller (2016) read; his law-firm case and strike asymmetry give
+    arm C a published counterpart, proposed as a draws_on check.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -16,6 +22,8 @@ illustrates:
 bears_on:
 - QUESTION-463
 - QUESTION-468
+draws_on:
+- THEORY-tmpg9i9l
 summary: >-
   A's, A53 §7 of the exchange "Assess Depp Heard Abuse" (2026-11-16),
   "An especially productive thought experiment for Nucleation", at the
@@ -103,3 +111,14 @@ a right to refuse that does not fall on patients, for C.
 - **That all-pay models fit promotions.** A gives the auction literature
   without a citation the record can identify; the all-pay framing is an
   analogy until a model is specified.
+
+## Note of 2026-11-17: Keller read: arm C's mechanism in a published case
+<!-- inactive-ok-file: NOTE-tmp0loqu THEORY-tmpg9i9l — new; the reading filed on 2026-11-18 -->
+
+Keller 2016, read (NOTE-tmp0loqu, THEORY-tmpg9i9l). Arm C, "Moralized obligation", has the mechanism of Keller's third-party moral blackmail. His law firm: "I can increase your workload without having to increase your pay and without losing clients for the firm" (p. 24), relying on lawyers' obligations to their clients. His strike asymmetry is the arm's individually costly withholding: "It really is more difficult to go on strike if you are a nurse or a teacher than if you are a policy analyst or a software developer" (p. 25). Keller also gives the case's stipulated verdict on C a published argument: the institution's act is a wrong ("moral blackmail") and the obligation it exploits is genuine.
+
+Two differences. Keller's cases are deliberate; the case's arm C "appeals to professional duty" without saying whether management intends the effect. And he does not compare C with a competitive arm like B.
+
+Proposed, for the owner: CASE-tmpm0rpn `draws_on` THEORY-tmpg9i9l, as a check its arm C is set against (ADR-095). The case is the filer's to change only with the owner's or lead's agreement, so it is not written here.
+
+No status changes.

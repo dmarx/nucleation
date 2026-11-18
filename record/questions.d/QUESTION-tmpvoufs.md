@@ -1,7 +1,13 @@
 ---
 status: Open
 title: 'What lets those who act for an organization hold the principals who direct them accountable for the conditions under which they are required to act, and does any principal–agent account carry accountability in that reverse direction?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Four readings filed with bears_on this question; none gives agents
+    an instrument for holding principals to account.
 tags:
 - society-and-governance
 - ethics
@@ -61,3 +67,14 @@ channels for challenging upstream decisions."
   from commitment rather than for terms, no such instrument can work from
   the agent's side alone, so that the accountability must come from a third
   party.
+
+## Note of 2026-11-17: Tronto, Santoni de Sio and Elish read: a democratic answer in kind, a pair of duties, and certification
+<!-- inactive-ok-file: NOTE-tmp0tq2n THEORY-tmpna7qd NOTE-tmpfpn7t THEORY-tmpxw0zo NOTE-tmp6l52i THEORY-tmpnmvsj NOTE-tmps5u6y THEORY-tmp7h69w — new; the readings filed on 2026-11-18 -->
+
+Tronto 2018 and 2014, read (NOTE-tmp0tq2n, THEORY-tmpna7qd; NOTE-tmpfpn7t, THEORY-tmpxw0zo; bears_on). A democratic answer in kind: democracy as "the allocation of caring responsibilities in a political community and the method of giving equal voice to all members of the community in making these allocations" (2014), and in reallocating them "everyone's voice must be heard" (2018, p. 14). It is a political route for those who bear responsibilities to shape them, not a principal–agent mechanism.
+
+Santoni de Sio & van den Hoven 2018, read (NOTE-tmp6l52i, THEORY-tmpnmvsj, bears_on). A pair of duties running both ways: the operator's "meta-task responsibility" to check the system, and the designers' "obligation to design the system in such a way that this type of inquiry by users is not made impossible or unduly difficult" (p. 9). A duty on principals, not an instrument for agents.
+
+Elish 2019, read (NOTE-tmps5u6y, THEORY-tmp7h69w, bears_on, weakly): she asks how certifications might be reframed to reflect human–machine interaction (p. 54), a lever on the standards by which operators are judged, held by regulators, not by operators.
+
+The question stays open.

@@ -1,12 +1,12 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A2; no copy sought yet.
+  read 2026-11-17 (NOTE-tmppb4aj) from the National Archives' Find Case
+  Law; worth reading here as the court's own findings, incident by
+  incident, which the exchange's assessment argues from. The Confidential
+  Annexe is not public and was not read.
 title: 'Depp II v News Group Newspapers Ltd & Anor'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -20,6 +20,22 @@ history:
     date. BAILII's copy was not fetched (a bot check). `published:` is
     2020-11-02, the date the judgment carries. No email address was sent
     to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read on 2026-11-17 from the approved judgment on the National
+    Archives' Find Case Law
+    (https://caselaw.nationalarchives.gov.uk/ewhc/qb/2020/2911 and its
+    data.xml), all 585 paragraphs with some witness narrative skimmed; the
+    Confidential Annexe is not published. Quotes rechecked by the filer on
+    2026-11-18. Status Deferred → Active. Confirmed: John Christopher Depp
+    II v (1) News Group Newspapers Ltd and (2) Dan Wootton; High Court of
+    Justice, Queen's Bench Division, Case No. QB-2018-006323, before Mr
+    Justice Nicol, judgment dated 2 November 2020 after a hearing in July
+    2020; an approved judgment after trial of a libel claim, the defence
+    being truth under s.2 of the Defamation Act 2013. BAILII was not
+    tried. Summary and key takeaways rewritten from the reading; the
+    findings are recorded as the court's.
 tags:
 - society-and-governance
 - social-science
@@ -34,19 +50,21 @@ keywords:
 - 'balance of probabilities'
 implementations: []
 summary: >-
-  *Depp II v News Group Newspapers Ltd & Anor* [2020] EWHC 2911 (QB), Mr
-  Justice Nicol, High Court of Justice, Queen's Bench Division, 2
-  November 2020. Case No. QB-2018-006323. Here because A cites it in the
-  exchange "Assess Depp Heard Abuse" as the British judgment A treats as
-  the strongest evidence in its assessment: 14 alleged incidents
-  examined one by one, 12 found established. It is the evidential base
-  of A's assessment of the owner's U1 and bears on [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md) and
-  [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) only as the case they abstract from. A's "Depp's
-  attempt to appeal was unsuccessful" (permission to appeal was refused
-  in March 2021, per the ledger) is unverified here. What the exchange says of
-  it is unverified until read.
+  Depp II v News Group Newspapers Ltd & Anor [2020] EWHC 2911 (QB), Mr
+  Justice Nicol, 2 November 2020: a libel action over an article calling
+  Mr Depp a "wife beater", defended as true. The court held the words
+  meant he had committed physical violence against Ms Heard, causing
+  significant injury and on occasion fear for her life; examining the 14
+  pleaded incidents one by one on the civil standard, it found 12 proved
+  and Incidents 6 and 11 not proved, rejected the Claimant's "hoax" case,
+  held the words substantially true and dismissed the claim. Ms Heard was
+  not a party. Read in NOTE-tmppb4aj; the court's findings are
+  THEORY-tmpfnn68. It is the case CASE-tmpzt3zf and CLAIM-tmpkivlz
+  abstract from, and makes no finding on the allocation of power. A's
+  "Depp's attempt to appeal was unsuccessful" is not in this judgment and
+  stays unverified here.
 ---
-<!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz THEORY-tmpfnn68 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # LIT-tmpqju5l: Depp II v News Group Newspapers Ltd & Anor
 
@@ -54,8 +72,26 @@ summary: >-
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* A2: "In 2020, a British judge examined 14 alleged incidents of Depp physically assaulting Heard and found **12 established on the balance of probabilities**." Unverified until read.
+*The court's findings, as the court made them.*
+
+- The words meant that Mr Depp "had committed physical violence against Ms
+  Heard", causing "significant injury" and "On occasion ... fear for her
+  life" (para 80).
+- Of the 14 pleaded incidents, the court found all but Incidents 6 and 11
+  proved to the civil standard; a further confidential allegation was not
+  accepted (para 575).
+- The words were "substantially true in the meanings I have held them to
+  bear" (para 583), and the claim was dismissed (para 584). Ms Heard was
+  not a party (para 576).
 
 ## Standing in the record
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A2 as the British judgment A treats as the strongest evidence in its assessment: 14 alleged incidents examined one by one, 12 found established. It is the evidential base of A's assessment of the owner's U1 and bears on [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md) and [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) only as the case they abstract from. A's "Depp's attempt to appeal was unsuccessful" (permission to appeal was refused in March 2021, per the ledger) is unverified here. The record files the judgment as a work because the exchange's assessment argues from it (a court decision the exchange's argument uses counts as a work). Not read.
+
+Read on 2026-11-17 (NOTE-tmppb4aj). The exchange's characterization is
+faithful: A2's 14 incidents examined and 12 "established on the balance
+of probabilities" matches paras 575 and 585. Two precisions: Incident 5
+was found as "at least one" push, and Incident 1 only "taken with the
+evidence as a whole" (para 210). The appeal is not in this document. The
+record reports these findings as the court's and adds no judgment of the
+parties.

@@ -1,10 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A102; no copy sought yet.
+  read in full 2026-11-17 (NOTE-tmp3co3x) from the publisher's pages
+  posted on the author's site; worth reading as the published challenge
+  that contractualism must be a multi-level theory of authority over
+  obligations as well as of owing, which bears on QUESTION-tmpk7u3e;
+  answered by Scanlon in LIT-tmplag34.
 title: 'Rights and What We Owe to Each Other'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -15,11 +18,28 @@ history:
     10.1163/174552412x628968: Wenar, Journal of Moral Philosophy 10(4):
     375-399, 2013. `published:` is the first of January 2013: Crossref
     gives the year only. No email address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read in full on 2026-11-17 from the publisher's typeset pages posted
+    by the author on his own site,
+    https://www.wenar.info/s/ScanlonRightsJMP.pdf (author's upload,
+    ADR-074); the ANU repository copies were restricted (HTTP 401).
+    Quotes rechecked by the filer on 2026-11-18. The first page carries
+    "© Koninklijke Brill NV, Leiden, 2012" beside "Journal of Moral
+    Philosophy 10 (2013) 375-399": the article appeared online in 2012,
+    before the 2013 issue, so `published:` moves from 2013-01-01 to
+    2012-01-01, at year precision since no online day is printed
+    (ADR-002). Affiliation on the article: King's College London; the
+    star note gives its origin in a conference talk of May 2009. The
+    identification inferred on registration is confirmed: Scanlon's
+    reply, LIT-tmplag34, answers this paper by name. Deferred → Active.
+    NOTE-tmp3co3x, THEORY-tmpup8ol.
 tags:
 - ethics
 - society-and-governance
 date: '2026-11-17'
-published: '2013-01-01'
+published: '2012-01-01'
 doi: '10.1163/174552412x628968'
 first_author: 'Wenar'
 keywords:
@@ -29,29 +49,41 @@ keywords:
 - 'multilevel theory'
 implementations: []
 summary: >-
-  Leif Wenar (2013). "Rights and What We Owe to Each Other". Journal of
-  Moral Philosophy 10(4): 375–399. DOI-10.1163/174552412x628968.
-  Registered unread from the exchange "Assess Depp Heard Abuse" (A102).
-  A102 cites Wenar's challenge to Scanlon: a theory of what we owe must
-  account for authority to alter normative relations, which needs a
-  multilevel theory. What the exchange says of it is unverified until
-  read.
+  Wenar (2012 online; Journal of Moral Philosophy 10(4): 375–399, 2013),
+  read in NOTE-tmp3co3x. Scanlon's account of rights misses "the active
+  rights of authority"; his principles are "principles of wrongness, not
+  of wronging", and their justifications do not locate the rightholder;
+  and since "Rights of authority explain who can change what we owe to
+  each other and how", contractualism "must be a multi-level theory", of
+  authority over as well as owing to. It bears on QUESTION-tmpk7u3e and
+  corroborates CLAIM-tmplidg6 (THEORY-tmpup8ol). Scanlon replies in
+  LIT-tmplag34.
 ---
+<!-- inactive-ok-file: NOTE-tmp3co3x THEORY-tmpup8ol — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: LIT-tmplag34 — registered unread from the same exchange (2026-11-17), Deferred -->
 
 # LIT-tmpretfe: Rights and What We Owe to Each Other
 
-Leif Wenar (2013). "Rights and What We Owe to Each Other". *Journal of Moral Philosophy* 10(4): 375–399. DOI-10.1163/174552412x628968.
+Leif Wenar (2012 online; 2013). "Rights and What We Owe to Each Other". *Journal of Moral Philosophy* 10(4): 375–399. DOI-10.1163/174552412x628968.
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.*
+*From the reading (NOTE-tmp3co3x).*
 
-> A102: "a theory of what we owe one another needs to account for authority to alter normative relations, not merely existing first-order duties. Wenar explicitly describes the need for a multilevel theory."
-
-Unverified until read.
+- "First-order rights define requirements on conduct; second-order rights
+  assign authority to change requirements on conduct" (p. 376).
+- Scanlon's analysis "cannot capture the many rights in the upper-left hand
+  quadrant: the active rights of authority" (p. 383), a fault "entirely
+  harmless for his substantive work on basic rights" (p. 384).
+- "All of Scanlon's fleshed-out examples of contractualist principles are
+  principles of wrongness, not of wronging" (p. 385).
+- ""What we owe to each other" is a one-level concept; contractualism must
+  be a multi-level theory" (p. 399).
 
 ## Standing in the record
 
 Registered from A102 (2026-11-17). Scanlon's reply is [LIT-tmplag34](LIT-tmplag34.md). It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) and [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md). Correction: A102 names the challenge, not the paper; the identification is inferred and is to be confirmed on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+
+Read on 2026-11-17 (NOTE-tmp3co3x). The identification is confirmed. A102 is
+faithful on the multi-level thesis and omits the paper's other main thesis,
+that contractualism cannot locate the rightholder.

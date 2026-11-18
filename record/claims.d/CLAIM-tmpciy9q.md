@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'A party can arrange the conditions under which another commits a real wrong and then use the true accusation, before an audience whose judgement it anticipated, to justify further control over them; the truth of the accusation neither vindicates the party that arranged it nor excuses the one who did wrong'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    The two experiments registered as evidence near this claim were
+    read; neither tests it, and the DARVO study was cited for more
+    than it carries. Keller (2016) read; the institutional example the
+    claim attributes to him is his, with a different actor, and is not
+    an instance of the claim's pattern. An ARG is needed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -124,3 +133,29 @@ work is read.
   that public accountability is manipulative. A13 §8: "This is not a claim
   that all public accountability or criticism is manipulative."
 - Nothing about any real dispute or state.
+
+## Note of 2026-11-17: Harsey and Freyd and Gaboriaud et al., read: neither tests the audience move
+<!-- inactive-ok-file: NOTE-tmp110fx THEORY-tmppzel6 NOTE-tmp3qe8i THEORY-tmpybhzw THEORY-tmptax6l LIT-tmpmsh0d — new or Unavailable; the readings filed on 2026-11-18 and the unread paper one of them quotes -->
+
+Harsey & Freyd 2023, read (NOTE-tmp110fx, THEORY-tmppzel6); Gaboriaud et al. 2024, read (NOTE-tmp3qe8i, THEORY-tmpybhzw).
+
+**Harsey and Freyd carry less than they were registered for.** Their LIT named the study as evidence for this claim, that "how responsibility is narrated changes how it is assigned". The study is a vignette experiment in which a professor accused of groping a student does or does not answer with DARVO: "When using DARVO, perpetrators deny their involvement in wrongdoing, attack their victims’ credibility, and argue that they are the real victims." DARVO lowered support for punishing him from 82% to 60.7% and lowered the victim's believability, but its effect on the perpetrator's rated responsibility is "a value that is generally categorized as a small effect size", and the victim's rated responsibility did not change. Above all, its DARVO frames the accusation as false. This claim is about a true accusation, of a wrong the accuser arranged, used before an anticipated audience. The design has no arranged wrong and no true accusation by the stronger party. Near the claim's third move it shows only that a party's narration of an accusation shifts observers' judgments of credibility and punishment. Its THEORY therefore carries no relation to this claim. The lead should file an ARG from THEORY-tmppzel6 to this claim, Rejected, saying why.
+
+**Gaboriaud et al.** find that observers' blame of an agent rises with intent, outcome and the agent's own causal part (causality slightly more for blame than wrongness, d = 0.05). A party who arranges another's knowing, real wrong sets up those inputs, but the study does not vary an upstream arranger: its causality contrast is the agent against "another independent source". It does not test the claim; no relation.
+
+**King (2013), standing in for Watson** (THEORY-tmptax6l), is nearer the claim's verdict than either experiment: accountability-blame "makes relevant considerations about those holding the subject accountable. Thus, if I lack the standing to hold you to a legitimate demand, then you cannot be accountable to me". That bears on an arranger who then accuses; King does not discuss arranged wrongs, so no relation is written.
+
+The brief also flags the claim's reliance on A's account of Simon Keller's teachers example; that is outside these readings.
+
+No status changes.
+
+## Note of 2026-11-17: Keller read: the teachers example is his, but it has no real wrong and no true accusation
+<!-- inactive-ok-file: NOTE-tmp0loqu THEORY-tmpg9i9l CLAIM-619 — new or Proposed; the reading filed on 2026-11-18 and the nearest claim -->
+
+Keller 2016, read (NOTE-tmp0loqu, THEORY-tmpg9i9l, no relation to this claim). The body's "two audiences in an institution" gives A13 §3's teachers example, "an example it attributes to Simon Keller, not yet checked against his text", and says "The record files no case of it until the work is read."
+
+The example is Keller's (p. 24), and both of A's horns are in it: the official expects teachers' "sense of obligation to their students" to make striking "very difficult", and "if they do go on strike, then in the publicity war that follows I will have some extra ammunition. I will be able to make the teachers look heartless and selfish for abandoning their students at their time of greatest need." Two corrections. The actor is "a government official in charge of teachers' employment", not "Administrators". And the teachers do no wrong: "The teachers have the right to strike", and what the official anticipates is a smear, not a true accusation. Keller calls the whole "moral blackmail" of the teachers (p. 24).
+
+So the example is not an instance of this claim, which needs "a real wrong" and "the true accusation". It shows an arranger anticipating an audience's judgement, the claim's third move, but with a false or unfair charge; that is nearer CLAIM-619's normative inversion than to this claim's pattern. The claim cited the work for more than it carries. The lead should file an ARG from THEORY-tmpg9i9l to this claim, Rejected, saying that Keller's teachers case does not instance the true-accusation pattern, and the body's paragraph should be revised to say so.
+
+No status changes.

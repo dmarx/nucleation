@@ -1,7 +1,17 @@
 ---
 status: Open
 title: 'Does blameless post-incident practice in engineering keep accountability while giving up blame, and if it does, does it keep or lose the upstream provenance of an incapacity that blame supplies?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Reading of Shoemaker (2019) filed with bears_on this question:
+    protest under answerability without angry blame under
+    accountability is a model of a practice that gives up one kind of
+    blame and keeps another. The NTSB's Tempe report and Elish (2019)
+    read and filed with bears_on this question; the Tempe case is
+    filed as a documented specimen bearing on it.
 tags:
 - society-and-governance
 - ethics
@@ -95,3 +105,23 @@ that an institution should "examine system failures without automatically
 identifying the nearest human as their sufficient explanation". That is
 the closest the exchange came to the owner's case before U48. The
 responsibility senses at issue are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s.
+
+## Note of 2026-11-17: Shoemaker's corporate model, read: one kind of blame withheld, another kept
+<!-- inactive-ok-file: NOTE-tmpfi3s5 THEORY-tmpjlmfm LIT-tmpxsadz — Skimmed, new or Unavailable; the reading filed on 2026-11-18 and the unread paper it stands in for -->
+
+Shoemaker 2019, read in part (NOTE-tmpfi3s5, THEORY-tmpjlmfm), standing in for Shoemaker 2011 (LIT-tmpxsadz). The THEORY now carries `bears_on` this question.
+
+Shoemaker splits responsibility into "three distinct types" that are "radically independent" (p. 913, n. 70), and splits blame with them. Corporations "may be blameworthy and blamable in answerability terms, but not blameworthy or blamable in accountability terms" (p. 915): they can be asked "Why did you do that?" and protested, but not angrily blamed, since "gratitude and anger aptly respond to empathic and emotional (dis)regard". That is a worked model of a practice that keeps one kind of blame, answerability's demand for reasons, while giving up another, accountability's anger: one candidate reading of "keep accountability while giving up blame". The fit is partial. Shoemaker builds it for agents that lack the capacities anger needs, while blameless practice in engineering withholds anger from persons who have them; and his "accountability" is the anger-tracking type, not the remedial sense the question's "accountability" may mean.
+
+It says nothing about the question's second half, the provenance of an incapacity.
+
+No status changes.
+
+## Note of 2026-11-17: The NTSB's Tempe report and Elish's Therac-25 contrast, read: a no-blame investigation that keeps upstream provenance
+<!-- inactive-ok-file: NOTE-tmpokcvk THEORY-tmp4utz4 CASE-tmpnrxpi NOTE-tmps5u6y THEORY-tmp7h69w — new; the readings and case filed on 2026-11-18 -->
+
+NTSB 2019, read for responsibility (NOTE-tmpokcvk, THEORY-tmp4utz4, bears_on); the case is CASE-tmpnrxpi. A statutory safety investigation is a blameless practice in the question's sense: "The NTSB does not assign fault or blame for an accident or incident"; its investigations "are fact-finding proceedings with no formal issues and no adverse parties". It still names a ranked allocation of cause, and carries it upstream: the operator's distraction as probable cause, with the company's "inadequate safety risk assessment procedures", "ineffective oversight of vehicle operators" and "lack of adequate mechanisms for addressing operators' automation complacency—all a consequence of its inadequate safety culture", and the state's "insufficient oversight", as contributing (p. v). So one blameless practice keeps the upstream provenance of the operator's incapacity: the culture "contributed ... specifically to the vehicle operator's extended distraction" (p. 46). It does so by naming contributing factors, not by blame. Whether this holds of blameless engineering post-mortems, the question's object, is not shown.
+
+Elish 2019, read (NOTE-tmps5u6y, THEORY-tmp7h69w, bears_on). Her contrast case points the other way on where attribution goes when no blameless practice intervenes: after a publicized accident, blame lands on the nearest operator; in the slowly surfacing Therac-25 accidents, lawsuits went to the manufacturer (pp. 50–51).
+
+No status changes.

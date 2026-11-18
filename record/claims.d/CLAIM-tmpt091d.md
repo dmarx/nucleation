@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Where one party gives up something now for a benefit another controls later, whether waiting is good judgment depends on the controller''s reliability, so the controller''s discretion over delivery is discretion over whether the other''s restraint is rational, and a controller not answerable for delivery can make that party''s patience a means of its control'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Kidd, Palmeri and Aslin (2013) read in full; the claim's first
+    half rests on its result through the case, so its account is
+    proposed as a ground.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,6 +30,7 @@ line:
 - will-organization
 grounds:
 - CASE-tmp07hx9
+- THEORY-tmpca37k
 complements:
 - CLAIM-601
 - CLAIM-tmpdic1g
@@ -120,3 +128,8 @@ accountable for what they are waiting for."
   "credible, mutually authorized" with "reasonably secured" benefits is
   A51 §4's contrast; the claim needs a controller not answerable for
   delivery.
+
+## Note of 2026-11-17: Kidd, Palmeri and Aslin, read
+<!-- inactive-ok-file: THEORY-tmpca37k CASE-tmp07hx9 — new theory of 2026-11-18 and the case, Proposed -->
+
+Kidd, Palmeri and Aslin 2013, read in full (NOTE-tmp301qd, THEORY-tmpca37k): it supports the claim's first half, and the claim needs it, since CASE-tmp07hx9, which it grounds on, reports this study; hence `add_grounds` rather than `corroborates`. Children who had just seen the experimenter break promises waited a mean 181.57 s against 722.43 s (§3), and the authors' hypothesis is the claim's: "Waiting is only the rational choice if you believe that a second marshmallow is likely to actually appear after a reasonably short delay" (§1.2). The reliability evidence came from the same adult who controlled delivery, which fits the claim's framing. The paper says nothing about control, exploitation or answerability; the second half stays A's interpretation. The authors also say their data "do not demonstrate that self-control is irrelevant" (§4), which the claim does not deny. Watts et al. (LIT-tmppz1jz) and Sperber et al. (LIT-tmp09j7t) find the task's later predictions largely explained by background, consistent with but not a test of a reliability reading. No status changes.

@@ -1,10 +1,26 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A83; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (A83), not read. A lawful full text was sought on 2026-11-17 and not
+  reached: the Columbia University Press page
+  (cup.columbia.edu/book/the-right-to-justification/9780231147088/)
+  offers no excerpt or sample; the Google Books API answered HTTP 429
+  (quota), not retried; no lawful copy of the book or a chapter was
+  found. The Goethe University Frankfurt repository holds, lawfully, a
+  review of the German original (in Krisis 2008, issue 3) and a later
+  working paper by Forst, "The Justification of Basic Rights: A
+  Discourse-Theoretical Approach" (Normative Orders Working Paper
+  02/2017, CC BY-NC-ND), at publikationen.ub.uni-frankfurt.de; the
+  working paper is a possible neighbour, not registered or read.
+  Secondhand only: Scanlon (LIT-tmpgoyge, n. 14) cites the book for "the
+  requirement of justification by reasons that are generalizable and
+  reciprocal", and SEP "Rights" (LIT-tmpz19z8, §6.3) describes Forst as
+  "Beginning with a status-based fundamental right to justification";
+  both agree with A83 in outline. It stays Unavailable until a copy is
+  supplied.
 title: 'The Right to Justification: Elements of a Constructivist Theory of Justice'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -17,6 +33,15 @@ history:
     January 2012, the year of the English edition this entry registers;
     the German original appeared in 2007. No email address was sent to
     any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Sought on 2026-11-17 and not reached (the addresses and obstacles
+    are in the status note); no text read. SEP "Rights" gives the German
+    original as Das Recht auf Rechtfertigung (Suhrkamp, 2007),
+    translated as The Right to Justification, consistent with this
+    entry. Deferred → Unavailable (ADR-041). No email address was sent
+    to any service.
 tags:
 - ethics
 - society-and-governance

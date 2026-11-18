@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'In an arrangement, control over the conditions of action, the practical obligation to make it succeed and blame when it fails can come to rest with different parties, upstream, downstream and where failure becomes visible; where they diverge, the conscientiousness of those downstream both keeps the arrangement running and supplies the terms in which its failure is told as theirs, credit for success goes to the arrangement, and those upstream also set the standards by which responsibility is judged'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Elish's moral crumple zone read and proposed as grounds; six
+    further readings filed with corroborates on this claim; the Tempe
+    case filed from the NTSB's final report as an illustration.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,6 +34,8 @@ uses:
 bears_on:
 - QUESTION-tmpvoufs
 - QUESTION-468
+grounds:
+- THEORY-tmp7h69w
 summary: >-
   A's synthesis, "asymmetric moral accountability", from A17 of the
   exchange "Assess Depp Heard Abuse" (2026-11-15), answering the owner's
@@ -131,3 +140,24 @@ A17 §8 names three dangers, which the claim keeps:
   not automatically unjust duties."
 - Not that structure dissolves individual accountability: "having an
   explanation does not mean lacking responsibility."
+
+## Note of 2026-11-17: Elish read, with the NTSB, Choroszewicz, Santoni de Sio, Rubel and Tronto: the blame part grounded, the control-and-duty part corroborated, the conscience part unsupported
+<!-- inactive-ok-file: CLAIM-tmpe5u7i NOTE-tmps5u6y THEORY-tmp7h69w NOTE-tmpokcvk THEORY-tmp4utz4 CASE-tmpnrxpi NOTE-tmpgwh6b THEORY-tmpmdej3 NOTE-tmp6l52i THEORY-tmpnmvsj NOTE-tmpe43ee THEORY-tmpwjlal LIT-tmpqui4c NOTE-tmp0tq2n THEORY-tmpna7qd NOTE-tmpfpn7t THEORY-tmpxw0zo LIT-tmp5epfk LIT-tmpsm285 THEORY-tmpzdtc8 — new, Unfetched or Unavailable; the readings filed on 2026-11-18, the case filed from one, and the two Tronto books they stand in for -->
+
+Elish 2019, read (NOTE-tmps5u6y, THEORY-tmp7h69w). The claim is built on her concept, and the reading supports its blame part: responsibility "may be misattributed to a human actor who had limited control over the behavior of an automated or autonomous system", and "the moral crumple zone protects the integrity of the technological system, at the expense of the nearest human operator" (p. 40). It also supports two further parts. Credit goes to the arrangement: regulators, engineers and managers "have created contradictory dynamics in which automation is seen as safer and superior in most instances" (p. 49). Those upstream set the standards: "Because the autopilot did not malfunction in a way recognized through its certification process, the only possible malfunction, systemically, is the human pilot" (p. 50). She also supports "can contain someone who is partly responsible": "Without a doubt, actions taken by the plant operators led to the accident" (p. 44). The claim needs the reading, so THEORY-tmp7h69w is proposed for its `grounds`. It does not support "conscience does double duty", which is A's (and rests on CLAIM-tmpe5u7i, not on Elish).
+
+Elish marks a limit the claim's text does not state: crumple zones "are not a property of every complex and automated system" (p. 50); they "are likely to take shape in the immediate aftermath of a highly publicized event or accident", where the operator lacked "sufficient information or authority to take corrective actions" (p. 51); in the Therac-25 accidents, lawsuits went to the manufacturer. If the owner adds these conditions to the claim's "What it does not say", THEORY-tmp7h69w should then carry `bounds` on it (ADR-094); it does not now, since the claim does not cite the limit.
+
+NTSB 2019, read for responsibility (NOTE-tmpokcvk, THEORY-tmp4utz4, corroborates). The design "precluded activation of emergency braking for collision mitigation, relying instead on the operator's intervention"; removing the second operator "increased the task demands on the sole operator"; the company's culture contributed "specifically to the vehicle operator's extended distraction" (pp. v, 45, 46). That is the control-and-duty part in an official finding, and the operator's own failure fits the claim's carve-out. But the NTSB itself carries cause upstream, to Uber and the state, so as an allocation it sits nearer the second branch of the claim's `defeated_if` than a crumple zone. The body's line that A17 §4's Uber case "is not filed until the report is read" is now out of date: it is filed as CASE-tmpnrxpi (documented, specimen), which `illustrates` this claim.
+
+Choroszewicz 2026, read (NOTE-tmpgwh6b, THEORY-tmpmdej3, corroborates): users allocated responsibility "relative to their actual authority, control and capacity to influence these tools" disproportionately (p. 3), and vigilance as unrecognized labour (p. 9), a mild form of the conscience part. Before failure, not blame after it.
+
+Santoni de Sio & van den Hoven 2018, read (NOTE-tmp6l52i, THEORY-tmpnmvsj, corroborates): "simple human presence or 'being in the loop' is not a sufficient condition for being in control" (p. 4); designers must not make the operator's check "impossible or unduly difficult" (p. 9).
+
+Rubel, Castro & Pham 2021, ch. 7, read as the stand-in for their 2019 article LIT-tmpqui4c (NOTE-tmpe43ee, THEORY-tmpwjlal, corroborates): agency laundering is the upstream half, and "humans in the loop can be a means of laundering just as well as automation itself" (p. 160). It qualifies the claim: laundering needs a misleading ascription and a failed account, and the authors leave open whether it can be inadvertent, where the claim says "Neither concept requires a conscious mastermind".
+
+Tronto 2018 and 2014, read as stand-ins for Moral Boundaries (LIT-tmp5epfk) and Caring Democracy (LIT-tmpsm285) (NOTE-tmp0tq2n, THEORY-tmpna7qd; NOTE-tmpfpn7t, THEORY-tmpxw0zo; both corroborate): "the capability of the relatively privileged to refuse to accept unpleasant or burdensome responsibilities (privileged irresponsibility)" (2018, p. 8), and exemption, "absent oneself from responsibilities because one has more important duties: protection, production, taking care of one's own" (2014). Neither the books nor any text read carries the exchange's "because other people routinely perform that work on their behalf" or "socially organized inattention"; the summary's "neither yet read here" now holds for the books only.
+
+Zeiser 2024 (THEORY-tmpzdtc8) adds only that a user can be accountable for a decision not attributable to her; no relation is written.
+
+No status changes.

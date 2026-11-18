@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Succeeding in making a remedy unreachable gains a wrongdoer no normative power over what is owed: a claim still valid under the standard persists while the correctability of its fitting remedy falls to zero, and an acceptance or settlement reached under the conditions the violation created does not by that fact authorize the violation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Hohfeld (1913) read; his separation of legal from physical power
+    is the distinction A87 §2 uses, and his theory is added to the
+    claim's grounds.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,6 +37,8 @@ complements:
 - CLAIM-tmpssfc1
 uses:
 - TERM-085
+grounds:
+- THEORY-tmprnqnh
 summary: >-
   A's, first stated in A85 §5 of the exchange "Assess Depp Heard Abuse"
   (2026-11-17), r_i^N = 1 with α_r ≈ 0, "The moral right remains valid.
@@ -129,3 +138,8 @@ apart from suppression.
   accepting one does not authorize what preceded it.
 - Not that the claim's persistence makes the arrangement adequate. A85 §5:
   "The right's persistence is not the institution's adequacy".
+
+## Note of 2026-11-17: Hohfeld, read
+<!-- inactive-ok-file: NOTE-tmpvxul9 THEORY-tmprnqnh NOTE-tmpny8gh — new readings and theory of 2026-11-18, Proposed -->
+
+Hohfeld 1913, read (NOTE-tmpvxul9, THEORY-tmprnqnh). A87 §2's separation of CanPhysically(A, x) from Power_N(A, Δr_B), on which the claim's "gains a wrongdoer no normative power" turns, is Hohfeld's: "a legal power (as distinguished, of course, from a mental or physical power) is the opposite of legal disability, and the correlative of legal liability" (p. 44), and one must "distinguish carefully between the legal power, the physical power to do the things necessary for the 'exercise' of the legal power, and, finally, the privilege of doing these things" (p. 52). A power's holder is the one "whose volitional control is paramount" over the change in legal relations (p. 44); a wrongdoer who makes a remedy unreachable has physical control over the world, not that. Scope: Hohfeld analyses positive legal relations and says nothing about moral claims or about correctability; that a valid claim persists while its remedy becomes unreachable is the claim's, not his. Galanter's "more rights and rules 'on the books' than can be vindicated or enforced" (NOTE-tmpny8gh, p. 122) describes the same gap between validity and effect, descriptively. No status changes.

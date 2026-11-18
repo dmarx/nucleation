@@ -1,10 +1,28 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A97; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (A97), not read beyond the abstract of its working-paper version. A
+  lawful full text was sought on 2026-11-17 and not reached: the
+  publisher's copy (doi:10.2307/2554744, JSTOR/Wiley) is subscription,
+  not tried; Semantic Scholar lists it as closed; a CORE download a
+  title search surfaced (core.ac.uk/download/71344652.pdf), not known to
+  be this paper, answered with a Cloudflare challenge (HTTP 403); a
+  Hitotsubashi repository PDF
+  (hermes-ir.lib.hit-u.ac.jp/hermes/ir/re/16122/070resDP_203.pdf),
+  possibly only a table of contents of Suzumura's collected papers,
+  failed at this session's proxy (CONNECT 502), host
+  hermes-ir.lib.hit-u.ac.jp; neither retried. IDEAS has the abstract of
+  the 1991 discussion paper (Hitotsubashi IER a238), which was read:
+  Sen's concept "can, more often than not, be inconsistent with our
+  intuitive view of rights", and "An alternative formulation in terms of
+  game form is introduced". No neighbour was read; Hammond's "Game Forms
+  versus Social Choice Rules as Models of Rights", on his Stanford page,
+  is a possible one, not fetched. It stays Unavailable until a copy is
+  supplied or the Hitotsubashi copy is reached and shown to hold the
+  paper.
 title: 'Individual Rights Revisited'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -16,6 +34,17 @@ history:
     `published:` is the first of May 1992: Crossref gives the issue
     month (May 1992) and no day. No email address was sent to any
     service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Sought on 2026-11-17 and not reached (the addresses and obstacles
+    are in the status note); the 1991 discussion paper's abstract read
+    on IDEAS. It confirms the identification recorded on registration,
+    the rights-as-game-forms answer to Sen, and gives an earlier
+    version: Hitotsubashi University IER Discussion Paper a238 (1991),
+    same title; its exact date was not seen, so `published:` stays with
+    the journal issue. Deferred → Unavailable (ADR-041). No email
+    address was sent to any service.
 tags:
 - game-theory
 - ethics

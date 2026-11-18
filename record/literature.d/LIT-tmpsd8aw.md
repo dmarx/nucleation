@@ -1,12 +1,11 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A19; no copy sought yet.
+  read 2026-11-17 (NOTE-tmpwpvfg) from arXiv:1706.09847v3; worth reading
+  here for its demonstrated lock-in of a loop that selects its own
+  evidence, and its repair.
 title: 'Runaway Feedback Loops in Predictive Policing'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -18,6 +17,17 @@ history:
     proceedings version (2018). `published:` is 2017-06-29, arXiv v1,
     earlier than the 2018 proceedings A gives. No email address was sent
     to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read on 2026-11-17 from arXiv:1706.09847v3 (22 December 2017), in full
+    except the references; NOTE-tmpwpvfg, THEORY-tmp0xl3k. v3's comment
+    calls it the "Extended version accepted to the 1st Conference on
+    Fairness, Accountability and Transparency, 2018", and its header reads
+    "Proceedings of Machine Learning Research 81:1–12, 2018"; v3 "Adds
+    further treatment of reported as well as discovered incidents". The
+    PMLR page was not fetched. `published:` stays v1, 2017-06-29.
+    Deferred → Active.
 tags:
 - society-and-governance
 - probabilistic-modeling
@@ -34,17 +44,19 @@ keywords:
 - 'fairness'
 implementations: []
 summary: >-
-  Danielle Ensign, Sorelle A. Friedler, Scott Neville, Carlos
-  Scheidegger and Suresh Venkatasubramanian (2017; FAT* 2018). Runaway
-  Feedback Loops in Predictive Policing. arXiv:1706.09847; *Proceedings
-  of the 1st Conference on Fairness, Accountability and Transparency*,
-  PMLR 81 (2018). Here because A cites it in the exchange "Assess Depp
-  Heard Abuse" as A's formal demonstration of self-validating
-  classification: deployment choices bias subsequent observations. It
-  bears on [CLAIM-342](../claims.d/CLAIM-342.md) (a loop that selects its own evidence can lock in)
-  and [CLAIM-406](../claims.d/CLAIM-406.md). The anthology may want it. What the exchange says of it
-  is unverified until read.
+  Danielle Ensign, Sorelle A. Friedler, Scott Neville, Carlos Scheidegger
+  and Suresh Venkatasubramanian (2017; FAT* 2018). Runaway Feedback Loops
+  in Predictive Policing. arXiv:1706.09847; PMLR 81 (2018). A generalized
+  Pólya urn: police go where recorded incidents are, and incidents are
+  recorded where police go. Even granting that recorded incidents occur at
+  the true rates, the process does not learn them: equal rates leave the
+  prior in place, and unequal rates, however close, lock onto the higher
+  one with probability 1. Reported incidents attenuate but do not remove
+  the loop; dropping each discovered incident with the probability of
+  having patrolled there repairs it. Simulations of PredPol on Oakland data
+  reproduce both. Read in NOTE-tmpwpvfg; THEORY-tmp0xl3k.
 ---
+<!-- inactive-ok-file: THEORY-tmp0xl3k — new, temporary codes, Proposed -->
 
 # LIT-tmpsd8aw: Runaway Feedback Loops in Predictive Policing
 
@@ -52,8 +64,22 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, Carlos Scheidegger and Sure
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* A19: "Their model shows how deployment choices can bias subsequent observations and produce runaway feedback." Unverified until read.
+- "predictive policing algorithms only observe crime in neighborhoods they
+  patrol" (p. 1).
+- Lemma 4: unequal rates lock in, "a classic 'go with the winner'
+  problem"; Lemma 2: equal rates leave the prior in place.
+- Reported incidents "can attenuate the degree of runaway feedback" but
+  "cannot entirely remove it without the interventions we suggest"; the
+  repair drops discovered incidents with the probability of patrol.
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's formal demonstration of self-validating classification: deployment choices bias subsequent observations. It bears on [CLAIM-342](../claims.d/CLAIM-342.md) (a loop that selects its own evidence can lock in) and [CLAIM-406](../claims.d/CLAIM-406.md). The anthology may want it. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's formal demonstration of self-validating classification. Read on 2026-11-17 (NOTE-tmpwpvfg). It corroborates CLAIM-342 and CLAIM-406 (THEORY-tmp0xl3k), and qualifies CLAIM-342's remedy: independent evidence mixed in only attenuates the loop. The anthology may want it.
+
+**The exchange's characterization: faithful.** A19's "deployment choices
+can bias subsequent observations and produce runaway feedback" is right.
+Its gloss, that the classification "can help create the evidence
+subsequently used to justify" it, fits Lemmas 2 and 4, with one sharpening:
+the loop amplifies a real but small difference, or freezes the prior where
+there is none; it does not create crime. The analogy to interpersonal
+coercive control is A's.

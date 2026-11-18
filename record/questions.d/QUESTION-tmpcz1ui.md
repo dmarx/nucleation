@@ -1,7 +1,15 @@
 ---
 status: Open
 title: 'May a party subject to a justified constraint determine, or strategically raise, the cost another party must bear to make that constraint effective, and if only within limits, which?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    The Federal Rules of Civil Procedure (Rules 11, 26, 37) and
+    Galanter (1974) read; positive law gives a partial, procedure-
+    bound answer, and both sources treat the limit as binding either
+    side.
 tags:
 - ethics
 - society-and-governance
@@ -112,3 +120,10 @@ can be procedurally available.
   institutional design.
 - A dissolution, if the answer is fully given by [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) and
   [QUESTION-tmp9oq97](QUESTION-tmp9oq97.md)'s account of the authority to restrict.
+
+## Note of 2026-11-17: Federal Rules of Civil Procedure and Galanter, read
+<!-- inactive-ok-file: NOTE-tmpupv4l THEORY-tmpe4ups NOTE-tmpny8gh THEORY-tmpqk131 — new readings and theories of 2026-11-18, Proposed -->
+
+Federal Rules of Civil Procedure, Rules 11, 26 and 37, read (NOTE-tmpupv4l, THEORY-tmpe4ups): a partial answer in positive law, confined to US federal civil procedure. A party may not present a paper or a discovery request "for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation" (Rules 11(b)(1), 26(g)). The 2015 Committee Note, quoting 1983, asks courts to prevent "use of discovery to wage a war of attrition or as a device to coerce a party, whether financially weak or affluent", and says resources do not "foreclose discovery requests addressed to an impecunious party, nor justify unlimited discovery requests addressed to a wealthy party". So the law's answer is "not for an improper purpose", within limits set by proportionality, and the limit binds both sides. It leaves open delay and cost imposed by means proper under the rules, and how far the guard works.
+
+Galanter 1974, read (NOTE-tmpny8gh, THEORY-tmpqk131): delay and cost are tools of either side. An OS "can burn up his capital" (n. 10), and for a physician facing loss of licence "Every year of delay is worth money, win or lose" (p. 136). That supports the question's symmetric framing. Both THEORYs carry bears_on to this question. No status changes.

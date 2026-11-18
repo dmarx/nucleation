@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdr90u
 title: 'Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-30'
@@ -32,6 +32,11 @@ history:
     the asymmetry is a wrong or only a bias. Its first line, record-as-
     apparatus, is already this claim's (ADR-085). Reading review of
     2026-11-11, by question. No other change.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    Rubel, Castro and Pham (2021), chapter 7, read as the stand-in for
+    their 2019 article and filed with corroborates on this claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -173,3 +178,10 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Leitgeb and Carus** ([THEORY-1797](../theory.d/THEORY-1797.md)): *supports the first half, with a source*. Carnap's framework choice is "a normative or practical question" with "no right or wrong answers" (result 5), evaluated by how frameworks "worked better" for purposes: evaluation, not verification. Carnap's explication desiderata are a worked set of evaluation criteria held as matters of degree (results 7–8). Qualification: Carnap's "no right or wrong answers" is stronger than CLAIM-472's second half, which indexes exclusions to "a standard, a scale and those affected"; the entry's §1.8 reading (practical reason governs the choice) narrows the gap.
 
 The claim is unchanged.
+
+## Note of 2026-11-17: Rubel, Castro and Pham read: the decision to deploy a system is what must be answered for
+<!-- inactive-ok-file: NOTE-tmpe43ee THEORY-tmpwjlal LIT-tmpqui4c — new or Unfetched; the reading filed on 2026-11-18 and the article it stands in for -->
+
+Rubel, Castro & Pham 2021, ch. 7, read as the stand-in for LIT-tmpqui4c (NOTE-tmpe43ee, THEORY-tmpwjlal, corroborates). Of an agency that deploys a risk-assessment system while acknowledging its biases: "it is the decision to deploy the system that requires an account, and that decision is not obscured" (p. 157). Agency laundering is the failure to answer for that choice: ascribing "morally relevant qualities" such as "relevance, neutrality, reliability" to the process, and so failing "to adequately account" (p. 143). That supports the claim's first half, that choosing an apparatus is open to evaluation, from the side of accountability. The chapter does not address the claim's second half, which exclusions matter.
+
+No status changes.

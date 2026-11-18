@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoxld9
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,11 @@ history:
     testimonial injustice as a trust loop, whose reflexive case the question
     asks, and says the question "needs a prejudice, not only a grammar".
     Reading review of 2026-11-11, by question. No other change.
+- version: 8
+  date: '2026-11-17'
+  note: >-
+    Ensign et al. (2017; FAT* 2018) read and filed with corroborates
+    on this claim, for its loop form.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -229,3 +234,10 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Falbo** ([THEORY-1723](../theory.d/THEORY-1723.md)): Falbo's "preemption" is hermeneutical, not testimonial pre-emption in CLAIM-406's sense (not being asked); the shared word should not be read as the same mechanism. [CLAIM-619](CLAIM-619.md)'s reclassification of a challenge is close to her "defeat" by a distorting concept.
 
 The claim is unchanged.
+
+## Note of 2026-11-17: Ensign et al. read: an unobserved region yields no evidence, so the prior or an early advantage persists
+<!-- inactive-ok-file: NOTE-tmpwpvfg THEORY-tmp0xl3k — new; the reading filed on 2026-11-18 -->
+
+Ensign et al. 2017, read (NOTE-tmpwpvfg, THEORY-tmp0xl3k, corroborates). The claim's loop form, an early exclusion kept going because the indicators only being sought produces never arrive from those not sought, is proved in the policing model. With equal rates, "the prior belief coupled with the lack of feedback about the unobserved region prevents the system from learning that the two areas are in fact identical with respect to crime rates" (Lemma 2); with unequal rates, a small advantage takes all (Lemma 4). The model contains no prejudice term, which is consistent with the claim's second half: the dynamics alone cannot tell a frozen prior from a merited difference. The domain is policing, not testimony; the reading supports the form, not the claim's application to testimonial injustice.
+
+No status changes.

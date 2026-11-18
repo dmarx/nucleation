@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: 'Friction that makes the people in a process think before accepting an output differs from friction that makes the institution answerable to their objections, so a system can make individuals think harder while leaving the institution''s authority untouched, and the added scrutiny can then serve as evidence that the individuals owned decisions whose conditions they could not change'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Choroszewicz (2026) read and filed with corroborates on this
+    claim. Natali, Naiseh, Cabitza and Frischmann (2025) read; their
+    designed friction is friction on the user's thinking only, which
+    corroborates the claim's premise. The HKMA's discussion paper on
+    agentic A.I. (2026), read in part, states as regulatory doctrine
+    that an approval step is oversight only with authority to reject,
+    which corroborates the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -95,3 +106,20 @@ convenient repository of blame**".
 - Not that scrutiny prompts are always used to shift blame. It is "a
   possible" mechanism, needing users without "the authority, time, and
   protection needed to act on their evaluations."
+
+## Note of 2026-11-17: Choroszewicz read: verification demanded of users while the tools and their developers are insulated
+<!-- inactive-ok-file: NOTE-tmpgwh6b THEORY-tmpmdej3 — new; the reading filed on 2026-11-18 -->
+
+Choroszewicz 2026, read (NOTE-tmpgwh6b, THEORY-tmpmdej3, corroborates). Two Finnish public organizations piloting LLM-based tools placed users "to act as testers, AI outputs' quality verifiers and interpreters", "despite the tools' technical immaturity and opacity" (p. 9): "human oversight and responsibility as liability were explicitly codified as a user burden" (p. 6), and "It is always users' responsibility to correctly interpret outputs" (p. 6). The result is the claim's split between friction for individuals and answerability for the institution: "Codifying responsibility as a user burden insulates technologies and their developers from accountability" (p. 10). The study does not report the added scrutiny being used afterwards as evidence that a user owned a harmful decision; it reports no such incident. It supports the first half of the claim, not the last clause.
+
+No status changes.
+
+## Note of 2026-11-17: Natali and colleagues, read
+<!-- inactive-ok-file: NOTE-tmpyyamt THEORY-tmpiwzpj — new reading and theory of 2026-11-18, Proposed -->
+
+Natali, Naiseh, Cabitza and Frischmann 2025, read (NOTE-tmpyyamt, THEORY-tmpiwzpj), the work the claim sets apart as cognitive friction: it corroborates the claim's premise independently (THEORY-tmpiwzpj carries `corroborates`; the claim does not rest on it). Designed friction is "deliberate inefficiencies designed to foster engagement, critical reasoning, and user agency" (abstract), and every form it names acts on the user at the point of interaction: "Cognitive forcing functions can involve checklists, justification prompts, and alternative hypothesis generation", and AI provocations where "systems challenge rather than obey the user" (§2). None gives the user authority to refuse, suspend or escalate. The paper also shows the slippage the claim warns of: friction "strengthens accountability" (§4) without saying whose or to whom, and its one institutional term, "designer accountability", concerns designers, not answerability to the affected. It does not discuss required scrutiny becoming evidence of ownership. A four-page poster with no study. No status changes.
+
+## Note of 2026-11-17: The HKMA discussion paper, read in part
+<!-- inactive-ok-file: NOTE-tmpv0dkv THEORY-tmpoi5oo — new reading (Skimmed) and theory of 2026-11-18, Proposed -->
+
+HKMA 2026, read in part (NOTE-tmpv0dkv, THEORY-tmpoi5oo): a regulator separates scrutiny from authority to act on it, which corroborates the claim independently (THEORY-tmpoi5oo carries `corroborates`). "A formal approval step is not, by itself, meaningful human oversight. Approval is meaningful only where the approver sees the substance of the action, has the authority and practical ability to challenge or reject it, regards rejection as a legitimate outcome, and has sufficient time to make an informed decision before the action takes effect" (p. 37). It also refuses to let sign-off move accountability: "A move from individual human approval towards monitoring-based oversight should not reduce the AI's accountability" (p. 27; "AI" there means the authorized bank). The answerability it secures is the bank's to the regulator and customers; customers may request review but cannot suspend. A non-binding discussion paper. No status changes.

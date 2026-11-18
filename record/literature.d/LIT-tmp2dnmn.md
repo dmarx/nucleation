@@ -1,12 +1,19 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A7; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b),
+  where A names it at A7; not read. No lawful copy was found on
+  2026-11-17: an in-copyright Harvard University Press book; the digital
+  edition (De Gruyter, doi:10.4159/9780674043145) is by subscription;
+  Semantic Scholar gives no open PDF; the Harvard philosophy
+  department's page is a listing only; no free chapter, author-posted
+  chapter or course copy of the blame chapter turned up; Google Books
+  could not be checked (API HTTP 429). No neighbour was sought: the work
+  is not central to the exchange's argument. It stays Unavailable until
+  a copy is supplied.
 title: 'Moral Dimensions: Permissibility, Meaning, Blame'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -17,6 +24,14 @@ history:
     (10.4159/9780674043145): book, Harvard University Press, issued
     2008-12-31. `published:` is 2008-12-31, the date Crossref gives. No
     email address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Unavailable on 2026-11-18 (ADR-041), at the reading pass of
+    2026-11-17: no lawful copy found (where looked, in the status note).
+    Nothing about its content is recorded; A7's account of it is
+    unverified. Strawson's lecture, LIT-tmpn0mo7, which A sets against
+    it, was read. No email address was sent to any service.
 tags:
 - ethics
 date: '2026-11-17'

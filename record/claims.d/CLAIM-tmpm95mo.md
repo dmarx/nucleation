@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'An opposition can be independent as an actor, in its leadership, aims and speech, while its capacity to change the arrangement it opposes depends on another party''s control of its resources, standing, corrective authority or time; that controlled incapacity, and not incapacity or failure as such, is what makes a contained opposition a mark of domination'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Arnstein (1969) read; citizen majorities under a council veto and
+    community control without resources are contained capacity, which
+    corroborates the claim. Szakonyi (2025) read; opposition
+    majorities changed governance in Moscow councils while the regime
+    kept the access rules to the larger arrangement, which
+    corroborates the claim in both directions it draws.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -151,3 +161,13 @@ Szakonyi, "Opposition rule under autocracy: Evidence from Russia",
 doi:10.1111/ajps.12961, A's counterexample: opposition councils in Moscow
 reduced officials' rent extraction. A's "2022 state-of-the-field review"
 is probably Helms in *Government and Opposition*, unconfirmed.
+
+## Note of 2026-11-17: Arnstein, read
+<!-- inactive-ok-file: THEORY-tmpf87o2 — new theory of 2026-11-18, Proposed -->
+
+Arnstein 1969, read from an OCR scan (NOTE-tmp32vnp, THEORY-tmpf87o2): it corroborates the claim independently (THEORY-tmpf87o2 carries `corroborates`), with three instances of controlled incapacity: citizen majorities on Model Cities boards where "city councils have final veto powers even when citizens have the majority of seats on the CDA Board" (p. 222); community control that can be "a new Mickey Mouse game for the have-nots by allowing them to gain control but not allowing them" sufficient resources (p. 224); and placation's dependence on "the quality of technical assistance they have in articulating their priorities" (p. 220). Her conditions for real partnership, own funds, own technicians and ground rules "not subject to unilateral change" (p. 221), are the converse. The participants are citizens' groups, not an opposition party. No status changes.
+
+## Note of 2026-11-17: Szakonyi, read
+<!-- inactive-ok-file: THEORY-tmp0muvf LIT-tmp5gzb1 — new theory of 2026-11-18, Proposed; Semenov Unavailable -->
+
+Szakonyi 2025, read (NOTE-tmpmsxf9, THEORY-tmp0muvf), which the claim lists under "Works A relied on" as A's counterexample: read, it corroborates the claim (THEORY-tmp0muvf carries `corroborates`; the claim does not rest on it). It supports the defeat condition's warning: an opposition inside autocratic institutions produced measurable change there, ruling-party deputies earning "roughly 22% less income" on opposition-held councils (p. 2), so inclusion is not itself evidence of containment. And it documents the claim's mechanism one level up: "the opposition did not win enough seats to overcome the municipal filter" (p. 5), "phony criminal charges were filed against nine deputies from the opposition" (p. 5), and in 2022 "the regime blocked opposition candidates from running and used fraud" (p. 15). Local efficacy with the larger arrangement held by another is the claim's controlled incapacity; the author does not frame it so. His finding that systemic and nonsystemic councils did not differ significantly once governing (p. 15) bears on whether that distinction marks containment. Semenov (LIT-tmp5gzb1) stays unread. No status changes.

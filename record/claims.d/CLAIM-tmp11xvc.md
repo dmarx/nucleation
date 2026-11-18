@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Automation can be viewed as the effort to reduce procedural friction, yet procedural friction exposes, and may even characterize, the opportunities for intervention in a process, so reducing it can remove the places where a process could be stopped, questioned or redirected'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Bovens and Zouridis (2002) read; automation removed the human
+    points where a case could be redirected, leaving only one the
+    citizen must open, which corroborates the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -130,3 +137,8 @@ joint ("we called"), though its coinages are A's.
 - Not that older, slower procedures were fairer. A21 §4: "Procedural
   friction can protect arbitrary power just as easily as it can constrain
   it."
+
+## Note of 2026-11-17: Bovens and Zouridis, read
+<!-- inactive-ok-file: THEORY-tmpd9o6w — new theory of 2026-11-18, Proposed -->
+
+Bovens and Zouridis 2002, read from the authors' manuscript (NOTE-tmp2pb8c, THEORY-tmpd9o6w): it corroborates the claim independently (THEORY-tmpd9o6w carries `corroborates`). Automating a step "demands the standardization and formalization of the preceding steps" (ms p. 9), until officers "merely pressed a button to indicate their acceptance of the computer's decisions", and "Only if the student lodged a formal objection was the application referred for assessment by a living person" (ms p. 10). The places where a case could be weighed or redirected are gone except one the affected person must open; the authors' hardship clauses are attempts to put such places back. The paper does not use the language of friction. No status changes.

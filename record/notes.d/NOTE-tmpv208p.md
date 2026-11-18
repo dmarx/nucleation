@@ -1,0 +1,109 @@
+---
+status: Read
+paper: 'LIT-tmp41p2e'
+title: 'Bovens — Analysing and assessing accountability'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Read in full on 2026-11-17 (pp. 447–468 with notes) from the publisher's
+    version deposited open access in Utrecht University's repository,
+    https://dspace.library.uu.nl/server/api/core/bitstreams/62d0c566-e33f-4693-8f73-146abfd542eb/content
+    (landing page dspace.library.uu.nl/handle/1874/35005), text by
+    pdftotext. Nothing skipped. The quotes below were rechecked by the
+    filer against the same copy on 2026-11-18.
+date: '2026-11-18'
+summary: >-
+  Accountability in the narrow, analytical sense is "a relationship between
+  an actor and a forum, in which the actor has an obligation to explain and
+  to justify his or her conduct, the forum can pose questions and pass
+  judgement, and the actor may face consequences". Whether a practice is
+  accountability is an either/or question, kept apart from classifying it
+  (by forum, actor, conduct and obligation) and from assessing it (from
+  democratic, constitutional and learning perspectives). Answerability is
+  the interrogation stage within accountability; the forum is often not
+  the principal, and consequences need not come from the forum.
+---
+<!-- inactive-ok-file: CLAIM-tmpnhesz TERM-tmp4zjar CLAIM-687 — Proposed; the entries the reading bears on -->
+
+# NOTE-tmpv208p: Bovens — Analysing and assessing accountability
+
+## Contribution
+
+A parsimonious test for whether a practice is accountability at all,
+separated from typing it on four dimensions and from evaluating it from
+three perspectives. The standard statement of the actor–forum account.
+
+## Key results
+
+- **Definition** (§II.B, p. 450): "Accountability is a relationship between
+  an actor and a forum, in which the actor has an obligation to explain and
+  to justify his or her conduct, the forum can pose questions and pass
+  judgement, and the actor may face consequences." The broad sense is set
+  aside: "Accountability in this very broad sense is basically an
+  evaluative, not an analytical, concept."
+- **Answerability inside accountability** (§II.C, p. 451): "there needs to
+  be a possibility for the forum to interrogate the actor ... hence, the
+  close semantic connection between 'accountability' and 'answerability'."
+- **Consequences** (p. 451): "The possibility of sanctions—not the actual
+  imposition of sanctions—makes the difference between non-committal
+  provision of information and being held to account."
+- **Roles come apart** (pp. 451–52): "in many accountability relations, the
+  forums are not principals of the actors"; "the consequences are not
+  necessarily brought upon the actor by the forum itself." The obligation
+  "can also be informal ... or even self-imposed".
+- **Retrospective; a form of control** (§II.D, pp. 453–54): "accountability,
+  as defined here, is in nature retrospective"; "Accountability is a form of
+  control, but not all forms of control are accountability mechanisms."
+- **Many eyes** (§III.A, p. 455): "they are accountable to a plethora of
+  different forums, all of which apply a different set of criteria."
+- **Horizontal** (§III.D, p. 460): "The obligation felt by agencies to
+  account for themselves to the general public is usually moral in nature".
+- **Mapping and assessing** (pp. 460, 467): mapping "is a dichotomous
+  exercise that follows the logic of either/or"; "Behind each assessment
+  ultimately lies a theory, often implicit, about what constitutes
+  sufficient democratic control, or adequate checks and balances, or
+  satisfactory reflexivity."
+
+## Assumptions
+
+Public authority in constitutional democracies, with the EU as the
+motivating case. The definition is sociological: it describes practices
+of account-giving and does not derive a duty to give account; the "why"
+dimension sorts obligations by source. Consequences can be informal,
+positive, or come from a third party.
+
+## Concepts
+
+Actor and forum; informing, debating, judging and consequences; narrow and
+broad accountability; the problems of many eyes and many hands; corporate,
+hierarchical, collective and individual accountability; vertical, diagonal
+and horizontal accountability; deficits and excesses; democratic,
+constitutional and learning perspectives.
+
+## Bearing on the record
+
+- **CLAIM-tmpnhesz.** Corroborates the claim's separation of roles: the
+  forum that judges is not always the party that imposes consequences
+  (ombudsmen and audit offices report to parliament, p. 452), and forums
+  are often not principals (p. 451). Bovens gives none of the claim's
+  grounds of the duty.
+- **TERM-tmp4zjar.** The term's "accountability mechanisms" side is
+  Bovens's, but Bovens nests answerability inside accountability, as its
+  interrogation stage (p. 451); the term nests them the other way. The
+  record may keep its usage, but the nesting is its own, not Bovens's.
+- **QUESTION-tmpea19q.** Left open. Bovens's four questions (to whom, who,
+  about what, why) match the question's parts, but his "why" sorts
+  obligations by source and does not say when a duty is owed.
+- **CLAIM-687.** Bovens's "accountability excesses" (p. 462) is a limit the
+  scaling claim may want.
+- The exchange's A83 is faithful. The possibility of consequences is
+  constitutive for Bovens, not optional.
+
+## Limitations
+
+Descriptive and taxonomic; the evaluative perspectives are listed, not
+ranked. Retrospective by definition, so ex ante participation is excluded.
+Nothing on an actor's control over the conditions of its own
+accountability.

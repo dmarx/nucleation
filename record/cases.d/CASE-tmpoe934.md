@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'The 2026 immigrant-visa pause for nationals of 75 countries and its vacatur: a State Department policy of January 2026 directed consular officers not to issue immigrant visas to nationals of 75 countries where no other ground of ineligibility applied, and on 2026-08-21 the Southern District of New York set it aside as contrary to law and beyond the Secretary of State''s statutory authority, with the refusals based solely on it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    The Opinion and Order (ECF No. 83) read; it confirms the case's
+    facts, turns the reported nationality holding into the court's,
+    and adds the grounds the court rejected.
 standing: documented
 kind: specimen
 tags:
@@ -102,3 +109,8 @@ whole, or the motive. Those would need evidence about selection, effects,
 justification and implementation, which A108 §4 names as what such an
 interpretation requires. It shows legal invalidity, not moral
 unjustifiability; the claim it grounds keeps the two apart.
+
+## Note of 2026-11-17: The opinion read
+<!-- inactive-ok-file: NOTE-tmplt8sm THEORY-tmp0fjpb — new reading and theory of 2026-11-18, Proposed -->
+
+CLINIC v. Rubio, ECF No. 83, read (NOTE-tmplt8sm, THEORY-tmp0fjpb), beyond the quotation already corrected. The case's "What is documented" says "the record has not read the opinion"; it now has. Confirmed from the opinion: the announcement of 2026-01-14 effective 2026-01-21 and the 75 countries (p. 1); filing on 2026-02-02 under the APA among other grounds (p. 14); Judge Jeannette A. Vargas, 2026-08-21, "contrary to law" and "in excess of Secretary Rubio's statutory authority" (p. 2); vacatur of the Policy and of refusals "based solely upon the Policy", remanded "for adjudication by the consular officers" (pp. 57–58); and that the vacatur "does not extend to denial of immigrant visas on any ground other than the Policy" (p. 57). Three things to sharpen. (1) "directed consular officers to pause the issuance": the Announcement says "pausing", but the Cable ordered refusal under § 221(g) of applicants who had "not been refused under another ground of ineligibility" (pp. 9, 39). (2) The nationality-discrimination holding the case gives as "Reports of the ruling also say" is the court's own: the Policy "requires consular officers to discriminatorily refuse visas solely on the basis of the applicant's nationality" (p. 34), contrary to 8 U.S.C. § 1152(a)(1)(A); there is a third ground, § 1201(g) with 22 C.F.R. § 40.6. (3) Missing: the court held the Policy not contrary to the public-charge provision, "it is not because the Policy contravenes Section 1182(a)(4)" (p. 32), and gave judgment to the Government on notice-and-comment, "The Policy thus does not qualify as a legislative rule" (p. 47). The later events (the pause lifted, the interview pause, the motion to enforce) are not in ECF 83 and were not checked. LIT-tmp1xupk's url is now the RECAP PDF. No status changes.

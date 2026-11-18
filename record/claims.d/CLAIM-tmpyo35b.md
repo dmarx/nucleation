@@ -1,7 +1,20 @@
 ---
 status: Proposed
 title: 'Litigation as siege: an actor can make a legally recognized corrective objective unreachable for another party, with the merits, the law and that party''s preferences unchanged, by raising what pursuing the objective costs, in spending or in time, above what that party can sustain until relief arrives'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Cuéllar (2026), read in part, describes costs levied on targets
+    before courts block an attack, and attacks renewed, which
+    corroborates the claim's mechanism without its threshold. Galanter
+    (1974) read; it corroborates the claim's two channels, delay and
+    the cost of keeping a case alive, qualitatively and without a
+    threshold model. Federal Rules of Civil Procedure 11, 26 and 37
+    read; the law names the claim's tactics as improper purposes,
+    corroborating that the mechanism is real, and marks a partial
+    guard against it.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -192,3 +205,18 @@ Organization* 32(3), online 2015-12-15 (A says 2016),
 doi:10.1093/jleo/ewv029; and "Settlement Delay as a Sorting Device", 1999,
 whose author A omits: Thomas J. Miceli, *International Review of Law and
 Economics* 19(2), doi:10.1016/S0144-8188(99)00008-3 (the part-4 ledger).
+
+## Note of 2026-11-17: Cuéllar, read in part
+<!-- inactive-ok-file: NOTE-tmpf8gg2 THEORY-tmpf7stg — new reading (Skimmed) and theory of 2026-11-18, Proposed -->
+
+Cuéllar 2026, read in part (NOTE-tmpf8gg2, THEORY-tmpf7stg): it corroborates the claim's mechanism independently (THEORY-tmpf7stg carries `corroborates`). "First, the White House can successfully target opponents even when courts shut down an initial line of attack", with tools for attacks "that might be thwarted by a court eventually but levy a high cost on those targeted in the meantime" (p. 647); judicial review comes only "after the sort of final agency action that tends to be necessary for judicial review" (p. 645). He does not say the objective becomes unreachable, only costly, and gives no comparison of what the target can sustain with the time to relief; that threshold stays the claim's. No status changes.
+
+## Note of 2026-11-17: Galanter, read
+<!-- inactive-ok-file: NOTE-tmpny8gh THEORY-tmpqk131 — new reading and theory of 2026-11-18, Proposed -->
+
+Galanter 1974, read (NOTE-tmpny8gh, THEORY-tmpqk131), which the claim lists under "Works A relied on" as relayed and not read: it corroborates the claim independently (the claim rests on CASE-tmphljcr, not on Galanter). In §III overload "creates pressures on claimants to settle rather than to adjudicate: (a) by causing delay (thereby discounting the value of recovery); (b) by raising costs (of keeping the case alive)" (p. 121), and "overload tends to protect the possessor" (p. 122). The notes describe the tactic itself: "possessor-defendants exploiting the full panoply of procedural devices to raise the cost to claimants" (n. 75), and advantage that derives from "the complexity, expense and uncertainty of the litigation process itself" (n. 77). What Galanter does not give is the claim's threshold: the comparison of what the target can sustain with the time to relief is the exchange's construction, not his. The support the exchange cites, the repeat-player/one-shotter typology, is weaker for this claim than §III; and Galanter cautions that the two are "a continuum rather than" a dichotomous pair and that repeat players are not "to be equated with 'haves'" (p. 103). He also notes that delay serves weaker parties too (an OS "can burn up his capital", n. 10; "Every year of delay is worth money, win or lose", p. 136), which the claim's role-neutral statement allows. No status changes.
+
+## Note of 2026-11-17: Federal Rules of Civil Procedure, read
+<!-- inactive-ok-file: NOTE-tmpupv4l THEORY-tmpe4ups — new reading and theory of 2026-11-18, Proposed -->
+
+Federal Rules of Civil Procedure, Rules 11, 26 and 37, read (NOTE-tmpupv4l, THEORY-tmpe4ups): corroboration, which the THEORY carries, that the claim's mechanism is recognized in law as real and wrongful. Papers and discovery requests are certified not to be presented "for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation" (Rules 11(b)(1), 26(g)(1)(B)(ii)); the 2015 Committee Note, quoting 1983, asks courts to prevent "use of discovery to wage a war of attrition or as a device to coerce a party, whether financially weak or affluent". The rules are also a partial guard, which bears on the claim's own "Not that sanctions cure it": Rule 11 "does not apply to disclosures and discovery requests" (11(d)), its sanctions are discretionary and limited to "what suffices to deter repetition" (11(c)(4)), discovery is policed separately, and delay by means proper under the rules is not reached. The texts say nothing of how often the guard works. No status changes.

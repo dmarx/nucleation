@@ -1,7 +1,14 @@
 ---
 status: Open
 title: 'Can a party''s capacity to make remedies costly or unavailable change, over time, the standard those remedies are measured against, so that what correction is understood to require bends toward what correction can achieve?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Galanter (1974) read; it gives a route by which capacity to
+    litigate shapes the stock of rules, through which cases reach
+    judgment.
 tags:
 - society-and-governance
 - ethics
@@ -90,3 +97,8 @@ is taken to be owed.
   is not threatened, only outflanked.
 - **A negative**: an argument that rights essentialism holds, that the
   content of a right is fixed apart from its remedies, would answer it no.
+
+## Note of 2026-11-17: Galanter, read
+<!-- inactive-ok-file: NOTE-tmpny8gh THEORY-tmpqk131 — new reading and theory of 2026-11-18, Proposed -->
+
+Galanter 1974, read (NOTE-tmpny8gh, THEORY-tmpqk131): evidence for a yes, by a route other than the bending of a standard in a single case. Repeat players "can play for rules as well as immediate gains" (p. 100): they settle cases likely to make unfavourable precedent and litigate promising ones, so that precedent comes to be "relatively skewed toward those favorable to RP" (p. 102). Overload "shields existing rules from challenge, diminishing opportunities for rule-change" (p. 121), and repeat players gain from the lag of rules behind consensus. The capacity to make remedies costly thus shapes, over time, which rules exist to measure remedies against. Galanter is descriptive and speculative by his own account; he does not say the standard itself changes, only the stock of rules and their penetration. The THEORY carries bears_on to this question. No status changes.

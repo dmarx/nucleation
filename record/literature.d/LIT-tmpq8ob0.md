@@ -1,12 +1,12 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A53; no copy sought yet.
+  read 2026-11-17 (NOTE-tmpuyt9q) from a scan of the published article on
+  a Duke course page; worth reading here as the formal account of how
+  rewarding measured tasks draws effort from unmeasured ones, and of the
+  instruments that substitute for incentives.
 title: 'Multitask Principal–Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -19,6 +19,18 @@ history:
     1991-01-01. A names the analysis without a title. `published:` is
     1991-01-01, the date Crossref gives. No email address was sent to
     any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read on 2026-11-17 from a scan of the published article posted as a
+    course reading on a Duke faculty page, https://people.duke.edu/~qc2/BA
+    532/1991%20JLEO%20Holmstrom%20Milgrom.pdf, with §4 and §5.1 skimmed;
+    quotes rechecked by the filer on 2026-11-18. Status Deferred → Active.
+    Affiliations on the article: Holmström, Yale; Milgrom, Stanford. The
+    issue is the special issue of papers from the Conference on the New
+    Science of Organization, January 1991. OpenAlex lists a reprint in a
+    Cambridge University Press volume (doi:10.1017/cbo9780511817410.018),
+    not compared. Summary and key takeaways rewritten from the reading.
 tags:
 - game-theory
 - society-and-governance
@@ -33,17 +45,17 @@ keywords:
 - 'job design'
 implementations: []
 summary: >-
-  Bengt Holmström and Paul Milgrom (1991). Multitask Principal–Agent
-  Analyses: Incentive Contracts, Asset Ownership, and Job Design.
-  *Journal of Law, Economics, and Organization* 7 (special issue):
-  24–52. DOI 10.1093/jleo/7.special_issue.24. Here because A cites it in
-  the exchange "Assess Depp Heard Abuse" as A's source for the
-  distortion of effort toward measurable tasks under strong incentives.
-  It bears on CASE-tmpm0rpn (three hospitals with the same output and
-  budget) and on [QUESTION-386](../questions.d/QUESTION-386.md), for which the ledger calls it the natural
-  work. What the exchange says of it is unverified until read.
+  Bengt Holmström and Paul Milgrom (1991), Journal of Law, Economics, and
+  Organization 7 (special issue): 24–52. Where an agent's tasks compete
+  for attention, incentive pay directs attention, so rewarding measurable
+  tasks draws effort from unmeasured ones; the best incentive for any task
+  falls with the difficulty of measuring the others, and can be a fixed
+  wage. Employees who do not own an asset get muted incentives; limits on
+  outside activities and job design substitute for incentives. Read in
+  NOTE-tmpuyt9q; its account is THEORY-tmpnvvl4, which bears on
+  QUESTION-386. Near CASE-tmpm0rpn and TERM-108.
 ---
-<!-- inactive-ok-file: CASE-tmpm0rpn — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CASE-tmpm0rpn TERM-108 THEORY-tmpnvvl4 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # LIT-tmpq8ob0: Multitask Principal–Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design
 
@@ -51,8 +63,21 @@ Bengt Holmström and Paul Milgrom (1991). Multitask Principal–Agent Analyses: 
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* A53: "shows that rewarding measurable performance can distort effort away from less measurable tasks." Unverified until read.
+- Incentive pay "serves not only to allocate risks and to motivate hard
+  work, it also serves to direct the allocation of the agents' attention
+  among their various duties" (§1).
+- "the desirability of providing incentives for any one activity decreases
+  with the difficulty of measuring performance in any other activities"
+  (§1); a fixed wage can be efficient (Proposition 1).
+- Asset ownership, constraints on activities and job design are
+  substitute instruments: "Constraints are substitutes for performance
+  incentives" (§1).
 
 ## Standing in the record
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as A's source for the distortion of effort toward measurable tasks under strong incentives. It bears on [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) (three hospitals with the same output and budget) and on [QUESTION-386](../questions.d/QUESTION-386.md), for which the ledger calls it the natural work. Not read.
+
+Read on 2026-11-17 (NOTE-tmpuyt9q). The exchange's characterization is
+faithful: A53's "rewarding measurable performance can distort effort away
+from less measurable tasks" is the paper's teaching example. A leaves out
+its other half, the instruments that respond to it.

@@ -1,10 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A61, A64; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (A61, A64), not read. A lawful full text was sought on 2026-11-17 and
+  not reached: the publisher's page (academic.oup.com, via doi.org)
+  answered with a Cloudflare challenge (HTTP 403) on a subscription
+  title; the University of Chicago Law School repository record
+  (chicagounbound.uchicago.edu/journal_articles/8552), not known to
+  carry a PDF, answered with a Cloudflare challenge; a core.ac.uk
+  download surfaced by a title search
+  (core.ac.uk/download/234142697.pdf), not known to be this paper,
+  returned HTTP 403; EconBiz answered with a proof-of-work bot check;
+  Semantic Scholar lists it as closed; no SSRN version was found. None
+  was retried. No neighbour was read. A lead: the author's later working
+  paper "Stalling, Conflict, and Settlement" (Coase-Sandor Working Paper
+  839, 2018), posted on an NYU colloquium page, reportedly discusses
+  this paper; not fetched or registered. It stays Unavailable until a
+  copy is supplied or the Chicago repository is shown to hold one.
 title: 'Sinking Costs to Force or Deter Settlement'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -16,6 +30,13 @@ history:
     2015-12-15, print 2016-08. `published:` is 2015-12-15, the online
     date Crossref gives (print issue August 2016); the exchange says
     2016. No email address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Sought on 2026-11-17 and not reached (the addresses and obstacles
+    are in the status note); no text read. EconPapers and RePEc metadata
+    agree with the citation (vol. 32, no. 3, pp. 545–585). Deferred →
+    Unavailable (ADR-041). No email address was sent to any service.
 tags:
 - game-theory
 - society-and-governance

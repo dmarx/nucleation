@@ -1,10 +1,22 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A83; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), at
+  A83; not read. No lawful copy was found on 2026-11-17: an in-copyright
+  Harvard University Press book; the digital edition (De Gruyter,
+  doi:10.4159/9780674253636) is by subscription; no free chapter or
+  author-posted introduction turned up; the author's page
+  (public.websites.umich.edu/~sdarwall) answered with a Cloudflare
+  challenge; Google Books could not be checked (API HTTP 429). Darwall's
+  open précis "Law and the Second-Person Standpoint" (Loyola of Los
+  Angeles Law Review 40, 2007), a candidate neighbour, was located at
+  digitalcommons.lmu.edu and at core.ac.uk and both answered HTTP 403,
+  not retried. A read neighbour stands in for the core thesis: Stern,
+  "Darwall on Second-Personal Ethics" (2014), LIT-tmp1wuw5. It stays
+  Unavailable until a copy is supplied.
 title: 'The Second-Person Standpoint: Morality, Respect, and Accountability'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -17,6 +29,16 @@ history:
     2006. `published:` is the first of January 2006, the year of first
     publication; Crossref's 2009-09-30 is the digital edition. No email
     address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Unavailable on 2026-11-18 (ADR-041), at the reading pass of
+    2026-11-17: no lawful copy found (where looked, in the status note).
+    Stern (2014), LIT-tmp1wuw5, was registered and read as the stand-in.
+    The subtitle's order is unverified: Darwall's CV gives "Respect,
+    Morality, and Accountability", Stern "Morality, Respect and
+    Accountability"; not changed. No email address was sent to any
+    service.
 tags:
 - ethics
 - moral-psychology
@@ -39,6 +61,7 @@ summary: >-
   deference do not by themselves give standing to command. What the
   exchange says of it is unverified until read.
 ---
+<!-- inactive-ok-file: LIT-tmp1wuw5 LIT-tmpld793 — new or Unavailable; the read neighbour that stands in, and the Raz work its argument answers -->
 <!-- inactive-ok-file: CLAIM-tmpc7shc — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnb4v4 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnhesz — filed from the same exchange (2026-11-17), Proposed -->
@@ -61,3 +84,24 @@ Unverified until read.
 ## Standing in the record
 
 Registered from A83 (2026-11-17). It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md), [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md), [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md), [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md) (rights, demands and commitments are distinct) and [CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md) (a demand's satisfaction condition does not carry its warrant). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+
+## Note of 2026-11-18: the reading pass
+
+Not read; Unavailable (status note). **Stern (2014)**, LIT-tmp1wuw5,
+stands in for the core thesis: obligation "involves the exercise of
+legitimate authority over the person obliged" and so is second-personal;
+it tracks the demands that "could legitimately" be made, not actual ones;
+resentment holds a person to "a legitimate claim". It is a critic's
+review, and most of its detail comes from Darwall's 2013 essays, not this
+book.
+
+**The exchange's characterization is partly supported, through the
+neighbour.** A83's "why someone can be *owed* an answer" fits: second-person
+standing "makes you answerable to them" (Stern, p. 9, on the 2013 essays);
+whether the book speaks of an owed answer, as against owed compliance, is
+unchecked. A83's point that better results from deference do not give
+standing to command matches Darwall's argument that "meeting the standards
+of the normal justification thesis is not in fact sufficient to establish
+that one person has authority over another" (p. 7), which Stern places in
+the 2013 essays. Raz's *The Morality of Freedom*, LIT-tmpld793, is the work
+that argument answers.

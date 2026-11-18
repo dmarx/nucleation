@@ -1,0 +1,171 @@
+---
+status: Read
+paper: LIT-tmpgo0lt
+title: 'Keller — Fiduciary Duties and Moral Blackmail'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Read in full on 2026-11-17 from the author's preprint on the Te Herenga
+    Waka-Victoria University of Wellington repository,
+    https://ndownloader.figshare.com/files/30600645 (record
+    doi:10.25455/wgtn.16550823, CC BY-NC-ND), 30 pages, text by pdftotext.
+    Its cover line: "This is a pre-print. It was first published on 1 July
+    2016." Read: the introduction, the four sections, the conclusion and
+    notes 1–28; nothing skipped. Page numbers below are the preprint's
+    (1–30), not the journal's 481–495, and the wording was not compared
+    with the version of record. The quotes below were rechecked by the
+    filer against the same copy on 2026-11-18.
+date: '2026-11-18'
+summary: >-
+  Keller defines moral blackmail as "a wrongful act that forces someone to
+  do something by making her alternatives morally unacceptable", holds that
+  the obligation it creates is genuine though the victim ought not to have
+  it, and argues that legal and professional fiduciaries (doctors, nurses,
+  teachers, lawyers) are especially exposed, because their roles generate
+  obligations of partiality whose triggering circumstances others control.
+  The dog and teachers examples the exchange gives are his; its "Alice" and
+  "Bob" and its "Administrators" are not.
+---
+<!-- inactive-ok-file: THEORY-tmpg9i9l CLAIM-tmp76x3e CLAIM-tmpa2l21 CLAIM-tmpciy9q CLAIM-tmpe5u7i CASE-tmpm0rpn THEORY-225 LIT-tmp5mwf4 LIT-tmpewphn — new or Proposed; the work read, the account filed from it and the entries it bears on -->
+
+# NOTE-tmp0loqu: Keller — Fiduciary Duties and Moral Blackmail
+
+## Contribution
+
+A definition of moral blackmail wider than McConnell's (1981): the
+blackmailer need not threaten an evil, and the act wanted need not be
+wrong (n. 27). A thesis that wrongful treatment can create a genuine
+obligation, so that the victim's complaint, "it is morally wrong that I
+have this moral obligation", is coherent. A mechanism of exposure: a
+fiduciary role predictably becomes a special moral relationship, whose
+obligations of partiality go beyond the role and outlast it, and whoever
+controls their triggering circumstances can steer them. And a distributive
+coda tying that exposure to caring work, low pay and gender.
+
+## Key results
+
+- **Definition** (p. 2): "To commit moral blackmail is to perform a
+  wrongful act that forces someone to do something by making her
+  alternatives morally unacceptable."
+- **The dog case** (pp. 1–2): the neighbour has declined ("I ask you
+  politely, and you politely say no"); the owner leaves the dog with a
+  note, unreachable, "so if you do not take care of the dog then it will
+  probably starve and die."
+- **A wrong creates a genuine obligation** (p. 21): "you can have a
+  genuine moral obligation because you have been treated wrongly. That is
+  how moral blackmail becomes possible." The victim is mistreated: "I
+  mistreat you by placing you in a difficult moral predicament" (p. 20).
+- **Power over circumstances is power over demands** (p. 20): "if I have
+  the power to change your circumstances, then I may have the power to
+  change the moral demands you face."
+- **The channel is moral sensibility** (p. 22): "Moral blackmail works by
+  way of the victim's moral sensibility, just as ordinary blackmail works
+  by way of the victim's conception of her own best interests." And: "To
+  the extent to which someone else is able to influence the relevant
+  aspects of your circumstances, he will be able to influence the facts
+  about what special obligations you have".
+- **Third-party cases** (p. 24). A law firm: "I can increase your workload
+  without having to increase your pay and without losing clients for the
+  firm." A government official "in charge of teachers' employment": "I
+  resolve to announce the changes in the weeks before students take their
+  final exams and graduate". "The teachers have the right to strike", but
+  if they do, "in the publicity war that follows I will have some extra
+  ammunition. I will be able to make the teachers look heartless and
+  selfish for abandoning their students at their time of greatest need."
+- **Strike asymmetry** (p. 25): "It really is more difficult to go on
+  strike if you are a nurse or a teacher than if you are a policy analyst
+  or a software developer." The cases are "stylized, but in their
+  essentials ... not unrealistic" (p. 25).
+- **The coherent complaint and compensation** (p. 26): "I see that it is
+  my moral obligation to perform this act, but it is morally wrong that I
+  have this moral obligation." Exposure makes it "more difficult, morally,
+  to keep control over her time and energy, and to bargain for better
+  conditions at work"; "It would not be unreasonable for someone who takes
+  on relevant sorts of fiduciary obligations to expect greater pay or
+  improved conditions".
+- **Systemic and gendered** (p. 27): "the bad things can become
+  instruments of systemic injustice."
+
+## Assumptions
+
+- Obligations of partiality are real and can be unchosen; Keller says the
+  four accounts in the literature (impartialist, projects, relationships,
+  individuals) all allow this (pp. 10–12).
+- What morality requires depends on circumstances, which others can alter.
+- Moral blackmail needs the victim's belief and motivation: it fails on
+  someone who does not think letting the dog starve is wrong, or does not
+  care (p. 21).
+- Wrongfulness is part of the definition, as in legal definitions of
+  blackmail (n. 25).
+
+## Concepts
+
+- **Moral blackmail**: a wrongful act forcing someone to act by making her
+  alternatives morally unacceptable; contrasted with prudential and
+  emotional blackmail (Forward, n. 26).
+- **Fiduciary duty**, legal and professional, and the **special moral
+  relationship** it predictably becomes.
+- **Obligations of partiality**, which outrun and outlast the fiduciary
+  duty.
+- **Beneficiary-initiated and third-party** moral blackmail.
+- **Less moral freedom** (p. 27), the cost of standing in demanding moral
+  relationships.
+
+## Bearing on the record
+
+Filed as THEORY-tmpg9i9l.
+
+- **CLAIM-tmp76x3e** (an agent governed through its sound values by a
+  party that changes its situation). The reading supports its central
+  half independently: the victim's obligation is genuine, and the
+  manipulation runs through her moral sensibility. The claim's condition,
+  that the party controls the trigger and escapes the cost, is the dog
+  note and the law-firm case. The claim's body leaves the attribution of
+  the dog case unchecked: it is Keller's; "Alice" and "Bob" are A's.
+  Corroborates; the claim does not rest on it.
+- **QUESTION-tmpbzq36** (can activating obligations give control over the
+  terms of dependence?). Evidence toward yes for fiduciaries: exposure
+  makes it harder "to bargain for better conditions at work" (p. 26), and
+  the teachers case uses the moral cost of withdrawal as bargaining
+  leverage. Keller does not frame it as dependence or exit.
+- **CLAIM-tmpa2l21** (structuring another's circumstances is a wrong
+  against that person). Keller supports the relational half: moral
+  blackmail mistreats its victim (p. 20). But his victim is pressed to do
+  something right (mind the dog, teach), not to commit a wrong, so he
+  supports "a wrong against that person" without the claim's case of
+  induced wrongdoing.
+- **CLAIM-tmpciy9q** (a party arranges another's real wrong, then uses the
+  true accusation). The teachers example the claim's body attributes to
+  Keller is his, with two differences: his actor is "a government official
+  in charge of teachers' employment", not "Administrators", and the
+  teachers commit no wrong. Striking is their "right", and the publicity he
+  anticipates is a smear ("look heartless and selfish"), not a true
+  accusation. The example is therefore not an instance of the claim's
+  pattern; the exchange stretched it.
+- **CLAIM-tmpe5u7i** (the moral subsidy). The law-firm case is a moral
+  subsidy deliberately sought, and pp. 26–27 make the exposure systemic and
+  gendered. Keller's cases are intentional, where the claim allows
+  reliance "without intending to exploit anyone".
+- **CASE-tmpm0rpn**, arm C (appeal to professional duty), has the
+  mechanism of Keller's law-firm case, and his strike asymmetry for nurses
+  and teachers.
+- **THEORY-225** (Noggle: no single mechanism of manipulation). Moral
+  blackmail is a further mechanism, and its pressure need be neither
+  covert nor non-rational.
+- For the record's Robillard entries (LIT-tmp5mwf4, LIT-tmpewphn), not
+  read: this paper is the record's read footing for commitments as a
+  source of exposure to exploitation.
+
+## Limitations
+
+- The cases are Keller's own stylized ones; there is no evidence of how
+  often this happens.
+- He does not say how much compensation is owed, nor in general when a
+  complaint about one's obligation is legitimate.
+- Restricted to legal and professional fiduciaries; strictly moral
+  fiduciary duties are set aside (p. 9), and the family is the companion
+  paper's ("Moral Blackmail and the Family", not registered).
+- Read from the preprint; the 2018 version of record may differ in
+  wording.

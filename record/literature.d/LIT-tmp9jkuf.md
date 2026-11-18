@@ -1,10 +1,12 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A85, A90; no copy sought yet.
+  read in full 2026-11-17 (NOTE-tmpbs36k) from the National Archives
+  transcription; worth reading for magistrates as trustees "amenable" to
+  the people and for a majority's "inalienable" right to reform
+  government, which bear on QUESTION-tmpgeqju and QUESTION-tmpea19q.
 title: 'The Virginia Declaration of Rights'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -15,6 +17,18 @@ history:
     DOI. The National Archives page returns HTTP 200. `published:` is
     1776-06-12, the date of adoption. No email address was sent to any
     service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read in full on 2026-11-17 from the National Archives transcription
+    (the `url:`). Quotes rechecked by the filer on 2026-11-18. The
+    archives page says it was "Written by George Mason" and "adopted by
+    the Virginia Constitutional Convention on June 12, 1776", confirming
+    `first_author:` and `published:`; the adopting body's name there is
+    "the Virginia Constitutional Convention". The document's own
+    heading: "A Declaration of Rights ... made by the representatives of
+    the good people of Virginia, assembled in full and free convention".
+    Deferred → Active. NOTE-tmpbs36k, THEORY-tmphi1y8.
 tags:
 - society-and-governance
 date: '2026-11-17'
@@ -27,14 +41,18 @@ keywords:
 - 'right to reform'
 implementations: []
 summary: >-
-  Virginia Convention (1776). The Virginia Declaration of Rights, drafted
-  by George Mason, adopted 12 June 1776. Transcript at the U.S. National
-  Archives. Registered unread from the exchange "Assess Depp Heard Abuse"
-  (A85, A90). The exchange reads its magistrates as "trustees and
-  servants" answerable to the people, and its retained right to reform,
-  alter or abolish, as an early statement of answerable authority. What
-  the exchange says of it is unverified until read.
+  The Virginia Declaration of Rights, written by George Mason, adopted
+  by the Virginia Constitutional Convention on 12 June 1776, read in
+  NOTE-tmpbs36k. Men have "certain inherent rights" of which they cannot
+  "by any compact, deprive or divest their posterity" (§1); magistrates
+  are the people's "trustees and servants and at all times amenable to
+  them" (§2); "a majority of the community has an indubitable,
+  inalienable, and indefeasible right to reform, alter, or abolish" an
+  inadequate government (§3). It bears on QUESTION-tmpgeqju and
+  QUESTION-tmpea19q, and qualifies the use of "inalienable" in
+  CLAIM-tmp6vck6 (THEORY-tmphi1y8).
 ---
+<!-- inactive-ok-file: NOTE-tmpbs36k THEORY-tmphi1y8 — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp9jkuf: The Virginia Declaration of Rights
@@ -43,12 +61,21 @@ Virginia Convention (1776). *The Virginia Declaration of Rights*, drafted by Geo
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.*
+*From the reading (NOTE-tmpbs36k).*
 
-> A85: "Its second describes magistrates as trustees and servants who remain answerable to the people."
-
-Unverified until read.
+- §1: "certain inherent rights, of which, when they enter into a state of
+  society, they cannot, by any compact, deprive or divest their posterity".
+- §2: "magistrates are their trustees and servants and at all times
+  amenable to them."
+- §3: "a majority of the community has an indubitable, inalienable, and
+  indefeasible right to reform, alter, or abolish it".
 
 ## Standing in the record
 
 Registered from A85 (2026-11-17), at the owner's U37. It bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md), [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md) and [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). A's date is correct. The ledger corrects A85 §3's gloss on the "majority" clause; check that on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+
+Read on 2026-11-17 (NOTE-tmpbs36k). A85 is faithful in substance; the
+text's word is "amenable", not "answerable". The ledger's correction of the
+"majority" clause is confirmed. The document's only "inalienable" is the
+majority's right over government (§3); the individual rights of §1 are
+"inherent", and §1's limit is on compacts that would divest posterity.

@@ -1,0 +1,122 @@
+---
+status: Skimmed
+paper: 'LIT-tmpvz7ds'
+title: 'Hart — Incomplete Contracts and Control'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Read in part on 2026-11-17 from the Nobel Foundation's PDF,
+    https://www.nobelprize.org/uploads/2018/06/hart-lecture.pdf, the
+    lecture as printed in the Foundation's yearly volume (page heads "The
+    Nobel Prizes", pages from 371), text by pdftotext. Read in full: §1
+    (introduction) and §2 (incomplete contracts, property rights theory,
+    the coal-mine example), §4 (public against private ownership,
+    prisons); read in part: the opening and close of §3 (financial
+    contracting) and the opening of §5 (foundations). Skimmed by keyword:
+    the rest of §5 and §6. Hence Skimmed. The quotes below were rechecked
+    by the filer against the same copy on 2026-11-18. Read as a stand-in
+    for Hart & Moore (1990), LIT-tmph6tkz.
+date: '2026-11-18'
+summary: >-
+  Hart's own account of property rights theory: an incomplete contract
+  raises the question who decides what it leaves out, the residual
+  control right, which goes with ownership of non-human assets. In the
+  coal-mine example, buying the mine moves residual control to the power
+  plant, which then dares to invest in the relationship, but the mine's
+  manager, now an employee who needs the owner's permission, loses
+  incentive to innovate; buying is worth little if she is indispensable.
+  Hart and Moore (1990) generalized the model to many assets and workers
+  and showed that synergistic assets belong together and that assets
+  should be owned by indispensable human capital.
+---
+<!-- inactive-ok-file: CASE-tmpm0rpn CLAIM-tmpdic1g CLAIM-tmpt091d LIT-tmph6tkz — Proposed, Unfetched; cited with their standing, entries this reading bears on or files -->
+
+# NOTE-tmpk6jrn: Hart — Incomplete Contracts and Control
+
+## Contribution
+
+An author's own restatement, without a model, of property rights theory
+(Grossman–Hart 1986, Hart–Moore 1990) and its applications to financial
+contracting and to public against private provision.
+
+## Key insight
+
+Power in property rights theory comes from control over non-human assets;
+power over a person runs through the assets that person needs and through
+how replaceable the person is.
+
+## Assumptions
+
+As in the papers it reports (§2): symmetric information ex post,
+efficient renegotiation, non-contractible investment ex ante, so that
+"Inefficiencies arise solely because ex ante relationship-specific
+investments are distorted."
+
+## Key results
+
+- **The question** (§2): "a critical question that arises with an
+  incomplete contract is, who has the right to decide about the missing
+  things? We called this right the residual control or decision right."
+- **Ownership** (§2): "The owner of an asset has the right to decide on how
+  the asset is used to the extent that its use is not contractually
+  specified."
+- **Hart and Moore (1990)** (§2): the theory "can be generalized beyond the
+  case of two managers and two assets to many assets and many workers, and
+  to more general ownership structures, such as joint and shared
+  ownership"; "That paper also shows that synergistic assets should be
+  owned together and that assets should be owned by indispensable human
+  capital."
+- **The cost of integration** (§2): "Now that the manager is an employee
+  she has to get permission to implement the idea from her boss: the owner
+  of the power plant has veto power."
+- **Non-human assets** (§2): "PRT emphasizes control over physical (more
+  generally non-human) assets."; "purchasing the mine would not be worth
+  much if the coal mine manager is indispensable."
+- **Anticipation** (§2): "the assumption made in the theory is that the
+  power plant does anticipate that it will be at the mercy of the coal
+  mine".
+- **Public provision** (§4): "When contracts are incomplete, residual
+  control rights become important."
+
+## Concepts
+
+Residual control (decision) rights; property rights theory (PRT);
+hold-up; relationship-specific investment; the owner's veto;
+indispensable human capital; synergistic assets; control rights in
+financial contracts; public against private provision.
+
+## Bearing on the record
+
+- **CLAIM-tmpdic1g**. Corroborates its first clause in an author's words
+  ("who has the right to decide about the missing things?"), and the
+  veto example is a clean case of discretion exercised over an uncovered
+  contingency, a new idea the manager wants to implement. It qualifies the
+  claim's worker example: power over a worker runs through ownership of
+  the assets she needs and her replaceability, not the employment label.
+  And, as in Grossman and Hart (LIT-tmpjy1vu), the parties anticipate
+  hold-up and adjust beforehand, so the discretion is not seen only when
+  the contingency arises.
+- **CLAIM-tmpt091d**. The plant declining to become dependent on an
+  unreliable mine is a firm-level analogue of declining to wait for an
+  unreliable promisor; the lecture does not draw that line.
+- **CASE-tmpm0rpn**. §4's private prisons, where a provider uses residual
+  rights to cut unmeasured quality, are near the hospitals' case.
+
+## Connections
+
+Stands in for Hart & Moore (1990), LIT-tmph6tkz, for its place in the
+theory (the generalization of Grossman–Hart to many assets and workers and
+to joint ownership) and for two results stated in one sentence each
+(synergistic assets owned together; assets owned by indispensable human
+capital). It does not restate Hart and Moore's model, definitions,
+propositions or proofs, or their treatment of authority over the people
+who use the assets.
+
+## Limitations
+
+A retrospective lecture by one of the authors, informal and celebratory,
+with no proofs; it gives the theory's strengths more than its critics'
+points (sensitivity to the bargaining game, the missing foundation for
+incompleteness).

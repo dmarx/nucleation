@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Where a slowly revised governing level (a statute, an objective, a classification) constrains a fast process, the fast process can change the world before the slow level can be revised, so those it harms have no route to the rule as fast as its application reaches them, and the rule dominates them without anyone actively intervening; where the slow level is open to revision on demand, the same separation of timescales keeps the fast process accountable instead'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    The HKMA's discussion paper (2026), read in part, states both
+    halves of the claim as regulatory guidance: fast action outruns
+    review, and limits set beforehand with authority kept to revise
+    the mandate.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -109,3 +117,8 @@ entrenched as seemingly natural limits on what anyone may do."
 - Not that slow rules are illegitimate. Its first clause is a hazard of the
   arrangement, its second the remedy, and which holds depends on whether
   the slow level can be reached.
+
+## Note of 2026-11-17: The HKMA discussion paper, read in part
+<!-- inactive-ok-file: NOTE-tmpv0dkv THEORY-tmpoi5oo — new reading (Skimmed) and theory of 2026-11-18, Proposed -->
+
+HKMA 2026, read in part (NOTE-tmpv0dkv, THEORY-tmpoi5oo): it corroborates both halves of the claim independently (THEORY-tmpoi5oo carries `corroborates`). The harm: "Numerous individually minor actions may cause serious harm before review catches up"; "The last opportunity for human intervention may occur several steps before the harm becomes visible" (p. 18). The remedy: limits set beforehand in the agent harness, "velocity limits that are commensurate not only with technical constraints, but also with the demonstrated effectiveness of oversight arrangements" (p. 19), design that takes "account of detection time, decision time and stopping time" (p. 37), and human-in-command authority to "define, change, restrict, suspend or withdraw the deployment's mandate" (p. 7), the slow level kept open to revision. It is non-binding guidance, not evidence that the remedy works. No status changes.

@@ -1,0 +1,136 @@
+---
+status: Read
+paper: 'LIT-tmpjy1vu'
+title: 'Grossman and Hart — The Costs and Benefits of Ownership'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Read on 2026-11-17 from a scan of the published article (JPE pp.
+    691–719, 29 pages, with a text layer) posted as a reading for course IS
+    582 on a University of Washington faculty page,
+    https://faculty.washington.edu/mfan/is582/articles/GH1986.pdf, text by
+    pdftotext. Read in full: abstract, §I, §II (the model), §III (the three
+    ownership structures, Proposition 1, the investment results, Remarks
+    1–2), the opening of §IV and §V. Skimmed: the middle of §IV
+    (insurance). Equations are garbled by OCR, so the argument was read
+    from the prose. Read alongside as context: John Moore, "Introductory
+    Remarks on Grossman and Hart, JPE, 1986", from his Edinburgh homepage.
+    The quotes below were rechecked by the filer against the same copy on
+    2026-11-18.
+date: '2026-11-18'
+summary: >-
+  A firm is defined by the assets it owns, and ownership is the purchase of
+  residual rights of control, the right to control every aspect of an
+  asset not given away by contract. When the use of assets cannot be
+  contracted ex ante, ownership sets each party's position if ex post
+  bargaining fails, hence the division of the surplus, hence investment
+  incentives: integration strengthens the acquirer's incentive to invest
+  and weakens the acquired party's, so it is optimal when one party's
+  investment matters much more. Renegotiation always reaches an efficient
+  outcome; the cost of the allocation falls on investment beforehand.
+---
+<!-- inactive-ok-file: CASE-tmpm0rpn CLAIM-670 CLAIM-tmp3t16f CLAIM-tmpdic1g CLAIM-tmpt091d — Proposed; cited with their standing, entries this reading bears on or files -->
+
+# NOTE-tmprnwux: Grossman and Hart — The Costs and Benefits of Ownership
+
+## Contribution
+
+A formal theory of the boundaries of the firm in which ownership is the
+residual right of control under incomplete contracts, and in which the
+benefit of integration (the acquirer's stronger incentives) and its cost
+(the acquired manager's weaker ones) are one and the same transfer of
+control.
+
+## Key insight
+
+Who holds the residual right matters even if it is never used against
+anyone: the parties renegotiate to the efficient choice, but the
+allocation fixes who gets what in that bargain, and so what each invests
+beforehand.
+
+## Assumptions
+
+- No date-1 variable is contractible at date 0; the contract allocates
+  only ownership (and a transfer).
+- Symmetric information, costless renegotiation ex post, Nash bargaining
+  (an even split of the gains).
+- Benefits are private to each manager; investments are non-contractible;
+  a one-shot relationship.
+- For the main results, strong conditions on how investment affects
+  marginal and total benefits (Assumptions 5–7), which the authors call
+  strong.
+
+## Key results
+
+- **Ownership** (abstract): "When it is costly to list all specific rights
+  over assets in the contract, it may be optimal to let one party purchase
+  all residual rights. Ownership is the purchase of these residual
+  rights."
+- **The cost** (abstract): "When residual rights are purchased by one
+  party, they are lost by a second party, and this inevitably creates
+  distortions."
+- **Definition** (§I.B): residual rights of control are "the right to
+  control all aspects of the asset that have not been explicitly given
+  away by contract." Example: "the right to decide whether or not to have
+  the run belongs to the owner of the printing press."
+- **What ownership changes** (§I.C): "The distribution of ex post surplus,
+  however, will be sensitive to ownership rights." [the copy reads
+  "distributionof"]
+- **Ex ante effect** (§III.A): the investment inefficiency arises "in spite
+  of the fact that the noncooperative outcome never occurs!"
+- **No selective intervention** (§I.C): "the owner cannot commit himself to
+  intervene selectively in his subsidiary's operations".
+- **Integration** (§V): "integration shifts the incentives for
+  opportunistic and distortionary behavior, but it does not remove these
+  incentives."
+- **Employment** (§V): "many details of the job to be carried out are left
+  to the employer's discretion; that is, the employer has many of the
+  residual rights of control."
+
+## Concepts
+
+Specific and residual rights; ownership as residual rights of control;
+vertical and lateral integration; decisions not contractible ex ante but
+contractible ex post; relationship-specific investment; over- and
+under-investment; residual rights over actions (employer and contractor).
+
+## Bearing on the record
+
+- **CLAIM-tmpdic1g** (the holder of residual control decides the
+  contingencies the contract did not cover; the discretion is exercised
+  and seen only when one arises). Supports the first clause directly: the
+  residual right is the right over what "have not been explicitly given
+  away by contract", and §V extends it to the employer's discretion over
+  the job. It carries less than the rest of the claim, in two ways:
+  (a) in the model the holder does not simply decide: the parties
+  renegotiate to the efficient choice, and control sets the division of
+  the gains; (b) the allocation acts before any contingency arises,
+  distorting investment although "the noncooperative outcome never
+  occurs". On Grossman and Hart's account the discretion is felt ex ante,
+  through anticipation, not only when the contingency comes. The claim's
+  own "What it does not say" (their question is efficiency, the normative
+  reading is A's) is accurate.
+- **CLAIM-tmpt091d** (complements). A deferred reward whose delivery the
+  terms leave open is a residual right in this sense; the paper does not
+  discuss such cases.
+- **CASE-tmpm0rpn** (arm B's unilateral authority over future
+  expectations) is near §V's employer discretion.
+- **CLAIM-670** and **CLAIM-tmp3t16f** use this work's concept of hold-up.
+
+## Verdict on the exchange's characterization
+
+Faithful, with one widening. A53: ownership and organizational structure
+"allocate residual control rights: authority over uses and decisions not
+already settled by the contract." The paper's object is ownership of
+assets; "organizational structure" is A's widening, though §V extends the
+idea to employment.
+
+## Limitations
+
+Two parties, one round of investment, no uncertainty in the formal model;
+the results depend on Assumptions 5–7; the insurance application is
+interpretive. Moore's remarks add that the predictions are sensitive to
+the bargaining game and that the theory lacks a foundation for
+contractual incompleteness.

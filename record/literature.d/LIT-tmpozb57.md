@@ -1,12 +1,25 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A3; no copy sought yet.
+  registered 2026-11-17 from the exchange "Assess Depp Heard Abuse"
+  (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b),
+  where A names it at A3; not read. A lawful copy was located on
+  2026-11-17 and not fetched: Johnson's own upload to his Penn State
+  faculty page, https://www.personal.psu.edu/mpj/1995%20JMf.pdf,
+  answered HTTP 503 and then reset the connection, and its Wayback
+  Machine snapshot,
+  http://web.archive.org/web/20250217144258/https://www.personal.psu.edu/mpj/1995%20JMf.pdf,
+  was reset by web.archive.org on every request from this session (a
+  network-level refusal); neither was worked around. The JSTOR version
+  (doi:10.2307/353683) is closed by Semantic Scholar and OpenAlex. A
+  1999 Johnson paper on a Salford local-government site answered HTTP
+  403 (CloudFront). Two read neighbours stand in, not far: Johnson
+  interviewed by Ooms (2006), LIT-tmpvjyqr, and Hardesty et al. (2015),
+  LIT-tmpjl3bp. Both use the later terms, intimate terrorism and
+  situational couple violence; neither restates this paper's argument or
+  data. A human reader can likely open the faculty-page copy.
 title: 'Patriarchal Terrorism and Common Couple Violence: Two Forms of Violence against Women'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -19,6 +32,19 @@ history:
     no work; this is the paper that introduced the distinction.
     `published:` is the first of May 1995: Crossref gives the issue
     month without a day. No email address was sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Unfetched on 2026-11-18 (ADR-053), at the reading pass of
+    2026-11-17: a lawful author's copy was located at an exact address
+    and could not be fetched (where, and what stopped it, in the status
+    note). The neighbours LIT-tmpvjyqr and LIT-tmpjl3bp were registered
+    and read as stand-ins. A3's "Johnson originally called the second
+    category intimate terrorism" is wrong on the title: the 1995 paper's
+    own term is "patriarchal terrorism"; "intimate terrorism" is
+    Johnson's later term (the 2006 interview: "what I call “intimate
+    terrorism,”"). Corrected in Standing in the record. No email address
+    was sent to any service.
 tags:
 - social-science
 - society-and-governance
@@ -57,3 +83,19 @@ Michael P. Johnson (1995). Patriarchal Terrorism and Common Couple Violence: Two
 ## Standing in the record
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A3 as the origin of the typology A uses to separate violence from coercive control in assessing the Depp–Heard relationship. It bears on [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) (equality of wrongdoing and equality of power are separate questions) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). Johnson's 2008 book, the source of A's four-type table, is registered beside it. Not read.
+
+## Note of 2026-11-18: the reading pass
+
+Not read; Unfetched (status note). **The exchange's characterization is
+wrong on the name.** A3 says "Johnson originally called the second category
+*intimate terrorism*". The paper's own title calls it "Patriarchal
+Terrorism", and its other type "Common Couple Violence". "Intimate
+terrorism" is the later term: Johnson in 2006, LIT-tmpvjyqr, speaks of
+"what I call “intimate terrorism,”", and Hardesty et al. (2015),
+LIT-tmpjl3bp, equate it with "coercive controlling violence". The paper's
+content is unverified.
+
+How far the neighbours stand in: not far. Both are later and use the later
+vocabulary. They carry the typology's core (types told apart by control
+context), not this paper's argument, data or account of where each form
+comes from.

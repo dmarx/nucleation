@@ -1,0 +1,80 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-17 (NOTE-tmplo4r7) from the author's penultimate
+  version, as the read neighbour of Watson (1996), LIT-tmpmsh0d, which
+  could not be read; worth reading here for its own account (desert as
+  fittingness for attributability, desert as fairness for
+  accountability) and for what it quotes of Watson by page.
+title: 'Two Faces of Desert'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Registered as a stand-in for Watson, "Two Faces of Responsibility"
+    (1996), LIT-tmpmsh0d, registered from the exchange "Assess Depp Heard
+    Abuse". Not held before: record/ was searched for the title and for
+    King as first author. Citation checked against Crossref (no mailto):
+    Matt King, Philosophical Studies 169(3): 401–424, journal article,
+    online 2013-08-15 (`published:`), print issue July 2014. Read in full
+    on 2026-11-17 from the author's own upload,
+    https://dr-matt-king.squarespace.com/s/King_2-Faces-of-Desert_upload.pdf,
+    17 manuscript pages, headed "This is the penultimate version. Please
+    cite the published version, which is substantially revised"; the
+    published version was not compared. The quotes used were rechecked by
+    the filer against that text on 2026-11-18. No email address was sent
+    to any service.
+tags:
+- ethics
+- free-will
+- moral-psychology
+date: '2026-11-18'
+published: '2013-08-15'
+doi: '10.1007/s11098-013-0188-5'
+first_author: 'King'
+keywords:
+- 'attributability'
+- 'accountability'
+- 'desert'
+- 'standing to blame'
+implementations: []
+summary: >-
+  Matt King (2013; print 2014). Taking Watson's two faces of
+  responsibility as given, King argues that attributability carries
+  desert as fittingness, fixed by facts about the agent, and
+  accountability carries desert as fairness, which depends also on the
+  blamer's standing and on the agent's opportunity to avoid sanction;
+  neither notion extends to the other face. He quotes Watson's 1996
+  paper by page throughout: accountability "involves a social setting in
+  which we demand (require) certain conduct from one another", and "[i]t
+  is unfair to impose sanctions upon people unless they had a reasonable
+  opportunity to avoid incurring them". Registered as the read neighbour
+  of Watson 1996, LIT-tmpmsh0d. It bears on QUESTION-068.
+---
+<!-- inactive-ok-file: LIT-tmpmsh0d — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: NOTE-tmplo4r7 QUESTION-068 — new or Deferred; this work's reading and the question it bears on -->
+
+# LIT-tmpcg293: Two Faces of Desert
+
+King, M. (2014). Two Faces of Desert. *Philosophical Studies* 169(3): 401–424. doi:10.1007/s11098-013-0188-5. Online 15 August 2013.
+
+## Key takeaways
+
+- Each face of responsibility has its own desert: attributability-blame is
+  deserved when it is fitting, accountability-blame when it is fair.
+- Accountability brings in the blamer: "if I lack the standing to hold you
+  to a legitimate demand, then you cannot be accountable to me" (p. 8).
+- The faces come apart: "one can have something attributable to them that
+  one is not accountable to others for. Watson makes this plain" (p. 13).
+- From Watson 1996 (237): "[i]t is unfair to impose sanctions upon people
+  unless they had a reasonable opportunity to avoid incurring them."
+
+## Standing in the record
+
+Registered on 2026-11-18 as the read neighbour of Watson (1996),
+LIT-tmpmsh0d, which A cites in the exchange "Assess Depp Heard Abuse" for
+attributability and accountability. Only what King quotes of Watson with
+page numbers stands in for Watson; King says he uses the distinction
+"potentially in ways to which Watson himself would object". The copy read
+is a penultimate draft, substantially revised in print.

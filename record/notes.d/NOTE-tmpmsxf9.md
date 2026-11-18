@@ -1,0 +1,126 @@
+---
+status: Read
+paper: 'LIT-tmpbyne9'
+title: 'Szakonyi — Opposition rule under autocracy: Evidence from Russia'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Read in full on 2026-11-17 from the publisher's typeset version
+    (stamp "Am J Pol Sci. 2025;1–19") posted on the author's own site,
+    https://davidszakonyi.com/assets/papers/Szakonyi%202025%20-%20Opposition%20rule%20under%20autocracy.pdf,
+    linked from his publications list; 19 pages of early-view pagination,
+    text by pdftotext. Read: pp. 1–17 with Tables 1–3; the references
+    skimmed. Not read: the online appendix (Tables A1–A11), which is not
+    in the file. The publisher's page answered HTTP 403. The quotes below
+    were rechecked by the filer against the same copy on 2026-11-18.
+date: '2026-11-18'
+summary: >-
+  After the 2017 Moscow municipal elections the opposition held half or
+  more of the seats on 29 of 124 councils. In difference-in-differences
+  designs over 2018–2022, ruling-party deputies on opposition-held
+  councils reported about 22% less income, with no change in measures of
+  hidden assets; those councils procured more by electronic auction, cut
+  expenditures and ran surpluses. Systemic and nonsystemic opposition
+  councils did not differ significantly, and holding a majority was what
+  mattered. The regime kept the levers over the larger arrangement: the
+  municipal filter, criminal charges against deputies, and in 2022
+  blocked candidates and fraud.
+---
+<!-- inactive-ok-file: CLAIM-tmpbqunx CLAIM-tmpm95mo CLAIM-tmpyo35b LIT-tmp5gzb1 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
+
+# NOTE-tmpmsxf9: Szakonyi — Opposition rule under autocracy: Evidence from Russia
+
+## Contribution
+
+Causally identified evidence, by the author's design, that an opposition
+admitted into autocratic institutions can change governance in them when
+it holds a majority, together with a record of the regime levers that
+stayed in place.
+
+## Key insight
+
+Control of an institution, not participation in it, let the opposition
+constrain rent-seeking; the regime still held the rules of access that
+decided whether that control could spread or last.
+
+## Assumptions
+
+- Parallel pre-trends between treated and control councils.
+- Reported income stands in for rents, though it "reflects both legal work
+  and illegal rent-seeking" (p. 6).
+- Anyone not running with United Russia counts as opposition.
+
+## Key results
+
+- **Abstract** (p. 1): "opposition control of municipal councils reduced
+  the financial returns from office for ruling party deputies", "by
+  organizing more competitive procurement, reducing unnecessary budget
+  expenditures, and curbing over-the-top compensation".
+- **Income** (p. 2): "deputies from the ruling party earned roughly 22%
+  less income in years when they served in an opposition-held council."
+- **Hidden assets** (p. 11): "We see no real change in the incidence of
+  hidden assets".
+- **Procurement** (p. 13): "Roughly 10% more contracts (totaling 12% of
+  state expenditures) were signed using auctions when the opposition was
+  in power."
+- **Budgets** (p. 14): "Rather than being deprived of resources,
+  opposition-held councils actually see slightly faster growth in revenue
+  while also decreasing expenditures."
+- **Affiliation** (p. 15): "The difference between councils of different
+  opposition affiliations is small and not statistically significant".
+- **Majority** (p. 17): "holding a majority was critical to execute
+  oversight."
+- **Regime levers**: the municipal filter requires "the signatures of
+  deputies from at least 75% of municipal councils in order to register"
+  (p. 4), and "the opposition did not win enough seats to overcome the
+  municipal filter" (p. 5); "phony criminal charges were filed against
+  nine deputies from the opposition" (p. 5); in 2022 "the regime blocked
+  opposition candidates from running and used fraud" (p. 15).
+- **Voters** (p. 16): with the held-office treatment "independent
+  candidates command a six percentage point lead"; a protest record "does
+  not provide any advantage."
+
+## Concepts
+
+Electoral authoritarianism; democratic enclaves; systemic and nonsystemic
+opposition; the municipal filter; co-optation; participation against
+boycott; control against participation in institutions.
+
+## Bearing on the record
+
+- **CLAIM-tmpm95mo** (an independent opposition whose capacity to change
+  the arrangement depends on another's control). Corroborates, in both
+  directions the claim draws. An opposition inside autocratic
+  institutions produced measurable change there (pp. 9–14), so inclusion
+  is not itself evidence of containment, as the claim's defeat condition
+  insists. And the regime kept control of the access rule that mattered
+  for changing the larger arrangement: the opposition "did not win enough
+  seats to overcome the municipal filter" (p. 5), and the 2022 elections
+  were closed by blocking and fraud (p. 15). Local efficacy with the
+  larger arrangement still held is the claim's controlled incapacity. The
+  author does not frame it so. That systemic opposition councils behaved
+  like nonsystemic ones once governing (p. 15) bears on whether that
+  distinction marks containment at all.
+- **LIT-tmp5gzb1** (Semenov), unread, describes the same regime's control
+  of the organizational environment.
+- **CLAIM-tmpbqunx** and **CLAIM-tmpyo35b** may also use the finding of an
+  access rule held by the regime.
+
+## Verdict on the exchange's characterization
+
+Faithful. A37: opposition victories "reduced certain opportunities for
+ruling-party officials to extract financial benefits from public office,
+partly through more competitive procurement and reduced spending." Two
+precisions: the effect holds where the opposition held a majority, with
+"less success" in a minority (p. 17), and it is measured on reported
+income, not hidden assets.
+
+## Limitations
+
+The online appendix was not read. The survey treatment does not mirror
+the governance question, as the author notes. The text gives the
+experiment's effect both as a "six percentage point lead" and as "roughly
+5%"; the appendix would settle it. Interviews were with exiled deputies
+only.

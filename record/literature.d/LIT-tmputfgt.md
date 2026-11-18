@@ -1,10 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-17), A85, A87, A90, A95, A97, A100, A102; no copy sought yet.
+  read 2026-11-17 (NOTE-tmpvxul9) from the Yale Law School repository's
+  copy of the published article; worth reading as the source of the
+  vocabulary of claims, privileges, powers and immunities the exchange
+  uses, and of the separation of legal from physical power that grounds
+  CLAIM-tmpa0wdv.
 title: 'Some Fundamental Legal Conceptions as Applied in Judicial Reasoning'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -16,6 +19,20 @@ history:
     1913-11. `published:` is the first of November 1913: Crossref gives
     the issue month (November 1913) and no day. No email address was
     sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read on 2026-11-17 from the Yale Law School repository (OpenYLS)
+    copy,
+    https://openyls.law.yale.edu/server/api/core/bitstreams/aa2c294f-5ac3-431f-b13d-f8fd25b55435/content,
+    44 pages, text by pdftotext; the scheme and the four relation
+    sections closely, case illustrations and many footnotes quickly.
+    Quotes rechecked by the filer on 2026-11-18. The copy confirms the
+    citation (23 Yale L.J. 16–59; "Wesley Newcomb Hohfeld. Stanford
+    University, California"); it gives the year only, so Crossref's
+    November 1913 stands. The first of a projected series; the 1917
+    sequel (26 Yale L.J. 710) is not registered. Deferred → Active.
+    NOTE-tmpvxul9, THEORY-tmprnqnh.
 tags:
 - society-and-governance
 - ethics
@@ -32,14 +49,20 @@ keywords:
 - 'immunity'
 implementations: []
 summary: >-
-  Wesley Newcomb Hohfeld (1913). "Some Fundamental Legal Conceptions as
-  Applied in Judicial Reasoning". Yale Law Journal 23(1): 16–59.
-  DOI-10.2307/785533. Registered unread from the exchange "Assess Depp
-  Heard Abuse" (A85, A87, A90, A95, A97, A100, A102). Its four positions
-  and their correlatives are the grammar the exchange uses for rights,
-  demands, powers of release and authority from A85 to A102. What the
-  exchange says of it is unverified until read.
+  Hohfeld (1913), Yale Law Journal 23(1): 16–59, read in NOTE-tmpvxul9.
+  "Right" in judicial reasoning covers several relations; Hohfeld
+  exhibits eight conceptions in correlative pairs (claim–duty,
+  privilege–no-right, power–liability, immunity–disability) and opposite
+  pairs, "the lowest common denominators of the law". The pairs are
+  independent, and a legal power, "volitional control" over a change in
+  legal relations, is distinct from "the physical power to do the things
+  necessary" for its exercise. It grounds CLAIM-tmpa0wdv's separation of
+  physical from normative power, corroborates CLAIM-tmpnb4v4, and bears
+  out A87's correction in CLAIM-tmp6vck6 that an immunity limits
+  another's power (THEORY-tmprnqnh).
 ---
+<!-- inactive-ok-file: NOTE-tmpvxul9 THEORY-tmprnqnh — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpa0wdv — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpcpijj — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
@@ -52,14 +75,24 @@ Wesley Newcomb Hohfeld (1913). "Some Fundamental Legal Conceptions as Applied in
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.*
+*From the reading (NOTE-tmpvxul9).*
 
-> A85: "Wesley Hohfeld distinguished four basic legal positions."
-
-> A87: "Hohfeld: A right is not one kind of thing"
-
-Unverified until read.
+- "the term 'rights' tends to be used indiscriminately to cover what in a
+  given case may be a privilege, a power, or an immunity" (p. 30).
+- Eight conceptions in a scheme of "opposites" and "correlatives" (p. 30),
+  "the lowest common denominators of the law" (p. 58).
+- "X's right that Y should not eat the food persists even though X's own
+  privilege of doing so has been extinguished" (pp. 36–37).
+- Legal power is distinct from "the physical power to do the things
+  necessary for the 'exercise' of the legal power" (p. 52); "an immunity is
+  one's freedom from the legal power or 'control' of another" (p. 55).
 
 ## Standing in the record
 
 Registered from A85 (2026-11-17) and used throughout A87-A102. It bears on [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md), [CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md) (a valid release of a demand differs from its suppression), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md), [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) and [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). Its 1917 sequel (Yale Law Journal 26) is not registered. A's table is as the ledger reports: liberty is Hohfeld's "privilege", and immunity's correlative is disability. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+
+Read on 2026-11-17 (NOTE-tmpvxul9). The exchange is partly faithful. A85's "four
+basic legal positions" is a later reading: Hohfeld counts "eight
+conceptions", four correlative pairs. A87's "A right is not one kind of
+thing" is faithful to p. 30, and its separation of physical capability from
+normative power is Hohfeld's p. 52.

@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Who harmed whom, act by act, and who had power over whom, in the ongoing relationship, are separate questions: both parties can be culpable for harmful acts while one of them dominates the other, so neither a tally of acts nor the allocation of power settles the other'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Readings of the coercive-control works filed: four corroborate the
+    separation of the two questions, and the meta-analysis A cited for
+    the harms of coercive control carries no relation.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -106,3 +113,19 @@ assert it.
 - Nothing about any real couple. The exchange began from the Depp and Heard
   dispute (U1, A2); the claim needs only the constructed case, and the
   record files no case naming them.
+
+## Note of 2026-11-17: Johnson, Hardesty et al., Stark and Mazinani and O'Connor, read
+<!-- inactive-ok-file: THEORY-tmp8sytt THEORY-tmpxd7ne THEORY-tmpt60p9 THEORY-tmpaul2b THEORY-tmp0cj7p NOTE-tmpubjbq NOTE-tmpd9qyv NOTE-tmpputb4 NOTE-tmpky4pc NOTE-tmphdvuc LIT-tmpozb57 LIT-tmp5254i LIT-tmp6y633 LIT-tmpftjt6 — new, Proposed, Unfetched or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+
+Johnson 2006, Hardesty et al. 2015, Stark 2015 and Mazinani & O'Connor 2026, read (NOTE-tmpubjbq, THEORY-tmp8sytt; NOTE-tmpd9qyv, THEORY-tmpxd7ne; NOTE-tmpputb4, THEORY-tmpt60p9; NOTE-tmpky4pc, THEORY-tmpaul2b). Each THEORY now `corroborates` this claim, which does not rest on any of them.
+
+- **Johnson (2006)**, standing in for Johnson 1995 (LIT-tmpozb57, Unfetched) and 2008 (LIT-tmp5254i, Unavailable), types violence by control context, not acts: to classify a couple's violence, ask "about the power and control issues involved in their relationship, and about the presence of fear"; "all three types of violence can be dangerous, even life-threatening", so a dangerous act does not fix the type.
+- **Hardesty et al. (2015)**, with Johnson: "A risk of the count approach is (mis)classifying highly controlling abusers as “low control” when they rely on very few control tactics but enforce them relentlessly"; and with the frequency and severity of violence controlled, "the group differences reflect the control context rather than differences in violence". That is the claim's point in an operational form: a tally of acts, even of control tactics, does not settle who dominates.
+- **Stark (2015)**, standing in for Stark 2007 (LIT-tmp6y633): "Interventions focused on discrete assaults (rather than course of conduct) miss the significance of abuse"; tactics that "taken alone, may not rise to the level of abuse" make the pattern "in combination".
+- **Mazinani & O'Connor (2026)**: "bidirectional violence refers only to relationships in which both partners were reported to have used violent acts. The term does not imply equivalence in motive, coercive control, severity, consequences, or responsibility." An interpretive guard, not a test.
+
+None of the four takes up the claim's other half, that the dominated party's own acts keep their verdict. Johnson allows only that "in the case of violent resistance a case can sometimes be made that the violence was justified".
+
+Two works cited beside the claim carry less. **Lohmann et al. (2023)** (NOTE-tmphdvuc, THEORY-tmp0cj7p), which A cited for harms of coercive control "of its own", finds associations with PTSD and depression no stronger than psychological abuse's and no causal link; its THEORY carries no relation. **Stover et al. (2025)** (LIT-tmpftjt6, abstract only) defines "bidirectional" as acts reported by either partner, with rates from 10% to 96.6%; its rates do not show how often both partners are culpable. The body's "A3 §6 ... a 2023 systematic review found mixed support for established typologies" remains unchecked.
+
+No status changes.

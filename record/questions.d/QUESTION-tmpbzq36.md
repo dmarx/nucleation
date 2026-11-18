@@ -1,7 +1,14 @@
 ---
 status: Open
 title: 'Can a party''s ability to activate someone''s genuine moral obligations give it control over the terms of that person''s dependence, even without direct authority over their choices, so that the moral cost of withdrawing does the work that control over exit does elsewhere?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Keller (2016) read and filed with bears_on this question, as
+    evidence toward yes for legal and professional fiduciaries; the
+    two Robillard works were not reached.
 tags:
 - ethics
 - society-and-governance
@@ -60,3 +67,10 @@ record's two terms come apart there.
 - **A case** in which two people of equal indispensability differ only in a
   commitment to those served, and their leverage over their terms is
   compared.
+
+## Note of 2026-11-17: Keller read: for fiduciaries, activating obligations weakens their hand in bargaining
+<!-- inactive-ok-file: NOTE-tmp0loqu THEORY-tmpg9i9l LIT-tmp5mwf4 LIT-tmpewphn — new, Unfetched or Unavailable; the reading filed on 2026-11-18 and the works not reached -->
+
+Keller 2016, read (NOTE-tmp0loqu, THEORY-tmpg9i9l, bears_on). Evidence toward yes, for fiduciaries. Whoever can influence a fiduciary's circumstances "will be able to influence the facts about what special obligations you have" (p. 22), and the exposure makes it "more difficult, morally, to keep control over her time and energy, and to bargain for better conditions at work" (p. 26). His teachers case uses the moral cost of withdrawal as leverage in bargaining over pay and conditions: their "sense of obligation to their students ... will make it very difficult for them to exercise" the right to strike (p. 24). That is the question's moral cost of withdrawing doing the work of control over exit. Keller does not frame it as dependence, and his cases are deliberate.
+
+Robillard's dissertation (LIT-tmp5mwf4, Unfetched) and Robillard and Strawser's book (LIT-tmpewphn, Unavailable), registered for this question, were not read.

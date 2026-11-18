@@ -1,12 +1,11 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread from the exchange "Assess Depp Heard Abuse"
-  (2026-11-15 to 2026-11-17,
-  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
-  A names it at A19; no copy sought yet.
+  read 2026-11-17 (NOTE-tmpnpm7l) from the PubMed Central full text; worth
+  reading here for the attributability gap, a failure of decision
+  ownership distinct from accountability in AI-supported decisions.
 title: 'Owning Decisions: AI Decision-Support and the Attributability-Gap'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-17'
@@ -18,6 +17,15 @@ history:
     Engineering Ethics 30(4), online 2024-06-18. `published:` is
     2024-06-18, the online date Crossref gives. No email address was
     sent to any service.
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Read on 2026-11-17 from the PubMed Central full text,
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC11189344/ (PMID 38888795), in
+    full except the references; NOTE-tmpnpm7l, THEORY-tmpzdtc8. Science and
+    Engineering Ethics 30(4): article 27; received 3 April 2023, accepted
+    30 April 2024, published 18 June 2024; Leibniz Universität Hannover.
+    Deferred → Active.
 tags:
 - ethics
 - philosophy-of-technology
@@ -35,15 +43,18 @@ keywords:
 implementations: []
 summary: >-
   Jannik Zeiser (2024). Owning Decisions: AI Decision-Support and the
-  Attributability-Gap. *Science and Engineering Ethics* 30(4). DOI
-  10.1007/s11948-024-00485-1. Here because A cites it in the exchange
-  "Assess Depp Heard Abuse" as A's source for the distinction between
-  attributability and accountability in AI-supported decisions. It bears
-  on [CLAIM-022](../claims.d/CLAIM-022.md) (explaining efficacy does not settle whose the will is)
-  and on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md). The anthology may want it for AI decision
-  support. What the exchange says of it is unverified until read.
+  Attributability-Gap. *Science and Engineering Ethics* 30(4): 27. Most AI
+  in use is decision support, with a human making the final decision. The
+  threat is less to accountability than to attributability: a decision can
+  express value-judgements embedded in the tool that its human maker has
+  not endorsed. Three remedies: endorse the tool's values through
+  transparency, customise the tool, or confine it to description. Even
+  descriptive tools carry value-judgements, so attributability comes in
+  degrees; "responsibility without attributability" remains possible where
+  only blame and liability are wanted. Read in NOTE-tmpnpm7l;
+  THEORY-tmpzdtc8.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpb47ul THEORY-tmpzdtc8 QUESTION-068 TERM-tmp8pnnr — filed now from the same exchange or new, temporary codes, Deferred or Proposed -->
 
 # LIT-tmp3iik8: Owning Decisions: AI Decision-Support and the Attributability-Gap
 
@@ -51,8 +62,25 @@ Jannik Zeiser (2024). Owning Decisions: AI Decision-Support and the Attributabil
 
 ## Key takeaways
 
-*Not read; as the exchange describes it.* A19: "Zeiser calls attention to this problem of *attributability*, which is related to but distinct from accountability." Unverified until read.
+- **The gap**: a decision-tool that "presupposes values that have a
+  significant influence on the outcome of the decision and that they
+  haven't endorsed as their own values"; "Despite being technically made by
+  a human the decision doesn't reflect characteristics of Susan's
+  judgement."
+- **Distinct from accountability**: "the right person to blame didn't
+  actually make the decision, such as when a manager takes the blame for
+  her employee".
+- **Degrees**: "attributability might not be a binary property, but a
+  gradual one."
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between attributability and accountability in AI-supported decisions. It bears on [CLAIM-022](../claims.d/CLAIM-022.md) (explaining efficacy does not settle whose the will is) and on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md). The anthology may want it for AI decision support. Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between attributability and accountability in AI-supported decisions. Read on 2026-11-17 (NOTE-tmpnpm7l). It corroborates CLAIM-022 and bears on QUESTION-068 (THEORY-tmpzdtc8), and gives TERM-tmp8pnnr a source for a narrower attributability sense. On CLAIM-tmpb47ul it says only that a user can be accountable for a decision not attributable to her. The anthology may want it for AI decision support.
+
+**The exchange's characterization: faithful.** A19's "related to but
+distinct from accountability" and its gloss, "whose *value judgment* the
+decision actually expresses", are the paper's. A's doctor example is A's
+(Zeiser uses a recruiter and therapy-prediction algorithms) and makes the
+same point. A's follow-on, about someone else determining "the evaluative
+framework", goes slightly beyond the paper, which concerns the tool's
+embedded values, not an institution's framework.

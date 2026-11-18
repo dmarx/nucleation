@@ -1,0 +1,110 @@
+---
+status: Read
+paper: 'LIT-tmpvjyqr'
+title: 'Johnson, interviewed by Ooms — A Sociologist''s Perspective on Domestic Violence'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Read in full on 2026-11-17 from CLASP's PDF,
+    https://www.clasp.org/sites/default/files/public/resources-and-publications/states/0314.pdf,
+    7 pages, text by pdftotext. Nothing skipped. The quotes below were
+    rechecked by the filer against that text on 2026-11-18. Read as a
+    stand-in for Johnson (1995), LIT-tmpozb57, and Johnson (2008),
+    LIT-tmp5254i.
+date: '2026-11-18'
+summary: >-
+  Johnson, in his own words in 2006, sorts intimate partner violence into
+  situational couple violence, intimate terrorism and violent resistance
+  by the control context in which it occurs, not by its acts, and explains
+  the gender-symmetry dispute as two literatures sampling different types.
+  Three types only; no mutual violent control.
+---
+<!-- inactive-ok-file: LIT-tmpozb57 LIT-tmp5254i — Unfetched or Unavailable; the works this stands in for -->
+<!-- inactive-ok-file: CLAIM-tmpkivlz CASE-tmpzt3zf — Proposed; the entries this reading bears on -->
+
+# NOTE-tmpubjbq: Johnson, interviewed by Ooms — A Sociologist's Perspective on Domestic Violence
+
+## Contribution
+
+Johnson's own concise statement, in 2006, of the typology the 2008 book
+develops: intimate partner violence comes in kinds distinguished by the
+control context, and the kinds have different sources, gender patterns and
+remedies. It also gives his argument from sampling: agency data and general
+surveys reach different kinds.
+
+## Key results
+
+- **Three types** (p. 3): "Situational couple violence is the most common
+  form of intimate partner violence." "Intimate terrorism is the kind of
+  intimate partner violence that involves a batterer who terrorizes and
+  takes complete control of his partner through the use of violence in
+  combination with other control tactics". "Violent resistance is the
+  violence involved when a victim of intimate terrorism fights back."
+- **Gender** (p. 3): situational couple violence "is almost as likely to be
+  perpetrated by women as by men, men do more serious damage".
+- **Sampling** (pp. 3–4): "40% refuse in the major family violence
+  surveys", and the refusers include, he says, "almost all of the intimate
+  terrorists and their victims". The two camps "are talking about two
+  completely different phenomena (intimate terrorism and situational couple
+  violence), but both are using the same term (domestic violence)".
+- **Danger** (p. 3): "all three types of violence can be dangerous, even
+  life-threatening".
+- **Practice** (p. 6): "The appropriate clinical interventions for
+  situational couple violence (anger management, couple communication,
+  impulse control, and so on) are not only inappropriate for intimate
+  terrorism, they are dangerous."
+- **Classification** (p. 7): "it would be important to ask them about the
+  power and control issues involved in their relationship, and about the
+  presence of fear in their relationship."
+- **Justification** (p. 5): "in the case of violent resistance a case can
+  sometimes be made that the violence was justified".
+
+## Assumptions
+
+- The type is fixed by the control context, not by the violence.
+- Heterosexual relationships throughout.
+- That survey refusers include almost all intimate terrorists and their
+  victims is asserted, not shown.
+
+## Concepts
+
+- **Intimate terrorism**: violence combined with other control tactics to
+  take control of a partner (later also "coercive controlling violence").
+- **Situational couple violence**: violence arising from conflicts, without
+  a pattern of control.
+- **Violent resistance**: a victim of intimate terrorism fighting back.
+- The gender-symmetry debate; the Power and Control Wheel.
+
+## Bearing on the record
+
+- **CLAIM-tmpkivlz** (who harmed whom and who had power are separate
+  questions): corroborates, in a domain-specific form. Johnson sorts
+  violence by "the power and control issues involved", not by count or
+  severity, and holds that "all three types" can be dangerous, so a
+  dangerous act does not settle the control context. He does not speak to
+  the culpability of each party's acts.
+- **CASE-tmpzt3zf** (Carol and Dan): Carol's strikes inside Dan's control
+  are what Johnson calls violent resistance. The case adds that her acts
+  keep their own verdict; Johnson says only that a case "can sometimes be
+  made" that such violence was justified.
+
+## Connections
+
+Stands in for Johnson (1995), LIT-tmpozb57, and Johnson (2008),
+LIT-tmp5254i.
+
+- It restates the core of the 2008 typology: types distinguished by control
+  context; intimate terrorism, situational couple violence and violent
+  resistance; the sampling argument.
+- It does not restate the 1995 paper's terms ("patriarchal terrorism",
+  "common couple violence"), data or argument, nor the 2008 book's
+  evidence, analyses or fourth type (mutual violent control), which it
+  never mentions.
+
+## Limitations
+
+An edited interview, not a study. Its figures (for example "more than two
+million women") are given without sources. It predates the book's fuller
+treatment.
