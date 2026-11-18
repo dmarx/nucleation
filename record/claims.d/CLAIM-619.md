@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmplgp4k
 title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers'' access and incentives'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -32,6 +32,18 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-057), a paragraph declares what TERM-118 asks of each use: both
+    dispositions are the organization's, within the boundary of its
+    procedures for receiving and answering challenge; the
+    counter-corrective disposition is meant in the tendency sense (sense
+    2), as the summary's "standing tendency" already said, and the
+    disposition to be corrected in the ability sense (sense 1), the
+    corrective capacity of A's review. The claim, its title and its
+    status are unchanged; a dated note says what holds it back.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -137,6 +149,14 @@ not the count of later challenges (the reader's gloss). The claim is of
 the counter-corrective response, whichever route realizes it. The
 wording of the qualification is A's; adopting it is the owner's call.
 
+Which senses, as TERM-118 asks. Both dispositions are the
+organization's, within the boundary of its procedures for receiving and
+answering challenge. The counter-corrective disposition is meant in the
+term's tendency sense (sense 2): what the organization characteristically
+does when a credible challenge arrives. The disposition to be corrected is
+meant in the ability sense (sense 1): the corrective capacity that A's
+review says a fink destroys and a mask leaves in place.
+
 The claim has content beyond any of these labels: the mechanism
 (inversion), the self-certifying absence of later challenges, and a test
 against a control. So it is filed as a claim, and the term points to it.
@@ -206,3 +226,7 @@ because of past experience (pp. 20–21). The evidence is testimony without
 a control, so it cannot show that a credible challenge causally lowers the
 chance of effective future challenge. Filed as `corroborates`. Chapters 1
 and 2 are the next reading. No status change.
+
+## Note of 2026-11-18: what holds it back
+
+It is stated in TERM-118, which is not adopted: the term's settle condition, that every use of "disposition" says which bearer and which sense, is unmet in ARG-069, which leaves its bearer open, in ARG-059, which still calls this claim a fink of the disposition to be corrected though the term's finking row and this claim's version 2 say the diagnostic does not establish one, and in CLAIM-697, which names its bearer but not its sense. Its premises CLAIM-402 and CLAIM-406 and its grounds are held, and no objection is filed.

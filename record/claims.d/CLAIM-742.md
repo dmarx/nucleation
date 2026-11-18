@@ -215,3 +215,7 @@ No status changes.
 Lunney and Lueder 2016, the SRE chapter "Postmortem Culture", read ([THEORY-2000](../theory.d/THEORY-2000.md), corroborates). An organization's codified practice keeps correction, "effective preventive actions", while withholding blame: a postmortem "must focus on identifying the contributing causes of the incident without indicting any individual or team", and "Writing a postmortem is not punishment". The ground it gives is disclosure, not the agent's innocence: under blame "people will not bring issues to light for fear of punishment". That is a practice in which the grounds of correction are explicitly not the grounds of blame. It corroborates the claim as a practice that exists; it is not evidence that correction so grounded works.
 
 No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+It is stated in TERM-127, which is not adopted (the term's note of 2026-11-18). The claim itself names its senses, culpability for blame and the remedial sense for accountability, so it waits only on the term. No objection is filed.

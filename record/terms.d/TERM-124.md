@@ -145,3 +145,7 @@ A adds a test for the capacity: Δ_A α_J(u_A) = α_J(u_A) − α_J(u_A^0), B's 
 The term's "declared standard of answerability" had no definition on the record. [TERM-126](TERM-126.md), filed from the same exchange, proposes one.
 
 No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Not adopted: one use departs from the definition. CLAIM-730's title says "the rule dominates them without anyone actively intervening", making a rule the holder where relatum 2 requires an agent or role, which is this term's first condition under "What would unsettle it". Either CLAIM-730 names the holder, whoever controls the slow level's revision, or the term widens relatum 2. Every other user means the term's one sense, and CLAIM-727 was found not to be stated in it and no longer lists it.

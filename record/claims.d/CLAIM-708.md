@@ -430,3 +430,7 @@ Eggert 2023, read ([NOTE-2040](../notes.d/NOTE-2040.md), [THEORY-1982](../theory
 Tessman's Burdened Virtues ([LIT-2698](../literature.d/LIT-2698.md)) is Unavailable.
 
 No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+It is stated in TERM-127, which is not adopted: the term's list of senses has unanswered readings against it, and this claim does not say which sense its "answer for that wrong" means for the structuring party, culpability, remedial or constitutive responsibility, which the term's own rule, that a verdict in one sense does not settle another, makes the claim's content turn on. No objection is filed.

@@ -67,3 +67,7 @@ At the boundary [ADR-099](../decisions.d/ADR-099.md) draws. Whose a desire is, a
 
 - Not that origin never matters. Manipulation can wrong a person whatever its object; the claim is about what a critique of the wants themselves needs.
 - Not which objects are worthwhile; [CLAIM-680](CLAIM-680.md) holds that no institution may settle it by imposition.
+
+## Note of 2026-11-18: what holds it back
+
+An account that discriminates among socially formed desires by how they were formed, without appeal to their objects' worth, is the kind its defeated_if names, and the record holds one Proposed and unanswered here: THEORY-047's regulation introjected under controlling conditions. The step "since every preference is socially formed" answers critiques by social origin as such, not by manner of formation; the claim assigns whose a desire is to the authenticity line, but its title's "cannot rest on their origin alone" is wider, so it should either say why such accounts are not a critique of the wants themselves or narrow to origin as such.
