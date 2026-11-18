@@ -26,11 +26,11 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its CLAIM-tmpgh3v2 (a slowly revised rule over a fast process, A33 §4
+    its CLAIM-730 (a slowly revised rule over a fast process, A33 §4
     and §8) was compared with this entry and judged distinct (its second
     clause is this claim's architecture, but its first, temporal domination,
     is not held here, and this claim is an objection to CLAIM-710);
-    complements CLAIM-tmpgh3v2 added; a sentence on the difference added. No
+    complements CLAIM-730 added; a sentence on the difference added. No
     change of status or title.
 role: counter
 warrant: interpretive
@@ -54,7 +54,7 @@ objects_to:
 - CLAIM-710
 complements:
 - CLAIM-478
-- CLAIM-tmpgh3v2
+- CLAIM-730
 summary: >-
   A's, from A33 §8 and A35 §7 of the exchange "Assess Depp Heard Abuse"
   (2026-11-15), which A itself called "an important correction to our
@@ -66,7 +66,7 @@ summary: >-
   opportunities lie, and leaves the "exposes" reading standing. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpgh3v2 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-730 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-710 — filed with this objection, Proposed -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the record's scale-separation claim, cited with its standing -->
 
@@ -122,7 +122,7 @@ constraint on what moves fast.
 
 ## Beside the continuation's filing
 
-[CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md), from the continuation of the same exchange, states this
+[CLAIM-730](CLAIM-730.md), from the continuation of the same exchange, states this
 claim's architecture as its second clause and adds, from A33 §4, the other
 side of the same timescale separation: where the slow level cannot be
 revised on demand, the fast process changes the world before those it harms

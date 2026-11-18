@@ -52,7 +52,7 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its CLAIM-tmpohafo (explanation, contestation and interruption) was
+    its CLAIM-740 (explanation, contestation and interruption) was
     compared with this term and judged distinct, an entitlement of an
     affected party and not a property of a step; a sentence on the
     difference added. No change of status or title.
@@ -79,7 +79,7 @@ summary: >-
   in this session); adopting it is the owner's call.
 
 ---
-<!-- inactive-ok-file: CLAIM-tmpohafo — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-740 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-706 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-1609 LIT-2660 — Deferred; Herd and Moynihan, unread -->
 <!-- inactive-ok-file: CLAIM-710 CLAIM-711 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
@@ -141,7 +141,7 @@ choosing a word; [CLAIM-706](../claims.d/CLAIM-706.md) says what holds either wa
 
 The continuation of the same exchange filed A23 §6's three entitlements
 of an affected party, explanation, contestation and interruption, as
-[CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md). Its interruption is an entitlement, which a gate in this
+[CLAIM-740](../claims.d/CLAIM-740.md). Its interruption is an entitlement, which a gate in this
 term's sense may or may not give; the two are distinct and are not to be
 read as one.
 

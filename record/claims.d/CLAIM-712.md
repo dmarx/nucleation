@@ -10,10 +10,10 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its CLAIM-tmp238zy (cognitive against political friction, A23 §7) was
+    its CLAIM-715 (cognitive against political friction, A23 §7) was
     compared with this entry and judged distinct (this claim is about what a
     complete record leaves out; that one about scrutiny required without
-    authority and then cited as ownership); complements CLAIM-tmp238zy
+    authority and then cited as ownership); complements CLAIM-715
     added; a sentence on the difference added. No change of status or title.
 role: thesis
 warrant: interpretive
@@ -39,7 +39,7 @@ complements:
 - CLAIM-707
 - CLAIM-708
 - CLAIM-523
-- CLAIM-tmp238zy
+- CLAIM-715
 summary: >-
   A's, from A19 §9 of the exchange "Assess Depp Heard Abuse" (2026-11-15):
   "A technology can improve the traceability of decisions while worsening
@@ -55,7 +55,7 @@ summary: >-
   not a theory of fair attribution. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp238zy — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-715 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CASE-277 ARG-112 CLAIM-707 CLAIM-708 THEORY-1931 THEORY-1915 ADR-075 — filed from the exchange "Assess Depp Heard Abuse" or its reviews, Proposed -->
 
 # CLAIM-712: Traceability does not settle fair attribution: a record can identify exactly which agent approved an outcome while leaving open whether that agent had the time, information, authority and alternatives that responsibility for it requires, so two arrangements with equally complete audit trails can warrant very different attributions
@@ -98,7 +98,7 @@ not. Argued in [ARG-112](../arguments.d/ARG-112.md).
 - The HKMA paper's "A formal approval step is not, by itself, meaningful
   human oversight" ([THEORY-1931](../theory.d/THEORY-1931.md)), and Zeiser's attributability gap
   ([THEORY-1915](../theory.d/THEORY-1915.md)), are readings in the same neighbourhood.
-- [CLAIM-tmp238zy](CLAIM-tmp238zy.md), from the continuation of the same exchange (A23
+- [CLAIM-715](CLAIM-715.md), from the continuation of the same exchange (A23
   §7): friction that makes people think differs from friction that makes
   an institution answerable, and a scrutiny requirement can be cited as
   ownership. Distinct from this claim, which is about what a complete

@@ -126,7 +126,7 @@ automation bias). Relation: none proposed; a cross-reference.
 
 ## Note of 2026-11-17: the economics of nominal oversight, a variant, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: CLAIM-707 CLAIM-713 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
-<!-- inactive-ok-file: CLAIM-tmp238zy — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-715 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A19 §2 of the exchange "Assess Depp Heard Abuse" (2026-11-15) gives a
 hospital AI variant of this case, with a deterioration-prediction tool and
@@ -148,6 +148,6 @@ formal discretion and lose the time to use it, which is how a justified
 objection fails to become effective without any rule against it. The
 mechanisms are filed from the same exchange: the unbudgeted subsidy
 ([CLAIM-713](../claims.d/CLAIM-713.md)), blame landing where failure is visible ([CLAIM-707](../claims.d/CLAIM-707.md)),
-and verification required and then cited as ownership ([CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)).
+and verification required and then cited as ownership ([CLAIM-715](../claims.d/CLAIM-715.md)).
 
 No status changes.

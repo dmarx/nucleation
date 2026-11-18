@@ -14,7 +14,7 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its CASE-tmpohiyo (a proposed study of a fall in complaints) was
+    its CASE-290 (a proposed study of a fall in complaints) was
     compared with this claim and judged distinct; a sentence on the
     difference added. No change of status or title.
 role: thesis
@@ -53,7 +53,7 @@ summary: >-
   [CLAIM-700](CLAIM-700.md)'s loop needs. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpohiyo — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CASE-290 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-713 CLAIM-700 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: CLAIM-614 THEORY-1928 — Proposed; non-legibility of harm and the Elish reading, cited with their standing -->
 
@@ -100,7 +100,7 @@ invisibility. Kept apart, each link can be looked for where it occurs.
 - [CLAIM-707](CLAIM-707.md): the crumple-zone claim this was split from.
 - [CLAIM-614](CLAIM-614.md): an organization can keep harm non-legible by the projections it
   reproduces. Unseen prevention is a non-legibility of its own dependence.
-- [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md), from the continuation of the same exchange, is a
+- [CASE-290](../cases.d/CASE-290.md), from the continuation of the same exchange, is a
   proposed study of a fall in complaints, to tell satisfaction from
   tolerance. It is distinct: it would observe [CLAIM-700](CLAIM-700.md)'s quiet link, not
   the visibility of compensation that this claim is about.

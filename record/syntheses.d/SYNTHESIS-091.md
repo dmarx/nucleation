@@ -16,10 +16,10 @@ history:
   note: >-
     At the synthesis review of 2026-11-17, after the filing of the
     exchange "Assess Depp Heard Abuse": three components filed from it
-    are integrated, the owner's CLAIM-tmp613ja (a verdict taken as a
+    are integrated, the owner's CLAIM-718 (a verdict taken as a
     premise to find the organization that makes it true), A's
-    CLAIM-tmpx1g4r (four judgments about an authority, as corrected) and
-    the owner's QUESTION-tmplax2r (from where legitimacy and adequacy).
+    CLAIM-746 (four judgments about an authority, as corrected) and
+    the owner's QUESTION-485 (from where legitimacy and adequacy).
     The introduction, summary, account, component list, links and "Not
     stated" say so. No other change.
 title: "What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open"
@@ -57,13 +57,13 @@ integrates:
 - ARG-081
 - ARG-082
 - ARG-083
-- CLAIM-tmp613ja
-- QUESTION-tmplax2r
-- CLAIM-tmpx1g4r
+- CLAIM-718
+- QUESTION-485
+- CLAIM-746
 bears_on:
 - QUESTION-128
 - QUESTION-129
-- QUESTION-tmplax2r
+- QUESTION-485
 summary: >-
   A part account of the organizational-normativity line: the part on what
   a normative judgment about an organization needs before it can be made
@@ -76,10 +76,10 @@ summary: >-
   organization's own dynamics, is where the assistant's [CLAIM-648](../claims.d/CLAIM-648.md) and
   [CLAIM-650](../claims.d/CLAIM-650.md) sit, with the constructions and the study that test them.
   [QUESTION-454](../questions.d/QUESTION-454.md), on surrogate authority, stores no relation; its note maps
-  it to [CLAIM-518](../claims.d/CLAIM-518.md)'s histories. The owner's CLAIM-tmp613ja, resting on
+  it to [CLAIM-518](../claims.d/CLAIM-518.md)'s histories. The owner's CLAIM-718, resting on
   CLAIM-363, takes a verdict as a premise to find what organization makes
-  it true; the owner's QUESTION-tmplax2r asks where legitimacy and
-  adequacy come from, and A's CLAIM-tmpx1g4r separates four judgments
+  it true; the owner's QUESTION-485 asks where legitimacy and
+  adequacy come from, and A's CLAIM-746 separates four judgments
   about an authority. The account adds nothing of its own; its standing is its
   components'.
 ---
@@ -87,7 +87,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-038 THEORY-464 — Proposed; the line's account, and a citation -->
 <!-- inactive-ok-file: CLAIM-511 CLAIM-608 CLAIM-648 CLAIM-649 CLAIM-650 CASE-239 CASE-240 CASE-241 CASE-243 ARG-043 ARG-082 ARG-083 THEORY-220 THEORY-444 THEORY-1285 TERM-083 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-081 — Rejected; a component, with its standing -->
-<!-- inactive-ok-file: CLAIM-tmp613ja CLAIM-tmpx1g4r CLAIM-tmpmeabu — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open; components at version 3, and citations -->
+<!-- inactive-ok-file: CLAIM-718 CLAIM-746 CLAIM-737 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open; components at version 3, and citations -->
 <!-- inactive-ok-file: CASE-229 CASE-263 CASE-264 ARG-055 — Proposed; citations at version 3, with their standing -->
 
 # SYNTHESIS-091: What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open
@@ -191,7 +191,7 @@ be read off a present organization, "a surrogate's authority cannot be
 checked from the present arrangement alone, which is [CLAIM-518](../claims.d/CLAIM-518.md)'s point
 about histories", calling it "An interpretive mapping, not an answer".
 
-**Taking the verdict as a premise.** [CLAIM-tmp613ja](../claims.d/CLAIM-tmp613ja.md) (the owner's U19 of
+**Taking the verdict as a premise.** [CLAIM-718](../claims.d/CLAIM-718.md) (the owner's U19 of
 "Assess Depp Heard Abuse", 2026-11-16; the name "normative morphology"
 and the three-step test against circularity are A39's; thesis,
 interpretive, Proposed; also dependence-and-domination) rests on
@@ -205,26 +205,26 @@ record's stipulated pairs ([CASE-264](../cases.d/CASE-264.md), [CASE-229](../cas
 already use the method without its third step, and that whether the
 standard behind a verdict is justified is [QUESTION-129](../questions.d/QUESTION-129.md)'s question.
 
-**Legitimacy and adequacy.** [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md) (the owner's U31,
+**Legitimacy and adequacy.** [QUESTION-485](../questions.d/QUESTION-485.md) (the owner's U31,
 2026-11-16; A71's survey is carried in its body as A's; Open; also
 dependence-and-domination) stores no relation: "From where does a
 relationship, a capability or a restriction derive its legitimacy, and
 from where its adequacy?" Its body names [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md),
 [CLAIM-348](../claims.d/CLAIM-348.md), [QUESTION-129](../questions.d/QUESTION-129.md) (narrower in object, wider in asking for
 adequacy), [QUESTION-454](../questions.d/QUESTION-454.md) ("One case of this question") and [QUESTION-464](../questions.d/QUESTION-464.md),
-and says [CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md) and [QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md) are on its first half.
-[CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md) (A's, A74 §9 and A76 X, corrected by the filer; thesis,
+and says [CLAIM-746](../claims.d/CLAIM-746.md) and [QUESTION-482](../questions.d/QUESTION-482.md) are on its first half.
+[CLAIM-746](../claims.d/CLAIM-746.md) (A's, A74 §9 and A76 X, corrected by the filer; thesis,
 interpretive, Proposed; also realizability) rests on [CLAIM-560](../claims.d/CLAIM-560.md), [CLAIM-075](../claims.d/CLAIM-075.md)
-and [CLAIM-tmpmeabu](../claims.d/CLAIM-tmpmeabu.md), bears on [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md) and [QUESTION-129](../questions.d/QUESTION-129.md), and uses
+and [CLAIM-737](../claims.d/CLAIM-737.md), bears on [QUESTION-485](../questions.d/QUESTION-485.md) and [QUESTION-129](../questions.d/QUESTION-129.md), and uses
 [TERM-085](../terms.d/TERM-085.md): the warrant of an authority's obligations, its jurisdiction,
 its arrangement's capacity to realize them together, and its capacity to
 reach compliant arrangements and correct failures are distinct; "of the
 last two only the dynamic one implies the static one, for what it
 reaches". Its separation 3 is [CLAIM-075](../claims.d/CLAIM-075.md)'s. Its "Admission" section says
 what it adds is the ordering, five separations and one implication; its
-body says it answers none of [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md)'s grounds, and that A74
-§9's adjacent thesis is a dated note on [CLAIM-624](../claims.d/CLAIM-624.md). [CLAIM-tmpmeabu](../claims.d/CLAIM-tmpmeabu.md), outside
-this part, complements it and bears on [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md).
+body says it answers none of [QUESTION-485](../questions.d/QUESTION-485.md)'s grounds, and that A74
+§9's adjacent thesis is a dated note on [CLAIM-624](../claims.d/CLAIM-624.md). [CLAIM-737](../claims.d/CLAIM-737.md), outside
+this part, complements it and bears on [QUESTION-485](../questions.d/QUESTION-485.md).
 
 ## The components
 
@@ -243,9 +243,9 @@ this part, complements it and bears on [QUESTION-tmplax2r](../questions.d/QUESTI
 - [CASE-241](../cases.d/CASE-241.md), the assistant's construction; fictional, Proposed; also record-as-apparatus.
 - [CASE-239](../cases.d/CASE-239.md), a proposed study; stipulated, Proposed; also record-as-apparatus.
 - [ARG-082](../arguments.d/ARG-082.md) and [ARG-083](../arguments.d/ARG-083.md), Proposed; [ARG-081](../arguments.d/ARG-081.md), Rejected.
-- [CLAIM-tmp613ja](../claims.d/CLAIM-tmp613ja.md), the owner's, the test A's; thesis, interpretive, Proposed; also dependence-and-domination. No sense declared; its object is a relationship.
-- [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md), the owner's, Open; also dependence-and-domination.
-- [CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md), A's, corrected by the filer; thesis, interpretive, Proposed; also realizability. No sense declared; its object is an authority.
+- [CLAIM-718](../claims.d/CLAIM-718.md), the owner's, the test A's; thesis, interpretive, Proposed; also dependence-and-domination. No sense declared; its object is a relationship.
+- [QUESTION-485](../questions.d/QUESTION-485.md), the owner's, Open; also dependence-and-domination.
+- [CLAIM-746](../claims.d/CLAIM-746.md), A's, corrected by the filer; thesis, interpretive, Proposed; also realizability. No sense declared; its object is an authority.
 
 ## Links the components state, and where
 
@@ -263,10 +263,10 @@ cited.
   concludes [CLAIM-648](../claims.d/CLAIM-648.md); [ARG-081](../arguments.d/ARG-081.md) and [ARG-082](../arguments.d/ARG-082.md) conclude [CLAIM-650](../claims.d/CLAIM-650.md). [CLAIM-650](../claims.d/CLAIM-650.md)'s
   body says [CLAIM-648](../claims.d/CLAIM-648.md) takes up its open half, organizational maintenance.
 - [QUESTION-454](../questions.d/QUESTION-454.md)'s note of 2026-11-12 names [CLAIM-518](../claims.d/CLAIM-518.md).
-- [CLAIM-tmp613ja](../claims.d/CLAIM-tmp613ja.md) rests on [CLAIM-363](../claims.d/CLAIM-363.md). [CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md) rests on [CLAIM-075](../claims.d/CLAIM-075.md) and
-  bears on [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md) and [QUESTION-129](../questions.d/QUESTION-129.md). [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md)'s body
+- [CLAIM-718](../claims.d/CLAIM-718.md) rests on [CLAIM-363](../claims.d/CLAIM-363.md). [CLAIM-746](../claims.d/CLAIM-746.md) rests on [CLAIM-075](../claims.d/CLAIM-075.md) and
+  bears on [QUESTION-485](../questions.d/QUESTION-485.md) and [QUESTION-129](../questions.d/QUESTION-129.md). [QUESTION-485](../questions.d/QUESTION-485.md)'s body
   names [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md), [QUESTION-129](../questions.d/QUESTION-129.md), [QUESTION-454](../questions.d/QUESTION-454.md) and
-  [CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md).
+  [CLAIM-746](../claims.d/CLAIM-746.md).
 
 ## Not stated on the record
 
@@ -283,12 +283,12 @@ cited.
   does not cite the question.
 - A path from the organizational account to practical or moral authority
   ([QUESTION-128](../questions.d/QUESTION-128.md)'s second half).
-- Whether [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md) refines [QUESTION-129](../questions.d/QUESTION-129.md) or [QUESTION-128](../questions.d/QUESTION-128.md). Its body
+- Whether [QUESTION-485](../questions.d/QUESTION-485.md) refines [QUESTION-129](../questions.d/QUESTION-129.md) or [QUESTION-128](../questions.d/QUESTION-128.md). Its body
   compares it with [QUESTION-129](../questions.d/QUESTION-129.md) and calls [QUESTION-454](../questions.d/QUESTION-454.md) a case of it; it
   stores no relation.
-- An answer to [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md). [CLAIM-tmpx1g4r](../claims.d/CLAIM-tmpx1g4r.md) bears on it and says it
+- An answer to [QUESTION-485](../questions.d/QUESTION-485.md). [CLAIM-746](../claims.d/CLAIM-746.md) bears on it and says it
   answers none of its grounds.
-- Whether [CLAIM-tmp613ja](../claims.d/CLAIM-tmp613ja.md)'s method, applied to a self-maintaining system,
+- Whether [CLAIM-718](../claims.d/CLAIM-718.md)'s method, applied to a self-maintaining system,
   would test [CLAIM-648](../claims.d/CLAIM-648.md)'s self-set norm. Neither cites the other.
 
 ## What it does not say

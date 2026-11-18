@@ -284,10 +284,10 @@ the present configuration requires. It then follows from this claim and
 between the old holding and the new. No change to this claim.
 
 ## Note of 2026-11-17: a normatively permitted path set, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpol7nz — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-741 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 
 A74 §3 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) calls its threshold "a norm-constrained extension of Nucleation's CLAIM-571". With Γ_N(G₀, G₁) "the set of transitions permitted under the relevant normative constraints", b*_N(G₀, G₁) = inf over γ ∈ Γ_N of max_t r(γ(t)), and G₁ is "LegitimatelyReachable_N" from G₀ when some history in Γ(G₀, G₁; b, H) ∩ H_N exists. A's case is a court reform whose shortcuts, "suspending hearings, dismissing pending cases, or denying certain parties their ordinary protections", "may be technically feasible while violating the very obligations the reform is supposed to help fulfill".
 
-What follows, though A does not state it: Γ_N ⊆ Γ, so b*_N ≥ b*. A normative restriction on the path can raise this claim's threshold and never lower it, as [CLAIM-582](CLAIM-582.md) says of any added hard constraint. [TERM-106](../terms.d/TERM-106.md)'s reconfiguration slack already keeps "specified commitments" along the path; Γ_N is that clause with the commitments read as obligations to others. That the same endpoint reached by a permitted and an unpermitted path differs normatively is filed as [CLAIM-tmpol7nz](CLAIM-tmpol7nz.md)'s first separation.
+What follows, though A does not state it: Γ_N ⊆ Γ, so b*_N ≥ b*. A normative restriction on the path can raise this claim's threshold and never lower it, as [CLAIM-582](CLAIM-582.md) says of any added hard constraint. [TERM-106](../terms.d/TERM-106.md)'s reconfiguration slack already keeps "specified commitments" along the path; Γ_N is that clause with the commitments read as obligations to others. That the same endpoint reached by a permitted and an unpermitted path differs normatively is filed as [CLAIM-741](CLAIM-741.md)'s first separation.
 
 No status changes.
