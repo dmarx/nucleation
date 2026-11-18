@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpq7bvl
 title: 'Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (realizability). Records the
+    notes of 2026-11-15 on QUESTION-380 (a critical nucleus against a
+    protected defect) and QUESTION-397 (a spatial design with a mediator,
+    CASE-269, outside the line). No component is added. The title is
+    unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the assembly-and-nucleation part of the realizability line left out
@@ -40,7 +49,7 @@ integrates:
 - QUESTION-419
 - QUESTION-428
 ---
-<!-- inactive-ok-file: CASE-215 CASE-218 CASE-219 CASE-220 CLAIM-185 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CASE-269 CASE-215 CASE-218 CASE-219 CASE-220 CLAIM-185 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-045: Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon
 
@@ -100,7 +109,15 @@ account is built over it and its four sibling parts.*
 
 What stays open is [QUESTION-380](../questions.d/QUESTION-380.md) (A's, Open): when establishing a small,
 internally compatible subsystem makes global organization more likely, and
-how to predict it from the architecture; [QUESTION-397](../questions.d/QUESTION-397.md), its route; and
+how to predict it from the architecture. Its note of 2026-11-15 sets a
+critical nucleus, "productive because it is unstable", beside a
+topologically protected defect that may persist without catalyzing the
+target or may block it, so "Persistence and nucleating productivity come
+apart (CLAIM-595)". QUESTION-397 asks its route; its note of 2026-11-15
+takes a field-theoretic test, CASE-269 (A's proposed design; first line
+distributed-agency), whose arm with the mediator disabled "separates
+'already possessing the nucleus' from the generative route, the head start
+that CLAIM-596 says yields cannot see". Both notes say "Not run". And
 [QUESTION-400](../questions.d/QUESTION-400.md) (A's, Open): whether reallocating a fixed stock selects which
 form results. Five questions ask whether the DNA origami readings the part
 rests on reproduce: [QUESTION-402](../questions.d/QUESTION-402.md), [QUESTION-410](../questions.d/QUESTION-410.md), refined by [QUESTION-445](../questions.d/QUESTION-445.md),

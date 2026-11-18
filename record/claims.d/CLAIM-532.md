@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbeh2e
 title: 'Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent''s own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,14 @@ history:
     part in that line's argument, since it bears on QUESTION-133 and
     QUESTION-282, a question of that line. Found by the lint sweep of
     2026-11-10 as a `rests_on` step across lines. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    "Admission" added at the synthesis review of 2026-11-18
+    (realizability), carrying out what the review of 2026-11-11 left as a
+    follow-up: the separating case its reader found, and that the case
+    meets the second clause of this claim's defeated_if if the record
+    counts reweighting as self-formation. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -78,6 +86,7 @@ summary: >-
   chains, discrepancy to discrimination to response to maintained
   capacity to revised governance, are not a sequence ([CLAIM-474](CLAIM-474.md)).
 ---
+<!-- inactive-ok-file: ADR-075 — Proposed; the decision the Admission section follows -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
@@ -144,6 +153,28 @@ history of acquisition shapes autonomy ([THEORY-047](../theory.d/THEORY-047.md))
 the capacity's relations to the agent's other demands rather than in the
 capacity itself. [CASE-191](../cases.d/CASE-191.md)'s section on why the provenance result matters
 sets these out.
+
+## Admission
+
+Added at the synthesis review of 2026-11-18 (ADR-075, step 5), from the
+realizability reader's finding at the review of 2026-11-11, recorded in
+its curation entry and left there as a follow-up.
+
+- **What it adds.** CLAIM-025 separates the capacity to transform an
+  organization from the organization. This claim says what that
+  transformation must produce to count as self-formation: a maintained new
+  distinction or channel that outlasts the discrepancy and transfers
+  within its class.
+- **A separating case.** An agent whose capacity to transform only
+  reweights which of its existing processes govern (TERM-023's precedence).
+  CLAIM-025's capacity to transform is present, and no new distinction or
+  channel is produced, so the premises hold and this claim's account does
+  not apply.
+- **What the case also shows.** It is the case named in the second clause
+  of this claim's `defeated_if`. It separates the claim from its premises
+  if the record does not count such reweighting as self-formation, and it
+  defeats the claim as too narrow if the record does. No entry rules on
+  which; that is the owner's call.
 
 ## What it does not say
 

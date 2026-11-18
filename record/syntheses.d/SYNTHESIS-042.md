@@ -4,7 +4,24 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpmm13o
 title: 'What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (realizability). Integrates the
+    entries that joined this part after version 1: from 2026-11-12, the
+    peak-against-cumulative-cost construction (CLAIM-646, CASE-236,
+    ARG-078), the budget-dependent process (CLAIM-654, CASE-245, ARG-086),
+    the PASS@(k,T) mapping (CLAIM-663, ARG-093, CASE-249) and CLAIM-571's
+    construction as a case (CASE-233, ARG-077); from 2026-11-15, the
+    sampling-budget and RL claims (CLAIM-697, CLAIM-695, CLAIM-699) and
+    two proposed studies (CASE-274, CASE-275); and three claims that the
+    line-field sweep of 2026-11-11 gave this line through its questions
+    (CLAIM-025, CLAIM-478, CLAIM-577). Records the components' notes of
+    2026-11-12 to 2026-11-15. The first "Not stated" bullet is corrected:
+    CLAIM-654 now states a budget lowering what a process reaches. The
+    title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the reaching-under-resources part of the realizability line left out
@@ -72,8 +89,27 @@ integrates:
 - QUESTION-405
 - QUESTION-423
 - QUESTION-447
+- CASE-233
+- ARG-077
+- CLAIM-646
+- CASE-236
+- ARG-078
+- CLAIM-654
+- CASE-245
+- ARG-086
+- CLAIM-663
+- ARG-093
+- CASE-249
+- CLAIM-697
+- CLAIM-695
+- CLAIM-699
+- CASE-274
+- CASE-275
+- CLAIM-577
+- CLAIM-025
+- CLAIM-478
 ---
-<!-- inactive-ok-file: ADR-075 ARG-072 CASE-198 CASE-204 CASE-205 CASE-207 CASE-208 CASE-214 CASE-215 CASE-219 CASE-220 CLAIM-573 CLAIM-576 CLAIM-611 SYNTHESIS-024 TERM-111 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CASE-233 ARG-077 CLAIM-646 CASE-236 ARG-078 CLAIM-654 CASE-245 ARG-086 CLAIM-663 ARG-093 CASE-249 CLAIM-662 CLAIM-697 CLAIM-695 CLAIM-699 CASE-274 CASE-275 CLAIM-478 SYNTHESIS-096 ARG-072 CASE-198 CASE-204 CASE-205 CASE-207 CASE-208 CASE-214 CASE-215 CASE-219 CASE-220 CLAIM-573 CLAIM-576 CLAIM-611 SYNTHESIS-024 TERM-111 TERM-116 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-042: What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
 
@@ -109,7 +145,16 @@ realizability.*
   demonstrated, Active): a form's requirements to construct, maintain and
   move are separate, so "having enough to sustain it is not having enough
   to acquire it", and the acquisition no budget buys "is the disconnection
-  of [CLAIM-571](../claims.d/CLAIM-571.md)'s infinite threshold".
+  of CLAIM-571's infinite threshold". Since 2026-11-12 CLAIM-571 is grounded in
+  CASE-233, its own barrier example filed as a case (fictional, Proposed),
+  and ARG-077 (Proposed) carries the support for its "need not equal"
+  clause.
+- **Peak against cumulative cost.** CLAIM-646 (A's, demonstrated,
+  Proposed): "Peak-capacity thresholds do not fix cumulative transition
+  costs". CASE-236 (A's construction, Proposed), a chain and a complete
+  graph on the same configurations, grounds it: every threshold agrees and
+  the least spend differs by a factor of n. ARG-078 (Proposed) concludes
+  it. CASE-236 also illustrates CLAIM-581 (SYNTHESIS-040).
 - **The instances.** [CASE-206](../cases.d/CASE-206.md) (the filer's, Active): a degree-4 vertex
   whose switch passes the flat state at a footprint of about 1.866 against
   folded states of 0.75 and 0.875. [CASE-204](../cases.d/CASE-204.md) (a documented specimen,
@@ -136,6 +181,42 @@ realizability.*
   conditional demonstration, split from it, Active) the same "one level
   up, for constraint languages". [CLAIM-591](../claims.d/CLAIM-591.md) (A's, demonstrated, Active):
   under directed moves "persistence gives a necessary condition only".
+- **Budgets and processes.** CLAIM-654 (the assistant's, demonstrated,
+  Proposed; complements CLAIM-560 and CLAIM-567) marks the scope of
+  CLAIM-560's monotonicity: reachability by a given process grows with
+  the budget when its choices do not read the remaining budget, and "a
+  process whose choices depend on the remaining budget can reach a target
+  at a small budget and miss it at a larger one". CASE-245 (the
+  assistant's construction, Proposed) grounds it and ARG-086 (Proposed)
+  concludes it. CLAIM-663 (the owner's, interpretive, Proposed) maps
+  PASS@(k,T) onto the part: its capability boundary is reachability by a
+  process under a budget, its efficiency reliable attainment, and its
+  depth T a resource index. ARG-093 (the assistant's wording, analogy,
+  Proposed) concludes it, and says the analogy "fails to carry
+  monotonicity in the budget, because a policy is not a fixed move rule".
+  CASE-249 (A's construction, Proposed) is a tolerance-indexed pass rate
+  that illustrates CLAIM-663 and CLAIM-662 (organizational-normativity).
+  CLAIM-560's and CLAIM-567's notes of 2026-11-12 record the mapping.
+- **Sampling budgets and RL post-training.** CLAIM-697 (the owner's idea
+  in A's formalization, demonstrated, Proposed) complements CLAIM-567:
+  "Coverage under a sampling budget is reachability. Delivery at a
+  threshold is reliable attainment." Of CLAIM-576 it says "A budget can make
+  a process affordable without making a new one possible." CLAIM-695 (the
+  owner's idea in A's wording, empirical, Proposed) rests on it, and
+  CLAIM-699 (the assistant's, empirical, Proposed) rests on both and
+  places its test on QUESTION-392 (note of 2026-11-15). CLAIM-567's note of
+  2026-11-15 takes Brown et al. and Yue et al. as measured cases of
+  "reachable, not reliably reached" and says the claim "does not assert a
+  trade between them". CLAIM-576's note of the same day reads Brown et al.
+  as corroborating it and leaves its architecture clause unanswered.
+  CASE-274 and CASE-275 (A's proposed studies; first line
+  learned-structure) use CLAIM-697's budget axis. All six are set out in
+  the learned-structure part account SYNTHESIS-096.
+- **A budget rule that ratchets down.** CLAIM-577 (the assistant's,
+  demonstrated, Active; first line readiness) rests on CLAIM-571: "A budget
+  set each period to the peak resource spent the period before never
+  rises", so a transition whose threshold exceeds the holding cost is lost.
+  It bears on QUESTION-373 and on readiness's QUESTION-386.
 - **Obstructions and their repairs.** [CLAIM-568](../claims.d/CLAIM-568.md) (A's, interpretive, Active):
   four obstructions with their remedies, and "added actuation can overcome
   an energy barrier and cannot join disconnected configurations"; its
@@ -198,9 +279,9 @@ an organization's feasible set ([QUESTION-377](../questions.d/QUESTION-377.md)),
 rigid parts ([QUESTION-378](../questions.d/QUESTION-378.md)), synthesis of architectures from capabilities
 ([QUESTION-381](../questions.d/QUESTION-381.md)), what survives of FACT's duality ([QUESTION-383](../questions.d/QUESTION-383.md)), stress as a
 resource ([QUESTION-387](../questions.d/QUESTION-387.md)), programmable against self-governing
-reconfiguration ([QUESTION-388](../questions.d/QUESTION-388.md)), conflict as load or missing freedom
+reconfiguration (QUESTION-388, which CLAIM-025 bears on), conflict as load or missing freedom
 ([QUESTION-389](../questions.d/QUESTION-389.md)), what coupling origami modules generates ([QUESTION-390](../questions.d/QUESTION-390.md)),
-when an effective constraint fails ([QUESTION-391](../questions.d/QUESTION-391.md)), when an intervention
+when an effective constraint fails (QUESTION-391, which CLAIM-478 bears on), when an intervention
 creates a capability rather than cheapening one ([QUESTION-392](../questions.d/QUESTION-392.md)), and when
 memory helps control ([QUESTION-396](../questions.d/QUESTION-396.md)), with three replications of readings
 the part rests on ([QUESTION-405](../questions.d/QUESTION-405.md), [QUESTION-423](../questions.d/QUESTION-423.md), [QUESTION-447](../questions.d/QUESTION-447.md)).
@@ -258,6 +339,32 @@ the part rests on ([QUESTION-405](../questions.d/QUESTION-405.md), [QUESTION-423
   and [CASE-207](../cases.d/CASE-207.md) and [CASE-208](../cases.d/CASE-208.md), reported studies, filed at the owner's request,
   Proposed. [CASE-214](../cases.d/CASE-214.md), the filer's construction, Proposed; it illustrates
   [CLAIM-345](../claims.d/CLAIM-345.md), outside the line, and names no component.
+- CASE-233, CLAIM-571's construction as a case, fictional, Proposed;
+  also readiness. ARG-077, the assistant's wording, Proposed, concludes
+  CLAIM-571 from it.
+- CLAIM-646, A's, thesis, demonstrated, Proposed; also formal-apparatus;
+  grounds CASE-236 (A's construction, Proposed), which ARG-078 (Proposed)
+  turns into its support.
+- CLAIM-654, the assistant's, thesis, demonstrated, Proposed; also
+  formal-apparatus; grounds CASE-245 (the assistant's construction,
+  Proposed); ARG-086 (Proposed) concludes it; bears on QUESTION-279
+  (distributed-agency).
+- CLAIM-663, the owner's, thesis, interpretive, Proposed; also
+  formal-apparatus; grounds THEORY-1703; ARG-093 (the assistant's wording,
+  analogy, Proposed) concludes it; bears on QUESTION-279. CASE-249, A's
+  construction, Proposed; also organizational-normativity.
+- CLAIM-697, the owner's idea in A's formalization, thesis, demonstrated,
+  Proposed; also learned-structure. CLAIM-695, the owner's idea in A's
+  wording, thesis, empirical, Proposed; rests on CLAIM-697. CLAIM-699, the
+  assistant's, thesis, empirical, Proposed; rests on both; its body has an
+  "Admission" (2026-11-18). CASE-274 and CASE-275, A's proposed studies,
+  Proposed; first line learned-structure.
+- CLAIM-577, the assistant's, thesis, demonstrated, Active; first line
+  readiness, then formal-apparatus and realizability.
+- CLAIM-025, from section 6.2 of the emergency variant of Northstar, thesis, Active; first line will-organization;
+  carries realizability by bearing on QUESTION-388 (2026-11-11).
+- CLAIM-478, the owner's U12 of the exchange of 2026-10-27 with A12, thesis, Proposed; first line distributed-agency; carries
+  realizability by bearing on QUESTION-391 (2026-11-11).
 - [QUESTION-373](../questions.d/QUESTION-373.md), the assistant's, Open; also distributed-agency.
 - [QUESTION-375](../questions.d/QUESTION-375.md), [QUESTION-376](../questions.d/QUESTION-376.md), [QUESTION-383](../questions.d/QUESTION-383.md) and [QUESTION-391](../questions.d/QUESTION-391.md), A's, Open; also
   formal-apparatus.
@@ -318,6 +425,21 @@ the part rests on ([QUESTION-405](../questions.d/QUESTION-405.md), [QUESTION-423
   [TERM-114](../terms.d/TERM-114.md); [QUESTION-390](../questions.d/QUESTION-390.md) cites [CASE-206](../cases.d/CASE-206.md) and [QUESTION-385](../questions.d/QUESTION-385.md); [QUESTION-404](../questions.d/QUESTION-404.md)
   cites [CLAIM-568](../claims.d/CLAIM-568.md) and [CLAIM-556](../claims.d/CLAIM-556.md).
 
+- **The entries added in 2026-11.** CASE-198 is a variant of CASE-233 since
+  2026-11-12. CLAIM-654's summary: "The owner's PASS@(k,T) link (CLAIM-663)
+  needs this premise, and ARG-093 noted its absence." CLAIM-646's summary
+  cites CLAIM-571 and CLAIM-581. CLAIM-577's note on QUESTION-373: the question
+  says "CLAIM-577 says one condition it needs". CLAIM-025's note:
+  QUESTION-388 "cites this claim's finding that in the readings 'the
+  capacity to transform comes from outside, a robot, rig or supervisor'".
+  QUESTION-388's note of 2026-11-12 reads Kiczales et al. by analogy: "The
+  machinery of change is inside the system; what it may change is fixed
+  by designers outside it". CLAIM-478: "Silverberg et al.'s separation by
+  energy scale is the form QUESTION-391 asks about; whether it reduces to
+  a separation by time scale is open." CLAIM-571's note of 2026-11-13
+  records an exchange's use of it for institutional reform, "recorded
+  here and not filed".
+
 ## Links across to the sibling parts, stated
 
 - **To budgeted individuation ([SYNTHESIS-040](SYNTHESIS-040.md)).** [CLAIM-581](../claims.d/CLAIM-581.md) and [CLAIM-590](../claims.d/CLAIM-590.md) rest on
@@ -350,10 +472,19 @@ step 5 at this review and not filed:
   budget at a fixed architecture can lower how reliably a process reaches
   a target, by admitting a distractor branch, while it cannot shrink what
   is reachable ([CLAIM-582](../claims.d/CLAIM-582.md)'s reliability witness, with [CLAIM-560](../claims.d/CLAIM-560.md)'s and
-  [CLAIM-586](../claims.d/CLAIM-586.md)'s monotonicity). How a budget acts on a running process is a
-  free parameter: if it aborts runs that exceed it, nothing is gained at the
-  lower budget, and if it removes the unaffordable continuations, the
-  sentence is [CLAIM-582](../claims.d/CLAIM-582.md)'s witness with the constraint called a budget.
+  CLAIM-586's monotonicity). Version 1 found how a budget acts on a running
+  process a free parameter. Since 2026-11-12 CLAIM-654 closes it for one
+  reading and states the result: a process whose choices read the
+  remaining budget can reach less at a larger budget, while path
+  reachability grows. The distractor reading, a budget that removes
+  continuations from a process that does not read it, remains CLAIM-582's
+  witness with the constraint called a budget.
+- **CLAIM-697's envelope and CLAIM-654's processes.** CLAIM-697: "A
+  particular procedure need not improve with more compute; the envelope
+  does." CLAIM-654 says which processes do improve. Neither cites the
+  other, and CLAIM-663 and CLAIM-697 each map onto CLAIM-567 without
+  naming each other. Joined, they are a conjunction of the two
+  statements, with no case or derivation of their own; not filed.
 - **Placement over quantity as a general law.** That where a fixed
   quantity of intervention is spent decides more than the quantity, across
   [CLAIM-562](../claims.d/CLAIM-562.md)'s actuators, [CASE-215](../cases.d/CASE-215.md)'s timing and [CLAIM-602](../claims.d/CLAIM-602.md)'s order of supply
