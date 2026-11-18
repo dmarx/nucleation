@@ -2,9 +2,25 @@
 number: 28
 status: Proposed
 formerly:
-- SYNTHESIS-tmpexmgz
+- SYNTHESIS-028
 title: 'Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record''s steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (learned-structure). The
+    readings of 2026-11-15 changed two components: CLAIM-498's note says
+    Zhou et al. (2024) measure its averaging step for soups, and
+    QUESTION-318's note records Zhou et al. and Zhu (2026) on both its
+    halves. The account's "Each says that no reading measures it" and
+    "Proposed and unmeasured" are corrected to match. CASE-273
+    (orthogonal task updates that interact), filed the same day, is
+    integrated. Two links the account called unstated were stated after
+    it was written: CLAIM-263 bears on QUESTION-069 (its note of
+    2026-11-11), and CLAIM-633, drafted at the review of 2026-11-10, was
+    filed, resting on CLAIM-524 and bearing on QUESTION-069. Both
+    sections are corrected. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the learned-structure line (the connectedness of trained
@@ -28,11 +44,12 @@ integrates:
 - QUESTION-318
 - CLAIM-498
 - CLAIM-499
+- CASE-273
 bears_on:
 - QUESTION-069
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-2 rule its components were filed under -->
-<!-- inactive-ok-file: ADR-075 ADR-083 CLAIM-187 CLAIM-263 CLAIM-498 CLAIM-499 THEORY-107 THEORY-108 THEORY-109 THEORY-110 THEORY-209 — Proposed; components, citations and the decisions this account follows, with their standing -->
+<!-- inactive-ok-file: CASE-273 CLAIM-633 ADR-075 ADR-083 CLAIM-187 CLAIM-263 CLAIM-498 CLAIM-499 THEORY-107 THEORY-108 THEORY-109 THEORY-110 THEORY-209 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
 # SYNTHESIS-028: Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open
 
@@ -79,8 +96,22 @@ bears_on:
   many-model averages, and bears on [QUESTION-318](../questions.d/QUESTION-318.md), whose averaging half is
   its defeater. [CLAIM-499](../claims.d/CLAIM-499.md) (Proposed) is the depth clause of [THEORY-112](../theory.d/THEORY-112.md)'s
   old title, composed from Entezari et al.'s unaligned curves and
-  Ferbach et al.'s width bound, and bears on [QUESTION-317](../questions.d/QUESTION-317.md). Each says that
-  no reading measures it.
+  Ferbach et al.'s width bound, and bears on QUESTION-317. Both once said
+  that no reading measures them. CLAIM-498's note of 2026-11-15 now says
+  Zhou et al. (2024) measure its averaging step for soups of 5 and 10
+  same-task fine-tunes from one pretrained start, and leaves SWA iterates
+  and decoder-only language models open. CLAIM-499 is still unmeasured.
+- **QUESTION-318's halves, partly measured.** Its note of 2026-11-15
+  records Zhou et al. (2024) measuring layerwise linearity in CLIP
+  transformers and T5, and Zhu (2026) replicating it in decoder-only
+  language models merged from one base. For the averaging half it records
+  Zhou et al.'s soups. It says "neither half is settled".
+- **Why parameter angles do not settle composition.** CASE-273
+  (A's construction from the exchange "Explain String Theory", Proposed)
+  shows two orthogonal task updates whose joint effect exceeds the sum of
+  their separate effects. In its words, in models fine-tuned from one
+  start "layerwise feature linearity often holds approximately", "so the
+  cross term can be small in practice". It bears on QUESTION-318.
 
 ## The components
 
@@ -94,6 +125,7 @@ bears_on:
 - [CLAIM-498](../claims.d/CLAIM-498.md) and [CLAIM-499](../claims.d/CLAIM-499.md), kept by the [ADR-047](../decisions.d/ADR-047.md) sweep of 2026-10-30 (kind
   2) as the record's own steps, thesis, interpretive, Proposed; both
   tagged anthology-candidate.
+- CASE-273, A's construction (2026-11-15), stipulated, Proposed.
 
 ## Links tested as claims
 
@@ -101,22 +133,25 @@ bears_on:
   any entry. Swapping the two paths maps each of [CLAIM-524](../claims.d/CLAIM-524.md)'s endpoints to
   the other and each budgeted piece of its zero-loss set onto the other,
   so in the quotient [CLAIM-263](../claims.d/CLAIM-263.md) prescribes the budgeted set is connected.
-  It passes [ADR-075](../decisions.d/ADR-075.md)'s derivation route and is drafted as a claim
-  (the line's account; separate draft).
+  It passes ADR-075's derivation route, and it was filed as CLAIM-633
+  (Proposed), which rests on CLAIM-524 and bears on QUESTION-069. The
+  line's account (SYNTHESIS-030) integrates it.
 - **The four promotion-condition questions as one question.** A
   classification, not a claim: their common pattern is their filing
   history, which their summaries state.
 
 ## Not stated on the record
 
-- **[CLAIM-263](../claims.d/CLAIM-263.md) ([SYNTHESIS-026](SYNTHESIS-026.md)) and this part.** [CLAIM-263](../claims.d/CLAIM-263.md)'s protocol is assembled
+- **CLAIM-263 (SYNTHESIS-026) and this part's three conditions.** CLAIM-263's protocol is assembled
   from [THEORY-111](../theory.d/THEORY-111.md), [THEORY-112](../theory.d/THEORY-112.md) and [THEORY-113](../theory.d/THEORY-113.md), whose open conditions are
   [QUESTION-318](../questions.d/QUESTION-318.md), [QUESTION-317](../questions.d/QUESTION-317.md) and [QUESTION-316](../questions.d/QUESTION-316.md), and its body names
   [THEORY-108](../theory.d/THEORY-108.md)'s phase III as "a ready case for the protocol", which is
-  what [QUESTION-069](../questions.d/QUESTION-069.md) says would answer it. No relation or mention joins
-  [CLAIM-263](../claims.d/CLAIM-263.md) to any entry of this part. They meet only outside the line,
-  through [CLAIM-187](../claims.d/CLAIM-187.md) (pragmatic-transport), which rests on [CLAIM-263](../claims.d/CLAIM-263.md) and
-  which [QUESTION-069](../questions.d/QUESTION-069.md) bears on.
+  what QUESTION-069 says would answer it. Since its note of 2026-11-11,
+  CLAIM-263 bears on QUESTION-069, for that reason, so that link is
+  stated. The same note says QUESTION-316, QUESTION-317 and QUESTION-318
+  "would test this claim rather than be borne on by it, and take no
+  relation". What stays unstated is how a test of those three would bear
+  on CLAIM-263's protocol.
 - **[QUESTION-164](../questions.d/QUESTION-164.md) and [QUESTION-081](../questions.d/QUESTION-081.md) ([SYNTHESIS-034](SYNTHESIS-034.md))**: one law of balance, no
   relation ([SYNTHESIS-034](SYNTHESIS-034.md)).
 
@@ -124,8 +159,9 @@ bears_on:
 
 - That trained networks are disconnected under realistic budgets
   ([CLAIM-524](../claims.d/CLAIM-524.md)).
-- That averaging weights averages features, or that the aligned barrier
-  rises with depth: [CLAIM-498](../claims.d/CLAIM-498.md) and [CLAIM-499](../claims.d/CLAIM-499.md) are Proposed and unmeasured.
+- That averaging weights averages features in general, or that the
+  aligned barrier rises with depth. CLAIM-498 is Proposed and measured
+  only for soups from one start; CLAIM-499 is Proposed and unmeasured.
 - That a barrier surviving alignment marks a different mechanism; that is
   [CLAIM-263](../claims.d/CLAIM-263.md)'s step 2, in [SYNTHESIS-026](SYNTHESIS-026.md).
 - Anything with standing of its own.

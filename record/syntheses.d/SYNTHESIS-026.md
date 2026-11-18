@@ -2,9 +2,20 @@
 number: 26
 status: Proposed
 formerly:
-- SYNTHESIS-tmp4xa7p
+- SYNTHESIS-026
 title: 'Whether a learner''s demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (learned-structure).
+    QUESTION-466, filed by the reading review of 2026-11-14 from
+    CLAIM-356's "which operative objective the resulting system actually
+    maintains", is in the line and no account integrated it. It is
+    integrated here beside CLAIM-356, with a bullet in the account and
+    a line in the components. Nothing else changes; the title is
+    unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the learned-structure line (the frustration diagnoses of a
@@ -34,6 +45,7 @@ integrates:
 - QUESTION-122
 - QUESTION-127
 - QUESTION-286
+- QUESTION-466
 bears_on:
 - QUESTION-122
 - QUESTION-127
@@ -99,6 +111,15 @@ bears_on:
   makes the training organization the bearer of the goal its objective
   sets, "which is where [CLAIM-367](../claims.d/CLAIM-367.md) puts training-time regulatory
   conditions", and it complements [CLAIM-367](../claims.d/CLAIM-367.md).
+- **Which objective the trained system maintains.** QUESTION-466 (raised by
+  the reading review of 2026-11-14, the assistant's wording; Open) takes
+  up CLAIM-356's "we need to discover which operative objective the
+  resulting system actually maintains" for a model trained to act on some
+  of the reward-model preferences it read about. It asks whether a
+  goal-directed description with the objective "what reward models
+  prefer" beats a device description of the trained behaviours on
+  held-out and newly described preferences, and whether the network
+  restores it under perturbation.
 - **The question these serve.** [QUESTION-122](../questions.d/QUESTION-122.md) (the owner's U30; Open)
   asks whether a network in training can have affect-like states and to
   which unit they would belong. Its body places [CLAIM-367](../claims.d/CLAIM-367.md) as a partial
@@ -135,6 +156,8 @@ at T24 of the exchange "Experimental Infrastructure Review", from which
 - [CLAIM-356](../claims.d/CLAIM-356.md), the owner's (U35) granted by A35, thesis, interpretive,
   Active; also will-organization and distributed-agency (it objects to
   [CLAIM-288](../claims.d/CLAIM-288.md); the sweep of 2026-11-10 added distributed-agency).
+- QUESTION-466, raised by the reading review of 2026-11-14, the
+  assistant's wording, Open.
 - [CASE-113](../cases.d/CASE-113.md), the owner's application case with A31's systems and
   interventions, thought-experiment, stipulated, Active.
 - [CASE-197](../cases.d/CASE-197.md), A5's proposed experiment run by the reader, construction,
