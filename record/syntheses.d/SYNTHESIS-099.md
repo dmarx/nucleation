@@ -98,6 +98,7 @@ summary: >-
   in part; none corroborates CLAIM-726, CLAIM-702 or CLAIM-700. The
   account adds nothing of its own; its standing is its components'.
 ---
+<!-- inactive-ok-file: ARG-113 ARG-115 CASE-279 CASE-288 CASE-290 CASE-292 CLAIM-445 CLAIM-553 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-669 CLAIM-678 CLAIM-679 CLAIM-687 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-703 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-710 CLAIM-712 CLAIM-713 CLAIM-715 CLAIM-721 CLAIM-726 CLAIM-728 SYNTHESIS-098 SYNTHESIS-101 TERM-110 TERM-123 TERM-124 TERM-127 THEORY-1397 THEORY-1912 THEORY-1914 THEORY-1916 THEORY-1917 THEORY-1919 THEORY-1921 THEORY-1922 THEORY-1925 THEORY-1926 THEORY-1928 THEORY-1929 THEORY-1931 THEORY-1932 THEORY-1933 THEORY-1935 THEORY-1937 THEORY-1939 THEORY-1943 THEORY-1946 THEORY-1948 THEORY-1949 THEORY-1958 THEORY-1961 THEORY-1973 THEORY-1986 THEORY-1987 THEORY-1991 THEORY-1993 — Proposed; components, citations and the readings that support them, with their standing -->
 
 # SYNTHESIS-099: Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments, credited with what they supply and blame them when it fails, with what is left of its standing to blame them asked
 

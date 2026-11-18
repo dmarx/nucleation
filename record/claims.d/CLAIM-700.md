@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0tg7y
 title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members'' own best responses feed the loop'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-16'
@@ -46,6 +46,13 @@ history:
     the interim synthesis review of 2026-11-17 for the continuation
     filing's duplicate of this claim, carried over at the
     reconciliation. No change of status.
+- version: 7
+  date: '2026-11-18'
+  note: >-
+    The Admission's second route is replaced: the follow-up synthesis
+    review found the interim review's separating case no longer
+    separates, CLAIM-702 now being a premise, and gives a hospital
+    staffed to a statutory ratio instead. No change of status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -203,18 +210,23 @@ obligations and equivalent present performance", one with reconfiguration
 slack and one with exactly enough to sustain the present configuration, and
 introduce a failure that needs a transition.
 
-**A second route, by a separating case** (the interim synthesis review of
-2026-11-17, [SYNTHESIS-099](../syntheses.d/SYNTHESIS-099.md), Arm A, carried over at the reconciliation
-of 2026-11-18). What the claim adds is that unpaid extra work keeping
-measured performance acceptable is invisible to a budget rule set on that
-performance, so the rule removes capacity in use; none of [CLAIM-577](CLAIM-577.md),
-[CLAIM-549](CLAIM-549.md) or [CLAIM-713](CLAIM-713.md) states it. The separating case: a hospital whose
-unpaid extra hours are logged and read by the budget rule as demand. Every
-premise holds, but the shortfall is not hidden from the rule, so no
-capacity in use is cut and the loop does not close. Read with "measured
-performance" as output measured against obligations, the case falls
-outside the claim, which is then separate from its premises and not shown
-false by it.
+**A second route, by a separating case** (the follow-up synthesis review
+of 2026-11-18, SYNTHESIS-099, Arm A). What the claim adds is that unpaid
+extra work keeping measured performance acceptable is invisible to a
+budget rule set on that performance, so the rule removes capacity in use;
+none of CLAIM-679, CLAIM-549, CLAIM-702 or CLAIM-713 states it. The
+separating case: a hospital whose staffing is fixed by a statutory
+nurse-to-patient ratio, not by observed performance. Every premise can
+hold (the compensation is unseen and credited to the institution, the
+quiet is not satisfaction, the subsidy runs), but no rule budgets to what
+is observed, so no cut follows and the loop does not close. The case is
+realistic and does not meet the claim's defeater, which needs a budget set
+from observed performance, so it shows the claim separate from its
+premises, not false. The strategic clause passes separately, by the
+discriminating prediction that under a ratchet members conceal spare
+capacity. (The interim review's case, a hospital that logs unpaid hours,
+no longer separates: logging makes the compensation visible, which
+CLAIM-702, now a premise, excludes.)
 
 ## What it does not say
 
