@@ -142,4 +142,4 @@ CLINIC v. Rubio, ECF No. 83, read ([NOTE-2054](../notes.d/NOTE-2054.md), [THEORY
 
 ## Note of 2026-11-18: what holds it back
 
-CLAIM-725 went Active at this review, but both grounds are Proposed. THEORY-1952's promote_when asks for page-cited quotations of each holding, and NOTE-2054 quotes the nationality (p. 34) and § 1104(a) (p. 42) holdings but gives the § 1201(g) and 22 C.F.R. § 40.6 holding without a pinpoint. CASE-289 still says the record has not read the opinion, and the three corrections its note of 2026-11-17 names are not yet written into its text.
+[CLAIM-725](CLAIM-725.md) went Active at this review, but both grounds are Proposed. [THEORY-1952](../theory.d/THEORY-1952.md)'s promote_when asks for page-cited quotations of each holding, and [NOTE-2054](../notes.d/NOTE-2054.md) quotes the nationality (p. 34) and § 1104(a) (p. 42) holdings but gives the § 1201(g) and 22 C.F.R. § 40.6 holding without a pinpoint. [CASE-289](../cases.d/CASE-289.md) still says the record has not read the opinion, and the three corrections its note of 2026-11-17 names are not yet written into its text.

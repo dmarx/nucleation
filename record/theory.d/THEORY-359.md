@@ -36,7 +36,6 @@ summary: >-
 bears_on:
 - QUESTION-095
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # THEORY-359: Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode
 

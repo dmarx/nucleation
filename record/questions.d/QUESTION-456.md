@@ -214,7 +214,7 @@ outside the tool. It shows how much rides on that choice (calibration buys
 FPR parity at a reported TPR cost) without resolving it.
 
 ## Note of 2026-11-17: recognized against warranted demands, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-743 CLAIM-727 — Proposed; the last two filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-743 — Proposed; the last two filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A85 §9 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17), after the Ninth Amendment, separates D_recognized(t) ⊆ D_justified(t): "The first is the set of claims the institution presently recognizes. The second is the set of claims actually warranted under the normative theory." The danger is assuming they are equal "solely because no further claims have been formally recognized. This is a form of normative closure." Its principle: "**An institution's failure to recognize a justified claim does not, by itself, establish the claim's absence; nor does the institution's authority to administer a catalogue of rights necessarily confer unrestricted authority to determine that catalogue's moral completeness.**" A97 IV restates the pair as D_recognized and D_warranted,N, "particularly important when the institution controls the mechanisms through which demands become recognized."
 

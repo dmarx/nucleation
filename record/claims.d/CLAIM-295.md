@@ -57,7 +57,7 @@ bears_on:
 - QUESTION-108
 - QUESTION-112
 ---
-<!-- inactive-ok-file: CLAIM-250 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-295: A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
 

@@ -148,7 +148,7 @@ not the count of later challenges (the reader's gloss). The claim is of
 the counter-corrective response, whichever route realizes it. The
 wording of the qualification is A's; adopting it is the owner's call.
 
-Which senses, as TERM-118 asks. Both dispositions are the
+Which senses, as [TERM-118](../terms.d/TERM-118.md) asks. Both dispositions are the
 organization's, within the boundary of its procedures for receiving and
 answering challenge. The counter-corrective disposition is meant in the
 term's tendency sense (sense 2): what the organization characteristically
@@ -228,4 +228,4 @@ and 2 are the next reading. No status change.
 
 ## Note of 2026-11-18: what holds it back
 
-It is stated in TERM-118, which is not adopted: the term's settle condition, that every use of "disposition" says which bearer and which sense, is unmet in ARG-069, which leaves its bearer open, in ARG-059, which still calls this claim a fink of the disposition to be corrected though the term's finking row and this claim's version 2 say the diagnostic does not establish one, and in CLAIM-697, which names its bearer but not its sense. Its premises CLAIM-402 and CLAIM-406 and its grounds are held, and no objection is filed.
+It is stated in [TERM-118](../terms.d/TERM-118.md), which is not adopted: the term's settle condition, that every use of "disposition" says which bearer and which sense, is unmet in [ARG-069](../arguments.d/ARG-069.md), which leaves its bearer open, in [ARG-059](../arguments.d/ARG-059.md), which still calls this claim a fink of the disposition to be corrected though the term's finking row and this claim's version 2 say the diagnostic does not establish one, and in [CLAIM-697](CLAIM-697.md), which names its bearer but not its sense. Its premises [CLAIM-402](CLAIM-402.md) and [CLAIM-406](CLAIM-406.md) and its grounds are held, and no objection is filed.

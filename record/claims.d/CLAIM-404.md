@@ -485,7 +485,6 @@ choices, without dictating them; outlets' editorial-algorithm committees
 
 ## Note of 2026-11-15: a third route, through circumstances, from "Assess Depp Heard Abuse"
 
-<!-- inactive-ok-file: CLAIM-703 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: LIT-1339 — Unavailable; Thomas on reflexive control, unread -->
 
 At U6 of the exchange "Assess Depp Heard Abuse"

@@ -186,4 +186,4 @@ Szakonyi 2025, read ([NOTE-2056](../notes.d/NOTE-2056.md), [THEORY-1953](../theo
 
 ## Note of 2026-11-18: what holds it back
 
-It is stated in TERM-124, which is not adopted: CLAIM-730 makes a rule the holder of domination, against the term's relatum 2 (the term's note of 2026-11-18). Nothing else holds it: it has no other premise, Arnstein and Szakonyi corroborate it, and no objection is filed.
+It is stated in [TERM-124](../terms.d/TERM-124.md), which is not adopted: [CLAIM-730](CLAIM-730.md) makes a rule the holder of domination, against the term's relatum 2 (the term's note of 2026-11-18). Nothing else holds it: it has no other premise, Arnstein and Szakonyi corroborate it, and no objection is filed.

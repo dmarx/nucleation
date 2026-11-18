@@ -37,7 +37,6 @@ summary: >-
 bears_on:
 - QUESTION-095
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # THEORY-343: In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded
 

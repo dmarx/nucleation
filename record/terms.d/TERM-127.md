@@ -121,7 +121,7 @@ neither reading of "accountability" is assumed.
 - **Remedial**: A relays David Miller's remedial responsibility, with
   grounds in causal involvement, moral responsibility, relationships and
   capacity to remedy (Miller, "Distributing Responsibilities", 2001,
-  LIT-2755, Unavailable), and Iris Marion Young's forward-looking political
+  [LIT-2755](../literature.d/LIT-2755.md), Unavailable), and Iris Marion Young's forward-looking political
   responsibility for unjust structures ([LIT-2246](../literature.d/LIT-2246.md), *Responsibility for
   Justice*, Deferred). [THEORY-207](../theory.d/THEORY-207.md) (Floridi) allocates it without fault.
 - **Culpability and attributability**: [THEORY-147](../theory.d/THEORY-147.md) and [THEORY-122](../theory.d/THEORY-122.md).
@@ -174,4 +174,4 @@ No status changes.
 
 ## Note of 2026-11-18: what holds it back
 
-Not adopted. The definition is not settled: filed on 2026-11-17, it has readings that question its list of senses and none answered, Miller's outcome responsibility with no slot among the five and Shoemaker's answerability as a kind the term does not list (note of 2026-11-17). And not every use says which sense it means: CLAIM-708, CLAIM-713 and CLAIM-726 say only that "the senses of responsibility" are this term's, and CLAIM-708's "answer for that wrong" could be culpability, remedial or constitutive. CLAIM-742 and CLAIM-751 name their senses.
+Not adopted. The definition is not settled: filed on 2026-11-17, it has readings that question its list of senses and none answered, Miller's outcome responsibility with no slot among the five and Shoemaker's answerability as a kind the term does not list (note of 2026-11-17). And not every use says which sense it means: [CLAIM-708](../claims.d/CLAIM-708.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-726](../claims.d/CLAIM-726.md) say only that "the senses of responsibility" are this term's, and [CLAIM-708](../claims.d/CLAIM-708.md)'s "answer for that wrong" could be culpability, remedial or constitutive. [CLAIM-742](../claims.d/CLAIM-742.md) and [CLAIM-751](../claims.d/CLAIM-751.md) name their senses.

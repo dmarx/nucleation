@@ -83,7 +83,6 @@ summary: >-
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
-<!-- inactive-ok-file: CLAIM-687 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: THEORY-1839 THEORY-1863 THEORY-1859 THEORY-1848 THEORY-1856 — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: ARG-109 THEORY-1837 THEORY-1842 THEORY-1843 THEORY-1849 THEORY-1851 THEORY-1854 THEORY-1862 THEORY-1853 THEORY-1861 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1928 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->

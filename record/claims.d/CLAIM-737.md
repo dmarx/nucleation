@@ -63,7 +63,7 @@ summary: >-
   §3's Permitted and Authorized is the same split for any act. The wording
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-746 CLAIM-727 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-746 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-680 CLAIM-682 ARG-058 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-737: That a capability's exercise should be limited and that a given party may limit it are separate conclusions on separate grounds, neither entailing the other; the power to restrict is itself a capability, whose legitimacy turns on how it is bounded and answerable and not on whether the limit it imposes is right

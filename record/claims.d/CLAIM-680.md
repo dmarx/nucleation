@@ -58,7 +58,7 @@ summary: >-
   neighbour with a different reason. Interpretive. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1836 THEORY-1853 ARG-106 CLAIM-683 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1853 ARG-106 CLAIM-683 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-411 — Proposed; Sen's public reasoning, cited with its standing -->
 
 # CLAIM-680: That some ways of living are more worthwhile than others, and that this can be judged fallibly, licenses institutions to cultivate the conditions in which people can engage with what is worthwhile, not to impose a conception of it: a reasoned judgment of worth is not by itself a warrant for coercion
@@ -94,4 +94,4 @@ No status changes.
 
 ## Note of 2026-11-18: what holds it back
 
-The step from Wolf's fallibilism about worth to a limit on what institutions may impose is A's, and the body asserts it rather than argues it; ARG-106 records the step as A's without arguing it. The general separation it instances, that what may be pursued need not be imposed, is CLAIM-737, Proposed; once that is held, the claim can rest on it.
+The step from Wolf's fallibilism about worth to a limit on what institutions may impose is A's, and the body asserts it rather than argues it; [ARG-106](../arguments.d/ARG-106.md) records the step as A's without arguing it. The general separation it instances, that what may be pursued need not be imposed, is [CLAIM-737](CLAIM-737.md), Proposed; once that is held, the claim can rest on it.

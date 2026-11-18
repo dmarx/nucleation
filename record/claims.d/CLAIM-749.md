@@ -56,7 +56,7 @@ summary: >-
   A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-739 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
-<!-- inactive-ok-file: ARG-058 CLAIM-624 CLAIM-687 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: ARG-058 CLAIM-624 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-749: Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects
 

@@ -433,4 +433,4 @@ No status changes.
 
 ## Note of 2026-11-18: what holds it back
 
-It is stated in TERM-127, which is not adopted: the term's list of senses has unanswered readings against it, and this claim does not say which sense its "answer for that wrong" means for the structuring party, culpability, remedial or constitutive responsibility, which the term's own rule, that a verdict in one sense does not settle another, makes the claim's content turn on. No objection is filed.
+It is stated in [TERM-127](../terms.d/TERM-127.md), which is not adopted: the term's list of senses has unanswered readings against it, and this claim does not say which sense its "answer for that wrong" means for the structuring party, culpability, remedial or constitutive responsibility, which the term's own rule, that a verdict in one sense does not settle another, makes the claim's content turn on. No objection is filed.

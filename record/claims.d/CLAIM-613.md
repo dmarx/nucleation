@@ -142,4 +142,4 @@ it’s much harder to execute". Relation: bears_on.
 
 ## Note of 2026-11-18: what holds it back
 
-It is stated in TERM-118, which is not adopted: the term's settle condition, that every use of "disposition" says which bearer and which sense, is unmet in ARG-069, which leaves the forking disposition's bearer open, in ARG-059, which still calls CLAIM-619 a fink against the term's finking row, and in CLAIM-697, which names its bearer but not its sense. The claim's premises CLAIM-047 and CLAIM-287 are held, and no objection is filed.
+It is stated in [TERM-118](../terms.d/TERM-118.md), which is not adopted: the term's settle condition, that every use of "disposition" says which bearer and which sense, is unmet in [ARG-069](../arguments.d/ARG-069.md), which leaves the forking disposition's bearer open, in [ARG-059](../arguments.d/ARG-059.md), which still calls [CLAIM-619](CLAIM-619.md) a fink against the term's finking row, and in [CLAIM-697](CLAIM-697.md), which names its bearer but not its sense. The claim's premises [CLAIM-047](CLAIM-047.md) and [CLAIM-287](CLAIM-287.md) are held, and no objection is filed.

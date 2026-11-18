@@ -33,7 +33,6 @@ summary: >-
   paper "does not show how to test a need claim without assuming the
   well-being measure". A3 did not know the record had raised it.
 ---
-<!-- inactive-ok-file: CLAIM-674 THEORY-1836 — filed from the exchange "Analyze technological civilization trap" or its readings, Proposed -->
 <!-- inactive-ok-file: LIT-1980 LIT-1983 THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-369: What would show that an experience is a basic psychological need, something an organism's functioning requires, rather than something that reliably raises reported well-being, when self-determination theory identifies needs by their effects on well-being and treats well-being as the presence of need satisfaction?

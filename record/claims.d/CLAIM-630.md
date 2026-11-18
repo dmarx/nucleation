@@ -56,7 +56,7 @@ summary: >-
   [CLAIM-177](CLAIM-177.md) is Active. The derivation is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-084 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 CLAIM-303 SYNTHESIS-016 — Proposed; premises, citations and the account that integrates this claim -->
+<!-- inactive-ok-file: ADR-075 ADR-084 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 SYNTHESIS-016 — Proposed; premises, citations and the account that integrates this claim -->
 
 # CLAIM-630: Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them
 
@@ -151,4 +151,4 @@ and [CLAIM-177](CLAIM-177.md) is Active.
 
 ## Note of 2026-11-18: what holds it back
 
-CLAIM-308 went Active at this review, so CLAIM-176 is the one premise not held; the derivation's steps 3 and 4 use its statement that coding at the second occurrence catches each failure CLAIM-177 lists the first time it can happen. CLAIM-176 waits on its own premises CLAIM-185 and CLAIM-483, under its blocker note of 2026-10-30.
+[CLAIM-308](CLAIM-308.md) went Active at this review, so [CLAIM-176](CLAIM-176.md) is the one premise not held; the derivation's steps 3 and 4 use its statement that coding at the second occurrence catches each failure [CLAIM-177](CLAIM-177.md) lists the first time it can happen. [CLAIM-176](CLAIM-176.md) waits on its own premises [CLAIM-185](CLAIM-185.md) and [CLAIM-483](CLAIM-483.md), under its blocker note of 2026-10-30.

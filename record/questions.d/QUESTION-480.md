@@ -40,8 +40,8 @@ summary: >-
   [TERM-126](../terms.d/TERM-126.md); its closing formal problem is carried here as a
   sub-question.
 ---
-<!-- inactive-ok-file: CLAIM-624 CLAIM-687 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-739 CLAIM-727 TERM-126 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-624 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-739 TERM-126 — filed from the same exchange, Proposed -->
 
 # QUESTION-480: When is answerability required of an authority or governing capability: under what conditions is justification owed, to whom, and why?
 

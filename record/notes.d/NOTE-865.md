@@ -46,7 +46,6 @@ summary: >-
   Memory is internal throughout; retrieval cost is mentioned once, and offloading
   or external stores not at all.
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-865: Dasgupta & Gershman — Memory as a computational resource
 

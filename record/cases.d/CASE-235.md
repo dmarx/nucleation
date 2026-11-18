@@ -48,7 +48,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1639 THEORY-1643 THEORY-1645 THEORY-1642 THEORY-1641 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CLAIM-647 — Proposed; filed from the same exchange, cited in its note -->
 <!-- inactive-ok-file: THEORY-331 — Proposed; the reading of inference-aware scaling the case is set against -->
-<!-- inactive-ok-file: CLAIM-303 — Proposed; the break-even A tied the case to -->
 <!-- inactive-ok-file: CASE-234 — Proposed; the study proposed with this case -->
 
 # CASE-235: Keeping a character consistent in image generation, by training a character LoRA once or by conditioning on reference images at every generation: a 2026 practitioner thread on MiniMax H3, and the earlier generations of the same choice

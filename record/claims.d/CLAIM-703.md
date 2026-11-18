@@ -220,7 +220,7 @@ not filed as a term.
   biological analogue. The claim is stated in obligation and wrong, not
   in responsibility; where its sources write "responsibility" (A13's
   "Bob's responsibility", White's in the note below) they mean
-  TERM-127's remedial sense.
+  [TERM-127](../terms.d/TERM-127.md)'s remedial sense.
 
 ## What it does not say
 
@@ -235,7 +235,7 @@ not filed as a term.
 - **That Bob may refuse.** The dog's welfare still matters: "Alice's
   wrongdoing doesn't magically erase Bob's reasons to prevent suffering."
 - **What Keller says, beyond its first two clauses.** The paper
-  (LIT-2670) was read on 2026-11-16 (NOTE-2005); the dog case is his,
+  ([LIT-2670](../literature.d/LIT-2670.md)) was read on 2026-11-16 ([NOTE-2005](../notes.d/NOTE-2005.md)); the dog case is his,
   and the last clause, that the obligation is no larger than the
   circumstances support, is A13's, not Keller's (notes below).
 

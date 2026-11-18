@@ -63,8 +63,7 @@ summary: >-
   being affected confers no general authority, is filed apart as
   [CLAIM-749](CLAIM-749.md). The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-687 CLAIM-624 CLAIM-682 TERM-083 CASE-229 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-727 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-624 CLAIM-682 TERM-083 CASE-229 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-739: Answerability is directed and role-specific: an actor owes an answer to a party with a claim concerning the matter, on one of several grounds that need not presuppose the actor's legitimate authority, among them interference with a protected interest, entrusted authority, collective rule, consequential dependence and control over recourse; the party owed, the recipient of reasons, the forum that judges and the party that remedies can differ; and what is owed is indexed to the claim, not to how much the party is affected
 

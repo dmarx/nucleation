@@ -130,4 +130,4 @@ No status changes.
 
 ## Note of 2026-11-18: what holds it back
 
-Route A rests on CLAIM-652, Proposed, which waits on CLAIM-655 and its toy CASE-246; CLAIM-662, route B, went Active at this review, so CLAIM-652 is now the only unheld premise. The claim goes Active when CLAIM-652 does, unless the candidate third route of the note of 2026-11-17 is filed as an objection to "two distinct routes".
+Route A rests on [CLAIM-652](CLAIM-652.md), Proposed, which waits on [CLAIM-655](CLAIM-655.md) and its toy [CASE-246](../cases.d/CASE-246.md); [CLAIM-662](CLAIM-662.md), route B, went Active at this review, so [CLAIM-652](CLAIM-652.md) is now the only unheld premise. The claim goes Active when [CLAIM-652](CLAIM-652.md) does, unless the candidate third route of the note of 2026-11-17 is filed as an objection to "two distinct routes".

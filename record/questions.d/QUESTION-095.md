@@ -37,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1639 THEORY-1643 THEORY-1645 THEORY-1644 THEORY-1641 THEORY-1640 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-235 CASE-234 CLAIM-647 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
-<!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-095: Is leaving the result of a computation where it can be cheaply retrieved the same trade as amortizing the computation, and does one account of when it pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused inferences?
 

@@ -68,7 +68,7 @@ summary: >-
   not support. Interpretive, with a discriminating prediction in its
   defeater. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1836 THEORY-1861 THEORY-1837 THEORY-1864 ARG-106 CLAIM-680 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1861 THEORY-1837 THEORY-1864 ARG-106 CLAIM-680 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: TERM-108 — Proposed; the proxy objective, used with its standing -->
 <!-- inactive-ok-file: NOTE-1921 — Skimmed; the excerpt of Tools for Conviviality -->
 

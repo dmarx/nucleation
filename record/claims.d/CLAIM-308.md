@@ -85,7 +85,7 @@ summary: >-
 bears_on:
 - QUESTION-098
 ---
-<!-- inactive-ok-file: CLAIM-303 CLAIM-185 — Proposed; the claim objected to, and an open claim cited as open -->
+<!-- inactive-ok-file: CLAIM-185 — Proposed; the claim objected to, and an open claim cited as open -->
 
 # CLAIM-308: Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed
 

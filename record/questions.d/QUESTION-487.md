@@ -33,7 +33,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-707 CLAIM-713 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
-<!-- inactive-ok-file: CLAIM-687 CLAIM-624 THEORY-1371 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-624 THEORY-1371 — Proposed; the record's nearest entries, cited with their standing -->
 
 # QUESTION-487: What lets those who act for an organization hold the principals who direct them accountable for the conditions under which they are required to act, and does any principal–agent account carry accountability in that reverse direction?
 

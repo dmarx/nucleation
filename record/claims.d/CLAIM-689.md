@@ -40,7 +40,7 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-680 — Proposed; cited with its standing -->
-<!-- inactive-ok-file: THEORY-1836 THEORY-1853 THEORY-1843 ARG-108 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1853 THEORY-1843 ARG-108 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; the authenticity line's question of avowal, cited for the boundary -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 
@@ -70,4 +70,4 @@ At the boundary [ADR-099](../decisions.d/ADR-099.md) draws. Whose a desire is, a
 
 ## Note of 2026-11-18: what holds it back
 
-An account that discriminates among socially formed desires by how they were formed, without appeal to their objects' worth, is the kind its defeated_if names, and the record holds one Proposed and unanswered here: THEORY-047's regulation introjected under controlling conditions. The step "since every preference is socially formed" answers critiques by social origin as such, not by manner of formation; the claim assigns whose a desire is to the authenticity line, but its title's "cannot rest on their origin alone" is wider, so it should either say why such accounts are not a critique of the wants themselves or narrow to origin as such.
+An account that discriminates among socially formed desires by how they were formed, without appeal to their objects' worth, is the kind its defeated_if names, and the record holds one Proposed and unanswered here: [THEORY-047](../theory.d/THEORY-047.md)'s regulation introjected under controlling conditions. The step "since every preference is socially formed" answers critiques by social origin as such, not by manner of formation; the claim assigns whose a desire is to the authenticity line, but its title's "cannot rest on their origin alone" is wider, so it should either say why such accounts are not a critique of the wants themselves or narrow to origin as such.

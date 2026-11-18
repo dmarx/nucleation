@@ -20,7 +20,7 @@ summary: >-
   uncertainty about future use. [QUESTION-038](QUESTION-038.md) asks how an anchor works. This asks
   when one is worth making.
 ---
-<!-- inactive-ok-file: CLAIM-185 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-098: When is an inferential structure worth filing: when does the reconstruction it is expected to save outweigh the cost of filing it, keeping it current and the risk of reusing it after it has gone stale?
 

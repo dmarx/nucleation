@@ -44,7 +44,6 @@ summary: >-
   drift toward external reliance). It does not frame offloading as computation reused
   over time, and says nothing about how often an offloaded result is used.
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-887: Risko & Gilbert — Cognitive offloading
 

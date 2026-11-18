@@ -46,7 +46,7 @@ bears_on:
 - QUESTION-112
 - QUESTION-359
 ---
-<!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; the claims this account bears on, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-295 — Proposed; the claims this account bears on, named, not leaned on -->
 
 # THEORY-884: A retained state supports exact answers to a declared family of questions after every finite sequence of a declared family of total deterministic revisions exactly when each of its fibres lies within one class of the coarsest revision-invariant refinement of agreement on current answers; that refinement can be strictly finer than what present answers require, and at most K* − K revision sequences, beyond the current answers, are needed to tell its K* classes apart
 

@@ -45,7 +45,7 @@ summary: >-
   interference are not studied: reuse that may be "inaccurate" without modification,
   and interference and forgetting of stored inferences, appear only as questions.
 ---
-<!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-886: Gershman & Goodman — Amortized inference in probabilistic reasoning
 

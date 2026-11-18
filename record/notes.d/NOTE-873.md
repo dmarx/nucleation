@@ -54,7 +54,6 @@ summary: >-
   memorize-or-look-up trade, and "cognitive prostheses". The framework is offered
   as a methodological device, not a claim that people are optimal.
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-873: Lieder & Griffiths — Resource-rational analysis
 

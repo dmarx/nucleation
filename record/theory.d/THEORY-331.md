@@ -42,7 +42,6 @@ summary: >-
 bears_on:
 - QUESTION-095
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # THEORY-331: Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
 

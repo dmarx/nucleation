@@ -25,7 +25,7 @@ summary: >-
   assistant's (Claude, in this session); the question is the owner's.
 ---
 <!-- inactive-ok-file: THEORY-1397 — Proposed; the record's reading of Coecke, Fritz and Spekkens -->
-<!-- inactive-ok-file: CLAIM-703 CLAIM-713 CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-713 CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-690 — Proposed; the record's claim on control of the terms of a dependence -->
 
 # QUESTION-477: Is there a resource theory of moral commitments, in the formal sense: what are the free transformations among parties who hold commitments, which quantities are monotone under them, and is the leverage one party gains from another's commitment a conversion that is free for the one and costly for the other?

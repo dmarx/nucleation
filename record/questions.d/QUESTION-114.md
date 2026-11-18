@@ -26,7 +26,6 @@ summary: >-
   Choosing indexes for a workload is a studied problem with explicit cost models.
   This asks whether that model is the one [QUESTION-095](QUESTION-095.md) is looking for.
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims cited as open, nothing here rests on their being settled -->
 
 # QUESTION-114: Is sorting a collection amortized search, and does physical database design, where a table is stored in one order and every further index is paid for in space and upkeep, give the joint cost model that the question on amortized retrieval lacks?
 

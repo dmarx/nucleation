@@ -218,4 +218,4 @@ No status changes.
 
 ## Note of 2026-11-18: what holds it back
 
-It is stated in TERM-127, which is not adopted (the term's note of 2026-11-18). The claim itself names its senses, culpability for blame and the remedial sense for accountability, so it waits only on the term. No objection is filed.
+It is stated in [TERM-127](../terms.d/TERM-127.md), which is not adopted (the term's note of 2026-11-18). The claim itself names its senses, culpability for blame and the remedial sense for accountability, so it waits only on the term. No objection is filed.

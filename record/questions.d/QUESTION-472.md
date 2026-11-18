@@ -63,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1917 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: ADR-093 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: TERM-124 — Proposed; the record's term for domination, cited with its standing -->
-<!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-703 CLAIM-713 CASE-264 — Proposed; the dependence claims and this exchange's normative-manipulation claims, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-713 CASE-264 — Proposed; the dependence claims and this exchange's normative-manipulation claims, cited with their standing -->
 
 # QUESTION-472: Can a party's ability to activate another's genuine moral obligations constitute control over the terms of that other's dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone's conscientiousness?
 

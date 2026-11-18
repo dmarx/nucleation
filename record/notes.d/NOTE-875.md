@@ -49,7 +49,7 @@ summary: >-
   only by better secondary-task accuracy on reusable trials; and it gives no account
   of when reuse pays.
 ---
-<!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-875: Dasgupta, Schulz, Goodman & Gershman — Remembrance of inferences past
 

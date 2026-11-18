@@ -148,4 +148,4 @@ No status changes.
 
 ## Note of 2026-11-18: what holds it back
 
-Not adopted: one use departs from the definition. CLAIM-730's title says "the rule dominates them without anyone actively intervening", making a rule the holder where relatum 2 requires an agent or role, which is this term's first condition under "What would unsettle it". Either CLAIM-730 names the holder, whoever controls the slow level's revision, or the term widens relatum 2. Every other user means the term's one sense, and CLAIM-727 was found not to be stated in it and no longer lists it.
+Not adopted: one use departs from the definition. [CLAIM-730](../claims.d/CLAIM-730.md)'s title says "the rule dominates them without anyone actively intervening", making a rule the holder where relatum 2 requires an agent or role, which is this term's first condition under "What would unsettle it". Either [CLAIM-730](../claims.d/CLAIM-730.md) names the holder, whoever controls the slow level's revision, or the term widens relatum 2. Every other user means the term's one sense, and [CLAIM-727](../claims.d/CLAIM-727.md) was found not to be stated in it and no longer lists it.

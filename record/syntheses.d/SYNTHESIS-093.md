@@ -65,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-100 SYNTHESIS-095 — Proposed; the split of organizational-normativity and the new line's account, cited at version 2 -->
 <!-- inactive-ok-file: CLAIM-657 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 — Proposed; the line's account, the sibling part accounts and a citation -->
-<!-- inactive-ok-file: CLAIM-677 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-687 CLAIM-624 CLAIM-667 CLAIM-545 TERM-122 ARG-103 THEORY-1859 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-677 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-624 CLAIM-667 CLAIM-545 TERM-122 ARG-103 THEORY-1859 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the definition TERM-122 rivals, set aside -->
 
 # SYNTHESIS-093: What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate

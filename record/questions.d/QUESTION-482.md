@@ -36,7 +36,6 @@ summary: >-
   authority has to be from the evaluated. The wording is A's; adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-727 — filed from the same exchange, Proposed -->
 
 # QUESTION-482: Under what conditions is the allocation of authority to evaluate and constrain an actor sufficiently independent of that actor's capacity to influence the allocation?
 

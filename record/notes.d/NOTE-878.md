@@ -48,7 +48,6 @@ summary: >-
   such models fail in detail, because an epistemic action's value depends on the
   particular internal computation it serves.
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-878: Kirsh & Maglio — On distinguishing epistemic from pragmatic action
 

@@ -305,7 +305,6 @@ Readings filed for the exchange's works on 2026-11-13, each now with `bears_on` 
 Neither gives a criterion that tells a manipulated will from one that is not. The question is unchanged.
 
 ## Note of 2026-11-17: evidence conditions for an attribution of manipulation, and the unfalsifiability warning, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-703 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 
 The exchange "Assess Depp Heard Abuse" (2026-11-15) twice warns against
 reading manipulation off an outcome. A5 §4, on DARVO: "**You cannot
