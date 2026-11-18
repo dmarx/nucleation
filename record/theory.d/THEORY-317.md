@@ -16,7 +16,7 @@ promote_when: >-
   no one, would count against it. More secondary summaries of Fricker
   cannot settle it.
 title: "Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required"
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -35,6 +35,14 @@ history:
     CLAIM-406's grounds, which cites it only under "Where it bears", so
     CLAIM-406 is removed from this reading's supports list. The account
     and its status are unchanged.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Long (LIT-tmp4ummt) read on 2026-11-16, NOTE-tmpojn2e. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Harsey and Freyd (LIT-tmpx37pv) read on 2026-11-16, NOTE-tmpji37z. No change of status or title.
 tags:
 - epistemology
 - ethics
@@ -165,3 +173,16 @@ found, and the one full copy located is an upload of the whole in-copyright book
 excludes. The promote_when's test, the book's own definitions, is therefore unmet. Two read sources
 ([THEORY-326](THEORY-326.md), [LIT-1852](../literature.d/LIT-1852.md)) still place those definitions where this title would be refuted as a
 statement of Fricker.
+
+## Note of 2026-11-16: Long, read
+
+Christie's ideal victim, as Long applies it, is a social template by which some people "most readily are given" victim
+status and others are cast as offenders; Long's interviewees, treated as suspects when reporting crime, met a
+deflated credibility judgement tied to their identity, the testimonial injustice this theory describes. Long does not
+cite Fricker; the fit is the reader's. Relation: none.
+
+## Note of 2026-11-16: Harsey and Freyd, read
+
+In Harsey and Freyd's experiment men rated the accusing victim as less believable than women did, the shape of a
+deflated credibility judgement; the study does not show that the difference is prejudicial rather than a difference
+in priors. Relation: none.

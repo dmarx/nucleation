@@ -1,0 +1,87 @@
+---
+status: Read
+paper: LIT-tmpd8i3u
+title: 'Liedo, Van Grunsven and Marin (2024) — Emotional Labor and the Problem of Exploitation in Roboticized Care Practices'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Read on 2026-11-16 from the open-access version of record on
+    Springer (link.springer.com, CC BY) by a delegated reader whose
+    draft the filer verified. All sections and footnotes read;
+    references skipped. Read for the exchange "Assess Depp Heard
+    Abuse", A17 §5, and as the most detailed open exposition of
+    Tronto's privileged irresponsibility reached for LIT-tmpw46qz and
+    LIT-tmp4yz7x.
+date: '2026-11-16'
+summary: >-
+  The authors argue that paid care workers' emotional labor is prone to
+  exploitation because care duties are allocated by what Tronto calls
+  privileged irresponsibility, that workers' satisfaction in caring can
+  mask the exploitation, and that care robots assessed only by design
+  can sustain that irresponsibility, letting employers and governments
+  avoid reallocating care responsibilities.
+---
+<!-- inactive-ok-file: CLAIM-tmp0tg7y CLAIM-tmpnfjln CLAIM-tmpyjzi8 LIT-tmp4yz7x LIT-tmpw46qz TERM-123 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# NOTE-tmpdmjvw: Liedo, Van Grunsven and Marin (2024) — Emotional Labor and the Problem of Exploitation in Roboticized Care Practices
+
+## Contribution
+
+Joins Hochschild's emotional labor to Tronto's privileged irresponsibility to explain why paid
+care work is exploitable. It argues that Care-Centred Value-Sensitive Design, being design-focused,
+cannot see this (Abstract, p. 1).
+
+## Key results
+
+1. p. 6: "Exploitative labor happens when someone benefits from the work of someone to the
+   detriment of her interests"; "the benefit may come in the form of economic profit, avoidance of
+   the fair share of work, or social credit".
+2. pp. 6, 8: "this very identification and satisfaction may function as part of an exploitation
+   dynamics"; satisfaction "could function precisely as a way of masking the exploitation".
+3. p. 9, Tronto as reported: care is allocated by "veiled assumptions about the presumed duty of
+   some people to care and the alleged right of some other people not to care"; privileged
+   irresponsibility "works both at the moral level and at the political level (Tronto, 2013, p.
+   58)". Politically it is "a form of power held by some groups of people that enables them to put
+   too many responsibilities on the shoulders of those who are supposed to perform care."
+4. p. 11: "the unsatisfactory conditions of performing care are resolved by exploiting the
+   commitment of PCWs to the value of care, resulting in the prioritization of care for the patient
+   over their own well-being and safety."
+5. p. 12: a helpful robot "may mask those conditions by falsely assuring employers they have taken
+   serious steps towards easing the work of their care workers"; Paro "created a new duty for
+   constant supervision, which implied a high level of emotion management that was neither
+   recognized nor supported" (Wright 2023).
+6. p. 13: "investing in robots can function as a form of responding to this demand without
+   reorganizing care responsibilities in a fairer manner".
+
+## Assumptions
+
+Brake's definition of exploitation; Hochschild's emotional labor; empirical claims borrowed from
+cited studies; the wee-bot is hypothetical.
+
+## Concepts
+
+Emotional labor; paid care workers; CCVSD; Tronto's five phases of care; privileged
+irresponsibility (moral and political); masking of exploitation; democratic allocation of care.
+
+## Bearing on the record
+
+- **[CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md)**: corroborates, from an independent source. Inadequate care conditions are
+  "resolved by exploiting the commitment of PCWs to the value of care" (result 4), and the
+  worker's own satisfaction masks it (result 2). The claim's mechanism, without deception or
+  coercion, grounded here in the allocation of care duties.
+- **[QUESTION-468](../questions.d/QUESTION-468.md)**: a candidate standard (Brake's) and a structural source (privileged
+  irresponsibility) for identifying exploitation; [TERM-123](../terms.d/TERM-123.md) could cite the standard.
+- **[QUESTION-461](../questions.d/QUESTION-461.md)**: dependence on workers' emotional labor does not become their authority, because
+  identification and satisfaction keep it from becoming a claim.
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: the upstream half; workers are "the only ones deemed responsible for managing
+  the challenging consequences of a new technological intervention that produces profit for
+  others" (p. 13).
+- **[CLAIM-tmp0tg7y](../claims.d/CLAIM-tmp0tg7y.md)**: robots as a response that leaves the allocation in place (result 6).
+- **Tronto** ([LIT-tmpw46qz](../literature.d/LIT-tmpw46qz.md), [LIT-tmp4yz7x](../literature.d/LIT-tmp4yz7x.md)): the most detailed open exposition reached. It confirms the
+  breadwinner example and the moral and political levels as Tronto's, at second hand.
+- **The exchange** (A17 §5) reports the paper accurately; the link to Elish is A's.
+
+## Limitations
+
+Conceptual; borrowed evidence; the Tronto exposition is about a page.

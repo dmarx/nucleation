@@ -1,0 +1,52 @@
+---
+status: Active
+title: 'Instruments to Assess Bidirectional Intimate Partner Violence: A Systematic Review'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Filed and read as a stand-in for Machado, Sousa and Cunha (2026),
+    "Defining Bidirectional Violence in Intimate Relationships"
+    (LIT-tmp5jqvq), whose CC BY copy at journals.sagepub.com returned
+    HTTP 403 on 2026-11-16, and in part for Stover et al. (2025)
+    (LIT-tmpcxq1w, paywalled). The same research group's companion
+    review, on how bidirectional violence is measured. Identifier checked
+    on 2026-11-16 in Europe PMC (PMID 40833149, PMCID PMC13578655); no
+    email address sent to any service. Not held: no hit for the DOI or
+    the title in record/literature.d. Read from the Europe PMC full text.
+tags:
+- social-science
+- moral-psychology
+date: '2026-11-16'
+published: '2025-08-20'
+doi: '10.1177/15248380251358230'
+first_author: 'Cunha'
+keywords: []
+implementations: []
+summary: >-
+  Cunha, Sousa, Faria, Pinto, Machado (2025). Instruments to Assess
+  Bidirectional Intimate Partner Violence: A Systematic Review. Trauma,
+  Violence, & Abuse 27(4): 1748-1766 (online 2025-08-20). DOI
+  10.1177/15248380251358230. Of 50 studies (2012-2024), most measure
+  bidirectional violence with the Conflict Tactics Scale and one partner's
+  report; prevalence ranges from 2% to 98.4%; only five studies assessed
+  interpartner agreement; and the CTS cannot tell who initiated violence or
+  why, so self-defence can be counted as mutual violence. Filed as a
+  stand-in for Machado et al. 2026 ([LIT-tmp5jqvq](LIT-tmp5jqvq.md)) on the operational side,
+  and in part for Stover et al. 2025 ([LIT-tmpcxq1w](LIT-tmpcxq1w.md)). Read 2026-11-16.
+---
+<!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpp8na7 LIT-tmp5jqvq LIT-tmpcxq1w — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# LIT-tmp4xiao: Instruments to Assess Bidirectional Intimate Partner Violence: A Systematic Review
+
+Cunha, Sousa, Faria, Pinto, Machado (2025). *Instruments to Assess Bidirectional Intimate Partner Violence: A Systematic Review*. Trauma, Violence, & Abuse 27(4): 1748-1766. DOI 10.1177/15248380251358230.
+
+## Key takeaways
+
+- The CTS dominates measurement of bidirectional violence (34 of 50 studies) and has good internal consistency.
+- Prevalence ranges from 2% to 98.4%. Only five studies compared both partners' reports.
+- The CTS "does not capture information about who initiates the violence", so self-defence or retaliation can be counted as mutual violence.
+
+## Standing in the record
+
+Filed and read on 2026-11-16 as a stand-in for [LIT-tmp5jqvq](LIT-tmp5jqvq.md) (Machado, Sousa and Cunha 2026), which could not be fetched. It restates that review's operational concern, but not its conceptual map of terms or its proposed definition. It stands in partly for [LIT-tmpcxq1w](LIT-tmpcxq1w.md) (Stover et al. 2025) on partner agreement and the prevalence range, but not for Stover's dyadic-data findings. It bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md).

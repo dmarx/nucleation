@@ -1,0 +1,152 @@
+---
+status: Skimmed
+paper: LIT-tmp6x9lr
+title: 'Coercion'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Read from the plato.stanford.edu HTML (first published 10 Feb 2006,
+    substantive revision 23 Jan 2023, by Scott Anderson), fetched
+    2026-11-16. Read in full: the preamble, §2.1.3, §2.5, §3 with §3.1 and
+    §3.2, and §3.3 from Olsaretti to its end. Skipped: §1 (history), §2.1,
+    2.1.1, 2.1.2 and 2.2–2.4 (Nozick, baselines, coercive offers), the
+    opening of §3.3, §3.4 (law and the state), the notes, and the
+    bibliography except Galoob and Sheley 2021. Every account below other
+    than Anderson's own is the entry's report.
+date: '2026-11-16'
+summary: >-
+  The SEP's survey of coercion. Its §3.2 says there is no general theory
+  of how coercion affects the coerced party's responsibility: the effect
+  varies with the act and its moral context, runs mostly through
+  justification rather than excuse, and each proposed test handles only a
+  fraction of cases. Because coercion is strategic, the rule for the
+  coercee's responsibility shapes the coercer's incentives. It reports
+  Galoob and Sheley's coercion-based defence for a target whose
+  decisional authority a coercive controller has usurped, and White's
+  view that a conditional threat makes the coercee responsible for
+  preventing what the coercer threatens.
+---
+<!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-545 CLAIM-tmp5zzud CLAIM-tmpd6uxt CLAIM-tmpnw7ez CLAIM-tmpp8na7 TERM-124 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# NOTE-tmpfqpc0: Coercion
+
+## Contribution
+
+A survey of the concept of coercion and of what it is used for in ethics,
+law and political theory. It is the record's first source on how coercion
+bears on the coerced party's responsibility. The exchange "Assess Depp
+Heard Abuse" cites it for exactly that (A7 §1). Coercion has "two different
+faces" (preamble): a technique coercers use, and a kind of reason coercees
+act on. §3.2 treats the second face. It finds no general theory, and it
+reports the partial tests on offer and a proposal written for coercive
+control in abusive relationships.
+
+## Key results
+
+- **No general theory (§3.2).** "There is no single, widely agreed upon
+  theory that explains when an agent is or is not responsible for something
+  that happens in the world." Judgments of responsibility depend on the
+  kind of act: "facts that might limit one’s responsibility for signing or
+  violating a contract might fail to limit one’s responsibility for killing
+  someone".
+- **Justification more than excuse (§3.2).** A coerced agent is excused
+  chiefly when the threat causes "a total breakdown in her will", and even
+  then "she may be responsible for her weakness of character, though perhaps
+  not for her action". Since most people respond to threats deliberately,
+  "most cases of diminished responsibility under coercion will appeal to
+  justification rather than excuse."
+- **The tests are partial (§3.2).** Wertheimer's entitlement test and
+  Pallikkathayil's "moral veto" shift the burden to a background moral
+  theory, and "it is unclear that any of them is robust enough to handle
+  more than a fraction of the cases". The lesser-evil principle fails
+  outside coercion (the spare-kidney case). Against Feinberg's pressure
+  test: "the magnitude of the inducement by itself seems not to suffice to
+  explain our judgments of responsibility".
+- **Coercion is strategic (§3.2).** "Coercion involves a strategic and
+  dynamic interaction between two agents". The standard for judging
+  coercees "may affect whether it is rational or productive for a would-be
+  coercer to attempt coercion in the first place": a permissive standard
+  makes acquiescence more reasonable and coercion more productive.
+- **Where the coercer makes the will redundant (§3.2).** A coercee can be
+  justified, "even if they do so calmly and deliberately", when "the coercer
+  has structured a coercee’s situation in such a way that the coercee’s will
+  becomes essentially redundant to the outcome" (the bouncer).
+- **Coercive control (§3.2).** Generalizing the redundancy case, Galoob and
+  Sheley (2021) argue that where a coercer has "coercive control" over
+  someone, "such as in a long-term violent and abusive relationship", the
+  criminal law should allow a defence: "A defendant should be entitled to a
+  coercion-based defense when the coercer has usurped the target’s
+  decisional authority" (2021, 314, as quoted).
+- **Incapacitation and its history (§3.2).** Incapacity excuses by "ought
+  implies can", but the history matters: "we may want to know why one was
+  incarcerated before crediting the excuse".
+- **What is wrong with coercing (§3.1).** Reported accounts: the
+  "inheritance" view (Berman, Pallikkathayil, Shaw); Lamond's intention to
+  disadvantage; White (2017), on whom coercers "make the coercee responsible
+  for the coercer’s execution of their threat, a responsibility that in many
+  cases they should not have to bear". White's account covers "emotional
+  blackmail" and threats of self-harm: "forcing another to regard this
+  outcome as their responsibility to prevent generates an unfair burden".
+  Mason (2012), as quoted: "the coercee is dominated: she is alienated from
+  her action".
+- **Coercion, power and domination (§3.3).** Coercers "don’t merely
+  produce, but also track, the compliance of their victims" (Yaffe 2003, as
+  quoted). Coercion "requires some significant differential in power between
+  coercer and coercee for it, in general, to be a rational, useful
+  technique". Credible power lets a coercer govern many choices while rarely
+  enforcing, which is domination in Pettit's sense.
+- **Not tied to single acts (§§2.1.3, 2.5).** Nozick's act-by-act framing
+  leaves open whether prior coercion that removes an option coerces its
+  omission. Anderson's "enforcement approach" refocuses on the coercer's
+  powers, "denying that coercion is coextensive with particular acts taken
+  or avoided by the coercee".
+
+## Assumptions
+
+- A narrowed, stipulated sense of the word: "This usage will rule out, by
+  stipulation, such things as mere disapproval, emotional manipulation, or
+  wheedling." Manipulation is out of scope.
+- In §3.2 responsibility is the coercee's, for an act done under coercion,
+  and is assessed act by act. How the coercer shares responsibility for what
+  the coercee does is not discussed.
+
+## Concepts
+
+- **excuse vs justification** for acquiescence under coercion.
+- **total breakdown of will**: the main ground for excuse.
+- **entitlement test** (Wertheimer), **moral veto** (Pallikkathayil),
+  **lesser-evil principle**, **coercive burden** (Feinberg).
+- **strategic structure**: the responsibility rule changes the coercer's
+  incentives.
+- **redundant will**: the coercer can secure the outcome whatever the
+  coercee chooses.
+- **coercive control as usurped decisional authority** (Galoob and Sheley).
+- **transfer of responsibility** (White): the threat makes the coercee
+  answer for preventing the coercer's act.
+- **enforcement approach** (Anderson): coercion as the use of a power to
+  enforce decisions, not a feature of single acts.
+
+## Bearing on the record
+
+- [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md): supports its two-agent structure on the coercee's side.
+  The entry assesses the coercee's responsibility without subtracting the
+  coercer's, and it describes the coercer's structuring of the situation
+  ("essentially redundant", "usurped") as what changes the coercee's
+  standing. It says nothing about the coercer answering for the coercee's
+  act. Corroborates in part.
+- [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md): the Galoob and Sheley defence is a
+  legal proposal resting on the same separation of acts from control. Bears
+  on.
+- [CLAIM-tmpd6uxt](../claims.d/CLAIM-tmpd6uxt.md) and [CLAIM-tmp5zzud](../claims.d/CLAIM-tmp5zzud.md): White's account is the nearest the
+  entry comes to a wrongfully created responsibility to prevent harm.
+  Second-hand. Bears on.
+- [CLAIM-545](../claims.d/CLAIM-545.md) and [TERM-124](../terms.d/TERM-124.md): §3.3's domination and the power-differential
+  point. Note only.
+
+## Limitations
+
+A survey. Every account but Anderson's is reported, and the coercive-control
+defence gets one paragraph. The §2 analysis of threats, offers and
+baselines was not read. Manipulation is excluded by stipulation, so the
+entry cannot speak to the record's manipulation claims.

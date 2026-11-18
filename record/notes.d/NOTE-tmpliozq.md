@@ -1,0 +1,68 @@
+---
+status: Read
+paper: LIT-tmppku2r
+title: 'Herd and Moynihan (2023) — Fewer Burdens but Greater Inequality?'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Read on 2026-11-16 as a stand-in for LIT-tmp1o7dq, from the published
+    version on the Digital Government Hub site (24 pp., pp. 94–117), text
+    by pdftotext. Read in full except the middle of the federalism section
+    (SNAP state variation, immigrants) and the privatization section, which
+    were skimmed; references not checked; figures not rendered.
+date: '2026-11-16'
+summary: >-
+  Average administrative burden in the large US means-tested programs fell
+  over thirty years, with rising take-up, while inequality in who bears
+  burdens grew through federalism, the tax system and privatization.
+  Burdens restrict access, fall on those with less power and are
+  constructed, sometimes deliberately.
+---
+<!-- inactive-ok-file: CLAIM-tmpuiaop LIT-1609 LIT-tmp1o7dq TERM-tmp91lqy — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# NOTE-tmpliozq: Herd and Moynihan (2023) — Fewer Burdens but Greater Inequality?
+
+## Contribution
+
+A review recasting thirty years of US safety-net change as change in administrative burden: average burden
+down, inequality in burden up.
+
+## Key results
+
+1. p. 96: "seemingly small burdens can have large effects that substantially restrict access to basic
+   rights, benefits, and services".
+2. p. 96: burdens can be "a form of policymaking by other means"; "Burdens are often complex and opaque,
+   their creation rarely debated via standard legislative processes".
+3. p. 103: under the ACA, "By 2016, 34 states used automatic" reenrollment from existing data; 12-month
+   renewals; assets dropped as a criterion.
+4. p. 105: case "workers tend to use discretion in ways that are more likely to penalize Black"
+   beneficiaries in TANF sanctioning.
+5. p. 109: EITC audits by mail: "If the IRS does not receive a response, the default judgment" goes
+   against the filer; the 2021 CTC reached 86 percent by automatic deposit and missed the poorest non-filers.
+6. p. 111: "policymakers can, in fact, maintain conditionality, reduce burdens, and increase access"; the
+   "on-the-ground" evidence on implementation is limited.
+
+## Assumptions
+
+Take-up as the measure; US programs; a review of others' studies.
+
+## Concepts
+
+Learning, compliance and psychological costs; take-up; policymaking by other means; delegated governance;
+redemption costs; churn.
+
+## Bearing on the record
+
+- Connections (stand-in): restates the three-cost framework and the distributive claim that A23 §4
+  attributes to [LIT-tmp1o7dq](../literature.d/LIT-tmp1o7dq.md); does not restate whatever evidence review or proposals that article adds.
+- [CLAIM-tmpuiaop](../claims.d/CLAIM-tmpuiaop.md): claimant-side friction, removed by automation (items 3, 5), raised access; that is the
+  extractive friction the claim sets aside, but item 5 shows automation can move friction onto those left
+  outside the automated path, and item 4 that discretion at the human step cuts both ways.
+- [TERM-tmp91lqy](../terms.d/TERM-tmp91lqy.md): supports its classing of burden as a gate on the claimant, not on the executor.
+- [TERM-055](../terms.d/TERM-055.md), [CASE-172](../cases.d/CASE-172.md), [LIT-1609](../literature.d/LIT-1609.md): item 1 is the burden-on-rights idea the record took from the book's
+  introduction, here with take-up evidence across programs.
+
+## Limitations
+
+Review only; parts skimmed; US; references unchecked.

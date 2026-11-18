@@ -6,7 +6,12 @@ formerly:
 title: 'operational availability, of a resource for an action: the chance that an
   agent–environment system, given the cue it actually has, deploys the resource
   for the task before the deadline'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Herd and Moynihan (LIT-tmppku2r) read on 2026-11-16, NOTE-tmpliozq. No change of status or title.
 tags:
 - agency
 - cognition
@@ -97,3 +102,11 @@ A proposed [TERM-115](TERM-115.md): the probability that an organization under i
 ## Note of 2026-11-04: availability lost to congestion
 
 The location models in the emergency-readiness bibliography make α a property of the fleet. A unit is unavailable there only because it is busy elsewhere. Expected coverage and α-reliable coverage ([TERM-113](TERM-113.md)) are special cases of this term, with the cue and the procedure held fixed. A unit of last resort ([TERM-112](TERM-112.md)) is the limiting case: it is available, but deployed only when the system is saturated. NFIRS records that a cancelled unit was dispatched, not its α ([CASE-203](../cases.d/CASE-203.md)). The term is unchanged.
+
+## Note of 2026-11-16: Herd and Moynihan, read
+
+The note of 2026-10-29 said take-up was the book introduction's only measure of the loss of a right's
+practical availability. This article gives take-up across programs and over time (EITC, SNAP, Medicaid),
+and its first point is the term's sense applied to rights: "seemingly small burdens can have large effects
+that substantially restrict access to basic rights, benefits, and services" (p. 96). The term is unchanged.
+Relation: none (a further source for the existing note).

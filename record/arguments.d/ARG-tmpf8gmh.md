@@ -1,0 +1,61 @@
+---
+status: Proposed
+title: 'Two hospitals with identical, complete audit trails of the same approval and different conditions of judgment show that traceability and the grounds for fair attribution can come apart'
+version: 1
+form: existence
+rests_on:
+- CLAIM-tmpnw7ez
+grounds:
+- CASE-tmplgw46
+concludes:
+- CLAIM-tmpxeq6j
+tags:
+- ethics
+- philosophy-of-technology
+date: '2026-11-16'
+line:
+- organizational-normativity
+summary: >-
+  The support for [CLAIM-tmpxeq6j](../claims.d/CLAIM-tmpxeq6j.md), whose only ground is a stipulated case:
+  load-bearing, so argued. An existence proof needs the case to be
+  coherent and to separate the two things the claim says come apart; both
+  questions are answered. Proposed: the case shows separability; it does
+  not show what fair attribution requires beyond the conditions it varies.
+  The wording is the filer's, of the review's case; adopting it is the
+  owner's call.
+---
+<!-- inactive-ok-file: CASE-tmplgw46 CLAIM-tmpxeq6j CLAIM-tmpnw7ez — filed with this argument or from the same exchange, Proposed -->
+
+# ARG-tmpf8gmh: Two hospitals with identical, complete audit trails of the same approval and different conditions of judgment show that traceability and the grounds for fair attribution can come apart
+
+## The inference
+
+1. In [CASE-tmplgw46](../cases.d/CASE-tmplgw46.md) the audit trails of Hospitals A and B are identical and
+   complete: same recommendation, same approver, same time, same outcome
+   (stipulated).
+2. The conditions of the approval differ: in A the clinician could evaluate
+   and refuse; in B volume, missing information and penalties for
+   overriding left little room to do either (stipulated).
+3. Whether an outcome can fairly be attributed to an agent depends at
+   least in part on the agent's capacity to evaluate and refuse the act
+   (the control and knowledge conditions of responsibility; [CLAIM-tmpnw7ez](../claims.d/CLAIM-tmpnw7ez.md)
+   for the conditions set by others).
+4. So the grounds for attributing the outcome to the clinician differ
+   between A and B, while the traceability is the same.
+
+## Critical questions
+
+**Is the case coherent?** Yes. Nothing in an audit trail of an approval
+records the approver's workload, information or the penalties for refusing;
+those can vary while the trail stays fixed.
+
+**Does it separate the very things the conclusion says come apart?** Yes,
+given premise 3: traceability is held fixed and the conditions that bear on
+attribution are varied. Premise 3 is the ordinary control and epistemic
+conditions on responsibility, which the claim does not need in any
+particular theory's form.
+
+## Verdict
+
+Proposed. The separation is shown; what fair attribution requires is left
+open.

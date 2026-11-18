@@ -1,0 +1,69 @@
+---
+status: Unavailable
+status_note: >-
+  Sought 2026-11-16: no lawful copy of the book. OpenAlex lists NYU Press
+  Scholarship Online (doi:10.18574/nyu/9780814770450.001.0001) as closed, with
+  no repository copy. A Spanish translation that appears to be chapter 1
+  (Revista Ethika+, doi:10.5354/2452-6037.2023.72121) was located, but its
+  download stopped at a bot check on revistaethika.uchile.cl. Neighbours read:
+  Tronto (2018), "Higher education for citizens of caring democracies"
+  (doi:10.20853/32-6-2710), which summarizes the book's program in four steps
+  in her words; the 2024 interview (doi:10.1057/s41296-024-00680-6); and Liedo
+  et al. ([LIT-tmpd8i3u](LIT-tmpd8i3u.md)). They stand in for the book's thesis and program, not
+  its chapters.
+title: 'Caring Democracy: Markets, Equality, and Justice'
+version: 2
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Filed, not read, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Identifier checked on 2026-11-15 (arXiv, DataCite, doi.org, PubMed, Open Library or Crossref), no email address sent to any service. Not held: no hit for the identifier, the title or the first author in record/literature.d. published: 2013-01-01 (year only (Open Library)). DOI (NYU Press Scholarship Online) matches ISBN 9780814770450 in Open Library.
+- version: 2
+  date: '2026-11-16'
+  note: >-
+    Lawful copy sought on 2026-11-16 by a delegated reader; none of the book found (closed). A probable Spanish translation of chapter 1 located in Revista Ethika+ but stopped by a bot check. Status Deferred to Unavailable. Neighbours registered and read: Tronto 2018 (SAJHE), the 2024 Contemporary Political Theory interview, and Liedo et al. (LIT-tmpd8i3u). No email address sent to any service.
+tags:
+- ethics
+- society-and-governance
+date: '2026-11-15'
+published: '2013-01-01'
+doi: '10.18574/nyu/9780814770450.001.0001'
+first_author: 'Tronto'
+keywords: []
+implementations: []
+summary: >-
+  Tronto (2013). Caring Democracy: Markets, Equality, and Justice. New York
+  University Press. DOI 10.18574/nyu/9780814770450.001.0001. Not read: no
+  lawful copy found (2026-11-16). Tronto's own later summary (Tronto 2018,
+  read as a neighbour) gives the book's program. Realign the privileges that
+  "make it impossible to discuss how some people take on an unfair load of
+  care responsibilities". Hear everyone's voice in the adjustment. Organize
+  caring democratically. Out of "caring-with", trust and solidarity emerge.
+  Neoliberal personal responsibility is "one of the great roadblocks". Liedo
+  et al. ([LIT-tmpd8i3u](LIT-tmpd8i3u.md)) report its account of privileged irresponsibility at a
+  moral and a political level (p. 58). Cited in the exchange (A17 §§2, 7) for
+  democracy as the allocation of caring responsibilities, which the neighbours
+  confirm. The chapter-level claims of A's reading list are unverified.
+---
+<!-- inactive-ok-file: CLAIM-tmpnfjln CLAIM-tmpyjzi8 — filed from the same exchange, Proposed, or Unavailable -->
+
+# LIT-tmp4yz7x: Caring Democracy: Markets, Equality, and Justice
+
+Tronto (2013). *Caring Democracy: Markets, Equality, and Justice*. New York University Press. DOI 10.18574/nyu/9780814770450.001.0001.
+
+## Key takeaways
+
+*Not read; see the reading of 2026-11-16 below.*
+
+## Standing in the record
+
+Registered from the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), A17 §2, §7; A17 reading list, on the distribution of care and privileged irresponsibility. It bears on [CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md), [CLAIM-tmpyjzi8](../claims.d/CLAIM-tmpyjzi8.md). Read on 2026-11-16; see the reading below. Stand-in read on 2026-11-16: [LIT-tmpxla08](LIT-tmpxla08.md), Tronto (2018), for the concept and the program only.
+
+## Reading of 2026-11-16
+
+Not read: no lawful copy (2026-11-16). Stand-ins: Tronto (2018) in SAJHE (the book's program in
+four steps, in her words) and the 2024 interview ("caring with"; the Bellamy passage the book
+quotes at p. 44), both read in full; and Liedo et al. ([LIT-tmpd8i3u](LIT-tmpd8i3u.md)), who report the moral and
+political levels of privileged irresponsibility from p. 58. A17 §7's "democratic politics should
+centrally involve the allocation of responsibilities for care" is confirmed. A's chapter
+pointers ("chapters 2 and 4", "vicious circles") are not.

@@ -1,0 +1,66 @@
+---
+status: Read
+paper: LIT-tmp4ummt
+title: 'Long (2021) — The ideal victim: A critical race theory (CRT) approach'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Read on 2026-11-16 as a partial stand-in for Christie (1986)
+    (LIT-tmpyjztu), from a delegated reader's draft. Copy: the published
+    version (CC BY-NC 4.0) in the Leeds Beckett repository; the whole
+    article read; references consulted for the Christie entry.
+date: '2026-11-16'
+summary: >-
+  From twenty interviews, Long argues that police often treat Black people
+  who report crime as suspects, so that Black men, cast as Christie's
+  "ideal offender", are denied victim status; the article restates
+  Christie's definition and attributes of the ideal victim with page
+  references.
+---
+<!-- inactive-ok-file: CLAIM-tmpp8na7 THEORY-317 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# NOTE-tmpojn2e: Long (2021) — The ideal victim: A critical race theory (CRT) approach
+
+## Contribution
+
+An application of Christie's ideal-victim thesis through critical race theory to Black people's experience of
+reporting crime in England, and, for this record, a page-referenced restatement of Christie's concept.
+
+## Key results
+
+1. Christie's definition (Christie p. 18): the ideal victim is a person or group who, when they experience crime,
+   "most readily are given" "the complete and legitimate status of being a victim".
+2. Christie's attributes: the ideal victim "is weak (elderly, sick or very young), engaged in respectable activity, and therefore" innocent, "has not precipitated her own victimization", and "the offender is ‘big and bad’ (Christie, 1986)".
+3. Christie p. 20: "In order to successfully claim the legitimate status of victim, the individual must have sufficient" power to make the case known and not be blocked by counter-powers.
+4. Christie p. 26, the ideal offender: "He is, morally speaking, Black against the White victim."
+5. "Most victims are ‘non ideal’ (Christie, 1986)".
+6. "This dichotomy presupposes that a person is either a victim or an offender, but they cannot be both." (citing Drake and Henley)
+7. A partner-violence instance: police called by a man whose partner attacked him "assumed that he was the aggressor"; "The victim-offender binary makes it even more difficult to be heard as a victim when they" are more easily seen as the offender.
+
+## Assumptions
+
+Society is racially ordered (stated as CRT's standpoint); interview accounts as evidence of experience; no comparison
+group.
+
+## Concepts
+
+Ideal victim; ideal offender; non-ideal victim; (un)victim; counter-power; victim-offender dichotomy.
+
+## Bearing on the record
+
+- **The exchange** (A5 §3) describes Christie's ideal victim in line with Long's quotations; its extension to morally
+  compromised victims is A's, and the nearest thing here, the victim-offender dichotomy, Long takes from Drake and
+  Henley, not Christie.
+- **[CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md)**: the dichotomy (result 6) is the failure the claim's "What it does not say" guards against, that
+  recognizing who holds power should not erase the controlled party's wrongs or vice versa. A reason the separation is
+  needed, not evidence for it. No relation.
+- **[THEORY-317](../theory.d/THEORY-317.md) and [CLAIM-406](../claims.d/CLAIM-406.md)**: withholding victim status from those cast as offenders is a deflated credibility
+  judgement on identity ([THEORY-317](../theory.d/THEORY-317.md)), and the police as "counter-power" deciding whose report is taken up resembles
+  [CLAIM-406](../claims.d/CLAIM-406.md)'s structural form. Long does not cite Fricker. No relation.
+- **Connections (as a stand-in):** restates Christie's definition, attributes, counter-power condition and ideal
+  offender; does not restate his wider argument, and does not address partner violence beyond one vignette.
+
+## Limitations
+
+Twenty self-selected interviews; the framework is assumed; Christie reached second-hand.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 4
+version: 7
 history:
 - version: 2
   date: '2026-10-29'
@@ -36,6 +36,21 @@ history:
     Proposed" was written the day the fifteenth status review
     promoted the claim, and it is Active. Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 5
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): A's syntheses (A30 §10, A35) restate this claim, and a
+    throughput claim filed from the same exchange (CLAIM-tmpfmmkt) gives one
+    arithmetic route to it. Title, defeater and status unchanged.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -79,6 +94,7 @@ summary: >-
 bears_on:
 - QUESTION-278
 ---
+<!-- inactive-ok-file: THEORY-tmpbkw8g — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1607 LIT-1614 LIT-1615 — Unavailable since 2026-10-29; works that may already hold the claim, cited as not reached, nothing here rests on them -->
 
@@ -185,3 +201,57 @@ A62 §9 of the second share of the exchange "Individuation, Possibility, and Dis
 The note of 2026-10-29 on Cover ends by saying the claim stays Proposed.
 It was written on the day the fifteenth status review promoted the claim
 (version 3), and is of its time: the claim is Active.
+
+## Note of 2026-11-15: restated, and an arithmetic route, from "Assess Depp Heard Abuse"
+
+<!-- inactive-ok-file: CLAIM-tmpfmmkt — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+
+The exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c) reached
+this claim three times without it. A30 §10, after reading the record, offered
+"one new claim for consideration": "Where an arrangement can foreclose
+relevant alternatives before authorized challenges can alter its course, the
+arrangement may retain nominal mechanisms of oversight while losing
+effective restraint. This loss can occur without any change in the content
+of the governing rules or the formal allocation of authority." A itself said
+it "would need to be checked against CLAIM-462, [CLAIM-523](CLAIM-523.md), [CLAIM-624](CLAIM-624.md)", and
+it is this claim with [CLAIM-464](CLAIM-464.md)'s fixed standards. A35's
+"strongest formulation", that a system "can retain effective direction
+while losing effective self-correction", is the same. Neither is filed.
+
+What the exchange adds is a route. [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md), filed from A35 §3:
+when challengeable decisions arrive faster than the corrective process
+resolves them, at most a share μ/λ of challenges can be resolved in time,
+whatever the order, while every affected party keeps the formal right. The
+relations that carry action (the rate of decisions) and those that carry
+correction (the rate of resolution) are different, as this claim says, and
+raising the first degrades the second without touching it. A35 §8 states
+the claim as a shrinking reachable set of corrections,
+C(s_{t+1}, B, H) ⊊ C(s_t, B, H), with a required objective dropping out of
+it while the standard stays the same; that is [TERM-085](../terms.d/TERM-085.md)
+and [CLAIM-464](CLAIM-464.md) in one line, and is mapped, not filed.
+
+## Note of 2026-11-16: Cuéllar, read
+
+Cuéllar's essay on presidential adjudication ([LIT-tmpryo91](../literature.d/LIT-tmpryo91.md), [NOTE-tmpsdyyp](../notes.d/NOTE-tmpsdyyp.md)) is a
+domain account of this claim's pattern for the United States presidency,
+independent of the exchanges the claim came from. In it, the executive's
+capacity for effective, particular action grows: more tools, reaching "more
+people and organizations, in more specific ways, and in more situations."
+(p. 604), with removal power, information technology and DOGE. Meanwhile
+the relations that corrected it weaken: norms that "are quickly eroding."
+(p. 617), partisan congressional oversight, lost agency independence, and a
+presumption of regularity whose premise of dutiful service is in doubt.
+Review stays limited "even as the importance and scope of this practice
+grows" (p. 599). He also holds, as Cover does, that "courts lack direct
+authority to enforce" (p. 647), and he treats discretion and accountability
+as separable: they "can coexist" (p. 652). He does not argue that the two
+capacities are maintained by different relations; that step remains the
+claim's. Relation: [THEORY-tmpbkw8g](../theory.d/THEORY-tmpbkw8g.md) corroborates. No change of status.
+
+## Note of 2026-11-16: Bovens and Zouridis, read
+
+The system-level bureaucracy is "zenith in legal rational authority" (§5.1): its capacity to execute the
+law is perfected, while the designers' choices, "essentially political", escape control (§5.2), and rigid
+application returns arbitrariness in a new form (§5.3). An independent instance of action and correction
+coming apart. Relation: corroborates.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpojwyk
 title: 'When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,14 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cameron (LIT-tmptaldv) read on 2026-11-16, NOTE-tmpmo882. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
 tags:
 - society-and-governance
 - social-ontology
@@ -37,6 +45,7 @@ summary: >-
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
 <!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: LIT-tmpdkpdp — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-686 CASE-261 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-13 with its standing -->
@@ -226,3 +235,15 @@ entries were filed that bear on this question.
   low-status party as from clinicians.
 
 The question is unchanged.
+
+## Note of 2026-11-16: Cameron, read
+
+Cameron's "'Making Out' While Driving" (read as a stand-in for her 2024 ASQ paper, [LIT-tmpdkpdp](../literature.d/LIT-tmpdkpdp.md), which could not be fetched) is a case of an organization that depends on the effort of participants it subordinates and secures it without ceding them authority. Drivers make the work meaningful through games. The platform's metrics make one game winnable: ratings and badges, so that drivers "tend to follow the algorithm's other suggestions". The other game meets opacity ("This opacity makes it impossible for them to accurately track their 'wins'") and sanctions ("If drivers declined too many rides, they risked being temporarily suspended or permanently deactivated"). Drivers' counter-tactics "reassert control" in the moment and leave the terms unchanged. On this evidence the question's second branch holds, the organization reproducing the arrangement, and its mechanism is the design of what counts as a win. The paper declines to say this produces consent, and takes no normative position.
+
+## Note of 2026-11-16: Liedo, Van Grunsven and Marin, read
+
+A case where an organization's dependence on subordinated contributors does **not** increase their
+authority. Care institutions depend on paid care workers' emotional labor, yet workers'
+identification with caring keeps its exploitation "unacknowledged by them or by other agents"
+(p. 6), and robots let institutions respond "without reorganizing care responsibilities in a fairer
+manner" (p. 13). Relation: **bears_on**.

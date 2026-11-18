@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpa9fyk
 title: "Fricker, in her 2003 paper and her 2017 retrospective, holds that testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, and that deliberate manipulation of credibility is a related but distinct wrong; and she accepts Anderson's structural form, which is pre-emptive: a speaker's word is never sought because of a structural prejudice, such as an un-refreshed list, that is no one's fault"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -24,6 +24,10 @@ history:
     narrowed title does not claim. It moves unchanged to
     QUESTION-322, as THEORY-285's did to QUESTION-303. Bears on
     QUESTION-072 added, which the body already said (ADR-060).
+- version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Harsey and Freyd (LIT-tmpx37pv) read on 2026-11-16, NOTE-tmpji37z. No change of status or title.
 tags:
 - epistemology
 - ethics
@@ -140,3 +144,13 @@ and keeps that use for a "related but distinct" wrong.
   not covered. It may be the hermeneutical kind ([THEORY-326](THEORY-326.md)). No
   `answers:` is declared, because whether the record's practice meets
   the condition is [QUESTION-072](../questions.d/QUESTION-072.md)'s empirical part.
+
+## Note of 2026-11-16: Harsey and Freyd, read
+
+Fricker, as this reading holds, distinguishes testimonial injustice, an ingenuous credibility misjudgement caused by
+prejudice, from "deliberate manipulation of credibility", a related but distinct wrong. Harsey and Freyd (2023),
+[LIT-tmpx37pv](../literature.d/LIT-tmpx37pv.md), test one such manipulation: an accused's DARVO statement, which "attacks her credibility", led
+undergraduate observers to rate the accuser as less believable ("participants who were exposed to perpetrator DARVO
+rated the perpetrator as less abusive", and the victim as less believable and more abusive). It is evidence that the
+distinct wrong works through third parties' credibility judgments, which then may not be prejudiced at all. It does
+not bear on Fricker's account of testimonial injustice itself. Relation: none (THEORY to THEORY); a note only.

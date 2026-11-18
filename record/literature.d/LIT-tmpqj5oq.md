@@ -1,0 +1,55 @@
+---
+status: Active
+title: 'Conflict and Control: Gender Symmetry and Asymmetry in Domestic Violence'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Filed and read as a stand-in for Johnson (2008), A Typology of Domestic
+    Violence (LIT-tmpyfuuw), which has no lawful copy. Read on 2026-11-16
+    from the published article on the author's Penn State site
+    (sites.psu.edu/feministmpj/files/2023/09/2006-VAW.pdf). Identifier
+    checked against OpenAlex (DOI 10.1177/1077801206293328; Violence
+    Against Women 12(11): 1003-1018). Not held: no hit for the DOI, the title
+    or "Conflict and Control" in record/literature.d. No email address sent
+    to any service.
+tags:
+- social-science
+- moral-psychology
+date: '2026-11-16'
+published: '2006-10-17'
+doi: '10.1177/1077801206293328'
+first_author: 'Johnson'
+keywords: []
+implementations: []
+summary: >-
+  Johnson (2006). Conflict and Control: Gender Symmetry and Asymmetry in
+  Domestic Violence. Violence Against Women 12(11): 1003-1018. DOI
+  10.1177/1077801206293328. Defines four types of partner violence by the
+  control context of the couple, not by the violence (intimate terrorism,
+  violent resistance, situational couple violence, mutual violent
+  control), and shows in Frieze's 1970s court, shelter and survey sample
+  that intimate terrorism is almost all men's and found in agency samples,
+  while situational couple violence is near gender-symmetric and dominates
+  general surveys. Read as the stand-in for Johnson's 2008 book
+  ([LIT-tmpyfuuw](LIT-tmpyfuuw.md)) on the typology the exchange "Assess Depp Heard Abuse"
+  cites (A3 §2, §5).
+---
+<!-- inactive-ok-file: CASE-tmpwrhkd CLAIM-tmpp8na7 LIT-tmpyfuuw — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# LIT-tmpqj5oq: Conflict and Control: Gender Symmetry and Asymmetry in Domestic Violence
+
+Johnson (2006). *Conflict and Control: Gender Symmetry and Asymmetry in Domestic Violence*. Violence Against Women
+12(11): 1003-1018. DOI 10.1177/1077801206293328.
+
+## Key takeaways
+
+Partner violence is four phenomena, distinguished by who in the couple is violent and controlling. Intimate
+terrorism and violent resistance are gender-asymmetric; situational couple violence is near symmetric; mutual violent
+control was rare (five couples). Surveys and agency samples see different types, which is why they disagree about
+gender symmetry.
+
+## Standing in the record
+
+Filed as the stand-in for [LIT-tmpyfuuw](LIT-tmpyfuuw.md) (Johnson 2008), whose typology it states; it does not carry the book's later
+data and chapters. Bears on [CLAIM-tmpp8na7](../claims.d/CLAIM-tmpp8na7.md) (corroborates) and [CASE-tmpwrhkd](../cases.d/CASE-tmpwrhkd.md).

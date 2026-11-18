@@ -1,0 +1,63 @@
+---
+status: Read
+paper: LIT-tmpjp4qh
+title: 'Rubel, Castro and Pham (2021) — Agency Laundering and Information Technologies'
+version: 1
+history:
+- version: 1
+  date: '2026-11-16'
+  note: >-
+    Read on 2026-11-16 from a reader's draft for the readings of the
+    exchange "Assess Depp Heard Abuse". Copy: the publisher's PDF of
+    chapter 7 on Cambridge Core (open access), pp. 137–162, all of
+    §§7.1–7.8 and the 60 footnotes read. Not read: the rest of the book,
+    to which the chapter cross-refers for the EVAAS, Uber and Loomis
+    background. The 2019 journal article (LIT-tmp16tpz) was not reached;
+    its abstract matches this chapter, and this note serves for it as far
+    as the abstract shows.
+date: '2026-11-16'
+summary: >-
+  Agency laundering is a wrong of accountability: a party responsible for
+  a domain makes a process, person or technology partly causally
+  responsible for outcomes in it, ascribes it neutrality or reliability,
+  and so obscures its own role and forestalls others' demands for an
+  account. Facebook's ad categories, Uber's surge prompts and Houston's
+  EVAAS firings are laundering; Uber's goal reminders and the Loomis
+  court's use of COMPAS are not.
+---
+<!-- inactive-ok-file: CLAIM-624 CLAIM-tmpnfjln — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+# NOTE-tmpw5xe2: Rubel, Castro and Pham (2021) — Agency Laundering and Information Technologies
+
+## Contribution
+
+A five-condition definition of agency laundering (§7.2) that turns on an accountability view of responsibility and separates laundering from honest delegation by its fifth condition, the failure to account. The wrong is not that values are built into systems: the concern is "not merely that values are instantiated within such systems" (p. 138).
+
+## Key results
+
+1. p. 143, the definition's third and fifth conditions: "a ascribes (implicitly or explicitly) morally relevant qualities to b’s actions"; "(5) in virtue of (4), a fails to adequately account for events within X".
+2. p. 143, the defining feature: the chair "are forestalling others’ ability to demand an account for the chair’s actions within" a domain of their legitimate concern.
+3. p. 144, n. 21: "Note that agency laundering does not require that one infringe one’s substantive role responsibilities".
+4. pp. 151–152, Uber's surge prompts launder and its goal reminders do not: "Surge periods are not a natural feature about the world that" Uber measures, and "Uber’s claim that it is simply the market’s doing is an inadequate account".
+5. p. 155, the Wisconsin Supreme Court's Loomis rule keeps the trial court's account: "Loomis addresses condition (5), and it is not a case of agency laundering."
+6. p. 157: invoking the "idea of a responsibility gap is a mechanism by which people may launder their agency."
+7. pp. 158–160: "any process or socio-technical system can be a mechanism for laundering"; humans in the loop "can be a means of laundering just as well as automation itself."
+8. p. 161, left open: "can a person who uses a tool to make decisions launder their agency" without intending to.
+
+## Assumptions
+
+Responsibility as accountability: being open to demands for an account of one's reasons and intentions (§7.1.2, after Strawson, Oshana, Smith). Moral responsibility as the conjunction of role, causal and capacity responsibility (§7.1.1). Only justifiable roles confer role responsibility (n. 8). A collective can be responsible; if it cannot, its members launder (§7.3).
+
+## Concepts
+
+Agency laundering; role, causal and capacity responsibility; forestalling demands for an account; Chair and Democratic Chair; preemptive laundering; bias laundering (Cegłowski) and masking (Barocas and Selbst), both subsumed; humans in the loop (Wagner); moral crumple zone (Elish, cited, [LIT-tmp4gcqt](../literature.d/LIT-tmp4gcqt.md)).
+
+## Bearing on the record
+
+- **[CLAIM-624](../claims.d/CLAIM-624.md)**: an independent statement of its structure for an agent's own part. Laundering is a wrong distinct from any substantive violation (n. 21), and its content is a failure of answerability: others cannot demand the account they are owed. [CLAIM-624](../claims.d/CLAIM-624.md) concerns keeping violations knowable and contestable; the chapter, not obscuring one's own causal role.
+- **[QUESTION-070](../questions.d/QUESTION-070.md)**: answers a version for a firm. Facebook's role responsibility "is not reducible to any particular individual developer"; if collective responsibility does reduce, the members launder. Whether laundering can be inadvertent is left open (§7.8).
+- **[CLAIM-tmpnfjln](../claims.d/CLAIM-tmpnfjln.md)**: touches its blame-placement half only, and conditionally. A human in the loop with "too little time to respond" could be a means by which "the moral responsibility of the larger entity" goes unaccounted for, though systems like Wagner's and Elish's could "launder agency (though not necessarily)." Nothing on credit for invisible compensation.
+- **The exchange** (A19 §1, A26 §V) presents laundering as human value choices appearing as impersonal technical outputs. That loses condition (5): an algorithmic output its deployer still fully accounts for is not laundering (Loomis), and the mechanism need not be technological.
+
+## Limitations
+
+Conceptual analysis; the cases are taken from journalism and court records. Facebook's role responsibility is argued for, not established. Intent, degree and scale are left open.
