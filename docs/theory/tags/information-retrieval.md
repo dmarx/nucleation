@@ -6,7 +6,7 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-43 of 1994 THEORY documents. Back to the [full index](../README.md).
+43 of 1996 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

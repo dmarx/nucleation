@@ -70,9 +70,9 @@ term can be small in practice.
 
 ## Note of 2026-11-18: Zhu, Li and Cai (2026), read
 
-<!-- inactive-ok-file: THEORY-tmppa16d — new; the reading's account -->
+<!-- inactive-ok-file: THEORY-1996 — new; the reading's account -->
 
-Zhu, Li and Cai ([LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md); [THEORY-tmppa16d](../theory.d/THEORY-tmppa16d.md)) find in
+Zhu, Li and Cai ([LIT-2779](../literature.d/LIT-2779.md), [NOTE-2078](../notes.d/NOTE-2078.md); [THEORY-1996](../theory.d/THEORY-1996.md)) find in
 merged LoRA task vectors what this construction shows in miniature: the
 same pair of updates is non-additive in output on code prompts and
 additive on math prompts, "Neither pair identity" "nor input distribution

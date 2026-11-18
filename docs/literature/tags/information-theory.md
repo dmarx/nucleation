@@ -6,7 +6,7 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-140 of 2777 LIT documents. Back to the [full index](../README.md).
+140 of 2779 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -62,9 +62,9 @@ stated for one level at a time.
 
 ## Note of 2026-11-18: Holm and Stechmann (2004), read
 
-<!-- inactive-ok-file: THEORY-tmp405mh — new; the reading's account -->
+<!-- inactive-ok-file: THEORY-1995 — new; the reading's account -->
 
-Holm and Stechmann ([LIT-tmp3py9h](../literature.d/LIT-tmp3py9h.md), [NOTE-tmpja35d](../notes.d/NOTE-tmpja35d.md); [THEORY-tmp405mh](../theory.d/THEORY-tmp405mh.md)) take the
+Holm and Stechmann ([LIT-2778](../literature.d/LIT-2778.md), [NOTE-2079](../notes.d/NOTE-2079.md); [THEORY-1995](../theory.d/THEORY-1995.md)) take the
 filament as given, vorticity concentrated on a curve (eq. 2.1), and choose
 its Hamiltonian. With helicity in place of kinetic energy the filament is
 not a material line: "so in general ω will not be frozen into the fluid

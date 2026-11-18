@@ -119,9 +119,9 @@ Appendix A; v3 skimmed (abstract, introduction, Figure 1, §4.2, §6).
 
 ## Note of 2026-11-18: Zhu, Li and Cai (2026), read
 
-<!-- inactive-ok-file: THEORY-tmppa16d — new; the companion's account -->
+<!-- inactive-ok-file: THEORY-1996 — new; the companion's account -->
 
-The companion paper ([LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md); [THEORY-tmppa16d](THEORY-tmppa16d.md))
+The companion paper ([LIT-2779](../literature.d/LIT-2779.md), [NOTE-2078](../notes.d/NOTE-2078.md); [THEORY-1996](THEORY-1996.md))
 supplies the estimand this account uses and qualifies two things around
 its title, which it does not test:
 

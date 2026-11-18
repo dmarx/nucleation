@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-424 of 2077 NOTE documents. Back to the [full index](../README.md).
+425 of 2079 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -432,3 +432,4 @@
 | [NOTE-1994](../../../record/notes.d/NOTE-1994.md) | Chaves et al. — Bridging domains through subspace-aware model merging | Domain generalization by merging CLIP encoders fine-tuned on single source domains, leave-one-domain-out over eight benchmarks. Domain experts' task matrices overlap more in their singular subspaces than multi-task experts', which the paper calls stronger conflict. SCORE, a data-free shared-basis projection with trimmed off-diagonal couplings, edges TIES and TSV on average by under a point; task arithmetic at λ = 1 collapses below zero-shot. | Read |
 | [NOTE-1996](../../../record/notes.d/NOTE-1996.md) v2 | Cerrato, Sahlgren and Heilmann (2026) — Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse | In a simulated hiring screen on census data, upstream choices of label, feature measurement and model-selection metric move the counterfactual explanations given to rejected candidates more than the explanation method's own threshold does; the authors argue that counterfactual explanations used as justification or recourse bracket the deployer's contestable choices and frame the subject as the one who must change. | Read |
 | [NOTE-2025](../../../record/notes.d/NOTE-2025.md) v2 | Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian (2018) — Runaway Feedback Loops in Predictive Policing | In a Pólya-urn model of predictive policing that learns only from incidents its own patrols discover, deployment locks onto the region that started ahead (equal crime rates) or onto the higher-rate region however slight the difference (unequal rates); reported incidents attenuate but do not remove the effect; discarding discovered incidents in proportion to patrol probability restores convergence to the true rates. | Read |
+| [NOTE-2078](../../../record/notes.d/NOTE-2078.md) | Zhu, Li and Cai — When do task vectors interfere? | First-token output non-additivity of two merged LoRA task vectors depends on the input distribution as well as the task pair (code+safety over code+math on code prompts, null on math), transfers in coarse ordering to unseen pairs, and is hidden by the template the adapters were trained on but not by an untrained chat template. | Read |

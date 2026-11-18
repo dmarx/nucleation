@@ -4,7 +4,7 @@
 
 **representation-learning**.
 
-227 of 2077 NOTE documents. Back to the [full index](../README.md).
+228 of 2079 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -235,3 +235,4 @@
 | [NOTE-1989](../../../record/notes.d/NOTE-1989.md) | Zhu — Orientation, not magnitude: the causal structure of task-vector interference | An exact layerwise ledger of the non-additive part of a two-task-vector LoRA merge in Qwen2.5 and Llama-3.2 at the final prompt token: about 65–70% of its flux is transport of the existing term, amplified in late blocks; erased early it is rebuilt; erased along its own direction it reduces output non-additivity, and norm-matched wrong directions raise it. Templates suppress its expression in two-vector merges. v3 adds that it is a bystander in merge collapse. | Read |
 | [NOTE-1991](../../../record/notes.d/NOTE-1991.md) | Ravfogel et al. — Null It Out (INLP) | INLP makes a protected attribute linearly undecodable by iterated nullspace projection (gender SVM accuracy 100% → 49.3% on GloVe), while a one-hidden-layer MLP still recovers it at 85.0%; the paper says itself that the guarantee covers linear classifiers only. | Read |
 | [NOTE-1994](../../../record/notes.d/NOTE-1994.md) | Chaves et al. — Bridging domains through subspace-aware model merging | Domain generalization by merging CLIP encoders fine-tuned on single source domains, leave-one-domain-out over eight benchmarks. Domain experts' task matrices overlap more in their singular subspaces than multi-task experts', which the paper calls stronger conflict. SCORE, a data-free shared-basis projection with trimmed off-diagonal couplings, edges TIES and TSV on average by under a point; task arithmetic at λ = 1 collapses below zero-shot. | Read |
+| [NOTE-2078](../../../record/notes.d/NOTE-2078.md) | Zhu, Li and Cai — When do task vectors interfere? | First-token output non-additivity of two merged LoRA task vectors depends on the input distribution as well as the task pair (code+safety over code+math on code prompts, null on math), transfers in coarse ordering to unseen pairs, and is hidden by the template the adapters were trained on but not by an untrained chat template. | Read |

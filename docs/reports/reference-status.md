@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**948 documents cited without acknowledgement.** Not listed: 34368 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**948 documents cited without acknowledgement.** Not listed: 34390 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -6862,7 +6862,7 @@ Experience is constituted by interpretive organization, not produced by it: an a
 
 A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
 
-5 citations in 4 files await a look; 50 other citations of it are acknowledged.
+5 citations in 4 files await a look; 51 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1698.md:219`](../../record/notes.d/NOTE-1698.md)
 - [`record/terms.d/TERM-088.md:34`](../../record/terms.d/TERM-088.md)
@@ -10247,7 +10247,7 @@ Czubak and Jerrard — Topological defects in the abelian Higgs model
 
 Van Gorder — Quantum Hasimoto transformation on a superfluid vortex filament
 
-2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2612.md:7`](../../record/literature.d/LIT-2612.md)
 - [`record/theory.d/THEORY-1868.md:24`](../../record/theory.d/THEORY-1868.md)
@@ -10643,7 +10643,7 @@ In random-features ridge regression the double-descent peak is a divergence of t
 
 Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign
 
-2 citations in 1 file await a look; 57 other citations of it are acknowledged.
+2 citations in 1 file await a look; 58 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-069.md:17`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:38`](../../record/questions.d/QUESTION-069.md)

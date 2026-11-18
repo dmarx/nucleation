@@ -6,7 +6,7 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-232 of 1994 THEORY documents. Back to the [full index](../README.md).
+232 of 1996 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

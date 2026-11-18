@@ -1,5 +1,8 @@
 ---
+number: 1996
 status: Proposed
+formerly:
+- THEORY-tmppa16d
 promote_when: >-
   An independent group, merging two LoRA task vectors fine-tuned from one
   language-model base by task arithmetic and measuring first-token output
@@ -20,9 +23,9 @@ tags:
 - anthology-candidate
 date: '2026-11-18'
 source:
-- LIT-tmp5zjqc
+- LIT-2779
 summary: >-
-  Zhu, Li and Cai (2026), [LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), read in [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md). At
+  Zhu, Li and Cai (2026), [LIT-2779](../literature.d/LIT-2779.md), read in [NOTE-2078](../notes.d/NOTE-2078.md). At
   Qwen2.5-1.5B the matched contrast code+safety minus code+math is about
   +6.0 on code prompts and +0.1 on math prompts; it persists at 0.5B, 7B,
   under full fine-tuning at 0.5B and in Llama-3.1-8B. On the same code
@@ -33,11 +36,11 @@ summary: >-
   it is the owner's call.
 ---
 
-# THEORY-tmppa16d: In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.1 language models, the non-additivity of the first-token output distribution, measured against an additive counterfactual in logit space and normalised by displacement from the base, depends on the input distribution as well as the task pair, and the template the adapters were trained on hides it on prompts where it is present while an untrained chat template does not
+# THEORY-1996: In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.1 language models, the non-additivity of the first-token output distribution, measured against an additive counterfactual in logit space and normalised by displacement from the base, depends on the input distribution as well as the task pair, and the template the adapters were trained on hides it on prompts where it is present while an untrained chat template does not
 
 ## Source
 
-Zhu, Li and Cai (2026), [LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), read in [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md) (v2, main
+Zhu, Li and Cai (2026), [LIT-2779](../literature.d/LIT-2779.md), read in [NOTE-2078](../notes.d/NOTE-2078.md) (v2, main
 text and appendix; ancillary files not seen).
 
 ## The result

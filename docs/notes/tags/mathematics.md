@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-306 of 2077 NOTE documents. Back to the [full index](../README.md).
+307 of 2079 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -314,3 +314,4 @@
 | [NOTE-1990](../../../record/notes.d/NOTE-1990.md) | Gargiulo et al. — Task singular vectors | Per-layer updates of fully fine-tuned CLIP ViTs are close to low-rank. An interference score built from cross-task overlap of their singular vectors is highest in early layers. Truncating each update and orthogonalising the singular vectors across tasks (TSV-M) beats task arithmetic by about 15 points on ViT-B/32 and needs no scaling coefficient. The ablation needs both steps; the overlap-accuracy link is an association over three task sets. | Read |
 | [NOTE-1993](../../../record/notes.d/NOTE-1993.md) | Yang, Shi and Liu — Orthogonal Model Merging | Merges orthogonally finetuned models by mapping each rotation to so(d) with the inverse Cayley transform, averaging, and rescaling the average to undo the norm lost when conflicting directions cancel. Extends to LoRA and full fine-tuning by splitting each update into a Procrustes rotation and a residual. On five Llama-3.1-8B OFT experts the correction is what lifts the merge (41.01 to 46.25); non-OFT gains are small and mixed. | Read |
 | [NOTE-2017](../../../record/notes.d/NOTE-2017.md) v2 | Umpleby (2016) — Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition | A short, memoir-style exposition by a cybernetician who worked with Lefebvre. It restates the thesis of Algebra of Conscience: the dominant ethical systems of the West and the USSR differ. In Lefebvre's model whether exponents in a three-level model of reflexion combine by addition or multiplication generates two systems, glossed as whether the end justifies the means; crossing willingness to compromise with self-esteem gives four types (saint, hero, philistine, dissembler) that fall differently in each. Umpleby attributes negotiating misunderstandings to the difference, from anecdote, and reports without a source that the theory was used at the highest levels. | Read |
+| [NOTE-2079](../../../record/notes.d/NOTE-2079.md) | Holm and Stechmann — Hasimoto transformation and vortex soliton motion driven by fluid helicity | Under the Rasetti–Regge Dirac bracket, the local induction approximation of fluid helicity, taken as a vortex filament's Hamiltonian, gives a curve motion that the Hasimoto transformation maps to the complex modified KdV equation, the NLS hierarchy's second flow. Formal; no soliton constructed. Read as a second neighbour of Hasimoto (1972). | Read |

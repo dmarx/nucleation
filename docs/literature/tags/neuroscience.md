@@ -6,7 +6,7 @@
 
 **Neuroscience** — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-179 of 2777 LIT documents. Back to the [full index](../README.md).
+179 of 2779 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

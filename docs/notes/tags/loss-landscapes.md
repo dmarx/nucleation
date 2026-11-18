@@ -4,7 +4,7 @@
 
 **loss-landscapes**.
 
-49 of 2077 NOTE documents. Back to the [full index](../README.md).
+50 of 2079 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -57,3 +57,4 @@
 | [NOTE-1990](../../../record/notes.d/NOTE-1990.md) | Gargiulo et al. — Task singular vectors | Per-layer updates of fully fine-tuned CLIP ViTs are close to low-rank. An interference score built from cross-task overlap of their singular vectors is highest in early layers. Truncating each update and orthogonalising the singular vectors across tasks (TSV-M) beats task arithmetic by about 15 points on ViT-B/32 and needs no scaling coefficient. The ablation needs both steps; the overlap-accuracy link is an association over three task sets. | Read |
 | [NOTE-1993](../../../record/notes.d/NOTE-1993.md) | Yang, Shi and Liu — Orthogonal Model Merging | Merges orthogonally finetuned models by mapping each rotation to so(d) with the inverse Cayley transform, averaging, and rescaling the average to undo the norm lost when conflicting directions cancel. Extends to LoRA and full fine-tuning by splitting each update into a Procrustes rotation and a residual. On five Llama-3.1-8B OFT experts the correction is what lifts the merge (41.01 to 46.25); non-OFT gains are small and mixed. | Read |
 | [NOTE-1994](../../../record/notes.d/NOTE-1994.md) | Chaves et al. — Bridging domains through subspace-aware model merging | Domain generalization by merging CLIP encoders fine-tuned on single source domains, leave-one-domain-out over eight benchmarks. Domain experts' task matrices overlap more in their singular subspaces than multi-task experts', which the paper calls stronger conflict. SCORE, a data-free shared-basis projection with trimmed off-diagonal couplings, edges TIES and TSV on average by under a point; task arithmetic at λ = 1 collapses below zero-shot. | Read |
+| [NOTE-2078](../../../record/notes.d/NOTE-2078.md) | Zhu, Li and Cai — When do task vectors interfere? | First-token output non-additivity of two merged LoRA task vectors depends on the input distribution as well as the task pair (code+safety over code+math on code prompts, null on math), transfers in coarse ordering to unseen pairs, and is hidden by the template the adapters were trained on but not by an untrained chat template. | Read |

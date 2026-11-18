@@ -4,7 +4,7 @@
 
 **natural-sciences**.
 
-237 of 2077 NOTE documents. Back to the [full index](../README.md).
+238 of 2079 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -245,3 +245,4 @@
 | [NOTE-1968](../../../record/notes.d/NOTE-1968.md) | Márquez et al. — Angle multiplexing and Bragg selectivity in volume holography | A review's account of volume holography and holographic data storage. In a thick hologram, multi-plane diffraction makes reconstruction Bragg-selective in the reading beam's angle or wavelength, so holograms recorded in one volume and detuned beyond the selectivity range are reconstructed one per reading beam, sharing the material's dynamic range. Angle multiplexing is the most widespread storage method, with more than 1000 holograms; thick layers keep crosstalk down. No selectivity-width formula is given. Stand-in for A's unidentified source. | Skimmed |
 | [NOTE-1983](../../../record/notes.d/NOTE-1983.md) | Sadreev — Interference traps waves in an open system | A BIC is a zero-width eigenvalue of the effective non-Hermitian Hamiltonian, and decoupling from every continuum channel is necessary and sufficient for one. The routes are symmetry, Friedrich–Wintgen interference (a zero-width state beside a superradiant partner), Fabry–Pérot and accident. The Fano resonance collapses at the BIC point. Real ones are quasi-BICs. | Skimmed |
 | [NOTE-1992](../../../record/notes.d/NOTE-1992.md) | Zhang et al. — Static topological solitons in mechanical metamaterials | Compressed past a critical strain, the cells of a perforated elastomer buckle into two mirror rotations. Ordered domain walls between them are the static kink–antikink lattice of the λφ⁴ equation, with net charge zero, pinned by a lattice barrier. These are φ⁴ kinks, not Kane–Lubensky polarization. They exist only while the compression holds the double well. | Read |
+| [NOTE-2079](../../../record/notes.d/NOTE-2079.md) | Holm and Stechmann — Hasimoto transformation and vortex soliton motion driven by fluid helicity | Under the Rasetti–Regge Dirac bracket, the local induction approximation of fluid helicity, taken as a vortex filament's Hamiltonian, gives a curve motion that the Hasimoto transformation maps to the complex modified KdV equation, the NLS hierarchy's second flow. Formal; no soliton constructed. Read as a second neighbour of Hasimoto (1972). | Read |

@@ -6,7 +6,7 @@
 
 **Ethics** — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
 
-130 of 1994 THEORY documents. Back to the [full index](../README.md).
+130 of 1996 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

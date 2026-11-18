@@ -6,7 +6,7 @@
 
 **Copy found, not fetched** — a lawful free copy of the work itself was located at an exact address, and this client could not fetch it; the status note gives the address, the obstacle and when. The owner's queue. Not a judgement on merit, and a supplied copy returns it to reading (ADR-053).
 
-173 of 2777 LIT documents. Back to the [full index](../README.md).
+173 of 2779 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
