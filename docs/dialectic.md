@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-51 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+52 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -347,6 +347,11 @@
 
 - [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(disclaimed, Proposed)*
   - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(thesis, Active)* — through [ARG-053](../record/arguments.d/ARG-053.md)
+
+## From The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such
+
+- [CLAIM-687](../record/claims.d/CLAIM-687.md) — The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such *(thesis, Proposed)*
+  - [CLAIM-749](../record/claims.d/CLAIM-749.md) — Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects *(counter, Proposed)*
 
 ## From Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted
 

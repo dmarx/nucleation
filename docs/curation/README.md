@@ -7,6 +7,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 ## Currently — [November 2026](2026-11.md)
 
 - [18 Nov 01:36 — Synthesis review of 2026-11-18: the learned-structure line, after the filings of 2026-11-15, in two new part accounts and five revised accounts; stale links from the line-field sweep of 2026-11-11 corrected; one claim admitted by test; no claim filed](2026-11.md#synthesis-review-of-2026-11-18-the-learned-structure-line-after-the-filings-of-2026-11-15-in-two-new-part-accounts-and-five-revised-accounts-stale-links-from-the-line-field-sweep-of-2026-11-11-corrected-one-claim-admitted-by-test-no-claim-filed)
+- [17 Nov 20:57 — The exchange "Assess Depp Heard Abuse" filed: from coercive control to rightful power, answerability and accountability without blame; most of its record bridge held, fourteen of the owner's turns filed, twenty-nine of A's claims, six questions, five terms and nine cases filed Proposed, nine entries reconciled into the first share's filing, dated notes on thirty-nine held entries, and eighty-five works registered unread](2026-11.md#the-exchange-assess-depp-heard-abuse-filed-from-coercive-control-to-rightful-power-answerability-and-accountability-without-blame-most-of-its-record-bridge-held-fourteen-of-the-owners-turns-filed-twenty-nine-of-as-claims-six-questions-five-terms-and-nine-cases-filed-proposed-nine-entries-reconciled-into-the-first-shares-filing-dated-notes-on-thirty-nine-held-entries-and-eighty-five-works-registered-unread)
 - [15 Nov 22:16 — The exchange "Assess Depp Heard Abuse" filed: the owner's procedural-friction claim with A's objection, seven of A's claims, three cases, one ARG, two questions, five dated notes and forty-seven works registered unread; the speed bound the owner applied at U13 was already held](2026-11.md#the-exchange-assess-depp-heard-abuse-filed-the-owners-procedural-friction-claim-with-as-objection-seven-of-as-claims-three-cases-one-arg-two-questions-five-dated-notes-and-forty-seven-works-registered-unread-the-speed-bound-the-owner-applied-at-u13-was-already-held)
 - [15 Nov 06:40 — The continuation of "Explain String Theory": wave mathematics for learning and computation, storage against access, resource-conditional dispositions, and RL as sharpening](2026-11.md#the-continuation-of-explain-string-theory-wave-mathematics-for-learning-and-computation-storage-against-access-resource-conditional-dispositions-and-rl-as-sharpening)
 - [15 Nov 06:01 — The exchange "Explain String Theory": strings as solitons of a field, and A's proposal of a soliton testbed for the record's distinctions](2026-11.md#the-exchange-explain-string-theory-strings-as-solitons-of-a-field-and-as-proposal-of-a-soliton-testbed-for-the-records-distinctions)
@@ -81,10 +82,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-269 entries across 3 books, newest first.
+270 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 72 | 2026-11-01 | 2026-11-18 |
+| [2026-11](2026-11.md) | 73 | 2026-11-01 | 2026-11-18 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
