@@ -60,12 +60,17 @@ https://www.bal.com/immigration-news/united-states-federal-court-vacates-75-coun
 the National Law Review on the interview pause that followed,
 https://natlawreview.com/article/state-department-pauses-immigrant-visa-interviews-following-court-ruling-vacating.
 
-**The structure the case shows** (A108 §4): the court found that consular
-officers "had been directed to refuse immigrant visas to nationals of the 75
-designated countries even where individualized assessment established that
-an applicant was not likely to become a public charge and was otherwise
-eligible". With E(x) individual eligibility and B(x) the nationality
-restriction, Issue(x) = 0 whenever B(x) = 1, even where E(x) = 1.
+**The structure the case shows** (A108 §4). In the court's words (Opinion
+and Order, ECF No. 83, pp. 1–2): "Consular officers were ordered to refuse
+immigrant visas to nationals of the 75 designated countries, regardless of
+whether the consular officer had, following an individualized assessment,
+determined that the applicant was not likely to become a public charge and
+that the applicant was otherwise eligible for a visa." And at p. 42: "The
+outcome is predetermined." With E(x) individual eligibility and B(x) the
+nationality restriction, Issue(x) = 0 whenever B(x) = 1, even where
+E(x) = 1. (As first filed, this paragraph quoted A108's paraphrase as the
+court's finding. Corrected on 2026-11-17 from the opinion itself, read
+from CourtListener's RECAP copy.)
 
 **The owner's characterization, recorded as the owner's.** U46, quoting
 A106 §4 on manufactured moral authority:
