@@ -7,6 +7,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 ## Currently — [November 2026](2026-11.md)
 
 - [18 Nov 01:36 — Synthesis review of 2026-11-18: the learned-structure line, after the filings of 2026-11-15, in two new part accounts and five revised accounts; stale links from the line-field sweep of 2026-11-11 corrected; one claim admitted by test; no claim filed](2026-11.md#synthesis-review-of-2026-11-18-the-learned-structure-line-after-the-filings-of-2026-11-15-in-two-new-part-accounts-and-five-revised-accounts-stale-links-from-the-line-field-sweep-of-2026-11-11-corrected-one-claim-admitted-by-test-no-claim-filed)
+- [18 Nov 01:33 — The 85 works registered from "Assess Depp Heard Abuse" sought and read: 49 read or skimmed (32 newly, 17 also read on main), 13 Unfetched, 23 Unavailable, 15 stand-ins read; three ARGs where a claim cited a work for more than it carries, and a decision admitting two more kinds of lawful copy](2026-11.md#the-85-works-registered-from-assess-depp-heard-abuse-sought-and-read-49-read-or-skimmed-32-newly-17-also-read-on-main-13-unfetched-23-unavailable-15-stand-ins-read-three-args-where-a-claim-cited-a-work-for-more-than-it-carries-and-a-decision-admitting-two-more-kinds-of-lawful-copy)
 - [18 Nov 01:14 — Synthesis review of 2026-11-17 (interim): dependence-and-domination and organizational-normativity after the filing of "Assess Depp Heard Abuse"; six part accounts, both line accounts revised, an account of the exchange's argument and how it developed, no claim filed, and a follow-up due once the readings are filed](2026-11.md#synthesis-review-of-2026-11-17-interim-dependence-and-domination-and-organizational-normativity-after-the-filing-of-assess-depp-heard-abuse-six-part-accounts-both-line-accounts-revised-an-account-of-the-exchanges-argument-and-how-it-developed-no-claim-filed-and-a-follow-up-due-once-the-readings-are-filed)
 - [17 Nov 20:57 — The exchange "Assess Depp Heard Abuse" filed: from coercive control to rightful power, answerability and accountability without blame; most of its record bridge held, fourteen of the owner's turns filed, twenty-nine of A's claims, six questions, five terms and nine cases filed Proposed, nine entries reconciled into the first share's filing, dated notes on thirty-nine held entries, and eighty-five works registered unread](2026-11.md#the-exchange-assess-depp-heard-abuse-filed-from-coercive-control-to-rightful-power-answerability-and-accountability-without-blame-most-of-its-record-bridge-held-fourteen-of-the-owners-turns-filed-twenty-nine-of-as-claims-six-questions-five-terms-and-nine-cases-filed-proposed-nine-entries-reconciled-into-the-first-shares-filing-dated-notes-on-thirty-nine-held-entries-and-eighty-five-works-registered-unread)
 - [15 Nov 22:16 — The exchange "Assess Depp Heard Abuse" filed: the owner's procedural-friction claim with A's objection, seven of A's claims, three cases, one ARG, two questions, five dated notes and forty-seven works registered unread; the speed bound the owner applied at U13 was already held](2026-11.md#the-exchange-assess-depp-heard-abuse-filed-the-owners-procedural-friction-claim-with-as-objection-seven-of-as-claims-three-cases-one-arg-two-questions-five-dated-notes-and-forty-seven-works-registered-unread-the-speed-bound-the-owner-applied-at-u13-was-already-held)
@@ -83,10 +84,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-271 entries across 3 books, newest first.
+272 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 74 | 2026-11-01 | 2026-11-18 |
+| [2026-11](2026-11.md) | 75 | 2026-11-01 | 2026-11-18 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

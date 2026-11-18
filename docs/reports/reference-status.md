@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**949 documents cited without acknowledgement.** Not listed: 32399 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**945 documents cited without acknowledgement.** Not listed: 33176 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1944,8 +1944,9 @@ A reading named as evidence in a question's or claim's text is tied when the nam
 
 A reading that marks the limit of a claim's scope, cited as such in the claim's own text, carries `bounds` to the claim, and the claim's `bounded_by` is derived; it is neither support nor objection
 
-57 citations in 54 files await a look; 38 other citations of it are acknowledged.
+58 citations in 55 files await a look; 38 other citations of it are acknowledged.
 
+- [`record/claims.d/CLAIM-707.md:406`](../../record/claims.d/CLAIM-707.md)
 - [`record/theory.d/THEORY-001.md:54`](../../record/theory.d/THEORY-001.md)
 - [`record/theory.d/THEORY-012.md:63`](../../record/theory.d/THEORY-012.md)
 - [`record/theory.d/THEORY-034.md:44`](../../record/theory.d/THEORY-034.md)
@@ -4393,7 +4394,7 @@ Coercion
 - [`record/claims.d/CLAIM-701.md:12`](../../record/claims.d/CLAIM-701.md)
 - [`record/claims.d/CLAIM-703.md:12`](../../record/claims.d/CLAIM-703.md)
 - [`record/claims.d/CLAIM-708.md:32`](../../record/claims.d/CLAIM-708.md)
-- [`record/claims.d/CLAIM-708.md:305`](../../record/claims.d/CLAIM-708.md)
+- [`record/claims.d/CLAIM-708.md:316`](../../record/claims.d/CLAIM-708.md)
 - [`record/claims.d/CLAIM-709.md:44`](../../record/claims.d/CLAIM-709.md)
 - [`record/literature.d/LIT-2673.md:7`](../../record/literature.d/LIT-2673.md)
 - [`record/literature.d/LIT-2673.md:65`](../../record/literature.d/LIT-2673.md)
@@ -5705,7 +5706,7 @@ Flow tells against the potential account's condition that valence is undefined w
 
 Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected
 
-7 citations in 4 files await a look; 11 other citations of it are acknowledged.
+7 citations in 4 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-476.md:255`](../../record/claims.d/CLAIM-476.md)
 - [`record/literature.d/LIT-1631.md:58`](../../record/literature.d/LIT-1631.md)
@@ -6099,7 +6100,7 @@ Model-based wanting is a pursuit process's ranking of the futures it predicts un
 
 Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-6 citations in 6 files await a look; 101 other citations of it are acknowledged.
+6 citations in 6 files await a look; 105 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:19`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:18`](../syntheses/role/thesis.md)
@@ -7425,7 +7426,7 @@ A slowly changing collective variable, such as a reputation, a rivalry or a stan
 
 A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential
 
-4 citations in 3 files await a look; 69 other citations of it are acknowledged.
+4 citations in 3 files await a look; 70 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-418.md:166`](../../record/claims.d/CLAIM-418.md)
 - [`record/terms.d/TERM-045.md:42`](../../record/terms.d/TERM-045.md)
@@ -7955,9 +7956,9 @@ Praiseworthiness is compatible with being psychologically determined by good rea
 
 4 citations in 2 files await a look; 20 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-068.md:33`](../../record/questions.d/QUESTION-068.md)
-- [`record/questions.d/QUESTION-068.md:55`](../../record/questions.d/QUESTION-068.md)
-- [`record/questions.d/QUESTION-068.md:60`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:41`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:63`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:68`](../../record/questions.d/QUESTION-068.md)
 - [`record/terms.d/TERM-083.md:84`](../../record/terms.d/TERM-083.md)
 
 ### [THEORY-1279](../../record/theory.d/THEORY-1279.md) — Proposed
@@ -9092,9 +9093,9 @@ An agent can be morally responsible for what she did although she could not have
 
 3 citations in 1 file await a look; 27 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-068.md:33`](../../record/questions.d/QUESTION-068.md)
-- [`record/questions.d/QUESTION-068.md:56`](../../record/questions.d/QUESTION-068.md)
-- [`record/questions.d/QUESTION-068.md:60`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:41`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:64`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:68`](../../record/questions.d/QUESTION-068.md)
 
 ### [THEORY-120](../../record/theory.d/THEORY-120.md) — Proposed
 
@@ -9103,7 +9104,7 @@ A motive is the agent's own, and she acts of her own free will, when she identif
 3 citations in 3 files await a look; 42 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-016.md:84`](../../record/claims.d/CLAIM-016.md)
-- [`record/claims.d/CLAIM-022.md:47`](../../record/claims.d/CLAIM-022.md)
+- [`record/claims.d/CLAIM-022.md:52`](../../record/claims.d/CLAIM-022.md)
 - [`record/claims.d/CLAIM-534.md:18`](../../record/claims.d/CLAIM-534.md)
 
 ### [THEORY-1239](../../record/theory.d/THEORY-1239.md) — Proposed
@@ -9203,7 +9204,7 @@ Ventromedial prefrontal cortex stores links between kinds of situation and the b
 3 citations in 3 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-283.md:120`](../../record/claims.d/CLAIM-283.md)
-- [`record/claims.d/CLAIM-342.md:142`](../../record/claims.d/CLAIM-342.md)
+- [`record/claims.d/CLAIM-342.md:147`](../../record/claims.d/CLAIM-342.md)
 - [`record/questions.d/QUESTION-121.md:76`](../../record/questions.d/QUESTION-121.md)
 
 ### [THEORY-551](../../record/theory.d/THEORY-551.md) — Proposed
@@ -9294,6 +9295,15 @@ An account the record holds only in parts, for a line or a part of one, gets a S
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
+
+### [ADR-095](../../record/decisions.d/ADR-095.md) — Proposed
+
+A case or a term that uses a reading other than as its source carries `draws_on` to it, and the reading's `drawn_on_by` is derived; how a case uses it is its kind's to say, and a term draws on the readings its sense is fixed by
+
+2 citations in 2 files await a look; 108 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-288.md:126`](../../record/cases.d/CASE-288.md)
+- [`record/terms.d/TERM-127.md:159`](../../record/terms.d/TERM-127.md)
 
 ### [ARG-013](../../record/arguments.d/ARG-013.md) — Rejected
 
@@ -9596,9 +9606,9 @@ If a willed agent is the jurisdiction of its will-organization, then governing o
 
 An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers' access and incentives
 
-2 citations in 2 files await a look; 110 other citations of it are acknowledged.
+2 citations in 2 files await a look; 114 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-406.md:233`](../../record/claims.d/CLAIM-406.md)
+- [`record/claims.d/CLAIM-406.md:238`](../../record/claims.d/CLAIM-406.md)
 - [`record/decisions.d/ADR-085.md:115`](../../record/decisions.d/ADR-085.md)
 
 ### [CLAIM-629](../../record/claims.d/CLAIM-629.md) — Proposed
@@ -9776,9 +9786,9 @@ Responsibility for Failures of Government
 
 Administrative Burden: Policymaking by Other Means
 
-2 citations in 2 files await a look; 7 other citations of it are acknowledged.
+2 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-2660.md:14`](../../record/literature.d/LIT-2660.md)
+- [`record/literature.d/LIT-2660.md:27`](../../record/literature.d/LIT-2660.md)
 - [`record/notes.d/NOTE-1382.md:6`](../../record/notes.d/NOTE-1382.md)
 
 ### [LIT-1614](../../record/literature.d/LIT-1614.md) — Unavailable
@@ -9788,7 +9798,7 @@ Republicanism: A Theory of Freedom and Government
 2 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-278.md:84`](../../record/questions.d/QUESTION-278.md)
-- [`record/terms.d/TERM-085.md:102`](../../record/terms.d/TERM-085.md)
+- [`record/terms.d/TERM-085.md:108`](../../record/terms.d/TERM-085.md)
 
 ### [LIT-1631](../../record/literature.d/LIT-1631.md) — Unavailable
 
@@ -9956,19 +9966,10 @@ Foreign Aid, Institutions, and Governance in Sub-Saharan Africa
 
 Ironies of automation
 
-2 citations in 2 files await a look; 16 other citations of it are acknowledged.
+2 citations in 2 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-600.md:551`](../../record/claims.d/CLAIM-600.md)
 - [`record/syntheses.d/SYNTHESIS-010.md:433`](../../record/syntheses.d/SYNTHESIS-010.md)
-
-### [LIT-2669](../../record/literature.d/LIT-2669.md) — Unavailable
-
-Caring Democracy: Markets, Equality, and Justice
-
-2 citations in 2 files await a look; 11 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-2683.md:11`](../../record/literature.d/LIT-2683.md)
-- [`record/literature.d/LIT-2709.md:17`](../../record/literature.d/LIT-2709.md)
 
 ### [LIT-316](../../record/literature.d/LIT-316.md) — Unavailable
 
@@ -10084,7 +10085,7 @@ Hyzen, Van den Bulck, Puppis, Kulig and Paulussen — Epistemic welfare and algo
 
 2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-403.md:153`](../../record/claims.d/CLAIM-403.md)
+- [`record/claims.d/CLAIM-403.md:159`](../../record/claims.d/CLAIM-403.md)
 - [`record/terms.d/TERM-064.md:196`](../../record/terms.d/TERM-064.md)
 
 ### [NOTE-1454](../../record/notes.d/NOTE-1454.md) — Skimmed
@@ -10633,8 +10634,8 @@ Moral responsibility requires the normative competence to recognise and act on t
 
 2 citations in 1 file await a look; 29 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-068.md:33`](../../record/questions.d/QUESTION-068.md)
-- [`record/questions.d/QUESTION-068.md:53`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:41`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:61`](../../record/questions.d/QUESTION-068.md)
 
 ### [THEORY-1222](../../record/theory.d/THEORY-1222.md) — Proposed
 
@@ -10669,7 +10670,7 @@ When mental control returns after mind-wandering, the self-model represents the 
 
 2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-022.md:83`](../../record/claims.d/CLAIM-022.md)
+- [`record/claims.d/CLAIM-022.md:88`](../../record/claims.d/CLAIM-022.md)
 - [`record/claims.d/CLAIM-156.md:189`](../../record/claims.d/CLAIM-156.md)
 
 ### [THEORY-1328](../../record/theory.d/THEORY-1328.md) — Proposed
@@ -10723,8 +10724,8 @@ Deep responsibility is not limited to the moral, and attributability and account
 
 2 citations in 1 file await a look; 25 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-068.md:33`](../../record/questions.d/QUESTION-068.md)
-- [`record/questions.d/QUESTION-068.md:54`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:41`](../../record/questions.d/QUESTION-068.md)
+- [`record/questions.d/QUESTION-068.md:62`](../../record/questions.d/QUESTION-068.md)
 
 ### [THEORY-148](../../record/theory.d/THEORY-148.md) — Proposed
 
@@ -11339,7 +11340,7 @@ A learned system's disposition to succeed at a task is resource-conditional: the
 
 An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
 
-1 citation in 1 file awaits a look; 84 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 106 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-700.md:21`](../../record/claims.d/CLAIM-700.md)
 
@@ -11347,7 +11348,7 @@ An organization can place control over the conditions of action upstream, the pr
 
 Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other's life, so a tally of wrongful acts does not settle who is responsible for the relationship's coercive structure, and a finding of that control does not excuse the controlled party's own wrongful acts
 
-1 citation in 1 file awaits a look; 53 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 67 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-113.md:16`](../../record/arguments.d/ARG-113.md)
 
@@ -11357,7 +11358,7 @@ A process with no procedural friction can still be interruptible: standing const
 
 1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-710.md:284`](../../record/claims.d/CLAIM-710.md)
+- [`record/claims.d/CLAIM-710.md:292`](../../record/claims.d/CLAIM-710.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -11791,35 +11792,27 @@ Defending Informational Structural Realism: The View of Alternatives
 
 - [`record/notes.d/NOTE-297.md:133`](../../record/notes.d/NOTE-297.md)
 
-### [LIT-2659](../../record/literature.d/LIT-2659.md) — Unfetched
+### [LIT-2669](../../record/literature.d/LIT-2669.md) — Unavailable
 
-Agency Laundering and Information Technologies
+Caring Democracy: Markets, Equality, and Justice
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 26 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-2031.md:18`](../../record/notes.d/NOTE-2031.md)
+- [`record/literature.d/LIT-2683.md:11`](../../record/literature.d/LIT-2683.md)
 
 ### [LIT-2675](../../record/literature.d/LIT-2675.md) — Unavailable
 
 Coercive Control: How Men Entrap Women in Personal Life
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1999.md:14`](../../record/notes.d/NOTE-1999.md)
-
-### [LIT-2679](../../record/literature.d/LIT-2679.md) — Unfetched
-
-Freedom and Resentment
-
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-1998.md:19`](../../record/notes.d/NOTE-1998.md)
 
 ### [LIT-2694](../../record/literature.d/LIT-2694.md) — Unavailable
 
 Moral Dimensions: Permissibility, Meaning, Blame
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1998.md:18`](../../record/notes.d/NOTE-1998.md)
 
@@ -11827,7 +11820,7 @@ Moral Dimensions: Permissibility, Meaning, Blame
 
 Moral Boundaries: A Political Argument for an Ethic of Care
 
-1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 28 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2683.md:11`](../../record/literature.d/LIT-2683.md)
 
@@ -11835,7 +11828,7 @@ Moral Boundaries: A Political Argument for an Ethic of Care
 
 Moral Luck
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2023.md:18`](../../record/notes.d/NOTE-2023.md)
 
@@ -11843,7 +11836,7 @@ Moral Luck
 
 A Typology of Domestic Violence: Intimate Terrorism, Violent Resistance, and Situational Couple Violence
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 22 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2028.md:14`](../../record/notes.d/NOTE-2028.md)
 
@@ -11859,7 +11852,7 @@ The Ideal Victim
 
 Two Faces of Responsibility
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2008.md:18`](../../record/notes.d/NOTE-2008.md)
 
@@ -12759,30 +12752,6 @@ A deep linear network trained from small weights learns the singular modes of it
 
 - [`record/questions.d/QUESTION-305.md:18`](../../record/questions.d/QUESTION-305.md)
 
-### [THEORY-1922](../../record/theory.d/THEORY-1922.md) — Proposed
-
-Lohmann and colleagues' meta-analysis finds exposure to coercive control moderately associated with PTSD and depression symptoms, comparably to broader psychological intimate partner violence in the same studies and not, as they predicted, more strongly
-
-1 citation in 1 file awaits a look.
-
-- [`record/literature.d/LIT-2678.md:8`](../../record/literature.d/LIT-2678.md)
-
-### [THEORY-1929](../../record/theory.d/THEORY-1929.md) — Proposed
-
-Mazinani and O'Connor's review of eight meta-analyses finds the most consistent and largest risk markers for physical intimate partner violence in the relationship context, prior aggression, emotional abuse and dissatisfaction, and holds that analysing violence dyadically implies neither symmetric control nor shared responsibility
-
-1 citation in 1 file awaits a look.
-
-- [`record/literature.d/LIT-2717.md:8`](../../record/literature.d/LIT-2717.md)
-
-### [THEORY-1935](../../record/theory.d/THEORY-1935.md) — Proposed
-
-Gaboriaud and colleagues find, in a preregistered mouse-tracking experiment, that intent, outcome and the agent's causal role each make wrongness and blame judgments harsher, but that the two judgment types differ little: only causality weighed more in blame, and by a very small amount
-
-1 citation in 1 file awaits a look.
-
-- [`record/literature.d/LIT-2677.md:8`](../../record/literature.d/LIT-2677.md)
-
 ### [THEORY-208](../../record/theory.d/THEORY-208.md) — Proposed
 
 Agency is multiply realisable without cognition or mental states, and AI is a new kind of it
@@ -13141,7 +13110,7 @@ A reference the reader cannot follow: the code names no document in this record.
 
 A temporary code belongs to the contribution that created it, and only that contribution can cite it safely. One cited here with no document behind it is another branch's — it resolves for as long as both are open, and stops the moment the other merges and its code is numbered. The trunk never sees the spelling this record wrote down.
 
-**0 codes not minted here.** Not listed: 9 mentions marked deliberate with an `unresolved-ok:` comment — an illustrative code in an example is the usual one.
+**0 codes not minted here.** Not listed: 108 mentions marked deliberate with an `unresolved-ok:` comment — an illustrative code in an example is the usual one.
 
 Every temporary code cited here is this record's own. ✅
 

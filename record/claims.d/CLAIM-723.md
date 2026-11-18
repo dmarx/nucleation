@@ -40,7 +40,7 @@ complements:
 - CLAIM-734
 - CLAIM-716
 grounds:
-- THEORY-tmpi4yv4
+- THEORY-1972
 summary: >-
   The owner's, from U27 of the exchange "Assess Depp Heard Abuse"
   (2026-11-16): "would it help if we formalized the notion of consent
@@ -208,6 +208,6 @@ name is A's.
   definition, not a legal test already recognized by courts."
 
 ## Note of 2026-11-17: Fuentes v. Shevin, read
-<!-- inactive-ok-file: THEORY-tmpi4yv4 — new reading and theory of 2026-11-18, Proposed -->
+<!-- inactive-ok-file: THEORY-1972 — new reading and theory of 2026-11-18, Proposed -->
 
-Fuentes v. Shevin (1972), read ([NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md), [THEORY-tmpi4yv4](../theory.d/THEORY-tmpi4yv4.md)), which the claim cites from A59 as unread. The Court locates the wrong in the timing of the opportunity: it "must be granted at a time when the deprivation can still be prevented", because "no later hearing and no damage award can undo the fact that the arbitrary taking that was subject to the right of procedural due process has already occurred" (Part IV). It holds the right independent of the merits, "The right to be heard does not depend upon an advance showing that one will surely prevail at the hearing" (Part V), which is the claim's "even where the objection would have failed". It counts a temporary deprivation as one. Its "extraordinary situations", which "must be truly unusual" (Part VI), correspond to the claim's "without adequate justification". Scope: a constitutional rule about state-assisted seizures of property from a possessor, decided 4–3 and called "a narrow one" by the Court; it supports the claim as a legal analogue, not as a moral principle, and its later doctrinal standing was not checked. A59's wording is a close paraphrase of Part IV, not a quotation. No status changes.
+Fuentes v. Shevin (1972), read ([NOTE-2072](../notes.d/NOTE-2072.md), [THEORY-1972](../theory.d/THEORY-1972.md)), which the claim cites from A59 as unread. The Court locates the wrong in the timing of the opportunity: it "must be granted at a time when the deprivation can still be prevented", because "no later hearing and no damage award can undo the fact that the arbitrary taking that was subject to the right of procedural due process has already occurred" (Part IV). It holds the right independent of the merits, "The right to be heard does not depend upon an advance showing that one will surely prevail at the hearing" (Part V), which is the claim's "even where the objection would have failed". It counts a temporary deprivation as one. Its "extraordinary situations", which "must be truly unusual" (Part VI), correspond to the claim's "without adequate justification". Scope: a constitutional rule about state-assisted seizures of property from a possessor, decided 4–3 and called "a narrow one" by the Court; it supports the claim as a legal analogue, not as a moral principle, and its later doctrinal standing was not checked. A59's wording is a close paraphrase of Part IV, not a quotation. No status changes.

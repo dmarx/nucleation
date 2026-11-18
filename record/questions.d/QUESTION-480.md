@@ -108,9 +108,9 @@ trigger independent of the standard declared with each judgment, so that
 the question reduces to choosing a standard ([CLAIM-363](../claims.d/CLAIM-363.md)).
 
 ## Note of 2026-11-17: Darwall's answer, through Stern, and Stern's objection
-<!-- inactive-ok-file: THEORY-tmpk5cgl LIT-2756 LIT-2747 — new or Unavailable; the reading filed on 2026-11-18 and the unread works it bears on -->
+<!-- inactive-ok-file: THEORY-1975 LIT-2756 LIT-2747 — new or Unavailable; the reading filed on 2026-11-18 and the unread works it bears on -->
 
-Stern 2014, read ([NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), [THEORY-tmpk5cgl](../theory.d/THEORY-tmpk5cgl.md)), standing in for Darwall 2006 ([LIT-2756](../literature.d/LIT-2756.md)). The THEORY now carries `bears_on` this question.
+Stern 2014, read ([NOTE-2065](../notes.d/NOTE-2065.md), [THEORY-1975](../theory.d/THEORY-1975.md)), standing in for Darwall 2006 ([LIT-2756](../literature.d/LIT-2756.md)). The THEORY now carries `bears_on` this question.
 
 **Darwall's answer, as Stern sketches it.** Obligation "involves the exercise of legitimate authority over the person obliged" (p. 2), and it holds wherever demands "could legitimately" be made, whatever "the actual demands an individual or a community of individuals might make" (p. 3). So justification is owed to those with second-personal standing, the members of the moral community, and because obligation consists in what they can legitimately demand. Giving another that standing "makes you answerable to them" (p. 9). And better guidance does not make authority: "meeting the standards of the normal justification thesis is not in fact sufficient to establish that one person has authority over another" (p. 7), against Raz ([LIT-2747](../literature.d/LIT-2747.md)). That is the point A83 relies on.
 

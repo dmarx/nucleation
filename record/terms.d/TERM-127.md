@@ -139,9 +139,9 @@ It adds: the record has no TERM for responsibility. [CLAIM-742](../claims.d/CLAI
 would be misread without it.
 
 ## Note of 2026-11-17: Miller is registered; Watson's and Shoemaker's senses through their neighbours
-<!-- inactive-ok-file: LIT-2755 NOTE-tmps8s9k NOTE-tmpfi3s5 THEORY-tmp3xr2l THEORY-tmptax6l THEORY-tmpjlmfm — Unavailable, new or Proposed; the works and readings filed on 2026-11-18 and the sibling term -->
+<!-- inactive-ok-file: LIT-2755 NOTE-2064 NOTE-2048 THEORY-1958 THEORY-1987 THEORY-1974 — Unavailable, new or Proposed; the works and readings filed on 2026-11-18 and the sibling term -->
 
-Shaw-Young 2008 for Miller ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), [THEORY-tmp3xr2l](../theory.d/THEORY-tmp3xr2l.md)), King 2013 for Watson ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md)), Shoemaker 2019 for Shoemaker 2011 ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), [THEORY-tmpjlmfm](../theory.d/THEORY-tmpjlmfm.md)), and Mazinani & O'Connor 2026 ([NOTE-2000](../notes.d/NOTE-2000.md)), read.
+Shaw-Young 2008 for Miller ([NOTE-2064](../notes.d/NOTE-2064.md), [THEORY-1958](../theory.d/THEORY-1958.md)), King 2013 for Watson ([NOTE-2053](../notes.d/NOTE-2053.md), [THEORY-1987](../theory.d/THEORY-1987.md)), Shoemaker 2019 for Shoemaker 2011 ([NOTE-2048](../notes.d/NOTE-2048.md), [THEORY-1974](../theory.d/THEORY-1974.md)), and Mazinani & O'Connor 2026 ([NOTE-2000](../notes.d/NOTE-2000.md)), read.
 
 **Correction.** "Sources of the senses" says Miller's "Distributing Responsibilities" (2001) is "not registered". It is registered as [LIT-2755](../literature.d/LIT-2755.md), Unavailable; the body should cite the code. Its read neighbour, Shaw-Young (2008), reports Miller's 2007 statement, which names six connections, not A's four: "moral responsibility, outcome responsibility, causal responsibility, benefit, capacity, and community" (thesis p. 20, Miller 2007 pp. 100–104). The term's remedial sense is Miller's; its causal sense matches Miller's causal responsibility; Miller's **outcome responsibility** (whose action produced the situation, which may be foreseeable and justified) has no slot among the term's five senses.
 

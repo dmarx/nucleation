@@ -38,7 +38,7 @@ bears_on:
 corroborates:
 - CLAIM-707
 ---
-<!-- inactive-ok-file: CASE-tmpnrxpi CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CASE-292 CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmp4utz4 — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1932: The NTSB found that the probable cause of the 2018 Tempe crash of an Uber ATG test vehicle was its operator's failure to monitor the road because she was distracted by her phone, that the automated driving system was designed to rely on the operator to avoid collisions, and that Uber ATG's inadequate safety culture, through poor risk assessment, rarely exercised oversight and no countermeasures to automation complacency, contributed to the crash and to the operator's distraction itself
@@ -76,7 +76,7 @@ and a culture that contributed "specifically to the vehicle operator's
 extended distraction" (p. 46). It does not show blame landing downstream:
 the NTSB carries cause upstream, to Uber and the state, so as an
 attribution the case sits nearer the second branch of the claim's
-`defeated_if` than a crumple zone ([CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md)). It bears on
+`defeated_if` than a crumple zone ([CASE-292](../cases.d/CASE-292.md)). It bears on
 [QUESTION-476](../questions.d/QUESTION-476.md): a no-blame investigation that keeps upstream provenance
 by naming contributing factors in the company and the state.
 

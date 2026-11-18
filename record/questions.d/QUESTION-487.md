@@ -81,9 +81,9 @@ agents can make the principal answer for the conditions. The first filing
 mapped A17's inverse principal-agent question to [QUESTION-461](QUESTION-461.md).
 
 ## Note of 2026-11-17: Tronto, Santoni de Sio and Elish read: a democratic answer in kind, a pair of duties, and certification
-<!-- inactive-ok-file: THEORY-1921 THEORY-tmpxw0zo THEORY-1939 THEORY-1928 — new; the readings filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-1921 THEORY-1993 THEORY-1939 THEORY-1928 — new; the readings filed on 2026-11-18 -->
 
-Tronto 2018 and 2014, read ([NOTE-2010](../notes.d/NOTE-2010.md), [THEORY-1921](../theory.d/THEORY-1921.md); [NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md), [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md); bears_on). A democratic answer in kind: democracy as "the allocation of caring responsibilities in a political community and the method of giving equal voice to all members of the community in making these allocations" (2014), and in reallocating them "everyone's voice must be heard" (2018, p. 14). It is a political route for those who bear responsibilities to shape them, not a principal–agent mechanism.
+Tronto 2018 and 2014, read ([NOTE-2010](../notes.d/NOTE-2010.md), [THEORY-1921](../theory.d/THEORY-1921.md); [NOTE-2049](../notes.d/NOTE-2049.md), [THEORY-1993](../theory.d/THEORY-1993.md); bears_on). A democratic answer in kind: democracy as "the allocation of caring responsibilities in a political community and the method of giving equal voice to all members of the community in making these allocations" (2014), and in reallocating them "everyone's voice must be heard" (2018, p. 14). It is a political route for those who bear responsibilities to shape them, not a principal–agent mechanism.
 
 Santoni de Sio & van den Hoven 2018, read ([NOTE-2024](../notes.d/NOTE-2024.md), [THEORY-1939](../theory.d/THEORY-1939.md), bears_on). A pair of duties running both ways: the operator's "meta-task responsibility" to check the system, and the designers' "obligation to design the system in such a way that this type of inquiry by users is not made impossible or unduly difficult" (p. 9). A duty on principals, not an instrument for agents.
 

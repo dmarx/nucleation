@@ -152,7 +152,7 @@ work is read.
 - Nothing about any real dispute or state.
 
 ## Note of 2026-11-17: Harsey and Freyd and Gaboriaud et al., read: neither tests the audience move
-<!-- inactive-ok-file: THEORY-1926 THEORY-1935 THEORY-tmptax6l — new or Unavailable; the readings filed on 2026-11-18 and the unread paper one of them quotes -->
+<!-- inactive-ok-file: THEORY-1926 THEORY-1935 THEORY-1987 — new or Unavailable; the readings filed on 2026-11-18 and the unread paper one of them quotes -->
 
 Harsey & Freyd 2023, read ([NOTE-2020](../notes.d/NOTE-2020.md), [THEORY-1926](../theory.d/THEORY-1926.md)); Gaboriaud et al. 2024, read ([NOTE-2013](../notes.d/NOTE-2013.md), [THEORY-1935](../theory.d/THEORY-1935.md)).
 
@@ -160,7 +160,7 @@ Harsey & Freyd 2023, read ([NOTE-2020](../notes.d/NOTE-2020.md), [THEORY-1926](.
 
 **Gaboriaud et al.** find that observers' blame of an agent rises with intent, outcome and the agent's own causal part (causality slightly more for blame than wrongness, d = 0.05). A party who arranges another's knowing, real wrong sets up those inputs, but the study does not vary an upstream arranger: its causality contrast is the agent against "another independent source". It does not test the claim; no relation.
 
-**King (2013), standing in for Watson** ([THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md)), is nearer the claim's verdict than either experiment: accountability-blame "makes relevant considerations about those holding the subject accountable. Thus, if I lack the standing to hold you to a legitimate demand, then you cannot be accountable to me". That bears on an arranger who then accuses; King does not discuss arranged wrongs, so no relation is written.
+**King (2013), standing in for Watson** ([THEORY-1987](../theory.d/THEORY-1987.md)), is nearer the claim's verdict than either experiment: accountability-blame "makes relevant considerations about those holding the subject accountable. Thus, if I lack the standing to hold you to a legitimate demand, then you cannot be accountable to me". That bears on an arranger who then accuses; King does not discuss arranged wrongs, so no relation is written.
 
 The brief also flags the claim's reliance on A's account of Simon Keller's teachers example; that is outside these readings.
 

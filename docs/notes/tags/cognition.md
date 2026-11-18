@@ -4,7 +4,7 @@
 
 **cognition**.
 
-235 of 2034 NOTE documents. Back to the [full index](../README.md).
+236 of 2077 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -243,3 +243,4 @@
 | [NOTE-1884](../../../record/notes.d/NOTE-1884.md) | Li, Zoumpoulis, Puranam, Parker et al. — Artificial intelligences and human scientists exhibit complementary strengths in theory building | On a social-science task — predicting which features of academic papers are associated with their discussing racial or gender inequality, against a machine-learning benchmark, then explaining the realized patterns — the authors compare 25 LLMs with 13 senior researchers and 60 doctoral students. Individually, the LLMs matched or beat most humans on most tasks, produced more elaborate theories (more paths and latent variables) that blind raters preferred, but the extra complexity did not buy accuracy. Human theories were far more diverse, and human crowds gained more from aggregation. | Read |
 | [NOTE-1938](../../../record/notes.d/NOTE-1938.md) | Crawford (2017) — Smart cities and technologies, an interview | Crawford, in a three-page interview, restates his book's diagnosis: attention captured in shared space, distraction as political economy rather than technology, the attentional commons, and smart cities that remove contingency and skill and make citizens captive and dependent. | Read |
 | [NOTE-1959](../../../record/notes.d/NOTE-1959.md) | Plate — Holographic reduced representations | Plate binds vectors by circular convolution, which keeps their dimension, so associations are items and can be bound and superposed again: fixed- width distributed representations of sequences, bindings and frames. Circular correlation decodes approximately; a separate item memory cleans up the noisy result. For independent random vectors the number of pairs a trace holds grows about linearly with the dimension, with a log factor in the number of candidate items. Holographic only by descent from convolution–correlation memories. | Read |
+| [NOTE-2036](../../../record/notes.d/NOTE-2036.md) | Kidd, Palmeri and Aslin — Rational snacking | Twenty-eight preschoolers (14 per condition) first did an art task in which an experimenter twice promised better materials; in the reliable condition she brought them, in the unreliable one she returned empty-handed. In the marshmallow task that followed, with the same experimenter, the reliable group waited a mean 12 min 2 s and the unreliable group 3 min 2 s; 9 of 14 against 1 of 14 waited the full 15 minutes. Wait-times reflect, beside self-control, an implicit rational judgment of whether waiting will pay off; the authors do not claim self-control is irrelevant. | Read |

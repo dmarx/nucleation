@@ -33,7 +33,7 @@ line:
 - will-organization
 grounds:
 - CASE-281
-- THEORY-tmpca37k
+- THEORY-1963
 complements:
 - CLAIM-601
 - CLAIM-728
@@ -133,6 +133,6 @@ accountable for what they are waiting for."
   delivery.
 
 ## Note of 2026-11-17: Kidd, Palmeri and Aslin, read
-<!-- inactive-ok-file: THEORY-tmpca37k — new theory of 2026-11-18 and the case, Proposed -->
+<!-- inactive-ok-file: THEORY-1963 — new theory of 2026-11-18 and the case, Proposed -->
 
-Kidd, Palmeri and Aslin 2013, read in full ([NOTE-tmp301qd](../notes.d/NOTE-tmp301qd.md), [THEORY-tmpca37k](../theory.d/THEORY-tmpca37k.md)): it supports the claim's first half, and the claim needs it, since [CASE-281](../cases.d/CASE-281.md), which it grounds on, reports this study; hence `add_grounds` rather than `corroborates`. Children who had just seen the experimenter break promises waited a mean 181.57 s against 722.43 s (§3), and the authors' hypothesis is the claim's: "Waiting is only the rational choice if you believe that a second marshmallow is likely to actually appear after a reasonably short delay" (§1.2). The reliability evidence came from the same adult who controlled delivery, which fits the claim's framing. The paper says nothing about control, exploitation or answerability; the second half stays A's interpretation. The authors also say their data "do not demonstrate that self-control is irrelevant" (§4), which the claim does not deny. Watts et al. ([LIT-2752](../literature.d/LIT-2752.md)) and Sperber et al. ([LIT-2723](../literature.d/LIT-2723.md)) find the task's later predictions largely explained by background, consistent with but not a test of a reliability reading. No status changes.
+Kidd, Palmeri and Aslin 2013, read in full ([NOTE-2036](../notes.d/NOTE-2036.md), [THEORY-1963](../theory.d/THEORY-1963.md)): it supports the claim's first half, and the claim needs it, since [CASE-281](../cases.d/CASE-281.md), which it grounds on, reports this study; hence `add_grounds` rather than `corroborates`. Children who had just seen the experimenter break promises waited a mean 181.57 s against 722.43 s (§3), and the authors' hypothesis is the claim's: "Waiting is only the rational choice if you believe that a second marshmallow is likely to actually appear after a reasonably short delay" (§1.2). The reliability evidence came from the same adult who controlled delivery, which fits the claim's framing. The paper says nothing about control, exploitation or answerability; the second half stays A's interpretation. The authors also say their data "do not demonstrate that self-control is irrelevant" (§4), which the claim does not deny. Watts et al. ([LIT-2752](../literature.d/LIT-2752.md)) and Sperber et al. ([LIT-2723](../literature.d/LIT-2723.md)) find the task's later predictions largely explained by background, consistent with but not a test of a reliability reading. No status changes.

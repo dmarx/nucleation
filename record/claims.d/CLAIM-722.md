@@ -41,7 +41,7 @@ complements:
 uses:
 - TERM-085
 grounds:
-- THEORY-tmprnqnh
+- THEORY-1984
 summary: >-
   A's, first stated in A85 §5 of the exchange "Assess Depp Heard Abuse"
   (2026-11-17), r_i^N = 1 with α_r ≈ 0, "The moral right remains valid.
@@ -143,6 +143,6 @@ apart from suppression.
   "The right's persistence is not the institution's adequacy".
 
 ## Note of 2026-11-17: Hohfeld, read
-<!-- inactive-ok-file: THEORY-tmprnqnh — new readings and theory of 2026-11-18, Proposed -->
+<!-- inactive-ok-file: THEORY-1984 — new readings and theory of 2026-11-18, Proposed -->
 
-Hohfeld 1913, read ([NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md), [THEORY-tmprnqnh](../theory.d/THEORY-tmprnqnh.md)). A87 §2's separation of CanPhysically(A, x) from Power_N(A, Δr_B), on which the claim's "gains a wrongdoer no normative power" turns, is Hohfeld's: "a legal power (as distinguished, of course, from a mental or physical power) is the opposite of legal disability, and the correlative of legal liability" (p. 44), and one must "distinguish carefully between the legal power, the physical power to do the things necessary for the 'exercise' of the legal power, and, finally, the privilege of doing these things" (p. 52). A power's holder is the one "whose volitional control is paramount" over the change in legal relations (p. 44); a wrongdoer who makes a remedy unreachable has physical control over the world, not that. Scope: Hohfeld analyses positive legal relations and says nothing about moral claims or about correctability; that a valid claim persists while its remedy becomes unreachable is the claim's, not his. Galanter's "more rights and rules 'on the books' than can be vindicated or enforced" ([NOTE-tmpny8gh](../notes.d/NOTE-tmpny8gh.md), p. 122) describes the same gap between validity and effect, descriptively. No status changes.
+Hohfeld 1913, read ([NOTE-2071](../notes.d/NOTE-2071.md), [THEORY-1984](../theory.d/THEORY-1984.md)). A87 §2's separation of CanPhysically(A, x) from Power_N(A, Δr_B), on which the claim's "gains a wrongdoer no normative power" turns, is Hohfeld's: "a legal power (as distinguished, of course, from a mental or physical power) is the opposite of legal disability, and the correlative of legal liability" (p. 44), and one must "distinguish carefully between the legal power, the physical power to do the things necessary for the 'exercise' of the legal power, and, finally, the privilege of doing these things" (p. 52). A power's holder is the one "whose volitional control is paramount" over the change in legal relations (p. 44); a wrongdoer who makes a remedy unreachable has physical control over the world, not that. Scope: Hohfeld analyses positive legal relations and says nothing about moral claims or about correctability; that a valid claim persists while its remedy becomes unreachable is the claim's, not his. Galanter's "more rights and rules 'on the books' than can be vindicated or enforced" ([NOTE-2059](../notes.d/NOTE-2059.md), p. 122) describes the same gap between validity and effect, descriptively. No status changes.

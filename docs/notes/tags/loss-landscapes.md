@@ -4,7 +4,7 @@
 
 **loss-landscapes**.
 
-49 of 2034 NOTE documents. Back to the [full index](../README.md).
+49 of 2077 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

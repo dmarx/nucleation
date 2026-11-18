@@ -323,6 +323,6 @@ objection, justification, and claims of right", is recorded here and not
 filed. No change.
 
 ## Note of 2026-11-17: Arnstein, read
-<!-- inactive-ok-file: THEORY-tmpf87o2 — new theory of 2026-11-18, Proposed -->
+<!-- inactive-ok-file: THEORY-1968 — new theory of 2026-11-18, Proposed -->
 
-Arnstein 1969, read from an OCR scan ([NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md), [THEORY-tmpf87o2](../theory.d/THEORY-tmpf87o2.md)): it corroborates the claim independently ([THEORY-tmpf87o2](../theory.d/THEORY-tmpf87o2.md) carries `corroborates`). Her tokenism band is admission and recognition without uptake ("this rung of the ladder is still a sham since it offers no assurance that citizen concerns and ideas will be taken into account", p. 219), and her partnership rung reaches the claim's last stage, a part in revising the standards: "After the groundrules have been established through some form of give-and-take, they are not subject to unilateral change" (p. 221). No status changes.
+Arnstein 1969, read from an OCR scan ([NOTE-2037](../notes.d/NOTE-2037.md), [THEORY-1968](../theory.d/THEORY-1968.md)): it corroborates the claim independently ([THEORY-1968](../theory.d/THEORY-1968.md) carries `corroborates`). Her tokenism band is admission and recognition without uptake ("this rung of the ladder is still a sham since it offers no assurance that citizen concerns and ideas will be taken into account", p. 219), and her partnership rung reaches the claim's last stage, a part in revising the standards: "After the groundrules have been established through some form of give-and-take, they are not subject to unilateral change" (p. 221). No status changes.
