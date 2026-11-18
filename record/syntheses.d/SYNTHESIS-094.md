@@ -3,7 +3,7 @@ number: 94
 status: Proposed
 formerly:
 - SYNTHESIS-tmpvdeqh
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -19,6 +19,19 @@ history:
     derivation of CLAIM-624's duty from a means-end principle, is
     integrated as a seventh argument concluding CLAIM-624. The
     introduction, summary, account, component list and links say so. No
+    other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    At the follow-up synthesis review of 2026-11-18, after the readings
+    of the works registered from "Assess Depp Heard Abuse" (the first
+    filing's of 2026-11-16 and the continuation's of 2026-11-18): two
+    readings of those works carry relations to components of this part
+    and were not recorded here. Rubel, Castro and Pham (THEORY-1946),
+    read on 2026-11-16, corroborates CLAIM-624; the Ninth Amendment
+    (THEORY-1954), read on 2026-11-18, bears on QUESTION-456. The account
+    says so. No component is added: none of the first filing's entries
+    and none of the nine reconciled entries belongs to this part. No
     other change.
 title: "The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart"
 defeated_if: >-
@@ -88,10 +101,11 @@ summary: >-
 <!-- inactive-ok-file: ARG-070 — Deferred; a component, set aside -->
 <!-- inactive-ok-file: ARG-071 — Rejected; a component, with its standing -->
 <!-- inactive-ok-file: ARG-114 CLAIM-727 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed; a component at version 3, and a citation -->
+<!-- inactive-ok-file: THEORY-1946 THEORY-1954 — readings of 2026-11-16 and 2026-11-18, Proposed; cited at version 4 as support for components -->
 
 # SYNTHESIS-094: The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
 
-*A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-091](SYNTHESIS-091.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates [ARG-114](../arguments.d/ARG-114.md), filed from the exchange "Assess Depp Heard Abuse" that day. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
+*A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-091](SYNTHESIS-091.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates [ARG-114](../arguments.d/ARG-114.md), filed from the exchange "Assess Depp Heard Abuse" that day. Version 4, at the follow-up review of 2026-11-18, records the two readings of that exchange's works that bear on components here. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
 
 ## The account
 
@@ -114,7 +128,15 @@ verdict only given an independently justified standard and a feasible
 alternative". It was admitted on that narrower title (its history,
 version 3); its body states where it diverges from the owner's thesis on
 unavoidable projections. A note of 2026-11-12 says a sense-3 reading, the
-state and its institutions, corroborates it. Seven arguments conclude it:
+state and its institutions, corroborates it. Rubel, Castro and Pham, read
+on 2026-11-16 from the exchange "Assess Depp Heard Abuse" ([THEORY-1946](../theory.d/THEORY-1946.md),
+[NOTE-2031](../notes.d/NOTE-2031.md)), also corroborate it, and its dated note says for what: agency
+laundering is a wrong of answerability distinct from any substantive
+violation, which "supports the claim's thesis that such a wrong exists
+and is not reducible to the loss", but "does not support the claim's
+specific duty", since the chapter's wrong is obscuring one's own causal
+role and it "gives no criterion of feasible alternatives". Seven
+arguments conclude it:
 
 - [ARG-055](../arguments.d/ARG-055.md) (Proposed), from [CASE-229](../cases.d/CASE-229.md) (A's matched-harm construction): the
   second-order wrong comes apart from the harm and its continuation;
@@ -183,7 +205,11 @@ obligations". Its summary says the monotonicity facts are checked by
 enumeration and the incentive is conditional. [QUESTION-456](../questions.d/QUESTION-456.md) (A's, A42 §8;
 Open; also distributed-agency) refines [QUESTION-129](../questions.d/QUESTION-129.md): how the demand set is
 to be established defensibly when the organization's own governance shapes
-who counts as a claimant. [CASE-249](../cases.d/CASE-249.md) (A's construction, not run;
+who counts as a claimant. The Ninth Amendment ([THEORY-1954](../theory.d/THEORY-1954.md)), read on
+2026-11-18 from the same exchange's works, bears on it: an enumeration
+of rights is not to be construed to deny others retained, which A85 §9
+reads as recognized claims not exhausting warranted ones (the
+question's dated note of 2026-11-17). [CASE-249](../cases.d/CASE-249.md) (A's construction, not run;
 stipulated, Proposed; first line realizability) illustrates [CLAIM-662](../claims.d/CLAIM-662.md) and
 [CLAIM-663](../claims.d/CLAIM-663.md) and bears on [QUESTION-456](../questions.d/QUESTION-456.md) and [QUESTION-279](../questions.d/QUESTION-279.md).
 
