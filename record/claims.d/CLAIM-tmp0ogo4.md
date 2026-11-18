@@ -44,6 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 CLAIM-679 — Proposed; the ratchet the claim uses and the record's nearest loops -->
 <!-- inactive-ok-file: CLAIM-tmpe5u7i CLAIM-tmpciy9q CLAIM-tmp8wki5 CASE-tmpm0rpn CASE-tmpohiyo — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: SYNTHESIS-tmphd6ep ADR-075 — Proposed; the part account whose audit found the admission, and the test it applied -->
 
 # CLAIM-tmp0ogo4: If members absorb what an arrangement leaves unmet, resources are set by measured performance, and complaints count only past an intervention threshold, then the compensation hides the shortfall from the rule that sets resources, apparent spare capacity is removed, correction grows harder and the burden returns to the members, a loop that can lock the arrangement in without anyone's misconduct; and where revealing capacity invites its removal, the members' best responses feed the loop
 
@@ -104,6 +105,34 @@ rise.
   same exchange, are its interpersonal and restrictive forms.
 - [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) (three hospitals with the same output and budget) and the
   study [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md) are its nearest cases.
+
+## Admission
+
+Found at the synthesis review of 2026-11-17 (SYNTHESIS-tmphd6ep, Arm A),
+under ADR-075's test for a claim whose premises are claims.
+
+**What it adds.** Unpaid extra work that keeps measured performance
+acceptable is invisible to a budget rule set on that performance, so the
+rule removes capacity that is in use. None of its premises states this.
+CLAIM-577's rule is peak spending, which never rises and cuts nothing by
+itself; CLAIM-549 is about intervention thresholds; CLAIM-tmpe5u7i writes
+no budget rule. The body above says the same ("The link that is not
+held").
+
+**The separating case.** A hospital whose unpaid extra hours are logged
+and read by the budget rule as demand. All three premises hold: the
+subsidy is unfunded, members carry the shortfall, and complaints stay
+below the threshold. But the shortfall is not hidden from the rule, so no
+capacity in use is cut, and the loop does not close. The case is
+realistic.
+
+**The reading it fixes.** Whether that case defeats the claim turns on
+"measured performance". If the phrase covers logged inputs, the case
+meets the claim's own defeater ("the budget rule responds to the
+compensation"). Read as output measured against obligations, which is
+how the claim is to be taken, the hospital's rule is not set on measured
+performance, so the case falls outside the claim's properties. The claim
+is then separate from its premises and not shown false by the case.
 
 ## What it does not say
 
