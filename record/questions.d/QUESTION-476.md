@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmp2t6ve
 status: Open
 title: 'Does blameless post-incident practice in engineering keep accountability while giving up blame, and if it does, does it keep or lose the upstream provenance of an incapacity that blame supplies?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -21,6 +21,13 @@ history:
     Takes the line rightful-power first, as one of its root questions;
     its earlier lines (organizational-normativity, distributed-agency)
     are kept after it. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Readings of blameless culture filed: the SRE chapter, Cook, Dekker
+    and Nyce, and 49 U.S.C. 1154, each with bears_on this question; two
+    claims and a proposed study filed in answer, with bears_on. No change
+    of status or title.
 tags:
 - society-and-governance
 - ethics
@@ -145,3 +152,16 @@ NTSB 2019, read for responsibility ([NOTE-2034](../notes.d/NOTE-2034.md), [THEOR
 Elish 2019, read ([NOTE-2019](../notes.d/NOTE-2019.md), [THEORY-1928](../theory.d/THEORY-1928.md), bears_on). Her contrast case points the other way on where attribution goes when no blameless practice intervenes: after a publicized accident, blame lands on the nearest operator; in the slowly surfacing Therac-25 accidents, lawsuits went to the manufacturer (pp. 50–51).
 
 No status changes.
+
+## Note of 2026-11-18: blameless culture read, and two claims filed in answer
+<!-- inactive-ok-file: THEORY-tmpuc245 THEORY-tmpl5x2t THEORY-tmpfomub THEORY-tmpq12rp CLAIM-tmpx4kjt CLAIM-tmp5g7xc CASE-tmpw9202 — new; the readings and the entries filed on 2026-11-18 -->
+<!-- inactive-ok-file: LIT-tmpwev6r LIT-tmpcqntz LIT-tmpfucfe — Unfetched or Unavailable; the three candidate sources not read -->
+
+On 2026-11-18 the owner asked the lead to "consider how blameless culture in modern engineering could be an interesting case for analysis here" and, on its proposals, "all of the above please". Of the candidate sources this question named, the SRE chapter was read (THEORY-tmpuc245); Allspaw's post is Unfetched behind a bot check (LIT-tmpwev6r); Dekker's *Just Culture* is Unavailable (LIT-tmpfucfe), with Dekker and Nyce (2013) read in its place (THEORY-tmpfomub). Cook's "How Complex Systems Fail" (THEORY-tmpl5x2t) and 49 U.S.C. § 1154 (THEORY-tmpq12rp) were also read; Reason (1997) is Unavailable (LIT-tmpcqntz). Each reading now carries `bears_on` this question.
+
+- **First half (accountability kept, blame given up).** The SRE chapter is the practice by design: contributing causes "without indicting any individual or team", follow-up actions to prevent recurrence, and disclosure as the reason. It shows the practice exists and is codified, not that it works.
+- **Second half (provenance).** No reading shows where a blameless postmortem's trace stops. The chapter says it runs to "the systematic reasons why an individual or team had incomplete or incorrect information"; it says nothing of decisions above the reviewing team. The NTSB at Tempe, no-blame by regulation and kept out of damages suits by § 1154(b), traced the operator's distraction to the company and the state and sent its recommendations to them: the first answer, for an investigator outside the organization. CLAIM-tmpx4kjt files that, with ARG-tmp67frz. CLAIM-tmp5g7xc hypothesizes the second answer for reviews commissioned inside the organization, with a prediction, and CASE-tmpw9202 is the study that would test it.
+- **Third answer (blame relocated).** Dekker and Nyce argue that a just-culture scheme in hospitals sorts blame by rank: "who gets to say".
+- **Cook** gives the premise all of these start from: root-cause attribution reflects "the social, cultural need to blame specific, localized forces or events", so blame itself tends to stop near the event.
+
+No status changes. The question stays Open: its second half, for engineering postmortems, is unanswered.

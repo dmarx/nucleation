@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpnrxpi
 title: 'Tempe, Arizona, 18 March 2018: an Uber test vehicle whose developmental automated driving system relied on its sole operator to brake killed a pedestrian while the operator streamed video; the NTSB made her distraction the probable cause and the company''s safety culture, which had removed the second operator and left automation complacency unaddressed, a contributing one'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -18,6 +18,12 @@ history:
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: bears_on QUESTION-476. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    A dated note added: the statute the report cites, 49 U.S.C. 1154(b),
+    read, and the report's recommendations rechecked. No change of status
+    or title.
 standing: documented
 kind: specimen
 tags:
@@ -115,3 +121,12 @@ Page numbers are the report's.
 - **Elish's earlier reading** ([LIT-2665](../literature.d/LIT-2665.md), [NOTE-2019](../notes.d/NOTE-2019.md), p. 53) rested on
   the preliminary report, which left open that the operator was "looking
   down at the touch-screen"; the final report found her streaming video.
+
+## Note of 2026-11-18: the bar on the report in damages suits, and where the recommendations went
+<!-- inactive-ok-file: THEORY-tmpq12rp CLAIM-tmpx4kjt — new; the reading and claim filed on 2026-11-18 -->
+
+The report's notice page cites 49 U.S.C. § 1154(b), now read (THEORY-tmpq12rp): no part of a Board report on an accident "may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report". The bar covers the Board's report of its determinations, probable cause included, and not its investigators' factual reports (49 CFR 835.2), and the texts read say nothing of criminal proceedings. Rechecked against the NTSB's PDF on 2026-11-18: the recommendations (p. 60) go to NHTSA, the state of Arizona, the American Association of Motor Vehicle Administrators and Uber ATG, and none to the operator.
+
+So the case shows, for QUESTION-476, a no-blame investigator fenced off from liability that traced cause upstream and directed repair there. CLAIM-tmpx4kjt files that and names this case in `grounds`.
+
+No status changes.
