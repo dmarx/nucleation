@@ -3,8 +3,8 @@ number: 709
 status: Proposed
 formerly:
 - CLAIM-tmpp8na7
-title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure'
-version: 12
+title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure, and a finding of that control does not excuse the controlled party''s own wrongful acts'
+version: 13
 history:
 - version: 2
   date: '2026-11-16'
@@ -50,6 +50,22 @@ history:
   date: '2026-11-16'
   note: >-
     Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about domination as control over the terms of another's life, the interpersonal form of CLAIM-690. No relation supplies organizational-normativity to it (ADR-085). No other change.
+- version: 13
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    from CLAIM-tmpkivlz, filed there from A3 §3, §7 and A7 §9 of the later
+    share, it takes the reason the two questions separate (domination is a
+    capacity, used or not, while a tally counts its exercises; A3 §3's six
+    questions ask about the capacity), the converse direction (a verdict of
+    domination does not settle the dominated party's culpability for its own
+    acts), added to the title and the defeater, and the uses of TERM-124 and
+    of the continuation's TERM-tmp8pnnr. The title was: Equality of
+    wrongdoing and equality of power are separate questions: two parties can
+    each act wrongly, even as often, while only one holds control over the
+    terms of the other's life, so a tally of wrongful acts does not settle
+    who is responsible for the relationship's coercive structure. No change
+    of status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,7 +76,10 @@ defeated_if: >-
   in a coherent case, because whoever controls the terms of another's life
   thereby commits more wrongful acts, by any count that counts control.
   Not defeated by a real relationship in which the two do coincide, which
-  the claim allows.
+  the claim allows; nor by the difficulty of establishing domination in a
+  given case, which A3 §6 grants. Its last clause is defeated by an
+  argument that a finding of control settles the controlled party's
+  culpability for its own acts, excusing them as responses.
 tags:
 - ethics
 - moral-psychology
@@ -73,6 +92,9 @@ grounds:
 complements:
 - CLAIM-690
 - CLAIM-708
+uses:
+- TERM-124
+- TERM-tmp8pnnr
 summary: >-
   A's, from A3 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
   answering the owner's U1 ("who's the asshole (including the possibility
@@ -83,11 +105,13 @@ summary: >-
   same magnitude of dependence is sorted by who controls the terms. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- unresolved-ok-file: CLAIM-tmpkivlz — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
+<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: LIT-2671 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CASE-279 CLAIM-708 ARG-113 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-545 TERM-124 — Proposed; the organizational form, domination and self-governance, cited with their standing -->
 
-# CLAIM-709: Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other's life, so a tally of wrongful acts does not settle who is responsible for the relationship's coercive structure
+# CLAIM-709: Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other's life, so a tally of wrongful acts does not settle who is responsible for the relationship's coercive structure, and a finding of that control does not excuse the controlled party's own wrongful acts
 
 ## The claim
 
@@ -113,6 +137,32 @@ responsibility under question 3."
 
 The support is the stipulated pair [CASE-279](../cases.d/CASE-279.md), in which the more frequent striker is the controlled party;
 the argument is [ARG-113](../arguments.d/ARG-113.md).
+
+## Why the two separate
+
+From the continuation's filing of the same turns (share
+https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, whose U1–U17
+coincide with this share's). A3 §7 puts the two as questions of different
+objects: "**Question 1: Who harmed whom?** This focuses on individual
+actions and consequences." "**Question 2: Who had power over whom?** This
+focuses on the ongoing relationship. Who could set the rules? Who had to
+accommodate the other's moods? Who could impose consequences? Whose
+autonomy was being restricted?" Under the first, "Both people can be
+guilty"; under the second, "the answer may be profoundly unequal, even
+when both people have done harmful things."
+
+In the record's terms the separation holds because [TERM-124](../terms.d/TERM-124.md) makes
+domination a capacity, "used or not", to set the terms on which another
+can act, exit, contest or renegotiate, while a count of acts, however
+complete, counts uses. A3 §3's six questions (can each say no, keep
+friends, spend money, leave the room, disagree, leave the relationship)
+ask about that capacity, not about acts. The separation runs both ways:
+each act keeps its own verdict, which a finding of domination neither
+erases nor fixes. A3: "Neither method should replace the other. Both the
+specific physical acts and the larger pattern matter." The senses of
+responsibility at stake (for a particular act, for the pattern or its
+conditions) are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s; a verdict in one does not carry to
+another.
 
 ## Where it sits
 
@@ -140,8 +190,13 @@ the argument is [ARG-113](../arguments.d/ARG-113.md).
 - **Who is "the worse person".** A7 §9 argues that "acts of domination,
   acts of defense, failures of care, and failures of honesty aren't
   straightforwardly commensurable", so there may be no answer to that
-  question even where these two are determinate. That is left in the
-  curation entry as A's, not filed.
+  question even where these two are determinate: responsibility as a
+  profile without a total order, the shape [CLAIM-354](CLAIM-354.md) gives freedom (a
+  partial order, "not a scalar"). The claim does not need it and does not
+  assert it; it is left in the curation entry as A's, not filed.
+- **Anything about any real couple.** The exchange began from the Depp and
+  Heard dispute (U1, A2); the claim needs only the stipulated case, and the
+  record files no case naming them.
 
 ## Note of 2026-11-16: Cunha and colleagues, read
 

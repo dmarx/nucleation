@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdewd4
 title: 'Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-14'
@@ -52,6 +52,12 @@ history:
     as a present-organization indistinguishability argument that is true by
     stipulation; A27's five things an ownership theory might need are mapped
     to the record. The question is unchanged.
+- version: 7
+  date: '2026-11-17'
+  note: >-
+    A dated note: A5 §4 and A11 §6 of the exchange "Assess Depp Heard
+    Abuse" give four evidential conditions and a warning, as a
+    candidate schema for part of the question. No other change.
 tags:
 - self-governance
 - agency
@@ -297,3 +303,31 @@ Readings filed for the exchange's works on 2026-11-13, each now with `bears_on` 
 - **Han** ([THEORY-1837](../theory.d/THEORY-1837.md), [THEORY-1843](../theory.d/THEORY-1843.md)): achievement subjects feel free, and "the subjugated individual is not even aware of being subjugated".
 
 Neither gives a criterion that tells a manipulated will from one that is not. The question is unchanged.
+
+## Note of 2026-11-17: evidence conditions for an attribution of manipulation, and the unfalsifiability warning, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-703 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+
+The exchange "Assess Depp Heard Abuse" (2026-11-15) twice warns against
+reading manipulation off an outcome. A5 §4, on DARVO: "**You cannot
+establish that someone is using DARVO simply because they deny an
+accusation and make counteraccusations.**" "If we decide that denial
+itself is evidence of guilt, we create an unfalsifiable theory", and
+"concepts developed to recognize manipulation can themselves become
+instruments of manipulation when people treat them as diagnostic labels."
+The point is A's, not the experiment's. A11 §6, on reflexive control: a
+provocation, a bad reaction and a benefit to the initiator do not show a
+plan. "We need evidence of intention, anticipation, capacity, and causal
+influence." And "a theory about manipulating others' perceptions can
+itself become a lens through which observers mistakenly perceive
+everything as manipulation."
+
+For this question, the four conditions are a candidate schema for what a
+record of a will's history would have to contain to tell manipulation from
+mere effect: what the influencer intended, what it anticipated of the
+target, whether it could produce the conditions, and whether it did. They
+are conditions on the influencer's history, not the target's present
+structure, which is where this question says present-structure tests fail.
+[CLAIM-703](../claims.d/CLAIM-703.md) makes the hardest case for those tests: a target governed
+through sound values, with nothing in it defective.
+
+The question stays Open.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpr3hl8
 title: 'resource-bounded constraint system: architectures, the configurations and costed processes each admits, costed changes of architecture and the observations available, with reachability indexed by a partially ordered budget'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -22,6 +22,12 @@ history:
     Now draws on THEORY-1435: "The readings say what the costed process
     layer is in established terms". First application of draws_on (ADR-
     tmpcd2gu). No other change.
+- version: 4
+  date: '2026-11-17'
+  note: >-
+    A dated note: A76 IX of the exchange "Assess Depp Heard Abuse"
+    proposes adding an authority component to the term's system. No
+    other change.
 tags:
 - mathematics
 - complex-systems
@@ -160,3 +166,11 @@ The second paste of the pasted synthesis on resource-bounded realizability revis
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 A's fourth paste assembles the categories for each architecture into a Grothendieck total category, objects pairs (z, x) and morphisms an architecture change with a transformation after it, the categorical form of this term's two kinds of move, and warns that "we should not assume every architecture change induces a functor", suggesting that "relations, spans, profunctors, or other process structures may be more appropriate than ordinary functors" where an edit deletes or merges states. No status changes.
+
+## Note of 2026-11-17: a proposed authority component, from "Assess Depp Heard Abuse"
+
+A76 IX of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) writes a relationship as G = (Z, Q, P, κ, Obs, Θ), whose first five components "adapt" this term, and says: "The authority component \(\Theta\) is a proposed addition for our normative inquiry." Θ allocates who may change the rules, resources and alternatives, with dynamics s_{t+1} = F(s_t, u; G_t) and G_{t+1} = Φ(G_t, s_t, u). "We are studying **relationships in which agents may possess unequal capabilities to alter the rules, resources, and effective alternatives governing subsequent interaction**." A90 XI restates the system as G = (Q, U, F, Λ, Θ, κ).
+
+The term already includes costed changes of architecture, so Φ is in it. What it lacks is Θ: whose changes of architecture are authorized, as distinct from which are feasible and at what cost. That is [CLAIM-410](../claims.d/CLAIM-410.md)'s profile of governing positions and [CLAIM-359](../claims.d/CLAIM-359.md)'s allocation of authority, written into the frame. A's description of the first five components is faithful. The definition is unchanged; whether to add Θ is the owner's call.
+
+No status changes.

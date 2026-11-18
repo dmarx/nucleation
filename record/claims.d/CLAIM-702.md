@@ -4,12 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmp7zzbd
 title: 'Where members'' compensating effort prevents failures that an organization''s conditions would otherwise produce, the prevention leaves little trace while its lapse is visible, so the organization can be credited with outcomes the compensation produced and the members blamed for failures the conditions produced: credit and blame then follow different principles'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
   note: >-
     Moves from organizational-normativity to dependence-and-domination at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): the entry is about an organization's dependence on its members' compensating effort, and it bears on QUESTION-461. No relation supplies organizational-normativity to it (ADR-085). No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    its CASE-tmpohiyo (a proposed study of a fall in complaints) was
+    compared with this claim and judged distinct; a sentence on the
+    difference added. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +53,7 @@ summary: >-
   [CLAIM-700](CLAIM-700.md)'s loop needs. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpohiyo — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-713 CLAIM-700 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: CLAIM-614 THEORY-1928 — Proposed; non-legibility of harm and the Elish reading, cited with their standing -->
 
@@ -92,6 +100,10 @@ invisibility. Kept apart, each link can be looked for where it occurs.
 - [CLAIM-707](CLAIM-707.md): the crumple-zone claim this was split from.
 - [CLAIM-614](CLAIM-614.md): an organization can keep harm non-legible by the projections it
   reproduces. Unseen prevention is a non-legibility of its own dependence.
+- [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md), from the continuation of the same exchange, is a
+  proposed study of a fall in complaints, to tell satisfaction from
+  tolerance. It is distinct: it would observe [CLAIM-700](CLAIM-700.md)'s quiet link, not
+  the visibility of compensation that this claim is about.
 
 ## What it does not say
 

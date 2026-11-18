@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpmus93
 title: 'When an organization reproduces a mechanism that keeps its harm non-legible, does it matter to whether the counter-normativity is the organization''s own that another installed the mechanism, or does only whose process now maintains it decide?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -17,6 +17,13 @@ history:
   note: >-
     The dated note of 2026-11-11 now says that CASE-232 carries
     `bears_on` to this question, since ADR-092. No other change.
+- version: 4
+  date: '2026-11-17'
+  note: >-
+    A dated note: A7 §7–8 and A9 §3 and §5 of the exchange "Assess
+    Depp Heard Abuse" propose, for persons, a split between
+    responsibility for forming a disposition and for the act it
+    produces. No other change.
 tags:
 - ethics
 - self-governance
@@ -152,3 +159,31 @@ have been maintained "principally by colonial law and state authorities,
 rather than by theatrical organizations themselves. That would change
 the attribution of organizational responsibility." The case is A's
 report of unread works. The question is unchanged.
+
+## Note of 2026-11-17: formation and the act can belong to different people, for persons, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+
+A9 §3 of the exchange "Assess Depp Heard Abuse" (2026-11-15) separates
+corrupting someone's choices (values intact, acting on them made costly)
+from corrupting their character (habits and values changed), and traces a
+path from "**Coercive environment**" through "**Adaptive behavior**" and
+"**Learned disposition**" to "**Potentially independent wrongdoing**",
+"One possible trajectory, not an inevitable outcome". A then separates
+"**responsibility for an action**" from "**responsibility for the formation
+of the dispositions that produced it**": "These responsibilities can
+belong partly to different people."
+
+For persons, that is an answer to this question's first branch: it can
+matter that another installed the mechanism, because the installer answers
+for the formation while the agent answers for the act. A9 §5 adds that the
+split moves over time: "**A person's responsibility can change as their
+capacity for doing otherwise changes.**" Someone who, in time, can "recognize the pattern, receive
+support, acquire better ways of responding", and still chooses cruelty,
+grows more culpable. That is formation provenance and maintenance
+provenance in [TERM-100](../terms.d/TERM-100.md)'s terms, with the agent's share of maintenance rising as its
+capacity to alter the mechanism returns.
+
+It is asserted, not argued, and stated for persons; whether an
+organization's share grows in the same way as its capacity to alter an
+installed mechanism returns is the question still. The wrong of installing
+it is held as [CLAIM-708](../claims.d/CLAIM-708.md). The question stays Open.

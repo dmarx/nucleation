@@ -1,0 +1,57 @@
+---
+status: Deferred
+status_note: >-
+  registered unread from the exchange "Assess Depp Heard Abuse"
+  (2026-11-15 to 2026-11-17,
+  https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b), where
+  A names it at A51; no copy sought yet.
+title: 'Delay of gratification and adult outcomes: The Marshmallow Test does not reliably predict adult functioning'
+version: 1
+history:
+- version: 1
+  date: '2026-11-17'
+  note: >-
+    Filed, not read, from the exchange "Assess Depp Heard Abuse"
+    (2026-11-17). Checked on 2026-11-17: not held in record/literature.d
+    by identifier, title or first author. Crossref (10.1111/cdev.14129):
+    journal article, Child Development 95(6): 2015–2029, record created
+    2024-07-29, issue 2024-11. A says "Sperber and colleagues (2024)"
+    with no title or venue. `published:` is 2024-07-29, the date
+    Crossref's record was created (the online version), the earliest
+    exact date it gives. No email address was sent to any service.
+tags:
+- psychometrics
+- motivation
+date: '2026-11-17'
+published: '2024-07-29'
+doi: '10.1111/cdev.14129'
+first_author: 'Sperber'
+keywords:
+- 'marshmallow test'
+- 'delay of gratification'
+- 'adult outcomes'
+- 'preregistered'
+implementations: []
+summary: >-
+  Jessica F. Sperber, Deborah Lowe Vandell, Greg J. Duncan and Tyler W.
+  Watts (2024). Delay of gratification and adult outcomes: The
+  Marshmallow Test does not reliably predict adult functioning. *Child
+  Development* 95(6): 2015–2029. DOI 10.1111/cdev.14129. Here because A
+  cites it in the exchange "Assess Depp Heard Abuse" as A's evidence
+  that childhood marshmallow-test performance does not reliably predict
+  adult outcomes. It bears on [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) and [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md). What the
+  exchange says of it is unverified until read.
+---
+<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — filed now from the same exchange, temporary codes, Proposed or Open -->
+
+# LIT-tmp09j7t: Delay of gratification and adult outcomes: The Marshmallow Test does not reliably predict adult functioning
+
+Jessica F. Sperber, Deborah Lowe Vandell, Greg J. Duncan and Tyler W. Watts (2024). Delay of gratification and adult outcomes: The Marshmallow Test does not reliably predict adult functioning. *Child Development* 95(6): 2015–2029. DOI 10.1111/cdev.14129.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.* A51: "following 702 participants into adulthood, found that childhood marshmallow-test performance did not reliably predict adult achievement, health, or behavior once relevant factors were considered." Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 as A's evidence that childhood marshmallow-test performance does not reliably predict adult outcomes. It bears on [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) and [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md). Not read.

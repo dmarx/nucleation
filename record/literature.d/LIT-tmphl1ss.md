@@ -1,0 +1,56 @@
+---
+status: Deferred
+status_note: >-
+  registered unread from the exchange "Assess Depp Heard Abuse"
+  (2026-11-17), A87; no copy sought yet.
+title: 'Human Rights'
+version: 1
+history:
+- version: 1
+  date: '2026-11-17'
+  note: >-
+    Filed, not read, from the exchange "Assess Depp Heard Abuse"
+    (2026-11-17). Checked on 2026-11-17: not held in record/literature.d
+    by identifier, title or first author. An encyclopedia entry with no
+    DOI. The page returns HTTP 200 and names James Nickel and Adam
+    Etinson; "First published Fri Feb 7, 2003; substantive revision Fri
+    May 31, 2024". `published:` is 2003-02-07, the entry's "First
+    published" date (substantive revision 2024-05-31). No email address
+    was sent to any service.
+tags:
+- ethics
+- society-and-governance
+date: '2026-11-17'
+published: '2003-02-07'
+url: 'https://plato.stanford.edu/entries/rights-human/'
+first_author: 'Nickel'
+keywords:
+- 'human rights'
+- 'grounding'
+- 'legal and moral rights'
+implementations: []
+summary: >-
+  James Nickel and Adam Etinson (2003; substantive revision 2024). "Human
+  Rights". Stanford Encyclopedia of Philosophy, first published 7 February
+  2003, substantive revision 31 May 2024. Registered unread from the
+  exchange "Assess Depp Heard Abuse" (A87). A87 recommends it for attempts
+  to ground fundamental rights in agency, dignity, interests and
+  international practice, behind its distinction between legal, moral and
+  human rights. What the exchange says of it is unverified until read.
+---
+
+# LIT-tmphl1ss: Human Rights
+
+James Nickel and Adam Etinson (2003; substantive revision 2024). "Human Rights". *Stanford Encyclopedia of Philosophy*, first published 7 February 2003, substantive revision 31 May 2024.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.*
+
+> A87: "Best for investigating contemporary attempts to ground fundamental rights in agency, dignity, interests, and international practice."
+
+Unverified until read.
+
+## Standing in the record
+
+Registered from A87 (2026-11-17). It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). A87 links it on its reading list; how much of §8 rests on it is to be checked on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

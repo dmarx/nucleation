@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpyeqlj
 title: 'Two organizations with the same rules, appeal rights, decision rate and initial corrective capacity, one whose decisions leave that capacity intact and one whose decisions each use some of it up: with the rule revised after T days, the first can still correct its accumulated errors until T = 100, the second only until T = 20'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-16'
@@ -15,6 +15,13 @@ history:
     not needed for routine execution; and A and B are indistinguishable in
     their stipulated observable outputs, not in their reserves. The result is
     unchanged.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    its CASE-tmpdn372 (a proposed study varying the acting institution's
+    speed) was compared with this construction and judged distinct; a
+    sentence on the difference added. No change of status or title.
 standing: stipulated
 kind: construction
 tags:
@@ -46,6 +53,7 @@ summary: >-
   decisions themselves reducing capacity). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpdn372 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-705 CLAIM-701 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-327 CLAIM-423 — Proposed; the timescale claims, cited with their standing -->
 
@@ -130,3 +138,11 @@ shortening the lag T is what B needs and A does not.
 - **Anything about the timescale claims' general form.** [CLAIM-331](../claims.d/CLAIM-331.md),
   [CLAIM-478](../claims.d/CLAIM-478.md), [CLAIM-327](../claims.d/CLAIM-327.md) and [CLAIM-423](../claims.d/CLAIM-423.md) say why governing variables are slow;
   this construction takes the slowness (T) as given.
+
+The continuation of the same exchange filed A33 §10 C as a proposed study,
+[CASE-tmpdn372](CASE-tmpdn372.md): the same overseer's authority, two speeds of the acting
+institution, and precommitted limits, automatic suspension and pauses
+added in turn. It is distinct from this construction, which holds speed
+fixed and varies whether execution erodes corrective capacity; run, it
+would test the throughput and timing mechanisms that this case holds
+equal.

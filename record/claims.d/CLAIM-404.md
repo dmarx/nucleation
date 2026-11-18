@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 12
+version: 13
 history:
 - version: 2
   date: '2026-10-21'
@@ -80,6 +80,13 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: de Boer and Raaphorst (LIT-2674) read on 2026-11-16, NOTE-1997. No change of status or title.
+- version: 13
+  date: '2026-11-17'
+  note: >-
+    A dated note: the owner's U6 of the exchange "Assess Depp Heard
+    Abuse" raised reflexive control again, and A developed a route
+    through the situation the target's values respond to, filed
+    separately. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -528,3 +535,38 @@ the choice architecture of street"-level bureaucrats, who must enter their obser
 (p. 55): governance of conduct through what a procedure asks for, without lowering the discretion people
 feel they have (the mediation was not significant). This is an empirical instance, weak (cross-sectional,
 p < .10 in places), of governing through the criteria a procedure uses. The fit is partial: CLAIM-404 is about governance from outside the organization, and INSPECT is the organization's own system. Relation: bears_on, weakly; the filer may prefer none.
+
+## Note of 2026-11-17: reflexive control again, for moral conditions, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpciy9q — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-713 — Proposed; filed from the first share of the same exchange (PR 510) -->
+
+The owner returned to reflexive control at U6 of the exchange "Assess Depp
+Heard Abuse" (2026-11-15): "this reminds me of russian work on "reflexive
+control" as a grey tactic". This claim was filed from the owner's first
+such turn (U20 of 2026-10-20), about an organization's evidence and
+criteria. The second turn came in a discussion of moral responsibility,
+and A11 carried reflexive control from what a target believes to what it
+ought to do. A11 §1's "**You don't necessarily need to control someone's
+decision. You can control the premises from which they make it.**" is this
+claim's evidence route; A calls the genus "agency-mediated control", a
+label for this claim's genus that needs no code.
+
+A11 §4 then names "**Normative manipulation:** Exploit the target's actual
+values, commitments, and decision rules, so that acting according to them
+produces an outcome chosen by the manipulator", and A13 §2 its strongest
+form, "Creating genuine moral obligations". That is a route this claim does
+not hold. Its evidence route moves a*(e) with U fixed, and its criteria
+route moves U. In A's route neither moves: the manipulator changes the
+state of the world itself, the target sees it accurately, and its correct
+decision moves because the world did. It is held as [CLAIM-703](CLAIM-703.md), from the first share of
+the same exchange, which complements this claim; A15 §7's condition (the manipulator
+controls the trigger and escapes the cost), which makes it a way of being
+governed, is [CLAIM-713](CLAIM-713.md)'s.
+The use of a manipulated party's real wrongs against it, before an
+anticipated audience, is [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md).
+
+A11 §6 adds a caution this claim's edge already states ("It does not say
+that any regulator, newsroom or expert body is captured"): "We need
+evidence of intention, anticipation, capacity, and causal influence."
+
+No status changes.

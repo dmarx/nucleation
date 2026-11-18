@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppkmq0
 title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -31,6 +31,12 @@ history:
     others", and it "denies that slowness alone settles which level
     governs". It gains will-organization, the question's first line,
     after its own (ADR-085). No other change.
+- version: 5
+  date: '2026-11-17'
+  note: >-
+    A dated note: A25 of the exchange "Assess Depp Heard Abuse" states
+    for the separation of powers that control over pace is a source of
+    authority among institutions. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -208,3 +214,28 @@ consequence, deciding which component holds authority.
 ## Note of 2026-11-07: one U29 case filed, from "Individuation, Possibility, and Disposition"
 
 Of the owner's U29 "super stable" perspectives that this claim's note declined to file as cases from the replies' summaries, "anti-vax" came back at U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), with sources cited by A41. It is filed as [CASE-222](../cases.d/CASE-222.md), Proposed until they are read. It bears on this claim's subject only through the label's persistence, not through components of different speeds. No status changes.
+
+## Note of 2026-11-17: tempo as a source of authority among branches, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A25 of the exchange "Assess Depp Heard Abuse" (2026-11-15) gives this
+claim an instance among branches of government. Beside "*Who has authority
+to decide?*" it asks "**Who controls the pace at which decisions become
+facts?**" The executive "can often initiate an action through a relatively
+short chain of command"; courts need "an actual dispute, a party with
+standing, filings, arguments"; Congress needs "political coordination,
+procedures, and sufficient agreement". So the balance can shift "through a
+mismatch in their operating speeds" without any change in competence, and
+"**Checks and balances are not merely a distribution of legal
+competencies. They are also a distribution of opportunities to act before
+someone else's exercise of power forecloses the alternatives.**" A draws
+on Mariano-Florentino Cuéllar's "The New Presidential Adjudication" (Yale
+Law Journal, February 2026), as A relays it; the record has not read it.
+
+That is this claim's point that slowness alone does not settle which
+component governs: under a given arrangement the faster component can hold
+authority over the slower ones in the period before they act. The general
+case, a slowly revised rule over a fast process, is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md), which
+rests on this claim.
+
+No status changes.

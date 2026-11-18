@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-29'
@@ -50,6 +50,12 @@ history:
     A dated note added from the exchange "Assess Depp Heard Abuse"
     (2026-11-15): A35 §5 applies this claim to the governance of fast
     automated systems. Title, defeater and status unchanged.
+- version: 7
+  date: '2026-11-17'
+  note: >-
+    A dated note: A79 §2 of the exchange "Assess Depp Heard Abuse"
+    applies the claim to contestation, where it becomes the first
+    stage of an effective objection. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -310,3 +316,12 @@ distinctions: "If execution becomes dramatically cheaper while revising
 specifications remains difficult, the organization may become increasingly
 committed to a framework that it has decreasing capacity to reconsider."
 That is an application, not a revision. Mapped, not filed.
+
+## Note of 2026-11-17: an objection that cannot be formulated, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpi68s2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A79 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) applies this claim to accountability: "**Formulating a question or objection is itself a resource-consuming process.**" With 𝒬_B(K, H) the objections B can formulate within budget K and horizon H, and 𝒬_N^relevant those relevant under N, the failure is 𝒬_N^relevant ⊄ 𝒬_B(K, H): "an institution can impair effective accountability without blocking any complaint that is actually filed." The example: "an employee may be unable to articulate a pattern of discriminatory treatment because the organization records each incident under unrelated categories." A's conclusion: "**A person may have a legally recognized right to contest an action while lacking an adequately supported route through which the action becomes recognizable as contestable.**"
+
+This is the first stage, F, of the six filed as [CLAIM-tmpi68s2](CLAIM-tmpi68s2.md). A relays this claim and [CLAIM-406](CLAIM-406.md) as "Nucleation's inquiry-frontier research" and "Nucleation's Active [CLAIM-406](CLAIM-406.md)"; both are the owner's (U17 of the exchange of 2026-10-27, and U24 of 2026-10-20), which A does not say.
+
+No status changes.

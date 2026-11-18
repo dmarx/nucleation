@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpfmmkt
 title: 'When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-16'
@@ -26,6 +26,15 @@ history:
     t* = Fμ/(λ − μ) treats review as taking no time, and gives
     t* = (F − s)μ/(λ − μ) for a service time s. The bound and the result are
     unchanged.
+- version: 6
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    its CLAIM-tmpohafo (explanation, contestation and interruption, A23 §6)
+    was compared with this entry and judged distinct (this claim derives a
+    bound from rates; that one separates three entitlements, of which this
+    shows one failure); complements CLAIM-tmpohafo added; a sentence on the
+    difference added. No change of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -45,6 +54,7 @@ line:
 complements:
 - CLAIM-462
 - CLAIM-464
+- CLAIM-tmpohafo
 uses:
 - TERM-085
 bears_on:
@@ -62,6 +72,7 @@ summary: >-
   [TERM-085](../terms.d/TERM-085.md)'s deadline applied to a stream of cases. The wording is A's; the
   derivation is the filer's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpohafo — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-704 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1931 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-711 — filed from the same exchange, Proposed -->
@@ -132,6 +143,11 @@ anything.
   no remedy is available rather than that procedures failed to deliver one
   before the deadline. Past t*, under first-come review, a remedy exists
   for every case and the arrangement delivers it for none in time.
+- [CLAIM-tmpohafo](CLAIM-tmpohafo.md), from the continuation of the same exchange (A23 §6):
+  explanation, contestation and interruption are separate entitlements,
+  and contestation without interruption is a right that arrives too late.
+  This claim derives one case of that failure from rates; that one names
+  the entitlements. Distinct, and complementary.
 
 ## What it does not say
 

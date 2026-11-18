@@ -1,0 +1,52 @@
+---
+status: Deferred
+status_note: >-
+  registered unread from the exchange "Assess Depp Heard Abuse"
+  (2026-11-17), A85; no copy sought yet.
+title: 'Constitution of the United States, Ninth Amendment'
+version: 1
+history:
+- version: 1
+  date: '2026-11-17'
+  note: >-
+    Filed, not read, from the exchange "Assess Depp Heard Abuse"
+    (2026-11-17). Checked on 2026-11-17: not held in record/literature.d
+    by identifier, title or first author. Constitutional text with no
+    DOI. The LII page returns HTTP 200; constitution.congress.gov
+    returned 403 to the ledger's check. `published:` is 1789-09-25, the
+    date Congress proposed the amendment (ratified 1791-12-15). No email
+    address was sent to any service.
+tags:
+- society-and-governance
+date: '2026-11-17'
+published: '1789-09-25'
+url: 'https://www.law.cornell.edu/constitution/ninth_amendment'
+first_author: 'First Congress of the United States'
+keywords:
+- 'unenumerated rights'
+- 'constitutional interpretation'
+implementations: []
+summary: >-
+  First Congress of the United States (1789). Constitution of the United
+  States, Amendment IX, proposed 25 September 1789, ratified 15 December
+  1791. Text at the Legal Information Institute. Registered unread from
+  the exchange "Assess Depp Heard Abuse" (A85). A85 uses it as a parallel
+  for resisting the inference that what a record enumerates exhausts what
+  is held. What the exchange says of it is unverified until read.
+---
+
+# LIT-tmp1xdz8: Constitution of the United States, Ninth Amendment
+
+First Congress of the United States (1789). *Constitution of the United States*, Amendment IX, proposed 25 September 1789, ratified 15 December 1791. Text at the Legal Information Institute.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.*
+
+> A85: "The Ninth Amendment supplies a historical example of resisting an analogous inference in constitutional interpretation."
+
+Unverified until read.
+
+## Standing in the record
+
+Registered from A85 (2026-11-17). It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) (can institution-independent rights serve as the criteria the record's judgments need). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

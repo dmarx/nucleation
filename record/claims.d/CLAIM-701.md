@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5zzud
 title: 'An actor that wrongfully creates circumstances in which reversing its act would harm innocent third parties can give a reviewing institution genuine reasons to accommodate those harms, as moral blackmail gives its target a genuine obligation; the reviewer''s sound weighing of those reasons does not discharge the actor''s responsibility for having wrongfully created them, and the reasons are no larger than the circumstances support'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -31,6 +31,15 @@ history:
     "the actor gets the outcome it wanted" becomes "can obtain", since genuine
     reasons against immediate reversal need not outweigh those for it. Title
     unchanged.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    its CLAIM-tmpciy9q (manufactured culpability) was compared with this
+    entry and judged distinct (this claim is about genuine reasons for a
+    reviewer; that one about a true accusation used before an audience);
+    complements CLAIM-tmpciy9q added; a sentence on the difference added. No
+    change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -59,6 +68,7 @@ rests_on:
 complements:
 - CLAIM-404
 - CLAIM-708
+- CLAIM-tmpciy9q
 bears_on:
 - QUESTION-278
 summary: >-
@@ -79,6 +89,7 @@ summary: >-
   why construction should continue"). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpciy9q — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 <!-- inactive-ok-file: CLAIM-703 CLAIM-708 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
@@ -184,6 +195,15 @@ limited to harms to others, which is where the premises do not settle it.
   bounded.
 - **That every cost of stopping is created.** Many projects are costly to
   stop for reasons the actor did not make.
+
+## Beside the continuation's filing
+
+[CLAIM-tmpciy9q](CLAIM-tmpciy9q.md), from the continuation of the same exchange (A9 §6, A11,
+A13 §8): a party can arrange another's real wrong and use the true
+accusation before an anticipated audience. Distinct from this claim, which
+is about genuine reasons for a reviewer; both turn someone's sound
+evaluation of an arranged predicament to the arranger's use, and they
+complement each other.
 
 ## Note of 2026-11-16: Anderson, read
 

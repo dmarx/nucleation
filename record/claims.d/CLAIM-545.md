@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -48,6 +48,16 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Anderson (LIT-2673) read on 2026-11-16, NOTE-2014. No change of status or title.
+- version: 7
+  date: '2026-11-17'
+  note: >-
+    A dated note: A9 §8 and A11 §7 of the exchange "Assess Depp Heard
+    Abuse" state informally the wrong the claim's last clause names,
+    with a crosswalk offered as a question. No other change. A dated
+    note: A90 XV of the exchange "Assess Depp Heard Abuse" qualifies
+    the claim with claims that persist without the holder's
+    competence, and A93 §2 presents its phrase as shared coinage. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -336,3 +346,43 @@ relationship. Anderson's own "enforcement approach" refocuses coercion on
 coextensive with particular acts taken or avoided by the coercee" (§2.5).
 Both sit near this claim's domination as control over the relations
 through which demands become effective. Note only; no relation proposed.
+
+## Note of 2026-11-17: the wrong the domination clause names, stated informally, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+
+A9 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15) compares a
+thief with someone who "systematically makes you dependent, fearful, and
+dishonest over the course of several years, until you begin violating your
+own principles". The second "has attacked something that the first might
+have left intact: **your ability to live as the kind of person you want to
+be**", and "the greater wrong may involve manipulating what someone comes
+to want, what they believe they are capable of, or what behaviors feel
+necessary for survival." That is an informal statement of the wrong this
+claim's last clause names: another's capacity to govern the relations by
+which an agent governs its own governability. A says the second wrong is
+"qualitatively different", not categorically worse. The wrong of arranging
+another's wrongdoing is held as [CLAIM-708](CLAIM-708.md).
+
+A11 §7 lays out what each form of control controls: direct coercion "The
+consequences of refusing a demand", coercive control "The person's
+continuing practical freedom", reflexive control "The premises,
+perceptions, and decision processes through which choices are made", moral
+entrapment "The conditions under which acting according to one's values
+becomes costly or harmful", character corruption "The dispositions and
+commitments that guide future choices". The filer, not A, notes that these
+fall roughly on this claim's components: premises on legibility,
+entrapment on the efficacy of demands, corruption on the revision of the
+governing relations, with formation in [TERM-100](../terms.d/TERM-100.md)'s sense. Whether the
+spectrum is a reading of the four components is offered as a question, not
+asserted.
+
+This claim is itself A's wording, from "Assess SDT Coverage"; A did not
+cite it in this part of the exchange. No status changes.
+
+## Note of 2026-11-17: rights beside governance of governability, from "Assess Depp Heard Abuse"
+
+A90 XV of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) cites this claim, correctly as proposed, and qualifies it: "**Freedom is therefore not a single quantity to maximize but a structured collection of normative positions and effective capabilities, organized across relationships and time.**" "A person's freedom is not simply their effective control over influences. It also depends on whether the distribution of control among persons and institutions respects the claims each is entitled to hold. And some of those claims may persist when the person lacks the competence or resources to govern the relevant decision independently." That is an interest-theory point: a dimension of freedom held as a claim, which the agent's own governance of its governability does not supply. Whether the claim needs it, or whether the domination clause already covers it from the other side, is open.
+
+A93 §2 calls Schlager and Ostrom's split of operational from collective-choice property rights "a concrete version of what we have called **the governance of governability**". "We have called" presents the phrase as coined jointly with the owner; this claim's summary records it as A's, from "Assess SDT Coverage".
+
+No status changes.

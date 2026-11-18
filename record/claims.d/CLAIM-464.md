@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-30'
@@ -35,6 +35,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Hong Kong Monetary Authority (LIT-2696) read on 2026-11-16, NOTE-2018. No change of status or title.
+- version: 6
+  date: '2026-11-17'
+  note: >-
+    A dated note: the owner's U13 of the exchange "Assess Depp Heard
+    Abuse" restates the observation this claim was filed from, with
+    Hains Point as a new example whose facts are unverified here; CASE-278
+    and CASE-276, from the first filing of the same exchange, hold them
+    (pointer added at the reconciliation of 2026-11-18). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -261,3 +269,56 @@ gate on a reversible action still / allows correction, but a failed gate on
 an irreversible action does not." (§8.1, p. 43), with payment finality as the
 standard example. An irreversible act removes the correction later review
 would have allowed. Relation: none.
+
+## Note of 2026-11-17: the owner's observation restated, and Hains Point, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CASE-tmpdn372 CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+At U13 of the exchange "Assess Depp Heard Abuse" (2026-11-15) the owner
+quoted A23 §3's "**The speed at which an institution can act imposes an
+upper bound on the practical effectiveness of anyone else's right to
+intervene.**" and wrote: "this is a concise characterization of how the
+executive branch under trump has attempted to bypass oversight and
+regulation, e.g. third country deportations, the eastwing/ballroom, haines
+point..." That is the observation this claim was filed from (the owner's
+U6 and U7 of 2026-10-26), made again. The East Wing is [CASE-170](../cases.d/CASE-170.md) and
+transfers into foreign custody [CASE-175](../cases.d/CASE-175.md). A25 credited the owner with adding
+"a temporal dimension" to Cuéllar's argument; the temporal principle is
+A23's, and the owner's addition, now as before, is the application to
+these actions.
+
+A25 calls the mechanism "*fait accompli*": "creating a new reality before
+others can prevent it, then making them confront the costs of undoing it."
+This claim chose its own name over that one in 2026-10 because fait
+accompli "describes an outcome but does not specify the causal mechanism".
+A25's "**The act of proceeding can generate new costs of stopping, which
+may subsequently weigh in favor of allowing further proceedings.**" is
+this claim's physical-irreversibility and project-as-argument route (see
+[CASE-170](../cases.d/CASE-170.md)'s note of today). A30 §8 offers the idea as a "Possible new claim" without citing this one.
+
+**Hains Point** is the owner's new example. A25's account, unverified
+here: crews removed "more than 400 trees on October 10, 2026"; Judge Ana
+Reyes's opinion of 26 October 2026 found conflicting accounts of whether a
+final plan existed, with government lawyers maintaining that "the relevant
+agency had not yet adopted a final plan"; and on 14 November she
+"temporarily blocked a planned November 15 closure of East Potomac Park".
+If those facts hold, the case adds a route this claim does not list beside
+physical irreversibility, enforcement-mediated entrenchment and
+jurisdictional displacement: acting through steps the actor maintains are
+preliminary, so that a reviewable decision is not yet there to challenge.
+A25: "the government exercises effective control through preliminary
+actions, while opponents must establish that those actions are legally
+ripe for review." A25 also counts the 14 November order as "an important
+counterexample to an overly deterministic version of our theory". This
+note files no case of its own: the filing of the first share of the same
+exchange (PR 510) holds Hains Point, documented from reports checked on
+2026-11-15, as [CASE-278](../cases.d/CASE-278.md), and the third-country removals as
+[CASE-276](../cases.d/CASE-276.md).
+
+A25's limiting questions fit this claim's edge on intent: "whether
+pre-action review was required, whether urgency was genuine, whether less
+irreversible alternatives were available, and whether the government
+preserved meaningful opportunities for legally authorized oversight." A
+study that varies only an acting institution's speed is proposed as
+[CASE-tmpdn372](../cases.d/CASE-tmpdn372.md); the slow-rule counterpart is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md).
+
+No status changes.

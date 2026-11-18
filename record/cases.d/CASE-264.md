@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpzh595
 title: 'Two workshops with the same dependence and the same integration, the part able to withdraw and renegotiate in one and its terms set at the controlling agent''s discretion in the other'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,13 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A45 §13 of the exchange "Assess Depp Heard Abuse"
+    restates the case as "counterfactual authority" and proposes four
+    variations as open arms; A49 §6 retells the workshops without
+    naming the case. No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -143,3 +150,13 @@ contributors: dependence of the institution on their labour with no
 authority, as its readings report. But it differs from any A in more than
 control, so it cannot be the contrast. That is why this case is
 fictional.
+
+## Note of 2026-11-17: counterfactual authority and four open arms, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CASE-tmpm0rpn CLAIM-tmp613ja — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-364 — the entries A and this note set beside the case, cited with their standing -->
+
+A45 §13 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16) proposes a matched case that "combines the logic of CASE-264, which varies control over terms while holding dependence constant, with the historical and counterfactual concerns of [CLAIM-364](../claims.d/CLAIM-364.md)": two organizations with the same output, in both of which A can set B's terms; in one the capability is "constrained by rules B can meaningfully challenge through an independent process", in the other A "can change the terms unilaterally"; all decisions identical, no abuse, no complaint. "The difference lies in **counterfactual authority**, not presently observed harm." That is this case under another standard of answerability (an independent challenge rather than withdrawal and renegotiation), with the stronger stipulation that nothing observed differs. A relays the case faithfully.
+
+A then varies it, in ways the case does not: "Suppose B voluntarily authorized A's discretionary power"; "What if B can withdraw the authorization?"; "What if withdrawal is possible but prohibitively costly?"; "What if A's authority affects third parties who never consented?"; "What if the authorization predictably causes B to lose the skills needed to operate independently?" They give the case four open arms: authorization by B (revocable or not), withdrawal possible at a prohibitive cost, third parties, and skill lost through the authorization. The first joins it to [CASE-128](CASE-128.md) (the same restriction consented to and imposed), and the last to [CLAIM-603](../claims.d/CLAIM-603.md)'s route by which a party gives up a capability on joining. A49 §6 retells the workshops ("Consider two workshops") with the prohibitive-withdrawal arm folded in: the specialist's withdrawal "would impose prohibitive costs", where the case has P unable to leave; it does not name the case, and the manuscript's provenance table omits it. The owner's method ([CLAIM-tmp613ja](../claims.d/CLAIM-tmp613ja.md)) is what A45 says it is following, "much closer to the methodology you've been proposing". [CASE-tmpm0rpn](CASE-tmpm0rpn.md) is a three-arm relative.
+
+No status changes.

@@ -3,8 +3,8 @@ number: 700
 status: Proposed
 formerly:
 - CLAIM-tmp0tg7y
-title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible'
-version: 4
+title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members'' own best responses feed the loop'
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -20,6 +20,25 @@ history:
     Rests now also on CLAIM-702, the unseen-compensation hypothesis
     split out of CLAIM-707 at the review of 2026-11-16; it states the
     measurement link this loop needs. The claim is unchanged.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    from CLAIM-tmp0ogo4, its filing of the same loop from A33 §5 of the
+    later share (there with role supposed), it takes the strategic layer
+    (with TERM-110's ratchet, members who reveal spare capacity lose it, so
+    their best responses feed the loop), now in the title and the defeater,
+    with the use of TERM-110; the correction of A's paraphrase of CLAIM-577
+    (the rule sets the budget to the previous period's peak, not to what was
+    consumed); the observation that a toy model would make the claim
+    demonstrable; and the neighbours QUESTION-386, CLAIM-445 and CLAIM-619,
+    with bears_on QUESTION-386. The title was: Where members' conscientious
+    compensation covers an organization's shortfall and the organization
+    budgets to what it observes, the compensation and the quiet it buys are
+    read as adequacy, resources are cut toward what the present
+    configuration needs, and the reconfigurations that would remove the
+    shortfall pass out of reach while the present arrangement stays
+    feasible. No change of status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,7 +50,9 @@ defeated_if: >-
   falling complaints by raising provision as often as by cutting it. Either,
   found where the loop's conditions hold, defeats the claim for those
   conditions. Not defeated by organizations that fund the shortfall from
-  the start, which the claim does not cover.
+  the start, which the claim does not cover. Its last clause is defeated by
+  a model or organizations in which members who conceal spare capacity are
+  not worse placed than those who reveal it.
 tags:
 - society-and-governance
 - complex-systems
@@ -50,6 +71,9 @@ complements:
 - CLAIM-707
 uses:
 - TERM-106
+- TERM-110
+bears_on:
+- QUESTION-386
 summary: >-
   A's, from A33 §3 and §5 of the exchange "Assess Depp Heard Abuse"
   (2026-11-15), at the owner's U16, which pointed to this record's work on
@@ -64,11 +88,13 @@ summary: >-
   discriminating prediction. The wording is A's; adopting it is the owner's
   call.
 ---
+<!-- unresolved-ok-file: CLAIM-tmp0ogo4 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-679 CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
+<!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 — Proposed; the ratchet the claim uses and the record's nearest loops, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 
-# CLAIM-700: Where members' conscientious compensation covers an organization's shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible
+# CLAIM-700: Where members' conscientious compensation covers an organization's shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members' own best responses feed the loop
 
 ## The claim
 
@@ -99,6 +125,24 @@ into apparent consent**", which A marks as "not a theorem supplied by the
 repository; it's a normative application of its separation between
 quiescence and satisfaction".
 
+**The strategic layer.** Carried from the continuation's filing of the
+same turns (share https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b).
+With [TERM-110](../terms.d/TERM-110.md)'s ratchet, a principal that cannot commit not to revise
+terms on revealed capacity, A33 §5: "If they compensate successfully, they
+may reinforce the conditions that make future compensation necessary. If
+they refuse, someone dependent on their care may suffer immediately. If
+they reveal unused capacity, management may remove it. If they conceal
+capacity, they may act dishonestly or inefficiently." "Those responses may
+then become evidence for further intervention by management." And: "An
+institution can thereby create some of the behaviors that appear to
+justify its control."
+
+**A correction.** A says [CLAIM-577](CLAIM-577.md) "studies a budget rule in which next
+period's resources equal the resources consumed in the previous period."
+[CLAIM-577](CLAIM-577.md)'s rule sets the budget to the previous period's **peak**
+spending, not to what was consumed, and that is what makes it unable to
+rise.
+
 ## What is held, and what is added
 
 Each link is in the record:
@@ -125,7 +169,18 @@ Each link is in the record:
 What none of them says is that the first link drives the third: that the
 compensation, being unseen, is what makes the present configuration look
 cheaper than it is, so the cut lands below the true cost of holding it and
-further below the cost of leaving it. That coupling is the claim.
+further below the cost of leaving it. That coupling is the claim. A toy
+model adding an unobserved compensation term to [CLAIM-577](CLAIM-577.md)'s rule would
+make it demonstrable; A gives none, and none has been built.
+
+Neighbours: [QUESTION-386](../questions.d/QUESTION-386.md) asks under what funding rules allocating by
+observed activity loses capabilities used rarely; this is a mechanism by
+which allocating by observed performance loses capacity used constantly
+but invisibly. [CLAIM-445](CLAIM-445.md) (a regime that shifts the evidence of its own
+necessity) and [CLAIM-619](CLAIM-619.md) (answering challenge by reducing the capacity
+for it) are loops of the same family. A33 §5: the loop is "structurally
+similar to our earlier discussion of coercive control, without being
+morally or legally equivalent to interpersonal coercion".
 
 ## Admission
 

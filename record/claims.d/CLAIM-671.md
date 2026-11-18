@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwn3wr
 title: 'Where an organizational transformation increases a constituent''s vulnerability to the discretionary choices of a responsible agent, and that vulnerability grounds special obligations under an independently justified principle, the transformation can strengthen that agent''s responsibilities toward the constituent'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-12'
@@ -59,6 +59,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Keller (LIT-2670) read on 2026-11-16, NOTE-2005. No change of status or title.
+- version: 8
+  date: '2026-11-17'
+  note: >-
+    A dated note: A71 §2 of the exchange "Assess Depp Heard Abuse"
+    relays the claim faithfully and adds the asymmetry it leaves
+    unstated, that a dependency can strengthen responsibilities toward
+    the dependent without conferring authority over them. No other
+    change.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -286,3 +294,12 @@ beneficiary" (p. 17), whose obligations "can require acts that the fiduciary obl
 require" and "can outlast the fiduciary obligations". It shows such obligations arising from roles and
 power, not from consent. It says nothing of organizational transformation, so the consequent is not
 touched. Relation: none (note only).
+
+## Note of 2026-11-17: responsibility can grow without authority, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: TERM-124 — Proposed -->
+
+A71 §2E of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), surveying sources of legitimacy for the owner's U31 ([QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md)), takes role-based responsibility and vulnerability as the fifth. Its example: an employer that makes employees dependent on company-controlled infrastructure "may acquire additional responsibilities as the employees become increasingly vulnerable to its discretionary decisions. But the mere existence of dependence cannot by itself establish the obligation." It relays this claim correctly, as making "the inference conditional on an independently justified principle of responsibility".
+
+It then adds what the claim does not say: "**Creating a dependency can generate or strengthen responsibilities without granting legitimate authority over the dependent.**" "Otherwise, an actor could gain moral authority simply by making others need it. That would give coercive dependency a route to legitimating itself." The claim speaks only of responsibilities. The rider fits it and its bearer: the agent whose discretion the vulnerability exposes the party to is, in [TERM-124](../terms.d/TERM-124.md)'s sense, a likely holder of domination, and the claim would be turned against its point if the same vulnerability also licensed that agent's authority. The rider is A's and interpretive.
+
+No status changes.

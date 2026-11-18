@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpuftum
 title: 'How can the set of demands an organization''s compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization''s own governance?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    A dated note: A85 §9 and A97 IV of the exchange "Assess Depp Heard
+    Abuse" separate the demands an institution recognizes from those
+    warranted under its standard, with a guard against normative
+    closure. No other change.
 tags:
 - society-and-governance
 - epistemology
@@ -197,3 +205,12 @@ the paper fixes the criterion (FPR/TPR parity) and lets ε be set by a
 regulator; the choice among incompatible criteria (Chouldechova, cited) is
 outside the tool. It shows how much rides on that choice (calibration buys
 FPR parity at a reported TPR cost) without resolving it.
+
+## Note of 2026-11-17: recognized against warranted demands, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpssfc1 CLAIM-tmpcpijj — Proposed; the last two filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+
+A85 §9 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17), after the Ninth Amendment, separates D_recognized(t) ⊆ D_justified(t): "The first is the set of claims the institution presently recognizes. The second is the set of claims actually warranted under the normative theory." The danger is assuming they are equal "solely because no further claims have been formally recognized. This is a form of normative closure." Its principle: "**An institution's failure to recognize a justified claim does not, by itself, establish the claim's absence; nor does the institution's authority to administer a catalogue of rights necessarily confer unrestricted authority to determine that catalogue's moral completeness.**" A97 IV restates the pair as D_recognized and D_warranted,N, "particularly important when the institution controls the mechanisms through which demands become recognized."
+
+This names the failure the question fears and one guard against it, not an answer: A gives no procedure for establishing D_justified, and adds "That does not mean every newly asserted right should automatically be accepted." What it fixes is the reference. [CLAIM-662](../claims.d/CLAIM-662.md)'s recognized demand set is D_recognized; [CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md) says how the warranted set itself legitimately changes (by a valid power, not by institutional deletion), and [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) carries the authority half of A's principle.
+
+No status changes.

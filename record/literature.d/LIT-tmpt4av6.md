@@ -1,0 +1,54 @@
+---
+status: Deferred
+status_note: >-
+  registered unread from the exchange "Assess Depp Heard Abuse"
+  (2026-11-17), A85, A90; no copy sought yet.
+title: 'The Declaration of Independence'
+version: 1
+history:
+- version: 1
+  date: '2026-11-17'
+  note: >-
+    Filed, not read, from the exchange "Assess Depp Heard Abuse"
+    (2026-11-17). Checked on 2026-11-17: not held in record/literature.d
+    by identifier, title or first author. A founding document with no
+    DOI. The National Archives transcript returns HTTP 200 and reads
+    "unalienable Rights". `published:` is 1776-07-04, the date of
+    adoption. No email address was sent to any service.
+tags:
+- society-and-governance
+date: '2026-11-17'
+published: '1776-07-04'
+url: 'https://www.archives.gov/founding-docs/declaration-transcript'
+first_author: 'Second Continental Congress'
+keywords:
+- 'unalienable rights'
+- 'consent of the governed'
+- 'right to alter or abolish'
+implementations: []
+summary: >-
+  Second Continental Congress (1776). The Declaration of Independence,
+  adopted 4 July 1776. Transcript at the U.S. National Archives.
+  Registered unread from the exchange "Assess Depp Heard Abuse" (A85,
+  A90). The owner raised it (U37); the exchange reads its sequence of
+  propositions as a theory of inalienable rights, government for their
+  security, and a retained right to alter or abolish. What the exchange
+  says of it is unverified until read.
+---
+<!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
+
+# LIT-tmpt4av6: The Declaration of Independence
+
+Second Continental Congress (1776). *The Declaration of Independence*, adopted 4 July 1776. Transcript at the U.S. National Archives.
+
+## Key takeaways
+
+*Not read; as the exchange describes it.*
+
+> A90: "asserts that persons possess unalienable rights, that governments are instituted to secure those rights, that just governmental powers derive from the consent of the governed"
+
+Unverified until read.
+
+## Standing in the record
+
+Registered from A85 (2026-11-17), at the owner's U37. It bears on [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md), [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) (who has standing to change an arrangement's governing structure) and [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.

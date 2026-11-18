@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmpzgft9
 title: 'organizational achievement, of a specified target: its attainment or maintenance, under declared conditions, where an identifiable arrangement of relations among components makes an explanatory difference that a comparison with admissible alternatives can show, as an episode, a maintained capacity or the reproduction of what sustains that capacity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -13,6 +13,12 @@ history:
     ability to act" that the note of 2026-10-31 reads as "a dispositional
     achievement with its first element, the target, left blank". First
     application of draws_on (ADR-095). No other change.
+- version: 3
+  date: '2026-11-17'
+  note: >-
+    A dated note: A81 §6 of the exchange "Assess Depp Heard Abuse"
+    draws from the term a principle for crediting an institution with
+    a corrective capability. No other change.
 tags:
 - social-ontology
 - agency
@@ -172,3 +178,13 @@ The two entries that use it name no mode: [CLAIM-514](../claims.d/CLAIM-514.md) 
 A47 §1 (answering the owner's U22) calls the three modes "remarkably close to exactly what we've been trying to articulate" and reads them correctly. A47 §2 then separates a disposition ("What is this system characteristically disposed to manifest across relevant circumstances?") from a capacity ("What can it actually accomplish under specified conditions?"). This term's dispositional mode is the second of those: it "sustains a capacity for J across a declared family of conditions, exercised or not". It is the ability sense, sense 1 of [TERM-118](TERM-118.md), not the tendency sense.
 
 A49, A50 §9 and A52 §3 read this term's note of 2026-11-06 correctly and propose a fourth, "Transformative" row: "Transformation might be a special reproductive process in some systems, but not by definition." "A system can also be excellent at faithfully reproducing an old capacity while unable to invent or adapt it." That second point is [CLAIM-025](../claims.d/CLAIM-025.md), which the earlier note did not cite, with [CLAIM-018](../claims.d/CLAIM-018.md)'s norm-changing capacity; a capability brought in from outside is [TERM-099](TERM-099.md)'s "Installation" ([CASE-191](../cases.d/CASE-191.md)). The open question therefore has held material on the side of a separate thing: [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-018](../claims.d/CLAIM-018.md) and [QUESTION-362](../questions.d/QUESTION-362.md). No status or title changes.
+
+## Note of 2026-11-17: a credit principle for corrective capacity, from "Assess Depp Heard Abuse"
+
+A81 §6 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) cites this term for "the difference between an episodic achievement and a maintained organizational capacity", which is faithful to its modes, and draws a test: whether a corrective capacity "survives personnel changes, ordinary resource pressures, and the absence of extraordinary individual effort". "If an organization corrects a serious wrong only because one unusually conscientious employee intervenes, the result may be morally commendable. But it does not demonstrate that the organization itself reliably supports such corrections." Hence:
+
+"**An institution should not receive full credit for a corrective capability whose effective exercise depends on someone continually overcoming its ordinary organization.**" A adds: "That proposition needs a declared standard for institutional attribution. It is not a denial of individual moral achievement."
+
+That is this term's attribution condition applied: if the correction disappears when one person is removed, the arrangement does not make the explanatory difference, and the achievement is that person's. Turnover is the admissible alternative the term's comparison asks for. A81 §2 also cites the term for "Corrective adequacy is a property of the organized sequence of capabilities".
+
+No status changes.

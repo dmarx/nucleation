@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpuk8gq
 title: 'With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -27,6 +27,15 @@ history:
     (3, 1) nor (1, 3) while being their midpoint, so the set is not convex
     and no half-space {b : w·b ≥ θ} equals it. Nothing in the record meets
     its defeated_if.
+- version: 4
+  date: '2026-11-17'
+  note: >-
+    A dated note: A74 §7 of the exchange "Assess Depp Heard Abuse"
+    relays the claim faithfully and reads it for procedural siege,
+    that an adversary need only drive one resource below what every
+    sufficient route needs; the reading holds for resources held as
+    capacities, and for cumulative ones only by a parallel argument
+    the claim does not make. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -137,3 +146,14 @@ the topology of the sublevel sets.
 Readings filed beside the pasted synthesis on resource-bounded realizability support the frontier and say what an enrichment must use to keep it. The readers of Lawvere ([NOTE-1585](../notes.d/NOTE-1585.md)) and of Marsden and Zwart ([NOTE-1602](../notes.d/NOTE-1602.md)) note that a product of two quantales gives each hom the componentwise infimum over paths. For the claim's two paths with peaks (3, 1) and (1, 3) that is (1, 1), which suffices for neither. So the hom must be an up-set of budgets, as the claim already has it. The derivation is the readers', and [CLAIM-563](CLAIM-563.md) records it.
 
 The readers of Vipond ([NOTE-1609](../notes.d/NOTE-1609.md)) and of Botnan and Lesnick ([NOTE-1568](../notes.d/NOTE-1568.md)) find a topological counterpart, by analogy. Multiparameter persistence of sublevel sets is the right object, and its features need not be intervals. But the standard summaries are incomplete, so none is guaranteed to recover the frontier. No status changes.
+
+## Note of 2026-11-17: the siege reading: one non-substitutable resource is enough, from "Assess Depp Heard Abuse"
+<!-- inactive-ok-file: CLAIM-tmpyo35b CASE-tmphljcr — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+
+A74 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), answering the owner's U32 ("I think nucleation's inquiries in the neighborhood of capability expansion, resource-bounded compatibility, and reachability of corrigibility frontier might be useful"), relays this claim and its toy faithfully: routes needing (3, 1) and (1, 3), and (2, 2), with the same total, sufficing for neither. It defines the set of resource profiles under which a normative objective J is reliably and permissibly reachable, upward closed "Where increasing resources preserves all previously available policies", and reads it for the siege the owner described at U28 ("Time is just one resource asymmetry that can be abused here"; [CLAIM-tmpyo35b](CLAIM-tmpyo35b.md)): "An opposing party need not exhaust every resource required for effective contestation. It may only need to degrade a resource for which the claimant lacks a workable substitute." A64 §5 had said the same: "It may only need to exhaust whichever necessary resource cannot be replenished in time."
+
+The claim gives the condition exactly. Since the sufficient budgets are the up-set of the frontier, driving one resource k below the least that any frontier route needs of it, min over the frontier of b_k, leaves no route sufficient whatever the others hold; driving it below some routes' need but not all only narrows the routes. In the toy, cutting either resource below 1 removes both routes, and the opponent's attack is cheapest on whichever resource the claimant cannot buy back. If some route needs none of resource k, degrading k forecloses nothing.
+
+One limit. The claim is about capacities held at each moment, and its "What it does not say" excludes "cumulative or rate-limited resources". Litigation funds are spent over time ([CASE-tmphljcr](../cases.d/CASE-tmphljcr.md)). For per-resource totals the same argument gives an up-set, since a budget that covers a path's total need in each resource still does when enlarged, but that is a parallel the claim does not make, and with rates and deadlines interacting ([TERM-105](../terms.d/TERM-105.md)) it would need its own construction. A's further examples (a missed deadline, unavailable evidence, a court's lack of enforcement authority) are of the claim's kind or of no kind the claim models.
+
+No status changes.

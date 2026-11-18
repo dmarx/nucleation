@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnfjln
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
-version: 13
+version: 14
 history:
 - version: 2
   date: '2026-11-16'
@@ -68,6 +68,21 @@ history:
   date: '2026-11-16'
   note: >-
     Gains dependence-and-domination second at the split of organizational-normativity (ADR-100, #506, merged 2026-11-16): it bears on QUESTION-461, whose first line that is now (ADR-085). Its first line stays organizational-normativity, since it is about where blame for a failure settles. No other change.
+- version: 14
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512):
+    from CLAIM-tmpb47ul, its filing of asymmetric moral accountability from
+    A15 and A17 of the later share, it takes A17 §1 (authority on paper is
+    not actionable control), A15 §6 (power and felt obligation inversely
+    distributed), A17 §10's conscience doing double duty, A15 §9's
+    attributional power, A17 §9's six-question audit, A17 §4's point that a
+    crumple zone can hold someone partly responsible, A49 §11.1's later
+    restatement, the neighbour CASE-261, bears_on QUESTION-468 and the
+    continuation's QUESTION-tmpvoufs, and the use of the continuation's
+    TERM-tmp8pnnr. The continuation's entry joined the unseen-compensation
+    hypothesis back in; that stays CLAIM-702, as split at the review of
+    2026-11-16. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -96,6 +111,10 @@ complements:
 - CLAIM-678
 bears_on:
 - QUESTION-461
+- QUESTION-468
+- QUESTION-tmpvoufs
+uses:
+- TERM-tmp8pnnr
 summary: >-
   A's, from A17 of the exchange "Assess Depp Heard Abuse" (2026-11-15), at
   the owner's U9 ("double click on moral crumple zones and privileged
@@ -112,8 +131,11 @@ summary: >-
   review of 2026-11-16. Wells Fargo ([CASE-151](../cases.d/CASE-151.md)) is the record's nearest
   specimen. The wording is A's; adopting it is the owner's call.
 ---
+<!-- unresolved-ok-file: CLAIM-tmpb47ul — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: LIT-2708 LIT-2669 — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-708 CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-tmp8pnnr CLAIM-tmp238zy — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CASE-261 — Proposed; a stipulated neighbour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-678 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 
 # CLAIM-707: An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
@@ -144,6 +166,55 @@ moral accountability", is "A systematic divergence between the distribution
 of effective control over circumstances, the distribution of practical
 moral obligations, and the attribution of responsibility for resulting
 outcomes."
+
+## How the parts come apart, and who tells it
+
+Carried from the continuation's filing of the same turns (share
+https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b).
+
+- **Control and duty part.** A17 §1, on a supervisor formally responsible
+  for 10,000 automated decisions a day: "**authority on paper is not the
+  same as actionable control in practice**". A15 §6, after Tronto as A
+  relays her: "**Power and felt obligation can become inversely
+  distributed.**"
+- **Conscience does double duty.** A17 §10: "First, it supplies extra
+  effort that helps the institution function. Then, it supplies a moral
+  language in which the institution can explain failure as a lapse in
+  individual duty." The first half is [CLAIM-713](CLAIM-713.md)'s subsidy; the second is
+  this claim's blame.
+- **Who sets the categories.** A17 §10's third question: "**Who has the
+  authority to define and enforce the standards by which the first two
+  questions are judged?**" A15 §9 calls the power over "who receives
+  credit, blame, and public recognition for moral outcomes" attributional
+  power. The party that sets the terms of evaluation is the one the
+  evaluation spares.
+- **A test.** A17 §9's audit asks who controls the conditions, who must
+  ensure the outcome, who can refuse or escalate, who receives credit, who
+  absorbs blame and who can redesign the system. The claim's divergence is
+  a pattern of answers to those six. The claim needs accountability
+  without culpability in [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s senses, A17 §9's "A person can be
+  required to explain their decisions and participate in correcting a
+  failure without necessarily being morally culpable for everything that
+  happened."
+- **A's later restatement.** A49 §11.1, a day later, puts the wrong at the
+  point of restriction: "A restriction can be wrongful because it prevents
+  an actor from fulfilling obligations the surrounding institution
+  continues to assign to them", with the principle "**Responsibility for an
+  outcome should be evaluated alongside responsibility for the
+  institutional conditions under which the outcome became possible, likely,
+  or preventable.**"
+- **Partly responsible.** A17 §4, from the Uber crash at Tempe as A relays
+  the NTSB: "**A moral crumple zone can contain someone who is partly
+  responsible for the failure.**"
+
+[CASE-261](../cases.d/CASE-261.md) (a stipulated hospital AI) has clinicians who keep formal
+discretion and lose the time to use it. [QUESTION-468](../questions.d/QUESTION-468.md) asks, among
+other things, who answers when the arrangement is not an agent; this claim
+says where blame tends to land instead. [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) asks the
+reverse: by what instruments those downstream can make the upstream party
+answer for the conditions it set. [CLAIM-tmp238zy](CLAIM-tmp238zy.md) is one route by which
+blame reaches them: scrutiny required of them and then cited as their
+ownership of the decision.
 
 ## Its limits, A's own
 

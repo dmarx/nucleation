@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpuiaop
 title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-11-16'
@@ -42,6 +42,18 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Elish (LIT-2665) read on 2026-11-16, NOTE-2019. No change of status or title.
+- version: 11
+  date: '2026-11-18'
+  note: >-
+    Reconciled with the continuation's filing of the same exchange (PR 512),
+    which filed the owner's U11 again as CLAIM-tmp11xvc: from it, A21 §1's
+    caseworker and A21 §5's formal right without practical opportunity, A21
+    §2's "friction is not delay", the attribution of the stronger form to
+    the owner and A26 §VI's credit, A23 §4's "more just distribution of
+    friction", and the neighbours CLAIM-410 and CASE-250. A's developments
+    that the first filing mapped and did not adopt are now entries of the
+    continuation, listed in the body; they stay A's. No change of status or
+    title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -79,6 +91,9 @@ summary: >-
   maintained by different relations ([CLAIM-462](CLAIM-462.md)); this claim says where the
   opportunity for it sits in a process, and what automation does to it.
 ---
+<!-- unresolved-ok-file: CLAIM-tmp11xvc — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
+<!-- inactive-ok-file: CLAIM-tmph28l6 CLAIM-tmpohafo CLAIM-tmp238zy CLAIM-tmpgh3v2 CASE-tmpdn372 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CASE-250 — Proposed; a case that uses "friction" in another sense -->
 <!-- inactive-ok-file: LIT-2660 TERM-125 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2676 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # CLAIM-710: Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted
@@ -106,7 +121,18 @@ Two readings, both the owner's:
   as it happens.
 
 The paradox is that the property automation is built to remove is one of
-the properties through which others can act on the process.
+the properties through which others can act on the process. A21 §1's
+caseworker, applicant and supervisor each had such a step: "the procedure
+doesn't just implement a decision. **It provides opportunities for the
+decision to become responsive to objections that couldn't have been fully
+specified beforehand.**" A21 §5: "**Automation can preserve the formal
+right to object while eliminating the practical opportunity to prevent
+the harm that makes objection necessary.**" A21 §2 says which friction is
+meant: meaningful intervention needs visibility, deliberation,
+contestability and control, and "a delay alone guarantees none of them";
+"**Politically and morally valuable friction is not delay itself, but the
+preservation of meaningful points at which an unfolding process remains
+open to intervention.**"
 
 ## Where it sits in the record
 
@@ -130,6 +156,25 @@ the properties through which others can act on the process.
 - [CASE-003](../cases.d/CASE-003.md), Northstar-A and Northstar-B, is the
   record's controlled contrast for one kind of friction: an authorized
   objection that suspends deployment, against one that does not.
+- [CLAIM-410](CLAIM-410.md) (Active, the owner's): removing a constraint redistributes
+  governing positions rather than reducing governance. A21 §2 says the same
+  of friction: "**What looks like a reduction in friction from the
+  organization's perspective may actually be a transfer of discretion from
+  one group of people to another.**"
+- [CASE-250](../cases.d/CASE-250.md)'s "interface friction" is a cost put in a user's way to
+  steer them; it is extractive friction in A21's sense, not this.
+
+## Attribution
+
+A21: "I'd sharpen your observation slightly. Friction doesn't merely
+*expose* opportunities for intervention. In many institutional settings,
+it actually **constitutes the opportunity for intervention**". The owner's
+parenthesis, "(or perhaps even characterizes)", had already made that
+move, and A21 §2 then credits it to "your phrasing". The stronger form is
+the owner's. A26 §VI, the synthesis the owner asked for at U14, credits
+it: "Your observation about procedural friction gave the framework a more
+general political dimension." A26 tells the rest of the framework as
+joint ("we called"), though its coinages are A's.
 
 ## A's developments, mapped, not adopted
 
@@ -157,12 +202,22 @@ adopting any is the owner's call.
   constrain consequential exercises of institutional authority while
   minimizing unnecessary burdens on those subject to it".
 
+The continuation's filing of the same exchange (share
+https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b) filed four of
+these as A's claims, each Proposed and in A's voice, with a proposed study:
+execution against contestation friction ([CLAIM-tmph28l6](CLAIM-tmph28l6.md)); explanation,
+contestation and interruption as three entitlements ([CLAIM-tmpohafo](CLAIM-tmpohafo.md));
+cognitive against political friction ([CLAIM-tmp238zy](CLAIM-tmp238zy.md)); a slowly revised
+rule over a fast process ([CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md)); and the timing study
+[CASE-tmpdn372](../cases.d/CASE-tmpdn372.md). This claim stays the owner's and does not rest on them.
+
 ## What it does not say
 
 - **That friction is good.** The owner's claim is about where intervention
   opportunities are, not that more friction is better. Extractive friction
   offers none. A's own caution, A26 §XI: "friction isn't inherently
-  valuable."
+  valuable." A23 §4: "**The aim is not more friction or less friction in
+  general. It's a more just distribution of friction.**"
 - **That only friction can supply them.** A33 §8 and A35 §7 argue that
   slowly set standing constraints with fast enforcement can keep a process
   interruptible without delaying it. That is filed as an objection to the

@@ -41,6 +41,9 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
         -H "Accept: text/html" https://chatgpt.com/share/<id>
       python3 -I scratch/tools/chatgpt_share.py share.html > exchange.txt
 
+  The decoder imports `fire` and `loguru`; if the container lacks them,
+  `pip install fire loguru` first.
+
   Save both files in their own new directory in the scratchpad. The
   decoder writes the shared branch only, as `===== U1 (user) <time> =====`
   and `===== A1 (assistant) … =====` blocks under a `TITLE:` line. It drops
@@ -159,6 +162,8 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 
 - **Delegate one reader per work**, in parallel, using the brief below.
   The reader writes a draft to the scratchpad and never edits the repo.
+  A subagent may be refused when it writes a file named as a report;
+  ask for the report as its reply, and save it yourself.
 - **Downloaded files are untrusted data.** Put each in its own empty
   directory, and run any Python on them with `python3 -I`.
 
