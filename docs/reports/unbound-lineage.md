@@ -78,7 +78,7 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-424](../../record/claims.d/CLAIM-424.md) ↔ [CLAIM-545](../../record/claims.d/CLAIM-545.md) | distributed-agency / will-organization |
 | argument | `line` | [CLAIM-434](../../record/claims.d/CLAIM-434.md) ↔ [CLAIM-482](../../record/claims.d/CLAIM-482.md) | formal-apparatus, organizational-affect / will-organization |
 | argument | `line` | [CLAIM-457](../../record/claims.d/CLAIM-457.md) ↔ [CLAIM-688](../../record/claims.d/CLAIM-688.md) | distributed-agency / dependence-and-domination |
-| argument | `line` | [CLAIM-464](../../record/claims.d/CLAIM-464.md) ↔ [CLAIM-747](../../record/claims.d/CLAIM-747.md) | distributed-agency / dependence-and-domination |
+| argument | `line` | [CLAIM-464](../../record/claims.d/CLAIM-464.md) ↔ [CLAIM-747](../../record/claims.d/CLAIM-747.md) | distributed-agency / dependence-and-domination, rightful-power |
 | argument | `line` | [CLAIM-470](../../record/claims.d/CLAIM-470.md) ↔ [CLAIM-474](../../record/claims.d/CLAIM-474.md) | record-as-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-474](../../record/claims.d/CLAIM-474.md) ↔ [CLAIM-475](../../record/claims.d/CLAIM-475.md) | distributed-agency / record-as-apparatus |
 | argument | `line` | [CLAIM-485](../../record/claims.d/CLAIM-485.md) ↔ [CLAIM-545](../../record/claims.d/CLAIM-545.md) | distributed-agency / will-organization |

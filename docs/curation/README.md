@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [18 Nov 05:09 — The line rightful-power added beside dependence-and-domination and organizational-normativity: six root questions carry it first, twenty entries take it under ADR-085, eight of them through relations written where they argued a root, and SYNTHESIS-100 becomes its account](2026-11.md#the-line-rightful-power-added-beside-dependence-and-domination-and-organizational-normativity-six-root-questions-carry-it-first-twenty-entries-take-it-under-adr-085-eight-of-them-through-relations-written-where-they-argued-a-root-and-synthesis-100-becomes-its-account)
 - [18 Nov 04:57 — Line audit of 2026-11-18: the split of organizational-normativity (ADR-100) severed no participation, only two dependencies the line rule leaves out; twenty-six entries filed since carry a line they take part in and lacked](2026-11.md#line-audit-of-2026-11-18-the-split-of-organizational-normativity-adr-100-severed-no-participation-only-two-dependencies-the-line-rule-leaves-out-twenty-six-entries-filed-since-carry-a-line-they-take-part-in-and-lacked)
 - [18 Nov 04:00 — Synthesis review of 2026-11-18 (follow-up): dependence-and-domination and organizational-normativity after the readings and the reconciliation; eleven accounts revised, the first filing's uncovered entries integrated, the readings' support mapped component by component, no claim filed, and the evidence on a new line and a work](2026-11.md#synthesis-review-of-2026-11-18-follow-up-dependence-and-domination-and-organizational-normativity-after-the-readings-and-the-reconciliation-eleven-accounts-revised-the-first-filings-uncovered-entries-integrated-the-readings-support-mapped-component-by-component-no-claim-filed-and-the-evidence-on-a-new-line-and-a-work)
 - [18 Nov 02:18 — Synthesis review of 2026-11-18: the realizability line, grown from 99 entries to 119, with its four part accounts and the line's account revised; one admission added; no claim filed or superseded](2026-11.md#synthesis-review-of-2026-11-18-the-realizability-line-grown-from-99-entries-to-119-with-its-four-part-accounts-and-the-lines-account-revised-one-admission-added-no-claim-filed-or-superseded)
@@ -87,10 +88,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-275 entries across 3 books, newest first.
+276 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 78 | 2026-11-01 | 2026-11-18 |
+| [2026-11](2026-11.md) | 79 | 2026-11-01 | 2026-11-18 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
