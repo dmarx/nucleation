@@ -3,7 +3,7 @@ number: 91
 status: Proposed
 formerly:
 - SYNTHESIS-tmp5blqy
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -22,6 +22,17 @@ history:
     the owner's QUESTION-485 (from where legitimacy and adequacy).
     The introduction, summary, account, component list, links and "Not
     stated" say so. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    At the follow-up synthesis review of 2026-11-18, after the readings
+    of the works registered from "Assess Depp Heard Abuse" (pull request
+    514): one reading bears on a component of this part, the SEP entry
+    "Contractualism" (THEORY-1971), read as the neighbour of Scanlon's
+    unavailable book, which carries bears_on QUESTION-485. The account
+    says so. No component is added: none of the first filing's entries
+    and none of the nine reconciled entries belongs to this part. No
+    other change.
 title: "What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open"
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of
@@ -89,10 +100,12 @@ summary: >-
 <!-- inactive-ok-file: ARG-081 — Rejected; a component, with its standing -->
 <!-- inactive-ok-file: CLAIM-718 CLAIM-746 CLAIM-737 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open; components at version 3, and citations -->
 <!-- inactive-ok-file: CASE-229 CASE-263 CASE-264 ARG-055 — Proposed; citations at version 3, with their standing -->
+<!-- inactive-ok-file: THEORY-1971 — a reading of 2026-11-18, Proposed; cited at version 4 as bearing on a component -->
+<!-- inactive-ok-file: LIT-2721 — Unavailable; the work the reading stands in for -->
 
 # SYNTHESIS-091: What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open
 
-*A part account of the organizational-normativity line ("Normative judgment about organizations"), filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-094](SYNTHESIS-094.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first nine components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-07 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates three more, filed from the exchange "Assess Depp Heard Abuse" that day. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; where it declares none, the account says that, and assigns none.*
+*A part account of the organizational-normativity line ("Normative judgment about organizations"), filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-094](SYNTHESIS-094.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first nine components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-07 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates three more, filed from the exchange "Assess Depp Heard Abuse" that day. Version 4, at the follow-up review of 2026-11-18, records the one reading of that exchange's works that bears on a component here. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; where it declares none, the account says that, and assigns none.*
 
 ## The account
 
@@ -213,6 +226,13 @@ from where its adequacy?" Its body names [CLAIM-075](../claims.d/CLAIM-075.md), 
 [CLAIM-348](../claims.d/CLAIM-348.md), [QUESTION-129](../questions.d/QUESTION-129.md) (narrower in object, wider in asking for
 adequacy), [QUESTION-454](../questions.d/QUESTION-454.md) ("One case of this question") and [QUESTION-464](../questions.d/QUESTION-464.md),
 and says [CLAIM-746](../claims.d/CLAIM-746.md) and [QUESTION-482](../questions.d/QUESTION-482.md) are on its first half.
+One reading bears on it (2026-11-18): the SEP entry "Contractualism"
+(THEORY-1971, NOTE-2043), read as the neighbour of Scanlon's unavailable
+*What We Owe to Each Other* (LIT-2721), which reports Scanlon's test,
+an act is wrong if principles no one could reasonably reject would
+disallow it, and its scope, that it "covers only the realm of what we owe to one
+another". It is not
+a component, and no component says it answers the question.
 [CLAIM-746](../claims.d/CLAIM-746.md) (A's, A74 §9 and A76 X, corrected by the filer; thesis,
 interpretive, Proposed; also realizability) rests on [CLAIM-560](../claims.d/CLAIM-560.md), [CLAIM-075](../claims.d/CLAIM-075.md)
 and [CLAIM-737](../claims.d/CLAIM-737.md), bears on [QUESTION-485](../questions.d/QUESTION-485.md) and [QUESTION-129](../questions.d/QUESTION-129.md), and uses

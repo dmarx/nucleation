@@ -3,7 +3,7 @@ number: 95
 status: Proposed
 formerly:
 - SYNTHESIS-tmpt2tjp
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -25,6 +25,26 @@ history:
     `scratch/formal/line_parts.py`. Version 1's counts and links are
     kept where they still hold. Nothing is added to what the parts and
     components state.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    The follow-up synthesis review of 2026-11-18, after the readings of
+    the works registered from "Assess Depp Heard Abuse" and the
+    reconciliation of that exchange's two filings. Three of the part
+    accounts are revised as new versions: SYNTHESIS-099 v2 integrates
+    CLAIM-702, ARG-113, ARG-115 and QUESTION-473 and re-describes the
+    components folded at the reconciliation; SYNTHESIS-101 v2 integrates
+    ARG-116; SYNTHESIS-098 v2 integrates CLAIM-701 and re-describes
+    CLAIM-710. SYNTHESIS-103 v2 adds the readings only. ARG-117, which
+    concludes CLAIM-720 from the reading of Locke, is integrated here
+    directly beside CLAIM-720. The parts' descriptions, the links where
+    they meet and the counts are revised: CLAIM-701 gives the first
+    relations between SYNTHESIS-099 and SYNTHESIS-098, and two links
+    version 2 gave are no longer stated (CLAIM-713 rests on CLAIM-703,
+    not CLAIM-690; CLAIM-707's body no longer names CLAIM-687 or
+    CLAIM-624). Each part's support from the readings is summarized,
+    attributed to the part accounts that give it. Nothing is added to
+    what the parts and components state.
 title: 'The dependence-and-domination line is six accounts: what wholes and parts owe and claim; what those who govern an arrangement others depend on owe; responsibility for another''s conditions, and moral exploitation; restricting capabilities, and who controls the terms of waiting and contracting; remedies foreclosed before review; and answerability and contestability; the parts meet mostly where the later four use the first part''s term for domination and point at its claims on control of terms, and the line makes no claim beyond its parts'
 defeated_if: >-
   A part account or component misstated or misattributed here, a
@@ -57,6 +77,7 @@ integrates:
 - QUESTION-486
 - CLAIM-718
 - QUESTION-485
+- ARG-117
 bears_on:
 - QUESTION-460
 - QUESTION-461
@@ -64,6 +85,7 @@ bears_on:
 - QUESTION-468
 - QUESTION-464
 - QUESTION-487
+- QUESTION-473
 - QUESTION-472
 - QUESTION-477
 - QUESTION-478
