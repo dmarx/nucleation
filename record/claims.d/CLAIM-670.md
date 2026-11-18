@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj6tb1
 title: 'An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -23,6 +23,13 @@ history:
     relationship-specific investment produces the dependence; A49's
     provenance table wrongly pairs the claim with Seamster and
     Charron-Chénier. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §6 and §8 use its proposition as a step. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +52,8 @@ date: '2026-11-13'
 line:
 - dependence-and-domination
 - transient-support
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-603
 complements:

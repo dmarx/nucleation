@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnfjln
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
-version: 15
+version: 16
 history:
 - version: 2
   date: '2026-11-16'
@@ -91,6 +91,13 @@ history:
     case filed from the NTSB's final report as an illustration.
     Carried over at the reconciliation of 2026-11-18 from the
     continuation filing's duplicate entry.
+- version: 16
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §11.1 states its proposition. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -110,6 +117,8 @@ date: '2026-11-15'
 line:
 - organizational-normativity
 - dependence-and-domination
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-708
 complements:

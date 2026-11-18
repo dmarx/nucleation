@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-30'
@@ -43,6 +43,13 @@ history:
     Hains Point as a new example whose facts are unverified here; CASE-278
     and CASE-276, from the first filing of the same exchange, hold them
     (pointer added at the reconciliation of 2026-11-18). No other change.
+- version: 7
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §10 uses its proposition as a step. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +68,8 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
+works:
+- capability-restraint-relational-freedom
 grounds:
 - CASE-176
 - CASE-175
