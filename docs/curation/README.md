@@ -6,6 +6,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [18 Nov 05:09 — The line rightful-power added beside dependence-and-domination and organizational-normativity: six root questions carry it first, twenty entries take it under ADR-085, eight of them through relations written where they argued a root, and SYNTHESIS-100 becomes its account](2026-11.md#the-line-rightful-power-added-beside-dependence-and-domination-and-organizational-normativity-six-root-questions-carry-it-first-twenty-entries-take-it-under-adr-085-eight-of-them-through-relations-written-where-they-argued-a-root-and-synthesis-100-becomes-its-account)
+- [18 Nov 04:57 — Line audit of 2026-11-18: the split of organizational-normativity (ADR-100) severed no participation, only two dependencies the line rule leaves out; twenty-six entries filed since carry a line they take part in and lacked](2026-11.md#line-audit-of-2026-11-18-the-split-of-organizational-normativity-adr-100-severed-no-participation-only-two-dependencies-the-line-rule-leaves-out-twenty-six-entries-filed-since-carry-a-line-they-take-part-in-and-lacked)
+- [18 Nov 04:00 — Synthesis review of 2026-11-18 (follow-up): dependence-and-domination and organizational-normativity after the readings and the reconciliation; eleven accounts revised, the first filing's uncovered entries integrated, the readings' support mapped component by component, no claim filed, and the evidence on a new line and a work](2026-11.md#synthesis-review-of-2026-11-18-follow-up-dependence-and-domination-and-organizational-normativity-after-the-readings-and-the-reconciliation-eleven-accounts-revised-the-first-filings-uncovered-entries-integrated-the-readings-support-mapped-component-by-component-no-claim-filed-and-the-evidence-on-a-new-line-and-a-work)
+- [18 Nov 02:18 — Synthesis review of 2026-11-18: the realizability line, grown from 99 entries to 119, with its four part accounts and the line's account revised; one admission added; no claim filed or superseded](2026-11.md#synthesis-review-of-2026-11-18-the-realizability-line-grown-from-99-entries-to-119-with-its-four-part-accounts-and-the-lines-account-revised-one-admission-added-no-claim-filed-or-superseded)
 - [18 Nov 01:36 — Synthesis review of 2026-11-18: the learned-structure line, after the filings of 2026-11-15, in two new part accounts and five revised accounts; stale links from the line-field sweep of 2026-11-11 corrected; one claim admitted by test; no claim filed](2026-11.md#synthesis-review-of-2026-11-18-the-learned-structure-line-after-the-filings-of-2026-11-15-in-two-new-part-accounts-and-five-revised-accounts-stale-links-from-the-line-field-sweep-of-2026-11-11-corrected-one-claim-admitted-by-test-no-claim-filed)
 - [18 Nov 01:33 — The 85 works registered from "Assess Depp Heard Abuse" sought and read: 49 read or skimmed (32 newly, 17 also read on main), 13 Unfetched, 23 Unavailable, 15 stand-ins read; three ARGs where a claim cited a work for more than it carries, and a decision admitting two more kinds of lawful copy](2026-11.md#the-85-works-registered-from-assess-depp-heard-abuse-sought-and-read-49-read-or-skimmed-32-newly-17-also-read-on-main-13-unfetched-23-unavailable-15-stand-ins-read-three-args-where-a-claim-cited-a-work-for-more-than-it-carries-and-a-decision-admitting-two-more-kinds-of-lawful-copy)
 - [18 Nov 01:14 — Synthesis review of 2026-11-17 (interim): dependence-and-domination and organizational-normativity after the filing of "Assess Depp Heard Abuse"; six part accounts, both line accounts revised, an account of the exchange's argument and how it developed, no claim filed, and a follow-up due once the readings are filed](2026-11.md#synthesis-review-of-2026-11-17-interim-dependence-and-domination-and-organizational-normativity-after-the-filing-of-assess-depp-heard-abuse-six-part-accounts-both-line-accounts-revised-an-account-of-the-exchanges-argument-and-how-it-developed-no-claim-filed-and-a-follow-up-due-once-the-readings-are-filed)
@@ -84,10 +88,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-272 entries across 3 books, newest first.
+276 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 75 | 2026-11-01 | 2026-11-18 |
+| [2026-11](2026-11.md) | 79 | 2026-11-01 | 2026-11-18 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

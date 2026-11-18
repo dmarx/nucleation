@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CASE-tmp4gw3m
 title: 'A fail-safe relay: a valve held closed only while current energizes a relay opens by spring when the current stops, so an absence of input has an immediate consequence with no test, stored expectation or timeout'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-285 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -13,6 +20,7 @@ tags:
 date: '2026-11-12'
 line:
 - record-as-apparatus
+- distributed-agency
 bears_on:
 - QUESTION-285
 summary: >-

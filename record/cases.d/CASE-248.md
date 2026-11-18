@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CASE-tmpmw3hc
 title: 'A proposed study: loot-box economies as a measurable test of whether a minority''s spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game''s releases against the economic weight of its high spenders, and the spread of designs across games'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-129
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -14,6 +22,7 @@ tags:
 date: '2026-11-12'
 line:
 - distributed-agency
+- organizational-normativity
 bears_on:
 - QUESTION-129
 illustrates:

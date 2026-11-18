@@ -23,7 +23,7 @@ summary: >-
   members of the line; counting what the provenance table cites but the
   text does not use; and having no work.
 ---
-<!-- inactive-ok-file: ADR-tmpkc7xl — Proposed; the line's decision, this pull request's base -->
+<!-- inactive-ok-file: ADR-103 — Proposed; the line's decision, merged before this one -->
 <!-- inactive-ok-file: SYNTHESIS-100 — Proposed; the account whose audit of the manuscript this decision reads -->
 <!-- inactive-ok-file: CLAIM-716 CLAIM-720 CLAIM-721 CLAIM-727 CLAIM-734 CLAIM-737 CLAIM-746 CLAIM-624 CLAIM-670 CLAIM-675 CLAIM-688 — Proposed; members of the work, cited as members whatever their standing -->
 <!-- inactive-ok-file: CLAIM-684 — Proposed; cited in the manuscript's provenance table and not used in its text, so not a member -->
@@ -53,8 +53,8 @@ manuscript" or "our manuscript". Seven do so explicitly:
 
 The record already holds the manuscript's argument, spread over many
 entries. The filings of 2026-11-17 and 2026-11-18 filed the exchange's
-new ideas. [SYNTHESIS-100](../syntheses.d/SYNTHESIS-100.md) audits A49 among A's syntheses. [ADR-tmpkc7xl](ADR-tmpkc7xl.md),
-the decision this pull request is based on, added the line rightful-power
+new ideas. [SYNTHESIS-100](../syntheses.d/SYNTHESIS-100.md) audits A49 among A's syntheses. [ADR-103](ADR-103.md),
+the decision merged just before this one, added the line rightful-power
 for the exchange's inquiry. That decision left the manuscript's work to
 be "decided separately", expected to "sit inside the line". On
 2026-11-18 the owner asked for the work and expected it to be mostly a

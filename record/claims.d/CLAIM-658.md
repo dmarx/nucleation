@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpmz271
 title: 'Demand read from activity or revenue weights each person''s taste by how much they act or spend, so it diverges from person-weighted preference wherever activity goes with taste; and what moves a revenue-optimal design is each group''s marginal revenue response, not its head count or share of spending, so a responsive minority can set a design parameter against the majority''s preference with no change in anyone''s taste'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-129
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -23,6 +31,7 @@ tags:
 date: '2026-11-12'
 line:
 - distributed-agency
+- organizational-normativity
 bears_on:
 - QUESTION-129
 summary: >-

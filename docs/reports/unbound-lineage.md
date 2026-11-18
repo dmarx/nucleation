@@ -7,7 +7,7 @@ Asserting an invariant: `lineage` on `tags`, `theory` on `tags`, `argument` on `
 
 A relation is an assertion that the documents it joins have something in common. Where no value in the named field is held by both, the record has made the assertion and not said what it means — usually a sign the vocabulary is short a word rather than that the relation is wrong.
 
-**81 unbound relations.** Two documents joined directly, sharing nothing.
+**79 unbound relations.** Two documents joined directly, sharing nothing.
 
 | Declared by | Field | Documents | Held |
 |---|---|---|---|
@@ -73,12 +73,12 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-454](../../record/claims.d/CLAIM-454.md) | evidence-for-experience, formal-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-519](../../record/claims.d/CLAIM-519.md) | evidence-for-experience, formal-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-543](../../record/claims.d/CLAIM-543.md) | evidence-for-experience, formal-apparatus / distributed-agency, learned-structure |
-| argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-649](../../record/claims.d/CLAIM-649.md) | evidence-for-experience, formal-apparatus / pragmatic-transport, record-as-apparatus |
+| argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-649](../../record/claims.d/CLAIM-649.md) | evidence-for-experience, formal-apparatus / distributed-agency, pragmatic-transport, record-as-apparatus |
 | argument | `line` | [CLAIM-422](../../record/claims.d/CLAIM-422.md) ↔ [CLAIM-462](../../record/claims.d/CLAIM-462.md) | will-organization / distributed-agency |
 | argument | `line` | [CLAIM-424](../../record/claims.d/CLAIM-424.md) ↔ [CLAIM-545](../../record/claims.d/CLAIM-545.md) | distributed-agency / will-organization |
 | argument | `line` | [CLAIM-434](../../record/claims.d/CLAIM-434.md) ↔ [CLAIM-482](../../record/claims.d/CLAIM-482.md) | formal-apparatus, organizational-affect / will-organization |
 | argument | `line` | [CLAIM-457](../../record/claims.d/CLAIM-457.md) ↔ [CLAIM-688](../../record/claims.d/CLAIM-688.md) | distributed-agency / dependence-and-domination |
-| argument | `line` | [CLAIM-464](../../record/claims.d/CLAIM-464.md) ↔ [CLAIM-747](../../record/claims.d/CLAIM-747.md) | distributed-agency / dependence-and-domination |
+| argument | `line` | [CLAIM-464](../../record/claims.d/CLAIM-464.md) ↔ [CLAIM-747](../../record/claims.d/CLAIM-747.md) | distributed-agency / dependence-and-domination, rightful-power |
 | argument | `line` | [CLAIM-470](../../record/claims.d/CLAIM-470.md) ↔ [CLAIM-474](../../record/claims.d/CLAIM-474.md) | record-as-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-474](../../record/claims.d/CLAIM-474.md) ↔ [CLAIM-475](../../record/claims.d/CLAIM-475.md) | distributed-agency / record-as-apparatus |
 | argument | `line` | [CLAIM-485](../../record/claims.d/CLAIM-485.md) ↔ [CLAIM-545](../../record/claims.d/CLAIM-545.md) | distributed-agency / will-organization |
@@ -87,10 +87,8 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-549](../../record/claims.d/CLAIM-549.md) ↔ [CLAIM-700](../../record/claims.d/CLAIM-700.md) | distributed-agency, formal-apparatus, will-organization / organizational-normativity, readiness |
 | argument | `line` | [CLAIM-560](../../record/claims.d/CLAIM-560.md) ↔ [CLAIM-729](../../record/claims.d/CLAIM-729.md) | formal-apparatus, realizability / organizational-normativity |
 | argument | `line` | [CLAIM-566](../../record/claims.d/CLAIM-566.md) ↔ [CLAIM-600](../../record/claims.d/CLAIM-600.md) | distributed-agency, realizability / transient-support |
-| argument | `line` | [CLAIM-624](../../record/claims.d/CLAIM-624.md) ↔ [CLAIM-727](../../record/claims.d/CLAIM-727.md) | distributed-agency, organizational-normativity / dependence-and-domination |
 | argument | `line` | [CLAIM-700](../../record/claims.d/CLAIM-700.md) ↔ [CLAIM-702](../../record/claims.d/CLAIM-702.md) | organizational-normativity, readiness / dependence-and-domination |
 | argument | `line` | [CLAIM-700](../../record/claims.d/CLAIM-700.md) ↔ [CLAIM-713](../../record/claims.d/CLAIM-713.md) | organizational-normativity, readiness / dependence-and-domination |
-| argument | `line` | [CLAIM-703](../../record/claims.d/CLAIM-703.md) ↔ [CLAIM-713](../../record/claims.d/CLAIM-713.md) | organizational-normativity / dependence-and-domination |
 | argument | `line` | [CLAIM-708](../../record/claims.d/CLAIM-708.md) ↔ [CLAIM-709](../../record/claims.d/CLAIM-709.md) | distributed-agency, organizational-normativity / dependence-and-domination |
 
 **7 unbound lines.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.

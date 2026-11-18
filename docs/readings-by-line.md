@@ -27,6 +27,7 @@ serve none.
 | Will-organization | 57 |
 | Normative judgment about organizations | 7 |
 | Wholes, parts and dependence | 0 |
+| Rightful power: restriction, answerability and rights | 0 |
 | Organizational affect | 8 |
 | Authenticity and concordance | 3 |
 | Contextual pragmatic information transport | 127 |

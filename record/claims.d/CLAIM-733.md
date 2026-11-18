@@ -4,7 +4,14 @@ formerly:
 - CLAIM-tmpixmhp
 status: Proposed
 title: "Blame supplies provenance: responsibility for a harmful act and responsibility for producing the incapacity through which it was done can come apart and attach to different actors, so blame traced upstream to those who formed or maintained an agent's incapacity grounds holding them accountable where the agent who acted is not culpable"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries will-organization after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-071 (will-organization).
+    Found at the line audit of 2026-11-18. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,6 +33,7 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - distributed-agency
+- will-organization
 rests_on:
 - CLAIM-742
 bears_on:

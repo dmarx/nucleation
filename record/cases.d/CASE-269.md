@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CASE-tmpubkrl
 title: 'A proposed study: a common testbed of continuous fields, a φ⁴ kink, abelian Higgs vortices and a coupled field in which a localized nucleus makes a diffusing mediator, to measure separately whether a localized structure exists, is reachable, is attracting, persists, regenerates and changes downstream transition rates, and to find configurations that look alike in persistence and differ under intervention'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries realizability, formal-apparatus after its own line(s)
+    under ADR-085, which it takes part in: bears_on QUESTION-397
+    (realizability); bears_on QUESTION-438 (formal-apparatus). Found
+    at the line audit of 2026-11-18. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -15,6 +23,8 @@ date: '2026-11-15'
 line:
 - distributed-agency
 - transient-support
+- realizability
+- formal-apparatus
 draws_on:
 - THEORY-1507
 - THEORY-1869

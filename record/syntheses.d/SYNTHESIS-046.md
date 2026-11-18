@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmprngy2
 title: 'An organized individual that persists through changes of mode persists, on the record''s proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (realizability). CLAIM-025 and
+    CLAIM-478, which CLAIM-611 rests on, gained realizability on 2026-11-11
+    by bearing on QUESTION-388 and QUESTION-391; SYNTHESIS-042 now
+    integrates them, and the components list no longer calls them entries
+    of other lines. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the persisting-individuals part of the realizability line left out
@@ -97,7 +106,8 @@ modelling error.
 - [CLAIM-611](../claims.d/CLAIM-611.md), A's thesis corrected by the filer, thesis, interpretive,
   Proposed; first line distributed-agency; rests on [CLAIM-576](../claims.d/CLAIM-576.md) and
   [CLAIM-567](../claims.d/CLAIM-567.md) ([SYNTHESIS-042](SYNTHESIS-042.md)), [CLAIM-566](../claims.d/CLAIM-566.md) (the line's hinge) and [CLAIM-625](../claims.d/CLAIM-625.md), with
-  [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-522](../claims.d/CLAIM-522.md), [CLAIM-478](../claims.d/CLAIM-478.md) and [CLAIM-612](../claims.d/CLAIM-612.md) of other lines;
+  [CLAIM-025](../claims.d/CLAIM-025.md) and [CLAIM-478](../claims.d/CLAIM-478.md) (first in other lines, and in [SYNTHESIS-042](SYNTHESIS-042.md) since
+  2026-11-11) and [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-612](../claims.d/CLAIM-612.md) of other lines;
   complements [CLAIM-616](../claims.d/CLAIM-616.md).
 - [SYNTHESIS-003](SYNTHESIS-003.md) also carries the line. It is Superseded by [CLAIM-611](../claims.d/CLAIM-611.md) ([ADR-084](../decisions.d/ADR-084.md)), which
   is integrated here, and it is not integrated again.
