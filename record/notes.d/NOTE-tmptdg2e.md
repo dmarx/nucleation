@@ -22,7 +22,7 @@ summary: >-
   demand, so wronging may suffice for obligation.
 ---
 <!-- inactive-ok-file: LIT-tmpr2bbq — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: QUESTION-tmpea19q CLAIM-tmpnhesz CLAIM-tmpnb4v4 CLAIM-tmpc7shc TERM-tmp4zjar LIT-tmpld793 — Proposed or Unavailable; the entries this reading bears on, and the Raz work beside it -->
+<!-- inactive-ok-file: CLAIM-tmpnhesz CLAIM-tmpnb4v4 CLAIM-tmpc7shc TERM-tmp4zjar LIT-tmpld793 — Proposed or Unavailable; the entries this reading bears on, and the Raz work beside it -->
 
 # NOTE-tmptdg2e: Stern — Darwall on Second-Personal Ethics
 
@@ -81,36 +81,36 @@ that wronging (bipolarity) can be had without a demand.
 
 ## Bearing on the record
 
-- **QUESTION-tmpea19q** (when is answerability owed, to whom, and why?):
+- **[QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md)** (when is answerability owed, to whom, and why?):
   Darwall's answer is to those with second-personal standing, because
   obligation consists in legitimate demandability; Stern's triad is the
   case it leaves open, an obligation with no one placed to demand.
-- **CLAIM-tmpnb4v4**: corroborates the clause that a demand's being
+- **[CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md)**: corroborates the clause that a demand's being
   asserted gives it no warrant: on Darwall's view obligation tracks the
   demands that "could legitimately" be made, not the "actual demands". It
   qualifies the rest: Darwall makes obligation itself consist in
   legitimate demandability, which the claim's separation of rights from
   demands does not presuppose, and Stern's objection is where the two
   part.
-- **CLAIM-tmpnhesz**: Darwall is one of the three candidate grounds the
+- **[CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md)**: Darwall is one of the three candidate grounds the
   claim names as unread for why reasons are owed at all. His directed
   relation runs from the claimant's standing, which fits the claim's
   "need not presuppose the actor's legitimate authority"; the sketch does
   not reach the claim's several grounds.
-- **CLAIM-tmpc7shc**: legitimacy of a demand, not its content's being met,
+- **[CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md)**: legitimacy of a demand, not its content's being met,
   is what binds; consistent, not a test.
-- **TERM-tmp4zjar**: Darwall's "answerable" (p. 9) is the directed sense
+- **[TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md)**: Darwall's "answerable" (p. 9) is the directed sense
   the term uses.
 - **The exchange's characterization** (A83): "the fact that deferring to
   someone would produce better results may not, by itself, establish that
   the person has the normative standing to command obedience" matches the
   argument against Raz (p. 7), but Stern places it in the 2013 essays, not
-  the 2006 book. Raz's *The Morality of Freedom*, LIT-tmpld793, is the
+  the 2006 book. Raz's *The Morality of Freedom*, [LIT-tmpld793](../literature.d/LIT-tmpld793.md), is the
   work it answers.
 
 ## Connections
 
-Stands in for Darwall (2006), LIT-tmpr2bbq, for the core thesis
+Stands in for Darwall (2006), [LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md), for the core thesis
 (obligation as legitimate second-personal authority to demand; actual
 demands not required; resentment as holding to a legitimate claim; respect
 and dignity). It does not restate the book's arguments, and its detail on

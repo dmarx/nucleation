@@ -16,21 +16,21 @@ date: '2026-11-18'
 source:
 - LIT-tmpm24n8
 summary: >-
-  Calabresi & Melamed (1972), LIT-tmpm24n8, read in NOTE-tmpv28va. Who holds an
+  Calabresi & Melamed (1972), [LIT-tmpm24n8](../literature.d/LIT-tmpm24n8.md), read in [NOTE-tmpv28va](../notes.d/NOTE-tmpv28va.md). Who holds an
   entitlement is decided first; how it is protected is a second-order
   decision among property, liability and inalienability rules, chosen
   mainly by the cost of market and collective valuation. §V: a thief
   charged only the value of what he took would "convert all property rule
   entitlements into liability rule entitlements", so punishment adds "an
-  undefinable kicker". It is the mechanism CLAIM-tmpl0sgt states, filed as
+  undefinable kicker". It is the mechanism [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md) states, filed as
   that claim's grounds by a note on it. The wording is the reader's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpv28va CLAIM-tmpl0sgt — Proposed or new; the reading and the claim it grounds -->
+<!-- inactive-ok-file: CLAIM-tmpl0sgt — Proposed or new; the reading and the claim it grounds -->
 
 # THEORY-tmpbxj3x: Calabresi and Melamed propose that law protects an entitlement by a property rule, under which it is taken only by a purchase its holder agrees to, a liability rule, under which it may be taken on payment of a collectively determined value, or an inalienability rule, under which its transfer is forbidden, and that criminal sanctions serve partly to deter takers from converting property rules into liability rules by taking first and paying after
 
-Calabresi & Melamed (1972), LIT-tmpm24n8.
+Calabresi & Melamed (1972), [LIT-tmpm24n8](../literature.d/LIT-tmpm24n8.md).
 
 ## The account
 

@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-17 (NOTE-tmps8s9k) from Queen's University's
-  repository, as a weak read neighbour of Miller (2001), LIT-tmpqsyr9,
+  read in part 2026-11-17 ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md)) from Queen's University's
+  repository, as a weak read neighbour of Miller (2001), [LIT-tmpqsyr9](LIT-tmpqsyr9.md),
   which could not be read; worth reading here only for its chapter on
   Miller, which reports with page numbers the connection theory of
   remedial responsibility as Miller states it in National Responsibility
@@ -51,8 +51,8 @@ summary: >-
   a coerced agent can inherit the duty of repair when the coercer
   "disappears from the scene". Shaw-Young argues that only moral and
   outcome responsibility ground duties of justice. Registered as the weak
-  read neighbour of Miller 2001, LIT-tmpqsyr9. It corroborates the second
-  half of CLAIM-tmp4o53g.
+  read neighbour of Miller 2001, [LIT-tmpqsyr9](LIT-tmpqsyr9.md). It corroborates the second
+  half of [CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md).
 ---
 <!-- inactive-ok-file: LIT-tmpqsyr9 — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: NOTE-tmps8s9k CLAIM-tmp4o53g — new or Proposed; this work's reading and the claim it corroborates -->
@@ -75,7 +75,7 @@ Shaw-Young, J. (2008). *Global Institutions and Human Rights: A Critical Essay o
 ## Standing in the record
 
 Registered on 2026-11-18 as a weak read neighbour of Miller (2001),
-LIT-tmpqsyr9. It reports Miller's 2007 statement, not the 2001 article,
+[LIT-tmpqsyr9](LIT-tmpqsyr9.md). It reports Miller's 2007 statement, not the 2001 article,
 which it cites once, in a 2005 reprint, for Miller's use of Hart and
 Honoré on causation. Only Miller's words as quoted with page numbers stand
 in for Miller; the thesis's own argument is a critique.

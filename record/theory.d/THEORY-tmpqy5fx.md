@@ -13,10 +13,10 @@ date: '2026-11-18'
 source:
 - LIT-tmpappcx
 summary: >-
-  Mischel, Ebbesen & Zeiss (1972), LIT-tmpappcx, read in NOTE-tmpxyktj:
+  Mischel, Ebbesen & Zeiss (1972), [LIT-tmpappcx](../literature.d/LIT-tmpappcx.md), read in [NOTE-tmpxyktj](../notes.d/NOTE-tmpxyktj.md):
   three experiments with nursery-school children in which the
   experimenters supplied the distraction. It is the attentional finding
-  CASE-tmp07hx9 relays from A, with the correction that the situation's
+  [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) relays from A, with the correction that the situation's
   organization was supplied by the experimenter. The wording is the
   reader's; adopting it is the owner's call.
 ---
@@ -24,7 +24,7 @@ summary: >-
 
 # THEORY-tmpqy5fx: Preschool children's voluntary delay of gratification is lengthened by overt or cognitive distraction from the rewards and shortened by attention or ideation that keeps the rewards salient, so effective delay depends on suppressing attention to the rewards rather than dwelling on them
 
-Mischel, Ebbesen & Zeiss (1972), LIT-tmpappcx.
+Mischel, Ebbesen & Zeiss (1972), [LIT-tmpappcx](../literature.d/LIT-tmpappcx.md).
 
 ## The experiments
 

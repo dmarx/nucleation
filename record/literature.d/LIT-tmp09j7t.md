@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpxzmdi) from PubMed Central
+  read in full 2026-11-17 ([NOTE-tmpxzmdi](../notes.d/NOTE-tmpxzmdi.md)) from PubMed Central
   (PMC11581930); worth reading here as the preregistered test showing the
   marshmallow test does not reliably predict adult outcomes once early
   background is controlled. The supplement not read.
@@ -49,8 +49,8 @@ summary: >-
   educational attainment and BMI, both non-significant once demographics
   or the early home environment were controlled; an exploratory pass/fail
   model kept a BMI association. The task does not reliably predict adult
-  outcomes. Read in NOTE-tmpxzmdi; its account is THEORY-tmpvouab. It
-  confirms, to adulthood, what CASE-tmp07hx9 says it cannot show.
+  outcomes. Read in [NOTE-tmpxzmdi](../notes.d/NOTE-tmpxzmdi.md); its account is [THEORY-tmpvouab](../theory.d/THEORY-tmpvouab.md). It
+  confirms, to adulthood, what [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) says it cannot show.
 ---
 <!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d THEORY-tmpvouab — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -73,7 +73,7 @@ Jessica F. Sperber, Deborah Lowe Vandell, Greg J. Duncan and Tyler W. Watts (202
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 as A's evidence that childhood marshmallow-test performance does not reliably predict adult outcomes. It bears on [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) and [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md). Not read.
 
-Read on 2026-11-17 (NOTE-tmpxzmdi). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmpxzmdi](../notes.d/NOTE-tmpxzmdi.md)). The exchange's characterization is
 faithful, with one omission: A51's 702 participants whose
 marshmallow-test performance "did not reliably predict adult achievement,
 health, or behavior" match the paper; the exploratory BMI result is

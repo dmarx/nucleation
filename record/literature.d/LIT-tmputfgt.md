@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpvxul9) from the Yale Law School repository's
+  read 2026-11-17 ([NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md)) from the Yale Law School repository's
   copy of the published article; worth reading as the source of the
   vocabulary of claims, privileges, powers and immunities the exchange
   uses, and of the separation of legal from physical power that grounds
-  CLAIM-tmpa0wdv.
+  [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md).
 title: 'Some Fundamental Legal Conceptions as Applied in Judicial Reasoning'
 version: 2
 history:
@@ -49,19 +49,19 @@ keywords:
 - 'immunity'
 implementations: []
 summary: >-
-  Hohfeld (1913), Yale Law Journal 23(1): 16–59, read in NOTE-tmpvxul9.
+  Hohfeld (1913), Yale Law Journal 23(1): 16–59, read in [NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md).
   "Right" in judicial reasoning covers several relations; Hohfeld
   exhibits eight conceptions in correlative pairs (claim–duty,
   privilege–no-right, power–liability, immunity–disability) and opposite
   pairs, "the lowest common denominators of the law". The pairs are
   independent, and a legal power, "volitional control" over a change in
   legal relations, is distinct from "the physical power to do the things
-  necessary" for its exercise. It grounds CLAIM-tmpa0wdv's separation of
-  physical from normative power, corroborates CLAIM-tmpnb4v4, and bears
-  out A87's correction in CLAIM-tmp6vck6 that an immunity limits
-  another's power (THEORY-tmprnqnh).
+  necessary" for its exercise. It grounds [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md)'s separation of
+  physical from normative power, corroborates [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md), and bears
+  out A87's correction in [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) that an immunity limits
+  another's power ([THEORY-tmprnqnh](../theory.d/THEORY-tmprnqnh.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpvxul9 THEORY-tmprnqnh — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmprnqnh — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpa0wdv — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpcpijj — filed from the same exchange (2026-11-17), Proposed -->
@@ -75,7 +75,7 @@ Wesley Newcomb Hohfeld (1913). "Some Fundamental Legal Conceptions as Applied in
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpvxul9).*
+*From the reading ([NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md)).*
 
 - "the term 'rights' tends to be used indiscriminately to cover what in a
   given case may be a privilege, a power, or an immunity" (p. 30).
@@ -91,7 +91,7 @@ Wesley Newcomb Hohfeld (1913). "Some Fundamental Legal Conceptions as Applied in
 
 Registered from A85 (2026-11-17) and used throughout A87-A102. It bears on [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md), [CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md) (a valid release of a demand differs from its suppression), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md), [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) and [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). Its 1917 sequel (Yale Law Journal 26) is not registered. A's table is as the ledger reports: liberty is Hohfeld's "privilege", and immunity's correlative is disability. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpvxul9). The exchange is partly faithful. A85's "four
+Read on 2026-11-17 ([NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md)). The exchange is partly faithful. A85's "four
 basic legal positions" is a later reading: Hohfeld counts "eight
 conceptions", four correlative pairs. A87's "A right is not one kind of
 thing" is faithful to p. 30, and its separation of physical capability from

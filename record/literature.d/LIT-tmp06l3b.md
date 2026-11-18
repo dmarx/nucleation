@@ -10,12 +10,12 @@ status_note: >-
   Google Books API answered HTTP 429 (quota), not retried; PhilArchive
   answered with a Cloudflare challenge; no author, course or repository
   copy was found. A read neighbour stands in for part of it: Ashford &
-  Mulgan, SEP "Contractualism" (2018 revision), LIT-tmp3y2ok, which
+  Mulgan, SEP "Contractualism" (2018 revision), [LIT-tmp3y2ok](LIT-tmp3y2ok.md), which
   quotes the book's formula (p. 153) and individualist restriction (p.
   229). Scanlon's own later texts, read the same day, quote the book
   first-hand at further points: Principle F (p. 304) in his reply to
-  Wenar, LIT-tmplag34, and the Principle of Established Practices (p.
-  339) there and in LIT-tmpgoyge. It stays Unavailable until a copy is
+  Wenar, [LIT-tmplag34](LIT-tmplag34.md), and the Principle of Established Practices (p.
+  339) there and in [LIT-tmpgoyge](LIT-tmpgoyge.md). It stays Unavailable until a copy is
   supplied.
 title: 'What We Owe to Each Other'
 version: 2
@@ -64,7 +64,7 @@ summary: >-
   organizational account. What the exchange says of it is unverified until
   read.
 ---
-<!-- inactive-ok-file: LIT-tmp3y2ok NOTE-tmpb51ae THEORY-tmpi0dks — new; the read neighbour, its reading and theory -->
+<!-- inactive-ok-file: THEORY-tmpi0dks — new; the read neighbour, its reading and theory -->
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp06l3b: What We Owe to Each Other
@@ -75,16 +75,16 @@ T. M. Scanlon (1998). *What We Owe to Each Other*. Cambridge, MA: Belknap Press 
 
 *Not read. What the neighbour and Scanlon's later texts quote from it.*
 
-- The formula (p. 153, as LIT-tmp3y2ok quotes it): an act is wrong if its
+- The formula (p. 153, as [LIT-tmp3y2ok](LIT-tmp3y2ok.md) quotes it): an act is wrong if its
   performance "would be disallowed by any set of principles for the general
   regulation of behaviour that no one could reasonably reject as a basis
   for informed, unforced, general agreement."
-- The individualist restriction (p. 229, as LIT-tmp3y2ok quotes it): only
+- The individualist restriction (p. 229, as [LIT-tmp3y2ok](LIT-tmp3y2ok.md) quotes it): only
   "various individuals' reasons for objecting to that principle and
   alternatives to it" count.
 - Principle F on promises (p. 304) and the Principle of Established
-  Practices (p. 339), as Scanlon cites them in LIT-tmplag34 and
-  LIT-tmpgoyge.
+  Practices (p. 339), as Scanlon cites them in [LIT-tmplag34](LIT-tmplag34.md) and
+  [LIT-tmpgoyge](LIT-tmpgoyge.md).
 
 > A100: "Scanlon proposes that an action is wrong when principles permitting it could reasonably be rejected by someone affected, as a basis for informed and unforced general agreement."
 
@@ -96,9 +96,9 @@ where the book, as quoted, says "no one".
 Registered from A71 (2026-11-16) and A100 (2026-11-17). It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) (does the organizational account answer contractualism), [QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md), [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md) and [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md). The record held no Scanlon work but an MIT course page ([LIT-1856](LIT-1856.md)). His later revisions are [LIT-tmpgoyge](LIT-tmpgoyge.md) and [LIT-tmplag34](LIT-tmplag34.md). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
 Not read; Unavailable (2026-11-17). The read neighbour, Ashford & Mulgan's
-SEP entry "Contractualism", LIT-tmp3y2ok (NOTE-tmpb51ae), stands in for the
+SEP entry "Contractualism", [LIT-tmp3y2ok](LIT-tmp3y2ok.md) ([NOTE-tmpb51ae](../notes.d/NOTE-tmpb51ae.md)), stands in for the
 book's central formula and individualist restriction, quoted with page
 numbers, and for an outline of chs. 4–5. It does not stand in for chs. 1–3
 (reasons, values, well-being), 7 (promises) or 8 (relativism), and it is a
-report. Scanlon's 2025 paper, LIT-tmpgoyge, now calls the book's treatment
+report. Scanlon's 2025 paper, [LIT-tmpgoyge](LIT-tmpgoyge.md), now calls the book's treatment
 of interpersonal aggregation "mistaken in several respects".

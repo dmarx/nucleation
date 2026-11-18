@@ -12,7 +12,7 @@ status_note: >-
   (tandfonline.com, HTTP 403; its Durham copy, a Cloudflare challenge),
   and two repository links (Collins 2016, Tomalty) that were dead. A
   read neighbour stands in weakly: Shaw-Young's 2008 Queen's MA thesis,
-  LIT-tmpqdygg, which quotes Miller's 2007 statement of the connection
+  [LIT-tmpqdygg](LIT-tmpqdygg.md), which quotes Miller's 2007 statement of the connection
   theory with page numbers. It stays Unavailable until a copy is
   supplied.
 title: 'Distributing Responsibilities'
@@ -81,7 +81,7 @@ Registered from A110 (2026-11-17). It bears on [TERM-tmp8pnnr](../terms.d/TERM-t
 
 ## Note of 2026-11-18: the reading pass
 
-Not read; Unavailable (status note). **Shaw-Young (2008)**, LIT-tmpqdygg,
+Not read; Unavailable (status note). **Shaw-Young (2008)**, [LIT-tmpqdygg](LIT-tmpqdygg.md),
 stands in weakly. It reports Miller's 2007 book, not this article: outcome
 and remedial responsibility come apart, and remedial responsibility is
 assigned through "moral responsibility, outcome responsibility, causal

@@ -18,18 +18,18 @@ source:
 bears_on:
 - QUESTION-tmp2t6ve
 summary: >-
-  Shoemaker (2019), LIT-tmp1px3j, read in part in NOTE-tmpfi3s5, as the
-  read neighbour of Shoemaker 2011 (LIT-tmpxsadz). It bears on
-  QUESTION-tmp2t6ve: one kind of blame can be withheld while another is
+  Shoemaker (2019), [LIT-tmp1px3j](../literature.d/LIT-tmp1px3j.md), read in part in [NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), as the
+  read neighbour of Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md)). It bears on
+  [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md): one kind of blame can be withheld while another is
   kept. The wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-tmp4zjar — Proposed; the term whose sense this is not -->
 <!-- inactive-ok-file: LIT-tmpxsadz — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmpfi3s5 QUESTION-tmp2t6ve — Skimmed or Open; the reading and the question it bears on -->
+<!-- inactive-ok-file: NOTE-tmpfi3s5 — Skimmed or Open; the reading and the question it bears on -->
 
 # THEORY-tmpjlmfm: Shoemaker holds that moral responsibility comes in three independent types, attributability, answerability and accountability, grounded in the capacities for quality of character, quality of judgment and quality of regard and each answered by its own family of responses, anger belonging to accountability
 
-Shoemaker (2019), LIT-tmp1px3j, after Shoemaker (2011), LIT-tmpxsadz.
+Shoemaker (2019), [LIT-tmp1px3j](../literature.d/LIT-tmp1px3j.md), after Shoemaker (2011), [LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md).
 
 ## The account
 
@@ -45,6 +45,6 @@ so open to protest, but not accountable, so not to anger (p. 915).
 
 - **The 2011 arguments.** This is the later form.
 - **Answerability in the record's directed sense.** Shoemaker's is a
-  capacity of the agent, not an answer owed to a party (TERM-tmp4zjar).
+  capacity of the agent, not an answer owed to a party ([TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md)).
 - **That blameless practice is possible for persons.** The model is built
   for agents that lack the capacities anger needs.

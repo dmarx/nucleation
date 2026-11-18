@@ -21,10 +21,10 @@ corroborates:
 - CLAIM-tmpb47ul
 - CLAIM-tmp238zy
 summary: >-
-  Choroszewicz (2026), LIT-tmpu1xfy, read in full in NOTE-tmpgwh6b. It
-  corroborates the control-and-duty part of CLAIM-tmpb47ul empirically, and
+  Choroszewicz (2026), [LIT-tmpu1xfy](../literature.d/LIT-tmpu1xfy.md), read in full in [NOTE-tmpgwh6b](../notes.d/NOTE-tmpgwh6b.md). It
+  corroborates the control-and-duty part of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) empirically, and
   its conscientiousness part mildly (vigilance as unrecognized labour), and
-  CLAIM-tmp238zy's verification duties placed on individuals while the
+  [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)'s verification duties placed on individuals while the
   institution is insulated; neither claim rests on it. It shows
   responsibility allocated before failure, not blame after one. The
   wording is the reader's; adopting it is the owner's call.
@@ -33,7 +33,7 @@ summary: >-
 
 # THEORY-tmpmdej3: Early public-sector pilots of generative-AI work tools, on Choroszewicz's ethnography, position their users as moral crumple zones: responsibility for oversight, verification and interpretation is allocated to users beyond their authority, control and capacity to influence the tools, through mechanisms that codify oversight as a user burden and insulate the tools and their developers
 
-Choroszewicz (2026), LIT-tmpu1xfy, read in NOTE-tmpgwh6b.
+Choroszewicz (2026), [LIT-tmpu1xfy](../literature.d/LIT-tmpu1xfy.md), read in [NOTE-tmpgwh6b](../notes.d/NOTE-tmpgwh6b.md).
 
 ## The finding
 

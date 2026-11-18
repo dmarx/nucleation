@@ -17,20 +17,20 @@ corroborates:
 bears_on:
 - QUESTION-tmpcz1ui
 summary: >-
-  Federal Rules of Civil Procedure, Rules 11, 26 and 37, LIT-tmplopkp, read
-  in NOTE-tmpupv4l. The rules name the tactics of litigation as siege as improper
+  Federal Rules of Civil Procedure, Rules 11, 26 and 37, [LIT-tmplopkp](../literature.d/LIT-tmplopkp.md), read
+  in [NOTE-tmpupv4l](../notes.d/NOTE-tmpupv4l.md). The rules name the tactics of litigation as siege as improper
   purposes, and the 2015 Committee Note, quoting 1983, the use of discovery
   "to wage a war of attrition or as a device to coerce a party, whether
-  financially weak or affluent". That corroborates CLAIM-tmpyo35b, which
+  financially weak or affluent". That corroborates [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), which
   rests on its own construction, by showing the mechanism recognized in
-  law, and gives a partial, procedure-bound answer to QUESTION-tmpcz1ui. The
+  law, and gives a partial, procedure-bound answer to [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md). The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpupv4l CLAIM-tmpyo35b — Proposed or new; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmpyo35b — Proposed or new; the reading and the claim it corroborates -->
 
 # THEORY-tmpe4ups: The Federal Rules of Civil Procedure forbid papers and discovery requests presented for an improper purpose such as to harass, cause unnecessary delay or needlessly increase the cost of litigation, limit discovery to what is proportional to the needs of the case with the parties' resources among the factors, and back these limits with sanctions up to dismissal or default
 
-Federal Rules of Civil Procedure, Rules 11, 26 and 37, LIT-tmplopkp.
+Federal Rules of Civil Procedure, Rules 11, 26 and 37, [LIT-tmplopkp](../literature.d/LIT-tmplopkp.md).
 
 ## The rules
 

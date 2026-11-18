@@ -86,7 +86,7 @@ interest; extraordinary situations; waiver.
 
 ## Bearing on the record
 
-- **CLAIM-tmpazi8a.** The Court places the wrong in the timing of the
+- **[CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md).** The Court places the wrong in the timing of the
   opportunity, "at a time when the deprivation can still be prevented",
   and holds the right independent of the merits ("does not depend upon an
   advance showing that one will surely prevail"), which is the claim's
@@ -94,7 +94,7 @@ interest; extraordinary situations; waiver.
   the claim cites from A59. Its scope is a constitutional rule about
   state-assisted seizures, with extraordinary situations excepted, not a
   general moral principle.
-- **CLAIM-tmpl0sgt.** The Court refuses to let after-the-fact remedies
+- **[CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md).** The Court refuses to let after-the-fact remedies
   stand in for the prior opportunity: damages may be awarded, but they
   cannot "undo the fact" of the taking, and bond-and-damages liability is
   "hardly a substitute for a prior hearing". That is a legal rejection, for
@@ -102,7 +102,7 @@ interest; extraordinary situations; waiver.
   right to decide whether something happens and compensation after. The
   protection at stake is a hearing, not the holder's consent, so it is an
   analogy.
-- **CLAIM-464** and the D.V.D. removals (NOTE-048, LIT-052) turn on the
+- **[CLAIM-464](../claims.d/CLAIM-464.md)** and the D.V.D. removals ([NOTE-048](NOTE-048.md), [LIT-052](../literature.d/LIT-052.md)) turn on the
   same point: an opportunity to be heard before an irreversible act.
 - A59's "a later hearing or damages cannot undo the fact of a deprivation"
   is a close paraphrase of Part IV, not a quotation.

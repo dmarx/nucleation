@@ -17,8 +17,8 @@ source:
 corroborates:
 - CLAIM-tmpdic1g
 summary: >-
-  Grossman & Hart (1986), LIT-tmpjy1vu, read in NOTE-tmprnwux. It
-  corroborates the first clause of CLAIM-tmpdic1g, which does not rest on
+  Grossman & Hart (1986), [LIT-tmpjy1vu](../literature.d/LIT-tmpjy1vu.md), read in [NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md). It
+  corroborates the first clause of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md), which does not rest on
   it: residual control is the right over whatever the contract did not
   give away, including an employer's over the job. It carries less than
   the claim's later clauses: the parties renegotiate to the efficient
@@ -30,7 +30,7 @@ summary: >-
 
 # THEORY-tmpt4dyh: Where contracts cannot specify in advance how assets will be used, ownership is the holding of residual rights of control over an asset, and allocating those rights to one party strengthens its incentive to invest in the relationship while weakening the other's, so integration is best when one party's investment matters much more than the other's
 
-Grossman & Hart (1986), LIT-tmpjy1vu.
+Grossman & Hart (1986), [LIT-tmpjy1vu](../literature.d/LIT-tmpjy1vu.md).
 
 ## The model
 

@@ -74,7 +74,7 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 ## Note of 2026-11-18: the reading pass
 
-Not read; Unavailable (status note). **King (2013)**, LIT-tmpcg293, stands
+Not read; Unavailable (status note). **King (2013)**, [LIT-tmpcg293](LIT-tmpcg293.md), stands
 in for what it quotes of this paper by page: attributability as appraisal
 "of the individual as an adopter of ends" (229); accountability, which
 "involves a social setting in which we demand (require) certain conduct
@@ -94,4 +94,4 @@ for. Watson makes this plain." But "the ordinary degree of blame" runs the
 faces together: on Watson's view as King reports it, attributability
 carries its own appraisal, so the point is a different kind of response,
 not a lesser degree of one. The nearest first-hand discussion the record
-holds is Wolf's lecture, LIT-747 (NOTE-565), which works from this paper.
+holds is Wolf's lecture, [LIT-747](LIT-747.md) ([NOTE-565](../notes.d/NOTE-565.md)), which works from this paper.

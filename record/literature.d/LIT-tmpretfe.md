@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmp3co3x) from the publisher's pages
+  read in full 2026-11-17 ([NOTE-tmp3co3x](../notes.d/NOTE-tmp3co3x.md)) from the publisher's pages
   posted on the author's site; worth reading as the published challenge
   that contractualism must be a multi-level theory of authority over
-  obligations as well as of owing, which bears on QUESTION-tmpk7u3e;
-  answered by Scanlon in LIT-tmplag34.
+  obligations as well as of owing, which bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md);
+  answered by Scanlon in [LIT-tmplag34](LIT-tmplag34.md).
 title: 'Rights and What We Owe to Each Other'
 version: 2
 history:
@@ -50,16 +50,16 @@ keywords:
 implementations: []
 summary: >-
   Wenar (2012 online; Journal of Moral Philosophy 10(4): 375–399, 2013),
-  read in NOTE-tmp3co3x. Scanlon's account of rights misses "the active
+  read in [NOTE-tmp3co3x](../notes.d/NOTE-tmp3co3x.md). Scanlon's account of rights misses "the active
   rights of authority"; his principles are "principles of wrongness, not
   of wronging", and their justifications do not locate the rightholder;
   and since "Rights of authority explain who can change what we owe to
   each other and how", contractualism "must be a multi-level theory", of
-  authority over as well as owing to. It bears on QUESTION-tmpk7u3e and
-  corroborates CLAIM-tmplidg6 (THEORY-tmpup8ol). Scanlon replies in
-  LIT-tmplag34.
+  authority over as well as owing to. It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) and
+  corroborates [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) ([THEORY-tmpup8ol](../theory.d/THEORY-tmpup8ol.md)). Scanlon replies in
+  [LIT-tmplag34](LIT-tmplag34.md).
 ---
-<!-- inactive-ok-file: NOTE-tmp3co3x THEORY-tmpup8ol — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpup8ol — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpretfe: Rights and What We Owe to Each Other
@@ -68,7 +68,7 @@ Leif Wenar (2012 online; 2013). "Rights and What We Owe to Each Other". *Journal
 
 ## Key takeaways
 
-*From the reading (NOTE-tmp3co3x).*
+*From the reading ([NOTE-tmp3co3x](../notes.d/NOTE-tmp3co3x.md)).*
 
 - "First-order rights define requirements on conduct; second-order rights
   assign authority to change requirements on conduct" (p. 376).
@@ -84,6 +84,6 @@ Leif Wenar (2012 online; 2013). "Rights and What We Owe to Each Other". *Journal
 
 Registered from A102 (2026-11-17). Scanlon's reply is [LIT-tmplag34](LIT-tmplag34.md). It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) and [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md). Correction: A102 names the challenge, not the paper; the identification is inferred and is to be confirmed on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmp3co3x). The identification is confirmed. A102 is
+Read on 2026-11-17 ([NOTE-tmp3co3x](../notes.d/NOTE-tmp3co3x.md)). The identification is confirmed. A102 is
 faithful on the multi-level thesis and omits the paper's other main thesis,
 that contractualism cannot locate the rightholder.

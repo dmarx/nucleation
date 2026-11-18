@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmp0tq2n) as a read neighbour of Tronto's
-  Moral Boundaries (LIT-tmp5epfk, Unfetched) and Caring Democracy
-  (LIT-tmpsm285, Unavailable); worth reading here for Tronto's own
+  read in full 2026-11-17 ([NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md)) as a read neighbour of Tronto's
+  Moral Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md), Unfetched) and Caring Democracy
+  ([LIT-tmpsm285](LIT-tmpsm285.md), Unavailable); worth reading here for Tronto's own
   one-sentence definition of privileged irresponsibility and her own
   summary of Caring Democracy's programme.
 title: 'Higher Education for Citizens of Caring Democracies'
@@ -49,8 +49,8 @@ summary: >-
   nations lets a former colonizer bear "no special responsibility" (p. 11),
   and restates Caring Democracy's first steps: realign the privileges that
   keep unfair care loads from being discussed, and hear everyone's voice
-  in the adjustments (p. 14). Read in NOTE-tmp0tq2n; THEORY-tmpna7qd. A
-  read neighbour of LIT-tmp5epfk and LIT-tmpsm285.
+  in the adjustments (p. 14). Read in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md); [THEORY-tmpna7qd](../theory.d/THEORY-tmpna7qd.md). A
+  read neighbour of [LIT-tmp5epfk](LIT-tmp5epfk.md) and [LIT-tmpsm285](LIT-tmpsm285.md).
 ---
 <!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 THEORY-tmpna7qd — Unfetched, Unavailable or new; the works this stands in for, and its reading -->
 
@@ -75,8 +75,8 @@ Tronto, J. C. (2018). Higher Education for Citizens of Caring Democracies. *Sout
 
 ## Standing in the record
 
-Registered as a read neighbour of Moral Boundaries (LIT-tmp5epfk) and
-Caring Democracy (LIT-tmpsm285). It stands in for the term and its sense,
+Registered as a read neighbour of Moral Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md)) and
+Caring Democracy ([LIT-tmpsm285](LIT-tmpsm285.md)). It stands in for the term and its sense,
 the capability of the privileged to refuse burdensome responsibilities,
 and for Tronto's own outline of Caring Democracy's programme. It does not
 stand in for either book's argument, mechanism or examples, nor for the

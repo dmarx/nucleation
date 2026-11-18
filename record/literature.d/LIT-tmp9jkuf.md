@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpbs36k) from the National Archives
+  read in full 2026-11-17 ([NOTE-tmpbs36k](../notes.d/NOTE-tmpbs36k.md)) from the National Archives
   transcription; worth reading for magistrates as trustees "amenable" to
   the people and for a majority's "inalienable" right to reform
-  government, which bear on QUESTION-tmpgeqju and QUESTION-tmpea19q.
+  government, which bear on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) and [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md).
 title: 'The Virginia Declaration of Rights'
 version: 2
 history:
@@ -43,16 +43,16 @@ implementations: []
 summary: >-
   The Virginia Declaration of Rights, written by George Mason, adopted
   by the Virginia Constitutional Convention on 12 June 1776, read in
-  NOTE-tmpbs36k. Men have "certain inherent rights" of which they cannot
+  [NOTE-tmpbs36k](../notes.d/NOTE-tmpbs36k.md). Men have "certain inherent rights" of which they cannot
   "by any compact, deprive or divest their posterity" (§1); magistrates
   are the people's "trustees and servants and at all times amenable to
   them" (§2); "a majority of the community has an indubitable,
   inalienable, and indefeasible right to reform, alter, or abolish" an
-  inadequate government (§3). It bears on QUESTION-tmpgeqju and
-  QUESTION-tmpea19q, and qualifies the use of "inalienable" in
-  CLAIM-tmp6vck6 (THEORY-tmphi1y8).
+  inadequate government (§3). It bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) and
+  [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md), and qualifies the use of "inalienable" in
+  [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) ([THEORY-tmphi1y8](../theory.d/THEORY-tmphi1y8.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpbs36k THEORY-tmphi1y8 — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmphi1y8 — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmp9jkuf: The Virginia Declaration of Rights
@@ -61,7 +61,7 @@ Virginia Convention (1776). *The Virginia Declaration of Rights*, drafted by Geo
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpbs36k).*
+*From the reading ([NOTE-tmpbs36k](../notes.d/NOTE-tmpbs36k.md)).*
 
 - §1: "certain inherent rights, of which, when they enter into a state of
   society, they cannot, by any compact, deprive or divest their posterity".
@@ -74,7 +74,7 @@ Virginia Convention (1776). *The Virginia Declaration of Rights*, drafted by Geo
 
 Registered from A85 (2026-11-17), at the owner's U37. It bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md), [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md) and [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). A's date is correct. The ledger corrects A85 §3's gloss on the "majority" clause; check that on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpbs36k). A85 is faithful in substance; the
+Read on 2026-11-17 ([NOTE-tmpbs36k](../notes.d/NOTE-tmpbs36k.md)). A85 is faithful in substance; the
 text's word is "amenable", not "answerable". The ledger's correction of the
 "majority" clause is confirmed. The document's only "inalienable" is the
 majority's right over government (§3); the individual rights of §1 are

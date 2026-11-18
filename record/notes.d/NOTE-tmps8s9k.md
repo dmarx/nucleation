@@ -70,22 +70,22 @@ The thesis takes Miller's 2007 book as the statement of his view.
 
 ## Bearing on the record
 
-- **CLAIM-tmp4o53g** (blame and repair do not substitute): corroborates
+- **[CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md)** (blame and repair do not substitute): corroborates
   the half "assigning present remedial duties does not show that those
   who bear them were to blame": the capacity connection puts the rescue on
   a bystander who did nothing wrong.
-- **CLAIM-tmpa2l21** (second-order wrongdoing): in tension, not conflict.
+- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (second-order wrongdoing): in tension, not conflict.
   In Miller's coercion case the coerced agent takes on the duty of repair
   when the coercer "disappears from the scene". The claim says the
   coercer's wrong stands beside the actor's culpability. Miller speaks of
   repair, not blame, so the two are compatible; but repair can fall on the
   structured party.
-- **CLAIM-tmp0wx69** (self-induced incapacity): nothing reached addresses
+- **[CLAIM-tmp0wx69](../claims.d/CLAIM-tmp0wx69.md)** (self-induced incapacity): nothing reached addresses
   it.
-- **TERM-tmp8pnnr**: its remedial sense is Miller's term, and its causal
+- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: its remedial sense is Miller's term, and its causal
   sense matches Miller's causal responsibility; Miller's outcome
   responsibility has no slot among the term's five senses.
-- **CASE-tmpd0hyp**: the capacity ground the case says it has not read is
+- **[CASE-tmpd0hyp](../cases.d/CASE-tmpd0hyp.md)**: the capacity ground the case says it has not read is
   here in Miller's words, as reported.
 - **The exchange's characterization** (A110: "causal involvement, moral
   responsibility, relevant relationships, and capacity to remedy"): all
@@ -94,7 +94,7 @@ The thesis takes Miller's 2007 book as the statement of his view.
 
 ## Connections
 
-Stands in, weakly, for Miller (2001), LIT-tmpqsyr9: it reports the 2007
+Stands in, weakly, for Miller (2001), [LIT-tmpqsyr9](../literature.d/LIT-tmpqsyr9.md): it reports the 2007
 form of the connection theory, not the article, which it cites once in its
 2005 reprint for Miller's use of Hart and Honoré.
 

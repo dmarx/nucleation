@@ -21,11 +21,11 @@ corroborates:
 - CLAIM-tmph28l6
 - CLAIM-410
 summary: >-
-  Citron (2008), LIT-tmp7wp1i, read in NOTE-tmplslae. It corroborates
-  three claims that do not rest on it: CLAIM-tmpohafo (notice, hearing and
+  Citron (2008), [LIT-tmp7wp1i](../literature.d/LIT-tmp7wp1i.md), read in [NOTE-tmplslae](../notes.d/NOTE-tmplslae.md). It corroborates
+  three claims that do not rest on it: [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (notice, hearing and
   pre-deprivation process as distinct safeguards that fail differently),
-  CLAIM-tmph28l6 (automation lowers the cost of deciding while challenging
-  needs costly decoding of the system) and CLAIM-410 (rule-making
+  [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) (automation lowers the cost of deciding while challenging
+  needs costly decoding of the system) and [CLAIM-410](../claims.d/CLAIM-410.md) (rule-making
   authority transferred to programmers). The wording is the reader's;
   adopting it is the owner's call.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 # THEORY-tmpa89iy: Automated decision systems in public administration combine individual adjudication with rulemaking while observing the procedural safeguards of neither, because programmers change policy when they encode it and the systems decide cases opaquely, so that a technological due process is needed to restore those safeguards' aims
 
-Citron (2008), LIT-tmp7wp1i.
+Citron (2008), [LIT-tmp7wp1i](../literature.d/LIT-tmp7wp1i.md).
 
 ## The argument
 

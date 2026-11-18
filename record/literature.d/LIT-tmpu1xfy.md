@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpgwh6b) from the published version on the
+  read in full 2026-11-17 ([NOTE-tmpgwh6b](../notes.d/NOTE-tmpgwh6b.md)) from the published version on the
   University of Eastern Finland's repository; worth reading here as
   empirical evidence that users of generative-AI tools are allocated
   responsibility beyond their control, before any failure.
@@ -60,7 +60,7 @@ summary: >-
   transparency, and persuasive fallibility with a burden of vigilance.
   Users become testers, quality verifiers and interpreters, while
   responsibility codified as a user burden insulates the tools and their
-  developers. Read in NOTE-tmpgwh6b; THEORY-tmpmdej3.
+  developers. Read in [NOTE-tmpgwh6b](../notes.d/NOTE-tmpgwh6b.md); [THEORY-tmpmdej3](../theory.d/THEORY-tmpmdej3.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul CLAIM-tmp238zy THEORY-tmpmdej3 — filed now from the same exchange or new, temporary codes, Proposed -->
 
@@ -85,7 +85,7 @@ Marta Choroszewicz (2026). Positioning public sector practitioners as ‘moral c
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 and A19 as A's empirical application of Elish's concept to generative-AI tools in two Finnish public organizations. Read on 2026-11-17 (NOTE-tmpgwh6b). It corroborates CLAIM-tmpb47ul's control-and-duty part and CLAIM-tmp238zy (THEORY-tmpmdej3), beside Elish (LIT-tmpnmwlk). The anthology may want it for AI deployment.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 and A19 as A's empirical application of Elish's concept to generative-AI tools in two Finnish public organizations. Read on 2026-11-17 ([NOTE-tmpgwh6b](../notes.d/NOTE-tmpgwh6b.md)). It corroborates [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s control-and-duty part and [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md) ([THEORY-tmpmdej3](../theory.d/THEORY-tmpmdej3.md)), beside Elish ([LIT-tmpnmwlk](LIT-tmpnmwlk.md)). The anthology may want it for AI deployment.
 
 **The exchange's characterization: faithful.** A19 names three of the five
 mechanisms correctly; A17's full list of five, "two and a half years" and

@@ -115,9 +115,9 @@ coda tying that exposure to caring work, low pay and gender.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpg9i9l.
+Filed as [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md).
 
-- **CLAIM-tmp76x3e** (an agent governed through its sound values by a
+- **[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)** (an agent governed through its sound values by a
   party that changes its situation). The reading supports its central
   half independently: the victim's obligation is genuine, and the
   manipulation runs through her moral sensibility. The claim's condition,
@@ -125,18 +125,18 @@ Filed as THEORY-tmpg9i9l.
   note and the law-firm case. The claim's body leaves the attribution of
   the dog case unchecked: it is Keller's; "Alice" and "Bob" are A's.
   Corroborates; the claim does not rest on it.
-- **QUESTION-tmpbzq36** (can activating obligations give control over the
+- **[QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md)** (can activating obligations give control over the
   terms of dependence?). Evidence toward yes for fiduciaries: exposure
   makes it harder "to bargain for better conditions at work" (p. 26), and
   the teachers case uses the moral cost of withdrawal as bargaining
   leverage. Keller does not frame it as dependence or exit.
-- **CLAIM-tmpa2l21** (structuring another's circumstances is a wrong
+- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (structuring another's circumstances is a wrong
   against that person). Keller supports the relational half: moral
   blackmail mistreats its victim (p. 20). But his victim is pressed to do
   something right (mind the dog, teach), not to commit a wrong, so he
   supports "a wrong against that person" without the claim's case of
   induced wrongdoing.
-- **CLAIM-tmpciy9q** (a party arranges another's real wrong, then uses the
+- **[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)** (a party arranges another's real wrong, then uses the
   true accusation). The teachers example the claim's body attributes to
   Keller is his, with two differences: his actor is "a government official
   in charge of teachers' employment", not "Administrators", and the
@@ -144,17 +144,17 @@ Filed as THEORY-tmpg9i9l.
   anticipates is a smear ("look heartless and selfish"), not a true
   accusation. The example is therefore not an instance of the claim's
   pattern; the exchange stretched it.
-- **CLAIM-tmpe5u7i** (the moral subsidy). The law-firm case is a moral
+- **[CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)** (the moral subsidy). The law-firm case is a moral
   subsidy deliberately sought, and pp. 26–27 make the exposure systemic and
   gendered. Keller's cases are intentional, where the claim allows
   reliance "without intending to exploit anyone".
-- **CASE-tmpm0rpn**, arm C (appeal to professional duty), has the
+- **[CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)**, arm C (appeal to professional duty), has the
   mechanism of Keller's law-firm case, and his strike asymmetry for nurses
   and teachers.
-- **THEORY-225** (Noggle: no single mechanism of manipulation). Moral
+- **[THEORY-225](../theory.d/THEORY-225.md)** (Noggle: no single mechanism of manipulation). Moral
   blackmail is a further mechanism, and its pressure need be neither
   covert nor non-rational.
-- For the record's Robillard entries (LIT-tmp5mwf4, LIT-tmpewphn), not
+- For the record's Robillard entries ([LIT-tmp5mwf4](../literature.d/LIT-tmp5mwf4.md), [LIT-tmpewphn](../literature.d/LIT-tmpewphn.md)), not
   read: this paper is the record's read footing for commitments as a
   source of exposure to exploitation.
 

@@ -78,7 +78,7 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 ## Note of 2026-11-18: the reading pass
 
-Not read; Unavailable (status note). **Stark (2015)**, LIT-tmpnw255, his
+Not read; Unavailable (status note). **Stark (2015)**, [LIT-tmpnw255](LIT-tmpnw255.md), his
 testimony on Vermont's H.103, stands in for the book's core thesis, in
 Stark's own words: coercive control is "a strategic course of oppressive
 behavior" combining violence, intimidation, isolation and control "to

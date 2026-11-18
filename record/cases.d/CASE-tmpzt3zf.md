@@ -91,15 +91,15 @@ one-dimensional". It names no real couple; the record files no case of the
 dispute the exchange began with.
 
 ## Note of 2026-11-17: Johnson's typology read through neighbours, and a documented group with control and no violence
-<!-- inactive-ok-file: THEORY-tmp8sytt THEORY-tmpxd7ne THEORY-tmpaul2b THEORY-tmpt60p9 NOTE-tmpubjbq NOTE-tmpd9qyv LIT-tmp5254i — new or Unavailable; the readings filed on 2026-11-18 and the unread book -->
+<!-- inactive-ok-file: THEORY-tmp8sytt THEORY-tmpxd7ne THEORY-tmpaul2b THEORY-tmpt60p9 LIT-tmp5254i — new or Unavailable; the readings filed on 2026-11-18 and the unread book -->
 
-Johnson 2006, Hardesty et al. 2015, Mazinani & O'Connor 2026 and Stark 2015, read (THEORY-tmp8sytt, THEORY-tmpxd7ne, THEORY-tmpaul2b, THEORY-tmpt60p9). The case's "Michael P. Johnson's typology as A relays it" can now cite Johnson's own words, though the 2008 book (LIT-tmp5254i) is unread.
+Johnson 2006, Hardesty et al. 2015, Mazinani & O'Connor 2026 and Stark 2015, read ([THEORY-tmp8sytt](../theory.d/THEORY-tmp8sytt.md), [THEORY-tmpxd7ne](../theory.d/THEORY-tmpxd7ne.md), [THEORY-tmpaul2b](../theory.d/THEORY-tmpaul2b.md), [THEORY-tmpt60p9](../theory.d/THEORY-tmpt60p9.md)). The case's "Michael P. Johnson's typology as A relays it" can now cite Johnson's own words, though the 2008 book ([LIT-tmp5254i](../literature.d/LIT-tmp5254i.md)) is unread.
 
-- **Carol's strikes are violent resistance in Johnson's terms**: "Violent resistance is the violence involved when a victim of intimate terrorism fights back" (Johnson 2006, NOTE-tmpubjbq, p. 3). The case goes further than Johnson: her acts keep their own verdict. Johnson says only that a case "can sometimes be made that the violence was justified".
+- **Carol's strikes are violent resistance in Johnson's terms**: "Violent resistance is the violence involved when a victim of intimate terrorism fights back" (Johnson 2006, [NOTE-tmpubjbq](../notes.d/NOTE-tmpubjbq.md), p. 3). The case goes further than Johnson: her acts keep their own verdict. Johnson says only that a case "can sometimes be made that the violence was justified".
 - **Mazinani & O'Connor** say what the case needs about her acts: where intimate terrorism holds, "a victim’s resistance or constrained responses should not be treated as equivalent to the perpetrator’s controlling violence".
-- **Hardesty et al.** document a plainer divergence of the two questions: a "nonviolent coercive control" group (n = 12 of 190 divorcing mothers), high control with no violence at all (NOTE-tmpd9qyv).
+- **Hardesty et al.** document a plainer divergence of the two questions: a "nonviolent coercive control" group (n = 12 of 190 divorcing mothers), high control with no violence at all ([NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md)).
 - **Stark (2015)**: Dan's control of money, monitoring and isolation are Stark's tactics of "isolation and control".
 
-If the owner wants the case to name its classification, `draws_on` THEORY-tmp8sytt (Johnson's three types) is the relation for it; that is the case's own field and is left to the lead. The fourth type in A's table, mutual violent control, is not confirmed by anything read.
+If the owner wants the case to name its classification, `draws_on` [THEORY-tmp8sytt](../theory.d/THEORY-tmp8sytt.md) (Johnson's three types) is the relation for it; that is the case's own field and is left to the lead. The fourth type in A's table, mutual violent control, is not confirmed by anything read.
 
 No status changes.

@@ -17,8 +17,8 @@ date: '2026-11-18'
 source:
 - LIT-tmpkuudf
 summary: >-
-  Umpleby (2016), LIT-tmpkuudf, read in full in NOTE-tmpg8cdd as the read
-  neighbour of Lefebvre's Algebra of Conscience, LIT-tmpkqy2y, which could
+  Umpleby (2016), [LIT-tmpkuudf](../literature.d/LIT-tmpkuudf.md), read in full in [NOTE-tmpg8cdd](../notes.d/NOTE-tmpg8cdd.md) as the read
+  neighbour of Lefebvre's Algebra of Conscience, [LIT-tmpkqy2y](../literature.d/LIT-tmpkqy2y.md), which could
   not be reached. A secondary account; it gives no support to the record's
   claims on reflexive control. The wording is the reader's; adopting it is
   the owner's call.
@@ -27,7 +27,7 @@ summary: >-
 
 # THEORY-tmpu7a06: Lefebvre's two systems of ethical cognition, as Umpleby restates them: additive or multiplicative combination in a three-level model of reflexion generates two ethical systems, one in which a bad means may not serve a good end and compromise is valued, one in which the end justifies the means and confrontation is valued, which Lefebvre took to dominate the West and the USSR respectively
 
-Umpleby (2016), LIT-tmpkuudf.
+Umpleby (2016), [LIT-tmpkuudf](../literature.d/LIT-tmpkuudf.md).
 
 ## The account
 

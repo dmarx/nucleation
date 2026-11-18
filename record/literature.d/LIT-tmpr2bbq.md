@@ -13,7 +13,7 @@ status_note: >-
   Angeles Law Review 40, 2007), a candidate neighbour, was located at
   digitalcommons.lmu.edu and at core.ac.uk and both answered HTTP 403,
   not retried. A read neighbour stands in for the core thesis: Stern,
-  "Darwall on Second-Personal Ethics" (2014), LIT-tmp1wuw5. It stays
+  "Darwall on Second-Personal Ethics" (2014), [LIT-tmp1wuw5](LIT-tmp1wuw5.md). It stays
   Unavailable until a copy is supplied.
 title: 'The Second-Person Standpoint: Morality, Respect, and Accountability'
 version: 2
@@ -61,7 +61,7 @@ summary: >-
   deference do not by themselves give standing to command. What the
   exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmp1wuw5 LIT-tmpld793 — new or Unavailable; the read neighbour that stands in, and the Raz work its argument answers -->
+<!-- inactive-ok-file: LIT-tmpld793 — new or Unavailable; the read neighbour that stands in, and the Raz work its argument answers -->
 <!-- inactive-ok-file: CLAIM-tmpc7shc — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnb4v4 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnhesz — filed from the same exchange (2026-11-17), Proposed -->
@@ -87,7 +87,7 @@ Registered from A83 (2026-11-17). It bears on [QUESTION-tmpea19q](../questions.d
 
 ## Note of 2026-11-18: the reading pass
 
-Not read; Unavailable (status note). **Stern (2014)**, LIT-tmp1wuw5,
+Not read; Unavailable (status note). **Stern (2014)**, [LIT-tmp1wuw5](LIT-tmp1wuw5.md),
 stands in for the core thesis: obligation "involves the exercise of
 legitimate authority over the person obliged" and so is second-personal;
 it tracks the demands that "could legitimately" be made, not actual ones;
@@ -103,5 +103,5 @@ unchecked. A83's point that better results from deference do not give
 standing to command matches Darwall's argument that "meeting the standards
 of the normal justification thesis is not in fact sufficient to establish
 that one person has authority over another" (p. 7), which Stern places in
-the 2013 essays. Raz's *The Morality of Freedom*, LIT-tmpld793, is the work
+the 2013 essays. Raz's *The Morality of Freedom*, [LIT-tmpld793](LIT-tmpld793.md), is the work
 that argument answers.

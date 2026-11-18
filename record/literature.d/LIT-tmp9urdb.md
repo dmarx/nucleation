@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-17 (NOTE-tmpd1d48), pp. 43–52, as the read
-  neighbour of Herd & Moynihan (2025), LIT-tmpm4lvs, which could not be
+  read in part 2026-11-17 ([NOTE-tmpd1d48](../notes.d/NOTE-tmpd1d48.md)), pp. 43–52, as the read
+  neighbour of Herd & Moynihan (2025), [LIT-tmpm4lvs](LIT-tmpm4lvs.md), which could not be
   fetched; worth reading here as the authors' own statement of
   administrative burden as learning, psychological and compliance costs,
   and of burden as a political choice. The Wisconsin case study and the
@@ -49,7 +49,7 @@ summary: >-
   political choice, and its opacity suits hidden politics. The read part
   reviews US evidence that the costs lower take-up, most strongly
   compliance costs. Filed as the read neighbour of Herd & Moynihan (2025),
-  LIT-tmpm4lvs; read in NOTE-tmpd1d48; its account is THEORY-tmp29kjs.
+  [LIT-tmpm4lvs](LIT-tmpm4lvs.md); read in [NOTE-tmpd1d48](../notes.d/NOTE-tmpd1d48.md); its account is [THEORY-tmp29kjs](../theory.d/THEORY-tmp29kjs.md).
 ---
 <!-- inactive-ok-file: LIT-1609 LIT-tmpm4lvs NOTE-tmpd1d48 THEORY-tmp29kjs — Deferred, Proposed, Skimmed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
@@ -70,7 +70,7 @@ Moynihan, D., Herd, P. & Harvey, H. (2015). Administrative Burden: Learning, Psy
 
 ## Standing in the record
 
-Filed as the read neighbour of Herd & Moynihan (2025), LIT-tmpm4lvs. It
+Filed as the read neighbour of Herd & Moynihan (2025), [LIT-tmpm4lvs](LIT-tmpm4lvs.md). It
 stands in for the authors' framework: the three costs and burden as a
 political choice. It does not stand in for the 2025 review's synthesis of
-safety-net evidence. The authors' 2018 book is held as LIT-1609.
+safety-net evidence. The authors' 2018 book is held as [LIT-1609](LIT-1609.md).

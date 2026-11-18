@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpnfib1) from a scan of the 1962 first
+  read in full 2026-11-17 ([NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md)) from a scan of the 1962 first
   printing published by the Moscow Center for Consciousness Studies with
   the rights holders' permission; worth reading here as the
   reactive-attitudes account of holding responsible, with its
@@ -66,12 +66,12 @@ summary: >-
   systematically perverted" suspend the attitudes and invite the
   "objective attitude". A general thesis of determinism neither does nor
   could undermine the framework, which "neither calls for, nor permits,
-  an external 'rational' justification". Read in NOTE-tmpnfib1. It
-  qualifies CLAIM-tmpa2l21 and bears on QUESTION-068; Scanlon's Moral
+  an external 'rational' justification". Read in [NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md). It
+  qualifies [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) and bears on [QUESTION-068](../questions.d/QUESTION-068.md); Scanlon's Moral
   Dimensions, which A sets beside it, is unread.
 ---
 <!-- inactive-ok-file: ADR-tmp976n0 — Proposed; the decision admitting this copy -->
-<!-- inactive-ok-file: NOTE-tmpnfib1 THEORY-tmpjhphq QUESTION-068 — new or Deferred; this work's reading, its THEORY, and the question it bears on -->
+<!-- inactive-ok-file: THEORY-tmpjhphq QUESTION-068 — new or Deferred; this work's reading, its THEORY, and the question it bears on -->
 <!-- inactive-ok-file: CLAIM-tmpa2l21 — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmpn0mo7: Freedom and Resentment
@@ -99,12 +99,12 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 ## Note of 2026-11-18: read
 
-Read in NOTE-tmpnfib1. A7's description, "intimately connected to these
+Read in [NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md). A7's description, "intimately connected to these
 expectations of goodwill and respect", is faithful with one word off:
 Strawson's word is "regard". The link is closer than A says: "The making of
 the demand is the proneness to such attitudes" (p. 207). For
-CLAIM-tmpa2l21 the reading qualifies rather than supports: coercion pleas
+[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) the reading qualifies rather than supports: coercion pleas
 leave the agent a participant but may make the injury one for which he was
 "not fully, or at all, responsible", and systematic perversion exempts.
 The copy's lawfulness rests on the permission statement, under
-ADR-tmp976n0.
+[ADR-tmp976n0](../decisions.d/ADR-tmp976n0.md).

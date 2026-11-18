@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-17 (NOTE-tmpv0dkv) from the HKMA's PDF; worth
+  read in part 2026-11-17 ([NOTE-tmpv0dkv](../notes.d/NOTE-tmpv0dkv.md)) from the HKMA's PDF; worth
   reading here as a regulator's statement of when human approval of an
   agent's actions is meaningful oversight, and of accountability that
   cannot be delegated with the action. Non-binding; about 40% read.
@@ -57,8 +57,8 @@ summary: >-
   only where the approver sees the substance, can reject, treats rejection
   as legitimate and has time; velocity is limited by what oversight can
   review; a stop mechanism must work in substance. Read in part in
-  NOTE-tmpv0dkv; its account is THEORY-tmpoi5oo, which corroborates
-  CLAIM-tmpgh3v2 and CLAIM-tmp238zy.
+  [NOTE-tmpv0dkv](../notes.d/NOTE-tmpv0dkv.md); its account is [THEORY-tmpoi5oo](../theory.d/THEORY-tmpoi5oo.md), which corroborates
+  [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-tmpgh3v2 NOTE-tmpv0dkv THEORY-tmpoi5oo — Proposed, Skimmed; cited with their standing, entries this reading bears on or files -->
 
@@ -82,9 +82,9 @@ Hong Kong Monetary Authority (2026). *Discussion Paper on Agentic A.I. Governanc
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as A's regulatory example of the distinction between human control over outputs and over the process. It bears on [CLAIM-410](../claims.d/CLAIM-410.md) and [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) (a slow rule can govern a fast process). The anthology may want it. Not read.
 
-Read in part on 2026-11-17 (NOTE-tmpv0dkv). The exchange's
+Read in part on 2026-11-17 ([NOTE-tmpv0dkv](../notes.d/NOTE-tmpv0dkv.md)). The exchange's
 characterization (a discussion paper on agentic AI governance in banking)
 is faithful. The gloss above, human control over outputs against control
 over the process, is faithful in substance: the paper contrasts
 per-action approval with human-in-command authority over the mandate. It
-also bears on CLAIM-tmpgh3v2 and CLAIM-tmp238zy.
+also bears on [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) and [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md).

@@ -85,9 +85,9 @@ weight of discovered incidents, and a black-box correction of the inputs.
 
 ## Bearing on the record
 
-Filed as THEORY-tmp0xl3k.
+Filed as [THEORY-tmp0xl3k](../theory.d/THEORY-tmp0xl3k.md).
 
-- **CLAIM-342** (a loop that selects its own evidence can lock in; what
+- **[CLAIM-342](../claims.d/CLAIM-342.md)** (a loop that selects its own evidence can lock in; what
   stops it is evidence whose arrival does not pass through the
   interpretation): a demonstrated instance (Lemma 4), in which action,
   deployment, is the selector. It also qualifies the claim's remedy:
@@ -95,7 +95,7 @@ Filed as THEORY-tmp0xl3k.
   evidence only "attenuate[s]" the loop. The authors' fix reweights the
   self-selected stream by the probability of selection, rather than only
   adding independent evidence. Corroborates.
-- **CLAIM-406** (an early exclusion kept going by indicators that only
+- **[CLAIM-406](../claims.d/CLAIM-406.md)** (an early exclusion kept going by indicators that only
   being sought produces): Lemma 2, where the prior alone fixes the
   long-run estimate because the unobserved region yields no evidence, and
   Lemma 4, where a small early advantage takes all. Nothing about the

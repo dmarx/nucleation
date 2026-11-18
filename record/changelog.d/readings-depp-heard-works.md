@@ -4,9 +4,9 @@
   read or skimmed (NOTE and THEORY each), 15 stand-ins registered and
   read, 13 Unfetched and 23 Unavailable with where looked and what
   stopped it; corroborating and grounding relations, 72 dated notes,
-  CASE-tmpnrxpi (the Tempe crash) and three ARGs where a claim cited a
+  [CASE-tmpnrxpi](record/cases.d/CASE-tmpnrxpi.md) (the Tempe crash) and three ARGs where a claim cited a
   work for more than it carries.
-- ADR-tmp976n0: copies published with the rights holders' stated
+- [ADR-tmp976n0](record/decisions.d/ADR-tmp976n0.md): copies published with the rights holders' stated
   permission, and replies posted by the scholar they answer beside that
   scholar's paper, count as lawful copies to read.
 

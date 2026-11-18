@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpfpn7t) as a read neighbour of Tronto's
-  Caring Democracy (LIT-tmpsm285, Unavailable) and, more weakly, Moral
-  Boundaries (LIT-tmp5epfk, Unfetched); worth reading here for Tronto's
+  read in full 2026-11-17 ([NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md)) as a read neighbour of Tronto's
+  Caring Democracy ([LIT-tmpsm285](LIT-tmpsm285.md), Unavailable) and, more weakly, Moral
+  Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md), Unfetched); worth reading here for Tronto's
   own compressed statement of democracy as the allocation of caring
   responsibilities, and of exclusion and exemption as its misallocations.
   Slides, not prose.
@@ -49,8 +49,8 @@ summary: >-
   misallocations: excluding those "you want to saddle with the most
   difficult tasks", and exemption, absenting oneself "because one has more
   important duties: protection, production, taking care of one's own".
-  Read in NOTE-tmpfpn7t; THEORY-tmpxw0zo. A read neighbour of LIT-tmpsm285
-  and LIT-tmp5epfk.
+  Read in [NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md); [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md). A read neighbour of [LIT-tmpsm285](LIT-tmpsm285.md)
+  and [LIT-tmp5epfk](LIT-tmp5epfk.md).
 ---
 <!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 THEORY-tmpxw0zo — Unfetched, Unavailable or new; the works this stands in for, and its reading -->
 
@@ -73,8 +73,8 @@ Tronto, J. C. (2014). Against Good Caring? Meeting Immediate and Distant Needs D
 
 ## Standing in the record
 
-Registered as a read neighbour of Caring Democracy (LIT-tmpsm285) and,
-more weakly, Moral Boundaries (LIT-tmp5epfk). For Caring Democracy it
+Registered as a read neighbour of Caring Democracy ([LIT-tmpsm285](LIT-tmpsm285.md)) and,
+more weakly, Moral Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md)). For Caring Democracy it
 stands in for the political definition, in Tronto's words, and for
 exemption, the mechanism by which the privileged avoid care, in outline.
 For Moral Boundaries it carries only the definition of care it quotes

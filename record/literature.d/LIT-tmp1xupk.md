@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmplt8sm) from CourtListener's RECAP copy of the
+  read 2026-11-17 ([NOTE-tmplt8sm](../notes.d/NOTE-tmplt8sm.md)) from CourtListener's RECAP copy of the
   Opinion and Order, ECF No. 83; worth reading as the documented
   specimen of a categorical gate that made individualized eligibility
-  unable to change a decision, which grounds CLAIM-tmpw7pli.
+  unable to change a decision, which grounds [CLAIM-tmpw7pli](../claims.d/CLAIM-tmpw7pli.md).
 title: 'Catholic Legal Immigration Network, Inc. v. Rubio, No. 1:26-cv-00858 (S.D.N.Y. Aug. 21, 2026)'
 version: 2
 history:
@@ -52,17 +52,17 @@ implementations: []
 summary: >-
   Catholic Legal Immigration Network, Inc. v. Rubio, No. 26-cv-00858
   (JAV) (S.D.N.Y.), Opinion and Order of 21 August 2026, ECF No. 83
-  (Vargas, J.), read in NOTE-tmplt8sm. The State Department's 2026
+  (Vargas, J.), read in [NOTE-tmplt8sm](../notes.d/NOTE-tmplt8sm.md). The State Department's 2026
   policy ordered refusal of immigrant visas to nationals of 75 countries
   "regardless of whether" an individualized assessment found the
   applicant eligible; the court held it contrary to §§ 1152(a)(1)(A)
   (nationality discrimination) and 1201(g), and beyond the Secretary's
   authority under § 1104(a), but not contrary to the public-charge
   provision, and vacated it and the refusals based solely on it. It
-  grounds CLAIM-tmpw7pli and is the source for CASE-tmpoe934
-  (THEORY-tmp0fjpb).
+  grounds [CLAIM-tmpw7pli](../claims.d/CLAIM-tmpw7pli.md) and is the source for [CASE-tmpoe934](../cases.d/CASE-tmpoe934.md)
+  ([THEORY-tmp0fjpb](../theory.d/THEORY-tmp0fjpb.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmplt8sm THEORY-tmp0fjpb — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmp0fjpb — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CASE-tmpoe934 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpw7pli — filed from the same exchange (2026-11-17), Proposed -->
 
@@ -72,7 +72,7 @@ United States District Court for the Southern District of New York (2026). *Cath
 
 ## Key takeaways
 
-*From the reading (NOTE-tmplt8sm).*
+*From the reading ([NOTE-tmplt8sm](../notes.d/NOTE-tmplt8sm.md)).*
 
 - "Consular officers were ordered to refuse immigrant visas to nationals of
   the 75 designated countries, regardless of whether the consular officer
@@ -92,7 +92,7 @@ United States District Court for the Southern District of New York (2026). *Cath
 
 Registered from A108 (2026-11-17), at the owner's U46. It is the specimen for [CASE-tmpoe934](../cases.d/CASE-tmpoe934.md) (the 2026 immigrant-visa pause and its vacatur) and [CLAIM-tmpw7pli](../claims.d/CLAIM-tmpw7pli.md) (a categorical administrative gate can make required evidence unable to change a decision). Reports add that the court also found nationality discrimination barred by the INA; A mentions only the excess of statutory authority. The record has precedent for court documents as LIT ([LIT-006](LIT-006.md), [LIT-1841](LIT-1841.md)). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmplt8sm). A108 is faithful on the remedy: refusals
+Read on 2026-11-17 ([NOTE-tmplt8sm](../notes.d/NOTE-tmplt8sm.md)). A108 is faithful on the remedy: refusals
 "based solely upon the Policy" were set aside and remanded "for
 adjudication by the consular officers". It omits the nationality and
 § 1201(g) holdings, which the opinion confirms (the reports noted above

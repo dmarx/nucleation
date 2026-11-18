@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpwpvfg) from arXiv:1706.09847v3; worth reading
+  read 2026-11-17 ([NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md)) from arXiv:1706.09847v3; worth reading
   here for its demonstrated lock-in of a loop that selects its own
   evidence, and its repair.
 title: 'Runaway Feedback Loops in Predictive Policing'
@@ -54,7 +54,7 @@ summary: >-
   one with probability 1. Reported incidents attenuate but do not remove
   the loop; dropping each discovered incident with the probability of
   having patrolled there repairs it. Simulations of PredPol on Oakland data
-  reproduce both. Read in NOTE-tmpwpvfg; THEORY-tmp0xl3k.
+  reproduce both. Read in [NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md); [THEORY-tmp0xl3k](../theory.d/THEORY-tmp0xl3k.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp0xl3k — new, temporary codes, Proposed -->
 
@@ -74,7 +74,7 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, Carlos Scheidegger and Sure
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's formal demonstration of self-validating classification. Read on 2026-11-17 (NOTE-tmpwpvfg). It corroborates CLAIM-342 and CLAIM-406 (THEORY-tmp0xl3k), and qualifies CLAIM-342's remedy: independent evidence mixed in only attenuates the loop. The anthology may want it.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's formal demonstration of self-validating classification. Read on 2026-11-17 ([NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md)). It corroborates [CLAIM-342](../claims.d/CLAIM-342.md) and [CLAIM-406](../claims.d/CLAIM-406.md) ([THEORY-tmp0xl3k](../theory.d/THEORY-tmp0xl3k.md)), and qualifies [CLAIM-342](../claims.d/CLAIM-342.md)'s remedy: independent evidence mixed in only attenuates the loop. The anthology may want it.
 
 **The exchange's characterization: faithful.** A19's "deployment choices
 can bias subsequent observations and produce runaway feedback" is right.

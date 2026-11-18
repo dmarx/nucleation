@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmp3qe8i) from the publisher's
+  read in full 2026-11-17 ([NOTE-tmp3qe8i](../notes.d/NOTE-tmp3qe8i.md)) from the publisher's
   open-access PDF; worth reading here as a preregistered test of whether
   wrongness and blame judgments weigh intent, outcome and causality
   differently: all three feed both, and only causality counts
@@ -54,11 +54,11 @@ summary: >-
   inputs affected both judgments, intent most (d = 1.68); only causality
   weighed more in blame than in wrongness, by d = 0.05. The authors
   conclude the model is "partially" supported and the wrongness/blame
-  distinction "must not be overestimated". Read in NOTE-tmp3qe8i. It
-  does not test CLAIM-tmpciy9q's audience move: nothing in it concerns
+  distinction "must not be overestimated". Read in [NOTE-tmp3qe8i](../notes.d/NOTE-tmp3qe8i.md). It
+  does not test [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)'s audience move: nothing in it concerns
   arranged wrongs or an upstream arranger.
 ---
-<!-- inactive-ok-file: NOTE-tmp3qe8i THEORY-tmpybhzw — new; this work's reading and its THEORY -->
+<!-- inactive-ok-file: THEORY-tmpybhzw — new; this work's reading and its THEORY -->
 <!-- inactive-ok-file: CLAIM-tmpciy9q — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmp5poa8: Wrongness and Blame Judgments and Their Dynamics: Toward a Three-Input Processing Model of Moral Judgment
@@ -83,10 +83,10 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 ## Note of 2026-11-18: read
 
-Read in NOTE-tmp3qe8i. A5's "All three influenced participants'
+Read in [NOTE-tmp3qe8i](../notes.d/NOTE-tmp3qe8i.md). A5's "All three influenced participants'
 assessments, although the proposed differences between wrongness and blame
 judgments were only partly supported" is faithful. A5 leaves out that the
 one difference found, for causality, is tiny (d = 0.05). For
-CLAIM-tmpciy9q the study shows what drives observers' blame of an agent
+[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) the study shows what drives observers' blame of an agent
 (intent, harm, the agent's own causal part), not how observers weigh a
 party who arranged the agent's choice; its THEORY carries no relation.

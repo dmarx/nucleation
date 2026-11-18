@@ -7,7 +7,7 @@ status_note: >-
   403 and was not retried; Semantic Scholar marks the paper closed; a web
   search found no author, course or repository copy (a MaRDI portal record
   is metadata only). Not central, so no neighbour was required; Umpleby
-  (2016), LIT-tmpkuudf, read for Lefebvre's 1982 book, does not cite this
+  (2016), [LIT-tmpkuudf](LIT-tmpkuudf.md), read for Lefebvre's 1982 book, does not cite this
   paper and stands in for none of it. It stays Unavailable until a copy is
   supplied.
 title: 'An algebraic model of ethical cognition'
@@ -53,8 +53,8 @@ summary: >-
   bridge A draws between reflexive control and manipulating moral
   reasoning. Unavailable; nothing of it was read. The compromise and
   confrontation typology A11 attributes to it is attributed by Umpleby
-  (2016), LIT-tmpkuudf, to the 1982 book, LIT-tmpkqy2y. Its bearing on
-  CLAIM-tmp76x3e, LIT-1339 and CLAIM-404 is left open. A itself warns that
+  (2016), [LIT-tmpkuudf](LIT-tmpkuudf.md), to the 1982 book, [LIT-tmpkqy2y](LIT-tmpkqy2y.md). Its bearing on
+  [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md), [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md) is left open. A itself warns that
   Lefebvre's cultural generalizations "should not be accepted as
   established psychological facts".
 ---

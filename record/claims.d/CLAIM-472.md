@@ -180,8 +180,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The claim is unchanged.
 
 ## Note of 2026-11-17: Rubel, Castro and Pham read: the decision to deploy a system is what must be answered for
-<!-- inactive-ok-file: NOTE-tmpe43ee THEORY-tmpwjlal LIT-tmpqui4c — new or Unfetched; the reading filed on 2026-11-18 and the article it stands in for -->
+<!-- inactive-ok-file: THEORY-tmpwjlal LIT-tmpqui4c — new or Unfetched; the reading filed on 2026-11-18 and the article it stands in for -->
 
-Rubel, Castro & Pham 2021, ch. 7, read as the stand-in for LIT-tmpqui4c (NOTE-tmpe43ee, THEORY-tmpwjlal, corroborates). Of an agency that deploys a risk-assessment system while acknowledging its biases: "it is the decision to deploy the system that requires an account, and that decision is not obscured" (p. 157). Agency laundering is the failure to answer for that choice: ascribing "morally relevant qualities" such as "relevance, neutrality, reliability" to the process, and so failing "to adequately account" (p. 143). That supports the claim's first half, that choosing an apparatus is open to evaluation, from the side of accountability. The chapter does not address the claim's second half, which exclusions matter.
+Rubel, Castro & Pham 2021, ch. 7, read as the stand-in for [LIT-tmpqui4c](../literature.d/LIT-tmpqui4c.md) ([NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md), [THEORY-tmpwjlal](../theory.d/THEORY-tmpwjlal.md), corroborates). Of an agency that deploys a risk-assessment system while acknowledging its biases: "it is the decision to deploy the system that requires an account, and that decision is not obscured" (p. 157). Agency laundering is the failure to answer for that choice: ascribing "morally relevant qualities" such as "relevance, neutrality, reliability" to the process, and so failing "to adequately account" (p. 143). That supports the claim's first half, that choosing an apparatus is open to evaluation, from the side of accountability. The chapter does not address the claim's second half, which exclusions matter.
 
 No status changes.

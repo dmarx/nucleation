@@ -76,23 +76,23 @@ demandingness.
 
 ## Bearing on the record
 
-- **QUESTION-tmpk7u3e.** The scope ("only the realm of what we owe to one
+- **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md).** The scope ("only the realm of what we owe to one
   another") and the circularity answer (only reasons that happen to
   individuals are inputs) are what a reading of the record's account as a
   supplement to contractualism would rely on.
-- **QUESTION-tmpkqvxv.** Rejection is judged against "alternatives", and a
+- **[QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md).** Rejection is judged against "alternatives", and a
   burden gives no reason to reject if every alternative imposes a greater
   one, so which alternatives are feasible enters the test. The entry does
   not discuss feasibility.
-- **QUESTION-tmplax2r.** Contractualism's answer to where legitimacy comes
+- **[QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md).** Contractualism's answer to where legitimacy comes
   from: justifiability to each, within what we owe one another.
-- **CLAIM-tmplidg6.** Left open; beyond substantive responsibility (acts
+- **[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).** Left open; beyond substantive responsibility (acts
   like promising "can change a person's obligations to others") the entry
   does not discuss rights or powers.
 
 ## Connections
 
-Stands in for Scanlon (1998), LIT-tmp06l3b, for:
+Stands in for Scanlon (1998), [LIT-tmp06l3b](../literature.d/LIT-tmp06l3b.md), for:
 
 - the formula of p. 153, quoted;
 - the individualist restriction of p. 229, quoted;
@@ -107,5 +107,5 @@ rejected by someone affected") paraphrases the quoted formula fairly;
 
 ## Limitations
 
-Second-hand; written before Scanlon's 2025 revision (LIT-tmpgoyge); a
+Second-hand; written before Scanlon's 2025 revision ([LIT-tmpgoyge](../literature.d/LIT-tmpgoyge.md)); a
 survey of a large literature. §§5, 7 and 10–13 skimmed.

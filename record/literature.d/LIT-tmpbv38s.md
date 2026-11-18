@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-17 (NOTE-tmpf8gg2) from the Yale Law Journal
+  read in part 2026-11-17 ([NOTE-tmpf8gg2](../notes.d/NOTE-tmpf8gg2.md)) from the Yale Law Journal
   Forum's free PDF; worth reading here for its account of presidential
   decisions about particular targets made with little review, and of
   executive coercion. The evidence for the erosion of norms (Part II)
@@ -54,8 +54,8 @@ summary: >-
   House control of agencies and norms against interference erode; the risk
   is "executive coercion", extracting concessions unrelated to public
   purposes. He proposes a judicial "harder look" from existing doctrine
-  and relies on civic friction to buy time. Read in part in NOTE-tmpf8gg2;
-  its account is THEORY-tmpf7stg, which corroborates CLAIM-tmpyo35b (cost
+  and relies on civic friction to buy time. Read in part in [NOTE-tmpf8gg2](../notes.d/NOTE-tmpf8gg2.md);
+  its account is [THEORY-tmpf7stg](../theory.d/THEORY-tmpf7stg.md), which corroborates [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) (cost
   imposed before correction).
 ---
 <!-- inactive-ok-file: CLAIM-tmpgh3v2 CLAIM-tmpyo35b NOTE-tmpf8gg2 THEORY-tmpf7stg — Proposed, Skimmed; cited with their standing, entries this reading bears on or files -->
@@ -81,10 +81,10 @@ Mariano-Florentino Cuéllar (2026). The New Presidential Adjudication. *The Yale
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A25 as A's source on presidents' growing ability to make particularized decisions with constrained opportunities for scrutiny, beside the owner's U13 on the speed of executive action. It bears on [CLAIM-464](../claims.d/CLAIM-464.md) (an intervention can change what it would take to correct it) and [CASE-170](../cases.d/CASE-170.md), which hold the owner's earlier version of U13, and on [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md). Not read.
 
-Read in part on 2026-11-17 (NOTE-tmpf8gg2). The exchange's
+Read in part on 2026-11-17 ([NOTE-tmpf8gg2](../notes.d/NOTE-tmpf8gg2.md)). The exchange's
 characterization is faithful: A25's particularized, consequential
 decisions "with constrained opportunities for independent scrutiny"
 matches the abstract. Placing it beside U13 on the speed of executive
 action is the record's framing: Cuéllar mentions speed in passing, and his
-subject is arbitrariness and the scarcity of review. On CASE-170 it is
+subject is arbitrariness and the scarcity of review. On [CASE-170](../cases.d/CASE-170.md) it is
 silent.

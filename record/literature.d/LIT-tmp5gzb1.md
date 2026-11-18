@@ -62,7 +62,7 @@ summary: >-
   divided the opposition into "systemic" and "non-systemic" components,
   and manipulating access to institutional arenas and resource flows gave
   opposition groups different incentives that made coordination among them
-  unlikely. It bears on CLAIM-tmpm95mo only as a pointer until the body is
+  unlikely. It bears on [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) only as a pointer until the body is
   read. Unavailable.
 ---
 <!-- inactive-ok-file: CLAIM-tmpm95mo — Proposed; cited with their standing, entries this reading bears on or files -->
@@ -94,6 +94,6 @@ division to the regulation of organisations' "formation and maintenance",
 and access and resource flows to "differential stimuli" against
 coordination, where A folds all four into the origin of the division.
 Whether the article shows oppositions independent in leadership, aims and
-speech, as CLAIM-tmpm95mo requires, cannot be told from the abstract.
-Szakonyi (LIT-tmpbyne9), read, found systemic and nonsystemic councils
+speech, as [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) requires, cannot be told from the abstract.
+Szakonyi ([LIT-tmpbyne9](LIT-tmpbyne9.md)), read, found systemic and nonsystemic councils
 behaving alike once governing.

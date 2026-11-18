@@ -81,7 +81,7 @@ forfeiture; dissolution; the appeal to heaven.
 
 ## Bearing on the record
 
-- **CLAIM-tmp6vck6.** The form of the claim's argument is Locke's: the limit
+- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** The form of the claim's argument is Locke's: the limit
   lies in what the holder can transfer (§§23, 135), and the people's
   judgment of breach is something "they cannot part with" (§168). Two
   qualifications. Locke's protected object is life, and liberty from
@@ -89,14 +89,14 @@ forfeiture; dissolution; the appeal to heaven.
   "standing" in general. And Locke admits forfeiture "by his fault" (§23),
   which the claim does not provide for: a way to lose what cannot be
   conferred.
-- **CASE-tmpgp2qo.** §24's "agreement for a limited power on the one side,
+- **[CASE-tmpgp2qo](../cases.d/CASE-tmpgp2qo.md).** §24's "agreement for a limited power on the one side,
   and obedience on the other", against §§23 and 135 on unlimited power, is
   the case's contrast between limited and unlimited delegation.
-- **CLAIM-tmpcpijj.** §240, "The people shall be judge", against an
+- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).** §240, "The people shall be judge", against an
   authority that would judge its own breach.
-- **QUESTION-tmpgeqju.** §95 (majority) and §149 (power reverts only on
+- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** §95 (majority) and §149 (power reverts only on
   dissolution).
-- **CASE-tmp9vd9x.** §27's proviso, the labour account A93 names.
+- **[CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md).** §27's proviso, the labour account A93 names.
 - The exchange's A85 is faithful to §§23–24 and 135; it omits forfeiture,
   and its "standing" is not Locke's ground.
 

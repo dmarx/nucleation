@@ -236,8 +236,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The claim is unchanged.
 
 ## Note of 2026-11-17: Ensign et al. read: an unobserved region yields no evidence, so the prior or an early advantage persists
-<!-- inactive-ok-file: NOTE-tmpwpvfg THEORY-tmp0xl3k — new; the reading filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-tmp0xl3k — new; the reading filed on 2026-11-18 -->
 
-Ensign et al. 2017, read (NOTE-tmpwpvfg, THEORY-tmp0xl3k, corroborates). The claim's loop form, an early exclusion kept going because the indicators only being sought produces never arrive from those not sought, is proved in the policing model. With equal rates, "the prior belief coupled with the lack of feedback about the unobserved region prevents the system from learning that the two areas are in fact identical with respect to crime rates" (Lemma 2); with unequal rates, a small advantage takes all (Lemma 4). The model contains no prejudice term, which is consistent with the claim's second half: the dynamics alone cannot tell a frozen prior from a merited difference. The domain is policing, not testimony; the reading supports the form, not the claim's application to testimonial injustice.
+Ensign et al. 2017, read ([NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md), [THEORY-tmp0xl3k](../theory.d/THEORY-tmp0xl3k.md), corroborates). The claim's loop form, an early exclusion kept going because the indicators only being sought produces never arrive from those not sought, is proved in the policing model. With equal rates, "the prior belief coupled with the lack of feedback about the unobserved region prevents the system from learning that the two areas are in fact identical with respect to crime rates" (Lemma 2); with unequal rates, a small advantage takes all (Lemma 4). The model contains no prejudice term, which is consistent with the claim's second half: the dynamics alone cannot tell a frozen prior from a merited difference. The domain is policing, not testimony; the reading supports the form, not the claim's application to testimonial injustice.
 
 No status changes.

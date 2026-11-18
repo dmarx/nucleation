@@ -84,19 +84,19 @@ constitutional and learning perspectives.
 
 ## Bearing on the record
 
-- **CLAIM-tmpnhesz.** Corroborates the claim's separation of roles: the
+- **[CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md).** Corroborates the claim's separation of roles: the
   forum that judges is not always the party that imposes consequences
   (ombudsmen and audit offices report to parliament, p. 452), and forums
   are often not principals (p. 451). Bovens gives none of the claim's
   grounds of the duty.
-- **TERM-tmp4zjar.** The term's "accountability mechanisms" side is
+- **[TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md).** The term's "accountability mechanisms" side is
   Bovens's, but Bovens nests answerability inside accountability, as its
   interrogation stage (p. 451); the term nests them the other way. The
   record may keep its usage, but the nesting is its own, not Bovens's.
-- **QUESTION-tmpea19q.** Left open. Bovens's four questions (to whom, who,
+- **[QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md).** Left open. Bovens's four questions (to whom, who,
   about what, why) match the question's parts, but his "why" sorts
   obligations by source and does not say when a duty is owed.
-- **CLAIM-687.** Bovens's "accountability excesses" (p. 462) is a limit the
+- **[CLAIM-687](../claims.d/CLAIM-687.md).** Bovens's "accountability excesses" (p. 462) is a limit the
   scaling claim may want.
 - The exchange's A83 is faithful. The possibility of consequences is
   constitutive for Bovens, not optional.

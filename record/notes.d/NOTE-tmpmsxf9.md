@@ -90,7 +90,7 @@ boycott; control against participation in institutions.
 
 ## Bearing on the record
 
-- **CLAIM-tmpm95mo** (an independent opposition whose capacity to change
+- **[CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md)** (an independent opposition whose capacity to change
   the arrangement depends on another's control). Corroborates, in both
   directions the claim draws. An opposition inside autocratic
   institutions produced measurable change there (pp. 9–14), so inclusion
@@ -103,9 +103,9 @@ boycott; control against participation in institutions.
   author does not frame it so. That systemic opposition councils behaved
   like nonsystemic ones once governing (p. 15) bears on whether that
   distinction marks containment at all.
-- **LIT-tmp5gzb1** (Semenov), unread, describes the same regime's control
+- **[LIT-tmp5gzb1](../literature.d/LIT-tmp5gzb1.md)** (Semenov), unread, describes the same regime's control
   of the organizational environment.
-- **CLAIM-tmpbqunx** and **CLAIM-tmpyo35b** may also use the finding of an
+- **[CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md)** and **[CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md)** may also use the finding of an
   access rule held by the regime.
 
 ## Verdict on the exchange's characterization

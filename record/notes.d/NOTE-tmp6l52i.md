@@ -85,20 +85,20 @@ from one agent's earlier choices to many agents along a design history.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpnmvsj.
+Filed as [THEORY-tmpnmvsj](../theory.d/THEORY-tmpnmvsj.md).
 
-- **CLAIM-tmpb47ul**, the control-and-duty part, from theory: presence is
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the control-and-duty part, from theory: presence is
   not control (p. 4); designers owe operators a system whose fitness they
   can check (p. 9); responsibility traces upstream when the operator's
   conditions fail through no fault of hers. Nothing on where blame
   actually lands, nor on conscientiousness. Corroborates.
-- **QUESTION-tmpvoufs**: the operator's meta-task responsibility and the
+- **[QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md)**: the operator's meta-task responsibility and the
   designers' matching obligation are a pair of duties running both ways,
   but a duty, not an instrument by which agents hold principals to
   account. Evidence on the question, not an answer.
 - The record's notes on Fischer and Ravizza's guidance control (e.g.
-  NOTE-270, NOTE-1457, NOTE-548) hold the theory this paper adapts. Zeiser
-  (LIT-tmp3iik8) says the framework "does not specifically focus on
+  [NOTE-270](NOTE-270.md), [NOTE-1457](NOTE-1457.md), [NOTE-548](NOTE-548.md)) hold the theory this paper adapts. Zeiser
+  ([LIT-tmp3iik8](../literature.d/LIT-tmp3iik8.md)) says the framework "does not specifically focus on
   attributability".
 
 ## Limitations

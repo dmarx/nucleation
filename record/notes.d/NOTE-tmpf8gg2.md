@@ -106,27 +106,27 @@ Londoner/Bi-Metallic; Kadi justice; DOGE; civic friction.
 
 ## Bearing on the record
 
-- **CLAIM-tmpyo35b** (litigation as siege: raising what pursuing a
+- **[CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md)** (litigation as siege: raising what pursuing a
   corrective objective costs above what a party can sustain). Corroborates
   its mechanism: attacks "that might be thwarted by a court eventually but
   levy a high cost on those targeted in the meantime", renewed when one
   line is blocked (p. 647). Cuéllar does not say the remedy becomes
   unreachable, only costly.
-- **CLAIM-464** (an intervention can change what it would take to correct
+- **[CLAIM-464](../claims.d/CLAIM-464.md)** (an intervention can change what it would take to correct
   it). A neighbouring mechanism, cost before review, not an instance: he
   does not argue that the reachable remedy changes. Not filed as a
   relation.
-- **CLAIM-tmpgh3v2** (a slow rule over a fast process). Qualifies: the slow
+- **[CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)** (a slow rule over a fast process). Qualifies: the slow
   level is the courts, whose harder look comes only "after ... final agency
   action" (p. 645), and civic friction is relied on to "slow down" edicts.
   His subject is the depth of review, not tempo.
-- **CLAIM-tmpcpijj**. His argument that the presumption of regularity, a
+- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md)**. His argument that the presumption of regularity, a
   court-made condition of challenge, should be defeasible is close to the
   claim's second clause.
-- **LIT-092 / NOTE-063** (the law-firm executive orders) concern the same
-  matter as his law-firm example (p. 627); **CASE-172** (grants cancelled
-  and partly reinstated) and **CASE-176** (USIP) are near his grant and
-  DOGE examples. CASE-170 (the East Wing) is not mentioned.
+- **[LIT-092](../literature.d/LIT-092.md) / [NOTE-063](NOTE-063.md)** (the law-firm executive orders) concern the same
+  matter as his law-firm example (p. 627); **[CASE-172](../cases.d/CASE-172.md)** (grants cancelled
+  and partly reinstated) and **[CASE-176](../cases.d/CASE-176.md)** (USIP) are near his grant and
+  DOGE examples. [CASE-170](../cases.d/CASE-170.md) (the East Wing) is not mentioned.
 
 ## Verdict on the exchange's characterization
 

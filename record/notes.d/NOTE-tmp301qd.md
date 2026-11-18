@@ -87,23 +87,23 @@ task; wait-time.
 
 ## Bearing on the record
 
-- **CASE-tmp07hx9** (the two arms). Confirms the documented arm: the
+- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)** (the two arms). Confirms the documented arm: the
   design, N = 28, 12.03 minutes against about 3 minutes (the paper's §3
   gives 3 min 2 s, 181.57 s, and its §4 "3.02 min"; A's 3.03 is the
   closer rounding of 181.57 s), a ratio of 0.25. A's caption matches the
   authors' framing, with their caveat that self-control is not shown
   irrelevant. The case's "unverified until read" can now be narrowed to
   the sample: N = 28, one age band, one lab, a 15-minute cap.
-- **CLAIM-tmpt091d** (the controller's reliability decides whether waiting
+- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)** (the controller's reliability decides whether waiting
   is good judgment). Supports its first half, through the case it rests
   on: waiting tracks the promisor's demonstrated reliability, and the
   authors call this rational. The reliability evidence came from the same
   adult who controlled delivery. Nothing here bears on the claim's second
   half, control and answerability, which stays A's interpretation.
-- **CLAIM-549** cites the case for the child's taking the marshmallow as
+- **[CLAIM-549](../claims.d/CLAIM-549.md)** cites the case for the child's taking the marshmallow as
   "not simply evidence of insufficient discipline"; this reading supports
   that use.
-- **CLAIM-344** (named in the case). No bearing: the paper does not
+- **[CLAIM-344](../claims.d/CLAIM-344.md)** (named in the case). No bearing: the paper does not
   discuss resolve.
 
 ## Verdict on the exchange's characterization

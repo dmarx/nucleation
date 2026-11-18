@@ -20,11 +20,11 @@ bears_on:
 - QUESTION-tmpea19q
 summary: >-
   Waldron & Penner, SEP "Property and Ownership" (2026 revision),
-  LIT-tmpir8ms, skimmed in NOTE-tmpfwcf1 (§§1–2). Private property assigns
+  [LIT-tmpir8ms](../literature.d/LIT-tmpir8ms.md), skimmed in [NOTE-tmpfwcf1](../notes.d/NOTE-tmpfwcf1.md) (§§1–2). Private property assigns
   resources "to the decisional authority of particular individuals", who act
   "without giving anyone else an explanation", so it "is continually in need
-  of public justification". It bears on QUESTION-tmpgeqju (who decides, by
-  regime) and QUESTION-tmpea19q (authority that owes no account). The
+  of public justification". It bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) (who decides, by
+  regime) and [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md) (authority that owes no account). The
   wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-tmpfwcf1 — Skimmed; the reading -->
@@ -32,7 +32,7 @@ summary: >-
 # THEORY-tmpe0vnk: Waldron and Penner present private property as a system of rules assigning contested resources to the decisional authority of particular individuals, who may decide without explanation and whether or not others are affected, so that it is continually in need of public justification, and analyse default title as one Hohfeldian liberty, one claim-right and two powers, to license and to transfer
 
 Waldron & Penner, "Property and Ownership" (SEP, 2026 revision),
-LIT-tmpir8ms.
+[LIT-tmpir8ms](../literature.d/LIT-tmpir8ms.md).
 
 ## The account
 

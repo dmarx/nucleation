@@ -157,9 +157,9 @@ The aquifer, [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md), puts all three to wor
   *claim-right* is not the same as an ordinary asserted *claim*."
 
 ## Note of 2026-11-17: Darwall, through Stern: an asserted demand has no warrant of its own, but obligation is legitimate demandability
-<!-- inactive-ok-file: NOTE-tmptdg2e THEORY-tmpk5cgl LIT-tmpr2bbq — new or Unavailable; the reading filed on 2026-11-18 and the unread book it stands in for -->
+<!-- inactive-ok-file: THEORY-tmpk5cgl LIT-tmpr2bbq — new or Unavailable; the reading filed on 2026-11-18 and the unread book it stands in for -->
 
-Stern 2014, read (NOTE-tmptdg2e, THEORY-tmpk5cgl), standing in for Darwall 2006 (LIT-tmpr2bbq). The THEORY now `corroborates` this claim, which does not rest on it.
+Stern 2014, read ([NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), [THEORY-tmpk5cgl](../theory.d/THEORY-tmpk5cgl.md)), standing in for Darwall 2006 ([LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md)). The THEORY now `corroborates` this claim, which does not rest on it.
 
 **What it corroborates.** On Darwall's account "whether or not an obligation obtains doesn’t depend on the actual demands an individual or a community of individuals might make: if they could legitimately make such demands, then an obligation holds" (p. 3). An actual demand, asserted or not, settles nothing; legitimacy does. That is the claim's "a demand's being asserted, maintained or recognized gives it no warrant", reached independently.
 
@@ -168,6 +168,6 @@ Stern 2014, read (NOTE-tmptdg2e, THEORY-tmpk5cgl), standing in for Darwall 2006 
 No status changes.
 
 ## Note of 2026-11-17: Hohfeld, read
-<!-- inactive-ok-file: NOTE-tmpvxul9 THEORY-tmprnqnh — new reading and theory of 2026-11-18, Proposed -->
+<!-- inactive-ok-file: THEORY-tmprnqnh — new reading and theory of 2026-11-18, Proposed -->
 
-Hohfeld 1913, read (NOTE-tmpvxul9, THEORY-tmprnqnh): corroboration for legal relations, which the THEORY carries. Hohfeld's positions are logically independent, as the claim says rights, demands and commitments are: "X's right that Y should not eat the food persists even though X's own privilege of doing so has been extinguished" (pp. 36–37), and whether a privilege should carry protective claims "is ultimately a question of justice and policy" (p. 36); he warns that "the term 'rights' tends to be used indiscriminately to cover what in a given case may be a privilege, a power, or an immunity" (p. 30). He does not discuss demands or commitments, so the corroboration is for the general point that normative positions do not entail one another, not for the claim's three terms; the claim's own body already warns that a Hohfeldian claim-right is not the record's CLAIM. No status changes.
+Hohfeld 1913, read ([NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md), [THEORY-tmprnqnh](../theory.d/THEORY-tmprnqnh.md)): corroboration for legal relations, which the THEORY carries. Hohfeld's positions are logically independent, as the claim says rights, demands and commitments are: "X's right that Y should not eat the food persists even though X's own privilege of doing so has been extinguished" (pp. 36–37), and whether a privilege should carry protective claims "is ultimately a question of justice and policy" (p. 36); he warns that "the term 'rights' tends to be used indiscriminately to cover what in a given case may be a privilege, a power, or an immunity" (p. 30). He does not discuss demands or commitments, so the corroboration is for the general point that normative positions do not entail one another, not for the claim's three terms; the claim's own body already warns that a Hohfeldian claim-right is not the record's CLAIM. No status changes.

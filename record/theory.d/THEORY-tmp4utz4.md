@@ -22,12 +22,12 @@ corroborates:
 bears_on:
 - QUESTION-tmp2t6ve
 summary: >-
-  NTSB (2019), LIT-tmpmlje2, read for responsibility in NOTE-tmpokcvk; the
-  case is CASE-tmpnrxpi. It corroborates the control-and-duty part of
-  CLAIM-tmpb47ul, which does not rest on it: the organization set a task
+  NTSB (2019), [LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), read for responsibility in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md); the
+  case is [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md). It corroborates the control-and-duty part of
+  [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md), which does not rest on it: the organization set a task
   people perform poorly and did not make it feasible. It does not show
   blame landing downstream, since the NTSB carries cause upstream itself.
-  It bears on QUESTION-tmp2t6ve as a no-blame investigation that keeps
+  It bears on [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md) as a no-blame investigation that keeps
   upstream provenance. The wording is the reader's; adopting it is the
   owner's call.
 ---
@@ -35,8 +35,8 @@ summary: >-
 
 # THEORY-tmp4utz4: The NTSB found the Tempe crash of an Uber test vehicle caused by its operator's distraction, to which the company contributed through a system design that relied on her to brake, the removal of a second operator, rare oversight and no countermeasures to automation complacency, all consequences of its safety culture, so that cause was divided between the operator and the organization that set her task
 
-NTSB, Highway Accident Report HAR-19/03 (2019), LIT-tmpmlje2, read in
-NOTE-tmpokcvk.
+NTSB, Highway Accident Report HAR-19/03 (2019), [LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), read in
+[NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md).
 
 ## The finding
 

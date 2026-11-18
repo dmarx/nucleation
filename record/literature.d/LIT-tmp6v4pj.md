@@ -78,5 +78,5 @@ finding that "many workers report liking and finding choice while working
 under algorithmic management", that engagement and deviance tactics "both
 elicit consent", and that "this choice-based consent can mask the
 more-structurally problematic elements of the work". Its bearing on
-CLAIM-410 and CLAIM-545 stays unverified. Rubel, Castro and Pham's
-chapter on Uber's driver prompts (LIT-tmpnl1ls) overlaps its site.
+[CLAIM-410](../claims.d/CLAIM-410.md) and [CLAIM-545](../claims.d/CLAIM-545.md) stays unverified. Rubel, Castro and Pham's
+chapter on Uber's driver prompts ([LIT-tmpnl1ls](LIT-tmpnl1ls.md)) overlaps its site.

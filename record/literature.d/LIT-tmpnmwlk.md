@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmps5u6y) from the journal's open-access
+  read in full 2026-11-17 ([NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md)) from the journal's open-access
   PDF; worth reading here as the source of the moral crumple zone, the
-  concept CLAIM-tmpb47ul is built on, with its conditions and limits.
+  concept [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) is built on, with its conditions and limits.
 title: 'Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction'
 version: 2
 history:
@@ -56,8 +56,8 @@ summary: >-
   self-driving cars (Uber in Tempe, Tesla, Google). Certification bounds
   what can count as the machine's malfunction; the operator may be partly
   responsible; zones are not universal (Therac-25) and form likeliest right
-  after a publicized accident. Read in NOTE-tmps5u6y; THEORY-tmp7h69w,
-  proposed as grounds of CLAIM-tmpb47ul.
+  after a publicized accident. Read in [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md); [THEORY-tmp7h69w](../theory.d/THEORY-tmp7h69w.md),
+  proposed as grounds of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul CLAIM-tmpe5u7i THEORY-tmp7h69w CASE-tmpnrxpi — filed now from the same exchange or new, temporary codes, Proposed or Open -->
 
@@ -85,7 +85,7 @@ Madeleine Clare Elish (2019). Moral Crumple Zones: Cautionary Tales in Human-Rob
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A15 and A17 (also A19, A26, A37, A49) as the source of the moral crumple zone, the concept A builds its account of asymmetric moral accountability on from A15 onward. Read on 2026-11-17 (NOTE-tmps5u6y). It is proposed as grounds of CLAIM-tmpb47ul (THEORY-tmp7h69w) for the blame part, the credit to the arrangement and the upstream standards, not for "conscience does double duty", and it bears on QUESTION-tmp2t6ve and, weakly, QUESTION-tmpvoufs. Nothing in it bears on CLAIM-tmpe5u7i. Choroszewicz (LIT-tmpu1xfy) applies the concept to generative AI. The anthology may want it for AI oversight.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A15 and A17 (also A19, A26, A37, A49) as the source of the moral crumple zone, the concept A builds its account of asymmetric moral accountability on from A15 onward. Read on 2026-11-17 ([NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md)). It is proposed as grounds of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) ([THEORY-tmp7h69w](../theory.d/THEORY-tmp7h69w.md)) for the blame part, the credit to the arrangement and the upstream standards, not for "conscience does double duty", and it bears on [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md) and, weakly, [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md). Nothing in it bears on [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md). Choroszewicz ([LIT-tmpu1xfy](LIT-tmpu1xfy.md)) applies the concept to generative AI. The anthology may want it for AI oversight.
 
 **The exchange's characterization: faithful.** A15's "human operators
 receive disproportionate blame for failures in complex technological
@@ -97,5 +97,5 @@ control" is A's phrasing, consistent with p. 55. Two cautions: Elish's
 object is attribution after an accident, in press and reports, not the
 division of duties beforehand that A builds on it; and the moral-subsidy
 and conscientiousness theme is A's, not hers. Her Uber discussion rests on
-the NTSB's preliminary report; the final report (LIT-tmpmlje2) is filed as
-CASE-tmpnrxpi.
+the NTSB's preliminary report; the final report ([LIT-tmpmlje2](LIT-tmpmlje2.md)) is filed as
+[CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md).

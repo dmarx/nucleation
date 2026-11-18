@@ -86,19 +86,19 @@ epistemic, interpretative and operational.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpmdej3.
+Filed as [THEORY-tmpmdej3](../theory.d/THEORY-tmpmdej3.md).
 
-- **CLAIM-tmpb47ul**, the control-and-duty part, empirically: responsibility
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the control-and-duty part, empirically: responsibility
   allocated beyond "actual authority, control and capacity to influence".
   And the conscientiousness part in a mild form: vigilant, experienced
   users caught errors that made the tools look workable, at a cost of
   unrecognized labour (§4.5, §5). It does not show blame landing after a
   failure, nor who sets the standards beyond the innovators' framing.
   Corroborates.
-- **CLAIM-tmp238zy** (scrutiny demanded of individuals while the
+- **[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)** (scrutiny demanded of individuals while the
   institution stays unanswerable): verification duties placed on users
   while the tools and their developers are insulated (§5.2). Corroborates.
-- **Elish (LIT-tmpnmwlk)**: the study applies her concept to the period
+- **Elish ([LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md))**: the study applies her concept to the period
   before failure, which she did not treat.
 
 ## Limitations

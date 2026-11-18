@@ -20,11 +20,11 @@ corroborates:
 - CLAIM-tmpgh3v2
 - CLAIM-tmp238zy
 summary: >-
-  The Hong Kong Monetary Authority (2026), LIT-tmpn5g57, a non-binding
-  discussion paper read in part in NOTE-tmpv0dkv. It corroborates two
-  claims that do not rest on it: CLAIM-tmpgh3v2 (fast action outrunning
+  The Hong Kong Monetary Authority (2026), [LIT-tmpn5g57](../literature.d/LIT-tmpn5g57.md), a non-binding
+  discussion paper read in part in [NOTE-tmpv0dkv](../notes.d/NOTE-tmpv0dkv.md). It corroborates two
+  claims that do not rest on it: [CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) (fast action outrunning
   review, and limits set beforehand with a slow level kept open to
-  revision) and CLAIM-tmp238zy (approval is oversight only with authority
+  revision) and [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md) (approval is oversight only with authority
   to reject). The wording is the reader's; adopting it is the owner's
   call.
 ---
@@ -32,7 +32,7 @@ summary: >-
 
 # THEORY-tmpoi5oo: Banks' agentic A.I. should be governed by intent-anchored accountability: an agent acts only for an approved business intent within delegated authority, accountability stays with identified human owners, human approval counts as oversight only where the approver sees the substance and has the authority, time and practical ability to reject or stop, and an agent's speed is limited to what that oversight can review
 
-Hong Kong Monetary Authority (2026), LIT-tmpn5g57.
+Hong Kong Monetary Authority (2026), [LIT-tmpn5g57](../literature.d/LIT-tmpn5g57.md).
 
 ## The proposal
 

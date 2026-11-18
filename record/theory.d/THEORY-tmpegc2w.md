@@ -20,20 +20,20 @@ corroborates:
 bears_on:
 - QUESTION-tmpk7u3e
 summary: >-
-  Scanlon, "Reply to Leif Wenar" (2013), LIT-tmplag34, read in NOTE-tmpzarar.
+  Scanlon, "Reply to Leif Wenar" (2013), [LIT-tmplag34](../literature.d/LIT-tmplag34.md), read in [NOTE-tmpzarar](../notes.d/NOTE-tmpzarar.md).
   "Contractualism seeks to explain not only first-order claim rights but
   also powers"; the promisee's power of release is explained by the reasons
   both parties have to insist on Principle F's consent condition. Filed as
-  grounds of CLAIM-tmplidg6, whose premise it is, by a note on that claim;
-  it corroborates CLAIM-tmpssfc1 for promises, and bears on
-  QUESTION-tmpk7u3e. The wording is the reader's; adopting it is the
+  grounds of [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md), whose premise it is, by a note on that claim;
+  it corroborates [CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md) for promises, and bears on
+  [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md). The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpzarar CLAIM-tmplidg6 CLAIM-tmpssfc1 — Proposed or new; the reading and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-tmplidg6 CLAIM-tmpssfc1 — Proposed or new; the reading and the claims it bears on -->
 
 # THEORY-tmpegc2w: Scanlon holds that contractualism explains the Hohfeldian structure of moral rights, claims, liberties and powers including a promisee's power to release the promisor, by the reasons people have to insist on principles with that structure, without taking rights as basic, so that it matters little which parts of the structure are called rights
 
-Scanlon, "Reply to Leif Wenar" (2013), LIT-tmplag34.
+Scanlon, "Reply to Leif Wenar" (2013), [LIT-tmplag34](../literature.d/LIT-tmplag34.md).
 
 ## The account
 
@@ -49,6 +49,6 @@ parts of this structure we denominate as rights" (pp. 403–404).
 ## What it does not show
 
 - That powers once justified structure later justification: that is
-  CLAIM-tmplidg6's addition.
+  [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md)'s addition.
 - Institutional powers, or authority over obligations beyond the promise
   case, which Wenar argues contractualism needs.

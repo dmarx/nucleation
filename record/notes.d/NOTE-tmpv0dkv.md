@@ -113,7 +113,7 @@ agents; Know Your Agent; risk Bands A–C.
 
 ## Bearing on the record
 
-- **CLAIM-tmpgh3v2** (a slow governing level over a fast process).
+- **[CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md)** (a slow governing level over a fast process).
   Corroborates both halves. The harm: minor actions "may cause serious
   harm before review catches up", and the last chance to intervene "may
   occur several steps before the harm becomes visible". The remedy: limits
@@ -121,21 +121,21 @@ agents; Know Your Agent; risk Bands A–C.
   effectiveness of oversight arrangements", and in-command authority to
   "define, change, restrict, suspend or withdraw" the mandate. It is
   guidance, not evidence that the remedy works.
-- **CLAIM-tmp238zy** (friction that makes people think differs from
+- **[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)** (friction that makes people think differs from
   friction that makes the institution answerable). Corroborates. Approval
   is meaningful only where the approver "has the authority and practical
   ability to challenge or reject it" and "regards rejection as a legitimate
   outcome": a regulator separating scrutiny from authority to act on it.
-- **CLAIM-410**. Related, not filed as a relation: the paper splits
+- **[CLAIM-410](../claims.d/CLAIM-410.md)**. Related, not filed as a relation: the paper splits
   execution (delegated to the agent) from rule-setting and revision (kept
   by named owners), and forbids accountability passing to vendors or
   customers.
-- **CLAIM-tmpohafo**. Customers get access to a person and review on
+- **[CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md)**. Customers get access to a person and review on
   request, but no power to suspend an agent's action: review without
   interruption.
-- **CLAIM-tmpb47ul**. The rule that accountability stays with owners is an
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**. The rule that accountability stays with owners is an
   institutional guard against control and blame coming apart.
-- **LIT-tmpqyz50** (meaningful human control) and **LIT-tmpnmwlk** (moral
+- **[LIT-tmpqyz50](../literature.d/LIT-tmpqyz50.md)** (meaningful human control) and **[LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md)** (moral
   crumple zones) are the held literature closest to §7.2.
 
 ## Verdict on the exchange's characterization

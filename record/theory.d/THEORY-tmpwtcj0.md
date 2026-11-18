@@ -15,11 +15,11 @@ date: '2026-11-18'
 source:
 - LIT-tmpog11n
 summary: >-
-  Shue, Basic Rights (1980; 40th-anniversary edition 2020), LIT-tmpog11n,
-  skimmed in NOTE-tmpzchma: the Introduction and index of the publisher's
+  Shue, Basic Rights (1980; 40th-anniversary edition 2020), [LIT-tmpog11n](../literature.d/LIT-tmpog11n.md),
+  skimmed in [NOTE-tmpzchma](../notes.d/NOTE-tmpzchma.md): the Introduction and index of the publisher's
   sample. The triad of duties is given by the index ("of avoidance,
   protection and aid") and is unread in the text, hence Proposed. It
-  corrects TERM-085's attribution of "respect, protect and fulfil" to Shue
+  corrects [TERM-085](../terms.d/TERM-085.md)'s attribution of "respect, protect and fulfil" to Shue
   (a note on that term). The wording is the reader's; adopting it is the
   owner's call.
 ---
@@ -27,7 +27,7 @@ summary: >-
 
 # THEORY-tmpwtcj0: Shue argues that rights to subsistence, security and liberty are basic rights, so that subsistence rights share the highest priority with security and liberty, that defending them chiefly means answering the objection that their correlative duties ask too much of others, and that those duties are of avoidance, protection and aid
 
-Shue, *Basic Rights* (1980; 2020), LIT-tmpog11n.
+Shue, *Basic Rights* (1980; 2020), [LIT-tmpog11n](../literature.d/LIT-tmpog11n.md).
 
 ## The account
 

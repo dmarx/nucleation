@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmphdvuc) from the CC BY article in Europe PMC
+  read 2026-11-17 ([NOTE-tmphdvuc](../notes.d/NOTE-tmphdvuc.md)) from the CC BY article in Europe PMC
   (PMC10666508); worth reading here as the meta-analysis that keeps
   coercive control apart from psychological IPV in general: moderate
   associations with PTSD and depression, no stronger than psychological
@@ -59,11 +59,11 @@ summary: >-
   against the authors' prediction; they suggest act-based measures may
   not capture whether a threat is "embedded in a chronic pattern of
   power and control". No causal link is established. Read in
-  NOTE-tmphdvuc. Registered from the exchange "Assess Depp Heard Abuse",
+  [NOTE-tmphdvuc](../notes.d/NOTE-tmphdvuc.md). Registered from the exchange "Assess Depp Heard Abuse",
   where A cites it for effects of coercive control "of its own", which
-  it does not show; it neither corroborates nor bounds CLAIM-tmpkivlz.
+  it does not show; it neither corroborates nor bounds [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md).
 ---
-<!-- inactive-ok-file: NOTE-tmphdvuc THEORY-tmp0cj7p — new; this work's reading and its THEORY -->
+<!-- inactive-ok-file: THEORY-tmp0cj7p — new; this work's reading and its THEORY -->
 <!-- inactive-ok-file: CLAIM-tmpkivlz — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmp5i6w4: The Trauma and Mental Health Impacts of Coercive Control: A Systematic Review and Meta-Analysis
@@ -89,10 +89,10 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 ## Note of 2026-11-18: read
 
-Read in NOTE-tmphdvuc. A5's description, "synthesized 68 studies,
+Read in [NOTE-tmphdvuc](../notes.d/NOTE-tmphdvuc.md). A5's description, "synthesized 68 studies,
 incorporating 45 into quantitative meta-analyses", is faithful; "2024" is
 the issue year, and it appeared online in 2023. The use the record took
 from A, that coercive control has effects "of its own", is not supported:
 the associations are cross-sectional and no larger than those of
-psychological abuse in general. THEORY-tmp0cj7p carries no relation to
-CLAIM-tmpkivlz.
+psychological abuse in general. [THEORY-tmp0cj7p](../theory.d/THEORY-tmp0cj7p.md) carries no relation to
+[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md).

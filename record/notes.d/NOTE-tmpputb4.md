@@ -74,22 +74,22 @@ Figures are asserted with few citations.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkivlz**: corroborates its view that a tally of acts does not
+- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: corroborates its view that a tally of acts does not
   settle domination: responses aimed at "discrete assaults" miss the
   pattern, and tactics that are not abuse "taken alone" make it "in
   combination". Stark speaks of a perpetrator and a victim and does not
   take up the claim's other half, that the dominated party's own acts keep
   their verdict.
-- **CASE-tmpzt3zf**: Dan's control of money, monitoring, isolation and
+- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)**: Dan's control of money, monitoring, isolation and
   threats are Stark's "isolation and control".
-- **CLAIM-545**: Stark's harm to "autonomy, dignity and liberty" is the
+- **[CLAIM-545](../claims.d/CLAIM-545.md)**: Stark's harm to "autonomy, dignity and liberty" is the
   record's coercive control of "The person's continuing practical freedom".
-- **TERM-124**: what Stark calls subjugation is domination in the term's
+- **[TERM-124](../terms.d/TERM-124.md)**: what Stark calls subjugation is domination in the term's
   capacity sense; the link is the filer's, not Stark's.
 
 ## Connections
 
-Stands in for Stark (2007), LIT-tmp6y633, for the book's core thesis:
+Stands in for Stark (2007), [LIT-tmp6y633](../literature.d/LIT-tmp6y633.md), for the book's core thesis:
 abuse as a strategic course of conduct; harm to liberty, autonomy and
 dignity as well as safety; incident-focused responses miss it. It does not
 restate the book's history of the battered women's movement, its critique

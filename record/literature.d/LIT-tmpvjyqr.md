@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpubjbq) as a read neighbour of Johnson
-  (1995), LIT-tmpozb57, and Johnson (2008), LIT-tmp5254i, neither of which
+  read in full 2026-11-17 ([NOTE-tmpubjbq](../notes.d/NOTE-tmpubjbq.md)) as a read neighbour of Johnson
+  (1995), [LIT-tmpozb57](LIT-tmpozb57.md), and Johnson (2008), [LIT-tmp5254i](LIT-tmp5254i.md), neither of which
   could be read; worth reading here as Johnson's own short statement of
   the three-type typology (situational couple violence, intimate
   terrorism, violent resistance), typed by control context, and of his
@@ -50,12 +50,12 @@ summary: >-
   fights back"). Agency samples and general surveys reach different types,
   which is why they disagree about gender. To classify a couple's
   violence, ask about "power and control issues" and fear. Registered as
-  the read neighbour of Johnson 1995, LIT-tmpozb57, and Johnson 2008,
-  LIT-tmp5254i. It corroborates CLAIM-tmpkivlz: violence is typed by
+  the read neighbour of Johnson 1995, [LIT-tmpozb57](LIT-tmpozb57.md), and Johnson 2008,
+  [LIT-tmp5254i](LIT-tmp5254i.md). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md): violence is typed by
   control context, not by a count of acts.
 ---
 <!-- inactive-ok-file: LIT-tmpozb57 LIT-tmp5254i — Unfetched or Unavailable; the works this stands in for -->
-<!-- inactive-ok-file: NOTE-tmpubjbq CLAIM-tmpkivlz — new or Proposed; this work's reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; this work's reading and the claim it corroborates -->
 
 # LIT-tmpvjyqr: A Sociologist's Perspective on Domestic Violence: A Conversation with Michael Johnson, Ph.D.
 
@@ -81,7 +81,7 @@ Ooms, T. (interviewer) & Johnson, M. P. (2006). *A Sociologist's Perspective on 
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Johnson (1995),
-LIT-tmpozb57, and Johnson (2008), LIT-tmp5254i, which A cites in the
+[LIT-tmpozb57](LIT-tmpozb57.md), and Johnson (2008), [LIT-tmp5254i](LIT-tmp5254i.md), which A cites in the
 exchange "Assess Depp Heard Abuse" and which could not be read. It is
 Johnson's own statement of the typology, two years before the book. It
 names three types, not four: no "mutual violent control", and not the

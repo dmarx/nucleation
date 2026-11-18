@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpmnike) from the Legal Information
+  read in full 2026-11-17 ([NOTE-tmpmnike](../notes.d/NOTE-tmpmnike.md)) from the Legal Information
   Institute; worth reading as the rule that an enumeration of rights
-  does not exhaust those retained, which bears on QUESTION-tmptinzk and
-  QUESTION-456.
+  does not exhaust those retained, which bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) and
+  [QUESTION-456](../questions.d/QUESTION-456.md).
 title: 'Constitution of the United States, Ninth Amendment'
 version: 2
 history:
@@ -38,14 +38,14 @@ keywords:
 implementations: []
 summary: >-
   The Ninth Amendment to the United States Constitution (proposed 1789,
-  ratified 1791), read in NOTE-tmpmnike: "The enumeration in the
+  ratified 1791), read in [NOTE-tmpmnike](../notes.d/NOTE-tmpmnike.md): "The enumeration in the
   Constitution, of certain rights, shall not be construed to deny or
   disparage others retained by the people." A rule of construction:
   rights are retained apart from their listing, but none is named and no
-  criterion is given. It bears on QUESTION-tmptinzk and QUESTION-456
-  (THEORY-tmp1hlgq).
+  criterion is given. It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) and [QUESTION-456](../questions.d/QUESTION-456.md)
+  ([THEORY-tmp1hlgq](../theory.d/THEORY-tmp1hlgq.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpmnike THEORY-tmp1hlgq — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmp1hlgq — new; the reading of 2026-11-17 and its theory, Proposed -->
 
 # LIT-tmp1xdz8: Constitution of the United States, Ninth Amendment
 
@@ -53,7 +53,7 @@ First Congress of the United States (1789). *Constitution of the United States*,
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpmnike).*
+*From the reading ([NOTE-tmpmnike](../notes.d/NOTE-tmpmnike.md)).*
 
 - "The enumeration in the Constitution, of certain rights, shall not be
   construed to deny or disparage others retained by the people."
@@ -65,7 +65,7 @@ First Congress of the United States (1789). *Constitution of the United States*,
 
 Registered from A85 (2026-11-17). It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) (can institution-independent rights serve as the criteria the record's judgments need). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpmnike). A85 is faithful: the text bars
+Read on 2026-11-17 ([NOTE-tmpmnike](../notes.d/NOTE-tmpmnike.md)). A85 is faithful: the text bars
 inferring from the listed rights that others are denied. It supplies no
-criteria for the retained rights. QUESTION-456's separation of recognized
+criteria for the retained rights. [QUESTION-456](../questions.d/QUESTION-456.md)'s separation of recognized
 from justified demands, made after this amendment, has its form.

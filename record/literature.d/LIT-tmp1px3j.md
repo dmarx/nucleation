@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-17 (NOTE-tmpfi3s5) from the journal's open PDF, as
-  the read neighbour of Shoemaker (2011), LIT-tmpxsadz, which could not
+  read in part 2026-11-17 ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md)) from the journal's open PDF, as
+  the read neighbour of Shoemaker (2011), [LIT-tmpxsadz](LIT-tmpxsadz.md), which could not
   be read; worth reading here for §VI, Shoemaker's own later restatement
   of the tripartite theory (attributability, answerability,
   accountability), applied to corporate agents. Read: §VI in full, §IV in
@@ -50,11 +50,11 @@ summary: >-
   by gratitude and anger. The three are "radically independent", so
   corporations "may be blameworthy and blamable in answerability terms,
   but not ... in accountability terms". Registered as the read neighbour
-  of Shoemaker 2011, LIT-tmpxsadz. It bears on QUESTION-tmp2t6ve and marks
-  a homonym in TERM-tmp4zjar.
+  of Shoemaker 2011, [LIT-tmpxsadz](LIT-tmpxsadz.md). It bears on [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md) and marks
+  a homonym in [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md).
 ---
 <!-- inactive-ok-file: LIT-tmpxsadz — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmpfi3s5 QUESTION-tmp2t6ve TERM-tmp4zjar — new, Open or Proposed; this work's reading and the entries it bears on -->
+<!-- inactive-ok-file: NOTE-tmpfi3s5 TERM-tmp4zjar — new, Open or Proposed; this work's reading and the entries it bears on -->
 
 # LIT-tmp1px3j: Blameworthy but Unblamable: A Paradox of Corporate Responsibility
 
@@ -77,7 +77,7 @@ Shoemaker, D. (2019). Blameworthy but Unblamable: A Paradox of Corporate Respons
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Shoemaker (2011),
-LIT-tmpxsadz. It restates the theory in its later form (credited to the
+[LIT-tmpxsadz](LIT-tmpxsadz.md). It restates the theory in its later form (credited to the
 2015 book) and cites the 2011 paper; it does not show the 2011 arguments.
 It confirms that the three-way split is Shoemaker's, not Watson's and
 Shoemaker's jointly as A110 has it.

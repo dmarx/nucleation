@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpr5h7q) from a UCSB course-readings
+  read in full 2026-11-17 ([NOTE-tmpr5h7q](../notes.d/NOTE-tmpr5h7q.md)) from a UCSB course-readings
   copy of the published pages; worth reading for the five property
   rights at operational and collective-choice levels and the separation
   of exercising a right from defining it, which corroborates
-  CLAIM-tmpcpijj and bears on QUESTION-tmpgeqju.
+  [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) and bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).
 title: 'Property-Rights Regimes and Natural Resources: A Conceptual Analysis'
 version: 2
 history:
@@ -47,17 +47,17 @@ keywords:
 implementations: []
 summary: >-
   Schlager & Ostrom (1992), Land Economics 68(3): 249–262, read in
-  NOTE-tmpr5h7q. Property rights in a common-pool resource unbundle into
+  [NOTE-tmpr5h7q](../notes.d/NOTE-tmpr5h7q.md). Property rights in a common-pool resource unbundle into
   access and withdrawal (operational) and management, exclusion and
   alienation (collective-choice), the latter "the difference between
   exercising a right and participating in the definition of future
   rights to be exercised"; a constitutional level devises
   collective-choice rules. The rights are independent but usually
   cumulative, giving authorized user, claimant, proprietor and owner; de
-  facto rights matter. It corroborates CLAIM-tmpcpijj and bears on
-  QUESTION-tmpgeqju and CASE-tmp9vd9x (THEORY-tmp3veql).
+  facto rights matter. It corroborates [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) and bears on
+  [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) and [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md) ([THEORY-tmp3veql](../theory.d/THEORY-tmp3veql.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpr5h7q THEORY-tmp3veql — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmp3veql — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-545 THEORY-1809 — Proposed; entries the reading bears on -->
 <!-- inactive-ok-file: CASE-tmp9vd9x — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpcpijj — filed from the same exchange (2026-11-17), Proposed -->
@@ -69,7 +69,7 @@ Edella Schlager and Elinor Ostrom (1992). "Property-Rights Regimes and Natural R
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpr5h7q).*
+*From the reading ([NOTE-tmpr5h7q](../notes.d/NOTE-tmpr5h7q.md)).*
 
 - "A property right is the authority to undertake particular actions
   related to a specific domain" (p. 250); rights are "the product of
@@ -85,10 +85,10 @@ Edella Schlager and Elinor Ostrom (1992). "Property-Rights Regimes and Natural R
 
 Registered from A93 (2026-11-17), with A92, A97, A100 and A106. It bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md), [CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md) and [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md) (authority over a decision is not authority over the conditions of its challenge). The record holds Ostrom's Nobel lecture ([LIT-719](LIT-719.md), Active) and *Governing the Commons* ([LIT-737](LIT-737.md), Unavailable), not this article. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpr5h7q). A93 is faithful. A92's mapping onto
+Read on 2026-11-17 ([NOTE-tmpr5h7q](../notes.d/NOTE-tmpr5h7q.md)). A93 is faithful. A92's mapping onto
 "having a capability and governing the conditions of its exercise" is
 partial: the paper's upper level devises operational rules, not the terms of
 challenge; it has a third, constitutional level; and its rights are
-rule-made authorizations. CLAIM-545 relies on the split, which the text
-supports; Polski and Ostrom's IAD framework (THEORY-1809) holds the same
+rule-made authorizations. [CLAIM-545](../claims.d/CLAIM-545.md) relies on the split, which the text
+supports; Polski and Ostrom's IAD framework ([THEORY-1809](../theory.d/THEORY-1809.md)) holds the same
 three levels.

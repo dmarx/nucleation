@@ -103,9 +103,9 @@ responsibility" (p. 52), not legal liability.
 
 ## Bearing on the record
 
-Filed as THEORY-tmp7h69w.
+Filed as [THEORY-tmp7h69w](../theory.d/THEORY-tmp7h69w.md).
 
-- **CLAIM-tmpb47ul** is built on this concept, and the reading supports
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)** is built on this concept, and the reading supports
   its blame part: blame lands on the nearest operator, sparing the system.
   It supports two further parts: credit to the arrangement (p. 49,
   automation "safer and superior in most instances") and upstream-set
@@ -115,17 +115,17 @@ Filed as THEORY-tmp7h69w.
   text does not yet state: zones form after publicized accidents, where
   the operator lacked information or authority, and not otherwise
   (Therac-25).
-- **QUESTION-tmp2t6ve** (blameless post-incident practice): the Therac-25
+- **[QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md)** (blameless post-incident practice): the Therac-25
   contrast is a case where fault went upstream.
-- **QUESTION-tmpvoufs**: Elish names certification reform as a lever
+- **[QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md)**: Elish names certification reform as a lever
   (p. 54), but no instrument by which operators hold principals to
   account. Weak.
-- **CLAIM-tmpe5u7i**: nothing on conscientiousness or moral subsidy. Left
+- **[CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)**: nothing on conscientiousness or moral subsidy. Left
   open.
 - **The Uber case.** Elish wrote from the NTSB's preliminary report; the
-  final report (LIT-tmpmlje2, NOTE-tmpokcvk) found the operator streaming
+  final report ([LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), [NOTE-tmpokcvk](NOTE-tmpokcvk.md)) found the operator streaming
   video, not at the touch screen. The case is filed from the final report
-  as CASE-tmpnrxpi.
+  as [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md).
 
 ## Limitations
 

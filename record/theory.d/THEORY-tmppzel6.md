@@ -15,17 +15,17 @@ date: '2026-11-18'
 source:
 - LIT-tmp9xidg
 summary: >-
-  Harsey and Freyd (2023), LIT-tmp9xidg, read in NOTE-tmp110fx. It
-  carries no relation to CLAIM-tmpciy9q, for which the exchange cited it:
+  Harsey and Freyd (2023), [LIT-tmp9xidg](../literature.d/LIT-tmp9xidg.md), read in [NOTE-tmp110fx](../notes.d/NOTE-tmp110fx.md). It
+  carries no relation to [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md), for which the exchange cited it:
   its DARVO frames an accusation as false, and the claim is about a true
   accusation of a wrong the accuser arranged. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmp110fx CLAIM-tmpciy9q — new or Proposed; the reading, and the claim it was cited for and does not support -->
+<!-- inactive-ok-file: CLAIM-tmpciy9q — new or Proposed; the reading, and the claim it was cited for and does not support -->
 
 # THEORY-tmppzel6: Harsey and Freyd find, in a vignette experiment with undergraduates, that a perpetrator's DARVO statement, compared with none, leads observers to rate a sexual-assault victim as less believable and more abusive and the perpetrator as more believable, less responsible and less abusive, and lowers their support for punishing him while raising it for punishing her
 
-Harsey and Freyd (2023), LIT-tmp9xidg.
+Harsey and Freyd (2023), [LIT-tmp9xidg](../literature.d/LIT-tmp9xidg.md).
 
 ## The result
 

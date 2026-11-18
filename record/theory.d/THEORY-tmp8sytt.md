@@ -18,19 +18,19 @@ source:
 corroborates:
 - CLAIM-tmpkivlz
 summary: >-
-  Johnson, interviewed by Ooms (2006), LIT-tmpvjyqr, read in full in
-  NOTE-tmpubjbq, as the read neighbour of Johnson 1995 (LIT-tmpozb57) and
-  Johnson 2008 (LIT-tmp5254i). It corroborates CLAIM-tmpkivlz, which does
+  Johnson, interviewed by Ooms (2006), [LIT-tmpvjyqr](../literature.d/LIT-tmpvjyqr.md), read in full in
+  [NOTE-tmpubjbq](../notes.d/NOTE-tmpubjbq.md), as the read neighbour of Johnson 1995 ([LIT-tmpozb57](../literature.d/LIT-tmpozb57.md)) and
+  Johnson 2008 ([LIT-tmp5254i](../literature.d/LIT-tmp5254i.md)). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), which does
   not rest on it: Johnson types violence by control context, not by a
   tally of acts. The wording is the reader's; adopting it is the owner's
   call.
 ---
 <!-- inactive-ok-file: LIT-tmpozb57 LIT-tmp5254i — Unfetched or Unavailable; the works this stands in for -->
-<!-- inactive-ok-file: NOTE-tmpubjbq CLAIM-tmpkivlz — new or Proposed; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; the reading and the claim it corroborates -->
 
 # THEORY-tmp8sytt: Johnson holds that intimate partner violence divides by its control context into situational couple violence, intimate terrorism and violent resistance, and that agency data and general surveys disagree about gender because they sample different types
 
-Johnson, interviewed by Ooms (2006), LIT-tmpvjyqr.
+Johnson, interviewed by Ooms (2006), [LIT-tmpvjyqr](../literature.d/LIT-tmpvjyqr.md).
 
 ## The account
 
@@ -46,7 +46,7 @@ disagree about gender (pp. 3–4).
 ## What it does not show
 
 - **Evidence.** It is an interview; the sampling claim and the figures are
-  asserted, not shown here. Hardesty et al. (2015), LIT-tmpjl3bp, give the
+  asserted, not shown here. Hardesty et al. (2015), [LIT-tmpjl3bp](../literature.d/LIT-tmpjl3bp.md), give the
   operational test.
 - **A fourth type.** Mutual violent control, which A's table credits to the
   2008 book, is not mentioned.

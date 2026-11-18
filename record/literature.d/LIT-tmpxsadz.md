@@ -9,7 +9,7 @@ status_note: >-
   publication page, possibly an author upload, answered HTTP 403 and was
   not retried; no course or repository copy turned up. A read neighbour
   stands in for part of it: Shoemaker's own "Blameworthy but Unblamable"
-  (2019), LIT-tmp1px3j, whose §VI restates the tripartite theory and
+  (2019), [LIT-tmp1px3j](LIT-tmp1px3j.md), whose §VI restates the tripartite theory and
   cites this paper. It stays Unavailable until a copy is supplied.
 title: 'Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility'
 version: 2
@@ -78,7 +78,7 @@ Registered from A110 (2026-11-17). It bears on [TERM-tmp8pnnr](../terms.d/TERM-t
 
 ## Note of 2026-11-18: the reading pass
 
-Not read; Unavailable (status note). **Shoemaker (2019)**, LIT-tmp1px3j,
+Not read; Unavailable (status note). **Shoemaker (2019)**, [LIT-tmp1px3j](LIT-tmp1px3j.md),
 stands in for the theory in its later form: three "radically independent"
 types, attributability (quality of character), answerability (quality of
 judgment, being "able in principle to answer the question, “Why did you do
@@ -93,4 +93,4 @@ already noted. Its "closer relationship to blame" holds for anger, which
 belongs to accountability; but Shoemaker also allows blame "in
 answerability terms", so accountability is tied to one kind of blame, not
 blame as such. Shoemaker's answerability, a capacity of the agent, is not
-the directed answerability of TERM-tmp4zjar.
+the directed answerability of [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md).

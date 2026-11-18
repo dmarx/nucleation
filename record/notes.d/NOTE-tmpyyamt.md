@@ -78,13 +78,13 @@ incentives is outside the frame.
 
 Designed friction; frictional AI; prosocial friction (Frischmann and
 Vardi); programmed inefficiencies (Cabitza et al.); cognitive forcing
-functions (Buçinca et al., LIT-2283, the paper's reference [3]); seamful
+functions (Buçinca et al., [LIT-2283](../literature.d/LIT-2283.md), the paper's reference [3]); seamful
 design; microboundaries; AI provocations; automation bias; deskilling;
 designer accountability.
 
 ## Bearing on the record
 
-- **CLAIM-tmp238zy** (cognitive friction differs from friction that makes
+- **[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)** (cognitive friction differs from friction that makes
   the institution answerable). Corroborates its premise. Every mechanism
   the paper names acts on the user's thinking; none gives the user
   authority to refuse, suspend or escalate. The paper also shows the
@@ -93,14 +93,14 @@ designer accountability.
   "designer accountability", concerns designers, not answerability to the
   people affected. It is evidence of the framing the claim describes, not
   an argument against it.
-- **LIT-2283** (cognitive forcing functions) is the paper's reference [3],
+- **[LIT-2283](../literature.d/LIT-2283.md)** (cognitive forcing functions) is the paper's reference [3],
   treated as one form of designed friction.
 - Bainbridge's "Ironies of automation", its reference [2], is held
-  (LIT-2222, LIT-2225); LIT-2224 (AI assistance and skill decay) bears on
+  ([LIT-2222](../literature.d/LIT-2222.md), [LIT-2225](../literature.d/LIT-2225.md)); [LIT-2224](../literature.d/LIT-2224.md) (AI assistance and skill decay) bears on
   its agenda item on skill retention.
 - Frischmann and Benesch, "Friction-in-design regulation" (2023), the
   regulatory form of the idea, is cited and not held; it may be worth
-  registering beside CLAIM-tmp238zy.
+  registering beside [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md).
 
 ## Verdict on the exchange's characterization
 

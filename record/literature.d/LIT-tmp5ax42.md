@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmp301qd) from the NIH author manuscript
+  read in full 2026-11-17 ([NOTE-tmp301qd](../notes.d/NOTE-tmp301qd.md)) from the NIH author manuscript
   in PubMed Central (PMC3730121); worth reading here as the experiment in
   which the experimenter's demonstrated reliability moved preschoolers'
   marshmallow wait-times fourfold. The supplement not read.
@@ -54,9 +54,9 @@ summary: >-
   the unreliable group 3 min 2 s, and 9 of 14 against 1 of 14 waited the
   full 15 minutes. Wait-times reflect a rational judgment of the
   environment's reliability as well as self-control. Read in
-  NOTE-tmp301qd; its account is THEORY-tmpca37k. It confirms the arm of
-  CASE-tmp07hx9 that reports it and supports the first half of
-  CLAIM-tmpt091d.
+  [NOTE-tmp301qd](../notes.d/NOTE-tmp301qd.md); its account is [THEORY-tmpca37k](../theory.d/THEORY-tmpca37k.md). It confirms the arm of
+  [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) that reports it and supports the first half of
+  [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md).
 ---
 <!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d THEORY-tmpca37k — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -79,8 +79,8 @@ Celeste Kidd, Holly Palmeri and Richard N. Aslin (2013). Rational snacking: Youn
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 and A53 as central to A51: children's waiting tracks experimentally manipulated evidence about the experimenter's reliability. It is the work [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) (the marshmallow task under reliable and unreliable experimenters) reports and the footing of [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md) (whoever controls a deferred reward controls whether waiting is good judgment). Not read.
 
-Read on 2026-11-17 (NOTE-tmp301qd). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmp301qd](../notes.d/NOTE-tmp301qd.md)). The exchange's characterization is
 faithful: A53's "children's waiting behavior responded significantly to
 experimentally manipulated evidence about the reliability of the adult".
-A's figures in CASE-tmp07hx9 check: 12.03 and 3.03 minutes (181.57 s; the
+A's figures in [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) check: 12.03 and 3.03 minutes (181.57 s; the
 paper's §4 rounds it to 3.02), N = 28, about a quarter as long.

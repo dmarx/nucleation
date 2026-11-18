@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpxgail) from the Legal Information Institute's
+  read 2026-11-17 ([NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md)) from the Legal Information Institute's
   full text; worth reading for its reasoning that a hearing must come
   while a deprivation can still be prevented, which grounds
-  CLAIM-tmpazi8a.
+  [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md).
 title: 'Fuentes v. Shevin, 407 U.S. 67 (1972)'
 version: 2
 history:
@@ -44,16 +44,16 @@ keywords:
 implementations: []
 summary: >-
   Fuentes v. Shevin, 407 U.S. 67 (1972), with Parham v. Cortese, decided
-  4–3, opinion by Stewart, J., read in NOTE-tmpxgail. Prejudgment
+  4–3, opinion by Stewart, J., read in [NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md). Prejudgment
   replevin statutes that let goods be seized from their possessor
   without a prior opportunity to be heard deny due process: the hearing
   must come "at a time when the deprivation can still be prevented",
   since "no later hearing and no damage award can undo the fact" of the
   taking, and the right "does not depend upon an advance showing that
-  one will surely prevail". It grounds CLAIM-tmpazi8a and corroborates
-  CLAIM-tmpl0sgt by analogy (THEORY-tmpi4yv4).
+  one will surely prevail". It grounds [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md) and corroborates
+  [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md) by analogy ([THEORY-tmpi4yv4](../theory.d/THEORY-tmpi4yv4.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpxgail THEORY-tmpi4yv4 — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpi4yv4 — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpazi8a — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpl0sgt — filed from the same exchange (2026-11-17), Proposed -->
 
@@ -63,7 +63,7 @@ Supreme Court of the United States (1972). *Fuentes v. Shevin*, 407 U.S. 67, dec
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpxgail).*
+*From the reading ([NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md)).*
 
 - The opportunity to be heard "must be granted at a time when the
   deprivation can still be prevented" (Part IV).
@@ -81,7 +81,7 @@ Supreme Court of the United States (1972). *Fuentes v. Shevin*, 407 U.S. 67, dec
 
 Registered from A59 (2026-11-16), at the owner's U27 on wrongful unilateral action. It bears on [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md) (acting before a recognized opportunity for intervention can take effect is a distinct wrong) and [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md). A paraphrases the opinion; the exact wording is to be checked on reading before anything quotes it. The record's other "Fuentes" ([LIT-2524](LIT-2524.md)) is a different author. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpxgail). A59's statement is a faithful close paraphrase
+Read on 2026-11-17 ([NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md)). A59's statement is a faithful close paraphrase
 of Part IV, not a quotation. A59's use of the case as the legal analogue of
 acting before intervention can take effect is the exchange's extension,
 well supported by the Court's "at a time when the deprivation can still be

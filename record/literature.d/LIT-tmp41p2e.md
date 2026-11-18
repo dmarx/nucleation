@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpv208p) from the publisher's version
+  read in full 2026-11-17 ([NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md)) from the publisher's version
   in Utrecht University's open repository; worth reading as the standard
   statement of the actor–forum account of accountability, which
-  corroborates CLAIM-tmpnhesz and places answerability inside
-  accountability, the reverse of TERM-tmp4zjar's nesting.
+  corroborates [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) and places answerability inside
+  accountability, the reverse of [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md)'s nesting.
 title: 'Analysing and Assessing Accountability: A Conceptual Framework'
 version: 2
 history:
@@ -45,7 +45,7 @@ keywords:
 implementations: []
 summary: >-
   Bovens (2007), European Law Journal 13(4): 447–468, read in
-  NOTE-tmpv208p. Accountability, narrowly, is "a relationship between an
+  [NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md). Accountability, narrowly, is "a relationship between an
   actor and a forum, in which the actor has an obligation to explain and
   to justify his or her conduct, the forum can pose questions and pass
   judgement, and the actor may face consequences"; whether a practice is
@@ -53,11 +53,11 @@ summary: >-
   four dimensions and assessing it from three perspectives.
   Answerability is its interrogation stage; forums are often not
   principals, and "the consequences are not necessarily brought upon the
-  actor by the forum itself". It corroborates CLAIM-tmpnhesz and
-  qualifies TERM-tmp4zjar; QUESTION-tmpea19q is left open
-  (THEORY-tmplvezc).
+  actor by the forum itself". It corroborates [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) and
+  qualifies [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md); [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md) is left open
+  ([THEORY-tmplvezc](../theory.d/THEORY-tmplvezc.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpv208p THEORY-tmplvezc — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmplvezc — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnhesz — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: TERM-tmp4zjar — filed from the same exchange (2026-11-17), Proposed -->
 
@@ -67,7 +67,7 @@ Mark Bovens (2007). "Analysing and Assessing Accountability: A Conceptual Framew
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpv208p).*
+*From the reading ([NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md)).*
 
 - The definition (p. 450): "a relationship between an actor and a forum, in
   which the actor has an obligation to explain and to justify his or her
@@ -88,7 +88,7 @@ Mark Bovens (2007). "Analysing and Assessing Accountability: A Conceptual Framew
 
 Registered from A83 (2026-11-17), at the owner's U35 on when power is answerable. It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md), [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md) (answerability) and [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) (answerability is directed and role-specific). Correction: the exchange names only "Mark Bovens's influential account"; this article is the standard statement of it. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpv208p). A83 is faithful, with two points to keep: for
+Read on 2026-11-17 ([NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md)). A83 is faithful, with two points to keep: for
 Bovens the possibility of consequences is constitutive, not optional; and he
-nests answerability inside accountability, so TERM-tmp4zjar's reverse
+nests answerability inside accountability, so [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md)'s reverse
 nesting is the record's own, not his.

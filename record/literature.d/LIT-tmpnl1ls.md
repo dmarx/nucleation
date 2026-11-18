@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  chapter 7 read in full 2026-11-17 (NOTE-tmpe43ee) as the read neighbour
-  of Rubel, Castro and Pham (2019), LIT-tmpqui4c, which could not be
+  chapter 7 read in full 2026-11-17 ([NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md)) as the read neighbour
+  of Rubel, Castro and Pham (2019), [LIT-tmpqui4c](LIT-tmpqui4c.md), which could not be
   fetched; the authors say the chapter reproduces that article "in large
   part". Worth reading here for agency laundering. The rest of the book
   is unread.
@@ -51,8 +51,8 @@ summary: >-
   conditions and tested on Facebook's ad targeting, Uber's surge pricing, a
   school district's value-added teacher evaluations and COMPAS in Loomis,
   two of which are not laundering. Humans in the loop can launder as well
-  as automation. Read in NOTE-tmpe43ee; THEORY-tmpwjlal. The read neighbour
-  of LIT-tmpqui4c.
+  as automation. Read in [NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md); [THEORY-tmpwjlal](../theory.d/THEORY-tmpwjlal.md). The read neighbour
+  of [LIT-tmpqui4c](LIT-tmpqui4c.md).
 ---
 <!-- inactive-ok-file: LIT-tmpqui4c THEORY-tmpwjlal — Unfetched or new; the article this stands in for, the chapter's reading and its account -->
 
@@ -81,7 +81,7 @@ Rubel, A., Castro, C. & Pham, A. (2021). *Algorithms and Autonomy: The Ethics of
 ## Standing in the record
 
 Registered as the read neighbour of Rubel, Castro and Pham (2019),
-LIT-tmpqui4c. It stands in closely: the acknowledgements say the article
+[LIT-tmpqui4c](LIT-tmpqui4c.md). It stands in closely: the acknowledgements say the article
 "is in large part reproduced as Chapter 7 here". It stands in for the
 definition, the account of the wrong, and the cases. Whether the
 discussion of Elish and humans in the loop (§7.7.2) is in the 2019 article

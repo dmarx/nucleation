@@ -80,18 +80,18 @@ amount of violence.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkivlz**: corroborates, empirically. The group differences in
+- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: corroborates, empirically. The group differences in
   fear, threat and harassment track the control context with the violence
   held constant, and a count of control tactics misclassifies controllers
   who "enforce them relentlessly". Both fit the claim that a tally of acts
   does not settle who dominates.
-- **CASE-tmpzt3zf**: the nonviolent coercive control group shows high
+- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)**: the nonviolent coercive control group shows high
   control with no violence at all, a plainer divergence of the two
   questions than Carol and Dan, and a documented one.
 
 ## Connections
 
-Stands in for Johnson (2008), LIT-tmp5254i, with Johnson as co-author. It
+Stands in for Johnson (2008), [LIT-tmp5254i](../literature.d/LIT-tmp5254i.md), with Johnson as co-author. It
 restates the book's two main types and that they are told apart by control
 context, and quotes the book once (p. 87). It does not restate violent
 resistance, mutual violent control, or the book's evidence.

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmp8pbdm), §§1–2 closely, from the current SEP
+  read 2026-11-17 ([NOTE-tmp8pbdm](../notes.d/NOTE-tmp8pbdm.md)), §§1–2 closely, from the current SEP
   entry (2024 revision); worth reading for how human rights are said to
   exist and be grounded, and for its independence of local law and its
   doubt that all human rights are inalienable, which bear on
-  QUESTION-tmptinzk.
+  [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).
 title: 'Human Rights'
 version: 2
 history:
@@ -47,15 +47,15 @@ summary: >-
   James Nickel (2003), with Adam Etinson from the 2024 revision. "Human
   Rights", Stanford Encyclopedia of Philosophy, first published 7
   February 2003, substantive revision 31 May 2024; read in
-  NOTE-tmp8pbdm. Human rights are plural, universal, high-priority
+  [NOTE-tmp8pbdm](../notes.d/NOTE-tmp8pbdm.md). Human rights are plural, universal, high-priority
   rights held "independently of whether such rights are present in the
   practices, morality, or law" of one's country; "It is doubtful that
   all human rights are inalienable"; their best existence combines law
   with "strong moral and practical reasons"; agency and dignity grounds
-  each seem to need supplementing. It bears on QUESTION-tmptinzk
-  (THEORY-tmpdi7ps).
+  each seem to need supplementing. It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md)
+  ([THEORY-tmpdi7ps](../theory.d/THEORY-tmpdi7ps.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmp8pbdm THEORY-tmpdi7ps — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpdi7ps — new; the reading of 2026-11-17 and its theory, Proposed -->
 
 # LIT-tmphl1ss: Human Rights
 
@@ -63,7 +63,7 @@ James Nickel (2003), with Adam Etinson from the 2024 revision. "Human Rights". *
 
 ## Key takeaways
 
-*From the reading (NOTE-tmp8pbdm).*
+*From the reading ([NOTE-tmp8pbdm](../notes.d/NOTE-tmp8pbdm.md)).*
 
 - "People have human rights independently of whether such rights are
   present in the practices, morality, or law of their country or culture"
@@ -81,7 +81,7 @@ James Nickel (2003), with Adam Etinson from the 2024 revision. "Human Rights". *
 
 Registered from A87 (2026-11-17). It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). A87 links it on its reading list; how much of §8 rests on it is to be checked on reading. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmp8pbdm). A87 is partly faithful: agency and dignity are
+Read on 2026-11-17 ([NOTE-tmp8pbdm](../notes.d/NOTE-tmp8pbdm.md)). A87 is partly faithful: agency and dignity are
 the two grounds discussed; "interests" is not among the grounds the entry
 lists, and "international practice" appears as a mode of existence and as
 the political view, not as a ground surveyed. Etinson is an author only

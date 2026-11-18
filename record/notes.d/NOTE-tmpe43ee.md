@@ -92,13 +92,13 @@ not be technological at all" (p. 160).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpwjlal.
+Filed as [THEORY-tmpwjlal](../theory.d/THEORY-tmpwjlal.md).
 
 - **Which of the original's results it restates.** By the authors' account,
   the 2019 article "in large part": the definition, the wrong and the
   cases. Whether the discussion of Elish and humans in the loop (§7.7.2) is
   in the article is not known.
-- **CLAIM-tmpb47ul**, the upstream half: an agent responsible in a domain
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the upstream half: an agent responsible in a domain
   can, through a process, obscure its causal role and escape the demand
   for an account. The chapter links this to Elish (p. 159): a human in the
   loop can be the laundering medium, which is the claim's downstream half.
@@ -106,10 +106,10 @@ Filed as THEORY-tmpwjlal.
   a failed account, and whether it can be inadvertent is left open, while
   the claim says "Neither concept requires a conscious mastermind".
   Corroborates.
-- **CLAIM-472** (choosing an apparatus is open to evaluation): Democratic
+- **[CLAIM-472](../claims.d/CLAIM-472.md)** (choosing an apparatus is open to evaluation): Democratic
   Chair and the COMPAS discussion put the account owed in "the decision to
   deploy the system" (p. 157). Corroborates.
-- **TERM-tmp8pnnr**: the chapter's role, causal and capacity responsibility
+- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: the chapter's role, causal and capacity responsibility
   is a neighbouring taxonomy of senses, with no constitutive sense.
 
 ## Limitations

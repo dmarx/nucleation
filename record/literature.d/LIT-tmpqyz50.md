@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmp6l52i) from the publisher's open-access PDF;
+  read 2026-11-17 ([NOTE-tmp6l52i](../notes.d/NOTE-tmp6l52i.md)) from the publisher's open-access PDF;
   worth reading here for its account of meaningful human control, tracking
   and tracing, and the duties it puts on designers toward operators.
 title: 'Meaningful Human Control over Autonomous Systems: A Philosophical Account'
@@ -52,7 +52,7 @@ summary: >-
   "in the loop" is not control; designers must not make the operator's
   check on the system "impossible or unduly difficult"; responsibility can
   trace upstream. Mostly military, with a sketch for automated driving.
-  Read in NOTE-tmp6l52i; THEORY-tmpnmvsj.
+  Read in [NOTE-tmp6l52i](../notes.d/NOTE-tmp6l52i.md); [THEORY-tmpnmvsj](../theory.d/THEORY-tmpnmvsj.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul THEORY-tmpnmvsj — filed now from the same exchange or new, temporary codes, Proposed or Open -->
 
@@ -74,7 +74,7 @@ Filippo Santoni de Sio and Jeroen van den Hoven (2018). Meaningful Human Control
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's framework for meaningful human control (tracking and tracing), which it extends with Tronto and Elish. Read on 2026-11-17 (NOTE-tmp6l52i). It corroborates the control-and-duty part of CLAIM-tmpb47ul and bears on QUESTION-tmpvoufs (THEORY-tmpnmvsj).
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's framework for meaningful human control (tracking and tracing), which it extends with Tronto and Elish. Read on 2026-11-17 ([NOTE-tmp6l52i](../notes.d/NOTE-tmp6l52i.md)). It corroborates the control-and-duty part of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) ([THEORY-tmpnmvsj](../theory.d/THEORY-tmpnmvsj.md)).
 
 **The exchange's characterization: faithful**, with one qualification:
 tracing needs "at least one" human who understands and can answer, not

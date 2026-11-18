@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-17 (NOTE-tmpzqo4b): selected sections of the Second
+  skimmed 2026-11-17 ([NOTE-tmpzqo4b](../notes.d/NOTE-tmpzqo4b.md)): selected sections of the Second
   Treatise (§§4, 6, 22–27, 95, 135–136, 149, 168, 222, 240) from
   Wikisource's transcription of the 1764 edition; worth reading for the
   argument that no one can confer a power he does not have, with its
   forfeiture exception, and for authority as a trust, which bear on
-  CLAIM-tmp6vck6 and QUESTION-tmpgeqju.
+  [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) and [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).
 title: 'Two Treatises of Government'
 version: 2
 history:
@@ -50,15 +50,15 @@ keywords:
 implementations: []
 summary: >-
   Locke (1689; title page 1690), Two Treatises of Government, Second
-  Treatise skimmed in NOTE-tmpzqo4b on the sections the exchange names.
+  Treatise skimmed in [NOTE-tmpzqo4b](../notes.d/NOTE-tmpzqo4b.md) on the sections the exchange names.
   No one, lacking power over his own life, "can, by compact, or his own
   consent, enslave himself", for "No body can give more power than he
   has himself" (§23), though life may be forfeited "by his fault"; the
   legislative cannot be absolutely arbitrary, "no body" having such
   power "over himself" (§135); it is "only a fiduciary power", and "The
   people shall be judge" of its breach (§§149, 240). It corroborates and
-  qualifies CLAIM-tmp6vck6 and bears on QUESTION-tmpgeqju
-  (THEORY-tmp50zaf).
+  qualifies [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) and bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md)
+  ([THEORY-tmp50zaf](../theory.d/THEORY-tmp50zaf.md)).
 ---
 <!-- inactive-ok-file: NOTE-tmpzqo4b THEORY-tmp50zaf — new; the skim of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CASE-tmpgp2qo — filed from the same exchange (2026-11-17), Proposed -->
@@ -70,7 +70,7 @@ John Locke (1689; title page 1690). *Two Treatises of Government*. A cites the *
 
 ## Key takeaways
 
-*From the sections read (NOTE-tmpzqo4b).*
+*From the sections read ([NOTE-tmpzqo4b](../notes.d/NOTE-tmpzqo4b.md)).*
 
 - "a man, not having the power of his own life, cannot, by compact, or his
   own consent, enslave himself to any one"; "No body can give more power
@@ -84,7 +84,7 @@ John Locke (1689; title page 1690). *Two Treatises of Government*. A cites the *
 
 Registered from A85 (2026-11-17), at the owner's U37 on inalienable rights; the labour account of property is named again in A93. It bears on [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) (inalienability as a limit on what any delegation can confer) and [CASE-tmpgp2qo](../cases.d/CASE-tmpgp2qo.md). The record holds only Locke's "Of Identity and Diversity" ([LIT-464](LIT-464.md)). A's section numbers are as the ledger reports (§23: a man "cannot by compact" enslave himself; §135). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Skimmed on 2026-11-17 (NOTE-tmpzqo4b). A85 is faithful to §§23–24 and 135. It
+Skimmed on 2026-11-17 ([NOTE-tmpzqo4b](../notes.d/NOTE-tmpzqo4b.md)). A85 is faithful to §§23–24 and 135. It
 omits Locke's forfeiture exception (§23), and its framing in terms of
 standing is not Locke's: his ground is that no one has power over his own
 life, persons being God's workmanship (§6).

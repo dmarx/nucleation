@@ -88,11 +88,11 @@ framing.
 
 ## Bearing on the record
 
-- **CASE-tmp07hx9**. Confirms what the case says it cannot show, "That
+- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)**. Confirms what the case says it cannot show, "That
   waiting predicts later life": the prediction is modest and largely
   explained by background. The paper does not test the reliability
   reading; it cites Kidd et al. only among factors affecting delay.
-- **CLAIM-tmpt091d**. Indirect: if wait-time is largely a marker of
+- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)**. Indirect: if wait-time is largely a marker of
   background, an environment's reliability is one consistent explanation,
   but trust is not measured here. Not filed as a relation.
 

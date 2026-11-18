@@ -87,25 +87,25 @@ tools.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpzdtc8.
+Filed as [THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md).
 
-- **CLAIM-022** (explaining practical efficacy does not settle whose the
+- **[CLAIM-022](../claims.d/CLAIM-022.md)** (explaining practical efficacy does not settle whose the
   will is) gets an instance in a new domain: a decision "technically made
   by a human" that does not express her judgement. Zeiser's remedy is an
   endorsement criterion, which he does not test against manipulated
-  endorsement, so CLAIM-022's point stands. Corroborates.
-- **QUESTION-068** (would settling whose a will-organization is settle
+  endorsement, so [CLAIM-022](../claims.d/CLAIM-022.md)'s point stands. Corroborates.
+- **[QUESTION-068](../questions.d/QUESTION-068.md)** (would settling whose a will-organization is settle
   accountability?): for AI decision support, no. Accountability can be
   had without attributability: a manager blamed for an employee's
   decision, and blame and liability kept by "blank check responsibility",
   though attributability is "a more robust basis" for them.
-- **TERM-tmp8pnnr**: its attributability sense ("Whose action, judgment,
+- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: its attributability sense ("Whose action, judgment,
   or institutional process was it?") is broader than Zeiser's (whose
   value-judgements a decision expresses). A source for the narrower sense.
-- **CLAIM-tmpb47ul**: a user can be accountable for a decision not
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**: a user can be accountable for a decision not
   attributable to her, one way blame and ownership diverge; Zeiser does
   not discuss blame landing downstream. No relation written.
-- **Santoni de Sio and van den Hoven (LIT-tmpqyz50)**: Zeiser places his
+- **Santoni de Sio and van den Hoven ([LIT-tmpqyz50](../literature.d/LIT-tmpqyz50.md))**: Zeiser places his
   account beside theirs, as the face of responsibility theirs leaves out.
 
 ## Limitations

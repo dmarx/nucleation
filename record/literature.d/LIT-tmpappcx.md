@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpxyktj) from a scan of the published article
+  read 2026-11-17 ([NOTE-tmpxyktj](../notes.d/NOTE-tmpxyktj.md)) from a scan of the published article
   hosted by the Universidad Veracruzana's psychology institute; worth
   reading here as the experiments behind the attentional account of
   waiting the exchange relays. OCR damage to the tables.
@@ -54,8 +54,8 @@ summary: >-
   distraction ("think fun") than when the children attended to or thought
   about the rewards (0.78 minutes when told to think about hidden
   rewards). Effective delay depended on suppressing attention to the
-  rewards. Read in NOTE-tmpxyktj; its account is THEORY-tmpqy5fx. It is
-  the attentional finding CASE-tmp07hx9 relays, with the correction that
+  rewards. Read in [NOTE-tmpxyktj](../notes.d/NOTE-tmpxyktj.md); its account is [THEORY-tmpqy5fx](../theory.d/THEORY-tmpqy5fx.md). It is
+  the attentional finding [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) relays, with the correction that
   the distraction was supplied, not chosen.
 ---
 <!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d THEORY-tmpqy5fx — Proposed; cited with their standing, entries this reading bears on or files -->
@@ -81,7 +81,7 @@ Walter Mischel, Ebbe B. Ebbesen and Antonette Raskoff Zeiss (1972). Cognitive an
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 as the attentional finding A builds on: how children wait depends on how the situation is organized. It bears on [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) and [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md). Not read.
 
-Read on 2026-11-17 (NOTE-tmpxyktj). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmpxyktj](../notes.d/NOTE-tmpxyktj.md)). The exchange's characterization is
 partly faithful: A51 says those "who redirected their attention away from
 the tempting reward often waited longer". The direction is right, but in
 these experiments the experimenters redirected attention, which, if

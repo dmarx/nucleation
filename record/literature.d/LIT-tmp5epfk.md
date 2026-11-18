@@ -86,18 +86,18 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 - **Verified through a neighbour**: the core of A15. Tronto's own
   definition, "the capability of the relatively privileged to refuse to
   accept unpleasant or burdensome responsibilities (privileged
-  irresponsibility)" (LIT-tmpu3eh7, p. 8).
+  irresponsibility)" ([LIT-tmpu3eh7](LIT-tmpu3eh7.md), p. 8).
 - **Not verified**: A15's causal clause, "because other people routinely
   perform that work on their behalf", and A17's "socially organized
   inattention". Neither is in any text read. The nearest is Tronto's coach
   image from Caring Democracy, "you pretend that you don't know all those
-  people pushing the carriage" (LIT-tmptnrz5), an image, not an account.
+  people pushing the carriage" ([LIT-tmptnrz5](LIT-tmptnrz5.md)), an image, not an account.
 - **Not verified**: which part of the book develops the concept, and with
   what examples.
 
 How far the neighbours stand in: for the term and its sense
-(LIT-tmpu3eh7), the definition of care (LIT-tmptq6ih), and that the
-concept runs through Tronto's books (LIT-tmptnrz5). They corroborate the
-upstream strand of CLAIM-tmpb47ul (THEORY-tmpna7qd, THEORY-tmpxw0zo).
+([LIT-tmpu3eh7](LIT-tmpu3eh7.md)), the definition of care ([LIT-tmptq6ih](LIT-tmptq6ih.md)), and that the
+concept runs through Tronto's books ([LIT-tmptnrz5](LIT-tmptnrz5.md)). They corroborate the
+upstream strand of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) ([THEORY-tmpna7qd](../theory.d/THEORY-tmpna7qd.md), [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md)).
 Nothing read bears on A19's extension to dashboards and invisible
-compensatory labour (CLAIM-614, CLAIM-657), nor on CLAIM-tmpe5u7i.
+compensatory labour ([CLAIM-614](../claims.d/CLAIM-614.md), [CLAIM-657](../claims.d/CLAIM-657.md)), nor on [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md).

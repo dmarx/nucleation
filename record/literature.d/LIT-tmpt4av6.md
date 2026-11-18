@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpndj02) from the National Archives
+  read in full 2026-11-17 ([NOTE-tmpndj02](../notes.d/NOTE-tmpndj02.md)) from the National Archives
   transcription; worth reading as the source text of "unalienable
   Rights", government by consent, and the people's right to alter or
   abolish government with its prudential threshold, which bear on
-  QUESTION-tmptinzk and QUESTION-tmpgeqju.
+  [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) and [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).
 title: 'The Declaration of Independence'
 version: 2
 history:
@@ -41,15 +41,15 @@ implementations: []
 summary: >-
   The Declaration of Independence ("In Congress, July 4, 1776. The
   unanimous Declaration of the thirteen united States of America"),
-  Second Continental Congress, read in NOTE-tmpndj02. All men are
+  Second Continental Congress, read in [NOTE-tmpndj02](../notes.d/NOTE-tmpndj02.md). All men are
   endowed with "certain unalienable Rights"; governments are instituted
   to secure them, "deriving their just powers from the consent of the
   governed"; "it is the Right of the People to alter or to abolish" a
   destructive government, though "not ... for light and transient
-  causes". It bears on QUESTION-tmptinzk and QUESTION-tmpgeqju
-  (THEORY-tmpylvcc).
+  causes". It bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) and [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md)
+  ([THEORY-tmpylvcc](../theory.d/THEORY-tmpylvcc.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpndj02 THEORY-tmpylvcc — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpylvcc — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpt4av6: The Declaration of Independence
@@ -58,7 +58,7 @@ Second Continental Congress (1776). *The Declaration of Independence*, adopted 4
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpndj02).*
+*From the reading ([NOTE-tmpndj02](../notes.d/NOTE-tmpndj02.md)).*
 
 - "endowed by their Creator with certain unalienable Rights, that among
   these are Life, Liberty and the pursuit of Happiness."
@@ -72,7 +72,7 @@ Second Continental Congress (1776). *The Declaration of Independence*, adopted 4
 
 Registered from A85 (2026-11-17), at the owner's U37. It bears on [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md), [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) (who has standing to change an arrangement's governing structure) and [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpndj02). A90 is faithful, close to verbatim.
+Read on 2026-11-17 ([NOTE-tmpndj02](../notes.d/NOTE-tmpndj02.md)). A90 is faithful, close to verbatim.
 It omits that the right to alter or abolish belongs to "the People", not to
 persons severally, and that it is bounded by a prudential threshold. The
 text asserts unalienability and gives no account of it.

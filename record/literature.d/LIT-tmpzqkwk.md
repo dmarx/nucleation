@@ -56,9 +56,9 @@ summary: >-
   10.1108/JEET-06-2026-0034; gold open access under CC BY. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as what A calls the
   most direct contemporary parallel to the owner's U11 on procedural
-  friction. It bears on CLAIM-tmp11xvc (the owner's U11: automation
+  friction. It bears on [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (the owner's U11: automation
   reduces procedural friction, where intervention is possible) and
-  CLAIM-tmph28l6. Unfetched: a copy was located and stopped at a bot
+  [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md). Unfetched: a copy was located and stopped at a bot
   check. What the exchange says of it is unverified.
 ---
 <!-- inactive-ok-file: CLAIM-tmp11xvc CLAIM-tmph28l6 — Proposed; cited with their standing, entries this reading bears on or files -->
@@ -77,6 +77,6 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 Sought on 2026-11-17: the open-access publisher PDF was located and
 stopped at a Cloudflare challenge, so the work is Unfetched and its bearing
-on CLAIM-tmp11xvc and CLAIM-tmph28l6 is left open. A23's sentence about
+on [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) and [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) is left open. A23's sentence about
 moving decisions from a "deliberative state" to an "executable state"
 cannot be judged until it is read.

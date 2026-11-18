@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmp2pb8c) from the authors' manuscript in Utrecht
+  read 2026-11-17 ([NOTE-tmp2pb8c](../notes.d/NOTE-tmp2pb8c.md)) from the authors' manuscript in Utrecht
   University's repository; worth reading here for its account of
   discretion moving from caseworkers to system designers, and of the
   accountability that move calls for. Not the typeset version.
@@ -56,8 +56,8 @@ summary: >-
   lies with the designers who translate law into algorithms. The
   constitutional question moves from legality to political accountability
   for design, and rigidity becomes the new arbitrariness. Read in
-  NOTE-tmp2pb8c; its account is THEORY-tmpd9o6w, which corroborates
-  CLAIM-410 and CLAIM-tmp11xvc.
+  [NOTE-tmp2pb8c](../notes.d/NOTE-tmp2pb8c.md); its account is [THEORY-tmpd9o6w](../theory.d/THEORY-tmpd9o6w.md), which corroborates
+  [CLAIM-410](../claims.d/CLAIM-410.md) and [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp11xvc THEORY-tmpd9o6w — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -81,7 +81,7 @@ Mark Bovens and Stavros Zouridis (2002). From Street-Level to System-Level Burea
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 as A's source for the migration of discretion from officials to system designers. It would ground [CLAIM-410](../claims.d/CLAIM-410.md) (authority eliminated, distributed or transferred), as the ledger notes, and bears on [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md) (automation reduces procedural friction). Not read.
 
-Read on 2026-11-17 (NOTE-tmp2pb8c). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmp2pb8c](../notes.d/NOTE-tmp2pb8c.md)). The exchange's characterization is
 faithful: A21 says computerization "could move discretion from officials
 handling individual cases to analysts and software designers", and the
 paper reports that it did, in two cases.

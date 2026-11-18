@@ -75,14 +75,14 @@ liberty, a claim and two powers; use rights.
 
 ## Bearing on the record
 
-- **CASE-tmp9vd9x.** Gives the incidents the recycler's owner holds (use,
+- **[CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md).** Gives the incidents the recycler's owner holds (use,
   exclusive possession, licence, transfer) and the owner's right to decide
   "whether or not others are affected", which is the case's threat to cut
   off supply; "continually in need of public justification" and the
   steward point are the counter-pressure the case relies on.
-- **QUESTION-tmpgeqju.** Common, collective and private property are three
+- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** Common, collective and private property are three
   answers to who decides; the entry does not ask who may change the regime.
-- **QUESTION-tmpea19q** and **CLAIM-tmpnhesz.** Private ownership is a
+- **[QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md)** and **[CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md).** Private ownership is a
   standard case of authority that owes no account ("without giving anyone
   else an explanation"), a boundary for any ground of answerability in
   consequential dependence.

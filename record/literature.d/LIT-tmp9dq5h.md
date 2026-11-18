@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpsuiyz) from arXiv:2608.30956v1; worth reading
+  read 2026-11-17 ([NOTE-tmpsuiyz](../notes.d/NOTE-tmpsuiyz.md)) from arXiv:2608.30956v1; worth reading
   here for its evidence that a deployer's upstream choices move
   counterfactual explanations as much as the explanation method does, and
   for its argument that recourse is relational. A preprint with one
@@ -54,8 +54,8 @@ summary: >-
   own threshold does. Such explanations rest on a "fixed model assumption"
   that brackets the deployer's contestable choices: they cannot by
   themselves justify a decision, and as recourse they cast the subject as
-  the only party who should change. Read in NOTE-tmpsuiyz; its account is
-  THEORY-tmpu63nn, which corroborates CLAIM-tmpohafo (explanation without
+  the only party who should change. Read in [NOTE-tmpsuiyz](../notes.d/NOTE-tmpsuiyz.md); its account is
+  [THEORY-tmpu63nn](../theory.d/THEORY-tmpu63nn.md), which corroborates [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (explanation without
   contestation).
 ---
 <!-- inactive-ok-file: CLAIM-tmpohafo THEORY-tmpu63nn — Proposed; cited with their standing, entries this reading bears on or files -->
@@ -80,7 +80,7 @@ Mattia Cerrato, Otto Sahlgren and Xenia Heilmann (2026). Taking the Whys Serious
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between recourse and contestability: counterfactual explanations leave the institution's upstream choices as background. It bears on [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (explanation, contestation and interruption are separate rights) and [CLAIM-410](../claims.d/CLAIM-410.md). The anthology may want it. Not read.
 
-Read on 2026-11-17 (NOTE-tmpsuiyz). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmpsuiyz](../notes.d/NOTE-tmpsuiyz.md)). The exchange's characterization is
 faithful: A19 says it "argues that counterfactual explanations can obscure
 the contestable choices made upstream", which is the paper's thesis. The
 framing "the distinction between recourse and contestability" is the

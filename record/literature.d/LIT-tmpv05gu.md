@@ -57,8 +57,8 @@ summary: >-
   a 2023 intellectual history by Rindzevičiūtė on reflexive control as an
   effort to make adversarial decision-making predictable; this book is the
   probable identification, not certain. Unavailable; nothing was read. It
-  bears on the record's reflexive-control thread, LIT-1339 and CLAIM-404,
-  and on CLAIM-tmp76x3e, all left open.
+  bears on the record's reflexive-control thread, [LIT-1339](LIT-1339.md) and [CLAIM-404](../claims.d/CLAIM-404.md),
+  and on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md), all left open.
 ---
 <!-- inactive-ok-file: CLAIM-tmp76x3e LIT-1339 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
 

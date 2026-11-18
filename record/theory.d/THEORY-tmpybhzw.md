@@ -13,17 +13,17 @@ date: '2026-11-18'
 source:
 - LIT-tmp5poa8
 summary: >-
-  Gaboriaud et al. (2024), LIT-tmp5poa8, read in full in NOTE-tmp3qe8i.
+  Gaboriaud et al. (2024), [LIT-tmp5poa8](../literature.d/LIT-tmp5poa8.md), read in full in [NOTE-tmp3qe8i](../notes.d/NOTE-tmp3qe8i.md).
   The authors conclude that the wrongness/blame distinction "must not be
-  overestimated". It carries no relation to CLAIM-tmpciy9q: it does not
+  overestimated". It carries no relation to [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md): it does not
   test arranged wrongs or observers' view of an arranger. The wording is
   the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmp3qe8i CLAIM-tmpciy9q — new or Proposed; the reading, and a claim it does not test -->
+<!-- inactive-ok-file: CLAIM-tmpciy9q — new or Proposed; the reading, and a claim it does not test -->
 
 # THEORY-tmpybhzw: Gaboriaud, Gautheron, Quinton and Smeding propose that intent, outcome and causality feed both wrongness and blame judgments with different weights, and find in one preregistered experiment that all three affect both judgments, intent most, while only causality weighs measurably more in blame
 
-Gaboriaud et al. (2024), LIT-tmp5poa8.
+Gaboriaud et al. (2024), [LIT-tmp5poa8](../literature.d/LIT-tmp5poa8.md).
 
 ## The result
 

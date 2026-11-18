@@ -79,21 +79,21 @@ surveys reach different kinds.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkivlz** (who harmed whom and who had power are separate
+- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)** (who harmed whom and who had power are separate
   questions): corroborates, in a domain-specific form. Johnson sorts
   violence by "the power and control issues involved", not by count or
   severity, and holds that "all three types" can be dangerous, so a
   dangerous act does not settle the control context. He does not speak to
   the culpability of each party's acts.
-- **CASE-tmpzt3zf** (Carol and Dan): Carol's strikes inside Dan's control
+- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)** (Carol and Dan): Carol's strikes inside Dan's control
   are what Johnson calls violent resistance. The case adds that her acts
   keep their own verdict; Johnson says only that a case "can sometimes be
   made" that such violence was justified.
 
 ## Connections
 
-Stands in for Johnson (1995), LIT-tmpozb57, and Johnson (2008),
-LIT-tmp5254i.
+Stands in for Johnson (1995), [LIT-tmpozb57](../literature.d/LIT-tmpozb57.md), and Johnson (2008),
+[LIT-tmp5254i](../literature.d/LIT-tmp5254i.md).
 
 - It restates the core of the 2008 typology: types distinguished by control
   context; intimate terrorism, situational couple violence and violent

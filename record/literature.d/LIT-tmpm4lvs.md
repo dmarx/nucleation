@@ -9,7 +9,7 @@ status_note: >-
   HTTP 403 with a Cloudflare challenge, not retried. A web search found no
   other lawful copy; the RePEc record points to the same AEA file. A read
   neighbour stands in for part of it: Moynihan, Herd & Harvey (2015),
-  LIT-tmp9urdb, for the authors' framework of learning, psychological and
+  [LIT-tmp9urdb](LIT-tmp9urdb.md), for the authors' framework of learning, psychological and
   compliance costs and burden as a political choice. It stays Unfetched
   until a copy is supplied.
 title: 'Administrative Burdens in the Social Safety Net'
@@ -58,12 +58,12 @@ summary: >-
   because A cites it in the exchange "Assess Depp Heard Abuse" for
   learning, compliance and psychological costs. Unfetched: the free
   publisher PDF stopped at a bot check. The authors' framework, as their
-  2015 article states it, is read in the neighbour LIT-tmp9urdb: burden as
+  2015 article states it, is read in the neighbour [LIT-tmp9urdb](LIT-tmp9urdb.md): burden as
   learning, psychological and compliance costs, with its level and
   distribution often a deliberate political choice. That neighbour's
   burdens are costs of reaching an entitlement, so its bearing on
-  CLAIM-tmph28l6 is a qualification, not support; on CLAIM-669 it has
-  none. The 2018 book is LIT-1609.
+  [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) is a qualification, not support; on [CLAIM-669](../claims.d/CLAIM-669.md) it has
+  none. The 2018 book is [LIT-1609](LIT-1609.md).
 ---
 <!-- inactive-ok-file: CLAIM-669 CLAIM-tmph28l6 LIT-1609 — Deferred, Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -82,7 +82,7 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 Sought on 2026-11-17: the free publisher PDF stopped at a Cloudflare
 challenge, so the work is Unfetched. How far the read neighbour stands in:
 
-- **Moynihan, Herd & Harvey (2015)**, LIT-tmp9urdb, read in part. It gives
+- **Moynihan, Herd & Harvey (2015)**, [LIT-tmp9urdb](LIT-tmp9urdb.md), read in part. It gives
   the three-part decomposition A23 attributes to this review, in the
   authors' own words: burden "is conceptualized as a function of learning,
   psychological, and compliance costs". A's characterization is faithful

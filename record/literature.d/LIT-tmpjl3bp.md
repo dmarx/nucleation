@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpd9qyv) from the author manuscript in
+  read in full 2026-11-17 ([NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md)) from the author manuscript in
   PubMed Central (PMC4553695), as a read neighbour of Johnson (2008),
-  LIT-tmp5254i, which could not be read; Johnson is its last author. Worth
+  [LIT-tmp5254i](LIT-tmp5254i.md), which could not be read; Johnson is its last author. Worth
   reading here for an operational test of the typology's two main types
   and for its finding that the group differences track the control
   context with the amount of violence held constant.
@@ -51,10 +51,10 @@ summary: >-
   even with the frequency and severity of violence held constant, so the
   differences "reflect the control context rather than differences in
   violence". Registered as the read neighbour of Johnson 2008,
-  LIT-tmp5254i. It corroborates CLAIM-tmpkivlz.
+  [LIT-tmp5254i](LIT-tmp5254i.md). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md).
 ---
 <!-- inactive-ok-file: LIT-tmp5254i — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmpd9qyv CLAIM-tmpkivlz — new or Proposed; this work's reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; this work's reading and the claim it corroborates -->
 
 # LIT-tmpjl3bp: Toward a Standard Approach to Operationalizing Coercive Control and Classifying Violence Types
 
@@ -81,7 +81,7 @@ Hardesty, J. L., Crossman, K. A., Haselschwerdt, M. L., Raffaelli, M., Ogolsky, 
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Johnson (2008),
-LIT-tmp5254i. It quotes the book once ("Control is a continuum. Everyone
+[LIT-tmp5254i](LIT-tmp5254i.md). It quotes the book once ("Control is a continuum. Everyone
 ‘controls’ their partner to some extent", p. 87) and applies its two main
 types. It says nothing of violent resistance or of mutual violent control.
 One county, divorcing mothers only, mothers' reports only, a 24% response

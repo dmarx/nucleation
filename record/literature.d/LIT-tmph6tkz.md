@@ -11,7 +11,7 @@ status_note: >-
   working paper no. 495 at https://dspace.mit.edu/handle/1721.1/64099 was
   not tried after the same host returned a 429 page for another file. None
   was retried. A read neighbour stands in for part of it: Hart (2016),
-  LIT-tmpvz7ds, his Nobel lecture, for the paper's place in property
+  [LIT-tmpvz7ds](LIT-tmpvz7ds.md), his Nobel lecture, for the paper's place in property
   rights theory and two of its results. It stays Unfetched until a copy is
   supplied.
 title: 'Property Rights and the Nature of the Firm'
@@ -56,12 +56,12 @@ summary: >-
   Oliver Hart and John Moore (1990). Property Rights and the Nature of the
   Firm. Journal of Political Economy 98(6): 1119–1158. Here because A
   cites it in the exchange "Assess Depp Heard Abuse" as the follow-up to
-  Grossman and Hart (1986), LIT-tmpjy1vu, on residual control rights.
+  Grossman and Hart (1986), [LIT-tmpjy1vu](LIT-tmpjy1vu.md), on residual control rights.
   Unfetched: repository and author copies stopped at rate limits and an
-  access denial. By Hart's own account (LIT-tmpvz7ds) it generalizes
+  access denial. By Hart's own account ([LIT-tmpvz7ds](LIT-tmpvz7ds.md)) it generalizes
   Grossman–Hart to many assets and workers and to joint ownership, and
   shows that synergistic assets should be owned together and assets owned
-  by indispensable human capital. It bears on CLAIM-tmpdic1g.
+  by indispensable human capital. It bears on [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpdic1g — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -83,10 +83,10 @@ characterization, the follow-up to Grossman and Hart (1986), is confirmed
 by the neighbour ("I developed the ideas and model further in work with
 John Moore"). How far the read neighbour stands in:
 
-- **Hart (2016)**, LIT-tmpvz7ds, read in part. It gives this paper's place
+- **Hart (2016)**, [LIT-tmpvz7ds](LIT-tmpvz7ds.md), read in part. It gives this paper's place
   in the theory and states two of its results in a sentence each:
   synergistic assets "should be owned together" and assets "should be
-  owned by indispensable human capital". It also qualifies CLAIM-tmpdic1g's
+  owned by indispensable human capital". It also qualifies [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md)'s
   worker example: power over a worker runs through the assets she needs
   and her replaceability.
 - **Not carried by anything read**: the paper's model, definitions,

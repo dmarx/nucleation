@@ -94,7 +94,7 @@ rules; vacatur and remand.
 
 ## Bearing on the record
 
-- **CLAIM-tmpw7pli.** A documented specimen of the claim. The Cable directs
+- **[CLAIM-tmpw7pli](../claims.d/CLAIM-tmpw7pli.md).** A documented specimen of the claim. The Cable directs
   refusal even after the applicant's evidence "overcomes the public charge
   refusal", and the court finds eligibility determinations "ultimately
   irrelevant". The court found the individualized assessment not displaced
@@ -103,12 +103,12 @@ rules; vacatur and remand.
   considered". The "Orwellian logic" passage supports the claim's point
   that compliance does not establish authority. The opinion says nothing of
   moral justification, which the claim keeps separate.
-- **CASE-tmpoe934.** The opinion confirms the case's dates, judge,
+- **[CASE-tmpoe934](../cases.d/CASE-tmpoe934.md).** The opinion confirms the case's dates, judge,
   holdings and remedy, and the nationality-discrimination holding the case
   gives only as reported. It adds that the court rejected the public-charge
   argument and ruled for the Government on notice-and-comment, and it shows
   that the Cable ordered refusal, not only a pause.
-- **CLAIM-tmpc7shc.** The court's rejection of officer-entered refusals as
+- **[CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md).** The court's rejection of officer-entered refusals as
   preserved discretion bears on it.
 - The exchange's A108 is faithful on the remedy and omits the nationality
   and § 1201(g) holdings and the rejected public-charge argument.

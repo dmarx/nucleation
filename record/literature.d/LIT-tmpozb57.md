@@ -90,9 +90,9 @@ Not read; Unfetched (status note). **The exchange's characterization is
 wrong on the name.** A3 says "Johnson originally called the second category
 *intimate terrorism*". The paper's own title calls it "Patriarchal
 Terrorism", and its other type "Common Couple Violence". "Intimate
-terrorism" is the later term: Johnson in 2006, LIT-tmpvjyqr, speaks of
+terrorism" is the later term: Johnson in 2006, [LIT-tmpvjyqr](LIT-tmpvjyqr.md), speaks of
 "what I call “intimate terrorism,”", and Hardesty et al. (2015),
-LIT-tmpjl3bp, equate it with "coercive controlling violence". The paper's
+[LIT-tmpjl3bp](LIT-tmpjl3bp.md), equate it with "coercive controlling violence". The paper's
 content is unverified.
 
 How far the neighbours stand in: not far. Both are later and use the later

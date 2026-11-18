@@ -91,22 +91,22 @@ correlatives; operative and evidential facts; legal against physical power.
 
 ## Bearing on the record
 
-- **CLAIM-tmpa0wdv.** The source of A87 §2's separation of CanPhysically
+- **[CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md).** The source of A87 §2's separation of CanPhysically
   from Power_N: legal power "as distinguished ... from a mental or physical
   power", and "the physical power to do the things necessary" for its
   exercise, kept apart (pp. 44, 52). A wrongdoer's physical power over the
   world is not a power over the legal relation.
-- **CLAIM-tmp6vck6.** Bears out A87 §4's correction, that an immunity is a
+- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** Bears out A87 §4's correction, that an immunity is a
   limit on another's power: "an immunity is one's freedom from the legal
   power or 'control' of another" (p. 55). A holder's inability to alienate
   would be a disability of the holder, a relation Hohfeld names but does not
   apply to inalienable rights.
-- **CLAIM-tmpnb4v4.** Hohfeld's positions are independent in the same way
+- **[CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md).** Hohfeld's positions are independent in the same way
   the claim's rights, demands and commitments are: a claim implies no
   privilege, and a privilege no protective claim. He says nothing of
   demands or commitments, and the claim's own body warns that a Hohfeldian
   claim-right is not the record's CLAIM.
-- **CLAIM-tmpssfc1, CLAIM-tmplidg6, CLAIM-tmpcpijj.** The vocabulary they
+- **[CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md), [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).** The vocabulary they
   use: changes in legal relations come from facts outside anyone's control
   or from a power exercised by the one "whose volitional control is
   paramount"; powers and immunities are separate relations, so holding one

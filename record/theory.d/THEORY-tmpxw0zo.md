@@ -21,18 +21,18 @@ corroborates:
 bears_on:
 - QUESTION-tmpvoufs
 summary: >-
-  Tronto (2014), slides, LIT-tmptq6ih, read in full in NOTE-tmpfpn7t, as a
-  read neighbour of Caring Democracy (LIT-tmpsm285, Unavailable). Exemption
-  and exclusion corroborate the upstream half of CLAIM-tmpb47ul, which does
+  Tronto (2014), slides, [LIT-tmptq6ih](../literature.d/LIT-tmptq6ih.md), read in full in [NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md), as a
+  read neighbour of Caring Democracy ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md), Unavailable). Exemption
+  and exclusion corroborate the upstream half of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md), which does
   not rest on them: parties with standing shed care obligations onto
-  others. Equal voice in the allocating bears on QUESTION-tmpvoufs. The
+  others. Equal voice in the allocating bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md). The
   wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpsm285 CLAIM-tmpb47ul — Unavailable, Proposed or new; the work this stands in for, the slides and their reading, and the entries it bears on -->
 
 # THEORY-tmpxw0zo: Democracy, on Tronto's account, is the allocation of caring responsibilities in a political community, with equal voice for all in making the allocations; care is misallocated by excluding those one wants to saddle with the hardest tasks, and by exempting oneself through appeal to more important duties such as protection and production
 
-Tronto (2014), LIT-tmptq6ih, read in NOTE-tmpfpn7t.
+Tronto (2014), [LIT-tmptq6ih](../literature.d/LIT-tmptq6ih.md), read in [NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md).
 
 ## The account
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpmsxf9) from the publisher's typeset version on
+  read 2026-11-17 ([NOTE-tmpmsxf9](../notes.d/NOTE-tmpmsxf9.md)) from the publisher's typeset version on
   the author's site; worth reading here as evidence that an opposition
   holding autocratic institutions changed governance in them while the
   regime kept the rules of access to the larger arrangement. The online
@@ -55,8 +55,8 @@ summary: >-
   no effect on hidden assets, and systemic and nonsystemic opposition
   councils did not differ significantly. The regime kept the municipal
   filter and, in 2022, blocked candidates and used fraud. Read in
-  NOTE-tmpmsxf9; its account is THEORY-tmp0muvf, which corroborates
-  CLAIM-tmpm95mo.
+  [NOTE-tmpmsxf9](../notes.d/NOTE-tmpmsxf9.md); its account is [THEORY-tmp0muvf](../theory.d/THEORY-tmp0muvf.md), which corroborates
+  [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpm95mo THEORY-tmp0muvf — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -80,10 +80,10 @@ David Szakonyi (2025; issue 2026). Opposition rule under autocracy: Evidence fro
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 as A's counterexample: opposition inside an authoritarian environment produced measurable changes. It is the defeat condition of [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md), in the ledger's reading: ineffectiveness alone is not evidence of control. Not read.
 
-Read on 2026-11-17 (NOTE-tmpmsxf9). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmpmsxf9](../notes.d/NOTE-tmpmsxf9.md)). The exchange's characterization is
 faithful: A37's reduced opportunities "to extract financial benefits from
 public office, partly through more competitive procurement and reduced
 spending" is the abstract's. The effect is for opposition majorities, and
-on reported income. For CLAIM-tmpm95mo it is both A's counterexample and
+on reported income. For [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) it is both A's counterexample and
 an instance: real local change, with the regime holding the rules of
 access to the larger arrangement.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-17 (NOTE-tmp3eo5h) through the publisher's series page
+  skimmed 2026-11-17 ([NOTE-tmp3eo5h](../notes.d/NOTE-tmp3eo5h.md)) through the publisher's series page
   and written companion only; the episode pages returned HTTP 500 (a
   server error) on 2026-11-17 and the audio was not heard, and no
   transcript was found on tortoisemedia.com. Worth reading here for its
@@ -60,8 +60,8 @@ summary: >-
   coordinated pro-Depp networks, bot networks in Thailand and Spain, and
   accounts whose deleted Arabic posts praised the Saudi regime. The
   wording is hedged, the methods unseen, and no party to the dispute is
-  said to have organized it. Skimmed in NOTE-tmp3eo5h; its report is
-  THEORY-tmp3eaob.
+  said to have organized it. Skimmed in [NOTE-tmp3eo5h](../notes.d/NOTE-tmp3eo5h.md); its report is
+  [THEORY-tmp3eaob](../theory.d/THEORY-tmp3eaob.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpciy9q NOTE-tmp3eo5h THEORY-tmp3eaob — Proposed, Skimmed; cited with their standing, entries this reading bears on or files -->
 
@@ -79,13 +79,13 @@ were not heard.*
 - "In Chen's opinion, more than 50 per cent of the tweets in the database
   came from inauthentic accounts."
 - The companion gives the UK finding as abuse "on 12 occasions", which
-  agrees with the judgment (LIT-tmpqju5l, para 575).
+  agrees with the judgment ([LIT-tmpqju5l](LIT-tmpqju5l.md), para 575).
 
 ## Standing in the record
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A2 as A's evidence that the apparent online consensus about the trial was partly manufactured. It bears on [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) as evidence about how public judgments of the dispute were shaped; A itself limits it (no finding that Depp organized the activity, or that it affected the jury). Not read.
 
-Skimmed on 2026-11-17 (NOTE-tmp3eo5h), from the publisher's pages only.
+Skimmed on 2026-11-17 ([NOTE-tmp3eo5h](../notes.d/NOTE-tmp3eo5h.md)), from the publisher's pages only.
 The exchange's characterization is faithful as to what Tortoise reports:
 A2's "evidence of coordinated, inauthentic pro-Depp social-media
 activity" matches the companion piece, whose own wording is hedged.

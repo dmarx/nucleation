@@ -99,24 +99,24 @@ informatization review.
 
 ## Bearing on the record
 
-- **CLAIM-410** (governing positions eliminated, distributed or
+- **[CLAIM-410](../claims.d/CLAIM-410.md)** (governing positions eliminated, distributed or
   transferred). Corroborates its "transferred" case: discretion in
   applying rules leaves the caseworker and passes to designers, and the
   accountability owed changes with the locus ("political control and
   accountability rather than ... legality"). The traffic-fine case also
   eliminates the prosecutor's and judge's case-level discretion.
-- **CLAIM-tmp11xvc** (reducing procedural friction removes places where a
+- **[CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md)** (reducing procedural friction removes places where a
   process could be stopped or redirected). Corroborates. In both cases
   the human points at which a case could be weighed or redirected are
   gone; the only one left is one the citizen must open by objection or
   appeal. Hardship clauses and panels are attempts to put such points
   back. The paper does not use the language of friction.
-- **CLAIM-671** (a transformation that raises vulnerability to a
+- **[CLAIM-671](../claims.d/CLAIM-671.md)** (a transformation that raises vulnerability to a
   responsible agent's discretion can strengthen that agent's duties).
   Related: vulnerability moves from the caseworker's discretion to the
   designer's, and the authors argue new accountability for designers from
   it. Not filed as a relation.
-- **LIT-tmp7wp1i** (Citron) is the US counterpart; the two converge on
+- **[LIT-tmp7wp1i](../literature.d/LIT-tmp7wp1i.md)** (Citron) is the US counterpart; the two converge on
   audit or supervision, public access to the system's logic and channels
   for exceptions.
 

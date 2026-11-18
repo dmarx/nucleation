@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpjth7b) from the PDF on the NYU School
+  read in full 2026-11-17 ([NOTE-tmpjth7b](../notes.d/NOTE-tmpjth7b.md)) from the PDF on the NYU School
   of Law site; worth reading as Scanlon's current statement of
   contractualism, of what he now retracts from What We Owe to Each
   Other, and of the distinct wrong of failing to help establish a needed
-  norm, which corroborates CLAIM-tmpes6ef.
+  norm, which corroborates [CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md).
 title: 'Contractualism and Intuitionism'
 version: 2
 history:
@@ -45,7 +45,7 @@ keywords:
 implementations: []
 summary: >-
   Scanlon (2025), "Contractualism and Intuitionism", NYU colloquium
-  draft, read in NOTE-tmpjth7b. Contractualism as "reductive and
+  draft, read in [NOTE-tmpjth7b](../notes.d/NOTE-tmpjth7b.md). Contractualism as "reductive and
   interactive" justification: wrongness turns on the sufficiency of
   personal reasons for rejecting a principle, weighed against others'.
   It adds the Principle of Established Practices and the distinct wrong
@@ -53,10 +53,10 @@ summary: >-
   a needed norm is missing; retracts the 1998 book's bilateral
   interpretation and its account of aggregation; and concedes that
   relevance is "broadly speaking a moral question", which weakens the
-  reductive view. It corroborates CLAIM-tmpes6ef and bears on
-  QUESTION-tmpk7u3e and QUESTION-tmpkqvxv (THEORY-tmplw93g).
+  reductive view. It corroborates [CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md) and bears on
+  [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) and [QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md) ([THEORY-tmplw93g](../theory.d/THEORY-tmplw93g.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpjth7b THEORY-tmplw93g — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmplw93g — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpes6ef — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpyn6oi — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: LIT-tmp06l3b — registered from the same exchange (2026-11-17), Unavailable -->
@@ -67,7 +67,7 @@ T. M. Scanlon (2025). "Contractualism and Intuitionism". Paper for the NYU Schoo
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpjth7b).*
+*From the reading ([NOTE-tmpjth7b](../notes.d/NOTE-tmpjth7b.md)).*
 
 - The 1998 formulation has "some serious problems, but I don't regret
   offering it" (p. 1); its account of interpersonal aggregation "now seems
@@ -84,7 +84,7 @@ T. M. Scanlon (2025). "Contractualism and Intuitionism". Paper for the NYU Schoo
 
 Registered from A100 (2026-11-17), the interlocutor of the owner's U44 and of A102-A106. It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md), [QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md), [CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md) (on failing to do one's part in establishing a needed norm) and [CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md). It revises [LIT-tmp06l3b](LIT-tmp06l3b.md). The ledger fetched the PDF and found A's descriptions faithful; this entry does not rely on that until it is read. The PDF is lawfully public; reading it is the next step. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpjth7b). A100 and A102 are faithful. A102's
+Read on 2026-11-17 ([NOTE-tmpjth7b](../notes.d/NOTE-tmpjth7b.md)). A100 and A102 are faithful. A102's
 "significant problems" is A's word for "some serious problems", and A102's
-"may itself be morally problematic" (in CLAIM-tmpes6ef) understates
+"may itself be morally problematic" (in [CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md)) understates
 Scanlon, who calls the failure to help establish a needed norm wrong.

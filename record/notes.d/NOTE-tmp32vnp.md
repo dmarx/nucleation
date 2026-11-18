@@ -97,24 +97,24 @@ the citizens' control.
 
 ## Bearing on the record
 
-- **CLAIM-523** (legibility, volitional efficacy and correctability can
+- **[CLAIM-523](../claims.d/CLAIM-523.md)** (legibility, volitional efficacy and correctability can
   fail separately). Corroborates. Informing and consultation make
   citizens' views legible while giving them no efficacy ("no assurance
   that citizen concerns and ideas will be taken into account");
   placation shows efficacy failing through the powerholders' majority.
-- **CLAIM-403** (admission, recognition, credibility, uptake and a part in
+- **[CLAIM-403](../claims.d/CLAIM-403.md)** (admission, recognition, credibility, uptake and a part in
   revising the standards of uptake are separable). Corroborates.
   Informing and consultation are admission without uptake, and
   partnership's ground rules "not subject to unilateral change" are the
   last stage, a part in setting the terms of uptake.
-- **CLAIM-tmpm95mo** (an independent opposition whose capacity to change
+- **[CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md)** (an independent opposition whose capacity to change
   the arrangement is contained by another's control). Corroborates, with
   three instances: citizen majorities under the city council's "final
   veto powers" (p. 222); community control without sufficient resources
   (p. 224); and placation's dependence on technical assistance the
   citizens do not control (p. 220). Her conditions for real partnership
   (own funds, own technicians, fixed ground rules) are the converse.
-- **CLAIM-tmpi68s2** (an objection is effective only if formulable,
+- **[CLAIM-tmpi68s2](../claims.d/CLAIM-tmpi68s2.md)** (an objection is effective only if formulable,
   legible, taken up, sustainable, corrected and maintained). Related, not
   filed as a relation: technical assistance (formulable), one-way
   informing (not taken up) and paid staff (sustainable) map onto its

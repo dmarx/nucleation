@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-17 (NOTE-tmpzchma) from Princeton University Press's
+  skimmed 2026-11-17 ([NOTE-tmpzchma](../notes.d/NOTE-tmpzchma.md)) from Princeton University Press's
   free sample of the 2020 edition (Introduction, contents, index); worth
   reading for the basic-rights thesis and for its correlative duties of
   avoidance, protection and aid, which the record has cited under the
@@ -47,14 +47,14 @@ keywords:
 implementations: []
 summary: >-
   Shue (1980; 2nd ed. 1996; 40th-anniversary ed. 2020), Basic Rights,
-  skimmed in NOTE-tmpzchma (Introduction and index). Rights to
+  skimmed in [NOTE-tmpzchma](../notes.d/NOTE-tmpzchma.md) (Introduction and index). Rights to
   subsistence, security and liberty are basic, so "at least one small
   set of what are normally counted as economic rights belongs among the
   rights with the highest priority"; the main task is to answer the
   objection that the duties "would ask too much of others". The index
   gives the correlative duties as "of avoidance, protection and aid",
-  not the treaty bodies' "respect, protect and fulfil" that TERM-085
-  attributes to Shue. Bears weakly on CLAIM-tmpes6ef (THEORY-tmpwtcj0).
+  not the treaty bodies' "respect, protect and fulfil" that [TERM-085](../terms.d/TERM-085.md)
+  attributes to Shue. Bears weakly on [CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md) ([THEORY-tmpwtcj0](../theory.d/THEORY-tmpwtcj0.md)).
 ---
 <!-- inactive-ok-file: NOTE-tmpzchma THEORY-tmpwtcj0 — new; the skim of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpes6ef — filed from the same exchange (2026-11-17), Proposed -->
@@ -65,7 +65,7 @@ Henry Shue (1980). *Basic Rights: Subsistence, Affluence, and U.S. Foreign Polic
 
 ## Key takeaways
 
-*From the Introduction and index (NOTE-tmpzchma); chapter 2 unread.*
+*From the Introduction and index ([NOTE-tmpzchma](../notes.d/NOTE-tmpzchma.md)); chapter 2 unread.*
 
 - "Part I attempts to show that rights to three particular
   substances—subsistence, security, and liberty—are basic rights" (p. 9).
@@ -79,9 +79,9 @@ Henry Shue (1980). *Basic Rights: Subsistence, Affluence, and U.S. Foreign Polic
 
 Registered from A87 (2026-11-17). It bears on [CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md) (the duties to comply, to support and to establish are distinct). Correction: the exchange gives no year. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Skimmed on 2026-11-17 (NOTE-tmpzchma). A87's three duties (to avoid depriving, to
+Skimmed on 2026-11-17 ([NOTE-tmpzchma](../notes.d/NOTE-tmpzchma.md)). A87's three duties (to avoid depriving, to
 protect, to aid) match the index's "avoidance, protection and aid"; Shue's
-own wording in chapter 2 is unread. TERM-085's "respect, protect and fulfil
+own wording in chapter 2 is unread. [TERM-085](../terms.d/TERM-085.md)'s "respect, protect and fulfil
 (Shue's Basic Rights, 1980, and the UN treaty bodies' usage)" runs Shue's
 triad together with the treaty bodies' later one; a correction is proposed
 on that term.

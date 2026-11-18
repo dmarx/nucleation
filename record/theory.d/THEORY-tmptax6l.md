@@ -19,18 +19,18 @@ source:
 bears_on:
 - QUESTION-068
 summary: >-
-  King (2013), LIT-tmpcg293, read in full in NOTE-tmplo4r7, as the read
-  neighbour of Watson 1996 (LIT-tmpmsh0d). It bears on QUESTION-068:
+  King (2013), [LIT-tmpcg293](../literature.d/LIT-tmpcg293.md), read in full in [NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), as the read
+  neighbour of Watson 1996 ([LIT-tmpmsh0d](../literature.d/LIT-tmpmsh0d.md)). It bears on [QUESTION-068](../questions.d/QUESTION-068.md):
   accountability needs fairness and standing, which ownership of the act
   does not supply. The wording is the reader's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpmsh0d — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmplo4r7 QUESTION-068 — new or Deferred; the reading and the question it bears on -->
+<!-- inactive-ok-file: QUESTION-068 — new or Deferred; the reading and the question it bears on -->
 
 # THEORY-tmptax6l: King holds that responsibility as attributability carries desert as fittingness and responsibility as accountability carries desert as fairness, which depends also on the blamer's standing and the agent's opportunity to avoid sanction, and that neither notion of desert extends to the other face
 
-King (2013), LIT-tmpcg293, after Watson (1996), LIT-tmpmsh0d.
+King (2013), [LIT-tmpcg293](../literature.d/LIT-tmpcg293.md), after Watson (1996), [LIT-tmpmsh0d](../literature.d/LIT-tmpmsh0d.md).
 
 ## The account
 

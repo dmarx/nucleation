@@ -92,20 +92,20 @@ pleasant.
 
 ## Bearing on the record
 
-- **CASE-tmp07hx9** (the Mischel arm). Confirms it, with a correction: the
+- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)** (the Mischel arm). Confirms it, with a correction: the
   attention was redirected by the experimenters, not by the children of
   their own accord, and the children did not know the strategy
   beforehand. That fits the case's point that "waiting depended partly on
   how the situation was organized", and shows waiting bounded by the
   reward contingency.
-- **CLAIM-344** (resolve as a maintained organization), which the case
+- **[CLAIM-344](../claims.d/CLAIM-344.md)** (resolve as a maintained organization), which the case
   illustrates. Consistent with the case's use of it, restraint as
   organization rather than force ("effective self-control may hinge on
   transforming the difficult into the easy"), but the paper is about
   attention in one paradigm, not about resolve; not filed as a relation.
-- **CLAIM-tmpt091d**. Holds fixed the variable the claim turns on: bell
+- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)**. Holds fixed the variable the claim turns on: bell
   training shows the experimenter returns, so reliability is not tested.
-- **LIT-554 / NOTE-429 / THEORY-680** (Gross on emotion regulation). This
+- **[LIT-554](../literature.d/LIT-554.md) / [NOTE-429](NOTE-429.md) / [THEORY-680](../theory.d/THEORY-680.md)** (Gross on emotion regulation). This
   is a classic instance of attentional deployment as a regulation
   strategy.
 

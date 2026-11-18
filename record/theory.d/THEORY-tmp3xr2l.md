@@ -17,9 +17,9 @@ source:
 corroborates:
 - CLAIM-tmp4o53g
 summary: >-
-  Shaw-Young (2008), LIT-tmpqdygg, read in part in NOTE-tmps8s9k, as the
-  weak read neighbour of Miller 2001 (LIT-tmpqsyr9). It corroborates the
-  second half of CLAIM-tmp4o53g, which does not rest on it: a remedial
+  Shaw-Young (2008), [LIT-tmpqdygg](../literature.d/LIT-tmpqdygg.md), read in part in [NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), as the
+  weak read neighbour of Miller 2001 ([LIT-tmpqsyr9](../literature.d/LIT-tmpqsyr9.md)). It corroborates the
+  second half of [CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md), which does not rest on it: a remedial
   duty can fall on a faultless agent. The wording is the reader's;
   adopting it is the owner's call.
 ---
@@ -28,7 +28,7 @@ summary: >-
 
 # THEORY-tmp3xr2l: Miller, as Shaw-Young reports his 2007 statement, holds that remedial responsibility for a bad situation is assigned through several distinct connections to it, moral responsibility, outcome responsibility, causal responsibility, benefit, capacity and community, so that it need not fall on whoever caused the situation or was at fault
 
-Shaw-Young (2008), LIT-tmpqdygg, reporting Miller (2007).
+Shaw-Young (2008), [LIT-tmpqdygg](../literature.d/LIT-tmpqdygg.md), reporting Miller (2007).
 
 ## The account
 

@@ -13,9 +13,9 @@ status_note: >-
   Discourse-Theoretical Approach" (Normative Orders Working Paper
   02/2017, CC BY-NC-ND), at publikationen.ub.uni-frankfurt.de; the
   working paper is a possible neighbour, not registered or read.
-  Secondhand only: Scanlon (LIT-tmpgoyge, n. 14) cites the book for "the
+  Secondhand only: Scanlon ([LIT-tmpgoyge](LIT-tmpgoyge.md), n. 14) cites the book for "the
   requirement of justification by reasons that are generalizable and
-  reciprocal", and SEP "Rights" (LIT-tmpz19z8, §6.3) describes Forst as
+  reciprocal", and SEP "Rights" ([LIT-tmpz19z8](LIT-tmpz19z8.md), §6.3) describes Forst as
   "Beginning with a status-based fundamental right to justification";
   both agree with A83 in outline. It stays Unavailable until a copy is
   supplied.

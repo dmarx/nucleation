@@ -85,20 +85,20 @@ user, claimant, proprietor, owner; de jure and de facto rights.
 
 ## Bearing on the record
 
-- **CLAIM-tmpcpijj.** The structural premise: authority at one level does
+- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).** The structural premise: authority at one level does
   not carry authority at another (the rights are "independent of one
   another"; management without exclusion), and exercising a right is
   distinct from defining it. The paper does not discuss contesting
-  decisions. CLAIM-086 is the record's nearest own statement of the level
+  decisions. [CLAIM-086](../claims.d/CLAIM-086.md) is the record's nearest own statement of the level
   separation.
-- **QUESTION-tmpgeqju.** The constitutional level (n. 2) is where the
+- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** The constitutional level (n. 2) is where the
   question sits; the paper names positions but not which protections lie
   beyond revision.
-- **CASE-tmp9vd9x.** In this vocabulary the recycler's owner holds
+- **[CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md).** In this vocabulary the recycler's owner holds
   exclusion and alienation over a complementary facility and bargains for
   management-level authority over the aquifer; the paper treats one
   resource's bundle, not leverage across resources.
-- **CLAIM-545.** Its use of the operational/collective-choice split
+- **[CLAIM-545](../claims.d/CLAIM-545.md).** Its use of the operational/collective-choice split
   (through A93 §2) is supported by the text.
 - The exchange's A93 ("five kinds of rights") is faithful. A92's mapping
   onto "having a capability and governing the conditions of its exercise"
@@ -106,7 +106,7 @@ user, claimant, proprietor, owner; de jure and de facto rights.
   operational rules, not setting the terms of challenge; the paper has a
   third, constitutional level; and its rights are rule-made
   authorizations, not capabilities.
-- The same three levels are THEORY-1809's IAD framework (Polski and
+- The same three levels are [THEORY-1809](../theory.d/THEORY-1809.md)'s IAD framework (Polski and
   Ostrom); this paper is its property-rights application.
 
 ## Limitations

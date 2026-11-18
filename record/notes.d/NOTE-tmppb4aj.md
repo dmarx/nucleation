@@ -121,20 +121,20 @@ party.
 
 ## Bearing on the record
 
-- **CASE-tmpzt3zf** (Carol and Dan). Left open. The judgment is what A
+- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)** (Carol and Dan). Left open. The judgment is what A
   abstracts from, but its findings concern pleaded assaults and the truth
   of a meaning; it makes no finding on who controlled finances, isolation
   or the relationship's terms, which the case stipulates. Its Incident 9
   finding of "violence on both sides", with Ms Heard's admitted punch
   accepted as in defence of her sister, is the only finding near the
   case's premise that the dominated partner may also strike.
-- **CLAIM-tmpkivlz** (who harmed whom and who had power are separate
+- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)** (who harmed whom and who had power are separate
   questions). The court's method answers the first question only, act by
   act, and the published meaning is about acts and injury (para 80). That
   shows an act-by-act verdict reached without deciding the allocation of
   power; it does not test the claim's other half. Not filed as a
   relation.
-- **LIT-tmp5254i** (Johnson's typology) and **LIT-tmp6y633** (Stark,
+- **[LIT-tmp5254i](../literature.d/LIT-tmp5254i.md)** (Johnson's typology) and **[LIT-tmp6y633](../literature.d/LIT-tmp6y633.md)** (Stark,
   coercive control) classify the kind of facts found here; neither is
   read.
 - The judgment cannot ground anything about what the US jury found in

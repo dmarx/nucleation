@@ -94,8 +94,8 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 thesis in outline, and adds a second, that agents can be exploited "by
 being made to shoulder additional moral burdens", with two applications,
 military recruitment and commercial surrogacy. The argument is unread, so
-its bearing on CLAIM-tmpe5u7i and QUESTION-tmpbzq36 stays unverified. No
-neighbour stands in. Keller (LIT-tmpgo0lt, read in NOTE-tmp0loqu) argues a
+its bearing on [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) and [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md) stays unverified. No
+neighbour stands in. Keller ([LIT-tmpgo0lt](LIT-tmpgo0lt.md), read in [NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md)) argues a
 related thesis from the fiduciary side and is the record's read footing
 for it.
 

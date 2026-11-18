@@ -84,9 +84,9 @@ high a price" (p. 15).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpqwuyi.
+Filed as [THEORY-tmpqwuyi](../theory.d/THEORY-tmpqwuyi.md).
 
-- **CLAIM-tmpa2l21** (structuring another's circumstances is a wrong of
+- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (structuring another's circumstances is a wrong of
   its own, beside the actor's). The exchange (A9) says Eggert "notes that
   such predicaments sometimes arise precisely because one person has
   wrongfully created circumstances". She does, in two sentences at the
@@ -98,7 +98,7 @@ Filed as THEORY-tmpqwuyi.
   "stands beside it". But her agent acts permissibly, where the claim's is
   pressed into wrongdoing. No relation is written; the claim does not cite
   her.
-- **CLAIM-tmp76x3e**: compatible ("Duties conflict as a result of things
+- **[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)**: compatible ("Duties conflict as a result of things
   that happen, including other people's actions"), but she does not
   discuss manipulation or exploitation. Left open.
 

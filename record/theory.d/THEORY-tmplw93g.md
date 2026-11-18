@@ -22,21 +22,21 @@ bears_on:
 - QUESTION-tmpk7u3e
 - QUESTION-tmpkqvxv
 summary: >-
-  Scanlon, "Contractualism and Intuitionism" (2025 draft), LIT-tmpgoyge,
-  read in NOTE-tmpjth7b. Interactive reasonable rejection; the Principle of
+  Scanlon, "Contractualism and Intuitionism" (2025 draft), [LIT-tmpgoyge](../literature.d/LIT-tmpgoyge.md),
+  read in [NOTE-tmpjth7b](../notes.d/NOTE-tmpjth7b.md). Interactive reasonable rejection; the Principle of
   Established Practices (p. 21) and the distinct wrong of "failing to do
   one's part in getting such a norm established" (p. 22); the bilateral
   reading and the 1998 account of aggregation retracted; relevance "broadly
-  speaking a moral question". It corroborates CLAIM-tmpes6ef, which rests on
-  CLAIM-560 and A's report, not on this paper, and bears on
-  QUESTION-tmpk7u3e and QUESTION-tmpkqvxv. The wording is the reader's;
+  speaking a moral question". It corroborates [CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md), which rests on
+  [CLAIM-560](../claims.d/CLAIM-560.md) and A's report, not on this paper, and bears on
+  [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) and [QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md). The wording is the reader's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpjth7b CLAIM-tmpes6ef — Proposed or new; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmpes6ef — Proposed or new; the reading and the claim it corroborates -->
 
 # THEORY-tmplw93g: Scanlon now holds that an act is wrong when someone could reasonably reject, on personal reasons weighed against others' opposing reasons, any principle permitting it, that besides the wrong of not complying with an established and needed practice there is a distinct wrong of failing to do one's part in establishing a needed norm, and that the judgments of sufficiency and relevance this rests on are substantive, which weakens the view's reductive explanatory power
 
-Scanlon, "Contractualism and Intuitionism" (2025), LIT-tmpgoyge.
+Scanlon, "Contractualism and Intuitionism" (2025), [LIT-tmpgoyge](../literature.d/LIT-tmpgoyge.md).
 
 ## The account
 

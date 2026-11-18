@@ -102,7 +102,7 @@ features of our own culture" (p. 210).
   Strawson's word is "regard", not "respect"; and the link is closer than
   connection: "The making of the demand is the proneness to such
   attitudes."
-- **CLAIM-tmpa2l21** (second-order wrongdoing): qualifies it. Strawson's
+- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (second-order wrongdoing): qualifies it. Strawson's
   first kind of plea is coercion: "He was pushed", "They left him no
   alternative". It leaves the agent "a fully responsible agent" while the
   injury may be one for which he was "not fully, or at all, responsible".
@@ -113,11 +113,11 @@ features of our own culture" (p. 210).
   carried far enough takes the agent out of the reactive attitudes, which
   the claim's "conditioned" case does not mark. Strawson says nothing about
   the wrong of whoever did the pushing or perverting, the claim's core.
-- **QUESTION-068** (Deferred): Strawson's exemptions are conditions on
+- **[QUESTION-068](../questions.d/QUESTION-068.md)** (Deferred): Strawson's exemptions are conditions on
   holding responsible that ownership of a will does not supply.
 - **What blame is**: blame as "partial and temporary withdrawal of
   goodwill" within continued membership. Scanlon's *Moral Dimensions*
-  (LIT-tmp2dnmn), which A sets beside it, is unread.
+  ([LIT-tmp2dnmn](../literature.d/LIT-tmp2dnmn.md)), which A sets beside it, is unread.
 
 ## Limitations
 

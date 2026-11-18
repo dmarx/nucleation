@@ -73,7 +73,7 @@ have been partly produced by inauthentic accounts.
   jeopardised her right to a fair trial."
 - **The UK trial**: "Depp lost a UK trial in 2020 on similar charges. That
   trial found, on the balance of probability, that he had abused Heard on
-  12 occasions." This agrees with the judgment as read (LIT-tmpqju5l,
+  12 occasions." This agrees with the judgment as read ([LIT-tmpqju5l](../literature.d/LIT-tmpqju5l.md),
   para 575).
 - **Series page**: "What if the online hate against her was manufactured?"
 
@@ -84,18 +84,18 @@ flies"; manufactured online hate.
 
 ## Bearing on the record
 
-- **CLAIM-tmpciy9q** (a party arranges another's wrong and uses the true
+- **[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)** (a party arranges another's wrong and uses the true
   accusation before an audience whose judgement it anticipated). Weakly
   related, not filed as a relation: Tortoise reports evidence that the
   audience's apparent judgement was partly produced by inauthentic
   accounts. That is shaping the audience, not anticipating it, and the
   pages attribute it to no party to the dispute. It cannot ground the
   claim's first or second move.
-- **CLAIM-415** (a judgement attributed to a collective that does not hold
-  it) and **QUESTION-261** and **QUESTION-356** (a vocal minority making a
+- **[CLAIM-415](../claims.d/CLAIM-415.md)** (a judgement attributed to a collective that does not hold
+  it) and **[QUESTION-261](../questions.d/QUESTION-261.md)** and **[QUESTION-356](../questions.d/QUESTION-356.md)** (a vocal minority making a
   norm look broadly held) are near: an inauthentic share inflating an
   apparent consensus.
-- **THEORY-659** (most recurring manipulation channels are not
+- **[THEORY-659](../theory.d/THEORY-659.md)** (most recurring manipulation channels are not
   attributed) bears on how far the Saudi attribution can go.
 
 ## Verdict on the exchange's characterization

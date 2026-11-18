@@ -16,9 +16,9 @@ source:
 corroborates:
 - CLAIM-tmpyo35b
 summary: >-
-  Cuéllar (2026), LIT-tmpbv38s, read in part in NOTE-tmpf8gg2; the evidence
+  Cuéllar (2026), [LIT-tmpbv38s](../literature.d/LIT-tmpbv38s.md), read in part in [NOTE-tmpf8gg2](../notes.d/NOTE-tmpf8gg2.md); the evidence
   for the erosion of norms (Part II) was skimmed. It corroborates
-  CLAIM-tmpyo35b, which does not rest on it: targets bear high costs
+  [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), which does not rest on it: targets bear high costs
   "in the meantime" even when courts eventually block an attack. The
   wording is the reader's; adopting it is the owner's call.
 ---
@@ -26,7 +26,7 @@ summary: >-
 
 # THEORY-tmpf7stg: A newer, less constrained presidential adjudication has emerged in the United States, in which presidents make fact-specific, high-stakes decisions about particular targets with limited judicial oversight as doctrine expands White House control of agencies and constraining norms erode, raising the risk of executive coercion that courts could check through a harder look built from existing doctrine
 
-Cuéllar (2026), LIT-tmpbv38s.
+Cuéllar (2026), [LIT-tmpbv38s](../literature.d/LIT-tmpbv38s.md).
 
 ## The argument
 

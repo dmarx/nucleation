@@ -14,9 +14,9 @@ date: '2026-11-18'
 source:
 - LIT-tmptnrz5
 summary: >-
-  Parra Jounou and Tronto (2024), LIT-tmptnrz5, read in full in
-  NOTE-tmpko5k2, as a weak read neighbour of Moral Boundaries
-  (LIT-tmp5epfk, Unfetched) and Caring Democracy (LIT-tmpsm285,
+  Parra Jounou and Tronto (2024), [LIT-tmptnrz5](../literature.d/LIT-tmptnrz5.md), read in full in
+  [NOTE-tmpko5k2](../notes.d/NOTE-tmpko5k2.md), as a weak read neighbour of Moral Boundaries
+  ([LIT-tmp5epfk](../literature.d/LIT-tmp5epfk.md), Unfetched) and Caring Democracy ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md),
   Unavailable). Two sentences of Tronto's in an interview; filed without
   relations, since they carry no claim of the record on their own. The
   wording is the reader's; adopting it is the owner's call.
@@ -25,7 +25,7 @@ summary: >-
 
 # THEORY-tmprxeh7: Privileged irresponsibility, in Tronto's own later gloss, is a kind of bad care, whose danger is that it cuts off one's reaction to others
 
-Parra Jounou and Tronto (2024), LIT-tmptnrz5, read in NOTE-tmpko5k2.
+Parra Jounou and Tronto (2024), [LIT-tmptnrz5](../literature.d/LIT-tmptnrz5.md), read in [NOTE-tmpko5k2](../notes.d/NOTE-tmpko5k2.md).
 
 ## The account
 

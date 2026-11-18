@@ -20,17 +20,17 @@ source:
 bears_on:
 - QUESTION-068
 summary: >-
-  Strawson (1962), LIT-tmpn0mo7, read in full in NOTE-tmpnfib1. It bears
-  on QUESTION-068: exemption is a condition on holding responsible that
-  ownership of a will does not supply. It qualifies CLAIM-tmpa2l21 (see the
+  Strawson (1962), [LIT-tmpn0mo7](../literature.d/LIT-tmpn0mo7.md), read in full in [NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md). It bears
+  on [QUESTION-068](../questions.d/QUESTION-068.md): exemption is a condition on holding responsible that
+  ownership of a will does not supply. It qualifies [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md) (see the
   NOTE) without a relation. The wording is the reader's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpnfib1 CLAIM-tmpa2l21 QUESTION-068 — new, Proposed or Deferred; the reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-tmpa2l21 QUESTION-068 — new, Proposed or Deferred; the reading and the entries it bears on -->
 
 # THEORY-tmpjhphq: Strawson holds that holding people morally responsible consists in the reactive attitudes, which rest on a demand for goodwill or regard; that pleas of excuse leave the agent a full participant while pleas of exemption suspend the attitudes toward the agent; and that a general thesis of determinism neither does nor could rationally undermine the framework of these attitudes
 
-Strawson (1962), LIT-tmpn0mo7.
+Strawson (1962), [LIT-tmpn0mo7](../literature.d/LIT-tmpn0mo7.md).
 
 ## The account
 

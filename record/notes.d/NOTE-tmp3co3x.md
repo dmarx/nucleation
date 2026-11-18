@@ -80,12 +80,12 @@ multi-level theory.
 
 ## Bearing on the record
 
-- **QUESTION-tmpk7u3e.** A published form of the question's second option:
+- **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md).** A published form of the question's second option:
   contractualism needs a second level, a theory of authority over
   obligations, or it takes changes to them from elsewhere. Wenar does not
   show that reasonable rejection cannot supply that level; Scanlon's reply
-  (LIT-tmplag34) says it can, for promises.
-- **CLAIM-tmplidg6.** Wenar separates justifying what is owed from the
+  ([LIT-tmplag34](../literature.d/LIT-tmplag34.md)) says it can, for promises.
+- **[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).** Wenar separates justifying what is owed from the
   authority to change it ("who can change what we owe to each other and
   how"), which the claim needs. He does not take the claim's further step,
   that justified powers become the structure within which later

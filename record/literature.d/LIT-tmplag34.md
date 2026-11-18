@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpzarar) from the publisher's pages
+  read in full 2026-11-17 ([NOTE-tmpzarar](../notes.d/NOTE-tmpzarar.md)) from the publisher's pages
   posted on Leif Wenar's personal site (a copy lawful under
-  ADR-tmp976n0); worth reading as Scanlon's own
+  [ADR-tmp976n0](../decisions.d/ADR-tmp976n0.md)); worth reading as Scanlon's own
   statement that contractualism explains claims and powers, the power of
   release among them, without rights as basic, which is the premise of
-  CLAIM-tmplidg6.
+  [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).
 title: 'Reply to Leif Wenar'
 version: 2
 history:
@@ -51,18 +51,18 @@ keywords:
 implementations: []
 summary: >-
   Scanlon (2013), "Reply to Leif Wenar", Journal of Moral Philosophy
-  10(4): 400–405, read in NOTE-tmpzarar. Moral rights constrain
+  10(4): 400–405, read in [NOTE-tmpzarar](../notes.d/NOTE-tmpzarar.md). Moral rights constrain
   institutions and "cannot derive their authority from these
   institutions"; free expression is an immunity. "Contractualism seeks
   to explain not only first-order claim rights but also powers",
   including the promisee's power to release, by the reasons both parties
   have to insist on Principle F's consent condition, without rights as
   basic; which parts are called rights does not "matter very much". It
-  grounds CLAIM-tmplidg6's premise, corroborates CLAIM-tmpssfc1 for
-  promises, and bears on QUESTION-tmpk7u3e (THEORY-tmpegc2w).
+  grounds [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md)'s premise, corroborates [CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md) for
+  promises, and bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md) ([THEORY-tmpegc2w](../theory.d/THEORY-tmpegc2w.md)).
 ---
 <!-- inactive-ok-file: ADR-tmp976n0 — Proposed; the decision admitting this copy -->
-<!-- inactive-ok-file: NOTE-tmpzarar THEORY-tmpegc2w — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpegc2w — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpssfc1 — filed from the same exchange (2026-11-17), Proposed -->
 
@@ -72,7 +72,7 @@ T. M. Scanlon (2013). "Reply to Leif Wenar". *Journal of Moral Philosophy* 10(4)
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpzarar).*
+*From the reading ([NOTE-tmpzarar](../notes.d/NOTE-tmpzarar.md)).*
 
 - "Contractualism seeks to explain not only first-order claim rights but
   also powers, as well as the prior liberties" (p. 403), including "why a
@@ -92,8 +92,8 @@ T. M. Scanlon (2013). "Reply to Leif Wenar". *Journal of Moral Philosophy* 10(4)
 
 Registered from A100 (2026-11-17) and used in A102. It replies to [LIT-tmpretfe](LIT-tmpretfe.md). It bears on [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) (rights organize later justification), [CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md) and [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md). A linked a copy of the published pages on squarespace; no copy has been sought for the record. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpzarar). A100 is faithful; Scanlon's phrase is "a
+Read on 2026-11-17 ([NOTE-tmpzarar](../notes.d/NOTE-tmpzarar.md)). A100 is faithful; Scanlon's phrase is "a
 basic element of moral thinking", not "primitive". Immunities, which
-CLAIM-tmplidg6 reports A as including, come from the reply's free-expression
+[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) reports A as including, come from the reply's free-expression
 section, not its account of contractualism. The copy read was posted by
-Wenar; it is lawful under ADR-tmp976n0.
+Wenar; it is lawful under [ADR-tmp976n0](../decisions.d/ADR-tmp976n0.md).

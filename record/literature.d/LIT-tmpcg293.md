@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmplo4r7) from the author's penultimate
-  version, as the read neighbour of Watson (1996), LIT-tmpmsh0d, which
+  read in full 2026-11-17 ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md)) from the author's penultimate
+  version, as the read neighbour of Watson (1996), [LIT-tmpmsh0d](LIT-tmpmsh0d.md), which
   could not be read; worth reading here for its own account (desert as
   fittingness for attributability, desert as fairness for
   accountability) and for what it quotes of Watson by page.
@@ -50,10 +50,10 @@ summary: >-
   which we demand (require) certain conduct from one another", and "[i]t
   is unfair to impose sanctions upon people unless they had a reasonable
   opportunity to avoid incurring them". Registered as the read neighbour
-  of Watson 1996, LIT-tmpmsh0d. It bears on QUESTION-068.
+  of Watson 1996, [LIT-tmpmsh0d](LIT-tmpmsh0d.md). It bears on [QUESTION-068](../questions.d/QUESTION-068.md).
 ---
 <!-- inactive-ok-file: LIT-tmpmsh0d — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmplo4r7 QUESTION-068 — new or Deferred; this work's reading and the question it bears on -->
+<!-- inactive-ok-file: QUESTION-068 — new or Deferred; this work's reading and the question it bears on -->
 
 # LIT-tmpcg293: Two Faces of Desert
 
@@ -73,7 +73,7 @@ King, M. (2014). Two Faces of Desert. *Philosophical Studies* 169(3): 401–424.
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Watson (1996),
-LIT-tmpmsh0d, which A cites in the exchange "Assess Depp Heard Abuse" for
+[LIT-tmpmsh0d](LIT-tmpmsh0d.md), which A cites in the exchange "Assess Depp Heard Abuse" for
 attributability and accountability. Only what King quotes of Watson with
 page numbers stands in for Watson; King says he uses the distinction
 "potentially in ways to which Watson himself would object". The copy read

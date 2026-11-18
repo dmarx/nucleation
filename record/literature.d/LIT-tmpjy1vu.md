@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmprnwux) from a scan of the published article on
+  read 2026-11-17 ([NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md)) from a scan of the published article on
   a University of Washington course page; worth reading here as the source
   of ownership as residual rights of control under incomplete contracts,
   and for what it does and does not say about the holder's discretion.
@@ -54,8 +54,8 @@ summary: >-
   contract. With ex post renegotiation always efficient, ownership matters
   because it sets the division of the surplus and so the parties'
   incentives to invest: integration strengthens the acquirer's and weakens
-  the acquired party's. Read in NOTE-tmprnwux; its account is
-  THEORY-tmpt4dyh, which corroborates the first clause of CLAIM-tmpdic1g
+  the acquired party's. Read in [NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md); its account is
+  [THEORY-tmpt4dyh](../theory.d/THEORY-tmpt4dyh.md), which corroborates the first clause of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md)
   and carries less than its later clauses.
 ---
 <!-- inactive-ok-file: CLAIM-tmpdic1g THEORY-tmpt4dyh — Proposed; cited with their standing, entries this reading bears on or files -->
@@ -80,10 +80,10 @@ Sanford J. Grossman and Oliver D. Hart (1986). The Costs and Benefits of Ownersh
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as A's source for residual control rights: ownership allocates authority over contingencies a contract leaves open. It is a footing of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md) (in an incomplete contract the holder of residual control decides the contingencies left open), beside Hart and Moore 1990, registered with it. Not read.
 
-Read on 2026-11-17 (NOTE-tmprnwux). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md)). The exchange's characterization is
 faithful, with one widening: A53 has ownership and organizational
 structure allocate "authority over uses and decisions not already settled
 by the contract"; the paper's object is ownership of assets. For
-CLAIM-tmpdic1g, the reading supports the definition of residual control
+[CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md), the reading supports the definition of residual control
 and qualifies the rest: the holder bargains rather than decides, and the
 allocation's effects come ex ante, before any uncovered contingency.

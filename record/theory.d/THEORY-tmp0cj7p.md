@@ -16,19 +16,19 @@ date: '2026-11-18'
 source:
 - LIT-tmp5i6w4
 summary: >-
-  Lohmann et al. (2023), LIT-tmp5i6w4, read in NOTE-tmphdvuc. Pooled
+  Lohmann et al. (2023), [LIT-tmp5i6w4](../literature.d/LIT-tmp5i6w4.md), read in [NOTE-tmphdvuc](../notes.d/NOTE-tmphdvuc.md). Pooled
   r = .32 for PTSD and .27 for depression, against .34 and .33 for
   psychological IPV; the predicted excess for coercive control was not
-  found. It carries no relation to CLAIM-tmpkivlz: it shows neither
+  found. It carries no relation to [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md): it shows neither
   separate harms of domination nor anything about act counts beyond the
   authors' explanation of their null. The wording is the reader's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmphdvuc CLAIM-tmpkivlz — new or Proposed; the reading, and a claim it does not support -->
+<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; the reading, and a claim it does not support -->
 
 # THEORY-tmp0cj7p: Lohmann, Cowlishaw, Ney, O'Donnell and Felmingham find, across 45 cross-sectional studies, that exposure to an intimate partner's coercive control is moderately associated with PTSD and depression symptoms, at strengths comparable to those for psychological intimate partner violence in general and not stronger
 
-Lohmann et al. (2023), LIT-tmp5i6w4.
+Lohmann et al. (2023), [LIT-tmp5i6w4](../literature.d/LIT-tmp5i6w4.md).
 
 ## The result
 

@@ -24,11 +24,11 @@ corroborates:
 - CLAIM-406
 summary: >-
   Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian (2017; FAT*
-  2018), LIT-tmpsd8aw, read in NOTE-tmpwpvfg. It corroborates CLAIM-342
+  2018), [LIT-tmpsd8aw](../literature.d/LIT-tmpsd8aw.md), read in [NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md). It corroborates [CLAIM-342](../claims.d/CLAIM-342.md)
   with a demonstrated lock-in of a loop that selects its own evidence
   through action, and qualifies its remedy: independent evidence mixed in
   only attenuates the loop, and the repair reweights the self-selected
-  stream. It corroborates CLAIM-406's loop form: an unobserved region
+  stream. It corroborates [CLAIM-406](../claims.d/CLAIM-406.md)'s loop form: an unobserved region
   yields no evidence, so the prior or an early advantage persists. Neither
   claim rests on it. The wording is the reader's; adopting it is the
   owner's call.
@@ -36,7 +36,7 @@ summary: >-
 
 # THEORY-tmp0xl3k: In a Pólya-urn model of predictive policing, Ensign and colleagues show that allocating patrols by incidents discovered on patrol does not learn true crime rates: with equal rates the prior persists and with unequal rates the higher-rate region takes all, reported incidents only attenuate the loop, and dropping discovered incidents with the probability of patrol removes it
 
-Ensign et al. (2017; FAT* 2018), LIT-tmpsd8aw, read in NOTE-tmpwpvfg.
+Ensign et al. (2017; FAT* 2018), [LIT-tmpsd8aw](../literature.d/LIT-tmpsd8aw.md), read in [NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md).
 
 ## The result
 

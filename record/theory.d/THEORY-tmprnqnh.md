@@ -18,21 +18,21 @@ source:
 corroborates:
 - CLAIM-tmpnb4v4
 summary: >-
-  Hohfeld (1913), LIT-tmputfgt, read in NOTE-tmpvxul9. Eight conceptions in four
+  Hohfeld (1913), [LIT-tmputfgt](../literature.d/LIT-tmputfgt.md), read in [NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md). Eight conceptions in four
   correlative and four opposite pairs, "the lowest common denominators of
   the law"; a claim persists though the holder's own privilege is
   extinguished; legal power is distinct from "the physical power to do the
-  things necessary" for its exercise. Filed as grounds of CLAIM-tmpa0wdv,
+  things necessary" for its exercise. Filed as grounds of [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md),
   whose separation of physical from normative power is A87's restatement of
-  it, by a note on that claim; it corroborates CLAIM-tmpnb4v4, which does
+  it, by a note on that claim; it corroborates [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md), which does
   not rest on it, on the independence of normative positions. The wording
   is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpvxul9 CLAIM-tmpa0wdv CLAIM-tmpnb4v4 — Proposed or new; the reading and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-tmpa0wdv CLAIM-tmpnb4v4 — Proposed or new; the reading and the claims it bears on -->
 
 # THEORY-tmprnqnh: Hohfeld proposes that the word right in judicial reasoning covers several distinct legal relations, which reduce to eight fundamental conceptions, claim and duty, privilege and no-right, power and liability, immunity and disability, each with a correlative held by another party and an opposite, and that a legal power, volitional control over a change in legal relations, is distinct from the physical power to perform the acts that exercise it and from the privilege of performing them
 
-Hohfeld (1913), LIT-tmputfgt.
+Hohfeld (1913), [LIT-tmputfgt](../literature.d/LIT-tmputfgt.md).
 
 ## The account
 

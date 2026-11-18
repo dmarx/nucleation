@@ -20,18 +20,18 @@ bears_on:
 corroborates:
 - CLAIM-tmpnb4v4
 summary: >-
-  Stern (2014), LIT-tmp1wuw5, read in full in NOTE-tmptdg2e, as the read
-  neighbour of Darwall 2006 (LIT-tmpr2bbq). It bears on QUESTION-tmpea19q
+  Stern (2014), [LIT-tmp1wuw5](../literature.d/LIT-tmp1wuw5.md), read in full in [NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), as the read
+  neighbour of Darwall 2006 ([LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md)). It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md)
   (to whom and why answerability is owed) and corroborates the clause of
-  CLAIM-tmpnb4v4 that an asserted demand has no warrant of its own. The
+  [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md) that an asserted demand has no warrant of its own. The
   wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpr2bbq — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmptdg2e QUESTION-tmpea19q CLAIM-tmpnb4v4 — new, Open or Proposed; the reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-tmpnb4v4 — new, Open or Proposed; the reading and the entries it bears on -->
 
 # THEORY-tmpk5cgl: Stern argues that Darwall's account, on which moral obligation consists in what persons have legitimate second-personal authority to demand of one another rather than in actual demands, cannot explain obligations to aid a sufferer who makes no demand, so that wronging, or exclusionary reasons, may suffice for obligation without second-personal authority
 
-Stern (2014), LIT-tmp1wuw5, on Darwall (2006), LIT-tmpr2bbq.
+Stern (2014), [LIT-tmp1wuw5](../literature.d/LIT-tmp1wuw5.md), on Darwall (2006), [LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md).
 
 ## The account
 

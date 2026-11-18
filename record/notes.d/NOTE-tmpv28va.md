@@ -110,7 +110,7 @@ a liability rule.
 
 ## Bearing on the record
 
-- **CLAIM-tmpl0sgt.** §V states the claim's mechanism, a thief who takes
+- **[CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md).** §V states the claim's mechanism, a thief who takes
   and stands ready to pay converts a property rule into a liability rule,
   and treats the conversion as a harm beyond the single case, which
   criminal sanctions exist to deter. The claim is filed after the
@@ -118,16 +118,16 @@ a liability rule.
   frames the harm in efficiency terms (a liability price is "only an
   approximation"); the claim frames it as control and consent. The two are
   compatible; the consent framing is the claim's, not the paper's.
-- **CLAIM-tmp6vck6.** Qualifies. The paper's inalienability limits the
+- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** Qualifies. The paper's inalienability limits the
   holder's power to transfer ("limiting or regulating the grant of the
   entitlement itself"), which is near the claim's "the holder lacks the
   power to confer". But it is justified instrumentally, can be partial,
   and leaves compensation in place (n. 44). The claim's grounding in
   standing is not the paper's.
-- **CLAIM-tmp3t16f** and **QUESTION-tmpcz1ui.** Left open. The paper does
+- **[CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md)** and **[QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md).** Left open. The paper does
   not model bargaining after a breach or litigation cost as a strategic
   variable, and sets process questions aside.
-- **CLAIM-464.** §V's conversion is an instance of an act changing what
+- **[CLAIM-464](../claims.d/CLAIM-464.md).** §V's conversion is an instance of an act changing what
   correction would take: after the taking the holder has only the
   collectively set price.
 - The exchange's characterization (A57, A59) is faithful. Its "de facto

@@ -78,15 +78,15 @@ economic and social rights.
 
 ## Bearing on the record
 
-- **QUESTION-tmptinzk.** The entry counts independence from "the practices,
+- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** The entry counts independence from "the practices,
   morality, or law" of a country as part of a human right's universality,
   the property the question wants of "unalienable rights". It qualifies the
   owner's framing: it doubts that all human rights are inalienable, a right
   being forfeitable by bad conduct, and it holds that rights grounded only
   in reasons have a thin existence that legal embodiment completes.
-- **TERM-085.** The entry's duties are "respect, protection, facilitation,
-  and provision", not the triad TERM-085 attributes to Shue (see the
-  reading of Shue, LIT-tmpog11n).
+- **[TERM-085](../terms.d/TERM-085.md).** The entry's duties are "respect, protection, facilitation,
+  and provision", not the triad [TERM-085](../terms.d/TERM-085.md) attributes to Shue (see the
+  reading of Shue, [LIT-tmpog11n](../literature.d/LIT-tmpog11n.md)).
 - The exchange's A87 is partly faithful: agency and dignity are the two
   grounds discussed; "interests" is not a ground the entry lists, and
   "international practice" figures as a mode of existence and a political

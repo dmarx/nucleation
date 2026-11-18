@@ -87,7 +87,7 @@ depression are no stronger than those of other forms of IPV.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkivlz**: neither corroborates nor bounds it, and the record
+- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: neither corroborates nor bounds it, and the record
   should not cite it for more. A cited it as evidence that coercive
   control "has trauma and mental-health effects of its own". The review
   finds associations, not effects, and finds them no larger than those of
@@ -96,7 +96,7 @@ depression are no stronger than those of other forms of IPV.
   (the verbal-threats sentence), and the authors explain their own null by
   the limits of act-based measures. That is an explanation they offer, not
   a finding.
-- **CLAIM-545**: its "continuing practical freedom" is not what these
+- **[CLAIM-545](../claims.d/CLAIM-545.md)**: its "continuing practical freedom" is not what these
   instruments measure.
 
 ## Limitations

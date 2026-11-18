@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read for responsibility 2026-11-17 (NOTE-tmpokcvk) from the NTSB's own
+  read for responsibility 2026-11-17 ([NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)) from the NTSB's own
   PDF; worth reading here as the authoritative record of the Tempe crash,
-  filed as CASE-tmpnrxpi, and for its allocation of cause between the
+  filed as [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md), and for its allocation of cause between the
   operator and the organization that set her task.
 title: 'Collision Between Vehicle Controlled by Developmental Automated Driving System and Pedestrian, Tempe, Arizona, March 18, 2018'
 version: 2
@@ -56,8 +56,8 @@ summary: >-
   risk assessment, oversight of operators and handling of automation
   complacency, "all a consequence of its inadequate safety culture";
   further, the pedestrian's crossing and Arizona's oversight. Read in
-  NOTE-tmpokcvk; THEORY-tmp4utz4; the case is CASE-tmpnrxpi. It
-  corroborates CLAIM-tmpb47ul's control-and-duty part, and does not show
+  [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md); [THEORY-tmp4utz4](../theory.d/THEORY-tmp4utz4.md); the case is [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md). It
+  corroborates [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s control-and-duty part, and does not show
   blame landing downstream.
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul THEORY-tmp4utz4 CASE-tmpnrxpi — filed now from the same exchange or new, temporary codes, Proposed or Open -->
@@ -84,7 +84,7 @@ National Transportation Safety Board (2019). *Collision Between Vehicle Controll
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 as the report A uses for the 2018 Uber test-vehicle crash. Read on 2026-11-17 (NOTE-tmpokcvk); the case is filed as CASE-tmpnrxpi. It corroborates the control-and-duty part of CLAIM-tmpb47ul and bears on QUESTION-tmp2t6ve. The record holds another NTSB report, LIT-1371.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A17 as the report A uses for the 2018 Uber test-vehicle crash. Read on 2026-11-17 ([NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)); the case is filed as [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md). It corroborates the control-and-duty part of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and bears on [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md). The record holds another NTSB report, [LIT-1371](LIT-1371.md).
 
 **The exchange's characterization: faithful in content, soft on the
 ranking.** Every failure A17 lists is in the probable-cause statement.

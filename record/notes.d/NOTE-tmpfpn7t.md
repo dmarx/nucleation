@@ -65,20 +65,20 @@ society is "utopian" in Polanyi's sense.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpxw0zo.
+Filed as [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md).
 
 - **Which of the originals' results it restates.** For Caring Democracy
-  (LIT-tmpsm285): the definition of democracy as the allocation of caring
+  ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md)): the definition of democracy as the allocation of caring
   responsibilities with equal voice, in Tronto's words, which bears out
   A17's "democratic justice" in substance; and exemption, which is the
   book's privileged irresponsibility in outline. For Moral Boundaries
-  (LIT-tmp5epfk): only the definition of care it quotes.
-- **CLAIM-tmpb47ul**, the upstream half: exemption by appeal to "more
+  ([LIT-tmp5epfk](../literature.d/LIT-tmp5epfk.md)): only the definition of care it quotes.
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the upstream half: exemption by appeal to "more
   important duties", and exclusion to "saddle" others "with the most
   difficult tasks", are Tronto's own version of upstream parties shedding
   obligations onto those downstream. Corroborates; blame and control are
   not addressed.
-- **QUESTION-tmpvoufs**: "giving equal voice to all members ... in making
+- **[QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md)**: "giving equal voice to all members ... in making
   these allocations" is a democratic route to the accountability the
   question asks about, not a principal–agent mechanism.
 

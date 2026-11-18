@@ -35,7 +35,7 @@ summary: >-
 
 The first preregistered test of the marshmallow test's prediction of a
 broad set of adult outcomes in a non-elite cohort, with the control
-strategy of Watts et al. (2018), LIT-tmppz1jz.
+strategy of Watts et al. (2018), [LIT-tmppz1jz](../literature.d/LIT-tmppz1jz.md).
 
 ## Key insight
 
@@ -80,9 +80,9 @@ by SES and sex.
 
 ## Bearing on the record
 
-- **CASE-tmp07hx9**. Confirms, to age 26, what the case says it cannot
+- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)**. Confirms, to age 26, what the case says it cannot
   show: "That waiting predicts later life".
-- **CLAIM-tmpt091d**. Indirect, as for Watts et al.: the authors trace the
+- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)**. Indirect, as for Watts et al.: the authors trace the
   task's prediction to SES and parenting, consistent with a reliability
   reading but not a test of it; they do not cite Kidd et al.'s result in
   the text read. Not filed as a relation.

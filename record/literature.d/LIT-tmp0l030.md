@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmp50e3o) from the published version on the
+  read in full 2026-11-17 ([NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md)) from the published version on the
   Oxford University Research Archive; worth reading here for its defence of
   the moral remainder in dirty-hands cases. It does not carry the
   second-order wrong of arranging another's predicament, for which the
@@ -53,7 +53,7 @@ summary: >-
   consequentialism" and specificationism dissolve the problem at too high
   a price. Conflicts come from the world, "including other people's
   actions"; whether dirty hands are always produced by others' wrongdoing
-  is left "for another day". Read in NOTE-tmp50e3o; THEORY-tmpqwuyi.
+  is left "for another day". Read in [NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md); [THEORY-tmpqwuyi](../theory.d/THEORY-tmpqwuyi.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpqwuyi CLAIM-tmpa2l21 CLAIM-tmp76x3e — new, temporary codes, Proposed -->
 
@@ -76,7 +76,7 @@ Linda Eggert (2023; issue 2025). Dirty Hands Defended. *Journal of Moral Philoso
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A9 for the point that a dirty-hands predicament can be wrongfully created by someone else. Read on 2026-11-17 (NOTE-tmp50e3o).
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A9 for the point that a dirty-hands predicament can be wrongfully created by someone else. Read on 2026-11-17 ([NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md)).
 
 **The exchange's characterization: partly faithful.** A9's "She notes
 that such predicaments sometimes arise precisely because one person has
@@ -85,6 +85,6 @@ duty to avoid something worse" is accurate as a report of a two-sentence
 aside (p. 18). She does not develop it, defers whether dirty hands always
 arise this way, and cites de Wijze for the stronger view without adopting
 it. Nothing in the paper says that creating such a predicament wrongs the
-person placed in it, so it does not support CLAIM-tmpa2l21's second-order
+person placed in it, so it does not support [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)'s second-order
 wrong; it gives only the agent's side, a remainder beside the arranger's
-part. It leaves CLAIM-tmp76x3e open.
+part. It leaves [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) open.

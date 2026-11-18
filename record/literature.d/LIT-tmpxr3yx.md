@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpky4pc) from the CC BY article in
+  read in full 2026-11-17 ([NOTE-tmpky4pc](../notes.d/NOTE-tmpky4pc.md)) from the CC BY article in
   Europe PMC (PMC13603925); worth reading here for its organization of
   meta-analytic risk markers for physical IPV and, above all, for its
   explicit separation of violence by both partners from symmetry of
@@ -58,11 +58,11 @@ summary: >-
   relationships in which both partners were reported to have used
   violent acts" and "does not imply equivalence in motive, coercive
   control, severity, consequences, or responsibility"; Johnson's
-  typology addresses "different questions". Read in NOTE-tmpky4pc; its
-  THEORY corroborates CLAIM-tmpkivlz. Not a test: no new data, one
+  typology addresses "different questions". Read in [NOTE-tmpky4pc](../notes.d/NOTE-tmpky4pc.md); its
+  THEORY corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md). Not a test: no new data, one
   coder, no reproducible search.
 ---
-<!-- inactive-ok-file: NOTE-tmpky4pc THEORY-tmpaul2b — new; this work's reading and its THEORY -->
+<!-- inactive-ok-file: THEORY-tmpaul2b — new; this work's reading and its THEORY -->
 <!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmpxr3yx: An Updated and Revised Dyadic Model of Partner Violence
@@ -89,11 +89,11 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 ## Note of 2026-11-18: read
 
-Read in NOTE-tmpky4pc. The LIT's gloss, "a complement to coercive-control
+Read in [NOTE-tmpky4pc](../notes.d/NOTE-tmpky4pc.md). The LIT's gloss, "a complement to coercive-control
 theory that emphasizes interaction and relationship-level risk markers", is
 faithful with a qualification: the authors call Johnson's typology a
 "complementary lens" and insist that the dyadic model "should not be
 interpreted as assuming symmetric control, equivalent agency, or shared
-responsibility". Its THEORY, THEORY-tmpaul2b, corroborates CLAIM-tmpkivlz
+responsibility". Its THEORY, [THEORY-tmpaul2b](../theory.d/THEORY-tmpaul2b.md), corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)
 as a methodological stance. It names three of Johnson's types and no
 fourth.

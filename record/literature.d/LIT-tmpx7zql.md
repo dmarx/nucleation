@@ -78,6 +78,6 @@ systematically weaken the institutional conditions for collective
 self-governance". A omits that this is one of three diagnostic concepts
 (accountability anchor displacement, the Althusian dilemma, the erosion
 of civic virtue through exit), developed first through blockchain
-governance. Its bearing on CLAIM-678 stays unverified; the abstract's
-"accountability anchor displacement" is nearer CLAIM-tmpb47ul and agency
-laundering. Reading it would not stand in for Hirschman (LIT-748).
+governance. Its bearing on [CLAIM-678](../claims.d/CLAIM-678.md) stays unverified; the abstract's
+"accountability anchor displacement" is nearer [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and agency
+laundering. Reading it would not stand in for Hirschman ([LIT-748](LIT-748.md)).

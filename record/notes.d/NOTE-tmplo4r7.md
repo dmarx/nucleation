@@ -80,25 +80,25 @@ accountability-blame is best construed as expressed sanction.
 
 ## Bearing on the record
 
-- **QUESTION-068** (does accountability need conditions, such as
+- **[QUESTION-068](../questions.d/QUESTION-068.md)** (does accountability need conditions, such as
   avoidability, that ownership does not supply?): Watson's fairness
   condition, as King quotes it, is one: a "reasonable opportunity to avoid"
   sanction. King adds the blamer's standing. Both are conditions ownership
   of the act does not give.
-- **CLAIM-tmpa2l21**: the fairness condition is a route by which coerced
+- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)**: the fairness condition is a route by which coerced
   or structured conduct stays attributable to the actor while
   accountability-blame is reduced. Watson, as quoted, says nothing about
   the arranger's own wrong.
-- **CLAIM-tmpciy9q**: King's standing condition bears on an arranger who
+- **[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)**: King's standing condition bears on an arranger who
   then accuses: one who lacks standing cannot hold the other accountable.
   King does not discuss arranged wrongs.
-- **TERM-tmp8pnnr**: its attributability sense ("Whose action ... was
+- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: its attributability sense ("Whose action ... was
   it?") is thinner than Watson's, which is appraisal of the agent "as an
   adopter of ends".
 
 ## Connections
 
-Stands in for Watson (1996), LIT-tmpmsh0d, for the two faces, the
+Stands in for Watson (1996), [LIT-tmpmsh0d](../literature.d/LIT-tmpmsh0d.md), for the two faces, the
 sanction-like character of accountability, its fairness and standing
 conditions, and the independence of the faces, in Watson's words as
 quoted. It does not restate Watson's own arguments, his treatment of the

@@ -17,8 +17,8 @@ source:
 corroborates:
 - CLAIM-tmpm95mo
 summary: >-
-  Szakonyi (2025), LIT-tmpbyne9, read in full in NOTE-tmpmsxf9 apart from
-  the online appendix. It corroborates CLAIM-tmpm95mo, which does not rest
+  Szakonyi (2025), [LIT-tmpbyne9](../literature.d/LIT-tmpbyne9.md), read in full in [NOTE-tmpmsxf9](../notes.d/NOTE-tmpmsxf9.md) apart from
+  the online appendix. It corroborates [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md), which does not rest
   on it: inclusion in autocratic institutions produced real local change,
   while the regime kept the access rules for changing the larger
   arrangement. The wording is the reader's; adopting it is the owner's
@@ -28,7 +28,7 @@ summary: >-
 
 # THEORY-tmp0muvf: After the 2017 Moscow municipal elections, ruling-party deputies serving on opposition-majority councils reported about 22% less income, and those councils procured more by electronic auction and cut expenditures, so an opposition that controls, rather than merely joins, autocratic institutions can remove rent-seeking opportunities in them
 
-Szakonyi (2025), LIT-tmpbyne9.
+Szakonyi (2025), [LIT-tmpbyne9](../literature.d/LIT-tmpbyne9.md).
 
 ## The evidence
 

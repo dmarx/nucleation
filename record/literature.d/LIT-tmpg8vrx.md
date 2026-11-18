@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmp32vnp) from a scan tabled in the Northwest
+  read 2026-11-17 ([NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md)) from a scan tabled in the Northwest
   Territories Legislative Assembly; worth reading here as the classic
   typology of participation by the power over outcomes it confers. The
   copy is an OCR scan, so exact punctuation needs a clean copy.
@@ -56,8 +56,8 @@ summary: >-
   (informing, consultation, placation), where citizens may hear and be
   heard but lack the power to ensure they are heeded, to citizen power
   (partnership, delegated power, citizen control), illustrated from 1960s
-  federal programs. Read in NOTE-tmp32vnp; its account is THEORY-tmpf87o2,
-  which corroborates CLAIM-523, CLAIM-403 and CLAIM-tmpm95mo.
+  federal programs. Read in [NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md); its account is [THEORY-tmpf87o2](../theory.d/THEORY-tmpf87o2.md),
+  which corroborates [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpm95mo THEORY-tmpf87o2 — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -81,9 +81,9 @@ Sherry R. Arnstein (1969). A Ladder of Citizen Participation. *Journal of the Am
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A37 and A49 as A's source for the difference between being allowed to speak and having power over decisions. It bears on [CLAIM-523](../claims.d/CLAIM-523.md) (legibility, efficacy, correctability) and on [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) (an opposition can be independent while its capacity to change the arrangement is contained). Not read.
 
-Read on 2026-11-17 (NOTE-tmp32vnp). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md)). The exchange's characterization is
 faithful but narrower than the paper: A37's "institutions can permit
 people to speak without giving them meaningful influence" is the tokenism
 band, while Arnstein's subject is the redistribution of power, with
 manipulation and therapy below voice. The reading also bears on
-CLAIM-403 and CLAIM-tmpm95mo.
+[CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md).

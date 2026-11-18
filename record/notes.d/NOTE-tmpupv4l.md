@@ -88,7 +88,7 @@ motion to compel; expense-shifting; default as a sanction.
 
 ## Bearing on the record
 
-- **CLAIM-tmpyo35b** (litigation as siege). The law names the claim's
+- **[CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md)** (litigation as siege). The law names the claim's
   tactics as improper purposes, "harass, cause unnecessary delay, or
   needlessly increase the cost of litigation", and the Committee Note names
   "a war of attrition": the mechanism is recognized as possible and as
@@ -96,13 +96,13 @@ motion to compel; expense-shifting; default as a sanction.
   means within the rules is reached only where a paper's purpose is
   improper, and enforcement needs a motion and the court's discretion. Its
   effect in practice is not shown by the texts.
-- **QUESTION-tmpcz1ui.** A partial answer in positive law: in US federal
+- **[QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md).** A partial answer in positive law: in US federal
   civil litigation a party may not raise the other's costs through papers
   or discovery for an improper purpose, and "whether financially weak or
   affluent" makes the limit bind both sides.
-- **CASE-tmphljcr.** Proportionality's resource factor corresponds to the
+- **[CASE-tmphljcr](../cases.d/CASE-tmphljcr.md).** Proportionality's resource factor corresponds to the
   exchange's remedy discussion; the rules give no numbers.
-- **CLAIM-687** and **CLAIM-619**: the symmetric limit and an
+- **[CLAIM-687](../claims.d/CLAIM-687.md)** and **[CLAIM-619](../claims.d/CLAIM-619.md)**: the symmetric limit and an
   organization's raising the cost of challenge.
 - The exchange's A64 is faithful. Its "out of proportion to the parties'
   resources" (the LIT's summary) is approximate: resources are one of six

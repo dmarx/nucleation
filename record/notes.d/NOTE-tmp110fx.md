@@ -88,7 +88,7 @@ extending it to punishment.
 
 ## Bearing on the record
 
-- **CLAIM-tmpciy9q** (manufacturing culpability): the LIT registered this
+- **[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)** (manufacturing culpability): the LIT registered this
   work as evidence for the claim, that "how responsibility is narrated
   changes how it is assigned". The study carries less. Its DARVO is a
   denial that casts the accusation as false; the claim is about a true
@@ -99,10 +99,10 @@ extending it to punishment.
   credibility and punishment; it shifts rated responsibility only a
   little. It neither corroborates nor bounds the claim, and no relation is
   written.
-- **TERM-tmp8pnnr**: the study's "responsibility" item is culpability in
+- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: the study's "responsibility" item is culpability in
   the term's sense.
 - The study offers no test for recognizing DARVO from statements alone,
-  which is consistent with the caution A5 §4 states and QUESTION-071
+  which is consistent with the caution A5 §4 states and [QUESTION-071](../questions.d/QUESTION-071.md)
   quotes.
 
 ## Limitations

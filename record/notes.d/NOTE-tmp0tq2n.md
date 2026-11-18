@@ -73,22 +73,22 @@ mutually generative.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpna7qd.
+Filed as [THEORY-tmpna7qd](../theory.d/THEORY-tmpna7qd.md).
 
 - **Which of the originals' results it restates.** For Moral Boundaries
-  (LIT-tmp5epfk): the term and its sense, in one sentence. Not the book's
+  ([LIT-tmp5epfk](../literature.d/LIT-tmp5epfk.md)): the term and its sense, in one sentence. Not the book's
   mechanism, its examples, nor the exchange's "because other people
   routinely perform that work on their behalf" (A15) or "socially
   organized inattention" (A17), which no text read contains. For Caring
-  Democracy (LIT-tmpsm285): Tronto's own outline of the programme, which
+  Democracy ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md)): Tronto's own outline of the programme, which
   bears out A17's "the distribution of care responsibilities as a matter
   of democratic justice" in substance; nothing on which chapters ("chapters
   2 and 4").
-- **CLAIM-tmpb47ul**, the upstream strand: the privileged can refuse
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the upstream strand: the privileged can refuse
   burdensome responsibilities (p. 8), and diffused responsibility relieves
   those with most causal responsibility (p. 11). Corroborates; Tronto does
   not address blame or control.
-- **QUESTION-tmpvoufs**: "everyone's voice must be heard" in reallocating
+- **[QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md)**: "everyone's voice must be heard" in reallocating
   care responsibilities (p. 14) is a democratic answer in kind, not a
   principal–agent mechanism.
 

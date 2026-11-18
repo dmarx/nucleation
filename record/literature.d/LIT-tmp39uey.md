@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpny8gh) from the publisher's open PDF at
+  read 2026-11-17 ([NOTE-tmpny8gh](../notes.d/NOTE-tmpny8gh.md)) from the publisher's open PDF at
   Cambridge Core; worth reading for the repeat-player account and for
   §III, where overload delays recovery, raises the cost of keeping a
   case alive and protects the possessor, which corroborates
-  CLAIM-tmpyo35b.
+  [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md).
 title: 'Why the "Haves" Come Out Ahead: Speculations on the Limits of Legal Change'
 version: 2
 history:
@@ -47,15 +47,15 @@ keywords:
 implementations: []
 summary: >-
   Galanter (1974), Law & Society Review 9(1): 95–160 (Fall 1974), read
-  in NOTE-tmpny8gh. Repeat players, who litigate often with low stakes
+  in [NOTE-tmpny8gh](../notes.d/NOTE-tmpny8gh.md). Repeat players, who litigate often with low stakes
   per case, hold advantages over one-shotters, among them playing for
   rules as well as outcomes; passive and overloaded courts compound
   them, pressing claimants to settle by delay "discounting the value of
   recovery" and by "raising costs (of keeping the case alive)", and
-  protecting the possessor. It corroborates CLAIM-tmpyo35b and bears on
-  QUESTION-tmp14i7s and QUESTION-tmpcz1ui (THEORY-tmpqk131).
+  protecting the possessor. It corroborates [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) and bears on
+  [QUESTION-tmp14i7s](../questions.d/QUESTION-tmp14i7s.md) and [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md) ([THEORY-tmpqk131](../theory.d/THEORY-tmpqk131.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpny8gh THEORY-tmpqk131 — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpqk131 — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CASE-tmphljcr — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpa0wdv — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpyo35b — filed from the same exchange (2026-11-17), Proposed -->
@@ -66,7 +66,7 @@ Marc Galanter (1974). "Why the 'Haves' Come Out Ahead: Speculations on the Limit
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpny8gh).*
+*From the reading ([NOTE-tmpny8gh](../notes.d/NOTE-tmpny8gh.md)).*
 
 - Repeat players against one-shotters, "a continuum rather than" a
   dichotomous pair (pp. 97–98); the RP has "low stakes in the outcome of
@@ -84,7 +84,7 @@ Marc Galanter (1974). "Why the 'Haves' Come Out Ahead: Speculations on the Limit
 
 Registered from A61 (2026-11-16), at the owner's U28 on litigation as siege, and used again in A64 and A76. It bears on [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) (litigation as siege), [CASE-tmphljcr](../cases.d/CASE-tmphljcr.md), [QUESTION-tmp14i7s](../questions.d/QUESTION-tmp14i7s.md) and [CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md). The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpny8gh). The exchange's A61 is faithful in naming the
+Read on 2026-11-17 ([NOTE-tmpny8gh](../notes.d/NOTE-tmpny8gh.md)). The exchange's A61 is faithful in naming the
 distinction, but Galanter qualifies the asymmetry: it is a continuum, and
 one of four layers. The exchange's use of the essay for litigation as
 siege is better supported by §III (overload, delay, the cost of keeping a

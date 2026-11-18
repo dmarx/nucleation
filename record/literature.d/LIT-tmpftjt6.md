@@ -58,7 +58,7 @@ summary: >-
   360–376. DOI 10.1177/15248380251316193. Here because A cites it in the
   exchange "Assess Depp Heard Abuse" as A's evidence on how often
   violence is reported by both partners when both are asked. It bears on
-  CLAIM-tmpkivlz and CASE-tmpzt3zf. By the abstract, "bidirectional"
+  [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) and [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md). By the abstract, "bidirectional"
   means only that either partner reported acts by both, and the rates
   span 10% to 96.6%; it says nothing of culpability or control. The body
   is unread.

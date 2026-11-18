@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-17 (NOTE-tmpk6jrn) from the Nobel Foundation's PDF,
-  as the read neighbour of Hart & Moore (1990), LIT-tmph6tkz, which could
+  read in part 2026-11-17 ([NOTE-tmpk6jrn](../notes.d/NOTE-tmpk6jrn.md)) from the Nobel Foundation's PDF,
+  as the read neighbour of Hart & Moore (1990), [LIT-tmph6tkz](LIT-tmph6tkz.md), which could
   not be fetched; worth reading here as an author's own account of
   residual control rights and property rights theory, including Hart and
   Moore's results in summary. §§5–6 skimmed.
@@ -47,8 +47,8 @@ summary: >-
   workers and showed that synergistic assets belong together and that
   assets should be owned by indispensable human capital. Applied to
   financial contracting and private prisons. Filed as the read neighbour
-  of Hart & Moore (1990), LIT-tmph6tkz; read in NOTE-tmpk6jrn; its account
-  is THEORY-tmpo5it2, which corroborates CLAIM-tmpdic1g's first clause.
+  of Hart & Moore (1990), [LIT-tmph6tkz](LIT-tmph6tkz.md); read in [NOTE-tmpk6jrn](../notes.d/NOTE-tmpk6jrn.md); its account
+  is [THEORY-tmpo5it2](../theory.d/THEORY-tmpo5it2.md), which corroborates [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md)'s first clause.
 ---
 <!-- inactive-ok-file: CLAIM-tmpdic1g LIT-tmph6tkz NOTE-tmpk6jrn THEORY-tmpo5it2 — Proposed, Skimmed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
@@ -69,8 +69,8 @@ Hart, O. (2016). Incomplete Contracts and Control. Nobel Prize Lecture, 8 Decemb
 
 ## Standing in the record
 
-Filed as the read neighbour of Hart & Moore (1990), LIT-tmph6tkz. It
+Filed as the read neighbour of Hart & Moore (1990), [LIT-tmph6tkz](LIT-tmph6tkz.md). It
 stands in for that paper's place in the theory and for two of its results
 stated in a sentence each. It does not stand in for its model or proofs.
-Grossman & Hart (1986), LIT-tmpjy1vu, which it also reports, was read
+Grossman & Hart (1986), [LIT-tmpjy1vu](LIT-tmpjy1vu.md), which it also reports, was read
 itself.

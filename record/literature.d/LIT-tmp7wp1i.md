@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmplslae) from the journal's open-access galley at
+  read 2026-11-17 ([NOTE-tmplslae](../notes.d/NOTE-tmplslae.md)) from the journal's open-access galley at
   journals.library.wustl.edu; worth reading here as the legal argument
   that automated public decision systems make rules without rulemaking and
   decide cases without due process, and for its account of why challenges
@@ -55,9 +55,9 @@ summary: >-
   automation bias and the cost of decoding the system hollow further. She
   proposes "technological due process": audit trails, explained reliance
   by hearing officers, open code, testing, public input into design, and
-  not automating discretionary standards. Read in NOTE-tmplslae; its
-  account is THEORY-tmpa89iy, which corroborates CLAIM-tmpohafo,
-  CLAIM-tmph28l6 and CLAIM-410.
+  not automating discretionary standards. Read in [NOTE-tmplslae](../notes.d/NOTE-tmplslae.md); its
+  account is [THEORY-tmpa89iy](../theory.d/THEORY-tmpa89iy.md), which corroborates [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md),
+  [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) and [CLAIM-410](../claims.d/CLAIM-410.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmph28l6 CLAIM-tmpohafo THEORY-tmpa89iy — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -83,8 +83,8 @@ Danielle Keats Citron (2008). Technological Due Process. *Washington University 
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A23 as in A's reading list as the foundational legal argument that automation can collapse adjudication and rulemaking. It bears on [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (explanation, contestation and interruption are separate rights). Not read.
 
-Read on 2026-11-17 (NOTE-tmplslae). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmplslae](../notes.d/NOTE-tmplslae.md)). The exchange's characterization is
 faithful: A23's "collapse adjudication and rulemaking while undermining
 the procedural safeguards associated with both" restates the abstract's
 thesis. "Foundational" is A's evaluation. The reading also bears on
-CLAIM-tmph28l6 and CLAIM-410, which the exchange did not tie it to.
+[CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) and [CLAIM-410](../claims.d/CLAIM-410.md), which the exchange did not tie it to.

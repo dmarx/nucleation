@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  not read; set Unfetched on 2026-11-18 (ADR-053). Two lawful copies are
+  not read; set Unfetched on 2026-11-18 ([ADR-053](../decisions.d/ADR-053.md)). Two lawful copies are
   located: the authors' submitted version on PhilArchive,
   https://philpapers.org/archive/RUBALA-2.pdf (Semantic Scholar's open
   copy), and on SSRN,
@@ -10,8 +10,8 @@ status_note: >-
   Cloudflare challenge (HTTP 403) and were not retried; the Springer
   version is not open access. A read neighbour stands in closely: chapter
   7 of the authors' open-access book Algorithms and Autonomy (2021),
-  LIT-tmpnl1ls, which their acknowledgements say reproduces this article
-  "in large part" (NOTE-tmpe43ee). A human reader with a browser can likely
+  [LIT-tmpnl1ls](LIT-tmpnl1ls.md), which their acknowledgements say reproduces this article
+  "in large part" ([NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md)). A human reader with a browser can likely
   open either copy.
 title: 'Agency Laundering and Information Technologies'
 version: 2
@@ -69,8 +69,8 @@ summary: >-
   and the displacement of responsibility. The concept first appeared in
   the authors' iConference 2019 paper (doi:10.1007/978-3-030-15742-5_56);
   this article develops it, and chapter 7 of their book Algorithms and
-  Autonomy (2021), LIT-tmpnl1ls, reproduces it in large part and is read
-  as its stand-in. It bears on CLAIM-tmpb47ul and on CLAIM-472 (choosing
+  Autonomy (2021), [LIT-tmpnl1ls](LIT-tmpnl1ls.md), reproduces it in large part and is read
+  as its stand-in. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and on [CLAIM-472](../claims.d/CLAIM-472.md) (choosing
   an apparatus is open to evaluation).
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul THEORY-tmpwjlal — filed now from the same exchange or new, temporary codes, Proposed or Open -->
@@ -86,13 +86,13 @@ Alan Rubel, Clinton Castro and Adam Pham (2019). Agency Laundering and Informati
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 (also A21, A26) as the source of agency laundering, A's first connection between automated decision systems and the displacement of responsibility. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and on [CLAIM-472](../claims.d/CLAIM-472.md) (choosing an apparatus is open to evaluation). The 2021 book chapter is registered as its read neighbour, LIT-tmpnl1ls.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 (also A21, A26) as the source of agency laundering, A's first connection between automated decision systems and the displacement of responsibility. It bears on [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and on [CLAIM-472](../claims.d/CLAIM-472.md) (choosing an apparatus is open to evaluation). The 2021 book chapter is registered as its read neighbour, [LIT-tmpnl1ls](LIT-tmpnl1ls.md).
 
 **Reading pass of 2026-11-17: Unfetched; the book chapter read as the
-stand-in** (NOTE-tmpe43ee, THEORY-tmpwjlal). It stands in closely, by the
+stand-in** ([NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md), [THEORY-tmpwjlal](../theory.d/THEORY-tmpwjlal.md)). It stands in closely, by the
 authors' own account, for the definition, the wrong and the cases; whether
 its discussion of Elish and humans in the loop is in this article is not
-known. It corroborates CLAIM-tmpb47ul's upstream half and CLAIM-472.
+known. It corroborates [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s upstream half and [CLAIM-472](../claims.d/CLAIM-472.md).
 
 **The exchange's characterization, through the stand-in: partly faithful.**
 A19's "organizations and individuals can obscure their moral

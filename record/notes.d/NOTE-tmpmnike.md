@@ -50,14 +50,14 @@ term, not the text's).
 
 ## Bearing on the record
 
-- **QUESTION-tmptinzk.** "retained by the people" treats some rights as
+- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** "retained by the people" treats some rights as
   existing apart from their enumeration, the question's premise; but the
   amendment blocks an inference and supplies no criteria for what those
   rights are.
-- **QUESTION-456.** The record's separation of recognized from justified
+- **[QUESTION-456](../questions.d/QUESTION-456.md).** The record's separation of recognized from justified
   demands, made "after the Ninth Amendment", has the amendment's form: a
   recognized set does not exhaust the justified set.
-- **CLAIM-tmpcpijj.** Authority to administer a catalogue of rights is not
+- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).** Authority to administer a catalogue of rights is not
   authority over its completeness: the same parallel.
 - The exchange's A85 is faithful.
 

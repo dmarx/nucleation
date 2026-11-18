@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpupv4l) from the Legal Information Institute's
+  read 2026-11-17 ([NOTE-tmpupv4l](../notes.d/NOTE-tmpupv4l.md)) from the Legal Information Institute's
   current texts; worth reading as the positive-law guard against filings
   and discovery used to harass, delay or raise costs, which bears on
-  CLAIM-tmpyo35b and QUESTION-tmpcz1ui.
+  [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) and [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md).
 title: 'Federal Rules of Civil Procedure, Rules 11, 26 and 37'
 version: 2
 history:
@@ -47,17 +47,17 @@ keywords:
 implementations: []
 summary: >-
   Federal Rules of Civil Procedure (1937, as amended), Rules 11, 26 and
-  37, read in NOTE-tmpupv4l. Papers and discovery requests may not be
+  37, read in [NOTE-tmpupv4l](../notes.d/NOTE-tmpupv4l.md). Papers and discovery requests may not be
   presented "for any improper purpose, such as to harass, cause
   unnecessary delay, or needlessly increase the cost of litigation";
   discovery must be "proportional to the needs of the case", the
   parties' resources one of six factors; sanctions run to dismissal or
   default. The 2015 Committee Note warns against discovery used "to wage
   a war of attrition", against a party "whether financially weak or
-  affluent". It corroborates CLAIM-tmpyo35b and bears on
-  QUESTION-tmpcz1ui (THEORY-tmpe4ups).
+  affluent". It corroborates [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md) and bears on
+  [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md) ([THEORY-tmpe4ups](../theory.d/THEORY-tmpe4ups.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpupv4l THEORY-tmpe4ups — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpe4ups — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CASE-tmphljcr — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpyo35b — filed from the same exchange (2026-11-17), Proposed -->
 
@@ -67,7 +67,7 @@ Supreme Court of the United States (1937, as amended). *Federal Rules of Civil P
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpupv4l).*
+*From the reading ([NOTE-tmpupv4l](../notes.d/NOTE-tmpupv4l.md)).*
 
 - Rules 11(b)(1) and 26(g): no paper or request "for any improper purpose,
   such as to harass, cause unnecessary delay, or needlessly increase the
@@ -85,7 +85,7 @@ Supreme Court of the United States (1937, as amended). *Federal Rules of Civil P
 
 Registered from A64 (2026-11-16). It bears on [CASE-tmphljcr](../cases.d/CASE-tmphljcr.md) and [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), as the existing guard against costs imposed to make a remedy unreachable. One entry holds the three rules because the exchange uses them together. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpupv4l). A64's account is faithful. "Out of proportion
+Read on 2026-11-17 ([NOTE-tmpupv4l](../notes.d/NOTE-tmpupv4l.md)). A64's account is faithful. "Out of proportion
 to the parties' resources", in this entry's first summary, is approximate:
 resources are one of six proportionality factors, and the Committee Note
 says they cut both ways. The guard is partial, reaching papers and

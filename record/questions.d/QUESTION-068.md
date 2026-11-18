@@ -64,9 +64,9 @@ refines:
 A case in which an agent's will-organization is plainly her own and she is still not accountable, or the converse, whose verdict survives the dispute between [THEORY-118](../theory.d/THEORY-118.md) and [THEORY-119](../theory.d/THEORY-119.md). Or an argument that ownership already contains the competence and control conditions. A further survey of Frankfurt cases would not answer it.
 
 ## Note of 2026-11-17: Watson's fairness and standing conditions, through King, and Strawson's exemptions, read
-<!-- inactive-ok-file: NOTE-tmplo4r7 THEORY-tmptax6l NOTE-tmpnfib1 THEORY-tmpjhphq LIT-tmpmsh0d — new or Unavailable; the readings filed on 2026-11-18 and the unread paper one quotes -->
+<!-- inactive-ok-file: THEORY-tmptax6l THEORY-tmpjhphq LIT-tmpmsh0d — new or Unavailable; the readings filed on 2026-11-18 and the unread paper one quotes -->
 
-King 2013, read (NOTE-tmplo4r7, THEORY-tmptax6l), quoting Watson 1996 (LIT-tmpmsh0d, unread); Strawson 1962, read (NOTE-tmpnfib1, THEORY-tmpjhphq). Both THEORYs now carry `bears_on` this question.
+King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md)), quoting Watson 1996 ([LIT-tmpmsh0d](../literature.d/LIT-tmpmsh0d.md), unread); Strawson 1962, read ([NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md), [THEORY-tmpjhphq](../theory.d/THEORY-tmpjhphq.md)). Both THEORYs now carry `bears_on` this question.
 
 The question asks whether accountability needs conditions, "such as normative competence and avoidability, that ownership does not supply". Two readings say yes, in different ways.
 
@@ -78,6 +78,6 @@ Neither settles the question for will-organizations; both are evidence that sett
 No status changes.
 
 ## Note of 2026-11-17: Zeiser read: for AI-supported decisions, accountability can be had without attributability
-<!-- inactive-ok-file: NOTE-tmpnpm7l THEORY-tmpzdtc8 — new; the reading filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-tmpzdtc8 — new; the reading filed on 2026-11-18 -->
 
-Zeiser 2024, read (NOTE-tmpnpm7l, THEORY-tmpzdtc8, bears_on). For AI decision support, settling whose a decision is does not settle accountability, and accountability can be had without attributability: "the right person to blame didn't actually make the decision, such as when a manager takes the blame for her employee"; and, where only "structures for blame and liability" are wanted, "we could still aim for responsibility without attributability, for example through 'blank check responsibility'" (Conclusion). He still holds that attributability gives "a more robust basis for accountability". The domain is individual decisions with tools, not will-organizations.
+Zeiser 2024, read ([NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md), [THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md), bears_on). For AI decision support, settling whose a decision is does not settle accountability, and accountability can be had without attributability: "the right person to blame didn't actually make the decision, such as when a manager takes the blame for her employee"; and, where only "structures for blame and liability" are wanted, "we could still aim for responsibility without attributability, for example through 'blank check responsibility'" (Conclusion). He still holds that attributability gives "a more robust basis for accountability". The domain is individual decisions with tools, not will-organizations.

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  registered and read 2026-11-17 (NOTE-tmpb51ae) as the read neighbour of
-  Scanlon's What We Owe to Each Other (1998), LIT-tmp06l3b, which could not
+  registered and read 2026-11-17 ([NOTE-tmpb51ae](../notes.d/NOTE-tmpb51ae.md)) as the read neighbour of
+  Scanlon's What We Owe to Each Other (1998), [LIT-tmp06l3b](LIT-tmp06l3b.md), which could not
   be reached; worth reading here for its page-cited quotations of the book's
   formula and individualist restriction, and as a survey of contractualism
-  to 2018. It predates Scanlon's 2025 revision (LIT-tmpgoyge).
+  to 2018. It predates Scanlon's 2025 revision ([LIT-tmpgoyge](LIT-tmpgoyge.md)).
 title: 'Contractualism'
 version: 1
 history:
@@ -38,17 +38,17 @@ keywords:
 implementations: []
 summary: >-
   Ashford & Mulgan, SEP "Contractualism" (2007; revised 2018), read in
-  NOTE-tmpb51ae as the neighbour of Scanlon (1998), LIT-tmp06l3b. It takes
+  [NOTE-tmpb51ae](../notes.d/NOTE-tmpb51ae.md) as the neighbour of Scanlon (1998), [LIT-tmp06l3b](LIT-tmp06l3b.md). It takes
   contractualism in Scanlon's sense and quotes the book: an act is wrong if
   it "would be disallowed by any set of principles for the general
   regulation of behaviour that no one could reasonably reject as a basis
   for informed, unforced, general agreement" (p. 153), judged only by
   "various individuals' reasons for objecting to that principle and
   alternatives to it" (p. 229), without aggregation, and covering only what
-  we owe to one another. It bears on QUESTION-tmpk7u3e, QUESTION-tmpkqvxv
-  and QUESTION-tmplax2r (THEORY-tmpi0dks).
+  we owe to one another. It bears on [QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md), [QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md)
+  and [QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md) ([THEORY-tmpi0dks](../theory.d/THEORY-tmpi0dks.md)).
 ---
-<!-- inactive-ok-file: LIT-tmp06l3b NOTE-tmpb51ae THEORY-tmpi0dks — Unavailable or new; the book this stands in for, and this reading -->
+<!-- inactive-ok-file: LIT-tmp06l3b THEORY-tmpi0dks — Unavailable or new; the book this stands in for, and this reading -->
 
 # LIT-tmp3y2ok: Contractualism
 
@@ -73,10 +73,10 @@ Ashford, E. & Mulgan, T. (2007; substantive revision 2018). "Contractualism". *S
 ## Standing in the record
 
 Registered as the read neighbour of Scanlon's *What We Owe to Each Other*
-(1998), LIT-tmp06l3b. It stands in for the book's central formula and its
+(1998), [LIT-tmp06l3b](LIT-tmp06l3b.md). It stands in for the book's central formula and its
 individualist restriction, both quoted with page numbers, and for an
 outline of chs. 4–5. It does not stand in for the chapters on reasons,
 values and well-being (chs. 1–3), promises (ch. 7) or relativism (ch. 8),
 and it is a report, not Scanlon's text. It predates Scanlon's 2025
-revision (LIT-tmpgoyge), which replaces the bilateral reading its §§3 and 8
+revision ([LIT-tmpgoyge](LIT-tmpgoyge.md)), which replaces the bilateral reading its §§3 and 8
 describe.

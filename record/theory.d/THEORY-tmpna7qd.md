@@ -23,20 +23,20 @@ corroborates:
 bears_on:
 - QUESTION-tmpvoufs
 summary: >-
-  Tronto (2018), LIT-tmpu3eh7, read in full in NOTE-tmp0tq2n, as a read
-  neighbour of Moral Boundaries (LIT-tmp5epfk, Unfetched) and Caring
-  Democracy (LIT-tmpsm285, Unavailable). It corroborates the upstream
-  strand of CLAIM-tmpb47ul, which does not rest on it: those with
+  Tronto (2018), [LIT-tmpu3eh7](../literature.d/LIT-tmpu3eh7.md), read in full in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md), as a read
+  neighbour of Moral Boundaries ([LIT-tmp5epfk](../literature.d/LIT-tmp5epfk.md), Unfetched) and Caring
+  Democracy ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md), Unavailable). It corroborates the upstream
+  strand of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md), which does not rest on it: those with
   privilege can refuse burdensome responsibilities, and responsibility
   diffused to everyone relieves those who caused the harm. It bears on
-  QUESTION-tmpvoufs with a democratic answer in kind. The wording is the
+  [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) with a democratic answer in kind. The wording is the
   reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 CLAIM-tmpb47ul — Unfetched, Unavailable, Proposed or new; the works this stands in for, the work and its reading, and the entries it bears on -->
 
 # THEORY-tmpna7qd: Privileged irresponsibility, on Tronto's account, is the capability of the relatively privileged to refuse unpleasant or burdensome responsibilities, a major source of injustice; a caring democracy would begin by realigning the privileges that keep unfair loads of care responsibility from being discussed, and hear everyone in the reallocation
 
-Tronto (2018), LIT-tmpu3eh7, read in NOTE-tmp0tq2n.
+Tronto (2018), [LIT-tmpu3eh7](../literature.d/LIT-tmpu3eh7.md), read in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md).
 
 ## The account
 

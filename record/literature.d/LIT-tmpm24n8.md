@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpv28va) from the Yale Law School repository's
+  read 2026-11-17 ([NOTE-tmpv28va](../notes.d/NOTE-tmpv28va.md)) from the Yale Law School repository's
   scan of the published article; worth reading for the property,
   liability and inalienability typology and for §V, which states the
   conversion of a property rule into a liability rule by unilateral
-  taking that CLAIM-tmpl0sgt files.
+  taking that [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md) files.
 title: 'Property Rules, Liability Rules, and Inalienability: One View of the Cathedral'
 version: 2
 history:
@@ -47,18 +47,18 @@ keywords:
 implementations: []
 summary: >-
   Calabresi & Melamed (1972), Harvard Law Review 85(6): 1089–1128, read
-  in NOTE-tmpv28va. Law decides who holds an entitlement and then how it
+  in [NOTE-tmpv28va](../notes.d/NOTE-tmpv28va.md). Law decides who holds an entitlement and then how it
   is protected: by a property rule (taken only by a purchase whose price
   the holder agrees to), a liability rule (taken on payment of "an
   objectively determined value") or an inalienability rule (transfer
   forbidden "between a willing buyer and a willing seller"); most
   entitlements are mixed. §V explains criminal sanctions as deterring
   the thief's attempt to "convert property rules into liability rules".
-  It grounds CLAIM-tmpl0sgt, qualifies CLAIM-tmp6vck6 (its
-  inalienability is instrumental and partial), and leaves CLAIM-tmp3t16f
-  and QUESTION-tmpcz1ui open. THEORY-tmpbxj3x.
+  It grounds [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md), qualifies [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md) (its
+  inalienability is instrumental and partial), and leaves [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md)
+  and [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md) open. [THEORY-tmpbxj3x](../theory.d/THEORY-tmpbxj3x.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpv28va THEORY-tmpbxj3x — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpbxj3x — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp3t16f — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp6vck6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpl0sgt — filed from the same exchange (2026-11-17), Proposed -->
@@ -69,7 +69,7 @@ Guido Calabresi and A. Douglas Melamed (1972). "Property Rules, Liability Rules,
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpv28va).*
+*From the reading ([NOTE-tmpv28va](../notes.d/NOTE-tmpv28va.md)).*
 
 - Entitlement first: law decides "which of the conflicting parties will be
   entitled to prevail", then makes "second order decisions" about how the
@@ -89,7 +89,7 @@ Guido Calabresi and A. Douglas Melamed (1972). "Property Rules, Liability Rules,
 
 Registered from A57 (2026-11-16), the exchange's account of tort law as mechanism design, and used again in A59 and A76. It bears on [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md) (an irreversible act converts consent-based protection into compensation in practice), [CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md) (breach-induced remedial hold-up), [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md) and, through inalienability rules, [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md). The exchange states the citation correctly. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmpv28va). The exchange's characterization (A57,
+Read on 2026-11-17 ([NOTE-tmpv28va](../notes.d/NOTE-tmpv28va.md)). The exchange's characterization (A57,
 A59) is faithful: the paper separates who is entitled from "the manner in
 which entitlements are protected", and A57's table matches its
 definitions. What A57 presents as its own development, "de facto

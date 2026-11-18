@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmp0loqu) from the author's preprint on the
+  read in full 2026-11-17 ([NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md)) from the author's preprint on the
   Victoria University of Wellington repository; worth reading here for its
   account of moral blackmail and of how fiduciary roles expose those in
-  caring work to it, which corroborates CLAIM-tmp76x3e and the deliberate
-  form of CLAIM-tmpe5u7i.
+  caring work to it, which corroborates [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) and the deliberate
+  form of [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md).
 title: 'Fiduciary Duties and Moral Blackmail'
 version: 2
 history:
@@ -58,8 +58,8 @@ summary: >-
   circumstances others control: a law firm that cuts lawyers' time with
   clients, an official who announces worse terms for teachers before
   exams. The burden falls on caring roles, often poorly paid and more
-  often held by women. Read in NOTE-tmp0loqu; THEORY-tmpg9i9l. It
-  corroborates CLAIM-tmp76x3e and bears on QUESTION-tmpbzq36.
+  often held by women. Read in [NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md); [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md). It
+  corroborates [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) and bears on [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpg9i9l CASE-tmpm0rpn CLAIM-tmp76x3e CLAIM-tmpa2l21 CLAIM-tmpciy9q CLAIM-tmpe5u7i — filed from the same exchange or new, temporary codes, Proposed or Open -->
 
@@ -87,7 +87,7 @@ Simon Keller (2016; issue 2018). Fiduciary Duties and Moral Blackmail. *Journal 
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 (also A15, A26, A30, A37, A49) as A's main source for moral blackmail: an actor can wrongfully place another under a genuine obligation and exploit it. Read on 2026-11-17 (NOTE-tmp0loqu). It corroborates CLAIM-tmp76x3e (normative manipulation) and the deliberate form of CLAIM-tmpe5u7i, supports the relational half of CLAIM-tmpa2l21, and bears on QUESTION-tmpbzq36; its law-firm case has the mechanism of CASE-tmpm0rpn's arm C. Keller's "Moral Blackmail and the Family" (Journal of Moral Philosophy) is not registered.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 (also A15, A26, A30, A37, A49) as A's main source for moral blackmail: an actor can wrongfully place another under a genuine obligation and exploit it. Read on 2026-11-17 ([NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md)). It corroborates [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) (normative manipulation) and the deliberate form of [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md), supports the relational half of [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md), and bears on [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md); its law-firm case has the mechanism of [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)'s arm C. Keller's "Moral Blackmail and the Family" (Journal of Moral Philosophy) is not registered.
 
 **The exchange's characterization: faithful, with slips of detail.** A13's
 "someone can wrongfully place another person under a real moral obligation
@@ -98,5 +98,5 @@ and "extra ammunition" in "the publicity war"; but his actor is "a
 government official in charge of teachers' employment", not
 "Administrators", and the teachers commit no wrong: striking is their
 "right", and the publicity is a smear. A's use of the example in
-CLAIM-tmpciy9q, as a true accusation of a real wrong, goes beyond the
+[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md), as a true accusation of a real wrong, goes beyond the
 paper.

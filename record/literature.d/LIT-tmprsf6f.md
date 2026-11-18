@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-17 (NOTE-tmpyyamt) from the publisher's open-access
+  read in full 2026-11-17 ([NOTE-tmpyyamt](../notes.d/NOTE-tmpyyamt.md)) from the publisher's open-access
   PDF at ebooks.iospress.nl; worth reading here as a compact statement of
   what "designed friction" means in human-AI interaction, every mechanism
   of which acts on the individual user's cognition. A four-page poster
@@ -57,9 +57,9 @@ summary: >-
   inefficiencies such as cognitive forcing functions, pauses,
   justification prompts and AI that challenges the user, survey its
   earlier forms and set a research agenda. No study is reported. Read in
-  NOTE-tmpyyamt; its account is THEORY-tmpiwzpj. It corroborates
-  CLAIM-tmp238zy: every mechanism it names acts on the user's thinking,
-  none on the institution's answerability. It sits beside LIT-2283
+  [NOTE-tmpyyamt](../notes.d/NOTE-tmpyyamt.md); its account is [THEORY-tmpiwzpj](../theory.d/THEORY-tmpiwzpj.md). It corroborates
+  [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md): every mechanism it names acts on the user's thinking,
+  none on the institution's answerability. It sits beside [LIT-2283](LIT-2283.md)
   (cognitive forcing functions), its reference [3].
 ---
 <!-- inactive-ok-file: CLAIM-tmp238zy THEORY-tmpiwzpj — Proposed; cited with their standing, entries this reading bears on or files -->
@@ -84,7 +84,7 @@ Chiara Natali, Mohammad Naiseh, Federico Cabitza and Brett Frischmann (2025). Be
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A21 and A23 as A's source for deliberately introduced friction in AI systems to preserve judgment and agency. It bears on [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md) (cognitive friction and political friction differ), which separates what this work treats from political friction, and sits beside [LIT-2283](LIT-2283.md) (cognitive forcing functions). The anthology may want it. Not read.
 
-Read on 2026-11-17 (NOTE-tmpyyamt). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmpyyamt](../notes.d/NOTE-tmpyyamt.md)). The exchange's characterization is
 partly faithful: A21 says the work "develops the idea of deliberately
 introducing friction into AI systems to preserve critical reasoning and
 human agency". The aims are the paper's, but it defines and surveys the

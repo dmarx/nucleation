@@ -82,18 +82,18 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 Not read; Unavailable (status note). Two neighbours stand in, partly.
 
-- **Hardesty et al. (2015)**, LIT-tmpjl3bp, with Johnson as co-author,
+- **Hardesty et al. (2015)**, [LIT-tmpjl3bp](LIT-tmpjl3bp.md), with Johnson as co-author,
   quotes the book once ("Control is a continuum. Everyone ‘controls’ their
   partner to some extent", p. 87) and uses its "2 main types": coercive
   controlling violence (intimate terrorism), violence "in the context of
   coercive control", and situational couple violence, which "is not part
   of a larger motive to control one’s partner".
-- **Johnson (2006)**, LIT-tmpvjyqr, names three types: those two and
+- **Johnson (2006)**, [LIT-tmpvjyqr](LIT-tmpvjyqr.md), names three types: those two and
   violent resistance, "when a victim of intimate terrorism fights back".
 
 **The exchange's characterization is unverified on the fourth type.** A3:
 "Johnson's framework explicitly allows for relationships in which both
 partners are violent and controlling." Neither neighbour mentions mutual
-violent control, nor does Mazinani and O'Connor (2026), LIT-tmpxr3yx, which
+violent control, nor does Mazinani and O'Connor (2026), [LIT-tmpxr3yx](LIT-tmpxr3yx.md), which
 names three of Johnson's types. The keyword and A's table stay A's until
 the book is read.

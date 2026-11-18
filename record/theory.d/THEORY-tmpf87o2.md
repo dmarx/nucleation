@@ -20,10 +20,10 @@ corroborates:
 - CLAIM-403
 - CLAIM-tmpm95mo
 summary: >-
-  Arnstein (1969), LIT-tmpg8vrx, read from an OCR scan in NOTE-tmp32vnp. It
-  corroborates three claims that do not rest on it: CLAIM-523 and
-  CLAIM-403 (voice made legible or admitted without efficacy or uptake)
-  and CLAIM-tmpm95mo (citizen majorities and community control contained
+  Arnstein (1969), [LIT-tmpg8vrx](../literature.d/LIT-tmpg8vrx.md), read from an OCR scan in [NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md). It
+  corroborates three claims that do not rest on it: [CLAIM-523](../claims.d/CLAIM-523.md) and
+  [CLAIM-403](../claims.d/CLAIM-403.md) (voice made legible or admitted without efficacy or uptake)
+  and [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) (citizen majorities and community control contained
   by another's veto and resources). The wording is the reader's; adopting
   it is the owner's call.
 ---
@@ -31,7 +31,7 @@ summary: >-
 
 # THEORY-tmpf87o2: Citizen participation is meaningful to the degree that it redistributes power over outcomes: an eight-rung ladder runs from non-participation (manipulation, therapy) through tokenism (informing, consultation, placation), where citizens may hear and be heard without power to ensure they are heeded, to citizen power (partnership, delegated power, citizen control)
 
-Arnstein (1969), LIT-tmpg8vrx.
+Arnstein (1969), [LIT-tmpg8vrx](../literature.d/LIT-tmpg8vrx.md).
 
 ## The account
 

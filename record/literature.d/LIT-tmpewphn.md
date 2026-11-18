@@ -86,8 +86,8 @@ excessive amount of moral weight") and with Oberdiek's review ("the
 outsourcing of moral responsibility from society at large to its
 soldiers"), but unchecked against the text. The LIT's "moral risk and
 morally compromising decisions" echoes the reviewer's wording, not the
-authors'. Its bearing on CLAIM-tmpe5u7i, QUESTION-tmpbzq36 and
-CLAIM-tmp76x3e stays unverified. Keller (LIT-tmpgo0lt, read) is the
+authors'. Its bearing on [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md), [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md) and
+[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) stays unverified. Keller ([LIT-tmpgo0lt](LIT-tmpgo0lt.md), read) is the
 record's read source for exploiting an agent through its obligations,
 deliberate and fiduciary, not about soldiers; it does not stand in for
 this book.

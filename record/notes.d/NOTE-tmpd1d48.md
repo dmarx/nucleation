@@ -90,28 +90,28 @@ take-up; red tape as distinct; stigma and autonomy; hidden politics
 
 ## Bearing on the record
 
-- **CLAIM-tmph28l6** (the cost of imposing a decision and the cost of
+- **[CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md)** (the cost of imposing a decision and the cost of
   challenging it are separate). Qualifies; not filed as a relation. The
   burdens here are costs of obtaining an entitlement (applying,
   documenting, recertifying), not of contesting a decision. What they
   share with the claim is structural: who bears the costs in a
   citizen-state interaction is set, often deliberately and out of view,
   apart from the formal entitlement.
-- **CLAIM-669** (exploitation through access granted on encumbering
+- **[CLAIM-669](../claims.d/CLAIM-669.md)** (exploitation through access granted on encumbering
   terms). No direct bearing: burdens bar access rather than encumber it.
-- **CLAIM-681** (time taken by activities one cannot reasonably refuse).
+- **[CLAIM-681](../claims.d/CLAIM-681.md)** (time taken by activities one cannot reasonably refuse).
   Adjacent: learning and compliance costs are such time.
-- **LIT-1609**, the authors' 2018 book *Administrative Burden:
+- **[LIT-1609](../literature.d/LIT-1609.md)**, the authors' 2018 book *Administrative Burden:
   Policymaking by Other Means*, is held and Deferred.
 
 ## Connections
 
-Stands in for Herd & Moynihan (2025), LIT-tmpm4lvs, for the authors'
+Stands in for Herd & Moynihan (2025), [LIT-tmpm4lvs](../literature.d/LIT-tmpm4lvs.md), for the authors'
 conceptual framework: the three costs, which the exchange (A23) says the
 2025 review distinguishes, and burden as a political choice. It does not
 stand in for the 2025 review's own synthesis of safety-net evidence or any
 revision of the account since 2015, and it is a Moynihan-led article, not
-the Herd-led review. The phrase in LIT-tmpm4lvs's summary, friction that
+the Herd-led review. The phrase in [LIT-tmpm4lvs](../literature.d/LIT-tmpm4lvs.md)'s summary, friction that
 "can itself dominate", is not in this article.
 
 ## Limitations

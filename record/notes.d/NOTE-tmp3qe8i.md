@@ -85,17 +85,17 @@ factor; information comes in a fixed order, intent first.
   participants' assessments, although the proposed differences between
   wrongness and blame judgments were only partly supported"): faithful.
   The one difference that held is causality's, and it is tiny (d = 0.05).
-- **CLAIM-tmpciy9q**: observers' blame rises with the agent's intent, the
+- **[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)**: observers' blame rises with the agent's intent, the
   harm and the agent's own causal part, which are what a party who
   arranges another's real, knowing wrong would set up. The study says
   nothing about provocation, arranged conditions, or how observers weigh
   an upstream arranger, so it does not test the claim's audience move. No
   relation is written.
-- **CLAIM-tmpa2l21**: the scenarios vary whether the agent or "another
+- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)**: the scenarios vary whether the agent or "another
   independent source" caused the outcome, not whether a source structured
   the agent's choice.
 - **Moral luck**: the outcome effect is the experimental form of moral
-  luck; Williams and Nagel's symposium (LIT-tmpswc1p) is unread.
+  luck; Williams and Nagel's symposium ([LIT-tmpswc1p](../literature.d/LIT-tmpswc1p.md)) is unread.
 
 ## Limitations
 

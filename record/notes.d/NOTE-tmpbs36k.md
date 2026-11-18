@@ -67,14 +67,14 @@ representatives.
 
 ## Bearing on the record
 
-- **QUESTION-tmpgeqju.** §3 answers "who" with a majority and gives a
+- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** §3 answers "who" with a majority and gives a
   trigger, a government "found inadequate or contrary to these purposes".
   §1's limit on compacts is a protection placed beyond revision, but it
   binds compacts, not majorities as such.
-- **QUESTION-tmpea19q.** §2 grounds amenability in the source of power,
-  which is the ground of entrusted authority CLAIM-tmpnhesz lists; §5 adds
+- **[QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md).** §2 grounds amenability in the source of power,
+  which is the ground of entrusted authority [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) lists; §5 adds
   an institutional means, rotation.
-- **CLAIM-tmp6vck6.** §1's limit is on alienating others' (posterity's)
+- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** §1's limit is on alienating others' (posterity's)
   rights by compact, not one's own; the document uses "inalienable" only
   for the majority's right to reform government (§3).
 - The exchange's A85 is faithful in substance; the text's word is

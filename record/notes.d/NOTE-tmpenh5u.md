@@ -73,13 +73,13 @@ influence; the resistive citizenry.
 
 ## Bearing on the record
 
-- **TERM-tmpsit04.** "Contestatory citizenry" and "unconditioned"
+- **[TERM-tmpsit04](../terms.d/TERM-tmpsit04.md).** "Contestatory citizenry" and "unconditioned"
   influence belong to the same family as the term's protected
   contestability; the openings do not define "unconditioned".
-- **QUESTION-tmphoumu.** Insulating popular influence from "electoral
+- **[QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md).** Insulating popular influence from "electoral
   pressures and private lobbies" is a requirement of independence, stated
   for the people's influence over the state.
-- **CLAIM-tmpbqunx.** Nothing read on classes of opposition.
+- **[CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md).** Nothing read on classes of opposition.
 - The exchange's A83 is partly verified: control must be "unconditioned"
   and "efficacious" against domination; its gloss "not dependent on
   government officials' willingness to cooperate" is not in the text read.

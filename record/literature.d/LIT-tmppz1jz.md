@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmp7xmfu) from the authors' accepted manuscript
+  read 2026-11-17 ([NOTE-tmp7xmfu](../notes.d/NOTE-tmp7xmfu.md)) from the authors' accepted manuscript
   rehosted on a CNRS research station's site; worth reading here as the
   conceptual replication showing the marshmallow test's prediction of
   later achievement modest and largely explained by background. The
@@ -54,8 +54,8 @@ summary: >-
   the original studies' and fell by two-thirds with controls for
   background, early cognition and the home environment, to
   non-significance with concurrent controls; behavior showed almost no
-  association. Read in NOTE-tmp7xmfu; its account is THEORY-tmpprcs1. It
-  confirms what CASE-tmp07hx9 says it cannot show.
+  association. Read in [NOTE-tmp7xmfu](../notes.d/NOTE-tmp7xmfu.md); its account is [THEORY-tmpprcs1](../theory.d/THEORY-tmpprcs1.md). It
+  confirms what [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) says it cannot show.
 ---
 <!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d THEORY-tmpprcs1 — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -79,7 +79,7 @@ Tyler W. Watts, Greg J. Duncan and Haonan Quan (2018). Revisiting the Marshmallo
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A51 as A's evidence that the marshmallow test's association with later achievement shrinks once background is accounted for. It bears on [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) and [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md), beside Sperber et al. 2024, registered with it. Not read.
 
-Read on 2026-11-17 (NOTE-tmp7xmfu). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmp7xmfu](../notes.d/NOTE-tmp7xmfu.md)). The exchange's characterization is
 faithful: A51's association that "diminished considerably after
 accounting for family background, early cognitive ability, and the home
 environment" is the abstract's. A leaves out that the headline figures are

@@ -20,10 +20,10 @@ source:
 corroborates:
 - CLAIM-tmpohafo
 summary: >-
-  Cerrato, Sahlgren & Heilmann (2026), LIT-tmp9dq5h, read in NOTE-tmpsuiyz:
+  Cerrato, Sahlgren & Heilmann (2026), [LIT-tmp9dq5h](../literature.d/LIT-tmp9dq5h.md), read in [NOTE-tmpsuiyz](../notes.d/NOTE-tmpsuiyz.md):
   experiments on one resume-screening pipeline with two retrieval-based
   methods, and a normative argument for relational recourse. It
-  corroborates CLAIM-tmpohafo, which does not rest on it: explanation can
+  corroborates [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md), which does not rest on it: explanation can
   be given while the choices that would have to be contested stay hidden.
   The wording is the reader's; adopting it is the owner's call.
 ---
@@ -31,7 +31,7 @@ summary: >-
 
 # THEORY-tmpu63nn: Counterfactual explanations used to justify a decision or to offer recourse are partly artifacts of the deployer's upstream choices of labels, measures, selection metrics and validation, which shift them as much as or more than the explanation method does, so on their own they cannot show that a decision was justified or what its subject should change, and they bracket whether the decision-maker should have acted otherwise
 
-Cerrato, Sahlgren & Heilmann (2026), LIT-tmp9dq5h.
+Cerrato, Sahlgren & Heilmann (2026), [LIT-tmp9dq5h](../literature.d/LIT-tmp9dq5h.md).
 
 ## The result
 
@@ -55,4 +55,4 @@ to evaluating CEs for recourse".
   conclusions describe a single method, and some numbers in the text do
   not agree with each other.
 - **Anything about suspending a decision.** The interruption entitlement
-  of CLAIM-tmpohafo is untouched.
+  of [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) is untouched.

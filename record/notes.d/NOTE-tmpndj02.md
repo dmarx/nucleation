@@ -66,14 +66,14 @@ alter or abolish; a long train of abuses; despotism.
 
 ## Bearing on the record
 
-- **QUESTION-tmptinzk.** The rights are presented as prior to government
+- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** The rights are presented as prior to government
   ("to secure these rights, Governments are instituted"), the independence
   the question proposes. The rights named are few and abstract, and their
   unalienability is asserted, not explained.
-- **QUESTION-tmpgeqju.** "Who" is answered with "the People", with a
+- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** "Who" is answered with "the People", with a
   threshold for exercising the right; procedures and what lies beyond
   revision are not addressed.
-- **CLAIM-tmp6vck6.** The text gives no theory of what "unalienable" means,
+- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** The text gives no theory of what "unalienable" means,
   so it cannot by itself support reading inalienability as a limit on
   powers rather than on exercise.
 - The exchange's A90 is faithful, close to verbatim; it omits the

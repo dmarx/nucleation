@@ -23,12 +23,12 @@ corroborates:
 bears_on:
 - QUESTION-tmpvoufs
 summary: >-
-  Santoni de Sio and van den Hoven (2018), LIT-tmpqyz50, read in
-  NOTE-tmp6l52i. It corroborates the control-and-duty part of
-  CLAIM-tmpb47ul, which does not rest on it: presence is not control,
+  Santoni de Sio and van den Hoven (2018), [LIT-tmpqyz50](../literature.d/LIT-tmpqyz50.md), read in
+  [NOTE-tmp6l52i](../notes.d/NOTE-tmp6l52i.md). It corroborates the control-and-duty part of
+  [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md), which does not rest on it: presence is not control,
   designers owe operators a system whose fitness they can check, and
   responsibility traces upstream when the operator's conditions fail
-  through no fault of hers. It bears on QUESTION-tmpvoufs with a pair of
+  through no fault of hers. It bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) with a pair of
   duties, not an instrument of accountability. The wording is the
   reader's; adopting it is the owner's call.
 ---
@@ -36,8 +36,8 @@ summary: >-
 
 # THEORY-tmpnmvsj: Meaningful human control over an autonomous system, on Santoni de Sio and van den Hoven's account, requires that the system track the human moral reasons and facts relevant in the circumstances, and that its outcomes trace to at least one human in its design or use who understands its capabilities and that others may hold them answerable; presence in the loop is not control
 
-Santoni de Sio and van den Hoven (2018), LIT-tmpqyz50, read in
-NOTE-tmp6l52i.
+Santoni de Sio and van den Hoven (2018), [LIT-tmpqyz50](../literature.d/LIT-tmpqyz50.md), read in
+[NOTE-tmp6l52i](../notes.d/NOTE-tmp6l52i.md).
 
 ## The account
 

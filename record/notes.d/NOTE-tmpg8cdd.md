@@ -78,24 +78,24 @@ dissembler; reflexive control (a keyword only).
 
 ## Bearing on the record
 
-- **CLAIM-tmp76x3e** (governing an agent through its own sound values).
+- **[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)** (governing an agent through its own sound values).
   Left open. Lefebvre models which choices count as good within a system,
   the kind of model of a target's evaluative criteria a reflexive
   controller would need, but nothing here links it to manipulation. A's
   "bridge" between reflexive control and manipulating moral reasoning is
   not supported by this paper.
-- **CLAIM-404** (governing an organization through the criteria by which
+- **[CLAIM-404](../claims.d/CLAIM-404.md)** (governing an organization through the criteria by which
   it weighs evidence). Left open: the two systems are a case of evaluative
   criteria differing, and nothing here goes further.
 
 ## Connections
 
-Stands in for Algebra of Conscience (1982), LIT-tmpkqy2y, for its thesis
+Stands in for Algebra of Conscience (1982), [LIT-tmpkqy2y](../literature.d/LIT-tmpkqy2y.md), for its thesis
 (two ethical systems, Western and Soviet) and its compromise and
 confrontation typology, which it attributes to the book. It reproduces
 neither the Boolean model nor the derivations, and gives no page
 references to the book. It does not cite Lefebvre's 1980 paper,
-LIT-tmpawg9f, and cannot stand in for what that paper proves.
+[LIT-tmpawg9f](../literature.d/LIT-tmpawg9f.md), and cannot stand in for what that paper proves.
 
 ## Limitations
 

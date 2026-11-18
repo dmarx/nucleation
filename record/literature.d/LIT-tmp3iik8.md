@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpnpm7l) from the PubMed Central full text; worth
+  read 2026-11-17 ([NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md)) from the PubMed Central full text; worth
   reading here for the attributability gap, a failure of decision
   ownership distinct from accountability in AI-supported decisions.
 title: 'Owning Decisions: AI Decision-Support and the Attributability-Gap'
@@ -51,8 +51,8 @@ summary: >-
   transparency, customise the tool, or confine it to description. Even
   descriptive tools carry value-judgements, so attributability comes in
   degrees; "responsibility without attributability" remains possible where
-  only blame and liability are wanted. Read in NOTE-tmpnpm7l;
-  THEORY-tmpzdtc8.
+  only blame and liability are wanted. Read in [NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md);
+  [THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpb47ul THEORY-tmpzdtc8 QUESTION-068 TERM-tmp8pnnr — filed now from the same exchange or new, temporary codes, Deferred or Proposed -->
 
@@ -75,7 +75,7 @@ Jannik Zeiser (2024). Owning Decisions: AI Decision-Support and the Attributabil
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between attributability and accountability in AI-supported decisions. Read on 2026-11-17 (NOTE-tmpnpm7l). It corroborates CLAIM-022 and bears on QUESTION-068 (THEORY-tmpzdtc8), and gives TERM-tmp8pnnr a source for a narrower attributability sense. On CLAIM-tmpb47ul it says only that a user can be accountable for a decision not attributable to her. The anthology may want it for AI decision support.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A19 as A's source for the distinction between attributability and accountability in AI-supported decisions. Read on 2026-11-17 ([NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md)). It corroborates [CLAIM-022](../claims.d/CLAIM-022.md) and bears on [QUESTION-068](../questions.d/QUESTION-068.md) ([THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md)), and gives [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md) a source for a narrower attributability sense. On [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) it says only that a user can be accountable for a decision not attributable to her. The anthology may want it for AI decision support.
 
 **The exchange's characterization: faithful.** A19's "related to but
 distinct from accountability" and its gloss, "whose *value judgment* the

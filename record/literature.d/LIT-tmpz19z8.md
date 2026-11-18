@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmp2b9lt) from the current SEP entry (2025
+  read 2026-11-17 ([NOTE-tmp2b9lt](../notes.d/NOTE-tmp2b9lt.md)) from the current SEP entry (2025
   revision); worth reading as the standard map of the analysis of rights
   the record's rights claims use: Hohfeldian incidents, molecular
   rights, powers, and the will–interest dispute.
@@ -42,16 +42,16 @@ keywords:
 implementations: []
 summary: >-
   Wenar & Cruft, SEP "Rights" (2005; substantive revision 7 June 2025),
-  read in NOTE-tmp2b9lt. Rights are Hohfeldian incidents that "fit
+  read in [NOTE-tmp2b9lt](../notes.d/NOTE-tmp2b9lt.md). Rights are Hohfeldian incidents that "fit
   together in characteristic ways to create complex "molecular" rights",
   powers being "the ability to alter her own or another's Hohfeldian
   incidents"; their function is contested between will and interest
   theories, with Scanlon's constraint view among the rivals. Rights are
   classed as inalienable, forfeitable or waivable by how the holder's
-  acts affect them. It corroborates CLAIM-tmplidg6's structural half and
-  bears on QUESTION-tmptinzk (THEORY-tmpxe1we).
+  acts affect them. It corroborates [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md)'s structural half and
+  bears on [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) ([THEORY-tmpxe1we](../theory.d/THEORY-tmpxe1we.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmp2b9lt THEORY-tmpxe1we — new; the reading of 2026-11-17 and its theory, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpxe1we — new; the reading of 2026-11-17 and its theory, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmplidg6 — filed from the same exchange (2026-11-17), Proposed -->
 <!-- inactive-ok-file: CLAIM-tmpnb4v4 — filed from the same exchange (2026-11-17), Proposed -->
 
@@ -61,7 +61,7 @@ Leif Wenar and Rowan Cruft (2005; substantive revision 2025). "Rights". *Stanfor
 
 ## Key takeaways
 
-*From the reading (NOTE-tmp2b9lt).*
+*From the reading ([NOTE-tmp2b9lt](../notes.d/NOTE-tmp2b9lt.md)).*
 
 - Rights are "entitlements (not) to perform certain actions, or (not) to be
   in certain states; or entitlements that others (not) perform certain
@@ -79,5 +79,5 @@ Leif Wenar and Rowan Cruft (2005; substantive revision 2025). "Rights". *Stanfor
 
 Registered from A87 (2026-11-17). It bears on [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md), [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md) and [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md). Correction: the exchange names no authors; its "substantively revised in June 2025" is correct. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
-Read on 2026-11-17 (NOTE-tmp2b9lt). A87 is faithful: "molecular" rights is the
+Read on 2026-11-17 ([NOTE-tmp2b9lt](../notes.d/NOTE-tmp2b9lt.md)). A87 is faithful: "molecular" rights is the
 entry's term, and the June 2025 revision date is right.

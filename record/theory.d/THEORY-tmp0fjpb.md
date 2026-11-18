@@ -17,20 +17,20 @@ source:
 - LIT-tmp1xupk
 summary: >-
   Catholic Legal Immigration Network, Inc. v. Rubio, ECF No. 83 (S.D.N.Y.
-  21 August 2026), LIT-tmp1xupk, read in NOTE-tmplt8sm. Officers were to refuse
+  21 August 2026), [LIT-tmp1xupk](../literature.d/LIT-tmp1xupk.md), read in [NOTE-tmplt8sm](../notes.d/NOTE-tmplt8sm.md). Officers were to refuse
   "regardless of whether" an individualized assessment found the applicant
   eligible, so that "whatever determinations they make as to eligibility
   ... are ultimately irrelevant. The outcome is predetermined." Held
   unlawful under §§ 1152(a)(1)(A), 1201(g) and 1104(a), not under the
-  public-charge provision. Filed as grounds of CLAIM-tmpw7pli, a documented
+  public-charge provision. Filed as grounds of [CLAIM-tmpw7pli](../claims.d/CLAIM-tmpw7pli.md), a documented
   specimen of it, by a note on that claim. The wording is the reader's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmplt8sm CLAIM-tmpw7pli — Proposed or new; the reading and the claim it grounds -->
+<!-- inactive-ok-file: CLAIM-tmpw7pli — Proposed or new; the reading and the claim it grounds -->
 
 # THEORY-tmp0fjpb: In CLINIC v. Rubio the Southern District of New York held that the State Department's 2026 policy ordering consular officers to refuse immigrant visas to nationals of 75 countries, whatever individualized assessment found of their eligibility, made those determinations irrelevant to the outcome, was contrary to the bar on nationality discrimination and to the rule that refusals rest on grounds the law sets out, and exceeded the Secretary of State's authority, and vacated it with the refusals based solely on it
 
-CLINIC v. Rubio, ECF No. 83, LIT-tmp1xupk.
+CLINIC v. Rubio, ECF No. 83, [LIT-tmp1xupk](../literature.d/LIT-tmp1xupk.md).
 
 ## The holding
 

@@ -72,12 +72,12 @@ rights.
 
 ## Bearing on the record
 
-- **TERM-085.** It names "the duties to respect, protect and fulfil (Shue's
+- **[TERM-085](../terms.d/TERM-085.md).** It names "the duties to respect, protect and fulfil (Shue's
   Basic Rights, 1980, and the UN treaty bodies' usage)". Shue's own triad,
   by the index, is avoidance, protection and aid; "respect, protect and
   fulfil" is the later treaty bodies' wording, which the term runs
   together with Shue's.
-- **CLAIM-tmpes6ef.** Weakly. Shue's triad divides what a right demands of
+- **[CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md).** Weakly. Shue's triad divides what a right demands of
   duty-bearers; the claim divides what a person owes toward rules and
   institutions (comply, support, establish). Chapter 7's title suggests he
   later treats duties to build institutions; not read.

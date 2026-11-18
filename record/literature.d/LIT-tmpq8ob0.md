@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmpuyt9q) from a scan of the published article on
+  read 2026-11-17 ([NOTE-tmpuyt9q](../notes.d/NOTE-tmpuyt9q.md)) from a scan of the published article on
   a Duke course page; worth reading here as the formal account of how
   rewarding measured tasks draws effort from unmeasured ones, and of the
   instruments that substitute for incentives.
@@ -52,8 +52,8 @@ summary: >-
   falls with the difficulty of measuring the others, and can be a fixed
   wage. Employees who do not own an asset get muted incentives; limits on
   outside activities and job design substitute for incentives. Read in
-  NOTE-tmpuyt9q; its account is THEORY-tmpnvvl4, which bears on
-  QUESTION-386. Near CASE-tmpm0rpn and TERM-108.
+  [NOTE-tmpuyt9q](../notes.d/NOTE-tmpuyt9q.md); its account is [THEORY-tmpnvvl4](../theory.d/THEORY-tmpnvvl4.md), which bears on
+  [QUESTION-386](../questions.d/QUESTION-386.md). Near [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) and [TERM-108](../terms.d/TERM-108.md).
 ---
 <!-- inactive-ok-file: CASE-tmpm0rpn TERM-108 THEORY-tmpnvvl4 — Proposed; cited with their standing, entries this reading bears on or files -->
 
@@ -77,7 +77,7 @@ Bengt Holmström and Paul Milgrom (1991). Multitask Principal–Agent Analyses: 
 
 Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A53 as A's source for the distortion of effort toward measurable tasks under strong incentives. It bears on [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) (three hospitals with the same output and budget) and on [QUESTION-386](../questions.d/QUESTION-386.md), for which the ledger calls it the natural work. Not read.
 
-Read on 2026-11-17 (NOTE-tmpuyt9q). The exchange's characterization is
+Read on 2026-11-17 ([NOTE-tmpuyt9q](../notes.d/NOTE-tmpuyt9q.md)). The exchange's characterization is
 faithful: A53's "rewarding measurable performance can distort effort away
 from less measurable tasks" is the paper's teaching example. A leaves out
 its other half, the instruments that respond to it.

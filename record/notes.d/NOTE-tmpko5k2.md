@@ -57,14 +57,14 @@ None argued; an interview.
 
 ## Bearing on the record
 
-Filed as THEORY-tmprxeh7.
+Filed as [THEORY-tmprxeh7](../theory.d/THEORY-tmprxeh7.md).
 
 - **Which of the originals' results it restates.** That privileged
   irresponsibility is Tronto's and runs through both books. Its carriage
   image is the nearest any text read comes to A17's "socially organized
   inattention", but it is an image, not an account, and the inattention
   phrase itself is in no text read.
-- **CLAIM-tmpb47ul**: weakly, the image of not knowing those who do the
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**: weakly, the image of not knowing those who do the
   work. No relation is written.
 
 ## Limitations

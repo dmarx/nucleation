@@ -18,9 +18,9 @@ source:
 corroborates:
 - CLAIM-tmpdic1g
 summary: >-
-  Hart (2016), LIT-tmpvz7ds, his Nobel lecture, read in part in
-  NOTE-tmpk6jrn as the read neighbour of Hart & Moore (1990),
-  LIT-tmph6tkz. It corroborates the first clause of CLAIM-tmpdic1g, which
+  Hart (2016), [LIT-tmpvz7ds](../literature.d/LIT-tmpvz7ds.md), his Nobel lecture, read in part in
+  [NOTE-tmpk6jrn](../notes.d/NOTE-tmpk6jrn.md) as the read neighbour of Hart & Moore (1990),
+  [LIT-tmph6tkz](../literature.d/LIT-tmph6tkz.md). It corroborates the first clause of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md), which
   does not rest on it, and qualifies its worker example: power over a
   worker runs through the assets she needs and her replaceability. The
   wording is the reader's; adopting it is the owner's call.
@@ -29,7 +29,7 @@ summary: >-
 
 # THEORY-tmpo5it2: When contracts are incomplete, the right to decide what the contract leaves out, the residual control right, belongs to the owner of the relevant non-human assets, and allocating it moves bargaining power between the parties and so their incentives to invest in the relationship
 
-Hart (2016), LIT-tmpvz7ds.
+Hart (2016), [LIT-tmpvz7ds](../literature.d/LIT-tmpvz7ds.md).
 
 ## The account
 

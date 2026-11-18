@@ -82,12 +82,12 @@ democratic justice, rather than merely private virtue" is verified in
 substance through Tronto's own later summaries, not the book: "Democracy
 as the allocation of caring responsibilities in a political community and
 the method of giving equal voice to all members of the community in
-making these allocations" (LIT-tmptq6ih), and the programme's first step,
+making these allocations" ([LIT-tmptq6ih](LIT-tmptq6ih.md)), and the programme's first step,
 "to realign a system of privileges that make it impossible to discuss how
 some people take on an unfair load of care responsibilities"
-(LIT-tmpu3eh7, p. 14). Exemption, "because one has more important duties:
-protection, production, taking care of one's own" (LIT-tmptq6ih), is the
+([LIT-tmpu3eh7](LIT-tmpu3eh7.md), p. 14). Exemption, "because one has more important duties:
+protection, production, taking care of one's own" ([LIT-tmptq6ih](LIT-tmptq6ih.md)), is the
 book's privileged irresponsibility in outline. A's pointer to "chapters 2
-and 4" stays unverified. The neighbours corroborate CLAIM-tmpb47ul's
-upstream strand and bear on QUESTION-tmpvoufs (THEORY-tmpxw0zo,
-THEORY-tmpna7qd).
+and 4" stays unverified. The neighbours corroborate [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s
+upstream strand and bear on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) ([THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md),
+[THEORY-tmpna7qd](../theory.d/THEORY-tmpna7qd.md)).

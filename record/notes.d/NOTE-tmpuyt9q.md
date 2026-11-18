@@ -94,19 +94,19 @@ responsibility.
 
 ## Bearing on the record
 
-- **QUESTION-386** (funding by observed activity and capabilities valued
+- **[QUESTION-386](../questions.d/QUESTION-386.md)** (funding by observed activity and capabilities valued
   in rare circumstances). Bears on it by supplying a mechanism: §3.3
   models the split between a measured current output and an unmeasured
   asset value, and shows strong pay on output leads the agent to neglect
   the asset. The paper concerns an agent's pay, not an organization's
   budget rule, so it does not answer the question.
-- **CASE-tmpm0rpn** (three hospitals). Arm B rewards a visible measure in a
+- **[CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)** (three hospitals). Arm B rewards a visible measure in a
   contest; the model predicts attention drawn from unmeasured duties. Note
   9 (agents supply effort without pay) is the formal room for arm C,
   though the paper does not treat moral appeals or exploitation.
-- **TERM-108** (proxy objective). This is a reactivity case in that term's
+- **[TERM-108](../terms.d/TERM-108.md)** (proxy objective). This is a reactivity case in that term's
   sense (the agent reallocates effort in response to the measure), beside
-  LIT-1330 (Espeland and Sauder, "Rankings and Reactivity") and CASE-023.
+  [LIT-1330](../literature.d/LIT-1330.md) (Espeland and Sauder, "Rankings and Reactivity") and [CASE-023](../cases.d/CASE-023.md).
 
 ## Verdict on the exchange's characterization
 

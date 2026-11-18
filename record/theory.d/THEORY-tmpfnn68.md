@@ -16,10 +16,10 @@ source:
 - LIT-tmpqju5l
 summary: >-
   Depp II v News Group Newspapers [2020] EWHC 2911 (QB), Nicol J,
-  LIT-tmpqju5l, read in NOTE-tmppb4aj. The account is the court's findings
+  [LIT-tmpqju5l](../literature.d/LIT-tmpqju5l.md), read in [NOTE-tmppb4aj](../notes.d/NOTE-tmppb4aj.md). The account is the court's findings
   as the court made them, in a libel action to which Ms Heard was not a
   party; the record adds no judgment of the parties. It is the case
-  CASE-tmpzt3zf and CLAIM-tmpkivlz abstract from, and supplies none of the
+  [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md) and [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) abstract from, and supplies none of the
   power-allocation facts the case stipulates. The wording is the
   reader's; adopting it is the owner's call.
 ---
@@ -28,7 +28,7 @@ summary: >-
 # THEORY-tmpfnn68: The High Court found, on the balance of probabilities and incident by incident, that 12 of the 14 assaults pleaded against Mr Depp were proved, all but Incidents 6 and 11, and held The Sun's words substantially true in the meaning that he had committed physical violence against Ms Heard, causing significant injury and on occasion leading her to fear for her life
 
 Depp II v News Group Newspapers Ltd & Anor [2020] EWHC 2911 (QB), Nicol J,
-LIT-tmpqju5l.
+[LIT-tmpqju5l](../literature.d/LIT-tmpqju5l.md).
 
 ## The findings
 

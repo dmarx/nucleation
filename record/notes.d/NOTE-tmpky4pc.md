@@ -99,15 +99,15 @@ responsibility.
 
 ## Bearing on the record
 
-- **CLAIM-tmpkivlz**: corroborates the separation, as a methodological
+- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: corroborates the separation, as a methodological
   stance: violent acts by both partners do not imply equivalence in
   "coercive control ... or responsibility", and act-based effect sizes "may
   not capture" coercive control. It is an interpretive guard, not a test.
-- **CASE-tmpzt3zf**: "a victim’s resistance or constrained responses should
+- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)**: "a victim’s resistance or constrained responses should
   not be treated as equivalent to the perpetrator’s controlling violence"
   is the reading of Carol's strikes the case needs. The review adds no
   evidence of how often such cases occur.
-- **TERM-tmp8pnnr**: the authors' "responsibility for a violent or
+- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: the authors' "responsibility for a violent or
   coercive act lies with the person who commits it" is culpability for
   the particular act, kept apart from the control context.
 

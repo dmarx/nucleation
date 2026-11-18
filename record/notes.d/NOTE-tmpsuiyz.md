@@ -101,7 +101,7 @@ justification versus recourse.
 
 ## Bearing on the record
 
-- **CLAIM-tmpohafo** (explanation, contestation and interruption are
+- **[CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md)** (explanation, contestation and interruption are
   separate entitlements). Corroborates its first split: an explanation can
   be given while the choices that would have to be contested stay hidden,
   and then "it may be impossible for subjects to reverse their decisions
@@ -109,13 +109,13 @@ justification versus recourse.
   is explanation without contestation in a technical form, sharper than
   the claim's: the explanation points the subject at the wrong target. The
   paper says nothing about suspending execution.
-- **CLAIM-tmpcpijj** (authority over a decision does not carry authority
+- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md)** (authority over a decision does not carry authority
   over the conditions of challenge). Related, not filed as a relation: the
   deployer fixes what an explanation-based challenge can see. The paper
   does not argue who should control that.
-- **CLAIM-410**. Weakly related: the decisive discretion sits in the
+- **[CLAIM-410](../claims.d/CLAIM-410.md)**. Weakly related: the decisive discretion sits in the
   deployer's upstream choices of labels, measures and metrics, consistent
-  with authority moving into design (Bovens and Zouridis, LIT-tmp8l2be).
+  with authority moving into design (Bovens and Zouridis, [LIT-tmp8l2be](../literature.d/LIT-tmp8l2be.md)).
   The paper makes no claim about governing positions.
 
 ## Verdict on the exchange's characterization

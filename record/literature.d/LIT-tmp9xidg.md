@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-17 (NOTE-tmp110fx) from the authors' copy on Jennifer
+  read 2026-11-17 ([NOTE-tmp110fx](../notes.d/NOTE-tmp110fx.md)) from the authors' copy on Jennifer
   Freyd's University of Oregon faculty site; worth reading here as
   experimental evidence that a perpetrator's DARVO statement moves
   observers' judgments of believability, abusiveness and punishment,
   though only a little their judgment of his responsibility. It does not
-  bear out the use the exchange made of it for CLAIM-tmpciy9q.
+  bear out the use the exchange made of it for [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md).
 title: 'The Influence of Deny, Attack, Reverse Victim and Offender and Insincere Apologies on Perceptions of Sexual Assault'
 version: 2
 history:
@@ -58,12 +58,12 @@ summary: >-
   believable, less responsible (a small effect) and less abusive, and
   lowered support for punishing him (82% to 60.7%) while raising it for
   punishing her; the victim's rated responsibility did not change, and
-  insincere apologies did little. Read in NOTE-tmp110fx. Registered as
-  A's evidence for CLAIM-tmpciy9q; it carries less: its DARVO calls an
+  insincere apologies did little. Read in [NOTE-tmp110fx](../notes.d/NOTE-tmp110fx.md). Registered as
+  A's evidence for [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md); it carries less: its DARVO calls an
   accusation false, and the claim concerns a true accusation of an
   arranged wrong.
 ---
-<!-- inactive-ok-file: NOTE-tmp110fx THEORY-tmppzel6 — new; this work's reading and its THEORY -->
+<!-- inactive-ok-file: THEORY-tmppzel6 — new; this work's reading and its THEORY -->
 <!-- inactive-ok-file: CLAIM-tmpciy9q — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmp9xidg: The Influence of Deny, Attack, Reverse Victim and Offender and Insincere Apologies on Perceptions of Sexual Assault
@@ -87,13 +87,13 @@ Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15
 
 ## Note of 2026-11-18: read
 
-Read in NOTE-tmp110fx. **The record's use of it carries more than the study
-does.** The LIT registered it as evidence for CLAIM-tmpciy9q, that "how
+Read in [NOTE-tmp110fx](../notes.d/NOTE-tmp110fx.md). **The record's use of it carries more than the study
+does.** The LIT registered it as evidence for [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md), that "how
 responsibility is narrated changes how it is assigned". The study shows a
 DARVO statement shifting observers' judgments of credibility, abusiveness
 and punishment, and of the perpetrator's responsibility only slightly. Its
-DARVO frames the accusation as false; CLAIM-tmpciy9q is about a true
+DARVO frames the accusation as false; [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md) is about a true
 accusation, of a wrong the accuser arranged, used before an audience. No
 arranged wrong and no true accusation by the stronger party appear in the
-design. Its THEORY, THEORY-tmppzel6, carries no relation to the claim; an
+design. Its THEORY, [THEORY-tmppzel6](../theory.d/THEORY-tmppzel6.md), carries no relation to the claim; an
 ARG from this reading to the claim, Rejected, is for the lead to file.

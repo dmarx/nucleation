@@ -84,19 +84,19 @@ instrumental and contractual justification.
 
 ## Bearing on the record
 
-- **CLAIM-tmplidg6.** The structural half: powers alter incidents,
+- **[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).** The structural half: powers alter incidents,
   including the authority of others, and are "definitive of all developed
   legal and political systems". The entry says nothing about justificatory
   priority.
-- **CLAIM-tmpnb4v4.** Gives "right" its standard sense, a claim correlative
+- **[CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md).** Gives "right" its standard sense, a claim correlative
   to a directed duty. Gilbert's demand-rights tie a right to standing to
   demand, not to a demand made, which is consistent with the claim. The
   entry does not discuss commitments.
-- **QUESTION-tmptinzk.** Inalienable rights are a recognized class, defined
+- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** Inalienable rights are a recognized class, defined
   by how the holder's acts can affect them; moral rights are grounded in
   moral reasons, not in law; and whether inalienable rights are logically
   possible is disputed (Steiner).
-- **LIT-tmp09f2d.** Gives a secondhand statement of Forst's right to
+- **[LIT-tmp09f2d](../literature.d/LIT-tmp09f2d.md).** Gives a secondhand statement of Forst's right to
   justification.
 - The exchange's A87 is faithful: "molecular" rights is the entry's term.
 

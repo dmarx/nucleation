@@ -22,11 +22,11 @@ corroborates:
 - CLAIM-tmpb47ul
 - CLAIM-472
 summary: >-
-  Rubel, Castro and Pham (2021), chapter 7, LIT-tmpnl1ls, read in
-  NOTE-tmpe43ee as the read neighbour of their 2019 article, LIT-tmpqui4c.
-  It corroborates CLAIM-tmpb47ul's upstream half, which does not rest on
+  Rubel, Castro and Pham (2021), chapter 7, [LIT-tmpnl1ls](../literature.d/LIT-tmpnl1ls.md), read in
+  [NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md) as the read neighbour of their 2019 article, [LIT-tmpqui4c](../literature.d/LIT-tmpqui4c.md).
+  It corroborates [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s upstream half, which does not rest on
   it, with the qualification that laundering needs a misleading ascription
-  and a failed account; and CLAIM-472: the decision to deploy a system is
+  and a failed account; and [CLAIM-472](../claims.d/CLAIM-472.md): the decision to deploy a system is
   what must be answered for. The wording is the reader's; adopting it is
   the owner's call.
 ---
@@ -34,8 +34,8 @@ summary: >-
 
 # THEORY-tmpwjlal: An agent launders its agency, on Rubel, Castro and Pham's account, when, being morally responsible in a domain, it gives a process causal responsibility there, ascribes the process qualities such as neutrality or reliability, and thereby obscures its own causal role and fails to give the account it owes; humans in the loop can be such a process as well as automation
 
-Rubel, Castro and Pham (2021), chapter 7, LIT-tmpnl1ls, read in
-NOTE-tmpe43ee; it reproduces their 2019 article, LIT-tmpqui4c, "in large
+Rubel, Castro and Pham (2021), chapter 7, [LIT-tmpnl1ls](../literature.d/LIT-tmpnl1ls.md), read in
+[NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md); it reproduces their 2019 article, [LIT-tmpqui4c](../literature.d/LIT-tmpqui4c.md), "in large
 part".
 
 ## The account

@@ -20,20 +20,20 @@ corroborates:
 bears_on:
 - QUESTION-tmpgeqju
 summary: >-
-  Schlager & Ostrom (1992), LIT-tmpuihi6, read in NOTE-tmpr5h7q. Five rights at
+  Schlager & Ostrom (1992), [LIT-tmpuihi6](../literature.d/LIT-tmpuihi6.md), read in [NOTE-tmpr5h7q](../notes.d/NOTE-tmpr5h7q.md). Five rights at
   two levels and four positions; collective-choice rights mark "the
   difference between exercising a right and participating in the definition
   of future rights to be exercised"; a constitutional level devises
   collective-choice rules. It corroborates the structural premise of
-  CLAIM-tmpcpijj, which does not rest on it (authority at one level does not
-  carry the next), and bears on QUESTION-tmpgeqju. The wording is the
+  [CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md), which does not rest on it (authority at one level does not
+  carry the next), and bears on [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md). The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpr5h7q CLAIM-tmpcpijj — Proposed or new; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmpcpijj — Proposed or new; the reading and the claim it corroborates -->
 
 # THEORY-tmp3veql: Schlager and Ostrom propose that property rights in a common-pool resource unbundle into rights of access and withdrawal at the operational level and of management, exclusion and alienation at the collective-choice level, the latter being authority to define future operational rights, that the five are independent but usually held cumulatively as the positions of authorized user, claimant, proprietor and owner, and that a constitutional level devises the collective-choice rules
 
-Schlager & Ostrom (1992), LIT-tmpuihi6.
+Schlager & Ostrom (1992), [LIT-tmpuihi6](../literature.d/LIT-tmpuihi6.md).
 
 ## The account
 

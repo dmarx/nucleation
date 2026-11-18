@@ -15,19 +15,18 @@ bears_on:
 - QUESTION-tmptinzk
 - QUESTION-tmpgeqju
 summary: >-
-  The Declaration of Independence (1776), LIT-tmpt4av6, read in NOTE-tmpndj02.
+  The Declaration of Independence (1776), [LIT-tmpt4av6](../literature.d/LIT-tmpt4av6.md), read in [NOTE-tmpndj02](../notes.d/NOTE-tmpndj02.md).
   "certain unalienable Rights"; governments "deriving their just powers from
   the consent of the governed"; "the Right of the People to alter or to
   abolish it", bounded by "light and transient causes". It bears on
-  QUESTION-tmptinzk (rights prior to government) and QUESTION-tmpgeqju (the
+  [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) (rights prior to government) and [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) (the
   People, with a threshold). The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpndj02 — new; the reading -->
 
 # THEORY-tmpylvcc: The Declaration of Independence asserts that all men are endowed with unalienable rights, that governments are instituted to secure them and derive their just powers from the consent of the governed, and that when a government becomes destructive of these ends the people have a right to alter or abolish it, though not for light and transient causes
 
-The Declaration of Independence (1776), LIT-tmpt4av6.
+The Declaration of Independence (1776), [LIT-tmpt4av6](../literature.d/LIT-tmpt4av6.md).
 
 ## The text
 

@@ -21,22 +21,22 @@ bears_on:
 - QUESTION-tmp14i7s
 - QUESTION-tmpcz1ui
 summary: >-
-  Galanter (1974), LIT-tmp39uey, read in NOTE-tmpny8gh. Four interlocking layers
+  Galanter (1974), [LIT-tmp39uey](../literature.d/LIT-tmp39uey.md), read in [NOTE-tmpny8gh](../notes.d/NOTE-tmpny8gh.md). Four interlocking layers
   of advantage: parties (the repeat player's), legal services, institutional
   facilities (passivity and overload) and rules. It corroborates
-  CLAIM-tmpyo35b, which rests on its own construction and not on this
+  [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), which rests on its own construction and not on this
   essay: overload pressures claimants to settle by delay "discounting the
   value of recovery" and by "raising costs (of keeping the case alive)". It
-  bears on QUESTION-tmp14i7s (precedent skewed by which cases repeat
-  players let reach judgment) and on QUESTION-tmpcz1ui (delay and cost
+  bears on [QUESTION-tmp14i7s](../questions.d/QUESTION-tmp14i7s.md) (precedent skewed by which cases repeat
+  players let reach judgment) and on [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md) (delay and cost
   serve either side). The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpny8gh CLAIM-tmpyo35b — Proposed or new; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmpyo35b — Proposed or new; the reading and the claim it corroborates -->
 
 # THEORY-tmpqk131: Galanter proposes that repeat players, parties that litigate often with low stakes in any one case and the resources to pursue long-run interests, hold strategic advantages over one-shotters, including playing for rules as well as outcomes, and that passive, overloaded courts, which delay recovery, raise the cost of keeping a case alive and protect the possessor, together with unequal legal services and lagging rules, compound those advantages, so that a formally neutral legal system tends to let the haves come out ahead
 
-Galanter (1974), LIT-tmp39uey.
+Galanter (1974), [LIT-tmp39uey](../literature.d/LIT-tmp39uey.md).
 
 ## The account
 

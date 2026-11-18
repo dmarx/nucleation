@@ -111,7 +111,7 @@ surrogate participation; rules versus standards.
 
 ## Bearing on the record
 
-- **CLAIM-tmpohafo** (explanation, contestation and interruption as
+- **[CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md)** (explanation, contestation and interruption as
   separate entitlements). Corroborates. Citron treats notice (reasons,
   through audit trails), the hearing and pre-deprivation process as
   distinct safeguards that fail differently: inadequate notice devalues
@@ -121,23 +121,23 @@ surrogate participation; rules versus standards.
   (p. 1288), the ground for the claim's third entitlement. She treats
   explanation as a precondition of contestation rather than a right that
   can be had alone.
-- **CLAIM-tmph28l6** (the cost of imposing a decision and the cost of
+- **[CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md)** (the cost of imposing a decision and the cost of
   challenging it are separate). Corroborates. Automation lowers the cost
   of deciding while challenging a decision comes to need costly decoding
   of the system; a Mathews analysis of one case captures "all of the costs
   of improved process but only a tiny fraction of its benefits" (p. 1285).
-- **CLAIM-410** (removing a constraint changes a profile of governing
+- **[CLAIM-410](../claims.d/CLAIM-410.md)** (removing a constraint changes a profile of governing
   positions). Corroborates its "transferred" case: rule-making authority
   passes to programmers by "inadvertent rulemaking", "a troubling
   delegation of legislative power" (p. 1288), beside Bovens and Zouridis
-  (LIT-tmp8l2be).
-- **CLAIM-tmp238zy**. A qualified counterpoint, not filed as a relation:
+  ([LIT-tmp8l2be](../literature.d/LIT-tmp8l2be.md)).
+- **[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)**. A qualified counterpoint, not filed as a relation:
   Citron's remedy for automation bias is cognitive friction placed on
   officials (training, and a duty to explain reliance, pp. 1306–07), and
   she presents it as serving the affected party's hearing. The claim's
   warning would apply if that duty were used to put errors on the
   officer.
-- **CLAIM-tmpb47ul** (control, obligation and blame on different
+- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)** (control, obligation and blame on different
   parties). Mixed systems in which workers finalize the computer's
   decisions are an early case of nominal human responsibility without
   control.

@@ -19,20 +19,20 @@ corroborates:
 bears_on:
 - QUESTION-tmptinzk
 summary: >-
-  Wenar & Cruft, SEP "Rights" (2025 revision), LIT-tmpz19z8, read in
-  NOTE-tmp2b9lt. Molecular rights of Hohfeldian incidents; "Power-rights to
+  Wenar & Cruft, SEP "Rights" (2025 revision), [LIT-tmpz19z8](../literature.d/LIT-tmpz19z8.md), read in
+  [NOTE-tmp2b9lt](../notes.d/NOTE-tmp2b9lt.md). Molecular rights of Hohfeldian incidents; "Power-rights to
   alter the authority of others are ... definitive of all developed legal
   and political systems"; will against interest theory. It corroborates the
-  structural half of CLAIM-tmplidg6, which does not rest on it, and bears on
-  QUESTION-tmptinzk (inalienable, forfeitable and waivable rights; moral
+  structural half of [CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md), which does not rest on it, and bears on
+  [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) (inalienable, forfeitable and waivable rights; moral
   rights grounded in moral reasons). The wording is the reader's; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmp2b9lt CLAIM-tmplidg6 — Proposed or new; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-tmplidg6 — Proposed or new; the reading and the claim it corroborates -->
 
 # THEORY-tmpxe1we: Wenar and Cruft hold that rights are complexes of four Hohfeldian incidents, privilege, claim, power and immunity, which combine into molecular rights including second-order powers to alter incidents and others' authority, while the function of rights, whether to give control over another's duty, to further the holder's interests or something else, remains contested
 
-Wenar & Cruft, "Rights" (SEP, 2025 revision), LIT-tmpz19z8.
+Wenar & Cruft, "Rights" (SEP, 2025 revision), [LIT-tmpz19z8](../literature.d/LIT-tmpz19z8.md).
 
 ## The account
 
