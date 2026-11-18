@@ -43,7 +43,6 @@ summary: >-
   the bearing is A's. The idea is the owner's; the label and the
   development are A's.
 ---
-<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CASE-tmpolqas CLAIM-tmp0wx69 CLAIM-tmp4o53g CLAIM-tmpsk25g — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-122 — Proposed; the record's nearest entries, cited with their standing -->

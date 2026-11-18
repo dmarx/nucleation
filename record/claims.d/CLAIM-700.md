@@ -204,11 +204,11 @@ slack and one with exactly enough to sustain the present configuration, and
 introduce a failure that needs a transition.
 
 **A second route, by a separating case** (the interim synthesis review of
-2026-11-17, SYNTHESIS-tmphd6ep, Arm A, carried over at the reconciliation
+2026-11-17, [SYNTHESIS-tmphd6ep](../syntheses.d/SYNTHESIS-tmphd6ep.md), Arm A, carried over at the reconciliation
 of 2026-11-18). What the claim adds is that unpaid extra work keeping
 measured performance acceptable is invisible to a budget rule set on that
-performance, so the rule removes capacity in use; none of CLAIM-577,
-CLAIM-549 or CLAIM-713 states it. The separating case: a hospital whose
+performance, so the rule removes capacity in use; none of [CLAIM-577](CLAIM-577.md),
+[CLAIM-549](CLAIM-549.md) or [CLAIM-713](CLAIM-713.md) states it. The separating case: a hospital whose
 unpaid extra hours are logged and read by the budget rule as demand. Every
 premise holds, but the shortfall is not hidden from the rule, so no
 capacity in use is cut and the loop does not close. Read with "measured
