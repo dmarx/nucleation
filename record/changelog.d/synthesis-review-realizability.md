@@ -12,3 +12,10 @@
   2026-11-11 left. Its separating case is also the case its own
   defeated_if names. [QUESTION-tmp860wq](record/questions.d/QUESTION-tmp860wq.md) asks whether a self-made change
   of precedence among existing regimes counts as self-formation.
+
+### Changed
+
+- CLAIM-532, at the owner's direction, restated from a definition of
+  self-formation to an occasion and a sufficient condition, with a new
+  distinction and a new channel defined by the agent's policy and
+  reachable outcomes rather than by mechanism.

@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'When an agent''s own activity on a recurring conflict durably changes which of its existing regimes takes precedence, producing no new distinction or channel, and the new ordering outlasts the conflict and carries to later conflicts of its kind, is that self-formation, or is it the will-organization''s precedence operating without being transformed?'
+title: 'When an agent''s own activity on a recurring conflict leaves it with a uniform change of priority among its regimes, one regime now always prevailing where another did, which outlasts the conflict and governs later conflicts of its kind but refines no distinction in its policy and enlarges no set of outcomes it can reach, is that another route to self-formation, or the will-organization''s precedence settling a conflict without being transformed?'
 version: 1
 tags:
 - agency
@@ -12,66 +12,73 @@ line:
 - distributed-agency
 summary: >-
   Raised at the synthesis review of 2026-11-18 (realizability), when
-  [CLAIM-532](../claims.d/CLAIM-532.md) was given its "Admission". The separating case found for it,
-  an agent whose capacity to transform only reweights which of its
-  processes govern, is the case its own defeated_if names, and no entry
-  rules on whether the record counts it as self-formation. Filed at the
-  owner's word of 2026-11-18, "file it as a question". The wording is the
-  assistant's (Claude, in this session); adopting it is the owner's call.
+  CLAIM-532 was given its "Admission", and filed at the owner's word, "file
+  it as a question". Reframed the same day after the owner's two
+  observations, which also restated CLAIM-532 as a sufficient condition:
+  that the claim confused sufficiency with necessity, and that "existing
+  processes" against "new ability" is underspecified, since with a frozen
+  random projection all feature learning is reweighting of existing
+  components. With CLAIM-532 sufficient and its products defined by
+  behaviour, what remains is whether a uniform self-made change of
+  priority is self-formation at all. The wording is the assistant's
+  (Claude, in this session); adopting it is the owner's call.
 ---
 
-# QUESTION-tmp860wq: When an agent's own activity on a recurring conflict durably changes which of its existing regimes takes precedence, producing no new distinction or channel, and the new ordering outlasts the conflict and carries to later conflicts of its kind, is that self-formation, or is it the will-organization's precedence operating without being transformed?
+# QUESTION-tmp860wq: When an agent's own activity on a recurring conflict leaves it with a uniform change of priority among its regimes, one regime now always prevailing where another did, which outlasts the conflict and governs later conflicts of its kind but refines no distinction in its policy and enlarges no set of outcomes it can reach, is that another route to self-formation, or the will-organization's precedence settling a conflict without being transformed?
 
 ## Why it is a question
 
-[CLAIM-532](../claims.d/CLAIM-532.md) says what self-formation produces: a maintained new distinction
-or new channel that outlasts the discrepancy that induced it and serves a
-class of later ones. It leaves out a lasting change in precedence among
-regimes the agent already has. Its `defeated_if` names that omission as
-what would make it too narrow, "a case the record would count as
-self-formation in which no new distinction or channel is produced, only a
-reweighting of existing regimes ([TERM-023](../terms.d/TERM-023.md)'s precedence)".
+CLAIM-532 (version 5) gives a sufficient condition for self-formation:
+the agent's own activity on a discrepancy produces a maintained new
+distinction, its policy coming to depend on a feature of its situation it
+did not depend on, or a new channel, its reachable outcomes growing, that
+outlasts the discrepancy and transfers within its class. It does not say
+what else counts.
 
-The entries it rests on do not settle whether the record counts it:
+The case left over is a uniform change of priority. Someone repeatedly
+torn between work and family comes, by their own deliberation, to put
+family first, always. The ordering lasts after the crisis, governs later
+conflicts of the kind, and was installed by no one else. It is not a new
+distinction, since it applies whatever the situation, and it is not a new
+channel, since nothing becomes reachable that was not.
 
-- **[TERM-023](../terms.d/TERM-023.md)** lists precedence among the efficacy relations and
+## How the question was narrowed
+
+- **From the mechanism to the behaviour.** First asked as "reweighting of
+  existing regimes against a new ability", the contrast does not hold: it
+  depends on which components count as existing. With a frozen random
+  projection and a learned readout, every change is a reweighting of the
+  fixed components, yet the readout comes to separate inputs it did not
+  (the owner's observation). Defined by the policy and the reachable set,
+  a reweighting that depends on circumstance refines the partition of
+  situations and is a new distinction. Only the uniform case is left.
+- **From a threat to an open route.** Read as a definition, CLAIM-532 was
+  too narrow if the record counted the uniform case. Read as a sufficient
+  condition, it is untouched either way.
+
+## What bears on it
+
+- **TERM-023** lists precedence among the efficacy relations and
   transformation among the meta-regulatory ones, as separate dimensions,
-  and does not define transformation.
-- **[CLAIM-025](../claims.d/CLAIM-025.md)** speaks of "the capacity to transform that organization",
-  and a lasting change in precedence is arguably a change in the
+  and does not define transformation. On this reading a change of
+  precedence is the will-organization operating, not transformed.
+- **CLAIM-025** speaks of "the capacity to transform that organization",
+  and a lasting change in which regime governs is arguably a change in the
   governing organization.
-- **[TERM-023](../terms.d/TERM-023.md)'s note of 2026-11-01** takes Metzinger's ability "to
-  actively sculpt its own internal affordance landscape" as
-  transformation, a phrase that could cover reweighting.
-
-An example: someone repeatedly torn between work and family comes, by
-their own deliberation, to put family first. The ordering lasts after the
-crisis, governs later conflicts of the kind, and was installed by no one
-else. Nothing new is perceived or done.
-
-## A split the assistant offers
-
-- **If the new precedence depends on circumstance**, so that one regime
-  wins in some situations and the other in others, the agent must now tell
-  those situations apart. That is a new distinction, and [CLAIM-532](../claims.d/CLAIM-532.md) covers
-  it.
-- **If it is uniform**, so that one regime always wins, the conflict is not
-  relieved in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense: the jointly satisfiable sets do not grow,
-  and one demand is given up. [CLAIM-532](../claims.d/CLAIM-532.md)'s body already sets its products
-  apart as "relief in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, not suppression".
-
-On this split only the uniform case remains, and the question becomes
-whether settling a conflict by a self-made priority is self-formation.
-The split is the assistant's and is not held by any entry.
+- **TERM-023's note of 2026-11-01** takes Metzinger's ability "to actively
+  sculpt its own internal affordance landscape" as transformation, a
+  phrase that could cover a change of priority.
+- **CLAIM-347** separates relief, which enlarges the jointly satisfiable
+  sets of demands, from suppression. A uniform priority relieves nothing:
+  one demand is given up. CLAIM-532's products are relief.
 
 ## What would answer it
 
-A ruling on whether [TERM-023](../terms.d/TERM-023.md)'s transformation dimension includes a
-maintained precedence ordering the agent produced itself. Then:
-
-- **If it does not**, [CLAIM-532](../claims.d/CLAIM-532.md) stands, and its `defeated_if` clause can be
-  narrowed to say so.
-- **If it does**, [CLAIM-532](../claims.d/CLAIM-532.md) is too narrow under its own `defeated_if`, and
-  a revision would add a third product, a maintained self-produced
-  ordering, held to the same tests of outlasting the discrepancy, carrying
-  within its class and not being installed from outside.
+A ruling on whether TERM-023's transformation dimension includes a
+maintained ordering of regimes the agent produced itself. If it does, a
+second route to self-formation could be filed beside CLAIM-532, by
+suppression rather than relief, with its own tests: that the ordering
+outlasts the conflict, governs later conflicts of its kind, and is
+abolished by knocking out its production while it forms. If it does not,
+the case is the will-organization's precedence at work, and TERM-023 can
+say so.
