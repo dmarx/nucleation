@@ -93,114 +93,114 @@ summary: >-
   first filing's at the reconciliation of 2026-11-18. It is built over
   six part accounts, four on dependence-and-domination and two on
   organizational-normativity, and integrates directly the four entries
-  from the exchange that SYNTHESIS-091 and SYNTHESIS-094 map and ten of
+  from the exchange that [SYNTHESIS-091](SYNTHESIS-091.md) and [SYNTHESIS-094](SYNTHESIS-094.md) map and ten of
   the first filing's that no part of the two lines maps (the friction and
   throughput thread, the owner's U13 cases and two questions). The
   exchange's last thesis is A's, A106's "The Organization of Rightful
   Power" as refined at A110 §12 to §14; component by component it is the
   record's held entries and the exchange's filed ones. Beyond them it
-  adds A's "normative governability", filed as a definition (TERM-128),
+  adds A's "normative governability", filed as a definition ([TERM-128](../terms.d/TERM-128.md)),
   and the claim that a theory of justifiable principles is incomplete
   without the organization that makes them effective, held open inside
-  the owner's QUESTION-483; the rest is recap. The thesis grew through
+  the owner's [QUESTION-483](../questions.d/QUESTION-483.md); the rest is recap. The thesis grew through
   A's syntheses from A26 to A110, each prompted by a turn of the owner's,
   and the first filing's reviews supplied cases and questions. The
   readings of the exchange's works (2026-11-16 and 2026-11-18)
-  corroborate many of its components, ground several, bound one (CLAIM-707)
-  and narrow three by argument (ARG-115, ARG-116, ARG-117); none supports
+  corroborate many of its components, ground several, bound one ([CLAIM-707](../claims.d/CLAIM-707.md))
+  and narrow three by argument ([ARG-115](../arguments.d/ARG-115.md), [ARG-116](../arguments.d/ARG-116.md), [ARG-117](../arguments.d/ARG-117.md)); none supports
   the thesis as a whole. The account adds nothing and earns no standing;
   its standing is its components'.
 ---
 <!-- inactive-ok-file: SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 SYNTHESIS-095 SYNTHESIS-098 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-102 SYNTHESIS-103 SYNTHESIS-104 — Proposed; the part accounts this account is built over, and the line accounts and older parts it cites -->
 <!-- inactive-ok-file: ARG-114 CASE-282 CASE-284 CASE-285 CASE-289 CASE-290 CASE-291 CLAIM-700 CLAIM-714 CLAIM-710 CLAIM-715 CLAIM-716 CLAIM-717 CLAIM-718 CLAIM-719 CLAIM-720 CLAIM-703 CLAIM-721 CLAIM-722 CLAIM-708 CLAIM-723 CLAIM-707 CLAIM-724 CLAIM-725 CLAIM-726 CLAIM-727 CLAIM-728 CLAIM-713 CLAIM-729 CLAIM-730 CLAIM-731 CLAIM-732 CLAIM-733 CLAIM-734 CLAIM-735 CLAIM-736 CLAIM-737 CLAIM-738 CLAIM-739 CLAIM-740 CLAIM-741 CLAIM-742 CLAIM-743 CLAIM-744 CLAIM-745 CLAIM-746 CLAIM-747 CLAIM-748 CLAIM-749 TERM-126 TERM-127 TERM-128 TERM-129 TERM-130 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
-<!-- inactive-ok-file: CLAIM-701 CLAIM-702 CLAIM-704 CLAIM-705 CLAIM-706 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-711 CLAIM-712 CLAIM-713 CASE-277 CASE-279 CASE-280 ARG-112 ARG-113 TERM-125 CASE-281 CASE-288 — filed from the first share of the exchange on 2026-11-15 or 2026-11-16, Proposed; components and citations at version 2 -->
-<!-- inactive-ok-file: ARG-115 ARG-116 ARG-117 CASE-292 THEORY-1912 THEORY-1914 THEORY-1915 THEORY-1916 THEORY-1917 THEORY-1919 THEORY-1920 THEORY-1921 THEORY-1923 THEORY-1925 THEORY-1928 THEORY-1929 THEORY-1931 THEORY-1932 THEORY-1933 THEORY-1937 THEORY-1938 THEORY-1939 THEORY-1941 THEORY-1943 THEORY-1946 THEORY-1947 THEORY-1948 THEORY-1949 THEORY-1952 THEORY-1953 THEORY-1957 THEORY-1958 THEORY-1959 THEORY-1961 THEORY-1962 THEORY-1963 THEORY-1966 THEORY-1967 THEORY-1968 THEORY-1972 THEORY-1974 THEORY-1975 THEORY-1976 THEORY-1977 THEORY-1979 THEORY-1981 THEORY-1984 THEORY-1985 THEORY-1986 THEORY-1988 THEORY-1991 THEORY-1992 THEORY-1993 — the readings of 2026-11-16 and 2026-11-18 and what they filed, Proposed; cited as the support components have -->
+<!-- inactive-ok-file: CLAIM-701 CLAIM-702 CLAIM-704 CLAIM-705 CLAIM-706 CLAIM-709 CLAIM-711 CLAIM-712 CASE-277 CASE-279 CASE-280 ARG-112 ARG-113 TERM-125 CASE-281 CASE-288 — filed from the first share of the exchange on 2026-11-15 or 2026-11-16, Proposed; components and citations at version 2 -->
+<!-- inactive-ok-file: ARG-115 ARG-116 ARG-117 CASE-292 THEORY-1912 THEORY-1914 THEORY-1915 THEORY-1916 THEORY-1917 THEORY-1919 THEORY-1920 THEORY-1921 THEORY-1923 THEORY-1925 THEORY-1928 THEORY-1929 THEORY-1931 THEORY-1932 THEORY-1933 THEORY-1938 THEORY-1939 THEORY-1941 THEORY-1943 THEORY-1946 THEORY-1947 THEORY-1948 THEORY-1949 THEORY-1952 THEORY-1953 THEORY-1957 THEORY-1958 THEORY-1959 THEORY-1961 THEORY-1962 THEORY-1963 THEORY-1966 THEORY-1967 THEORY-1968 THEORY-1972 THEORY-1974 THEORY-1975 THEORY-1976 THEORY-1977 THEORY-1979 THEORY-1981 THEORY-1984 THEORY-1985 THEORY-1986 THEORY-1988 THEORY-1991 THEORY-1992 THEORY-1993 — the readings of 2026-11-16 and 2026-11-18 and what they filed, Proposed; cited as the support components have -->
 <!-- inactive-ok-file: ADR-075 CLAIM-545 CLAIM-553 CLAIM-619 CLAIM-624 CLAIM-670 CLAIM-682 CLAIM-684 CLAIM-687 TERM-083 TERM-124 — Proposed; held entries the thesis's components map to, and the test cited, with their standing -->
 
 # SYNTHESIS-100: The argument filed from the exchange Assess Depp Heard Abuse, both shares, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts and a thread on friction and throughput; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through A's syntheses, each prompted by an owner's turn, and through reviews the owner forwarded; the readings of its works corroborate many components and narrow three
 
-*An account of the argument filed from one exchange, "Assess Depp Heard Abuse", in two shares. The first share (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c; turns U1 to U17 and A1 to A35, 2026-11-15) was filed on 2026-11-15 (the curation entry of 2026-11-15, 22:16:46; pull request 510), and three reviews of that filing, ChatGPT's and forwarded by the owner on 2026-11-16, added to it. The continuation (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b; turns U1 to U48 and A1 to A110, 2026-11-15 18:15 to 2026-11-17 17:39 UTC), whose turns coincide with the first share's up to U17, was filed on 2026-11-17 (the curation entry of 2026-11-17, 20:57:46). On 2026-11-18 the two filings were reconciled: nine of the continuation's entries were folded into the first filing's, which kept their codes and took what the continuation added; "both filings" below means an entry so reconciled. This account was filed at the owner's request of 2026-11-17 for "synthesis items we ought to file as part of documenting the progress of this conversation", over the six part accounts of the interim synthesis review of that day, and revised at the follow-up review of 2026-11-18, after the readings of the exchange's works (the first filing's of 2026-11-16 and the continuation's of 2026-11-18, pull request 514). The line accounts are SYNTHESIS-095 (dependence-and-domination) and SYNTHESIS-038 (organizational-normativity). "U" turns are the owner's and "A" turns the other assistant's (ChatGPT); "the assistant" is Claude, whose own ideas the owner accepted at the first filing. The owner's turns are mostly prompts, and where a turn has content of its own the curation entries list it. Every quotation is checked against the exchange's verbatim export. The account adds nothing: what the thesis says beyond its components is listed under "Not stated on the record".*
+*An account of the argument filed from one exchange, "Assess Depp Heard Abuse", in two shares. The first share (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c; turns U1 to U17 and A1 to A35, 2026-11-15) was filed on 2026-11-15 (the curation entry of 2026-11-15, 22:16:46; pull request 510), and three reviews of that filing, ChatGPT's and forwarded by the owner on 2026-11-16, added to it. The continuation (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b; turns U1 to U48 and A1 to A110, 2026-11-15 18:15 to 2026-11-17 17:39 UTC), whose turns coincide with the first share's up to U17, was filed on 2026-11-17 (the curation entry of 2026-11-17, 20:57:46). On 2026-11-18 the two filings were reconciled: nine of the continuation's entries were folded into the first filing's, which kept their codes and took what the continuation added; "both filings" below means an entry so reconciled. This account was filed at the owner's request of 2026-11-17 for "synthesis items we ought to file as part of documenting the progress of this conversation", over the six part accounts of the interim synthesis review of that day, and revised at the follow-up review of 2026-11-18, after the readings of the exchange's works (the first filing's of 2026-11-16 and the continuation's of 2026-11-18, pull request 514). The line accounts are [SYNTHESIS-095](SYNTHESIS-095.md) (dependence-and-domination) and [SYNTHESIS-038](SYNTHESIS-038.md) (organizational-normativity). "U" turns are the owner's and "A" turns the other assistant's (ChatGPT); "the assistant" is Claude, whose own ideas the owner accepted at the first filing. The owner's turns are mostly prompts, and where a turn has content of its own the curation entries list it. Every quotation is checked against the exchange's verbatim export. The account adds nothing: what the thesis says beyond its components is listed under "Not stated on the record".*
 
 ## The parts
 
 Each part account credits each component's filing; the first filing's
 entries are marked here.
 
-- **SYNTHESIS-099** (dependence-and-domination): responsibility for
+- **[SYNTHESIS-099](SYNTHESIS-099.md)** (dependence-and-domination): responsibility for
   another's conditions, and moral exploitation, A3 to A53. From the first
   filing, each now holding what the continuation added (both filings):
-  A's CLAIM-709 on CASE-279, argued in the first filing's ARG-113; A's
-  CLAIM-708, CLAIM-703 and CLAIM-713; A's CLAIM-707, split on 2026-11-16
-  into the crumple zone and CLAIM-702 (first filing only); A's CLAIM-700
-  (A33 §5); QUESTION-472 (A30 §4); and QUESTION-473, raised by a review.
-  From the continuation: A's CLAIM-726 (with ARG-115 from the readings),
-  CLAIM-715, CASE-288, CASE-290 and QUESTION-487, and the owner's
-  QUESTION-477 (U8).
-- **SYNTHESIS-101** (dependence-and-domination): restricting
+  A's [CLAIM-709](../claims.d/CLAIM-709.md) on [CASE-279](../cases.d/CASE-279.md), argued in the first filing's [ARG-113](../arguments.d/ARG-113.md); A's
+  [CLAIM-708](../claims.d/CLAIM-708.md), [CLAIM-703](../claims.d/CLAIM-703.md) and [CLAIM-713](../claims.d/CLAIM-713.md); A's [CLAIM-707](../claims.d/CLAIM-707.md), split on 2026-11-16
+  into the crumple zone and [CLAIM-702](../claims.d/CLAIM-702.md) (first filing only); A's [CLAIM-700](../claims.d/CLAIM-700.md)
+  (A33 §5); [QUESTION-472](../questions.d/QUESTION-472.md) (A30 §4); and [QUESTION-473](../questions.d/QUESTION-473.md), raised by a review.
+  From the continuation: A's [CLAIM-726](../claims.d/CLAIM-726.md) (with [ARG-115](../arguments.d/ARG-115.md) from the readings),
+  [CLAIM-715](../claims.d/CLAIM-715.md), [CASE-288](../cases.d/CASE-288.md), [CASE-290](../cases.d/CASE-290.md) and [QUESTION-487](../questions.d/QUESTION-487.md), and the owner's
+  [QUESTION-477](../questions.d/QUESTION-477.md) (U8).
+- **[SYNTHESIS-101](SYNTHESIS-101.md)** (dependence-and-domination): restricting
   capabilities, and who controls the terms of waiting and contracting.
-  On the owner's QUESTION-478 (U20), with A's answers from A37 to A53 and
-  the owner's associations of U23 and U24, and ARG-116 from the readings.
+  On the owner's [QUESTION-478](../questions.d/QUESTION-478.md) (U20), with A's answers from A37 to A53 and
+  the owner's associations of U23 and U24, and [ARG-116](../arguments.d/ARG-116.md) from the readings.
   Continuation only.
-- **SYNTHESIS-098** (dependence-and-domination and distributed-agency):
-  remedies foreclosed before review. The owner's CLAIM-723 (U27),
-  CLAIM-748 (U28) and the connection of U26 (CLAIM-734), with A's claims
-  around them, from the continuation; the owner's CLAIM-710 (U11), filed
+- **[SYNTHESIS-098](SYNTHESIS-098.md)** (dependence-and-domination and distributed-agency):
+  remedies foreclosed before review. The owner's [CLAIM-723](../claims.d/CLAIM-723.md) (U27),
+  [CLAIM-748](../claims.d/CLAIM-748.md) (U28) and the connection of U26 ([CLAIM-734](../claims.d/CLAIM-734.md)), with A's claims
+  around them, from the continuation; the owner's [CLAIM-710](../claims.d/CLAIM-710.md) (U11), filed
   by the first filing and reconciled with the continuation's filing of
-  the same turn; and CLAIM-701, the assistant's idea accepted by the
+  the same turn; and [CLAIM-701](../claims.d/CLAIM-701.md), the assistant's idea accepted by the
   owner at the first filing (a fait accompli as moral blackmail of a
   reviewer).
-- **SYNTHESIS-103** (dependence-and-domination): answerability and
-  contestability. On the owner's QUESTION-480 (U36), with A's answer from
+- **[SYNTHESIS-103](SYNTHESIS-103.md)** (dependence-and-domination): answerability and
+  contestability. On the owner's [QUESTION-480](../questions.d/QUESTION-480.md) (U36), with A's answer from
   A83 and A's contest claims from A19 to A81. Continuation only.
-- **SYNTHESIS-102** (organizational-normativity, also
+- **[SYNTHESIS-102](SYNTHESIS-102.md)** (organizational-normativity, also
   dependence-and-domination): rights, demands and commitments. The
-  owner's contrast of U41 (CLAIM-738), questions of U37 (QUESTION-486)
-  and U44 (QUESTION-483) and specimen of U46 (CASE-289), with A's claims
-  from A85 to A108, and ARG-117 from the readings. Continuation only.
-- **SYNTHESIS-104** (organizational-normativity, also
+  owner's contrast of U41 ([CLAIM-738](../claims.d/CLAIM-738.md)), questions of U37 ([QUESTION-486](../questions.d/QUESTION-486.md))
+  and U44 ([QUESTION-483](../questions.d/QUESTION-483.md)) and specimen of U46 ([CASE-289](../cases.d/CASE-289.md)), with A's claims
+  from A85 to A108, and [ARG-117](../arguments.d/ARG-117.md) from the readings. Continuation only.
+- **[SYNTHESIS-104](SYNTHESIS-104.md)** (organizational-normativity, also
   distributed-agency): accountability without blame and normative
-  governability. From the first filing: QUESTION-470 (repair without
-  blame, from A7 §2, put as a question by a review) and A's CLAIM-712
+  governability. From the first filing: [QUESTION-470](../questions.d/QUESTION-470.md) (repair without
+  blame, from A7 §2, put as a question by a review) and A's [CLAIM-712](../claims.d/CLAIM-712.md)
   (traceability is not fair attribution, A19 §9), admitted on a review's
-  CASE-277 and argued in ARG-112. From the continuation: the owner's U47
-  (CLAIM-742, CLAIM-733) and U48 (QUESTION-476), with A's claims and
+  [CASE-277](../cases.d/CASE-277.md) and argued in [ARG-112](../arguments.d/ARG-112.md). From the continuation: the owner's U47
+  ([CLAIM-742](../claims.d/CLAIM-742.md), [CLAIM-733](../claims.d/CLAIM-733.md)) and U48 ([QUESTION-476](../questions.d/QUESTION-476.md)), with A's claims and
   terms from A108 and A110.
 - **Integrated directly, from the continuation**, because their part
-  accounts are not the exchange's: the owner's CLAIM-718 (U19, a verdict
-  taken as a premise) and QUESTION-485 (U31, from where legitimacy and
-  adequacy) and A's CLAIM-746 (A74 §9, four judgments about an
-  authority, as corrected by the filer), all in SYNTHESIS-091; and A's
-  ARG-114 (A110 §5 to §6, a conditional derivation of CLAIM-624's duty),
-  in SYNTHESIS-094.
+  accounts are not the exchange's: the owner's [CLAIM-718](../claims.d/CLAIM-718.md) (U19, a verdict
+  taken as a premise) and [QUESTION-485](../questions.d/QUESTION-485.md) (U31, from where legitimacy and
+  adequacy) and A's [CLAIM-746](../claims.d/CLAIM-746.md) (A74 §9, four judgments about an
+  authority, as corrected by the filer), all in [SYNTHESIS-091](SYNTHESIS-091.md); and A's
+  [ARG-114](../arguments.d/ARG-114.md) (A110 §5 to §6, a conditional derivation of [CLAIM-624](../claims.d/CLAIM-624.md)'s duty),
+  in [SYNTHESIS-094](SYNTHESIS-094.md).
 - **Integrated directly, from the first filing**, because no part account
   of either line maps them (their lines are distributed-agency, or
   records-of-inquiry):
-  - the friction thread around the owner's CLAIM-710: A's CLAIM-711 (A33
+  - the friction thread around the owner's [CLAIM-710](../claims.d/CLAIM-710.md): A's [CLAIM-711](../claims.d/CLAIM-711.md) (A33
     §8 and A35 §7, a counter: standing constraints with fast enforcement
     keep a process interruptible without friction); the assistant's
-    TERM-125 (an independent execution gate) and CLAIM-706 (impedance,
+    [TERM-125](../terms.d/TERM-125.md) (an independent execution gate) and [CLAIM-706](../claims.d/CLAIM-706.md) (impedance,
     constraint and intervention opportunity vary independently), both
     accepted by the owner and revised at the first review of 2026-11-16;
-  - the throughput thread: A's CLAIM-705 (A35 §3, at most μ/λ of
+  - the throughput thread: A's [CLAIM-705](../claims.d/CLAIM-705.md) (A35 §3, at most μ/λ of
     challenges resolved in time, with the filer's derivation;
-    demonstrated) and the assistant's CLAIM-704 (the order of review
-    distributes preventive rights; demonstrated); CASE-280, the first
+    demonstrated) and the assistant's [CLAIM-704](../claims.d/CLAIM-704.md) (the order of review
+    distributes preventive rights; demonstrated); [CASE-280](../cases.d/CASE-280.md), the first
     review's separating construction with the filer's numbers;
-  - QUESTION-474, A23 §8's approval-against-veto default, isolated as a
+  - [QUESTION-474](../questions.d/QUESTION-474.md), A23 §8's approval-against-veto default, isolated as a
     question by the third review;
-  - the owner's U13 cases, CASE-276 (third-country removals) and CASE-278
-    (Hains Point), both Active, illustrating the owner's earlier CLAIM-464;
-  - QUESTION-471, A30 §7's question about this record's own speed of
+  - the owner's U13 cases, [CASE-276](../cases.d/CASE-276.md) (third-country removals) and [CASE-278](../cases.d/CASE-278.md)
+    (Hains Point), both Active, illustrating the owner's earlier [CLAIM-464](../claims.d/CLAIM-464.md);
+  - [QUESTION-471](../questions.d/QUESTION-471.md), A30 §7's question about this record's own speed of
     incorporation (records-of-inquiry).
 
 How the parts relate within each line is counted in the line accounts.
-Across the two lines the parts meet at CLAIM-624 (SYNTHESIS-094) and
-TERM-127 (SYNTHESIS-104): CLAIM-723, CLAIM-739 and CLAIM-727 complement
-CLAIM-624 and CLAIM-740 rests on it, CLAIM-708 complements it, and six
-claims of SYNTHESIS-099 use TERM-127; at CLAIM-707 and CLAIM-708
-(SYNTHESIS-099), which CLAIM-712 (SYNTHESIS-104) complements and on the
-second of which ARG-112 rests; and at CLAIM-722 (SYNTHESIS-098) and
-CLAIM-720 (SYNTHESIS-102), which complement each other.
+Across the two lines the parts meet at [CLAIM-624](../claims.d/CLAIM-624.md) ([SYNTHESIS-094](SYNTHESIS-094.md)) and
+[TERM-127](../terms.d/TERM-127.md) ([SYNTHESIS-104](SYNTHESIS-104.md)): [CLAIM-723](../claims.d/CLAIM-723.md), [CLAIM-739](../claims.d/CLAIM-739.md) and [CLAIM-727](../claims.d/CLAIM-727.md) complement
+[CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-740](../claims.d/CLAIM-740.md) rests on it, [CLAIM-708](../claims.d/CLAIM-708.md) complements it, and six
+claims of [SYNTHESIS-099](SYNTHESIS-099.md) use [TERM-127](../terms.d/TERM-127.md); at [CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-708](../claims.d/CLAIM-708.md)
+([SYNTHESIS-099](SYNTHESIS-099.md)), which [CLAIM-712](../claims.d/CLAIM-712.md) ([SYNTHESIS-104](SYNTHESIS-104.md)) complements and on the
+second of which [ARG-112](../arguments.d/ARG-112.md) rests; and at [CLAIM-722](../claims.d/CLAIM-722.md) ([SYNTHESIS-098](SYNTHESIS-098.md)) and
+[CLAIM-720](../claims.d/CLAIM-720.md) ([SYNTHESIS-102](SYNTHESIS-102.md)), which complement each other.
 
 ## The account
 
@@ -271,12 +271,12 @@ Component by component, each with the entry that states it:
    the continuation's filings of the same turns (both filings). Placed
    here by this account, as a grouping no entry states (see "Not
    stated"), is the first filing's friction and throughput thread, which
-   A106's paragraph does not name: the owner's CLAIM-710 (U11)
-   with A's counter CLAIM-711, the assistant's TERM-125 and CLAIM-706, and
-   A's CLAIM-705 with the assistant's CLAIM-704 and the review's CASE-280
-   (integrated directly); and the assistant's CLAIM-701, that a fait
+   A106's paragraph does not name: the owner's [CLAIM-710](../claims.d/CLAIM-710.md) (U11)
+   with A's counter [CLAIM-711](../claims.d/CLAIM-711.md), the assistant's [TERM-125](../terms.d/TERM-125.md) and [CLAIM-706](../claims.d/CLAIM-706.md), and
+   A's [CLAIM-705](../claims.d/CLAIM-705.md) with the assistant's [CLAIM-704](../claims.d/CLAIM-704.md) and the review's [CASE-280](../cases.d/CASE-280.md)
+   (integrated directly); and the assistant's [CLAIM-701](../claims.d/CLAIM-701.md), that a fait
    accompli gives a reviewer genuine reasons it did not create
-   (SYNTHESIS-098).
+   ([SYNTHESIS-098](SYNTHESIS-098.md)).
 6. **The baseline against which terms are judged can be the
    relationship's own product, and justified rights organize later
    justification** (A106 §9 and §19). A's [CLAIM-747](../claims.d/CLAIM-747.md)
@@ -342,99 +342,99 @@ readings in full; what follows is what they add to the thesis's
 components, numbered as above.
 
 - **1, power organized in relationships.** No reading of the exchange's
-  works bears on TERM-124, CLAIM-682 or CLAIM-737; their support is what
+  works bears on [TERM-124](../terms.d/TERM-124.md), [CLAIM-682](../claims.d/CLAIM-682.md) or [CLAIM-737](../claims.d/CLAIM-737.md); their support is what
   the record held before.
 - **2 and 3, legitimacy not established by demand, feasibility or
-  resolve.** Hohfeld (THEORY-1984) and Stern's Darwall (THEORY-1975)
-  corroborate CLAIM-738, each for less than its three terms. The opinion
-  in CLINIC v. Rubio (THEORY-1952) grounds CLAIM-745's legal half and
-  says nothing on its moral half. Locke (THEORY-1959) corroborates the
-  form of CLAIM-720, and ARG-117 (the assistant's verdict, Proposed)
+  resolve.** Hohfeld ([THEORY-1984](../theory.d/THEORY-1984.md)) and Stern's Darwall ([THEORY-1975](../theory.d/THEORY-1975.md))
+  corroborate [CLAIM-738](../claims.d/CLAIM-738.md), each for less than its three terms. The opinion
+  in CLINIC v. Rubio ([THEORY-1952](../theory.d/THEORY-1952.md)) grounds [CLAIM-745](../claims.d/CLAIM-745.md)'s legal half and
+  says nothing on its moral half. Locke ([THEORY-1959](../theory.d/THEORY-1959.md)) corroborates the
+  form of [CLAIM-720](../claims.d/CLAIM-720.md), and [ARG-117](../arguments.d/ARG-117.md) (the assistant's verdict, Proposed)
   finds he does not carry its scope and admits forfeiture; Calabresi and
-  Melamed (THEORY-1962) qualify it, their inalienability being a rule of
-  transfer chosen for policy reasons. Four readings bear on QUESTION-486.
-- **4, adequacy.** Scanlon's 2025 paper (THEORY-1977) corroborates
-  CLAIM-729's three duties, with a cost bound and without its
-  reachability terms. Nothing read bears on CLAIM-746 or CLAIM-741.
+  Melamed ([THEORY-1962](../theory.d/THEORY-1962.md)) qualify it, their inalienability being a rule of
+  transfer chosen for policy reasons. Four readings bear on [QUESTION-486](../questions.d/QUESTION-486.md).
+- **4, adequacy.** Scanlon's 2025 paper ([THEORY-1977](../theory.d/THEORY-1977.md)) corroborates
+  [CLAIM-729](../claims.d/CLAIM-729.md)'s three duties, with a cost bound and without its
+  reachability terms. Nothing read bears on [CLAIM-746](../claims.d/CLAIM-746.md) or [CLAIM-741](../claims.d/CLAIM-741.md).
 - **5, domination over the conditions of correction.** Most of the
   readings land here.
-  - *Conditions of another's agency.* Keller (THEORY-1917) corroborates
-    CLAIM-703, CLAIM-713 and CLAIM-708, and bears on QUESTION-472; on
+  - *Conditions of another's agency.* Keller ([THEORY-1917](../theory.d/THEORY-1917.md)) corroborates
+    [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-708](../claims.d/CLAIM-708.md), and bears on [QUESTION-472](../questions.d/QUESTION-472.md); on
     the first filing's reading, the "sound reasoning" clause and the
     limit on the obligation's size are A13's, not Keller's. Tessman's
-    reply (THEORY-1914) corroborates CLAIM-703 and CLAIM-708. Liedo et
-    al. (THEORY-1948) corroborate CLAIM-713 for care workers. ARG-115
-    finds Keller's teachers case does not instance CLAIM-726. Anderson
-    (THEORY-1919), Santoni de Sio and van den Hoven (THEORY-1939) and the
-    SEP entry "Blame" (THEORY-1912) corroborate CLAIM-708.
+    reply ([THEORY-1914](../theory.d/THEORY-1914.md)) corroborates [CLAIM-703](../claims.d/CLAIM-703.md) and [CLAIM-708](../claims.d/CLAIM-708.md). Liedo et
+    al. ([THEORY-1948](../theory.d/THEORY-1948.md)) corroborate [CLAIM-713](../claims.d/CLAIM-713.md) for care workers. [ARG-115](../arguments.d/ARG-115.md)
+    finds Keller's teachers case does not instance [CLAIM-726](../claims.d/CLAIM-726.md). Anderson
+    ([THEORY-1919](../theory.d/THEORY-1919.md)), Santoni de Sio and van den Hoven ([THEORY-1939](../theory.d/THEORY-1939.md)) and the
+    SEP entry "Blame" ([THEORY-1912](../theory.d/THEORY-1912.md)) corroborate [CLAIM-708](../claims.d/CLAIM-708.md).
   - *Who harmed whom and who dominated whom.* Johnson's typology and its
     neighbours, Stark and Hester, Stark, Hardesty et al., Cunha et al.
-    and Mazinani and O'Connor (THEORY-1925, THEORY-1961, THEORY-1943,
-    THEORY-1986, THEORY-1991, THEORY-1949, THEORY-1929) corroborate
-    CLAIM-709's first half from data independent of CASE-279; no reading
+    and Mazinani and O'Connor ([THEORY-1925](../theory.d/THEORY-1925.md), [THEORY-1961](../theory.d/THEORY-1961.md), [THEORY-1943](../theory.d/THEORY-1943.md),
+    [THEORY-1986](../theory.d/THEORY-1986.md), [THEORY-1991](../theory.d/THEORY-1991.md), [THEORY-1949](../theory.d/THEORY-1949.md), [THEORY-1929](../theory.d/THEORY-1929.md)) corroborate
+    [CLAIM-709](../claims.d/CLAIM-709.md)'s first half from data independent of [CASE-279](../cases.d/CASE-279.md); no reading
     carries its second half.
-  - *Asymmetric moral accountability.* CLAIM-707 grounds in Elish
-    (THEORY-1928) and is corroborated by the NTSB (THEORY-1932), Rubel,
-    Castro and Pham (THEORY-1946), Tronto (THEORY-1921, THEORY-1993),
-    Santoni de Sio and van den Hoven and Choroszewicz (THEORY-1916); Ozer,
-    Waggoner and Kennedy (THEORY-1933) bound its automation corollary.
+  - *Asymmetric moral accountability.* [CLAIM-707](../claims.d/CLAIM-707.md) grounds in Elish
+    ([THEORY-1928](../theory.d/THEORY-1928.md)) and is corroborated by the NTSB ([THEORY-1932](../theory.d/THEORY-1932.md)), Rubel,
+    Castro and Pham ([THEORY-1946](../theory.d/THEORY-1946.md)), Tronto ([THEORY-1921](../theory.d/THEORY-1921.md), [THEORY-1993](../theory.d/THEORY-1993.md)),
+    Santoni de Sio and van den Hoven and Choroszewicz ([THEORY-1916](../theory.d/THEORY-1916.md)); Ozer,
+    Waggoner and Kennedy ([THEORY-1933](../theory.d/THEORY-1933.md)) bound its automation corollary.
     The NTSB made the operator's distraction the probable cause, with the
-    company's safety culture contributing (CASE-292). CLAIM-702, its
-    split-off half, and CLAIM-700 have no reading.
-  - *Friction and throughput.* Bovens and Zouridis (THEORY-1938) and
-    Citron (THEORY-1947) corroborate the owner's CLAIM-710 in its
-    "exposes" reading; the HKMA paper (THEORY-1931) corroborates CLAIM-705,
-    CLAIM-706, CLAIM-730 and CLAIM-715; Alfrink et al. (THEORY-1920) and
-    Bovens and Zouridis corroborate CLAIM-706; Citron corroborates
-    CLAIM-731 and CLAIM-740, and Cerrato et al. (THEORY-1941) CLAIM-740.
-  - *Foreclosed remedies.* Fuentes v. Shevin (THEORY-1972) grounds the
-    owner's CLAIM-723 and corroborates CLAIM-734, which grounds in
-    Calabresi and Melamed; Galanter (THEORY-1981), Cuéllar (THEORY-1923)
-    and the Federal Rules (THEORY-1966) corroborate the owner's CLAIM-748.
-    Locke and Schlager and Ostrom (THEORY-1957) corroborate CLAIM-727.
-    Hohfeld grounds CLAIM-722.
-  - *Contracting and waiting.* Grossman and Hart and Hart (THEORY-1985,
-    THEORY-1979) corroborate CLAIM-728's definition, and ARG-116 finds
+    company's safety culture contributing ([CASE-292](../cases.d/CASE-292.md)). [CLAIM-702](../claims.d/CLAIM-702.md), its
+    split-off half, and [CLAIM-700](../claims.d/CLAIM-700.md) have no reading.
+  - *Friction and throughput.* Bovens and Zouridis ([THEORY-1938](../theory.d/THEORY-1938.md)) and
+    Citron ([THEORY-1947](../theory.d/THEORY-1947.md)) corroborate the owner's [CLAIM-710](../claims.d/CLAIM-710.md) in its
+    "exposes" reading; the HKMA paper ([THEORY-1931](../theory.d/THEORY-1931.md)) corroborates [CLAIM-705](../claims.d/CLAIM-705.md),
+    [CLAIM-706](../claims.d/CLAIM-706.md), [CLAIM-730](../claims.d/CLAIM-730.md) and [CLAIM-715](../claims.d/CLAIM-715.md); Alfrink et al. ([THEORY-1920](../theory.d/THEORY-1920.md)) and
+    Bovens and Zouridis corroborate [CLAIM-706](../claims.d/CLAIM-706.md); Citron corroborates
+    [CLAIM-731](../claims.d/CLAIM-731.md) and [CLAIM-740](../claims.d/CLAIM-740.md), and Cerrato et al. ([THEORY-1941](../theory.d/THEORY-1941.md)) [CLAIM-740](../claims.d/CLAIM-740.md).
+  - *Foreclosed remedies.* Fuentes v. Shevin ([THEORY-1972](../theory.d/THEORY-1972.md)) grounds the
+    owner's [CLAIM-723](../claims.d/CLAIM-723.md) and corroborates [CLAIM-734](../claims.d/CLAIM-734.md), which grounds in
+    Calabresi and Melamed; Galanter ([THEORY-1981](../theory.d/THEORY-1981.md)), Cuéllar ([THEORY-1923](../theory.d/THEORY-1923.md))
+    and the Federal Rules ([THEORY-1966](../theory.d/THEORY-1966.md)) corroborate the owner's [CLAIM-748](../claims.d/CLAIM-748.md).
+    Locke and Schlager and Ostrom ([THEORY-1957](../theory.d/THEORY-1957.md)) corroborate [CLAIM-727](../claims.d/CLAIM-727.md).
+    Hohfeld grounds [CLAIM-722](../claims.d/CLAIM-722.md).
+  - *Contracting and waiting.* Grossman and Hart and Hart ([THEORY-1985](../theory.d/THEORY-1985.md),
+    [THEORY-1979](../theory.d/THEORY-1979.md)) corroborate [CLAIM-728](../claims.d/CLAIM-728.md)'s definition, and [ARG-116](../arguments.d/ARG-116.md) finds
     they do not carry its unilateral decision or its control seen only at
-    the contingency. The Moscow councils study and Arnstein (THEORY-1953,
-    THEORY-1968) corroborate CLAIM-736. CLAIM-744 grounds in Kidd et al.
-    (THEORY-1963), read, beside A's 2pδ model and CASE-281.
+    the contingency. The Moscow councils study and Arnstein ([THEORY-1953](../theory.d/THEORY-1953.md),
+    [THEORY-1968](../theory.d/THEORY-1968.md)) corroborate [CLAIM-736](../claims.d/CLAIM-736.md). [CLAIM-744](../claims.d/CLAIM-744.md) grounds in Kidd et al.
+    ([THEORY-1963](../theory.d/THEORY-1963.md)), read, beside A's 2pδ model and [CASE-281](../cases.d/CASE-281.md).
 - **6, the baseline and later justification.** Scanlon's reply to Wenar
-  (THEORY-1967) grounds CLAIM-735's premise and not its further step;
-  Wenar (THEORY-1988) and the SEP entry "Rights" (THEORY-1992)
+  ([THEORY-1967](../theory.d/THEORY-1967.md)) grounds [CLAIM-735](../claims.d/CLAIM-735.md)'s premise and not its further step;
+  Wenar ([THEORY-1988](../theory.d/THEORY-1988.md)) and the SEP entry "Rights" ([THEORY-1992](../theory.d/THEORY-1992.md))
   corroborate its distinction and structural half. Nothing read bears on
-  CLAIM-747.
-- **7, answerability.** Bovens (THEORY-1976) corroborates CLAIM-739, and
-  Stern's Darwall bears on QUESTION-480. The readings record that
+  [CLAIM-747](../claims.d/CLAIM-747.md).
+- **7, answerability.** Bovens ([THEORY-1976](../theory.d/THEORY-1976.md)) corroborates [CLAIM-739](../claims.d/CLAIM-739.md), and
+  Stern's Darwall bears on [QUESTION-480](../questions.d/QUESTION-480.md). The readings record that
   "answerability" is a capacity in Shoemaker and a stage of
-  accountability in Bovens, unlike TERM-126's directed relation (the
-  readings' curation entry). Nothing read bears on CLAIM-749.
+  accountability in Bovens, unlike [TERM-126](../terms.d/TERM-126.md)'s directed relation (the
+  readings' curation entry). Nothing read bears on [CLAIM-749](../claims.d/CLAIM-749.md).
 - **8, distinctions an institution cannot make.** No reading of the
   exchange's works.
 - **9, normative governability.** No reading of the exchange's works
-  bears on TERM-128 or CLAIM-719. The opinion in CLINIC v. Rubio closes,
+  bears on [TERM-128](../terms.d/TERM-128.md) or [CLAIM-719](../claims.d/CLAIM-719.md). The opinion in CLINIC v. Rubio closes,
   against the sentence, the one integration tested between them and
-  CASE-289 (SYNTHESIS-104's Arm B).
+  [CASE-289](../cases.d/CASE-289.md) ([SYNTHESIS-104](SYNTHESIS-104.md)'s Arm B).
 - **10, 11 and 13, accountability without blame.** Shoemaker (through his
-  2019 paper) confirms that the three-way split is his, as CLAIM-742's
-  correction of A110 says; Zeiser (THEORY-1915) is a further source for
-  TERM-127; Miller, through Shaw-Young (THEORY-1958), corroborates
-  CLAIM-717's second half and states CASE-284's capacity premise in his
-  words. Nothing read bears on CLAIM-733 or CLAIM-714. Shoemaker
-  (THEORY-1974), the NTSB and Elish bear on the owner's QUESTION-476, the
+  2019 paper) confirms that the three-way split is his, as [CLAIM-742](../claims.d/CLAIM-742.md)'s
+  correction of A110 says; Zeiser ([THEORY-1915](../theory.d/THEORY-1915.md)) is a further source for
+  [TERM-127](../terms.d/TERM-127.md); Miller, through Shaw-Young ([THEORY-1958](../theory.d/THEORY-1958.md)), corroborates
+  [CLAIM-717](../claims.d/CLAIM-717.md)'s second half and states [CASE-284](../cases.d/CASE-284.md)'s capacity premise in his
+  words. Nothing read bears on [CLAIM-733](../claims.d/CLAIM-733.md) or [CLAIM-714](../claims.d/CLAIM-714.md). Shoemaker
+  ([THEORY-1974](../theory.d/THEORY-1974.md)), the NTSB and Elish bear on the owner's [QUESTION-476](../questions.d/QUESTION-476.md), the
   NTSB as one blameless practice that keeps upstream provenance.
-- **12, the maintenance duty.** Rubel, Castro and Pham (THEORY-1946)
-  corroborate CLAIM-624's thesis that a wrong of answerability exists
+- **12, the maintenance duty.** Rubel, Castro and Pham ([THEORY-1946](../theory.d/THEORY-1946.md))
+  corroborate [CLAIM-624](../claims.d/CLAIM-624.md)'s thesis that a wrong of answerability exists
   apart from the loss, and not its specific duty. Nothing read bears on
-  ARG-114's means-end principle.
+  [ARG-114](../arguments.d/ARG-114.md)'s means-end principle.
 
 So the readings corroborate many components from outside the exchange,
-supply grounds for seven claims (CLAIM-707, CLAIM-723, CLAIM-722,
-CLAIM-734, CLAIM-735, CLAIM-744, CLAIM-745), bound one (CLAIM-707's automation
-corollary) and narrow three by argument (CLAIM-720, CLAIM-726,
-CLAIM-728). They support the components, not the thesis: no reading
+supply grounds for seven claims ([CLAIM-707](../claims.d/CLAIM-707.md), [CLAIM-723](../claims.d/CLAIM-723.md), [CLAIM-722](../claims.d/CLAIM-722.md),
+[CLAIM-734](../claims.d/CLAIM-734.md), [CLAIM-735](../claims.d/CLAIM-735.md), [CLAIM-744](../claims.d/CLAIM-744.md), [CLAIM-745](../claims.d/CLAIM-745.md)), bound one ([CLAIM-707](../claims.d/CLAIM-707.md)'s automation
+corollary) and narrow three by argument ([CLAIM-720](../claims.d/CLAIM-720.md), [CLAIM-726](../claims.d/CLAIM-726.md),
+[CLAIM-728](../claims.d/CLAIM-728.md)). They support the components, not the thesis: no reading
 says that the components are one theory, and none bears on its
-discriminating question beyond QUESTION-483's readings (Wenar's
+discriminating question beyond [QUESTION-483](../questions.d/QUESTION-483.md)'s readings (Wenar's
 published form of the stronger answer, and Scanlon's reply for
 promises).
 
@@ -500,10 +500,10 @@ the continuation holds the turns.
   [CLAIM-462](../claims.d/CLAIM-462.md), [CLAIM-545](../claims.d/CLAIM-545.md), [CLAIM-682](../claims.d/CLAIM-682.md), [CLAIM-684](../claims.d/CLAIM-684.md), [CLAIM-687](../claims.d/CLAIM-687.md)); the name
   "normative governability" (A30 §10: "I think the strongest intersection
   can be expressed as a theory of"), later [TERM-128](../terms.d/TERM-128.md); [QUESTION-472](../questions.d/QUESTION-472.md),
-  raised from A30 §4, and QUESTION-471 from A30 §7, both by the first
+  raised from A30 §4, and [QUESTION-471](../questions.d/QUESTION-471.md) from A30 §7, both by the first
   filing; from A33, A's [CLAIM-700](../claims.d/CLAIM-700.md) (§5, the first filing's, admitted by a
   discriminating prediction, with the continuation's strategic layer
-  folded in) and A's CLAIM-711 (§8, the first filing's), and A's
+  folded in) and A's [CLAIM-711](../claims.d/CLAIM-711.md) (§8, the first filing's), and A's
   [CLAIM-730](../claims.d/CLAIM-730.md) and the studies [CASE-290](../cases.d/CASE-290.md) and [CASE-285](../cases.d/CASE-285.md) (the continuation's).
 - **Dropped**: A30 misses [CLAIM-464](../claims.d/CLAIM-464.md) and [CASE-170](../cases.d/CASE-170.md), which already hold what
   its §8 D offers as a possible new claim. A33 misstates [CLAIM-577](../claims.d/CLAIM-577.md)'s
@@ -524,27 +524,27 @@ the continuation holds the turns.
   ends at A35.
 - **Thesis**: "The system can retain effective direction while losing
   effective self-correction", which the first filing's audit found is
-  CLAIM-462; recap.
-- **Added**: A's CLAIM-705 (§3, corrective throughput), with the filer's
-  derivation, and the counter to friction carried in CLAIM-711 (§7).
+  [CLAIM-462](../claims.d/CLAIM-462.md); recap.
+- **Added**: A's [CLAIM-705](../claims.d/CLAIM-705.md) (§3, corrective throughput), with the filer's
+  derivation, and the counter to friction carried in [CLAIM-711](../claims.d/CLAIM-711.md) (§7).
 - **The first filing**, at its step 12, added three ideas of the
   assistant's (Claude's), which the owner accepted on 2026-11-16 ("file
-  your ideas as well"): CLAIM-704 (review order distributes preventive
-  rights), CLAIM-701 (a fait accompli as moral blackmail of a reviewer)
-  and TERM-125 with CLAIM-706 (friction defined by dependence, not
+  your ideas as well"): [CLAIM-704](../claims.d/CLAIM-704.md) (review order distributes preventive
+  rights), [CLAIM-701](../claims.d/CLAIM-701.md) (a fait accompli as moral blackmail of a reviewer)
+  and [TERM-125](../terms.d/TERM-125.md) with [CLAIM-706](../claims.d/CLAIM-706.md) (friction defined by dependence, not
   delay; rewritten at the first review).
 - **The reviews of 2026-11-16**, ChatGPT's and forwarded by the owner,
-  whose voice is A's and not the owner's: the first bounded CLAIM-704,
-  made CLAIM-701 conditional, renamed TERM-125, split CLAIM-707 into the
-  crumple zone and CLAIM-702, and supplied the separating construction
-  CASE-280; the second asked for three small corrections; the third
-  supplied CASE-277, which admitted A19 §9's CLAIM-712 (argued in
-  ARG-112), and raised QUESTION-474, QUESTION-470 and QUESTION-473. The
+  whose voice is A's and not the owner's: the first bounded [CLAIM-704](../claims.d/CLAIM-704.md),
+  made [CLAIM-701](../claims.d/CLAIM-701.md) conditional, renamed [TERM-125](../terms.d/TERM-125.md), split [CLAIM-707](../claims.d/CLAIM-707.md) into the
+  crumple zone and [CLAIM-702](../claims.d/CLAIM-702.md), and supplied the separating construction
+  [CASE-280](../cases.d/CASE-280.md); the second asked for three small corrections; the third
+  supplied [CASE-277](../cases.d/CASE-277.md), which admitted A19 §9's [CLAIM-712](../claims.d/CLAIM-712.md) (argued in
+  [ARG-112](../arguments.d/ARG-112.md)), and raised [QUESTION-474](../questions.d/QUESTION-474.md), [QUESTION-470](../questions.d/QUESTION-470.md) and [QUESTION-473](../questions.d/QUESTION-473.md). The
   owner's act was to send them.
 - **Attribution**: A35 is A's throughout; the first filing's audit found
   its three powers labels. The owner's U13 cases were filed as the
-  owner's (CASE-276, CASE-278), and the idea they apply is the owner's
-  earlier CLAIM-464, reached again.
+  owner's ([CASE-276](../cases.d/CASE-276.md), [CASE-278](../cases.d/CASE-278.md)), and the idea they apply is the owner's
+  earlier [CLAIM-464](../claims.d/CLAIM-464.md), reached again.
 
 ### A49, a manuscript (2026-11-16)
 
@@ -735,9 +735,9 @@ the continuation holds the turns.
   answer, because no separating case, derivation or prediction in the
   exchange admits it as a claim (the curation entry, [ADR-075](../decisions.d/ADR-075.md)). No entry
   states it. The readings give the question's second option a published
-  form (Wenar, THEORY-1988) and a published reply for promises
-  (Scanlon, THEORY-1967), and settle it for institutional powers neither
-  way (QUESTION-483's dated note).
+  form (Wenar, [THEORY-1988](../theory.d/THEORY-1988.md)) and a published reply for promises
+  (Scanlon, [THEORY-1967](../theory.d/THEORY-1967.md)), and settle it for institutional powers neither
+  way ([QUESTION-483](../questions.d/QUESTION-483.md)'s dated note).
 - **The unity of the parts.** That the thirteen components above are one
   theory, "the organization of rightful power", beyond their pairwise
   links. The curation entry found no claim to file from the thesis as a
@@ -748,7 +748,7 @@ the continuation holds the turns.
   A26 to A110 as versions of one thesis. No entry states that A106's
   thesis is A26's developed, beyond the components they share.
 - **Where the friction and throughput thread sits in the thesis.** A106
-  does not name the owner's CLAIM-710, CLAIM-711, CLAIM-705 or CLAIM-704;
+  does not name the owner's [CLAIM-710](../claims.d/CLAIM-710.md), [CLAIM-711](../claims.d/CLAIM-711.md), [CLAIM-705](../claims.d/CLAIM-705.md) or [CLAIM-704](../claims.d/CLAIM-704.md);
   A76 drops U11, U13 and U16 to U17. That they are cases of component 5
   is this account's grouping, marked as such, not a link an entry
   states.
@@ -761,7 +761,7 @@ the continuation holds the turns.
 - **Answers to the owner's questions** [QUESTION-478](../questions.d/QUESTION-478.md),
   [QUESTION-485](../questions.d/QUESTION-485.md), [QUESTION-480](../questions.d/QUESTION-480.md) (its "why"), [QUESTION-486](../questions.d/QUESTION-486.md),
   [QUESTION-483](../questions.d/QUESTION-483.md), [QUESTION-476](../questions.d/QUESTION-476.md) and [QUESTION-477](../questions.d/QUESTION-477.md), and to the first
-  filing's QUESTION-470, QUESTION-472, QUESTION-473 and QUESTION-474. The
+  filing's [QUESTION-470](../questions.d/QUESTION-470.md), [QUESTION-472](../questions.d/QUESTION-472.md), [QUESTION-473](../questions.d/QUESTION-473.md) and [QUESTION-474](../questions.d/QUESTION-474.md). The
   thesis bears on each and settles none; the readings bear on several
   and settle none.
 - **Where a synthesis improved on the one before.** That each revision is
@@ -773,7 +773,7 @@ the continuation holds the turns.
 
 - That any component is accepted: every claim, case, term and argument
   from the exchange is Proposed and every question Open, but for the
-  owner's two U13 cases, CASE-276 and CASE-278, which are Active
+  owner's two U13 cases, [CASE-276](../cases.d/CASE-276.md) and [CASE-278](../cases.d/CASE-278.md), which are Active
   documented specimens; of the held
   entries cited, [CLAIM-624](../claims.d/CLAIM-624.md), [CLAIM-545](../claims.d/CLAIM-545.md), [CLAIM-682](../claims.d/CLAIM-682.md), [CLAIM-687](../claims.d/CLAIM-687.md) and [TERM-124](../terms.d/TERM-124.md)
   are Proposed.

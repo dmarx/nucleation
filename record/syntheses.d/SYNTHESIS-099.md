@@ -83,19 +83,19 @@ summary: >-
   acts, and on moral exploitation. Every claim and case is A's and
   Proposed, the two arguments are the filer's and the assistant's, and
   every question is Open. Who harmed whom is kept apart from who
-  dominated whom (CLAIM-709, on CASE-279, argued in ARG-113 from
-  CLAIM-708); structuring another's circumstances toward a wrong is a
-  wrong of its own, also against the person structured (CLAIM-708), and
-  its true accusation can be used for further control (CLAIM-726, resting
-  on CLAIM-445; ARG-115 finds Keller's case does not instance it); an
-  agent can be governed through its sound values (CLAIM-703), and an
+  dominated whom ([CLAIM-709](../claims.d/CLAIM-709.md), on [CASE-279](../cases.d/CASE-279.md), argued in [ARG-113](../arguments.d/ARG-113.md) from
+  [CLAIM-708](../claims.d/CLAIM-708.md)); structuring another's circumstances toward a wrong is a
+  wrong of its own, also against the person structured ([CLAIM-708](../claims.d/CLAIM-708.md)), and
+  its true accusation can be used for further control ([CLAIM-726](../claims.d/CLAIM-726.md), resting
+  on [CLAIM-445](../claims.d/CLAIM-445.md); [ARG-115](../arguments.d/ARG-115.md) finds Keller's case does not instance it); an
+  agent can be governed through its sound values ([CLAIM-703](../claims.d/CLAIM-703.md)), and an
   arrangement can run on what its members' commitments supply
-  (CLAIM-713, resting on CLAIM-703), unseen while it lasts (CLAIM-702),
-  with control, obligation and blame apart (CLAIM-707, resting on
-  CLAIM-708), required scrutiny cited as ownership (CLAIM-715) and a loop
-  that cuts what the compensation hides (CLAIM-700). Two constructions
+  ([CLAIM-713](../claims.d/CLAIM-713.md), resting on [CLAIM-703](../claims.d/CLAIM-703.md)), unseen while it lasts ([CLAIM-702](../claims.d/CLAIM-702.md)),
+  with control, obligation and blame apart ([CLAIM-707](../claims.d/CLAIM-707.md), resting on
+  [CLAIM-708](../claims.d/CLAIM-708.md)), required scrutiny cited as ownership ([CLAIM-715](../claims.d/CLAIM-715.md)) and a loop
+  that cuts what the compensation hides ([CLAIM-700](../claims.d/CLAIM-700.md)). Two constructions
   and four questions complete it. The readings corroborate most claims
-  in part; none corroborates CLAIM-726, CLAIM-702 or CLAIM-700. The
+  in part; none corroborates [CLAIM-726](../claims.d/CLAIM-726.md), [CLAIM-702](../claims.d/CLAIM-702.md) or [CLAIM-700](../claims.d/CLAIM-700.md). The
   account adds nothing of its own; its standing is its components'.
 ---
 <!-- inactive-ok-file: ARG-113 ARG-115 CASE-279 CASE-288 CASE-290 CASE-292 CLAIM-445 CLAIM-553 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-669 CLAIM-678 CLAIM-679 CLAIM-687 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-703 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-710 CLAIM-712 CLAIM-713 CLAIM-715 CLAIM-721 CLAIM-726 CLAIM-728 SYNTHESIS-098 SYNTHESIS-101 TERM-110 TERM-123 TERM-124 TERM-127 THEORY-1397 THEORY-1912 THEORY-1914 THEORY-1916 THEORY-1917 THEORY-1919 THEORY-1921 THEORY-1922 THEORY-1925 THEORY-1926 THEORY-1928 THEORY-1929 THEORY-1931 THEORY-1932 THEORY-1933 THEORY-1935 THEORY-1937 THEORY-1939 THEORY-1943 THEORY-1946 THEORY-1948 THEORY-1949 THEORY-1958 THEORY-1961 THEORY-1973 THEORY-1986 THEORY-1987 THEORY-1991 THEORY-1993 — Proposed; components, citations and the readings that support them, with their standing -->
@@ -106,50 +106,50 @@ summary: >-
 
 ## The account
 
-**Harm done and power held.** CLAIM-709 (A's; thesis, interpretive,
+**Harm done and power held.** [CLAIM-709](../claims.d/CLAIM-709.md) (A's; thesis, interpretive,
 Proposed). The first filing took it from A3's "Where I land", at the
 owner's U1 and U2: equality of wrongdoing and equality of power are
 separate questions, so a tally of wrongful acts does not settle who is
 responsible for the relationship's coercive structure. The continuation
 added, from A3 §3, §7 and A7 §9, why they separate (domination in
-TERM-124's sense is a capacity, "used or not", while a tally counts its
+[TERM-124](../terms.d/TERM-124.md)'s sense is a capacity, "used or not", while a tally counts its
 exercises) and the converse, now in the title: a finding of that control
 does not excuse the controlled party's own wrongful acts. It grounds on
-CASE-279, uses TERM-124 and TERM-127, and complements CLAIM-690 (its
-body: "the interpersonal version") and CLAIM-708. ARG-113 (the first
+[CASE-279](../cases.d/CASE-279.md), uses [TERM-124](../terms.d/TERM-124.md) and [TERM-127](../terms.d/TERM-127.md), and complements [CLAIM-690](../claims.d/CLAIM-690.md) (its
+body: "the interpersonal version") and [CLAIM-708](../claims.d/CLAIM-708.md). [ARG-113](../arguments.d/ARG-113.md) (the first
 filing's, the filer's statement of A's argument; existence, Proposed)
-concludes it: CASE-279's Relationship B separates the count of wrongful
+concludes it: [CASE-279](../cases.d/CASE-279.md)'s Relationship B separates the count of wrongful
 acts from control over the terms, which is all the claim's first half
 needs; the second half needs a premise the case does not supply, that
 one can be responsible for the conditions of another's conduct, and
-ARG-113 rests on CLAIM-708 for it.
+[ARG-113](../arguments.d/ARG-113.md) rests on [CLAIM-708](../claims.d/CLAIM-708.md) for it.
 
-CASE-279 (A's, A3 §1 and §5; fictional thought experiment, Proposed):
+[CASE-279](../cases.d/CASE-279.md) (A's, A3 §1 and §5; fictional thought experiment, Proposed):
 Alice and Bob fight and neither controls the other; Carol may strike Dan
 more often, while Dan controls their money, monitors her messages,
 isolates her and threatens her if she leaves. The continuation added A3
-§5's table and A3 §3's six questions. It `draws_on` THEORY-1961 (Johnson
+§5's table and A3 §3's six questions. It `draws_on` [THEORY-1961](../theory.d/THEORY-1961.md) (Johnson
 2006, the interview), Johnson's three types of violence.
 
-*Readings.* Seven THEORYs corroborate CLAIM-709, each for its first half
-only, the separation of acts from control: THEORY-1925 (Johnson 2006,
+*Readings.* Seven THEORYs corroborate [CLAIM-709](../claims.d/CLAIM-709.md), each for its first half
+only, the separation of acts from control: [THEORY-1925](../theory.d/THEORY-1925.md) (Johnson 2006,
 "Conflict and Control": types defined by "the degree of control
-present", not by the acts), THEORY-1961 (Johnson's 2006 interview),
-THEORY-1991 (Hardesty et al. 2015: a count of control tactics can
-misclassify a controlling abuser as low control), THEORY-1943 (Stark
+present", not by the acts), [THEORY-1961](../theory.d/THEORY-1961.md) (Johnson's 2006 interview),
+[THEORY-1991](../theory.d/THEORY-1991.md) (Hardesty et al. 2015: a count of control tactics can
+misclassify a controlling abuser as low control), [THEORY-1943](../theory.d/THEORY-1943.md) (Stark
 and Hester 2019: "Coercive control is not a type of violence"),
-THEORY-1986 (Stark 2015), THEORY-1949 (Cunha et al.: the Conflict
+[THEORY-1986](../theory.d/THEORY-1986.md) (Stark 2015), [THEORY-1949](../theory.d/THEORY-1949.md) (Cunha et al.: the Conflict
 Tactics Scale counts acts and cannot tell initiation from self-defence)
-and THEORY-1929 (Mazinani and O'Connor 2026, an interpretive guard, not
+and [THEORY-1929](../theory.d/THEORY-1929.md) (Mazinani and O'Connor 2026, an interpretive guard, not
 a test). The claim's dated note of 2026-11-17 records that none takes
 up its second half, that responsibility for the structure goes with
 control, or its converse; Johnson allows only that violent resistance
-"can sometimes be" justified. Lohmann et al. (THEORY-1922) carries no
-relation. CASE-279's dated note places Carol's strikes as violent
+"can sometimes be" justified. Lohmann et al. ([THEORY-1922](../theory.d/THEORY-1922.md)) carries no
+relation. [CASE-279](../cases.d/CASE-279.md)'s dated note places Carol's strikes as violent
 resistance in Johnson's terms, and records that mutual violent control,
 the fourth type in A's table, is confirmed by nothing read.
 
-**Arranging another's wrong.** CLAIM-708 (A's; thesis, interpretive,
+**Arranging another's wrong.** [CLAIM-708](../claims.d/CLAIM-708.md) (A's; thesis, interpretive,
 Proposed; lines organizational-normativity and distributed-agency). The
 first filing took A7 §8's sentence, which the owner quoted back at U5,
 and A9's principle: one who wrongfully structures another's
@@ -162,113 +162,113 @@ proportionality) and limits it to wrongful interference with another's
 capacity to govern their own conduct. The continuation added, from A9
 §1, §4, §9 and A11 §6, that the structuring is also a wrong against the
 person structured, whether or not they comply, and that responsibility
-is not zero-sum. It complements CLAIM-624 (its body: "the organizational
-form") and CLAIM-709, bears on QUESTION-070 and QUESTION-449, and uses
-TERM-127.
+is not zero-sum. It complements [CLAIM-624](../claims.d/CLAIM-624.md) (its body: "the organizational
+form") and [CLAIM-709](../claims.d/CLAIM-709.md), bears on [QUESTION-070](../questions.d/QUESTION-070.md) and [QUESTION-449](../questions.d/QUESTION-449.md), and uses
+[TERM-127](../terms.d/TERM-127.md).
 
-*Readings.* Five THEORYs corroborate it. THEORY-1939 (Santoni de Sio
+*Readings.* Five THEORYs corroborate it. [THEORY-1939](../theory.d/THEORY-1939.md) (Santoni de Sio
 and van den Hoven 2018) carries responsibility from the operator to the
 "choice architect", and qualifies the second half: where the operator's
 conditions fail through no fault of hers, tracing relocates
-responsibility rather than adding a bearer. THEORY-1912 (the SEP entry
+responsibility rather than adding a bearer. [THEORY-1912](../theory.d/THEORY-1912.md) (the SEP entry
 "Blame") gives the complicity condition: one who ordered the wrong "is
 not in a position to blame" the subordinate, "even if civilians are".
-THEORY-1919 (the SEP entry "Coercion"), partly and second-hand, treats
-the coercee's responsibility as its own question. THEORY-1914 (Tessman)
-supports the structure where the structured party does no wrong. THEORY-1917
+[THEORY-1919](../theory.d/THEORY-1919.md) (the SEP entry "Coercion"), partly and second-hand, treats
+the coercee's responsibility as its own question. [THEORY-1914](../theory.d/THEORY-1914.md) (Tessman)
+supports the structure where the structured party does no wrong. [THEORY-1917](../theory.d/THEORY-1917.md)
 (Keller 2016) supports the relational wrong ("I mistreat you by placing
 you in a difficult moral predicament"), but his victim is pressed to do
 right, not wrong. Readings without a relation qualify the actor's end:
 Nagel's control condition pulls against "still answers"; Strawson's
 coercion plea can remove responsibility "or at all", and his
-"systematically perverted" mind exempts (THEORY-1973); Watson, through
-King (THEORY-1987), reduces accountability-blame where the actor lacked
-"a reasonable opportunity"; Miller, through Shaw-Young (THEORY-1958),
+"systematically perverted" mind exempts ([THEORY-1973](../theory.d/THEORY-1973.md)); Watson, through
+King ([THEORY-1987](../theory.d/THEORY-1987.md)), reduces accountability-blame where the actor lacked
+"a reasonable opportunity"; Miller, through Shaw-Young ([THEORY-1958](../theory.d/THEORY-1958.md)),
 puts the remedial burden on the structured party once the coercer is
 gone, which the claim's repair clause does not consider.
 
-**The true accusation as an instrument.** CLAIM-726 (A's, A7 §5, A9 §6,
+**The true accusation as an instrument.** [CLAIM-726](../claims.d/CLAIM-726.md) (A's, A7 §5, A9 §6,
 A11 and A13 §8; the owner's U6 brought in reflexive control; filed by
 the continuation; thesis, interpretive, Proposed; also
 distributed-agency): a party can arrange the conditions of another's
 real wrong and use the true accusation, before an audience whose
 judgement it anticipated, to justify further control; the truth of the
 accusation neither vindicates the arranger nor excuses the doer. It
-rests on CLAIM-445 (its summary: the loop's mechanism, "with the
-target's own conduct as the shifted evidence"), uses TERM-127 and
-TERM-124, and complements CLAIM-701 (in SYNTHESIS-098). Its body says it
-uses the wrong CLAIM-708 names "as an instrument", that CLAIM-721
-(SYNTHESIS-101) is "the same shape with incapacity in place of a wrong",
-that CLAIM-619's inversion differs in whether the thing used is a wrong,
-and that the first filing had held the pattern within CLAIM-708 and
-CLAIM-707.
+rests on [CLAIM-445](../claims.d/CLAIM-445.md) (its summary: the loop's mechanism, "with the
+target's own conduct as the shifted evidence"), uses [TERM-127](../terms.d/TERM-127.md) and
+[TERM-124](../terms.d/TERM-124.md), and complements [CLAIM-701](../claims.d/CLAIM-701.md) (in [SYNTHESIS-098](SYNTHESIS-098.md)). Its body says it
+uses the wrong [CLAIM-708](../claims.d/CLAIM-708.md) names "as an instrument", that [CLAIM-721](../claims.d/CLAIM-721.md)
+([SYNTHESIS-101](SYNTHESIS-101.md)) is "the same shape with incapacity in place of a wrong",
+that [CLAIM-619](../claims.d/CLAIM-619.md)'s inversion differs in whether the thing used is a wrong,
+and that the first filing had held the pattern within [CLAIM-708](../claims.d/CLAIM-708.md) and
+[CLAIM-707](../claims.d/CLAIM-707.md).
 
-*Readings.* None corroborates it. ARG-115 (the assistant's, at the
-readings of 2026-11-18; source, Proposed) grounds on THEORY-1917 and
+*Readings.* None corroborates it. [ARG-115](../arguments.d/ARG-115.md) (the assistant's, at the
+readings of 2026-11-18; source, Proposed) grounds on [THEORY-1917](../theory.d/THEORY-1917.md) and
 concludes against the inference from Keller: the teachers example A13
 §3 relays is Keller's (p. 24), but "The teachers have the right to
 strike", so there is no real wrong, and what the official anticipates
 is a smear, not a true accusation; Keller carries only the claim's third
 move, the anticipated audience. The claim's dated notes add that Harsey
-and Freyd's DARVO (THEORY-1926) casts the accusation as false and carries
-no relation, and that Gaboriaud et al. (THEORY-1935) vary no upstream
+and Freyd's DARVO ([THEORY-1926](../theory.d/THEORY-1926.md)) casts the accusation as false and carries
+no relation, and that Gaboriaud et al. ([THEORY-1935](../theory.d/THEORY-1935.md)) vary no upstream
 arranger.
 
-**Governed through one's own values.** CLAIM-703 (A's; thesis,
+**Governed through one's own values.** [CLAIM-703](../claims.d/CLAIM-703.md) (A's; thesis,
 interpretive, Proposed; line organizational-normativity). The first
 filing took A13, at the owner's U7: one party can wrongfully bring about
 circumstances in which another incurs a genuine obligation, so that the
 second does right in discharging it and is still wronged, and the
 obligation is no larger than the circumstances support. The continuation
-added the route in CLAIM-404's terms (A11 §4, A13 §2 and §6): the
+added the route in [CLAIM-404](../claims.d/CLAIM-404.md)'s terms (A11 §4, A13 §2 and §6): the
 manipulator changes the situation, ω, with the target's evidence and
-criteria unchanged. It complements CLAIM-708 (its body: "there the
-structured party does wrong, here it does right") and CLAIM-404, bears
-on QUESTION-472 and QUESTION-071, and uses TERM-127. Its body says what
+criteria unchanged. It complements [CLAIM-708](../claims.d/CLAIM-708.md) (its body: "there the
+structured party does wrong, here it does right") and [CLAIM-404](../claims.d/CLAIM-404.md), bears
+on [QUESTION-472](../questions.d/QUESTION-472.md) and [QUESTION-071](../questions.d/QUESTION-071.md), and uses [TERM-127](../terms.d/TERM-127.md). Its body says what
 makes the route a way of being governed is A15 §7's condition, a party
 that controls the trigger while another bears the cost, "which is
-CLAIM-713's".
+[CLAIM-713](../claims.d/CLAIM-713.md)'s".
 
-*Readings.* THEORY-1917 (Keller 2016) corroborates its central half
+*Readings.* [THEORY-1917](../theory.d/THEORY-1917.md) (Keller 2016) corroborates its central half
 and its condition ("if I have the power to change your circumstances,
 then I may have the power to change the moral demands you face"); the
-dog case is Keller's, the names A's. THEORY-1914 (Tessman, after
+dog case is Keller's, the names A's. [THEORY-1914](../theory.d/THEORY-1914.md) (Tessman, after
 Karnein) corroborates it by an argument independent of Keller.
 
-**The moral subsidy.** CLAIM-713 (A's; thesis, interpretive, Proposed).
+**The moral subsidy.** [CLAIM-713](../claims.d/CLAIM-713.md) (A's; thesis, interpretive, Proposed).
 The first filing took A15 at the owner's U8: a moral commitment is
 exploitable as a resource, since whoever controls the circumstances that
 trigger it can capture what its fulfilment yields and leave its costs
 with the committed party, and an institution can come to run on what it
 so avoids paying. The continuation added who bears it, now in the
 title (A13 §4 and §10, A15 §4: the burden falls hardest on the most
-conscientious), A15 §3's hold-up, and an inference against CLAIM-690
+conscientious), A15 §3's hold-up, and an inference against [CLAIM-690](../claims.d/CLAIM-690.md)
 that the body marks as the continuation filer's, "a candidate, not
-asserted", kept as QUESTION-472. It rests on CLAIM-703 (its body: "This
+asserted", kept as [QUESTION-472](../questions.d/QUESTION-472.md). It rests on [CLAIM-703](../claims.d/CLAIM-703.md) (its body: "This
 claim makes the setting of such circumstances a standing position, not a
-single manoeuvre"), complements CLAIM-690 and CLAIM-669, bears on
-QUESTION-468, QUESTION-461 and QUESTION-472, and uses TERM-123 and
-TERM-127.
+single manoeuvre"), complements [CLAIM-690](../claims.d/CLAIM-690.md) and [CLAIM-669](../claims.d/CLAIM-669.md), bears on
+[QUESTION-468](../questions.d/QUESTION-468.md), [QUESTION-461](../questions.d/QUESTION-461.md) and [QUESTION-472](../questions.d/QUESTION-472.md), and uses [TERM-123](../terms.d/TERM-123.md) and
+[TERM-127](../terms.d/TERM-127.md).
 
-*Readings.* THEORY-1917 (Keller 2016) corroborates it, for its
+*Readings.* [THEORY-1917](../theory.d/THEORY-1917.md) (Keller 2016) corroborates it, for its
 deliberate form only: his law firm can "increase your workload without
 having to increase your pay", and caring roles are harder to strike
-from; the claim allows reliance without intent. THEORY-1948 (Liedo, Van
+from; the claim allows reliance without intent. [THEORY-1948](../theory.d/THEORY-1948.md) (Liedo, Van
 Grunsven and Marin) corroborates it from care ethics. Robillard and
 Strawser, whom A15 names as a foundation, were not reached.
 
-**Unseen while it lasts.** CLAIM-702 (A's, A17 §6; split out of CLAIM-707
+**Unseen while it lasts.** [CLAIM-702](../claims.d/CLAIM-702.md) (A's, A17 §6; split out of [CLAIM-707](../claims.d/CLAIM-707.md)
 at the first filing's review of 2026-11-16; thesis, interpretive,
 Proposed): where members' compensating effort prevents failures the
 organization's conditions would produce, the prevention leaves little
 trace while its lapse is visible, so the organization can be credited
 with outcomes the compensation produced and the members blamed for
-failures the conditions produced. It complements CLAIM-707, CLAIM-713
-and CLAIM-614, and bears on QUESTION-461. Its body calls it "the
-measurement link" CLAIM-700's loop needs. *Readings.* None supports it;
+failures the conditions produced. It complements [CLAIM-707](../claims.d/CLAIM-707.md), [CLAIM-713](../claims.d/CLAIM-713.md)
+and [CLAIM-614](../claims.d/CLAIM-614.md), and bears on [QUESTION-461](../questions.d/QUESTION-461.md). Its body calls it "the
+measurement link" [CLAIM-700](../claims.d/CLAIM-700.md)'s loop needs. *Readings.* None supports it;
 its body says Elish supports the blame mechanism only.
 
-**Control, obligation and blame apart.** CLAIM-707 (A's; thesis,
+**Control, obligation and blame apart.** [CLAIM-707](../claims.d/CLAIM-707.md) (A's; thesis,
 interpretive, Proposed; lines organizational-normativity and
 dependence-and-domination). The first filing took A17, at the owner's
 U9: an organization can place control over the conditions of action
@@ -277,230 +277,230 @@ becomes visible, so those blamed can be those with least control. The
 continuation added A17 §1, §4, §9 and §10, A15 §6 and §9 and A49 §11.1:
 authority on paper is not actionable control, conscience "does double
 duty", the power to set the categories of evaluation, and a crumple zone
-"can contain someone who is partly responsible". It rests on CLAIM-708,
-grounds on THEORY-1928, complements CLAIM-713, CLAIM-702, CLAIM-614 and
-CLAIM-678, bears on QUESTION-461, QUESTION-468 and QUESTION-487, and uses
-TERM-127. Its body names CLAIM-715 as one route by which blame reaches
-those downstream, and CLAIM-713 as the first half of the double duty.
+"can contain someone who is partly responsible". It rests on [CLAIM-708](../claims.d/CLAIM-708.md),
+grounds on [THEORY-1928](../theory.d/THEORY-1928.md), complements [CLAIM-713](../claims.d/CLAIM-713.md), [CLAIM-702](../claims.d/CLAIM-702.md), [CLAIM-614](../claims.d/CLAIM-614.md) and
+[CLAIM-678](../claims.d/CLAIM-678.md), bears on [QUESTION-461](../questions.d/QUESTION-461.md), [QUESTION-468](../questions.d/QUESTION-468.md) and [QUESTION-487](../questions.d/QUESTION-487.md), and uses
+[TERM-127](../terms.d/TERM-127.md). Its body names [CLAIM-715](../claims.d/CLAIM-715.md) as one route by which blame reaches
+those downstream, and [CLAIM-713](../claims.d/CLAIM-713.md) as the first half of the double duty.
 
-*Readings.* Its ground, THEORY-1928 (Elish 2019), carries the blame
+*Readings.* Its ground, [THEORY-1928](../theory.d/THEORY-1928.md) (Elish 2019), carries the blame
 part, credit to the arrangement and standards set upstream; Elish's
 limit (crumple zones "are not a property of every complex and automated
 system") is not cited by the claim, so no `bounds` is written.
-THEORY-1933 (Ozer, Waggoner and Kennedy) `bounds` its automation
-corollary. Corroborating: THEORY-1932 (the NTSB on Tempe, the
+[THEORY-1933](../theory.d/THEORY-1933.md) (Ozer, Waggoner and Kennedy) `bounds` its automation
+corollary. Corroborating: [THEORY-1932](../theory.d/THEORY-1932.md) (the NTSB on Tempe, the
 control-and-duty part, though the NTSB carries cause upstream, nearer
-the second branch of the claim's defeater), THEORY-1916 (Choroszewicz,
-allocation before failure), THEORY-1939 (Santoni de Sio and van den
-Hoven), THEORY-1946 (Rubel, Castro and Pham, agency laundering, which
+the second branch of the claim's defeater), [THEORY-1916](../theory.d/THEORY-1916.md) (Choroszewicz,
+allocation before failure), [THEORY-1939](../theory.d/THEORY-1939.md) (Santoni de Sio and van den
+Hoven), [THEORY-1946](../theory.d/THEORY-1946.md) (Rubel, Castro and Pham, agency laundering, which
 needs a misleading ascription and leaves inadvertence open), and
-THEORY-1921 and THEORY-1993 (Tronto, for the concept only). Its dated
-note records that no reading supports the conscience part. CASE-292
+[THEORY-1921](../theory.d/THEORY-1921.md) and [THEORY-1993](../theory.d/THEORY-1993.md) (Tronto, for the concept only). Its dated
+note records that no reading supports the conscience part. [CASE-292](../cases.d/CASE-292.md)
 (the Tempe crash, documented; distributed-agency) illustrates it.
 
-**Scrutiny as evidence of ownership.** CLAIM-715 (A's, A23 §7 and A19 §2,
-developing the owner's U11, CLAIM-710; filed by the continuation;
+**Scrutiny as evidence of ownership.** [CLAIM-715](../claims.d/CLAIM-715.md) (A's, A23 §7 and A19 §2,
+developing the owner's U11, [CLAIM-710](../claims.d/CLAIM-710.md); filed by the continuation;
 thesis, interpretive, Proposed; first line distributed-agency): friction
 that makes people think differs from friction that makes the
 institution answerable, and the added scrutiny can serve as evidence
 that individuals owned decisions whose conditions they could not change.
-It rests on CLAIM-349 for the split of access from authority and on
-CLAIM-707 for the perverse case, grounds its cognitive half on LIT-2283,
-and complements CLAIM-712 (the first filing's, on traceability; outside
-this part). *Readings.* THEORY-1916 (Choroszewicz: "human oversight and
+It rests on [CLAIM-349](../claims.d/CLAIM-349.md) for the split of access from authority and on
+[CLAIM-707](../claims.d/CLAIM-707.md) for the perverse case, grounds its cognitive half on [LIT-2283](../literature.d/LIT-2283.md),
+and complements [CLAIM-712](../claims.d/CLAIM-712.md) (the first filing's, on traceability; outside
+this part). *Readings.* [THEORY-1916](../theory.d/THEORY-1916.md) (Choroszewicz: "human oversight and
 responsibility as liability were explicitly codified as a user burden"),
-THEORY-1937 (Natali et al.: every designed friction acts on the user)
-and THEORY-1931 (the HKMA: approval is meaningful only with "the
+[THEORY-1937](../theory.d/THEORY-1937.md) (Natali et al.: every designed friction acts on the user)
+and [THEORY-1931](../theory.d/THEORY-1931.md) (the HKMA: approval is meaningful only with "the
 authority and practical ability to challenge or reject") corroborate its
 first half. None reports scrutiny cited afterwards as ownership: its last
 clause is unsupported.
 
-**The hidden-shortfall loop.** CLAIM-700 (A's, A33 §3 and §5 at the
+**The hidden-shortfall loop.** [CLAIM-700](../claims.d/CLAIM-700.md) (A's, A33 §3 and §5 at the
 owner's U16; thesis, interpretive, Proposed; lines
 organizational-normativity and readiness). The first filing's: where
 members' compensation covers a shortfall and the organization budgets to
 what it observes, the compensation and its quiet are read as adequacy,
 resources are cut toward present need, and the reconfigurations that
 would remove the shortfall pass out of reach. The continuation added
-the strategic layer with TERM-110's ratchet (where revealing spare
+the strategic layer with [TERM-110](../terms.d/TERM-110.md)'s ratchet (where revealing spare
 capacity invites its removal, members' best responses feed the loop) and
-corrected A's paraphrase of CLAIM-577's rule (last period's peak, not
-what was consumed). It rests on CLAIM-679, CLAIM-549, CLAIM-713 and
-CLAIM-702, complements CLAIM-577 and CLAIM-707, uses TERM-106 and
-TERM-110, and bears on QUESTION-386. Its body says each link is held and
-the coupling is not, and names CLAIM-445 and CLAIM-619 as loops "of the
+corrected A's paraphrase of [CLAIM-577](../claims.d/CLAIM-577.md)'s rule (last period's peak, not
+what was consumed). It rests on [CLAIM-679](../claims.d/CLAIM-679.md), [CLAIM-549](../claims.d/CLAIM-549.md), [CLAIM-713](../claims.d/CLAIM-713.md) and
+[CLAIM-702](../claims.d/CLAIM-702.md), complements [CLAIM-577](../claims.d/CLAIM-577.md) and [CLAIM-707](../claims.d/CLAIM-707.md), uses [TERM-106](../terms.d/TERM-106.md) and
+[TERM-110](../terms.d/TERM-110.md), and bears on [QUESTION-386](../questions.d/QUESTION-386.md). Its body says each link is held and
+the coupling is not, and names [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-619](../claims.d/CLAIM-619.md) as loops "of the
 same family". *Readings.* None carries a relation; its notes on
 Choroszewicz and the NTSB call them analogues.
 
-**Two constructions.** CASE-288 (A's, A53 §7 at the owner's U24;
+**Two constructions.** [CASE-288](../cases.d/CASE-288.md) (A's, A53 §7 at the owner's U24;
 stipulated thought experiment, Proposed): three hospitals with the same
 output, budget and staff, differing in how extra work is drawn out,
-negotiated, competitive or moralized. It illustrates CLAIM-713 and
-CLAIM-703, bears on QUESTION-463 and QUESTION-468, and `draws_on`
-THEORY-1917: arm C has the mechanism of Keller's third-party moral
+negotiated, competitive or moralized. It illustrates [CLAIM-713](../claims.d/CLAIM-713.md) and
+[CLAIM-703](../claims.d/CLAIM-703.md), bears on [QUESTION-463](../questions.d/QUESTION-463.md) and [QUESTION-468](../questions.d/QUESTION-468.md), and `draws_on`
+[THEORY-1917](../theory.d/THEORY-1917.md): arm C has the mechanism of Keller's third-party moral
 blackmail, deliberate in Keller and unspecified in the case. Its body
 says arm B shows the same extraction with no appeal to conscience, and
-calls arm B's authority over expectations CLAIM-728's residual control
-in a workplace. CASE-290 (A's, A33 §3, §6 and §10 B; stipulated
+calls arm B's authority over expectations [CLAIM-728](../claims.d/CLAIM-728.md)'s residual control
+in a workplace. [CASE-290](../cases.d/CASE-290.md) (A's, A33 §3, §6 and §10 B; stipulated
 proposed study, not run, Proposed; first line will-organization): with
 conditions held fixed, measure acceptance, seen discrepancy, motivation,
 protected channel and efficacy, to tell satisfaction from tolerance. It
-illustrates CLAIM-553, CLAIM-549 and CLAIM-700, and bears on
-QUESTION-474. CLAIM-702's body calls it distinct from that claim: it
-would observe CLAIM-700's quiet link, not the visibility of
+illustrates [CLAIM-553](../claims.d/CLAIM-553.md), [CLAIM-549](../claims.d/CLAIM-549.md) and [CLAIM-700](../claims.d/CLAIM-700.md), and bears on
+[QUESTION-474](../questions.d/QUESTION-474.md). [CLAIM-702](../claims.d/CLAIM-702.md)'s body calls it distinct from that claim: it
+would observe [CLAIM-700](../claims.d/CLAIM-700.md)'s quiet link, not the visibility of
 compensation.
 
-**Four questions.** QUESTION-487 (A's, A17's close; Open) asks what lets
+**Four questions.** [QUESTION-487](../questions.d/QUESTION-487.md) (A's, A17's close; Open) asks what lets
 agents hold principals accountable for the conditions they must act
-under. It refines QUESTION-461; its body says CLAIM-687, CLAIM-624 and
-CLAIM-707 supply the downward half and none the instruments, and that
-CLAIM-713 gives one reason dependence may not become authority.
-*Readings* bearing on it: THEORY-1921 and THEORY-1993 (Tronto: a
-democratic answer in kind), THEORY-1939 (Santoni de Sio and van den
+under. It refines [QUESTION-461](../questions.d/QUESTION-461.md); its body says [CLAIM-687](../claims.d/CLAIM-687.md), [CLAIM-624](../claims.d/CLAIM-624.md) and
+[CLAIM-707](../claims.d/CLAIM-707.md) supply the downward half and none the instruments, and that
+[CLAIM-713](../claims.d/CLAIM-713.md) gives one reason dependence may not become authority.
+*Readings* bearing on it: [THEORY-1921](../theory.d/THEORY-1921.md) and [THEORY-1993](../theory.d/THEORY-1993.md) (Tronto: a
+democratic answer in kind), [THEORY-1939](../theory.d/THEORY-1939.md) (Santoni de Sio and van den
 Hoven: a duty on designers, not an instrument for agents) and,
-weakly, THEORY-1928 (Elish: certification). Its note: it stays open.
+weakly, [THEORY-1928](../theory.d/THEORY-1928.md) (Elish: certification). Its note: it stays open.
 
-QUESTION-473 (raised by the first filing's third review of 2026-11-16,
+[QUESTION-473](../questions.d/QUESTION-473.md) (raised by the first filing's third review of 2026-11-16,
 ChatGPT's, forwarded by the owner, from A15 and A17; the wording A's;
 Open; line organizational-normativity) asks what remains of an
 organization's moral standing to blame an agent whose wrongdoing its
 conditions substantially produced, as distinct from its authority to
 investigate, correct or sanction. Its body cites the complicity
-condition from THEORY-1912, names CLAIM-713, CLAIM-702, CLAIM-707 and
-CLAIM-708 as the exchange's partial cases, and keeps itself apart from
-QUESTION-470 (who must repair) and QUESTION-487 (what the agent can do
+condition from [THEORY-1912](../theory.d/THEORY-1912.md), names [CLAIM-713](../claims.d/CLAIM-713.md), [CLAIM-702](../claims.d/CLAIM-702.md), [CLAIM-707](../claims.d/CLAIM-707.md) and
+[CLAIM-708](../claims.d/CLAIM-708.md) as the exchange's partial cases, and keeps itself apart from
+[QUESTION-470](../questions.d/QUESTION-470.md) (who must repair) and [QUESTION-487](../questions.d/QUESTION-487.md) (what the agent can do
 to the principal). It has no front-matter relations.
 
-QUESTION-472 (A's, A30 §4 at the owner's U15; Open) asks whether the
+[QUESTION-472](../questions.d/QUESTION-472.md) (A's, A30 §4 at the owner's U15; Open) asks whether the
 ability to activate another's genuine obligations is control over the
 terms of their dependence. The continuation added what turns on it for
-TERM-124 (if not, CLAIM-703 and CLAIM-713 are "exploitation without
+[TERM-124](../terms.d/TERM-124.md) (if not, [CLAIM-703](../claims.d/CLAIM-703.md) and [CLAIM-713](../claims.d/CLAIM-713.md) are "exploitation without
 domination"), a second negative answer (a capacity to set terms acts on
 options, not reasons) and the sharper test case. *Readings* bearing on
-it: THEORY-1917 (Keller: evidence toward yes for fiduciaries, whose
+it: [THEORY-1917](../theory.d/THEORY-1917.md) (Keller: evidence toward yes for fiduciaries, whose
 moral cost of striking does the work of a barrier to exit) and
-THEORY-1914 (Tessman's case). QUESTION-477 (the owner's, U8, filed at the
+[THEORY-1914](../theory.d/THEORY-1914.md) (Tessman's case). [QUESTION-477](../questions.d/QUESTION-477.md) (the owner's, U8, filed at the
 owner's request; Open; the wording and its formalization the
 assistant's) asks for a resource theory of moral commitments in the
-formal sense of THEORY-1397; its body says the economic reading is filed
-in CLAIM-703, CLAIM-713 and CLAIM-707, and that a formal answer would
-make QUESTION-472 exact.
+formal sense of [THEORY-1397](../theory.d/THEORY-1397.md); its body says the economic reading is filed
+in [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-707](../claims.d/CLAIM-707.md), and that a formal answer would
+make [QUESTION-472](../questions.d/QUESTION-472.md) exact.
 
 ## The components
 
-- CLAIM-709, A's (both filings); thesis, interpretive, Proposed.
-- CASE-279, A's (both filings); fictional thought experiment, Proposed.
-- ARG-113, the first filer's statement of A's argument; existence, Proposed.
-- CLAIM-708, A's (both filings); thesis, interpretive, Proposed; lines organizational-normativity and distributed-agency.
-- CLAIM-726, A's, at the owner's U6; thesis, interpretive, Proposed; also distributed-agency.
-- ARG-115, the assistant's, from the readings; source, Proposed.
-- CLAIM-703, A's (both filings); thesis, interpretive, Proposed; line organizational-normativity.
-- CLAIM-713, A's (both filings); thesis, interpretive, Proposed.
-- CLAIM-702, A's; thesis, interpretive, Proposed.
-- CLAIM-707, A's (both filings); thesis, interpretive, Proposed; first line organizational-normativity.
-- CLAIM-715, A's, developing the owner's U11; thesis, interpretive, Proposed; first line distributed-agency.
-- CLAIM-700, A's (both filings); thesis, interpretive, Proposed; lines organizational-normativity and readiness.
-- CASE-288, A's; stipulated thought experiment, Proposed.
-- CASE-290, A's; stipulated proposed study, Proposed; first line will-organization.
-- QUESTION-487, raised from A's turn, Open.
-- QUESTION-473, raised by a review the owner forwarded, in A's wording, Open; line organizational-normativity.
-- QUESTION-472, raised from A's turn (both filings), Open.
-- QUESTION-477, the owner's question in the assistant's wording, Open.
+- [CLAIM-709](../claims.d/CLAIM-709.md), A's (both filings); thesis, interpretive, Proposed.
+- [CASE-279](../cases.d/CASE-279.md), A's (both filings); fictional thought experiment, Proposed.
+- [ARG-113](../arguments.d/ARG-113.md), the first filer's statement of A's argument; existence, Proposed.
+- [CLAIM-708](../claims.d/CLAIM-708.md), A's (both filings); thesis, interpretive, Proposed; lines organizational-normativity and distributed-agency.
+- [CLAIM-726](../claims.d/CLAIM-726.md), A's, at the owner's U6; thesis, interpretive, Proposed; also distributed-agency.
+- [ARG-115](../arguments.d/ARG-115.md), the assistant's, from the readings; source, Proposed.
+- [CLAIM-703](../claims.d/CLAIM-703.md), A's (both filings); thesis, interpretive, Proposed; line organizational-normativity.
+- [CLAIM-713](../claims.d/CLAIM-713.md), A's (both filings); thesis, interpretive, Proposed.
+- [CLAIM-702](../claims.d/CLAIM-702.md), A's; thesis, interpretive, Proposed.
+- [CLAIM-707](../claims.d/CLAIM-707.md), A's (both filings); thesis, interpretive, Proposed; first line organizational-normativity.
+- [CLAIM-715](../claims.d/CLAIM-715.md), A's, developing the owner's U11; thesis, interpretive, Proposed; first line distributed-agency.
+- [CLAIM-700](../claims.d/CLAIM-700.md), A's (both filings); thesis, interpretive, Proposed; lines organizational-normativity and readiness.
+- [CASE-288](../cases.d/CASE-288.md), A's; stipulated thought experiment, Proposed.
+- [CASE-290](../cases.d/CASE-290.md), A's; stipulated proposed study, Proposed; first line will-organization.
+- [QUESTION-487](../questions.d/QUESTION-487.md), raised from A's turn, Open.
+- [QUESTION-473](../questions.d/QUESTION-473.md), raised by a review the owner forwarded, in A's wording, Open; line organizational-normativity.
+- [QUESTION-472](../questions.d/QUESTION-472.md), raised from A's turn (both filings), Open.
+- [QUESTION-477](../questions.d/QUESTION-477.md), the owner's question in the assistant's wording, Open.
 
 ## Links the components state, and where
 
 Each is a front-matter relation of the entry named first, unless a body is
 cited.
 
-- CLAIM-709 grounds on CASE-279 and complements CLAIM-708. ARG-113 rests
-  on CLAIM-708, grounds on CASE-279 and concludes CLAIM-709.
-- CLAIM-703 complements CLAIM-708. CLAIM-713 rests on CLAIM-703.
-  CLAIM-707 rests on CLAIM-708 and complements CLAIM-713 and CLAIM-702.
-  CLAIM-702 complements CLAIM-707 and CLAIM-713. CLAIM-715 rests on
-  CLAIM-707. CLAIM-700 rests on CLAIM-713 and CLAIM-702 and complements
-  CLAIM-707. ARG-115 concludes CLAIM-726.
-- CASE-288 illustrates CLAIM-713 and CLAIM-703. CASE-290 illustrates
-  CLAIM-700.
-- CLAIM-703 and CLAIM-713 bear on QUESTION-472. CLAIM-707 bears on
-  QUESTION-487.
-- Bodies: CLAIM-726's says it uses CLAIM-708's wrong as an instrument.
-  CLAIM-703's says its condition is CLAIM-713's. CLAIM-702's calls itself
-  CLAIM-700's measurement link and CASE-290 distinct. CLAIM-707's names
-  CLAIM-715 and CLAIM-713. QUESTION-473's names CLAIM-713, CLAIM-702,
-  CLAIM-707, CLAIM-708 and QUESTION-487; QUESTION-487's names CLAIM-707,
-  CLAIM-713 and QUESTION-473. QUESTION-472's names CLAIM-703 and
-  CLAIM-713; QUESTION-477's names CLAIM-703, CLAIM-713, CLAIM-707 and
-  QUESTION-472.
-- Out of the part: CLAIM-709 complements CLAIM-690; CLAIM-708
-  complements CLAIM-624 and bears on QUESTION-070 and QUESTION-449;
-  CLAIM-726 rests on CLAIM-445 and complements CLAIM-701 (SYNTHESIS-098);
-  CLAIM-703 complements CLAIM-404 and bears on QUESTION-071; CLAIM-713
-  complements CLAIM-690 and CLAIM-669 and bears on QUESTION-468 and
-  QUESTION-461; CLAIM-702 complements CLAIM-614 and bears on
-  QUESTION-461; CLAIM-707 complements CLAIM-614 and CLAIM-678 and bears
-  on QUESTION-461 and QUESTION-468; CLAIM-715 rests on CLAIM-349 and
-  complements CLAIM-712; CLAIM-700 rests on CLAIM-679 and CLAIM-549,
-  complements CLAIM-577 and bears on QUESTION-386; CASE-288 bears on
-  QUESTION-463 and QUESTION-468; CASE-290 illustrates CLAIM-553 and
-  CLAIM-549 and bears on QUESTION-474; QUESTION-487 refines QUESTION-461;
-  CLAIM-701 (SYNTHESIS-098) rests on CLAIM-703. CLAIM-726's body names
-  CLAIM-721 (SYNTHESIS-101) as the same shape; CASE-288's names
-  CLAIM-728 (SYNTHESIS-101). Six claims use TERM-127, which this part
+- [CLAIM-709](../claims.d/CLAIM-709.md) grounds on [CASE-279](../cases.d/CASE-279.md) and complements [CLAIM-708](../claims.d/CLAIM-708.md). [ARG-113](../arguments.d/ARG-113.md) rests
+  on [CLAIM-708](../claims.d/CLAIM-708.md), grounds on [CASE-279](../cases.d/CASE-279.md) and concludes [CLAIM-709](../claims.d/CLAIM-709.md).
+- [CLAIM-703](../claims.d/CLAIM-703.md) complements [CLAIM-708](../claims.d/CLAIM-708.md). [CLAIM-713](../claims.d/CLAIM-713.md) rests on [CLAIM-703](../claims.d/CLAIM-703.md).
+  [CLAIM-707](../claims.d/CLAIM-707.md) rests on [CLAIM-708](../claims.d/CLAIM-708.md) and complements [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-702](../claims.d/CLAIM-702.md).
+  [CLAIM-702](../claims.d/CLAIM-702.md) complements [CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-713](../claims.d/CLAIM-713.md). [CLAIM-715](../claims.d/CLAIM-715.md) rests on
+  [CLAIM-707](../claims.d/CLAIM-707.md). [CLAIM-700](../claims.d/CLAIM-700.md) rests on [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-702](../claims.d/CLAIM-702.md) and complements
+  [CLAIM-707](../claims.d/CLAIM-707.md). [ARG-115](../arguments.d/ARG-115.md) concludes [CLAIM-726](../claims.d/CLAIM-726.md).
+- [CASE-288](../cases.d/CASE-288.md) illustrates [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-703](../claims.d/CLAIM-703.md). [CASE-290](../cases.d/CASE-290.md) illustrates
+  [CLAIM-700](../claims.d/CLAIM-700.md).
+- [CLAIM-703](../claims.d/CLAIM-703.md) and [CLAIM-713](../claims.d/CLAIM-713.md) bear on [QUESTION-472](../questions.d/QUESTION-472.md). [CLAIM-707](../claims.d/CLAIM-707.md) bears on
+  [QUESTION-487](../questions.d/QUESTION-487.md).
+- Bodies: [CLAIM-726](../claims.d/CLAIM-726.md)'s says it uses [CLAIM-708](../claims.d/CLAIM-708.md)'s wrong as an instrument.
+  [CLAIM-703](../claims.d/CLAIM-703.md)'s says its condition is [CLAIM-713](../claims.d/CLAIM-713.md)'s. [CLAIM-702](../claims.d/CLAIM-702.md)'s calls itself
+  [CLAIM-700](../claims.d/CLAIM-700.md)'s measurement link and [CASE-290](../cases.d/CASE-290.md) distinct. [CLAIM-707](../claims.d/CLAIM-707.md)'s names
+  [CLAIM-715](../claims.d/CLAIM-715.md) and [CLAIM-713](../claims.d/CLAIM-713.md). [QUESTION-473](../questions.d/QUESTION-473.md)'s names [CLAIM-713](../claims.d/CLAIM-713.md), [CLAIM-702](../claims.d/CLAIM-702.md),
+  [CLAIM-707](../claims.d/CLAIM-707.md), [CLAIM-708](../claims.d/CLAIM-708.md) and [QUESTION-487](../questions.d/QUESTION-487.md); [QUESTION-487](../questions.d/QUESTION-487.md)'s names [CLAIM-707](../claims.d/CLAIM-707.md),
+  [CLAIM-713](../claims.d/CLAIM-713.md) and [QUESTION-473](../questions.d/QUESTION-473.md). [QUESTION-472](../questions.d/QUESTION-472.md)'s names [CLAIM-703](../claims.d/CLAIM-703.md) and
+  [CLAIM-713](../claims.d/CLAIM-713.md); [QUESTION-477](../questions.d/QUESTION-477.md)'s names [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md), [CLAIM-707](../claims.d/CLAIM-707.md) and
+  [QUESTION-472](../questions.d/QUESTION-472.md).
+- Out of the part: [CLAIM-709](../claims.d/CLAIM-709.md) complements [CLAIM-690](../claims.d/CLAIM-690.md); [CLAIM-708](../claims.d/CLAIM-708.md)
+  complements [CLAIM-624](../claims.d/CLAIM-624.md) and bears on [QUESTION-070](../questions.d/QUESTION-070.md) and [QUESTION-449](../questions.d/QUESTION-449.md);
+  [CLAIM-726](../claims.d/CLAIM-726.md) rests on [CLAIM-445](../claims.d/CLAIM-445.md) and complements [CLAIM-701](../claims.d/CLAIM-701.md) ([SYNTHESIS-098](SYNTHESIS-098.md));
+  [CLAIM-703](../claims.d/CLAIM-703.md) complements [CLAIM-404](../claims.d/CLAIM-404.md) and bears on [QUESTION-071](../questions.d/QUESTION-071.md); [CLAIM-713](../claims.d/CLAIM-713.md)
+  complements [CLAIM-690](../claims.d/CLAIM-690.md) and [CLAIM-669](../claims.d/CLAIM-669.md) and bears on [QUESTION-468](../questions.d/QUESTION-468.md) and
+  [QUESTION-461](../questions.d/QUESTION-461.md); [CLAIM-702](../claims.d/CLAIM-702.md) complements [CLAIM-614](../claims.d/CLAIM-614.md) and bears on
+  [QUESTION-461](../questions.d/QUESTION-461.md); [CLAIM-707](../claims.d/CLAIM-707.md) complements [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-678](../claims.d/CLAIM-678.md) and bears
+  on [QUESTION-461](../questions.d/QUESTION-461.md) and [QUESTION-468](../questions.d/QUESTION-468.md); [CLAIM-715](../claims.d/CLAIM-715.md) rests on [CLAIM-349](../claims.d/CLAIM-349.md) and
+  complements [CLAIM-712](../claims.d/CLAIM-712.md); [CLAIM-700](../claims.d/CLAIM-700.md) rests on [CLAIM-679](../claims.d/CLAIM-679.md) and [CLAIM-549](../claims.d/CLAIM-549.md),
+  complements [CLAIM-577](../claims.d/CLAIM-577.md) and bears on [QUESTION-386](../questions.d/QUESTION-386.md); [CASE-288](../cases.d/CASE-288.md) bears on
+  [QUESTION-463](../questions.d/QUESTION-463.md) and [QUESTION-468](../questions.d/QUESTION-468.md); [CASE-290](../cases.d/CASE-290.md) illustrates [CLAIM-553](../claims.d/CLAIM-553.md) and
+  [CLAIM-549](../claims.d/CLAIM-549.md) and bears on [QUESTION-474](../questions.d/QUESTION-474.md); [QUESTION-487](../questions.d/QUESTION-487.md) refines [QUESTION-461](../questions.d/QUESTION-461.md);
+  [CLAIM-701](../claims.d/CLAIM-701.md) ([SYNTHESIS-098](SYNTHESIS-098.md)) rests on [CLAIM-703](../claims.d/CLAIM-703.md). [CLAIM-726](../claims.d/CLAIM-726.md)'s body names
+  [CLAIM-721](../claims.d/CLAIM-721.md) ([SYNTHESIS-101](SYNTHESIS-101.md)) as the same shape; [CASE-288](../cases.d/CASE-288.md)'s names
+  [CLAIM-728](../claims.d/CLAIM-728.md) ([SYNTHESIS-101](SYNTHESIS-101.md)). Six claims use [TERM-127](../terms.d/TERM-127.md), which this part
   does not integrate.
 - From the readings, as support and not as links between components:
   the THEORYs named above, by their `corroborates`, `bounds` and
-  `bears_on`, CLAIM-707's `grounds`, CASE-279's and CASE-288's
-  `draws_on`, and ARG-115's `grounds`.
+  `bears_on`, [CLAIM-707](../claims.d/CLAIM-707.md)'s `grounds`, [CASE-279](../cases.d/CASE-279.md)'s and [CASE-288](../cases.d/CASE-288.md)'s
+  `draws_on`, and [ARG-115](../arguments.d/ARG-115.md)'s `grounds`.
 
 ## Not stated on the record
 
-- Whether CLAIM-707's blame told downstream and CLAIM-726's true
+- Whether [CLAIM-707](../claims.d/CLAIM-707.md)'s blame told downstream and [CLAIM-726](../claims.d/CLAIM-726.md)'s true
   accusation used for control are the unintended and the deliberate forms
   of one thing. Neither cites the other. (Tested under Arm B.)
-- How CLAIM-709's two questions, harm and power, sit with CLAIM-707's
+- How [CLAIM-709](../claims.d/CLAIM-709.md)'s two questions, harm and power, sit with [CLAIM-707](../claims.d/CLAIM-707.md)'s
   three, control, obligation and blame. Neither cites the other.
-- How CLAIM-708's limits (A9 §7's six questions, wrongful interference
-  with self-governance) relate to the condition CLAIM-703 takes from
-  CLAIM-713 (control of the trigger, cost avoided). THEORY-1917 corroborates
+- How [CLAIM-708](../claims.d/CLAIM-708.md)'s limits (A9 §7's six questions, wrongful interference
+  with self-governance) relate to the condition [CLAIM-703](../claims.d/CLAIM-703.md) takes from
+  [CLAIM-713](../claims.d/CLAIM-713.md) (control of the trigger, cost avoided). [THEORY-1917](../theory.d/THEORY-1917.md) corroborates
   both, as a reading; no component states the relation.
-- That CLAIM-709's second half, that responsibility for the structure
-  goes with control, holds: ARG-113 rests it on CLAIM-708, and no reading
+- That [CLAIM-709](../claims.d/CLAIM-709.md)'s second half, that responsibility for the structure
+  goes with control, holds: [ARG-113](../arguments.d/ARG-113.md) rests it on [CLAIM-708](../claims.d/CLAIM-708.md), and no reading
   carries it.
-- Whether CLAIM-715's political friction (protected refusal, independent
-  review, suspension) answers QUESTION-487. The question's body quotes
+- Whether [CLAIM-715](../claims.d/CLAIM-715.md)'s political friction (protected refusal, independent
+  review, suspension) answers [QUESTION-487](../questions.d/QUESTION-487.md). The question's body quotes
   A17 §9's list, which overlaps it; the readings on both give duties on
   principals and levers for regulators, not instruments for agents.
-- An answer to QUESTION-472. CLAIM-703 and CLAIM-713 bear on it, and
+- An answer to [QUESTION-472](../questions.d/QUESTION-472.md). [CLAIM-703](../claims.d/CLAIM-703.md) and [CLAIM-713](../claims.d/CLAIM-713.md) bear on it, and
   Keller's reading bears toward yes for fiduciaries; none says that
-  activating an obligation is control over terms in TERM-124's sense.
-- An answer to QUESTION-473. CLAIM-708's dated note of 2026-11-16 reports
+  activating an obligation is control over terms in [TERM-124](../terms.d/TERM-124.md)'s sense.
+- An answer to [QUESTION-473](../questions.d/QUESTION-473.md). [CLAIM-708](../claims.d/CLAIM-708.md)'s dated note of 2026-11-16 reports
   the complicity condition for persons; how it applies to organizations
   is what the question asks.
-- The inference against CLAIM-690 in CLAIM-713's body: marked there as a
+- The inference against [CLAIM-690](../claims.d/CLAIM-690.md) in [CLAIM-713](../claims.d/CLAIM-713.md)'s body: marked there as a
   candidate, not asserted.
 
 ## Arm A
 
-Stage 1 ranked CLAIM-700 as a possible account at the interim review. The
+Stage 1 ranked [CLAIM-700](../claims.d/CLAIM-700.md) as a possible account at the interim review. The
 interim test was run on the continuation's duplicate, whose premises
-were CLAIM-577, CLAIM-549 and CLAIM-713. The surviving CLAIM-700 rests
-on CLAIM-679, CLAIM-549, CLAIM-713 and CLAIM-702, so the test is run
+were [CLAIM-577](../claims.d/CLAIM-577.md), [CLAIM-549](../claims.d/CLAIM-549.md) and [CLAIM-713](../claims.d/CLAIM-713.md). The surviving [CLAIM-700](../claims.d/CLAIM-700.md) rests
+on [CLAIM-679](../claims.d/CLAIM-679.md), [CLAIM-549](../claims.d/CLAIM-549.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-702](../claims.d/CLAIM-702.md), so the test is run
 again.
 
 - **What it adds, in one sentence.** Where the budget is set from
-  observed performance, compensation that leaves no trace (CLAIM-702)
+  observed performance, compensation that leaves no trace ([CLAIM-702](../claims.d/CLAIM-702.md))
   makes the present configuration's need look smaller than it is, so a
-  cut toward that need (CLAIM-679) lands below the true cost of holding
+  cut toward that need ([CLAIM-679](../claims.d/CLAIM-679.md)) lands below the true cost of holding
   the configuration and removes the transitions out of it; and where
-  revealing capacity invites its removal (TERM-110), members' best
+  revealing capacity invites its removal ([TERM-110](../terms.d/TERM-110.md)), members' best
   responses keep the compensation hidden.
-- **No premise states it.** CLAIM-679 cuts toward a need it takes as
-  given; CLAIM-702 is about credit and blame, not budgets; CLAIM-549 and
-  CLAIM-713 write no budget rule. The claim's body says the same.
+- **No premise states it.** [CLAIM-679](../claims.d/CLAIM-679.md) cuts toward a need it takes as
+  given; [CLAIM-702](../claims.d/CLAIM-702.md) is about credit and blame, not budgets; [CLAIM-549](../claims.d/CLAIM-549.md) and
+  [CLAIM-713](../claims.d/CLAIM-713.md) write no budget rule. The claim's body says the same.
 - **The interim separating case no longer applies.** A hospital whose
   unpaid extra hours are logged and read as demand makes the
-  compensation visible, so CLAIM-702 fails in it: not every premise
-  holds. The second route in CLAIM-700's Admission, carried over at the
+  compensation visible, so [CLAIM-702](../claims.d/CLAIM-702.md) fails in it: not every premise
+  holds. The second route in [CLAIM-700](../claims.d/CLAIM-700.md)'s Admission, carried over at the
   reconciliation, was found against premises the claim no longer has.
 - **Route, a separating case.** A hospital whose staffing is fixed by a
   statutory nurse-to-patient ratio, not by observed performance. Every
@@ -514,9 +514,9 @@ again.
   separately, by a discriminating prediction the premises leave open:
   under a ratchet, members conceal spare capacity.
 - **Free parameter.** "Budgets to what it observes" is closed by the
-  claim's own antecedent and defeater; "present need" is CLAIM-679's.
+  claim's own antecedent and defeater; "present need" is [CLAIM-679](../claims.d/CLAIM-679.md)'s.
 - **Verdict.** It adds something and stays a claim, integrated here. The
-  separating case belongs under CLAIM-700's "Admission" in place of the
+  separating case belongs under [CLAIM-700](../claims.d/CLAIM-700.md)'s "Admission" in place of the
   interim's; this account does not edit the claim.
 
 ## Arm B
@@ -524,45 +524,45 @@ again.
 Run again with the readings. No candidate passes.
 
 - **Blame downstream and the true accusation as one wrong in two forms**
-  (CLAIM-707, CLAIM-726). A separating case, as at the interim: a
+  ([CLAIM-707](../claims.d/CLAIM-707.md), [CLAIM-726](../claims.d/CLAIM-726.md)). A separating case, as at the interim: a
   frontline worker blamed for a failure that was the understaffing's
-  alone satisfies CLAIM-707 and not CLAIM-726, which needs a real wrong
-  truly charged. The readings narrow CLAIM-726 (ARG-115) and add nothing
+  alone satisfies [CLAIM-707](../claims.d/CLAIM-707.md) and not [CLAIM-726](../claims.d/CLAIM-726.md), which needs a real wrong
+  truly charged. The readings narrow [CLAIM-726](../claims.d/CLAIM-726.md) ([ARG-115](../arguments.d/ARG-115.md)) and add nothing
   to the link. Fails.
-- **Activating an obligation is control over terms** (CLAIM-703,
-  CLAIM-713, TERM-124, answering QUESTION-472). THEORY-1917 now bears on
+- **Activating an obligation is control over terms** ([CLAIM-703](../claims.d/CLAIM-703.md),
+  [CLAIM-713](../claims.d/CLAIM-713.md), [TERM-124](../terms.d/TERM-124.md), answering [QUESTION-472](../questions.d/QUESTION-472.md)). [THEORY-1917](../theory.d/THEORY-1917.md) now bears on
   the question: Keller's teachers keep the right to strike and bear a
   moral cost for using it. That is the case the question's second
   negative answer names, a cost on reasons with the options intact, so
   the reading shows the leverage, which no answer denies, and leaves
   open whether "terms" covers it. Fails for the free parameter.
 - **The wrong to the person structured, whatever the act it presses**
-  (CLAIM-703, CLAIM-708, with THEORY-1917 corroborating both). The
+  ([CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-708](../claims.d/CLAIM-708.md), with [THEORY-1917](../theory.d/THEORY-1917.md) corroborating both). The
   sentence tried: wrongful structuring wrongs the person structured
   whether the act it presses is right or wrong, complied with or not.
-  CLAIM-708's title says "whether or not they comply", and CLAIM-703's
+  [CLAIM-708](../claims.d/CLAIM-708.md)'s title says "whether or not they comply", and [CLAIM-703](../claims.d/CLAIM-703.md)'s
   that the second "does right ... and is still wronged"; the sentence is
   their union. The case neither covers, an act neither right nor wrong,
   turns on "wrongfully", which absorbs it. Fails as trivial.
-- **Complicity costs an organization its standing to blame** (CLAIM-708,
-  QUESTION-473, THEORY-1912). For persons the derivation is the
-  reading's, recorded in CLAIM-708's dated note; for organizations it is
-  what QUESTION-473 asks, and "substantially contributed" is free. Fails.
-- **A family of self-justifying loops** (CLAIM-726, CLAIM-700, with
-  CLAIM-445, CLAIM-619 and CLAIM-721 outside the part). Already stated:
-  CLAIM-700's body names CLAIM-445 and CLAIM-619, and CLAIM-726 rests on
-  CLAIM-445 and names CLAIM-721. Nothing filed.
+- **Complicity costs an organization its standing to blame** ([CLAIM-708](../claims.d/CLAIM-708.md),
+  [QUESTION-473](../questions.d/QUESTION-473.md), [THEORY-1912](../theory.d/THEORY-1912.md)). For persons the derivation is the
+  reading's, recorded in [CLAIM-708](../claims.d/CLAIM-708.md)'s dated note; for organizations it is
+  what [QUESTION-473](../questions.d/QUESTION-473.md) asks, and "substantially contributed" is free. Fails.
+- **A family of self-justifying loops** ([CLAIM-726](../claims.d/CLAIM-726.md), [CLAIM-700](../claims.d/CLAIM-700.md), with
+  [CLAIM-445](../claims.d/CLAIM-445.md), [CLAIM-619](../claims.d/CLAIM-619.md) and [CLAIM-721](../claims.d/CLAIM-721.md) outside the part). Already stated:
+  [CLAIM-700](../claims.d/CLAIM-700.md)'s body names [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-619](../claims.d/CLAIM-619.md), and [CLAIM-726](../claims.d/CLAIM-726.md) rests on
+  [CLAIM-445](../claims.d/CLAIM-445.md) and names [CLAIM-721](../claims.d/CLAIM-721.md). Nothing filed.
 - **The hidden compensation is the resilience credited to the system**
-  (CLAIM-700, CLAIM-707). Listed as not stated in version 1. Now stated:
-  CLAIM-700 rests on CLAIM-702, which is A17 §6's "The system's
-  resilience is attributed to the system", and CLAIM-702 complements
-  CLAIM-707. Nothing filed.
+  ([CLAIM-700](../claims.d/CLAIM-700.md), [CLAIM-707](../claims.d/CLAIM-707.md)). Listed as not stated in version 1. Now stated:
+  [CLAIM-700](../claims.d/CLAIM-700.md) rests on [CLAIM-702](../claims.d/CLAIM-702.md), which is A17 §6's "The system's
+  resilience is attributed to the system", and [CLAIM-702](../claims.d/CLAIM-702.md) complements
+  [CLAIM-707](../claims.d/CLAIM-707.md). Nothing filed.
 
 ## What it does not say
 
 - That any of these claims is accepted: all are Proposed, and the
   readings corroborate parts of them, each as its THEORY says.
-- That any case names a real couple or institution: CASE-279 is
-  fictional, and CASE-288 and CASE-290 are stipulated.
-- That the economic reading of "resource" answers QUESTION-477.
+- That any case names a real couple or institution: [CASE-279](../cases.d/CASE-279.md) is
+  fictional, and [CASE-288](../cases.d/CASE-288.md) and [CASE-290](../cases.d/CASE-290.md) are stipulated.
+- That the economic reading of "resource" answers [QUESTION-477](../questions.d/QUESTION-477.md).
 - Anything with standing of its own.

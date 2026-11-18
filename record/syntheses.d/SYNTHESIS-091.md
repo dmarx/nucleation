@@ -228,8 +228,8 @@ from where its adequacy?" Its body names [CLAIM-075](../claims.d/CLAIM-075.md), 
 adequacy), [QUESTION-454](../questions.d/QUESTION-454.md) ("One case of this question") and [QUESTION-464](../questions.d/QUESTION-464.md),
 and says [CLAIM-746](../claims.d/CLAIM-746.md) and [QUESTION-482](../questions.d/QUESTION-482.md) are on its first half.
 One reading bears on it (2026-11-18): the SEP entry "Contractualism"
-(THEORY-1971, NOTE-2043), read as the neighbour of Scanlon's unavailable
-*What We Owe to Each Other* (LIT-2721), which reports Scanlon's test,
+([THEORY-1971](../theory.d/THEORY-1971.md), [NOTE-2043](../notes.d/NOTE-2043.md)), read as the neighbour of Scanlon's unavailable
+*What We Owe to Each Other* ([LIT-2721](../literature.d/LIT-2721.md)), which reports Scanlon's test,
 an act is wrong if principles no one could reasonably reject would
 disallow it, and its scope, that it "covers only the realm of what we owe to one
 another". It is not

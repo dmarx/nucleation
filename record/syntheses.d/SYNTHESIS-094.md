@@ -129,8 +129,8 @@ alternative". It was admitted on that narrower title (its history,
 version 3); its body states where it diverges from the owner's thesis on
 unavoidable projections. A note of 2026-11-12 says a sense-3 reading, the
 state and its institutions, corroborates it. Rubel, Castro and Pham, read
-on 2026-11-16 from the exchange "Assess Depp Heard Abuse" (THEORY-1946,
-NOTE-2031), also corroborate it, and its dated note says for what: agency
+on 2026-11-16 from the exchange "Assess Depp Heard Abuse" ([THEORY-1946](../theory.d/THEORY-1946.md),
+[NOTE-2031](../notes.d/NOTE-2031.md)), also corroborate it, and its dated note says for what: agency
 laundering is a wrong of answerability distinct from any substantive
 violation, which "supports the claim's thesis that such a wrong exists
 and is not reducible to the loss", but "does not support the claim's
@@ -205,7 +205,7 @@ obligations". Its summary says the monotonicity facts are checked by
 enumeration and the incentive is conditional. [QUESTION-456](../questions.d/QUESTION-456.md) (A's, A42 §8;
 Open; also distributed-agency) refines [QUESTION-129](../questions.d/QUESTION-129.md): how the demand set is
 to be established defensibly when the organization's own governance shapes
-who counts as a claimant. The Ninth Amendment (THEORY-1954), read on
+who counts as a claimant. The Ninth Amendment ([THEORY-1954](../theory.d/THEORY-1954.md)), read on
 2026-11-18 from the same exchange's works, bears on it: an enumeration
 of rights is not to be construed to deny others retained, which A85 §9
 reads as recognized claims not exhausting warranted ones (the

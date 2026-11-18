@@ -147,20 +147,20 @@ bears_on:
 summary: >-
   The account of the organizational-normativity line, "Normative judgment
   about organizations", over the accounts of its four parts. What a
-  normative judgment needs (SYNTHESIS-091): viability does not establish
-  what ought to persist (CLAIM-075), a judgment is well-defined once its
-  relata are fixed (the owner's CLAIM-363), some judgments need histories
-  (CLAIM-518), the owner's method of taking a verdict as a premise
-  (CLAIM-718) and question where legitimacy and adequacy come from
-  (QUESTION-485). The wrong beyond harm and becoming less informed
-  (SYNTHESIS-094): the owner's CLAIM-614, A's CLAIM-624 with A's
-  conditional derivation ARG-114, and CLAIM-619, and the owner's routes
-  kept apart (CLAIM-657). From the exchange "Assess Depp Heard Abuse":
-  rights, demands and commitments (SYNTHESIS-102), on the owner's contrast
-  (CLAIM-738) and questions QUESTION-486 and QUESTION-483; and
+  normative judgment needs ([SYNTHESIS-091](SYNTHESIS-091.md)): viability does not establish
+  what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)), a judgment is well-defined once its
+  relata are fixed (the owner's [CLAIM-363](../claims.d/CLAIM-363.md)), some judgments need histories
+  ([CLAIM-518](../claims.d/CLAIM-518.md)), the owner's method of taking a verdict as a premise
+  ([CLAIM-718](../claims.d/CLAIM-718.md)) and question where legitimacy and adequacy come from
+  ([QUESTION-485](../questions.d/QUESTION-485.md)). The wrong beyond harm and becoming less informed
+  ([SYNTHESIS-094](SYNTHESIS-094.md)): the owner's [CLAIM-614](../claims.d/CLAIM-614.md), A's [CLAIM-624](../claims.d/CLAIM-624.md) with A's
+  conditional derivation [ARG-114](../arguments.d/ARG-114.md), and [CLAIM-619](../claims.d/CLAIM-619.md), and the owner's routes
+  kept apart ([CLAIM-657](../claims.d/CLAIM-657.md)). From the exchange "Assess Depp Heard Abuse":
+  rights, demands and commitments ([SYNTHESIS-102](SYNTHESIS-102.md)), on the owner's contrast
+  ([CLAIM-738](../claims.d/CLAIM-738.md)) and questions [QUESTION-486](../questions.d/QUESTION-486.md) and [QUESTION-483](../questions.d/QUESTION-483.md); and
   accountability without blame and normative governability
-  (SYNTHESIS-104), on the owner's U47 (CLAIM-742, CLAIM-733), QUESTION-476
-  and, from the first filing, QUESTION-470 and CLAIM-712. At the
+  ([SYNTHESIS-104](SYNTHESIS-104.md)), on the owner's U47 ([CLAIM-742](../claims.d/CLAIM-742.md), [CLAIM-733](../claims.d/CLAIM-733.md)), [QUESTION-476](../questions.d/QUESTION-476.md)
+  and, from the first filing, [QUESTION-470](../questions.d/QUESTION-470.md) and [CLAIM-712](../claims.d/CLAIM-712.md). At the
   follow-up review of 2026-11-18 each part folds in the readings of the
   exchange's works, attributed to the THEORYs that carry them, and
   several readings bear on parts of both lines. Fourteen entries of this
@@ -192,245 +192,245 @@ summary: >-
 
 ## The parts
 
-- **SYNTHESIS-091, what a normative judgment needs** (22 components). The
-  paper's CLAIM-075 (disclaimed, Active): viability does not establish
-  what ought to persist. The owner's CLAIM-363 (Active), relata then
-  truth, with TERM-059; the owner's CLAIM-518 (Active), histories, with
-  CLAIM-512's objection and CLAIM-608's gloss; CLAIM-511, corrigibility,
-  disclaimed. QUESTION-128, QUESTION-129 and QUESTION-256. The
-  assistant's CLAIM-648 (a failure norm set by a system's own upkeep) and
-  CLAIM-650 (a designed alarm's content can be false), with CASE-241,
-  CASE-239 and three arguments. QUESTION-454, surrogate authority. Since
+- **[SYNTHESIS-091](SYNTHESIS-091.md), what a normative judgment needs** (22 components). The
+  paper's [CLAIM-075](../claims.d/CLAIM-075.md) (disclaimed, Active): viability does not establish
+  what ought to persist. The owner's [CLAIM-363](../claims.d/CLAIM-363.md) (Active), relata then
+  truth, with [TERM-059](../terms.d/TERM-059.md); the owner's [CLAIM-518](../claims.d/CLAIM-518.md) (Active), histories, with
+  [CLAIM-512](../claims.d/CLAIM-512.md)'s objection and [CLAIM-608](../claims.d/CLAIM-608.md)'s gloss; [CLAIM-511](../claims.d/CLAIM-511.md), corrigibility,
+  disclaimed. [QUESTION-128](../questions.d/QUESTION-128.md), [QUESTION-129](../questions.d/QUESTION-129.md) and [QUESTION-256](../questions.d/QUESTION-256.md). The
+  assistant's [CLAIM-648](../claims.d/CLAIM-648.md) (a failure norm set by a system's own upkeep) and
+  [CLAIM-650](../claims.d/CLAIM-650.md) (a designed alarm's content can be false), with [CASE-241](../cases.d/CASE-241.md),
+  [CASE-239](../cases.d/CASE-239.md) and three arguments. [QUESTION-454](../questions.d/QUESTION-454.md), surrogate authority. Since
   its version 3 (2026-11-17), three entries from "Assess Depp Heard
-  Abuse": the owner's CLAIM-718 (U19, a verdict taken as a premise to find
-  the organization that makes it true, resting on CLAIM-363), the owner's
-  QUESTION-485 (U31, from where legitimacy and adequacy) and A's CLAIM-746
+  Abuse": the owner's [CLAIM-718](../claims.d/CLAIM-718.md) (U19, a verdict taken as a premise to find
+  the organization that makes it true, resting on [CLAIM-363](../claims.d/CLAIM-363.md)), the owner's
+  [QUESTION-485](../questions.d/QUESTION-485.md) (U31, from where legitimacy and adequacy) and A's [CLAIM-746](../claims.d/CLAIM-746.md)
   (four judgments about an authority, as corrected by the filer). Its
   version 4 (2026-11-18) records the one reading of the exchange's works
-  that bears on a component: the SEP entry "Contractualism" (THEORY-1971)
-  bears on QUESTION-485.
-- **SYNTHESIS-094, the wrong beyond harm and becoming normatively less
-  informed** (25). QUESTION-441; the owner's CLAIM-614 and A's CLAIM-624,
+  that bears on a component: the SEP entry "Contractualism" ([THEORY-1971](../theory.d/THEORY-1971.md))
+  bears on [QUESTION-485](../questions.d/QUESTION-485.md).
+- **[SYNTHESIS-094](SYNTHESIS-094.md), the wrong beyond harm and becoming normatively less
+  informed** (25). [QUESTION-441](../questions.d/QUESTION-441.md); the owner's [CLAIM-614](../claims.d/CLAIM-614.md) and A's [CLAIM-624](../claims.d/CLAIM-624.md),
   a bounded duty of answerability, with seven arguments, the seventh
-  ARG-114, A's conditional derivation of the duty from a means-end
-  principle the record does not hold; A's CLAIM-619, the counter-corrective
-  route; QUESTION-449 with CASE-232. The assistant's CLAIM-652 (selective
-  disappearance) and A's CLAIM-662, narrowed by the owner (costly
-  discovery), with QUESTION-456; the owner's CLAIM-657, the two routes
-  kept apart from each other and from CLAIM-619's; the owner's CLAIM-656,
+  [ARG-114](../arguments.d/ARG-114.md), A's conditional derivation of the duty from a means-end
+  principle the record does not hold; A's [CLAIM-619](../claims.d/CLAIM-619.md), the counter-corrective
+  route; [QUESTION-449](../questions.d/QUESTION-449.md) with [CASE-232](../cases.d/CASE-232.md). The assistant's [CLAIM-652](../claims.d/CLAIM-652.md) (selective
+  disappearance) and A's [CLAIM-662](../claims.d/CLAIM-662.md), narrowed by the owner (costly
+  discovery), with [QUESTION-456](../questions.d/QUESTION-456.md); the owner's [CLAIM-657](../claims.d/CLAIM-657.md), the two routes
+  kept apart from each other and from [CLAIM-619](../claims.d/CLAIM-619.md)'s; the owner's [CLAIM-656](../claims.d/CLAIM-656.md),
   news. Its version 4 (2026-11-18) records two readings of the exchange's
-  works: Rubel, Castro and Pham (THEORY-1946) corroborate CLAIM-624's
+  works: Rubel, Castro and Pham ([THEORY-1946](../theory.d/THEORY-1946.md)) corroborate [CLAIM-624](../claims.d/CLAIM-624.md)'s
   thesis that a wrong of answerability exists apart from the loss, and
-  not its specific duty; the Ninth Amendment (THEORY-1954) bears on
-  QUESTION-456.
-- **SYNTHESIS-102, rights, demands and commitments** (17). The owner's
-  contrast of U41, with A's definitions (CLAIM-738): the three are
-  distinct and none establishes another. A's CLAIM-725 (a demand's
-  satisfaction condition carries no warrant) and CLAIM-745 (a categorical
-  gate), on the owner's specimen CASE-289 (U46); A's CLAIM-741 (a right
+  not its specific duty; the Ninth Amendment ([THEORY-1954](../theory.d/THEORY-1954.md)) bears on
+  [QUESTION-456](../questions.d/QUESTION-456.md).
+- **[SYNTHESIS-102](SYNTHESIS-102.md), rights, demands and commitments** (17). The owner's
+  contrast of U41, with A's definitions ([CLAIM-738](../claims.d/CLAIM-738.md)): the three are
+  distinct and none establishes another. A's [CLAIM-725](../claims.d/CLAIM-725.md) (a demand's
+  satisfaction condition carries no warrant) and [CLAIM-745](../claims.d/CLAIM-745.md) (a categorical
+  gate), on the owner's specimen [CASE-289](../cases.d/CASE-289.md) (U46); A's [CLAIM-741](../claims.d/CLAIM-741.md) (a right
   that protects a choice constrains a policy, not a history; demonstrated
-  on CASE-283); A's CLAIM-743 (release, not suppression); A's CLAIM-720
-  (inalienability limits what a holder can confer) with CASE-286, at the
-  owner's QUESTION-486 (U37), and A's QUESTION-481; the owner's
-  QUESTION-483 (U44, whether the record's account answers contractualism
-  or only supplements it), with A's CLAIM-735 (rights organize later
-  justification); A's CLAIM-729 (a duty to help establish an institution
-  is bounded by reachability), on A's aquifer CASE-282, to which A's
-  QUESTION-484 is put. Its version 2 (2026-11-18) folds in the readings
-  and integrates ARG-117 (dependence-and-domination only), the
-  assistant's verdict that Locke carries CLAIM-720's form and not its
-  scope. The readings corroborate CLAIM-738 (Hohfeld; Stern's Darwall),
-  CLAIM-743 (Scanlon's reply, for promises), CLAIM-735 (Wenar; the SEP
-  entry "Rights") and CLAIM-729 (Scanlon 2025); ground CLAIM-745 (the
-  opinion in CLINIC v. Rubio, its legal half) and CLAIM-735 (Scanlon's
+  on [CASE-283](../cases.d/CASE-283.md)); A's [CLAIM-743](../claims.d/CLAIM-743.md) (release, not suppression); A's [CLAIM-720](../claims.d/CLAIM-720.md)
+  (inalienability limits what a holder can confer) with [CASE-286](../cases.d/CASE-286.md), at the
+  owner's [QUESTION-486](../questions.d/QUESTION-486.md) (U37), and A's [QUESTION-481](../questions.d/QUESTION-481.md); the owner's
+  [QUESTION-483](../questions.d/QUESTION-483.md) (U44, whether the record's account answers contractualism
+  or only supplements it), with A's [CLAIM-735](../claims.d/CLAIM-735.md) (rights organize later
+  justification); A's [CLAIM-729](../claims.d/CLAIM-729.md) (a duty to help establish an institution
+  is bounded by reachability), on A's aquifer [CASE-282](../cases.d/CASE-282.md), to which A's
+  [QUESTION-484](../questions.d/QUESTION-484.md) is put. Its version 2 (2026-11-18) folds in the readings
+  and integrates [ARG-117](../arguments.d/ARG-117.md) (dependence-and-domination only), the
+  assistant's verdict that Locke carries [CLAIM-720](../claims.d/CLAIM-720.md)'s form and not its
+  scope. The readings corroborate [CLAIM-738](../claims.d/CLAIM-738.md) (Hohfeld; Stern's Darwall),
+  [CLAIM-743](../claims.d/CLAIM-743.md) (Scanlon's reply, for promises), [CLAIM-735](../claims.d/CLAIM-735.md) (Wenar; the SEP
+  entry "Rights") and [CLAIM-729](../claims.d/CLAIM-729.md) (Scanlon 2025); ground [CLAIM-745](../claims.d/CLAIM-745.md) (the
+  opinion in CLINIC v. Rubio, its legal half) and [CLAIM-735](../claims.d/CLAIM-735.md) (Scanlon's
   reply, its premise); and bear on all four questions. It is also a part
   of dependence-and-domination.
-- **SYNTHESIS-104, accountability without blame and normative
+- **[SYNTHESIS-104](SYNTHESIS-104.md), accountability without blame and normative
   governability** (14). From the first filing (2026-11-16): A's
-  QUESTION-470, put as a question by a review the owner forwarded, when
+  [QUESTION-470](../questions.d/QUESTION-470.md), put as a question by a review the owner forwarded, when
   an organization's duty to repair survives the absence of blame; A's
-  CLAIM-712, a complete record of who approved an outcome does not settle
-  fair attribution, admitted on the review's two hospitals (CASE-277) and
-  argued in ARG-112. From the continuation (2026-11-17): the owner's U47
+  [CLAIM-712](../claims.d/CLAIM-712.md), a complete record of who approved an outcome does not settle
+  fair attribution, admitted on the review's two hospitals ([CASE-277](../cases.d/CASE-277.md)) and
+  argued in [ARG-112](../arguments.d/ARG-112.md). From the continuation (2026-11-17): the owner's U47
   as two claims, blame and accountability are not the same, so correction
-  does not wait on culpability (CLAIM-742), and blame supplies the
-  provenance for holding upstream actors accountable (CLAIM-733); A's
-  TERM-127 gives the senses of responsibility they are stated in. On them
-  rest A's CLAIM-714 (an incapacity brought about in breach of a duty
-  does not excuse) and CLAIM-717 (blame and repair do not substitute),
-  with A's fictional CASE-291 and CASE-284. The owner's last turn, U48, is
-  QUESTION-476, on blameless culture, which refines QUESTION-470. A's
-  CLAIM-719 separates first- from second-order responsiveness, in the
-  terms of A's TERM-128, whose link to reasons-responsiveness is the
+  does not wait on culpability ([CLAIM-742](../claims.d/CLAIM-742.md)), and blame supplies the
+  provenance for holding upstream actors accountable ([CLAIM-733](../claims.d/CLAIM-733.md)); A's
+  [TERM-127](../terms.d/TERM-127.md) gives the senses of responsibility they are stated in. On them
+  rest A's [CLAIM-714](../claims.d/CLAIM-714.md) (an incapacity brought about in breach of a duty
+  does not excuse) and [CLAIM-717](../claims.d/CLAIM-717.md) (blame and repair do not substitute),
+  with A's fictional [CASE-291](../cases.d/CASE-291.md) and [CASE-284](../cases.d/CASE-284.md). The owner's last turn, U48, is
+  [QUESTION-476](../questions.d/QUESTION-476.md), on blameless culture, which refines [QUESTION-470](../questions.d/QUESTION-470.md). A's
+  [CLAIM-719](../claims.d/CLAIM-719.md) separates first- from second-order responsiveness, in the
+  terms of A's [TERM-128](../terms.d/TERM-128.md), whose link to reasons-responsiveness is the
   owner's (U46). Its version 2 (2026-11-18) adds the first filing's four
   entries and folds in the readings: Miller, through Shaw-Young,
-  corroborates CLAIM-717's second half; Shoemaker confirms CLAIM-742's
+  corroborates [CLAIM-717](../claims.d/CLAIM-717.md)'s second half; Shoemaker confirms [CLAIM-742](../claims.d/CLAIM-742.md)'s
   attribution of the three-way split; Zeiser is a further source for
-  TERM-127; and Shoemaker, the NTSB and Elish bear on QUESTION-476. It is
+  [TERM-127](../terms.d/TERM-127.md); and Shoemaker, the NTSB and Elish bear on [QUESTION-476](../questions.d/QUESTION-476.md). It is
   also a part of distributed-agency.
 
 **Integrated directly.** Every component whose first line is
 organizational-normativity, the part accounts apart, is integrated by
 exactly one of the four part accounts, with the exceptions below, which
-dependence-and-domination's part accounts map. SYNTHESIS-094 also
-integrates ARG-063 (distributed-agency only) and SYNTHESIS-102 ARG-117
+dependence-and-domination's part accounts map. [SYNTHESIS-094](SYNTHESIS-094.md) also
+integrates [ARG-063](../arguments.d/ARG-063.md) (distributed-agency only) and [SYNTHESIS-102](SYNTHESIS-102.md) [ARG-117](../arguments.d/ARG-117.md)
 (dependence-and-domination only), each because it concludes a claim of
 the part. The entries below carry this line and are mapped only by
 dependence-and-domination's part accounts; this account integrates them
 directly, as versions 5 and 6 did:
 
-- **QUESTION-460** (the owner's; Open; in SYNTHESIS-092) refines
-  QUESTION-128: what a whole owes its parts, with the ground of an
+- **[QUESTION-460](../questions.d/QUESTION-460.md)** (the owner's; Open; in [SYNTHESIS-092](SYNTHESIS-092.md)) refines
+  [QUESTION-128](../questions.d/QUESTION-128.md): what a whole owes its parts, with the ground of an
   obligation kept apart from its bearer.
-- **QUESTION-468** (the assistant's, accepted by the owner; Open; in
-  SYNTHESIS-092) refines QUESTION-129: what separates exploitation from
+- **[QUESTION-468](../questions.d/QUESTION-468.md)** (the assistant's, accepted by the owner; Open; in
+  [SYNTHESIS-092](SYNTHESIS-092.md)) refines [QUESTION-129](../questions.d/QUESTION-129.md): what separates exploitation from
   dependence and from domination, which declared standard supplies the
   verdict, and who answers for it.
-- **CLAIM-685** (A's; thesis, empirical, Proposed; in SYNTHESIS-093)
-  bears on QUESTION-128. It declares TERM-074's sense 3.
-- **CLAIM-722** (A's; first line organizational-normativity; in
-  SYNTHESIS-098): making a remedy unreachable gains a wrongdoer no
-  normative power over what is owed. It rests on CLAIM-464, and since
-  2026-11-18 it grounds in Hohfeld (THEORY-1984).
-- **CLAIM-700** (A's, A33 §3 and §5; thesis, interpretive, Proposed;
+- **[CLAIM-685](../claims.d/CLAIM-685.md)** (A's; thesis, empirical, Proposed; in [SYNTHESIS-093](SYNTHESIS-093.md))
+  bears on [QUESTION-128](../questions.d/QUESTION-128.md). It declares [TERM-074](../terms.d/TERM-074.md)'s sense 3.
+- **[CLAIM-722](../claims.d/CLAIM-722.md)** (A's; first line organizational-normativity; in
+  [SYNTHESIS-098](SYNTHESIS-098.md)): making a remedy unreachable gains a wrongdoer no
+  normative power over what is owed. It rests on [CLAIM-464](../claims.d/CLAIM-464.md), and since
+  2026-11-18 it grounds in Hohfeld ([THEORY-1984](../theory.d/THEORY-1984.md)).
+- **[CLAIM-700](../claims.d/CLAIM-700.md)** (A's, A33 §3 and §5; thesis, interpretive, Proposed;
   first line organizational-normativity, also readiness; in
-  SYNTHESIS-099): the hidden-shortfall loop, in which members'
+  [SYNTHESIS-099](SYNTHESIS-099.md)): the hidden-shortfall loop, in which members'
   compensation is read as adequacy and budgets are cut toward the present
   configuration. Filed by the first filing on 2026-11-15; at the
   reconciliation of 2026-11-18 it took the continuation's strategic layer
-  (TERM-110's ratchet) and the interim review's separating case. It rests
-  on CLAIM-679, CLAIM-549, CLAIM-713 and CLAIM-702. No reading carries a
+  ([TERM-110](../terms.d/TERM-110.md)'s ratchet) and the interim review's separating case. It rests
+  on [CLAIM-679](../claims.d/CLAIM-679.md), [CLAIM-549](../claims.d/CLAIM-549.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-702](../claims.d/CLAIM-702.md). No reading carries a
   relation to it.
-- **CLAIM-703** (A's, A13 after Keller; thesis, interpretive, Proposed;
-  first line organizational-normativity; in SYNTHESIS-099): a party can
+- **[CLAIM-703](../claims.d/CLAIM-703.md)** (A's, A13 after Keller; thesis, interpretive, Proposed;
+  first line organizational-normativity; in [SYNTHESIS-099](SYNTHESIS-099.md)): a party can
   wrongfully bring about circumstances in which another incurs a genuine
   obligation. Filed by the first filing; at the reconciliation it took
   the continuation's statement of the route through the target's
-  situation. Keller (THEORY-1917) and Tessman's reply (THEORY-1914)
+  situation. Keller ([THEORY-1917](../theory.d/THEORY-1917.md)) and Tessman's reply ([THEORY-1914](../theory.d/THEORY-1914.md))
   corroborate it.
-- **CLAIM-707** (A's, A17, with Elish and Tronto; thesis, interpretive,
+- **[CLAIM-707](../claims.d/CLAIM-707.md)** (A's, A17, with Elish and Tronto; thesis, interpretive,
   Proposed; first line organizational-normativity, also
-  dependence-and-domination; in SYNTHESIS-099): control upstream,
+  dependence-and-domination; in [SYNTHESIS-099](SYNTHESIS-099.md)): control upstream,
   obligation downstream, blame where failure becomes visible. Filed by
   the first filing and split on 2026-11-16 (its compensation-and-credit
-  half is CLAIM-702); at the reconciliation it took the continuation's
-  A15 and A17 sections. It grounds in Elish (THEORY-1928); the NTSB,
+  half is [CLAIM-702](../claims.d/CLAIM-702.md)); at the reconciliation it took the continuation's
+  A15 and A17 sections. It grounds in Elish ([THEORY-1928](../theory.d/THEORY-1928.md)); the NTSB,
   Rubel, Castro and Pham, Tronto, Santoni de Sio and van den Hoven, and
-  Choroszewicz corroborate it, and Ozer, Waggoner and Kennedy (THEORY-1933)
+  Choroszewicz corroborate it, and Ozer, Waggoner and Kennedy ([THEORY-1933](../theory.d/THEORY-1933.md))
   bound it.
-- **CLAIM-708** (A's, A7 §8 and A9; thesis, interpretive, Proposed; first
+- **[CLAIM-708](../claims.d/CLAIM-708.md)** (A's, A7 §8 and A9; thesis, interpretive, Proposed; first
   line organizational-normativity, also distributed-agency; in
-  SYNTHESIS-099): responsibility for one's own conduct and for the
+  [SYNTHESIS-099](SYNTHESIS-099.md)): responsibility for one's own conduct and for the
   conditions of another's are distinct and can both hold, and the
   structuring wrongs the person structured. Filed by the first filing; at
   the reconciliation it took the continuation's relational wrong. Keller,
   Santoni de Sio and van den Hoven, Anderson, the SEP entry "Blame" and
   Tessman's reply corroborate it.
-- **QUESTION-473** (A's, raised by a review of 2026-11-16 that the owner
+- **[QUESTION-473](../questions.d/QUESTION-473.md)** (A's, raised by a review of 2026-11-16 that the owner
   forwarded; first filing; Open; organizational-normativity only; in
-  SYNTHESIS-099): what an organization keeps of its standing to blame an
+  [SYNTHESIS-099](SYNTHESIS-099.md)): what an organization keeps of its standing to blame an
   agent whose wrongdoing its conditions substantially produced, as
   distinct from its authority to investigate, correct or sanction. It
-  would also fit SYNTHESIS-104; it is mapped beside the claims it names.
-- **CLAIM-701** (the assistant's, Claude, in the first filing's session,
+  would also fit [SYNTHESIS-104](SYNTHESIS-104.md); it is mapped beside the claims it names.
+- **[CLAIM-701](../claims.d/CLAIM-701.md)** (the assistant's, Claude, in the first filing's session,
   accepted by the owner on 2026-11-16; thesis, interpretive, Proposed;
   first line distributed-agency, organizational-normativity second; in
-  SYNTHESIS-098): a fait accompli as moral blackmail of a reviewing
+  [SYNTHESIS-098](SYNTHESIS-098.md)): a fait accompli as moral blackmail of a reviewing
   institution; the reasons it creates are genuine, bounded, and do not
-  discharge the actor's responsibility. It rests on CLAIM-703 and
-  CLAIM-464.
-- **CLAIM-737** (A's; in SYNTHESIS-101): the grounds of a restriction and
+  discharge the actor's responsibility. It rests on [CLAIM-703](../claims.d/CLAIM-703.md) and
+  [CLAIM-464](../claims.d/CLAIM-464.md).
+- **[CLAIM-737](../claims.d/CLAIM-737.md)** (A's; in [SYNTHESIS-101](SYNTHESIS-101.md)): the grounds of a restriction and
   the authority to impose it are separate conclusions.
-- **QUESTION-478** (the owner's, U20; Open; in SYNTHESIS-101): under what
+- **[QUESTION-478](../questions.d/QUESTION-478.md)** (the owner's, U20; Open; in [SYNTHESIS-101](SYNTHESIS-101.md)): under what
   conditions should a capability be restricted, and who may restrict it.
-- **CLAIM-739** (A's; in SYNTHESIS-103): answerability is owed to a party
-  with a claim, on one of several grounds. Bovens (THEORY-1976)
+- **[CLAIM-739](../claims.d/CLAIM-739.md)** (A's; in [SYNTHESIS-103](SYNTHESIS-103.md)): answerability is owed to a party
+  with a claim, on one of several grounds. Bovens ([THEORY-1976](../theory.d/THEORY-1976.md))
   corroborates it.
-- **QUESTION-480** (the owner's, U36; Open; in SYNTHESIS-103): when
+- **[QUESTION-480](../questions.d/QUESTION-480.md)** (the owner's, U36; Open; in [SYNTHESIS-103](SYNTHESIS-103.md)): when
   answerability is owed, to whom and why.
 
-CLAIM-713, which version 6 integrated here, no longer carries this line:
+[CLAIM-713](../claims.d/CLAIM-713.md), which version 6 integrated here, no longer carries this line:
 the entry that holds it since the reconciliation of 2026-11-18 is the
 first filing's, whose only line is dependence-and-domination (moved
-there at the split of 2026-11-16). It stays in SYNTHESIS-099.
+there at the split of 2026-11-16). It stays in [SYNTHESIS-099](SYNTHESIS-099.md).
 
 ## Where they meet
 
 Each link below is a front-matter relation of the entry named first,
 unless a body is cited.
 
-- **At QUESTION-128 and QUESTION-129 (SYNTHESIS-091).** From
-  SYNTHESIS-094: CLAIM-614 and CLAIM-624 bear on QUESTION-129, and
-  QUESTION-441 and QUESTION-456 refine it. From SYNTHESIS-102:
-  QUESTION-486 refines QUESTION-129.
-- **At QUESTION-454 (SYNTHESIS-091).** From SYNTHESIS-102: CASE-283,
-  CLAIM-720 and CASE-286 bear on it.
-- **At QUESTION-456 and CLAIM-662 (SYNTHESIS-094).** From SYNTHESIS-102:
-  CLAIM-743 bears on QUESTION-456 and complements CLAIM-662.
-- **At QUESTION-449 (SYNTHESIS-094).** From SYNTHESIS-104: CLAIM-733,
-  CASE-291 and CLAIM-714 bear on it, and the bodies of all three say they
+- **At [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md) ([SYNTHESIS-091](SYNTHESIS-091.md)).** From
+  [SYNTHESIS-094](SYNTHESIS-094.md): [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-624](../claims.d/CLAIM-624.md) bear on [QUESTION-129](../questions.d/QUESTION-129.md), and
+  [QUESTION-441](../questions.d/QUESTION-441.md) and [QUESTION-456](../questions.d/QUESTION-456.md) refine it. From [SYNTHESIS-102](SYNTHESIS-102.md):
+  [QUESTION-486](../questions.d/QUESTION-486.md) refines [QUESTION-129](../questions.d/QUESTION-129.md).
+- **At [QUESTION-454](../questions.d/QUESTION-454.md) ([SYNTHESIS-091](SYNTHESIS-091.md)).** From [SYNTHESIS-102](SYNTHESIS-102.md): [CASE-283](../cases.d/CASE-283.md),
+  [CLAIM-720](../claims.d/CLAIM-720.md) and [CASE-286](../cases.d/CASE-286.md) bear on it.
+- **At [QUESTION-456](../questions.d/QUESTION-456.md) and [CLAIM-662](../claims.d/CLAIM-662.md) ([SYNTHESIS-094](SYNTHESIS-094.md)).** From [SYNTHESIS-102](SYNTHESIS-102.md):
+  [CLAIM-743](../claims.d/CLAIM-743.md) bears on [QUESTION-456](../questions.d/QUESTION-456.md) and complements [CLAIM-662](../claims.d/CLAIM-662.md).
+- **At [QUESTION-449](../questions.d/QUESTION-449.md) ([SYNTHESIS-094](SYNTHESIS-094.md)).** From [SYNTHESIS-104](SYNTHESIS-104.md): [CLAIM-733](../claims.d/CLAIM-733.md),
+  [CASE-291](../cases.d/CASE-291.md) and [CLAIM-714](../claims.d/CLAIM-714.md) bear on it, and the bodies of all three say they
   do not answer it.
-- **At CLAIM-624's duty, in bodies.** CLAIM-714's body says whether a
-  dismantling breached a duty needs CLAIM-624's maintenance duty, argued
-  in ARG-114 (SYNTHESIS-094); CASE-291's body says the same; CLAIM-719's
+- **At [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, in bodies.** [CLAIM-714](../claims.d/CLAIM-714.md)'s body says whether a
+  dismantling breached a duty needs [CLAIM-624](../claims.d/CLAIM-624.md)'s maintenance duty, argued
+  in [ARG-114](../arguments.d/ARG-114.md) ([SYNTHESIS-094](SYNTHESIS-094.md)); [CASE-291](../cases.d/CASE-291.md)'s body says the same; [CLAIM-719](../claims.d/CLAIM-719.md)'s
   body makes the lack of second-order responsiveness a wrong only with
-  CLAIM-624's duty as a further premise; CLAIM-729's body calls
-  CLAIM-624's duty A's third illustration; QUESTION-483's body names
-  CLAIM-624 among the pieces a reply to contractualism would use; and
-  QUESTION-470's body names CLAIM-624 among its neighbours.
-- **Between SYNTHESIS-102 and SYNTHESIS-104, in bodies only.** No
-  front-matter relation joins them. SYNTHESIS-104's Arm B finds the
-  pairing of CLAIM-742 with CLAIM-743 already stated in CLAIM-742's body
+  [CLAIM-624](../claims.d/CLAIM-624.md)'s duty as a further premise; [CLAIM-729](../claims.d/CLAIM-729.md)'s body calls
+  [CLAIM-624](../claims.d/CLAIM-624.md)'s duty A's third illustration; [QUESTION-483](../questions.d/QUESTION-483.md)'s body names
+  [CLAIM-624](../claims.d/CLAIM-624.md) among the pieces a reply to contractualism would use; and
+  [QUESTION-470](../questions.d/QUESTION-470.md)'s body names [CLAIM-624](../claims.d/CLAIM-624.md) among its neighbours.
+- **Between [SYNTHESIS-102](SYNTHESIS-102.md) and [SYNTHESIS-104](SYNTHESIS-104.md), in bodies only.** No
+  front-matter relation joins them. [SYNTHESIS-104](SYNTHESIS-104.md)'s Arm B finds the
+  pairing of [CLAIM-742](../claims.d/CLAIM-742.md) with [CLAIM-743](../claims.d/CLAIM-743.md) already stated in [CLAIM-742](../claims.d/CLAIM-742.md)'s body
   (a claim to release does not weaken with the agent's incapacity), and
-  the pairing of CLAIM-745's gate with CLAIM-719, which turned on which
+  the pairing of [CLAIM-745](../claims.d/CLAIM-745.md)'s gate with [CLAIM-719](../claims.d/CLAIM-719.md), which turned on which
   standard the gate is indexed to, now fails because the court's opinion
-  (THEORY-1952) indexes it to the statute, on which it is a first-order
+  ([THEORY-1952](../theory.d/THEORY-1952.md)) indexes it to the statute, on which it is a first-order
   failure.
 - **Through the readings.** Readings are not components and
   `line_parts.py` does not count them, but several carry relations into
   more than one part, and so join parts by a shared source. Within this
-  line: the Ninth Amendment (THEORY-1954) bears on QUESTION-456
-  (SYNTHESIS-094) and QUESTION-486 (SYNTHESIS-102); the SEP entry
-  "Contractualism" (THEORY-1971) bears on QUESTION-485 (SYNTHESIS-091)
-  and on QUESTION-483 and QUESTION-484 (SYNTHESIS-102). Across to
-  dependence-and-domination: Rubel, Castro and Pham (THEORY-1946)
-  corroborate CLAIM-624 (SYNTHESIS-094) and CLAIM-707 (SYNTHESIS-099);
-  Locke (THEORY-1959) corroborates CLAIM-720 (SYNTHESIS-102) and CLAIM-727
-  (SYNTHESIS-103); Hohfeld (THEORY-1984) corroborates CLAIM-738
-  (SYNTHESIS-102) and is a ground of CLAIM-722 (SYNTHESIS-098); the NTSB
-  (THEORY-1932) and Elish (THEORY-1928) bear on QUESTION-476
-  (SYNTHESIS-104) and corroborate CLAIM-707 (SYNTHESIS-099); Stern's
-  Darwall (THEORY-1975) corroborates CLAIM-738 (SYNTHESIS-102) and bears
-  on QUESTION-480 (SYNTHESIS-103).
+  line: the Ninth Amendment ([THEORY-1954](../theory.d/THEORY-1954.md)) bears on [QUESTION-456](../questions.d/QUESTION-456.md)
+  ([SYNTHESIS-094](SYNTHESIS-094.md)) and [QUESTION-486](../questions.d/QUESTION-486.md) ([SYNTHESIS-102](SYNTHESIS-102.md)); the SEP entry
+  "Contractualism" ([THEORY-1971](../theory.d/THEORY-1971.md)) bears on [QUESTION-485](../questions.d/QUESTION-485.md) ([SYNTHESIS-091](SYNTHESIS-091.md))
+  and on [QUESTION-483](../questions.d/QUESTION-483.md) and [QUESTION-484](../questions.d/QUESTION-484.md) ([SYNTHESIS-102](SYNTHESIS-102.md)). Across to
+  dependence-and-domination: Rubel, Castro and Pham ([THEORY-1946](../theory.d/THEORY-1946.md))
+  corroborate [CLAIM-624](../claims.d/CLAIM-624.md) ([SYNTHESIS-094](SYNTHESIS-094.md)) and [CLAIM-707](../claims.d/CLAIM-707.md) ([SYNTHESIS-099](SYNTHESIS-099.md));
+  Locke ([THEORY-1959](../theory.d/THEORY-1959.md)) corroborates [CLAIM-720](../claims.d/CLAIM-720.md) ([SYNTHESIS-102](SYNTHESIS-102.md)) and [CLAIM-727](../claims.d/CLAIM-727.md)
+  ([SYNTHESIS-103](SYNTHESIS-103.md)); Hohfeld ([THEORY-1984](../theory.d/THEORY-1984.md)) corroborates [CLAIM-738](../claims.d/CLAIM-738.md)
+  ([SYNTHESIS-102](SYNTHESIS-102.md)) and is a ground of [CLAIM-722](../claims.d/CLAIM-722.md) ([SYNTHESIS-098](SYNTHESIS-098.md)); the NTSB
+  ([THEORY-1932](../theory.d/THEORY-1932.md)) and Elish ([THEORY-1928](../theory.d/THEORY-1928.md)) bear on [QUESTION-476](../questions.d/QUESTION-476.md)
+  ([SYNTHESIS-104](SYNTHESIS-104.md)) and corroborate [CLAIM-707](../claims.d/CLAIM-707.md) ([SYNTHESIS-099](SYNTHESIS-099.md)); Stern's
+  Darwall ([THEORY-1975](../theory.d/THEORY-1975.md)) corroborates [CLAIM-738](../claims.d/CLAIM-738.md) ([SYNTHESIS-102](SYNTHESIS-102.md)) and bears
+  on [QUESTION-480](../questions.d/QUESTION-480.md) ([SYNTHESIS-103](SYNTHESIS-103.md)).
 - **Across to dependence-and-domination, at the same questions.**
-  QUESTION-460 refines QUESTION-128, QUESTION-468 refines QUESTION-129,
-  and CLAIM-685 bears on QUESTION-128. CLAIM-687 (that line) complements
-  CLAIM-624. TERM-123 and TERM-124 make their standards relata declared
-  with the judgment "as CLAIM-363 requires", and TERM-122 "as CLAIM-363
-  holds of any normative judgment"; QUESTION-468 cites CLAIM-363 for its
-  part 2. QUESTION-461 names CLAIM-614, CLAIM-624 and CLAIM-619 as the
-  record's account of reproduced non-legibility, and QUESTION-463 and
-  QUESTION-468 name CLAIM-624 as a candidate standard of answerability.
+  [QUESTION-460](../questions.d/QUESTION-460.md) refines [QUESTION-128](../questions.d/QUESTION-128.md), [QUESTION-468](../questions.d/QUESTION-468.md) refines [QUESTION-129](../questions.d/QUESTION-129.md),
+  and [CLAIM-685](../claims.d/CLAIM-685.md) bears on [QUESTION-128](../questions.d/QUESTION-128.md). [CLAIM-687](../claims.d/CLAIM-687.md) (that line) complements
+  [CLAIM-624](../claims.d/CLAIM-624.md). [TERM-123](../terms.d/TERM-123.md) and [TERM-124](../terms.d/TERM-124.md) make their standards relata declared
+  with the judgment "as [CLAIM-363](../claims.d/CLAIM-363.md) requires", and [TERM-122](../terms.d/TERM-122.md) "as [CLAIM-363](../claims.d/CLAIM-363.md)
+  holds of any normative judgment"; [QUESTION-468](../questions.d/QUESTION-468.md) cites [CLAIM-363](../claims.d/CLAIM-363.md) for its
+  part 2. [QUESTION-461](../questions.d/QUESTION-461.md) names [CLAIM-614](../claims.d/CLAIM-614.md), [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md) as the
+  record's account of reproduced non-legibility, and [QUESTION-463](../questions.d/QUESTION-463.md) and
+  [QUESTION-468](../questions.d/QUESTION-468.md) name [CLAIM-624](../claims.d/CLAIM-624.md) as a candidate standard of answerability.
 - **Across to dependence-and-domination, from the parts filed from the
-  exchange.** CLAIM-718 (SYNTHESIS-091) bears on QUESTION-468, and
-  CLAIM-746 (SYNTHESIS-091) rests on CLAIM-737. ARG-114 (SYNTHESIS-094)
-  rests on CLAIM-727. CLAIM-723, CLAIM-739 and CLAIM-727 complement
-  CLAIM-624, and CLAIM-740 rests on it; CLAIM-708 complements CLAIM-624
-  and bears on QUESTION-449, and CLAIM-707 and CLAIM-702 complement
-  CLAIM-614; CLAIM-727 bears on QUESTION-441; CLAIM-716 and CLAIM-748
-  complement CLAIM-619; CLAIM-737 complements CLAIM-746 and bears on
-  QUESTION-485; CLAIM-722 complements CLAIM-720 and CLAIM-743, and
-  CLAIM-720 complements CLAIM-722 and CLAIM-727; CASE-282 illustrates
-  CLAIM-690. From SYNTHESIS-104 since its version 2: CLAIM-712
-  complements CLAIM-707, CLAIM-708 and CLAIM-715 (SYNTHESIS-099), and
-  ARG-112 rests on CLAIM-708; CLAIM-715 complements CLAIM-712; and six
-  claims of SYNTHESIS-099 use TERM-127. These are dependencies and
+  exchange.** [CLAIM-718](../claims.d/CLAIM-718.md) ([SYNTHESIS-091](SYNTHESIS-091.md)) bears on [QUESTION-468](../questions.d/QUESTION-468.md), and
+  [CLAIM-746](../claims.d/CLAIM-746.md) ([SYNTHESIS-091](SYNTHESIS-091.md)) rests on [CLAIM-737](../claims.d/CLAIM-737.md). [ARG-114](../arguments.d/ARG-114.md) ([SYNTHESIS-094](SYNTHESIS-094.md))
+  rests on [CLAIM-727](../claims.d/CLAIM-727.md). [CLAIM-723](../claims.d/CLAIM-723.md), [CLAIM-739](../claims.d/CLAIM-739.md) and [CLAIM-727](../claims.d/CLAIM-727.md) complement
+  [CLAIM-624](../claims.d/CLAIM-624.md), and [CLAIM-740](../claims.d/CLAIM-740.md) rests on it; [CLAIM-708](../claims.d/CLAIM-708.md) complements [CLAIM-624](../claims.d/CLAIM-624.md)
+  and bears on [QUESTION-449](../questions.d/QUESTION-449.md), and [CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-702](../claims.d/CLAIM-702.md) complement
+  [CLAIM-614](../claims.d/CLAIM-614.md); [CLAIM-727](../claims.d/CLAIM-727.md) bears on [QUESTION-441](../questions.d/QUESTION-441.md); [CLAIM-716](../claims.d/CLAIM-716.md) and [CLAIM-748](../claims.d/CLAIM-748.md)
+  complement [CLAIM-619](../claims.d/CLAIM-619.md); [CLAIM-737](../claims.d/CLAIM-737.md) complements [CLAIM-746](../claims.d/CLAIM-746.md) and bears on
+  [QUESTION-485](../questions.d/QUESTION-485.md); [CLAIM-722](../claims.d/CLAIM-722.md) complements [CLAIM-720](../claims.d/CLAIM-720.md) and [CLAIM-743](../claims.d/CLAIM-743.md), and
+  [CLAIM-720](../claims.d/CLAIM-720.md) complements [CLAIM-722](../claims.d/CLAIM-722.md) and [CLAIM-727](../claims.d/CLAIM-727.md); [CASE-282](../cases.d/CASE-282.md) illustrates
+  [CLAIM-690](../claims.d/CLAIM-690.md). From [SYNTHESIS-104](SYNTHESIS-104.md) since its version 2: [CLAIM-712](../claims.d/CLAIM-712.md)
+  complements [CLAIM-707](../claims.d/CLAIM-707.md), [CLAIM-708](../claims.d/CLAIM-708.md) and [CLAIM-715](../claims.d/CLAIM-715.md) ([SYNTHESIS-099](SYNTHESIS-099.md)), and
+  [ARG-112](../arguments.d/ARG-112.md) rests on [CLAIM-708](../claims.d/CLAIM-708.md); [CLAIM-715](../claims.d/CLAIM-715.md) complements [CLAIM-712](../claims.d/CLAIM-712.md); and six
+  claims of [SYNTHESIS-099](SYNTHESIS-099.md) use [TERM-127](../terms.d/TERM-127.md). These are dependencies and
   mentions across lines, and none adds this line to an entry of that one
-  (ADR-085).
+  ([ADR-085](../decisions.d/ADR-085.md)).
 
-Across to other lines, by dependency: SYNTHESIS-094 rests on CLAIM-348,
-CLAIM-523, CLAIM-445 and CLAIM-462; SYNTHESIS-102 on CLAIM-361 and
-CLAIM-560; each part account lists its own.
+Across to other lines, by dependency: [SYNTHESIS-094](SYNTHESIS-094.md) rests on [CLAIM-348](../claims.d/CLAIM-348.md),
+[CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-462](../claims.d/CLAIM-462.md); [SYNTHESIS-102](SYNTHESIS-102.md) on [CLAIM-361](../claims.d/CLAIM-361.md) and
+[CLAIM-560](../claims.d/CLAIM-560.md); each part account lists its own.
 
 ## How the parts relate
 
@@ -459,31 +459,31 @@ What the counts show, and no more:
 
 - Within the line nothing has changed in shape since version 6. Every
   relation across parts points into the two older parts, at the same
-  questions and at CLAIM-662. None points into SYNTHESIS-102 or
-  SYNTHESIS-104, and none joins them. The new relations are inside the
-  new parts: ARG-117 concludes CLAIM-720 (SYNTHESIS-102), and in
-  SYNTHESIS-104 the first filing's entries bring seven (CLAIM-742,
-  CLAIM-733 and CLAIM-717 bear on QUESTION-470, which QUESTION-476
-  refines; CLAIM-712 and ARG-112 ground in CASE-277, and ARG-112
-  concludes CLAIM-712).
+  questions and at [CLAIM-662](../claims.d/CLAIM-662.md). None points into [SYNTHESIS-102](SYNTHESIS-102.md) or
+  [SYNTHESIS-104](SYNTHESIS-104.md), and none joins them. The new relations are inside the
+  new parts: [ARG-117](../arguments.d/ARG-117.md) concludes [CLAIM-720](../claims.d/CLAIM-720.md) ([SYNTHESIS-102](SYNTHESIS-102.md)), and in
+  [SYNTHESIS-104](SYNTHESIS-104.md) the first filing's entries bring seven ([CLAIM-742](../claims.d/CLAIM-742.md),
+  [CLAIM-733](../claims.d/CLAIM-733.md) and [CLAIM-717](../claims.d/CLAIM-717.md) bear on [QUESTION-470](../questions.d/QUESTION-470.md), which [QUESTION-476](../questions.d/QUESTION-476.md)
+  refines; [CLAIM-712](../claims.d/CLAIM-712.md) and [ARG-112](../arguments.d/ARG-112.md) ground in [CASE-277](../cases.d/CASE-277.md), and [ARG-112](../arguments.d/ARG-112.md)
+  concludes [CLAIM-712](../claims.d/CLAIM-712.md)).
 - Three of the four parts stay mostly closed (39 of 43 outgoing relations
-  inside SYNTHESIS-094, 17 of 23 inside SYNTHESIS-102, 19 of 22 inside
-  SYNTHESIS-104), so by ADR-083's signal the line is still a candidate to
+  inside [SYNTHESIS-094](SYNTHESIS-094.md), 17 of 23 inside [SYNTHESIS-102](SYNTHESIS-102.md), 19 of 22 inside
+  [SYNTHESIS-104](SYNTHESIS-104.md)), so by [ADR-083](../decisions.d/ADR-083.md)'s signal the line is still a candidate to
   split.
 - Counted with dependence-and-domination's six parts as they stood at
   this review (both lines' parts were revised the same day, so the
   other line's figures can move), the two newer parts are not closed
-  toward that line. SYNTHESIS-104 sends 4 relations into SYNTHESIS-099
-  and receives 7 from it (the uses of TERM-127, and CLAIM-715's
+  toward that line. [SYNTHESIS-104](SYNTHESIS-104.md) sends 4 relations into [SYNTHESIS-099](SYNTHESIS-099.md)
+  and receives 7 from it (the uses of [TERM-127](../terms.d/TERM-127.md), and [CLAIM-715](../claims.d/CLAIM-715.md)'s
   complement), more than it exchanges with any part of its own line.
-  SYNTHESIS-102 sends 4 into dependence-and-domination's parts (2 into
-  SYNTHESIS-098, 1 each into SYNTHESIS-092 and SYNTHESIS-103) and
-  receives 2, from CLAIM-722. The readings add shared sources across
+  [SYNTHESIS-102](SYNTHESIS-102.md) sends 4 into dependence-and-domination's parts (2 into
+  [SYNTHESIS-098](SYNTHESIS-098.md), 1 each into [SYNTHESIS-092](SYNTHESIS-092.md) and [SYNTHESIS-103](SYNTHESIS-103.md)) and
+  receives 2, from [CLAIM-722](../claims.d/CLAIM-722.md). The readings add shared sources across
   both lines (above), which the counts do not include.
 
 The review reports these counts to the owner; a split, or a new line for
 rights, answerability and foreclosed remedies, is a decision about the
-lines vocabulary (ADR-082), not this account's. Version 6's counts
+lines vocabulary ([ADR-082](../decisions.d/ADR-082.md)), not this account's. Version 6's counts
 (95 of 108 within parts) are superseded by the table above.
 
 **Why the line was split at version 5.** Counted at version 4 over its
@@ -501,38 +501,38 @@ are kept here as that record.
 ## Not stated on the record
 
 - A path from the organizational account to practical or moral authority
-  (QUESTION-128's second half).
+  ([QUESTION-128](../questions.d/QUESTION-128.md)'s second half).
 - That the four parts are one inquiry beyond the root questions they
   share.
-- Whether CLAIM-624's duty, whose bearer is "an organization" with no
-  sense declared, falls on an arrangement's controllers, as CLAIM-687 puts
+- Whether [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, whose bearer is "an organization" with no
+  sense declared, falls on an arrangement's controllers, as [CLAIM-687](../claims.d/CLAIM-687.md) puts
   accountability on "those who control" it. That would join this line to
   dependence-and-domination; no component states it.
-- Whether CASE-289's gate is an institution reliable at the first order
-  and unresponsive at the second, in CLAIM-719's sense. SYNTHESIS-104
+- Whether [CASE-289](../cases.d/CASE-289.md)'s gate is an institution reliable at the first order
+  and unresponsive at the second, in [CLAIM-719](../claims.d/CLAIM-719.md)'s sense. [SYNTHESIS-104](SYNTHESIS-104.md)
   found at the interim review that it turned on which standard the gate
   is indexed to; with the opinion read, the statute indexes it and the
   gate is a first-order failure, and nothing on the record says how the
   Department answered reasons to revise it.
-- Whether CLAIM-743's test, with CLAIM-735, is an instance of CLAIM-518's
+- Whether [CLAIM-743](../claims.d/CLAIM-743.md)'s test, with [CLAIM-735](../claims.d/CLAIM-735.md), is an instance of [CLAIM-518](../claims.d/CLAIM-518.md)'s
   thesis that some judgments of obligation need histories
-  (SYNTHESIS-102). Neither cites CLAIM-518.
+  ([SYNTHESIS-102](SYNTHESIS-102.md)). Neither cites [CLAIM-518](../claims.d/CLAIM-518.md).
 - Whether rights that no institution creates or can extinguish
-  (QUESTION-486) supply the institution-independent standards
-  QUESTION-129 asks about, and whether CLAIM-741 or CLAIM-735 meets
-  QUESTION-483's test for the stronger answer to contractualism. The
+  ([QUESTION-486](../questions.d/QUESTION-486.md)) supply the institution-independent standards
+  [QUESTION-129](../questions.d/QUESTION-129.md) asks about, and whether [CLAIM-741](../claims.d/CLAIM-741.md) or [CLAIM-735](../claims.d/CLAIM-735.md) meets
+  [QUESTION-483](../questions.d/QUESTION-483.md)'s test for the stronger answer to contractualism. The
   questions are open; the readings give the second option a published
   form (Wenar) and a published reply (Scanlon), and no entry says either
   is met for institutional powers.
-- What ground CLAIM-720's limit on conferral has, now that ARG-117 finds
+- What ground [CLAIM-720](../claims.d/CLAIM-720.md)'s limit on conferral has, now that [ARG-117](../arguments.d/ARG-117.md) finds
   Locke carries its form and not its scope, and whether standing can be
   forfeited.
-- Who owes the correction CLAIM-742 says is needed, an answer to
-  QUESTION-470, and whether a blameless review is a mechanism of
-  second-order responsiveness (QUESTION-476). The NTSB reading shows one
+- Who owes the correction [CLAIM-742](../claims.d/CLAIM-742.md) says is needed, an answer to
+  [QUESTION-470](../questions.d/QUESTION-470.md), and whether a blameless review is a mechanism of
+  second-order responsiveness ([QUESTION-476](../questions.d/QUESTION-476.md)). The NTSB reading shows one
   blameless practice that keeps upstream provenance; Miller's connections,
   read through a neighbour, name grounds of repair without fault that
-  bear on CLAIM-717 and are not stored as bearing on QUESTION-470.
+  bear on [CLAIM-717](../claims.d/CLAIM-717.md) and are not stored as bearing on [QUESTION-470](../questions.d/QUESTION-470.md).
 - Whether the readings that bear on parts of both lines (above) join the
   parts in substance. They are shared sources, and no component says so.
 - Each part account lists the links its components leave unstated.
@@ -540,14 +540,14 @@ are kept here as that record.
 ## What it does not say
 
 - That any part's claims are accepted: most components are Proposed; the
-  Active ones are CLAIM-075, CLAIM-363, CLAIM-518, CLAIM-512, TERM-059 and
-  CASE-232. Every component of the two newer parts is Proposed or Open,
-  and all but the owner's and ARG-117 are A's or the reviews' that the
+  Active ones are [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md), [CLAIM-518](../claims.d/CLAIM-518.md), [CLAIM-512](../claims.d/CLAIM-512.md), [TERM-059](../terms.d/TERM-059.md) and
+  [CASE-232](../cases.d/CASE-232.md). Every component of the two newer parts is Proposed or Open,
+  and all but the owner's and [ARG-117](../arguments.d/ARG-117.md) are A's or the reviews' that the
   owner forwarded.
 - That a reading is a component, or that one that corroborates a claim
   is its ground: readings are cited as support, by the THEORY that
   carries the relation, and every reading named is Proposed.
-- That any whole, in any sense of TERM-074, is a bearer of obligations.
+- That any whole, in any sense of [TERM-074](../terms.d/TERM-074.md), is a bearer of obligations.
 - Which rights exist, which are inalienable, or which demands are
   warranted.
 - Anything with standing of its own.

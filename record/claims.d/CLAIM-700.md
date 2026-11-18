@@ -211,10 +211,10 @@ slack and one with exactly enough to sustain the present configuration, and
 introduce a failure that needs a transition.
 
 **A second route, by a separating case** (the follow-up synthesis review
-of 2026-11-18, SYNTHESIS-099, Arm A). What the claim adds is that unpaid
+of 2026-11-18, [SYNTHESIS-099](../syntheses.d/SYNTHESIS-099.md), Arm A). What the claim adds is that unpaid
 extra work keeping measured performance acceptable is invisible to a
 budget rule set on that performance, so the rule removes capacity in use;
-none of CLAIM-679, CLAIM-549, CLAIM-702 or CLAIM-713 states it. The
+none of [CLAIM-679](CLAIM-679.md), [CLAIM-549](CLAIM-549.md), [CLAIM-702](CLAIM-702.md) or [CLAIM-713](CLAIM-713.md) states it. The
 separating case: a hospital whose staffing is fixed by a statutory
 nurse-to-patient ratio, not by observed performance. Every premise can
 hold (the compensation is unseen and credited to the institution, the
@@ -226,7 +226,7 @@ premises, not false. The strategic clause passes separately, by the
 discriminating prediction that under a ratchet members conceal spare
 capacity. (The interim review's case, a hospital that logs unpaid hours,
 no longer separates: logging makes the compensation visible, which
-CLAIM-702, now a premise, excludes.)
+[CLAIM-702](CLAIM-702.md), now a premise, excludes.)
 
 ## What it does not say
 

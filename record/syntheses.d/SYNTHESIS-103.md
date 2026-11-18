@@ -92,17 +92,17 @@ stays effective without giving the claimant unlimited authority. It calls
 the second side of that problem "the limit [CLAIM-749](../claims.d/CLAIM-749.md) files", and
 leaves the why open.
 
-*Readings.* Three THEORYs bear on it. THEORY-1975 (Stern 2014, standing
+*Readings.* Three THEORYs bear on it. [THEORY-1975](../theory.d/THEORY-1975.md) (Stern 2014, standing
 in for Darwall 2006, unread) puts Darwall's answer to "to whom and why"
 on the record second-hand: what is owed is owed to those with
 second-personal standing, and giving another that standing "makes you
 answerable to them"; Stern's objection, that others' suffering can
 oblige without any second-personal reason, is the case that answer
 leaves open. Its dated note says the "why" now has these two candidate
-answers, neither read from Darwall himself. THEORY-1970 (the Virginia
+answers, neither read from Darwall himself. [THEORY-1970](../theory.d/THEORY-1970.md) (the Virginia
 Declaration of Rights: magistrates "at all times amenable" to the
 people as their trustees) bears on amenability grounded in entrusted
-power, and THEORY-1965 (Waldron and Penner on property) on authority
+power, and [THEORY-1965](../theory.d/THEORY-1965.md) (Waldron and Penner on property) on authority
 that owes no account.
 
 **The term.** [TERM-126](../terms.d/TERM-126.md) (A's, A83 §1 and A106 §17; Proposed):
@@ -120,11 +120,11 @@ contestability ([TERM-130](../terms.d/TERM-130.md)) is "one form of answer, cont
 maintained capability".
 
 *Readings.* No THEORY carries a relation to the term. Its dated notes
-record two homonyms: Shoemaker's answerability (THEORY-1974, Shoemaker
+record two homonyms: Shoemaker's answerability ([THEORY-1974](../theory.d/THEORY-1974.md), Shoemaker
 2019 for Shoemaker 2011, unread) is a capacity of the agent and a type
-of responsibility, not a directed relation; and Bovens (THEORY-1976)
+of responsibility, not a directed relation; and Bovens ([THEORY-1976](../theory.d/THEORY-1976.md))
 nests answerability inside accountability, the reverse of the term's
-nesting, which is A83's. Darwall's sense, through Stern (THEORY-1975),
+nesting, which is A83's. Darwall's sense, through Stern ([THEORY-1975](../theory.d/THEORY-1975.md)),
 is the term's.
 
 **When an answer is owed, and to whom.** [CLAIM-739](../claims.d/CLAIM-739.md) (A's, A83 §§3–5
@@ -143,10 +143,10 @@ downstream of it, [CLAIM-727](../claims.d/CLAIM-727.md) what the fifth ground "g
 says its fourth part "depends on" [CLAIM-749](../claims.d/CLAIM-749.md). It leaves open "why
 anyone is owed reasons at all".
 
-*Readings.* THEORY-1976 (Bovens 2007) corroborates its separation of
+*Readings.* [THEORY-1976](../theory.d/THEORY-1976.md) (Bovens 2007) corroborates its separation of
 roles: forums are often not principals, and consequences are "not
 necessarily brought upon the actor by the forum itself". Bovens gives
-none of its grounds. Darwall through Stern (THEORY-1975) carries no
+none of its grounds. Darwall through Stern ([THEORY-1975](../theory.d/THEORY-1975.md)) carries no
 relation: it fits "need not presuppose the actor's legitimate
 authority", since the authority is the claimant's, but has one ground,
 not several.
@@ -181,14 +181,14 @@ record holds the mechanisms ([CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-282](
 [CLAIM-359](../claims.d/CLAIM-359.md)) "and not the criterion", and calls itself "the institutional
 side of [CLAIM-727](../claims.d/CLAIM-727.md)".
 
-*Readings.* THEORY-1957 (Schlager and Ostrom 1992) and THEORY-1959
-(Locke's Second Treatise, skimmed) corroborate CLAIM-727's structural
+*Readings.* [THEORY-1957](../theory.d/THEORY-1957.md) (Schlager and Ostrom 1992) and [THEORY-1959](../theory.d/THEORY-1959.md)
+(Locke's Second Treatise, skimmed) corroborate [CLAIM-727](../claims.d/CLAIM-727.md)'s structural
 premise: authority at one level does not carry authority over the next
 ("The five property rights are independent of one another"). The
 claim's dated note says neither addresses challenge as such: their upper
 levels devise rules, not the cost, timing, forum or remedy of contest.
-ARG-114 (SYNTHESIS-094) rests on CLAIM-727. THEORY-1960 (Pettit, *On
-the People's Terms*) bears on QUESTION-482, insulation of influence as a
+[ARG-114](../arguments.d/ARG-114.md) ([SYNTHESIS-094](SYNTHESIS-094.md)) rests on [CLAIM-727](../claims.d/CLAIM-727.md). [THEORY-1960](../theory.d/THEORY-1960.md) (Pettit, *On
+the People's Terms*) bears on [QUESTION-482](../questions.d/QUESTION-482.md), insulation of influence as a
 condition of control.
 
 **Three entitlements.** [CLAIM-740](../claims.d/CLAIM-740.md) (A's, A23 §6 and A19 §7, developing
@@ -201,16 +201,16 @@ these the affected party's; that its split between giving an account and
 answering "is what" [CLAIM-624](../claims.d/CLAIM-624.md)'s duty "requires of contestation"; and that
 interruption is the owner's U11 ([CLAIM-710](../claims.d/CLAIM-710.md), in [SYNTHESIS-098](SYNTHESIS-098.md)) "in the form of an entitlement". It names
 [TERM-130](../terms.d/TERM-130.md), [TERM-126](../terms.d/TERM-126.md) and [CLAIM-739](../claims.d/CLAIM-739.md) as from the same exchange. It
-complements CLAIM-705 (the first filing's, distributed-agency, in no
+complements [CLAIM-705](../claims.d/CLAIM-705.md) (the first filing's, distributed-agency, in no
 account: overload makes the formal right to contest ineffective), which
 derives one of its failures.
 
-*Readings.* Two THEORYs corroborate it independently. THEORY-1941
+*Readings.* Two THEORYs corroborate it independently. [THEORY-1941](../theory.d/THEORY-1941.md)
 (Cerrato, Sahlgren and Heilmann 2026): counterfactual explanations shaped
 by the deployer's upstream choices "preclude consideration of whether
 the decision-maker ought to have acted differently", explanation without
 contestation in a sharper form, pointing the subject at their own inputs.
-THEORY-1947 (Citron 2008): notice, hearing and process before
+[THEORY-1947](../theory.d/THEORY-1947.md) (Citron 2008): notice, hearing and process before
 deprivation are distinct safeguards that fail differently, and
 "pre-deprivation process is surely possible", the ground for the third
 entitlement.
@@ -276,12 +276,12 @@ cited.
   [CLAIM-732](../claims.d/CLAIM-732.md) rests on [CLAIM-523](../claims.d/CLAIM-523.md) and complements [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-632](../claims.d/CLAIM-632.md)
   and [CLAIM-724](../claims.d/CLAIM-724.md); [TERM-130](../terms.d/TERM-130.md) complements [TERM-085](../terms.d/TERM-085.md). [CLAIM-724](../claims.d/CLAIM-724.md),
   [CLAIM-748](../claims.d/CLAIM-748.md) and [QUESTION-479](../questions.d/QUESTION-479.md) are in [SYNTHESIS-098](SYNTHESIS-098.md).
-  CLAIM-740 complements CLAIM-705; ARG-114 rests on CLAIM-727.
+  [CLAIM-740](../claims.d/CLAIM-740.md) complements [CLAIM-705](../claims.d/CLAIM-705.md); [ARG-114](../arguments.d/ARG-114.md) rests on [CLAIM-727](../claims.d/CLAIM-727.md).
 - From the readings, as support and not as links between components:
-  THEORY-1975, THEORY-1970 and THEORY-1965 bear on QUESTION-480;
-  THEORY-1976 corroborates CLAIM-739; THEORY-1957 and THEORY-1959
-  corroborate CLAIM-727; THEORY-1960 bears on QUESTION-482; THEORY-1941
-  and THEORY-1947 corroborate CLAIM-740.
+  [THEORY-1975](../theory.d/THEORY-1975.md), [THEORY-1970](../theory.d/THEORY-1970.md) and [THEORY-1965](../theory.d/THEORY-1965.md) bear on [QUESTION-480](../questions.d/QUESTION-480.md);
+  [THEORY-1976](../theory.d/THEORY-1976.md) corroborates [CLAIM-739](../claims.d/CLAIM-739.md); [THEORY-1957](../theory.d/THEORY-1957.md) and [THEORY-1959](../theory.d/THEORY-1959.md)
+  corroborate [CLAIM-727](../claims.d/CLAIM-727.md); [THEORY-1960](../theory.d/THEORY-1960.md) bears on [QUESTION-482](../questions.d/QUESTION-482.md); [THEORY-1941](../theory.d/THEORY-1941.md)
+  and [THEORY-1947](../theory.d/THEORY-1947.md) corroborate [CLAIM-740](../claims.d/CLAIM-740.md).
 
 ## Not stated on the record
 
@@ -289,10 +289,10 @@ cited.
   under [TERM-126](../terms.d/TERM-126.md). The term's five forms do not include suspending
   execution, and [CLAIM-740](../claims.d/CLAIM-740.md) cites the term only as from the same
   exchange.
-- Whether CLAIM-740's interruption is what CLAIM-723 (SYNTHESIS-098)
+- Whether [CLAIM-740](../claims.d/CLAIM-740.md)'s interruption is what [CLAIM-723](../claims.d/CLAIM-723.md) ([SYNTHESIS-098](SYNTHESIS-098.md))
   says is defeated when an actor makes its act irreversible before
-  standing can be exercised. Citron (THEORY-1947, on CLAIM-740) and
-  Fuentes v. Shevin (THEORY-1972, CLAIM-723's ground) both put the
+  standing can be exercised. Citron ([THEORY-1947](../theory.d/THEORY-1947.md), on [CLAIM-740](../claims.d/CLAIM-740.md)) and
+  Fuentes v. Shevin ([THEORY-1972](../theory.d/THEORY-1972.md), [CLAIM-723](../claims.d/CLAIM-723.md)'s ground) both put the
   hearing before the deprivation; neither claim cites the other. (Tested
   under Arm B.)
 - How [CLAIM-740](../claims.d/CLAIM-740.md)'s three entitlements map onto [CLAIM-732](../claims.d/CLAIM-732.md)'s six
@@ -304,7 +304,7 @@ cited.
 - Why anyone is owed an answer at all: [QUESTION-480](../questions.d/QUESTION-480.md) and [CLAIM-739](../claims.d/CLAIM-739.md)
   leave it open. Two candidate answers are now on the record as
   readings, Darwall's second-personal standing and Stern's objection
-  from suffering (THEORY-1975); no component takes either.
+  from suffering ([THEORY-1975](../theory.d/THEORY-1975.md)); no component takes either.
 - Whether [CLAIM-739](../claims.d/CLAIM-739.md)'s grounds settle [CLAIM-687](../claims.d/CLAIM-687.md)'s scope as
   [CLAIM-749](../claims.d/CLAIM-749.md) reads it. [CLAIM-739](../claims.d/CLAIM-739.md) calls [CLAIM-687](../claims.d/CLAIM-687.md) the dependence
   ground with an intensity, and [CLAIM-749](../claims.d/CLAIM-749.md) says where its slope starts;
@@ -322,8 +322,8 @@ Run again with the readings.
   in [CLAIM-739](../claims.d/CLAIM-739.md)'s body (its fourth part "depends on" [CLAIM-749](../claims.d/CLAIM-749.md))
   and in [QUESTION-480](../questions.d/QUESTION-480.md)'s. The question's why stays open. Nothing filed.
   The readings add Bovens's separation of forum, principal and the party
-  that imposes consequences (THEORY-1976), which corroborates the second
-  part, and Darwall's ground (THEORY-1975), which is one of several the
+  that imposes consequences ([THEORY-1976](../theory.d/THEORY-1976.md)), which corroborates the second
+  part, and Darwall's ground ([THEORY-1975](../theory.d/THEORY-1975.md)), which is one of several the
   claim allows. Neither changes the verdict.
 - **Protected contestability is not self-certifying** ([TERM-130](../terms.d/TERM-130.md) with
   [CLAIM-727](../claims.d/CLAIM-727.md) and [QUESTION-482](../questions.d/QUESTION-482.md)). The sentence tried: an arrangement
@@ -341,21 +341,21 @@ Run again with the readings.
   stages and predicts nothing either leaves open; which stage a late
   contest fails at is a free choice of mapping.
 - **Interruption is the standing whose defeat is the wrong of acting
-  first** (CLAIM-740 with CLAIM-723, across to SYNTHESIS-098, with
-  THEORY-1947 and THEORY-1972). The sentence tried: the wrong CLAIM-723
-  names is the violation of CLAIM-740's entitlement to interruption.
+  first** ([CLAIM-740](../claims.d/CLAIM-740.md) with [CLAIM-723](../claims.d/CLAIM-723.md), across to [SYNTHESIS-098](SYNTHESIS-098.md), with
+  [THEORY-1947](../theory.d/THEORY-1947.md) and [THEORY-1972](../theory.d/THEORY-1972.md)). The sentence tried: the wrong [CLAIM-723](../claims.d/CLAIM-723.md)
+  names is the violation of [CLAIM-740](../claims.d/CLAIM-740.md)'s entitlement to interruption.
   Route: a derivation, prompted by the two readings, which both require
   the hearing before the deprivation. Verdict: it fails both ways by
-  separating cases the claims allow. CLAIM-723's standing includes
-  standing to authorize, as with CLAIM-734's consent-protected
+  separating cases the claims allow. [CLAIM-723](../claims.d/CLAIM-723.md)'s standing includes
+  standing to authorize, as with [CLAIM-734](../claims.d/CLAIM-734.md)'s consent-protected
   entitlement, where the wrong is acting without consent and no
   interruption entitlement is in play; and a process that cannot be
-  paused but stays reversible lacks CLAIM-740's interruption without
-  meeting CLAIM-723's irreversibility. As "the two can coincide" it adds
+  paused but stays reversible lacks [CLAIM-740](../claims.d/CLAIM-740.md)'s interruption without
+  meeting [CLAIM-723](../claims.d/CLAIM-723.md)'s irreversibility. As "the two can coincide" it adds
   nothing; Fuentes's coincidence of them is the reading's. Listed above
   as not stated.
-- **Darwall answers why an answer is owed** (QUESTION-480, TERM-126,
-  CLAIM-739, with THEORY-1975). The answer is one reading's, through a
+- **Darwall answers why an answer is owed** ([QUESTION-480](../questions.d/QUESTION-480.md), [TERM-126](../terms.d/TERM-126.md),
+  [CLAIM-739](../claims.d/CLAIM-739.md), with [THEORY-1975](../theory.d/THEORY-1975.md)). The answer is one reading's, through a
   critic, and Stern's objection is on the same page. A claim resting on
   one reading is not an integration; the record's relation for it is the
   THEORY's `bears_on`. Not a candidate.
