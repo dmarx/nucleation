@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmpxe81d
 title: 'When a localized pattern persists on a carrier that is itself a persisting structure, as a soliton on a vortex filament or a vortex line on its worldsheet, can a model derive both persistences together, and does the pattern''s identity then depend on the carrier''s?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Note of 2026-11-18 added: Holm and Stechmann (2004), read, on a
+    filament whose motion is set by its Hamiltonian. No status change.
 tags:
 - individuation
 - complex-systems
@@ -53,3 +59,17 @@ stated for one level at a time.
 - **A failure.** If no such model can be found, an argument that the two
   levels need separate assumptions would answer the question the other
   way.
+
+## Note of 2026-11-18: Holm and Stechmann (2004), read
+
+<!-- inactive-ok-file: THEORY-tmp405mh — new; the reading's account -->
+
+Holm and Stechmann (LIT-tmp3py9h, NOTE-tmpja35d; THEORY-tmp405mh) take the
+filament as given, vorticity concentrated on a curve (eq. 2.1), and choose
+its Hamiltonian. With helicity in place of kinetic energy the filament is
+not a material line: "so in general ω will not be frozen into the fluid
+motion". The carrier's persistence is assumed, and how it moves is fixed by
+the Hamiltonian chosen for it rather than derived from the flow. The model
+therefore derives the pattern's persistence (solitons of the complex mKdV)
+and not the carrier's, which is this question's first half. It answers
+neither half.

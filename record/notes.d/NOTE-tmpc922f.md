@@ -1,0 +1,137 @@
+---
+status: Read
+paper: 'LIT-tmp5zjqc'
+title: 'Zhu, Li and Cai — When do task vectors interfere?'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Read 2026-11-18 by a delegated reader from arXiv:2608.09490v2 (31
+    August 2026), from arxiv.org, text by pdftotext with the two columns
+    interleaved: the abstract, all sections of the main text, the
+    appendix and Tables 1–9. Not seen: the ancillary files, which hold
+    the protocols, the negative results for parameter and data-similarity
+    predictors and the TIES-probe detail; v1 not read. The filer
+    rechecked every quotation below against the text, each a single
+    column's line.
+date: '2026-11-18'
+summary: >-
+  First-token output non-additivity of two merged LoRA task vectors
+  depends on the input distribution as well as the task pair (code+safety
+  over code+math on code prompts, null on math), transfers in coarse
+  ordering to unseen pairs, and is hidden by the template the adapters
+  were trained on but not by an untrained chat template.
+---
+<!-- inactive-ok-file: THEORY-1897 THEORY-107 CASE-273 THEORY-1892 THEORY-1890 THEORY-105 — Proposed; held entries this reading bears on or touches -->
+
+# NOTE-tmpc922f: Zhu, Li and Cai — When do task vectors interfere?
+
+## Contribution
+
+An input-indexed estimand of pairwise non-additivity for weight-space
+merges, θ(α,β) = θ0 + α∆a + β∆b on a 7×7 grid: the Jensen–Shannon
+divergence between the merged first-token distribution and an additive
+counterfactual built in logit space from the two axis paths, normalised by
+the divergence from the base, as a ratio R per seed. The primary quantity
+is the matched contrast C = R(code+safety) − R(code+math) after the
+vectors are rescaled to a common norm. The authors call the counterfactual "a
+chosen operationalization of additivity between directions, not a
+definition of functional interaction that is independent of the model".
+
+## Key results
+
+- **Input dependence** (Table 1). At 1.5B, "code+safety exceeds the
+  matched code+math control by +6.0" on code prompts "and by +0.1 on math
+  prompts, a null"; "Neither pair identity" "nor input distribution alone
+  determines compositionality." It persists at 0.5B, 7B (where math turns
+  weakly positive) and in Llama-3.1-8B, and under full fine-tuning at
+  0.5B.
+- **Prospective transfer** (Table 2). Bins frozen before two new tasks
+  were trained predicted the high-versus-low order: "The predictions held:
+  all 8/8 high-versus-low compar[isons]", with p = 0.083 the smallest the
+  design allows, finer structure weaker (ρ = 0.57, n = 9), and accuracy by
+  input family from 100% to 37.5%.
+- **The format boundary** (Table 3; 1.5B, code prompts). Wrapped in the
+  Alpaca template the adapters were trained on, "the contrast collapses
+  twenty-fold, from +6.9 to +0.3 points" (+6.91 to +0.34, inside a ±2
+  equivalence band); in ChatML, untrained, it survives at +12.5, "raw—
+  falsifying our preregistered prediction that it too would" collapse. The
+  mechanism is credited to the companion: "companion causal study traces
+  this gating to a denominator" effect in the readout; two further
+  training-format phrasings inflate the denominator 11–35× while a
+  length-matched non-instruction prefix "hides nothing".
+- **Execution metrics** cannot resolve it: "Pass@1 does not robustly
+  reproduce the contrast."
+- **Anchors.** A matched-norm random direction composes almost additively
+  (R 0.1–0.5%); by "functional relatedness: unrelated 0.4%, code+math
+  2.5%," code+safety 8.5% and same-task seeds 9.3%, the last mixing
+  relatedness with curvature.
+- **Operator scope.** For TIES the additive counterfactual overshoots and
+  all three registered checks failed: "The additive counterfactual is a
+  valid refer[ence] only for additive composition".
+- **Parameter summaries.** At 0.5B a clustering audit detects nothing
+  while the functional contrast is intact, "which is the concrete sense in
+  which parameter summaries" "under-determine functional composition";
+  static parameter and data-similarity summaries failed to predict
+  held-out families (the details are in the ancillary files, not seen).
+  It cites Sivaramakrishnan et al. (2026) that "space angles are not a
+  stable predictor of adapter interference."
+
+## Assumptions
+
+Qwen2.5 bases at 0.5B, 1.5B and 7B and Llama-3.1-8B; rank-16 LoRA on the
+attention and MLP projections, merged into a shared base; 3,000 training
+examples, two epochs, three seeds; tasks GSM8K, CodeAlpaca, Alpaca and
+PKU-SafeRLHF, with XSum and OPUS en→fr added; interference is
+first-token output non-additivity, not merge accuracy; norm-matched
+endpoints are "interventions, not trained checkpoints"; "prospectively
+specified" with no external registry.
+
+## Concepts
+
+Interaction surface; additive counterfactual in logit space; interaction
+ratio; norm matching; matched contrast; input strata; training-format
+against untrained serialization; strong equivalence gate; prospective
+coarse bins; operator-consistent counterfactual.
+
+## Bearing on the record
+
+- **LIT-2629, NOTE-1989, THEORY-1897 (Zhu 2026).** This is the companion
+  whose estimand Zhu (2026) uses and whose format result it explains. It
+  narrows what the record says of templates: LIT-2629's summary has "An
+  instruction template suppresses the expressed interaction", but only the
+  template the adapters were trained on collapses the contrast; an
+  untrained chat template carrying the same instruction leaves it larger.
+  It also makes THEORY-1897's "output non-additivity" input-indexed: null
+  on math prompts at 1.5B. Neither result tests the transport, regrowth or
+  direction findings. Noted on THEORY-1897.
+- **CASE-273.** Consistent with the construction's point that composition
+  of updates depends on the inputs: the same merged pair is non-additive
+  on code prompts and additive on math prompts, and parameter-space
+  clustering detects nothing where function differs. The pairs' absolute
+  cosines are not reported, so orthogonality is not measured as such.
+  Noted on CASE-273.
+- **THEORY-107 (sign conflict).** Not tested. The TIES sign-conflict rate
+  is among the static diagnostics reported as failing to predict held-out
+  families, but the detail is in the ancillary files, the outcome is
+  output non-additivity rather than merge accuracy, and the counterfactual
+  is invalid for TIES.
+- **THEORY-1892, THEORY-1890** (weight disentanglement; cross-task
+  linearity). Adjacent: this is an output-level, input-conditioned
+  measure beside their accounts.
+- **THEORY-105** (knowledge as a region in weight space) motivates the
+  clustering audit, which finds regional structure does not predict
+  functional interaction at 0.5B.
+- **QUESTION-318, QUESTION-316, QUESTION-317.** None: no layerwise
+  features, no averaging of many models, no independent training or
+  barriers.
+
+## Limitations
+
+Three seeds; pair families share checkpoints; the format and anchor
+follow-ups at 1.5B on code prompts only; full fine-tuning only at 0.5B;
+first-token estimand (under teacher forcing math keeps a residual,
++1.87); interference is not merge accuracy; key negative results in
+ancillary files not seen; no external preregistration, and the ChatML
+prediction was written after the primary studies froze; a preprint.
