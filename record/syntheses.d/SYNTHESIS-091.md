@@ -101,6 +101,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-718 CLAIM-746 CLAIM-737 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open; components at version 3, and citations -->
 <!-- inactive-ok-file: CASE-229 CASE-263 CASE-264 ARG-055 — Proposed; citations at version 3, with their standing -->
 <!-- inactive-ok-file: THEORY-1971 — a reading of 2026-11-18, Proposed; cited at version 4 as bearing on a component -->
+<!-- inactive-ok-file: CLAIM-624 — Proposed; a citation, with its standing -->
 <!-- inactive-ok-file: LIT-2721 — Unavailable; the work the reading stands in for -->
 
 # SYNTHESIS-091: What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open

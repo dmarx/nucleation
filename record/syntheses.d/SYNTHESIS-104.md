@@ -88,7 +88,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-742 TERM-127 CLAIM-733 CASE-291 CLAIM-714 CLAIM-717 CASE-284 CLAIM-719 TERM-128 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-712 CASE-277 ARG-112 — components at version 2, filed from the first share of the same exchange on 2026-11-16, Proposed -->
-<!-- inactive-ok-file: CLAIM-707 CLAIM-708 CLAIM-702 QUESTION-487 CLAIM-713 CLAIM-715 CLAIM-722 CLAIM-729 CLAIM-745 CLAIM-743 CASE-289 CASE-292 ARG-114 SYNTHESIS-102 SYNTHESIS-099 SYNTHESIS-038 SYNTHESIS-094 — filed from the same exchange or its readings, Proposed; citations, and the sibling part account -->
+<!-- inactive-ok-file: CLAIM-707 CLAIM-708 CLAIM-702 QUESTION-487 TERM-126 CLAIM-713 CLAIM-715 CLAIM-722 CLAIM-729 CLAIM-745 CLAIM-743 CASE-289 CASE-292 ARG-114 SYNTHESIS-102 SYNTHESIS-099 SYNTHESIS-038 SYNTHESIS-094 — filed from the same exchange or its readings, Proposed; citations, and the sibling part account -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-671 THEORY-122 THEORY-147 THEORY-207 ADR-075 — Proposed; citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-068 LIT-2246 — Deferred; citations, with their standing -->
 <!-- inactive-ok-file: LIT-2714 — Unfetched; a citation, with its standing -->

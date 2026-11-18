@@ -3,7 +3,7 @@ number: 38
 status: Proposed
 formerly:
 - SYNTHESIS-tmphe0p9
-title: 'The organizational-normativity line is four accounts that meet at its root questions and the older parts'' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another's conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts'
+title: 'The organizational-normativity line is four accounts that meet at its root questions and the older parts'' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another''s conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts'
 version: 7
 history:
 - version: 2
@@ -183,6 +183,8 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-102 SYNTHESIS-104 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-098 SYNTHESIS-103 — filed at the interim synthesis review of 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CLAIM-718 CLAIM-746 ARG-114 CLAIM-738 CLAIM-725 CLAIM-745 CASE-289 CLAIM-741 CASE-283 CLAIM-743 CLAIM-720 CASE-286 CLAIM-735 CLAIM-729 CASE-282 CLAIM-742 TERM-127 CLAIM-733 CLAIM-714 CLAIM-717 CASE-291 CASE-284 CLAIM-719 TERM-128 CLAIM-722 CLAIM-713 CLAIM-737 CLAIM-739 CLAIM-723 CLAIM-727 CLAIM-740 CLAIM-707 CLAIM-708 CLAIM-716 CLAIM-748 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: ADR-082 — Proposed; the first decision splitting a line, cited for where a split is decided -->
+<!-- inactive-ok-file: ARG-112 ARG-117 CASE-277 CLAIM-679 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-703 CLAIM-712 CLAIM-715 TERM-110 — Proposed; components, directly integrated entries and citations at version 7, with their standing -->
+<!-- inactive-ok-file: THEORY-1914 THEORY-1917 THEORY-1928 THEORY-1932 THEORY-1933 THEORY-1946 THEORY-1952 THEORY-1954 THEORY-1959 THEORY-1971 THEORY-1975 THEORY-1976 THEORY-1984 — readings of 2026-11-16 or 2026-11-18, Proposed; cited at version 7 as the support components have -->
 
 # SYNTHESIS-038: The organizational-normativity line is four accounts that meet at its root questions and the older parts' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another's conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts
 
