@@ -20,13 +20,13 @@ source:
 bears_on:
 - QUESTION-469
 summary: >-
-  Holm and Stechmann (2004), LIT-tmp3py9h, read in NOTE-tmpja35d. With
+  Holm and Stechmann (2004), [LIT-tmp3py9h](../literature.d/LIT-tmp3py9h.md), read in [NOTE-tmpja35d](../notes.d/NOTE-tmpja35d.md). With
   kinetic energy as the Hamiltonian the Hasimoto transformation gives the
   cubic NLS; with helicity it gives the complex mKdV, "the main result of
   the paper", the last step credited to Langer and Perline (1991). Formal,
   and no soliton is constructed. Under a Hamiltonian other than kinetic
   energy the filament is not a material line, which bears on
-  QUESTION-469. The wording is the reader's; adopting it is the owner's
+  [QUESTION-469](../questions.d/QUESTION-469.md). The wording is the reader's; adopting it is the owner's
   call.
 ---
 
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Holm and Stechmann (2004), LIT-tmp3py9h, read in NOTE-tmpja35d.
+Holm and Stechmann (2004), [LIT-tmp3py9h](../literature.d/LIT-tmp3py9h.md), read in [NOTE-tmpja35d](../notes.d/NOTE-tmpja35d.md).
 
 ## The result
 

@@ -2,8 +2,8 @@
 status: Active
 status_note: >-
   read in full 2026-11-15 from arXiv nlin/0409040v1, the only version, as a
-  second read neighbour of Hasimoto (1972), LIT-2611, which could not be
-  reached; registered and filed 2026-11-18 (NOTE-tmpja35d). Worth reading
+  second read neighbour of Hasimoto (1972), [LIT-2611](LIT-2611.md), which could not be
+  reached; registered and filed 2026-11-18 ([NOTE-tmpja35d](../notes.d/NOTE-tmpja35d.md)). Worth reading
   here for what it restates of Hasimoto: the attribution of his map to the
   local induction approximation, the transformation ψ = κ exp(i∫τ ds), the
   da Rios–Betchov binormal law and the thin-tube cutoff log(1/ε) taken as
@@ -51,9 +51,9 @@ summary: >-
   equation, the second flow of the NLS hierarchy: "This connection between
   cmKdV and fluid helicity is the main result of the paper." The map's last
   step is Langer and Perline's, and no soliton is constructed. Filed as a
-  second read neighbour of Hasimoto (1972), LIT-2611, for the attribution
+  second read neighbour of Hasimoto (1972), [LIT-2611](LIT-2611.md), for the attribution
   of his map to the local induction approximation and that
-  approximation's thin-tube cutoff. It bears on QUESTION-469: a filament
+  approximation's thin-tube cutoff. It bears on [QUESTION-469](../questions.d/QUESTION-469.md): a filament
   driven by a Hamiltonian other than kinetic energy is not a material line.
 ---
 <!-- inactive-ok-file: LIT-2611 — Unavailable; the work this stands in for -->
@@ -78,8 +78,8 @@ soliton motion driven by fluid helicity. arXiv:nlin/0409040.
 
 ## Standing in the record
 
-Filed as the second read neighbour of Hasimoto (1972), LIT-2611, beside
-Van Gorder (2014), LIT-2612. On the reduction it is weaker than Van
+Filed as the second read neighbour of Hasimoto (1972), [LIT-2611](LIT-2611.md), beside
+Van Gorder (2014), [LIT-2612](LIT-2612.md). On the reduction it is weaker than Van
 Gorder: it names the map and the variable, and writes neither the cubic
 NLS nor its soliton. It adds the thin-tube cutoff, which the record held
 nowhere. Its own result, the helicity Hamiltonian and the complex mKdV,

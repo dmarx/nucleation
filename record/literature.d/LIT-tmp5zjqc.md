@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-18 (NOTE-tmpc922f) from the arXiv preprint, v2 (31 Aug
+  read 2026-11-18 ([NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md)) from the arXiv preprint, v2 (31 Aug
   2026; 12 pp. with appendix): the whole main text, the appendix and
   Tables 1–9; the ancillary files (protocols, the negative results for
   parameter and data-similarity predictors, the TIES-probe detail) were
   not seen, and v1 was not read. Worth reading here as the source of the
-  estimand and the format result Zhu (2026), LIT-2629, builds on: merged
+  estimand and the format result Zhu (2026), [LIT-2629](LIT-2629.md), builds on: merged
   LoRA task vectors are non-additive in their first-token output on some
   input families and not others, and the template the adapters were
   trained on hides the contrast while an untrained chat template does not.
@@ -55,7 +55,7 @@ summary: >-
   fold, from +6.9 to +0.3 points", while an untrained chat template leaves
   it at +12.5. Parameter-space summaries "under-determine functional
   composition". It is the companion and source of estimand for Zhu (2026),
-  LIT-2629, and bears on THEORY-1897 and CASE-273.
+  [LIT-2629](LIT-2629.md), and bears on [THEORY-1897](../theory.d/THEORY-1897.md) and [CASE-273](../cases.d/CASE-273.md).
 ---
 <!-- inactive-ok-file: THEORY-1897 CASE-273 — Proposed; the entries this reading bears on -->
 
@@ -78,7 +78,7 @@ the validity boundaries of weight-space composition. arXiv:2608.09490.
 
 ## Standing in the record
 
-The companion of Zhu (2026), LIT-2629, which takes its estimand and
+The companion of Zhu (2026), [LIT-2629](LIT-2629.md), which takes its estimand and
 format result and supplies the mechanism ("a denominator effect in the
 readout"). It narrows what the record said of templates: the gate is the
 training format, not instruction templates as such.

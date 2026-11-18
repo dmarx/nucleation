@@ -22,23 +22,22 @@ date: '2026-11-18'
 source:
 - LIT-tmp5zjqc
 summary: >-
-  Zhu, Li and Cai (2026), LIT-tmp5zjqc, read in NOTE-tmpc922f. At
+  Zhu, Li and Cai (2026), [LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), read in [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md). At
   Qwen2.5-1.5B the matched contrast code+safety minus code+math is about
   +6.0 on code prompts and +0.1 on math prompts; it persists at 0.5B, 7B,
   under full fine-tuning at 0.5B and in Llama-3.1-8B. On the same code
   prompts the Alpaca template the adapters were trained on collapses it
   from +6.9 to +0.3, and an untrained ChatML template leaves it at +12.5.
-  The companion, Zhu (2026), LIT-2629, traces the collapse to a
+  The companion, Zhu (2026), [LIT-2629](../literature.d/LIT-2629.md), traces the collapse to a
   denominator effect in the readout. The wording is the reader's; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1897 — Proposed; the companion's account, which takes this estimand -->
 
 # THEORY-tmppa16d: In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.1 language models, the non-additivity of the first-token output distribution, measured against an additive counterfactual in logit space and normalised by displacement from the base, depends on the input distribution as well as the task pair, and the template the adapters were trained on hides it on prompts where it is present while an untrained chat template does not
 
 ## Source
 
-Zhu, Li and Cai (2026), LIT-tmp5zjqc, read in NOTE-tmpc922f (v2, main
+Zhu, Li and Cai (2026), [LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), read in [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md) (v2, main
 text and appendix; ancillary files not seen).
 
 ## The result

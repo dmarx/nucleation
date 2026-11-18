@@ -121,7 +121,7 @@ Appendix A; v3 skimmed (abstract, introduction, Figure 1, §4.2, §6).
 
 <!-- inactive-ok-file: THEORY-tmppa16d — new; the companion's account -->
 
-The companion paper (LIT-tmp5zjqc, NOTE-tmpc922f; THEORY-tmppa16d)
+The companion paper ([LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md); [THEORY-tmppa16d](THEORY-tmppa16d.md))
 supplies the estimand this account uses and qualifies two things around
 its title, which it does not test:
 
@@ -131,7 +131,7 @@ its title, which it does not test:
   contrast collapses twenty-fold, from +6.9 to +0.3 points". An untrained
   chat template leaves it at +12.5, "falsifying our preregistered
   prediction that it too would" collapse. The gate is the training format,
-  not instruction templates as such, as LIT-2629's summary put it.
+  not instruction templates as such, as [LIT-2629](../literature.d/LIT-2629.md)'s summary put it.
 - **Which inputs.** The output non-additivity this title speaks of is
   input-indexed. At 1.5B the matched contrast is about +6.0 on code
   prompts "and by +0.1 on math prompts, a null".

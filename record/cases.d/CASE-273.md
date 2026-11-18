@@ -72,7 +72,7 @@ term can be small in practice.
 
 <!-- inactive-ok-file: THEORY-tmppa16d — new; the reading's account -->
 
-Zhu, Li and Cai (LIT-tmp5zjqc, NOTE-tmpc922f; THEORY-tmppa16d) find in
+Zhu, Li and Cai ([LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md); [THEORY-tmppa16d](../theory.d/THEORY-tmppa16d.md)) find in
 merged LoRA task vectors what this construction shows in miniature: the
 same pair of updates is non-additive in output on code prompts and
 additive on math prompts, "Neither pair identity" "nor input distribution

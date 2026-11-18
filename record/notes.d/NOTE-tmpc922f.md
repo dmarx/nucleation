@@ -23,7 +23,7 @@ summary: >-
   ordering to unseen pairs, and is hidden by the template the adapters
   were trained on but not by an untrained chat template.
 ---
-<!-- inactive-ok-file: THEORY-1897 THEORY-107 CASE-273 THEORY-1892 THEORY-1890 THEORY-105 — Proposed; held entries this reading bears on or touches -->
+<!-- inactive-ok-file: THEORY-1897 THEORY-107 CASE-273 THEORY-1892 THEORY-1890 — Proposed; held entries this reading bears on or touches -->
 
 # NOTE-tmpc922f: Zhu, Li and Cai — When do task vectors interfere?
 
@@ -97,33 +97,33 @@ coarse bins; operator-consistent counterfactual.
 
 ## Bearing on the record
 
-- **LIT-2629, NOTE-1989, THEORY-1897 (Zhu 2026).** This is the companion
+- **[LIT-2629](../literature.d/LIT-2629.md), [NOTE-1989](NOTE-1989.md), [THEORY-1897](../theory.d/THEORY-1897.md) (Zhu 2026).** This is the companion
   whose estimand Zhu (2026) uses and whose format result it explains. It
-  narrows what the record says of templates: LIT-2629's summary has "An
+  narrows what the record says of templates: [LIT-2629](../literature.d/LIT-2629.md)'s summary has "An
   instruction template suppresses the expressed interaction", but only the
   template the adapters were trained on collapses the contrast; an
   untrained chat template carrying the same instruction leaves it larger.
-  It also makes THEORY-1897's "output non-additivity" input-indexed: null
+  It also makes [THEORY-1897](../theory.d/THEORY-1897.md)'s "output non-additivity" input-indexed: null
   on math prompts at 1.5B. Neither result tests the transport, regrowth or
-  direction findings. Noted on THEORY-1897.
-- **CASE-273.** Consistent with the construction's point that composition
+  direction findings. Noted on [THEORY-1897](../theory.d/THEORY-1897.md).
+- **[CASE-273](../cases.d/CASE-273.md).** Consistent with the construction's point that composition
   of updates depends on the inputs: the same merged pair is non-additive
   on code prompts and additive on math prompts, and parameter-space
   clustering detects nothing where function differs. The pairs' absolute
   cosines are not reported, so orthogonality is not measured as such.
-  Noted on CASE-273.
-- **THEORY-107 (sign conflict).** Not tested. The TIES sign-conflict rate
+  Noted on [CASE-273](../cases.d/CASE-273.md).
+- **[THEORY-107](../theory.d/THEORY-107.md) (sign conflict).** Not tested. The TIES sign-conflict rate
   is among the static diagnostics reported as failing to predict held-out
   families, but the detail is in the ancillary files, the outcome is
   output non-additivity rather than merge accuracy, and the counterfactual
   is invalid for TIES.
-- **THEORY-1892, THEORY-1890** (weight disentanglement; cross-task
+- **[THEORY-1892](../theory.d/THEORY-1892.md), [THEORY-1890](../theory.d/THEORY-1890.md)** (weight disentanglement; cross-task
   linearity). Adjacent: this is an output-level, input-conditioned
   measure beside their accounts.
-- **THEORY-105** (knowledge as a region in weight space) motivates the
+- **[THEORY-105](../theory.d/THEORY-105.md)** (knowledge as a region in weight space) motivates the
   clustering audit, which finds regional structure does not predict
   functional interaction at 0.5B.
-- **QUESTION-318, QUESTION-316, QUESTION-317.** None: no layerwise
+- **[QUESTION-318](../questions.d/QUESTION-318.md), [QUESTION-316](../questions.d/QUESTION-316.md), [QUESTION-317](../questions.d/QUESTION-317.md).** None: no layerwise
   features, no averaging of many models, no independent training or
   barriers.
 

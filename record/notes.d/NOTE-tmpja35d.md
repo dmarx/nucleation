@@ -23,7 +23,7 @@ summary: >-
   modified KdV equation, the NLS hierarchy's second flow. Formal; no
   soliton constructed. Read as a second neighbour of Hasimoto (1972).
 ---
-<!-- inactive-ok-file: LIT-2611 THEORY-1868 NOTE-1951 CLAIM-606 THEORY-tmp405mh — Unavailable, Skimmed, Proposed or new; the work this stands in for, the stand-in's reading and account, and the entries this bears on -->
+<!-- inactive-ok-file: LIT-2611 THEORY-1868 NOTE-1951 CLAIM-606 — Unavailable, Skimmed, Proposed or new; the work this stands in for, the stand-in's reading and account, and the entries this bears on -->
 
 # NOTE-tmpja35d: Holm and Stechmann — Hasimoto transformation and vortex soliton motion driven by fluid helicity
 
@@ -84,23 +84,23 @@ momentum map (Langer and Perline); NLS hierarchy; complex modified KdV.
 
 ## Bearing on the record
 
-- **LIT-2611 (Hasimoto 1972).** A second neighbour. It confirms that
+- **[LIT-2611](../literature.d/LIT-2611.md) (Hasimoto 1972).** A second neighbour. It confirms that
   Hasimoto's map runs from the local induction approximation to the NLS,
   and the transformation ψ = κ exp(i∫τ ds), and adds the thin-tube cutoff.
   It carries none of the travelling hump, its speed 2τ, its shape or the
-  treatment of Betchov, so LIT-2611's list of what nothing read carries is
+  treatment of Betchov, so [LIT-2611](../literature.d/LIT-2611.md)'s list of what nothing read carries is
   unchanged.
-- **LIT-2612, NOTE-1951 (Van Gorder).** An independent secondary source
-  agreeing on the attribution and the variable; NOTE-1951's assumptions
+- **[LIT-2612](../literature.d/LIT-2612.md), [NOTE-1951](NOTE-1951.md) (Van Gorder).** An independent secondary source
+  agreeing on the attribution and the variable; [NOTE-1951](NOTE-1951.md)'s assumptions
   name the local induction approximation without its cutoff.
-- **THEORY-1868.** Supports, as an attribution only, its first clause,
+- **[THEORY-1868](../theory.d/THEORY-1868.md).** Supports, as an attribution only, its first clause,
   that under the local induction approximation the curvature–torsion field
   obeys the cubic NLS; nothing on the sech soliton, friction or decay.
-- **QUESTION-469.** The filament is assumed, not derived (eq. 2.1), and
+- **[QUESTION-469](../questions.d/QUESTION-469.md).** The filament is assumed, not derived (eq. 2.1), and
   under a Hamiltonian other than kinetic energy it is not even a material
   line: how the carrier moves is set by the Hamiltonian chosen for it, not
   by the flow. Noted there.
-- **CLAIM-606.** None directly: Theorem 4.1's solitons are asserted
+- **[CLAIM-606](../claims.d/CLAIM-606.md).** None directly: Theorem 4.1's solitons are asserted
   through integrability, and none is shown.
 
 ## Limitations
