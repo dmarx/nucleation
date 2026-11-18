@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpxrgp3
 title: 'Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-16'
@@ -60,6 +60,13 @@ history:
     nothing in the record meets its defeat condition, and THEORY-481
     (Active) corroborates it. The blocker note above is answered by
     this ruling. Status Proposed to Active.
+- version: 6
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: ReAct (LIT-tmpygfnl, skimmed in NOTE-tmp3bv7o)
+    is a standard example of improving the signal, not the interpreter: a
+    frozen model takes in facts it did not hold through calls to a Wikipedia
+    API. It fits the distinction and does not test it. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -181,3 +188,9 @@ tells the two sources apart by what is carried into later contexts, not by
 where a change sits. [THEORY-169](../theory.d/THEORY-169.md)'s identity of conditioning and per-sequence
 weight updates is then a fact about the signal side and does not tell
 against the claim.
+
+## Note of 2026-11-15: ReAct, skimmed
+
+<!-- inactive-ok-file: NOTE-tmp3bv7o — Skimmed; ReAct, skimmed on 2026-11-15 for one use, cited as an example that fits the distinction -->
+
+Yao et al. ([LIT-tmpygfnl](../literature.d/LIT-tmpygfnl.md), skimmed in [NOTE-tmp3bv7o](../notes.d/NOTE-tmp3bv7o.md) for one use): a frozen model prompted to interleave reasoning with calls to a Wikipedia API takes in facts it did not hold, and on an outdated HotpotQA label "Only ReAct is able to retrieve up-to-date information". The weights do not change and the new fact arrives in context, so this is improving the signal, not the interpreter, in the claim's sense. It is a standard example that fits the distinction; it does not test it, since nothing in it could have shown the two sources mixed. No status change.

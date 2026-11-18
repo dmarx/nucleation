@@ -96,10 +96,56 @@ def test_multimodal_parts_keep_their_text():
 
 
 def test_a_page_without_the_payload_fails_loudly():
-    with pytest.raises(cs.ShareFormatError, match="streamController"):
+    with pytest.raises(cs.ShareFormatError, match="streamController.*octane"):
         cs.decode("<html><body>Just a moment...</body></html>")
 
 
 def test_a_payload_without_a_conversation_fails_loudly():
     with pytest.raises(cs.ShareFormatError, match="mapping"):
         cs.decode(page({"loaderData": {"nothing": "here"}}))
+
+
+def octane_page(rows, title="Branch · An exchange") -> str:
+    """A share page in the 2026-11 format: the transcript as one JSON script."""
+    body = json.dumps({"label": "Conversation", "rows": rows}).replace("</", "<\\/")
+    return (f"<html><head><title>{title}</title></head><body>"
+            f'<script id="octane-conversation-transcript" type="application/json">{body}</script>'
+            "</body></html>")
+
+
+def octane_user(text):
+    return {"key": "u", "frame": {"role": "user", "text": text}}
+
+
+def octane_assistant(markdown="", fallback="", links=()):
+    consts = {str(i): t for i, (_, t) in enumerate(links)}
+    code = "".join(f'__dil.jsx(Link,{{"url":"{u}"}},__dilConstants["{i}"])'
+                   for i, (u, _) in enumerate(links))
+    return {"key": "a", "frame": {"role": "assistant"},
+            "source": {"markdown": markdown,
+                       "dil": {"code": code, "constants": consts, "fallbackMarkdown": fallback}}}
+
+
+def test_octane_pages_decode_both_voices_in_order():
+    rows = [octane_user("first question"), octane_assistant(markdown="first answer"),
+            octane_user("second question"), octane_assistant(fallback="second answer")]
+    ex = cs.decode(octane_page(rows))
+    assert ex.title == "Branch · An exchange"
+    assert [(t.label, t.text) for t in ex.turns] == [
+        ("U1", "first question"), ("A1", "first answer"),
+        ("U2", "second question"), ("A2", "second answer")]
+
+
+def test_octane_links_dropped_from_the_fallback_are_listed_in_order():
+    rows = [octane_user("q"), octane_assistant(
+        fallback="see , and also .",
+        links=[("https://example.org/a", "CLAIM-1"), ("https://example.org/b", "TERM-2")])]
+    text = cs.decode(octane_page(rows)).turns[1].text
+    assert text.startswith("see , and also .")
+    assert text.endswith("[links in this turn, in order, whose text the fallback drops:\n"
+                         "  CLAIM-1 <https://example.org/a>\n  TERM-2 <https://example.org/b>]")
+
+
+def test_an_octane_assistant_turn_without_text_fails_loudly():
+    with pytest.raises(cs.ShareFormatError, match="no text"):
+        cs.decode(octane_page([octane_user("q"), octane_assistant()]))

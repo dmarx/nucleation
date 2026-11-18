@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpivbso
 title: 'Can the development of a transformer''s circuits in training be described as organizational regimes forming over shared, overlapping latent features, so that a model coupling feature allocation to circuit interaction, fitted to early checkpoints, predicts the effects of held-out training interventions that feature-only and circuit-only descriptions fitted to the same checkpoints miss?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,15 @@ history:
     owner pasted it. The reply reports no simulation. Extended before
     merge, on 2026-10-27, with what the circuits works read on
     2026-10-26 supply (no version bump, the entry being new).
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added, from the continuation of the exchange "Explain
+    String Theory" (A16): A's directed coupling among learned feature
+    directions, and five routes to the same gain in accuracy, of which new
+    couplings among existing features and newly accessible pathways are the
+    discriminating case for a feature-only model. A's experiments are
+    CASE-tmp71zhd and CASE-tmp9201a. Not run; the question is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -323,3 +332,18 @@ only from 0.0482 to 1/3, and it adds a vertex rather than filling a hole.
   the name of the inquiry hosted at https://github.com/dmarx/nucleation".
 
 No status changes.
+
+## Note of 2026-11-15: circuit nucleation as coupling among existing features
+
+<!-- inactive-ok-file: CASE-tmp71zhd CASE-tmp9201a — Proposed; A's experiments, filed 2026-11-15 from the continuation of "Explain String Theory", cited as proposed tests, not run -->
+
+A in the continuation of the exchange "Explain String Theory" (A16) proposes measuring, at each checkpoint t, the directed coupling C_ji(t, x) = u_j(t)ᵀ T_t(x) u_i(t) between learned feature directions under the network's input-conditioned transfer operator. On that picture, a circuit forms when a causally effective coupling structure appears among features. That may happen with the feature inventory nearly unchanged.
+
+It separates five routes to the same gain in accuracy:
+- new feature directions;
+- stronger existing features;
+- new effective couplings among existing features;
+- a pathway that becomes accessible to some inputs;
+- redundant pathways reorganizing.
+
+Only the third and fourth are missed by a feature-only model. That makes them this question's discriminating case. A's experiments are [CASE-tmp71zhd](../cases.d/CASE-tmp71zhd.md) (a Fourier circuit, where the modes are given) and [CASE-tmp9201a](../cases.d/CASE-tmp9201a.md). The question's own baselines, feature-only, circuit-only and state-space models fitted to early checkpoints, are the right comparators. Not run. No status change.

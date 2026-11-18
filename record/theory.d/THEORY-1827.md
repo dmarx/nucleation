@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7xj6i
 title: 'On Belrose and colleagues, no linear predictor under any convex loss can beat a constant at predicting a categorical concept from a representation if and only if every class has the same mean, that is, the representation''s cross-covariance with the concept is zero; an affine edit Px + b achieves this if and only if P annihilates that cross-covariance''s column space; and one closed-form oblique projection, which whitens, removes the whitened cross-covariance directions and unwhitens, makes the smallest such edit in mean squared distance under every inner-product norm at once'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-15'
@@ -15,6 +15,14 @@ history:
     "A check of the theorems"). Guardedness to 10⁻¹⁵; an idempotent,
     non-symmetric P; and the smallest cost of the erasers compared under
     all 200 random inner-product norms.
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: INLP (LIT-tmp3i6ea) reaches the same linear
+    target by iteration and measures what it leaves, and Goodfire's paper
+    (LIT-tmp40uoi) says a quadratic reader recovers what projection and
+    LEACE leave in the covariance. Both are consistent with this entry,
+    which claims linear guardedness only. No status change.
 tags:
 - information-theory
 - representation-learning
@@ -57,3 +65,7 @@ Pythia raises bits per byte well above a random erasure of equal rank.
   the stronger condition.
 - **Anything about model editing or weight-space projections.** The
   paper projects representations.
+
+## Note of 2026-11-15: INLP, and what a linear guarantee leaves
+
+INLP (Ravfogel et al. 2020, [LIT-tmp3i6ea](../literature.d/LIT-tmp3i6ea.md)) reaches the same linear target by iteration, and measures what the target leaves: a one-hidden-layer MLP recovers gender at 85.0% after linear accuracy falls to chance. Goodfire's paper ([LIT-tmp40uoi](../literature.d/LIT-tmp40uoi.md)) states in its contributions list that "projecting out and LEACE (Belrose et al., 2023) can leave information in the covariance that a quadratic reader recovers". Its §2.1, with the result, was not read. Both readings are consistent with this entry, which claims linear guardedness only. No status change.

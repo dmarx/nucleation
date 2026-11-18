@@ -1,0 +1,85 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-15 ([NOTE-tmpvnck7](../notes.d/NOTE-tmpvnck7.md)) from the arXiv preprint, v2 (20 pp.):
+  abstract, §1, §§3–4, §6.1, §6.3, §7 and §8; §5, §6.2 and the appendices
+  skimmed, the Appendix A guarantees not checked. Worth reading here as
+  the plainest worked case of erasure relative to a class of readers:
+  after INLP no linear classifier recovers gender from GloVe vectors above
+  chance, while a one-hidden-layer MLP recovers it at 85.0%, and the
+  authors say the guarantee is linear only.
+title: 'Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Registered and read on 2026-11-15 from the owner's pasted continuation
+    of the ChatGPT exchange "Explain String Theory", in A's turn on concept
+    erasure and its limits, where A cites it as "Ravfogel et al.". Checked
+    first: no LIT held the arXiv id or the title. Citation from the arXiv
+    API and Crossref (no mailto; no email sent to any service): Shauli
+    Ravfogel, Yanai Elazar, Hila Gonen, Michael Twiton and Yoav Goldberg,
+    ACL 2020 (58th Annual Meeting), pp. 7237–7256,
+    doi:10.18653/v1/2020.acl-main.647; arXiv v1 submitted 2020-04-16,
+    which is `published:`. Read by a delegated reader from
+    arxiv.org/pdf/2004.07667v2; the filer rechecked every quotation used
+    against the PDF's text.
+tags:
+- representation-learning
+- anthology-candidate
+date: '2026-11-15'
+published: '2020-04-16'
+arxiv: '2004.07667'
+doi: '10.18653/v1/2020.acl-main.647'
+first_author: 'Ravfogel'
+keywords:
+- 'iterative nullspace projection'
+- 'INLP'
+- 'protected attributes'
+- 'linear guarding'
+- 'gender bias'
+- 'word embeddings'
+implementations: []
+summary: >-
+  Ravfogel, Elazar, Gonen, Twiton & Goldberg (2020), ACL. INLP removes a
+  protected attribute by repeatedly training a linear classifier for it
+  and projecting the representations onto that classifier's nullspace,
+  until no linear classifier beats chance. On GloVe gender, linear SVM
+  accuracy falls from 100% to 49.3% after 35 iterations, while a
+  one-hidden-layer MLP still recovers gender at 85.0%; the authors state
+  that the attribute is not protected against non-linear classifiers.
+  Bears on [TERM-064](../terms.d/TERM-064.md) (legibility relative to an observer's rule class) and
+  on [THEORY-281](../theory.d/THEORY-281.md), whose perfect-erasure target INLP does not aim at.
+---
+<!-- inactive-ok-file: THEORY-tmpysvtc — Proposed; the account filed from this reading -->
+
+# LIT-tmp3i6ea: Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection
+
+Ravfogel, S., Elazar, Y., Gonen, H., Twiton, M. & Goldberg, Y. (2020). Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 7237–7256. doi:10.18653/v1/2020.acl-main.647. arXiv:2004.07667.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpvnck7](../notes.d/NOTE-tmpvnck7.md).*
+
+- **The method** (abstract): "repeated training of linear classifiers that
+  predict a certain property we aim to remove, followed by projection of
+  the representations on their null-space."
+- **Linear erasure, nonlinear recovery** (§6.1.1): after 35 iterations a
+  linear SVM's gender accuracy drops from 100% to 49.3%; "The MLP recovers
+  gender with accuracy of 85.0%."
+- **The guarantee is stated narrowly** (§7): "the attributes are not
+  protected under non-linear classifiers."
+
+## Standing in the record
+
+Filed from A's turn on concept erasure, which characterizes INLP as a
+method that repeatedly finds linear classifiers for an attribute and
+projects the representations into their nullspaces, and which does not
+claim to remove every nonlinear representation (A's words paraphrased
+here; the exchange was not rechecked by the filer). The reader found that
+characterization right, and the paper more explicit than A: it measures
+the nonlinear residue (85.0%) itself. It is the linear, iterative
+predecessor of LEACE ([LIT-2551](LIT-2551.md), [THEORY-1827](../theory.d/THEORY-1827.md)), and the method that amnesic
+probing ([LIT-tmp52idf](LIT-tmp52idf.md)) uses and that Kumar, Tan & Sharma ([LIT-tmpzdaep](LIT-tmpzdaep.md))
+criticize. [THEORY-tmpysvtc](../theory.d/THEORY-tmpysvtc.md) carries its central account.

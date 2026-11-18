@@ -1,0 +1,122 @@
+---
+status: Read
+paper: 'LIT-tmpn3i8n'
+title: 'Chang et al. — Programmable branched flow of light'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Read on 2026-11-15 from arXiv:2601.13623v1, https://arxiv.org/pdf/2601.13623,
+    six pages, text by pdftotext: the main text, the four figure captions
+    and the references. Not read: the Supplemental Material, where the
+    derivation of Eqs. 3–4, the parameter table and the "peanut" polar plot
+    are said to be, which is not part of the arXiv PDF; and the PRL version
+    of record, doi:10.1103/2fxf-jr9b, which was not compared. The filer
+    rechecked every quote below against the downloaded text; all were
+    found. Equations are given as formulas, not quotes, since the
+    extraction breaks their layout.
+date: '2026-11-15'
+summary: >-
+  Designed, anisotropic correlated disorder written into nematic
+  liquid-crystal films by photoalignment makes optical branched flow
+  programmable. Ensemble-averaging over about ten fabricated films, the
+  authors measure the first-branch distance from the scintillation index
+  and find it agrees with df ∝ ε^−2/3 A^4/3 lx (cos²α + sin²α/A²)^5/6; at
+  anisotropy 1/1000 the light is channeled along the long correlation axis,
+  with sub-diffusive growth of the velocity-angle spread.
+---
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
+
+# NOTE-tmp5yuxz: Chang et al. — Programmable branched flow of light
+
+## Contribution
+
+Optical branched flow, which Patsyk et al. (2020) observed in disorder
+found in soap films, is here engineered. Because each film's disorder is
+fabricated to near-identical statistics, the authors can ensemble-average
+over realizations, test the anisotropic generalization of the
+first-branch scaling including its dependence on orientation, and report
+a channeling regime at extreme anisotropy.
+
+## Key insight
+
+The distance to the first branch is a function of the disorder's
+correlation geometry: stretch the correlation along one axis and rotate
+it, and the first branch moves by a closed-form law. With extreme
+stretching the potential stops splitting the light and guides it.
+
+## Assumptions
+
+- The linear 2D Helmholtz equation (Eq. 1) with an effective index for
+  the extraordinary wave; the waveguide-induced index change is neglected,
+  since the film is 20 µm thick against a 532 nm wavelength.
+- Weak, correlated disorder: a Gaussian random field convolved with a
+  target anisotropic correlation, ε ≈ 0.05.
+- The scaling laws are taken from theory (Degueldre et al. 2017; Kaplan
+  2002) and tested, not derived in the main text.
+- Ensembles of about ten fabricated films are independent realizations of
+  one set of statistics.
+
+## Key results
+
+- **Isotropic baseline and diagnostic.** The scintillation index
+  S(x) = ⟨I²⟩/⟨I⟩² − 1 and the isotropic d ∝ lc ε^−2/3 are cited from
+  earlier work, Patsyk et al. (2020) among it.
+- **Anisotropic law** (Eq. 3, p. 2): df ∝ ε^−2/3 ly^4/3 / lx^1/3 =
+  ε^−2/3 A^4/3 lx, with A = ly/lx.
+- **Orientation** (Eq. 4): df ∝ ε^−2/3 A^4/3 lx (cos²α + sin²α/A²)^5/6.
+- **Measurement** (p. 4): "Each curve represents an ensemble average over
+  approximately ten independent realizations"; the first-branch distance
+  "shows quantitative agreement with both the analytical scaling law from
+  equation (3) and numerical simulations".
+- **Trends** (Figs. 2–3): df rises with A at α = 0 (A = 1.0, 1.8, 2.6); at
+  A = 1.8 it falls as α goes from 0 to π/2. The angular dependence "does
+  not exhibit a simple ellipse but instead shows a distinct" peanut shape,
+  in a plot in the Supplemental Material, not seen.
+- **Channeling** (Fig. 4, p. 5): at A = 1/1000 the caustics stay along the
+  principal axis for α ≤ π/9 and leave it at π/6, "slightly exceeding the
+  theoretical asymptotic angle". The exponent s in √⟨φ²⟩ ∝ L^s "is smaller
+  than 1/2", which the authors read as sub-diffusive.
+
+## Concepts
+
+Programmable disorder; photoalignment of nematic liquid crystals;
+anisotropic correlated potential; first-branch distance; scintillation
+index; directional channeling; anomalous (sub-diffusive) velocity
+diffusion.
+
+## Connections
+
+- **Patsyk et al. (2020)**, [LIT-tmpv09vj](../literature.d/LIT-tmpv09vj.md): the mechanism (caustics in weak
+  disorder with correlation length above the wavelength), the diagnostic
+  (the scintillation index) and the isotropic scaling are the same, and
+  this paper cites the earlier one for them. Its own additions are the
+  anisotropic and rotational law and channeling.
+
+## Bearing on the record
+
+- **A's characterization.** That liquid-crystal structures "deliberately
+  control those branches" through "the anisotropy and orientation of the
+  optical potential", and that the paper relates the first-branch distance
+  to "correlation lengths, disorder strength, and anisotropy", holds; Eqs.
+  3–4 give the form. A misses that the scintillation index and the
+  isotropic part come from [LIT-tmpv09vj](../literature.d/LIT-tmpv09vj.md). A's "Physical Review Letters,
+  September 2026" holds: PRL 137, 113802, online 9 September 2026.
+- **[CLAIM-182](../claims.d/CLAIM-182.md), [THEORY-272](../theory.d/THEORY-272.md), [THEORY-1036](../theory.d/THEORY-1036.md), [TERM-064](../terms.d/TERM-064.md), [THEORY-758](../theory.d/THEORY-758.md)**: no
+  bearing. Wave transport, not memory or capacity.
+- **A's analogy.** What this paper could offer the wave-to-learning
+  analogy is that a designed correlated potential steers a linear wave
+  into chosen channels. Taking that as a model of how weights route
+  information is A's, not the paper's.
+
+## Limitations
+
+- The agreement with the law is shown at three anisotropies and three
+  angles plus one sweep; the exponents are not fitted independently in
+  the main text, and the Supplemental Material was not read.
+- The "universal scaling law" is called a "direct experimental
+  discovery", but it confirms an existing prediction.
+- The sub-diffusion claim rests on one exponent estimate at one
+  anisotropy.
+- The PRL text was not compared with arXiv v1.

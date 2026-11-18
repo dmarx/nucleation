@@ -1,0 +1,109 @@
+---
+status: Read
+paper: 'LIT-tmpwnkv8'
+title: 'Zhang and Zhou — Unraveling LoRA interference'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Read on 2026-11-15 from arXiv:2505.22934v2 (28 May 2026), from
+    https://arxiv.org/pdf/2505.22934v2, 14 pp., text by pdftotext:
+    §§1–4.4 and §§5.2–5.3, including Tables 3, 5, 6 and 7. Skipped:
+    Appendix A (the derivation), Tables 1, 2 and 4 in detail, and the
+    remaining appendices. The filer rechecked every quotation below
+    against the text, matching across column breaks.
+date: '2026-11-15'
+summary: >-
+  Summed LoRAs interfere because each task's update shifts the outputs on
+  the other tasks' inputs (B2A2h1). OSRM fixes each task's A before
+  fine-tuning to the smallest-variance directions of the other tasks'
+  features. It plugs into five merging methods; on Llama3-8B it lifts
+  task arithmetic by 9.5 points and leaves TIES slightly worse, and its
+  gains shrink with model size.
+---
+<!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account this reading bears on -->
+
+# NOTE-tmpf8m60: Zhang and Zhou — Unraveling LoRA interference
+
+## Contribution
+
+An account of why merging LoRA models loses accuracy that names the term
+responsible, one task's low-rank update acting on another task's inputs,
+and a closed-form constraint on each LoRA's down-projection, set before
+fine-tuning, that reduces it and plugs into existing merging methods.
+
+## Key insight
+
+A merged layer applied to task 1's input returns task 1's output plus
+task 2's update applied to task 1's input. That second term vanishes if
+task 2's update cannot see task 1's features, so the place to control
+interference is the subspace each LoRA reads, chosen from the other tasks'
+data.
+
+## Assumptions
+
+- Latent features from a few samples of each other task represent its
+  input distribution, and are available before fine-tuning.
+- The interference is first-order and layer-local (B2A2h1); propagation
+  across layers is not modeled.
+- A_t has orthonormal rows; B is trained freely, and in practice A is
+  still updated after initialization.
+
+## Key results
+
+- **The account** (abstract). "this issue arises from a previously
+  overlooked interplay between model parameters and data distributions".
+- **The term** (§4.1, Eq. 1). "B2A2h1 can be viewed as a 'perturbation'
+  induced by the knowledge learned for task T2".
+- **The constraint** (§4, Fig. 2, Eqs. 2–3). Exact orthogonality is
+  unavailable because H1 "is typically full-rank in real scenarios", so A_t
+  minimizes ‖A_t H_¬tᵀ‖_F; the solution is the eigenvectors of the other
+  tasks' feature covariance with the r smallest eigenvalues.
+- **Llama3-8B, eight GLUE tasks** (Table 5). Task arithmetic 63.28 without
+  OSRM, 72.75 with it; TIES 53.01 without, 52.69 with.
+- **Scale** (§5.2). "the performance gain from our method diminishes" as
+  the model grows.
+- **Robustness** (Fig. 4). OSRM is "more robust to variations in" λ for
+  task arithmetic and TIES on RoBERTa-large.
+
+## Concepts
+
+Data–parameter interplay; output shift B2A2h1; LoRA subspace constraint;
+minimal-variance eigenvectors of the feature covariance; plug-in merging.
+
+## Bearing on the record
+
+- **[THEORY-107](../theory.d/THEORY-107.md) (interference in parameter coordinates)**: a rival location,
+  not a test. OSRM puts interference in how one task's update acts on
+  another's features, not in redundant coordinates or sign, and corrects
+  it with a subspace chosen from data before training. On Llama3-8B it
+  lifts task arithmetic a great deal and TIES not at all. The paper does
+  not compare sign with scale. [THEORY-107](../theory.d/THEORY-107.md)'s restriction to one pretrained
+  start fits, and this supplies a data-conditioned mechanism [THEORY-107](../theory.d/THEORY-107.md)
+  does not.
+- **[QUESTION-318](../questions.d/QUESTION-318.md), [CLAIM-498](../claims.d/CLAIM-498.md)**: no layerwise feature linearity is measured.
+- **[THEORY-112](../theory.d/THEORY-112.md), [CLAIM-407](../claims.d/CLAIM-407.md)**: no bearing. Its "orthogonal" is the
+  orthogonality of A's rows to other tasks' features, a third sense beside
+  [THEORY-112](../theory.d/THEORY-112.md)'s symmetry and OrthoMerge's rotations.
+
+## Connections
+
+- **Chaves et al. (2026), [LIT-tmpml2pq](../literature.d/LIT-tmpml2pq.md)**, which the exchange joins to this
+  paper, is data-free and about distribution shift; this paper is
+  data-conditioned and in distribution.
+- **SSR-Merge ([NOTE-tmpmpv2r](NOTE-tmpmpv2r.md))** controls the same term after fine-tuning,
+  by a least-squares router.
+- **Zhu (2026), [NOTE-tmpsyjfz](NOTE-tmpsyjfz.md)**, finds about 65–70% of the activation
+  cross-term's flux in LM merges is transport from earlier layers, which
+  a layer-local account leaves out.
+
+## Limitations
+
+- Mostly GLUE classification.
+- Gains shrink with model size and are inconsistent across merging
+  methods.
+- First-order and layer-local; nothing on propagation.
+- Needs the other tasks' data before fine-tuning, which does not fit
+  merging independently released LoRAs.
+- The appendices were not read.

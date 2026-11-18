@@ -1,0 +1,152 @@
+---
+status: Skimmed
+paper: 'LIT-tmp3d5f9'
+title: 'Márquez et al. — Angle multiplexing and Bragg selectivity in volume holography'
+version: 1
+history:
+- version: 1
+  date: '2026-11-15'
+  note: >-
+    Skimmed on 2026-11-15 from the Europe PMC REST API's full-text JATS XML
+    of the CC BY 4.0 article,
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11501936/fullTextXML,
+    converted to text by the reader. Route: europepmc.org showed a
+    Cloudflare challenge, PMC (pmc.ncbi.nlm.nih.gov) a reCAPTCHA, De
+    Gruyter (www.degruyter.com) an empty HTTP 202 and the University of
+    Alicante repository (rua.ua.es) a timeout; none was retried, and the
+    full text was then fetched from the REST API at www.ebi.ac.uk, a
+    different host and the documented machine route. The lead accepted the
+    route, and the owner confirmed it on 2026-11-17. ADR-tmpukj8n records the
+    rule, and this is its first application. Read: the abstract,
+    §1, §2.1 "Analog holography and general concepts", §2.2 "Holographic
+    recording media" and §2.3 "Holographic multiplexing in analog
+    holography", with Table 1 and the Fig. 2 caption. Skipped: §2.4 onward
+    (diffractive optical elements, metasurface holography, OAM
+    holography, fabrication, perspectives), off-topic for angle-multiplexed
+    volume storage. Skimmed rather than read because only those sections
+    were taken, from a review. The filer rechecked every quote below
+    against the XML; all were found, the van Heerden sentence in the XML
+    only, which the reader's section extract lacks.
+date: '2026-11-15'
+summary: >-
+  A review's account of volume holography and holographic data storage. In
+  a thick hologram, multi-plane diffraction makes reconstruction
+  Bragg-selective in the reading beam's angle or wavelength, so holograms
+  recorded in one volume and detuned beyond the selectivity range are
+  reconstructed one per reading beam, sharing the material's dynamic range.
+  Angle multiplexing is the most widespread storage method, with more than
+  1000 holograms; thick layers keep crosstalk down. No selectivity-width
+  formula is given. Stand-in for A's unidentified source.
+---
+<!-- inactive-ok-file: ADR-tmpukj8n — Proposed; the decision this reading's route first applies -->
+<!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
+
+# NOTE-tmpgrvfy: Márquez et al. — Angle multiplexing and Bragg selectivity in volume holography
+
+## Contribution
+
+A review running from volume holography with optically thick holograms to
+digital holography with ultrathin metasurfaces. The part read here is its
+account of analog volume holography: thin and thick regimes, Bragg
+selectivity, recording media and the multiplexing methods of holographic
+data storage (HDS), with the standard primary sources cited (Kogelnik's
+coupled-wave theory, Mok's 5000-hologram demonstration, van Heerden's
+density bound).
+
+## Key insight
+
+In a thick recording medium a reading beam crosses many fringe planes, and
+only a beam matching the recorded geometry diffracts constructively. So
+many holograms can share one volume and still be read one at a time, each
+by its own reference angle, as long as the angles are farther apart than
+the medium's selectivity range; thickness sets how sharp that selection is.
+
+## Assumptions
+
+- The review's summaries of the primary literature: Kogelnik's
+  coupled-wave theory for selectivity, the Born approximation for weak
+  multiplexed gratings.
+- Selective readout only when holograms are separated by more than the
+  Bragg selectivity range; in thin media Bragg selectivity is weak.
+
+## Key results
+
+- **Bragg selectivity** (§2.1): "In the case of volume holograms, the
+  multi-plane diffraction produced in the reconstruction step allows for
+  Bragg selectivity and as a result, the reconstruction is very sensitive
+  to the angle of incidence and/or the illumination wavelength: angle
+  selectivity can be greatly enhanced in the case of transmission
+  holograms".
+- **Independence** (§2.1): "If the holograms are angularly or in
+  wavelength detuned more than the Bragg selectivity range, then the
+  different holograms are reconstructed independently"; the dynamic range
+  of the material is shared between them.
+- **Weak gratings** (§2.1, on HDS): "typically the diffraction efficiency
+  and the index modulation for each hologram is very small and the Born
+  approximation can be used".
+- **Thickness against crosstalk** (§2.2): "to diminish crosstalk between
+  different channels/data pages, thick material layers are needed".
+- **Keyed readout** (§2.3): in Bragg-based methods "only one object/data
+  hologram is constructively generated for each specific reconstruction
+  beam".
+- **Angle multiplexing** (§2.3, Table 1): ">1000 holograms; in
+  transmission; most widespread; enables combination with peristrophic and
+  polytopic", citing Mok (1993) and another source.
+- **Density bound** (§2.3): van Heerden showed "the theoretical optical
+  storage density in a volume V of recording material is proportional to"
+  V/λ³, up to a terabit in 1 cm³ at λ = 1 µm.
+
+## Concepts
+
+Volume (thick) hologram; Klein–Cook Q; Bragg selectivity (angular,
+wavelength); angle, peristrophic, shift, phase-code and polytopic
+multiplexing; shared dynamic range; crosstalk; page-wise storage; the
+van Heerden V/λ³ bound.
+
+## Connections
+
+- **For A's unidentified source**: A cites an Optica paper and a doi.org
+  link on angle-multiplexed storage without titles. This review restates
+  what A attributes to them, superposition in one medium with readout by
+  reference angle, and Bragg selectivity from thickness. It does not give
+  the selectivity's width or its dependence on thickness, so it cannot
+  carry "quite sharp" quantitatively; and it is not either of A's sources.
+- **Plate (1995)**, [LIT-tmpq18t6](../literature.d/LIT-tmpq18t6.md): the same structure, many items
+  superposed in one medium and read by a key, with selectivity set by a
+  property of the medium (thickness here, dimension there) and crosstalk
+  growing with load. Readout differs: near-exact here within the
+  selectivity condition, always approximate in HRR without clean-up.
+
+## Bearing on the record
+
+- **A's characterization**: that angle multiplexing lets patterns "be
+  superposed in the same recording medium, with different reference-beam
+  angles selectively reconstructing different patterns" holds; that Bragg
+  selectivity in thick holograms makes the separation "quite sharp" holds
+  qualitatively and is not quantified here.
+- **[CLAIM-182](../claims.d/CLAIM-182.md)**: interpretive, the clearest physical case in the batch.
+  Pages superposed in one volume are each recovered by a reference angle,
+  an address external to the content, and are separable only when the
+  medium makes the keys selective. So a superposed store can be
+  addressable part by part, with addressability in the readout channel
+  rather than in where content sits. An analogy for the claim, not
+  evidence about records.
+- **[THEORY-272](../theory.d/THEORY-272.md) (Hopfield)**: a contrast. Hopfield retrieval is
+  content-addressed; angle-multiplexed HDS reads by reference angle, a key.
+  Correlation-based multiplexing, which is content-addressed, is in Table 1
+  and was not examined.
+- **[THEORY-1036](../theory.d/THEORY-1036.md)**: loose. Pages share a finite dynamic range, capacity
+  under superposition, but nothing is learned and the models differ.
+- **[TERM-064](../terms.d/TERM-064.md) (legibility)**: a page is legible only to a reader with the
+  right reference beam within the Bragg range, legibility set by the
+  observer's key.
+
+## Limitations
+
+- A review, skimmed in its holography-storage sections only; not a
+  primary source.
+- No quantitative angular-selectivity formula. Kogelnik (1969), Bell
+  Syst. Tech. J. 48:2909, is the primary source for it, and was neither
+  located nor read; nor was Mok (1993).
+- The text came through the Europe PMC REST API after four other hosts
+  stopped; the owner confirmed the route on 2026-11-17.

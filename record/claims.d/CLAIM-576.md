@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpisvzb
 title: 'What characterizes a constrained system is a repertoire of realizable processes, indexed by resources and dependent on its architecture, rather than its set or space of states, and the repertoire changes in three ways an equivalence between such systems must keep apart: a budget makes an existing transformation affordable, observational or computational capability makes an existing possibility discoverable or controllable, and a change of architecture alters which transformations are possible'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -19,6 +19,15 @@ history:
     and, with a fixed move rule, configurations and moves carry
     reachability. The title, thesis and defeater are unchanged. No
     other change.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added, from the readings of repeated sampling and RL
+    post-training: Brown et al. measure affordability and discoverability
+    apart (THEORY-tmpmapw3 corroborates the claim); Yue et al., Meng et al.
+    and Balasubramanian and Kasiviswanathan read RL as reweighting; ProRL is
+    the test of whether training ever does more, and does not settle it. The
+    architecture clause is not answered. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -150,3 +159,15 @@ needs.
 ## Note of 2026-11-07: a feature flag against a release, from "Individuation, Possibility, and Disposition"
 
 A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07): "A feature flag changes which existing behavior is operative. A new release can change which behaviors exist at all." That is this claim's distinction between selecting within a repertoire of realizable processes and an architecture change that alters the repertoire. A34 §10 adds that the possibility space is itself constructed. A does not cite this claim. No status changes.
+
+## Note of 2026-11-15: inference budgets, and RL post-training as the hard case
+
+<!-- inactive-ok-file: THEORY-tmpmapw3 CLAIM-tmps7g72 THEORY-tmp9rnyv THEORY-tmpr8g5y THEORY-tmppt44k THEORY-tmpxu3kz CLAIM-tmp36o5i — Proposed; the readings and claims filed 2026-11-15 from the continuation of "Explain String Theory", cited as cases and as open, nothing here rests on them -->
+
+Readings filed on 2026-11-15 give the claim machine-learning cases on each side of its distinction between a budget making an existing process affordable and a change making a new process possible.
+
+- **Repeated sampling.** Brown et al. ([THEORY-tmpmapw3](../theory.d/THEORY-tmpmapw3.md), which corroborates this claim) give two of the three ways measured apart. The number of samples is a budget that makes already-possible solutions affordable to reach: a frozen model's SWE-bench Lite coverage goes from 15.9% at one sample to 56% at 250. The gap between coverage and majority-vote or reward-model selection (98% against 41% on MATH) separates reaching a correct output from being able to identify it, which is discoverability. [CLAIM-tmps7g72](CLAIM-tmps7g72.md) adds that coverage is not delivery without a selector.
+- **RL post-training, the hard case.** Yue et al. ([THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md)) and Meng et al. ([THEORY-tmpr8g5y](../theory.d/THEORY-tmpr8g5y.md)) read RLVR as reweighting within what the base model already reaches, nearer affordability than a change of repertoire, while distillation lifts the boundary at every k. Balasubramanian and Kasiviswanathan ([THEORY-tmppt44k](../theory.d/THEORY-tmppt44k.md)) prove, in an idealization with disjoint support, that an exponential tilt of a fixed reference cannot create a mode: a formal case of a change that reweights without altering what is possible.
+- **The test.** ProRL ([THEORY-tmpxu3kz](../theory.d/THEORY-tmpxu3kz.md), [CLAIM-tmp36o5i](CLAIM-tmp36o5i.md)) reports new strategies under prolonged RL, with pass@k rising from zero on some tasks. It does not settle the matter, since "zero" is read at k ≤ 128 from a distilled start.
+
+The claim's question, whether a change makes a process possible or only cheaper, is here answered per training run, by matched-budget coverage. None of these readings is listed as corroborating the architecture clause: whether a change of weights is a change of architecture in this claim's sense is the claim's own question, and they do not answer it. No status change.
