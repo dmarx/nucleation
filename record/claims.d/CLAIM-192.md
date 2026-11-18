@@ -124,10 +124,10 @@ rate with the participants fixed ([CLAIM-186](CLAIM-186.md)), has not been run.
 
 ## Note of 2026-11-18: what holds it back
 
-Rechecked after CLAIM-177's revision of 2026-11-07, which corrected its
-summary and left its finding as it was, and CLAIM-186's of 2026-11-11, which
+Rechecked after [CLAIM-177](CLAIM-177.md)'s revision of 2026-11-07, which corrected its
+summary and left its finding as it was, and [CLAIM-186](CLAIM-186.md)'s of 2026-11-11, which
 dropped grounds and left the claim unchanged. Neither separates an
 unannounced move carried by restatement from the owner's own unrecorded
-change of mind, and the intervention CLAIM-186 proposes, changing the
+change of mind, and the intervention [CLAIM-186](CLAIM-186.md) proposes, changing the
 anchoring rate with the participants fixed, has still not been run. The
 second clause is still not shown.

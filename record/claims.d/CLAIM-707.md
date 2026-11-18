@@ -161,7 +161,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-708 CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-127 CLAIM-715 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CASE-261 — Proposed; a stipulated neighbour, cited with its standing -->
-<!-- inactive-ok-file: CLAIM-614 CLAIM-678 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-614 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 
 # CLAIM-707: An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
 

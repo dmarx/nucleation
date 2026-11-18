@@ -47,7 +47,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1835 THEORY-1840 THEORY-1849 THEORY-1864 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: TERM-012 TERM-006 — Deferred; the term this one rivals and the term that absorbed it, set aside with the authenticity line -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-511 SYNTHESIS-023 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-675 — filed from the same exchange, Proposed -->
 
 # TERM-122: cross-scale concordance, relative to declared parties, claims and horizon: of an encompassing organization's operation and development with the independently justified claims of those who constitute, sustain, depend on or are affected by it, together with the effective answerability of its governing arrangements to those claims; not alignment, harmony or Pareto improvement
 

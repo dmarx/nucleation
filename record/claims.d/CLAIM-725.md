@@ -56,7 +56,7 @@ summary: >-
   them from transformations to histories. The wording is A's; adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-289 CLAIM-738 CLAIM-741 CLAIM-745 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CASE-289 CLAIM-741 CLAIM-745 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-725: A demand's satisfaction condition does not carry its warrant: representing a requirement by the histories that satisfy it fixes what meets it, not its source, who bears it, to whom it is addressed or why it binds, so that the joint satisfiability of demands cannot certify that any deserves fulfilment, and an institution's maintained requirements cannot certify their own authority

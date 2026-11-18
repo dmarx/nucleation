@@ -129,8 +129,8 @@ owner's call.
 
 ## Note of 2026-11-18: what holds it back
 
-Its premise CLAIM-250 stays Proposed at this review, as a normative proposal
-not adopted. Beyond it, the claim has one instance, CASE-131, and no test
+Its premise [CLAIM-250](CLAIM-250.md) stays Proposed at this review, as a normative proposal
+not adopted. Beyond it, the claim has one instance, [CASE-131](../cases.d/CASE-131.md), and no test
 that tells a forced relation from an asserted one, which its body says the
 record can apply only where the history shows how a relation came to be
 written.

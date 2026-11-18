@@ -29,7 +29,7 @@ summary: >-
   it is filed as a question, not a claim. The loop is A's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-677 CLAIM-681 CLAIM-673 CLAIM-687 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-677 CLAIM-681 CLAIM-687 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # QUESTION-462: Can arrangements make gains in people's capabilities self-reinforcing, so that security, credible refusal, wider participation and more accountable institutions each raise the next and the dependency ratchet runs the other way, and if so past what threshold and on what continuing supply?
 

@@ -36,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-663 CLAIM-662 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-663 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
 <!-- inactive-ok-file: LIT-2451 LIT-2363 — Deferred; registered from the same exchange, unread -->
 

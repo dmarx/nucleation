@@ -109,7 +109,7 @@ integrates:
 - CLAIM-025
 - CLAIM-478
 ---
-<!-- inactive-ok-file: CASE-233 ARG-077 CLAIM-646 CASE-236 ARG-078 CLAIM-654 CASE-245 ARG-086 CLAIM-663 ARG-093 CASE-249 CLAIM-662 CLAIM-697 CLAIM-695 CLAIM-699 CASE-274 CASE-275 CLAIM-478 SYNTHESIS-096 ARG-072 CASE-198 CASE-204 CASE-205 CASE-207 CASE-208 CASE-214 CASE-215 CASE-219 CASE-220 CLAIM-573 CLAIM-576 CLAIM-611 SYNTHESIS-024 TERM-111 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-077 CLAIM-646 CASE-236 ARG-078 CLAIM-654 CASE-245 ARG-086 CLAIM-663 ARG-093 CASE-249 CLAIM-697 CLAIM-695 CLAIM-699 CASE-274 CASE-275 CLAIM-478 SYNTHESIS-096 ARG-072 CASE-198 CASE-204 CASE-205 CASE-207 CASE-208 CASE-214 CASE-215 CASE-219 CASE-220 CLAIM-573 CLAIM-576 CLAIM-611 SYNTHESIS-024 TERM-111 TERM-116 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-042: What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
 

@@ -119,9 +119,9 @@ compared.
 
 ## Note of 2026-11-18: what holds it back
 
-Re-read at the status review of 2026-11-18 because CLAIM-159, named in the
+Re-read at the status review of 2026-11-18 because [CLAIM-159](CLAIM-159.md), named in the
 notes above, was revised after the note of 2026-10-29. Its revision (version
 4, 2026-11-10) added distributed-agency as a line and changed nothing it
-says, so the wait is unchanged: QUESTION-056's comparison is unrun, and
+says, so the wait is unchanged: [QUESTION-056](../questions.d/QUESTION-056.md)'s comparison is unrun, and
 planning theory, control theory's regulation and institutional theory are
 still not set beside the account.

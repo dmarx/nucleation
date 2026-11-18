@@ -156,6 +156,6 @@ changes of thesis.
 
 Reviewed again. Its revisions since the note of 2026-10-29 (versions 3 to 5)
 are line bookkeeping and a bears_on edge. The general form still rests on
-one exchange (CLAIM-324), and the comparison its defeat condition names, a
+one exchange ([CLAIM-324](CLAIM-324.md)), and the comparison its defeat condition names, a
 draft written against the record checked beside one written straight from an
 exchange, has not been made.

@@ -114,5 +114,5 @@ exchange's drift from A2 to A14 is still not filed as a CASE, and A21 §7's
 study at matched budgets has not been run. The one instance in the body
 shows question drift corrected from outside, but not that the
 selection-and-reinforcement loop produced it rather than the pull toward the
-collaborator's framing that CLAIM-191 reads, and the title's mechanism needs
+collaborator's framing that [CLAIM-191](CLAIM-191.md) reads, and the title's mechanism needs
 the first.

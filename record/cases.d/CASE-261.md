@@ -55,7 +55,7 @@ summary: >-
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
-<!-- inactive-ok-file: CLAIM-686 TERM-122 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # CASE-261: A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers
 

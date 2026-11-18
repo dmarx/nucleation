@@ -41,7 +41,6 @@ summary: >-
   regions, and a proposed simulation that uses it. Not run. The wording is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-662 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed; the tolerance-indexed acceptance sets the construction uses -->
 
 # CASE-249: A tolerance-indexed pass rate for a set of demands, the probability that one of k sampled courses of action of at most T steps meets every demand in the set within its tolerance, with a simulated institution whose internal evaluator sees only the demands it has discovered and an independent evaluator sees them all

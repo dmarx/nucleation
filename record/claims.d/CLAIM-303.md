@@ -90,11 +90,11 @@ worth it. [CLAIM-182](CLAIM-182.md) is not touched: A11's null case, an argument
   statement as a proposed economic account of nucleation, not an
   established explanation of how this particular repository performs."
 - Not that recurrence is only evidence where reuse cannot be forecast.
-  There CLAIM-308's break-even rule, which files once the reconstruction
+  There [CLAIM-308](CLAIM-308.md)'s break-even rule, which files once the reconstruction
   overpaid so far would pass the cost of filing, is within
   2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses,
   and recurrence weighted by reconstruction cost is the criterion.
-  CLAIM-308's objection is conceded, and the title's last clause is
+  [CLAIM-308](CLAIM-308.md)'s objection is conceded, and the title's last clause is
   restricted to reuse that can be forecast.
 - Not that saved effort is better reasoning. A filed answer to an
   objection can be wrong, and can stop being right.

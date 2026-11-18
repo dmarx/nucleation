@@ -80,7 +80,6 @@ summary: >-
   decline", and the proposed study is [CASE-262](../cases.d/CASE-262.md). The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-676 — filed from the exchange's Convivial Modernity programme, Proposed -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-1847 THEORY-1839 THEORY-1848 THEORY-1863 THEORY-1856 THEORY-343 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-105 THEORY-1841 THEORY-1844 THEORY-1845 THEORY-1850 THEORY-1852 THEORY-1857 THEORY-1860 THEORY-1866 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->

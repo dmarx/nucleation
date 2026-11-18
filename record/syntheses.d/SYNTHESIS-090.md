@@ -73,7 +73,7 @@ summary: >-
   interaction between governance and modifiability, is [CLAIM-667](../claims.d/CLAIM-667.md).
   Proposed until the owner reviews the mapping.
 ---
-<!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-664 CLAIM-668 CLAIM-666 TERM-119 CASE-253 CASE-252 CASE-255 CASE-254 — filed from the exchange "luria experiment design", Proposed; components with their standing -->
+<!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-668 CLAIM-666 TERM-119 CASE-253 CASE-252 CASE-255 CASE-254 — filed from the exchange "luria experiment design", Proposed; components with their standing -->
 <!-- inactive-ok-file: CASE-194 — Proposed; a component with its standing -->
 
 # SYNTHESIS-090: How the record as an apparatus would be put to the test: whether governing schema change does work, whether a shared record moves distributed evidence into judgement, and whether a collective keeping one can improve its improver without losing correctability

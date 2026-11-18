@@ -55,7 +55,7 @@ summary: >-
   [CLAIM-624](CLAIM-624.md)'s answerability is what contestation is owed under. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-705 TERM-125 CLAIM-686 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-705 TERM-125 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; a claim this rests on -->
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-731 TERM-130 TERM-126 CLAIM-739 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->

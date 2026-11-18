@@ -188,8 +188,8 @@ differently anchored exchange to compare with the translation exchange.
 
 ## Note of 2026-11-18: what holds it back
 
-Rechecked after CASE-183's revision of 2026-11-07: inbound references per
+Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07: inbound references per
 code are now counted, turns per filed entry still are not. The test this
 claim's text names, turns per filed entry set against the drift the
 workbench records for each stretch, has not been run, there is still no slow
-or differently anchored exchange to compare, and ARG-028 is still Proposed.
+or differently anchored exchange to compare, and [ARG-028](../arguments.d/ARG-028.md) is still Proposed.

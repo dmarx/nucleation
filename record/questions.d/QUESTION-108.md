@@ -36,7 +36,6 @@ summary: >-
   rests on.
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 CLAIM-190 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-664 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: SYNTHESIS-015 — Deferred, Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: CASE-251 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1736 THEORY-1737 THEORY-1748 THEORY-1752 THEORY-1767 THEORY-1771 THEORY-1773 THEORY-1780 THEORY-1781 THEORY-1802 THEORY-1803 THEORY-1811 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

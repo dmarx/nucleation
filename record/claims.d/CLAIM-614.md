@@ -249,5 +249,5 @@ The body states the thesis as the owner's presupposition and gives no
 argument that reproducing the projections wrongs those affected beyond the
 harm's continuation, which is the defeat condition's first clause; it says
 itself that "the parts are on the record; the wrong is not". What the wrong
-is, and so whether it is distinct from the harm, is QUESTION-441, and A's
-answer, CLAIM-624, is Proposed.
+is, and so whether it is distinct from the harm, is [QUESTION-441](../questions.d/QUESTION-441.md), and A's
+answer, [CLAIM-624](CLAIM-624.md), is Proposed.

@@ -98,7 +98,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-038 THEORY-464 — Proposed; the line's account, and a citation -->
 <!-- inactive-ok-file: CLAIM-511 CLAIM-608 CLAIM-648 CLAIM-649 CLAIM-650 CASE-239 CASE-240 CASE-241 CASE-243 ARG-043 ARG-082 ARG-083 THEORY-220 THEORY-444 THEORY-1285 TERM-083 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-081 — Rejected; a component, with its standing -->
-<!-- inactive-ok-file: CLAIM-718 CLAIM-746 CLAIM-737 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open; components at version 3, and citations -->
+<!-- inactive-ok-file: CLAIM-746 CLAIM-737 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open; components at version 3, and citations -->
 <!-- inactive-ok-file: CASE-229 CASE-263 CASE-264 ARG-055 — Proposed; citations at version 3, with their standing -->
 <!-- inactive-ok-file: THEORY-1971 — a reading of 2026-11-18, Proposed; cited at version 4 as bearing on a component -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; a citation, with its standing -->

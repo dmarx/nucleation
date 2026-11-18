@@ -56,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1893 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1813 — Proposed, filed 2026-11-12 -->
-<!-- inactive-ok-file: CLAIM-652 CLAIM-662 — Proposed; the two routes, filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-652 — Proposed; the two routes, filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-624 — Proposed; the counter-corrective model and occlusion, from which the routes are distinguished -->
 
 # CLAIM-657: An organization can become normatively less informed without censoring anyone by two distinct routes, selective disappearance of the harmed from the population it observes and costly discovery that keeps it from investigating the questions that would reveal unmet obligations; neither needs deliberate suppression, and both differ from the counter-corrective weakening of the channels through which challenge succeeds, so that they should not be conflated in attributing responsibility

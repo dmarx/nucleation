@@ -25,7 +25,6 @@ summary: >-
   Mirror ([LIT-2591](../literature.d/LIT-2591.md)). Corroborates [CLAIM-675](../claims.d/CLAIM-675.md)'s premise
   first-hand, which Adewuyi's review ([THEORY-1857](THEORY-1857.md)) gave second-hand.
 ---
-<!-- inactive-ok-file: CLAIM-675 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: LIT-2599 until 2027-05-13 — Unfetched; the paper this one stands in for -->
 <!-- inactive-ok-file: LIT-2591 until 2027-05-13 — Unavailable; the book this paper partly stands in for -->
 <!-- inactive-ok-file: THEORY-1857 — Proposed; cited with its standing -->

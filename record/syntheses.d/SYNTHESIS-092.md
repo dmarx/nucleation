@@ -79,7 +79,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-100 SYNTHESIS-095 SYNTHESIS-093 — Proposed; the split of organizational-normativity and the new line's account, cited at version 2 -->
 <!-- inactive-ok-file: SYNTHESIS-038 — Proposed; the line's account -->
-<!-- inactive-ok-file: CASE-256 CASE-257 CASE-261 CASE-264 CLAIM-428 CLAIM-545 CLAIM-603 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-682 CLAIM-686 CLAIM-690 TERM-083 TERM-123 TERM-124 ARG-100 ARG-109 ARG-110 THEORY-1817 THEORY-1818 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CASE-256 CASE-257 CASE-261 CASE-264 CLAIM-428 CLAIM-545 CLAIM-603 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-682 CLAIM-690 TERM-083 TERM-123 TERM-124 ARG-100 ARG-109 ARG-110 THEORY-1817 THEORY-1818 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-099 — Rejected; a component, with its standing -->
 
 # SYNTHESIS-092: What a whole and its parts can owe and claim: the ground of an obligation is kept apart from its bearer, vulnerability and control from integration; control over the terms, not the magnitude of a dependence, is proposed to sort whether a whole's need of a part becomes the part's hold, exploitation and domination are defined relative to a declared standard, and a test is proposed for when dependence is presumptively domination by those who control it

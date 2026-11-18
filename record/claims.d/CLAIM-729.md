@@ -122,6 +122,6 @@ establish an institution, and between a community's reason to establish one
 and any member's duty to fund it, but gives no case separating a duty to
 comply with a justified rule from a duty to support the institution that
 administers it. Rawls's natural duty, which the corroborating reading
-THEORY-1977 cites, joins those two as one duty "to support and to comply
+[THEORY-1977](../theory.d/THEORY-1977.md) cites, joins those two as one duty "to support and to comply
 with just institutions that exist". Until a case or argument separates them,
 "none follows from another" is not carried for that pair.

@@ -106,9 +106,9 @@ The claim is unchanged.
 
 ## Note of 2026-11-18: what holds it back
 
-Rechecked after the revisions of CASE-086, CASE-090 and CLAIM-293 (line
-bookkeeping of 2026-11-07, and CLAIM-293's bears_on of 2026-11-11) and of
-CLAIM-295; none changes what they hold, and CLAIM-295 stays Proposed at this
+Rechecked after the revisions of [CASE-086](../cases.d/CASE-086.md), [CASE-090](../cases.d/CASE-090.md) and [CLAIM-293](CLAIM-293.md) (line
+bookkeeping of 2026-11-07, and [CLAIM-293](CLAIM-293.md)'s bears_on of 2026-11-11) and of
+[CLAIM-295](CLAIM-295.md); none changes what they hold, and [CLAIM-295](CLAIM-295.md) stays Proposed at this
 review. The body reports the interlocutor's proposal and shows that fidelity
 can be defined over justificatory relations while content changes; it does
 not argue that these, rather than some core of propositions, are what should

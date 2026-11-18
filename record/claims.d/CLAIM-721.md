@@ -61,7 +61,6 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: TERM-129 CLAIM-714 — filed from the same exchange, Proposed or new -->
-<!-- inactive-ok-file: CLAIM-673 CLAIM-675 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-721: Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation
 

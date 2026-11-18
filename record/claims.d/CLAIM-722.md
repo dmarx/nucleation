@@ -57,7 +57,7 @@ summary: >-
   the authority it does not give. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-716 CLAIM-734 CLAIM-743 CLAIM-748 CLAIM-720 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-734 CLAIM-743 CLAIM-748 CLAIM-720 — filed from the same exchange, Proposed or new -->
 
 # CLAIM-722: Succeeding in making a remedy unreachable gains a wrongdoer no normative power over what is owed: a claim still valid under the standard persists while the correctability of its fitting remedy falls to zero, and an acceptance or settlement reached under the conditions the violation created does not by that fact authorize the violation
 
