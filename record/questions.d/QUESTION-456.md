@@ -6,13 +6,6 @@ formerly:
 title: 'How can the set of demands an organization''s compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization''s own governance?'
 version: 3
 history:
-- version: 3
-  date: '2026-11-18'
-  note: >-
-    Repaired a garbled sentence in the note of 2026-11-12, which read
-    "checked by the filer: , failure mode 2": the entry's own code was dropped when the reader's
-    bullet was copied in. Found by the status review of 2026-11-18 beside
-    the same repair to CLAIM-627. No change of content.
 - version: 2
   date: '2026-11-17'
   note: >-
@@ -20,6 +13,13 @@ history:
     Abuse" separate the demands an institution recognizes from those
     warranted under its standard, with a guard against normative
     closure. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Repaired a garbled sentence in the note of 2026-11-12, which read
+    "checked by the filer: , failure mode 2": the entry's own code was dropped when the reader's
+    bullet was copied in. Found by the status review of 2026-11-18 beside
+    the same repair to CLAIM-627. No change of content.
 tags:
 - society-and-governance
 - epistemology

@@ -6,13 +6,6 @@ formerly:
 title: "When the effects of trauma reach descendants who did not live through it, by which route do they travel: germline epigenetics, the womb, parenting, or a group's narrative and identity; and on the identity route, does an ancestor's injury become part of the descendant's self?"
 version: 3
 history:
-- version: 3
-  date: '2026-11-18'
-  note: >-
-    Repaired a garbled sentence in the note of 2026-11-12, which read
-    "checked by the filer: , found in recheck": the entry's own code was dropped when the reader's
-    bullet was copied in. Found by the status review of 2026-11-18 beside
-    the same repair to CLAIM-627. No change of content.
 - version: 2
   date: '2026-11-11'
   note: >-
@@ -24,6 +17,13 @@ history:
     status review of the readings filed on 2026-11-11. A dated note of
     the same day points the question's opening germline examples to the
     note that corrects their labels.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Repaired a garbled sentence in the note of 2026-11-12, which read
+    "checked by the filer: , found in recheck": the entry's own code was dropped when the reader's
+    bullet was copied in. Found by the status review of 2026-11-18 beside
+    the same repair to CLAIM-627. No change of content.
 tags:
 - psychopathology-and-treatment
 - social-identity
