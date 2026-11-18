@@ -1,8 +1,8 @@
 ---
 number: 733
-status: Proposed
 formerly:
 - CLAIM-tmpixmhp
+status: Proposed
 title: "Blame supplies provenance: responsibility for a harmful act and responsibility for producing the incapacity through which it was done can come apart and attach to different actors, so blame traced upstream to those who formed or maintained an agent's incapacity grounds holding them accountable where the agent who acted is not culpable"
 version: 1
 role: thesis
@@ -46,6 +46,7 @@ summary: >-
   the bearing is A's. The idea is the owner's; the label and the
   development are A's.
 ---
+<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CASE-291 CLAIM-714 CLAIM-717 CLAIM-742 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-122 — Proposed; the record's nearest entries, cited with their standing -->

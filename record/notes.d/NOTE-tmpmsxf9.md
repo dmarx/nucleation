@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpbyne9'
+paper: 'LIT-2737'
 title: 'Szakonyi — Opposition rule under autocracy: Evidence from Russia'
 version: 1
 history:
@@ -28,7 +28,7 @@ summary: >-
   municipal filter, criminal charges against deputies, and in 2022
   blocked candidates and fraud.
 ---
-<!-- inactive-ok-file: CLAIM-tmpbqunx CLAIM-tmpm95mo CLAIM-tmpyo35b LIT-tmp5gzb1 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-724 CLAIM-736 CLAIM-748 LIT-2731 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpmsxf9: Szakonyi — Opposition rule under autocracy: Evidence from Russia
 
@@ -90,7 +90,7 @@ boycott; control against participation in institutions.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md)** (an independent opposition whose capacity to change
+- **[CLAIM-736](../claims.d/CLAIM-736.md)** (an independent opposition whose capacity to change
   the arrangement depends on another's control). Corroborates, in both
   directions the claim draws. An opposition inside autocratic
   institutions produced measurable change there (pp. 9–14), so inclusion
@@ -103,9 +103,9 @@ boycott; control against participation in institutions.
   author does not frame it so. That systemic opposition councils behaved
   like nonsystemic ones once governing (p. 15) bears on whether that
   distinction marks containment at all.
-- **[LIT-tmp5gzb1](../literature.d/LIT-tmp5gzb1.md)** (Semenov), unread, describes the same regime's control
+- **[LIT-2731](../literature.d/LIT-2731.md)** (Semenov), unread, describes the same regime's control
   of the organizational environment.
-- **[CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md)** and **[CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md)** may also use the finding of an
+- **[CLAIM-724](../claims.d/CLAIM-724.md)** and **[CLAIM-748](../claims.d/CLAIM-748.md)** may also use the finding of an
   access rule held by the regime.
 
 ## Verdict on the exchange's characterization

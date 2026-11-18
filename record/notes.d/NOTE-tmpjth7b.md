@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpgoyge'
+paper: 'LIT-2741'
 title: 'Scanlon — Contractualism and intuitionism'
 version: 1
 history:
@@ -27,7 +27,7 @@ summary: >-
   aggregation; and concedes that judgments of sufficiency and relevance are
   substantive, which "weakens the explanatory power of a reductive view".
 ---
-<!-- inactive-ok-file: CLAIM-tmpes6ef CLAIM-tmpyn6oi LIT-tmp06l3b — Proposed or Unavailable; the entries the reading bears on, and the book it revises -->
+<!-- inactive-ok-file: CLAIM-729 CLAIM-747 LIT-2721 — Proposed or Unavailable; the entries the reading bears on, and the book it revises -->
 
 # NOTE-tmpjth7b: Scanlon — Contractualism and intuitionism
 
@@ -96,7 +96,7 @@ interpretation; counterbalancing; relevance and the disabling of reasons.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpes6ef](../claims.d/CLAIM-tmpes6ef.md).** Scanlon separates the wrong of not complying with an
+- **[CLAIM-729](../claims.d/CLAIM-729.md).** Scanlon separates the wrong of not complying with an
   established, justified practice (p. 21) from the wrong of failing to do
   one's part in establishing a needed one (p. 22), and cites Rawls's duty,
   which separates supporting and complying with existing just institutions
@@ -105,18 +105,18 @@ interpretation; counterbalancing; relevance and the disabling of reasons.
   claim's bound without stating its terms of reachability. A102's "The
   latter may itself be morally problematic" understates him: he calls it
   wrong.
-- **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md).** Sufficiency and relevance depend on "the relation
+- **[QUESTION-483](../questions.d/QUESTION-483.md).** Sufficiency and relevance depend on "the relation
   we stand to one another and the decision that is at issue" (p. 54): a
   place where relations do work in Scanlon's own account. Powers and
   authority are not discussed.
-- **[QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md).** In the pond case, less burdensome arrangements
+- **[QUESTION-484](../questions.d/QUESTION-484.md).** In the pond case, less burdensome arrangements
   that could be established (a fence, a lifeguard) make reasonable the
   rejection of a principle permitting no steps toward them (p. 24): what
   could be established enters rejectability. Mistaken beliefs about
   feasibility are not discussed.
-- **[CLAIM-tmpyn6oi](../claims.d/CLAIM-tmpyn6oi.md).** Left open; nothing on baselines narrowed by the
+- **[CLAIM-747](../claims.d/CLAIM-747.md).** Left open; nothing on baselines narrowed by the
   governing party.
-- **[LIT-tmp06l3b](../literature.d/LIT-tmp06l3b.md).** First-hand evidence of what Scanlon now retracts from
+- **[LIT-2721](../literature.d/LIT-2721.md).** First-hand evidence of what Scanlon now retracts from
   the 1998 book.
 - The exchange's A100 and A102 are faithful; "significant problems" is A's
   for Scanlon's "some serious problems".

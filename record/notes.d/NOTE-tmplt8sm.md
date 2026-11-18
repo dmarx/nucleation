@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp1xupk'
+paper: 'LIT-2727'
 title: 'CLINIC v. Rubio — the 75-country immigrant-visa policy vacated'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   on it: eligibility determinations had been "ultimately irrelevant. The
   outcome is predetermined."
 ---
-<!-- inactive-ok-file: CLAIM-tmpw7pli CLAIM-tmpc7shc CASE-tmpoe934 — Proposed; the entries the reading bears on -->
+<!-- inactive-ok-file: CLAIM-745 CLAIM-725 CASE-289 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmplt8sm: CLINIC v. Rubio — the 75-country immigrant-visa policy vacated
 
@@ -94,7 +94,7 @@ rules; vacatur and remand.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpw7pli](../claims.d/CLAIM-tmpw7pli.md).** A documented specimen of the claim. The Cable directs
+- **[CLAIM-745](../claims.d/CLAIM-745.md).** A documented specimen of the claim. The Cable directs
   refusal even after the applicant's evidence "overcomes the public charge
   refusal", and the court finds eligibility determinations "ultimately
   irrelevant". The court found the individualized assessment not displaced
@@ -103,12 +103,12 @@ rules; vacatur and remand.
   considered". The "Orwellian logic" passage supports the claim's point
   that compliance does not establish authority. The opinion says nothing of
   moral justification, which the claim keeps separate.
-- **[CASE-tmpoe934](../cases.d/CASE-tmpoe934.md).** The opinion confirms the case's dates, judge,
+- **[CASE-289](../cases.d/CASE-289.md).** The opinion confirms the case's dates, judge,
   holdings and remedy, and the nationality-discrimination holding the case
   gives only as reported. It adds that the court rejected the public-charge
   argument and ruled for the Government on notice-and-comment, and it shows
   that the Cable ordered refusal, not only a pause.
-- **[CLAIM-tmpc7shc](../claims.d/CLAIM-tmpc7shc.md).** The court's rejection of officer-entered refusals as
+- **[CLAIM-725](../claims.d/CLAIM-725.md).** The court's rejection of officer-entered refusals as
   preserved discretion bears on it.
 - The exchange's A108 is faithful on the remedy and omits the nationality
   and § 1201(g) holdings and the rejected public-charge argument.

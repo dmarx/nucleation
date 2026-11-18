@@ -12,11 +12,11 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpq8ob0
+- LIT-2753
 bears_on:
 - QUESTION-386
 summary: >-
-  Holmström & Milgrom (1991), [LIT-tmpq8ob0](../literature.d/LIT-tmpq8ob0.md), read in [NOTE-tmpuyt9q](../notes.d/NOTE-tmpuyt9q.md). It
+  Holmström & Milgrom (1991), [LIT-2753](../literature.d/LIT-2753.md), read in [NOTE-tmpuyt9q](../notes.d/NOTE-tmpuyt9q.md). It
   bears on [QUESTION-386](../questions.d/QUESTION-386.md) by supplying the mechanism (strong pay on a
   measured output neglects an unmeasured asset) without answering it for
   organizations' budget rules. The wording is the reader's; adopting it
@@ -25,7 +25,7 @@ summary: >-
 
 # THEORY-tmpnvvl4: When an agent divides attention among tasks measured with different precision, incentive pay on the measurable tasks draws effort from the unmeasured ones, so the best incentive for any task falls with the difficulty of measuring the others and can be a fixed wage, with asset ownership, limits on activities and job design acting as substitute instruments
 
-Holmström & Milgrom (1991), [LIT-tmpq8ob0](../literature.d/LIT-tmpq8ob0.md).
+Holmström & Milgrom (1991), [LIT-2753](../literature.d/LIT-2753.md).
 
 ## The model
 

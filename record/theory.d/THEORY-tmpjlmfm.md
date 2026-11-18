@@ -16,14 +16,14 @@ date: '2026-11-18'
 source:
 - LIT-tmp1px3j
 bears_on:
-- QUESTION-tmp2t6ve
+- QUESTION-476
 summary: >-
   Shoemaker (2019), [LIT-tmp1px3j](../literature.d/LIT-tmp1px3j.md), read in part in [NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), as the
   read neighbour of Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md)). It bears on
-  [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md): one kind of blame can be withheld while another is
+  [QUESTION-476](../questions.d/QUESTION-476.md): one kind of blame can be withheld while another is
   kept. The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp4zjar — Proposed; the term whose sense this is not -->
+<!-- inactive-ok-file: TERM-126 — Proposed; the term whose sense this is not -->
 <!-- inactive-ok-file: LIT-tmpxsadz — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: NOTE-tmpfi3s5 — Skimmed or Open; the reading and the question it bears on -->
 
@@ -45,6 +45,6 @@ so open to protest, but not accountable, so not to anger (p. 915).
 
 - **The 2011 arguments.** This is the later form.
 - **Answerability in the record's directed sense.** Shoemaker's is a
-  capacity of the agent, not an answer owed to a party ([TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md)).
+  capacity of the agent, not an answer owed to a party ([TERM-126](../terms.d/TERM-126.md)).
 - **That blameless practice is possible for persons.** The model is built
   for agents that lack the capacities anger needs.

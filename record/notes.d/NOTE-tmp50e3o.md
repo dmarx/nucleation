@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmp0l030
+paper: LIT-2724
 title: 'Eggert — Dirty Hands Defended'
 version: 1
 history:

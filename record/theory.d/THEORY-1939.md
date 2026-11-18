@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2024). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-707; bears_on QUESTION-tmpvoufs.
+    carried over: corroborates CLAIM-707; bears_on QUESTION-487.
     Its title was: "Meaningful human control over an autonomous system,
     on Santoni de Sio and van den Hoven's account, requires that the
     system track the human moral reasons and facts relevant in the
@@ -34,7 +34,7 @@ promote_when: >-
 source:
 - LIT-2705
 bears_on:
-- QUESTION-tmpvoufs
+- QUESTION-487
 corroborates:
 - CLAIM-708
 - CLAIM-707
@@ -65,7 +65,7 @@ part of [CLAIM-707](../claims.d/CLAIM-707.md), which does not rest on it: presen
 designers have "an obligation to design the system in such a way that this
 type of inquiry by users is not made impossible or unduly difficult"
 (p. 9), and responsibility "may trace back to other agents upstream" when
-the operator's conditions fail. It bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md): duties
+the operator's conditions fail. It bears on [QUESTION-487](../questions.d/QUESTION-487.md): duties
 run both ways, but no instrument is named by which agents hold principals
 to account. One limit:
 

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpjy1vu'
+paper: 'LIT-2745'
 title: 'Grossman and Hart — The Costs and Benefits of Ownership'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   investment matters much more. Renegotiation always reaches an efficient
   outcome; the cost of the allocation falls on investment beforehand.
 ---
-<!-- inactive-ok-file: CASE-tmpm0rpn CLAIM-670 CLAIM-tmp3t16f CLAIM-tmpdic1g CLAIM-tmpt091d — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-288 CLAIM-670 CLAIM-716 CLAIM-728 CLAIM-744 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmprnwux: Grossman and Hart — The Costs and Benefits of Ownership
 
@@ -98,7 +98,7 @@ under-investment; residual rights over actions (employer and contractor).
 
 ## Bearing on the record
 
-- **[CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md)** (the holder of residual control decides the
+- **[CLAIM-728](../claims.d/CLAIM-728.md)** (the holder of residual control decides the
   contingencies the contract did not cover; the discretion is exercised
   and seen only when one arises). Supports the first clause directly: the
   residual right is the right over what "have not been explicitly given
@@ -112,12 +112,12 @@ under-investment; residual rights over actions (employer and contractor).
   through anticipation, not only when the contingency comes. The claim's
   own "What it does not say" (their question is efficiency, the normative
   reading is A's) is accurate.
-- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)** (complements). A deferred reward whose delivery the
+- **[CLAIM-744](../claims.d/CLAIM-744.md)** (complements). A deferred reward whose delivery the
   terms leave open is a residual right in this sense; the paper does not
   discuss such cases.
-- **[CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)** (arm B's unilateral authority over future
+- **[CASE-288](../cases.d/CASE-288.md)** (arm B's unilateral authority over future
   expectations) is near §V's employer discretion.
-- **[CLAIM-670](../claims.d/CLAIM-670.md)** and **[CLAIM-tmp3t16f](../claims.d/CLAIM-tmp3t16f.md)** use this work's concept of hold-up.
+- **[CLAIM-670](../claims.d/CLAIM-670.md)** and **[CLAIM-716](../claims.d/CLAIM-716.md)** use this work's concept of hold-up.
 
 ## Verdict on the exchange's characterization
 

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmppz1jz'
+paper: 'LIT-2752'
 title: 'Watts, Duncan and Quan — Revisiting the Marshmallow Test'
 version: 1
 history:
@@ -32,7 +32,7 @@ summary: >-
   no association even without controls. The task may capture something
   other than self-control.
 ---
-<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-281 CLAIM-744 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmp7xmfu: Watts, Duncan and Quan — Revisiting the Marshmallow Test
 
@@ -88,11 +88,11 @@ framing.
 
 ## Bearing on the record
 
-- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)**. Confirms what the case says it cannot show, "That
+- **[CASE-281](../cases.d/CASE-281.md)**. Confirms what the case says it cannot show, "That
   waiting predicts later life": the prediction is modest and largely
   explained by background. The paper does not test the reliability
   reading; it cites Kidd et al. only among factors affecting delay.
-- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)**. Indirect: if wait-time is largely a marker of
+- **[CLAIM-744](../claims.d/CLAIM-744.md)**. Indirect: if wait-time is largely a marker of
   background, an environment's reliability is one consistent explanation,
   but trust is not measured here. Not filed as a relation.
 

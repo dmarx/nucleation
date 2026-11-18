@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp9jkuf'
+paper: 'LIT-2733'
 title: 'The Virginia Declaration of Rights'
 version: 1
 history:
@@ -23,7 +23,7 @@ summary: >-
   indefeasible right to reform, alter, or abolish it" (§3). Rotation of
   office, elections, consent to taxation, jury and free exercise follow.
 ---
-<!-- inactive-ok-file: CLAIM-tmp6vck6 CLAIM-tmpnhesz — Proposed; the claims the reading bears on -->
+<!-- inactive-ok-file: CLAIM-720 CLAIM-739 — Proposed; the claims the reading bears on -->
 
 # NOTE-tmpbs36k: The Virginia Declaration of Rights
 
@@ -67,14 +67,14 @@ representatives.
 
 ## Bearing on the record
 
-- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** §3 answers "who" with a majority and gives a
+- **[QUESTION-481](../questions.d/QUESTION-481.md).** §3 answers "who" with a majority and gives a
   trigger, a government "found inadequate or contrary to these purposes".
   §1's limit on compacts is a protection placed beyond revision, but it
   binds compacts, not majorities as such.
-- **[QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md).** §2 grounds amenability in the source of power,
-  which is the ground of entrusted authority [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md) lists; §5 adds
+- **[QUESTION-480](../questions.d/QUESTION-480.md).** §2 grounds amenability in the source of power,
+  which is the ground of entrusted authority [CLAIM-739](../claims.d/CLAIM-739.md) lists; §5 adds
   an institutional means, rotation.
-- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** §1's limit is on alienating others' (posterity's)
+- **[CLAIM-720](../claims.d/CLAIM-720.md).** §1's limit is on alienating others' (posterity's)
   rights by compact, not one's own; the document uses "inalienable" only
   for the majority's right to reform government (§3).
 - The exchange's A85 is faithful in substance; the text's word is

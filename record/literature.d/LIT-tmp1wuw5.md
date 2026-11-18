@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   read in full 2026-11-17 ([NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md)) from the accepted manuscript in
   White Rose Research Online, as the read neighbour of Darwall (2006),
-  [LIT-tmpr2bbq](LIT-tmpr2bbq.md), which could not be read; worth reading here for its
+  [LIT-2756](LIT-2756.md), which could not be read; worth reading here for its
   sketch of the second-personal account of obligation, its report of
   Darwall's argument against Raz that better guidance does not make
   authority, and its own objection from obligations to aid.
@@ -14,7 +14,7 @@ history:
   date: '2026-11-18'
   note: >-
     Registered as a stand-in for Darwall, The Second-Person Standpoint
-    (2006), LIT-tmpr2bbq, registered from the exchange "Assess Depp Heard
+    (2006), LIT-2756, registered from the exchange "Assess Depp Heard
     Abuse". Not held before: record/ was searched for the title and for
     Stern as first author. Citation checked against Crossref (no mailto):
     Robert Stern, European Journal of Philosophy 22(2): 321–333,
@@ -51,11 +51,11 @@ summary: >-
   without any second-personal demand, so wronging, or Razian exclusionary
   reasons, may make obligation without Darwall's "spectral 'moral
   community' of demanders". Registered as the read neighbour of Darwall
-  2006, [LIT-tmpr2bbq](LIT-tmpr2bbq.md). It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md) and corroborates part
-  of [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md).
+  2006, [LIT-2756](LIT-2756.md). It bears on [QUESTION-480](../questions.d/QUESTION-480.md) and corroborates part
+  of [CLAIM-738](../claims.d/CLAIM-738.md).
 ---
-<!-- inactive-ok-file: LIT-tmpr2bbq — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpnb4v4 — new, Open or Proposed; this work's reading and the entries it bears on -->
+<!-- inactive-ok-file: LIT-2756 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-738 — new, Open or Proposed; this work's reading and the entries it bears on -->
 
 # LIT-tmp1wuw5: Darwall on Second-Personal Ethics
 
@@ -79,7 +79,7 @@ Stern, R. (2014). Darwall on Second-Personal Ethics. *European Journal of Philos
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Darwall (2006),
-[LIT-tmpr2bbq](LIT-tmpr2bbq.md), which A cites at A83 for why someone can be owed an answer
+[LIT-2756](LIT-2756.md), which A cites at A83 for why someone can be owed an answer
 and why better results from deference do not make authority. A critic's
 review: its sketch of the 2006 thesis is short, and most of its detail,
 including the argument against Raz, is from the 2013 essays.

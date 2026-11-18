@@ -272,7 +272,7 @@ A13 §10 adds that the most conscientious bear most. Held as
 
 A17's close asks the reverse of principal–agent theory: "*How can agents
 hold principals accountable for the conditions under which agents are
-required to act?*" Filed as [QUESTION-tmpvoufs](QUESTION-tmpvoufs.md), which refines this one to
+required to act?*" Filed as [QUESTION-487](QUESTION-487.md), which refines this one to
 the instruments by which indispensable contributions could become
 effective claims.
 

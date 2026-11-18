@@ -12,19 +12,19 @@ tags:
 - motivation
 date: '2026-11-18'
 source:
-- LIT-tmppz1jz
+- LIT-2752
 summary: >-
-  Watts, Duncan & Quan (2018), [LIT-tmppz1jz](../literature.d/LIT-tmppz1jz.md), read from the authors'
+  Watts, Duncan & Quan (2018), [LIT-2752](../literature.d/LIT-2752.md), read from the authors'
   manuscript in [NOTE-tmp7xmfu](../notes.d/NOTE-tmp7xmfu.md): an observational analysis of the NICHD
-  SECCYD cohort. It confirms what [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) says it cannot show, that
+  SECCYD cohort. It confirms what [CASE-281](../cases.d/CASE-281.md) says it cannot show, that
   waiting predicts later life; it does not test the reliability reading.
   The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp07hx9 — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-281 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # THEORY-tmpprcs1: In a larger and more diverse sample than the original studies, preschool marshmallow-test wait-time predicts adolescent achievement only modestly, and the association is largely explained by family background, the early home environment and concurrent cognitive and behavioral measures
 
-Watts, Duncan & Quan (2018), [LIT-tmppz1jz](../literature.d/LIT-tmppz1jz.md).
+Watts, Duncan & Quan (2018), [LIT-2752](../literature.d/LIT-2752.md).
 
 ## The analysis
 

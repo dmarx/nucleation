@@ -1,10 +1,17 @@
 ---
 number: 729
-status: Proposed
 formerly:
 - CLAIM-tmpes6ef
+status: Proposed
 title: "The duties to comply with a justified rule, to support a justified institution and to help establish a needed one are distinct and none follows from another, and the third is bounded by whether the needed arrangement can be reached from the present one by permissible, resource-bounded transitions and by whose part it is to contribute"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Scanlon's "Contractualism and Intuitionism" read; it corroborates
+    the separation of complying from helping establish, and is
+    stronger than A102 reports.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,3 +109,8 @@ owed meanwhile are all open.
   include contributing" open, and so does the claim.
 - Not what Scanlon says beyond A's report. The paper is not read on the
   record; A's report is taken as A's.
+
+## Note of 2026-11-17: Scanlon, Contractualism and Intuitionism, read
+<!-- inactive-ok-file: THEORY-tmplw93g — new reading and theory of 2026-11-18, Proposed -->
+
+Scanlon 2025, "Contractualism and Intuitionism", read ([NOTE-tmpjth7b](../notes.d/NOTE-tmpjth7b.md), [THEORY-tmplw93g](../theory.d/THEORY-tmplw93g.md)): the paper the claim says "is not read on the record" now is, and it corroborates the claim, which rests on [CLAIM-560](CLAIM-560.md) and not on it. Scanlon separates the wrong of not complying with an established, needed practice, "it is wrong not to comply with that practice" (p. 21), from the case where a needed norm is missing: "Cases in which such norms are needed but have not been established are importantly different. What is wrong in these cases is not, or not just, failing to do what a norm would require but also failing to do one's part in getting such a norm established" (p. 22). He cites Rawls's natural duty, which itself separates the duty "to support and to comply with just institutions that exist" from the duty "to further just arrangements not yet established, at least when this can be done without too much cost to ourselves" (n. 41): the claim's three duties are there, with a cost bound on the third. The third duty "does not specify what needs to be done or at what cost" (n. 41) and does not "legislate" which norm (p. 23), which fits the claim's bound but does not state its reachability terms or "whose part it is". A's report quoted in the claim, "The latter may itself be morally problematic", understates Scanlon, who calls it wrong; the claim's own caution ("not that it holds") is unaffected. No status changes.

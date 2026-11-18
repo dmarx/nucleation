@@ -19,13 +19,13 @@ source:
 corroborates:
 - CLAIM-707
 bears_on:
-- QUESTION-tmpvoufs
+- QUESTION-487
 summary: >-
   Tronto (2014), slides, [LIT-tmptq6ih](../literature.d/LIT-tmptq6ih.md), read in full in [NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md), as a
   read neighbour of Caring Democracy ([LIT-2669](../literature.d/LIT-2669.md), Unavailable). Exemption
   and exclusion corroborate the upstream half of [CLAIM-707](../claims.d/CLAIM-707.md), which does
   not rest on them: parties with standing shed care obligations onto
-  others. Equal voice in the allocating bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md). The
+  others. Equal voice in the allocating bears on [QUESTION-487](../questions.d/QUESTION-487.md). The
   wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-2669 CLAIM-707 — Unavailable, Proposed or new; the work this stands in for, the slides and their reading, and the entries it bears on -->

@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2018). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-tmpgh3v2, CLAIM-tmp238zy. Its title
+    carried over: corroborates CLAIM-730, CLAIM-715. Its title
     was: "Banks' agentic A.I. should be governed by intent-anchored
     accountability: an agent acts only for an approved business intent
     within delegated authority, accountability stays with identified
@@ -38,12 +38,12 @@ source:
 corroborates:
 - CLAIM-706
 - CLAIM-705
-- CLAIM-tmpgh3v2
-- CLAIM-tmp238zy
+- CLAIM-730
+- CLAIM-715
 bears_on:
 - QUESTION-471
 ---
-<!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-tmpgh3v2 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-715 CLAIM-730 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpoi5oo — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-705 CLAIM-711 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1931: The Hong Kong Monetary Authority proposes that agentic AI in banking be governed by authority defined in advance and technically enforced, with human oversight counted only where it is effective: a formal approval step is not oversight when the volume or velocity of actions outruns review, intervention must be designed around detection, decision and stopping time so that it comes before harm becomes irreversible, and where oversight cannot keep pace the agent's authority, scope or velocity should be reduced
@@ -92,8 +92,8 @@ The second reading states the same proposal from its organizing principle,
 approved business intent within delegated authority, and accountability
 stays with identified owners and "cannot be passed to customers" (p. 27).
 It adds two relations, to claims that do not rest on it: it corroborates
-[CLAIM-tmpgh3v2](../claims.d/CLAIM-tmpgh3v2.md) (a slow governing level over a fast process) and
-[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md) (scrutiny differs from authority to act on it). One limit:
+[CLAIM-730](../claims.d/CLAIM-730.md) (a slow governing level over a fast process) and
+[CLAIM-715](../claims.d/CLAIM-715.md) (scrutiny differs from authority to act on it). One limit:
 
 - **A right of the affected to suspend.** Customers may request review;
   interruption stays with the bank.

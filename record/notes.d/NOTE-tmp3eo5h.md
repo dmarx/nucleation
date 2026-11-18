@@ -1,6 +1,6 @@
 ---
 status: Skimmed
-paper: 'LIT-tmpbk8gi'
+paper: 'LIT-2736'
 title: 'Mostrous and Greenwood — Who Trolled Amber?'
 version: 1
 history:
@@ -33,7 +33,7 @@ summary: >-
   publisher's wording is hedged ("suggests", "In Chen's opinion"); the
   methods are not given on the pages read.
 ---
-<!-- inactive-ok-file: CLAIM-415 CLAIM-tmpciy9q — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-415 CLAIM-726 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmp3eo5h: Mostrous and Greenwood — Who Trolled Amber?
 
@@ -73,7 +73,7 @@ have been partly produced by inauthentic accounts.
   jeopardised her right to a fair trial."
 - **The UK trial**: "Depp lost a UK trial in 2020 on similar charges. That
   trial found, on the balance of probability, that he had abused Heard on
-  12 occasions." This agrees with the judgment as read ([LIT-tmpqju5l](../literature.d/LIT-tmpqju5l.md),
+  12 occasions." This agrees with the judgment as read ([LIT-2754](../literature.d/LIT-2754.md),
   para 575).
 - **Series page**: "What if the online hate against her was manufactured?"
 
@@ -84,7 +84,7 @@ flies"; manufactured online hate.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)** (a party arranges another's wrong and uses the true
+- **[CLAIM-726](../claims.d/CLAIM-726.md)** (a party arranges another's wrong and uses the true
   accusation before an audience whose judgement it anticipated). Weakly
   related, not filed as a relation: Tortoise reports evidence that the
   audience's apparent judgement was partly produced by inauthentic

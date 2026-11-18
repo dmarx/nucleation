@@ -221,7 +221,7 @@ read an absence of conflict as an absence of signal.
 A47 §4 cites this claim for "observed acquiescence does not establish dispositional agreement", which is its "a perspective that does not intervene has not thereby endorsed". A47 drops the legibility factor ("the chance that the discrepancy is legible") and adds a stage of granted authority, which is [CLAIM-283](CLAIM-283.md)'s, not this claim's. No change.
 
 ## Note of 2026-11-17: silence under volume, the reversed default, and a proposed study, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CASE-tmpohiyo — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CASE-290 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A23 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15) states this
 claim's last clause for automated review, without citing it: a clinician
@@ -245,6 +245,6 @@ consent**", and A33 §6 proposes measuring acceptance, recognized
 discrepancy, motivation, access to protected channels and efficacy apart
 when complaints fall, which are this claim's factors made measurable. A
 says the pathology "is not a theorem supplied by the repository". The
-study is filed as [CASE-tmpohiyo](../cases.d/CASE-tmpohiyo.md).
+study is filed as [CASE-290](../cases.d/CASE-290.md).
 
 No status changes.

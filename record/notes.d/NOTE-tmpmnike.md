@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp1xdz8'
+paper: 'LIT-2726'
 title: 'The Ninth Amendment'
 version: 1
 history:
@@ -21,7 +21,7 @@ summary: >-
   are "retained", held before the enumeration, but the amendment names none
   and gives no way to identify them.
 ---
-<!-- inactive-ok-file: CLAIM-tmpcpijj — Proposed; a claim the reading bears on -->
+<!-- inactive-ok-file: CLAIM-727 — Proposed; a claim the reading bears on -->
 
 # NOTE-tmpmnike: The Ninth Amendment
 
@@ -50,14 +50,14 @@ term, not the text's).
 
 ## Bearing on the record
 
-- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** "retained by the people" treats some rights as
+- **[QUESTION-486](../questions.d/QUESTION-486.md).** "retained by the people" treats some rights as
   existing apart from their enumeration, the question's premise; but the
   amendment blocks an inference and supplies no criteria for what those
   rights are.
 - **[QUESTION-456](../questions.d/QUESTION-456.md).** The record's separation of recognized from justified
   demands, made "after the Ninth Amendment", has the amendment's form: a
   recognized set does not exhaust the justified set.
-- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).** Authority to administer a catalogue of rights is not
+- **[CLAIM-727](../claims.d/CLAIM-727.md).** Authority to administer a catalogue of rights is not
   authority over its completeness: the same parallel.
 - The exchange's A85 is faithful.
 

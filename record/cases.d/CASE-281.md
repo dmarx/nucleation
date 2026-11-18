@@ -1,10 +1,18 @@
 ---
 number: 281
-status: Proposed
 formerly:
 - CASE-tmp07hx9
+status: Proposed
 title: 'The marshmallow task under a reliable and an unreliable experimenter: children who had seen an adult break a promise waited about a quarter as long, so the same refusal to wait can be impulsivity or sound judgment about the adult, and the same waiting can be self-government or obedience'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Kidd, Palmeri and Aslin, Mischel, Ebbesen and Zeiss, Watts, Duncan
+    and Quan, and Sperber and colleagues read; A's figures check, the
+    attentional arm is corrected, and 'Anything until read' can be
+    narrowed.
 standing: documented
 kind: reported-study
 tags:
@@ -117,3 +125,8 @@ model of the decision under uncertainty."
   gratification as the mark of a more agential whole. A51 §7 qualifies
   it: "it's important not to equate the later outcome with the better one
   automatically."
+
+## Note of 2026-11-17: The four marshmallow studies, read
+<!-- inactive-ok-file: THEORY-tmpca37k THEORY-tmpqy5fx THEORY-tmpprcs1 THEORY-tmpvouab — new theories of 2026-11-18 and the claim, Proposed -->
+
+Kidd, Palmeri and Aslin 2013 ([NOTE-tmp301qd](../notes.d/NOTE-tmp301qd.md), [THEORY-tmpca37k](../theory.d/THEORY-tmpca37k.md)), Mischel, Ebbesen and Zeiss 1972 ([NOTE-tmpxyktj](../notes.d/NOTE-tmpxyktj.md), [THEORY-tmpqy5fx](../theory.d/THEORY-tmpqy5fx.md)), Watts, Duncan and Quan 2018 ([NOTE-tmp7xmfu](../notes.d/NOTE-tmp7xmfu.md), [THEORY-tmpprcs1](../theory.d/THEORY-tmpprcs1.md)) and Sperber, Vandell, Duncan and Watts 2024 ([NOTE-tmpxzmdi](../notes.d/NOTE-tmpxzmdi.md), [THEORY-tmpvouab](../theory.d/THEORY-tmpvouab.md)), all read. (1) The reliability arm checks: N = 28, 14 per condition; mean waits "3 min and 2 s (M = 181.57 s)" and "12 min and 2 s (M = 722.43 s)" (§3); the paper's §4 gives "12.03 min" and "3.02 min", so A's 3.03 is the closer rounding of 181.57 s; the ratio is 0.25. A's caption matches the authors' framing, with their caveat that self-control is not shown irrelevant. The first "What it cannot show" bullet, "Anything until read", can be narrowed to the sample: 28 children of one age band, one lab, a 15-minute cap, no bell signal. (2) The attentional arm: the paper is the one the case names, but the attention was redirected by the experimenters (a toy, "think fun"), not by the children, who "chose the place to cover quite randomly before commencing their voluntary delay"; that strengthens the case's "depended partly on how the situation was organized", and the paper adds that the transformations "do not erase or undo the role of the reward contingencies". (3) "That waiting predicts later life": both follow-ups now read, the first finding the association "reduced by two-thirds" with background controls, the second that "Marshmallow Test performance was not strongly predictive of adult achievement, health, or behavior" at 26; the bullet's "Neither is read here" is out of date. The case's `reported_in` may name [LIT-2730](../literature.d/LIT-2730.md) and [LIT-2734](../literature.d/LIT-2734.md), and its standing may move once the owner adopts it. No status changes.

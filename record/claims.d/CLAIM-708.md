@@ -68,7 +68,7 @@ history:
     the title; A9 §4's non-zero-sum salesperson case and gradient; A9 §9's
     repair; A9 §5 and §8's limits; the neighbours CASE-151, CLAIM-671 and
     QUESTION-449, with bears_on QUESTION-449; the use of the continuation's
-    TERM-tmp8pnnr; and a second branch of the defeater. The title was:
+    TERM-127; and a second branch of the defeater. The title was:
     Responsibility for one's own conduct and responsibility for the
     conditions under which another acts are distinct and can both hold of
     one outcome: a party who wrongfully structures another's circumstances
@@ -116,7 +116,7 @@ bears_on:
 - QUESTION-070
 - QUESTION-449
 uses:
-- TERM-tmp8pnnr
+- TERM-127
 summary: >-
   A's, from A7 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15):
   "People are responsible for their conduct, but they can also be
@@ -135,7 +135,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1919 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2246 — Deferred; Young, unread -->
 <!-- inactive-ok-file: CLAIM-709 — filed with this claim, Proposed -->
-<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: TERM-127 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CLAIM-671 — Proposed; a neighbour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-445 THEORY-147 — Proposed; the neighbours, cited with their standing -->
 
@@ -245,7 +245,7 @@ accepted philosophical taxonomy". Three further parts:
 - [CLAIM-671](CLAIM-671.md) strengthens a responsible agent's obligations where a
   transformation increases another's vulnerability to it; this claim names
   the wrong of using such vulnerability to produce wrongdoing.
-- The senses of responsibility kept apart are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s. The
+- The senses of responsibility kept apart are [TERM-127](../terms.d/TERM-127.md)'s. The
   continuation's filing read [CLAIM-624](CLAIM-624.md)'s "second-order" as a duty about
   keeping violations correctable rather than a wrong of producing another's
   wrong; on either reading [CLAIM-624](CLAIM-624.md) is not this claim restated.
@@ -401,9 +401,9 @@ the claim's factual premise, not its normative conclusion. Relation: none on the
 drawn from the report would be a fair specimen, if the owner wants one.
 
 ## Note of 2026-11-17: Strawson, Watson through King, and Miller through Shaw-Young, read: qualifications at the actor's end
-<!-- inactive-ok-file: THEORY-tmpjhphq THEORY-tmptax6l NOTE-tmps8s9k THEORY-tmp3xr2l LIT-2718 LIT-tmpqsyr9 — new or Unavailable; the readings filed on 2026-11-18 and the unread works two of them stand in for -->
+<!-- inactive-ok-file: THEORY-tmpjhphq THEORY-tmptax6l NOTE-tmps8s9k THEORY-tmp3xr2l LIT-2718 LIT-2755 — new or Unavailable; the readings filed on 2026-11-18 and the unread works two of them stand in for -->
 
-Strawson 1962, read ([NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md), [THEORY-tmpjhphq](../theory.d/THEORY-tmpjhphq.md)); King 2013 for Watson 1996 ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md); [LIT-2718](../literature.d/LIT-2718.md) unread); Shaw-Young 2008 for Miller ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), [THEORY-tmp3xr2l](../theory.d/THEORY-tmp3xr2l.md); [LIT-tmpqsyr9](../literature.d/LIT-tmpqsyr9.md) unread). None writes a relation to this claim; each qualifies the actor's side, and none treats the claim's core, the arranger's wrong against the person structured.
+Strawson 1962, read ([NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md), [THEORY-tmpjhphq](../theory.d/THEORY-tmpjhphq.md)); King 2013 for Watson 1996 ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md); [LIT-2718](../literature.d/LIT-2718.md) unread); Shaw-Young 2008 for Miller ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), [THEORY-tmp3xr2l](../theory.d/THEORY-tmp3xr2l.md); [LIT-2755](../literature.d/LIT-2755.md) unread). None writes a relation to this claim; each qualifies the actor's side, and none treats the claim's core, the arranger's wrong against the person structured.
 
 - **Strawson** gives coercion as his first kind of plea: "'He was pushed', 'He had to do it', 'It was the only way', 'They left him no alternative'". Such pleas "do not invite us to see the agent as other than a fully responsible agent. They invite us to see the injury as one for which he was not fully, or at all, responsible" (p. 193). That fits the claim's "does not take over their culpability" only in part: on Strawson's wording coercion can remove responsibility for the act altogether ("or at all"), not only lessen it. His second kind includes "His mind has been systematically perverted", which suspends the reactive attitudes toward the agent: conditioning carried far enough exempts, a step the claim's "pressured, induced or conditioned" does not mark. The claim's limits (A9 §§4, 7) could carry it.
 - **Watson, as King quotes him**: "[i]t is unfair to impose sanctions upon people unless they had a reasonable opportunity to avoid incurring them" (237). This is a route by which structured conduct stays attributable while accountability-blame is reduced. It concerns the actor and the blamer, not the arranger.

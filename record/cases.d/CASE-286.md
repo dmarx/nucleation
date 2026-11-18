@@ -1,8 +1,8 @@
 ---
 number: 286
-status: Proposed
 formerly:
 - CASE-tmpgp2qo
+status: Proposed
 title: 'Voluntary submission against alienation of standing: two informed, voluntary delegations of consequential decisions, one limited and still governed by the delegator''s protected claims, the other purporting to give the recipient unlimited authority to determine whether the delegator keeps any rights at all'
 version: 1
 standing: stipulated

@@ -12,7 +12,7 @@ history:
     August 2007, substantive revision 20 April 2018), HTML converted to
     text. Read in full: §§1–3, 6 and 8; in part: §§4 and 9; skimmed: §§5, 7
     and 10–13. The quotes below were rechecked by the filer against the same
-    copy on 2026-11-18. Read as a stand-in for Scanlon (1998), LIT-tmp06l3b.
+    copy on 2026-11-18. Read as a stand-in for Scanlon (1998), LIT-2721.
 date: '2026-11-18'
 summary: >-
   Contractualism in Scanlon's sense: an act is wrong if any set of
@@ -24,7 +24,7 @@ summary: >-
   reasonably reject" rather than "all would agree". The entry predates
   Scanlon's 2025 revision.
 ---
-<!-- inactive-ok-file: LIT-tmp06l3b CLAIM-tmplidg6 — Unavailable or Proposed; the book this stands in for, and a claim it leaves open -->
+<!-- inactive-ok-file: LIT-2721 CLAIM-735 — Unavailable or Proposed; the book this stands in for, and a claim it leaves open -->
 
 # NOTE-tmpb51ae: Ashford and Mulgan — Contractualism
 
@@ -76,23 +76,23 @@ demandingness.
 
 ## Bearing on the record
 
-- **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md).** The scope ("only the realm of what we owe to one
+- **[QUESTION-483](../questions.d/QUESTION-483.md).** The scope ("only the realm of what we owe to one
   another") and the circularity answer (only reasons that happen to
   individuals are inputs) are what a reading of the record's account as a
   supplement to contractualism would rely on.
-- **[QUESTION-tmpkqvxv](../questions.d/QUESTION-tmpkqvxv.md).** Rejection is judged against "alternatives", and a
+- **[QUESTION-484](../questions.d/QUESTION-484.md).** Rejection is judged against "alternatives", and a
   burden gives no reason to reject if every alternative imposes a greater
   one, so which alternatives are feasible enters the test. The entry does
   not discuss feasibility.
-- **[QUESTION-tmplax2r](../questions.d/QUESTION-tmplax2r.md).** Contractualism's answer to where legitimacy comes
+- **[QUESTION-485](../questions.d/QUESTION-485.md).** Contractualism's answer to where legitimacy comes
   from: justifiability to each, within what we owe one another.
-- **[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).** Left open; beyond substantive responsibility (acts
+- **[CLAIM-735](../claims.d/CLAIM-735.md).** Left open; beyond substantive responsibility (acts
   like promising "can change a person's obligations to others") the entry
   does not discuss rights or powers.
 
 ## Connections
 
-Stands in for Scanlon (1998), [LIT-tmp06l3b](../literature.d/LIT-tmp06l3b.md), for:
+Stands in for Scanlon (1998), [LIT-2721](../literature.d/LIT-2721.md), for:
 
 - the formula of p. 153, quoted;
 - the individualist restriction of p. 229, quoted;
@@ -107,5 +107,5 @@ rejected by someone affected") paraphrases the quoted formula fairly;
 
 ## Limitations
 
-Second-hand; written before Scanlon's 2025 revision ([LIT-tmpgoyge](../literature.d/LIT-tmpgoyge.md)); a
+Second-hand; written before Scanlon's 2025 revision ([LIT-2741](../literature.d/LIT-2741.md)); a
 survey of a large literature. §§5, 7 and 10–13 skimmed.

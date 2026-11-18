@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpqju5l'
+paper: 'LIT-2754'
 title: 'Nicol J — Depp II v News Group Newspapers Ltd & Anor [2020] EWHC 2911 (QB)'
 version: 1
 history:

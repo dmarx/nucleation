@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2003). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-tmpohafo, CLAIM-tmph28l6,
+    carried over: corroborates CLAIM-740, CLAIM-731,
     CLAIM-410. Its title was: "Automated decision systems in public
     administration combine individual adjudication with rulemaking while
     observing the procedural safeguards of neither, because programmers
@@ -33,11 +33,11 @@ source:
 - LIT-2719
 corroborates:
 - CLAIM-710
-- CLAIM-tmpohafo
-- CLAIM-tmph28l6
+- CLAIM-740
+- CLAIM-731
 - CLAIM-410
 ---
-<!-- inactive-ok-file: CLAIM-tmph28l6 CLAIM-tmpohafo — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-731 CLAIM-740 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpa89iy — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-705 CLAIM-710 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1947: Citron argues that automated administrative decision systems merge adjudication and rulemaking while observing the procedures of neither: programmers make unreviewed rules when they translate policy into code, and opacity, missing notice and audit trails and automation bias in human reviewers leave individuals without a meaningful hearing, which she proposes to restore by technological due process
@@ -71,10 +71,10 @@ support [CLAIM-705](../claims.d/CLAIM-705.md)'s fixed corrective rate: its point
 ## From the second reading (2026-11-17)
 
 The second reading finds three more claims corroborated, none resting on
-it: [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (notice, hearing and pre-deprivation process are
+it: [CLAIM-740](../claims.d/CLAIM-740.md) (notice, hearing and pre-deprivation process are
 distinct safeguards that fail differently; process before deprivation is
 "surely possible" because the agency controls the system, p. 1288);
-[CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) (automation lowers the cost of deciding while a challenge
+[CLAIM-731](../claims.d/CLAIM-731.md) (automation lowers the cost of deciding while a challenge
 needs costly decoding of the system, p. 1285); and [CLAIM-410](../claims.d/CLAIM-410.md)'s
 "transferred" case (rule-making authority passes to programmers by
 "inadvertent rulemaking", "a troubling delegation of legislative power",

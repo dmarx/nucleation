@@ -29,7 +29,7 @@ summary: >-
   and its opacity suits "hidden politics". The read part reviews US
   evidence that each cost lowers take-up, most strongly compliance costs.
 ---
-<!-- inactive-ok-file: CLAIM-669 CLAIM-681 CLAIM-tmph28l6 LIT-1609 LIT-2660 — Deferred, Proposed, Unfetched; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-669 CLAIM-681 CLAIM-731 LIT-1609 LIT-2660 — Deferred, Proposed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpd1d48: Moynihan, Herd and Harvey — Administrative Burden
 
@@ -90,7 +90,7 @@ take-up; red tape as distinct; stigma and autonomy; hidden politics
 
 ## Bearing on the record
 
-- **[CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md)** (the cost of imposing a decision and the cost of
+- **[CLAIM-731](../claims.d/CLAIM-731.md)** (the cost of imposing a decision and the cost of
   challenging it are separate). Qualifies; not filed as a relation. The
   burdens here are costs of obtaining an entitlement (applying,
   documenting, recertifying), not of contesting a decision. What they

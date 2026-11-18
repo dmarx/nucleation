@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp39uey'
+paper: 'LIT-2728'
 title: 'Galanter — Why the haves come out ahead'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   further layers. Speculative by the author's account; RP and OS are poles
   of a continuum, not the same as haves and have-nots.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyo35b CLAIM-tmpa0wdv CASE-tmphljcr CLAIM-619 — Proposed; the entries the reading bears on -->
+<!-- inactive-ok-file: CLAIM-748 CLAIM-722 CASE-287 CLAIM-619 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmpny8gh: Galanter — Why the haves come out ahead
 
@@ -90,23 +90,23 @@ of rules; four layers of advantage.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md)** (litigation as siege). Independent, qualitative
+- **[CLAIM-748](../claims.d/CLAIM-748.md)** (litigation as siege). Independent, qualitative
   corroboration: Galanter names the claim's two channels, delay
   "discounting the value of recovery" and cost "of keeping the case
   alive", and notes defendants who use procedure "to raise the cost to
   claimants". He gives no threshold model; the comparison of sustainable
   time with time to judgment is the exchange's.
-- **[CASE-tmphljcr](../cases.d/CASE-tmphljcr.md).** Supplies the mechanisms the construction formalizes
+- **[CASE-287](../cases.d/CASE-287.md).** Supplies the mechanisms the construction formalizes
   (delay discounts recovery, cost of keeping a case alive). It does not
   check the case's numbers.
-- **[QUESTION-tmp14i7s](../questions.d/QUESTION-tmp14i7s.md).** A route by which the capacity to litigate shapes
+- **[QUESTION-475](../questions.d/QUESTION-475.md).** A route by which the capacity to litigate shapes
   the standard: RPs settle cases that would make bad precedent and
   litigate promising ones, so precedent is skewed; overload "shields
   existing rules from challenge"; RPs benefit from the time-lag of rules.
-- **[QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md).** Delay and cost are available to either side: the
+- **[QUESTION-479](../questions.d/QUESTION-479.md).** Delay and cost are available to either side: the
   OS "can burn up his capital", and for the physician "Every year of delay
   is worth money".
-- **[CLAIM-tmpa0wdv](../claims.d/CLAIM-tmpa0wdv.md).** Rights "on the books" that cannot be vindicated fit
+- **[CLAIM-722](../claims.d/CLAIM-722.md).** Rights "on the books" that cannot be vindicated fit
   the claim's valid claim with falling correctability. Galanter is
   descriptive and says nothing about normative power.
 - **[CLAIM-619](../claims.d/CLAIM-619.md).** Notes 75 and 77 describe a party using process to raise

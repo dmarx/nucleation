@@ -1,10 +1,17 @@
 ---
 number: 731
-status: Proposed
 formerly:
 - CLAIM-tmph28l6
+status: Proposed
 title: 'The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Citron (2008) read; automation lowers the cost of deciding while
+    challenge comes to need costly decoding of the system, which
+    corroborates the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -125,3 +132,8 @@ just distribution of friction.**"
 - Not that Reform B is always wrong. A23 §4: "The point is not that A is
   always safe or B is always unjustified. Both require safeguards against
   errors."
+
+## Note of 2026-11-17: Citron, read
+<!-- inactive-ok-file: THEORY-1947 — new theory of 2026-11-18, Proposed -->
+
+Citron 2008, read ([NOTE-2003](../notes.d/NOTE-2003.md), [THEORY-1947](../theory.d/THEORY-1947.md)): it corroborates the claim independently ([THEORY-1947](../theory.d/THEORY-1947.md) carries `corroborates`). Automated systems make deciding cheap while challenging a decision comes to need "the high fixed cost of deciphering a computer system's logic" (abstract), and the procedural calculus undervalues the challenge: "any Mathews analysis that focuses on a single adjudication will capture all of the costs of improved process but only a tiny fraction of its benefits" (p. 1285). Review is weakened too: "encoded policy tends to receive even more powerful deference than that provided under Chevron" (p. 1299). US administrative law, 2008 rules engines. No status changes.

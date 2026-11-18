@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2034). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-707; bears_on QUESTION-tmp2t6ve.
+    carried over: corroborates CLAIM-707; bears_on QUESTION-476.
     Its title was: "The NTSB found the Tempe crash of an Uber test
     vehicle caused by its operator's distraction, to which the company
     contributed through a system design that relied on her to brake, the
@@ -34,7 +34,7 @@ promote_when: >-
 source:
 - LIT-2664
 bears_on:
-- QUESTION-tmp2t6ve
+- QUESTION-476
 corroborates:
 - CLAIM-707
 ---
@@ -77,7 +77,7 @@ extended distraction" (p. 46). It does not show blame landing downstream:
 the NTSB carries cause upstream, to Uber and the state, so as an
 attribution the case sits nearer the second branch of the claim's
 `defeated_if` than a crumple zone ([CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md)). It bears on
-[QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md): a no-blame investigation that keeps upstream provenance
+[QUESTION-476](../questions.d/QUESTION-476.md): a no-blame investigation that keeps upstream provenance
 by naming contributing factors in the company and the state.
 
 - **Where blame landed** in prosecution or the press, which the report does

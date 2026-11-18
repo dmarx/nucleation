@@ -13,9 +13,9 @@ tags:
 - ethics
 date: '2026-11-18'
 source:
-- LIT-tmp0l030
+- LIT-2724
 summary: >-
-  Eggert (2023; issue 2025), [LIT-tmp0l030](../literature.d/LIT-tmp0l030.md), read in full in [NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md).
+  Eggert (2023; issue 2025), [LIT-2724](../literature.d/LIT-2724.md), read in full in [NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md).
   The account concerns the agent's remainder, not the arranger's wrong. It
   notes in passing that paradigm cases involve someone else creating the
   predicament, and leaves open whether they always do. It is filed without
@@ -27,7 +27,7 @@ summary: >-
 
 # THEORY-tmpqwuyi: Dirty hands are coherent, on Eggert's account: when two actual duties conflict, an act that is all things considered permissible, even required, can remain wrong, because the overridden duty survives as a moral remainder that makes remorse apt and can ground duties of apology or compensation
 
-Eggert (2023), [LIT-tmp0l030](../literature.d/LIT-tmp0l030.md), read in [NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md).
+Eggert (2023), [LIT-2724](../literature.d/LIT-2724.md), read in [NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md).
 
 ## The account
 

@@ -1,8 +1,8 @@
 ---
 number: 482
-status: Open
 formerly:
 - QUESTION-tmphoumu
+status: Open
 title: 'Under what conditions is the allocation of authority to evaluate and constrain an actor sufficiently independent of that actor''s capacity to influence the allocation?'
 version: 1
 tags:

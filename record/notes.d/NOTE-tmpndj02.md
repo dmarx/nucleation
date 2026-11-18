@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpt4av6'
+paper: 'LIT-2759'
 title: 'The Declaration of Independence'
 version: 1
 history:
@@ -23,7 +23,7 @@ summary: >-
   becomes a duty when "a long train of abuses and usurpations" shows a
   design of "absolute Despotism".
 ---
-<!-- inactive-ok-file: CLAIM-tmp6vck6 — Proposed; the claim the reading bears on -->
+<!-- inactive-ok-file: CLAIM-720 — Proposed; the claim the reading bears on -->
 
 # NOTE-tmpndj02: The Declaration of Independence
 
@@ -66,14 +66,14 @@ alter or abolish; a long train of abuses; despotism.
 
 ## Bearing on the record
 
-- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** The rights are presented as prior to government
+- **[QUESTION-486](../questions.d/QUESTION-486.md).** The rights are presented as prior to government
   ("to secure these rights, Governments are instituted"), the independence
   the question proposes. The rights named are few and abstract, and their
   unalienability is asserted, not explained.
-- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** "Who" is answered with "the People", with a
+- **[QUESTION-481](../questions.d/QUESTION-481.md).** "Who" is answered with "the People", with a
   threshold for exercising the right; procedures and what lies beyond
   revision are not addressed.
-- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** The text gives no theory of what "unalienable" means,
+- **[CLAIM-720](../claims.d/CLAIM-720.md).** The text gives no theory of what "unalienable" means,
   so it cannot by itself support reading inalienability as a limit on
   powers rather than on exercise.
 - The exchange's A90 is faithful, close to verbatim; it omits the

@@ -263,7 +263,7 @@ application returns arbitrariness in a new form (§5.3). An independent instance
 coming apart. Relation: corroborates.
 
 ## Note of 2026-11-17: oversight pushed past its operating capacity by volume, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmph28l6 CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-731 CLAIM-730 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A33 §1 of the exchange "Assess Depp Heard Abuse" (2026-11-15), after the
 owner pointed to the record's resource-boundedness (U16): "**Formal
@@ -284,7 +284,7 @@ anyone's authority. A33 §1: "That need not even involve deliberate
 obstruction. The mismatch can be a structural property of the two
 institutions." The claim's edge, that it is about relations and not about
 any government's conduct, stands. The cost-side
-statement is [CLAIM-tmph28l6](CLAIM-tmph28l6.md) (execution friction against contestation
-friction); the timescale statement is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md).
+statement is [CLAIM-731](CLAIM-731.md) (execution friction against contestation
+friction); the timescale statement is [CLAIM-730](CLAIM-730.md).
 
 No status changes.

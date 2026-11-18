@@ -23,7 +23,7 @@ summary: >-
   corporations are answerable but not accountable.
 ---
 <!-- inactive-ok-file: LIT-tmpxsadz — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: TERM-tmp4zjar TERM-tmp8pnnr CLAIM-tmpsk25g — Proposed or Open; the entries this reading bears on -->
+<!-- inactive-ok-file: TERM-126 TERM-127 CLAIM-742 — Proposed or Open; the entries this reading bears on -->
 
 # NOTE-tmpfi3s5: Shoemaker — Blameworthy but Unblamable: A Paradox of Corporate Responsibility
 
@@ -75,17 +75,17 @@ regard.
 
 ## Bearing on the record
 
-- **[TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md)** (answerability): a homonym. Shoemaker's answerability
+- **[TERM-126](../terms.d/TERM-126.md)** (answerability): a homonym. Shoemaker's answerability
   is an agent's capacity, and a type of responsibility, for answering for
   its judgments. The term's answerability is a directed normative relation
   in which an actor owes a party an answer. The term should say that it
   does not mean Shoemaker's.
-- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: its list of senses has attributability and
+- **[TERM-127](../terms.d/TERM-127.md)**: its list of senses has attributability and
   culpability but no slot for Shoemaker's answerability; and its remark
   that A110 credits the split to Watson and Shoemaker jointly is
   confirmed: the third type is Shoemaker's.
-- **[CLAIM-tmpsk25g](../claims.d/CLAIM-tmpsk25g.md)**: confirms its correction of A110's attribution.
-- **[QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md)** (blameless post-incident practice): Shoemaker's
+- **[CLAIM-742](../claims.d/CLAIM-742.md)**: confirms its correction of A110's attribution.
+- **[QUESTION-476](../questions.d/QUESTION-476.md)** (blameless post-incident practice): Shoemaker's
   answer for corporations, answerability and protest without angry blame,
   is a ready model of a practice that withholds one kind of blame while
   keeping another, one candidate reading of "keep accountability while

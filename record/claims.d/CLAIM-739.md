@@ -1,10 +1,19 @@
 ---
 number: 739
-status: Proposed
 formerly:
 - CLAIM-tmpnhesz
+status: Proposed
 title: 'Answerability is directed and role-specific: an actor owes an answer to a party with a claim concerning the matter, on one of several grounds that need not presuppose the actor''s legitimate authority, among them interference with a protected interest, entrusted authority, collective rule, consequential dependence and control over recourse; the party owed, the recipient of reasons, the forum that judges and the party that remedies can differ; and what is owed is indexed to the claim, not to how much the party is affected'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Reading of Stern on Darwall filed; Darwall's ground for owed
+    answers is now on the record second-hand, and it fits the claim
+    without supporting its several grounds. Bovens (2007) read; it
+    separates forum, principal and the party that imposes
+    consequences, corroborating the claim's separation of roles.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -140,3 +149,17 @@ further grounds.
 - Not that a forum must exist for an answer to be owed. A83 §1: "One can
   owe an answer even when no adequate forum currently exists to demand
   it." [CASE-229](../cases.d/CASE-229.md) shows a matched pair with and without effective review.
+
+## Note of 2026-11-17: Darwall, one of the claim's three unread grounds, read through a critic
+<!-- inactive-ok-file: THEORY-tmpk5cgl LIT-2756 — new or Unavailable; the reading filed on 2026-11-18 and the unread book -->
+
+Stern 2014, read ([NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), [THEORY-tmpk5cgl](../theory.d/THEORY-tmpk5cgl.md)), standing in for Darwall 2006 ([LIT-2756](../literature.d/LIT-2756.md)). No relation to this claim is written.
+
+The claim's "What it does not say" names Darwall, Forst and Pettit as "three candidate grounds the record has not read" for why anyone is owed reasons. Darwall's is now on the record second-hand: obligation is "the exercise of legitimate authority over the person obliged" (p. 2), held by the claimant as a member of the moral community, and giving another second-person standing "makes you answerable to them" (p. 9). That fits the claim's "need not presuppose the actor's legitimate authority": on Darwall's view the authority is the claimant's, not the actor's. It does not support the claim's plurality of grounds: Darwall has one ground, standing to demand, and Stern's objection (p. 12) is that it is too narrow. Nor does it reach the claim's separation of the party owed from the forum and the remedier.
+
+No status changes.
+
+## Note of 2026-11-17: Bovens, read
+<!-- inactive-ok-file: THEORY-tmplvezc — new reading and theory of 2026-11-18, Proposed -->
+
+Bovens 2007, read ([NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md), [THEORY-tmplvezc](../theory.d/THEORY-tmplvezc.md)): corroboration of the claim's last clause but one, which the THEORY carries. Bovens separates the forum from the principal, "in many accountability relations, the forums are not principals of the actors" (p. 451), and the forum from the party that imposes consequences, "the consequences are not necessarily brought upon the actor by the forum itself" (p. 452), with ombudsmen and audit offices that report to parliament as examples. That is the claim's "the forum that judges and the party that remedies can differ". He also allows the obligation to be "informal ... or even self-imposed" (p. 451), and finds horizontal obligations to the public "usually moral in nature" (p. 460). He gives none of the claim's grounds of the duty: his "why" sorts obligations by source (hierarchy, law, voluntary or moral) and his framework is "analytical", not normative. No status changes.

@@ -23,7 +23,7 @@ summary: >-
   apart further. King quotes Watson 1996 by page throughout.
 ---
 <!-- inactive-ok-file: LIT-2718 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-708 CLAIM-tmpciy9q QUESTION-068 TERM-tmp8pnnr — Proposed or Deferred; the entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-708 CLAIM-726 QUESTION-068 TERM-127 — Proposed or Deferred; the entries this reading bears on -->
 
 # NOTE-tmplo4r7: King — Two Faces of Desert
 
@@ -89,10 +89,10 @@ accountability-blame is best construed as expressed sanction.
   or structured conduct stays attributable to the actor while
   accountability-blame is reduced. Watson, as quoted, says nothing about
   the arranger's own wrong.
-- **[CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)**: King's standing condition bears on an arranger who
+- **[CLAIM-726](../claims.d/CLAIM-726.md)**: King's standing condition bears on an arranger who
   then accuses: one who lacks standing cannot hold the other accountable.
   King does not discuss arranged wrongs.
-- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: its attributability sense ("Whose action ... was
+- **[TERM-127](../terms.d/TERM-127.md)**: its attributability sense ("Whose action ... was
   it?") is thinner than Watson's, which is appraisal of the agent "as an
   adopter of ends".
 

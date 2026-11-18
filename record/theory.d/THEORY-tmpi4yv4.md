@@ -13,25 +13,25 @@ tags:
 - ethics
 date: '2026-11-18'
 source:
-- LIT-tmpayex1
+- LIT-2735
 corroborates:
-- CLAIM-tmpl0sgt
+- CLAIM-734
 summary: >-
-  Fuentes v. Shevin, 407 U.S. 67 (1972), [LIT-tmpayex1](../literature.d/LIT-tmpayex1.md), read in [NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md). The
+  Fuentes v. Shevin, 407 U.S. 67 (1972), [LIT-2735](../literature.d/LIT-2735.md), read in [NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md). The
   opportunity to be heard must be "granted at a time when the deprivation
   can still be prevented"; "no later hearing and no damage award can undo
   the fact" of the taking; the right "does not depend upon an advance
   showing that one will surely prevail". It is filed as grounds of
-  [CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md), which cites it, by a note on that claim, and corroborates
-  by analogy [CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md), which does not rest on it: after-the-fact
+  [CLAIM-723](../claims.d/CLAIM-723.md), which cites it, by a note on that claim, and corroborates
+  by analogy [CLAIM-734](../claims.d/CLAIM-734.md), which does not rest on it: after-the-fact
   remedies are no substitute for the prior opportunity. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpazi8a CLAIM-tmpl0sgt — Proposed or new; the reading and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-723 CLAIM-734 — Proposed or new; the reading and the claims it bears on -->
 
 # THEORY-tmpi4yv4: In Fuentes v. Shevin the Supreme Court held that prejudgment replevin statutes letting goods be seized from their possessor on a private party's ex parte application, without a prior opportunity to be heard, deny due process, because the hearing must come when the deprivation can still be prevented and no later hearing or damage award can undo a deprivation already made, whether or not the possessor would have prevailed
 
-Fuentes v. Shevin, 407 U.S. 67 (1972), [LIT-tmpayex1](../literature.d/LIT-tmpayex1.md).
+Fuentes v. Shevin, 407 U.S. 67 (1972), [LIT-2735](../literature.d/LIT-2735.md).
 
 ## The holding
 

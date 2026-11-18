@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp09j7t'
+paper: 'LIT-2723'
 title: 'Sperber, Vandell, Duncan and Watts — Delay of gratification and adult outcomes'
 version: 1
 history:
@@ -27,7 +27,7 @@ summary: >-
   with full controls. The task does not reliably predict adult outcomes
   and may screen for broader early advantages.
 ---
-<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-281 CLAIM-744 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpxzmdi: Sperber, Vandell, Duncan and Watts — Delay of gratification and adult outcomes
 
@@ -35,7 +35,7 @@ summary: >-
 
 The first preregistered test of the marshmallow test's prediction of a
 broad set of adult outcomes in a non-elite cohort, with the control
-strategy of Watts et al. (2018), [LIT-tmppz1jz](../literature.d/LIT-tmppz1jz.md).
+strategy of Watts et al. (2018), [LIT-2752](../literature.d/LIT-2752.md).
 
 ## Key insight
 
@@ -80,9 +80,9 @@ by SES and sex.
 
 ## Bearing on the record
 
-- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)**. Confirms, to age 26, what the case says it cannot
+- **[CASE-281](../cases.d/CASE-281.md)**. Confirms, to age 26, what the case says it cannot
   show: "That waiting predicts later life".
-- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)**. Indirect, as for Watts et al.: the authors trace the
+- **[CLAIM-744](../claims.d/CLAIM-744.md)**. Indirect, as for Watts et al.: the authors trace the
   task's prediction to SES and parenting, consistent with a reliability
   reading but not a test of it; they do not cite Kidd et al.'s result in
   the text read. Not filed as a relation.

@@ -60,7 +60,7 @@ history:
     questions ask about the capacity), the converse direction (a verdict of
     domination does not settle the dominated party's culpability for its own
     acts), added to the title and the defeater, and the uses of TERM-124 and
-    of the continuation's TERM-tmp8pnnr. The title was: Equality of
+    of the continuation's TERM-127. The title was: Equality of
     wrongdoing and equality of power are separate questions: two parties can
     each act wrongly, even as often, while only one holds control over the
     terms of the other's life, so a tally of wrongful acts does not settle
@@ -102,7 +102,7 @@ complements:
 - CLAIM-708
 uses:
 - TERM-124
-- TERM-tmp8pnnr
+- TERM-127
 summary: >-
   A's, from A3 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
   answering the owner's U1 ("who's the asshole (including the possibility
@@ -114,7 +114,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- unresolved-ok-file: CLAIM-tmpkivlz — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
-<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: TERM-127 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: LIT-2671 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CASE-279 CLAIM-708 ARG-113 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-545 TERM-124 — Proposed; the organizational form, domination and self-governance, cited with their standing -->
@@ -169,7 +169,7 @@ each act keeps its own verdict, which a finding of domination neither
 erases nor fixes. A3: "Neither method should replace the other. Both the
 specific physical acts and the larger pattern matter." The senses of
 responsibility at stake (for a particular act, for the pattern or its
-conditions) are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s; a verdict in one does not carry to
+conditions) are [TERM-127](../terms.d/TERM-127.md)'s; a verdict in one does not carry to
 another.
 
 ## Where it sits
@@ -292,11 +292,11 @@ corresponds to the product of mental or intentional fault and the
 seriousness of the outcome", which a count of acts ignores. Relation: none.
 
 ## Note of 2026-11-17: Johnson, Hardesty et al., Stark and Mazinani and O'Connor, read
-<!-- inactive-ok-file: THEORY-tmp8sytt THEORY-tmpxd7ne THEORY-tmpt60p9 THEORY-1929 THEORY-1922 LIT-tmpozb57 LIT-2715 LIT-2675 LIT-2681 — new, Proposed, Unfetched or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+<!-- inactive-ok-file: THEORY-tmp8sytt THEORY-tmpxd7ne THEORY-tmpt60p9 THEORY-1929 THEORY-1922 LIT-2751 LIT-2715 LIT-2675 LIT-2681 — new, Proposed, Unfetched or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
 
 Johnson 2006, Hardesty et al. 2015, Stark 2015 and Mazinani & O'Connor 2026, read ([NOTE-tmpubjbq](../notes.d/NOTE-tmpubjbq.md), [THEORY-tmp8sytt](../theory.d/THEORY-tmp8sytt.md); [NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md), [THEORY-tmpxd7ne](../theory.d/THEORY-tmpxd7ne.md); [NOTE-tmpputb4](../notes.d/NOTE-tmpputb4.md), [THEORY-tmpt60p9](../theory.d/THEORY-tmpt60p9.md); [NOTE-2000](../notes.d/NOTE-2000.md), [THEORY-1929](../theory.d/THEORY-1929.md)). Each THEORY now `corroborates` this claim, which does not rest on any of them.
 
-- **Johnson (2006)**, standing in for Johnson 1995 ([LIT-tmpozb57](../literature.d/LIT-tmpozb57.md), Unfetched) and 2008 ([LIT-2715](../literature.d/LIT-2715.md), Unavailable), types violence by control context, not acts: to classify a couple's violence, ask "about the power and control issues involved in their relationship, and about the presence of fear"; "all three types of violence can be dangerous, even life-threatening", so a dangerous act does not fix the type.
+- **Johnson (2006)**, standing in for Johnson 1995 ([LIT-2751](../literature.d/LIT-2751.md), Unfetched) and 2008 ([LIT-2715](../literature.d/LIT-2715.md), Unavailable), types violence by control context, not acts: to classify a couple's violence, ask "about the power and control issues involved in their relationship, and about the presence of fear"; "all three types of violence can be dangerous, even life-threatening", so a dangerous act does not fix the type.
 - **Hardesty et al. (2015)**, with Johnson: "A risk of the count approach is (mis)classifying highly controlling abusers as “low control” when they rely on very few control tactics but enforce them relentlessly"; and with the frequency and severity of violence controlled, "the group differences reflect the control context rather than differences in violence". That is the claim's point in an operational form: a tally of acts, even of control tactics, does not settle who dominates.
 - **Stark (2015)**, standing in for Stark 2007 ([LIT-2675](../literature.d/LIT-2675.md)): "Interventions focused on discrete assaults (rather than course of conduct) miss the significance of abuse"; tactics that "taken alone, may not rise to the level of abuse" make the pattern "in combination".
 - **Mazinani & O'Connor (2026)**: "bidirectional violence refers only to relationships in which both partners were reported to have used violent acts. The term does not imply equivalence in motive, coercive control, severity, consequences, or responsibility." An interpretive guard, not a test.

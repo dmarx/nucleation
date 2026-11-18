@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpretfe'
+paper: 'LIT-2758'
 title: 'Wenar — Rights and what we owe to each other'
 version: 1
 history:
@@ -24,7 +24,7 @@ summary: >-
   who can change what we owe to each other and how", contractualism "must
   be a multi-level theory", of "authority over" as well as "owing to".
 ---
-<!-- inactive-ok-file: CLAIM-tmplidg6 — Proposed; the claim the reading bears on -->
+<!-- inactive-ok-file: CLAIM-735 — Proposed; the claim the reading bears on -->
 
 # NOTE-tmp3co3x: Wenar — Rights and what we owe to each other
 
@@ -80,12 +80,12 @@ multi-level theory.
 
 ## Bearing on the record
 
-- **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md).** A published form of the question's second option:
+- **[QUESTION-483](../questions.d/QUESTION-483.md).** A published form of the question's second option:
   contractualism needs a second level, a theory of authority over
   obligations, or it takes changes to them from elsewhere. Wenar does not
   show that reasonable rejection cannot supply that level; Scanlon's reply
-  ([LIT-tmplag34](../literature.d/LIT-tmplag34.md)) says it can, for promises.
-- **[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).** Wenar separates justifying what is owed from the
+  ([LIT-2746](../literature.d/LIT-2746.md)) says it can, for promises.
+- **[CLAIM-735](../claims.d/CLAIM-735.md).** Wenar separates justifying what is owed from the
   authority to change it ("who can change what we owe to each other and
   how"), which the claim needs. He does not take the claim's further step,
   that justified powers become the structure within which later

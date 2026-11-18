@@ -19,7 +19,7 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its CASE-tmpdn372 (a proposed study varying the acting institution's
+    its CASE-285 (a proposed study varying the acting institution's
     speed) was compared with this construction and judged distinct; a
     sentence on the difference added. No change of status or title.
 standing: stipulated
@@ -53,7 +53,7 @@ summary: >-
   decisions themselves reducing capacity). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpdn372 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CASE-285 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-705 CLAIM-701 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-327 CLAIM-423 — Proposed; the timescale claims, cited with their standing -->
 
@@ -140,7 +140,7 @@ shortening the lag T is what B needs and A does not.
   this construction takes the slowness (T) as given.
 
 The continuation of the same exchange filed A33 §10 C as a proposed study,
-[CASE-tmpdn372](CASE-tmpdn372.md): the same overseer's authority, two speeds of the acting
+[CASE-285](CASE-285.md): the same overseer's authority, two speeds of the acting
 institution, and precommitted limits, automatic suspension and pauses
 added in turn. It is distinct from this construction, which holds speed
 fixed and varies whether execution erodes corrective capacity; run, it

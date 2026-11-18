@@ -1,8 +1,8 @@
 ---
 number: 486
-status: Open
 formerly:
 - QUESTION-tmptinzk
+status: Open
 title: 'Can rights that no institution creates or can extinguish, the Founders'' "unalienable rights", serve as the institution-independent criteria the record''s normative judgments of organizations need, and what would such rights have to be to do so?'
 version: 1
 tags:

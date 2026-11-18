@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp5ax42'
+paper: 'LIT-2730'
 title: 'Kidd, Palmeri and Aslin — Rational snacking'
 version: 1
 history:
@@ -27,7 +27,7 @@ summary: >-
   judgment of whether waiting will pay off; the authors do not claim
   self-control is irrelevant.
 ---
-<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-281 CLAIM-744 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmp301qd: Kidd, Palmeri and Aslin — Rational snacking
 
@@ -87,14 +87,14 @@ task; wait-time.
 
 ## Bearing on the record
 
-- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)** (the two arms). Confirms the documented arm: the
+- **[CASE-281](../cases.d/CASE-281.md)** (the two arms). Confirms the documented arm: the
   design, N = 28, 12.03 minutes against about 3 minutes (the paper's §3
   gives 3 min 2 s, 181.57 s, and its §4 "3.02 min"; A's 3.03 is the
   closer rounding of 181.57 s), a ratio of 0.25. A's caption matches the
   authors' framing, with their caveat that self-control is not shown
   irrelevant. The case's "unverified until read" can now be narrowed to
   the sample: N = 28, one age band, one lab, a 15-minute cap.
-- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)** (the controller's reliability decides whether waiting
+- **[CLAIM-744](../claims.d/CLAIM-744.md)** (the controller's reliability decides whether waiting
   is good judgment). Supports its first half, through the case it rests
   on: waiting tracks the promisor's demonstrated reliability, and the
   authors call this rational. The reliability evidence came from the same

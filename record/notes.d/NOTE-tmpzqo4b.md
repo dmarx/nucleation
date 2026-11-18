@@ -1,6 +1,6 @@
 ---
 status: Skimmed
-paper: 'LIT-tmpcox2t'
+paper: 'LIT-2738'
 title: 'Locke — Second Treatise, on slavery, the legislative and trust'
 version: 1
 history:
@@ -28,7 +28,7 @@ summary: >-
   only once government is dissolved (§149). "The people shall be judge"
   (§240), a judgment "they cannot part with" (§168).
 ---
-<!-- inactive-ok-file: CLAIM-tmp6vck6 CASE-tmpgp2qo CLAIM-tmpcpijj CASE-tmp9vd9x — Proposed; the entries the skim bears on -->
+<!-- inactive-ok-file: CLAIM-720 CASE-286 CLAIM-727 CASE-282 — Proposed; the entries the skim bears on -->
 
 # NOTE-tmpzqo4b: Locke — Second Treatise, on slavery, the legislative and trust
 
@@ -81,7 +81,7 @@ forfeiture; dissolution; the appeal to heaven.
 
 ## Bearing on the record
 
-- **[CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md).** The form of the claim's argument is Locke's: the limit
+- **[CLAIM-720](../claims.d/CLAIM-720.md).** The form of the claim's argument is Locke's: the limit
   lies in what the holder can transfer (§§23, 135), and the people's
   judgment of breach is something "they cannot part with" (§168). Two
   qualifications. Locke's protected object is life, and liberty from
@@ -89,14 +89,14 @@ forfeiture; dissolution; the appeal to heaven.
   "standing" in general. And Locke admits forfeiture "by his fault" (§23),
   which the claim does not provide for: a way to lose what cannot be
   conferred.
-- **[CASE-tmpgp2qo](../cases.d/CASE-tmpgp2qo.md).** §24's "agreement for a limited power on the one side,
+- **[CASE-286](../cases.d/CASE-286.md).** §24's "agreement for a limited power on the one side,
   and obedience on the other", against §§23 and 135 on unlimited power, is
   the case's contrast between limited and unlimited delegation.
-- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).** §240, "The people shall be judge", against an
+- **[CLAIM-727](../claims.d/CLAIM-727.md).** §240, "The people shall be judge", against an
   authority that would judge its own breach.
-- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** §95 (majority) and §149 (power reverts only on
+- **[QUESTION-481](../questions.d/QUESTION-481.md).** §95 (majority) and §149 (power reverts only on
   dissolution).
-- **[CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md).** §27's proviso, the labour account A93 names.
+- **[CASE-282](../cases.d/CASE-282.md).** §27's proviso, the labour account A93 names.
 - The exchange's A85 is faithful to §§23–24 and 135; it omits forfeiture,
   and its "standing" is not Locke's ground.
 

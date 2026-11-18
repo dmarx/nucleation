@@ -1,8 +1,8 @@
 ---
 number: 485
-status: Open
 formerly:
 - QUESTION-tmplax2r
+status: Open
 title: 'From where does a relationship, a capability or a restriction derive its legitimacy, and from where its adequacy?'
 version: 1
 tags:

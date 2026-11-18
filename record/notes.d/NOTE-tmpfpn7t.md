@@ -78,7 +78,7 @@ Filed as [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md).
   difficult tasks", are Tronto's own version of upstream parties shedding
   obligations onto those downstream. Corroborates; blame and control are
   not addressed.
-- **[QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md)**: "giving equal voice to all members ... in making
+- **[QUESTION-487](../questions.d/QUESTION-487.md)**: "giving equal voice to all members ... in making
   these allocations" is a democratic route to the accountability the
   question asks about, not a principal–agent mechanism.
 

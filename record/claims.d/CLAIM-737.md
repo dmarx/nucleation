@@ -1,8 +1,8 @@
 ---
 number: 737
-status: Proposed
 formerly:
 - CLAIM-tmpmeabu
+status: Proposed
 title: 'That a capability''s exercise should be limited and that a given party may limit it are separate conclusions on separate grounds, neither entailing the other; the power to restrict is itself a capability, whose legitimacy turns on how it is bounded and answerable and not on whether the limit it imposes is right'
 version: 1
 role: thesis

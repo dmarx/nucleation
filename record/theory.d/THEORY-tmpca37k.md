@@ -13,20 +13,20 @@ tags:
 - motivation
 date: '2026-11-18'
 source:
-- LIT-tmp5ax42
+- LIT-2730
 summary: >-
-  Kidd, Palmeri & Aslin (2013), [LIT-tmp5ax42](../literature.d/LIT-tmp5ax42.md), read in full in
+  Kidd, Palmeri & Aslin (2013), [LIT-2730](../literature.d/LIT-2730.md), read in full in
   [NOTE-tmp301qd](../notes.d/NOTE-tmp301qd.md): an experiment with 28 children, 14 per arm. It is the
-  study [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) reports, and [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md), which rests on that
+  study [CASE-281](../cases.d/CASE-281.md) reports, and [CLAIM-744](../claims.d/CLAIM-744.md), which rests on that
   case, needs it for its first half; the record's note proposes it as a
   ground of that claim. The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-281 CLAIM-744 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # THEORY-tmpca37k: Preschool children's wait-times on the marshmallow task depend on their evidence about whether the promised larger reward will come: children who have just seen the experimenter break promises wait about a quarter as long, so wait-times reflect a rational judgment of the environment's reliability as well as self-control
 
-Kidd, Palmeri & Aslin (2013), [LIT-tmp5ax42](../literature.d/LIT-tmp5ax42.md).
+Kidd, Palmeri & Aslin (2013), [LIT-2730](../literature.d/LIT-2730.md).
 
 ## The experiment
 
@@ -45,4 +45,4 @@ not have moved it fourfold.
   28 children.
 - **Anything about control or answerability.** The paper concerns the
   rationality of waiting given evidence; the use of the promisor's
-  discretion is [CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)'s, not the paper's.
+  discretion is [CLAIM-744](../claims.d/CLAIM-744.md)'s, not the paper's.

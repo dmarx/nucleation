@@ -1,6 +1,6 @@
 ---
 status: Skimmed
-paper: 'LIT-tmpueqz7'
+paper: 'LIT-2760'
 title: 'Pettit — On the people''s terms, publisher previews'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   unconditioned by "the resistive character of the citizenry", efficacious
   by insulating popular influence from electoral pressures and lobbies.
 ---
-<!-- inactive-ok-file: TERM-tmpsit04 CLAIM-tmpbqunx — Proposed; the entries the skim bears on -->
+<!-- inactive-ok-file: TERM-130 CLAIM-724 — Proposed; the entries the skim bears on -->
 
 # NOTE-tmpenh5u: Pettit — On the people's terms, publisher previews
 
@@ -73,13 +73,13 @@ influence; the resistive citizenry.
 
 ## Bearing on the record
 
-- **[TERM-tmpsit04](../terms.d/TERM-tmpsit04.md).** "Contestatory citizenry" and "unconditioned"
+- **[TERM-130](../terms.d/TERM-130.md).** "Contestatory citizenry" and "unconditioned"
   influence belong to the same family as the term's protected
   contestability; the openings do not define "unconditioned".
-- **[QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md).** Insulating popular influence from "electoral
+- **[QUESTION-482](../questions.d/QUESTION-482.md).** Insulating popular influence from "electoral
   pressures and private lobbies" is a requirement of independence, stated
   for the people's influence over the state.
-- **[CLAIM-tmpbqunx](../claims.d/CLAIM-tmpbqunx.md).** Nothing read on classes of opposition.
+- **[CLAIM-724](../claims.d/CLAIM-724.md).** Nothing read on classes of opposition.
 - The exchange's A83 is partly verified: control must be "unconditioned"
   and "efficacious" against domination; its gloss "not dependent on
   government officials' willingness to cooperate" is not in the text read.

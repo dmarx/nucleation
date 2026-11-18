@@ -31,7 +31,7 @@ promote_when: >-
 source:
 - LIT-2677
 ---
-<!-- inactive-ok-file: CLAIM-tmpciy9q — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-726 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpybhzw — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1935: Gaboriaud and colleagues find, in a preregistered mouse-tracking experiment, that intent, outcome and the agent's causal role each make wrongness and blame judgments harsher, but that the two judgment types differ little: only causality weighed more in blame, and by a very small amount
@@ -58,4 +58,4 @@ judgments is d = 0.05. It adds one limit:
 
 - **How observers weigh a third party who structured the agent's choice.**
   Causality is the agent's against "another independent source", so the
-  study does not test [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)'s audience move. No relation.
+  study does not test [CLAIM-726](../claims.d/CLAIM-726.md)'s audience move. No relation.

@@ -68,8 +68,8 @@ summary: >-
   closer to blame; the three-way split it cites is this paper's. What the
   exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: TERM-tmp4zjar — filed from the same exchange (2026-11-17), Proposed -->
-<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the same exchange (2026-11-17), Proposed -->
+<!-- inactive-ok-file: TERM-126 — filed from the same exchange (2026-11-17), Proposed -->
+<!-- inactive-ok-file: TERM-127 — filed from the same exchange (2026-11-17), Proposed -->
 
 # LIT-tmpxsadz: Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility
 
@@ -85,7 +85,7 @@ Unverified until read.
 
 ## Standing in the record
 
-Registered from A110 (2026-11-17). It bears on [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md) (responsibility, and which sense), [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md) and [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md). Correction: A110 credits the three-way split to Watson and Shoemaker together; Watson's "Two Faces of Responsibility" (1996) distinguishes two faces, attributability and accountability, and the third, answerability, is Shoemaker's here. The SEP "Moral Responsibility" entry ([LIT-691](LIT-691.md), Active) reports both. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
+Registered from A110 (2026-11-17). It bears on [TERM-127](../terms.d/TERM-127.md) (responsibility, and which sense), [TERM-126](../terms.d/TERM-126.md) and [QUESTION-476](../questions.d/QUESTION-476.md). Correction: A110 credits the three-way split to Watson and Shoemaker together; Watson's "Two Faces of Responsibility" (1996) distinguishes two faces, attributability and accountability, and the third, answerability, is Shoemaker's here. The SEP "Moral Responsibility" entry ([LIT-691](LIT-691.md), Active) reports both. The exchange: https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b.
 
 ## Note of 2026-11-18: the reading pass
 
@@ -104,7 +104,7 @@ already noted. Its "closer relationship to blame" holds for anger, which
 belongs to accountability; but Shoemaker also allows blame "in
 answerability terms", so accountability is tied to one kind of blame, not
 blame as such. Shoemaker's answerability, a capacity of the agent, is not
-the directed answerability of [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md).
+the directed answerability of [TERM-126](../terms.d/TERM-126.md).
 
 ## Neighbour in the record
 

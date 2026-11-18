@@ -11,26 +11,26 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmplopkp
+- LIT-2748
 corroborates:
-- CLAIM-tmpyo35b
+- CLAIM-748
 bears_on:
-- QUESTION-tmpcz1ui
+- QUESTION-479
 summary: >-
-  Federal Rules of Civil Procedure, Rules 11, 26 and 37, [LIT-tmplopkp](../literature.d/LIT-tmplopkp.md), read
+  Federal Rules of Civil Procedure, Rules 11, 26 and 37, [LIT-2748](../literature.d/LIT-2748.md), read
   in [NOTE-tmpupv4l](../notes.d/NOTE-tmpupv4l.md). The rules name the tactics of litigation as siege as improper
   purposes, and the 2015 Committee Note, quoting 1983, the use of discovery
   "to wage a war of attrition or as a device to coerce a party, whether
-  financially weak or affluent". That corroborates [CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), which
+  financially weak or affluent". That corroborates [CLAIM-748](../claims.d/CLAIM-748.md), which
   rests on its own construction, by showing the mechanism recognized in
-  law, and gives a partial, procedure-bound answer to [QUESTION-tmpcz1ui](../questions.d/QUESTION-tmpcz1ui.md). The
+  law, and gives a partial, procedure-bound answer to [QUESTION-479](../questions.d/QUESTION-479.md). The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyo35b — Proposed or new; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-748 — Proposed or new; the reading and the claim it corroborates -->
 
 # THEORY-tmpe4ups: The Federal Rules of Civil Procedure forbid papers and discovery requests presented for an improper purpose such as to harass, cause unnecessary delay or needlessly increase the cost of litigation, limit discovery to what is proportional to the needs of the case with the parties' resources among the factors, and back these limits with sanctions up to dismissal or default
 
-Federal Rules of Civil Procedure, Rules 11, 26 and 37, [LIT-tmplopkp](../literature.d/LIT-tmplopkp.md).
+Federal Rules of Civil Procedure, Rules 11, 26 and 37, [LIT-2748](../literature.d/LIT-2748.md).
 
 ## The rules
 

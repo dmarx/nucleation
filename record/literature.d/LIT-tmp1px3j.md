@@ -50,11 +50,11 @@ summary: >-
   by gratitude and anger. The three are "radically independent", so
   corporations "may be blameworthy and blamable in answerability terms,
   but not ... in accountability terms". Registered as the read neighbour
-  of Shoemaker 2011, [LIT-tmpxsadz](LIT-tmpxsadz.md). It bears on [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md) and marks
-  a homonym in [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md).
+  of Shoemaker 2011, [LIT-tmpxsadz](LIT-tmpxsadz.md). It bears on [QUESTION-476](../questions.d/QUESTION-476.md) and marks
+  a homonym in [TERM-126](../terms.d/TERM-126.md).
 ---
 <!-- inactive-ok-file: LIT-tmpxsadz — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmpfi3s5 TERM-tmp4zjar — new, Open or Proposed; this work's reading and the entries it bears on -->
+<!-- inactive-ok-file: NOTE-tmpfi3s5 TERM-126 — new, Open or Proposed; this work's reading and the entries it bears on -->
 
 # LIT-tmp1px3j: Blameworthy but Unblamable: A Paradox of Corporate Responsibility
 

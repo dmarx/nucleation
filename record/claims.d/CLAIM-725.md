@@ -1,8 +1,8 @@
 ---
 number: 725
-status: Proposed
 formerly:
 - CLAIM-tmpc7shc
+status: Proposed
 title: "A demand's satisfaction condition does not carry its warrant: representing a requirement by the histories that satisfy it fixes what meets it, not its source, who bears it, to whom it is addressed or why it binds, so that the joint satisfiability of demands cannot certify that any deserves fulfilment, and an institution's maintained requirements cannot certify their own authority"
 version: 1
 role: thesis

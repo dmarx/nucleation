@@ -13,12 +13,12 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpjy1vu
+- LIT-2745
 corroborates:
-- CLAIM-tmpdic1g
+- CLAIM-728
 summary: >-
-  Grossman & Hart (1986), [LIT-tmpjy1vu](../literature.d/LIT-tmpjy1vu.md), read in [NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md). It
-  corroborates the first clause of [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md), which does not rest on
+  Grossman & Hart (1986), [LIT-2745](../literature.d/LIT-2745.md), read in [NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md). It
+  corroborates the first clause of [CLAIM-728](../claims.d/CLAIM-728.md), which does not rest on
   it: residual control is the right over whatever the contract did not
   give away, including an employer's over the job. It carries less than
   the claim's later clauses: the parties renegotiate to the efficient
@@ -26,11 +26,11 @@ summary: >-
   contingency arises. The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdic1g — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-728 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # THEORY-tmpt4dyh: Where contracts cannot specify in advance how assets will be used, ownership is the holding of residual rights of control over an asset, and allocating those rights to one party strengthens its incentive to invest in the relationship while weakening the other's, so integration is best when one party's investment matters much more than the other's
 
-Grossman & Hart (1986), [LIT-tmpjy1vu](../literature.d/LIT-tmpjy1vu.md).
+Grossman & Hart (1986), [LIT-2745](../literature.d/LIT-2745.md).
 
 ## The model
 

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmphl1ss'
+paper: 'LIT-2743'
 title: 'Nickel and Etinson — Human rights'
 version: 1
 history:
@@ -78,7 +78,7 @@ economic and social rights.
 
 ## Bearing on the record
 
-- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** The entry counts independence from "the practices,
+- **[QUESTION-486](../questions.d/QUESTION-486.md).** The entry counts independence from "the practices,
   morality, or law" of a country as part of a human right's universality,
   the property the question wants of "unalienable rights". It qualifies the
   owner's framing: it doubts that all human rights are inalienable, a right
@@ -86,7 +86,7 @@ economic and social rights.
   in reasons have a thin existence that legal embodiment completes.
 - **[TERM-085](../terms.d/TERM-085.md).** The entry's duties are "respect, protection, facilitation,
   and provision", not the triad [TERM-085](../terms.d/TERM-085.md) attributes to Shue (see the
-  reading of Shue, [LIT-tmpog11n](../literature.d/LIT-tmpog11n.md)).
+  reading of Shue, [LIT-2750](../literature.d/LIT-2750.md)).
 - The exchange's A87 is partly faithful: agency and dignity are the two
   grounds discussed; "interests" is not a ground the entry lists, and
   "international practice" figures as a mode of existence and a political

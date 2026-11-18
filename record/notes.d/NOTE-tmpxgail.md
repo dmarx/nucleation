@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpayex1'
+paper: 'LIT-2735'
 title: 'Fuentes v. Shevin — a hearing before the deprivation'
 version: 1
 history:
@@ -26,7 +26,7 @@ summary: >-
   would prevail; a temporary deprivation counts. Decided 4–3 with Parham v.
   Cortese.
 ---
-<!-- inactive-ok-file: CLAIM-tmpazi8a CLAIM-tmpl0sgt — Proposed; the claims the reading bears on -->
+<!-- inactive-ok-file: CLAIM-723 CLAIM-734 — Proposed; the claims the reading bears on -->
 
 # NOTE-tmpxgail: Fuentes v. Shevin — a hearing before the deprivation
 
@@ -86,7 +86,7 @@ interest; extraordinary situations; waiver.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpazi8a](../claims.d/CLAIM-tmpazi8a.md).** The Court places the wrong in the timing of the
+- **[CLAIM-723](../claims.d/CLAIM-723.md).** The Court places the wrong in the timing of the
   opportunity, "at a time when the deprivation can still be prevented",
   and holds the right independent of the merits ("does not depend upon an
   advance showing that one will surely prevail"), which is the claim's
@@ -94,7 +94,7 @@ interest; extraordinary situations; waiver.
   the claim cites from A59. Its scope is a constitutional rule about
   state-assisted seizures, with extraordinary situations excepted, not a
   general moral principle.
-- **[CLAIM-tmpl0sgt](../claims.d/CLAIM-tmpl0sgt.md).** The Court refuses to let after-the-fact remedies
+- **[CLAIM-734](../claims.d/CLAIM-734.md).** The Court refuses to let after-the-fact remedies
   stand in for the prior opportunity: damages may be awarded, but they
   cannot "undo the fact" of the taking, and bond-and-damages liability is
   "hardly a substitute for a prior hearing". That is a legal rejection, for

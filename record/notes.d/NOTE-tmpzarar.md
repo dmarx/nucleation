@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmplag34'
+paper: 'LIT-2746'
 title: 'Scanlon — Reply to Leif Wenar'
 version: 1
 history:
@@ -28,7 +28,7 @@ summary: >-
   Contractualism also covers wrongs that wrong no one in particular.
 ---
 <!-- inactive-ok-file: ADR-tmp976n0 — Proposed; the decision admitting this copy -->
-<!-- inactive-ok-file: CLAIM-tmplidg6 CLAIM-tmpssfc1 — Proposed; the claims the reading bears on -->
+<!-- inactive-ok-file: CLAIM-735 CLAIM-743 — Proposed; the claims the reading bears on -->
 
 # NOTE-tmpzarar: Scanlon — Reply to Leif Wenar
 
@@ -87,7 +87,7 @@ Principle of Established Practices.
 
 ## Bearing on the record
 
-- **[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).** Its premise is this reply's: contractualism explains
+- **[CLAIM-735](../claims.d/CLAIM-735.md).** Its premise is this reply's: contractualism explains
   claims and powers without rights as basic (pp. 403–404). The step the
   claim adds, that rights once justified organize later justification, is
   not Scanlon's: he treats the promisee's power as justified once, by a
@@ -96,15 +96,15 @@ Principle of Established Practices.
   authority. The claim's "claims, powers, liberties, and immunities" holds,
   but immunities come from the free-expression section, not the
   contractualism section.
-- **[CLAIM-tmpssfc1](../claims.d/CLAIM-tmpssfc1.md).** For promises, the release is a power the promisee
+- **[CLAIM-743](../claims.d/CLAIM-743.md).** For promises, the release is a power the promisee
   holds because the principle makes the obligation "sensitive to their
   wills" and not "unalterable once they are undertaken". Nothing here on
   institutions that cease to count a demand.
-- **[QUESTION-tmpk7u3e](../questions.d/QUESTION-tmpk7u3e.md).** Scanlon claims contractualism already explains
+- **[QUESTION-483](../questions.d/QUESTION-483.md).** Scanlon claims contractualism already explains
   powers; the question's second option, an allocation of powers reasonable
   rejection cannot explain, must meet this reply. He concedes that
   contractualism does not say which phenomena are rights, which Wenar
-  ([LIT-tmpretfe](../literature.d/LIT-tmpretfe.md)) presses.
+  ([LIT-2758](../literature.d/LIT-2758.md)) presses.
 - The exchange's A100 is faithful: Scanlon's phrase is "a basic element of
   moral thinking" (abstract), where A100 says "morally primitive".
 

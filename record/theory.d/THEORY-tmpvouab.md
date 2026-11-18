@@ -11,18 +11,18 @@ tags:
 - motivation
 date: '2026-11-18'
 source:
-- LIT-tmp09j7t
+- LIT-2723
 summary: >-
-  Sperber, Vandell, Duncan & Watts (2024), [LIT-tmp09j7t](../literature.d/LIT-tmp09j7t.md), read in full in
+  Sperber, Vandell, Duncan & Watts (2024), [LIT-2723](../literature.d/LIT-2723.md), read in full in
   [NOTE-tmpxzmdi](../notes.d/NOTE-tmpxzmdi.md): the SECCYD cohort at age 26, n = 702. It confirms, to
-  adulthood, what [CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md) says it cannot show. The wording is the
+  adulthood, what [CASE-281](../cases.d/CASE-281.md) says it cannot show. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp07hx9 — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-281 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # THEORY-tmpvouab: In a preregistered analysis of a non-elite US cohort, preschool marshmallow-test performance does not reliably predict age-26 achievement, health or behavior, its few bivariate associations being largely explained by demographics and the early home environment
 
-Sperber, Vandell, Duncan & Watts (2024), [LIT-tmp09j7t](../literature.d/LIT-tmp09j7t.md).
+Sperber, Vandell, Duncan & Watts (2024), [LIT-2723](../literature.d/LIT-2723.md).
 
 ## The analysis
 

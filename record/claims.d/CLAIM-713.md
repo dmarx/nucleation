@@ -37,7 +37,7 @@ history:
     department and A15 §3's hold-up reading; the filer's inference against
     CLAIM-690, recorded as a candidate answer to QUESTION-472 and not
     asserted; the neighbours CLAIM-614 and CLAIM-670; a second branch of the
-    defeater; and the use of the continuation's TERM-tmp8pnnr. The title
+    defeater; and the use of the continuation's TERM-127. The title
     was: A moral commitment is exploitable as a resource: because a
     committed party reliably acts on it, whoever controls the circumstances
     that trigger it can capture what its fulfilment yields and leave its
@@ -83,7 +83,7 @@ complements:
 - CLAIM-669
 uses:
 - TERM-123
-- TERM-tmp8pnnr
+- TERM-127
 bears_on:
 - QUESTION-468
 - QUESTION-461
@@ -107,7 +107,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1917 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2692 LIT-2682 LIT-2708 — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-703 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: TERM-tmp8pnnr CASE-tmpm0rpn — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: TERM-127 CASE-288 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-670 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-690 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->
 
@@ -200,9 +200,9 @@ which those commitments are exercised**."
 - [CLAIM-614](CLAIM-614.md)'s non-legible harm and [CLAIM-670](CLAIM-670.md)'s arrangement that
   produces the dependence it exploits are neighbours; here the dependence
   is the members' own commitment, which the arrangement did not produce but
-  uses. [CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md) (three hospitals with the same output and budget) is
+  uses. [CASE-288](../cases.d/CASE-288.md) (three hospitals with the same output and budget) is
   a construction from the continuation's filing. The senses of
-  responsibility are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s.
+  responsibility are [TERM-127](../terms.d/TERM-127.md)'s.
 - [QUESTION-468](../questions.d/QUESTION-468.md) asks how the record
   identifies exploitation. This claim proposes one mechanism and one
   standard.

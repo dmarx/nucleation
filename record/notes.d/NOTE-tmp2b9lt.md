@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpz19z8'
+paper: 'LIT-2765'
 title: 'Wenar and Cruft — Rights'
 version: 1
 history:
@@ -25,7 +25,7 @@ summary: >-
   how the holder's acts can affect them: inalienable, forfeitable,
   waivable.
 ---
-<!-- inactive-ok-file: CLAIM-tmplidg6 CLAIM-tmpnb4v4 LIT-tmp09f2d — Proposed or Unavailable; the claims the reading bears on, and Forst's book it reports -->
+<!-- inactive-ok-file: CLAIM-735 CLAIM-738 LIT-2722 — Proposed or Unavailable; the claims the reading bears on, and Forst's book it reports -->
 
 # NOTE-tmp2b9lt: Wenar and Cruft — Rights
 
@@ -84,19 +84,19 @@ instrumental and contractual justification.
 
 ## Bearing on the record
 
-- **[CLAIM-tmplidg6](../claims.d/CLAIM-tmplidg6.md).** The structural half: powers alter incidents,
+- **[CLAIM-735](../claims.d/CLAIM-735.md).** The structural half: powers alter incidents,
   including the authority of others, and are "definitive of all developed
   legal and political systems". The entry says nothing about justificatory
   priority.
-- **[CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md).** Gives "right" its standard sense, a claim correlative
+- **[CLAIM-738](../claims.d/CLAIM-738.md).** Gives "right" its standard sense, a claim correlative
   to a directed duty. Gilbert's demand-rights tie a right to standing to
   demand, not to a demand made, which is consistent with the claim. The
   entry does not discuss commitments.
-- **[QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md).** Inalienable rights are a recognized class, defined
+- **[QUESTION-486](../questions.d/QUESTION-486.md).** Inalienable rights are a recognized class, defined
   by how the holder's acts can affect them; moral rights are grounded in
   moral reasons, not in law; and whether inalienable rights are logically
   possible is disputed (Steiner).
-- **[LIT-tmp09f2d](../literature.d/LIT-tmp09f2d.md).** Gives a secondhand statement of Forst's right to
+- **[LIT-2722](../literature.d/LIT-2722.md).** Gives a secondhand statement of Forst's right to
   justification.
 - The exchange's A87 is faithful: "molecular" rights is the entry's term.
 

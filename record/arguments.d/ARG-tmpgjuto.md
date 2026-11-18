@@ -6,7 +6,7 @@ form: source
 grounds:
 - THEORY-1917
 concludes:
-- CLAIM-tmpciy9q
+- CLAIM-726
 tags:
 - ethics
 - moral-psychology
@@ -15,7 +15,7 @@ line:
 - dependence-and-domination
 summary: >-
   The support judgement the readings of 2026-11-18 make about
-  [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md). The claim's body gives A13 §3's teachers example as
+  [CLAIM-726](../claims.d/CLAIM-726.md). The claim's body gives A13 §3's teachers example as
   Keller's, unchecked. Read ([NOTE-2005](../notes.d/NOTE-2005.md)), the example is Keller's
   (p. 24), but it is not an instance of the claim. The actor is "a
   government official in charge of teachers' employment"; "The teachers
@@ -27,13 +27,13 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpciy9q CLAIM-619 — Proposed or new; the reading and the claims the argument joins -->
+<!-- inactive-ok-file: CLAIM-726 CLAIM-619 — Proposed or new; the reading and the claims the argument joins -->
 
 # ARG-tmpgjuto: Keller's teachers case does not instance the claim that a party can arrange another's real wrong and use the true accusation against them: in Keller the teachers do no wrong and the publicity the official anticipates is a smear
 
 ## The inference
 
-From Keller's case, as A13 §3 relays it, to [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md): a party
+From Keller's case, as A13 §3 relays it, to [CLAIM-726](../claims.d/CLAIM-726.md): a party
 arranges the conditions under which another commits a real wrong and uses
 the true accusation, before an audience it anticipated, to justify further
 control.

@@ -6,7 +6,7 @@ form: source
 grounds:
 - THEORY-tmp50zaf
 concludes:
-- CLAIM-tmp6vck6
+- CLAIM-720
 tags:
 - ethics
 - society-and-governance
@@ -15,7 +15,7 @@ line:
 - dependence-and-domination
 summary: >-
   The support judgement the readings of 2026-11-18 make about
-  [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md), filed "after Locke's Second Treatise §§22–23 and 135".
+  [CLAIM-720](../claims.d/CLAIM-720.md), filed "after Locke's Second Treatise §§22–23 and 135".
   Skimmed on the cited sections ([NOTE-tmpzqo4b](../notes.d/NOTE-tmpzqo4b.md)), Locke carries the form:
   "No body can give more power than he has himself" (§23), and "no body
   has an absolute arbitrary power over himself" (§135). He does not carry
@@ -27,13 +27,13 @@ summary: >-
   forfeiture. Proposed: the verdict is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp50zaf CLAIM-tmp6vck6 NOTE-tmpzqo4b — Proposed, Skimmed or new; the reading and the claim the argument joins -->
+<!-- inactive-ok-file: THEORY-tmp50zaf CLAIM-720 NOTE-tmpzqo4b — Proposed, Skimmed or new; the reading and the claim the argument joins -->
 
 # ARG-tmpttrcb: Locke's Second Treatise carries the form of the claim that no delegation can confer what the delegator lacks, but grounds it in the absence of power over one's own life and admits forfeiture by fault, so it does not carry inalienable standing in general
 
 ## The inference
 
-From Locke, Second Treatise §§6, 22–23, 135 and 168, to [CLAIM-tmp6vck6](../claims.d/CLAIM-tmp6vck6.md):
+From Locke, Second Treatise §§6, 22–23, 135 and 168, to [CLAIM-720](../claims.d/CLAIM-720.md):
 inalienability is a limit on normative powers, not on exercise; a person's
 standing cannot be removed by delegation, contract, collective decision or
 success in imposing an arrangement.

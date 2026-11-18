@@ -13,15 +13,15 @@ tags:
 - ethics
 date: '2026-11-18'
 source:
-- LIT-tmpueqz7
+- LIT-2760
 bears_on:
-- QUESTION-tmphoumu
+- QUESTION-482
 summary: >-
-  Pettit, On the People's Terms (2012), [LIT-tmpueqz7](../literature.d/LIT-tmpueqz7.md), skimmed in [NOTE-tmpenh5u](../notes.d/NOTE-tmpenh5u.md)
+  Pettit, On the People's Terms (2012), [LIT-2760](../literature.d/LIT-2760.md), skimmed in [NOTE-tmpenh5u](../notes.d/NOTE-tmpenh5u.md)
   from the publisher's openings of three parts: people control the state
   "just insofar as they have an individualized, unconditioned and
   efficacious influence that pushes it in a direction that they find
-  acceptable". It bears on [QUESTION-tmphoumu](../questions.d/QUESTION-tmphoumu.md) (insulation of influence as a
+  acceptable". It bears on [QUESTION-482](../questions.d/QUESTION-482.md) (insulation of influence as a
   condition of independence). Proposed: the argument is unread. The wording
   is the reader's; adopting it is the owner's call.
 ---
@@ -29,7 +29,7 @@ summary: >-
 
 # THEORY-tmp66aty: Pettit proposes that a state is legitimate insofar as it imposes its order under popular control, and that the people control the state insofar as they have an individualized, unconditioned and efficacious influence over it that pushes it in a direction they find acceptable, realized by individual contestation, a resistive citizenry and channels of influence insulated from electoral pressures and private lobbies
 
-Pettit, *On the People's Terms* (2012), [LIT-tmpueqz7](../literature.d/LIT-tmpueqz7.md).
+Pettit, *On the People's Terms* (2012), [LIT-2760](../literature.d/LIT-2760.md).
 
 ## The account, as far as read
 

@@ -1,10 +1,18 @@
 ---
 number: 483
-status: Open
 formerly:
 - QUESTION-tmpk7u3e
+status: Open
 title: "Does the record's organizational account only supplement contractualism, or does it show an allocation or transformation of normative powers that reasonable rejection cannot explain without importing principles of standing or authority?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Wenar (2013), Scanlon's reply (2013), Scanlon's "Contractualism
+    and Intuitionism" (2025) and the SEP entry "Contractualism" read;
+    the question's second option has a published form and a published
+    reply.
 tags:
 - ethics
 - society-and-governance
@@ -131,3 +139,8 @@ later justification) and [CLAIM-747](../claims.d/CLAIM-747.md) (the baseline of 
 product of the relationship). [QUESTION-484](QUESTION-484.md) asks a narrower question
 from the part before: whether evidence of organizational feasibility
 changes which principles can be reasonably rejected.
+
+## Note of 2026-11-17: Scanlon, Wenar and the SEP entry, read
+<!-- inactive-ok-file: THEORY-tmpup8ol THEORY-tmpegc2w THEORY-tmplw93g THEORY-tmpi0dks LIT-2721 — new readings, theories and neighbour of 2026-11-18, Proposed; the book is Unavailable -->
+
+Four readings bear on the question; each THEORY carries bears_on to it. Wenar 2013, read ([NOTE-tmp3co3x](../notes.d/NOTE-tmp3co3x.md), [THEORY-tmpup8ol](../theory.d/THEORY-tmpup8ol.md)), is a published form of the second option: "Rights of authority explain who can change what we owe to each other and how. "What we owe to each other" is a one-level concept; contractualism must be a multi-level theory" (p. 399), "a theory not only of owing to, but also a theory of authority over". Scanlon's reply, read ([NOTE-tmpzarar](../notes.d/NOTE-tmpzarar.md), [THEORY-tmpegc2w](../theory.d/THEORY-tmpegc2w.md)), answers it: "Contractualism seeks to explain not only first-order claim rights but also powers" (p. 403), the promisee's power of release among them, so an allocation of powers is not obviously beyond reasonable rejection; he concedes that which parts are called rights does not "matter very much" (pp. 403–404). Neither shows the second level for institutional powers. Scanlon's 2025 paper, read ([NOTE-tmpjth7b](../notes.d/NOTE-tmpjth7b.md), [THEORY-tmplw93g](../theory.d/THEORY-tmplw93g.md)), concedes that relevance is "broadly speaking a moral question" depending on "the relation we stand to one another and the decision that is at issue" (pp. 53–54), a place where relations do work in his own account. The SEP entry "Contractualism" ([LIT-tmp3y2ok](../literature.d/LIT-tmp3y2ok.md); [NOTE-tmpb51ae](../notes.d/NOTE-tmpb51ae.md), [THEORY-tmpi0dks](../theory.d/THEORY-tmpi0dks.md)), read as the neighbour of the unavailable book [LIT-2721](../literature.d/LIT-2721.md), gives the scope, "contractualism covers only the realm of what we owe to one another", and the circularity answer, that only what "happens to individuals" can be fed into the test: the inputs a "supplement only" reading relies on. No status changes.

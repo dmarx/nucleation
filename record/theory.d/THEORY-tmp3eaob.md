@@ -13,9 +13,9 @@ tags:
 - social-science
 date: '2026-11-18'
 source:
-- LIT-tmpbk8gi
+- LIT-2736
 summary: >-
-  Mostrous & Greenwood (Tortoise, 2024), [LIT-tmpbk8gi](../literature.d/LIT-tmpbk8gi.md), read only through
+  Mostrous & Greenwood (Tortoise, 2024), [LIT-2736](../literature.d/LIT-2736.md), read only through
   the publisher's series page and written companion in [NOTE-tmp3eo5h](../notes.d/NOTE-tmp3eo5h.md); the
   episodes were not heard. The account is the publisher's report of
   commissioned analyses whose methods were not seen. It attributes the
@@ -26,7 +26,7 @@ summary: >-
 
 # THEORY-tmp3eaob: Tortoise reports that commissioned analysts judged more than half of about a million tweets critical of Amber Heard from 2020–21 to come from inauthentic accounts, and that coordinated pro-Depp networks operated, including bot networks in Thailand and Spain and accounts whose deleted Arabic posts praised the Saudi regime
 
-Mostrous & Greenwood (Tortoise, 2024), [LIT-tmpbk8gi](../literature.d/LIT-tmpbk8gi.md).
+Mostrous & Greenwood (Tortoise, 2024), [LIT-2736](../literature.d/LIT-2736.md).
 
 ## The report
 

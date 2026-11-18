@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2029). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-tmpyo35b. Its title was: "A newer,
+    carried over: corroborates CLAIM-748. Its title was: "A newer,
     less constrained presidential adjudication has emerged in the United
     States, in which presidents make fact-specific, high-stakes
     decisions about particular targets with limited judicial oversight
@@ -35,9 +35,9 @@ source:
 - LIT-2706
 corroborates:
 - CLAIM-462
-- CLAIM-tmpyo35b
+- CLAIM-748
 ---
-<!-- inactive-ok-file: CLAIM-tmpyo35b — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-748 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpf7stg — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1923: Cuéllar argues that a newer, less-constrained presidential adjudication, fact-specific presidential decisions about particular parties made with limited judicial review, has grown as doctrine expanded White House control of agencies, norms against interference eroded and congressional oversight weakened, raising a risk of executive coercion that courts can check with a "harder look" assembled from existing doctrine
@@ -80,7 +80,7 @@ scope of this practice grows" (p. 599).
 ## From the second reading (2026-11-17)
 
 The second reading adds a relation: it corroborates the mechanism of
-[CLAIM-tmpyo35b](../claims.d/CLAIM-tmpyo35b.md), which does not rest on it. The White House "can
+[CLAIM-748](../claims.d/CLAIM-748.md), which does not rest on it. The White House "can
 successfully target opponents even when courts shut down an initial line
 of attack", with attacks "that might be thwarted by a court eventually but
 levy a high cost on those targeted in the meantime" (p. 647). It adds one

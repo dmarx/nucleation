@@ -11,7 +11,7 @@ history:
     https://www.clasp.org/sites/default/files/public/resources-and-publications/states/0314.pdf,
     7 pages, text by pdftotext. Nothing skipped. The quotes below were
     rechecked by the filer against that text on 2026-11-18. Read as a
-    stand-in for Johnson (1995), LIT-tmpozb57, and Johnson (2008),
+    stand-in for Johnson (1995), LIT-2751, and Johnson (2008),
     LIT-2715.
 date: '2026-11-18'
 summary: >-
@@ -21,7 +21,7 @@ summary: >-
   the gender-symmetry dispute as two literatures sampling different types.
   Three types only; no mutual violent control.
 ---
-<!-- inactive-ok-file: LIT-tmpozb57 LIT-2715 — Unfetched or Unavailable; the works this stands in for -->
+<!-- inactive-ok-file: LIT-2751 LIT-2715 — Unfetched or Unavailable; the works this stands in for -->
 <!-- inactive-ok-file: CLAIM-709 CASE-279 — Proposed; the entries this reading bears on -->
 
 # NOTE-tmpubjbq: Johnson, interviewed by Ooms — A Sociologist's Perspective on Domestic Violence
@@ -92,7 +92,7 @@ surveys reach different kinds.
 
 ## Connections
 
-Stands in for Johnson (1995), [LIT-tmpozb57](../literature.d/LIT-tmpozb57.md), and Johnson (2008),
+Stands in for Johnson (1995), [LIT-2751](../literature.d/LIT-2751.md), and Johnson (2008),
 [LIT-2715](../literature.d/LIT-2715.md).
 
 - It restates the core of the 2008 typology: types distinguished by control

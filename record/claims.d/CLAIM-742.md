@@ -1,10 +1,17 @@
 ---
 number: 742
-status: Proposed
 formerly:
 - CLAIM-tmpsk25g
+status: Proposed
 title: "Blame and accountability are not the same thing: an agent's diminished culpability for the reasons it acts on does not diminish the wrongfulness of what it does, the claims of those it harms, or the need for correction, because the grounds of correction are not exhausted by the grounds of blame"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Reading of Shoemaker (2019) filed; it confirms the claim's
+    correction that the three-way split is Shoemaker's, not Watson's
+    and Shoemaker's jointly.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +52,7 @@ summary: >-
   are credited below. "The grounds of correction are not exhausted by the
   grounds of blame" is A110 §12's compression of the owner's point.
 ---
+<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-714 CLAIM-717 CLAIM-733 TERM-127 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: QUESTION-068 — Deferred; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-624 THEORY-122 THEORY-147 THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
@@ -180,3 +188,12 @@ own.
   without blame "cannot simply mean treating every harm as an occasion to
   impose unrestricted restorative obligations on whichever actor is most
   accessible".
+
+## Note of 2026-11-17: The attribution of the three-way split, confirmed in Shoemaker's words
+<!-- inactive-ok-file: NOTE-tmpfi3s5 LIT-tmpxsadz LIT-2718 — Skimmed, new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+
+Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md)), for Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md)); King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md)), for Watson 1996 ([LIT-2718](../literature.d/LIT-2718.md)).
+
+The claim corrects A110's attribution of attributability, answerability and accountability to "Gary Watson and David Shoemaker" jointly. Shoemaker confirms it: of other pluralist views, Watson's *Agency and Answerability* (2004) among them, "none of them have an independent notion of answerability" (2019, n. 64), and the three labels are his, "drawn from labels already in the literature" (p. 913). King's Watson has two faces, attributability and accountability, with accountability carrying a fairness condition, "[i]t is unfair to impose sanctions upon people unless they had a reasonable opportunity to avoid incurring them" (237), which supports the claim's reading that "accountable" in the owner's sentence is not Watson's accountability face.
+
+No status changes.

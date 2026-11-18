@@ -224,7 +224,7 @@ filed. The exchange's broader ratchet, a technology made compulsory for
 those who decline it, is [CLAIM-677](CLAIM-677.md), a different mechanism. No change.
 
 ## Note of 2026-11-17: an interpersonal instance, where the shifted evidence is the target's own conduct, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpciy9q — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-726 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A9 §6 of the exchange "Assess Depp Heard Abuse" (2026-11-15) gives this
 claim's loop between two persons: "A repeatedly punishes B for
@@ -241,7 +241,7 @@ It differs from the cases this claim has held in one respect: the evidence
 is true. B did lie. A: "B may genuinely have lied. But it doesn't follow
 that A is entitled to respond with surveillance or intimidation." The use
 of a real, induced wrong as an instrument of control, aimed also at
-observers' judgement, is filed as [CLAIM-tmpciy9q](CLAIM-tmpciy9q.md), which rests on this
+observers' judgement, is filed as [CLAIM-726](CLAIM-726.md), which rests on this
 claim for the loop.
 
 No status changes.

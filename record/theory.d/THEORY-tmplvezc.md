@@ -12,25 +12,25 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmp41p2e
+- LIT-2729
 corroborates:
-- CLAIM-tmpnhesz
+- CLAIM-739
 summary: >-
-  Bovens (2007), [LIT-tmp41p2e](../literature.d/LIT-tmp41p2e.md), read in [NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md). Accountability is "a
+  Bovens (2007), [LIT-2729](../literature.d/LIT-2729.md), read in [NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md). Accountability is "a
   relationship between an actor and a forum" with an obligation to explain
   and justify, questioning and judgement, and possible consequences;
-  answerability is its interrogation stage. It corroborates [CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md),
+  answerability is its interrogation stage. It corroborates [CLAIM-739](../claims.d/CLAIM-739.md),
   which does not rest on it, in separating the forum from the principal and
-  from the party that imposes consequences, and it shows [TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md)'s
+  from the party that imposes consequences, and it shows [TERM-126](../terms.d/TERM-126.md)'s
   nesting of accountability inside answerability to be the record's own (a
   note on that term). The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnhesz TERM-tmp4zjar — Proposed or new; the reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-739 TERM-126 — Proposed or new; the reading and the entries it bears on -->
 
 # THEORY-tmplvezc: Bovens proposes that accountability, in a narrow analytical sense, is a social relation in which an actor is obliged to explain and justify its conduct to a forum that can question and judge it, with the possibility of consequences for the actor, and that whether a practice is accountability is an either/or question kept apart from classifying it by forum, actor, conduct and obligation and from evaluating it from democratic, constitutional and learning perspectives
 
-Bovens (2007), [LIT-tmp41p2e](../literature.d/LIT-tmp41p2e.md).
+Bovens (2007), [LIT-2729](../literature.d/LIT-2729.md).
 
 ## The account
 

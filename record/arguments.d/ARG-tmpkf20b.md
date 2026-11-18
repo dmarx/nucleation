@@ -7,7 +7,7 @@ grounds:
 - THEORY-tmpt4dyh
 - THEORY-tmpo5it2
 concludes:
-- CLAIM-tmpdic1g
+- CLAIM-728
 tags:
 - game-theory
 - society-and-governance
@@ -16,7 +16,7 @@ line:
 - dependence-and-domination
 summary: >-
   The support judgement the readings of 2026-11-18 make about
-  [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md), which names Grossman and Hart (1986) as its source. Read
+  [CLAIM-728](../claims.d/CLAIM-728.md), which names Grossman and Hart (1986) as its source. Read
   ([NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md)), the work carries the claim's first clause: residual
   rights are "the right to control all aspects of the asset that have not
   been explicitly given away by contract", and "the employer has many of
@@ -30,13 +30,13 @@ summary: >-
   she needs and her replaceability. Proposed: the verdict is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpt4dyh CLAIM-tmpdic1g NOTE-tmpk6jrn — Proposed, Skimmed or new; the readings and the claim the argument joins -->
+<!-- inactive-ok-file: THEORY-tmpt4dyh CLAIM-728 NOTE-tmpk6jrn — Proposed, Skimmed or new; the readings and the claim the argument joins -->
 
 # ARG-tmpkf20b: Grossman and Hart carry the definition of residual rights of control, and not the claim that their holder decides an uncovered contingency alone or that the control is exercised and seen only when the contingency arises: in their model the parties renegotiate, and the allocation acts in advance through investment
 
 ## The inference
 
-From Grossman and Hart (1986), with Hart's 2016 lecture, to [CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md):
+From Grossman and Hart (1986), with Hart's 2016 lecture, to [CLAIM-728](../claims.d/CLAIM-728.md):
 in an incomplete contract the party holding residual rights of control
 decides the contingencies the contract left open, and that discretion is
 exercised, and seen, only when an uncovered contingency arises.

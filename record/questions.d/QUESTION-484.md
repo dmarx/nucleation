@@ -1,8 +1,8 @@
 ---
 number: 484
-status: Open
 formerly:
 - QUESTION-tmpkqvxv
+status: Open
 title: 'How does evidence of what an arrangement can feasibly realize bear on which principles governing it can reasonably be rejected: can expanding what it can realize change which principles are justifiable, and do mistaken beliefs about feasibility distort that judgment?'
 version: 1
 tags:

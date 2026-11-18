@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-1996). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-tmpohafo. Its title was:
+    carried over: corroborates CLAIM-740. Its title was:
     "Counterfactual explanations used to justify a decision or to offer
     recourse are partly artifacts of the deployer's upstream choices of
     labels, measures, selection metrics and validation, which shift them
@@ -33,9 +33,9 @@ promote_when: >-
 source:
 - LIT-2713
 corroborates:
-- CLAIM-tmpohafo
+- CLAIM-740
 ---
-<!-- inactive-ok-file: CLAIM-tmpohafo — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-740 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpu63nn — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1941: Cerrato, Sahlgren and Heilmann find that, in a simulated hiring screen, an organization's upstream choices of label, feature measurement and model-selection metric change the counterfactual explanations given to rejected candidates more than the explanation method's own validity threshold does, and argue that counterfactual explanations used as justification or recourse therefore bracket the decision-maker's contestable choices and put the burden of a better outcome on the subject
@@ -56,7 +56,7 @@ On American Community Survey data, with a screening label top 10% of earners und
 
 ## From the second reading (2026-11-17)
 
-The second reading adds a relation: it corroborates [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md)'s
+The second reading adds a relation: it corroborates [CLAIM-740](../claims.d/CLAIM-740.md)'s
 split of explanation from contestation, which does not rest on it ("it may
 be impossible for subjects to reverse their decisions through contesting
 such choices absent appropriate transparency"). It does not touch the

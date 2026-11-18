@@ -32,7 +32,7 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its CLAIM-tmph28l6 (execution against contestation friction, A23 §2) was
+    its CLAIM-731 (execution against contestation friction, A23 §2) was
     compared with this entry and judged distinct (this claim is about three
     properties of a step; that one about the institution's cost of acting
     against the affected party's cost of contesting); complements CLAIM-
@@ -58,7 +58,7 @@ complements:
 - CLAIM-710
 - CLAIM-711
 - CLAIM-523
-- CLAIM-tmph28l6
+- CLAIM-731
 uses:
 - TERM-125
 summary: >-
@@ -77,7 +77,7 @@ summary: >-
   itself about others' power to intervene. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmph28l6 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-731 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-710 CLAIM-711 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: TERM-125 THEORY-1931 THEORY-1920 THEORY-1938 — filed from the exchange or its readings, Proposed -->
 
@@ -131,7 +131,7 @@ is visible to them. The record does not settle the word.
   opportunity needs; a gate supplies neither by itself.
 - [CLAIM-711](CLAIM-711.md) and [CLAIM-710](CLAIM-710.md): the disagreement this claim leaves
   open, and the claims it complements.
-- [CLAIM-tmph28l6](CLAIM-tmph28l6.md), from the continuation of the same exchange, is A's
+- [CLAIM-731](CLAIM-731.md), from the continuation of the same exchange, is A's
   A23 §2 filed as a claim: an institution can cut its cost of acting while
   the affected party's cost of contesting stays or rises. It is distinct
   from this claim, which is about three properties of a single step and

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpappcx'
+paper: 'LIT-2734'
 title: 'Mischel, Ebbesen and Zeiss — Cognitive and attentional mechanisms in delay of gratification'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   wait into something easier. The attention was redirected by the
   experimenters, and the children did not choose the strategy beforehand.
 ---
-<!-- inactive-ok-file: CASE-tmp07hx9 CLAIM-tmpt091d THEORY-680 — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-281 CLAIM-744 THEORY-680 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpxyktj: Mischel, Ebbesen and Zeiss — Cognitive and attentional mechanisms in delay of gratification
 
@@ -92,7 +92,7 @@ pleasant.
 
 ## Bearing on the record
 
-- **[CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md)** (the Mischel arm). Confirms it, with a correction: the
+- **[CASE-281](../cases.d/CASE-281.md)** (the Mischel arm). Confirms it, with a correction: the
   attention was redirected by the experimenters, not by the children of
   their own accord, and the children did not know the strategy
   beforehand. That fits the case's point that "waiting depended partly on
@@ -103,7 +103,7 @@ pleasant.
   organization rather than force ("effective self-control may hinge on
   transforming the difficult into the easy"), but the paper is about
   attention in one paradigm, not about resolve; not filed as a relation.
-- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)**. Holds fixed the variable the claim turns on: bell
+- **[CLAIM-744](../claims.d/CLAIM-744.md)**. Holds fixed the variable the claim turns on: bell
   training shows the experimenter returns, so reliability is not tested.
 - **[LIT-554](../literature.d/LIT-554.md) / [NOTE-429](NOTE-429.md) / [THEORY-680](../theory.d/THEORY-680.md)** (Gross on emotion regulation). This
   is a classic instance of attentional deployment as a regulation

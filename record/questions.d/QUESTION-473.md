@@ -10,7 +10,7 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its QUESTION-tmpvoufs (agents holding principals accountable for
+    its QUESTION-487 (agents holding principals accountable for
     conditions) was compared with this question and judged distinct; a
     sentence on the difference added. No change of status or title.
 tags:
@@ -34,7 +34,7 @@ summary: >-
   organization may need to sanction dangerous conduct that it helped to
   produce. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpvoufs — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: QUESTION-487 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: THEORY-1912 CLAIM-708 CLAIM-707 CLAIM-702 CLAIM-713 — Proposed; cited with their standing -->
 
 # QUESTION-473: When an organization has substantially contributed to the conditions that produced an agent's wrongdoing, what remains of its moral standing to blame that agent, as distinct from its authority to investigate, correct or sanction the wrongdoing?
@@ -65,7 +65,7 @@ intact. Distinct from [QUESTION-470](QUESTION-470.md), which asks who must repai
 not who may condemn for it.
 
 The continuation of the same exchange filed A17's inverse question as
-[QUESTION-tmpvoufs](QUESTION-tmpvoufs.md): by what instruments agents can hold principals
+[QUESTION-487](QUESTION-487.md): by what instruments agents can hold principals
 accountable for the conditions they set. Distinct: this question asks what
 the principal may still do to the agent, that one what the agent can do to
 the principal.

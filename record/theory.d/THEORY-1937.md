@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2033). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-tmp238zy. Its title was:
+    carried over: corroborates CLAIM-715. Its title was:
     "Deliberately designed friction in human-AI interaction, such as
     cognitive forcing functions, pauses, justification prompts and AI
     that challenges rather than obeys, can counter automation bias and
@@ -30,11 +30,11 @@ promote_when: >-
 source:
 - LIT-2687
 corroborates:
-- CLAIM-tmp238zy
+- CLAIM-715
 bears_on:
 - QUESTION-471
 ---
-<!-- inactive-ok-file: CLAIM-tmp238zy — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-715 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpiwzpj — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: THEORY-1765 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1937: Natali, Naiseh, Cabitza and Frischmann propose that AI decision support be designed with friction, deliberate inefficiencies at critical points of the interaction such as pauses before AI output, cognitive forcing functions and seamful design, to counter automation bias and preserve users' judgement, agency and accountability, and set an agenda for calibrating it, reporting no evidence of their own
@@ -56,11 +56,11 @@ Nothing empirical: the poster defines designed friction ("deliberate inefﬁcien
 ## From the second reading (2026-11-17)
 
 The second reading adds a relation: it corroborates the premise of
-[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md), which does not rest on it, as evidence of the framing the
+[CLAIM-715](../claims.d/CLAIM-715.md), which does not rest on it, as evidence of the framing the
 claim describes. Every mechanism proposed acts on the user's thinking, and
 the claimed effect, that friction "strengthens accountability", names no
 party to whom anyone answers. One limit:
 
 - **Whose accountability it strengthens.** The friction is on the user's
   thinking, not on the institution's authority, which is what
-  [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md) separates.
+  [CLAIM-715](../claims.d/CLAIM-715.md) separates.

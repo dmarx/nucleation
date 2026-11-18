@@ -31,7 +31,7 @@ promote_when: >-
 source:
 - LIT-2710
 ---
-<!-- inactive-ok-file: CLAIM-tmpciy9q — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-726 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmppzel6 — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1926: Harsey and Freyd find, in a vignette experiment with 235 undergraduates, that an accused perpetrator's DARVO statement in response to a sexual-assault accusation leads observers to rate him as less abusive, less responsible and more believable, to rate the victim as less believable and more abusive, and to be less willing to punish him, while insincere apologies had little effect
@@ -62,5 +62,5 @@ victim should not be punished fell from 92.9% to 66.9%) and the size of the
 responsibility effect (partial η² = .021, small). It adds one limit:
 
 - **Anything about a true accusation.** DARVO here calls the accusation
-  false, so the study does not bear on [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md), which concerns
+  false, so the study does not bear on [CLAIM-726](../claims.d/CLAIM-726.md), which concerns
   a true accusation of a wrong the accuser arranged. No relation.

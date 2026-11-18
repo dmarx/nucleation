@@ -18,7 +18,7 @@ reported_in:
 illustrates:
 - CLAIM-707
 bears_on:
-- QUESTION-tmp2t6ve
+- QUESTION-476
 summary: >-
   The Uber test-vehicle crash, as the NTSB's final report finds it
   (HAR-19/03, 2019; [LIT-2664](../literature.d/LIT-2664.md), read in [NOTE-2034](../notes.d/NOTE-2034.md)), the case A17 of
@@ -84,7 +84,7 @@ Page numbers are the report's.
   from this case: "A moral crumple zone can contain someone who is partly
   responsible for the failure."
 - **A no-blame investigation that keeps upstream provenance**, for
-  [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md): the NTSB "does not assign fault or blame", and still
+  [QUESTION-476](../questions.d/QUESTION-476.md): the NTSB "does not assign fault or blame", and still
   names the company's culture and the state's oversight as contributing.
 
 ## What it cannot show

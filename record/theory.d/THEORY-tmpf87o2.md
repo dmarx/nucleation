@@ -14,24 +14,24 @@ tags:
 - social-science
 date: '2026-11-18'
 source:
-- LIT-tmpg8vrx
+- LIT-2740
 corroborates:
 - CLAIM-523
 - CLAIM-403
-- CLAIM-tmpm95mo
+- CLAIM-736
 summary: >-
-  Arnstein (1969), [LIT-tmpg8vrx](../literature.d/LIT-tmpg8vrx.md), read from an OCR scan in [NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md). It
+  Arnstein (1969), [LIT-2740](../literature.d/LIT-2740.md), read from an OCR scan in [NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md). It
   corroborates three claims that do not rest on it: [CLAIM-523](../claims.d/CLAIM-523.md) and
   [CLAIM-403](../claims.d/CLAIM-403.md) (voice made legible or admitted without efficacy or uptake)
-  and [CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md) (citizen majorities and community control contained
+  and [CLAIM-736](../claims.d/CLAIM-736.md) (citizen majorities and community control contained
   by another's veto and resources). The wording is the reader's; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpm95mo — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-736 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # THEORY-tmpf87o2: Citizen participation is meaningful to the degree that it redistributes power over outcomes: an eight-rung ladder runs from non-participation (manipulation, therapy) through tokenism (informing, consultation, placation), where citizens may hear and be heard without power to ensure they are heeded, to citizen power (partnership, delegated power, citizen control)
 
-Arnstein (1969), [LIT-tmpg8vrx](../literature.d/LIT-tmpg8vrx.md).
+Arnstein (1969), [LIT-2740](../literature.d/LIT-2740.md).
 
 ## The account
 

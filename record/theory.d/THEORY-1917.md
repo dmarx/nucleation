@@ -38,7 +38,7 @@ corroborates:
 bears_on:
 - QUESTION-472
 ---
-<!-- inactive-ok-file: ARG-tmpgjuto CLAIM-708 CLAIM-tmpciy9q — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: ARG-tmpgjuto CLAIM-708 CLAIM-726 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpg9i9l — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-703 CLAIM-713 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1917: Keller argues that a person can wrongfully place another under a genuine moral obligation, by changing her circumstances so that every alternative to what he wants is morally unacceptable, and that fiduciary roles expose those who hold them to this moral blackmail because they predictably generate special obligations that exceed and outlast the fiduciary duty
@@ -74,6 +74,6 @@ limits:
 - **That the targeted party commits a wrong.** In every case the victim is
   pressed to do what is right. The teachers' strike is their "right", and
   the publicity the official expects is a smear. So it carries nothing for
-  [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md)'s true accusation of a real wrong ([ARG-tmpgjuto](../arguments.d/ARG-tmpgjuto.md)).
+  [CLAIM-726](../claims.d/CLAIM-726.md)'s true accusation of a real wrong ([ARG-tmpgjuto](../arguments.d/ARG-tmpgjuto.md)).
 - **Unintended reliance.** All of Keller's cases are deliberate, where
   [CLAIM-713](../claims.d/CLAIM-713.md) allows reliance "without intending to exploit anyone".

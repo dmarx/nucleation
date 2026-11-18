@@ -13,9 +13,9 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpog11n
+- LIT-2750
 summary: >-
-  Shue, Basic Rights (1980; 40th-anniversary edition 2020), [LIT-tmpog11n](../literature.d/LIT-tmpog11n.md),
+  Shue, Basic Rights (1980; 40th-anniversary edition 2020), [LIT-2750](../literature.d/LIT-2750.md),
   skimmed in [NOTE-tmpzchma](../notes.d/NOTE-tmpzchma.md): the Introduction and index of the publisher's
   sample. The triad of duties is given by the index ("of avoidance,
   protection and aid") and is unread in the text, hence Proposed. It
@@ -27,7 +27,7 @@ summary: >-
 
 # THEORY-tmpwtcj0: Shue argues that rights to subsistence, security and liberty are basic rights, so that subsistence rights share the highest priority with security and liberty, that defending them chiefly means answering the objection that their correlative duties ask too much of others, and that those duties are of avoidance, protection and aid
 
-Shue, *Basic Rights* (1980; 2020), [LIT-tmpog11n](../literature.d/LIT-tmpog11n.md).
+Shue, *Basic Rights* (1980; 2020), [LIT-2750](../literature.d/LIT-2750.md).
 
 ## The account
 

@@ -17,7 +17,7 @@ history:
     contracting) and the opening of §5 (foundations). Skimmed by keyword:
     the rest of §5 and §6. Hence Skimmed. The quotes below were rechecked
     by the filer against the same copy on 2026-11-18. Read as a stand-in
-    for Hart & Moore (1990), LIT-tmph6tkz.
+    for Hart & Moore (1990), LIT-2742.
 date: '2026-11-18'
 summary: >-
   Hart's own account of property rights theory: an incomplete contract
@@ -31,7 +31,7 @@ summary: >-
   and showed that synergistic assets belong together and that assets
   should be owned by indispensable human capital.
 ---
-<!-- inactive-ok-file: CASE-tmpm0rpn CLAIM-tmpdic1g CLAIM-tmpt091d LIT-tmph6tkz — Proposed, Unfetched; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-288 CLAIM-728 CLAIM-744 LIT-2742 — Proposed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpk6jrn: Hart — Incomplete Contracts and Control
 
@@ -89,24 +89,24 @@ financial contracts; public against private provision.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpdic1g](../claims.d/CLAIM-tmpdic1g.md)**. Corroborates its first clause in an author's words
+- **[CLAIM-728](../claims.d/CLAIM-728.md)**. Corroborates its first clause in an author's words
   ("who has the right to decide about the missing things?"), and the
   veto example is a clean case of discretion exercised over an uncovered
   contingency, a new idea the manager wants to implement. It qualifies the
   claim's worker example: power over a worker runs through ownership of
   the assets she needs and her replaceability, not the employment label.
-  And, as in Grossman and Hart ([LIT-tmpjy1vu](../literature.d/LIT-tmpjy1vu.md)), the parties anticipate
+  And, as in Grossman and Hart ([LIT-2745](../literature.d/LIT-2745.md)), the parties anticipate
   hold-up and adjust beforehand, so the discretion is not seen only when
   the contingency arises.
-- **[CLAIM-tmpt091d](../claims.d/CLAIM-tmpt091d.md)**. The plant declining to become dependent on an
+- **[CLAIM-744](../claims.d/CLAIM-744.md)**. The plant declining to become dependent on an
   unreliable mine is a firm-level analogue of declining to wait for an
   unreliable promisor; the lecture does not draw that line.
-- **[CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)**. §4's private prisons, where a provider uses residual
+- **[CASE-288](../cases.d/CASE-288.md)**. §4's private prisons, where a provider uses residual
   rights to cut unmeasured quality, are near the hospitals' case.
 
 ## Connections
 
-Stands in for Hart & Moore (1990), [LIT-tmph6tkz](../literature.d/LIT-tmph6tkz.md), for its place in the
+Stands in for Hart & Moore (1990), [LIT-2742](../literature.d/LIT-2742.md), for its place in the
 theory (the generalization of Grossman–Hart to many assets and workers and
 to joint ownership) and for two results stated in one sentence each
 (synergistic assets owned together; assets owned by indispensable human

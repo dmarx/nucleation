@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2032). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-tmp238zy. Its title was: "Early
+    carried over: corroborates CLAIM-715. Its title was: "Early
     public-sector pilots of generative-AI work tools, on Choroszewicz's
     ethnography, position their users as moral crumple zones:
     responsibility for oversight, verification and interpretation is
@@ -33,9 +33,9 @@ source:
 - LIT-2689
 corroborates:
 - CLAIM-707
-- CLAIM-tmp238zy
+- CLAIM-715
 ---
-<!-- inactive-ok-file: CLAIM-tmp238zy — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-715 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpmdej3 — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1916: Choroszewicz finds, from 2.5 years of ethnography of generative-AI tool trials in two Finnish public organizations, that test users were positioned as moral crumple zones: held responsible for the quality, verification and appropriate use of outputs from immature, opaque tools they could not shape, with poor outputs framed as user error, through five mechanisms: oversight and liability taken for granted, immature tools marketed as sparring buddies, trial-and-error learning offloaded to users, limited transparency, and a burden of vigilance against persuasive but fallible outputs
@@ -67,7 +67,7 @@ claim's blame-after-visible-failure clause.
 
 ## From the second reading (2026-11-17)
 
-The second reading adds a relation: it corroborates [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md), which
+The second reading adds a relation: it corroborates [CLAIM-715](../claims.d/CLAIM-715.md), which
 does not rest on it. Verification duties are placed on users, "to act as
 testers, AI outputs' quality verifiers and interpreters" (p. 9), while
 "Codifying responsibility as a user burden insulates technologies and

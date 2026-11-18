@@ -14,7 +14,7 @@ history:
     capacity). The chapters on Pogge and the rest were not read. Hence
     Skimmed. The quotes below were rechecked by the filer against that
     text on 2026-11-18. Read as a stand-in for Miller (2001),
-    LIT-tmpqsyr9.
+    LIT-2755.
 date: '2026-11-18'
 summary: >-
   Reports Miller's 2007 connection theory with page numbers: outcome and
@@ -23,8 +23,8 @@ summary: >-
   responsibility, benefit, capacity, community), so that capacity alone
   can put the duty of repair on a faultless agent.
 ---
-<!-- inactive-ok-file: LIT-tmpqsyr9 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmp4o53g CLAIM-708 CLAIM-tmp0wx69 TERM-tmp8pnnr CASE-tmpd0hyp — Proposed; the entries this reading bears on -->
+<!-- inactive-ok-file: LIT-2755 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-717 CLAIM-708 CLAIM-714 TERM-127 CASE-284 — Proposed; the entries this reading bears on -->
 
 # NOTE-tmps8s9k: Shaw-Young — Global Institutions and Human Rights (on Miller's connection theory)
 
@@ -70,7 +70,7 @@ The thesis takes Miller's 2007 book as the statement of his view.
 
 ## Bearing on the record
 
-- **[CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md)** (blame and repair do not substitute): corroborates
+- **[CLAIM-717](../claims.d/CLAIM-717.md)** (blame and repair do not substitute): corroborates
   the half "assigning present remedial duties does not show that those
   who bear them were to blame": the capacity connection puts the rescue on
   a bystander who did nothing wrong.
@@ -80,12 +80,12 @@ The thesis takes Miller's 2007 book as the statement of his view.
   coercer's wrong stands beside the actor's culpability. Miller speaks of
   repair, not blame, so the two are compatible; but repair can fall on the
   structured party.
-- **[CLAIM-tmp0wx69](../claims.d/CLAIM-tmp0wx69.md)** (self-induced incapacity): nothing reached addresses
+- **[CLAIM-714](../claims.d/CLAIM-714.md)** (self-induced incapacity): nothing reached addresses
   it.
-- **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: its remedial sense is Miller's term, and its causal
+- **[TERM-127](../terms.d/TERM-127.md)**: its remedial sense is Miller's term, and its causal
   sense matches Miller's causal responsibility; Miller's outcome
   responsibility has no slot among the term's five senses.
-- **[CASE-tmpd0hyp](../cases.d/CASE-tmpd0hyp.md)**: the capacity ground the case says it has not read is
+- **[CASE-284](../cases.d/CASE-284.md)**: the capacity ground the case says it has not read is
   here in Miller's words, as reported.
 - **The exchange's characterization** (A110: "causal involvement, moral
   responsibility, relevant relationships, and capacity to remedy"): all
@@ -94,7 +94,7 @@ The thesis takes Miller's 2007 book as the statement of his view.
 
 ## Connections
 
-Stands in, weakly, for Miller (2001), [LIT-tmpqsyr9](../literature.d/LIT-tmpqsyr9.md): it reports the 2007
+Stands in, weakly, for Miller (2001), [LIT-2755](../literature.d/LIT-2755.md): it reports the 2007
 form of the connection theory, not the article, which it cites once in its
 2005 reprint for Miller's use of Hart and Honoré.
 

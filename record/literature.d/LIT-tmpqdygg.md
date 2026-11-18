@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   read in part 2026-11-17 ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md)) from Queen's University's
-  repository, as a weak read neighbour of Miller (2001), [LIT-tmpqsyr9](LIT-tmpqsyr9.md),
+  repository, as a weak read neighbour of Miller (2001), [LIT-2755](LIT-2755.md),
   which could not be read; worth reading here only for its chapter on
   Miller, which reports with page numbers the connection theory of
   remedial responsibility as Miller states it in National Responsibility
@@ -14,7 +14,7 @@ history:
   date: '2026-11-18'
   note: >-
     Registered as a stand-in for Miller, "Distributing Responsibilities"
-    (2001), LIT-tmpqsyr9, registered from the exchange "Assess Depp Heard
+    (2001), LIT-2755, registered from the exchange "Assess Depp Heard
     Abuse". Not held before: record/ was searched for the title,
     Shaw-Young and "connection theory". An MA thesis, Department of
     Philosophy, Queen's University, Kingston, dated in the copy
@@ -51,11 +51,11 @@ summary: >-
   a coerced agent can inherit the duty of repair when the coercer
   "disappears from the scene". Shaw-Young argues that only moral and
   outcome responsibility ground duties of justice. Registered as the weak
-  read neighbour of Miller 2001, [LIT-tmpqsyr9](LIT-tmpqsyr9.md). It corroborates the second
-  half of [CLAIM-tmp4o53g](../claims.d/CLAIM-tmp4o53g.md).
+  read neighbour of Miller 2001, [LIT-2755](LIT-2755.md). It corroborates the second
+  half of [CLAIM-717](../claims.d/CLAIM-717.md).
 ---
-<!-- inactive-ok-file: LIT-tmpqsyr9 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: NOTE-tmps8s9k CLAIM-tmp4o53g — new or Proposed; this work's reading and the claim it corroborates -->
+<!-- inactive-ok-file: LIT-2755 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: NOTE-tmps8s9k CLAIM-717 — new or Proposed; this work's reading and the claim it corroborates -->
 
 # LIT-tmpqdygg: Global Institutions and Human Rights: A Critical Essay on Thomas Pogge, and the Attribution of Remedial Responsibility in Cases of Human Rights Violations
 
@@ -75,7 +75,7 @@ Shaw-Young, J. (2008). *Global Institutions and Human Rights: A Critical Essay o
 ## Standing in the record
 
 Registered on 2026-11-18 as a weak read neighbour of Miller (2001),
-[LIT-tmpqsyr9](LIT-tmpqsyr9.md). It reports Miller's 2007 statement, not the 2001 article,
+[LIT-2755](LIT-2755.md). It reports Miller's 2007 statement, not the 2001 article,
 which it cites once, in a 2005 reprint, for Miller's use of Hart and
 Honoré on causation. Only Miller's words as quoted with page numbers stand
 in for Miller; the thesis's own argument is a critique.

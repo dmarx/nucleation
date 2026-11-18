@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2019). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: bears_on QUESTION-tmp2t6ve, QUESTION-tmpvoufs. Its
+    carried over: bears_on QUESTION-476, QUESTION-487. Its
     title was: "A moral crumple zone, on Elish's account: when control
     over a highly automated system is distributed, responsibility for
     its failure can be misattributed to the nearest human operator, who
@@ -34,8 +34,8 @@ promote_when: >-
 source:
 - LIT-2665
 bears_on:
-- QUESTION-tmp2t6ve
-- QUESTION-tmpvoufs
+- QUESTION-476
+- QUESTION-487
 corroborates:
 - CLAIM-707
 ---
@@ -87,7 +87,7 @@ light slowly and whose operator could not know of the malfunction, lawsuits
 went to the manufacturer. [CLAIM-707](../claims.d/CLAIM-707.md)'s text does not yet state this
 limit.
 
-It bears on [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md) (the Therac-25 contrast is a case where
-fault went upstream) and, weakly, on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) (Elish names
+It bears on [QUESTION-476](../questions.d/QUESTION-476.md) (the Therac-25 contrast is a case where
+fault went upstream) and, weakly, on [QUESTION-487](../questions.d/QUESTION-487.md) (Elish names
 certification reform as a lever, p. 54, but no instrument by which
 operators hold principals to account).

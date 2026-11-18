@@ -1,8 +1,8 @@
 ---
 number: 724
-status: Proposed
 formerly:
 - CLAIM-tmpbqunx
+status: Proposed
 title: 'Against a challenged party who can act on the means of correction, correctability is a robust quantity, the chance that a corrective policy reaches its objective against every strategy in a declared class of opposition, and it depends on who moves first, since a corrector that must commit before seeing the opposition can do strictly worse than one that responds to it; judged against the opposition the procedural rules permit, failure shows the institution inadequate, and failure owed to opposition outside them shows a wrong by the opponent as well'
 version: 1
 role: thesis

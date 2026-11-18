@@ -13,7 +13,7 @@ history:
     continuation of the exchange's readings filed from its second
     reading of the same work (NOTE-2010). It stated the same account and
     was never merged, so it was folded in here and removed. Relations
-    carried over: corroborates CLAIM-707; bears_on QUESTION-tmpvoufs.
+    carried over: corroborates CLAIM-707; bears_on QUESTION-487.
     Its title was: "Privileged irresponsibility, on Tronto's account, is
     the capability of the relatively privileged to refuse unpleasant or
     burdensome responsibilities, a major source of injustice; a caring
@@ -32,7 +32,7 @@ promote_when: >-
 source:
 - LIT-2711
 bears_on:
-- QUESTION-tmpvoufs
+- QUESTION-487
 corroborates:
 - CLAIM-707
 ---
@@ -68,7 +68,7 @@ The second reading adds two relations. It corroborates the upstream strand
 of [CLAIM-707](../claims.d/CLAIM-707.md), which does not rest on it: the privileged can refuse
 burdensome responsibilities (p. 8), and diffused responsibility relieves
 those with most causal responsibility (p. 11); Tronto says nothing of blame
-or control. It bears on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md): hearing everyone in the
+or control. It bears on [QUESTION-487](../questions.d/QUESTION-487.md): hearing everyone in the
 reallocation is a democratic answer in kind, not a principal–agent
 mechanism. One limit:
 

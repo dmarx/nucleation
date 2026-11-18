@@ -35,7 +35,7 @@ corroborates:
 bears_on:
 - QUESTION-068
 ---
-<!-- inactive-ok-file: TERM-tmp8pnnr — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: TERM-127 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpzdtc8 — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: QUESTION-068 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1915: Zeiser argues that AI decision support threatens responsibility chiefly as attributability rather than accountability: a decision a human makes with a tool that presupposes outcome-shaping values she has not endorsed does not express her value-judgements, an attributability gap that comes in degrees and that descriptive tools open as well as prescriptive ones
@@ -65,5 +65,5 @@ attributability is "a more robust basis" for it.
 
 - **That endorsement suffices for ownership** is not shown: endorsement
   can itself be shaped, which the paper does not treat.
-- It gives [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md) a source for a narrower attributability sense
+- It gives [TERM-127](../terms.d/TERM-127.md) a source for a narrower attributability sense
   (whose value-judgements a decision expresses).

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpuihi6'
+paper: 'LIT-2761'
 title: 'Schlager and Ostrom — Property-rights regimes and natural resources'
 version: 1
 history:
@@ -28,7 +28,7 @@ summary: >-
   proprietor, owner. De facto rights matter; Maine lobster grounds bear it
   out.
 ---
-<!-- inactive-ok-file: CLAIM-tmpcpijj CASE-tmp9vd9x CLAIM-545 THEORY-1809 — Proposed; the entries the reading bears on -->
+<!-- inactive-ok-file: CLAIM-727 CASE-282 CLAIM-545 THEORY-1809 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmpr5h7q: Schlager and Ostrom — Property-rights regimes and natural resources
 
@@ -85,16 +85,16 @@ user, claimant, proprietor, owner; de jure and de facto rights.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpcpijj](../claims.d/CLAIM-tmpcpijj.md).** The structural premise: authority at one level does
+- **[CLAIM-727](../claims.d/CLAIM-727.md).** The structural premise: authority at one level does
   not carry authority at another (the rights are "independent of one
   another"; management without exclusion), and exercising a right is
   distinct from defining it. The paper does not discuss contesting
   decisions. [CLAIM-086](../claims.d/CLAIM-086.md) is the record's nearest own statement of the level
   separation.
-- **[QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md).** The constitutional level (n. 2) is where the
+- **[QUESTION-481](../questions.d/QUESTION-481.md).** The constitutional level (n. 2) is where the
   question sits; the paper names positions but not which protections lie
   beyond revision.
-- **[CASE-tmp9vd9x](../cases.d/CASE-tmp9vd9x.md).** In this vocabulary the recycler's owner holds
+- **[CASE-282](../cases.d/CASE-282.md).** In this vocabulary the recycler's owner holds
   exclusion and alienation over a complementary facility and bargains for
   management-level authority over the aquifer; the paper treats one
   resource's bundle, not leverage across resources.

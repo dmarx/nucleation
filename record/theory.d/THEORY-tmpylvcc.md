@@ -10,23 +10,23 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpt4av6
+- LIT-2759
 bears_on:
-- QUESTION-tmptinzk
-- QUESTION-tmpgeqju
+- QUESTION-486
+- QUESTION-481
 summary: >-
-  The Declaration of Independence (1776), [LIT-tmpt4av6](../literature.d/LIT-tmpt4av6.md), read in [NOTE-tmpndj02](../notes.d/NOTE-tmpndj02.md).
+  The Declaration of Independence (1776), [LIT-2759](../literature.d/LIT-2759.md), read in [NOTE-tmpndj02](../notes.d/NOTE-tmpndj02.md).
   "certain unalienable Rights"; governments "deriving their just powers from
   the consent of the governed"; "the Right of the People to alter or to
   abolish it", bounded by "light and transient causes". It bears on
-  [QUESTION-tmptinzk](../questions.d/QUESTION-tmptinzk.md) (rights prior to government) and [QUESTION-tmpgeqju](../questions.d/QUESTION-tmpgeqju.md) (the
+  [QUESTION-486](../questions.d/QUESTION-486.md) (rights prior to government) and [QUESTION-481](../questions.d/QUESTION-481.md) (the
   People, with a threshold). The wording is the reader's; adopting it is the
   owner's call.
 ---
 
 # THEORY-tmpylvcc: The Declaration of Independence asserts that all men are endowed with unalienable rights, that governments are instituted to secure them and derive their just powers from the consent of the governed, and that when a government becomes destructive of these ends the people have a right to alter or abolish it, though not for light and transient causes
 
-The Declaration of Independence (1776), [LIT-tmpt4av6](../literature.d/LIT-tmpt4av6.md).
+The Declaration of Independence (1776), [LIT-2759](../literature.d/LIT-2759.md).
 
 ## The text
 

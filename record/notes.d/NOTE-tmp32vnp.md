@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpg8vrx'
+paper: 'LIT-2740'
 title: 'Arnstein — A Ladder of Citizen Participation'
 version: 1
 history:
@@ -30,7 +30,7 @@ summary: >-
   Cities programs; real power-sharing needed funds, the citizens' own
   technicians and ground rules not open to unilateral change.
 ---
-<!-- inactive-ok-file: CLAIM-tmpi68s2 CLAIM-tmpm95mo — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-732 CLAIM-736 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmp32vnp: Arnstein — A Ladder of Citizen Participation
 
@@ -107,14 +107,14 @@ the citizens' control.
   Informing and consultation are admission without uptake, and
   partnership's ground rules "not subject to unilateral change" are the
   last stage, a part in setting the terms of uptake.
-- **[CLAIM-tmpm95mo](../claims.d/CLAIM-tmpm95mo.md)** (an independent opposition whose capacity to change
+- **[CLAIM-736](../claims.d/CLAIM-736.md)** (an independent opposition whose capacity to change
   the arrangement is contained by another's control). Corroborates, with
   three instances: citizen majorities under the city council's "final
   veto powers" (p. 222); community control without sufficient resources
   (p. 224); and placation's dependence on technical assistance the
   citizens do not control (p. 220). Her conditions for real partnership
   (own funds, own technicians, fixed ground rules) are the converse.
-- **[CLAIM-tmpi68s2](../claims.d/CLAIM-tmpi68s2.md)** (an objection is effective only if formulable,
+- **[CLAIM-732](../claims.d/CLAIM-732.md)** (an objection is effective only if formulable,
   legible, taken up, sustainable, corrected and maintained). Related, not
   filed as a relation: technical assistance (formulable), one-way
   informing (not taken up) and paid staff (sustainable) map onto its

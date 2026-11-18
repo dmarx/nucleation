@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpq8ob0'
+paper: 'LIT-2753'
 title: 'Holmström and Milgrom — Multitask Principal–Agent Analyses'
 version: 1
 history:
@@ -28,7 +28,7 @@ summary: >-
   owner-contractors strong ones; limits on outside activities and job
   design substitute for incentives.
 ---
-<!-- inactive-ok-file: CASE-tmpm0rpn TERM-108 — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-288 TERM-108 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpuyt9q: Holmström and Milgrom — Multitask Principal–Agent Analyses
 
@@ -100,7 +100,7 @@ responsibility.
   asset value, and shows strong pay on output leads the agent to neglect
   the asset. The paper concerns an agent's pay, not an organization's
   budget rule, so it does not answer the question.
-- **[CASE-tmpm0rpn](../cases.d/CASE-tmpm0rpn.md)** (three hospitals). Arm B rewards a visible measure in a
+- **[CASE-288](../cases.d/CASE-288.md)** (three hospitals). Arm B rewards a visible measure in a
   contest; the model predicts attention drawn from unmeasured duties. Note
   9 (agents supply effort without pay) is the formal room for arm C,
   though the paper does not treat moral appeals or exploitation.

@@ -16,22 +16,22 @@ date: '2026-11-18'
 source:
 - LIT-tmp1wuw5
 bears_on:
-- QUESTION-tmpea19q
+- QUESTION-480
 corroborates:
-- CLAIM-tmpnb4v4
+- CLAIM-738
 summary: >-
   Stern (2014), [LIT-tmp1wuw5](../literature.d/LIT-tmp1wuw5.md), read in full in [NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), as the read
-  neighbour of Darwall 2006 ([LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md)). It bears on [QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md)
+  neighbour of Darwall 2006 ([LIT-2756](../literature.d/LIT-2756.md)). It bears on [QUESTION-480](../questions.d/QUESTION-480.md)
   (to whom and why answerability is owed) and corroborates the clause of
-  [CLAIM-tmpnb4v4](../claims.d/CLAIM-tmpnb4v4.md) that an asserted demand has no warrant of its own. The
+  [CLAIM-738](../claims.d/CLAIM-738.md) that an asserted demand has no warrant of its own. The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpr2bbq — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpnb4v4 — new, Open or Proposed; the reading and the entries it bears on -->
+<!-- inactive-ok-file: LIT-2756 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-738 — new, Open or Proposed; the reading and the entries it bears on -->
 
 # THEORY-tmpk5cgl: Stern argues that Darwall's account, on which moral obligation consists in what persons have legitimate second-personal authority to demand of one another rather than in actual demands, cannot explain obligations to aid a sufferer who makes no demand, so that wronging, or exclusionary reasons, may suffice for obligation without second-personal authority
 
-Stern (2014), [LIT-tmp1wuw5](../literature.d/LIT-tmp1wuw5.md), on Darwall (2006), [LIT-tmpr2bbq](../literature.d/LIT-tmpr2bbq.md).
+Stern (2014), [LIT-tmp1wuw5](../literature.d/LIT-tmp1wuw5.md), on Darwall (2006), [LIT-2756](../literature.d/LIT-2756.md).
 
 ## The account
 

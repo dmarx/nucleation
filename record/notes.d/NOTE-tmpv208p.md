@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp41p2e'
+paper: 'LIT-2729'
 title: 'Bovens — Analysing and assessing accountability'
 version: 1
 history:
@@ -25,7 +25,7 @@ summary: >-
   the interrogation stage within accountability; the forum is often not
   the principal, and consequences need not come from the forum.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnhesz TERM-tmp4zjar CLAIM-687 — Proposed; the entries the reading bears on -->
+<!-- inactive-ok-file: CLAIM-739 TERM-126 CLAIM-687 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmpv208p: Bovens — Analysing and assessing accountability
 
@@ -84,16 +84,16 @@ constitutional and learning perspectives.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpnhesz](../claims.d/CLAIM-tmpnhesz.md).** Corroborates the claim's separation of roles: the
+- **[CLAIM-739](../claims.d/CLAIM-739.md).** Corroborates the claim's separation of roles: the
   forum that judges is not always the party that imposes consequences
   (ombudsmen and audit offices report to parliament, p. 452), and forums
   are often not principals (p. 451). Bovens gives none of the claim's
   grounds of the duty.
-- **[TERM-tmp4zjar](../terms.d/TERM-tmp4zjar.md).** The term's "accountability mechanisms" side is
+- **[TERM-126](../terms.d/TERM-126.md).** The term's "accountability mechanisms" side is
   Bovens's, but Bovens nests answerability inside accountability, as its
   interrogation stage (p. 451); the term nests them the other way. The
   record may keep its usage, but the nesting is its own, not Bovens's.
-- **[QUESTION-tmpea19q](../questions.d/QUESTION-tmpea19q.md).** Left open. Bovens's four questions (to whom, who,
+- **[QUESTION-480](../questions.d/QUESTION-480.md).** Left open. Bovens's four questions (to whom, who,
   about what, why) match the question's parts, but his "why" sorts
   obligations by source and does not say when a duty is owed.
 - **[CLAIM-687](../claims.d/CLAIM-687.md).** Bovens's "accountability excesses" (p. 462) is a limit the
