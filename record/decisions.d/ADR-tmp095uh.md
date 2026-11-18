@@ -1,0 +1,92 @@
+---
+status: Proposed
+title: 'Docs runs on pushes to the default branch wait for one another and are never cancelled: one concurrency group serializes view generation, so two merges minutes apart no longer race'
+version: 1
+tags:
+- record
+date: '2026-11-18'
+summary: >-
+  On the default branch, every push used to get a concurrency group of its
+  own, so two merges a few minutes apart ran docs-generate at the same time
+  and both runs failed: the first committed views that no longer matched the
+  sources the second merge had added, and the second could not rebase its
+  view commit onto the first's. Main was left with stale views and a red run.
+  Pushes now share one group, without cancellation, so their runs go one at
+  a time. A group holds one pending run, so a third push replaces the one
+  waiting; that is harmless because docs-generate checks out the branch,
+  not the triggering commit. Rejected: leaving it (it recurs whenever merges
+  cluster); cancelling in progress (a cancelled run can leave concretized
+  codes or repairs unpushed); fixing the rebase in luria's generate action
+  (the right long-term place, outside this repository, and already proposed
+  there for the pull-request race).
+---
+
+# ADR-tmp095uh: Docs runs on pushes to the default branch wait for one another and are never cancelled: one concurrency group serializes view generation, so two merges minutes apart no longer race
+
+## Context
+
+`docs.yml` gives each pull request's runs one concurrency group, so that a
+newer push cancels the run it overtakes ([ADR-054](ADR-054.md), amended 2026-10-27).
+Every other run, including each push to the default branch, gets a group
+of its own. The workflow's comment gave the reason: "nothing on the
+default branch is cancelled or held back: a shared group would drop a
+queued run there even without cancel-in-progress".
+
+On 2026-11-18, pull requests 523 and 524 merged four minutes apart.
+- Run 2890, for 523, regenerated the views. By the time it committed,
+  524 had landed, so after its rebase the views did not match the sources.
+  Its `luria index --check` failed.
+- Run 2891, for 524, started before 2890 pushed. It could not rebase its
+  view commit onto 2890's and failed with merge conflicts in `docs/`.
+
+Main was left with views that miss 524's changes and a red latest run. The
+same overlap failed nine runs on 2026-11-15 (2735 to 2744), when a burst
+of merges landed within two minutes. A guard that keeps catching the same
+thing is a report about the workflow, not about the merges.
+
+## Decision
+
+- **Pushes to the default branch share one concurrency group,
+  `docs-main`, with `cancel-in-progress` off.** A run that starts while
+  another is in progress waits for it.
+- **Pull-request runs keep [ADR-054](ADR-054.md)'s rule**: one group per branch, newer
+  cancels older. Scheduled and manual runs keep a group of their own.
+- **The load-bearing detail: docs-generate checks out the branch
+  (`ref: github.ref_name`), not the commit that triggered it.** GitHub
+  keeps only one pending run per group, so a third push while one run is
+  in progress and another is waiting replaces the waiting one. The run that
+  does start checks out the branch as it stands, so it regenerates and
+  concretizes everything merged before it. A future change must keep that
+  checkout, or must give up the shared group.
+
+## Alternatives considered
+
+- **Status quo.** Each cluster of merges leaves main red and its views
+  stale until some later merge happens to run alone. Recurs.
+- **Cancel in progress on the default branch too.** A cancelled generate
+  run can stop between concretizing codes and pushing them. The next run
+  would number them again, but a partial push is possible. Waiting costs a
+  few minutes and risks nothing.
+- **Regenerate after the rebase, in luria's generate action.** This would
+  also fix a merge that lands while a run is in progress, which
+  serializing runs cannot prevent: such a run can still fail its check,
+  and the run queued behind it then repairs main. It is the better
+  long-term fix. But the action lives in luria, outside this repository,
+  and a fix of this kind was already proposed there for the pull-request
+  race.
+- **Retry the push on conflict.** This would hide the conflict rather than
+  remove the overlap, and it would still commit views generated from the
+  older tree.
+
+## Consequences
+
+- Merges that cluster now produce runs one after another. The last run
+  leaves main green, with views that match every source merged before it
+  started.
+- A merge that lands while a run is in progress can still turn that one
+  run red, at its `index --check`. The run waiting behind it regenerates
+  from the newer tree. A red run followed by green is expected; a red last
+  run is not.
+- The first application is this decision's own pull request. Its merge
+  starts a docs-generate run on the current main, which regenerates the
+  views that run 2891 failed to commit.
