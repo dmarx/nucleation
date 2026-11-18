@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-18 in full (NOTE-tmpwlrcc) from the PDF on Adaptive Capacity
+  read 2026-11-18 in full ([NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md)) from the PDF on Adaptive Capacity
   Labs' site, Cook's own firm, Revision D (00.04.21); worth reading as the
   short statement of the safety-science view behind blameless review:
   failure has many contributors, "root cause" answers a social need to
@@ -41,17 +41,17 @@ keywords:
 implementations: []
 summary: >-
   Richard I. Cook (1998; Revision D, 2000), "How Complex Systems Fail",
-  read in NOTE-tmpwlrcc. Eighteen points: catastrophe needs several
+  read in [NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md). Eighteen points: catastrophe needs several
   failures, each insufficient; "no isolation of the 'root cause' of an
   accident is possible", and evaluation by root cause reflects "the social,
   cultural need to blame specific, localized forces or events"; "Actions at the
   sharp end resolve all ambiguity" that organizations leave, "often
   intentionally"; systems run "because people can make it function,
   despite the presence of many flaws", and outsiders see that work only
-  after accidents. It corroborates CLAIM-707 and CLAIM-702 and bears on
-  QUESTION-476 (THEORY-tmpl5x2t).
+  after accidents. It corroborates [CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-702](../claims.d/CLAIM-702.md) and bears on
+  [QUESTION-476](../questions.d/QUESTION-476.md) ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpwlrcc THEORY-tmpl5x2t — new; the reading and its theory -->
+<!-- inactive-ok-file: THEORY-tmpl5x2t — new; the reading and its theory -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-702 — Proposed; the claims the reading corroborates -->
 
 # LIT-tmpkbkg1: How Complex Systems Fail
@@ -60,7 +60,7 @@ Richard I. Cook (1998; Revision D, 21 April 2000). "How Complex Systems Fail (Be
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpwlrcc).*
+*From the reading ([NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md)).*
 
 - **No root cause** (point 7): "there is no isolated 'cause' of an
   accident. There are multiple contributors to accidents", and evaluation
@@ -80,7 +80,7 @@ Richard I. Cook (1998; Revision D, 21 April 2000). "How Complex Systems Fail (Be
 
 ## Standing in the record
 
-Registered on 2026-11-18 for QUESTION-476. It is an argued statement from
+Registered on 2026-11-18 for [QUESTION-476](../questions.d/QUESTION-476.md). It is an argued statement from
 patient safety, without data, and the source of much of the vocabulary of
-blameless review. It bears on CLAIM-707 (the sharp end absorbs what is
-decided upstream) and CLAIM-702 (prevention is unseen until it lapses).
+blameless review. It bears on [CLAIM-707](../claims.d/CLAIM-707.md) (the sharp end absorbs what is
+decided upstream) and [CLAIM-702](../claims.d/CLAIM-702.md) (prevention is unseen until it lapses).

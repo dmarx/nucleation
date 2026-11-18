@@ -25,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpfucfe LIT-tmpcqntz — Unavailable; the book this stands in for, and a book it cites -->
 <!-- inactive-ok-file: THEORY-tmpfomub CLAIM-tmp5g7xc — new; the theory filed from this reading and the claim it corroborates -->
-<!-- inactive-ok-file: CLAIM-707 CLAIM-742 — Proposed; the entries the reading bears on -->
+<!-- inactive-ok-file: CLAIM-707 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmp0gu2z: Dekker and Nyce — Just culture: "Evidence", power and algorithms
 
@@ -85,21 +85,21 @@ survey, relayed without its numbers.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpfomub. Read as the neighbour of Dekker (2007),
-LIT-tmpfucfe; it does not restate the book.
+Filed as [THEORY-tmpfomub](../theory.d/THEORY-tmpfomub.md). Read as the neighbour of Dekker (2007),
+[LIT-tmpfucfe](../literature.d/LIT-tmpfucfe.md); it does not restate the book.
 
-- **QUESTION-476**, its third answer ("blameless" in practice relocates
+- **[QUESTION-476](../questions.d/QUESTION-476.md)**, its third answer ("blameless" in practice relocates
   blame). Dekker and Nyce argue that a just-culture scheme can do exactly
   that, sorting blame by rank. Bears on, as argument and a relayed survey.
-- **CLAIM-tmp5g7xc** (the trace stops at the reviewing body's authority).
+- **[CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md)** (the trace stops at the reviewing body's authority).
   The mechanism the claim needs is that whoever governs the review shapes
   what it finds; "who gets to say" is that mechanism, argued for hospitals.
   Corroborates the mechanism, not the prediction about postmortems.
-- **CLAIM-707.** The Hiatt case and the survey are the crumple zone seen
+- **[CLAIM-707](../claims.d/CLAIM-707.md).** The Hiatt case and the survey are the crumple zone seen
   from inside a just-culture scheme: the nurse dismissed, the most powerful
   group the most satisfied. No relation is written: the paper does not
   show where control over the conditions lay.
-- **Reason (1997)**, LIT-tmpcqntz, is cited in a string of three for the
+- **Reason (1997)**, [LIT-tmpcqntz](../literature.d/LIT-tmpcqntz.md), is cited in a string of three for the
   "restore management control" sentence; what Reason himself says is not
   shown.
 
@@ -109,6 +109,6 @@ LIT-tmpfucfe; it does not restate the book.
   study.
 - Hospitals only, and a sanction-sorting scheme. It is not about blameless
   postmortems, which sort nothing, though the relocation of blame it
-  describes is QUESTION-476's third answer.
+  describes is [QUESTION-476](../questions.d/QUESTION-476.md)'s third answer.
 - One of the authors wrote the book it stands in for; it is not a
   summary of that book.

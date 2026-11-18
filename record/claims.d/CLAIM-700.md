@@ -265,17 +265,17 @@ shortfall, which the claim requires. Relation: none.
 ## Note of 2026-11-18: blameless near-miss reporting as a remedy, a mechanism hypothesis
 <!-- inactive-ok-file: THEORY-tmpuc245 THEORY-tmpl5x2t THEORY-tmpfomub — new; the readings filed on 2026-11-18 -->
 
-The lead filer's, from the case of blameless culture (QUESTION-476), accepted for filing by the owner on 2026-11-18. **A mechanism hypothesis, unchecked.**
+The lead filer's, from the case of blameless culture ([QUESTION-476](../questions.d/QUESTION-476.md)), accepted for filing by the owner on 2026-11-18. **A mechanism hypothesis, unchecked.**
 
-**The proposal.** Reporting of near-misses without penalty could make part of members' compensating effort visible: the hazard caught, the error corrected. CLAIM-702, a premise here, says that effort "leaves little trace"; if reports leave one, the budget is no longer set on performance that hides the cover, and the loop loses its first link.
+**The proposal.** Reporting of near-misses without penalty could make part of members' compensating effort visible: the hazard caught, the error corrected. [CLAIM-702](CLAIM-702.md), a premise here, says that effort "leaves little trace"; if reports leave one, the budget is no longer set on performance that hides the cover, and the loop loses its first link.
 
-**A correction.** The proposal likened this to the statutory-ratio hospital in the Admission. It is not that case. The ratio hospital keeps the compensation unseen and removes the budget rule. Reporting keeps the budget rule and removes the unseenness. It is the interim review's case, the hospital that logs unpaid hours, which the Admission says "no longer separates" because CLAIM-702 excludes visible compensation. So reporting is not a separating case. It would take an organization out of the loop's conditions, if it works.
+**A correction.** The proposal likened this to the statutory-ratio hospital in the Admission. It is not that case. The ratio hospital keeps the compensation unseen and removes the budget rule. Reporting keeps the budget rule and removes the unseenness. It is the interim review's case, the hospital that logs unpaid hours, which the Admission says "no longer separates" because [CLAIM-702](CLAIM-702.md) excludes visible compensation. So reporting is not a separating case. It would take an organization out of the loop's conditions, if it works.
 
 **Two limits.**
 
-- **Most compensation is not a near-miss.** Cook (THEORY-tmpl5x2t, point 17): the work that creates safety is "for the most part, part of normal operations and superficially straightforward". Routine cover produces no event to report. Reporting would expose only the compensation that surfaces as a hazard caught; Cook's "proto-accidents" (point 5) are that part.
+- **Most compensation is not a near-miss.** Cook ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md), point 17): the work that creates safety is "for the most part, part of normal operations and superficially straightforward". Routine cover produces no event to report. Reporting would expose only the compensation that surfaces as a hazard caught; Cook's "proto-accidents" (point 5) are that part.
 - **Seen is not used.** The loop closes at the budget. Reports break it only if they enter the observed performance the budget is set from. A reporting system that feeds safety review and not budgeting leaves the cut where it was.
 
-**What the readings bear on.** Whether blame suppresses reports: the SRE chapter's ground for blamelessness is that under blame issues are "swept under the rug" (THEORY-tmpuc245), and Dekker and Nyce relay "a widespread perception of negative repercussions for reporting" in hospitals with just-culture schemes (THEORY-tmpfomub). Neither bears on whether reports reach budgets, which is where the hypothesis would succeed or fail. Relation: none.
+**What the readings bear on.** Whether blame suppresses reports: the SRE chapter's ground for blamelessness is that under blame issues are "swept under the rug" ([THEORY-tmpuc245](../theory.d/THEORY-tmpuc245.md)), and Dekker and Nyce relay "a widespread perception of negative repercussions for reporting" in hospitals with just-culture schemes ([THEORY-tmpfomub](../theory.d/THEORY-tmpfomub.md)). Neither bears on whether reports reach budgets, which is where the hypothesis would succeed or fail. Relation: none.
 
 No status changes.

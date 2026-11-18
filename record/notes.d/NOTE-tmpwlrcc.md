@@ -97,30 +97,30 @@ data are given.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpl5x2t.
+Filed as [THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md).
 
-- **CLAIM-707** (control upstream, duty downstream, blame at visibility).
+- **[CLAIM-707](../claims.d/CLAIM-707.md)** (control upstream, duty downstream, blame at visibility).
   Point 11 states the control-and-duty part from safety science:
   organizations leave the trade between production and risk unresolved,
   "often intentionally", and the sharp end resolves it, after which
   hindsight calls the resolution error. Corroborates, by argument rather
   than data.
-- **CLAIM-702** (prevention leaves little trace while its lapse is
+- **[CLAIM-702](../claims.d/CLAIM-702.md)** (prevention leaves little trace while its lapse is
   visible). Points 5, 9 and 17: the system works "because people can make
   it function"; the defending role is emphasized only "After accidents".
   Corroborates the visibility half. It says nothing about credit going to
   the organization.
-- **CLAIM-733** and **QUESTION-476.** Point 7 makes blame a poor carrier of
+- **[CLAIM-733](../claims.d/CLAIM-733.md)** and **[QUESTION-476](../questions.d/QUESTION-476.md).** Point 7 makes blame a poor carrier of
   provenance: the need to blame looks for "specific, localized" causes,
   which is the opposite of tracing a failure upstream. Blameless review
   starts from this point. It does not show that tracing without blame
   reaches upstream either.
-- **CLAIM-tmpx4kjt** and **CLAIM-tmp5g7xc**: point 11's "often
+- **[CLAIM-tmpx4kjt](../claims.d/CLAIM-tmpx4kjt.md)** and **[CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md)**: point 11's "often
   intentionally" names the upstream decisions a review would have to
   trace; point 7 says blame localizes. Neither claim rests on Cook.
-- **CLAIM-719** (the note of 2026-11-18): point 15 warns that completing
+- **[CLAIM-719](../claims.d/CLAIM-719.md)** (the note of 2026-11-18): point 15 warns that completing
   remedies is not good in itself; end-of-the-chain measures add coupling.
-- **CLAIM-700** (the note of 2026-11-18): point 5's proto-accidents are
+- **[CLAIM-700](../claims.d/CLAIM-700.md)** (the note of 2026-11-18): point 5's proto-accidents are
   what near-miss reporting would record.
 
 ## Limitations

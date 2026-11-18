@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-18 (NOTE-tmp45cjg) from the Legal Information Institute's
+  read 2026-11-18 ([NOTE-tmp45cjg](../notes.d/NOTE-tmp45cjg.md)) from the Legal Information Institute's
   current text, with the NTSB regulations that apply it (49 CFR 831.4,
   835.2 and 835.3, also from the LII); worth reading as the statutory bar
   that keeps the Board's accident reports out of damages suits, the legal
-  half of what makes the NTSB a no-blame investigator (CASE-292,
-  QUESTION-476).
+  half of what makes the NTSB a no-blame investigator ([CASE-292](../cases.d/CASE-292.md),
+  [QUESTION-476](../questions.d/QUESTION-476.md)).
 title: '49 U.S. Code § 1154: Discovery and use of cockpit and surface vehicle recordings and transcripts'
 version: 1
 history:
@@ -43,7 +43,7 @@ keywords:
 - 'civil action for damages'
 implementations: []
 summary: >-
-  49 U.S.C. § 1154 (1994, as amended), read in NOTE-tmp45cjg. Subsection
+  49 U.S.C. § 1154 (1994, as amended), read in [NOTE-tmp45cjg](../notes.d/NOTE-tmp45cjg.md). Subsection
   (b): "No part of a report of the Board, related to an accident or an
   investigation of an accident, may be admitted into evidence or used in a
   civil action for damages resulting from a matter mentioned in the
@@ -52,9 +52,9 @@ summary: >-
   factual reports (49 CFR 835.2), and state that investigations "are not
   conducted for the purpose of determining the rights, liabilities, or
   blame of any person or entity" (49 CFR 831.4(c)). It grounds
-  CLAIM-tmpx4kjt and bears on QUESTION-476 (THEORY-tmpq12rp).
+  [CLAIM-tmpx4kjt](../claims.d/CLAIM-tmpx4kjt.md) and bears on [QUESTION-476](../questions.d/QUESTION-476.md) ([THEORY-tmpq12rp](../theory.d/THEORY-tmpq12rp.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmp45cjg THEORY-tmpq12rp CLAIM-tmpx4kjt — new; the reading, its theory and the claim it grounds -->
+<!-- inactive-ok-file: THEORY-tmpq12rp CLAIM-tmpx4kjt — new; the reading, its theory and the claim it grounds -->
 <!-- inactive-ok-file: CASE-292 — Proposed; the case the statute bears on -->
 
 # LIT-tmphhd10: 49 U.S. Code § 1154: Discovery and use of cockpit and surface vehicle recordings and transcripts
@@ -63,7 +63,7 @@ United States Congress (1994, as amended). 49 U.S.C. § 1154, "Discovery and use
 
 ## Key takeaways
 
-*From the reading (NOTE-tmp45cjg).*
+*From the reading ([NOTE-tmp45cjg](../notes.d/NOTE-tmp45cjg.md)).*
 
 - § 1154(b): no part of a Board report "related to an accident or an
   investigation of an accident" may be "admitted into evidence or used in a
@@ -81,7 +81,7 @@ United States Congress (1994, as amended). 49 U.S.C. § 1154, "Discovery and use
 ## Standing in the record
 
 Registered on 2026-11-18 to check a citation the lead filer gave from
-memory for QUESTION-476: the statute "barring NTSB reports from civil
+memory for [QUESTION-476](../questions.d/QUESTION-476.md): the statute "barring NTSB reports from civil
 litigation", believed to be § 1154(b). The section number is right. The
 recollection is broader than the text: the bar is on the Board's reports,
 not its factual record, and in civil actions for damages, not civil

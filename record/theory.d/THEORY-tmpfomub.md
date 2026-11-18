@@ -20,19 +20,19 @@ bears_on:
 corroborates:
 - CLAIM-tmp5g7xc
 summary: >-
-  Dekker and Nyce (2013), LIT-tmpxqwjm, read in NOTE-tmp0gu2z, as the
-  neighbour of Dekker (2007), LIT-tmpfucfe. It bears on QUESTION-476's
+  Dekker and Nyce (2013), [LIT-tmpxqwjm](../literature.d/LIT-tmpxqwjm.md), read in [NOTE-tmp0gu2z](../notes.d/NOTE-tmp0gu2z.md), as the
+  neighbour of Dekker (2007), [LIT-tmpfucfe](../literature.d/LIT-tmpfucfe.md). It bears on [QUESTION-476](../questions.d/QUESTION-476.md)'s
   third answer, that "blameless" in practice relocates blame, and
-  corroborates the mechanism of CLAIM-tmp5g7xc, that whoever governs a
+  corroborates the mechanism of [CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md), that whoever governs a
   review shapes what it finds, for hospitals. The wording is the filer's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmp0gu2z CLAIM-tmp5g7xc — new; the reading and the claim this corroborates -->
+<!-- inactive-ok-file: CLAIM-tmp5g7xc — new; the reading and the claim this corroborates -->
 <!-- inactive-ok-file: LIT-tmpfucfe — Unavailable; the book this stands in for -->
 
 # THEORY-tmpfomub: Dekker and Nyce argue that a just-culture scheme that sorts errors into honest mistakes, at-risk behaviour and recklessness treats culpability as an objective fact, when whether a response is just depends on where one stands in the organization's hierarchy and who gets to say, so that the scheme can carry blame along lines of power
 
-Dekker and Nyce (2013), LIT-tmpxqwjm, read in NOTE-tmp0gu2z.
+Dekker and Nyce (2013), [LIT-tmpxqwjm](../literature.d/LIT-tmpxqwjm.md), read in [NOTE-tmp0gu2z](../notes.d/NOTE-tmp0gu2z.md).
 
 ## The account
 
@@ -47,9 +47,9 @@ others" (p. 75).
 
 ## Bearing
 
-- **QUESTION-476**: bears on its third answer. A scheme presented as just
+- **[QUESTION-476](../questions.d/QUESTION-476.md)**: bears on its third answer. A scheme presented as just
   can relocate blame by rank.
-- **CLAIM-tmp5g7xc**: corroborates its mechanism. Who governs the review
+- **[CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md)**: corroborates its mechanism. Who governs the review
   shapes its findings. It says nothing about blameless postmortems, or
   about how high their traces reach.
 

@@ -68,7 +68,7 @@ Board's finding is not a finding of liability.
   proceedings with no adverse parties ... not conducted for the purpose of
   determining the rights, liabilities, or blame of any person or entity, as
   they are not adjudicatory proceedings."
-- **The Tempe report** (LIT-2664, notice page) quotes an earlier wording
+- **The Tempe report** ([LIT-2664](../literature.d/LIT-2664.md), notice page) quotes an earlier wording
   of 831.4, without "blame", says "The NTSB does not assign fault or blame
   for an accident or incident", and cites § 1154(b). Its recommendations
   (p. 60) go to NHTSA, the state of Arizona, the American Association of
@@ -87,7 +87,7 @@ How courts read the bar, and whether it is ever pierced, is not covered.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpq12rp.
+Filed as [THEORY-tmpq12rp](../theory.d/THEORY-tmpq12rp.md).
 
 - **The lead's citation, checked.** The lead filer recalled "the statute
   barring NTSB reports from civil litigation" as 49 U.S.C. § 1154(b). The
@@ -95,13 +95,13 @@ Filed as THEORY-tmpq12rp.
   the bar covers the Board's report of its determinations, not the factual
   record, and it reaches civil actions for damages, not civil litigation
   generally. Nothing read mentions criminal proceedings.
-- **CASE-292** and **CLAIM-tmpx4kjt.** The NTSB that traced the Tempe
+- **[CASE-292](../cases.d/CASE-292.md)** and **[CLAIM-tmpx4kjt](../claims.d/CLAIM-tmpx4kjt.md).** The NTSB that traced the Tempe
   operator's distraction to Uber's safety culture and Arizona's oversight is
   no-blame by regulation and insulated from damages suits by statute. Its
   probable cause cannot be used to win damages from anyone it names. That
-  is the institutional condition under which CLAIM-tmpx4kjt says
+  is the institutional condition under which [CLAIM-tmpx4kjt](../claims.d/CLAIM-tmpx4kjt.md) says
   provenance can be carried without blame. Grounds.
-- **QUESTION-476.** The statutory model of the question's first answer
+- **[QUESTION-476](../questions.d/QUESTION-476.md).** The statutory model of the question's first answer
   ("keeps correction and provenance"): a body that traces cause upstream
   and recommends repair there, with its findings fenced off from
   liability.

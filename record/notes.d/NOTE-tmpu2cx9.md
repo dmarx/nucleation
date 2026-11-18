@@ -24,9 +24,8 @@ summary: >-
   how the process could improve. Norms and practice, with no data on what
   postmortems trace or fix.
 ---
-<!-- inactive-ok-file: LIT-tmpwev6r — Unfetched; the post the chapter cites -->
-<!-- inactive-ok-file: THEORY-tmpuc245 CLAIM-tmp5g7xc CLAIM-tmpx4kjt CASE-tmpw9202 — new; the theory filed from this reading and the entries it bears on -->
-<!-- inactive-ok-file: CLAIM-742 CLAIM-719 CLAIM-707 — Proposed; the entries the reading bears on -->
+<!-- inactive-ok-file: THEORY-tmpuc245 CLAIM-tmp5g7xc CASE-tmpw9202 — new; the theory filed from this reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-742 CLAIM-719 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmpu2cx9: Lunney and Lueder — Postmortem Culture: Learning from Failure
 
@@ -98,9 +97,9 @@ intentions"), not found.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpuc245.
+Filed as [THEORY-tmpuc245](../theory.d/THEORY-tmpuc245.md).
 
-- **QUESTION-476.** The chapter is the practice the question asks about,
+- **[QUESTION-476](../questions.d/QUESTION-476.md).** The chapter is the practice the question asks about,
   in its own words. It keeps correction ("effective preventive actions")
   and gives up blame, on a stated ground: disclosure. On the question's
   second half it says only that the trace runs to "the systematic reasons
@@ -108,19 +107,19 @@ Filed as THEORY-tmpuc245.
   says nothing about decisions above the reviewing team, such as staffing,
   deadlines or budgets, and its norm covers teams as well as individuals.
   Whether postmortems reach those decisions is not shown.
-- **CLAIM-742** (blame is not accountability). A documented organizational
+- **[CLAIM-742](../claims.d/CLAIM-742.md)** (blame is not accountability). A documented organizational
   practice that keeps correction while withholding blame, with the ground
   stated: corroborates, as a practice that exists, not as evidence that it
   works.
-- **CLAIM-tmp5g7xc** (the reviewing body's authority as the trace's limit).
+- **[CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md)** (the reviewing body's authority as the trace's limit).
   The chapter's design fits the claim's premise: review is internal, by
   senior engineers with senior management taking part, and blame of any
   team is excluded. It does not test the prediction.
-- **CLAIM-719.** The survey of teams on the postmortem process is a
+- **[CLAIM-719](../claims.d/CLAIM-719.md).** The survey of teams on the postmortem process is a
   practice that revises the mechanism of review itself, a small instance
   of second-order responsiveness. The chapter gives no figures on whether
-  action items are completed (see CLAIM-719's note of 2026-11-18).
-- **CASE-tmpw9202** takes its units, contributing causes and action items,
+  action items are completed (see [CLAIM-719](../claims.d/CLAIM-719.md)'s note of 2026-11-18).
+- **[CASE-tmpw9202](../cases.d/CASE-tmpw9202.md)** takes its units, contributing causes and action items,
   from the format described here.
 
 ## Limitations

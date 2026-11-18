@@ -2,11 +2,11 @@
 status: Unavailable
 status_note: >-
   registered 2026-11-18 at the owner's request to take up blameless
-  culture (QUESTION-476); not read. No lawful copy was found on
+  culture ([QUESTION-476](../questions.d/QUESTION-476.md)); not read. No lawful copy was found on
   2026-11-18: the book (Ashgate, 2007; a Routledge/CRC electronic edition,
   doi:10.4324/9781315251271) is closed in OpenAlex, with no free copy
   listed. A read neighbour stands in for part of it: Dekker and Nyce
-  (2013), LIT-tmpxqwjm, Dekker's own open-access paper on just culture,
+  (2013), [LIT-tmpxqwjm](LIT-tmpxqwjm.md), Dekker's own open-access paper on just culture,
   which argues that what counts as a just response depends on where one
   stands in the hierarchy and "who gets to say". It does not restate the
   book's account.
@@ -43,13 +43,12 @@ keywords:
 implementations: []
 summary: >-
   Sidney Dekker (2007), Just Culture: Balancing Safety and Accountability
-  (Ashgate). Unread and Unavailable. Registered for QUESTION-476 as the
+  (Ashgate). Unread and Unavailable. Registered for [QUESTION-476](../questions.d/QUESTION-476.md) as the
   standard book on just culture. Its own account is not on the record;
-  Dekker and Nyce (2013, LIT-tmpxqwjm), read as a neighbour, give
+  Dekker and Nyce (2013, [LIT-tmpxqwjm](LIT-tmpxqwjm.md)), read as a neighbour, give
   Dekker's later critique of just culture applied by algorithm. Nothing
   else is recorded of its content.
 ---
-<!-- inactive-ok-file: LIT-tmpxqwjm — new; the read neighbour -->
 
 # LIT-tmpfucfe: Just Culture: Balancing Safety and Accountability
 
@@ -62,9 +61,9 @@ filed from memory.
 
 ## Standing in the record
 
-Registered on 2026-11-18 for QUESTION-476, at the lead filer's proposal
+Registered on 2026-11-18 for [QUESTION-476](../questions.d/QUESTION-476.md), at the lead filer's proposal
 after the owner asked to take blameless culture as a case; it was named in
-QUESTION-476 as a candidate source. Dekker and Nyce (2013), LIT-tmpxqwjm,
+[QUESTION-476](../questions.d/QUESTION-476.md) as a candidate source. Dekker and Nyce (2013), [LIT-tmpxqwjm](LIT-tmpxqwjm.md),
 read, stand in for Dekker's view of just culture in one respect only:
 their claim that the justice of a response to error "depends on where one
 is located in the organization and medical competence hierarchy, and who

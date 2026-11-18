@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-18 in full (NOTE-tmp0gu2z) from the journal's own open PDF;
-  registered as the read neighbour of Dekker (2007), LIT-tmpfucfe, which
+  read 2026-11-18 in full ([NOTE-tmp0gu2z](../notes.d/NOTE-tmp0gu2z.md)) from the journal's own open PDF;
+  registered as the read neighbour of Dekker (2007), [LIT-tmpfucfe](LIT-tmpfucfe.md), which
   could not be read. Worth reading here as an argued critique of just
   culture in practice: a response to error that one group finds just,
   others find unjust, and the difference tracks power, so a no-blame or
@@ -42,16 +42,16 @@ implementations: []
 summary: >-
   Sidney W. A. Dekker and James M. Nyce (2013), "Just culture: "Evidence",
   power and algorithms", Journal of Hospital Administration 2(3): 73–77,
-  read in NOTE-tmp0gu2z. Algorithms that sort error into human error,
+  read in [NOTE-tmp0gu2z](../notes.d/NOTE-tmp0gu2z.md). Algorithms that sort error into human error,
   at-risk and reckless behaviour treat culpability as an objective fact,
   but whether a response is just "depends on where one is located in the
   organization and medical competence hierarchy, and who gets to say"; a
   survey they relay found accountability rated worst and the most powerful
   group most satisfied. Just culture "risks becoming one more rhetoric or
   metric by which dominant groups can judge others". It bears on
-  QUESTION-476 and corroborates CLAIM-tmp5g7xc (THEORY-tmpfomub).
+  [QUESTION-476](../questions.d/QUESTION-476.md) and corroborates [CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md) ([THEORY-tmpfomub](../theory.d/THEORY-tmpfomub.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmp0gu2z THEORY-tmpfomub CLAIM-tmp5g7xc — new; the reading, its theory and the claim it corroborates -->
+<!-- inactive-ok-file: THEORY-tmpfomub CLAIM-tmp5g7xc — new; the reading, its theory and the claim it corroborates -->
 <!-- inactive-ok-file: LIT-tmpfucfe — Unavailable; the work this stands in for -->
 
 # LIT-tmpxqwjm: Just culture: "Evidence", power and algorithms
@@ -60,7 +60,7 @@ Sidney W. A. Dekker and James M. Nyce (2013). "Just culture: "Evidence", power a
 
 ## Key takeaways
 
-*From the reading (NOTE-tmp0gu2z).*
+*From the reading ([NOTE-tmp0gu2z](../notes.d/NOTE-tmp0gu2z.md)).*
 
 - Just-culture algorithms take "the reality of someone's behavior, as well
   as the intentions behind it, as unambiguously and objectively available
@@ -77,7 +77,7 @@ Sidney W. A. Dekker and James M. Nyce (2013). "Just culture: "Evidence", power a
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Dekker (2007),
-LIT-tmpfucfe, which is Unavailable. It stands in for one point only, that
+[LIT-tmpfucfe](LIT-tmpfucfe.md), which is Unavailable. It stands in for one point only, that
 just culture's verdicts track power; it does not restate the book. It
-bears on the third answer QUESTION-476 lists, that "blameless" in practice
+bears on the third answer [QUESTION-476](../questions.d/QUESTION-476.md) lists, that "blameless" in practice
 relocates blame.

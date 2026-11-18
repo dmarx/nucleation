@@ -18,7 +18,7 @@ draws_on:
 - THEORY-tmpuc245
 summary: >-
   The lead filer's (Claude, in this session), proposed on 2026-11-18 with
-  CLAIM-tmp5g7xc, whose prediction it would test, and accepted for filing
+  [CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md), whose prediction it would test, and accepted for filing
   by the owner ("all of the above please"). Code a corpus of postmortems
   for two things: the highest organizational level any contributing cause
   names, and whether any action item targets a decision above the
@@ -28,7 +28,7 @@ summary: >-
   describes. Not run. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp5g7xc THEORY-tmpuc245 — new; the claim the study would test and the reading whose format it uses -->
+<!-- inactive-ok-file: CLAIM-tmp5g7xc — new; the claim the study would test and the reading whose format it uses -->
 <!-- inactive-ok-file: CASE-292 CLAIM-719 — Proposed; the entries the study bears on, cited with their standing -->
 
 # CASE-tmpw9202: A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team's authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it
@@ -37,7 +37,7 @@ summary: >-
 
 **Corpus.** Postmortems that organizations have published from their own
 blameless reviews, and, as the comparison arm, reports of independent
-investigators of the NTSB's kind (CASE-292). Where an organization has
+investigators of the NTSB's kind ([CASE-292](CASE-292.md)). Where an organization has
 given access, its internal postmortems of the same incidents.
 
 **Coding, per postmortem.**
@@ -53,7 +53,7 @@ given access, its internal postmortems of the same incidents.
 3. **Commissioning body.** Who commissioned and reviewed the postmortem,
    and the highest level of its authority.
 
-**The test** (CLAIM-tmp5g7xc). The claim predicts that in internal reviews
+**The test** ([CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md)). The claim predicts that in internal reviews
 the highest level named rarely exceeds the commissioning body's authority,
 that action items cluster at or below the reviewing team's, and that "the
 system" without a named decision is common; and that independent
@@ -72,7 +72,7 @@ defeat it.
   organization charts or interviews.
 - **Follow-up.** An action item above the team that is written but never
   carried out counts for the claim. Completion is the same measure as in
-  CLAIM-719's note of 2026-11-18 and needs data postmortems rarely
+  [CLAIM-719](../claims.d/CLAIM-719.md)'s note of 2026-11-18 and needs data postmortems rarely
   publish.
 
 ## What it would show

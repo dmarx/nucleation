@@ -23,21 +23,20 @@ corroborates:
 - CLAIM-707
 - CLAIM-702
 summary: >-
-  Cook (1998; Revision D, 2000), LIT-tmpkbkg1, read in NOTE-tmpwlrcc.
+  Cook (1998; Revision D, 2000), [LIT-tmpkbkg1](../literature.d/LIT-tmpkbkg1.md), read in [NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md).
   The safety-science view blameless review rests on. It corroborates
-  CLAIM-707's control-and-duty part (point 11, the sharp end resolves the
-  organization's ambiguity) and CLAIM-702's visibility half (points 5, 9
-  and 17), by argument, without data. It bears on QUESTION-476: blame
+  [CLAIM-707](../claims.d/CLAIM-707.md)'s control-and-duty part (point 11, the sharp end resolves the
+  organization's ambiguity) and [CLAIM-702](../claims.d/CLAIM-702.md)'s visibility half (points 5, 9
+  and 17), by argument, without data. It bears on [QUESTION-476](../questions.d/QUESTION-476.md): blame
   looks for "localized" causes, which is a reason to doubt that blame
   carries provenance upstream. The wording is the filer's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpwlrcc — new; the reading -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-702 — Proposed; the claims this corroborates -->
 
 # THEORY-tmpl5x2t: Cook holds that accidents in complex systems have several contributors and no isolable root cause, that attributing them to one reflects a social need to blame localized forces, that organizations leave the trade-off between production and risk ambiguous for practitioners at the sharp end to resolve, and that the practitioners' continuous defence against failure is seen chiefly after it lapses
 
-Cook (1998; Revision D, 2000), LIT-tmpkbkg1, read in NOTE-tmpwlrcc.
+Cook (1998; Revision D, 2000), [LIT-tmpkbkg1](../literature.d/LIT-tmpkbkg1.md), read in [NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md).
 
 ## The account
 
@@ -53,12 +52,12 @@ failure role is emphasized" (point 9).
 
 ## Bearing
 
-- **CLAIM-707**: corroborates its control-and-duty part. The organization
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**: corroborates its control-and-duty part. The organization
   leaves the trade unresolved and the sharp end carries it; hindsight then
   calls the result error. It does not show where blame settles in fact.
-- **CLAIM-702**: corroborates the visibility half: defending work is
+- **[CLAIM-702](../claims.d/CLAIM-702.md)**: corroborates the visibility half: defending work is
   constant and seen chiefly when it lapses. Nothing on credit.
-- **QUESTION-476**: bears on. If attribution by blame seeks localized
+- **[QUESTION-476](../questions.d/QUESTION-476.md)**: bears on. If attribution by blame seeks localized
   causes, blame is a doubtful carrier of upstream provenance, which is the
   premise blameless review starts from. Cook does not show that tracing
   without blame does better.

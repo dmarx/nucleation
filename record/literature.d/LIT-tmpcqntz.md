@@ -2,13 +2,13 @@
 status: Unavailable
 status_note: >-
   registered 2026-11-18 at the owner's request to take up blameless
-  culture (QUESTION-476); not read. No lawful copy was found on
+  culture ([QUESTION-476](../questions.d/QUESTION-476.md)); not read. No lawful copy was found on
   2026-11-18: the book (Ashgate, 1997; reissued by Routledge, 2016,
   doi:10.4324/9781315543543) and its chapter "Engineering a Safety
   Culture" (doi:10.4324/9781315543543-9), where Reason treats a just
   culture, are closed in OpenAlex, which lists library catalogue records
   and no free copy. No neighbour carrying Reason's own account was read.
-  Dekker and Nyce (2013), LIT-tmpxqwjm, read, cite this book once among
+  Dekker and Nyce (2013), [LIT-tmpxqwjm](LIT-tmpxqwjm.md), read, cite this book once among
   three references and do not state its content.
 title: 'Managing the Risks of Organizational Accidents'
 version: 1
@@ -42,11 +42,10 @@ summary: >-
   James Reason (1997), Managing the Risks of Organizational Accidents
   (Ashgate; Routledge reissue 2016). Unread and Unavailable: no lawful copy
   of the book or of its chapter "Engineering a Safety Culture", where it
-  treats a just culture, was found. Registered for QUESTION-476 as the
+  treats a just culture, was found. Registered for [QUESTION-476](../questions.d/QUESTION-476.md) as the
   usual source of "just culture" in safety management. Nothing is recorded
   of its content.
 ---
-<!-- inactive-ok-file: LIT-tmpxqwjm — new; the reading that cites this book -->
 
 # LIT-tmpcqntz: Managing the Risks of Organizational Accidents
 
@@ -59,9 +58,9 @@ culture is filed from memory.
 
 ## Standing in the record
 
-Registered on 2026-11-18 for QUESTION-476, at the lead filer's proposal
+Registered on 2026-11-18 for [QUESTION-476](../questions.d/QUESTION-476.md), at the lead filer's proposal
 after the owner asked to take blameless culture as a case. The one read
-work that cites it, Dekker and Nyce (2013), LIT-tmpxqwjm, does so in a
+work that cites it, Dekker and Nyce (2013), [LIT-tmpxqwjm](LIT-tmpxqwjm.md), does so in a
 string of three references for the claim that just-culture consultancy
 was "a way to restore management control over staff performance after the
 rise of emancipatory practices (and policies) that tended to blame the

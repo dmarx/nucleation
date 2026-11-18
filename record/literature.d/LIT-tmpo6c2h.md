@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-18 (NOTE-tmpu2cx9) in full from Google's own open edition
+  read 2026-11-18 ([NOTE-tmpu2cx9](../notes.d/NOTE-tmpu2cx9.md)) in full from Google's own open edition
   of the book at sre.google, licensed CC BY-NC-ND 4.0; worth reading here
   as the most cited published statement of blameless postmortem practice
-  in software operations, which QUESTION-476 asks about. It states the
+  in software operations, which [QUESTION-476](../questions.d/QUESTION-476.md) asks about. It states the
   practice's aims and norms; it reports no data on what postmortems find
   or fix.
 title: 'Postmortem Culture: Learning from Failure'
@@ -42,17 +42,17 @@ implementations: []
 summary: >-
   John Lunney and Sue Lueder (2016), "Postmortem Culture: Learning from
   Failure", chapter 15 of Google's Site Reliability Engineering, read in
-  NOTE-tmpu2cx9. A blameless postmortem "must focus on identifying the
+  [NOTE-tmpu2cx9](../notes.d/NOTE-tmpu2cx9.md). A blameless postmortem "must focus on identifying the
   contributing causes of the incident without indicting any individual or
   team for bad or inappropriate behavior", because under blame "people will
   not bring issues to light for fear of punishment"; "You can't "fix"
   people, but you can fix systems and processes". Review asks "Was the root
   cause sufficiently deep?" and whether the action plan is appropriate. It
   states norms, not findings: no data on what postmortems trace or whether
-  their action items are done. It bears on QUESTION-476 and corroborates
-  CLAIM-742 (THEORY-tmpuc245).
+  their action items are done. It bears on [QUESTION-476](../questions.d/QUESTION-476.md) and corroborates
+  [CLAIM-742](../claims.d/CLAIM-742.md) ([THEORY-tmpuc245](../theory.d/THEORY-tmpuc245.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpu2cx9 THEORY-tmpuc245 — new; the reading and its theory -->
+<!-- inactive-ok-file: THEORY-tmpuc245 — new; the reading and its theory -->
 <!-- inactive-ok-file: CLAIM-742 — Proposed; the claim the reading corroborates -->
 <!-- inactive-ok-file: LIT-tmpwev6r — Unfetched; the post the chapter cites -->
 
@@ -62,7 +62,7 @@ John Lunney and Sue Lueder (2016). "Postmortem Culture: Learning from Failure". 
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpu2cx9).*
+*From the reading ([NOTE-tmpu2cx9](../notes.d/NOTE-tmpu2cx9.md)).*
 
 - A postmortem records "an incident, its impact, the actions taken to
   mitigate or resolve it, the root cause(s), and the follow-up actions to
@@ -83,7 +83,7 @@ John Lunney and Sue Lueder (2016). "Postmortem Culture: Learning from Failure". 
 
 ## Standing in the record
 
-Registered on 2026-11-18 for QUESTION-476. It is the practice's own
+Registered on 2026-11-18 for [QUESTION-476](../questions.d/QUESTION-476.md). It is the practice's own
 statement, by its practitioners, with no evaluation: what a blameless
 postmortem is for and how Google runs one. It cites Allspaw (2012),
-LIT-tmpwev6r, and stands in for that post's practice only.
+[LIT-tmpwev6r](LIT-tmpwev6r.md), and stands in for that post's practice only.
