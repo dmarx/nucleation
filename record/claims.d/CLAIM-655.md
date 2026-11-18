@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmphgjbz
 title: 'The preference an optimizer reads from its remaining users can move with no one''s preferences changing: the change in a weighted average splits exactly into a change in the groups'' weights and a change within the groups, and when a design drives out the users it serves worst the first term alone moves the measured demand toward the design, so a metric can improve while the set of people for whom the product works shrinks'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-441
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -20,6 +28,7 @@ tags:
 date: '2026-11-12'
 line:
 - distributed-agency
+- organizational-normativity
 bears_on:
 - QUESTION-441
 summary: >-

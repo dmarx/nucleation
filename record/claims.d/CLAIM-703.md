@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpd6uxt
 title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target''s sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-16'
@@ -44,6 +44,14 @@ history:
     dog example's attribution, left unchecked in the body, is settled.
     Carried over at the reconciliation of 2026-11-18 from the
     continuation filing's duplicate entry.
+- version: 7
+  date: '2026-11-18'
+  note: >-
+    Carries dependence-and-domination, will-organization after its own
+    line(s) under ADR-085, which it takes part in: bears_on
+    QUESTION-472 (dependence-and-domination); bears_on QUESTION-071
+    (will-organization). Found at the line audit of 2026-11-18. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -66,6 +74,8 @@ tags:
 date: '2026-11-15'
 line:
 - organizational-normativity
+- dependence-and-domination
+- will-organization
 complements:
 - CLAIM-708
 - CLAIM-404

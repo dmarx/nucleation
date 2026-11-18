@@ -4,7 +4,15 @@ formerly:
 - CASE-tmp9vd9x
 status: Proposed
 title: 'The aquifer with privately owned recycling: two households each need four units of water service from an aquifer that sustains six units of extraction, so every pair of the three demands can be met and the three cannot; recycling that adds one unit of service each meets all three at three units of extraction apiece; with the recycler owned by one household, which can cut the other off and threatens to unless it yields voting authority, the physical conflict is solved and a dependence is turned into a claim to govern'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-484
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 standing: stipulated
 kind: construction
 tags:
@@ -15,6 +23,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - realizability
+- organizational-normativity
 illustrates:
 - CLAIM-586
 - CLAIM-560

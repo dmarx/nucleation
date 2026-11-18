@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpl4kyp
 title: 'A fire-alarm chain probed at four points: one silent test detects a fault without locating it, four probes locate any single fault, and matched recovery rates hide different repair organizations until the outside service is withdrawn'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -14,6 +14,12 @@ history:
     the review of #483 the owner relayed on 2026-11-12. The review asked
     that the single-fault calculations and the matched-recovery example
     stay as illustrations; they do. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-285 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -24,6 +30,7 @@ date: '2026-11-12'
 line:
 - formal-apparatus
 - record-as-apparatus
+- distributed-agency
 variant_of:
 - CASE-240
 illustrates:

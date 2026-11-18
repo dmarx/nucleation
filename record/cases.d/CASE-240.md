@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpaky45
 title: "The debugger's test: a detector that stays silent when test smoke is put to it"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -13,6 +13,12 @@ history:
     gives CLAIM-649's two readings (defeasible evidence, and entailment
     only under a validated guarantee) in place of the claim's old wording,
     that the silence means the mechanism is broken. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries distributed-agency after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-285 (distributed-
+    agency). Found at the line audit of 2026-11-18. No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -23,6 +29,7 @@ date: '2026-11-12'
 line:
 - record-as-apparatus
 - formal-apparatus
+- distributed-agency
 variant_of:
 - CASE-243
 illustrates:

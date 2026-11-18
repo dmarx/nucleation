@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CASE-tmp9201a
 title: 'A proposed study: small transformers trained on randomized subject–relation–object facts, with matched training worlds, measured across query variants, inference budgets, interventions and merges, to find whether apparent forgetting is loss, readdressing, interference or downstream suppression, and whether a model of the network''s response geometry predicts which associations come back under unseen queries, compute and interventions better than feature similarity, activation strength and attribution'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries pragmatic-transport after its own line(s) under ADR-085,
+    which it takes part in: bears_on QUESTION-010 (pragmatic-
+    transport). Found at the line audit of 2026-11-18. No other
+    change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -15,6 +23,7 @@ date: '2026-11-15'
 line:
 - learned-structure
 - realizability
+- pragmatic-transport
 bears_on:
 - QUESTION-274
 - QUESTION-275

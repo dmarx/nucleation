@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CASE-tmpnrxpi
 title: 'Tempe, Arizona, 18 March 2018: an Uber test vehicle whose developmental automated driving system relied on its sole operator to brake killed a pedestrian while the operator streamed video; the NTSB made her distraction the probable cause and the company''s safety culture, which had removed the second operator and left automation complacency unaddressed, a contributing one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries organizational-normativity after its own line(s) under
+    ADR-085, which it takes part in: bears_on QUESTION-476
+    (organizational-normativity). Found at the line audit of
+    2026-11-18. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -14,6 +22,7 @@ tags:
 date: '2026-11-18'
 line:
 - distributed-agency
+- organizational-normativity
 reported_in:
 - LIT-2664
 - NOTE-2034
