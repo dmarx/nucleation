@@ -115,7 +115,6 @@ summary: >-
 <!-- unresolved-ok-file: CLAIM-tmpe5u7i — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: THEORY-1917 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2692 LIT-2682 LIT-2708 — Deferred; registered unread from the same exchange -->
-<!-- inactive-ok-file: CLAIM-703 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-127 CASE-288 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-670 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-690 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->

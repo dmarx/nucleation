@@ -56,7 +56,7 @@ summary: >-
   contest and is not filed apart. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-632 TERM-124 TERM-086 CLAIM-686 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-632 TERM-124 TERM-086 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-724 TERM-130 — filed from the same exchange, Proposed or new -->
 
 # CLAIM-732: A protected objection is effective only if six achievements hold together, its becoming formulable, legible, taken up by an authorized channel, sustainable by the objector, corrected and maintained, so an objection can fail at any of them while its formal standing is unchanged, its chance of success is no greater than that of its weakest stage, and a reform that raises one stage's success can lower the whole
@@ -134,3 +134,7 @@ produces those changes."
   may feed back into an earlier one."
 - Not that influence over a stage is wrongful. A79 §10: "That capacity is
   not necessarily wrongful."
+
+## Note of 2026-11-18: what holds it back
+
+The decomposition and the bound hold, but the body says the claim also asserts that reforms of the kind in A81 §9 occur, and A81 §9's conditional probabilities are stipulated. The record holds no instance of a reform that raised one stage's success and lowered the whole; such a case, or a narrowing of the claim to the possibility, is what is missing.

@@ -17,7 +17,7 @@ illustrates:
 summary: >-
   A11's CASE B and CASE A, the arithmetic of [CLAIM-303](../claims.d/CLAIM-303.md).
 ---
-<!-- inactive-ok-file: CLAIM-182 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-182 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CASE-088: The repeated objection and the argument nobody reuses: filing pays for itself after a few recurrences in one case, and never in the other
 

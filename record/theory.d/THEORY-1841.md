@@ -24,7 +24,7 @@ summary: >-
   [CLAIM-675](../claims.d/CLAIM-675.md).
 ---
 <!-- inactive-ok-file: THEORY-1859 — filed from the stand-ins of 2026-11-13, Proposed -->
-<!-- inactive-ok-file: CLAIM-675 CLAIM-685 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-685 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1927 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
 # THEORY-1841: Feenberg argues that technology is neither neutral nor determined, that its design embodies a contingent technical code reflecting the values of dominant groups, that technological development is a field of social struggle with many feasible outcomes, and that an economic code that rewards deskilling could be replaced by one that values skill

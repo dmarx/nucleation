@@ -173,3 +173,11 @@ of coded and uncoded items. Its premise [CLAIM-182](CLAIM-182.md) is Proposed fo
 want. The critical distance no longer waits on a reading: [LIT-1848](../literature.d/LIT-1848.md)
 states it first-hand, and its derivation in Kanerva's book ([LIT-928](../literature.d/LIT-928.md)), still
 unread, is not something the claim uses.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after [CLAIM-182](CLAIM-182.md)'s revision of 2026-11-15, a note of analogies from
+keyed retrieval that is not evidence about records. [CLAIM-182](CLAIM-182.md) stays Proposed
+at this review, and the test this claim proposes, restatement distance set
+against re-derivation and a count of coded against uncoded items, has not
+been run.

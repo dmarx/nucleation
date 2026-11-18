@@ -54,7 +54,6 @@ summary: >-
   training. Demand is assumed known before training and fixed given quality; there
   is no term for uncertainty, discounting, obsolescence or a model being replaced.
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-881: Sardana, Portes, Doubov & Frankle — Beyond Chinchilla-optimal: accounting for inference in scaling laws
 

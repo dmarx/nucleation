@@ -136,3 +136,14 @@ against a switching model.
 ## Note of 2026-11-07: an exact continuous case, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §3's Adler equation, φ̇ = Δ − K sin φ with Δ > K, coordinates by continuous drift with a preferred phase and no stable or metastable state: the density is proportional to 1/(Δ − K sin φ) and the current is constant. The reader checked it. It is an exact instance of the continuous kind this claim says occurs. No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Re-read at the status review of 2026-11-18 because [CASE-075](../cases.d/CASE-075.md) was revised
+after the note of 2026-10-30. Its revision (version 2, 2026-11-12) wrote its
+existing remark that the case lies outside [THEORY-068](../theory.d/THEORY-068.md)'s conditions as
+draws_on and changed nothing it says: nobody has fitted its input logs with
+a drift process against a switching model. The Adler equation of the note of
+2026-11-07 is one more model, so "both occur" is still shown only in models,
+and no agent's coordination has been compared under the two forms on the
+same data.

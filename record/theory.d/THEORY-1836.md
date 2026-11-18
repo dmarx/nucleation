@@ -1,10 +1,30 @@
 ---
 number: 1836
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp4ajaz
 title: 'Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Active, at the status review's ruling (the owner delegated these
+    rulings; ADR-057, ADR-065). The title reports what Wolf argues, and
+    the 2007 Tanner Lectures (LIT-2594) were read in full in NOTE-1949,
+    whose key results 1 to 6 confirm each clause: the fitting-fulfillment
+    condition with its subjective and objective elements and active
+    engagement, meaningfulness distinct from happiness and morality, and
+    a nonsubjective standard of value of which she has no theory. The
+    book's additions (LIT-2609, NOTE-1933, Skimmed) were not read and no
+    discrepancy with the lectures is named. Nothing in the record
+    contradicts the report. The promote_when, now met and deleted, was:
+    "a reading of Wolf's lectures, or the book's chapters, confirms that
+    she states the fitting-fulfillment condition with a subjective and an
+    objective element and active engagement, holds meaningfulness
+    distinct from happiness and morality, and holds that it needs a
+    nonsubjective standard of value she does not supply." Whether her
+    account is true is not what this entry asserts.
 source:
 - LIT-2594
 - LIT-2609
@@ -12,12 +32,6 @@ tags:
 - well-being
 - ethics
 date: '2026-11-13'
-promote_when: >-
-  a reading of Wolf's lectures, or the book's chapters, confirms that
-  she states the fitting-fulfillment condition with a subjective and an
-  objective element and active engagement, holds meaningfulness distinct
-  from happiness and morality, and holds that it needs a nonsubjective
-  standard of value she does not supply.
 summary: >-
   Wolf (2007 Tanner Lectures, revised as the 2010 book), read in
   [NOTE-1949](../notes.d/NOTE-1949.md); the book is Skimmed through them in [NOTE-1933](../notes.d/NOTE-1933.md).
@@ -25,7 +39,7 @@ summary: >-
   objective attractiveness, with active engagement; no theory of the
   objective standard.
 ---
-<!-- inactive-ok-file: CLAIM-674 CLAIM-680 CLAIM-683 CLAIM-689 ARG-106 — filed from the exchange's Convivial Modernity programme, Proposed -->
+<!-- inactive-ok-file: CLAIM-680 CLAIM-683 ARG-106 — filed from the exchange's Convivial Modernity programme, Proposed -->
 <!-- inactive-ok-file: NOTE-1933 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
 # THEORY-1836: Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory

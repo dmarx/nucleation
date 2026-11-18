@@ -1,13 +1,53 @@
 ---
 number: 303
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpygqjz
-title: 'Filing an argument moves work across time: it is paid for now, in filing,
-  indexing, tracking dependencies and checking it is still current, against reconstruction
-  later, so it is worth its cost only when expected reuse covers it, and recurrence
-  is evidence of reuse, not the criterion'
-version: 1
+title: 'Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion'
+version: 4
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    CLAIM-308's objection conceded and written in (ADR-059), at the status
+    review of 2026-11-18, at the status review's ruling (the owner
+    delegated these rulings; ADR-057), when CLAIM-308 went Active. Where
+    reuse cannot be forecast, CLAIM-308's break-even rule, a function of
+    past recurrences weighted by reconstruction cost, is within
+    2 − (c_a + u)/c_r of the hindsight optimum, and no deterministic rule
+    without foresight guarantees materially better; recurrence so
+    weighted is then the criterion. The last clause is restricted to reuse
+    that can be forecast, the first of the two answers CLAIM-308 offered
+    it, and "What it does not say" says so. Version 1's title read:
+    'Filing an argument moves work across time: it is paid for now, in
+    filing, indexing, tracking dependencies and checking it is still
+    current, against reconstruction later, so it is worth its cost only
+    when expected reuse covers it, and recurrence is evidence of reuse,
+    not the criterion'. The status stays Proposed.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). Its grounds, THEORY-386 and THEORY-389, are
+    Active; its one objection, CLAIM-308, is conceded and written in
+    (version 2). Nothing meets its defeated_if: CLAIM-308 makes
+    recurrence weighted by reconstruction cost the criterion only where
+    reuse cannot be forecast, which the title now excepts, and it does
+    not show the second-occurrence rule filing as well as any rule using
+    cost estimates; CLAIM-630 shows the two parting once filing costs
+    twice a reconstruction's overpayment. QUESTION-098 moves from
+    answers to bears_on: as narrowed, the claim answers only where
+    reuse can be forecast, as CLAIM-308 answers only where it cannot,
+    and the question asks what the second-occurrence rule approximates
+    and when it fails. Interpretive. The title is unchanged.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Answers QUESTION-tmpsyjy0, the part of QUESTION-098 split off
+    under ADR-049 at the status review's ruling (the owner delegated
+    these rulings): when a structure is worth filing, staleness set
+    aside, under fixed known costs. It keeps bears_on QUESTION-098 for
+    the open remainder.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,6 +62,8 @@ tags:
 date: '2026-10-15'
 line: nucleating-argument
 answers:
+- QUESTION-tmpsyjy0
+bears_on:
 - QUESTION-098
 complements:
 - CLAIM-185
@@ -39,7 +81,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CLAIM-303: Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
+# CLAIM-303: Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion
 
 ## The claim
 
@@ -73,5 +115,12 @@ worth it. [CLAIM-182](CLAIM-182.md) is not touched: A11's null case, an argument
 - Not that the record's filing pays off. A11: "I would keep that last
   statement as a proposed economic account of nucleation, not an
   established explanation of how this particular repository performs."
+- Not that recurrence is only evidence where reuse cannot be forecast.
+  There [CLAIM-308](CLAIM-308.md)'s break-even rule, which files once the reconstruction
+  overpaid so far would pass the cost of filing, is within
+  2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses,
+  and recurrence weighted by reconstruction cost is the criterion.
+  [CLAIM-308](CLAIM-308.md)'s objection is conceded, and the title's last clause is
+  restricted to reuse that can be forecast.
 - Not that saved effort is better reasoning. A filed answer to an
   objection can be wrong, and can stop being right.

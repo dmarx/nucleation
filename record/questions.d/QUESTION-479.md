@@ -40,7 +40,7 @@ summary: >-
   and is this question. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-748 CASE-287 CLAIM-736 CLAIM-727 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-748 CASE-287 CLAIM-736 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: TERM-124 CLAIM-624 CLAIM-619 CLAIM-545 ARG-058 — Proposed; the record's nearest entries, cited with their standing -->
 
 # QUESTION-479: May a party subject to a justified constraint determine, or strategically raise, the cost another party must bear to make that constraint effective, and if only within limits, which?

@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpumro8
 title: 'The mathematics of waves and distributed modes, which covers harmonic and spectral decomposition, multiscale analysis, scattering and response operators, interference, mode coupling, localization and reconstruction, applies to how learning systems acquire, execute and compose computations, and earns its place where a description in independently justified modes and their couplings predicts a learned network''s responses to unseen queries, interventions, training and merging better than feature-, circuit- or parameter-level accounts fitted with the same information'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    `uses: TERM-118` is dropped, at the status review's ruling (the owner
+    delegated these rulings; ADR-057): the claim never uses the word
+    "disposition" or any sense of the term, so the edge stated nothing
+    and held the claim back. A dated note says what holds it back now. No
+    change to the title or the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,8 +34,6 @@ date: '2026-11-15'
 line:
 - learned-structure
 - formal-apparatus
-uses:
-- TERM-118
 complements:
 - CLAIM-407
 bears_on:
@@ -117,3 +124,7 @@ assistant's (Claude, in this session).
   cognition only in terms of oscillations or resonances would risk
   discarding the semantic and causal distinctions that make it cognition in
   the first place."
+
+## Note of 2026-11-18: what holds it back
+
+The claim's own test has not been run: no matched, prospective comparison yet shows a description in independently justified modes and couplings predicting a learned network's responses better than feature-, circuit- or parameter-level accounts given the same data. Its experiments are proposed, not done ([CASE-272](../cases.d/CASE-272.md), [CASE-274](../cases.d/CASE-274.md)), and its one held case of justified modes, [THEORY-022](../theory.d/THEORY-022.md), is Proposed.

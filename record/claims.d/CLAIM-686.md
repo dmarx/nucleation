@@ -1,10 +1,10 @@
 ---
 number: 686
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpub743
 title: 'Where a dependent party''s claims on an arrangement''s controllers fail of legibility, volitional efficacy or correctability in the controlling organization, the dependent lacks effective means of influence and challenge, and where they fail so at every party able to constrain the controllers it lacks effective protection; justified withdrawal lies outside those three achievements, so the domination threshold''s third condition is met by failures of normative efficacy only together with a failure of exit, and is not those failures restated'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,19 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its one premise, CLAIM-523, is
+    Active and the derivation was checked; CLAIM-682's third
+    condition is unchanged since its version 3, and none of
+    CLAIM-682, CLAIM-523 or CLAIM-624 yet says which of that
+    condition's means the three achievements cover. The title's
+    "only together with a failure of exit" is on the reading of
+    "lacks effective means of protection, influence, challenge or
+    justified withdrawal" as lacking all four, which the body
+    states. No change of title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -66,7 +79,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
-<!-- inactive-ok-file: CLAIM-682 CLAIM-677 CLAIM-687 CASE-261 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-682 CLAIM-677 CASE-261 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's duty of answerability, cited with its standing -->
 
 # CLAIM-686: Where a dependent party's claims on an arrangement's controllers fail of legibility, volitional efficacy or correctability in the controlling organization, the dependent lacks effective means of influence and challenge, and where they fail so at every party able to constrain the controllers it lacks effective protection; justified withdrawal lies outside those three achievements, so the domination threshold's third condition is met by failures of normative efficacy only together with a failure of exit, and is not those failures restated

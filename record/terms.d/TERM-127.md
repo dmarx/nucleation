@@ -4,7 +4,7 @@ formerly:
 - TERM-tmp8pnnr
 status: Proposed
 title: 'responsibility, and which sense: causal (whose conduct contributed), attributability (whose action or process it was), culpability (who is to blame), remedial (who owes prevention, relief or repair) or constitutive (who established or maintained the conditions that produced it); a verdict in one sense does not settle another'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -15,6 +15,16 @@ history:
     readings bear on the term's senses: Zeiser (2024) gives a narrower
     source for attributability, and Rubel, Castro and Pham give a
     role, causal and capacity taxonomy; a draws_on is proposed.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-057), the correction the note of 2026-11-17 asked for is made:
+    "Sources of the senses" cited Miller's "Distributing
+    Responsibilities" as "not registered", and now cites LIT-2755,
+    Unavailable. CLAIM-703 no longer lists the term: it is stated in
+    obligation and wrong. The definition is unchanged; a dated note says
+    what holds it back.
 tags:
 - ethics
 - moral-psychology
@@ -110,8 +120,8 @@ neither reading of "accountability" is assumed.
 
 - **Remedial**: A relays David Miller's remedial responsibility, with
   grounds in causal involvement, moral responsibility, relationships and
-  capacity to remedy (Miller, "Distributing Responsibilities", 2001, not
-  registered), and Iris Marion Young's forward-looking political
+  capacity to remedy (Miller, "Distributing Responsibilities", 2001,
+  [LIT-2755](../literature.d/LIT-2755.md), Unavailable), and Iris Marion Young's forward-looking political
   responsibility for unjust structures ([LIT-2246](../literature.d/LIT-2246.md), *Responsibility for
   Justice*, Deferred). [THEORY-207](../theory.d/THEORY-207.md) (Floridi) allocates it without fault.
 - **Culpability and attributability**: [THEORY-147](../theory.d/THEORY-147.md) and [THEORY-122](../theory.d/THEORY-122.md).
@@ -161,3 +171,7 @@ Zeiser 2024, read ([NOTE-2007](../notes.d/NOTE-2007.md), [THEORY-1915](../theory
 Rubel, Castro & Pham 2021, ch. 7 ([NOTE-2031](../notes.d/NOTE-2031.md), [THEORY-1946](../theory.d/THEORY-1946.md)) use a Hart-style structure of role, causal and capacity responsibility. It has no constitutive sense; its role responsibility covers part of what the term calls remedial and constitutive. A neighbouring taxonomy, not a source for the term; no relation proposed.
 
 No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Not adopted. The definition is not settled: filed on 2026-11-17, it has readings that question its list of senses and none answered, Miller's outcome responsibility with no slot among the five and Shoemaker's answerability as a kind the term does not list (note of 2026-11-17). And not every use says which sense it means: [CLAIM-708](../claims.d/CLAIM-708.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-726](../claims.d/CLAIM-726.md) say only that "the senses of responsibility" are this term's, and [CLAIM-708](../claims.d/CLAIM-708.md)'s "answer for that wrong" could be culpability, remedial or constitutive. [CLAIM-742](../claims.d/CLAIM-742.md) and [CLAIM-751](../claims.d/CLAIM-751.md) name their senses.

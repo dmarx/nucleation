@@ -2,9 +2,9 @@
 number: 716
 formerly:
 - CLAIM-tmp3t16f
-status: Proposed
+status: Active
 title: 'A breach can lower the injured party''s position if it refuses to settle, so that the breaching party gains leverage over the resolution of its own breach: a settlement the injured party rationally accepts afterward can leave the breacher ahead, the leverage coming from the violation and not from any right to set the terms'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -18,6 +18,16 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A55 and A57 §8 state its proposition (A57 §8's
     remedial capture). No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: it has no premise and no
+    objection; A55's numbers were rechecked (B accepts 25 against
+    20, A keeps 15 of its 40, B bears 75 uncompensated); nothing
+    in the record shows remedies restoring the injured party's
+    position on refusing, enforcement costs included.
+    Interpretive. No change of title.
 role: thesis
 warrant: interpretive
 defeated_if: >-

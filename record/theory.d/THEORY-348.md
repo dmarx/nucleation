@@ -26,7 +26,6 @@ summary: >-
 bears_on:
 - QUESTION-114
 ---
-<!-- inactive-ok-file: CLAIM-303 — Proposed; named as a claim this account bears on, not leaned on -->
 
 # THEORY-348: When staying in one state costs a fixed amount per request and leaving it costs a fixed one-time price, switching once the extra cost paid for staying equals that price is within 2 of the offline optimum on every request sequence, and no deterministic online rule does better; with a third option the best guaranteed ratio rises to 3
 

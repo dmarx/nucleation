@@ -92,3 +92,11 @@ owner and one assistant family". They would test what the tool does for
 agents, not whether an argument developed with memoryless collaborators
 fails mainly at identity, so they would not settle this claim. Status
 unchanged.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after [CASE-252](../cases.d/CASE-252.md) and [CASE-253](../cases.d/CASE-253.md) were revised on 2026-11-12. Both are
+proposed studies, not run, and the note of 2026-11-12 already says they
+would test what the tool does for agents, not whether such an argument fails
+mainly at identity. The move-by-move reading of a second exchange, and of
+one with another owner or assistant family, is still not in the record.

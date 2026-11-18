@@ -53,7 +53,7 @@ summary: >-
   form that control takes in a contract. The works are not held. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-744 CLAIM-716 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-744 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 TERM-124 CLAIM-364 CLAIM-670 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-728: In an incomplete contract the party holding residual rights of control decides the contingencies the contract did not cover, so a relationship fair in every specified term can still leave one party's terms at the other's discretion, and that discretion is exercised, and seen, only when an uncovered contingency arises
@@ -136,3 +136,7 @@ Grossman and Hart 1986, read ([NOTE-2063](../notes.d/NOTE-2063.md), [THEORY-1985
 <!-- inactive-ok-file: NOTE-2052 THEORY-1979 LIT-2742 — new reading (Skimmed) and theory of 2026-11-18, Proposed; Hart and Moore Unfetched -->
 
 Hart 2016, read in part ([NOTE-2052](../notes.d/NOTE-2052.md), [THEORY-1979](../theory.d/THEORY-1979.md)), as the neighbour of Hart and Moore 1990 ([LIT-2742](../literature.d/LIT-2742.md), Unfetched): it corroborates the first clause in an author's words, "who has the right to decide about the missing things? We called this right the residual control or decision right" (§2) ([THEORY-1979](../theory.d/THEORY-1979.md) carries `corroborates`). The veto example is a clean case of discretion over an uncovered contingency: "Now that the manager is an employee she has to get permission to implement the idea from her boss: the owner of the power plant has veto power." It qualifies the claim's worker example: property rights theory "emphasizes control over physical (more generally non-human) assets", and "purchasing the mine would not be worth much if the coal mine manager is indispensable", so power over a worker runs through the assets she needs and her replaceability, not the employment label. And "the power plant does anticipate that it will be at the mercy of the coal mine": the discretion shapes conduct before the contingency, as in Grossman and Hart. No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)) and Hart's lecture ([THEORY-1979](../theory.d/THEORY-1979.md)), read, say the holder bargains rather than decides and that residual control acts ex ante, through anticipation; that stands against the last clause, "exercised, and seen, only when an uncovered contingency arises", and is unanswered, since the ARG the note of 2026-11-17 asks for is not filed. It is also stated in [TERM-124](../terms.d/TERM-124.md), which is not adopted.

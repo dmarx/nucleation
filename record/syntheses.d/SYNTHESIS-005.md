@@ -94,7 +94,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-001 CASE-222 CLAIM-621 CLAIM-627 CASE-226 — filed from the same exchange, Proposed; premise, the owner's case and A's components -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-417 TERM-098 CLAIM-276 — Proposed; components, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-553 ARG-073 CLAIM-622 CASE-221 ARG-066 ARG-060 — the owner's construct, Proposed, and the argument and claim filed from the second share of the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-553 ARG-073 CASE-221 ARG-066 ARG-060 — the owner's construct, Proposed, and the argument and claim filed from the second share of the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 THEORY-916 — Proposed; the stipulated construction and the special case, cited in the version 2 corrections with their standing -->
 
 # SYNTHESIS-005: Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy

@@ -69,7 +69,7 @@ summary: >-
   they do not) is control over the other party's terms. The account adds
   nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ARG-116 CASE-281 CASE-288 CLAIM-364 CLAIM-673 CLAIM-675 CLAIM-678 CLAIM-680 CLAIM-682 CLAIM-684 CLAIM-686 CLAIM-688 CLAIM-690 CLAIM-714 CLAIM-716 CLAIM-718 CLAIM-721 CLAIM-726 CLAIM-727 CLAIM-728 CLAIM-734 CLAIM-736 CLAIM-737 CLAIM-744 CLAIM-746 SYNTHESIS-099 TERM-110 TERM-120 TERM-124 TERM-129 THEORY-1953 THEORY-1963 THEORY-1968 THEORY-1979 THEORY-1980 THEORY-1983 THEORY-1985 THEORY-1989 — Proposed; components, citations and the readings that support them, with their standing -->
+<!-- inactive-ok-file: ARG-116 CASE-281 CASE-288 CLAIM-364 CLAIM-680 CLAIM-682 CLAIM-684 CLAIM-690 CLAIM-714 CLAIM-721 CLAIM-726 CLAIM-728 CLAIM-734 CLAIM-736 CLAIM-737 CLAIM-744 CLAIM-746 SYNTHESIS-099 TERM-110 TERM-120 TERM-124 TERM-129 THEORY-1953 THEORY-1963 THEORY-1968 THEORY-1979 THEORY-1980 THEORY-1983 THEORY-1985 THEORY-1989 — Proposed; components, citations and the readings that support them, with their standing -->
 
 # SYNTHESIS-101: Restricting capabilities, and who controls the terms of waiting and contracting: the grounds of a restriction are kept apart from the authority to impose it, a capability is decomposed into what a restriction can reach, a restriction justified by incompetence can produce the incompetence, an opposition can be free as an actor while another holds its efficacy, and control over a deferred reward or over what a contract left open is control over the other party's terms
 

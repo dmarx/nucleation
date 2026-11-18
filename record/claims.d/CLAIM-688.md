@@ -1,10 +1,10 @@
 ---
 number: 688
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwvg2o
 title: 'A collective''s capacity to decline a feasible technology, which is part of its self-direction over that technology, can depend more on the competition it is in than on its own organization: where forgoing the technology leaves a collective dependent on rivals that adopt it, none of the competitors can decline it alone, and the capacity exists, if anywhere, in coordination among them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -21,6 +21,14 @@ history:
     Joins the work capability-restraint-relational-freedom
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §7 states its proposition. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its one premise, CLAIM-457, is
+    Active; no objection is filed; nothing in the record shows a
+    collective sustaining alone a refusal that leaves it dependent
+    on rivals. Interpretive. No change of title.
 role: thesis
 warrant: interpretive
 defeated_if: >-

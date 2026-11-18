@@ -2,9 +2,9 @@
 number: 718
 formerly:
 - CLAIM-tmp613ja
-status: Proposed
+status: Active
 title: 'A normative verdict on a relationship can be taken as a premise in order to find what in the relationship''s organization makes it true: hold behaviour and outcome fixed across cases judged differently, look for the organizational difference, then try to break it with cases where verdict and difference come apart; this finds the organizational marks of normative terms without a prior measure of them, and is circular without the last step'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -13,6 +13,17 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §2 and §15 state its proposition, as the
     manuscript's method. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted to Active at the status review of 2026-11-18 (ADR-057),
+    at the status review's ruling (the owner delegated these
+    rulings). An interpretive ruling, listed for the owner. Its
+    premise, CLAIM-363, is Active, and no objection is filed.
+    Nothing in the record meets the defeat condition: A's exit
+    example shows the third step revising a mark and leaving the
+    verdict, which is the discrimination the condition says the
+    method would lack. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

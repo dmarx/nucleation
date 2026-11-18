@@ -55,7 +55,7 @@ summary: >-
   exercises of justified authority". No Hohfeld and no rights theory is
   held on the record. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-738 CLAIM-741 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CLAIM-741 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 
 # CLAIM-735: Rights organize later justification: once justified, rights and normative powers become part of the structure within which further justification occurs, fixing which later undertakings are valid, by whom and with what effect, so rights can be prior in organization to later exercises of authority even where principles are prior to them in justification
 

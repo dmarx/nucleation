@@ -30,7 +30,6 @@ summary: >-
   wording is the reader's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-2756 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-738 — new, Open or Proposed; the reading and the entries it bears on -->
 
 # THEORY-1975: Stern argues that Darwall's account, on which moral obligation consists in what persons have legitimate second-personal authority to demand of one another rather than in actual demands, cannot explain obligations to aid a sufferer who makes no demand, so that wronging, or exclusionary reasons, may suffice for obligation without second-personal authority
 

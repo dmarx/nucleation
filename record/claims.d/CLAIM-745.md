@@ -47,7 +47,7 @@ summary: >-
   owner's, and the mechanism and its wording are A's. Adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-289 CLAIM-725 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CASE-289 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 
 # CLAIM-745: A categorical administrative gate can make evidence that a governing standard requires to count unable to change a decision: an authority that conditions a substantive entitlement on a categorical criterion displaces the reasons its decisions are supposed to answer to, and that the criterion is imposed, and complied with, establishes neither its legal authority nor its justification
 
@@ -139,3 +139,7 @@ the claim keeps the mechanism and leaves the motive to evidence (below).
 <!-- inactive-ok-file: THEORY-1952 — new reading and theory of 2026-11-18, Proposed -->
 
 CLINIC v. Rubio, ECF No. 83, read ([NOTE-2054](../notes.d/NOTE-2054.md), [THEORY-1952](../theory.d/THEORY-1952.md)): a documented specimen, now from the opinion rather than from reports. The Cable, as the court quotes it, directs that where "the applicant provides additional evidence that demonstrates he or she overcomes the public charge refusal, the consular officer should write detailed case notes . . . and refuse the applicant 221(g)" (p. 10). The court finds that "whatever determinations they make as to eligibility for the applicants subject to the Policy are ultimately irrelevant. The outcome is predetermined. The visa will be refused" (p. 42). One detail fits the claim's exact wording: the court held the Policy did not displace the individualized public-charge assessment (p. 32), so the required evidence was still assessed and could not change the decision; that is "unable to change a decision", not "not considered". On authority, the court rejects the Government's argument that officer-entered refusals preserve the consular role as "an exercise in Orwellian logic" (p. 40) and holds that the Policy "displaces consular officers from the role Congress assigned them" (p. 42), which bears out the claim's "that the criterion is imposed, and complied with, establishes neither its legal authority". The opinion says nothing on the Policy's moral justification, the claim's second half. No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+[CLAIM-725](CLAIM-725.md) went Active at this review, but both grounds are Proposed. [THEORY-1952](../theory.d/THEORY-1952.md)'s promote_when asks for page-cited quotations of each holding, and [NOTE-2054](../notes.d/NOTE-2054.md) quotes the nationality (p. 34) and § 1104(a) (p. 42) holdings but gives the § 1201(g) and 22 C.F.R. § 40.6 holding without a pinpoint. [CASE-289](../cases.d/CASE-289.md) still says the record has not read the opinion, and the three corrections its note of 2026-11-17 names are not yet written into its text.

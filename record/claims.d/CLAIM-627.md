@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmpxe1ih
 title: 'Whether a contested concept''s uses are compatible is partly settled by who has jurisdiction over its contexts: which contexts count as relevant to a decision and which rule governs where they overlap fix part of the cover on which its uses must glue, so a will-organization''s jurisdiction and precedence act on the conditions of interpretation and not only on its outputs'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    A repair at the status review of 2026-11-18: the note of
+    2026-11-12 read "the reader's assessment as checked by the filer: ,
+    already linked from QUESTION-456: the border-threshold case ...",
+    with the entry's own code and gloss dropped from NOTE-1760's
+    bullet when it was copied here. It now says that this claim is
+    already linked from QUESTION-456. No change of status, title or
+    relations.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -105,6 +116,16 @@ variant of [CASE-002](../cases.d/CASE-002.md) that would bear on it.
 ## Note of 2026-11-12: Moats et al. (2026), read
 
 From the reading in [NOTE-1760](../notes.d/NOTE-1760.md) ([LIT-2361](../literature.d/LIT-2361.md)), the reader's assessment as
-checked by the filer: , already linked from [QUESTION-456](../questions.d/QUESTION-456.md): the
-border-threshold case (result 7) is settled by negotiating power,
+checked by the filer: this claim is already linked from [QUESTION-456](../questions.d/QUESTION-456.md),
+and the border-threshold case (result 7) is settled by negotiating power,
 "reflecting the current power balance".
+
+## Note of 2026-11-18: what holds it back
+
+The step from jurisdiction over which contexts are relevant to a decision to
+authority over the cover on which a concept's uses must glue is asserted,
+not argued. The defeat condition's rival, that jurisdiction changes only
+which section is acted on, is what [ARG-057](../arguments.d/ARG-057.md)'s rejection left standing, and
+the variant of [CASE-002](../cases.d/CASE-002.md) it sketches has not been built. The restatement
+objection the defeat condition names, that the claim only joins [CLAIM-143](CLAIM-143.md)
+and [CLAIM-197](CLAIM-197.md), is not answered in the body.

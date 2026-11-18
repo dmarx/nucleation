@@ -2,9 +2,9 @@
 number: 749
 formerly:
 - CLAIM-tmpyqfrf
-status: Proposed
+status: Active
 title: "Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -13,6 +13,16 @@ history:
     answer, a case on the side of the boundary that owes none and the
     limit that question's sub-question names; carries rightful-power
     after its own line under ADR-085. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: it has no premise and no
+    objection; nothing in the record argues that a sphere of
+    discretion contracts as others come to depend on it.
+    Interpretive. A counter that went Active: CLAIM-687 concedes
+    it in the same change, a revision recorded there. No change of
+    title.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -46,7 +56,7 @@ summary: >-
   A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-739 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
-<!-- inactive-ok-file: ARG-058 CLAIM-624 CLAIM-687 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: ARG-058 CLAIM-624 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-749: Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects
 

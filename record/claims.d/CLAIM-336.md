@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-10-21'
@@ -76,6 +76,20 @@ history:
     that its first row joins TERM-031 and TERM-039, which each say they
     differ, and that which one q carries is the free parameter the
     Admission names; the table itself is unchanged. No other change.
+- version: 11
+  date: '2026-11-18'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-057, mechanism 5; ADR-070): TERM-053, Superseded, leaves
+    uses. ADR-070 moved a claim's use of it to conferral (TERM-103),
+    whose definition is TERM-053's, and to grant (TERM-101) where the
+    argument needs a maintained relation; this claim already names
+    both, and the version of 2026-11-04 restated it in their words.
+    Whether it holds in the successors' sense: it does. The mapping's
+    influence update is conferral E (TERM-103), as its table says, and
+    the lab's nominal grants are grants (TERM-101). The note of
+    2026-10-25 still cites TERM-053 for the dual canvases, as the term of
+    its time; a file directive now says so. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -111,7 +125,6 @@ uses:
 - TERM-039
 - TERM-103
 - TERM-101
-- TERM-053
 - TERM-026
 complements:
 - CLAIM-341
@@ -132,6 +145,7 @@ summary: >-
   2026-11-08 (ADR-084); the thesis is the owner's and the mapping the
   assistant's, as filed.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited in the note of 2026-10-25 and the history as the term of its time -->
 <!-- inactive-ok-file: CLAIM-286 ARG-065 — Proposed; a premise and the argument that concludes this, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that moved this entry -->
 <!-- ref::uses-file: TERM-101 — the lab's governor combining proposals "by nominal grants", and its arm with "a raised grant for the reframer", are grants in TERM-101's sense -->

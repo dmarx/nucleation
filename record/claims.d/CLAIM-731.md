@@ -54,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-706 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
-<!-- inactive-ok-file: CLAIM-727 CASE-285 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CASE-285 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 <!-- inactive-ok-file: TERM-124 CLAIM-669 — Proposed; the record's term for domination and a neighbouring claim -->
 
 # CLAIM-731: The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation

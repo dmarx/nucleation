@@ -40,7 +40,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: ARG-115 CLAIM-708 CLAIM-726 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpg9i9l — removed at the reconciliation of 2026-11-18; named for provenance -->
-<!-- inactive-ok-file: CLAIM-703 CLAIM-713 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+<!-- inactive-ok-file: CLAIM-713 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1917: Keller argues that a person can wrongfully place another under a genuine moral obligation, by changing her circumstances so that every alternative to what he wants is morally unacceptable, and that fiduciary roles expose those who hold them to this moral blackmail because they predictably generate special obligations that exceed and outlast the fiduciary duty
 
 ## Source

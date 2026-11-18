@@ -1,10 +1,21 @@
 ---
 number: 692
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqlt2o
 title: "The neural signature Jennings offers for an emergent subject's constraint on its parts, 1/f scaling and phase-amplitude coupling tied to attention, does not discriminate a macro-level constraint from micro-level mechanism: 1/f structure is present in every field recording, a coupling measure can be met by one non-sinusoidal rhythm, and the attention coupling it cites is a correlation with no control of waveform shape"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Promoted to Active at the status review of 2026-11-18 (ADR-057),
+    at the status review's ruling (the owner delegated these
+    rulings). An interpretive ruling, listed for the owner. Its
+    three grounds, THEORY-1312, THEORY-1317 and THEORY-1337, are
+    Active, and each supplies one clause of the title. No objection
+    is filed, and no study in the record meets the defeat condition.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

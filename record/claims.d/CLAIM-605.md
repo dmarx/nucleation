@@ -86,7 +86,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-684 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
-<!-- inactive-ok-file: CASE-262 CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 
 # CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold

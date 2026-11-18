@@ -1,10 +1,10 @@
 ---
 number: 674
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp58u4k
 title: 'An arrangement, a technology among them, can satisfy people''s preferences more fully, and raise the well-being they report, while narrowing their opportunities to engage actively with what is worthwhile, so success at satisfying preferences does not show that the lives an arrangement leaves open are going better'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -12,6 +12,20 @@ history:
     Carries distributed-agency after its own line(s) under ADR-085,
     which it takes part in: bears_on QUESTION-369 (distributed-
     agency). Found at the line audit of 2026-11-18. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Active, at the status review's ruling (the owner delegated these
+    rulings; ADR-057). Its one ground, THEORY-1836, went Active in the
+    same review on its full reading (NOTE-1949). The claim is one of
+    possibility, and the body carries it: Wolf separates fulfilment from
+    meaning, and the stipulated separating case meets every premise. No
+    objection is filed, and nothing in the record meets its defeated_if;
+    the record holds no account on which how well a life goes is
+    exhausted by preference satisfaction. Marcuse and Illich
+    (THEORY-1853, THEORY-1861) stay corroboration, and ARG-106's
+    inference, Proposed, is not a premise. Interpretive, listed for the
+    owner.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,8 +70,8 @@ summary: >-
   gives adopters. Interpretive. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-689 CLAIM-680 THEORY-1845 — Proposed; cited with its standing -->
-<!-- inactive-ok-file: THEORY-1836 THEORY-1853 THEORY-1861 CLAIM-677 ARG-106 ARG-102 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-680 THEORY-1845 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: THEORY-1853 THEORY-1861 CLAIM-677 ARG-106 ARG-102 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — Skimmed; the excerpt of Tools for Conviviality -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 

@@ -32,7 +32,7 @@ summary: >-
   that claim). "The people shall be judge" (§240) of a trustee's breach corroborates [CLAIM-727](../claims.d/CLAIM-727.md)'s refusal of self-certifying authority. It bears on [QUESTION-481](../questions.d/QUESTION-481.md). The wording is the reader's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-2077 CLAIM-720 CLAIM-727 — Skimmed or Proposed; the reading and the claims it corroborates -->
+<!-- inactive-ok-file: NOTE-2077 CLAIM-720 — Skimmed or Proposed; the reading and the claims it corroborates -->
 
 # THEORY-1959: Locke argues in the Second Treatise that because no one has an absolute arbitrary power over his own life no one can by compact or consent give another such power, except where life is forfeited by a fault deserving death, so that the legislative, holding only the joint power its members could transfer, cannot be absolutely arbitrary over their lives and fortunes and holds a fiduciary power the people may resume when the trust is breached
 

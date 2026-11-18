@@ -456,7 +456,7 @@ Two things go beyond the claim as filed. The scope is wider: every capability "r
 No status changes.
 
 ## Note of 2026-11-17: a cleaner antecedent and a conditional derivation of the duty, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-727 CLAIM-714 CLAIM-719 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-714 CLAIM-719 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 The exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) cites this claim repeatedly. Its antecedent appears in a cleaner form, first in A102 §8 ("The existence of the first-order authority does not establish the second-order authority") and then as A106 §12's "candidate second-order principle": "**Where an actor's legitimate authority is constrained by claims others possess, the actor's control over the conditions through which those claims become effective requires justification independently of its authority over the underlying activity.**" That is [CLAIM-727](CLAIM-727.md)'s thesis, filed from the part before, and a candidate premise for this claim: it says why reproducing an occluding mechanism needs a justification the organization's substantive authority does not supply.
 

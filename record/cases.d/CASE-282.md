@@ -43,7 +43,7 @@ summary: >-
   are satisfiable"; all three pairs are. Proposed because the construction
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-738 CLAIM-746 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-746 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-669 — Proposed; the record's entries on control of the terms of a dependence -->
 
 # CASE-282: The aquifer with privately owned recycling: two households each need four units of water service from an aquifer that sustains six units of extraction, so every pair of the three demands can be met and the three cannot; recycling that adds one unit of service each meets all three at three units of extraction apiece; with the recycler owned by one household, which can cut the other off and threatens to unless it yields voting authority, the physical conflict is solved and a dependence is turned into a claim to govern

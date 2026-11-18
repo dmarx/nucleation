@@ -2,9 +2,9 @@
 number: 727
 formerly:
 - CLAIM-tmpcpijj
-status: Proposed
+status: Active
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-17'
@@ -33,6 +33,21 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §11 and A76's concise thesis for the
     manuscript state its proposition. No other change.
+- version: 6
+  date: '2026-11-18'
+  note: >-
+    Active, at the status review's ruling (the owner delegated these
+    rulings; ADR-057). `uses: TERM-124` is dropped: the claim is stated
+    in authority and challenge, not in domination, and its body cites the
+    term as a neighbour, which stays as the citation. With that edge gone
+    it has no premise. No objection is filed, and nothing in the record
+    meets its defeated_if: no entry argues that justification to decide
+    carries entitlement to set the terms of challenge, and the claim
+    allows justified delegation. Schlager and Ostrom (THEORY-1957) and
+    Locke (THEORY-1959) stay corroboration. The body carries the title
+    as hedged: "does not carry" by default, "needs its own
+    justification", and "cannot always". Interpretive, listed for the
+    owner.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -66,8 +81,6 @@ bears_on:
 - QUESTION-482
 - QUESTION-441
 - QUESTION-480
-uses:
-- TERM-124
 summary: >-
   A's, A83 §3E, §7 and close of the exchange "Assess Depp Heard Abuse"
   (2026-11-17), at the owner's U36: "An actor's authority over a

@@ -1,10 +1,10 @@
 ---
 number: 703
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpd6uxt
 title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target''s sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -59,6 +59,21 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §6.1 and A53 §8 state its proposition. No
     other change.
+- version: 9
+  date: '2026-11-18'
+  note: >-
+    Active, at the status review's ruling (the owner delegated these
+    rulings; ADR-057). `uses: TERM-127` is dropped: the claim is stated in
+    obligation and wrong, not in responsibility, and its one sentence on
+    the term was a pointer; it now says that where its sources write
+    "responsibility" they mean the term's remedial sense. With that edge
+    gone it has no premise. No objection is filed. Nothing in the record
+    meets its defeated_if: Keller (THEORY-1917) and Tessman (THEORY-1914)
+    corroborate its first two clauses, and Tessman's two-party exception
+    restricts where it holds without touching a claim that says one party
+    can. The bullet "What Keller says", which called LIT-2670 unread,
+    now says it was read and that the last clause is A13's. Interpretive,
+    listed for the owner.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -91,8 +106,6 @@ complements:
 bears_on:
 - QUESTION-472
 - QUESTION-071
-uses:
-- TERM-127
 summary: >-
   A's, from A13 of the exchange "Assess Depp Heard Abuse" (2026-11-15), at
   the owner's U7 ("double click on normative manipulation"), and attributed
@@ -204,7 +217,10 @@ not filed as a term.
 - [QUESTION-472](../questions.d/QUESTION-472.md) asks whether the ability to activate another's
   obligations is control over the terms of a dependence.
 - [CLAIM-660](CLAIM-660.md) (parasites acting through a host's own machinery) is the
-  biological analogue. The senses of responsibility are [TERM-127](../terms.d/TERM-127.md)'s.
+  biological analogue. The claim is stated in obligation and wrong, not
+  in responsibility; where its sources write "responsibility" (A13's
+  "Bob's responsibility", White's in the note below) they mean
+  [TERM-127](../terms.d/TERM-127.md)'s remedial sense.
 
 ## What it does not say
 
@@ -218,8 +234,10 @@ not filed as a term.
 
 - **That Bob may refuse.** The dog's welfare still matters: "Alice's
   wrongdoing doesn't magically erase Bob's reasons to prevent suffering."
-- **What Keller says.** The paper ([LIT-2670](../literature.d/LIT-2670.md)) is registered and unread; the
-  attribution and the case's closeness to Keller's own are A's report.
+- **What Keller says, beyond its first two clauses.** The paper
+  ([LIT-2670](../literature.d/LIT-2670.md)) was read on 2026-11-16 ([NOTE-2005](../notes.d/NOTE-2005.md)); the dog case is his,
+  and the last clause, that the obligation is no larger than the
+  circumstances support, is A13's, not Keller's (notes below).
 
 ## Note of 2026-11-16: Anderson, read
 

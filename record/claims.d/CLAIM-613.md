@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7fzb9
 title: "A fork can be the construction of a new organization through which a disposition that the parent's governance kept ineffective gains efficacy, and not only one of several successors of the parent"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -28,6 +28,17 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Frey and Schneider (LIT-2704) read on 2026-11-16, NOTE-1995. No change of status or title.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-057), the bullet on the forking disposition's bearer now declares
+    what TERM-118 asks of a use: the bearer is the dissenting
+    contributors, the boundary first the parent and then the fork, and
+    the sense the tendency sense, sense 2. The body already read the
+    disposition as the dissenters' ("the dissenters' disposition"); the
+    bullet had left the bearer to the reader. The claim, its title and
+    its status are unchanged; a dated note says what holds it back.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -110,8 +121,12 @@ that signals to the old one.
 - **That the forking disposition is the community's.** In A's example the
   disposition is attributed to "An open-source community" and then
   exercised by some contributors against the rest. Which bearer holds it is
-  what [TERM-118](../terms.d/TERM-118.md) requires a claim to declare; read as the dissenters'
-  disposition, the parent's governance masked it.
+  what [TERM-118](../terms.d/TERM-118.md) requires a claim to declare, and the claim declares it:
+  the bearer is the dissenting contributors; the boundary is first the
+  parent, whose governance masks the disposition, and then the fork, in
+  which it governs; and the sense is the term's tendency sense (sense 2),
+  a disposition to object to unilateral governance changes that would
+  manifest across the occasions on which such changes are made.
 - **That the new organization succeeds or is better.** Gaining efficacy is
   not gaining legitimacy or viability.
 
@@ -124,3 +139,7 @@ of his 1970 book. A does not cite it.
 The paper's "entrepreneurial exit" (Gofen), forking a community or codebase, is this claim's fork as the
 construction of a new organization; with Eghbal's caution that "Forking is a technical right. Socially,
 it’s much harder to execute". Relation: bears_on.
+
+## Note of 2026-11-18: what holds it back
+
+It is stated in [TERM-118](../terms.d/TERM-118.md), which is not adopted: the term's settle condition, that every use of "disposition" says which bearer and which sense, is unmet in [ARG-069](../arguments.d/ARG-069.md), which leaves the forking disposition's bearer open, in [ARG-059](../arguments.d/ARG-059.md), which still calls [CLAIM-619](CLAIM-619.md) a fink against the term's finking row, and in [CLAIM-697](CLAIM-697.md), which names its bearer but not its sense. The claim's premises [CLAIM-047](CLAIM-047.md) and [CLAIM-287](CLAIM-287.md) are held, and no objection is filed.

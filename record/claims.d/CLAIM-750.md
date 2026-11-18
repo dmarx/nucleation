@@ -127,3 +127,7 @@ proposed study.
   review's commissioners govern what it writes.
 - That "the system" is never the right answer. It is incomplete when the
   system has authors whose decisions it omits.
+
+## Note of 2026-11-18: what holds it back
+
+The claim is empirical and untested: no reading codes postmortems by the highest organizational level their contributing causes and action items reach, internal against independent, and [CASE-293](../cases.d/CASE-293.md) is the proposed study. The SRE chapter ([THEORY-2000](../theory.d/THEORY-2000.md)) and Dekker and Nyce ([THEORY-1997](../theory.d/THEORY-1997.md)) bear on the mechanism only.

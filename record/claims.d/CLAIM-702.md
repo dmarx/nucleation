@@ -122,3 +122,7 @@ invisibility. Kept apart, each link can be looked for where it occurs.
 Cook 1998/2000, read ([THEORY-1998](../theory.d/THEORY-1998.md), corroborates). The claim's first half has a statement in safety science. Complex systems run "because people can make it function, despite the presence of many flaws" (point 5); "People continuously create safety", in activities that are "for the most part, part of normal operations and superficially straightforward" (point 17); and "Outsiders rarely acknowledge the duality of this role. In non-accident filled times, the production role is emphasized. After accidents, the defense against failure role is emphasized" (point 9). That is prevention leaving little trace while its lapse is seen. Cook says nothing about the organization being credited with what the compensation produced, so the claim's second half, credit and blame by different principles, is not supported. Argued, not shown by data.
 
 No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Cook ([THEORY-1998](../theory.d/THEORY-1998.md)) corroborates the first half, that prevention leaves little trace while its lapse is seen. Nothing in the record shows an organization credited with outcomes its members' compensation produced, so the second half, credit and blame by different principles, rests on A's illustration of the ward alone; a case or reading that traces the credit for a compensated outcome is what is missing.

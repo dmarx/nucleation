@@ -46,7 +46,6 @@ summary: >-
 bears_on:
 - QUESTION-098
 ---
-<!-- inactive-ok-file: CLAIM-308 — Proposed; the claim objected to, the claim it answers, and a survey's account cited as such -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-314: Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent
@@ -130,3 +129,13 @@ for prose arguments is at least as hard as the conjunctive case.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability generalizes this claim: a system may hold a capability, or information sufficient for a task, without an affordable procedure for recognizing when and how to use it. A writes "Available information ⇏ Computationally accessible information" and "Existing solution ⇏ Affordable discovery of that solution", and would add recognition and reuse to the resource accounting. The claim holds the narrow case, certifying exact coverage of conjunctive queries by stored views ([THEORY-389](../theory.d/THEORY-389.md); [THEORY-371](../theory.d/THEORY-371.md)), and its disclaimers stand: the hardness is worst case and says nothing about prose. Read beside [CLAIM-576](CLAIM-576.md), the generalization says that a repertoire of realizable processes should count the cost of recognizing which process applies; that connection is the filer's. No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after [CLAIM-308](CLAIM-308.md)'s revision of 2026-11-10 and its promotion at this
+review, and after [CLAIM-576](CLAIM-576.md)'s note of 2026-11-15. [CLAIM-308](CLAIM-308.md) concedes this
+objection, which keeps the status its evidence gives it ([ADR-059](../decisions.d/ADR-059.md)). The title
+still says without condition that each filing raises the cost of later
+reuse, while the body says most of the record's reuse is lookup by code;
+nothing measures the cost of recognition in the record's own reuse, and
+[CLAIM-576](CLAIM-576.md)'s readings generalize the point without measuring it.

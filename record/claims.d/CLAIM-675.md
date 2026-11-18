@@ -1,10 +1,10 @@
 ---
 number: 675
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6wuql
 title: 'Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-13'
@@ -22,6 +22,17 @@ history:
     Joins the work capability-restraint-relational-freedom
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §8 states its proposition. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: it rests on CLAIM-605 and
+    CLAIM-352, both Active; no objection is filed; the derivation
+    in CLAIM-605's model was re-run at this review by Euler
+    integration (C = 0.156 against 0.7 at t = 5, and 0 against 0.7
+    sixty units after withdrawal); ARG-105 answers Gardner's
+    challenge to the framing, and nothing read argues that the
+    capability set includes later sets. No change of title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -69,7 +80,6 @@ summary: >-
   decline", and the proposed study is [CASE-262](../cases.d/CASE-262.md). The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-676 — filed from the exchange's Convivial Modernity programme, Proposed -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-1847 THEORY-1839 THEORY-1848 THEORY-1863 THEORY-1856 THEORY-343 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-105 THEORY-1841 THEORY-1844 THEORY-1845 THEORY-1850 THEORY-1852 THEORY-1857 THEORY-1860 THEORY-1866 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->

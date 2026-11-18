@@ -57,7 +57,7 @@ bears_on:
 - QUESTION-108
 - QUESTION-112
 ---
-<!-- inactive-ok-file: CLAIM-250 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-295: A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
 
@@ -119,3 +119,12 @@ The informational clauses are carried by [CLAIM-294](CLAIM-294.md) and [CLAIM-30
 Active. The computational clause has only A10's illustrative example, and a
 state built for the tasks could carry the same dependency index, which is
 exactly what the defeat condition asks to be shown or ruled out.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after [CLAIM-294](CLAIM-294.md)'s revisions of 2026-11-11 (stale text and a
+bears_on edge) and [CLAIM-300](CLAIM-300.md)'s line bookkeeping of 2026-11-07. Neither
+touches the computational clause, which still has only A10's illustrative
+example: nothing shows a decision a bounded agent can make with a kept
+history that it could not make with a state built for the same tasks and
+carrying the same dependency index.

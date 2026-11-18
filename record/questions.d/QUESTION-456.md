@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpuftum
 title: 'How can the set of demands an organization''s compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization''s own governance?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -13,6 +13,13 @@ history:
     Abuse" separate the demands an institution recognizes from those
     warranted under its standard, with a guard against normative
     closure. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Repaired a garbled sentence in the note of 2026-11-12, which read
+    "checked by the filer: , failure mode 2": the entry's own code was dropped when the reader's
+    bullet was copied in. Found by the status review of 2026-11-18 beside
+    the same repair to CLAIM-627. No change of content.
 tags:
 - society-and-governance
 - epistemology
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-663 CLAIM-662 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-663 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
 <!-- inactive-ok-file: LIT-2451 LIT-2363 — Deferred; registered from the same exchange, unread -->
 
@@ -103,7 +110,7 @@ itself narrowing.
 ## Note of 2026-11-12: Caliari and Petri, read
 
 From the reading in [NOTE-1746](../notes.d/NOTE-1746.md) ([LIT-2458](../literature.d/LIT-2458.md)), the reader's assessment as
-checked by the filer: , failure mode 2 ("behavioral observations are
+checked by the filer, on this question's failure mode 2 ("behavioral observations are
 evidence about a demand, not automatically the demand itself"): *supports*,
 formally. Identical aggregate behaviour is consistent with populations whose
 individual "demands" differ in kind (result 1), so an inferred acceptance
@@ -207,7 +214,7 @@ outside the tool. It shows how much rides on that choice (calibration buys
 FPR parity at a reported TPR cost) without resolving it.
 
 ## Note of 2026-11-17: recognized against warranted demands, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-743 CLAIM-727 — Proposed; the last two filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-743 — Proposed; the last two filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A85 §9 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17), after the Ninth Amendment, separates D_recognized(t) ⊆ D_justified(t): "The first is the set of claims the institution presently recognizes. The second is the set of claims actually warranted under the normative theory." The danger is assuming they are equal "solely because no further claims have been formally recognized. This is a form of normative closure." Its principle: "**An institution's failure to recognize a justified claim does not, by itself, establish the claim's absence; nor does the institution's authority to administer a catalogue of rights necessarily confer unrestricted authority to determine that catalogue's moral completeness.**" A97 IV restates the pair as D_recognized and D_warranted,N, "particularly important when the institution controls the mechanisms through which demands become recognized."
 

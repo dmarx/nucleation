@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxuigm
 title: 'A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -36,6 +36,22 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-057, mechanism 5; ADR-070): TERM-053, Superseded, leaves
+    uses. ADR-070 moved a claim's use of it to conferral (TERM-103),
+    whose definition is TERM-053's, and to grant (TERM-101) where the
+    argument needs a maintained relation; this claim already names
+    both, and the version of 2026-11-04 restated it in their words.
+    Whether it holds in the successors' sense, which the directive dated
+    until 2027-02-10 left open: it does. The operators' grants E_ij are
+    made under an allocation rule the organization keeps, so they are
+    grants, and their effect on another's share of influence, which the
+    two conditions constrain, is conferral; nothing in the argument
+    used the wider TERM-053 sense beyond that. The directive and the
+    uses statement for TERM-053 are removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,7 +77,6 @@ rests_on:
 uses:
 - TERM-103
 - TERM-101
-- TERM-053
 summary: >-
   The owner's design at U2 of the 2026-10-13 exchange: operators vote on
   one another's influence, cannot significantly manipulate their own, and
@@ -79,9 +94,8 @@ complements:
 bears_on:
 - QUESTION-090
 ---
-<!-- inactive-ok-file: TERM-053 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); named in the history as the term of its time -->
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
-<!-- ref::uses-file: TERM-053 — operators' grants of influence to one another, which A2 calls endorsing ("denoiser i may rationally endorse j"), were stated as TERM-053's endorsement, the definition current when this claim was written; since superseded by TERM-103 and TERM-101 -->
 
 # CLAIM-285: A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation
 

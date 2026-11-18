@@ -1,23 +1,39 @@
 ---
 number: 689
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpx60mo
-title: 'Whether a desire was formed by social influence and whether its object is worth desiring are separate questions; since every preference is socially formed, a critique of produced wants cannot rest on their origin alone, and can ask instead whether satisfying them engages people with anything worthwhile'
-version: 1
+title: 'Whether a desire was formed by social influence and whether its object is worth desiring are separate questions; since every preference is socially formed, a critique of produced wants cannot rest on their social origin as such, and can ask instead whether satisfying them engages people with anything worthwhile'
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings; ADR-057). The argument, that every
+    preference is socially formed, carries only social origin as such,
+    not every manner of formation, so "their origin alone" becomes
+    "their social origin as such", and the defeat condition says the
+    same. The dropped clause, that no account by manner of formation
+    (THEORY-047's introjection) can ground a critique of the wants
+    themselves, is the record's own extrapolation and is filed as
+    CLAIM-tmpq1p1x, Proposed, which rests on this claim (ADR-047, kind
+    2). As narrowed, its ground THEORY-1836 is Active, it has no
+    objection, and nothing meets its defeated_if. Interpretive. The old
+    title was "Whether a desire was formed by social influence and whether its object is worth desiring are separate questions; since every preference is socially formed, a critique of produced wants cannot rest on their origin alone, and can ask instead whether satisfying them engages people with anything worthwhile".
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  An account of a desire's falsity or inauthenticity by its origin that
-  picks out some socially formed desires and not others, without
-  appeal to the worth of their objects or to their effects, and that the
-  record can accept; then origin can carry a critique by itself. Or an
-  argument that the worth of a desire's object cannot be judged apart
-  from how the desire was formed. Not defeated by Marcuse's criterion,
-  which joins origin ("superimposed ... by particular social interests")
-  to function ("the needs which perpetuate toil, aggressiveness, misery,
-  and injustice"); the claim takes the second part as a question of
-  worth.
+  An argument that a want's social origin as such, apart from how it was
+  formed, makes its object unworthy or its satisfaction bad; or that the
+  worth of a desire's object cannot be judged apart from how the desire was
+  formed. Not defeated by Marcuse's criterion, which joins origin
+  ("superimposed ... by particular social interests") to function ("the
+  needs which perpetuate toil, aggressiveness, misery, and injustice"); the
+  claim takes the second part as a question of worth. Not defeated by
+  accounts that discriminate among wants by the manner of their formation,
+  such as introjection under controlling conditions (THEORY-047); whether
+  those reach a want's worth is CLAIM-tmpq1p1x's question.
 tags:
 - well-being
 - ethics
@@ -40,11 +56,11 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-680 — Proposed; cited with its standing -->
-<!-- inactive-ok-file: THEORY-1836 THEORY-1853 THEORY-1843 ARG-108 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1853 THEORY-1843 ARG-108 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; the authenticity line's question of avowal, cited for the boundary -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 
-# CLAIM-689: Whether a desire was formed by social influence and whether its object is worth desiring are separate questions; since every preference is socially formed, a critique of produced wants cannot rest on their origin alone, and can ask instead whether satisfying them engages people with anything worthwhile
+# CLAIM-689: Whether a desire was formed by social influence and whether its object is worth desiring are separate questions; since every preference is socially formed, a critique of produced wants cannot rest on their social origin as such, and can ask instead whether satisfying them engages people with anything worthwhile
 
 ## The claim
 
@@ -67,3 +83,11 @@ At the boundary [ADR-099](../decisions.d/ADR-099.md) draws. Whose a desire is, a
 
 - Not that origin never matters. Manipulation can wrong a person whatever its object; the claim is about what a critique of the wants themselves needs.
 - Not which objects are worthwhile; [CLAIM-680](CLAIM-680.md) holds that no institution may settle it by imposition.
+
+## Note of 2026-11-18: narrowed
+
+The blocker note of this date found the title wider than its argument:
+"since every preference is socially formed" answers critiques by social
+origin as such, not accounts that discriminate by how a want was formed,
+such as [THEORY-047](../theory.d/THEORY-047.md)'s introjection. The title now says social origin as
+such, and the wider clause is [CLAIM-tmpq1p1x](CLAIM-tmpq1p1x.md), Proposed.

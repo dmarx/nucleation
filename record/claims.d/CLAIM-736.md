@@ -65,7 +65,7 @@ summary: >-
   from the repository". The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-686 CLAIM-545 CLAIM-690 TERM-124 CLAIM-364 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-545 CLAIM-690 TERM-124 CLAIM-364 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-736: An opposition can be independent as an actor, in its leadership, aims and speech, while its capacity to change the arrangement it opposes depends on another party's control of its resources, standing, corrective authority or time; that controlled incapacity, and not incapacity or failure as such, is what makes a contained opposition a mark of domination
 
@@ -183,3 +183,7 @@ Arnstein 1969, read from an OCR scan ([NOTE-2037](../notes.d/NOTE-2037.md), [THE
 <!-- inactive-ok-file: THEORY-1953 LIT-2731 — new theory of 2026-11-18, Proposed; Semenov Unavailable -->
 
 Szakonyi 2025, read ([NOTE-2056](../notes.d/NOTE-2056.md), [THEORY-1953](../theory.d/THEORY-1953.md)), which the claim lists under "Works A relied on" as A's counterexample: read, it corroborates the claim ([THEORY-1953](../theory.d/THEORY-1953.md) carries `corroborates`; the claim does not rest on it). It supports the defeat condition's warning: an opposition inside autocratic institutions produced measurable change there, ruling-party deputies earning "roughly 22% less income" on opposition-held councils (p. 2), so inclusion is not itself evidence of containment. And it documents the claim's mechanism one level up: "the opposition did not win enough seats to overcome the municipal filter" (p. 5), "phony criminal charges were filed against nine deputies from the opposition" (p. 5), and in 2022 "the regime blocked opposition candidates from running and used fraud" (p. 15). Local efficacy with the larger arrangement held by another is the claim's controlled incapacity; the author does not frame it so. His finding that systemic and nonsystemic councils did not differ significantly once governing (p. 15) bears on whether that distinction marks containment. Semenov ([LIT-2731](../literature.d/LIT-2731.md)) stays unread. No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+It is stated in [TERM-124](../terms.d/TERM-124.md), which is not adopted: [CLAIM-730](CLAIM-730.md) makes a rule the holder of domination, against the term's relatum 2 (the term's note of 2026-11-18). Nothing else holds it: it has no other premise, Arnstein and Szakonyi corroborate it, and no objection is filed.

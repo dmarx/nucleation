@@ -91,7 +91,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-726 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
-<!-- inactive-ok-file: CLAIM-703 CLAIM-708 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+<!-- inactive-ok-file: CLAIM-708 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
 # CLAIM-701: An actor that wrongfully creates circumstances in which reversing its act would harm innocent third parties can give a reviewing institution genuine reasons to accommodate those harms, as moral blackmail gives its target a genuine obligation; the reviewer's sound weighing of those reasons does not discharge the actor's responsibility for having wrongfully created them, and the reasons are no larger than the circumstances support
 
