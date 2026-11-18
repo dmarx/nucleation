@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmp2t6ve
 status: Open
 title: 'Does blameless post-incident practice in engineering keep accountability while giving up blame, and if it does, does it keep or lose the upstream provenance of an incapacity that blame supplies?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -15,12 +15,19 @@ history:
     blame and keeps another. The NTSB's Tempe report and Elish (2019)
     read and filed with bears_on this question; the Tempe case is
     filed as a documented specimen bearing on it.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Takes the line rightful-power first, as one of its root questions;
+    its earlier lines (organizational-normativity, distributed-agency)
+    are kept after it. No other change.
 tags:
 - society-and-governance
 - ethics
 - software-engineering
 date: '2026-11-17'
 line:
+- rightful-power
 - organizational-normativity
 - distributed-agency
 refines:

@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmpea19q
 status: Open
 title: 'When is answerability required of an authority or governing capability: under what conditions is justification owed, to whom, and why?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,12 +12,19 @@ history:
     Reading of Stern on Darwall filed with bears_on this question:
     Darwall answers "to whom and why" by second-personal standing, and
     Stern's triad is the case that answer leaves open.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Takes the line rightful-power first, as one of its root questions;
+    its earlier lines (dependence-and-domination, organizational-
+    normativity) are kept after it. No other change.
 tags:
 - ethics
 - society-and-governance
 - agency
 date: '2026-11-17'
 line:
+- rightful-power
 - dependence-and-domination
 - organizational-normativity
 summary: >-

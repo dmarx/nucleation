@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpl0sgt
 status: Proposed
 title: 'Where an entitlement is protected by a requirement of its holder''s consent, an irreversible act against it leaves the holder in practice only a claim to compensation, so the actor has changed by its own act the rule by which the entitlement is allocated, from consent to liability, and not only what is paid for it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -14,6 +14,11 @@ history:
     grounds. Fuentes v. Shevin read; for hearings it rejects the
     identity of a prior opportunity with compensation after,
     corroborating the claim by analogy.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: bears_on QUESTION-478. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,6 +39,7 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- rightful-power
 bears_on:
 - QUESTION-478
 complements:

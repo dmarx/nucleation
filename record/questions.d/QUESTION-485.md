@@ -4,12 +4,20 @@ formerly:
 - QUESTION-tmplax2r
 status: Open
 title: 'From where does a relationship, a capability or a restriction derive its legitimacy, and from where its adequacy?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Takes the line rightful-power first, as one of its root questions;
+    its earlier lines (organizational-normativity, dependence-and-
+    domination) are kept after it. No other change.
 tags:
 - ethics
 - society-and-governance
 date: '2026-11-17'
 line:
+- rightful-power
 - organizational-normativity
 - dependence-and-domination
 summary: >-

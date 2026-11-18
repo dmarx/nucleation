@@ -4,7 +4,14 @@ formerly:
 - CLAIM-tmpyn6oi
 status: Proposed
 title: "The alternatives against which a governing relationship or principle is assessed can be products of that relationship, so the present distribution of options is not a neutral baseline, and an actor cannot justify its terms by the narrowness of options it helped narrow without justification; the assessment must separate the existence of a dependence, the legitimacy of its creation, the authority exercised through it and the responsibilities of maintaining it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Bears on QUESTION-483, as the criticism of contractualism A calls its
+    sharpest, whose force that question decides; carries rightful-power
+    after its own line under ADR-085. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,6 +29,9 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- rightful-power
+bears_on:
+- QUESTION-483
 rests_on:
 - CLAIM-670
 - CLAIM-464
@@ -101,6 +111,10 @@ resources, options, and bargaining power as morally self-validating."
   potential criticism" of contractualism, and also says that Scanlon's
   framework "is capable of considering such consequences". Which of the
   two is right is that question.
+  Bears on QUESTION-483: if reasonable rejection must take as given
+  alternatives the relationship under test produced, the record's
+  account does work the criterion cannot; if the criterion can weigh
+  how those alternatives were produced, this is a supplement only.
 
 ## What it does not say
 

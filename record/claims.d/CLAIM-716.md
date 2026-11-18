@@ -4,7 +4,13 @@ formerly:
 - CLAIM-tmp3t16f
 status: Proposed
 title: 'A breach can lower the injured party''s position if it refuses to settle, so that the breaching party gains leverage over the resolution of its own breach: a settlement the injured party rationally accepts afterward can leave the breacher ahead, the leverage coming from the violation and not from any right to set the terms'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: bears_on QUESTION-478. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,6 +31,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - distributed-agency
+- rightful-power
 bears_on:
 - QUESTION-478
 complements:

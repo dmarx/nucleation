@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmpcz1ui
 status: Open
 title: 'May a party subject to a justified constraint determine, or strategically raise, the cost another party must bear to make that constraint effective, and if only within limits, which?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -13,12 +13,18 @@ history:
     Galanter (1974) read; positive law gives a partial, procedure-
     bound answer, and both sources treat the limit as binding either
     side.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: refines QUESTION-478. No other change.
 tags:
 - ethics
 - society-and-governance
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- rightful-power
 refines:
 - QUESTION-478
 summary: >-

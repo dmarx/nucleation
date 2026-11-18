@@ -4,13 +4,21 @@ formerly:
 - QUESTION-tmp9oq97
 status: Open
 title: 'Under what conditions should a capability be restricted, and who may restrict it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Takes the line rightful-power first, as one of its root questions;
+    its earlier lines (dependence-and-domination, organizational-
+    normativity) are kept after it. No other change.
 tags:
 - ethics
 - society-and-governance
 - agency
 date: '2026-11-17'
 line:
+- rightful-power
 - dependence-and-domination
 - organizational-normativity
 summary: >-

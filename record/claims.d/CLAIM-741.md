@@ -4,7 +4,13 @@ formerly:
 - CLAIM-tmpol7nz
 status: Proposed
 title: 'Whether an arrangement respects a right that protects a choice is a property of its policy over the protected choices, not of any realized history: two arrangements can produce the same history whenever the right is not exercised against them and differ in respecting it, as two histories can reach the same endpoint and differ in whether a power was exercised; so an evaluation over endpoints or realized histories cannot represent such rights, which constrain policies and transition rules'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: bears_on QUESTION-486. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,6 +30,7 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - will-organization
+- rightful-power
 grounds:
 - CASE-283
 complements:

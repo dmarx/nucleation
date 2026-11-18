@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpnj844
 title: "The argument filed from the exchange Assess Depp Heard Abuse, both shares, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts and a thread on friction and throughput; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through A's syntheses, each prompted by an owner's turn, and through reviews the owner forwarded; the readings of its works corroborate many components and narrow three"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -28,6 +28,17 @@ history:
     thesis's components. The title, summary, defeater, introduction,
     parts and "Not stated" are rewritten to match. Nothing is added to
     what the components state.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Becomes the account of the line rightful-power (the decision
+    adding it, 2026-11-18), which it now carries first. It integrates
+    the line's members it lacked: CASE-286, CASE-292, CLAIM-716,
+    CLAIM-717, CLAIM-720, CLAIM-721, CLAIM-725, CLAIM-727, CLAIM-732,
+    CLAIM-734, CLAIM-735, CLAIM-737, CLAIM-739, CLAIM-741, CLAIM-747,
+    CLAIM-749, QUESTION-476, QUESTION-478, QUESTION-479, QUESTION-480,
+    QUESTION-482, QUESTION-483, QUESTION-484, QUESTION-486. Its
+    mapping of the exchange's thesis is unchanged.
 defeated_if: >-
   A component, part account or turn of the exchange misstated or
   misattributed here, the owner's turns, A's syntheses, the assistant's
@@ -48,6 +59,7 @@ tags:
 - self-governance
 date: '2026-11-18'
 line:
+- rightful-power
 - dependence-and-domination
 - organizational-normativity
 integrates:
@@ -71,6 +83,30 @@ integrates:
 - CASE-276
 - CASE-278
 - QUESTION-471
+- CASE-286
+- CASE-292
+- CLAIM-716
+- CLAIM-717
+- CLAIM-720
+- CLAIM-721
+- CLAIM-725
+- CLAIM-727
+- CLAIM-732
+- CLAIM-734
+- CLAIM-735
+- CLAIM-737
+- CLAIM-739
+- CLAIM-741
+- CLAIM-747
+- CLAIM-749
+- QUESTION-476
+- QUESTION-478
+- QUESTION-479
+- QUESTION-480
+- QUESTION-482
+- QUESTION-483
+- QUESTION-484
+- QUESTION-486
 bears_on:
 - QUESTION-478
 - QUESTION-485
@@ -723,6 +759,37 @@ the continuation holds the turns.
   distinction is important"), but ascribes to the owner a bearing on
   [QUESTION-449](../questions.d/QUESTION-449.md) the owner did not state ("Your proposal suggests how to
   answer"), corrected in [CLAIM-733](../claims.d/CLAIM-733.md).
+
+
+## As the account of the line rightful-power
+
+Since 2026-11-18 this is the account of the line rightful-power, added
+beside dependence-and-domination and organizational-normativity by the
+decision of that date. The line's root questions are the owner's:
+QUESTION-478 (U20), QUESTION-485 (U31), QUESTION-480 (U36), QUESTION-486
+(U37), QUESTION-483 (U44) and QUESTION-476 (U48). It carries every entry
+that answers, bears on or (questions only) refines one of them:
+
+- **Questions refining a root:** QUESTION-479 refines QUESTION-478,
+  QUESTION-482 refines QUESTION-485, and QUESTION-484 refines QUESTION-483.
+- **QUESTION-478, on restricting a capability:** CLAIM-737 answers it.
+  CLAIM-716, CLAIM-721 and CLAIM-734 bear on it.
+- **QUESTION-485, on legitimacy and adequacy:** CLAIM-737 bears on it, and
+  so do CLAIM-725 and CLAIM-746.
+- **QUESTION-480, on answerability:** CLAIM-739 answers it. CLAIM-727,
+  CLAIM-732 and CLAIM-749 bear on it.
+- **QUESTION-486, on unalienable rights:** CLAIM-720, CLAIM-741 and
+  CASE-286 bear on it.
+- **QUESTION-483, on Scanlon:** CLAIM-735 and CLAIM-747 bear on it.
+- **QUESTION-476, on blameless culture:** CLAIM-717 and CASE-292 bear on
+  it.
+
+The rest of the exchange's argument is mapped above. It sits in the
+line's neighbourhood without arguing a root question, so by ADR-085 it
+keeps its own lines only. That includes the incapacity constructions of
+accountability without blame, the siege claims (which bear on
+QUESTION-479), and moral exploitation. Each entry's link to the line is
+the relation that states it; this account adds none.
 
 ## Not stated on the record
 
