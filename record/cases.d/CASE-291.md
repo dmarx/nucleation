@@ -1,8 +1,8 @@
 ---
 number: 291
-status: Proposed
 formerly:
 - CASE-tmpolqas
+status: Proposed
 title: 'Identical harm, different histories of incapacity: two officials make the same wrongful decision in good faith, both lacking the distinction that would show the wrong, where in one institution the gap was not reasonably foreseeable and in the other a superior removed the review that would have caught it; the claimant''s claim and the officials'' culpability are the same, and responsibility for the mechanism differs'
 version: 1
 standing: fictional

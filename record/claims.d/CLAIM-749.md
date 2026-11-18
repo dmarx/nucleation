@@ -1,8 +1,8 @@
 ---
 number: 749
-status: Proposed
 formerly:
 - CLAIM-tmpyqfrf
+status: Proposed
 title: "Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects"
 version: 1
 role: counter

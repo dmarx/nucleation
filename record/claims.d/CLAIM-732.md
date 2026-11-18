@@ -1,8 +1,8 @@
 ---
 number: 732
-status: Proposed
 formerly:
 - CLAIM-tmpi68s2
+status: Proposed
 title: 'A protected objection is effective only if six achievements hold together, its becoming formulable, legible, taken up by an authorized channel, sustainable by the objector, corrected and maintained, so an objection can fail at any of them while its formal standing is unchanged, its chance of success is no greater than that of its weakest stage, and a reform that raises one stage''s success can lower the whole'
 version: 1
 role: thesis

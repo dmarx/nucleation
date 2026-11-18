@@ -1,8 +1,8 @@
 ---
 number: 290
-status: Proposed
 formerly:
 - CASE-tmpohiyo
+status: Proposed
 title: 'A proposed study of a fall in complaints: with working conditions held fixed, measure separately whether members find the conditions acceptable, see the discrepancy from their standards, are moved to intervene, have a protected channel and can change what the institution does, and compare an organization with timely, protected escalation against one where complaint is costly or ineffective, to tell satisfaction from tolerance'
 version: 1
 standing: stipulated

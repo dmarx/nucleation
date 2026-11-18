@@ -1,8 +1,8 @@
 ---
 number: 478
-status: Open
 formerly:
 - QUESTION-tmp9oq97
+status: Open
 title: 'Under what conditions should a capability be restricted, and who may restrict it?'
 version: 1
 tags:

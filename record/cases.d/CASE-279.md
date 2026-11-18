@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpwrhkd
 title: 'Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-11-16'
@@ -41,6 +41,14 @@ history:
     from CASE-tmpzt3zf, its filing of Relationship B alone, it takes A3 §5's
     tabulation of the same contrast and A3 §3's six questions about control,
     credited there. No change of status or title.
+- version: 10
+  date: '2026-11-18'
+  note: >-
+    Readings of Johnson's typology (through two neighbours) and of
+    Mazinani and O'Connor filed; they name Carol's position and supply
+    a documented case of the divergence. Carried over at the
+    reconciliation of 2026-11-18 from the continuation filing's
+    duplicate entry.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -50,6 +58,8 @@ tags:
 date: '2026-11-15'
 line:
 - dependence-and-domination
+draws_on:
+- THEORY-tmp8sytt
 summary: >-
   A's, from A3 §1 of the exchange "Assess Depp Heard Abuse" (2026-11-15).
   Alice and Bob fight destructively and neither controls the other; Carol
@@ -182,3 +192,17 @@ controller directs. It does not cover the controlled partner's own strikes
 against the controller, which the entry does not discuss. Relation: if the
 case's method draws on the coercive-control notion, `draws_on:
 [LIT-2673]` would be fitting. Otherwise none.
+
+## Note of 2026-11-17: Johnson's typology read through neighbours, and a documented group with control and no violence
+<!-- inactive-ok-file: THEORY-tmp8sytt THEORY-tmpxd7ne THEORY-1929 THEORY-tmpt60p9 — new or Unavailable; the readings filed on 2026-11-18 and the unread book -->
+
+Johnson 2006, Hardesty et al. 2015, Mazinani & O'Connor 2026 and Stark 2015, read ([THEORY-tmp8sytt](../theory.d/THEORY-tmp8sytt.md), [THEORY-tmpxd7ne](../theory.d/THEORY-tmpxd7ne.md), [THEORY-1929](../theory.d/THEORY-1929.md), [THEORY-tmpt60p9](../theory.d/THEORY-tmpt60p9.md)). The case's "Michael P. Johnson's typology as A relays it" can now cite Johnson's own words, though the 2008 book ([LIT-2715](../literature.d/LIT-2715.md)) is unread.
+
+- **Carol's strikes are violent resistance in Johnson's terms**: "Violent resistance is the violence involved when a victim of intimate terrorism fights back" (Johnson 2006, [NOTE-tmpubjbq](../notes.d/NOTE-tmpubjbq.md), p. 3). The case goes further than Johnson: her acts keep their own verdict. Johnson says only that a case "can sometimes be made that the violence was justified".
+- **Mazinani & O'Connor** say what the case needs about her acts: where intimate terrorism holds, "a victim’s resistance or constrained responses should not be treated as equivalent to the perpetrator’s controlling violence".
+- **Hardesty et al.** document a plainer divergence of the two questions: a "nonviolent coercive control" group (n = 12 of 190 divorcing mothers), high control with no violence at all ([NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md)).
+- **Stark (2015)**: Dan's control of money, monitoring and isolation are Stark's tactics of "isolation and control".
+
+If the owner wants the case to name its classification, `draws_on` [THEORY-tmp8sytt](../theory.d/THEORY-tmp8sytt.md) (Johnson's three types) is the relation for it; that is the case's own field and is left to the lead. The fourth type in A's table, mutual violent control, is not confirmed by anything read.
+
+No status changes.

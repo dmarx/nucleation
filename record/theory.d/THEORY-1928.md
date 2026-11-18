@@ -4,7 +4,22 @@ status: Proposed
 formerly:
 - THEORY-tmpdlw9l
 title: 'Elish argues that when control over an automated system is distributed across people and machines, responsibility for its failures can be misattributed to the nearest human operator, who had limited control, so that the operator absorbs moral and legal blame while the technological system is kept faultless, and she reads the reception of Three Mile Island and Air France 447 as instances'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmp7h69w, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2019). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: bears_on QUESTION-476, QUESTION-487. Its
+    title was: "A moral crumple zone, on Elish's account: when control
+    over a highly automated system is distributed, responsibility for
+    its failure can be misattributed to the nearest human operator, who
+    had limited control, so that blame protects the integrity of the
+    technological system; this is likeliest right after a publicized
+    accident and is not a property of every automated system"
 tags:
 - philosophy-of-technology
 - ethics
@@ -18,9 +33,13 @@ promote_when: >-
   may promote)
 source:
 - LIT-2665
+bears_on:
+- QUESTION-476
+- QUESTION-487
 corroborates:
 - CLAIM-707
 ---
+<!-- unresolved-ok-file: THEORY-tmp7h69w — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1928: Elish argues that when control over an automated system is distributed across people and machines, responsibility for its failures can be misattributed to the nearest human operator, who had limited control, so that the operator absorbs moral and legal blame while the technological system is kept faultless, and she reads the reception of Three Mile Island and Air France 447 as instances
 
@@ -55,3 +74,20 @@ visible, the system kept faultless.
   allocation of obligations; those parts of [CLAIM-707](../claims.d/CLAIM-707.md) are not Elish's.
 - Not legal liability: the paper is about "cultural perceptions of blame and responsibility,
   particularly in an American context" (p. 52).
+
+## From the second reading (2026-11-17)
+
+The second reading adds the account's conditions and two relations.
+
+**Conditions.** Zones "are likely to take shape in the immediate aftermath
+of a highly publicized event or accident", and where the operator knew of
+the malfunction but lacked "sufficient information or authority to take
+corrective actions" (p. 51). In the Therac-25 accidents, which came to
+light slowly and whose operator could not know of the malfunction, lawsuits
+went to the manufacturer. [CLAIM-707](../claims.d/CLAIM-707.md)'s text does not yet state this
+limit.
+
+It bears on [QUESTION-476](../questions.d/QUESTION-476.md) (the Therac-25 contrast is a case where
+fault went upstream) and, weakly, on [QUESTION-487](../questions.d/QUESTION-487.md) (Elish names
+certification reform as a lever, p. 54, but no instrument by which
+operators hold principals to account).

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpd6uxt
 title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target''s sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-16'
@@ -37,6 +37,13 @@ history:
     through the target's sound moral reasoning rather than a defect in it;
     the obligation so created is no larger than the circumstances support,
     whatever the manipulator claims. No change of status.
+- version: 6
+  date: '2026-11-18'
+  note: >-
+    Keller (2016) read and filed with corroborates on this claim; the
+    dog example's attribution, left unchecked in the body, is settled.
+    Carried over at the reconciliation of 2026-11-18 from the
+    continuation filing's duplicate entry.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -247,3 +254,16 @@ covers a victim whose belief is mistaken. Second, the claim's last clause ("no l
 circumstances support, whatever the manipulator claims") is A13's, not Keller's; Keller does not
 discuss limits on the obligation created. The claim's summary attributes the structure to Keller,
 which is right; the limit should not be read as his. Relation: corroborates ([THEORY-1917](../theory.d/THEORY-1917.md)).
+
+## Note of 2026-11-17: Keller read: moral blackmail corroborates the route through sound values, and the dog case is his
+<!-- inactive-ok-file: LIT-2732 — new or Unfetched; the reading filed on 2026-11-18 and a registered source not reached -->
+
+Keller 2016, read ([NOTE-2005](../notes.d/NOTE-2005.md), [THEORY-1917](../theory.d/THEORY-1917.md), corroborates). Keller supports the claim's central half independently of A: "you can have a genuine moral obligation because you have been treated wrongly. That is how moral blackmail becomes possible" (p. 21), and "Moral blackmail works by way of the victim's moral sensibility, just as ordinary blackmail works by way of the victim's conception of her own best interests" (p. 22). The claim's condition, a party that controls the trigger and escapes the cost, is his: "if I have the power to change your circumstances, then I may have the power to change the moral demands you face" (p. 20), and the law firm that can "increase your workload without having to increase your pay" (p. 24).
+
+The body says the dog example is "A's account of Simon Keller's 'moral blackmail'; the attribution is unchecked until the work is read." It is Keller's (pp. 1–2): the neighbour has declined ("I ask you politely, and you politely say no"), and the dog is left so that "if you do not take care of the dog then it will probably starve and die." The names Alice and Bob are A's; Keller writes in the first and second person.
+
+Keller's definition requires a wrongful act, and his victim is pressed to do what is right; that fits the claim, which does not need the target to do wrong.
+
+Berge & Kuyper ([LIT-2732](../literature.d/LIT-2732.md)), the claim's other registered source, is Unfetched; nothing of it was read.
+
+No status changes.

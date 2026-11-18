@@ -1,8 +1,8 @@
 ---
 number: 719
-status: Proposed
 formerly:
 - CLAIM-tmp69o4u
+status: Proposed
 title: "An institution can be reliably responsive to reasons within its governing mechanism and unresponsive to justified reasons for revising that mechanism, and because its own actions change the mechanism, responsiveness at the first order is no evidence of responsiveness at the second; identical decisions can come from different capacities to be governed by reasons"
 version: 1
 role: thesis

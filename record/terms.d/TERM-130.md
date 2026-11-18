@@ -1,8 +1,8 @@
 ---
 number: 130
-status: Proposed
 formerly:
 - TERM-tmpsit04
+status: Proposed
 title: 'protected contestability, of an arrangement, for those with standing under a declared standard: the maintained, resource-bounded capability of those parties to formulate and present objections and obtain an appropriately consequential assessment of them, robust to a declared class of opposition; not a guarantee of success, a veto or costless adjudication'
 version: 1
 tags:

@@ -1,8 +1,8 @@
 ---
 number: 285
-status: Proposed
 formerly:
 - CASE-tmpdn372
+status: Proposed
 title: 'A proposed study: two arrangements whose overseer has the same authority and resources differ only in how fast the acting institution can make its actions irreversible, and precommitted limits, automatic suspension and pauses are added in turn, to tell the value of delay from the value of control over when execution is allowed'
 version: 1
 standing: stipulated

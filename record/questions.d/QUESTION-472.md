@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpgyn11
 title: 'Can a party''s ability to activate another''s genuine moral obligations constitute control over the terms of that other''s dependence, so that the moral cost of withdrawal does what a contractual or material barrier to exit does, and if so, what separates it from ordinary reliance on someone''s conscientiousness?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-16'
@@ -31,6 +31,14 @@ history:
     control over terms, exploitation and domination come apart there), a
     second form of the negative answer and a sharper form of the test case.
     No change of status or title.
+- version: 7
+  date: '2026-11-18'
+  note: >-
+    Keller (2016) read and filed with bears_on this question, as
+    evidence toward yes for legal and professional fiduciaries; the
+    two Robillard works were not reached. Carried over at the
+    reconciliation of 2026-11-18 from the continuation filing's
+    duplicate entry.
 tags:
 - ethics
 - society-and-governance
@@ -140,3 +148,10 @@ are a nurse or a teacher than if you are a policy analyst or a software develope
 the question's "moral cost of withdrawal" doing the work of a barrier. Keller's only line between this
 and ordinary reliance on conscientiousness is that the act is wrongful, which he does not analyse, so
 the question's second half stays open. Relation: bears_on ([THEORY-1917](../theory.d/THEORY-1917.md)).
+
+## Note of 2026-11-17: Keller read: for fiduciaries, activating obligations weakens their hand in bargaining
+<!-- inactive-ok-file: LIT-2682 LIT-2692 — new, Unfetched or Unavailable; the reading filed on 2026-11-18 and the works not reached -->
+
+Keller 2016, read ([NOTE-2005](../notes.d/NOTE-2005.md), [THEORY-1917](../theory.d/THEORY-1917.md), bears_on). Evidence toward yes, for fiduciaries. Whoever can influence a fiduciary's circumstances "will be able to influence the facts about what special obligations you have" (p. 22), and the exposure makes it "more difficult, morally, to keep control over her time and energy, and to bargain for better conditions at work" (p. 26). His teachers case uses the moral cost of withdrawal as leverage in bargaining over pay and conditions: their "sense of obligation to their students ... will make it very difficult for them to exercise" the right to strike (p. 24). That is the question's moral cost of withdrawing doing the work of control over exit. Keller does not frame it as dependence, and his cases are deliberate.
+
+Robillard's dissertation ([LIT-2682](../literature.d/LIT-2682.md), Unfetched) and Robillard and Strawser's book ([LIT-2692](../literature.d/LIT-2692.md), Unavailable), registered for this question, were not read.

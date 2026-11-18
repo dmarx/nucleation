@@ -1,10 +1,17 @@
 ---
 number: 727
-status: Proposed
 formerly:
 - CLAIM-tmpcpijj
+status: Proposed
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Schlager and Ostrom (1992) read and Locke's Second Treatise
+    skimmed; both separate authority at one level from authority over
+    the next, without addressing challenge as such.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -129,3 +136,8 @@ conduct.
 - Not that a claimant's power to demand review is unlimited. A83 closes
   on "protection against domination through an unrestricted power to
   demand answers".
+
+## Note of 2026-11-17: Schlager and Ostrom, and Locke, read
+<!-- inactive-ok-file: THEORY-tmp3veql NOTE-tmpzqo4b — new readings and theory of 2026-11-18, Proposed or Skimmed -->
+
+Schlager & Ostrom 1992, read ([NOTE-tmpr5h7q](../notes.d/NOTE-tmpr5h7q.md), [THEORY-tmp3veql](../theory.d/THEORY-tmp3veql.md)): corroboration of the claim's structural premise, which the THEORY carries. Authority over one level does not carry authority over the next: "The five property rights are independent of one another" (p. 252); "It is possible ... to have management rights without exclusion rights" (p. 252); and holding collective-choice rights is "the difference between exercising a right and participating in the definition of future rights to be exercised" (p. 251), with a constitutional level above that, at which "Constitutional-choice actions entail devising collective-choice rules" (n. 2). What the paper does not address is challenge: its upper levels devise operational rules; they are not the cost, timing, forum or remedy of contesting a decision. It adds an observation the claim may use: "Since authorized users do not design the rules they are expected to follow, they are less likely to agree to the necessity and legitimacy of the rules" (p. 257). Locke's Second Treatise, skimmed ([NOTE-tmpzqo4b](../notes.d/NOTE-tmpzqo4b.md)), gives a classical form of the claim's refusal of self-certification: to "who shall be judge whether his trustee or deputy acts well", "The people shall be judge" (§240), not the trustee. No status changes.

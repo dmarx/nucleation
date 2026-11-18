@@ -1,8 +1,8 @@
 ---
 number: 718
-status: Proposed
 formerly:
 - CLAIM-tmp613ja
+status: Proposed
 title: 'A normative verdict on a relationship can be taken as a premise in order to find what in the relationship''s organization makes it true: hold behaviour and outcome fixed across cases judged differently, look for the organizational difference, then try to break it with cases where verdict and difference come apart; this finds the organizational marks of normative terms without a prior measure of them, and is circular without the last step'
 version: 1
 role: thesis

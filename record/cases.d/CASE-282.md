@@ -1,8 +1,8 @@
 ---
 number: 282
-status: Proposed
 formerly:
 - CASE-tmp9vd9x
+status: Proposed
 title: 'The aquifer with privately owned recycling: two households each need four units of water service from an aquifer that sustains six units of extraction, so every pair of the three demands can be met and the three cannot; recycling that adds one unit of service each meets all three at three units of extraction apiece; with the recycler owned by one household, which can cut the other off and threatens to unless it yields voting authority, the physical conflict is solved and a dependence is turned into a claim to govern'
 version: 1
 standing: stipulated

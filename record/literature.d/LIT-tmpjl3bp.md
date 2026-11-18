@@ -1,0 +1,88 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-17 ([NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md)) from the author manuscript in
+  PubMed Central (PMC4553695), as a read neighbour of Johnson (2008),
+  [LIT-2715](LIT-2715.md), which could not be read; Johnson is its last author. Worth
+  reading here for an operational test of the typology's two main types
+  and for its finding that the group differences track the control
+  context with the amount of violence held constant.
+title: 'Toward a Standard Approach to Operationalizing Coercive Control and Classifying Violence Types'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Registered as a stand-in for Johnson (2008), LIT-2715, registered
+    from the exchange "Assess Depp Heard Abuse". Not held before:
+    record/literature.d was searched for the title, the DOI and Hardesty.
+    Citation checked against Crossref (no mailto): Jennifer L. Hardesty,
+    Kimberly A. Crossman, Megan L. Haselschwerdt, Marcela Raffaelli, Brian
+    G. Ogolsky and Michael P. Johnson, Journal of Marriage and Family
+    77(4): 833–843, journal article, online 2015-04-28 (`published:`),
+    print issue August 2015. Read in full on 2026-11-17 from the author
+    manuscript in PubMed Central, PMC4553695, through
+    https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4553695&retmode=xml
+    (JATS XML converted to text; Tables 1–3 not in the extraction). The
+    quotes used were rechecked by the filer against that text on
+    2026-11-18. No email address was sent to any service.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-18'
+published: '2015-04-28'
+doi: '10.1111/jomf.12201'
+first_author: 'Hardesty'
+keywords:
+- 'coercive control'
+- 'coercive controlling violence'
+- 'situational couple violence'
+- 'violence typology'
+- 'PMWI'
+implementations: []
+summary: >-
+  Hardesty, Crossman, Haselschwerdt, Raffaelli, Ogolsky and Johnson
+  (2015). In 190 divorcing mothers, scoring coercive control by how often
+  tactics are used, rather than how many, gives stable high- and
+  low-control groups (a PMWI Dominance–Isolation cutoff of 19). Crossed
+  with any violence, this yields no violence/low control, situational
+  couple violence, nonviolent coercive control and coercive controlling
+  violence; the two violent groups differ in fear, threat and harassment
+  even with the frequency and severity of violence held constant, so the
+  differences "reflect the control context rather than differences in
+  violence". Registered as the read neighbour of Johnson 2008,
+  [LIT-2715](LIT-2715.md). It corroborates [CLAIM-709](../claims.d/CLAIM-709.md).
+---
+<!-- inactive-ok-file: LIT-2715 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; this work's reading and the claim it corroborates -->
+
+# LIT-tmpjl3bp: Toward a Standard Approach to Operationalizing Coercive Control and Classifying Violence Types
+
+Hardesty, J. L., Crossman, K. A., Haselschwerdt, M. L., Raffaelli, M., Ogolsky, B. G. & Johnson, M. P. (2015). Toward a Standard Approach to Operationalizing Coercive Control and Classifying Violence Types. *Journal of Marriage and Family* 77(4): 833–843. doi:10.1111/jomf.12201. PMCID PMC4553695.
+
+## Key takeaways
+
+- The two main types (Introduction): coercive controlling violence ("or
+  intimate terrorism") occurs "in the context of coercive control";
+  situational couple violence "is not part of a larger motive to control
+  one’s partner".
+- Count misclassifies (Background): "A risk of the count approach is
+  (mis)classifying highly controlling abusers as “low control” when they
+  rely on very few control tactics but enforce them relentlessly." Under
+  frequency, 4.2% of cases changed cluster across methods; under count,
+  21.5%.
+- Control, not violence (Results): with the frequency and severity of
+  violence controlled, the results were identical, "suggesting that the
+  group differences reflect the control context rather than differences in
+  violence".
+- A group with high control and no violence (nonviolent coercive control,
+  n = 12).
+
+## Standing in the record
+
+Registered on 2026-11-18 as the read neighbour of Johnson (2008),
+[LIT-2715](LIT-2715.md). It quotes the book once ("Control is a continuum. Everyone
+‘controls’ their partner to some extent", p. 87) and applies its two main
+types. It says nothing of violent resistance or of mutual violent control.
+One county, divorcing mothers only, mothers' reports only, a 24% response
+rate.

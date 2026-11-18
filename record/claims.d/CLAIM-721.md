@@ -1,8 +1,8 @@
 ---
 number: 721
-status: Proposed
 formerly:
 - CLAIM-tmp8wki5
+status: Proposed
 title: 'Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation'
 version: 1
 role: thesis

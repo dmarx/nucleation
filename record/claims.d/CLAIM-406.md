@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoxld9
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-21'
@@ -57,6 +57,11 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Ensign et al. (LIT-2688) read on 2026-11-16, NOTE-2025. No change of status or title.
+- version: 9
+  date: '2026-11-17'
+  note: >-
+    Ensign et al. (2017; FAT* 2018) read and filed with corroborates
+    on this claim, for its loop form.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -237,3 +242,10 @@ The claim is unchanged.
 ## Note of 2026-11-16: Ensign, read
 
 The paper is a formal case of the claim's structure with places in place of persons: the deployment decides where incidents can be discovered, and only being patrolled supplies incidents, as only being sought supplies the indicators of competence. PredPol "conflates amount of crime and incident data" (§2.1 n.1). The paper also gives the claim a remedy it lacks: weighting each observation by the inverse of the chance it was sought (§3.5). It says nothing about injustice, which on the claim's own account needs a prejudice the loop does not supply.
+
+## Note of 2026-11-17: Ensign et al. read: an unobserved region yields no evidence, so the prior or an early advantage persists
+<!-- inactive-ok-file: THEORY-1927 — new; the reading filed on 2026-11-18 -->
+
+Ensign et al. 2017, read ([NOTE-2025](../notes.d/NOTE-2025.md), [THEORY-1927](../theory.d/THEORY-1927.md), corroborates). The claim's loop form, an early exclusion kept going because the indicators only being sought produces never arrive from those not sought, is proved in the policing model. With equal rates, "the prior belief coupled with the lack of feedback about the unobserved region prevents the system from learning that the two areas are in fact identical with respect to crime rates" (Lemma 2); with unequal rates, a small advantage takes all (Lemma 4). The model contains no prejudice term, which is consistent with the claim's second half: the dynamics alone cannot tell a frozen prior from a merited difference. The domain is policing, not testimony; the reading supports the form, not the claim's application to testimonial injustice.
+
+No status changes.

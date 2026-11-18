@@ -1,10 +1,16 @@
 ---
 number: 743
-status: Proposed
 formerly:
 - CLAIM-tmpssfc1
+status: Proposed
 title: 'A demand owed to a party can cease to apply legitimately only by the exercise of a valid normative power over it, the holder''s release or waiver or an authorized revision, which changes the reference set against which relief is judged; an institution''s ceasing to count it changes only the set it recognizes, so what separates a valid release from suppression is whether a valid power was exercised, and by whom'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Scanlon's "Reply to Leif Wenar" read; for promises the release is
+    a power the promisee holds, corroborating the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -117,3 +123,8 @@ an authorized body can revise, the obligated institution cannot delete.
 - Not that a release obtained under pressure is valid. Validity is the
   standard's question, and [CLAIM-722](CLAIM-722.md)'s part 3 bears on releases
   obtained through the violation.
+
+## Note of 2026-11-17: Scanlon's reply to Wenar, read
+<!-- inactive-ok-file: THEORY-tmpegc2w — new readings and theory of 2026-11-18, Proposed -->
+
+Scanlon 2013, "Reply to Leif Wenar", read ([NOTE-tmpzarar](../notes.d/NOTE-tmpzarar.md), [THEORY-tmpegc2w](../theory.d/THEORY-tmpegc2w.md)): corroboration for promises, which the THEORY carries. Contractualism "explains why a promisee has the power to release the promisor from her obligation" (p. 403): both parties "have reason to insist on a principle that includes the condition "unless B consents to X's not being done," rather than a principle that would make promisory obligations unalterable once they are undertaken." The promisee is singled out because the principles "must make promisory obligations sensitive to their wills" (p. 404). So an obligation owed to someone ceases legitimately by her release, an exercise of a power, as the claim says. The reply says nothing about an institution's ceasing to count a demand, the contrast the claim draws with release. Hohfeld ([NOTE-tmpvxul9](../notes.d/NOTE-tmpvxul9.md)) gives the general form: a change in legal relations by the one "whose volitional control is paramount". No status changes.

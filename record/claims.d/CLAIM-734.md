@@ -1,10 +1,19 @@
 ---
 number: 734
-status: Proposed
 formerly:
 - CLAIM-tmpl0sgt
+status: Proposed
 title: 'Where an entitlement is protected by a requirement of its holder''s consent, an irreversible act against it leaves the holder in practice only a claim to compensation, so the actor has changed by its own act the rule by which the entitlement is allocated, from consent to liability, and not only what is paid for it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Calabresi and Melamed (1972) read; its §V states the claim's
+    conversion mechanism, and its theory is added to the claim's
+    grounds. Fuentes v. Shevin read; for hearings it rejects the
+    identity of a prior opportunity with compensation after,
+    corroborating the claim by analogy.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,6 +41,8 @@ complements:
 - CLAIM-716
 - CLAIM-722
 - CLAIM-723
+grounds:
+- THEORY-tmpbxj3x
 summary: >-
   From the exchange "Assess Depp Heard Abuse" (2026-11-16). The connection
   is the owner's, U26: "this feels like we're starting to enter some sort
@@ -138,3 +149,13 @@ the owner's question at U20 ([QUESTION-478](../questions.d/QUESTION-478.md)) ask
   Liability Rules, and Inalienability: One View of the Cathedral",
   *Harvard Law Review* 85(6), 1972, doi:10.2307/1340059 (the part-4
   ledger).
+
+## Note of 2026-11-17: Calabresi and Melamed, read
+<!-- inactive-ok-file: THEORY-tmpbxj3x — new reading and theory of 2026-11-18, Proposed; the LIT is Active once merged -->
+
+Calabresi & Melamed 1972, read ([NOTE-tmpv28va](../notes.d/NOTE-tmpv28va.md), [THEORY-tmpbxj3x](../theory.d/THEORY-tmpbxj3x.md)): the claim's summary says the work is "not held or read"; it now is. The mechanism the claim takes from A57 is the paper's own, in §V, which the exchange does not cite: "For us to charge the thief with a penalty equal to an objectively determined value of the property stolen would be to convert all property rule entitlements into liability rule entitlements" (p. 1125), and "we impose criminal sanctions as a means of deterring future attempts to convert property rules into liability rules" (p. 1126). The paper treats the conversion as a harm beyond the single taking, the reason for "an undefinable kicker" in punishment. It differs from the claim in framing: the harm it names is that "Liability rules represent only an approximation of the value of the object to its original owner" (p. 1125), an efficiency loss, while the claim's harm is to control and consent. The two are compatible; the consent framing should be attributed to the claim (and A57), not to the paper. The paper also marks where the conversion is tolerated, nuisance with high transaction costs, where a liability rule was "appropriate, even though it permitted the nonaccidental and unconsented taking of an entitlement", against the thief who "could have negotiated" (pp. 1126–27). The table A57 gives matches the paper's definitions (p. 1092). No status changes.
+
+## Note of 2026-11-17: Fuentes v. Shevin, read
+<!-- inactive-ok-file: THEORY-tmpi4yv4 — new reading and theory of 2026-11-18, Proposed -->
+
+Fuentes v. Shevin (1972), read ([NOTE-tmpxgail](../notes.d/NOTE-tmpxgail.md), [THEORY-tmpi4yv4](../theory.d/THEORY-tmpi4yv4.md)): corroboration by analogy, which the THEORY carries. The claim's defeat condition includes "an argument that the right to decide whether something happens and the right to compensation after it happens are the same capability". For a prior hearing the Court rejects that identity: possessions can be returned and "Damages may even be awarded", "But no later hearing and no damage award can undo the fact that the arbitrary taking ... has already occurred" (Part IV), and the bond-and-damages scheme is "hardly a substitute for a prior hearing, for they test no more than the strength of the applicant's own belief in his rights". The protection in Fuentes is an opportunity to be heard, not the holder's consent, so it supports the claim's distinction between ex ante control and ex post compensation without being a case of a consent-protected entitlement. No status changes.

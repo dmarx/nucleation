@@ -1,8 +1,8 @@
 ---
 number: 733
-status: Proposed
 formerly:
 - CLAIM-tmpixmhp
+status: Proposed
 title: "Blame supplies provenance: responsibility for a harmful act and responsibility for producing the incapacity through which it was done can come apart and attach to different actors, so blame traced upstream to those who formed or maintained an agent's incapacity grounds holding them accountable where the agent who acted is not culpable"
 version: 1
 role: thesis

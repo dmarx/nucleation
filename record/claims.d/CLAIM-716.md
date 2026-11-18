@@ -1,8 +1,8 @@
 ---
 number: 716
-status: Proposed
 formerly:
 - CLAIM-tmp3t16f
+status: Proposed
 title: 'A breach can lower the injured party''s position if it refuses to settle, so that the breaching party gains leverage over the resolution of its own breach: a settlement the injured party rationally accepts afterward can leave the breacher ahead, the leverage coming from the violation and not from any right to set the terms'
 version: 1
 role: thesis

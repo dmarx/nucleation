@@ -1,0 +1,77 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-17 ([NOTE-tmpputb4](../notes.d/NOTE-tmpputb4.md)) from the Vermont Legislature's
+  committee records, as the read neighbour of Stark (2007), [LIT-2675](LIT-2675.md),
+  which could not be read; worth reading here as Stark's own short
+  statement of the book's thesis: partner abuse as a strategic course of
+  conduct aimed at liberty, which responses to discrete assaults miss.
+title: 'Coercive Control (testimony on H.103 to the Vermont House Committee on Judiciary)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Registered as a stand-in for Stark (2007), LIT-2675, registered
+    from the exchange "Assess Depp Heard Abuse". Not held before:
+    record/literature.d was searched for Stark as first author and for
+    the title. Read in full on 2026-11-17 from
+    https://legislature.vermont.gov/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.103/Witness%20Testimony/H.103~Evan%20Stark~Testimony-Coercive%20Control~2-25-2015.pdf,
+    6 pages, text by pdftotext; written witness testimony on bill H.103,
+    dated in the text "February 25, 2015", which is `published:`. The
+    quotes used were rechecked by the filer against that text on
+    2026-11-18. No DOI. No email address was sent to any service.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-18'
+published: '2015-02-25'
+url: 'https://legislature.vermont.gov/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.103/Witness%20Testimony/H.103~Evan%20Stark~Testimony-Coercive%20Control~2-25-2015.pdf'
+first_author: 'Stark'
+keywords:
+- 'coercive control'
+- 'course of conduct'
+- 'liberty'
+- 'domestic violence law'
+implementations: []
+summary: >-
+  Evan Stark (2015), written testimony to the Vermont House Committee on
+  Judiciary on H.103. Coercive control is "a strategic course of
+  oppressive behavior" combining violence, intimidation, isolation and
+  control "to dominate, exploit and/or subjugate a partner and deprive
+  them of basic rights and liberties". Its violence is typically frequent
+  and low-level; many of its tactics, "taken alone, may not rise to the
+  level of abuse" but make the pattern in combination; it violates
+  "autonomy, dignity and liberty" as well as safety; and "Interventions
+  focused on discrete assaults" miss it. Registered as the read neighbour
+  of Stark 2007, [LIT-2675](LIT-2675.md). It corroborates [CLAIM-709](../claims.d/CLAIM-709.md).
+---
+<!-- inactive-ok-file: LIT-2675 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; this work's reading and the claim it corroborates -->
+
+# LIT-tmpnw255: Coercive Control (testimony on H.103 to the Vermont House Committee on Judiciary)
+
+Stark, E. (2015, February 25). *Coercive Control.* Written testimony on H.103, Vermont House Committee on Judiciary. Vermont Legislature committee records.
+
+## Key takeaways
+
+- Definition (p. 4): "Coercive control is a strategic course of oppressive
+  behavior in which some combination of physical and sexual violence,
+  intimidation, isolation and control are used to dominate, exploit and/or
+  subjugate a partner and deprive them of basic rights and liberties."
+- Against an incident focus (p. 3): "Interventions focused on discrete
+  assaults (rather than course of conduct) miss the significance of abuse
+  in the vast majority of cases".
+- Pattern over parts (p. 5): "many of the tactics, taken alone, may not
+  rise to the level of abuse ... in combination they contribute to the
+  pattern of coercive control."
+- Liberty (p. 6): coercive control violates women's "basic rights to
+  autonomy, dignity and liberty" as well as physical safety.
+
+## Standing in the record
+
+Registered on 2026-11-18 as the read neighbour of Stark (2007),
+[LIT-2675](LIT-2675.md), the book A associates with the view that abuse is a pattern
+of domination rather than a count of acts. Six pages of advocacy, with
+figures given without sources. It is not the book: none of its history,
+legal argument or case material.

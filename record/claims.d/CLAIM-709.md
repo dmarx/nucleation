@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpp8na7
 title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure, and a finding of that control does not excuse the controlled party''s own wrongful acts'
-version: 13
+version: 14
 history:
 - version: 2
   date: '2026-11-16'
@@ -66,6 +66,14 @@ history:
     terms of the other's life, so a tally of wrongful acts does not settle
     who is responsible for the relationship's coercive structure. No change
     of status.
+- version: 14
+  date: '2026-11-18'
+  note: >-
+    Readings of the coercive-control works filed: four corroborate the
+    separation of the two questions, and the meta-analysis A cited for
+    the harms of coercive control carries no relation. Carried over at
+    the reconciliation of 2026-11-18 from the continuation filing's
+    duplicate entry.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -282,3 +290,19 @@ luck produced by another agent, not by fate, which his essay does not treat
 separately. Nagel's resultant luck bears on the tally: "overall culpability
 corresponds to the product of mental or intentional fault and the
 seriousness of the outcome", which a count of acts ignores. Relation: none.
+
+## Note of 2026-11-17: Johnson, Hardesty et al., Stark and Mazinani and O'Connor, read
+<!-- inactive-ok-file: THEORY-tmp8sytt THEORY-tmpxd7ne THEORY-tmpt60p9 THEORY-1929 THEORY-1922 LIT-2751 LIT-2715 LIT-2675 LIT-2681 — new, Proposed, Unfetched or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+
+Johnson 2006, Hardesty et al. 2015, Stark 2015 and Mazinani & O'Connor 2026, read ([NOTE-tmpubjbq](../notes.d/NOTE-tmpubjbq.md), [THEORY-tmp8sytt](../theory.d/THEORY-tmp8sytt.md); [NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md), [THEORY-tmpxd7ne](../theory.d/THEORY-tmpxd7ne.md); [NOTE-tmpputb4](../notes.d/NOTE-tmpputb4.md), [THEORY-tmpt60p9](../theory.d/THEORY-tmpt60p9.md); [NOTE-2000](../notes.d/NOTE-2000.md), [THEORY-1929](../theory.d/THEORY-1929.md)). Each THEORY now `corroborates` this claim, which does not rest on any of them.
+
+- **Johnson (2006)**, standing in for Johnson 1995 ([LIT-2751](../literature.d/LIT-2751.md), Unfetched) and 2008 ([LIT-2715](../literature.d/LIT-2715.md), Unavailable), types violence by control context, not acts: to classify a couple's violence, ask "about the power and control issues involved in their relationship, and about the presence of fear"; "all three types of violence can be dangerous, even life-threatening", so a dangerous act does not fix the type.
+- **Hardesty et al. (2015)**, with Johnson: "A risk of the count approach is (mis)classifying highly controlling abusers as “low control” when they rely on very few control tactics but enforce them relentlessly"; and with the frequency and severity of violence controlled, "the group differences reflect the control context rather than differences in violence". That is the claim's point in an operational form: a tally of acts, even of control tactics, does not settle who dominates.
+- **Stark (2015)**, standing in for Stark 2007 ([LIT-2675](../literature.d/LIT-2675.md)): "Interventions focused on discrete assaults (rather than course of conduct) miss the significance of abuse"; tactics that "taken alone, may not rise to the level of abuse" make the pattern "in combination".
+- **Mazinani & O'Connor (2026)**: "bidirectional violence refers only to relationships in which both partners were reported to have used violent acts. The term does not imply equivalence in motive, coercive control, severity, consequences, or responsibility." An interpretive guard, not a test.
+
+None of the four takes up the claim's other half, that the dominated party's own acts keep their verdict. Johnson allows only that "in the case of violent resistance a case can sometimes be made that the violence was justified".
+
+Two works cited beside the claim carry less. **Lohmann et al. (2023)** ([NOTE-2009](../notes.d/NOTE-2009.md), [THEORY-1922](../theory.d/THEORY-1922.md)), which A cited for harms of coercive control "of its own", finds associations with PTSD and depression no stronger than psychological abuse's and no causal link; its THEORY carries no relation. **Stover et al. (2025)** ([LIT-2681](../literature.d/LIT-2681.md), abstract only) defines "bidirectional" as acts reported by either partner, with rates from 10% to 96.6%; its rates do not show how often both partners are culpable. The body's "A3 §6 ... a 2023 systematic review found mixed support for established typologies" remains unchecked.
+
+No status changes.

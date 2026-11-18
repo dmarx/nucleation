@@ -1,10 +1,21 @@
 ---
 number: 728
-status: Proposed
 formerly:
 - CLAIM-tmpdic1g
+status: Proposed
 title: 'In an incomplete contract the party holding residual rights of control decides the contingencies the contract did not cover, so a relationship fair in every specified term can still leave one party''s terms at the other''s discretion, and that discretion is exercised, and seen, only when an uncovered contingency arises'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Grossman and Hart (1986) read; it supports the claim's definition
+    of residual control but carries less than its later clauses: the
+    holder bargains rather than decides, and the allocation acts ex
+    ante, before any uncovered contingency. Hart's Nobel lecture
+    (2016), read in part as the neighbour of Hart and Moore (1990),
+    corroborates the claim's first clause and qualifies its worker
+    example.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -115,3 +126,13 @@ resources in reliance on it?**"
   doi:10.1086/261404; Hart and Moore, "Property Rights and the Nature of
   the Firm", *Journal of Political Economy* 98(6), 1990,
   doi:10.1086/261729 (the part-3 ledger). Neither is held.
+
+## Note of 2026-11-17: Grossman and Hart, read
+<!-- inactive-ok-file: THEORY-tmpt4dyh — new theory of 2026-11-18, Proposed -->
+
+Grossman and Hart 1986, read ([NOTE-tmprnwux](../notes.d/NOTE-tmprnwux.md), [THEORY-tmpt4dyh](../theory.d/THEORY-tmpt4dyh.md)), which the claim names as its source and has not read: it corroborates the first clause ([THEORY-tmpt4dyh](../theory.d/THEORY-tmpt4dyh.md) carries `corroborates`): residual rights of control are "the right to control all aspects of the asset that have not been explicitly given away by contract" (§I.B), and §V extends this to employment ("the employer has many of the residual rights of control"). It carries less than the claim's later clauses. (a) In the model the holder does not simply decide the uncovered contingency: the parties renegotiate to the efficient use, and ownership sets the split, "The distribution of ex post surplus, however, will be sensitive to ownership rights" (§I.C). (b) The allocation acts before any contingency arises: investment is distorted "in spite of the fact that the noncooperative outcome never occurs!" (§III.A). On their account the discretion is felt ex ante, through anticipation, not "exercised, and seen, only when an uncovered contingency arises". That is close to the claim's own defeat condition (discretion "exercised and visible in ordinary operation"), though anticipation is not exercise. The claim's "What it does not say" (their question is efficiency) is accurate. An ARG is needed: Grossman and Hart to this claim, saying what the work carries (the definition) and what it does not (unilateral decision; visibility only at the contingency), and whether the last clause should be revised to allow ex ante effects. No status changes here; the ARG decides.
+
+## Note of 2026-11-17: Hart's Nobel lecture, read in part
+<!-- inactive-ok-file: NOTE-tmpk6jrn THEORY-tmpo5it2 LIT-2742 — new reading (Skimmed) and theory of 2026-11-18, Proposed; Hart and Moore Unfetched -->
+
+Hart 2016, read in part ([NOTE-tmpk6jrn](../notes.d/NOTE-tmpk6jrn.md), [THEORY-tmpo5it2](../theory.d/THEORY-tmpo5it2.md)), as the neighbour of Hart and Moore 1990 ([LIT-2742](../literature.d/LIT-2742.md), Unfetched): it corroborates the first clause in an author's words, "who has the right to decide about the missing things? We called this right the residual control or decision right" (§2) ([THEORY-tmpo5it2](../theory.d/THEORY-tmpo5it2.md) carries `corroborates`). The veto example is a clean case of discretion over an uncovered contingency: "Now that the manager is an employee she has to get permission to implement the idea from her boss: the owner of the power plant has veto power." It qualifies the claim's worker example: property rights theory "emphasizes control over physical (more generally non-human) assets", and "purchasing the mine would not be worth much if the coal mine manager is indispensable", so power over a worker runs through the assets she needs and her replaceability, not the employment label. And "the power plant does anticipate that it will be at the mercy of the coal mine": the discretion shapes conduct before the contingency, as in Grossman and Hart. No status changes.

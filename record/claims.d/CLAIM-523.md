@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -41,6 +41,11 @@ history:
     adds a stage on the claimant's side before legibility to the
     organization, and A108 §3 reads the three achievements as
     institutional reasons-responsiveness. No other change.
+- version: 7
+  date: '2026-11-17'
+  note: >-
+    Arnstein (1969) read; informing and consultation make views
+    legible without efficacy, which corroborates the claim.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -292,3 +297,8 @@ A102 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6a
 A108 §3 reads the three achievements as "an institutional extension of reasons-responsiveness" and adds a fourth stage, "Revision and maintained capability", responsiveness to reasons about the mechanism itself. That stage is filed as [CLAIM-719](CLAIM-719.md) and named by [TERM-128](../terms.d/TERM-128.md). A cites this claim three times and describes it accurately; it omits, though it says elsewhere, that none of the achievements establishes that the demand is justified.
 
 No status changes.
+
+## Note of 2026-11-17: Arnstein, read
+<!-- inactive-ok-file: THEORY-tmpf87o2 — new theory of 2026-11-18, Proposed -->
+
+Arnstein 1969, read from an OCR scan ([NOTE-tmp32vnp](../notes.d/NOTE-tmp32vnp.md), [THEORY-tmpf87o2](../theory.d/THEORY-tmpf87o2.md)): it corroborates the claim independently ([THEORY-tmpf87o2](../theory.d/THEORY-tmpf87o2.md) carries `corroborates`). Under informing and consultation citizens "may indeed hear and be heard", "But under these conditions they lack the power to insure that their views will be heeded by the powerful" (p. 217); consultation "offers no assurance that citizen concerns and ideas will be taken into account" (p. 219). Legibility without volitional efficacy, as a practitioner's typology of where power is withheld. Placation shows efficacy failing through the powerholders' majority: "the have-nots can be easily outvoted and outfoxed" (p. 220). Illustration from 1960s programs, not systematic evidence. No status changes.

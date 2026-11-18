@@ -1,8 +1,8 @@
 ---
 number: 481
-status: Open
 formerly:
 - QUESTION-tmpgeqju
+status: Open
 title: 'Who has standing to authorize changes to an arrangement''s governing structure, by which procedures, and which protections lie beyond any ordinary delegation or revision of it?'
 version: 1
 tags:

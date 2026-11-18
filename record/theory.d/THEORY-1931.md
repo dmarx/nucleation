@@ -4,7 +4,23 @@ status: Proposed
 formerly:
 - THEORY-tmpeq8z1
 title: 'The Hong Kong Monetary Authority proposes that agentic AI in banking be governed by authority defined in advance and technically enforced, with human oversight counted only where it is effective: a formal approval step is not oversight when the volume or velocity of actions outruns review, intervention must be designed around detection, decision and stopping time so that it comes before harm becomes irreversible, and where oversight cannot keep pace the agent''s authority, scope or velocity should be reduced'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmpoi5oo, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2018). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: corroborates CLAIM-730, CLAIM-715. Its title
+    was: "Banks' agentic A.I. should be governed by intent-anchored
+    accountability: an agent acts only for an approved business intent
+    within delegated authority, accountability stays with identified
+    human owners, human approval counts as oversight only where the
+    approver sees the substance and has the authority, time and
+    practical ability to reject or stop, and an agent's speed is limited
+    to what that oversight can review"
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -22,9 +38,13 @@ source:
 corroborates:
 - CLAIM-706
 - CLAIM-705
+- CLAIM-730
+- CLAIM-715
 bears_on:
 - QUESTION-471
 ---
+<!-- inactive-ok-file: CLAIM-715 CLAIM-730 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- unresolved-ok-file: THEORY-tmpoi5oo — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-705 CLAIM-711 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1931: The Hong Kong Monetary Authority proposes that agentic AI in banking be governed by authority defined in advance and technically enforced, with human oversight counted only where it is effective: a formal approval step is not oversight when the volume or velocity of actions outruns review, intervention must be designed around detection, decision and stopping time so that it comes before harm becomes irreversible, and where oversight cannot keep pace the agent's authority, scope or velocity should be reduced
 
@@ -64,3 +84,16 @@ actions take effect and ties the rate of action to the capacity of review.
 - That the controls work. "practical evidence remains limited" (§4.1); it is
   a discussion paper that creates no obligations (§2.3).
 - Anything beyond banking agents under the HKMA.
+
+## From the second reading (2026-11-17)
+
+The second reading states the same proposal from its organizing principle,
+"intent-anchored accountability" (p. 5): an agent acts only for an
+approved business intent within delegated authority, and accountability
+stays with identified owners and "cannot be passed to customers" (p. 27).
+It adds two relations, to claims that do not rest on it: it corroborates
+[CLAIM-730](../claims.d/CLAIM-730.md) (a slow governing level over a fast process) and
+[CLAIM-715](../claims.d/CLAIM-715.md) (scrutiny differs from authority to act on it). One limit:
+
+- **A right of the affected to suspend.** Customers may request review;
+  interruption stays with the bank.

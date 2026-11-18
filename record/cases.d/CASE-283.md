@@ -1,8 +1,8 @@
 ---
 number: 283
-status: Proposed
 formerly:
 - CASE-tmpaasso
+status: Proposed
 title: 'Two patient arrangements: under a right of refusal, Arrangement A treats on consent and refrains on refusal, Arrangement B treats either way; on every occasion the patient consents their histories are identical, and only A respects the right'
 version: 1
 standing: stipulated

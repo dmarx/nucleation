@@ -1,10 +1,17 @@
 ---
 number: 717
-status: Proposed
 formerly:
 - CLAIM-tmp4o53g
+status: Proposed
 title: "Blame and repair do not substitute for each other: assigning blame for creating a harmful condition does not discharge the remedial duties of those now responsible for it, and assigning present remedial duties does not show that those who bear them were to blame for it, so that treating one guilty official as a repair of the system is blame displacement, and loading the repair on whoever is nearest is remedial scapegoating"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Reading of Shaw-Young on Miller filed; its THEORY corroborates the
+    claim's second half, that assigning remedial duties does not show
+    those who bear them were to blame.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -111,3 +118,12 @@ for repairing the institution".
   duty: "if established".
 - Not that blame is idle. Blame has its own grounds and uses
   ([CLAIM-733](CLAIM-733.md)); the claim is only that it does not do repair's work.
+
+## Note of 2026-11-17: Miller's capacity connection, through Shaw-Young: repair without fault
+<!-- inactive-ok-file: NOTE-tmps8s9k THEORY-tmp3xr2l LIT-2755 — Skimmed, new or Unavailable; the reading filed on 2026-11-18 and the unread article it stands in for -->
+
+Shaw-Young 2008, read in part ([NOTE-tmps8s9k](../notes.d/NOTE-tmps8s9k.md), [THEORY-tmp3xr2l](../theory.d/THEORY-tmp3xr2l.md)), standing in weakly for Miller 2001 ([LIT-2755](../literature.d/LIT-2755.md)). The THEORY now `corroborates` this claim, which does not rest on it.
+
+Miller, as quoted from his 2007 statement, separates outcome from remedial responsibility and assigns the latter through six connections, "moral responsibility, outcome responsibility, causal responsibility, benefit, capacity, and community" (thesis p. 20). Capacity alone suffices: "if I am the only person walking along a river bank when a child falls in, then it is my responsibility to rescue the child" (p. 29, Miller 2007 p. 103). A remedial duty on an agent who did nothing wrong is the claim's second half: "assigning present remedial duties does not show that those who bear them were to blame". The reading says nothing about the first half, blame displacement, and it reports the 2007 book, not the 2001 article the exchange cited.
+
+No status changes.

@@ -1,10 +1,20 @@
 ---
 number: 126
-status: Proposed
 formerly:
 - TERM-tmp4zjar
+status: Proposed
 title: 'answerability, of an actor to a party concerning an action or governing power, under a declared standard, and which dimension: the normative relation in which the actor owes the party some form of answer, an account, reasons, responsiveness, an effective opportunity to contest, or judgment and redress; normative (whether it is owed), institutional (who may demand, assess and act on it), effective (whether it can become consequential) or maintained (whether it stays so); not the accountability mechanisms that realize it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-17'
+  note: >-
+    Readings of Shoemaker (2019) and Stern on Darwall filed;
+    Shoemaker's answerability is a different notion under the same
+    word, and Darwall's is the directed sense the term uses. Bovens
+    (2007) read; his accountability is the term's mechanism side, but
+    he nests answerability inside accountability, so the term's
+    nesting is the record's own.
 tags:
 - ethics
 - society-and-governance
@@ -97,3 +107,19 @@ answer are owed in which dimensions.
 Adoption: the owner's call. It would be unsettled by a use the record
 needs that does not fit the relation, for instance an answerability owed
 by an arrangement that is not an agent, which [QUESTION-460](../questions.d/QUESTION-460.md) leaves open.
+
+## Note of 2026-11-17: Shoemaker's answerability is a homonym; Darwall's is this term's sense
+<!-- inactive-ok-file: NOTE-tmpfi3s5 THEORY-tmpjlmfm THEORY-tmpk5cgl LIT-tmpxsadz LIT-2756 — new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+
+Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md), [THEORY-tmpjlmfm](../theory.d/THEORY-tmpjlmfm.md)), for Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md), unread); Stern 2014, read ([NOTE-tmptdg2e](../notes.d/NOTE-tmptdg2e.md), [THEORY-tmpk5cgl](../theory.d/THEORY-tmpk5cgl.md)), for Darwall 2006 ([LIT-2756](../literature.d/LIT-2756.md), unread).
+
+**A homonym the term should mark.** Shoemaker's answerability is a capacity of the agent and a type of responsibility: "To have these capacities is to be answerable, to be able in principle to answer the question, “Why did you do that?”" (2019, p. 912), grounded in "quality of judgment" and answered by approval, disapproval, pride and regret. This term's answerability is a directed normative relation in which an actor owes a party an answer. The two share a word and A110 sets them side by side; the term should say it does not mean Shoemaker's.
+
+**Darwall's sense is this term's.** As Stern reports him, giving another "second-person standing ... thereby makes you answerable to them" (p. 9), and obligation is accountability to those with standing to demand. That is the directed sense, with Darwall's ground for it: the claimant's legitimate authority to demand.
+
+No status changes.
+
+## Note of 2026-11-17: Bovens read; his nesting is the reverse
+<!-- inactive-ok-file: THEORY-tmplvezc — new reading and theory of 2026-11-18, Proposed -->
+
+Bovens 2007, read ([NOTE-tmpv208p](../notes.d/NOTE-tmpv208p.md), [THEORY-tmplvezc](../theory.d/THEORY-tmplvezc.md)), which the term's summary says "the record has not read". The term's "accountability mechanisms" side is accurately Bovens's actor–forum relation (p. 450). But Bovens uses "answerability" for a stage inside accountability: "there needs to be a possibility for the forum to interrogate the actor ... hence, the close semantic connection between 'accountability' and 'answerability'" (p. 451). The term nests the other way, answerability as "the broader normative relationship" and accountability mechanisms as "its institutional realization" (A83). The record may keep its usage; the term should say that the nesting is the record's (A83's), not Bovens's, and that in Bovens's narrow sense the possibility of consequences is constitutive of accountability ("The possibility of sanctions—not the actual imposition of sanctions—makes the difference between non-committal provision of information and being held to account", p. 451). Bovens also sets aside a "broad" sense of accountability as "basically an evaluative, not an analytical, concept" (p. 450), which is nearer the term's normative dimension. No status changes.

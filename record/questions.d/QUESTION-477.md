@@ -1,8 +1,8 @@
 ---
 number: 477
-status: Open
 formerly:
 - QUESTION-tmp6kgwm
+status: Open
 title: 'Is there a resource theory of moral commitments, in the formal sense: what are the free transformations among parties who hold commitments, which quantities are monotone under them, and is the leverage one party gains from another''s commitment a conversion that is free for the one and costly for the other?'
 version: 1
 tags:

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpsuzzj
 title: 'correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -30,6 +30,12 @@ history:
     definition does not fix. No other change. A dated note: A85 §7 of
     the exchange "Assess Depp Heard Abuse" sets a preventive-security
     quantity beside the term's correction. No other change.
+- version: 4
+  date: '2026-11-17'
+  note: >-
+    Correction from Shue's Basic Rights, skimmed: Shue's correlative
+    duties are avoidance, protection and aid; "respect, protect and
+    fulfil" is the UN treaty bodies' later wording.
 tags:
 - society-and-governance
 - agency
@@ -173,3 +179,8 @@ A85 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 The term covers recovery only. The record has no term for prevention; S_r is a candidate, and it is adversarial where this term is not (its robust corrective counterpart is [CLAIM-724](../claims.d/CLAIM-724.md)). A does not name the parallel in rights theory, the duties to respect, protect and fulfil (Shue's Basic Rights, 1980, and the UN treaty bodies' usage); A87 §7 later cites both. "Neither is a complete measure of justice. Some violations are irreversible, some duties are procedural rather than outcome-based".
 
 No status changes.
+
+## Note of 2026-11-17: Shue's triad is avoidance, protection and aid
+<!-- inactive-ok-file: NOTE-tmpzchma THEORY-tmpwtcj0 — new readings and theory of 2026-11-18, Proposed or Skimmed -->
+
+Shue, Basic Rights, skimmed ([NOTE-tmpzchma](../notes.d/NOTE-tmpzchma.md), [THEORY-tmpwtcj0](../theory.d/THEORY-tmpwtcj0.md)): the term says "the duties to respect, protect and fulfil (Shue's Basic Rights, 1980, and the UN treaty bodies' usage)". That runs two triads together. Shue's, by the book's index, is "correlative duties (of avoidance, protection and aid)", with a "tripartite analysis" at pp. 54–55 and entries "duty to aid", "to avoid deprivation", "to protect rights"; "respect, protect and fulfil" is the treaty bodies' later wording. A suggested repair: "the duties to avoid depriving, to protect and to aid (Shue, Basic Rights, 1980), and the UN treaty bodies' later duties to respect, protect and fulfil". The SEP entry "Human Rights" ([NOTE-tmp8pbdm](../notes.d/NOTE-tmp8pbdm.md)) gives a third list, "respect, protection, facilitation, and provision". Chapter 2, where Shue argues the triad, is unread, so his own wording of each duty is unconfirmed. The term's content does not depend on the attribution. No status changes.

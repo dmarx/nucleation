@@ -1,8 +1,8 @@
 ---
 number: 128
-status: Proposed
 formerly:
 - TERM-tmphum9r
+status: Proposed
 title: 'normative governability, of an organized agent or relationship: its maintained, role-appropriate capacity to recognize and respond to justified normative considerations, including considerations that require revising its own governing mechanisms; relational, and not corrigibility, compliance or obedience to challengers'
 version: 1
 tags:

@@ -1,8 +1,8 @@
 ---
 number: 746
-status: Proposed
 formerly:
 - CLAIM-tmpx1g4r
+status: Proposed
 title: 'Four judgments about an authority are distinct: the warrant of the obligations it is to serve, its jurisdiction over the matter, its arrangement''s capacity to realize those obligations together, and its capacity to reach compliant arrangements and correct failures by permitted means; neither of the first two follows from any of the others, and of the last two only the dynamic one implies the static one, for what it reaches'
 version: 1
 role: thesis

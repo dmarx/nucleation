@@ -1,8 +1,8 @@
 ---
 number: 714
-status: Proposed
 formerly:
 - CLAIM-tmp0wx69
+status: Proposed
 title: "A present incapacity to recognize a violation does not show that the incapacitated party is not responsible for the incapacity: where it dismantled the capability in breach of a duty, the incapacity is a consequence of its earlier wrong and does not excuse it, the same failure of responsiveness differs in significance with its history, and where no one is culpable for the incapacity the duty to repair still stands"
 version: 1
 role: thesis

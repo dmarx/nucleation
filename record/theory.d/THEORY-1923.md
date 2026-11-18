@@ -4,7 +4,22 @@ status: Proposed
 formerly:
 - THEORY-tmpbkw8g
 title: 'Cuéllar argues that a newer, less-constrained presidential adjudication, fact-specific presidential decisions about particular parties made with limited judicial review, has grown as doctrine expanded White House control of agencies, norms against interference eroded and congressional oversight weakened, raising a risk of executive coercion that courts can check with a "harder look" assembled from existing doctrine'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Reconciled on 2026-11-18 with THEORY-tmpf7stg, the account the
+    continuation of the exchange's readings filed from its second
+    reading of the same work (NOTE-2029). It stated the same account and
+    was never merged, so it was folded in here and removed. Relations
+    carried over: corroborates CLAIM-748. Its title was: "A newer,
+    less constrained presidential adjudication has emerged in the United
+    States, in which presidents make fact-specific, high-stakes
+    decisions about particular targets with limited judicial oversight
+    as doctrine expands White House control of agencies and constraining
+    norms erode, raising the risk of executive coercion that courts
+    could check through a harder look built from existing doctrine"
 tags:
 - society-and-governance
 promote_when: >-
@@ -20,7 +35,10 @@ source:
 - LIT-2706
 corroborates:
 - CLAIM-462
+- CLAIM-748
 ---
+<!-- inactive-ok-file: CLAIM-748 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- unresolved-ok-file: THEORY-tmpf7stg — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1923: Cuéllar argues that a newer, less-constrained presidential adjudication, fact-specific presidential decisions about particular parties made with limited judicial review, has grown as doctrine expanded White House control of agencies, norms against interference eroded and congressional oversight weakened, raising a risk of executive coercion that courts can check with a "harder look" assembled from existing doctrine
 
@@ -58,3 +76,15 @@ scope of this practice grows" (p. 599).
   the record.
 - Its remedy applies only after "final agency action" (p. 645), so acts taken
   before a reviewable decision exists fall outside it.
+
+## From the second reading (2026-11-17)
+
+The second reading adds a relation: it corroborates the mechanism of
+[CLAIM-748](../claims.d/CLAIM-748.md), which does not rest on it. The White House "can
+successfully target opponents even when courts shut down an initial line
+of attack", with attacks "that might be thwarted by a court eventually but
+levy a high cost on those targeted in the meantime" (p. 647). It adds one
+limit:
+
+- **That a remedy becomes unreachable.** Its mechanism is cost before
+  correction, not a change in what correction can achieve.
