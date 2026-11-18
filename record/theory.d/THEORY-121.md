@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmjijs
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-05'
@@ -41,6 +41,10 @@ history:
     responsible agent". First application of the bounds relation
     (ADR-094). No other change.
 - version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Santoni de Sio and van den Hoven (LIT-2705) read on 2026-11-16, NOTE-2024. No change of status or title.
+- version: 7
   date: '2026-11-17'
   note: >-
     A dated note: A108 §2 and A110 §7 of the exchange "Assess Depp
@@ -298,6 +302,10 @@ refute it.
   allows that an agent made an addict "by the deliberate and calculated
   work of another" may be fully responsible. Fischer & Ravizza's history
   condition, taking responsibility, denies it.
+
+## Note of 2026-11-16: Santoni de Sio and van den Hoven, read
+
+The paper applies Fischer and Ravizza's guidance control, reasons-responsiveness and ownership, to systems of humans and machines, recasting the first as tracking (after Nozick) and the second as tracing. It takes no position on the theory "as a theory of responsibility", only as "a very promising starting" point for control over autonomous systems.
 
 ## Note of 2026-11-17: an institutional analogue of receptivity, reactivity and mechanism ownership, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmp0wx69 CLAIM-tmp69o4u — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->

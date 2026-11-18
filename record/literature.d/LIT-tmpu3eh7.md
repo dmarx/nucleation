@@ -2,8 +2,8 @@
 status: Active
 status_note: >-
   read in full 2026-11-17 ([NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md)) as a read neighbour of Tronto's
-  Moral Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md), Unfetched) and Caring Democracy
-  ([LIT-tmpsm285](LIT-tmpsm285.md), Unavailable); worth reading here for Tronto's own
+  Moral Boundaries ([LIT-2708](LIT-2708.md), Unfetched) and Caring Democracy
+  ([LIT-2669](LIT-2669.md), Unavailable); worth reading here for Tronto's own
   one-sentence definition of privileged irresponsibility and her own
   summary of Caring Democracy's programme.
 title: 'Higher Education for Citizens of Caring Democracies'
@@ -13,7 +13,7 @@ history:
   date: '2026-11-18'
   note: >-
     Registered as a stand-in for Tronto's Moral Boundaries (1993),
-    LIT-tmp5epfk, and Caring Democracy (2013), LIT-tmpsm285, neither of
+    LIT-2708, and Caring Democracy (2013), LIT-2669, neither of
     which could be read, at the reading pass of 2026-11-17 for the
     exchange "Assess Depp Heard Abuse". Not held before: record/ was
     searched for the title, the DOI and Tronto as first author (only the
@@ -50,11 +50,11 @@ summary: >-
   and restates Caring Democracy's first steps: realign the privileges that
   keep unfair care loads from being discussed, and hear everyone's voice
   in the adjustments (p. 14). Read in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md); [THEORY-tmpna7qd](../theory.d/THEORY-tmpna7qd.md). A
-  read neighbour of [LIT-tmp5epfk](LIT-tmp5epfk.md) and [LIT-tmpsm285](LIT-tmpsm285.md).
+  read neighbour of [LIT-2708](LIT-2708.md) and [LIT-2669](LIT-2669.md).
 ---
-<!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 THEORY-tmpna7qd — Unfetched, Unavailable or new; the works this stands in for, and its reading -->
+<!-- inactive-ok-file: LIT-2708 LIT-2669 THEORY-tmpna7qd — Unfetched, Unavailable or new; the works this stands in for, and its reading -->
 
-# LIT-tmpu3eh7: Higher Education for Citizens of Caring Democracies
+# LIT-2711: Higher Education for Citizens of Caring Democracies
 
 Tronto, J. C. (2018). Higher Education for Citizens of Caring Democracies. *South African Journal of Higher Education* 32(6): 6–18. doi:10.20853/32-6-2710.
 
@@ -75,8 +75,8 @@ Tronto, J. C. (2018). Higher Education for Citizens of Caring Democracies. *Sout
 
 ## Standing in the record
 
-Registered as a read neighbour of Moral Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md)) and
-Caring Democracy ([LIT-tmpsm285](LIT-tmpsm285.md)). It stands in for the term and its sense,
+Registered as a read neighbour of Moral Boundaries ([LIT-2708](LIT-2708.md)) and
+Caring Democracy ([LIT-2669](LIT-2669.md)). It stands in for the term and its sense,
 the capability of the privileged to refuse burdensome responsibilities,
 and for Tronto's own outline of Caring Democracy's programme. It does not
 stand in for either book's argument, mechanism or examples, nor for the

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpmlje2
+paper: LIT-2664
 title: 'NTSB — Tempe collision of a developmental automated driving system'
 version: 1
 history:
@@ -32,7 +32,7 @@ summary: >-
   culture", contributing, and the pedestrian and Arizona's oversight as
   further factors.
 ---
-<!-- inactive-ok-file: THEORY-tmp4utz4 CASE-tmpnrxpi CLAIM-tmpb47ul — new or Proposed; the work read, the account and case filed from it, and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmp4utz4 CASE-tmpnrxpi CLAIM-707 — new or Proposed; the work read, the account and case filed from it, and the entries it bears on -->
 
 # NOTE-tmpokcvk: NTSB — Tempe collision of a developmental automated driving system
 
@@ -105,7 +105,7 @@ no adverse parties". The report says nothing about criminal charges.
 
 Filed as [THEORY-tmp4utz4](../theory.d/THEORY-tmp4utz4.md), and the case as [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md).
 
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the control-and-duty part, with an official finding:
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**, the control-and-duty part, with an official finding:
   a design that relied on the operator for emergency braking, a removed
   second operator that raised her task demands, and a culture that
   contributed "specifically to the vehicle operator's extended
@@ -120,7 +120,7 @@ Filed as [THEORY-tmp4utz4](../theory.d/THEORY-tmp4utz4.md), and the case as [CAS
 - **[QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md)** (blameless post-incident practice): the report is
   an instance, a no-blame investigation that keeps upstream provenance by
   naming contributing factors in the company and the state.
-- **Elish ([LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md), [NOTE-tmps5u6y](NOTE-tmps5u6y.md))** wrote from the preliminary report,
+- **Elish ([LIT-2665](../literature.d/LIT-2665.md), [NOTE-tmps5u6y](NOTE-tmps5u6y.md))** wrote from the preliminary report,
   which left open that the operator was "looking down at the touch-screen";
   the final report rules that out.
 - **[CLAIM-422](../claims.d/CLAIM-422.md)** (a corrective act, a procedure and a maintained capacity

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp5poa8'
+paper: 'LIT-2677'
 title: 'Gaboriaud, Gautheron, Quinton and Smeding — Wrongness and Blame Judgments and Their Dynamics'
 version: 1
 history:
@@ -25,7 +25,7 @@ summary: >-
   authors' three-input model is "partially" supported and the
   wrongness/blame distinction "must not be overestimated".
 ---
-<!-- inactive-ok-file: CLAIM-tmpciy9q CLAIM-tmpa2l21 LIT-tmpswc1p — Proposed or Unfetched; the entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpciy9q CLAIM-708 LIT-2714 — Proposed or Unfetched; the entries this reading bears on -->
 
 # NOTE-tmp3qe8i: Gaboriaud, Gautheron, Quinton and Smeding — Wrongness and Blame Judgments and Their Dynamics
 
@@ -91,11 +91,11 @@ factor; information comes in a fixed order, intent first.
   nothing about provocation, arranged conditions, or how observers weigh
   an upstream arranger, so it does not test the claim's audience move. No
   relation is written.
-- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)**: the scenarios vary whether the agent or "another
+- **[CLAIM-708](../claims.d/CLAIM-708.md)**: the scenarios vary whether the agent or "another
   independent source" caused the outcome, not whether a source structured
   the agent's choice.
 - **Moral luck**: the outcome effect is the experimental form of moral
-  luck; Williams and Nagel's symposium ([LIT-tmpswc1p](../literature.d/LIT-tmpswc1p.md)) is unread.
+  luck; Williams and Nagel's symposium ([LIT-2714](../literature.d/LIT-2714.md)) is unread.
 
 ## Limitations
 

@@ -13,21 +13,21 @@ tags:
 - social-science
 date: '2026-11-18'
 source:
-- LIT-tmpxr3yx
+- LIT-2717
 corroborates:
-- CLAIM-tmpkivlz
+- CLAIM-709
 summary: >-
-  Mazinani and O'Connor (2026), [LIT-tmpxr3yx](../literature.d/LIT-tmpxr3yx.md), read in full in
-  [NOTE-tmpky4pc](../notes.d/NOTE-tmpky4pc.md). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), which does not rest on
+  Mazinani and O'Connor (2026), [LIT-2717](../literature.d/LIT-2717.md), read in full in
+  [NOTE-tmpky4pc](../notes.d/NOTE-tmpky4pc.md). It corroborates [CLAIM-709](../claims.d/CLAIM-709.md), which does not rest on
   it, as a methodological stance: "bidirectional" violence implies no
   equivalence in coercive control or responsibility. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; the reading and the claim it corroborates -->
 
 # THEORY-tmpaul2b: Mazinani and O'Connor hold that, when meta-analytic risk markers for physical intimate partner violence are organized by Bartholomew and Cobb's dyadic model, the strongest and most consistent fall at the relationship-context level, and that a dyadic framing implies neither symmetric control nor shared responsibility
 
-Mazinani and O'Connor (2026), [LIT-tmpxr3yx](../literature.d/LIT-tmpxr3yx.md).
+Mazinani and O'Connor (2026), [LIT-2717](../literature.d/LIT-2717.md).
 
 ## The account
 

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpqyz50
+paper: LIT-2705
 title: 'Santoni de Sio and van den Hoven — Meaningful Human Control'
 version: 1
 history:
@@ -25,7 +25,7 @@ summary: >-
   may hold them responsible. Presence in the loop is not control, and
   designers owe operators a system whose fitness they can check.
 ---
-<!-- inactive-ok-file: THEORY-tmpnmvsj CLAIM-tmpb47ul — new or Proposed; the work read, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmpnmvsj CLAIM-707 — new or Proposed; the work read, the account filed from it and the entries it bears on -->
 
 # NOTE-tmp6l52i: Santoni de Sio and van den Hoven — Meaningful Human Control
 
@@ -87,7 +87,7 @@ from one agent's earlier choices to many agents along a design history.
 
 Filed as [THEORY-tmpnmvsj](../theory.d/THEORY-tmpnmvsj.md).
 
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the control-and-duty part, from theory: presence is
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**, the control-and-duty part, from theory: presence is
   not control (p. 4); designers owe operators a system whose fitness they
   can check (p. 9); responsibility traces upstream when the operator's
   conditions fail through no fault of hers. Nothing on where blame
@@ -98,7 +98,7 @@ Filed as [THEORY-tmpnmvsj](../theory.d/THEORY-tmpnmvsj.md).
   account. Evidence on the question, not an answer.
 - The record's notes on Fischer and Ravizza's guidance control (e.g.
   [NOTE-270](NOTE-270.md), [NOTE-1457](NOTE-1457.md), [NOTE-548](NOTE-548.md)) hold the theory this paper adapts. Zeiser
-  ([LIT-tmp3iik8](../literature.d/LIT-tmp3iik8.md)) says the framework "does not specifically focus on
+  ([LIT-2666](../literature.d/LIT-2666.md)) says the framework "does not specifically focus on
   attributability".
 
 ## Limitations

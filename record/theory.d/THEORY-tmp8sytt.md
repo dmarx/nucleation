@@ -16,17 +16,17 @@ date: '2026-11-18'
 source:
 - LIT-tmpvjyqr
 corroborates:
-- CLAIM-tmpkivlz
+- CLAIM-709
 summary: >-
   Johnson, interviewed by Ooms (2006), [LIT-tmpvjyqr](../literature.d/LIT-tmpvjyqr.md), read in full in
   [NOTE-tmpubjbq](../notes.d/NOTE-tmpubjbq.md), as the read neighbour of Johnson 1995 ([LIT-tmpozb57](../literature.d/LIT-tmpozb57.md)) and
-  Johnson 2008 ([LIT-tmp5254i](../literature.d/LIT-tmp5254i.md)). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), which does
+  Johnson 2008 ([LIT-2715](../literature.d/LIT-2715.md)). It corroborates [CLAIM-709](../claims.d/CLAIM-709.md), which does
   not rest on it: Johnson types violence by control context, not by a
   tally of acts. The wording is the reader's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: LIT-tmpozb57 LIT-tmp5254i — Unfetched or Unavailable; the works this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: LIT-tmpozb57 LIT-2715 — Unfetched or Unavailable; the works this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; the reading and the claim it corroborates -->
 
 # THEORY-tmp8sytt: Johnson holds that intimate partner violence divides by its control context into situational couple violence, intimate terrorism and violent resistance, and that agency data and general surveys disagree about gender because they sample different types
 

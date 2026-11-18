@@ -10,7 +10,7 @@ history:
     Read in full on 2026-11-17 from the Vermont Legislature's PDF (the
     `url:` of LIT-tmpnw255), 6 pages, text by pdftotext. Nothing skipped.
     The quotes below were rechecked by the filer against that text on
-    2026-11-18. Read as a stand-in for Stark (2007), LIT-tmp6y633.
+    2026-11-18. Read as a stand-in for Stark (2007), LIT-2675.
 date: '2026-11-18'
 summary: >-
   Stark's own short statement of coercive control: a strategic course of
@@ -19,8 +19,8 @@ summary: >-
   are not abuse singly make the pattern together, and responses to
   discrete assaults miss it.
 ---
-<!-- inactive-ok-file: LIT-tmp6y633 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz CASE-tmpzt3zf CLAIM-545 TERM-124 — Proposed; the entries this reading bears on -->
+<!-- inactive-ok-file: LIT-2675 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 CASE-279 CLAIM-545 TERM-124 — Proposed; the entries this reading bears on -->
 
 # NOTE-tmpputb4: Stark — Coercive Control (Vermont testimony, 2015)
 
@@ -74,13 +74,13 @@ Figures are asserted with few citations.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: corroborates its view that a tally of acts does not
+- **[CLAIM-709](../claims.d/CLAIM-709.md)**: corroborates its view that a tally of acts does not
   settle domination: responses aimed at "discrete assaults" miss the
   pattern, and tactics that are not abuse "taken alone" make it "in
   combination". Stark speaks of a perpetrator and a victim and does not
   take up the claim's other half, that the dominated party's own acts keep
   their verdict.
-- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)**: Dan's control of money, monitoring, isolation and
+- **[CASE-279](../cases.d/CASE-279.md)**: Dan's control of money, monitoring, isolation and
   threats are Stark's "isolation and control".
 - **[CLAIM-545](../claims.d/CLAIM-545.md)**: Stark's harm to "autonomy, dignity and liberty" is the
   record's coercive control of "The person's continuing practical freedom".
@@ -89,7 +89,7 @@ Figures are asserted with few citations.
 
 ## Connections
 
-Stands in for Stark (2007), [LIT-tmp6y633](../literature.d/LIT-tmp6y633.md), for the book's core thesis:
+Stands in for Stark (2007), [LIT-2675](../literature.d/LIT-2675.md), for the book's core thesis:
 abuse as a strategic course of conduct; harm to liberty, autonomy and
 dignity as well as safety; incident-focused responses miss it. It does not
 restate the book's history of the battered women's movement, its critique

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpbjaiq
 title: 'A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -16,6 +16,10 @@ history:
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
 - version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Citron (LIT-2719) read on 2026-11-16, NOTE-2003. No change of status or title.
+- version: 4
   date: '2026-11-17'
   note: >-
     A dated note: A19 §2 of the exchange "Assess Depp Heard Abuse"
@@ -114,8 +118,15 @@ contractors.
   [QUESTION-463](../questions.d/QUESTION-463.md).
 - It is stipulated and settles no fact about any hospital.
 
+## Note of 2026-11-16: Citron, read
+
+The stipulated hospital system in which patients cannot contest automated decisions has a documented
+public-law counterpart in Citron's benefit systems (no notice, no audit trail, review subject to
+automation bias). Relation: none proposed; a cross-reference.
+
 ## Note of 2026-11-17: the economics of nominal oversight, a variant, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-tmpb47ul CLAIM-tmpe5u7i — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-707 CLAIM-713 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmp238zy — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A19 §2 of the exchange "Assess Depp Heard Abuse" (2026-11-15) gives a
 hospital AI variant of this case, with a deterioration-prediction tool and
@@ -136,7 +147,7 @@ For this case, that sharpens "clinicians lose discretion": they keep
 formal discretion and lose the time to use it, which is how a justified
 objection fails to become effective without any rule against it. The
 mechanisms are filed from the same exchange: the unbudgeted subsidy
-([CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)), blame landing where failure is visible ([CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)),
+([CLAIM-713](../claims.d/CLAIM-713.md)), blame landing where failure is visible ([CLAIM-707](../claims.d/CLAIM-707.md)),
 and verification required and then cited as ownership ([CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)).
 
 No status changes.

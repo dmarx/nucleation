@@ -1,6 +1,6 @@
 ---
 status: Skimmed
-paper: 'LIT-tmpn5g57'
+paper: 'LIT-2696'
 title: 'Hong Kong Monetary Authority — Discussion Paper on Agentic A.I. Governance in the Banking Sector'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   human review are proposed. "AIs" in the paper means Authorized
   Institutions (banks).
 ---
-<!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-tmpb47ul CLAIM-tmpgh3v2 CLAIM-tmpohafo — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-707 CLAIM-tmpgh3v2 CLAIM-tmpohafo — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpv0dkv: Hong Kong Monetary Authority — Discussion Paper on Agentic A.I. Governance in the Banking Sector
 
@@ -133,9 +133,9 @@ agents; Know Your Agent; risk Bands A–C.
 - **[CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md)**. Customers get access to a person and review on
   request, but no power to suspend an agent's action: review without
   interruption.
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**. The rule that accountability stays with owners is an
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**. The rule that accountability stays with owners is an
   institutional guard against control and blame coming apart.
-- **[LIT-tmpqyz50](../literature.d/LIT-tmpqyz50.md)** (meaningful human control) and **[LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md)** (moral
+- **[LIT-2705](../literature.d/LIT-2705.md)** (meaningful human control) and **[LIT-2665](../literature.d/LIT-2665.md)** (moral
   crumple zones) are the held literature closest to §7.2.
 
 ## Verdict on the exchange's characterization

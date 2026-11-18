@@ -215,7 +215,7 @@ The case is not filed separately. No status changes.
 Rechecked after [CLAIM-534](CLAIM-534.md) went Active and [CLAIM-545](CLAIM-545.md)'s grounds were corrected (2026-11-06). Neither bears on what holds it. Promoting the drafted narrowing would still reject [ARG-030](../arguments.d/ARG-030.md) on the authenticity line, whose reopening is the owner's call (note of 2026-10-30).
 
 ## Note of 2026-11-17: an institutional instance, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmp11xvc — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 
 A23 §1 of the exchange "Assess Depp Heard Abuse" (2026-11-15): a hiring
 committee needs three meetings before rejecting a candidate, and "An
@@ -228,6 +228,6 @@ reproducing the powers exercised through that process.**"
 That is this objection's structure in an institution: two processes with
 the same outputs that part only when someone objects, here because one of
 them no longer has a place where the objection could enter. It is the
-owner's friction thesis ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) seen from this objection's side.
+owner's friction thesis ([CLAIM-710](CLAIM-710.md)) seen from this objection's side.
 
 No status changes.

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpu1xfy
+paper: LIT-2689
 title: 'Choroszewicz — public sector practitioners as moral crumple zones'
 version: 1
 history:
@@ -27,7 +27,7 @@ summary: >-
   It concerns responsibility allocated before failure, not blame after an
   accident.
 ---
-<!-- inactive-ok-file: THEORY-tmpmdej3 CLAIM-tmpb47ul CLAIM-tmp238zy — new or Proposed; the work read, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmpmdej3 CLAIM-707 CLAIM-tmp238zy — new or Proposed; the work read, the account filed from it and the entries it bears on -->
 
 # NOTE-tmpgwh6b: Choroszewicz — public sector practitioners as moral crumple zones
 
@@ -88,7 +88,7 @@ epistemic, interpretative and operational.
 
 Filed as [THEORY-tmpmdej3](../theory.d/THEORY-tmpmdej3.md).
 
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the control-and-duty part, empirically: responsibility
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**, the control-and-duty part, empirically: responsibility
   allocated beyond "actual authority, control and capacity to influence".
   And the conscientiousness part in a mild form: vigilant, experienced
   users caught errors that made the tools look workable, at a cost of
@@ -98,7 +98,7 @@ Filed as [THEORY-tmpmdej3](../theory.d/THEORY-tmpmdej3.md).
 - **[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)** (scrutiny demanded of individuals while the
   institution stays unanswerable): verification duties placed on users
   while the tools and their developers are insulated (§5.2). Corroborates.
-- **Elish ([LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md))**: the study applies her concept to the period
+- **Elish ([LIT-2665](../literature.d/LIT-2665.md))**: the study applies her concept to the period
   before failure, which she did not treat.
 
 ## Limitations

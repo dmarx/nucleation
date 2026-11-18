@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpu3eh7
+paper: LIT-2711
 title: 'Tronto — Higher Education for Citizens of Caring Democracies'
 version: 1
 history:
@@ -10,8 +10,8 @@ history:
     Read in full on 2026-11-17 from the journal's open copy,
     https://www.journals.ac.za/sajhe/article/view/2710/1938 (PDF, 13 pages,
     pp. 6–18), text by pdftotext: all sections, notes and references. Read
-    as a stand-in for Tronto's Moral Boundaries (LIT-tmp5epfk) and Caring
-    Democracy (LIT-tmpsm285). Page numbers are the journal's. The quotes
+    as a stand-in for Tronto's Moral Boundaries (LIT-2708) and Caring
+    Democracy (LIT-2669). Page numbers are the journal's. The quotes
     below were rechecked by the filer against the same copy on 2026-11-18.
 date: '2026-11-18'
 summary: >-
@@ -24,7 +24,7 @@ summary: >-
   restates Caring Democracy's programme, beginning with realigning the
   privileges that keep unfair loads of care from being discussed.
 ---
-<!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 THEORY-tmpna7qd CLAIM-tmpb47ul — Unfetched, Unavailable, Proposed or new; the works this stands in for, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: LIT-2708 LIT-2669 THEORY-tmpna7qd CLAIM-707 — Unfetched, Unavailable, Proposed or new; the works this stands in for, the account filed from it and the entries it bears on -->
 
 # NOTE-tmp0tq2n: Tronto — Higher Education for Citizens of Caring Democracies
 
@@ -76,15 +76,15 @@ mutually generative.
 Filed as [THEORY-tmpna7qd](../theory.d/THEORY-tmpna7qd.md).
 
 - **Which of the originals' results it restates.** For Moral Boundaries
-  ([LIT-tmp5epfk](../literature.d/LIT-tmp5epfk.md)): the term and its sense, in one sentence. Not the book's
+  ([LIT-2708](../literature.d/LIT-2708.md)): the term and its sense, in one sentence. Not the book's
   mechanism, its examples, nor the exchange's "because other people
   routinely perform that work on their behalf" (A15) or "socially
   organized inattention" (A17), which no text read contains. For Caring
-  Democracy ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md)): Tronto's own outline of the programme, which
+  Democracy ([LIT-2669](../literature.d/LIT-2669.md)): Tronto's own outline of the programme, which
   bears out A17's "the distribution of care responsibilities as a matter
   of democratic justice" in substance; nothing on which chapters ("chapters
   2 and 4").
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the upstream strand: the privileged can refuse
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**, the upstream strand: the privileged can refuse
   burdensome responsibilities (p. 8), and diffused responsibility relieves
   those with most causal responsibility (p. 11). Corroborates; Tronto does
   not address blame or control.

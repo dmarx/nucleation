@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpgo0lt
+paper: LIT-2670
 title: 'Keller — Fiduciary Duties and Moral Blackmail'
 version: 1
 history:
@@ -28,7 +28,7 @@ summary: >-
   The dog and teachers examples the exchange gives are his; its "Alice" and
   "Bob" and its "Administrators" are not.
 ---
-<!-- inactive-ok-file: THEORY-tmpg9i9l CLAIM-tmp76x3e CLAIM-tmpa2l21 CLAIM-tmpciy9q CLAIM-tmpe5u7i CASE-tmpm0rpn THEORY-225 LIT-tmp5mwf4 LIT-tmpewphn — new or Proposed; the work read, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmpg9i9l CLAIM-703 CLAIM-708 CLAIM-tmpciy9q CLAIM-713 CASE-tmpm0rpn THEORY-225 LIT-2682 LIT-2692 — new or Proposed; the work read, the account filed from it and the entries it bears on -->
 
 # NOTE-tmp0loqu: Keller — Fiduciary Duties and Moral Blackmail
 
@@ -117,7 +117,7 @@ coda tying that exposure to caring work, low pay and gender.
 
 Filed as [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md).
 
-- **[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)** (an agent governed through its sound values by a
+- **[CLAIM-703](../claims.d/CLAIM-703.md)** (an agent governed through its sound values by a
   party that changes its situation). The reading supports its central
   half independently: the victim's obligation is genuine, and the
   manipulation runs through her moral sensibility. The claim's condition,
@@ -125,12 +125,12 @@ Filed as [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md).
   note and the law-firm case. The claim's body leaves the attribution of
   the dog case unchecked: it is Keller's; "Alice" and "Bob" are A's.
   Corroborates; the claim does not rest on it.
-- **[QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md)** (can activating obligations give control over the
+- **[QUESTION-472](../questions.d/QUESTION-472.md)** (can activating obligations give control over the
   terms of dependence?). Evidence toward yes for fiduciaries: exposure
   makes it harder "to bargain for better conditions at work" (p. 26), and
   the teachers case uses the moral cost of withdrawal as bargaining
   leverage. Keller does not frame it as dependence or exit.
-- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (structuring another's circumstances is a wrong
+- **[CLAIM-708](../claims.d/CLAIM-708.md)** (structuring another's circumstances is a wrong
   against that person). Keller supports the relational half: moral
   blackmail mistreats its victim (p. 20). But his victim is pressed to do
   something right (mind the dog, teach), not to commit a wrong, so he
@@ -144,7 +144,7 @@ Filed as [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md).
   anticipates is a smear ("look heartless and selfish"), not a true
   accusation. The example is therefore not an instance of the claim's
   pattern; the exchange stretched it.
-- **[CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)** (the moral subsidy). The law-firm case is a moral
+- **[CLAIM-713](../claims.d/CLAIM-713.md)** (the moral subsidy). The law-firm case is a moral
   subsidy deliberately sought, and pp. 26–27 make the exposure systemic and
   gendered. Keller's cases are intentional, where the claim allows
   reliance "without intending to exploit anyone".
@@ -154,7 +154,7 @@ Filed as [THEORY-tmpg9i9l](../theory.d/THEORY-tmpg9i9l.md).
 - **[THEORY-225](../theory.d/THEORY-225.md)** (Noggle: no single mechanism of manipulation). Moral
   blackmail is a further mechanism, and its pressure need be neither
   covert nor non-rational.
-- For the record's Robillard entries ([LIT-tmp5mwf4](../literature.d/LIT-tmp5mwf4.md), [LIT-tmpewphn](../literature.d/LIT-tmpewphn.md)), not
+- For the record's Robillard entries ([LIT-2682](../literature.d/LIT-2682.md), [LIT-2692](../literature.d/LIT-2692.md)), not
   read: this paper is the record's read footing for commitments as a
   source of exposure to exploitation.
 

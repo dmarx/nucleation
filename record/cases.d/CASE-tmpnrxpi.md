@@ -12,35 +12,35 @@ date: '2026-11-18'
 line:
 - distributed-agency
 reported_in:
-- LIT-tmpmlje2
+- LIT-2664
 - NOTE-tmpokcvk
-- LIT-tmpnmwlk
+- LIT-2665
 illustrates:
-- CLAIM-tmpb47ul
+- CLAIM-707
 bears_on:
 - QUESTION-tmp2t6ve
 summary: >-
   The Uber test-vehicle crash, as the NTSB's final report finds it
-  (HAR-19/03, 2019; [LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), read in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)), the case A17 of
-  the exchange "Assess Depp Heard Abuse" uses and Elish ([LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md))
+  (HAR-19/03, 2019; [LIT-2664](../literature.d/LIT-2664.md), read in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)), the case A17 of
+  the exchange "Assess Depp Heard Abuse" uses and Elish ([LIT-2665](../literature.d/LIT-2665.md))
   discussed from the preliminary report. The design left emergency braking
   to the operator, Uber had disabled the Volvo's own systems and removed
   the second operator, and oversight was rare; the operator was streaming
   video. The NTSB divides cause between her and the company. It illustrates
-  the control-and-duty part of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) and its carve-out, a
+  the control-and-duty part of [CLAIM-707](../claims.d/CLAIM-707.md) and its carve-out, a
   frontline failure that was partly the operator's own. Not shown: blame
   landing on her, which is a matter of prosecution and press the report
   does not cover. Proposed because filing it is the reader's proposal;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul — new, Proposed or Open; the report, its reading, the earlier account and the entries this bears on -->
+<!-- inactive-ok-file: CLAIM-707 — new, Proposed or Open; the report, its reading, the earlier account and the entries this bears on -->
 
 # CASE-tmpnrxpi: Tempe, Arizona, 18 March 2018: an Uber test vehicle whose developmental automated driving system relied on its sole operator to brake killed a pedestrian while the operator streamed video; the NTSB made her distraction the probable cause and the company's safety culture, which had removed the second operator and left automation complacency unaddressed, a contributing one
 
 ## The case
 
 From the NTSB's Highway Accident Report NTSB/HAR-19/03, adopted 19
-November 2019 ([LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), read for responsibility in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)).
+November 2019 ([LIT-2664](../literature.d/LIT-2664.md), read for responsibility in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md)).
 Page numbers are the report's.
 
 - **What happened.** At night on N. Mill Avenue, Tempe, an Uber Advanced
@@ -78,7 +78,7 @@ Page numbers are the report's.
 - **Control and duty apart.** The organization set a task "humans are
   very poor at" (p. 44), made the sole operator the only brake, and did
   not make the task feasible. That is the control-and-duty part of
-  [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md), in an official finding.
+  [CLAIM-707](../claims.d/CLAIM-707.md), in an official finding.
 - **A frontline failure that was partly her own.** The operator really did
   fail a duty she knew. The claim allows this, and A17 makes the point
   from this case: "A moral crumple zone can contain someone who is partly
@@ -93,7 +93,7 @@ Page numbers are the report's.
   itself. Whether she became a moral crumple zone is a question about
   prosecution and the press, which the report does not cover and the
   record has not read. As an allocation of cause, the report sits nearer
-  the second branch of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s `defeated_if` than a crumple zone.
-- **Elish's earlier reading** ([LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md), [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md), p. 53) rested on
+  the second branch of [CLAIM-707](../claims.d/CLAIM-707.md)'s `defeated_if` than a crumple zone.
+- **Elish's earlier reading** ([LIT-2665](../literature.d/LIT-2665.md), [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md), p. 53) rested on
   the preliminary report, which left open that the operator was "looking
   down at the touch-screen"; the final report found her streaming video.

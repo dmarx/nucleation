@@ -16,26 +16,26 @@ tags:
 - philosophy-of-technology
 date: '2026-11-18'
 source:
-- LIT-tmpmlje2
+- LIT-2664
 corroborates:
-- CLAIM-tmpb47ul
+- CLAIM-707
 bears_on:
 - QUESTION-tmp2t6ve
 summary: >-
-  NTSB (2019), [LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), read for responsibility in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md); the
+  NTSB (2019), [LIT-2664](../literature.d/LIT-2664.md), read for responsibility in [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md); the
   case is [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md). It corroborates the control-and-duty part of
-  [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md), which does not rest on it: the organization set a task
+  [CLAIM-707](../claims.d/CLAIM-707.md), which does not rest on it: the organization set a task
   people perform poorly and did not make it feasible. It does not show
   blame landing downstream, since the NTSB carries cause upstream itself.
   It bears on [QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md) as a no-blame investigation that keeps
   upstream provenance. The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpnrxpi CLAIM-tmpb47ul — new or Proposed; the report, its reading and case, and the entries it bears on -->
+<!-- inactive-ok-file: CASE-tmpnrxpi CLAIM-707 — new or Proposed; the report, its reading and case, and the entries it bears on -->
 
 # THEORY-tmp4utz4: The NTSB found the Tempe crash of an Uber test vehicle caused by its operator's distraction, to which the company contributed through a system design that relied on her to brake, the removal of a second operator, rare oversight and no countermeasures to automation complacency, all consequences of its safety culture, so that cause was divided between the operator and the organization that set her task
 
-NTSB, Highway Accident Report HAR-19/03 (2019), [LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), read in
+NTSB, Highway Accident Report HAR-19/03 (2019), [LIT-2664](../literature.d/LIT-2664.md), read in
 [NOTE-tmpokcvk](../notes.d/NOTE-tmpokcvk.md).
 
 ## The finding

@@ -30,6 +30,8 @@ rests_on:
 - CLAIM-tmpsk25g
 uses:
 - TERM-tmp8pnnr
+bears_on:
+- QUESTION-470
 summary: >-
   A's, from A110 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-17),
   "A responsibility graph, rather than a single attribution of blame", its
@@ -39,7 +41,9 @@ summary: >-
   engineering, bears on most directly ([QUESTION-tmp2t6ve](../questions.d/QUESTION-tmp2t6ve.md)). The wording is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpd0hyp CLAIM-tmpb47ul CLAIM-tmpixmhp CLAIM-tmpsk25g — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CASE-tmpd0hyp CLAIM-tmpixmhp CLAIM-tmpsk25g — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-tmp4o53g: Blame and repair do not substitute for each other: assigning blame for creating a harmful condition does not discharge the remedial duties of those now responsible for it, and assigning present remedial duties does not show that those who bear them were to blame for it, so that treating one guilty official as a repair of the system is blame displacement, and loading the repair on whoever is nearest is remedial scapegoating
@@ -78,7 +82,7 @@ for repairing the institution".
 - **[CLAIM-tmpsk25g](CLAIM-tmpsk25g.md)** (the owner's) is what it rests on: the grounds of
   correction are not those of blame. This claim says what follows when the
   two are assigned: neither assignment discharges or certifies the other.
-- **[CLAIM-tmpb47ul](CLAIM-tmpb47ul.md)**, filed from A17 earlier in the exchange, holds the
+- **[CLAIM-707](CLAIM-707.md)**, filed from A17 earlier in the exchange, holds the
   moral crumple zone, where retrospective blame lands on the person nearest
   the failure while control over its conditions lies upstream. That is the
   mechanism by which remedial scapegoating happens. This claim is the
@@ -98,6 +102,12 @@ for repairing the institution".
   the upstream provenance blame supplies. A blameless review is designed
   against remedial scapegoating; whether it falls into the mirror failure,
   no one blamed and nothing upstream repaired, is the question's open part.
+- **[QUESTION-470](../questions.d/QUESTION-470.md)**, from the first share of the same exchange,
+  asks when remedial responsibility comes apart from culpability. This
+  claim bears on it: it says the two do not substitute for each other, so
+  that finding a culprit does not discharge repair and assigning repair
+  does not show blame, without saying when repair survives where no one is
+  to blame.
 
 ## What it does not say
 

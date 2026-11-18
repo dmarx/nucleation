@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   read in full 2026-11-17 ([NOTE-tmpputb4](../notes.d/NOTE-tmpputb4.md)) from the Vermont Legislature's
-  committee records, as the read neighbour of Stark (2007), [LIT-tmp6y633](LIT-tmp6y633.md),
+  committee records, as the read neighbour of Stark (2007), [LIT-2675](LIT-2675.md),
   which could not be read; worth reading here as Stark's own short
   statement of the book's thesis: partner abuse as a strategic course of
   conduct aimed at liberty, which responses to discrete assaults miss.
@@ -12,7 +12,7 @@ history:
 - version: 1
   date: '2026-11-18'
   note: >-
-    Registered as a stand-in for Stark (2007), LIT-tmp6y633, registered
+    Registered as a stand-in for Stark (2007), LIT-2675, registered
     from the exchange "Assess Depp Heard Abuse". Not held before:
     record/literature.d was searched for Stark as first author and for
     the title. Read in full on 2026-11-17 from
@@ -44,10 +44,10 @@ summary: >-
   level of abuse" but make the pattern in combination; it violates
   "autonomy, dignity and liberty" as well as safety; and "Interventions
   focused on discrete assaults" miss it. Registered as the read neighbour
-  of Stark 2007, [LIT-tmp6y633](LIT-tmp6y633.md). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md).
+  of Stark 2007, [LIT-2675](LIT-2675.md). It corroborates [CLAIM-709](../claims.d/CLAIM-709.md).
 ---
-<!-- inactive-ok-file: LIT-tmp6y633 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; this work's reading and the claim it corroborates -->
+<!-- inactive-ok-file: LIT-2675 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; this work's reading and the claim it corroborates -->
 
 # LIT-tmpnw255: Coercive Control (testimony on H.103 to the Vermont House Committee on Judiciary)
 
@@ -71,7 +71,7 @@ Stark, E. (2015, February 25). *Coercive Control.* Written testimony on H.103, V
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Stark (2007),
-[LIT-tmp6y633](LIT-tmp6y633.md), the book A associates with the view that abuse is a pattern
+[LIT-2675](LIT-2675.md), the book A associates with the view that abuse is a pattern
 of domination rather than a count of acts. Six pages of advocacy, with
 figures given without sources. It is not the book: none of its history,
 legal argument or case material.

@@ -31,6 +31,7 @@ line:
 - distributed-agency
 bears_on:
 - QUESTION-068
+- QUESTION-470
 uses:
 - TERM-tmp8pnnr
 summary: >-
@@ -48,6 +49,7 @@ summary: >-
   are credited below. "The grounds of correction are not exhausted by the
   grounds of blame" is A110 §12's compression of the owner's point.
 ---
+<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-tmp0wx69 CLAIM-tmp4o53g CLAIM-tmpixmhp TERM-tmp8pnnr — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: QUESTION-068 — Deferred; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-624 THEORY-122 THEORY-147 THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
@@ -161,6 +163,12 @@ own.
   is the general statement for any agent, persons included.
 - The responsibility graph and the non-substitution principle built on it
   are [CLAIM-tmp4o53g](CLAIM-tmp4o53g.md); the self-induced incapacity is [CLAIM-tmp0wx69](CLAIM-tmp0wx69.md).
+- **[QUESTION-470](../questions.d/QUESTION-470.md)**, from the first share of the same exchange,
+  asks when an organization's responsibility to repair a harm survives the
+  absence, uncertainty or dispersion of blameworthiness. This claim bears
+  on it: if the grounds of correction are not exhausted by the grounds of
+  blame, the need for correction can survive diminished culpability, which
+  is one condition the question asks for.
 
 ## What it does not say
 
@@ -179,9 +187,9 @@ own.
   accessible".
 
 ## Note of 2026-11-17: The attribution of the three-way split, confirmed in Shoemaker's words
-<!-- inactive-ok-file: NOTE-tmpfi3s5 LIT-tmpxsadz LIT-tmpmsh0d — Skimmed, new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
+<!-- inactive-ok-file: NOTE-tmpfi3s5 LIT-2658 LIT-2718 — Skimmed, new or Unavailable; the readings filed on 2026-11-18 and the unread works they stand in for -->
 
-Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md)), for Shoemaker 2011 ([LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md)); King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md)), for Watson 1996 ([LIT-tmpmsh0d](../literature.d/LIT-tmpmsh0d.md)).
+Shoemaker 2019, read in part ([NOTE-tmpfi3s5](../notes.d/NOTE-tmpfi3s5.md)), for Shoemaker 2011 ([LIT-2658](../literature.d/LIT-2658.md)); King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md)), for Watson 1996 ([LIT-2718](../literature.d/LIT-2718.md)).
 
 The claim corrects A110's attribution of attributability, answerability and accountability to "Gary Watson and David Shoemaker" jointly. Shoemaker confirms it: of other pluralist views, Watson's *Agency and Answerability* (2004) among them, "none of them have an independent notion of answerability" (2019, n. 64), and the three labels are his, "drawn from labels already in the literature" (p. 913). King's Watson has two faces, attributability and accountability, with accountability carrying a fairness condition, "[i]t is unfair to impose sanctions upon people unless they had a reasonable opportunity to avoid incurring them" (237), which supports the claim's reading that "accountable" in the owner's sentence is not Watson's accountability face.
 

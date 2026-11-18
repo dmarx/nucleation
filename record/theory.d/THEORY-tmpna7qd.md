@@ -17,26 +17,26 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpu3eh7
+- LIT-2711
 corroborates:
-- CLAIM-tmpb47ul
+- CLAIM-707
 bears_on:
 - QUESTION-tmpvoufs
 summary: >-
-  Tronto (2018), [LIT-tmpu3eh7](../literature.d/LIT-tmpu3eh7.md), read in full in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md), as a read
-  neighbour of Moral Boundaries ([LIT-tmp5epfk](../literature.d/LIT-tmp5epfk.md), Unfetched) and Caring
-  Democracy ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md), Unavailable). It corroborates the upstream
-  strand of [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md), which does not rest on it: those with
+  Tronto (2018), [LIT-2711](../literature.d/LIT-2711.md), read in full in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md), as a read
+  neighbour of Moral Boundaries ([LIT-2708](../literature.d/LIT-2708.md), Unfetched) and Caring
+  Democracy ([LIT-2669](../literature.d/LIT-2669.md), Unavailable). It corroborates the upstream
+  strand of [CLAIM-707](../claims.d/CLAIM-707.md), which does not rest on it: those with
   privilege can refuse burdensome responsibilities, and responsibility
   diffused to everyone relieves those who caused the harm. It bears on
   [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) with a democratic answer in kind. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 CLAIM-tmpb47ul — Unfetched, Unavailable, Proposed or new; the works this stands in for, the work and its reading, and the entries it bears on -->
+<!-- inactive-ok-file: LIT-2708 LIT-2669 CLAIM-707 — Unfetched, Unavailable, Proposed or new; the works this stands in for, the work and its reading, and the entries it bears on -->
 
 # THEORY-tmpna7qd: Privileged irresponsibility, on Tronto's account, is the capability of the relatively privileged to refuse unpleasant or burdensome responsibilities, a major source of injustice; a caring democracy would begin by realigning the privileges that keep unfair loads of care responsibility from being discussed, and hear everyone in the reallocation
 
-Tronto (2018), [LIT-tmpu3eh7](../literature.d/LIT-tmpu3eh7.md), read in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md).
+Tronto (2018), [LIT-2711](../literature.d/LIT-2711.md), read in [NOTE-tmp0tq2n](../notes.d/NOTE-tmp0tq2n.md).
 
 ## The account
 

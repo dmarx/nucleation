@@ -27,7 +27,7 @@ summary: >-
   creating the predicament is a two-sentence aside at the close, and
   whether they always do she leaves "for another day".
 ---
-<!-- inactive-ok-file: THEORY-tmpqwuyi CLAIM-tmpa2l21 CLAIM-tmp76x3e — new or Proposed; the work read, the account filed from it and the claims it was registered for -->
+<!-- inactive-ok-file: THEORY-tmpqwuyi CLAIM-708 CLAIM-703 — new or Proposed; the work read, the account filed from it and the claims it was registered for -->
 
 # NOTE-tmp50e3o: Eggert — Dirty Hands Defended
 
@@ -86,7 +86,7 @@ high a price" (p. 15).
 
 Filed as [THEORY-tmpqwuyi](../theory.d/THEORY-tmpqwuyi.md).
 
-- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (structuring another's circumstances is a wrong of
+- **[CLAIM-708](../claims.d/CLAIM-708.md)** (structuring another's circumstances is a wrong of
   its own, beside the actor's). The exchange (A9) says Eggert "notes that
   such predicaments sometimes arise precisely because one person has
   wrongfully created circumstances". She does, in two sentences at the
@@ -98,7 +98,7 @@ Filed as [THEORY-tmpqwuyi](../theory.d/THEORY-tmpqwuyi.md).
   "stands beside it". But her agent acts permissibly, where the claim's is
   pressed into wrongdoing. No relation is written; the claim does not cite
   her.
-- **[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)**: compatible ("Duties conflict as a result of things
+- **[CLAIM-703](../claims.d/CLAIM-703.md)**: compatible ("Duties conflict as a result of things
   that happen, including other people's actions"), but she does not
   discuss manipulation or exploitation. Left open.
 

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpxr3yx'
+paper: 'LIT-2717'
 title: 'Mazinani and O''Connor — An Updated and Revised Dyadic Model of Partner Violence'
 version: 1
 history:
@@ -24,7 +24,7 @@ summary: >-
   violent acts, and a dyadic model implies neither symmetric control nor
   shared responsibility.
 ---
-<!-- inactive-ok-file: CLAIM-tmpkivlz CASE-tmpzt3zf TERM-tmp8pnnr — Proposed; the entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-709 CASE-279 TERM-tmp8pnnr — Proposed; the entries this reading bears on -->
 
 # NOTE-tmpky4pc: Mazinani and O'Connor — An Updated and Revised Dyadic Model of Partner Violence
 
@@ -99,11 +99,11 @@ responsibility.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: corroborates the separation, as a methodological
+- **[CLAIM-709](../claims.d/CLAIM-709.md)**: corroborates the separation, as a methodological
   stance: violent acts by both partners do not imply equivalence in
   "coercive control ... or responsibility", and act-based effect sizes "may
   not capture" coercive control. It is an interpretive guard, not a test.
-- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)**: "a victim’s resistance or constrained responses should
+- **[CASE-279](../cases.d/CASE-279.md)**: "a victim’s resistance or constrained responses should
   not be treated as equivalent to the perpetrator’s controlling violence"
   is the reading of Carol's strikes the case needs. The review adds no
   evidence of how often such cases occur.

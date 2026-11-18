@@ -19,11 +19,11 @@ summary: >-
   The account concerns the agent's remainder, not the arranger's wrong. It
   notes in passing that paradigm cases involve someone else creating the
   predicament, and leaves open whether they always do. It is filed without
-  relations: the claim it was registered for, [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md), cites it for
+  relations: the claim it was registered for, [CLAIM-708](../claims.d/CLAIM-708.md), cites it for
   nothing, and the paper does not carry the second-order wrong. The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpa2l21 — new or Proposed; the work, its reading and the claim it was registered for -->
+<!-- inactive-ok-file: CLAIM-708 — new or Proposed; the work, its reading and the claim it was registered for -->
 
 # THEORY-tmpqwuyi: Dirty hands are coherent, on Eggert's account: when two actual duties conflict, an act that is all things considered permissible, even required, can remain wrong, because the overridden duty survives as a moral remainder that makes remorse apt and can ground duties of apology or compensation
 

@@ -1,7 +1,7 @@
 ---
 status: Proposed
 promote_when: >-
-  The 2019 article (LIT-tmpqui4c) is read and found to state the same
+  The 2019 article (LIT-2659) is read and found to state the same
   five-condition definition, or a source other than the authors applies
   the conditions to a case and confirms that they state the account as
   given: an agent morally responsible in a domain gives a process causal
@@ -17,25 +17,25 @@ tags:
 - agency
 date: '2026-11-18'
 source:
-- LIT-tmpnl1ls
+- LIT-2691
 corroborates:
-- CLAIM-tmpb47ul
+- CLAIM-707
 - CLAIM-472
 summary: >-
-  Rubel, Castro and Pham (2021), chapter 7, [LIT-tmpnl1ls](../literature.d/LIT-tmpnl1ls.md), read in
-  [NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md) as the read neighbour of their 2019 article, [LIT-tmpqui4c](../literature.d/LIT-tmpqui4c.md).
-  It corroborates [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)'s upstream half, which does not rest on
+  Rubel, Castro and Pham (2021), chapter 7, [LIT-2691](../literature.d/LIT-2691.md), read in
+  [NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md) as the read neighbour of their 2019 article, [LIT-2659](../literature.d/LIT-2659.md).
+  It corroborates [CLAIM-707](../claims.d/CLAIM-707.md)'s upstream half, which does not rest on
   it, with the qualification that laundering needs a misleading ascription
   and a failed account; and [CLAIM-472](../claims.d/CLAIM-472.md): the decision to deploy a system is
   what must be answered for. The wording is the reader's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpqui4c CLAIM-tmpb47ul CLAIM-472 — Unfetched, Proposed or new; the chapter, the article it stands in for, its reading and the claims it bears on -->
+<!-- inactive-ok-file: LIT-2659 CLAIM-707 CLAIM-472 — Unfetched, Proposed or new; the chapter, the article it stands in for, its reading and the claims it bears on -->
 
 # THEORY-tmpwjlal: An agent launders its agency, on Rubel, Castro and Pham's account, when, being morally responsible in a domain, it gives a process causal responsibility there, ascribes the process qualities such as neutrality or reliability, and thereby obscures its own causal role and fails to give the account it owes; humans in the loop can be such a process as well as automation
 
-Rubel, Castro and Pham (2021), chapter 7, [LIT-tmpnl1ls](../literature.d/LIT-tmpnl1ls.md), read in
-[NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md); it reproduces their 2019 article, [LIT-tmpqui4c](../literature.d/LIT-tmpqui4c.md), "in large
+Rubel, Castro and Pham (2021), chapter 7, [LIT-2691](../literature.d/LIT-2691.md), read in
+[NOTE-tmpe43ee](../notes.d/NOTE-tmpe43ee.md); it reproduces their 2019 article, [LIT-2659](../literature.d/LIT-2659.md), "in large
 part".
 
 ## The account

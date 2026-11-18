@@ -55,7 +55,7 @@ summary: >-
   actions"; whether dirty hands are always produced by others' wrongdoing
   is left "for another day". Read in [NOTE-tmp50e3o](../notes.d/NOTE-tmp50e3o.md); [THEORY-tmpqwuyi](../theory.d/THEORY-tmpqwuyi.md).
 ---
-<!-- inactive-ok-file: THEORY-tmpqwuyi CLAIM-tmpa2l21 CLAIM-tmp76x3e — new, temporary codes, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpqwuyi CLAIM-708 CLAIM-703 — new, temporary codes, Proposed -->
 
 # LIT-tmp0l030: Dirty Hands Defended
 
@@ -85,6 +85,6 @@ duty to avoid something worse" is accurate as a report of a two-sentence
 aside (p. 18). She does not develop it, defers whether dirty hands always
 arise this way, and cites de Wijze for the stronger view without adopting
 it. Nothing in the paper says that creating such a predicament wrongs the
-person placed in it, so it does not support [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)'s second-order
+person placed in it, so it does not support [CLAIM-708](../claims.d/CLAIM-708.md)'s second-order
 wrong; it gives only the agent's side, a remainder beside the arranger's
-part. It leaves [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) open.
+part. It leaves [CLAIM-703](../claims.d/CLAIM-703.md) open.

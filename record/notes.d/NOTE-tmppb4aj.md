@@ -36,7 +36,7 @@ summary: >-
   rejected the Claimant's "hoax" case, held the words substantially true
   in that meaning and dismissed the claim. Ms Heard was not a party.
 ---
-<!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz LIT-tmp5254i LIT-tmp6y633 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-279 CLAIM-709 LIT-2715 LIT-2675 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmppb4aj: Nicol J — Depp II v News Group Newspapers Ltd & Anor [2020] EWHC 2911 (QB)
 
@@ -121,20 +121,20 @@ party.
 
 ## Bearing on the record
 
-- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)** (Carol and Dan). Left open. The judgment is what A
+- **[CASE-279](../cases.d/CASE-279.md)** (Carol and Dan). Left open. The judgment is what A
   abstracts from, but its findings concern pleaded assaults and the truth
   of a meaning; it makes no finding on who controlled finances, isolation
   or the relationship's terms, which the case stipulates. Its Incident 9
   finding of "violence on both sides", with Ms Heard's admitted punch
   accepted as in defence of her sister, is the only finding near the
   case's premise that the dominated partner may also strike.
-- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)** (who harmed whom and who had power are separate
+- **[CLAIM-709](../claims.d/CLAIM-709.md)** (who harmed whom and who had power are separate
   questions). The court's method answers the first question only, act by
   act, and the published meaning is about acts and injury (para 80). That
   shows an act-by-act verdict reached without deciding the allocation of
   power; it does not test the claim's other half. Not filed as a
   relation.
-- **[LIT-tmp5254i](../literature.d/LIT-tmp5254i.md)** (Johnson's typology) and **[LIT-tmp6y633](../literature.d/LIT-tmp6y633.md)** (Stark,
+- **[LIT-2715](../literature.d/LIT-2715.md)** (Johnson's typology) and **[LIT-2675](../literature.d/LIT-2675.md)** (Stark,
   coercive control) classify the kind of facts found here; neither is
   read.
 - The judgment cannot ground anything about what the US jury found in

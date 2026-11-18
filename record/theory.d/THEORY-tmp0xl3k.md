@@ -18,13 +18,13 @@ tags:
 - ethics
 date: '2026-11-18'
 source:
-- LIT-tmpsd8aw
+- LIT-2688
 corroborates:
 - CLAIM-342
 - CLAIM-406
 summary: >-
   Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian (2017; FAT*
-  2018), [LIT-tmpsd8aw](../literature.d/LIT-tmpsd8aw.md), read in [NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md). It corroborates [CLAIM-342](../claims.d/CLAIM-342.md)
+  2018), [LIT-2688](../literature.d/LIT-2688.md), read in [NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md). It corroborates [CLAIM-342](../claims.d/CLAIM-342.md)
   with a demonstrated lock-in of a loop that selects its own evidence
   through action, and qualifies its remedy: independent evidence mixed in
   only attenuates the loop, and the repair reweights the self-selected
@@ -36,7 +36,7 @@ summary: >-
 
 # THEORY-tmp0xl3k: In a Pólya-urn model of predictive policing, Ensign and colleagues show that allocating patrols by incidents discovered on patrol does not learn true crime rates: with equal rates the prior persists and with unequal rates the higher-rate region takes all, reported incidents only attenuate the loop, and dropping discovered incidents with the probability of patrol removes it
 
-Ensign et al. (2017; FAT* 2018), [LIT-tmpsd8aw](../literature.d/LIT-tmpsd8aw.md), read in [NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md).
+Ensign et al. (2017; FAT* 2018), [LIT-2688](../literature.d/LIT-2688.md), read in [NOTE-tmpwpvfg](../notes.d/NOTE-tmpwpvfg.md).
 
 ## The result
 

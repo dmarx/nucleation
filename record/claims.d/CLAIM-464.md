@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 3
+version: 6
 history:
 - version: 2
   date: '2026-10-30'
@@ -21,12 +21,28 @@ history:
     mechanisms and a rival explanation and do not meet the defeated_if.
     The claim is unchanged.
 - version: 3
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): the owner's U13 restates this claim's idea and names two
+    new cases, filed as CASE-278 (Hains Point) and CASE-276
+    (third-country removals). Title, defeater and status unchanged.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cuéllar (LIT-2706) read on 2026-11-16, NOTE-2029. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Hong Kong Monetary Authority (LIT-2696) read on 2026-11-16, NOTE-2018. No change of status or title.
+- version: 6
   date: '2026-11-17'
   note: >-
     A dated note: the owner's U13 of the exchange "Assess Depp Heard
     Abuse" restates the observation this claim was filed from, with
-    Hains Point as a new example whose facts are unverified. No other
-    change.
+    Hains Point as a new example whose facts are unverified here; CASE-278
+    and CASE-276, from the first filing of the same exchange, hold them
+    (pointer added at the reconciliation of 2026-11-18). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -199,6 +215,61 @@ infeasibility may be part of the object of normative evaluation rather than
 an excuse that ends it". That is this claim with [CLAIM-518](CLAIM-518.md)'s histories. No
 new claim filed; mapped here.
 
+## Note of 2026-11-15: the owner's U13, two more cases, from "Assess Depp Heard Abuse"
+
+
+At U13 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c) the owner
+quoted A23, "The speed at which an institution can act imposes an upper
+bound on the practical effectiveness of anyone else's right to intervene",
+and called it "a concise characterization of how the executive branch under
+trump has attempted to bypass oversight and regulation, e.g. third country
+deportations, the eastwing/ballroom, haines point...". That is this claim's
+idea from 2026-10-26 arrived at again by another route (A's sentence came
+out of the owner's U11 on procedural friction), so no new claim is filed.
+The owner's "attempted to bypass" is a claim of intent, which this claim
+leaves aside; it is recorded in the cases, not here.
+
+- **Hains Point** ([CASE-278](../cases.d/CASE-278.md)) adds a mechanism to the three in the
+  table: trees cut while the government's position in court was that no
+  final, reviewable plan existed, until the court found one had. Acting
+  while denying that there is a decision to review raises the cost of a
+  remedy without changing the standard, which is this claim's effect. It is
+  also a partial counter-instance: a notice requirement and an injunction
+  kept the remaining alternatives open.
+- **Third-country removals** ([CASE-276](../cases.d/CASE-276.md)) are jurisdictional
+  displacement again, beside CECOT, with the difference that the window for
+  a prior hearing was closed by the Supreme Court's own stays, not by
+  disregard of an order.
+
+A35 §4 of the same exchange reads this claim's measure and A9's
+same-time comparison back correctly, and adds a name, "the second-order form
+of a fait accompli": an act that changes "the other actor's capacity to
+restore or reopen those options", not only the options. That is what the
+claim already says; mapped, not filed.
+
+## Note of 2026-11-16: Cuéllar, read
+
+The exchange (A25) cited Cuéllar beside the cases this claim names.
+Read, he does not treat the claim's mechanism, an intervention that raises
+the cost of its own correction. What he gives is the claim's timing
+condition: the White House can "mount seriatim at[tacks]" that a court may
+thwart "eventually" but that cost "those targeted in the meantime." (p. 647).
+In note 225, universities won back some funding streams while disruption
+still imposed costs. That is loss before effective remedy, not a raised
+cost of the corrective outcome. His notes 154 and 167 cite the Abrego Garcia
+order and the district court's finding of willful noncompliance,
+and he uses them as grounds for relaxing the presumption of
+regularity, not for jurisdictional displacement. Relation: none.
+
+## Note of 2026-11-16: Hong Kong Monetary Authority, read
+
+The HKMA's materiality test holds this claim's logic in miniature: "a failed
+gate on a reversible action still / allows correction, but a failed gate on
+an irreversible action does not." (§8.1, p. 43), with payment finality as the
+standard example. An irreversible act removes the correction later review
+would have allowed. Relation: none.
+
 ## Note of 2026-11-17: the owner's observation restated, and Hains Point, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: CASE-tmpdn372 CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
@@ -237,8 +308,11 @@ preliminary, so that a reviewable decision is not yet there to challenge.
 A25: "the government exercises effective control through preliminary
 actions, while opponents must establish that those actions are legally
 ripe for review." A25 also counts the 14 November order as "an important
-counterexample to an overly deterministic version of our theory". No case
-is filed until the facts are checked.
+counterexample to an overly deterministic version of our theory". This
+note files no case of its own: the filing of the first share of the same
+exchange (PR 510) holds Hains Point, documented from reports checked on
+2026-11-15, as [CASE-278](../cases.d/CASE-278.md), and the third-country removals as
+[CASE-276](../cases.d/CASE-276.md).
 
 A25's limiting questions fit this claim's edge on intent: "whether
 pre-action review was required, whether urgency was genuine, whether less

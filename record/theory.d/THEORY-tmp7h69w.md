@@ -15,12 +15,12 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpnmwlk
+- LIT-2665
 bears_on:
 - QUESTION-tmp2t6ve
 - QUESTION-tmpvoufs
 summary: >-
-  Elish (2019), [LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md), read in full in [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md). [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)
+  Elish (2019), [LIT-2665](../literature.d/LIT-2665.md), read in full in [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md). [CLAIM-707](../claims.d/CLAIM-707.md)
   is built on this concept, and the reading supports its blame part, its
   credit to the arrangement and its upstream standards; it is proposed as
   that claim's grounds (a note to the lead, since a claim's grounds are
@@ -28,11 +28,11 @@ summary: >-
   and its call to rethink certification, weakly, on [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md). The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul — new or Proposed; the work, its reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-707 — new or Proposed; the work, its reading and the entries it bears on -->
 
 # THEORY-tmp7h69w: A moral crumple zone, on Elish's account: when control over a highly automated system is distributed, responsibility for its failure can be misattributed to the nearest human operator, who had limited control, so that blame protects the integrity of the technological system; this is likeliest right after a publicized accident and is not a property of every automated system
 
-Elish (2019), [LIT-tmpnmwlk](../literature.d/LIT-tmpnmwlk.md), read in [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md).
+Elish (2019), [LIT-2665](../literature.d/LIT-2665.md), read in [NOTE-tmps5u6y](../notes.d/NOTE-tmps5u6y.md).
 
 ## The account
 

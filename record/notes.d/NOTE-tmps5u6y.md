@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpnmwlk
+paper: LIT-2665
 title: 'Elish — Moral Crumple Zones'
 version: 1
 history:
@@ -28,7 +28,7 @@ summary: >-
   arise; it is not universal (Therac-25), and forms likeliest right after a
   publicized accident.
 ---
-<!-- inactive-ok-file: THEORY-tmp7h69w CLAIM-tmpb47ul CLAIM-tmpe5u7i CASE-tmpnrxpi — new or Proposed; the work read, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmp7h69w CLAIM-707 CLAIM-713 CASE-tmpnrxpi — new or Proposed; the work read, the account filed from it and the entries it bears on -->
 
 # NOTE-tmps5u6y: Elish — Moral Crumple Zones
 
@@ -105,7 +105,7 @@ responsibility" (p. 52), not legal liability.
 
 Filed as [THEORY-tmp7h69w](../theory.d/THEORY-tmp7h69w.md).
 
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)** is built on this concept, and the reading supports
+- **[CLAIM-707](../claims.d/CLAIM-707.md)** is built on this concept, and the reading supports
   its blame part: blame lands on the nearest operator, sparing the system.
   It supports two further parts: credit to the arrangement (p. 49,
   automation "safer and superior in most instances") and upstream-set
@@ -120,10 +120,10 @@ Filed as [THEORY-tmp7h69w](../theory.d/THEORY-tmp7h69w.md).
 - **[QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md)**: Elish names certification reform as a lever
   (p. 54), but no instrument by which operators hold principals to
   account. Weak.
-- **[CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)**: nothing on conscientiousness or moral subsidy. Left
+- **[CLAIM-713](../claims.d/CLAIM-713.md)**: nothing on conscientiousness or moral subsidy. Left
   open.
 - **The Uber case.** Elish wrote from the NTSB's preliminary report; the
-  final report ([LIT-tmpmlje2](../literature.d/LIT-tmpmlje2.md), [NOTE-tmpokcvk](NOTE-tmpokcvk.md)) found the operator streaming
+  final report ([LIT-2664](../literature.d/LIT-2664.md), [NOTE-tmpokcvk](NOTE-tmpokcvk.md)) found the operator streaming
   video, not at the touch screen. The case is filed from the final report
   as [CASE-tmpnrxpi](../cases.d/CASE-tmpnrxpi.md).
 

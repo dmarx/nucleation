@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmp3iik8
+paper: LIT-2666
 title: 'Zeiser — Owning Decisions'
 version: 1
 history:
@@ -25,7 +25,7 @@ summary: >-
   in degrees, and allows "responsibility without attributability" where
   only structures of blame and liability are wanted.
 ---
-<!-- inactive-ok-file: THEORY-tmpzdtc8 QUESTION-068 TERM-tmp8pnnr CLAIM-tmpb47ul — new, Deferred or Proposed; the work read, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmpzdtc8 QUESTION-068 TERM-tmp8pnnr CLAIM-707 — new, Deferred or Proposed; the work read, the account filed from it and the entries it bears on -->
 
 # NOTE-tmpnpm7l: Zeiser — Owning Decisions
 
@@ -102,10 +102,10 @@ Filed as [THEORY-tmpzdtc8](../theory.d/THEORY-tmpzdtc8.md).
 - **[TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)**: its attributability sense ("Whose action, judgment,
   or institutional process was it?") is broader than Zeiser's (whose
   value-judgements a decision expresses). A source for the narrower sense.
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**: a user can be accountable for a decision not
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**: a user can be accountable for a decision not
   attributable to her, one way blame and ownership diverge; Zeiser does
   not discuss blame landing downstream. No relation written.
-- **Santoni de Sio and van den Hoven ([LIT-tmpqyz50](../literature.d/LIT-tmpqyz50.md))**: Zeiser places his
+- **Santoni de Sio and van den Hoven ([LIT-2705](../literature.d/LIT-2705.md))**: Zeiser places his
   account beside theirs, as the face of responsibility theirs leaves out.
 
 ## Limitations

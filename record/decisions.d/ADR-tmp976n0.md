@@ -91,6 +91,6 @@ The read-and-file skill's step 5 and its reader's brief carry the two kinds.
 ## Consequences
 
 - The readings of 2026-11-18 cite this decision in the history of
-  [LIT-tmpn0mo7](../literature.d/LIT-tmpn0mo7.md) and [NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md) (Strawson), and of [LIT-tmplag34](../literature.d/LIT-tmplag34.md) and its
+  [LIT-2679](../literature.d/LIT-2679.md) and [NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md) (Strawson), and of [LIT-tmplag34](../literature.d/LIT-tmplag34.md) and its
   NOTE (Scanlon's reply). Both drop "to be confirmed by the owner".
 - Proposed until adopted. The owner ruled on its substance on 2026-11-18.

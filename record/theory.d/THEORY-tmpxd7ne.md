@@ -15,16 +15,16 @@ date: '2026-11-18'
 source:
 - LIT-tmpjl3bp
 corroborates:
-- CLAIM-tmpkivlz
+- CLAIM-709
 summary: >-
   Hardesty et al. (2015), [LIT-tmpjl3bp](../literature.d/LIT-tmpjl3bp.md), read in full in [NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md), as
-  the read neighbour of Johnson 2008 ([LIT-tmp5254i](../literature.d/LIT-tmp5254i.md)). It corroborates
-  [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md), which does not rest on it: the differences between the
+  the read neighbour of Johnson 2008 ([LIT-2715](../literature.d/LIT-2715.md)). It corroborates
+  [CLAIM-709](../claims.d/CLAIM-709.md), which does not rest on it: the differences between the
   violent groups track the control context, not the amount of violence.
   The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp5254i — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: LIT-2715 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; the reading and the claim it corroborates -->
 
 # THEORY-tmpxd7ne: Hardesty, Crossman, Haselschwerdt, Raffaelli, Ogolsky and Johnson find, in 190 divorcing mothers, that coercive control scored by the frequency of tactics rather than their number yields stable high- and low-control groups, and that violence with high control differs from violence with low control in fear, threat and harassment when the frequency and severity of violence are held constant
 

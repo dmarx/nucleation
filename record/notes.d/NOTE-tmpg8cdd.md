@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpkuudf'
+paper: 'LIT-2693'
 title: 'Umpleby — Vladimir Lefebvre''s Theory of Two Systems of Ethical Cognition'
 version: 1
 history:
@@ -12,8 +12,8 @@ history:
     (pp. 65–67), text by pdftotext; the journal is listed on DOAJ. The
     quotes below were rechecked by the filer against the same copy on
     2026-11-18. Read as a stand-in for Lefebvre, Algebra of Conscience
-    (1982), LIT-tmpkqy2y, and, for what little it says, Lefebvre (1980),
-    LIT-tmpawg9f.
+    (1982), LIT-2663, and, for what little it says, Lefebvre (1980),
+    LIT-2697.
 date: '2026-11-18'
 summary: >-
   A short, memoir-style exposition by a cybernetician who worked with
@@ -27,7 +27,7 @@ summary: >-
   misunderstandings to the difference, from anecdote, and reports without
   a source that the theory was used at the highest levels.
 ---
-<!-- inactive-ok-file: CLAIM-tmp76x3e LIT-tmpawg9f LIT-tmpkqy2y — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-703 LIT-2697 LIT-2663 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpg8cdd: Umpleby — Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition
 
@@ -78,7 +78,7 @@ dissembler; reflexive control (a keyword only).
 
 ## Bearing on the record
 
-- **[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)** (governing an agent through its own sound values).
+- **[CLAIM-703](../claims.d/CLAIM-703.md)** (governing an agent through its own sound values).
   Left open. Lefebvre models which choices count as good within a system,
   the kind of model of a target's evaluative criteria a reflexive
   controller would need, but nothing here links it to manipulation. A's
@@ -90,12 +90,12 @@ dissembler; reflexive control (a keyword only).
 
 ## Connections
 
-Stands in for Algebra of Conscience (1982), [LIT-tmpkqy2y](../literature.d/LIT-tmpkqy2y.md), for its thesis
+Stands in for Algebra of Conscience (1982), [LIT-2663](../literature.d/LIT-2663.md), for its thesis
 (two ethical systems, Western and Soviet) and its compromise and
 confrontation typology, which it attributes to the book. It reproduces
 neither the Boolean model nor the derivations, and gives no page
 references to the book. It does not cite Lefebvre's 1980 paper,
-[LIT-tmpawg9f](../literature.d/LIT-tmpawg9f.md), and cannot stand in for what that paper proves.
+[LIT-2697](../literature.d/LIT-2697.md), and cannot stand in for what that paper proves.
 
 ## Limitations
 

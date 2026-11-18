@@ -14,11 +14,11 @@ tags:
 - cognition
 date: '2026-11-18'
 source:
-- LIT-tmprsf6f
+- LIT-2687
 corroborates:
 - CLAIM-tmp238zy
 summary: >-
-  Natali, Naiseh, Cabitza and Frischmann (2025), [LIT-tmprsf6f](../literature.d/LIT-tmprsf6f.md), read in
+  Natali, Naiseh, Cabitza and Frischmann (2025), [LIT-2687](../literature.d/LIT-2687.md), read in
   full in [NOTE-tmpyyamt](../notes.d/NOTE-tmpyyamt.md): a four-page poster that proposes the account and
   an agenda for testing it, with no study of its own. It corroborates
   [CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md), which does not rest on it: every mechanism it names acts
@@ -29,7 +29,7 @@ summary: >-
 
 # THEORY-tmpiwzpj: Deliberately designed friction in human-AI interaction, such as cognitive forcing functions, pauses, justification prompts and AI that challenges rather than obeys, can counter automation bias and preserve users' critical reasoning and agency, if it is calibrated against frustration
 
-Natali, Naiseh, Cabitza & Frischmann (2025), [LIT-tmprsf6f](../literature.d/LIT-tmprsf6f.md).
+Natali, Naiseh, Cabitza & Frischmann (2025), [LIT-2687](../literature.d/LIT-2687.md).
 
 ## The account
 

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpxpu3p
 title: 'Does transport of evaluative representations between contexts, with the evaluated situation held fixed, admit a connection fixed by independently established relations rather than chosen, and is its holonomy around a loop of contexts ever nontrivial?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,14 @@ history:
     Note of 2026-10-29 added, from the reading of Sengupta et al.
     (NOTE-1350): its connection is fixed by the Fisher metric
     and not about context. The question is unchanged.
+- version: 4
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added, from the continuation of the exchange "Explain
+    String Theory" (A7): the abelian Higgs model, held through Tong
+    (NOTE-1694), as a positive control that shows the three declarations a
+    gauge-theoretic account of transport between evaluative contexts would
+    need. The question is unchanged.
 tags:
 - mathematics
 - ethics
@@ -173,3 +181,12 @@ not an answer, for two reasons this question already gives.
 
 The question is unchanged and stays Open. No status, title or warrant
 changes.
+
+## Note of 2026-11-15: the abelian Higgs model as a positive control for gauge analogies
+
+A in the continuation of the exchange "Explain String Theory" (A7) suggests that the abelian Higgs model, which the record holds through Tong ([NOTE-1694](../notes.d/NOTE-1694.md)), can serve the question as a positive control. There, φ ↦ e^{ieχ}φ and A ↦ A + ∂χ change representation while flux and holonomy are observable. A gauge-theoretic account of transport between evaluative contexts would need the same three declarations:
+- which transformations are mere changes of representation;
+- which observables must be invariant;
+- how transport is fixed by relations justified independently of the modeller.
+
+Without the third, an arbitrary transport manufactures arbitrary holonomy. That is the question's own caution, given a worked case. No status change.

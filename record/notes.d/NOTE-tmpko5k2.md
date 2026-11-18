@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmptnrz5
+paper: LIT-2709
 title: 'Parra Jounou and Tronto — Care ethics in theory and practice'
 version: 1
 history:
@@ -11,8 +11,8 @@ history:
     repository,
     https://ddd.uab.cat/pub/artpub/2024/291366/conpolthe_a2024m2d15_s41296-024-00680-6.pdf
     (16 pages, CC BY 4.0), text by pdftotext. Read as a weak stand-in for
-    Tronto's Moral Boundaries (LIT-tmp5epfk) and Caring Democracy
-    (LIT-tmpsm285). The quotes below were rechecked by the filer against
+    Tronto's Moral Boundaries (LIT-2708) and Caring Democracy
+    (LIT-2669). The quotes below were rechecked by the filer against
     the same copy on 2026-11-18.
 date: '2026-11-18'
 summary: >-
@@ -23,7 +23,7 @@ summary: >-
   irresponsibility "is a kind of bad care" whose danger is "to cut off
   one's reaction to others".
 ---
-<!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 THEORY-tmprxeh7 CLAIM-tmpb47ul — Unfetched, Unavailable, Proposed or new; the works this stands in for, the account filed from it and the claim it bears on -->
+<!-- inactive-ok-file: LIT-2708 LIT-2669 THEORY-tmprxeh7 CLAIM-707 — Unfetched, Unavailable, Proposed or new; the works this stands in for, the account filed from it and the claim it bears on -->
 
 # NOTE-tmpko5k2: Parra Jounou and Tronto — Care ethics in theory and practice
 
@@ -64,7 +64,7 @@ Filed as [THEORY-tmprxeh7](../theory.d/THEORY-tmprxeh7.md).
   image is the nearest any text read comes to A17's "socially organized
   inattention", but it is an image, not an account, and the inattention
   phrase itself is in no text read.
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**: weakly, the image of not knowing those who do the
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**: weakly, the image of not knowing those who do the
   work. No relation is written.
 
 ## Limitations

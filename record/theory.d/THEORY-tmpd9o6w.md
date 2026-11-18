@@ -14,23 +14,23 @@ tags:
 - philosophy-of-technology
 date: '2026-11-18'
 source:
-- LIT-tmp8l2be
+- LIT-2661
 corroborates:
 - CLAIM-410
-- CLAIM-tmp11xvc
+- CLAIM-710
 summary: >-
-  Bovens & Zouridis (2002), [LIT-tmp8l2be](../literature.d/LIT-tmp8l2be.md), read from the authors'
+  Bovens & Zouridis (2002), [LIT-2661](../literature.d/LIT-2661.md), read from the authors'
   manuscript in [NOTE-tmp2pb8c](../notes.d/NOTE-tmp2pb8c.md): two Dutch cases, student grants and traffic
-  fines. It corroborates [CLAIM-410](../claims.d/CLAIM-410.md)'s transferred case and [CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md)
+  fines. It corroborates [CLAIM-410](../claims.d/CLAIM-410.md)'s transferred case and [CLAIM-710](../claims.d/CLAIM-710.md)
   (the human points where a case could be redirected are removed, the
   only one left opened by the citizen's objection), neither of which rests
   on it. The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp11xvc — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-710 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # THEORY-tmpd9o6w: Information technology has turned some large executive agencies from street-level into system-level bureaucracies, in which case-level administrative discretion all but vanishes and passes to the designers and legal-policy staff who translate law into algorithms, so that the constitutional problem moves from the legality of individual decisions to political accountability for system design, with a new risk of arbitrariness through rigidity
 
-Bovens & Zouridis (2002), [LIT-tmp8l2be](../literature.d/LIT-tmp8l2be.md).
+Bovens & Zouridis (2002), [LIT-2661](../literature.d/LIT-2661.md).
 
 ## The evidence
 

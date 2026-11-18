@@ -15,15 +15,15 @@ date: '2026-11-18'
 source:
 - LIT-tmpnw255
 corroborates:
-- CLAIM-tmpkivlz
+- CLAIM-709
 summary: >-
   Stark (2015), [LIT-tmpnw255](../literature.d/LIT-tmpnw255.md), read in full in [NOTE-tmpputb4](../notes.d/NOTE-tmpputb4.md), as the read
-  neighbour of Stark 2007 ([LIT-tmp6y633](../literature.d/LIT-tmp6y633.md)). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md),
+  neighbour of Stark 2007 ([LIT-2675](../literature.d/LIT-2675.md)). It corroborates [CLAIM-709](../claims.d/CLAIM-709.md),
   which does not rest on it: the pattern is not a tally of its acts. The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp6y633 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; the reading and the claim it corroborates -->
+<!-- inactive-ok-file: LIT-2675 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; the reading and the claim it corroborates -->
 
 # THEORY-tmpt60p9: Stark holds that coercive control, a strategic course of conduct combining violence, intimidation, isolation and control to dominate a partner and deprive her of rights and liberties, is the typical form of partner abuse, and that responses focused on discrete assaults miss it
 

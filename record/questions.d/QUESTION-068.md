@@ -4,7 +4,7 @@ status: Deferred
 formerly:
 - QUESTION-tmpvu7vk
 title: 'Would settling whose a will-organization is settle the agent''s accountability for what it does, or does accountability need conditions, such as normative competence and avoidability, that ownership does not supply?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -18,6 +18,10 @@ history:
     answer it. That makes it a part of the ownership question. Both
     are on the authenticity line, so no line changes. No other change.
 - version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Zeiser (LIT-2666) read on 2026-11-16, NOTE-2007. No change of status or title.
+- version: 4
   date: '2026-11-17'
   note: >-
     Readings of King (for Watson) and of Strawson filed, each with
@@ -63,10 +67,14 @@ refines:
 
 A case in which an agent's will-organization is plainly her own and she is still not accountable, or the converse, whose verdict survives the dispute between [THEORY-118](../theory.d/THEORY-118.md) and [THEORY-119](../theory.d/THEORY-119.md). Or an argument that ownership already contains the competence and control conditions. A further survey of Frankfurt cases would not answer it.
 
-## Note of 2026-11-17: Watson's fairness and standing conditions, through King, and Strawson's exemptions, read
-<!-- inactive-ok-file: THEORY-tmptax6l THEORY-tmpjhphq LIT-tmpmsh0d — new or Unavailable; the readings filed on 2026-11-18 and the unread paper one quotes -->
+## Note of 2026-11-16: Zeiser, read
 
-King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md)), quoting Watson 1996 ([LIT-tmpmsh0d](../literature.d/LIT-tmpmsh0d.md), unread); Strawson 1962, read ([NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md), [THEORY-tmpjhphq](../theory.d/THEORY-tmpjhphq.md)). Both THEORYs now carry `bears_on` this question.
+Zeiser (2024, [LIT-2666](../literature.d/LIT-2666.md), [NOTE-2007](../notes.d/NOTE-2007.md)) holds that "who is to blame?", "who made the decision?" and "who is in a position justify this decision?" can have different answers, and gives ordinary cases: "Sometimes, for example, the right person to blame didn’t actually make the decision", and a user relying on a black-box tool may lack answerability and still deserve blame for negligence. In decision support, a human can be the accountable decision-maker of a decision whose values are not hers (the attributability gap), and he treats "responsibility without attributability" as a coherent aim where blame and liability are what matter. This is evidence for the question's second horn, that accountability does not follow from ownership. It leaves open the question's real target, whether ownership of a will-organization (not of a single decision's values) would supply the competence and control conditions.
+
+## Note of 2026-11-17: Watson's fairness and standing conditions, through King, and Strawson's exemptions, read
+<!-- inactive-ok-file: THEORY-tmptax6l THEORY-tmpjhphq LIT-2718 — new or Unavailable; the readings filed on 2026-11-18 and the unread paper one quotes -->
+
+King 2013, read ([NOTE-tmplo4r7](../notes.d/NOTE-tmplo4r7.md), [THEORY-tmptax6l](../theory.d/THEORY-tmptax6l.md)), quoting Watson 1996 ([LIT-2718](../literature.d/LIT-2718.md), unread); Strawson 1962, read ([NOTE-tmpnfib1](../notes.d/NOTE-tmpnfib1.md), [THEORY-tmpjhphq](../theory.d/THEORY-tmpjhphq.md)). Both THEORYs now carry `bears_on` this question.
 
 The question asks whether accountability needs conditions, "such as normative competence and avoidability, that ownership does not supply". Two readings say yes, in different ways.
 

@@ -13,9 +13,9 @@ tags:
 - social-science
 date: '2026-11-18'
 source:
-- LIT-tmp9xidg
+- LIT-2710
 summary: >-
-  Harsey and Freyd (2023), [LIT-tmp9xidg](../literature.d/LIT-tmp9xidg.md), read in [NOTE-tmp110fx](../notes.d/NOTE-tmp110fx.md). It
+  Harsey and Freyd (2023), [LIT-2710](../literature.d/LIT-2710.md), read in [NOTE-tmp110fx](../notes.d/NOTE-tmp110fx.md). It
   carries no relation to [CLAIM-tmpciy9q](../claims.d/CLAIM-tmpciy9q.md), for which the exchange cited it:
   its DARVO frames an accusation as false, and the claim is about a true
   accusation of a wrong the accuser arranged. The wording is the
@@ -25,7 +25,7 @@ summary: >-
 
 # THEORY-tmppzel6: Harsey and Freyd find, in a vignette experiment with undergraduates, that a perpetrator's DARVO statement, compared with none, leads observers to rate a sexual-assault victim as less believable and more abusive and the perpetrator as more believable, less responsible and less abusive, and lowers their support for punishing him while raising it for punishing her
 
-Harsey and Freyd (2023), [LIT-tmp9xidg](../literature.d/LIT-tmp9xidg.md).
+Harsey and Freyd (2023), [LIT-2710](../literature.d/LIT-2710.md).
 
 ## The result
 

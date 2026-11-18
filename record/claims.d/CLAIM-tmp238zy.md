@@ -33,12 +33,14 @@ line:
 - dependence-and-domination
 rests_on:
 - CLAIM-349
-- CLAIM-tmpb47ul
+- CLAIM-707
 grounds:
 - LIT-2283
+complements:
+- CLAIM-712
 summary: >-
   A's, from A23 §7 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
-  developing the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)): "**A system can make
+  developing the owner's U11 ([CLAIM-710](CLAIM-710.md)): "**A system can make
   individuals think harder while leaving the institution's authority
   completely untouched.**" Cognitive friction, as in Buçinca, Malaya and
   Gajos's cognitive forcing functions ([LIT-2283](../literature.d/LIT-2283.md), read), makes people
@@ -46,12 +48,14 @@ summary: >-
   protected refusal, independent review and suspension. The perverse case:
   "The system demands that humans exercise judgment, then treats that
   demand as evidence that the humans owned the resulting decisions", which
-  A calls "a possible *moral crumple zone* mechanism" ([CLAIM-tmpb47ul](CLAIM-tmpb47ul.md)).
+  A calls "a possible *moral crumple zone* mechanism" ([CLAIM-707](CLAIM-707.md)).
   It rests on [CLAIM-349](CLAIM-349.md), on which access to a signal, its authority over
   action and action on it are separable. The wording is A's; adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpb47ul CLAIM-tmp11xvc CLAIM-tmpohafo — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-712 CLAIM-702 CASE-277 ARG-112 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-707 CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmpohafo — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CLAIM-tmp238zy: Friction that makes the people in a process think before accepting an output differs from friction that makes the institution answerable to their objections, so a system can make individuals think harder while leaving the institution's authority untouched, and the added scrutiny can then serve as evidence that the individuals owned decisions whose conditions they could not change
 
@@ -90,14 +94,23 @@ convenient repository of blame**".
   over action and action on it are separable. Cognitive friction works on
   access; political friction on authority. The claim rests on it for that
   split.
-- **[CLAIM-tmpb47ul](CLAIM-tmpb47ul.md)** (same exchange): blame lands where failure becomes
-  visible and credit goes to the system. The perverse case is one way that
+- **[CLAIM-707](CLAIM-707.md)** (same exchange): blame lands where failure becomes
+  visible; [CLAIM-702](CLAIM-702.md) adds that credit goes to the system. The perverse case is one way that
   happens, and the claim rests on it for that part.
 - **[LIT-2283](../literature.d/LIT-2283.md)** grounds only the cognitive half: forcing functions exist and
   can reduce overreliance. It says nothing about authority.
 - [CLAIM-tmpohafo](CLAIM-tmpohafo.md)'s interruption right is political friction stated as an
-  entitlement of the affected party; [CLAIM-tmp11xvc](CLAIM-tmp11xvc.md) is the owner's thesis
+  entitlement of the affected party; [CLAIM-710](CLAIM-710.md) is the owner's thesis
   both refine.
+- **[CLAIM-712](CLAIM-712.md)**, from the first share of the same exchange, is distinct:
+  traceability does not settle fair attribution, shown by two hospitals
+  with equally complete audit trails ([CASE-277](../cases.d/CASE-277.md), argued in [ARG-112](../arguments.d/ARG-112.md)).
+  That claim is about what a record of the decision leaves out; this one is
+  about a requirement to scrutinize that gives no authority to act and is
+  then cited as ownership. The two complement each other: a verification
+  prompt is one way a complete trail comes to show the last human approval
+  and not the conditions of judgment. The first filing mapped A23 §7 into
+  [CLAIM-710](CLAIM-710.md)'s body and did not file it.
 
 ## What it does not say
 

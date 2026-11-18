@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp5i6w4'
+paper: 'LIT-2678'
 title: 'Lohmann et al. — The Trauma and Mental Health Impacts of Coercive Control'
 version: 1
 history:
@@ -25,7 +25,7 @@ summary: >-
   stronger, against the authors' prediction; they read the parity partly
   as a measurement problem. No causal link is established.
 ---
-<!-- inactive-ok-file: CLAIM-tmpkivlz CLAIM-545 — Proposed; the entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-709 CLAIM-545 — Proposed; the entries this reading bears on -->
 
 # NOTE-tmphdvuc: Lohmann et al. — The Trauma and Mental Health Impacts of Coercive Control
 
@@ -87,7 +87,7 @@ depression are no stronger than those of other forms of IPV.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: neither corroborates nor bounds it, and the record
+- **[CLAIM-709](../claims.d/CLAIM-709.md)**: neither corroborates nor bounds it, and the record
   should not cite it for more. A cited it as evidence that coercive
   control "has trauma and mental-health effects of its own". The review
   finds associations, not effects, and finds them no larger than those of

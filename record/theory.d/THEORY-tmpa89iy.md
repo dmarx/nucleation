@@ -15,13 +15,13 @@ tags:
 - philosophy-of-technology
 date: '2026-11-18'
 source:
-- LIT-tmp7wp1i
+- LIT-2719
 corroborates:
 - CLAIM-tmpohafo
 - CLAIM-tmph28l6
 - CLAIM-410
 summary: >-
-  Citron (2008), [LIT-tmp7wp1i](../literature.d/LIT-tmp7wp1i.md), read in [NOTE-tmplslae](../notes.d/NOTE-tmplslae.md). It corroborates
+  Citron (2008), [LIT-2719](../literature.d/LIT-2719.md), read in [NOTE-tmplslae](../notes.d/NOTE-tmplslae.md). It corroborates
   three claims that do not rest on it: [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md) (notice, hearing and
   pre-deprivation process as distinct safeguards that fail differently),
   [CLAIM-tmph28l6](../claims.d/CLAIM-tmph28l6.md) (automation lowers the cost of deciding while challenging
@@ -33,7 +33,7 @@ summary: >-
 
 # THEORY-tmpa89iy: Automated decision systems in public administration combine individual adjudication with rulemaking while observing the procedural safeguards of neither, because programmers change policy when they encode it and the systems decide cases opaquely, so that a technological due process is needed to restore those safeguards' aims
 
-Citron (2008), [LIT-tmp7wp1i](../literature.d/LIT-tmp7wp1i.md).
+Citron (2008), [LIT-2719](../literature.d/LIT-2719.md).
 
 ## The argument
 

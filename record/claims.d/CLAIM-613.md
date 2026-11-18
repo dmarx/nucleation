@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7fzb9
 title: "A fork can be the construction of a new organization through which a disposition that the parent's governance kept ineffective gains efficacy, and not only one of several successors of the parent"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -24,6 +24,10 @@ history:
     part in that line's argument, since it bears on QUESTION-041, a
     question of that line. Found by the lint sweep of 2026-11-10 as a
     `rests_on` step across lines. No other change.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Frey and Schneider (LIT-2704) read on 2026-11-16, NOTE-1995. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -114,3 +118,9 @@ that signals to the old one.
 No case is filed for it. Hirschman's exit and voice is the obvious
 literature, and the record holds it: [THEORY-152](../theory.d/THEORY-152.md), Hirschman's 1974 revisiting
 of his 1970 book. A does not cite it.
+
+## Note of 2026-11-16: Frey and Schneider, read
+
+The paper's "entrepreneurial exit" (Gofen), forking a community or codebase, is this claim's fork as the
+construction of a new organization; with Eghbal's caution that "Forking is a technical right. Socially,
+it’s much harder to execute". Relation: bears_on.

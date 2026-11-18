@@ -29,12 +29,14 @@ line:
 - dependence-and-domination
 rests_on:
 - CLAIM-462
-- CLAIM-tmp11xvc
+- CLAIM-710
 uses:
 - TERM-124
+complements:
+- CLAIM-706
 summary: >-
   A's, from A23 §2 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
-  developing the owner's U11 ([CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)) at the owner's U12
+  developing the owner's U11 ([CLAIM-710](CLAIM-710.md)) at the owner's U12
   ("flesh this out further"): "**Execution friction:** The difficulty of
   imposing a decision" and "**Contestation friction:** The difficulty of
   questioning, suspending, or reversing it." Automation "can **redistribute
@@ -47,7 +49,9 @@ summary: >-
   the costs per decision and per challenge that separate them. Restated at
   A26 §VI. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp11xvc CLAIM-tmpcpijj CASE-tmpdn372 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-706 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
+<!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmpcpijj CASE-tmpdn372 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 <!-- inactive-ok-file: TERM-124 CLAIM-669 — Proposed; the record's term for domination and a neighbouring claim -->
 
 # CLAIM-tmph28l6: The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation
@@ -94,7 +98,7 @@ just distribution of friction.**"
   one pair of such relations, the institution's cost per decision and the
   affected party's cost per challenge, and how automation moves them
   apart. It rests on [CLAIM-462](CLAIM-462.md) for the separation.
-- **[CLAIM-tmp11xvc](CLAIM-tmp11xvc.md)** (the owner's) says that friction is where
+- **[CLAIM-710](CLAIM-710.md)** (the owner's) says that friction is where
   intervention is possible; this says that friction is not one quantity,
   and whose friction is removed decides whose power grows.
 - **[CLAIM-tmpcpijj](CLAIM-tmpcpijj.md)** (from the same exchange) separates authority over a
@@ -108,6 +112,14 @@ just distribution of friction.**"
   own cost of acting holds part of what [TERM-124](../terms.d/TERM-124.md) calls a capacity to set
   the terms on which the other can contest.
 - [CASE-tmpdn372](../cases.d/CASE-tmpdn372.md) proposes a study that varies speed alone.
+- **[CLAIM-706](CLAIM-706.md)**, from the first share of the same exchange, is the
+  nearest held entry and is distinct: it says that execution impedance,
+  independent constraint and intervention opportunity are three properties
+  of a step that vary independently, in the assistant's voice. This claim
+  is A's and is about two parties' costs, the institution's per decision
+  and the affected party's per challenge, and the power that moves when
+  they part. The first filing mapped A23 §2 into [CLAIM-710](CLAIM-710.md)'s body and did
+  not file it; it is filed here as A's.
 
 ## What it does not say
 

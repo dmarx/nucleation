@@ -59,12 +59,12 @@ summary: >-
   and Incidents 6 and 11 not proved, rejected the Claimant's "hoax" case,
   held the words substantially true and dismissed the claim. Ms Heard was
   not a party. Read in [NOTE-tmppb4aj](../notes.d/NOTE-tmppb4aj.md); the court's findings are
-  [THEORY-tmpfnn68](../theory.d/THEORY-tmpfnn68.md). It is the case [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md) and [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)
+  [THEORY-tmpfnn68](../theory.d/THEORY-tmpfnn68.md). It is the case [CASE-279](../cases.d/CASE-279.md) and [CLAIM-709](../claims.d/CLAIM-709.md)
   abstract from, and makes no finding on the allocation of power. A's
   "Depp's attempt to appeal was unsuccessful" is not in this judgment and
   stays unverified here.
 ---
-<!-- inactive-ok-file: CASE-tmpzt3zf CLAIM-tmpkivlz THEORY-tmpfnn68 — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CASE-279 CLAIM-709 THEORY-tmpfnn68 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # LIT-tmpqju5l: Depp II v News Group Newspapers Ltd & Anor
 
@@ -86,7 +86,7 @@ summary: >-
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A2 as the British judgment A treats as the strongest evidence in its assessment: 14 alleged incidents examined one by one, 12 found established. It is the evidential base of A's assessment of the owner's U1 and bears on [CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md) and [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md) only as the case they abstract from. A's "Depp's attempt to appeal was unsuccessful" (permission to appeal was refused in March 2021, per the ledger) is unverified here. The record files the judgment as a work because the exchange's assessment argues from it (a court decision the exchange's argument uses counts as a work). Not read.
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A2 as the British judgment A treats as the strongest evidence in its assessment: 14 alleged incidents examined one by one, 12 found established. It is the evidential base of A's assessment of the owner's U1 and bears on [CASE-279](../cases.d/CASE-279.md) and [CLAIM-709](../claims.d/CLAIM-709.md) only as the case they abstract from. A's "Depp's attempt to appeal was unsuccessful" (permission to appeal was refused in March 2021, per the ledger) is unverified here. The record files the judgment as a work because the exchange's assessment argues from it (a court decision the exchange's argument uses counts as a work). Not read.
 
 Read on 2026-11-17 ([NOTE-tmppb4aj](../notes.d/NOTE-tmppb4aj.md)). The exchange's characterization is
 faithful: A2's 14 incidents examined and 12 "established on the balance

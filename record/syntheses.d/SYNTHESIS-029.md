@@ -4,7 +4,20 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpha4sq
 title: 'Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    At the synthesis review of 2026-11-18 (learned-structure).
+    QUESTION-217 gained a note on 2026-11-15, corrected on 2026-11-18: in
+    the kernel's moving eigenbasis, learning splits into relaxation along
+    the current modes and a reorganization of the modes, which adds a
+    fourth order. The account's "Three orders" bullet now records it,
+    and the cross-part link to the modes part. QUESTION-217 has refined
+    QUESTION-039 since its note of 2026-11-11, so the "Not stated"
+    bullet on acquisition is corrected and the link moved into the
+    account. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the learned-structure line (whether representations at
@@ -50,7 +63,14 @@ bears_on:
   the hopping model) and cases where they come apart ([THEORY-186](../theory.d/THEORY-186.md)'s
   fine-first case, [THEORY-759](../theory.d/THEORY-759.md)'s order by frequency). Its note of
   2026-10-21 files the monotone half of A5's "two different mathematical
-  order structures" as [CLAIM-409](../claims.d/CLAIM-409.md).
+  order structures" as [CLAIM-409](../claims.d/CLAIM-409.md). Its note of 2026-11-15 (corrected
+  2026-11-18) adds a fourth: under squared-error gradient flow in the
+  kernel's moving eigenbasis, ȧ = −Λ_τ a − Ω_τ a, "the order in which the
+  space of modes is reorganized". It "answers none of the four". The
+  modes part of the line ([SYNTHESIS-097](SYNTHESIS-097.md)) cites this note. Since its
+  note of 2026-11-11 it refines [QUESTION-039](../questions.d/QUESTION-039.md) ([SYNTHESIS-034](SYNTHESIS-034.md)), as "a sharpening
+  of [QUESTION-039](../questions.d/QUESTION-039.md)'s 'What sets the order ... at which a network acquires a
+  structure'".
 - **Whether optima nest.** [QUESTION-220](../questions.d/QUESTION-220.md) (A2's "most consequential
   missing bridge"; Open) refines [QUESTION-217](../questions.d/QUESTION-217.md). Its reason: "If none
   exist, an optimal learner's trajectory may merge or reshuffle
@@ -118,9 +138,6 @@ None is filed.
 
 ## Not stated on the record
 
-- **Acquisition here and in [SYNTHESIS-034](SYNTHESIS-034.md).** [QUESTION-217](../questions.d/QUESTION-217.md)'s acquisition relation
-  is [QUESTION-039](../questions.d/QUESTION-039.md)'s subject, and both cite [THEORY-086](../theory.d/THEORY-086.md) and the deep linear
-  readings. Neither refines or names the other.
 - **A condition on P(X, Y) for nesting**, and whether the loss from
   forcing it is always small ([QUESTION-220](../questions.d/QUESTION-220.md)).
 

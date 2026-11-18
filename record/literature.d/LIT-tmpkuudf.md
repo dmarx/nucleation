@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   read in full 2026-11-17 ([NOTE-tmpg8cdd](../notes.d/NOTE-tmpg8cdd.md)) as the read neighbour of
-  Lefebvre's Algebra of Conscience, [LIT-tmpkqy2y](LIT-tmpkqy2y.md), which could not be
+  Lefebvre's Algebra of Conscience, [LIT-2663](LIT-2663.md), which could not be
   reached; worth reading here only as a secondary statement of Lefebvre's
   two-systems thesis and typology. Brief and anecdotal.
 title: 'Vladimir Lefebvre''s Theory of Two Systems of Ethical Cognition'
@@ -12,7 +12,7 @@ history:
   date: '2026-11-18'
   note: >-
     Registered and read on 2026-11-17 as a stand-in for Lefebvre, Algebra
-    of Conscience (1982), LIT-tmpkqy2y, registered from the exchange
+    of Conscience (1982), LIT-2663, registered from the exchange
     "Assess Depp Heard Abuse" (works chosen by the reader). Not held
     before: the record was searched for Umpleby and found nothing.
     Citation from the copy: Stuart A. Umpleby, Department of Management,
@@ -43,12 +43,12 @@ summary: >-
   system in which the end does not justify the means and compromise is
   valued, and one in which it does and confrontation is valued. Anecdotal
   evidence; unsourced claims of influence. Filed as the read neighbour of
-  Algebra of Conscience, [LIT-tmpkqy2y](LIT-tmpkqy2y.md); read in [NOTE-tmpg8cdd](../notes.d/NOTE-tmpg8cdd.md); its account
+  Algebra of Conscience, [LIT-2663](LIT-2663.md); read in [NOTE-tmpg8cdd](../notes.d/NOTE-tmpg8cdd.md); its account
   is [THEORY-tmpu7a06](../theory.d/THEORY-tmpu7a06.md).
 ---
-<!-- inactive-ok-file: LIT-tmpawg9f LIT-tmpkqy2y THEORY-tmpu7a06 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: LIT-2697 LIT-2663 THEORY-tmpu7a06 — Proposed, Unavailable; cited with their standing, entries this reading bears on or files -->
 
-# LIT-tmpkuudf: Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition
+# LIT-2693: Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition
 
 Umpleby, S. A. (2016). Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition. *Journal of Systemics, Cybernetics and Informatics* 14(5): 65–67. https://www.iiisci.org/Journal/PDV/sci/pdfs/IP020LL16.pdf.
 
@@ -65,6 +65,6 @@ Umpleby, S. A. (2016). Vladimir Lefebvre's Theory of Two Systems of Ethical Cogn
 ## Standing in the record
 
 Filed as the read neighbour of Lefebvre, Algebra of Conscience (1982),
-[LIT-tmpkqy2y](LIT-tmpkqy2y.md). It stands in for that book's thesis and typology only, not
-for its model or derivations, and not for Lefebvre (1980), [LIT-tmpawg9f](LIT-tmpawg9f.md),
+[LIT-2663](LIT-2663.md). It stands in for that book's thesis and typology only, not
+for its model or derivations, and not for Lefebvre (1980), [LIT-2697](LIT-2697.md),
 which it does not cite.

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmpn0mo7'
+paper: 'LIT-2679'
 title: 'Strawson — Freedom and Resentment'
 version: 1
 history:
@@ -30,7 +30,7 @@ summary: >-
   rationally undermine the framework.
 ---
 <!-- inactive-ok-file: ADR-tmp976n0 — Proposed; the decision admitting this copy -->
-<!-- inactive-ok-file: CLAIM-tmpa2l21 QUESTION-068 LIT-tmp2dnmn — Proposed, Deferred or Unavailable; the entries this reading bears on, and the work A sets it against -->
+<!-- inactive-ok-file: CLAIM-708 QUESTION-068 LIT-2694 — Proposed, Deferred or Unavailable; the entries this reading bears on, and the work A sets it against -->
 
 # NOTE-tmpnfib1: Strawson — Freedom and Resentment
 
@@ -102,7 +102,7 @@ features of our own culture" (p. 210).
   Strawson's word is "regard", not "respect"; and the link is closer than
   connection: "The making of the demand is the proneness to such
   attitudes."
-- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (second-order wrongdoing): qualifies it. Strawson's
+- **[CLAIM-708](../claims.d/CLAIM-708.md)** (second-order wrongdoing): qualifies it. Strawson's
   first kind of plea is coercion: "He was pushed", "They left him no
   alternative". It leaves the agent "a fully responsible agent" while the
   injury may be one for which he was "not fully, or at all, responsible".
@@ -117,7 +117,7 @@ features of our own culture" (p. 210).
   holding responsible that ownership of a will does not supply.
 - **What blame is**: blame as "partial and temporary withdrawal of
   goodwill" within continued membership. Scanlon's *Moral Dimensions*
-  ([LIT-tmp2dnmn](../literature.d/LIT-tmp2dnmn.md)), which A sets beside it, is unread.
+  ([LIT-2694](../literature.d/LIT-2694.md)), which A sets beside it, is unread.
 
 ## Limitations
 

@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   read in full 2026-11-17 ([NOTE-tmpd9qyv](../notes.d/NOTE-tmpd9qyv.md)) from the author manuscript in
   PubMed Central (PMC4553695), as a read neighbour of Johnson (2008),
-  [LIT-tmp5254i](LIT-tmp5254i.md), which could not be read; Johnson is its last author. Worth
+  [LIT-2715](LIT-2715.md), which could not be read; Johnson is its last author. Worth
   reading here for an operational test of the typology's two main types
   and for its finding that the group differences track the control
   context with the amount of violence held constant.
@@ -13,7 +13,7 @@ history:
 - version: 1
   date: '2026-11-18'
   note: >-
-    Registered as a stand-in for Johnson (2008), LIT-tmp5254i, registered
+    Registered as a stand-in for Johnson (2008), LIT-2715, registered
     from the exchange "Assess Depp Heard Abuse". Not held before:
     record/literature.d was searched for the title, the DOI and Hardesty.
     Citation checked against Crossref (no mailto): Jennifer L. Hardesty,
@@ -51,10 +51,10 @@ summary: >-
   even with the frequency and severity of violence held constant, so the
   differences "reflect the control context rather than differences in
   violence". Registered as the read neighbour of Johnson 2008,
-  [LIT-tmp5254i](LIT-tmp5254i.md). It corroborates [CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md).
+  [LIT-2715](LIT-2715.md). It corroborates [CLAIM-709](../claims.d/CLAIM-709.md).
 ---
-<!-- inactive-ok-file: LIT-tmp5254i — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz — new or Proposed; this work's reading and the claim it corroborates -->
+<!-- inactive-ok-file: LIT-2715 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 — new or Proposed; this work's reading and the claim it corroborates -->
 
 # LIT-tmpjl3bp: Toward a Standard Approach to Operationalizing Coercive Control and Classifying Violence Types
 
@@ -81,7 +81,7 @@ Hardesty, J. L., Crossman, K. A., Haselschwerdt, M. L., Raffaelli, M., Ogolsky, 
 ## Standing in the record
 
 Registered on 2026-11-18 as the read neighbour of Johnson (2008),
-[LIT-tmp5254i](LIT-tmp5254i.md). It quotes the book once ("Control is a continuum. Everyone
+[LIT-2715](LIT-2715.md). It quotes the book once ("Control is a continuum. Everyone
 ‘controls’ their partner to some extent", p. 87) and applies its two main
 types. It says nothing of violent resistance or of mutual violent control.
 One county, divorcing mothers only, mothers' reports only, a 24% response

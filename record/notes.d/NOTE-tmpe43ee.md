@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpnl1ls
+paper: LIT-2691
 title: 'Rubel, Castro and Pham — Agency Laundering and Information Technologies, chapter 7'
 version: 1
 history:
@@ -12,7 +12,7 @@ history:
     Cambridge Core (CC BY-NC-ND 4.0), text by pdftotext. §7.3 (Facebook),
     §7.5 (value-added models) and §7.6 (COMPAS) were read quickly;
     chapters 1–6 and 8–9 were not read, so the note is Read for chapter 7
-    only. Read as a stand-in for the 2019 article, LIT-tmpqui4c. Page
+    only. Read as a stand-in for the 2019 article, LIT-2659. Page
     numbers are the book's. The quotes below were rechecked by the filer
     against the same copy on 2026-11-18.
 date: '2026-11-18'
@@ -26,7 +26,7 @@ summary: >-
   responsibility gaps, tests it on four cases (two of them not laundering),
   and argues that humans in the loop can launder as well as automation.
 ---
-<!-- inactive-ok-file: LIT-tmpqui4c THEORY-tmpwjlal CLAIM-tmpb47ul CLAIM-472 TERM-tmp8pnnr — Unfetched, Proposed or new; the article this stands in for, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: LIT-2659 THEORY-tmpwjlal CLAIM-707 CLAIM-472 TERM-tmp8pnnr — Unfetched, Proposed or new; the article this stands in for, the account filed from it and the entries it bears on -->
 
 # NOTE-tmpe43ee: Rubel, Castro and Pham — Agency Laundering and Information Technologies, chapter 7
 
@@ -98,7 +98,7 @@ Filed as [THEORY-tmpwjlal](../theory.d/THEORY-tmpwjlal.md).
   the 2019 article "in large part": the definition, the wrong and the
   cases. Whether the discussion of Elish and humans in the loop (§7.7.2) is
   in the article is not known.
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the upstream half: an agent responsible in a domain
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**, the upstream half: an agent responsible in a domain
   can, through a process, obscure its causal role and escape the demand
   for an account. The chapter links this to Elish (p. 159): a human in the
   loop can be the laundering medium, which is the claim's downstream half.

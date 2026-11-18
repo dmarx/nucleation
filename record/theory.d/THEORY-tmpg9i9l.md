@@ -16,30 +16,30 @@ tags:
 - moral-psychology
 date: '2026-11-18'
 source:
-- LIT-tmpgo0lt
+- LIT-2670
 corroborates:
-- CLAIM-tmp76x3e
-- CLAIM-tmpe5u7i
-- CLAIM-tmpa2l21
+- CLAIM-703
+- CLAIM-713
+- CLAIM-708
 bears_on:
-- QUESTION-tmpbzq36
+- QUESTION-472
 summary: >-
-  Keller (2016; issue 2018), [LIT-tmpgo0lt](../literature.d/LIT-tmpgo0lt.md), read in full from the author's
-  preprint in [NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md). It corroborates [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md), which does not
+  Keller (2016; issue 2018), [LIT-2670](../literature.d/LIT-2670.md), read in full from the author's
+  preprint in [NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md). It corroborates [CLAIM-703](../claims.d/CLAIM-703.md), which does not
   rest on it: an agent governed through its sound moral sensibility by a
   party that controls the circumstances triggering its obligations. It
-  corroborates the deliberate form of [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)'s moral subsidy (the
-  law firm, nurses and teachers), and [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)'s relational half,
+  corroborates the deliberate form of [CLAIM-713](../claims.d/CLAIM-713.md)'s moral subsidy (the
+  law firm, nurses and teachers), and [CLAIM-708](../claims.d/CLAIM-708.md)'s relational half,
   that the arranger wrongs the person placed in the predicament, though
   Keller's victim is pressed to do right, not wrong. It bears on
-  [QUESTION-tmpbzq36](../questions.d/QUESTION-tmpbzq36.md): exposure makes it harder to bargain over conditions.
+  [QUESTION-472](../questions.d/QUESTION-472.md): exposure makes it harder to bargain over conditions.
   The wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpe5u7i CLAIM-tmpa2l21 CLAIM-tmpciy9q — new or Proposed; the work, its reading and the entries this bears on -->
+<!-- inactive-ok-file: CLAIM-703 CLAIM-713 CLAIM-708 CLAIM-tmpciy9q — new or Proposed; the work, its reading and the entries this bears on -->
 
 # THEORY-tmpg9i9l: Moral blackmail, on Keller's account, is a wrongful act that forces someone to do something by making her alternatives morally unacceptable; the obligation it creates is genuine though she ought not to have it, and legal and professional fiduciaries are especially exposed, because their roles generate obligations of partiality whose triggering circumstances others can control
 
-Keller (2016; issue 2018), [LIT-tmpgo0lt](../literature.d/LIT-tmpgo0lt.md), read in [NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md). Page
+Keller (2016; issue 2018), [LIT-2670](../literature.d/LIT-2670.md), read in [NOTE-tmp0loqu](../notes.d/NOTE-tmp0loqu.md). Page
 numbers are the preprint's.
 
 ## The account

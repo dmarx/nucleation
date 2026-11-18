@@ -16,7 +16,7 @@ history:
     as a policy instrument). Not read: the Wisconsin Medicaid case study
     (p. 53 on) and the research agenda. Hence Skimmed. The quotes below
     were rechecked by the filer against the same copy on 2026-11-18. Read
-    as a stand-in for Herd & Moynihan (2025), LIT-tmpm4lvs.
+    as a stand-in for Herd & Moynihan (2025), LIT-2660.
 date: '2026-11-18'
 summary: >-
   Administrative burden, the experience of policy implementation as
@@ -29,7 +29,7 @@ summary: >-
   and its opacity suits "hidden politics". The read part reviews US
   evidence that each cost lowers take-up, most strongly compliance costs.
 ---
-<!-- inactive-ok-file: CLAIM-669 CLAIM-681 CLAIM-tmph28l6 LIT-1609 LIT-tmpm4lvs — Deferred, Proposed, Unfetched; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-669 CLAIM-681 CLAIM-tmph28l6 LIT-1609 LIT-2660 — Deferred, Proposed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmpd1d48: Moynihan, Herd and Harvey — Administrative Burden
 
@@ -106,12 +106,12 @@ take-up; red tape as distinct; stigma and autonomy; hidden politics
 
 ## Connections
 
-Stands in for Herd & Moynihan (2025), [LIT-tmpm4lvs](../literature.d/LIT-tmpm4lvs.md), for the authors'
+Stands in for Herd & Moynihan (2025), [LIT-2660](../literature.d/LIT-2660.md), for the authors'
 conceptual framework: the three costs, which the exchange (A23) says the
 2025 review distinguishes, and burden as a political choice. It does not
 stand in for the 2025 review's own synthesis of safety-net evidence or any
 revision of the account since 2015, and it is a Moynihan-led article, not
-the Herd-led review. The phrase in [LIT-tmpm4lvs](../literature.d/LIT-tmpm4lvs.md)'s summary, friction that
+the Herd-led review. The phrase in [LIT-2660](../literature.d/LIT-2660.md)'s summary, friction that
 "can itself dominate", is not in this article.
 
 ## Limitations

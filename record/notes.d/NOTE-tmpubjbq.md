@@ -12,7 +12,7 @@ history:
     7 pages, text by pdftotext. Nothing skipped. The quotes below were
     rechecked by the filer against that text on 2026-11-18. Read as a
     stand-in for Johnson (1995), LIT-tmpozb57, and Johnson (2008),
-    LIT-tmp5254i.
+    LIT-2715.
 date: '2026-11-18'
 summary: >-
   Johnson, in his own words in 2006, sorts intimate partner violence into
@@ -21,8 +21,8 @@ summary: >-
   the gender-symmetry dispute as two literatures sampling different types.
   Three types only; no mutual violent control.
 ---
-<!-- inactive-ok-file: LIT-tmpozb57 LIT-tmp5254i — Unfetched or Unavailable; the works this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz CASE-tmpzt3zf — Proposed; the entries this reading bears on -->
+<!-- inactive-ok-file: LIT-tmpozb57 LIT-2715 — Unfetched or Unavailable; the works this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 CASE-279 — Proposed; the entries this reading bears on -->
 
 # NOTE-tmpubjbq: Johnson, interviewed by Ooms — A Sociologist's Perspective on Domestic Violence
 
@@ -79,13 +79,13 @@ surveys reach different kinds.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)** (who harmed whom and who had power are separate
+- **[CLAIM-709](../claims.d/CLAIM-709.md)** (who harmed whom and who had power are separate
   questions): corroborates, in a domain-specific form. Johnson sorts
   violence by "the power and control issues involved", not by count or
   severity, and holds that "all three types" can be dangerous, so a
   dangerous act does not settle the control context. He does not speak to
   the culpability of each party's acts.
-- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)** (Carol and Dan): Carol's strikes inside Dan's control
+- **[CASE-279](../cases.d/CASE-279.md)** (Carol and Dan): Carol's strikes inside Dan's control
   are what Johnson calls violent resistance. The case adds that her acts
   keep their own verdict; Johnson says only that a case "can sometimes be
   made" that such violence was justified.
@@ -93,7 +93,7 @@ surveys reach different kinds.
 ## Connections
 
 Stands in for Johnson (1995), [LIT-tmpozb57](../literature.d/LIT-tmpozb57.md), and Johnson (2008),
-[LIT-tmp5254i](../literature.d/LIT-tmp5254i.md).
+[LIT-2715](../literature.d/LIT-2715.md).
 
 - It restates the core of the 2008 typology: types distinguished by control
   context; intimate terrorism, situational couple violence and violent

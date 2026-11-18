@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpsd8aw
+paper: LIT-2688
 title: 'Ensign et al. — Runaway Feedback Loops in Predictive Policing'
 version: 1
 history:

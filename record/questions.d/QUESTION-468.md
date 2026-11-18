@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpyesgg
 title: 'How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-15'
@@ -16,6 +16,14 @@ history:
     It keeps organizational-normativity second, because it refines
     QUESTION-129, whose first line it is (ADR-085). No other change.
 - version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Tognazzini and Coates (LIT-2720) read on 2026-11-16, NOTE-1998. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Liedo, van Grunsven and Marin (LIT-2683) read on 2026-11-16, NOTE-2011. No change of status or title.
+- version: 5
   date: '2026-11-17'
   note: >-
     A dated note: A15 §8 of the exchange "Assess Depp Heard Abuse"
@@ -152,8 +160,26 @@ Berenstain's "Epistemic Exploitation" ([LIT-2264](../literature.d/LIT-2264.md)),
 Charron-Chénier ([LIT-2525](../literature.d/LIT-2525.md)), read, for predatory inclusion; Alicea
 ([LIT-2522](../literature.d/LIT-2522.md)), Unavailable, for its organizational case.
 
+## Note of 2026-11-16: Tognazzini and Coates, read
+
+On "who, if anyone, answers for it when the arrangement is not an agent":
+the SEP entry "Blame" reports an argument that an institution's complicity
+in the conditions of wrongdoing removes its standing to blame (Watson 2015,
+Beade 2019, on the state). That presupposes the institution can be
+complicit, so it answers for the conditions at least to the extent of
+losing standing. Relation: bears_on (on the new THEORY).
+
+## Note of 2026-11-16: Liedo, Van Grunsven and Marin, read
+
+Offers one answer to "which declared standard": Brake's, "Exploitative labor happens when someone
+benefits from the work of someone to the detriment of her interests", with the benefit taken as
+"economic profit, avoidance of the fair share of work, or social credit" (p. 6). It also offers a
+structural source (privileged irresponsibility) and a reason exploitation goes unidentified: it is
+masked by the exploited party's satisfaction (p. 8). [TERM-123](../terms.d/TERM-123.md) could cite Brake's standard as one
+declared standard. Relation: **bears_on**.
+
 ## Note of 2026-11-17: a candidate standard for exploitation through commitments, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpe5u7i CLAIM-tmpb47ul — Proposed, or filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-713 CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 
 A15 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-15) asks what
 separates "legitimate reliance" on someone's conscientiousness from
@@ -169,11 +195,11 @@ exercised**".
 
 For this question's second part, the four are a candidate declared
 standard in [TERM-123](../terms.d/TERM-123.md)'s sense, for one kind of case: exploitation through
-moral commitments. [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) is the mechanism they would judge. For
+moral commitments. [CLAIM-713](../claims.d/CLAIM-713.md) is the mechanism they would judge. For
 the first part, what separates exploitation from domination,
-[QUESTION-tmpbzq36](QUESTION-tmpbzq36.md) asks whether control over the circumstances that trigger
+[QUESTION-472](QUESTION-472.md) asks whether control over the circumstances that trigger
 someone's obligations is domination too. For the third, who answers when
-the arrangement is not an agent, [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) says where blame tends to
+the arrangement is not an agent, [CLAIM-707](../claims.d/CLAIM-707.md) says where blame tends to
 land instead.
 
 The question stays Open.

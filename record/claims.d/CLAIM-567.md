@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9jvpb
 title: 'That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -18,6 +18,14 @@ history:
     positive curvature, as THEORY-1423's title, narrowed on 2026-11-06,
     does. No objection is on file, and nothing meets the defeat
     condition.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: Brown et al. and Yue et al. (THEORY-1894,
+    THEORY-1880) as two measured cases of "reachable, not reliably
+    reached" in sampling processes; Yue's result suggests a trade between
+    reliability and reachability that the claim does not assert. No status
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -312,3 +320,9 @@ stochastic process under a budget, and its efficiency is reliable
 attainment; the paper has no counterpart of feasibility apart from
 reachability. Filed as the owner's [CLAIM-663](CLAIM-663.md), argued in [ARG-093](../arguments.d/ARG-093.md).
 A44 §1 cites this claim accurately. No status change.
+
+## Note of 2026-11-15: coverage and RL post-training, read
+
+<!-- inactive-ok-file: THEORY-1894 THEORY-1880 — Proposed; the readings of 2026-11-15 that corroborate this claim, cited as measured instances -->
+
+Two measured cases of "reachable, not reliably reached" in sampling processes. Brown et al. ([THEORY-1894](../theory.d/THEORY-1894.md)): a model that solves 15.9% of SWE-bench Lite in one attempt reaches 56% in 250. Yue et al. ([THEORY-1880](../theory.d/THEORY-1880.md)): RLVR raises pass@1 and lowers pass@k at large k, so one intervention moves reliability and reachability in opposite directions. The claim says neither implies the other; it does not assert a trade between them, which Yue's result suggests for this class of process. Reachability here is empirical at finite k, as [ARG-093](../arguments.d/ARG-093.md) notes. No status change.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpf1063
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of grants that policies earn by being right often, and the same loop entrenches whatever gained influence early'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -33,6 +33,10 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Ensign et al. (LIT-2688) read on 2026-11-16, NOTE-2025. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -229,3 +233,7 @@ gate. A47's experiment froze competence, so it cannot show the loop
 ## Note of 2026-10-28: constructed, and promoted
 
 The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim as the most relied-on Proposed claim with its premises held and no live objection. The body said it rests on [CLAIM-282](CLAIM-282.md), which is Active, and the frontmatter did not, so the edge is added. Neither loop had been constructed. [CASE-182](../cases.d/CASE-182.md) builds both under one grant rule (scratch/formal/trust_loop.py). Scored every round, the more accurate of two operators holds the lead durably whatever the start. Scored only when it acts, under sharp selection, the early leader is never displaced. Nothing in the record meets the defeater: in the construction durable authority forms without a persistence term, and under scoring it tracks reliability and not early advantage. The claim answers the first part of [QUESTION-083](../questions.d/QUESTION-083.md), now [QUESTION-295](../questions.d/QUESTION-295.md).
+
+## Note of 2026-11-16: Ensign, read
+
+Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian ([LIT-2688](../literature.d/LIT-2688.md)) prove the claim's second clause in an independent formal model. Police are sent in proportion to incidents logged, and incidents are logged only where police go, a generalized Pólya urn. With equal crime rates the limiting allocation is a draw fixed by the initial counts (Lemma 2): "the prior belief coupled with the lack of feedback about the unobserved region" keeps the system from learning that the regions are alike. With unequal rates the allocation goes wholly to the higher-rate region, at 10% against 11% it will "settle on region B with probability 1" (Lemma 4). That second result qualifies the claim: the same loop also turns a slight real advantage into total allocation, entrenching the leader and not only the early. The paper's remedy (§3.5) is a forgetting rule of a specific kind: it discounts evidence by the probability that the grant itself produced it, which bears on the claim's memory kernel. Nothing here touches the first clause (authority as the regularity of grants earned by being right).

@@ -305,7 +305,7 @@ Readings filed for the exchange's works on 2026-11-13, each now with `bears_on` 
 Neither gives a criterion that tells a manipulated will from one that is not. The question is unchanged.
 
 ## Note of 2026-11-17: evidence conditions for an attribution of manipulation, and the unfalsifiability warning, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmp76x3e — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-703 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 
 The exchange "Assess Depp Heard Abuse" (2026-11-15) twice warns against
 reading manipulation off an outcome. A5 §4, on DARVO: "**You cannot
@@ -327,7 +327,7 @@ mere effect: what the influencer intended, what it anticipated of the
 target, whether it could produce the conditions, and whether it did. They
 are conditions on the influencer's history, not the target's present
 structure, which is where this question says present-structure tests fail.
-[CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) makes the hardest case for those tests: a target governed
+[CLAIM-703](../claims.d/CLAIM-703.md) makes the hardest case for those tests: a target governed
 through sound values, with nothing in it defective.
 
 The question stays Open.

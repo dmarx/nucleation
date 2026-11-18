@@ -10,7 +10,7 @@ history:
     Read in full on 2026-11-17: the 35 slides at
     https://ethicsofcare.org/wp-content/uploads/2014/02/Tronto-uvh-final.pdf,
     text by pdftotext. Read as a stand-in for Tronto's Caring Democracy
-    (LIT-tmpsm285) and, more weakly, Moral Boundaries (LIT-tmp5epfk).
+    (LIT-2669) and, more weakly, Moral Boundaries (LIT-2708).
     Located below by slide heading. The quotes below were rechecked by the
     filer against the same copy on 2026-11-18.
 date: '2026-11-18'
@@ -22,7 +22,7 @@ summary: >-
   wants to saddle with the hardest tasks, and exempting oneself by appeal
   to more important duties, such as protection and production.
 ---
-<!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 THEORY-tmpxw0zo CLAIM-tmpb47ul — Unfetched, Unavailable, Proposed or new; the works this stands in for, the account filed from it and the entries it bears on -->
+<!-- inactive-ok-file: LIT-2708 LIT-2669 THEORY-tmpxw0zo CLAIM-707 — Unfetched, Unavailable, Proposed or new; the works this stands in for, the account filed from it and the entries it bears on -->
 
 # NOTE-tmpfpn7t: Tronto — Against Good Caring
 
@@ -68,12 +68,12 @@ society is "utopian" in Polanyi's sense.
 Filed as [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md).
 
 - **Which of the originals' results it restates.** For Caring Democracy
-  ([LIT-tmpsm285](../literature.d/LIT-tmpsm285.md)): the definition of democracy as the allocation of caring
+  ([LIT-2669](../literature.d/LIT-2669.md)): the definition of democracy as the allocation of caring
   responsibilities with equal voice, in Tronto's words, which bears out
   A17's "democratic justice" in substance; and exemption, which is the
   book's privileged irresponsibility in outline. For Moral Boundaries
-  ([LIT-tmp5epfk](../literature.d/LIT-tmp5epfk.md)): only the definition of care it quotes.
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)**, the upstream half: exemption by appeal to "more
+  ([LIT-2708](../literature.d/LIT-2708.md)): only the definition of care it quotes.
+- **[CLAIM-707](../claims.d/CLAIM-707.md)**, the upstream half: exemption by appeal to "more
   important duties", and exclusion to "saddle" others "with the most
   difficult tasks", are Tronto's own version of upstream parties shedding
   obligations onto those downstream. Corroborates; blame and control are

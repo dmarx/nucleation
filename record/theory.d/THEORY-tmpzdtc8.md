@@ -16,13 +16,13 @@ tags:
 - agency
 date: '2026-11-18'
 source:
-- LIT-tmp3iik8
+- LIT-2666
 corroborates:
 - CLAIM-022
 bears_on:
 - QUESTION-068
 summary: >-
-  Zeiser (2024), [LIT-tmp3iik8](../literature.d/LIT-tmp3iik8.md), read in [NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md). It corroborates
+  Zeiser (2024), [LIT-2666](../literature.d/LIT-2666.md), read in [NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md). It corroborates
   [CLAIM-022](../claims.d/CLAIM-022.md), which does not rest on it: a decision technically made by a
   human need not be hers. It bears on [QUESTION-068](../questions.d/QUESTION-068.md): for AI-supported decisions,
   accountability can be had without attributability. It gives [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md) a narrower source for the
@@ -33,7 +33,7 @@ summary: >-
 
 # THEORY-tmpzdtc8: AI decision-support tools can open an attributability gap, on Zeiser's account: a decision made by a human can express value-judgements embedded in the tool that she has not endorsed, which is a failure of decision ownership distinct from accountability, and it reaches descriptive tools too, so that attributability comes in degrees
 
-Zeiser (2024), [LIT-tmp3iik8](../literature.d/LIT-tmp3iik8.md), read in [NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md).
+Zeiser (2024), [LIT-2666](../literature.d/LIT-2666.md), read in [NOTE-tmpnpm7l](../notes.d/NOTE-tmpnpm7l.md).
 
 ## The account
 

@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp7wp1i'
+paper: 'LIT-2719'
 title: 'Citron — Technological Due Process'
 version: 1
 history:
@@ -30,7 +30,7 @@ summary: >-
   explain their reliance on a system, open code, testing suites, public
   input into design, and not automating discretionary standards.
 ---
-<!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-tmpb47ul CLAIM-tmph28l6 CLAIM-tmpohafo — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-tmp238zy CLAIM-707 CLAIM-tmph28l6 CLAIM-tmpohafo — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmplslae: Citron — Technological Due Process
 
@@ -130,14 +130,14 @@ surrogate participation; rules versus standards.
   positions). Corroborates its "transferred" case: rule-making authority
   passes to programmers by "inadvertent rulemaking", "a troubling
   delegation of legislative power" (p. 1288), beside Bovens and Zouridis
-  ([LIT-tmp8l2be](../literature.d/LIT-tmp8l2be.md)).
+  ([LIT-2661](../literature.d/LIT-2661.md)).
 - **[CLAIM-tmp238zy](../claims.d/CLAIM-tmp238zy.md)**. A qualified counterpoint, not filed as a relation:
   Citron's remedy for automation bias is cognitive friction placed on
   officials (training, and a duty to explain reliance, pp. 1306–07), and
   she presents it as serving the affected party's hearing. The claim's
   warning would apply if that duty were used to put errors on the
   officer.
-- **[CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md)** (control, obligation and blame on different
+- **[CLAIM-707](../claims.d/CLAIM-707.md)** (control, obligation and blame on different
   parties). Mixed systems in which workers finalize the computer's
   decisions are an early case of nominal human responsibility without
   control.

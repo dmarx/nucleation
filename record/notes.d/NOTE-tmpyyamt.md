@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmprsf6f'
+paper: 'LIT-2687'
 title: 'Natali, Naiseh, Cabitza and Frischmann — Better AI with Designed Friction'
 version: 1
 history:

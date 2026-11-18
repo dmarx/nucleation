@@ -17,8 +17,8 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 illustrates:
-- CLAIM-tmpe5u7i
-- CLAIM-tmp76x3e
+- CLAIM-713
+- CLAIM-703
 bears_on:
 - QUESTION-463
 - QUESTION-468
@@ -36,7 +36,8 @@ summary: >-
   by which discretionary labour is drawn out. Proposed because the case is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpe5u7i CLAIM-tmp76x3e CLAIM-tmp613ja CLAIM-tmpdic1g — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-713 CLAIM-703 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-tmp613ja CLAIM-tmpdic1g — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-264 TERM-123 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CASE-tmpm0rpn: Three hospitals with the same output, budget, staff competences and commitments, differing only in how extra work is obtained: negotiated cooperation, a competition for scarce advancement that all entrants pay for, and an appeal to professional duty; the second and third both make withholding labour individually costly while the institution takes the benefit, by incentive in one and by conscience in the other
@@ -86,11 +87,11 @@ intervention may be different in each case": compensation for all
 productive effort, or fair terms of contest, for B; staffing reserves and
 a right to refuse that does not fall on patients, for C.
 
-- **For [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md)** (F2, the moral subsidy loop): arm C is that
+- **For [CLAIM-713](../claims.d/CLAIM-713.md)** (F2, the moral subsidy loop): arm C is that
   claim's mechanism, conscientious workers absorbing what the arrangement
   leaves unmet. Arm B shows the same extraction with no appeal to
   conscience, so the loop is one of at least two routes.
-- **For [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md)** (F2, normative manipulation): arm C changes the
+- **For [CLAIM-703](../claims.d/CLAIM-703.md)** (F2, normative manipulation): arm C changes the
   world so that workers' sound values do the institution's work.
 - **For [QUESTION-463](../questions.d/QUESTION-463.md) and [QUESTION-468](../questions.d/QUESTION-468.md)**: a stipulated triple in which
   output, pay budget and the workers' own dispositions are held fixed,

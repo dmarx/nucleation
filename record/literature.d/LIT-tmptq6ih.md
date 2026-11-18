@@ -2,8 +2,8 @@
 status: Active
 status_note: >-
   read in full 2026-11-17 ([NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md)) as a read neighbour of Tronto's
-  Caring Democracy ([LIT-tmpsm285](LIT-tmpsm285.md), Unavailable) and, more weakly, Moral
-  Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md), Unfetched); worth reading here for Tronto's
+  Caring Democracy ([LIT-2669](LIT-2669.md), Unavailable) and, more weakly, Moral
+  Boundaries ([LIT-2708](LIT-2708.md), Unfetched); worth reading here for Tronto's
   own compressed statement of democracy as the allocation of caring
   responsibilities, and of exclusion and exemption as its misallocations.
   Slides, not prose.
@@ -14,7 +14,7 @@ history:
   date: '2026-11-18'
   note: >-
     Registered as a stand-in for Tronto's Caring Democracy (2013),
-    LIT-tmpsm285, and Moral Boundaries (1993), LIT-tmp5epfk, at the
+    LIT-2669, and Moral Boundaries (1993), LIT-2708, at the
     reading pass of 2026-11-17 for the exchange "Assess Depp Heard Abuse".
     Not held before: record/ was searched for the title and Tronto as
     first author. Read in full on 2026-11-17: 35 slides, posted on the
@@ -49,10 +49,10 @@ summary: >-
   misallocations: excluding those "you want to saddle with the most
   difficult tasks", and exemption, absenting oneself "because one has more
   important duties: protection, production, taking care of one's own".
-  Read in [NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md); [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md). A read neighbour of [LIT-tmpsm285](LIT-tmpsm285.md)
-  and [LIT-tmp5epfk](LIT-tmp5epfk.md).
+  Read in [NOTE-tmpfpn7t](../notes.d/NOTE-tmpfpn7t.md); [THEORY-tmpxw0zo](../theory.d/THEORY-tmpxw0zo.md). A read neighbour of [LIT-2669](LIT-2669.md)
+  and [LIT-2708](LIT-2708.md).
 ---
-<!-- inactive-ok-file: LIT-tmp5epfk LIT-tmpsm285 THEORY-tmpxw0zo — Unfetched, Unavailable or new; the works this stands in for, and its reading -->
+<!-- inactive-ok-file: LIT-2708 LIT-2669 THEORY-tmpxw0zo — Unfetched, Unavailable or new; the works this stands in for, and its reading -->
 
 # LIT-tmptq6ih: Against Good Caring? Meeting Immediate and Distant Needs Democratically
 
@@ -73,8 +73,8 @@ Tronto, J. C. (2014). Against Good Caring? Meeting Immediate and Distant Needs D
 
 ## Standing in the record
 
-Registered as a read neighbour of Caring Democracy ([LIT-tmpsm285](LIT-tmpsm285.md)) and,
-more weakly, Moral Boundaries ([LIT-tmp5epfk](LIT-tmp5epfk.md)). For Caring Democracy it
+Registered as a read neighbour of Caring Democracy ([LIT-2669](LIT-2669.md)) and,
+more weakly, Moral Boundaries ([LIT-2708](LIT-2708.md)). For Caring Democracy it
 stands in for the political definition, in Tronto's words, and for
 exemption, the mechanism by which the privileged avoid care, in outline.
 For Moral Boundaries it carries only the definition of care it quotes

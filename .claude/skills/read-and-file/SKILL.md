@@ -8,6 +8,7 @@ description: How this record takes in reading. Use it to file an exchange, a pas
 <!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
 <!-- inactive-ok-file: ADR-084 ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
 <!-- inactive-ok-file: ADR-093 ADR-094 ADR-095 — Proposed; readings named as evidence, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-101 — Proposed; documented machine interfaces as a reading route, until the owner adopts it -->
 
 # Reading and filing
 
@@ -124,6 +125,15 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **Stop at any bot check**: captcha, Cloudflare or WAF challenge,
   "Access Denied", rate limit, paywall. Never try to get around one.
   Retrying the same host doesn't help either.
+- **A repository's documented machine interface is a route in its own
+  right** (ADR-101). Open-access full text served by the repository's
+  own documented API may be read even when its website shows a challenge.
+  If the interface itself shows a check, stop there. Known routes:
+  - Europe PMC:
+    `https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML`.
+
+  Say in the NOTE's history that the interface was the route, and name the
+  decision.
 - **The outcome sets the status:**
   - read: the work goes on to step 6;
   - **Unfetched** (ADR-053): a lawful copy was located at an exact address

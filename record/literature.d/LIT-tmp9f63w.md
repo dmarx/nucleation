@@ -52,11 +52,11 @@ summary: >-
   DOI 10.1177/01925121241260431. Here because A cites it in the exchange
   "Assess Depp Heard Abuse" as A's source for the distinction between
   normative and empirical rhetorical entrapment, which it calls a close
-  relative of reflexive control. It bears on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) (normative
+  relative of reflexive control. It bears on [CLAIM-703](../claims.d/CLAIM-703.md) (normative
   manipulation) and on the reflexive-control thread ([CLAIM-404](../claims.d/CLAIM-404.md)). What
   the exchange says of it is unverified until read.
 ---
-<!-- inactive-ok-file: CLAIM-tmp76x3e — filed now from the same exchange, temporary codes, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-703 — filed now from the same exchange, temporary codes, Proposed or Open -->
 
 # LIT-tmp9f63w: Rhetorical entrapment in international negotiations: A new pathway and mechanisms
 
@@ -68,7 +68,7 @@ Tarald Gulseth Berge and Jonathan W. Kuyper (2024). Rhetorical entrapment in int
 
 ## Standing in the record
 
-Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 as A's source for the distinction between normative and empirical rhetorical entrapment, which it calls a close relative of reflexive control. It bears on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) (normative manipulation) and on the reflexive-control thread ([CLAIM-404](../claims.d/CLAIM-404.md)).
+Registered on 2026-11-17 from the exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, where A cites it at A13 as A's source for the distinction between normative and empirical rhetorical entrapment, which it calls a close relative of reflexive control. It bears on [CLAIM-703](../claims.d/CLAIM-703.md) (normative manipulation) and on the reflexive-control thread ([CLAIM-404](../claims.d/CLAIM-404.md)).
 
 **Reading pass of 2026-11-17: Unfetched.** A13's characterization is
-unchecked. Its bearing on [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) and [CLAIM-404](../claims.d/CLAIM-404.md) stays unverified.
+unchecked. Its bearing on [CLAIM-703](../claims.d/CLAIM-703.md) and [CLAIM-404](../claims.d/CLAIM-404.md) stays unverified.

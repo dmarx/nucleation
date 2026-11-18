@@ -22,7 +22,7 @@ summary: >-
   assistant's (Claude, in this session); the question is the owner's.
 ---
 <!-- inactive-ok-file: THEORY-1397 — Proposed; the record's reading of Coecke, Fritz and Spekkens -->
-<!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpe5u7i CLAIM-tmpb47ul — filed from the same exchange on 2026-11-17, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-703 CLAIM-713 CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-690 — Proposed; the record's claim on control of the terms of a dependence -->
 
 # QUESTION-tmp6kgwm: Is there a resource theory of moral commitments, in the formal sense: what are the free transformations among parties who hold commitments, which quantities are monotone under them, and is the leverage one party gains from another's commitment a conversion that is free for the one and costly for the other?
@@ -40,8 +40,8 @@ credibility, motivational force and borrowed legitimacy, which others can
 draw on and exhaust. Its §9 is headed "A resource-theoretic theory of moral
 domination", but what follows is a list of five kinds of power over another
 person's morality, with no formal structure. The economic reading is filed
-in [CLAIM-tmp76x3e](../claims.d/CLAIM-tmp76x3e.md) (normative manipulation), [CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md) (the moral
-subsidy) and [CLAIM-tmpb47ul](../claims.d/CLAIM-tmpb47ul.md) (asymmetric moral accountability).
+in [CLAIM-703](../claims.d/CLAIM-703.md) (normative manipulation), [CLAIM-713](../claims.d/CLAIM-713.md) (the moral
+subsidy) and [CLAIM-707](../claims.d/CLAIM-707.md) (asymmetric moral accountability).
 
 The record also holds resource theory in the formal sense. Coecke, Fritz
 and Spekkens ([THEORY-1397](../theory.d/THEORY-1397.md)): a resource theory is a symmetric monoidal
@@ -81,11 +81,11 @@ This is the filer's reading, offered as the question's terms.
   than each alone).
 - A reason why the formal sense adds nothing to the economic one: every
   question the record asks about commitments is already answered by the
-  control-of-terms account ([CLAIM-690](../claims.d/CLAIM-690.md), [QUESTION-tmpbzq36](QUESTION-tmpbzq36.md)).
+  control-of-terms account ([CLAIM-690](../claims.d/CLAIM-690.md), [QUESTION-472](QUESTION-472.md)).
 
 ## Bearing
 
-[QUESTION-tmpbzq36](QUESTION-tmpbzq36.md) asks whether activating another's obligations gives
+[QUESTION-472](QUESTION-472.md) asks whether activating another's obligations gives
 control over the terms of their dependence. A formal answer here would
 make that question exact: control would be the asymmetry of free
 conversions.

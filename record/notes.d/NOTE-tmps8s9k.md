@@ -24,7 +24,7 @@ summary: >-
   can put the duty of repair on a faultless agent.
 ---
 <!-- inactive-ok-file: LIT-tmpqsyr9 — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmp4o53g CLAIM-tmpa2l21 CLAIM-tmp0wx69 TERM-tmp8pnnr CASE-tmpd0hyp — Proposed; the entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmp4o53g CLAIM-708 CLAIM-tmp0wx69 TERM-tmp8pnnr CASE-tmpd0hyp — Proposed; the entries this reading bears on -->
 
 # NOTE-tmps8s9k: Shaw-Young — Global Institutions and Human Rights (on Miller's connection theory)
 
@@ -74,7 +74,7 @@ The thesis takes Miller's 2007 book as the statement of his view.
   the half "assigning present remedial duties does not show that those
   who bear them were to blame": the capacity connection puts the rescue on
   a bystander who did nothing wrong.
-- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)** (second-order wrongdoing): in tension, not conflict.
+- **[CLAIM-708](../claims.d/CLAIM-708.md)** (second-order wrongdoing): in tension, not conflict.
   In Miller's coercion case the coerced agent takes on the duty of repair
   when the coercer "disappears from the scene". The claim says the
   coercer's wrong stands beside the actor's culpability. Miller speaks of

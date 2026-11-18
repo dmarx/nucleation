@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp9xidg'
+paper: 'LIT-2710'
 title: 'Harsey and Freyd — DARVO and Insincere Apologies on Perceptions of Sexual Assault'
 version: 1
 history:

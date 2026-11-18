@@ -1,6 +1,6 @@
 ---
 status: Skimmed
-paper: 'LIT-tmpbv38s'
+paper: 'LIT-2706'
 title: 'Cuéllar — The New Presidential Adjudication'
 version: 1
 history:

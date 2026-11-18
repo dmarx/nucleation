@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpojwyk
 title: 'When an organization comes to depend on the contributions of participants it subordinates, under what conditions does that dependence increase their effective authority over it, and under what conditions does the organization instead reproduce the arrangements that keep their indispensable contributions from becoming effective claims on it?'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-15'
@@ -16,6 +16,14 @@ history:
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
 - version: 3
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cameron (LIT-2707) read on 2026-11-16, NOTE-2022. No change of status or title.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Liedo, van Grunsven and Marin (LIT-2683) read on 2026-11-16, NOTE-2011. No change of status or title.
+- version: 5
   date: '2026-11-17'
   note: >-
     A dated note: the exchange "Assess Depp Heard Abuse" gives a
@@ -43,6 +51,7 @@ summary: >-
   Saint-Domingue ([CASE-257](../cases.d/CASE-257.md)) is its case.
 ---
 <!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
+<!-- inactive-ok-file: LIT-2686 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-686 CASE-261 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: TERM-083 — Proposed; cited in the note of 2026-11-13 with its standing -->
@@ -233,8 +242,21 @@ entries were filed that bear on this question.
 
 The question is unchanged.
 
+## Note of 2026-11-16: Cameron, read
+
+Cameron's "'Making Out' While Driving" (read as a stand-in for her 2024 ASQ paper, [LIT-2686](../literature.d/LIT-2686.md), which could not be fetched) is a case of an organization that depends on the effort of participants it subordinates and secures it without ceding them authority. Drivers make the work meaningful through games. The platform's metrics make one game winnable: ratings and badges, so that drivers "tend to follow the algorithm's other suggestions". The other game meets opacity ("This opacity makes it impossible for them to accurately track their 'wins'") and sanctions ("If drivers declined too many rides, they risked being temporarily suspended or permanently deactivated"). Drivers' counter-tactics "reassert control" in the moment and leave the terms unchanged. On this evidence the question's second branch holds, the organization reproducing the arrangement, and its mechanism is the design of what counts as a win. The paper declines to say this produces consent, and takes no normative position.
+
+## Note of 2026-11-16: Liedo, Van Grunsven and Marin, read
+
+A case where an organization's dependence on subordinated contributors does **not** increase their
+authority. Care institutions depend on paid care workers' emotional labor, yet workers'
+identification with caring keeps its exploitation "unacknowledged by them or by other agents"
+(p. 6), and robots let institutions respond "without reorganizing care responsibilities in a fairer
+manner" (p. 13). Relation: **bears_on**.
+
 ## Note of 2026-11-17: a mechanism for the second branch, and a sharper question, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpe5u7i CLAIM-690 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed -->
+<!-- inactive-ok-file: CLAIM-713 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-690 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, or Proposed -->
 
 The exchange "Assess Depp Heard Abuse" (2026-11-15) offers a mechanism for
 this question's second branch, where an organization's dependence on
@@ -245,8 +267,8 @@ from a financial obligation of the institution into a moral burden on its
 employees.**"). On [CLAIM-690](../claims.d/CLAIM-690.md) a part able to withdraw turns the whole's
 need of it into its own hold; a commitment that makes withdrawal a moral
 failure takes that ability away from inside, and the need gives no hold.
-A13 §10 adds that the most conscientious bear most. Filed as
-[CLAIM-tmpe5u7i](../claims.d/CLAIM-tmpe5u7i.md), which bears on this question.
+A13 §10 adds that the most conscientious bear most. Held as
+[CLAIM-713](../claims.d/CLAIM-713.md), which bears on this question.
 
 A17's close asks the reverse of principal–agent theory: "*How can agents
 hold principals accountable for the conditions under which agents are

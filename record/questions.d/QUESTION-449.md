@@ -161,7 +161,7 @@ the attribution of organizational responsibility." The case is A's
 report of unread works. The question is unchanged.
 
 ## Note of 2026-11-17: formation and the act can belong to different people, for persons, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpa2l21 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 
 A9 §3 of the exchange "Assess Depp Heard Abuse" (2026-11-15) separates
 corrupting someone's choices (values intact, acting on them made costly)
@@ -186,4 +186,4 @@ capacity to alter the mechanism returns.
 It is asserted, not argued, and stated for persons; whether an
 organization's share grows in the same way as its capacity to alter an
 installed mechanism returns is the question still. The wrong of installing
-it is filed as [CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md). The question stays Open.
+it is held as [CLAIM-708](../claims.d/CLAIM-708.md). The question stays Open.

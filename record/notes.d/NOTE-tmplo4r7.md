@@ -13,7 +13,7 @@ history:
     pdftotext. Page numbers are the manuscript's. The published version,
     "substantially revised", was not compared. The quotes below were
     rechecked by the filer against that text on 2026-11-18. Read as a
-    stand-in for Watson (1996), LIT-tmpmsh0d.
+    stand-in for Watson (1996), LIT-2718.
 date: '2026-11-18'
 summary: >-
   Watson's attributability carries desert as fittingness and his
@@ -22,8 +22,8 @@ summary: >-
   notion of desert extends to the other face, so the two faces come
   apart further. King quotes Watson 1996 by page throughout.
 ---
-<!-- inactive-ok-file: LIT-tmpmsh0d — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpa2l21 CLAIM-tmpciy9q QUESTION-068 TERM-tmp8pnnr — Proposed or Deferred; the entries this reading bears on -->
+<!-- inactive-ok-file: LIT-2718 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-708 CLAIM-tmpciy9q QUESTION-068 TERM-tmp8pnnr — Proposed or Deferred; the entries this reading bears on -->
 
 # NOTE-tmplo4r7: King — Two Faces of Desert
 
@@ -85,7 +85,7 @@ accountability-blame is best construed as expressed sanction.
   condition, as King quotes it, is one: a "reasonable opportunity to avoid"
   sanction. King adds the blamer's standing. Both are conditions ownership
   of the act does not give.
-- **[CLAIM-tmpa2l21](../claims.d/CLAIM-tmpa2l21.md)**: the fairness condition is a route by which coerced
+- **[CLAIM-708](../claims.d/CLAIM-708.md)**: the fairness condition is a route by which coerced
   or structured conduct stays attributable to the actor while
   accountability-blame is reduced. Watson, as quoted, says nothing about
   the arranger's own wrong.
@@ -98,7 +98,7 @@ accountability-blame is best construed as expressed sanction.
 
 ## Connections
 
-Stands in for Watson (1996), [LIT-tmpmsh0d](../literature.d/LIT-tmpmsh0d.md), for the two faces, the
+Stands in for Watson (1996), [LIT-2718](../literature.d/LIT-2718.md), for the two faces, the
 sanction-like character of accountability, its fairness and standing
 conditions, and the independence of the faces, in Watson's words as
 quoted. It does not restate Watson's own arguments, his treatment of the

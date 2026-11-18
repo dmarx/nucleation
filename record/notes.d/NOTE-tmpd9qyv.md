@@ -14,7 +14,7 @@ history:
     references are not in the extraction. Europe PMC's endpoint for the
     same PMCID returned HTTP 500. The quotes below were rechecked by the
     filer against that text on 2026-11-18. Read as a stand-in for Johnson
-    (2008), LIT-tmp5254i.
+    (2008), LIT-2715.
 date: '2026-11-18'
 summary: >-
   In 190 divorcing mothers, coercive control scored by the frequency of
@@ -23,8 +23,8 @@ summary: >-
   harassment even with the frequency and severity of violence held
   constant.
 ---
-<!-- inactive-ok-file: LIT-tmp5254i — Unavailable; the work this stands in for -->
-<!-- inactive-ok-file: CLAIM-tmpkivlz CASE-tmpzt3zf — Proposed; the entries this reading bears on -->
+<!-- inactive-ok-file: LIT-2715 — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: CLAIM-709 CASE-279 — Proposed; the entries this reading bears on -->
 
 # NOTE-tmpd9qyv: Hardesty et al. — Toward a Standard Approach to Operationalizing Coercive Control and Classifying Violence Types
 
@@ -80,18 +80,18 @@ amount of violence.
 
 ## Bearing on the record
 
-- **[CLAIM-tmpkivlz](../claims.d/CLAIM-tmpkivlz.md)**: corroborates, empirically. The group differences in
+- **[CLAIM-709](../claims.d/CLAIM-709.md)**: corroborates, empirically. The group differences in
   fear, threat and harassment track the control context with the violence
   held constant, and a count of control tactics misclassifies controllers
   who "enforce them relentlessly". Both fit the claim that a tally of acts
   does not settle who dominates.
-- **[CASE-tmpzt3zf](../cases.d/CASE-tmpzt3zf.md)**: the nonviolent coercive control group shows high
+- **[CASE-279](../cases.d/CASE-279.md)**: the nonviolent coercive control group shows high
   control with no violence at all, a plainer divergence of the two
   questions than Carol and Dan, and a documented one.
 
 ## Connections
 
-Stands in for Johnson (2008), [LIT-tmp5254i](../literature.d/LIT-tmp5254i.md), with Johnson as co-author. It
+Stands in for Johnson (2008), [LIT-2715](../literature.d/LIT-2715.md), with Johnson as co-author. It
 restates the book's two main types and that they are told apart by control
 context, and quotes the book once (p. 87). It does not restate violent
 resistance, mutual violent control, or the book's evidence.

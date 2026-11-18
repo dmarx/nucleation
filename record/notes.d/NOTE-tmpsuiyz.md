@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp9dq5h'
+paper: 'LIT-2713'
 title: 'Cerrato, Sahlgren and Heilmann — Taking the Whys Seriously'
 version: 1
 history:
@@ -115,7 +115,7 @@ justification versus recourse.
   does not argue who should control that.
 - **[CLAIM-410](../claims.d/CLAIM-410.md)**. Weakly related: the decisive discretion sits in the
   deployer's upstream choices of labels, measures and metrics, consistent
-  with authority moving into design (Bovens and Zouridis, [LIT-tmp8l2be](../literature.d/LIT-tmp8l2be.md)).
+  with authority moving into design (Bovens and Zouridis, [LIT-2661](../literature.d/LIT-2661.md)).
   The paper makes no claim about governing positions.
 
 ## Verdict on the exchange's characterization

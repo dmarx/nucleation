@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: 'LIT-tmp8l2be'
+paper: 'LIT-2661'
 title: 'Bovens and Zouridis — From Street-Level to System-Level Bureaucracies'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   ICT supervision, hardship clauses, customer panels and public access to
   the systems' logic.
 ---
-<!-- inactive-ok-file: CLAIM-671 CLAIM-tmp11xvc — Proposed; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: CLAIM-671 CLAIM-710 — Proposed; cited with their standing, entries this reading bears on or files -->
 
 # NOTE-tmp2pb8c: Bovens and Zouridis — From Street-Level to System-Level Bureaucracies
 
@@ -105,7 +105,7 @@ informatization review.
   accountability owed changes with the locus ("political control and
   accountability rather than ... legality"). The traffic-fine case also
   eliminates the prosecutor's and judge's case-level discretion.
-- **[CLAIM-tmp11xvc](../claims.d/CLAIM-tmp11xvc.md)** (reducing procedural friction removes places where a
+- **[CLAIM-710](../claims.d/CLAIM-710.md)** (reducing procedural friction removes places where a
   process could be stopped or redirected). Corroborates. In both cases
   the human points at which a case could be weighed or redirected are
   gone; the only one left is one the citizen must open by objection or
@@ -116,7 +116,7 @@ informatization review.
   Related: vulnerability moves from the caseworker's discretion to the
   designer's, and the authors argue new accountability for designers from
   it. Not filed as a relation.
-- **[LIT-tmp7wp1i](../literature.d/LIT-tmp7wp1i.md)** (Citron) is the US counterpart; the two converge on
+- **[LIT-2719](../literature.d/LIT-2719.md)** (Citron) is the US counterpart; the two converge on
   audit or supervision, public access to the system's logic and channels
   for exceptions.
 

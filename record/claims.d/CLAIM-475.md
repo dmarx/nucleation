@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-29'
@@ -45,6 +45,12 @@ history:
     of recognized violations, not that every score against the recognized
     set can only fall. No status change.
 - version: 6
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): A35 §5 applies this claim to the governance of fast
+    automated systems. Title, defeater and status unchanged.
+- version: 7
   date: '2026-11-17'
   note: >-
     A dated note: A79 §2 of the exchange "Assess Depp Heard Abuse"
@@ -290,6 +296,26 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Fang, Jian, Li and Ma** ([THEORY-1746](../theory.d/THEORY-1746.md)): **supports the first half, as an instance**. Concepts keep laws concise enough for symbolic regression to find them. The paper's redundancy control speaks to the cost side but does not test the second half.
 
 The claim is unchanged.
+
+## Note of 2026-11-15: specification lag, from "Assess Depp Heard Abuse"
+
+A35 §5 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c) reads
+this claim as "easy to miss": "**Formulating a question is itself a
+resource-bounded activity.**" It applies it to a deployed classifier whose
+errors are noticed one at a time until, much later, the question "Perhaps
+the system's classification scheme is itself inappropriate" becomes
+available, by which time many decisions have been made under it. A
+separates "recognition lag", "specification lag" and "implementation lag",
+and concludes: "**A sufficiently fast system can produce consequential
+changes before the institutions responsible for governing it have developed
+the conceptual resources needed to recognize which changes warrant
+intervention.**" With this claim's double character of stored inquiry, a
+stable specification that makes repetition cheap and entrenches its
+distinctions: "If execution becomes dramatically cheaper while revising
+specifications remains difficult, the organization may become increasingly
+committed to a framework that it has decreasing capacity to reconsider."
+That is an application, not a revision. Mapped, not filed.
 
 ## Note of 2026-11-17: an objection that cannot be formulated, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: CLAIM-tmpi68s2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->

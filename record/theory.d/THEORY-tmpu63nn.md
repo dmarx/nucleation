@@ -16,11 +16,11 @@ tags:
 - philosophy-of-technology
 date: '2026-11-18'
 source:
-- LIT-tmp9dq5h
+- LIT-2713
 corroborates:
 - CLAIM-tmpohafo
 summary: >-
-  Cerrato, Sahlgren & Heilmann (2026), [LIT-tmp9dq5h](../literature.d/LIT-tmp9dq5h.md), read in [NOTE-tmpsuiyz](../notes.d/NOTE-tmpsuiyz.md):
+  Cerrato, Sahlgren & Heilmann (2026), [LIT-2713](../literature.d/LIT-2713.md), read in [NOTE-tmpsuiyz](../notes.d/NOTE-tmpsuiyz.md):
   experiments on one resume-screening pipeline with two retrieval-based
   methods, and a normative argument for relational recourse. It
   corroborates [CLAIM-tmpohafo](../claims.d/CLAIM-tmpohafo.md), which does not rest on it: explanation can
@@ -31,7 +31,7 @@ summary: >-
 
 # THEORY-tmpu63nn: Counterfactual explanations used to justify a decision or to offer recourse are partly artifacts of the deployer's upstream choices of labels, measures, selection metrics and validation, which shift them as much as or more than the explanation method does, so on their own they cannot show that a decision was justified or what its subject should change, and they bracket whether the decision-maker should have acted otherwise
 
-Cerrato, Sahlgren & Heilmann (2026), [LIT-tmp9dq5h](../literature.d/LIT-tmp9dq5h.md).
+Cerrato, Sahlgren & Heilmann (2026), [LIT-2713](../literature.d/LIT-2713.md).
 
 ## The result
 

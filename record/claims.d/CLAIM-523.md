@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 4
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,13 +20,28 @@ history:
     authority and actuation that repair separately, though not one to one
     onto these three.
 - version: 3
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): the owner's procedural-friction claim (CLAIM-710)
+    locates the occasions on which this claim's three achievements are
+    needed. Title, defeater and status unchanged.
+- version: 4
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Cerrato, Sahlgren and Heilmann (LIT-2713) read on 2026-11-16, NOTE-1996. No change of status or title.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Frey and Schneider (LIT-2704) read on 2026-11-16, NOTE-1995. No change of status or title.
+- version: 6
   date: '2026-11-17'
   note: >-
     A dated note: A102 §2 of the exchange "Assess Depp Heard Abuse"
     adds a stage on the claimant's side before legibility to the
     organization, and A108 §3 reads the three achievements as
     institutional reasons-responsiveness. No other change.
-- version: 4
+- version: 7
   date: '2026-11-17'
   note: >-
     Arnstein (1969) read; informing and consultation make views
@@ -235,6 +250,43 @@ states it, and finds that it covers influence, challenge and protection
 in one direction and not justified withdrawal. [CASE-261](../cases.d/CASE-261.md), A23 §9's
 hospital network, asks this claim's three questions of one objection
 raised by different parties. No change.
+
+## Note of 2026-11-15: where the occasion for an objection lies, from "Assess Depp Heard Abuse"
+
+<!-- inactive-ok-file: CLAIM-710 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+
+The owner, U11 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c): "we can
+view automation as the effort to reduce procedural friction, but
+paradoxically procedural friction exposes (or perhaps even characterizes)
+opportunity for intervention." Filed as [CLAIM-710](CLAIM-710.md). This claim says
+what a discrepancy needs to change an organization's conduct; the owner's
+says where in a process the occasion for raising one lies, and that
+automation removes it.
+
+A30 §2, reading this claim, put the two together: "procedural friction is
+one possible institutional mechanism for maintaining the three achievements
+across time", but "not every interruption provides all three". A pause
+without a channel for substantive objection gives correctability without
+legibility; a demand for explanations that have no effect gives legibility
+without volitional efficacy; a recognized objection with no power to
+reverse gives both without correctability. So the owner's point of
+intervention is necessary for an objection to work and, by this claim, not
+sufficient. Nothing here changes the claim.
+
+## Note of 2026-11-16: Cerrato, read
+
+The paper shows a specific failure of legibility. A counterfactual explanation makes the subject legible to a fixed model, telling them what about themselves would flip the decision. It does not make the organization's own contestable choices recognizable, though in the authors' experiments those choices change the explanation more than the method's tuning does. So the discrepancy that could move the organization, an unjustified criterion, stays invisible to the person best placed to raise it. The authors: "it may be impossible for subjects to reverse their decisions through contesting such choices absent appropriate transparency".
+
+## Note of 2026-11-16: Frey and Schneider, read
+
+Frey and Schneider ([LIT-2704](../literature.d/LIT-2704.md), [NOTE-1995](../notes.d/NOTE-1995.md)) split Hirschman's voice into affective voice, which persuades, and
+effective voice, "a form of individual or collective speech that brings about a binding effect according to
+transparent processes". Their field claim is that online platforms supply the first in abundance and the
+second hardly at all: likes and mutes are "affective pressure valves in the guise of effective acts". That
+is an independent statement, for platforms, of this claim's separation of legibility from volitional
+efficacy: an objection can be heard without being able to change what the organization does. By example,
+not measurement. Relation: corroborates (the separability of legibility and efficacy, for one domain).
 
 ## Note of 2026-11-17: the claimant's side of legibility, and an institutional reading of reasons-responsiveness, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: TERM-tmphum9r CLAIM-tmp69o4u — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->

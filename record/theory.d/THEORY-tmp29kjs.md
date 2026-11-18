@@ -18,12 +18,12 @@ source:
 summary: >-
   Moynihan, Herd & Harvey (2015), [LIT-tmp9urdb](../literature.d/LIT-tmp9urdb.md), read in part in
   [NOTE-tmpd1d48](../notes.d/NOTE-tmpd1d48.md) as the read neighbour of Herd & Moynihan (2025),
-  [LIT-tmpm4lvs](../literature.d/LIT-tmpm4lvs.md), which could not be fetched. It gives no direct support to
+  [LIT-2660](../literature.d/LIT-2660.md), which could not be fetched. It gives no direct support to
   any claim of the record: its burdens are costs of reaching an
   entitlement, not of contesting a decision. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpm4lvs NOTE-tmpd1d48 — Skimmed, Unfetched; cited with their standing, entries this reading bears on or files -->
+<!-- inactive-ok-file: LIT-2660 NOTE-tmpd1d48 — Skimmed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
 # THEORY-tmp29kjs: Administrative burden in citizen-state interactions consists of learning, psychological and compliance costs, and its level and its distribution between state and individual are often a deliberate political choice, made easier by the opacity of burdens
 

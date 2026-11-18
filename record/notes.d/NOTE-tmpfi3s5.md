@@ -13,7 +13,7 @@ history:
     angry blame wants). §§I–III, V and VII by heading only. Hence
     Skimmed. The quotes below were rechecked by the filer against that
     text on 2026-11-18. Read as a stand-in for Shoemaker (2011),
-    LIT-tmpxsadz.
+    LIT-2658.
 date: '2026-11-18'
 summary: >-
   Shoemaker's later restatement of his tripartite theory: attributability,
@@ -22,7 +22,7 @@ summary: >-
   of judgment and of regard; anger belongs to accountability, and
   corporations are answerable but not accountable.
 ---
-<!-- inactive-ok-file: LIT-tmpxsadz — Unavailable; the work this stands in for -->
+<!-- inactive-ok-file: LIT-2658 — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: TERM-tmp4zjar TERM-tmp8pnnr CLAIM-tmpsk25g — Proposed or Open; the entries this reading bears on -->
 
 # NOTE-tmpfi3s5: Shoemaker — Blameworthy but Unblamable: A Paradox of Corporate Responsibility
@@ -98,7 +98,7 @@ regard.
 
 ## Connections
 
-Stands in for Shoemaker (2011), [LIT-tmpxsadz](../literature.d/LIT-tmpxsadz.md), for the three labels, the
+Stands in for Shoemaker (2011), [LIT-2658](../literature.d/LIT-2658.md), for the three labels, the
 independence of the types, answerability as Shoemaker's own third type,
 and anger as accountability's response. It does not restate the 2011
 arguments, which may differ in grounds and in how answerability is put.
