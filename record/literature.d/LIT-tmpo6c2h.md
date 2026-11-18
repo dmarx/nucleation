@@ -1,0 +1,88 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-18 (NOTE-tmpu2cx9) in full from Google's own open edition
+  of the book at sre.google, licensed CC BY-NC-ND 4.0; worth reading here
+  as the most cited published statement of blameless postmortem practice
+  in software operations, which QUESTION-476 asks about. It states the
+  practice's aims and norms; it reports no data on what postmortems find
+  or fix.
+title: 'Postmortem Culture: Learning from Failure'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Registered and read on 2026-11-18 at the owner's request to consider
+    blameless culture in engineering (QUESTION-476). Checked on
+    2026-11-18: not held in record/literature.d by title, chapter authors
+    (Lunney, Lueder), book title or URL. Chapter 15 of Beyer, Jones,
+    Petoff and Murphy (eds.), Site Reliability Engineering: How Google
+    Runs Production Systems (O'Reilly, 2016), written by John Lunney and
+    Sue Lueder, edited by Gary O'Connor. No DOI; OpenAlex gives the book
+    as 2016 with no day, so `published:` is the first of January 2016
+    (ADR-002). The web edition carries "Copyright © 2017 Google, Inc.
+    Published by O'Reilly Media, Inc. Licensed under CC BY-NC-ND 4.0".
+    Read from https://sre.google/sre-book/postmortem-culture/ (HTML
+    converted to text). No email address was sent to any service.
+tags:
+- software-engineering
+- society-and-governance
+date: '2026-11-18'
+published: '2016-01-01'
+url: 'https://sre.google/sre-book/postmortem-culture/'
+first_author: 'Lunney'
+keywords:
+- 'postmortem'
+- 'blameless postmortem'
+- 'root cause'
+- 'action items'
+- 'site reliability engineering'
+implementations: []
+summary: >-
+  John Lunney and Sue Lueder (2016), "Postmortem Culture: Learning from
+  Failure", chapter 15 of Google's Site Reliability Engineering, read in
+  NOTE-tmpu2cx9. A blameless postmortem "must focus on identifying the
+  contributing causes of the incident without indicting any individual or
+  team for bad or inappropriate behavior", because under blame "people will
+  not bring issues to light for fear of punishment"; "You can't "fix"
+  people, but you can fix systems and processes". Review asks "Was the root
+  cause sufficiently deep?" and whether the action plan is appropriate. It
+  states norms, not findings: no data on what postmortems trace or whether
+  their action items are done. It bears on QUESTION-476 and corroborates
+  CLAIM-742 (THEORY-tmpuc245).
+---
+<!-- inactive-ok-file: NOTE-tmpu2cx9 THEORY-tmpuc245 — new; the reading and its theory -->
+<!-- inactive-ok-file: CLAIM-742 — Proposed; the claim the reading corroborates -->
+
+# LIT-tmpo6c2h: Postmortem Culture: Learning from Failure
+
+John Lunney and Sue Lueder (2016). "Postmortem Culture: Learning from Failure". Chapter 15 in B. Beyer, C. Jones, J. Petoff and N. R. Murphy (eds.), *Site Reliability Engineering: How Google Runs Production Systems*. O'Reilly. https://sre.google/sre-book/postmortem-culture/
+
+## Key takeaways
+
+*From the reading (NOTE-tmpu2cx9).*
+
+- A postmortem records "an incident, its impact, the actions taken to
+  mitigate or resolve it, the root cause(s), and the follow-up actions to
+  prevent the incident from recurring".
+- Blameless: "identifying the contributing causes of the incident without
+  indicting any individual or team"; it "assumes that everyone involved in
+  an incident had good intentions and did the right thing with the
+  information they had".
+- The reason given is disclosure: under blame "people will not bring issues
+  to light for fear of punishment"; blame "risks creating a culture in
+  which incidents and issues are swept under the rug".
+- Its object is the system: postmortems "shift from allocating blame to
+  investigating the systematic reasons why an individual or team had
+  incomplete or incorrect information".
+- Review by senior engineers asks whether "the root cause" was
+  "sufficiently deep" and whether "the action plan is appropriate"; "An
+  unreviewed postmortem might as well never have existed."
+
+## Standing in the record
+
+Registered on 2026-11-18 for QUESTION-476. It is the practice's own
+statement, by its practitioners, with no evaluation: what a blameless
+postmortem is for and how Google runs one. It cites Allspaw (2012),
+LIT-tmpwev6r, and stands in for that post's practice only.

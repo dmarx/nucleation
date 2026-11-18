@@ -1,0 +1,69 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-11-18 at the owner's request to take up blameless
+  culture (QUESTION-476); not read. No lawful copy was found on
+  2026-11-18: the book (Ashgate, 1997; reissued by Routledge, 2016,
+  doi:10.4324/9781315543543) and its chapter "Engineering a Safety
+  Culture" (doi:10.4324/9781315543543-9), where Reason treats a just
+  culture, are closed in OpenAlex, which lists library catalogue records
+  and no free copy. No neighbour carrying Reason's own account was read.
+  Dekker and Nyce (2013), LIT-tmpxqwjm, read, cite this book once among
+  three references and do not state its content.
+title: 'Managing the Risks of Organizational Accidents'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Filed, not read, at the owner's request of 2026-11-18 to consider
+    blameless culture in engineering as a case for QUESTION-476.
+    Checked on 2026-11-18: not held in record/literature.d by title or
+    author (Reason). Crossref gives the Routledge reissue
+    (doi:10.4324/9781315543543, edition 1, 2016-01-29) and its chapter 9,
+    "Engineering a Safety Culture" (doi:10.4324/9781315543543-9). The
+    first edition is Ashgate, Aldershot, 1997, as Dekker and Nyce (2013)
+    cite it; year only, so `published:` is the first of January 1997
+    (ADR-002). Unavailable under ADR-041 (status note). No email address
+    was sent to any service.
+tags:
+- society-and-governance
+- complex-systems
+date: '2026-11-18'
+published: '1997-01-01'
+doi: '10.4324/9781315543543'
+first_author: 'Reason'
+keywords:
+- 'organizational accidents'
+- 'safety culture'
+- 'just culture'
+implementations: []
+summary: >-
+  James Reason (1997), Managing the Risks of Organizational Accidents
+  (Ashgate; Routledge reissue 2016). Unread and Unavailable: no lawful copy
+  of the book or of its chapter "Engineering a Safety Culture", where it
+  treats a just culture, was found. Registered for QUESTION-476 as the
+  usual source of "just culture" in safety management. Nothing is recorded
+  of its content.
+---
+<!-- inactive-ok-file: LIT-tmpxqwjm — new; the reading that cites this book -->
+
+# LIT-tmpcqntz: Managing the Risks of Organizational Accidents
+
+James Reason (1997). *Managing the Risks of Organizational Accidents*. Aldershot: Ashgate. Reissued by Routledge, 2016. DOI-10.4324/9781315543543. Chapter 9, "Engineering a Safety Culture", DOI-10.4324/9781315543543-9.
+
+## Key takeaways
+
+*Not read.* Nothing is recorded of its content. No account of Reason's just
+culture is filed from memory.
+
+## Standing in the record
+
+Registered on 2026-11-18 for QUESTION-476, at the lead filer's proposal
+after the owner asked to take blameless culture as a case. The one read
+work that cites it, Dekker and Nyce (2013), LIT-tmpxqwjm, does so in a
+string of three references for the claim that just-culture consultancy
+was "a way to restore management control over staff performance after the
+rise of emancipatory practices (and policies) that tended to blame the
+system, not the worker" (p. 75). Which of the three says what is not
+stated, so that sentence is not Reason's on the record.

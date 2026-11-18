@@ -1,0 +1,88 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-18 (NOTE-tmp45cjg) from the Legal Information Institute's
+  current text, with the NTSB regulations that apply it (49 CFR 831.4,
+  835.2 and 835.3, also from the LII); worth reading as the statutory bar
+  that keeps the Board's accident reports out of damages suits, the legal
+  half of what makes the NTSB a no-blame investigator (CASE-292,
+  QUESTION-476).
+title: '49 U.S. Code § 1154: Discovery and use of cockpit and surface vehicle recordings and transcripts'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Registered and read on 2026-11-18 to verify the lead filer's
+    recollection that 49 U.S.C. § 1154(b) bars NTSB reports from civil
+    litigation; the recollection is right in substance and is narrowed
+    in the NOTE. Checked on 2026-11-18: not held in record/literature.d
+    by citation or title. Statutes and rules are filed as LITs here (the
+    precedent: LIT-2726, LIT-2748). A statute with no DOI. Read from
+    https://www.law.cornell.edu/uscode/text/49/1154 (HTML converted to
+    text): subsection (b) and the Historical and Revision Notes in full,
+    subsection (a) skimmed. The NTSB's Tempe report (LIT-2664) cites the
+    same subsection on its notice page, and that was rechecked against
+    the NTSB's PDF the same day. `published:` is 1994-07-05, the date of
+    Pub. L. 103–272, the revision that enacted this section (its
+    Historical and Revision Notes give the earlier sources); subsection
+    (b) restates § 701(e) of the Federal Aviation Act of 1958 and
+    § 304(c) of the Independent Safety Board Act of 1974, and the text
+    read is as amended through Pub. L. 115–254 (2018). No email address
+    was sent to any service.
+tags:
+- society-and-governance
+date: '2026-11-18'
+published: '1994-07-05'
+url: 'https://www.law.cornell.edu/uscode/text/49/1154'
+first_author: 'United States Congress'
+keywords:
+- 'National Transportation Safety Board'
+- 'accident report'
+- 'admissibility'
+- 'civil action for damages'
+implementations: []
+summary: >-
+  49 U.S.C. § 1154 (1994, as amended), read in NOTE-tmp45cjg. Subsection
+  (b): "No part of a report of the Board, related to an accident or an
+  investigation of an accident, may be admitted into evidence or used in a
+  civil action for damages resulting from a matter mentioned in the
+  report." The NTSB's regulations confine the bar to the Board's report of
+  its determinations, probable cause included, and not its investigators'
+  factual reports (49 CFR 835.2), and state that investigations "are not
+  conducted for the purpose of determining the rights, liabilities, or
+  blame of any person or entity" (49 CFR 831.4(c)). It grounds
+  CLAIM-tmpx4kjt and bears on QUESTION-476 (THEORY-tmpq12rp).
+---
+<!-- inactive-ok-file: NOTE-tmp45cjg THEORY-tmpq12rp CLAIM-tmpx4kjt — new; the reading, its theory and the claim it grounds -->
+<!-- inactive-ok-file: CASE-292 — Proposed; the case the statute bears on -->
+
+# LIT-tmphhd10: 49 U.S. Code § 1154: Discovery and use of cockpit and surface vehicle recordings and transcripts
+
+United States Congress (1994, as amended). 49 U.S.C. § 1154, "Discovery and use of cockpit and surface vehicle recordings and transcripts", enacted by Pub. L. 103–272, § 1(d), 108 Stat. 757; amended by Pub. L. 106–424 (2000) and Pub. L. 115–254 (2018). Text at the Legal Information Institute.
+
+## Key takeaways
+
+*From the reading (NOTE-tmp45cjg).*
+
+- § 1154(b): no part of a Board report "related to an accident or an
+  investigation of an accident" may be "admitted into evidence or used in a
+  civil action for damages resulting from a matter mentioned in the
+  report."
+- The bar covers the Board's own report, its determinations and probable
+  cause; "there is no statutory bar to" admitting investigators' factual
+  reports (49 CFR 835.2).
+- Its purpose, in the NTSB's regulation: "to keep the Board free of the
+  entanglement of such suits" and "ensure that the Board does not exert an
+  undue influence on litigation" (49 CFR 835.3(a)).
+- It reaches civil actions for damages. It says nothing of criminal
+  proceedings, which the texts read do not mention.
+
+## Standing in the record
+
+Registered on 2026-11-18 to check a citation the lead filer gave from
+memory for QUESTION-476: the statute "barring NTSB reports from civil
+litigation", believed to be § 1154(b). The section number is right. The
+recollection is broader than the text: the bar is on the Board's reports,
+not its factual record, and in civil actions for damages, not civil
+litigation at large or prosecution.
