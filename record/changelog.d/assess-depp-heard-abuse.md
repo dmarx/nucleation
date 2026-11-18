@@ -62,7 +62,7 @@
   questions, on authorization defaults ([QUESTION-tmpz5twh](record/questions.d/QUESTION-tmpz5twh.md)), on repair
   without blame ([QUESTION-tmp3hvti](record/questions.d/QUESTION-tmp3hvti.md)) and on an organization's standing to
   blame ([QUESTION-tmppfb7b](record/questions.d/QUESTION-tmppfb7b.md)).
-- After the split of organizational-normativity (#506): QUESTION-tmpgyn11,
-  CLAIM-tmpyjzi8, CLAIM-tmpp8na7 with CASE-tmpwrhkd and ARG-tmpsyaz2, and
-  CLAIM-tmp7zzbd move to dependence-and-domination; CLAIM-tmpnfjln gains it
-  second; CLAIM-tmpnw7ez gains distributed-agency second (ADR-085).
+- After the split of organizational-normativity ([#506](https://github.com/dmarx/nucleation/issues/506)): [QUESTION-tmpgyn11](record/questions.d/QUESTION-tmpgyn11.md),
+  [CLAIM-tmpyjzi8](record/claims.d/CLAIM-tmpyjzi8.md), [CLAIM-tmpp8na7](record/claims.d/CLAIM-tmpp8na7.md) with [CASE-tmpwrhkd](record/cases.d/CASE-tmpwrhkd.md) and [ARG-tmpsyaz2](record/arguments.d/ARG-tmpsyaz2.md), and
+  [CLAIM-tmp7zzbd](record/claims.d/CLAIM-tmp7zzbd.md) move to dependence-and-domination; [CLAIM-tmpnfjln](record/claims.d/CLAIM-tmpnfjln.md) gains it
+  second; [CLAIM-tmpnw7ez](record/claims.d/CLAIM-tmpnw7ez.md) gains distributed-agency second ([ADR-085](record/decisions.d/ADR-085.md)).
