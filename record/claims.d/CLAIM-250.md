@@ -103,3 +103,14 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Lebo, Sahoo and McGuinness (eds.)** ([THEORY-1806](../theory.d/THEORY-1806.md)): PROV-O provides the what was asserted, by whom, from what, revised from what part, not the "why" or "what justified" part. Qualifies: it shows which part of CLAIM-250's structure an existing standard covers.
 
 The claim is unchanged.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after the revisions of CASE-086, CASE-090 and CLAIM-293 (line
+bookkeeping of 2026-11-07, and CLAIM-293's bears_on of 2026-11-11) and of
+CLAIM-295; none changes what they hold, and CLAIM-295 stays Proposed at this
+review. The body reports the interlocutor's proposal and shows that fidelity
+can be defined over justificatory relations while content changes; it does
+not argue that these, rather than some core of propositions, are what should
+be preserved, and no case tests its defeat condition. It is not adopted at
+this review.

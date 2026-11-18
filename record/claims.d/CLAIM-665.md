@@ -85,3 +85,9 @@ without touching the interaction.
 - Not that governance should be dropped where categories fit. A cost with
   no benefit on routine tasks could still be worth paying for its value on
   the rest, if a collective cannot tell in advance which tasks are which.
+
+## Note of 2026-11-18: what holds it back
+
+An empirical prediction with no evidence in the record. The study that would
+test it is CASE-253's secondary estimand on tasks where no schema change is
+warranted, a proposed design that has not been run.

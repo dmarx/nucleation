@@ -106,3 +106,13 @@ round with the need held fixed, so it gives no evidence that the question
 drifts. The claim's case, the exchange's drift from A2 to A14, is in the
 body and not filed as a CASE, and A21 §7's study at matched budgets, which
 the defeated_if names, has not been run.
+
+## Note of 2026-11-18: what holds it back
+
+Reviewed again; nothing the note of 2026-10-30 names has moved. The
+exchange's drift from A2 to A14 is still not filed as a CASE, and A21 §7's
+study at matched budgets has not been run. The one instance in the body
+shows question drift corrected from outside, but not that the
+selection-and-reinforcement loop produced it rather than the pull toward the
+collaborator's framing that CLAIM-191 reads, and the title's mechanism needs
+the first.

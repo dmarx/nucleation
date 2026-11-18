@@ -130,3 +130,13 @@ for prose arguments is at least as hard as the conjunctive case.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability generalizes this claim: a system may hold a capability, or information sufficient for a task, without an affordable procedure for recognizing when and how to use it. A writes "Available information ⇏ Computationally accessible information" and "Existing solution ⇏ Affordable discovery of that solution", and would add recognition and reuse to the resource accounting. The claim holds the narrow case, certifying exact coverage of conjunctive queries by stored views ([THEORY-389](../theory.d/THEORY-389.md); [THEORY-371](../theory.d/THEORY-371.md)), and its disclaimers stand: the hardness is worst case and says nothing about prose. Read beside [CLAIM-576](CLAIM-576.md), the generalization says that a repertoire of realizable processes should count the cost of recognizing which process applies; that connection is the filer's. No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after CLAIM-308's revision of 2026-11-10 and its promotion at this
+review, and after CLAIM-576's note of 2026-11-15. CLAIM-308 concedes this
+objection, which keeps the status its evidence gives it (ADR-059). The title
+still says without condition that each filing raises the cost of later
+reuse, while the body says most of the record's reuse is lookup by code;
+nothing measures the cost of recognition in the record's own reuse, and
+CLAIM-576's readings generalize the point without measuring it.

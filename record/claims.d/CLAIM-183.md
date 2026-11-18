@@ -94,3 +94,11 @@ It is one instance, U40, and its defeat condition is stated over further
 exchanges: no later exchange is recorded in which a fed-back view
 produced a move the participants acted on that rereading the source
 entries would not have given. Its premise [CLAIM-178](CLAIM-178.md) is Proposed.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after CLAIM-178's revisions (versions 3 to 5, line bookkeeping and
+a bears_on edge). CLAIM-178 stays Proposed at this review, and no later
+exchange is recorded in which a fed-back view produced a move the
+participants acted on that rereading the source entries would not have
+given.

@@ -117,3 +117,14 @@ CLAIM-182's distinction between keeping content and being able to address it has
 HRR adds a qualification. Keyed readout of a superposed store is noisy, and it becomes exact only through a second, content-addressed clean-up memory.
 
 These are models of addressability in a memory. They are not evidence about records or archives, the claim's own domain, and none bears on whether codes suppress re-derivation. No status change.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked against what moved since the note of 2026-10-29. CASE-183's
+inbound references per code were counted on 2026-11-06 (CLAIM-185's note of
+that date), and almost every code is cited; that tells an anchor from a kept
+structure only among things already coded, and does not count re-derivation
+of the same stored content before and after its parts got addresses, which
+is the comparison the claim needs. The readings of LIT-2618, LIT-2624 and
+LIT-2644 (the note of 2026-11-15) are models of keyed retrieval, not
+evidence about records. The before-and-after count is still not made.

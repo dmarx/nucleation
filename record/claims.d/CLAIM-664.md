@@ -1,10 +1,10 @@
 ---
 number: 664
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp8qsef
 title: 'The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and, since its relations record support of unrecorded strength rather than justifications taken as sufficient, no rule reading only the support graph and the entries'' statuses could make that judgment correctly'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-12'
@@ -25,6 +25,20 @@ history:
     relations, which are not of that kind, and the two readings that mark
     the limit carry `bounds` to this claim. The derivation from CLAIM-293
     is unchanged. One decision, in place of three overlapping notes.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review of 2026-11-18, at the status review's
+    ruling (the owner delegated these rulings; ADR-057), which adopts
+    A's wording as narrowed in version 2. Its one premise, CLAIM-293, is
+    Active; no objection names it; nothing in the record meets its
+    defeat condition, since the record retracts nothing when an entry is
+    retired and its relations are not justifications taken as
+    sufficient. The derivation was checked: two records CASE-089 makes
+    identical in graph and statuses give any graph-only rule one input,
+    and the right verdicts differ. The Proposed readings that mark its
+    limit (THEORY-1753, THEORY-1778) carry `bounds`, which is not
+    support, and THEORY-1780 corroborates it. The text is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

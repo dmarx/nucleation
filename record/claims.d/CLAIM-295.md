@@ -119,3 +119,12 @@ The informational clauses are carried by [CLAIM-294](CLAIM-294.md) and [CLAIM-30
 Active. The computational clause has only A10's illustrative example, and a
 state built for the tasks could carry the same dependency index, which is
 exactly what the defeat condition asks to be shown or ruled out.
+
+## Note of 2026-11-18: what holds it back
+
+Rechecked after CLAIM-294's revisions of 2026-11-11 (stale text and a
+bears_on edge) and CLAIM-300's line bookkeeping of 2026-11-07. Neither
+touches the computational clause, which still has only A10's illustrative
+example: nothing shows a decision a bounded agent can make with a kept
+history that it could not make with a state built for the same tasks and
+carrying the same dependency index.

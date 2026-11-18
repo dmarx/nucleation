@@ -151,3 +151,11 @@ from an exchange, and the comparison its defeat condition names has not been
 made: no draft written against the record has been checked, beside one
 written straight from an exchange, for dropped commitments and unannounced
 changes of thesis.
+
+## Note of 2026-11-18: what holds it back
+
+Reviewed again. Its revisions since the note of 2026-10-29 (versions 3 to 5)
+are line bookkeeping and a bears_on edge. The general form still rests on
+one exchange (CLAIM-324), and the comparison its defeat condition names, a
+draft written against the record checked beside one written straight from an
+exchange, has not been made.

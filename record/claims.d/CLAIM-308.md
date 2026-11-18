@@ -1,10 +1,10 @@
 ---
 number: 308
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpc3sk7
 title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -49,6 +49,19 @@ history:
     second-occurrence rule "is the break-even rule" when overpayment
     is per reconstruction. Found when the costs part was checked for
     a root question (2026-11-10). No other change.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review of 2026-11-18, at the status review's
+    ruling (the owner delegated these rulings; ADR-057, ADR-065). The
+    two waits of the note of 2026-10-30 are met. A second reviewer
+    re-derived the bound step by step, upper and lower, and re-ran it
+    with controls (scratch/formal/claim308_rent_or_buy_check.py; the
+    note of 2026-11-18). CLAIM-303 writes in this objection at the same
+    review, restricting its last clause to reuse that can be forecast
+    (ADR-059). QUESTION-098 moves from answers to bears_on: the claim
+    answers only the case without a forecast, with staleness left out,
+    and the question asks about staleness too. The title is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -69,7 +82,7 @@ summary: >-
   reach staleness, which the theorem forbids rather than prices, or drifting
   costs, and where reuse can be forecast an expected-reuse rule can do better,
   so [CLAIM-303](CLAIM-303.md)'s criterion survives there.
-answers:
+bears_on:
 - QUESTION-098
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-185 — Proposed; the claim objected to, and an open claim cited as open -->
@@ -179,3 +192,32 @@ The bound corrected in version 3 has not yet been re-derived by a second
 reviewer. Promoting this objection makes its concession due on [CLAIM-303](CLAIM-303.md),
 which has not answered: it could restrict its last clause to reuse that
 can be forecast, or hold that the record always has some forecast.
+
+## Note of 2026-11-18: the bound re-derived by a second reviewer
+
+Re-derived at the status review of 2026-11-18, from the setting above, with
+d = c_r − a, a = c_a + u, k = ⌊F/d⌋, and hindsight paying min(n·c_r, F + n·a).
+
+- **Upper bound.** If reuse stops at n ≤ k, then nd ≤ F, so n·c_r ≤ F + n·a
+  and the rule pays what hindsight pays. If n ≥ k + 1, the rule pays
+  k·c_r + F + (n − k)a = kd + F + n·a, and n·c_r ≥ (k + 1)d + n·a > F + n·a,
+  so hindsight pays F + n·a. The ratio is 1 + kd/(F + n·a) ≤ 1 + kd/(F + (k + 1)a).
+  That is at most 1 + d/c_r because k·c_r ≤ F + (k + 1)a reduces to kd ≤ F + a,
+  which holds since kd ≤ F. So 1 + d/c_r = 2 − a/c_r.
+- **Lower bound.** A rule that files at use m meets an adversary who stops
+  at n = m. Write K = ⌊F/d⌋ ≥ 1. For m ≤ K, hindsight pays m·c_r. The ratio
+  1 + (F + a − c_r)/(m·c_r) falls with m, so it is least at m = K, where it is
+  at least (2 − a/c_r) − d/(K·c_r). For m ≥ K + 1, hindsight pays F + m·a. The
+  ratio rises with m, since its derivative has the sign of (c_r − a)(F + a) > 0.
+  At m = K + 1 it is 1 + Kd/(F + (K + 1)a) > (2 − a/c_r) − d/((K + 1)c_r),
+  because F < (K + 1)d. Either way the shortfall is under d/(K·c_r) < 1/K,
+  which vanishes as F/d grows, as the claim says.
+- **Rounding.** Filing at m = ⌈F/d⌉ + 1, once the overpayment has reached F,
+  is the control. With a = 0 and F not a multiple of d it exceeds 2.
+
+scratch/formal/claim308_rent_or_buy_check.py checks the three steps exactly,
+over rationals, on 20,000 random instances. Its two controls must fail the
+bound, and both do: the reached-F rounding, and filing at once when F is
+many overpayments. The break-even rule never exceeds 2 − a/c_r. No filing
+use beats (2 − a/c_r) − 1/K against the adversary, and the break-even rule's
+gap to the bound at n = k + 1 is O(1/K).
