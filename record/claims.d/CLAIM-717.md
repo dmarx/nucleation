@@ -44,7 +44,6 @@ summary: >-
   engineering, bears on most directly ([QUESTION-476](../questions.d/QUESTION-476.md)). The wording is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CASE-284 CLAIM-733 CLAIM-742 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->

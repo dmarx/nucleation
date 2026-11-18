@@ -32,7 +32,6 @@ summary: >-
   indispensable effort into a claim on the conditions it works under. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-473 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-713 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-687 CLAIM-624 THEORY-1371 — Proposed; the record's nearest entries, cited with their standing -->
 

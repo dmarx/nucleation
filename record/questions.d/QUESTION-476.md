@@ -37,7 +37,6 @@ summary: >-
   question is the filer's (Claude, in this session), and adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-470 — Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-717 CLAIM-733 CLAIM-742 TERM-127 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; the record's nearest entries, cited with their standing -->

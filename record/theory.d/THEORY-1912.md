@@ -22,7 +22,7 @@ corroborates:
 bears_on:
 - QUESTION-468
 ---
-<!-- inactive-ok-file: CLAIM-708 LIT-2679 LIT-2694 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+<!-- inactive-ok-file: CLAIM-708 LIT-2694 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1912: Tognazzini and Coates find no agreed account of what blame is, among cognitive, emotional, conative and functional theories, and hold that whether blaming is appropriate depends not only on whether its target is blameworthy but on the blaming interaction and on the blamer, whose standing hypocrisy, complicity in the wrong and meddling can undermine
 
 ## Source

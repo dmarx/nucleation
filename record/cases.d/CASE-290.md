@@ -36,7 +36,6 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-702 CLAIM-700 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
-<!-- inactive-ok-file: CLAIM-700 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-553 CLAIM-619 CASE-249 — Proposed or new; the claims the study would test -->
 
 # CASE-290: A proposed study of a fall in complaints: with working conditions held fixed, measure separately whether members find the conditions acceptable, see the discrepancy from their standards, are moved to intervene, have a protected channel and can change what the institution does, and compare an organization with timely, protected escalation against one where complaint is costly or ineffective, to tell satisfaction from tolerance
