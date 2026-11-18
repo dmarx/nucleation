@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -46,6 +46,13 @@ history:
   note: >-
     Arnstein (1969) read; informing and consultation make views
     legible without efficacy, which corroborates the claim.
+- version: 8
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §11 states its proposition, as the legibility
+    of dissent against its efficacy. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,6 +71,8 @@ date: '2026-10-31'
 line:
 - will-organization
 - distributed-agency
+works:
+- capability-restraint-relational-freedom
 uses:
 - TERM-064
 - TERM-023

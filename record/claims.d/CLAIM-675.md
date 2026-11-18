@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6wuql
 title: 'Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-13'
@@ -16,6 +16,12 @@ history:
     blurb names (Sen's capability against functionings achieved). ADR-099
     named it the first candidate. CLAIM-676 complements it on the
     side of participation. Its own lines are unchanged.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §8 states its proposition. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,6 +46,8 @@ line:
 - transient-support
 - will-organization
 - flourishing-and-meaning
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-605
 - CLAIM-352

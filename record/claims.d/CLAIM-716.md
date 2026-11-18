@@ -4,13 +4,20 @@ formerly:
 - CLAIM-tmp3t16f
 status: Proposed
 title: 'A breach can lower the injured party''s position if it refuses to settle, so that the breaching party gains leverage over the resolution of its own breach: a settlement the injured party rationally accepts afterward can leave the breacher ahead, the leverage coming from the violation and not from any right to set the terms'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: bears_on QUESTION-478. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A55 and A57 §8 state its proposition (A57 §8's
+    remedial capture). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,6 +39,8 @@ line:
 - dependence-and-domination
 - distributed-agency
 - rightful-power
+works:
+- capability-restraint-relational-freedom
 bears_on:
 - QUESTION-478
 complements:

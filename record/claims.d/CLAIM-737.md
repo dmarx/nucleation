@@ -4,13 +4,20 @@ formerly:
 - CLAIM-tmpmeabu
 status: Proposed
 title: 'That a capability''s exercise should be limited and that a given party may limit it are separate conclusions on separate grounds, neither entailing the other; the power to restrict is itself a capability, whose legitimacy turns on how it is bounded and answerable and not on whether the limit it imposes is right'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: answers QUESTION-478; bears_on QUESTION-485.
+    No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §1, §5, §12 and §14.2 state its proposition.
     No other change.
 role: thesis
 warrant: interpretive
@@ -30,6 +37,8 @@ line:
 - dependence-and-domination
 - organizational-normativity
 - rightful-power
+works:
+- capability-restraint-relational-freedom
 answers:
 - QUESTION-478
 bears_on:

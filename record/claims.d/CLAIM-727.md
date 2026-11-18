@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpcpijj
 status: Proposed
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -26,6 +26,13 @@ history:
     it is what control over recourse, one of the grounds of answerability,
     generates; carries rightful-power after its own line under ADR-085.
     No other change.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §11 and A76's concise thesis for the
+    manuscript state its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,6 +54,8 @@ line:
 - dependence-and-domination
 - organizational-normativity
 - rightful-power
+works:
+- capability-restraint-relational-freedom
 complements:
 - CLAIM-624
 - CLAIM-619

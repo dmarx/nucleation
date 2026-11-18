@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpl0sgt
 status: Proposed
 title: 'Where an entitlement is protected by a requirement of its holder''s consent, an irreversible act against it leaves the holder in practice only a claim to compensation, so the actor has changed by its own act the rule by which the entitlement is allocated, from consent to liability, and not only what is paid for it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -19,6 +19,13 @@ history:
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: bears_on QUESTION-478. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-tmpived4), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §10 and A57 §8 state its proposition. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +47,8 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - rightful-power
+works:
+- capability-restraint-relational-freedom
 bears_on:
 - QUESTION-478
 complements:
