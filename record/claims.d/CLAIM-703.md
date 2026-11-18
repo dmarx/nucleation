@@ -29,7 +29,7 @@ history:
     three mechanisms and §6's contrast with persuasion; A13 §5 and §9's
     limit that appealing to commitments is not wrong as such; the neighbours
     THEORY-225, CLAIM-660 and QUESTION-071, with bears_on QUESTION-071 and
-    QUESTION-472; and the use of the continuation's TERM-tmp8pnnr. A15 §7's
+    QUESTION-472; and the use of the continuation's TERM-127. A15 §7's
     condition, which the continuation's entry carried, stays with CLAIM-713.
     The title was: One party can wrongfully bring about circumstances in
     which another incurs a genuine obligation, so that the second does right
@@ -66,7 +66,7 @@ bears_on:
 - QUESTION-472
 - QUESTION-071
 uses:
-- TERM-tmp8pnnr
+- TERM-127
 summary: >-
   A's, from A13 of the exchange "Assess Depp Heard Abuse" (2026-11-15), at
   the owner's U7 ("double click on normative manipulation"), and attributed
@@ -84,7 +84,7 @@ summary: >-
 <!-- unresolved-ok-file: CLAIM-tmp76x3e — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: THEORY-1914 THEORY-1917 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-708 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: TERM-127 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CLAIM-713 CLAIM-660 THEORY-225 — Proposed; the same exchange's resource claim and the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: THEORY-235 — Proposed; a reading of manipulation, cited with its standing -->
 
@@ -178,7 +178,7 @@ not filed as a term.
 - [QUESTION-472](../questions.d/QUESTION-472.md) asks whether the ability to activate another's
   obligations is control over the terms of a dependence.
 - [CLAIM-660](CLAIM-660.md) (parasites acting through a host's own machinery) is the
-  biological analogue. The senses of responsibility are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s.
+  biological analogue. The senses of responsibility are [TERM-127](../terms.d/TERM-127.md)'s.
 
 ## What it does not say
 

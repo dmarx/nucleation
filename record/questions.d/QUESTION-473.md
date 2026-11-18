@@ -10,7 +10,7 @@ history:
   date: '2026-11-18'
   note: >-
     Reconciled with the continuation's filing of the same exchange (PR 512):
-    its QUESTION-tmpvoufs (agents holding principals accountable for
+    its QUESTION-487 (agents holding principals accountable for
     conditions) was compared with this question and judged distinct; a
     sentence on the difference added. No change of status or title.
 tags:
@@ -64,7 +64,7 @@ intact. Distinct from [QUESTION-470](QUESTION-470.md), which asks who must repai
 not who may condemn for it.
 
 The continuation of the same exchange filed A17's inverse question as
-[QUESTION-tmpvoufs](QUESTION-tmpvoufs.md): by what instruments agents can hold principals
+[QUESTION-487](QUESTION-487.md): by what instruments agents can hold principals
 accountable for the conditions they set. Distinct: this question asks what
 the principal may still do to the agent, that one what the agent can do to
 the principal.

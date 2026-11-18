@@ -92,7 +92,7 @@ summary: >-
   opportunity for it sits in a process, and what automation does to it.
 ---
 <!-- unresolved-ok-file: CLAIM-tmp11xvc — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
-<!-- inactive-ok-file: CLAIM-tmph28l6 CLAIM-tmpohafo CLAIM-tmp238zy CLAIM-tmpgh3v2 CASE-tmpdn372 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-731 CLAIM-740 CLAIM-715 CLAIM-730 CASE-285 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CASE-250 — Proposed; a case that uses "friction" in another sense -->
 <!-- inactive-ok-file: LIT-2660 TERM-125 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2676 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
@@ -205,11 +205,11 @@ adopting any is the owner's call.
 The continuation's filing of the same exchange (share
 https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b) filed four of
 these as A's claims, each Proposed and in A's voice, with a proposed study:
-execution against contestation friction ([CLAIM-tmph28l6](CLAIM-tmph28l6.md)); explanation,
-contestation and interruption as three entitlements ([CLAIM-tmpohafo](CLAIM-tmpohafo.md));
-cognitive against political friction ([CLAIM-tmp238zy](CLAIM-tmp238zy.md)); a slowly revised
-rule over a fast process ([CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md)); and the timing study
-[CASE-tmpdn372](../cases.d/CASE-tmpdn372.md). This claim stays the owner's and does not rest on them.
+execution against contestation friction ([CLAIM-731](CLAIM-731.md)); explanation,
+contestation and interruption as three entitlements ([CLAIM-740](CLAIM-740.md));
+cognitive against political friction ([CLAIM-715](CLAIM-715.md)); a slowly revised
+rule over a fast process ([CLAIM-730](CLAIM-730.md)); and the timing study
+[CASE-285](../cases.d/CASE-285.md). This claim stays the owner's and does not rest on them.
 
 ## What it does not say
 

@@ -211,11 +211,11 @@ criterion that decides satisfaction raises a pass rate with no accommodation
 
 ## Note of 2026-11-17: willingness to bear a burden is not endorsement of it, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: CLAIM-658 — Proposed -->
-<!-- inactive-ok-file: CASE-tmp07hx9 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CASE-281 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 
 A53 §3C of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-16), at the owner's U24, on what bids and accepted wages reveal: a monetary auction for housing can go to the bidder with money rather than the one in need, and "Someone may accept an extremely low wage because their alternatives are terrible." "**A participant's revealed willingness to accept a burden may be evidence of the constraints under which they are choosing, not evidence that they regard the burden as fair.**" A: "That is almost the economic counterpart to Nucleation's distinction between *tolerance* and *satisfaction*."
 
-It is a counterpart, one step removed. The claim is formal: a perspective can be below its activation threshold while its requirement is unmet. A's point is about acceptance inside a mechanism: the terms accepted reflect the alternatives, so acceptance is no measure of whether a requirement is met. The two meet where a low threshold for objecting is set by poor alternatives, the quiet of someone who cannot afford to refuse. A's examples carry it to a child's taking the marshmallow ([CASE-tmp07hx9](../cases.d/CASE-tmp07hx9.md): "not simply evidence of insufficient discipline"). [CLAIM-658](CLAIM-658.md) is the record's market-side neighbour: demand read from what people pay weights them by what they can spend. The extension is A's and interpretive.
+It is a counterpart, one step removed. The claim is formal: a perspective can be below its activation threshold while its requirement is unmet. A's point is about acceptance inside a mechanism: the terms accepted reflect the alternatives, so acceptance is no measure of whether a requirement is met. The two meet where a low threshold for objecting is set by poor alternatives, the quiet of someone who cannot afford to refuse. A's examples carry it to a child's taking the marshmallow ([CASE-281](../cases.d/CASE-281.md): "not simply evidence of insufficient discipline"). [CLAIM-658](CLAIM-658.md) is the record's market-side neighbour: demand read from what people pay weights them by what they can spend. The extension is A's and interpretive.
 
 No status changes.
 

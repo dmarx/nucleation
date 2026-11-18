@@ -216,7 +216,7 @@ consequence, deciding which component holds authority.
 Of the owner's U29 "super stable" perspectives that this claim's note declined to file as cases from the replies' summaries, "anti-vax" came back at U19 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), with sources cited by A41. It is filed as [CASE-222](../cases.d/CASE-222.md), Proposed until they are read. It bears on this claim's subject only through the label's persistence, not through components of different speeds. No status changes.
 
 ## Note of 2026-11-17: tempo as a source of authority among branches, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CLAIM-730 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 A25 of the exchange "Assess Depp Heard Abuse" (2026-11-15) gives this
 claim an instance among branches of government. Beside "*Who has authority
@@ -235,7 +235,7 @@ Law Journal, February 2026), as A relays it; the record has not read it.
 That is this claim's point that slowness alone does not settle which
 component governs: under a given arrangement the faster component can hold
 authority over the slower ones in the period before they act. The general
-case, a slowly revised rule over a fast process, is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md), which
+case, a slowly revised rule over a fast process, is [CLAIM-730](CLAIM-730.md), which
 rests on this claim.
 
 No status changes.

@@ -271,7 +271,7 @@ standard example. An irreversible act removes the correction later review
 would have allowed. Relation: none.
 
 ## Note of 2026-11-17: the owner's observation restated, and Hains Point, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CASE-tmpdn372 CLAIM-tmpgh3v2 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
+<!-- inactive-ok-file: CASE-285 CLAIM-730 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 At U13 of the exchange "Assess Depp Heard Abuse" (2026-11-15) the owner
 quoted A23 §3's "**The speed at which an institution can act imposes an
@@ -319,6 +319,6 @@ pre-action review was required, whether urgency was genuine, whether less
 irreversible alternatives were available, and whether the government
 preserved meaningful opportunities for legally authorized oversight." A
 study that varies only an acting institution's speed is proposed as
-[CASE-tmpdn372](../cases.d/CASE-tmpdn372.md); the slow-rule counterpart is [CLAIM-tmpgh3v2](CLAIM-tmpgh3v2.md).
+[CASE-285](../cases.d/CASE-285.md); the slow-rule counterpart is [CLAIM-730](CLAIM-730.md).
 
 No status changes.

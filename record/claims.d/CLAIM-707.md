@@ -79,8 +79,8 @@ history:
     attributional power, A17 §9's six-question audit, A17 §4's point that a
     crumple zone can hold someone partly responsible, A49 §11.1's later
     restatement, the neighbour CASE-261, bears_on QUESTION-468 and the
-    continuation's QUESTION-tmpvoufs, and the use of the continuation's
-    TERM-tmp8pnnr. The continuation's entry joined the unseen-compensation
+    continuation's QUESTION-487, and the use of the continuation's
+    TERM-127. The continuation's entry joined the unseen-compensation
     hypothesis back in; that stays CLAIM-702, as split at the review of
     2026-11-16. No change of status or title.
 role: thesis
@@ -112,9 +112,9 @@ complements:
 bears_on:
 - QUESTION-461
 - QUESTION-468
-- QUESTION-tmpvoufs
+- QUESTION-487
 uses:
-- TERM-tmp8pnnr
+- TERM-127
 summary: >-
   A's, from A17 of the exchange "Assess Depp Heard Abuse" (2026-11-15), at
   the owner's U9 ("double click on moral crumple zones and privileged
@@ -134,7 +134,7 @@ summary: >-
 <!-- unresolved-ok-file: CLAIM-tmpb47ul — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: LIT-2708 LIT-2669 — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CLAIM-708 CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: TERM-tmp8pnnr CLAIM-tmp238zy — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
+<!-- inactive-ok-file: TERM-127 CLAIM-715 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CASE-261 — Proposed; a stipulated neighbour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-678 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 
@@ -192,7 +192,7 @@ https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b).
   ensure the outcome, who can refuse or escalate, who receives credit, who
   absorbs blame and who can redesign the system. The claim's divergence is
   a pattern of answers to those six. The claim needs accountability
-  without culpability in [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s senses, A17 §9's "A person can be
+  without culpability in [TERM-127](../terms.d/TERM-127.md)'s senses, A17 §9's "A person can be
   required to explain their decisions and participate in correcting a
   failure without necessarily being morally culpable for everything that
   happened."
@@ -210,9 +210,9 @@ https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b).
 [CASE-261](../cases.d/CASE-261.md) (a stipulated hospital AI) has clinicians who keep formal
 discretion and lose the time to use it. [QUESTION-468](../questions.d/QUESTION-468.md) asks, among
 other things, who answers when the arrangement is not an agent; this claim
-says where blame tends to land instead. [QUESTION-tmpvoufs](../questions.d/QUESTION-tmpvoufs.md) asks the
+says where blame tends to land instead. [QUESTION-487](../questions.d/QUESTION-487.md) asks the
 reverse: by what instruments those downstream can make the upstream party
-answer for the conditions it set. [CLAIM-tmp238zy](CLAIM-tmp238zy.md) is one route by which
+answer for the conditions it set. [CLAIM-715](CLAIM-715.md) is one route by which
 blame reaches them: scrutiny required of them and then cited as their
 ownership of the decision.
 

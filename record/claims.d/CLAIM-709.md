@@ -60,7 +60,7 @@ history:
     questions ask about the capacity), the converse direction (a verdict of
     domination does not settle the dominated party's culpability for its own
     acts), added to the title and the defeater, and the uses of TERM-124 and
-    of the continuation's TERM-tmp8pnnr. The title was: Equality of
+    of the continuation's TERM-127. The title was: Equality of
     wrongdoing and equality of power are separate questions: two parties can
     each act wrongly, even as often, while only one holds control over the
     terms of the other's life, so a tally of wrongful acts does not settle
@@ -94,7 +94,7 @@ complements:
 - CLAIM-708
 uses:
 - TERM-124
-- TERM-tmp8pnnr
+- TERM-127
 summary: >-
   A's, from A3 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
   answering the owner's U1 ("who's the asshole (including the possibility
@@ -106,7 +106,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- unresolved-ok-file: CLAIM-tmpkivlz — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
-<!-- inactive-ok-file: TERM-tmp8pnnr — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: TERM-127 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: LIT-2671 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CASE-279 CLAIM-708 ARG-113 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-545 TERM-124 — Proposed; the organizational form, domination and self-governance, cited with their standing -->
@@ -161,7 +161,7 @@ each act keeps its own verdict, which a finding of domination neither
 erases nor fixes. A3: "Neither method should replace the other. Both the
 specific physical acts and the larger pattern matter." The senses of
 responsibility at stake (for a particular act, for the pattern or its
-conditions) are [TERM-tmp8pnnr](../terms.d/TERM-tmp8pnnr.md)'s; a verdict in one does not carry to
+conditions) are [TERM-127](../terms.d/TERM-127.md)'s; a verdict in one does not carry to
 another.
 
 ## Where it sits
