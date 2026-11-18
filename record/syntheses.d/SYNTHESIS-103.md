@@ -1,5 +1,8 @@
 ---
+number: 103
 status: Proposed
+formerly:
+- SYNTHESIS-tmpsodpa
 version: 1
 title: "Answerability and contestability: answerability is proposed as a directed relation, owed on several grounds to a party with a claim and not to everyone affected, with forms and dimensions that come apart; authority over a decision is proposed not to carry authority over the conditions of its challenge; explanation, contestation and interruption, and the six achievements of an effective objection, are proposed as separable; and contestability is proposed as a maintained capability robust to opposition"
 defeated_if: >-
@@ -48,12 +51,12 @@ summary: >-
   components'.
 ---
 <!-- inactive-ok-file: TERM-126 TERM-130 CLAIM-739 CLAIM-727 CLAIM-732 CLAIM-749 CLAIM-740 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
-<!-- inactive-ok-file: CLAIM-724 CLAIM-746 CLAIM-710 CLAIM-748 SYNTHESIS-tmp4fiqm — filed from the same exchange or at the same review, Proposed or Open; cited, not integrated -->
+<!-- inactive-ok-file: CLAIM-724 CLAIM-746 CLAIM-710 CLAIM-748 SYNTHESIS-098 — filed from the same exchange or at the same review, Proposed or Open; cited, not integrated -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-687 CLAIM-619 CLAIM-632 TERM-124 TERM-083 ADR-075 — Proposed; cited as on the record, with their standing -->
 
-# SYNTHESIS-tmpsodpa: Answerability and contestability: answerability is proposed as a directed relation, owed on several grounds to a party with a claim and not to everyone affected, with forms and dimensions that come apart; authority over a decision is proposed not to carry authority over the conditions of its challenge; explanation, contestation and interruption, and the six achievements of an effective objection, are proposed as separable; and contestability is proposed as a maintained capability robust to opposition
+# SYNTHESIS-103: Answerability and contestability: answerability is proposed as a directed relation, owed on several grounds to a party with a claim and not to everyone affected, with forms and dimensions that come apart; authority over a decision is proposed not to carry authority over the conditions of its challenge; explanation, contestation and interruption, and the six achievements of an effective objection, are proposed as separable; and contestability is proposed as a maintained capability robust to opposition
 
-*A part account of the dependence-and-domination line, on answerability and contestability: when an answer is owed and to whom, who may set the terms of challenge, and what an effective challenge needs. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" (the curation entry of 2026-11-17, 20:57:46), and every component is new to any account. The held claims these relate to are [CLAIM-624](../claims.d/CLAIM-624.md) (A's second-order duty of answerability; Proposed) and [CLAIM-687](../claims.d/CLAIM-687.md) (A's rule that accountability rises with indispensability; Proposed). The account cites them and does not integrate them. The part's sibling, on remedies foreclosed before review, is [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md).*
+*A part account of the dependence-and-domination line, on answerability and contestability: when an answer is owed and to whom, who may set the terms of challenge, and what an effective challenge needs. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" (the curation entry of 2026-11-17, 20:57:46), and every component is new to any account. The held claims these relate to are [CLAIM-624](../claims.d/CLAIM-624.md) (A's second-order duty of answerability; Proposed) and [CLAIM-687](../claims.d/CLAIM-687.md) (A's rule that accountability rises with indispensability; Proposed). The account cites them and does not integrate them. The part's sibling, on remedies foreclosed before review, is [SYNTHESIS-098](SYNTHESIS-098.md).*
 
 ## The account
 
@@ -136,7 +139,7 @@ entitlements of an affected party, and each without the next fails in its
 own way. Its body says [CLAIM-523](../claims.d/CLAIM-523.md)'s achievements are the organization's and
 these the affected party's; that its split between giving an account and
 answering "is what" [CLAIM-624](../claims.d/CLAIM-624.md)'s duty "requires of contestation"; and that
-interruption is the owner's U11 ([CLAIM-710](../claims.d/CLAIM-710.md), in [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)) "in the form of an entitlement". It names
+interruption is the owner's U11 ([CLAIM-710](../claims.d/CLAIM-710.md), in [SYNTHESIS-098](SYNTHESIS-098.md)) "in the form of an entitlement". It names
 [TERM-130](../terms.d/TERM-130.md), [TERM-126](../terms.d/TERM-126.md) and [CLAIM-739](../claims.d/CLAIM-739.md) as from the same exchange.
 
 **Six achievements.** [CLAIM-732](../claims.d/CLAIM-732.md) (A's, A79 §10, A81 §2 and §9; thesis,
@@ -197,7 +200,7 @@ cited.
   [QUESTION-441](../questions.d/QUESTION-441.md); [CLAIM-740](../claims.d/CLAIM-740.md) rests on [CLAIM-523](../claims.d/CLAIM-523.md) and [CLAIM-624](../claims.d/CLAIM-624.md);
   [CLAIM-732](../claims.d/CLAIM-732.md) rests on [CLAIM-523](../claims.d/CLAIM-523.md) and complements [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-632](../claims.d/CLAIM-632.md)
   and [CLAIM-724](../claims.d/CLAIM-724.md); [TERM-130](../terms.d/TERM-130.md) complements [TERM-085](../terms.d/TERM-085.md). [CLAIM-724](../claims.d/CLAIM-724.md),
-  [CLAIM-748](../claims.d/CLAIM-748.md) and [QUESTION-479](../questions.d/QUESTION-479.md) are in [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md).
+  [CLAIM-748](../claims.d/CLAIM-748.md) and [QUESTION-479](../questions.d/QUESTION-479.md) are in [SYNTHESIS-098](SYNTHESIS-098.md).
 
 ## Not stated on the record
 

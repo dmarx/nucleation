@@ -1,5 +1,8 @@
 ---
+number: 102
 status: Proposed
+formerly:
+- SYNTHESIS-tmpoodbq
 title: "Rights, demands and commitments: the three are distinct and none establishes another, a demand's satisfaction condition carries no warrant so that an institution's maintained requirements cannot certify their own authority, a right that protects a choice constrains a policy and not a history, a demand ceases legitimately only by a valid normative power, inalienability limits what a holder can confer, rights once justified organize later justification, and a duty to help establish a needed institution is bounded by reachability"
 version: 1
 defeated_if: >-
@@ -59,12 +62,12 @@ summary: >-
   components'.
 ---
 <!-- inactive-ok-file: CLAIM-738 CLAIM-725 CLAIM-745 CASE-289 CLAIM-741 CASE-283 CLAIM-743 CLAIM-720 CASE-286 CLAIM-735 CLAIM-729 CASE-282 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open -->
-<!-- inactive-ok-file: CLAIM-722 CLAIM-727 CLAIM-747 CLAIM-719 SYNTHESIS-tmpzqep9 — filed on 2026-11-17, new and Proposed; citations, and the sibling part account -->
+<!-- inactive-ok-file: CLAIM-722 CLAIM-727 CLAIM-747 CLAIM-719 SYNTHESIS-104 — filed on 2026-11-17, new and Proposed; citations, and the sibling part account -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-662 CLAIM-690 TERM-083 ADR-075 — Proposed; citations, with their standing -->
 
-# SYNTHESIS-tmpoodbq: Rights, demands and commitments: the three are distinct and none establishes another, a demand's satisfaction condition carries no warrant so that an institution's maintained requirements cannot certify their own authority, a right that protects a choice constrains a policy and not a history, a demand ceases legitimately only by a valid normative power, inalienability limits what a holder can confer, rights once justified organize later justification, and a duty to help establish a needed institution is bounded by reachability
+# SYNTHESIS-102: Rights, demands and commitments: the three are distinct and none establishes another, a demand's satisfaction condition carries no warrant so that an institution's maintained requirements cannot certify their own authority, a right that protects a choice constrains a policy and not a history, a demand ceases legitimately only by a valid normative power, inalienability limits what a holder can confer, rights once justified organize later justification, and a duty to help establish a needed institution is bounded by reachability
 
-*A part account of the organizational-normativity line, on rights, demands and commitments. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day, from which every component comes; none was in any account before. Several components also carry dependence-and-domination, and two cases carry it and not this line (below). Its sibling on accountability without blame and normative governability, filed at the same review, is [SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md).*
+*A part account of the organizational-normativity line, on rights, demands and commitments. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day, from which every component comes; none was in any account before. Several components also carry dependence-and-domination, and two cases carry it and not this line (below). Its sibling on accountability without blame and normative governability, filed at the same review, is [SYNTHESIS-104](SYNTHESIS-104.md).*
 
 ## The account
 
@@ -235,7 +238,7 @@ so nothing is filed.
   and rights over choices. Already stated, in [CLAIM-725](../claims.d/CLAIM-725.md)'s body.
 
 The candidate across this part and its sibling, [CLAIM-745](../claims.d/CLAIM-745.md) with
-[CLAIM-719](../claims.d/CLAIM-719.md), is recorded in [SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md).
+[CLAIM-719](../claims.d/CLAIM-719.md), is recorded in [SYNTHESIS-104](SYNTHESIS-104.md).
 
 ## What it does not say
 

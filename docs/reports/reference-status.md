@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**948 documents cited without acknowledgement.** Not listed: 30981 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**949 documents cited without acknowledgement.** Not listed: 32399 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2071,7 +2071,7 @@ philosophy-of-technology joins the topics
 
 The nucleating-argument line is split in three: nucleating-argument keeps how an argument drifts, anchors and pays for anchoring; what a record of inquiry keeps and the record as its own apparatus become lines of their own, because their parts barely relate to the rest
 
-47 citations in 46 files await a look; 17 other citations of it are acknowledged.
+47 citations in 46 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-082.md:15`](../../record/cases.d/CASE-082.md)
 - [`record/cases.d/CASE-084.md:14`](../../record/cases.d/CASE-084.md)
@@ -2680,7 +2680,7 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 
 A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 
-33 citations in 12 files await a look; 163 other citations of it are acknowledged.
+33 citations in 12 files await a look; 168 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
@@ -3058,7 +3058,7 @@ goal-conduciveness valence, organizational: a regime in which the negotiation am
 
 Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
-22 citations in 17 files await a look; 148 other citations of it are acknowledged.
+22 citations in 17 files await a look; 151 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
@@ -3727,7 +3727,7 @@ The record fixes the grammar an argument is expressed in, though not its shape: 
 
 A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
 
-15 citations in 14 files await a look; 97 other citations of it are acknowledged.
+15 citations in 14 files await a look; 104 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -3857,7 +3857,7 @@ Two communicative realizations can agree on every probe in a restricted family w
 
 Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history
 
-14 citations in 6 files await a look; 62 other citations of it are acknowledged.
+14 citations in 6 files await a look; 64 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-016.md:14`](../../record/claims.d/CLAIM-016.md)
 - [`record/claims.d/CLAIM-016.md:16`](../../record/claims.d/CLAIM-016.md)
@@ -4927,7 +4927,7 @@ The potential account of valence is an account of goal-conduciveness valence, no
 
 Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
 
-9 citations in 9 files await a look; 51 other citations of it are acknowledged.
+9 citations in 9 files await a look; 54 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:17`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:16`](../syntheses/role/thesis.md)
@@ -5523,7 +5523,7 @@ Politics is more prone than markets to increasing returns, and so to path depend
 
 The organizational-normativity line is split in two: organizational-normativity keeps what a normative judgment needs and the wrong beyond harm; what wholes and parts owe each other, and what those who govern an arrangement others depend on owe, become the line dependence-and-domination, because those parts relate to the first two almost only through its root questions
 
-7 citations in 7 files await a look; 55 other citations of it are acknowledged.
+7 citations in 7 files await a look; 53 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-113.md:16`](../../record/arguments.d/ARG-113.md)
 - [`record/cases.d/CASE-279.md:36`](../../record/cases.d/CASE-279.md)
@@ -6099,7 +6099,7 @@ Model-based wanting is a pursuit process's ranking of the futures it predicts un
 
 Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
-6 citations in 6 files await a look; 97 other citations of it are acknowledged.
+6 citations in 6 files await a look; 101 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:19`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:18`](../syntheses/role/thesis.md)
@@ -6107,6 +6107,19 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 - [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
 - [`record/decisions.d/ADR-077.md:106`](../../record/decisions.d/ADR-077.md)
 - [`record/terms.d/TERM-086.md:173`](../../record/terms.d/TERM-086.md)
+
+### [CLAIM-624](../../record/claims.d/CLAIM-624.md) — Proposed
+
+The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
+
+6 citations in 6 files await a look; 270 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
+- [`docs/syntheses/route/hypothesis.md:14`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/warrant/interpretive.md:14`](../syntheses/warrant/interpretive.md)
+- [`record/decisions.d/ADR-089.md:109`](../../record/decisions.d/ADR-089.md)
+- [`record/syntheses.d/SYNTHESIS-091.md:226`](../../record/syntheses.d/SYNTHESIS-091.md)
 
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
@@ -6795,18 +6808,6 @@ Concepts are individuated over time by the transmission criterion that governs o
 - [`docs/syntheses/warrant/interpretive.md:17`](../syntheses/warrant/interpretive.md)
 - [`record/cases.d/CASE-226.md:24`](../../record/cases.d/CASE-226.md)
 
-### [CLAIM-624](../../record/claims.d/CLAIM-624.md) — Proposed
-
-The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
-
-5 citations in 5 files await a look; 219 other citations of it are acknowledged.
-
-- [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
-- [`docs/syntheses/route/hypothesis.md:14`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/warrant/interpretive.md:14`](../syntheses/warrant/interpretive.md)
-- [`record/decisions.d/ADR-089.md:109`](../../record/decisions.d/ADR-089.md)
-
 ### [LIT-1445](../../record/literature.d/LIT-1445.md) — Unfetched
 
 Pleasure as a sign you can attend to something else: Placing positive feelings within a general model of affect
@@ -6991,7 +6992,7 @@ Can processes that share one update rule and differ only in parameters and histo
 
 ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet
 
-5 citations in 2 files await a look; 20 other citations of it are acknowledged.
+5 citations in 2 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-577.md:23`](../../record/claims.d/CLAIM-577.md)
 - [`record/claims.d/CLAIM-577.md:24`](../../record/claims.d/CLAIM-577.md)
@@ -7831,7 +7832,7 @@ What classification training leaves in a network's last layers, and what it cost
 
 moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
 
-4 citations in 3 files await a look; 51 other citations of it are acknowledged.
+4 citations in 3 files await a look; 54 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-418.md:170`](../../record/claims.d/CLAIM-418.md)
 - [`record/decisions.d/ADR-056.md:155`](../../record/decisions.d/ADR-056.md)
@@ -8479,7 +8480,7 @@ A loosely organized population can change what an outside institution does throu
 
 In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
 
-3 citations in 2 files await a look; 47 other citations of it are acknowledged.
+3 citations in 2 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-462.md:146`](../../record/claims.d/CLAIM-462.md)
 - [`record/literature.d/LIT-2270.md:25`](../../record/literature.d/LIT-2270.md)
@@ -8569,7 +8570,7 @@ In statistical learning, the compatibility complex of the demands a training dis
 
 Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
 
-3 citations in 2 files await a look; 33 other citations of it are acknowledged.
+3 citations in 2 files await a look; 36 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-210.md:30`](../../record/cases.d/CASE-210.md)
 - [`record/syntheses.d/SYNTHESIS-009.md:12`](../../record/syntheses.d/SYNTHESIS-009.md)
@@ -8927,9 +8928,9 @@ What a record of a developing argument can secure is traceable change over its a
 
 ### [SYNTHESIS-038](../../record/syntheses.d/SYNTHESIS-038.md) — Proposed
 
-The organizational-normativity line is two accounts that meet at its two root questions, whether an organization's own dynamics give a path to normativity and whether relationally indexed judgments can be objective: what a normative judgment needs, and the wrong beyond harm and becoming normatively less informed; what wholes and parts owe and claim, and what those who govern an arrangement others depend on owe, are the line dependence-and-domination, and meet this one at three entries that refine or bear on its root questions; the line makes no claim beyond its parts
+The organizational-normativity line is four accounts that meet at its root questions and the older parts' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, and what those who govern, restrict or answer for an arrangement owe, are the line dependence-and-domination, whose entries that carry this line second are integrated here; the line makes no claim beyond its parts
 
-3 citations in 3 files await a look; 25 other citations of it are acknowledged.
+3 citations in 3 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:42`](../../record/claims.d/CLAIM-614.md)
 - [`record/claims.d/CLAIM-624.md:76`](../../record/claims.d/CLAIM-624.md)
@@ -9289,7 +9290,7 @@ In two-agent rock–scissors–paper played by softmax reinforcement learners, n
 
 An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split
 
-2 citations in 1 file await a look; 57 other citations of it are acknowledged.
+2 citations in 1 file await a look; 60 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
@@ -9379,7 +9380,7 @@ Bencherki's checklist and daycare, one end state with opposite verdicts, show a 
 
 A matched-harm construction, in which two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy but differ in keeping that duty and in reproducing its breach, shows that a second-order wrong of answerability can come apart from the first-order harm and its continuation
 
-2 citations in 2 files await a look; 18 other citations of it are acknowledged.
+2 citations in 2 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:43`](../../record/claims.d/CLAIM-614.md)
 - [`record/questions.d/QUESTION-441.md:26`](../../record/questions.d/QUESTION-441.md)
@@ -9415,7 +9416,7 @@ Four organizations alike in their members' flexibility, one member trained in ea
 
 Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B's governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain
 
-2 citations in 2 files await a look; 26 other citations of it are acknowledged.
+2 citations in 2 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:43`](../../record/claims.d/CLAIM-614.md)
 - [`record/questions.d/QUESTION-441.md:26`](../../record/questions.d/QUESTION-441.md)
@@ -9595,7 +9596,7 @@ If a willed agent is the jurisdiction of its will-organization, then governing o
 
 An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers' access and incentives
 
-2 citations in 2 files await a look; 98 other citations of it are acknowledged.
+2 citations in 2 files await a look; 110 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-406.md:233`](../../record/claims.d/CLAIM-406.md)
 - [`record/decisions.d/ADR-085.md:115`](../../record/decisions.d/ADR-085.md)
@@ -10630,7 +10631,7 @@ Ill structured problems can be handled by an alternation between a solver workin
 
 Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
 
-2 citations in 1 file await a look; 28 other citations of it are acknowledged.
+2 citations in 1 file await a look; 29 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-068.md:33`](../../record/questions.d/QUESTION-068.md)
 - [`record/questions.d/QUESTION-068.md:53`](../../record/questions.d/QUESTION-068.md)
@@ -10720,7 +10721,7 @@ When a group learns only about the options its members pursue and good evidence 
 
 Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do
 
-2 citations in 1 file await a look; 24 other citations of it are acknowledged.
+2 citations in 1 file await a look; 25 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-068.md:33`](../../record/questions.d/QUESTION-068.md)
 - [`record/questions.d/QUESTION-068.md:54`](../../record/questions.d/QUESTION-068.md)
@@ -10819,7 +10820,7 @@ In data generated by a random hierarchical grammar, the tokens that Bayes-optima
 
 Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes
 
-2 citations in 1 file await a look; 8 other citations of it are acknowledged.
+2 citations in 1 file await a look; 9 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-041.md:26`](../../record/questions.d/QUESTION-041.md)
 - [`record/questions.d/QUESTION-041.md:45`](../../record/questions.d/QUESTION-041.md)
@@ -11338,7 +11339,7 @@ A learned system's disposition to succeed at a task is resource-conditional: the
 
 An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
 
-1 citation in 1 file awaits a look; 60 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 84 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-700.md:21`](../../record/claims.d/CLAIM-700.md)
 
@@ -11346,7 +11347,7 @@ An organization can place control over the conditions of action upstream, the pr
 
 Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other's life, so a tally of wrongful acts does not settle who is responsible for the relationship's coercive structure, and a finding of that control does not excuse the controlled party's own wrongful acts
 
-1 citation in 1 file awaits a look; 45 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 53 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-113.md:16`](../../record/arguments.d/ARG-113.md)
 
@@ -12317,6 +12318,14 @@ Whether local descriptions make one global one is settled only once the failure 
 1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-1060.md:20`](../../record/theory.d/THEORY-1060.md)
+
+### [SYNTHESIS-094](../../record/syntheses.d/SYNTHESIS-094.md) — Proposed
+
+The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
+
+1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-104.md:62`](../../record/syntheses.d/SYNTHESIS-104.md)
 
 ### [TERM-002](../../record/terms.d/TERM-002.md) — Superseded
 

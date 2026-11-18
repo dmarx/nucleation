@@ -1,5 +1,8 @@
 ---
+number: 104
 status: Proposed
+formerly:
+- SYNTHESIS-tmpzqep9
 title: 'Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it'
 version: 1
 defeated_if: >-
@@ -50,13 +53,13 @@ summary: >-
   own; its standing is its components'.
 ---
 <!-- inactive-ok-file: CLAIM-742 TERM-127 CLAIM-733 CASE-291 CLAIM-714 CLAIM-717 CASE-284 CLAIM-719 TERM-128 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open -->
-<!-- inactive-ok-file: CLAIM-707 CLAIM-722 CLAIM-729 CLAIM-745 CLAIM-743 CASE-289 ARG-114 SYNTHESIS-tmpoodbq — filed on 2026-11-17, new and Proposed; citations, and the sibling part account -->
+<!-- inactive-ok-file: CLAIM-707 CLAIM-722 CLAIM-729 CLAIM-745 CLAIM-743 CASE-289 ARG-114 SYNTHESIS-102 — filed on 2026-11-17, new and Proposed; citations, and the sibling part account -->
 <!-- inactive-ok-file: CLAIM-624 THEORY-122 THEORY-147 THEORY-207 ADR-075 — Proposed; citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-068 — Deferred; a citation, with its standing -->
 
-# SYNTHESIS-tmpzqep9: Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it
+# SYNTHESIS-104: Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it
 
-*A part account of the organizational-normativity line, on accountability without blame and on normative governability. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day, from which every component comes; none was in any account before. Most components also carry distributed-agency. Its sibling on rights, demands and commitments, filed at the same review, is [SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md); the organizational wrong beyond harm and [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, which several components here cite, are mapped in [SYNTHESIS-094](SYNTHESIS-094.md).*
+*A part account of the organizational-normativity line, on accountability without blame and on normative governability. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day, from which every component comes; none was in any account before. Most components also carry distributed-agency. Its sibling on rights, demands and commitments, filed at the same review, is [SYNTHESIS-102](SYNTHESIS-102.md); the organizational wrong beyond harm and [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, which several components here cite, are mapped in [SYNTHESIS-094](SYNTHESIS-094.md).*
 
 ## The account
 

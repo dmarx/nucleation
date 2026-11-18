@@ -1,5 +1,8 @@
 ---
+number: 101
 status: Proposed
+formerly:
+- SYNTHESIS-tmpogcmo
 version: 1
 title: "Restricting capabilities, and who controls the terms of waiting and contracting: the grounds of a restriction are kept apart from the authority to impose it, a capability is decomposed into what a restriction can reach, a restriction justified by incompetence can produce the incompetence, an opposition can be free as an actor while another holds its efficacy, and control over a deferred reward or over what a contract left open is control over the other party's terms"
 defeated_if: >-
@@ -51,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-746 CLAIM-727 CLAIM-716 CLAIM-734 CLAIM-714 CLAIM-718 CLAIM-726 CLAIM-700 CASE-288 — filed from the same exchange, Proposed or new; cited where a component cites them -->
 <!-- inactive-ok-file: TERM-124 TERM-120 TERM-110 CLAIM-680 CLAIM-682 CLAIM-684 CLAIM-688 CLAIM-673 CLAIM-675 CLAIM-686 CLAIM-690 CLAIM-364 CLAIM-678 — Proposed; entries the components rest on or cite, with their standing -->
 
-# SYNTHESIS-tmpogcmo: Restricting capabilities, and who controls the terms of waiting and contracting: the grounds of a restriction are kept apart from the authority to impose it, a capability is decomposed into what a restriction can reach, a restriction justified by incompetence can produce the incompetence, an opposition can be free as an actor while another holds its efficacy, and control over a deferred reward or over what a contract left open is control over the other party's terms
+# SYNTHESIS-101: Restricting capabilities, and who controls the terms of waiting and contracting: the grounds of a restriction are kept apart from the authority to impose it, a capability is decomposed into what a restriction can reach, a restriction justified by incompetence can produce the incompetence, an opposition can be free as an actor while another holds its efficacy, and control over a deferred reward or over what a contract left open is control over the other party's terms
 
 *A part account of the dependence-and-domination line, filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day. Every component is new to any account. The question is the owner's and Open; the claims and the term are A's and Proposed; the case is a reported study the record has not read, with A's analysis. Where a component cites another, the account says which entry does.*
 

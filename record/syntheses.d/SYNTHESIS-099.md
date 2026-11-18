@@ -1,5 +1,8 @@
 ---
+number: 99
 status: Proposed
+formerly:
+- SYNTHESIS-tmphd6ep
 version: 1
 title: "Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments while blame lands on them"
 defeated_if: >-
@@ -64,7 +67,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-127 CLAIM-721 CLAIM-728 CLAIM-710 — filed from the same exchange, Proposed; cited where a component cites them -->
 <!-- inactive-ok-file: TERM-124 CLAIM-445 CLAIM-690 CLAIM-553 CLAIM-619 CLAIM-624 CLAIM-687 TERM-110 THEORY-1397 — Proposed; entries the components rest on or cite, with their standing -->
 
-# SYNTHESIS-tmphd6ep: Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments while blame lands on them
+# SYNTHESIS-099: Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments while blame lands on them
 
 *A part account of the dependence-and-domination line, filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day. Every component is new to any account. The claims and cases are A's and Proposed; the questions are Open, two raised from A's turns and one the owner's. Where a component cites another, the account says which entry does.*
 

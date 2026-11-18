@@ -62,8 +62,8 @@ history:
     At the interim synthesis review of 2026-11-17, after the filing of
     the exchange "Assess Depp Heard Abuse" (the curation entry of
     2026-11-17, 20:57:46): the line gains two part accounts filed at
-    that review, SYNTHESIS-tmpoodbq (rights, demands and commitments)
-    and SYNTHESIS-tmpzqep9 (accountability without blame and normative
+    that review, SYNTHESIS-102 (rights, demands and commitments)
+    and SYNTHESIS-104 (accountability without blame and normative
     governability), and the account integrates them. SYNTHESIS-091 and
     SYNTHESIS-094 were revised at the same review (each to version 3,
     adding CLAIM-718, QUESTION-485 and CLAIM-746 to the
@@ -93,8 +93,8 @@ line:
 integrates:
 - SYNTHESIS-091
 - SYNTHESIS-094
-- SYNTHESIS-tmpoodbq
-- SYNTHESIS-tmpzqep9
+- SYNTHESIS-102
+- SYNTHESIS-104
 - CLAIM-363
 - QUESTION-460
 - QUESTION-468
@@ -127,10 +127,10 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md), now with A's conditional derivation [ARG-114](../arguments.d/ARG-114.md), and
   [CLAIM-619](../claims.d/CLAIM-619.md), and the owner's routes kept apart ([CLAIM-657](../claims.d/CLAIM-657.md)). Filed on
   2026-11-17 from "Assess Depp Heard Abuse": rights, demands and
-  commitments ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)), on the owner's contrast
+  commitments ([SYNTHESIS-102](SYNTHESIS-102.md)), on the owner's contrast
   ([CLAIM-738](../claims.d/CLAIM-738.md)) and questions [QUESTION-486](../questions.d/QUESTION-486.md) and [QUESTION-483](../questions.d/QUESTION-483.md);
   and accountability without blame and normative governability
-  ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)), on the owner's U47 ([CLAIM-742](../claims.d/CLAIM-742.md),
+  ([SYNTHESIS-104](SYNTHESIS-104.md)), on the owner's U47 ([CLAIM-742](../claims.d/CLAIM-742.md),
   [CLAIM-733](../claims.d/CLAIM-733.md)) and [QUESTION-476](../questions.d/QUESTION-476.md). Of 108 front-matter relations
   among the parts' components, 95 fall within a part, and every one
   across points into the two older parts; three of the four parts are
@@ -145,7 +145,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CASE-247 CLAIM-656 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-648 CLAIM-657 CLAIM-682 CLAIM-685 CLAIM-687 TERM-122 TERM-123 TERM-124 — Proposed; components and citations, with their standing -->
-<!-- inactive-ok-file: SYNTHESIS-tmpoodbq SYNTHESIS-tmpzqep9 SYNTHESIS-tmphd6ep SYNTHESIS-tmpogcmo SYNTHESIS-tmp4fiqm SYNTHESIS-tmpsodpa — filed at the interim synthesis review of 2026-11-17, Proposed -->
+<!-- inactive-ok-file: SYNTHESIS-102 SYNTHESIS-104 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-098 SYNTHESIS-103 — filed at the interim synthesis review of 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CLAIM-718 CLAIM-746 ARG-114 CLAIM-738 CLAIM-725 CLAIM-745 CASE-289 CLAIM-741 CASE-283 CLAIM-743 CLAIM-720 CASE-286 CLAIM-735 CLAIM-729 CASE-282 CLAIM-742 TERM-127 CLAIM-733 CLAIM-714 CLAIM-717 CASE-291 CASE-284 CLAIM-719 TERM-128 CLAIM-722 CLAIM-713 CLAIM-737 CLAIM-739 CLAIM-723 CLAIM-727 CLAIM-740 CLAIM-707 CLAIM-708 CLAIM-716 CLAIM-748 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: ADR-082 — Proposed; the first decision splitting a line, cited for where a split is decided -->
 
@@ -181,7 +181,7 @@ summary: >-
   (2026-11-17), the seventh argument is [ARG-114](../arguments.d/ARG-114.md), A's conditional
   derivation of [CLAIM-624](../claims.d/CLAIM-624.md)'s duty from a means-end principle the record
   does not hold.
-- **[SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md), rights, demands and commitments** (16). The
+- **[SYNTHESIS-102](SYNTHESIS-102.md), rights, demands and commitments** (16). The
   owner's contrast of U41, with A's definitions ([CLAIM-738](../claims.d/CLAIM-738.md)): the
   three are distinct and none establishes another. A's [CLAIM-725](../claims.d/CLAIM-725.md) (a
   demand's satisfaction condition carries no warrant) and [CLAIM-745](../claims.d/CLAIM-745.md)
@@ -196,7 +196,7 @@ summary: >-
   [CLAIM-729](../claims.d/CLAIM-729.md) (a duty to help establish an institution is bounded by
   reachability), on A's aquifer [CASE-282](../cases.d/CASE-282.md), to which A's
   [QUESTION-484](../questions.d/QUESTION-484.md) is put. It is also a part of dependence-and-domination.
-- **[SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md), accountability without blame and normative
+- **[SYNTHESIS-104](SYNTHESIS-104.md), accountability without blame and normative
   governability** (10). The owner's U47 as two claims: blame and
   accountability are not the same, so correction does not wait on
   culpability ([CLAIM-742](../claims.d/CLAIM-742.md)), and blame supplies the provenance for
@@ -212,7 +212,7 @@ summary: >-
 
 Every component whose first line is organizational-normativity, the part
 accounts apart, is integrated by exactly one of the four part accounts,
-with one exception: A's [CLAIM-722](../claims.d/CLAIM-722.md), which [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md) maps in
+with one exception: A's [CLAIM-722](../claims.d/CLAIM-722.md), which [SYNTHESIS-098](SYNTHESIS-098.md) maps in
 dependence-and-domination. [SYNTHESIS-094](SYNTHESIS-094.md) also integrates [ARG-063](../arguments.d/ARG-063.md), which is
 in distributed-agency only and concludes one of its claims. The entries
 below carry this line and are mapped only by dependence-and-domination's
@@ -229,18 +229,18 @@ to do:
 - **[CLAIM-685](../claims.d/CLAIM-685.md)** (A's; thesis, empirical, Proposed; in [SYNTHESIS-093](SYNTHESIS-093.md))
   bears on [QUESTION-128](../questions.d/QUESTION-128.md). It declares [TERM-074](../terms.d/TERM-074.md)'s sense 3.
 - **[CLAIM-722](../claims.d/CLAIM-722.md)** (A's; first line organizational-normativity; in
-  [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)): making a remedy unreachable gains a wrongdoer no
+  [SYNTHESIS-098](SYNTHESIS-098.md)): making a remedy unreachable gains a wrongdoer no
   normative power over what is owed. It rests on [CLAIM-464](../claims.d/CLAIM-464.md).
-- **[CLAIM-713](../claims.d/CLAIM-713.md)** (A's; in [SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md)): the moral subsidy, an
+- **[CLAIM-713](../claims.d/CLAIM-713.md)** (A's; in [SYNTHESIS-099](SYNTHESIS-099.md)): the moral subsidy, an
   arrangement carried by its members' commitments.
-- **[CLAIM-737](../claims.d/CLAIM-737.md)** (A's; in [SYNTHESIS-tmpogcmo](SYNTHESIS-tmpogcmo.md)): the grounds of a
+- **[CLAIM-737](../claims.d/CLAIM-737.md)** (A's; in [SYNTHESIS-101](SYNTHESIS-101.md)): the grounds of a
   restriction and the authority to impose it are separate conclusions.
-- **[QUESTION-478](../questions.d/QUESTION-478.md)** (the owner's, U20; Open; in [SYNTHESIS-tmpogcmo](SYNTHESIS-tmpogcmo.md)):
+- **[QUESTION-478](../questions.d/QUESTION-478.md)** (the owner's, U20; Open; in [SYNTHESIS-101](SYNTHESIS-101.md)):
   under what conditions should a capability be restricted, and who may
   restrict it.
-- **[CLAIM-739](../claims.d/CLAIM-739.md)** (A's; in [SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)): answerability is owed
+- **[CLAIM-739](../claims.d/CLAIM-739.md)** (A's; in [SYNTHESIS-103](SYNTHESIS-103.md)): answerability is owed
   to a party with a claim, on one of several grounds.
-- **[QUESTION-480](../questions.d/QUESTION-480.md)** (the owner's, U36; Open; in [SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)):
+- **[QUESTION-480](../questions.d/QUESTION-480.md)** (the owner's, U36; Open; in [SYNTHESIS-103](SYNTHESIS-103.md)):
   when answerability is owed, to whom and why.
 
 ## Where they meet
@@ -250,14 +250,14 @@ unless a body is cited.
 
 - **At [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md) ([SYNTHESIS-091](SYNTHESIS-091.md)).** From
   [SYNTHESIS-094](SYNTHESIS-094.md): [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-624](../claims.d/CLAIM-624.md) bear on [QUESTION-129](../questions.d/QUESTION-129.md), and
-  [QUESTION-441](../questions.d/QUESTION-441.md) and [QUESTION-456](../questions.d/QUESTION-456.md) refine it. From [SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md):
+  [QUESTION-441](../questions.d/QUESTION-441.md) and [QUESTION-456](../questions.d/QUESTION-456.md) refine it. From [SYNTHESIS-102](SYNTHESIS-102.md):
   [QUESTION-486](../questions.d/QUESTION-486.md) refines [QUESTION-129](../questions.d/QUESTION-129.md).
-- **At [QUESTION-454](../questions.d/QUESTION-454.md) ([SYNTHESIS-091](SYNTHESIS-091.md)).** From [SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md):
+- **At [QUESTION-454](../questions.d/QUESTION-454.md) ([SYNTHESIS-091](SYNTHESIS-091.md)).** From [SYNTHESIS-102](SYNTHESIS-102.md):
   [CASE-283](../cases.d/CASE-283.md), [CLAIM-720](../claims.d/CLAIM-720.md) and [CASE-286](../cases.d/CASE-286.md) bear on it.
 - **At [QUESTION-456](../questions.d/QUESTION-456.md) and [CLAIM-662](../claims.d/CLAIM-662.md) ([SYNTHESIS-094](SYNTHESIS-094.md)).** From
-  [SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md): [CLAIM-743](../claims.d/CLAIM-743.md) bears on [QUESTION-456](../questions.d/QUESTION-456.md) and
+  [SYNTHESIS-102](SYNTHESIS-102.md): [CLAIM-743](../claims.d/CLAIM-743.md) bears on [QUESTION-456](../questions.d/QUESTION-456.md) and
   complements [CLAIM-662](../claims.d/CLAIM-662.md).
-- **At [QUESTION-449](../questions.d/QUESTION-449.md) ([SYNTHESIS-094](SYNTHESIS-094.md)).** From [SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md):
+- **At [QUESTION-449](../questions.d/QUESTION-449.md) ([SYNTHESIS-094](SYNTHESIS-094.md)).** From [SYNTHESIS-104](SYNTHESIS-104.md):
   [CLAIM-733](../claims.d/CLAIM-733.md), [CASE-291](../cases.d/CASE-291.md) and [CLAIM-714](../claims.d/CLAIM-714.md) bear on it, and the
   bodies of all three say they do not answer it.
 - **At [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, in bodies.** [CLAIM-714](../claims.d/CLAIM-714.md)'s body says whether
@@ -269,7 +269,7 @@ unless a body is cited.
   [QUESTION-483](../questions.d/QUESTION-483.md)'s body names [CLAIM-624](../claims.d/CLAIM-624.md) among the pieces a reply to
   contractualism would use.
 - **Between the two new parts, in bodies only.** No front-matter relation
-  joins [SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md) and [SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md). [SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)'s Arm B
+  joins [SYNTHESIS-102](SYNTHESIS-102.md) and [SYNTHESIS-104](SYNTHESIS-104.md). [SYNTHESIS-104](SYNTHESIS-104.md)'s Arm B
   finds the pairing of [CLAIM-742](../claims.d/CLAIM-742.md) with [CLAIM-743](../claims.d/CLAIM-743.md) already stated
   in [CLAIM-742](../claims.d/CLAIM-742.md)'s body (a claim to release does not weaken with the
   agent's incapacity); and [CLAIM-719](../claims.d/CLAIM-719.md)'s example
@@ -292,18 +292,18 @@ unless a body is cited.
   [CLAIM-746](../claims.d/CLAIM-746.md); [CLAIM-722](../claims.d/CLAIM-722.md) complements [CLAIM-720](../claims.d/CLAIM-720.md) and
   [CLAIM-743](../claims.d/CLAIM-743.md), and [CLAIM-720](../claims.d/CLAIM-720.md) complements [CLAIM-722](../claims.d/CLAIM-722.md) and
   [CLAIM-727](../claims.d/CLAIM-727.md). Six claims of dependence-and-domination's
-  [SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md) use [TERM-127](../terms.d/TERM-127.md) ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)). These are
+  [SYNTHESIS-099](SYNTHESIS-099.md) use [TERM-127](../terms.d/TERM-127.md) ([SYNTHESIS-104](SYNTHESIS-104.md)). These are
   dependencies and mentions across lines, and none adds this line to an
   entry of that one ([ADR-085](../decisions.d/ADR-085.md)).
 
 Across to other lines, by dependency: [SYNTHESIS-094](SYNTHESIS-094.md) rests on [CLAIM-348](../claims.d/CLAIM-348.md),
-[CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-462](../claims.d/CLAIM-462.md); [SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md) on [CLAIM-361](../claims.d/CLAIM-361.md) and
+[CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-445](../claims.d/CLAIM-445.md) and [CLAIM-462](../claims.d/CLAIM-462.md); [SYNTHESIS-102](SYNTHESIS-102.md) on [CLAIM-361](../claims.d/CLAIM-361.md) and
 [CLAIM-560](../claims.d/CLAIM-560.md); each part account lists its own.
 
 ## How the parts relate
 
 Counted on 2026-11-17 with
-`python3 -I scratch/formal/line_parts.py SYNTHESIS-091 SYNTHESIS-094 SYNTHESIS-tmpoodbq SYNTHESIS-tmpzqep9`,
+`python3 -I scratch/formal/line_parts.py SYNTHESIS-091 SYNTHESIS-094 SYNTHESIS-102 SYNTHESIS-104`,
 which counts the stored front-matter relations among the parts'
 components, each in the row of the part it starts in:
 
@@ -313,14 +313,14 @@ rows: the part a relation starts in; columns: the part it points into
                                      0     1     2     3
 0 SYNTHESIS-091                     28     0     0     0   (22 components)
 1 SYNTHESIS-094                      4    39     0     0   (25 components)
-2 SYNTHESIS-tmpoodbq                 4     2    16     0   (16 components)
-3 SYNTHESIS-tmpzqep9                 0     3     0    12   (10 components)
+2 SYNTHESIS-102                 4     2    16     0   (16 components)
+3 SYNTHESIS-104                 0     3     0    12   (10 components)
 
 within parts: 95 of 108 relations
   SYNTHESIS-091                              inside  28  out   0  in   8
   SYNTHESIS-094                              inside  39  out   4  in   5
-  SYNTHESIS-tmpoodbq                         inside  16  out   6  in   0
-  SYNTHESIS-tmpzqep9                         inside  12  out   3  in   0
+  SYNTHESIS-102                         inside  16  out   6  in   0
+  SYNTHESIS-104                         inside  12  out   3  in   0
 ```
 
 What the counts show, and no more:
@@ -368,11 +368,11 @@ are kept here as that record.
   dependence-and-domination; no component states it.
 - Whether [CASE-289](../cases.d/CASE-289.md)'s gate is an institution reliable at the first
   order and unresponsive at the second, in [CLAIM-719](../claims.d/CLAIM-719.md)'s sense.
-  [SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md) tested it and found it turns on a free parameter,
+  [SYNTHESIS-104](SYNTHESIS-104.md) tested it and found it turns on a free parameter,
   which standard the gate is indexed to.
 - Whether [CLAIM-743](../claims.d/CLAIM-743.md)'s test, with [CLAIM-735](../claims.d/CLAIM-735.md), is an instance of
   [CLAIM-518](../claims.d/CLAIM-518.md)'s thesis that some judgments of obligation need histories
-  ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)). Neither cites [CLAIM-518](../claims.d/CLAIM-518.md).
+  ([SYNTHESIS-102](SYNTHESIS-102.md)). Neither cites [CLAIM-518](../claims.d/CLAIM-518.md).
 - Whether rights that no institution creates or can extinguish
   ([QUESTION-486](../questions.d/QUESTION-486.md)) supply the institution-independent standards
   [QUESTION-129](../questions.d/QUESTION-129.md) asks about, and whether [CLAIM-741](../claims.d/CLAIM-741.md) or [CLAIM-735](../claims.d/CLAIM-735.md)

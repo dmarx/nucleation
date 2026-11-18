@@ -1,5 +1,8 @@
 ---
+number: 100
 status: Proposed
+formerly:
+- SYNTHESIS-tmpnj844
 title: "The argument filed from the exchange Assess Depp Heard Abuse, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through ten syntheses of A's, each prompted by an owner's turn"
 version: 1
 defeated_if: >-
@@ -22,12 +25,12 @@ line:
 - dependence-and-domination
 - organizational-normativity
 integrates:
-- SYNTHESIS-tmphd6ep
-- SYNTHESIS-tmpogcmo
-- SYNTHESIS-tmp4fiqm
-- SYNTHESIS-tmpsodpa
-- SYNTHESIS-tmpoodbq
-- SYNTHESIS-tmpzqep9
+- SYNTHESIS-099
+- SYNTHESIS-101
+- SYNTHESIS-098
+- SYNTHESIS-103
+- SYNTHESIS-102
+- SYNTHESIS-104
 - CLAIM-718
 - QUESTION-485
 - CLAIM-746
@@ -61,36 +64,36 @@ summary: >-
   owner's moves as "we". The account adds nothing and earns no standing;
   its standing is its components'.
 ---
-<!-- inactive-ok-file: SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 SYNTHESIS-095 SYNTHESIS-tmp4fiqm SYNTHESIS-tmphd6ep SYNTHESIS-tmpogcmo SYNTHESIS-tmpoodbq SYNTHESIS-tmpsodpa SYNTHESIS-tmpzqep9 — Proposed; the part accounts this account is built over, and the line accounts and older parts it cites -->
+<!-- inactive-ok-file: SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 SYNTHESIS-095 SYNTHESIS-098 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-102 SYNTHESIS-103 SYNTHESIS-104 — Proposed; the part accounts this account is built over, and the line accounts and older parts it cites -->
 <!-- inactive-ok-file: ARG-114 CASE-282 CASE-284 CASE-285 CASE-289 CASE-290 CASE-291 CLAIM-700 CLAIM-714 CLAIM-710 CLAIM-715 CLAIM-716 CLAIM-717 CLAIM-718 CLAIM-719 CLAIM-720 CLAIM-703 CLAIM-721 CLAIM-722 CLAIM-708 CLAIM-723 CLAIM-707 CLAIM-724 CLAIM-725 CLAIM-726 CLAIM-727 CLAIM-728 CLAIM-713 CLAIM-729 CLAIM-730 CLAIM-731 CLAIM-732 CLAIM-733 CLAIM-734 CLAIM-735 CLAIM-736 CLAIM-737 CLAIM-738 CLAIM-739 CLAIM-740 CLAIM-741 CLAIM-742 CLAIM-743 CLAIM-744 CLAIM-745 CLAIM-746 CLAIM-747 CLAIM-748 CLAIM-749 TERM-126 TERM-127 TERM-128 TERM-129 TERM-130 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: ADR-075 CLAIM-545 CLAIM-553 CLAIM-619 CLAIM-624 CLAIM-670 CLAIM-682 CLAIM-684 CLAIM-687 TERM-083 TERM-124 — Proposed; held entries the thesis's components map to, and the test cited, with their standing -->
 
-# SYNTHESIS-tmpnj844: The argument filed from the exchange Assess Depp Heard Abuse, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through ten syntheses of A's, each prompted by an owner's turn
+# SYNTHESIS-100: The argument filed from the exchange Assess Depp Heard Abuse, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through ten syntheses of A's, each prompted by an owner's turn
 
 *An account of the argument filed from one exchange, "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b; turns U1 to U48 and A1 to A110, 2026-11-15 18:15 to 2026-11-17 17:39 UTC), filed at the owner's request of 2026-11-17 for "synthesis items we ought to file as part of documenting the progress of this conversation". The exchange was filed the same day (the curation entry of 2026-11-17, 20:57:46), and its entries were mapped at the interim synthesis review of that day into six part accounts across two lines. The line accounts are [SYNTHESIS-095](SYNTHESIS-095.md) (dependence-and-domination) and [SYNTHESIS-038](SYNTHESIS-038.md) (organizational-normativity). "U" turns are the owner's and "A" turns the other assistant's (ChatGPT); the owner's turns are mostly prompts, and where a turn has content of its own the curation entry lists it. Every quotation is checked against the exchange's verbatim export. The account adds nothing: what the thesis says beyond its components is listed under "Not stated on the record".*
 
 ## The parts
 
-- **[SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md)** (dependence-and-domination): responsibility for
+- **[SYNTHESIS-099](SYNTHESIS-099.md)** (dependence-and-domination): responsibility for
   another's conditions, and moral exploitation. All A's claims and cases
   (A3 to A53), with the owner's [QUESTION-477](../questions.d/QUESTION-477.md) (U8).
-- **[SYNTHESIS-tmpogcmo](SYNTHESIS-tmpogcmo.md)** (dependence-and-domination): restricting
+- **[SYNTHESIS-101](SYNTHESIS-101.md)** (dependence-and-domination): restricting
   capabilities, and who controls the terms of waiting and contracting. On
   the owner's [QUESTION-478](../questions.d/QUESTION-478.md) (U20), with A's answers from A37 to A53
   and the owner's associations of U23 and U24.
-- **[SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)** (dependence-and-domination and
+- **[SYNTHESIS-098](SYNTHESIS-098.md)** (dependence-and-domination and
   distributed-agency): remedies foreclosed before review. The owner's
   [CLAIM-723](../claims.d/CLAIM-723.md) (U27), [CLAIM-748](../claims.d/CLAIM-748.md) (U28), [CLAIM-710](../claims.d/CLAIM-710.md) (U11) and the
   connection of U26 ([CLAIM-734](../claims.d/CLAIM-734.md)), with A's claims around them.
-- **[SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)** (dependence-and-domination): answerability and
+- **[SYNTHESIS-103](SYNTHESIS-103.md)** (dependence-and-domination): answerability and
   contestability. On the owner's [QUESTION-480](../questions.d/QUESTION-480.md) (U36), with A's answer
   from A83 and A's contest claims from A19 to A81.
-- **[SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)** (organizational-normativity, also
+- **[SYNTHESIS-102](SYNTHESIS-102.md)** (organizational-normativity, also
   dependence-and-domination): rights, demands and commitments. The owner's
   contrast of U41 ([CLAIM-738](../claims.d/CLAIM-738.md)), questions of U37 ([QUESTION-486](../questions.d/QUESTION-486.md))
   and U44 ([QUESTION-483](../questions.d/QUESTION-483.md)) and specimen of U46 ([CASE-289](../cases.d/CASE-289.md)), with
   A's claims from A85 to A108.
-- **[SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)** (organizational-normativity, also
+- **[SYNTHESIS-104](SYNTHESIS-104.md)** (organizational-normativity, also
   distributed-agency): accountability without blame and normative
   governability. The owner's U47 ([CLAIM-742](../claims.d/CLAIM-742.md), [CLAIM-733](../claims.d/CLAIM-733.md)) and U48
   ([QUESTION-476](../questions.d/QUESTION-476.md)), with A's claims and terms from A108 and A110.
@@ -106,9 +109,9 @@ How the parts relate within each line is counted in the line accounts.
 Across the two lines the new parts meet at [CLAIM-624](../claims.d/CLAIM-624.md) ([SYNTHESIS-094](SYNTHESIS-094.md)) and
 [TERM-127](../terms.d/TERM-127.md):
 [CLAIM-723](../claims.d/CLAIM-723.md), [CLAIM-739](../claims.d/CLAIM-739.md) and [CLAIM-727](../claims.d/CLAIM-727.md) complement [CLAIM-624](../claims.d/CLAIM-624.md)
-and [CLAIM-740](../claims.d/CLAIM-740.md) rests on it, and six claims of [SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md) use
-[TERM-127](../terms.d/TERM-127.md) ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)); and [CLAIM-722](../claims.d/CLAIM-722.md)
-([SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)) and [CLAIM-720](../claims.d/CLAIM-720.md) ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)) complement
+and [CLAIM-740](../claims.d/CLAIM-740.md) rests on it, and six claims of [SYNTHESIS-099](SYNTHESIS-099.md) use
+[TERM-127](../terms.d/TERM-127.md) ([SYNTHESIS-104](SYNTHESIS-104.md)); and [CLAIM-722](../claims.d/CLAIM-722.md)
+([SYNTHESIS-098](SYNTHESIS-098.md)) and [CLAIM-720](../claims.d/CLAIM-720.md) ([SYNTHESIS-102](SYNTHESIS-102.md)) complement
 each other.
 
 ## The account
@@ -137,7 +140,7 @@ Component by component, each with the entry that states it:
    ([SYNTHESIS-092](SYNTHESIS-092.md)), [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-354](../claims.d/CLAIM-354.md), as the curation entry maps
    "Domination, freedom and control of terms". From the exchange: that
    the power to restrict is itself a capability is A's [CLAIM-737](../claims.d/CLAIM-737.md),
-   with A's [TERM-129](../terms.d/TERM-129.md) ([SYNTHESIS-tmpogcmo](SYNTHESIS-tmpogcmo.md)).
+   with A's [TERM-129](../terms.d/TERM-129.md) ([SYNTHESIS-101](SYNTHESIS-101.md)).
 2. **Legitimacy depends on justified rights, duties, powers and
    immunities among those with moral standing, and a demand or commitment
    does not establish it** (second paragraph). That the three are distinct
@@ -145,14 +148,14 @@ Component by component, each with the entry that states it:
    U41 with A's definitions; that a demand's satisfaction condition carries
    no warrant is A's [CLAIM-725](../claims.d/CLAIM-725.md); that inalienable standing limits what
    a holder can confer is A's [CLAIM-720](../claims.d/CLAIM-720.md), at the owner's U37
-   ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)). Moral standing is [TERM-083](../terms.d/TERM-083.md), held.
+   ([SYNTHESIS-102](SYNTHESIS-102.md)). Moral standing is [TERM-083](../terms.d/TERM-083.md), held.
 3. **Neither the feasibility of a demand nor resolve to meet it shows it
    ought to be met** (third paragraph). Held: [CLAIM-075](../claims.d/CLAIM-075.md), viability does
    not establish what ought to persist ([SYNTHESIS-091](SYNTHESIS-091.md)). From the exchange:
    [CLAIM-738](../claims.d/CLAIM-738.md) and [CLAIM-725](../claims.d/CLAIM-725.md), and A's [CLAIM-745](../claims.d/CLAIM-745.md), a gate whose
    imposition and compliance establish "neither its legal authority nor
    its justification", on the owner's specimen [CASE-289](../cases.d/CASE-289.md)
-   ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)).
+   ([SYNTHESIS-102](SYNTHESIS-102.md)).
 4. **Adequacy is joint realizability, permissible reachability,
    protected choices kept available and corrective capability
    maintained** (fourth paragraph). Held: [CLAIM-560](../claims.d/CLAIM-560.md), [CLAIM-347](../claims.d/CLAIM-347.md),
@@ -161,7 +164,7 @@ Component by component, each with the entry that states it:
    implying the static for what it reaches); A's [CLAIM-741](../claims.d/CLAIM-741.md) (a right
    that protects a choice constrains a policy, not a history) and
    [CLAIM-729](../claims.d/CLAIM-729.md) (a duty to help establish is bounded by reachability)
-   ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)).
+   ([SYNTHESIS-102](SYNTHESIS-102.md)).
 5. **Domination is inadequately constrained power over the conditions
    through which others' justified claims become effective, especially
    over the evaluation and correction of one's own conduct** (fifth
@@ -170,20 +173,20 @@ Component by component, each with the entry that states it:
    ([SYNTHESIS-094](SYNTHESIS-094.md)); [CLAIM-086](../claims.d/CLAIM-086.md), a constraint governing conduct without
    governing its own authority; [CLAIM-464](../claims.d/CLAIM-464.md), the remedy changed before
    review. From the exchange: A's [CLAIM-727](../claims.d/CLAIM-727.md), authority over a
-   decision is not authority over its challenge ([SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)); the
+   decision is not authority over its challenge ([SYNTHESIS-103](SYNTHESIS-103.md)); the
    foreclosure of remedies by acting first and by siege, the owner's
    [CLAIM-723](../claims.d/CLAIM-723.md) and [CLAIM-748](../claims.d/CLAIM-748.md), with A's [CLAIM-716](../claims.d/CLAIM-716.md),
-   [CLAIM-722](../claims.d/CLAIM-722.md) and [CLAIM-724](../claims.d/CLAIM-724.md) ([SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)); and the
+   [CLAIM-722](../claims.d/CLAIM-722.md) and [CLAIM-724](../claims.d/CLAIM-724.md) ([SYNTHESIS-098](SYNTHESIS-098.md)); and the
    conditions of another's agency used for control, A's [CLAIM-726](../claims.d/CLAIM-726.md),
-   [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-707](../claims.d/CLAIM-707.md) ([SYNTHESIS-tmphd6ep](SYNTHESIS-tmphd6ep.md)).
+   [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md) and [CLAIM-707](../claims.d/CLAIM-707.md) ([SYNTHESIS-099](SYNTHESIS-099.md)).
 6. **The baseline against which terms are judged can be the
    relationship's own product, and justified rights organize later
    justification** (A106 §9 and §19). A's [CLAIM-747](../claims.d/CLAIM-747.md)
-   ([SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)) and [CLAIM-735](../claims.d/CLAIM-735.md) ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)).
+   ([SYNTHESIS-098](SYNTHESIS-098.md)) and [CLAIM-735](../claims.d/CLAIM-735.md) ([SYNTHESIS-102](SYNTHESIS-102.md)).
 7. **Answerability is a structured, bounded relation, not an unrestricted
    demand for reasons** (A106 §10 and §17). A's [TERM-126](../terms.d/TERM-126.md),
    [CLAIM-739](../claims.d/CLAIM-739.md) and [CLAIM-749](../claims.d/CLAIM-749.md), answering the owner's
-   [QUESTION-480](../questions.d/QUESTION-480.md) ([SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)).
+   [QUESTION-480](../questions.d/QUESTION-480.md) ([SYNTHESIS-103](SYNTHESIS-103.md)).
 8. **An institution cannot reliably honor distinctions it cannot make**
    (A106 §7, A105's announced result). Held: [CLAIM-535](../claims.d/CLAIM-535.md), which A106
    re-derives without citing it (the curation entry).
@@ -194,18 +197,18 @@ Component by component, each with the entry that states it:
    considerations requiring revision of its own governing mechanisms.").
    A's [TERM-128](../terms.d/TERM-128.md), whose link to reasons-responsiveness is the owner's
    U46, and A's [CLAIM-719](../claims.d/CLAIM-719.md), that first-order responsiveness is no
-   evidence of the second ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)).
+   evidence of the second ([SYNTHESIS-104](SYNTHESIS-104.md)).
 10. **Three assessments, normative, historical and prospective, none
     settling another** (A110 §12). A's [TERM-127](../terms.d/TERM-127.md) gives the senses of
     responsibility; that correction need not await blame is the owner's
-    [CLAIM-742](../claims.d/CLAIM-742.md) (U47) ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)).
+    [CLAIM-742](../claims.d/CLAIM-742.md) (U47) ([SYNTHESIS-104](SYNTHESIS-104.md)).
 11. **Responsibility for the act, for the capacity governing it and for
     correcting its consequences can attach to different parties** (A110
     §14). That blame traced upstream supplies provenance is the owner's
     [CLAIM-733](../claims.d/CLAIM-733.md) (U47; the label and development A110 §3's); that a
     self-induced incapacity does not excuse is A's [CLAIM-714](../claims.d/CLAIM-714.md); that
     blame and repair do not substitute is A's [CLAIM-717](../claims.d/CLAIM-717.md)
-    ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)).
+    ([SYNTHESIS-104](SYNTHESIS-104.md)).
 12. **An authority can owe the maintenance of the capacities its duties
     need, and can breach that duty before any wrong occurs** (A110 §5, §6
     and §14; the candidate central principle's first paragraph). Held:
@@ -218,7 +221,7 @@ Component by component, each with the entry that states it:
     blameworthiness of immediate actors without diminishing the claims of
     affected parties."). The owner's [CLAIM-742](../claims.d/CLAIM-742.md), with A's
     [CLAIM-714](../claims.d/CLAIM-714.md); [TERM-128](../terms.d/TERM-128.md)'s body ties A110 §13's last paragraph to
-    both ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)).
+    both ([SYNTHESIS-104](SYNTHESIS-104.md)).
 
 The owner's questions from the exchange bear on the thesis and are not
 answered by it: [QUESTION-478](../questions.d/QUESTION-478.md) (U20), [QUESTION-485](../questions.d/QUESTION-485.md) (U31),
@@ -334,9 +337,9 @@ attribution findings are the curation entry's and its ledgers'.
 - **Added**: the remedies part: the owner's [CLAIM-723](../claims.d/CLAIM-723.md) and
   [CLAIM-748](../claims.d/CLAIM-748.md), the owner's connection in A's form [CLAIM-734](../claims.d/CLAIM-734.md), A's
   [CLAIM-716](../claims.d/CLAIM-716.md), and A's [CLAIM-724](../claims.d/CLAIM-724.md) (A76 VIII.4)
-  ([SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)); the legitimacy and adequacy of U31, with A's
+  ([SYNTHESIS-098](SYNTHESIS-098.md)); the legitimacy and adequacy of U31, with A's
   [CLAIM-746](../claims.d/CLAIM-746.md) (restated at A76 X); A's [CLAIM-744](../claims.d/CLAIM-744.md) and
-  [CLAIM-728](../claims.d/CLAIM-728.md) from U23 and U24 ([SYNTHESIS-tmpogcmo](SYNTHESIS-tmpogcmo.md)).
+  [CLAIM-728](../claims.d/CLAIM-728.md) from U23 and U24 ([SYNTHESIS-101](SYNTHESIS-101.md)).
 - **Dropped**: the owner's U11 (friction), U13 (speed and the executive
   cases) and U16 to U17 (timescales).
 - **Attribution**: written in "we": "This produced our proposed concept
@@ -356,8 +359,8 @@ attribution findings are the curation entry's and its ledgers'.
   correctable."
 - **Added**: A's [CLAIM-732](../claims.d/CLAIM-732.md) (§2 and §9), [TERM-130](../terms.d/TERM-130.md) (§11 and §14)
   and [CLAIM-724](../claims.d/CLAIM-724.md)'s permitted class (§3); A81 §5's authority-provenance
-  graph, which with A79 §3 is [QUESTION-482](../questions.d/QUESTION-482.md) ([SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md),
-  [SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)).
+  graph, which with A79 §3 is [QUESTION-482](../questions.d/QUESTION-482.md) ([SYNTHESIS-103](SYNTHESIS-103.md),
+  [SYNTHESIS-098](SYNTHESIS-098.md)).
 - **Dropped** from its proposition: §9's composition failure and §3's
   split of permitted from merely available opposition, its sharpest
   content.
@@ -379,9 +382,9 @@ attribution findings are the curation entry's and its ledgers'.
   protections may constrain those arrangements independently of the
   institutions that recognize or enforce them".
 - **Added**: A's answer to U36, [CLAIM-739](../claims.d/CLAIM-739.md) (from A83, restated at A90
-  IV) ([SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)); A's [CLAIM-720](../claims.d/CLAIM-720.md) (A85 as corrected by A87)
-  and [QUESTION-481](../questions.d/QUESTION-481.md) (A90 XII) ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)); A's
-  [CLAIM-722](../claims.d/CLAIM-722.md), persistence (A90 V and VII) ([SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)).
+  IV) ([SYNTHESIS-103](SYNTHESIS-103.md)); A's [CLAIM-720](../claims.d/CLAIM-720.md) (A85 as corrected by A87)
+  and [QUESTION-481](../questions.d/QUESTION-481.md) (A90 XII) ([SYNTHESIS-102](SYNTHESIS-102.md)); A's
+  [CLAIM-722](../claims.d/CLAIM-722.md), persistence (A90 V and VII) ([SYNTHESIS-098](SYNTHESIS-098.md)).
 - **Dropped**: credit for the owner's U32 pointer, which is what its
   organizational foundation uses.
 - **Attribution**: the rights reframing, the owner's U37, is credited to
@@ -399,7 +402,7 @@ attribution findings are the curation entry's and its ledgers'.
   not itself establish their normative authority."
 - **Added**: the owner's contrast with A's content, [CLAIM-738](../claims.d/CLAIM-738.md); A's
   [CLAIM-743](../claims.d/CLAIM-743.md) (A97 X) and [CLAIM-741](../claims.d/CLAIM-741.md) (A97 III); A's aquifer,
-  [CASE-282](../cases.d/CASE-282.md), built at A93 §6 in answer to U40 ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)).
+  [CASE-282](../cases.d/CASE-282.md), built at A93 §6 in answer to U40 ([SYNTHESIS-102](SYNTHESIS-102.md)).
 - **Dropped**: A90 X's six mechanisms, but for one sentence; the
   reconstitution problem.
 - **Attribution**: U41's contrast is not credited as the owner's, and
@@ -424,8 +427,8 @@ attribution findings are the curation entry's and its ledgers'.
   conform to them."
 - **Added**: from A100, [QUESTION-484](../questions.d/QUESTION-484.md) (§8B and §13); from A102, A's
   [CLAIM-735](../claims.d/CLAIM-735.md) (§3), [CLAIM-729](../claims.d/CLAIM-729.md) (§5) and the candidate answers and
-  test of [QUESTION-483](../questions.d/QUESTION-483.md) (§10 and §12) ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)), and
-  [CLAIM-747](../claims.d/CLAIM-747.md) (§6) ([SYNTHESIS-tmp4fiqm](SYNTHESIS-tmp4fiqm.md)).
+  test of [QUESTION-483](../questions.d/QUESTION-483.md) (§10 and §12) ([SYNTHESIS-102](SYNTHESIS-102.md)), and
+  [CLAIM-747](../claims.d/CLAIM-747.md) (§6) ([SYNTHESIS-098](SYNTHESIS-098.md)).
 - **Dropped**: A100 drops the option-protecting rights but for one clause,
   the failure taxonomy and the reconstitution problem, and reorders the
   theory with Scanlon at its foundation; A102 reverses that order at the
@@ -437,10 +440,10 @@ attribution findings are the curation entry's and its ledgers'.
 
 - **Prompted by** the owner's U45: "flesh out our updated synthesis".
 - **Thesis**: the central proposition quoted under "The account".
-- **Added**: A's [CLAIM-725](../claims.d/CLAIM-725.md) (§4) ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)); A's
+- **Added**: A's [CLAIM-725](../claims.d/CLAIM-725.md) (§4) ([SYNTHESIS-102](SYNTHESIS-102.md)); A's
   [CLAIM-749](../claims.d/CLAIM-749.md) (§10 and §17) and [TERM-126](../terms.d/TERM-126.md) (§17)
-  ([SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)); A's normative governability as a definition and
-  [CLAIM-719](../claims.d/CLAIM-719.md) (§18) ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)); the stronger answer to the
+  ([SYNTHESIS-103](SYNTHESIS-103.md)); A's normative governability as a definition and
+  [CLAIM-719](../claims.d/CLAIM-719.md) (§18) ([SYNTHESIS-104](SYNTHESIS-104.md)); the stronger answer to the
   owner's [QUESTION-483](../questions.d/QUESTION-483.md) (§19) and A's admission "We have not yet
   established that stronger claim" (§20).
 - **Dropped**: the curation entry and ledgers name nothing it drops.
@@ -451,7 +454,7 @@ attribution findings are the curation entry's and its ledgers'.
   indispensable to our framework", while the record holds no Hohfeld.
 - **Between A106 and A110**, the owner's U46 gave the immigration specimen
   ([CASE-289](../cases.d/CASE-289.md)) and linked normative governability to Wolf, and A108
-  gave A's [CLAIM-745](../claims.d/CLAIM-745.md) ([SYNTHESIS-tmpoodbq](SYNTHESIS-tmpoodbq.md)).
+  gave A's [CLAIM-745](../claims.d/CLAIM-745.md) ([SYNTHESIS-102](SYNTHESIS-102.md)).
 
 ### A110, "Accountability Without Blame" (2026-11-17)
 
@@ -465,7 +468,7 @@ attribution findings are the curation entry's and its ledgers'.
 - **Added**: A's [TERM-127](../terms.d/TERM-127.md) (§2), [CLAIM-714](../claims.d/CLAIM-714.md) (§7), [CLAIM-717](../claims.d/CLAIM-717.md)
   (§8), [CLAIM-719](../claims.d/CLAIM-719.md)'s second order (§9 and §10), [CASE-291](../cases.d/CASE-291.md) and
   [CASE-284](../cases.d/CASE-284.md) (§11) and the revised [TERM-128](../terms.d/TERM-128.md) (§13)
-  ([SYNTHESIS-tmpzqep9](SYNTHESIS-tmpzqep9.md)); A's [ARG-114](../arguments.d/ARG-114.md) (§5 and §6) ([SYNTHESIS-094](SYNTHESIS-094.md)).
+  ([SYNTHESIS-104](SYNTHESIS-104.md)); A's [ARG-114](../arguments.d/ARG-114.md) (§5 and §6) ([SYNTHESIS-094](SYNTHESIS-094.md)).
 - **Dropped**: nothing of U47; the exchange ends at the owner's U48
   (""blameless culture" in modern engineering could be an interesting case
   for analysis here"), which no turn answers ([QUESTION-476](../questions.d/QUESTION-476.md)).

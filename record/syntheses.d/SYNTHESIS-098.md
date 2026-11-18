@@ -1,5 +1,8 @@
 ---
+number: 98
 status: Proposed
+formerly:
+- SYNTHESIS-tmp4fiqm
 version: 1
 title: "Remedies foreclosed before review, by faits accomplis, speed, friction and siege: acting before an opportunity to intervene can take effect is proposed as a wrong of its own, an irreversible act is proposed to convert a holder's consent into a claim to compensation and to give the breacher leverage over its own settlement but no power over what is owed, an opponent can put a remedy out of reach by raising what pursuing it costs, the cost of imposing a decision and of contesting it can move apart, and the baseline against which terms are judged can be the actor's own product"
 defeated_if: >-
@@ -59,13 +62,13 @@ summary: >-
   its components'.
 ---
 <!-- inactive-ok-file: CLAIM-723 CLAIM-734 CLAIM-716 CLAIM-722 CLAIM-748 CLAIM-724 CLAIM-710 CLAIM-731 CLAIM-730 CLAIM-747 CASE-287 CASE-285 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
-<!-- inactive-ok-file: CLAIM-728 CLAIM-720 CLAIM-743 CLAIM-727 CLAIM-740 CLAIM-715 SYNTHESIS-tmpsodpa — filed from the same exchange or at the same review, Proposed or Open; cited, not integrated -->
+<!-- inactive-ok-file: CLAIM-728 CLAIM-720 CLAIM-743 CLAIM-727 CLAIM-740 CLAIM-715 SYNTHESIS-103 — filed from the same exchange or at the same review, Proposed or Open; cited, not integrated -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-619 CLAIM-478 CLAIM-423 CLAIM-670 TERM-124 SYNTHESIS-095 ADR-075 — Proposed; cited as on the record, with their standing -->
 <!-- inactive-ok-file: LIT-1592 — Unfetched; the reading QUESTION-475 names first -->
 
-# SYNTHESIS-tmp4fiqm: Remedies foreclosed before review, by faits accomplis, speed, friction and siege: acting before an opportunity to intervene can take effect is proposed as a wrong of its own, an irreversible act is proposed to convert a holder's consent into a claim to compensation and to give the breacher leverage over its own settlement but no power over what is owed, an opponent can put a remedy out of reach by raising what pursuing it costs, the cost of imposing a decision and of contesting it can move apart, and the baseline against which terms are judged can be the actor's own product
+# SYNTHESIS-098: Remedies foreclosed before review, by faits accomplis, speed, friction and siege: acting before an opportunity to intervene can take effect is proposed as a wrong of its own, an irreversible act is proposed to convert a holder's consent into a claim to compensation and to give the breacher leverage over its own settlement but no power over what is owed, an opponent can put a remedy out of reach by raising what pursuing it costs, the cost of imposing a decision and of contesting it can move apart, and the baseline against which terms are judged can be the actor's own product
 
-*A part account of the dependence-and-domination and distributed-agency lines, on remedies foreclosed before they can be reviewed: by acting first, by outlasting, by moving friction, and by setting the baseline. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" (the curation entry of 2026-11-17, 20:57:46), and every component is new to any account. Most components complement or rest on [CLAIM-464](../claims.d/CLAIM-464.md) (Active, the owner's earlier observation that an intervention can make a corrective outcome costlier or unreachable before review while the standards stay the same). The account cites [CLAIM-464](../claims.d/CLAIM-464.md) and does not integrate it. The dependence-and-domination line's account is [SYNTHESIS-095](SYNTHESIS-095.md); this part is not yet among its parts. Its sibling, on answerability and contestability, is [SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md).*
+*A part account of the dependence-and-domination and distributed-agency lines, on remedies foreclosed before they can be reviewed: by acting first, by outlasting, by moving friction, and by setting the baseline. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" (the curation entry of 2026-11-17, 20:57:46), and every component is new to any account. Most components complement or rest on [CLAIM-464](../claims.d/CLAIM-464.md) (Active, the owner's earlier observation that an intervention can make a corrective outcome costlier or unreachable before review while the standards stay the same). The account cites [CLAIM-464](../claims.d/CLAIM-464.md) and does not integrate it. The dependence-and-domination line's account is [SYNTHESIS-095](SYNTHESIS-095.md); this part is not yet among its parts. Its sibling, on answerability and contestability, is [SYNTHESIS-103](SYNTHESIS-103.md).*
 
 ## The account
 
@@ -162,7 +165,7 @@ justified constraint set or raise the cost another must bear to make it
 effective, and within which limits? Its body names A64's Candidate C as "a
 normative proposal requiring independent justification", says A64 §10's
 definition moves the question into a counterfactual course "which must
-itself be defended", and lists [CLAIM-727](../claims.d/CLAIM-727.md) (in [SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)) as what an answer denying the party such
+itself be defended", and lists [CLAIM-727](../claims.d/CLAIM-727.md) (in [SYNTHESIS-103](SYNTHESIS-103.md)) as what an answer denying the party such
 authority "would rest on".
 
 **Friction.** [CLAIM-710](../claims.d/CLAIM-710.md) (the owner's, U11, with A21's scope; thesis,
@@ -268,7 +271,7 @@ cited.
 ## Arm B
 
 - **[QUESTION-479](../questions.d/QUESTION-479.md)'s four bearings** ([CLAIM-748](../claims.d/CLAIM-748.md), [CASE-287](../cases.d/CASE-287.md),
-  [CLAIM-724](../claims.d/CLAIM-724.md), and [CLAIM-727](../claims.d/CLAIM-727.md) from [SYNTHESIS-tmpsodpa](SYNTHESIS-tmpsodpa.md)). The sentence tried: a party under a justified constraint
+  [CLAIM-724](../claims.d/CLAIM-724.md), and [CLAIM-727](../claims.d/CLAIM-727.md) from [SYNTHESIS-103](SYNTHESIS-103.md)). The sentence tried: a party under a justified constraint
   may raise the cost of making it effective only by opposition the
   procedural rules permit, and its authority over the constrained conduct
   does not make it the one to say what is permitted. Route: a derivation

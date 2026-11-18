@@ -96,7 +96,7 @@ summary: >-
   call.
 ---
 <!-- unresolved-ok-file: CLAIM-tmp0ogo4 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
-<!-- inactive-ok-file: SYNTHESIS-tmphd6ep — Proposed; the part account whose audit found the second route -->
+<!-- inactive-ok-file: SYNTHESIS-099 — Proposed; the part account whose audit found the second route -->
 <!-- inactive-ok-file: CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-679 CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
 <!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 — Proposed; the ratchet the claim uses and the record's nearest loops, cited with their standing -->
@@ -204,7 +204,7 @@ slack and one with exactly enough to sustain the present configuration, and
 introduce a failure that needs a transition.
 
 **A second route, by a separating case** (the interim synthesis review of
-2026-11-17, [SYNTHESIS-tmphd6ep](../syntheses.d/SYNTHESIS-tmphd6ep.md), Arm A, carried over at the reconciliation
+2026-11-17, [SYNTHESIS-099](../syntheses.d/SYNTHESIS-099.md), Arm A, carried over at the reconciliation
 of 2026-11-18). What the claim adds is that unpaid extra work keeping
 measured performance acceptable is invisible to a budget rule set on that
 performance, so the rule removes capacity in use; none of [CLAIM-577](CLAIM-577.md),
