@@ -4,8 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmp8bttd
 title: "When the effects of trauma reach descendants who did not live through it, by which route do they travel: germline epigenetics, the womb, parenting, or a group's narrative and identity; and on the identity route, does an ancestor's injury become part of the descendant's self?"
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Repaired a garbled sentence in the note of 2026-11-12, which read
+    "checked by the filer: , found in recheck": the entry's own code was dropped when the reader's
+    bullet was copied in. Found by the status review of 2026-11-18 beside
+    the same repair to CLAIM-627. No change of content.
 - version: 2
   date: '2026-11-11'
   note: >-
@@ -261,7 +268,7 @@ written; read those two examples with that note.
 ## Note of 2026-11-12: Mpakosi et al. (2024), Deciphering the Role of Maternal Microchimerism in Offspring Autoimmunity: A Narrative Review, read
 
 From the reading in [NOTE-1785](../notes.d/NOTE-1785.md) ([LIT-2343](../literature.d/LIT-2343.md)), the reader's assessment as
-checked by the filer: , found in recheck: MMc's possible transfer of
+checked by the filer, found in recheck: MMc's possible transfer of
 maternal T-cell memory and grandmaternal cells is a cellular route not among
 the question's four (germline epigenetics, womb, parenting, narrative); it
 is close to "the womb" but persists postnatally. Weak, worth a dated note.

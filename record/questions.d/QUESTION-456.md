@@ -4,8 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpuftum
 title: 'How can the set of demands an organization''s compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization''s own governance?'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Repaired a garbled sentence in the note of 2026-11-12, which read
+    "checked by the filer: , failure mode 2": the entry's own code was dropped when the reader's
+    bullet was copied in. Found by the status review of 2026-11-18 beside
+    the same repair to CLAIM-627. No change of content.
 - version: 2
   date: '2026-11-17'
   note: >-
@@ -103,7 +110,7 @@ itself narrowing.
 ## Note of 2026-11-12: Caliari and Petri, read
 
 From the reading in [NOTE-1746](../notes.d/NOTE-1746.md) ([LIT-2458](../literature.d/LIT-2458.md)), the reader's assessment as
-checked by the filer: , failure mode 2 ("behavioral observations are
+checked by the filer, on this question's failure mode 2 ("behavioral observations are
 evidence about a demand, not automatically the demand itself"): *supports*,
 formally. Identical aggregate behaviour is consistent with populations whose
 individual "demands" differ in kind (result 1), so an inferred acceptance
