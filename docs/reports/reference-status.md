@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**947 documents cited without acknowledgement.** Not listed: 33270 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**946 documents cited without acknowledgement.** Not listed: 34309 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1406,7 +1406,7 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-194 citations in 171 files await a look; 57 other citations of it are acknowledged.
+220 citations in 197 files await a look; 57 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:16`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:28`](../../record/arguments.d/ARG-055.md)
@@ -1438,7 +1438,21 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/cases.d/CASE-195.md:15`](../../record/cases.d/CASE-195.md)
 - [`record/cases.d/CASE-229.md:16`](../../record/cases.d/CASE-229.md)
 - [`record/cases.d/CASE-232.md:14`](../../record/cases.d/CASE-232.md)
+- [`record/cases.d/CASE-238.md:12`](../../record/cases.d/CASE-238.md)
+- [`record/cases.d/CASE-239.md:12`](../../record/cases.d/CASE-239.md)
+- [`record/cases.d/CASE-240.md:19`](../../record/cases.d/CASE-240.md)
+- [`record/cases.d/CASE-242.md:20`](../../record/cases.d/CASE-242.md)
+- [`record/cases.d/CASE-243.md:13`](../../record/cases.d/CASE-243.md)
+- [`record/cases.d/CASE-248.md:13`](../../record/cases.d/CASE-248.md)
+- [`record/cases.d/CASE-249.md:12`](../../record/cases.d/CASE-249.md)
+- [`record/cases.d/CASE-269.md:13`](../../record/cases.d/CASE-269.md)
+- [`record/cases.d/CASE-274.md:12`](../../record/cases.d/CASE-274.md)
+- [`record/cases.d/CASE-275.md:12`](../../record/cases.d/CASE-275.md)
 - [`record/cases.d/CASE-279.md:36`](../../record/cases.d/CASE-279.md)
+- [`record/cases.d/CASE-282.md:13`](../../record/cases.d/CASE-282.md)
+- [`record/cases.d/CASE-286.md:13`](../../record/cases.d/CASE-286.md)
+- [`record/cases.d/CASE-290.md:12`](../../record/cases.d/CASE-290.md)
+- [`record/cases.d/CASE-292.md:13`](../../record/cases.d/CASE-292.md)
 - [`record/claims.d/CLAIM-025.md:40`](../../record/claims.d/CLAIM-025.md)
 - [`record/claims.d/CLAIM-047.md:18`](../../record/claims.d/CLAIM-047.md)
 - [`record/claims.d/CLAIM-068.md:34`](../../record/claims.d/CLAIM-068.md)
@@ -1547,11 +1561,23 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/claims.d/CLAIM-624.md:61`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-624.md:79`](../../record/claims.d/CLAIM-624.md)
 - [`record/claims.d/CLAIM-628.md:19`](../../record/claims.d/CLAIM-628.md)
+- [`record/claims.d/CLAIM-649.md:28`](../../record/claims.d/CLAIM-649.md)
+- [`record/claims.d/CLAIM-651.md:30`](../../record/claims.d/CLAIM-651.md)
+- [`record/claims.d/CLAIM-653.md:20`](../../record/claims.d/CLAIM-653.md)
+- [`record/claims.d/CLAIM-654.md:12`](../../record/claims.d/CLAIM-654.md)
+- [`record/claims.d/CLAIM-655.md:13`](../../record/claims.d/CLAIM-655.md)
+- [`record/claims.d/CLAIM-658.md:13`](../../record/claims.d/CLAIM-658.md)
+- [`record/claims.d/CLAIM-663.md:12`](../../record/claims.d/CLAIM-663.md)
+- [`record/claims.d/CLAIM-674.md:12`](../../record/claims.d/CLAIM-674.md)
 - [`record/claims.d/CLAIM-702.md:12`](../../record/claims.d/CLAIM-702.md)
+- [`record/claims.d/CLAIM-703.md:51`](../../record/claims.d/CLAIM-703.md)
 - [`record/claims.d/CLAIM-707.md:70`](../../record/claims.d/CLAIM-707.md)
 - [`record/claims.d/CLAIM-708.md:60`](../../record/claims.d/CLAIM-708.md)
 - [`record/claims.d/CLAIM-709.md:52`](../../record/claims.d/CLAIM-709.md)
 - [`record/claims.d/CLAIM-713.md:28`](../../record/claims.d/CLAIM-713.md)
+- [`record/claims.d/CLAIM-727.md:19`](../../record/claims.d/CLAIM-727.md)
+- [`record/claims.d/CLAIM-733.md:12`](../../record/claims.d/CLAIM-733.md)
+- [`record/claims.d/CLAIM-742.md:18`](../../record/claims.d/CLAIM-742.md)
 - [`record/decisions.d/ADR-090.md:67`](../../record/decisions.d/ADR-090.md)
 - [`record/decisions.d/ADR-090.md:90`](../../record/decisions.d/ADR-090.md)
 - [`record/decisions.d/ADR-092.md:19`](../../record/decisions.d/ADR-092.md)
@@ -3742,7 +3768,7 @@ The record fixes the grammar an argument is expressed in, though not its shape: 
 
 A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
 
-15 citations in 14 files await a look; 104 other citations of it are acknowledged.
+15 citations in 14 files await a look; 105 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -6136,19 +6162,6 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 - [`record/decisions.d/ADR-077.md:106`](../../record/decisions.d/ADR-077.md)
 - [`record/terms.d/TERM-086.md:173`](../../record/terms.d/TERM-086.md)
 
-### [CLAIM-624](../../record/claims.d/CLAIM-624.md) — Proposed
-
-The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
-
-6 citations in 6 files await a look; 270 other citations of it are acknowledged.
-
-- [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
-- [`docs/syntheses/route/hypothesis.md:14`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/warrant/interpretive.md:14`](../syntheses/warrant/interpretive.md)
-- [`record/decisions.d/ADR-089.md:109`](../../record/decisions.d/ADR-089.md)
-- [`record/syntheses.d/SYNTHESIS-091.md:226`](../../record/syntheses.d/SYNTHESIS-091.md)
-
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
 An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body
@@ -6816,7 +6829,7 @@ If the record's hypotheses held, agency and autonomy would be further organizati
 
 A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized
 
-5 citations in 5 files await a look; 77 other citations of it are acknowledged.
+5 citations in 5 files await a look; 82 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
@@ -6835,6 +6848,18 @@ Concepts are individuated over time by the transmission criterion that governs o
 - [`docs/syntheses/route/hypothesis.md:17`](../syntheses/route/hypothesis.md)
 - [`docs/syntheses/warrant/interpretive.md:17`](../syntheses/warrant/interpretive.md)
 - [`record/cases.d/CASE-226.md:24`](../../record/cases.d/CASE-226.md)
+
+### [CLAIM-624](../../record/claims.d/CLAIM-624.md) — Proposed
+
+The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
+
+5 citations in 5 files await a look; 277 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
+- [`docs/syntheses/route/hypothesis.md:14`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/warrant/interpretive.md:14`](../syntheses/warrant/interpretive.md)
+- [`record/decisions.d/ADR-089.md:109`](../../record/decisions.d/ADR-089.md)
 
 ### [LIT-1445](../../record/literature.d/LIT-1445.md) — Unfetched
 
@@ -7020,7 +7045,7 @@ Can processes that share one update rule and differ only in parameters and histo
 
 ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet
 
-5 citations in 2 files await a look; 22 other citations of it are acknowledged.
+5 citations in 2 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-577.md:23`](../../record/claims.d/CLAIM-577.md)
 - [`record/claims.d/CLAIM-577.md:24`](../../record/claims.d/CLAIM-577.md)
@@ -8270,9 +8295,9 @@ A mutual-maintenance construction: an intact share c repaired through a capacity
 
 3 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-269.md:82`](../../record/cases.d/CASE-269.md)
-- [`record/cases.d/CASE-269.md:108`](../../record/cases.d/CASE-269.md)
-- [`record/cases.d/CASE-269.md:109`](../../record/cases.d/CASE-269.md)
+- [`record/cases.d/CASE-269.md:92`](../../record/cases.d/CASE-269.md)
+- [`record/cases.d/CASE-269.md:118`](../../record/cases.d/CASE-269.md)
+- [`record/cases.d/CASE-269.md:119`](../../record/cases.d/CASE-269.md)
 
 ### [CLAIM-009](../../record/claims.d/CLAIM-009.md) — Proposed
 
@@ -8966,9 +8991,9 @@ What a record of a developing argument can secure is traceable change over its a
 
 ### [SYNTHESIS-038](../../record/syntheses.d/SYNTHESIS-038.md) — Proposed
 
-The organizational-normativity line is four accounts that meet at its root questions and the older parts' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, and what those who govern, restrict or answer for an arrangement owe, are the line dependence-and-domination, whose entries that carry this line second are integrated here; the line makes no claim beyond its parts
+The organizational-normativity line is four accounts that meet at its root questions and the older parts' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another's conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts
 
-3 citations in 3 files await a look; 27 other citations of it are acknowledged.
+3 citations in 3 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:42`](../../record/claims.d/CLAIM-614.md)
 - [`record/claims.d/CLAIM-624.md:76`](../../record/claims.d/CLAIM-624.md)
@@ -9634,7 +9659,7 @@ On WMT22 News MQM, xCOMET's error spans are more coherent with its own regressio
 
 An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers' access and incentives
 
-2 citations in 2 files await a look; 114 other citations of it are acknowledged.
+2 citations in 2 files await a look; 116 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-406.md:238`](../../record/claims.d/CLAIM-406.md)
 - [`record/decisions.d/ADR-085.md:115`](../../record/decisions.d/ADR-085.md)
@@ -11154,7 +11179,7 @@ Equal charge, different tokens: two φ⁴ kinks with the same boundary charge an
 
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-269.md:69`](../../record/cases.d/CASE-269.md)
+- [`record/cases.d/CASE-269.md:79`](../../record/cases.d/CASE-269.md)
 
 ### [CASE-274](../../record/cases.d/CASE-274.md) — Proposed
 
@@ -11362,13 +11387,13 @@ A learned system's disposition to succeed at a task is resource-conditional: the
 
 1 citation in 1 file awaits a look; 29 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-275.md:65`](../../record/cases.d/CASE-275.md)
+- [`record/cases.d/CASE-275.md:73`](../../record/cases.d/CASE-275.md)
 
 ### [CLAIM-707](../../record/claims.d/CLAIM-707.md) — Proposed
 
 An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
 
-1 citation in 1 file awaits a look; 106 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 142 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-700.md:21`](../../record/claims.d/CLAIM-700.md)
 
@@ -11376,7 +11401,7 @@ An organization can place control over the conditions of action upstream, the pr
 
 Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other's life, so a tally of wrongful acts does not settle who is responsible for the relationship's coercive structure, and a finding of that control does not excuse the controlled party's own wrongful acts
 
-1 citation in 1 file awaits a look; 67 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 77 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-113.md:16`](../../record/arguments.d/ARG-113.md)
 
@@ -11384,7 +11409,7 @@ Equality of wrongdoing and equality of power are separate questions: two parties
 
 A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction
 
-1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 29 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-710.md:292`](../../record/claims.d/CLAIM-710.md)
 
@@ -11856,7 +11881,7 @@ Moral Boundaries: A Political Argument for an Ethic of Care
 
 Moral Luck
 
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2023.md:18`](../../record/notes.d/NOTE-2023.md)
 
@@ -11880,7 +11905,7 @@ The Ideal Victim
 
 Two Faces of Responsibility
 
-1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2008.md:18`](../../record/notes.d/NOTE-2008.md)
 
@@ -12339,14 +12364,6 @@ Whether local descriptions make one global one is settled only once the failure 
 1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-1060.md:20`](../../record/theory.d/THEORY-1060.md)
-
-### [SYNTHESIS-094](../../record/syntheses.d/SYNTHESIS-094.md) — Proposed
-
-The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
-
-1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
-
-- [`record/syntheses.d/SYNTHESIS-104.md:62`](../../record/syntheses.d/SYNTHESIS-104.md)
 
 ### [TERM-002](../../record/terms.d/TERM-002.md) — Superseded
 

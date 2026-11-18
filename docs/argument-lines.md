@@ -110,6 +110,12 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 ## organizational-normativity
 
+### From Demand read from activity or revenue weights each person's taste by how much they act or spend, so it diverges from person-weighted preference wherever activity goes with taste; and what moves a revenue-optimal design is each group's marginal revenue response, not its head count or share of spending, so a responsive minority can set a design parameter against the majority's preference with no change in anyone's taste
+
+- [CLAIM-658](../record/claims.d/CLAIM-658.md) — Demand read from activity or revenue weights each person's taste by how much they act or spend, so it diverges from person-weighted preference wherever activity goes with taste; and what moves a revenue-optimal design is each group's marginal revenue response, not its head count or share of spending, so a responsive minority can set a design parameter against the majority's preference with no change in anyone's taste *(Proposed)*
+  - [CLAIM-653](../record/claims.d/CLAIM-653.md) — Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme *(Proposed)*
+  - [CLAIM-656](../record/claims.d/CLAIM-656.md) — The selection that lets economically weighted demand set a product's design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them *(Proposed)* — through [ARG-091](../record/arguments.d/ARG-091.md)
+
 ### From Blame and accountability are not the same thing: an agent's diminished culpability for the reasons it acts on does not diminish the wrongfulness of what it does, the claims of those it harms, or the need for correction, because the grounds of correction are not exhausted by the grounds of blame
 
 - [CLAIM-742](../record/claims.d/CLAIM-742.md) — Blame and accountability are not the same thing: an agent's diminished culpability for the reasons it acts on does not diminish the wrongfulness of what it does, the claims of those it harms, or the need for correction, because the grounds of correction are not exhausted by the grounds of blame *(Proposed)*
