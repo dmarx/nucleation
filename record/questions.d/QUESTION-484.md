@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmpkqvxv
 status: Open
 title: 'How does evidence of what an arrangement can feasibly realize bear on which principles governing it can reasonably be rejected: can expanding what it can realize change which principles are justifiable, and do mistaken beliefs about feasibility distort that judgment?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -13,6 +13,13 @@ history:
     by which the record's account could bear on reasonable rejection;
     carries rightful-power after its own lines under ADR-085. No other
     change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    On the owner's decision of 2026-11-18, the refinement of
+    QUESTION-483 stands: the sentence that said this question sits
+    beside QUESTION-483, which contradicted the refinement, is reworded
+    to state only what QUESTION-483 asks. No other change.
 tags:
 - ethics
 - society-and-governance
@@ -105,8 +112,8 @@ miniature.
   the record's reachability results ([CLAIM-560](../claims.d/CLAIM-560.md)) would contribute to
   correcting it.
 
-It sits beside [QUESTION-483](QUESTION-483.md), which asks whether the record's account
-answers contractualism or only supplements it.
+[QUESTION-483](QUESTION-483.md) asks whether the record's account answers
+contractualism or only supplements it.
 Refines [QUESTION-483](QUESTION-483.md): it asks a sharper part of that question, whether
 one kind of organizational fact, what an arrangement can feasibly
 realize, enters reasonable rejection as a reason, which is how the

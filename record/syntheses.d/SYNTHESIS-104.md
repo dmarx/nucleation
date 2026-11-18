@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpzqep9
 title: 'Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability and an organization may owe repair where no one is to blame, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, a complete record of who approved an outcome does not settle whether it can fairly be attributed to them, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -23,6 +23,16 @@ history:
     with the readings and over the new components; nothing passes. The
     introduction now credits both filings. Title, summary, account,
     component list, "Not stated" and Arm B say so. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    On the owner's decision of 2026-11-18, QUESTION-473 (standing to
+    blame), of organizational-normativity only, is mapped in that line's
+    part on accountability without blame, SYNTHESIS-104, and no longer
+    in dependence-and-domination's SYNTHESIS-099. It is integrated here
+    as a component, with the reason it belongs: it asks where blame ends
+    while the other senses of responsibility go on. Arm B and Not-stated
+    drop the pointer to SYNTHESIS-099. No other change.
 defeated_if: >-
   A component misstated or misattributed here, its voice or its status
   among what can be misstated, and the owner's U47 and A110's
@@ -57,8 +67,10 @@ integrates:
 - ARG-112
 - CLAIM-719
 - TERM-128
+- QUESTION-473
 bears_on:
 - QUESTION-470
+- QUESTION-473
 - QUESTION-476
 - QUESTION-449
 summary: >-
@@ -300,15 +312,20 @@ coherent and separates traceability from the grounds of attribution,
 given the ordinary control and epistemic conditions; "The separation is
 shown; what fair attribution requires is left open."
 
-**Standing to blame, cited.** [QUESTION-473](../questions.d/QUESTION-473.md) (A's, raised by the third
+**Standing to blame.** [QUESTION-473](../questions.d/QUESTION-473.md) (A's, raised by the third
 review of 2026-11-16, ChatGPT's, forwarded by the owner; first filing;
 Open; line organizational-normativity) asks what remains of an
 organization's moral standing to blame an agent whose wrongdoing its
 conditions substantially produced, as distinct from its authority to
-investigate, correct or sanction. It is integrated by
-dependence-and-domination's [SYNTHESIS-099](SYNTHESIS-099.md), beside [CLAIM-713](../claims.d/CLAIM-713.md), [CLAIM-702](../claims.d/CLAIM-702.md),
-[CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-708](../claims.d/CLAIM-708.md), which its body names, and [SYNTHESIS-038](SYNTHESIS-038.md)
-integrates it for this line. Its body says it is distinct from
+investigate, correct or sanction. Since the owner's decision of
+2026-11-18 it is integrated here, in its own line's part; it was mapped
+before in dependence-and-domination's [SYNTHESIS-099](SYNTHESIS-099.md), beside [CLAIM-713](../claims.d/CLAIM-713.md),
+[CLAIM-702](../claims.d/CLAIM-702.md), [CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-708](../claims.d/CLAIM-708.md), which its body names and which stay
+there. It belongs with this part because it asks where blame ends and
+the other senses of responsibility ([TERM-127](../terms.d/TERM-127.md)) go on: the just-culture
+carve-outs, where blame resumes inside a blameless practice, are the
+boundary it asks about, drawn by the organization whose conditions it
+asks about. Its body says it is distinct from
 [QUESTION-470](../questions.d/QUESTION-470.md), which asks "who must repair a harm, not who may condemn
 for it". It stores no relation to any component here.
 
@@ -347,6 +364,7 @@ it. No reading of 2026-11-18 bears on either.
 - [ARG-112](../arguments.d/ARG-112.md), the first filing's filer's; existence, Proposed.
 - [CLAIM-719](../claims.d/CLAIM-719.md), A's; thesis, interpretive, Proposed.
 - [TERM-128](../terms.d/TERM-128.md), A's term with the owner's link; Proposed.
+- [QUESTION-473](../questions.d/QUESTION-473.md), A's, raised by a review the owner forwarded; first filing; Open; line organizational-normativity. No reading.
 
 ## Not stated on the record
 
@@ -368,7 +386,7 @@ it. No reading of 2026-11-18 bears on either.
   one blameless practice that keeps upstream provenance; whether
   engineering post-mortems do is not shown.
 - Whether what an organization keeps when it loses standing to blame
-  ([QUESTION-473](../questions.d/QUESTION-473.md), in [SYNTHESIS-099](SYNTHESIS-099.md)) is [CLAIM-717](../claims.d/CLAIM-717.md)'s remedial duty or
+  ([QUESTION-473](../questions.d/QUESTION-473.md)) is [CLAIM-717](../claims.d/CLAIM-717.md)'s remedial duty or
   something else. [QUESTION-473](../questions.d/QUESTION-473.md) asks about authority to "investigate, correct or
   sanction"; [CLAIM-717](../claims.d/CLAIM-717.md) is about blame and repair, and no entry says where
   a sanction falls between them.
@@ -431,7 +449,7 @@ Candidates over the new components and the readings, tested on
 - *[QUESTION-476](../questions.d/QUESTION-476.md) with Shoemaker ([THEORY-1974](../theory.d/THEORY-1974.md))*: a blameless practice is
   answerability-blame without accountability-blame. Already stated, in
   [QUESTION-476](../questions.d/QUESTION-476.md)'s dated note, with its limits.
-- *[QUESTION-473](../questions.d/QUESTION-473.md) ([SYNTHESIS-099](SYNTHESIS-099.md)) with [CLAIM-717](../claims.d/CLAIM-717.md) and [THEORY-1912](../theory.d/THEORY-1912.md)*: an organization that
+- *[QUESTION-473](../questions.d/QUESTION-473.md) with [CLAIM-717](../claims.d/CLAIM-717.md) and [THEORY-1912](../theory.d/THEORY-1912.md)*: an organization that
   loses standing to blame by complicity keeps its remedial duties and
   powers, since blame and repair do not substitute. Route: derivation.
   Fails on a free parameter: [QUESTION-473](../questions.d/QUESTION-473.md)'s "sanction" is not placed by

@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmp6vck6
 status: Proposed
 title: 'Inalienability is a limit on normative powers, not on exercise: a person may restrict the exercise of a right or delegate limited authority over decisions, and no delegation, contract, collective decision or success in imposing an arrangement thereby confers authority to determine whether that person keeps the standing from which claims against the arrangement arise, because the holder lacks the power to confer it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -30,6 +30,15 @@ history:
     Depp Heard Abuse": A49 §4 uses its proposition as a step:
     self-binding can restrict exercise, while the agent keeps legitimate
     authority over the arrangement's continuation. No other change.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    On the owner's decision of 2026-11-18, leaves the work capability-
+    restraint-relational-freedom (ADR-104): A49 §4 uses only its
+    proviso, that a self-binding agent keeps authority over the
+    arrangement's continuation, and never states its proposition that
+    inalienability limits normative powers. The work's curation entry
+    already counts it as holding §4 only in part. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,8 +60,6 @@ line:
 - dependence-and-domination
 - organizational-normativity
 - rightful-power
-works:
-- capability-restraint-relational-freedom
 complements:
 - CLAIM-722
 - CLAIM-727

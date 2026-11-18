@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwgiwq
 title: 'The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -23,6 +23,15 @@ history:
     answerability, gives the claim a private-domain boundary case, and
     bounds the accountability owed by what is justifiable to the
     answering party. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Bears on QUESTION-480: its note of 2026-11-17 already argued the
+    question, relaying A83's answer to the owner's U36, and a sentence
+    in the body now says so. Carries rightful-power after its own line
+    under ADR-085. Found when the owner's decision of 2026-11-18 on
+    complements had the two dependencies the split of organizational-
+    normativity severed checked one at a time. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,6 +52,9 @@ tags:
 date: '2026-11-13'
 line:
 - dependence-and-domination
+- rightful-power
+bears_on:
+- QUESTION-480
 complements:
 - CLAIM-682
 - CLAIM-684
@@ -147,6 +159,13 @@ the agents [CLAIM-682](CLAIM-682.md)'s second condition names.
 A83 §3D of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17) relays this claim faithfully and calls it "an important candidate principle, but it requires care". A83 §6 then orders it. With Φ_N(x) the forms of answerability a power x requires, partially ordered, A's "proportionality hypothesis" lists four intensifiers, discretion, dependence, irreversibility and control over recourse: "These aren't four independent moral foundations. They are features that can make existing claims more vulnerable to interference." And: "**The grounds of answerability determine why something is owed; vulnerability and power asymmetry help determine what protections are required for it to be adequately honored.**" So indispensability is an intensifier, not a ground: it raises what is owed to those who already have a claim ([CLAIM-739](CLAIM-739.md)), and A warns "we shouldn't expect a simple monotone equation". The claim's "should rise with" is best read as an ordering with other features held fixed.
 
 A boundary case, A93 §4: a homeowner does not owe "every interested stranger a public justification", "an important counterexample to any theory claiming that consequential power always entails universal answerability." It is consistent with this claim, which scales with dependence: a stranger does not depend on the household. A83 §6's contrast is the infrastructure owner, whose obligations rise "Even if it owns the infrastructure". The limit is filed as [CLAIM-749](CLAIM-749.md).
+
+Bears on [QUESTION-480](../questions.d/QUESTION-480.md), which asks when answerability is owed, to whom
+and why: this claim says how much is owed as dependence rises, and A83,
+A's answer to the owner's U36 that the question was filed from, takes it
+up as an intensifier of what is owed rather than a ground of why. The
+relation was written at the line audit of 2026-11-18, which found the
+note above already arguing the question.
 
 A limit from the other side, A100 §11: "The claimant's authority to demand explanations cannot simply be taken as unlimited", given interests "in privacy, finality, protection against harassment, due process, or freedom from unreasonable burdens"; "The required form of answerability must therefore be justified to the parties on both sides of the relationship." The accountability that rises with indispensability must itself be justifiable to those who answer.
 
