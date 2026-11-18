@@ -154,7 +154,7 @@ Elish 2019, read ([NOTE-2019](../notes.d/NOTE-2019.md), [THEORY-1928](../theory.
 No status changes.
 
 ## Note of 2026-11-18: blameless culture read, and two claims filed in answer
-<!-- inactive-ok-file: THEORY-tmpuc245 THEORY-tmpl5x2t THEORY-tmpfomub THEORY-tmpq12rp CLAIM-tmpx4kjt CLAIM-tmp5g7xc CASE-tmpw9202 — new; the readings and the entries filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-tmpuc245 THEORY-tmpl5x2t THEORY-tmpfomub THEORY-tmpq12rp CLAIM-tmpx4kjt CLAIM-tmp5g7xc CASE-tmpw9202 ARG-tmp67frz — new; the readings and the entries filed on 2026-11-18 -->
 <!-- inactive-ok-file: LIT-tmpwev6r LIT-tmpcqntz LIT-tmpfucfe — Unfetched or Unavailable; the three candidate sources not read -->
 
 On 2026-11-18 the owner asked the lead to "consider how blameless culture in modern engineering could be an interesting case for analysis here" and, on its proposals, "all of the above please". Of the candidate sources this question named, the SRE chapter was read (THEORY-tmpuc245); Allspaw's post is Unfetched behind a bot check (LIT-tmpwev6r); Dekker's *Just Culture* is Unavailable (LIT-tmpfucfe), with Dekker and Nyce (2013) read in its place (THEORY-tmpfomub). Cook's "How Complex Systems Fail" (THEORY-tmpl5x2t) and 49 U.S.C. § 1154 (THEORY-tmpq12rp) were also read; Reason (1997) is Unavailable (LIT-tmpcqntz). Each reading now carries `bears_on` this question.

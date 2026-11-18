@@ -161,6 +161,7 @@ process keeps it).
 
 ## Note of 2026-11-18: provenance without blame, filed beside this claim
 <!-- inactive-ok-file: CLAIM-tmpx4kjt THEORY-tmpl5x2t — new; the claim and reading filed on 2026-11-18 -->
+<!-- inactive-ok-file: CASE-292 — Proposed; the case the new claim is filed on -->
 
 The lead filer proposed, and the owner accepted for filing, a qualification of this claim from the case of blameless culture: that causal tracing without blame can carry upstream provenance, so that blame is one carrier of it. It is filed as CLAIM-tmpx4kjt, on the NTSB's Tempe report (CASE-292). It was proposed as narrowing this claim, but this claim already says "Not that provenance is only a matter of blame", so it is filed as a complement, not an objection. The proposed stronger form, that this claim holds only where no independent tracing institution exists, was not filed: one specimen does not show it.
 

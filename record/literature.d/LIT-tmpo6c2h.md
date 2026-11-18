@@ -54,6 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-tmpu2cx9 THEORY-tmpuc245 — new; the reading and its theory -->
 <!-- inactive-ok-file: CLAIM-742 — Proposed; the claim the reading corroborates -->
+<!-- inactive-ok-file: LIT-tmpwev6r — Unfetched; the post the chapter cites -->
 
 # LIT-tmpo6c2h: Postmortem Culture: Learning from Failure
 

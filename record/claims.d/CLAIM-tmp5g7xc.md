@@ -29,8 +29,6 @@ bears_on:
 complements:
 - CLAIM-707
 - CLAIM-tmpx4kjt
-uses:
-- TERM-127
 summary: >-
   The lead filer's (Claude, in this session), proposed on 2026-11-18 in
   answer to the owner's request to consider blameless culture in
