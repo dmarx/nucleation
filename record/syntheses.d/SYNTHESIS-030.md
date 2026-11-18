@@ -10,8 +10,8 @@ history:
   date: '2026-11-18'
   note: >-
     At the synthesis review of 2026-11-18 (learned-structure). Two part
-    accounts filed at the same review are integrated: SYNTHESIS-tmpwrkqs
-    (modes) and SYNTHESIS-tmp42cg7 (latent capability), whose components
+    accounts filed at the same review are integrated: SYNTHESIS-097
+    (modes) and SYNTHESIS-096 (latent capability), whose components
     were filed on 2026-11-15. CLAIM-360 moves into SYNTHESIS-034, which now
     integrates it. CLAIM-641 (filed 2026-11-11, resting on CLAIM-291) is
     integrated, and with CLAIM-291 makes a kernel-operator family.
@@ -42,8 +42,8 @@ integrates:
 - SYNTHESIS-028
 - SYNTHESIS-025
 - SYNTHESIS-033
-- SYNTHESIS-tmpwrkqs
-- SYNTHESIS-tmp42cg7
+- SYNTHESIS-097
+- SYNTHESIS-096
 - CLAIM-633
 - CLAIM-536
 - CLAIM-543
@@ -112,10 +112,10 @@ bears_on:
   [CLAIM-621](../claims.d/CLAIM-621.md), [CASE-226](../cases.d/CASE-226.md)). When a learned distinction is a concept, and
   whether concepts individuate.
 - **[SYNTHESIS-033](SYNTHESIS-033.md), last-layer collapse** ([QUESTION-051](../questions.d/QUESTION-051.md) with five questions).
-- **[SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md), modes** ([CLAIM-698](../claims.d/CLAIM-698.md), [CLAIM-696](../claims.d/CLAIM-696.md), [CASE-270](../cases.d/CASE-270.md), [CASE-272](../cases.d/CASE-272.md)).
+- **[SYNTHESIS-097](SYNTHESIS-097.md), modes** ([CLAIM-698](../claims.d/CLAIM-698.md), [CLAIM-696](../claims.d/CLAIM-696.md), [CASE-270](../cases.d/CASE-270.md), [CASE-272](../cases.d/CASE-272.md)).
   Whether a description in justified modes and their couplings
   out-predicts feature and circuit accounts, and what justifies a mode.
-- **[SYNTHESIS-tmp42cg7](SYNTHESIS-tmp42cg7.md), latent capability** ([CLAIM-697](../claims.d/CLAIM-697.md), [CLAIM-695](../claims.d/CLAIM-695.md), [CLAIM-699](../claims.d/CLAIM-699.md),
+- **[SYNTHESIS-096](SYNTHESIS-096.md), latent capability** ([CLAIM-697](../claims.d/CLAIM-697.md), [CLAIM-695](../claims.d/CLAIM-695.md), [CLAIM-699](../claims.d/CLAIM-699.md),
   [CASE-271](../cases.d/CASE-271.md), [CASE-274](../cases.d/CASE-274.md), [CASE-275](../cases.d/CASE-275.md)). Dispositions relative to budgets,
   readers and cues; RL as amortized search; telling loss from
   inaccessibility.
@@ -159,8 +159,8 @@ one part or family.
 | [SYNTHESIS-028](SYNTHESIS-028.md) | 10 | 10 | 8 |
 | [SYNTHESIS-025](SYNTHESIS-025.md) | 6 | 14 | 1 |
 | [SYNTHESIS-033](SYNTHESIS-033.md) | 6 | 5 | 1 |
-| [SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md) | 4 | 4 | 5 |
-| [SYNTHESIS-tmp42cg7](SYNTHESIS-tmp42cg7.md) | 6 | 6 | 5 |
+| [SYNTHESIS-097](SYNTHESIS-097.md) | 4 | 4 | 5 |
+| [SYNTHESIS-096](SYNTHESIS-096.md) | 6 | 6 | 5 |
 | personas | 4 | 5 | 3 |
 | group structure | 5 | 4 | 0 |
 | learned variables | 3 | 2 | 0 |
@@ -276,7 +276,7 @@ which [CLAIM-360](../claims.d/CLAIM-360.md)'s note of 2026-11-11 names without a
   orthogonal map; the other quotients parameters by a symmetry group. The
   objects differ, and no sentence joining them has a case or a
   derivation of its own. Not filed.
-- **[CLAIM-699](../claims.d/CLAIM-699.md) ([SYNTHESIS-tmp42cg7](SYNTHESIS-tmp42cg7.md)), tested at the review of 2026-11-18.**
+- **[CLAIM-699](../claims.d/CLAIM-699.md) ([SYNTHESIS-096](SYNTHESIS-096.md)), tested at the review of 2026-11-18.**
   It rests on [CLAIM-697](../claims.d/CLAIM-697.md) and [CLAIM-695](../claims.d/CLAIM-695.md) and passes by a separating case and a
   discriminating prediction, recorded in its "Admission".
 
@@ -294,7 +294,7 @@ that no entry states:
 - The persona family and [SYNTHESIS-025](SYNTHESIS-025.md): [QUESTION-370](../questions.d/QUESTION-370.md)'s "J-space is a concept
   space" and [TERM-098](../terms.d/TERM-098.md).
 - Within [SYNTHESIS-026](SYNTHESIS-026.md), [CASE-193](../cases.d/CASE-193.md) and [CLAIM-555](../claims.d/CLAIM-555.md).
-- [CLAIM-696](../claims.d/CLAIM-696.md) ([SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md)) and [CLAIM-263](../claims.d/CLAIM-263.md), [CLAIM-629](../claims.d/CLAIM-629.md) and [CLAIM-366](../claims.d/CLAIM-366.md)
+- [CLAIM-696](../claims.d/CLAIM-696.md) ([SYNTHESIS-097](SYNTHESIS-097.md)) and [CLAIM-263](../claims.d/CLAIM-263.md), [CLAIM-629](../claims.d/CLAIM-629.md) and [CLAIM-366](../claims.d/CLAIM-366.md)
   ([SYNTHESIS-026](SYNTHESIS-026.md)): invariance under function-preserving symmetries, asked
   of a mode and of a frustration verdict. [CLAIM-696](../claims.d/CLAIM-696.md) cites only [CLAIM-148](../claims.d/CLAIM-148.md).
 - [CLAIM-290](../claims.d/CLAIM-290.md) and the kernel-operator family: kernels as operators, with no

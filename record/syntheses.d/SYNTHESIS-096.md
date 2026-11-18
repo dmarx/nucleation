@@ -1,5 +1,8 @@
 ---
+number: 96
 status: Proposed
+formerly:
+- SYNTHESIS-tmp42cg7
 title: 'What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner''s claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner''s claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant''s claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost'
 version: 1
 defeated_if: >-
@@ -29,9 +32,9 @@ summary: >-
   Theory", and all are Proposed. The three claims' first line is
   realizability. It maps them and adds nothing.
 ---
-<!-- inactive-ok-file: SYNTHESIS-042 SYNTHESIS-tmpwrkqs CLAIM-698 CLAIM-697 CLAIM-695 CLAIM-699 CASE-271 CASE-274 CASE-275 CLAIM-576 CLAIM-182 TERM-118 THEORY-1880 THEORY-1908 ADR-075 — Proposed; the components, the entries they cite and the decisions this account follows -->
+<!-- inactive-ok-file: SYNTHESIS-042 SYNTHESIS-097 CLAIM-698 CLAIM-697 CLAIM-695 CLAIM-699 CASE-271 CASE-274 CASE-275 CLAIM-576 CLAIM-182 TERM-118 THEORY-1880 THEORY-1908 ADR-075 — Proposed; the components, the entries they cite and the decisions this account follows -->
 
-# SYNTHESIS-tmp42cg7: What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost
+# SYNTHESIS-096: What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost
 
 ## The account
 
@@ -66,7 +69,7 @@ summary: >-
   not run) separates readdressing, interference, downstream suppression,
   higher realization cost and loss. It takes its readdressing signature
   from [CASE-271](../cases.d/CASE-271.md) and its budget axis from [CLAIM-697](../claims.d/CLAIM-697.md), and tests [CLAIM-698](../claims.d/CLAIM-698.md)
-  ([SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md)). [CASE-275](../cases.d/CASE-275.md) (A's proposed study; not run) separates
+  ([SYNTHESIS-097](SYNTHESIS-097.md)). [CASE-275](../cases.d/CASE-275.md) (A's proposed study; not run) separates
   [TERM-118](../terms.d/TERM-118.md)'s masking, finking and mimicking from removal for a suppressed
   transformation, "relative to the declared readers, contexts and
   budgets" of [CLAIM-697](../claims.d/CLAIM-697.md).

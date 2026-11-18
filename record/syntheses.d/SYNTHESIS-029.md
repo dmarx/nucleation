@@ -67,7 +67,7 @@ bears_on:
   2026-11-18) adds a fourth: under squared-error gradient flow in the
   kernel's moving eigenbasis, ȧ = −Λ_τ a − Ω_τ a, "the order in which the
   space of modes is reorganized". It "answers none of the four". The
-  modes part of the line ([SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md)) cites this note. Since its
+  modes part of the line ([SYNTHESIS-097](SYNTHESIS-097.md)) cites this note. Since its
   note of 2026-11-11 it refines [QUESTION-039](../questions.d/QUESTION-039.md) ([SYNTHESIS-034](SYNTHESIS-034.md)), as "a sharpening
   of [QUESTION-039](../questions.d/QUESTION-039.md)'s 'What sets the order ... at which a network acquires a
   structure'".

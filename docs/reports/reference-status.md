@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**927 documents cited without acknowledgement.** Not listed: 29490 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**930 documents cited without acknowledgement.** Not listed: 29615 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1406,7 +1406,7 @@ Readings no line uses are reviewed in a protocol of their own, by line, by topic
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-186 citations in 163 files await a look; 58 other citations of it are acknowledged.
+186 citations in 163 files await a look; 57 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:16`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:28`](../../record/arguments.d/ARG-055.md)
@@ -2672,7 +2672,7 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 
 A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 
-33 citations in 12 files await a look; 156 other citations of it are acknowledged.
+33 citations in 12 files await a look; 160 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
@@ -2892,7 +2892,7 @@ The withdrawal inquiry takes transient-support as its first line: its two root q
 
 What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
 
-27 citations in 4 files await a look; 4 other citations of it are acknowledged.
+27 citations in 4 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-040.md:116`](../../record/syntheses.d/SYNTHESIS-040.md)
 - [`record/syntheses.d/SYNTHESIS-040.md:177`](../../record/syntheses.d/SYNTHESIS-040.md)
@@ -3737,6 +3737,28 @@ A protective regime, in a person, an institution or a system of states, becomes 
 - [`record/literature.d/LIT-1499.md:46`](../../record/literature.d/LIT-1499.md)
 - [`record/questions.d/QUESTION-045.md:103`](../../record/questions.d/QUESTION-045.md)
 
+### [SYNTHESIS-034](../../record/syntheses.d/SYNTHESIS-034.md) — Proposed
+
+What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training's order follows the posterior's order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line's frustration, concept and persona entries cite
+
+15 citations in 5 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-025.md:82`](../../record/syntheses.d/SYNTHESIS-025.md)
+- [`record/syntheses.d/SYNTHESIS-026.md:132`](../../record/syntheses.d/SYNTHESIS-026.md)
+- [`record/syntheses.d/SYNTHESIS-028.md:155`](../../record/syntheses.d/SYNTHESIS-028.md)
+- [`record/syntheses.d/SYNTHESIS-028.md:156`](../../record/syntheses.d/SYNTHESIS-028.md)
+- [`record/syntheses.d/SYNTHESIS-029.md:71`](../../record/syntheses.d/SYNTHESIS-029.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:15`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:101`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:131`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:135`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:142`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:145`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:157`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:174`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:292`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:312`](../../record/syntheses.d/SYNTHESIS-030.md)
+
 ### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
 
 In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
@@ -4110,6 +4132,26 @@ Whether organizational affect is felt is held apart from whether it is functiona
 - [`record/syntheses.d/SYNTHESIS-021.md:133`](../../record/syntheses.d/SYNTHESIS-021.md)
 - [`record/syntheses.d/SYNTHESIS-021.md:134`](../../record/syntheses.d/SYNTHESIS-021.md)
 
+### [SYNTHESIS-026](../../record/syntheses.d/SYNTHESIS-026.md) — Proposed
+
+Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
+
+13 citations in 3 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-028.md:145`](../../record/syntheses.d/SYNTHESIS-028.md)
+- [`record/syntheses.d/SYNTHESIS-028.md:166`](../../record/syntheses.d/SYNTHESIS-028.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:95`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:131`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:138`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:145`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:156`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:229`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:256`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:288`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:296`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:298`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-034.md:136`](../../record/syntheses.d/SYNTHESIS-034.md)
+
 ### [CLAIM-174](../../record/claims.d/CLAIM-174.md) — Proposed
 
 A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
@@ -4349,24 +4391,6 @@ Given an independently warranted agent with several available action-generating 
 - [`record/questions.d/QUESTION-045.md:56`](../../record/questions.d/QUESTION-045.md)
 - [`record/questions.d/QUESTION-062.md:27`](../../record/questions.d/QUESTION-062.md)
 - [`record/syntheses.d/SYNTHESIS-021.md:48`](../../record/syntheses.d/SYNTHESIS-021.md)
-
-### [SYNTHESIS-034](../../record/syntheses.d/SYNTHESIS-034.md) — Proposed
-
-What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training's order follows the posterior's order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line's frustration, concept and persona entries cite
-
-11 citations in 5 files await a look.
-
-- [`record/syntheses.d/SYNTHESIS-025.md:82`](../../record/syntheses.d/SYNTHESIS-025.md)
-- [`record/syntheses.d/SYNTHESIS-026.md:111`](../../record/syntheses.d/SYNTHESIS-026.md)
-- [`record/syntheses.d/SYNTHESIS-028.md:120`](../../record/syntheses.d/SYNTHESIS-028.md)
-- [`record/syntheses.d/SYNTHESIS-028.md:121`](../../record/syntheses.d/SYNTHESIS-028.md)
-- [`record/syntheses.d/SYNTHESIS-029.md:121`](../../record/syntheses.d/SYNTHESIS-029.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:82`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:104`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:110`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:127`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:238`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:240`](../../record/syntheses.d/SYNTHESIS-030.md)
 
 ### [TERM-086](../../record/terms.d/TERM-086.md) — Proposed
 
@@ -4627,39 +4651,22 @@ In the coupled meaning–authority model, is authority's effect on what becomes 
 - [`record/literature.d/LIT-1321.md:45`](../../record/literature.d/LIT-1321.md)
 - [`record/terms.d/TERM-064.md:256`](../../record/terms.d/TERM-064.md)
 
-### [SYNTHESIS-026](../../record/syntheses.d/SYNTHESIS-026.md) — Proposed
-
-Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
-
-10 citations in 3 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/syntheses.d/SYNTHESIS-028.md:112`](../../record/syntheses.d/SYNTHESIS-028.md)
-- [`record/syntheses.d/SYNTHESIS-028.md:130`](../../record/syntheses.d/SYNTHESIS-028.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:76`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:104`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:115`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:126`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:206`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:235`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:251`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-034.md:98`](../../record/syntheses.d/SYNTHESIS-034.md)
-
 ### [SYNTHESIS-028](../../record/syntheses.d/SYNTHESIS-028.md) — Proposed
 
 Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open
 
 10 citations in 3 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/syntheses.d/SYNTHESIS-030.md:89`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:118`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:129`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:139`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:206`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:235`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:237`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:240`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:108`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:138`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:146`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:159`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:228`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:256`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:289`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:292`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-033.md:58`](../../record/syntheses.d/SYNTHESIS-033.md)
-- [`record/syntheses.d/SYNTHESIS-034.md:131`](../../record/syntheses.d/SYNTHESIS-034.md)
+- [`record/syntheses.d/SYNTHESIS-034.md:167`](../../record/syntheses.d/SYNTHESIS-034.md)
 
 ### [THEORY-024](../../record/theory.d/THEORY-024.md) — Rejected
 
@@ -5987,7 +5994,7 @@ On Ainslie's account the population of interests is produced by desynchronized v
 
 Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison
 
-6 citations in 3 files await a look; 14 other citations of it are acknowledged.
+6 citations in 3 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-039.md:41`](../../record/decisions.d/ADR-039.md)
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
@@ -6275,12 +6282,38 @@ When a learned distinction becomes a concept is open, and a candidate term holds
 
 6 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/syntheses.d/SYNTHESIS-030.md:92`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:110`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:130`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:139`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:249`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-034.md:102`](../../record/syntheses.d/SYNTHESIS-034.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:111`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:145`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:160`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:172`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:294`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-034.md:140`](../../record/syntheses.d/SYNTHESIS-034.md)
+
+### [SYNTHESIS-096](../../record/syntheses.d/SYNTHESIS-096.md) — Proposed
+
+What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost
+
+6 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-030.md:14`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:118`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:163`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:279`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-034.md:121`](../../record/syntheses.d/SYNTHESIS-034.md)
+- [`record/syntheses.d/SYNTHESIS-034.md:131`](../../record/syntheses.d/SYNTHESIS-034.md)
+
+### [SYNTHESIS-097](../../record/syntheses.d/SYNTHESIS-097.md) — Proposed
+
+Whether the mathematics of modes applies to learned networks is held as the owner's hypothesis with A's test, which asks that independently justified modes and their couplings out-predict feature, circuit and parameter accounts; the assistant's rule that such a mode must be invariant under the network's function-preserving symmetries, with a construction in which a spectrum over unit order fails it; and one proposed study on modular addition, where the task supplies the modes; nothing in it has been run
+
+6 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-029.md:70`](../../record/syntheses.d/SYNTHESIS-029.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:13`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:115`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:162`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:297`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-034.md:120`](../../record/syntheses.d/SYNTHESIS-034.md)
 
 ### [TERM-087](../../record/terms.d/TERM-087.md) — Proposed
 
@@ -6654,7 +6687,7 @@ Blackwell's order compares experiments about one parameter, so it does not reach
 
 Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
 
-5 citations in 5 files await a look; 37 other citations of it are acknowledged.
+5 citations in 5 files await a look; 44 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-366.md:145`](../../record/claims.d/CLAIM-366.md)
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
@@ -6913,18 +6946,6 @@ Can processes that share one update rule and differ only in parameters and histo
 - [`record/questions.d/QUESTION-083.md:13`](../../record/questions.d/QUESTION-083.md)
 - [`record/questions.d/QUESTION-083.md:139`](../../record/questions.d/QUESTION-083.md)
 - [`record/questions.d/QUESTION-083.md:204`](../../record/questions.d/QUESTION-083.md)
-
-### [SYNTHESIS-029](../../record/syntheses.d/SYNTHESIS-029.md) — Proposed
-
-Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open
-
-5 citations in 2 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/syntheses.d/SYNTHESIS-030.md:86`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:128`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:137`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:238`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-034.md:127`](../../record/syntheses.d/SYNTHESIS-034.md)
 
 ### [TERM-110](../../record/terms.d/TERM-110.md) — Proposed
 
@@ -7253,7 +7274,7 @@ Drift is retrieval failure outside a critical distance: a restatement close enou
 
 Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
-4 citations in 4 files await a look; 50 other citations of it are acknowledged.
+4 citations in 4 files await a look; 51 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:14`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:24`](../syntheses/role/thesis.md)
@@ -7733,16 +7754,27 @@ The nucleating-argument line is three accounts that meet at the rule for when to
 - [`docs/syntheses/route/derived.md:15`](../syntheses/route/derived.md)
 - [`docs/syntheses/warrant/demonstrated.md:15`](../syntheses/warrant/demonstrated.md)
 
+### [SYNTHESIS-029](../../record/syntheses.d/SYNTHESIS-029.md) — Proposed
+
+Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open
+
+4 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-030.md:105`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:142`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:158`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-034.md:76`](../../record/syntheses.d/SYNTHESIS-034.md)
+
 ### [SYNTHESIS-033](../../record/syntheses.d/SYNTHESIS-033.md) — Proposed
 
 What classification training leaves in a network's last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own
 
 4 citations in 1 file await a look.
 
-- [`record/syntheses.d/SYNTHESIS-030.md:95`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:118`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:131`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:139`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:114`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:146`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:161`](../../record/syntheses.d/SYNTHESIS-030.md)
+- [`record/syntheses.d/SYNTHESIS-030.md:173`](../../record/syntheses.d/SYNTHESIS-030.md)
 
 ### [TERM-083](../../record/terms.d/TERM-083.md) — Proposed
 
@@ -7759,7 +7791,7 @@ moral standing: being owed moral consideration directly, for one's own sake, and
 
 The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
-4 citations in 3 files await a look; 33 other citations of it are acknowledged.
+4 citations in 3 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -8456,7 +8488,7 @@ Internal conflict is the gap between the precedence a motive claims over action 
 
 Averaging weights within a basin averages features: the network whose weights are the average of several networks in one low-loss basin has, in every layer, the average of their features
 
-3 citations in 3 files await a look; 15 other citations of it are acknowledged.
+3 citations in 3 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1965.md:88`](../../record/notes.d/NOTE-1965.md)
 - [`record/notes.d/NOTE-1978.md:99`](../../record/notes.d/NOTE-1978.md)
@@ -8486,7 +8518,7 @@ World-modeling is a family of resource-bounded capabilities for producing and us
 
 In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible
 
-3 citations in 2 files await a look; 35 other citations of it are acknowledged.
+3 citations in 2 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-088.md:73`](../../record/decisions.d/ADR-088.md)
 - [`record/questions.d/QUESTION-127.md:22`](../../record/questions.d/QUESTION-127.md)
@@ -9531,7 +9563,7 @@ An organization can be disposed to answer a credible challenge by reducing the c
 
 Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on an orbit only where the symmetry's derivative is orthogonal, so it holds across permutations and orthogonal maps and changes along rescalings
 
-2 citations in 1 file await a look; 21 other citations of it are acknowledged.
+2 citations in 1 file await a look; 23 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-127.md:20`](../../record/questions.d/QUESTION-127.md)
 - [`record/questions.d/QUESTION-127.md:117`](../../record/questions.d/QUESTION-127.md)
@@ -9544,15 +9576,6 @@ Structural frustration of a set of demands forces, under every attainable arrang
 
 - [`record/syntheses.d/SYNTHESIS-008.md:12`](../../record/syntheses.d/SYNTHESIS-008.md)
 - [`record/syntheses.d/SYNTHESIS-008.md:16`](../../record/syntheses.d/SYNTHESIS-008.md)
-
-### [CLAIM-633](../../record/claims.d/CLAIM-633.md) — Proposed
-
-In the two-path construction where a resource budget below √2 disconnects two zero-loss realizations, the two lie on one orbit of the symmetry that swaps the network's two paths, and for every budget from 1 to below √2 the budgeted zero-loss set is two path-connected pieces that the swap exchanges, so once that symmetry is quotiented the budgeted set is connected: the construction shows connectedness relative to the admitted paths in parameter space, not between solutions counted up to the architecture's symmetries
-
-2 citations in 1 file await a look.
-
-- [`record/syntheses.d/SYNTHESIS-030.md:12`](../../record/syntheses.d/SYNTHESIS-030.md)
-- [`record/syntheses.d/SYNTHESIS-030.md:206`](../../record/syntheses.d/SYNTHESIS-030.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -10260,7 +10283,7 @@ organizational slack: resources an organization holds beyond what its current ou
 
 disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked
 
-2 citations in 2 files await a look; 36 other citations of it are acknowledged.
+2 citations in 2 files await a look; 38 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-089.md:68`](../../record/decisions.d/ADR-089.md)
 - [`record/literature.d/LIT-2615.md:89`](../../record/literature.d/LIT-2615.md)
@@ -11044,6 +11067,14 @@ Equal charge, different tokens: two φ⁴ kinks with the same boundary charge an
 
 - [`record/cases.d/CASE-269.md:69`](../../record/cases.d/CASE-269.md)
 
+### [CASE-274](../../record/cases.d/CASE-274.md) — Proposed
+
+A proposed study: small transformers trained on randomized subject–relation–object facts, with matched training worlds, measured across query variants, inference budgets, interventions and merges, to find whether apparent forgetting is loss, readdressing, interference or downstream suppression, and whether a model of the network's response geometry predicts which associations come back under unseen queries, compute and interventions better than feature similarity, activation strength and attribution
+
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-097.md:75`](../../record/syntheses.d/SYNTHESIS-097.md)
+
 ### [CLAIM-001](../../record/claims.d/CLAIM-001.md) — Proposed
 
 The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers
@@ -11240,7 +11271,7 @@ A correspondence fitted from two structures' internal similarities alone is iden
 
 A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 21 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-275.md:65`](../../record/cases.d/CASE-275.md)
 
@@ -12091,6 +12122,14 @@ What is it like to be Microsoft?
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-067.md:67`](../../record/decisions.d/ADR-067.md)
+
+### [SYNTHESIS-030](../../record/syntheses.d/SYNTHESIS-030.md) — Proposed
+
+The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner's demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, what classification leaves in the last layers, whether modes describe learned networks, and how latent capability is elicited and at what cost, with smaller families and eighteen entries linked to no other; the parts meet mostly through the acquisition questions, and the line is a candidate to split
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-028.md:138`](../../record/syntheses.d/SYNTHESIS-028.md)
 
 ### [SYNTHESIS-047](../../record/syntheses.d/SYNTHESIS-047.md) — Proposed
 

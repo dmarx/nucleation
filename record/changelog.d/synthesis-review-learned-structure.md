@@ -2,7 +2,7 @@
 
 - Synthesis review of the learned-structure line (2026-11-18): two part
   accounts for the entries filed on 2026-11-15, modes
-  ([SYNTHESIS-tmpwrkqs](record/syntheses.d/SYNTHESIS-tmpwrkqs.md)) and latent capability ([SYNTHESIS-tmp42cg7](record/syntheses.d/SYNTHESIS-tmp42cg7.md)); an
+  ([SYNTHESIS-097](record/syntheses.d/SYNTHESIS-097.md)) and latent capability ([SYNTHESIS-096](record/syntheses.d/SYNTHESIS-096.md)); an
   "Admission" for [CLAIM-699](record/claims.d/CLAIM-699.md), which passes [ADR-075](record/decisions.d/ADR-075.md)'s test by a separating
   case and a discriminating prediction.
 

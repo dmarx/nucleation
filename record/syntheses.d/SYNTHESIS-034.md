@@ -117,8 +117,8 @@ bears_on:
   one gain in accuracy. Of these, "new effective couplings among existing
   features" and "a pathway that becomes accessible to some inputs" are
   missed by a feature-only model, "this question's discriminating case".
-  It names A's experiments, [CASE-272](../cases.d/CASE-272.md) ([SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md)) and [CASE-274](../cases.d/CASE-274.md)
-  ([SYNTHESIS-tmp42cg7](SYNTHESIS-tmp42cg7.md)). Not run.
+  It names A's experiments, [CASE-272](../cases.d/CASE-272.md) ([SYNTHESIS-097](SYNTHESIS-097.md)) and [CASE-274](../cases.d/CASE-274.md)
+  ([SYNTHESIS-096](SYNTHESIS-096.md)). Not run.
 - **Instruments.** [QUESTION-234](../questions.d/QUESTION-234.md) (the promotion condition of [THEORY-243](../theory.d/THEORY-243.md);
   Open) asks whether interchange interventions leave the mediating
   direction underdetermined in trained networks. Its note of 2026-10-26
@@ -128,7 +128,7 @@ bears_on:
   dictionaries of equal fidelity give the same validated circuit; it is
   "[THEORY-802](../theory.d/THEORY-802.md)'s thesis moved from alignments to dictionaries". [CASE-271](../cases.d/CASE-271.md)
   (a construction) and [CASE-274](../cases.d/CASE-274.md) (a proposed study), both in
-  [SYNTHESIS-tmp42cg7](SYNTHESIS-tmp42cg7.md), bear on it: a query family can separate
+  [SYNTHESIS-096](SYNTHESIS-096.md), bear on it: a query family can separate
   readdressing, suppression and deletion, and some cancellations no query
   reveals.
 
