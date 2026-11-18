@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [18 Nov 06:46 — The owner's six calls on the line rightful-power and the work, applied: two refinements, one relation found, one member out of the work, one question moved, the rest confirmed](2026-11.md#the-owners-six-calls-on-the-line-rightful-power-and-the-work-applied-two-refinements-one-relation-found-one-member-out-of-the-work-one-question-moved-the-rest-confirmed)
 - [18 Nov 06:20 — Blameless culture taken up as a case of accountability without blame: seven works registered and four read, two claims, an argument and a proposed study filed, and two dated notes, from the lead's proposals](2026-11.md#blameless-culture-taken-up-as-a-case-of-accountability-without-blame-seven-works-registered-and-four-read-two-claims-an-argument-and-a-proposed-study-filed-and-two-dated-notes-from-the-leads-proposals)
 - [18 Nov 05:44 — Two works read for the filings of 2026-11-15 and left unfiled: Holm and Stechmann (2004), read in full as a neighbour of Hasimoto (1972), and Zhu, Li and Cai (2026), the companion of Zhu (2026), now read; and LIT-2629's statements of holding corrected](2026-11.md#two-works-read-for-the-filings-of-2026-11-15-and-left-unfiled-holm-and-stechmann-2004-read-in-full-as-a-neighbour-of-hasimoto-1972-and-zhu-li-and-cai-2026-the-companion-of-zhu-2026-now-read-and-lit-2629s-statements-of-holding-corrected)
 - [18 Nov 05:20 — The work capability-restraint-relational-freedom added for the owner's manuscript from the exchange "Assess Depp Heard Abuse": twenty-eight claims are members, seven of them in the line rightful-power; questions, cases and terms it draws on are named, and the passages no entry holds are left with reasons](2026-11.md#the-work-capability-restraint-relational-freedom-added-for-the-owners-manuscript-from-the-exchange-assess-depp-heard-abuse-twenty-eight-claims-are-members-seven-of-them-in-the-line-rightful-power-questions-cases-and-terms-it-draws-on-are-named-and-the-passages-no-entry-holds-are-left-with-reasons)
@@ -91,10 +92,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-279 entries across 3 books, newest first.
+280 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 82 | 2026-11-01 | 2026-11-18 |
+| [2026-11](2026-11.md) | 83 | 2026-11-01 | 2026-11-18 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

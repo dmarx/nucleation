@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**948 documents cited without acknowledgement.** Not listed: 34513 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**949 documents cited without acknowledgement.** Not listed: 34520 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1171,7 +1171,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 
 An entry carries every line whose argument it takes part in: the first line of each entry it answers, objects to or bears on, and of each question it refines, in one step; resting on or using an entry of another line is a dependency across lines, not participation, and stays a reported crossing
 
-241 citations in 215 files await a look; 61 other citations of it are acknowledged.
+242 citations in 216 files await a look; 62 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-043.md:16`](../../record/arguments.d/ARG-043.md)
 - [`record/arguments.d/ARG-055.md:28`](../../record/arguments.d/ARG-055.md)
@@ -1407,12 +1407,13 @@ An entry carries every line whose argument it takes part in: the first line of e
 - [`record/questions.d/QUESTION-441.md:24`](../../record/questions.d/QUESTION-441.md)
 - [`record/questions.d/QUESTION-472.md:24`](../../record/questions.d/QUESTION-472.md)
 - [`record/questions.d/QUESTION-479.md:19`](../../record/questions.d/QUESTION-479.md)
+- [`record/questions.d/QUESTION-481.md:16`](../../record/questions.d/QUESTION-481.md)
 - [`record/questions.d/QUESTION-482.md:15`](../../record/questions.d/QUESTION-482.md)
 - [`record/questions.d/QUESTION-484.md:14`](../../record/questions.d/QUESTION-484.md)
 - [`record/syntheses.d/SYNTHESIS-015.md:12`](../../record/syntheses.d/SYNTHESIS-015.md)
 - [`record/syntheses.d/SYNTHESIS-017.md:12`](../../record/syntheses.d/SYNTHESIS-017.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:127`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-100.md:788`](../../record/syntheses.d/SYNTHESIS-100.md)
+- [`record/syntheses.d/SYNTHESIS-100.md:805`](../../record/syntheses.d/SYNTHESIS-100.md)
 - [`record/terms.d/TERM-059.md:16`](../../record/terms.d/TERM-059.md)
 
 ### [ADR-091](../../record/decisions.d/ADR-091.md) — Proposed
@@ -2850,7 +2851,7 @@ Normative judgment about organizations becomes a line of its own, organizational
 
 A work capability-restraint-relational-freedom is added for the owner's manuscript from the exchange Assess Depp Heard Abuse: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step
 
-29 citations in 29 files await a look.
+30 citations in 29 files await a look.
 
 - [`record/claims.d/CLAIM-363.md:54`](../../record/claims.d/CLAIM-363.md)
 - [`record/claims.d/CLAIM-462.md:64`](../../record/claims.d/CLAIM-462.md)
@@ -2872,6 +2873,7 @@ A work capability-restraint-relational-freedom is added for the owner's manuscri
 - [`record/claims.d/CLAIM-716.md:18`](../../record/claims.d/CLAIM-716.md)
 - [`record/claims.d/CLAIM-718.md:13`](../../record/claims.d/CLAIM-718.md)
 - [`record/claims.d/CLAIM-720.md:29`](../../record/claims.d/CLAIM-720.md)
+- [`record/claims.d/CLAIM-720.md:37`](../../record/claims.d/CLAIM-720.md)
 - [`record/claims.d/CLAIM-721.md:18`](../../record/claims.d/CLAIM-721.md)
 - [`record/claims.d/CLAIM-723.md:18`](../../record/claims.d/CLAIM-723.md)
 - [`record/claims.d/CLAIM-727.md:33`](../../record/claims.d/CLAIM-727.md)
@@ -7938,6 +7940,17 @@ What classification training leaves in a network's last layers, and what it cost
 - [`record/syntheses.d/SYNTHESIS-030.md:161`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-030.md:173`](../../record/syntheses.d/SYNTHESIS-030.md)
 
+### [SYNTHESIS-104](../../record/syntheses.d/SYNTHESIS-104.md) — Proposed
+
+Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability and an organization may owe repair where no one is to blame, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, a complete record of who approved an outcome does not settle whether it can fairly be attributed to them, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it
+
+4 citations in 2 files await a look; 30 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-095.md:53`](../../record/syntheses.d/SYNTHESIS-095.md)
+- [`record/syntheses.d/SYNTHESIS-095.md:173`](../../record/syntheses.d/SYNTHESIS-095.md)
+- [`record/syntheses.d/SYNTHESIS-099.md:36`](../../record/syntheses.d/SYNTHESIS-099.md)
+- [`record/syntheses.d/SYNTHESIS-099.md:377`](../../record/syntheses.d/SYNTHESIS-099.md)
+
 ### [TERM-083](../../record/terms.d/TERM-083.md) — Proposed
 
 moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
@@ -9050,7 +9063,7 @@ What a record of a developing argument can secure is traceable change over its a
 
 The organizational-normativity line is four accounts that meet at its root questions and the older parts' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another's conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts
 
-3 citations in 3 files await a look; 28 other citations of it are acknowledged.
+3 citations in 3 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-614.md:42`](../../record/claims.d/CLAIM-614.md)
 - [`record/claims.d/CLAIM-624.md:76`](../../record/claims.d/CLAIM-624.md)
@@ -9557,7 +9570,7 @@ Voluntary submission against alienation of standing: two informed, voluntary del
 2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-100.md:36`](../../record/syntheses.d/SYNTHESIS-100.md)
-- [`record/syntheses.d/SYNTHESIS-100.md:782`](../../record/syntheses.d/SYNTHESIS-100.md)
+- [`record/syntheses.d/SYNTHESIS-100.md:799`](../../record/syntheses.d/SYNTHESIS-100.md)
 
 ### [CLAIM-015](../../record/claims.d/CLAIM-015.md) — Superseded
 
