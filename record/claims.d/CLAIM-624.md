@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptfuky
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-11-07'
@@ -99,6 +99,13 @@ history:
     order principle and derives its duty from a means–end principle
     and four conditions (ARG-114); A's uses of the claim are
     checked. No other change.
+- version: 11
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §14.4 and A59 use its proposition as a step;
+    A59 cites it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -123,6 +130,8 @@ date: '2026-11-07'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-614
 - CLAIM-348

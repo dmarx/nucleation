@@ -4,13 +4,19 @@ formerly:
 - CLAIM-tmp8wki5
 status: Proposed
 title: 'Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: bears_on QUESTION-478. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §8.1 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +37,8 @@ line:
 - dependence-and-domination
 - transient-support
 - rightful-power
+works:
+- capability-restraint-relational-freedom
 bears_on:
 - QUESTION-478
 complements:

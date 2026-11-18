@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpm95mo
 status: Proposed
 title: 'An opposition can be independent as an actor, in its leadership, aims and speech, while its capacity to change the arrangement it opposes depends on another party''s control of its resources, standing, corrective authority or time; that controlled incapacity, and not incapacity or failure as such, is what makes a contained opposition a mark of domination'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -15,6 +15,13 @@ history:
     majorities changed governance in Moscow councils while the regime
     kept the access rules to the larger arrangement, which
     corroborates the claim in both directions it draws.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §9.1, §11 and §14.5 state its proposition. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,6 +41,8 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+works:
+- capability-restraint-relational-freedom
 bears_on:
 - QUESTION-479
 complements:

@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpt091d
 status: Proposed
 title: 'Where one party gives up something now for a benefit another controls later, whether waiting is good judgment depends on the controller''s reliability, so the controller''s discretion over delivery is discretion over whether the other''s restraint is rational, and a controller not answerable for delivery can make that party''s patience a means of its control'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,12 @@ history:
     Kidd, Palmeri and Aslin (2013) read in full; the claim's first
     half rests on its result through the case, so its account is
     proposed as a ground.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A51 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +37,8 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - will-organization
+works:
+- capability-restraint-relational-freedom
 grounds:
 - CASE-281
 - THEORY-1963

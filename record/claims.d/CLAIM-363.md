@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt75xe
 title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -47,6 +47,12 @@ history:
     which add a holder, affected parties and a horizon to the claim's
     relata; A49's provenance table wrongly pairs the claim with Sen
     and Pettit, and A70 drops scale from its relata. No other change.
+- version: 7
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §2 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,6 +70,8 @@ tags:
 date: '2026-10-18'
 line:
 - organizational-normativity
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-152
 - CLAIM-075

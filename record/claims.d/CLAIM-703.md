@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpd6uxt
 title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target''s sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-16'
@@ -52,6 +52,13 @@ history:
     QUESTION-472 (dependence-and-domination); bears_on QUESTION-071
     (will-organization). Found at the line audit of 2026-11-18. No
     other change.
+- version: 8
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §6.1 and A53 §8 state its proposition. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -76,6 +83,8 @@ line:
 - organizational-normativity
 - dependence-and-domination
 - will-organization
+works:
+- capability-restraint-relational-freedom
 complements:
 - CLAIM-708
 - CLAIM-404

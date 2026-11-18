@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwpvbz
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-16'
@@ -32,6 +32,12 @@ history:
     is not held here, and this claim is an objection to CLAIM-710);
     complements CLAIM-730 added; a sentence on the difference added. No
     change of status or title.
+- version: 7
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §10 states its proposition. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -50,6 +56,8 @@ tags:
 date: '2026-11-15'
 line:
 - distributed-agency
+works:
+- capability-restraint-relational-freedom
 objects_to:
 - CLAIM-710
 complements:

@@ -4,13 +4,19 @@ formerly:
 - CLAIM-tmpazi8a
 status: Proposed
 title: 'Acting before a recognized opportunity for intervention can take effect is a wrong of its own, apart from acting without consent: where a party has standing to authorize, suspend or contest an act, an actor who without adequate justification makes the act''s consequences irreversible before that standing can be exercised defeats it, even where the objection would have failed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
   note: >-
     Fuentes v. Shevin read; it bears out the legal analogue A59 cites,
     and its theory is added to the claim's grounds.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A59 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +39,8 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+works:
+- capability-restraint-relational-freedom
 complements:
 - CLAIM-464
 - CLAIM-624

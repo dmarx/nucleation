@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp6yhlh
 title: 'Two forms of assistance that deliver the same outcome can leave the person different participation in worthwhile activity, by removing drudgery, by opening an activity of worth to them, or by displacing participation they have reason to value, so assistance, a technology''s above all, is assessed by the participation it enables or displaces as well as by its outcomes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §8 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,6 +30,8 @@ tags:
 date: '2026-11-13'
 line:
 - flourishing-and-meaning
+works:
+- capability-restraint-relational-freedom
 complements:
 - CLAIM-675
 bears_on:

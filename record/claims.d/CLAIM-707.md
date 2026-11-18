@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnfjln
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
-version: 16
+version: 17
 history:
 - version: 2
   date: '2026-11-16'
@@ -94,6 +94,13 @@ history:
 - version: 16
   date: '2026-11-18'
   note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §11.1 states its proposition. No other
+    change.
+- version: 17
+  date: '2026-11-18'
+  note: >-
     A dated note added: Cook (LIT-tmpkbkg1) read, corroborates; Dekker
     and Nyce (LIT-tmpxqwjm) read; the blame-the-system hypothesis
     (CLAIM-tmp5g7xc) filed as a complement. No change of status or title.
@@ -116,6 +123,8 @@ date: '2026-11-15'
 line:
 - organizational-normativity
 - dependence-and-domination
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-708
 complements:

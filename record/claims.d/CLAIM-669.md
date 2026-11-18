@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp16mkz
 title: 'An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-12'
@@ -38,6 +38,12 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §6 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,6 +66,8 @@ date: '2026-11-12'
 line:
 - dependence-and-domination
 - transient-support
+works:
+- capability-restraint-relational-freedom
 bears_on:
 - QUESTION-461
 complements:

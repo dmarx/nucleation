@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnw7ez
 title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it, and the structuring is also a wrong of its own against the person structured, whether or not they comply'
-version: 16
+version: 17
 history:
 - version: 2
   date: '2026-11-16'
@@ -86,6 +86,13 @@ history:
     found not to carry the second-order wrong; Tessman not reached.
     Carried over at the reconciliation of 2026-11-18 from the
     continuation filing's duplicate entry.
+- version: 17
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §11.1 and A59 state its proposition. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -109,6 +116,8 @@ date: '2026-11-15'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- capability-restraint-relational-freedom
 complements:
 - CLAIM-624
 - CLAIM-709

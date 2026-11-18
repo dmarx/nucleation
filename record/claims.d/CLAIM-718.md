@@ -4,7 +4,15 @@ formerly:
 - CLAIM-tmp613ja
 status: Proposed
 title: 'A normative verdict on a relationship can be taken as a premise in order to find what in the relationship''s organization makes it true: hold behaviour and outcome fixed across cases judged differently, look for the organizational difference, then try to break it with cases where verdict and difference come apart; this finds the organizational marks of normative terms without a prior measure of them, and is circular without the last step'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §2 and §15 state its proposition, as the
+    manuscript's method. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +32,8 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - dependence-and-domination
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-363
 bears_on:

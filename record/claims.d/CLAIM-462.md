@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-29'
@@ -57,6 +57,13 @@ history:
     A dated note: A23 §3 and A33 §1 and §4 of the exchange "Assess
     Depp Heard Abuse" give volume and rate as a route by which action
     outruns correction. No other change.
+- version: 9
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §9 and §10 state its proposition. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,6 +81,8 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-422
 - CLAIM-099

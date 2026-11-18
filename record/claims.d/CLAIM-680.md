@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpfyxes
 title: 'That some ways of living are more worthwhile than others, and that this can be judged fallibly, licenses institutions to cultivate the conditions in which people can engage with what is worthwhile, not to impose a conception of it: a reasoned judgment of worth is not by itself a warrant for coercion'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,13 @@ history:
     A dated note: A90 II of the exchange "Assess Depp Heard Abuse"
     states the general pattern this claim instances, that what may be
     pursued need not be imposed. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §5 and §14.2 state its proposition. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,6 +37,8 @@ tags:
 date: '2026-11-13'
 line:
 - flourishing-and-meaning
+works:
+- capability-restraint-relational-freedom
 grounds:
 - THEORY-1836
 bears_on:

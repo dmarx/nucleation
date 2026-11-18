@@ -4,13 +4,20 @@ formerly:
 - CLAIM-tmpx1g4r
 status: Proposed
 title: 'Four judgments about an authority are distinct: the warrant of the obligations it is to serve, its jurisdiction over the matter, its arrangement''s capacity to realize those obligations together, and its capacity to reach compliant arrangements and correct failures by permitted means; neither of the first two follows from any of the others, and of the last two only the dynamic one implies the static one, for what it reaches'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: bears_on QUESTION-485. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A71 §12 and A76's concise thesis for the
+    manuscript state its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +38,8 @@ line:
 - organizational-normativity
 - realizability
 - rightful-power
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-560
 - CLAIM-075

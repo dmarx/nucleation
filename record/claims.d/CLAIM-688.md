@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwvg2o
 title: 'A collective''s capacity to decline a feasible technology, which is part of its self-direction over that technology, can depend more on the competition it is in than on its own organization: where forgoing the technology leaves a collective dependent on rivals that adopt it, none of the competitors can decline it alone, and the capacity exists, if anywhere, in coordination among them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,12 @@ history:
     is in the part of the line on what those who govern an arrangement
     others depend on owe. No relation supplies
     organizational-normativity to it (ADR-085). No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §7 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +41,8 @@ tags:
 date: '2026-11-13'
 line:
 - dependence-and-domination
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-457
 complements:

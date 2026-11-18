@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpyjzi8
 title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying, with the burden falling hardest on its most conscientious members'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -51,6 +51,13 @@ history:
     the subsidy's deliberate form; the two Robillard works it relays
     were not reached. Carried over at the reconciliation of 2026-11-18
     from the continuation filing's duplicate entry.
+- version: 9
+  date: '2026-11-18'
+  note: >-
+    Joins the work capability-restraint-relational-freedom
+    (ADR-104), the owner's manuscript from the exchange "Assess
+    Depp Heard Abuse": A49 §6.1 and A53 §8 state its proposition. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -76,6 +83,8 @@ tags:
 date: '2026-11-15'
 line:
 - dependence-and-domination
+works:
+- capability-restraint-relational-freedom
 rests_on:
 - CLAIM-703
 complements:
