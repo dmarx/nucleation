@@ -139,11 +139,11 @@ may stay stuck on a discrepancy, or settle it another way.
   stalemate, [THEORY-1341](../theory.d/THEORY-1341.md)).
 - **A new distinction or a new channel.** A new distinction: the agent's
   policy comes to depend on a feature of its situation it did not depend
-  on, so its partition of situations is refined, which by CLAIM-535 is
+  on, so its partition of situations is refined, which by [CLAIM-535](CLAIM-535.md) is
   what a policy needs where acceptable actions differ. A new channel: the
   set of outcomes the agent can reach under its own policy grows, as in
-  CASE-115's split of one shared parameter into task-routed ones. Either
-  enlarges what is co-satisfiable, which is relief in CLAIM-347's sense,
+  [CASE-115](../cases.d/CASE-115.md)'s split of one shared parameter into task-routed ones. Either
+  enlarges what is co-satisfiable, which is relief in [CLAIM-347](CLAIM-347.md)'s sense,
   not suppression.
 - **Defined by behaviour, not mechanism.** Whether a change is "new" or a
   reweighting of what was there depends on which components are counted
@@ -198,17 +198,17 @@ sets these out.
 
 ## Admission
 
-Added at the synthesis review of 2026-11-18 (ADR-075, step 5), from the
+Added at the synthesis review of 2026-11-18 ([ADR-075](../decisions.d/ADR-075.md), step 5), from the
 realizability reader's finding at the review of 2026-11-11, and rewritten
 the same day for the restated claim (version 5).
 
-- **What it adds.** CLAIM-025 separates the capacity to transform an
+- **What it adds.** [CLAIM-025](CLAIM-025.md) separates the capacity to transform an
   organization from the organization. This claim gives a route by which
   that capacity is exercised and a sufficient condition, with tests, for
   counting the result as self-formation.
-- **A separating case.** An agent with CLAIM-025's capacity that
+- **A separating case.** An agent with [CLAIM-025](CLAIM-025.md)'s capacity that
   transforms its organization only by a uniform change of precedence
-  among its regimes (TERM-023's precedence): one regime now always wins
+  among its regimes ([TERM-023](../terms.d/TERM-023.md)'s precedence): one regime now always wins
   where another did. Its partition of situations is not refined and its
   reachable outcomes do not grow, so every premise holds and this claim's
   condition is not met.
@@ -217,14 +217,14 @@ the same day for the restated claim (version 5).
   if the record counted it as self-formation. As a sufficient condition
   the claim does not cover it either way, and the case does not bear on
   the claim's truth. Whether it is another route to self-formation is
-  QUESTION-tmp860wq.
+  [QUESTION-tmp860wq](../questions.d/QUESTION-tmp860wq.md).
 
 ## What it does not say
 
 - **That self-formation is free in Kane's sense.** It is a non-libertarian
   account; ultimate responsibility is set aside ([CLAIM-022](CLAIM-022.md)).
 - **That this is the only route to self-formation.** It states a
-  sufficient condition (QUESTION-tmp860wq asks about another).
+  sufficient condition ([QUESTION-tmp860wq](../questions.d/QUESTION-tmp860wq.md) asks about another).
 - **That every new capacity is self-formed.** Installation and outside upkeep
   are what the tests exclude.
 - **That the steps form a developmental sequence** ([CLAIM-474](CLAIM-474.md)).

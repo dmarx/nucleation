@@ -15,7 +15,7 @@
 
 ### Changed
 
-- CLAIM-532, at the owner's direction, restated from a definition of
+- [CLAIM-532](record/claims.d/CLAIM-532.md), at the owner's direction, restated from a definition of
   self-formation to an occasion and a sufficient condition, with a new
   distinction and a new channel defined by the agent's policy and
   reachable outcomes rather than by mechanism.
