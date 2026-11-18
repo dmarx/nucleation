@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7zzbd
 title: 'Where members'' compensating effort prevents failures that an organization''s conditions would otherwise produce, the prevention leaves little trace while its lapse is visible, so the organization can be credited with outcomes the compensation produced and the members blamed for failures the conditions produced: credit and blame then follow different principles'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-16'
@@ -17,6 +17,11 @@ history:
     its CASE-290 (a proposed study of a fall in complaints) was
     compared with this claim and judged distinct; a sentence on the
     difference added. No change of status or title.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    A dated note added: Cook (LIT-tmpkbkg1) read, corroborates the
+    visibility half. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -110,3 +115,10 @@ invisibility. Kept apart, each link can be looked for where it occurs.
 - **That it is common.** No reading of 2026-11-16 supports it; it is A's
   hypothesis.
 - **That anyone intends it.**
+
+## Note of 2026-11-18: Cook, read: prevention seen only after it lapses
+<!-- inactive-ok-file: THEORY-tmpl5x2t — new; the reading filed on 2026-11-18 -->
+
+Cook 1998/2000, read ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md), corroborates). The claim's first half has a statement in safety science. Complex systems run "because people can make it function, despite the presence of many flaws" (point 5); "People continuously create safety", in activities that are "for the most part, part of normal operations and superficially straightforward" (point 17); and "Outsiders rarely acknowledge the duality of this role. In non-accident filled times, the production role is emphasized. After accidents, the defense against failure role is emphasized" (point 9). That is prevention leaving little trace while its lapse is seen. Cook says nothing about the organization being credited with what the compensation produced, so the claim's second half, credit and blame by different principles, is not supported. Argued, not shown by data.
+
+No status changes.

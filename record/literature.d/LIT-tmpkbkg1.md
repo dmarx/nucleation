@@ -1,0 +1,86 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-18 in full ([NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md)) from the PDF on Adaptive Capacity
+  Labs' site, Cook's own firm, Revision D (00.04.21); worth reading as the
+  short statement of the safety-science view behind blameless review:
+  failure has many contributors, "root cause" answers a social need to
+  blame, and the sharp end resolves the ambiguity the organization leaves.
+  A treatise of eighteen points, argued, not a study.
+title: 'How Complex Systems Fail'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Registered and read on 2026-11-18 at the owner's request to consider
+    blameless culture in engineering (QUESTION-476). Checked on
+    2026-11-18: not held in record/literature.d by title or author
+    (Cook). No DOI. Read from
+    https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf, five
+    pages, "Copyright © 1998, 1999, 2000 by R.I.Cook, MD, for CtL",
+    "Revision D (00.04.21)", text by pdftotext; compared with the HTML at
+    how.complexsystems.fail, which links that PDF as "Original" and has
+    the same eighteen points. `published:` is 1998, year only, the
+    earliest year the copy gives, so the first of January (ADR-002); the
+    text read is the revision of 21 April 2000. No email address was sent
+    to any service.
+tags:
+- complex-systems
+- society-and-governance
+date: '2026-11-18'
+published: '1998-01-01'
+url: 'https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf'
+first_author: 'Cook'
+keywords:
+- 'complex systems'
+- 'patient safety'
+- 'root cause'
+- 'hindsight bias'
+- 'sharp end'
+implementations: []
+summary: >-
+  Richard I. Cook (1998; Revision D, 2000), "How Complex Systems Fail",
+  read in [NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md). Eighteen points: catastrophe needs several
+  failures, each insufficient; "no isolation of the 'root cause' of an
+  accident is possible", and evaluation by root cause reflects "the social,
+  cultural need to blame specific, localized forces or events"; "Actions at the
+  sharp end resolve all ambiguity" that organizations leave, "often
+  intentionally"; systems run "because people can make it function,
+  despite the presence of many flaws", and outsiders see that work only
+  after accidents. It corroborates [CLAIM-707](../claims.d/CLAIM-707.md) and [CLAIM-702](../claims.d/CLAIM-702.md) and bears on
+  [QUESTION-476](../questions.d/QUESTION-476.md) ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md)).
+---
+<!-- inactive-ok-file: THEORY-tmpl5x2t — new; the reading and its theory -->
+<!-- inactive-ok-file: CLAIM-707 CLAIM-702 — Proposed; the claims the reading corroborates -->
+
+# LIT-tmpkbkg1: How Complex Systems Fail
+
+Richard I. Cook (1998; Revision D, 21 April 2000). "How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety)". Cognitive Technologies Laboratory, University of Chicago. https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf
+
+## Key takeaways
+
+*From the reading ([NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md)).*
+
+- **No root cause** (point 7): "there is no isolated 'cause' of an
+  accident. There are multiple contributors to accidents", and evaluation
+  by root cause reflects "the social, cultural need to blame specific,
+  localized forces or events for outcomes."
+- **The sharp end** (point 11): organizations are ambiguous, "often
+  intentionally", about production targets, resources and acceptable risk;
+  "All ambiguity is resolved by actions of practitioners at the sharp end";
+  afterwards their actions "may be regarded as 'errors' or 'violations'",
+  ignoring "especially production pressure".
+- **Unseen defence** (points 5, 9, 17): systems run "because people can
+  make it function, despite the presence of many flaws"; in quiet times
+  "the production role is emphasized", after accidents "the defense against
+  failure role"; "People continuously create safety."
+- **Remedies** (point 15): "end-of-the-chain measures do little" and
+  "usually increase the coupling and complexity of the system".
+
+## Standing in the record
+
+Registered on 2026-11-18 for [QUESTION-476](../questions.d/QUESTION-476.md). It is an argued statement from
+patient safety, without data, and the source of much of the vocabulary of
+blameless review. It bears on [CLAIM-707](../claims.d/CLAIM-707.md) (the sharp end absorbs what is
+decided upstream) and [CLAIM-702](../claims.d/CLAIM-702.md) (prevention is unseen until it lapses).

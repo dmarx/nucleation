@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpsk25g
 status: Proposed
 title: "Blame and accountability are not the same thing: an agent's diminished culpability for the reasons it acts on does not diminish the wrongfulness of what it does, the claims of those it harms, or the need for correction, because the grounds of correction are not exhausted by the grounds of blame"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -18,6 +18,11 @@ history:
     Carries authenticity after its own line(s) under ADR-085, which it
     takes part in: bears_on QUESTION-068 (authenticity). Found at the
     line audit of 2026-11-18. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    A dated note added: the SRE chapter on postmortem culture
+    (LIT-tmpo6c2h) read, corroborates. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -201,5 +206,12 @@ own.
 Shoemaker 2019, read in part ([NOTE-2048](../notes.d/NOTE-2048.md)), for Shoemaker 2011 ([LIT-2777](../literature.d/LIT-2777.md)); King 2013, read ([NOTE-2053](../notes.d/NOTE-2053.md)), for Watson 1996 ([LIT-2718](../literature.d/LIT-2718.md)).
 
 The claim corrects A110's attribution of attributability, answerability and accountability to "Gary Watson and David Shoemaker" jointly. Shoemaker confirms it: of other pluralist views, Watson's *Agency and Answerability* (2004) among them, "none of them have an independent notion of answerability" (2019, n. 64), and the three labels are his, "drawn from labels already in the literature" (p. 913). King's Watson has two faces, attributability and accountability, with accountability carrying a fairness condition, "[i]t is unfair to impose sanctions upon people unless they had a reasonable opportunity to avoid incurring them" (237), which supports the claim's reading that "accountable" in the owner's sentence is not Watson's accountability face.
+
+No status changes.
+
+## Note of 2026-11-18: Google's blameless postmortem, read: correction kept, blame withheld, by rule
+<!-- inactive-ok-file: THEORY-tmpuc245 — new; the reading filed on 2026-11-18 -->
+
+Lunney and Lueder 2016, the SRE chapter "Postmortem Culture", read ([THEORY-tmpuc245](../theory.d/THEORY-tmpuc245.md), corroborates). An organization's codified practice keeps correction, "effective preventive actions", while withholding blame: a postmortem "must focus on identifying the contributing causes of the incident without indicting any individual or team", and "Writing a postmortem is not punishment". The ground it gives is disclosure, not the agent's innocence: under blame "people will not bring issues to light for fear of punishment". That is a practice in which the grounds of correction are explicitly not the grounds of blame. It corroborates the claim as a practice that exists; it is not evidence that correction so grounded works.
 
 No status changes.

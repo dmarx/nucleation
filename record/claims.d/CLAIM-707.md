@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnfjln
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
-version: 16
+version: 17
 history:
 - version: 2
   date: '2026-11-16'
@@ -98,6 +98,12 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §11.1 states its proposition. No other
     change.
+- version: 17
+  date: '2026-11-18'
+  note: >-
+    A dated note added: Cook (LIT-tmpkbkg1) read, corroborates; Dekker
+    and Nyce (LIT-tmpxqwjm) read; the blame-the-system hypothesis
+    (CLAIM-tmp5g7xc) filed as a complement. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -425,5 +431,16 @@ Rubel, Castro & Pham 2021, ch. 7, read as the stand-in for their 2019 article [L
 Tronto 2018 and 2014, read as stand-ins for Moral Boundaries ([LIT-2708](../literature.d/LIT-2708.md)) and Caring Democracy ([LIT-2669](../literature.d/LIT-2669.md)) ([NOTE-2010](../notes.d/NOTE-2010.md), [THEORY-1921](../theory.d/THEORY-1921.md); [NOTE-2049](../notes.d/NOTE-2049.md), [THEORY-1993](../theory.d/THEORY-1993.md); both corroborate): "the capability of the relatively privileged to refuse to accept unpleasant or burdensome responsibilities (privileged irresponsibility)" (2018, p. 8), and exemption, "absent oneself from responsibilities because one has more important duties: protection, production, taking care of one's own" (2014). Neither the books nor any text read carries the exchange's "because other people routinely perform that work on their behalf" or "socially organized inattention"; the summary's "neither yet read here" now holds for the books only.
 
 Zeiser 2024 ([THEORY-1915](../theory.d/THEORY-1915.md)) adds only that a user can be accountable for a decision not attributable to her; no relation is written.
+
+No status changes.
+
+## Note of 2026-11-18: Cook and Dekker and Nyce, read; blamelessness as the crumple zone one level up
+<!-- inactive-ok-file: THEORY-tmpl5x2t THEORY-tmpfomub CLAIM-tmp5g7xc — new; the readings and claim filed on 2026-11-18 -->
+
+Cook 1998/2000, read ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md), corroborates). Point 11 states the control-and-duty part from safety science: "Organizations are ambiguous, often intentionally, about the relationship between production targets, efficient use of resources, economy and costs of operations, and acceptable risks", and "All ambiguity is resolved by actions of practitioners at the sharp end of the system." Afterwards their actions "may be regarded as 'errors' or 'violations'", evaluations that "ignore the other driving forces, especially production pressure". That is control kept upstream by leaving the trade unresolved, and the judgement passed downstream. Argued, not shown by data.
+
+Dekker and Nyce 2013, read ([THEORY-tmpfomub](../theory.d/THEORY-tmpfomub.md)). The nurse Kimberley Hiatt "was first suspended, and then fired" after a patient's death, and in a survey they relay "The most powerful group (doctors) was most likely to see responses as just" (pp. 73, 75). That fits the claim, but the paper does not show where control over her conditions lay. Relation: none.
+
+The lead's hypothesis, filed as [CLAIM-tmp5g7xc](CLAIM-tmp5g7xc.md) and complementing this claim: blameless review, built against the crumple zone, can reproduce its result one level up, because a trace that stops at "the system" drops this claim's upstream controllers along with the operator.
 
 No status changes.

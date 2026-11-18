@@ -4,7 +4,15 @@ formerly:
 - CLAIM-tmp69o4u
 status: Proposed
 title: "An institution can be reliably responsive to reasons within its governing mechanism and unresponsive to justified reasons for revising that mechanism, and because its own actions change the mechanism, responsiveness at the first order is no evidence of responsiveness at the second; identical decisions can come from different capacities to be governed by reasons"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    A dated note added: postmortem action-item completion proposed as a
+    measure of second-order responsiveness, the lead filer's; no reading
+    supports that completion is a known weak spot. No change of status
+    or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -131,3 +139,21 @@ categories."
   descriptive. A finding that it violated a duty by eliminating that
   capability requires an additional normative premise." That premise is
   [CLAIM-624](CLAIM-624.md)'s duty.
+
+## Note of 2026-11-18: postmortem action items as a measure of second-order responsiveness
+<!-- inactive-ok-file: THEORY-tmpuc245 THEORY-tmpl5x2t CASE-tmpw9202 — new; the readings and study filed on 2026-11-18 -->
+
+The lead filer's, from the case of blameless culture ([QUESTION-476](../questions.d/QUESTION-476.md)), accepted for filing by the owner on 2026-11-18. **A measurement proposal, not a new claim.**
+
+A postmortem's action items are an organization's own statement of what it will change after a failure. Some fix the instance: a bug, a configuration, a missing alert. Others revise the mechanism that produced the decision: review or launch criteria, staffing, who may stop a release, what counts as an incident. The first are responsiveness within the mechanism; the second are this claim's responsiveness to reasons for revising it. **Proposed measure:** the share of mechanism-revising action items that are completed, counted separately from instance fixes. An organization that holds postmortems and closes its instance fixes but not its mechanism-revising items is responsive at the first order only, which is this claim's separation in a form that can be counted.
+
+**What the readings say.** No reading on the record reports completion rates, or says that completion is a known weak spot of postmortem practice. That it is one is the lead's understanding, not a finding here. The SRE chapter ([THEORY-tmpuc245](../theory.d/THEORY-tmpuc245.md)) asks reviewers "Is the action plan appropriate and are resulting bug fixes at appropriate priority?" and says "An unreviewed postmortem might as well never have existed", but says nothing of completion. It does describe one second-order practice: "We regularly survey our teams on how the postmortem process is supporting their goals and how the process might be improved", a revision of the review mechanism itself.
+
+**Two qualifications.**
+
+- **Completion is not adequacy.** Cook ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md), point 15): post-accident remedies are usually "end-of-the-chain measures" that "do little" and "usually increase the coupling and complexity of the system." Closing many such items is no evidence of governability.
+- **Declining is not failing.** This claim's "What it does not say": responsiveness is not giving way. An item closed as not to be done, with its reason recorded, is a response; an item left open with no decision is not.
+
+[CASE-tmpw9202](../cases.d/CASE-tmpw9202.md), the proposed study of postmortems, would collect the same data. Relation: none.
+
+No status changes.
