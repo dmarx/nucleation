@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmp6vck6
 status: Proposed
 title: 'Inalienability is a limit on normative powers, not on exercise: a person may restrict the exercise of a right or delegate limited authority over decisions, and no delegation, contract, collective decision or success in imposing an arrangement thereby confers authority to determine whether that person keeps the standing from which claims against the arrangement arise, because the holder lacks the power to confer it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -17,6 +17,11 @@ history:
     cited; it gives the claim's form of argument on a narrower,
     theological ground and admits forfeiture, which the claim does not
     provide for.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: bears_on QUESTION-486. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +42,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - organizational-normativity
+- rightful-power
 complements:
 - CLAIM-722
 - CLAIM-727

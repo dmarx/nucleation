@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpnhesz
 status: Proposed
 title: 'Answerability is directed and role-specific: an actor owes an answer to a party with a claim concerning the matter, on one of several grounds that need not presuppose the actor''s legitimate authority, among them interference with a protected interest, entrusted authority, collective rule, consequential dependence and control over recourse; the party owed, the recipient of reasons, the forum that judges and the party that remedies can differ; and what is owed is indexed to the claim, not to how much the party is affected'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -14,6 +14,11 @@ history:
     without supporting its several grounds. Bovens (2007) read; it
     separates forum, principal and the party that imposes
     consequences, corroborating the claim's separation of roles.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: answers QUESTION-480. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +38,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - organizational-normativity
+- rightful-power
 answers:
 - QUESTION-480
 complements:

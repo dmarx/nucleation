@@ -4,7 +4,7 @@ formerly:
 - CASE-tmpgp2qo
 status: Proposed
 title: 'Voluntary submission against alienation of standing: two informed, voluntary delegations of consequential decisions, one limited and still governed by the delegator''s protected claims, the other purporting to give the recipient unlimited authority to determine whether the delegator keeps any rights at all'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -13,6 +13,11 @@ history:
     ADR-085, which it takes part in: bears_on QUESTION-486
     (organizational-normativity). Found at the line audit of
     2026-11-18. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: bears_on QUESTION-486. No other change.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -22,6 +27,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - organizational-normativity
+- rightful-power
 illustrates:
 - CLAIM-720
 bears_on:

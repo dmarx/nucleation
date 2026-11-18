@@ -4,7 +4,15 @@ formerly:
 - CLAIM-tmpyqfrf
 status: Proposed
 title: "Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Bears on QUESTION-480: influence alone does not trigger a duty to
+    answer, a case on the side of the boundary that owes none and the
+    limit that question's sub-question names; carries rightful-power
+    after its own line under ADR-085. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -21,6 +29,9 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- rightful-power
+bears_on:
+- QUESTION-480
 objects_to:
 - CLAIM-687
 summary: >-
@@ -97,6 +108,10 @@ standard to answer to, so the duty does not arise.
 - **[TERM-124](../terms.d/TERM-124.md)** (Proposed) relativizes domination to a declared standard of
   answerability. This counter says that standard can assign some decisions
   to no one but their holder.
+- Bears on [QUESTION-480](../questions.d/QUESTION-480.md): it marks the boundary that question asks for
+  from the side that owes no answer, influence without a justified
+  structure requiring answerability, and is the limit on the claimant
+  that its sub-question names.
 
 ## What it does not say
 

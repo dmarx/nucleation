@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmplidg6
 status: Proposed
 title: "Rights organize later justification: once justified, rights and normative powers become part of the structure within which further justification occurs, fixing which later undertakings are valid, by whom and with what effect, so rights can be prior in organization to later exercises of authority even where principles are prior to them in justification"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -17,6 +17,12 @@ history:
     SEP "Rights" (Wenar and Cruft, 2025 revision) read; its account of
     powers as second-order and constitutive of legal and political
     systems corroborates the claim's structural half.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Bears on QUESTION-483, as A's reply to Scanlon at U44 and evidence
+    for its supplement answer; carries rightful-power after its own line
+    under ADR-085. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,6 +40,9 @@ tags:
 date: '2026-11-17'
 line:
 - organizational-normativity
+- rightful-power
+bears_on:
+- QUESTION-483
 grounds:
 - THEORY-1967
 summary: >-
@@ -104,6 +113,10 @@ constituted, maintained, altered, or made practically ineffective**".
   contractualism. This claim is compatible with the supplement answer: A
   says it is "compatible with much of Scanlon's view" and "develops the
   dynamic consequences of his account more thoroughly".
+  Bears on [QUESTION-483](../questions.d/QUESTION-483.md): it is one of A's moves in the reply to Scanlon
+  at the owner's U44, granting that rights are not basic in justification
+  and adding work they do in organization, and so is evidence for the
+  supplement answer rather than the stronger one.
 
 ## What it does not say
 

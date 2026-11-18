@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmp4o53g
 status: Proposed
 title: "Blame and repair do not substitute for each other: assigning blame for creating a harmful condition does not discharge the remedial duties of those now responsible for it, and assigning present remedial duties does not show that those who bear them were to blame for it, so that treating one guilty official as a repair of the system is blame displacement, and loading the repair on whoever is nearest is remedial scapegoating"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,13 @@ history:
     Reading of Shaw-Young on Miller filed; its THEORY corroborates the
     claim's second half, that assigning remedial duties does not show
     those who bear them were to blame.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Bears on QUESTION-476, whose open part, a blameless review that
+    blames no one and repairs nothing upstream, is this claim's blame
+    displacement turned round; carries rightful-power after its own lines
+    under ADR-085. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,12 +36,14 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - distributed-agency
+- rightful-power
 rests_on:
 - CLAIM-742
 uses:
 - TERM-127
 bears_on:
 - QUESTION-470
+- QUESTION-476
 summary: >-
   A's, from A110 §8 of the exchange "Assess Depp Heard Abuse" (2026-11-17),
   "A responsibility graph, rather than a single attribution of blame", its
@@ -104,6 +113,10 @@ for repairing the institution".
   the upstream provenance blame supplies. A blameless review is designed
   against remedial scapegoating; whether it falls into the mirror failure,
   no one blamed and nothing upstream repaired, is the question's open part.
+  Bears on [QUESTION-476](../questions.d/QUESTION-476.md): the claim names that mirror failure, blame
+  displacement turned round, which is the question's "keeps correction,
+  loses provenance" outcome, and its first half says why blaming no one
+  does not by itself leave the system unrepaired or repaired.
 - **[QUESTION-470](../questions.d/QUESTION-470.md)**, from the first share of the same exchange,
   asks when remedial responsibility comes apart from culpability. This
   claim bears on it: it says the two do not substitute for each other, so

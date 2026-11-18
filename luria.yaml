@@ -575,6 +575,14 @@ vocabularies:
           here is TERM-074's sense 1, a relational arrangement, unless an entry says otherwise, and the bearers
           of obligations, agents or roles, are kept apart from the ground of the obligation; split from
           organizational-normativity (ADR-100)
+      rightful-power:
+        label: 'Rightful power: restriction, answerability and rights'
+        blurb: what makes power over others' capabilities rightful and keeps it so — when a capability should be
+          restricted and by whom, where legitimacy and adequacy come from, when answerability is owed and to
+          whom, which rights no institution creates or extinguishes, how remedies can be foreclosed before
+          review, and accountability for correction without blame; the argument filed from the exchange "Assess
+          Depp Heard Abuse", carried beside dependence-and-domination and organizational-normativity, which its
+          entries keep (the decision adding this line)
       organizational-affect:
         label: Organizational affect
         blurb: affective states as properties of organized systems, read through Frijda — the line the

@@ -1,0 +1,102 @@
+---
+status: Proposed
+title: 'A line rightful-power is added beside dependence-and-domination and organizational-normativity, without moving any entry out of them: its root questions carry it first, and an entry carries it when it takes part in its argument'
+version: 1
+tags:
+- record
+- taxonomy
+date: '2026-11-18'
+summary: >-
+  On the owner's decision of 2026-11-18 ("go ahead with the line,
+  first-line option"), the closed lines vocabulary gains rightful-power,
+  "Rightful power: restriction, answerability and rights", for the
+  argument filed from the exchange "Assess Depp Heard Abuse". Unlike
+  [ADR-100](ADR-100.md)'s split, it is additive: no entry loses a line. Its six root
+  questions, the owner's, carry it first and keep their earlier lines
+  after it. Every other entry carries it, after its own lines, exactly
+  when [ADR-085](ADR-085.md) says so: it answers, objects to or bears on a root
+  question, or refines one. Where an entry argued a root question
+  without saying so, the relation was written with a reason; no entry
+  was given the line by hand. [SYNTHESIS-100](../syntheses.d/SYNTHESIS-100.md) becomes the line's account.
+---
+<!-- inactive-ok-file: ADR-100 ADR-085 ADR-083 — Proposed; the split it differs from, the line rule it applies, and the rules on accounts and contributions -->
+<!-- inactive-ok-file: SYNTHESIS-100 — Proposed; the line's account and the two lines it sits beside -->
+
+# ADR-tmpkc7xl: A line rightful-power is added beside dependence-and-domination and organizational-normativity, without moving any entry out of them: its root questions carry it first, and an entry carries it when it takes part in its argument
+
+## Context
+
+The owner's exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17,
+filed in pull requests 510 and 512, read in 514) developed an inquiry with
+its own questions:
+- when a capability should be restricted, and by whom (U20, [QUESTION-478](../questions.d/QUESTION-478.md));
+- where legitimacy and adequacy come from (U31, [QUESTION-485](../questions.d/QUESTION-485.md));
+- when answerability is owed, to whom and why (U36, [QUESTION-480](../questions.d/QUESTION-480.md));
+- whether unalienable rights can serve as criteria (U37, [QUESTION-486](../questions.d/QUESTION-486.md));
+- whether the theory answers Scanlon (U44, [QUESTION-483](../questions.d/QUESTION-483.md));
+- what blameless culture shows about accountability without blame (U48,
+  [QUESTION-476](../questions.d/QUESTION-476.md)).
+
+Its entries were filed under dependence-and-domination and
+organizational-normativity. The synthesis reviews of 2026-11-17 and
+2026-11-18 gave them six part accounts across the two lines, and
+[SYNTHESIS-100](../syntheses.d/SYNTHESIS-100.md) maps the exchange's thesis over them.
+
+The follow-up review counted relations to test a split ([ADR-083](ADR-083.md)'s
+signal). It found the new parts closed within each line but tied across
+them. "Accountability without blame" exchanges 11 relations with the
+exploitation part of the other line. So the lead argued against a new
+line, on the ground that it would cut those links. The owner pointed out
+that an entry can carry several lines, so a line can be added without
+taking any away. The objection holds only against a split. The owner
+chose the line, with its root questions carrying it first.
+
+## Decision
+
+- **The `lines` vocabulary gains `rightful-power`**, labelled "Rightful
+  power: restriction, answerability and rights". Its blurb names the six
+  root questions' subjects and says the line is carried beside the two
+  lines its entries keep.
+- **It is additive.** No entry loses a line, and no relation changes
+  except those written below.
+- **The six root questions carry it first.** [QUESTION-478](../questions.d/QUESTION-478.md), 485, 480, 486,
+  483 and 476 each take rightful-power as their first line and keep their
+  earlier lines after it, each with a history note.
+- **Every other entry carries it exactly when [ADR-085](ADR-085.md) says so**, after its
+  own lines, in one step, with nothing cascading. That is, when it
+  answers, objects to or bears on a root question, or (questions only)
+  refines one.
+- **Relations were written where an entry already argued a root question
+  and did not say so.** Each new `answers`, `bears_on` or `refines` has a
+  sentence in the entry's body giving the reason, and a history note. A
+  shared topic was not counted. No entry was given the line by hand.
+- **[SYNTHESIS-100](../syntheses.d/SYNTHESIS-100.md) becomes the line's account** ([ADR-083](ADR-083.md): one account per
+  scope). Its `line` takes rightful-power first. It integrates every
+  member of the line. The six part accounts stay the accounts of their
+  parts in their own lines.
+
+## Alternatives
+
+- **No line, a work instead.** A work is a manuscript the record's claims
+  are marshalled into. This material is an inquiry with root questions,
+  which is what a line is for. A work for the exchange's manuscript is
+  decided separately and can sit inside the line.
+- **A split, as [ADR-100](ADR-100.md) did.** It would cut the links between the new
+  parts and the two lines. That is the objection the lead raised, and it
+  holds only against a split.
+- **The line added after the existing lines everywhere, with nothing
+  first.** This is purely additive and changes no first line. But
+  [ADR-085](ADR-085.md) passes only a first line, so nothing would propagate, and the
+  members would have had to be tagged by hand.
+
+## Consequences
+
+- The line can be set aside as a whole, the claims index groups it, and
+  the `argument` chain reports where it rests on the two older lines.
+- Six questions change their first line. [ADR-085](ADR-085.md) applied to an entry that
+  bears on one of them now adds rightful-power, not the question's
+  earlier line. Entries already carrying those lines keep them.
+- The first application is in this decision's pull request. It holds the
+  vocabulary entry, the root questions, the members and their relations,
+  and [SYNTHESIS-100](../syntheses.d/SYNTHESIS-100.md) as the line's account. The curation entry lists each
+  member and why.

@@ -4,7 +4,15 @@ formerly:
 - QUESTION-tmpkqvxv
 status: Open
 title: 'How does evidence of what an arrangement can feasibly realize bear on which principles governing it can reasonably be rejected: can expanding what it can realize change which principles are justifiable, and do mistaken beliefs about feasibility distort that judgment?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Refines QUESTION-483, asking for one route, feasibility evidence,
+    by which the record's account could bear on reasonable rejection;
+    carries rightful-power after its own lines under ADR-085. No other
+    change.
 tags:
 - ethics
 - society-and-governance
@@ -13,6 +21,9 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - realizability
+- rightful-power
+refines:
+- QUESTION-483
 summary: >-
   A's, A100 §8B and §13 of the exchange "Assess Depp Heard Abuse"
   (2026-11-17), written at the owner's U43 ("integrate Scanlon"): after
@@ -96,3 +107,7 @@ miniature.
 
 It sits beside [QUESTION-483](QUESTION-483.md), which asks whether the record's account
 answers contractualism or only supplements it.
+Refines [QUESTION-483](QUESTION-483.md): it asks a sharper part of that question, whether
+one kind of organizational fact, what an arrangement can feasibly
+realize, enters reasonable rejection as a reason, which is how the
+supplement answer would work for feasibility.

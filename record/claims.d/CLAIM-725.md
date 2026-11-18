@@ -4,7 +4,15 @@ formerly:
 - CLAIM-tmpc7shc
 status: Proposed
 title: "A demand's satisfaction condition does not carry its warrant: representing a requirement by the histories that satisfy it fixes what meets it, not its source, who bears it, to whom it is addressed or why it binds, so that the joint satisfiability of demands cannot certify that any deserves fulfilment, and an institution's maintained requirements cannot certify their own authority"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Bears on QUESTION-485: an institution's maintained requirements and
+    their joint satisfiability cannot supply their own warrant, evidence
+    against reading legitimacy off adequacy; carries rightful-power after
+    its own line under ADR-085. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,6 +30,9 @@ tags:
 date: '2026-11-17'
 line:
 - organizational-normativity
+- rightful-power
+bears_on:
+- QUESTION-485
 summary: >-
   A's, from A106 §4 of the exchange "Assess Depp Heard Abuse" (2026-11-17),
   "Demands make requirements evaluable, but do not make them legitimate",
@@ -99,6 +110,10 @@ authority in the first place.
   gate is a maintained requirement whose imposition establishes neither
   its legal authority nor its justification. The owner's U46 attached the
   immigration specimen ([CASE-289](../cases.d/CASE-289.md)) to this sentence.
+- Bears on [QUESTION-485](../questions.d/QUESTION-485.md): it rules out one source of legitimacy, an
+  institution's own maintained requirements, and shows that adequacy in
+  the sense of joint satisfiability cannot supply a demand's warrant,
+  which is evidence against reducing legitimacy to adequacy.
 
 ## What it does not say
 

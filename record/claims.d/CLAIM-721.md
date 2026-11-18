@@ -4,7 +4,13 @@ formerly:
 - CLAIM-tmp8wki5
 status: Proposed
 title: 'Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: bears_on QUESTION-478. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +30,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - transient-support
+- rightful-power
 bears_on:
 - QUESTION-478
 complements:

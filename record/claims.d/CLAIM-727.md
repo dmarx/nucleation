@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpcpijj
 status: Proposed
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -19,6 +19,13 @@ history:
     ADR-085, which it takes part in: bears_on QUESTION-441
     (organizational-normativity). Found at the line audit of
     2026-11-18. No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Bears on QUESTION-480: filed from A83, A's answer to the owner's U36,
+    it is what control over recourse, one of the grounds of answerability,
+    generates; carries rightful-power after its own line under ADR-085.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +46,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - organizational-normativity
+- rightful-power
 complements:
 - CLAIM-624
 - CLAIM-619
@@ -48,6 +56,7 @@ bears_on:
 - QUESTION-479
 - QUESTION-482
 - QUESTION-441
+- QUESTION-480
 uses:
 - TERM-124
 summary: >-
@@ -133,6 +142,10 @@ conduct.
   constrained conduct. [CLAIM-724](CLAIM-724.md) gives the measure.
 - **[CLAIM-739](CLAIM-739.md)** lists "control over recourse" among the grounds of
   answerability. This is what that ground generates.
+- Bears on [QUESTION-480](../questions.d/QUESTION-480.md): filed from A83, A's answer to the owner's U36,
+  it says one condition under which justification is owed, control over
+  the conditions on which a decision may be challenged, and that the
+  decider's own authority cannot discharge it.
 
 ## What it does not say
 

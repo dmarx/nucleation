@@ -4,7 +4,15 @@ formerly:
 - QUESTION-tmphoumu
 status: Open
 title: 'Under what conditions is the allocation of authority to evaluate and constrain an actor sufficiently independent of that actor''s capacity to influence the allocation?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Refines QUESTION-485, asking one condition of the legitimacy of an
+    authority to evaluate and constrain an actor, as that question places
+    it on its first half; carries rightful-power after its own lines under
+    ADR-085. No other change.
 tags:
 - society-and-governance
 - network-science
@@ -13,6 +21,9 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - distributed-agency
+- rightful-power
+refines:
+- QUESTION-485
 summary: >-
   A's, A79 §3 of the exchange "Assess Depp Heard Abuse" (2026-11-16), in
   A's words, with A81 §5's proposed method: an authority-provenance graph
@@ -98,3 +109,8 @@ presence of such a path does not prove capture."
 How independent the evaluator must be is the institutional side of
 [CLAIM-727](../claims.d/CLAIM-727.md), that an actor's own judgment that it has met the claims
 constraining it cannot always establish that it has.
+
+Refines [QUESTION-485](QUESTION-485.md): it asks one condition on the legitimacy of an
+authority to evaluate and constrain an actor, its independence from that
+actor, which that question places on its first half, the justification
+of authority.

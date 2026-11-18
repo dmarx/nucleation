@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmpk7u3e
 status: Open
 title: "Does the record's organizational account only supplement contractualism, or does it show an allocation or transformation of normative powers that reasonable rejection cannot explain without importing principles of standing or authority?"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -13,11 +13,18 @@ history:
     and Intuitionism" (2025) and the SEP entry "Contractualism" read;
     the question's second option has a published form and a published
     reply.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Takes the line rightful-power first, as one of its root questions;
+    its earlier lines (organizational-normativity) are kept after it.
+    No other change.
 tags:
 - ethics
 - society-and-governance
 date: '2026-11-17'
 line:
+- rightful-power
 - organizational-normativity
 summary: >-
   The owner's, from U44 of the exchange "Assess Depp Heard Abuse"

@@ -4,7 +4,13 @@ formerly:
 - CLAIM-tmpi68s2
 status: Proposed
 title: 'A protected objection is effective only if six achievements hold together, its becoming formulable, legible, taken up by an authorized channel, sustainable by the objector, corrected and maintained, so an objection can fail at any of them while its formal standing is unchanged, its chance of success is no greater than that of its weakest stage, and a reform that raises one stage''s success can lower the whole'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Carries rightful-power after its own line(s) under ADR-085, taking
+    part in its argument: bears_on QUESTION-480. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +30,7 @@ date: '2026-11-17'
 line:
 - dependence-and-domination
 - will-organization
+- rightful-power
 rests_on:
 - CLAIM-523
 complements:
