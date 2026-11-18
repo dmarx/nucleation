@@ -134,3 +134,7 @@ produces those changes."
   may feed back into an earlier one."
 - Not that influence over a stage is wrongful. A79 §10: "That capacity is
   not necessarily wrongful."
+
+## Note of 2026-11-18: what holds it back
+
+The decomposition and the bound hold, but the body says the claim also asserts that reforms of the kind in A81 §9 occur, and A81 §9's conditional probabilities are stipulated. The record holds no instance of a reform that raised one stage's success and lowered the whole; such a case, or a narrowing of the claim to the possibility, is what is missing.

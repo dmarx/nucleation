@@ -108,3 +108,7 @@ use it. The two futures illustrate; they do not argue.
   noted here and not filed.
 - Not how productivity gains should be divided. A11 §18 leaves it "an
   empirical and political question".
+
+## Note of 2026-11-18: what holds it back
+
+The body carries the limit that time under necessity puts on what a person can viably reach, by CLAIM-352, and that productivity gains taken wholly as output leave it unchanged; it gives no mechanism for the title's "or smaller", which is A's assertion. A mechanism, such as intensified or less predictable hours, or a narrowing of the clause to "unchanged", is what is missing.

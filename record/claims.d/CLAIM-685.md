@@ -120,3 +120,7 @@ record) leave open and which a comparison could tell against.
 - **Feenberg** ([THEORY-1841](../theory.d/THEORY-1841.md)): governing standards (the technical code) are contingent and revisable through social struggle, and inherited codes undervalue some goods. That supports the premise; it is not evidence for the comparative prediction. No relation.
 - **Morozov** ([THEORY-1855](../theory.d/THEORY-1855.md)): optimizing behaviour within a system against reforming "the system itself" parallels this claim's contrast between outcome monitoring and revising standards; no comparative evidence. No relation.
 - **Benjamin** ([THEORY-1851](../theory.d/THEORY-1851.md)): inherited defaults causing persistent failure is consistent with the premise that inadequate standards cause persistent failure.
+
+## Note of 2026-11-18: what holds it back
+
+The claim is empirical and untested: the record holds no comparison of institutions with and without effective means to revise their governing standards, matched on resources and on the independence of their evidence, on problems their inherited standards cannot represent. Feenberg, Morozov and Benjamin bear on the premise, not on the comparative prediction.

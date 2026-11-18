@@ -1,10 +1,10 @@
 ---
 number: 673
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp09pjt
 title: 'Where the capacities a collective needs to govern an arrangement are learned by exercise and lost with disuse, and the arrangement does the work through which they are exercised, the arrangement can erode the capacity to govern it, so that whether a collective can correct an arrangement is not independent of the arrangement'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,15 @@ history:
     is in the part of the line on what those who govern an arrangement
     others depend on owe. No relation supplies
     organizational-normativity to it (ADR-085). No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its one premise, CLAIM-605, is
+    Active; no objection is filed; nothing in the record meets its
+    defeated_if. Interpretive: the title makes CLAIM-605's kind of
+    capacity a condition, and under it the body derives the
+    erosion from CLAIM-605's deadline. No change of title.
 role: thesis
 warrant: interpretive
 defeated_if: >-

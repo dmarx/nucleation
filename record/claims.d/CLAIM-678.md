@@ -1,10 +1,10 @@
 ---
 number: 678
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpdp56s
-title: 'Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not widen the others'
-version: 4
+title: 'Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not of itself widen the others'
+version: 5
 history:
 - version: 2
   date: '2026-11-15'
@@ -23,6 +23,27 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Choroszewicz (LIT-2689) read on 2026-11-16, NOTE-2032. No change of status or title.
+- version: 5
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: it has no premise and no
+    objection; the body shows the separability by A's three cases
+    and states the other three, and the readings of Elish
+    (NOTE-2019) and Choroszewicz (NOTE-2032) fit it; nothing in
+    the record shows two of the dimensions unable to come apart.
+    Interpretive. The title's last clause now reads "does not of
+    itself widen the others", A's "does not guarantee": as written
+    it said a widening never carries another with it, which the
+    claim's own defeated_if, allowing the dimensions to coincide,
+    does not hold. Old title: 'Power over a technological
+    arrangement has at least three dimensions that can be held and
+    distributed separately: operational power, over how it works;
+    economic power, over who owns it and takes its benefits; and
+    epistemic power, over the knowledge needed to understand,
+    evaluate and challenge it; so widening one, by public
+    ownership, consumer choice or technical literacy, does not
+    widen the others'.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,7 +83,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1859 THEORY-1841 THEORY-1842 CLAIM-687 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# CLAIM-678: Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not widen the others
+# CLAIM-678: Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not of itself widen the others
 
 ## The claim
 
