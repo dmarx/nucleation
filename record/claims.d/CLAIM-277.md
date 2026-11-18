@@ -36,7 +36,7 @@ history:
 - version: 6
   date: '2026-11-16'
   note: >-
-    A dated note added: Ensign et al. (LIT-tmpi9cwn) read on 2026-11-16, NOTE-tmpof81k. No change of status or title.
+    A dated note added: Ensign et al. (LIT-2688) read on 2026-11-16, NOTE-2025. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -236,4 +236,4 @@ The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim 
 
 ## Note of 2026-11-16: Ensign, read
 
-Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian ([LIT-tmpi9cwn](../literature.d/LIT-tmpi9cwn.md)) prove the claim's second clause in an independent formal model. Police are sent in proportion to incidents logged, and incidents are logged only where police go, a generalized Pólya urn. With equal crime rates the limiting allocation is a draw fixed by the initial counts (Lemma 2): "the prior belief coupled with the lack of feedback about the unobserved region" keeps the system from learning that the regions are alike. With unequal rates the allocation goes wholly to the higher-rate region, at 10% against 11% it will "settle on region B with probability 1" (Lemma 4). That second result qualifies the claim: the same loop also turns a slight real advantage into total allocation, entrenching the leader and not only the early. The paper's remedy (§3.5) is a forgetting rule of a specific kind: it discounts evidence by the probability that the grant itself produced it, which bears on the claim's memory kernel. Nothing here touches the first clause (authority as the regularity of grants earned by being right).
+Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian ([LIT-2688](../literature.d/LIT-2688.md)) prove the claim's second clause in an independent formal model. Police are sent in proportion to incidents logged, and incidents are logged only where police go, a generalized Pólya urn. With equal crime rates the limiting allocation is a draw fixed by the initial counts (Lemma 2): "the prior belief coupled with the lack of feedback about the unobserved region" keeps the system from learning that the regions are alike. With unequal rates the allocation goes wholly to the higher-rate region, at 10% against 11% it will "settle on region B with probability 1" (Lemma 4). That second result qualifies the claim: the same loop also turns a slight real advantage into total allocation, entrenching the leader and not only the early. The paper's remedy (§3.5) is a forgetting rule of a specific kind: it discounts evidence by the probability that the grant itself produced it, which bears on the claim's memory kernel. Nothing here touches the first clause (authority as the regularity of grants earned by being right).

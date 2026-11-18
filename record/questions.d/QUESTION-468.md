@@ -18,11 +18,11 @@ history:
 - version: 3
   date: '2026-11-16'
   note: >-
-    A dated note added: Tognazzini and Coates (LIT-tmpzk7kc) read on 2026-11-16, NOTE-tmp460sz. No change of status or title.
+    A dated note added: Tognazzini and Coates (LIT-2720) read on 2026-11-16, NOTE-1998. No change of status or title.
 - version: 4
   date: '2026-11-16'
   note: >-
-    A dated note added: Liedo, van Grunsven and Marin (LIT-tmpd8i3u) read on 2026-11-16, NOTE-tmpdmjvw. No change of status or title.
+    A dated note added: Liedo, van Grunsven and Marin (LIT-2683) read on 2026-11-16, NOTE-2011. No change of status or title.
 tags:
 - ethics
 - society-and-governance

@@ -18,7 +18,7 @@ history:
 - version: 3
   date: '2026-11-16'
   note: >-
-    A dated note added: Citron (LIT-tmpz93ag) read on 2026-11-16, NOTE-tmp61it3. No change of status or title.
+    A dated note added: Citron (LIT-2719) read on 2026-11-16, NOTE-2003. No change of status or title.
 standing: stipulated
 kind: thought-experiment
 tags:

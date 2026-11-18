@@ -27,7 +27,7 @@ history:
 - version: 4
   date: '2026-11-16'
   note: >-
-    A dated note added: Frey and Schneider (LIT-tmpqws4y) read on 2026-11-16, NOTE-tmp1p6j3. No change of status or title.
+    A dated note added: Frey and Schneider (LIT-2704) read on 2026-11-16, NOTE-1995. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-

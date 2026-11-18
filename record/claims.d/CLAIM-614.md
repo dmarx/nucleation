@@ -48,7 +48,7 @@ history:
 - version: 6
   date: '2026-11-16'
   note: >-
-    A dated note added: Parra Jounou and Tronto (LIT-tmpwnr47) read on 2026-11-16, NOTE-tmppwaqb. No change of status or title.
+    A dated note added: Parra Jounou and Tronto (LIT-2709) read on 2026-11-16, NOTE-2027. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-

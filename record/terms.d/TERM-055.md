@@ -11,7 +11,7 @@ history:
 - version: 2
   date: '2026-11-16'
   note: >-
-    A dated note added: Herd and Moynihan (LIT-tmppku2r) read on 2026-11-16, NOTE-tmpliozq. No change of status or title.
+    A dated note added: Herd and Moynihan (LIT-2699) read on 2026-11-16, NOTE-2021. No change of status or title.
 tags:
 - agency
 - cognition

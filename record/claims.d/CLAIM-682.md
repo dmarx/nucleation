@@ -41,7 +41,7 @@ history:
 - version: 5
   date: '2026-11-16'
   note: >-
-    A dated note added: Stark and Hester (LIT-tmpxwlgx) read on 2026-11-16, NOTE-tmp4yi9s. No change of status or title.
+    A dated note added: Stark and Hester (LIT-2712) read on 2026-11-16, NOTE-1999. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-

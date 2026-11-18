@@ -27,7 +27,7 @@ history:
 - version: 3
   date: '2026-11-16'
   note: >-
-    A dated note added: Harsey and Freyd (LIT-tmpx37pv) read on 2026-11-16, NOTE-tmpji37z. No change of status or title.
+    A dated note added: Harsey and Freyd (LIT-2710) read on 2026-11-16, NOTE-2020. No change of status or title.
 tags:
 - epistemology
 - ethics
@@ -149,7 +149,7 @@ and keeps that use for a "related but distinct" wrong.
 
 Fricker, as this reading holds, distinguishes testimonial injustice, an ingenuous credibility misjudgement caused by
 prejudice, from "deliberate manipulation of credibility", a related but distinct wrong. Harsey and Freyd (2023),
-[LIT-tmpx37pv](../literature.d/LIT-tmpx37pv.md), test one such manipulation: an accused's DARVO statement, which "attacks her credibility", led
+[LIT-2710](../literature.d/LIT-2710.md), test one such manipulation: an accused's DARVO statement, which "attacks her credibility", led
 undergraduate observers to rate the accuser as less believable ("participants who were exposed to perpetrator DARVO
 rated the perpetrator as less abusive", and the victim as less believable and more abusive). It is evidence that the
 distinct wrong works through third parties' credibility judgments, which then may not be prejudiced at all. It does

@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-305 of 1994 NOTE documents. Back to the [full index](../README.md).
+306 of 2034 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -313,3 +313,4 @@
 | [NOTE-1983](../../../record/notes.d/NOTE-1983.md) | Sadreev — Interference traps waves in an open system | A BIC is a zero-width eigenvalue of the effective non-Hermitian Hamiltonian, and decoupling from every continuum channel is necessary and sufficient for one. The routes are symmetry, Friedrich–Wintgen interference (a zero-width state beside a superradiant partner), Fabry–Pérot and accident. The Fano resonance collapses at the BIC point. Real ones are quasi-BICs. | Skimmed |
 | [NOTE-1990](../../../record/notes.d/NOTE-1990.md) | Gargiulo et al. — Task singular vectors | Per-layer updates of fully fine-tuned CLIP ViTs are close to low-rank. An interference score built from cross-task overlap of their singular vectors is highest in early layers. Truncating each update and orthogonalising the singular vectors across tasks (TSV-M) beats task arithmetic by about 15 points on ViT-B/32 and needs no scaling coefficient. The ablation needs both steps; the overlap-accuracy link is an association over three task sets. | Read |
 | [NOTE-1993](../../../record/notes.d/NOTE-1993.md) | Yang, Shi and Liu — Orthogonal Model Merging | Merges orthogonally finetuned models by mapping each rotation to so(d) with the inverse Cayley transform, averaging, and rescaling the average to undo the norm lost when conflicting directions cancel. Extends to LoRA and full fine-tuning by splitting each update into a Procrustes rotation and a residual. On five Llama-3.1-8B OFT experts the correction is what lifts the merge (41.01 to 46.25); non-OFT gains are small and mixed. | Read |
+| [NOTE-2017](../../../record/notes.d/NOTE-2017.md) | Umpleby (2016) — Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition | Umpleby reports that Lefebvre's model of ethical cognition yields two ethical systems, the end not justifying the means in the first (dominant in the West) and justifying them in the second (dominant in the USSR), and supports their cultural reading with anecdotes. | Read |

@@ -20,7 +20,7 @@ history:
 - version: 3
   date: '2026-11-16'
   note: >-
-    A dated note added: Zeiser (LIT-tmp4n5g5) read on 2026-11-16, NOTE-tmp8qrd6. No change of status or title.
+    A dated note added: Zeiser (LIT-2666) read on 2026-11-16, NOTE-2007. No change of status or title.
 tags:
 - free-will
 - ethics
@@ -61,4 +61,4 @@ A case in which an agent's will-organization is plainly her own and she is still
 
 ## Note of 2026-11-16: Zeiser, read
 
-Zeiser (2024, [LIT-tmp4n5g5](../literature.d/LIT-tmp4n5g5.md), [NOTE-tmp8qrd6](../notes.d/NOTE-tmp8qrd6.md)) holds that "who is to blame?", "who made the decision?" and "who is in a position justify this decision?" can have different answers, and gives ordinary cases: "Sometimes, for example, the right person to blame didn’t actually make the decision", and a user relying on a black-box tool may lack answerability and still deserve blame for negligence. In decision support, a human can be the accountable decision-maker of a decision whose values are not hers (the attributability gap), and he treats "responsibility without attributability" as a coherent aim where blame and liability are what matter. This is evidence for the question's second horn, that accountability does not follow from ownership. It leaves open the question's real target, whether ownership of a will-organization (not of a single decision's values) would supply the competence and control conditions.
+Zeiser (2024, [LIT-2666](../literature.d/LIT-2666.md), [NOTE-2007](../notes.d/NOTE-2007.md)) holds that "who is to blame?", "who made the decision?" and "who is in a position justify this decision?" can have different answers, and gives ordinary cases: "Sometimes, for example, the right person to blame didn’t actually make the decision", and a user relying on a black-box tool may lack answerability and still deserve blame for negligence. In decision support, a human can be the accountable decision-maker of a decision whose values are not hers (the attributability gap), and he treats "responsibility without attributability" as a coherent aim where blame and liability are what matter. This is evidence for the question's second horn, that accountability does not follow from ownership. It leaves open the question's real target, whether ownership of a will-organization (not of a single decision's values) would supply the competence and control conditions.

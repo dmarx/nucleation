@@ -65,21 +65,21 @@ history:
   note: >-
     A dated note added from the exchange "Assess Depp Heard Abuse"
     (2026-11-15): the owner linked reflexive control to the exchange's
-    argument (U6), and A's normative manipulation (CLAIM-tmpd6uxt) is a
+    argument (U6), and A's normative manipulation (CLAIM-703) is a
     route this claim's two do not cover. Title, defeater and status
     unchanged.
 - version: 10
   date: '2026-11-16'
   note: >-
-    A dated note added: Umpleby (LIT-tmpmwjhb) read on 2026-11-16, NOTE-tmphkehf. No change of status or title.
+    A dated note added: Umpleby (LIT-2693) read on 2026-11-16, NOTE-2017. No change of status or title.
 - version: 11
   date: '2026-11-16'
   note: >-
-    A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
+    A dated note added: Keller (LIT-2670) read on 2026-11-16, NOTE-2005. No change of status or title.
 - version: 12
   date: '2026-11-16'
   note: >-
-    A dated note added: de Boer and Raaphorst (LIT-tmp75mb1) read on 2026-11-16, NOTE-tmp2weid. No change of status or title.
+    A dated note added: de Boer and Raaphorst (LIT-2674) read on 2026-11-16, NOTE-1997. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -478,7 +478,7 @@ choices, without dictating them; outlets' editorial-algorithm committees
 
 ## Note of 2026-11-15: a third route, through circumstances, from "Assess Depp Heard Abuse"
 
-<!-- inactive-ok-file: CLAIM-tmpd6uxt — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+<!-- inactive-ok-file: CLAIM-703 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: LIT-1339 — Unavailable; Thomas on reflexive control, unread -->
 
 At U6 of the exchange "Assess Depp Heard Abuse"
@@ -497,7 +497,7 @@ commitments, and decision rules, so that acting according to them produces
 an outcome chosen by the manipulator". The first is a case of this claim's
 evidence route. The second is not its criteria route: the target's criteria are not
 redirected but used as they stand, and what the manipulator sets is the
-situation they are applied to (A13's case, filed as [CLAIM-tmpd6uxt](CLAIM-tmpd6uxt.md) from
+situation they are applied to (A13's case, filed as [CLAIM-703](CLAIM-703.md) from
 Keller's moral blackmail). For an organization, the corresponding route
 would be governing it through the circumstances its procedures face, as a
 fait accompli does for a court ([CLAIM-464](CLAIM-464.md)). The claim is

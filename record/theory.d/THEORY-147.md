@@ -22,11 +22,11 @@ history:
 - version: 2
   date: '2026-11-16'
   note: >-
-    A dated note added: Zeiser (LIT-tmp4n5g5) read on 2026-11-16, NOTE-tmp8qrd6. No change of status or title.
+    A dated note added: Zeiser (LIT-2666) read on 2026-11-16, NOTE-2007. No change of status or title.
 - version: 3
   date: '2026-11-16'
   note: >-
-    A dated note added: Smith (LIT-tmp0tgda) read on 2026-11-16, NOTE-tmp938r4. No change of status or title.
+    A dated note added: Smith (LIT-2658) read on 2026-11-16, NOTE-2008. No change of status or title.
 tags:
 - free-will
 - moral-psychology
@@ -130,8 +130,8 @@ Zeiser draws the same distinction, from Watson and Shoemaker rather than Wolf, a
 
 ## Note of 2026-11-16: Smith, read
 
-Smith's "Attributability, Answerability, and Accountability" ([LIT-tmp0tgda](../literature.d/LIT-tmp0tgda.md),
-[NOTE-tmp938r4](../notes.d/NOTE-tmp938r4.md)) argues that "“responsibility as answerability” is indeed the only
+Smith's "Attributability, Answerability, and Accountability" ([LIT-2658](../literature.d/LIT-2658.md),
+[NOTE-2008](../notes.d/NOTE-2008.md)) argues that "“responsibility as answerability” is indeed the only
 kind of moral responsibility there is". On her view, what is called
 attributability "is not a form of responsibility at all", and
 accountability "is just responsibility as answerability in contexts where

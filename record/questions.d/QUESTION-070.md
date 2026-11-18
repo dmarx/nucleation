@@ -41,15 +41,15 @@ history:
 - version: 6
   date: '2026-11-16'
   note: >-
-    A dated note added: Rubel, Castro and Pham (LIT-tmpjp4qh) read on 2026-11-16, NOTE-tmpw5xe2. No change of status or title.
+    A dated note added: Rubel, Castro and Pham (LIT-2691) read on 2026-11-16, NOTE-2031. No change of status or title.
 - version: 7
   date: '2026-11-16'
   note: >-
-    A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
+    A dated note added: Anderson (LIT-2673) read on 2026-11-16, NOTE-2014. No change of status or title.
 - version: 8
   date: '2026-11-16'
   note: >-
-    A dated note added: Nagel (LIT-tmp2dx6l) read on 2026-11-16, NOTE-tmpfw0h2. No change of status or title.
+    A dated note added: Nagel (LIT-2662) read on 2026-11-16, NOTE-2015. No change of status or title.
 tags:
 - social-ontology
 - ethics
@@ -67,7 +67,7 @@ summary: >-
   manipulation can then belong to the whole, with no manipulative intent in
   any member.
 ---
-<!-- inactive-ok-file: THEORY-tmp856sf THEORY-tmpp6hib — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+<!-- inactive-ok-file: THEORY-1919 THEORY-1940 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-627 — Proposed; filed from the first case, named in What the record holds, not an answer -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 THEORY-258 — Proposed; accounts filed today that bear on the question without answering it -->
@@ -179,13 +179,13 @@ judge the coercee’s responsibility for acting under coercion can affect
 that strategic situation" (§3.2), whose agency a wrong runs through is
 partly set by the responsibility rule a community adopts, and the
 influencing party adapts to it. The entry concerns individual coercers, not
-organized wholes. Relation: bears_on (on [THEORY-tmp856sf](../theory.d/THEORY-tmp856sf.md)).
+organized wholes. Relation: bears_on (on [THEORY-1919](../theory.d/THEORY-1919.md)).
 
 ## Note of 2026-11-16: Nagel, read
 
-Nagel ([LIT-tmp2dx6l](../literature.d/LIT-tmp2dx6l.md)) diagnoses the erosion of responsibility as the
+Nagel ([LIT-2662](../literature.d/LIT-2662.md)) diagnoses the erosion of responsibility as the
 absorption of the agent's acts "into the class of events". The responsible
 self is "swallowed up by the order of mere events". Any answer to whose
 agency a collective's wrong runs through meets the same pressure: the more
 of the wrong is traced to the system's dynamics, the less remains to ascribe
-to any member. Relation: bears_on (on [THEORY-tmpp6hib](../theory.d/THEORY-tmpp6hib.md)), indirect.
+to any member. Relation: bears_on (on [THEORY-1940](../theory.d/THEORY-1940.md)), indirect.

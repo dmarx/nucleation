@@ -25,16 +25,16 @@ history:
   note: >-
     A dated note added from the exchange "Assess Depp Heard Abuse"
     (2026-11-15): the owner's U13 restates this claim's idea and names two
-    new cases, filed as CASE-tmproiqs (Hains Point) and CASE-tmp4gbo6
+    new cases, filed as CASE-278 (Hains Point) and CASE-276
     (third-country removals). Title, defeater and status unchanged.
 - version: 4
   date: '2026-11-16'
   note: >-
-    A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
+    A dated note added: Cuéllar (LIT-2706) read on 2026-11-16, NOTE-2029. No change of status or title.
 - version: 5
   date: '2026-11-16'
   note: >-
-    A dated note added: Hong Kong Monetary Authority (LIT-tmpo6res) read on 2026-11-16, NOTE-tmphnawz. No change of status or title.
+    A dated note added: Hong Kong Monetary Authority (LIT-2696) read on 2026-11-16, NOTE-2018. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -222,14 +222,14 @@ out of the owner's U11 on procedural friction), so no new claim is filed.
 The owner's "attempted to bypass" is a claim of intent, which this claim
 leaves aside; it is recorded in the cases, not here.
 
-- **Hains Point** ([CASE-tmproiqs](../cases.d/CASE-tmproiqs.md)) adds a mechanism to the three in the
+- **Hains Point** ([CASE-278](../cases.d/CASE-278.md)) adds a mechanism to the three in the
   table: trees cut while the government's position in court was that no
   final, reviewable plan existed, until the court found one had. Acting
   while denying that there is a decision to review raises the cost of a
   remedy without changing the standard, which is this claim's effect. It is
   also a partial counter-instance: a notice requirement and an injunction
   kept the remaining alternatives open.
-- **Third-country removals** ([CASE-tmp4gbo6](../cases.d/CASE-tmp4gbo6.md)) are jurisdictional
+- **Third-country removals** ([CASE-276](../cases.d/CASE-276.md)) are jurisdictional
   displacement again, beside CECOT, with the difference that the window for
   a prior hearing was closed by the Supreme Court's own stays, not by
   disregard of an order.

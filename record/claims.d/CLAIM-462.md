@@ -41,16 +41,16 @@ history:
   note: >-
     A dated note added from the exchange "Assess Depp Heard Abuse"
     (2026-11-15): A's syntheses (A30 §10, A35) restate this claim, and a
-    throughput claim filed from the same exchange (CLAIM-tmpfmmkt) gives one
+    throughput claim filed from the same exchange (CLAIM-705) gives one
     arithmetic route to it. Title, defeater and status unchanged.
 - version: 6
   date: '2026-11-16'
   note: >-
-    A dated note added: Cuéllar (LIT-tmpryo91) read on 2026-11-16, NOTE-tmpsdyyp. No change of status or title.
+    A dated note added: Cuéllar (LIT-2706) read on 2026-11-16, NOTE-2029. No change of status or title.
 - version: 7
   date: '2026-11-16'
   note: >-
-    A dated note added: Bovens and Zouridis (LIT-tmp24k63) read on 2026-11-16, NOTE-tmpvxobt. No change of status or title.
+    A dated note added: Bovens and Zouridis (LIT-2661) read on 2026-11-16, NOTE-2030. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -94,7 +94,7 @@ summary: >-
 bears_on:
 - QUESTION-278
 ---
-<!-- inactive-ok-file: THEORY-tmpbkw8g — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
+<!-- inactive-ok-file: THEORY-1923 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1607 LIT-1614 LIT-1615 — Unavailable since 2026-10-29; works that may already hold the claim, cited as not reached, nothing here rests on them -->
 
@@ -204,7 +204,7 @@ It was written on the day the fifteenth status review promoted the claim
 
 ## Note of 2026-11-15: restated, and an arithmetic route, from "Assess Depp Heard Abuse"
 
-<!-- inactive-ok-file: CLAIM-tmpfmmkt — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+<!-- inactive-ok-file: CLAIM-705 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
 The exchange "Assess Depp Heard Abuse"
 (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c) reached
@@ -219,7 +219,7 @@ it is this claim with [CLAIM-464](CLAIM-464.md)'s fixed standards. A35's
 "strongest formulation", that a system "can retain effective direction
 while losing effective self-correction", is the same. Neither is filed.
 
-What the exchange adds is a route. [CLAIM-tmpfmmkt](CLAIM-tmpfmmkt.md), filed from A35 §3:
+What the exchange adds is a route. [CLAIM-705](CLAIM-705.md), filed from A35 §3:
 when challengeable decisions arrive faster than the corrective process
 resolves them, at most a share μ/λ of challenges can be resolved in time,
 whatever the order, while every affected party keeps the formal right. The
@@ -233,7 +233,7 @@ and [CLAIM-464](CLAIM-464.md) in one line, and is mapped, not filed.
 
 ## Note of 2026-11-16: Cuéllar, read
 
-Cuéllar's essay on presidential adjudication ([LIT-tmpryo91](../literature.d/LIT-tmpryo91.md), [NOTE-tmpsdyyp](../notes.d/NOTE-tmpsdyyp.md)) is a
+Cuéllar's essay on presidential adjudication ([LIT-2706](../literature.d/LIT-2706.md), [NOTE-2029](../notes.d/NOTE-2029.md)) is a
 domain account of this claim's pattern for the United States presidency,
 independent of the exchanges the claim came from. In it, the executive's
 capacity for effective, particular action grows: more tools, reaching "more
@@ -247,7 +247,7 @@ grows" (p. 599). He also holds, as Cover does, that "courts lack direct
 authority to enforce" (p. 647), and he treats discretion and accountability
 as separable: they "can coexist" (p. 652). He does not argue that the two
 capacities are maintained by different relations; that step remains the
-claim's. Relation: [THEORY-tmpbkw8g](../theory.d/THEORY-tmpbkw8g.md) corroborates. No change of status.
+claim's. Relation: [THEORY-1923](../theory.d/THEORY-1923.md) corroborates. No change of status.
 
 ## Note of 2026-11-16: Bovens and Zouridis, read
 

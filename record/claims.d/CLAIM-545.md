@@ -47,7 +47,7 @@ history:
 - version: 6
   date: '2026-11-16'
   note: >-
-    A dated note added: Anderson (LIT-tmp6x9lr) read on 2026-11-16, NOTE-tmpfqpc0. No change of status or title.
+    A dated note added: Anderson (LIT-2673) read on 2026-11-16, NOTE-2014. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-

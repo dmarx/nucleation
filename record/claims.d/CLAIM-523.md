@@ -23,17 +23,17 @@ history:
   date: '2026-11-15'
   note: >-
     A dated note added from the exchange "Assess Depp Heard Abuse"
-    (2026-11-15): the owner's procedural-friction claim (CLAIM-tmpuiaop)
+    (2026-11-15): the owner's procedural-friction claim (CLAIM-710)
     locates the occasions on which this claim's three achievements are
     needed. Title, defeater and status unchanged.
 - version: 4
   date: '2026-11-16'
   note: >-
-    A dated note added: Cerrato, Sahlgren and Heilmann (LIT-tmpxzl3z) read on 2026-11-16, NOTE-tmp24swp. No change of status or title.
+    A dated note added: Cerrato, Sahlgren and Heilmann (LIT-2713) read on 2026-11-16, NOTE-1996. No change of status or title.
 - version: 5
   date: '2026-11-16'
   note: >-
-    A dated note added: Frey and Schneider (LIT-tmpqws4y) read on 2026-11-16, NOTE-tmp1p6j3. No change of status or title.
+    A dated note added: Frey and Schneider (LIT-2704) read on 2026-11-16, NOTE-1995. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -241,13 +241,13 @@ raised by different parties. No change.
 
 ## Note of 2026-11-15: where the occasion for an objection lies, from "Assess Depp Heard Abuse"
 
-<!-- inactive-ok-file: CLAIM-tmpuiaop — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+<!-- inactive-ok-file: CLAIM-710 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
 The owner, U11 of the exchange "Assess Depp Heard Abuse"
 (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c): "we can
 view automation as the effort to reduce procedural friction, but
 paradoxically procedural friction exposes (or perhaps even characterizes)
-opportunity for intervention." Filed as [CLAIM-tmpuiaop](CLAIM-tmpuiaop.md). This claim says
+opportunity for intervention." Filed as [CLAIM-710](CLAIM-710.md). This claim says
 what a discrepancy needs to change an organization's conduct; the owner's
 says where in a process the occasion for raising one lies, and that
 automation removes it.
@@ -268,7 +268,7 @@ The paper shows a specific failure of legibility. A counterfactual explanation m
 
 ## Note of 2026-11-16: Frey and Schneider, read
 
-Frey and Schneider ([LIT-tmpqws4y](../literature.d/LIT-tmpqws4y.md), [NOTE-tmp1p6j3](../notes.d/NOTE-tmp1p6j3.md)) split Hirschman's voice into affective voice, which persuades, and
+Frey and Schneider ([LIT-2704](../literature.d/LIT-2704.md), [NOTE-1995](../notes.d/NOTE-1995.md)) split Hirschman's voice into affective voice, which persuades, and
 effective voice, "a form of individual or collective speech that brings about a binding effect according to
 transparent processes". Their field claim is that online platforms supply the first in abundance and the
 second hardly at all: likes and mutes are "affective pressure valves in the guise of effective acts". That

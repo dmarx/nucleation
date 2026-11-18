@@ -38,11 +38,11 @@ history:
 - version: 4
   date: '2026-11-16'
   note: >-
-    A dated note added: Long (LIT-tmp4ummt) read on 2026-11-16, NOTE-tmpojn2e. No change of status or title.
+    A dated note added: Long (LIT-2667) read on 2026-11-16, NOTE-2026. No change of status or title.
 - version: 5
   date: '2026-11-16'
   note: >-
-    A dated note added: Harsey and Freyd (LIT-tmpx37pv) read on 2026-11-16, NOTE-tmpji37z. No change of status or title.
+    A dated note added: Harsey and Freyd (LIT-2710) read on 2026-11-16, NOTE-2020. No change of status or title.
 tags:
 - epistemology
 - ethics

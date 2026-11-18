@@ -43,7 +43,7 @@ history:
 - version: 6
   date: '2026-11-16'
   note: >-
-    A dated note added: Santoni de Sio and van den Hoven (LIT-tmpqyqtw) read on 2026-11-16, NOTE-tmpmsqcj. No change of status or title.
+    A dated note added: Santoni de Sio and van den Hoven (LIT-2705) read on 2026-11-16, NOTE-2024. No change of status or title.
 tags:
 - free-will
 - agency

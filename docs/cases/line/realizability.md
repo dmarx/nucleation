@@ -6,7 +6,7 @@
 
 **Resource-bounded realizability and individuation** — what a constrained system can realize, reach, tell apart and become under computational and physical bounds — compatibility against reachability, budgeted composition of processes, finding against navigating, restricted and enriched Yoneda profiles, isomorphism against persistence, with origami as the laboratory (ADR-073).
 
-23 of 275 CASE documents. Back to the [full index](../README.md).
+23 of 280 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -54,11 +54,11 @@ history:
 - version: 6
   date: '2026-11-16'
   note: >-
-    A dated note added: Tessman (LIT-tmpq5p0l) read on 2026-11-16, NOTE-tmp58s6l. No change of status or title.
+    A dated note added: Tessman (LIT-2702) read on 2026-11-16, NOTE-2002. No change of status or title.
 - version: 7
   date: '2026-11-16'
   note: >-
-    A dated note added: Keller (LIT-tmp55sg8) read on 2026-11-16, NOTE-tmp7xhmj. No change of status or title.
+    A dated note added: Keller (LIT-2670) read on 2026-11-16, NOTE-2005. No change of status or title.
 role: supposed
 warrant: interpretive
 defeated_if: >-

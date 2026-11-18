@@ -56,7 +56,7 @@ history:
 - version: 8
   date: '2026-11-16'
   note: >-
-    A dated note added: Ensign et al. (LIT-tmpi9cwn) read on 2026-11-16, NOTE-tmpof81k. No change of status or title.
+    A dated note added: Ensign et al. (LIT-2688) read on 2026-11-16, NOTE-2025. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
