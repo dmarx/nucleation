@@ -1,5 +1,8 @@
 ---
+number: 488
 status: Open
+formerly:
+- QUESTION-tmp860wq
 title: 'When an agent''s own activity on a recurring conflict leaves it with a uniform change of priority among its regimes, one regime now always prevailing where another did, which outlasts the conflict and governs later conflicts of its kind but refines no distinction in its policy and enlarges no set of outcomes it can reach, is that another route to self-formation, or the will-organization''s precedence settling a conflict without being transformed?'
 version: 1
 tags:
@@ -24,7 +27,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 
-# QUESTION-tmp860wq: When an agent's own activity on a recurring conflict leaves it with a uniform change of priority among its regimes, one regime now always prevailing where another did, which outlasts the conflict and governs later conflicts of its kind but refines no distinction in its policy and enlarges no set of outcomes it can reach, is that another route to self-formation, or the will-organization's precedence settling a conflict without being transformed?
+# QUESTION-488: When an agent's own activity on a recurring conflict leaves it with a uniform change of priority among its regimes, one regime now always prevailing where another did, which outlasts the conflict and governs later conflicts of its kind but refines no distinction in its policy and enlarges no set of outcomes it can reach, is that another route to self-formation, or the will-organization's precedence settling a conflict without being transformed?
 
 ## Why it is a question
 

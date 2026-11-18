@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**945 documents cited without acknowledgement.** Not listed: 33176 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**947 documents cited without acknowledgement.** Not listed: 33270 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2225,7 +2225,7 @@ The readiness line is split in two: readiness keeps keeping a rare capability an
 - [`record/syntheses.d/SYNTHESIS-031.md:138`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:12`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:119`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:34`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:46`](../../record/syntheses.d/SYNTHESIS-043.md)
 
 ### [ADR-077](../../record/decisions.d/ADR-077.md) — Superseded
 
@@ -2595,6 +2595,47 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 - [`record/syntheses.d/SYNTHESIS-006.md:260`](../../record/syntheses.d/SYNTHESIS-006.md)
 - [`record/terms.d/TERM-070.md:84`](../../record/terms.d/TERM-070.md)
 
+### [ADR-075](../../record/decisions.d/ADR-075.md) — Proposed
+
+A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
+
+34 citations in 13 files await a look; 168 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:16`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:17`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:19`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/unadmitted.md:5`](../syntheses/admission/unadmitted.md)
+- [`docs/syntheses/role/supposed.md:13`](../syntheses/role/supposed.md)
+- [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
+- [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
+- [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
+- [`docs/syntheses/role/thesis.md:16`](../syntheses/role/thesis.md)
+- [`docs/syntheses/role/thesis.md:18`](../syntheses/role/thesis.md)
+- [`docs/syntheses/route/derived.md:5`](../syntheses/route/derived.md)
+- [`docs/syntheses/route/hypothesis.md:5`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:13`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:14`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:15`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:16`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:17`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:19`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/integration.md:5`](../syntheses/route/integration.md)
+- [`docs/syntheses/warrant/interpretive.md:13`](../syntheses/warrant/interpretive.md)
+- [`docs/syntheses/warrant/interpretive.md:14`](../syntheses/warrant/interpretive.md)
+- [`docs/syntheses/warrant/interpretive.md:15`](../syntheses/warrant/interpretive.md)
+- [`docs/syntheses/warrant/interpretive.md:16`](../syntheses/warrant/interpretive.md)
+- [`docs/syntheses/warrant/interpretive.md:17`](../syntheses/warrant/interpretive.md)
+- [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
+- [`record/decisions.d/ADR-091.md:64`](../../record/decisions.d/ADR-091.md)
+- [`record/syntheses.d/SYNTHESIS-017.md:154`](../../record/syntheses.d/SYNTHESIS-017.md)
+- [`record/syntheses.d/SYNTHESIS-027.md:213`](../../record/syntheses.d/SYNTHESIS-027.md)
+- [`record/syntheses.d/SYNTHESIS-031.md:146`](../../record/syntheses.d/SYNTHESIS-031.md)
+- [`record/syntheses.d/SYNTHESIS-042.md:468`](../../record/syntheses.d/SYNTHESIS-042.md)
+
 ### [CLAIM-204](../../record/claims.d/CLAIM-204.md) — Proposed
 
 A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part
@@ -2677,45 +2718,46 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 - [`record/questions.d/QUESTION-278.md:33`](../../record/questions.d/QUESTION-278.md)
 - [`record/questions.d/QUESTION-278.md:86`](../../record/questions.d/QUESTION-278.md)
 
-### [ADR-075](../../record/decisions.d/ADR-075.md) — Proposed
+### [SYNTHESIS-042](../../record/syntheses.d/SYNTHESIS-042.md) — Proposed
 
-A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
+What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
 
-33 citations in 12 files await a look; 168 other citations of it are acknowledged.
+34 citations in 4 files await a look; 5 other citations of it are acknowledged.
 
-- [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:14`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:16`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:17`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:19`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/unadmitted.md:5`](../syntheses/admission/unadmitted.md)
-- [`docs/syntheses/role/supposed.md:13`](../syntheses/role/supposed.md)
-- [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
-- [`docs/syntheses/role/thesis.md:14`](../syntheses/role/thesis.md)
-- [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
-- [`docs/syntheses/role/thesis.md:16`](../syntheses/role/thesis.md)
-- [`docs/syntheses/role/thesis.md:18`](../syntheses/role/thesis.md)
-- [`docs/syntheses/route/derived.md:5`](../syntheses/route/derived.md)
-- [`docs/syntheses/route/hypothesis.md:5`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:13`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:14`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:15`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:16`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:17`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:19`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/integration.md:5`](../syntheses/route/integration.md)
-- [`docs/syntheses/warrant/interpretive.md:13`](../syntheses/warrant/interpretive.md)
-- [`docs/syntheses/warrant/interpretive.md:14`](../syntheses/warrant/interpretive.md)
-- [`docs/syntheses/warrant/interpretive.md:15`](../syntheses/warrant/interpretive.md)
-- [`docs/syntheses/warrant/interpretive.md:16`](../syntheses/warrant/interpretive.md)
-- [`docs/syntheses/warrant/interpretive.md:17`](../syntheses/warrant/interpretive.md)
-- [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
-- [`record/decisions.d/ADR-091.md:64`](../../record/decisions.d/ADR-091.md)
-- [`record/syntheses.d/SYNTHESIS-017.md:154`](../../record/syntheses.d/SYNTHESIS-017.md)
-- [`record/syntheses.d/SYNTHESIS-027.md:213`](../../record/syntheses.d/SYNTHESIS-027.md)
-- [`record/syntheses.d/SYNTHESIS-031.md:146`](../../record/syntheses.d/SYNTHESIS-031.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:15`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:69`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:137`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:201`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:14`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:40`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:69`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:118`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:127`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:137`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:140`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:141`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:146`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:164`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:166`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:173`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:176`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:179`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:181`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:188`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:208`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:210`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:211`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:215`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:216`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-045.md:131`](../../record/syntheses.d/SYNTHESIS-045.md)
+- [`record/syntheses.d/SYNTHESIS-045.md:135`](../../record/syntheses.d/SYNTHESIS-045.md)
+- [`record/syntheses.d/SYNTHESIS-045.md:137`](../../record/syntheses.d/SYNTHESIS-045.md)
+- [`record/syntheses.d/SYNTHESIS-045.md:147`](../../record/syntheses.d/SYNTHESIS-045.md)
+- [`record/syntheses.d/SYNTHESIS-045.md:192`](../../record/syntheses.d/SYNTHESIS-045.md)
+- [`record/syntheses.d/SYNTHESIS-046.md:14`](../../record/syntheses.d/SYNTHESIS-046.md)
+- [`record/syntheses.d/SYNTHESIS-046.md:108`](../../record/syntheses.d/SYNTHESIS-046.md)
+- [`record/syntheses.d/SYNTHESIS-046.md:109`](../../record/syntheses.d/SYNTHESIS-046.md)
+- [`record/syntheses.d/SYNTHESIS-046.md:158`](../../record/syntheses.d/SYNTHESIS-046.md)
 
 ### [ADR-089](../../record/decisions.d/ADR-089.md) — Proposed
 
@@ -2895,41 +2937,7 @@ The withdrawal inquiry takes transient-support as its first line: its two root q
 - [`record/syntheses.d/SYNTHESIS-032.md:207`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:209`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:235`](../../record/syntheses.d/SYNTHESIS-032.md)
-- [`record/syntheses.d/SYNTHESIS-045.md:188`](../../record/syntheses.d/SYNTHESIS-045.md)
-
-### [SYNTHESIS-042](../../record/syntheses.d/SYNTHESIS-042.md) — Proposed
-
-What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
-
-27 citations in 4 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/syntheses.d/SYNTHESIS-040.md:116`](../../record/syntheses.d/SYNTHESIS-040.md)
-- [`record/syntheses.d/SYNTHESIS-040.md:177`](../../record/syntheses.d/SYNTHESIS-040.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:28`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:56`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:97`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:106`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:116`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:121`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:138`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:140`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:147`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:149`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:153`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:155`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:162`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:182`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:184`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:185`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:186`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:188`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-045.md:114`](../../record/syntheses.d/SYNTHESIS-045.md)
-- [`record/syntheses.d/SYNTHESIS-045.md:118`](../../record/syntheses.d/SYNTHESIS-045.md)
-- [`record/syntheses.d/SYNTHESIS-045.md:120`](../../record/syntheses.d/SYNTHESIS-045.md)
-- [`record/syntheses.d/SYNTHESIS-045.md:130`](../../record/syntheses.d/SYNTHESIS-045.md)
-- [`record/syntheses.d/SYNTHESIS-045.md:175`](../../record/syntheses.d/SYNTHESIS-045.md)
-- [`record/syntheses.d/SYNTHESIS-046.md:99`](../../record/syntheses.d/SYNTHESIS-046.md)
-- [`record/syntheses.d/SYNTHESIS-046.md:148`](../../record/syntheses.d/SYNTHESIS-046.md)
+- [`record/syntheses.d/SYNTHESIS-045.md:205`](../../record/syntheses.d/SYNTHESIS-045.md)
 
 ### [CLAIM-157](../../record/claims.d/CLAIM-157.md) — Proposed
 
@@ -3059,7 +3067,7 @@ goal-conduciveness valence, organizational: a regime in which the negotiation am
 
 Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
-22 citations in 17 files await a look; 151 other citations of it are acknowledged.
+22 citations in 17 files await a look; 157 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
@@ -3193,6 +3201,33 @@ The footing, compensation and constitution theses ground on invented cases whose
 - [`record/questions.d/QUESTION-271.md:61`](../../record/questions.d/QUESTION-271.md)
 - [`record/theory.d/THEORY-1286.md:88`](../../record/theory.d/THEORY-1286.md)
 - [`record/theory.d/THEORY-895.md:158`](../../record/theory.d/THEORY-895.md)
+
+### [SYNTHESIS-040](../../record/syntheses.d/SYNTHESIS-040.md) — Proposed
+
+A system's budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence
+
+20 citations in 4 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-042.md:121`](../../record/syntheses.d/SYNTHESIS-042.md)
+- [`record/syntheses.d/SYNTHESIS-042.md:157`](../../record/syntheses.d/SYNTHESIS-042.md)
+- [`record/syntheses.d/SYNTHESIS-042.md:445`](../../record/syntheses.d/SYNTHESIS-042.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:15`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:41`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:86`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:118`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:132`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:138`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:141`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:147`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:164`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:167`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:173`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:179`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:180`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:188`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-045.md:200`](../../record/syntheses.d/SYNTHESIS-045.md)
+- [`record/syntheses.d/SYNTHESIS-046.md:116`](../../record/syntheses.d/SYNTHESIS-046.md)
+- [`record/syntheses.d/SYNTHESIS-046.md:154`](../../record/syntheses.d/SYNTHESIS-046.md)
 
 ### [THEORY-035](../../record/theory.d/THEORY-035.md) — Rejected
 
@@ -3373,7 +3408,57 @@ Transient support can be withdrawn safely only under conditions the record state
 - [`record/syntheses.d/SYNTHESIS-031.md:154`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:157`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:159`](../../record/syntheses.d/SYNTHESIS-031.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:160`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:186`](../../record/syntheses.d/SYNTHESIS-043.md)
+
+### [SYNTHESIS-045](../../record/syntheses.d/SYNTHESIS-045.md) — Proposed
+
+Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon
+
+18 citations in 3 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-040.md:209`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-042.md:452`](../../record/syntheses.d/SYNTHESIS-042.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:15`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:41`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:94`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:127`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:132`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:149`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:164`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:168`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:174`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:177`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:179`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:180`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:205`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:208`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:211`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:219`](../../record/syntheses.d/SYNTHESIS-043.md)
+
+### [SYNTHESIS-046](../../record/syntheses.d/SYNTHESIS-046.md) — Proposed
+
+An organized individual that persists through changes of mode persists, on the record's proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive
+
+18 citations in 3 files await a look; 10 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-040.md:213`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-042.md:121`](../../record/syntheses.d/SYNTHESIS-042.md)
+- [`record/syntheses.d/SYNTHESIS-042.md:459`](../../record/syntheses.d/SYNTHESIS-042.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:16`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:42`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:45`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:63`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:101`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:139`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:142`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:149`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:155`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:164`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:169`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:174`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:187`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:192`](../../record/syntheses.d/SYNTHESIS-043.md)
+- [`record/syntheses.d/SYNTHESIS-043.md:206`](../../record/syntheses.d/SYNTHESIS-043.md)
 
 ### [CLAIM-184](../../record/claims.d/CLAIM-184.md) — Proposed
 
@@ -3446,54 +3531,6 @@ From interconnection to individuation, the relationships are distinct achievemen
 - [`record/syntheses.d/SYNTHESIS-004.md:23`](../../record/syntheses.d/SYNTHESIS-004.md)
 - [`record/syntheses.d/SYNTHESIS-004.md:42`](../../record/syntheses.d/SYNTHESIS-004.md)
 - [`record/theory.d/THEORY-1351.md:19`](../../record/theory.d/THEORY-1351.md)
-
-### [SYNTHESIS-040](../../record/syntheses.d/SYNTHESIS-040.md) — Proposed
-
-A system's budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence
-
-17 citations in 4 files await a look; 6 other citations of it are acknowledged.
-
-- [`record/syntheses.d/SYNTHESIS-042.md:85`](../../record/syntheses.d/SYNTHESIS-042.md)
-- [`record/syntheses.d/SYNTHESIS-042.md:323`](../../record/syntheses.d/SYNTHESIS-042.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:29`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:67`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:97`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:111`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:116`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:122`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:138`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:141`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:147`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:153`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:154`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:162`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-045.md:183`](../../record/syntheses.d/SYNTHESIS-045.md)
-- [`record/syntheses.d/SYNTHESIS-046.md:106`](../../record/syntheses.d/SYNTHESIS-046.md)
-- [`record/syntheses.d/SYNTHESIS-046.md:144`](../../record/syntheses.d/SYNTHESIS-046.md)
-
-### [SYNTHESIS-045](../../record/syntheses.d/SYNTHESIS-045.md) — Proposed
-
-Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon
-
-17 citations in 3 files await a look; 4 other citations of it are acknowledged.
-
-- [`record/syntheses.d/SYNTHESIS-040.md:185`](../../record/syntheses.d/SYNTHESIS-040.md)
-- [`record/syntheses.d/SYNTHESIS-042.md:330`](../../record/syntheses.d/SYNTHESIS-042.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:29`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:73`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:106`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:111`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:124`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:138`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:142`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:147`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:150`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:153`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:154`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:179`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:182`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:185`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:191`](../../record/syntheses.d/SYNTHESIS-043.md)
 
 ### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
 
@@ -3633,29 +3670,6 @@ Readiness for a rare contingency is a probability of effective response under an
 - [`record/syntheses.d/SYNTHESIS-031.md:151`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:154`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:315`](../../record/syntheses.d/SYNTHESIS-032.md)
-
-### [SYNTHESIS-046](../../record/syntheses.d/SYNTHESIS-046.md) — Proposed
-
-An organized individual that persists through changes of mode persists, on the record's proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive
-
-16 citations in 3 files await a look; 10 other citations of it are acknowledged.
-
-- [`record/syntheses.d/SYNTHESIS-040.md:189`](../../record/syntheses.d/SYNTHESIS-040.md)
-- [`record/syntheses.d/SYNTHESIS-042.md:85`](../../record/syntheses.d/SYNTHESIS-042.md)
-- [`record/syntheses.d/SYNTHESIS-042.md:337`](../../record/syntheses.d/SYNTHESIS-042.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:30`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:33`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:50`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:80`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:117`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:124`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:130`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:138`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:143`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:148`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:161`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:166`](../../record/syntheses.d/SYNTHESIS-043.md)
-- [`record/syntheses.d/SYNTHESIS-043.md:180`](../../record/syntheses.d/SYNTHESIS-043.md)
 
 ### [THEORY-101](../../record/theory.d/THEORY-101.md) — Proposed
 
@@ -5734,7 +5748,7 @@ The histories that judgments about an organization's continuity, reform or oblig
 
 When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
 
-7 citations in 5 files await a look; 45 other citations of it are acknowledged.
+7 citations in 5 files await a look; 47 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
@@ -5978,6 +5992,19 @@ Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an ins
 - [`record/theory.d/THEORY-418.md:177`](../../record/theory.d/THEORY-418.md)
 - [`record/theory.d/THEORY-418.md:186`](../../record/theory.d/THEORY-418.md)
 - [`record/theory.d/THEORY-418.md:191`](../../record/theory.d/THEORY-418.md)
+
+### [CASE-202](../../record/cases.d/CASE-202.md) — Proposed
+
+A proposed study: two small constrained mechanisms that agree under a restricted family of probes and differ internally, probed at rising budgets, to find when they become distinguishable, what the distinguishing operations cost and whether the distinctions survive a change of architecture, with controls that separate finding a difference from making one
+
+6 citations in 1 file await a look; 5 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-040.md:15`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:128`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:160`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:194`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:206`](../../record/syntheses.d/SYNTHESIS-040.md)
+- [`record/syntheses.d/SYNTHESIS-040.md:218`](../../record/syntheses.d/SYNTHESIS-040.md)
 
 ### [CLAIM-156](../../record/claims.d/CLAIM-156.md) — Proposed
 
@@ -6347,7 +6374,7 @@ When a learned distinction becomes a concept is open, and a candidate term holds
 
 What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost
 
-6 citations in 2 files await a look; 1 other citation of it is acknowledged.
+6 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-030.md:14`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-030.md:118`](../../record/syntheses.d/SYNTHESIS-030.md)
@@ -8557,6 +8584,16 @@ World-modeling is a family of resource-bounded capabilities for producing and us
 - [`record/claims.d/CLAIM-515.md:78`](../../record/claims.d/CLAIM-515.md)
 - [`record/terms.d/TERM-086.md:173`](../../record/terms.d/TERM-086.md)
 
+### [CLAIM-544](../../record/claims.d/CLAIM-544.md) — Proposed
+
+If a willed agent is the jurisdiction of its will-organization, then governing one's own governability is in part governing one's own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent's states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance
+
+3 citations in 3 files await a look; 27 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-532.md:54`](../../record/claims.d/CLAIM-532.md)
+- [`record/decisions.d/ADR-085.md:115`](../../record/decisions.d/ADR-085.md)
+- [`record/terms.d/TERM-099.md:16`](../../record/terms.d/TERM-099.md)
+
 ### [CLAIM-555](../../record/claims.d/CLAIM-555.md) — Proposed
 
 In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible
@@ -9592,15 +9629,6 @@ On WMT22 News MQM, xCOMET's error spans are more coherent with its own regressio
 
 - [`record/notes.d/NOTE-1341.md:35`](../../record/notes.d/NOTE-1341.md)
 - [`record/notes.d/NOTE-1341.md:241`](../../record/notes.d/NOTE-1341.md)
-
-### [CLAIM-544](../../record/claims.d/CLAIM-544.md) — Proposed
-
-If a willed agent is the jurisdiction of its will-organization, then governing one's own governability is in part governing one's own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent's states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance
-
-2 citations in 2 files await a look; 27 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-085.md:115`](../../record/decisions.d/ADR-085.md)
-- [`record/terms.d/TERM-099.md:16`](../../record/terms.d/TERM-099.md)
 
 ### [CLAIM-619](../../record/claims.d/CLAIM-619.md) — Proposed
 
@@ -11132,7 +11160,7 @@ Equal charge, different tokens: two φ⁴ kinks with the same boundary charge an
 
 A proposed study: small transformers trained on randomized subject–relation–object facts, with matched training worlds, measured across query variants, inference budgets, interventions and merges, to find whether apparent forgetting is loss, readdressing, interference or downstream suppression, and whether a model of the network's response geometry predicts which associations come back under unseen queries, compute and interventions better than feature similarity, activation strength and attribution
 
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-097.md:75`](../../record/syntheses.d/SYNTHESIS-097.md)
 
@@ -11332,7 +11360,7 @@ A correspondence fitted from two structures' internal similarities alone is iden
 
 A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs
 
-1 citation in 1 file awaits a look; 21 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 29 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-275.md:65`](../../record/cases.d/CASE-275.md)
 
@@ -12735,6 +12763,14 @@ Generative AI assistants make easy tasks easier and hard tasks harder for their 
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-1519.md:28`](../../record/theory.d/THEORY-1519.md)
+
+### [THEORY-1703](../../record/theory.d/THEORY-1703.md) — Proposed
+
+Scoring an agent by whether one of k sampled trajectories of at most T interaction rounds succeeds separates capability expansion, a larger set of problems solved at some sampling budget, from efficiency improvement, more reliable success on problems already solvable; on sequential retrieval, RL expanded a 7B agent's boundary while matched-data SFT contracted it
+
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+
+- [`record/syntheses.d/SYNTHESIS-042.md:353`](../../record/syntheses.d/SYNTHESIS-042.md)
 
 ### [THEORY-182](../../record/theory.d/THEORY-182.md) — Proposed
 

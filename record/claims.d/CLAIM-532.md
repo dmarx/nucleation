@@ -31,7 +31,7 @@ history:
     (realizability), carrying out what the review of 2026-11-11 left as a
     follow-up: the separating case its reader found, and that the case
     meets the second clause of this claim's defeated_if if the record
-    counts reweighting as self-formation. Bears on QUESTION-tmp860wq,
+    counts reweighting as self-formation. Bears on QUESTION-488,
     filed at the owner's word to hold that question. The claim is
     unchanged.
 - version: 5
@@ -66,7 +66,7 @@ defeated_if: >-
   by a route that intervention does not reach. Not defeated by forms of
   self-formation this route does not cover, such as a self-made change of
   precedence that refines no distinction and enlarges no reachable set
-  (QUESTION-tmp860wq): the claim states a sufficient condition, not a
+  (QUESTION-488): the claim states a sufficient condition, not a
   definition.
 tags:
 - agency
@@ -99,7 +99,7 @@ bears_on:
 - QUESTION-133
 - QUESTION-364
 - QUESTION-282
-- QUESTION-tmp860wq
+- QUESTION-488
 summary: >-
   The positive account A33 §7 offered, at the owner's U33 of the exchange
   "Assess SDT Coverage" (2026-11-02), sharpened by the reader of U32–U33
@@ -217,14 +217,14 @@ the same day for the restated claim (version 5).
   if the record counted it as self-formation. As a sufficient condition
   the claim does not cover it either way, and the case does not bear on
   the claim's truth. Whether it is another route to self-formation is
-  [QUESTION-tmp860wq](../questions.d/QUESTION-tmp860wq.md).
+  [QUESTION-488](../questions.d/QUESTION-488.md).
 
 ## What it does not say
 
 - **That self-formation is free in Kane's sense.** It is a non-libertarian
   account; ultimate responsibility is set aside ([CLAIM-022](CLAIM-022.md)).
 - **That this is the only route to self-formation.** It states a
-  sufficient condition ([QUESTION-tmp860wq](../questions.d/QUESTION-tmp860wq.md) asks about another).
+  sufficient condition ([QUESTION-488](../questions.d/QUESTION-488.md) asks about another).
 - **That every new capacity is self-formed.** Installation and outside upkeep
   are what the tests exclude.
 - **That the steps form a developmental sequence** ([CLAIM-474](CLAIM-474.md)).
