@@ -10,4 +10,5 @@
 
 - An "Admission" for [CLAIM-532](record/claims.d/CLAIM-532.md), carrying out the follow-up the review of
   2026-11-11 left. Its separating case is also the case its own
-  defeated_if names, which is left to the owner.
+  defeated_if names. QUESTION-tmp860wq asks whether a self-made change
+  of precedence among existing regimes counts as self-formation.

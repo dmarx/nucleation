@@ -31,7 +31,9 @@ history:
     (realizability), carrying out what the review of 2026-11-11 left as a
     follow-up: the separating case its reader found, and that the case
     meets the second clause of this claim's defeated_if if the record
-    counts reweighting as self-formation. The claim is unchanged.
+    counts reweighting as self-formation. Bears on QUESTION-tmp860wq,
+    filed at the owner's word to hold that question. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,6 +76,7 @@ bears_on:
 - QUESTION-133
 - QUESTION-364
 - QUESTION-282
+- QUESTION-tmp860wq
 summary: >-
   The positive account A33 §7 offered, at the owner's U33 of the exchange
   "Assess SDT Coverage" (2026-11-02), sharpened by the reader of U32–U33
@@ -86,7 +89,7 @@ summary: >-
   chains, discrepancy to discrimination to response to maintained
   capacity to revised governance, are not a sequence ([CLAIM-474](CLAIM-474.md)).
 ---
-<!-- inactive-ok-file: ADR-075 — Proposed; the decision the Admission section follows -->
+<!-- inactive-ok-file: ADR-075 QUESTION-tmp860wq — Proposed; the decision the Admission section follows -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
@@ -174,7 +177,7 @@ its curation entry and left there as a follow-up.
   of this claim's `defeated_if`. It separates the claim from its premises
   if the record does not count such reweighting as self-formation, and it
   defeats the claim as too narrow if the record does. No entry rules on
-  which; that is the owner's call.
+  which; QUESTION-tmp860wq asks it.
 
 ## What it does not say
 
