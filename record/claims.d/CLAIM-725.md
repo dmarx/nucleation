@@ -2,9 +2,9 @@
 number: 725
 formerly:
 - CLAIM-tmpc7shc
-status: Proposed
+status: Active
 title: "A demand's satisfaction condition does not carry its warrant: representing a requirement by the histories that satisfy it fixes what meets it, not its source, who bears it, to whom it is addressed or why it binds, so that the joint satisfiability of demands cannot certify that any deserves fulfilment, and an institution's maintained requirements cannot certify their own authority"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -13,6 +13,17 @@ history:
     their joint satisfiability cannot supply their own warrant, evidence
     against reading legitimacy off adequacy; carries rightful-power after
     its own line under ADR-085. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted to Active at the status review of 2026-11-18 (ADR-057),
+    at the status review's ruling (the owner delegated these
+    rulings). An interpretive ruling, listed for the owner. It has
+    no premise and no objection. Joint satisfiability is a function
+    of the acceptance sets alone, and the body shows demands of
+    different provenance held in the same representation, so the
+    representation cannot carry their warrant; nothing in the record
+    meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

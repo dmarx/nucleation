@@ -1,10 +1,10 @@
 ---
 number: 622
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpo48w1
 title: 'Two organizations facing the same circumstances with the same acceptable actions can each be minimally adequate while telling apart different and incomparable sets of circumstances, so a difference in the distinctions two perspectives draw is not by itself evidence that either is deficient; which is deficient can be judged only against the policy each commits to'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -14,6 +14,22 @@ history:
     through the first line of an entry it names:
     pragmatic-transport, since it bears on QUESTION-439. No other
     change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted to Active at the status review of 2026-11-18 (ADR-057),
+    at the status review's ruling (the owner delegated these
+    rulings). CASE-154 dropped from grounds: the body cites it only
+    through CLAIM-455, as the contrast to what this claim adds, and
+    uses none of its content (status-review README, section 2). Its
+    premise, CLAIM-535, is Active, the construction was rechecked by
+    the reviewer, and no objection is filed. On the defeat
+    condition's restatement clause: CLAIM-535 says which
+    distinctions must be made legible depends on the action
+    committed to; this claim draws the comparative consequence, that
+    a difference in distinctions is not by itself evidence of
+    deficiency, which CLAIM-535 does not state. The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -38,8 +54,6 @@ rests_on:
 - CLAIM-535
 complements:
 - CLAIM-455
-grounds:
-- CASE-154
 uses:
 - TERM-064
 - TERM-072

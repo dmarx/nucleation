@@ -108,3 +108,13 @@ From the reading in [NOTE-1760](../notes.d/NOTE-1760.md) ([LIT-2361](../literatu
 checked by the filer: , already linked from [QUESTION-456](../questions.d/QUESTION-456.md): the
 border-threshold case (result 7) is settled by negotiating power,
 "reflecting the current power balance".
+
+## Note of 2026-11-18: what holds it back
+
+The step from jurisdiction over which contexts are relevant to a decision to
+authority over the cover on which a concept's uses must glue is asserted,
+not argued. The defeat condition's rival, that jurisdiction changes only
+which section is acted on, is what ARG-057's rejection left standing, and
+the variant of CASE-002 it sketches has not been built. The restatement
+objection the defeat condition names, that the claim only joins CLAIM-143
+and CLAIM-197, is not answered in the body.

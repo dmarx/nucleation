@@ -242,3 +242,12 @@ The same passage is a non-legibility produced by position: privilege that keeps 
 by others out of view. The claim's organization reproduces the projections that hide its harm;
 Tronto's privileged hold a "delusion" that moderates "fellow feeling ... into a distant and
 philosophical compassion" (p. 278). Relation: none.
+
+## Note of 2026-11-18: what holds it back
+
+The body states the thesis as the owner's presupposition and gives no
+argument that reproducing the projections wrongs those affected beyond the
+harm's continuation, which is the defeat condition's first clause; it says
+itself that "the parts are on the record; the wrong is not". What the wrong
+is, and so whether it is distinct from the harm, is QUESTION-441, and A's
+answer, CLAIM-624, is Proposed.

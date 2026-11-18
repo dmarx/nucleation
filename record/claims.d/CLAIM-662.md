@@ -1,10 +1,10 @@
 ---
 number: 662
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpvceet
 title: 'For a fixed arrangement, expanding the recognized demand set cannot improve conjunctive compliance and cannot decrease the count of recognized violations; where governance penalizes newly recognized violations without rewarding their discovery, an organization may acquire an incentive not to improve its identification of its obligations'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -20,6 +20,18 @@ history:
     incentive conditional on governance that penalizes newly recognized
     violations without rewarding their discovery. Warrant unchanged:
     demonstrated for the two facts.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted to Active at the status review of 2026-11-18 (ADR-057),
+    at the status review's ruling (the owner delegated these
+    rulings). Its one premise, CLAIM-347, is Active, and no
+    objection is filed. Steps 1 and 2 follow from the intersection
+    of acceptance sets; the reviewer re-ran the enumeration and got
+    the counts the table gives for n = 2 and n = 3. Step 4 is
+    conditional on its governance assumption, as the title says.
+    Nothing in the record meets the defeat condition. The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

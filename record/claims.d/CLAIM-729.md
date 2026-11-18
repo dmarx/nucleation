@@ -114,3 +114,14 @@ owed meanwhile are all open.
 <!-- inactive-ok-file: THEORY-1977 — new reading and theory of 2026-11-18, Proposed -->
 
 Scanlon 2025, "Contractualism and Intuitionism", read ([NOTE-2051](../notes.d/NOTE-2051.md), [THEORY-1977](../theory.d/THEORY-1977.md)): the paper the claim says "is not read on the record" now is, and it corroborates the claim, which rests on [CLAIM-560](CLAIM-560.md) and not on it. Scanlon separates the wrong of not complying with an established, needed practice, "it is wrong not to comply with that practice" (p. 21), from the case where a needed norm is missing: "Cases in which such norms are needed but have not been established are importantly different. What is wrong in these cases is not, or not just, failing to do what a norm would require but also failing to do one's part in getting such a norm established" (p. 22). He cites Rawls's natural duty, which itself separates the duty "to support and to comply with just institutions that exist" from the duty "to further just arrangements not yet established, at least when this can be done without too much cost to ourselves" (n. 41): the claim's three duties are there, with a cost bound on the third. The third duty "does not specify what needs to be done or at what cost" (n. 41) and does not "legislate" which norm (p. 23), which fits the claim's bound but does not state its reachability terms or "whose part it is". A's report quoted in the claim, "The latter may itself be morally problematic", understates Scanlon, who calls it wrong; the claim's own caution ("not that it holds") is unaffected. No status changes.
+
+## Note of 2026-11-18: what holds it back
+
+The body illustrates the gap between complying with a rule and helping
+establish an institution, and between a community's reason to establish one
+and any member's duty to fund it, but gives no case separating a duty to
+comply with a justified rule from a duty to support the institution that
+administers it. Rawls's natural duty, which the corroborating reading
+THEORY-1977 cites, joins those two as one duty "to support and to comply
+with just institutions that exist". Until a case or argument separates them,
+"none follows from another" is not carried for that pair.
