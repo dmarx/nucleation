@@ -5,6 +5,12 @@ formerly:
 - SYNTHESIS-tmpvdeqh
 version: 3
 history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-100,
+    2026-11-15): the line's account is now built over this part and
+    one sibling, and the introduction says so. No other change.
 - version: 3
   date: '2026-11-17'
   note: >-
@@ -14,12 +20,6 @@ history:
     integrated as a seventh argument concluding CLAIM-624. The
     introduction, summary, account, component list and links say so. No
     other change.
-- version: 2
-  date: '2026-11-15'
-  note: >-
-    At the split of organizational-normativity (ADR-100,
-    2026-11-15): the line's account is now built over this part and
-    one sibling, and the introduction says so. No other change.
 title: "The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart"
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of

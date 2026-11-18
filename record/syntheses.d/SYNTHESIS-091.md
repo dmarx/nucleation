@@ -5,6 +5,12 @@ formerly:
 - SYNTHESIS-tmp5blqy
 version: 3
 history:
+- version: 2
+  date: '2026-11-15'
+  note: >-
+    At the split of organizational-normativity (ADR-100,
+    2026-11-15): the line's account is now built over this part and
+    one sibling, and the introduction says so. No other change.
 - version: 3
   date: '2026-11-17'
   note: >-
@@ -16,12 +22,6 @@ history:
     the owner's QUESTION-tmplax2r (from where legitimacy and adequacy).
     The introduction, summary, account, component list, links and "Not
     stated" say so. No other change.
-- version: 2
-  date: '2026-11-15'
-  note: >-
-    At the split of organizational-normativity (ADR-100,
-    2026-11-15): the line's account is now built over this part and
-    one sibling, and the introduction says so. No other change.
 title: "What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open"
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of
