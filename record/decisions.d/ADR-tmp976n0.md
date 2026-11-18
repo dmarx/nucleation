@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'A copy its host says is published with the rights holders'' permission, and a reply posted by the scholar it answers beside that scholar''s own paper, count as lawful copies to read, beside ADR-074''s kinds'
+title: 'A copy its host says is published with the rights holders'' permission, and a reply posted by the scholar it answers beside that scholar''s own paper, count as lawful copies to read, beside the kinds already admitted'
 version: 1
 tags:
 - record
@@ -18,9 +18,9 @@ summary: >-
   The first application is the readings of 2026-11-18: Strawson's
   "Freedom and Resentment", and Scanlon's "Reply to Leif Wenar".
 ---
-<!-- inactive-ok-file: ADR-064 — Superseded by ADR-074; cited for the rule's history -->
+<!-- inactive-ok-file: ADR-064 — Superseded; cited for the rule's history -->
 
-# ADR-tmp976n0: A copy its host says is published with the rights holders' permission, and a reply posted by the scholar it answers beside that scholar's own paper, count as lawful copies to read, beside ADR-074's kinds
+# ADR-tmp976n0: A copy its host says is published with the rights holders' permission, and a reply posted by the scholar it answers beside that scholar's own paper, count as lawful copies to read, beside the kinds already admitted
 
 ## Context
 
