@@ -108,7 +108,7 @@ standard to answer to, so the duty does not arise.
 - **[TERM-124](../terms.d/TERM-124.md)** (Proposed) relativizes domination to a declared standard of
   answerability. This counter says that standard can assign some decisions
   to no one but their holder.
-- Bears on QUESTION-480: it marks the boundary that question asks for
+- Bears on [QUESTION-480](../questions.d/QUESTION-480.md): it marks the boundary that question asks for
   from the side that owes no answer, influence without a justified
   structure requiring answerability, and is the limit on the claimant
   that its sub-question names.

@@ -13,7 +13,7 @@ summary: >-
   offered additions in later turns. A claim or ARG is a member when the
   manuscript, or a passage that A explicitly offers for it, states the
   entry's proposition or uses it as a step. Membership says nothing of
-  status (ADR-032). The owner expected the work to be mostly a subset of
+  status ([ADR-032](ADR-032.md)). The owner expected the work to be mostly a subset of
   the line rightful-power. On reading, it is not: 28 claims are members,
   and only 7 carry the line. The manuscript's question, its last
   sections and the later additions sit in the line. Its body relays the
@@ -25,7 +25,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-tmpkc7xl — Proposed; the line's decision, this pull request's base -->
 <!-- inactive-ok-file: SYNTHESIS-100 — Proposed; the account whose audit of the manuscript this decision reads -->
-<!-- inactive-ok-file: QUESTION-478 QUESTION-475 QUESTION-485 — Open; held parts of the manuscript that cannot carry the field -->
 <!-- inactive-ok-file: CLAIM-716 CLAIM-720 CLAIM-721 CLAIM-727 CLAIM-734 CLAIM-737 CLAIM-746 CLAIM-624 CLAIM-670 CLAIM-675 CLAIM-688 — Proposed; members of the work, cited as members whatever their standing -->
 <!-- inactive-ok-file: CLAIM-684 — Proposed; cited in the manuscript's provenance table and not used in its text, so not a member -->
 
@@ -54,7 +53,7 @@ manuscript" or "our manuscript". Seven do so explicitly:
 
 The record already holds the manuscript's argument, spread over many
 entries. The filings of 2026-11-17 and 2026-11-18 filed the exchange's
-new ideas. SYNTHESIS-100 audits A49 among A's syntheses. ADR-tmpkc7xl,
+new ideas. [SYNTHESIS-100](../syntheses.d/SYNTHESIS-100.md) audits A49 among A's syntheses. [ADR-tmpkc7xl](ADR-tmpkc7xl.md),
 the decision this pull request is based on, added the line rightful-power
 for the exchange's inquiry. That decision left the manuscript's work to
 be "decided separately", expected to "sit inside the line". On
@@ -78,7 +77,7 @@ the manuscript.
   A passage A offers for the manuscript counts; one that only extends the
   discussion does not. A citation in the provenance table, with no use in
   the text, does not count. Whether the record believes a member is its
-  status, and the two may disagree (ADR-032).
+  status, and the two may disagree ([ADR-032](ADR-032.md)).
 - **Members are found by reading, not by line.** Each candidate was read
   against the passage it would come from. The curation entry gives each
   member's section.
@@ -88,12 +87,12 @@ the manuscript.
 ## The expectation, checked
 
 The owner expected the work to be mostly a subset of rightful-power. It
-is not. Of 28 member claims, 7 carry the line: CLAIM-716, CLAIM-720,
-CLAIM-721, CLAIM-727, CLAIM-734, CLAIM-737 and CLAIM-746. These are the
+is not. Of 28 member claims, 7 carry the line: [CLAIM-716](../claims.d/CLAIM-716.md), [CLAIM-720](../claims.d/CLAIM-720.md),
+[CLAIM-721](../claims.d/CLAIM-721.md), [CLAIM-727](../claims.d/CLAIM-727.md), [CLAIM-734](../claims.d/CLAIM-734.md), [CLAIM-737](../claims.d/CLAIM-737.md) and [CLAIM-746](../claims.d/CLAIM-746.md). These are the
 manuscript's guiding thesis and §12 (grounds against authority), its
 §8.1, its §11, and the later additions on remedies and on legitimacy
 against adequacy. The manuscript's research question is the line's root
-question QUESTION-478, which holds §13's five conditions as a list to
+question [QUESTION-478](../questions.d/QUESTION-478.md), which holds §13's five conditions as a list to
 test.
 
 The other 21 hold the body of the paper. Twelve were on the record
@@ -125,19 +124,19 @@ rightful-power and its neighbours", not in the line alone.
 
 - **Count only the entries filed from the exchange.** Under this rule
   the work would have 16 members, not 28. It would also drop the
-  claims the manuscript is built from: CLAIM-462, CLAIM-523, CLAIM-624,
-  CLAIM-688 and CLAIM-675 are all named in its provenance table and
+  claims the manuscript is built from: [CLAIM-462](../claims.d/CLAIM-462.md), [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-624](../claims.d/CLAIM-624.md),
+  [CLAIM-688](../claims.d/CLAIM-688.md) and [CLAIM-675](../claims.d/CLAIM-675.md) are all named in its provenance table and
   stated in its text. A manuscript's claims are those it marshals, which
   is the vocabulary's own definition.
 - **Restrict the work to members of the line.** This would make the
   owner's expectation true by definition. It would leave out most of
   §3 to §11.
-- **Count what the provenance table cites.** CLAIM-354 and CLAIM-684
-  appear there, but the text does not state their propositions. CLAIM-354
-  supplies only a hedge about partial comparability, and CLAIM-684's
+- **Count what the provenance table cites.** [CLAIM-354](../claims.d/CLAIM-354.md) and [CLAIM-684](../claims.d/CLAIM-684.md)
+  appear there, but the text does not state their propositions. [CLAIM-354](../claims.d/CLAIM-354.md)
+  supplies only a hedge about partial comparability, and [CLAIM-684](../claims.d/CLAIM-684.md)'s
   rising burden of justification is not argued. Counting citation would
   admit A's mispairings too: the curation entry of 2026-11-17 found the
-  table pairs CLAIM-363 and CLAIM-670 with works neither cites. Each of
+  table pairs [CLAIM-363](../claims.d/CLAIM-363.md) and [CLAIM-670](../claims.d/CLAIM-670.md) with works neither cites. Each of
   those two is a member only because the text uses it.
 - **No work.** The line already groups the exchange's inquiry. But a
   manuscript is a view over the argument (the vocabulary's blurb), and
@@ -147,11 +146,11 @@ rightful-power and its neighbours", not in the line alone.
 ## Consequences
 
 - The work can be read as one set across eight lines. The `works` view
-  shows which members are Active (CLAIM-363, CLAIM-462, CLAIM-464,
-  CLAIM-523) and which are Proposed (the rest).
+  shows which members are Active ([CLAIM-363](../claims.d/CLAIM-363.md), [CLAIM-462](../claims.d/CLAIM-462.md), [CLAIM-464](../claims.d/CLAIM-464.md),
+  [CLAIM-523](../claims.d/CLAIM-523.md)) and which are Proposed (the rest).
 - Parts the manuscript draws on that cannot carry the field are named in
-  the curation entry, not tagged. These are QUESTION-478 (§13),
-  QUESTION-475 (A68 §4), QUESTION-485 (A71 §12's deeper proposition), the
+  the curation entry, not tagged. These are [QUESTION-478](../questions.d/QUESTION-478.md) (§13),
+  [QUESTION-475](../questions.d/QUESTION-475.md) (A68 §4), [QUESTION-485](../questions.d/QUESTION-485.md) (A71 §12's deeper proposition), the
   cases of §4, §6 and A51, and the terms of §3 and §5.
 - Passages held by no entry are listed in the curation entry with the
   reason each was left.

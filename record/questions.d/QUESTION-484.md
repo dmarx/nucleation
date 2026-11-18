@@ -107,7 +107,7 @@ miniature.
 
 It sits beside [QUESTION-483](QUESTION-483.md), which asks whether the record's account
 answers contractualism or only supplements it.
-Refines QUESTION-483: it asks a sharper part of that question, whether
+Refines [QUESTION-483](QUESTION-483.md): it asks a sharper part of that question, whether
 one kind of organizational fact, what an arrangement can feasibly
 realize, enters reasonable rejection as a reason, which is how the
 supplement answer would work for feasibility.

@@ -110,7 +110,7 @@ authority in the first place.
   gate is a maintained requirement whose imposition establishes neither
   its legal authority nor its justification. The owner's U46 attached the
   immigration specimen ([CASE-289](../cases.d/CASE-289.md)) to this sentence.
-- Bears on QUESTION-485: it rules out one source of legitimacy, an
+- Bears on [QUESTION-485](../questions.d/QUESTION-485.md): it rules out one source of legitimacy, an
   institution's own maintained requirements, and shows that adequacy in
   the sense of joint satisfiability cannot supply a demand's warrant,
   which is evidence against reducing legitimacy to adequacy.

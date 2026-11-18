@@ -110,7 +110,7 @@ How independent the evaluator must be is the institutional side of
 [CLAIM-727](../claims.d/CLAIM-727.md), that an actor's own judgment that it has met the claims
 constraining it cannot always establish that it has.
 
-Refines QUESTION-485: it asks one condition on the legitimacy of an
+Refines [QUESTION-485](QUESTION-485.md): it asks one condition on the legitimacy of an
 authority to evaluate and constrain an actor, its independence from that
 actor, which that question places on its first half, the justification
 of authority.

@@ -113,7 +113,7 @@ for repairing the institution".
   the upstream provenance blame supplies. A blameless review is designed
   against remedial scapegoating; whether it falls into the mirror failure,
   no one blamed and nothing upstream repaired, is the question's open part.
-  Bears on QUESTION-476: the claim names that mirror failure, blame
+  Bears on [QUESTION-476](../questions.d/QUESTION-476.md): the claim names that mirror failure, blame
   displacement turned round, which is the question's "keeps correction,
   loses provenance" outcome, and its first half says why blaming no one
   does not by itself leave the system unrepaired or repaired.
