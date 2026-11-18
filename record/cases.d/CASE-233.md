@@ -1,10 +1,31 @@
 ---
 number: 233
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpwln61
 title: 'A transition with a barrier: on configurations [0, 1] with a holding requirement r(q) = 0.7 + 2.4q(1 − q), both ends cost 0.7, every path between them passes 1.3 at q = 1/2, and at a budget of 1.0 the feasible set falls into two components, each end feasible and neither reachable from the other'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): a construction whose facts are its definition
+    (ADR-042), re-derived step by step at the review. r(0) = r(1) = 0.7;
+    q(1 − q) is at most 1/4, reached only at q = 1/2, so r peaks at 1.3
+    there; every continuous path in [0, 1] from 0 to 1 passes 1/2 by the
+    intermediate value theorem, and the straight path reaches no more, so
+    the threshold is 1.3; r ≤ 1.0 is q(1 − q) ≤ 1/8, with roots
+    (1 ± √½)/2, about 0.146447 and 0.853553, and between them r > 1.0,
+    so the feasible set at 1.0 is two intervals, one holding each end;
+    for any budget from 0.7 up to but not including 1.3 the same holds
+    with the roots moving toward 1/2, and at 1.3 the set is all of [0, 1]; the slack is 0.6. Re-run
+    independently with python3 -I (grid maximum 1.3 at q = 0.5; one gap
+    in the feasible set at 1.0 on 100,001 points). This resolves the
+    credence inversion of CLAIM-571, Active and grounded in this case.
+    ADR-096, under which the case was filed, stays Proposed; the case's
+    status is credence in the construction, not in that decision.
+    Standing fictional is kept. The text is unchanged.
 standing: fictional
 kind: construction
 tags:

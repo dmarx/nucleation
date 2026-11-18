@@ -147,3 +147,8 @@ same sources under one outcome correspondence fixed across items.
 [CASE-065](../cases.d/CASE-065.md)'s two administrations change language and readership together,
 and report correlations rather than response distributions, so no ε can be
 computed from them.
+
+## Note of 2026-11-18: what holds it back
+
+<!-- inactive-ok: CLAIM-638 — Proposed; filed since the note of 2026-10-29, cited as open -->
+Still no study of the order effects of different renderings of the same sources under one outcome correspondence fixed across items, which is what the defeat condition tests; CLAIM-638, filed since the note of 2026-10-29, sharpens the bound such a study would test against and measures nothing. ARG-006 is sound and stays Active: its held undercutters, CLAIM-011 and CLAIM-253, say what its inference does not carry (Φ's image only; observed order effects only with a readout defect), so the gap between it and this title is written in, not a reason to promote (ADR-059).

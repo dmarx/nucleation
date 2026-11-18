@@ -1,10 +1,10 @@
 ---
 number: 679
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpfrjqq
 title: 'For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -13,6 +13,25 @@ history:
     gives the claim's structure with an adversary, a small added cost
     that moves a remedy across the claimant's budget, and points to
     the claim without its code. No other change.
+- version: 3
+  date: '2026-11-18'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). Its one premise, CLAIM-571, is Active, and the
+    construction under it, CASE-233, was promoted at the same review after
+    a step-by-step re-derivation. The derivation was re-checked: with
+    R(H) the targets whose bottleneck budget is at most H, R is monotone
+    in H, so a cut from H1 to H2 removes exactly the targets with
+    H2 < B*(A, B) ≤ H1 and adds none; at H = r(A), since
+    B*(A, B) ≥ max(r(A), r(B)), what is left is the targets with
+    B*(A, B) = r(A), each with zero slack in TERM-106's unqualified
+    sense σ, so no transition with positive σ, and no target costing more
+    than A to hold, stays in reach. The title's slack is σ, as TERM-106
+    reads an unqualified use; under the one-sided σ_A the limit clause
+    holds exactly. Reachability at a holding equal to B* is the defeat
+    condition's stipulation. No objection is on file, nothing meets the
+    defeat condition, and the instance (7, 7, 13) checks. The text is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

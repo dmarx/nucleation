@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpso62d
 title: 'Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-19'
@@ -29,6 +29,22 @@ history:
     condition, under which, by its own text, "CLAIM-375's guarantee
     does not carry over". The bullet now says so. Reported by the
     synthesis review of 2026-11-11 (seventh round). No other change.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-057, mechanism 5; ADR-070): TERM-053, Superseded, leaves
+    uses. ADR-070 moved a claim's use of it to conferral (TERM-103),
+    whose definition is TERM-053's, and to grant (TERM-101) where the
+    argument needs a maintained relation; this claim already names
+    both, and the version of 2026-11-04 restated it in their words.
+    Whether it holds in the successors' sense, which the directive dated
+    until 2027-02-10 left open: it does, unchanged. The construction
+    never used the wider TERM-053 sense: E_kj are grants under the
+    one-hop rule (TERM-101), and Δ = b_i δ added to I_j is their
+    conferral (TERM-103), as the uses statements already say. The
+    directive and the uses statement for TERM-053 are removed. The claim
+    is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -48,7 +64,6 @@ rests_on:
 uses:
 - TERM-103
 - TERM-101
-- TERM-053
 summary: >-
   The demonstrated core of [CLAIM-285](CLAIM-285.md). Under A3's one-hop rule
   I_j = I_j⁰ + Σ_(k≠j) b_k E_kj, with budgets and baselines fixed within an
@@ -62,9 +77,8 @@ summary: >-
 complements:
 - CLAIM-502
 ---
-<!-- inactive-ok-file: TERM-053 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); named in the history as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->
-<!-- ref::uses-file: TERM-053 — the grants E_kj, an operator's effect on another's share of authority, were stated as TERM-053's endorsement, the definition current when this claim was written; since superseded by TERM-103 and TERM-101 -->
 <!-- ref::uses-file: TERM-101 — the grants E_kj of the title and the one-hop rule, conferral through a maintained grant relation, are TERM-101's grant -->
 <!-- ref::uses-file: TERM-103 — a grant's effect on the ally's authority, Δ = b_i δ added to I_j and nothing else, is conferral in TERM-103's sense, of which the grant is the case -->
 
