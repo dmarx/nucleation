@@ -111,9 +111,9 @@ bears_on:
   makes the training organization the bearer of the goal its objective
   sets, "which is where [CLAIM-367](../claims.d/CLAIM-367.md) puts training-time regulatory
   conditions", and it complements [CLAIM-367](../claims.d/CLAIM-367.md).
-- **Which objective the trained system maintains.** QUESTION-466 (raised by
+- **Which objective the trained system maintains.** [QUESTION-466](../questions.d/QUESTION-466.md) (raised by
   the reading review of 2026-11-14, the assistant's wording; Open) takes
-  up CLAIM-356's "we need to discover which operative objective the
+  up [CLAIM-356](../claims.d/CLAIM-356.md)'s "we need to discover which operative objective the
   resulting system actually maintains" for a model trained to act on some
   of the reward-model preferences it read about. It asks whether a
   goal-directed description with the objective "what reward models
@@ -156,7 +156,7 @@ at T24 of the exchange "Experimental Infrastructure Review", from which
 - [CLAIM-356](../claims.d/CLAIM-356.md), the owner's (U35) granted by A35, thesis, interpretive,
   Active; also will-organization and distributed-agency (it objects to
   [CLAIM-288](../claims.d/CLAIM-288.md); the sweep of 2026-11-10 added distributed-agency).
-- QUESTION-466, raised by the reading review of 2026-11-14, the
+- [QUESTION-466](../questions.d/QUESTION-466.md), raised by the reading review of 2026-11-14, the
   assistant's wording, Open.
 - [CASE-113](../cases.d/CASE-113.md), the owner's application case with A31's systems and
   interventions, thought-experiment, stipulated, Active.

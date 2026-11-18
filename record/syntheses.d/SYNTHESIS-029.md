@@ -63,13 +63,13 @@ bears_on:
   the hopping model) and cases where they come apart ([THEORY-186](../theory.d/THEORY-186.md)'s
   fine-first case, [THEORY-759](../theory.d/THEORY-759.md)'s order by frequency). Its note of
   2026-10-21 files the monotone half of A5's "two different mathematical
-  order structures" as CLAIM-409. Its note of 2026-11-15 (corrected
+  order structures" as [CLAIM-409](../claims.d/CLAIM-409.md). Its note of 2026-11-15 (corrected
   2026-11-18) adds a fourth: under squared-error gradient flow in the
   kernel's moving eigenbasis, ȧ = −Λ_τ a − Ω_τ a, "the order in which the
   space of modes is reorganized". It "answers none of the four". The
-  modes part of the line (SYNTHESIS-tmpwrkqs) cites this note. Since its
-  note of 2026-11-11 it refines QUESTION-039 (SYNTHESIS-034), as "a sharpening
-  of QUESTION-039's 'What sets the order ... at which a network acquires a
+  modes part of the line ([SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md)) cites this note. Since its
+  note of 2026-11-11 it refines [QUESTION-039](../questions.d/QUESTION-039.md) ([SYNTHESIS-034](SYNTHESIS-034.md)), as "a sharpening
+  of [QUESTION-039](../questions.d/QUESTION-039.md)'s 'What sets the order ... at which a network acquires a
   structure'".
 - **Whether optima nest.** [QUESTION-220](../questions.d/QUESTION-220.md) (A2's "most consequential
   missing bridge"; Open) refines [QUESTION-217](../questions.d/QUESTION-217.md). Its reason: "If none

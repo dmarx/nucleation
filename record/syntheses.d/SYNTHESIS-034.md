@@ -73,7 +73,7 @@ bears_on:
   several kinds of event per component. Its note of 2026-11-04 adds Dong's
   answer for conjunction circuits, "Acquisition is one kind of
   rate-limiting event, a single joint step", single-author and
-  unreplicated. QUESTION-217 (SYNTHESIS-029) refines it since 2026-11-11,
+  unreplicated. [QUESTION-217](../questions.d/QUESTION-217.md) ([SYNTHESIS-029](SYNTHESIS-029.md)) refines it since 2026-11-11,
   asking whether the order of acquisition agrees with the orders of
   refinement and relevance.
 - **Whether each partial answer survives.** Six questions refine
@@ -95,14 +95,14 @@ bears_on:
   superposition, where SGD at n = 1,000 ends short of the 6-gon the
   posterior favours. Its note of 2026-11-04 records Dong's finding that
   learning rate is "a clock, never a temperature" for transformers.
-- **Three effects of depth.** CLAIM-360 (the owner's U38 with A38's three
-  effects; interpretive, Active) bears on QUESTION-039 since its note of
-  2026-11-11. Its text under B, from THEORY-740 and THEORY-187: "with a
+- **Three effects of depth.** [CLAIM-360](../claims.d/CLAIM-360.md) (the owner's U38 with A38's three
+  effects; interpretive, Active) bears on [QUESTION-039](../questions.d/QUESTION-039.md) since its note of
+  2026-11-11. Its text under B, from [THEORY-740](../theory.d/THEORY-740.md) and [THEORY-187](../theory.d/THEORY-187.md): "with a
   deadline the deep network has the strong modes sooner and the weak ones
   later. From small initial strength the plateau lengthens with depth".
-  QUESTION-039 holds THEORY-187 as a partial answer. The same note says
-  QUESTION-165 and QUESTION-166 "test this claim's assignments rather than
-  being borne on by it", and that QUESTION-081 and QUESTION-217 "are not
+  [QUESTION-039](../questions.d/QUESTION-039.md) holds [THEORY-187](../theory.d/THEORY-187.md) as a partial answer. The same note says
+  [QUESTION-165](../questions.d/QUESTION-165.md) and [QUESTION-166](../questions.d/QUESTION-166.md) "test this claim's assignments rather than
+  being borne on by it", and that [QUESTION-081](../questions.d/QUESTION-081.md) and [QUESTION-217](../questions.d/QUESTION-217.md) "are not
   addressed by its text".
 - **Circuits as regimes over shared features.** [QUESTION-275](../questions.d/QUESTION-275.md) (the
   owner's question at T24 of "Experimental Infrastructure Review", with
@@ -112,13 +112,13 @@ bears_on:
   names its test: a model fitted to early checkpoints must out-predict
   feature-only and circuit-only descriptions on held-out training
   interventions. [QUESTION-193](../questions.d/QUESTION-193.md)'s note of 2026-10-26 takes a testbed from
-  the works read for it (THEORY-981). QUESTION-275's note of 2026-11-15 records A's
+  the works read for it ([THEORY-981](../theory.d/THEORY-981.md)). [QUESTION-275](../questions.d/QUESTION-275.md)'s note of 2026-11-15 records A's
   directed coupling among learned feature directions and five routes to
   one gain in accuracy. Of these, "new effective couplings among existing
   features" and "a pathway that becomes accessible to some inputs" are
   missed by a feature-only model, "this question's discriminating case".
-  It names A's experiments, CASE-272 (SYNTHESIS-tmpwrkqs) and CASE-274
-  (SYNTHESIS-tmp42cg7). Not run.
+  It names A's experiments, [CASE-272](../cases.d/CASE-272.md) ([SYNTHESIS-tmpwrkqs](SYNTHESIS-tmpwrkqs.md)) and [CASE-274](../cases.d/CASE-274.md)
+  ([SYNTHESIS-tmp42cg7](SYNTHESIS-tmp42cg7.md)). Not run.
 - **Instruments.** [QUESTION-234](../questions.d/QUESTION-234.md) (the promotion condition of [THEORY-243](../theory.d/THEORY-243.md);
   Open) asks whether interchange interventions leave the mediating
   direction underdetermined in trained networks. Its note of 2026-10-26
@@ -126,9 +126,9 @@ bears_on:
   names [QUESTION-274](../questions.d/QUESTION-274.md) as the neighbouring question. [QUESTION-274](../questions.d/QUESTION-274.md) (filed
   2026-10-27 from the circuits readings; Open) asks whether two
   dictionaries of equal fidelity give the same validated circuit; it is
-  "THEORY-802's thesis moved from alignments to dictionaries". CASE-271
-  (a construction) and CASE-274 (a proposed study), both in
-  SYNTHESIS-tmp42cg7, bear on it: a query family can separate
+  "[THEORY-802](../theory.d/THEORY-802.md)'s thesis moved from alignments to dictionaries". [CASE-271](../cases.d/CASE-271.md)
+  (a construction) and [CASE-274](../cases.d/CASE-274.md) (a proposed study), both in
+  [SYNTHESIS-tmp42cg7](SYNTHESIS-tmp42cg7.md), bear on it: a query family can separate
   readdressing, suppression and deletion, and some cancellations no query
   reveals.
 
@@ -154,13 +154,13 @@ on [QUESTION-275](../questions.d/QUESTION-275.md) and [QUESTION-370](../question
 - [QUESTION-275](../questions.d/QUESTION-275.md), the owner's question with the reply's test, Open.
 - [QUESTION-234](../questions.d/QUESTION-234.md), a promotion condition moved from [THEORY-243](../theory.d/THEORY-243.md), Open.
 - [QUESTION-274](../questions.d/QUESTION-274.md), filed from the circuits readings of 2026-10-26, Open.
-- CLAIM-360, the owner's U38 with A38's three effects, Active.
+- [CLAIM-360](../claims.d/CLAIM-360.md), the owner's U38 with A38's three effects, Active.
 
 ## Links tested as claims
 
-None. Every component but CLAIM-360 is an open question, and the links
-among them are `refines` and dated notes. CLAIM-360 rests on readings,
-not on claims, so it is not a candidate for ADR-075's step 5.
+None. Every component but [CLAIM-360](../claims.d/CLAIM-360.md) is an open question, and the links
+among them are `refines` and dated notes. [CLAIM-360](../claims.d/CLAIM-360.md) rests on readings,
+not on claims, so it is not a candidate for [ADR-075](../decisions.d/ADR-075.md)'s step 5.
 
 ## Not stated on the record
 
@@ -171,9 +171,9 @@ not on claims, so it is not a candidate for ADR-075's step 5.
   cautions for the feature arm cite the same dictionary-resolution
   readings as [QUESTION-274](../questions.d/QUESTION-274.md) ([THEORY-1016](../theory.d/THEORY-1016.md), [THEORY-992](../theory.d/THEORY-992.md)). They are joined
   only through [QUESTION-234](../questions.d/QUESTION-234.md)'s note.
-- **The unlinked timing entries.** QUESTION-165 and QUESTION-233 ask
+- **The unlinked timing entries.** [QUESTION-165](../questions.d/QUESTION-165.md) and [QUESTION-233](../questions.d/QUESTION-233.md) ask
   whether sample-count thresholds have the reason their readings give.
-  Neither is related to QUESTION-039. CLAIM-360's note names QUESTION-165
+  Neither is related to [QUESTION-039](../questions.d/QUESTION-039.md). [CLAIM-360](../claims.d/CLAIM-360.md)'s note names [QUESTION-165](../questions.d/QUESTION-165.md)
   as a test of its assignments and gives it no relation.
 
 ## What it does not say

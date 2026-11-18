@@ -74,18 +74,18 @@ summary: >-
 
 ## Admission
 
-Added at the synthesis review of 2026-11-18 (ADR-075, step 5), because
+Added at the synthesis review of 2026-11-18 ([ADR-075](../decisions.d/ADR-075.md), step 5), because
 the claim rests on two claims.
 
 - **What it adds.** With the training verifier available at test time,
   the RL model's large-budget accuracy does not exceed its base's
   best-of-N under that verifier at matched total compute. Neither premise
-  says so. CLAIM-697 says nothing about RL, and CLAIM-695 leaves
+  says so. [CLAIM-697](CLAIM-697.md) says nothing about RL, and [CLAIM-695](CLAIM-695.md) leaves
   sharpening against expansion to each run.
 - **A separating case.** A run in which RL expands what the base reaches,
-  which CLAIM-695 allows "per run", with CLAIM-697's envelope intact.
+  which [CLAIM-695](CLAIM-695.md) allows "per run", with [CLAIM-697](CLAIM-697.md)'s envelope intact.
   Both premises hold and the sentence fails. The case is realistic:
-  ProRL (THEORY-1908) reports new strategies under prolonged RL. So it may
+  ProRL ([THEORY-1908](../theory.d/THEORY-1908.md)) reports new strategies under prolonged RL. So it may
   also defeat this claim, under its own `defeated_if`. It does not yet,
   because ProRL compared against base sampling at k up to about 128, not
   against base sampling filtered by the training verifier at matched
