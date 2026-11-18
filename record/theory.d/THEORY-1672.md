@@ -41,3 +41,9 @@ Zhu and colleagues find, evaluating multi-turn agentic RL by Pass@(K, T) on four
 ## Evidence
 
 The reading in [NOTE-1769](../notes.d/NOTE-1769.md); its key results are quoted there with locations.
+
+## Note of 2026-11-15: the single-turn results, read
+
+<!-- inactive-ok-file: THEORY-1880 THEORY-1908 — Proposed; the single-turn readings of 2026-11-15, cited as the result this account contrasts with -->
+
+The single-turn result this account contrasts with is Yue et al. ([THEORY-1880](THEORY-1880.md)): RLVR models overtaken by their base models at large k. It is not uniform: ProRL ([THEORY-1908](THEORY-1908.md)) reports single-turn expansion after long, diversity-preserving training from a distilled model, with gains largest where the start model was weak and nil or negative on math. So the contrast is between multi-turn RL at ample budgets and short single-turn RLVR from pretrained bases, not between multi-turn and single-turn as such. No status change.

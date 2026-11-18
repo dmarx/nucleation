@@ -6,8 +6,8 @@
 
 **Software engineering** — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
 
-0 of 469 QUESTION documents. Back to the [full index](../README.md).
+1 of 474 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-471](../../../record/questions.d/QUESTION-471.md) v4 | How can a record of inquiry that automates the incorporation of new material keep the speed of incorporation from outrunning its capacity to evaluate what it incorporates, and which of its checks are points at which an incorporation can still be stopped rather than reviewed after it has taken effect? | A's, from A30 §7 of the exchange "Assess Depp Heard Abuse" (2026-11-15), which reads this record itself as a small case of the exchange's argument: "Automation reduces the routine work of maintaining a coherent intellectual record. But checks, review stages, and explicit adoption decisions preserve opportunities to challenge what enters that record as authoritative." Its question: "How can an automated knowledge-production system increase its capacity to incorporate new material without allowing the speed of incorporation to outrun its capacity for critical evaluation?" The owner's procedural-friction claim, applied to the record. The wording is A's; adopting it is the owner's call. | Open |

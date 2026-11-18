@@ -8,7 +8,7 @@ complements:
 - TERM-034
 - TERM-092
 title: 'legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer''s rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,15 @@ history:
     and "The separation is exact only with attention patterns frozen",
     which is the reading's "the separation holds only with the input,
     and so the pattern, held fixed". No other change.
+- version: 7
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: seven readings on concept erasure support the
+    term's relational form where it is measured, a concept being erased only
+    for some class of observers; two qualifications, that the observer's
+    errors shape what is erased and that a strong observer may supply a
+    distinction rather than recover it, are left open. The definition is
+    unchanged.
 tags:
 - epistemology
 - information-theory
@@ -296,3 +305,17 @@ The term is unchanged.
 ## Note of 2026-11-07: the record's accounts surveyed, from the second share of "Individuation, Possibility, and Disposition"
 
 The owner's U26 asked what the framework holds on the legibility of distinctions. A58 surveyed this term rightly: the operationalization, the regime, the direction and the XOR case. Its stage box adds correctability ([TERM-085](TERM-085.md)) as a sixth stage, the step this term's note of 2026-10-29 records. It replaces the fourth stage, standing, with "Interpretive significance". A56's "allowed to matter" is the better reading. A58 omits [CLAIM-403](../claims.d/CLAIM-403.md)'s ladder and the owner's [CLAIM-553](../claims.d/CLAIM-553.md), whose legibility factor is this term applied to observed intervention. The synthesis it closes with is filed as version 2 of [CLAIM-620](../claims.d/CLAIM-620.md). The term is unchanged.
+
+## Note of 2026-11-15: erasure is relative to a class of reader
+
+<!-- inactive-ok-file: THEORY-1910 THEORY-1888 THEORY-1870 THEORY-1878 THEORY-1909 THEORY-1911 THEORY-1886 — Proposed; the concept-erasure readings of 2026-11-15, cited as cases of the term, nothing here rests on them -->
+
+Seven readings on concept erasure, from the continuation of "Explain String Theory", support the term's relational form in a setting where it is measured. A concept is "erased" only for some class of observers.
+
+- After iterative nullspace projection, no linear classifier recovers gender from GloVe vectors above chance (49.3%), but a one-hidden-layer MLP recovers it at 85.0% (Ravfogel et al. 2020, [LIT-2619](../literature.d/LIT-2619.md), [THEORY-1910](../theory.d/THEORY-1910.md)).
+- Property information removed at one BERT layer is partly decodable again at later layers (Elazar et al. 2021, [LIT-2621](../literature.d/LIT-2621.md), [THEORY-1888](../theory.d/THEORY-1888.md)).
+- Goodfire's five-level hierarchy (reuse the probe, refit it linearly, fit a nonlinear one, probe another layer, use another model) is an explicit ladder of observer classes. "Remained monitorable" means legible to some rung. Their remark that "probes only need to be as powerful as the remainder of the model" is an upper bound on the class needed, close to the term's bound by what the source makes possible (Fel, Kowal et al. 2026, [LIT-2620](../literature.d/LIT-2620.md), [THEORY-1870](../theory.d/THEORY-1870.md)).
+- In unlearned language models, the output channel leaks almost nothing, while a probe trained per layer recovers forget-set content (Reisizadeh et al. 2026, [LIT-2628](../literature.d/LIT-2628.md), [THEORY-1878](../theory.d/THEORY-1878.md)).
+- In diffusion models, concepts hidden from text attacks come back under inpainting, noise or classifier guidance (Lu et al. 2025, [LIT-2641](../literature.d/LIT-2641.md), [THEORY-1909](../theory.d/THEORY-1909.md)). A trigger planted before erasure is illegible to the erasure's own bounded search (Braun et al. 2026, [LIT-2637](../literature.d/LIT-2637.md), [THEORY-1911](../theory.d/THEORY-1911.md)).
+
+Two qualifications go beyond what the term says. First, the observer's errors also shape what is erased, not only its class: a concept probe leans on correlated task features, so removal guided by it damages the task and leaves the concept (Kumar, Tan & Sharma 2022, [LIT-2653](../literature.d/LIT-2653.md), [THEORY-1886](../theory.d/THEORY-1886.md)). Second, a strong enough observer may supply a distinction rather than recover it. Lu et al. name this limit, and it applies to Reisizadeh et al.'s forget-trained probes. The term has no place for an observer that induces the distinction it reports. The readings leave open whether that belongs to legibility or to a separate notion. None of them changes the definition. No status change.

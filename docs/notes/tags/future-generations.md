@@ -4,7 +4,7 @@
 
 **future-generations**.
 
-26 of 1951 NOTE documents. Back to the [full index](../README.md).
+26 of 2034 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

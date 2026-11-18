@@ -6,8 +6,8 @@
 
 **Moral psychology** — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
-0 of 111 ARG documents. Back to the [full index](../README.md).
+1 of 113 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-113](../../../record/arguments.d/ARG-113.md) v3 | A stipulated couple in which the partner who strikes more often is the one controlled shows that the count of wrongful acts and control over the terms of the relationship can come apart | The support for A's claim that equality of wrongdoing and equality of power are separate questions, from the exchange "Assess Depp Heard Abuse" (2026-11-15). Load-bearing: the claim's only ground is a fictional case. An existence proof needs only that the case is coherent and separates the two things the claim says come apart; both critical questions are answered. Proposed: the case shows the separation is possible, which is all the claim's first half asserts; its second half, that the tally does not settle responsibility for the structure, needs also that control over the terms is something one can be responsible for, which the case assumes. The wording is the filer's, of A's argument; adopting it is the owner's call. | Proposed |

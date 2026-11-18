@@ -1934,9 +1934,9 @@ what could show that a system, organized, non-biological or without a cortex, ha
 
 why trained networks come to have the structure they have, which features, symmetries and connected solution sets training reaches and why — understanding, not instruction for practice, which belongs to the anthology
 
-### [SYNTHESIS-030](../record/syntheses.d/SYNTHESIS-030.md): The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner's demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, and what classification leaves in the last layers, with smaller families on personas, group structure and learned variables and twenty-three entries linked to no other; the parts meet almost only through two questions on acquisition, and the line is a candidate to split
+### [SYNTHESIS-030](../record/syntheses.d/SYNTHESIS-030.md): The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner's demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, what classification leaves in the last layers, whether modes describe learned networks, and how latent capability is elicited and at what cost, with smaller families and eighteen entries linked to no other; the parts meet mostly through the acquisition questions, and the line is a candidate to split
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -1954,7 +1954,7 @@ why trained networks come to have the structure they have, which features, symme
 | [QUESTION-294](../record/questions.d/QUESTION-294.md) | QUESTION | Answered | When a network's architecture can represent a structured system's renormalization step exactly, must training by distribution fitting make the variables it represents the system's relevant ones? |
 | [CLAIM-290](../record/claims.d/CLAIM-290.md) | CLAIM | Active | A positive-definite kernel's minimal realizations are unique up to a unitary, and two finite representation matrices with the same centred Gram matrix differ by a translation and an orthogonal map |
 | [CLAIM-291](../record/claims.d/CLAIM-291.md) | CLAIM | Active | The adjoint of a square-integrable integral operator is the integral operator with the conjugate-transposed kernel |
-| [CLAIM-360](../record/claims.d/CLAIM-360.md) | CLAIM | Active | The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size |
+| [CLAIM-641](../record/claims.d/CLAIM-641.md) | CLAIM | Proposed | The integral operator with kernel w(u,v)/√(w(u)w(v)) to which the spectral contrastive analysis applies the spectral theorem is the conditional-expectation operator of the positive pairs carried to Lebesgue measure by multiplication by √w, so that kernel is square-integrable exactly when the positive-pair χ²-divergence is finite, with squared norm 1 + χ², and the two operators have one spectrum |
 | [CLAIM-382](../record/claims.d/CLAIM-382.md) | CLAIM | Active | In an autoencoder initialised with i.i.d. Gaussian weights and zero biases and trained by SGD or momentum SGD on a loss of its output, the law of each hidden layer's learned representation is invariant under every orthogonal map of that layer that commutes with its activation, so under a radial activation no basis is privileged in law, while elementwise tanh or Leaky-ReLU yields invariance only under the signed permutations or the permutations, which leaves the standard axes free to be privileged |
 | [QUESTION-149](../record/questions.d/QUESTION-149.md) | QUESTION | Open | In released language models, do the relational linear properties reported so far lie in the subspaces that enter the logits, with Γ ⊆ N and Γ_q ⊆ M, so that they are properties of the distribution and not of one fitted model? |
 | [QUESTION-150](../record/questions.d/QUESTION-150.md) | QUESTION | Open | In the Poincaré ball H^r for r > 2, does embedding a tree with worst-case distortion 1 + ε need Ω((ℓ/(εr)) log deg_max) bits per coordinate for r up to about log deg_max, and Ω(ℓ/ε) beyond, matching the code-based upper bound? |
@@ -1980,7 +1980,7 @@ why trained networks come to have the structure they have, which features, symme
 
 #### [SYNTHESIS-026](../record/syntheses.d/SYNTHESIS-026.md): Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -1996,12 +1996,13 @@ why trained networks come to have the structure they have, which features, symme
 | [QUESTION-122](../record/questions.d/QUESTION-122.md) | QUESTION | Open | Can a deep network during training have meaningful affect-like states, such as frustration of its demands, and to which unit, the network, the network–optimizer pair or the training process, would they belong? |
 | [QUESTION-127](../record/questions.d/QUESTION-127.md) | QUESTION | Open | Which diagnoses of frustration among a learner's demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer? |
 | [QUESTION-286](../record/questions.d/QUESTION-286.md) | QUESTION | Answered | Under smooth invertible changes of the parameter coordinates, which first-order frustration diagnoses among a learner's demands are invariant: pairwise Euclidean gradient angles, common strict first-order descent, or budgeted feasibility with the update geometry transported? |
+| [QUESTION-466](../record/questions.d/QUESTION-466.md) | QUESTION | Open | In a language model trained to act on some of the reward-model preferences it read about, is the objective the trained system maintains the behaviours it was trained on or "what reward models prefer": does a goal-directed description with that objective beat a device description of the trained behaviours on held-out and newly described preferences, and does the network restore it when it is perturbed? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of this part of the learned-structure line (the frustration diagnoses of a learner's demands, their invariance, and the unit they belong to) left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
 
 #### [SYNTHESIS-034](../record/syntheses.d/SYNTHESIS-034.md): What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training's order follows the posterior's order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line's frustration, concept and persona entries cite
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -2015,6 +2016,7 @@ why trained networks come to have the structure they have, which features, symme
 | [QUESTION-305](../record/questions.d/QUESTION-305.md) | QUESTION | Open | From small random weights not aligned with the data's eigenbasis, does a linear-attention layer trained on in-context regression come into alignment with that basis before or while its modes are learned, so that its learning is staged by the input spectrum without the alignment being assumed? |
 | [QUESTION-363](../record/questions.d/QUESTION-363.md) | QUESTION | Open | When does the order in which stochastic gradient descent comes to occupy a network's organizations over training time follow the order in which they come to dominate the Bayesian posterior as the sample grows, and what fixes the correspondence where it holds: an effective temperature set by learning rate and batch size, the accessibility of regions and the barriers between them, or the time allowed to equilibrate? |
 | [QUESTION-275](../record/questions.d/QUESTION-275.md) | QUESTION | Open | Can the development of a transformer's circuits in training be described as organizational regimes forming over shared, overlapping latent features, so that a model coupling feature allocation to circuit interaction, fitted to early checkpoints, predicts the effects of held-out training interventions that feature-only and circuit-only descriptions fitted to the same checkpoints miss? |
+| [CLAIM-360](../record/claims.d/CLAIM-360.md) | CLAIM | Active | The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size |
 | [QUESTION-234](../record/questions.d/QUESTION-234.md) | QUESTION | Open | Do interchange interventions leave the mediating direction underdetermined in trained networks: do two basis-related alignments in a trained model tie on every interchange drawn from the data, and for which networks are alignments that agree on all such interventions unique up to a stated symmetry? |
 | [QUESTION-274](../record/questions.d/QUESTION-274.md) | QUESTION | Open | Do two dictionaries of equal fidelity, trained on the same model with different seeds or widths, give the same validated circuit for the same prompt and behaviour, or is a feature circuit fixed only relative to the dictionary that supplies its units? |
 
@@ -2022,7 +2024,7 @@ why trained networks come to have the structure they have, which features, symme
 
 #### [SYNTHESIS-029](../record/syntheses.d/SYNTHESIS-029.md): Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -2038,7 +2040,7 @@ why trained networks come to have the structure they have, which features, symme
 
 #### [SYNTHESIS-028](../record/syntheses.d/SYNTHESIS-028.md): Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -2051,6 +2053,7 @@ why trained networks come to have the structure they have, which features, symme
 | [QUESTION-318](../record/questions.d/QUESTION-318.md) | QUESTION | Open | Does layerwise linear feature connectivity hold outside image classification, in transformers and language models connected by spawning, shared pretraining or alignment, and does it carry from pairs to the many-model averages practice uses, model soups and SWA? |
 | [CLAIM-498](../record/claims.d/CLAIM-498.md) | CLAIM | Proposed | Averaging weights within a basin averages features: the network whose weights are the average of several networks in one low-loss basin has, in every layer, the average of their features |
 | [CLAIM-499](../record/claims.d/CLAIM-499.md) | CLAIM | Proposed | The linear barrier left after aligning independently trained networks over the architecture's symmetries rises with depth |
+| [CASE-273](../record/cases.d/CASE-273.md) | CASE | Proposed | Orthogonal task updates can interact: for f_w(x) = (w·x)², the updates (1, 0) and (0, 1) from w = 0 are orthogonal, yet at x = (1, 1) their joint effect exceeds the sum of their separate effects by 2, the mixed second-order term that a model linearized at its base cannot have |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of this part of the learned-structure line (the connectedness of trained solutions and what a barrier between them shows) left out without a reason given; or a link this account states that no component states. Its standing is its components'.
 
@@ -2083,6 +2086,38 @@ why trained networks come to have the structure they have, which features, symme
 | [QUESTION-236](../record/questions.d/QUESTION-236.md) | QUESTION | Open | Does fixed-feature transfer to new classes fall as penultimate class separation rises outside ImageNet-trained ResNet-50s, and does it move with within-class spread when the loss is held fixed? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of this part of the learned-structure line (the last-layer structure classification training leaves, and its cost) left out without a reason given; or a link this account states that no component states. Its standing is its components'.
+
+#### [SYNTHESIS-097](../record/syntheses.d/SYNTHESIS-097.md): Whether the mathematics of modes applies to learned networks is held as the owner's hypothesis with A's test, which asks that independently justified modes and their couplings out-predict feature, circuit and parameter accounts; the assistant's rule that such a mode must be invariant under the network's function-preserving symmetries, with a construction in which a spectrum over unit order fails it; and one proposed study on modular addition, where the task supplies the modes; nothing in it has been run
+
+*Proposed · version 1*
+
+The account of the modes part of the learned-structure line, filed at the synthesis review of 2026-11-18. All four components were filed on 2026-11-15 from the continuation of the exchange "Explain String Theory", and all are Proposed. It maps them and adds nothing.
+
+| component | kind | its status | what it holds |
+|---|---|---|---|
+| [CLAIM-698](../record/claims.d/CLAIM-698.md) | CLAIM | Proposed | The mathematics of waves and distributed modes, which covers harmonic and spectral decomposition, multiscale analysis, scattering and response operators, interference, mode coupling, localization and reconstruction, applies to how learning systems acquire, execute and compose computations, and earns its place where a description in independently justified modes and their couplings predicts a learned network's responses to unseen queries, interventions, training and merging better than feature-, circuit- or parameter-level accounts fitted with the same information |
+| [CLAIM-696](../record/claims.d/CLAIM-696.md) | CLAIM | Proposed | A mode can bear explanatory weight in a learned network only if it is defined invariantly under the network's function-preserving symmetries, permutations of hidden units and the reparametrizations its architecture allows; a spectrum over the index order of units fails that test, while the Fourier characters of a task's group pass it, because the task supplies them |
+| [CASE-270](../record/cases.d/CASE-270.md) | CASE | Proposed | A spectrum taken over a weight matrix's unit order is not a property of the network: permuting the hidden units of a two-layer network leaves its outputs unchanged and moves the low-frequency share of a task update's two-dimensional Fourier energy along the hidden-unit axis from 0.985 to 0.193, while the update's singular values stay fixed |
+| [CASE-272](../record/cases.d/CASE-272.md) | CASE | Proposed | A proposed study: small transformers trained on modular addition, saved at many checkpoints, with the training kernel's eigenspaces and each layer's coupling among Fourier modes measured over training, to see whether changes in modal coupling forecast the Fourier circuit's formation better than training loss, Fourier energy and the known progress measures |
+
+**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of this part of the learned-structure line (modes, their couplings and their invariance as a description of learned networks) left out without a reason given; or a link this account states that no component states. Its standing is its components'.
+
+#### [SYNTHESIS-096](../record/syntheses.d/SYNTHESIS-096.md): What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost
+
+*Proposed · version 1*
+
+The account of the latent-capability part of the learned-structure line, filed at the synthesis review of 2026-11-18. All six components were filed on 2026-11-15 from the continuation of the exchange "Explain String Theory", and all are Proposed. The three claims' first line is realizability. It maps them and adds nothing.
+
+| component | kind | its status | what it holds |
+|---|---|---|---|
+| [CLAIM-697](../record/claims.d/CLAIM-697.md) | CLAIM | Proposed | A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs |
+| [CLAIM-695](../record/claims.d/CLAIM-695.md) | CLAIM | Proposed | Reinforcement learning on verifiable rewards can make a disposition the base model already had cheaper to realize, by moving probability toward successful trajectories the base reaches under enough sampling, which amortizes part of a search into the policy without enlarging what the base reaches at large budgets; whether a given run sharpened or expanded is an empirical question per run, settled by matched-budget coverage curves and causal tests on the tokens where the two models diverge |
+| [CLAIM-699](../record/claims.d/CLAIM-699.md) | CLAIM | Proposed | Where the reward used in RL post-training is also available as a verifier at test time, the RL model's single-sample gain is a cheaper route to what base sampling filtered by that verifier reaches at matched compute, and should not exceed it at large budgets; RL's distinctive value lies where recognition at test time is unavailable or costly, so the substitutability of training and search is fixed by the cost of recognition |
+| [CASE-271](../record/cases.d/CASE-271.md) | CASE | Proposed | Reconstruction channels in a phase-coded associative memory: readdressing, readout suppression and deletion of a stored association all read zero at its original query, and further queries tell them apart; suppressing the readout at one of 64 canonical queries drops the measurement rank to 63, and one half-step query restores it; but two internal pathways that cancel at the output are indistinguishable from none under every query until one is silenced |
+| [CASE-274](../record/cases.d/CASE-274.md) | CASE | Proposed | A proposed study: small transformers trained on randomized subject–relation–object facts, with matched training worlds, measured across query variants, inference budgets, interventions and merges, to find whether apparent forgetting is loss, readdressing, interference or downstream suppression, and whether a model of the network's response geometry predicts which associations come back under unseen queries, compute and interventions better than feature similarity, activation strength and attribution |
+| [CASE-275](../record/cases.d/CASE-275.md) | CASE | Proposed | A proposed study: a small transformer trained to apply one of two symbolic transformations by context, then trained further to stop expressing one, with decodability, recruitment, causal transmission and behavioral expression measured separately before and after, to tell a capability whose expression was suppressed from one that was removed |
+
+**What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of this part of the learned-structure line (latent capability, how it is elicited and at what cost, and how its loss is told from its inaccessibility) left out without a reason given; or a link this account states that no component states. Its standing is its components'.
 
 ## Formal apparatus
 

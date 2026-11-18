@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -45,6 +45,10 @@ history:
     from version 3, in date order after the note of 2026-11-04, with
     bare codes in place of link targets. No other change.
 - version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Anderson (LIT-2673) read on 2026-11-16, NOTE-2014. No change of status or title.
+- version: 7
   date: '2026-11-17'
   note: >-
     A dated note: A9 §8 and A11 §7 of the exchange "Assess Depp Heard
@@ -332,6 +336,16 @@ standard declared with the judgment. It keeps this claim's "used or not",
 makes "unaccountable" relative to a declared standard ([CLAIM-363](CLAIM-363.md)), and
 requires the holder to be an agent or role. [CLAIM-690](CLAIM-690.md) uses it. The
 term is the assistant's wording and Proposed. This claim is unchanged.
+
+## Note of 2026-11-16: Anderson, read
+
+Galoob and Sheley's "usurped the target’s decisional authority" (as quoted
+in SEP "Coercion" §3.2) is a legal-theory statement of usurpation within a
+relationship. Anderson's own "enforcement approach" refocuses coercion on
+"the powers and acts of the coercer" and denies "that coercion is
+coextensive with particular acts taken or avoided by the coercee" (§2.5).
+Both sit near this claim's domination as control over the relations
+through which demands become effective. Note only; no relation proposed.
 
 ## Note of 2026-11-17: the wrong the domination clause names, stated informally, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: CLAIM-tmpa2l21 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->

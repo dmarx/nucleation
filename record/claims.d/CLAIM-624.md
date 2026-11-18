@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptfuky
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-11-07'
@@ -80,6 +80,10 @@ history:
     Reported by the synthesis review of 2026-11-11 (seventh round).
     No other change.
 - version: 9
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Rubel, Castro and Pham (LIT-2691) read on 2026-11-16, NOTE-2031. No change of status or title.
+- version: 10
   date: '2026-11-17'
   note: >-
     A dated note: A41 §6 of the exchange "Assess Depp Heard Abuse"
@@ -418,6 +422,10 @@ the continued viability of the processes through which their decisions
 can be challenged and corrected", drops those conditions; A23 §10 restored
 them after [CLAIM-511](CLAIM-511.md). The comparative prediction A20 drew from the line
 is [CLAIM-685](CLAIM-685.md). No change.
+
+## Note of 2026-11-16: Rubel, Castro and Pham, read
+
+Rubel, Castro and Pham (2021, [LIT-2691](../literature.d/LIT-2691.md), [NOTE-2031](../notes.d/NOTE-2031.md)) give, from outside the exchange that produced this claim, the same structure for an agent's own part in an outcome: a wrong that is distinct from any substantive violation and consists in a failure of answerability. Agency laundering "does not require that one infringe one’s substantive role responsibilities" (n. 21); its defining feature is "forestalling others’ ability to demand an account" (p. 143). It supports the claim's thesis that such a wrong exists and is not reducible to the loss. It does not support the claim's specific duty (to maintain means for violations to become knowable, contestable and correctable): the chapter's wrong is obscuring one's own causal role, and it gives no criterion of feasible alternatives.
 
 ## Note of 2026-11-17: protection of corrective capabilities against restriction by those they constrain, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: CLAIM-tmpmeabu — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new or Proposed -->

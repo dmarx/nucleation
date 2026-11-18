@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprhafq
 title: 'Perfect concept erasure caps what a representation can keep at the information not about the concept: for X of finite support, if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups'' distributions are permutations of one another'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,14 @@ history:
     narrowed to X of finite support, where every entropy is finite.
     The promote_when's request for an independent derivation is met by
     the note.
+- version: 3
+  date: '2026-11-15'
+  note: >-
+    Note of 2026-11-15 added: none of the seven erasure readings of
+    2026-11-15 attempts perfect erasure; linear erasure leaves nonlinear
+    information, probe-guided removal costs more than the minimum, and
+    behavioural erasure leaves the representation untouched. The cap is
+    untouched. No status change.
 tags:
 - information-theory
 - representation-learning
@@ -140,3 +148,15 @@ independent randomness, so A → X → Z.
 ## Note of 2026-11-15: Belrose and colleagues (LEACE), read
 
 LEACE ([LIT-2551](../literature.d/LIT-2551.md), [NOTE-1912](../notes.d/NOTE-1912.md)) is the linear, second-moment counterpart of this entry. Its guarantee is linear guardedness, no linear predictor under a convex loss beating a constant, which it proves equivalent to zero cross-covariance between X and the concept. That is weaker than the independence this entry's cap assumes. Its utility measure is squared distance from X, not information kept. Within that frame it gives the unique least edit, an oblique projection, under every inner-product norm. The two results do not conflict. LEACE's own §7 conjectures that erasure against a general nonlinear adversary is intractable without damage, which is a computational claim that this entry's information-theoretic cap neither supports nor contradicts. The entry is unchanged.
+
+## Note of 2026-11-15: practical erasure falls short of perfect erasure
+
+<!-- inactive-ok-file: THEORY-1910 THEORY-1886 THEORY-1870 THEORY-1878 THEORY-1909 — Proposed; the concept-erasure readings of 2026-11-15, cited as methods that do not reach this entry's target, nothing here rests on them -->
+
+None of the seven erasure readings of 2026-11-15 attempts this entry's target, independence of the representation and the concept. Each falls short of it in a measured way.
+
+- **Linear erasure leaves nonlinear or second-order information.** After INLP a one-hidden-layer MLP recovers gender at 85.0% ([LIT-2619](../literature.d/LIT-2619.md), [THEORY-1910](THEORY-1910.md)). Goodfire's paper states that "projecting out and LEACE (Belrose et al., 2023) can leave information in the covariance that a quadratic reader recovers" ([LIT-2620](../literature.d/LIT-2620.md)). The section giving that result, its §2.1, was not read.
+- **Probe-guided removal costs more than this entry's minimum.** On a classifier that never used the concept, INLP drives main-task accuracy to chance (Kumar, Tan & Sharma, [LIT-2653](../literature.d/LIT-2653.md), [THEORY-1886](THEORY-1886.md)). Goodfire's Proposition 1 gives a mechanism for the same over-damage: the concept regrows along the readout's core directions, so refitted erasure removes core features ([THEORY-1870](THEORY-1870.md)).
+- **Behavioural erasure leaves the representation untouched.** Unlearned outputs carry almost nothing about the forget set, while hidden states carry it ([LIT-2628](../literature.d/LIT-2628.md), [THEORY-1878](THEORY-1878.md)). Diffusion erasure mostly steers guidance away rather than destroying ([LIT-2641](../literature.d/LIT-2641.md), [THEORY-1909](THEORY-1909.md)).
+
+The cap is untouched. It bounds what perfect erasure can keep, and these readings concern methods that do not reach perfect erasure. They leave open what any practical method attains between linear guardedness (the target of [THEORY-1827](THEORY-1827.md)) and independence. No status change.

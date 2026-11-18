@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpkjv7u
 title: 'A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement''s controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-13'
@@ -38,6 +38,10 @@ history:
     is in the part of the line on what wholes and parts owe and claim.
     No relation supplies organizational-normativity to it (ADR-085).
     No other change.
+- version: 5
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Stark and Hester (LIT-2712) read on 2026-11-16, NOTE-1999. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -220,3 +224,11 @@ the arrangement itself is not assumed to owe or to dominate anything, as
   arrangement has become, the first condition.
 
 Status, title and version unchanged.
+
+## Note of 2026-11-16: Stark and Hester, read
+
+Coercive control as Stark defines it is an interpersonal instance of this claim's test: participation in an important
+sphere (the household, children, money) rests on the relationship; the controlling partner holds consequential
+discretion; and control works by "depriving them of the means needed for independence, resistance and escape" (the
+Home Office definition the review quotes), the claim's third condition. The reading is gendered and interpersonal
+where the claim is general; it illustrates without testing. Relation: none (note only).

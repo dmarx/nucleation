@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-50 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+51 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -347,3 +347,8 @@
 
 - [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(disclaimed, Proposed)*
   - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(thesis, Active)* — through [ARG-053](../record/arguments.d/ARG-053.md)
+
+## From Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted
+
+- [CLAIM-710](../record/claims.d/CLAIM-710.md) — Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted *(thesis, Proposed)*
+  - [CLAIM-711](../record/claims.d/CLAIM-711.md) — A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction *(counter, Proposed)*

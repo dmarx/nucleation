@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 9
+version: 13
 history:
 - version: 2
   date: '2026-10-21'
@@ -61,6 +61,26 @@ history:
     QUESTION-071 (manipulation). Reading review of 2026-11-11, by
     question. Under ADR-085 it takes will-organization. No other change.
 - version: 9
+  date: '2026-11-15'
+  note: >-
+    A dated note added from the exchange "Assess Depp Heard Abuse"
+    (2026-11-15): the owner linked reflexive control to the exchange's
+    argument (U6), and A's normative manipulation (CLAIM-703) is a
+    route this claim's two do not cover. Title, defeater and status
+    unchanged.
+- version: 10
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Umpleby (LIT-2693) read on 2026-11-16, NOTE-2017. No change of status or title.
+- version: 11
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Keller (LIT-2670) read on 2026-11-16, NOTE-2005. No change of status or title.
+- version: 12
+  date: '2026-11-16'
+  note: >-
+    A dated note added: de Boer and Raaphorst (LIT-2674) read on 2026-11-16, NOTE-1997. No change of status or title.
+- version: 13
   date: '2026-11-17'
   note: >-
     A dated note: the owner's U6 of the exchange "Assess Depp Heard
@@ -462,6 +482,59 @@ checked by the filer: an instance of the informational route: platforms
 shape which news reaches audiences and, through dependency, editorial
 choices, without dictating them; outlets' editorial-algorithm committees
 (Interviewee 40) are an internal counterweight.
+
+## Note of 2026-11-15: a third route, through circumstances, from "Assess Depp Heard Abuse"
+
+<!-- inactive-ok-file: CLAIM-703 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
+<!-- inactive-ok-file: LIT-1339 — Unavailable; Thomas on reflexive control, unread -->
+
+At U6 of the exchange "Assess Depp Heard Abuse"
+(https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c), after A9
+on responsibility for creating the conditions of others' wrongdoing, the
+owner wrote: "this reminds me of russian work on 'reflexive control' as a
+grey tactic". A11 develops the link with Lefebvre and Thomas
+([LIT-1339](../literature.d/LIT-1339.md), Unavailable); A30 §3, reading the
+record, found this claim and called its form "arguably more precise".
+
+The exchange adds one thing this claim's two routes do not hold. A11 §4
+separates "**Epistemic manipulation:** Make the target believe something
+false, so that its subsequent decision follows from mistaken premises" from
+"**Normative manipulation:** Exploit the target's actual values,
+commitments, and decision rules, so that acting according to them produces
+an outcome chosen by the manipulator". The first is a case of this claim's
+evidence route. The second is not its criteria route: the target's criteria are not
+redirected but used as they stand, and what the manipulator sets is the
+situation they are applied to (A13's case, filed as [CLAIM-703](CLAIM-703.md) from
+Keller's moral blackmail). For an organization, the corresponding route
+would be governing it through the circumstances its procedures face, as a
+fait accompli does for a court ([CLAIM-464](CLAIM-464.md)). The claim is
+unchanged; whether "circumstances" is a third route or a case of "evidence"
+is left open here.
+
+## Note of 2026-11-16: Umpleby on Lefebvre, read
+
+The claim's dated note records A11's link from reflexive control to Lefebvre's model of ethical
+cognition. Umpleby's account, read as a stand-in for Lefebvre's unread works, confirms that the model
+belongs to the reflexive-control tradition: a 2000 Moscow meeting "on Reflexive Control to honor
+Vladimir Lefebvre" (p. 67). It describes two culturally typed ethical systems and nothing about
+governing an organization. A11's table of the two systems (compromise and confrontation) is in tension
+with Umpleby, whose first, Western system makes the compromiser the saint (p. 66). The claim is
+unchanged. Relation: none.
+
+## Note of 2026-11-16: Keller, read
+
+The claim's dated note marks normative manipulation as a route "through circumstances", distinct from
+evidence and criteria. Keller states it in general form: "if I have the power to change your
+circumstances, then I may have the power to change the moral demands you face" (p. 20). He writes of
+persons, not organizations. The claim is unchanged. Relation: none.
+
+## Note of 2026-11-16: de Boer and Raaphorst, read
+
+The authors' best explanation for a direct effect of automation on enforcement style is that it "alters
+the choice architecture of street"-level bureaucrats, who must enter their observations into the system
+(p. 55): governance of conduct through what a procedure asks for, without lowering the discretion people
+feel they have (the mediation was not significant). This is an empirical instance, weak (cross-sectional,
+p < .10 in places), of governing through the criteria a procedure uses. The fit is partial: CLAIM-404 is about governance from outside the organization, and INSPECT is the organization's own system. Relation: bears_on, weakly; the filer may prefer none.
 
 ## Note of 2026-11-17: reflexive control again, for moral conditions, from "Assess Depp Heard Abuse"
 <!-- inactive-ok-file: CLAIM-tmp76x3e CLAIM-tmpciy9q — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->

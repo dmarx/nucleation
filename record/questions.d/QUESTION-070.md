@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp9psjx
 title: 'When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?'
-version: 5
+version: 8
 history:
 - version: 2
   date: '2026-10-14'
@@ -38,6 +38,18 @@ history:
     "What the record holds" now names the THEORYs filed from the two
     cases' own readings, THEORY-627 (LIT-179) and THEORY-659
     (LIT-084). Neither answers the question.
+- version: 6
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Rubel, Castro and Pham (LIT-2691) read on 2026-11-16, NOTE-2031. No change of status or title.
+- version: 7
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Anderson (LIT-2673) read on 2026-11-16, NOTE-2014. No change of status or title.
+- version: 8
+  date: '2026-11-16'
+  note: >-
+    A dated note added: Nagel (LIT-2662) read on 2026-11-16, NOTE-2015. No change of status or title.
 tags:
 - social-ontology
 - ethics
@@ -55,6 +67,7 @@ summary: >-
   manipulation can then belong to the whole, with no manipulative intent in
   any member.
 ---
+<!-- inactive-ok-file: THEORY-1919 THEORY-1940 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-627 — Proposed; filed from the first case, named in What the record holds, not an answer -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 THEORY-258 — Proposed; accounts filed today that bear on the question without answering it -->
@@ -154,3 +167,25 @@ exploitation, or harm without a wrongdoer.
 From the reading in [NOTE-1792](../notes.d/NOTE-1792.md) ([LIT-2425](../literature.d/LIT-2425.md)), the reader's assessment as
 checked by the filer: Brown's Netflix example (racial targeting as "a
 non-intentional emergent effect" of engagement optimization) is an instance.
+
+## Note of 2026-11-16: Rubel, Castro and Pham, read
+
+For a firm whose automated system enabled racist ad targeting, the chapter holds that the firm's role responsibility "is not reducible to any particular individual developer", and that if collective responsibility does reduce to members', then those "individuals have laundered their agency." (§7.3). So on its account the wrong of laundering does not need a member who intends it. It leaves the inadvertent case open: "can a person who uses a tool to make decisions launder their agency" without intending to (p. 161). It does not address manipulation, the question's subject.
+
+## Note of 2026-11-16: Anderson, read
+
+A partial point from the SEP entry on coercion: since "the standard used to
+judge the coercee’s responsibility for acting under coercion can affect
+that strategic situation" (§3.2), whose agency a wrong runs through is
+partly set by the responsibility rule a community adopts, and the
+influencing party adapts to it. The entry concerns individual coercers, not
+organized wholes. Relation: bears_on (on [THEORY-1919](../theory.d/THEORY-1919.md)).
+
+## Note of 2026-11-16: Nagel, read
+
+Nagel ([LIT-2662](../literature.d/LIT-2662.md)) diagnoses the erosion of responsibility as the
+absorption of the agent's acts "into the class of events". The responsible
+self is "swallowed up by the order of mere events". Any answer to whose
+agency a collective's wrong runs through meets the same pressure: the more
+of the wrong is traced to the system's dynamics, the less remains to ascribe
+to any member. Relation: bears_on (on [THEORY-1940](../theory.d/THEORY-1940.md)), indirect.
