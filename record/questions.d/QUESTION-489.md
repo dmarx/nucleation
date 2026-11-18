@@ -1,5 +1,8 @@
 ---
+number: 489
 status: Answered
+formerly:
+- QUESTION-tmpsyjy0
 title: 'Setting staleness aside, under fixed known costs, when is an inferential structure worth filing?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   with [QUESTION-098](QUESTION-098.md).
 ---
 
-# QUESTION-tmpsyjy0: Setting staleness aside, under fixed known costs, when is an inferential structure worth filing?
+# QUESTION-489: Setting staleness aside, under fixed known costs, when is an inferential structure worth filing?
 
 ## Answer
 

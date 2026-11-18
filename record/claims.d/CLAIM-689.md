@@ -17,7 +17,7 @@ history:
     same. The dropped clause, that no account by manner of formation
     (THEORY-047's introjection) can ground a critique of the wants
     themselves, is the record's own extrapolation and is filed as
-    CLAIM-tmpq1p1x, Proposed, which rests on this claim (ADR-047, kind
+    CLAIM-753, Proposed, which rests on this claim (ADR-047, kind
     2). As narrowed, its ground THEORY-1836 is Active, it has no
     objection, and nothing meets its defeated_if. Interpretive. The old
     title was "Whether a desire was formed by social influence and whether its object is worth desiring are separate questions; since every preference is socially formed, a critique of produced wants cannot rest on their origin alone, and can ask instead whether satisfying them engages people with anything worthwhile".
@@ -33,7 +33,7 @@ defeated_if: >-
   claim takes the second part as a question of worth. Not defeated by
   accounts that discriminate among wants by the manner of their formation,
   such as introjection under controlling conditions (THEORY-047); whether
-  those reach a want's worth is CLAIM-tmpq1p1x's question.
+  those reach a want's worth is CLAIM-753's question.
 tags:
 - well-being
 - ethics
@@ -90,4 +90,4 @@ The blocker note of this date found the title wider than its argument:
 "since every preference is socially formed" answers critiques by social
 origin as such, not accounts that discriminate by how a want was formed,
 such as [THEORY-047](../theory.d/THEORY-047.md)'s introjection. The title now says social origin as
-such, and the wider clause is [CLAIM-tmpq1p1x](CLAIM-tmpq1p1x.md), Proposed.
+such, and the wider clause is [CLAIM-753](CLAIM-753.md), Proposed.

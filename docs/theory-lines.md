@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-229 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+230 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -852,6 +852,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-119](../record/theory.d/THEORY-119.md) — An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false *(Proposed)*
   - [THEORY-121](../record/theory.d/THEORY-121.md) — Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism *(Active)*
+
+### From Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory
+
+- [THEORY-1836](../record/theory.d/THEORY-1836.md) — Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory *(Active)*
+  - [THEORY-2001](../record/theory.d/THEORY-2001.md) — Meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively *(Proposed)*
 
 ## free-will
 
@@ -2740,3 +2745,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-1462](../record/theory.d/THEORY-1462.md) — Haushofer and Fehr hold that poverty causes stress and negative affect, and that these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it; they grant that the affect-to-choice link rests only on laboratory inductions, and that no nonlinearity strong enough to make a poverty trap has been shown *(Active)*
   - [THEORY-1539](../record/theory.d/THEORY-1539.md) — Poverty causes stress and negative affect, and these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it *(Proposed)*
+
+### From Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory
+
+- [THEORY-1836](../record/theory.d/THEORY-1836.md) — Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory *(Active)*
+  - [THEORY-2001](../record/theory.d/THEORY-2001.md) — Meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively *(Proposed)*

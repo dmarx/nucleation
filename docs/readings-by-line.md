@@ -17,8 +17,8 @@ that are Superseded or Rejected do not count. They are read off the
 relations when this page is built, so a reading gains or loses a line as
 the argument around it changes.
 
-Of 932 readings in force,
-800 serve at least one line and 132
+Of 933 readings in force,
+801 serve at least one line and 132
 serve none.
 
 | line | readings it uses |
@@ -40,7 +40,7 @@ serve none.
 | Readiness and slack | 15 |
 | Withdrawing transient support | 55 |
 | Resource-bounded realizability and individuation | 52 |
-| Flourishing and meaning in life | 0 |
+| Flourishing and meaning in life | 1 |
 
 ## Distributed agency
 
@@ -1050,6 +1050,10 @@ serve none.
 - [THEORY-1455](../record/theory.d/THEORY-1455.md): Shirt-Ediss, Torelli and colleagues report that, for four DNA origami designs each folded from three scaffold sequences with fully complementary staples under one protocol, the sequence that their energy model scored highest in off-target staple–scaffold, scaffold–scaffold, staple–staple and hairpin binding gave the fewest well-folded AFM objects in every design (0–20% against up to about 66–75%), and they attribute the loss to kinetic trapping and scaffold aggregation *(used by 1)*
 - [THEORY-1456](../record/theory.d/THEORY-1456.md): Rothemund shows that a 7-kilobase single-stranded scaffold routed through a shape, with about 200 unpurified staple strands in excess designed to bind only the scaffold, folds in one two-hour anneal from 95 °C to 20 °C into designed shapes about 100 nm across, with AFM-judged yields of well-formed structures from about 1% to 90% by design and at least 70% for rigid designs on circular scaffold; he proposes, without testing, that strand invasion, staple excess and cooperative staple binding account for this *(used by 1)*
 - [THEORY-1457](../record/theory.d/THEORY-1457.md): Majikes, Patrone, Kearsley, Zwolak and Liddle find, in a single-fold DNA origami model with a topology-reporting fluorophore and quencher, that the folded-state yield after annealing rises with staple excess to a turnover between about 1x and 5x and then falls, below 50 % at high excess for fold distances of 131, 1187 and 3407 bases, independent of staple motif at the one fold distance where motif was tested and, by the authors' report of a supplementary control, unchanged by a twofold slower anneal, as an equilibrium model predicts when each fold domain can be occupied by a separate staple, the blocked state, with folded over blocked equal to the fold's j-factor over the free staple concentration; they propose, without testing it, that whole origami escapes this through cooperativity and strand displacement along a nucleation front *(used by 2)*
+
+## Flourishing and meaning in life
+
+- [THEORY-1836](../record/theory.d/THEORY-1836.md): Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory *(used by 6)*
 
 ## Readings no line uses
 

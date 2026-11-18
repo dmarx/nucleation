@@ -65,7 +65,7 @@ history:
 - version: 6
   date: '2026-11-18'
   note: >-
-    Answers QUESTION-tmpsyjy0, the part of QUESTION-098 split off
+    Answers QUESTION-489, the part of QUESTION-098 split off
     under ADR-049 at the status review's ruling (the owner delegated
     these rulings): when a structure is worth filing, staleness set
     aside, under fixed known costs. It keeps bears_on QUESTION-098 for
@@ -91,7 +91,7 @@ summary: >-
   costs, and where reuse can be forecast an expected-reuse rule can do better,
   so [CLAIM-303](CLAIM-303.md)'s criterion survives there.
 answers:
-- QUESTION-tmpsyjy0
+- QUESTION-489
 bears_on:
 - QUESTION-098
 ---

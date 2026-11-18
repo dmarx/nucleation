@@ -1,5 +1,8 @@
 ---
+number: 753
 status: Proposed
+formerly:
+- CLAIM-tmpq1p1x
 title: 'A critique of produced wants cannot rest on how they were formed, by whatever process, without appeal to the worth of their objects or to their effects'
 version: 1
 role: thesis
@@ -32,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-047 — Proposed; the rival account this claim must answer, cited with its standing -->
 
-# CLAIM-tmpq1p1x: A critique of produced wants cannot rest on how they were formed, by whatever process, without appeal to the worth of their objects or to their effects
+# CLAIM-753: A critique of produced wants cannot rest on how they were formed, by whatever process, without appeal to the worth of their objects or to their effects
 
 ## The claim
 

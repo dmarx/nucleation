@@ -12,7 +12,7 @@ history:
     Split under ADR-049 at the status review's ruling (the owner delegated
     these rulings). The answered part, when a structure is worth filing
     with staleness set aside and costs fixed and known, is
-    QUESTION-tmpsyjy0, answered by CLAIM-303 and CLAIM-308. This question
+    QUESTION-489, answered by CLAIM-303 and CLAIM-308. This question
     narrows to the remainder. The old title was "When is an inferential
     structure worth filing: when does the reconstruction it is expected to
     save outweigh the cost of filing it, keeping it current and the risk of
@@ -57,7 +57,7 @@ when it fails in each direction.
 ## Note of 2026-11-18: split
 
 The part answered with staleness set aside, under fixed known costs, is
-[QUESTION-tmpsyjy0](QUESTION-tmpsyjy0.md): [CLAIM-303](../claims.d/CLAIM-303.md) answers it where reuse can be forecast and
+[QUESTION-489](QUESTION-489.md): [CLAIM-303](../claims.d/CLAIM-303.md) answers it where reuse can be forecast and
 [CLAIM-308](../claims.d/CLAIM-308.md) where it cannot. What stays open here is what the split child
 leaves out: how upkeep and the risk of stale reuse move the threshold, and
 when the second-occurrence rule files too early or too late ([CLAIM-630](../claims.d/CLAIM-630.md),

@@ -1,5 +1,8 @@
 ---
+number: 2001
 status: Proposed
+formerly:
+- THEORY-tmpggq28
 promote_when: >-
   The record holds an account of the standard by which an object is worthy
   of love that is neither radically subjective nor merely moral, read in
@@ -27,7 +30,7 @@ summary: >-
   needs and Wolf says she does not supply.
 ---
 
-# THEORY-tmpggq28: Meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively
+# THEORY-2001: Meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively
 
 ## The account
 
