@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0tg7y
 title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members'' own best responses feed the loop'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-16'
@@ -39,6 +39,13 @@ history:
     configuration needs, and the reconfigurations that would remove the
     shortfall pass out of reach while the present arrangement stays
     feasible. No change of status.
+- version: 6
+  date: '2026-11-18'
+  note: >-
+    The Admission gains a second route, the separating case found at
+    the interim synthesis review of 2026-11-17 for the continuation
+    filing's duplicate of this claim, carried over at the
+    reconciliation. No change of status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -89,6 +96,7 @@ summary: >-
   call.
 ---
 <!-- unresolved-ok-file: CLAIM-tmp0ogo4 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
+<!-- inactive-ok-file: SYNTHESIS-099 — Proposed; the part account whose audit found the second route -->
 <!-- inactive-ok-file: CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-679 CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
 <!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 — Proposed; the ratchet the claim uses and the record's nearest loops, cited with their standing -->
@@ -194,6 +202,19 @@ A33 §10A proposes the study: "Construct two institutions with identical
 obligations and equivalent present performance", one with reconfiguration
 slack and one with exactly enough to sustain the present configuration, and
 introduce a failure that needs a transition.
+
+**A second route, by a separating case** (the interim synthesis review of
+2026-11-17, [SYNTHESIS-099](../syntheses.d/SYNTHESIS-099.md), Arm A, carried over at the reconciliation
+of 2026-11-18). What the claim adds is that unpaid extra work keeping
+measured performance acceptable is invisible to a budget rule set on that
+performance, so the rule removes capacity in use; none of [CLAIM-577](CLAIM-577.md),
+[CLAIM-549](CLAIM-549.md) or [CLAIM-713](CLAIM-713.md) states it. The separating case: a hospital whose
+unpaid extra hours are logged and read by the budget rule as demand. Every
+premise holds, but the shortfall is not hidden from the rule, so no
+capacity in use is cut and the loop does not close. Read with "measured
+performance" as output measured against obligations, the case falls
+outside the claim, which is then separate from its premises and not shown
+false by it.
 
 ## What it does not say
 
