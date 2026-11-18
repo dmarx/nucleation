@@ -26,7 +26,7 @@ summary: >-
 ## Context
 
 `docs.yml` gives each pull request's runs one concurrency group, so that a
-newer push cancels the run it overtakes (ADR-054, amended 2026-10-27).
+newer push cancels the run it overtakes ([ADR-054](ADR-054.md), amended 2026-10-27).
 Every other run, including each push to the default branch, gets a group
 of its own. The workflow's comment gave the reason: "nothing on the
 default branch is cancelled or held back: a shared group would drop a
@@ -49,7 +49,7 @@ thing is a report about the workflow, not about the merges.
 - **Pushes to the default branch share one concurrency group,
   `docs-main`, with `cancel-in-progress` off.** A run that starts while
   another is in progress waits for it.
-- **Pull-request runs keep ADR-054's rule**: one group per branch, newer
+- **Pull-request runs keep [ADR-054](ADR-054.md)'s rule**: one group per branch, newer
   cancels older. Scheduled and manual runs keep a group of their own.
 - **The load-bearing detail: docs-generate checks out the branch
   (`ref: github.ref_name`), not the commit that triggered it.** GitHub
