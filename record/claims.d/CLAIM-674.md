@@ -70,7 +70,7 @@ summary: >-
   gives adopters. Interpretive. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-689 CLAIM-680 THEORY-1845 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-680 THEORY-1845 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: THEORY-1853 THEORY-1861 CLAIM-677 ARG-106 ARG-102 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — Skimmed; the excerpt of Tools for Conviviality -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->

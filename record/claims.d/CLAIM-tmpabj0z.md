@@ -21,11 +21,11 @@ grounds:
 - THEORY-1977
 summary: >-
   The objection the status review of 2026-11-18 found doing its work in
-  CLAIM-729's body and blocker note, filed as a field (README §2: a body
+  [CLAIM-729](CLAIM-729.md)'s body and blocker note, filed as a field (README §2: a body
   citation doing an objection's work goes in objects_to). Scanlon cites
   Rawls's natural duty, which requires us "to support and to comply with
-  just institutions that exist" (NOTE-2051, n. 41): one duty for the pair
-  CLAIM-729 says are distinct. Rawls is cited through Scanlon; A Theory of
+  just institutions that exist" ([NOTE-2051](../notes.d/NOTE-2051.md), n. 41): one duty for the pair
+  [CLAIM-729](CLAIM-729.md) says are distinct. Rawls is cited through Scanlon; A Theory of
   Justice is not read on the record.
 ---
 
@@ -33,22 +33,22 @@ summary: >-
 
 ## The objection
 
-CLAIM-729 holds that the duties to comply with a justified rule, to support
+[CLAIM-729](CLAIM-729.md) holds that the duties to comply with a justified rule, to support
 a justified institution and to help establish a needed one are distinct,
 and that none follows from another. Its body separates complying from
 establishing, and a community's reason to establish an institution from a
 member's duty to fund it. It gives no case separating complying from
 supporting.
 
-Rawls's natural duty, as Scanlon cites it (THEORY-1977, NOTE-2051, n. 41),
+Rawls's natural duty, as Scanlon cites it ([THEORY-1977](../theory.d/THEORY-1977.md), [NOTE-2051](../notes.d/NOTE-2051.md), n. 41),
 requires us "to support and to comply with just institutions that exist",
 and separately "to further just arrangements not yet established, at least
 when this can be done without too much cost to ourselves". That supports
-CLAIM-729's third duty as distinct, with a cost bound, but treats the first
+[CLAIM-729](CLAIM-729.md)'s third duty as distinct, with a cost bound, but treats the first
 two as one.
 
 ## What it does not say
 
-- Not that the two duties are one. The claim is that CLAIM-729 has not
+- Not that the two duties are one. The claim is that [CLAIM-729](CLAIM-729.md) has not
   shown them distinct.
 - Not anything about the third duty, which Rawls and Scanlon both separate.

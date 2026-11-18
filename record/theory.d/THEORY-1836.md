@@ -39,7 +39,7 @@ summary: >-
   objective attractiveness, with active engagement; no theory of the
   objective standard.
 ---
-<!-- inactive-ok-file: CLAIM-680 CLAIM-683 CLAIM-689 ARG-106 — filed from the exchange's Convivial Modernity programme, Proposed -->
+<!-- inactive-ok-file: CLAIM-680 CLAIM-683 ARG-106 — filed from the exchange's Convivial Modernity programme, Proposed -->
 <!-- inactive-ok-file: NOTE-1933 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
 # THEORY-1836: Wolf argues that meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively, so that neither fulfillment alone nor contribution alone suffices and the concept needs a standard of value that is not radically subjective, of which she offers no theory

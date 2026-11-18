@@ -57,8 +57,8 @@ when it fails in each direction.
 ## Note of 2026-11-18: split
 
 The part answered with staleness set aside, under fixed known costs, is
-QUESTION-tmpsyjy0: CLAIM-303 answers it where reuse can be forecast and
-CLAIM-308 where it cannot. What stays open here is what the split child
+[QUESTION-tmpsyjy0](QUESTION-tmpsyjy0.md): [CLAIM-303](../claims.d/CLAIM-303.md) answers it where reuse can be forecast and
+[CLAIM-308](../claims.d/CLAIM-308.md) where it cannot. What stays open here is what the split child
 leaves out: how upkeep and the risk of stale reuse move the threshold, and
-when the second-occurrence rule files too early or too late (CLAIM-630,
+when the second-occurrence rule files too early or too late ([CLAIM-630](../claims.d/CLAIM-630.md),
 Proposed, bears on the second).

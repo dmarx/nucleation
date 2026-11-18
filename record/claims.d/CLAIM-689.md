@@ -89,5 +89,5 @@ At the boundary [ADR-099](../decisions.d/ADR-099.md) draws. Whose a desire is, a
 The blocker note of this date found the title wider than its argument:
 "since every preference is socially formed" answers critiques by social
 origin as such, not accounts that discriminate by how a want was formed,
-such as THEORY-047's introjection. The title now says social origin as
-such, and the wider clause is CLAIM-tmpq1p1x, Proposed.
+such as [THEORY-047](../theory.d/THEORY-047.md)'s introjection. The title now says social origin as
+such, and the wider clause is [CLAIM-tmpq1p1x](CLAIM-tmpq1p1x.md), Proposed.

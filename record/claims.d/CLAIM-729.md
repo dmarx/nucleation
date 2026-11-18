@@ -124,4 +124,4 @@ comply with a justified rule from a duty to support the institution that
 administers it. Rawls's natural duty, which the corroborating reading
 [THEORY-1977](../theory.d/THEORY-1977.md) cites, joins those two as one duty "to support and to comply
 with just institutions that exist". Until a case or argument separates them,
-"none follows from another" is not carried for that pair. The objection is filed as CLAIM-tmpabj0z.
+"none follows from another" is not carried for that pair. The objection is filed as [CLAIM-tmpabj0z](CLAIM-tmpabj0z.md).
