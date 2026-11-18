@@ -2,7 +2,7 @@
 number: 26
 status: Proposed
 formerly:
-- SYNTHESIS-026
+- SYNTHESIS-tmp4xa7p
 title: 'Whether a learner''s demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network'
 version: 2
 history:

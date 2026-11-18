@@ -2,7 +2,7 @@
 number: 28
 status: Proposed
 formerly:
-- SYNTHESIS-028
+- SYNTHESIS-tmpexmgz
 title: 'Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record''s steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open'
 version: 2
 history:

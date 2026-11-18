@@ -2,7 +2,7 @@
 number: 29
 status: Proposed
 formerly:
-- SYNTHESIS-029
+- SYNTHESIS-tmpha4sq
 title: 'Optimal compressions at two budgets need not nest: for one four-state source both the deterministic and the stochastic information-bottleneck optima at two budgets are incomparable, so raising the budget can reorganize the optimum rather than refine it; nesting is settled under the top level and for two classes of source, and what guarantees it otherwise, and whether refinement, relevance and acquisition share one chain, is open'
 version: 2
 history:

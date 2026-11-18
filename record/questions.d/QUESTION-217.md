@@ -2,7 +2,7 @@
 number: 217
 status: Open
 formerly:
-- QUESTION-217
+- QUESTION-tmp8qovh
 title: 'When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?'
 version: 5
 history:
