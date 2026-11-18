@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CASE-tmp86zrj
 title: 'Orthogonal task updates can interact: for f_w(x) = (w·x)², the updates (1, 0) and (0, 1) from w = 0 are orthogonal, yet at x = (1, 1) their joint effect exceeds the sum of their separate effects by 2, the mixed second-order term that a model linearized at its base cannot have'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Note of 2026-11-18 added: Zhu, Li and Cai (2026), read, as an
+    empirical instance of composition that depends on the inputs. No other
+    change.
 standing: stipulated
 kind: construction
 tags:
@@ -60,3 +67,17 @@ through parameter angles.
 That a given merge fails. In models fine-tuned from one start, layerwise
 feature linearity often holds approximately ([THEORY-1890](../theory.d/THEORY-1890.md)), so the cross
 term can be small in practice.
+
+## Note of 2026-11-18: Zhu, Li and Cai (2026), read
+
+<!-- inactive-ok-file: THEORY-tmppa16d — new; the reading's account -->
+
+Zhu, Li and Cai ([LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md); [THEORY-tmppa16d](../theory.d/THEORY-tmppa16d.md)) find in
+merged LoRA task vectors what this construction shows in miniature: the
+same pair of updates is non-additive in output on code prompts and
+additive on math prompts, "Neither pair identity" "nor input distribution
+alone determines compositionality". At 0.5B a parameter-space clustering
+audit detects nothing where the functional contrast is intact, "which is
+the concrete sense in which parameter summaries" "under-determine
+functional composition". The pairs' absolute cosines are not reported, so
+the construction's premise, orthogonal updates, is not measured as such.

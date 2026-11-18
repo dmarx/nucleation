@@ -14,7 +14,14 @@ promote_when: >-
   by more than seed variation. A result about behaviour, collapse or
   accuracy would not settle it either way, since the title asserts none.
 title: 'In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.2 language models, the non-additive part of the activations at the final prompt token is mostly transport of what earlier blocks produced, amplified in late blocks and rebuilt downstream when erased early, and its causal effect on the non-additivity of the output distribution is set by its direction, not its norm'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-18'
+  note: >-
+    Note of 2026-11-18 added: the companion paper, Zhu, Li and Cai (2026),
+    read. It narrows the template finding to the training format and makes
+    the measured non-additivity input-indexed. No status change.
 tags:
 - representation-learning
 - loss-landscapes
@@ -109,3 +116,24 @@ Appendix A; v3 skimmed (abstract, introduction, Figure 1, §4.2, §6).
 - **Layerwise feature linearity in [QUESTION-318](../questions.d/QUESTION-318.md)'s sense.** The cosines of
   0.93–0.98 (§7) are cross-task linearity of a sum, read at one token, not
   [THEORY-111](THEORY-111.md)'s proportionality between interpolated features.
+
+## Note of 2026-11-18: Zhu, Li and Cai (2026), read
+
+<!-- inactive-ok-file: THEORY-tmppa16d — new; the companion's account -->
+
+The companion paper ([LIT-tmp5zjqc](../literature.d/LIT-tmp5zjqc.md), [NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md); [THEORY-tmppa16d](THEORY-tmppa16d.md))
+supplies the estimand this account uses and qualifies two things around
+its title, which it does not test:
+
+- **Which template.** "What it does not show" holds template suppression
+  for two-vector merges. The companion narrows it further. Only the
+  template the adapters were trained on collapses the contrast, "the
+  contrast collapses twenty-fold, from +6.9 to +0.3 points". An untrained
+  chat template leaves it at +12.5, "falsifying our preregistered
+  prediction that it too would" collapse. The gate is the training format,
+  not instruction templates as such, as [LIT-2629](../literature.d/LIT-2629.md)'s summary put it.
+- **Which inputs.** The output non-additivity this title speaks of is
+  input-indexed. At 1.5B the matched contrast is about +6.0 on code
+  prompts "and by +0.1 on math prompts, a null".
+
+Neither result bears on the transport, regrowth or direction findings.

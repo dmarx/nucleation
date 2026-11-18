@@ -1,0 +1,84 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-18 ([NOTE-tmpc922f](../notes.d/NOTE-tmpc922f.md)) from the arXiv preprint, v2 (31 Aug
+  2026; 12 pp. with appendix): the whole main text, the appendix and
+  Tables 1–9; the ancillary files (protocols, the negative results for
+  parameter and data-similarity predictors, the TIES-probe detail) were
+  not seen, and v1 was not read. Worth reading here as the source of the
+  estimand and the format result Zhu (2026), [LIT-2629](LIT-2629.md), builds on: merged
+  LoRA task vectors are non-additive in their first-token output on some
+  input families and not others, and the template the adapters were
+  trained on hides the contrast while an untrained chat template does not.
+title: 'When Do Task Vectors Interfere? Mapping the Validity Boundaries of Weight-Space Composition'
+version: 1
+history:
+- version: 1
+  date: '2026-11-18'
+  note: >-
+    Registered and read 2026-11-18 at the owner's word. Cited throughout
+    Zhu (2026), LIT-2629, as its companion; on 2026-11-15 the reader of
+    LIT-2629 read only its abstract, downloaded the full text, and listed
+    it as a filing candidate, which was not filed. Found unfiled when the
+    session's texts were added to the converted-texts archive. Not held
+    before: the record was searched for 2608.09490 and the title, which
+    occurred only in LIT-2629. Citation checked against the arXiv API (no
+    email sent): Chencheng Zhu, Xiaoyang Li and Taotao Cai,
+    arXiv:2608.09490, v1 submitted 2026-08-10, which is `published:`; v2
+    of 2026-08-31 is the copy read; no journal reference or DOI. Copy
+    from arxiv.org, text by pdftotext, two columns interleaved.
+tags:
+- representation-learning
+- loss-landscapes
+- anthology-candidate
+date: '2026-11-18'
+published: '2026-08-10'
+arxiv: '2608.09490'
+first_author: 'Zhu'
+keywords:
+- 'task arithmetic'
+- 'model merging'
+- 'LoRA'
+- 'functional interaction'
+- 'additive counterfactual'
+- 'prompt format'
+implementations: []
+summary: >-
+  Zhu, Li and Cai (2026). Merging two LoRA task vectors into Qwen2.5 and
+  Llama-3.1 models, they measure the non-additivity of the first-token
+  output distribution against an additive counterfactual in logit space,
+  normalised by displacement from the base. A matched contrast,
+  code+safety against code+math, is positive on code and instruction
+  prompts and null on math prompts: "Neither pair identity nor input
+  distribution alone determines compositionality." On the same code
+  prompts, the template the adapters were trained on collapses it "twenty-
+  fold, from +6.9 to +0.3 points", while an untrained chat template leaves
+  it at +12.5. Parameter-space summaries "under-determine functional
+  composition". It is the companion and source of estimand for Zhu (2026),
+  [LIT-2629](LIT-2629.md), and bears on [THEORY-1897](../theory.d/THEORY-1897.md) and [CASE-273](../cases.d/CASE-273.md).
+---
+<!-- inactive-ok-file: THEORY-1897 CASE-273 — Proposed; the entries this reading bears on -->
+
+# LIT-tmp5zjqc: When Do Task Vectors Interfere? Mapping the Validity Boundaries of Weight-Space Composition
+
+Zhu, C., Li, X., & Cai, T. (2026). When do task vectors interfere? Mapping
+the validity boundaries of weight-space composition. arXiv:2608.09490.
+
+## Key takeaways
+
+- Interference is indexed by input as well as task pair: the matched
+  contrast is about +6.0 on code prompts "and by +0.1 on math prompts, a
+  null" (Qwen2.5-1.5B, Table 1).
+- The training-format template hides it: "the contrast collapses
+  twenty-fold, from +6.9 to +0.3 points", and an untrained ChatML template
+  leaves it at +12.5, "falsifying our preregistered prediction that it too
+  would" collapse.
+- Parameter summaries miss it: at 0.5B a clustering audit "detects
+  nothing" while the functional contrast is intact.
+
+## Standing in the record
+
+The companion of Zhu (2026), [LIT-2629](LIT-2629.md), which takes its estimand and
+format result and supplies the mechanism ("a denominator effect in the
+readout"). It narrows what the record said of templates: the gate is the
+training format, not instruction templates as such.
