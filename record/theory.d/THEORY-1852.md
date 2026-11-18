@@ -27,7 +27,6 @@ summary: >-
   restore.
 ---
 <!-- inactive-ok-file: NOTE-1935 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
-<!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 
 # THEORY-1852: Sen argues that development should be evaluated as the expansion of the substantive freedoms people enjoy, not as growth of income, industrialization or technological advance, and that freedoms are both its primary ends and among its principal means because freedoms of different kinds strengthen one another
 

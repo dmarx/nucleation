@@ -97,7 +97,7 @@ summary: >-
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
-<!-- inactive-ok-file: CLAIM-686 CLAIM-682 CASE-261 — filed from or for the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
+<!-- inactive-ok-file: CLAIM-682 CASE-261 — filed from or for the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-249 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->

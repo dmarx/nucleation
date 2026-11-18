@@ -56,7 +56,7 @@ summary: >-
   contest and is not filed apart. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-632 TERM-124 TERM-086 CLAIM-686 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-632 TERM-124 TERM-086 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-724 TERM-130 — filed from the same exchange, Proposed or new -->
 
 # CLAIM-732: A protected objection is effective only if six achievements hold together, its becoming formulable, legible, taken up by an authorized channel, sustainable by the objector, corrected and maintained, so an objection can fail at any of them while its formal standing is unchanged, its chance of success is no greater than that of its weakest stage, and a reform that raises one stage's success can lower the whole

@@ -139,9 +139,9 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 
 ## Note of 2026-11-18: what holds it back
 
-Re-read at the status review of 2026-11-18 because CASE-075 was revised
+Re-read at the status review of 2026-11-18 because [CASE-075](../cases.d/CASE-075.md) was revised
 after the note of 2026-10-30. Its revision (version 2, 2026-11-12) wrote its
-existing remark that the case lies outside THEORY-068's conditions as
+existing remark that the case lies outside [THEORY-068](../theory.d/THEORY-068.md)'s conditions as
 draws_on and changed nothing it says: nobody has fitted its input logs with
 a drift process against a switching model. The Adler equation of the note of
 2026-11-07 is one more model, so "both occur" is still shown only in models,

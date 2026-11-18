@@ -65,7 +65,7 @@ summary: >-
   from the repository". The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-686 CLAIM-545 CLAIM-690 TERM-124 CLAIM-364 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-545 CLAIM-690 TERM-124 CLAIM-364 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-736: An opposition can be independent as an actor, in its leadership, aims and speech, while its capacity to change the arrangement it opposes depends on another party's control of its resources, standing, corrective authority or time; that controlled incapacity, and not incapacity or failure as such, is what makes a contained opposition a mark of domination
 

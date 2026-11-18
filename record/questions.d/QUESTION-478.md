@@ -34,8 +34,8 @@ summary: >-
   it. "And who may restrict it" is A45's refinement, added to the owner's
   wording because the record's answers so far all turn on it.
 ---
-<!-- inactive-ok-file: CLAIM-737 CLAIM-721 TERM-129 CLAIM-716 CLAIM-734 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-684 CLAIM-680 CLAIM-682 CLAIM-688 TERM-120 ARG-058 CLAIM-746 — Proposed; the record's nearest entries and a sibling filing, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-737 CLAIM-721 TERM-129 CLAIM-734 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-684 CLAIM-680 CLAIM-682 TERM-120 ARG-058 CLAIM-746 — Proposed; the record's nearest entries and a sibling filing, cited with their standing -->
 <!-- inactive-ok-file: TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
 
 # QUESTION-478: Under what conditions should a capability be restricted, and who may restrict it?

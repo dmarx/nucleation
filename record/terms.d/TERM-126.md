@@ -32,7 +32,7 @@ summary: >-
   mechanism side; the record has not read it. Proposed: adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-624 TERM-124 CLAIM-739 CLAIM-746 CLAIM-749 TERM-130 — Proposed or new; the entries that use the word, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-624 TERM-124 CLAIM-739 CLAIM-746 TERM-130 — Proposed or new; the entries that use the word, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the record's other use of "answerable", set aside -->
 
 # TERM-126: answerability, of an actor to a party concerning an action or governing power, under a declared standard, and which dimension: the normative relation in which the actor owes the party some form of answer, an account, reasons, responsiveness, an effective opportunity to contest, or judgment and redress; normative (whether it is owed), institutional (who may demand, assess and act on it), effective (whether it can become consequential) or maintained (whether it stays so); not the accountability mechanisms that realize it

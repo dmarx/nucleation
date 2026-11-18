@@ -63,9 +63,8 @@ summary: >-
   the name for the account. [CLAIM-464](CLAIM-464.md) holds the timing; the wrong of
   defeating a protected intervention was not held.
 ---
-<!-- inactive-ok-file: CLAIM-748 CLAIM-716 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-748 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-619 TERM-124 CASE-229 — Proposed; the record's nearest entries, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-718 — filed from the same exchange, Proposed or new -->
 
 # CLAIM-723: Acting before a recognized opportunity for intervention can take effect is a wrong of its own, apart from acting without consent: where a party has standing to authorize, suspend or contest an act, an actor who without adequate justification makes the act's consequences irreversible before that standing can be exercised defeats it, even where the objection would have failed
 

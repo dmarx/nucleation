@@ -25,7 +25,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2587 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: THEORY-434 — Proposed; cited with its standing -->
-<!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ARG-105 — filed with this reading, Proposed -->
 
 # THEORY-1850: Gardner argues that Sen's contrast between transcendental and comparative theories of justice is overdrawn, since ranking injustices needs a standard of justice from which departures are measured, and that Sen's preference for securing capabilities over achieved functionings as the object of public policy is asserted, not argued

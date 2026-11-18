@@ -66,8 +66,8 @@ summary: >-
   either from rights or obligations. The wording is A's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-725 CLAIM-743 CASE-282 — filed from the same exchange, Proposed or new -->
-<!-- inactive-ok-file: CLAIM-662 TERM-080 — Proposed; the record's nearest entries, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-743 CASE-282 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: TERM-080 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CLAIM-738: Rights, demands and commitments are distinct and none establishes another: a right does not depend on being demanded or on anyone's commitment to it, a demand's being asserted, maintained or recognized gives it no warrant, and a commitment is neither an obligation nor an authorization, while an obligation persists without commitment; each passage between them, a right generating a demand or a valid undertaking generating a right, needs its own warrant
 

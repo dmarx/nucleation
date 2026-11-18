@@ -114,7 +114,7 @@ border-threshold case (result 7) is settled by negotiating power,
 The step from jurisdiction over which contexts are relevant to a decision to
 authority over the cover on which a concept's uses must glue is asserted,
 not argued. The defeat condition's rival, that jurisdiction changes only
-which section is acted on, is what ARG-057's rejection left standing, and
-the variant of CASE-002 it sketches has not been built. The restatement
-objection the defeat condition names, that the claim only joins CLAIM-143
-and CLAIM-197, is not answered in the body.
+which section is acted on, is what [ARG-057](../arguments.d/ARG-057.md)'s rejection left standing, and
+the variant of [CASE-002](../cases.d/CASE-002.md) it sketches has not been built. The restatement
+objection the defeat condition names, that the claim only joins [CLAIM-143](CLAIM-143.md)
+and [CLAIM-197](CLAIM-197.md), is not answered in the body.

@@ -40,7 +40,7 @@ summary: >-
   A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-713 CLAIM-703 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
-<!-- inactive-ok-file: CLAIM-718 CLAIM-728 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-728 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-264 TERM-123 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CASE-288: Three hospitals with the same output, budget, staff competences and commitments, differing only in how extra work is obtained: negotiated cooperation, a competition for scarce advancement that all entrants pay for, and an appeal to professional duty; the second and third both make withholding labour individually costly while the institution takes the benefit, by incentive in one and by conscience in the other

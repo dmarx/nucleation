@@ -31,7 +31,7 @@ summary: >-
   not rest on it, on the independence of normative positions. The wording
   is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-722 CLAIM-738 — Proposed or new; the reading and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-722 — Proposed or new; the reading and the claims it bears on -->
 
 # THEORY-1984: Hohfeld proposes that the word right in judicial reasoning covers several distinct legal relations, which reduce to eight fundamental conceptions, claim and duty, privilege and no-right, power and liability, immunity and disability, each with a correlative held by another party and an opposite, and that a legal power, volitional control over a change in legal relations, is distinct from the physical power to perform the acts that exercise it and from the privilege of performing them
 

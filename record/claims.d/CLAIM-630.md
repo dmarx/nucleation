@@ -56,7 +56,7 @@ summary: >-
   [CLAIM-177](CLAIM-177.md) is Active. The derivation is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-084 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 CLAIM-303 CLAIM-308 SYNTHESIS-016 — Proposed; premises, citations and the account that integrates this claim -->
+<!-- inactive-ok-file: ADR-075 ADR-084 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 CLAIM-303 SYNTHESIS-016 — Proposed; premises, citations and the account that integrates this claim -->
 
 # CLAIM-630: Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them
 

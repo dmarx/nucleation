@@ -27,7 +27,7 @@ summary: >-
 bears_on:
 - QUESTION-114
 ---
-<!-- inactive-ok-file: CLAIM-303 CLAIM-308 — Proposed; claims this account bears on, not leaned on -->
+<!-- inactive-ok-file: CLAIM-303 — Proposed; claims this account bears on, not leaned on -->
 
 # THEORY-378: When items change as independent Poisson processes with known rates and a fixed total refresh rate is shared among them, refreshing every item equally keeps the copy at least as fresh and at most as old, averaged over time, as refreshing in proportion to change rate, for any spread of rates; the freshness-optimal share rises and then falls with change rate and gives nothing to items that change too fast for the budget
 

@@ -45,7 +45,7 @@ summary: >-
   Filed on 2026-11-13 from the items the first filing left. The wording
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-680 CLAIM-676 THEORY-1845 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-680 THEORY-1845 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
 # CLAIM-681: How much of a person's time is taken by activities they cannot reasonably refuse limits what they can viably pursue apart from their income and rights, so that two people with the same resources can differ in substantive freedom by their time, and productivity gains taken wholly as output can leave that freedom unchanged or smaller; the contrast that matters is between time committed to demanding activity and time surrendered to necessity, not between work and leisure
 
@@ -111,4 +111,4 @@ use it. The two futures illustrate; they do not argue.
 
 ## Note of 2026-11-18: what holds it back
 
-The body carries the limit that time under necessity puts on what a person can viably reach, by CLAIM-352, and that productivity gains taken wholly as output leave it unchanged; it gives no mechanism for the title's "or smaller", which is A's assertion. A mechanism, such as intensified or less predictable hours, or a narrowing of the clause to "unchanged", is what is missing.
+The body carries the limit that time under necessity puts on what a person can viably reach, by [CLAIM-352](CLAIM-352.md), and that productivity gains taken wholly as output leave it unchanged; it gives no mechanism for the title's "or smaller", which is A's assertion. A mechanism, such as intensified or less predictable hours, or a narrowing of the clause to "unchanged", is what is missing.

@@ -66,7 +66,7 @@ draws_on:
 - THEORY-1421
 - THEORY-1410
 ---
-<!-- inactive-ok-file: CASE-233 ADR-096 — Proposed; the construction this case alters, and the decision that filed it -->
+<!-- inactive-ok-file: ADR-096 — Proposed; the construction this case alters, and the decision that filed it -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 

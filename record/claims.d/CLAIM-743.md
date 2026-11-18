@@ -51,8 +51,7 @@ summary: >-
   valid power, and only so. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-662 — Proposed; the record's nearest entry on the recognized demand set -->
-<!-- inactive-ok-file: CLAIM-738 CLAIM-722 CLAIM-720 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-722 CLAIM-720 — filed from the same exchange, Proposed -->
 
 # CLAIM-743: A demand owed to a party can cease to apply legitimately only by the exercise of a valid normative power over it, the holder's release or waiver or an authorized revision, which changes the reference set against which relief is judged; an institution's ceasing to count it changes only the set it recognizes, so what separates a valid release from suppression is whether a valid power was exercised, and by whom
 

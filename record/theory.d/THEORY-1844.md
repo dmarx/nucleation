@@ -24,7 +24,7 @@ summary: >-
   judgment. A stand-in for [LIT-2608](../literature.d/LIT-2608.md); corroborates [CLAIM-675](../claims.d/CLAIM-675.md) and
   [CLAIM-677](../claims.d/CLAIM-677.md).
 ---
-<!-- inactive-ok-file: CLAIM-675 CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2608 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
 # THEORY-1844: Crawford argues that skilled manual work is cognitively demanding and a ground of agency, and that work is degraded cognitively, by moving judgment out of the job into management or a system so that skilled workers can be replaced by cheaper ones, a method competition spreads across an industry and expert systems now carry into office work

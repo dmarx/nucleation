@@ -34,7 +34,7 @@ summary: >-
   checked on filing against case reporting; the scope of closure and the
   motive are the owner's characterization, recorded as such.
 ---
-<!-- inactive-ok-file: CLAIM-725 CLAIM-745 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
+<!-- inactive-ok-file: CLAIM-745 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 
 # CASE-289: The 2026 immigrant-visa pause for nationals of 75 countries and its vacatur: a State Department policy of January 2026 directed consular officers not to issue immigrant visas to nationals of 75 countries where no other ground of ineligibility applied, and on 2026-08-21 the Southern District of New York set it aside as contrary to law and beyond the Secretary of State's statutory authority, with the refusals based solely on it
 

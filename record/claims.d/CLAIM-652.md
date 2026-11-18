@@ -59,7 +59,7 @@ summary: >-
   is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-657 — Proposed; filed from the same exchange -->
-<!-- inactive-ok-file: CLAIM-655 CLAIM-662 CASE-246 ARG-092 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
+<!-- inactive-ok-file: CLAIM-655 CASE-246 ARG-092 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-614 CLAIM-624 — Proposed; the active counter-corrective route and the owner's counter-normativity -->
 
 # CLAIM-652: An organization that weighs a harmful practice by the failures its present users report can expand the practice with no act against complaint: as the harmed leave, the recognized cost of the practice falls with their share, so the score favours more of it, and the failures it records grow more slowly than the harm it does

@@ -38,7 +38,7 @@ summary: >-
   record's use of it. Proposed because the reading is A's and the work
   unread.
 ---
-<!-- inactive-ok-file: CLAIM-744 CLAIM-718 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-744 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-232 CLAIM-364 — Proposed; the record's nearest entries, cited with their standing -->
 
 # CASE-281: The marshmallow task under a reliable and an unreliable experimenter: children who had seen an adult break a promise waited about a quarter as long, so the same refusal to wait can be impulsivity or sound judgment about the adult, and the same waiting can be self-government or obedience

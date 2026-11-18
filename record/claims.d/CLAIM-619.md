@@ -96,7 +96,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1901 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1824 — Proposed, filed 2026-11-12 -->
-<!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-118 CLAIM-614 — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: LIT-1311 — Proposed or Unavailable; cited with their standing -->
 

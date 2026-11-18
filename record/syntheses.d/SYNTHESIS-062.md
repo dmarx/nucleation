@@ -68,7 +68,7 @@ summary: >-
   learned-structure lines. The account adds nothing of its own; its
   standing is its components'.
 ---
-<!-- inactive-ok-file: CLAIM-052 CLAIM-127 CLAIM-336 CLAIM-337 CLAIM-338 CLAIM-620 CLAIM-621 CLAIM-622 CLAIM-151 CLAIM-009 CLAIM-005 CLAIM-091 CLAIM-117 CLAIM-037 CLAIM-220 CLAIM-298 CLAIM-286 CLAIM-615 CLAIM-627 CLAIM-541 CLAIM-445 CLAIM-447 ARG-065 CASE-222 CASE-226 CASE-230 TERM-098 SYNTHESIS-025 SYNTHESIS-036 SYNTHESIS-041 ADR-075 ADR-084 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-052 CLAIM-127 CLAIM-336 CLAIM-337 CLAIM-338 CLAIM-620 CLAIM-621 CLAIM-151 CLAIM-009 CLAIM-005 CLAIM-091 CLAIM-117 CLAIM-037 CLAIM-220 CLAIM-298 CLAIM-286 CLAIM-615 CLAIM-627 CLAIM-541 CLAIM-445 CLAIM-447 ARG-065 CASE-222 CASE-226 CASE-230 TERM-098 SYNTHESIS-025 SYNTHESIS-036 SYNTHESIS-041 ADR-075 ADR-084 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-073 ARG-002 ARG-012 — Rejected; components kept as the history the part answers -->
 <!-- inactive-ok-file: CLAIM-109 SYNTHESIS-011 SYNTHESIS-005 — Superseded; cited as history, not integrated -->
 <!-- inactive-ok-file: QUESTION-296 — Answered; a component, the part of QUESTION-030 that CLAIM-130 settles -->

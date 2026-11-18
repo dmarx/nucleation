@@ -228,6 +228,6 @@ not loss.
 
 ## Note of 2026-11-18: what holds it back
 
-Rechecked after CASE-131's revision of 2026-11-07, line bookkeeping only.
+Rechecked after [CASE-131](../cases.d/CASE-131.md)'s revision of 2026-11-07, line bookkeeping only.
 Its own test is still unmet: no move that mattered in an exchange is
 recorded that the record still cannot hold, or holds only by distorting it.

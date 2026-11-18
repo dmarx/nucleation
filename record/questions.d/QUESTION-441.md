@@ -59,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1824 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1736 — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: CASE-247 CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the owner's thesis and A's answers -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form -->
 

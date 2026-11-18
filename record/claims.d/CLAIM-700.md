@@ -112,7 +112,7 @@ summary: >-
 <!-- unresolved-ok-file: CLAIM-tmp0ogo4 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: SYNTHESIS-099 — Proposed; the part account whose audit found the second route -->
 <!-- inactive-ok-file: CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-679 CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
 <!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 — Proposed; the ratchet the claim uses and the record's nearest loops, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 

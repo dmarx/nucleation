@@ -24,7 +24,6 @@ summary: >-
   A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-737 CLAIM-721 — filed from the same exchange, Proposed or new -->
-<!-- inactive-ok-file: CLAIM-678 — Proposed; the record's nearest entry, cited with its standing -->
 
 # TERM-129: capability, decomposed for restriction: competence (the skill, knowledge, equipment or capacity to act), exercise (whether the act can be performed here and now), authority (who is entitled to decide whether it proceeds) and governance (who can set and revise the relations fixing the other three), which vary independently, so that a restriction on one is not a restriction on another
 

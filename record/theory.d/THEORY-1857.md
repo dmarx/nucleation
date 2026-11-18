@@ -25,7 +25,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2591 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: LIT-2599 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unfetched -->
-<!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 
 # THEORY-1857: Adewuyi reports Vallor as holding that AI systems mirror past human data and can change human character, that reliance on algorithmic decision produces moral deskilling, a loss of the capacity for moral reasoning, and that the remedy is collective self-renewal guided by practical wisdom
 

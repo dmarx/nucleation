@@ -255,7 +255,6 @@ A51 §7 then separates "**Temporal integration:** The agent can coordinate prese
 No status changes.
 
 ## Note of 2026-11-17: fidelity to reasons, from "Assess Depp Heard Abuse"
-<!-- inactive-ok-file: CLAIM-738 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed -->
 
 A95 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b, 2026-11-17): "**Commitment fidelity should not always mean invariance of conduct. It can mean appropriate fidelity to the reasons that justified the commitment.**" A97 V separates commitment to a rule from commitment to the reasons justifying it, with the quota example (new evidence shows the agreed extraction will damage the aquifer), and concludes "**An organization may honor its governing commitments by revising them, provided the revision remains faithful to the obligations and authority that justified them.**"
 

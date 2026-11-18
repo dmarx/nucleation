@@ -72,7 +72,7 @@ summary: >-
   are not held or read. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-716 CLAIM-722 CLAIM-723 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CLAIM-722 CLAIM-723 — filed from the same exchange, Proposed or new -->
 
 # CLAIM-734: Where an entitlement is protected by a requirement of its holder's consent, an irreversible act against it leaves the holder in practice only a claim to compensation, so the actor has changed by its own act the rule by which the entitlement is allocated, from consent to liability, and not only what is paid for it
 

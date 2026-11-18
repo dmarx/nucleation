@@ -61,7 +61,6 @@ corroborates:
 - CLAIM-675
 ---
 <!-- inactive-ok-file: THEORY-1847 — filed from the stand-ins of 2026-11-13, Proposed -->
-<!-- inactive-ok-file: CLAIM-675 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1551 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
 

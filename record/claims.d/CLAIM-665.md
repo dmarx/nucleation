@@ -89,5 +89,5 @@ without touching the interaction.
 ## Note of 2026-11-18: what holds it back
 
 An empirical prediction with no evidence in the record. The study that would
-test it is CASE-253's secondary estimand on tasks where no schema change is
+test it is [CASE-253](../cases.d/CASE-253.md)'s secondary estimand on tasks where no schema change is
 warranted, a proposed design that has not been run.

@@ -125,4 +125,4 @@ No status changes.
 
 ## Note of 2026-11-18: what holds it back
 
-Cook (THEORY-1998) corroborates the first half, that prevention leaves little trace while its lapse is seen. Nothing in the record shows an organization credited with outcomes its members' compensation produced, so the second half, credit and blame by different principles, rests on A's illustration of the ward alone; a case or reading that traces the credit for a compensated outcome is what is missing.
+Cook ([THEORY-1998](../theory.d/THEORY-1998.md)) corroborates the first half, that prevention leaves little trace while its lapse is seen. Nothing in the record shows an organization credited with outcomes its members' compensation produced, so the second half, credit and blame by different principles, rests on A's illustration of the ward alone; a case or reading that traces the credit for a compensated outcome is what is missing.

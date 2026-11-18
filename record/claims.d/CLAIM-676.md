@@ -63,7 +63,7 @@ summary: >-
   is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-680 — Proposed; cited with its standing -->
-<!-- inactive-ok-file: THEORY-1847 THEORY-1856 THEORY-1861 CLAIM-675 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
+<!-- inactive-ok-file: THEORY-1847 THEORY-1856 THEORY-1861 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's claim on division of labour, cited with its standing -->
 
 # CLAIM-676: Two forms of assistance that deliver the same outcome can leave the person different participation in worthwhile activity, by removing drudgery, by opening an activity of worth to them, or by displacing participation they have reason to value, so assistance, a technology's above all, is assessed by the participation it enables or displaces as well as by its outcomes

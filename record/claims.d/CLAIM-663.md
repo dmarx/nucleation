@@ -50,7 +50,7 @@ summary: >-
   qualifications, argued in [ARG-093](../arguments.d/ARG-093.md). A44's extensions are
   [CLAIM-662](CLAIM-662.md) and [CASE-249](../cases.d/CASE-249.md).
 ---
-<!-- inactive-ok-file: THEORY-1703 ARG-093 CLAIM-662 CASE-249 — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-1703 ARG-093 CASE-249 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed; the tolerance-indexed complex the owner's "tolerance regions" names -->
 
 # CLAIM-663: The distinctions of the PASS@(k,T) analysis are the record's distinctions of resource-bounded realization: its capability boundary is reachability by a given process under a budget, its efficiency is reliable attainment, and its interaction depth is a resource index, so whether an intervention expands what an organization can do or only makes it more reliable is the record's question of reachable against reliably reached

@@ -87,7 +87,6 @@ summary: >-
   reader's. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-662 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: TERM-104 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- ref::uses-file: TERM-094 — a perspective's activation, which "can be quiet while its requirement is unmet and active while it is met", is TERM-094's action readiness, a preparation for action and not a representation of a desirable state -->
