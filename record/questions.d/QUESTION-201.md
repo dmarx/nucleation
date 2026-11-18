@@ -61,7 +61,7 @@ What would not answer it: another simulation at N = 30 or 100, the sizes
 
 ## Note of 2026-11-15: a lead from Ramsauer et al.
 
-Ramsauer et al. ([LIT-tmpxroua](../literature.d/LIT-tmpxroua.md), §1) cite, from other authors, the large-N capacity of the Hebbian Hopfield network:
+Ramsauer et al. ([LIT-2651](../literature.d/LIT-2651.md), §1) cite, from other authors, the large-N capacity of the Hebbian Hopfield network:
 
 - Cd/log(d) random patterns for error-free recall, C < 1/2 for a fixed stable pattern and C < 1/4 if all patterns are stable (McEliece et al. 1987);
 - "allowing small retrieval errors, the storage capacity is about 0.138d", citing Crisanti et al. 1986, Hertz et al. 1991 and Torres et al. 2002.

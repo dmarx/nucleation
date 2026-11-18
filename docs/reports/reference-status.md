@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**924 documents cited without acknowledgement.** Not listed: 29058 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**927 documents cited without acknowledgement.** Not listed: 29490 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-1142 citations in 829 files await a look; 50 other citations of it are acknowledged.
+1143 citations in 830 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-165.md:50`](../../record/cases.d/CASE-165.md)
 - [`record/cases.d/CASE-206.md:26`](../../record/cases.d/CASE-206.md)
@@ -610,6 +610,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-187.md:25`](../../record/theory.d/THEORY-187.md)
 - [`record/theory.d/THEORY-187.md:158`](../../record/theory.d/THEORY-187.md)
 - [`record/theory.d/THEORY-187.md:187`](../../record/theory.d/THEORY-187.md)
+- [`record/theory.d/THEORY-1871.md:23`](../../record/theory.d/THEORY-1871.md)
 - [`record/theory.d/THEORY-189.md:13`](../../record/theory.d/THEORY-189.md)
 - [`record/theory.d/THEORY-189.md:125`](../../record/theory.d/THEORY-189.md)
 - [`record/theory.d/THEORY-190.md:13`](../../record/theory.d/THEORY-190.md)
@@ -733,7 +734,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-278.md:192`](../../record/theory.d/THEORY-278.md)
 - [`record/theory.d/THEORY-280.md:13`](../../record/theory.d/THEORY-280.md)
 - [`record/theory.d/THEORY-281.md:13`](../../record/theory.d/THEORY-281.md)
-- [`record/theory.d/THEORY-281.md:114`](../../record/theory.d/THEORY-281.md)
+- [`record/theory.d/THEORY-281.md:122`](../../record/theory.d/THEORY-281.md)
 - [`record/theory.d/THEORY-282.md:13`](../../record/theory.d/THEORY-282.md)
 - [`record/theory.d/THEORY-282.md:144`](../../record/theory.d/THEORY-282.md)
 - [`record/theory.d/THEORY-283.md:14`](../../record/theory.d/THEORY-283.md)
@@ -3007,7 +3008,7 @@ Relata stand to relations as realizations stand to specifications: what an entit
 - [`record/questions.d/QUESTION-361.md:46`](../../record/questions.d/QUESTION-361.md)
 - [`record/syntheses.d/SYNTHESIS-012.md:142`](../../record/syntheses.d/SYNTHESIS-012.md)
 - [`record/terms.d/TERM-088.md:126`](../../record/terms.d/TERM-088.md)
-- [`record/terms.d/TERM-090.md:95`](../../record/terms.d/TERM-090.md)
+- [`record/terms.d/TERM-090.md:104`](../../record/terms.d/TERM-090.md)
 - [`record/theory.d/THEORY-1071.md:12`](../../record/theory.d/THEORY-1071.md)
 - [`record/theory.d/THEORY-1076.md:12`](../../record/theory.d/THEORY-1076.md)
 - [`record/theory.d/THEORY-1083.md:13`](../../record/theory.d/THEORY-1083.md)
@@ -4290,7 +4291,7 @@ Preference reversal is not yet disunity: interests that govern a choice at disjo
 - [`record/decisions.d/ADR-040.md:255`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:260`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-077.md:61`](../../record/questions.d/QUESTION-077.md)
-- [`record/questions.d/QUESTION-130.md:101`](../../record/questions.d/QUESTION-130.md)
+- [`record/questions.d/QUESTION-130.md:109`](../../record/questions.d/QUESTION-130.md)
 - [`record/terms.d/TERM-061.md:63`](../../record/terms.d/TERM-061.md)
 - [`record/theory.d/THEORY-067.md:221`](../../record/theory.d/THEORY-067.md)
 - [`record/theory.d/THEORY-067.md:222`](../../record/theory.d/THEORY-067.md)
@@ -4624,7 +4625,7 @@ In the coupled meaning–authority model, is authority's effect on what becomes 
 - [`record/claims.d/CLAIM-400.md:133`](../../record/claims.d/CLAIM-400.md)
 - [`record/claims.d/CLAIM-400.md:155`](../../record/claims.d/CLAIM-400.md)
 - [`record/literature.d/LIT-1321.md:45`](../../record/literature.d/LIT-1321.md)
-- [`record/terms.d/TERM-064.md:247`](../../record/terms.d/TERM-064.md)
+- [`record/terms.d/TERM-064.md:256`](../../record/terms.d/TERM-064.md)
 
 ### [SYNTHESIS-026](../../record/syntheses.d/SYNTHESIS-026.md) — Proposed
 
@@ -6677,7 +6678,7 @@ Experience is constituted by interpretive organization, not produced by it: an a
 
 A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
 
-5 citations in 4 files await a look; 45 other citations of it are acknowledged.
+5 citations in 4 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1698.md:219`](../../record/notes.d/NOTE-1698.md)
 - [`record/terms.d/TERM-088.md:34`](../../record/terms.d/TERM-088.md)
@@ -7252,7 +7253,7 @@ Drift is retrieval failure outside a critical distance: a restatement close enou
 
 Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
-4 citations in 4 files await a look; 34 other citations of it are acknowledged.
+4 citations in 4 files await a look; 50 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:14`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:24`](../syntheses/role/thesis.md)
@@ -7510,7 +7511,7 @@ Computational Functionalism for the Deep Learning Era
 - [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
 - [`record/notes.d/NOTE-106.md:129`](../../record/notes.d/NOTE-106.md)
 - [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
-- [`record/notes.d/NOTE-242.md:168`](../../record/notes.d/NOTE-242.md)
+- [`record/notes.d/NOTE-242.md:177`](../../record/notes.d/NOTE-242.md)
 
 ### [LIT-1648](../../record/literature.d/LIT-1648.md) — Unavailable
 
@@ -7758,7 +7759,7 @@ moral standing: being owed moral consideration directly, for one's own sake, and
 
 The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
-4 citations in 3 files await a look; 28 other citations of it are acknowledged.
+4 citations in 3 files await a look; 33 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -7813,7 +7814,7 @@ The top C eigenvalues of a trained C-class classifier's Fisher are carried by th
 
 Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same
 
-4 citations in 3 files await a look; 12 other citations of it are acknowledged.
+4 citations in 3 files await a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-163.md:87`](../../record/claims.d/CLAIM-163.md)
 - [`record/questions.d/QUESTION-042.md:19`](../../record/questions.d/QUESTION-042.md)
@@ -7830,6 +7831,17 @@ A deficit in which consciousness and a capacity are lost together does not show 
 - [`record/questions.d/QUESTION-048.md:49`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:54`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:92`](../../record/questions.d/QUESTION-048.md)
+
+### [THEORY-1011](../../record/theory.d/THEORY-1011.md) — Rejected
+
+In autoregressive transformer language models, factual associations are stored in middle-layer MLP modules as linear key–value memories: the MLP takes a key encoding the subject at its last token and returns a value encoding its attributes, which late attention moves to the prediction, and any middle layer could store a given fact equally, as Meng, Bau, Andonian and Belinkov propose
+
+4 citations in 4 files await a look; 48 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1952.md:137`](../../record/notes.d/NOTE-1952.md)
+- [`record/notes.d/NOTE-1971.md:105`](../../record/notes.d/NOTE-1971.md)
+- [`record/notes.d/NOTE-1988.md:166`](../../record/notes.d/NOTE-1988.md)
+- [`record/theory.d/THEORY-1884.md:76`](../../record/theory.d/THEORY-1884.md)
 
 ### [THEORY-1097](../../record/theory.d/THEORY-1097.md) — Proposed
 
@@ -7978,7 +7990,7 @@ Hermeneutical injustice is having a significant area of one's social experience 
 
 Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
 
-4 citations in 4 files await a look; 2 other citations of it are acknowledged.
+4 citations in 4 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-095.md:244`](../../record/questions.d/QUESTION-095.md)
 - [`record/theory.d/THEORY-342.md:131`](../../record/theory.d/THEORY-342.md)
@@ -8440,6 +8452,16 @@ Internal conflict is the gap between the precedence a motive claims over action 
 - [`record/notes.d/NOTE-1486.md:154`](../../record/notes.d/NOTE-1486.md)
 - [`record/theory.d/THEORY-1280.md:112`](../../record/theory.d/THEORY-1280.md)
 
+### [CLAIM-498](../../record/claims.d/CLAIM-498.md) — Proposed
+
+Averaging weights within a basin averages features: the network whose weights are the average of several networks in one low-loss basin has, in every layer, the average of their features
+
+3 citations in 3 files await a look; 15 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1965.md:88`](../../record/notes.d/NOTE-1965.md)
+- [`record/notes.d/NOTE-1978.md:99`](../../record/notes.d/NOTE-1978.md)
+- [`record/notes.d/NOTE-1993.md:112`](../../record/notes.d/NOTE-1993.md)
+
 ### [CLAIM-511](../../record/claims.d/CLAIM-511.md) — Proposed
 
 A self-maintaining organization ought to preserve its corrigibility
@@ -8787,8 +8809,8 @@ If a map of a representation X of finite support keeps no information about a ca
 3 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-010.md:14`](../../record/questions.d/QUESTION-010.md)
-- [`record/questions.d/QUESTION-010.md:27`](../../record/questions.d/QUESTION-010.md)
-- [`record/questions.d/QUESTION-010.md:79`](../../record/questions.d/QUESTION-010.md)
+- [`record/questions.d/QUESTION-010.md:42`](../../record/questions.d/QUESTION-010.md)
+- [`record/questions.d/QUESTION-010.md:94`](../../record/questions.d/QUESTION-010.md)
 
 ### [QUESTION-251](../../record/questions.d/QUESTION-251.md) — Answered
 
@@ -9500,7 +9522,7 @@ If a willed agent is the jurisdiction of its will-organization, then governing o
 
 An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers' access and incentives
 
-2 citations in 2 files await a look; 83 other citations of it are acknowledged.
+2 citations in 2 files await a look; 87 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-406.md:229`](../../record/claims.d/CLAIM-406.md)
 - [`record/decisions.d/ADR-085.md:115`](../../record/decisions.d/ADR-085.md)
@@ -9971,7 +9993,7 @@ Sparse Distributed Memory
 2 citations in 1 file await a look; 22 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-242.md:33`](../../record/notes.d/NOTE-242.md)
-- [`record/notes.d/NOTE-242.md:215`](../../record/notes.d/NOTE-242.md)
+- [`record/notes.d/NOTE-242.md:224`](../../record/notes.d/NOTE-242.md)
 
 ### [NOTE-1035](../../record/notes.d/NOTE-1035.md) — Skimmed
 
@@ -9980,7 +10002,7 @@ Hyzen, Van den Bulck, Puppis, Kulig and Paulussen — Epistemic welfare and algo
 2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-403.md:153`](../../record/claims.d/CLAIM-403.md)
-- [`record/terms.d/TERM-064.md:187`](../../record/terms.d/TERM-064.md)
+- [`record/terms.d/TERM-064.md:196`](../../record/terms.d/TERM-064.md)
 
 ### [NOTE-1454](../../record/notes.d/NOTE-1454.md) — Skimmed
 
@@ -10234,6 +10256,15 @@ organizational slack: resources an organization holds beyond what its current ou
 - [`record/claims.d/CLAIM-579.md:88`](../../record/claims.d/CLAIM-579.md)
 - [`record/decisions.d/ADR-087.md:65`](../../record/decisions.d/ADR-087.md)
 
+### [TERM-118](../../record/terms.d/TERM-118.md) — Proposed
+
+disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked
+
+2 citations in 2 files await a look; 36 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-089.md:68`](../../record/decisions.d/ADR-089.md)
+- [`record/literature.d/LIT-2615.md:89`](../../record/literature.d/LIT-2615.md)
+
 ### [THEORY-045](../../record/theory.d/THEORY-045.md) — Proposed
 
 Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
@@ -10391,7 +10422,7 @@ A neural correlate of conscious report does not require laminar cortex: in crows
 
 Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls
 
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:26`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:44`](../../record/questions.d/QUESTION-051.md)
@@ -10409,7 +10440,7 @@ In random-features ridge regression the double-descent peak is a divergence of t
 
 Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 57 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-069.md:17`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:38`](../../record/questions.d/QUESTION-069.md)
@@ -10674,15 +10705,6 @@ The classical theorems on sufficient statistics need only the copy/discard struc
 
 - [`record/questions.d/QUESTION-065.md:20`](../../record/questions.d/QUESTION-065.md)
 - [`record/questions.d/QUESTION-065.md:38`](../../record/questions.d/QUESTION-065.md)
-
-### [THEORY-199](../../record/theory.d/THEORY-199.md) — Proposed
-
-In data generated by a random hierarchical grammar, the Bayes-optimal denoiser recovers the top-level class only below a threshold noise, which becomes sharp as the tree deepens and exists only when the grammar uses a small enough fraction of possible tuples (branching times that fraction below one), while low-level features degrade smoothly with noise and so survive past the threshold
-
-2 citations in 1 file await a look; 21 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-010.md:71`](../../record/questions.d/QUESTION-010.md)
-- [`record/questions.d/QUESTION-010.md:81`](../../record/questions.d/QUESTION-010.md)
 
 ### [THEORY-200](../../record/theory.d/THEORY-200.md) — Proposed
 
@@ -11213,6 +11235,14 @@ A correspondence fitted from two structures' internal similarities alone is iden
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-1156.md:12`](../../record/theory.d/THEORY-1156.md)
+
+### [CLAIM-697](../../record/claims.d/CLAIM-697.md) — Proposed
+
+A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs
+
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-275.md:65`](../../record/cases.d/CASE-275.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -12166,14 +12196,6 @@ coverage, and which sense: deterministic coverage that treats a covering unit as
 
 - [`record/decisions.d/ADR-087.md:65`](../../record/decisions.d/ADR-087.md)
 
-### [TERM-118](../../record/terms.d/TERM-118.md) — Proposed
-
-disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked
-
-1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-089.md:68`](../../record/decisions.d/ADR-089.md)
-
 ### [THEORY-001](../../record/theory.d/THEORY-001.md) — Proposed
 
 On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio
@@ -12221,6 +12243,14 @@ Diachronic self-governance is constituted by cross-temporal links of intention t
 1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-080.md:49`](../../record/terms.d/TERM-080.md)
+
+### [THEORY-1030](../../record/theory.d/THEORY-1030.md) — Proposed
+
+In transformer language models, each hidden unit of a feed-forward layer acts as a key–value memory, its input weights detecting patterns in the prefix and its output weights promoting the tokens that follow them, and a layer's output composes many such memories while the residual stream refines the prediction from layer to layer, as Geva, Schuster, Berant and Levy propose
+
+1 citation in 1 file awaits a look; 24 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1971.md:105`](../../record/notes.d/NOTE-1971.md)
 
 ### [THEORY-1052](../../record/theory.d/THEORY-1052.md) — Proposed
 
@@ -12282,7 +12312,7 @@ Poincaré embeddings of one hierarchy from different random seeds differ by more
 
 Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed
 
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:87`](../../record/claims.d/CLAIM-187.md)
 

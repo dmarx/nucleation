@@ -20,7 +20,7 @@ history:
     Note of 2026-11-15 added: phase-coded memory, Plate's holographic
     reduced representations, holographic embeddings and angle-multiplexed
     volume holography as models of keyed retrieval from a superposed store,
-    with CASE-tmp6214r. An address need not be a location; keyed readout is
+    with CASE-271. An address need not be a location; keyed readout is
     noisy until a clean-up memory makes it exact. An analogy, not evidence
     about records. No status change.
 role: thesis
@@ -105,11 +105,11 @@ begin to supply.
 
 ## Note of 2026-11-15: keyed retrieval from superposed storage, an analogy
 
-<!-- inactive-ok-file: THEORY-tmp713mr THEORY-tmpc3mjh CASE-tmp6214r — Proposed; the readings and the case of 2026-11-15, cited as analogies, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-1876 THEORY-1882 CASE-271 — Proposed; the readings and the case of 2026-11-15, cited as analogies, nothing here rests on them -->
 
-CLAIM-182's distinction between keeping content and being able to address it has exact computational and physical models. Three readings of 2026-11-15 give them: Plate's holographic reduced representations ([LIT-tmpq18t6](../literature.d/LIT-tmpq18t6.md), [THEORY-tmp713mr](../theory.d/THEORY-tmp713mr.md)), holographic embeddings ([LIT-tmp7xp5z](../literature.d/LIT-tmp7xp5z.md)) and angle-multiplexed volume holography ([LIT-tmp3d5f9](../literature.d/LIT-tmp3d5f9.md), [THEORY-tmpc3mjh](../theory.d/THEORY-tmpc3mjh.md)). A phase-coded memory is another. In each, many contents are kept superposed in one medium, with nothing spatially separate, and each is still recovered part by part through a key: a cue vector, a relation vector or a reference angle, retrieving by correlation with cross-talk from the rest. The key's selectivity comes from the reader or the medium (dimension, or thickness through Bragg selectivity), not from where the content sits. An address there is a relation between a cue and the stored pattern, not a location. That would sharpen "What it does not say": an address need not be a location.
+CLAIM-182's distinction between keeping content and being able to address it has exact computational and physical models. Three readings of 2026-11-15 give them: Plate's holographic reduced representations ([LIT-2644](../literature.d/LIT-2644.md), [THEORY-1876](../theory.d/THEORY-1876.md)), holographic embeddings ([LIT-2624](../literature.d/LIT-2624.md)) and angle-multiplexed volume holography ([LIT-2618](../literature.d/LIT-2618.md), [THEORY-1882](../theory.d/THEORY-1882.md)). A phase-coded memory is another. In each, many contents are kept superposed in one medium, with nothing spatially separate, and each is still recovered part by part through a key: a cue vector, a relation vector or a reference angle, retrieving by correlation with cross-talk from the rest. The key's selectivity comes from the reader or the medium (dimension, or thickness through Bragg selectivity), not from where the content sits. An address there is a relation between a cue and the stored pattern, not a location. That would sharpen "What it does not say": an address need not be a location.
 
-[CASE-tmp6214r](../cases.d/CASE-tmp6214r.md) shows three further things:
+[CASE-271](../cases.d/CASE-271.md) shows three further things:
 - the same association can be retained but unaddressed under one cue and addressed under another;
 - readdressing, suppression and deletion look the same at a single query;
 - a designed extra query restores what a suppressed readout hid.
