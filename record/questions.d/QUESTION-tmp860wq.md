@@ -12,7 +12,7 @@ line:
 - distributed-agency
 summary: >-
   Raised at the synthesis review of 2026-11-18 (realizability), when
-  CLAIM-532 was given its "Admission". The separating case found for it,
+  [CLAIM-532](../claims.d/CLAIM-532.md) was given its "Admission". The separating case found for it,
   an agent whose capacity to transform only reweights which of its
   processes govern, is the case its own defeated_if names, and no entry
   rules on whether the record counts it as self-formation. Filed at the
@@ -24,23 +24,23 @@ summary: >-
 
 ## Why it is a question
 
-CLAIM-532 says what self-formation produces: a maintained new distinction
+[CLAIM-532](../claims.d/CLAIM-532.md) says what self-formation produces: a maintained new distinction
 or new channel that outlasts the discrepancy that induced it and serves a
 class of later ones. It leaves out a lasting change in precedence among
 regimes the agent already has. Its `defeated_if` names that omission as
 what would make it too narrow, "a case the record would count as
 self-formation in which no new distinction or channel is produced, only a
-reweighting of existing regimes (TERM-023's precedence)".
+reweighting of existing regimes ([TERM-023](../terms.d/TERM-023.md)'s precedence)".
 
 The entries it rests on do not settle whether the record counts it:
 
-- **TERM-023** lists precedence among the efficacy relations and
+- **[TERM-023](../terms.d/TERM-023.md)** lists precedence among the efficacy relations and
   transformation among the meta-regulatory ones, as separate dimensions,
   and does not define transformation.
-- **CLAIM-025** speaks of "the capacity to transform that organization",
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** speaks of "the capacity to transform that organization",
   and a lasting change in precedence is arguably a change in the
   governing organization.
-- **TERM-023's note of 2026-11-01** takes Metzinger's ability "to
+- **[TERM-023](../terms.d/TERM-023.md)'s note of 2026-11-01** takes Metzinger's ability "to
   actively sculpt its own internal affordance landscape" as
   transformation, a phrase that could cover reweighting.
 
@@ -53,12 +53,12 @@ else. Nothing new is perceived or done.
 
 - **If the new precedence depends on circumstance**, so that one regime
   wins in some situations and the other in others, the agent must now tell
-  those situations apart. That is a new distinction, and CLAIM-532 covers
+  those situations apart. That is a new distinction, and [CLAIM-532](../claims.d/CLAIM-532.md) covers
   it.
 - **If it is uniform**, so that one regime always wins, the conflict is not
-  relieved in CLAIM-347's sense: the jointly satisfiable sets do not grow,
-  and one demand is given up. CLAIM-532's body already sets its products
-  apart as "relief in CLAIM-347's sense, not suppression".
+  relieved in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense: the jointly satisfiable sets do not grow,
+  and one demand is given up. [CLAIM-532](../claims.d/CLAIM-532.md)'s body already sets its products
+  apart as "relief in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, not suppression".
 
 On this split only the uniform case remains, and the question becomes
 whether settling a conflict by a self-made priority is self-formation.
@@ -66,12 +66,12 @@ The split is the assistant's and is not held by any entry.
 
 ## What would answer it
 
-A ruling on whether TERM-023's transformation dimension includes a
+A ruling on whether [TERM-023](../terms.d/TERM-023.md)'s transformation dimension includes a
 maintained precedence ordering the agent produced itself. Then:
 
-- **If it does not**, CLAIM-532 stands, and its `defeated_if` clause can be
+- **If it does not**, [CLAIM-532](../claims.d/CLAIM-532.md) stands, and its `defeated_if` clause can be
   narrowed to say so.
-- **If it does**, CLAIM-532 is too narrow under its own `defeated_if`, and
+- **If it does**, [CLAIM-532](../claims.d/CLAIM-532.md) is too narrow under its own `defeated_if`, and
   a revision would add a third product, a maintained self-produced
   ordering, held to the same tests of outlasting the discrepancy, carrying
   within its class and not being installed from outside.

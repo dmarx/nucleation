@@ -89,7 +89,7 @@ summary: >-
   chains, discrepancy to discrimination to response to maintained
   capacity to revised governance, are not a sequence ([CLAIM-474](CLAIM-474.md)).
 ---
-<!-- inactive-ok-file: ADR-075 QUESTION-tmp860wq — Proposed; the decision the Admission section follows -->
+<!-- inactive-ok-file: ADR-075 — Proposed; the decision the Admission section follows -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
@@ -177,7 +177,7 @@ its curation entry and left there as a follow-up.
   of this claim's `defeated_if`. It separates the claim from its premises
   if the record does not count such reweighting as self-formation, and it
   defeats the claim as too narrow if the record does. No entry rules on
-  which; QUESTION-tmp860wq asks it.
+  which; [QUESTION-tmp860wq](../questions.d/QUESTION-tmp860wq.md) asks it.
 
 ## What it does not say
 
