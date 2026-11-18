@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 124 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 125 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -257,3 +257,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-115](../record/arguments.d/ARG-115.md) — Keller's teachers case does not instance the claim that a party can arrange another's real wrong and use the true accusation against them: in Keller the teachers do no wrong and the publicity the official anticipates is a smear *(Proposed, source)*
 - [CLAIM-728](../record/claims.d/CLAIM-728.md) — In an incomplete contract the party holding residual rights of control decides the contingencies the contract did not cover, so a relationship fair in every specified term can still leave one party's terms at the other's discretion, and that discretion is exercised, and seen, only when an uncovered contingency arises *(Proposed, thesis)*
   - [ARG-116](../record/arguments.d/ARG-116.md) — Grossman and Hart carry the definition of residual rights of control, and not the claim that their holder decides an uncovered contingency alone or that the control is exercised and seen only when the contingency arises: in their model the parties renegotiate, and the allocation acts in advance through investment *(Proposed, source)*
+- [CLAIM-751](../record/claims.d/CLAIM-751.md) — The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator's distraction to her company's safety culture and the state's oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source *(Proposed, thesis)*
+  - [ARG-118](../record/arguments.d/ARG-118.md) — The NTSB's Tempe investigation, barred from assigning blame or liability, still traced the operator's distraction to the company and the state and directed its recommendations to them, which shows that upstream provenance can be carried without blame *(Proposed, existence)*

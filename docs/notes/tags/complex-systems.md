@@ -4,7 +4,7 @@
 
 **complex-systems**.
 
-222 of 2079 NOTE documents. Back to the [full index](../README.md).
+223 of 2083 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -230,3 +230,4 @@
 | [NOTE-1976](../../../record/notes.d/NOTE-1976.md) | Di Volo and Férézou — Nonlinear collision between propagating waves in mouse S1 | The main result: in anaesthetised mouse barrel cortex, two whisker-evoked waves launched 10 ms apart sum sub-linearly, about 30% below the linear sum at peak, as a heterogeneous E/I mean-field model predicted from the lower gain of already-active populations. The waves are excitable fronts at about 0.1 mm/ms, anisotropic in intensity, not speed. | Read |
 | [NOTE-1984](../../../record/notes.d/NOTE-1984.md) | Gepshtein et al. — Spatially distributed computation in cortical circuits | A chain of coupled Wilson–Cowan E/I motifs answers a point input with a standing, spatially damped neural wave of intrinsic period. Linear interference of these waves sets SF and TF preference and gives lateral modulation at the intrinsic period. It predicts, and MT data show, preferred TF varying nonmonotonically with SF. The waves do not propagate, and contrast effects need the nonlinear regime. | Read |
 | [NOTE-1992](../../../record/notes.d/NOTE-1992.md) | Zhang et al. — Static topological solitons in mechanical metamaterials | Compressed past a critical strain, the cells of a perforated elastomer buckle into two mirror rotations. Ordered domain walls between them are the static kink–antikink lattice of the λφ⁴ equation, with net charge zero, pinned by a lattice barrier. These are φ⁴ kinks, not Kane–Lubensky polarization. They exist only while the compression holds the double well. | Read |
+| [NOTE-2083](../../../record/notes.d/NOTE-2083.md) | Cook — How Complex Systems Fail | Eighteen theses on failure in hazardous systems. Accidents need several latent failures joined, so "there is no isolated 'cause'", and root-cause attribution answers "the social, cultural need to blame specific, localized forces or events". Organizations leave the trade between production and risk ambiguous, often intentionally, and the sharp end resolves it; hindsight then calls the result error. Systems run degraded because people keep them working, a defending role outsiders see only after accidents. | Read |

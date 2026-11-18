@@ -1,5 +1,8 @@
 ---
+number: 750
 status: Proposed
+formerly:
+- CLAIM-tmp5g7xc
 title: 'Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body''s own decisions, and the review keeps upstream provenance only when its tracing crosses that body''s authority'
 version: 1
 role: thesis
@@ -28,7 +31,7 @@ bears_on:
 - QUESTION-476
 complements:
 - CLAIM-707
-- CLAIM-tmpx4kjt
+- CLAIM-751
 summary: >-
   The lead filer's (Claude, in this session), proposed on 2026-11-18 in
   answer to the owner's request to consider blameless culture in
@@ -38,17 +41,17 @@ summary: >-
   stops at "the system", the upstream controllers of [CLAIM-707](CLAIM-707.md) drop out as
   well; its contributing causes and action items should stop at or below
   the authority of the body that commissions it. The proposed study is
-  [CASE-tmpw9202](../cases.d/CASE-tmpw9202.md). No reading tests it: the SRE chapter's design fits its
+  [CASE-293](../cases.d/CASE-293.md). No reading tests it: the SRE chapter's design fits its
   premise (internal review, senior management taking part, no team
   indicted), and Dekker and Nyce argue its mechanism for hospitals. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-707 CASE-292 — Proposed; filed from the exchange "Assess Depp Heard Abuse" and its readings, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpx4kjt CASE-tmpw9202 THEORY-tmpuc245 THEORY-tmpfomub THEORY-tmpl5x2t — new; filed with this claim -->
+<!-- inactive-ok-file: CLAIM-751 CASE-293 THEORY-2000 THEORY-1997 THEORY-1998 — new; filed with this claim -->
 <!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 
-# CLAIM-tmp5g7xc: Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body's own decisions, and the review keeps upstream provenance only when its tracing crosses that body's authority
+# CLAIM-750: Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body's own decisions, and the review keeps upstream provenance only when its tracing crosses that body's authority
 
 ## The claim
 
@@ -56,7 +59,7 @@ Blameless review was built against one failure: blame settling on the
 person nearest the event, the moral crumple zone of [CLAIM-707](CLAIM-707.md). It answers
 by moving the account from people to "systems and processes": "You can't
 "fix" people, but you can fix systems and processes" (the SRE chapter,
-[THEORY-tmpuc245](../theory.d/THEORY-tmpuc245.md)). But "the system" is not an agent. A trace that ends there
+[THEORY-2000](../theory.d/THEORY-2000.md)). But "the system" is not an agent. A trace that ends there
 names no decision, and so no one who made one. The operator is shielded,
 and so are those who set the budget, the staffing level, the deadline and
 the priority that the operator worked within: [CLAIM-707](CLAIM-707.md)'s upstream
@@ -73,7 +76,7 @@ decision of the reviewers' own management is awkward to write under that
 norm and harder to turn into an action item that the reviewing team can
 own. Dekker and Nyce argue the general point for hospitals: what counts as
 a just response "depends on where one is located in the organization ...
-and who gets to say" ([THEORY-tmpfomub](../theory.d/THEORY-tmpfomub.md)).
+and who gets to say" ([THEORY-1997](../theory.d/THEORY-1997.md)).
 
 **The prediction.** In postmortems commissioned and governed inside the
 organization, the highest organizational level named among contributing
@@ -82,7 +85,7 @@ action items will cluster at or below the reviewing team's authority.
 Independent investigators will name and target higher levels more often.
 The Tempe report fits that half: the NTSB, outside the companies and
 agencies it investigates, named Uber's culture and Arizona's oversight and
-addressed its recommendations to them ([CASE-292](../cases.d/CASE-292.md), [CLAIM-tmpx4kjt](CLAIM-tmpx4kjt.md)).
+addressed its recommendations to them ([CASE-292](../cases.d/CASE-292.md), [CLAIM-751](CLAIM-751.md)).
 
 **The conditional answer to [QUESTION-476](../questions.d/QUESTION-476.md).** Blameless practice keeps
 upstream provenance only when its tracing crosses the authority of the
@@ -97,20 +100,20 @@ claim settles it: at the commissioning body's authority. The outcome
 against it is the defeater: internal reviews whose causes and action items
 reach above the team as often as independent ones do. It does not restate
 [CLAIM-707](CLAIM-707.md), which concerns where blame lands when it is assigned; this
-concerns where the trace stops when blame is not. [CASE-tmpw9202](../cases.d/CASE-tmpw9202.md) is the
+concerns where the trace stops when blame is not. [CASE-293](../cases.d/CASE-293.md) is the
 proposed study.
 
 ## Where it sits
 
-- **[CLAIM-tmpx4kjt](CLAIM-tmpx4kjt.md)** complements it: an investigator outside the
+- **[CLAIM-751](CLAIM-751.md)** complements it: an investigator outside the
   organization can carry provenance upstream without blame. This claim
   says when one inside cannot.
 - **[CLAIM-707](CLAIM-707.md)** complements it: blame where blame is practised, the trace
   where it is withheld.
-- **Cook** ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md), point 11): organizations leave the trade
+- **Cook** ([THEORY-1998](../theory.d/THEORY-1998.md), point 11): organizations leave the trade
   between production and risk ambiguous, "often intentionally". Those are
   the decisions the trace would have to reach.
-- **Dekker and Nyce** ([THEORY-tmpfomub](../theory.d/THEORY-tmpfomub.md)) corroborate the mechanism, not the
+- **Dekker and Nyce** ([THEORY-1997](../theory.d/THEORY-1997.md)) corroborate the mechanism, not the
   prediction. Their case is the opposite failure, [QUESTION-476](../questions.d/QUESTION-476.md)'s third
   answer: a just-culture scheme that relocates blame by rank. Both say the
   hierarchy that governs the review shapes what it finds.

@@ -1,5 +1,8 @@
 ---
+number: 1998
 status: Proposed
+formerly:
+- THEORY-tmpl5x2t
 promote_when: >-
   A reading of Cook's text, or of a later statement of it by Cook,
   confirms that it holds that accidents in complex systems have multiple
@@ -16,14 +19,14 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpkbkg1
+- LIT-2783
 bears_on:
 - QUESTION-476
 corroborates:
 - CLAIM-707
 - CLAIM-702
 summary: >-
-  Cook (1998; Revision D, 2000), [LIT-tmpkbkg1](../literature.d/LIT-tmpkbkg1.md), read in [NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md).
+  Cook (1998; Revision D, 2000), [LIT-2783](../literature.d/LIT-2783.md), read in [NOTE-2083](../notes.d/NOTE-2083.md).
   The safety-science view blameless review rests on. It corroborates
   [CLAIM-707](../claims.d/CLAIM-707.md)'s control-and-duty part (point 11, the sharp end resolves the
   organization's ambiguity) and [CLAIM-702](../claims.d/CLAIM-702.md)'s visibility half (points 5, 9
@@ -34,9 +37,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-707 CLAIM-702 — Proposed; the claims this corroborates -->
 
-# THEORY-tmpl5x2t: Cook holds that accidents in complex systems have several contributors and no isolable root cause, that attributing them to one reflects a social need to blame localized forces, that organizations leave the trade-off between production and risk ambiguous for practitioners at the sharp end to resolve, and that the practitioners' continuous defence against failure is seen chiefly after it lapses
+# THEORY-1998: Cook holds that accidents in complex systems have several contributors and no isolable root cause, that attributing them to one reflects a social need to blame localized forces, that organizations leave the trade-off between production and risk ambiguous for practitioners at the sharp end to resolve, and that the practitioners' continuous defence against failure is seen chiefly after it lapses
 
-Cook (1998; Revision D, 2000), [LIT-tmpkbkg1](../literature.d/LIT-tmpkbkg1.md), read in [NOTE-tmpwlrcc](../notes.d/NOTE-tmpwlrcc.md).
+Cook (1998; Revision D, 2000), [LIT-2783](../literature.d/LIT-2783.md), read in [NOTE-2083](../notes.d/NOTE-2083.md).
 
 ## The account
 

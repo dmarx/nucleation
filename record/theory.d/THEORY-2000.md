@@ -1,5 +1,8 @@
 ---
+number: 2000
 status: Proposed
+formerly:
+- THEORY-tmpuc245
 promote_when: >-
   A reading of the chapter, or of Google's later SRE workbook on the same
   practice, confirms that a blameless postmortem is to identify the
@@ -14,13 +17,13 @@ tags:
 - society-and-governance
 date: '2026-11-18'
 source:
-- LIT-tmpo6c2h
+- LIT-2784
 bears_on:
 - QUESTION-476
 corroborates:
 - CLAIM-742
 summary: >-
-  Lunney and Lueder (2016), [LIT-tmpo6c2h](../literature.d/LIT-tmpo6c2h.md), read in [NOTE-tmpu2cx9](../notes.d/NOTE-tmpu2cx9.md). The
+  Lunney and Lueder (2016), [LIT-2784](../literature.d/LIT-2784.md), read in [NOTE-2082](../notes.d/NOTE-2082.md). The
   practice the owner's [QUESTION-476](../questions.d/QUESTION-476.md) asks about, in its practitioners'
   words: correction kept, blame withheld, on the ground of disclosure. It
   corroborates [CLAIM-742](../claims.d/CLAIM-742.md) as a documented practice that keeps correction
@@ -30,9 +33,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-742 — Proposed; the claim this corroborates -->
 
-# THEORY-tmpuc245: Lunney and Lueder state Google's blameless postmortem as a review that records an incident's contributing causes and the follow-up actions to prevent recurrence without indicting any individual or team, on the ground that blame keeps people from bringing issues to light, so that correction is aimed at systems and processes rather than at people
+# THEORY-2000: Lunney and Lueder state Google's blameless postmortem as a review that records an incident's contributing causes and the follow-up actions to prevent recurrence without indicting any individual or team, on the ground that blame keeps people from bringing issues to light, so that correction is aimed at systems and processes rather than at people
 
-Lunney and Lueder (2016), [LIT-tmpo6c2h](../literature.d/LIT-tmpo6c2h.md), read in [NOTE-tmpu2cx9](../notes.d/NOTE-tmpu2cx9.md).
+Lunney and Lueder (2016), [LIT-2784](../literature.d/LIT-2784.md), read in [NOTE-2082](../notes.d/NOTE-2082.md).
 
 ## The account
 

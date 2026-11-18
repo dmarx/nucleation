@@ -6,8 +6,8 @@
 
 **Software engineering** — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
 
-0 of 292 CASE documents. Back to the [full index](../README.md).
+1 of 293 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-293](../../../record/cases.d/CASE-293.md) | A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team's authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it | The lead filer's (Claude, in this session), proposed on 2026-11-18 with [CLAIM-750](../../../record/claims.d/CLAIM-750.md), whose prediction it would test, and accepted for filing by the owner ("all of the above please"). Code a corpus of postmortems for two things: the highest organizational level any contributing cause names, and whether any action item targets a decision above the reviewing team's authority. Compare internal blameless reviews with independent investigations such as the NTSB's. Its units, contributing causes and action items, are the postmortem format the SRE chapter describes. Not run. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

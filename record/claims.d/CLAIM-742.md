@@ -22,7 +22,7 @@ history:
   date: '2026-11-18'
   note: >-
     A dated note added: the SRE chapter on postmortem culture
-    (LIT-tmpo6c2h) read, corroborates. No change of status or title.
+    (LIT-2784) read, corroborates. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -210,8 +210,8 @@ The claim corrects A110's attribution of attributability, answerability and acco
 No status changes.
 
 ## Note of 2026-11-18: Google's blameless postmortem, read: correction kept, blame withheld, by rule
-<!-- inactive-ok-file: THEORY-tmpuc245 — new; the reading filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-2000 — new; the reading filed on 2026-11-18 -->
 
-Lunney and Lueder 2016, the SRE chapter "Postmortem Culture", read ([THEORY-tmpuc245](../theory.d/THEORY-tmpuc245.md), corroborates). An organization's codified practice keeps correction, "effective preventive actions", while withholding blame: a postmortem "must focus on identifying the contributing causes of the incident without indicting any individual or team", and "Writing a postmortem is not punishment". The ground it gives is disclosure, not the agent's innocence: under blame "people will not bring issues to light for fear of punishment". That is a practice in which the grounds of correction are explicitly not the grounds of blame. It corroborates the claim as a practice that exists; it is not evidence that correction so grounded works.
+Lunney and Lueder 2016, the SRE chapter "Postmortem Culture", read ([THEORY-2000](../theory.d/THEORY-2000.md), corroborates). An organization's codified practice keeps correction, "effective preventive actions", while withholding blame: a postmortem "must focus on identifying the contributing causes of the incident without indicting any individual or team", and "Writing a postmortem is not punishment". The ground it gives is disclosure, not the agent's innocence: under blame "people will not bring issues to light for fear of punishment". That is a practice in which the grounds of correction are explicitly not the grounds of blame. It corroborates the claim as a practice that exists; it is not evidence that correction so grounded works.
 
 No status changes.

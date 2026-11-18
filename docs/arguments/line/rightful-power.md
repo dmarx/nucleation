@@ -6,8 +6,8 @@
 
 **Rightful power: restriction, answerability and rights** — what makes power over others' capabilities rightful and keeps it so — when a capability should be restricted and by whom, where legitimacy and adequacy come from, when answerability is owed and to whom, which rights no institution creates or extinguishes, how remedies can be foreclosed before review, and accountability for correction without blame; the argument filed from the exchange "Assess Depp Heard Abuse", carried beside dependence-and-domination and organizational-normativity, which its entries keep (the decision adding this line).
 
-0 of 117 ARG documents. Back to the [full index](../README.md).
+1 of 118 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-118](../../../record/arguments.d/ARG-118.md) | The NTSB's Tempe investigation, barred from assigning blame or liability, still traced the operator's distraction to the company and the state and directed its recommendations to them, which shows that upstream provenance can be carried without blame | The support for the lead filer's claim that provenance can be carried without blame, filed on 2026-11-18 in answer to the owner's request to consider blameless culture. Load-bearing: the claim's only specimen is the Tempe case. An existence proof needs a documented instance that separates the two things the claim says come apart, here an upstream causal trace and the assignment of blame; both critical questions are answered, the second with a qualification about evaluative language. Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

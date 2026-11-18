@@ -1,5 +1,8 @@
 ---
+number: 293
 status: Proposed
+formerly:
+- CASE-tmpw9202
 title: 'A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team''s authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it'
 version: 1
 standing: stipulated
@@ -11,14 +14,14 @@ date: '2026-11-18'
 line:
 - rightful-power
 illustrates:
-- CLAIM-tmp5g7xc
+- CLAIM-750
 bears_on:
 - QUESTION-476
 draws_on:
-- THEORY-tmpuc245
+- THEORY-2000
 summary: >-
   The lead filer's (Claude, in this session), proposed on 2026-11-18 with
-  [CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md), whose prediction it would test, and accepted for filing
+  [CLAIM-750](../claims.d/CLAIM-750.md), whose prediction it would test, and accepted for filing
   by the owner ("all of the above please"). Code a corpus of postmortems
   for two things: the highest organizational level any contributing cause
   names, and whether any action item targets a decision above the
@@ -28,10 +31,10 @@ summary: >-
   describes. Not run. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp5g7xc — new; the claim the study would test and the reading whose format it uses -->
+<!-- inactive-ok-file: CLAIM-750 — new; the claim the study would test and the reading whose format it uses -->
 <!-- inactive-ok-file: CASE-292 CLAIM-719 — Proposed; the entries the study bears on, cited with their standing -->
 
-# CASE-tmpw9202: A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team's authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it
+# CASE-293: A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team's authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it
 
 ## The study
 
@@ -53,7 +56,7 @@ given access, its internal postmortems of the same incidents.
 3. **Commissioning body.** Who commissioned and reviewed the postmortem,
    and the highest level of its authority.
 
-**The test** ([CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md)). The claim predicts that in internal reviews
+**The test** ([CLAIM-750](../claims.d/CLAIM-750.md)). The claim predicts that in internal reviews
 the highest level named rarely exceeds the commissioning body's authority,
 that action items cluster at or below the reviewing team's, and that "the
 system" without a named decision is common; and that independent

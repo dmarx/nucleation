@@ -1,5 +1,8 @@
 ---
+number: 1997
 status: Proposed
+formerly:
+- THEORY-tmpfomub
 promote_when: >-
   A reading of the paper, or of Dekker's book Just Culture, confirms that
   Dekker holds that classifying an error as forgivable or culpable is not
@@ -14,25 +17,25 @@ tags:
 - ethics
 date: '2026-11-18'
 source:
-- LIT-tmpxqwjm
+- LIT-2786
 bears_on:
 - QUESTION-476
 corroborates:
-- CLAIM-tmp5g7xc
+- CLAIM-750
 summary: >-
-  Dekker and Nyce (2013), [LIT-tmpxqwjm](../literature.d/LIT-tmpxqwjm.md), read in [NOTE-tmp0gu2z](../notes.d/NOTE-tmp0gu2z.md), as the
-  neighbour of Dekker (2007), [LIT-tmpfucfe](../literature.d/LIT-tmpfucfe.md). It bears on [QUESTION-476](../questions.d/QUESTION-476.md)'s
+  Dekker and Nyce (2013), [LIT-2786](../literature.d/LIT-2786.md), read in [NOTE-2080](../notes.d/NOTE-2080.md), as the
+  neighbour of Dekker (2007), [LIT-2781](../literature.d/LIT-2781.md). It bears on [QUESTION-476](../questions.d/QUESTION-476.md)'s
   third answer, that "blameless" in practice relocates blame, and
-  corroborates the mechanism of [CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md), that whoever governs a
+  corroborates the mechanism of [CLAIM-750](../claims.d/CLAIM-750.md), that whoever governs a
   review shapes what it finds, for hospitals. The wording is the filer's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp5g7xc — new; the reading and the claim this corroborates -->
-<!-- inactive-ok-file: LIT-tmpfucfe — Unavailable; the book this stands in for -->
+<!-- inactive-ok-file: CLAIM-750 — new; the reading and the claim this corroborates -->
+<!-- inactive-ok-file: LIT-2781 — Unavailable; the book this stands in for -->
 
-# THEORY-tmpfomub: Dekker and Nyce argue that a just-culture scheme that sorts errors into honest mistakes, at-risk behaviour and recklessness treats culpability as an objective fact, when whether a response is just depends on where one stands in the organization's hierarchy and who gets to say, so that the scheme can carry blame along lines of power
+# THEORY-1997: Dekker and Nyce argue that a just-culture scheme that sorts errors into honest mistakes, at-risk behaviour and recklessness treats culpability as an objective fact, when whether a response is just depends on where one stands in the organization's hierarchy and who gets to say, so that the scheme can carry blame along lines of power
 
-Dekker and Nyce (2013), [LIT-tmpxqwjm](../literature.d/LIT-tmpxqwjm.md), read in [NOTE-tmp0gu2z](../notes.d/NOTE-tmp0gu2z.md).
+Dekker and Nyce (2013), [LIT-2786](../literature.d/LIT-2786.md), read in [NOTE-2080](../notes.d/NOTE-2080.md).
 
 ## The account
 
@@ -49,7 +52,7 @@ others" (p. 75).
 
 - **[QUESTION-476](../questions.d/QUESTION-476.md)**: bears on its third answer. A scheme presented as just
   can relocate blame by rank.
-- **[CLAIM-tmp5g7xc](../claims.d/CLAIM-tmp5g7xc.md)**: corroborates its mechanism. Who governs the review
+- **[CLAIM-750](../claims.d/CLAIM-750.md)**: corroborates its mechanism. Who governs the review
   shapes its findings. It says nothing about blameless postmortems, or
   about how high their traces reach.
 

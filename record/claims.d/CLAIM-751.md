@@ -1,5 +1,8 @@
 ---
+number: 751
 status: Proposed
+formerly:
+- CLAIM-tmpx4kjt
 title: 'The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator''s distraction to her company''s safety culture and the state''s oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source'
 version: 1
 role: thesis
@@ -29,10 +32,10 @@ bears_on:
 - QUESTION-470
 complements:
 - CLAIM-733
-- CLAIM-tmp5g7xc
+- CLAIM-750
 grounds:
 - CASE-292
-- THEORY-tmpq12rp
+- THEORY-1999
 - THEORY-1932
 uses:
 - TERM-127
@@ -52,9 +55,9 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-733 CASE-292 TERM-127 — Proposed; filed from the exchange "Assess Depp Heard Abuse" and its readings, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-tmp5g7xc ARG-tmp67frz THEORY-tmpl5x2t — new; filed with this claim -->
+<!-- inactive-ok-file: CLAIM-750 ARG-118 THEORY-1998 — new; filed with this claim -->
 
-# CLAIM-tmpx4kjt: The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator's distraction to her company's safety culture and the state's oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source
+# CLAIM-751: The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator's distraction to her company's safety culture and the state's oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source
 
 ## The claim
 
@@ -77,7 +80,7 @@ It works in one documented case. The NTSB's report on the Tempe crash
 - **No liability, by statute.** "No part of a report of the Board ... may
   be admitted into evidence or used in a civil action for damages
   resulting from a matter mentioned in the report" (49 U.S.C. § 1154(b),
-  read in [NOTE-tmp45cjg](../notes.d/NOTE-tmp45cjg.md)).
+  read in [NOTE-2081](../notes.d/NOTE-2081.md)).
 - **Upstream all the same.** The probable cause is the operator's
   distraction; contributing are Uber ATG's risk assessment, oversight of
   operators and lack of countermeasures to automation complacency, "all a
@@ -93,7 +96,7 @@ It works in one documented case. The NTSB's report on the Tempe crash
 So the provenance of the operator's incapacity, in [TERM-127](../terms.d/TERM-127.md)'s causal and
 constitutive senses, was traced to the company and the state, and the
 remedial question, who should act, was answered upward, by a body that
-could blame no one. [ARG-tmp67frz](../arguments.d/ARG-tmp67frz.md) sets out the inference and its critical
+could blame no one. [ARG-118](../arguments.d/ARG-118.md) sets out the inference and its critical
 questions.
 
 ## Its relation to [CLAIM-733](CLAIM-733.md)
@@ -108,7 +111,7 @@ to blame, and fenced off from liability. Hence `complements`, not
 `objects_to`. [CLAIM-733](CLAIM-733.md) says what blame can carry; this says what can
 carry it without blame.
 
-Cook ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md)) gives a reason to expect the two to differ in
+Cook ([THEORY-1998](../theory.d/THEORY-1998.md)) gives a reason to expect the two to differ in
 practice. Root-cause attribution, he argues, reflects "the social, cultural
 need to blame specific, localized forces or events", so blame tends to
 stop near the event. That is no evidence against [CLAIM-733](CLAIM-733.md), which is about
@@ -124,7 +127,7 @@ the carrier that reaches there.
   actor act on the trace, which is this claim's second defeater.
 - **That internal blameless reviews reach upstream.** The NTSB is outside
   the organizations it investigates. Whether a review commissioned by the
-  organization reaches above its own commissioners is [CLAIM-tmp5g7xc](CLAIM-tmp5g7xc.md)'s
+  organization reaches above its own commissioners is [CLAIM-750](CLAIM-750.md)'s
   question, and the claims complement each other.
 - **That no blame fell on the operator.** The company suspended her ([NOTE-2034](../notes.d/NOTE-2034.md),
   p. 27); prosecution and press are outside the report and unread.

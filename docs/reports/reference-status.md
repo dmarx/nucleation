@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**948 documents cited without acknowledgement.** Not listed: 34390 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**948 documents cited without acknowledgement.** Not listed: 34513 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1993,7 +1993,7 @@ A reading that marks the limit of a claim's scope, cited as such in the claim's 
 
 58 citations in 55 files await a look; 38 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-707.md:415`](../../record/claims.d/CLAIM-707.md)
+- [`record/claims.d/CLAIM-707.md:421`](../../record/claims.d/CLAIM-707.md)
 - [`record/theory.d/THEORY-001.md:54`](../../record/theory.d/THEORY-001.md)
 - [`record/theory.d/THEORY-012.md:63`](../../record/theory.d/THEORY-012.md)
 - [`record/theory.d/THEORY-034.md:44`](../../record/theory.d/THEORY-034.md)
@@ -2646,7 +2646,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left
 
-34 citations in 13 files await a look; 168 other citations of it are acknowledged.
+34 citations in 13 files await a look; 169 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:5`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
@@ -11459,7 +11459,7 @@ A learned system's disposition to succeed at a task is resource-conditional: the
 
 An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
 
-1 citation in 1 file awaits a look; 142 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 155 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-700.md:21`](../../record/claims.d/CLAIM-700.md)
 

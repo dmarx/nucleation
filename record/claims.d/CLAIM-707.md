@@ -101,9 +101,9 @@ history:
 - version: 17
   date: '2026-11-18'
   note: >-
-    A dated note added: Cook (LIT-tmpkbkg1) read, corroborates; Dekker
-    and Nyce (LIT-tmpxqwjm) read; the blame-the-system hypothesis
-    (CLAIM-tmp5g7xc) filed as a complement. No change of status or title.
+    A dated note added: Cook (LIT-2783) read, corroborates; Dekker
+    and Nyce (LIT-2786) read; the blame-the-system hypothesis
+    (CLAIM-750) filed as a complement. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -435,12 +435,12 @@ Zeiser 2024 ([THEORY-1915](../theory.d/THEORY-1915.md)) adds only that a user ca
 No status changes.
 
 ## Note of 2026-11-18: Cook and Dekker and Nyce, read; blamelessness as the crumple zone one level up
-<!-- inactive-ok-file: THEORY-tmpl5x2t THEORY-tmpfomub CLAIM-tmp5g7xc — new; the readings and claim filed on 2026-11-18 -->
+<!-- inactive-ok-file: THEORY-1998 THEORY-1997 CLAIM-750 — new; the readings and claim filed on 2026-11-18 -->
 
-Cook 1998/2000, read ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md), corroborates). Point 11 states the control-and-duty part from safety science: "Organizations are ambiguous, often intentionally, about the relationship between production targets, efficient use of resources, economy and costs of operations, and acceptable risks", and "All ambiguity is resolved by actions of practitioners at the sharp end of the system." Afterwards their actions "may be regarded as 'errors' or 'violations'", evaluations that "ignore the other driving forces, especially production pressure". That is control kept upstream by leaving the trade unresolved, and the judgement passed downstream. Argued, not shown by data.
+Cook 1998/2000, read ([THEORY-1998](../theory.d/THEORY-1998.md), corroborates). Point 11 states the control-and-duty part from safety science: "Organizations are ambiguous, often intentionally, about the relationship between production targets, efficient use of resources, economy and costs of operations, and acceptable risks", and "All ambiguity is resolved by actions of practitioners at the sharp end of the system." Afterwards their actions "may be regarded as 'errors' or 'violations'", evaluations that "ignore the other driving forces, especially production pressure". That is control kept upstream by leaving the trade unresolved, and the judgement passed downstream. Argued, not shown by data.
 
-Dekker and Nyce 2013, read ([THEORY-tmpfomub](../theory.d/THEORY-tmpfomub.md)). The nurse Kimberley Hiatt "was first suspended, and then fired" after a patient's death, and in a survey they relay "The most powerful group (doctors) was most likely to see responses as just" (pp. 73, 75). That fits the claim, but the paper does not show where control over her conditions lay. Relation: none.
+Dekker and Nyce 2013, read ([THEORY-1997](../theory.d/THEORY-1997.md)). The nurse Kimberley Hiatt "was first suspended, and then fired" after a patient's death, and in a survey they relay "The most powerful group (doctors) was most likely to see responses as just" (pp. 73, 75). That fits the claim, but the paper does not show where control over her conditions lay. Relation: none.
 
-The lead's hypothesis, filed as [CLAIM-tmp5g7xc](CLAIM-tmp5g7xc.md) and complementing this claim: blameless review, built against the crumple zone, can reproduce its result one level up, because a trace that stops at "the system" drops this claim's upstream controllers along with the operator.
+The lead's hypothesis, filed as [CLAIM-750](CLAIM-750.md) and complementing this claim: blameless review, built against the crumple zone, can reproduce its result one level up, because a trace that stops at "the system" drops this claim's upstream controllers along with the operator.
 
 No status changes.

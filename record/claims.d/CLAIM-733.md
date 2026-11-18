@@ -15,8 +15,8 @@ history:
 - version: 3
   date: '2026-11-18'
   note: >-
-    A dated note added: provenance without blame (CLAIM-tmpx4kjt) filed
-    as this claim's complement, and Cook (LIT-tmpkbkg1) read. No change of
+    A dated note added: provenance without blame (CLAIM-751) filed
+    as this claim's complement, and Cook (LIT-2783) read. No change of
     status or title.
 role: thesis
 warrant: interpretive
@@ -160,11 +160,11 @@ process keeps it).
   blame in that tracing.
 
 ## Note of 2026-11-18: provenance without blame, filed beside this claim
-<!-- inactive-ok-file: CLAIM-tmpx4kjt THEORY-tmpl5x2t — new; the claim and reading filed on 2026-11-18 -->
+<!-- inactive-ok-file: CLAIM-751 THEORY-1998 — new; the claim and reading filed on 2026-11-18 -->
 <!-- inactive-ok-file: CASE-292 — Proposed; the case the new claim is filed on -->
 
-The lead filer proposed, and the owner accepted for filing, a qualification of this claim from the case of blameless culture: that causal tracing without blame can carry upstream provenance, so that blame is one carrier of it. It is filed as [CLAIM-tmpx4kjt](CLAIM-tmpx4kjt.md), on the NTSB's Tempe report ([CASE-292](../cases.d/CASE-292.md)). It was proposed as narrowing this claim, but this claim already says "Not that provenance is only a matter of blame", so it is filed as a complement, not an objection. The proposed stronger form, that this claim holds only where no independent tracing institution exists, was not filed: one specimen does not show it.
+The lead filer proposed, and the owner accepted for filing, a qualification of this claim from the case of blameless culture: that causal tracing without blame can carry upstream provenance, so that blame is one carrier of it. It is filed as [CLAIM-751](CLAIM-751.md), on the NTSB's Tempe report ([CASE-292](../cases.d/CASE-292.md)). It was proposed as narrowing this claim, but this claim already says "Not that provenance is only a matter of blame", so it is filed as a complement, not an objection. The proposed stronger form, that this claim holds only where no independent tracing institution exists, was not filed: one specimen does not show it.
 
-Cook ([THEORY-tmpl5x2t](../theory.d/THEORY-tmpl5x2t.md), point 7) bears on the claim's use in practice: attribution to a root cause reflects "the social, cultural need to blame specific, localized forces or events". That is a reason to doubt that blame usually travels upstream, not an argument that blame traced upstream fails to ground accountability, which is what this claim says. Relation: none.
+Cook ([THEORY-1998](../theory.d/THEORY-1998.md), point 7) bears on the claim's use in practice: attribution to a root cause reflects "the social, cultural need to blame specific, localized forces or events". That is a reason to doubt that blame usually travels upstream, not an argument that blame traced upstream fails to ground accountability, which is what this claim says. Relation: none.
 
 No status changes.
