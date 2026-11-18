@@ -23,7 +23,7 @@ history:
     directions, and five routes to the same gain in accuracy, of which new
     couplings among existing features and newly accessible pathways are the
     discriminating case for a feature-only model. A's experiments are
-    CASE-tmp71zhd and CASE-tmp9201a. Not run; the question is unchanged.
+    CASE-272 and CASE-274. Not run; the question is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -335,7 +335,7 @@ No status changes.
 
 ## Note of 2026-11-15: circuit nucleation as coupling among existing features
 
-<!-- inactive-ok-file: CASE-tmp71zhd CASE-tmp9201a — Proposed; A's experiments, filed 2026-11-15 from the continuation of "Explain String Theory", cited as proposed tests, not run -->
+<!-- inactive-ok-file: CASE-272 CASE-274 — Proposed; A's experiments, filed 2026-11-15 from the continuation of "Explain String Theory", cited as proposed tests, not run -->
 
 A in the continuation of the exchange "Explain String Theory" (A16) proposes measuring, at each checkpoint t, the directed coupling C_ji(t, x) = u_j(t)ᵀ T_t(x) u_i(t) between learned feature directions under the network's input-conditioned transfer operator. On that picture, a circuit forms when a causally effective coupling structure appears among features. That may happen with the feature inventory nearly unchanged.
 
@@ -346,4 +346,4 @@ It separates five routes to the same gain in accuracy:
 - a pathway that becomes accessible to some inputs;
 - redundant pathways reorganizing.
 
-Only the third and fourth are missed by a feature-only model. That makes them this question's discriminating case. A's experiments are [CASE-tmp71zhd](../cases.d/CASE-tmp71zhd.md) (a Fourier circuit, where the modes are given) and [CASE-tmp9201a](../cases.d/CASE-tmp9201a.md). The question's own baselines, feature-only, circuit-only and state-space models fitted to early checkpoints, are the right comparators. Not run. No status change.
+Only the third and fourth are missed by a feature-only model. That makes them this question's discriminating case. A's experiments are [CASE-272](../cases.d/CASE-272.md) (a Fourier circuit, where the modes are given) and [CASE-274](../cases.d/CASE-274.md). The question's own baselines, feature-only, circuit-only and state-space models fitted to early checkpoints, are the right comparators. Not run. No status change.

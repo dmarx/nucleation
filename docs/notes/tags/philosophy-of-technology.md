@@ -4,7 +4,7 @@
 
 **philosophy-of-technology**.
 
-41 of 1951 NOTE documents. Back to the [full index](../README.md).
+41 of 1994 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

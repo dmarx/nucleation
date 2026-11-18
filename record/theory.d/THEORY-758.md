@@ -19,8 +19,8 @@ history:
 - version: 2
   date: '2026-11-15'
   note: >-
-    Note of 2026-11-15 added: Bruna and Mallat (LIT-tmpfzpbg,
-    THEORY-tmpw4lo5) as a contrast. A linear multiscale decomposition gives
+    Note of 2026-11-15 added: Bruna and Mallat (LIT-2632,
+    THEORY-1906) as a contrast. A linear multiscale decomposition gives
     only covariance to translation; invariance needs a non-linearity. The
     reading qualifies nothing here. No status change.
 tags:
@@ -194,6 +194,6 @@ nesting could have needed the spectrum (it does not).
 
 ## Note of 2026-11-15: Bruna and Mallat, read
 
-<!-- inactive-ok-file: THEORY-tmpw4lo5 — Proposed; cited from the note of 2026-11-15 as a contrast -->
+<!-- inactive-ok-file: THEORY-1906 — Proposed; cited from the note of 2026-11-15 as a contrast -->
 
-Bruna and Mallat ([LIT-tmpfzpbg](../literature.d/LIT-tmpfzpbg.md), [THEORY-tmpw4lo5](THEORY-tmpw4lo5.md)) give the contrast this account's linearity invites. Both are multiscale wavelet constructions of about an octave a scale. The levels here are exactly closed linear coarse-grainings of a diffusion operator. Bruna and Mallat show that a linear multiscale decomposition is only covariant to translation: the integral of x ⋆ ψλ is zero for every x (§2.2), so invariance needs a non-linearity, the modulus, which moves energy toward lower frequencies. The reading qualifies nothing here. It marks what a linear coarse-graining cannot give: linear multiscale structure gives covariance, and invariance needs more. It is a contrast, not a rival, since both accounts can be right. No status change.
+Bruna and Mallat ([LIT-2632](../literature.d/LIT-2632.md), [THEORY-1906](THEORY-1906.md)) give the contrast this account's linearity invites. Both are multiscale wavelet constructions of about an octave a scale. The levels here are exactly closed linear coarse-grainings of a diffusion operator. Bruna and Mallat show that a linear multiscale decomposition is only covariant to translation: the integral of x ⋆ ψλ is zero for every x (§2.2), so invariance needs a non-linearity, the modulus, which moves energy toward lower frequencies. The reading qualifies nothing here. It marks what a linear coarse-graining cannot give: linear multiscale structure gives covariance, and invariance needs more. It is a contrast, not a rival, since both accounts can be right. No status change.

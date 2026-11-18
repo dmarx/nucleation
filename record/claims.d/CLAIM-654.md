@@ -96,6 +96,6 @@ monotone in T, and BudgetMix deliberately trains that dependence.
 
 ## Note of 2026-11-15: the single-turn readings, read
 
-<!-- inactive-ok-file: THEORY-tmpmapw3 THEORY-tmp9rnyv THEORY-tmpxu3kz — Proposed; the single-turn readings of 2026-11-15, cited as an instance of the monotone case and as not bearing on the other, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-1894 THEORY-1880 THEORY-1908 — Proposed; the single-turn readings of 2026-11-15, cited as an instance of the monotone case and as not bearing on the other, nothing here rests on them -->
 
-Brown et al. ([THEORY-tmpmapw3](../theory.d/THEORY-tmpmapw3.md)) is the monotone case: independent attempts with the same prompt and hyperparameters, whose choices do not read the remaining budget, and coverage rises with k as the claim's proof says it must. As an instance the claim does not need, it corroborates the claim. Yue et al. ([THEORY-tmp9rnyv](../theory.d/THEORY-tmp9rnyv.md)) and ProRL ([THEORY-tmpxu3kz](../theory.d/THEORY-tmpxu3kz.md)) compare two processes at each k, not one process across budgets, so they neither support nor test the non-monotone case. No status change.
+Brown et al. ([THEORY-1894](../theory.d/THEORY-1894.md)) is the monotone case: independent attempts with the same prompt and hyperparameters, whose choices do not read the remaining budget, and coverage rises with k as the claim's proof says it must. As an instance the claim does not need, it corroborates the claim. Yue et al. ([THEORY-1880](../theory.d/THEORY-1880.md)) and ProRL ([THEORY-1908](../theory.d/THEORY-1908.md)) compare two processes at each k, not one process across budgets, so they neither support nor test the non-monotone case. No status change.

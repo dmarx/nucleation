@@ -9,10 +9,10 @@ history:
 - version: 2
   date: '2026-11-15'
   note: >-
-    Note of 2026-11-15 added: Zhou et al. (2024), LIT-tmptiitv, read in
-    NOTE-tmpjupyx, assert the step from weight averaging to feature
+    Note of 2026-11-15 added: Zhou et al. (2024), LIT-2646, read in
+    NOTE-1973, assert the step from weight averaging to feature
     averaging and measure it for soups of 5 CIFAR-10 and 10 ImageNet
-    ViT-B/32 fine-tunes, finding approximate equality; THEORY-tmpjlixb
+    ViT-B/32 fine-tunes, finding approximate equality; THEORY-1890
     corroborates the claim. SWA iterates and decoder-only language models
     are not measured. In the summary, the sentence "No source measured or
     asserts it: it is the record's step from pairs to many-model averages,
@@ -40,9 +40,9 @@ bears_on:
 summary: >-
   The averaging clause of [THEORY-111](../theory.d/THEORY-111.md)'s old title, kept as a Proposed claim
   by the [ADR-047](../decisions.d/ADR-047.md) sweep of 2026-10-30 (kind 2) when the eleventh status
-  review's narrowing had dropped it. Zhou et al. (2024), LIT-tmptiitv,
+  review's narrowing had dropped it. Zhou et al. (2024), LIT-2646,
   assert it and measure it for soups of 5 and 10 ViT-B/32 fine-tunes
-  (THEORY-tmpjlixb); SWA iterates, the other half of its defeater, are not
+  (THEORY-1890); SWA iterates, the other half of its defeater, are not
   measured.
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-2 rule this entry is filed under -->
@@ -82,8 +82,8 @@ answers this should test proportionality layer by layer.
 
 ## Note of 2026-11-15: Zhou, Chen, Chen, Zhang & Yan (2024), read
 
-<!-- inactive-ok-file: THEORY-tmpjlixb — Proposed; the reading of 2026-11-15 that measures this claim for soups, cited as corroboration, the claim does not rest on it -->
+<!-- inactive-ok-file: THEORY-1890 — Proposed; the reading of 2026-11-15 that measures this claim for soups, cited as corroboration, the claim does not rest on it -->
 
-The 2026-10-30 note said no reading in the record compares an averaged network's layer features with the average of its members' features. That is no longer so. Zhou et al. (2024), [LIT-tmptiitv](../literature.d/LIT-tmptiitv.md), read in [NOTE-tmpjupyx](../notes.d/NOTE-tmpjupyx.md), assert the step ("We explain the averaging of weights as the averaging of features at each layer", §1) and measure it. For soups of 5 CIFAR-10 and 10 ImageNet ViT-B/32 fine-tunes from CLIP, the averaged network's features approximate the average of the members' features, with cosine near 1 and projection-length ratio near 1 (§4.2), in all blocks for the ImageNet soup (App. C.4) and the last 7 blocks for the other. That is approximate equality, the stronger form this note asked a reading to test. [THEORY-tmpjlixb](../theory.d/THEORY-tmpjlixb.md), filed from it, corroborates the claim; the claim does not rest on it. The defeater is not tripped: the soups measured agree with the pairs.
+The 2026-10-30 note said no reading in the record compares an averaged network's layer features with the average of its members' features. That is no longer so. Zhou et al. (2024), [LIT-2646](../literature.d/LIT-2646.md), read in [NOTE-1973](../notes.d/NOTE-1973.md), assert the step ("We explain the averaging of weights as the averaging of features at each layer", §1) and measure it. For soups of 5 CIFAR-10 and 10 ImageNet ViT-B/32 fine-tunes from CLIP, the averaged network's features approximate the average of the members' features, with cosine near 1 and projection-length ratio near 1 (§4.2), in all blocks for the ImageNet soup (App. C.4) and the last 7 blocks for the other. That is approximate equality, the stronger form this note asked a reading to test. [THEORY-1890](../theory.d/THEORY-1890.md), filed from it, corroborates the claim; the claim does not rest on it. The defeater is not tripped: the soups measured agree with the pairs.
 
 What stays open: SWA iterates, the other half of the defeater, are not measured; nor are decoder-only language models. The soups are same-task fine-tunes from one pretrained start, which fits "within a basin". The paper's multi-model theorem (Theorem 4.2) rests on an unproved transitivity conjecture, so the step from pairs to many models is measured, not derived. Whether soups alone are enough to move the status is the owner's call. No status change.

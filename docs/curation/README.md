@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [15 Nov 06:40 — The continuation of "Explain String Theory": wave mathematics for learning and computation, storage against access, resource-conditional dispositions, and RL as sharpening](2026-11.md#the-continuation-of-explain-string-theory-wave-mathematics-for-learning-and-computation-storage-against-access-resource-conditional-dispositions-and-rl-as-sharpening)
 - [15 Nov 06:01 — The exchange "Explain String Theory": strings as solitons of a field, and A's proposal of a soliton testbed for the record's distinctions](2026-11.md#the-exchange-explain-string-theory-strings-as-solitons-of-a-field-and-as-proposal-of-a-soliton-testbed-for-the-records-distinctions)
 - [15 Nov 05:35 — The organizational-normativity line split in two, at the owner's approval of 2026-11-15: dependence-and-domination takes the 29 entries of what wholes and parts owe and what those who govern an arrangement others depend on owe; three keep organizational-normativity second; the accounts follow](2026-11.md#the-organizational-normativity-line-split-in-two-at-the-owners-approval-of-2026-11-15-dependence-and-domination-takes-the-29-entries-of-what-wholes-and-parts-owe-and-what-those-who-govern-an-arrangement-others-depend-on-owe-three-keep-organizational-normativity-second-the-accounts-follow)
 - [15 Nov 04:41 — Synthesis review of 2026-11-15: the organizational-normativity line, grown from 23 entries to 71, in four part accounts and a line account over them; the recent filings brought into the accounts of the other lines they carry; no claim filed](2026-11.md#synthesis-review-of-2026-11-15-the-organizational-normativity-line-grown-from-23-entries-to-71-in-four-part-accounts-and-a-line-account-over-them-the-recent-filings-brought-into-the-accounts-of-the-other-lines-they-carry-no-claim-filed)
@@ -78,10 +79,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-266 entries across 3 books, newest first.
+267 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 69 | 2026-11-01 | 2026-11-15 |
+| [2026-11](2026-11.md) | 70 | 2026-11-01 | 2026-11-15 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

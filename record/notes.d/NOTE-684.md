@@ -27,7 +27,7 @@ history:
   note: >-
     Note of 2026-11-15 added: Bruna and Mallat's scattering networks, which
     the Connections section calls not held, were registered and read on
-    2026-11-15 (LIT-tmpfzpbg, NOTE-tmp7az9p). The reading supports this
+    2026-11-15 (LIT-2632, NOTE-1957). The reading supports this
     note's use of them as the deformation side, with two qualifications. The
     reading above is unchanged.
 date: '2026-10-09'
@@ -235,6 +235,6 @@ acquires it from data.
 
 ## Note of 2026-11-15: Bruna and Mallat, now held
 
-<!-- inactive-ok-file: THEORY-tmpw4lo5 — Proposed; cited from the note of 2026-11-15 as the account of the newly held reading -->
+<!-- inactive-ok-file: THEORY-1906 — Proposed; cited from the note of 2026-11-15 as the account of the newly held reading -->
 
-The Connections section above says Bruna and Mallat's scattering networks are not held in the record. They are now: "Invariant Scattering Convolution Networks" was registered and read on 2026-11-15 ([LIT-tmpfzpbg](../literature.d/LIT-tmpfzpbg.md), [NOTE-tmp7az9p](NOTE-tmp7az9p.md)). The reading supports this note's use of it as the deformation side of the sparse model: a cascade of fixed wavelets, modulus and averaging is translation invariant below a scale and, by a theorem stated from Mallat's "Group Invariant Scattering", Lipschitz-stable to small deformations ([THEORY-tmpw4lo5](../theory.d/THEORY-tmpw4lo5.md)). It qualifies it in two ways. The proof is in that later paper, which is unread. And the stability there is built into a designed architecture, where this paper asks when a network acquires it from data. Petrini et al.'s measurements are still not held. The reading above is unchanged. No status change.
+The Connections section above says Bruna and Mallat's scattering networks are not held in the record. They are now: "Invariant Scattering Convolution Networks" was registered and read on 2026-11-15 ([LIT-2632](../literature.d/LIT-2632.md), [NOTE-1957](NOTE-1957.md)). The reading supports this note's use of it as the deformation side of the sparse model: a cascade of fixed wavelets, modulus and averaging is translation invariant below a scale and, by a theorem stated from Mallat's "Group Invariant Scattering", Lipschitz-stable to small deformations ([THEORY-1906](../theory.d/THEORY-1906.md)). It qualifies it in two ways. The proof is in that later paper, which is unread. And the stability there is built into a designed architecture, where this paper asks when a network acquires it from data. Petrini et al.'s measurements are still not held. The reading above is unchanged. No status change.

@@ -63,7 +63,7 @@ history:
 - version: 6
   date: '2026-11-15'
   note: >-
-    Note of 2026-11-15 added: ReAct (LIT-tmpygfnl, skimmed in NOTE-tmp3bv7o)
+    Note of 2026-11-15 added: ReAct (LIT-2652, skimmed in NOTE-1953)
     is a standard example of improving the signal, not the interpreter: a
     frozen model takes in facts it did not hold through calls to a Wikipedia
     API. It fits the distinction and does not test it. No status change.
@@ -191,6 +191,6 @@ against the claim.
 
 ## Note of 2026-11-15: ReAct, skimmed
 
-<!-- inactive-ok-file: NOTE-tmp3bv7o — Skimmed; ReAct, skimmed on 2026-11-15 for one use, cited as an example that fits the distinction -->
+<!-- inactive-ok-file: NOTE-1953 — Skimmed; ReAct, skimmed on 2026-11-15 for one use, cited as an example that fits the distinction -->
 
-Yao et al. ([LIT-tmpygfnl](../literature.d/LIT-tmpygfnl.md), skimmed in [NOTE-tmp3bv7o](../notes.d/NOTE-tmp3bv7o.md) for one use): a frozen model prompted to interleave reasoning with calls to a Wikipedia API takes in facts it did not hold, and on an outdated HotpotQA label "Only ReAct is able to retrieve up-to-date information". The weights do not change and the new fact arrives in context, so this is improving the signal, not the interpreter, in the claim's sense. It is a standard example that fits the distinction; it does not test it, since nothing in it could have shown the two sources mixed. No status change.
+Yao et al. ([LIT-2652](../literature.d/LIT-2652.md), skimmed in [NOTE-1953](../notes.d/NOTE-1953.md) for one use): a frozen model prompted to interleave reasoning with calls to a Wikipedia API takes in facts it did not hold, and on an outdated HotpotQA label "Only ReAct is able to retrieve up-to-date information". The weights do not change and the new fact arrives in context, so this is improving the signal, not the interpreter, in the claim's sense. It is a standard example that fits the distinction; it does not test it, since nothing in it could have shown the two sources mixed. No status change.

@@ -18,9 +18,9 @@ history:
 - version: 2
   date: '2026-11-15'
   note: >-
-    Note of 2026-11-15 added: INLP (LIT-tmp3i6ea) reaches the same linear
+    Note of 2026-11-15 added: INLP (LIT-2619) reaches the same linear
     target by iteration and measures what it leaves, and Goodfire's paper
-    (LIT-tmp40uoi) says a quadratic reader recovers what projection and
+    (LIT-2620) says a quadratic reader recovers what projection and
     LEACE leave in the covariance. Both are consistent with this entry,
     which claims linear guardedness only. No status change.
 tags:
@@ -68,4 +68,4 @@ Pythia raises bits per byte well above a random erasure of equal rank.
 
 ## Note of 2026-11-15: INLP, and what a linear guarantee leaves
 
-INLP (Ravfogel et al. 2020, [LIT-tmp3i6ea](../literature.d/LIT-tmp3i6ea.md)) reaches the same linear target by iteration, and measures what the target leaves: a one-hidden-layer MLP recovers gender at 85.0% after linear accuracy falls to chance. Goodfire's paper ([LIT-tmp40uoi](../literature.d/LIT-tmp40uoi.md)) states in its contributions list that "projecting out and LEACE (Belrose et al., 2023) can leave information in the covariance that a quadratic reader recovers". Its §2.1, with the result, was not read. Both readings are consistent with this entry, which claims linear guardedness only. No status change.
+INLP (Ravfogel et al. 2020, [LIT-2619](../literature.d/LIT-2619.md)) reaches the same linear target by iteration, and measures what the target leaves: a one-hidden-layer MLP recovers gender at 85.0% after linear accuracy falls to chance. Goodfire's paper ([LIT-2620](../literature.d/LIT-2620.md)) states in its contributions list that "projecting out and LEACE (Belrose et al., 2023) can leave information in the covariance that a quadratic reader recovers". Its §2.1, with the result, was not read. Both readings are consistent with this entry, which claims linear guardedness only. No status change.
