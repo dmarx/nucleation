@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpygqjz
 title: 'Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -40,6 +40,14 @@ history:
     reuse can be forecast, as CLAIM-308 answers only where it cannot,
     and the question asks what the second-occurrence rule approximates
     and when it fails. Interpretive. The title is unchanged.
+- version: 4
+  date: '2026-11-18'
+  note: >-
+    Answers QUESTION-tmpsyjy0, the part of QUESTION-098 split off
+    under ADR-049 at the status review's ruling (the owner delegated
+    these rulings): when a structure is worth filing, staleness set
+    aside, under fixed known costs. It keeps bears_on QUESTION-098 for
+    the open remainder.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +61,8 @@ tags:
 - epistemology
 date: '2026-10-15'
 line: nucleating-argument
+answers:
+- QUESTION-tmpsyjy0
 bears_on:
 - QUESTION-098
 complements:

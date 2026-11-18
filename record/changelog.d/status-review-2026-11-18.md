@@ -7,3 +7,8 @@
   and `grounds` edges are dropped, [QUESTION-098](record/questions.d/QUESTION-098.md)'s two partial answers
   become `bears_on`, and every entry kept Proposed says what holds it
   back. Three garbled filer sentences are repaired.
+- The owner's rulings on the pass are applied. QUESTION-098 is split, and
+  its answered part is a new Answered question. THEORY-1836 gets its paired
+  Proposed thesis. CLAIM-689 is narrowed and promoted, and the clause it
+  drops is filed as a Proposed claim. The objection to CLAIM-729 is filed
+  as a counter claim.

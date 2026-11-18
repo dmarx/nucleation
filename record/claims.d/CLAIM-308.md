@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpc3sk7
 title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-19'
@@ -62,6 +62,14 @@ history:
     (ADR-059). QUESTION-098 moves from answers to bears_on: the claim
     answers only the case without a forecast, with staleness left out,
     and the question asks about staleness too. The title is unchanged.
+- version: 6
+  date: '2026-11-18'
+  note: >-
+    Answers QUESTION-tmpsyjy0, the part of QUESTION-098 split off
+    under ADR-049 at the status review's ruling (the owner delegated
+    these rulings): when a structure is worth filing, staleness set
+    aside, under fixed known costs. It keeps bears_on QUESTION-098 for
+    the open remainder.
 role: counter
 warrant: demonstrated
 tags:
@@ -82,6 +90,8 @@ summary: >-
   reach staleness, which the theorem forbids rather than prices, or drifting
   costs, and where reuse can be forecast an expected-reuse rule can do better,
   so [CLAIM-303](CLAIM-303.md)'s criterion survives there.
+answers:
+- QUESTION-tmpsyjy0
 bears_on:
 - QUESTION-098
 ---
