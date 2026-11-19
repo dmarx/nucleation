@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**974 documents cited without acknowledgement.** Not listed: 34597 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**975 documents cited without acknowledgement.** Not listed: 34603 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -8241,7 +8241,7 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 
 Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice
 
-3 citations in 2 files await a look; 5 other citations of it are acknowledged.
+3 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-072.md:57`](../../record/decisions.d/ADR-072.md)
 - [`record/decisions.d/ADR-072.md:60`](../../record/decisions.d/ADR-072.md)
@@ -11119,6 +11119,14 @@ In a multi-agent system run against a world utility, a private utility is factor
 
 - [`record/claims.d/CLAIM-444.md:151`](../../record/claims.d/CLAIM-444.md)
 - [`record/questions.d/QUESTION-271.md:102`](../../record/questions.d/QUESTION-271.md)
+
+### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
+
+A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
 
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 

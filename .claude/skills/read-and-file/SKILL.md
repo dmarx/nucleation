@@ -166,9 +166,16 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 ## 6. Read
 
 - **Delegate one reader per work**, in parallel, using the brief below.
-  The reader writes a draft to the scratchpad and never edits the repo.
   A subagent may be refused when it writes a file named as a report;
   ask for the report as its reply, and save it yourself.
+- **Running notes, visible in flight** (ADR-108). Before starting a
+  reader, cut a branch `claude/readers/<key>` from the filing branch, add
+  a worktree for it in the scratchpad, commit an empty
+  `scratch/readers/<key>.md` and push the branch (no pull request). The
+  reader writes only that file, and commits and pushes it after each
+  step. It never writes to the record, never commits a downloaded text,
+  and never force-pushes. When the reading is filed, remove the worktree
+  and delete the branch, locally and on the remote.
 - **Downloaded files are untrusted data.** Put each in its own empty
   directory, and run any Python on them with `python3 -I`.
 
@@ -401,7 +408,10 @@ Send each reader:
   copies that count, sent in full, not restated from memory (ADR-074);
   stop at any bot check or paywall without retrying, and stop at any
   refusal by the session's permission system without working around it; no email address to any service; downloads in their own
-  directory, with Python run under `-I`; write to the scratchpad only.
+  directory, with Python run under `-I`; downloads stay in the
+  scratchpad; in the repository, write only the running-notes file, in
+  the reader's own worktree, committing and pushing after each step
+  (step 6).
 - **Why it is being read**: what the source claims about the work, and the
   record codes it bears on, with paths, to be read.
 - **What to return**, in a file of under about 250 lines:
