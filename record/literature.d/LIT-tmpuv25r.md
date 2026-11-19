@@ -33,8 +33,8 @@ summary: >-
   community nested in a large one shows as an edge into it, read as a
   specialization forked from the larger community; monthly graphs
   flattened by the maximum weight, then clustered. Named by the owner at
-  U37 as a place to see community-to-subcommunity evolution. Read in NOTE-
-  tmpbivmm; account [THEORY-tmp5zxkk](../theory.d/THEORY-tmp5zxkk.md).
+  U37 as a place to see community-to-subcommunity evolution. Read in
+  NOTE-tmpbivmm; account [THEORY-tmp5zxkk](../theory.d/THEORY-tmp5zxkk.md).
 ---
 
 # LIT-tmpuv25r: Mapping reddit's active communities

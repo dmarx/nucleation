@@ -40,8 +40,8 @@ summary: >-
   spinoff pairs, users who try the spinoff are in most kinds of pair more
   likely than matched non-explorers to raise their activity in the
   original over 30 days, negative for some, causation disclaimed.
-  Registered from ChatGPT's A82 for the owner's Reddit case (CASE-
-  tmp6idy5). Read in [NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md); account [THEORY-tmps2gur](../theory.d/THEORY-tmps2gur.md).
+  Registered from ChatGPT's A82 for the owner's Reddit case
+  (CASE-tmp6idy5). Read in [NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md); account [THEORY-tmps2gur](../theory.d/THEORY-tmps2gur.md).
 ---
 
 # LIT-tmpdivuz: Science, AskScience, and BadScience: On the Coexistence of Highly Related Communities
