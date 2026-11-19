@@ -6,18 +6,6 @@ formerly:
 title: 'What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much'
 version: 3
 history:
-- version: 3
-  date: '2026-11-19'
-  note: >-
-    Integrates the entries filed on 2026-11-19 from the exchange
-    "Topological protection explained" whose first or second line is
-    realizability: constraints as amortized realizations (CLAIM-tmpqpd2p),
-    dynamical against economic separation (CLAIM-tmp449rr, ARG-tmpy9z67),
-    an acquisition valued by its effect on others (CLAIM-tmp5gbzr,
-    CASE-tmpplox8, ARG-tmpm8rng), work saved against transferred
-    (CLAIM-tmpkrk41) and the owner's question on optimal learning
-    (QUESTION-tmpwqepn). Done at the owner's request after the filing
-    first left it to this line's next review. The title is unchanged.
 - version: 2
   date: '2026-11-18'
   note: >-
@@ -34,6 +22,18 @@ history:
     2026-11-12 to 2026-11-15. The first "Not stated" bullet is corrected:
     CLAIM-654 now states a budget lowering what a process reaches. The
     title is unchanged.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Integrates the entries filed on 2026-11-19 from the exchange
+    "Topological protection explained" whose first or second line is
+    realizability: constraints as amortized realizations (CLAIM-tmpqpd2p),
+    dynamical against economic separation (CLAIM-tmp449rr, ARG-tmpy9z67),
+    an acquisition valued by its effect on others (CLAIM-tmp5gbzr,
+    CASE-tmpplox8, ARG-tmpm8rng), work saved against transferred
+    (CLAIM-tmpkrk41) and the owner's question on optimal learning
+    (QUESTION-tmpwqepn). Done at the owner's request after the filing
+    first left it to this line's next review. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the reaching-under-resources part of the realizability line left out
