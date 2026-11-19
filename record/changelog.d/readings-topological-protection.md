@@ -16,9 +16,9 @@
   Pythia study gains its design cautions ([CASE-tmphsr99](record/cases.d/CASE-tmphsr99.md)).
 
 - Three works the readings pointed to, registered Deferred at the
-  owner's request: Wang and Slotine on partial contraction (LIT-tmpwo4ry),
-  Chen et al.'s "Stochastic Collapse" (LIT-tmp3cyf2) and Poole et al. on
-  transient chaos (LIT-tmpzpom9).
+  owner's request: Wang and Slotine on partial contraction ([LIT-tmpwo4ry](record/literature.d/LIT-tmpwo4ry.md)),
+  Chen et al.'s "Stochastic Collapse" ([LIT-tmp3cyf2](record/literature.d/LIT-tmp3cyf2.md)) and Poole et al. on
+  transient chaos ([LIT-tmpzpom9](record/literature.d/LIT-tmpzpom9.md)).
 
 ### Changed
 
