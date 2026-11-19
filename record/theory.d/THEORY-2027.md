@@ -36,7 +36,7 @@ summary: >-
   of randomness (Shrink and Perturb, and their continual backpropagation)
   maintain plasticity, but all are applied from the start, and none is
   tested as a late rescue. It is here for overconsolidation
-  (CLAIM-tmp8ljvp) beside [THEORY-1353](THEORY-1353.md), whose depletion reading it fits:
+  (CLAIM-758) beside [THEORY-1353](THEORY-1353.md), whose depletion reading it fits:
   plasticity is lost while the network keeps practising on varied tasks.
   Read in its NOTE.
 ---
