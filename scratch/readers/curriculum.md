@@ -13,3 +13,11 @@
 - Figure 5: the curriculum model is WORSE on the target distribution until "about 1 billion updates"; the speed claim does not hold for the LM in update count.
 - Mechanism: continuation method (sec. 3) and an apparent regularizer (sec. 1, 7). Ordering that hurts: anti-curriculum in Fig. 1 (worse than random at some input dimensions); Krueger & Dayan's fixed-resource result cited in sec. 7; Rohde & Plaut "useless for some tasks".
 - Doubt: Fig. 1 and Fig. 3 values are read off plots, approximate, not quotable.
+
+## 2026-11-19: bearings searched
+- Not held in the record (no DOI or title match); named only as an unverified candidate in LEAD-tmp5lpoy.
+- Strongest bearing: CLAIM-756. Shapes (sec. 5): BasicShapes-only training "yielded poor results" on the target, yet spending up to half of a 256-epoch budget on it gives the best final error, and the union control (same data, no order) is "significantly worse". A qualitative instance of a step with a poor direct return inside the best policy, and against "order does not matter once data is fixed". Measured as final error, not cost to a level.
+- LM (sec. 6, Fig. 5): curriculum behind until ~1B updates, ahead after; final 2.78 vs 2.83. Any updates-to-level reading comes from the plot only.
+- CLAIM-605 / CLAIM-600 / transient support: analogy only ("not ready to incorporate them"); no taper, deadline or decay is tested; the best switch is the latest one tried (128 of 256).
+- Also weighed: CLAIM-754, TERM-131, TERM-117, CLAIM-596, CLAIM-184, CLAIM-758, QUESTION-495, QUESTION-217, THEORY-2045, THEORY-tmpw8s3h, THEORY-759/783, CASE-113/QUESTION-275 (curriculum as a training knob).
+- All 32 planned quotes checked by script against the downloaded text.
