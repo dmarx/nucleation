@@ -1,0 +1,48 @@
+---
+status: Open
+title: 'Simulate the population comparisons the authority-grant claims name: role-indexed against scalar grants, and operators bound by the two grant conditions'
+version: 1
+stage: idea
+method:
+- formal
+tags:
+- self-governance
+- social-ontology
+date: '2026-11-19'
+line:
+- distributed-agency
+advances:
+- CLAIM-281
+- CLAIM-285
+operationalized_in:
+- CASE-092
+presupposes:
+- LEAD-tmpfk582
+summary: >-
+  Two Proposed claims name this comparison as their test. Named in
+  CLAIM-281 and CLAIM-285. Filed by the backlog audit of 2026-11-19.
+---
+<!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; cited in the backlog audit of 2026-11-19 -->
+
+# LEAD-tmpy1k4c: Simulate the population comparisons the authority-grant claims name: role-indexed against scalar grants, and operators bound by the two grant conditions
+
+## What it would do
+
+In the built model, compare populations with role-indexed grants against
+scalar ones, and populations whose operators are bound by the two grant
+conditions against unbound ones, recording to whom they delegate beyond
+one hop.
+
+Where the record names it:
+
+- CLAIM-281: "The population comparison CASE-092 names, role-indexed
+  against scalar grants, has still not been run"
+- CLAIM-285: "Still missing: a population model in which operators bound
+  by the two conditions delegate, and delegate to aligned others rather than
+  at random."
+
+## What would count
+
+Factions or retained disagreement under role-indexed grants and not under
+scalar ones supports CLAIM-281; delegation to aligned others beyond chance
+supports CLAIM-285. Their absence defeats each as stated.
