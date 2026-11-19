@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpwmsxg). Worth reading for measures of how
+  Read on 2026-11-19 ([NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md)). Worth reading for measures of how
   related online communities form and coexist; it supports less than
   ChatGPT's citation said.
 title: 'Science, AskScience, and BadScience: On the Coexistence of Highly Related Communities'
@@ -41,7 +41,7 @@ summary: >-
   likely than matched non-explorers to raise their activity in the
   original over 30 days, negative for some, causation disclaimed.
   Registered from ChatGPT's A82 for the owner's Reddit case (CASE-
-  tmp6idy5). Read in NOTE-tmpwmsxg; account THEORY-tmps2gur.
+  tmp6idy5). Read in [NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md); account [THEORY-tmps2gur](../theory.d/THEORY-tmps2gur.md).
 ---
 
 # LIT-tmpdivuz: Science, AskScience, and BadScience: On the Coexistence of Highly Related Communities
@@ -50,4 +50,4 @@ Hessel, Tan and Lee (2016). arXiv 1612.07487 (ICWSM 2016).
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 (NOTE-tmpwmsxg, THEORY-tmps2gur).
+Registered and read on 2026-11-19 ([NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md), [THEORY-tmps2gur](../theory.d/THEORY-tmps2gur.md)).

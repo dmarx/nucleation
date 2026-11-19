@@ -95,7 +95,7 @@ not be imported from an established institution". It illustrates
   early participants without being the organizational cause of the new
   group", or a continuing home community rather than a split.
 - **Prior work**, read on 2026-11-19, and carrying less than A82 said:
-  - Hessel, Tan and Lee (THEORY-tmps2gur) measure three of these
+  - Hessel, Tan and Lee ([THEORY-tmps2gur](../theory.d/THEORY-tmps2gur.md)) measure three of these
     outcomes on affix-named pairs: founders by the early-participant
     fraction, displacement by the activity ratio, complementarity by the
     exploration effect. Users who try a spinoff are, in most kinds of
@@ -104,7 +104,7 @@ not be imported from an established institution". It illustrates
     short-term individual activity, not the absence of fragmentation A82
     read into it. About half of related pairs share few founders, which
     bears out the caution on the two senses of parent.
-  - Krohn and Weninger (THEORY-tmpj5upc) find that links to subreddits
+  - Krohn and Weninger ([THEORY-tmpj5upc](../theory.d/THEORY-tmpj5upc.md)) find that links to subreddits
     that did not yet exist preceded a sixth of later creations, most
     such links never followed by one. They report correlation, not the
     natural experiment A82 described, and measure nothing institutional:

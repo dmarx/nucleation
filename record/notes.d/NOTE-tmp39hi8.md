@@ -76,7 +76,7 @@ monthly subreddit link graph; information foraging.
 
 ## Bearing on the record
 
-- **CASE-tmp6idy5.** The only measured evidence on record for the case's
+- **[CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md).** The only measured evidence on record for the case's
   third class, identities arising inside Reddit: a name-first route to a
   community, used at scale, correlational. ChatGPT's account of the
   paper (A82) as "natural-experiment" evidence that links "drive"
@@ -84,11 +84,11 @@ monthly subreddit link graph; information foraging.
   construction", overstates it: nothing institutional (governance,
   persistence, viability) is measured, and where members come from is
   left open.
-- **CLAIM-762.** A route to a named unit that starts from a symbol, not
+- **[CLAIM-762](../claims.d/CLAIM-762.md).** A route to a named unit that starts from a symbol, not
   from collapsing differences.
 - **Self-fulfilling reference.** An inventive link is a name whose use can
-  bring about its referent (CLAIM-402, THEORY-854), and success rises with
-  repetition (CLAIM-426).
+  bring about its referent ([CLAIM-402](../claims.d/CLAIM-402.md), [THEORY-854](../theory.d/THEORY-854.md)), and success rises with
+  repetition ([CLAIM-426](../claims.d/CLAIM-426.md)).
 
 ## Limitations
 

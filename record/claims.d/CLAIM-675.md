@@ -221,4 +221,4 @@ No status change.
 ## Note of 2026-11-19: Anguita and colleagues, read
 <!-- inactive-ok-file: THEORY-tmppm9la — Proposed; cited from the readings of 2026-11-19 -->
 
-Anguita and colleagues (THEORY-tmppm9la, corroborates; NOTE-tmpr453b): an analytical case of the same capabilities now with different later learning. With pretraining exact, networks differing only in the relative scale of their layers compute the same function and fine-tune differently. It supports the claim's evaluative consequence with independent evidence; it does not bear on the derivation, which rests on the model of learning by use and disuse.
+Anguita and colleagues ([THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md), corroborates; [NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): an analytical case of the same capabilities now with different later learning. With pretraining exact, networks differing only in the relative scale of their layers compute the same function and fine-tune differently. It supports the claim's evaluative consequence with independent evidence; it does not bear on the derivation, which rests on the model of learning by use and disuse.

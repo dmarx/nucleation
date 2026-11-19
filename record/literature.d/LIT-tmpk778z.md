@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmp39hi8). Worth reading for links to
+  Read on 2026-11-19 ([NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md)). Worth reading for links to
   subreddits that did not yet exist preceding their creation;
   correlational, not the natural experiment ChatGPT described.
 title: 'Subreddit Links Drive Community Creation and User Engagement on Reddit'
@@ -37,8 +37,8 @@ summary: >-
   and repeated links raised the chance of creation to about a third; links
   to existing subreddits come with a small, short-lived rise in activity.
   Reported as correlation; the title's 'drive' goes beyond it. Registered
-  from ChatGPT's A82 for the owner's Reddit case (CASE-tmp6idy5). Read in
-  NOTE-tmp39hi8; account THEORY-tmpj5upc.
+  from ChatGPT's A82 for the owner's Reddit case ([CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md)). Read in
+  [NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md); account [THEORY-tmpj5upc](../theory.d/THEORY-tmpj5upc.md).
 ---
 
 # LIT-tmpk778z: Subreddit Links Drive Community Creation and User Engagement on Reddit
@@ -47,4 +47,4 @@ Krohn and Weninger (2022). arXiv 2203.10155.
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 (NOTE-tmp39hi8, THEORY-tmpj5upc).
+Registered and read on 2026-11-19 ([NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md), [THEORY-tmpj5upc](../theory.d/THEORY-tmpj5upc.md)).

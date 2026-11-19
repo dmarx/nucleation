@@ -163,4 +163,4 @@ makes the bound informative. Whether it extends off a finite space, and
 whether it is non-vacuous on a real graph, is [QUESTION-183](../questions.d/QUESTION-183.md).
 
 ## Note of 2026-11-19: McDermott and colleagues, read
-A parallel (NOTE-tmp074zx): McDermott and colleagues also bound downstream error by how well the label agrees with a graph, the task's local consistency over an explicit pre-training graph for a nearest-neighbour classifier, a weaker and asymptotic counterpart of this account. They do not cite HaoChen and colleagues.
+A parallel ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): McDermott and colleagues also bound downstream error by how well the label agrees with a graph, the task's local consistency over an explicit pre-training graph for a nearest-neighbour classifier, a weaker and asymptotic counterpart of this account. They do not cite HaoChen and colleagues.

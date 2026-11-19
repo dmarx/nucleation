@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpr453b). Worth reading for an analytical case
+  Read on 2026-11-19 ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)). Worth reading for an analytical case
   of the same present capability with different later learning.
 title: 'A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning'
 version: 2
@@ -38,7 +38,7 @@ summary: >-
   ones; the relative scale changes fine-tuning even when the pretrained
   function is the same, and the best regime depends on how the fine-tuning
   task overlaps the pretrained features. Registered from ChatGPT's A82
-  after the owner's U37. Read in NOTE-tmpr453b; account THEORY-tmppm9la.
+  after the owner's U37. Read in [NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md); account [THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md).
 ---
 
 # LIT-tmplopzs: A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning
@@ -47,4 +47,4 @@ Anguita, Locatello, Saxe, Mondelli and Mancini (2026; ICML 2026, as ChatGPT says
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 (NOTE-tmpr453b, THEORY-tmppm9la).
+Registered and read on 2026-11-19 ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md), [THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md)).

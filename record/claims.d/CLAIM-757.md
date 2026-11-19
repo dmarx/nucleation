@@ -143,4 +143,4 @@ What the readings do to its standing. The conditional is untouched, but nothing 
 No status change.
 
 ## Note of 2026-11-19: Anguita and colleagues, read
-An analogy only (NOTE-tmpr453b): rescaling the readout, or shrinking all weights, at the start of fine-tuning moves a network back toward learning new features, which resembles the branch where an intervention renews what training used up. There is no loss of capacity over training and no threshold in their model, so no evidence for either branch.
+An analogy only ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): rescaling the readout, or shrinking all weights, at the start of fine-tuning moves a network back toward learning new features, which resembles the branch where an intervention renews what training used up. There is no loss of capacity over training and no threshold in their model, so no evidence for either branch.

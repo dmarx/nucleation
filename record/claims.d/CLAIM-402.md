@@ -214,4 +214,4 @@ question is not filed separately. No status changes.
 An analogy from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md), result 13), not evidence: a confirmation function's own estimates of its reliability "cannot be used as a method for obtaining an external, objective judg- ment on the goodness of a system of inductive logic" (§103). Evidence for a concept's adequacy that passes through the concept's own use is the case this claim excludes. [ADR-107](../decisions.d/ADR-107.md) now asks the same of an explication. The claim is unchanged.
 
 ## Note of 2026-11-19: Krohn and Weninger, read
-A parallel (NOTE-tmp39hi8): a link to a subreddit that does not yet exist is a name whose use can bring about its referent, and links to existing subreddits are as often reactive as proactive, so any measure built from links is endogenous in the way this claim warns of.
+A parallel ([NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md)): a link to a subreddit that does not yet exist is a name whose use can bring about its referent, and links to existing subreddits are as often reactive as proactive, so any measure built from links is endogenous in the way this claim warns of.

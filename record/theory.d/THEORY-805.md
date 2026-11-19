@@ -52,4 +52,4 @@ instance-based method's reject it for that method. [QUESTION-171](../questions.d
 same thing as a question; this entry is the answer Assran et al. propose.
 
 ## Note of 2026-11-19: McDermott and colleagues, read
-A parallel (NOTE-tmp074zx): a built-in relational prior costs transfer where it does not match the later task, in McDermott and colleagues' structure-inducing pre-training as here.
+A parallel ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): a built-in relational prior costs transfer where it does not match the later task, in McDermott and colleagues' structure-inducing pre-training as here.

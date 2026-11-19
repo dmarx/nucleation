@@ -20,7 +20,7 @@ corroborates:
 - CLAIM-350
 - CLAIM-152
 summary: >-
-  From the reading of LIT-tmp995ll in NOTE-tmp074zx. Cited by ChatGPT for
+  From the reading of [LIT-tmp995ll](../literature.d/LIT-tmp995ll.md) in [NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md). Cited by ChatGPT for
   the owner's point that pretraining shows acquired organization making
   later learning cheaper; it shows final performance, not cost. Proposed
   until its promote_when is met.

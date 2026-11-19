@@ -75,7 +75,7 @@ spinoff; explorer and non-explorer; exploration effect.
 
 ## Bearing on the record
 
-- **CASE-tmp6idy5.** Measures for three of the case's outcomes
+- **[CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md).** Measures for three of the case's outcomes
   (formation by the early-participant fraction, displacement by the
   activity ratio, complementarity by the exploration effect), and support
   for its caution that a parent can supply participants without causing
@@ -83,7 +83,7 @@ spinoff; explorer and non-explorer; exploration effect.
   gloss, that differentiation "need not imply fragmentation", goes beyond
   the paper, which measures short-term individual activity, not community
   fragmentation, and finds the sign reversed for some kinds of spinoff.
-- **THEORY-tmp5zxkk.** On the same platform, nesting is not descent: in
+- **[THEORY-tmp5zxkk](../theory.d/THEORY-tmp5zxkk.md).** On the same platform, nesting is not descent: in
   14% of pairs the specific community is the older, and about half share
   few founders.
 

@@ -19,7 +19,7 @@ corroborates:
 - CLAIM-754
 - CLAIM-675
 summary: >-
-  From the reading of LIT-tmplopzs in NOTE-tmpr453b. Cited by ChatGPT for
+  From the reading of [LIT-tmplopzs](../literature.d/LIT-tmplopzs.md) in [NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md). Cited by ChatGPT for
   the owner's point at U37; it gives an analytical case of equal present
   capability with different later learning. Proposed until its
   promote_when is met.

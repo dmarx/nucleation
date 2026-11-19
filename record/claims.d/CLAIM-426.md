@@ -162,4 +162,4 @@ intact. And the read sources (Land, Soros) give no condition for
 telling which judgements' circulation helps make them true.
 
 ## Note of 2026-11-19: Krohn and Weninger, read
-A parallel, close to evidence in form (NOTE-tmp39hi8): the chance that a proposed subreddit is created rises with how often it is linked, saturating near a third at about twenty links. The links are proposals or jokes, not judgements, and the result is correlational.
+A parallel, close to evidence in form ([NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md)): the chance that a proposed subreddit is created rises with how often it is linked, saturating near a third at about twenty links. The links are proposals or jokes, not judgements, and the result is correlational.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmp074zx). Worth reading for a bound tying what
+  Read on 2026-11-19 ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)). Worth reading for a bound tying what
   pre-training gives a later task to the task's agreement with the
   structure pre-training induces; it measures final performance, not the
   cost of later learning.
@@ -40,7 +40,7 @@ summary: >-
   the task's local consistency over the graph; small real-domain gains,
   and a misaligned graph hurts. It measures final performance, not the
   cost of later learning. Registered from ChatGPT's A82 after the owner's
-  U37. Read in NOTE-tmp074zx; account THEORY-tmpkjzqg.
+  U37. Read in [NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md); account [THEORY-tmpkjzqg](../theory.d/THEORY-tmpkjzqg.md).
 ---
 
 # LIT-tmp995ll: Structure-inducing pre-training
@@ -49,4 +49,4 @@ McDermott, Yap, Szolovits and Zitnik (2021; Nature Machine Intelligence 2023, DO
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 (NOTE-tmp074zx, THEORY-tmpkjzqg).
+Registered and read on 2026-11-19 ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md), [THEORY-tmpkjzqg](../theory.d/THEORY-tmpkjzqg.md)).

@@ -15,7 +15,7 @@ promote_when: >-
   their short-term activity in the parent across most kinds of spinoff,
   with the sign varying by kind.
 summary: >-
-  From the reading of LIT-tmpdivuz in NOTE-tmpwmsxg. Cited by ChatGPT for
+  From the reading of [LIT-tmpdivuz](../literature.d/LIT-tmpdivuz.md) in [NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md). Cited by ChatGPT for
   the owner's Reddit case; it supports less than the citation said.
   Proposed until its promote_when is met.
 ---

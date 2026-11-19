@@ -90,4 +90,4 @@ study that would test the claim.
   independently of the move ([CLAIM-342](CLAIM-342.md)).
 
 ## Note of 2026-11-19: Krohn and Weninger, read
-A parallel (NOTE-tmp39hi8): participants' acts of reference may produce the community referred to, as judgements of legitimacy are here said to produce succession.
+A parallel ([NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md)): participants' acts of reference may produce the community referred to, as judgements of legitimacy are here said to produce succession.

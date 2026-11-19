@@ -79,21 +79,21 @@ refinement and new learning; participation ratio and shared dimensions.
 
 ## Bearing on the record
 
-- **CLAIM-754 and CLAIM-675.** An analytical case of equal present
+- **[CLAIM-754](../claims.d/CLAIM-754.md) and [CLAIM-675](../claims.d/CLAIM-675.md).** An analytical case of equal present
   capability and different later learning: with pretraining exact, every
   relative scale gives the same pretrained function, yet fine-tuning's
   inductive bias differs. And which initialization is best reverses with
   the declared fine-tuning task, as the three-frontier claim says a
   ranking needs a declared distribution.
-- **CLAIM-756 and the owner's point at U37.** Pretrained features lower
+- **[CLAIM-756](../claims.d/CLAIM-756.md) and the owner's point at U37.** Pretrained features lower
   the sample cost of fine-tuning where tasks overlap, and beat training
   from scratch on SVHN: a real instance of the claim's premise, nothing on
   valuation.
-- **CLAIM-758.** No bearing on its time course, since pretraining length
+- **[CLAIM-758](../claims.d/CLAIM-758.md).** No bearing on its time course, since pretraining length
   is never varied; but it shows in a solvable model that later learning
   can depend on a property of the representation the present objective
   does not see.
-- **CASE-294.** The re-initialized head's scale and the layers' relative
+- **[CASE-294](../cases.d/CASE-294.md).** The re-initialized head's scale and the layers' relative
   scale decide whether fine-tuning reuses or learns features, so the
   study should fix and report them.
 

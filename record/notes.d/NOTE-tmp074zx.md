@@ -84,15 +84,15 @@ local consistency (close to homophily).
 
 ## Bearing on the record
 
-- **CLAIM-756 and the owner's point at U37.** It shows pre-training
+- **[CLAIM-756](../claims.d/CLAIM-756.md) and the owner's point at U37.** It shows pre-training
   improving final downstream performance, and once a faster convergence,
   not a measured fall in the cost of later learning; at most a weak
   instance of the claim's premise, and nothing on valuation.
-- **CLAIM-350 and CLAIM-152.** Corollary 1 is CLAIM-350 in pre-training
+- **[CLAIM-350](../claims.d/CLAIM-350.md) and [CLAIM-152](../claims.d/CLAIM-152.md).** Corollary 1 is [CLAIM-350](../claims.d/CLAIM-350.md) in pre-training
   form: a label-defined graph collapses each class, so a later task is
   served only as far as its labels are constant within the pre-training
   classes.
-- **CLAIM-758.** A demonstrated form, as a bound, of the overcompression
+- **[CLAIM-758](../claims.d/CLAIM-758.md).** A demonstrated form, as a bound, of the overcompression
   mechanism the claim lists: a constraint sufficient for the pre-training
   labels and insufficient for a task whose labels vary within them. It
   does not grow with training here.

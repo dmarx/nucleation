@@ -15,7 +15,7 @@ promote_when: >-
   control matched on context, and the small, partly reactive activity
   pattern around links to existing subreddits.
 summary: >-
-  From the reading of LIT-tmpk778z in NOTE-tmp39hi8. Cited by ChatGPT for
+  From the reading of [LIT-tmpk778z](../literature.d/LIT-tmpk778z.md) in [NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md). Cited by ChatGPT for
   the owner's Reddit case as natural-experiment evidence; the authors
   report correlation. Proposed until its promote_when is met.
 ---

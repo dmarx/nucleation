@@ -237,4 +237,4 @@ A second source of relativity, from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md)
 ## Note of 2026-11-19: McDermott and colleagues, read
 <!-- inactive-ok-file: THEORY-tmpkjzqg — Proposed; cited from the readings of 2026-11-19 -->
 
-McDermott and colleagues (THEORY-tmpkjzqg, corroborates; NOTE-tmp074zx): a partition sufficient for the pre-training labels serves a later task only as far as that task's labels are constant on its classes (Corollary 1), an instance of sufficiency being relative to the target.
+McDermott and colleagues ([THEORY-tmpkjzqg](../theory.d/THEORY-tmpkjzqg.md), corroborates; [NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): a partition sufficient for the pre-training labels serves a later task only as far as that task's labels are constant on its classes (Corollary 1), an instance of sufficiency being relative to the target.

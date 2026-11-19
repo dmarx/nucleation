@@ -55,4 +55,4 @@ Extended pre-training improves the base model steadily. For a modification of fi
 - Not a general law: one run per real model family, small controlled models, a linear theory.
 
 ## Note of 2026-11-19: Anguita and colleagues, read
-A contrast (NOTE-tmpr453b): Anguita and colleagues vary initialization, not pretraining length, and measure only fine-tuning error, so their account says nothing about catastrophic overtraining or forgetting.
+A contrast ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): Anguita and colleagues vary initialization, not pretraining length, and measure only fine-tuning error, so their account says nothing about catastrophic overtraining or forgetting.

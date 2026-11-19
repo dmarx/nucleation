@@ -43,4 +43,4 @@ Platforms and peer communities, not public administration or algorithmic decisio
 Kong and Chang's argument.
 
 ## Note of 2026-11-19: Hessel, Tan and Lee, read
-A qualifying parallel (NOTE-tmpwmsxg): online, trying an alternative community is mostly not exit from the original, in Hessel, Tan and Lee's data, except for place and nsfw spinoffs and some pairs.
+A qualifying parallel ([NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md)): online, trying an alternative community is mostly not exit from the original, in Hessel, Tan and Lee's data, except for place and nsfw spinoffs and some pairs.
