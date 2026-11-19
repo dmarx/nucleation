@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpjdtrl), from arXiv 2510.03264v1 (HTML, CC BY 4.0). Not held before;
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpjdtrl), from arXiv 2510.03264v1 (HTML, CC BY 4.0). Not held before;
     the identifier checked on the arXiv API.
 tags:
 - learning-theory
@@ -29,8 +29,8 @@ summary: >-
   doubling the baseline's SFT data does not close the gap; diversity
   matters most in pretraining and quality in SFT. Only pretraining tokens
   are fixed, total reasoning data is not, and no saving in data or compute
-  is measured. One run per arm. Read in [NOTE-tmpw5r9u](../notes.d/NOTE-tmpw5r9u.md); account THEORY-
-  tmpgk8nb.
+  is measured. One run per arm. Read in [NOTE-tmpw5r9u](../notes.d/NOTE-tmpw5r9u.md); account
+  THEORY-tmpgk8nb.
 ---
 
 # LIT-tmpofzg6: Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data

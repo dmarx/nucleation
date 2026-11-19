@@ -2,16 +2,16 @@
 status: Active
 status_note: >-
   About the last phase, not what early data does to later learning; its
-  late-code result qualifies [THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md). Read on 2026-11-19 (NOTE-
-  tmpfwg5y).
+  late-code result qualifies [THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md). Read on 2026-11-19
+  (NOTE-tmpfwg5y).
 title: 'Does your data spark joy? Performance gains from domain upsampling at the end of training'
 version: 1
 history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpjdtrl), from arXiv 2406.03476v1 (PDF). Not held before; the
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpjdtrl), from arXiv 2406.03476v1 (PDF). Not held before; the
     identifier checked on the arXiv API.
 tags:
 - learning-theory

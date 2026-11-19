@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpjdtrl), from arXiv 2506.11300v2 (PDF, 28 Jan 2026). Not held before;
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpjdtrl), from arXiv 2506.11300v2 (PDF, 28 Jan 2026). Not held before;
     the identifier checked on the arXiv API.
 tags:
 - learning-theory
@@ -30,8 +30,8 @@ summary: >-
   18 to 45 per cent fewer steps for the best metric–schedule pairs, the
   advantage concentrated early and mid-training; used as a warm-up before
   the baseline's own shuffled continuation, a curriculum ends 2 to 3.5 per
-  cent higher. Mostly single runs. Read in [NOTE-tmp4uvbo](../notes.d/NOTE-tmp4uvbo.md); account THEORY-
-  tmply4g3.
+  cent higher. Mostly single runs. Read in [NOTE-tmp4uvbo](../notes.d/NOTE-tmp4uvbo.md); account
+  THEORY-tmply4g3.
 ---
 
 # LIT-tmp42j5k: Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning

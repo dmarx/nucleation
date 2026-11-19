@@ -40,8 +40,8 @@ repetition; RoBERTa global-order runs failed to converge.
 
 Opper and colleagues ([THEORY-tmpshgvo](THEORY-tmpshgvo.md)) agree: developmental or complexity
 order barely moves final syntactic scores in small models, and coherent
-units matter (sequences beat token blocks). Zhang and colleagues (THEORY-
-tmply4g3) agree for strict ordering within a corpus, and add early
+units matter (sequences beat token blocks). Zhang and colleagues
+(THEORY-tmply4g3) agree for strict ordering within a corpus, and add early
 acceleration and warm-up gains. Yıldız and colleagues ([THEORY-tmpvbozh](THEORY-tmpvbozh.md))
 contrast: across many distinct domains, order changes final perplexity and
 forgetting. Feng, Prabhumoye and colleagues ([THEORY-tmpngig0](THEORY-tmpngig0.md)) share this

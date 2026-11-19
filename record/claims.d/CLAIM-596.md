@@ -123,8 +123,8 @@ Most of the follow-up readings report yields, and so cannot tell a
 foundation that speeds later learning from a head start: Papadimitriou and
 Jurafsky ([THEORY-tmpf6s7m](../theory.d/THEORY-tmpf6s7m.md)) measure end-state perplexity under a frozen
 interface; Opper ([THEORY-tmpshgvo](../theory.d/THEORY-tmpshgvo.md)), Feng and Prabhumoye ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md))
-and Ma ([THEORY-tmp9adpz](../theory.d/THEORY-tmp9adpz.md)) final scores; Wang and colleagues (THEORY-
-tmp1b3hj) a per-step attribution with the same blindness. Zhang and
+and Ma ([THEORY-tmp9adpz](../theory.d/THEORY-tmp9adpz.md)) final scores; Wang and colleagues
+(THEORY-tmp1b3hj) a per-step attribution with the same blindness. Zhang and
 colleagues ([THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md)) come nearest to the rate this claim asks for:
 strict curricula look like head starts, an early lead that closes, while a
 curriculum warm-up keeps improving after the baseline converges; read from

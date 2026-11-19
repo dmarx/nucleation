@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpjdtrl), from arXiv 2408.10914v1 (HTML, CC BY-NC-ND). Not held before;
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpjdtrl), from arXiv 2408.10914v1 (HTML, CC BY-NC-ND). Not held before;
     the identifier checked on the arXiv API.
 tags:
 - learning-theory

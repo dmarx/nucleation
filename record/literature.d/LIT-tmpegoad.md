@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpjdtrl), from arXiv 2311.00128v2 (BabyLM 2023 shared task). Not held
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpjdtrl), from arXiv 2311.00128v2 (BabyLM 2023 shared task). Not held
     before; the identifier checked on the arXiv API.
 tags:
 - learning-theory
@@ -31,8 +31,8 @@ summary: >-
   beats its reverse and only matches random sampling, except slightly on a
   text-heavy control. The authors attribute random sampling's strength to
   the share of steps given to short speech lines, an interpretation not
-  manipulated. No later acquisition's cost is measured. Read in NOTE-
-  tmp7x6kq; account [THEORY-tmpshgvo](../theory.d/THEORY-tmpshgvo.md).
+  manipulated. No later acquisition's cost is measured. Read in
+  NOTE-tmp7x6kq; account [THEORY-tmpshgvo](../theory.d/THEORY-tmpshgvo.md).
 ---
 
 # LIT-tmpegoad: On the effect of curriculum learning with developmental data for grammar acquisition

@@ -130,8 +130,8 @@ cost terms (corroborates). Hernandez and colleagues ([THEORY-tmp1mk7r](../theory
 pretraining is worth an amount of from-scratch data that grows as a power
 law in later data and model size, in the low-data regime; pretraining's
 own cost is excluded, and outside that regime small pretrained models do
-worse than from scratch. The procedural-pretraining paper (THEORY-
-tmpmy98s): a warm-up of well under one per cent of tokens, with no direct
+worse than from scratch. The procedural-pretraining paper
+(THEORY-tmpmy98s): a warm-up of well under one per cent of tokens, with no direct
 value on the target, saves 14 to 45 per cent of later tokens; no seeds.
 Against these, Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) find that at matched
 compute with a tuned initialization no first phase beats natural language

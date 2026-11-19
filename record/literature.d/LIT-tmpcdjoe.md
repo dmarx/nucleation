@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpjdtrl), from arXiv 2102.01293v1 (PDF). Not held before; the
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpjdtrl), from arXiv 2102.01293v1 (PDF). Not held before; the
     identifier checked on the arXiv API.
 tags:
 - learning-theory
@@ -32,8 +32,8 @@ summary: >-
   tuning data by a factor that falls with fine-tuning data and grows with
   model size. Outside that regime the fit fails and small pretrained
   models can end worse than from scratch ("ossify"). Pretraining's cost is
-  set aside; no order comparison. Read in [NOTE-tmpmxg4d](../notes.d/NOTE-tmpmxg4d.md); account THEORY-
-  tmp1mk7r.
+  set aside; no order comparison. Read in [NOTE-tmpmxg4d](../notes.d/NOTE-tmpmxg4d.md); account
+  THEORY-tmp1mk7r.
 ---
 
 # LIT-tmpcdjoe: Scaling Laws for Transfer

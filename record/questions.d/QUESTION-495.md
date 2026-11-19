@@ -103,7 +103,7 @@ Two readings bear on the worry that the value of learning cannot be specified in
 
 Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) give a narrow empirical case where
 investing in later learnability does not pay at matched compute except in
-very data-poor additive settings. Hernandez and colleagues (THEORY-
-tmp1mk7r) propose using their transfer exponent to choose between
+very data-poor additive settings. Hernandez and colleagues
+(THEORY-tmp1mk7r) propose using their transfer exponent to choose between
 collecting more fine-tuning data and growing the model, and list the ideal
 pretraining ratio for a data-limited target as open.

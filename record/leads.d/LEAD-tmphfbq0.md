@@ -58,3 +58,18 @@ owner, review of 2026-11-19).
 
 ## Note of 2026-11-19: Hu, Petty, Shi, Merrill and Linzen, read
 Hu and colleagues' setup ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)) is prior research of the kind this lead looks for first, and a ready testbed for its mediation test: disrupt or reinitialize the subnetwork found after the formal-language phase, before natural-language pretraining, and see whether the token saving goes. Their first phases matching only local statistics are a partial analogue of the shortcut arm. That is the assistant's suggestion, not the paper's.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmpf6s7m THEORY-tmpmy98s THEORY-tmpq9sev — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Candidates for the reading this lead now asks for first, from the
+follow-up readings, none a full match. Petty and colleagues
+(THEORY-tmpq9sev) measure how a learned component (code) changes later
+compositional generalization, at size-matched controls, but as final
+accuracy without a matched first stage or an intervention. The
+procedural-pretraining paper (THEORY-tmpmy98s) measures a later cost with
+and without a learned component and removes the saving by shuffling the
+transferred weights, an intervention on the learned representation; its
+components are procedures, not a shared latent mapping. Papadimitriou and
+Jurafsky (THEORY-tmpf6s7m) transfer frozen structure to a later task. A
+targeted search of the task-composition literature is still to do.

@@ -18,8 +18,8 @@ promote_when: >-
   sampling.
 summary: >-
   From the reading of [LIT-tmpegoad](../literature.d/LIT-tmpegoad.md) in [NOTE-tmp7x6kq](../notes.d/NOTE-tmp7x6kq.md). A weak, mostly
-  negative check on curricula in small language models, beside THEORY-
-  tmprqq7k. Proposed until its promote_when is met.
+  negative check on curricula in small language models, beside
+  THEORY-tmprqq7k. Proposed until its promote_when is met.
 ---
 
 # THEORY-tmpshgvo: Opper, Morrison and Siddharth find that a small masked language model trained for a fixed step budget on the BabyLM strict-small corpora acquires grammar, as BLiMP measures it, no better under sequence-complexity curricula than under random sampling, better on transcribed speech alone than on text alone, and only marginally better under a simple-to-complex corpus order than under random sampling

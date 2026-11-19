@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpjdtrl), from arXiv 2409.04556v2 (25 Feb 2025; v1 6 Sep 2024). The
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpjdtrl), from arXiv 2409.04556v2 (25 Feb 2025; v1 6 Sep 2024). The
     arXiv listing abstract swaps the definitions of the two settings; the
     PDF's are used. Not held before; the identifier checked on the arXiv
     API.
@@ -33,8 +33,8 @@ summary: >-
   outputs (COGS, COGS-vf) beyond what extra language buys, and multi-digit
   arithmetic; it lowers natural-language-output generalization
   (passivization), morphology, reasoning and world knowledge. Order is
-  never varied, and code does not speed fine-tuning. Read in NOTE-
-  tmp1fwdh; account [THEORY-tmpq9sev](../theory.d/THEORY-tmpq9sev.md).
+  never varied, and code does not speed fine-tuning. Read in
+  NOTE-tmp1fwdh; account [THEORY-tmpq9sev](../theory.d/THEORY-tmpq9sev.md).
 ---
 
 # LIT-tmp8kulf: How Does Code Pretraining Affect Language Model Task Performance?
