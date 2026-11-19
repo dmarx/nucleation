@@ -217,13 +217,13 @@ Three parallels, none the claim's signature. Liu and colleagues ([NOTE-tmphfhfu]
 ## Note of 2026-11-19: the scheduling follow-up readings, read
 <!-- inactive-ok-file: THEORY-tmp1mk7r THEORY-tmpgk8nb THEORY-tmpmy98s THEORY-tmpsewbi — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Hernandez and colleagues (THEORY-tmp1mk7r, corroborates) give independent
+Hernandez and colleagues ([THEORY-tmp1mk7r](../theory.d/THEORY-tmp1mk7r.md), corroborates) give independent
 evidence: in the high-data regime, pretraining leaves small models unable
 to reach from-scratch performance even with 10 to 100 times the data that
 saturates them, which the authors call ossification; forgetting is not
 measured, and they flag tuning as a possible remedy. Stern and colleagues
-(THEORY-tmpsewbi) show collateral forgetting of a first phase at an abrupt
-switch, part of its cost. The procedural paper (THEORY-tmpmy98s) finds a
+([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) show collateral forgetting of a first phase at an abrupt
+switch, part of its cost. The procedural paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) finds a
 first phase driven to too low a loss worsens later transfer, small-scale.
-Akter and colleagues (THEORY-tmpgk8nb) qualify: reasoning-rich pretraining
+Akter and colleagues ([THEORY-tmpgk8nb](../theory.d/THEORY-tmpgk8nb.md)) qualify: reasoning-rich pretraining
 does not worsen later fine-tuning at 8B and 1T tokens, one run per arm.

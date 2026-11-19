@@ -114,7 +114,7 @@ The design makes a prediction a head start does not: the effect falls off with d
 ## Note of 2026-11-19: the scheduling follow-up readings, read
 <!-- inactive-ok-file: THEORY-tmply4g3 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Zhang and colleagues (THEORY-tmply4g3) give the nearest contrast on
+Zhang and colleagues ([THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md)) give the nearest contrast on
 record: strict curricula behave like a more advanced start, an early lead
 that closes, while a curriculum used as warm-up is followed by continued
 improvement after the baseline converges, suggesting changed later

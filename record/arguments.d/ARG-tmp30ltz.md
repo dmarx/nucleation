@@ -31,23 +31,23 @@ summary: >-
 
 ## The inference
 
-CLAIM-756 says an acquisition *can* be worth making for what it does to
+[CLAIM-756](../claims.d/CLAIM-756.md) says an acquisition *can* be worth making for what it does to
 the cost of other acquisitions. Its premise needs one coherent case in
 which an earlier acquisition lowers a later one's cost, counted with the
-earlier cost. Hu and colleagues (THEORY-tmpk9cmk) give one: a 1B model
+earlier cost. Hu and colleagues ([THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)) give one: a 1B model
 reaches its baseline's final loss with 33 per cent fewer total tokens,
 the formal-language phase included. The procedural-pretraining paper
-(THEORY-tmpmy98s) gives a second, independent one: 2.1M procedural tokens
+([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) gives a second, independent one: 2.1M procedural tokens
 save about 45 per cent of C4 tokens at 124M, and 82M save 34 per cent at
 1.3B, with shuffled data or shuffled weights giving no saving.
 
-Stern and colleagues (THEORY-tmpsewbi) find that at matched FLOPs, with
+Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) find that at matched FLOPs, with
 an improved initialization, no first phase of this kind beats natural
 language alone, in three regimes, and that part of an earlier reported
 gain was a weak baseline. That does not defeat an existence claim. It
 does stop the instances being read as a general rule of the form "a
 structured first phase lowers later cost", which the record's earlier
-notes on CLAIM-756 came close to.
+notes on [CLAIM-756](../claims.d/CLAIM-756.md) came close to.
 
 ## Critical questions
 
@@ -65,7 +65,7 @@ later costs. In both instances the first phase has no direct return on
 the target (its vocabulary is discarded) and a positive effect on the
 later cost. That is the separation. Neither instance tests the claim's
 second part, that ranking learning policies can reverse once the effect
-is counted; CASE-295 carries that by stipulation.
+is counted; [CASE-295](../cases.d/CASE-295.md) carries that by stipulation.
 
 ## Verdict
 

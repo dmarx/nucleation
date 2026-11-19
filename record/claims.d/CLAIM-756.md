@@ -123,25 +123,25 @@ The readings the owner asked for after the earlier note ([LEAD-tmpn5ruw](../lead
 Six works read for [LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md), the owner's suggestion that ordering experiments have this claim's shape. Two add evidence for the premise with the earlier acquisition's cost counted, which ULMFiT ([THEORY-tmpw8s3h](../theory.d/THEORY-tmpw8s3h.md)) did not. Hu and colleagues ([THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md), corroborates): a short formal-language first phase lets a 1B model reach its baseline's final loss with 33 per cent fewer total tokens, the first phase included; a matched natural-language first phase gets much of the saving. Chen and colleagues ([THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md), corroborates): at a fixed total budget, mixing a target skill's prerequisites in reaches a loss threshold in about a third fewer steps, though by co-acquisition, not one then the other. Bengio and colleagues ([THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md), corroborates) give the claim's pattern in final-error terms: easier shapes, poor alone, belong to the best policy within a fixed budget ([CASE-295](../cases.d/CASE-295.md)'s shape). Gururangan and colleagues, Liu and colleagues, and Feng and colleagues measure final performance: relevant earlier training helps, irrelevant hurts, specialized data early beats late, and developmental order within one corpus barely matters. None tests the claim's own content, valuing an acquisition by its effect on others. No status change.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
-<!-- inactive-ok-file: ARG-tmp30ltz LEAD-tmpjdtrl THEORY-tmp1b3hj THEORY-tmp1mk7r THEORY-tmp5jrhv THEORY-tmpbsmcq THEORY-tmpgk8nb THEORY-tmply4g3 THEORY-tmpmy98s THEORY-tmpngig0 THEORY-tmpsewbi THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: ARG-tmp30ltz LEAD-tmpjdtrl THEORY-tmp1b3hj THEORY-tmp1mk7r THEORY-tmp5jrhv THEORY-tmpbsmcq THEORY-tmpgk8nb THEORY-tmply4g3 THEORY-tmpngig0 THEORY-tmpsewbi THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Fifteen works read for LEAD-tmpjdtrl. Two add evidence for the premise in
-cost terms (corroborates). Hernandez and colleagues (THEORY-tmp1mk7r):
+Fifteen works read for [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md). Two add evidence for the premise in
+cost terms (corroborates). Hernandez and colleagues ([THEORY-tmp1mk7r](../theory.d/THEORY-tmp1mk7r.md)):
 pretraining is worth an amount of from-scratch data that grows as a power
 law in later data and model size, in the low-data regime; pretraining's
 own cost is excluded, and outside that regime small pretrained models do
 worse than from scratch. The procedural-pretraining paper (THEORY-
 tmpmy98s): a warm-up of well under one per cent of tokens, with no direct
 value on the target, saves 14 to 45 per cent of later tokens; no seeds.
-Against these, Stern and colleagues (THEORY-tmpsewbi) find that at matched
+Against these, Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) find that at matched
 compute with a tuned initialization no first phase beats natural language
-alone, and that part of an earlier gain was a weak baseline; ARG-tmp30ltz
+alone, and that part of an earlier gain was a weak baseline; [ARG-tmp30ltz](../arguments.d/ARG-tmp30ltz.md)
 argues that the instances carry the premise as possibility and not as a
 rule. The rest measure final scores or attribution, not cost: code first
-(THEORY-tmpbsmcq) wins before cooldown and loses after it; reasoning data
-early (THEORY-tmpgk8nb) raises what fine-tuning reaches; order at fixed
-data matters a little (THEORY-tmpngig0, THEORY-tmply4g3, THEORY-tmpvbozh);
-and the attribution studies (THEORY-tmp1b3hj, THEORY-tmp5jrhv) credit only
+([THEORY-tmpbsmcq](../theory.d/THEORY-tmpbsmcq.md)) wins before cooldown and loses after it; reasoning data
+early ([THEORY-tmpgk8nb](../theory.d/THEORY-tmpgk8nb.md)) raises what fine-tuning reaches; order at fixed
+data matters a little ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md), [THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md), [THEORY-tmpvbozh](../theory.d/THEORY-tmpvbozh.md));
+and the attribution studies ([THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md), [THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md)) credit only
 immediate alignment, so by construction they cannot see an acquisition's
 effect on later ones, the accounting this claim says is missing. None
 tests the claim's own content. No status change.

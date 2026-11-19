@@ -162,8 +162,8 @@ Design points. Liu and colleagues ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md))
 <!-- inactive-ok-file: THEORY-tmp5jrhv THEORY-tmpfvaag THEORY-tmpngig0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Several follow-up readings show what this study would add. Nishida and
-colleagues (THEORY-tmp5jrhv) run a checkpoint pipeline on Pythia that
-measures alignment, not cost; Blakeney and colleagues (THEORY-tmpfvaag)
-and Feng, Prabhumoye and colleagues (THEORY-tmpngig0) report end-of-run
+colleagues ([THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md)) run a checkpoint pipeline on Pythia that
+measures alignment, not cost; Blakeney and colleagues ([THEORY-tmpfvaag](../theory.d/THEORY-tmpfvaag.md))
+and Feng, Prabhumoye and colleagues ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md)) report end-of-run
 scores without a cost to a threshold. None prices a later acquisition by
 checkpoint.

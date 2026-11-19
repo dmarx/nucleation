@@ -116,12 +116,12 @@ Two readings bear on order. Hu and colleagues ([THEORY-tmpk9cmk](../theory.d/THE
 <!-- inactive-ok-file: THEORY-tmp1b3hj THEORY-tmp5jrhv THEORY-tmply4g3 THEORY-tmpmy98s THEORY-tmpsewbi — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 The follow-up readings bear on the order of data more than on the moment a
-structure is acquired. Zhang and colleagues (THEORY-tmply4g3, bears_on):
+structure is acquired. Zhang and colleagues ([THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md), bears_on):
 difficulty order moves when aggregate competence arrives, mostly not the
-endpoint. Nishida and colleagues (THEORY-tmp5jrhv) and Wang and colleagues
-(THEORY-tmp1b3hj) describe which data align with training early and late,
-attribution only. Stern and colleagues (THEORY-tmpsewbi) find what a
+endpoint. Nishida and colleagues ([THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md)) and Wang and colleagues
+([THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md)) describe which data align with training early and late,
+attribution only. Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) find what a
 separate first phase taught is overwritten at the switch and kept under
 interleaving, so order bears on retention as well as acquisition. The
-procedural paper (THEORY-tmpmy98s) finds the first phase's length matters
+procedural paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) finds the first phase's length matters
 non-monotonically. Background for the question's mechanisms.

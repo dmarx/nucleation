@@ -128,9 +128,9 @@ Parallels from two readings. Brown and colleagues ([NOTE-tmprmye5](../notes.d/NO
 <!-- inactive-ok-file: THEORY-tmp1mk7r THEORY-tmpgk8nb THEORY-tmpmy98s — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Parallels from the follow-up readings, none naming this claim: the
-procedural paper (THEORY-tmpmy98s) finds the same first phase lowers some
+procedural paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) finds the same first phase lowers some
 later costs and raises others, with the best transferring component
-differing by domain; Hernandez and colleagues (THEORY-tmp1mk7r) find
+differing by domain; Hernandez and colleagues ([THEORY-tmp1mk7r](../theory.d/THEORY-tmp1mk7r.md)) find
 whether pretraining helps depends on later data and size; Akter and
-colleagues (THEORY-tmpgk8nb) find pretraining choices that barely move
+colleagues ([THEORY-tmpgk8nb](../theory.d/THEORY-tmpgk8nb.md)) find pretraining choices that barely move
 base scores move what fine-tuning reaches. Analogies.

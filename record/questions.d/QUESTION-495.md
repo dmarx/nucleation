@@ -99,9 +99,9 @@ ChatGPT (A84) ranks this question foundational in its triage ([CLAIM-tmpitvrh](.
 Two readings bear on the worry that the value of learning cannot be specified in advance. McDermott and colleagues ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)) give a partial criterion: a later task benefits from pre-training as far as it is smooth over the structure pre-training induced, so given that structure, which unknown tasks will benefit is partly predictable. Anguita and colleagues ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)) show a pretraining-time choice, the initialization's scales, whose value appears only at fine-tuning and depends on which task comes. Analogies to the question's object; no answer.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
-<!-- inactive-ok-file: THEORY-tmp1mk7r THEORY-tmpsewbi — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpsewbi — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Stern and colleagues (THEORY-tmpsewbi) give a narrow empirical case where
+Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) give a narrow empirical case where
 investing in later learnability does not pay at matched compute except in
 very data-poor additive settings. Hernandez and colleagues (THEORY-
 tmp1mk7r) propose using their transfer exponent to choose between

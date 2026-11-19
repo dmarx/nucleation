@@ -189,9 +189,9 @@ by the filing.
 ## Note of 2026-11-19: the scheduling follow-up readings, read
 <!-- inactive-ok-file: THEORY-tmpbsmcq THEORY-tmpq9sev THEORY-tmpshgvo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Aryabumi and colleagues (THEORY-tmpbsmcq) and Petty and colleagues
-(THEORY-tmpq9sev) find world-knowledge scores fall as the code share
+Aryabumi and colleagues ([THEORY-tmpbsmcq](THEORY-tmpbsmcq.md)) and Petty and colleagues
+([THEORY-tmpq9sev](THEORY-tmpq9sev.md)) find world-knowledge scores fall as the code share
 rises, the latter with language data held fixed, consistent with capacity
 competition by mixing ratio; neither measures a threshold. Opper and
-colleagues (THEORY-tmpshgvo) read grammar acquisition as set by the share
+colleagues ([THEORY-tmpshgvo](THEORY-tmpshgvo.md)) read grammar acquisition as set by the share
 of steps given to speech, suggested, not manipulated. Analogies.

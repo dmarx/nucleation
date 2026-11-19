@@ -64,9 +64,9 @@ A parallel ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): Howard and Ruder also
 Two parallels. Gururangan and colleagues ([NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md)): more relevant continued pretraining helps and irrelevant hurts, so content, not only length, decides. Liu and colleagues ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)) cite this account and find at most a faint version of its pattern at 160M, and suggest midtraining "may prevent overtraining", untested.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
-<!-- inactive-ok-file: THEORY-tmpgk8nb THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Yıldız and colleagues (THEORY-tmpvbozh) find Llama2-7B, pretrained on 2T
+Yıldız and colleagues ([THEORY-tmpvbozh](THEORY-tmpvbozh.md)) find Llama2-7B, pretrained on 2T
 tokens, degraded by small-domain continued pretraining where GPT2-XL is
 not, which fits this account but which the authors attribute to domain
 size; pretraining length is not varied. Akter and colleagues (THEORY-

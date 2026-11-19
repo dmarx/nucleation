@@ -44,7 +44,7 @@ full data. Pretraining and unlabelled data are not counted as cost.
 ## Note of 2026-11-19: the scheduling follow-up readings, read
 <!-- inactive-ok-file: THEORY-tmp1mk7r — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Hernandez and colleagues (THEORY-tmp1mk7r) use the same measure, from-
+Hernandez and colleagues ([THEORY-tmp1mk7r](THEORY-tmp1mk7r.md)) use the same measure, from-
 scratch data equivalence, and generalize it to a power law in fine-tuning
 data and model size, with no special fine-tuning method to confound it;
 like this account they leave pretraining's cost uncounted. Corroborating.
