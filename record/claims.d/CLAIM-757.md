@@ -143,9 +143,9 @@ What the readings do to its standing. The conditional is untouched, but nothing 
 No status change.
 
 ## Note of 2026-11-19: Anguita and colleagues, read
-An analogy only ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): rescaling the readout, or shrinking all weights, at the start of fine-tuning moves a network back toward learning new features, which resembles the branch where an intervention renews what training used up. There is no loss of capacity over training and no threshold in their model, so no evidence for either branch.
+An analogy only ([NOTE-2159](../notes.d/NOTE-2159.md)): rescaling the readout, or shrinking all weights, at the start of fine-tuning moves a network back toward learning new features, which resembles the branch where an intervention renews what training used up. There is no loss of capacity over training and no threshold in their model, so no evidence for either branch.
 
 ## Note of 2026-11-19: Liu, Neubig and Xiong, read
-<!-- inactive-ok-file: THEORY-tmpd6smn — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2066 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-The nearest thing on record to a deadline in language-model pretraining ([THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md); [NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)): a heavy code mix helps most started early and, started late, ends worse than none, which the authors call a plasticity window. The decline with start time is gradual, with no threshold, which fits the depletion branch better than the disuse branch. But nothing renews practice or resets units, and later starts also fall at a lower learning rate under the cosine schedule, which the authors do not separate from plasticity. A parallel; the claim's test should name the schedule confound.
+The nearest thing on record to a deadline in language-model pretraining ([THEORY-2066](../theory.d/THEORY-2066.md); [NOTE-2154](../notes.d/NOTE-2154.md)): a heavy code mix helps most started early and, started late, ends worse than none, which the authors call a plasticity window. The decline with start time is gradual, with no threshold, which fits the depletion branch better than the disuse branch. But nothing renews practice or resets units, and later starts also fall at a lower learning rate under the cosine schedule, which the authors do not separate from plasticity. A parallel; the claim's test should name the schedule confound.

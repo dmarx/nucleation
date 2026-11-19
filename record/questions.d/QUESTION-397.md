@@ -112,9 +112,9 @@ There are three arms: nucleus with the mediator coupled, nucleus with it disable
 The design makes a prediction a head start does not: the effect falls off with distance from the nucleus over ℓ_m = √(D_m/γ), the length of the steady mediator profile e^(−|x|/ℓ_m) in one dimension. It also predicts that under weak noise the effect grows roughly exponentially with the barrier change. A also warns that "Simply deleting a topologically required defect while preserving its winding boundary conditions is not an admissible intervention", so do(c = 0) has to be a change the model allows. Not run.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
-<!-- inactive-ok-file: THEORY-tmply4g3 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2074 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Zhang and colleagues ([THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md)) give the nearest contrast on
+Zhang and colleagues ([THEORY-2074](../theory.d/THEORY-2074.md)) give the nearest contrast on
 record: strict curricula behave like a more advanced start, an early lead
 that closes, while a curriculum used as warm-up is followed by continued
 improvement after the baseline converges, suggesting changed later

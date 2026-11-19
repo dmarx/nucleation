@@ -120,4 +120,4 @@ The promote_when above.
   came from.
 
 ## Note of 2026-11-19: Anguita and colleagues, read
-A parallel ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): in Anguita and colleagues' rich, pretraining-dependent regime "nearly all representational dimensions expressed post-fine-tuning are inherited from the pretraining state", the same kind of finding as this account's.
+A parallel ([NOTE-2159](../notes.d/NOTE-2159.md)): in Anguita and colleagues' rich, pretraining-dependent regime "nearly all representational dimensions expressed post-fine-tuning are inherited from the pretraining state", the same kind of finding as this account's.

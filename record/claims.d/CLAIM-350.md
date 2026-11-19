@@ -153,6 +153,6 @@ Halpern's compatibility condition is this claim's shape one level up, on
 contexts ([THEORY-849](../theory.d/THEORY-849.md)).
 
 ## Note of 2026-11-19: McDermott and colleagues, read
-<!-- inactive-ok-file: THEORY-tmpkjzqg — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2072 — Proposed; cited from the readings of 2026-11-19 -->
 
-McDermott and colleagues ([THEORY-tmpkjzqg](../theory.d/THEORY-tmpkjzqg.md), corroborates; [NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): Corollary 1 is this claim in pre-training form. A pre-training graph defined by class labels collapses each class, so nearest-neighbour accuracy on a later task is capped by how constant its label is within the pre-training classes, "once saturation is reached, it will not improve beyond this fixed upper bound relating to task correlation".
+McDermott and colleagues ([THEORY-2072](../theory.d/THEORY-2072.md), corroborates; [NOTE-2138](../notes.d/NOTE-2138.md)): Corollary 1 is this claim in pre-training form. A pre-training graph defined by class labels collapses each class, so nearest-neighbour accuracy on a later task is capped by how constant its label is within the pre-training classes, "once saturation is reached, it will not improve beyond this fixed upper bound relating to task correlation".

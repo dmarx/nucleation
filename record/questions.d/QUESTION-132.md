@@ -275,4 +275,4 @@ The example restates this question's dormant case with numbers. It is not filed 
 No status changes.
 
 ## Note of 2026-11-19: Hessel, Tan and Lee, read
-An analogy only ([NOTE-tmpwmsxg](../notes.d/NOTE-tmpwmsxg.md)): Hessel, Tan and Lee's "complementary rather than competitive" spinoffs concern individual users' short-term activity, not recovery when rare or coexistence in the ecological sense.
+An analogy only ([NOTE-2164](../notes.d/NOTE-2164.md)): Hessel, Tan and Lee's "complementary rather than competitive" spinoffs concern individual users' short-term activity, not recovery when rare or coexistence in the ecological sense.

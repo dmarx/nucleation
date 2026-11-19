@@ -187,11 +187,11 @@ is recorded against it there. This entry is its evidence and is not changed
 by the filing.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
-<!-- inactive-ok-file: THEORY-tmpbsmcq THEORY-tmpq9sev THEORY-tmpshgvo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2064 THEORY-2078 THEORY-2082 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Aryabumi and colleagues ([THEORY-tmpbsmcq](THEORY-tmpbsmcq.md)) and Petty and colleagues
-([THEORY-tmpq9sev](THEORY-tmpq9sev.md)) find world-knowledge scores fall as the code share
+Aryabumi and colleagues ([THEORY-2064](THEORY-2064.md)) and Petty and colleagues
+([THEORY-2078](THEORY-2078.md)) find world-knowledge scores fall as the code share
 rises, the latter with language data held fixed, consistent with capacity
 competition by mixing ratio; neither measures a threshold. Opper and
-colleagues ([THEORY-tmpshgvo](THEORY-tmpshgvo.md)) read grammar acquisition as set by the share
+colleagues ([THEORY-2082](THEORY-2082.md)) read grammar acquisition as set by the share
 of steps given to speech, suggested, not manipulated. Analogies.

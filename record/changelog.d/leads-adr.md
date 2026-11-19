@@ -1,7 +1,7 @@
-<!-- inactive-ok-file: ADR-tmpv2wkk — Proposed; filed in this contribution of 2026-11-19 -->
+<!-- inactive-ok-file: ADR-109 — Proposed; filed in this contribution of 2026-11-19 -->
 ### Added
 
-- [ADR-tmpv2wkk](record/decisions.d/ADR-tmpv2wkk.md) (Proposed): a new scheme, LEAD, for the record's backlog of
+- [ADR-109](record/decisions.d/ADR-109.md) (Proposed): a new scheme, LEAD, for the record's backlog of
   research opportunities, plans to advance a question or claim by any
   method, with a status and a separate stage; `presupposes` on questions
   and leads; `advanced_by` on questions and claims and `operationalizes`

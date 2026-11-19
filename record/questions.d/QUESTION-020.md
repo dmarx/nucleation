@@ -106,4 +106,4 @@ and [CLAIM-237](../claims.d/CLAIM-237.md), on side information and deficiency, b
 [QUESTION-016](QUESTION-016.md).
 
 ## Note of 2026-11-19: Brown and colleagues, read
-An analogy close to evidence ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): in Brown and colleagues' results larger models need fewer demonstrations, a better interpreter substituting for transmitted examples, though across model sizes and without a measure of the substitution rate.
+An analogy close to evidence ([NOTE-2160](../notes.d/NOTE-2160.md)): in Brown and colleagues' results larger models need fewer demonstrations, a better interpreter substituting for transmitted examples, though across model sizes and without a measure of the substitution rate.

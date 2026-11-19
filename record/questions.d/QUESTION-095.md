@@ -287,6 +287,6 @@ Tandon and colleagues ([THEORY-2049](../theory.d/THEORY-2049.md)), read: support
 No status change.
 
 ## Note of 2026-11-19: follow-up turns of "Topological protection explained"
-<!-- inactive-ok-file: CLAIM-760 CLAIM-tmpitvrh — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-760 CLAIM-763 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
-ChatGPT (A84) ranks this question high in its triage ([CLAIM-tmpitvrh](../claims.d/CLAIM-tmpitvrh.md)), to be advanced by "Formal and philosophical reconciliation of distributed cognition, caching, and amortized inference". Its next advance without an experiment, for the value of stored work: "Separate operational feasibility, lifetime economic efficiency, and distributed costs", which [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) have begun.
+ChatGPT (A84) ranks this question high in its triage ([CLAIM-763](../claims.d/CLAIM-763.md)), to be advanced by "Formal and philosophical reconciliation of distributed cognition, caching, and amortized inference". Its next advance without an experiment, for the value of stored work: "Separate operational feasibility, lifetime economic efficiency, and distributed costs", which [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) have begun.

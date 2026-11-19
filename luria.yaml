@@ -530,7 +530,7 @@ vocabularies:
   lead-statuses:
     label: Lead statuses
     blurb: Whether a LEAD is still to be followed. How far it has been worked out is its `stage`, a separate
-      field (ADR-tmpv2wkk).
+      field (ADR-109).
     alert: Closed.
     terms:
       Open:
@@ -547,7 +547,7 @@ vocabularies:
         blurb: replaced by a better-framed lead, named in `superseded_by`
   lead-stages:
     label: Lead stages
-    blurb: How far a LEAD has been worked out, beside whether it is still worth following (ADR-tmpv2wkk).
+    blurb: How far a LEAD has been worked out, beside whether it is still worth following (ADR-109).
     alert: Closed.
     terms:
       idea:
@@ -562,7 +562,7 @@ vocabularies:
         blurb: being done
   lead-methods:
     label: Lead methods
-    blurb: What kind of work a LEAD is. Experiment is one kind among several (CLAIM-tmpkcdfh, ADR-tmpv2wkk).
+    blurb: What kind of work a LEAD is. Experiment is one kind among several (CLAIM-764, ADR-109).
     alert: Closed.
     terms:
       reading:
@@ -1290,14 +1290,14 @@ schemes:
         label: Presupposes
         blurb: a question whose concepts or result any answer to this one must use. Not a question whose
           answer would only make this one easier; as a THEORY's `presupposes` takes another's conclusion
-          as a premise (ADR-029, ADR-tmpv2wkk)
+          as a premise (ADR-029, ADR-109)
         scheme: QUESTION
         required: false
         many: true
         converse: presupposed_by
       presupposed_by:
         label: Presupposed by
-        blurb: the questions and leads that presuppose this one, written by `luria link --fix` (ADR-tmpv2wkk)
+        blurb: the questions and leads that presuppose this one, written by `luria link --fix` (ADR-109)
         scheme: [QUESTION, LEAD]
         required: false
         many: true
@@ -1306,7 +1306,7 @@ schemes:
       advanced_by:
         label: Leads on it
         blurb: the leads that would advance this question, written by `luria link --fix` from their
-          `advances` (ADR-tmpv2wkk)
+          `advances` (ADR-109)
         scheme: LEAD
         required: false
         many: true
@@ -1372,7 +1372,7 @@ schemes:
       advanced_by:
         label: Leads on it
         blurb: the leads that would advance this claim, by testing, grounding or objecting to it, written
-          by `luria link --fix` from their `advances` (ADR-tmpv2wkk)
+          by `luria link --fix` from their `advances` (ADR-109)
         scheme: LEAD
         required: false
         many: true
@@ -1591,7 +1591,7 @@ schemes:
       operationalizes:
         label: Design for
         blurb: the leads this case's study design would carry out, written by `luria link --fix` from
-          their `operationalized_in` (ADR-tmpv2wkk)
+          their `operationalized_in` (ADR-109)
         scheme: LEAD
         required: false
         many: true
@@ -1949,7 +1949,7 @@ schemes:
       a distinction to draw, a proof, a study, a history, or working out how a question could be
       advanced at all. Its status says whether it is still worth following; its stage, how far it
       has been worked out. A lead is a plan, not a finding: what it yields is filed as readings,
-      claims and cases (ADR-tmpv2wkk).
+      claims and cases (ADR-109).
     dir: record/leads.d
     output: docs/leads
     active: Open
@@ -1959,14 +1959,14 @@ schemes:
       advances:
         label: Advances
         blurb: the questions and claims this lead would move, by answering, narrowing, testing, grounding
-          or objecting (ADR-tmpv2wkk)
+          or objecting (ADR-109)
         scheme: [QUESTION, CLAIM]
         required: true
         many: true
         converse: advanced_by
       operationalized_in:
         label: Designed in
-        blurb: the CASE that holds this lead's study design, where it has one (ADR-tmpv2wkk)
+        blurb: the CASE that holds this lead's study design, where it has one (ADR-109)
         scheme: CASE
         required: false
         many: true
@@ -1974,7 +1974,7 @@ schemes:
       presupposes:
         label: Presupposes
         blurb: a lead that must be done first, or a question whose concepts or result any way of doing this
-          one must use (ADR-tmpv2wkk)
+          one must use (ADR-109)
         scheme: [LEAD, QUESTION]
         required: false
         many: true
