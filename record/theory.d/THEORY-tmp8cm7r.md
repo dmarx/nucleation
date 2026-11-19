@@ -13,11 +13,14 @@ promote_when: >-
   that the number of in-context demonstrations needed to reach a fixed
   accuracy on held-out tasks falls with model size, and that the gap
   between zero- and few-shot widens with size.
+corroborates:
+- CLAIM-756
 summary: >-
   From the reading of [LIT-tmpjzvu6](../literature.d/LIT-tmpjzvu6.md) in [NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md). The owner's
   suggestion for showing that pretraining makes later task acquisition
-  cheap; it shows that across model sizes, not against no pretraining, and
-  the acquisition retains nothing. Proposed until its promote_when is met.
+  cheap; it shows that across model sizes, not against no pretraining.
+  In-context learning is learning of the model running in an episode
+  (TERM-131, version 2). Proposed until its promote_when is met.
 ---
 
 # THEORY-tmp8cm7r: Brown and colleagues show that in autoregressive language models from 125M to 175B parameters, each pretrained on 300B tokens, performance with task demonstrations given in the context and no weight update rises with the number of demonstrations and with model size, the gain over zero-shot growing with size, so that larger models reach a given accuracy with fewer in-context examples; they leave open whether this learns new tasks or recognizes tasks acquired in pretraining

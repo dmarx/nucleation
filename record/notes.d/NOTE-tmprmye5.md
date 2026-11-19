@@ -83,20 +83,17 @@ novo learning; contamination; amortized pretraining compute.
 
 ## Bearing on the record
 
-- **[CLAIM-756](../claims.d/CLAIM-756.md).** Weak evidence for its premise: larger pretrained models
-  reach a level with fewer examples, and a few demonstrations rival
-  125,000 fine-tuning examples. Short of what the owner's point at U37
-  needs: the comparison is across sizes, not with and without pretraining;
-  pretraining's cost is not set against the saving; and the later
-  "acquisition" retains nothing.
-- **[TERM-131](../terms.d/TERM-131.md).** Evidence on the open point [LEAD-tmpn5ruw](../leads.d/LEAD-tmpn5ruw.md) named. Against
-  counting in-context learning as learning in the term's sense: no
-  weights change and nothing is said to persist beyond the sequence. For
-  it, within a sequence: the context is retained state that changes later
-  outputs, and the authors call it learning. Pretraining, the outer loop,
-  is learning in the term's sense either way. In [CLAIM-754](../claims.d/CLAIM-754.md)'s terms the
-  success may be the operational frontier reached with a larger operating
-  budget (the context) rather than an acquisition.
+- **CLAIM-756.** Evidence for its premise: pretraining makes in-context
+  learning cheap, and a few demonstrations rival 125,000 fine-tuning
+  examples. The comparisons are across model sizes and across systems,
+  not one model with and without pretraining, and pretraining's cost is
+  not set against the saving.
+- **TERM-131.** No weights change and nothing persists beyond the
+  sequence; within it, the context is held state that changes later
+  outputs, and the authors call it learning. At the owner's prompting,
+  TERM-131 version 2 makes the term relative to a declared system and
+  horizon, so in-context learning is episodic learning of the model
+  running in an episode, and pretraining is learning of the weights.
 - **[THEORY-2039](../theory.d/THEORY-2039.md)** (Pan and colleagues) operationalizes the question the
   authors leave open, on these models.
 
