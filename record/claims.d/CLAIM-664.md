@@ -187,3 +187,6 @@ readings; its history says how. The other readings that touch it:
 - **Wilie et al.** ([THEORY-1763](../theory.d/THEORY-1763.md)): Belief-R's items are logical, the
   setting where a structural rule suffices; it does not reach weighted
   evidence.
+
+## Note of 2026-11-19: Carnap, read
+Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), results on §§4 and 81) separates classificatory, comparative and quantitative concepts of confirmation and builds a comparative one without a quantitative measure, that h is confirmed by e at least as strongly as h′ by e′, holding where every admissible measure agrees. In those terms the record's `rests_on` and `grounds` are a classificatory concept of support. A comparative one is a possible middle step between recording support "of unrecorded strength" and computing withdrawals, which this claim does not consider. It does not contradict the claim. No relation.

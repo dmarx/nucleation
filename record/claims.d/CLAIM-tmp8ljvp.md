@@ -63,6 +63,8 @@ summary: >-
   readings of 2026-11-19: the later family lies outside the training task
   distribution, and acquisition is priced with held capabilities kept, so
   collateral forgetting counts as cost.
+uses:
+- TERM-tmp1ix99
 ---
 <!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmp8wxgt THEORY-tmpbzf9h THEORY-tmpfhidr THEORY-tmpgjb4y THEORY-tmpm09s4 THEORY-tmpy398k THEORY-tmpzauel — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-695 CLAIM-tmp1l2s7 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->

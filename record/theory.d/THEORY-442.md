@@ -100,3 +100,6 @@ fail at its unargued premise, or at the reply to the division of labour.
 - Longino's critical contextual empiricism ([THEORY-151](THEORY-151.md)) also denies that values
   stay outside science. Douglas's argument is normative where Longino's is
   descriptive (fn. 8).
+
+## Note of 2026-11-19: Carnap, read
+Compatible ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). Carnap puts acceptance and decision outside inductive logic (§§44A, 50); costs of error enter only through utilities in the rule of maximizing estimated utility, which "is not a moral rule but a rule of applied logic" (§51). Values never change the degree of confirmation. He avoids acceptance altogether, which is where this account locates inductive risk.

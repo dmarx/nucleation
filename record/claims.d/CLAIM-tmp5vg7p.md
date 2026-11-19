@@ -51,6 +51,8 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
   Revised to version 2 after the readings of 2026-11-19: it now states two
   branches, and the evidence (Dohare and colleagues) fits depletion by use.
+uses:
+- TERM-tmp1ix99
 ---
 <!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmpgjb4y — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->

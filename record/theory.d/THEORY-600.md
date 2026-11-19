@@ -105,3 +105,6 @@ that it cannot. It tests nothing.
   moderate. The paper does not make that application.
 - The reading names a related case of reshaping a mental-health concept for
   its social effects, which the record holds but could not read.
+
+## Note of 2026-11-19: Carnap, read
+Background ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): defining health is explication in Carnap's sense, and his requirements ([THEORY-tmpai35t](THEORY-tmpai35t.md): clarity of the explicandum by cases meant and not meant, similarity, exactness, fruitfulness, simplicity) are a ready set of criteria for the comparison this account makes. Carnap does not discuss health.

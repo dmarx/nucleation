@@ -133,3 +133,6 @@ does, and that is the essay's argument for combining them.
 - **Fiat boundaries.** Smith and Varzi ([LIT-1024](../literature.d/LIT-1024.md), [THEORY-622](THEORY-622.md)) also hold
   that vagueness is a matter of demarcation, not of the material, and
   that every candidate aggregate is precise.
+
+## Note of 2026-11-19: Carnap, read
+A parallel from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): his comparative confirmation holds where every regular confirmation function agrees (§§80–81), a supervaluation over admissible measures, as this account's is over precisifications.
