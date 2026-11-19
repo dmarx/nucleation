@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-184
 summary: >-
-  Named in QUESTION-184. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-184](../questions.d/QUESTION-184.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmpang8w: Read Golub and Jackson's Proposition 2 and Theorem 3 with their definitions of influence and wisdom for several closed groups
@@ -25,7 +25,7 @@ Read the two results and apply them to several closed groups.
 
 Where the record names it:
 
-- QUESTION-184: "reading Golub and Jackson's Proposition 2 and Theorem 3
+- [QUESTION-184](../questions.d/QUESTION-184.md): "reading Golub and Jackson's Proposition 2 and Theorem 3
   with their definitions of influence and wisdom for several closed groups
   settles it."
 

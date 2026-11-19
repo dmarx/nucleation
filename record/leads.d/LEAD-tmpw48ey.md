@@ -25,17 +25,17 @@ summary: >-
 
 ## What it would do
 
-Read LIT-1409, and skim the two control catalogues.
+Read [LIT-1409](../literature.d/LIT-1409.md), and skim the two control catalogues.
 
 ## The works
 
-- LIT-1409 (Unfetched): Schulz-Hardt 2006, "Group decision making in
+- [LIT-1409](../literature.d/LIT-1409.md) (Unfetched): Schulz-Hardt 2006, "Group decision making in
   hidden profile situations: Dissent as a facilitator for decision quality"
-- LIT-1206 (Deferred): Joint Task Force 2020, "Security and Privacy
+- [LIT-1206](../literature.d/LIT-1206.md) (Deferred): Joint Task Force 2020, "Security and Privacy
   Controls for Information Systems and Organizations"
-- LIT-1216 (Deferred): Software Engineering Institute 2022, "Common Sense
+- [LIT-1216](../literature.d/LIT-1216.md) (Deferred): Software Engineering Institute 2022, "Common Sense
   Guide to Mitigating Insider Threats, Seventh Edition"
 
 ## What would count
 
-Safeguards that cost honest dissent test CLAIM-359's trade-off.
+Safeguards that cost honest dissent test [CLAIM-359](../claims.d/CLAIM-359.md)'s trade-off.

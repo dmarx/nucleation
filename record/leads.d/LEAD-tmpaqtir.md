@@ -19,7 +19,7 @@ advances:
 - CLAIM-492
 summary: >-
   Three central questions and an Active claim share one test. Named in
-  QUESTION-301, QUESTION-299 and NOTE-1280. Filed by the backlog audit of
+  [QUESTION-301](../questions.d/QUESTION-301.md), [QUESTION-299](../questions.d/QUESTION-299.md) and [NOTE-1280](../notes.d/NOTE-1280.md). Filed by the backlog audit of
   2026-11-19.
 ---
 
@@ -33,16 +33,16 @@ of concern added, and a legacy-priming arm where no one will know.
 
 Where the record names it:
 
-- QUESTION-301: "Measure felt continuity with one's legacy or with future
+- [QUESTION-301](../questions.d/QUESTION-301.md): "Measure felt continuity with one's legacy or with future
   generations, and test whether concern for them follows that measure or
   follows caring alone."
-- QUESTION-299: "Whether such concern varies with a measured continuity
+- [QUESTION-299](../questions.d/QUESTION-299.md): "Whether such concern varies with a measured continuity
   between the self and the future, apart from caring."
-- NOTE-1280: "with a measure of concern for the group's welfare added,
-  would answer CLAIM-492"
+- [NOTE-1280](../notes.d/NOTE-1280.md): "with a measure of concern for the group's welfare added,
+  would answer [CLAIM-492](../claims.d/CLAIM-492.md)"
 
 ## What would count
 
 Concern that follows measured continuity apart from caring supports
-CLAIM-492 and the thesis QUESTION-299 tests; concern that follows caring
+[CLAIM-492](../claims.d/CLAIM-492.md) and the thesis [QUESTION-299](../questions.d/QUESTION-299.md) tests; concern that follows caring
 alone counts against it.

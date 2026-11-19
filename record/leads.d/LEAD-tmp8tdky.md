@@ -20,7 +20,7 @@ advances:
 presupposes:
 - LEAD-tmpjy9qg
 summary: >-
-  Named in QUESTION-086 and the curation entry of 2026-11-12 (022649).
+  Named in [QUESTION-086](../questions.d/QUESTION-086.md) and the curation entry of 2026-11-12 (022649).
   Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: LIT-2462 — Unfetched; cited in the backlog audit of 2026-11-19 -->
@@ -34,7 +34,7 @@ record would only specify.
 
 Where the record names it:
 
-- QUESTION-086: "compare offspring whose tolerance is sustained by their
+- [QUESTION-086](../questions.d/QUESTION-086.md): "compare offspring whose tolerance is sustained by their
   own maternal cells with offspring given, later in life, matched
   tolerogenic cells from a donor"
 - The curation entry of 2026-11-12 (022649): "is Unfetched, and the
@@ -42,10 +42,10 @@ Where the record names it:
 
 ## The works
 
-- LIT-2462 (Unfetched): Peng 2025, "Tolerance to non-inherited maternal
+- [LIT-2462](../literature.d/LIT-2462.md) (Unfetched): Peng 2025, "Tolerance to non-inherited maternal
   antigen is sustained by LysM+ CD11c+ maternal microchimeric cells"
 
 ## What would count
 
 Tolerance that needs the offspring's own maternal cells supports
-CLAIM-530's parthood clause; donor cells that do as well count against it.
+[CLAIM-530](../claims.d/CLAIM-530.md)'s parthood clause; donor cells that do as well count against it.

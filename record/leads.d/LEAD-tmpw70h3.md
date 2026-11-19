@@ -20,7 +20,7 @@ advances:
 operationalized_in:
 - CASE-108
 summary: >-
-  Named in QUESTION-087 and CASE-108. Filed by the backlog audit of
+  Named in [QUESTION-087](../questions.d/QUESTION-087.md) and [CASE-108](../cases.d/CASE-108.md). Filed by the backlog audit of
   2026-11-19.
 ---
 
@@ -28,19 +28,19 @@ summary: >-
 
 ## What it would do
 
-Run CASE-108, scoring each architecture on attack success and on what its
+Run [CASE-108](../cases.d/CASE-108.md), scoring each architecture on attack success and on what its
 safeguard suppresses, with a variant in which the evaluator is
 compromised.
 
 Where the record names it:
 
-- QUESTION-087: "This is testable with an oracle or stronger solver for
+- [QUESTION-087](../questions.d/QUESTION-087.md): "This is testable with an oracle or stronger solver for
   the same declared objectives and update constraints."
-- CASE-108: "Its sharpest variant compromises the processes that evaluate
+- [CASE-108](../cases.d/CASE-108.md): "Its sharpest variant compromises the processes that evaluate
   the others' competence"
 
 ## What would count
 
 An architecture that lowers attack success without suppressing honest
-dissent says when CLAIM-359's trade-off can be moved, for QUESTION-090;
+dissent says when [CLAIM-359](../claims.d/CLAIM-359.md)'s trade-off can be moved, for [QUESTION-090](../questions.d/QUESTION-090.md);
 none says it cannot in this class.

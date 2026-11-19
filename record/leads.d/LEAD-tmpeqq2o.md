@@ -21,8 +21,8 @@ advances:
 operationalized_in:
 - CASE-078
 summary: >-
-  Public data, a specified analysis, and the test the owner's CLAIM-274
-  names in its defeater. Named in CASE-078, QUESTION-085, QUESTION-169 and
+  Public data, a specified analysis, and the test the owner's [CLAIM-274](../claims.d/CLAIM-274.md)
+  names in its defeater. Named in [CASE-078](../cases.d/CASE-078.md), [QUESTION-085](../questions.d/QUESTION-085.md), [QUESTION-169](../questions.d/QUESTION-169.md) and
   the curation entry of 2026-11-05 (201805). Filed by the backlog audit of
   2026-11-19.
 ---
@@ -34,23 +34,23 @@ summary: >-
 
 Fit a survival model of each participant's return, using destruction the
 participant did not cause as the exposure; measure recruitment after
-visible growth or damage; and look in the same logs for CLAIM-604's three
+visible growth or damage; and look in the same logs for [CLAIM-604](../claims.d/CLAIM-604.md)'s three
 signatures and for coalitions tracked through time.
 
 Where the record names it:
 
-- CASE-078: "It is the test named in CLAIM-274's defeater."
-- QUESTION-085: "The test above now has two parts: recruitment after
+- [CASE-078](../cases.d/CASE-078.md): "It is the test named in [CLAIM-274](../claims.d/CLAIM-274.md)'s defeater."
+- [QUESTION-085](../questions.d/QUESTION-085.md): "The test above now has two parts: recruitment after
   visible growth or damage, and retention as a function of the survival of
   one's own pixels."
-- QUESTION-169: "A measurement on full placement logs, in r/place or a
+- [QUESTION-169](../questions.d/QUESTION-169.md): "A measurement on full placement logs, in r/place or a
   comparable contested canvas, that tracks recovered or recorded coalitions
   through time."
-- The curation entry of 2026-11-05 (201805): "gives QUESTION-085 three
+- The curation entry of 2026-11-05 (201805): "gives [QUESTION-085](../questions.d/QUESTION-085.md) three
   signatures to look for in placement records"
 
 ## What would count
 
 A hazard of not returning that rises when one's art is destroyed by others
-supports CLAIM-274; none defeats it. Recruitment that follows visible
-growth shows feedback from pattern to flow for QUESTION-085.
+supports [CLAIM-274](../claims.d/CLAIM-274.md); none defeats it. Recruitment that follows visible
+growth shows feedback from pattern to flow for [QUESTION-085](../questions.d/QUESTION-085.md).

@@ -17,8 +17,8 @@ advances:
 - QUESTION-193
 summary: >-
   A discriminating test for a question with fourteen bearing entries;
-  LEAD-008 covered only the reading on data order. Named in QUESTION-039
-  and QUESTION-193. Filed by the backlog audit of 2026-11-19.
+  [LEAD-008](LEAD-008.md) covered only the reading on data order. Named in [QUESTION-039](../questions.d/QUESTION-039.md)
+  and [QUESTION-193](../questions.d/QUESTION-193.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: LEAD-008 — Done; cited in the backlog audit of 2026-11-19 -->
 
@@ -34,8 +34,8 @@ times.
 
 Where the record names it:
 
-- QUESTION-039: "so swapping the optimizer separates the two mechanisms."
-- QUESTION-193: "A trained network on independent skills of unequal
+- [QUESTION-039](../questions.d/QUESTION-039.md): "so swapping the optimizer separates the two mechanisms."
+- [QUESTION-193](../questions.d/QUESTION-193.md): "A trained network on independent skills of unequal
   frequency whose onsets go from simultaneous to sequential when only the
   optimizer is changed"
 
@@ -43,4 +43,4 @@ Where the record names it:
 
 Onsets that go from simultaneous to sequential when only the optimizer
 changes separate the gradient-flow steps from the Domino steps, answering
-QUESTION-193 and narrowing QUESTION-039.
+[QUESTION-193](../questions.d/QUESTION-193.md) and narrowing [QUESTION-039](../questions.d/QUESTION-039.md).

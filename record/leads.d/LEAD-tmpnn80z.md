@@ -28,22 +28,22 @@ summary: >-
 
 ## What it would do
 
-Read the works, and file the argument CLAIM-728 asks for once Hart and
+Read the works, and file the argument [CLAIM-728](../claims.d/CLAIM-728.md) asks for once Hart and
 Moore is read.
 
 ## The works
 
-- LIT-2682 (Unfetched): Robillard 2016, "On the Moral Dimensions of
+- [LIT-2682](../literature.d/LIT-2682.md) (Unfetched): Robillard 2016, "On the Moral Dimensions of
   Vulnerability and Exploitation"
-- LIT-2732 (Unfetched): Berge 2024, "Rhetorical entrapment in
+- [LIT-2732](../literature.d/LIT-2732.md) (Unfetched): Berge 2024, "Rhetorical entrapment in
   international negotiations: A new pathway and mechanisms"
-- LIT-2686 (Unfetched): Cameron 2024, "The Making of the 'Good Bad' Job:
+- [LIT-2686](../literature.d/LIT-2686.md) (Unfetched): Cameron 2024, "The Making of the 'Good Bad' Job:
   How Algorithmic Management Manufactures Consent Through Constant and
   Confined Choices"
-- LIT-2742 (Unfetched): Hart 1990, "Property Rights and the Nature of the
+- [LIT-2742](../literature.d/LIT-2742.md) (Unfetched): Hart 1990, "Property Rights and the Nature of the
   Firm"
 
 ## What would count
 
-Readings that show commitment exploited by design test CLAIM-713 and
-CLAIM-703.
+Readings that show commitment exploited by design test [CLAIM-713](../claims.d/CLAIM-713.md) and
+[CLAIM-703](../claims.d/CLAIM-703.md).

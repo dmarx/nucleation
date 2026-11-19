@@ -17,7 +17,7 @@ advances:
 - QUESTION-484
 - QUESTION-481
 summary: >-
-  Named in QUESTION-483 and QUESTION-481. Filed by the backlog audit of
+  Named in [QUESTION-483](../questions.d/QUESTION-483.md) and [QUESTION-481](../questions.d/QUESTION-481.md). Filed by the backlog audit of
   2026-11-19.
 ---
 
@@ -29,11 +29,11 @@ Write each construction and apply the contractualist test to it.
 
 Where the record names it:
 
-- QUESTION-483: "is explained by principles persons could not reasonably
+- [QUESTION-483](../questions.d/QUESTION-483.md): "is explained by principles persons could not reasonably
   reject"
-- QUESTION-481: "matched with one that differs only in that capacity."
+- [QUESTION-481](../questions.d/QUESTION-481.md): "matched with one that differs only in that capacity."
 
 ## What would count
 
-A construction it cannot explain answers QUESTION-483 against the
+A construction it cannot explain answers [QUESTION-483](../questions.d/QUESTION-483.md) against the
 contractualist reading.

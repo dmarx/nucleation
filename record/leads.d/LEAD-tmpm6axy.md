@@ -32,9 +32,9 @@ Fetch Tatel (2025) by the Europe PMC REST route and read it.
 
 ## The works
 
-- LIT-2088 (Unfetched): Tatel 2025, "Procedural skill retention and decay:
+- [LIT-2088](../literature.d/LIT-2088.md) (Unfetched): Tatel 2025, "Procedural skill retention and decay:
   A meta-analytic review"
 
 ## What would count
 
-Decay estimates by skill type answer QUESTION-433 and test CLAIM-558.
+Decay estimates by skill type answer [QUESTION-433](../questions.d/QUESTION-433.md) and test [CLAIM-558](../claims.d/CLAIM-558.md).

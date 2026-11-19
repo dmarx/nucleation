@@ -19,7 +19,7 @@ operationalized_in:
 - CASE-234
 summary: >-
   The one measured crossover proposed for the record's most-cited question
-  on stored work. Named in QUESTION-095 and CASE-234. Filed by the backlog
+  on stored work. Named in [QUESTION-095](../questions.d/QUESTION-095.md) and [CASE-234](../cases.d/CASE-234.md). Filed by the backlog
   audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-234 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -28,17 +28,17 @@ summary: >-
 
 ## What it would do
 
-Run CASE-234 across several generations of image model, costing training
+Run [CASE-234](../cases.d/CASE-234.md) across several generations of image model, costing training
 and inference for a LoRA against reference conditioning as the number of
 generations of one character grows.
 
 Where the record names it:
 
-- QUESTION-095: "with A's proposal to measure the crossover as CASE-234"
-- CASE-234: "measures that crossover rather than assuming its direction"
+- [QUESTION-095](../questions.d/QUESTION-095.md): "with A's proposal to measure the crossover as [CASE-234](../cases.d/CASE-234.md)"
+- [CASE-234](../cases.d/CASE-234.md): "measures that crossover rather than assuming its direction"
 
 ## What would count
 
 A crossover that moves with model generation prices one regime of
-QUESTION-095's trade in measured terms; no crossover in range says the
+[QUESTION-095](../questions.d/QUESTION-095.md)'s trade in measured terms; no crossover in range says the
 stored-work strategy does not pay for this task.

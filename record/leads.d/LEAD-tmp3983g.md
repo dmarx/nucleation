@@ -21,7 +21,7 @@ advances:
 operationalized_in:
 - CASE-296
 summary: >-
-  Named in CASE-296. Filed by the backlog audit of 2026-11-19.
+  Named in [CASE-296](../cases.d/CASE-296.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-296 CLAIM-762 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,14 +29,14 @@ summary: >-
 
 ## What it would do
 
-Run CASE-296 alongside, not instead of, the Reddit study.
+Run [CASE-296](../cases.d/CASE-296.md) alongside, not instead of, the Reddit study.
 
 Where the record names it:
 
-- CASE-296: "a laboratory that separates classes inferred, classes used,
+- [CASE-296](../cases.d/CASE-296.md): "a laboratory that separates classes inferred, classes used,
   and classes that reshape preferences"
 
 ## What would count
 
 Classes that reshape preferences only when used supports the reading of
-CLAIM-762 the case was filed for.
+[CLAIM-762](../claims.d/CLAIM-762.md) the case was filed for.

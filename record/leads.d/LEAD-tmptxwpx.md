@@ -34,5 +34,5 @@ Where the record names it:
 
 ## What would count
 
-Measures that track the transition bear on QUESTION-115's search
+Measures that track the transition bear on [QUESTION-115](../questions.d/QUESTION-115.md)'s search
 procedure.

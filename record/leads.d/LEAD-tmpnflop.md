@@ -30,7 +30,7 @@ summary: >-
 ## What it would do
 
 Argue whether the duty falls on an arrangement's controllers, and declare
-a sense of organization for CLAIM-624 and the claims listed with it.
+a sense of organization for [CLAIM-624](../claims.d/CLAIM-624.md) and the claims listed with it.
 
 Where the record names it:
 

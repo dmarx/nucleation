@@ -15,7 +15,7 @@ line:
 advances:
 - QUESTION-270
 summary: >-
-  Named in QUESTION-270. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-270](../questions.d/QUESTION-270.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmp0gocc: Extend the synthetic separation with three organizations of matched behaviour and different endorsement relations, measuring registration apart from the experimenter's setting
@@ -27,10 +27,10 @@ not read the setting.
 
 Where the record names it:
 
-- QUESTION-270: "Registration is not measured apart from the
+- [QUESTION-270](../questions.d/QUESTION-270.md): "Registration is not measured apart from the
   experimenter's setting"
 
 ## What would count
 
 Registration measured independently meets the second requirement of
-QUESTION-270.
+[QUESTION-270](../questions.d/QUESTION-270.md).

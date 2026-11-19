@@ -17,7 +17,7 @@ advances:
 - CLAIM-170
 - CLAIM-174
 summary: >-
-  Named in CLAIM-170. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-170](../claims.d/CLAIM-170.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-170 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,7 +29,7 @@ Construct a case with two, or argue uniqueness.
 
 Where the record names it:
 
-- CLAIM-170: "says itself that whether a fixed level and target can have
+- [CLAIM-170](../claims.d/CLAIM-170.md): "says itself that whether a fixed level and target can have
   several self-consistent factorizations is the objection's open part"
 
 ## What would count

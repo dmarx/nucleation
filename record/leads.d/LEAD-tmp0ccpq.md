@@ -20,8 +20,8 @@ operationalized_in:
 presupposes:
 - LEAD-tmpfk582
 summary: >-
-  CLAIM-404 is a premise of CLAIM-545 and rests on a model that has not
-  been built. Named in CLAIM-404. Filed by the backlog audit of
+  [CLAIM-404](../claims.d/CLAIM-404.md) is a premise of [CLAIM-545](../claims.d/CLAIM-545.md) and rests on a model that has not
+  been built. Named in [CLAIM-404](../claims.d/CLAIM-404.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -31,15 +31,15 @@ summary: >-
 ## What it would do
 
 Extend the model to two regulating institutions and derive the condition
-under which their symmetric state is unstable, as CLAIM-330 does for one.
+under which their symmetric state is unstable, as [CLAIM-330](../claims.d/CLAIM-330.md) does for one.
 
 Where the record names it:
 
-- CLAIM-404: "it is a local instability condition for CASE-092's unbuilt
+- [CLAIM-404](../claims.d/CLAIM-404.md): "it is a local instability condition for [CASE-092](../cases.d/CASE-092.md)'s unbuilt
   model, and the two-institution version has not been derived."
 
 ## What would count
 
-A derived condition gives CLAIM-404 a worked model and may move its
+A derived condition gives [CLAIM-404](../claims.d/CLAIM-404.md) a worked model and may move its
 warrant to demonstrated. A model in which no such instability exists
 defeats it.

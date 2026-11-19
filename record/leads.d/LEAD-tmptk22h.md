@@ -25,7 +25,7 @@ operationalized_in:
 summary: >-
   Stage 0 of the discriminating fidelity study, and the measure every
   footing clause on the pragmatic-transport line waits on. Named in
-  CLAIM-227, CLAIM-084 and QUESTION-076. Filed by the backlog audit of
+  [CLAIM-227](../claims.d/CLAIM-227.md), [CLAIM-084](../claims.d/CLAIM-084.md) and [QUESTION-076](../questions.d/QUESTION-076.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-054 CLAIM-068 CLAIM-084 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -42,19 +42,19 @@ discriminating study lays out.
 
 Where the record names it:
 
-- CLAIM-227: "No design in the record supplies what a measure of footing
+- [CLAIM-227](../claims.d/CLAIM-227.md): "No design in the record supplies what a measure of footing
   needs"
-- CLAIM-084: "no validated footing measure exists to test the defeat
+- [CLAIM-084](../claims.d/CLAIM-084.md): "no validated footing measure exists to test the defeat
   condition"
-- QUESTION-076: "Stage 0 of the discriminating study (CASE-055) is that
+- [QUESTION-076](../questions.d/QUESTION-076.md): "Stage 0 of the discriminating study ([CASE-055](../cases.d/CASE-055.md)) is that
   design"
-- QUESTION-076: "Which coefficient, and what target, needs a source on
+- [QUESTION-076](../questions.d/QUESTION-076.md): "Which coefficient, and what target, needs a source on
   reliability coefficients that the record does not yet hold."
 
 ## What would count
 
 A measure that meets its reliability target and separates the known groups
-lets the footing clauses of CLAIM-084, CLAIM-054 and CLAIM-068 be tested
-at all, and answers QUESTION-076. One that cannot reach the target on any
-definition supports CLAIM-227 and says the footing clauses cannot be
+lets the footing clauses of [CLAIM-084](../claims.d/CLAIM-084.md), [CLAIM-054](../claims.d/CLAIM-054.md) and [CLAIM-068](../claims.d/CLAIM-068.md) be tested
+at all, and answers [QUESTION-076](../questions.d/QUESTION-076.md). One that cannot reach the target on any
+definition supports [CLAIM-227](../claims.d/CLAIM-227.md) and says the footing clauses cannot be
 tested as stated.

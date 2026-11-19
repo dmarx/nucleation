@@ -25,7 +25,7 @@ advances:
 - QUESTION-399
 summary: >-
   A young, central line whose Active claims ground on unread works. Named
-  in CLAIM-600. Filed by the backlog audit of 2026-11-19.
+  in [CLAIM-600](../claims.d/CLAIM-600.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: LIT-2140 LIT-2145 LIT-2151 LIT-2175 LIT-2176 LIT-2179 LIT-2220 LIT-2221 LIT-2225 LIT-2227 LIT-2233 LIT-2234 LIT-2237 LIT-2599 — Deferred, Unavailable, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
@@ -38,42 +38,42 @@ documented episodes of withdrawn support.
 
 Where the record names it:
 
-- CLAIM-600: "There are no withdrawal episodes, so the withdrawal
+- [CLAIM-600](../claims.d/CLAIM-600.md): "There are no withdrawal episodes, so the withdrawal
   conditions go untested."
-- CLAIM-600: "Bräutigam and Knack 2004 (LIT-2221) and Ahmed 2012
-  (LIT-2220) were not reached"
+- [CLAIM-600](../claims.d/CLAIM-600.md): "Bräutigam and Knack 2004 ([LIT-2221](../literature.d/LIT-2221.md)) and Ahmed 2012
+  ([LIT-2220](../literature.d/LIT-2220.md)) were not reached"
 
 ## The works
 
-- LIT-2140 (Unfetched): Ostrom 1996, "Crossing the great divide:
+- [LIT-2140](../literature.d/LIT-2140.md) (Unfetched): Ostrom 1996, "Crossing the great divide:
   Coproduction, synergy, and development"
-- LIT-2151 (Unfetched): Rogers 2015, "Sustaining Development: A Synthesis
+- [LIT-2151](../literature.d/LIT-2151.md) (Unfetched): Rogers 2015, "Sustaining Development: A Synthesis
   of Results from a Four-Country Study of Sustainability and Exit Strategies
   among Development Food Assistance Projects"
-- LIT-2176 (Unfetched): Gross 2023, "The fitness consequences of wildlife
+- [LIT-2176](../literature.d/LIT-2176.md) (Unfetched): Gross 2023, "The fitness consequences of wildlife
   conservation translocations: a meta-analysis"
-- LIT-2179 (Unfetched): Corbin 2012, "Applied nucleation as a forest
+- [LIT-2179](../literature.d/LIT-2179.md) (Unfetched): Corbin 2012, "Applied nucleation as a forest
   restoration strategy"
-- LIT-2145 (Unfetched): Holl 2020, "Applied nucleation facilitates
+- [LIT-2145](../literature.d/LIT-2145.md) (Unfetched): Holl 2020, "Applied nucleation facilitates
   tropical forest recovery: Lessons learned from a 15-year study"
-- LIT-2221 (Unfetched): Bräutigam 2004, "Foreign Aid, Institutions, and
+- [LIT-2221](../literature.d/LIT-2221.md) (Unfetched): Bräutigam 2004, "Foreign Aid, Institutions, and
   Governance in Sub-Saharan Africa"
-- LIT-2225 (Unfetched): Bainbridge 1983, "Ironies of automation"
-- LIT-2227 (Unfetched): Wood 1976, "The role of tutoring in problem
+- [LIT-2225](../literature.d/LIT-2225.md) (Unfetched): Bainbridge 1983, "Ironies of automation"
+- [LIT-2227](../literature.d/LIT-2227.md) (Unfetched): Wood 1976, "The role of tutoring in problem
   solving"
-- LIT-2175 (Unfetched): Harvey 2004, "The 10 Principles of Burning Man"
-- LIT-2599 (Unfetched): Vallor 2014, "Moral Deskilling and Upskilling in a
+- [LIT-2175](../literature.d/LIT-2175.md) (Unfetched): Harvey 2004, "The 10 Principles of Burning Man"
+- [LIT-2599](../literature.d/LIT-2599.md) (Unfetched): Vallor 2014, "Moral Deskilling and Upskilling in a
   New Machine Age: Reflections on the Ambiguous Future of Character"
-- LIT-2237 (Deferred): Righetti 2006, "Dynamic Hebbian learning in
+- [LIT-2237](../literature.d/LIT-2237.md) (Deferred): Righetti 2006, "Dynamic Hebbian learning in
   adaptive frequency oscillators"
-- LIT-2233 (Deferred): Silverman 2026, "Gene-driven self-morphing
+- [LIT-2233](../literature.d/LIT-2233.md) (Deferred): Silverman 2026, "Gene-driven self-morphing
   microtubule-based active matter"
-- LIT-2234 (Deferred): Koseska 2013, "Oscillation quenching mechanisms:
+- [LIT-2234](../literature.d/LIT-2234.md) (Deferred): Koseska 2013, "Oscillation quenching mechanisms:
   Amplitude vs. oscillation death"
-- LIT-2220 (Unavailable): "The Perils of Unearned Foreign Income: Aid,
+- [LIT-2220](../literature.d/LIT-2220.md) (Unavailable): "The Perils of Unearned Foreign Income: Aid,
   Remittances, and Government Survival"
 
 ## What would count
 
-Withdrawal episodes that meet CLAIM-600's conditions test them; works that
+Withdrawal episodes that meet [CLAIM-600](../claims.d/CLAIM-600.md)'s conditions test them; works that
 disagree with what the claims take from them are filed as objections.

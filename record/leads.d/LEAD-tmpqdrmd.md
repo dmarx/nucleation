@@ -36,4 +36,4 @@ Where the record names it:
 
 ## What would count
 
-Known results on the shared budget test CLAIM-572's novelty.
+Known results on the shared budget test [CLAIM-572](../claims.d/CLAIM-572.md)'s novelty.

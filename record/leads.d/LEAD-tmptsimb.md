@@ -17,7 +17,7 @@ advances:
 - CLAIM-510
 - CLAIM-471
 summary: >-
-  Named in CLAIM-510. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-510](../claims.d/CLAIM-510.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-510 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,7 +29,7 @@ Search the record and the literature for one.
 
 Where the record names it:
 
-- CLAIM-510: "One such case would promote it."
+- [CLAIM-510](../claims.d/CLAIM-510.md): "One such case would promote it."
 
 ## What would count
 

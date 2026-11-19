@@ -24,7 +24,7 @@ operationalized_in:
 - CASE-021
 - CASE-029
 summary: >-
-  Named in QUESTION-001, CLAIM-052 and CLAIM-063. Filed by the backlog
+  Named in [QUESTION-001](../questions.d/QUESTION-001.md), [CLAIM-052](../claims.d/CLAIM-052.md) and [CLAIM-063](../claims.d/CLAIM-063.md). Filed by the backlog
   audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-009 CLAIM-052 CLAIM-063 CLAIM-117 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -33,23 +33,23 @@ summary: >-
 
 ## What it would do
 
-Run CASE-021 with CASE-029's refinements: cross wording, attributed
+Run [CASE-021](../cases.d/CASE-021.md) with [CASE-029](../cases.d/CASE-029.md)'s refinements: cross wording, attributed
 speaker and judgement order, fix one outcome correspondence across items,
 compare model classes, and test for contextuality where the design
 permits.
 
 Where the record names it:
 
-- QUESTION-001: "whether real pragmatic judgements are formally contextual
-  at all (CLAIM-009), which needs the experiment CASE-021 or its §10
+- [QUESTION-001](../questions.d/QUESTION-001.md): "whether real pragmatic judgements are formally contextual
+  at all ([CLAIM-009](../claims.d/CLAIM-009.md)), which needs the experiment [CASE-021](../cases.d/CASE-021.md) or its §10
   successors. Neither half has data."
-- CLAIM-052: "CASE-021 and the manuscript's Case II, which would test the
+- [CLAIM-052](../claims.d/CLAIM-052.md): "[CASE-021](../cases.d/CASE-021.md) and the manuscript's Case II, which would test the
   defeat condition, have not been run."
-- CLAIM-063: "Still no study of the order effects of different renderings
+- [CLAIM-063](../claims.d/CLAIM-063.md): "Still no study of the order effects of different renderings
   of the same sources under one outcome correspondence fixed across items"
 
 ## What would count
 
 Order effects that a sequential or quantum model fits and a hierarchical
-one does not bear on CLAIM-052 and CLAIM-117; no effect beyond wording
-defeats CLAIM-052's condition.
+one does not bear on [CLAIM-052](../claims.d/CLAIM-052.md) and [CLAIM-117](../claims.d/CLAIM-117.md); no effect beyond wording
+defeats [CLAIM-052](../claims.d/CLAIM-052.md)'s condition.

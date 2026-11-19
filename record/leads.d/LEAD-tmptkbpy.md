@@ -32,4 +32,4 @@ Where the record names it:
 
 ## What would count
 
-A closed slot keeps CLAIM-615; an open one defeats it.
+A closed slot keeps [CLAIM-615](../claims.d/CLAIM-615.md); an open one defeats it.

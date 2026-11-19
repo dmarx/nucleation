@@ -20,7 +20,7 @@ advances:
 operationalized_in:
 - CASE-223
 summary: >-
-  Named in ARG-067 and CLAIM-617. Filed by the backlog audit of
+  Named in [ARG-067](../arguments.d/ARG-067.md) and [CLAIM-617](../claims.d/CLAIM-617.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: ARG-067 CASE-223 CLAIM-617 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -29,18 +29,18 @@ summary: >-
 
 ## What it would do
 
-Run CASE-223 on forks and successions of open-source projects, coding when
+Run [CASE-223](../cases.d/CASE-223.md) on forks and successions of open-source projects, coding when
 the community treats the successor as the same project.
 
 Where the record names it:
 
-- ARG-067: "The proposed design could, and the verdict waits on its being
+- [ARG-067](../arguments.d/ARG-067.md): "The proposed design could, and the verdict waits on its being
   run. If it is not run, this argument should be Rejected"
-- CLAIM-617: "gathered in CASE-223 with the study that would test the
+- [CLAIM-617](../claims.d/CLAIM-617.md): "gathered in [CASE-223](../cases.d/CASE-223.md) with the study that would test the
   claim."
 
 ## What would count
 
 Verdicts that follow continuity of name and maintainers rather than of
-code bear on QUESTION-118 and CLAIM-617; ARG-067 is to be ruled either
+code bear on [QUESTION-118](../questions.d/QUESTION-118.md) and [CLAIM-617](../claims.d/CLAIM-617.md); [ARG-067](../arguments.d/ARG-067.md) is to be ruled either
 way.

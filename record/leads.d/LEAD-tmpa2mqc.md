@@ -29,8 +29,8 @@ Write the corollary as a demonstrated claim.
 Where the record names it:
 
 - The curation entry of 2026-11-07 (082259): "answering part of
-  QUESTION-127"
+  [QUESTION-127](../questions.d/QUESTION-127.md)"
 
 ## What would count
 
-Filing it answers part of QUESTION-127.
+Filing it answers part of [QUESTION-127](../questions.d/QUESTION-127.md).

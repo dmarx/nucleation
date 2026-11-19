@@ -33,19 +33,19 @@ Read the works, all Deferred, open access and never tried.
 
 ## The works
 
-- LIT-1927 (Deferred): Bourrat 2022, "Evolutionary Transitions in
+- [LIT-1927](../literature.d/LIT-1927.md) (Deferred): Bourrat 2022, "Evolutionary Transitions in
   Individuality by Endogenization of Scaffolded Properties"
-- LIT-1932 (Deferred): Griesemer 2000, "Development, Culture, and the
+- [LIT-1932](../literature.d/LIT-1932.md) (Deferred): Griesemer 2000, "Development, Culture, and the
   Units of Inheritance"
-- LIT-1937 (Deferred): Griesemer 2001, "The Units of Evolutionary
+- [LIT-1937](../literature.d/LIT-1937.md) (Deferred): Griesemer 2001, "The Units of Evolutionary
   Transition"
-- LIT-1940 (Deferred): Black 2020, "Ecological scaffolding and the
+- [LIT-1940](../literature.d/LIT-1940.md) (Deferred): Black 2020, "Ecological scaffolding and the
   evolution of individuality"
-- LIT-1935 (Deferred): Shavit 2023, "Can models of evolutionary transition
+- [LIT-1935](../literature.d/LIT-1935.md) (Deferred): Shavit 2023, "Can models of evolutionary transition
   clarify the debates over the Neolithic Revolution?"
-- LIT-1926 (Deferred): Wimsatt 2007, "Re-Engineering Philosophy for
+- [LIT-1926](../literature.d/LIT-1926.md) (Deferred): Wimsatt 2007, "Re-Engineering Philosophy for
   Limited Beings: Piecewise Approximations to Reality"
 
 ## What would count
 
-Readings that bear on imposed against produced boundaries test CLAIM-194.
+Readings that bear on imposed against produced boundaries test [CLAIM-194](../claims.d/CLAIM-194.md).

@@ -20,7 +20,7 @@ presupposes:
 - LEAD-tmpfk582
 summary: >-
   Two Proposed claims name this comparison as their test. Named in
-  CLAIM-281 and CLAIM-285. Filed by the backlog audit of 2026-11-19.
+  [CLAIM-281](../claims.d/CLAIM-281.md) and [CLAIM-285](../claims.d/CLAIM-285.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -35,14 +35,14 @@ one hop.
 
 Where the record names it:
 
-- CLAIM-281: "The population comparison CASE-092 names, role-indexed
+- [CLAIM-281](../claims.d/CLAIM-281.md): "The population comparison [CASE-092](../cases.d/CASE-092.md) names, role-indexed
   against scalar grants, has still not been run"
-- CLAIM-285: "Still missing: a population model in which operators bound
+- [CLAIM-285](../claims.d/CLAIM-285.md): "Still missing: a population model in which operators bound
   by the two conditions delegate, and delegate to aligned others rather than
   at random."
 
 ## What would count
 
 Factions or retained disagreement under role-indexed grants and not under
-scalar ones supports CLAIM-281; delegation to aligned others beyond chance
-supports CLAIM-285. Their absence defeats each as stated.
+scalar ones supports [CLAIM-281](../claims.d/CLAIM-281.md); delegation to aligned others beyond chance
+supports [CLAIM-285](../claims.d/CLAIM-285.md). Their absence defeats each as stated.

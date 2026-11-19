@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-363
 summary: >-
-  Named in QUESTION-363. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-363](../questions.d/QUESTION-363.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmpvdouu: Re-run the toy-model-of-superposition check: SGD at n = 1,000 and on both sides of n = 600, and posterior sampling across n for the chain's critical sample sizes
@@ -26,9 +26,9 @@ initializations, and sample the posterior across n.
 
 Where the record names it:
 
-- QUESTION-363: "and SGD at n = 1,000 and on both sides of n"
+- [QUESTION-363](../questions.d/QUESTION-363.md): "and SGD at n = 1,000 and on both sides of n"
 
 ## What would count
 
 Whether the 6-gon is reached decides "inaccessible" against "not reached"
-for QUESTION-363.
+for [QUESTION-363](../questions.d/QUESTION-363.md).

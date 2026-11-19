@@ -31,9 +31,9 @@ and Servan and Allesina (2021) if the owner agrees.
 
 ## The works
 
-- LIT-1826 (Unfetched): Chesson 1990, "MacArthur's consumer-resource
+- [LIT-1826](../literature.d/LIT-1826.md) (Unfetched): Chesson 1990, "MacArthur's consumer-resource
   model"
 
 ## What would count
 
-Coexistence conditions in Chesson's terms bear on QUESTION-132's theorem.
+Coexistence conditions in Chesson's terms bear on [QUESTION-132](../questions.d/QUESTION-132.md)'s theorem.

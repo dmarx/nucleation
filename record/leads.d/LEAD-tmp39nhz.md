@@ -33,12 +33,12 @@ Where the record names it:
 
 ## The works
 
-- LIT-2246 (Deferred): Young 2011, "Responsibility for Justice"
-- LIT-2543 (Unfetched): Mellor 2025, "Doing your part: Joint obligation
+- [LIT-2246](../literature.d/LIT-2246.md) (Deferred): Young 2011, "Responsibility for Justice"
+- [LIT-2543](../literature.d/LIT-2543.md) (Unfetched): Mellor 2025, "Doing your part: Joint obligation
   and individual-level transmission"
-- LIT-2545 (Unfetched): Pettit 2023, "Five elements of group agency"
-- LIT-2714 (Unfetched): Williams 1976, "Moral Luck"
+- [LIT-2545](../literature.d/LIT-2545.md) (Unfetched): Pettit 2023, "Five elements of group agency"
+- [LIT-2714](../literature.d/LIT-2714.md) (Unfetched): Williams 1976, "Moral Luck"
 
 ## What would count
 
-An account of who bears repair for a part bears on QUESTION-460.
+An account of who bears repair for a part bears on [QUESTION-460](../questions.d/QUESTION-460.md).

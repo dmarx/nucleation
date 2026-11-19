@@ -16,7 +16,7 @@ advances:
 - CLAIM-358
 - CLAIM-162
 summary: >-
-  Named in CLAIM-358. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-358](../claims.d/CLAIM-358.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-358 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,9 +29,9 @@ effort-discounting data set.
 
 Where the record names it:
 
-- CLAIM-358: "Proposed because no fit in the record shows control
+- [CLAIM-358](../claims.d/CLAIM-358.md): "Proposed because no fit in the record shows control
   intensity falling with its cost"
 
 ## What would count
 
-Intensity falling with cost promotes CLAIM-358.
+Intensity falling with cost promotes [CLAIM-358](../claims.d/CLAIM-358.md).

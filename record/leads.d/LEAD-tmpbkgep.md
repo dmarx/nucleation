@@ -15,7 +15,7 @@ advances:
 - QUESTION-281
 summary: >-
   One conceptual step would close a stated gap in a near-answer to a
-  central question. Named in QUESTION-281. Filed by the backlog audit of
+  central question. Named in [QUESTION-281](../questions.d/QUESTION-281.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-259 CASE-260 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -25,14 +25,14 @@ summary: >-
 ## What it would do
 
 Apply the record's criteria of individuation to the block and the eater of
-CASE-259 and CASE-260 and say whether each is a form it individuates.
+[CASE-259](../cases.d/CASE-259.md) and [CASE-260](../cases.d/CASE-260.md) and say whether each is a form it individuates.
 
 Where the record names it:
 
-- QUESTION-281: "It does not meet the first half's "a form the record
+- [QUESTION-281](../questions.d/QUESTION-281.md): "It does not meet the first half's "a form the record
   individuates", since the record has not said whether a block is one."
 
 ## What would count
 
-If they are, QUESTION-281 has a formal answer; if not, the constructions
+If they are, [QUESTION-281](../questions.d/QUESTION-281.md) has a formal answer; if not, the constructions
 need a different substrate.

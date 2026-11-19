@@ -28,8 +28,8 @@ Model the threshold version.
 Where the record names it:
 
 - The curation entry of 2026-11-05 (201805): "stated as a limit of
-  CLAIM-602, not modelled."
+  [CLAIM-602](../claims.d/CLAIM-602.md), not modelled."
 
 ## What would count
 
-A model shows whether the limit stated in CLAIM-602 holds.
+A model shows whether the limit stated in [CLAIM-602](../claims.d/CLAIM-602.md) holds.

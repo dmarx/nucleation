@@ -33,40 +33,40 @@ summary: >-
 
 ## What it would do
 
-Read the works, all Deferred and never tried, in four sets: for CLAIM-172,
-CLAIM-167, QUESTION-063 and QUESTION-147; for QUESTION-379 and
-QUESTION-143; for CLAIM-153 and QUESTION-282; and Widder for QUESTION-252.
+Read the works, all Deferred and never tried, in four sets: for [CLAIM-172](../claims.d/CLAIM-172.md),
+[CLAIM-167](../claims.d/CLAIM-167.md), [QUESTION-063](../questions.d/QUESTION-063.md) and [QUESTION-147](../questions.d/QUESTION-147.md); for [QUESTION-379](../questions.d/QUESTION-379.md) and
+[QUESTION-143](../questions.d/QUESTION-143.md); for [CLAIM-153](../claims.d/CLAIM-153.md) and [QUESTION-282](../questions.d/QUESTION-282.md); and Widder for [QUESTION-252](../questions.d/QUESTION-252.md).
 
 ## The works
 
-- LIT-2230 (Deferred): Ocampo-Espindola 2024, "Optimal phase-selective
+- [LIT-2230](../literature.d/LIT-2230.md) (Deferred): Ocampo-Espindola 2024, "Optimal phase-selective
   entrainment of electrochemical oscillators with different phase response
   curves"
-- LIT-2232 (Deferred): Dörfler 2014, "Synchronization in complex networks
+- [LIT-2232](../literature.d/LIT-2232.md) (Deferred): Dörfler 2014, "Synchronization in complex networks
   of phase oscillators: A survey"
-- LIT-2245 (Deferred): Ko 2026, "Common noise-induced group-level
+- [LIT-2245](../literature.d/LIT-2245.md) (Deferred): Ko 2026, "Common noise-induced group-level
   synchronization between uncoupled groups of oscillators"
-- LIT-2249 (Deferred): Stewart 2007, "The lattice of balanced equivalence
+- [LIT-2249](../literature.d/LIT-2249.md) (Deferred): Stewart 2007, "The lattice of balanced equivalence
   relations of a coupled cell network"
-- LIT-2256 (Deferred): Wang 2018, "Emergence of collective oscillations in
+- [LIT-2256](../literature.d/LIT-2256.md) (Deferred): Wang 2018, "Emergence of collective oscillations in
   adaptive cells"
-- LIT-2265 (Deferred): Pecora 1990, "Synchronization in chaotic systems"
-- LIT-2235 (Deferred): Schultz 2017, "Temporal Type Theory: A
+- [LIT-2265](../literature.d/LIT-2265.md) (Deferred): Pecora 1990, "Synchronization in chaotic systems"
+- [LIT-2235](../literature.d/LIT-2235.md) (Deferred): Schultz 2017, "Temporal Type Theory: A
   topos-theoretic approach to systems and behavior"
-- LIT-2238 (Deferred): Bumpus 2024, "Towards a Unified Theory of
+- [LIT-2238](../literature.d/LIT-2238.md) (Deferred): Bumpus 2024, "Towards a Unified Theory of
   Time-Varying Data"
-- LIT-2258 (Deferred): Schultz 2016, "Dynamical Systems and Sheaves"
-- LIT-2262 (Deferred): Leal 2026, "Time-Varying Data as Sheaves: an
+- [LIT-2258](../literature.d/LIT-2258.md) (Deferred): Schultz 2016, "Dynamical Systems and Sheaves"
+- [LIT-2262](../literature.d/LIT-2262.md) (Deferred): Leal 2026, "Time-Varying Data as Sheaves: an
   Invitation to Narratives"
-- LIT-2259 (Deferred): Bosca 2026, "Selective Adaptation of Beliefs and
+- [LIT-2259](../literature.d/LIT-2259.md) (Deferred): Bosca 2026, "Selective Adaptation of Beliefs and
   Communication on Cellular Sheaves"
-- LIT-2239 (Deferred): Battiston 2025, "Collective dynamics on
+- [LIT-2239](../literature.d/LIT-2239.md) (Deferred): Battiston 2025, "Collective dynamics on
   higher-order networks"
-- LIT-2253 (Deferred): Bačić 2025, "Phase locking and multistability in
+- [LIT-2253](../literature.d/LIT-2253.md) (Deferred): Bačić 2025, "Phase locking and multistability in
   the topological Kuramoto model on cell complexes"
-- LIT-2267 (Deferred): Manik 2016, "Cycle flows and multistability in
+- [LIT-2267](../literature.d/LIT-2267.md) (Deferred): Manik 2016, "Cycle flows and multistability in
   oscillatory networks"
-- LIT-2250 (Deferred): Widder 2026, "Generalised Langevin Dynamics:
+- [LIT-2250](../literature.d/LIT-2250.md) (Deferred): Widder 2026, "Generalised Langevin Dynamics:
   Significance and Limitations of the Projection Operator Formalism"
 
 ## What would count

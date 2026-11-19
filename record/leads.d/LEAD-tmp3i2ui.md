@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-045
 summary: >-
-  Named in QUESTION-045. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-045](../questions.d/QUESTION-045.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmp3i2ui: Search the treatment literature for dismantling trials that cut a maintaining link with exposure held fixed, or for individual data showing hysteresis
@@ -26,9 +26,9 @@ individual-level data with hysteresis.
 
 Where the record names it:
 
-- QUESTION-045: "An experiment that cuts one maintaining link, such as
+- [QUESTION-045](../questions.d/QUESTION-045.md): "An experiment that cuts one maintaining link, such as
   safety behaviour, while holding the regime's content fixed"
 
 ## What would count
 
-Such a trial answers QUESTION-045.
+Such a trial answers [QUESTION-045](../questions.d/QUESTION-045.md).

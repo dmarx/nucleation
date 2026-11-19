@@ -18,7 +18,7 @@ advances:
 - CLAIM-695
 - QUESTION-392
 summary: >-
-  Named in CLAIM-699 and QUESTION-392. Filed by the backlog audit of
+  Named in [CLAIM-699](../claims.d/CLAIM-699.md) and [QUESTION-392](../questions.d/QUESTION-392.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-699 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -33,14 +33,14 @@ set.
 
 Where the record names it:
 
-- CLAIM-699: "Compare an RL model at one or few samples with no verifier
+- [CLAIM-699](../claims.d/CLAIM-699.md): "Compare an RL model at one or few samples with no verifier
   against its base under best-of-N with the training verifier, at matched
   total compute"
-- QUESTION-392: "It turns this question's "how can the two be told apart"
+- [QUESTION-392](../questions.d/QUESTION-392.md): "It turns this question's "how can the two be told apart"
   into one comparison, valid only where recognition is cheap. Not run."
 
 ## What would count
 
 The base under best-of-N matching the RL model at equal compute supports
-CLAIM-699's reading that RL moves capability into the policy without
+[CLAIM-699](../claims.d/CLAIM-699.md)'s reading that RL moves capability into the policy without
 adding to it; the RL model winning defeats it.

@@ -16,7 +16,7 @@ line:
 advances:
 - CLAIM-721
 summary: >-
-  Named in CLAIM-721. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-721](../claims.d/CLAIM-721.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-721 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -24,13 +24,13 @@ summary: >-
 
 ## What it would do
 
-Modify CLAIM-605's model as CLAIM-721 says.
+Modify [CLAIM-605](../claims.d/CLAIM-605.md)'s model as [CLAIM-721](../claims.d/CLAIM-721.md) says.
 
 Where the record names it:
 
-- CLAIM-721: "which would make the trap demonstrable; no one has written
+- [CLAIM-721](../claims.d/CLAIM-721.md): "which would make the trap demonstrable; no one has written
   it."
 
 ## What would count
 
-A model that shows the trap moves CLAIM-721's warrant to demonstrated.
+A model that shows the trap moves [CLAIM-721](../claims.d/CLAIM-721.md)'s warrant to demonstrated.

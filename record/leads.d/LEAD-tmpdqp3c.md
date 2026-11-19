@@ -21,7 +21,7 @@ operationalized_in:
 summary: >-
   The only named test of the governance-induced kind of frustration; A39
   called it the best candidate for an early discriminating experiment.
-  Named in CLAIM-500 and CLAIM-357. Filed by the backlog audit of
+  Named in [CLAIM-500](../claims.d/CLAIM-500.md) and [CLAIM-357](../claims.d/CLAIM-357.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-500 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -30,20 +30,20 @@ summary: >-
 
 ## What it would do
 
-Build CASE-099 with declared demands and an oracle for feasible updates,
+Build [CASE-099](../cases.d/CASE-099.md) with declared demands and an oracle for feasible updates,
 then vary only how influence is allocated among the components.
 
 Where the record names it:
 
-- CLAIM-500: "The discriminating experiment of the note of 2026-10-30 is
-  still unrun: CASE-099 with declared demands and a feasible-update oracle,
+- [CLAIM-500](../claims.d/CLAIM-500.md): "The discriminating experiment of the note of 2026-10-30 is
+  still unrun: [CASE-099](../cases.d/CASE-099.md) with declared demands and a feasible-update oracle,
   intervening on the allocation of influence with search and information
   held fixed."
-- CLAIM-357: "A39's case study 2, CASE-099 with demands and a
+- [CLAIM-357](../claims.d/CLAIM-357.md): "A39's case study 2, [CASE-099](../cases.d/CASE-099.md) with demands and a
   feasible-update oracle, would test it"
 
 ## What would count
 
 Frustration that changes with the allocation of influence while search and
-information are fixed supports CLAIM-500 and CLAIM-357. Frustration that
+information are fixed supports [CLAIM-500](../claims.d/CLAIM-500.md) and [CLAIM-357](../claims.d/CLAIM-357.md). Frustration that
 tracks search or information alone defeats the governance-induced reading.

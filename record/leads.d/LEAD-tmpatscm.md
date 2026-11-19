@@ -14,7 +14,7 @@ line:
 advances:
 - CLAIM-301
 summary: >-
-  Named in CLAIM-301. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-301](../claims.d/CLAIM-301.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-301 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -27,9 +27,9 @@ case.
 
 Where the record names it:
 
-- CLAIM-301: "The exchange's drift from A2 to A14 is still not filed as a
+- [CLAIM-301](../claims.d/CLAIM-301.md): "The exchange's drift from A2 to A14 is still not filed as a
   CASE, and A21 §7's study at matched budgets has not been run."
 
 ## What would count
 
-The ranking at matched budget tests CLAIM-301.
+The ranking at matched budget tests [CLAIM-301](../claims.d/CLAIM-301.md).

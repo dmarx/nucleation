@@ -17,7 +17,7 @@ advances:
 - CLAIM-225
 - CLAIM-199
 summary: >-
-  Named in ARG-019. Filed by the backlog audit of 2026-11-19.
+  Named in [ARG-019](../arguments.d/ARG-019.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: ARG-019 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,9 +29,9 @@ Define the order and prove its basic results without the garbling theorem.
 
 Where the record names it:
 
-- ARG-019: "What would settle it is a receiver-restricted order with its
+- [ARG-019](../arguments.d/ARG-019.md): "What would settle it is a receiver-restricted order with its
   own results"
 
 ## What would count
 
-An order with results settles ARG-019.
+An order with results settles [ARG-019](../arguments.d/ARG-019.md).

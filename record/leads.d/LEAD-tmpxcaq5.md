@@ -17,7 +17,7 @@ advances:
 - QUESTION-047
 - CLAIM-192
 summary: >-
-  Named in QUESTION-047. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-047](../questions.d/QUESTION-047.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-192 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,10 +29,10 @@ Run multi-session arguments in which only the anchoring rate changes.
 
 Where the record names it:
 
-- QUESTION-047: "A real community, or a multi-session argument, in which a
+- [QUESTION-047](../questions.d/QUESTION-047.md): "A real community, or a multi-session argument, in which a
   structural variable is changed while the members' reasoning is held fixed"
 
 ## What would count
 
-Outcomes that move with the structural variable answer QUESTION-047 and
-test CLAIM-192.
+Outcomes that move with the structural variable answer [QUESTION-047](../questions.d/QUESTION-047.md) and
+test [CLAIM-192](../claims.d/CLAIM-192.md).

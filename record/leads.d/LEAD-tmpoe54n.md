@@ -21,7 +21,7 @@ advances:
 operationalized_in:
 - CASE-202
 summary: >-
-  Named in CASE-202. Filed by the backlog audit of 2026-11-19.
+  Named in [CASE-202](../cases.d/CASE-202.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-202 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,14 +29,14 @@ summary: >-
 
 ## What it would do
 
-Run CASE-202: probe a system for units at rising budgets and record when
+Run [CASE-202](../cases.d/CASE-202.md): probe a system for units at rising budgets and record when
 the verdicts on its individuals stabilize.
 
 Where the record names it:
 
-- CASE-202: "an explicit individuation-by-probing component"
+- [CASE-202](../cases.d/CASE-202.md): "an explicit individuation-by-probing component"
 
 ## What would count
 
-Verdicts that stabilize at a finite budget support CLAIM-583; verdicts
-that keep changing bear on QUESTION-382.
+Verdicts that stabilize at a finite budget support [CLAIM-583](../claims.d/CLAIM-583.md); verdicts
+that keep changing bear on [QUESTION-382](../questions.d/QUESTION-382.md).

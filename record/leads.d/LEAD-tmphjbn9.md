@@ -15,7 +15,7 @@ advances:
 - CLAIM-329
 - QUESTION-118
 summary: >-
-  Named in CLAIM-329. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-329](../claims.d/CLAIM-329.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -28,9 +28,9 @@ supporters' usage.
 
 Where the record names it:
 
-- CLAIM-329: "and nothing in the record says whether the league, the club
+- [CLAIM-329](../claims.d/CLAIM-329.md): "and nothing in the record says whether the league, the club
   or its supporters count it as continuation."
 
 ## What would count
 
-The verdict is CLAIM-329's named test.
+The verdict is [CLAIM-329](../claims.d/CLAIM-329.md)'s named test.

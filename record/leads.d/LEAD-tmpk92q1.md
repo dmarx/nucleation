@@ -21,7 +21,7 @@ operationalized_in:
 - CASE-293
 summary: >-
   Owner-accepted, and public corpora make it doable now. Named in
-  CLAIM-750 and QUESTION-476. Filed by the backlog audit of 2026-11-19.
+  [CLAIM-750](../claims.d/CLAIM-750.md) and [QUESTION-476](../questions.d/QUESTION-476.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-293 CLAIM-750 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -29,18 +29,18 @@ summary: >-
 
 ## What it would do
 
-Run CASE-293 on a public corpus of postmortems, coding causes and action
+Run [CASE-293](../cases.d/CASE-293.md) on a public corpus of postmortems, coding causes and action
 items by organizational level, and compare internal with independent
 reviews.
 
 Where the record names it:
 
-- CLAIM-750: "no reading codes postmortems"
-- QUESTION-476: "a documented practice in which reviews without individual
+- [CLAIM-750](../claims.d/CLAIM-750.md): "no reading codes postmortems"
+- [QUESTION-476](../questions.d/QUESTION-476.md): "a documented practice in which reviews without individual
   blame still trace contributing decisions upstream"
 
 ## What would count
 
 Blameless reviews that rarely reach above the team's authority while
-independent ones do support CLAIM-750; reviews that trace upstream answer
-QUESTION-476 for the practice.
+independent ones do support [CLAIM-750](../claims.d/CLAIM-750.md); reviews that trace upstream answer
+[QUESTION-476](../questions.d/QUESTION-476.md) for the practice.

@@ -18,7 +18,7 @@ advances:
 - QUESTION-399
 - QUESTION-361
 summary: >-
-  Named in QUESTION-399 and QUESTION-361. Filed by the backlog audit of
+  Named in [QUESTION-399](../questions.d/QUESTION-399.md) and [QUESTION-361](../questions.d/QUESTION-361.md). Filed by the backlog audit of
   2026-11-19.
 ---
 
@@ -26,19 +26,19 @@ summary: >-
 
 ## What it would do
 
-Extend CASE-190 so its student becomes a teacher, or use the Life eater
+Extend [CASE-190](../cases.d/CASE-190.md) so its student becomes a teacher, or use the Life eater
 constructions, and measure the turnover the loop survives and the outside
 supply it still needs.
 
 Where the record names it:
 
-- QUESTION-399: "A system, molecular or organizational, in which a nucleus
+- [QUESTION-399](../questions.d/QUESTION-399.md): "A system, molecular or organizational, in which a nucleus
   that speeds formation also, once formed, takes part in producing or
   repairing the constraints of its own formation. Then a measure of when
   that loop closes"
-- QUESTION-361: "Its student never becomes a teacher"
+- [QUESTION-361](../questions.d/QUESTION-361.md): "Its student never becomes a teacher"
 
 ## What would count
 
-A loop that closes answers QUESTION-399 by construction and supplies
-QUESTION-361's missing succession.
+A loop that closes answers [QUESTION-399](../questions.d/QUESTION-399.md) by construction and supplies
+[QUESTION-361](../questions.d/QUESTION-361.md)'s missing succession.

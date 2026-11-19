@@ -16,7 +16,7 @@ advances:
 - CLAIM-477
 - QUESTION-284
 summary: >-
-  Named in CLAIM-477. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-477](../claims.d/CLAIM-477.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -24,11 +24,11 @@ summary: >-
 
 ## What it would do
 
-Argue the case against CLAIM-477's definition.
+Argue the case against [CLAIM-477](../claims.d/CLAIM-477.md)'s definition.
 
 Where the record names it:
 
-- CLAIM-477: "Defeater (b)'s candidate is still unruled: whether a
+- [CLAIM-477](../claims.d/CLAIM-477.md): "Defeater (b)'s candidate is still unruled: whether a
   symmetry or conservation law"
 
 ## What would count

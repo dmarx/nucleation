@@ -19,7 +19,7 @@ advances:
 presupposes:
 - LEAD-tmpdg3iz
 summary: >-
-  Named in CLAIM-158. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-158](../claims.d/CLAIM-158.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-158 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -31,8 +31,8 @@ Derive the three predicted profiles and estimate one from data.
 
 Where the record names it:
 
-- CLAIM-158: "No system in the record has had its drive profile estimated"
+- [CLAIM-158](../claims.d/CLAIM-158.md): "No system in the record has had its drive profile estimated"
 
 ## What would count
 
-Profiles that differ, and data that fit one, decide CLAIM-159.
+Profiles that differ, and data that fit one, decide [CLAIM-159](../claims.d/CLAIM-159.md).

@@ -15,7 +15,7 @@ line:
 advances:
 - QUESTION-386
 summary: >-
-  Named in QUESTION-386. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-386](../questions.d/QUESTION-386.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmp3u86k: Model or trace the loop by which activity-based funding erodes rarely used capability, against a control that decouples maintenance funding from observed activity
@@ -27,11 +27,11 @@ shows it.
 
 Where the record names it:
 
-- QUESTION-386: "a model run or an organizational history showing the loop
+- [QUESTION-386](../questions.d/QUESTION-386.md): "a model run or an organizational history showing the loop
   at work, against a control in which maintenance funding is decoupled from
   observed activity."
 
 ## What would count
 
-Capability that erodes only under coupling answers QUESTION-386 beyond
-CLAIM-577's pure case.
+Capability that erodes only under coupling answers [QUESTION-386](../questions.d/QUESTION-386.md) beyond
+[CLAIM-577](../claims.d/CLAIM-577.md)'s pure case.

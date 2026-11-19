@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-220
 summary: >-
-  Named in NOTE-976. Filed by the backlog audit of 2026-11-19.
+  Named in [NOTE-976](../notes.d/NOTE-976.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmp3x8zu: Find the structural condition on the joint distribution under which information-bottleneck optima are nested, or an example of incomparable optima at finite beta
@@ -25,8 +25,8 @@ Work beyond the special cases the record holds, with the size of the loss.
 
 Where the record names it:
 
-- NOTE-976: "An example of incomparable optima at finite"
+- [NOTE-976](../notes.d/NOTE-976.md): "An example of incomparable optima at finite"
 
 ## What would count
 
-A condition or a counterexample answers QUESTION-220.
+A condition or a counterexample answers [QUESTION-220](../questions.d/QUESTION-220.md).

@@ -20,7 +20,7 @@ advances:
 - CLAIM-114
 - CLAIM-208
 summary: >-
-  Named in CLAIM-208 and CLAIM-059. Filed by the backlog audit of
+  Named in [CLAIM-208](../claims.d/CLAIM-208.md) and [CLAIM-059](../claims.d/CLAIM-059.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-059 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -35,10 +35,10 @@ per-generation judgements of communicative configuration.
 
 Where the record names it:
 
-- CLAIM-208: "A design that estimates each step's kernel from several
+- [CLAIM-208](../claims.d/CLAIM-208.md): "A design that estimates each step's kernel from several
   independent retellers on held-out inputs and perturbed inputs at each
   generation."
-- CLAIM-059: "no metric is fixed and no condition is assigned, so the test
+- [CLAIM-059](../claims.d/CLAIM-059.md): "no metric is fixed and no condition is assigned, so the test
   it names has nothing yet to test."
 
 ## What would count

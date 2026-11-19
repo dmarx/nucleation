@@ -14,7 +14,7 @@ line:
 advances:
 - CLAIM-091
 summary: >-
-  Named in CLAIM-091. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-091](../claims.d/CLAIM-091.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-091 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -22,12 +22,12 @@ summary: >-
 
 ## What it would do
 
-Run CASE-066's sketch with Russian readers and readers of four English
+Run [CASE-066](../cases.d/CASE-066.md)'s sketch with Russian readers and readers of four English
 versions.
 
 Where the record names it:
 
-- CLAIM-091: "The reader test CASE-066 sketches, Russian readers as the
+- [CLAIM-091](../claims.d/CLAIM-091.md): "The reader test [CASE-066](../cases.d/CASE-066.md) sketches, Russian readers as the
   reference against four English versions, would meet or defeat the claim."
 
 ## What would count

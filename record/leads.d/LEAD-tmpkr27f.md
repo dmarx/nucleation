@@ -33,16 +33,16 @@ Where the record names it:
 
 - The curation entry of 2026-10-29 (223817): "Cernat 2011, an
   exposure-against-interaction contrast within a study, possibly the nearest
-  test of CLAIM-430's defeater"
+  test of [CLAIM-430](../claims.d/CLAIM-430.md)'s defeater"
 
 ## The works
 
-- LIT-1829 (Unfetched): Cernat 2011, "Extended Contact Effects: Is
+- [LIT-1829](../literature.d/LIT-1829.md) (Unfetched): Cernat 2011, "Extended Contact Effects: Is
   Exposure to Positive Outgroup Exemplars Sufficient or Is Interaction With
   Ingroup Members Necessary?"
-- LIT-1862 (Unfetched): Wyer 2002, "Contrast effects in stereotype
+- [LIT-1862](../literature.d/LIT-1862.md) (Unfetched): Wyer 2002, "Contrast effects in stereotype
   formation and change: the role of comparative context"
 
 ## What would count
 
-A within-study contrast tests CLAIM-430's defeater.
+A within-study contrast tests [CLAIM-430](../claims.d/CLAIM-430.md)'s defeater.

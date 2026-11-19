@@ -15,7 +15,7 @@ line:
 advances:
 - CLAIM-445
 summary: >-
-  Named in CLAIM-445. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-445](../claims.d/CLAIM-445.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-445 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -28,9 +28,9 @@ genuine risk, switching costs and the regime's control of evidence.
 
 Where the record names it:
 
-- CLAIM-445: "has not been run on any case the record holds"
+- [CLAIM-445](../claims.d/CLAIM-445.md): "has not been run on any case the record holds"
 
 ## What would count
 
 Authority that outlasts the threat beyond those residues supports
-CLAIM-445.
+[CLAIM-445](../claims.d/CLAIM-445.md).

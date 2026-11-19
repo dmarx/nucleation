@@ -26,22 +26,22 @@ summary: >-
 ## What it would do
 
 Read the works, including Shor and Liu (2025) and Pape and colleagues,
-which CLAIM-653 and CLAIM-658 cite unread.
+which [CLAIM-653](../claims.d/CLAIM-653.md) and [CLAIM-658](../claims.d/CLAIM-658.md) cite unread.
 
 ## The works
 
-- LIT-2370 (Unfetched): Cordes 2024, "What drives demand for loot boxes?
+- [LIT-2370](../literature.d/LIT-2370.md) (Unfetched): Cordes 2024, "What drives demand for loot boxes?
   An experimental study"
-- LIT-2381 (Unfetched): Han 2026, "Algorithms for Loot Box Design"
-- LIT-2447 (Unfetched): Ivern 2026, "Categorization of Loot Box Design: A
+- [LIT-2381](../literature.d/LIT-2381.md) (Unfetched): Han 2026, "Algorithms for Loot Box Design"
+- [LIT-2447](../literature.d/LIT-2447.md) (Unfetched): Ivern 2026, "Categorization of Loot Box Design: A
   Scoping Review of Problematic Features"
-- LIT-2452 (Unfetched): Pape 2024, "Personalized content, engagement, and
+- [LIT-2452](../literature.d/LIT-2452.md) (Unfetched): Pape 2024, "Personalized content, engagement, and
   monetization in a mobile puzzle game"
-- LIT-2469 (Unfetched): Qian 2024, "Digital Content Creation: An Analysis
+- [LIT-2469](../literature.d/LIT-2469.md) (Unfetched): Qian 2024, "Digital Content Creation: An Analysis
   of the Impact of Recommendation Systems"
-- LIT-2374 (Deferred): Shor 2025, "The Rise of Spanking, Hitting, and
+- [LIT-2374](../literature.d/LIT-2374.md) (Deferred): Shor 2025, "The Rise of Spanking, Hitting, and
   Strangulation: A Longitudinal Evaluation of Aggression in Pornography"
 
 ## What would count
 
-Published spending distributions test CLAIM-658's premise directly.
+Published spending distributions test [CLAIM-658](../claims.d/CLAIM-658.md)'s premise directly.

@@ -15,7 +15,7 @@ line:
 advances:
 - CLAIM-027
 summary: >-
-  Named in ARG-051. Filed by the backlog audit of 2026-11-19.
+  Named in [ARG-051](../arguments.d/ARG-051.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: ARG-051 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -28,9 +28,9 @@ Metzinger's H1 and H3.
 
 Where the record names it:
 
-- ARG-051: "The interventions that would answer both are his H1 and H3,
+- [ARG-051](../arguments.d/ARG-051.md): "The interventions that would answer both are his H1 and H3,
   untested."
 
 ## What would count
 
-Effects of blocking the agent model with thoughts fixed support CLAIM-027.
+Effects of blocking the agent model with thoughts fixed support [CLAIM-027](../claims.d/CLAIM-027.md).

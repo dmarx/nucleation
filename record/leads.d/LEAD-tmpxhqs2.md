@@ -18,7 +18,7 @@ advances:
 - CLAIM-647
 - QUESTION-095
 summary: >-
-  Named in ARG-079 and the curation entry of 2026-11-12 (015626). Filed by
+  Named in [ARG-079](../arguments.d/ARG-079.md) and the curation entry of 2026-11-12 (015626). Filed by
   the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: ARG-079 CLAIM-647 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -32,11 +32,11 @@ measure what of it survives on the successor model.
 
 Where the record names it:
 
-- ARG-079: "The ARG stays Proposed until a transfer test."
+- [ARG-079](../arguments.d/ARG-079.md): "The ARG stays Proposed until a transfer test."
 - The curation entry of 2026-11-12 (015626): "the IP-Adapter abstract
   quote was checked against arXiv, and the reading is still owed"
 
 ## What would count
 
-A LoRA that transfers weakens CLAIM-647's premise that stored adaptations
-erode with the base; one that does not supports it and lets ARG-079 move.
+A LoRA that transfers weakens [CLAIM-647](../claims.d/CLAIM-647.md)'s premise that stored adaptations
+erode with the base; one that does not supports it and lets [ARG-079](../arguments.d/ARG-079.md) move.

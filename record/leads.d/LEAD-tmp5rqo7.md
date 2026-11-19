@@ -15,7 +15,7 @@ line:
 advances:
 - CLAIM-562
 summary: >-
-  Named in CLAIM-562. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-562](../claims.d/CLAIM-562.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmp5rqo7: Compare equal-budget interventions at different locations in an organization's constraint structure
@@ -27,8 +27,8 @@ organization.
 
 Where the record names it:
 
-- CLAIM-562: "Compare equal-budget interventions at different locations"
+- [CLAIM-562](../claims.d/CLAIM-562.md): "Compare equal-budget interventions at different locations"
 
 ## What would count
 
-Effects that differ by location test CLAIM-562.
+Effects that differ by location test [CLAIM-562](../claims.d/CLAIM-562.md).

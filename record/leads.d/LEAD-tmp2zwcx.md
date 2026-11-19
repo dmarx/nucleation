@@ -21,8 +21,8 @@ operationalized_in:
 - CASE-183
 summary: >-
   Cheap: it uses the record's own data, and the nucleating-argument line's
-  own measure is half computed. Named in CASE-183, CLAIM-186, ARG-028 and
-  QUESTION-038. Filed by the backlog audit of 2026-11-19.
+  own measure is half computed. Named in [CASE-183](../cases.d/CASE-183.md), [CLAIM-186](../claims.d/CLAIM-186.md), [ARG-028](../arguments.d/ARG-028.md) and
+  [QUESTION-038](../questions.d/QUESTION-038.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: ARG-028 CLAIM-186 CLAIM-192 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -37,17 +37,17 @@ compare.
 
 Where the record names it:
 
-- CASE-183: "turns per filed entry have not been computed."
-- CLAIM-186: "inbound references per code are now counted, turns per filed
+- [CASE-183](../cases.d/CASE-183.md): "turns per filed entry have not been computed."
+- [CLAIM-186](../claims.d/CLAIM-186.md): "inbound references per code are now counted, turns per filed
   entry still are not."
-- ARG-028: "Inbound-reference counts and turns per anchor that agree with
+- [ARG-028](../arguments.d/ARG-028.md): "Inbound-reference counts and turns per anchor that agree with
   drift judged blind"
-- QUESTION-038: "Inbound references per code tell an anchor from a
+- [QUESTION-038](../questions.d/QUESTION-038.md): "Inbound references per code tell an anchor from a
   structure that only persists."
 
 ## What would count
 
-Drift that falls where turns per anchor fall supports CLAIM-186 and
-ARG-028. No relation, or drift that tracks something else, counts against
-the anchoring theses and against CLAIM-192's anchoring-rate test as their
+Drift that falls where turns per anchor fall supports [CLAIM-186](../claims.d/CLAIM-186.md) and
+[ARG-028](../arguments.d/ARG-028.md). No relation, or drift that tracks something else, counts against
+the anchoring theses and against [CLAIM-192](../claims.d/CLAIM-192.md)'s anchoring-rate test as their
 intervention.

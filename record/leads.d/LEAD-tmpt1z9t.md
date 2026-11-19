@@ -17,7 +17,7 @@ advances:
 operationalized_in:
 - CASE-188
 summary: >-
-  Named in CLAIM-344 and CASE-188. Filed by the backlog audit of
+  Named in [CLAIM-344](../claims.d/CLAIM-344.md) and [CASE-188](../cases.d/CASE-188.md). Filed by the backlog audit of
   2026-11-19.
 ---
 
@@ -25,17 +25,17 @@ summary: >-
 
 ## What it would do
 
-Run CASE-188 with A40's Study D control: perturb the slow structure while
+Run [CASE-188](../cases.d/CASE-188.md) with A40's Study D control: perturb the slow structure while
 keeping task information and representational capacity comparable.
 
 Where the record names it:
 
-- CLAIM-344: "is the test, and it has not been run."
-- CASE-188: "It gives CLAIM-344's distinction between resolve and mere
+- [CLAIM-344](../claims.d/CLAIM-344.md): "is the test, and it has not been run."
+- [CASE-188](../cases.d/CASE-188.md): "It gives [CLAIM-344](../claims.d/CLAIM-344.md)'s distinction between resolve and mere
   persistence a counterfactual test."
 
 ## What would count
 
 Persistence that falls when the slow structure is ablated and returns
-under corrigible conditions supports CLAIM-344; persistence unchanged by
+under corrigible conditions supports [CLAIM-344](../claims.d/CLAIM-344.md); persistence unchanged by
 the ablation reads as inertia.

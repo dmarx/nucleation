@@ -16,7 +16,7 @@ advances:
 - CLAIM-235
 - CLAIM-125
 summary: >-
-  Named in CLAIM-235. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-235](../claims.d/CLAIM-235.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -24,15 +24,15 @@ summary: >-
 
 ## What it would do
 
-Derive the estimators or the test, and apply them to LIT-851's data.
+Derive the estimators or the test, and apply them to [LIT-851](../literature.d/LIT-851.md)'s data.
 
 Where the record names it:
 
-- CLAIM-235: "Estimators with bias correction and a stated sampling error,
+- [CLAIM-235](../claims.d/CLAIM-235.md): "Estimators with bias correction and a stated sampling error,
   or a test for signalling with a stated null hypothesis, applied to
-  LIT-851's systems with their occurrence counts."
+  [LIT-851](../literature.d/LIT-851.md)'s systems with their occurrence counts."
 
 ## What would count
 
-Estimators with stated error meet CLAIM-235's request and let CLAIM-105's
+Estimators with stated error meet [CLAIM-235](../claims.d/CLAIM-235.md)'s request and let [CLAIM-105](../claims.d/CLAIM-105.md)'s
 judgement of the published tests be made.

@@ -16,8 +16,8 @@ advances:
 - QUESTION-025
 - QUESTION-178
 summary: >-
-  QUESTION-025 is among the most-cited questions in the record and names
-  both halves. Named in QUESTION-025 and QUESTION-178. Filed by the
+  [QUESTION-025](../questions.d/QUESTION-025.md) is among the most-cited questions in the record and names
+  both halves. Named in [QUESTION-025](../questions.d/QUESTION-025.md) and [QUESTION-178](../questions.d/QUESTION-178.md). Filed by the
   backlog audit of 2026-11-19.
 ---
 
@@ -31,16 +31,16 @@ WordNet hypernymy and across analogy families.
 
 Where the record names it:
 
-- QUESTION-025: "A derivation. A generative model of co-occurrence with a
+- [QUESTION-025](../questions.d/QUESTION-025.md): "A derivation. A generative model of co-occurrence with a
   stated implication structure among binary attributes"
-- QUESTION-025: "In real co-occurrence data, a test of whether the PMI is
+- [QUESTION-025](../questions.d/QUESTION-025.md): "In real co-occurrence data, a test of whether the PMI is
   additive across the attributes of a known hierarchy (WordNet hypernymy,
   say)"
-- QUESTION-178: "a measurement of how far the PMI departs from additivity
+- [QUESTION-178](../questions.d/QUESTION-178.md): "a measurement of how far the PMI departs from additivity
   in the attributes across all context words"
 
 ## What would count
 
 A spectrum that shows the hierarchy, and measured additivity along it,
-answers QUESTION-025; a measured departure from additivity sizes
-QUESTION-178.
+answers [QUESTION-025](../questions.d/QUESTION-025.md); a measured departure from additivity sizes
+[QUESTION-178](../questions.d/QUESTION-178.md).

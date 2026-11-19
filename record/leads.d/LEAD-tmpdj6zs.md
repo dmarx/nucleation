@@ -17,7 +17,7 @@ advances:
 - CLAIM-630
 summary: >-
   The evidence under the record's second-occurrence rule; tractable
-  because the record holds many exchanges. Named in CLAIM-483. Filed by
+  because the record holds many exchanges. Named in [CLAIM-483](../claims.d/CLAIM-483.md). Filed by
   the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-176 CLAIM-483 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -31,9 +31,9 @@ another owner or assistant family.
 
 Where the record names it:
 
-- CLAIM-483: "the population is one owner and one assistant family."
+- [CLAIM-483](../claims.d/CLAIM-483.md): "the population is one owner and one assistant family."
 
 ## What would count
 
-The same ratio of identity to structure failures supports CLAIM-483 and
-through it CLAIM-176; a different one bounds it to the first exchange.
+The same ratio of identity to structure failures supports [CLAIM-483](../claims.d/CLAIM-483.md) and
+through it [CLAIM-176](../claims.d/CLAIM-176.md); a different one bounds it to the first exchange.

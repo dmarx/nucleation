@@ -19,7 +19,7 @@ advances:
 - QUESTION-317
 - QUESTION-312
 summary: >-
-  Named in CLAIM-498 and QUESTION-318. Filed by the backlog audit of
+  Named in [CLAIM-498](../claims.d/CLAIM-498.md) and [QUESTION-318](../questions.d/QUESTION-318.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-498 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -32,10 +32,10 @@ Search for published measurements, then measure on open checkpoints.
 
 Where the record names it:
 
-- CLAIM-498: "The measurement its defeated_if names has not been made"
-- QUESTION-318: "the same measurement outside image classification:
+- [CLAIM-498](../claims.d/CLAIM-498.md): "The measurement its defeated_if names has not been made"
+- [QUESTION-318](../questions.d/QUESTION-318.md): "the same measurement outside image classification:
   transformers and language models"
 
 ## What would count
 
-Features equal to the average support CLAIM-498.
+Features equal to the average support [CLAIM-498](../claims.d/CLAIM-498.md).

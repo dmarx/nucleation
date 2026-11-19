@@ -14,7 +14,7 @@ line:
 advances:
 - CLAIM-470
 summary: >-
-  Named in CLAIM-470. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-470](../claims.d/CLAIM-470.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmpymltz: Run the study of investigators starting from an equilibrium-only schema on a synthetic oscillatory system, with three regimes on the same benchmarks
@@ -26,8 +26,8 @@ are not duplicated.
 
 Where the record names it:
 
-- CLAIM-470: "A16 §12 proposed one study."
+- [CLAIM-470](../claims.d/CLAIM-470.md): "A16 §12 proposed one study."
 
 ## What would count
 
-The regimes' ranking tests CLAIM-470.
+The regimes' ranking tests [CLAIM-470](../claims.d/CLAIM-470.md).

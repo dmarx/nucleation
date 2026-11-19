@@ -23,7 +23,7 @@ advances:
 operationalized_in:
 - CASE-269
 summary: >-
-  Named in QUESTION-490 and CASE-269. Filed by the backlog audit of
+  Named in [QUESTION-490](../questions.d/QUESTION-490.md) and [CASE-269](../cases.d/CASE-269.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-269 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -38,11 +38,11 @@ survival; then add vortices and the mediator nucleus.
 
 Where the record names it:
 
-- QUESTION-490: "A10 §6 proposed coupling a Dirac field to the φ⁴ kink of
-  CASE-269's testbed, withdrawing the support that holds the kink"
-- CASE-269: "What is not held is the common testbed"
+- [QUESTION-490](../questions.d/QUESTION-490.md): "A10 §6 proposed coupling a Dirac field to the φ⁴ kink of
+  [CASE-269](../cases.d/CASE-269.md)'s testbed, withdrawing the support that holds the kink"
+- [CASE-269](../cases.d/CASE-269.md): "What is not held is the common testbed"
 
 ## What would count
 
-Survival that depends on the bound mode's occupation answers QUESTION-490;
-a mediator nucleus whose loop closes bears on QUESTION-399.
+Survival that depends on the bound mode's occupation answers [QUESTION-490](../questions.d/QUESTION-490.md);
+a mediator nucleus whose loop closes bears on [QUESTION-399](../questions.d/QUESTION-399.md).

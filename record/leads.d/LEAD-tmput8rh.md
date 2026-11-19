@@ -21,7 +21,7 @@ operationalized_in:
 summary: >-
   The first test of the owner's hypothesis that wave mathematics applies
   to learning, for a question cited over a hundred times. Named in
-  QUESTION-275 and CASE-272. Filed by the backlog audit of 2026-11-19.
+  [QUESTION-275](../questions.d/QUESTION-275.md) and [CASE-272](../cases.d/CASE-272.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-272 CLAIM-698 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -37,16 +37,16 @@ edge budget.
 
 Where the record names it:
 
-- QUESTION-275: "fit the model using early training checkpoints, then test
+- [QUESTION-275](../questions.d/QUESTION-275.md): "fit the model using early training checkpoints, then test
   its predictions about later functional changes, including changes under
   held-out training interventions"
-- QUESTION-275: "it needs a null at equal edge budget before it bears on
+- [QUESTION-275](../questions.d/QUESTION-275.md): "it needs a null at equal edge budget before it bears on
   the coupling"
-- CASE-272: "the first test of the owner's hypothesis that wave
+- [CASE-272](../cases.d/CASE-272.md): "the first test of the owner's hypothesis that wave
   mathematics applies to learning"
 
 ## What would count
 
-Predictions that beat the null support CLAIM-698 and answer QUESTION-275
+Predictions that beat the null support [CLAIM-698](../claims.d/CLAIM-698.md) and answer [QUESTION-275](../questions.d/QUESTION-275.md)
 for this task; predictions no better than the null defeat the coupling as
 an account of the circuit's formation.

@@ -19,7 +19,7 @@ advances:
 operationalized_in:
 - CASE-114
 summary: >-
-  Named in CLAIM-355. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-355](../claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-355 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -27,14 +27,14 @@ summary: >-
 
 ## What it would do
 
-Build CASE-114's simulation, with distributed control and a centralized
+Build [CASE-114](../cases.d/CASE-114.md)'s simulation, with distributed control and a centralized
 self-model whose reports are logged apart from the causes.
 
 Where the record names it:
 
-- CLAIM-355: "Drayson's objection is still answered only conditionally"
+- [CLAIM-355](../claims.d/CLAIM-355.md): "Drayson's objection is still answered only conditionally"
 
 ## What would count
 
 Reports that misattribute control in a predictable way answer Drayson's
-objection to CLAIM-355 unconditionally for the model.
+objection to [CLAIM-355](../claims.d/CLAIM-355.md) unconditionally for the model.

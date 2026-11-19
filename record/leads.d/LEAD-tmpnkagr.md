@@ -20,7 +20,7 @@ advances:
 operationalized_in:
 - CASE-248
 summary: >-
-  Named in ARG-095. Filed by the backlog audit of 2026-11-19.
+  Named in [ARG-095](../arguments.d/ARG-095.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: ARG-095 CASE-248 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -28,15 +28,15 @@ summary: >-
 
 ## What it would do
 
-Run CASE-248: price a standardized reward in money across releases and set
+Run [CASE-248](../cases.d/CASE-248.md): price a standardized reward in money across releases and set
 the trend against the revenue share of high spenders.
 
 Where the record names it:
 
-- ARG-095: "the evidence does not yet carry the explanatory part of the
+- [ARG-095](../arguments.d/ARG-095.md): "the evidence does not yet carry the explanatory part of the
   owner's claim"
 
 ## What would count
 
 Costs that rise with high spenders' weight carry the explanatory part of
-the owner's claim (ARG-095); costs that do not move leave it unsupported.
+the owner's claim ([ARG-095](../arguments.d/ARG-095.md)); costs that do not move leave it unsupported.

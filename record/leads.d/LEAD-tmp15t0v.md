@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-121
 summary: >-
-  Named in QUESTION-121. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-121](../questions.d/QUESTION-121.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmp15t0v: Simulate an interpretation loop that does not lock in with action held fixed, and show which candidate's removal makes it lock in
@@ -25,9 +25,9 @@ Build the loop and remove the candidates one at a time.
 
 Where the record names it:
 
-- QUESTION-121: "A loop that does not lock in, with action held fixed, and
+- [QUESTION-121](../questions.d/QUESTION-121.md): "A loop that does not lock in, with action held fixed, and
   a demonstration that removing a given candidate makes it lock in."
 
 ## What would count
 
-A candidate whose removal produces lock-in answers QUESTION-121.
+A candidate whose removal produces lock-in answers [QUESTION-121](../questions.d/QUESTION-121.md).

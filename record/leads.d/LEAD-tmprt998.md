@@ -18,7 +18,7 @@ advances:
 - CLAIM-472
 - QUESTION-284
 summary: >-
-  Named in CLAIM-476. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-476](../claims.d/CLAIM-476.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-476 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -30,8 +30,8 @@ Build the two-apparatus experiment.
 
 Where the record names it:
 
-- CLAIM-476: "The experiment is not built."
+- [CLAIM-476](../claims.d/CLAIM-476.md): "The experiment is not built."
 
 ## What would count
 
-Later inquiry that differs beyond display supports CLAIM-476.
+Later inquiry that differs beyond display supports [CLAIM-476](../claims.d/CLAIM-476.md).

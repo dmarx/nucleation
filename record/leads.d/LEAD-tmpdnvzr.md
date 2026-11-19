@@ -17,8 +17,8 @@ advances:
 - CLAIM-577
 - QUESTION-394
 summary: >-
-  QUESTION-394 calls it the cheapest test of CLAIM-577 and gives the
-  design. Named in QUESTION-394. Filed by the backlog audit of 2026-11-19.
+  [QUESTION-394](../questions.d/QUESTION-394.md) calls it the cheapest test of [CLAIM-577](../claims.d/CLAIM-577.md) and gives the
+  design. Named in [QUESTION-394](../questions.d/QUESTION-394.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmpdnvzr: Run the readiness simulator twice, with each period's budget set to the last period's peak spending and with carry-over
@@ -29,9 +29,9 @@ Run A's simulator in the two budget regimes.
 
 Where the record names it:
 
-- QUESTION-394: "A's simulator is also the cheapest test of CLAIM-577."
+- [QUESTION-394](../questions.d/QUESTION-394.md): "A's simulator is also the cheapest test of [CLAIM-577](../claims.d/CLAIM-577.md)."
 
 ## What would count
 
-Capability lost without carry-over and kept with it supports CLAIM-577 in
+Capability lost without carry-over and kept with it supports [CLAIM-577](../claims.d/CLAIM-577.md) in
 its first organizational test.

@@ -19,7 +19,7 @@ advances:
 - QUESTION-325
 summary: >-
   Two Proposed claims, one with dependants, wait on it. Named in
-  CLAIM-446. Filed by the backlog audit of 2026-11-19.
+  [CLAIM-446](../claims.d/CLAIM-446.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -31,9 +31,9 @@ Search the anxiety and avoidance literature for such a manipulation.
 
 Where the record names it:
 
-- CLAIM-446: "No result in the record measures defensive authority apart
+- [CLAIM-446](../claims.d/CLAIM-446.md): "No result in the record measures defensive authority apart
   from threat belief"
 
 ## What would count
 
-Authority that moves with threat fixed supports CLAIM-446.
+Authority that moves with threat fixed supports [CLAIM-446](../claims.d/CLAIM-446.md).

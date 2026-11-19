@@ -15,7 +15,7 @@ line:
 advances:
 - CLAIM-685
 summary: >-
-  Named in CLAIM-685. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-685](../claims.d/CLAIM-685.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-685 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -27,9 +27,9 @@ Choose matched institutions and compare.
 
 Where the record names it:
 
-- CLAIM-685: "the record holds no comparison of institutions with and
+- [CLAIM-685](../claims.d/CLAIM-685.md): "the record holds no comparison of institutions with and
   without effective means to revise their governing standards"
 
 ## What would count
 
-The comparison is what CLAIM-685 lacks.
+The comparison is what [CLAIM-685](../claims.d/CLAIM-685.md) lacks.

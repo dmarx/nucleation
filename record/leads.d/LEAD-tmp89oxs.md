@@ -17,8 +17,8 @@ advances:
 - QUESTION-133
 - QUESTION-135
 summary: >-
-  QUESTION-132 names it as the natural first target. Named in
-  QUESTION-132. Filed by the backlog audit of 2026-11-19.
+  [QUESTION-132](../questions.d/QUESTION-132.md) names it as the natural first target. Named in
+  [QUESTION-132](../questions.d/QUESTION-132.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmp89oxs: Prove a restricted theorem for a population of adaptive operators: sufficient conditions, for symmetric competitive interactions and bounded niche adaptation, for a locally stable differentiated equilibrium in which every specialist can reinvade
@@ -31,7 +31,7 @@ growth of each specialist when rare.
 
 Where the record names it:
 
-- QUESTION-132: "A restricted theorem would be a natural first target. For
+- [QUESTION-132](../questions.d/QUESTION-132.md): "A restricted theorem would be a natural first target. For
   symmetric competitive interactions and bounded niche adaptation, find
   sufficient conditions under which a differentiated equilibrium is locally
   asymptotically stable and every active specialist has positive growth when
@@ -39,6 +39,6 @@ Where the record names it:
 
 ## What would count
 
-A theorem answers QUESTION-132 for its class and fixes what the population
+A theorem answers [QUESTION-132](../questions.d/QUESTION-132.md) for its class and fixes what the population
 study must measure. A counterexample within the class shows that
 differentiation needs more than competition and bounded adaptation.

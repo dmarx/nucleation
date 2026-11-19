@@ -20,7 +20,7 @@ advances:
 operationalized_in:
 - CASE-101
 summary: >-
-  Named in QUESTION-115 and QUESTION-116. Filed by the backlog audit of
+  Named in [QUESTION-115](../questions.d/QUESTION-115.md) and [QUESTION-116](../questions.d/QUESTION-116.md). Filed by the backlog audit of
   2026-11-19.
 ---
 
@@ -28,18 +28,18 @@ summary: >-
 
 ## What it would do
 
-Run CASE-101's three populations and apply QUESTION-115's search procedure
+Run [CASE-101](../cases.d/CASE-101.md)'s three populations and apply [QUESTION-115](../questions.d/QUESTION-115.md)'s search procedure
 and a lagged block criterion to each.
 
 Where the record names it:
 
-- QUESTION-115: "A specified search procedure that recovers independently
+- [QUESTION-115](../questions.d/QUESTION-115.md): "A specified search procedure that recovers independently
   known system boundaries and characteristic timescales in controlled
   models"
-- QUESTION-116: "rejects a population whose members are correlated only
+- [QUESTION-116](../questions.d/QUESTION-116.md): "rejects a population whose members are correlated only
   because they receive the same input"
 
 ## What would count
 
 A procedure that recovers the known boundaries and rejects the commonly
-driven population answers QUESTION-115 and QUESTION-116 for the model.
+driven population answers [QUESTION-115](../questions.d/QUESTION-115.md) and [QUESTION-116](../questions.d/QUESTION-116.md) for the model.

@@ -17,7 +17,7 @@ advances:
 - QUESTION-065
 - CLAIM-157
 summary: >-
-  Named in QUESTION-065. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-065](../questions.d/QUESTION-065.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -30,12 +30,12 @@ across a buffer and the gap-isolated blocks, and compare them.
 
 Where the record names it:
 
-- QUESTION-065: "A result for a system that is not a lattice, such as
+- [QUESTION-065](../questions.d/QUESTION-065.md): "A result for a system that is not a lattice, such as
   coupled agents. It would show that variables chosen for informativeness
-  across a buffer match CLAIM-157's gap-isolated block. Or a local system
+  across a buffer match [CLAIM-157](../claims.d/CLAIM-157.md)'s gap-isolated block. Or a local system
   where they diverge."
 
 ## What would count
 
-A match extends the lattice result QUESTION-065 starts from; a divergence
-in a local system answers it the other way and bounds CLAIM-157.
+A match extends the lattice result [QUESTION-065](../questions.d/QUESTION-065.md) starts from; a divergence
+in a local system answers it the other way and bounds [CLAIM-157](../claims.d/CLAIM-157.md).

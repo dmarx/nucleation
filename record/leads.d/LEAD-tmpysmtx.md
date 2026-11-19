@@ -30,7 +30,7 @@ State the tension and decide which claim narrows.
 
 Where the record names it:
 
-- The curation entry of 2026-11-11 (061331): "CLAIM-266 and CLAIM-517 are
+- The curation entry of 2026-11-11 (061331): "[CLAIM-266](../claims.d/CLAIM-266.md) and [CLAIM-517](../claims.d/CLAIM-517.md) are
   in tension."
 
 ## What would count

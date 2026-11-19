@@ -19,7 +19,7 @@ advances:
 - CLAIM-432
 - CLAIM-039
 summary: >-
-  Named in CLAIM-431 and SYNTHESIS-018. Filed by the backlog audit of
+  Named in [CLAIM-431](../claims.d/CLAIM-431.md) and [SYNTHESIS-018](../syntheses.d/SYNTHESIS-018.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 SYNTHESIS-018 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -32,10 +32,10 @@ Find cases where a sanction ended and harm-weighing can be traced after.
 
 Where the record names it:
 
-- CLAIM-431: "is a test nobody has run."
-- SYNTHESIS-018: "the test whether harms keep being weighed once sanction
+- [CLAIM-431](../claims.d/CLAIM-431.md): "is a test nobody has run."
+- [SYNTHESIS-018](../syntheses.d/SYNTHESIS-018.md): "the test whether harms keep being weighed once sanction
   lifts is unrun"
 
 ## What would count
 
-Harm-weighing that persists supports CLAIM-432's part 5.
+Harm-weighing that persists supports [CLAIM-432](../claims.d/CLAIM-432.md)'s part 5.

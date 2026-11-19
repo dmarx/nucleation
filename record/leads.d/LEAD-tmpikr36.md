@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-303
 summary: >-
-  Named in QUESTION-303. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-303](../questions.d/QUESTION-303.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmpikr36: Search for studies of context sampling after cued trauma recall in PTSD against trauma-exposed controls, and for exposure-matched intervention contrasts
@@ -26,8 +26,8 @@ recall.
 
 Where the record names it:
 
-- QUESTION-303: "Evidence from people, not from the model."
+- [QUESTION-303](../questions.d/QUESTION-303.md): "Evidence from people, not from the model."
 
 ## What would count
 
-Such evidence decides QUESTION-303 for people.
+Such evidence decides [QUESTION-303](../questions.d/QUESTION-303.md) for people.

@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-130
 summary: >-
-  Named in QUESTION-130. Filed by the backlog audit of 2026-11-19.
+  Named in [QUESTION-130](../questions.d/QUESTION-130.md). Filed by the backlog audit of 2026-11-19.
 ---
 
 # LEAD-tmpb4tsj: Build the finite evaluative-transport construction: three overlapping contexts, comparisons on overlaps, derived transport, and the null of trivial holonomy
@@ -26,9 +26,9 @@ and trivial holonomy; then a case with nontrivial holonomy.
 
 Where the record names it:
 
-- QUESTION-130: "That would prove that perspectival plurality does not
+- [QUESTION-130](../questions.d/QUESTION-130.md): "That would prove that perspectival plurality does not
   imply nontrivial gauge curvature."
 
 ## What would count
 
-The null answers the first part of QUESTION-130 by construction.
+The null answers the first part of [QUESTION-130](../questions.d/QUESTION-130.md) by construction.

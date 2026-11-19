@@ -24,20 +24,20 @@ summary: >-
 
 ## What it would do
 
-Read the works CASE-279 cites.
+Read the works [CASE-279](../cases.d/CASE-279.md) cites.
 
 ## The works
 
-- LIT-2671 (Unfetched): Machado 2026, "Defining Bidirectional Violence in
+- [LIT-2671](../literature.d/LIT-2671.md) (Unfetched): Machado 2026, "Defining Bidirectional Violence in
   Intimate Relationships: A Scoping Review of Conceptual and Operational
   Challenges"
-- LIT-2690 (Unfetched): Coates 2026, "Measuring Psychologically Abusive
+- [LIT-2690](../literature.d/LIT-2690.md) (Unfetched): Coates 2026, "Measuring Psychologically Abusive
   Behaviors in Adult Intimate Relationships: A Systematic Review of
   Measures"
-- LIT-2751 (Unfetched): Johnson 1995, "Patriarchal Terrorism and Common
+- [LIT-2751](../literature.d/LIT-2751.md) (Unfetched): Johnson 1995, "Patriarchal Terrorism and Common
   Couple Violence: Two Forms of Violence against Women"
-- LIT-2714 (Unfetched): Williams 1976, "Moral Luck"
+- [LIT-2714](../literature.d/LIT-2714.md) (Unfetched): Williams 1976, "Moral Luck"
 
 ## What would count
 
-Measures that separate the directions test CLAIM-709.
+Measures that separate the directions test [CLAIM-709](../claims.d/CLAIM-709.md).

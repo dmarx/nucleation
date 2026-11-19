@@ -21,7 +21,7 @@ advances:
 operationalized_in:
 - CASE-153
 summary: >-
-  Named in QUESTION-131 and CASE-153. Filed by the backlog audit of
+  Named in [QUESTION-131](../questions.d/QUESTION-131.md) and [CASE-153](../cases.d/CASE-153.md). Filed by the backlog audit of
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-445 — Proposed; cited in the backlog audit of 2026-11-19 -->
@@ -31,17 +31,17 @@ summary: >-
 ## What it would do
 
 Construct cases with frustration and no thwarting and the reverse, then
-run CASE-153's full design (the run in CASE-157 covered only part), with
+run [CASE-153](../cases.d/CASE-153.md)'s full design (the run in [CASE-157](../cases.d/CASE-157.md) covered only part), with
 hidden state and the restriction of evidence.
 
 Where the record names it:
 
-- QUESTION-131: "Constructions that separate the two in each direction
+- [QUESTION-131](../questions.d/QUESTION-131.md): "Constructions that separate the two in each direction
   would show how independent they are."
-- CASE-153: "The evidence is exogenous"
+- [CASE-153](../cases.d/CASE-153.md): "The evidence is exogenous"
 
 ## What would count
 
-Constructions in both directions answer QUESTION-131 by showing the two
+Constructions in both directions answer [QUESTION-131](../questions.d/QUESTION-131.md) by showing the two
 independent. A sentry that restricts its own evidence and maintains itself
-supports CLAIM-445.
+supports [CLAIM-445](../claims.d/CLAIM-445.md).

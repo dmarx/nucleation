@@ -18,7 +18,7 @@ advances:
 - CLAIM-315
 - CLAIM-298
 summary: >-
-  Named in CLAIM-315. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-315](../claims.d/CLAIM-315.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-315 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -31,9 +31,9 @@ anchoring.
 
 Where the record names it:
 
-- CLAIM-315: "No design with a retrieval measure first shown sensitive to
+- [CLAIM-315](../claims.d/CLAIM-315.md): "No design with a retrieval measure first shown sensitive to
   direct priming has found that accessibility difference"
 
 ## What would count
 
-An accessibility difference that predicts the shift supports CLAIM-315.
+An accessibility difference that predicts the shift supports [CLAIM-315](../claims.d/CLAIM-315.md).

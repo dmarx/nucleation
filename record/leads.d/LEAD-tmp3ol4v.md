@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-051
 summary: >-
-  Named in NOTE-783. Filed by the backlog audit of 2026-11-19.
+  Named in [NOTE-783](../notes.d/NOTE-783.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: NOTE-772 — Skimmed; cited in the backlog audit of 2026-11-19 -->
 
@@ -22,16 +22,16 @@ summary: >-
 
 ## What it would do
 
-Measure on trained networks, and register the work NOTE-772 names.
+Measure on trained networks, and register the work [NOTE-772](../notes.d/NOTE-772.md) names.
 
 Where the record names it:
 
-- NOTE-783: "A measurement of the SNR singular values in a trained
+- [NOTE-783](../notes.d/NOTE-783.md): "A measurement of the SNR singular values in a trained
   network, against (4t/N)^(1/4), would settle whether the closed form
   describes training."
 
 ## What would count
 
 Agreement says the closed form describes training by ordinary gradient
-descent, which bears on QUESTION-051; disagreement confines it to the
+descent, which bears on [QUESTION-051](../questions.d/QUESTION-051.md); disagreement confines it to the
 renormalized flow.

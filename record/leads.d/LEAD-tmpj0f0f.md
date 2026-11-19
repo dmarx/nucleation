@@ -18,7 +18,7 @@ advances:
 - CLAIM-201
 - CLAIM-257
 summary: >-
-  Named in CLAIM-251. Filed by the backlog audit of 2026-11-19.
+  Named in [CLAIM-251](../claims.d/CLAIM-251.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-251 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -31,9 +31,9 @@ which sense each entry uses.
 
 Where the record names it:
 
-- CLAIM-251: "no construction of the operational cover as a family of
+- [CLAIM-251](../claims.d/CLAIM-251.md): "no construction of the operational cover as a family of
   contexts with restriction maps"
 
 ## What would count
 
-Either settles CLAIM-251.
+Either settles [CLAIM-251](../claims.d/CLAIM-251.md).

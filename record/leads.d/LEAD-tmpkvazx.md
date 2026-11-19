@@ -24,17 +24,17 @@ summary: >-
 
 ## What it would do
 
-Argue which reading of independent scoring CLAIM-342 means, and revise its
+Argue which reading of independent scoring [CLAIM-342](../claims.d/CLAIM-342.md) means, and revise its
 term.
 
 Where the record names it:
 
-- The curation entry of 2026-11-11 (030317): "CLAIM-342's term is open.
+- The curation entry of 2026-11-11 (030317): "[CLAIM-342](../claims.d/CLAIM-342.md)'s term is open.
   Authority that reinforces itself without passing through any
-  interpretation ... meets CLAIM-342's defeated_if if share-dependent
+  interpretation ... meets [CLAIM-342](../claims.d/CLAIM-342.md)'s defeated_if if share-dependent
   advantage counts as independent scoring, and not if it counts as scoring
   that passes through what the loop tests."
 
 ## What would count
 
-One reading meets CLAIM-342's defeated_if; the other does not.
+One reading meets [CLAIM-342](../claims.d/CLAIM-342.md)'s defeated_if; the other does not.
