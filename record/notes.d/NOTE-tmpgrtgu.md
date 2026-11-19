@@ -39,7 +39,7 @@ summary: >-
   logic, the symmetrical functions, estimation and, provisionally, c*.
   The book is also a sustained worked example of explication.
 ---
-<!-- inactive-ok-file: ADR-tmptwlsg ARG-tmp23khr CLAIM-472 — Proposed; filed alongside this reading -->
+<!-- inactive-ok-file: ARG-tmp23khr CLAIM-472 — Proposed; filed alongside this reading -->
 
 # NOTE-tmpgrtgu: Carnap — Logical Foundations of Probability
 
