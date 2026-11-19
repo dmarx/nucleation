@@ -12,3 +12,14 @@
 - §3.7 (p. 20): "GPT-3 requires less than eight total examples per task to outperform a fine-tuned BERT-Large" (125K fine-tuning examples): closest thing to a cost-to-level comparison, across systems, not across pretraining.
 - Cases where few-shot hurts: LAMBADA smallest model -20% with fill-in-blank few-shot (§3.1.2); one-shot always worse than zero-shot there; Winograd no clear ICL; ARC/PIQA flat; WiC at chance.
 - No fine-tuning of GPT-3; no pretraining-length variation; scale = model size at fixed 300B tokens.
+
+## Step 3: §§3.9-8 read, appendices skimmed (pp. 21-42; B, C, D, H captions)
+- §3.9.2 (p. 24): word-scrambling "the model really does appear to learn these tasks at test time" (zero-shot near nil, artificial tasks), with "although we cannot confirm this with certainty".
+- §5 (p. 34): the recognition-vs-learning paragraph, a "spectrum" from same-distribution demonstrations to "learning a skill entirely de novo"; "Where GPT-3 is on this spectrum may also vary from task to task."
+- §5: pre-training sample efficiency poor; "it still sees much more text during pre-training than a human sees in the their lifetime".
+- §7 (p. 40): inner loop "through computation in the model's activations across timesteps, without updating the weights"; outer loop "implicitly learns the ability to adapt to or at least recognize tasks".
+- §6.3: amortization of pretraining compute over a model's lifetime (energy).
+- Fig. 1.2 looked at as image (p. 4): by eye, 175B passes ~50% within about 10 examples, 13B reaches ~25% at K~100, 1.3B stays under ~5%. Examples-to-a-level fall with size, but this is my reading of a plot, not a stated measurement; one task.
+- Fig. 3.8 (p. 20): at 125M few-shot (K=32) scores below one-shot. LAMBADA §3.1.2: few-shot "decreases the performance of the smallest model by almost 20%".
+- Appendix B: all sizes 300B tokens, cosine LR decay; pretraining amount is never varied. No untrained or non-pretrained baseline; no fine-tuning of GPT-3.
+- Open doubt: "scale" here is parameters/compute at fixed data, so it shows larger pretrained models adapt in context with fewer examples, not that more pretraining of one learner lowers cost.
