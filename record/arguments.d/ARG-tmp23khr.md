@@ -22,17 +22,17 @@ line:
 works:
 - cost-structure-of-possibility
 summary: >-
-  The first explication (ADR-tmptwlsg): the argument that the definition
+  The first explication ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)): the argument that the definition
   of learning filed from the exchange "Topological protection explained"
-  (TERM-tmp1ix99, A's wording from A46 and A71) does its job, which is to
+  ([TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md), A's wording from A46 and A71) does its job, which is to
   let claims about learning in any line say what changed, at what cost and
   against what counterfactual. Judged against the definition by improved
   performance at a task (Mitchell's, the one A46 says it extends; not held
   in the record), it is more fruitful: the stipulated two-step acquisition
-  (CASE-tmpplox8) is learning on it and not on the rival. Two questions are
+  ([CASE-tmpplox8](../cases.d/CASE-tmpplox8.md)) is learning on it and not on the rival. Two questions are
   answered only in part: the exclusion of selection holds only for the
   members of a population, and the definition is exact only once a
-  comparator (TERM-117) and a budget are declared. Proposed. Filed by the
+  comparator ([TERM-117](../terms.d/TERM-117.md)) and a budget are declared. Proposed. Filed by the
   assistant (Claude, in this session) at the owner's request; the verdict
   is the owner's to adopt.
 ---
@@ -42,7 +42,7 @@ summary: >-
 
 ## The inference
 
-TERM-tmp1ix99 defines learning as an experience-dependent change in a
+[TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md) defines learning as an experience-dependent change in a
 system's retained organization that alters what it can later do, at what
 cost and with what reliability, judged against a counterfactual in which
 the experience did not occur. Successful learning, relative to a declared
@@ -60,17 +60,17 @@ what the record's claims about learning need.
 
 - **Do the paradigm cases, and the cases the job turns on, fall on the
   right side?**
-  - *A step that loses on its own tasks.* In CASE-tmpplox8 a procedure
+  - *A step that loses on its own tasks.* In [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md) a procedure
     loses money on the one question it serves but cuts the cost of a
     second acquisition from 10 to 1. On the rival it is not learning,
     since performance did not improve. On this definition it is: retained
-    organization changed and later costs fell. CLAIM-tmp5gbzr turns on it.
+    organization changed and later costs fell. [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md) turns on it.
   - *Overconsolidation.* Stabilization that improves the present objective
-    while raising the cost of later acquisition (CLAIM-tmp8ljvp) is, on
+    while raising the cost of later acquisition ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) is, on
     the rival, simply learning. On this definition it is learning whose
     effect on later costs can be stated and priced.
   - *Memorization.* Gains restricted to encountered examples count as
-    learning on both, after the correction at ChatGPT's review. CLAIM-519
+    learning on both, after the correction at ChatGPT's review. [CLAIM-519](../claims.d/CLAIM-519.md)
     shows why competence cannot be the test of anything more: over a
     finite horizon a lookup table reproduces a model's behaviour exactly.
     So the definition is right to keep generalization out of learning
@@ -79,7 +79,7 @@ what the record's claims about learning need.
     clause: a cooling material ends where it would have ended, and a
     fixed controller's response was already fixed. No case on record; the
     exclusions rest on A46 §7's examples.
-  - *Selection among systems.* Answered only in part. CLAIM-288 shows that
+  - *Selection among systems.* Answered only in part. [CLAIM-288](../claims.d/CLAIM-288.md) shows that
     what a population appears to maintain is set by what selection keeps,
     not produced by any member, which supports the exclusion for members.
     But if the declared system is the population, differential survival
@@ -87,14 +87,14 @@ what the record's claims about learning need.
     on this definition it is learning. The exclusion holds relative to the
     system declared, which the term should say.
 - **Is it exact enough to apply?** Only once a comparator and a budget are
-  declared. The counterfactual is TERM-117's comparator; "what it can
+  declared. The counterfactual is [TERM-117](../terms.d/TERM-117.md)'s comparator; "what it can
   later do, at what cost" needs the operating and acquisition budgets of
-  CLAIM-tmp1l2s7. "Retained organization" is not operationalized; it is
+  [CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md). "Retained organization" is not operationalized; it is
   whatever state persists between the experience and the later test.
 - **Is it fruitful: what becomes statable that was not?** The three
-  frontiers moving separately (CLAIM-tmp1l2s7), overconsolidation
-  (CLAIM-tmp8ljvp), and an acquisition valued by what it does to other
-  acquisitions (CLAIM-tmp5gbzr) are all statable on it and not on the
+  frontiers moving separately ([CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md)), overconsolidation
+  ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)), and an acquisition valued by what it does to other
+  acquisitions ([CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)) are all statable on it and not on the
   rival, where the first collapses to one frontier and the last two are
   not learning or not distinguishable from it. Four claims and one
   argument are stated in it.
@@ -114,5 +114,5 @@ argument on fruitfulness and on the cases the job turns on. Two
 questions are answered only in part: selection is excluded only relative
 to the declared system, and exactness depends on a declared comparator
 and budget. A revision of the term that says the first, or an Active
-CLAIM-519, would strengthen it. A rival definition weighed and found as
+[CLAIM-519](../claims.d/CLAIM-519.md), would strengthen it. A rival definition weighed and found as
 fruitful would weaken it.

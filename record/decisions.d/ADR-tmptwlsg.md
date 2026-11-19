@@ -7,17 +7,17 @@ tags:
 - mechanism
 date: '2026-11-19'
 summary: >-
-  A TERM could reach upstream only to readings (`draws_on`, ADR-095) and
-  to a broader term (`refines`, ADR-046). The claims and cases that fixed
+  A TERM could reach upstream only to readings (`draws_on`, [ADR-095](ADR-095.md)) and
+  to a broader term (`refines`, [ADR-046](ADR-046.md)). The claims and cases that fixed
   where a definition draws its lines were cited in its prose and nowhere
   else, so revising one of them found nothing built on it. The owner asked
-  on 2026-11-19, after the definition of learning (TERM-tmp1ix99) took most
+  on 2026-11-19, after the definition of learning ([TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md)) took most
   of the exchange "Topological protection explained" to reach, whether
   TERMs should conclude ARGs. They now may, in one new form, `explication`,
   whose critical questions are Carnap's adequacy conditions (similarity to
   the paradigm cases, exactness, fruitfulness, simplicity) and the rivals
   it is judged against. Its verdict is on fit to the term's job
-  (ADR-056), not on truth, which is CLAIM-472's point that a cut is open
+  ([ADR-056](ADR-056.md)), not on truth, which is [CLAIM-472](../claims.d/CLAIM-472.md)'s point that a cut is open
   to evaluation and not only to verification. The term's `argued_by` is
   derived. Rejected: a twin adequacy CLAIM for each term; widening
   `draws_on` to claims and cases; leaving it to prose.
@@ -28,21 +28,21 @@ summary: >-
 
 ## Context
 
-A TERM says what job its definition does (ADR-056), and it can be
-Proposed, rival another or narrow one (ADR-046). What it could not say is
+A TERM says what job its definition does ([ADR-056](ADR-056.md)), and it can be
+Proposed, rival another or narrow one ([ADR-046](ADR-046.md)). What it could not say is
 why its lines fall where they do. Its upstream edges were `draws_on`, to
-the readings its sense is fixed by (ADR-095), and `refines`, to a broader
+the readings its sense is fixed by ([ADR-095](ADR-095.md)), and `refines`, to a broader
 term. The record's own claims and cases that a definition answers to,
 the counterexamples that forced an exclusion and the claims that only
 became statable once it was fixed, were cited in its prose and carried no
 relation.
 
 The definition of learning filed from the exchange "Topological
-protection explained" (TERM-tmp1ix99) is the case that raised it. It took
+protection explained" ([TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md)) is the case that raised it. It took
 most of the exchange to reach (A46, revised at A71, corrected at
 ChatGPT's review), and its exclusions lean on the record's claims: a
-lookup table that passes for a model over a finite horizon (CLAIM-519),
-and a population whose norms are set by what selection keeps (CLAIM-288).
+lookup table that passes for a model over a finite horizon ([CLAIM-519](../claims.d/CLAIM-519.md)),
+and a population whose norms are set by what selection keeps ([CLAIM-288](../claims.d/CLAIM-288.md)).
 Nothing machine-readable tied the term to either. The owner asked on
 2026-11-19 whether TERMs should conclude ARGs.
 
@@ -61,10 +61,10 @@ Nothing machine-readable tied the term to either. The owner asked on
    - Is it as simple as the job allows?
    - Which predecessor and rivals is it judged against?
 3. **The verdict is on fit, not truth.** A definition is not true or
-   false. CLAIM-472 (Proposed) holds that choosing a distinction is open
+   false. [CLAIM-472](../claims.d/CLAIM-472.md) (Proposed) holds that choosing a distinction is open
    to evaluation and not only to verification; this is that evaluation
    given a place. The ARG's status is the verdict on the inference, as on
-   every ARG (ADR-061). Adopting the term remains its own status, the
+   every ARG ([ADR-061](ADR-061.md)). Adopting the term remains its own status, the
    owner's call: an Active explication does not make a term Active.
 4. **Premises are as on any ARG.** Claims go in `rests_on`; cases,
    readings and works in `grounds`; terms the inference is stated in, in
@@ -74,7 +74,7 @@ Nothing machine-readable tied the term to either. The owner asked on
    breach. One is filed where a definition's lines were argued for, or
    are disputed.
 
-The first application is the explication of TERM-tmp1ix99, filed with
+The first application is the explication of [TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md), filed with
 this decision.
 
 ## Alternatives considered
