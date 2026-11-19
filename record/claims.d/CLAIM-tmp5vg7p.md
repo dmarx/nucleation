@@ -1,0 +1,82 @@
+---
+status: Proposed
+title: 'If a learner''s capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then relief from overconsolidation has a deadline: an intervention that restores plasticity (a reset of some weights, stronger regularization, renewed exposure to varied tasks) restores it when applied before a threshold point in training and fails to after it, rather than working less well in proportion to how late it comes'
+version: 1
+role: supposed
+warrant: interpretive
+defeated_if: >-
+  Across checkpoints of one training run, the gain in later acquisition
+  from a plasticity-restoring intervention declines smoothly with
+  training time, with no point after which it falls to near zero; or the
+  antecedent fails, that is, the capacity to acquire is not drawn down by
+  disuse and rebuilt by use, so that CLAIM-605's model does not describe
+  training at all. Also defeated if the apparent deadline is explained by
+  forgetting of held capabilities rather than by lost capacity to
+  acquire.
+tags:
+- learning-theory
+- representation-learning
+date: '2026-11-19'
+line:
+- learned-structure
+- readiness
+rests_on:
+- CLAIM-605
+- CLAIM-tmp8ljvp
+bears_on:
+- QUESTION-tmpwqepn
+summary: >-
+  The assistant's, offered on 2026-11-19 after filing the exchange
+  "Topological protection explained" and accepted by the owner the same
+  day. It joins CLAIM-605, which shows that where capacity is learned by
+  doing, decays with disuse and needs capacity to grow, support that does
+  the work has a deadline after which withdrawal no longer restores
+  capacity, to overconsolidation (CLAIM-tmp8ljvp, the owner's
+  generalization of overfitting). Supposed: it holds only if CLAIM-605's
+  three conditions describe a network's capacity to acquire, which nothing
+  on record shows. Its test is an arm of CASE-tmphsr99. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
+
+# CLAIM-tmp5vg7p: If a learner's capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then relief from overconsolidation has a deadline: an intervention that restores plasticity (a reset of some weights, stronger regularization, renewed exposure to varied tasks) restores it when applied before a threshold point in training and fails to after it, rather than working less well in proportion to how late it comes
+
+## The claim
+
+CLAIM-605's model is dC/dt = λPC(1 − C) − μC, with practice P itself
+limited by capacity (at most τC). Growth then falls short of decay below
+an unstable threshold, where λτC(1 − C) = μ (C = 0.276 in its numbers),
+so capacity held down long enough falls below the point from which
+practice can rebuild it, and withdrawing the support no longer restores
+it. Its subject is a party whose work is done by support. In
+overconsolidation (CLAIM-tmp8ljvp) the learner's own efficient procedure
+plays the part of the support: the more training is spent on the present
+objective, the less the capacity to acquire other structure is
+exercised. If that capacity obeys the same three conditions, the same
+threshold follows, and with it the shape of the prediction: relief works
+before a point and not after, a step rather than a slope.
+
+## Why it is supposed
+
+The antecedent is the whole question. Nothing on record shows that a
+network's capacity to acquire new task structure is learned by use or
+decays with disuse in CLAIM-605's sense. Dong's plasticity loss
+(THEORY-1353) reads it instead as uncommitted capacity used up, which
+would predict a slope: less relief the more capacity has been committed,
+with no threshold. The two readings are what the test separates.
+
+## The test
+
+In CASE-tmphsr99, apply each plasticity-restoring intervention (the
+query–key reset, the value–output reset, higher weight decay from a
+checkpoint onward, mixed-task replay) at every checkpoint, and plot the
+gain in later acquisition cost against the checkpoint. A threshold in
+that curve supports this claim; a smooth decline supports the
+depletion reading. Each intervention is scored on both axes, new capacity
+gained and old competence lost, as the case requires.
+
+## The stronger reading it invites and does not support
+
+That training should stop before the threshold. Whether the lost capacity
+matters depends on what the learner will later be asked to acquire
+(CLAIM-tmp8ljvp, CLAIM-520).

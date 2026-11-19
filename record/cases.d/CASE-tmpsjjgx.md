@@ -92,3 +92,22 @@ category's predictive success no longer warrants it as a kind ([CLAIM-402](../cl
 creates or erases distinctions, are what to look for. The laboratory
 cannot show what the owner's real data showed; the owner's earlier
 analysis is not on record.
+
+## A test of closure (the assistant's)
+
+Offered on 2026-11-19 after this filing and accepted by the owner the
+same day. CLAIM-tmpw8xkt makes the claim substantive only where the
+classes are closed under the process's own operations. That is
+measurable on engagement data split by time. Infer genre and audience
+classes from period 1. Then compare two predictions of period-2
+engagement: one made at the level of the classes alone (class-to-class
+engagement rates carried forward), and one made at the level of items and
+people. The closure defect is how much the item-level prediction beats
+the class-level one; a reified class has a small defect (THEORY-820's
+informational closure, CLAIM-386's closure defect). The control is a
+partition with the same class sizes built from popularity and exposure
+alone, which the confounds above say will also cluster. If the genre
+partition's defect is not smaller than the control's, the clusters are
+not units of the process in the claim's sense, whatever their
+descriptive fit. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.

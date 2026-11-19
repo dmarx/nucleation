@@ -4,8 +4,20 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpmm13o
 title: 'What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Integrates the entries filed on 2026-11-19 from the exchange
+    "Topological protection explained" whose first or second line is
+    realizability: constraints as amortized realizations (CLAIM-tmpqpd2p),
+    dynamical against economic separation (CLAIM-tmp449rr, ARG-tmpy9z67),
+    an acquisition valued by its effect on others (CLAIM-tmp5gbzr,
+    CASE-tmpplox8, ARG-tmpm8rng), work saved against transferred
+    (CLAIM-tmpkrk41) and the owner's question on optimal learning
+    (QUESTION-tmpwqepn). Done at the owner's request after the filing
+    first left it to this line's next review. The title is unchanged.
 - version: 2
   date: '2026-11-18'
   note: >-
@@ -36,6 +48,14 @@ date: '2026-11-11'
 line:
 - realizability
 integrates:
+- CLAIM-tmpqpd2p
+- CLAIM-tmp449rr
+- ARG-tmpy9z67
+- CLAIM-tmp5gbzr
+- CASE-tmpplox8
+- ARG-tmpm8rng
+- CLAIM-tmpkrk41
+- QUESTION-tmpwqepn
 - CLAIM-571
 - CLAIM-567
 - CLAIM-568
@@ -110,6 +130,7 @@ integrates:
 - CLAIM-478
 ---
 <!-- inactive-ok-file: CLAIM-646 CASE-236 ARG-078 CLAIM-654 CASE-245 ARG-086 CLAIM-663 ARG-093 CASE-249 CLAIM-697 CLAIM-695 CLAIM-699 CASE-274 CASE-275 CLAIM-478 SYNTHESIS-096 ARG-072 CASE-198 CASE-204 CASE-205 CASE-207 CASE-208 CASE-214 CASE-215 CASE-219 CASE-220 CLAIM-573 CLAIM-576 CLAIM-611 SYNTHESIS-024 TERM-111 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-tmpqpd2p ARG-tmpy9z67 CLAIM-tmp449rr CLAIM-tmp5gbzr ARG-tmpm8rng CASE-tmpplox8 CLAIM-tmpkrk41 — Proposed; integrated at v3 from the exchange "Topological protection explained" -->
 
 # SYNTHESIS-042: What a constrained system can reach under a budget is not what it can hold: feasible, reachable and reliably reached come apart, the threshold for a transition is the least peak over admissible paths and can be infinite, a budget enlarges compatibility and reachability only up to what a fixed architecture admits and neither filtration fixes the other, failed transitions sort into obstructions with their own repairs and telling which holds can be hard, an added constraint can improve reliability and never reach, and where an intervention acts can matter more than how much
 
@@ -286,7 +307,34 @@ creates a capability rather than cheapening one ([QUESTION-392](../questions.d/Q
 memory helps control ([QUESTION-396](../questions.d/QUESTION-396.md)), with three replications of readings
 the part rests on ([QUESTION-405](../questions.d/QUESTION-405.md), [QUESTION-423](../questions.d/QUESTION-423.md), [QUESTION-447](../questions.d/QUESTION-447.md)).
 
+- **Stored work and what it makes reachable (added 2026-11-19).**
+  CLAIM-tmpqpd2p (the owner's thesis in A's wording; Proposed) rests on
+  CLAIM-303, CLAIM-475 and CLAIM-582: a stabilized constraint that
+  supplies cheaper operations can move a task under a per-task budget,
+  which is CLAIM-571's peak and not a total; CLAIM-582's guard keeps a
+  constraint that only restricts out of it. CLAIM-tmp449rr (A's;
+  Proposed, demonstrated by ARG-tmpy9z67 from CASE-116) separates that
+  economic separation of time scales from CLAIM-478's dynamical one.
+  CLAIM-tmp5gbzr (A's; Proposed, demonstrated by ARG-tmpm8rng from
+  CASE-tmpplox8) values an acquisition by what it does to the cost of
+  others, the two-capacity form of CLAIM-569's acquire-against-keep.
+  CLAIM-tmpkrk41 (A's; Proposed) rests on CLAIM-303 and says a fall in one
+  party's cost may be work transferred. QUESTION-tmpwqepn (the owner's;
+  Open) asks what would make such investment optimal when its later
+  benefits cannot be specified.
+
 ## The components
+
+- CLAIM-tmpqpd2p, the owner's thesis in A's wording, interpretive,
+  Proposed; also learned-structure.
+- CLAIM-tmp449rr, A's, demonstrated, Proposed; also distributed-agency;
+  with ARG-tmpy9z67.
+- CLAIM-tmp5gbzr, A's with the filer's numbers, demonstrated, Proposed;
+  also learned-structure; with CASE-tmpplox8 and ARG-tmpm8rng.
+- CLAIM-tmpkrk41, A's, interpretive, Proposed; first line
+  dependence-and-domination.
+- QUESTION-tmpwqepn, the owner's, Open; also learned-structure and
+  readiness.
 
 - [CLAIM-571](../claims.d/CLAIM-571.md), A's wording, thesis, demonstrated, Active; first line
   readiness, then realizability and formal-apparatus.

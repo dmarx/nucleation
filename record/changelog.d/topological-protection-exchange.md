@@ -1,3 +1,4 @@
+<!-- inactive-ok-file: CLAIM-tmp5vg7p CLAIM-tmpj540o CLAIM-tmpkrk41 SYNTHESIS-042 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-tmpm8rng ARG-tmpy9z67 CASE-tmphsr99 CASE-tmpplox8 CASE-tmpsjjgx CLAIM-478 CLAIM-tmp1l2s7 CLAIM-tmp449rr CLAIM-tmp5gbzr CLAIM-tmp8ljvp CLAIM-tmpqpd2p CLAIM-tmpw8xkt SYNTHESIS-096 TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 ### Added
@@ -34,3 +35,14 @@
   the Pythia study.
 - [CLAIM-475](record/claims.d/CLAIM-475.md)'s note of 2026-11-19 corrects its summary's identification of
   amortization with [CLAIM-478](record/claims.d/CLAIM-478.md)'s separation of time scales.
+
+### Added (after the owner's review, 2026-11-19)
+
+- Work saved against work transferred (CLAIM-tmpkrk41), at the owner's
+  request.
+- The assistant's contributions, accepted by the owner: a deadline for
+  relief from overconsolidation (CLAIM-tmp5vg7p); a closure test for the
+  genres case (CASE-tmpsjjgx); and the check of the symmetry route to the
+  owner's fibration hunch (CLAIM-tmpj540o), which holds only where the
+  relabelling group permutes units, and corrects QUESTION-tmpex36a.
+- SYNTHESIS-042 v3 integrates the filing's realizability entries.

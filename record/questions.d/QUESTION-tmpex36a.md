@@ -21,6 +21,7 @@ summary: >-
   nothing at the level of units or partitions, so the link is untested.
   The question's wording is the filer's; the hunch is the owner's.
 ---
+<!-- inactive-ok-file: CLAIM-tmpj540o — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-tmp8my3p THEORY-tmpmtmq7 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-tmpex36a: In networks trained on relational-rule tasks under varied data diversity, does the emergence of role abstraction (a quotient of inputs by token relabelling) coincide with balanced-partition (fibration) structure among the network's units, or can either occur without the other?
@@ -50,9 +51,13 @@ relabelling. [THEORY-981](../theory.d/THEORY-981.md) holds that when data is inv
 the network is equivariant to, population gradient descent stays in the
 weight subspace the group fixes; weight symmetry gives orbit synchrony
 among units ([THEORY-276](../theory.d/THEORY-276.md)); balanced partitions generalize that synchrony
-beyond symmetry ([THEORY-1065](../theory.d/THEORY-1065.md)). The route is the filer's reasoning from
-the reader's report. Fibration would add something over symmetry only
-where role structure arises without a group acting on the units.
+beyond symmetry ([THEORY-1065](../theory.d/THEORY-1065.md)). Checked on 2026-11-19 (CLAIM-tmpj540o),
+the route holds only where the relabelling group permutes the network's
+units, and it cannot permute them nontrivially when the vocabulary
+exceeds the width, as in most of Li and Webb's runs. So in their models
+any coincidence of role abstraction with balanced structure would be
+learned, not forced by symmetry, and that is the form the question
+takes.
 
 ## What would answer it
 
