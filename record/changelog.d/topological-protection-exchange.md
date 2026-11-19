@@ -28,7 +28,7 @@
     ([LIT-tmpqgxkn](record/literature.d/LIT-tmpqgxkn.md)). Iqbal and Welling's workshop paper ([LIT-tmp01nqp](record/literature.d/LIT-tmp01nqp.md)) is
     Unfetched, with its authors' 2026 paper ([LIT-tmpyahtz](record/literature.d/LIT-tmpyahtz.md)) read as a
     stand-in for its thesis and AKOrN ([LIT-tmpfy72n](record/literature.d/LIT-tmpfy72n.md)) skimmed.
-  - Forty-five works the exchange cites registered unread (Deferred).
+  - Forty-six works the exchange cites registered unread (Deferred).
   - Dated notes on thirty entries.
 
 ### Changed
