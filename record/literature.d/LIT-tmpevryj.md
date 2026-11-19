@@ -1,0 +1,51 @@
+---
+status: Active
+status_note: >-
+  The owner's own unfinished proposal, read on 2026-11-19 (NOTE-tmplqpif).
+  Worth holding as the design behind CASE-tmpoqr8p.
+title: 'investigating identity formation as a concrete example of grokking dynamics (+ NameBasis)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Registered and read on 2026-11-19 at the owner's request, from the
+    public repository page and its raw text. The file and page show no
+    date; the companion repository's data files are dated September to
+    November 2023. Not held before.
+tags:
+- representation-learning
+- learning-theory
+- individuation
+- anthology-candidate
+date: '2026-11-19'
+published: '2023-09-25'
+url: 'https://github.com/dmarx/bench-warmers/blob/main/identity_grokking_dynamics.md'
+first_author: 'dmarx'
+keywords: []
+implementations:
+- 'https://github.com/dmarx/whats-in-a-name'
+summary: >-
+  The owner's work-in-progress proposal (bench-warmers repository): in
+  text-to-image models, a named identity is learned in phases, from being
+  overridden by biases carried by parts of the name, through stabilized
+  coarse attributes, to a unique identity the model can apply flexibly,
+  and then to overfitting; with a hypothesized detectable change in the
+  weights when the model gives an identity its own concept direction.
+  Measures proposed: rigidity of attributes across samples from a fixed
+  prompt, embedding dispersion, attribute distributions. No results. Read
+  in NOTE-tmplqpif; account THEORY-tmp1xpyh. Published date is the
+  earliest dated file of the implementation, not of this text.
+---
+<!-- inactive-ok-file: CASE-tmpoqr8p THEORY-tmp1xpyh — newly filed in this contribution -->
+
+# LIT-tmpevryj: investigating identity formation as a concrete example of grokking dynamics (+ NameBasis)
+
+The owner (GitHub: dmarx). "investigating identity formation as a concrete
+example of grokking dynamics (+ NameBasis)". Unpublished proposal in the
+bench-warmers repository; undated.
+
+## Standing in the record
+
+Registered and read on 2026-11-19 at the owner's request, as the design
+behind CASE-tmpoqr8p.
