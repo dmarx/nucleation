@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptw11r
 title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -35,6 +35,13 @@ history:
     grounds in version 3, and posed the test the note of 2026-11-06 ran. It
     no longer restates the grounds, which the field holds, and reports the
     test's result. No other change.
+- version: 5
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §3.3 and §12 state its proposition, apart from its
+    clause on the record's remedy. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -44,6 +51,7 @@ date: '2026-10-11'
 line: nucleating-argument
 works:
 - luria-nucleating-an-argument
+- cost-structure-of-possibility
 grounds:
 - THEORY-136
 - THEORY-178

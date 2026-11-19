@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
 title: 'Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -16,6 +16,13 @@ history:
     whether it reduces to a separation by time scale is open." Carries
     realizability, QUESTION-391's first line, after its own (ADR-085). No
     other change.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §2.2 states its proposition, and §1 and §13
+    restate it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +46,8 @@ date: '2026-10-27'
 line:
 - distributed-agency
 - realizability
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-477
 - CLAIM-331

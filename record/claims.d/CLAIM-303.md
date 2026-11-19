@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpygqjz
 title: 'Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-18'
@@ -48,6 +48,13 @@ history:
     these rulings): when a structure is worth filing, staleness set
     aside, under fixed known costs. It keeps bears_on QUESTION-098 for
     the open remainder.
+- version: 5
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §3.1 states its proposition in general form, with
+    §3.3 the costs of keeping. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +68,8 @@ tags:
 - epistemology
 date: '2026-10-15'
 line: nucleating-argument
+works:
+- cost-structure-of-possibility
 answers:
 - QUESTION-489
 bears_on:

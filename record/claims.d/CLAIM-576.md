@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpisvzb
 title: 'What characterizes a constrained system is a repertoire of realizable processes, indexed by resources and dependent on its architecture, rather than its set or space of states, and the repertoire changes in three ways an equivalence between such systems must keep apart: a budget makes an existing transformation affordable, observational or computational capability makes an existing possibility discoverable or controllable, and a change of architecture alters which transformations are possible'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -28,6 +28,13 @@ history:
     and Balasubramanian and Kasiviswanathan read RL as reweighting; ProRL is
     the test of whether training ever does more, and does not settle it. The
     architecture clause is not answered. No status change.
+- version: 4
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §4.1 and §4.2 state its proposition. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,6 +56,8 @@ tags:
 date: '2026-11-05'
 line:
 - realizability
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-583
 complements:

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr4sof
 title: 'Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,13 @@ history:
     checked in scratch/formal/claim582_witness.py, with the control w ≡ 2,
     re-run by the coordinator before the ruling. The claim has no premise,
     no objection is filed, and nothing in the record meets its defeater.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §4.2 states its proposition, and §11 its third
+    limit. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,6 +47,8 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+works:
+- cost-structure-of-possibility
 complements:
 - CLAIM-354
 - CLAIM-567

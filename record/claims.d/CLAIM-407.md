@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmppi0xf
 title: 'A coarse-graining exactly informationally closed under a process''s ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T''s fibres over the states of positive probability'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -38,6 +38,12 @@ history:
     a hidden mode that a frequency sweep cannot see and two cancelling
     pathways (CASE-271). They illustrate the claim and add nothing to
     its weight. No status change.
+- version: 6
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §6 states its proposition. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -55,6 +61,8 @@ date: '2026-10-21'
 line:
 - formal-apparatus
 - will-organization
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-350
 grounds:
