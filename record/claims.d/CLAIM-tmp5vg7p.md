@@ -60,20 +60,20 @@ summary: >-
 
 ## Version 2, after the readings
 
-Dohare and colleagues (THEORY-tmpgjb4y), read, find networks losing the
+Dohare and colleagues ([THEORY-tmpgjb4y](../theory.d/THEORY-tmpgjb4y.md)), read, find networks losing the
 ability to learn new tasks gradually, while they keep training on a
 stream of varied tasks, with no threshold reported. The loss is kept by
 continual backpropagation, which reinitializes a small share of
 little-used units throughout. That is the second branch: the capacity is
 used up by training, not left unexercised, so practice cannot be what
 restores it, and a direct renewal works whenever it is applied. Dong's
-depletion reading (THEORY-1353) is the same branch at the level of
-attention heads. The first branch, version 1's, stays as CLAIM-605's
+depletion reading ([THEORY-1353](../theory.d/THEORY-1353.md)) is the same branch at the level of
+attention heads. The first branch, version 1's, stays as [CLAIM-605](CLAIM-605.md)'s
 consequence where its conditions hold; nothing read shows them for
-networks. Springer and colleagues (THEORY-tmp3dqbl) explain their
+networks. Springer and colleagues ([THEORY-tmp3dqbl](../theory.d/THEORY-tmp3dqbl.md)) explain their
 inflection mostly by forgetting, which neither branch is about.
 
-The test is unchanged in form. In CASE-tmphsr99, apply renewed practice
+The test is unchanged in form. In [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), apply renewed practice
 and, separately, reinitialization or resets at each checkpoint. Under the
 second branch practice fails throughout and reinitialization works
 throughout; under the first, practice fails only after a point.

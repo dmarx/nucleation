@@ -74,28 +74,28 @@ summary: >-
 Two changes, both forced by the readings of 2026-11-19.
 
 - **The later family lies outside the training task distribution.**
-  Yin and colleagues (THEORY-tmpzauel) and Rajendran and colleagues
-  (THEORY-tmpy398k) show meta-learners whose training loss improves while
+  Yin and colleagues ([THEORY-tmpzauel](../theory.d/THEORY-tmpzauel.md)) and Rajendran and colleagues
+  ([THEORY-tmpy398k](../theory.d/THEORY-tmpy398k.md)) show meta-learners whose training loss improves while
   their adaptation to new tasks from the same task distribution is lost.
   Their authors call it task-level overfitting. That is the
   claim's first defeater, so version 2 excludes it by declaring the later
   family outside the training task distribution.
 - **Acquisition is priced with held capabilities kept.** Springer and
-  colleagues (THEORY-tmp3dqbl) find that past an inflection point a
+  colleagues ([THEORY-tmp3dqbl](../theory.d/THEORY-tmp3dqbl.md)) find that past an inflection point a
   longer-pretrained model ends worse after fine-tuning, mainly because
   fine-tuning degrades more of what it held. Version 1 set forgetting
   aside and so had no case. Version 2 measures the budget to reach the new
   family at a declared reliability while keeping held capabilities above
   a declared floor. Collateral forgetting is then part of the acquisition
   cost, and Springer's result is a case of it rising with stabilization.
-  Han and colleagues (THEORY-tmp8wxgt) show pretraining weight decay
+  Han and colleagues ([THEORY-tmp8wxgt](../theory.d/THEORY-tmp8wxgt.md)) show pretraining weight decay
   lowering that cost at a fixed budget, a regime comparison, not a time
   course.
 
 What version 2 still lacks is a case where present performance rises,
 the constrained cost of a declared out-of-distribution family rises with
 training time, and forgetting is measured, all in one run.
-CASE-tmphsr99's primary estimand is that measurement.
+[CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)'s primary estimand is that measurement.
 
 ## The claim
 
