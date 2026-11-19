@@ -108,7 +108,7 @@ peak, not a total.
   retrieval and verification included, against the per-task budget, and
   on its upkeep being met so that it is still there. Whether it was worth
   acquiring depends also on its construction cost, its revision cost and
-  how often it will be used: CLAIM-303's break-even. A procedure that
+  how often it will be used: [CLAIM-303](CLAIM-303.md)'s break-even. A procedure that
   costs 100 to acquire and cuts a task from 12 to 3 makes the task
   feasible under a budget of 5 whether or not the 100 is ever repaid
   (ChatGPT's example at its second review, forwarded by the owner).
