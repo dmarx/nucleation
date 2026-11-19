@@ -54,6 +54,7 @@ summary: >-
   what the claim must exclude. The hypothesis is the owner's; the wording
   and its test are A's, and adopting them is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpctik9 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-022 THEORY-1872 THEORY-1895 CLAIM-696 CASE-272 CASE-274 — Proposed or new; the held case and the entries filed with this one -->
 
 # CLAIM-698: The mathematics of waves and distributed modes, which covers harmonic and spectral decomposition, multiscale analysis, scattering and response operators, interference, mode coupling, localization and reconstruction, applies to how learning systems acquire, execute and compose computations, and earns its place where a description in independently justified modes and their couplings predicts a learned network's responses to unseen queries, interventions, training and merging better than feature-, circuit- or parameter-level accounts fitted with the same information
@@ -128,3 +129,9 @@ assistant's (Claude, in this session).
 ## Note of 2026-11-18: what holds it back
 
 The claim's own test has not been run: no matched, prospective comparison yet shows a description in independently justified modes and couplings predicting a learned network's responses better than feature-, circuit- or parameter-level accounts given the same data. Its experiments are proposed, not done ([CASE-272](../cases.d/CASE-272.md), [CASE-274](../cases.d/CASE-274.md)), and its one held case of justified modes, [THEORY-022](../theory.d/THEORY-022.md), is Proposed.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Jacobs and colleagues ([THEORY-tmpctik9](../theory.d/THEORY-tmpctik9.md)), read, are a case in which a spectral, modal description of a trained network makes its computation legible: per-pixel frequency spectra of the hidden dynamics, read out by FFT, nearly match learned linear readouts. The authors call their drum analogy motivational, not literal, and nothing tests prediction of interventions, training or merging against feature- or circuit-level accounts, which is the claim's criterion. It leaves the claim open.
+
+No status change.

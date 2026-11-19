@@ -41,6 +41,7 @@ summary: >-
   that order. Constant metrics, deterministic, and the bound d on how fast
   the manifold moves is needed along the trajectory.
 ---
+<!-- inactive-ok-file: THEORY-tmprpscg — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-773: In a singularly perturbed system ẋ = f(x, z, t), εż = g(x, z, ε), if g is contracting in z at rate λ_z for every x and ε, the reduced system ẋ = f(x, γ(x), t) on the slow manifold z = γ(x) is contracting at rate λ_x, f is α-Lipschitz in z, |∂γ/∂x · f| ≤ d and g is K-Lipschitz in ε, then for all t ≥ 0 the fast state is within χ_z e^{−λ_z t/ε}|z(0) − γ(x(0))| + εχ_z(d + K)/λ_z of the manifold and the slow state within χ_x|x(0) − x_γ(0)|e^{−λ_x t} + ε[C₁(e^{−λ_x t} − e^{−λ_z t/ε}) + C₂(1 − e^{−λ_x t})] of the reduced trajectory; partial contraction of f in x alone is not enough
 
@@ -144,3 +145,9 @@ slow error stayed below the bound at d = 5, 20, 100 and 500, at 41 to
   quasi-steady-state reduction, in a different frame from Simon and Ando
   (nonlinear, continuous time, contraction metrics, a given fast–slow
   split).
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Lohmiller and Slotine ([THEORY-tmprpscg](THEORY-tmprpscg.md)), read: supports an ingredient. They state the inequality Ṙ + |λmax|R ≤ ‖Θd‖ (§3.7 (vii), eq. 15) on which this entry's constant-metric Lemma 1 rests, and offer hierarchical combination (§3.8.3), which couples one way only, as a framework for singular perturbations; this entry's counterexample couples both ways. Their contraction is full contraction, every trajectory converging to one. Partial contraction, the hypothesis this entry finds insufficient, is Wang and Slotine (2005), not held. The O(ε) bounds are Del Vecchio and Slotine's.
+
+No status change.

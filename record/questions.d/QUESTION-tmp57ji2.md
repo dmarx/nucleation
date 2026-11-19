@@ -24,6 +24,7 @@ summary: >-
   [CLAIM-611](../claims.d/CLAIM-611.md)). It does not hold the feedback. The wording is A's; adopting
   it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-269 CLAIM-606 CLAIM-611 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-tmp57ji2: Can degrees of freedom bound to a topological defect or interface come to maintain the order-parameter structure that localizes them, and if so, is the composite individuated as one organization rather than as a defect plus what it hosts?
@@ -63,3 +64,9 @@ asking whether occupation of the bound mode changes the kink's survival.
 A's caveat stands: differing frequencies or phases alone do not guarantee
 protection, so a dynamical interface needs its own invariant before
 anything here is topological.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Omidvar and colleagues ([THEORY-tmp5hurd](../theory.d/THEORY-tmp5hurd.md)), read: a partial case of A10's bidirectional relation. In their buckled-beam racetrack, a mode localized at a domain wall softens under the opposite domain's pressure until it goes unstable, and the instability moves the wall, so the hosted mode decides where the defect is. But the mode is the wall's own fluctuation mode, not a separate bound field, and it displaces the wall rather than maintaining it. The wall exists only while an external static compression holds. The maintenance half of the question stays open.
+
+No status change.

@@ -61,7 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-191
 ---
-<!-- inactive-ok-file: LIT-tmpsp5bi — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp6miip — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-817 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-026: For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
@@ -155,5 +155,11 @@ This entry is its evidence and is not changed by the filing.
 A65 §2 and A71 §5 report this account's scope correctly: nonnegativity holds "when the environmental drive is Markovian and independent of the memory's actions" (A65 §2), the conditions this entry derives, and both cite it. A64 noted that the record's reading holds "only under specific no-feedback assumptions". A67 §5 and A71 §5 then say an active learner breaks that condition: it "changes what it observes" (A71 §5), so the coupled agent–environment process needs its own model. The record's feedback side is [THEORY-817](THEORY-817.md) and Fiderer et al.'s one channel, which A did not cite. [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md), filed from the exchange and refining [QUESTION-191](../questions.d/QUESTION-191.md), asks whether a dissipation-minimizing memory in such a loop keeps the interventional partition, the predictive one, or neither.
 
 A65 §3 also cited Still 2020 ([LIT-tmpsp5bi](../literature.d/LIT-tmpsp5bi.md), registered unread), which on A's account minimizes a thermodynamic lower bound on dissipation to derive a bottleneck that keeps predictive information. If it holds, it is this account carried to a design objective for memory.
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Still ([THEORY-tmp6miip](THEORY-tmp6miip.md)), read: a parallel in another setting, not a source for this entry's identity. In a cyclic, partially observable engine the isothermal bound is −Q ≥ kT·I[M,X|Y] (Eq. 7): only memory irrelevant to Y is waste, as only nonpredictive memory is here. The bound-minimizing memory is the information bottleneck (Eqs. 9–10). Y is what the work-extraction device can manipulate, not the next input, so A65's gloss that it keeps predictive information is loose. It is silent on feedback; the feedback clause and [THEORY-817](THEORY-817.md) are untouched.
 
 No status change.

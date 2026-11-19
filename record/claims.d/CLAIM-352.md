@@ -90,6 +90,7 @@ summary: >-
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
+<!-- inactive-ok-file: THEORY-tmphw7hd — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmpmg2nk — Deferred; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1845 THEORY-1852 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -220,5 +221,11 @@ Sen read first-hand for the first time on the record: the Tanner Lectures, The S
 At U16 the owner saw "a clean way of connecting the earlier discussion of how effective degrees of freedom can emerge from selective contraction, to capability expansion and thinkers like Amartya Sen". That re-finds this claim, the owner's own Sen connection (U11 of the exchange of 2026-10-17). A37 cited this claim and read it rightly, without saying it was the owner's. A37 §4 built a dynamic capability set, the valued functionings Φ_N(γ) of the trajectories reachable within budget B and horizon T, and said it was its own construction, "not Sen's own formalism". The map Φ_N is this claim's point: reachable states count as freedom only through a map to valued functionings, and A37 §4 likewise refuses to equate more reachable states with more freedom. A37 also raised collective capabilities after Ibrahim ([LIT-tmpmg2nk](../literature.d/LIT-tmpmg2nk.md), registered unread).
 
 The capability question that [CLAIM-tmpqpd2p](CLAIM-tmpqpd2p.md), filed from the same exchange, leaves open is this claim's: whether operations a stored constraint makes newly affordable widen anyone's substantive freedom, and whose.
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Ibrahim ([THEORY-tmphw7hd](../theory.d/THEORY-tmphw7hd.md)), read in her 2013 piece as a stand-in for [LIT-tmpmg2nk](../literature.d/LIT-tmpmg2nk.md), defines collective capabilities as those no individual alone could have and asks that the evaluative space extend to the collectivity. Sen's own term for the same cases, "socially dependent individual capabilities", keeps the claim's individual unit, so this qualifies the claim rather than defeating it. Her first condition, free and voluntary participation without coercion, is a requirement of the process aspect on how such capabilities arise.
 
 No status change.

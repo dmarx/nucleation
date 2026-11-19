@@ -22,7 +22,8 @@ summary: >-
   relative to a target. What it does not hold is the comparison on a
   learned feature. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp6x1cq LIT-tmpn17zh — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp1cus0 THEORY-tmp3vfqj THEORY-tmpctik9 THEORY-tmpg9anb THEORY-tmpgs5bb THEORY-tmpuy990 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-694 SYNTHESIS-079 THEORY-1507 THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmpdcvze — Skimmed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
@@ -71,3 +72,19 @@ The authors' continuous-symmetry paper ([THEORY-tmpvtafk](../theory.d/THEORY-tmp
 transition whose functional consequence depends on equivariance; its
 vortices are individuated descriptively and dynamically, with no role
 shown ([NOTE-tmpsdqio](../notes.d/NOTE-tmpsdqio.md)).
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Geiger and colleagues ([THEORY-tmp1cus0](../theory.d/THEORY-tmp1cus0.md)), skimmed for definitions: supports the interventional arm by making its criterion precise. A wall is a computational feature if a high-level model with a wall variable abstracts the network under an alignment, tested by (distributed) interchange interventions and scored by interchange intervention accuracy (Definitions 44, 46, 48). Remark 47 restricts tests to values the network realizes on some input, so moving a wall must be an interchange from a source input with the wall elsewhere. It gives no random-network control, which [THEORY-1002](../theory.d/THEORY-1002.md) requires.
+
+Jacobs and colleagues ([THEORY-tmpctik9](../theory.d/THEORY-tmpctik9.md)), read: qualifies the design of Experiment B. They train locally connected recurrent networks on a task whose answer depends on boundaries in the input, and the learned dynamics make interfaces, soft boundaries from a jump in natural frequency, which reflect waves and bring shape information to each pixel. But the interfaces are set by the input encoder, not walls between symmetry-related phases, and the waves' role is shown by correlations and readout comparisons, not by intervention.
+
+Keller and colleagues ([THEORY-tmpuy990](../theory.d/THEORY-tmpuy990.md)), read: leaves the question open. A recurrent network learns travelling waves on a ring that hold the recent past, a spatially organized carrier of task information, but with no ordered phases, walls or defects. Their test of whether the waves matter compares models (initialization, freezing, a wave-free control) and does not intervene inside a trained network. A wave field is a further candidate partition beside the question's four, one whose features are inputs in transit rather than localized structures.
+
+Masumori and colleagues ([THEORY-tmp3vfqj](../theory.d/THEORY-tmp3vfqj.md)), read: bears on the question from outside its setting. In a trained neural cellular automaton, sites of high fluctuation coincide with concentrations of transfer entropy, while per-cell vulnerability to perturbation follows mean state magnitude (r = 0.639) more than fluctuation (r = 0.325). So two criteria pick partly different sites in one learned field. Their intervention blocks small updates outside a disc, not at the cores, so whether the cores are operative is left open. No symmetry-related phases are involved.
+
+Rupe and Crutchfield ([THEORY-tmpgs5bb](../theory.d/THEORY-tmpgs5bb.md)), read: sharpens the predictive criterion. Domains are where the local causal-state field has a space–time shift symmetry group, and coherent structures are localized, persistent deviations from it. A defect counts only where a discrete domain symmetry is locally broken; a global change of symmetry gives a new domain instead. They show the criterion only on deterministic binary cellular automata, and stochastic domains need a hand-applied filter. A trained network's continuous hidden field would need an estimator and a tolerance the paper does not give.
+
+Kaschube, Schnabel and Wolf ([THEORY-tmpg9anb](../theory.d/THEORY-tmpg9anb.md), read as a stand-in for [LIT-tmpdedmw](../literature.d/LIT-tmpdedmw.md)): leaves the question open. Pinwheels are topological point defects of a map formed by activity-dependent development, and the paper treats them only as countable markers whose density tests the developmental model, assigning them no function. That fits A15's reading of them as defects that need not be functional units, but it neither shows that they lack a function nor compares any two criteria.
+
+No status change.

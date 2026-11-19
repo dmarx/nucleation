@@ -19,7 +19,7 @@ summary: >-
   invariant for the whole admissible class, not stable, and not invariant
   for one model family; the paper studies "existence, not stability".
 ---
-<!-- inactive-ok-file: LIT-tmp31ier LIT-tmpzusyw — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-tmpsjjgx THEORY-tmp31d9a THEORY-tmpyydjg THEORY-tmpz825j — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-tmp8my3p — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-1065: In a coupled cell network, a pattern of synchrony is invariant under every dynamics the network's architecture admits if and only if its partition of the cells is balanced, each cell of a class receiving, through each kind of arrow, the same number of inputs from each class; symmetry is one way to get balance and not the only one, so robust synchrony occurs in networks with no symmetry and among cells with no coupling between them, and the invariance says nothing about whether the pattern attracts
@@ -107,5 +107,15 @@ A17 §1 presented graph fibrations as new to the record. They are this theorem's
 Gili and colleagues ([THEORY-tmp8my3p](THEORY-tmp8my3p.md), read) apply the theorem in reverse: they infer the network whose coarsest balanced colouring equals an observed synchrony partition. They call an invariant partition proven to be synchronous. This account says it does not show that: invariance says nothing about whether the pattern attracts or will be seen. Velarde and colleagues ([LIT-tmpzusyw](../literature.d/LIT-tmpzusyw.md), Deferred, unread) report that fibrations emerge in trained neural networks.
 
 The owner's U9 hunch, that the fibration approach relates to Li and Webb's symbolic mechanisms, is [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md).
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+DeVille and Lerman ([THEORY-tmp31d9a](THEORY-tmp31d9a.md)), read: supports the sufficiency half and generalizes it. They state that the quotient maps of balanced relations are the surjective graph fibrations, and prove that surjective fibrations make the synchrony polydiagonal invariant for every groupoid-invariant vector field, on manifolds rather than Euclidean spaces (Theorem 4.3.1, Lemma 5.1.1). They prove only this direction: "We do not attempt to establish the converse" (Remark 4.3.3). The necessity half still rests on Stewart, Golubitsky and Pivato alone.
+
+Velarde, Parra, Hashemi and Makse ([THEORY-tmpz825j](THEORY-tmpz825j.md)), read: uses the balanced-colouring form on weighted feed-forward networks, with equal summed input weight from each colour class (their Eq. 14), so that units in a fiber synchronize for every input. That weighted version lies outside the 2003 definition held here. Their claim that covers are stable attractors of SGD rests on a cited result, not on the invariance, consistent with this entry's warning that invariance says nothing about attraction.
+
+Larremore, Clauset and Jacobs ([THEORY-tmpyydjg](THEORY-tmpyydjg.md)), read; the reader's observation, not the paper's: a block of a stochastic block model is a balanced partition in expectation, its members having the same expected number of edges to each block. That is a stochastic counterpart of this entry's equal count of inputs from each class, which is exact, not expected. Neither source states the link. If made, it would put the genres case ([CASE-tmpsjjgx](../cases.d/CASE-tmpsjjgx.md)) and the fibration hunch ([QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md)) on one formal object.
 
 No status change.

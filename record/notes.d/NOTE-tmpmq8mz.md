@@ -1,0 +1,81 @@
+---
+status: Skimmed
+paper: LIT-tmppd2x6
+title: 'Smith, Friston and Whyte 2022 — A step-by-step tutorial on active inference and its application to empirical data'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Copy read: the PMC author manuscript PMC8956124 (NIHPA author
+    manuscript, CC BY-NC-ND 4.0; "This is an open access article under the
+    CC BY-NC-ND license"), fetched as JATS XML through NCBI's documented
+    E-utilities interface: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efe
+    tch.fcgi?db=pmc&id=8956124 (no email or tool parameter sent). HTTP 200.
+    Converted to plain text (dl/text.txt; equations appear as "[math]").
+    Date 2026-11-19. Route note: the brief's documented route, Europe PMC
+    REST
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8956124/fullTextXML,
+    was tried twice on 2026-11-19: first HTTP 503 (nginx "Service
+    Temporarily Unavailable"), then HTTP 500 (JSON "Internal Server Error").
+    These were server errors, not bot checks; I did not retry further. I
+    used NCBI E-utilities efetch instead, the repository's own documented
+    machine interface for PMC full text (the ADR-101 principle; ADR-101's
+    listed route is Europe PMC, so the filer should say that NCBI
+    E-utilities was the route and that it is not on ADR-101's list). Other
+    lawful copies located, not read (OpenAlex): the publisher's OA PDF
+    https://www.sciencedirect.com/science/article/pii/S0022249621000973/pdf;
+    the PsyArXiv preprint https://psyarxiv.com/b4jm6/download; the Cambridge
+    repository https://www.repository.cam.ac.uk/handle/1810/336603. Read:
+    abstract; Introduction; §1 non-technical introduction to VFE and EFE;
+    the parts of the technical EFE section on epistemic value; §3.1 explore-
+    exploit task (task and model set-up); §4 Modeling learning (non-
+    technical Dirichlet section, the novelty term, simulating learning); §7
+    Fitting models to behavior (fitting, recoverability, model comparison);
+    Concluding remarks. Skimmed or skipped: message-passing derivations
+    (§2.4), prediction-error formulation, neural process theory (§5),
+    hierarchical models and the mismatch-negativity simulation (§6),
+    Appendices A–B (pencil-and-paper exercises), MATLAB code (not run).
+date: '2026-11-19'
+---
+<!-- inactive-ok-file: ADR-101 THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
+
+# NOTE-tmpmq8mz: Smith, Friston and Whyte 2022 — A step-by-step tutorial on active inference and its application to empirical data
+
+## Contribution
+
+A practical tutorial on discrete-state (POMDP) active inference. It covers variational and expected free energy, how to build A/B/C/D/E matrices, and running simulations with the SPM routine (a tutorial copy, spm_MDP_VB_X_tutorial.m). It also covers Dirichlet parameter learning with its "novelty" term, the neural process theory, hierarchical models, and, the paper's distinctive part, fitting such models to participants' choices by variational Laplace, with parameter recoverability and Bayesian model comparison. The running example is an explore–exploit slot-machine task with a costly hint. Code is at github.com/rssmith33/Active-Inference-Tutorial-Scripts.
+
+## Key results
+
+- Introduction, p. 1: active inference "leads decision-making to favor actions that optimize a trade-off between maximizing reward and information gain."
+- §3.1, the task: "They can choose to select one right away and possibly win $4. Or they can choose to press a button that gives them a hint about which slot machine is better on that trial." And "if they choose to take the hint, they can only win $2 if they pick the correct machine."
+- §3.1, caveat: active inference models "do not always generate optimal behavior".
+- §4.1 (EFE with learning): "Note that the value of the novelty term is inversely related to concentration parameter values." So information-seeking about parameters fades as confidence grows.
+- §4.3, simulation (Fig. 10): with a less precise preference for the large win (RS = 3), "the agent with RS = 3 chooses to take the hint on the first several trials, and slowly begins to forego the hint on later trials". With RS = 4 it takes the hint once and then "takes that as sufficient evidence that the left machine must be the better one". "Unexpected losses, shown in the panel just below, also cause the agent to return to ‘playing it safe’ and again ask for the hint."
+- §7, fitting: "it is also important to confirm what is called parameter recoverability". In the worked example the risk-seeking parameter and the learning rate were recoverable, and model comparison was checked on simulated participants.
+
+## Assumptions
+
+- Discrete states, discrete time, categorical distributions with Dirichlet priors, and mean-field variational inference. Preferences are encoded as log-probabilities over outcomes (the C matrix).
+- Fitting assumes the task model is correct up to its free parameters. The examples are simulated participants, not new empirical data.
+
+## Concepts
+
+- Variational free energy; expected free energy as risk plus ambiguity, or as epistemic plus pragmatic value; novelty.
+- Dirichlet concentration parameters as confidence; learning and forgetting rates (η, ω).
+- Risk-seeking parameter (precision of the preference for the high-payout win) as the dial between taking the hint and betting at once.
+- Parameter recoverability (identifiability); group-level Bayesian model comparison.
+
+## Bearing on the record
+
+- [CASE-153](../cases.d/CASE-153.md): supports, as a ready template. The explore–exploit task already has [CASE-153](../cases.d/CASE-153.md)'s skeleton: a hidden binary context, a costly but diagnostic information action (the hint, which halves the payout), and a direct action. Learning the context prior (D) under a preference-precision dial reproduces information-seeking that fades with confidence and returns after surprises. The tutorial's scripts would give the case's Bayesian baseline. Its fitting and recoverability section is what the case would need to estimate a κ-like parameter from behaviour. It has no second process with authority over action (the sentry), so the case's distinctive part is not here.
+- [THEORY-564](../theory.d/THEORY-564.md): leaves open. The tutorial's learning is Dirichlet parameter learning; its "model comparison" compares fitted models of participants (refitting, the first flavour in [LIT-tmpuy2kv](../literature.d/LIT-tmpuy2kv.md)), not Bayesian model reduction of an agent's own structure.
+- [CLAIM-572](../claims.d/CLAIM-572.md): leaves open. One decision per trial with one probe (the hint). The hint's cost is the halved payout, and EFE weighs it softly, with no budget.
+- Verdict on the source's characterization (A69: the first reading for U31): fair. It is the standard practical entry point. It does not cover structure learning, the topic U31 raised.
+
+## Limitations
+
+- A tutorial. Its simulations illustrate the routines; they are not tests of the framework.
+- Equations were read only in the non-technical sections. The XML conversion renders mathematics as "[math]", so equation details were not checked.
+- Skimmed: neural process theory, hierarchical models, appendices.

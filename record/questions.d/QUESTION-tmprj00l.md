@@ -26,7 +26,7 @@ summary: >-
   observations breaks the no-feedback condition, so the passive result does
   not reach it. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpsp5bi — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp6miip — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1646 THEORY-817 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-tmprj00l: In a percept–action loop with feedback, does the memory that minimizes dissipation retain the interventional partition of histories (the causal information bottleneck), the predictive partition, or neither, once the costs of building, maintaining, operating and revising it are counted?
@@ -65,3 +65,9 @@ interventions and the cost of reconfiguring. First reproduce Still's
 no-feedback result, then add feedback. A71 §10's Experiment III is the
 same design. Still's 2020 derivation of a bottleneck from a dissipation
 bound ([LIT-tmpsp5bi](../literature.d/LIT-tmpsp5bi.md)) is the nearest prior result, unread.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Still ([THEORY-tmp6miip](../theory.d/THEORY-tmp6miip.md)), read from arXiv v3: leaves the question open and sharpens it. The dissipation-minimizing memory is the information bottleneck relative to Y, the variables the work-extraction device can manipulate, so "relevant" is already relative to action. But it is computed from the observational p(y|x), and the agent's action never changes the next cycle's data: the preparation is fixed and the marginals unchanged. It is the no-feedback first rung of Experiment A. The choice between the interventional and the predictive partition arises only once preparation depends on memory.
+
+No status change.

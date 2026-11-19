@@ -55,6 +55,7 @@ summary: >-
   from. Conceded, so Active. It gives a mechanism for [CLAIM-478](CLAIM-478.md)'s
   second half and is not a test of individuality.
 ---
+<!-- inactive-ok-file: THEORY-tmp78qwh THEORY-tmpanqm0 THEORY-tmpl3nl5 THEORY-tmprpscg THEORY-tmpte85d — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
 <!-- inactive-ok-file: LIT-1639 — Unfetched; registered from the exchange, a lawful full text found on 2026-10-27 but not fetched, unread, cited for what it is standardly cited for -->
@@ -177,3 +178,19 @@ A26 §6 put a general form of this claim's dissipative case: "A dynamical proces
 A27 §2 made it concrete. The alignment energy tr(ZᵀLZ), minimized by gradient flow, gives Laplacian diffusion of the representations along the edges that assert equivalence. That is consensus dynamics of this claim's kind: relative differences across an edge decay and the components of the graph survive. The SSL equivalence is held as [LIT-228](../literature.d/LIT-228.md) (contrastive and non-contrastive methods as spectral embeddings) and [LIT-249](../literature.d/LIT-249.md) (spectral contrastive loss). A27 §2 kept a limit: augmentation graphs may at first connect only views of the same instance, so classes across instances need further assumptions. A27 §2 also noted that pure diffusion collapses each component, so non-collapse terms are needed for an informative representation.
 
 Whether such collapse is how the classes become reified distinctions is the owner's U10 thesis, [CLAIM-tmpw8xkt](CLAIM-tmpw8xkt.md). No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+These readings bear on the note of 2026-11-19 above, the reading of self-supervised alignment as Laplacian diffusion, not on the claim's computations, which stand demonstrated.
+
+Bardes, Ponce and LeCun's VICReg ([THEORY-tmp78qwh](../theory.d/THEORY-tmp78qwh.md)), read: in the ablation (Appendix D.4, Table 7) the invariance term alone, the alignment energy the note reads as diffusion, sends every input to one vector, and the covariance term "has no repulsive effect preventing collapse". Only the variance hinge holds the spread. That bears out A27's remark that pure diffusion collapses, and leaves the claim as it is.
+
+Belkin and Niyogi ([THEORY-tmpte85d](../theory.d/THEORY-tmpte85d.md)), read, have the energy and the collapse the note needs: minimizing Σ(y_i − y_j)²W_ij alone gives the constant vector, "which collapses all vertices of G onto the real number 1", and their constraints exist to stop it; a disconnected graph is embedded component by component. They study no flow, so reading the minimization as dissipation is the record's step. It qualifies the note.
+
+Zbontar and colleagues' Barlow Twins ([THEORY-tmpanqm0](../theory.d/THEORY-tmpanqm0.md)), read, prevent collapse by decorrelating units standardized over the batch, not by a spectral constraint. Their ablation (Table 5) gives the decorrelation term alone 0.1% linear accuracy, and invariance with batch standardization alone 57.3%, so part of the anti-collapse work is done by the standardization. That qualifies the note: non-collapse terms differ in kind.
+
+Wang and Isola ([THEORY-tmpl3nl5](../theory.d/THEORY-tmpl3nl5.md)), read, prove the split for the contrastive case: with many negatives InfoNCE is an alignment term plus a uniformity term, and with alignment weighted far above uniformity every input goes to one vector (§5). The anti-collapse term is a repulsion toward the uniform measure, and nothing is said of diffusion along a graph. It qualifies the note.
+
+Lohmiller and Slotine ([THEORY-tmprpscg](../theory.d/THEORY-tmprpscg.md)), read: full contraction sends all trajectories to one, and "A convex contraction region contains at most one equilibrium point". Contraction that keeps distinctions appears only in two remarks of §3.9. The selective contraction A29 invoked is Wang and Slotine's later partial contraction, which the record does not hold. It leaves the claim open on that point.
+
+No status change.

@@ -44,6 +44,7 @@ summary: >-
   return is part of the best policy. The wording is A's with the filer's
   numbers; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpsw2ct — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-tmpm8rng CASE-tmpplox8 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmp5gbzr: An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted
@@ -91,3 +92,9 @@ later questions will come. When they cannot be specified in advance,
 which is the owner's U21 problem, the value of a productive step is
 uncertain, and that is [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md). [CLAIM-605](CLAIM-605.md) shows the same
 compounding for one capacity, with a threshold below which it traps.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Finn, Abbeel and Levine's MAML ([THEORY-tmpsw2ct](../theory.d/THEORY-tmpsw2ct.md)), read, is an empirical instance. The initialization best on the present joint objective, pre-training on all tasks, adapts worse than the MAML initialization chosen by post-adaptation loss (sinusoid, §5.1; Appendix C, Table 2: 5-shot MSE 2.41 against 0.67 after one step). That supports the claim with independent evidence. As in [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md), the later tasks are stipulated to come, here from p(T), so it does not touch the stronger reading the claim declines.
+
+No status change.

@@ -24,7 +24,7 @@ summary: >-
   makes askable ([CLAIM-475](../claims.d/CLAIM-475.md)). The question's wording is the filer's,
   joining the owner's U21 to A's open problems.
 ---
-<!-- inactive-ok-file: LIT-tmphr4nm — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpm09s4 THEORY-tmpsw2ct — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-576 CLAIM-697 CLAIM-tmp1l2s7 CLAIM-tmp5gbzr CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-tmpwqepn: What would make a learning process optimal, when some of the most valuable consequences of learning are changes in what the learner can later learn, ask and afford, which cannot be specified in advance; and when is investing in future learnability better than improving present competence?
@@ -78,3 +78,11 @@ environments and survives the case where the task distribution itself
 depends on what the learner becomes, with a measurable proxy for the
 developmental frontier. [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) proposes the measurement for one
 family of models.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Finn, Abbeel and Levine ([THEORY-tmpsw2ct](../theory.d/THEORY-tmpsw2ct.md)), read: supports the first candidate answer's caveat. MAML's objective is the loss after adaptation on tasks from a declared distribution p(T), parameters "easy to fine-tune" in their words. The future it targets is that declared p(T) and a declared budget of one to a few gradient steps, so it does not reach the question's case of benefits that cannot be specified in advance. The record's addition, resource and repertoire accounting beyond a declared family, stands.
+
+Hospedales, Antoniou, Micaelli and Storkey ([THEORY-tmpm09s4](../theory.d/THEORY-tmpm09s4.md)), skimmed: supports the same caveat across the field. They define meta-learning by an explicit objective that improves "future learning performance", and list objectives for speed, asymptotic performance, robustness and continual retention (§4.3, §5.7). Every one presupposes a declared task family or episode design. The survey lists generalization to other task distributions, and settings with no task family, as open (§6), which is the question's unspecifiable future.
+
+No status change.

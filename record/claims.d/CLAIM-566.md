@@ -59,6 +59,7 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp3vfqj THEORY-tmpeaw52 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 
 # CLAIM-566: That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure
@@ -214,3 +215,11 @@ No status changes.
 <!-- inactive-ok-block: CASE-231 CLAIM-612 — filed from the same exchange, Proposed -->
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A22 §5's quasi-stationary model ([CASE-231](../cases.d/CASE-231.md), [CLAIM-612](CLAIM-612.md)) separates persistence over a horizon from the stationarity of what the survivors do: the survivors' law settles within about five time units while the mean lifetime is about 100.5. It supports this claim's separation of persistence from assembly. No status changes.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Mordvintsev and colleagues ([THEORY-tmpeaw52](../theory.d/THEORY-tmpeaw52.md)), read, separate the three properties by training regime in one system: growth-only cellular automata assemble the lizard and often fail to persist; persistence-trained ones persist and often regenerate; damage-trained ones regenerate robustly. Persistence and regeneration are linked here, since both come from making the target an attractor. That supports the claim's separation of probabilities. The regeneration is after damage, not turnover, and the rule is fixed from outside, so it is regeneration without closure in [TERM-070](../terms.d/TERM-070.md)'s sense.
+
+Masumori and colleagues ([THEORY-tmp3vfqj](../theory.d/THEORY-tmp3vfqj.md)), read, find a damage-trained cellular automaton keeping its form by continuous, distributed activity on a recurrent attracting state, with maintenance and repair "two expressions of the same precarious organization". With damage in place of turnover, persistence and regeneration converge, as the claim says they do where persistence needs ongoing regeneration. The rule and alive mask are fixed from outside, so this is not closure either. It fits the claim and does not test it.
+
+No status change.

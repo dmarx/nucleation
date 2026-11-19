@@ -52,7 +52,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
-<!-- inactive-ok-file: LIT-tmpg7w4q LIT-tmppd2x6 — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp9tvpg THEORY-tmphnbs9 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
@@ -197,5 +197,13 @@ Read in [NOTE-1563](../notes.d/NOTE-1563.md) as the stand-in for Smallwood and S
 Proposed again. At U31 the owner asked whether Friston or the FEP literature "might have some work or tools for us". A69 §7 answered with this case's design again and cited it: three hidden causal regimes, probes of different costs, a regime change detectable only "by choosing a probe the learner has become reluctant to use", and agents from random probing to structure-learning active inference (A69's table). A71 §10's Experiment I is the same world, read for learning.
 
 Two elements are new. A69 §7 would compare "making the relevant probe cheaper versus changing the learned model or inquiry policy", to distinguish "resource scarcity" from "organizational lock-in"; [CLAIM-466](../claims.d/CLAIM-466.md) separates two kinds of lock-in in a similar way. And A71 §10 would "distinguish choosing among existing probes from actually acquiring the procedure needed to construct a new probe", the limit [THEORY-564](../theory.d/THEORY-564.md) finds in the 2020 structure-learning model, whose new categories occupy spare slots the designer supplied. Registered from the exchange, unread: Smith, Friston and Whyte's tutorial ([LIT-tmppd2x6](../literature.d/LIT-tmppd2x6.md)) and Friston et al. 2026 ([LIT-tmpg7w4q](../literature.d/LIT-tmpg7w4q.md)). Not run.
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Friston and colleagues ([THEORY-tmp9tvpg](../theory.d/THEORY-tmp9tvpg.md)), read, supply the case's information-gain terms and show what removing them does. In their simulated three-ball rule-discovery task, dropping the information-gain terms from policy selection left the rule undiscovered in about half of 64 games, and performance fell from 150 to 51 points. That is a simulated instance of what the sentry's κg term does to inspection here. It supports the design's Bayesian and active-inference baselines; it has no sentry, so it leaves the case's question open.
+
+Smith, Friston and Whyte ([THEORY-tmphnbs9](../theory.d/THEORY-tmphnbs9.md)), skimmed, give the case's skeleton without the sentry: a hidden binary context, a hint that reveals it at a cost (the payout halves) and a direct choice. Information-seeking declines as the context prior is learned and returns after unexpected losses (their Fig. 10). Its scripts and its section on fitting and recoverability are a ready base for the Bayesian baseline and for estimating a κ-like parameter. It supports the design's baselines and leaves the blocking of inspection, the case's subject, open.
 
 No status change.

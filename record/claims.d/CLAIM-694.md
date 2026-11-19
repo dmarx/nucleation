@@ -41,6 +41,8 @@ summary: >-
   field-theoretic instance of [CLAIM-593](CLAIM-593.md)'s "Structural isomorphism ⇏ token
   identity". The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpcxzxx THEORY-tmpg9anb THEORY-tmpky96s THEORY-tmpohouk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-606 CASE-266 NOTE-1950 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
 
@@ -108,5 +110,17 @@ A4 §8 adds a caveat on what a sector is. A real mass that changes sign is no ob
 A10 restated this claim accurately: a defect may "protect an organizational possibility without protecting a particular individual" (A10 §8). A10 §7 then called two resource-relative equivalences, one by an observing budget and one by an acting budget, "a particularly novel extension". They are on the record already as [CLAIM-557](CLAIM-557.md), [CLAIM-574](CLAIM-574.md) and [CLAIM-581](CLAIM-581.md).
 
 [THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md)'s vortices come in ± pairs whose count varies by channel while the net charge stays near zero, which fits the split between kind and token.
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Suzuki, Li and Zurek ([THEORY-tmpohouk](../theory.d/THEORY-tmpohouk.md)), read, give independent evidence on the formation side. In their quenched one-dimensional φ⁴ field, with periodic boundaries and the net charge fixed, how many kinks form and where they sit differ between noise realizations and are fixed by fluctuations imprinted near the critical point. The tokens' number and places come from history, not from the charge. It supports the claim.
+
+Kaschube, Schnabel and Wolf ([THEORY-tmpg9anb](../theory.d/THEORY-tmpg9anb.md)), the stand-in for [LIT-tmpdedmw](../literature.d/LIT-tmpdedmw.md), read, show the claim's division in orientation maps. The ±1/2 charge fixes the kinds of pinwheel, but their number per hypercolumn is set by the dynamics, near π under long-range interactions, while rival models with the same charges let pinwheels annihilate over time. It supports the claim.
+
+Shankar and colleagues ([THEORY-tmpky96s](../theory.d/THEORY-tmpky96s.md)), read: in active nematics the charge constrains how defects are created and ended (in pairs in two dimensions), while activity decides how many there are. The review's statement that a winding number taken around several defects "measures the net number of topological defects" is stated as standard, not shown. Together these support the claim's split between net count and tokens.
+
+Teo and Kane ([THEORY-tmpcxzxx](../theory.d/THEORY-tmpcxzxx.md)), read, give a spectral-side parallel. For point defects their invariant is an index n = N+ − N−, a net count of zero modes by chirality, which fixes neither which modes there are nor their total number. That is the claim's structure applied to the modes a defect hosts rather than to the defect, so it is a parallel, not evidence for the claim.
 
 No status change.
