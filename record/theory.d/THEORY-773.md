@@ -151,3 +151,6 @@ slow error stayed below the bound at d = 5, 20, 100 and 500, at 41 to
 Lohmiller and Slotine ([THEORY-tmprpscg](THEORY-tmprpscg.md)), read: supports an ingredient. They state the inequality Ṙ + |λmax|R ≤ ‖Θd‖ (§3.7 (vii), eq. 15) on which this entry's constant-metric Lemma 1 rests, and offer hierarchical combination (§3.8.3), which couples one way only, as a framework for singular perturbations; this entry's counterexample couples both ways. Their contraction is full contraction, every trajectory converging to one. Partial contraction, the hypothesis this entry finds insufficient, is Wang and Slotine (2005), not held. The O(ε) bounds are Del Vecchio and Slotine's.
 
 No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+Background ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)). The hypothesis this account finds insufficient, partial contraction of f in x, is Wang and Slotine's construction, and they say the same of their own systems: "the overall system itself in general is not contracting" (p. 7). That agrees with this account's point that partial contraction does not by itself make the reduced system contracting. Nothing in the paper bears on the O(ε) bounds.

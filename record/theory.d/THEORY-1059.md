@@ -108,3 +108,8 @@ DeVille and Lerman ([THEORY-tmp31d9a](THEORY-tmp31d9a.md)), read: supports the c
 Velarde, Parra, Hashemi and Makse ([THEORY-tmpz825j](THEORY-tmpz825j.md)), read: supports by application. They compress trained networks to the base graph of their fibers or covers, which "performs the identical forward computation" for exact fibers. That is this entry's quotient network, run on the synchronous subspace, used as a compression method. Their networks are weighted and feed-forward, outside the 2003 setting, and their loss bound for quasi-fibers (Eq. 7) was not checked.
 
 No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+
+A complement ([THEORY-tmprqrdn](THEORY-tmprqrdn.md); [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): the transverse stability this account leaves "not treated" is what Wang and Slotine's partial contraction gives, for full and subgroup synchrony under diffusive coupling (Theorem 6), with the dynamics on the synchronous set those of one uncoupled unit.

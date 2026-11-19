@@ -308,3 +308,8 @@ Schoenholz and colleagues ([THEORY-tmpqtb3q](../theory.d/THEORY-tmpqtb3q.md)), r
 Suzuki, Li and Zurek ([THEORY-tmpohouk](../theory.d/THEORY-tmpohouk.md)), read: supports the separation of creation from stabilization in one stated system, a noisy one-dimensional φ⁴ field quenched through its transition. Noise imprinted near the critical point, where the potential is flat, is amplified by the instability. A trained predictor recovers the final kinks' number and positions from data near the critical point, well before freeze-out, when the kinks settle into the new minima. So the form is fixed before it is stabilized, and the two are dated apart. A constitutive role is not addressed.
 
 No status change.
+
+## Note of 2026-11-19: Poole and colleagues, read
+<!-- inactive-ok-file: THEORY-tmpitdat — Proposed; cited from the readings of 2026-11-19 -->
+
+Poole and colleagues ([THEORY-tmpitdat](../theory.d/THEORY-tmpitdat.md), bears_on; [NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)), in wide random networks: the chaotic phase is instability that amplifies small differences, χ1 the per-layer stretch and its logarithm a Lyapunov exponent; the ordered phase is the route by which differences pass away, nearby inputs converging; and new distinctions are made as a curve gains turns at a fixed curvature. Reading the fixed curvature as the stabilization of a form would be an analogy. It adds to the reading of Schoenholz and colleagues the same transition seen as creating distinctions rather than as how far they survive.

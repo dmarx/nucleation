@@ -57,3 +57,6 @@ orbit) is retained through depth.
 Schoenholz and colleagues ([THEORY-tmpqtb3q](THEORY-tmpqtb3q.md)), read: give the baseline this account improves on. In generic random networks, input correlations survive arbitrary depth only at the critical point χ1 = 1, and trainable depth falls to about 6ξc away from it, so deep trainability is fine-tuned. This entry's claim is that equivariance turns that point into a phase. They also show why a generic network's own order parameter carries trainability only at criticality, which makes this entry's dissociation intelligible without testing it. Equivariant networks are not studied.
 
 No status change.
+
+## Note of 2026-11-19: Poole and colleagues, read
+Background, with a qualification ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)). Poole and colleagues supply the generic baseline this account is set against: the χ1 = 1 boundary, and the bias-free transition at σw = 1. In their account the chaotic phase is where depth buys expressivity, so the generic network's chaotic phase is not only something to avoid, and the paper never speaks of an "edge of chaos". Nothing on equivariance, information retention or trainability.

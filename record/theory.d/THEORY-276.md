@@ -186,3 +186,6 @@ stability, the other half of this reading, is not treated. Torres-Hugas et
 al. ([NOTE-1218](../notes.d/NOTE-1218.md)) give a further instance. In a seven-node motif with two
 commuting reflections, the pentagonal block loses transverse stability first
 while the triangular mode stays stable.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+An analogy only ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): identical-neuron sets in weight space are orbit-synchrony patterns of the parameterization's permutation group, attracted under noise (Chen and colleagues).

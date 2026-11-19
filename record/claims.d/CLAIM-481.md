@@ -194,3 +194,14 @@ Wang and Isola ([THEORY-tmpl3nl5](../theory.d/THEORY-tmpl3nl5.md)), read, prove 
 Lohmiller and Slotine ([THEORY-tmprpscg](../theory.d/THEORY-tmprpscg.md)), read: full contraction sends all trajectories to one, and "A convex contraction region contains at most one equilibrium point". Contraction that keeps distinctions appears only in two remarks of §3.9. The selective contraction A29 invoked is Wang and Slotine's later partial contraction, which the record does not hold. It leaves the claim open on that point.
 
 No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+
+Wang and Slotine ([THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md), corroborates; [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)), read: the partial contraction the note of 2026-11-19 said the record did not hold. Three bearings.
+
+- **The dissipative-coupling case, generalized.** For identical nonlinear units with symmetric positive-definite diffusive coupling on a connected graph, the relative modes contract once the coupling, through λm+1 of the weighted Laplacian, beats the units' own expansion rate (Theorem 6). The chain's eigenvalue 2(1 − cos(π/n)) appears as a synchronization threshold, and "the effort to synchronize an open chain network is four times of that to a closed one" (Ex. 4.5): the claim's chain computation, read as a threshold.
+- **The bullet on nonlinear coupling.** For positive-definite diffusive coupling, strong enough coupling always gives global synchrony; destabilization by strong coupling belongs to semi-definite coupling without contraction of the coupled block (§4.4.3, after Pecora). Ex. 4.2 shows a synchronous set that is "both an invariant set and a linear constraint" and attracts.
+- **Selective contraction.** Partial contraction erases differences transverse to a manifold and keeps what lies along it: "the common phase of the steady states is determined by the initial conditions" (p. 7). It needs no rate comparison between within-class and between-class variation. The point the earlier note left open now has its source.
+
+No status change.

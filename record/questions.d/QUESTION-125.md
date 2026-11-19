@@ -94,3 +94,6 @@ Two readings filed from this exchange bear here, and both already carry bears_on
 A12 §5 proposed measuring an order parameter, a defect density or persistence statistic and a task-relevant information measure beside the loss as noise varies in Iqbal and Welling's model, to see which transition explains the change in performance. The noise level it reports (about 0.0046) is unverified: the paper, [LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md), is Unfetched.
 
 The question stays open. No status change.
+
+## Note of 2026-11-19: Poole and colleagues, read
+Background ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): in Poole and colleagues' mean-field maps, χ1 = 1 is a bifurcation of the layer map, where the fixed point at correlation 1 loses stability and one below 1 appears (§3). There is no block or gap in their setting, so it supplies only the bifurcation half.

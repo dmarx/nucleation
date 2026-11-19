@@ -124,3 +124,6 @@ The result is elementary enough that the record could hold it as its own
 derivation. It stays a THEORY sourced to [LIT-861](../literature.d/LIT-861.md), to keep the attribution.
 Whether [QUESTION-058](../questions.d/QUESTION-058.md) is now answered for the finite-step half is left to
 the next review of that question.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+Supports the first half and is compatible with the second ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): coincident neurons stay coincident under SGD (Prop. 3.2), and Chen and colleagues show attraction in probability and asymptotic collapse in continuous toys; their trained networks are "identical" only within a 10% tolerance.

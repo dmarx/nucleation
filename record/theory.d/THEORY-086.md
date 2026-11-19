@@ -137,3 +137,6 @@ theorems, consistent with them.
   here, k^(−d), is of NTK eigenvalues, which are learning rates. The two
   are different objects and should not be cited as agreeing or
   disagreeing.
+
+## Note of 2026-11-19: Poole and colleagues, read
+A parallel ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): the covariance recursion of Poole and colleagues' mean-field theory is the layerwise kernel recursion behind this account, at initialization; the identification is the reader's, not the paper's.

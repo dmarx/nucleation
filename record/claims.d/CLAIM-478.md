@@ -434,3 +434,6 @@ At U14 the owner tied A's "selective contraction" to "Nucleation's inquiry into 
 A32 §5, from [CLAIM-626](CLAIM-626.md), adds that "There isn't one relevant separation": collective activity, restoration, maintenance and reproduction may each have a time scale, and their hierarchy may say more than one fast–slow ratio. A32 §12 asks whether an emergent organization can change the timescale hierarchy and intervention-equivalence structure it was identified by, which is this claim's second half widened to the equivalence structure. The owner's U10 hypothesis carries this claim from constraints to units: [CLAIM-tmpw8xkt](CLAIM-tmpw8xkt.md) rests on it. [CLAIM-tmp449rr](CLAIM-tmp449rr.md) separates the dynamical separation this claim names from the economic separation of costly formation and cheap reuse.
 
 No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+An analogy from Wang and Slotine ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): relative degrees of freedom contract quickly and the synchronous relation then holds as a constraint, a set that is "both an invariant set and a linear constraint" (Ex. 4.2). A worked case of the shape the claim describes, in a deterministic network; not evidence for the claim's general form.
