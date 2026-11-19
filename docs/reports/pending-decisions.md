@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1877 document(s) awaiting a decision, 42 undated.**
+**1878 document(s) awaiting a decision, 42 undated.**
 
 ## LITs
 
-90 of the 1877.
+90 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-1115 of the 1877.
+1115 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1228,12 +1228,12 @@
 
 ## ADRs
 
-31 of the 1877.
+32 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-10-22 | Deferred | [ADR-050](../../record/decisions.d/ADR-050.md) | 0 | 5 | 0 | A claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means |
-| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 8 | 3 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
+| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 12 | 3 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
 | 2026-11-07 | Proposed | [ADR-075](../../record/decisions.d/ADR-075.md) | 0 | 204 | 34 | A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left |
 | 2026-11-07 | Proposed | [ADR-082](../../record/decisions.d/ADR-082.md) | 0 | 66 | 47 | The nucleating-argument line is split in three: nucleating-argument keeps how an argument drifts, anchors and pays for anchoring; what a record of inquiry keeps and the record as its own apparatus become lines of their own, because their parts barely relate to the rest |
 | 2026-11-07 | Proposed | [ADR-083](../../record/decisions.d/ADR-083.md) | 0 | 64 | 2 | An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split |
@@ -1263,10 +1263,11 @@
 | 2026-11-18 | Proposed | [ADR-103](../../record/decisions.d/ADR-103.md) | 0 | 1 | 0 | A line rightful-power is added beside dependence-and-domination and organizational-normativity, without moving any entry out of them: its root questions carry it first, and an entry carries it when it takes part in its argument |
 | 2026-11-18 | Proposed | [ADR-105](../../record/decisions.d/ADR-105.md) | 0 | 0 | 0 | Docs runs on pushes to the default branch wait for one another and are never cancelled: one concurrency group serializes view generation, so two merges minutes apart no longer race |
 | 2026-11-19 | Proposed | [ADR-106](../../record/decisions.d/ADR-106.md) | 0 | 16 | 16 | A work cost-structure-of-possibility is added for the owner's manuscript from the exchange Topological protection explained: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step |
+| 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 3 | 1 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
 
 ## QUESTIONs
 
-6 of the 1877.
+6 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1279,7 +1280,7 @@
 
 ## CLAIMs
 
-320 of the 1877.
+320 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1606,7 +1607,7 @@
 
 ## CASEs
 
-104 of the 1877.
+104 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1717,7 +1718,7 @@
 
 ## TERMs
 
-36 of the 1877.
+36 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1760,7 +1761,7 @@
 
 ## ARGs
 
-78 of the 1877.
+78 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1845,7 +1846,7 @@
 
 ## SYNTHESISs
 
-97 of the 1877.
+97 of the 1878.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

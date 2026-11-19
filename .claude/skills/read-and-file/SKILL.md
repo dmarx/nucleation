@@ -168,7 +168,7 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **Delegate one reader per work**, in parallel, using the brief below.
   A subagent may be refused when it writes a file named as a report;
   ask for the report as its reply, and save it yourself.
-- **Running notes, visible in flight** (ADR-tmpnswfy). Before starting a
+- **Running notes, visible in flight** (ADR-108). Before starting a
   reader, cut a branch `claude/readers/<key>` from the filing branch, add
   a worktree for it in the scratchpad, commit an empty
   `scratch/readers/<key>.md` and push the branch (no pull request). The

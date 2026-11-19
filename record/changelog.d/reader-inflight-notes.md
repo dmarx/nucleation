@@ -1,7 +1,7 @@
-<!-- inactive-ok-file: ADR-tmpnswfy ADR-068 — Proposed; the decision filed here and the one it changes -->
+<!-- inactive-ok-file: ADR-108 ADR-068 — Proposed; the decision filed here and the one it changes -->
 ### Changed
 
-- [ADR-tmpnswfy](record/decisions.d/ADR-tmpnswfy.md) (Proposed), at the owner's request: delegated readers keep
+- [ADR-108](record/decisions.d/ADR-108.md) (Proposed), at the owner's request: delegated readers keep
   running notes in `scratch/readers/`, outside the record, on branches of
   their own that they push as they read, so a reading can be seen in
   flight; the filer deletes the branch when filing, and no downloaded
