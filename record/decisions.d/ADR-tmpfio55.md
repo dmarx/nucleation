@@ -10,10 +10,10 @@ summary: >-
   gains cost-structure-of-possibility, "The Cost Structure of
   Possibility". It is the manuscript the owner asked for at U19 of the
   exchange "Topological protection explained", which ChatGPT drafted at
-  A43. Membership follows ADR-104's rule: a claim or ARG is a member when
+  A43. Membership follows [ADR-104](ADR-104.md)'s rule: a claim or ARG is a member when
   A43, or a passage A explicitly offers for it, states the entry's
   proposition or uses it as a step; a reference-list citation alone does
-  not count. Membership says nothing of status (ADR-032). On reading, 16
+  not count. Membership says nothing of status ([ADR-032](ADR-032.md)). On reading, 16
   claims are members, 4 of them Proposed. They sit mostly in the lines
   realizability and formal-apparatus. Rejected: counting the reference
   list; counting every claim that is an instance of A43's general
@@ -70,20 +70,20 @@ cannot be a member.
 - **The `works` vocabulary gains `cost-structure-of-possibility`**,
   labelled "The Cost Structure of Possibility". Its blurb names the
   request, the draft, its thesis and the lines that hold its argument.
-- **Membership is ADR-104's rule.** A CLAIM or ARG is in the work when
+- **Membership is [ADR-104](ADR-104.md)'s rule.** A CLAIM or ARG is in the work when
   A43, or a passage A explicitly offers for it, states the entry's
   proposition in any wording, or uses it as a step in its argument. A
   citation in the reference list, with no use in the text, does not
   count. Nor does a use of only an entry's proviso, or of a reason it
-  gives, as ADR-104's revision found for one of its members.
-  Whether the record believes a member is its status (ADR-032).
+  gives, as [ADR-104](ADR-104.md)'s revision found for one of its members.
+  Whether the record believes a member is its status ([ADR-032](ADR-032.md)).
 - **Members are found by reading.** Each candidate was read against the
   section it would come from. The curation entry gives each member's
   section.
 
 ## Alternatives
 
-- **Count the reference list.** CLAIM-354 is listed there as
+- **Count the reference list.** [CLAIM-354](../claims.d/CLAIM-354.md) is listed there as
   "Multidimensional freedom and organizational capability". The claim is
   about degrees of an agent's freedom of will, compared by a partial
   order, and the text uses neither. §9 separates first-order capability
@@ -91,8 +91,8 @@ cannot be a member.
   further.
 - **Count every instance of A43's general results.** §3 states
   amortization in general, so any claim about an amortized cost would
-  join. CLAIM-303 is counted because §3.1 states its break-even proposition
-  and §3.3 its costs of keeping. CLAIM-358 is not counted: §7.3's
+  join. [CLAIM-303](../claims.d/CLAIM-303.md) is counted because §3.1 states its break-even proposition
+  and §3.3 its costs of keeping. [CLAIM-358](../claims.d/CLAIM-358.md) is not counted: §7.3's
   conventions replace negotiation and supervision alike, and A43 does
   not state its contrast between local settlement and escalation.
 - **No work.** The members are in eleven lines, and no line groups
@@ -102,14 +102,14 @@ cannot be a member.
 ## Consequences
 
 - The work can be read as one set. Twelve members are Active.
-  CLAIM-478, CLAIM-576, CLAIM-295 and CLAIM-184 are Proposed.
-- Two members are in other works as well: CLAIM-675 in
-  capability-restraint-relational-freedom, and CLAIM-184 in
+  [CLAIM-478](../claims.d/CLAIM-478.md), [CLAIM-576](../claims.d/CLAIM-576.md), [CLAIM-295](../claims.d/CLAIM-295.md) and [CLAIM-184](../claims.d/CLAIM-184.md) are Proposed.
+- Two members are in other works as well: [CLAIM-675](../claims.d/CLAIM-675.md) in
+  capability-restraint-relational-freedom, and [CLAIM-184](../claims.d/CLAIM-184.md) in
   luria-nucleating-an-argument.
 - The parts of A43 that cannot carry the field are named in the curation
-  entry: QUESTION-095 (§3.2), TERM-114 (§4), TERM-117 (§5.1) and
-  TERM-062 (§6).
-- A claim filed in an open pull request (#528) takes §5.2's recursive
+  entry: [QUESTION-095](../questions.d/QUESTION-095.md) (§3.2), [TERM-114](../terms.d/TERM-114.md) (§4), [TERM-117](../terms.d/TERM-117.md) (§5.1) and
+  [TERM-062](../terms.d/TERM-062.md) (§6).
+- A claim filed in an open pull request ([#528](https://github.com/dmarx/nucleation/issues/528)) takes §5.2's recursive
   step. It joins the work once both pull requests merge.
 - The first application is in this decision's pull request: the
   vocabulary entry, the 16 members, each with a history note and a
