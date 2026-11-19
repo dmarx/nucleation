@@ -91,3 +91,8 @@ Rupe and Crutchfield ([THEORY-2028](../theory.d/THEORY-2028.md)), read: sharpens
 Kaschube, Schnabel and Wolf ([THEORY-2026](../theory.d/THEORY-2026.md), read as a stand-in for [LIT-2812](../literature.d/LIT-2812.md)): leaves the question open. Pinwheels are topological point defects of a map formed by activity-dependent development, and the paper treats them only as countable markers whose density tests the developmental model, assigning them no function. That fits A15's reading of them as defects that need not be functional units, but it neither shows that they lack a function nor compares any two criteria.
 
 No status change.
+
+## Note of 2026-11-19: follow-up turns of "Topological protection explained"
+<!-- inactive-ok-file: CLAIM-tmpitvrh — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+
+ChatGPT (A84) ranks this question specialized in its triage (CLAIM-tmpitvrh): "Identify exact conditions under which topological, predictive, and interventional criteria agree or diverge".

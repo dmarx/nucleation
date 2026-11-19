@@ -84,3 +84,6 @@ tracking under structure-preserving perturbation. A73 also called
 A definition of knowledge of a process, as a sibling of [TERM-079](../terms.d/TERM-079.md), whose
 tests could be run on a model and which says whether knowing belongs to
 the weights or to the declared system.
+
+## Note of 2026-11-19: follow-up turns of "Topological protection explained"
+ChatGPT (A84) ranks this question foundational and the first to pursue, as "what constitutes learning, knowledge, and understanding in a historically organized system". Its candidate: "Could knowledge be characterized by the organization of an epistemic capacity, rather than by a particular representation or isolated judgment?", with the questions "Can knowledge be latent but practically inaccessible? Can knowing reside in a distributed system? When does reliable success cease to be accidental? Does understanding necessarily entail greater future learnability?" A next advance without an experiment: "Construct cases that distinguish reliable performance from non-accidental epistemic competence".

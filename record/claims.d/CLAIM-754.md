@@ -112,3 +112,6 @@ learning, test-time training, sampling, active inquiry) suggests the
 developmental frontier depends on which acquisition procedures are
 admissible, so it is a family of frontiers indexed by that choice.
 Overconsolidation ([CLAIM-758](CLAIM-758.md)) is one pattern of divergence.
+
+## Note of 2026-11-19: follow-up turns of "Topological protection explained"
+ChatGPT (A80) proposed a test of the inquiry frontier: after a learner has a strong model, change the environment so the model is incomplete, and compare probe-selection policies (random, uncertainty sampling, information gain, expected free energy, and a planner counting future acquisition costs), asking whether acquired organization changes "the set of probes it can affordably formulate or considers worth performing". It separates "Learning a reusable inquiry strategy" from "Epistemic lock-in", with a forced-probe condition: give a locked-in learner the corrective evidence it would not seek; if it updates, the failure lies in inquiry selection, if not, in inference or plasticity. Two learners with the same present competence and different access to corrective inquiry would show the inquiry frontier moving apart from the operational one. Not run.

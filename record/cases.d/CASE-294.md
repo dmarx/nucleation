@@ -138,3 +138,13 @@ No status change.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 A measure to add ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues' fraction of independent neurons, units counted identical within a tolerance of their norms (p. 7), beside the dead-unit and effective-rank measures at each checkpoint. Their caution applies: residual connections fall outside their propositions (p. 8), and Pythia is residual.
+
+## Note of 2026-11-19: follow-up turns of "Topological protection explained"
+<!-- inactive-ok-file: CASE-tmp6idy5 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+
+ChatGPT's experiment ranking (A80, A82) keeps this study as the main test of overconsolidation and adds design points:
+- **Rules by episode.** Randomize the task-generating rule by episode, "not independently between a support example and its associated query", so a task is learnable at all.
+- **Censoring.** Report runs that never reach the threshold as censored outcomes rather than dropping them; fresh optimizer state and calibrated learning rates.
+- **Reading a slower late checkpoint.** If fine-tuning slows but in-context learning improves, adaptation may be "shifting between mechanisms"; if adapters recover it, the limit "may involve modifiability of existing parameters"; if new tasks are learned at the cost of old competence, it is a stability–plasticity tradeoff, "not necessarily inefficient learning".
+- **Not rediscovering plasticity loss.** "We shouldn't try to rediscover plasticity loss." The distinctive question is whether the loss changes the learner's "total resource-indexed repertoire, or merely shifts adaptation toward other mechanisms".
+Extra arms only after the primary contrast is measured. After the owner's U37, ChatGPT ranked it below a literature synthesis on pretraining and the Reddit study (CASE-tmp6idy5).

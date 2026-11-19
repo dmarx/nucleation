@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpk81pz
 title: 'From equivalence to recursive capability, as a chain of separable achievements: differences cease to matter to a family of operations, the resulting classes become operative units, persistent organization replaces repeated work, operating, learning and inquiry costs change, possibly in different directions, and the new capabilities shape later experience and organization; each step is stated by its own entry, each can fail without the next, and the chain as a whole is a proposed sequence the record does not assert'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    The owner's Reddit case (CASE-tmp6idy5, the follow-up turns of the
+    exchange) added as a test of the first and last steps in a social
+    system. No step, separation or link changed.
 defeated_if: >-
   A step attributed to an entry that does not state it; a separation (a
   step that can hold without the next) attributed to an entry that does
@@ -37,6 +44,7 @@ integrates:
 - CLAIM-605
 - CASE-296
 - CASE-294
+- CASE-tmp6idy5
 summary: >-
   The account across the three part accounts filed from the exchange
   "Topological protection explained" (how an equivalence becomes a unit,
@@ -49,7 +57,7 @@ summary: >-
   the record; the chain as a whole is not, and is listed under "Not
   stated". It maps and adds nothing.
 ---
-<!-- inactive-ok-file: ADR-075 CASE-294 CASE-296 CLAIM-754 CLAIM-755 CLAIM-756 CLAIM-758 CLAIM-760 CLAIM-761 CLAIM-762 SYNTHESIS-105 SYNTHESIS-106 SYNTHESIS-108 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-tmp6idy5 ADR-075 CASE-294 CASE-296 CLAIM-754 CLAIM-755 CLAIM-756 CLAIM-758 CLAIM-760 CLAIM-761 CLAIM-762 SYNTHESIS-105 SYNTHESIS-106 SYNTHESIS-108 — Proposed; cited in this filing of 2026-11-19 -->
 
 # SYNTHESIS-107: From equivalence to recursive capability, as a chain of separable achievements: differences cease to matter to a family of operations, the resulting classes become operative units, persistent organization replaces repeated work, operating, learning and inquiry costs change, possibly in different directions, and the new capabilities shape later experience and organization; each step is stated by its own entry, each can fail without the next, and the chain as a whole is a proposed sequence the record does not assert
 
@@ -74,7 +82,9 @@ says it can hold without the next, and the test the record has for it.
    substantive only where the classes are closed under the system's
    operations and reused, and [CLAIM-154](../claims.d/CLAIM-154.md) says when a unit is worth
    naming. *Test:* [CASE-296](../cases.d/CASE-296.md)'s closure test and its intervention
-   arm.
+   arm; in a social system, the owner's Reddit case (CASE-tmp6idy5,
+   proposed), where a joke or rivalry becomes a community people join and
+   govern.
 2. **Operative unit → historical amortization.** Stated by
    [CLAIM-761](../claims.d/CLAIM-761.md) (the owner-endorsed thesis): a stabilized constraint
    can be stored work, replacing later work with cheaper operations.
@@ -96,6 +106,8 @@ says it can hold without the next, and the test the record has for it.
    [CLAIM-758](../claims.d/CLAIM-758.md) (the owner's overconsolidation, where present
    competence rises as later acquisition gets costlier) and [CLAIM-605](../claims.d/CLAIM-605.md)
    (below a threshold the recursion traps instead of accumulating).
+   *Test:* CASE-tmp6idy5's developmental productivity, whether a
+   community makes its descendants cheaper to form (proposed).
 
 ## Not stated on the record
 

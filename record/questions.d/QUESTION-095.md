@@ -285,3 +285,8 @@ Sun and colleagues ([THEORY-2007](../theory.d/THEORY-2007.md)), read: supports r
 Tandon and colleagues ([THEORY-2049](../theory.d/THEORY-2049.md)), read: supports the question with numbers for the opposite move, work taken out of inference and put into training. Meta-learning the initialization makes training 3.4× slower at 8K context and buys inference 2.7× faster than full attention at 128K. The context compressed into weights is cheap to use but lossy: pass-key retrieval at 128K falls to 0.06, against 0.99 for full attention. That is the question's staleness cost in another form: the stored result lacks what a later query needs.
 
 No status change.
+
+## Note of 2026-11-19: follow-up turns of "Topological protection explained"
+<!-- inactive-ok-file: CLAIM-760 CLAIM-761 CLAIM-tmpitvrh — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+
+ChatGPT (A84) ranks this question high in its triage (CLAIM-tmpitvrh), to be advanced by "Formal and philosophical reconciliation of distributed cognition, caching, and amortized inference". Its next advance without an experiment, for the value of stored work: "Separate operational feasibility, lifetime economic efficiency, and distributed costs", which CLAIM-761 and CLAIM-760 have begun.

@@ -89,3 +89,8 @@ Finn, Abbeel and Levine ([THEORY-2046](../theory.d/THEORY-2046.md)), read: suppo
 Hospedales, Antoniou, Micaelli and Storkey ([THEORY-2034](../theory.d/THEORY-2034.md)), skimmed: supports the same caveat across the field. They define meta-learning by an explicit objective that improves "future learning performance", and list objectives for speed, asymptotic performance, robustness and continual retention (§4.3, §5.7). Every one presupposes a declared task family or episode design. The survey lists generalization to other task distributions, and settings with no task family, as open (§6), which is the question's unspecifiable future.
 
 No status change.
+
+## Note of 2026-11-19: follow-up turns of "Topological protection explained"
+<!-- inactive-ok-file: CLAIM-tmpitvrh — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+
+ChatGPT (A84) ranks this question foundational in its triage (CLAIM-tmpitvrh), as philosophical and decision-theoretic analysis of the evaluative standard. The questions it adds: "Should a learner preserve future adaptability even when its expected instrumental value is currently low?"; "Is the ability to acquire further capabilities intrinsically valuable or merely instrumentally useful?"; and which future possibilities must remain open for learning to count as "flourishing, autonomous, or well-governed". A next advance without an experiment: "Show which assumptions are necessary for a scalar optimum to exist". It also applies the question to the record itself: research triage faces the same problem (CLAIM-tmpitvrh).
