@@ -1,3 +1,4 @@
+<!-- inactive-ok-file: LIT-tmp3cyf2 LIT-tmpwo4ry LIT-tmpzpom9 — Deferred; registered in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5vg7p CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 ### Added
 
@@ -13,6 +14,11 @@
   against the deadline claim's antecedent ([CLAIM-tmp5vg7p](record/claims.d/CLAIM-tmp5vg7p.md)); Velarde et
   al. narrow the owner's fibration question ([QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md)); and the
   Pythia study gains its design cautions ([CASE-tmphsr99](record/cases.d/CASE-tmphsr99.md)).
+
+- Three works the readings pointed to, registered Deferred at the
+  owner's request: Wang and Slotine on partial contraction (LIT-tmpwo4ry),
+  Chen et al.'s "Stochastic Collapse" (LIT-tmp3cyf2) and Poole et al. on
+  transient chaos (LIT-tmpzpom9).
 
 ### Changed
 
