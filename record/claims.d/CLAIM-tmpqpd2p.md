@@ -6,16 +6,20 @@ role: thesis
 warrant: interpretive
 defeated_if: >-
   The claim says this can happen, so one case without stored work does
-  not refute it. It is defeated if no proposed witness shows the
-  mechanism: if, for every case offered, the apparent gain disappears
-  under full cost accounting (construction, upkeep, retrieval,
-  verification and revision counted, as CLAIM-tmpkrk41 requires across
-  parties), or turns out to be CLAIM-582's improvement of reliability
-  under a fixed mechanism rather than a lower least cost of reaching the
-  target, or is had equally from a constraint imposed with no history.
-  Not defeated by a constraint that persists and saves nothing
-  (CLAIM-443), which the claim allows. (Rewritten at ChatGPT's review of
-  2026-11-19, forwarded by the owner, to match the claim's quantifier.)
+  not refute it. It is defeated by an operational failure in every
+  witness offered: the acquired organization does not lower the least
+  cost of executing the task, retrieval and verification included,
+  enough to change what is feasible under the declared per-task budget;
+  or the gain is CLAIM-582's improvement of reliability under a fixed
+  mechanism rather than a lower least cost; or it is had equally from a
+  constraint imposed with no history. It is not defeated by an economic
+  failure, lifetime savings that never repay construction and upkeep:
+  that defeats only the stronger reading that the investment was
+  worthwhile, which the claim does not make. Not defeated by a constraint
+  that persists and saves nothing (CLAIM-443), which the claim allows.
+  (Rewritten at ChatGPT's reviews of 2026-11-19, forwarded by the owner:
+  first to match the claim's quantifier, then to separate operational
+  from economic failure.)
 tags:
 - complex-systems
 - information-theory
@@ -55,7 +59,6 @@ summary: >-
   fixed mechanism ([CLAIM-582](CLAIM-582.md)). No claim joined constraint, amortization and
   capability.
 ---
-<!-- inactive-ok-file: CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp449rr — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmpqpd2p: A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench
@@ -100,6 +103,15 @@ peak, not a total.
   and A39 §7 notes that the cost of revision can keep a classification in
   use despite evidence against it. [CLAIM-tmp449rr](CLAIM-tmp449rr.md) separates this economic
   separation of time scales from the dynamical one.
+- **Which costs bear on what.** Two failures are kept apart. Whether the
+  stored work expands what is feasible depends on the cost of using it,
+  retrieval and verification included, against the per-task budget, and
+  on its upkeep being met so that it is still there. Whether it was worth
+  acquiring depends also on its construction cost, its revision cost and
+  how often it will be used: CLAIM-303's break-even. A procedure that
+  costs 100 to acquire and cuts a task from 12 to 3 makes the task
+  feasible under a budget of 5 whether or not the 100 is ever repaid
+  (ChatGPT's example at its second review, forwarded by the owner).
 
 ## The stronger reading it invites and does not support
 
