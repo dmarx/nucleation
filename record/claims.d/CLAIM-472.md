@@ -196,7 +196,6 @@ No status changes.
 
 ## Note of 2026-11-19: Carnap, read
 
-<!-- inactive-ok-file: ADR-tmptwlsg — Proposed or newly filed; the reading of 2026-11-19 and the decision it grounds -->
 
 Carnap's *Logical Foundations of Probability* (1950), chapter I, sections
 2 and 3, read at the owner's request ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md),

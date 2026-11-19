@@ -36,7 +36,7 @@ summary: >-
   explication form's critical questions ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)). Active since the full reading
   confirmed it.
 ---
-<!-- inactive-ok-file: ADR-tmptwlsg THEORY-1797 — Proposed; the decision this reading grounds and the secondary account it backs -->
+<!-- inactive-ok-file: THEORY-1797 — Proposed; the decision this reading grounds and the secondary account it backs -->
 
 # THEORY-tmpai35t: Carnap (1950) holds that an explication replaces an inexact concept by an exact one and is judged as more or less satisfactory, not right or wrong, after the concept to be explicated has been made practically clear by examples of uses intended and not intended; an adequate explicatum is similar enough to it (considerable differences permitted), exact, fruitful for formulating general statements, and as simple as those three permit
 
