@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read in full on 2026-11-19 at the owner's request (NOTE-tmpgrtgu).
+  Read in full on 2026-11-19 at the owner's request ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)).
   Worth reading for its chapter on explication, the method the
   record's explication form takes its questions from, and for a logical
   theory of probability whose relevance results bear on how the record
@@ -39,14 +39,14 @@ summary: >-
   Carnap (1950), University of Chicago Press. Chapter I states
   explication: an exact explicatum replaces an inexact explicandum and is
   judged as more or less satisfactory, by similarity, exactness,
-  fruitfulness and simplicity (THEORY-tmpai35t). The rest argues that
+  fruitfulness and simplicity ([THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md)). The rest argues that
   inductive logic is the logic of probability in the logical sense,
   degree of confirmation, an analytic relation between evidence and
   hypothesis measured as partial entailment between ranges relative to a
   language, and builds it: what holds for every regular measure, a theory
   of relevance, a comparative logic, the symmetrical measures,
-  estimation, and provisionally c* (THEORY-tmp1kxhj). Read in
-  NOTE-tmpgrtgu.
+  estimation, and provisionally c* ([THEORY-tmp1kxhj](../theory.d/THEORY-tmp1kxhj.md)). Read in
+  [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md).
 ---
 
 # LIT-tmpkck45: Logical Foundations of Probability

@@ -55,8 +55,8 @@ Nothing machine-readable tied the term to either. The owner asked on
    definition does its declared job better than its predecessor and its
    rivals. Its critical questions are Carnap's requirements for an
    explicatum (*Logical Foundations of Probability*, 1950, chapter I;
-   LIT-tmpkck45, read in NOTE-tmpgrtgu, account THEORY-tmpai35t; the SEP
-   entry's report of them is THEORY-1797), with the tests Carnap uses on
+   [LIT-tmpkck45](../literature.d/LIT-tmpkck45.md), read in [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), account [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md); the SEP
+   entry's report of them is [THEORY-1797](../theory.d/THEORY-1797.md)), with the tests Carnap uses on
    his own explicata later in the book:
    - **Is the explicandum clear, and is it the rivals'?** Which uses was
      the word meant to cover, and which not, shown by examples (§2)? And

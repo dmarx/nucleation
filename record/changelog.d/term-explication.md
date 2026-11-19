@@ -15,9 +15,9 @@
   explicandum is clear by examples, and loosens similarity to allow
   departures paid for by fruitfulness.
 - Carnap's *Logical Foundations of Probability* read in full at the
-  owner's request (NOTE-tmpgrtgu version 2, THEORY-tmp1kxhj; curation
+  owner's request ([NOTE-tmpgrtgu](record/notes.d/NOTE-tmpgrtgu.md) version 2, [THEORY-tmp1kxhj](record/theory.d/THEORY-tmp1kxhj.md); curation
   entry of 2026-11-19, 175403). The explication form gains Carnap's own
-  tests from later chapters; ARG-tmp23khr version 2 finds the
+  tests from later chapters; [ARG-tmp23khr](record/arguments.d/ARG-tmp23khr.md) version 2 finds the
   performance definition of learning an explicatum of another
-  explicandum, not a rival; dated notes on CLAIM-472, CLAIM-293,
-  CLAIM-294, CLAIM-401, THEORY-1239 and THEORY-1797.
+  explicandum, not a rival; dated notes on [CLAIM-472](record/claims.d/CLAIM-472.md), [CLAIM-293](record/claims.d/CLAIM-293.md),
+  [CLAIM-294](record/claims.d/CLAIM-294.md), [CLAIM-401](record/claims.d/CLAIM-401.md), [THEORY-1239](record/theory.d/THEORY-1239.md) and [THEORY-1797](record/theory.d/THEORY-1797.md).

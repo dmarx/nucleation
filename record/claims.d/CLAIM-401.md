@@ -182,7 +182,7 @@ model, not an argument for the classification. The claim is unchanged.
 <!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
 
 Carnap's two requirements on a language for inductive logic (§18B) are of
-the two kinds the claim separates (THEORY-tmp1kxhj, corroborates).
+the two kinds the claim separates ([THEORY-tmp1kxhj](../theory.d/THEORY-tmp1kxhj.md), corroborates).
 Logical independence of the atomic sentences is a condition on the
 representation itself. Completeness, that the predicates suffice "for
 expressing every qualitative attribute of the individuals in the

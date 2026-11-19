@@ -149,7 +149,7 @@ The claim is unchanged.
 ## Note of 2026-11-19: Carnap, read
 <!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
 
-Carnap's relevance theory (THEORY-tmp1kxhj, corroborates): c(h,e) and
+Carnap's relevance theory ([THEORY-tmp1kxhj](../theory.d/THEORY-tmp1kxhj.md), corroborates): c(h,e) and
 the separate relevance of i and of j to h do not fix the relevance of i
 and j together (§§68–69): "the superficial appearance of plausibility in
 inductive logic is very often entirely misleading." A summary of each

@@ -233,7 +233,7 @@ No status change. What holds it back is still [CLAIM-476](CLAIM-476.md) (note of
 
 ## Note of 2026-11-19 (later): Carnap, read in full
 
-The whole book read (NOTE-tmpgrtgu). Beyond chapter I:
+The whole book read ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). Beyond chapter I:
 
 - **First half.** The choice is made again and again inside the theory
   and judged, not verified. A measure function's choice is "a purely
