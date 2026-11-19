@@ -28,6 +28,9 @@ file is wrong.
   ([ADR-072](record/decisions.d/ADR-072.md)).
   `rests_on` is between claims and `grounds` points outside them, so the
   argument, its objection threads and its revisions render as chains.
+- `record/leads.d/`: LEADs, the backlog: plans to advance a question or
+  claim by any method, with a status and a stage
+  (ADR-tmpv2wkk).
 - `record/decisions.d/`, `record/principles.d/`, `record/changelog.d/` and
   `record/curation.d/`: the record reasoning about itself.
 - `docs/`: generated. Never edit an assembled page. See
