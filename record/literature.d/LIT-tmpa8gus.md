@@ -28,7 +28,7 @@ implementations: []
 summary: >-
   Lu, Kankanhalli (2026), arXiv 2610.12002. Per ChatGPT, a learned policy
   for when and how to update at test time. Here because A58 cited it for
-  learning when to update, which bears on QUESTION-095. Unverified until
+  learning when to update, which bears on [QUESTION-095](../questions.d/QUESTION-095.md). Unverified until
   read.
 ---
 
@@ -38,4 +38,4 @@ Lu, Kankanhalli (2026). arXiv 2610.12002.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A58 of the exchange "Topological protection explained". A58 cited it for learning when to update, which bears on QUESTION-095. Not read.
+Registered on 2026-11-19 from A58 of the exchange "Topological protection explained". A58 cited it for learning when to update, which bears on [QUESTION-095](../questions.d/QUESTION-095.md). Not read.

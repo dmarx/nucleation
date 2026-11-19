@@ -28,7 +28,7 @@ summary: >-
   Shankar, Souslov, Bowick, Marchetti et al. (2020), arXiv 2010.00364. Per
   ChatGPT, a review of topological phenomena in active and driven matter.
   Here because A4 cited it for topology of dynamics rather than of ground
-  states, which bears on QUESTION-tmp57ji2. Unverified until read.
+  states, which bears on [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md). Unverified until read.
 ---
 
 # LIT-tmp1nipn: Topological active matter
@@ -37,4 +37,4 @@ Shankar, Souslov, Bowick, Marchetti et al. (2020). arXiv 2010.00364.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A4 of the exchange "Topological protection explained". A4 cited it for topology of dynamics rather than of ground states, which bears on QUESTION-tmp57ji2. Not read.
+Registered on 2026-11-19 from A4 of the exchange "Topological protection explained". A4 cited it for topology of dynamics rather than of ground states, which bears on [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md). Not read.

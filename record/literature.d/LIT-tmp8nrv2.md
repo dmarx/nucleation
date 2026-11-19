@@ -39,10 +39,10 @@ summary: >-
   connectome until the observed synchrony clusters are its coarsest
   balanced colouring (fibres): four at rest, five in two speech tasks,
   with only the identity automorphism in both. The change of partition is
-  read as "fibration symmetry breaking". Read in NOTE-tmphwnar; its account
-  is THEORY-tmp8my3p. It applies the balanced-partition result held as
-  THEORY-1065 and bears on CLAIM-405, QUESTION-218, CLAIM-618 and
-  CASE-179. `published:` is the Research Square preprint's date, the
+  read as "fibration symmetry breaking". Read in [NOTE-tmphwnar](../notes.d/NOTE-tmphwnar.md); its account
+  is [THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md). It applies the balanced-partition result held as
+  [THEORY-1065](../theory.d/THEORY-1065.md) and bears on [CLAIM-405](../claims.d/CLAIM-405.md), [QUESTION-218](../questions.d/QUESTION-218.md), [CLAIM-618](../claims.d/CLAIM-618.md) and
+  [CASE-179](../cases.d/CASE-179.md). `published:` is the Research Square preprint's date, the
   earliest Crossref gives.
 ---
 <!-- inactive-ok-file: CLAIM-618 THEORY-tmp8my3p — Proposed; cited in this filing of 2026-11-19 -->
@@ -67,6 +67,6 @@ Gili, Avila, Pasquini, Holodny, Phillips, Boldi, Gabrielli, Caldarelli, Zimmer a
 Registered from the owner's U8 in the exchange "Topological protection
 explained", as an example of a collective unit defined by equivalence
 rather than by boundary. The record already held the mathematics it
-applies (THEORY-1065, THEORY-1059, from Stewart, Golubitsky and Pivato,
-LIT-1674). What this work adds is an inverse use of it on brain data, read
-in NOTE-tmphwnar.
+applies ([THEORY-1065](../theory.d/THEORY-1065.md), [THEORY-1059](../theory.d/THEORY-1059.md), from Stewart, Golubitsky and Pivato,
+[LIT-1674](LIT-1674.md)). What this work adds is an inverse use of it on brain data, read
+in [NOTE-tmphwnar](../notes.d/NOTE-tmphwnar.md).

@@ -15,18 +15,18 @@ line:
 summary: >-
   The support for A's claim (A39 §3 of the exchange "Topological protection
   explained") that dynamical and economic separation differ. Load-bearing:
-  the claim's warrant is demonstrated and its only witness is CASE-116,
+  the claim's warrant is demonstrated and its only witness is [CASE-116](../cases.d/CASE-116.md),
   a construction filed on 2026-10-17 for another purpose. Both critical
   questions are answered; the second with the qualification that arm C's
   saving is only implied by the case. The wording is the filer's, Claude
   in this session; adopting it is the owner's call.
 ---
 
-# ARG-tmpy9z67: CASE-116's slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions
+# ARG-tmpy9z67: [CASE-116](../cases.d/CASE-116.md)'s slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions
 
 ## The inference
 
-1. CASE-116's arm A is a slow flip register, second eigenvalue 0.98, that
+1. [CASE-116](../cases.d/CASE-116.md)'s arm A is a slow flip register, second eigenvalue 0.98, that
    no member reads. It has a slow collective variable: dynamical
    separation.
 2. No process uses arm A's register, so nothing that would otherwise be
@@ -42,7 +42,7 @@ summary: >-
 
 ## Critical questions
 
-**Is the case coherent?** Yes. CASE-116 is a finite-state construction
+**Is the case coherent?** Yes. [CASE-116](../cases.d/CASE-116.md) is a finite-state construction
 whose eigenvalues and intervention effects were rechecked when it was
 filed. It is fictional by construction, which an existence proof allows.
 

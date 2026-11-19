@@ -22,13 +22,13 @@ promote_when: >-
   fixed before the fMRI is analysed.
 summary: >-
   Gili, Avila, Pasquini, Holodny, Phillips, Boldi, Gabrielli, Caldarelli,
-  Zimmer and Makse (LIT-tmp8nrv2), read in NOTE-tmphwnar. A
+  Zimmer and Makse ([LIT-tmp8nrv2](../literature.d/LIT-tmp8nrv2.md)), read in [NOTE-tmphwnar](../notes.d/NOTE-tmphwnar.md). A
   mixed-integer program deletes the fewest tracts from a baseline
   connectome (five fibres, each an orbit) until each state's observed
   synchrony clusters are its coarsest balanced colouring. Rest gives four
   fibres, both tasks five, all with only the identity automorphism, and
   the rest and task partitions are not ordered by refinement. The account
-  applies THEORY-1065: synchrony classes without symmetry. It goes past
+  applies [THEORY-1065](THEORY-1065.md): synchrony classes without symmetry. It goes past
   that theorem in calling an invariant partition "proven to be
   synchronous", and it predicts no partition.
 ---
@@ -38,7 +38,7 @@ summary: >-
 
 ## The account
 
-Gili and colleagues (LIT-tmp8nrv2) take an eleven-region dorsal-stream
+Gili and colleagues ([LIT-tmp8nrv2](../literature.d/LIT-tmp8nrv2.md)) take an eleven-region dorsal-stream
 language network and a baseline connectome assembled from the tract
 literature. Its five fibres coincide with its five orbits. For each brain
 state they find the group-average phase-locking clusters, then delete the
@@ -52,7 +52,7 @@ ferromagnets".
 
 ## What it rests on
 
-The balanced-colouring theorem the record holds as THEORY-1065, applied
+The balanced-colouring theorem the record holds as [THEORY-1065](THEORY-1065.md), applied
 in reverse: the theorem says which partitions any admissible dynamics
 leaves invariant, and the paper asks which network would make an observed
 partition one of them.
@@ -64,19 +64,19 @@ partition one of them.
 - That the clusters were predicted: they are the program's input. The
   genuine outputs are that a removal-only solution exists and that the
   automorphisms are lost.
-- That any fibre attracts. THEORY-1065 gives invariance only, and no
+- That any fibre attracts. [THEORY-1065](THEORY-1065.md) gives invariance only, and no
   stability test is run.
 - That the transitions are moves within one lattice of balanced
-  equivalence relations (LIT-2249): each state's partition belongs to a
+  equivalence relations ([LIT-2249](../literature.d/LIT-2249.md)): each state's partition belongs to a
   different inferred graph.
 
 ## Bearing
 
-It corroborates CLAIM-405's crossing boundaries: one system's partitions
+It corroborates [CLAIM-405](../claims.d/CLAIM-405.md)'s crossing boundaries: one system's partitions
 under two conditions cross, Broca's area splitting between them. The
 criterion is the same in both states, so it does not show two criteria
-picking crossing units. It bears on QUESTION-218, since structural fibres
+picking crossing units. It bears on [QUESTION-218](../questions.d/QUESTION-218.md), since structural fibres
 are units without internal coupling, though the pipeline assumes that the
-functional block and the fibre coincide. It bears on QUESTION-125 and
-QUESTION-063 as a natural case in which a partition changes with state
+functional block and the fibre coincide. It bears on [QUESTION-125](../questions.d/QUESTION-125.md) and
+[QUESTION-063](../questions.d/QUESTION-063.md) as a natural case in which a partition changes with state
 under a shared task drive.

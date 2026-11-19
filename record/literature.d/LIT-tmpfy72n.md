@@ -30,8 +30,8 @@ summary: >-
   Miyato, Löwe, Geiger and Welling (2024; ICLR 2025), arXiv 2410.13821.
   Network units are unit vectors on a sphere updated by a generalised
   Kuramoto rule, with the conditioning input acting as a bias the authors
-  call a "symmetry breaking" field. Read in part in NOTE-tmpdcvze, as
-  context for the architecture of LIT-tmp01nqp; it stands in for none of
+  call a "symmetry breaking" field. Read in part in [NOTE-tmpdcvze](../notes.d/NOTE-tmpdcvze.md), as
+  context for the architecture of [LIT-tmp01nqp](LIT-tmp01nqp.md); it stands in for none of
   that work's results.
 ---
 <!-- inactive-ok-file: NOTE-tmpdcvze — Skimmed; cited in this filing of 2026-11-19 -->
@@ -44,4 +44,4 @@ Miyato, Löwe, Geiger and Welling (2024). arXiv 2410.13821; ICLR 2025.
 ## Standing in the record
 
 Context only, for the oscillator architecture behind the owner's U6
-example (LIT-tmp01nqp). No domain walls and no Z2 symmetry here.
+example ([LIT-tmp01nqp](LIT-tmp01nqp.md)). No domain walls and no Z2 symmetry here.

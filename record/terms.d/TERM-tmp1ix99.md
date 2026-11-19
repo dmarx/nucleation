@@ -15,9 +15,9 @@ summary: >-
   reasonably appropriately situated to make general claims about how
   learning works" (U20); refined in A71's opening. The job it does: the
   record uses "learning" across its lines (training, will-organization,
-  institutions, self-formation in TERM-099) without saying what counts, so
-  the claims filed from this exchange (CLAIM-tmp1l2s7, CLAIM-tmp8ljvp,
-  CLAIM-tmp5gbzr) need a sense that separates learning from mere change
+  institutions, self-formation in [TERM-099](TERM-099.md)) without saying what counts, so
+  the claims filed from this exchange ([CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md), [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md),
+  [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)) need a sense that separates learning from mere change
   and from mere success. It extends Mitchell's definition by putting
   organization and cost where Mitchell put performance. The wording is
   A's; adopting it is the owner's call.
@@ -45,17 +45,17 @@ successful learning and not to learning.
   without learning in the usual sense." The experience must make a
   counterfactual difference to later capability.
 - **Selection among systems**: a population changing by differential
-  survival changes no member's organization (CLAIM-288).
+  survival changes no member's organization ([CLAIM-288](../claims.d/CLAIM-288.md)).
 - **A fixed controller**: a response the organization already fixed is not
   learning from the experience.
 - **Replay**: gains that hold only on the experiences had are memory, not
   yet a changed repertoire.
 - **The appearance of competence**: a lookup table can mimic a model over
-  a finite horizon (CLAIM-519), so a test must reach beyond it.
+  a finite horizon ([CLAIM-519](../claims.d/CLAIM-519.md)), so a test must reach beyond it.
 
 ## The job it does
 
 Lets claims about learning in any line say what changed: the operational,
-developmental or inquiry frontier (CLAIM-tmp1l2s7), at what cost, and
-against what counterfactual (TERM-117's comparator). Self-formation
-(TERM-099) is a narrower sense, learning that the self governs.
+developmental or inquiry frontier ([CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md)), at what cost, and
+against what counterfactual ([TERM-117](TERM-117.md)'s comparator). Self-formation
+([TERM-099](TERM-099.md)) is a narrower sense, learning that the self governs.

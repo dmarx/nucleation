@@ -28,8 +28,8 @@ summary: >-
   Teo, Kane (2010), arXiv 1006.0690. Per ChatGPT, a unified classification
   of topological defects and the gapless modes they bind in insulators and
   superconductors. Here because A4 cited it for the general relation
-  between defect topology and bound modes, which bears on CLAIM-606 and
-  CLAIM-694. Unverified until read.
+  between defect topology and bound modes, which bears on [CLAIM-606](../claims.d/CLAIM-606.md) and
+  [CLAIM-694](../claims.d/CLAIM-694.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -39,4 +39,4 @@ Teo, Kane (2010). arXiv 1006.0690.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A4 of the exchange "Topological protection explained". A4 cited it for the general relation between defect topology and bound modes, which bears on CLAIM-606 and CLAIM-694. Not read.
+Registered on 2026-11-19 from A4 of the exchange "Topological protection explained". A4 cited it for the general relation between defect topology and bound modes, which bears on [CLAIM-606](../claims.d/CLAIM-606.md) and [CLAIM-694](../claims.d/CLAIM-694.md). Not read.

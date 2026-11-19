@@ -83,34 +83,34 @@ spontaneous against explicit symmetry breaking.
 
 ## Bearing on the record
 
-- **THEORY-1065** (balanced partitions are exactly the robust synchrony
+- **[THEORY-1065](../theory.d/THEORY-1065.md)** (balanced partitions are exactly the robust synchrony
   patterns, with no symmetry needed). The paper applies it to graphs with
   only the identity automorphism, which illustrates "symmetry is one way
   to get balance". But its Definition 4 says a fibre "is proven to be
-  synchronous", where THEORY-1065 says invariance "says nothing about
+  synchronous", where [THEORY-1065](../theory.d/THEORY-1065.md) says invariance "says nothing about
   whether the pattern attracts". No stability test is run.
-- **THEORY-1059** (dynamics on the quotient). The minimal base is named
+- **[THEORY-1059](../theory.d/THEORY-1059.md)** (dynamics on the quotient). The minimal base is named
   and not used. Left open.
-- **THEORY-276** and **QUESTION-147.** The baseline is the case where
+- **[THEORY-276](../theory.d/THEORY-276.md)** and **[QUESTION-147](../questions.d/QUESTION-147.md).** The baseline is the case where
   orbits equal fibres; rest and task have fibres without orbits. It cannot
-  serve QUESTION-147, since the graph is inferred from the clusters, not
+  serve [QUESTION-147](../questions.d/QUESTION-147.md), since the graph is inferred from the clusters, not
   the clusters predicted from a known graph.
-- **CLAIM-405** (criteria pick crossing units). Corroboration at most:
+- **[CLAIM-405](../claims.d/CLAIM-405.md)** (criteria pick crossing units). Corroboration at most:
   the rest and task partitions of one system cross, but under one
   criterion applied to two states, not under two criteria.
-- **QUESTION-218** (units that are not blocks). Structural fibres are
+- **[QUESTION-218](../questions.d/QUESTION-218.md)** (units that are not blocks). Structural fibres are
   equal-input classes that need no internal coupling. But the pipeline
   assumes the functional block and the structural fibre coincide, so it
   does not test which unit one system should track.
-- **CLAIM-618** and **CLAIM-567.** The program establishes only that a
+- **[CLAIM-618](../claims.d/CLAIM-618.md)** and **[CLAIM-567](../claims.d/CLAIM-567.md).** The program establishes only that a
   balanced, invariant configuration exists, the compatibility side.
   Nothing tests attraction or reliable emergence, yet the paper says it
   explains the observed synchrony.
-- **CASE-179** and **QUESTION-063.** A partial natural analogue: one
+- **[CASE-179](../cases.d/CASE-179.md)** and **[QUESTION-063](../questions.d/QUESTION-063.md).** A partial natural analogue: one
   substrate, several states, each with its own inferred coupling. Nothing
   is manipulated independently, and the task is a shared drive controlled
   only by GLM regression.
-- **QUESTION-125.** A candidate boundary change (rest to task), but with
+- **[QUESTION-125](../questions.d/QUESTION-125.md).** A candidate boundary change (rest to task), but with
   no parametrized family or dynamical model, and behaviour changes too.
   Left open.
 

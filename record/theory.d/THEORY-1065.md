@@ -100,10 +100,10 @@ synchronous.
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A17 §1 presented graph fibrations as new to the record. They are this theorem's structure under other names. Two cells in one fibre have isomorphic "input trees" (A17 §1), which is what a balanced partition asks of each class. "Graph fibration" is the term of Boldi and Vigna's work, not on the record, and DeVille and Lerman (LIT-tmp31ier, Deferred, unread) treat the maps between network dynamical systems that fibrations induce.
+A17 §1 presented graph fibrations as new to the record. They are this theorem's structure under other names. Two cells in one fibre have isomorphic "input trees" (A17 §1), which is what a balanced partition asks of each class. "Graph fibration" is the term of Boldi and Vigna's work, not on the record, and DeVille and Lerman ([LIT-tmp31ier](../literature.d/LIT-tmp31ier.md), Deferred, unread) treat the maps between network dynamical systems that fibrations induce.
 
-Gili and colleagues (THEORY-tmp8my3p, read) apply the theorem in reverse: they infer the network whose coarsest balanced colouring equals an observed synchrony partition. They call an invariant partition proven to be synchronous. This account says it does not show that: invariance says nothing about whether the pattern attracts or will be seen. Velarde and colleagues (LIT-tmpzusyw, Deferred, unread) report that fibrations emerge in trained neural networks.
+Gili and colleagues ([THEORY-tmp8my3p](THEORY-tmp8my3p.md), read) apply the theorem in reverse: they infer the network whose coarsest balanced colouring equals an observed synchrony partition. They call an invariant partition proven to be synchronous. This account says it does not show that: invariance says nothing about whether the pattern attracts or will be seen. Velarde and colleagues ([LIT-tmpzusyw](../literature.d/LIT-tmpzusyw.md), Deferred, unread) report that fibrations emerge in trained neural networks.
 
-The owner's U9 hunch, that the fibration approach relates to Li and Webb's symbolic mechanisms, is QUESTION-tmpex36a.
+The owner's U9 hunch, that the fibration approach relates to Li and Webb's symbolic mechanisms, is [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md).
 
 No status change.

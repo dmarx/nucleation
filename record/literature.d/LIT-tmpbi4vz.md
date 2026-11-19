@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Yin, Steinhardt (2025), arXiv 2502.14010. Per ChatGPT, function-vector
   heads develop from induction-like heads over Pythia training. Here
-  because A56 used it for an in-context arm of CASE-tmphsr99. Unverified
+  because A56 used it for an in-context arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Unverified
   until read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
@@ -38,4 +38,4 @@ Yin, Steinhardt (2025). arXiv 2502.14010.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A56 of the exchange "Topological protection explained". A56 used it for an in-context arm of CASE-tmphsr99. Not read.
+Registered on 2026-11-19 from A56 of the exchange "Topological protection explained". A56 used it for an in-context arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

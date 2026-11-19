@@ -29,7 +29,7 @@ summary: >-
   Smith, Friston, Whyte (2022), Journal of Mathematical Psychology, DOI
   10.1016/j.jmp.2021.102632. A step-by-step tutorial on active inference
   and its application to empirical data. Here because A69 recommended it
-  as the first reading for the owner's U31; CASE-153's active-inference
+  as the first reading for the owner's U31; [CASE-153](../cases.d/CASE-153.md)'s active-inference
   comparison would use it. Unverified until read.
 ---
 
@@ -39,4 +39,4 @@ Smith, Friston, Whyte (2022). Journal of Mathematical Psychology, DOI 10.1016/j.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A69 of the exchange "Topological protection explained". A69 recommended it as the first reading for the owner's U31; CASE-153's active-inference comparison would use it. Not read.
+Registered on 2026-11-19 from A69 of the exchange "Topological protection explained". A69 recommended it as the first reading for the owner's U31; [CASE-153](../cases.d/CASE-153.md)'s active-inference comparison would use it. Not read.

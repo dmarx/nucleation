@@ -28,7 +28,7 @@ implementations: []
 summary: >-
   Han, Bordt, Zhang, Kakade (2026), arXiv 2602.11137. Per ChatGPT, higher
   pretraining weight decay improves later fine-tunability. Here because it
-  would be a training regime that prevents overconsolidation (CLAIM-tmp8ljvp) and an arm of CASE-tmphsr99. Unverified until read.
+  would be a training regime that prevents overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) and an arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -38,4 +38,4 @@ Han, Bordt, Zhang, Kakade (2026). arXiv 2602.11137.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". It would be a training regime that prevents overconsolidation (CLAIM-tmp8ljvp) and an arm of CASE-tmphsr99. Not read.
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". It would be a training regime that prevents overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) and an arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

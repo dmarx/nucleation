@@ -38,9 +38,9 @@ summary: >-
   collapse of irrelevant distinctions into equivalence classes is the
   mechanism that underlies reification of those equivalence classes into
   useful new distinctions". The owner's example is the emergence of
-  genres and audiences as clusters in engagement data (CASE-tmpsjjgx). The
-  claim extends the owner's CLAIM-478, where what settles fast becomes a
-  constraint at another scale, from constraints to units; CLAIM-154 says
+  genres and audiences as clusters in engagement data ([CASE-tmpsjjgx](../cases.d/CASE-tmpsjjgx.md)). The
+  claim extends the owner's [CLAIM-478](CLAIM-478.md), where what settles fast becomes a
+  constraint at another scale, from constraints to units; [CLAIM-154](CLAIM-154.md) says
   when a candidate is worth naming as a unit. The closing condition, that
   the classes be closed under the system's operations and reused, answers
   A's objection that any partition yields classes distinguishable from
@@ -66,7 +66,7 @@ available as a unit because the differences within it stopped mattering.
 In the owner's example, films that draw the same audiences become
 interchangeable for the purposes of the engagement process, and the class
 they form, a genre, becomes something the platform, its users and its
-recommenders can act on (CASE-tmpsjjgx).
+recommenders can act on ([CASE-tmpsjjgx](../cases.d/CASE-tmpsjjgx.md)).
 
 ## What makes it more than a partition
 
@@ -75,9 +75,9 @@ of course collapsing distinctions creates classes distinguishable from
 other classes." The claim is filed with the condition that answers it.
 The classes that become units are those the system's own operations
 respect, a congruence in which the quotient map commutes with the
-dynamics, q∘F = F̄∘q (THEORY-820's closure, A26 §3), and that further
-operations reuse. CLAIM-154 states when such a unit is worth naming, and
-TERM-098's concept is a reusable, consequential pattern of distinctions.
+dynamics, q∘F = F̄∘q ([THEORY-820](../theory.d/THEORY-820.md)'s closure, A26 §3), and that further
+operations reuse. [CLAIM-154](CLAIM-154.md) states when such a unit is worth naming, and
+[TERM-098](../terms.d/TERM-098.md)'s concept is a reusable, consequential pattern of distinctions.
 A26 §2's textbook case is the minimal automaton: histories identified by
 their futures (Myhill–Nerode) become its states, and the transitions are
 well defined on the classes.
@@ -88,31 +88,31 @@ A29 §5: "Selective contraction alone explains how distinctions disappear.
 Bifurcation and other differentiation mechanisms explain why several
 distinct organizational outcomes remain available." In a pitchfork the
 basins are told apart by the bifurcation and their members are identified
-by contraction within each (CLAIM-408, CASE-112). The owner's mechanism
-is the second half. The record already had both halves in CLAIM-478's
+by contraction within each ([CLAIM-408](CLAIM-408.md), [CASE-112](../cases.d/CASE-112.md)). The owner's mechanism
+is the second half. The record already had both halves in [CLAIM-478](CLAIM-478.md)'s
 last clause, where modes slowing near an instability become order
 parameters.
 
 ## Rests on
 
-- CLAIM-478 (the owner's): a relation settled at one scale works as a
+- [CLAIM-478](CLAIM-478.md) (the owner's): a relation settled at one scale works as a
   constraint at another. This claim says the settled relation can be an
   identification, and the constraint a unit.
-- CLAIM-154: when a candidate unit is worth keeping.
+- [CLAIM-154](CLAIM-154.md): when a candidate unit is worth keeping.
 
 ## The stronger reading it invites and does not support
 
 That identification is the only route to a new unit. Differentiation
 without prior identification may also produce units, which is what
 defeated_if names. That the classes are real kinds: whether a category
-used by the process that confirms it is a real kind is CLAIM-402's
+used by the process that confirms it is a real kind is [CLAIM-402](CLAIM-402.md)'s
 question, and the claim does not answer it.
 
 ## A note on a rate condition
 
 A29 restated the mechanism as "selective contraction": within-class
 variation decays faster than between-class variation. That condition may
-be neither necessary nor matched to A29's own example. CLAIM-388 holds an
+be neither necessary nor matched to A29's own example. [CLAIM-388](CLAIM-388.md) holds an
 exactly closed collective variable with no weakly coupled block, and
 A29 §3's own coordinate z + (a/λ)ξ is conserved without any grouping of
 coordinates into fast and slow classes. The claim is filed without the

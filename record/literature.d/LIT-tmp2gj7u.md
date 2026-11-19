@@ -26,7 +26,7 @@ keywords: []
 implementations: []
 summary: >-
   Nichol, Achiam, Schulman (2018), arXiv 1803.02999. First-order meta-learning (Reptile). Here because A54 proposed it as a meta-trained arm
-  of CASE-tmphsr99. Unverified until read.
+  of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -36,4 +36,4 @@ Nichol, Achiam, Schulman (2018). arXiv 1803.02999.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 proposed it as a meta-trained arm of CASE-tmphsr99. Not read.
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 proposed it as a meta-trained arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

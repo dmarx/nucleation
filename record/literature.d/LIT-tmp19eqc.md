@@ -28,7 +28,7 @@ summary: >-
   Masumori, Sato, Ikegami (2026), Entropy, DOI 10.3390/e28080893. Per
   ChatGPT, information dynamics of self-maintenance in growing neural
   cellular automata. Here because A15 cited it beside Mordvintsev et al.
-  for CLAIM-566. Unverified until read.
+  for [CLAIM-566](../claims.d/CLAIM-566.md). Unverified until read.
 ---
 
 # LIT-tmp19eqc: Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata
@@ -37,4 +37,4 @@ Masumori, Sato, Ikegami (2026). Entropy, DOI 10.3390/e28080893.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 cited it beside Mordvintsev et al. for CLAIM-566. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 cited it beside Mordvintsev et al. for [CLAIM-566](../claims.d/CLAIM-566.md). Not read.

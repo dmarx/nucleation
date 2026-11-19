@@ -8,7 +8,7 @@ status_note: >-
   ChallengeRequiredError) the same day. The first author's institutional
   page (www.durham.ac.uk) was blocked by CloudFront, and Semantic
   Scholar's API answered 429. Not retried. No arXiv version exists. Its
-  authors' later paper, LIT-tmpyahtz, stands in for the thesis only.
+  authors' later paper, [LIT-tmpyahtz](LIT-tmpyahtz.md), stands in for the thesis only.
 title: 'Topological defects propagate information in deep neural networks'
 version: 1
 history:
@@ -50,8 +50,8 @@ summary: >-
   oscillators with a global Z2 symmetry, domain walls keeping input
   boundaries through depth, a symmetry-breaking bias erasing them, faster
   early learning and a noise-driven scaling near σ≈0.0046; all of that is
-  unverified until read. Bears on CLAIM-606, CLAIM-694, THEORY-1507 and
-  QUESTION-tmpcb0bf.
+  unverified until read. Bears on [CLAIM-606](../claims.d/CLAIM-606.md), [CLAIM-694](../claims.d/CLAIM-694.md), [THEORY-1507](../theory.d/THEORY-1507.md) and
+  [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md).
 ---
 <!-- inactive-ok-file: CLAIM-606 CLAIM-694 THEORY-1507 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -64,11 +64,11 @@ https://openreview.net/forum?id=fM5s2Tqe0t
 
 The owner's example at U6 of the exchange "Topological protection
 explained". The venue's copy was refused on 2026-11-19 (status note). The
-authors' later arXiv paper (LIT-tmpyahtz, read in NOTE-tmpsdqio) stands
+authors' later arXiv paper ([LIT-tmpyahtz](LIT-tmpyahtz.md), read in [NOTE-tmpsdqio](../notes.d/NOTE-tmpsdqio.md)) stands
 in for the thesis, that defects or Goldstone-like modes of a broken
 symmetry carry information through depth. It does not stand in for any
 of this work's specific results: its only defects are U(1) vortices, a
 different kind, whose role it does not show. Whether this work's walls
 are topologically protected at all depends on whether its vacuum manifold
-is disconnected, which THEORY-1507 makes the question and which only the
+is disconnected, which [THEORY-1507](../theory.d/THEORY-1507.md) makes the question and which only the
 paper can answer.

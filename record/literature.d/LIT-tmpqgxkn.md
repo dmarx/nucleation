@@ -37,9 +37,9 @@ summary: >-
   rule vector flips the output to the other rule's answer (the flip rate)
   depends on the diversity of the training data: vocabulary size, number
   of rules, number of examples, and role-token bias. Every architecture
-  tested reaches it at high diversity. Read in NOTE-tmp70cux; its account
-  is THEORY-tmpmtmq7. The owner's hunch that it relates to graph
-  fibrations is filed as QUESTION-tmpex36a; the paper itself says nothing
+  tested reaches it at high diversity. Read in [NOTE-tmp70cux](../notes.d/NOTE-tmp70cux.md); its account
+  is [THEORY-tmpmtmq7](../theory.d/THEORY-tmpmtmq7.md). The owner's hunch that it relates to graph
+  fibrations is filed as [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md); the paper itself says nothing
   at the level of units or partitions.
 ---
 <!-- inactive-ok-file: THEORY-tmpmtmq7 — Proposed; cited in this filing of 2026-11-19 -->
@@ -60,4 +60,4 @@ Li and Webb (2026). arXiv 2611.13270.
 
 ## Standing in the record
 
-Registered from the owner's U9. Read in NOTE-tmp70cux.
+Registered from the owner's U9. Read in [NOTE-tmp70cux](../notes.d/NOTE-tmp70cux.md).

@@ -30,7 +30,7 @@ summary: >-
   ChatGPT, travelling waves in recurrent networks encode the recent past
   and help sequence learning. Here because A15 listed it among ways of
   keeping information through depth or time, beside domain walls
-  (QUESTION-tmpcb0bf). LIT-647's text mentions it; it had no entry of its
+  ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)). [LIT-647](LIT-647.md)'s text mentions it; it had no entry of its
   own. Unverified until read.
 ---
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
@@ -41,4 +41,4 @@ Keller, Muller, Sejnowski, Welling (2023). arXiv 2309.08045.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 listed it among ways of keeping information through depth or time, beside domain walls (QUESTION-tmpcb0bf). LIT-647's text mentions it; it had no entry of its own. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 listed it among ways of keeping information through depth or time, beside domain walls ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)). [LIT-647](LIT-647.md)'s text mentions it; it had no entry of its own. Not read.

@@ -29,7 +29,7 @@ summary: >-
   Belkin, Niyogi (2001), https://papers.nips.cc/paper/1961-laplacian-eigenmaps-and-spectral-techniques-for-embedding-and-clustering.
   Laplacian eigenmaps: embedding by the low eigenvectors of a graph
   Laplacian. Here because A27 grounded the owner's U12 connection
-  (dissipation of differences as self-supervised learning) in it; LIT-228
+  (dissipation of differences as self-supervised learning) in it; [LIT-228](LIT-228.md)
   holds the SSL equivalence. Unverified until read.
 ---
 
@@ -39,4 +39,4 @@ Belkin, Niyogi (2001). https://papers.nips.cc/paper/1961-laplacian-eigenmaps-and
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 grounded the owner's U12 connection (dissipation of differences as self-supervised learning) in it; LIT-228 holds the SSL equivalence. Not read.
+Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 grounded the owner's U12 connection (dissipation of differences as self-supervised learning) in it; [LIT-228](LIT-228.md) holds the SSL equivalence. Not read.

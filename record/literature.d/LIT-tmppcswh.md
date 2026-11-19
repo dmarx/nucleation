@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Pan, Gao, Chen, Chen (2023), arXiv 2305.09731. Disentangling task
   recognition from task learning in in-context learning. Here because A56
-  proposed its controls for CASE-tmphsr99. Unverified until read.
+  proposed its controls for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -37,4 +37,4 @@ Pan, Gao, Chen, Chen (2023). arXiv 2305.09731.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A56 of the exchange "Topological protection explained". A56 proposed its controls for CASE-tmphsr99. Not read.
+Registered on 2026-11-19 from A56 of the exchange "Topological protection explained". A56 proposed its controls for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

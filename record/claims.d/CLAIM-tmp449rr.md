@@ -32,16 +32,16 @@ summary: >-
   repeated inexpensive operation". "These are related, but not identical.
   A stable slow variable might save no work, while a frequently reused
   computational result might be amortized successfully without being an
-  attractor". CLAIM-475's summary, written on 2026-10-27, identifies them:
+  attractor". [CLAIM-475](CLAIM-475.md)'s summary, written on 2026-10-27, identifies them:
   "A stable specification amortizes the work that made it, which is a
-  separation of time scales (CLAIM-478)". CASE-116 already holds a witness
+  separation of time scales ([CLAIM-478](CLAIM-478.md))". [CASE-116](../cases.d/CASE-116.md) already holds a witness
   for each direction. A's conjecture that productive constraints often
   have both is not part of the claim. The wording is A's; adopting it is
   the owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmpy9z67 CLAIM-478 CLAIM-tmp5gbzr CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-tmp449rr: Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in CLAIM-478's sense, and a constraint that is both is a further fact
+# CLAIM-tmp449rr: Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in [CLAIM-478](CLAIM-478.md)'s sense, and a constraint that is both is a further fact
 
 ## The claim
 
@@ -56,8 +56,8 @@ A39 §3 of the exchange "Topological protection explained"
 
 ## Why it is demonstrated
 
-CASE-116's three finite-state systems separate the two in both
-directions (ARG-tmpy9z67). Arm A is a slow flip register that no member
+[CASE-116](../cases.d/CASE-116.md)'s three finite-state systems separate the two in both
+directions ([ARG-tmpy9z67](../arguments.d/ARG-tmpy9z67.md)). Arm A is a slow flip register that no member
 reads: dynamically separated, with second eigenvalue 0.98, and saving no
 one any work. Arm C passes a rule through an archive between two episodes
 that never run together: the second episode reuses the rule without
@@ -65,14 +65,14 @@ rederiving it, and nothing relaxes onto anything.
 
 ## What it corrects
 
-CLAIM-475's summary says that a stable specification's amortization "is
-a separation of time scales (CLAIM-478)". That holds for the economic
-sense. CLAIM-478's sense is the dynamical one, so the identification is a
-slip of wording. CLAIM-475's claim itself does not depend on it.
+[CLAIM-475](CLAIM-475.md)'s summary says that a stable specification's amortization "is
+a separation of time scales ([CLAIM-478](CLAIM-478.md))". That holds for the economic
+sense. [CLAIM-478](CLAIM-478.md)'s sense is the dynamical one, so the identification is a
+slip of wording. [CLAIM-475](CLAIM-475.md)'s claim itself does not depend on it.
 
 ## The stronger reading it invites and does not support
 
 That the two are unrelated. A conjectured that "many productive emergent
 constraints instantiate both separations at once", and that the work one
 stabilized organization saves can be invested in forming another
-(CLAIM-tmpqpd2p, CLAIM-tmp5gbzr). Whether they usually coincide is open.
+([CLAIM-tmpqpd2p](CLAIM-tmpqpd2p.md), [CLAIM-tmp5gbzr](CLAIM-tmp5gbzr.md)). Whether they usually coincide is open.

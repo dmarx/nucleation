@@ -30,8 +30,8 @@ summary: >-
   ChatGPT, causal abstraction as a foundation for mechanistic
   interpretability, with interchange interventions. Here because A15 named
   it as the interventional criterion for whether a defect is a
-  computational feature (QUESTION-tmpcb0bf); the record holds approximate
-  causal abstraction (LIT-1310) and DAS (LIT-1551) but not this.
+  computational feature ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)); the record holds approximate
+  causal abstraction ([LIT-1310](LIT-1310.md)) and DAS ([LIT-1551](LIT-1551.md)) but not this.
   Unverified until read.
 ---
 
@@ -41,4 +41,4 @@ Geiger, Ibeling, Zur, Chaudhary et al. (2023). arXiv 2301.04709.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A12 and A15 of the exchange "Topological protection explained". A15 named it as the interventional criterion for whether a defect is a computational feature (QUESTION-tmpcb0bf); the record holds approximate causal abstraction (LIT-1310) and DAS (LIT-1551) but not this. Not read.
+Registered on 2026-11-19 from A12 and A15 of the exchange "Topological protection explained". A15 named it as the interventional criterion for whether a defect is a computational feature ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)); the record holds approximate causal abstraction ([LIT-1310](LIT-1310.md)) and DAS ([LIT-1551](LIT-1551.md)) but not this. Not read.

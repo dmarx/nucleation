@@ -75,38 +75,38 @@ before a symbolic one.
 
 ## Bearing on the record
 
-- **QUESTION-392** (creating a capability against making one reachable).
+- **[QUESTION-392](../questions.d/QUESTION-392.md)** (creating a capability against making one reachable).
   A clean instance: every architecture can represent the symbolic
   solution; data diversity decides whether training reaches it and when,
   and at small vocabularies extra training reaches it late. Training is
   finite, so that it is never reached is unshown.
-- **CLAIM-567** (feasible, reachable, reliably reached). Corroborates: two
+- **[CLAIM-567](../claims.d/CLAIM-567.md)** (feasible, reachable, reliably reached). Corroborates: two
   task-solving solutions are feasible, and data and capacity decide which
   one training reaches first.
-- **CLAIM-113** (transformations and invariants). The best fit: the role
+- **[CLAIM-113](../claims.d/CLAIM-113.md)** (transformations and invariants). The best fit: the role
   is what stays invariant when the vocabulary is relabelled, since tokens
   are drawn fresh for every prompt. Role-token bias breaks that invariance
   in the training distribution, and the invariant representation then
   fails to appear.
-- **THEORY-1002** (frozen random networks reach above-chance interchange
+- **[THEORY-1002](../theory.d/THEORY-1002.md)** (frozen random networks reach above-chance interchange
   accuracy). No random-initialization control. The intervention is a
   fixed mean-difference vector, not an optimized rotation, and trained
   models that solve the task at a near-zero flip rate serve as internal
   negative controls. The concern is weakened, not removed.
-- **QUESTION-234.** Not answered: no comparison of alignments, no
+- **[QUESTION-234](../questions.d/QUESTION-234.md).** Not answered: no comparison of alignments, no
   uniqueness test.
-- **THEORY-039**, **THEORY-782.** An instance and an analogy only.
-- **QUESTION-tmpex36a** (the owner's hunch: role abstraction and fibration
+- **[THEORY-039](../theory.d/THEORY-039.md)**, **[THEORY-782](../theory.d/THEORY-782.md).** An instance and an analogy only.
+- **[QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md)** (the owner's hunch: role abstraction and fibration
   structure). The paper is silent at the level of units and partitions.
   A route through symmetry is open: at zero bias the data is invariant
-  under relabelling; THEORY-981 holds that gradient descent then stays in
+  under relabelling; [THEORY-981](../theory.d/THEORY-981.md) holds that gradient descent then stays in
   the symmetric weight subspace; weight symmetry gives orbit synchrony
-  (THEORY-276), which balanced partitions generalize (THEORY-1065). The
+  ([THEORY-276](../theory.d/THEORY-276.md)), which balanced partitions generalize ([THEORY-1065](../theory.d/THEORY-1065.md)). The
   test is in the question.
-- Held neighbours the first search missed: THEORY-1009 (data statistics
-  gate the emergence of induction circuits), THEORY-117 and THEORY-794
-  (diversity and compositional generalization, LIT-667, which Li and Webb
-  cite), THEORY-264 (function vectors). Not held: Yang, Campbell, Huang,
+- Held neighbours the first search missed: [THEORY-1009](../theory.d/THEORY-1009.md) (data statistics
+  gate the emergence of induction circuits), [THEORY-117](../theory.d/THEORY-117.md) and [THEORY-794](../theory.d/THEORY-794.md)
+  (diversity and compositional generalization, [LIT-667](../literature.d/LIT-667.md), which Li and Webb
+  cite), [THEORY-264](../theory.d/THEORY-264.md) (function vectors). Not held: Yang, Campbell, Huang,
   Wang, Cohen and Webb 2025, "Emergent symbolic mechanisms support abstract
   reasoning in large language models", the paper this one extends.
 

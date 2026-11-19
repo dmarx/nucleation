@@ -29,7 +29,7 @@ summary: >-
   Suzuki, Li, Zurek (2026), Physical Review Letters, DOI 10.1103/fstv-lsvh. Per ChatGPT, machine learning predicts where topological defects
   will form from early fluctuations, asking when they are made. Here
   because it asks when a future individual becomes predictable before it
-  forms, which bears on QUESTION-281. Unverified until read.
+  forms, which bears on [QUESTION-281](../questions.d/QUESTION-281.md). Unverified until read.
 ---
 
 # LIT-tmpt20f5: Machine Learning Topological Defect Formation: When Are the Defects Made?
@@ -38,4 +38,4 @@ Suzuki, Li, Zurek (2026). Physical Review Letters, DOI 10.1103/fstv-lsvh.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". It asks when a future individual becomes predictable before it forms, which bears on QUESTION-281. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". It asks when a future individual becomes predictable before it forms, which bears on [QUESTION-281](../questions.d/QUESTION-281.md). Not read.

@@ -30,7 +30,7 @@ summary: >-
   10.1080/14649880600815982. Per ChatGPT, collective capabilities as
   distinct from individual ones within the capability approach. Here
   because A37 used it for individual capabilities made possible by a
-  collective, beside the owner's Sen connection, CLAIM-352. Unverified
+  collective, beside the owner's Sen connection, [CLAIM-352](../claims.d/CLAIM-352.md). Unverified
   until read.
 ---
 
@@ -40,4 +40,4 @@ Ibrahim (2006). Journal of Human Development, DOI 10.1080/14649880600815982.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A37 of the exchange "Topological protection explained". A37 used it for individual capabilities made possible by a collective, beside the owner's Sen connection, CLAIM-352. Not read.
+Registered on 2026-11-19 from A37 of the exchange "Topological protection explained". A37 used it for individual capabilities made possible by a collective, beside the owner's Sen connection, [CLAIM-352](../claims.d/CLAIM-352.md). Not read.

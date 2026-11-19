@@ -29,7 +29,7 @@ summary: >-
   Sun, Wang, Liu, Miller et al. (2019), arXiv 1909.13231. Test-time
   training with self-supervision under distribution shift. Here because
   the owner raised test-time training at U26; the record holds later TTT
-  work (LIT-801, LIT-796) but not this. Unverified until read.
+  work ([LIT-801](LIT-801.md), [LIT-796](LIT-796.md)) but not this. Unverified until read.
 ---
 
 # LIT-tmpklgue: Test-Time Training with Self-Supervision for Generalization under Distribution Shifts
@@ -38,4 +38,4 @@ Sun, Wang, Liu, Miller et al. (2019). arXiv 1909.13231.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A58 of the exchange "Topological protection explained". The owner raised test-time training at U26; the record holds later TTT work (LIT-801, LIT-796) but not this. Not read.
+Registered on 2026-11-19 from A58 of the exchange "Topological protection explained". The owner raised test-time training at U26; the record holds later TTT work ([LIT-801](LIT-801.md), [LIT-796](LIT-796.md)) but not this. Not read.

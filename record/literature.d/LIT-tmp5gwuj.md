@@ -28,7 +28,7 @@ summary: >-
   Mordvintsev, Randazzo, Niklasson, Levin (2020), Distill, DOI
   10.23915/distill.00023. Neural cellular automata trained to grow and
   regenerate patterns. Here because A15 used it to separate persistence
-  from regeneration, held as CLAIM-566. Unverified until read.
+  from regeneration, held as [CLAIM-566](../claims.d/CLAIM-566.md). Unverified until read.
 ---
 
 # LIT-tmp5gwuj: Growing Neural Cellular Automata
@@ -37,4 +37,4 @@ Mordvintsev, Randazzo, Niklasson, Levin (2020). Distill, DOI 10.23915/distill.00
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 used it to separate persistence from regeneration, held as CLAIM-566. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 used it to separate persistence from regeneration, held as [CLAIM-566](../claims.d/CLAIM-566.md). Not read.

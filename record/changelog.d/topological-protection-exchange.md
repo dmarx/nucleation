@@ -7,30 +7,30 @@
   already on the record, and the entry maps it turn by turn.
   - The owner's: the hypothesis that collapsing irrelevant distinctions
     into equivalence classes is how those classes are reified
-    (CLAIM-tmpw8xkt); constraints as amortized realizations
-    (CLAIM-tmpqpd2p); overconsolidation as a generalization of overfitting
-    (CLAIM-tmp8ljvp); questions on role abstraction and fibrations
-    (QUESTION-tmpex36a), optimal learning (QUESTION-tmpwqepn) and what it
-    is for a learning system to know (QUESTION-tmpo8ddc); the genres and
-    audiences example (CASE-tmpsjjgx); the Pythia study the owner asked
-    for (CASE-tmphsr99).
+    ([CLAIM-tmpw8xkt](record/claims.d/CLAIM-tmpw8xkt.md)); constraints as amortized realizations
+    ([CLAIM-tmpqpd2p](record/claims.d/CLAIM-tmpqpd2p.md)); overconsolidation as a generalization of overfitting
+    ([CLAIM-tmp8ljvp](record/claims.d/CLAIM-tmp8ljvp.md)); questions on role abstraction and fibrations
+    ([QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md)), optimal learning ([QUESTION-tmpwqepn](record/questions.d/QUESTION-tmpwqepn.md)) and what it
+    is for a learning system to know ([QUESTION-tmpo8ddc](record/questions.d/QUESTION-tmpo8ddc.md)); the genres and
+    audiences example ([CASE-tmpsjjgx](record/cases.d/CASE-tmpsjjgx.md)); the Pythia study the owner asked
+    for ([CASE-tmphsr99](record/cases.d/CASE-tmphsr99.md)).
   - A's, Proposed: dynamical against economic separation of time scales
-    (CLAIM-tmp449rr, ARG-tmpy9z67); three learning frontiers
-    (CLAIM-tmp1l2s7); an acquisition valued by its effect on later
-    acquisitions (CLAIM-tmp5gbzr, with CASE-tmpplox8 and ARG-tmpm8rng);
-    three questions (QUESTION-tmpcb0bf, QUESTION-tmp57ji2,
-    QUESTION-tmprj00l); a term, learning (TERM-tmp1ix99).
+    ([CLAIM-tmp449rr](record/claims.d/CLAIM-tmp449rr.md), [ARG-tmpy9z67](record/arguments.d/ARG-tmpy9z67.md)); three learning frontiers
+    ([CLAIM-tmp1l2s7](record/claims.d/CLAIM-tmp1l2s7.md)); an acquisition valued by its effect on later
+    acquisitions ([CLAIM-tmp5gbzr](record/claims.d/CLAIM-tmp5gbzr.md), with [CASE-tmpplox8](record/cases.d/CASE-tmpplox8.md) and [ARG-tmpm8rng](record/arguments.d/ARG-tmpm8rng.md));
+    three questions ([QUESTION-tmpcb0bf](record/questions.d/QUESTION-tmpcb0bf.md), [QUESTION-tmp57ji2](record/questions.d/QUESTION-tmp57ji2.md),
+    [QUESTION-tmprj00l](record/questions.d/QUESTION-tmprj00l.md)); a term, learning ([TERM-tmp1ix99](record/terms.d/TERM-tmp1ix99.md)).
   - Read: Gili et al. on fibration symmetry breaking in a language network
-    (LIT-tmp8nrv2) and Li and Webb on what drives symbolic mechanisms
-    (LIT-tmpqgxkn). Iqbal and Welling's workshop paper (LIT-tmp01nqp) is
-    Unfetched, with its authors' 2026 paper (LIT-tmpyahtz) read as a
-    stand-in for its thesis and AKOrN (LIT-tmpfy72n) skimmed.
+    ([LIT-tmp8nrv2](record/literature.d/LIT-tmp8nrv2.md)) and Li and Webb on what drives symbolic mechanisms
+    ([LIT-tmpqgxkn](record/literature.d/LIT-tmpqgxkn.md)). Iqbal and Welling's workshop paper ([LIT-tmp01nqp](record/literature.d/LIT-tmp01nqp.md)) is
+    Unfetched, with its authors' 2026 paper ([LIT-tmpyahtz](record/literature.d/LIT-tmpyahtz.md)) read as a
+    stand-in for its thesis and AKOrN ([LIT-tmpfy72n](record/literature.d/LIT-tmpfy72n.md)) skimmed.
   - Forty-five works the exchange cites registered unread (Deferred).
   - Dated notes on thirty entries.
 
 ### Changed
 
-- SYNTHESIS-096 v2 integrates the three frontiers, overconsolidation and
+- [SYNTHESIS-096](record/syntheses.d/SYNTHESIS-096.md) v2 integrates the three frontiers, overconsolidation and
   the Pythia study.
-- CLAIM-475's note of 2026-11-19 corrects its summary's identification of
-  amortization with CLAIM-478's separation of time scales.
+- [CLAIM-475](record/claims.d/CLAIM-475.md)'s note of 2026-11-19 corrects its summary's identification of
+  amortization with [CLAIM-478](record/claims.d/CLAIM-478.md)'s separation of time scales.

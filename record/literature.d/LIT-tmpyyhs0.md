@@ -28,7 +28,7 @@ implementations: []
 summary: >-
   Biderman, Schoelkopf, Anthony, Bradley et al. (2023), arXiv 2304.01373.
   A suite of language models released with checkpoints across training.
-  Here because it is the testbed of the owner-requested study, CASE-tmphsr99; many THEORY entries use its models without an entry for the
+  Here because it is the testbed of the owner-requested study, [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md); many THEORY entries use its models without an entry for the
   suite. Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
@@ -39,4 +39,4 @@ Biderman, Schoelkopf, Anthony, Bradley et al. (2023). arXiv 2304.01373.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A52 of the exchange "Topological protection explained". It is the testbed of the owner-requested study, CASE-tmphsr99; many THEORY entries use its models without an entry for the suite. Not read.
+Registered on 2026-11-19 from A52 of the exchange "Topological protection explained". It is the testbed of the owner-requested study, [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md); many THEORY entries use its models without an entry for the suite. Not read.

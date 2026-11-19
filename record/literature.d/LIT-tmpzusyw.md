@@ -29,7 +29,7 @@ summary: >-
   Velarde, Parra, Hashemi, Makse (2026), arXiv 2609.01768. Per ChatGPT,
   fibrations and coverings emerge in trained MLPs, CNNs, RNNs and
   transformers, linked to compression and plasticity. Here because it is
-  the evidence on the fibration side of the owner's U9 hunch, QUESTION-tmpex36a. Unverified until read.
+  the evidence on the fibration side of the owner's U9 hunch, [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md). Unverified until read.
 ---
 
 # LIT-tmpzusyw: Emergence of Fibrations, Compression, and Symmetry Breaking in Artificial Neural Networks
@@ -38,4 +38,4 @@ Velarde, Parra, Hashemi, Makse (2026). arXiv 2609.01768.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A21 of the exchange "Topological protection explained". It is the evidence on the fibration side of the owner's U9 hunch, QUESTION-tmpex36a. Not read.
+Registered on 2026-11-19 from A21 of the exchange "Topological protection explained". It is the evidence on the fibration side of the owner's U9 hunch, [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md). Not read.

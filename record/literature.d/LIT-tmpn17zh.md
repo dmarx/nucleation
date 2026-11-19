@@ -28,8 +28,8 @@ summary: >-
   Rupe, Crutchfield (2018), arXiv 1801.00515. Per ChatGPT, local causal
   states that identify coherent structures in spatiotemporal systems by
   their predictive light cones. Here because it is the spatiotemporal form
-  of the causal state the record holds as TERM-062, and one of the
-  criteria QUESTION-tmpcb0bf compares. Unverified until read.
+  of the causal state the record holds as [TERM-062](../terms.d/TERM-062.md), and one of the
+  criteria [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md) compares. Unverified until read.
 ---
 
 # LIT-tmpn17zh: Local Causal States and Discrete Coherent Structures
@@ -38,4 +38,4 @@ Rupe, Crutchfield (2018). arXiv 1801.00515.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". It is the spatiotemporal form of the causal state the record holds as TERM-062, and one of the criteria QUESTION-tmpcb0bf compares. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". It is the spatiotemporal form of the causal state the record holds as [TERM-062](../terms.d/TERM-062.md), and one of the criteria [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md) compares. Not read.

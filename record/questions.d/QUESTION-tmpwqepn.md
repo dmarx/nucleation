@@ -18,10 +18,10 @@ summary: >-
   context-relative definition and an open problem; A50 §8 and A71 §13
   asked the narrower form, when learning widens the frontier of future
   learning rather than concentrating present competence. The record holds
-  the parts: capability trajectories (CLAIM-675), the conditional value of
-  keeping a corrective capacity (CLAIM-520), resource-indexed repertoires
-  (CLAIM-576, CLAIM-697), and the questions a realized specification
-  makes askable (CLAIM-475). The question's wording is the filer's,
+  the parts: capability trajectories ([CLAIM-675](../claims.d/CLAIM-675.md)), the conditional value of
+  keeping a corrective capacity ([CLAIM-520](../claims.d/CLAIM-520.md)), resource-indexed repertoires
+  ([CLAIM-576](../claims.d/CLAIM-576.md), [CLAIM-697](../claims.d/CLAIM-697.md)), and the questions a realized specification
+  makes askable ([CLAIM-475](../claims.d/CLAIM-475.md)). The question's wording is the filer's,
   joining the owner's U21 to A's open problems.
 ---
 <!-- inactive-ok-file: LIT-tmphr4nm — Deferred; cited in this filing of 2026-11-19 -->
@@ -56,25 +56,25 @@ learning, rather than merely concentrating present competence".
   Pareto, viability or robustness where no scalar exists. Optimal learning
   is a policy over that trajectory, not the best final model (A71 §9).
   Meta-learning's objective already targets future adaptability (A54 §3;
-  LIT-tmphr4nm), so the record's addition can only be the resource and
+  [LIT-tmphr4nm](../literature.d/LIT-tmphr4nm.md)), so the record's addition can only be the resource and
   repertoire accounting, not the objective.
 - **Robust and open-ended forms** (A48 §5): a max–min over a family of
   task distributions; empowerment as a measure of flexibility
-  (THEORY-1344), which is not substantive freedom (CLAIM-352).
+  ([THEORY-1344](../theory.d/THEORY-1344.md)), which is not substantive freedom ([CLAIM-352](../claims.d/CLAIM-352.md)).
 - **Not maximum learning** (A48 §3): information that changes no
-  consequential decision is not worth acquiring (CLAIM-520).
+  consequential decision is not worth acquiring ([CLAIM-520](../claims.d/CLAIM-520.md)).
 - **Investment across acquisitions**: an acquisition can be worth making
   for what it does to the cost of other acquisitions, even at a loss on
-  its own (CLAIM-tmp5gbzr).
-- **The three frontiers** (CLAIM-tmp1l2s7): operational, developmental
+  its own ([CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)).
+- **The three frontiers** ([CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md)): operational, developmental
   and inquiry capability move separately, so no single frontier is the
   objective.
-- **The failure** to avoid: overconsolidation (CLAIM-tmp8ljvp).
+- **The failure** to avoid: overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)).
 
 ## What would answer it
 
 A definition that ranks learning policies in a stated class of
 environments and survives the case where the task distribution itself
 depends on what the learner becomes, with a measurable proxy for the
-developmental frontier. CASE-tmphsr99 proposes the measurement for one
+developmental frontier. [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) proposes the measurement for one
 family of models.

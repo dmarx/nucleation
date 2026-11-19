@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Bardes, Ponce, LeCun (2021), arXiv 2105.04906. Per ChatGPT, variance,
   invariance and covariance terms that prevent representational collapse.
-  Here because A27 used it as a non-collapse mechanism; LIT-228 reads it
+  Here because A27 used it as a non-collapse mechanism; [LIT-228](LIT-228.md) reads it
   as Laplacian eigenmaps but there was no entry for the work itself.
   Unverified until read.
 ---
@@ -38,4 +38,4 @@ Bardes, Ponce, LeCun (2021). arXiv 2105.04906.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 used it as a non-collapse mechanism; LIT-228 reads it as Laplacian eigenmaps but there was no entry for the work itself. Not read.
+Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 used it as a non-collapse mechanism; [LIT-228](LIT-228.md) reads it as Laplacian eigenmaps but there was no entry for the work itself. Not read.

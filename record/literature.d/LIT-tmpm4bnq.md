@@ -29,7 +29,7 @@ summary: >-
   Raghu, Raghu, Bengio, Vinyals (2019), arXiv 1909.09157. Per ChatGPT,
   MAML's success comes mostly from feature reuse, not rapid learning. Here
   because A54 used it to separate reusable structure from the capacity to
-  acquire structure, a clause of CLAIM-tmp8ljvp. Unverified until read.
+  acquire structure, a clause of [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -39,4 +39,4 @@ Raghu, Raghu, Bengio, Vinyals (2019). arXiv 1909.09157.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 used it to separate reusable structure from the capacity to acquire structure, a clause of CLAIM-tmp8ljvp. Not read.
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 used it to separate reusable structure from the capacity to acquire structure, a clause of [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md). Not read.

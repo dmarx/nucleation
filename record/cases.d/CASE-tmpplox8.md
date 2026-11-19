@@ -47,7 +47,7 @@ Checked by computation on 2026-11-19.
 A rule that acquires a competence only when its own savings exceed its
 own cost rejects P and Q both and acquires nothing; the best policy
 acquires both, P first. P's value lies almost wholly in what it does to
-Q's cost. In TERM-117's terms P is a productive nucleus for Q: its
+Q's cost. In [TERM-117](../terms.d/TERM-117.md)'s terms P is a productive nucleus for Q: its
 establishment improves the resource-feasible accessibility of forming Q
 against the comparator of not having it.
 

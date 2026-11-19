@@ -86,9 +86,9 @@ The third region, a gap closing with the regime and its behaviour intact, still 
 
 Two readings filed from this exchange bear here, and both already carry bears_on to this question. Neither is a gap in a block, so both bear on the question's last part: which of regime and observable function changed.
 
-- **THEORY-tmpvtafk** (Iqbal and colleagues, read). In networks with equivariant middle layers, trainability at great depth turns on with the symmetry-breaking transition at σ_W = 1. In generic networks the same order parameter turns on and brings no gain. So one dynamical transition coincides with a functional change in one family and comes apart from it in another.
-- **THEORY-tmp8my3p** (Gili and colleagues, read). A balanced partition changes between rest and task. There is no parametrized family and no dynamics, and behaviour changes too, so it fills none of the three regions.
+- **[THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md)** (Iqbal and colleagues, read). In networks with equivariant middle layers, trainability at great depth turns on with the symmetry-breaking transition at σ_W = 1. In generic networks the same order parameter turns on and brings no gain. So one dynamical transition coincides with a functional change in one family and comes apart from it in another.
+- **[THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md)** (Gili and colleagues, read). A balanced partition changes between rest and task. There is no parametrized family and no dynamics, and behaviour changes too, so it fills none of the three regions.
 
-A12 §5 proposed measuring an order parameter, a defect density or persistence statistic and a task-relevant information measure beside the loss as noise varies in Iqbal and Welling's model, to see which transition explains the change in performance. The noise level it reports (about 0.0046) is unverified: the paper, LIT-tmp01nqp, is Unfetched.
+A12 §5 proposed measuring an order parameter, a defect density or persistence statistic and a task-relevant information measure beside the loss as noise varies in Iqbal and Welling's model, to see which transition explains the change in performance. The noise level it reports (about 0.0046) is unverified: the paper, [LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md), is Unfetched.
 
 The question stays open. No status change.
