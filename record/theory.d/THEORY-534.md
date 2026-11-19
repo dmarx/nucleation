@@ -106,4 +106,4 @@ general proof. Neither happened.
   information-geometry holdings may want it as history.
 
 ## Note of 2026-11-19: Carnap, read
-Consistent, from 1950 (NOTE-tmpgrtgu): Carnap reports maximum likelihood's validity as still disputed, doubts its values on small samples and accepts it as a large-sample approximation (§98), and calls the statistical theory of estimation of the time "a startling spectacle of unsolved controversies and mutual misunderstandings".
+Consistent, from 1950 ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): Carnap reports maximum likelihood's validity as still disputed, doubts its values on small samples and accepts it as a large-sample approximation (§98), and calls the statistical theory of estimation of the time "a startling spectacle of unsolved controversies and mutual misunderstandings".

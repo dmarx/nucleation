@@ -23,7 +23,7 @@ summary: >-
   `draws_on` to claims and cases; leaving it to prose.
 ---
 <!-- inactive-ok-file: CLAIM-472 TERM-tmp1ix99 — Proposed; the record's ground for the form, and the term of its first application -->
-<!-- inactive-ok-file: THEORY-tmpai35t THEORY-1797 — Proposed; the readings that carry the form's provenance -->
+<!-- inactive-ok-file: THEORY-1797 — Proposed; the readings that carry the form's provenance -->
 
 # ADR-tmptwlsg: An ARG may conclude a TERM, as an explication: that the definition does its declared job better than its predecessor and rivals, judged by Carnap's adequacy conditions; the verdict is the argument's and adoption stays the term's status, and the term's `argued_by` is derived
 

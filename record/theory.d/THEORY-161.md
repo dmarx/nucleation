@@ -150,4 +150,4 @@ p(S|y) when the posterior is p(S|x) can reach 2 d_TV. Whether frameworks
 beyond these two share their form is [QUESTION-177](../questions.d/QUESTION-177.md).
 
 ## Note of 2026-11-19: Carnap, read
-Background (NOTE-tmpgrtgu): the logical probability m in Carnap and Bar-Hillel's semantic entropy, which this account leaves outside its frameworks, is the regular measure over state-descriptions defined in Carnap 1950 (§55); its content is the class of excluded state-descriptions (§73, credited to Popper).
+Background ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): the logical probability m in Carnap and Bar-Hillel's semantic entropy, which this account leaves outside its frameworks, is the regular measure over state-descriptions defined in Carnap 1950 (§55); its content is the class of excluded state-descriptions (§73, credited to Popper).

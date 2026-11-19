@@ -99,4 +99,4 @@ wording of the same definitions, which still holds them for arbitrary
 outcome spaces.
 
 ## Note of 2026-11-19: Carnap, read
-A parallel from Carnap (NOTE-tmpgrtgu), not evidence: his comparative confirmation is, like Blackwell's order, defined by agreement across every admissible measure, with incomparability where they disagree (§§81–82). The claim is unchanged.
+A parallel from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)), not evidence: his comparative confirmation is, like Blackwell's order, defined by agreement across every admissible measure, with incomparability where they disagree (§§81–82). The claim is unchanged.

@@ -121,4 +121,4 @@ accumulation of negligible rounding errors.
   thesis predates it.
 
 ## Note of 2026-11-19: Carnap, read
-A related bound (NOTE-tmpgrtgu): high confirmation is not transitive, but a cumulative chain keeps it high "provided the chain is not too long" (Carnap 1950, §59), the same accumulation of small losses this account bounds by counting conjuncts.
+A related bound ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): high confirmation is not transitive, but a cumulative chain keeps it high "provided the chain is not too long" (Carnap 1950, §59), the same accumulation of small losses this account bounds by counting conjuncts.

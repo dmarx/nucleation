@@ -123,4 +123,4 @@ read the same day, states αH_N for the limit only, as the review does
 ([THEORY-1043](THEORY-1043.md)). The title and status are unchanged.
 
 ## Note of 2026-11-19: Carnap, read
-Background (NOTE-tmpgrtgu): the finite model here is exchangeable over objects, which Carnap requires of any adequate confirmation function as symmetry (§§90–91).
+Background ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): the finite model here is exchangeable over objects, which Carnap requires of any adequate confirmation function as symmetry (§§90–91).

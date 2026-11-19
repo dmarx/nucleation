@@ -102,4 +102,4 @@ fail at its unargued premise, or at the reply to the division of labour.
   descriptive (fn. 8).
 
 ## Note of 2026-11-19: Carnap, read
-Compatible (NOTE-tmpgrtgu). Carnap puts acceptance and decision outside inductive logic (§§44A, 50); costs of error enter only through utilities in the rule of maximizing estimated utility, which "is not a moral rule but a rule of applied logic" (§51). Values never change the degree of confirmation. He avoids acceptance altogether, which is where this account locates inductive risk.
+Compatible ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). Carnap puts acceptance and decision outside inductive logic (§§44A, 50); costs of error enter only through utilities in the rule of maximizing estimated utility, which "is not a moral rule but a rule of applied logic" (§51). Values never change the degree of confirmation. He avoids acceptance altogether, which is where this account locates inductive risk.
