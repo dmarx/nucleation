@@ -210,3 +210,20 @@ Neither bears on the claim's time course. Anguita and colleagues ([THEORY-tmppm9
 
 ## Note of 2026-11-19: Brown and colleagues, and Howard and Ruder, read
 Neither reading bears on the claim's time course; pretraining length is varied in neither. A terminological caution from Howard and Ruder ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): their "catastrophic forgetting" is loss of the pretrained benefit on the target task, read off rising validation error and conflated by them with overfitting, not collateral loss of held capabilities, which is the forgetting version 2 counts as cost. Not a forgetting case for this claim.
+
+## Note of 2026-11-19: the data-scheduling readings, read
+Three parallels, none the claim's signature. Liu and colleagues ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)): in a 160M checkpoint series, in-domain loss after fine-tuning is flat after about 40B tokens and general loss after fine-tuning slightly rises late, within the bands, at most a faint version of Springer and colleagues' pattern. Hu and colleagues ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)): "there is an optimal duration after which additional formal language pre-pretraining leads to less effective transfer overall", continued first-phase training raising the cost of a later family outside its distribution, without the first phase's own objective or held capabilities reported. Gururangan and colleagues ([NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md)) measure general-domain loss rising after domain adaptation, on a shifted distribution, not continued stabilization. The claim is unchanged.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp1mk7r THEORY-tmpgk8nb THEORY-tmpmy98s THEORY-tmpsewbi — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Hernandez and colleagues ([THEORY-tmp1mk7r](../theory.d/THEORY-tmp1mk7r.md), corroborates) give independent
+evidence: in the high-data regime, pretraining leaves small models unable
+to reach from-scratch performance even with 10 to 100 times the data that
+saturates them, which the authors call ossification; forgetting is not
+measured, and they flag tuning as a possible remedy. Stern and colleagues
+([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) show collateral forgetting of a first phase at an abrupt
+switch, part of its cost. The procedural paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) finds a
+first phase driven to too low a loss worsens later transfer, small-scale.
+Akter and colleagues ([THEORY-tmpgk8nb](../theory.d/THEORY-tmpgk8nb.md)) qualify: reasoning-rich pretraining
+does not worsen later fine-tuning at 8B and 1T tokens, one run per arm.

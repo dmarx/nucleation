@@ -154,3 +154,16 @@ Design points from two readings. Anguita and colleagues ([NOTE-tmpr453b](../note
 
 ## Note of 2026-11-19: Brown and colleagues, and Howard and Ruder, read
 Design points. Howard and Ruder ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): labelled examples needed to match a comparator is a ready form for the primary estimand, and shows that what the comparator holds fixed must be stated; the fine-tuning protocol alone moves acquisition cost greatly (on TREC-6 from 5.69 to 16.09 error across methods), so it must be fixed and calibrated in advance; and access to unlabelled task text is part of the declared learning interface. Brown and colleagues ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): accuracy against the number of in-context examples by size is the shape the in-context arm needs, but its estimand should be examples to a threshold, which they do not compute; and their smallest models degrade with more examples on some tasks, a floor for 70M and 160M models beside Pan and colleagues'.
+
+## Note of 2026-11-19: the data-scheduling readings, read
+Design points. Liu and colleagues ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)) ran the nearest design: the same model family and sizes, a checkpoint series each fine-tuned, forgetting scored on the pretraining distribution. They trained from scratch, measured final loss after four epochs rather than budget to a threshold, and chose learning rates on one checkpoint, which can bias late checkpoints under a cosine schedule, a confound this case already notes. Chen and colleagues ([NOTE-tmpwrmog](../notes.d/NOTE-tmpwrmog.md)): steps to a loss threshold is the estimand's form, and their pairwise probe runs are a cheap way to find which earlier skills lower a later cost. Hu and colleagues ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)): a matched natural-language first phase is the control that separates content from schedule.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp5jrhv THEORY-tmpfvaag THEORY-tmpngig0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Several follow-up readings show what this study would add. Nishida and
+colleagues ([THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md)) run a checkpoint pipeline on Pythia that
+measures alignment, not cost; Blakeney and colleagues ([THEORY-tmpfvaag](../theory.d/THEORY-tmpfvaag.md))
+and Feng, Prabhumoye and colleagues ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md)) report end-of-run
+scores without a cost to a threshold. None prices a later acquisition by
+checkpoint.
