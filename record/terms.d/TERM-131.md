@@ -116,3 +116,24 @@ cost. A caution from the attribution studies ([THEORY-2060](../theory.d/THEORY-2
 [THEORY-2058](../theory.d/THEORY-2058.md)): alignment of an update with a run's endpoint or a target is not
 learning from the experience in this term's sense, which needs a
 counterfactual.
+
+## Note of 2026-11-19: identifiability and localization of what is retained (the owner)
+<!-- inactive-ok-file: CLAIM-519 CLAIM-tmpvnjh2 THEORY-2058 THEORY-2059 THEORY-2060 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+The owner (2026-11-19) proposed distinguishing learning merely persisted
+into a stable representation from learning that is concretely indexable,
+then sharpened it to identifiability against localization. Version 2 makes
+in-context learning count by declaring the episode-system, but treats
+retention in the context and in the weights alike. They differ: context
+retention is localized (the demonstrations have positions) and identified
+by deleting an item; weight retention is identified only by retraining or
+attribution (THEORY-2059, THEORY-2058, THEORY-2060) and has no address; a
+located circuit may be one of several sufficient ones and so not
+identified (THEORY-966); and competent behaviour need not establish any
+internal model (CLAIM-519). CLAIM-tmpvnjh2 states that the two properties
+come apart in all four combinations; QUESTION-tmpihjeu asks which of them
+fixes a learner's boundary and its individuation by history. A candidate
+version 3 would ask a claim using this term to say which kind of retention
+it means, localized or identified-but-distributed; it waits on the owner's
+ruling. THEORY-1024 suggests a third property, editability, that comes
+apart from localization.
