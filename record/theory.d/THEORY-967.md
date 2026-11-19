@@ -100,3 +100,6 @@ The promote_when above.
 - **[LIT-1534](../literature.d/LIT-1534.md).** Elhage et al.'s mathematical framework is where the
   two-layer attention-only setting and the QK/OV reading of heads used
   here come from; its path expansion is [THEORY-988](THEORY-988.md).
+
+## Note of 2026-11-19: Hu, Petty, Shi, Merrill and Linzen, read
+A parallel ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)): here bracket-matching heads arise from natural text; there a bracket corpus seeds heads later used for natural text.

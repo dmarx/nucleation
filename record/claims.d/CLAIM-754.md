@@ -120,3 +120,17 @@ ChatGPT (A80) proposed a test of the inquiry frontier: after a learner has a str
 <!-- inactive-ok-file: THEORY-tmppm9la — Proposed; cited from the readings of 2026-11-19 -->
 
 Anguita and colleagues ([THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md), corroborates; [NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): in diagonal linear networks with pretraining exact, every relative scale between the layers gives the same pretrained function, the same present capability, yet a different inductive bias for fine-tuning, a different developmental frontier: "even though in diagonal linear networks, the relative scale λP T does not impact the inductive bias of pretraining, it does impact the learned hidden representation and therefore the inductive bias of fine-tuning". And which initialization is best reverses with the declared fine-tuning task: "the optimal learning regime will depend on the task parameters". Independent evidence for the frontiers coming apart, in a solvable model; nothing on their moving in opposite directions over training. McDermott and colleagues ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)) give an analogy only: which later tasks benefit depends on their agreement with the pre-training graph.
+
+## Note of 2026-11-19: Brown and colleagues, and Howard and Ruder, read
+Parallels from two readings. Brown and colleagues ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)) treat in-context use and fine-tuning as distinct "points on this spectrum" of task-specific data, with in-context use bounded by its own budget, the context window: the developmental frontier is indexed by admissible procedures, as the claim says. Howard and Ruder ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): one pretrained model reaches a target at very different cost under different fine-tuning procedures (last layer only, full, gradual unfreezing). Neither compares learners of equal present competence, so neither shows the frontiers coming apart.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp1mk7r THEORY-tmpgk8nb THEORY-tmpmy98s — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Parallels from the follow-up readings, none naming this claim: the
+procedural paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) finds the same first phase lowers some
+later costs and raises others, with the best transferring component
+differing by domain; Hernandez and colleagues ([THEORY-tmp1mk7r](../theory.d/THEORY-tmp1mk7r.md)) find
+whether pretraining helps depends on later data and size; Akter and
+colleagues ([THEORY-tmpgk8nb](../theory.d/THEORY-tmpgk8nb.md)) find pretraining choices that barely move
+base scores move what fine-tuning reaches. Analogies.

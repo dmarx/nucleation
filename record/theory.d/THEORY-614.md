@@ -155,3 +155,6 @@ hidden delimiter states by per-example factors and Assumption 2's c₁–c₄
 ratios ([LIT-797](../literature.d/LIT-797.md), Appendix B), is still neither read nor re-derived;
 [NOTE-633](../notes.d/NOTE-633.md) did not follow the appendices. [CLAIM-543](../claims.d/CLAIM-543.md) now cites it as
 corroboration, not as a ground.
+
+## Note of 2026-11-19: Brown and colleagues, read
+A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): a theory of the recognition end of Brown and colleagues' spectrum, with GPT-3's few-shot behaviour the phenomenon explained.

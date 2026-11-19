@@ -56,3 +56,19 @@ Extended pre-training improves the base model steadily. For a modification of fi
 
 ## Note of 2026-11-19: Anguita and colleagues, read
 A contrast ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): Anguita and colleagues vary initialization, not pretraining length, and measure only fine-tuning error, so their account says nothing about catastrophic overtraining or forgetting.
+
+## Note of 2026-11-19: Howard and Ruder, read
+A parallel ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): Howard and Ruder also find that full fine-tuning at an aggressive rate loses the pretrained benefit and that a gentler schedule keeps it; they do not vary pretraining length.
+
+## Note of 2026-11-19: the data-scheduling readings, read
+Two parallels. Gururangan and colleagues ([NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md)): more relevant continued pretraining helps and irrelevant hurts, so content, not only length, decides. Liu and colleagues ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)) cite this account and find at most a faint version of its pattern at 160M, and suggest midtraining "may prevent overtraining", untested.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Yıldız and colleagues ([THEORY-tmpvbozh](THEORY-tmpvbozh.md)) find Llama2-7B, pretrained on 2T
+tokens, degraded by small-domain continued pretraining where GPT2-XL is
+not, which fits this account but which the authors attribute to domain
+size; pretraining length is not varied. Akter and colleagues
+([THEORY-tmpgk8nb](THEORY-tmpgk8nb.md)) find no worsening of later fine-tuning from reasoning-rich
+pretraining. Analogies.

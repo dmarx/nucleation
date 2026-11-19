@@ -112,3 +112,6 @@ the signal, against manuscript §5.
 
 [CLAIM-118](CLAIM-118.md) is now stated the same way and is Active, so the premise the note
 above waited on is held.
+
+## Note of 2026-11-19: Brown and colleagues, read
+A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): in Brown and colleagues' few-shot setting the context carries signal and the weights carry the interpreter, which changes only in pretraining.
