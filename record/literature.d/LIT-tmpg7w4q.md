@@ -32,6 +32,7 @@ summary: >-
   offers; A69 named this as prior art for structure learning, beside
   THEORY-564. Unverified until read.
 ---
+<!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpg7w4q: Active inference and artificial reasoning
 

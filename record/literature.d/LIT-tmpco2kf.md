@@ -33,6 +33,7 @@ summary: >-
   learning. Here because it bears on overconsolidation, CLAIM-tmp8ljvp,
   beside THEORY-1353. Unverified until read.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpco2kf: Maintaining Plasticity in Deep Continual Learning
 

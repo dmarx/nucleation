@@ -34,6 +34,8 @@ summary: >-
   context for the architecture of LIT-tmp01nqp; it stands in for none of
   that work's results.
 ---
+<!-- inactive-ok-file: NOTE-tmpdcvze — Skimmed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpfy72n: Artificial Kuramoto Oscillatory Neurons
 

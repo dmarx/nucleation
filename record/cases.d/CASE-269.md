@@ -126,3 +126,11 @@ within the models. A's own rule applies: "a construction should count as
 evidence for the distinction it actually separates, not automatically as
 support for a broad interpretation of what the distinction means in human
 organizations."
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A10 §6 proposed a program that would extend this testbed. Its kink is driven with a support term u and noise, and coupled to a Dirac field, so the bound state's energy and localization become a further observable. Its readouts include the response to withdrawing u, the probability of formation and of recovery, and the resource cost of transitions. A10 §6 also proposed letting a secondary order ψ condense at the wall, and asking whether it changes the formation of a larger target, as a candidate productive nucleus in TERM-117's sense.
+
+A presented the program as "the most promising next step" and named CASE-266 and CASE-267 as what it extends. It did not cite this case, which already holds the property table, the kink–antikink run and a nucleus that lowers a barrier through a mediator. What the program adds here is the bound-state observable, the support withdrawal on the kink itself, and the interfacial order as a nucleus. Whether such bound or interfacial modes could come to maintain the kink that localizes them is QUESTION-tmp57ji2.
+
+No status change.

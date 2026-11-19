@@ -31,6 +31,7 @@ summary: >-
   Here because it is the testbed of the owner-requested study, CASE-tmphsr99; many THEORY entries use its models without an entry for the
   suite. Unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpyyhs0: Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
 

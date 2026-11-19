@@ -13,6 +13,7 @@ history:
     filer rechecked every quotation below against the PDF text.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: THEORY-039 THEORY-264 THEORY-782 THEORY-794 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp70cux: Li and Webb 2026 — What drives the emergence of symbolic mechanisms in large language models?
 
@@ -78,7 +79,7 @@ before a symbolic one.
   A clean instance: every architecture can represent the symbolic
   solution; data diversity decides whether training reaches it and when,
   and at small vocabularies extra training reaches it late. Training is
-  finite, so "never reached" is unshown.
+  finite, so that it is never reached is unshown.
 - **CLAIM-567** (feasible, reachable, reliably reached). Corroborates: two
   task-solving solutions are feasible, and data and capacity decide which
   one training reaches first.

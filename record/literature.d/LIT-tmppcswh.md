@@ -29,6 +29,7 @@ summary: >-
   recognition from task learning in in-context learning. Here because A56
   proposed its controls for CASE-tmphsr99. Unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmppcswh: What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning
 

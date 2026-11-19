@@ -45,6 +45,7 @@ summary: >-
   CASE-179. `published:` is the Research Square preprint's date, the
   earliest Crossref gives.
 ---
+<!-- inactive-ok-file: CLAIM-618 THEORY-tmp8my3p — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp8nrv2: Fibration symmetry-breaking supports functional transitions in a brain network engaged in language
 

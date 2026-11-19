@@ -31,6 +31,7 @@ summary: >-
   CLAIM-tmp8ljvp, and the Pythia study CASE-tmphsr99. Unverified until
   read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpq5g0q: Overtrained Language Models Are Harder to Fine-Tune
 

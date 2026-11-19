@@ -32,6 +32,7 @@ summary: >-
   because A15 set it against learned defects; the record's mechanical
   neighbours are THEORY-1893 and THEORY-1408. Unverified until read.
 ---
+<!-- inactive-ok-file: THEORY-1408 THEORY-1893 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp8sgre: Racetrack Computing with a Topological Boundary Ratchet
 

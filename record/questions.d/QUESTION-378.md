@@ -79,3 +79,11 @@ and Lubensky) would answer it in part.
 An instance in which coupled rigid parts gained a freedom, with no
 condition on when. The readings show the same coupling can as easily
 give a stressed interface.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A gives two field-theoretic routes to new freedom at an interface. First, a wall has modes of its own that neither phase has: a translational zero mode, ripples along it in higher dimensions, and spin waves guided along magnetic walls (A4 §6, A7 §2A). They exist even where the bulk has no Goldstone mode, and pinning can gap them (A4 §6). CASE-267 runs that case: a pinning bump changes whether the kink's centre attracts. Second, where the order parameter is small at a wall, a competing order can condense there, since the effective coefficient a_ψ + gφ² can turn negative (A7 §4). A calls this "a new instability enabled by the structure of the domain wall". It is a mechanism by which an interface gains degrees of freedom, under the stated condition of competing orders.
+
+A7 §4 calls the ordered interface "an autonomous lower-dimensional phase". That means a phase with its own symmetry and excitations, not autonomy in TERM-088's sense. Whether such interface freedoms could come to maintain the wall that localizes them is QUESTION-tmp57ji2.
+
+No status change.

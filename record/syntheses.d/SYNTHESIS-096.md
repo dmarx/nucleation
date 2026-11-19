@@ -3,8 +3,19 @@ number: 96
 status: Proposed
 formerly:
 - SYNTHESIS-tmp42cg7
-title: 'What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner''s claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner''s claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant''s claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost'
-version: 1
+title: 'What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner''s claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner''s claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant''s claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; two proposed studies that would separate loss from readdressing, interference, suppression and higher cost; the assistant''s three frontiers (operational, developmental, inquiry) that move separately; the owner''s generalization of overfitting to overconsolidation, better now and dearer to teach; and a proposed Pythia study of it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Integrates three entries filed on 2026-11-19 from the exchange
+    "Topological protection explained": CLAIM-tmp1l2s7 (the three
+    frontiers), CLAIM-tmp8ljvp (overconsolidation) and CASE-tmphsr99
+    (the Pythia study). They extend this part's question from whether a
+    retained capability is accessible to what training does to what can
+    still be acquired. The refreshed synthesis of that exchange (A71) was
+    audited for this revision; nothing it adds beyond these is filed.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the learned-structure line (latent capability, how it is
@@ -25,6 +36,9 @@ integrates:
 - CASE-271
 - CASE-274
 - CASE-275
+- CLAIM-tmp1l2s7
+- CLAIM-tmp8ljvp
+- CASE-tmphsr99
 summary: >-
   The account of the latent-capability part of the learned-structure line,
   filed at the synthesis review of 2026-11-18. All six components were
@@ -33,8 +47,9 @@ summary: >-
   realizability. It maps them and adds nothing.
 ---
 <!-- inactive-ok-file: SYNTHESIS-042 SYNTHESIS-097 CLAIM-698 CLAIM-697 CLAIM-695 CLAIM-699 CASE-271 CASE-274 CASE-275 CLAIM-576 CLAIM-182 TERM-118 THEORY-1880 THEORY-1908 ADR-075 — Proposed; the components, the entries they cite and the decisions this account follows -->
+<!-- inactive-ok-file: CLAIM-tmp1l2s7 CLAIM-tmp8ljvp CASE-tmphsr99 — Proposed; integrated at v2 from the exchange "Topological protection explained" -->
 
-# SYNTHESIS-096: What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost
+# SYNTHESIS-096: What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; two proposed studies that would separate loss from readdressing, interference, suppression and higher cost; the assistant's three frontiers (operational, developmental, inquiry) that move separately; the owner's generalization of overfitting to overconsolidation, better now and dearer to teach; and a proposed Pythia study of it
 
 ## The account
 
@@ -74,6 +89,18 @@ summary: >-
   transformation, "relative to the declared readers, contexts and
   budgets" of [CLAIM-697](../claims.d/CLAIM-697.md).
 
+- **What can still be acquired.** CLAIM-tmp1l2s7 (A's; Proposed) rests on
+  CLAIM-697 and makes its set the operational frontier, beside a
+  developmental frontier (what can be learned within an acquisition budget
+  and a declared learning interface) and TERM-092's inquiry frontier; it
+  says the three move separately. CLAIM-tmp8ljvp (the owner's
+  generalization of overfitting, A's wording; Proposed) names one pattern
+  of divergence, overconsolidation: the operational frontier grows while
+  the developmental one does not contain its predecessor. It takes
+  CLAIM-695 as its RL case. CASE-tmphsr99 (A's design, requested by the
+  owner; not run) measures it on Pythia checkpoints, with arms for
+  in-context learning, test-time training and CLAIM-697's sampling budget.
+
 ## The components
 
 - [CLAIM-697](../claims.d/CLAIM-697.md), the owner's idea in A's formalization, Proposed.
@@ -81,6 +108,9 @@ summary: >-
 - [CLAIM-699](../claims.d/CLAIM-699.md), the assistant's, filed at the owner's request, Proposed.
 - [CASE-271](../cases.d/CASE-271.md), A's construction, rebuilt from the text, Proposed.
 - [CASE-274](../cases.d/CASE-274.md) and [CASE-275](../cases.d/CASE-275.md), A's proposed studies, Proposed.
+- CLAIM-tmp1l2s7, A's, Proposed.
+- CLAIM-tmp8ljvp, the owner's generalization in A's wording, Proposed.
+- CASE-tmphsr99, A's design at the owner's request, Proposed.
 
 ## Links tested as claims
 

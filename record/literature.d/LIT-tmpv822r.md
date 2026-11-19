@@ -32,6 +32,7 @@ summary: >-
   (QUESTION-tmpcb0bf). LIT-647's text mentions it; it had no entry of its
   own. Unverified until read.
 ---
+<!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpv822r: Traveling Waves Integrate Spatial Information Through Time
 

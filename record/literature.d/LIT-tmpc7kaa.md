@@ -30,6 +30,7 @@ summary: >-
   actor-film example. Here because it is the standard method behind the
   owner's U10 genres example, CASE-tmpsjjgx. Unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmpsjjgx — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpc7kaa: Efficiently inferring community structure in bipartite networks
 

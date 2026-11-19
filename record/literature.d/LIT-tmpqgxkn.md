@@ -42,6 +42,7 @@ summary: >-
   fibrations is filed as QUESTION-tmpex36a; the paper itself says nothing
   at the level of units or partitions.
 ---
+<!-- inactive-ok-file: THEORY-tmpmtmq7 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpqgxkn: What drives the emergence of symbolic mechanisms in large language models?
 

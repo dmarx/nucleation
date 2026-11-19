@@ -29,6 +29,7 @@ summary: >-
   meta-learning can memorize tasks instead of learning to adapt. Here
   because A54 used it for meta-overfitting, a design rule of CASE-tmphsr99. Unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpws19o: Meta-Learning without Memorization
 

@@ -13,6 +13,8 @@ history:
     rechecked every quotation below against the PDF text.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpsdqio: Iqbal and others 2026 — Spontaneous symmetry breaking and Goldstone modes for deep information propagation
 

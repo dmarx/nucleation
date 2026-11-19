@@ -30,6 +30,7 @@ summary: >-
   pretraining weight decay improves later fine-tunability. Here because it
   would be a training regime that prevents overconsolidation (CLAIM-tmp8ljvp) and an arm of CASE-tmphsr99. Unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpkfcwr: Weight Decay Improves Language Model Plasticity
 

@@ -15,6 +15,7 @@ history:
     the filer rechecked every quotation below against the PDF text.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-618 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmphwnar: Gili and others 2024 — Fibration symmetry-breaking supports functional transitions in a brain network engaged in language
 

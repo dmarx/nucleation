@@ -28,6 +28,7 @@ summary: >-
   Rajendran, Irpan, Jang (2020), arXiv 2007.05549. Per ChatGPT, meta-augmentation as the remedy for memorization overfitting in meta-learning. Here because A54 used it beside Yin et al. for CASE-tmphsr99.
   Unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpjmy81: Meta-Learning Requires Meta-Augmentation
 

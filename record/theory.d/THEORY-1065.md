@@ -97,3 +97,13 @@ synchronous.
   arrows as a subset of C × C (Definition 2.1), one per ordered pair.
 - **Anything about nonidentical cells within a class.** ⋈ refines cell type
   (p. 628); synchrony of cells of different types is not defined here.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A17 §1 presented graph fibrations as new to the record. They are this theorem's structure under other names. Two cells in one fibre have isomorphic "input trees" (A17 §1), which is what a balanced partition asks of each class. "Graph fibration" is the term of Boldi and Vigna's work, not on the record, and DeVille and Lerman (LIT-tmp31ier, Deferred, unread) treat the maps between network dynamical systems that fibrations induce.
+
+Gili and colleagues (THEORY-tmp8my3p, read) apply the theorem in reverse: they infer the network whose coarsest balanced colouring equals an observed synchrony partition. They call an invariant partition proven to be synchronous. This account says it does not show that: invariance says nothing about whether the pattern attracts or will be seen. Velarde and colleagues (LIT-tmpzusyw, Deferred, unread) report that fibrations emerge in trained neural networks.
+
+The owner's U9 hunch, that the fibration approach relates to Li and Webb's symbolic mechanisms, is QUESTION-tmpex36a.
+
+No status change.

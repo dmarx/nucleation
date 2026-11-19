@@ -243,3 +243,9 @@ No status, title or warrant changes.
 ## Note of 2026-11-07: the horizon as part of the criterion, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A14 §4 cites this claim rightly and proposes "making the temporal horizon an explicit part of every substantial individuation claim", treating individuation as a "horizon-dependent claim about its dynamical organization" over a window τ_cycle ≪ τ_rel ≪ τ_maint. This claim names "the scale". The record's windows ([CLAIM-481](CLAIM-481.md)'s two clusters over 1/(κK) ≪ t ≪ 1/(κε), [CLAIM-157](CLAIM-157.md), [CLAIM-566](CLAIM-566.md)'s "specified horizon") show that the scale already includes a temporal horizon. Whether the criterion should name the horizon separately is left open. The proposal is A's; adopting it is the owner's call. No change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+Gili and colleagues (THEORY-tmp8my3p, read; A17 §2 reported the detail) corroborate the clause on crossing boundaries. At rest the two Broca regions share a fibre. In task, left Broca joins SMA and right Broca joins the Wernicke regions, so one system's rest and task partitions cross rather than nest. The support is narrower than the clause: the criterion, the coarsest balanced colouring that matches the observed synchrony, is the same in both states, and what differs is the state and the inferred network. So it shows crossing units under one criterion in two conditions, not under two criteria. The reading's front matter already carries corroborates CLAIM-405; the claim does not rest on it.
+
+No status change.

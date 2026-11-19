@@ -30,6 +30,7 @@ summary: >-
   because A56 used it for an in-context arm of CASE-tmphsr99. Unverified
   until read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpbi4vz: Which Attention Heads Matter for In-Context Learning?
 

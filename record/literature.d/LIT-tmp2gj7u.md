@@ -28,6 +28,7 @@ summary: >-
   Nichol, Achiam, Schulman (2018), arXiv 1803.02999. First-order meta-learning (Reptile). Here because A54 proposed it as a meta-trained arm
   of CASE-tmphsr99. Unverified until read.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp2gj7u: On First-Order Meta-Learning Algorithms
 

@@ -168,3 +168,11 @@ order K, as A21 said; the path graph for n = 10 gave λ₂ = 0.0979 against
 - **Stewart, Golubitsky and Pivato** ([NOTE-1217](../notes.d/NOTE-1217.md)) support only "invariant
   without being attracting" (p. 626), and as a scope statement rather than
   a result.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A26 §6 put a general form of this claim's dissipative case: "A dynamical process can make an equivalence relation approximately true by dissipating the differences that violate it." The owner, at U12, on that sentence: "reminds me of self supervised learning". The connection is recorded as the owner's.
+
+A27 §2 made it concrete. The alignment energy tr(ZᵀLZ), minimized by gradient flow, gives Laplacian diffusion of the representations along the edges that assert equivalence. That is consensus dynamics of this claim's kind: relative differences across an edge decay and the components of the graph survive. The SSL equivalence is held as LIT-228 (contrastive and non-contrastive methods as spectral embeddings) and LIT-249 (spectral contrastive loss). A27 §2 kept a limit: augmentation graphs may at first connect only views of the same instance, so classes across instances need further assumptions. A27 §2 also noted that pure diffusion collapses each component, so non-collapse terms are needed for an informative representation.
+
+Whether such collapse is how the classes become reified distinctions is the owner's U10 thesis, CLAIM-tmpw8xkt. No status change.

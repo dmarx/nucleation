@@ -28,6 +28,7 @@ summary: >-
   Finn, Abbeel, Levine (2017), arXiv 1703.03400. Model-agnostic meta-learning: training an initialisation for fast adaptation. Here because
   its objective already targets future adaptability, the disclaimer CLAIM-tmp8ljvp and QUESTION-tmpwqepn carry. Unverified until read.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmphr4nm: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 

@@ -31,6 +31,7 @@ summary: >-
   because A54 used it to separate reusable structure from the capacity to
   acquire structure, a clause of CLAIM-tmp8ljvp. Unverified until read.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpm4bnq: Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML
 

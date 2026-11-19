@@ -53,6 +53,7 @@ summary: >-
   unverified until read. Bears on CLAIM-606, CLAIM-694, THEORY-1507 and
   QUESTION-tmpcb0bf.
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 THEORY-1507 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp01nqp: Topological defects propagate information in deep neural networks
 

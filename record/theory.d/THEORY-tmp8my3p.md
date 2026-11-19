@@ -32,6 +32,7 @@ summary: >-
   that theorem in calling an invariant partition "proven to be
   synchronous", and it predicts no partition.
 ---
+<!-- inactive-ok-file: LIT-2249 — Deferred; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmp8my3p: Gili and colleagues infer, for a literature-based eleven-region language connectome, the subnetworks whose coarsest balanced colourings equal the group-average fMRI synchrony clusters at rest (four fibres) and in two speech tasks (five, one partition for both); the inferred networks have only the identity automorphism and their rest and task partitions cross, so the reported fibration symmetry breaking is a change of balanced partition imposed by the observed clusters, not predicted from structure
 

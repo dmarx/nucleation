@@ -17,6 +17,8 @@ summary: >-
   Kuramoto update, with the conditioning input acting as a symmetry-breaking
   field. Here as context for the architecture of LIT-tmp01nqp.
 ---
+<!-- inactive-ok-file: NOTE-tmpdcvze — Skimmed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpn978s: Miyato and colleagues build network layers from unit vectors on a sphere updated by a generalised Kuramoto rule with a data-dependent symmetry-breaking bias, and report that the bias and norm-based readouts are needed for stable training
 

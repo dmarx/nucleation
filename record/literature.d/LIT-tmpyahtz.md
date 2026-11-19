@@ -38,6 +38,8 @@ summary: >-
   its account is THEORY-tmpvtafk. A stand-in for LIT-tmp01nqp's thesis
   only.
 ---
+<!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpyahtz: Spontaneous symmetry breaking and Goldstone modes for deep information propagation
 

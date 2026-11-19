@@ -13,6 +13,8 @@ history:
     reader on 2026-11-19; the filer rechecked the quotations below.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: THEORY-1507 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpdcvze: Miyato and others 2024 — Artificial Kuramoto Oscillatory Neurons
 

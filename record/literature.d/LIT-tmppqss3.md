@@ -30,6 +30,7 @@ summary: >-
   meta-trained against forgetting, which bears on CLAIM-tmp8ljvp.
   Unverified until read.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmppqss3: Meta-Learning Representations for Continual Learning
 
