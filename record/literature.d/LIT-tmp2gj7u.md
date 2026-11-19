@@ -1,13 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-19, not read. Registered from A54 of the exchange
-  "Topological protection explained" (2026-11-18,
-  https://chatgpt.com/share/6afe6dd0-9d78-83ea-9782-f55680665dcf), where
-  ChatGPT cited it. No reading was attempted; a lawful copy has not been
-  sought.
+status: Active
 title: 'On First-Order Meta-Learning Algorithms'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -15,6 +9,13 @@ history:
     Filed, not read. Identifier checked on the arXiv API on 2026-11-19, no
     email address sent: v1 submitted 2018-03-08. Not held: no hit for the
     identifier, the title or Nichol in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmparjas, account THEORY-tmpbzf9h. URL read:
+    https://arxiv.org/pdf/1803.02999 (served arXiv:1803.02999v3, 22 Oct
+    2018; HTTP 200, application/pdf).
 tags:
 - learning-theory
 - anthology-candidate
@@ -25,8 +26,19 @@ first_author: 'Nichol'
 keywords: []
 implementations: []
 summary: >-
-  Nichol, Achiam, Schulman (2018), arXiv 1803.02999. First-order meta-learning (Reptile). Here because A54 proposed it as a meta-trained arm
-  of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Unverified until read.
+  Nichol, Achiam and Schulman (2018), OpenAI, arXiv 1803.02999. Reptile
+  meta-learns an initialization by repeatedly training on a sampled task
+  and moving the initialization toward the result; it matches MAML on few-
+  shot Omniglot and Mini-ImageNet with first-order gradients only, and a
+  Taylor expansion shows its update, like MAML's, is joint training plus a
+  term rewarding generalization between mini-batches of one task, a term
+  that grows with step size and inner steps and is absent at one step. The
+  authors suggest plain SGD does part of this already and that joint
+  training plus fine-tuning stays a strong baseline; their RL results were
+  negative. Here because A54 proposed it as the meta-trained arm of CASE-
+  tmphsr99: the reading supports it as a cheap arm, with joint training on
+  the same tasks as its control and the inner budget k fixed. Read in its
+  NOTE. Read in NOTE-tmparjas; its account is THEORY-tmpbzf9h.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 

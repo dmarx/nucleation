@@ -1,13 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-19, not read. Registered from A50 of the exchange
-  "Topological protection explained" (2026-11-18,
-  https://chatgpt.com/share/6afe6dd0-9d78-83ea-9782-f55680665dcf), where
-  ChatGPT cited it. No reading was attempted; a lawful copy has not been
-  sought.
+status: Active
 title: 'Maintaining Plasticity in Deep Continual Learning'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -15,6 +9,11 @@ history:
     Filed, not read. Identifier checked on the arXiv API on 2026-11-19, no
     email address sent: v1 submitted 2023-06-23. Not held: no hit for the
     identifier, the title or Dohare in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmpzn6c6, account THEORY-tmpgjb4y. URLs read:
 tags:
 - learning-theory
 - representation-learning
@@ -27,11 +26,22 @@ first_author: 'Dohare'
 keywords: []
 implementations: []
 summary: >-
-  Dohare, Hernandez-Garcia, Rahman, Mahmood et al. (2023), arXiv
-  2306.13812. Per ChatGPT, loss of plasticity in deep continual learning,
-  published in Nature (2024) as Loss of plasticity in deep continual
-  learning. Here because it bears on overconsolidation, [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md),
-  beside [THEORY-1353](../theory.d/THEORY-1353.md). Unverified until read.
+  Dohare, Hernandez-Garcia, Rahman, Mahmood and Sutton (2023), arXiv
+  2306.13812 (v3, "Maintaining Plasticity in Deep Continual Learning"),
+  published with Lan as "Loss of plasticity in deep continual learning",
+  Nature 632, 768-774 (2024), open access. On long sequences of new tasks
+  (Continual ImageNet, Permuted MNIST, class-incremental CIFAR-100, ant
+  locomotion with PPO), standard deep learning gradually loses the ability
+  to learn new tasks, which the authors keep distinct from forgetting. On
+  ImageNet it falls to about a linear network, and on CIFAR-100 below
+  retraining from scratch with old classes still trained. Small weights
+  with continual injection of randomness (Shrink and Perturb, and their
+  continual backpropagation) maintain plasticity, but all are applied from
+  the start, and none is tested as a late rescue. It is here for
+  overconsolidation (CLAIM-tmp8ljvp) beside THEORY-1353, whose depletion
+  reading it fits: plasticity is lost while the network keeps practising
+  on varied tasks. Read in its NOTE. Read in NOTE-tmpzn6c6; its account is
+  THEORY-tmpgjb4y.
 ---
 <!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 

@@ -1,0 +1,62 @@
+---
+status: Read
+paper: LIT-tmpn5ate
+title: 'Schoenholz and others 2017 — Deep Information Propagation'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    URL: https://arxiv.org/pdf/1611.01232 (HTTP 200, 2026-11-19; resolved to
+    arXiv v2, 4 Apr 2017, 18 pages). Kind of copy: arXiv preprint posted by
+    the authors (step 5: arXiv); header "Published as a conference paper at
+    ICLR 2017". Date: 2026-11-19. Nothing stopped the fetch. Text extracted
+    with pdftotext to dl/text.txt. Equations lose sub- and superscripts in
+    extraction; formulas below are paraphrased, not quoted. Read: abstract,
+    §1–§7 in full (background, depth scales, dropout, backpropagation,
+    experiments, discussion). Skimmed: appendix derivations 7.1–7.9
+    (headings and first steps only). Skipped: appendix 7.10 extra training
+    plots, references.
+date: '2026-11-19'
+---
+
+# NOTE-tmpaon0o: Schoenholz and others 2017 — Deep Information Propagation
+
+## Contribution
+
+Extends the mean-field theory of wide random networks (Poole et al. 2016) to say how far signals travel through depth. Near a fixed point, the variance of one input and the correlation of two inputs approach their limits exponentially, over depth scales ξq and ξc; ξc diverges at the order-to-chaos transition (χ1 = 1). A dual theory for gradients shows they vanish in the ordered phase and explode in the chaotic one, over the same scale. Experiments on fully connected tanh networks on MNIST and CIFAR-10 find networks trainable when depth is below about 6ξc, so very deep networks train only near criticality, and dropout, which removes the critical point, caps trainable depth.
+
+## Key results
+
+- **Depth scales (abstract, §3).** "We show the existence of depth scales that naturally limit the maximum depth of signal propagation through these random networks"; ξq and ξc "define depth-scales over which information may propagate about the magnitude of a single input and the correlation between two inputs respectively."
+- **Divergence at criticality (§3, Fig. 2).** In the ordered phase ξc is set by χ1 alone, and "ξc diverges at any order-to-chaos transition"; ξq stays finite and "significantly shorter than ξc".
+- **Dropout (§4, Fig. 3).** "even small amounts of dropout destroys the order-to-chaos critical point and consequently removes the divergence" in ξc.
+- **Gradients (§5, Fig. 4).** "The ordered and chaotic phases that Poole et al. (2016) identified correspond to regions of vanishing and exploding gradients, respectively"; at criticality "gradients should be stable regardless of depth"; checked on 240-layer, 300-wide random networks on MNIST.
+- **Trainability (§6, Fig. 5).** "networks appear to be trainable when L . 6ξc" (L ≲ 6ξc in the original), across MNIST and CIFAR-10, SGD and RMSProp, and training durations; "to train increasingly deep networks, one must generically be ever closer to criticality."
+- **Dropout limits depth (§6, Fig. 6).** "even extremely modest amounts of dropout limit the maximum trainable depth to about L = 100."
+- **Scope (§7).** The framework "does not apply to unbounded activations, such as rectified linear units", and applies "directly only to fully connected feed-forward networks".
+
+## Assumptions
+
+- Wide networks with i.i.d. Gaussian weights and biases; the mean-field (Gaussian pre-activation) approximation taken as given.
+- For gradients, forward and backward weights treated as independent.
+- Bounded nonlinearities (tanh in the experiments); constant width.
+- Trainability measured as training accuracy after a fixed number of steps, at learning rates chosen by grid search.
+
+## Concepts
+
+- **Order-to-chaos transition**: χ1 = 1, separating a phase where all inputs become correlated (c* = 1) from one where they decorrelate.
+- **Depth scales ξq, ξc, ξ∇**: lengths over which input magnitude, input correlation and gradient magnitude approach their fixed points.
+- **Edge of chaos / criticality**: initialization at the transition, where ξc diverges.
+- **Trainable region**: depth below a small multiple (about 6) of ξc.
+
+## Bearing on the record
+
+- **THEORY-tmpvtafk**: sets its baseline. This is the fine-tuned route to deep trainability that Iqbal and colleagues (LIT-tmpyahtz) position against: here correlations survive arbitrary depth only at a critical point, and depth must shrink as initialization moves away from it, whereas THEORY-tmpvtafk claims an O(1) Jacobian component over a whole broken-symmetry phase. Schoenholz et al. also make THEORY-tmpvtafk's dissociation intelligible: a generic network's own order parameter is the input correlation, whose survival through depth does carry trainability, but only at χ1 = 1. It does not test equivariant networks.
+- **QUESTION-281**: supports one route. The ordered phase erases the distinction between inputs (correlations go to 1) and the chaotic phase amplifies small differences until inputs decorrelate; the depth over which a distinction survives is ξc, finite except at the transition. It is a bifurcation of the layer map's correlation fixed point, at initialization only.
+- **QUESTION-125**: leaves open. A transition in the layer map (χ1 = 1) coincides with a change in what the network can be trained to do, but the paper says nothing about identifiable blocks.
+- **THEORY-187 / LIT-864** (Saxe et al., already held): consistent. Saxe et al.'s edge of chaos for orthogonal tanh networks at gain g = 1 is the same transition; this paper adds the depth scales and the dropout result.
+
+## Limitations
+
+Theory at initialization and in the mean-field limit; bounded activations and fully connected networks only; the 6ξc threshold is empirical and unexplained ("It would be interesting to understand why this is the case"); trainability, not generalization, is measured.

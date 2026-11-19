@@ -1,0 +1,65 @@
+---
+status: Read
+paper: LIT-tmp78co9
+title: 'Tandon and others 2025 — End-to-End Test-Time Training for Long Context'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    URL: https://arxiv.org/pdf/2512.23675 (HTTP 200, 2026-11-19; resolved to
+    arXiv v2, 31 Dec 2025, 29 pages). Kind of copy: arXiv preprint posted by
+    the authors (step 5: arXiv). Date: 2026-11-19. Nothing stopped the
+    fetch. Text extracted with pdftotext to dl/text.txt (Table 2 numbers
+    checked against a -layout extraction of the same PDF). Read: abstract,
+    §1–§5 in full (method, alternative derivation, all main results,
+    efficiency, related work, conclusion), author contributions. Skipped:
+    references; appendices A–D (toy setup, basic recipe and hyper-
+    parameters, baseline improvements, decoding-evaluation details), seen
+    only as cited from the main text.
+date: '2026-11-19'
+---
+
+# NOTE-tmp2v2zr: Tandon and others 2025 — End-to-End Test-Time Training for Long Context
+
+## Contribution
+
+Recasts long-context language modelling as continual learning. A standard Transformer with sliding-window attention keeps training at test time by next-token prediction on the context it reads, in mini-batches of 1K tokens, updating the MLPs of its last quarter of blocks; the context is thereby compressed into those weights. The initial weights are meta-learned at training time for the loss after test-time training (gradients of gradients), which is what makes it "end-to-end" at both levels. At 3B parameters and 164B tokens it scales with context length like full attention, with constant per-token latency, but fails recall tests that full attention passes.
+
+## Key results
+
+- **The move (§1).** "So what if we just continue training the language model at test time via next-token prediction on the given context?" The missing piece: "At training time, we were optimizing the model for its loss out of the box, not for its loss after TTT", resolved by meta-learning the initialization.
+- **Meta-learning is what makes it work (§2.2, Fig. 2).** In the toy model, "While TTT-naive performs only slightly better than the toy baseline, TTT-E2E performs almost as well as full attention." TTT-naive "has been the mainstream approach in the literature of dynamic evaluation".
+- **Headline (abstract, Fig. 1).** For 3B models, TTT-E2E "scales with context length in the same way as Transformer with full attention, while others, such as Mamba 2 and Gated DeltaNet, do not", and is "2.7× faster than full attention for 128K context".
+- **Storage size matters (§3.2, Fig. 4).** Updating 1 or 3 of 24 layers does not scale with context; 6 or 12 do, and 12 is no better than 6.
+- **Not just compensating for the window (§3.2).** With an 8K window equal to the pre-training context, TTT-E2E still lowers loss "by 0.018" on top of full attention.
+- **Focus on the present (§3.4, Fig. 6).** TTT-E2E is lower than full attention at every token index, most at early tokens; the authors' explanation: "the weights of TTT-E2E only need to be good at the present mini-batch of tokens, since TTT will produce future weights for the future tokens."
+- **Compression loses detail (§3.5, Table 2).** On needle-in-a-haystack, "Transformer with full attention dramatically outperforms the other methods, including ours, especially in long context"; e.g. pass-key retrieval at 128K, full attention 0.99, TTT-E2E 0.06.
+- **Cost moves into training (§3.7, Fig. 8).** "Training latency is a limitation": TTT-E2E training "is 1.2× faster than full attention at 128K context length, but 3.4× slower at 8K."
+- **Updates are per sequence.** "In all the forms of TTT discussed so far, the model is reset after each prediction" (§4.2); here the updated MLPs are reset at document boundaries (footnote 4), and the authors still call them "long-term memory" (§5).
+- **Linear attention as a special case (§2.4, footnote 1).** With a linear inner model and the gradient taken at W0, "TTT-KVB recovers linear attention".
+
+## Assumptions
+
+- Next-token prediction on the context is a useful training signal for later tokens of the same context.
+- A meta-learned initialization, trained with gradients of gradients over many sequences; only MLPs in the last quarter of blocks updated, with a frozen second MLP per updated block as safe storage against forgetting.
+- Pre-training on DCLM at 8K then extension fine-tuning on Books; models 125M–3B.
+
+## Concepts
+
+- **TTT-E2E**: test-time training whose inner loss is the network's own next-token loss and whose outer loop optimizes the loss after the inner updates.
+- **TTT-naive / dynamic evaluation**: test-time updating of weights trained only for their out-of-the-box loss.
+- **Inner and outer loop; fast and slow weights**: the weights updated per sequence and the meta-learned initialization that is updated only in training.
+- **Compression vs recall**: the context kept as gist in weights rather than verbatim in a cache.
+
+## Bearing on the record
+
+- **CLAIM-118**: supports, with an exhibit of the two timescales. The inner-loop weights are trained on the current sequence and reset at document boundaries, so by what they carry they are the signal, although they are weights; the meta-learned initialization, fixed after training and shaped by many earlier sequences, is the interpreter. The paper's own words, "long-term memory" for the per-sequence weights (§5), are the kind of mechanism-based naming the claim warns against.
+- **THEORY-439**: qualifies. Holding the context and training on it are again not interchangeable, but here in both directions: training on the context beats holding it on average loss at every token index, while holding it (full attention) beats training on it on verbatim retrieval (Table 2). The comparison is architecture-level, not same-model as in THEORY-439.
+- **QUESTION-095**: supports the reading of TTT as moving work with numbers. Meta-learning makes training 3.4× slower at 8K, buying constant-latency inference 2.7× faster at 128K; the compressed context is cheaper to use and loses the detail a later query may need (the needle), which is QUESTION-095's staleness cost in another form: what is precomputed is lossy.
+- **CASE-tmphsr99**: qualifies the TTT arm. Pythia checkpoints are not meta-learned for test-time updates, so test-time training on them is what this paper calls TTT-naive, which in its toy gains little over no TTT. A weak TTT arm across checkpoints may then reflect the missing outer loop, not the checkpoint's plasticity; the design should say so.
+- **THEORY-169**: supports by restatement: footnote 1 repeats that key–value-binding TTT with a linear inner model recovers linear attention.
+
+## Limitations
+
+Language-modelling loss and synthetic recall only; no downstream tasks beyond a decoding check scored by another model; three implementation choices the authors say may be "artifacts of our experimental setup"; training latency; scale up to 3B; baselines 4–6 run from others' code.

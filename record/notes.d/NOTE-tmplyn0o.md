@@ -1,0 +1,121 @@
+---
+status: Read
+paper: LIT-tmpws19o
+title: 'Yin and others 2020 — Meta-Learning without Memorization'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    URL read: https://arxiv.org/pdf/1912.03820 (served arXiv:1912.03820v3,
+    27 Apr 2020; HTTP 200, application/pdf). Kind of copy (step 5): arXiv
+    preprint posted by the authors, the ICLR 2020 camera-ready ("Published
+    as a conference paper at ICLR 2020" on each page); lawful. Date:
+    2026-11-19. Nothing stopped the fetch. Text extracted with pdftotext to
+    dl/text.txt. Read: abstract and sections 1-7 in full (memorization
+    problem and Definition 1, meta-regularization on activations and on
+    weights, the PAC-Bayes Theorem 1 statement, related work, sinusoid, pose
+    prediction, non-mutually-exclusive Omniglot/MiniImagenet, conclusion).
+    Skipped: appendix proofs (A.2-A.4), algorithm listings and dataset
+    details (A.5), appendix figures and Table 5 except as cited in the main
+    text; references.
+date: '2026-11-19'
+---
+
+# NOTE-tmplyn0o: Yin and others 2020 — Meta-Learning without Memorization
+
+## Contribution
+
+Yin, Tucker, Zhou, Levine and Finn (ICLR 2020) identify the memorization
+problem in meta-learning: when meta-training tasks are not mutually
+exclusive, so that one model can solve them all, a meta-learner can ignore
+the task training data and solve the training tasks zero-shot, reaching low
+meta-training loss while failing to adapt to new tasks. They formalize it
+information-theoretically and propose meta-regularization (MR), a penalty on
+the information stored in the meta-parameters (or in activations) that are
+not used for adaptation, motivated by a PAC-Bayes bound, for both MAML and
+conditional neural processes.
+
+## Key results
+
+- **The failure** (§1): "the meta-learner generalizes on meta-training
+  tasks, but fails to adapt when presented with training data from novel
+  tasks"; "the meta-learner memorizes a function that solves all of the
+  meta-training tasks, rather than learning to adapt".
+- **Distinct from standard overfitting** (§1): "a subtle form of task
+  overfitting, distinct from standard overfitting in supervised learning";
+  §5: "memorization occurs at the task level rather than datapoint level
+  and the model memorizes functions rather than labels"; §7: "a
+  function-level overfitting problem compared to the the standard
+  label-level overfitting".
+- **Definition 1** (§3): complete memorization is when "the learned model
+  ignores the task training data such that I(ŷ ∗ ; D|x∗ , θ) = 0".
+- **The memorizing solution scores better at training time** (§6.2):
+  "models that converge to a memorization solution have lower training
+  error than solutions which use the task training data, indicating a
+  clear need for meta-regularization".
+- **Two modes, chosen by the dynamics** (§6.2): "there are two modes of the
+  objective, one that corresponds to complete memorization and one that
+  corresponds to successful adaptation to the task data".
+- **Standard regularization does not fix it** (§6.2, Table 3): weight decay
+  and Bayes-by-Backprop on all weights leave CNP at 6.86 and 7.73 MSE
+  against MR-CNP's 2.89.
+- **Large gains on non-mutually-exclusive tasks** (§6.3, Table 4): NME
+  Omniglot 20-way 1-shot, MAML 7.8% vs MR-MAML 83.3%.
+- **Pre-update accuracy as diagnostic** (§6.3): "The high pre-update
+  meta-training accuracy and low meta-test accuracy are evidence of the
+  memorization problem".
+- **A knob between adapting and memorizing** (§6.2, Fig. 2): "β provides
+  us a knob with which we can control the degree to which the algorithm
+  adapts versus memorizes".
+
+## Assumptions
+
+- The task training data is necessary for new tasks (I(y*; D | x*) large).
+- Meta-test tasks come from a distribution related to meta-training tasks
+  (in the sinusoid study "The meta-training tasks are a proper subset of
+  the meta-test tasks").
+- The parameters can be split into those used for adaptation and those not.
+
+## Concepts
+
+- **Memorization problem** (complete meta-learning memorization).
+- **Mutually-exclusive vs non-mutually-exclusive task distributions**;
+  label shuffling as the usual way to make tasks mutually exclusive.
+- **Meta-regularization (MR)** on activations or on weights; MR-MAML,
+  MR-CNP.
+- **Pre-update vs post-update accuracy**.
+
+## Bearing on the record
+
+- **CASE-tmphsr99**: supports the meta-overfitting design rule A54 drew
+  from it, and sharpens it. The danger is not only unseen tasks but tasks
+  identifiable from the query input alone; the guard is tasks that are
+  mutually exclusive (the case's synthetic families, randomized per
+  example, already are) plus held-out families, and the diagnostic is
+  pre-update accuracy on meta-training tasks. Training dynamics pick
+  between a memorizing and an adapting mode, so seeds matter.
+- **CLAIM-tmp8ljvp**: qualifies it. Memorization is an observed case of
+  present training loss improving while the capacity to adapt is lost,
+  and the memorizing solution has lower training error. But the authors
+  name it overfitting, at the level of tasks, which is the first clause of
+  the claim's defeated_if: a candidate overconsolidation that is already a
+  named failure. The claim would need to say how it differs from
+  task-level overfitting (for instance, a learner whose adaptation cost
+  rises on families it was never meta-trained toward).
+- **CLAIM-tmp5gbzr**: supports, as an empirical ranking reversal: ranked by
+  training loss the memorizing solution wins; ranked by performance on new
+  tasks after adaptation, the adapting solution wins.
+- **QUESTION-tmpwqepn**: leaves open. It shows that even an objective that
+  targets future adaptability can be satisfied without adaptability when
+  the task family allows it, so targeting adaptability in the objective is
+  not enough; the structure of the training tasks matters.
+
+## Limitations
+
+- Small domains (sinusoid, Pascal3D pose with 50 training objects,
+  modified Omniglot and MiniImagenet); MAML and CNP only.
+- MR on activations can fail; only MR on weights is robust in their tests.
+- The PAC-Bayes argument motivates rather than proves the regularizer's
+  benefit at the settings used.
+- Nothing on large pretrained models or in-context learners.

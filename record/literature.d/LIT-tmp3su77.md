@@ -1,13 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-19, not read. Registered from A27 of the exchange
-  "Topological protection explained" (2026-11-18,
-  https://chatgpt.com/share/6afe6dd0-9d78-83ea-9782-f55680665dcf), where
-  ChatGPT cited it. No reading was attempted; a lawful copy has not been
-  sought.
+status: Active
 title: 'Barlow Twins: Self-Supervised Learning via Redundancy Reduction'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -15,6 +9,14 @@ history:
     Filed, not read. Identifier checked on the arXiv API on 2026-11-19, no
     email address sent: v1 submitted 2021-03-04. Not held: no hit for the
     identifier, the title or Zbontar in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmptbvgq, account THEORY-tmpanqm0. URL read:
+    https://arxiv.org/pdf/2103.03230 (HTTP 200, 2.43 MB PDF; header
+    "arXiv:2103.03230v3 [cs.CV] 14 Jun 2021"; first page "Proceedings of the
+    38th International Conference on Machine Learning, PMLR 139, 2021").
 tags:
 - representation-learning
 - anthology-candidate
@@ -25,10 +27,20 @@ first_author: 'Zbontar'
 keywords: []
 implementations: []
 summary: >-
-  Zbontar, Jing, Misra, LeCun et al. (2021), arXiv 2103.03230. Per
-  ChatGPT, self-supervised learning by redundancy reduction of the cross-correlation matrix. Here because A27 used it as a non-collapse
-  mechanism; [LIT-228](LIT-228.md) and others discuss it without an entry of its own.
-  Unverified until read.
+  Zbontar, Jing, Misra, LeCun, Deny (2021), ICML 2021 (PMLR 139), arXiv
+  2103.03230. The loss standardizes each embedding unit over the batch and
+  drives the cross-correlation matrix between two distorted views'
+  embeddings toward the identity. The diagonal makes the embedding
+  invariant to the distortions and the off-diagonal decorrelates its
+  units. It avoids collapse without negatives, predictors, stop-gradients
+  or large batches, keeps improving with very wide embeddings, and both
+  terms are needed: in the ablation, the off-diagonal term alone gives
+  0.1% linear accuracy, the diagonal alone 57.3%, the full loss 71.4%. The
+  information-bottleneck reading rests on a Gaussian assumption and stated
+  approximations, and there is no theorem. Here because A27 used it as a
+  non-collapse mechanism (CLAIM-481's note of 2026-11-19); LIT-228 holds
+  its CCA reading. Read in its NOTE. Read in NOTE-tmptbvgq; its account is
+  THEORY-tmpanqm0.
 ---
 
 # LIT-tmp3su77: Barlow Twins: Self-Supervised Learning via Redundancy Reduction

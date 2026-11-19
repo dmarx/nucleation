@@ -1,13 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-19, not read. Registered from A58 of the exchange
-  "Topological protection explained" (2026-11-18,
-  https://chatgpt.com/share/6afe6dd0-9d78-83ea-9782-f55680665dcf), where
-  ChatGPT cited it. No reading was attempted; a lawful copy has not been
-  sought.
+status: Active
 title: 'Agentic-TTT: Training test-time policy for test-time training'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -15,6 +9,13 @@ history:
     Filed, not read. Identifier checked on the arXiv API on 2026-11-19, no
     email address sent: v1 submitted 2026-10-08. Not held: no hit for the
     identifier, the title or Lu in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmp0i0a5, account THEORY-tmpddlli. URL:
+    https://arxiv.org/pdf/2610.12002 (HTTP 200, 2026-11-19; arXiv v1, 8 Oct
+    2026, 26 pages).
 tags:
 - representation-learning
 - learning-theory
@@ -26,10 +27,19 @@ first_author: 'Lu'
 keywords: []
 implementations: []
 summary: >-
-  Lu, Kankanhalli (2026), arXiv 2610.12002. Per ChatGPT, a learned policy
-  for when and how to update at test time. Here because A58 cited it for
-  learning when to update, which bears on [QUESTION-095](../questions.d/QUESTION-095.md). Unverified until
-  read.
+  Lu and Kankanhalli (2026), arXiv 2610.12002. Five test-time-training
+  methods become tools that produce reusable LoRA skills over a frozen
+  backbone, and a policy trained by distillation and GRPO decides per
+  query whether to answer directly, reuse a skill or build one, on utility
+  gain minus a compute penalty. On a benchmark deliberately enriched for
+  queries where adaptation helps, it raises Qwen2.5-7B's verified utility
+  from 0.256 to 0.510, cuts adaptation compute by about 30% under a
+  moderate penalty without losing utility, and amortizes skill
+  construction through reuse (61 of 100 reuses help, 1 harms). Here
+  because A58 cited it for learning when to update: its rule, build when
+  gain amortized over expected reuse covers the compute, is QUESTION-095's
+  trade and CLAIM-303's criterion for parameter skills. Read in its NOTE.
+  Read in NOTE-tmp0i0a5; its account is THEORY-tmpddlli.
 ---
 
 # LIT-tmpa8gus: Agentic-TTT: Training test-time policy for test-time training

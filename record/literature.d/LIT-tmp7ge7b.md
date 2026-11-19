@@ -1,13 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-19, not read. Registered from A54 of the exchange
-  "Topological protection explained" (2026-11-18,
-  https://chatgpt.com/share/6afe6dd0-9d78-83ea-9782-f55680665dcf), where
-  ChatGPT cited it. No reading was attempted; a lawful copy has not been
-  sought.
+status: Active
 title: 'MetaICL: Learning to Learn In Context'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -15,6 +9,14 @@ history:
     Filed, not read. Identifier checked on the arXiv API on 2026-11-19, no
     email address sent: v1 submitted 2021-10-29. Not held: no hit for the
     identifier, the title or Min in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmpbyao9, account THEORY-tmpnivm0. URL read:
+    https://arxiv.org/pdf/2110.15943 (HTTP 200, 590 KB PDF, arXiv v2 of 3
+    May 2022). Kind of copy: arXiv preprint (step 5, first place to look).
+    Date: 2026-11-19. Nothing stopped the fetch.
 tags:
 - representation-learning
 - learning-theory
@@ -26,9 +28,20 @@ first_author: 'Min'
 keywords: []
 implementations: []
 summary: >-
-  Min, Lewis, Zettlemoyer, Hajishirzi (2021), arXiv 2110.15943. Meta-training a language model to learn in context. Here because A54 named it
-  where meta-learning and in-context learning meet, the owner's U25 middle
-  ground. Unverified until read.
+  Min, Lewis, Zettlemoyer and Hajishirzi (2021; arXiv 2110.15943, v2 May
+  2022) fine-tune GPT-2 Large on 142 NLP datasets presented as few-shot
+  episodes, training it to predict the last example's output from the k
+  before it. On 52 held-out target tasks, with no parameter updates, the
+  meta-trained model beats plain in-context learning and multi-task zero-
+  shot transfer in most of seven splits. The gains are largest on targets
+  unlike the training tasks, and it matches a model 8x larger. Fine-tuning
+  after meta-training remains better, and without meaningful label words
+  every model falls near chance unless meta-trained on remapped labels.
+  Here because A54 named it where meta-learning and in-context learning
+  meet. It is the plainest case of outer training improving the
+  interpreter so that it uses the signal better (CLAIM-118), and of the
+  meta-learning arm of CASE-tmphsr99. Read in its NOTE. Read in NOTE-
+  tmpbyao9; its account is THEORY-tmpnivm0.
 ---
 
 # LIT-tmp7ge7b: MetaICL: Learning to Learn In Context
