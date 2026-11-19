@@ -29,7 +29,7 @@ summary: >-
   Anguita, Locatello, Saxe, Mondelli and Mancini (2026; ICML 2026, as
   ChatGPT says), arXiv 2602.20062. Here from A82, cited for how pretrained
   features are reused and refined in fine-tuning, after the owner's point
-  at U37. Bears on CLAIM-756. Unverified until read.
+  at U37. Bears on [CLAIM-756](../claims.d/CLAIM-756.md). Unverified until read.
 ---
 
 # LIT-tmplopzs: A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning

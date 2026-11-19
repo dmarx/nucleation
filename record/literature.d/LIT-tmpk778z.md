@@ -26,7 +26,7 @@ implementations: []
 summary: >-
   Krohn and Weninger (2022), arXiv 2203.10155. Here from A82, where
   ChatGPT cited it for links to subreddits that did not yet exist, often
-  jokes, leading to their creation. Bears on CASE-tmp6idy5. Unverified
+  jokes, leading to their creation. Bears on [CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md). Unverified
   until read.
 ---
 

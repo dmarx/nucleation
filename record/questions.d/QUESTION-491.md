@@ -95,4 +95,4 @@ No status change.
 ## Note of 2026-11-19: follow-up turns of "Topological protection explained"
 <!-- inactive-ok-file: CLAIM-tmpitvrh — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
-ChatGPT (A84) ranks this question specialized in its triage (CLAIM-tmpitvrh): "Identify exact conditions under which topological, predictive, and interventional criteria agree or diverge".
+ChatGPT (A84) ranks this question specialized in its triage ([CLAIM-tmpitvrh](../claims.d/CLAIM-tmpitvrh.md)): "Identify exact conditions under which topological, predictive, and interventional criteria agree or diverge".

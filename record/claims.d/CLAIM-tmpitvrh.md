@@ -21,13 +21,13 @@ answers:
 summary: >-
   ChatGPT's (A84 of the follow-up turns of the exchange "Topological
   protection explained", 2026-11-19), answering the owner's question of
-  how to triage open questions (QUESTION-tmpiualy): classify each by the
+  how to triage open questions ([QUESTION-tmpiualy](../questions.d/QUESTION-tmpiualy.md)): classify each by the
   kind of uncertainty it holds, write a short prospectus, and compare by
   four criteria; it adds "What would advance it?" to "What would answer
   it?" and a dependency graph among questions. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpiualy CLAIM-tmpkcdfh CLAIM-758 QUESTION-495 — Proposed or newly filed; cited in this filing -->
+<!-- inactive-ok-file: CLAIM-tmpkcdfh CLAIM-758 — Proposed or newly filed; cited in this filing -->
 
 # CLAIM-tmpitvrh: Open questions are best triaged by the kind of uncertainty each contains (conceptual, formal, explanatory, empirical, normative, historical), which fixes what can count as its next advance, and then compared by foundational leverage, discriminating power, tractability and generativity, with some attention kept for foundational questions that are not yet tractable
 
@@ -47,7 +47,7 @@ summary: >-
    attention for questions "that score poorly on immediate tractability
    but have unusually high foundational importance".
 4. **Kinds of result** that count: conceptual, formal, explanatory,
-   empirical, critical and normative (CLAIM-tmpkcdfh).
+   empirical, critical and normative ([CLAIM-tmpkcdfh](CLAIM-tmpkcdfh.md)).
 
 A84 proposed two changes to how questions are written, which would be
 decisions, not this claim: a section "What would advance it?" beside
@@ -60,20 +60,20 @@ A84 applied the record's own learning theory to it: "Our theory says that
 learning can be valuable because it reduces the cost of further learning.
 We should apply a similar principle to our own research practice." Without
 room for intractable foundational questions, "we'd reproduce the very
-overconsolidation problem we've been discussing" (CLAIM-758),
+overconsolidation problem we've been discussing" ([CLAIM-758](CLAIM-758.md)),
 optimizing the inquiry "for questions we already know how to answer". Its
 guiding principle: "Prioritize the research move that most improves the
 structure of the inquiry, not necessarily the one that produces the
-fastest answer." That is QUESTION-495 asked of the record itself.
+fastest answer." That is [QUESTION-495](../questions.d/QUESTION-495.md) asked of the record itself.
 
 ## A's first application
 
 A84 ranked the questions of the exchange: what makes learning optimal
-(QUESTION-495) and what it is for a learner to know (QUESTION-493)
-foundational; stored retrieval as amortized computation (QUESTION-095),
-the memory an active agent keeps (QUESTION-494), overconsolidation and
+([QUESTION-495](../questions.d/QUESTION-495.md)) and what it is for a learner to know ([QUESTION-493](../questions.d/QUESTION-493.md))
+foundational; stored retrieval as amortized computation ([QUESTION-095](../questions.d/QUESTION-095.md)),
+the memory an active agent keeps ([QUESTION-494](../questions.d/QUESTION-494.md)), overconsolidation and
 when an equivalence class becomes an operative unit high; the agreement
-of criteria for learned structure (QUESTION-491) specialized. It would
+of criteria for learned structure ([QUESTION-491](../questions.d/QUESTION-491.md)) specialized. It would
 start with what constitutes learning, knowledge and understanding in a
 historically organized system, and alongside it operative reification.
 Dated notes on those questions carry A84's next advances.

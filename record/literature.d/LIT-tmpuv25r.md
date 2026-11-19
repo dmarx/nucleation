@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpbivmm). The owner's own post, named by the
+  Read on 2026-11-19 ([NOTE-tmpbivmm](../notes.d/NOTE-tmpbivmm.md)). The owner's own post, named by the
   owner at U37 of the follow-up turns of the exchange "Topological
   protection explained" as a place to see communities forming
   subcommunities on Reddit.
@@ -34,7 +34,7 @@ summary: >-
   specialization forked from the larger community; monthly graphs
   flattened by the maximum weight, then clustered. Named by the owner at
   U37 as a place to see community-to-subcommunity evolution. Read in NOTE-
-  tmpbivmm; account THEORY-tmp5zxkk.
+  tmpbivmm; account [THEORY-tmp5zxkk](../theory.d/THEORY-tmp5zxkk.md).
 ---
 
 # LIT-tmpuv25r: Mapping reddit's active communities
@@ -43,4 +43,4 @@ David Marx (2017-01-01). "Mapping reddit's active communities", Dig That Data.
 
 ## Standing in the record
 
-The owner's own post, read on 2026-11-19 at the owner's pointer (NOTE-tmpbivmm, THEORY-tmp5zxkk).
+The owner's own post, read on 2026-11-19 at the owner's pointer ([NOTE-tmpbivmm](../notes.d/NOTE-tmpbivmm.md), [THEORY-tmp5zxkk](../theory.d/THEORY-tmp5zxkk.md)).

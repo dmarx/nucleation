@@ -27,7 +27,6 @@ summary: >-
   are one possible consequence of a good theory, not the sole measure of
   its progress".
 ---
-<!-- inactive-ok-file: QUESTION-tmpiualy — Open; filed with this claim -->
 
 # CLAIM-tmpkcdfh: Experiment is not the only way this inquiry advances: a distinction previous accounts conflate, a counterexample, a formal result or a critical result advances an open question without an experiment, so the questions the inquiry hopes to answer should choose its methods, and experiments among them
 
@@ -47,11 +46,11 @@ count as an explanation." It singled out the critical result, one that
 conclusion", with the record's own example: that a hard constraint added
 to a fixed dynamical system cannot enlarge what it can reach existentially
 is why the claim that constraints expand capabilities needs costs
-(CLAIM-761). "No new experiment was necessary to establish the
+([CLAIM-761](CLAIM-761.md)). "No new experiment was necessary to establish the
 distinction."
 
 ## What it does not say
 
 That experiments are not needed: where a question turns on what happens
 in the world, only observation answers it. Nor which questions come
-first; that is QUESTION-tmpiualy.
+first; that is [QUESTION-tmpiualy](../questions.d/QUESTION-tmpiualy.md).

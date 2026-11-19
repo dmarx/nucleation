@@ -13,7 +13,7 @@ promote_when: >-
   post, or by recomputing a few edges from the public comment data with
   the stated thresholds.
 summary: >-
-  From the reading of LIT-tmpuv25r in NOTE-tmpbivmm. The owner's own
+  From the reading of [LIT-tmpuv25r](../literature.d/LIT-tmpuv25r.md) in [NOTE-tmpbivmm](../notes.d/NOTE-tmpbivmm.md). The owner's own
   method, named at U37 as a place to see communities forming
   subcommunities. Proposed until its promote_when is met.
 ---

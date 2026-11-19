@@ -14,9 +14,9 @@ summary: >-
   run: "we should probably prioritize experimentation based on which open
   questions we hope to answer. I'm not sure what a good procedure for
   triaging them would be". ChatGPT's answer, a procedure by kind of
-  question and four criteria, is CLAIM-tmpitvrh. The owner's companion
+  question and four criteria, is [CLAIM-tmpitvrh](../claims.d/CLAIM-tmpitvrh.md). The owner's companion
   claim, that experiment is not the only way to progress, is
-  CLAIM-tmpkcdfh.
+  [CLAIM-tmpkcdfh](../claims.d/CLAIM-tmpkcdfh.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpitvrh CLAIM-tmpkcdfh — Proposed; filed with this question -->
 
@@ -38,6 +38,6 @@ or by which method.
 ## What would answer it
 
 A procedure the owner adopts, with a decision recording it, and its first
-application to the record's open questions. CLAIM-tmpitvrh is a
+application to the record's open questions. [CLAIM-tmpitvrh](../claims.d/CLAIM-tmpitvrh.md) is a
 candidate. Part of the question is whether such a procedure should rank
 at all, or only order questions by what each unlocks.

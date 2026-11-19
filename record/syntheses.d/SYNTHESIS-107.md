@@ -82,7 +82,7 @@ says it can hold without the next, and the test the record has for it.
    substantive only where the classes are closed under the system's
    operations and reused, and [CLAIM-154](../claims.d/CLAIM-154.md) says when a unit is worth
    naming. *Test:* [CASE-296](../cases.d/CASE-296.md)'s closure test and its intervention
-   arm; in a social system, the owner's Reddit case (CASE-tmp6idy5,
+   arm; in a social system, the owner's Reddit case ([CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md),
    proposed), where a joke or rivalry becomes a community people join and
    govern.
 2. **Operative unit → historical amortization.** Stated by
@@ -106,7 +106,7 @@ says it can hold without the next, and the test the record has for it.
    [CLAIM-758](../claims.d/CLAIM-758.md) (the owner's overconsolidation, where present
    competence rises as later acquisition gets costlier) and [CLAIM-605](../claims.d/CLAIM-605.md)
    (below a threshold the recursion traps instead of accumulating).
-   *Test:* CASE-tmp6idy5's developmental productivity, whether a
+   *Test:* [CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md)'s developmental productivity, whether a
    community makes its descendants cheaper to form (proposed).
 
 ## Not stated on the record

@@ -30,7 +30,7 @@ summary: >-
   Hessel, Tan and Lee (2016), arXiv 1612.07487 (ICWSM 2016). Here from
   A82, where ChatGPT cited it for highly related Reddit communities
   coexisting, and for users who join a related community becoming more
-  active, not less, in the original one. Bears on CASE-tmp6idy5.
+  active, not less, in the original one. Bears on [CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md).
   Unverified until read.
 ---
 

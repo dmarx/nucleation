@@ -28,7 +28,7 @@ summary: >-
   "Topological protection explained" (2026-11-19): "a sociological
   demonstration of this could be community->subcommunity evolution on
   reddit", pointing to the clusters of the owner's 2017 map
-  (LIT-tmpuv25r) and to "sports communities like college football and
+  ([LIT-tmpuv25r](../literature.d/LIT-tmpuv25r.md)) and to "sports communities like college football and
   associated per-team micro communities (many of which are motivated by
   stuff like inside jokes and rivalries)". The map documents nested
   communities and joke communities; the team communities are the owner's
@@ -47,7 +47,7 @@ abstractions become operative structures that change subsequent
 behavior" with a real case: "a sociological demonstration of this could
 be community->subcommunity evolution on reddit".
 
-- **On the owner's map** (THEORY-tmp5zxkk, NOTE-tmpbivmm), a small
+- **On the owner's map** ([THEORY-tmp5zxkk](../theory.d/THEORY-tmp5zxkk.md), [NOTE-tmpbivmm](../notes.d/NOTE-tmpbivmm.md)), a small
   subreddit nested in a large one shows as a directed edge into it, read
   as a specialization forked from the larger community; the map shows a
   large American sports cluster and microcommunities embedded in larger
@@ -64,7 +64,7 @@ be community->subcommunity evolution on reddit".
 A distinction that arises in interaction (a team, a rivalry, a joke)
 becomes something people can name, join, maintain and govern, which then
 organizes later activity, including further differentiation. ChatGPT
-(A82) put the contrast with CASE-296: "A genre cluster is initially
+(A82) put the contrast with [CASE-296](CASE-296.md): "A genre cluster is initially
 something an observer identifies. A subreddit is also something
 participants can join, maintain, govern, and reproduce." It proposed the
 sequence shared practice, recognizable distinction, named community,
@@ -73,7 +73,7 @@ formation: specializations of broad interests, identities anchored
 outside Reddit (teams), and identities arising inside it (jokes), the
 last being "potentially the cleanest example because the identity need
 not be imported from an established institution". It illustrates
-CLAIM-762's reification, socially.
+[CLAIM-762](../claims.d/CLAIM-762.md)'s reification, socially.
 
 ## The proposed study (A82)
 
@@ -89,15 +89,15 @@ CLAIM-762's reification, socially.
   possible descendants, whether C changes "the hazard or cost of forming
   viable members of D, relative to matched contexts lacking that parent
   organization": a social counterpart of the developmental frontier
-  (CLAIM-754), and of inherited organization as stored work (CLAIM-761).
+  ([CLAIM-754](../claims.d/CLAIM-754.md)), and of inherited organization as stored work ([CLAIM-761](../claims.d/CLAIM-761.md)).
 - **Cautions.** Controls for popularity, platform growth, external events
   and selection; and two senses of parent kept apart, "the source of
   early participants without being the organizational cause of the new
   group", or a continuing home community rather than a split.
 - **Prior work** (registered, unread): Hessel, Tan and Lee
-  (LIT-tmpdivuz), cited for users who join a related community becoming
+  ([LIT-tmpdivuz](../literature.d/LIT-tmpdivuz.md)), cited for users who join a related community becoming
   more active in the original one, so that differentiation need not
-  fragment; Krohn and Weninger (LIT-tmpk778z), cited for links to
+  fragment; Krohn and Weninger ([LIT-tmpk778z](../literature.d/LIT-tmpk778z.md)), cited for links to
   subreddits that did not yet exist, often jokes, leading to their
   creation, "symbolic reification becoming institutional construction" in
   A82's phrase.

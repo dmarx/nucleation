@@ -73,7 +73,7 @@ protection explained" as where communities forming subcommunities can be
 seen. The directed weight is a candidate signal for a parent and a
 specialization; flattening the months by their maximum removes the order
 in which communities formed, which a study of formation would need
-(CASE-tmp6idy5). The April Fools communities are joke distinctions that
+([CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md)). The April Fools communities are joke distinctions that
 became communities, and then lapsed.
 
 ## Limitations

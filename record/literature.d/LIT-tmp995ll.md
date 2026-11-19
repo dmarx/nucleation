@@ -31,7 +31,7 @@ summary: >-
   2023, DOI 10.1038/s42256-023-00647-z), arXiv 2103.10334. Here from A82,
   where ChatGPT cited it, after the owner said the pretraining literature
   ought to show that acquired organization makes later learning cheaper
-  (U37). Bears on CLAIM-756. Unverified until read.
+  (U37). Bears on [CLAIM-756](../claims.d/CLAIM-756.md). Unverified until read.
 ---
 
 # LIT-tmp995ll: Structure-inducing pre-training
