@@ -14,3 +14,13 @@ Verified: 2402.05785 Thomm+ (samples to learn composition vs relearning subtasks
 - Harlow 1949 Psychol Rev doi:10.1037/h0062474: metadata only (no abstract available); content not verified.
 - Sagiv/Musslick/Niv/Cohen arXiv 2007.03124 (to verify).
 Record check: none of the step-2/3 ids in literature.d except 2211.08422 (LIT-669). Record holds Skill-it!, procedural pretraining 2601.21725 (LIT-tmpb6e1c), grokking papers.
+
+## Step 4: section checks on top candidates (arXiv HTML)
+- 2310.10899 Zhang/Lepori/Pavlick: subtask S1 = a*b mod 7; T1 = a+ab, T2 = a^2+ab (shared g). Subnetwork for S1 found by mask in T1 model, transplanted frozen into fresh model trained on T2; controls full-model transfer, random same-size subnetwork, scratch; cost = disambiguating samples. "a randomly sampled subnetwork requires on average around 6 times as much data in order to reach perfect generalization accuracy". Best design match (a, partial c); no organization arm.
+- 2601.09049 He+: grokked vs "fake grokked" models at "comparable performance on original OOD facts", fine-tuned on 2,000 new atomic facts; "models still require either (i) an additional grokking phase, or (ii) substantially more finetuning data". (a qualitative, b approximate, no weight intervention.)
+- 2402.05785 Thomm+: joint training, no staged pretraining; "LLaMA obtains no significant benefit from learning the sub-tasks"; cost = samples to near-perfect accuracy.
+- 2209.07431 Ito+: primitives pretraining; vanilla needs up to 4.23x more samples; no lesion.
+- 2402.16726 Furuta+: frozen pre-grokked embedding or transformer, min training fraction to grok; transfer "limited to specific combinations".
+- 2506.13253 Lee+: no cost comparison, correlational probes only -> weak.
+- Also verified: 2007.03124 Sagiv+, 2007.07732 and 2207.00429 Mendez+, 2410.08194 Tahir+, 2007.10527 Ravi+. None in record.
+Conclusion: no work runs the full design (matched first stage across organizations + later cost + intervention on g).
