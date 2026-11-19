@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  The owner's own unfinished proposal, read on 2026-11-19 (NOTE-tmplqpif).
-  Worth holding as the design behind CASE-tmpoqr8p.
+  The owner's own unfinished proposal, read on 2026-11-19 ([NOTE-tmplqpif](../notes.d/NOTE-tmplqpif.md)).
+  Worth holding as the design behind [CASE-tmpoqr8p](../cases.d/CASE-tmpoqr8p.md).
 title: 'investigating identity formation as a concrete example of grokking dynamics (+ NameBasis)'
 version: 1
 history:
@@ -34,7 +34,7 @@ summary: >-
   weights when the model gives an identity its own concept direction.
   Measures proposed: rigidity of attributes across samples from a fixed
   prompt, embedding dispersion, attribute distributions. No results. Read
-  in NOTE-tmplqpif; account THEORY-tmp1xpyh. Published date is the
+  in [NOTE-tmplqpif](../notes.d/NOTE-tmplqpif.md); account [THEORY-tmp1xpyh](../theory.d/THEORY-tmp1xpyh.md). Published date is the
   earliest dated file of the implementation, not of this text.
 ---
 <!-- inactive-ok-file: CASE-tmpoqr8p THEORY-tmp1xpyh — newly filed in this contribution -->
@@ -48,4 +48,4 @@ bench-warmers repository; undated.
 ## Standing in the record
 
 Registered and read on 2026-11-19 at the owner's request, as the design
-behind CASE-tmpoqr8p.
+behind [CASE-tmpoqr8p](../cases.d/CASE-tmpoqr8p.md).

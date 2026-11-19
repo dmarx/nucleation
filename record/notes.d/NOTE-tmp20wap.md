@@ -46,7 +46,7 @@ encoder.
 
 ## Bearing on the record
 
-Supplies the measure for CASE-tmpoqr8p. Consistency is judged without
+Supplies the measure for [CASE-tmpoqr8p](../cases.d/CASE-tmpoqr8p.md). Consistency is judged without
 reference to the outside world, so the measure scores reliability, not
 correctness; a verifier for correctness (a face match against reference
 images) is an addition the case makes.

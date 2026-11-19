@@ -16,9 +16,9 @@ promote_when: >-
   probe or intervention finds a name-specific direction appearing at the
   stage where the identity becomes flexible.
 summary: >-
-  From the owner's unfinished proposal LIT-tmpevryj, read in
-  NOTE-tmplqpif. A hypothesis, not a finding; the design to test it is
-  CASE-tmpoqr8p. Proposed until its promote_when is met.
+  From the owner's unfinished proposal [LIT-tmpevryj](../literature.d/LIT-tmpevryj.md), read in
+  [NOTE-tmplqpif](../notes.d/NOTE-tmplqpif.md). A hypothesis, not a finding; the design to test it is
+  [CASE-tmpoqr8p](../cases.d/CASE-tmpoqr8p.md). Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: CASE-tmpoqr8p — newly filed in this contribution -->
 

@@ -17,7 +17,7 @@ summary: >-
   own concept, and measures over samples; no protocol, no training run, no
   results.
 ---
-<!-- inactive-ok-file: CLAIM-697 CLAIM-695 CLAIM-tmpvnjh2 QUESTION-tmpihjeu CASE-tmpoqr8p — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-697 CLAIM-695 CLAIM-tmpvnjh2 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmplqpif: The owner — investigating identity formation as a concrete example of grokking dynamics (+ NameBasis)
 
@@ -45,15 +45,15 @@ process the document does not run.
 
 ## Bearing on the record
 
-- CLAIM-697 and CLAIM-695 (the filer's reading): rigidity across samples is
+- [CLAIM-697](../claims.d/CLAIM-697.md) and [CLAIM-695](../claims.d/CLAIM-695.md) (the filer's reading): rigidity across samples is
 a reliability measure, so an identity hit only sometimes is a disposition
 reachable by sampling, and a rigid one is reliable; the transition between
-them in training is the regime CLAIM-695 describes, where a disposition
+them in training is the regime [CLAIM-695](../claims.d/CLAIM-695.md) describes, where a disposition
 reachable by search becomes cheap to realize.
-- CLAIM-tmpvnjh2 and QUESTION-tmpihjeu: the owner's question whether an
+- [CLAIM-tmpvnjh2](../claims.d/CLAIM-tmpvnjh2.md) and [QUESTION-tmpihjeu](../questions.d/QUESTION-tmpihjeu.md): the owner's question whether an
 identity gets its own concept direction or stays compositional is whether
 a learned identity, identifiable in behaviour, also becomes localized.
-- QUESTION-039: a hypothesis about the order and moment at which a structure
+- [QUESTION-039](../questions.d/QUESTION-039.md): a hypothesis about the order and moment at which a structure
 (an identity) is acquired.
 
 ## Limitations
