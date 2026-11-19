@@ -9,10 +9,10 @@
 
 ### Changed
 
-- TERM-131 version 2, at the owner's prompting: learning is relative to a
+- [TERM-131](record/terms.d/TERM-131.md) version 2, at the owner's prompting: learning is relative to a
   declared system and horizon, so in-context learning is episodic
   learning of a model running in an episode, and selection is learning
-  of a population declared as the system. ARG-119 version 3 records that
+  of a population declared as the system. [ARG-119](record/arguments.d/ARG-119.md) version 3 records that
   this settles its selection question. Brown and colleagues' reading now
-  corroborates CLAIM-756. A new lead (LEAD-tmp5lpoy) for the data-scheduling
+  corroborates [CLAIM-756](record/claims.d/CLAIM-756.md). A new lead ([LEAD-tmp5lpoy](record/leads.d/LEAD-tmp5lpoy.md)) for the data-scheduling
   literature the owner suggested.

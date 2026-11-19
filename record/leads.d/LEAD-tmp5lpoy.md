@@ -18,7 +18,7 @@ summary: >-
   The owner's suggestion of 2026-11-19: work on data scheduling may show,
   for example, that generic conversational text early in training makes
   later domain-specific text easier to learn. Ordering experiments have
-  the shape CLAIM-756 needs, an earlier acquisition and the measured cost
+  the shape [CLAIM-756](../claims.d/CLAIM-756.md) needs, an earlier acquisition and the measured cost
   of a later one, with and without it, which neither GPT-3 nor ULMFiT
   isolates.
 ---
@@ -41,7 +41,7 @@ colleagues, "Curriculum learning" (2009).
 
 ## What would count
 
-For CLAIM-756's premise: the data or compute needed to reach a level on a
+For [CLAIM-756](../claims.d/CLAIM-756.md)'s premise: the data or compute needed to reach a level on a
 later domain or skill, lower after an earlier one than without it, with
 the earlier one's cost stated. Against the stronger reading the owner's
 example suggests: the order not mattering once total data is fixed.

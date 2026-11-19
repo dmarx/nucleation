@@ -83,15 +83,15 @@ novo learning; contamination; amortized pretraining compute.
 
 ## Bearing on the record
 
-- **CLAIM-756.** Evidence for its premise: pretraining makes in-context
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** Evidence for its premise: pretraining makes in-context
   learning cheap, and a few demonstrations rival 125,000 fine-tuning
   examples. The comparisons are across model sizes and across systems,
   not one model with and without pretraining, and pretraining's cost is
   not set against the saving.
-- **TERM-131.** No weights change and nothing persists beyond the
+- **[TERM-131](../terms.d/TERM-131.md).** No weights change and nothing persists beyond the
   sequence; within it, the context is held state that changes later
   outputs, and the authors call it learning. At the owner's prompting,
-  TERM-131 version 2 makes the term relative to a declared system and
+  [TERM-131](../terms.d/TERM-131.md) version 2 makes the term relative to a declared system and
   horizon, so in-context learning is episodic learning of the model
   running in an episode, and pretraining is learning of the weights.
 - **[THEORY-2039](../theory.d/THEORY-2039.md)** (Pan and colleagues) operationalizes the question the

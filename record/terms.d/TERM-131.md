@@ -86,7 +86,7 @@ change that state and what the episode-system can do, against the
 counterfactual without them, so in-context learning is episodic learning
 of the episode-system, as memorization is episodic learning above. The
 weights alone do not learn in context. Whether demonstrations are counted
-as experience or as operating budget is the same choice in CLAIM-754's
+as experience or as operating budget is the same choice in [CLAIM-754](../claims.d/CLAIM-754.md)'s
 terms: as experience they move the episode-system's developmental
 frontier; as budget, its operational one. A claim using this term says
 which system and horizon it means.
@@ -99,6 +99,6 @@ against what counterfactual ([TERM-117](TERM-117.md)'s comparator). Self-formati
 ([TERM-099](TERM-099.md)) is a narrower sense, learning that the self governs.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-<!-- inactive-ok-file: CLAIM-697 THEORY-tmp8cm7r — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp8cm7r — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Brown and colleagues (THEORY-tmp8cm7r; NOTE-tmprmye5) prompted version 2. Their in-context learning "occurs within the forward-pass upon each sequence", with "no gradient updates or fine-tuning, just increasing numbers of demonstrations given as conditioning", and the authors call it learning ("the model really does appear to learn these tasks at test time"). A first reading of this note took the absence of weight changes to count against it. The owner's view, adopted in version 2, is that learning from context in activation space is learning: of the model running in an episode, over the episode. THEORY-169 (conditioning and per-sequence weight updates differ in what state is kept, not in kind) agrees: what differs is the system and horizon over which organization is retained, not the kind of change. Pretraining, the outer loop, is learning of the weights over the model's life.
+Brown and colleagues ([THEORY-tmp8cm7r](../theory.d/THEORY-tmp8cm7r.md); [NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)) prompted version 2. Their in-context learning "occurs within the forward-pass upon each sequence", with "no gradient updates or fine-tuning, just increasing numbers of demonstrations given as conditioning", and the authors call it learning ("the model really does appear to learn these tasks at test time"). A first reading of this note took the absence of weight changes to count against it. The owner's view, adopted in version 2, is that learning from context in activation space is learning: of the model running in an episode, over the episode. [THEORY-169](../theory.d/THEORY-169.md) (conditioning and per-sequence weight updates differ in what state is kept, not in kind) agrees: what differs is the system and horizon over which organization is retained, not the kind of change. Pretraining, the outer loop, is learning of the weights over the model's life.
