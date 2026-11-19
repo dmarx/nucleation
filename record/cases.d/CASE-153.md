@@ -52,6 +52,8 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
+<!-- inactive-ok-file: LIT-tmpg7w4q LIT-tmppd2x6 — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
@@ -189,3 +191,11 @@ The owner's U27 asked to "numerically simulate a dynamically maintained will org
 ## Note of 2026-11-04: Kaelbling, Littman and Cassandra, "Planning and acting in partially observable stochastic domains", read
 
 Read in [NOTE-1563](../notes.d/NOTE-1563.md) as the stand-in for Smallwood and Sondik (1973). The sentry's structure is a POMDP of the kind this paper formalizes: a hidden binary world, and an inspection that reveals it with 90% accuracy at a small cost. The paper's tiger problem has the same shape, a hidden two-valued state and a costly, noisy listening action, and there the optimal two-step policy "never chooses to act, only to listen" (§5.2, p. 120). The paper gives the case a standard formal reference: the belief state as sufficient statistic, and information actions valued within the model. It leaves open the sentry process's power to block inspection, which a single-agent POMDP does not represent. No status changes.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+Proposed again. At U31 the owner asked whether Friston or the FEP literature "might have some work or tools for us". A69 §7 answered with this case's design again and cited it: three hidden causal regimes, probes of different costs, a regime change detectable only "by choosing a probe the learner has become reluctant to use", and agents from random probing to structure-learning active inference (A69's table). A71 §10's Experiment I is the same world, read for learning.
+
+Two elements are new. A69 §7 would compare "making the relevant probe cheaper versus changing the learned model or inquiry policy", to distinguish "resource scarcity" from "organizational lock-in"; CLAIM-466 separates two kinds of lock-in in a similar way. And A71 §10 would "distinguish choosing among existing probes from actually acquiring the procedure needed to construct a new probe", the limit THEORY-564 finds in the 2020 structure-learning model, whose new categories occupy spare slots the designer supplied. Registered from the exchange, unread: Smith, Friston and Whyte's tutorial (LIT-tmppd2x6) and Friston et al. 2026 (LIT-tmpg7w4q). Not run.
+
+No status change.

@@ -61,6 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-191
 ---
+<!-- inactive-ok-file: LIT-tmpsp5bi — Deferred; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-817 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-026: For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
@@ -148,3 +149,11 @@ Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 07
 as Proposed, extending this entry. It carries the claim this entry's
 title gave up when batch 045 narrowed it: that once actions feed back on the drive, maximal prediction is generally not what thermodynamic efficiency requires, which Fiderer et al. assert from their one proved binary channel.
 This entry is its evidence and is not changed by the filing.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A65 §2 and A71 §5 report this account's scope correctly: nonnegativity holds "when the environmental drive is Markovian and independent of the memory's actions" (A65 §2), the conditions this entry derives, and both cite it. A64 noted that the record's reading holds "only under specific no-feedback assumptions". A67 §5 and A71 §5 then say an active learner breaks that condition: it "changes what it observes" (A71 §5), so the coupled agent–environment process needs its own model. The record's feedback side is THEORY-817 and Fiderer et al.'s one channel, which A did not cite. QUESTION-tmprj00l, filed from the exchange and refining QUESTION-191, asks whether a dissipation-minimizing memory in such a loop keeps the interventional partition, the predictive one, or neither.
+
+A65 §3 also cited Still 2020 (LIT-tmpsp5bi, registered unread), which on A's account minimizes a thermodynamic lower bound on dissipation to derive a bottleneck that keeps predictive information. If it holds, it is this account carried to a design objective for memory.
+
+No status change.

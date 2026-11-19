@@ -100,6 +100,7 @@ summary: >-
 bears_on:
 - QUESTION-366
 ---
+<!-- inactive-ok-file: CLAIM-tmp1l2s7 CLAIM-tmp449rr CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1056 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1643 LIT-1662 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
@@ -324,3 +325,11 @@ A79 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 This is the first stage, F, of the six filed as [CLAIM-732](CLAIM-732.md). A relays this claim and [CLAIM-406](CLAIM-406.md) as "Nucleation's inquiry-frontier research" and "Nucleation's Active [CLAIM-406](CLAIM-406.md)"; both are the owner's (U17 of the exchange of 2026-10-27, and U24 of 2026-10-20), which A does not say.
 
 No status changes.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A correction of wording. This claim's summary says a stable specification's amortization "is a separation of time scales", citing CLAIM-478. A39 §3 distinguishes dynamical separation (fast deviations relax, leaving a slow variable) from economic separation (costly formation, cheap repeated use): "A stable slow variable might save no work". That distinction is filed as CLAIM-tmp449rr, with CASE-116 as witness. The summary's identification holds only in the economic sense; the summary's text is left as it stands.
+
+At U17 the owner endorsed A37's "stored inquiry" and its "Questions that could not previously be formulated within a given resource budget have become askable" as "this neighborhood of inquiry": this claim, the owner's own. A39 §6's askable set Q_ask and A71 §6's inquiry frontier restate TERM-092, which A did not cite. CLAIM-tmpqpd2p files the owner-endorsed constraint-as-amortization thesis that carries this claim's stored inquiry to constraints in general, and CLAIM-tmp1l2s7 makes the inquiry frontier one of three.
+
+No status change.

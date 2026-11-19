@@ -61,6 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-065
 ---
+<!-- inactive-ok-file: THEORY-tmp8my3p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-174 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 

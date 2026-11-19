@@ -80,6 +80,8 @@ summary: >-
   decline", and the proposed study is [CASE-262](../cases.d/CASE-262.md). The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpkfcwr LIT-tmpq5g0q — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-tmp1l2s7 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-1847 THEORY-1839 THEORY-1848 THEORY-1863 THEORY-1856 THEORY-343 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-105 THEORY-1841 THEORY-1844 THEORY-1845 THEORY-1850 THEORY-1852 THEORY-1857 THEORY-1860 THEORY-1866 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -191,3 +193,11 @@ Readings of 2026-11-13 and a recheck.
 ## Note of 2026-11-13: on the flourishing-and-meaning line
 
 The claim takes the line flourishing-and-meaning ([ADR-099](../decisions.d/ADR-099.md)), as that decision proposed. The filing of the exchange's Convivial Modernity programme added a claim beside it: [CLAIM-676](CLAIM-676.md) holds that assistance delivering the same outcome can differ in the participation in worthwhile activity it leaves the person, liberating, enabling or displacing. That claim complements this one: this one needs capacity that decays with disuse and compares supports over time; that one needs no dynamics and compares them now, by participation rather than capability. No change to the claim.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A cited this claim often and rightly. A54 §8 and A71 §10 predict its pattern for training: "Systems with matched present performance can have different future acquisition-cost frontiers because of how they were trained" (A71 §10). That carries the claim from support to training regimes. The claim's derivation is in CLAIM-605's model of a capacity learned by doing; whether a network's adaptability behaves like that capacity is what the prediction would test, not something the claim shows. A's empirical cases are Springer et al. 2025 on overtrained language models (LIT-tmpq5g0q) and Han et al. 2026 on weight decay and plasticity (LIT-tmpkfcwr), both registered unread.
+
+A43's manuscript listed its version as a hypothesis (H4), which understates this claim: it is Active and demonstrated in its model. Two claims filed from the exchange rest on it: CLAIM-tmp8ljvp (overconsolidation) and CLAIM-tmp1l2s7 (three frontiers).
+
+No status change.

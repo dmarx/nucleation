@@ -128,3 +128,11 @@ The dispute PASS@(k,T) extends to agents is now held at its source.
 - Balasubramanian and Kasiviswanathan ([THEORY-1896](../theory.d/THEORY-1896.md)) prove that a tilt of a frozen reference only reweights the modes it holds.
 
 All five use the claim's two columns, boundary as reachability under a budget and pass@1 as reliability. Yue's crossover shows them moving in opposite directions under one intervention, which the agentic papers show only weakly (Zhai's bridge questions); [THEORY-1880](../theory.d/THEORY-1880.md) now corroborates the claim for that reason. The readings also bear on the claim's "expands what an organization can do": in the single-turn case, expansion is disputed and, where found, conditional on task and on the budget at which the boundary is read, as Zhu et al. ([THEORY-1672](../theory.d/THEORY-1672.md)) found for depth. No status change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A69 §4 and A71 §4 set sophisticated active inference (THEORY-426) beside this claim. Recursive planning selects trajectories prospectively, so an action with little immediate value can be chosen for the later observation it opens; PASS@(k,T) scores how reliably trajectories succeed at each budget. A69 §4: "The connection isn't an identity of metrics". A71 §4 calls them complements, "Policy selection" and "Resource-indexed outcome evaluation", not one measure, which fits this claim's columns: the planner is a process, and the metric reads its reachability and reliability under a budget.
+
+A's proposal (A69 §4) is to judge an epistemic planner "by the resource-bounded repertoire of successful trajectories it actually produces", and to tell better selection among existing trajectories from expansion of the repertoire. That is this claim's question of reachable against reliably reached, asked of a planner. Nothing was run.
+
+No status change.

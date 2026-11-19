@@ -195,3 +195,11 @@ No status changes.
 ## Note of 2026-11-07: the price of agreement, from the second synthesis review
 
 On [CASE-206](../cases.d/CASE-206.md)'s vertex the observer's and the system's partitions agree, beyond the trivial corners, only in the window 3 ≤ o < 4, 1.125 ≤ a < 1.866 ([CASE-206](../cases.d/CASE-206.md)'s frontiers; [CLAIM-592](CLAIM-592.md)'s agreement). Under one shared budget o + a ≤ B, the least total that reaches that window is 3 + 1.125 = 4.125. That is more than this claim's cheapest readiness, 1.866, and more than full observation, 4: at B = 4 none of the ready splits lies in the window. So a budget that buys readiness, or one that buys complete observation, need not buy the agreement between outside and inside that picks out the half-branches as individuals. One step from this claim and [CASE-206](../cases.d/CASE-206.md); noted, not filed. No status change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U30 the owner said the discussion "sounds like we're getting into active learning territory now". A67 §6 and A71 §7 cited this claim rightly and read its triage table (o = 0, a* = 5, total 5; o = 1, a* = 5, total 6; o = 2, a* = 1, total 3) as the elementary case against myopic information objectives: the first probe has negative immediate value, yet the two-probe sequence is cheapest, so "The value of an experience can depend on which future experiences it makes possible" (A71 §7). That is this claim's fourth result, read for learners.
+
+A67 §3's objective, choose an experiment for the expected future work it saves less its cost, is this claim's pricing of observation by the response budget it lowers, carried from one decision to a learner's later tasks. A67 §3 adds that the most informative experiment need not be the best one. The record's thermodynamic account of memory, THEORY-026, excludes learners that choose their observations; QUESTION-tmprj00l asks what replaces it.
+
+No status change.

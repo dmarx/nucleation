@@ -26,6 +26,7 @@ summary: >-
   So coupling rigid parts does not in general create freedom. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-267 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1369 THEORY-1408 THEORY-1368 THEORY-1415 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 
 # QUESTION-378: Under what conditions does coupling two locally rigid organizational subsystems create new adaptive degrees of freedom at their interface?

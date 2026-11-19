@@ -107,6 +107,8 @@ summary: >-
   and by whether an outflow is measured. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1500 THEORY-1501 THEORY-1506 THEORY-1507 THEORY-1509 THEORY-1548 THEORY-1555 — Proposed; the readings that hold this claim back, cited as open -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; claims, a term and readings this one rests on or extends, cited as open -->
 

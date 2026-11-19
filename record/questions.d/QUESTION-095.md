@@ -35,6 +35,7 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
+<!-- inactive-ok-file: CLAIM-358 CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1639 THEORY-1643 THEORY-1645 THEORY-1644 THEORY-1641 THEORY-1640 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-235 CASE-234 CLAIM-647 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
@@ -260,3 +261,11 @@ this question.
   update "are not interchangeable". It now bears on this question.
 
 The question stays Open.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U17 the owner named what this question is after as "the tradeoff between memory (amortizing a value) and computation (rederiving it just in time)". CLAIM-tmpqpd2p files the owner-endorsed thesis that a constraint is such an amortization. The exchange added four things, all A's.
+
+(a) A fourth kind of stored work beside the four strategies of the note of 2026-10-15: a learned coordination structure, which stores neither an answer nor an index (A39 §2, after CLAIM-358 and CLAIM-443). (b) A retention ladder: keep in context, temporary adapter, saved adapter, consolidate into weights, with an optimal retention horizon that weighs reuse against acquisition and upkeep, and interference as a retention cost (A56 §6–8, A58 §7, A62 §6). CASE-235 is the record's case of the ladder's rungs; CLAIM-647 is its staleness term. (c) Learning as an instance of the trade, "partly as deciding which results of present computation deserve to become infrastructure for future computation" (A71 §3). (d) A physical version: preparing, reading, verifying, maintaining and resetting a memory, where mere persistence has no Landauer floor (A65 §6; THEORY-030, THEORY-1273, QUESTION-452).
+
+None of this joins the literatures with one cost model. No status change.

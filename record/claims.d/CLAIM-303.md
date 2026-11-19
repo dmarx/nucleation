@@ -79,6 +79,7 @@ summary: >-
   threshold of [CLAIM-185](CLAIM-185.md) are approximations to this trade, and can fail in both
   directions.
 ---
+<!-- inactive-ok-file: CLAIM-603 CLAIM-731 CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-303: Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion
@@ -124,3 +125,11 @@ worth it. [CLAIM-182](CLAIM-182.md) is not touched: A11's null case, an argument
   restricted to reuse that can be forecast.
 - Not that saved effort is better reasoning. A filed answer to an
   objection can be wrong, and can stop being right.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+Two qualifications, both A's. (a) Deadline feasibility. This claim's break-even prices total work. With a per-task budget, stored work can move a task across the budget line before it has repaid its cost: "A learned capability can be operationally enabling before it has economically repaid its acquisition cost" (A62 §2; A39 §1 gives 12 units fresh against 3 with a framework, at a budget of 5). That is CLAIM-571's point that a peak, not a total, can bind. It is filed in CLAIM-tmpqpd2p, which rests on this claim.
+
+(b) Across agents. A fall in one party's operating cost may be work transferred, to past training, to maintenance or to other agents, not work saved. A62 §9 separates "work saved", "work transferred" and "valuable capability expanded", with a bureaucracy cheap for administrators because claimants do the work of fitting its categories; A41 §9 adds a recommender cheap for viewers that burdens creators "to remain legible to its classifications". This claim's accounting is one agent's. Neighbours: CLAIM-060, CLAIM-603, CLAIM-676, CLAIM-731. It is not filed as a claim, being close to definitional; the owner may want it.
+
+No status change.

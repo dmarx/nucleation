@@ -23,6 +23,8 @@ summary: >-
   with the behaviour unchanged, with what each shows about regime,
   individual and function.
 ---
+<!-- inactive-ok-file: THEORY-tmp8my3p THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 
 # QUESTION-125: When a candidate block gains or loses the gap that isolates it as a parameter varies, does the change in its identifiable boundary coincide with a bifurcation of its dynamics, and what does each way of their coming apart show?

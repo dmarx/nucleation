@@ -82,6 +82,8 @@ summary: >-
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
+<!-- inactive-ok-file: LIT-tmpmg2nk — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1845 THEORY-1852 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
@@ -204,3 +206,11 @@ claim rests on this one. No change.
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
 Sen read first-hand for the first time on the record: the Tanner Lectures, The Standard of Living (1985; [THEORY-1845](../theory.d/THEORY-1845.md)), where capabilities are "what real opportunities you have regarding the life you may lead", and Development as Freedom, Introduction and chapter 1 ([THEORY-1852](../theory.d/THEORY-1852.md)), which names "the process aspect and the opportunity aspect of freedom" [OCR-normalized]. Both corroborate this claim's reading of the two aspects. Neither gives the map from trajectories to valued functionings that the claim says control theory lacks.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U16 the owner saw "a clean way of connecting the earlier discussion of how effective degrees of freedom can emerge from selective contraction, to capability expansion and thinkers like Amartya Sen". That re-finds this claim, the owner's own Sen connection (U11 of the exchange of 2026-10-17). A37 cited this claim and read it rightly, without saying it was the owner's. A37 §4 built a dynamic capability set, the valued functionings Φ_N(γ) of the trajectories reachable within budget B and horizon T, and said it was its own construction, "not Sen's own formalism". The map Φ_N is this claim's point: reachable states count as freedom only through a map to valued functionings, and A37 §4 likewise refuses to equate more reachable states with more freedom. A37 also raised collective capabilities after Ibrahim (LIT-tmpmg2nk, registered unread).
+
+The capability question that CLAIM-tmpqpd2p, filed from the same exchange, leaves open is this claim's: whether operations a stored constraint makes newly affordable widen anyone's substantive freedom, and whose.
+
+No status change.

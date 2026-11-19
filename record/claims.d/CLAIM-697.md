@@ -46,6 +46,7 @@ summary: >-
   the primitive operations or the system's boundary. The idea is the
   owner's; the wording is A's, and adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp1l2s7 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-576 TERM-118 THEORY-1894 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
 
 # CLAIM-697: A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs
@@ -102,3 +103,11 @@ coverage, not what an unaided selector delivers.
 - **That any information supplied at test time is illegitimate.** Content
   derived during inference counts, and content retrieved from outside does
   not count as retained. The provenance of each must be stated ([CLAIM-118](CLAIM-118.md)).
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+(a) At U27 the owner said Large Language Monkeys "takes this in the other direction" from test-time training, and that the PASS@(k,T) paper "ties in here as well", both "filed as read on Nucleation". They are: LIT-2622 (this claim's anchor, THEORY-1894) and LIT-2441. (b) A60 §4 and A71 §1 add in-context learning and test-time training to sampling and tool interaction as declared operations on this claim's disposition, alternative ways to spend a budget on one outcome. The record holds the parts: CLAIM-118 (context and interpreter), THEORY-169 (conditioning as a learning step) and THEORY-439 (test-time updates beat conditioning on the same demonstrations).
+
+(c) A71 §1 introduced this claim's construction, a supremum over affordable procedures of delivered, not merely sampled, success, with "Our theory needs a richer object", and only then said it is "closely aligned" with this claim. It is this claim, the owner's idea. (d) A73 carries coverage against delivery to knowledge: a correct response once in 10,000 samples is "Evidence of generative reach, not by itself knowledge" (QUESTION-tmpo8ddc). (e) CLAIM-tmp1l2s7 takes this claim's set of tasks reliable within a budget as its operational frontier.
+
+No status change.

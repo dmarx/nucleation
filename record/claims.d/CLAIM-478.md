@@ -72,6 +72,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: CLAIM-tmp449rr CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
@@ -416,3 +417,11 @@ A14 §3 and A18 §2 rebuild the claim's first half (A: "I would call this *dynam
 - **A forcing floor.** A20 §3: under a bounded disturbance |η| ≤ η_max the deviation settles at about η_max/λ⊥, not zero. So "approximately enforced" needs λ⊥H ≫ 1 over the horizon H and a small η_max/λ⊥ as well.
 
 Critical slowing in different modes, which bears oppositely on the reduction this claim describes, is [CLAIM-626](CLAIM-626.md), filed from the same exchange. No status change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U14 the owner tied A's "selective contraction" to "Nucleation's inquiry into how timescale separation can drive structural emergence": this claim, the owner's own. A29 §2's four-unit example, fast within-pair differences and a slow between-pair difference, is the window this claim's note of the U15–U23 turns already gives for weakly joined clusters. A29 §2 credited its timescale-relative individuation to CLAIM-481; it is this claim's. A29 §5's differentiation between attractors with contraction within basins restates this claim's last clause, that instabilities make the separations that then constrain.
+
+A32 §5, from CLAIM-626, adds that "There isn't one relevant separation": collective activity, restoration, maintenance and reproduction may each have a time scale, and their hierarchy may say more than one fast–slow ratio. A32 §12 asks whether an emergent organization can change the timescale hierarchy and intervention-equivalence structure it was identified by, which is this claim's second half widened to the equivalence structure. The owner's U10 hypothesis carries this claim from constraints to units: CLAIM-tmpw8xkt rests on it. CLAIM-tmp449rr separates the dynamical separation this claim names from the economic separation of costly formation and cheap reuse.
+
+No status change.

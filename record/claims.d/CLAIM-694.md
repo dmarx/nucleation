@@ -41,6 +41,7 @@ summary: >-
   field-theoretic instance of [CLAIM-593](CLAIM-593.md)'s "Structural isomorphism ⇏ token
   identity". The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-606 CASE-266 NOTE-1950 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
 
 # CLAIM-694: A conserved topological charge individuates a kind, not a token: it fixes the sector a configuration is in and its net count of defects, but not where a defect is, which one persisted or, in more than one dimension, how many cores carry the charge; so on the topological route to persistence what the charge protects is the sector, and the identity of a particular structure needs a further, declared criterion
