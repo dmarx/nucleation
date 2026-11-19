@@ -223,7 +223,7 @@ report ([THEORY-1797](../theory.d/THEORY-1797.md)), and it bears on both halves.
   fact that something was excluded. What Carnap does not index the
   judgment to is "those affected": his standard is the concept's use in
   science, not the parties a cut bears on.
-- **Applied to the record's own terms.** [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) (Proposed) makes
+- **Applied to the record's own terms.** [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) (Active since 2026-11-19) makes
   Carnap's requirements the critical questions of an `explication`
   argument, so that the choice of a TERM's definition is argued and
   judged as this claim says a choice of apparatus can be.

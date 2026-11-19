@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'An ARG may conclude a TERM, as an explication: that the definition does its declared job better than its predecessor and rivals, judged by Carnap''s adequacy conditions; the verdict is the argument''s and adoption stays the term''s status, and the term''s `argued_by` is derived'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Accepted by the owner: status Proposed → Active. The text is the
+    version reviewed on the pull request, with the critical questions
+    extended after the full reading of Carnap.
 tags:
 - record
 - mechanism
