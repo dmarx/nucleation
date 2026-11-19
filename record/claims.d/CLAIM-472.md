@@ -199,9 +199,9 @@ No status changes.
 <!-- inactive-ok-file: THEORY-tmpai35t NOTE-tmpgrtgu ADR-tmptwlsg — Proposed or newly filed; the reading of 2026-11-19 and the decision it grounds -->
 
 Carnap's *Logical Foundations of Probability* (1950), chapter I, sections
-2 and 3, read at the owner's request (NOTE-tmpgrtgu, THEORY-tmpai35t,
+2 and 3, read at the owner's request ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md),
 corroborates). It is the primary text behind what Leitgeb and Carus
-report (THEORY-1797), and it bears on both halves.
+report ([THEORY-1797](../theory.d/THEORY-1797.md)), and it bears on both halves.
 
 - **The first half, directly.** Because the concept to be explicated is
   inexact, "the question whether the solution is right or wrong makes no
@@ -223,10 +223,10 @@ report (THEORY-1797), and it bears on both halves.
   fact that something was excluded. What Carnap does not index the
   judgment to is "those affected": his standard is the concept's use in
   science, not the parties a cut bears on.
-- **Applied to the record's own terms.** ADR-tmptwlsg (Proposed) makes
+- **Applied to the record's own terms.** [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) (Proposed) makes
   Carnap's requirements the critical questions of an `explication`
   argument, so that the choice of a TERM's definition is argued and
   judged as this claim says a choice of apparatus can be.
 
-No status change. What holds it back is still CLAIM-476 (note of
+No status change. What holds it back is still [CLAIM-476](CLAIM-476.md) (note of
 2026-10-30).
