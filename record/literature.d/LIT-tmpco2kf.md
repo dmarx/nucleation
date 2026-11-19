@@ -30,8 +30,8 @@ summary: >-
   Dohare, Hernandez-Garcia, Rahman, Mahmood et al. (2023), arXiv
   2306.13812. Per ChatGPT, loss of plasticity in deep continual learning,
   published in Nature (2024) as Loss of plasticity in deep continual
-  learning. Here because it bears on overconsolidation, CLAIM-tmp8ljvp,
-  beside THEORY-1353. Unverified until read.
+  learning. Here because it bears on overconsolidation, [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md),
+  beside [THEORY-1353](../theory.d/THEORY-1353.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -41,4 +41,4 @@ Dohare, Hernandez-Garcia, Rahman, Mahmood et al. (2023). arXiv 2306.13812.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A50 of the exchange "Topological protection explained". It bears on overconsolidation, CLAIM-tmp8ljvp, beside THEORY-1353. Not read.
+Registered on 2026-11-19 from A50 of the exchange "Topological protection explained". It bears on overconsolidation, [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md), beside [THEORY-1353](../theory.d/THEORY-1353.md). Not read.

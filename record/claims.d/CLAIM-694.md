@@ -103,10 +103,10 @@ mandate. No test is proposed, and nothing here rests on the analogy.
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A4 §8 adds a caveat on what a sector is. A real mass that changes sign is no obstruction if a second mass term that anticommutes with the kinetic Hamiltonian is allowed: the mass vector can then rotate around zero without closing the gap, unless a symmetry forbids that term. So the sector this claim says the charge protects is relative to the admissible class of deformations. That is the idea of CLAIM-524 and CLAIM-571, where which configurations are joined depends on which paths are admissible.
+A4 §8 adds a caveat on what a sector is. A real mass that changes sign is no obstruction if a second mass term that anticommutes with the kinetic Hamiltonian is allowed: the mass vector can then rotate around zero without closing the gap, unless a symmetry forbids that term. So the sector this claim says the charge protects is relative to the admissible class of deformations. That is the idea of [CLAIM-524](CLAIM-524.md) and [CLAIM-571](CLAIM-571.md), where which configurations are joined depends on which paths are admissible.
 
-A10 restated this claim accurately: a defect may "protect an organizational possibility without protecting a particular individual" (A10 §8). A10 §7 then called two resource-relative equivalences, one by an observing budget and one by an acting budget, "a particularly novel extension". They are on the record already as CLAIM-557, CLAIM-574 and CLAIM-581.
+A10 restated this claim accurately: a defect may "protect an organizational possibility without protecting a particular individual" (A10 §8). A10 §7 then called two resource-relative equivalences, one by an observing budget and one by an acting budget, "a particularly novel extension". They are on the record already as [CLAIM-557](CLAIM-557.md), [CLAIM-574](CLAIM-574.md) and [CLAIM-581](CLAIM-581.md).
 
-THEORY-tmpvtafk's vortices come in ± pairs whose count varies by channel while the net charge stays near zero, which fits the split between kind and token.
+[THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md)'s vortices come in ± pairs whose count varies by channel while the net charge stays near zero, which fits the split between kind and token.
 
 No status change.

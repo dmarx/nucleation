@@ -29,7 +29,7 @@ summary: >-
   10.1126/science.1194869. Per ChatGPT, pinwheel defects in visual-cortex
   orientation maps with a universal density. Here because A15 cited them
   as defect-like singularities that need not be functional units, which
-  bears on QUESTION-tmpcb0bf. Unverified until read.
+  bears on [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Unverified until read.
 ---
 
 # LIT-tmpdedmw: Universality in the Evolution of Orientation Columns in the Visual Cortex
@@ -38,4 +38,4 @@ Kaschube, Schnabel, Löwel, Coppola et al. (2010). Science, DOI 10.1126/science.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 cited them as defect-like singularities that need not be functional units, which bears on QUESTION-tmpcb0bf. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 cited them as defect-like singularities that need not be functional units, which bears on [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Not read.

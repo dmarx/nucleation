@@ -29,7 +29,7 @@ summary: >-
   Jacobs, Budzinski, Muller, Ba et al. (2025), arXiv 2502.06034. Per
   ChatGPT, travelling waves integrate spatial information through time in
   recurrent networks. Here because A15 listed it beside Keller et al.
-  (QUESTION-tmpcb0bf). LIT-647's text mentions it; it had no entry of its
+  ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)). [LIT-647](LIT-647.md)'s text mentions it; it had no entry of its
   own. Unverified until read.
 ---
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
@@ -40,4 +40,4 @@ Jacobs, Budzinski, Muller, Ba et al. (2025). arXiv 2502.06034.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 listed it beside Keller et al. (QUESTION-tmpcb0bf). LIT-647's text mentions it; it had no entry of its own. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 listed it beside Keller et al. ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)). [LIT-647](LIT-647.md)'s text mentions it; it had no entry of its own. Not read.

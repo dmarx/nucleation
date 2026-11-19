@@ -34,10 +34,10 @@ summary: >-
   learning: "The optimal learning policy may prioritize productive nuclei
   of future competence over direct improvement on current tasks." A43
   §5.2 put the same as recursive capability formation. The record held a
-  single capacity that needs capacity already present to grow (CLAIM-605)
-  and the productive nucleus (TERM-117), but not the valuation of one
+  single capacity that needs capacity already present to grow ([CLAIM-605](CLAIM-605.md))
+  and the productive nucleus ([TERM-117](../terms.d/TERM-117.md)), but not the valuation of one
   acquisition by its effect on another's cost. Admission by derivation
-  with a stipulated case (CASE-tmpplox8): the step with a negative direct
+  with a stipulated case ([CASE-tmpplox8](../cases.d/CASE-tmpplox8.md)): the step with a negative direct
   return is part of the best policy. The wording is A's with the filer's
   numbers; adopting it is the owner's call.
 ---
@@ -58,8 +58,8 @@ nuclei of future competence over direct improvement on current tasks."
 
 ## Admission
 
-By derivation, with a stipulated separating case (CASE-tmpplox8, argued
-in ARG-tmpm8rng). A procedure P costs 4 and saves 2 on the one question it
+By derivation, with a stipulated separating case ([CASE-tmpplox8](../cases.d/CASE-tmpplox8.md), argued
+in [ARG-tmpm8rng](../arguments.d/ARG-tmpm8rng.md)). A procedure P costs 4 and saves 2 on the one question it
 directly serves: −2 alone. A second competence Q saves 3 on each of three
 later questions, 9 in all, and costs 10 to acquire from scratch but 1
 once P is held. Then:
@@ -77,7 +77,7 @@ best. (Computed and checked.)
 
 ## Rests on
 
-CLAIM-303: work stored is worth it when reuse covers it. This claim says
+[CLAIM-303](CLAIM-303.md): work stored is worth it when reuse covers it. This claim says
 reuse can be the lowered cost of another acquisition and not only savings
 on tasks.
 
@@ -86,5 +86,5 @@ on tasks.
 That learners should prefer such steps. The case stipulates that the
 later questions will come. When they cannot be specified in advance,
 which is the owner's U21 problem, the value of a productive step is
-uncertain, and that is QUESTION-tmpwqepn. CLAIM-605 shows the same
+uncertain, and that is [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md). [CLAIM-605](CLAIM-605.md) shows the same
 compounding for one capacity, with a threshold below which it traps.

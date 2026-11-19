@@ -89,17 +89,17 @@ summary: >-
   transformation, "relative to the declared readers, contexts and
   budgets" of [CLAIM-697](../claims.d/CLAIM-697.md).
 
-- **What can still be acquired.** CLAIM-tmp1l2s7 (A's; Proposed) rests on
-  CLAIM-697 and makes its set the operational frontier, beside a
+- **What can still be acquired.** [CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md) (A's; Proposed) rests on
+  [CLAIM-697](../claims.d/CLAIM-697.md) and makes its set the operational frontier, beside a
   developmental frontier (what can be learned within an acquisition budget
-  and a declared learning interface) and TERM-092's inquiry frontier; it
-  says the three move separately. CLAIM-tmp8ljvp (the owner's
+  and a declared learning interface) and [TERM-092](../terms.d/TERM-092.md)'s inquiry frontier; it
+  says the three move separately. [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) (the owner's
   generalization of overfitting, A's wording; Proposed) names one pattern
   of divergence, overconsolidation: the operational frontier grows while
   the developmental one does not contain its predecessor. It takes
-  CLAIM-695 as its RL case. CASE-tmphsr99 (A's design, requested by the
+  [CLAIM-695](../claims.d/CLAIM-695.md) as its RL case. [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) (A's design, requested by the
   owner; not run) measures it on Pythia checkpoints, with arms for
-  in-context learning, test-time training and CLAIM-697's sampling budget.
+  in-context learning, test-time training and [CLAIM-697](../claims.d/CLAIM-697.md)'s sampling budget.
 
 ## The components
 
@@ -108,9 +108,9 @@ summary: >-
 - [CLAIM-699](../claims.d/CLAIM-699.md), the assistant's, filed at the owner's request, Proposed.
 - [CASE-271](../cases.d/CASE-271.md), A's construction, rebuilt from the text, Proposed.
 - [CASE-274](../cases.d/CASE-274.md) and [CASE-275](../cases.d/CASE-275.md), A's proposed studies, Proposed.
-- CLAIM-tmp1l2s7, A's, Proposed.
-- CLAIM-tmp8ljvp, the owner's generalization in A's wording, Proposed.
-- CASE-tmphsr99, A's design at the owner's request, Proposed.
+- [CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md), A's, Proposed.
+- [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md), the owner's generalization in A's wording, Proposed.
+- [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), A's design at the owner's request, Proposed.
 
 ## Links tested as claims
 

@@ -26,7 +26,7 @@ keywords: []
 implementations: []
 summary: >-
   Finn, Abbeel, Levine (2017), arXiv 1703.03400. Model-agnostic meta-learning: training an initialisation for fast adaptation. Here because
-  its objective already targets future adaptability, the disclaimer CLAIM-tmp8ljvp and QUESTION-tmpwqepn carry. Unverified until read.
+  its objective already targets future adaptability, the disclaimer [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) and [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md) carry. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -36,4 +36,4 @@ Finn, Abbeel, Levine (2017). arXiv 1703.03400.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". Its objective already targets future adaptability, the disclaimer CLAIM-tmp8ljvp and QUESTION-tmpwqepn carry. Not read.
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". Its objective already targets future adaptability, the disclaimer [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) and [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md) carry. Not read.

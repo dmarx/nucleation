@@ -30,7 +30,7 @@ summary: >-
   10.1016/S0005-1098(98)00019-3. Per ChatGPT, contraction analysis of
   nonlinear systems, and partial contraction toward invariant manifolds.
   Here because A29 grounds selective contraction in it; the record's
-  contraction readings are LIT-1292 and THEORY-773. Unverified until read.
+  contraction readings are [LIT-1292](LIT-1292.md) and [THEORY-773](../theory.d/THEORY-773.md). Unverified until read.
 ---
 
 # LIT-tmprrdom: On Contraction Analysis for Non-linear Systems
@@ -39,4 +39,4 @@ Lohmiller, Slotine (1998). Automatica, DOI 10.1016/S0005-1098(98)00019-3.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A29 of the exchange "Topological protection explained". A29 grounds selective contraction in it; the record's contraction readings are LIT-1292 and THEORY-773. Not read.
+Registered on 2026-11-19 from A29 of the exchange "Topological protection explained". A29 grounds selective contraction in it; the record's contraction readings are [LIT-1292](LIT-1292.md) and [THEORY-773](../theory.d/THEORY-773.md). Not read.

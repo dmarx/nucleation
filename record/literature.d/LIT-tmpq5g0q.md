@@ -28,7 +28,7 @@ implementations: []
 summary: >-
   Springer, Goyal, Wen, Kumar et al. (2025), arXiv 2503.19206. Per
   ChatGPT, longer pretraining can make language models harder to fine-tune. Here because it is the prime empirical case for overconsolidation,
-  CLAIM-tmp8ljvp, and the Pythia study CASE-tmphsr99. Unverified until
+  [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md), and the Pythia study [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Unverified until
   read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
@@ -39,4 +39,4 @@ Springer, Goyal, Wen, Kumar et al. (2025). arXiv 2503.19206.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A50 of the exchange "Topological protection explained". It is the prime empirical case for overconsolidation, CLAIM-tmp8ljvp, and the Pythia study CASE-tmphsr99. Not read.
+Registered on 2026-11-19 from A50 of the exchange "Topological protection explained". It is the prime empirical case for overconsolidation, [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md), and the Pythia study [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

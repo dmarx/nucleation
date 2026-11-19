@@ -28,7 +28,7 @@ summary: >-
   Schoenholz, Gilmer, Ganguli, Sohl-Dickstein (2016), arXiv 1611.01232.
   Per ChatGPT, signal-propagation depth scales and the edge of chaos at
   initialisation. Here because A15 set it against domain walls as a way of
-  keeping information through depth; the read stand-in LIT-tmpyahtz
+  keeping information through depth; the read stand-in [LIT-tmpyahtz](LIT-tmpyahtz.md)
   positions itself against it. Unverified until read.
 ---
 
@@ -38,4 +38,4 @@ Schoenholz, Gilmer, Ganguli, Sohl-Dickstein (2016). arXiv 1611.01232.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 set it against domain walls as a way of keeping information through depth; the read stand-in LIT-tmpyahtz positions itself against it. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 set it against domain walls as a way of keeping information through depth; the read stand-in [LIT-tmpyahtz](LIT-tmpyahtz.md) positions itself against it. Not read.

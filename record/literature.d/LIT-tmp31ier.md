@@ -28,7 +28,7 @@ summary: >-
   DeVille, Lerman (2013), arXiv 1303.3907. Per ChatGPT, a framework for
   modular dynamical systems on networks in which graph fibrations give
   maps between systems. Here because it names the fibration form of the
-  balanced-partition result held as THEORY-1065 and THEORY-1059.
+  balanced-partition result held as [THEORY-1065](../theory.d/THEORY-1065.md) and [THEORY-1059](../theory.d/THEORY-1059.md).
   Unverified until read.
 ---
 
@@ -38,4 +38,4 @@ DeVille, Lerman (2013). arXiv 1303.3907.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A17 and A29 of the exchange "Topological protection explained". It names the fibration form of the balanced-partition result held as THEORY-1065 and THEORY-1059. Not read.
+Registered on 2026-11-19 from A17 and A29 of the exchange "Topological protection explained". It names the fibration form of the balanced-partition result held as [THEORY-1065](../theory.d/THEORY-1065.md) and [THEORY-1059](../theory.d/THEORY-1059.md). Not read.

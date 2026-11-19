@@ -12,10 +12,10 @@ promote_when: >-
   The experimental sections are read and confirm that removing the bias
   or the norm readout destabilizes training.
 summary: >-
-  Miyato, Löwe, Geiger and Welling (LIT-tmpfy72n), read in part in
-  NOTE-tmpdcvze. Oscillatory units on a sphere, coupled by a generalised
+  Miyato, Löwe, Geiger and Welling ([LIT-tmpfy72n](../literature.d/LIT-tmpfy72n.md)), read in part in
+  [NOTE-tmpdcvze](../notes.d/NOTE-tmpdcvze.md). Oscillatory units on a sphere, coupled by a generalised
   Kuramoto update, with the conditioning input acting as a symmetry-breaking
-  field. Here as context for the architecture of LIT-tmp01nqp.
+  field. Here as context for the architecture of [LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpdcvze — Skimmed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->

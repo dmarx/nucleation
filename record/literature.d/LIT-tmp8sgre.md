@@ -30,7 +30,7 @@ summary: >-
   Letters, DOI 10.1103/jw9p-s3kk. Per ChatGPT, information transport by a
   topological boundary ratchet in a metamaterial, without learning. Here
   because A15 set it against learned defects; the record's mechanical
-  neighbours are THEORY-1893 and THEORY-1408. Unverified until read.
+  neighbours are [THEORY-1893](../theory.d/THEORY-1893.md) and [THEORY-1408](../theory.d/THEORY-1408.md). Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-1408 THEORY-1893 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -40,4 +40,4 @@ Omidvar, Bestler, Zahedi Fard, Zilberberg et al. (2026). Physical Review Letters
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 set it against learned defects; the record's mechanical neighbours are THEORY-1893 and THEORY-1408. Not read.
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 set it against learned defects; the record's mechanical neighbours are [THEORY-1893](../theory.d/THEORY-1893.md) and [THEORY-1408](../theory.d/THEORY-1408.md). Not read.

@@ -25,7 +25,7 @@ first_author: 'Rajendran'
 keywords: []
 implementations: []
 summary: >-
-  Rajendran, Irpan, Jang (2020), arXiv 2007.05549. Per ChatGPT, meta-augmentation as the remedy for memorization overfitting in meta-learning. Here because A54 used it beside Yin et al. for CASE-tmphsr99.
+  Rajendran, Irpan, Jang (2020), arXiv 2007.05549. Per ChatGPT, meta-augmentation as the remedy for memorization overfitting in meta-learning. Here because A54 used it beside Yin et al. for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md).
   Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
@@ -36,4 +36,4 @@ Rajendran, Irpan, Jang (2020). arXiv 2007.05549.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 used it beside Yin et al. for CASE-tmphsr99. Not read.
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 used it beside Yin et al. for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

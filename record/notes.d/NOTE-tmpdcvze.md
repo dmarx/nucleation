@@ -46,11 +46,11 @@ synchrony.
 
 ## Bearing on the record
 
-- **LIT-tmp01nqp.** This is the oscillator architecture ChatGPT
+- **[LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md).** This is the oscillator architecture ChatGPT
   attributes to the owner's U6 example, with the bias that A12 says erases
   domain walls. Here the bias helps training. No Z2 symmetry and no walls,
   so it stands in for none of that work's results.
-- **THEORY-1507.** Whether walls between oscillator domains are protected
+- **[THEORY-1507](../theory.d/THEORY-1507.md).** Whether walls between oscillator domains are protected
   depends on whether the dynamics leave a disconnected set of vacua, not
   on the sphere the units live on. With isotropic coupling the vacua form
   a connected sphere and walls are unprotected; the general coupling here

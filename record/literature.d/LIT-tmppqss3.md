@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Javed, White (2019), arXiv 1905.12588. Meta-learning representations for
   continual learning (OML). Here because A54 named it for representations
-  meta-trained against forgetting, which bears on CLAIM-tmp8ljvp.
+  meta-trained against forgetting, which bears on [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md).
   Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
@@ -38,4 +38,4 @@ Javed, White (2019). arXiv 1905.12588.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 named it for representations meta-trained against forgetting, which bears on CLAIM-tmp8ljvp. Not read.
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 named it for representations meta-trained against forgetting, which bears on [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md). Not read.

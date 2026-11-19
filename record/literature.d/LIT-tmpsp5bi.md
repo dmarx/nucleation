@@ -28,8 +28,8 @@ implementations: []
 summary: >-
   Still (2017), arXiv 1705.00612. Per ChatGPT, an information-bottleneck-like method derived by minimizing a dissipation bound on memory;
   Physical Review Letters 124, 050601 (2020). Here because A65 made it the
-  bridge between memory and thermodynamics; it bears on QUESTION-tmprj00l
-  and extends THEORY-026. Unverified until read.
+  bridge between memory and thermodynamics; it bears on [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md)
+  and extends [THEORY-026](../theory.d/THEORY-026.md). Unverified until read.
 ---
 
 # LIT-tmpsp5bi: Thermodynamic cost and benefit of memory
@@ -38,4 +38,4 @@ Still (2017). arXiv 1705.00612.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A65 of the exchange "Topological protection explained". A65 made it the bridge between memory and thermodynamics; it bears on QUESTION-tmprj00l and extends THEORY-026. Not read.
+Registered on 2026-11-19 from A65 of the exchange "Topological protection explained". A65 made it the bridge between memory and thermodynamics; it bears on [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md) and extends [THEORY-026](../theory.d/THEORY-026.md). Not read.

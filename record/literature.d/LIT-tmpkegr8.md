@@ -29,7 +29,7 @@ summary: >-
   Wang, Isola (2020), arXiv 2005.10242. Per ChatGPT, contrastive learning
   as alignment of positive pairs plus uniformity on the sphere. Here
   because A27 used it for how self-supervised learning contracts some
-  distinctions and keeps others, the owner's U12 connection (CLAIM-481).
+  distinctions and keeps others, the owner's U12 connection ([CLAIM-481](../claims.d/CLAIM-481.md)).
   Unverified until read.
 ---
 
@@ -39,4 +39,4 @@ Wang, Isola (2020). arXiv 2005.10242.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 used it for how self-supervised learning contracts some distinctions and keeps others, the owner's U12 connection (CLAIM-481). Not read.
+Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 used it for how self-supervised learning contracts some distinctions and keeps others, the owner's U12 connection ([CLAIM-481](../claims.d/CLAIM-481.md)). Not read.

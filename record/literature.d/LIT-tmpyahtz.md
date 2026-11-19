@@ -34,8 +34,8 @@ summary: >-
   layers and keeps one Jacobian component O(1) at any depth, so 100-layer
   networks train without normalisation or skip connections over the whole
   phase, not only at the edge of chaos. The same order parameter in
-  non-equivariant networks brings no training gain. Read in NOTE-tmpsdqio;
-  its account is THEORY-tmpvtafk. A stand-in for LIT-tmp01nqp's thesis
+  non-equivariant networks brings no training gain. Read in [NOTE-tmpsdqio](../notes.d/NOTE-tmpsdqio.md);
+  its account is [THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md). A stand-in for [LIT-tmp01nqp](LIT-tmp01nqp.md)'s thesis
   only.
 ---
 <!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
@@ -48,7 +48,7 @@ Iqbal, Keller, Song, Miyato and Welling (2026). arXiv 2605.14685.
 ## Standing in the record
 
 Registered as a stand-in for the owner's U6 example, Iqbal and Welling's
-workshop paper (LIT-tmp01nqp), which it cites as related work "in the
+workshop paper ([LIT-tmp01nqp](LIT-tmp01nqp.md)), which it cites as related work "in the
 context of a discrete symmetry". It carries the continuous-symmetry
 version of the same thesis. It does not restate the workshop paper's
 domain-wall results.

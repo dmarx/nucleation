@@ -71,31 +71,31 @@ winding number and vortex.
 
 ## Bearing on the record
 
-- **LIT-tmp01nqp** (the owner's U6 example). Stands in for its thesis,
+- **[LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md)** (the owner's U6 example). Stands in for its thesis,
   not its results: no Z2 analysis, no domain walls, no noise or scaling.
-- **QUESTION-125** (does a boundary change coincide with a bifurcation?).
+- **[QUESTION-125](../questions.d/QUESTION-125.md)** (does a boundary change coincide with a bifurcation?).
   A clean coincidence and dissociation: the onset of training coincides
   with the transition in equivariant networks, while in generic networks
   the same transition carries no functional gain. Whether a dynamical
   transition has a functional consequence depends here on whether the
   symmetry lets the order parameter be modulated.
-- **QUESTION-392.** Relative to architectures without stabilisers,
+- **[QUESTION-392](../questions.d/QUESTION-392.md).** Relative to architectures without stabilisers,
   equivariance makes very deep training reachable; relative to
   architectures with residuals or normalisation, it is another route to a
   held capability. The verdict turns on the declared space, as the
   question anticipates.
-- **QUESTION-281** (amplification, nucleation, bifurcation). A
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (amplification, nucleation, bifurcation). A
   supercritical, pitchfork-like onset; what is retained is the input's
   phase on the symmetry orbit.
-- **CLAIM-606** and **CLAIM-694.** Vortices end by pair annihilation, as
-  CLAIM-606's topological route expects, and come in ± pairs whose count
+- **[CLAIM-606](../claims.d/CLAIM-606.md)** and **[CLAIM-694](../claims.d/CLAIM-694.md).** Vortices end by pair annihilation, as
+  [CLAIM-606](../claims.d/CLAIM-606.md)'s topological route expects, and come in ± pairs whose count
   varies by channel while net charge stays near zero, which fits the kind
   and token split.
-- **TERM-088.** The vortices are individuated descriptively and
+- **[TERM-088](../terms.d/TERM-088.md).** The vortices are individuated descriptively and
   dynamically; the authors claim no constitutive or functional role. The
   owner's "informative computational features" is shown for the Goldstone
   mode, not for the defects.
-- **THEORY-187** and **QUESTION-166** (depth in deep linear networks).
+- **[THEORY-187](../theory.d/THEORY-187.md)** and **[QUESTION-166](../questions.d/QUESTION-166.md)** (depth in deep linear networks).
   A mechanism that sidesteps the edge of chaos.
 
 ## Limitations

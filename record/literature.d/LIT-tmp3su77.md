@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Zbontar, Jing, Misra, LeCun et al. (2021), arXiv 2103.03230. Per
   ChatGPT, self-supervised learning by redundancy reduction of the cross-correlation matrix. Here because A27 used it as a non-collapse
-  mechanism; LIT-228 and others discuss it without an entry of its own.
+  mechanism; [LIT-228](LIT-228.md) and others discuss it without an entry of its own.
   Unverified until read.
 ---
 
@@ -37,4 +37,4 @@ Zbontar, Jing, Misra, LeCun et al. (2021). arXiv 2103.03230.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 used it as a non-collapse mechanism; LIT-228 and others discuss it without an entry of its own. Not read.
+Registered on 2026-11-19 from A27 of the exchange "Topological protection explained". A27 used it as a non-collapse mechanism; [LIT-228](LIT-228.md) and others discuss it without an entry of its own. Not read.

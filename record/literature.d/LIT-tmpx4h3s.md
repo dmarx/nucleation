@@ -29,7 +29,7 @@ summary: >-
   Garg, Tsipras, Liang, Valiant (2022), arXiv 2208.01066. Transformers
   trained to learn simple function classes in context. Here because A56
   cited it for in-context learning as a learned algorithm, held in
-  substance by CLAIM-118 and THEORY-169. Unverified until read.
+  substance by [CLAIM-118](../claims.d/CLAIM-118.md) and [THEORY-169](../theory.d/THEORY-169.md). Unverified until read.
 ---
 
 # LIT-tmpx4h3s: What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
@@ -38,4 +38,4 @@ Garg, Tsipras, Liang, Valiant (2022). arXiv 2208.01066.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A56 of the exchange "Topological protection explained". A56 cited it for in-context learning as a learned algorithm, held in substance by CLAIM-118 and THEORY-169. Not read.
+Registered on 2026-11-19 from A56 of the exchange "Topological protection explained". A56 cited it for in-context learning as a learned algorithm, held in substance by [CLAIM-118](../claims.d/CLAIM-118.md) and [THEORY-169](../theory.d/THEORY-169.md). Not read.

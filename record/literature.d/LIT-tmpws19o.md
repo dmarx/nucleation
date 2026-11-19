@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Yin, Tucker, Zhou, Levine et al. (2019), arXiv 1912.03820. Per ChatGPT,
   meta-learning can memorize tasks instead of learning to adapt. Here
-  because A54 used it for meta-overfitting, a design rule of CASE-tmphsr99. Unverified until read.
+  because A54 used it for meta-overfitting, a design rule of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -37,4 +37,4 @@ Yin, Tucker, Zhou, Levine et al. (2019). arXiv 1912.03820.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 used it for meta-overfitting, a design rule of CASE-tmphsr99. Not read.
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 used it for meta-overfitting, a design rule of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

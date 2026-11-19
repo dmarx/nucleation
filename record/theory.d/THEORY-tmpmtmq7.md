@@ -19,7 +19,7 @@ promote_when: >-
   diversity, that finds the flip rate tracks diversity and not
   architecture.
 summary: >-
-  Li and Webb (LIT-tmpqgxkn), read in NOTE-tmp70cux. The flip rate of a
+  Li and Webb ([LIT-tmpqgxkn](../literature.d/LIT-tmpqgxkn.md)), read in [NOTE-tmp70cux](../notes.d/NOTE-tmp70cux.md). The flip rate of a
   mean-difference rule vector is 0% at vocabulary 50, 5% at 100 and close
   to 100% from 500; at vocabulary 100 it goes from 5% with 2 rules to 95%
   with 10, and from 98% to near 0% as role-token bias rises, while every
@@ -34,7 +34,7 @@ summary: >-
 
 ## The account
 
-Li and Webb (LIT-tmpqgxkn) measure a symbolic mechanism by intervention.
+Li and Webb ([LIT-tmpqgxkn](../literature.d/LIT-tmpqgxkn.md)) measure a symbolic mechanism by intervention.
 They take the mean residual activation for each rule at the position
 where the rule is decided, add the difference, and count how often the
 output becomes the other rule's answer. That flip rate rises with
@@ -55,8 +55,8 @@ generalizes.
 
 ## Bearing
 
-It corroborates CLAIM-567: which of two feasible solutions training
-reaches, and when, is set by data and capacity. It bears on QUESTION-392
+It corroborates [CLAIM-567](../claims.d/CLAIM-567.md): which of two feasible solutions training
+reaches, and when, is set by data and capacity. It bears on [QUESTION-392](../questions.d/QUESTION-392.md)
 as a learned case where data makes a representable capability reached.
-It bears on QUESTION-tmpex36a, the owner's hunch, by leaving the unit level
+It bears on [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md), the owner's hunch, by leaving the unit level
 open.

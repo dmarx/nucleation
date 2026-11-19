@@ -12,10 +12,10 @@ line:
 summary: >-
   The owner's, from U9 of the exchange "Topological protection explained"
   (2026-11-18): "I have a hunch this fibration approach relates nicely to"
-  Li and Webb's study of what drives symbolic mechanisms (LIT-tmpqgxkn).
+  Li and Webb's study of what drives symbolic mechanisms ([LIT-tmpqgxkn](../literature.d/LIT-tmpqgxkn.md)).
   The fibration approach is the balanced-partition theory of synchrony the
-  record holds as THEORY-1065 and THEORY-1059, which the owner had just
-  met in Gili et al. (LIT-tmp8nrv2). A21 sharpened the hunch: both are
+  record holds as [THEORY-1065](../theory.d/THEORY-1065.md) and [THEORY-1059](../theory.d/THEORY-1059.md), which the owner had just
+  met in Gili et al. ([LIT-tmp8nrv2](../literature.d/LIT-tmp8nrv2.md)). A21 sharpened the hunch: both are
   quotients that keep the operations that matter, one of inputs by
   relabelling, one of units by equal input trees. Li and Webb, read, say
   nothing at the level of units or partitions, so the link is untested.
@@ -35,10 +35,10 @@ The owner, at U9 of the exchange "Topological protection explained"
 Two quotients are in play. Role abstraction identifies inputs that differ
 only by which arbitrary tokens fill the roles: Li and Webb's rule
 representation is what stays invariant when the vocabulary is
-relabelled (THEORY-tmpmtmq7, CLAIM-113). A balanced partition identifies
+relabelled ([THEORY-tmpmtmq7](../theory.d/THEORY-tmpmtmq7.md), [CLAIM-113](../claims.d/CLAIM-113.md)). A balanced partition identifies
 units that receive equivalent inputs, so any admissible dynamics keeps
-them synchronized (THEORY-1065), and the network can be run on the
-quotient (THEORY-1059). A21 put the bridge as commuting maps: a rule
+them synchronized ([THEORY-1065](../theory.d/THEORY-1065.md)), and the network can be run on the
+quotient ([THEORY-1059](../theory.d/THEORY-1059.md)). A21 put the bridge as commuting maps: a rule
 extractor that factors through the input quotient, against
 F_A(Cy) = C F_B(y) for a fibration. They are different quotients; an
 input-relabelling quotient is not a graph fibration.
@@ -46,11 +46,11 @@ input-relabelling quotient is not a graph fibration.
 ## A route between them
 
 At zero role-token bias the training distribution is invariant under
-relabelling. THEORY-981 holds that when data is invariant under a group
+relabelling. [THEORY-981](../theory.d/THEORY-981.md) holds that when data is invariant under a group
 the network is equivariant to, population gradient descent stays in the
 weight subspace the group fixes; weight symmetry gives orbit synchrony
-among units (THEORY-276); balanced partitions generalize that synchrony
-beyond symmetry (THEORY-1065). The route is the filer's reasoning from
+among units ([THEORY-276](../theory.d/THEORY-276.md)); balanced partitions generalize that synchrony
+beyond symmetry ([THEORY-1065](../theory.d/THEORY-1065.md)). The route is the filer's reasoning from
 the reader's report. Fibration would add something over symmetry only
 where role structure arises without a group acting on the units.
 
@@ -61,7 +61,7 @@ hidden units' weight graph. Exact ones are trivial for generic trained
 weights, so a tolerance is needed. Then ask whether the rule direction
 lies in the span of the partition's synchrony subspace more than chance
 would give. Compare high-diversity models with full-bias models and
-random-initialization models (THEORY-1002's control), and track the
+random-initialization models ([THEORY-1002](../theory.d/THEORY-1002.md)'s control), and track the
 measure across the late rise in flip rate at small vocabularies. If the
 hunch holds, the partition coarsens and aligns with the role direction as
 the flip rate rises. Velarde, Parra, Hashemi and Makse (LIT registered
@@ -70,6 +70,6 @@ trained networks and are the evidence on the fibration side.
 
 ## Bearing so far
 
-- Li and Webb (THEORY-tmpmtmq7): silent at the level of units.
-- Gili et al. (THEORY-tmp8my3p): balanced partitions inferred from
+- Li and Webb ([THEORY-tmpmtmq7](../theory.d/THEORY-tmpmtmq7.md)): silent at the level of units.
+- Gili et al. ([THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md)): balanced partitions inferred from
   synchrony in brains, not from trained networks.

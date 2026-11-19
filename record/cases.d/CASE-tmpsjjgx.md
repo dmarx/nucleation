@@ -24,13 +24,13 @@ summary: >-
   explained" (2026-11-18): "how graph clusters/communities like coherent
   "genres" emerge in engagement data like person-film ratings or
   user-subreddit participation". The owner said it "should be described
-  in Nucleation"; it was not found. The nearest held entries are CASE-042,
+  in Nucleation"; it was not found. The nearest held entries are [CASE-042](CASE-042.md),
   the owner's collaborative-filtering laboratory for communicative kinds,
-  CASE-097 and QUESTION-113, the owner's LEGO archetypes from part
-  co-occurrence, and QUESTION-276, perspectives from member activity. The
+  [CASE-097](CASE-097.md) and [QUESTION-113](../questions.d/QUESTION-113.md), the owner's LEGO archetypes from part
+  co-occurrence, and [QUESTION-276](../questions.d/QUESTION-276.md), perspectives from member activity. The
   joint identification, the confounds and the three-arm laboratory are
   A's (A24, A26 §11, A27 §5, A29 §9), and A24's toy matrix is
-  hypothetical. It illustrates the owner's CLAIM-tmpw8xkt.
+  hypothetical. It illustrates the owner's [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md).
 ---
 <!-- inactive-ok-file: LIT-tmpc7kaa — Deferred; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-119 CLAIM-327 CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
@@ -50,13 +50,13 @@ when the same people engage with them in the same way; two people are
 when they engage with the same films. Identifying each side by its
 profile over the other is what yields genres and audiences, each relative
 to the other (A24 §2; a degree-corrected bipartite block model is the
-standard estimator, LIT-tmpc7kaa). Formal concept analysis gives the
+standard estimator, [LIT-tmpc7kaa](../literature.d/LIT-tmpc7kaa.md)). Formal concept analysis gives the
 exact form: concepts are pairs of a set of people and a set of films each
-of which determines the other (A26 §4; CLAIM-119). The classes then
+of which determines the other (A26 §4; [CLAIM-119](../claims.d/CLAIM-119.md)). The classes then
 become distinctions in use: a recommender routes by genre, users find
 each other by it, creators write for it.
 
-## What makes it a case of CLAIM-tmpw8xkt
+## What makes it a case of [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md)
 
 The differences among films within a genre, and among people within an
 audience, stop mattering to the process, and the classes become what
@@ -67,9 +67,9 @@ the classes should predict engagement as well as one defined on items.
 ## Confounds (A24 §6; held)
 
 Shared exposure, popularity, platform promotion and selection all
-produce clusters; a missing rating is not a dislike (CASE-042's
+produce clusters; a missing rating is not a dislike ([CASE-042](CASE-042.md)'s
 missing-not-at-random rule). The latent classes are identified only up
-to a gauge unless anchors fix them (CASE-042, THEORY-993).
+to a gauge unless anchors fix them ([CASE-042](CASE-042.md), [THEORY-993](../theory.d/THEORY-993.md)).
 
 ## A laboratory (A26 §11, A27 §5, A29 §9)
 
@@ -87,8 +87,8 @@ overcompression.
 
 The third arm is where a category confirms itself: if users come to
 behave as the genre says because the recommender treats them so, the
-category's predictive success no longer warrants it as a kind (CLAIM-402,
-CLAIM-327). A's three outcomes for that arm, that the loop reinforces,
+category's predictive success no longer warrants it as a kind ([CLAIM-402](../claims.d/CLAIM-402.md),
+[CLAIM-327](../claims.d/CLAIM-327.md)). A's three outcomes for that arm, that the loop reinforces,
 creates or erases distinctions, are what to look for. The laboratory
 cannot show what the owner's real data showed; the owner's earlier
 analysis is not on record.

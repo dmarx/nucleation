@@ -16,7 +16,7 @@ summary: >-
   The support for A's claim (A48 §4 of the exchange "Topological protection
   explained") that an acquisition can be valued by its effect on later
   acquisitions. Load-bearing: the claim's warrant is demonstrated and
-  CASE-tmpplox8 is its only witness. Both critical questions are
+  [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md) is its only witness. Both critical questions are
   answered. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -26,7 +26,7 @@ summary: >-
 
 ## The inference
 
-1. In CASE-tmpplox8, P alone nets −2 and Q alone nets −1.
+1. In [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md), P alone nets −2 and Q alone nets −1.
 2. P then Q nets +6, the best of the four policies.
 3. So valuing each acquisition by its own savings rejects both, while the
    best policy includes P, whose return on its own tasks is negative.

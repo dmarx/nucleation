@@ -30,7 +30,7 @@ summary: >-
   information gain to discriminating among alternative model structures.
   Here because the owner asked at U31 what the free-energy literature
   offers; A69 named this as prior art for structure learning, beside
-  THEORY-564. Unverified until read.
+  [THEORY-564](../theory.d/THEORY-564.md). Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -40,4 +40,4 @@ Friston, Da Costa, Tschantz, Heins et al. (2026). Nature Communications, DOI 10.
 
 ## Standing in the record
 
-Registered on 2026-11-19 from A69 and A71 of the exchange "Topological protection explained". The owner asked at U31 what the free-energy literature offers; A69 named this as prior art for structure learning, beside THEORY-564. Not read.
+Registered on 2026-11-19 from A69 and A71 of the exchange "Topological protection explained". The owner asked at U31 what the free-energy literature offers; A69 named this as prior art for structure learning, beside [THEORY-564](../theory.d/THEORY-564.md). Not read.
