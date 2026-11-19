@@ -14,3 +14,12 @@
 
 ## Next
 - Bearings in the record.
+
+## Bearings searched (done)
+- Record holds no LIT for this work (no hit for the arXiv id or the first author).
+- CLAIM-756: background at most. No intervention, no cost of a later acquisition measured; "aligned with the endpoint early" is not "lowers the later cost".
+- QUESTION-039: bears on it (data-type timing of alignment shifts; size-dependent timing; mid-stage peak), descriptively, from one data order per run.
+- THEORY-tmpd6smn (Liu et al.): parallel in direction to late-STEM; tension with "heavy code early helps most". THEORY-tmpk9cmk, THEORY-tmpd6l4a, THEORY-tmp0lbb1: background; Sec. 5.5 itself says easy-to-hard is not fully supported.
+- Others: THEORY-2013 (Pythia, its testbed), THEORY-279 (low-order first; parallel), CASE-294 (Pythia checkpoint study; method neighbour), THEORY-tmprqq7k (order within conversation barely matters), CLAIM-758/THEORY-2006 (late-stage rising opponent share; weak parallel only).
+- Owner's recollection: NOT this paper's result. Its "conversational" is one excerpt in App. B.1; the domains are classifier topics, no Reddit/forum analysis.
+- Quotes verified by script against the downloaded text (whitespace-normalized).
