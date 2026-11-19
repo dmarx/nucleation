@@ -1,0 +1,53 @@
+---
+status: Open
+title: 'Compute turns per filed entry and set inbound references and turns per anchor against drift judged blind, to test the anchoring theses on the record''s own exchanges'
+version: 1
+stage: idea
+method:
+- empirical
+tags:
+- design-rationale
+- epistemology
+date: '2026-11-19'
+line:
+- nucleating-argument
+advances:
+- CLAIM-185
+- CLAIM-186
+- CLAIM-192
+- CLAIM-182
+- QUESTION-038
+operationalized_in:
+- CASE-183
+summary: >-
+  Cheap: it uses the record's own data, and the nucleating-argument line's
+  own measure is half computed. Named in CASE-183, CLAIM-186, ARG-028 and
+  QUESTION-038. Filed by the backlog audit of 2026-11-19.
+---
+<!-- inactive-ok-file: ARG-028 CLAIM-186 CLAIM-192 — Proposed; cited in the backlog audit of 2026-11-19 -->
+
+# LEAD-tmp2zwcx: Compute turns per filed entry and set inbound references and turns per anchor against drift judged blind, to test the anchoring theses on the record's own exchanges
+
+## What it would do
+
+Count turns per filed entry for each stretch of the reconstructed
+exchanges, have drift judged blind, and set both against inbound
+references per code. Look for a slower or differently anchored exchange to
+compare.
+
+Where the record names it:
+
+- CASE-183: "turns per filed entry have not been computed."
+- CLAIM-186: "inbound references per code are now counted, turns per filed
+  entry still are not."
+- ARG-028: "Inbound-reference counts and turns per anchor that agree with
+  drift judged blind"
+- QUESTION-038: "Inbound references per code tell an anchor from a
+  structure that only persists."
+
+## What would count
+
+Drift that falls where turns per anchor fall supports CLAIM-186 and
+ARG-028. No relation, or drift that tracks something else, counts against
+the anchoring theses and against CLAIM-192's anchoring-rate test as their
+intervention.
