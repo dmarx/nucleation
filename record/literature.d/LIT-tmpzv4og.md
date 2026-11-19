@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmp5lpoy), from arXiv 2502.19249v2 (2025-05-27; v1 2025-02-26), the ACL
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmp5lpoy), from arXiv 2502.19249v2 (2025-05-27; v1 2025-02-26), the ACL
     2025 camera-ready; venue and DOI from the ACL Anthology. Not held
     before.
 tags:

@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmp5lpoy), from arXiv 2408.03617v2 (2024-10-08; v1 2024-08-07), EMNLP
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmp5lpoy), from arXiv 2408.03617v2 (2024-10-08; v1 2024-08-07), EMNLP
     2024 per the arXiv comment. Not held before.
 tags:
 - learning-theory
@@ -29,8 +29,8 @@ summary: >-
   order by child age, reversed or random makes little difference to final
   syntax and semantics (GPT-2 only, weakly powered), while shuffling
   utterances within conversations hurts on CHILDES. Conversational data
-  helps syntax at equal tokens. No later domain is learned. Read in NOTE-
-  tmpu1se9; account [THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md).
+  helps syntax at equal tokens. No later domain is learned. Read in
+  NOTE-tmpu1se9; account [THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md).
 ---
 
 # LIT-tmpdvkoo: Is Child-Directed Speech Effective Training Data for Language Models?

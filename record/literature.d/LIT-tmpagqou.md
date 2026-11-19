@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmp5lpoy), from arXiv 2307.14430v1 (2023-07-26, checked on the arXiv
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmp5lpoy), from arXiv 2307.14430v1 (2023-07-26, checked on the arXiv
     API, no email sent), with the NeurIPS 2023 proceedings version compared
     where it changed. Not held before.
 tags:

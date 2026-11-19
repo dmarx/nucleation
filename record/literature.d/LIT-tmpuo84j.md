@@ -9,8 +9,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmp5lpoy), from the copy on co-author Collobert's site (an author's
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmp5lpoy), from the copy on co-author Collobert's site (an author's
     page, ADR-074). DOI checked on Crossref without mailto: ICML 2009, pp.
     41-48. The published date is the conference's opening day, 2009-06-14,
     not an exact publication date; unverified. Not held before.

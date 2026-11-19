@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmp5lpoy), from arXiv 2004.10964v3 (ACL 2020; checked on the arXiv API,
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmp5lpoy), from arXiv 2004.10964v3 (ACL 2020; checked on the arXiv API,
     no email sent; v1 2020-04-23 from the abstract page). Not held before.
 tags:
 - learning-theory

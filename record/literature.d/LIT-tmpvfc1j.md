@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmp5lpoy), from arXiv 2510.14865v2 (2026-02-02; v1 2025-10-16), in full.
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmp5lpoy), from arXiv 2510.14865v2 (2026-02-02; v1 2025-10-16), in full.
     Listed at ICML 2026 on icml.cc; the arXiv version names no venue. Not
     held before.
 tags:
