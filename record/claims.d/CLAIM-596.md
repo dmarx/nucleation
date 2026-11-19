@@ -114,7 +114,7 @@ sparing the time it would take to form.
 - **Anything about which route real nuclei take.**
 
 ## Note of 2026-11-19: Bengio, Louradour, Collobert and Weston, read
-A qualification (NOTE-tmpk9cmk): the founding curriculum paper reports mostly end yields, the measure this claim says cannot tell a generative nucleus from a head start; only its language-model curve, where the curriculum model gets "better on the new words" quickly, speaks to the rate of the later step.
+A qualification (NOTE-tmpk9vq9): the founding curriculum paper reports mostly end yields, the measure this claim says cannot tell a generative nucleus from a head start; only its language-model curve, where the curriculum model gets "better on the new words" quickly, speaks to the rate of the later step.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
 <!-- inactive-ok-file: THEORY-tmp1b3hj THEORY-tmp9adpz THEORY-tmpf6s7m THEORY-tmply4g3 THEORY-tmpngig0 THEORY-tmpshgvo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
