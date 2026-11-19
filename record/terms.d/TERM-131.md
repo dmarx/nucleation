@@ -110,9 +110,9 @@ Hernandez and colleagues' effective data transferred ([THEORY-tmp1mk7r](../theor
 a worked operationalization of the counterfactual cost this term asks for,
 in samples: the data the same-size system would have needed without the
 experience. Papadimitriou and Jurafsky's frozen-weight transfer
-(THEORY-tmpf6s7m) runs the same later step against different histories with random
+([THEORY-tmpf6s7m](../theory.d/THEORY-tmpf6s7m.md)) runs the same later step against different histories with random
 text as the null, but measures what the system can later do, not at what
 cost. A caution from the attribution studies ([THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md),
-THEORY-tmp1b3hj): alignment of an update with a run's endpoint or a target is not
+[THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md)): alignment of an update with a run's endpoint or a target is not
 learning from the experience in this term's sense, which needs a
 counterfactual.

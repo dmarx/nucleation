@@ -126,7 +126,7 @@ An application of the term ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)): a dec
 <!-- inactive-ok-file: THEORY-tmpq9sev — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Applications from the follow-up readings: in the procedural paper
-(THEORY-tmpmy98s) productivity is a vector over targets (one procedure raises
+([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) productivity is a vector over targets (one procedure raises
 multiplication and collapses sorting), the first phase has an optimal
 length, and shuffled data or weights remove the effect, an interventional
 test; Petty and colleagues ([THEORY-tmpq9sev](../theory.d/THEORY-tmpq9sev.md)) find code promotes formal-

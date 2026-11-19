@@ -48,10 +48,10 @@ differ and neither controls the learning-rate schedule, so a plasticity-
 window reading should not be generalized to the conclusion that late
 specialized data hurts. Feng, Prabhumoye and colleagues ([THEORY-tmpngig0](THEORY-tmpngig0.md))
 agree with Blakeney on base-model scores. Akter and colleagues
-(THEORY-tmpgk8nb) are the closest parallel: specialized data substituted into
+([THEORY-tmpgk8nb](THEORY-tmpgk8nb.md)) are the closest parallel: specialized data substituted into
 pretraining helps later fine-tuning. Aryabumi and colleagues
-(THEORY-tmpbsmcq) are consistent on early code. Ma and colleagues
-(THEORY-tmp9adpz) leave open, uncontrolled, the pretraining-stage question this
+([THEORY-tmpbsmcq](THEORY-tmpbsmcq.md)) are consistent on early code. Ma and colleagues
+([THEORY-tmp9adpz](THEORY-tmp9adpz.md)) leave open, uncontrolled, the pretraining-stage question this
 account answers at matched tokens. Nishida and colleagues
-(THEORY-tmp5jrhv) find early code and STEM examples weakly aligned, attribution
+([THEORY-tmp5jrhv](THEORY-tmp5jrhv.md)) find early code and STEM examples weakly aligned, attribution
 only.

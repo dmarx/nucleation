@@ -41,7 +41,7 @@ hyperparameters.
 <!-- inactive-ok-file: THEORY-tmp5jrhv THEORY-tmpshgvo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Three parallel tests of easy-first ordering. Zhang and colleagues
-(THEORY-tmply4g3) find it reaches a random baseline's best in 18 to 45 per cent
+([THEORY-tmply4g3](THEORY-tmply4g3.md)) find it reaches a random baseline's best in 18 to 45 per cent
 fewer steps in language-model pretraining, with the gap mostly closing by
 the end under strict ordering and a lasting gain when the curriculum is a
 warm-up; constant learning rate, mostly single runs. Opper and colleagues

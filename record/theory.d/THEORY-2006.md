@@ -70,5 +70,5 @@ Yıldız and colleagues ([THEORY-tmpvbozh](THEORY-tmpvbozh.md)) find Llama2-7B, 
 tokens, degraded by small-domain continued pretraining where GPT2-XL is
 not, which fits this account but which the authors attribute to domain
 size; pretraining length is not varied. Akter and colleagues
-(THEORY-tmpgk8nb) find no worsening of later fine-tuning from reasoning-rich
+([THEORY-tmpgk8nb](THEORY-tmpgk8nb.md)) find no worsening of later fine-tuning from reasoning-rich
 pretraining. Analogies.

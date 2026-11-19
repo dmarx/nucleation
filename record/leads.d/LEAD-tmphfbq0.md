@@ -64,12 +64,12 @@ Hu and colleagues' setup ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)) is prior
 
 Candidates for the reading this lead now asks for first, from the
 follow-up readings, none a full match. Petty and colleagues
-(THEORY-tmpq9sev) measure how a learned component (code) changes later
+([THEORY-tmpq9sev](../theory.d/THEORY-tmpq9sev.md)) measure how a learned component (code) changes later
 compositional generalization, at size-matched controls, but as final
 accuracy without a matched first stage or an intervention. The
-procedural-pretraining paper (THEORY-tmpmy98s) measures a later cost with
+procedural-pretraining paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) measures a later cost with
 and without a learned component and removes the saving by shuffling the
 transferred weights, an intervention on the learned representation; its
 components are procedures, not a shared latent mapping. Papadimitriou and
-Jurafsky (THEORY-tmpf6s7m) transfer frozen structure to a later task. A
+Jurafsky ([THEORY-tmpf6s7m](../theory.d/THEORY-tmpf6s7m.md)) transfer frozen structure to a later task. A
 targeted search of the task-composition literature is still to do.

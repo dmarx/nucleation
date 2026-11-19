@@ -46,7 +46,7 @@ warmup in all two-phase arms; post-hoc ablation for mechanism.
 <!-- inactive-ok-file: ARG-tmp30ltz THEORY-tmpf6s7m THEORY-tmpmy98s THEORY-tmpq9sev — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Three readings bear on this account. Stern and colleagues
-(THEORY-tmpsewbi; [NOTE-tmph6c5h](../notes.d/NOTE-tmph6c5h.md)) qualify its generality: with a tuned
+([THEORY-tmpsewbi](THEORY-tmpsewbi.md); [NOTE-tmph6c5h](../notes.d/NOTE-tmph6c5h.md)) qualify its generality: with a tuned
 initialization and matched compute, k-Dyck never beats natural-language-
 only training in any of three regimes, and an earlier reported gain shrank
 when the baseline's embedding scale was fixed; under this account's own
