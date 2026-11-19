@@ -177,3 +177,17 @@ In [CASE-163](../cases.d/CASE-163.md), identifying a mechanism's class and recov
 parameters are separate verdicts, and each depends on what probes the
 budget allows. These are witnesses of the distinctions in one stipulated
 model, not an argument for the classification. The claim is unchanged.
+
+## Note of 2026-11-19: Carnap, read
+<!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
+
+Carnap's two requirements on a language for inductive logic (§18B) are of
+the two kinds the claim separates (THEORY-tmp1kxhj, corroborates).
+Logical independence of the atomic sentences is a condition on the
+representation itself. Completeness, that the predicates suffice "for
+expressing every qualitative attribute of the individuals in the
+universe", is adequacy relative to a purpose and a target: a richer
+universe "is not a fitting interpretation for & for the purpose of
+inductive logic, although in deductive logic & could, of course, be used
+for this universe" (the OCR's "&" is the language). The claim is
+unchanged.

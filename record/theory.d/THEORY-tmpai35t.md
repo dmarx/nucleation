@@ -2,6 +2,16 @@
 status: Proposed
 title: 'Carnap (1950) holds that an explication replaces an inexact concept by an exact one and is judged as more or less satisfactory, not right or wrong, after the concept to be explicated has been made practically clear by examples of uses intended and not intended; an adequate explicatum is similar enough to it (considerable differences permitted), exact, fruitful for formulating general statements, and as simple as those three permit'
 version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed from the reading of chapter I. At the full reading the same day
+    a second, delegated reader of sections 2 and 3 confirmed the four
+    requirements, the comparative standard and the prior clarification of
+    the explicandum, which is this entry's promote_when; the status is left
+    for the owner, since both readings were made in one session. The rest
+    of the book shows the method in use (NOTE-tmpgrtgu, results 8 to 14).
 source:
 - LIT-tmpkck45
 tags:

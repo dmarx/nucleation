@@ -196,7 +196,7 @@ No status changes.
 
 ## Note of 2026-11-19: Carnap, read
 
-<!-- inactive-ok-file: THEORY-tmpai35t NOTE-tmpgrtgu ADR-tmptwlsg — Proposed or newly filed; the reading of 2026-11-19 and the decision it grounds -->
+<!-- inactive-ok-file: THEORY-tmpai35t ADR-tmptwlsg — Proposed or newly filed; the reading of 2026-11-19 and the decision it grounds -->
 
 Carnap's *Logical Foundations of Probability* (1950), chapter I, sections
 2 and 3, read at the owner's request ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md),
@@ -230,3 +230,25 @@ report ([THEORY-1797](../theory.d/THEORY-1797.md)), and it bears on both halves.
 
 No status change. What holds it back is still [CLAIM-476](CLAIM-476.md) (note of
 2026-10-30).
+
+## Note of 2026-11-19 (later): Carnap, read in full
+
+The whole book read (NOTE-tmpgrtgu). Beyond chapter I:
+
+- **First half.** The choice is made again and again inside the theory
+  and judged, not verified. A measure function's choice is "a purely
+  logical ques- tion" whose empirical content enters only through the
+  evidence (§55B); estimation "depends upon a choice, which is a matter of
+  prac- tical decision" (§98); c* is chosen "by comparing them with the
+  consequences of other definitions" and offered as provisional (§110A).
+  Degree of confirmation itself depends on the language chosen (§§14, 52).
+- **"Leaves others unstatable", qualified.** §45A: "For any single fact in
+  the world, a language sys- tem can be constructed which is capable of
+  representing that fact while others are not covered." What an apparatus
+  leaves unstatable is unstatable in it, not for good. That fits the
+  claim, which is about what a chosen apparatus makes determinate, and
+  limits a stronger reading of it.
+- **Second half.** Nothing beyond the Fish case. Carnap's indexing is to
+  purposes, not to those affected.
+
+No status change.

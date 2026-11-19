@@ -55,22 +55,34 @@ Nothing machine-readable tied the term to either. The owner asked on
    definition does its declared job better than its predecessor and its
    rivals. Its critical questions are Carnap's requirements for an
    explicatum (*Logical Foundations of Probability*, 1950, chapter I;
-   [LIT-tmpkck45](../literature.d/LIT-tmpkck45.md), read in [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), account [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md); the SEP
-   entry's report of them is [THEORY-1797](../theory.d/THEORY-1797.md)), with the comparison made
-   explicit:
-   - Is the explicandum clear: which uses was the word meant to cover,
-     and which not, shown by examples? Carnap puts this before any
-     explicatum is judged.
-   - Is it similar enough: does it apply in most cases where the word was
-     used, and is each departure, a paradigm case it excludes or a
-     contested case it decides, paid for by fruitfulness? Carnap permits
-     "considerable differences".
-   - Is it exact enough to apply?
-   - Is it fruitful: what becomes statable that was not?
-   - Is it as simple as the other requirements allow?
-   - Which predecessor and rivals is it judged against? For Carnap the
+   LIT-tmpkck45, read in NOTE-tmpgrtgu, account THEORY-tmpai35t; the SEP
+   entry's report of them is THEORY-1797), with the tests Carnap uses on
+   his own explicata later in the book:
+   - **Is the explicandum clear, and is it the rivals'?** Which uses was
+     the word meant to cover, and which not, shown by examples (§2)? And
+     do the rivals explicate the same thing? Carnap dissolves the dispute
+     over probability by finding two explicanda, both to be kept (§9),
+     and traces Hempel's conditions to a shift between two (§87). A rival
+     with another explicandum is not beaten, only set aside.
+   - **Is it similar enough?** Is it clearly too wide (it holds where the
+     word clearly does not) or clearly too narrow (the reverse), judged
+     on cases of practical agreement (§86)? Too narrow is the lesser
+     fault (§88). Other departures are allowed when fruitfulness pays for
+     them, and the adopted explicatum may overrule the old use (§§3, 5).
+   - **Does it meet the necessary conditions?** Any requirement every
+     adequate explicatum must meet, such as invariance or symmetry, rules
+     out a definition that fails it, whatever its other merits (§§53,
+     91).
+   - **Is it exact enough to apply, and interpreted, not only formal
+     (§6)?**
+   - **Is it fruitful: what becomes statable that was not?**
+   - **Is it as simple as the other requirements allow?** Simplicity
+     breaks ties and is never sufficient (§110A).
+   - **Against which predecessor and rivals, by what consequences?** The
      question is whether one explication is "more satisfactory than
-     another", not whether it is right.
+     another" (§2), judged by comparing consequences (§110A), and the
+     verdict is provisional. Evidence of adequacy should not come only
+     from the definition's own use, which cannot judge it (§103).
 3. **The verdict is on fit, not truth.** A definition is not true or
    false. [CLAIM-472](../claims.d/CLAIM-472.md) (Proposed) holds that choosing a distinction is open
    to evaluation and not only to verification; this is that evaluation

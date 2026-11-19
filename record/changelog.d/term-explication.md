@@ -1,4 +1,4 @@
-<!-- inactive-ok-file: THEORY-tmpai35t ADR-tmptwlsg ARG-tmp23khr TERM-tmp1ix99 — Proposed; filed in this contribution of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp1kxhj THEORY-tmpai35t ADR-tmptwlsg ARG-tmp23khr TERM-tmp1ix99 — Proposed; filed in this contribution of 2026-11-19 -->
 ### Added
 
 - [ADR-tmptwlsg](record/decisions.d/ADR-tmptwlsg.md) (Proposed): an ARG may conclude a TERM, in a new form,
@@ -14,3 +14,10 @@
   form's critical questions. The reading adds a question, whether the
   explicandum is clear by examples, and loosens similarity to allow
   departures paid for by fruitfulness.
+- Carnap's *Logical Foundations of Probability* read in full at the
+  owner's request (NOTE-tmpgrtgu version 2, THEORY-tmp1kxhj; curation
+  entry of 2026-11-19, 175403). The explication form gains Carnap's own
+  tests from later chapters; ARG-tmp23khr version 2 finds the
+  performance definition of learning an explicatum of another
+  explicandum, not a rival; dated notes on CLAIM-472, CLAIM-293,
+  CLAIM-294, CLAIM-401, THEORY-1239 and THEORY-1797.

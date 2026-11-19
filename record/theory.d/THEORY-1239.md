@@ -51,3 +51,17 @@ much holds of classical logic. That no repair can succeed is a forecast.
 Default logic and circumscription were built to make that repair, and the
 record has not read them. The memo's one engaged target is McCarthy's
 Airport problem.
+
+## Note of 2026-11-19: Carnap, read
+<!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
+
+A qualification from Carnap (THEORY-tmp1kxhj). His inductive logic keeps
+logic apart from its application, as the logistic systems Minsky
+criticizes do, yet lets later evidence lower an earlier assessment: by
+the requirement of total evidence, adding knowledge may make c "as well
+decrease as increase" (§45B). It gives degrees, not accepted defaults,
+and the displacement is done by re-evaluating on the whole evidence, not
+by a non-monotonic rule of inference. So it is not a repair of monotonic
+logic in Minsky's sense, but it is a logistic system in which later
+evidence displaces earlier assessments, which narrows how widely the
+account can be read.

@@ -90,3 +90,18 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **de Kleer** ([THEORY-1778](../theory.d/THEORY-1778.md)): *supports by contrast*: the ATMS's correctness rests on edges being Horn implications; where they are, topology does fix revision. This is the boundary condition of CLAIM-293, not a counterexample to it.
 
 The claim is unchanged.
+
+## Note of 2026-11-19: Carnap, read
+<!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
+
+Carnap's theory of relevance (THEORY-tmp1kxhj, corroborates) gives the
+claim a logical ground, under every regular confirmation function. High
+confirmation "is not transitive" (§59). Two items each positive to h can
+be negative to h together (§69, the chess tournament). And that i is
+positive to h fixes nothing about i's relevance to what h entails or what
+entails h: "it is not possible for us to infer whether 7 is positive,
+negative, or irrelevant to a sentence L-im- plied by / or to a sentence
+L-implying /" (§71, p. 397; the OCR's "7" is i and "/" is h). So the
+logical structure among sentences does not fix the direction or strength
+of support, which is the claim's point about a support graph's topology.
+The claim is unchanged.

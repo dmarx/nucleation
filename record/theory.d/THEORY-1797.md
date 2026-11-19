@@ -35,3 +35,15 @@ conceptual engineering, in which concepts are replaced by explication under desi
 similarity, exactness, fruitfulness and simplicity held as matters of degree, and the choice
 of a linguistic framework is a practical question judged by how well the framework serves
 its purposes rather than by truth.
+
+## Note of 2026-11-19: the primary text, read
+
+Carnap's *Logical Foundations of Probability* read in full
+(NOTE-tmpgrtgu). It confirms from the primary text what this account
+reports from the SEP entry: the four desiderata, held "to a sufficient
+degree" (§3), and evaluation rather than truth (§2). It adds the
+pluralism in use: two explicanda of probability, both kept (§9), and
+infinitely many explicata of a concept, each "not entirely inadequate"
+with "no sharp boundary line" (§54). The book does not use "framework"
+for the choice of a language; it chooses between language forms by which
+yields "a more adequate or more convenient inductive method" (§15B).

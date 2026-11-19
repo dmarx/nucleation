@@ -521,10 +521,12 @@ vocabularies:
         label: Explication
         blurb: 'a definition does its declared job better than its predecessor and rivals, judged as more
           or less satisfactory and not as true (Carnap 1950, THEORY-tmpai35t; CLAIM-472). It concludes
-          a TERM. Critical questions: is the explicandum clear, by examples of uses meant and not meant?
-          Is it similar enough, with each departure from the old use paid for by fruitfulness? Is it exact
-          enough to apply? Is it fruitful: what becomes statable that was not? Is it as simple as the
-          other requirements allow? Which predecessor and rivals is it judged against? (ADR-tmptwlsg)'
+          a TERM. Critical questions: is the explicandum clear, by examples of uses meant and not meant,
+          and is it the one the rivals explicate? Is it clearly too wide or too narrow on cases of practical
+          agreement, with other departures paid for by fruitfulness? Does it meet every necessary condition?
+          Is it exact and interpreted? Is it fruitful: what becomes statable that was not? Is it as simple
+          as the rest allow? Against which rivals, by what consequences, with evidence not drawn only from
+          its own use? (ADR-tmptwlsg)'
   question-statuses:
     label: Question statuses
     blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
