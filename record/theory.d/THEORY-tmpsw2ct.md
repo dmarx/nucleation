@@ -18,7 +18,7 @@ promote_when: >-
   tuning on few-shot adaptation within a declared task family at matched
   data.
 summary: >-
-  From the reading of LIT-tmphr4nm in NOTE-tmp3r6eu. Finn, Abbeel and
+  From the reading of [LIT-tmphr4nm](../literature.d/LIT-tmphr4nm.md) in [NOTE-tmp3r6eu](../notes.d/NOTE-tmp3r6eu.md). Finn, Abbeel and
   Levine (2017), ICML 2017, arXiv 1703.03400. MAML trains a network's
   initial parameters on the loss after one or a few gradient steps on each
   task drawn from a declared task distribution, so that the model is, in
@@ -26,9 +26,9 @@ summary: >-
   shot Omniglot and MiniImagenet and goal-conditioned RL it adapts from a
   handful of examples where joint pretraining on the same tasks does not.
   Here because its objective already targets future adaptability, the
-  disclaimer CLAIM-tmp8ljvp and QUESTION-tmpwqepn carry: the reading
+  disclaimer [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) and [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md) carry: the reading
   confirms it, for a declared task distribution and a declared adaptation
-  budget only. It also gives an empirical instance of CLAIM-tmp5gbzr, an
+  budget only. It also gives an empirical instance of [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md), an
   initialization ranked below joint training on present loss and above it
   once adaptation is counted. Read in its NOTE.
 ---
@@ -54,5 +54,5 @@ improving past the number of steps it was trained for.
 That the objective targets adaptability beyond the declared p(T) and the
 declared step budget; anything about the cost of acquiring new task
 families outside p(T); that the effect holds for large pretrained models.
-Later work (LIT-tmpm4bnq, Raghu et al.) argues the gain is mostly feature
+Later work ([LIT-tmpm4bnq](../literature.d/LIT-tmpm4bnq.md), Raghu et al.) argues the gain is mostly feature
 reuse rather than rapid learning, which this paper does not test.

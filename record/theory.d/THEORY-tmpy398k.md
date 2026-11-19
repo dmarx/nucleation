@@ -15,7 +15,7 @@ promote_when: >-
   MAML's meta-test accuracy and that restoring it, or adding a label-
   keying augmentation, recovers most of the loss.
 summary: >-
-  From the reading of LIT-tmpjmy81 in NOTE-tmp3nxjy. Rajendran, Irpan and
+  From the reading of [LIT-tmpjmy81](../literature.d/LIT-tmpjmy81.md) in [NOTE-tmp3nxjy](../notes.d/NOTE-tmp3nxjy.md). Rajendran, Irpan and
   Jang (2020), NeurIPS 2020, arXiv 2007.05549. They separate memorization
   overfitting, where the model ignores the support set, from learner
   overfitting, where the base learner fails on new tasks even when tasks
@@ -23,7 +23,7 @@ summary: >-
   random (label shuffling for classification, shared noise for regression)
   improves meta-test performance, on top of Yin et al.'s meta-
   regularization; Mini-ImageNet MAML rose from 30% to 46%. Here because
-  A54 used it beside Yin et al. (LIT-tmpws19o) for CASE-tmphsr99: the
+  A54 used it beside Yin et al. ([LIT-tmpws19o](../literature.d/LIT-tmpws19o.md)) for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md): the
   reading supports the case's held-out task-generating processes, since
   learner overfitting survives shuffling, and adds two rules, several
   seeds and pre/post-update accuracy as the diagnostic. Read in its NOTE.

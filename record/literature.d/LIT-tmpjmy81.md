@@ -33,11 +33,11 @@ summary: >-
   task's labels at random (label shuffling for classification, shared
   noise for regression) improves meta-test performance, on top of Yin et
   al.'s meta-regularization; Mini-ImageNet MAML rose from 30% to 46%. Here
-  because A54 used it beside Yin et al. (LIT-tmpws19o) for CASE-tmphsr99:
+  because A54 used it beside Yin et al. ([LIT-tmpws19o](LIT-tmpws19o.md)) for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md):
   the reading supports the case's held-out task-generating processes,
   since learner overfitting survives shuffling, and adds two rules,
   several seeds and pre/post-update accuracy as the diagnostic. Read in
-  its NOTE. Read in NOTE-tmp3nxjy; its account is THEORY-tmpy398k.
+  its NOTE. Read in [NOTE-tmp3nxjy](../notes.d/NOTE-tmp3nxjy.md); its account is [THEORY-tmpy398k](../theory.d/THEORY-tmpy398k.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpy398k — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->

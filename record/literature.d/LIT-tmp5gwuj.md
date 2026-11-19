@@ -35,10 +35,10 @@ summary: >-
   with damage, the patterns regenerate robustly, even from damage not seen
   in training. Here because A15 of the exchange "Topological protection
   explained" used it to separate persistence from regeneration, held as
-  CLAIM-566: the three training regimes do separate growth, persistence
+  [CLAIM-566](../claims.d/CLAIM-566.md): the three training regimes do separate growth, persistence
   and regeneration, though persistence training brings some regeneration
   with it, and the regenerating rule is supplied from outside the pattern.
-  Read in its NOTE. Read in NOTE-tmpz3s4o; its account is THEORY-tmpeaw52.
+  Read in its NOTE. Read in [NOTE-tmpz3s4o](../notes.d/NOTE-tmpz3s4o.md); its account is [THEORY-tmpeaw52](../theory.d/THEORY-tmpeaw52.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpeaw52 — Proposed; cited in this filing of 2026-11-19 -->
 

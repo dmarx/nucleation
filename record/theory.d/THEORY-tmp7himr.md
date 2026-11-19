@@ -15,7 +15,7 @@ promote_when: >-
   the late, size-dependent onset of the term-frequency correlation are
   reproduced from them.
 summary: >-
-  From the reading of LIT-tmpyyhs0 in NOTE-tmpzf8fo. Biderman, Schoelkopf,
+  From the reading of [LIT-tmpyyhs0](../literature.d/LIT-tmpyyhs0.md) in [NOTE-tmpzf8fo](../notes.d/NOTE-tmpzf8fo.md). Biderman, Schoelkopf,
   Anthony, Bradley, O'Brien and others (2023), ICML 2023, arXiv
   2304.01373. Pythia is eight decoder-only language models, 70M to 12B
   parameters, each trained once on the Pile and once on a deduplicated
@@ -25,7 +25,7 @@ summary: >-
   one run per size, cosine learning-rate decay to a tenth of peak. Its
   case studies find training order has little effect on memorization and a
   term-frequency effect on few-shot accuracy that appears only late and
-  only at 2.8B and above. Here because it is the testbed of CASE-tmphsr99,
+  only at 2.8B and above. Here because it is the testbed of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md),
   whose named models (70M- and 160M-deduped) and checkpoints exist as
   described, and because many THEORY entries use its models without an
   entry for the suite. Read in its NOTE.

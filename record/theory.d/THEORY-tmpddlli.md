@@ -19,7 +19,7 @@ promote_when: >-
   reused skills helping far more often than they harm and a compute
   penalty lowering adaptation compute without lowering utility.
 summary: >-
-  From the reading of LIT-tmpa8gus in NOTE-tmp0i0a5. Lu and Kankanhalli
+  From the reading of [LIT-tmpa8gus](../literature.d/LIT-tmpa8gus.md) in [NOTE-tmp0i0a5](../notes.d/NOTE-tmp0i0a5.md). Lu and Kankanhalli
   (2026), arXiv 2610.12002. Five test-time-training methods become tools
   that produce reusable LoRA skills over a frozen backbone, and a policy
   trained by distillation and GRPO decides per query whether to answer
@@ -30,7 +30,7 @@ summary: >-
   without losing utility, and amortizes skill construction through reuse
   (61 of 100 reuses help, 1 harms). Here because A58 cited it for learning
   when to update: its rule, build when gain amortized over expected reuse
-  covers the compute, is QUESTION-095's trade and CLAIM-303's criterion
+  covers the compute, is [QUESTION-095](../questions.d/QUESTION-095.md)'s trade and [CLAIM-303](../claims.d/CLAIM-303.md)'s criterion
   for parameter skills. Read in its NOTE.
 ---
 

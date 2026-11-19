@@ -15,7 +15,7 @@ promote_when: >-
   later reading), and an independent replication finds Reptile within a
   few points of MAML on few-shot Omniglot and Mini-ImageNet.
 summary: >-
-  From the reading of LIT-tmp2gj7u in NOTE-tmparjas. Nichol, Achiam and
+  From the reading of [LIT-tmp2gj7u](../literature.d/LIT-tmp2gj7u.md) in [NOTE-tmparjas](../notes.d/NOTE-tmparjas.md). Nichol, Achiam and
   Schulman (2018), OpenAI, arXiv 1803.02999. Reptile meta-learns an
   initialization by repeatedly training on a sampled task and moving the
   initialization toward the result; it matches MAML on few-shot Omniglot

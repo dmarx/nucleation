@@ -18,7 +18,7 @@ promote_when: >-
   Floquet Chern numbers zero and an edge count equal to the winding
   number.
 summary: >-
-  From the reading of LIT-tmp2dmok in NOTE-tmpkrdm9. Rudner, Lindner, Berg
+  From the reading of [LIT-tmp2dmok](../literature.d/LIT-tmp2dmok.md) in [NOTE-tmpkrdm9](../notes.d/NOTE-tmpkrdm9.md). Rudner, Lindner, Berg
   and Levin (2012; v2 2013), arXiv 1212.3324, published in Physical Review
   X 3, 031005 (2013). In periodically driven, non-interacting 2D lattices,
   chiral edge modes can exist when every Floquet band has Chern number
@@ -26,7 +26,7 @@ summary: >-
   evolution operator over the whole driving period, not any property of
   the one-period Floquet operator. Two drives with the same stroboscopic
   bulk can have opposite edge chirality. It is here for interfaces between
-  dynamically distinguished phases (QUESTION-378, QUESTION-tmp57ji2). The
+  dynamically distinguished phases ([QUESTION-378](../questions.d/QUESTION-378.md), [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md)). The
   paper establishes that phases can be told apart only by their intra-
   cycle dynamics, but it treats edges against vacuum, not interfaces
   between two driven regions. Read in its NOTE.

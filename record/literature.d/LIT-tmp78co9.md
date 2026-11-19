@@ -35,11 +35,11 @@ summary: >-
   faster at 128K), but loses to full attention on needle-in-a-haystack
   recall, and training is 3.4× slower at 8K. Here because A58 cited it for
   the owner's U26 case: its per-sequence weights and meta-learned
-  initialization separate signal from interpreter (CLAIM-118), it prices
-  work moved from inference into training (QUESTION-095), and its finding
+  initialization separate signal from interpreter ([CLAIM-118](../claims.d/CLAIM-118.md)), it prices
+  work moved from inference into training ([QUESTION-095](../questions.d/QUESTION-095.md)), and its finding
   that test-time updates on an ordinarily trained model add little bears
-  on the TTT arm of CASE-tmphsr99. Read in its NOTE. Read in NOTE-
-  tmp2v2zr; its account is THEORY-tmpv904w.
+  on the TTT arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Read in its NOTE. Read in NOTE-
+  tmp2v2zr; its account is [THEORY-tmpv904w](../theory.d/THEORY-tmpv904w.md).
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmpv904w — Proposed; cited in this filing of 2026-11-19 -->
 

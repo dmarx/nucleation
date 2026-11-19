@@ -49,10 +49,10 @@ The paper turns "in-context learning" into a well-posed question. A model in-con
 
 ## Bearing on the record
 
-- **CLAIM-118** (supports). The trained transformer is an interpreter whose weights, shaped across many functions, carry a learning algorithm; each prompt's function is held only in the forward pass and discarded. That is the claim's split: the per-sequence fit is signal, the learned estimator is interpreter. It fits the distinction and does not test it.
-- **THEORY-169** (qualifies). The exact identities there hold for constructed or single layers. Garg et al. show what trained deep models do behaviourally: near least squares, near Lasso on sparse targets, better than greedy trees. These are not one gradient step, consistent with THEORY-169's caution that trained transformers are not shown to do gradient descent.
-- **THEORY-481** (consistent). THEORY-481 derives a single linear-attention layer converging to a preconditioned estimator. Garg et al. report the empirical counterpart for deep softmax transformers, with the same plateau-then-drop learning curve without a curriculum.
-- **CLAIM-697** (leaves open). Capacity and the number of examples act as budgets, but the paper concerns a model trained for one class and does not separate coverage from delivery.
+- **[CLAIM-118](../claims.d/CLAIM-118.md)** (supports). The trained transformer is an interpreter whose weights, shaped across many functions, carry a learning algorithm; each prompt's function is held only in the forward pass and discarded. That is the claim's split: the per-sequence fit is signal, the learned estimator is interpreter. It fits the distinction and does not test it.
+- **[THEORY-169](../theory.d/THEORY-169.md)** (qualifies). The exact identities there hold for constructed or single layers. Garg et al. show what trained deep models do behaviourally: near least squares, near Lasso on sparse targets, better than greedy trees. These are not one gradient step, consistent with [THEORY-169](../theory.d/THEORY-169.md)'s caution that trained transformers are not shown to do gradient descent.
+- **[THEORY-481](../theory.d/THEORY-481.md)** (consistent). [THEORY-481](../theory.d/THEORY-481.md) derives a single linear-attention layer converging to a preconditioned estimator. Garg et al. report the empirical counterpart for deep softmax transformers, with the same plateau-then-drop learning curve without a curriculum.
+- **[CLAIM-697](../claims.d/CLAIM-697.md)** (leaves open). Capacity and the number of examples act as budgets, but the paper concerns a model trained for one class and does not separate coverage from delivery.
 
 ## Limitations
 

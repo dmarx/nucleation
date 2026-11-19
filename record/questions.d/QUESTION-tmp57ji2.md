@@ -67,6 +67,6 @@ anything here is topological.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Omidvar and colleagues (THEORY-tmp5hurd), read: a partial case of A10's bidirectional relation. In their buckled-beam racetrack, a mode localized at a domain wall softens under the opposite domain's pressure until it goes unstable, and the instability moves the wall, so the hosted mode decides where the defect is. But the mode is the wall's own fluctuation mode, not a separate bound field, and it displaces the wall rather than maintaining it. The wall exists only while an external static compression holds. The maintenance half of the question stays open.
+Omidvar and colleagues ([THEORY-tmp5hurd](../theory.d/THEORY-tmp5hurd.md)), read: a partial case of A10's bidirectional relation. In their buckled-beam racetrack, a mode localized at a domain wall softens under the opposite domain's pressure until it goes unstable, and the instability moves the wall, so the hosted mode decides where the defect is. But the mode is the wall's own fluctuation mode, not a separate bound field, and it displaces the wall rather than maintaining it. The wall exists only while an external static compression holds. The maintenance half of the question stays open.
 
 No status change.

@@ -38,9 +38,9 @@ summary: >-
   0.1% linear accuracy, the diagonal alone 57.3%, the full loss 71.4%. The
   information-bottleneck reading rests on a Gaussian assumption and stated
   approximations, and there is no theorem. Here because A27 used it as a
-  non-collapse mechanism (CLAIM-481's note of 2026-11-19); LIT-228 holds
-  its CCA reading. Read in its NOTE. Read in NOTE-tmptbvgq; its account is
-  THEORY-tmpanqm0.
+  non-collapse mechanism ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of 2026-11-19); [LIT-228](LIT-228.md) holds
+  its CCA reading. Read in its NOTE. Read in [NOTE-tmptbvgq](../notes.d/NOTE-tmptbvgq.md); its account is
+  [THEORY-tmpanqm0](../theory.d/THEORY-tmpanqm0.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpanqm0 — Proposed; cited in this filing of 2026-11-19 -->
 

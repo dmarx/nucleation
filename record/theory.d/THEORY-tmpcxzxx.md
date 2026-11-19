@@ -17,7 +17,7 @@ promote_when: >-
   examples, that finds the protected bound modes the δ-classification
   predicts and none where it predicts none.
 summary: >-
-  From the reading of LIT-tmp4lexz in NOTE-tmpr6z7k. Teo and Kane (2010),
+  From the reading of [LIT-tmp4lexz](../literature.d/LIT-tmp4lexz.md) in [NOTE-tmpr6z7k](../notes.d/NOTE-tmpr6z7k.md). Teo and Kane (2010),
   arXiv 1006.0690 (Phys. Rev. B 82, 115120). A unified classification of
   defects in non-interacting insulators and superconductors. It uses the
   homotopy class of the Bloch or Bogoliubov–de Gennes Hamiltonian H(k, r)
@@ -29,7 +29,7 @@ summary: >-
   structural charge fixes the mode invariant. In a disordered weak
   topological insulator the protected modes outlive the structure that
   produced them. It is here for the relation between defect topology and
-  bound modes (CLAIM-606, CLAIM-694). It shows these are two topologies of
+  bound modes ([CLAIM-606](../claims.d/CLAIM-606.md), [CLAIM-694](../claims.d/CLAIM-694.md)). It shows these are two topologies of
   different objects. What is protected is the hosted modes, not the
   defect's persistence. Skimmed in its NOTE.
 ---

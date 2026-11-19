@@ -18,7 +18,7 @@ promote_when: >-
   exchanging the two static compressions, and a wall-localized mode whose
   frequency goes to zero just before each hop.
 summary: >-
-  From the reading of LIT-tmp8sgre in NOTE-tmp9n17l. Omidvar, Bestler,
+  From the reading of [LIT-tmp8sgre](../literature.d/LIT-tmp8sgre.md) in [NOTE-tmp9n17l](../notes.d/NOTE-tmp9n17l.md). Omidvar, Bestler,
   Zahedi Fard, Zilberberg and Serra-Garcia (2026), Physical Review
   Letters, DOI 10.1103/jw9p-s3kk; read as arXiv 2509.01706 v1 (2025). In a
   chain of buckled polymer beams, bits stored as buckling domains are
@@ -28,9 +28,9 @@ summary: >-
   ratchet and distinguish it from Chern-number pumping, which is ill-
   defined on their path. Logic gates are simulated only. It is here as
   information transport by boundaries without learning, against the
-  learned defects of A15 (LIT-tmp01nqp). Its mechanical neighbours are
-  THEORY-1893 (buckled bistable domains, also only under standing
-  compression) and THEORY-1408, whose index-protected modes it does not
+  learned defects of A15 ([LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md)). Its mechanical neighbours are
+  [THEORY-1893](THEORY-1893.md) (buckled bistable domains, also only under standing
+  compression) and [THEORY-1408](THEORY-1408.md), whose index-protected modes it does not
   use. Read in its NOTE.
 ---
 <!-- inactive-ok-file: THEORY-1408 THEORY-1893 — Proposed; cited in this filing of 2026-11-19 -->

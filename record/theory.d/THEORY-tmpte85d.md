@@ -14,7 +14,7 @@ promote_when: >-
   Laplace-Beltrami analogy is asserted only as an analogy and needs
   nothing further.
 summary: >-
-  From the reading of LIT-tmp3egua in NOTE-tmpp5l9v. Belkin, Niyogi
+  From the reading of [LIT-tmp3egua](../literature.d/LIT-tmp3egua.md) in [NOTE-tmpp5l9v](../notes.d/NOTE-tmpp5l9v.md). Belkin, Niyogi
   (2001), Advances in Neural Information Processing Systems 14 (NIPS
   2001), read from the proceedings PDF on papers.nips.cc. Laplacian
   eigenmaps embed the vertices of a heat-kernel-weighted neighbourhood
@@ -27,7 +27,7 @@ summary: >-
   speculate that the natural clusters it brings out might ground
   perceptual categories. Here because A27 grounded the owner's U12
   connection, dissipation of differences as self-supervised learning, in
-  it (CLAIM-481's note of 2026-11-19; LIT-228 holds the SSL equivalence).
+  it ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of 2026-11-19; [LIT-228](../literature.d/LIT-228.md) holds the SSL equivalence).
   It has the energy and the collapse but no flow. Read in its NOTE.
 ---
 

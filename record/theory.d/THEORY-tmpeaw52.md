@@ -18,7 +18,7 @@ promote_when: >-
   ordering the article shows: growth-only below persistence-trained below
   damage-trained on persistence and recovery.
 summary: >-
-  From the reading of LIT-tmp5gwuj in NOTE-tmpz3s4o. Mordvintsev,
+  From the reading of [LIT-tmp5gwuj](../literature.d/LIT-tmp5gwuj.md) in [NOTE-tmpz3s4o](../notes.d/NOTE-tmpz3s4o.md). Mordvintsev,
   Randazzo, Niklasson and Levin (2020), Distill, DOI
   10.23915/distill.00023, CC-BY. A continuous cellular automaton with a
   small learned update rule shared by all cells grows an emoji from one
@@ -28,7 +28,7 @@ summary: >-
   with damage, the patterns regenerate robustly, even from damage not seen
   in training. Here because A15 of the exchange "Topological protection
   explained" used it to separate persistence from regeneration, held as
-  CLAIM-566: the three training regimes do separate growth, persistence
+  [CLAIM-566](../claims.d/CLAIM-566.md): the three training regimes do separate growth, persistence
   and regeneration, though persistence training brings some regeneration
   with it, and the regenerating rule is supplied from outside the pattern.
   Read in its NOTE.

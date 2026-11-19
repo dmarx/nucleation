@@ -18,10 +18,10 @@ promote_when: >-
   measure such as a largest Lyapunov exponent or recurrence
   quantification.
 summary: >-
-  From the reading of LIT-tmp19eqc in NOTE-tmp4u57l. Masumori, Sato and
+  From the reading of [LIT-tmp19eqc](../literature.d/LIT-tmp19eqc.md) in [NOTE-tmp4u57l](../notes.d/NOTE-tmp4u57l.md). Masumori, Sato and
   Ikegami (2026), Entropy 28(8):893, DOI 10.3390/e28080893; read as the
   authors' arXiv preprint 2607.12403. In a growing neural cellular
-  automaton trained to regenerate (Mordvintsev et al., LIT-tmp5gwuj), the
+  automaton trained to regenerate (Mordvintsev et al., [LIT-tmp5gwuj](../literature.d/LIT-tmp5gwuj.md)), the
   formed pattern is kept not at a fixed point but on a recurrent
   attracting state, with persistent fluctuations concentrated in a few
   "fluctuation cores" near the shape's boundaries; damage displaces the
@@ -31,7 +31,7 @@ summary: >-
   corrective and outward propagating predictive asymmetries during repair,
   which the authors do not read as causal flow. Here because A15 of the
   exchange "Topological protection explained" cited it beside Mordvintsev
-  et al. for CLAIM-566; it shows persistence and repair in this system as
+  et al. for [CLAIM-566](../claims.d/CLAIM-566.md); it shows persistence and repair in this system as
   one precarious activity, not two mechanisms. Read in its NOTE.
 ---
 

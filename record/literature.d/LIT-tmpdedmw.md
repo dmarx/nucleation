@@ -75,5 +75,5 @@ Kaschube, Schnabel, Löwel, Coppola et al. (2010). Science, DOI 10.1126/science.
 Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 cited them as defect-like singularities that need not be functional units, which bears on [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Not read.
 
 Not read: see the status note. Its stand-in, read on 2026-11-19, is
-LIT-tmpb3pen (Kaschube, Schnabel and Wolf 2008), for the model's pinwheel
+[LIT-tmpb3pen](LIT-tmpb3pen.md) (Kaschube, Schnabel and Wolf 2008), for the model's pinwheel
 density prediction only.

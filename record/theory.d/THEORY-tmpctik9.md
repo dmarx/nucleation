@@ -17,7 +17,7 @@ promote_when: >-
   removes the advantage, and the advantage of time-series over last-state
   readouts survives on at least one non-toy dataset.
 summary: >-
-  From the reading of LIT-tmpv822r in NOTE-tmpyjaii. Jacobs, Budzinski,
+  From the reading of [LIT-tmpv822r](../literature.d/LIT-tmpv822r.md) in [NOTE-tmpyjaii](../notes.d/NOTE-tmpyjaii.md). Jacobs, Budzinski,
   Muller, Ba and Keller (2025), arXiv 2502.06034. Recurrent networks with
   only local encoders and local recurrence learn to propagate travelling
   waves that bring whole-shape information to each pixel; reading each
@@ -28,7 +28,7 @@ summary: >-
   reproduces square drums' fundamental frequencies; even an unbiased
   convolutional LSTM learns waves. Here because A15 of the exchange
   "Topological protection explained" listed it beside Keller et al. as a
-  way learned systems carry information (QUESTION-tmpcb0bf), and LIT-647
+  way learned systems carry information ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)), and [LIT-647](../literature.d/LIT-647.md)
   mentions it. The role of the waves rests on comparisons and a training-
   time correlation, not on intervention. Read in its NOTE.
 ---

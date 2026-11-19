@@ -17,18 +17,18 @@ promote_when: >-
   within seed variation, and that CCA or CKA similarity of body
   representations before and after inner-loop adaptation stays near 1.
 summary: >-
-  From the reading of LIT-tmpm4bnq in NOTE-tmpuduuy. Raghu, Raghu, Bengio
+  From the reading of [LIT-tmpm4bnq](../literature.d/LIT-tmpm4bnq.md) in [NOTE-tmpuduuy](../notes.d/NOTE-tmpuduuy.md). Raghu, Raghu, Bengio
   and Vinyals (2019), arXiv 1909.09157, ICLR 2020. On standard few-shot
   benchmarks, freezing MAML's network body at test time barely changes
   accuracy, and body representations hardly move during adaptation (CCA
   above 0.9). MAML's success is therefore "feature reuse", not "rapid
   learning", and ANIL, which adapts only the head, matches MAML. It is
   here because A54 used it to separate reusable structure from the
-  capacity to acquire structure, a clause of CLAIM-tmp8ljvp. The paper
+  capacity to acquire structure, a clause of [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md). The paper
   supports that distinction between routes to fast adaptation but does not
   measure acquisition capacity over training or forgetting. It also warns
   that a low adaptation budget can measure reuse rather than plasticity
-  (CASE-tmphsr99). Read in its NOTE.
+  ([CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)). Read in its NOTE.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 

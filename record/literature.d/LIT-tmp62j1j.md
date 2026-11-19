@@ -42,9 +42,9 @@ summary: >-
   cost-blind selection can do no better than random, and greedy guarantees
   need submodularity, which active-learning criteria generally lack. Here
   because the owner said at U30 that the exchange was entering active-
-  learning territory. It bears on CLAIM-572's greedy-stopping result and
-  on the feedback premise of QUESTION-tmprj00l. Read in its NOTE
-  (skimmed). Read in NOTE-tmpob2w3; its account is THEORY-tmpsiaty.
+  learning territory. It bears on [CLAIM-572](../claims.d/CLAIM-572.md)'s greedy-stopping result and
+  on the feedback premise of [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md). Read in its NOTE
+  (skimmed). Read in [NOTE-tmpob2w3](../notes.d/NOTE-tmpob2w3.md); its account is [THEORY-tmpsiaty](../theory.d/THEORY-tmpsiaty.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpsiaty — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmpob2w3 — Skimmed; cited in this filing of 2026-11-19 -->

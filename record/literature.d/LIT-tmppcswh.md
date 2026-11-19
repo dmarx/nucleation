@@ -35,11 +35,11 @@ summary: >-
   recognition is above chance at every size but flat in size and number of
   demonstrations. Learning appears only in large models and grows with
   demonstrations, matching gold labels with 16 examples in the largest. So
-  Min et al.'s small gold–random gap (THEORY-496) widens with scale. Here
+  Min et al.'s small gold–random gap ([THEORY-496](../theory.d/THEORY-496.md)) widens with scale. Here
   because A56 proposed these controls for the in-context arm of CASE-
   tmphsr99, whose synthetic task families, with no pretrained prior, make
   in-context success task learning by construction. Read in its NOTE. Read
-  in NOTE-tmp6fdy5; its account is THEORY-tmppqtz3.
+  in [NOTE-tmp6fdy5](../notes.d/NOTE-tmp6fdy5.md); its account is [THEORY-tmppqtz3](../theory.d/THEORY-tmppqtz3.md).
 ---
 <!-- inactive-ok-file: THEORY-tmppqtz3 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->

@@ -38,7 +38,7 @@ summary: >-
   negative. Here because A54 proposed it as the meta-trained arm of CASE-
   tmphsr99: the reading supports it as a cheap arm, with joint training on
   the same tasks as its control and the inner budget k fixed. Read in its
-  NOTE. Read in NOTE-tmparjas; its account is THEORY-tmpbzf9h.
+  NOTE. Read in [NOTE-tmparjas](../notes.d/NOTE-tmparjas.md); its account is [THEORY-tmpbzf9h](../theory.d/THEORY-tmpbzf9h.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpbzf9h — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->

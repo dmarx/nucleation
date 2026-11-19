@@ -15,7 +15,7 @@ promote_when: >-
   independent analysis of training checkpoints finds function-vector heads
   that earlier had high induction scores.
 summary: >-
-  From the reading of LIT-tmpbi4vz in NOTE-tmpa9eoe. Yin and Steinhardt
+  From the reading of [LIT-tmpbi4vz](../literature.d/LIT-tmpbi4vz.md) in [NOTE-tmpa9eoe](../notes.d/NOTE-tmpa9eoe.md). Yin and Steinhardt
   (2025; arXiv 2502.14010) compare induction heads and function-vector
   (FV) heads in twelve models (Pythia 70M–6.9B, GPT-2, Llama 2 7B).
   Ablating each type while sparing heads of the other shows that few-shot
@@ -27,7 +27,7 @@ summary: >-
   began as induction heads; that they are precursors is the authors'
   conjecture. Here because A56 used it for the in-context arm of CASE-
   tmphsr99. On Pythia it says in-context ability is still rising at late
-  checkpoints, and it qualifies THEORY-990. Read in its NOTE.
+  checkpoints, and it qualifies [THEORY-990](THEORY-990.md). Read in its NOTE.
 ---
 <!-- inactive-ok-file: THEORY-990 — Proposed; cited in this filing of 2026-11-19 -->
 

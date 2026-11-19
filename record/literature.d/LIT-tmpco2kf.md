@@ -38,10 +38,10 @@ summary: >-
   with continual injection of randomness (Shrink and Perturb, and their
   continual backpropagation) maintain plasticity, but all are applied from
   the start, and none is tested as a late rescue. It is here for
-  overconsolidation (CLAIM-tmp8ljvp) beside THEORY-1353, whose depletion
+  overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) beside [THEORY-1353](../theory.d/THEORY-1353.md), whose depletion
   reading it fits: plasticity is lost while the network keeps practising
-  on varied tasks. Read in its NOTE. Read in NOTE-tmpzn6c6; its account is
-  THEORY-tmpgjb4y.
+  on varied tasks. Read in its NOTE. Read in [NOTE-tmpzn6c6](../notes.d/NOTE-tmpzn6c6.md); its account is
+  [THEORY-tmpgjb4y](../theory.d/THEORY-tmpgjb4y.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpgjb4y — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->

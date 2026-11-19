@@ -61,6 +61,6 @@ Kane and Lubensky (2014; arXiv v1 2013-08-02), [LIT-2078](../literature.d/LIT-20
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Omidvar and colleagues (THEORY-tmp5hurd), read: qualifies the reach of this account. Their domain-wall modes are attributed to bulk polarization of the excitation bands, but the transport they drive is not index-protected: the Chern number is ill-defined on the experimental path, and the wall moves by an instability. The opposite domain's pressure makes the interface mode differ from the vacuum-edge mode. This is not a Kane–Lubensky zero-mode count at an interface, so it does not meet the promote_when.
+Omidvar and colleagues ([THEORY-tmp5hurd](THEORY-tmp5hurd.md)), read: qualifies the reach of this account. Their domain-wall modes are attributed to bulk polarization of the excitation bands, but the transport they drive is not index-protected: the Chern number is ill-defined on the experimental path, and the wall moves by an instability. The opposite domain's pressure makes the interface mode differ from the vacuum-edge mode. This is not a Kane–Lubensky zero-mode count at an interface, so it does not meet the promote_when.
 
 No status change.

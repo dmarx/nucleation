@@ -15,7 +15,7 @@ promote_when: >-
   primary works it cites (MAML, LIT-tmphr4nm, among them) agrees with its
   definition and with its three axes.
 summary: >-
-  From the reading of LIT-tmp3u6bb in NOTE-tmpfnzxf. Hospedales, Antoniou,
+  From the reading of [LIT-tmp3u6bb](../literature.d/LIT-tmp3u6bb.md) in [NOTE-tmpfnzxf](../notes.d/NOTE-tmpfnzxf.md). Hospedales, Antoniou,
   Micaelli and Storkey (2020), arXiv 2004.05439, a survey of meta-learning
   in neural networks. It defines meta-learning as end-to-end optimization
   of an explicit meta-objective over many learning episodes "to improve
@@ -25,7 +25,7 @@ summary: >-
   the lack of task families as open problems. Here because the owner asked
   at U24 for prior meta-learning literature and A54 named this survey: it
   confirms that meta-learning's objective targets future learning, as
-  QUESTION-tmpwqepn and CLAIM-tmp8ljvp say, and that every such objective
+  [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md) and [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) say, and that every such objective
   presupposes a declared task family. Skimmed (taxonomy, formalization,
   meta-objectives, continual learning, challenges); read in its NOTE.
 ---

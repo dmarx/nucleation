@@ -37,9 +37,9 @@ summary: >-
   FV heads strengthen from about step 16,000 to the end, with few-shot
   accuracy, and many began as induction heads; that they are precursors is
   the authors' conjecture. Here because A56 used it for the in-context arm
-  of CASE-tmphsr99. On Pythia it says in-context ability is still rising
-  at late checkpoints, and it qualifies THEORY-990. Read in its NOTE. Read
-  in NOTE-tmpa9eoe; its account is THEORY-tmpqvj8f.
+  of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). On Pythia it says in-context ability is still rising
+  at late checkpoints, and it qualifies [THEORY-990](../theory.d/THEORY-990.md). Read in its NOTE. Read
+  in [NOTE-tmpa9eoe](../notes.d/NOTE-tmpa9eoe.md); its account is [THEORY-tmpqvj8f](../theory.d/THEORY-tmpqvj8f.md).
 ---
 <!-- inactive-ok-file: THEORY-990 THEORY-tmpqvj8f — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->

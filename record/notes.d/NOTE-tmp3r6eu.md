@@ -84,26 +84,26 @@ classification and policy-gradient RL.
 
 ## Bearing on the record
 
-- **QUESTION-tmpwqepn**: supports the candidate answer that
+- **[QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md)**: supports the candidate answer that
   meta-learning's objective already targets future adaptability: MAML's
   loss is defined after adaptation on new tasks. Qualifies it: the future
   it targets is a declared p(T) and a declared, tiny adaptation budget; it
   does not reach the question's case of benefits that cannot be specified
   in advance, nor count the cost of acquiring or keeping organization.
-- **CLAIM-tmp8ljvp**: supports its clause that the objective is not new, as
+- **[CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)**: supports its clause that the objective is not new, as
   written. The joint-pretraining baseline (§5.1, App. C.1) is a learner
   that minimizes its present objective over all training tasks and is
   then expensive to adapt ("catastrophic overfitting" from 5 points),
   which is an instance of the claim's signature only loosely: the paper
   calls it overfitting at fine-tuning time and does not separate the two.
   It leaves open whether overconsolidation is distinct from that.
-- **CLAIM-tmp5gbzr**: gives an empirical instance of a step valued by its
+- **[CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)**: gives an empirical instance of a step valued by its
   effect on later acquisitions: the MAML initialization is chosen by
   post-adaptation loss, and the initialization that is best on the present
   joint objective (pretraining) is worse once adaptation is counted (§5.1,
   App. C Table 2). The later tasks are drawn from the declared p(T), the
   claim's stipulation that the later questions will come.
-- **CASE-tmphsr99**: supports reading adaptability as a budgeted quantity
+- **[CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)**: supports reading adaptability as a budgeted quantity
   (K, number of steps) and suggests the case's adaptation-cost measure is
   MAML's evaluation turned around (least budget to reach a threshold rather
   than loss at a fixed budget). The finding that adaptation keeps

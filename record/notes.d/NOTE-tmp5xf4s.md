@@ -58,10 +58,10 @@ A conceptual review. It first surveys what "structure learning" names across inf
 
 ## Bearing on the record
 
-- THEORY-564: qualifies, and agrees with its framing. The review classes Smith, Schwartenbeck et al. 2020 (LIT-615, THEORY-564's source) among the reduction/expansion approaches. Its remark that adding a variable is "in principle, as trivial" as adding a hypothesis matches THEORY-564's view that expansion was never in doubt and reduction is the open part. The review adds a different gap: the hypothesis space is supplied by hand. It reports no recovery rates and does not move the promote_when.
-- CASE-153: leaves open. The review places structure learning offline and has nothing on structure learning under a process that blocks inspection. For the case it offers vocabulary only.
-- QUESTION-tmprj00l: leaves open. Variational model evidence only, with no physical cost.
-- Verdict on the LIT's source (A69 called it the most useful single paper for what the free-energy literature covers): fair as a map of definitions and open problems. But it is a conceptual review with no quantitative results, and it defines Structure Learning as offline. Active, data-choosing structure learning is in LIT-tmpg7w4q, not here.
+- [THEORY-564](../theory.d/THEORY-564.md): qualifies, and agrees with its framing. The review classes Smith, Schwartenbeck et al. 2020 ([LIT-615](../literature.d/LIT-615.md), [THEORY-564](../theory.d/THEORY-564.md)'s source) among the reduction/expansion approaches. Its remark that adding a variable is "in principle, as trivial" as adding a hypothesis matches [THEORY-564](../theory.d/THEORY-564.md)'s view that expansion was never in doubt and reduction is the open part. The review adds a different gap: the hypothesis space is supplied by hand. It reports no recovery rates and does not move the promote_when.
+- [CASE-153](../cases.d/CASE-153.md): leaves open. The review places structure learning offline and has nothing on structure learning under a process that blocks inspection. For the case it offers vocabulary only.
+- [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md): leaves open. Variational model evidence only, with no physical cost.
+- Verdict on the LIT's source (A69 called it the most useful single paper for what the free-energy literature covers): fair as a map of definitions and open problems. But it is a conceptual review with no quantitative results, and it defines Structure Learning as offline. Active, data-choosing structure learning is in [LIT-tmpg7w4q](../literature.d/LIT-tmpg7w4q.md), not here.
 
 ## Limitations
 

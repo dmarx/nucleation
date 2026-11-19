@@ -18,7 +18,7 @@ promote_when: >-
   the best-fitting estimator moving from gradient-descent-like to ridge to
   least squares as depth grows.
 summary: >-
-  From the reading of LIT-tmpd6tw2 in NOTE-tmppc03e. Akyürek, Schuurmans,
+  From the reading of [LIT-tmpd6tw2](../literature.d/LIT-tmpd6tw2.md) in [NOTE-tmppc03e](../notes.d/NOTE-tmppc03e.md). Akyürek, Schuurmans,
   Andreas, Ma and Zhou (ICLR 2023; arXiv 2211.15661) prove that a
   transformer can implement one gradient-descent step or one ridge-
   regression update on in-context examples. They then show that
@@ -29,9 +29,9 @@ summary: >-
   ridge predictor. Probes recover the moment vector and least-squares
   weights from hidden states, but nonlinearly, unlike the constructions.
   Here because A56 cited it beside Garg et al. for in-context learning as
-  a learned learner. It measures THEORY-169's caution that trained
+  a learned learner. It measures [THEORY-169](THEORY-169.md)'s caution that trained
   transformers are not shown to do gradient descent, and it is a case of
-  CLAIM-118's split. Read in its NOTE.
+  [CLAIM-118](../claims.d/CLAIM-118.md)'s split. Read in its NOTE.
 ---
 
 # THEORY-tmpvf16r: Akyürek and colleagues show that transformers trained from scratch to do linear regression in context behave like standard estimators chosen by their capacity and the data: deep, wide ones match least squares on noiseless data and the Bayes-optimal ridge predictor under label noise, while one-layer models are closest to a single gradient step and two- to four-layer ones to ridge regression; the least-squares weights and moment vector can be decoded, nonlinearly, from their hidden states
@@ -45,4 +45,4 @@ A transformer with constant depth can implement one gradient-descent step (O(d) 
 - That trained transformers run the constructed algorithms: the probes find nonlinear encodings the constructions lack.
 - That language models do this; the paper is about linear regression trained from scratch.
 - That ICL is always Bayes-optimal: capacity-limited models are not.
-- An exact identity of the QUESTION-159 kind: the theorems are existence constructions. The question is listed because the reading bears on it, not because it answers it.
+- An exact identity of the [QUESTION-159](../questions.d/QUESTION-159.md) kind: the theorems are existence constructions. The question is listed because the reading bears on it, not because it answers it.

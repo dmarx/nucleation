@@ -124,6 +124,6 @@ the account stays Proposed.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Yin and Steinhardt (THEORY-tmpqvj8f), read: qualifies this reading by metric and scale. For few-shot accuracy in models from about 1B to 7B, ablating induction heads that lack function-vector character costs about as much as random ablation, while ablating function-vector heads costs much more. On the token-loss difference, Olsson et al.'s own measure, induction heads still matter more. So the thesis holds for that quantity and fails for task accuracy at scale. The function-vector heads form later, not in the same window, so the refutation clause is not met either.
+Yin and Steinhardt ([THEORY-tmpqvj8f](THEORY-tmpqvj8f.md)), read: qualifies this reading by metric and scale. For few-shot accuracy in models from about 1B to 7B, ablating induction heads that lack function-vector character costs about as much as random ablation, while ablating function-vector heads costs much more. On the token-loss difference, Olsson et al.'s own measure, induction heads still matter more. So the thesis holds for that quantity and fails for task accuracy at scale. The function-vector heads form later, not in the same window, so the refutation clause is not met either.
 
 No status change.

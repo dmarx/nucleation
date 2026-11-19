@@ -36,12 +36,12 @@ summary: >-
   mathematics of integer invariants. In active nematics, flows the defects
   generate make +1/2 defects self-propel and unbind. In active fluids and
   metamaterials, activity can create the band topology that guarantees
-  edge and interface modes. It is here for QUESTION-tmp57ji2 and the
+  edge and interface modes. It is here for [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md) and the
   record's split between defect topology and bound-mode topology. It
-  corroborates that a winding number counts defects net (CLAIM-694), and
+  corroborates that a winding number counts defects net ([CLAIM-694](../claims.d/CLAIM-694.md)), and
   it gives a case of one structure on both the charge route and the
-  supplied route (CLAIM-606). Skimmed in its NOTE. Read in NOTE-tmpyv62s;
-  its account is THEORY-tmpky96s.
+  supplied route ([CLAIM-606](../claims.d/CLAIM-606.md)). Skimmed in its NOTE. Read in [NOTE-tmpyv62s](../notes.d/NOTE-tmpyv62s.md);
+  its account is [THEORY-tmpky96s](../theory.d/THEORY-tmpky96s.md).
 ---
 <!-- inactive-ok-file: CLAIM-606 CLAIM-694 THEORY-tmpky96s — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmpyv62s — Skimmed; cited in this filing of 2026-11-19 -->

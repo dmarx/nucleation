@@ -46,9 +46,9 @@ summary: >-
   perturbations. Here because A29 grounded selective contraction in it; it
   is not the source of partial contraction toward invariant manifolds
   (that is Wang and Slotine 2005, not held), only of two remarks on
-  convergence on a subspace. THEORY-773's disturbance lemma rests on its
-  eq. (15). Read in its NOTE. Read in NOTE-tmp2wkbb; its account is
-  THEORY-tmprpscg.
+  convergence on a subspace. [THEORY-773](../theory.d/THEORY-773.md)'s disturbance lemma rests on its
+  eq. (15). Read in its NOTE. Read in [NOTE-tmp2wkbb](../notes.d/NOTE-tmp2wkbb.md); its account is
+  [THEORY-tmprpscg](../theory.d/THEORY-tmprpscg.md).
 ---
 <!-- inactive-ok-file: THEORY-tmprpscg — Proposed; cited in this filing of 2026-11-19 -->
 

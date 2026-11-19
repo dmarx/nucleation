@@ -36,10 +36,10 @@ summary: >-
   variance term does (57.5%, and 68.6% with all three, at 100 epochs;
   73.2% at 1000). The hinge must be on the standard deviation: on the
   variance, its gradient vanishes and the embeddings collapse. That bears
-  on LIT-228's Laplacian-eigenmaps reading, which assumes a squared
+  on [LIT-228](LIT-228.md)'s Laplacian-eigenmaps reading, which assumes a squared
   variance term. Here because A27 used it as a non-collapse mechanism
-  (CLAIM-481's note of 2026-11-19). Read in its NOTE. Read in NOTE-
-  tmpprl89; its account is THEORY-tmp78qwh.
+  ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of 2026-11-19). Read in its NOTE. Read in NOTE-
+  tmpprl89; its account is [THEORY-tmp78qwh](../theory.d/THEORY-tmp78qwh.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp78qwh — Proposed; cited in this filing of 2026-11-19 -->
 

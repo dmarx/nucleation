@@ -35,10 +35,10 @@ summary: >-
   of six movie blocks were language groups and one was a genre (Adult),
   and the authors read the blocks as traces of "multiple mechanisms
   responsible for the existence of edges". Here because it is the standard
-  method behind the owner's U10 genres example, CASE-tmpsjjgx: it supplies
+  method behind the owner's U10 genres example, [CASE-tmpsjjgx](../cases.d/CASE-tmpsjjgx.md): it supplies
   the joint people-and-items identification, but its own film blocks are
   mostly not genres, which bears on the case's confounds. Read in its
-  NOTE. Read in NOTE-tmp823hg; its account is THEORY-tmpyydjg.
+  NOTE. Read in [NOTE-tmp823hg](../notes.d/NOTE-tmp823hg.md); its account is [THEORY-tmpyydjg](../theory.d/THEORY-tmpyydjg.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpyydjg — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmpsjjgx — Proposed; cited in this filing of 2026-11-19 -->

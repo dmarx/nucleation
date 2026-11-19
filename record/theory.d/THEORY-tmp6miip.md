@@ -18,7 +18,7 @@ promote_when: >-
   its minimisation over p(m|x) is the information bottleneck objective
   with α = T'/T.
 summary: >-
-  From the reading of LIT-tmpsp5bi in NOTE-tmp9h01y. Still (arXiv
+  From the reading of [LIT-tmpsp5bi](../literature.d/LIT-tmpsp5bi.md) in [NOTE-tmp9h01y](../notes.d/NOTE-tmp9h01y.md). Still (arXiv
   1705.00612, 2017; Physical Review Letters 124, 050601, 2020). The letter
   extends Szilárd's engine to partial observability and two temperatures.
   Forming a memory costs at least kT·I[M,X], and extracting work recovers
@@ -28,7 +28,7 @@ summary: >-
   its trade-off. The agent's action never changes the next cycle's data,
   so the result is a no-feedback baseline. Here because the exchange made
   it the bridge between memory and thermodynamics: it is the nearest prior
-  result for QUESTION-tmprj00l and extends THEORY-026 to a cyclic engine.
+  result for [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md) and extends [THEORY-026](THEORY-026.md) to a cyclic engine.
   Read in its NOTE (arXiv v3).
 ---
 

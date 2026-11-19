@@ -13,7 +13,7 @@ promote_when: >-
   version or a reimplementation, and the 73.2% 1000-epoch linear result is
   confirmed from Table 1.
 summary: >-
-  From the reading of LIT-tmp3su77 in NOTE-tmptbvgq. Zbontar, Jing, Misra,
+  From the reading of [LIT-tmp3su77](../literature.d/LIT-tmp3su77.md) in [NOTE-tmptbvgq](../notes.d/NOTE-tmptbvgq.md). Zbontar, Jing, Misra,
   LeCun, Deny (2021), ICML 2021 (PMLR 139), arXiv 2103.03230. The loss
   standardizes each embedding unit over the batch and drives the cross-
   correlation matrix between two distorted views' embeddings toward the
@@ -25,7 +25,7 @@ summary: >-
   alone 57.3%, the full loss 71.4%. The information-bottleneck reading
   rests on a Gaussian assumption and stated approximations, and there is
   no theorem. Here because A27 used it as a non-collapse mechanism
-  (CLAIM-481's note of 2026-11-19); LIT-228 holds its CCA reading. Read in
+  ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of 2026-11-19); [LIT-228](../literature.d/LIT-228.md) holds its CCA reading. Read in
   its NOTE.
 ---
 
@@ -37,4 +37,4 @@ The loss is Σ_i (1 − C_ii)² + λ Σ_i Σ_{j≠i} C_ij², where C is the cros
 
 ## What it does not show
 
-There is no theorem. The paper does not prove that the surrogate has the information-maximizing optimum, does not characterize the optimal representation (the CCA reading is LIT-228's, on a modified loss), and does not analyse training dynamics. Batch standardization does part of the anti-collapse work, and the paper does not separate its contribution from the redundancy term's.
+There is no theorem. The paper does not prove that the surrogate has the information-maximizing optimum, does not characterize the optimal representation (the CCA reading is [LIT-228](../literature.d/LIT-228.md)'s, on a modified loss), and does not analyse training dynamics. Batch standardization does part of the anti-collapse work, and the paper does not separate its contribution from the redundancy term's.

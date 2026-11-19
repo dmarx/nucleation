@@ -36,10 +36,10 @@ summary: >-
   tokens per parameter), so pre-training loss does not rank models by what
   they become. Plasticity is measured only as the fine-tuned score on the
   target task, and forgetting is not measured. It is here as a preventive
-  training regime for overconsolidation (CLAIM-tmp8ljvp) and an arm of
-  CASE-tmphsr99, and it is the clearest case for CLAIM-675's point that
+  training regime for overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) and an arm of
+  [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), and it is the clearest case for [CLAIM-675](../claims.d/CLAIM-675.md)'s point that
   present capability does not rank later capability. Read in its NOTE.
-  Read in NOTE-tmps6j9j; its account is THEORY-tmp8wxgt.
+  Read in [NOTE-tmps6j9j](../notes.d/NOTE-tmps6j9j.md); its account is [THEORY-tmp8wxgt](../theory.d/THEORY-tmp8wxgt.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp8wxgt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->

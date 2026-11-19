@@ -18,7 +18,7 @@ promote_when: >-
   TTT, no loss on the original test set, and a positive correlation
   between gain and gradient inner product.
 summary: >-
-  From the reading of LIT-tmpklgue in NOTE-tmpt5pbx. Sun, Wang, Liu,
+  From the reading of [LIT-tmpklgue](../literature.d/LIT-tmpklgue.md) in [NOTE-tmpt5pbx](../notes.d/NOTE-tmpt5pbx.md). Sun, Wang, Liu,
   Miller, Efros and Hardt (2020), ICML 2020, arXiv 1909.13231. The paper
   that named test-time training: before predicting, a jointly trained
   network fine-tunes its shared features on a self-supervised task
@@ -28,8 +28,8 @@ summary: >-
   shifts without hurting the original test set, and the gain tracks the
   alignment of the two tasks' gradients (proved for convex losses). Here
   because the owner raised test-time training at U26: its discarded and
-  kept updates are the two sides of CLAIM-118, and its appendix prices the
-  work moved to test time (QUESTION-095). Read in its NOTE.
+  kept updates are the two sides of [CLAIM-118](../claims.d/CLAIM-118.md), and its appendix prices the
+  work moved to test time ([QUESTION-095](../questions.d/QUESTION-095.md)). Read in its NOTE.
 ---
 
 # THEORY-tmp3hfjg: Sun and colleagues show that fine-tuning a jointly trained network's shared features on a self-supervised task formed from each unlabeled test image, before predicting, improves image classification under distribution shift without hurting the original distribution, that keeping the update across a stream of test images improves it further, and that the gain tracks the alignment of the self-supervised and main-task gradients

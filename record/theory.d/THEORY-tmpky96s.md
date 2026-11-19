@@ -19,7 +19,7 @@ promote_when: >-
   +1/2 disclinations and topologically protected edge sound in active
   fluids or metamaterials, that confirms each as the review states it.
 summary: >-
-  From the reading of LIT-tmp1nipn in NOTE-tmpyv62s. Shankar, Souslov,
+  From the reading of [LIT-tmp1nipn](../literature.d/LIT-tmp1nipn.md) in [NOTE-tmpyv62s](../notes.d/NOTE-tmpyv62s.md). Shankar, Souslov,
   Bowick, Marchetti and Vitelli (2020; v3 2021), arXiv 2010.00364,
   published in Nature Reviews Physics 4, 380–398 (2022). A review of
   topology in active matter. It presents topological defects of the order
@@ -28,10 +28,10 @@ summary: >-
   integer invariants. In active nematics, flows the defects generate make
   +1/2 defects self-propel and unbind. In active fluids and metamaterials,
   activity can create the band topology that guarantees edge and interface
-  modes. It is here for QUESTION-tmp57ji2 and the record's split between
+  modes. It is here for [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md) and the record's split between
   defect topology and bound-mode topology. It corroborates that a winding
-  number counts defects net (CLAIM-694), and it gives a case of one
-  structure on both the charge route and the supplied route (CLAIM-606).
+  number counts defects net ([CLAIM-694](../claims.d/CLAIM-694.md)), and it gives a case of one
+  structure on both the charge route and the supplied route ([CLAIM-606](../claims.d/CLAIM-606.md)).
   Skimmed in its NOTE.
 ---
 <!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->

@@ -162,6 +162,6 @@ one's evidence, and nothing here changes.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Han and colleagues (THEORY-tmp8wxgt), read: consistent with the title's rank corollary, and qualifies the summary's plasticity consequence. The rank of attention products falls as pretraining weight decay rises, though the authors cite a nuclear-norm argument, not mirrors, and test no threshold. Plasticity improves with weight decay up to about 0.5–1.0. Past 1.0, in Llama-2, the value–projection rank collapses, "a transition that correlates with a significant drop in performance". So reduced rank goes with more plasticity over a window, and with a loss only beyond it.
+Han and colleagues ([THEORY-tmp8wxgt](THEORY-tmp8wxgt.md)), read: consistent with the title's rank corollary, and qualifies the summary's plasticity consequence. The rank of attention products falls as pretraining weight decay rises, though the authors cite a nuclear-norm argument, not mirrors, and test no threshold. Plasticity improves with weight decay up to about 0.5–1.0. Past 1.0, in Llama-2, the value–projection rank collapses, "a transition that correlates with a significant drop in performance". So reduced rank goes with more plasticity over a window, and with a loss only beyond it.
 
 No status change.

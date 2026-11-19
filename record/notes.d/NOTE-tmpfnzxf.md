@@ -103,7 +103,7 @@ challenges.
 
 ## Bearing on the record
 
-- **QUESTION-tmpwqepn**: supports the candidate answer that meta-learning's
+- **[QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md)**: supports the candidate answer that meta-learning's
   objective already targets future learning (its definition says so),
   and maps the space of such objectives (speed, asymptotic performance,
   continual retention, robustness). It also confirms the limit: every
@@ -111,16 +111,16 @@ challenges.
   survey lists out-of-distribution meta-generalization and the absence of
   task families as open. It leaves the question's unspecifiable future
   open.
-- **CLAIM-tmp8ljvp**: supports its clause that the objective is not new,
+- **[CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)**: supports its clause that the objective is not new,
   and names the meta-level analogue of its failure: meta-overfitting as an
   inductive bias that "constrains the hypothesis space of θ too tightly",
   close to the claim's raised cost of reaching other capabilities. The
   survey frames it as a generalization failure across tasks, which is the
   rival naming the claim's defeated_if anticipates.
-- **CLAIM-tmp5gbzr**: leaves open; the survey's amortization axis is the
+- **[CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)**: leaves open; the survey's amortization axis is the
   trade of paying during meta-training against paying at meta-test, a
-  relative of CLAIM-303 and CLAIM-569 rather than of this claim.
-- **CASE-tmphsr99**: supports separating adaptation modes as the case does
+  relative of [CLAIM-303](../claims.d/CLAIM-303.md) and [CLAIM-569](../claims.d/CLAIM-569.md) rather than of this claim.
+- **[CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)**: supports separating adaptation modes as the case does
   (feed-forward/in-context versus fine-tuning are fully versus limited
   amortization), and gives a vocabulary for the arms.
 

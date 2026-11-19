@@ -16,7 +16,7 @@ promote_when: >-
   beats both plain in-context learning and multi-task zero-shot transfer
   from the same tasks on held-out targets.
 summary: >-
-  From the reading of LIT-tmp7ge7b in NOTE-tmpbyao9. Min, Lewis,
+  From the reading of [LIT-tmp7ge7b](../literature.d/LIT-tmp7ge7b.md) in [NOTE-tmpbyao9](../notes.d/NOTE-tmpbyao9.md). Min, Lewis,
   Zettlemoyer and Hajishirzi (2021; arXiv 2110.15943, v2 May 2022) fine-
   tune GPT-2 Large on 142 NLP datasets presented as few-shot episodes,
   training it to predict the last example's output from the k before it.
@@ -28,8 +28,8 @@ summary: >-
   model falls near chance unless meta-trained on remapped labels. Here
   because A54 named it where meta-learning and in-context learning meet.
   It is the plainest case of outer training improving the interpreter so
-  that it uses the signal better (CLAIM-118), and of the meta-learning arm
-  of CASE-tmphsr99. Read in its NOTE.
+  that it uses the signal better ([CLAIM-118](../claims.d/CLAIM-118.md)), and of the meta-learning arm
+  of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Read in its NOTE.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 

@@ -155,6 +155,6 @@ is all of what they do.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Yin and Steinhardt (THEORY-tmpqvj8f), read: consistent, in another model family. In Pythia, which has MLPs, induction heads form early and abruptly, near step 1,000 of 143,000, and on the token-loss difference, the measure this entry uses, ablating them matters more than ablating function-vector heads in models above 345M. They show that this measure differs from few-shot task accuracy, which in larger models depends on later-forming function-vector heads, as this entry's caution about task learning expects. Small attention-only models are not tested.
+Yin and Steinhardt ([THEORY-tmpqvj8f](THEORY-tmpqvj8f.md)), read: consistent, in another model family. In Pythia, which has MLPs, induction heads form early and abruptly, near step 1,000 of 143,000, and on the token-loss difference, the measure this entry uses, ablating them matters more than ablating function-vector heads in models above 345M. They show that this measure differs from few-shot task accuracy, which in larger models depends on later-forming function-vector heads, as this entry's caution about task learning expects. Small attention-only models are not tested.
 
 No status change.

@@ -89,14 +89,14 @@ conditional neural processes.
 
 ## Bearing on the record
 
-- **CASE-tmphsr99**: supports the meta-overfitting design rule A54 drew
+- **[CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)**: supports the meta-overfitting design rule A54 drew
   from it, and sharpens it. The danger is not only unseen tasks but tasks
   identifiable from the query input alone; the guard is tasks that are
   mutually exclusive (the case's synthetic families, randomized per
   example, already are) plus held-out families, and the diagnostic is
   pre-update accuracy on meta-training tasks. Training dynamics pick
   between a memorizing and an adapting mode, so seeds matter.
-- **CLAIM-tmp8ljvp**: qualifies it. Memorization is an observed case of
+- **[CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)**: qualifies it. Memorization is an observed case of
   present training loss improving while the capacity to adapt is lost,
   and the memorizing solution has lower training error. But the authors
   name it overfitting, at the level of tasks, which is the first clause of
@@ -104,10 +104,10 @@ conditional neural processes.
   named failure. The claim would need to say how it differs from
   task-level overfitting (for instance, a learner whose adaptation cost
   rises on families it was never meta-trained toward).
-- **CLAIM-tmp5gbzr**: supports, as an empirical ranking reversal: ranked by
+- **[CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)**: supports, as an empirical ranking reversal: ranked by
   training loss the memorizing solution wins; ranked by performance on new
   tasks after adaptation, the adapting solution wins.
-- **QUESTION-tmpwqepn**: leaves open. It shows that even an objective that
+- **[QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md)**: leaves open. It shows that even an objective that
   targets future adaptability can be satisfied without adaptability when
   the task family allows it, so targeting adaptability in the objective is
   not enough; the structure of the training tasks matters.

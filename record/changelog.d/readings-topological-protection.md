@@ -9,12 +9,12 @@
   Ibrahim 2013 and Kaschube, Schnabel and Wolf 2008, are registered and
   read.
 - Dated notes on fifty entries. Among them: no reading shows
-  overconsolidation's full signature (CLAIM-tmp8ljvp); Dohare et al. read
-  against the deadline claim's antecedent (CLAIM-tmp5vg7p); Velarde et
-  al. narrow the owner's fibration question (QUESTION-tmpex36a); and the
-  Pythia study gains its design cautions (CASE-tmphsr99).
+  overconsolidation's full signature ([CLAIM-tmp8ljvp](record/claims.d/CLAIM-tmp8ljvp.md)); Dohare et al. read
+  against the deadline claim's antecedent ([CLAIM-tmp5vg7p](record/claims.d/CLAIM-tmp5vg7p.md)); Velarde et
+  al. narrow the owner's fibration question ([QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md)); and the
+  Pythia study gains its design cautions ([CASE-tmphsr99](record/cases.d/CASE-tmphsr99.md)).
 
 ### Changed
 
 - Three LITs' published dates move to the arXiv versions read, which
-  predate the journal articles (ADR-002).
+  predate the journal articles ([ADR-002](record/decisions.d/ADR-002.md)).

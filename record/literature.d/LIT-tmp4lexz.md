@@ -39,10 +39,10 @@ summary: >-
   and the dislocation, the defect's structural charge fixes the mode
   invariant. In a disordered weak topological insulator the protected
   modes outlive the structure that produced them. It is here for the
-  relation between defect topology and bound modes (CLAIM-606, CLAIM-694).
+  relation between defect topology and bound modes ([CLAIM-606](../claims.d/CLAIM-606.md), [CLAIM-694](../claims.d/CLAIM-694.md)).
   It shows these are two topologies of different objects. What is
   protected is the hosted modes, not the defect's persistence. Skimmed in
-  its NOTE. Read in NOTE-tmpr6z7k; its account is THEORY-tmpcxzxx.
+  its NOTE. Read in [NOTE-tmpr6z7k](../notes.d/NOTE-tmpr6z7k.md); its account is [THEORY-tmpcxzxx](../theory.d/THEORY-tmpcxzxx.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpcxzxx — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmpr6z7k — Skimmed; cited in this filing of 2026-11-19 -->

@@ -45,10 +45,10 @@ summary: >-
   topological ratchet and distinguish it from Chern-number pumping, which
   is ill-defined on their path. Logic gates are simulated only. It is here
   as information transport by boundaries without learning, against the
-  learned defects of A15 (LIT-tmp01nqp). Its mechanical neighbours are
-  THEORY-1893 (buckled bistable domains, also only under standing
-  compression) and THEORY-1408, whose index-protected modes it does not
-  use. Read in its NOTE. Read in NOTE-tmp9n17l; its account is THEORY-
+  learned defects of A15 ([LIT-tmp01nqp](LIT-tmp01nqp.md)). Its mechanical neighbours are
+  [THEORY-1893](../theory.d/THEORY-1893.md) (buckled bistable domains, also only under standing
+  compression) and [THEORY-1408](../theory.d/THEORY-1408.md), whose index-protected modes it does not
+  use. Read in its NOTE. Read in [NOTE-tmp9n17l](../notes.d/NOTE-tmp9n17l.md); its account is THEORY-
   tmp5hurd.
 ---
 <!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->

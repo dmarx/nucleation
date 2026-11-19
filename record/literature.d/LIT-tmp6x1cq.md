@@ -39,11 +39,11 @@ summary: >-
   interchange intervention accuracy. Interventions are generalized to
   "interventionals" so distributed features can be targeted, and many
   interpretability methods are recast in these terms. Here because A15
-  named it as the interventional criterion in QUESTION-tmpcb0bf; it
-  complements the held approximate causal abstraction (LIT-1310) and DAS
-  (LIT-1551), and THEORY-1002's random-network control applies to it.
-  Skimmed for its definitions; read in its NOTE. Read in NOTE-tmp1nqoj;
-  its account is THEORY-tmp1cus0.
+  named it as the interventional criterion in [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md); it
+  complements the held approximate causal abstraction ([LIT-1310](LIT-1310.md)) and DAS
+  ([LIT-1551](LIT-1551.md)), and [THEORY-1002](../theory.d/THEORY-1002.md)'s random-network control applies to it.
+  Skimmed for its definitions; read in its NOTE. Read in [NOTE-tmp1nqoj](../notes.d/NOTE-tmp1nqoj.md);
+  its account is [THEORY-tmp1cus0](../theory.d/THEORY-tmp1cus0.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp1cus0 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmp1nqoj — Skimmed; cited in this filing of 2026-11-19 -->

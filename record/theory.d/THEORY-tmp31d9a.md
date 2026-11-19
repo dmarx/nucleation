@@ -15,7 +15,7 @@ promote_when: >-
   proofs (pp. 24–28) and confirms that balanced quotients are surjective
   fibrations as defined (Definition 4.1.1)
 summary: >-
-  From the reading of LIT-tmp31ier in NOTE-tmpubt2l. DeVille and Lerman
+  From the reading of [LIT-tmp31ier](../literature.d/LIT-tmp31ier.md) in [NOTE-tmpubt2l](../notes.d/NOTE-tmpubt2l.md). DeVille and Lerman
   (2013), arXiv 1303.3907. In a coordinate-free framework of networks of
   control systems on manifolds, they prove that a graph fibration (Boldi
   and Vigna's unique lifting of incoming edges, equivalently input-tree
@@ -26,7 +26,7 @@ summary: >-
   network onto the subsystem that drives it, which they call an
   abstraction. Only this direction is proved, and stability is not
   treated. Here because it is the fibration form of the balanced-partition
-  result held as THEORY-1065 and THEORY-1059, which it generalizes in one
+  result held as [THEORY-1065](THEORY-1065.md) and [THEORY-1059](THEORY-1059.md), which it generalizes in one
   direction. Read in its NOTE.
 ---
 

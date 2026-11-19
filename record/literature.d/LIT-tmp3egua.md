@@ -45,9 +45,9 @@ summary: >-
   authors speculate that the natural clusters it brings out might ground
   perceptual categories. Here because A27 grounded the owner's U12
   connection, dissipation of differences as self-supervised learning, in
-  it (CLAIM-481's note of 2026-11-19; LIT-228 holds the SSL equivalence).
+  it ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of 2026-11-19; [LIT-228](LIT-228.md) holds the SSL equivalence).
   It has the energy and the collapse but no flow. Read in its NOTE. Read
-  in NOTE-tmpp5l9v; its account is THEORY-tmpte85d.
+  in [NOTE-tmpp5l9v](../notes.d/NOTE-tmpp5l9v.md); its account is [THEORY-tmpte85d](../theory.d/THEORY-tmpte85d.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpte85d — Proposed; cited in this filing of 2026-11-19 -->
 

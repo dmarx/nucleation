@@ -71,14 +71,14 @@ Zbontar, Jing, Misra, LeCun and Deny propose a joint-embedding self-supervised l
 
 ## Bearing on the record
 
-- CLAIM-481 (the note of 2026-11-19, A27: pure diffusion collapses each component, so non-collapse terms are needed): supports the need, with a qualification on the mechanism. Barlow Twins' anti-collapse acts on the feature dimensions (decorrelate units, each with unit batch variance), not on pairs of samples. Table 5 is the evidence that the decorrelation term alone yields nothing (0.1%), while the invariance term alone, with batch standardization holding each unit's variance at one, does not collapse fully (57.3%). So in this method part of the non-collapse work is done by the standardization, not by the redundancy term.
-- CLAIM-tmpw8xkt: leaves open. The invariance term identifies the two views; the paper does not discuss which coarser classes form or whether they are reused.
-- LIT-228: consistent but not restated. LIT-228's reading of linear Barlow Twins as CCA is LIT-228's own result on a modified loss; this paper makes no spectral or CCA claim. It relates itself to IMAX (Becker and Hinton), InfoNCE, W-MSE and the information bottleneck instead.
-- LIT-249, LIT-231: LIT-231 lists Barlow Twins among volume-maximizing methods; this paper's own reading, a Gaussian entropy proxy, is consistent with that classification.
+- [CLAIM-481](../claims.d/CLAIM-481.md) (the note of 2026-11-19, A27: pure diffusion collapses each component, so non-collapse terms are needed): supports the need, with a qualification on the mechanism. Barlow Twins' anti-collapse acts on the feature dimensions (decorrelate units, each with unit batch variance), not on pairs of samples. Table 5 is the evidence that the decorrelation term alone yields nothing (0.1%), while the invariance term alone, with batch standardization holding each unit's variance at one, does not collapse fully (57.3%). So in this method part of the non-collapse work is done by the standardization, not by the redundancy term.
+- [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md): leaves open. The invariance term identifies the two views; the paper does not discuss which coarser classes form or whether they are reused.
+- [LIT-228](../literature.d/LIT-228.md): consistent but not restated. [LIT-228](../literature.d/LIT-228.md)'s reading of linear Barlow Twins as CCA is [LIT-228](../literature.d/LIT-228.md)'s own result on a modified loss; this paper makes no spectral or CCA claim. It relates itself to IMAX (Becker and Hinton), InfoNCE, W-MSE and the information bottleneck instead.
+- [LIT-249](../literature.d/LIT-249.md), [LIT-231](../literature.d/LIT-231.md): [LIT-231](../literature.d/LIT-231.md) lists Barlow Twins among volume-maximizing methods; this paper's own reading, a Gaussian entropy proxy, is consistent with that classification.
 
 ## Limitations
 
 - The information-theoretic justification rests on several stated approximations and an unproved claim that the decorrelation surrogate has the same optimum; there is no theorem.
 - Evidence is empirical, on ImageNet with ResNet-50 and one augmentation pipeline; the ablations are single runs at 300 epochs.
-- The paper does not analyse its learning dynamics or what representation the optimum is; the CCA reading is from LIT-228, not from here.
+- The paper does not analyse its learning dynamics or what representation the optimum is; the CCA reading is from [LIT-228](../literature.d/LIT-228.md), not from here.
 - Collapse is discussed as complete (constant output) or "informational" (redundant units) only; dimensional collapse is not measured.

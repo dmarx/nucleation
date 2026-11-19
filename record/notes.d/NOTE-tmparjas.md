@@ -89,7 +89,7 @@ generalization. Few-shot results match MAML.
 
 ## Bearing on the record
 
-- **CASE-tmphsr99**: supports Reptile as a cheap meta-trained arm (no
+- **[CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)**: supports Reptile as a cheap meta-trained arm (no
   second derivatives, no train/test split per task), and sets a design
   rule: the arm differs from joint training only for k > 1, and its
   difference grows with αk, so the case's matched resources must fix k and the
@@ -97,13 +97,13 @@ generalization. Few-shot results match MAML.
   the control, which the authors call a strong baseline. Their RL result
   is negative, so the arm should not be extended to the interactive arms
   without a pilot.
-- **CLAIM-tmp8ljvp**: qualifies the claim's view that a present objective
+- **[CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)**: qualifies the claim's view that a present objective
   and future adaptability are separate. If, as §7 suggests, plain SGD
   already contains a term rewarding generalization between mini-batches,
   ordinary training is partly a meta-objective; overconsolidation, if it
   occurs, would be that term ceasing to pay, not its absence. The paper
   does not test this outside few-shot classification.
-- **QUESTION-tmpwqepn**: supports the candidate answer that the objective
+- **[QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md)**: supports the candidate answer that the objective
   of fast adaptation is already in the literature, and adds that it can be
   had nearly for free (first-order, from joint-training-like updates). It
   leaves open everything about tasks not drawn from the training

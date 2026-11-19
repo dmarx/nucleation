@@ -160,6 +160,6 @@ No status change.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Still (THEORY-tmp6miip), read: a parallel in another setting, not a source for this entry's identity. In a cyclic, partially observable engine the isothermal bound is −Q ≥ kT·I[M,X|Y] (Eq. 7): only memory irrelevant to Y is waste, as only nonpredictive memory is here. The bound-minimizing memory is the information bottleneck (Eqs. 9–10). Y is what the work-extraction device can manipulate, not the next input, so A65's gloss that it keeps predictive information is loose. It is silent on feedback; the feedback clause and THEORY-817 are untouched.
+Still ([THEORY-tmp6miip](THEORY-tmp6miip.md)), read: a parallel in another setting, not a source for this entry's identity. In a cyclic, partially observable engine the isothermal bound is −Q ≥ kT·I[M,X|Y] (Eq. 7): only memory irrelevant to Y is waste, as only nonpredictive memory is here. The bound-minimizing memory is the information bottleneck (Eqs. 9–10). Y is what the work-extraction device can manipulate, not the next input, so A65's gloss that it keeps predictive information is loose. It is silent on feedback; the feedback clause and [THEORY-817](THEORY-817.md) are untouched.
 
 No status change.

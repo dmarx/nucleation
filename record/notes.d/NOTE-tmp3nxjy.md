@@ -88,7 +88,7 @@ benchmarks is shown to be such an augmentation.
 
 ## Bearing on the record
 
-- **CASE-tmphsr99**: supports the case's guard against meta-overfitting and
+- **[CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)**: supports the case's guard against meta-overfitting and
   adds a second failure to guard: learner overfitting survives mutual
   exclusivity, so held-out task-generating processes, not only shuffled
   labels, are needed, as the case says. Two practical rules for the
@@ -97,11 +97,11 @@ benchmarks is shown to be such an augmentation.
   validation tasks (their Fig. 4 diagnostic). Their note that weight decay
   hurt the MAML baseline is a caution for the case's higher-weight-decay
   arm, in a different setting.
-- **CLAIM-tmp8ljvp**: qualifies it as Yin et al. do: the loss of the capacity
+- **[CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)**: qualifies it as Yin et al. do: the loss of the capacity
   to adapt that they observe is named overfitting, of the model or of the
   learner. Learner overfitting is a closer neighbour to overconsolidation
   than memorization is, and the claim should say how they differ.
-- **QUESTION-tmpwqepn**: leaves open. Its limit sentence says augmentation
+- **[QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md)**: leaves open. Its limit sentence says augmentation
   narrows but does not remove train/test task mismatch, which is the
   question's unspecifiable future in miniature.
 

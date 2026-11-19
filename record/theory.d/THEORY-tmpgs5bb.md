@@ -15,7 +15,7 @@ promote_when: >-
   12) and the ECA 54 and ECA 18 comparisons (§IV.B–C) against the paper,
   and finds the stated agreement with DPID
 summary: >-
-  From the reading of LIT-tmpn17zh in NOTE-tmpqwurm. Rupe and Crutchfield
+  From the reading of [LIT-tmpn17zh](../literature.d/LIT-tmpn17zh.md) in [NOTE-tmpqwurm](../notes.d/NOTE-tmpqwurm.md). Rupe and Crutchfield
   (2018), arXiv 1801.00515 (Santa Fe Institute working paper). They define
   local causal states, classes of past lightcones with the same
   distribution over future lightcones; domains, regions where the
@@ -26,7 +26,7 @@ summary: >-
   particles largely, but stochastic domains need extra hand-applied
   filtering. The authors stress that the states are predictive, not
   interventional. Here because it is the spatiotemporal form of the causal
-  state held as TERM-062 and the predictive criterion that QUESTION-
+  state held as [TERM-062](../terms.d/TERM-062.md) and the predictive criterion that QUESTION-
   tmpcb0bf compares. Read in its NOTE.
 ---
 

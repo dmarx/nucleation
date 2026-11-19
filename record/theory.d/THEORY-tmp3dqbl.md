@@ -20,7 +20,7 @@ promote_when: >-
   tuned model's pre-training loss is U-shaped in tokens; on at least one
   family where each budget is annealed separately.
 summary: >-
-  From the reading of LIT-tmpq5g0q in NOTE-tmpp1jb7. Springer, Goyal, Wen,
+  From the reading of [LIT-tmpq5g0q](../literature.d/LIT-tmpq5g0q.md) in [NOTE-tmpp1jb7](../notes.d/NOTE-tmpp1jb7.md). Springer, Goyal, Wen,
   Kumar, Yue, Malladi, Neubig and Raghunathan (2025), arXiv 2503.19206.
   They name "catastrophic overtraining": past an inflection point, longer
   pre-training leaves a worse model after instruction or multimodal fine-
@@ -31,7 +31,7 @@ summary: >-
   model was pre-trained. The cost shows up mostly as forgetting caused by
   the acquisition, and the new task itself gets worse only in some
   settings. It is here as the prime empirical case for overconsolidation
-  (CLAIM-tmp8ljvp) and the Pythia study (CASE-tmphsr99), which it
+  ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) and the Pythia study ([CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)), which it
   qualifies: the case is mainly about forgetting under modification, not a
   higher budget to acquire. Read in its NOTE.
 ---

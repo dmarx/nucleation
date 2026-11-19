@@ -17,7 +17,7 @@ promote_when: >-
   in-a-haystack retrieval near the sliding-window baseline, and TTT on an
   ordinarily pretrained initialization falling well short of TTT-E2E.
 summary: >-
-  From the reading of LIT-tmp78co9 in NOTE-tmp2v2zr. Tandon, Dalal, Li,
+  From the reading of [LIT-tmp78co9](../literature.d/LIT-tmp78co9.md) in [NOTE-tmp2v2zr](../notes.d/NOTE-tmp2v2zr.md). Tandon, Dalal, Li,
   Koceja, Rød, ... and Sun (2025), arXiv 2512.23675. A sliding-window
   Transformer keeps learning at test time by next-token prediction on its
   context, compressing it into the MLP weights of its last quarter of
@@ -27,10 +27,10 @@ summary: >-
   128K), but loses to full attention on needle-in-a-haystack recall, and
   training is 3.4× slower at 8K. Here because A58 cited it for the owner's
   U26 case: its per-sequence weights and meta-learned initialization
-  separate signal from interpreter (CLAIM-118), it prices work moved from
-  inference into training (QUESTION-095), and its finding that test-time
+  separate signal from interpreter ([CLAIM-118](../claims.d/CLAIM-118.md)), it prices work moved from
+  inference into training ([QUESTION-095](../questions.d/QUESTION-095.md)), and its finding that test-time
   updates on an ordinarily trained model add little bears on the TTT arm
-  of CASE-tmphsr99. Read in its NOTE.
+  of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Read in its NOTE.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 

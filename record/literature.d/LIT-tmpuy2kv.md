@@ -39,10 +39,10 @@ summary: >-
   space, not choosing within it. It reports no results. Here because the
   exchange called it the most useful single paper for what the free-energy
   literature covers. It maps that literature fairly but leaves active,
-  data-choosing structure learning to LIT-tmpg7w4q. It agrees with
-  THEORY-564's framing that reduction, not expansion, is the open half.
-  Read in its NOTE (skimmed in part). Read in NOTE-tmp5xf4s; its account
-  is THEORY-tmp17fdp.
+  data-choosing structure learning to [LIT-tmpg7w4q](LIT-tmpg7w4q.md). It agrees with
+  [THEORY-564](../theory.d/THEORY-564.md)'s framing that reduction, not expansion, is the open half.
+  Read in its NOTE (skimmed in part). Read in [NOTE-tmp5xf4s](../notes.d/NOTE-tmp5xf4s.md); its account
+  is [THEORY-tmp17fdp](../theory.d/THEORY-tmp17fdp.md).
 ---
 <!-- inactive-ok-file: THEORY-564 THEORY-tmp17fdp — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmp5xf4s — Skimmed; cited in this filing of 2026-11-19 -->

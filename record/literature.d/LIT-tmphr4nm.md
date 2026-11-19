@@ -33,12 +33,12 @@ summary: >-
   regression, few-shot Omniglot and MiniImagenet and goal-conditioned RL
   it adapts from a handful of examples where joint pretraining on the same
   tasks does not. Here because its objective already targets future
-  adaptability, the disclaimer CLAIM-tmp8ljvp and QUESTION-tmpwqepn carry:
+  adaptability, the disclaimer [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) and [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md) carry:
   the reading confirms it, for a declared task distribution and a declared
   adaptation budget only. It also gives an empirical instance of CLAIM-
   tmp5gbzr, an initialization ranked below joint training on present loss
   and above it once adaptation is counted. Read in its NOTE. Read in NOTE-
-  tmp3r6eu; its account is THEORY-tmpsw2ct.
+  tmp3r6eu; its account is [THEORY-tmpsw2ct](../theory.d/THEORY-tmpsw2ct.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpsw2ct — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->

@@ -226,6 +226,6 @@ No status change.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Ibrahim (THEORY-tmphw7hd), read in her 2013 piece as a stand-in for LIT-tmpmg2nk, defines collective capabilities as those no individual alone could have and asks that the evaluative space extend to the collectivity. Sen's own term for the same cases, "socially dependent individual capabilities", keeps the claim's individual unit, so this qualifies the claim rather than defeating it. Her first condition, free and voluntary participation without coercion, is a requirement of the process aspect on how such capabilities arise.
+Ibrahim ([THEORY-tmphw7hd](../theory.d/THEORY-tmphw7hd.md)), read in her 2013 piece as a stand-in for [LIT-tmpmg2nk](../literature.d/LIT-tmpmg2nk.md), defines collective capabilities as those no individual alone could have and asks that the evaluative space extend to the collectivity. Sen's own term for the same cases, "socially dependent individual capabilities", keeps the claim's individual unit, so this qualifies the claim rather than defeating it. Her first condition, free and voluntary participation without coercion, is a requirement of the process aspect on how such capabilities arise.
 
 No status change.

@@ -18,7 +18,7 @@ promote_when: >-
   trained), and that continual backpropagation keeps later-task accuracy
   at or above early-task accuracy.
 summary: >-
-  From the reading of LIT-tmpco2kf in NOTE-tmpzn6c6. Dohare, Hernandez-
+  From the reading of [LIT-tmpco2kf](../literature.d/LIT-tmpco2kf.md) in [NOTE-tmpzn6c6](../notes.d/NOTE-tmpzn6c6.md). Dohare, Hernandez-
   Garcia, Rahman, Mahmood and Sutton (2023), arXiv 2306.13812 (v3,
   "Maintaining Plasticity in Deep Continual Learning"), published with Lan
   as "Loss of plasticity in deep continual learning", Nature 632, 768-774
@@ -31,7 +31,7 @@ summary: >-
   of randomness (Shrink and Perturb, and their continual backpropagation)
   maintain plasticity, but all are applied from the start, and none is
   tested as a late rescue. It is here for overconsolidation (CLAIM-
-  tmp8ljvp) beside THEORY-1353, whose depletion reading it fits:
+  tmp8ljvp) beside [THEORY-1353](THEORY-1353.md), whose depletion reading it fits:
   plasticity is lost while the network keeps practising on varied tasks.
   Read in its NOTE.
 ---

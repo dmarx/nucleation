@@ -34,7 +34,7 @@ summary: >-
   Masumori, Sato and Ikegami (2026), Entropy 28(8):893, DOI
   10.3390/e28080893; read as the authors' arXiv preprint 2607.12403. In a
   growing neural cellular automaton trained to regenerate (Mordvintsev et
-  al., LIT-tmp5gwuj), the formed pattern is kept not at a fixed point but
+  al., [LIT-tmp5gwuj](LIT-tmp5gwuj.md)), the formed pattern is kept not at a fixed point but
   on a recurrent attracting state, with persistent fluctuations
   concentrated in a few "fluctuation cores" near the shape's boundaries;
   damage displaces the system and it returns over hundreds of steps, and
@@ -43,10 +43,10 @@ summary: >-
   describe inward corrective and outward propagating predictive
   asymmetries during repair, which the authors do not read as causal flow.
   Here because A15 of the exchange "Topological protection explained"
-  cited it beside Mordvintsev et al. for CLAIM-566; it shows persistence
+  cited it beside Mordvintsev et al. for [CLAIM-566](../claims.d/CLAIM-566.md); it shows persistence
   and repair in this system as one precarious activity, not two
-  mechanisms. Read in its NOTE. Read in NOTE-tmp4u57l; its account is
-  THEORY-tmp3vfqj.
+  mechanisms. Read in its NOTE. Read in [NOTE-tmp4u57l](../notes.d/NOTE-tmp4u57l.md); its account is
+  [THEORY-tmp3vfqj](../theory.d/THEORY-tmp3vfqj.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp3vfqj — Proposed; cited in this filing of 2026-11-19 -->
 

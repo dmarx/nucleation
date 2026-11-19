@@ -132,6 +132,6 @@ The claim's own test has not been run: no matched, prospective comparison yet sh
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Jacobs and colleagues (THEORY-tmpctik9), read, are a case in which a spectral, modal description of a trained network makes its computation legible: per-pixel frequency spectra of the hidden dynamics, read out by FFT, nearly match learned linear readouts. The authors call their drum analogy motivational, not literal, and nothing tests prediction of interventions, training or merging against feature- or circuit-level accounts, which is the claim's criterion. It leaves the claim open.
+Jacobs and colleagues ([THEORY-tmpctik9](../theory.d/THEORY-tmpctik9.md)), read, are a case in which a spectral, modal description of a trained network makes its computation legible: per-pixel frequency spectra of the hidden dynamics, read out by FFT, nearly match learned linear readouts. The authors call their drum analogy motivational, not literal, and nothing tests prediction of interventions, training or merging against feature- or circuit-level accounts, which is the claim's criterion. It leaves the claim open.
 
 No status change.

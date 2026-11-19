@@ -139,6 +139,6 @@ No status change.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Suzuki, Li and Zurek (THEORY-tmpohouk), read, run the testbed's φ⁴ kink with a formation readout: an overdamped Langevin φ⁴ field, quenched linearly through ε = 0 under weak white noise in a periodic box. Their method could join the testbed as a measure of when a structure becomes determined, the time at which a trained predictor's error on the final configuration drops. That adds a timing observable beside the probability of formation in the property table. It supports the design's first model and changes nothing in it.
+Suzuki, Li and Zurek ([THEORY-tmpohouk](../theory.d/THEORY-tmpohouk.md)), read, run the testbed's φ⁴ kink with a formation readout: an overdamped Langevin φ⁴ field, quenched linearly through ε = 0 under weak white noise in a periodic box. Their method could join the testbed as a measure of when a structure becomes determined, the time at which a trained predictor's error on the final configuration drops. That adds a timing observable beside the probability of formation in the property table. It supports the design's first model and changes nothing in it.
 
 No status change.

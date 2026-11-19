@@ -14,7 +14,7 @@ promote_when: >-
   evidence, in two flavours (refitting; reduction or expansion), and names
   the generation of the hypothesis space as the open problem.
 summary: >-
-  From the reading of LIT-tmpuy2kv in NOTE-tmp5xf4s. Neacsu, So, Rutar, da
+  From the reading of [LIT-tmpuy2kv](../literature.d/LIT-tmpuy2kv.md) in [NOTE-tmp5xf4s](../notes.d/NOTE-tmp5xf4s.md). Neacsu, So, Rutar, da
   Costa, Adams and Friston (2026), Minds and Machines 36:33, DOI
   10.1007/s11023-026-09787-8 (open access). A conceptual review. It
   surveys what "structure learning" means across developmental, cognitive
@@ -25,7 +25,7 @@ summary: >-
   reports no results. Here because the exchange called it the most useful
   single paper for what the free-energy literature covers. It maps that
   literature fairly but leaves active, data-choosing structure learning to
-  LIT-tmpg7w4q. It agrees with THEORY-564's framing that reduction, not
+  [LIT-tmpg7w4q](../literature.d/LIT-tmpg7w4q.md). It agrees with [THEORY-564](THEORY-564.md)'s framing that reduction, not
   expansion, is the open half. Read in its NOTE (skimmed in part).
 ---
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
@@ -40,5 +40,5 @@ The review separates three levels of free-energy optimisation: inference about s
 ## What it does not show
 
 - No result that structure learning in active inference recovers true structure at any rate. It is a definitional and interpretive review.
-- Nothing on choosing data to learn structure. Active selection by model information gain is LIT-tmpg7w4q's contribution.
+- Nothing on choosing data to learn structure. Active selection by model information gain is [LIT-tmpg7w4q](../literature.d/LIT-tmpg7w4q.md)'s contribution.
 - The integrative mapping of phenomena onto levels is argued, not tested.

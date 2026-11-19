@@ -14,7 +14,7 @@ promote_when: >-
   converse construction of §3.5 (eq. 11) is checked, including the
   authors' handling of a metric that grows without bound.
 summary: >-
-  From the reading of LIT-tmprrdom in NOTE-tmp2wkbb. Lohmiller, Slotine
+  From the reading of [LIT-tmprrdom](../literature.d/LIT-tmprrdom.md) in [NOTE-tmp2wkbb](../notes.d/NOTE-tmp2wkbb.md). Lohmiller, Slotine
   (1998), Automatica 34(6), DOI 10.1016/S0005-1098(98)00019-3, read from
   the authors' final manuscript (NSL-961001, December 1997) on the MIT
   Nonlinear Systems Laboratory site. It founds contraction analysis. If
@@ -27,7 +27,7 @@ summary: >-
   common frame for singular perturbations. Here because A29 grounded
   selective contraction in it; it is not the source of partial contraction
   toward invariant manifolds (that is Wang and Slotine 2005, not held),
-  only of two remarks on convergence on a subspace. THEORY-773's
+  only of two remarks on convergence on a subspace. [THEORY-773](THEORY-773.md)'s
   disturbance lemma rests on its eq. (15). Read in its NOTE.
 ---
 

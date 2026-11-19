@@ -18,7 +18,7 @@ promote_when: >-
   kinks predictable from windows near the critical point and before
   freeze-out, with the onset collapsing in t/t̂ across quench rates.
 summary: >-
-  From the reading of LIT-tmpt20f5 in NOTE-tmphzpy8. Suzuki, Li and Zurek
+  From the reading of [LIT-tmpt20f5](../literature.d/LIT-tmpt20f5.md) in [NOTE-tmphzpy8](../notes.d/NOTE-tmphzpy8.md). Suzuki, Li and Zurek
   (2026), Physical Review Letters 137, 157301, DOI 10.1103/fstv-lsvh;
   arXiv 2508.20347 v2. In simulations of a noisy, overdamped 1D φ⁴ field
   quenched through its symmetry-breaking transition, a recurrent network
@@ -28,9 +28,9 @@ summary: >-
   seeds are exponentially small. The onset of predictability scales with
   the Kibble–Zurek freeze-out time. It is here because it dates when a
   future individual becomes determined. Creation (near the critical point)
-  and stabilization (at freeze-out) come apart in time (QUESTION-281). It
+  and stabilization (at freeze-out) come apart in time ([QUESTION-281](../questions.d/QUESTION-281.md)). It
   also shows that kink locations are set by history, not by the charge
-  (CLAIM-694). Read in its NOTE.
+  ([CLAIM-694](../claims.d/CLAIM-694.md)). Read in its NOTE.
 ---
 <!-- inactive-ok-file: CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 

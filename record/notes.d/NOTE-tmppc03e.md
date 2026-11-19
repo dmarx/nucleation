@@ -48,11 +48,11 @@ On linear regression, the paper asks how a trained transformer learns in context
 
 ## Bearing on the record
 
-- **THEORY-169** (qualifies). Theorem 1 is a softmax-transformer counterpart of von Oswald et al.'s one-step construction held there. Trained models are matched by one GD step only at one layer, and then poorly; deeper ones match ridge, then OLS. This measures the record's caution that trained transformers are not shown to do gradient descent.
-- **CLAIM-118** (supports). The learned algorithm is in the weights (the interpreter); the implicit model it trains is per-sequence and discarded (the signal). Which algorithm the interpreter runs depends on its capacity (§4.3), so improving the interpreter can change how the same signal is used. It fits the distinction and does not test its defeat condition.
-- **THEORY-481** (consistent). THEORY-481 has a linear-attention layer converge to the estimator preconditioned by the inverse input covariance. Here trained softmax transformers converge to OLS or Bayes ridge at enough capacity. Both are learned estimators, not hand-set ones.
-- **QUESTION-159** (leaves open). The constructions are existence results for chosen weights, not identities of a layer class, so they do not answer the question.
-- **THEORY-614** (bears on). In this setting ICL behaves as the Bayes predictor for the training prior, a measured case of the Bayesian reading, where the prior is the meta-training distribution and not a latent concept in text.
+- **[THEORY-169](../theory.d/THEORY-169.md)** (qualifies). Theorem 1 is a softmax-transformer counterpart of von Oswald et al.'s one-step construction held there. Trained models are matched by one GD step only at one layer, and then poorly; deeper ones match ridge, then OLS. This measures the record's caution that trained transformers are not shown to do gradient descent.
+- **[CLAIM-118](../claims.d/CLAIM-118.md)** (supports). The learned algorithm is in the weights (the interpreter); the implicit model it trains is per-sequence and discarded (the signal). Which algorithm the interpreter runs depends on its capacity (§4.3), so improving the interpreter can change how the same signal is used. It fits the distinction and does not test its defeat condition.
+- **[THEORY-481](../theory.d/THEORY-481.md)** (consistent). [THEORY-481](../theory.d/THEORY-481.md) has a linear-attention layer converge to the estimator preconditioned by the inverse input covariance. Here trained softmax transformers converge to OLS or Bayes ridge at enough capacity. Both are learned estimators, not hand-set ones.
+- **[QUESTION-159](../questions.d/QUESTION-159.md)** (leaves open). The constructions are existence results for chosen weights, not identities of a layer class, so they do not answer the question.
+- **[THEORY-614](../theory.d/THEORY-614.md)** (bears on). In this setting ICL behaves as the Bayes predictor for the training prior, a measured case of the Bayesian reading, where the prior is the meta-training distribution and not a latent concept in text.
 
 ## Limitations
 

@@ -17,14 +17,14 @@ promote_when: >-
   and the near-π selection at intermediate range reproduced in the same
   model class away from the weakly nonlinear regime.
 summary: >-
-  From the reading of LIT-tmpb3pen in NOTE-tmpgq62j. Kaschube, Schnabel
+  From the reading of [LIT-tmpb3pen](../literature.d/LIT-tmpb3pen.md) in [NOTE-tmpgq62j](../notes.d/NOTE-tmpgq62j.md). Kaschube, Schnabel
   and Wolf (2008), arXiv 0801.3651. In a Swift-Hohenberg-type model of
   orientation-map development dominated by long-range interactions, the
   density of pinwheels (±1/2 point defects of the orientation map) per
   hypercolumn tends to exactly π as the interaction range grows and stays
   near π for intermediate ranges, while in rival models pinwheels
   annihilate or crystallize. Registered as a stand-in for Kaschube et al.
-  (2010, LIT-tmpdedmw), which is Unfetched: it restates that paper's model
+  (2010, [LIT-tmpdedmw](../literature.d/LIT-tmpdedmw.md)), which is Unfetched: it restates that paper's model
   prediction, not its cross-species measurements. Here because A15 of the
   exchange "Topological protection explained" cited pinwheels as defect-
   like singularities that need not be functional units (QUESTION-

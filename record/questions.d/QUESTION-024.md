@@ -71,6 +71,6 @@ than either is to demonstrations.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Pan and colleagues (THEORY-tmppqtz3), read, show a task recovered from demonstrations whose labels are random within the correct label set, at every model size. That bears on the question's first half as evidence: demonstrations establish a convention without accurate propositional examples. It is for lexical classification, not for a stance, and transfer across wordings is not tested, so it does not answer the question.
+Pan and colleagues ([THEORY-tmppqtz3](../theory.d/THEORY-tmppqtz3.md)), read, show a task recovered from demonstrations whose labels are random within the correct label set, at every model size. That bears on the question's first half as evidence: demonstrations establish a convention without accurate propositional examples. It is for lexical classification, not for a stance, and transfer across wordings is not tested, so it does not answer the question.
 
 No status change.

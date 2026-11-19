@@ -146,6 +146,6 @@ No status change.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Lu and Kankanhalli (THEORY-tmpddlli), read, apply this claim's criterion to test-time-trained skills and learn it: a skill pays adaptation compute now and is kept when expected reuse covers it, and of 100 reuses of earlier skills 61 helped and 1 harmed. Under a compute penalty the policy builds fewer costly skills without loss of utility. That supports the claim, for parameter skills, with an independent measured case. It leaves the defeat condition about the second-occurrence rule untouched, and the paper prices neither upkeep nor a stale skill.
+Lu and Kankanhalli ([THEORY-tmpddlli](../theory.d/THEORY-tmpddlli.md)), read, apply this claim's criterion to test-time-trained skills and learn it: a skill pays adaptation compute now and is kept when expected reuse covers it, and of 100 reuses of earlier skills 61 helped and 1 harmed. Under a compute penalty the policy builds fewer costly skills without loss of utility. That supports the claim, for parameter skills, with an independent measured case. It leaves the defeat condition about the second-occurrence rule untouched, and the paper prices neither upkeep nor a stale skill.
 
 No status change.

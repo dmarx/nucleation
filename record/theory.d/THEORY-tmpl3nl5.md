@@ -15,7 +15,7 @@ promote_when: >-
   the O(M^−1/2) rate corrected in v10 and the claim that perfectly uniform
   encoders exist when n ≥ m − 1 and the data density is bounded.
 summary: >-
-  From the reading of LIT-tmpkegr8 in NOTE-tmpk44ye. Wang, Isola (2020),
+  From the reading of [LIT-tmpkegr8](../literature.d/LIT-tmpkegr8.md) in [NOTE-tmpk44ye](../notes.d/NOTE-tmpk44ye.md). Wang, Isola (2020),
   ICML 2020 (PMLR 119), arXiv 2005.10242. As the number of negatives
   grows, the normalized InfoNCE loss on the unit hypersphere converges to
   an alignment term, minimized exactly when both members of every positive
@@ -26,8 +26,8 @@ summary: >-
   encoders, low alignment and uniformity losses go with good downstream
   accuracy, and optimizing them directly matches or beats the contrastive
   loss. Here because A27 used it for how self-supervised learning
-  contracts some distinctions and keeps others (CLAIM-481's note of
-  2026-11-19, CLAIM-tmpw8xkt). It supports that split but is not spectral
+  contracts some distinctions and keeps others ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of
+  2026-11-19, [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md)). It supports that split but is not spectral
   and says nothing of the classes kept. Read in its NOTE.
 ---
 <!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->

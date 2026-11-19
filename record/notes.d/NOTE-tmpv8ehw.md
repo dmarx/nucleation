@@ -58,10 +58,10 @@ Keller, Muller, Sejnowski and Welling (ICLR 2024; arXiv 2309.08045) build the si
 
 ## Bearing on the record
 
-- QUESTION-tmpcb0bf: leaves open. The paper shows a learned, spatially organised carrier of task information (waves on a ring), but no defects, walls or ordered phases, and its causal test is architectural (initialisation, freezing, ablation), not an intervention on the wave inside a trained network. It is a case in which a structure identified descriptively (diagonal bands, the 2D Fourier diagonal) is also shown to matter for the task, but only by comparison across models.
-- CLAIM-606: leaves open. A wave on a lossless ring keeps information by transport, which is none of the claim's three routes for a localized structure; the paper does not treat a wave as a localized structure or withdraw any supply.
-- LIT-647: supports the review's reported thesis as summarised in the record (waves "embedding sensory history" in activity across a map), in an artificial network, by one of its co-authors (Muller). It confirms the record's note that 2309.08045 is a different work from the review.
-- CLAIM-698: qualifies. Here a wave-level description does explain the advantage, but the waves are built into the architecture by its initialisation, so the case is not one of a modal description fitted to an unconstrained learned network.
+- [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md): leaves open. The paper shows a learned, spatially organised carrier of task information (waves on a ring), but no defects, walls or ordered phases, and its causal test is architectural (initialisation, freezing, ablation), not an intervention on the wave inside a trained network. It is a case in which a structure identified descriptively (diagonal bands, the 2D Fourier diagonal) is also shown to matter for the task, but only by comparison across models.
+- [CLAIM-606](../claims.d/CLAIM-606.md): leaves open. A wave on a lossless ring keeps information by transport, which is none of the claim's three routes for a localized structure; the paper does not treat a wave as a localized structure or withdraw any supply.
+- [LIT-647](../literature.d/LIT-647.md): supports the review's reported thesis as summarised in the record (waves "embedding sensory history" in activity across a map), in an artificial network, by one of its co-authors (Muller). It confirms the record's note that 2309.08045 is a different work from the review.
+- [CLAIM-698](../claims.d/CLAIM-698.md): qualifies. Here a wave-level description does explain the advantage, but the waves are built into the architecture by its initialisation, so the case is not one of a modal description fitted to an unconstrained learned network.
 
 ## Limitations
 

@@ -42,9 +42,9 @@ summary: >-
   preference for the larger win sharpens, and returns after surprises.
   Here because the exchange recommended it as the first reading for U31.
   It is a ready template for the Bayesian baseline and the fitting of
-  CASE-153, though it has no second process with authority over action and
+  [CASE-153](../cases.d/CASE-153.md), though it has no second process with authority over action and
   no structure learning. Read in its NOTE (skimmed in part). Read in NOTE-
-  tmpmq8mz; its account is THEORY-tmphnbs9.
+  tmpmq8mz; its account is [THEORY-tmphnbs9](../theory.d/THEORY-tmphnbs9.md).
 ---
 <!-- inactive-ok-file: THEORY-tmphnbs9 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmpmq8mz — Skimmed; cited in this filing of 2026-11-19 -->

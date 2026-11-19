@@ -39,9 +39,9 @@ summary: >-
   ones; randomly initialised local recurrences learn waves in training.
   Here because A15 of the exchange "Topological protection explained"
   listed it among ways learned systems keep information through time
-  (QUESTION-tmpcb0bf), and LIT-647 mentions it. The evidence is
+  ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)), and [LIT-647](LIT-647.md) mentions it. The evidence is
   comparative across models, with no intervention on the waves themselves.
-  Read in its NOTE. Read in NOTE-tmpv8ehw; its account is THEORY-tmpuy990.
+  Read in its NOTE. Read in [NOTE-tmpv8ehw](../notes.d/NOTE-tmpv8ehw.md); its account is [THEORY-tmpuy990](../theory.d/THEORY-tmpuy990.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpuy990 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->

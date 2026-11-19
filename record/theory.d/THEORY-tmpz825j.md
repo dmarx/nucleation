@@ -17,7 +17,7 @@ promote_when: >-
   during training against an untrained or shuffled-label baseline at the
   same tolerance
 summary: >-
-  From the reading of LIT-tmpzusyw in NOTE-tmp0z3qi. Velarde, Parra,
+  From the reading of [LIT-tmpzusyw](../literature.d/LIT-tmpzusyw.md) in [NOTE-tmp0z3qi](../notes.d/NOTE-tmp0z3qi.md). Velarde, Parra,
   Hashemi and Makse (2026), arXiv 2609.01768 (v1, not peer reviewed). They
   carry graph fibrations to weighted layered networks as balanced
   colourings of units. They prove that a covering partition (equal colour-

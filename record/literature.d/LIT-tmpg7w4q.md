@@ -39,9 +39,9 @@ summary: >-
   rule was found in a modal 14 trials. Without information gain about half
   the games failed. It assumes the rest of the generative model is known.
   Here because the exchange named it as prior art for structure learning
-  beside THEORY-564. It qualifies that entry without meeting its
-  promote_when, and it shows the mechanism CASE-153's sentry would block.
-  Read in its NOTE. Read in NOTE-tmpc0is3; its account is THEORY-tmp9tvpg.
+  beside [THEORY-564](../theory.d/THEORY-564.md). It qualifies that entry without meeting its
+  promote_when, and it shows the mechanism [CASE-153](../cases.d/CASE-153.md)'s sentry would block.
+  Read in its NOTE. Read in [NOTE-tmpc0is3](../notes.d/NOTE-tmpc0is3.md); its account is [THEORY-tmp9tvpg](../theory.d/THEORY-tmp9tvpg.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp9tvpg — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->

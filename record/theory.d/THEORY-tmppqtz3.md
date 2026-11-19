@@ -14,7 +14,7 @@ promote_when: >-
   accuracy roughly flat in size and number of demonstrations while
   accuracy under per-prompt abstract label remappings rises with both.
 summary: >-
-  From the reading of LIT-tmppcswh in NOTE-tmp6fdy5. Pan, Gao, Chen and
+  From the reading of [LIT-tmppcswh](../literature.d/LIT-tmppcswh.md) in [NOTE-tmp6fdy5](../notes.d/NOTE-tmp6fdy5.md). Pan, Gao, Chen and
   Chen (2023; arXiv 2305.09731) split in-context learning into task
   recognition and task learning. Recognition is measured with random
   labels from the correct label set, and learning with minimal prompts and
@@ -23,8 +23,8 @@ summary: >-
   at every size but flat in size and number of demonstrations. Learning
   appears only in large models and grows with demonstrations, matching
   gold labels with 16 examples in the largest. So Min et al.'s small
-  gold–random gap (THEORY-496) widens with scale. Here because A56
-  proposed these controls for the in-context arm of CASE-tmphsr99, whose
+  gold–random gap ([THEORY-496](THEORY-496.md)) widens with scale. Here because A56
+  proposed these controls for the in-context arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), whose
   synthetic task families, with no pretrained prior, make in-context
   success task learning by construction. Read in its NOTE.
 ---

@@ -39,10 +39,10 @@ summary: >-
   ridge predictor. Probes recover the moment vector and least-squares
   weights from hidden states, but nonlinearly, unlike the constructions.
   Here because A56 cited it beside Garg et al. for in-context learning as
-  a learned learner. It measures THEORY-169's caution that trained
+  a learned learner. It measures [THEORY-169](../theory.d/THEORY-169.md)'s caution that trained
   transformers are not shown to do gradient descent, and it is a case of
-  CLAIM-118's split. Read in its NOTE. Read in NOTE-tmppc03e; its account
-  is THEORY-tmpvf16r.
+  [CLAIM-118](../claims.d/CLAIM-118.md)'s split. Read in its NOTE. Read in [NOTE-tmppc03e](../notes.d/NOTE-tmppc03e.md); its account
+  is [THEORY-tmpvf16r](../theory.d/THEORY-tmpvf16r.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpvf16r — Proposed; cited in this filing of 2026-11-19 -->
 

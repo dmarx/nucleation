@@ -39,9 +39,9 @@ summary: >-
   every model falls near chance unless meta-trained on remapped labels.
   Here because A54 named it where meta-learning and in-context learning
   meet. It is the plainest case of outer training improving the
-  interpreter so that it uses the signal better (CLAIM-118), and of the
-  meta-learning arm of CASE-tmphsr99. Read in its NOTE. Read in NOTE-
-  tmpbyao9; its account is THEORY-tmpnivm0.
+  interpreter so that it uses the signal better ([CLAIM-118](../claims.d/CLAIM-118.md)), and of the
+  meta-learning arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Read in its NOTE. Read in NOTE-
+  tmpbyao9; its account is [THEORY-tmpnivm0](../theory.d/THEORY-tmpnivm0.md).
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmpnivm0 — Proposed; cited in this filing of 2026-11-19 -->
 

@@ -16,7 +16,7 @@ promote_when: >-
   least squares (or Lasso), including under at least one of the reported
   shifts such as noisy labels or mismatched orthants.
 summary: >-
-  From the reading of LIT-tmpx4h3s in NOTE-tmpbf4ra. Garg, Tsipras, Liang
+  From the reading of [LIT-tmpx4h3s](../literature.d/LIT-tmpx4h3s.md) in [NOTE-tmpbf4ra](../notes.d/NOTE-tmpbf4ra.md). Garg, Tsipras, Liang
   and Valiant (2022; arXiv 2208.01066, v3 Aug 2023) define in-context
   learning of a function class as a property of a fixed model and train
   small transformers from scratch to achieve it. On unseen 20-dimensional
@@ -28,7 +28,7 @@ summary: >-
   covariance, and the authors leave open what this means for language
   models. Here because A56 cited it for in-context learning as a learned
   algorithm. It is the behavioural counterpart to the exact identities of
-  THEORY-169 and a case of CLAIM-118's split between a learned interpreter
+  [THEORY-169](THEORY-169.md) and a case of [CLAIM-118](../claims.d/CLAIM-118.md)'s split between a learned interpreter
   and a discarded per-sequence fit. Read in its NOTE.
 ---
 

@@ -94,6 +94,6 @@ compounding for one capacity, with a threshold below which it traps.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Finn, Abbeel and Levine's MAML (THEORY-tmpsw2ct), read, is an empirical instance. The initialization best on the present joint objective, pre-training on all tasks, adapts worse than the MAML initialization chosen by post-adaptation loss (sinusoid, §5.1; Appendix C, Table 2: 5-shot MSE 2.41 against 0.67 after one step). That supports the claim with independent evidence. As in CASE-tmpplox8, the later tasks are stipulated to come, here from p(T), so it does not touch the stronger reading the claim declines.
+Finn, Abbeel and Levine's MAML ([THEORY-tmpsw2ct](../theory.d/THEORY-tmpsw2ct.md)), read, is an empirical instance. The initialization best on the present joint objective, pre-training on all tasks, adapts worse than the MAML initialization chosen by post-adaptation loss (sinusoid, §5.1; Appendix C, Table 2: 5-shot MSE 2.41 against 0.67 after one step). That supports the claim with independent evidence. As in [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md), the later tasks are stipulated to come, here from p(T), so it does not touch the stronger reading the claim declines.
 
 No status change.

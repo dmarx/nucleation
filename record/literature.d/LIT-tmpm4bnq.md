@@ -33,12 +33,12 @@ summary: >-
   adaptation (CCA above 0.9). MAML's success is therefore "feature reuse",
   not "rapid learning", and ANIL, which adapts only the head, matches
   MAML. It is here because A54 used it to separate reusable structure from
-  the capacity to acquire structure, a clause of CLAIM-tmp8ljvp. The paper
+  the capacity to acquire structure, a clause of [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md). The paper
   supports that distinction between routes to fast adaptation but does not
   measure acquisition capacity over training or forgetting. It also warns
   that a low adaptation budget can measure reuse rather than plasticity
-  (CASE-tmphsr99). Read in its NOTE. Read in NOTE-tmpuduuy; its account is
-  THEORY-tmpfhidr.
+  ([CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)). Read in its NOTE. Read in [NOTE-tmpuduuy](../notes.d/NOTE-tmpuduuy.md); its account is
+  [THEORY-tmpfhidr](../theory.d/THEORY-tmpfhidr.md).
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmpfhidr — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->

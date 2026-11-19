@@ -16,7 +16,7 @@ promote_when: >-
   half; or the same ordering on a second task with a prespecified
   hypothesis space.
 summary: >-
-  From the reading of LIT-tmpg7w4q in NOTE-tmpc0is3. Friston, Da Costa,
+  From the reading of [LIT-tmpg7w4q](../literature.d/LIT-tmpg7w4q.md) in [NOTE-tmpc0is3](../notes.d/NOTE-tmpc0is3.md). Friston, Da Costa,
   Tschantz, Heins, Buckley, Verbelen and Parr (2026), Nature
   Communications 17:10125, DOI 10.1038/s41467-026-77209-5 (open access).
   The paper adds to active inference's expected free energy an expected
@@ -27,8 +27,8 @@ summary: >-
   rule was found in a modal 14 trials. Without information gain about half
   the games failed. It assumes the rest of the generative model is known.
   Here because the exchange named it as prior art for structure learning
-  beside THEORY-564. It qualifies that entry without meeting its
-  promote_when, and it shows the mechanism CASE-153's sentry would block.
+  beside [THEORY-564](THEORY-564.md). It qualifies that entry without meeting its
+  promote_when, and it shows the mechanism [CASE-153](../cases.d/CASE-153.md)'s sentry would block.
   Read in its NOTE.
 ---
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
@@ -43,5 +43,5 @@ In a POMDP where the rule lives in the likelihood to a feedback modality, the au
 
 - Nothing about structure learning when the hypothesis space is not given or does not contain the truth. The authors note that each added symmetry raises the chance of excluding the true rule.
 - No comparison with other optimal-design or active-learning criteria, or with nonparametric structure learners.
-- It does not show that Bayesian model reduction recovers structure such as the number of hidden causes, the open part of THEORY-564.
+- It does not show that Bayesian model reduction recovers structure such as the number of hidden causes, the open part of [THEORY-564](THEORY-564.md).
 - Simulation only, on one task; no human or neural evidence.

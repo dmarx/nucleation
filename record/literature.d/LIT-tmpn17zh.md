@@ -36,9 +36,9 @@ summary: >-
   exactly and its particles largely, but stochastic domains need extra
   hand-applied filtering. The authors stress that the states are
   predictive, not interventional. Here because it is the spatiotemporal
-  form of the causal state held as TERM-062 and the predictive criterion
-  that QUESTION-tmpcb0bf compares. Read in its NOTE. Read in NOTE-
-  tmpqwurm; its account is THEORY-tmpgs5bb.
+  form of the causal state held as [TERM-062](../terms.d/TERM-062.md) and the predictive criterion
+  that [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md) compares. Read in its NOTE. Read in NOTE-
+  tmpqwurm; its account is [THEORY-tmpgs5bb](../theory.d/THEORY-tmpgs5bb.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpgs5bb — Proposed; cited in this filing of 2026-11-19 -->
 

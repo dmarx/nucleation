@@ -33,11 +33,11 @@ summary: >-
   Sen's "socially dependent individual capabilities" and Alkire's
   heterogeneity objection, and sets conditions (free, voluntary,
   empowering participation) under which they are good. Registered as a
-  stand-in for LIT-tmpmg2nk, which is closed access. It restates that
+  stand-in for [LIT-tmpmg2nk](LIT-tmpmg2nk.md), which is closed access. It restates that
   paper's definition but not its framework or its Egyptian case studies.
   Here for individual capabilities made possible by a collective, beside
-  CLAIM-352 and CLAIM-tmpkrk41. Read in its NOTE. Read in NOTE-tmpk5kvr;
-  its account is THEORY-tmphw7hd.
+  [CLAIM-352](../claims.d/CLAIM-352.md) and [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md). Read in its NOTE. Read in [NOTE-tmpk5kvr](../notes.d/NOTE-tmpk5kvr.md);
+  its account is [THEORY-tmphw7hd](../theory.d/THEORY-tmphw7hd.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkrk41 THEORY-tmphw7hd — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmpmg2nk — Unavailable; cited in this filing of 2026-11-19 -->
@@ -46,4 +46,4 @@ summary: >-
 
 ## Standing in the record
 
-Ibrahim (2013), Maitreyee no. 22, the e-bulletin of the Human Development and Capability Association. Registered and read on 2026-11-19 as a stand-in for LIT-tmpmg2nk (Ibrahim 2006), which is closed access; it restates the 2006 definition of collective capabilities and Sen's alternative term, not the 2006 framework or its case studies.
+Ibrahim (2013), Maitreyee no. 22, the e-bulletin of the Human Development and Capability Association. Registered and read on 2026-11-19 as a stand-in for [LIT-tmpmg2nk](LIT-tmpmg2nk.md) (Ibrahim 2006), which is closed access; it restates the 2006 definition of collective capabilities and Sen's alternative term, not the 2006 framework or its case studies.

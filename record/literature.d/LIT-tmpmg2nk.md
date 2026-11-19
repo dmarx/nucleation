@@ -79,5 +79,5 @@ Ibrahim (2006). Journal of Human Development, DOI 10.1080/14649880600815982.
 Registered on 2026-11-19 from A37 of the exchange "Topological protection explained". A37 used it for individual capabilities made possible by a collective, beside the owner's Sen connection, [CLAIM-352](../claims.d/CLAIM-352.md). Not read.
 
 Not read: see the status note. Its stand-in, read on 2026-11-19, is
-LIT-tmp7b5k5 (Ibrahim 2013), for the definition of collective
+[LIT-tmp7b5k5](LIT-tmp7b5k5.md) (Ibrahim 2013), for the definition of collective
 capabilities only.

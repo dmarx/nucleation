@@ -36,9 +36,9 @@ summary: >-
   criticality, and dropout, which removes the transition, caps trainable
   depth. Here because A15 set it against domain walls as a way of keeping
   information through depth: it is the fine-tuned edge-of-chaos route that
-  the read stand-in LIT-tmpyahtz (THEORY-tmpvtafk) claims to avoid over a
-  whole symmetry-broken phase. Read in its NOTE. Read in NOTE-tmpaon0o;
-  its account is THEORY-tmpqtb3q.
+  the read stand-in [LIT-tmpyahtz](LIT-tmpyahtz.md) ([THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md)) claims to avoid over a
+  whole symmetry-broken phase. Read in its NOTE. Read in [NOTE-tmpaon0o](../notes.d/NOTE-tmpaon0o.md);
+  its account is [THEORY-tmpqtb3q](../theory.d/THEORY-tmpqtb3q.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpqtb3q THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 

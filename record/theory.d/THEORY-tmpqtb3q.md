@@ -17,7 +17,7 @@ promote_when: >-
   its divergence at the transition, the trainability boundary near a fixed
   multiple of it, and the loss of the divergence under dropout.
 summary: >-
-  From the reading of LIT-tmpn5ate in NOTE-tmpaon0o. Schoenholz, Gilmer,
+  From the reading of [LIT-tmpn5ate](../literature.d/LIT-tmpn5ate.md) in [NOTE-tmpaon0o](../notes.d/NOTE-tmpaon0o.md). Schoenholz, Gilmer,
   Ganguli and Sohl-Dickstein (2017), ICLR 2017, arXiv 1611.01232. In the
   mean-field theory of wide random networks with bounded activations, the
   correlation between two inputs decays to its limit over a depth scale ξc
@@ -28,7 +28,7 @@ summary: >-
   removes the transition, caps trainable depth. Here because A15 set it
   against domain walls as a way of keeping information through depth: it
   is the fine-tuned edge-of-chaos route that the read stand-in LIT-
-  tmpyahtz (THEORY-tmpvtafk) claims to avoid over a whole symmetry-broken
+  tmpyahtz ([THEORY-tmpvtafk](THEORY-tmpvtafk.md)) claims to avoid over a whole symmetry-broken
   phase. Read in its NOTE.
 ---
 <!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->

@@ -61,6 +61,6 @@ Whether this counts as an exact identity of the kind asked, or is too immediate 
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Akyürek and colleagues (THEORY-tmpvf16r), read: leaves the question open. Their Theorems 1 and 2 show that chosen transformer weights can carry one gradient step, or one Sherman–Morrison update of a ridge solution, on in-context examples. These are existence constructions for particular weights, not identities for a layer class, and the question says that restating constructions of this kind does not count. Their measurements of trained models, which match ridge or least squares rather than one gradient step, are excluded by the question's terms as well.
+Akyürek and colleagues ([THEORY-tmpvf16r](../theory.d/THEORY-tmpvf16r.md)), read: leaves the question open. Their Theorems 1 and 2 show that chosen transformer weights can carry one gradient step, or one Sherman–Morrison update of a ridge solution, on in-context examples. These are existence constructions for particular weights, not identities for a layer class, and the question says that restating constructions of this kind does not count. Their measurements of trained models, which match ridge or least squares rather than one gradient step, are excluded by the question's terms as well.
 
 No status change.

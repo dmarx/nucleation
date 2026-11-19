@@ -34,11 +34,11 @@ summary: >-
   tasks; ordinary weight regularization does not prevent it, while
   penalizing the information in the meta-parameters not used for
   adaptation does. Here because A54 used it for meta-overfitting, a design
-  rule of CASE-tmphsr99: the reading supports the rule and adds pre-update
+  rule of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md): the reading supports the rule and adds pre-update
   accuracy on training tasks as its diagnostic. It also bears on CLAIM-
   tmp8ljvp, since the authors name this loss of adaptability task-level
-  overfitting. Read in its NOTE. Read in NOTE-tmplyn0o; its account is
-  THEORY-tmpzauel.
+  overfitting. Read in its NOTE. Read in [NOTE-tmplyn0o](../notes.d/NOTE-tmplyn0o.md); its account is
+  [THEORY-tmpzauel](../theory.d/THEORY-tmpzauel.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpzauel — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->

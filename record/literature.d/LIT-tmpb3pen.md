@@ -30,13 +30,13 @@ summary: >-
   orientation map) per hypercolumn tends to exactly π as the interaction
   range grows and stays near π for intermediate ranges, while in rival
   models pinwheels annihilate or crystallize. Registered as a stand-in for
-  Kaschube et al. (2010, LIT-tmpdedmw), which is Unfetched: it restates
+  Kaschube et al. (2010, [LIT-tmpdedmw](LIT-tmpdedmw.md)), which is Unfetched: it restates
   that paper's model prediction, not its cross-species measurements. Here
   because A15 of the exchange "Topological protection explained" cited
   pinwheels as defect-like singularities that need not be functional units
-  (QUESTION-tmpcb0bf); the paper treats them only as countable markers and
-  assigns no function. Read in its NOTE. Read in NOTE-tmpgq62j; its
-  account is THEORY-tmpg9anb.
+  ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)); the paper treats them only as countable markers and
+  assigns no function. Read in its NOTE. Read in [NOTE-tmpgq62j](../notes.d/NOTE-tmpgq62j.md); its
+  account is [THEORY-tmpg9anb](../theory.d/THEORY-tmpg9anb.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpg9anb — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
@@ -45,4 +45,4 @@ summary: >-
 
 ## Standing in the record
 
-Kaschube, Schnabel and Wolf (2008), arXiv 0801.3651. Registered and read on 2026-11-19 as a stand-in for LIT-tmpdedmw (Kaschube et al. 2010), whose copies were not reached; it stands in only for that paper's model prediction that long-range interactions select about pi pinwheels per hypercolumn, not for its measurements across species.
+Kaschube, Schnabel and Wolf (2008), arXiv 0801.3651. Registered and read on 2026-11-19 as a stand-in for [LIT-tmpdedmw](LIT-tmpdedmw.md) (Kaschube et al. 2010), whose copies were not reached; it stands in only for that paper's model prediction that long-range interactions select about pi pinwheels per hypercolumn, not for its measurements across species.

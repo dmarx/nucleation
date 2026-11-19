@@ -34,10 +34,10 @@ summary: >-
   faster than approximate IID training. The representation turns out
   highly sparse with no dead units. It is here because A54 named it for
   representations meta-trained against forgetting, bearing on
-  overconsolidation (CLAIM-tmp8ljvp). It bears mostly on forgetting: it
+  overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)). It bears mostly on forgetting: it
   secures retention and fast acquisition together by freezing the
   representation, and it says nothing on plasticity over long training.
-  Read in its NOTE. Read in NOTE-tmpd0h3v; its account is THEORY-tmpcdbc7.
+  Read in its NOTE. Read in [NOTE-tmpd0h3v](../notes.d/NOTE-tmpd0h3v.md); its account is [THEORY-tmpcdbc7](../theory.d/THEORY-tmpcdbc7.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpcdbc7 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->

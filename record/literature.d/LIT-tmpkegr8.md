@@ -40,9 +40,9 @@ summary: >-
   with good downstream accuracy, and optimizing them directly matches or
   beats the contrastive loss. Here because A27 used it for how self-
   supervised learning contracts some distinctions and keeps others
-  (CLAIM-481's note of 2026-11-19, CLAIM-tmpw8xkt). It supports that split
+  ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of 2026-11-19, [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md)). It supports that split
   but is not spectral and says nothing of the classes kept. Read in its
-  NOTE. Read in NOTE-tmpk44ye; its account is THEORY-tmpl3nl5.
+  NOTE. Read in [NOTE-tmpk44ye](../notes.d/NOTE-tmpk44ye.md); its account is [THEORY-tmpl3nl5](../theory.d/THEORY-tmpl3nl5.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpw8xkt THEORY-tmpl3nl5 — Proposed; cited in this filing of 2026-11-19 -->
 

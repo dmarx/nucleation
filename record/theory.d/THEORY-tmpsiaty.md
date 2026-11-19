@@ -15,7 +15,7 @@ promote_when: >-
   sources (Schein and Ungar 2007; Settles et al. 2008a; the submodularity
   remark citing Nemhauser et al. 1978 and Krause 2008).
 summary: >-
-  From the reading of LIT-tmp62j1j in NOTE-tmpob2w3. Settles (2009;
+  From the reading of [LIT-tmp62j1j](../literature.d/LIT-tmp62j1j.md) in [NOTE-tmpob2w3](../notes.d/NOTE-tmpob2w3.md). Settles (2009;
   revised 26 January 2010), Active Learning Literature Survey, Computer
   Sciences Technical Report 1648, University of Wisconsin–Madison,
   https://burrsettles.com/pub/settles.activelearning.pdf. The standard
@@ -28,8 +28,8 @@ summary: >-
   cost-blind selection can do no better than random, and greedy guarantees
   need submodularity, which active-learning criteria generally lack. Here
   because the owner said at U30 that the exchange was entering active-
-  learning territory. It bears on CLAIM-572's greedy-stopping result and
-  on the feedback premise of QUESTION-tmprj00l. Read in its NOTE
+  learning territory. It bears on [CLAIM-572](../claims.d/CLAIM-572.md)'s greedy-stopping result and
+  on the feedback premise of [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md). Read in its NOTE
   (skimmed).
 ---
 <!-- inactive-ok-file: NOTE-tmpob2w3 — Skimmed; cited in this filing of 2026-11-19 -->

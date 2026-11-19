@@ -37,10 +37,10 @@ summary: >-
   trained capability the longer the model was pre-trained. The cost shows
   up mostly as forgetting caused by the acquisition, and the new task
   itself gets worse only in some settings. It is here as the prime
-  empirical case for overconsolidation (CLAIM-tmp8ljvp) and the Pythia
-  study (CASE-tmphsr99), which it qualifies: the case is mainly about
+  empirical case for overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) and the Pythia
+  study ([CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)), which it qualifies: the case is mainly about
   forgetting under modification, not a higher budget to acquire. Read in
-  its NOTE. Read in NOTE-tmpp1jb7; its account is THEORY-tmp3dqbl.
+  its NOTE. Read in [NOTE-tmpp1jb7](../notes.d/NOTE-tmpp1jb7.md); its account is [THEORY-tmp3dqbl](../theory.d/THEORY-tmp3dqbl.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp3dqbl — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->

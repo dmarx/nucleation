@@ -20,7 +20,7 @@ promote_when: >-
   loss and the better fine-tuned score, beyond seed variation of pre-
   training.
 summary: >-
-  From the reading of LIT-tmpkfcwr in NOTE-tmps6j9j. Han, Bordt, Zhang and
+  From the reading of [LIT-tmpkfcwr](../literature.d/LIT-tmpkfcwr.md) in [NOTE-tmps6j9j](../notes.d/NOTE-tmps6j9j.md). Han, Bordt, Zhang and
   Kakade (2026), arXiv 2602.11137, ICML 2026. They pre-train Llama-2 and
   OLMo-2 models (0.5B-4B, at 20 and 140 tokens per parameter) across AdamW
   weight decay values, then fine-tune on twelve tasks. Weight decay above
@@ -29,8 +29,8 @@ summary: >-
   pre-training loss does not rank models by what they become. Plasticity
   is measured only as the fine-tuned score on the target task, and
   forgetting is not measured. It is here as a preventive training regime
-  for overconsolidation (CLAIM-tmp8ljvp) and an arm of CASE-tmphsr99, and
-  it is the clearest case for CLAIM-675's point that present capability
+  for overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) and an arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), and
+  it is the clearest case for [CLAIM-675](../claims.d/CLAIM-675.md)'s point that present capability
   does not rank later capability. Read in its NOTE.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->

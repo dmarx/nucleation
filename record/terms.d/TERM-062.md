@@ -90,6 +90,6 @@ sense 1).
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Rupe and Crutchfield (THEORY-tmpgs5bb), read: supports the TERM and adds a choice of source and target beside the ε- and υ-machines. The source is the past lightcone at a spacetime point and the target its future lightcone; two past lightcones are equivalent when they give the same distribution over future lightcones. The resulting local causal states are "minimal sufficient statistics for optimal local prediction". They confirm that causal states are not interventional: the states "do not detect direct causal relationships".
+Rupe and Crutchfield ([THEORY-tmpgs5bb](../theory.d/THEORY-tmpgs5bb.md)), read: supports the TERM and adds a choice of source and target beside the ε- and υ-machines. The source is the past lightcone at a spacetime point and the target its future lightcone; two past lightcones are equivalent when they give the same distribution over future lightcones. The resulting local causal states are "minimal sufficient statistics for optimal local prediction". They confirm that causal states are not interventional: the states "do not detect direct causal relationships".
 
 No status change.

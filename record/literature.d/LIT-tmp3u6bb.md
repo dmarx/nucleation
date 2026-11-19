@@ -35,11 +35,11 @@ summary: >-
   training one, and the lack of task families as open problems. Here
   because the owner asked at U24 for prior meta-learning literature and
   A54 named this survey: it confirms that meta-learning's objective
-  targets future learning, as QUESTION-tmpwqepn and CLAIM-tmp8ljvp say,
+  targets future learning, as [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md) and [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) say,
   and that every such objective presupposes a declared task family.
   Skimmed (taxonomy, formalization, meta-objectives, continual learning,
-  challenges); read in its NOTE. Read in NOTE-tmpfnzxf; its account is
-  THEORY-tmpm09s4.
+  challenges); read in its NOTE. Read in [NOTE-tmpfnzxf](../notes.d/NOTE-tmpfnzxf.md); its account is
+  [THEORY-tmpm09s4](../theory.d/THEORY-tmpm09s4.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-tmpm09s4 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmpfnzxf — Skimmed; cited in this filing of 2026-11-19 -->

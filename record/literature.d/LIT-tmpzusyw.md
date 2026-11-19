@@ -40,7 +40,7 @@ summary: >-
   the evidence on the fibration side of the owner's U9 hunch, QUESTION-
   tmpex36a: it shows that balanced structure among units is learned
   without symmetry forcing it, and is silent on role abstraction. Read in
-  its NOTE. Read in NOTE-tmp0z3qi; its account is THEORY-tmpz825j.
+  its NOTE. Read in [NOTE-tmp0z3qi](../notes.d/NOTE-tmp0z3qi.md); its account is [THEORY-tmpz825j](../theory.d/THEORY-tmpz825j.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpz825j — Proposed; cited in this filing of 2026-11-19 -->
 

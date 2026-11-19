@@ -17,7 +17,7 @@ promote_when: >-
   meta-training data, and that the OML representation has lower instance
   sparsity than the pre-trained one with no dead units.
 summary: >-
-  From the reading of LIT-tmppqss3 in NOTE-tmpd0h3v. Javed and White
+  From the reading of [LIT-tmppqss3](../literature.d/LIT-tmppqss3.md) in [NOTE-tmpd0h3v](../notes.d/NOTE-tmpd0h3v.md). Javed and White
   (2019), arXiv 1905.12588, NeurIPS 2019. OML meta-trains a representation
   by differentiating through online SGD on correlated streams, then
   freezes it beneath a small predictor that learns online. On Incremental
@@ -25,7 +25,7 @@ summary: >-
   trained or sparse representations, and learning faster than approximate
   IID training. The representation turns out highly sparse with no dead
   units. It is here because A54 named it for representations meta-trained
-  against forgetting, bearing on overconsolidation (CLAIM-tmp8ljvp). It
+  against forgetting, bearing on overconsolidation ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)). It
   bears mostly on forgetting: it secures retention and fast acquisition
   together by freezing the representation, and it says nothing on
   plasticity over long training. Read in its NOTE.

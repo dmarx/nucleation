@@ -18,7 +18,7 @@ promote_when: >-
   free control that differs from the wave model only in whether activity
   propagates.
 summary: >-
-  From the reading of LIT-tmptu1jw in NOTE-tmpv8ehw. Keller, Muller,
+  From the reading of [LIT-tmptu1jw](../literature.d/LIT-tmptu1jw.md) in [NOTE-tmpv8ehw](../notes.d/NOTE-tmpv8ehw.md). Keller, Muller,
   Sejnowski and Welling (2024), ICLR 2024, arXiv 2309.08045. A recurrent
   network whose recurrence is a ring convolution initialised as a one-step
   shift (the Wave-RNN) carries travelling waves in its hidden state, and
@@ -30,8 +30,8 @@ summary: >-
   propagation stops later inputs overwriting earlier ones; randomly
   initialised local recurrences learn waves in training. Here because A15
   of the exchange "Topological protection explained" listed it among ways
-  learned systems keep information through time (QUESTION-tmpcb0bf), and
-  LIT-647 mentions it. The evidence is comparative across models, with no
+  learned systems keep information through time ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)), and
+  [LIT-647](../literature.d/LIT-647.md) mentions it. The evidence is comparative across models, with no
   intervention on the waves themselves. Read in its NOTE.
 ---
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->

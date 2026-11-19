@@ -14,7 +14,7 @@ promote_when: >-
   taking that declines over 30 trials with RS = 3, a single hint with RS =
   4, and renewed hint-taking after unexpected losses.
 summary: >-
-  From the reading of LIT-tmppd2x6 in NOTE-tmpmq8mz. Smith, Friston and
+  From the reading of [LIT-tmppd2x6](../literature.d/LIT-tmppd2x6.md) in [NOTE-tmpmq8mz](../notes.d/NOTE-tmpmq8mz.md). Smith, Friston and
   Whyte (2022), Journal of Mathematical Psychology 107, 102632, DOI
   10.1016/j.jmp.2021.102632 (open access; PMC8956124). A practical
   tutorial on discrete-state active inference: building POMDPs, simulating
@@ -25,7 +25,7 @@ summary: >-
   fades as Dirichlet counts grow, falls as the preference for the larger
   win sharpens, and returns after surprises. Here because the exchange
   recommended it as the first reading for U31. It is a ready template for
-  the Bayesian baseline and the fitting of CASE-153, though it has no
+  the Bayesian baseline and the fitting of [CASE-153](../cases.d/CASE-153.md), though it has no
   second process with authority over action and no structure learning.
   Read in its NOTE (skimmed in part).
 ---
@@ -40,5 +40,5 @@ In the tutorial's POMDP, the context (left or right machine better) is hidden. T
 ## What it does not show
 
 - No empirical behaviour is fitted in the paper's examples, which use simulated participants. It is not evidence that people behave this way.
-- Single-agent, single-process. No competing process can veto the information action, as CASE-153 needs.
+- Single-agent, single-process. No competing process can veto the information action, as [CASE-153](../cases.d/CASE-153.md) needs.
 - No structure learning: only parameters of a fixed model are learned.

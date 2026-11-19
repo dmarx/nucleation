@@ -37,9 +37,9 @@ summary: >-
   moderate penalty without losing utility, and amortizes skill
   construction through reuse (61 of 100 reuses help, 1 harms). Here
   because A58 cited it for learning when to update: its rule, build when
-  gain amortized over expected reuse covers the compute, is QUESTION-095's
-  trade and CLAIM-303's criterion for parameter skills. Read in its NOTE.
-  Read in NOTE-tmp0i0a5; its account is THEORY-tmpddlli.
+  gain amortized over expected reuse covers the compute, is [QUESTION-095](../questions.d/QUESTION-095.md)'s
+  trade and [CLAIM-303](../claims.d/CLAIM-303.md)'s criterion for parameter skills. Read in its NOTE.
+  Read in [NOTE-tmp0i0a5](../notes.d/NOTE-tmp0i0a5.md); its account is [THEORY-tmpddlli](../theory.d/THEORY-tmpddlli.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpddlli — Proposed; cited in this filing of 2026-11-19 -->
 

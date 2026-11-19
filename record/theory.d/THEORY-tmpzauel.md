@@ -16,7 +16,7 @@ promote_when: >-
   exclusive tasks, with high pre-update training accuracy, and a gain from
   penalizing the information in the non-adapted meta-parameters.
 summary: >-
-  From the reading of LIT-tmpws19o in NOTE-tmplyn0o. Yin, Tucker, Zhou,
+  From the reading of [LIT-tmpws19o](../literature.d/LIT-tmpws19o.md) in [NOTE-tmplyn0o](../notes.d/NOTE-tmplyn0o.md). Yin, Tucker, Zhou,
   Levine and Finn (2020), ICLR 2020, arXiv 1912.03820. They show that when
   meta-training tasks are not mutually exclusive, MAML and conditional
   neural processes can memorize one function that solves every training
@@ -26,7 +26,7 @@ summary: >-
   information in the meta-parameters not used for adaptation does. Here
   because A54 used it for meta-overfitting, a design rule of CASE-
   tmphsr99: the reading supports the rule and adds pre-update accuracy on
-  training tasks as its diagnostic. It also bears on CLAIM-tmp8ljvp, since
+  training tasks as its diagnostic. It also bears on [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md), since
   the authors name this loss of adaptability task-level overfitting. Read
   in its NOTE.
 ---

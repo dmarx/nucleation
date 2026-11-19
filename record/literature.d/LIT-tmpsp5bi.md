@@ -37,9 +37,9 @@ summary: >-
   the temperature ratio as its trade-off. The agent's action never changes
   the next cycle's data, so the result is a no-feedback baseline. Here
   because the exchange made it the bridge between memory and
-  thermodynamics: it is the nearest prior result for QUESTION-tmprj00l and
-  extends THEORY-026 to a cyclic engine. Read in its NOTE (arXiv v3). Read
-  in NOTE-tmp9h01y; its account is THEORY-tmp6miip.
+  thermodynamics: it is the nearest prior result for [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md) and
+  extends [THEORY-026](../theory.d/THEORY-026.md) to a cyclic engine. Read in its NOTE (arXiv v3). Read
+  in [NOTE-tmp9h01y](../notes.d/NOTE-tmp9h01y.md); its account is [THEORY-tmp6miip](../theory.d/THEORY-tmp6miip.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp6miip — Proposed; cited in this filing of 2026-11-19 -->
 

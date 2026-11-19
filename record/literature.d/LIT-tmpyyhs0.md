@@ -39,8 +39,8 @@ summary: >-
   and only at 2.8B and above. Here because it is the testbed of CASE-
   tmphsr99, whose named models (70M- and 160M-deduped) and checkpoints
   exist as described, and because many THEORY entries use its models
-  without an entry for the suite. Read in its NOTE. Read in NOTE-tmpzf8fo;
-  its account is THEORY-tmp7himr.
+  without an entry for the suite. Read in its NOTE. Read in [NOTE-tmpzf8fo](../notes.d/NOTE-tmpzf8fo.md);
+  its account is [THEORY-tmp7himr](../theory.d/THEORY-tmp7himr.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp7himr — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->

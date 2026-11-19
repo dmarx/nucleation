@@ -36,10 +36,10 @@ summary: >-
   period, not any property of the one-period Floquet operator. Two drives
   with the same stroboscopic bulk can have opposite edge chirality. It is
   here for interfaces between dynamically distinguished phases
-  (QUESTION-378, QUESTION-tmp57ji2). The paper establishes that phases can
+  ([QUESTION-378](../questions.d/QUESTION-378.md), [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md)). The paper establishes that phases can
   be told apart only by their intra-cycle dynamics, but it treats edges
   against vacuum, not interfaces between two driven regions. Read in its
-  NOTE. Read in NOTE-tmpkrdm9; its account is THEORY-tmpq7rwx.
+  NOTE. Read in [NOTE-tmpkrdm9](../notes.d/NOTE-tmpkrdm9.md); its account is [THEORY-tmpq7rwx](../theory.d/THEORY-tmpq7rwx.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpq7rwx — Proposed; cited in this filing of 2026-11-19 -->
 

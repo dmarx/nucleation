@@ -37,10 +37,10 @@ summary: >-
   a wave RNN reproduces square drums' fundamental frequencies; even an
   unbiased convolutional LSTM learns waves. Here because A15 of the
   exchange "Topological protection explained" listed it beside Keller et
-  al. as a way learned systems carry information (QUESTION-tmpcb0bf), and
-  LIT-647 mentions it. The role of the waves rests on comparisons and a
+  al. as a way learned systems carry information ([QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md)), and
+  [LIT-647](LIT-647.md) mentions it. The role of the waves rests on comparisons and a
   training-time correlation, not on intervention. Read in its NOTE. Read
-  in NOTE-tmpyjaii; its account is THEORY-tmpctik9.
+  in [NOTE-tmpyjaii](../notes.d/NOTE-tmpyjaii.md); its account is [THEORY-tmpctik9](../theory.d/THEORY-tmpctik9.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpctik9 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->

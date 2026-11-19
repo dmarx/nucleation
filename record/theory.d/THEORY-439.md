@@ -127,8 +127,8 @@ did not, on most tasks.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Sun and colleagues (THEORY-tmp3hfjg), read: earlier, independent evidence of the same pattern in vision. A per-input weight update on a self-supervised task, discarded after the prediction, beats the same model held fixed under distribution shift, without loss on the original distribution, and the gain tracks the alignment between the update's gradient and the task's. That matches this entry's finding that gains are largest under distribution shift. It is image classification, so it supports the pattern, not the title's scope of 1–8B language models.
+Sun and colleagues ([THEORY-tmp3hfjg](THEORY-tmp3hfjg.md)), read: earlier, independent evidence of the same pattern in vision. A per-input weight update on a self-supervised task, discarded after the prediction, beats the same model held fixed under distribution shift, without loss on the original distribution, and the gain tracks the alignment between the update's gradient and the task's. That matches this entry's finding that gains are largest under distribution shift. It is image classification, so it supports the pattern, not the title's scope of 1–8B language models.
 
-Tandon and colleagues (THEORY-tmpv904w), read: qualifies the non-interchangeability. Compressing a long context into weights by test-time training beats holding it in full attention on average next-token loss, yet loses badly on verbatim retrieval (pass-key at 128K: 0.06 against 0.99). Which use of a context is better depends on what the query needs from it. The comparison is between architectures, not within one model as here.
+Tandon and colleagues ([THEORY-tmpv904w](THEORY-tmpv904w.md)), read: qualifies the non-interchangeability. Compressing a long context into weights by test-time training beats holding it in full attention on average next-token loss, yet loses badly on verbatim retrieval (pass-key at 128K: 0.06 against 0.99). Which use of a context is better depends on what the query needs from it. The comparison is between architectures, not within one model as here.
 
 No status change.

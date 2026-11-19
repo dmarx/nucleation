@@ -36,9 +36,9 @@ summary: >-
   fibrations project a network onto the subsystem that drives it, which
   they call an abstraction. Only this direction is proved, and stability
   is not treated. Here because it is the fibration form of the balanced-
-  partition result held as THEORY-1065 and THEORY-1059, which it
-  generalizes in one direction. Read in its NOTE. Read in NOTE-tmpubt2l;
-  its account is THEORY-tmp31d9a.
+  partition result held as [THEORY-1065](../theory.d/THEORY-1065.md) and [THEORY-1059](../theory.d/THEORY-1059.md), which it
+  generalizes in one direction. Read in its NOTE. Read in [NOTE-tmpubt2l](../notes.d/NOTE-tmpubt2l.md);
+  its account is [THEORY-tmp31d9a](../theory.d/THEORY-tmp31d9a.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp31d9a — Proposed; cited in this filing of 2026-11-19 -->
 

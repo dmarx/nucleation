@@ -39,9 +39,9 @@ summary: >-
   and skewed covariance, and the authors leave open what this means for
   language models. Here because A56 cited it for in-context learning as a
   learned algorithm. It is the behavioural counterpart to the exact
-  identities of THEORY-169 and a case of CLAIM-118's split between a
+  identities of [THEORY-169](../theory.d/THEORY-169.md) and a case of [CLAIM-118](../claims.d/CLAIM-118.md)'s split between a
   learned interpreter and a discarded per-sequence fit. Read in its NOTE.
-  Read in NOTE-tmpbf4ra; its account is THEORY-tmpxdk37.
+  Read in [NOTE-tmpbf4ra](../notes.d/NOTE-tmpbf4ra.md); its account is [THEORY-tmpxdk37](../theory.d/THEORY-tmpxdk37.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpxdk37 — Proposed; cited in this filing of 2026-11-19 -->
 

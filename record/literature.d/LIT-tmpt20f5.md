@@ -44,9 +44,9 @@ summary: >-
   of predictability scales with the Kibble–Zurek freeze-out time. It is
   here because it dates when a future individual becomes determined.
   Creation (near the critical point) and stabilization (at freeze-out)
-  come apart in time (QUESTION-281). It also shows that kink locations are
-  set by history, not by the charge (CLAIM-694). Read in its NOTE. Read in
-  NOTE-tmphzpy8; its account is THEORY-tmpohouk.
+  come apart in time ([QUESTION-281](../questions.d/QUESTION-281.md)). It also shows that kink locations are
+  set by history, not by the charge ([CLAIM-694](../claims.d/CLAIM-694.md)). Read in its NOTE. Read in
+  [NOTE-tmphzpy8](../notes.d/NOTE-tmphzpy8.md); its account is [THEORY-tmpohouk](../theory.d/THEORY-tmpohouk.md).
 ---
 <!-- inactive-ok-file: CLAIM-694 THEORY-tmpohouk — Proposed; cited in this filing of 2026-11-19 -->
 

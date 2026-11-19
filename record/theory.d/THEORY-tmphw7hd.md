@@ -18,7 +18,7 @@ promote_when: >-
   extending the evaluative space to the collectivity under conditions of
   free and voluntary participation.
 summary: >-
-  From the reading of LIT-tmp7b5k5 in NOTE-tmpk5kvr. Ibrahim (2013),
+  From the reading of [LIT-tmp7b5k5](../literature.d/LIT-tmp7b5k5.md) in [NOTE-tmpk5kvr](../notes.d/NOTE-tmpk5kvr.md). Ibrahim (2013),
   "Collective Capabilities: What are they and why are they Important?",
   Maitreyee no. 22 (HDCA e-bulletin), pp. 4–7, https://hd-ca.org/wp-
   content/uploads/2014/03/Maitreyee22_June20131.pdf. A short position
@@ -28,10 +28,10 @@ summary: >-
   "socially dependent individual capabilities" and Alkire's heterogeneity
   objection, and sets conditions (free, voluntary, empowering
   participation) under which they are good. Registered as a stand-in for
-  LIT-tmpmg2nk, which is closed access. It restates that paper's
+  [LIT-tmpmg2nk](../literature.d/LIT-tmpmg2nk.md), which is closed access. It restates that paper's
   definition but not its framework or its Egyptian case studies. Here for
-  individual capabilities made possible by a collective, beside CLAIM-352
-  and CLAIM-tmpkrk41. Read in its NOTE.
+  individual capabilities made possible by a collective, beside [CLAIM-352](../claims.d/CLAIM-352.md)
+  and [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md). Read in its NOTE.
 ---
 <!-- inactive-ok-file: CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmpmg2nk — Unavailable; cited in this filing of 2026-11-19 -->

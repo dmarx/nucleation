@@ -36,9 +36,9 @@ summary: >-
   and CIFAR-10.1 shifts without hurting the original test set, and the
   gain tracks the alignment of the two tasks' gradients (proved for convex
   losses). Here because the owner raised test-time training at U26: its
-  discarded and kept updates are the two sides of CLAIM-118, and its
-  appendix prices the work moved to test time (QUESTION-095). Read in its
-  NOTE. Read in NOTE-tmpt5pbx; its account is THEORY-tmp3hfjg.
+  discarded and kept updates are the two sides of [CLAIM-118](../claims.d/CLAIM-118.md), and its
+  appendix prices the work moved to test time ([QUESTION-095](../questions.d/QUESTION-095.md)). Read in its
+  NOTE. Read in [NOTE-tmpt5pbx](../notes.d/NOTE-tmpt5pbx.md); its account is [THEORY-tmp3hfjg](../theory.d/THEORY-tmp3hfjg.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp3hfjg — Proposed; cited in this filing of 2026-11-19 -->
 

@@ -13,7 +13,7 @@ promote_when: >-
   2) and the synthetic recovery result (Fig. 3B) against the paper, and
   confirms the IMDb block descriptions from the Fig. 8 caption and text
 summary: >-
-  From the reading of LIT-tmpc7kaa in NOTE-tmp823hg. Larremore, Clauset
+  From the reading of [LIT-tmpc7kaa](../literature.d/LIT-tmpc7kaa.md) in [NOTE-tmp823hg](../notes.d/NOTE-tmp823hg.md). Larremore, Clauset
   and Jacobs (2014), arXiv 1403.2933. They formulate a degree-corrected
   bipartite stochastic block model, in which communities are pure-type
   groups with the same expected connection pattern to the other side's
@@ -23,7 +23,7 @@ summary: >-
   language groups and one was a genre (Adult), and the authors read the
   blocks as traces of "multiple mechanisms responsible for the existence
   of edges". Here because it is the standard method behind the owner's U10
-  genres example, CASE-tmpsjjgx: it supplies the joint people-and-items
+  genres example, [CASE-tmpsjjgx](../cases.d/CASE-tmpsjjgx.md): it supplies the joint people-and-items
   identification, but its own film blocks are mostly not genres, which
   bears on the case's confounds. Read in its NOTE.
 ---

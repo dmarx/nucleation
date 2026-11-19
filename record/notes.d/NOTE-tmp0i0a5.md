@@ -53,11 +53,11 @@ Treats test-time training as a decision rather than a fixed procedure. Five TTT 
 
 ## Bearing on the record
 
-- **QUESTION-095**: supports, directly. The paper's decision rule is the question's trade: build a skill (precompute) when its gain "amortized over expected future reuse" covers its compute, and reuse it at no adaptation cost. It is a working cost model of precompute, reuse and retrieval for parameter skills, though storage, upkeep and staleness are not costed.
-- **CLAIM-303**: corroborates, in another domain. Filing pays now against reconstruction later, worth it when expected reuse covers it; here a skill pays adaptation compute now and is worth it when expected reuse covers it, and the trained policy learns where that holds.
-- **CLAIM-118**: qualifies. A skill built on one query and loaded on later ones carries earlier contexts into new ones, so by the claim's test it is interpreter, not signal, although the backbone never changes and the skill can be unloaded. The interpreter here is a backbone plus a library, and the policy chooses per query which interpreter answers.
-- **CASE-tmphsr99**: supports two arms. The λcomp sweep is an operational utility–compute exchange rate of the kind the exchange-rate arm wants, and the policy's decision to adapt or not is a learned version of the active-acquisition arm. The enriched benchmark is a warning for the case: selecting tasks where adaptation helps inflates the measured gain.
-- **CLAIM-697**: supports. Success here is a function of the composition of operations chosen under a budget, and the frozen model's direct answer is one point on that curve.
+- **[QUESTION-095](../questions.d/QUESTION-095.md)**: supports, directly. The paper's decision rule is the question's trade: build a skill (precompute) when its gain "amortized over expected future reuse" covers its compute, and reuse it at no adaptation cost. It is a working cost model of precompute, reuse and retrieval for parameter skills, though storage, upkeep and staleness are not costed.
+- **[CLAIM-303](../claims.d/CLAIM-303.md)**: corroborates, in another domain. Filing pays now against reconstruction later, worth it when expected reuse covers it; here a skill pays adaptation compute now and is worth it when expected reuse covers it, and the trained policy learns where that holds.
+- **[CLAIM-118](../claims.d/CLAIM-118.md)**: qualifies. A skill built on one query and loaded on later ones carries earlier contexts into new ones, so by the claim's test it is interpreter, not signal, although the backbone never changes and the skill can be unloaded. The interpreter here is a backbone plus a library, and the policy chooses per query which interpreter answers.
+- **[CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)**: supports two arms. The λcomp sweep is an operational utility–compute exchange rate of the kind the exchange-rate arm wants, and the policy's decision to adapt or not is a learned version of the active-acquisition arm. The enriched benchmark is a warning for the case: selecting tasks where adaptation helps inflates the measured gain.
+- **[CLAIM-697](../claims.d/CLAIM-697.md)**: supports. Success here is a function of the composition of operations chosen under a budget, and the frozen model's direct answer is one point on that curve.
 
 ## Limitations
 
