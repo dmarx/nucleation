@@ -116,3 +116,12 @@ cost. A caution from the attribution studies ([THEORY-2060](../theory.d/THEORY-2
 [THEORY-2058](../theory.d/THEORY-2058.md)): alignment of an update with a run's endpoint or a target is not
 learning from the experience in this term's sense, which needs a
 counterfactual.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Kuhn's exemplars (THEORY-tmpndxv9, THEORY-tmpg10ux) illustrate the term: a
+retained change in what one sees as similar, learned by doing problems,
+which alters what one can later do and leaves the knowledge in the
+organization rather than in statable rules, corrigible through further
+education and misfits with the environment.

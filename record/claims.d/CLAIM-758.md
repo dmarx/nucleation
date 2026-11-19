@@ -227,3 +227,18 @@ switch, part of its cost. The procedural paper ([THEORY-2075](../theory.d/THEORY
 first phase driven to too low a loss worsens later transfer, small-scale.
 Akter and colleagues ([THEORY-2069](../theory.d/THEORY-2069.md)) qualify: reasoning-rich pretraining
 does not worsen later fine-tuning at 8B and 1T tokens, one run per arm.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Kuhn qualifies this claim. Structure (THEORY-tmpg10ux) describes the
+pattern, training "almost perfectly equipped" for puzzles and resistant to
+a fresh approach, but counts the same rigidity as functional for the
+community, since anomaly is visible only against a precise paradigm; and a
+late convert can still work in the new paradigm as a foreigner, a raised
+cost rather than an impossibility. Through a stand-in (THEORY-tmptbea0),
+the 1959 essay holds that rooted training is a precondition of breaking
+with a tradition. Together they suggest something this claim lacks:
+consolidation that raises the cost of a later acquisition can lower the
+cost of detecting that it is needed. Analogy, about communities of
+scientists.

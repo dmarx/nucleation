@@ -347,3 +347,13 @@ A correction of wording. This claim's summary says a stable specification's amor
 At U17 the owner endorsed A37's "stored inquiry" and its "Questions that could not previously be formulated within a given resource budget have become askable" as "this neighborhood of inquiry": this claim, the owner's own. A39 §6's askable set Q_ask and A71 §6's inquiry frontier restate [TERM-092](../terms.d/TERM-092.md), which A did not cite. [CLAIM-761](CLAIM-761.md) files the owner-endorsed constraint-as-amortization thesis that carries this claim's stored inquiry to constraints in general, and [CLAIM-754](CLAIM-754.md) makes the inquiry frontier one of three.
 
 No status change.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Structure (THEORY-tmpg10ux, corroborates) is the closest historical
+illustration: a paradigm gives "a criterion for choosing problems that,
+while the paradigm is taken for granted, can be assumed to have
+solutions", rejects others as metaphysical, and can "insulate the
+community" from problems not in puzzle form; in learning a paradigm a
+scientist acquires theory, methods and standards together.

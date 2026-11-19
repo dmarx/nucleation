@@ -1,0 +1,124 @@
+---
+status: Read
+paper: LIT-tmphu623
+title: 'Kuhn — The Structure of Scientific Revolutions'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from the 1970 second edition, a
+    PDF in a course-papers folder on a faculty site (the owner's ruling of
+    2026-11-19 on its standing is in the curation entry): chapter V and
+    Postscript §§1–6 in full; chapters II–IX, XII and XIII in part; the case
+    histories of chapters VI–VII and most of X–XII skipped. Running notes on
+    the branch claude/readers/kuhn (ADR-108). Quotations rechecked by the
+    filer by script against the downloaded text.
+date: '2026-11-19'
+summary: >-
+  Paradigms make later puzzle-solving tractable and restrict what can be
+  asked; their rigidity detects anomaly; revolutions change problems,
+  standards and learned similarity relations, with losses. Exemplars teach
+  a tacit similarity relation, with diminishing returns. Interpretive
+  history.
+---
+<!-- inactive-ok-file: CLAIM-761 CLAIM-756 CLAIM-754 CLAIM-758 CLAIM-757 THEORY-834 THEORY-148 THEORY-673 LIT-tmphef14 — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmp8hiqg: Kuhn — The Structure of Scientific Revolutions
+
+## Contribution
+
+A historian's interpretive account of how acquired commitments organize
+later research, built on cases from the physical sciences; the Postscript
+gives its learning mechanism, exemplars.
+
+## Key results
+
+1. **Later work made tractable.** The scientist "need no longer, in his
+   major works, attempt to build his field anew, starting from first
+   principles" (II, p. 19); "one of the things a scientific community
+   acquires with a paradigm is a criterion for choosing problems that,
+   while the paradigm is taken for granted, can be assumed to have
+   solutions" (IV, p. 37).
+2. **And restricted.** The paradigm can "even insulate the community from
+   those socially important problems that are not reducible to the puzzle
+   form" (p. 37); professionalization "leads … to an immense restriction of
+   the scientist's vision and to a considerable resistance to paradigm
+   change" (VI, p. 64).
+3. **Rigidity detects anomaly.** "Anomaly appears only against the
+   background provided by the paradigm" (p. 65); "research under a paradigm
+   must be a particularly effective way of inducing paradigm change"
+   (p. 52).
+4. **Change is costly and lossy.** "retooling is an extravagance to be
+   reserved for the occasion that demands it" (VII, p. 76); "There are
+   losses as well as gains in scientific revolutions, and scientists tend
+   to be peculiarly blind to the former" (XIII, p. 167).
+5. **Individual against community.** "Given a generation in which to
+   effect the change, individual rigidity is compatible with a community
+   that can switch from paradigm to paradigm" (p. 166); individual
+   variability in applying shared values "may be the community's way of
+   distributing risk" (p. 186).
+6. **Exemplars.** "The resultant ability to see a variety of situations as
+   like each other … is, I think, the main thing a student acquires by
+   doing exemplary problems" (p. 189); "'tacit knowledge' which is learned
+   by doing science rather than by acquiring rules for doing it" (p. 191);
+   with diminishing returns: "After the student has done many problems, he
+   may gain only added facility by solving more" (p. 188).
+7. **What a revolution changes.** "One central aspect of any revolution is,
+   then, that some of the similarity relations change" (p. 200).
+
+## Assumptions
+
+The unit is a community of specialists; generalization from selected cases
+in physical science; similarity recognition pre-interpretive; the
+Bruner–Postman experiment taken "either as a metaphor or because it
+reflects the nature of the mind" (p. 64).
+
+## Concepts
+
+Paradigm in two senses; normal science; puzzle; anomaly; crisis;
+revolution; incommensurability; disciplinary matrix; law-sketch; exemplar;
+acquired similarity relation; tacit knowledge; retooling.
+
+## Bearing on the record
+
+- **CLAIM-475**, the closest parallel, supported by historical
+  illustration: a stabilized commitment is past inquiry stored, making
+  some later questions cheap and others unaskable (pp. 37, 103, 109).
+  **TERM-092** and **CLAIM-761**, parallels: the problem-field; the
+  textbook as stored work and the cost of retooling.
+- **CLAIM-756**, corroborates the premise as interpretive history: a
+  paradigm's value lies mainly in the later puzzle-solving it makes
+  tractable. No cost accounting; the claim's own content is untouched.
+- **CLAIM-754**, illustration: normal science extends what can be done
+  while narrowing what can be asked; a revolution moves the inquiry
+  frontier, with "large but never complete overlap" in what old and new
+  can solve (p. 85).
+- **CLAIM-758**, qualifies: the pattern is there (training "almost
+  perfectly equipped" for puzzles and "not well designed" for a fresh
+  approach, p. 166), but the same rigidity is functional for the
+  community, which detects anomaly by it; and a late convert can still
+  work in the new paradigm "as a foreigner", a raised cost, not an
+  impossibility (p. 204).
+- **CLAIM-757**, analogy: relief comes by generational replacement, not by
+  restoring the individual.
+- **QUESTION-495**, a partial historical answer: invest in the paradigm
+  while its tools keep working, retool at crisis, and keep the capacity to
+  change through variable individual judgement and new entrants.
+- **THEORY-834** (Collins), supports its Kuhnian premises: inventors of new
+  paradigms are "either very young or very new to the field" (p. 90), and
+  crises can come from outside the community (p. 181).
+- **THEORY-148** (Zollman), a correction to NOTE-564's "against Kuhn":
+  Kuhn himself gives a risk-distribution argument for diversity of
+  individual judgement (p. 186); the disagreement is narrower.
+- **THEORY-673** (Luque), the law-sketch reading of f = ma is confirmed
+  (pp. 188–189); its citation "Kuhn 1970, p. 465" is not in Structure and
+  is presumably "Second Thoughts on Paradigms" (LIT-tmphef14).
+- **TERM-117**, **TERM-131**, **CLAIM-184**, **QUESTION-360**: analogies
+  and illustrations.
+
+## Limitations
+
+Case-history chapters read in part; one edition; every bearing on learning
+theory is analogical or interpretive, about communities of scientists, not
+learners in training.

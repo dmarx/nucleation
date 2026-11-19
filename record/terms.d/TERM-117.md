@@ -131,3 +131,12 @@ multiplication and collapses sorting), the first phase has an optimal
 length, and shuffled data or weights remove the effect, an interventional
 test; Petty and colleagues ([THEORY-2078](../theory.d/THEORY-2078.md)) find code promotes formal-
 output composition and obstructs natural-language transduction. Analogies.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+A Kuhnian paradigm is an analogue: an achievement "sufficiently
+open-ended" to leave problems to solve, identified by what it does to
+later development (THEORY-tmpg10ux); productive for puzzles within it and
+obstructive for anomalies, which it nonetheless makes visible. No
+comparator or interventional measure.

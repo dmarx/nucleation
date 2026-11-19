@@ -96,3 +96,14 @@ promote_when asks for.
 - **That the position is special to Black women.** Collins treats them as
   an extreme case of any less powerful group of outsiders entering a more
   powerful community of insiders.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Structure (THEORY-tmpg10ux) supports this account's Kuhnian premises:
+inventors of new paradigms are "either very young or very new to the
+field", and crises can come from outside the community. The 1959 essay,
+through a stand-in (THEORY-tmptbea0), is in tension with it: Kuhn holds
+that rootedness in the tradition enables the break, where this account
+holds rootedness alone blinds and the break needs experience from outside
+as well.
