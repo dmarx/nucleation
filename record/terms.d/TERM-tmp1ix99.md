@@ -48,8 +48,13 @@ successful learning and not to learning.
   survival changes no member's organization ([CLAIM-288](../claims.d/CLAIM-288.md)).
 - **A fixed controller**: a response the organization already fixed is not
   learning from the experience.
-- **Replay**: gains that hold only on the experiences had are memory, not
-  yet a changed repertoire.
+- **Not replay, but not generalization either**: improvement restricted
+  to previously encountered examples can be memorization or episodic
+  learning, which counts as learning; it does not by itself show the
+  acquisition of a generalized procedure, a transferable abstraction or a
+  new capacity to learn. (Corrected at ChatGPT's review of 2026-11-19,
+  forwarded by the owner: the first version excluded replay-only gains
+  from learning.)
 - **The appearance of competence**: a lookup table can mimic a model over
   a finite horizon ([CLAIM-519](../claims.d/CLAIM-519.md)), so a test must reach beyond it.
 

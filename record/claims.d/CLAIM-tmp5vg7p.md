@@ -1,13 +1,15 @@
 ---
 status: Proposed
-title: 'If a learner''s capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then relief from overconsolidation has a deadline: an intervention that restores plasticity (a reset of some weights, stronger regularization, renewed exposure to varied tasks) restores it when applied before a threshold point in training and fails to after it, rather than working less well in proportion to how late it comes'
+title: 'If a learner''s capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then recovery from overconsolidation by renewed practice has a deadline: renewed exposure to varied tasks restores the capacity to acquire when it comes before a threshold point in training and not after, while an intervention that raises the capacity directly (a reset of some weights) can still restore it after the threshold if it lifts the capacity back above it; in a heterogeneous population the threshold may show as a steep or probabilistic transition rather than a step'
 version: 1
 role: supposed
 warrant: interpretive
 defeated_if: >-
   Across checkpoints of one training run, the gain in later acquisition
-  from a plasticity-restoring intervention declines smoothly with
-  training time, with no point after which it falls to near zero; or the
+  from renewed practice (varied-task exposure) declines gradually with
+  training time, with no point or narrow band after which it falls to
+  near zero, where the population of runs is homogeneous enough that a
+  threshold would show as a steep transition; or the
   antecedent fails, that is, the capacity to acquire is not drawn down by
   disuse and rebuilt by use, so that CLAIM-605's model does not describe
   training at all. Also defeated if the apparent deadline is explained by
@@ -39,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-tmp5vg7p: If a learner's capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then relief from overconsolidation has a deadline: an intervention that restores plasticity (a reset of some weights, stronger regularization, renewed exposure to varied tasks) restores it when applied before a threshold point in training and fails to after it, rather than working less well in proportion to how late it comes
+# CLAIM-tmp5vg7p: If a learner's capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then recovery from overconsolidation by renewed practice has a deadline: renewed exposure to varied tasks restores the capacity to acquire when it comes before a threshold point in training and not after, while an intervention that raises the capacity directly (a reset of some weights) can still restore it after the threshold if it lifts the capacity back above it; in a heterogeneous population the threshold may show as a steep or probabilistic transition rather than a step
 
 ## The claim
 
@@ -53,8 +55,16 @@ overconsolidation ([CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md)) the learner's own effici
 plays the part of the support: the more training is spent on the present
 objective, the less the capacity to acquire other structure is
 exercised. If that capacity obeys the same three conditions, the same
-threshold follows, and with it the shape of the prediction: relief works
-before a point and not after, a step rather than a slope.
+threshold follows for recovery by practice: renewed practice restores
+the capacity before a point and not after. It does not follow for every
+intervention. In CLAIM-605's model a direct boost that lifts capacity
+above the threshold restores growth, so an intervention that raises the
+capacity itself, as a weight reset might, can work after the point where
+practice alone fails. And across runs that differ in their thresholds, a
+step in each run can show as a steep or probabilistic transition in the
+pooled curve. (Narrowed at ChatGPT's review of 2026-11-19, forwarded by
+the owner: the first version predicted that every plasticity-restoring
+intervention fails after the threshold.)
 
 ## Why it is supposed
 
@@ -67,12 +77,13 @@ with no threshold. The two readings are what the test separates.
 
 ## The test
 
-In [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), apply each plasticity-restoring intervention (the
+In CASE-tmphsr99, at every checkpoint, apply renewed practice
+(mixed-task exposure) and, separately, direct interventions (the
 query–key reset, the value–output reset, higher weight decay from a
-checkpoint onward, mixed-task replay) at every checkpoint, and plot the
-gain in later acquisition cost against the checkpoint. A threshold in
-that curve supports this claim; a smooth decline supports the
-depletion reading. Each intervention is scored on both axes, new capacity
+checkpoint onward), and plot the gain in later acquisition cost against
+the checkpoint, per run and pooled. A steep fall in the practice curve,
+with direct interventions still working after it, supports this claim; a
+gradual decline in both supports the depletion reading. Each intervention is scored on both axes, new capacity
 gained and old competence lost, as the case requires.
 
 ## The stronger reading it invites and does not support

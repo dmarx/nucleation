@@ -1,3 +1,4 @@
+<!-- inactive-ok-file: SYNTHESIS-tmpk81pz — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: SYNTHESIS-030 SYNTHESIS-043 SYNTHESIS-088 SYNTHESIS-tmpfhzxg SYNTHESIS-tmphvng7 SYNTHESIS-tmplih4n — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp5vg7p CLAIM-tmpj540o CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-tmpm8rng ARG-tmpy9z67 CASE-tmphsr99 CASE-tmpplox8 CASE-tmpsjjgx CLAIM-478 CLAIM-tmp1l2s7 CLAIM-tmp449rr CLAIM-tmp5gbzr CLAIM-tmp8ljvp CLAIM-tmpqpd2p CLAIM-tmpw8xkt SYNTHESIS-096 TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
@@ -50,3 +51,10 @@
   realizability); what learning does to what can still be learned
   ([SYNTHESIS-tmpfhzxg](record/syntheses.d/SYNTHESIS-tmpfhzxg.md), learned-structure). The line accounts
   [SYNTHESIS-088](record/syntheses.d/SYNTHESIS-088.md), [SYNTHESIS-043](record/syntheses.d/SYNTHESIS-043.md) and [SYNTHESIS-030](record/syntheses.d/SYNTHESIS-030.md) integrate them.
+- Revisions at ChatGPT's review of 2026-11-19, forwarded by the owner:
+  the learning term counts memorization as learning; the deadline claim
+  is narrowed to recovery by practice; the amortization claim's defeat
+  condition matches its quantifier; the three-frontier claim allows
+  context-dependent scalars; an intervention arm for the genres case; a
+  primary estimand for the Pythia study; and a cross-line account of the
+  five-step chain (SYNTHESIS-tmpk81pz).

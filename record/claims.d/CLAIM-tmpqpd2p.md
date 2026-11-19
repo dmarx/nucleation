@@ -5,14 +5,17 @@ version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A case in which a learned or stabilized constraint makes a task
-  realizable within a per-task budget where it was not before, with no
-  earlier work stored in it, that is, where the same gain is had from a
-  constraint imposed with no history; or an argument that every such gain
-  is CLAIM-582's improvement of reliability under a fixed mechanism, and
-  never a lower least cost of reaching the target. Not defeated by a
-  constraint that persists and saves nothing (CLAIM-443: persistence is
-  not amortization), which the claim's conditions exclude.
+  The claim says this can happen, so one case without stored work does
+  not refute it. It is defeated if no proposed witness shows the
+  mechanism: if, for every case offered, the apparent gain disappears
+  under full cost accounting (construction, upkeep, retrieval,
+  verification and revision counted, as CLAIM-tmpkrk41 requires across
+  parties), or turns out to be CLAIM-582's improvement of reliability
+  under a fixed mechanism rather than a lower least cost of reaching the
+  target, or is had equally from a constraint imposed with no history.
+  Not defeated by a constraint that persists and saves nothing
+  (CLAIM-443), which the claim allows. (Rewritten at ChatGPT's review of
+  2026-11-19, forwarded by the owner, to match the claim's quantifier.)
 tags:
 - complex-systems
 - information-theory
@@ -52,6 +55,7 @@ summary: >-
   fixed mechanism ([CLAIM-582](CLAIM-582.md)). No claim joined constraint, amortization and
   capability.
 ---
+<!-- inactive-ok-file: CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp449rr — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmpqpd2p: A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench

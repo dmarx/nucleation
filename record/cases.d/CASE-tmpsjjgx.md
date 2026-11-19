@@ -111,3 +111,21 @@ partition's defect is not smaller than the control's, the clusters are
 not units of the process in the claim's sense, whatever their
 descriptive fit. The wording is the assistant's (Claude, in this
 session); adopting it is the owner's call.
+
+## An intervention arm (ChatGPT's, at its review of 2026-11-19)
+
+Proposed in ChatGPT's review of the filing, forwarded by the owner. The
+closure test is observational. To tell compression from an operative
+category, intervene on the recommendation policy while holding the
+inferred classification fixed: change exposure experimentally (for
+instance, randomize part of what each user is shown across class
+boundaries) and ask two things. Does the classification remain a
+sufficient basis for predicting engagement when exposure is changed?
+And does acting on the classification alter preferences themselves, or
+only which preferences become observable? A class that predicts only
+under the policy that uses it is a compression of that policy's
+exposure; one that keeps predicting under changed exposure is a unit of
+the users' own engagement; one whose members' preferences move toward
+the class when the policy acts on it is CLAIM-327's self-reinforcing
+collective variable. The wording is ChatGPT's in substance; adopting it
+is the owner's call.

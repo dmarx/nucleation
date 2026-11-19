@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'A learner''s acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no single measure of competence or plasticity ranks learners or learning processes'
+title: 'A learner''s acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared'
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-697 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-tmp1l2s7: A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no single measure of competence or plasticity ranks learners or learning processes
+# CLAIM-tmp1l2s7: A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared
 
 ## The claim
 
@@ -80,7 +80,10 @@ capability sets later. That the cost to acquire is not fixed by the cost
 to keep is [CLAIM-569](CLAIM-569.md). That a concept can make a question askable before
 it makes it answerable is [CLAIM-475](CLAIM-475.md). The claim's own content is the
 developmental frontier as an object with a declared interface, and the
-consequence that no single scalar ranks learners.
+consequence that no context-independent scalar ranks learners; a scalar
+objective can, once task distribution, costs, horizon and preferences are
+declared (qualified at ChatGPT's review of 2026-11-19, forwarded by the
+owner).
 
 ## Admission
 

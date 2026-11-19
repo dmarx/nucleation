@@ -32,6 +32,20 @@ summary: >-
 
 # CASE-tmphsr99: A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work
 
+## The primary estimand
+
+Set at ChatGPT's review of 2026-11-19, forwarded by the owner, because
+the arms below are many. The primary outcome is A_s(q, ρ), the least
+adaptation budget checkpoint s needs to acquire task family q at
+reliability ρ, by full fine-tuning under the preregistered protocol and
+censored at the cap. Overconsolidation is predicted as A_s rising with s
+on held-out families while performance on familiar tasks holds or
+rises. In-context learning, test-time training, sampling, meta-learning,
+the interventions and the active-acquisition arm are secondary: ways to
+investigate a developmental difference once the pilot (four checkpoints,
+two families, three seeds) has shown one. No arm beyond the pilot is
+added until that contrast is established.
+
 ## The core design (A52)
 
 - **Models.** Pythia-70M-deduped checkpoints from early to final (eight

@@ -74,8 +74,9 @@ summary: >-
   its predecessor. [CLAIM-695](../claims.d/CLAIM-695.md) (the owner's idea; Proposed) is its RL case.
 - **A deadline for relief.** [CLAIM-tmp5vg7p](../claims.d/CLAIM-tmp5vg7p.md) (the assistant's, accepted by
   the owner; Proposed, supposed) rests on [CLAIM-605](../claims.d/CLAIM-605.md) and [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md): if
-  the capacity to acquire is learned by use and decays with disuse, relief
-  works before a threshold and not after.
+  the capacity to acquire is learned by use and decays with disuse,
+  recovery by renewed practice works before a threshold and not after,
+  while a direct intervention may still work after it.
 - **The test.** [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) (A's design at the owner's request; not run)
   measures acquisition cost across Pythia checkpoints, with arms for
   in-context learning, test-time training, sampling, meta-learning and
