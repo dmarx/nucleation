@@ -104,8 +104,8 @@ summary: >-
   [CLAIM-695](../claims.d/CLAIM-695.md) as its RL case. [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) (A's design, requested by the
   owner; not run) measures it on Pythia checkpoints, with arms for
   in-context learning, test-time training and [CLAIM-697](../claims.d/CLAIM-697.md)'s sampling budget.
-  CLAIM-tmp5vg7p (the assistant's; Proposed, supposed) rests on
-  CLAIM-605 and CLAIM-tmp8ljvp: if the capacity to acquire is learned by
+  [CLAIM-tmp5vg7p](../claims.d/CLAIM-tmp5vg7p.md) (the assistant's; Proposed, supposed) rests on
+  [CLAIM-605](../claims.d/CLAIM-605.md) and [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md): if the capacity to acquire is learned by
   use and decays with disuse, relief has a deadline, which the study's
   per-checkpoint interventions would show as a step.
 
@@ -119,7 +119,7 @@ summary: >-
 - [CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md), A's, Proposed.
 - [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md), the owner's generalization in A's wording, Proposed.
 - [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), A's design at the owner's request, Proposed.
-- CLAIM-tmp5vg7p, the assistant's, accepted by the owner, Proposed.
+- [CLAIM-tmp5vg7p](../claims.d/CLAIM-tmp5vg7p.md), the assistant's, accepted by the owner, Proposed.
 
 ## Links tested as claims
 

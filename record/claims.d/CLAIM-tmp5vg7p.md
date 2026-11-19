@@ -28,13 +28,13 @@ bears_on:
 summary: >-
   The assistant's, offered on 2026-11-19 after filing the exchange
   "Topological protection explained" and accepted by the owner the same
-  day. It joins CLAIM-605, which shows that where capacity is learned by
+  day. It joins [CLAIM-605](CLAIM-605.md), which shows that where capacity is learned by
   doing, decays with disuse and needs capacity to grow, support that does
   the work has a deadline after which withdrawal no longer restores
-  capacity, to overconsolidation (CLAIM-tmp8ljvp, the owner's
-  generalization of overfitting). Supposed: it holds only if CLAIM-605's
+  capacity, to overconsolidation ([CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md), the owner's
+  generalization of overfitting). Supposed: it holds only if [CLAIM-605](CLAIM-605.md)'s
   three conditions describe a network's capacity to acquire, which nothing
-  on record shows. Its test is an arm of CASE-tmphsr99. The wording is the
+  on record shows. Its test is an arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
@@ -43,13 +43,13 @@ summary: >-
 
 ## The claim
 
-CLAIM-605's model is dC/dt = λPC(1 − C) − μC, with practice P itself
+[CLAIM-605](CLAIM-605.md)'s model is dC/dt = λPC(1 − C) − μC, with practice P itself
 limited by capacity (at most τC). Growth then falls short of decay below
 an unstable threshold, where λτC(1 − C) = μ (C = 0.276 in its numbers),
 so capacity held down long enough falls below the point from which
 practice can rebuild it, and withdrawing the support no longer restores
 it. Its subject is a party whose work is done by support. In
-overconsolidation (CLAIM-tmp8ljvp) the learner's own efficient procedure
+overconsolidation ([CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md)) the learner's own efficient procedure
 plays the part of the support: the more training is spent on the present
 objective, the less the capacity to acquire other structure is
 exercised. If that capacity obeys the same three conditions, the same
@@ -60,14 +60,14 @@ before a point and not after, a step rather than a slope.
 
 The antecedent is the whole question. Nothing on record shows that a
 network's capacity to acquire new task structure is learned by use or
-decays with disuse in CLAIM-605's sense. Dong's plasticity loss
-(THEORY-1353) reads it instead as uncommitted capacity used up, which
+decays with disuse in [CLAIM-605](CLAIM-605.md)'s sense. Dong's plasticity loss
+([THEORY-1353](../theory.d/THEORY-1353.md)) reads it instead as uncommitted capacity used up, which
 would predict a slope: less relief the more capacity has been committed,
 with no threshold. The two readings are what the test separates.
 
 ## The test
 
-In CASE-tmphsr99, apply each plasticity-restoring intervention (the
+In [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), apply each plasticity-restoring intervention (the
 query–key reset, the value–output reset, higher weight decay from a
 checkpoint onward, mixed-task replay) at every checkpoint, and plot the
 gain in later acquisition cost against the checkpoint. A threshold in
@@ -79,4 +79,4 @@ gained and old competence lost, as the case requires.
 
 That training should stop before the threshold. Whether the lost capacity
 matters depends on what the learner will later be asked to acquire
-(CLAIM-tmp8ljvp, CLAIM-520).
+([CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md), [CLAIM-520](CLAIM-520.md)).

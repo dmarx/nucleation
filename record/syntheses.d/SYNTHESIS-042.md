@@ -308,32 +308,32 @@ memory helps control ([QUESTION-396](../questions.d/QUESTION-396.md)), with thre
 the part rests on ([QUESTION-405](../questions.d/QUESTION-405.md), [QUESTION-423](../questions.d/QUESTION-423.md), [QUESTION-447](../questions.d/QUESTION-447.md)).
 
 - **Stored work and what it makes reachable (added 2026-11-19).**
-  CLAIM-tmpqpd2p (the owner's thesis in A's wording; Proposed) rests on
-  CLAIM-303, CLAIM-475 and CLAIM-582: a stabilized constraint that
+  [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) (the owner's thesis in A's wording; Proposed) rests on
+  [CLAIM-303](../claims.d/CLAIM-303.md), [CLAIM-475](../claims.d/CLAIM-475.md) and [CLAIM-582](../claims.d/CLAIM-582.md): a stabilized constraint that
   supplies cheaper operations can move a task under a per-task budget,
-  which is CLAIM-571's peak and not a total; CLAIM-582's guard keeps a
-  constraint that only restricts out of it. CLAIM-tmp449rr (A's;
-  Proposed, demonstrated by ARG-tmpy9z67 from CASE-116) separates that
-  economic separation of time scales from CLAIM-478's dynamical one.
-  CLAIM-tmp5gbzr (A's; Proposed, demonstrated by ARG-tmpm8rng from
-  CASE-tmpplox8) values an acquisition by what it does to the cost of
-  others, the two-capacity form of CLAIM-569's acquire-against-keep.
-  CLAIM-tmpkrk41 (A's; Proposed) rests on CLAIM-303 and says a fall in one
-  party's cost may be work transferred. QUESTION-tmpwqepn (the owner's;
+  which is [CLAIM-571](../claims.d/CLAIM-571.md)'s peak and not a total; [CLAIM-582](../claims.d/CLAIM-582.md)'s guard keeps a
+  constraint that only restricts out of it. [CLAIM-tmp449rr](../claims.d/CLAIM-tmp449rr.md) (A's;
+  Proposed, demonstrated by [ARG-tmpy9z67](../arguments.d/ARG-tmpy9z67.md) from [CASE-116](../cases.d/CASE-116.md)) separates that
+  economic separation of time scales from [CLAIM-478](../claims.d/CLAIM-478.md)'s dynamical one.
+  [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md) (A's; Proposed, demonstrated by [ARG-tmpm8rng](../arguments.d/ARG-tmpm8rng.md) from
+  [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md)) values an acquisition by what it does to the cost of
+  others, the two-capacity form of [CLAIM-569](../claims.d/CLAIM-569.md)'s acquire-against-keep.
+  [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md) (A's; Proposed) rests on [CLAIM-303](../claims.d/CLAIM-303.md) and says a fall in one
+  party's cost may be work transferred. [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md) (the owner's;
   Open) asks what would make such investment optimal when its later
   benefits cannot be specified.
 
 ## The components
 
-- CLAIM-tmpqpd2p, the owner's thesis in A's wording, interpretive,
+- [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md), the owner's thesis in A's wording, interpretive,
   Proposed; also learned-structure.
-- CLAIM-tmp449rr, A's, demonstrated, Proposed; also distributed-agency;
-  with ARG-tmpy9z67.
-- CLAIM-tmp5gbzr, A's with the filer's numbers, demonstrated, Proposed;
-  also learned-structure; with CASE-tmpplox8 and ARG-tmpm8rng.
-- CLAIM-tmpkrk41, A's, interpretive, Proposed; first line
+- [CLAIM-tmp449rr](../claims.d/CLAIM-tmp449rr.md), A's, demonstrated, Proposed; also distributed-agency;
+  with [ARG-tmpy9z67](../arguments.d/ARG-tmpy9z67.md).
+- [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md), A's with the filer's numbers, demonstrated, Proposed;
+  also learned-structure; with [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md) and [ARG-tmpm8rng](../arguments.d/ARG-tmpm8rng.md).
+- [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md), A's, interpretive, Proposed; first line
   dependence-and-domination.
-- QUESTION-tmpwqepn, the owner's, Open; also learned-structure and
+- [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md), the owner's, Open; also learned-structure and
   readiness.
 
 - [CLAIM-571](../claims.d/CLAIM-571.md), A's wording, thesis, demonstrated, Active; first line

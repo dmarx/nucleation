@@ -51,7 +51,7 @@ relabelling. [THEORY-981](../theory.d/THEORY-981.md) holds that when data is inv
 the network is equivariant to, population gradient descent stays in the
 weight subspace the group fixes; weight symmetry gives orbit synchrony
 among units ([THEORY-276](../theory.d/THEORY-276.md)); balanced partitions generalize that synchrony
-beyond symmetry ([THEORY-1065](../theory.d/THEORY-1065.md)). Checked on 2026-11-19 (CLAIM-tmpj540o),
+beyond symmetry ([THEORY-1065](../theory.d/THEORY-1065.md)). Checked on 2026-11-19 ([CLAIM-tmpj540o](../claims.d/CLAIM-tmpj540o.md)),
 the route holds only where the relabelling group permutes the network's
 units, and it cannot permute them nontrivially when the vocabulary
 exceeds the width, as in most of Li and Webb's runs. So in their models

@@ -23,12 +23,12 @@ summary: >-
   The assistant's, from a check offered on 2026-11-19 after filing the
   exchange "Topological protection explained" and accepted by the owner
   the same day. It tests the route the filing first wrote into
-  QUESTION-tmpex36a for the owner's U9 hunch: data invariant under token
+  [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md) for the owner's U9 hunch: data invariant under token
   relabelling keeps gradient descent in the symmetric weights
-  (THEORY-981), weight symmetry gives orbit synchrony (THEORY-276), and
-  balanced partitions generalize that (THEORY-1065). The route holds only
+  ([THEORY-981](../theory.d/THEORY-981.md)), weight symmetry gives orbit synchrony ([THEORY-276](../theory.d/THEORY-276.md)), and
+  balanced partitions generalize that ([THEORY-1065](../theory.d/THEORY-1065.md)). The route holds only
   where the relabelling group permutes the network's units. It does not
-  in Li and Webb's models (THEORY-tmpmtmq7), whose residual width (768) is
+  in Li and Webb's models ([THEORY-tmpmtmq7](../theory.d/THEORY-tmpmtmq7.md)), whose residual width (768) is
   below most of their vocabularies, so their results cannot be reached by
   this route and the hunch needs learned, not symmetry-forced, partitions.
   The wording is the assistant's (Claude, in this session); adopting it is
@@ -49,9 +49,9 @@ an automorphism of the weighted directed graph of units.
 and j = σi in one orbit P. The map k ↦ σk sends the inputs of i bijectively
 onto the inputs of j, preserves weights, and maps O onto itself. So the
 total input weight to i from O equals that to j from O, for every pair of
-orbits: the orbit partition is balanced, and by THEORY-1065 its synchrony
+orbits: the orbit partition is balanced, and by [THEORY-1065](../theory.d/THEORY-1065.md) its synchrony
 subspace is invariant under any admissible dynamics on the graph. That is
-THEORY-276's orbit synchrony, stated as a partition.
+[THEORY-276](../theory.d/THEORY-276.md)'s orbit synchrony, stated as a partition.
 
 **3. Without a permutation action there is no partition.** If G acts
 only on the input coordinates (token one-hots) and trivially on the
@@ -75,7 +75,7 @@ layer's units only through the sign of the relabelling, or not at all.
 
 ## What it shows about the hunch
 
-THEORY-981's confinement needs the network to be equivariant under the
+[THEORY-981](../theory.d/THEORY-981.md)'s confinement needs the network to be equivariant under the
 group, which for a permutation of tokens means the group acting on every
 layer, and needs training to start in the fixed subspace. Li and Webb's
 transformers (width 768) were trained at vocabularies up to 10,000 with

@@ -30,9 +30,9 @@ summary: >-
   (2026-11-19), with A41 §9's examples: "We should therefore distinguish
   work saved, work transferred, and valuable capability expanded. Those
   are three separate achievements." Filed at the owner's request on
-  2026-11-19, after the filing first left it as a note on CLAIM-303 as
-  close to definitional. CLAIM-303 prices stored work across time for one
-  party; CLAIM-060 separates a whole's success from its members' good.
+  2026-11-19, after the filing first left it as a note on [CLAIM-303](CLAIM-303.md) as
+  close to definitional. [CLAIM-303](CLAIM-303.md) prices stored work across time for one
+  party; [CLAIM-060](CLAIM-060.md) separates a whole's success from its members' good.
   Neither states that a fall in one party's cost can be a transfer. Its
   separating case is a claims office whose processing cost falls because
   claimants now do the work. The wording is A's; adopting it is the
@@ -64,19 +64,19 @@ before they spent 1 describing it. Counted at the office, the work
 fell by 2 per claim; counted over office and claimant, it rose from 4 to
 5. No one can do anything they could not do before. All three of the
 claim's achievements are separately false or true here: work was
-transferred, not saved, and no capability expanded. CLAIM-303's own
+transferred, not saved, and no capability expanded. [CLAIM-303](CLAIM-303.md)'s own
 criterion, reuse covering cost, is met for the office and says nothing of
 the claimants.
 
 ## Rests on
 
-CLAIM-303, whose accounting this claim says must declare whose costs it
-counts. CLAIM-tmpqpd2p's capability expansion is the third achievement,
+[CLAIM-303](CLAIM-303.md), whose accounting this claim says must declare whose costs it
+counts. [CLAIM-tmpqpd2p](CLAIM-tmpqpd2p.md)'s capability expansion is the third achievement,
 and whether that expansion is an expansion of freedom for those affected
-is CLAIM-352's question, not this one's.
+is [CLAIM-352](CLAIM-352.md)'s question, not this one's.
 
 ## The stronger reading it invites and does not support
 
 That organizations which transfer work are wrongful. Whether a transfer
-is unjust is judged against a declared standard (CLAIM-363), and the
-contesting cost a transfer imposes is CLAIM-731's subject.
+is unjust is judged against a declared standard ([CLAIM-363](CLAIM-363.md)), and the
+contesting cost a transfer imposes is [CLAIM-731](CLAIM-731.md)'s subject.

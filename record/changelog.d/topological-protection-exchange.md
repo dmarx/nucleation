@@ -38,11 +38,11 @@
 
 ### Added (after the owner's review, 2026-11-19)
 
-- Work saved against work transferred (CLAIM-tmpkrk41), at the owner's
+- Work saved against work transferred ([CLAIM-tmpkrk41](record/claims.d/CLAIM-tmpkrk41.md)), at the owner's
   request.
 - The assistant's contributions, accepted by the owner: a deadline for
-  relief from overconsolidation (CLAIM-tmp5vg7p); a closure test for the
-  genres case (CASE-tmpsjjgx); and the check of the symmetry route to the
-  owner's fibration hunch (CLAIM-tmpj540o), which holds only where the
-  relabelling group permutes units, and corrects QUESTION-tmpex36a.
-- SYNTHESIS-042 v3 integrates the filing's realizability entries.
+  relief from overconsolidation ([CLAIM-tmp5vg7p](record/claims.d/CLAIM-tmp5vg7p.md)); a closure test for the
+  genres case ([CASE-tmpsjjgx](record/cases.d/CASE-tmpsjjgx.md)); and the check of the symmetry route to the
+  owner's fibration hunch ([CLAIM-tmpj540o](record/claims.d/CLAIM-tmpj540o.md)), which holds only where the
+  relabelling group permutes units, and corrects [QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md).
+- [SYNTHESIS-042](record/syntheses.d/SYNTHESIS-042.md) v3 integrates the filing's realizability entries.
