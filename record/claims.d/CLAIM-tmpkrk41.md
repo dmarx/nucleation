@@ -17,6 +17,8 @@ date: '2026-11-19'
 line:
 - dependence-and-domination
 - realizability
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-303
 complements:

@@ -24,6 +24,8 @@ date: '2026-11-19'
 line:
 - formal-apparatus
 - learned-structure
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-478
 - CLAIM-154

@@ -16,6 +16,8 @@ date: '2026-11-19'
 line:
 - realizability
 - learned-structure
+works:
+- cost-structure-of-possibility
 grounds:
 - CASE-tmpplox8
 rests_on:

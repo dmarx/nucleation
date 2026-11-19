@@ -13,12 +13,14 @@ summary: >-
   A43. Membership follows [ADR-104](ADR-104.md)'s rule: a claim or ARG is a member when
   A43, or a passage A explicitly offers for it, states the entry's
   proposition or uses it as a step; a reference-list citation alone does
-  not count. Membership says nothing of status ([ADR-032](ADR-032.md)). On reading, 16
-  claims are members, 4 of them Proposed. They sit mostly in the lines
+  not count. Membership says nothing of status ([ADR-032](ADR-032.md)). On reading, 20
+  claims are members, 8 of them Proposed: 16 on the default branch and 4
+  filed from the exchange itself in the same pull request. They sit mostly in the lines
   realizability and formal-apparatus. Rejected: counting the reference
   list; counting every claim that is an instance of A43's general
   amortization result; and having no work.
 ---
+<!-- inactive-ok-file: CLAIM-tmp5gbzr CLAIM-tmpkrk41 CLAIM-tmpqpd2p CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ADR-104 — Proposed; the decision whose pattern and rule this one follows -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 CLAIM-295 CLAIM-184 — Proposed; members of the work, cited as members whatever their standing -->
 <!-- inactive-ok-file: CLAIM-358 — Proposed; near the manuscript's text and judged not a member, cited with its standing -->
@@ -109,8 +111,11 @@ cannot be a member.
 - The parts of A43 that cannot carry the field are named in the curation
   entry: [QUESTION-095](../questions.d/QUESTION-095.md) (§3.2), [TERM-114](../terms.d/TERM-114.md) (§4), [TERM-117](../terms.d/TERM-117.md) (§5.1) and
   [TERM-062](../terms.d/TERM-062.md) (§6).
-- A claim filed in an open pull request ([#528](https://github.com/dmarx/nucleation/issues/528)) takes §5.2's recursive
-  step. It joins the work once both pull requests merge.
+- Four claims filed from the exchange in dmarx/nucleation#528 are
+  members too, added when this decision was merged into that pull
+  request at the owner's request: CLAIM-tmpqpd2p (§1, §4.1, §10's first
+  proposition), CLAIM-tmpkrk41 (§7.3, §11's fifth limit), CLAIM-tmp5gbzr
+  (§4.3, §5.2) and CLAIM-tmpw8xkt (§6, §7.2).
 - The first application is in this decision's pull request: the
-  vocabulary entry, the 16 members, each with a history note and a
+  vocabulary entry, the 16 members on the default branch, each with a history note and a
   version bump, the curation entry and the changelog fragment.
