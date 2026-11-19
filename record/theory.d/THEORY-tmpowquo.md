@@ -18,7 +18,7 @@ promote_when: >-
   one is acquired by the circuit models and not by the shortcut model,
   while composition with a new second-hop fact is acquired by none.
 summary: >-
-  From the reading of LIT-tmp1zmvj in NOTE-tmpvars9. Two organizations at
+  From the reading of [LIT-tmp1zmvj](../literature.d/LIT-tmp1zmvj.md) in [NOTE-tmpvars9](../notes.d/NOTE-tmpvars9.md). Two organizations at
   high first-stage accuracy diverge in later acquisition; observational,
   single runs. Proposed until its promote_when is met.
 ---

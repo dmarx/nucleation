@@ -20,7 +20,7 @@ summary: >-
   the loss in inactive later units. Lesson for any memorization arm:
   control for input statistics and weight scale.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-756 CLAIM-758 THEORY-2075 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 CLAIM-758 THEORY-2075 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpmkl72: Maennel and colleagues — What Do Neural Networks Learn When Trained With Random Labels?
 
@@ -48,27 +48,27 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-006**, qualifies its memorization arm: a first stage with no
+- **[LEAD-006](../leads.d/LEAD-006.md)**, qualifies its memorization arm: a first stage with no
   task information still lowers (or raises) later cost through input
   statistics, so a memorizer needs covariance-matched and norm-rescaled
   controls before a saving is credited to or against a learned g. Runs (a)
   as training curves and part of (c) by substitution; not (b): first-stage
   accuracy is never reported.
-- **CLAIM-756**, weak independent support for the premise: a step with no
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, weak independent support for the premise: a step with no
   direct value on the later task often lowers its cost; not netted, sign
   depends on settings.
-- **CLAIM-596** and **QUESTION-397**, parallel: a rate, not a yield, and
+- **[CLAIM-596](../claims.d/CLAIM-596.md)** and **[QUESTION-397](../questions.d/QUESTION-397.md)**, parallel: a rate, not a yield, and
   rescaling and resampling separate a weight-scale route from an alignment
   route; final test accuracy moves opposite to speed.
-- **CLAIM-758**, a candidate mechanism, not the signature: inactive units
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, a candidate mechanism, not the signature: inactive units
   after the switch reduce later capacity; no time course.
-- **THEORY-279**, independent support: early layers lock onto second-order
+- **[THEORY-279](../theory.d/THEORY-279.md)**, independent support: early layers lock onto second-order
   input statistics even with random labels.
-- **THEORY-2027** and **THEORY-1353**, parallel: inactive units cut
+- **[THEORY-2027](../theory.d/THEORY-2027.md)** and **[THEORY-1353](../theory.d/THEORY-1353.md)**, parallel: inactive units cut
   plasticity, and width helps.
-- **THEORY-2075**, complement: shuffled weights remove a saving there;
+- **[THEORY-2075](../theory.d/THEORY-2075.md)**, complement: shuffled weights remove a saving there;
   covariance-resampled weights keep it here.
-- **TERM-117**, analogy: a nucleus that helps or hurts by setting.
+- **[TERM-117](../terms.d/TERM-117.md)**, analogy: a nucleus that helps or hurts by setting.
 
 ## Limitations
 

@@ -4,7 +4,7 @@ status_note: >-
   Frozen grokked modules transplanted to other modular operations: a later
   cost that falls for some pairs and rises or blocks grokking for most
   polynomials, including h∘g cases with g's own module. Read on 2026-11-19
-  (NOTE-tmp7jums).
+  ([NOTE-tmp7jums](../notes.d/NOTE-tmp7jums.md)).
 title: 'Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials'
 version: 1
 history:
@@ -34,7 +34,7 @@ summary: >-
   cubic polynomials more often raises it or prevents grokking. In the
   factorizable rows, which are h∘g with g elementary, transferring g's own
   module rarely helps. Three seeds; first-stage cost not counted. Read in
-  NOTE-tmp7jums; account THEORY-tmp442o6.
+  [NOTE-tmp7jums](../notes.d/NOTE-tmp7jums.md); account [THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md).
 ---
 
 # LIT-tmpu3012: Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials
@@ -43,4 +43,4 @@ Hiroki Furuta, Gouki Minegishi, Yusuke Iwasawa and Yutaka Matsuo (2024). "Toward
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

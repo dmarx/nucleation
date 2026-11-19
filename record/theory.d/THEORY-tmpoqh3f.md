@@ -19,7 +19,7 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmpfodg5 in NOTE-tmpbhlth. Learned primitives
+  From the reading of [LIT-tmpfodg5](../literature.d/LIT-tmpfodg5.md) in [NOTE-tmpbhlth](../notes.d/NOTE-tmpbhlth.md). Learned primitives
   make compositions cheaper, pretraining counted; mechanism correlational.
   Proposed until its promote_when is met.
 ---

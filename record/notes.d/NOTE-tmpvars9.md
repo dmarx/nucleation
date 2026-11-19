@@ -19,7 +19,7 @@ summary: >-
   compose new facts. Organizations compared, not matched; no intervention;
   single runs.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-754 CLAIM-756 LEAD-004 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-754 CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpvars9: He and colleagues — Is Grokking Worthwhile? Functional Analysis and Transferability of Generalization Circuits in Transformers
 
@@ -50,29 +50,29 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-006**, the closest to its part (b): a circuit and a shortcut,
+- **[LEAD-006](../leads.d/LEAD-006.md)**, the closest to its part (b): a circuit and a shortcut,
   each followed into a later acquisition, with the organization predicting
   the later curve; the shortcut has higher first-stage accuracy and learns
   worse later. No intervention, no cost number, single runs. A testbed for
   (c), the reader's suggestion: ablate or patch the bridge layers before
   fine-tuning.
-- **CLAIM-754**, an illustration: the operational and developmental
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, an illustration: the operational and developmental
   frontiers come apart (the fake model ahead now, behind later).
-- **CLAIM-756**, weak illustration: an organization's value shows in later
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, weak illustration: an organization's value shows in later
   acquisition, not first-stage accuracy; no costs.
-- **CLAIM-519**, supports: the same behaviour with different internal
+- **[CLAIM-519](../claims.d/CLAIM-519.md)**, supports: the same behaviour with different internal
   paths; the paper's own mechanism evidence is observational.
-- **LEAD-004**, background: a case of similar present competence
+- **[LEAD-004](../leads.d/LEAD-004.md)**, background: a case of similar present competence
   with different later acquisition.
-- **CLAIM-758**, qualifies weakly: longer training (grokking) does not raise
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, qualifies weakly: longer training (grokking) does not raise
   later cost here.
-- **QUESTION-039** and **THEORY-039**, parallel: staged events, saturation,
+- **[QUESTION-039](../questions.d/QUESTION-039.md)** and **[THEORY-039](../theory.d/THEORY-039.md)**, parallel: staged events, saturation,
   then bridge recovery, then integration.
-- **QUESTION-360**, parallel: transfer to new facts as the test of a
+- **[QUESTION-360](../questions.d/QUESTION-360.md)**, parallel: transfer to new facts as the test of a
   reusable organization.
-- **CASE-294**, design caution: a held-out two-hop family built with new
+- **[CASE-294](../cases.d/CASE-294.md)**, design caution: a held-out two-hop family built with new
   second-hop facts could fail for reasons unrelated to checkpoint age.
-- **THEORY-984**, parallel: an internal bridge found with interventions,
+- **[THEORY-984](../theory.d/THEORY-984.md)**, parallel: an internal bridge found with interventions,
   which this paper lacks.
 
 ## Limitations

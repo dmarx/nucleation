@@ -18,7 +18,7 @@ summary: >-
   the sub-tasks; the reverse, composition first then a sub-task, saves.
   Single runs; no intervention.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-756 THEORY-2065 THEORY-2071 THEORY-2067 THEORY-2075 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 THEORY-2065 THEORY-2071 THEORY-2067 THEORY-2075 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp8n812: Thomm and colleagues — Limits of Transformer Language Models on Learning to Compose Algorithms
 
@@ -42,19 +42,19 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-006**, qualifies: prior research the lead must face, not its
+- **[LEAD-006](../leads.d/LEAD-006.md)**, qualifies: prior research the lead must face, not its
   experiment; no staged acquisition of the shared structure, no matched
   first stage, no intervention.
-- **CLAIM-756**, a limit on when the effect appears, not a counterexample:
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, a limit on when the effect appears, not a counterexample:
   learning sub-tasks alongside does not lower the composition's cost here.
-- **CLAIM-596** and **QUESTION-397**, parallel: accuracy at a sample size
+- **[CLAIM-596](../claims.d/CLAIM-596.md)** and **[QUESTION-397](../questions.d/QUESTION-397.md)**, parallel: accuracy at a sample size
   cannot tell a changed rate from a head start; the no-reuse reading goes
   beyond the data.
-- **THEORY-2065** (Skill-it), in tension: mixing in prerequisites
+- **[THEORY-2065](../theory.d/THEORY-2065.md)** (Skill-it), in tension: mixing in prerequisites
   saved steps there and composed samples barely here; different measures.
-- **THEORY-2071**, **THEORY-2067**, **THEORY-2075**: contrast,
+- **[THEORY-2071](../theory.d/THEORY-2071.md)**, **[THEORY-2067](../theory.d/THEORY-2067.md)**, **[THEORY-2075](../theory.d/THEORY-2075.md)**: contrast,
   staged designs that do find savings.
-- **THEORY-253**, parallel: skills progress together under gradient
+- **[THEORY-253](../theory.d/THEORY-253.md)**, parallel: skills progress together under gradient
   descent.
 
 ## Limitations

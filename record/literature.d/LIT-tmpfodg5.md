@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Primitives pretraining builds abstract representations that make
   compositional rules cheaper to learn, pretraining samples counted; no
-  intervention on the representation. Read on 2026-11-19 (NOTE-tmpbhlth).
+  intervention on the representation. Read on 2026-11-19 ([NOTE-tmpbhlth](../notes.d/NOTE-tmpbhlth.md)).
 title: 'Compositional generalization through abstract representations in human and artificial neural networks'
 version: 1
 history:
@@ -34,7 +34,7 @@ summary: >-
   needs up to 4.23 times as many samples, pretraining counted, to match;
   abstraction and generalization rise together during pretraining (r =
   0.88); reversing the two pretraining stages leaves generalization at
-  chance. Read in NOTE-tmpbhlth; account THEORY-tmpoqh3f.
+  chance. Read in [NOTE-tmpbhlth](../notes.d/NOTE-tmpbhlth.md); account [THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md).
 ---
 
 # LIT-tmpfodg5: Compositional generalization through abstract representations in human and artificial neural networks
@@ -43,4 +43,4 @@ Takuya Ito, Tim Klinger, Douglas H. Schultz, John D. Murray, Michael W. Cole and
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

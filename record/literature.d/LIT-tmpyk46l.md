@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Learning-to-learn in an RNN measured in trials to criterion, with a
   causal test: barring the readout from the reused subspace restores
-  first-problem cost. Read on 2026-11-19 (NOTE-tmpk8fli).
+  first-problem cost. Read on 2026-11-19 ([NOTE-tmpk8fli](../notes.d/NOTE-tmpk8fli.md)).
 title: 'Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving'
 version: 1
 history:
@@ -35,8 +35,8 @@ summary: >-
   reuses a low-dimensional decision subspace (the schema). Rotating the
   frozen readout off that subspace after the first problem makes the
   second as slow to learn as the first; control rotations do not. The
-  monkey comparison is cited, unpublished. Read in NOTE-tmpk8fli; account
-  THEORY-tmp80vhs.
+  monkey comparison is cited, unpublished. Read in [NOTE-tmpk8fli](../notes.d/NOTE-tmpk8fli.md); account
+  [THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md).
 ---
 
 # LIT-tmpyk46l: Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
@@ -45,4 +45,4 @@ Vishwa Goudar, Barbara Peysakhovich, David J. Freedman, Elizabeth A. Buffalo and
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

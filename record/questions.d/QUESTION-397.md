@@ -123,10 +123,10 @@ dynamics; untested as such, one run, read from a figure.
 ## Note of 2026-11-19: the task-composition readings, read
 <!-- inactive-ok-file: THEORY-tmp51mqd THEORY-tmp80vhs — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Goudar and colleagues (THEORY-tmp80vhs) give a process-level test in an
+Goudar and colleagues ([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)) give a process-level test in an
 RNN: barring the readout from the reused decision subspace returns
 learning to the first problem's cost, so the benefit runs through changed
 later dynamics, not a more advanced start. Zhang, Lepori and Pavlick
-(THEORY-tmp51mqd) separate a reusable component from a random subset that
+([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md)) separate a reusable component from a random subset that
 helps only as a better initialization. Analogies to this question's
 assembly setting.

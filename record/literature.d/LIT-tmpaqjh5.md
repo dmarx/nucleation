@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   A negative case under joint training: sub-tasks mixed in give little
   saving on the composed task; nothing is learned first and nothing
-  intervened on. Read on 2026-11-19 (NOTE-tmp8n812).
+  intervened on. Read on 2026-11-19 ([NOTE-tmp8n812](../notes.d/NOTE-tmp8n812.md)).
 title: 'Limits of Transformer Language Models on Learning to Compose Algorithms'
 version: 1
 history:
@@ -31,8 +31,8 @@ summary: >-
   contain, and reaches about the same accuracy at matched composed-task
   samples as without the sub-tasks. The only staged design runs the other
   way: pretraining on the composition lowers the samples to fine-tune a
-  sub-task. One run per data point. Read in NOTE-tmp8n812; account
-  THEORY-tmpezk6j.
+  sub-task. One run per data point. Read in [NOTE-tmp8n812](../notes.d/NOTE-tmp8n812.md); account
+  [THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md).
 ---
 
 # LIT-tmpaqjh5: Limits of Transformer Language Models on Learning to Compose Algorithms
@@ -41,4 +41,4 @@ Jonathan Thomm, Giacomo Camposampiero, Aleksandar Terzic, Michael Hersche, Bernh
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

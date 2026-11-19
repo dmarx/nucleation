@@ -4,7 +4,7 @@ status_note: >-
   The memorization arm's baseline: a first stage with random labels still
   changes later cost, through first-layer covariance alignment, and can
   reverse; the arm needs input-statistics controls. Read on 2026-11-19
-  (NOTE-tmpmkl72).
+  ([NOTE-tmpmkl72](../notes.d/NOTE-tmpmkl72.md)).
 title: 'What Do Neural Networks Learn When Trained With Random Labels?'
 version: 1
 history:
@@ -33,8 +33,8 @@ summary: >-
   the data covariance, reproduces the gain. In other settings the same
   pretraining slows later training, which they attribute to later-layer
   units becoming permanently inactive; width mitigates it. First-stage
-  accuracy is never reported. Read in NOTE-tmpmkl72; account
-  THEORY-tmpw5877.
+  accuracy is never reported. Read in [NOTE-tmpmkl72](../notes.d/NOTE-tmpmkl72.md); account
+  [THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md).
 ---
 
 # LIT-tmplf4p3: What Do Neural Networks Learn When Trained With Random Labels?
@@ -43,4 +43,4 @@ Hartmut Maennel, Ibrahim Alabdulmohsin, Ilya Tolstikhin, Robert J. N. Baldock, O
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

@@ -17,7 +17,7 @@ promote_when: >-
   for ab±b, and that frozen elementary-arithmetic modules raise it or
   prevent grokking for most quadratic and cubic polynomials tested.
 summary: >-
-  From the reading of LIT-tmpu3012 in NOTE-tmp7jums. Transplanted grokked
+  From the reading of [LIT-tmpu3012](../literature.d/LIT-tmpu3012.md) in [NOTE-tmp7jums](../notes.d/NOTE-tmp7jums.md). Transplanted grokked
   modules help some compositions and block others, often blocking
   compositions on their own operation. Proposed until its promote_when is
   met.

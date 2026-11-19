@@ -22,7 +22,7 @@ summary: >-
   removes the saving. One kind of learner; the representation itself is
   not ablated.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpk8fli: Goudar and colleagues — Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
 
@@ -50,23 +50,23 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-006**, partial: (a) trials to criterion with and without
+- **[LEAD-006](../leads.d/LEAD-006.md)**, partial: (a) trials to criterion with and without
   earlier learning; (c) by readout perturbation, the representation left
   intact; not (b), one kind of learner. The shared structure is the trial
   structure and response set; later rules are new stimulus mappings.
   Public code; reinitializing the subspace inside the recurrent weights is
   the reader's suggestion.
-- **CLAIM-756**, corroborates the premise: earlier problems lower later
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, corroborates the premise: earlier problems lower later
   problems' cost in counted trials.
-- **CLAIM-596** and **QUESTION-397**, parallel: barring reuse returns
+- **[CLAIM-596](../claims.d/CLAIM-596.md)** and **[QUESTION-397](../questions.d/QUESTION-397.md)**, parallel: barring reuse returns
   learning to naive speed, a process measure, not an endpoint.
-- **TERM-117**, parallel: the decision subspace as a productive nucleus
+- **[TERM-117](../terms.d/TERM-117.md)**, parallel: the decision subspace as a productive nucleus
   against a declared comparator.
-- **CLAIM-754**, analogy: equal criterion each problem, falling cost of
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, analogy: equal criterion each problem, falling cost of
   the next; one learner over time.
-- **THEORY-1358** (Kemp, Goodman and Tenenbaum), parallel: learning to
-  learn through a schema, Bayesian there; **THEORY-2046** and
-  **THEORY-2019**, contrast: learning to learn here without a
+- **[THEORY-1358](../theory.d/THEORY-1358.md)** (Kemp, Goodman and Tenenbaum), parallel: learning to
+  learn through a schema, Bayesian there; **[THEORY-2046](../theory.d/THEORY-2046.md)** and
+  **[THEORY-2019](../theory.d/THEORY-2019.md)**, contrast: learning to learn here without a
   meta-objective.
 
 ## Limitations

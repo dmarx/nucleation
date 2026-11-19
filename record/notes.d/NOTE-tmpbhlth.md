@@ -19,7 +19,7 @@ summary: >-
   to learn and generalize zero-shot; abstraction measured by a parallelism
   score; order of pretraining decisive. Correlational for mechanism.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-756 CLAIM-754 THEORY-2065 THEORY-2081 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 CLAIM-754 THEORY-2065 THEORY-2081 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpbhlth: Ito and colleagues — Compositional generalization through abstract representations in human and artificial neural networks
 
@@ -45,23 +45,23 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-006**, partial: primitives are g and three-rule contexts are
+- **[LEAD-006](../leads.d/LEAD-006.md)**, partial: primitives are g and three-rule contexts are
   compositions over them; (a) loosely, with pretraining counted; (b)
   weakly, regimes compared through an abstraction score with no
   memorizing arm, though all stop at the same criterion; no (c). A cheap
   testbed (CPU minutes per network) for adding the intervention, the
   reader's suggestion.
-- **CLAIM-756**, weak corroboration: an earlier acquisition lowers later
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, weak corroboration: an earlier acquisition lowers later
   cost with its own cost counted.
-- **CLAIM-754** and **CLAIM-675**, parallel: networks at the same criterion
+- **[CLAIM-754](../claims.d/CLAIM-754.md)** and **[CLAIM-675](../claims.d/CLAIM-675.md)**, parallel: networks at the same criterion
   on trained contexts differ in what they can reach on novel ones.
-- **QUESTION-039**, supports: the order of acquisition decides whether
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, supports: the order of acquisition decides whether
   generalization appears at all.
-- **THEORY-2065** (Skill-it), contrast: prerequisites lower a target's
+- **[THEORY-2065](../theory.d/THEORY-2065.md)** (Skill-it), contrast: prerequisites lower a target's
   cost there too, but sequence did not matter there and decides everything
   here.
-- **THEORY-794**, parallel on compositional generalization with factored
-  representations; **THEORY-2081**, a caution: counted samples, not
+- **[THEORY-794](../theory.d/THEORY-794.md)**, parallel on compositional generalization with factored
+  representations; **[THEORY-2081](../theory.d/THEORY-2081.md)**, a caution: counted samples, not
   compute.
 
 ## Limitations

@@ -4,7 +4,7 @@ status_note: >-
   The only work found that compares organizations (a reasoning circuit
   against a fake-grokked shortcut) and follows each into a later
   acquisition; observational mechanism, single runs. Read on 2026-11-19
-  (NOTE-tmpvars9).
+  ([NOTE-tmpvars9](../notes.d/NOTE-tmpvars9.md)).
 title: 'Is Grokking Worthwhile? Functional Analysis and Transferability of Generalization Circuits in Transformers'
 version: 1
 history:
@@ -34,7 +34,7 @@ summary: >-
   first-hop fact with old ones; fake-grokked models learn the facts
   without composing them; no model composes a new second-hop fact.
   Logit-lens evidence; no intervention; single runs; first-stage accuracy
-  not matched. Read in NOTE-tmpvars9; account THEORY-tmpowquo.
+  not matched. Read in [NOTE-tmpvars9](../notes.d/NOTE-tmpvars9.md); account [THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md).
 ---
 
 # LIT-tmp1zmvj: Is Grokking Worthwhile? Functional Analysis and Transferability of Generalization Circuits in Transformers
@@ -43,4 +43,4 @@ Kaiyu He, Zhang Mian, Peilin Wu, Xinya Du and Zhiyu Chen (2026). "Is Grokking Wo
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

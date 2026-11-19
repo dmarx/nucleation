@@ -4,7 +4,7 @@ status_note: >-
   A component-level account of reuse in multitask RNNs: a held-out task
   learned quickly through one input vector when earlier training contained
   its motifs. The saving is not intervened on. Read on 2026-11-19
-  (NOTE-tmp7fq38).
+  ([NOTE-tmp7fq38](../notes.d/NOTE-tmp7fq38.md)).
 title: 'Flexible multitask computation in recurrent networks utilizes shared dynamical motifs'
 version: 1
 history:
@@ -36,7 +36,7 @@ summary: >-
   its rule input: fast after pretraining that contained its motifs, slow,
   variable or failed without, and behind full-weight training for tasks
   needing motifs no other task used. Three to five networks per condition.
-  Read in NOTE-tmp7fq38; account THEORY-tmpmir63.
+  Read in [NOTE-tmp7fq38](../notes.d/NOTE-tmp7fq38.md); account [THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md).
 ---
 
 # LIT-tmpexypk: Flexible multitask computation in recurrent networks utilizes shared dynamical motifs
@@ -45,4 +45,4 @@ Laura N. Driscoll, Krishna Shenoy and David Sussillo (2024). "Flexible multitask
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

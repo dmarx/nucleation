@@ -19,7 +19,7 @@ summary: >-
   the subtask. The located component carries the saving; a size-matched
   random part of the same model does not.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-756 THEORY-2071 THEORY-2075 CLAIM-754 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 THEORY-2071 THEORY-2075 CLAIM-754 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpnu6cu: Zhang, Lepori and Pavlick — Instilling Inductive Biases with Subnetworks
 
@@ -69,7 +69,7 @@ samples.
 
 ## Bearing on the record
 
-- **LEAD-006**, partial prior research, the closest yet: (a) a later
+- **[LEAD-006](../leads.d/LEAD-006.md)**, partial prior research, the closest yet: (a) a later
   sample cost with and without the earlier learning; (c) an intervention
   by transplant with a size-matched control. Not (b): every first-stage
   model is near perfect and no organizations are compared. The target is
@@ -77,21 +77,21 @@ samples.
   the missing arms (the reader's suggestion): train first-stage models to
   the same accuracy by different routes, and ablate the subnetwork inside
   them before the target.
-- **CLAIM-756**, corroborates in kind: an earlier acquisition lowers a
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, corroborates in kind: an earlier acquisition lowers a
   later sample cost, and the saving rides on a located component; the
   first stage's cost is not netted.
-- **THEORY-2071** (Hu and colleagues), parallel and stronger on
+- **[THEORY-2071](../theory.d/THEORY-2071.md)** (Hu and colleagues), parallel and stronger on
   mechanism: the component alone, with random controls, carries the
   saving.
-- **THEORY-2075** (procedural pretraining), complementary
+- **[THEORY-2075](../theory.d/THEORY-2075.md)** (procedural pretraining), complementary
   intervention: shuffled weights there, a random same-size part here.
-- **CLAIM-754**, weak parallel: arms with equal target accuracy at 10
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, weak parallel: arms with equal target accuracy at 10
   samples differ greatly in later cost.
-- **CLAIM-596** and **QUESTION-397**, analogy: a reusable component
+- **[CLAIM-596](../claims.d/CLAIM-596.md)** and **[QUESTION-397](../questions.d/QUESTION-397.md)**, analogy: a reusable component
   against a better initialization.
-- **TERM-117**, a clean analogy: an identifiable partial organization that
+- **[TERM-117](../terms.d/TERM-117.md)**, a clean analogy: an identifiable partial organization that
   improves later accessibility against declared comparators.
-- **THEORY-966** and **THEORY-970**, a caution: the mask found may be one
+- **[THEORY-966](../theory.d/THEORY-966.md)** and **[THEORY-970](../theory.d/THEORY-970.md)**, a caution: the mask found may be one
   of several sufficient subnetworks.
 
 ## Limitations

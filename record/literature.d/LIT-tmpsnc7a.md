@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  The closest match yet to LEAD-006: a located shared component,
+  The closest match yet to [LEAD-006](../leads.d/LEAD-006.md): a located shared component,
   transplanted alone, carries a later sample saving against a size-matched
   random control. No matched comparison of organizations. Read on
-  2026-11-19 (NOTE-tmpnu6cu).
+  2026-11-19 ([NOTE-tmpnu6cu](../notes.d/NOTE-tmpnu6cu.md)).
 title: 'Instilling Inductive Biases with Subnetworks'
 version: 1
 history:
@@ -34,7 +34,7 @@ summary: >-
   transfer of the whole model; a same-size random subnetwork of the
   trained model needs about six times as much data; scratch reaches about
   51 per cent. First-stage cost not counted; seeds reported for one
-  configuration. Read in NOTE-tmpnu6cu; account THEORY-tmp51mqd.
+  configuration. Read in [NOTE-tmpnu6cu](../notes.d/NOTE-tmpnu6cu.md); account [THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md).
 ---
 
 # LIT-tmpsnc7a: Instilling Inductive Biases with Subnetworks
@@ -43,4 +43,4 @@ Enyan Zhang, Michael A. Lepori and Ellie Pavlick (2023). "Instilling Inductive B
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-006.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).

@@ -19,7 +19,7 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmpyk46l in NOTE-tmpk8fli. A learned shared
+  From the reading of [LIT-tmpyk46l](../literature.d/LIT-tmpyk46l.md) in [NOTE-tmpk8fli](../notes.d/NOTE-tmpk8fli.md). A learned shared
   structure lowers later problems' cost, and barring its use removes the
   saving. Proposed until its promote_when is met.
 ---

@@ -129,8 +129,8 @@ non-monotonically. Background for the question's mechanisms.
 ## Note of 2026-11-19: the task-composition readings, read
 <!-- inactive-ok-file: THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Ito and colleagues (THEORY-tmpoqh3f): the order of pretraining stages
+Ito and colleagues ([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)): the order of pretraining stages
 decides whether compositional generalization appears at all. He and
-colleagues (THEORY-tmpowquo): grokking unfolds as saturation, then bridge
+colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)): grokking unfolds as saturation, then bridge
 recovery, then integration of facts. Driscoll and colleagues
-(THEORY-tmpmir63): slow acquisition of motifs, then fast recombination.
+([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md)): slow acquisition of motifs, then fast recombination.

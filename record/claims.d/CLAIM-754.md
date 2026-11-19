@@ -138,13 +138,13 @@ base scores move what fine-tuning reaches. Analogies.
 ## Note of 2026-11-19: the task-composition readings, read
 <!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-He and colleagues (THEORY-tmpowquo) give the clearest illustration on
+He and colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)) give the clearest illustration on
 record: a shortcut model ahead on present held-out accuracy is behind a
 grokked one in acquiring compositions with new facts; observational,
-single runs, not matched. Ito and colleagues (THEORY-tmpoqh3f) show
+single runs, not matched. Ito and colleagues ([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)) show
 networks stopped at one criterion that differ in what they can reach.
-Driscoll and colleagues (THEORY-tmpmir63) and Furuta and colleagues
-(THEORY-tmp442o6) give interface-relative instances: with learning
+Driscoll and colleagues ([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md)) and Furuta and colleagues
+([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)) give interface-relative instances: with learning
 confined to one input or to the unfrozen part, what is reachable depends
 on what is held and on which part was transferred. Illustrations, not
 tests.

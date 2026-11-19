@@ -20,8 +20,8 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmpsnc7a in NOTE-tmpnu6cu. The closest prior
-  research found for LEAD-006: transplant with a size-matched
+  From the reading of [LIT-tmpsnc7a](../literature.d/LIT-tmpsnc7a.md) in [NOTE-tmpnu6cu](../notes.d/NOTE-tmpnu6cu.md). The closest prior
+  research found for [LEAD-006](../leads.d/LEAD-006.md): transplant with a size-matched
   control, no matched comparison of organizations. Proposed until its
   promote_when is met.
 ---

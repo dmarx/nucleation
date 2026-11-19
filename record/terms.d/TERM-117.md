@@ -136,8 +136,8 @@ output composition and obstructs natural-language transduction. Analogies.
 <!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Applications from the task-composition readings: a transplanted subnetwork
-for a shared subtask (THEORY-tmp51mqd) and a reused decision subspace
-(THEORY-tmp80vhs) are productive against declared comparators; frozen
+for a shared subtask ([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md)) and a reused decision subspace
+([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)) are productive against declared comparators; frozen
 grokked modules are often obstructive for polynomials composed on their
-own operation (THEORY-tmp442o6); and random-label pretraining helps or
-hurts by setting (THEORY-tmpw5877).
+own operation ([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)); and random-label pretraining helps or
+hurts by setting ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)).

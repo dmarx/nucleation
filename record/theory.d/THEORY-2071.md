@@ -71,9 +71,9 @@ dose (the filer's inference). Argued in [ARG-122](../arguments.d/ARG-122.md).
 ## Note of 2026-11-19: the task-composition readings, read
 <!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Zhang, Lepori and Pavlick (THEORY-tmp51mqd) go further on mechanism than
+Zhang, Lepori and Pavlick ([THEORY-tmp51mqd](THEORY-tmp51mqd.md)) go further on mechanism than
 this account's post hoc pruning: the located component alone, transplanted
 with size-matched random controls, carries the saving, at toy scale and
-without counting the first stage. Furuta and colleagues (THEORY-tmp442o6)
+without counting the first stage. Furuta and colleagues ([THEORY-tmp442o6](THEORY-tmp442o6.md))
 find transplanted grokked modules often raise later cost, a parallel to
 this account's harmful first phases.

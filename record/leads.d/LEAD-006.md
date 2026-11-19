@@ -82,19 +82,19 @@ targeted search of the task-composition literature is still to do.
 
 The search this lead asked for, and eight readings. No work runs the full
 design. The parts are covered separately. (a) A later cost with and
-without the earlier learning: Zhang, Lepori and Pavlick (THEORY-tmp51mqd),
-Goudar and colleagues (THEORY-tmp80vhs), Ito and colleagues
-(THEORY-tmpoqh3f, pretraining counted), Driscoll and colleagues
-(THEORY-tmpmir63), Furuta and colleagues (THEORY-tmp442o6). (b)
-Organizations compared: only He and colleagues (THEORY-tmpowquo), where a
+without the earlier learning: Zhang, Lepori and Pavlick ([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md)),
+Goudar and colleagues ([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)), Ito and colleagues
+([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md), pretraining counted), Driscoll and colleagues
+([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md)), Furuta and colleagues ([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)). (b)
+Organizations compared: only He and colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)), where a
 shortcut model with higher first-stage accuracy than a grokked one
 composes new facts worse; not matched, observational, single runs. (c) An
 intervention on the learned component: a frozen transplant of the located
 subnetwork against a size-matched random one (Zhang, Lepori and Pavlick),
 a readout barred from the reused subspace (Goudar and colleagues),
-covariance resampling (Maennel and colleagues, THEORY-tmpw5877). Against
+covariance resampling (Maennel and colleagues, [THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)). Against
 the lead's hope: mixing sub-tasks in gives little (Thomm and colleagues,
-THEORY-tmpezk6j), and transplanting g's own grokked module often raises
+[THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)), and transplanting g's own grokked module often raises
 the cost of h∘g (Furuta and colleagues). For the memorization arm, Maennel
 and colleagues show a random-label first stage changes later cost through
 input statistics, so that arm needs covariance and norm controls. The gap:

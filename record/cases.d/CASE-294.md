@@ -171,7 +171,7 @@ checkpoint.
 ## Note of 2026-11-19: the task-composition readings, read
 <!-- inactive-ok-file: THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-He and colleagues (THEORY-tmpowquo) find that no model composes a new fact
+He and colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)) find that no model composes a new fact
 in the second hop after fine-tuning; a held-out two-hop family built that
 way could fail for reasons unrelated to checkpoint age, a design caution
 for this study.

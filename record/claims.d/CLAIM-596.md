@@ -136,9 +136,9 @@ status change.
 
 Two task-composition readings measure the rate of a later step against a
 component, which this claim asks for: Goudar and colleagues
-(THEORY-tmp80vhs) bar the readout from a reused subspace and later
-learning returns to naive speed; Maennel and colleagues (THEORY-tmpw5877)
+([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)) bar the readout from a reused subspace and later
+learning returns to naive speed; Maennel and colleagues ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md))
 separate a weight-scale route from an alignment route by rescaling and
 covariance resampling, and final accuracy moves against speed. Thomm and
-colleagues (THEORY-tmpezk6j) read sample-size endpoints as no reuse, which
+colleagues ([THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)) read sample-size endpoints as no reuse, which
 this claim says such endpoints cannot show.

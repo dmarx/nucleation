@@ -18,7 +18,7 @@ summary: >-
   pair-specific help, frequent harm, and grokking blocked for polynomials
   that grok from scratch. Transplant only; no matched first stage.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-756 CLAIM-754 THEORY-2067 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 CLAIM-754 THEORY-2067 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp7jums: Furuta and colleagues — Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials
 
@@ -47,22 +47,22 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-006**, qualifies: (a) a later sample cost against scratch;
+- **[LEAD-006](../leads.d/LEAD-006.md)**, qualifies: (a) a later sample cost against scratch;
   (c) by transplant; not (b). The factorizable polynomial rows are a ready
   h∘g testbed, and on them transferring g's own grokked module does not
   lower, and often raises, the cost of h∘g.
-- **CLAIM-756**, qualifies: earlier acquisitions both lower and raise later
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, qualifies: earlier acquisitions both lower and raise later
   costs, pair by pair; first-stage cost uncounted.
-- **CLAIM-754**, illustration: modules grokked on their sources give
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, illustration: modules grokked on their sources give
   different later costs, and embedding and body from one model differ, an
   interface-relative frontier.
-- **THEORY-2067**, the same protocol (freeze the body, retrain
+- **[THEORY-2067](../theory.d/THEORY-2067.md)**, the same protocol (freeze the body, retrain
   embeddings) with pair-specific, often negative results.
-- **THEORY-022**, extended: Fourier accounts for subtraction,
+- **[THEORY-022](../theory.d/THEORY-022.md)**, extended: Fourier accounts for subtraction,
   multiplication and polynomials.
-- **CLAIM-758**, weak parallel: frozen grokked structure blocks later
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, weak parallel: frozen grokked structure blocks later
   grokking; nothing varies stabilization length.
-- **TERM-117**, analogy: a pre-grokked module can be an obstructive
+- **[TERM-117](../terms.d/TERM-117.md)**, analogy: a pre-grokked module can be an obstructive
   nucleus.
 
 ## Limitations

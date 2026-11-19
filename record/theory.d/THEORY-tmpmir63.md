@@ -19,7 +19,7 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmpexypk in NOTE-tmp7fq38. Reuse of learned
+  From the reading of [LIT-tmpexypk](../literature.d/LIT-tmpexypk.md) in [NOTE-tmp7fq38](../notes.d/NOTE-tmp7fq38.md). Reuse of learned
   components lowers a later task's cost in RNNs; the transferred component
   is not intervened on. Proposed until its promote_when is met.
 ---

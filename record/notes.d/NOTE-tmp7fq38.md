@@ -21,7 +21,7 @@ summary: >-
   motif clusters, on trained networks only. No matched comparison of
   organizations; no intervention on the transferred motif.
 ---
-<!-- inactive-ok-file: LEAD-006 CLAIM-756 CLAIM-754 THEORY-2067 THEORY-2077 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 CLAIM-754 THEORY-2067 THEORY-2077 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp7fq38: Driscoll, Shenoy and Sussillo — Flexible multitask computation in recurrent networks utilizes shared dynamical motifs
 
@@ -71,32 +71,32 @@ variance clusters; transfer by training only an input.
 
 ## Bearing on the record
 
-- **LEAD-006**, partial: (a) learning curves with and without the
+- **[LEAD-006](../leads.d/LEAD-006.md)**, partial: (a) learning curves with and without the
   relevant prior learning; not (b), since arms differ in pretraining data;
   not (c) for the saving, since lesions are on trained networks and no
   motif is removed before transfer. The composition is a recombination of
   modules, not h after a shared g. A testbed for (c), the reader's
   suggestion: lesion the anti-stimulus cluster before training the new
   rule input; networks and code are public.
-- **CLAIM-756**, corroborates its premise: an earlier acquisition (the
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, corroborates its premise: an earlier acquisition (the
   anti motif) lowers the cost of a later one; no first-stage cost
   accounting.
-- **CLAIM-754**, an empirical instance of an interface-relative
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, an empirical instance of an interface-relative
   developmental frontier: with learning confined to one input vector, what
   is reachable depends on motifs held, and tasks needing new motifs fall
   behind full plasticity.
-- **CLAIM-596**, parallel: a rate comparison of a later acquisition; the
+- **[CLAIM-596](../claims.d/CLAIM-596.md)**, parallel: a rate comparison of a later acquisition; the
   blue and orange arms both hold the memory motif, isolating the anti
   motif.
-- **THEORY-2067** (Papadimitriou and Jurafsky), the closest design
+- **[THEORY-2067](../theory.d/THEORY-2067.md)** (Papadimitriou and Jurafsky), the closest design
   parallel: frozen recurrent weights, only an input trained, sources with
   and without the needed structure.
-- **THEORY-2077** (Anguita and colleagues), parallel: an input-only
+- **[THEORY-2077](../theory.d/THEORY-2077.md)** (Anguita and colleagues), parallel: an input-only
   regime forces reuse and loses when the new task's features do not
   overlap.
-- **QUESTION-039**, background: slow acquisition of motifs, then fast
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, background: slow acquisition of motifs, then fast
   recombination, two kinds of acquisition.
-- **TERM-117**, analogy; **THEORY-1287**, background on what lesions show.
+- **[TERM-117](../terms.d/TERM-117.md)**, analogy; **[THEORY-1287](../theory.d/THEORY-1287.md)**, background on what lesions show.
 
 ## Limitations
 

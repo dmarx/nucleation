@@ -16,7 +16,7 @@ promote_when: >-
   and that pretraining on the composed task lowers the samples later
   needed to fine-tune one of its sub-tasks.
 summary: >-
-  From the reading of LIT-tmpaqjh5 in NOTE-tmp8n812. A negative case for
+  From the reading of [LIT-tmpaqjh5](../literature.d/LIT-tmpaqjh5.md) in [NOTE-tmp8n812](../notes.d/NOTE-tmp8n812.md). A negative case for
   joint training; staged training is not tested in the forward direction.
   Proposed until its promote_when is met.
 ---

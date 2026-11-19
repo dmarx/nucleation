@@ -151,14 +151,14 @@ tests the claim's own content. No status change.
 
 Four of the eight task-composition readings add evidence for the premise
 (corroborates): a transplanted subnetwork for a shared subtask lowers
-later sample cost against a size-matched random one (THEORY-tmp51mqd);
+later sample cost against a size-matched random one ([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md));
 earlier problems cut later problems' trials to criterion, and barring the
-reused subspace removes the saving (THEORY-tmp80vhs); learned motifs make
-a new task learnable through one input vector (THEORY-tmpmir63);
+reused subspace removes the saving ([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)); learned motifs make
+a new task learnable through one input vector ([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md));
 primitives lower a composition's cost with pretraining counted
-(THEORY-tmpoqh3f); and random-label pretraining, of no direct value on the
-later task, often lowers its cost (THEORY-tmpw5877). Two mark limits:
-mixing sub-tasks in gives little (THEORY-tmpezk6j), and transplanted
+([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)); and random-label pretraining, of no direct value on the
+later task, often lowers its cost ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)). Two mark limits:
+mixing sub-tasks in gives little ([THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)), and transplanted
 grokked modules raise later cost as often as they lower it
-(THEORY-tmp442o6). None nets the first stage's cost or tests the
+([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)). None nets the first stage's cost or tests the
 valuation. No status change.

@@ -19,7 +19,7 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmplf4p3 in NOTE-tmpmkl72. The memorization
+  From the reading of [LIT-tmplf4p3](../literature.d/LIT-tmplf4p3.md) in [NOTE-tmpmkl72](../notes.d/NOTE-tmpmkl72.md). The memorization
   arm's baseline: input statistics alone carry a later saving, which can
   reverse. Proposed until its promote_when is met.
 ---
