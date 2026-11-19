@@ -60,7 +60,7 @@ bears_on:
 rivals:
 - THEORY-1353
 ---
-<!-- inactive-ok-file: THEORY-tmp8wxgt — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2015 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-781 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 
 # THEORY-213: Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons
@@ -162,11 +162,11 @@ one's evidence, and nothing here changes.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Han and colleagues ([THEORY-tmp8wxgt](THEORY-tmp8wxgt.md)), read: consistent with the title's rank corollary, and qualifies the summary's plasticity consequence. The rank of attention products falls as pretraining weight decay rises, though the authors cite a nuclear-norm argument, not mirrors, and test no threshold. Plasticity improves with weight decay up to about 0.5–1.0. Past 1.0, in Llama-2, the value–projection rank collapses, "a transition that correlates with a significant drop in performance". So reduced rank goes with more plasticity over a window, and with a loss only beyond it.
+Han and colleagues ([THEORY-2015](THEORY-2015.md)), read: consistent with the title's rank corollary, and qualifies the summary's plasticity consequence. The rank of attention products falls as pretraining weight decay rises, though the authors cite a nuclear-norm argument, not mirrors, and test no threshold. Plasticity improves with weight decay up to about 0.5–1.0. Past 1.0, in Llama-2, the value–projection rank collapses, "a transition that correlates with a significant drop in performance". So reduced rank goes with more plasticity over a window, and with a loss only beyond it.
 
 No status change.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-<!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2009 — Proposed; cited from the readings of 2026-11-19 -->
 
-Parallel and independent ([THEORY-tmp4kekv](THEORY-tmp4kekv.md); [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues derive the invariance of identical-neuron sets from reflection symmetries of the parameterization, by their own proof (Prop. 3.2, Thm 3.1), agreeing with this account's invariance half. They say nothing of weight decay as a mechanism. The attraction half is [THEORY-781](THEORY-781.md)'s.
+Parallel and independent ([THEORY-2009](THEORY-2009.md); [NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues derive the invariance of identical-neuron sets from reflection symmetries of the parameterization, by their own proof (Prop. 3.2, Thm 3.1), agreeing with this account's invariance half. They say nothing of weight decay as a mechanism. The attraction half is [THEORY-781](THEORY-781.md)'s.

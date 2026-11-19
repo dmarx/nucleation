@@ -4,7 +4,7 @@
 
 **causality**.
 
-75 of 2083 NOTE documents. Back to the [full index](../README.md).
+76 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -83,3 +83,4 @@
 | [NOTE-1551](../../../record/notes.d/NOTE-1551.md) | Kemp, Goodman and Tenenbaum — Learning to learn causal models | A three-level hierarchical Bayesian model in which a causal schema, categories of objects with category-level causal powers, features and pairwise interactions, is learned from contingency and feature data and then lets a new object's causal model be learned from one trial or from its features. Four adult experiments (16 to 32 participants each, one blocks-and-machine paradigm) show one-shot and zero-shot causal learning, overruling of the schema, and categories found from interactions alone. The model beats a bottom-up and an exemplar baseline qualitatively; it misses one condition of Experiment 1 and is overconfident in Experiment 4. | Read |
 | [NOTE-1961](../../../record/notes.d/NOTE-1961.md) | Elazar et al. — Amnesic Probing | In BERT-base, how well a linear probe decodes a property does not predict how much INLP removal of it hurts masked-word prediction (Spearman 8.5, p = 0.871, six properties), and what is removed at an early layer is largely re-decodable at later layers, in the unmasked setting. | Read |
 | [NOTE-1989](../../../record/notes.d/NOTE-1989.md) | Zhu — Orientation, not magnitude: the causal structure of task-vector interference | An exact layerwise ledger of the non-additive part of a two-task-vector LoRA merge in Qwen2.5 and Llama-3.2 at the final prompt token: about 65–70% of its flux is transport of the existing term, amplified in late blocks; erased early it is rebuilt; erased along its own direction it reduces output non-additivity, and norm-matched wrong directions raise it. Templates suppress its expression in two-vector merges. v3 adds that it is a bystander in merge collapse. | Read |
+| [NOTE-2086](../../../record/notes.d/NOTE-2086.md) | Geiger and others 2025 — Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability |  | Skimmed |

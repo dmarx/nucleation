@@ -200,4 +200,4 @@ The deep-network claim is unchanged and still Proposed. It still rests on
 one ResNet-18 projection and on plotted speeds.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues define stochastic collapse as the divergence of the partition function of this account's modified loss (fn. 11).
+A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues define stochastic collapse as the divergence of the partition function of this account's modified loss (fn. 11).

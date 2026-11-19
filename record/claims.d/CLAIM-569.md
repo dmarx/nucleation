@@ -24,7 +24,7 @@ history:
 - version: 3
   date: '2026-11-19'
   note: >-
-    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    Joins the work cost-structure-of-possibility (ADR-106), the
     owner's manuscript from the exchange "Topological protection
     explained": A43 §3.3 and §5.3 state its proposition. No other
     change.
@@ -80,7 +80,7 @@ summary: >-
 complements:
 - CLAIM-594
 ---
-<!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
@@ -277,7 +277,7 @@ A, at A32 §7 of the exchange "Individuation, Possibility, and Disposition" (202
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A39 §7 and A43 §3.3 and §9 restate this claim's separation as a trade between amortization and revisability: "An organization can be inexpensive to operate while expensive to revise" (A43 §3.3). A39 §7's example is a platform's learned genre classification, cheap to use and expensive to change once indexes, models, interfaces and procedures depend on it. This claim says the requirements to keep a form and to move out of it are separate; A adds that the same investment can lower the first while raising the second. A50 §4 gives the learner's case, operating cost falling while reconfiguration cost rises with training, and the overconsolidation claim [CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md), filed from the same exchange, names it.
+A39 §7 and A43 §3.3 and §9 restate this claim's separation as a trade between amortization and revisability: "An organization can be inexpensive to operate while expensive to revise" (A43 §3.3). A39 §7's example is a platform's learned genre classification, cheap to use and expensive to change once indexes, models, interfaces and procedures depend on it. This claim says the requirements to keep a form and to move out of it are separate; A adds that the same investment can lower the first while raising the second. A50 §4 gives the learner's case, operating cost falling while reconfiguration cost rises with training, and the overconsolidation claim [CLAIM-758](CLAIM-758.md), filed from the same exchange, names it.
 
 A43 listed the trade as a hypothesis (H3), hedged "under some workloads", and A39 §7 as "Not a universal inverse relationship". That fits this claim, which says no requirement fixes another, not that they move oppositely.
 

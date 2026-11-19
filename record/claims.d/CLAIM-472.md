@@ -41,7 +41,7 @@ history:
   date: '2026-11-19'
   note: >-
     Carnap's Logical Foundations of Probability (1950), chapter I, read
-    (NOTE-tmpgrtgu); its account THEORY-tmpai35t corroborates this claim,
+    (NOTE-2110); its account THEORY-2017 corroborates this claim,
     as the primary source behind THEORY-1797. A dated note says what it
     supports in each half. It is corroboration, not grounds: the claim
     does not rest on Carnap. The text is unchanged.
@@ -198,7 +198,7 @@ No status changes.
 
 
 Carnap's *Logical Foundations of Probability* (1950), chapter I, sections
-2 and 3, read at the owner's request ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md),
+2 and 3, read at the owner's request ([NOTE-2110](../notes.d/NOTE-2110.md), [THEORY-2017](../theory.d/THEORY-2017.md),
 corroborates). It is the primary text behind what Leitgeb and Carus
 report ([THEORY-1797](../theory.d/THEORY-1797.md)), and it bears on both halves.
 
@@ -222,7 +222,7 @@ report ([THEORY-1797](../theory.d/THEORY-1797.md)), and it bears on both halves.
   fact that something was excluded. What Carnap does not index the
   judgment to is "those affected": his standard is the concept's use in
   science, not the parties a cut bears on.
-- **Applied to the record's own terms.** [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) (Active since 2026-11-19) makes
+- **Applied to the record's own terms.** [ADR-107](../decisions.d/ADR-107.md) (Active since 2026-11-19) makes
   Carnap's requirements the critical questions of an `explication`
   argument, so that the choice of a TERM's definition is argued and
   judged as this claim says a choice of apparatus can be.
@@ -232,7 +232,7 @@ No status change. What holds it back is still [CLAIM-476](CLAIM-476.md) (note of
 
 ## Note of 2026-11-19 (later): Carnap, read in full
 
-The whole book read ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). Beyond chapter I:
+The whole book read ([NOTE-2110](../notes.d/NOTE-2110.md)). Beyond chapter I:
 
 - **First half.** The choice is made again and again inside the theory
   and judged, not verified. A measure function's choice is "a purely

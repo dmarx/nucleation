@@ -4,7 +4,7 @@
 
 **network-science**.
 
-64 of 2083 NOTE documents. Back to the [full index](../README.md).
+68 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -72,3 +72,7 @@
 | [NOTE-1607](../../../record/notes.d/NOTE-1607.md) | Rocks et al. — Allostery-inspired response tuned into spring networks by bond removal | Of the arXiv preprint. In disordered spring networks, greedy removal of about 1% of bonds (2D) or 0.5% (3D), each chosen with an analytic update from the states of self-stress and compatible stress, tunes a chosen source-to-target strain ratio to within 1%, failing in under 2% (2D) and 1% (3D) of networks for \|η\| up to 1; several targets from one source, and two independent pairs, are tuned too. Four physical realizations match simulation at C = 0.98 ± 0.02. Linear, athermal, central forces; why particular bonds work is left open. | Read |
 | [NOTE-1962](../../../record/notes.d/NOTE-1962.md) | Randi and Leifer — Nonequilibrium Green's functions for functional connectivity | Two-time nonequilibrium Green's functions describe functional connectivity in nonlinear graded networks. The measured connected response equals the linear resolvent plus a correction through the few nonlinear edges. So one nonlinear hub synapse can gate, or change the sign and kernel of, effective connections elsewhere. Shown in toy simulations inspired by C. elegans. | Read |
 | [NOTE-1969](../../../record/notes.d/NOTE-1969.md) | Seguin et al. — Connectome communication and the spread of direct electrical stimulation | Evoked responses to 29,055 single-pulse stimulations in 550 patients are better predicted by diffusive connectome measures (search information, communicability) than by direct structural weights or routing, even between unconnected regions. Euclidean distance is the strongest single predictor. Distance, search information and FC together give an out-of-sample R² of 54% (preprint figures). No wave content. | Read |
+| [NOTE-2085](../../../record/notes.d/NOTE-2085.md) | Velarde and others 2026 — Emergence of Fibrations, Compression, and Symmetry Breaking in Artificial Neural Networks |  | Read |
+| [NOTE-2095](../../../record/notes.d/NOTE-2095.md) | Larremore and others 2014 — Efficiently inferring community structure in bipartite networks |  | Read |
+| [NOTE-2111](../../../record/notes.d/NOTE-2111.md) | Gili and others 2024 — Fibration symmetry-breaking supports functional transitions in a brain network engaged in language |  | Read |
+| [NOTE-2130](../../../record/notes.d/NOTE-2130.md) | DeVille and Lerman 2013 — Modular dynamical systems on networks |  | Read |

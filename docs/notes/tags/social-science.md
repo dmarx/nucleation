@@ -4,7 +4,7 @@
 
 **social-science**.
 
-291 of 2083 NOTE documents. Back to the [full index](../README.md).
+292 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -299,3 +299,4 @@
 | [NOTE-2061](../../../record/notes.d/NOTE-2061.md) | Stark — Coercive Control (Vermont testimony, 2015) | Stark's own short statement of coercive control: a strategic course of conduct, mostly of frequent low-level violence with intimidation, isolation and control, that deprives a partner of liberty; tactics that are not abuse singly make the pattern together, and responses to discrete assaults miss it. | Read |
 | [NOTE-2062](../../../record/notes.d/NOTE-2062.md) | Schlager and Ostrom — Property-rights regimes and natural resources | "Common property" confuses government, no one's and community property. Rights are products of rules; "A property right is the authority to undertake particular actions related to a specific domain". Five rights: access and withdrawal (operational), management, exclusion and alienation (collective-choice), the latter being authority to define future operational rights, "the difference between exercising a right and participating in the definition of future rights to be exercised"; a constitutional level devises collective-choice rules (n. 2). The rights are independent but usually cumulative: authorized user, claimant, proprietor, owner. De facto rights matter; Maine lobster grounds bear it out. | Read |
 | [NOTE-2066](../../../record/notes.d/NOTE-2066.md) | Johnson, interviewed by Ooms — A Sociologist's Perspective on Domestic Violence | Johnson, in his own words in 2006, sorts intimate partner violence into situational couple violence, intimate terrorism and violent resistance by the control context in which it occurs, not by its acts, and explains the gender-symmetry dispute as two literatures sampling different types. Three types only; no mutual violent control. | Read |
+| [NOTE-2114](../../../record/notes.d/NOTE-2114.md) | Ibrahim 2013 — Collective Capabilities: What are they and why are they Important? |  | Read |

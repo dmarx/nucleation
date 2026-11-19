@@ -51,7 +51,7 @@ history:
 - version: 5
   date: '2026-11-19'
   note: >-
-    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    Joins the work cost-structure-of-possibility (ADR-106), the
     owner's manuscript from the exchange "Topological protection
     explained": A43 §3.1 states its proposition in general form, with
     §3.3 the costs of keeping. No other change.
@@ -88,8 +88,8 @@ summary: >-
   threshold of [CLAIM-185](CLAIM-185.md) are approximations to this trade, and can fail in both
   directions.
 ---
-<!-- inactive-ok-file: THEORY-tmpddlli — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-603 CLAIM-731 CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2023 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-603 CLAIM-731 CLAIM-761 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-303: Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion
@@ -138,7 +138,7 @@ worth it. [CLAIM-182](CLAIM-182.md) is not touched: A11's null case, an argument
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-Two qualifications, both A's. (a) Deadline feasibility. This claim's break-even prices total work. With a per-task budget, stored work can move a task across the budget line before it has repaid its cost: "A learned capability can be operationally enabling before it has economically repaid its acquisition cost" (A62 §2; A39 §1 gives 12 units fresh against 3 with a framework, at a budget of 5). That is [CLAIM-571](CLAIM-571.md)'s point that a peak, not a total, can bind. It is filed in [CLAIM-tmpqpd2p](CLAIM-tmpqpd2p.md), which rests on this claim.
+Two qualifications, both A's. (a) Deadline feasibility. This claim's break-even prices total work. With a per-task budget, stored work can move a task across the budget line before it has repaid its cost: "A learned capability can be operationally enabling before it has economically repaid its acquisition cost" (A62 §2; A39 §1 gives 12 units fresh against 3 with a framework, at a budget of 5). That is [CLAIM-571](CLAIM-571.md)'s point that a peak, not a total, can bind. It is filed in [CLAIM-761](CLAIM-761.md), which rests on this claim.
 
 (b) Across agents. A fall in one party's operating cost may be work transferred, to past training, to maintenance or to other agents, not work saved. A62 §9 separates "work saved", "work transferred" and "valuable capability expanded", with a bureaucracy cheap for administrators because claimants do the work of fitting its categories; A41 §9 adds a recommender cheap for viewers that burdens creators "to remain legible to its classifications". This claim's accounting is one agent's. Neighbours: [CLAIM-060](CLAIM-060.md), [CLAIM-603](CLAIM-603.md), [CLAIM-676](CLAIM-676.md), [CLAIM-731](CLAIM-731.md). It is not filed as a claim, being close to definitional; the owner may want it.
 
@@ -146,6 +146,6 @@ No status change.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Lu and Kankanhalli ([THEORY-tmpddlli](../theory.d/THEORY-tmpddlli.md)), read, apply this claim's criterion to test-time-trained skills and learn it: a skill pays adaptation compute now and is kept when expected reuse covers it, and of 100 reuses of earlier skills 61 helped and 1 harmed. Under a compute penalty the policy builds fewer costly skills without loss of utility. That supports the claim, for parameter skills, with an independent measured case. It leaves the defeat condition about the second-occurrence rule untouched, and the paper prices neither upkeep nor a stale skill.
+Lu and Kankanhalli ([THEORY-2023](../theory.d/THEORY-2023.md)), read, apply this claim's criterion to test-time-trained skills and learn it: a skill pays adaptation compute now and is kept when expected reuse covers it, and of 100 reuses of earlier skills 61 helped and 1 harmed. Under a compute penalty the policy builds fewer costly skills without loss of utility. That supports the claim, for parameter skills, with an independent measured case. It leaves the defeat condition about the second-occurrence rule untouched, and the paper prices neither upkeep nor a stale skill.
 
 No status change.

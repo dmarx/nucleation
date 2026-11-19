@@ -29,7 +29,7 @@ summary: >-
   its nearest relative. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-564 THEORY-tmpmtmq7 THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-564 THEORY-2035 THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-198 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: CASE-210 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
@@ -108,7 +108,7 @@ The test compares the RL model, with no verifier, against its base under verifie
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-Two readings filed from the exchange bear on this question, and carry `bears_on` to it. Li and Webb ([THEORY-tmpmtmq7](../theory.d/THEORY-tmpmtmq7.md)): every architecture tested, an attention-free MLP among them, reaches the token-invariant rule representation at high data diversity; diversity decides whether and when training reaches it, and at small vocabularies it arrives long after the task is solved. That is a capability the architecture can represent made reached by data, and the task is solved before the symbolic solution arrives, so success alone does not show which capability is there. Iqbal et al. 2026 ([THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md)): equivariant middle layers make very deep training reachable without normalization. Against unstabilized architectures that is a new capability; against residual or normalized ones it is another route to one already had. The verdict turns on the declared space, as this question anticipates.
+Two readings filed from the exchange bear on this question, and carry `bears_on` to it. Li and Webb ([THEORY-2035](../theory.d/THEORY-2035.md)): every architecture tested, an attention-free MLP among them, reaches the token-invariant rule representation at high data diversity; diversity decides whether and when training reaches it, and at small vocabularies it arrives long after the task is solved. That is a capability the architecture can represent made reached by data, and the task is solved before the symbolic solution arrives, so success alone does not show which capability is there. Iqbal et al. 2026 ([THEORY-2051](../theory.d/THEORY-2051.md)): equivariant middle layers make very deep training reachable without normalization. Against unstabilized architectures that is a new capability; against residual or normalized ones it is another route to one already had. The verdict turns on the declared space, as this question anticipates.
 
 A71 §4 sharpens the question for learners: "How does an acquired organization change the cost of constructing the next representational or experimental machinery—including machinery not already available as a cheap choice among predefined alternatives?" [THEORY-564](../theory.d/THEORY-564.md)'s spare slots are the case it has in mind: model selection among slots the designer supplied is not constructing new machinery.
 

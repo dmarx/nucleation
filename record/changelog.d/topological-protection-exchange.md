@@ -1,8 +1,8 @@
-<!-- inactive-ok-file: SYNTHESIS-tmpk81pz — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: SYNTHESIS-030 SYNTHESIS-043 SYNTHESIS-088 SYNTHESIS-tmpfhzxg SYNTHESIS-tmphvng7 SYNTHESIS-tmplih4n — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-tmp5vg7p CLAIM-tmpj540o CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: ARG-tmpm8rng ARG-tmpy9z67 CASE-tmphsr99 CASE-tmpplox8 CASE-tmpsjjgx CLAIM-478 CLAIM-tmp1l2s7 CLAIM-tmp449rr CLAIM-tmp5gbzr CLAIM-tmp8ljvp CLAIM-tmpqpd2p CLAIM-tmpw8xkt SYNTHESIS-096 TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: SYNTHESIS-107 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: SYNTHESIS-030 SYNTHESIS-043 SYNTHESIS-088 SYNTHESIS-105 SYNTHESIS-106 SYNTHESIS-108 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-757 CLAIM-759 CLAIM-760 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: ARG-120 ARG-121 CASE-294 CASE-295 CASE-296 CLAIM-478 CLAIM-754 CLAIM-755 CLAIM-756 CLAIM-758 CLAIM-761 CLAIM-762 SYNTHESIS-096 TERM-131 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
 ### Added
 
 - The exchange "Topological protection explained" (2026-11-18 to 19)
@@ -10,24 +10,24 @@
   already on the record, and the entry maps it turn by turn.
   - The owner's: the hypothesis that collapsing irrelevant distinctions
     into equivalence classes is how those classes are reified
-    ([CLAIM-tmpw8xkt](record/claims.d/CLAIM-tmpw8xkt.md)); constraints as amortized realizations
-    ([CLAIM-tmpqpd2p](record/claims.d/CLAIM-tmpqpd2p.md)); overconsolidation as a generalization of overfitting
-    ([CLAIM-tmp8ljvp](record/claims.d/CLAIM-tmp8ljvp.md)); questions on role abstraction and fibrations
-    ([QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md)), optimal learning ([QUESTION-tmpwqepn](record/questions.d/QUESTION-tmpwqepn.md)) and what it
-    is for a learning system to know ([QUESTION-tmpo8ddc](record/questions.d/QUESTION-tmpo8ddc.md)); the genres and
-    audiences example ([CASE-tmpsjjgx](record/cases.d/CASE-tmpsjjgx.md)); the Pythia study the owner asked
-    for ([CASE-tmphsr99](record/cases.d/CASE-tmphsr99.md)).
+    ([CLAIM-762](record/claims.d/CLAIM-762.md)); constraints as amortized realizations
+    ([CLAIM-761](record/claims.d/CLAIM-761.md)); overconsolidation as a generalization of overfitting
+    ([CLAIM-758](record/claims.d/CLAIM-758.md)); questions on role abstraction and fibrations
+    ([QUESTION-492](record/questions.d/QUESTION-492.md)), optimal learning ([QUESTION-495](record/questions.d/QUESTION-495.md)) and what it
+    is for a learning system to know ([QUESTION-493](record/questions.d/QUESTION-493.md)); the genres and
+    audiences example ([CASE-296](record/cases.d/CASE-296.md)); the Pythia study the owner asked
+    for ([CASE-294](record/cases.d/CASE-294.md)).
   - A's, Proposed: dynamical against economic separation of time scales
-    ([CLAIM-tmp449rr](record/claims.d/CLAIM-tmp449rr.md), [ARG-tmpy9z67](record/arguments.d/ARG-tmpy9z67.md)); three learning frontiers
-    ([CLAIM-tmp1l2s7](record/claims.d/CLAIM-tmp1l2s7.md)); an acquisition valued by its effect on later
-    acquisitions ([CLAIM-tmp5gbzr](record/claims.d/CLAIM-tmp5gbzr.md), with [CASE-tmpplox8](record/cases.d/CASE-tmpplox8.md) and [ARG-tmpm8rng](record/arguments.d/ARG-tmpm8rng.md));
-    three questions ([QUESTION-tmpcb0bf](record/questions.d/QUESTION-tmpcb0bf.md), [QUESTION-tmp57ji2](record/questions.d/QUESTION-tmp57ji2.md),
-    [QUESTION-tmprj00l](record/questions.d/QUESTION-tmprj00l.md)); a term, learning ([TERM-tmp1ix99](record/terms.d/TERM-tmp1ix99.md)).
+    ([CLAIM-755](record/claims.d/CLAIM-755.md), [ARG-121](record/arguments.d/ARG-121.md)); three learning frontiers
+    ([CLAIM-754](record/claims.d/CLAIM-754.md)); an acquisition valued by its effect on later
+    acquisitions ([CLAIM-756](record/claims.d/CLAIM-756.md), with [CASE-295](record/cases.d/CASE-295.md) and [ARG-120](record/arguments.d/ARG-120.md));
+    three questions ([QUESTION-491](record/questions.d/QUESTION-491.md), [QUESTION-490](record/questions.d/QUESTION-490.md),
+    [QUESTION-494](record/questions.d/QUESTION-494.md)); a term, learning ([TERM-131](record/terms.d/TERM-131.md)).
   - Read: Gili et al. on fibration symmetry breaking in a language network
-    ([LIT-tmp8nrv2](record/literature.d/LIT-tmp8nrv2.md)) and Li and Webb on what drives symbolic mechanisms
-    ([LIT-tmpqgxkn](record/literature.d/LIT-tmpqgxkn.md)). Iqbal and Welling's workshop paper ([LIT-tmp01nqp](record/literature.d/LIT-tmp01nqp.md)) is
-    Unfetched, with its authors' 2026 paper ([LIT-tmpyahtz](record/literature.d/LIT-tmpyahtz.md)) read as a
-    stand-in for its thesis and AKOrN ([LIT-tmpfy72n](record/literature.d/LIT-tmpfy72n.md)) skimmed.
+    ([LIT-2804](record/literature.d/LIT-2804.md)) and Li and Webb on what drives symbolic mechanisms
+    ([LIT-2830](record/literature.d/LIT-2830.md)). Iqbal and Welling's workshop paper ([LIT-2787](record/literature.d/LIT-2787.md)) is
+    Unfetched, with its authors' 2026 paper ([LIT-2840](record/literature.d/LIT-2840.md)) read as a
+    stand-in for its thesis and AKOrN ([LIT-2814](record/literature.d/LIT-2814.md)) skimmed.
   - Forty-six works the exchange cites registered unread (Deferred).
   - Dated notes on thirty entries.
 
@@ -38,18 +38,18 @@
 
 ### Added (after the owner's review, 2026-11-19)
 
-- Work saved against work transferred ([CLAIM-tmpkrk41](record/claims.d/CLAIM-tmpkrk41.md)), at the owner's
+- Work saved against work transferred ([CLAIM-760](record/claims.d/CLAIM-760.md)), at the owner's
   request.
 - The assistant's contributions, accepted by the owner: a deadline for
-  relief from overconsolidation ([CLAIM-tmp5vg7p](record/claims.d/CLAIM-tmp5vg7p.md)); a closure test for the
-  genres case ([CASE-tmpsjjgx](record/cases.d/CASE-tmpsjjgx.md)); and the check of the symmetry route to the
-  owner's fibration hunch ([CLAIM-tmpj540o](record/claims.d/CLAIM-tmpj540o.md)), which holds only where the
-  relabelling group permutes units, and corrects [QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md).
+  relief from overconsolidation ([CLAIM-757](record/claims.d/CLAIM-757.md)); a closure test for the
+  genres case ([CASE-296](record/cases.d/CASE-296.md)); and the check of the symmetry route to the
+  owner's fibration hunch ([CLAIM-759](record/claims.d/CLAIM-759.md)), which holds only where the
+  relabelling group permutes units, and corrects [QUESTION-492](record/questions.d/QUESTION-492.md).
 - Three new part accounts at the synthesis review of 2026-11-19: how an
-  equivalence becomes a unit ([SYNTHESIS-tmplih4n](record/syntheses.d/SYNTHESIS-tmplih4n.md), formal-apparatus);
-  stored work and the cost structure of possibility ([SYNTHESIS-tmphvng7](record/syntheses.d/SYNTHESIS-tmphvng7.md),
+  equivalence becomes a unit ([SYNTHESIS-108](record/syntheses.d/SYNTHESIS-108.md), formal-apparatus);
+  stored work and the cost structure of possibility ([SYNTHESIS-106](record/syntheses.d/SYNTHESIS-106.md),
   realizability); what learning does to what can still be learned
-  ([SYNTHESIS-tmpfhzxg](record/syntheses.d/SYNTHESIS-tmpfhzxg.md), learned-structure). The line accounts
+  ([SYNTHESIS-105](record/syntheses.d/SYNTHESIS-105.md), learned-structure). The line accounts
   [SYNTHESIS-088](record/syntheses.d/SYNTHESIS-088.md), [SYNTHESIS-043](record/syntheses.d/SYNTHESIS-043.md) and [SYNTHESIS-030](record/syntheses.d/SYNTHESIS-030.md) integrate them.
 - Revisions at ChatGPT's review of 2026-11-19, forwarded by the owner:
   the learning term counts memorization as learning; the deadline claim
@@ -57,7 +57,7 @@
   condition matches its quantifier; the three-frontier claim allows
   context-dependent scalars; an intervention arm for the genres case; a
   primary estimand for the Pythia study; and a cross-line account of the
-  five-step chain ([SYNTHESIS-tmpk81pz](record/syntheses.d/SYNTHESIS-tmpk81pz.md)).
+  five-step chain ([SYNTHESIS-107](record/syntheses.d/SYNTHESIS-107.md)).
 - The four claims and the argument stated in the exchange's sense of
-  learning now name it in `uses` ([TERM-tmp1ix99](record/terms.d/TERM-tmp1ix99.md)), so the term lists what
+  learning now name it in `uses` ([TERM-131](record/terms.d/TERM-131.md)), so the term lists what
   is built on it.

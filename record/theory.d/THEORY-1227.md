@@ -91,4 +91,4 @@ transition" (p. 283).
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §1 and A29 §2 use the relative-phase equation φ̇ = −a sin φ − 2b sin 2φ with anti-phase stable iff 4b > a. The reader rechecked it: the anti-phase eigenvalue is a − 4b. [CASE-227](../cases.d/CASE-227.md) sets a = 1, b = c/2 and makes c a maintained variable, so anti-phase is stable iff c > ½ and its escape barrier is (2c − 1)²/(4c). No change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-A parallel ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): Wang and Slotine build in-phase and anti-phase locked gaits by choosing the sign of each coupling (Ex. 4.3). They analyse no switching at a critical frequency, which is this account's phenomenon.
+A parallel ([NOTE-2096](../notes.d/NOTE-2096.md)): Wang and Slotine build in-phase and anti-phase locked gaits by choosing the sign of each coupling (Ex. 4.3). They analyse no switching at a critical frequency, which is this account's phenomenon.

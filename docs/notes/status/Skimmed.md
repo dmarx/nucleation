@@ -6,7 +6,7 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-137 of 2083 NOTE documents. Back to the [full index](../README.md).
+145 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -147,3 +147,11 @@
 | [NOTE-2064](../../../record/notes.d/NOTE-2064.md) | Shaw-Young — Global Institutions and Human Rights (on Miller's connection theory) | Reports Miller's 2007 connection theory with page numbers: outcome and remedial responsibility come apart, and remedial responsibility is assigned through six connections (moral, outcome and causal responsibility, benefit, capacity, community), so that capacity alone can put the duty of repair on a faultless agent. | Skimmed |
 | [NOTE-2076](../../../record/notes.d/NOTE-2076.md) | Shue — Basic rights, introduction and index | From the Introduction: rights to subsistence, security and liberty are basic rights, so a small set of what are counted as economic rights has the highest priority, and the main task in defending them is to answer the objection that their duties "would ask too much of others". From the index: the book's correlative duties are "of avoidance, protection and aid", with a "tripartite analysis" at pp. 54–55, not the treaty bodies' "respect, protect and fulfil". The argument for the triad was not read. | Skimmed |
 | [NOTE-2077](../../../record/notes.d/NOTE-2077.md) | Locke — Second Treatise, on slavery, the legislative and trust | No one has power over his own life, so "a man ... cannot, by compact, or his own consent, enslave himself", and "No body can give more power than he has himself" (§23), except that one may forfeit life "by his fault". The legislative holds only the joint power its members could give, "and no body has an absolute arbitrary power over himself" (§135); it is "only a fiduciary power" that the people may remove on breach of trust, though only once government is dissolved (§149). "The people shall be judge" (§240), a judgment "they cannot part with" (§168). | Skimmed |
+| [NOTE-2086](../../../record/notes.d/NOTE-2086.md) | Geiger and others 2025 — Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability |  | Skimmed |
+| [NOTE-2092](../../../record/notes.d/NOTE-2092.md) | Neacsu and others 2026 — Reviewing Structure Learning in and Out of the Active Inference Framework |  | Skimmed |
+| [NOTE-2107](../../../record/notes.d/NOTE-2107.md) | Miyato and others 2024 — Artificial Kuramoto Oscillatory Neurons |  | Skimmed |
+| [NOTE-2108](../../../record/notes.d/NOTE-2108.md) | Hospedales and others 2020 — Meta-Learning in Neural Networks: A Survey |  | Skimmed |
+| [NOTE-2117](../../../record/notes.d/NOTE-2117.md) | Smith, Friston and Whyte 2022 — A step-by-step tutorial on active inference and its application to empirical data |  | Skimmed |
+| [NOTE-2118](../../../record/notes.d/NOTE-2118.md) | Settles 2009 (rev. 2010) — Active Learning Literature Survey |  | Skimmed |
+| [NOTE-2124](../../../record/notes.d/NOTE-2124.md) | Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors |  | Skimmed |
+| [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |

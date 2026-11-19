@@ -67,6 +67,6 @@ are outside the claim and cannot settle it.
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A20 §2 notes that balanced synchrony partitions form a lattice (Stewart 2007; unread, identifier not given) and that "The lattice of structurally admissible synchrony patterns would generally be different from the collection of attractors and basins actually realized." That is this question's comparison of computed orbits with observed clusters, generalized from symmetry to balance ([THEORY-1065](../theory.d/THEORY-1065.md)). The suggestion is A's; the question stays open.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2044 — Proposed; cited from the readings of 2026-11-19 -->
 
-Wang and Slotine ([THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md), bears_on; [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): sufficient global conditions for full and symmetric-subgroup synchrony in networks of identical units with diffusive coupling (Theorem 6). They do not test predictions from symmetry orbits, so the question stays open.
+Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md), bears_on; [NOTE-2096](../notes.d/NOTE-2096.md)): sufficient global conditions for full and symmetric-subgroup synchrony in networks of identical units with diffusive coupling (Theorem 6). They do not test predictions from symmetry orbits, so the question stays open.

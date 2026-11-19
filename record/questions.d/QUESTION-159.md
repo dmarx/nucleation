@@ -18,7 +18,7 @@ summary: >-
   (kernel regression that stores the context). Whether the pattern reaches
   other layer classes, or is bounded by one, is open.
 ---
-<!-- inactive-ok-file: THEORY-tmpvf16r — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2050 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-159: Does an exact train-then-predict identity, of the kind proved for unnormalized linear attention and for softmax attention, hold for further sequence-layer classes such as delta-rule or mini-batch inner updates, and is there a standard attention layer whose dependence on its context admits no description as any learner's train-then-predict step?
 
@@ -61,6 +61,6 @@ Whether this counts as an exact identity of the kind asked, or is too immediate 
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Akyürek and colleagues ([THEORY-tmpvf16r](../theory.d/THEORY-tmpvf16r.md)), read: leaves the question open. Their Theorems 1 and 2 show that chosen transformer weights can carry one gradient step, or one Sherman–Morrison update of a ridge solution, on in-context examples. These are existence constructions for particular weights, not identities for a layer class, and the question says that restating constructions of this kind does not count. Their measurements of trained models, which match ridge or least squares rather than one gradient step, are excluded by the question's terms as well.
+Akyürek and colleagues ([THEORY-2050](../theory.d/THEORY-2050.md)), read: leaves the question open. Their Theorems 1 and 2 show that chosen transformer weights can carry one gradient step, or one Sherman–Morrison update of a ridge solution, on in-context examples. These are existence constructions for particular weights, not identities for a layer class, and the question says that restating constructions of this kind does not count. Their measurements of trained models, which match ridge or least squares rather than one gradient step, are excluded by the question's terms as well.
 
 No status change.

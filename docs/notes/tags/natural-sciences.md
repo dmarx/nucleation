@@ -4,7 +4,7 @@
 
 **natural-sciences**.
 
-238 of 2083 NOTE documents. Back to the [full index](../README.md).
+243 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -246,3 +246,8 @@
 | [NOTE-1983](../../../record/notes.d/NOTE-1983.md) | Sadreev — Interference traps waves in an open system | A BIC is a zero-width eigenvalue of the effective non-Hermitian Hamiltonian, and decoupling from every continuum channel is necessary and sufficient for one. The routes are symmetry, Friedrich–Wintgen interference (a zero-width state beside a superradiant partner), Fabry–Pérot and accident. The Fano resonance collapses at the BIC point. Real ones are quasi-BICs. | Skimmed |
 | [NOTE-1992](../../../record/notes.d/NOTE-1992.md) | Zhang et al. — Static topological solitons in mechanical metamaterials | Compressed past a critical strain, the cells of a perforated elastomer buckle into two mirror rotations. Ordered domain walls between them are the static kink–antikink lattice of the λφ⁴ equation, with net charge zero, pinned by a lattice barrier. These are φ⁴ kinks, not Kane–Lubensky polarization. They exist only while the compression holds the double well. | Read |
 | [NOTE-2079](../../../record/notes.d/NOTE-2079.md) | Holm and Stechmann — Hasimoto transformation and vortex soliton motion driven by fluid helicity | Under the Rasetti–Regge Dirac bracket, the local induction approximation of fluid helicity, taken as a vortex filament's Hamiltonian, gives a curve motion that the Hasimoto transformation maps to the complex modified KdV equation, the NLS hierarchy's second flow. Formal; no soliton constructed. Read as a second neighbour of Hasimoto (1972). | Read |
+| [NOTE-2098](../../../record/notes.d/NOTE-2098.md) | Omidvar and others 2025 — Racetrack computing with a topological boundary ratchet |  | Read |
+| [NOTE-2112](../../../record/notes.d/NOTE-2112.md) | Suzuki, Li and Zurek 2026 — Machine learning topological defect formation: When are the defects made? |  | Read |
+| [NOTE-2115](../../../record/notes.d/NOTE-2115.md) | Rudner and others 2013 — Anomalous edge states and the bulk-edge correspondence for periodically-driven two dimensional systems |  | Read |
+| [NOTE-2124](../../../record/notes.d/NOTE-2124.md) | Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors |  | Skimmed |
+| [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |

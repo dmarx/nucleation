@@ -107,4 +107,4 @@ is 2.751; αH_3 = 2.750 (record script, 2026-10-27).
   steps, and keeps this marginal only at the first step.
 
 ## Note of 2026-11-19: Carnap, read
-Background ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): Carnap's symmetry requirement (§§90–91) is the exchangeability over objects this account's limit assumes; his finding that only the numbers of individuals with each property matter (§92) is the reduction to equivalence classes in another setting.
+Background ([NOTE-2110](../notes.d/NOTE-2110.md)): Carnap's symmetry requirement (§§90–91) is the exchangeability over objects this account's limit assumes; his finding that only the numbers of individuals with each property matter (§92) is the reduction to equivalence classes in another setting.

@@ -18,7 +18,7 @@ summary: >-
   been calling a delivery frame". Kept as "convention induction" in
   outlines v3 and v4; absent from the manuscript.
 ---
-<!-- inactive-ok-file: THEORY-tmppqtz3 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2039 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-264 — Proposed; filed today, cited as a reading that does not answer this question -->
 
@@ -71,6 +71,6 @@ than either is to demonstrations.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Pan and colleagues ([THEORY-tmppqtz3](../theory.d/THEORY-tmppqtz3.md)), read, show a task recovered from demonstrations whose labels are random within the correct label set, at every model size. That bears on the question's first half as evidence: demonstrations establish a convention without accurate propositional examples. It is for lexical classification, not for a stance, and transfer across wordings is not tested, so it does not answer the question.
+Pan and colleagues ([THEORY-2039](../theory.d/THEORY-2039.md)), read, show a task recovered from demonstrations whose labels are random within the correct label set, at every model size. That bears on the question's first half as evidence: demonstrations establish a convention without accurate propositional examples. It is for lexical classification, not for a stance, and transfer across wordings is not tested, so it does not answer the question.
 
 No status change.

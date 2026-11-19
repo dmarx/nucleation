@@ -9,9 +9,9 @@ history:
 - version: 2
   date: '2026-11-19'
   note: >-
-    Integrates a new part account, SYNTHESIS-tmplih4n, filed at the owner's request
+    Integrates a new part account, SYNTHESIS-108, filed at the owner's request
     of 2026-11-19 from the exchange "Topological protection explained":
-    how an equivalence becomes a unit (the owner's U10 hypothesis, CLAIM-tmpw8xkt, with the owner's genres example and fibration hunch). No other change.
+    how an equivalence becomes a unit (the owner's U10 hypothesis, CLAIM-762, with the owner's genres example and fibration hunch). No other change.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the formal-apparatus line that neither a part
@@ -25,7 +25,7 @@ date: '2026-11-11'
 line:
 - formal-apparatus
 integrates:
-- SYNTHESIS-tmplih4n
+- SYNTHESIS-108
 - SYNTHESIS-076
 - SYNTHESIS-075
 - SYNTHESIS-079
@@ -102,7 +102,7 @@ summary: >-
   filed by derivation. The account adds nothing of its own; its standing
   is its components'.
 ---
-<!-- inactive-ok-file: SYNTHESIS-tmplih4n CLAIM-tmpw8xkt — Proposed; the part account integrated on 2026-11-19 and its hinge -->
+<!-- inactive-ok-file: SYNTHESIS-108 CLAIM-762 — Proposed; the part account integrated on 2026-11-19 and its hinge -->
 <!-- inactive-ok-file: ADR-047 SYNTHESIS-008 SYNTHESIS-009 — Superseded; the part accounts, the claims filed here, decisions and components, cited with their standing -->
 <!-- inactive-ok-file: ADR-075 ADR-083 CASE-227 CLAIM-037 CLAIM-128 CLAIM-618 CLAIM-625 CLAIM-639 CLAIM-640 CLAIM-641 SYNTHESIS-027 SYNTHESIS-028 SYNTHESIS-030 SYNTHESIS-040 SYNTHESIS-042 SYNTHESIS-047 SYNTHESIS-050 SYNTHESIS-051 SYNTHESIS-061 SYNTHESIS-063 SYNTHESIS-067 SYNTHESIS-068 SYNTHESIS-071 SYNTHESIS-072 SYNTHESIS-073 SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-076 SYNTHESIS-077 SYNTHESIS-078 SYNTHESIS-079 SYNTHESIS-080 SYNTHESIS-081 SYNTHESIS-082 SYNTHESIS-083 SYNTHESIS-084 SYNTHESIS-085 SYNTHESIS-086 SYNTHESIS-087 SYNTHESIS-089 THEORY-005 THEORY-080 THEORY-085 THEORY-325 — Proposed; the part accounts, the claims filed here, decisions and components, cited with their standing -->
 <!-- inactive-ok-file: QUESTION-240 QUESTION-251 QUESTION-293 — Answered; the part accounts, the claims filed here, decisions and components, cited with their standing -->
@@ -143,7 +143,7 @@ integrated.*
 - **Random projections and sparse recovery ([SYNTHESIS-085](SYNTHESIS-085.md)), 3 entries.** [QUESTION-120](../questions.d/QUESTION-120.md), [QUESTION-168](../questions.d/QUESTION-168.md) and [QUESTION-251](../questions.d/QUESTION-251.md).
 - **Coarse-graining and renormalization ([SYNTHESIS-084](SYNTHESIS-084.md)), 3 entries.** [QUESTION-185](../questions.d/QUESTION-185.md), [QUESTION-205](../questions.d/QUESTION-205.md) and [QUESTION-232](../questions.d/QUESTION-232.md), all open.
 
-- **Added 2026-11-19:** [SYNTHESIS-tmplih4n](SYNTHESIS-tmplih4n.md), the account of how an equivalence becomes a unit (the owner's U10 hypothesis, [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md), with the owner's genres example and fibration hunch).
+- **Added 2026-11-19:** [SYNTHESIS-108](SYNTHESIS-108.md), the account of how an equivalence becomes a unit (the owner's U10 hypothesis, [CLAIM-762](../claims.d/CLAIM-762.md), with the owner's genres example and fibration hunch).
 
 ## Integrated directly
 

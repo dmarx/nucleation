@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 125 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 127 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -259,3 +259,7 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-116](../record/arguments.d/ARG-116.md) — Grossman and Hart carry the definition of residual rights of control, and not the claim that their holder decides an uncovered contingency alone or that the control is exercised and seen only when the contingency arises: in their model the parties renegotiate, and the allocation acts in advance through investment *(Proposed, source)*
 - [CLAIM-751](../record/claims.d/CLAIM-751.md) — The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator's distraction to her company's safety culture and the state's oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source *(Proposed, thesis)*
   - [ARG-118](../record/arguments.d/ARG-118.md) — The NTSB's Tempe investigation, barred from assigning blame or liability, still traced the operator's distraction to the company and the state and directed its recommendations to them, which shows that upstream provenance can be carried without blame *(Proposed, existence)*
+- [CLAIM-755](../record/claims.d/CLAIM-755.md) — Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in the sense of the owner's scale-separation claim, and a constraint that is both is a further fact *(Proposed, thesis)*
+  - [ARG-121](../record/arguments.d/ARG-121.md) — The three-arm case's slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions *(Proposed, existence)*
+- [CLAIM-756](../record/claims.d/CLAIM-756.md) — An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted *(Proposed, thesis)*
+  - [ARG-120](../record/arguments.d/ARG-120.md) — The stipulated two-step acquisition shows that an acquisition with a negative return on its own tasks can belong to the best learning policy, because of what it does to the cost of another *(Proposed, existence)*

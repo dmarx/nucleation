@@ -36,7 +36,7 @@ history:
 - version: 5
   date: '2026-11-19'
   note: >-
-    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    Joins the work cost-structure-of-possibility (ADR-106), the
     owner's manuscript from the exchange "Topological protection
     explained": A43 §8.1 states its proposition, and §10's Hypothesis
     4 restates it. No other change.
@@ -88,8 +88,8 @@ summary: >-
   decline", and the proposed study is [CASE-262](../cases.d/CASE-262.md). The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmp8wxgt — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-tmp1l2s7 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2006 THEORY-2015 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-754 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-1847 THEORY-1839 THEORY-1848 THEORY-1863 THEORY-1856 THEORY-343 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-105 THEORY-1841 THEORY-1844 THEORY-1845 THEORY-1850 THEORY-1852 THEORY-1857 THEORY-1860 THEORY-1866 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
@@ -204,16 +204,16 @@ The claim takes the line flourishing-and-meaning ([ADR-099](../decisions.d/ADR-0
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A cited this claim often and rightly. A54 §8 and A71 §10 predict its pattern for training: "Systems with matched present performance can have different future acquisition-cost frontiers because of how they were trained" (A71 §10). That carries the claim from support to training regimes. The claim's derivation is in [CLAIM-605](CLAIM-605.md)'s model of a capacity learned by doing; whether a network's adaptability behaves like that capacity is what the prediction would test, not something the claim shows. A's empirical cases are Springer et al. 2025 on overtrained language models ([LIT-tmpq5g0q](../literature.d/LIT-tmpq5g0q.md)) and Han et al. 2026 on weight decay and plasticity ([LIT-tmpkfcwr](../literature.d/LIT-tmpkfcwr.md)), both registered unread.
+A cited this claim often and rightly. A54 §8 and A71 §10 predict its pattern for training: "Systems with matched present performance can have different future acquisition-cost frontiers because of how they were trained" (A71 §10). That carries the claim from support to training regimes. The claim's derivation is in [CLAIM-605](CLAIM-605.md)'s model of a capacity learned by doing; whether a network's adaptability behaves like that capacity is what the prediction would test, not something the claim shows. A's empirical cases are Springer et al. 2025 on overtrained language models ([LIT-2829](../literature.d/LIT-2829.md)) and Han et al. 2026 on weight decay and plasticity ([LIT-2820](../literature.d/LIT-2820.md)), both registered unread.
 
-A43's manuscript listed its version as a hypothesis (H4), which understates this claim: it is Active and demonstrated in its model. Two claims filed from the exchange rest on it: [CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md) (overconsolidation) and [CLAIM-tmp1l2s7](CLAIM-tmp1l2s7.md) (three frontiers).
+A43's manuscript listed its version as a hypothesis (H4), which understates this claim: it is Active and demonstrated in its model. Two claims filed from the exchange rest on it: [CLAIM-758](CLAIM-758.md) (overconsolidation) and [CLAIM-754](CLAIM-754.md) (three frontiers).
 
 No status change.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Han and colleagues ([THEORY-tmp8wxgt](../theory.d/THEORY-tmp8wxgt.md)), read, give a training case of this claim. With all else fixed, OLMo-2-1B pre-trained at weight decay 0.3 or 1.0 ends with a worse pre-training loss than at 0.1 and performs "noticeably better after fine-tuning", and models with similar losses also diverge after fine-tuning. Present capability does not rank later capability, here between training regimes. That supports the claim's consequence with independent evidence; it does not touch the derivation, which is in [CLAIM-605](CLAIM-605.md)'s model.
+Han and colleagues ([THEORY-2015](../theory.d/THEORY-2015.md)), read, give a training case of this claim. With all else fixed, OLMo-2-1B pre-trained at weight decay 0.3 or 1.0 ends with a worse pre-training loss than at 0.1 and performs "noticeably better after fine-tuning", and models with similar losses also diverge after fine-tuning. Present capability does not rank later capability, here between training regimes. That supports the claim's consequence with independent evidence; it does not touch the derivation, which is in [CLAIM-605](CLAIM-605.md)'s model.
 
-Springer and colleagues ([THEORY-tmp3dqbl](../theory.d/THEORY-tmp3dqbl.md)), read: past an inflection point, longer pre-training leaves a base model that keeps improving and a fine-tuned model that gets worse. That too is present capability failing to rank later capability, along one training run. The mechanism they give is forgetting under the fine-tune, not a capacity decaying with disuse, so it supports the evaluative consequence and not the model the derivation uses.
+Springer and colleagues ([THEORY-2006](../theory.d/THEORY-2006.md)), read: past an inflection point, longer pre-training leaves a base model that keeps improving and a fine-tuned model that gets worse. That too is present capability failing to rank later capability, along one training run. The mechanism they give is forgetting under the fine-tune, not a capacity decaying with disuse, so it supports the evaluative consequence and not the model the derivation uses.
 
 No status change.

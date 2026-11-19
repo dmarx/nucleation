@@ -31,7 +31,7 @@ summary: >-
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
 ---
-<!-- inactive-ok-file: THEORY-tmp8my3p — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-218: Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?
 
@@ -112,11 +112,11 @@ exchange ran together.
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-[THEORY-1065](../theory.d/THEORY-1065.md)'s balanced partitions belong with the third kind of unit this question records. They are classes of members fixed by equal inputs from each class, with no requirement that members of a class be coupled to one another. The condition is the dual of [THEORY-755](../theory.d/THEORY-755.md)'s: in the linear case a balanced partition makes the subspace where each class is synchronized invariant, while a column-equitable one makes the block sums close. Gili and colleagues ([THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md), read) use them as functional units of a language network, though their pipeline assumes that the synchrony cluster and the fibre coincide. A29 §3 adds a caution the record had in general form: a fibration gives an invariant synchrony subspace, not a closed quotient of states off it.
+[THEORY-1065](../theory.d/THEORY-1065.md)'s balanced partitions belong with the third kind of unit this question records. They are classes of members fixed by equal inputs from each class, with no requirement that members of a class be coupled to one another. The condition is the dual of [THEORY-755](../theory.d/THEORY-755.md)'s: in the linear case a balanced partition makes the subspace where each class is synchronized invariant, while a column-equitable one makes the block sums close. Gili and colleagues ([THEORY-2014](../theory.d/THEORY-2014.md), read) use them as functional units of a language network, though their pipeline assumes that the synchrony cluster and the fibre coincide. A29 §3 adds a caution the record had in general form: a fibration gives an invariant synchrony subspace, not a closed quotient of states off it.
 
 A29 §3 also gives a two-line case for the closure side. Under ż = aξ, ξ̇ = −λξ, the quantity q = z + (a/λ)ξ is conserved, so the class fixed by a common future is set by q, not by z. The filer checked the algebra: dq/dt = aξ + (a/λ)(−λξ) = 0. The unit mixes a slow and a fast coordinate, so it is a demonstrated instance of a unit that is a function of the whole state rather than a subset of members. It does not supply the independent mark of unity the question asks for.
 
 No status change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-A parallel ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): in Wang and Slotine's networks the synchronized mode is a closed collective mode, with its own dynamics, reached from any initial condition above a threshold. Whether such a mode acts as a unit is not their question.
+A parallel ([NOTE-2096](../notes.d/NOTE-2096.md)): in Wang and Slotine's networks the synchronized mode is a closed collective mode, with its own dynamics, reached from any initial condition above a threshold. Whether such a mode acts as a unit is not their question.

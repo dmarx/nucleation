@@ -41,7 +41,7 @@ summary: >-
   case and asked for the general claim. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp3vfqj THEORY-tmpeaw52 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2008 THEORY-2024 — Proposed; cited in this filing of 2026-11-19 -->
 
 <!-- inactive-ok-file: CASE-260 CASE-259 ARG-101 — Proposed; the constructions and the argument filed with this claim -->
 
@@ -96,8 +96,8 @@ The argument is [ARG-101](../arguments.d/ARG-101.md), an existence proof.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Mordvintsev and colleagues ([THEORY-tmpeaw52](../theory.d/THEORY-tmpeaw52.md)), read, show one form, a grown lizard, kept either as an almost stable pattern that does not repair or as an attractor that repairs itself after a strike, depending only on how the shared rule was trained. That supports the claim's thesis that the mode of persistence is not fixed by the form, in a trained system rather than Life. What changes the mode there is training, not a role, so it does not bear on the claim's second clause.
+Mordvintsev and colleagues ([THEORY-2024](../theory.d/THEORY-2024.md)), read, show one form, a grown lizard, kept either as an almost stable pattern that does not repair or as an attractor that repairs itself after a strike, depending only on how the shared rule was trained. That supports the claim's thesis that the mode of persistence is not fixed by the form, in a trained system rather than Life. What changes the mode there is training, not a role, so it does not bear on the claim's second clause.
 
-Masumori and colleagues ([THEORY-tmp3vfqj](../theory.d/THEORY-tmp3vfqj.md)), read, show the trained lizard is not a fixed point: the system "continuously traverses a structured region of state space" and returns to it after damage. That is a mode between the claim's fixed point and repair after a strike, an attracting recurrent state that is repairing all the time. The claim's list is given as what can hold, not as exhaustive, so this extends it and leaves the claim standing.
+Masumori and colleagues ([THEORY-2008](../theory.d/THEORY-2008.md)), read, show the trained lizard is not a fixed point: the system "continuously traverses a structured region of state space" and returns to it after damage. That is a mode between the claim's fixed point and repair after a strike, an attracting recurrent state that is repairing all the time. The claim's list is given as what can hold, not as exhaustive, so this extends it and leaves the claim standing.
 
 No status change.

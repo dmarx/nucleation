@@ -88,6 +88,6 @@ diffusion measured at the same time. Or a derivation of collapse as a
 property of SGD's stationary distribution rather than of a limit point.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-<!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2009 — Proposed; cited from the readings of 2026-11-19 -->
 
-Chen and colleagues ([THEORY-tmp4kekv](../theory.d/THEORY-tmp4kekv.md), bears_on; [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): at a large learning rate collapse continues after the training loss plateaus, "even after the training loss plateaus, further extended training with a large learning rate η will continue to drive stochastic collapse of small singular modes" (p. 10). Neuron coincidence is one structure that keeps tightening while the loss stands still.
+Chen and colleagues ([THEORY-2009](../theory.d/THEORY-2009.md), bears_on; [NOTE-2127](../notes.d/NOTE-2127.md)): at a large learning rate collapse continues after the training loss plateaus, "even after the training loss plateaus, further extended training with a large learning rate η will continue to drive stochastic collapse of small singular modes" (p. 10). Neuron coincidence is one structure that keeps tightening while the loss stands still.

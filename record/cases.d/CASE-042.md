@@ -40,7 +40,7 @@ draws_on:
 - THEORY-176
 - THEORY-156
 ---
-<!-- inactive-ok-file: CASE-tmpsjjgx CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-296 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as claims this case bears on, not as settled -->
 <!-- inactive-ok-file: LIT-677 THEORY-182 — Proposed; cited as readings the record already held that bear on the case -->
@@ -161,6 +161,6 @@ evidence for A218's Recovery step, not for its Ontology step.
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-At U10 the owner gave an example he said should be described in the record: genres and audiences emerging as clusters in engagement data such as person–film ratings or user–subreddit participation. It was not on record. It is now filed as [CASE-tmpsjjgx](CASE-tmpsjjgx.md), which reuses this case's missing-not-at-random rule and its gauge caveat. The estimator family is the same. The object differs: kinds of film and of audience, and how the classes feed back on the data once a platform acts on them, rather than communicative kinds. A27 §5 linked the two cases with [CLAIM-481](../claims.d/CLAIM-481.md) and the owner's thesis that collapse into equivalence classes is how classes are reified ([CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md)).
+At U10 the owner gave an example he said should be described in the record: genres and audiences emerging as clusters in engagement data such as person–film ratings or user–subreddit participation. It was not on record. It is now filed as [CASE-296](CASE-296.md), which reuses this case's missing-not-at-random rule and its gauge caveat. The estimator family is the same. The object differs: kinds of film and of audience, and how the classes feed back on the data once a platform acts on them, rather than communicative kinds. A27 §5 linked the two cases with [CLAIM-481](../claims.d/CLAIM-481.md) and the owner's thesis that collapse into equivalence classes is how classes are reified ([CLAIM-762](../claims.d/CLAIM-762.md)).
 
 No status change.

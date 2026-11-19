@@ -44,4 +44,4 @@ Trained networks are found with characters of ℤ/p, with circles for months, an
 A non-abelian task learned without a matrix representation imposed, analysed without the group being supplied in advance. Its irreducibles would be either recovered from the weights or shown to be unrecoverable.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): one answer to where learned structure comes from is the parameterization's own symmetry plus gradient noise, which pulls units toward exact copies with no data symmetry (Chen and colleagues). Their sets are redundancies, not structure of the data.
+A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): one answer to where learned structure comes from is the parameterization's own symmetry plus gradient noise, which pulls units toward exact copies with no data symmetry (Chen and colleagues). Their sets are redundancies, not structure of the data.

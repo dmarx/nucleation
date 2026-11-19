@@ -92,9 +92,9 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The claim is unchanged.
 
 ## Note of 2026-11-19: Carnap, read
-<!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2004 — newly filed; the reading of 2026-11-19 -->
 
-Carnap's theory of relevance ([THEORY-tmp1kxhj](../theory.d/THEORY-tmp1kxhj.md), corroborates) gives the
+Carnap's theory of relevance ([THEORY-2004](../theory.d/THEORY-2004.md), corroborates) gives the
 claim a logical ground, under every regular confirmation function. High
 confirmation "is not transitive" (§59). Two items each positive to h can
 be negative to h together (§69, the chess tournament). And that i is

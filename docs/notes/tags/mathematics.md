@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-307 of 2083 NOTE documents. Back to the [full index](../README.md).
+313 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -315,3 +315,9 @@
 | [NOTE-1993](../../../record/notes.d/NOTE-1993.md) | Yang, Shi and Liu — Orthogonal Model Merging | Merges orthogonally finetuned models by mapping each rotation to so(d) with the inverse Cayley transform, averaging, and rescaling the average to undo the norm lost when conflicting directions cancel. Extends to LoRA and full fine-tuning by splitting each update into a Procrustes rotation and a residual. On five Llama-3.1-8B OFT experts the correction is what lifts the merge (41.01 to 46.25); non-OFT gains are small and mixed. | Read |
 | [NOTE-2017](../../../record/notes.d/NOTE-2017.md) v2 | Umpleby (2016) — Vladimir Lefebvre's Theory of Two Systems of Ethical Cognition | A short, memoir-style exposition by a cybernetician who worked with Lefebvre. It restates the thesis of Algebra of Conscience: the dominant ethical systems of the West and the USSR differ. In Lefebvre's model whether exponents in a three-level model of reflexion combine by addition or multiplication generates two systems, glossed as whether the end justifies the means; crossing willingness to compromise with self-esteem gives four types (saint, hero, philistine, dissembler) that fall differently in each. Umpleby attributes negotiating misunderstandings to the difference, from anecdote, and reports without a source that the theory was used at the highest levels. | Read |
 | [NOTE-2079](../../../record/notes.d/NOTE-2079.md) | Holm and Stechmann — Hasimoto transformation and vortex soliton motion driven by fluid helicity | Under the Rasetti–Regge Dirac bracket, the local induction approximation of fluid helicity, taken as a vortex filament's Hamiltonian, gives a curve motion that the Hasimoto transformation maps to the complex modified KdV equation, the NLS hierarchy's second flow. Formal; no soliton constructed. Read as a second neighbour of Hasimoto (1972). | Read |
+| [NOTE-2088](../../../record/notes.d/NOTE-2088.md) | Lohmiller and Slotine 1998 — On Contraction Analysis for Non-linear Systems |  | Read |
+| [NOTE-2096](../../../record/notes.d/NOTE-2096.md) | Wang and Slotine — On partial contraction analysis for coupled nonlinear oscillators | Partial contraction: if a virtual system, with the actual state as an input, is contracting, every trajectory of the actual system acquires any smooth property one of the virtual system's solutions has (equal states, a manifold), though the actual system need not be contracting. Applied to networks of identical units with diffusive coupling, it gives exact global conditions for synchronization, anti-synchronization and oscillator death, and a coupling threshold set by the Laplacian's spectrum, with the common phase left to initial conditions. | Read |
+| [NOTE-2115](../../../record/notes.d/NOTE-2115.md) | Rudner and others 2013 — Anomalous edge states and the bulk-edge correspondence for periodically-driven two dimensional systems |  | Read |
+| [NOTE-2120](../../../record/notes.d/NOTE-2120.md) | Belkin and Niyogi 2001 — Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering |  | Read |
+| [NOTE-2124](../../../record/notes.d/NOTE-2124.md) | Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors |  | Skimmed |
+| [NOTE-2130](../../../record/notes.d/NOTE-2130.md) | DeVille and Lerman 2013 — Modular dynamical systems on networks |  | Read |

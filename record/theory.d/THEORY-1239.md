@@ -53,9 +53,9 @@ record has not read them. The memo's one engaged target is McCarthy's
 Airport problem.
 
 ## Note of 2026-11-19: Carnap, read
-<!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2004 — newly filed; the reading of 2026-11-19 -->
 
-A qualification from Carnap ([THEORY-tmp1kxhj](THEORY-tmp1kxhj.md)). His inductive logic keeps
+A qualification from Carnap ([THEORY-2004](THEORY-2004.md)). His inductive logic keeps
 logic apart from its application, as the logistic systems Minsky
 criticizes do, yet lets later evidence lower an earlier assessment: by
 the requirement of total evidence, adding knowledge may make c "as well

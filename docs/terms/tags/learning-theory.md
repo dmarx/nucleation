@@ -6,8 +6,8 @@
 
 **Learning theory** — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
-0 of 130 TERM documents. Back to the [full index](../README.md).
+1 of 131 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-131](../../../record/terms.d/TERM-131.md) | learning, of a system: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response | A's, from A46 §1 and §7 of the exchange "Topological protection explained" (2026-11-19), after the owner said "I feel like we're reasonably appropriately situated to make general claims about how learning works" (U20); refined in A71's opening. The job it does: the record uses "learning" across its lines (training, will-organization, institutions, self-formation in [TERM-099](../../../record/terms.d/TERM-099.md)) without saying what counts, so the claims filed from this exchange ([CLAIM-754](../../../record/claims.d/CLAIM-754.md), [CLAIM-758](../../../record/claims.d/CLAIM-758.md), [CLAIM-756](../../../record/claims.d/CLAIM-756.md)) need a sense that separates learning from mere change and from mere success. It extends Mitchell's definition by putting organization and cost where Mitchell put performance. The wording is A's; adopting it is the owner's call. | Proposed |

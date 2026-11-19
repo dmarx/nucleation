@@ -206,4 +206,4 @@ reduced slow system is what makes it uniform.
   "expected" estimate, not a theorem.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-Background ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): this account's partially contracting hypothesis descends from Wang and Slotine's construction, now held and read.
+Background ([NOTE-2096](../notes.d/NOTE-2096.md)): this account's partially contracting hypothesis descends from Wang and Slotine's construction, now held and read.

@@ -161,4 +161,4 @@ happens with fixed orthogonal write maps. With learnable ones it is open.
   paper's models come from; its path expansion is [THEORY-988](THEORY-988.md).
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues locate learned structure in the architecture's symmetry plus noise, not the data's, and leave "the interplay between symmetries in data and invariant sets" open (p. 10).
+A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues locate learned structure in the architecture's symmetry plus noise, not the data's, and leave "the interplay between symmetries in data and invariant sets" open (p. 10).

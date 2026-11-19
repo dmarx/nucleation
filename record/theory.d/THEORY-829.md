@@ -99,4 +99,4 @@ threshold below 1 (eq. 3.3). It does not.
   diagnosis this result applies to belief.
 
 ## Note of 2026-11-19: Carnap, read
-A related bound ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): Carnap's cumulative chains keep confirmation high only "provided the chain is not too long" (§59), the shape this account gives for conjunctions of believed propositions.
+A related bound ([NOTE-2110](../notes.d/NOTE-2110.md)): Carnap's cumulative chains keep confirmation high only "provided the chain is not too long" (§59), the shape this account gives for conjunctions of believed propositions.

@@ -135,4 +135,4 @@ does, and that is the essay's argument for combining them.
   that every candidate aggregate is precise.
 
 ## Note of 2026-11-19: Carnap, read
-A parallel from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): his comparative confirmation holds where every regular confirmation function agrees (§§80–81), a supervaluation over admissible measures, as this account's is over precisifications.
+A parallel from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md)): his comparative confirmation holds where every regular confirmation function agrees (§§80–81), a supervaluation over admissible measures, as this account's is over precisifications.

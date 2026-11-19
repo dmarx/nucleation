@@ -71,7 +71,7 @@ summary: >-
   systems checked. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpsiaty — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2045 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-572: When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum
 
@@ -201,12 +201,12 @@ On [CASE-206](../cases.d/CASE-206.md)'s vertex the observer's and the system's p
 
 At U30 the owner said the discussion "sounds like we're getting into active learning territory now". A67 §6 and A71 §7 cited this claim rightly and read its triage table (o = 0, a* = 5, total 5; o = 1, a* = 5, total 6; o = 2, a* = 1, total 3) as the elementary case against myopic information objectives: the first probe has negative immediate value, yet the two-probe sequence is cheapest, so "The value of an experience can depend on which future experiences it makes possible" (A71 §7). That is this claim's fourth result, read for learners.
 
-A67 §3's objective, choose an experiment for the expected future work it saves less its cost, is this claim's pricing of observation by the response budget it lowers, carried from one decision to a learner's later tasks. A67 §3 adds that the most informative experiment need not be the best one. The record's thermodynamic account of memory, [THEORY-026](../theory.d/THEORY-026.md), excludes learners that choose their observations; [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md) asks what replaces it.
+A67 §3's objective, choose an experiment for the expected future work it saves less its cost, is this claim's pricing of observation by the response budget it lowers, carried from one decision to a learner's later tasks. A67 §3 adds that the most informative experiment need not be the best one. The record's thermodynamic account of memory, [THEORY-026](../theory.d/THEORY-026.md), excludes learners that choose their observations; [QUESTION-494](../questions.d/QUESTION-494.md) asks what replaces it.
 
 No status change.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Settles ([THEORY-tmpsiaty](../theory.d/THEORY-tmpsiaty.md)), skimmed, reports that stopping rules in active learning are intrinsic stability heuristics, and that greedy selection carries a guarantee only for submodular objectives, which active-learning criteria generally are not (§§6.7, 7.3). That is the general setting of this claim's fourth result, that a probe's worth depends on the probes after it, so stopping when the next does not pay can miss the optimum. It is context for the claim, not independent evidence: the claim's result is proved in its own model.
+Settles ([THEORY-2045](../theory.d/THEORY-2045.md)), skimmed, reports that stopping rules in active learning are intrinsic stability heuristics, and that greedy selection carries a guarantee only for submodular objectives, which active-learning criteria generally are not (§§6.7, 7.3). That is the general setting of this claim's fourth result, that a probe's worth depends on the probes after it, so stopping when the next does not pay can miss the optimum. It is context for the claim, not independent evidence: the claim's result is proved in its own model.
 
 No status change.

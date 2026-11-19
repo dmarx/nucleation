@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-425 of 2083 NOTE documents. Back to the [full index](../README.md).
+457 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -433,3 +433,35 @@
 | [NOTE-1996](../../../record/notes.d/NOTE-1996.md) v2 | Cerrato, Sahlgren and Heilmann (2026) — Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse | In a simulated hiring screen on census data, upstream choices of label, feature measurement and model-selection metric move the counterfactual explanations given to rejected candidates more than the explanation method's own threshold does; the authors argue that counterfactual explanations used as justification or recourse bracket the deployer's contestable choices and frame the subject as the one who must change. | Read |
 | [NOTE-2025](../../../record/notes.d/NOTE-2025.md) v2 | Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian (2018) — Runaway Feedback Loops in Predictive Policing | In a Pólya-urn model of predictive policing that learns only from incidents its own patrols discover, deployment locks onto the region that started ahead (equal crime rates) or onto the higher-rate region however slight the difference (unequal rates); reported incidents attenuate but do not remove the effect; discarding discovered incidents in proportion to patrol probability restores convergence to the true rates. | Read |
 | [NOTE-2078](../../../record/notes.d/NOTE-2078.md) | Zhu, Li and Cai — When do task vectors interfere? | First-token output non-additivity of two merged LoRA task vectors depends on the input distribution as well as the task pair (code+safety over code+math on code prompts, null on math), transfers in coarse ordering to unseen pairs, and is hidden by the template the adapters were trained on but not by an untrained chat template. | Read |
+| [NOTE-2084](../../../record/notes.d/NOTE-2084.md) | Lu and Kankanhalli 2026 — Agentic-TTT: Training Test-time Policy for Test-time Training |  | Read |
+| [NOTE-2085](../../../record/notes.d/NOTE-2085.md) | Velarde and others 2026 — Emergence of Fibrations, Compression, and Symmetry Breaking in Artificial Neural Networks |  | Read |
+| [NOTE-2086](../../../record/notes.d/NOTE-2086.md) | Geiger and others 2025 — Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability |  | Skimmed |
+| [NOTE-2087](../../../record/notes.d/NOTE-2087.md) | Tandon and others 2025 — End-to-End Test-Time Training for Long Context |  | Read |
+| [NOTE-2089](../../../record/notes.d/NOTE-2089.md) | Rajendran and others 2020 — Meta-Learning Requires Meta-Augmentation |  | Read |
+| [NOTE-2090](../../../record/notes.d/NOTE-2090.md) | Finn and others 2017 — Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks |  | Read |
+| [NOTE-2093](../../../record/notes.d/NOTE-2093.md) | Pan and others 2023 — What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning |  | Read |
+| [NOTE-2094](../../../record/notes.d/NOTE-2094.md) | Li and Webb 2026 — What drives the emergence of symbolic mechanisms in large language models? |  | Read |
+| [NOTE-2099](../../../record/notes.d/NOTE-2099.md) | Poole, Lahiri, Raghu, Sohl-Dickstein and Ganguli — Exponential expressivity in deep neural networks through transient chaos | Mean-field theory of wide random networks: maps for the length of one input and the correlation of two across layers, whose slope χ1 at correlation 1 divides the weight and bias variances into an ordered phase, where inputs converge, and a chaotic one, where they separate. In the chaotic phase a curve's length grows exponentially with depth while its curvature holds at a fixed point, so its global curvature grows exponentially with depth and not with width; a one-hidden-layer network cannot match this. | Read |
+| [NOTE-2100](../../../record/notes.d/NOTE-2100.md) | Yin and Steinhardt 2025 — Which Attention Heads Matter for In-Context Learning? |  | Read |
+| [NOTE-2102](../../../record/notes.d/NOTE-2102.md) | Nichol and others 2018 — On First-Order Meta-Learning Algorithms |  | Read |
+| [NOTE-2103](../../../record/notes.d/NOTE-2103.md) | Garg and others 2022 — What Can Transformers Learn In-Context? A Case Study of Simple Function Classes |  | Read |
+| [NOTE-2104](../../../record/notes.d/NOTE-2104.md) | Min and others 2022 — MetaICL: Learning to Learn In Context |  | Read |
+| [NOTE-2106](../../../record/notes.d/NOTE-2106.md) | Javed and White 2019 — Meta-Learning Representations for Continual Learning |  | Read |
+| [NOTE-2107](../../../record/notes.d/NOTE-2107.md) | Miyato and others 2024 — Artificial Kuramoto Oscillatory Neurons |  | Skimmed |
+| [NOTE-2108](../../../record/notes.d/NOTE-2108.md) | Hospedales and others 2020 — Meta-Learning in Neural Networks: A Survey |  | Skimmed |
+| [NOTE-2113](../../../record/notes.d/NOTE-2113.md) | Wang and Isola 2020 — Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere |  | Read |
+| [NOTE-2116](../../../record/notes.d/NOTE-2116.md) | Yin and others 2020 — Meta-Learning without Memorization |  | Read |
+| [NOTE-2118](../../../record/notes.d/NOTE-2118.md) | Settles 2009 (rev. 2010) — Active Learning Literature Survey |  | Skimmed |
+| [NOTE-2119](../../../record/notes.d/NOTE-2119.md) | Springer and others 2025 — Overtrained Language Models Are Harder to Fine-Tune |  | Read |
+| [NOTE-2121](../../../record/notes.d/NOTE-2121.md) | Akyürek and others 2023 — What learning algorithm is in-context learning? Investigations with linear models |  | Read |
+| [NOTE-2122](../../../record/notes.d/NOTE-2122.md) | Bardes and others 2022 — VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning |  | Read |
+| [NOTE-2125](../../../record/notes.d/NOTE-2125.md) | Han and others 2026 — Weight Decay Improves Language Model Plasticity |  | Read |
+| [NOTE-2126](../../../record/notes.d/NOTE-2126.md) | Iqbal and others 2026 — Spontaneous symmetry breaking and Goldstone modes for deep information propagation |  | Read |
+| [NOTE-2127](../../../record/notes.d/NOTE-2127.md) | Chen, Kunin, Yamamura and Ganguli — Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks | Sets where a hidden neuron vanishes, or two neurons in a layer are identical, are invariant under SGD; both are fixed sets of reflection symmetries of the parameterization. For a continuous model of SGD the authors give a sufficient condition for such a set to attract, a competition between curvature and gradient noise that can hold at saddles and maxima, and report clusters of near-identical neurons in trained VGG and ResNet networks, growing with learning rate. In a linear teacher-student model the collapse keeps weak modes from being learned. | Read |
+| [NOTE-2128](../../../record/notes.d/NOTE-2128.md) | Sun and others 2020 — Test-Time Training with Self-Supervision for Generalization under Distribution Shifts |  | Read |
+| [NOTE-2129](../../../record/notes.d/NOTE-2129.md) | Zbontar and others 2021 — Barlow Twins: Self-Supervised Learning via Redundancy Reduction |  | Read |
+| [NOTE-2131](../../../record/notes.d/NOTE-2131.md) | Raghu and others 2019 — Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML |  | Read |
+| [NOTE-2132](../../../record/notes.d/NOTE-2132.md) | Keller and others 2024 — Traveling Waves Encode the Recent Past and Enhance Sequence Learning |  | Read |
+| [NOTE-2133](../../../record/notes.d/NOTE-2133.md) | Jacobs and others 2025 — Traveling Waves Integrate Spatial Information Through Time |  | Read |
+| [NOTE-2136](../../../record/notes.d/NOTE-2136.md) | Biderman and others 2023 — Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling |  | Read |
+| [NOTE-2137](../../../record/notes.d/NOTE-2137.md) | Dohare and others 2023/2024 — Maintaining Plasticity in Deep Continual Learning (arXiv v3), published as Loss of plasticity in deep continual learning (Nature 2024) |  | Read |

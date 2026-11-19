@@ -36,7 +36,7 @@ summary: >-
 bears_on:
 - QUESTION-024
 ---
-<!-- inactive-ok-file: THEORY-tmpnivm0 THEORY-tmppqtz3 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2037 THEORY-2039 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; the claim that reads this result as support, named, not leaned on -->
 
 # THEORY-496: In few-shot classification and multiple choice by language models up to 175B parameters, whether each demonstration's label is correct contributes little to the gain over zero-shot, while the distribution of the inputs, the label space and the paired format carry most of it
@@ -108,8 +108,8 @@ much as removing the demonstrations. They cost a few points.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Min and colleagues' MetaICL ([THEORY-tmpnivm0](THEORY-tmpnivm0.md)), read: complements this reading. In their Appendix C.4, with each label word replaced by a random English word, raw and meta-trained models fall to near chance, so their in-context success leans on what the labels already mean. Only meta-training on randomly remapped labels lifts accuracy on remapped targets, from 30.1% to 43.5%. That bears on this entry's caution that a new correspondence was never tested: untrained use of one fails, and training can teach it.
+Min and colleagues' MetaICL ([THEORY-2037](THEORY-2037.md)), read: complements this reading. In their Appendix C.4, with each label word replaced by a random English word, raw and meta-trained models fall to near chance, so their in-context success leans on what the labels already mean. Only meta-training on randomly remapped labels lifts accuracy on remapped targets, from 30.1% to 43.5%. That bears on this entry's caution that a new correspondence was never tested: untrained use of one fails, and training can teach it.
 
-Pan and colleagues ([THEORY-tmppqtz3](THEORY-tmppqtz3.md)), read: qualifies this reading by scale, and runs the test it says was missing. The gold–random gap is small for smaller models, agreeing with Min et al., but in their tasks it widens as models and demonstrations grow, and with 16 examples OPT-66B and GPT-3 davinci match gold accuracy under abstract remapped labels. So large models do learn new mappings in context. Min et al.'s small gap at 175B and this result are not reconciled by either paper.
+Pan and colleagues ([THEORY-2039](THEORY-2039.md)), read: qualifies this reading by scale, and runs the test it says was missing. The gold–random gap is small for smaller models, agreeing with Min et al., but in their tasks it widens as models and demonstrations grow, and with 16 examples OPT-66B and GPT-3 davinci match gold accuracy under abstract remapped labels. So large models do learn new mappings in context. Min et al.'s small gap at 175B and this result are not reconciled by either paper.
 
 No status change.

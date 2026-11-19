@@ -179,6 +179,6 @@ learned capabilities are protected or revised. That is A38's third measure,
   budget it states.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-<!-- inactive-ok-file: THEORY-tmpitdat — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2031 — Proposed; cited from the readings of 2026-11-19 -->
 
-Poole and colleagues ([THEORY-tmpitdat](../theory.d/THEORY-tmpitdat.md), corroborates; [NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)), read: evidence for the first effect, qualified. Theorem 1 bounds the curve length any one-hidden-layer network can reach, while typical deep random networks in the chaotic phase grow it exponentially with depth: a depth separation on one measure. The abstract's "cannot be efficiently computed by any shallow network" goes beyond the theorem; the link from length to approximation error is shown only numerically. It can stand beside [THEORY-206](../theory.d/THEORY-206.md) as a second ground. The claim is unchanged.
+Poole and colleagues ([THEORY-2031](../theory.d/THEORY-2031.md), corroborates; [NOTE-2099](../notes.d/NOTE-2099.md)), read: evidence for the first effect, qualified. Theorem 1 bounds the curve length any one-hidden-layer network can reach, while typical deep random networks in the chaotic phase grow it exponentially with depth: a depth separation on one measure. The abstract's "cannot be efficiently computed by any shallow network" goes beyond the theorem; the link from length to approximation error is shown only numerically. It can stand beside [THEORY-206](../theory.d/THEORY-206.md) as a second ground. The claim is unchanged.

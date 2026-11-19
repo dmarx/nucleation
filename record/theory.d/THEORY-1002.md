@@ -89,4 +89,4 @@ network does not have.
   network computes.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-An analogy ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): Poole and colleagues use random networks as "an important null model of deep signal propagation", the same move this account makes with frozen random networks, in another context.
+An analogy ([NOTE-2099](../notes.d/NOTE-2099.md)): Poole and colleagues use random networks as "an important null model of deep signal propagation", the same move this account makes with frozen random networks, in another context.

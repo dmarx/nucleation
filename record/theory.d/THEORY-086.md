@@ -139,4 +139,4 @@ theorems, consistent with them.
   disagreeing.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-A parallel ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): the covariance recursion of Poole and colleagues' mean-field theory is the layerwise kernel recursion behind this account, at initialization; the identification is the reader's, not the paper's.
+A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): the covariance recursion of Poole and colleagues' mean-field theory is the layerwise kernel recursion behind this account, at initialization; the identification is the reader's, not the paper's.

@@ -4,7 +4,7 @@
 
 **information-theory**.
 
-139 of 2083 NOTE documents. Back to the [full index](../README.md).
+142 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -147,3 +147,6 @@
 | [NOTE-1591](../../../record/notes.d/NOTE-1591.md) | Coecke, Fritz and Spekkens — A mathematical theory of resources | A resource theory is a symmetric monoidal category of resources and of the transformations that cost nothing. Such theories are generated from a process theory partitioned into free and costly processes, as theories of states and of processes. Forgetting which free transformation does a conversion leaves a preordered commutative monoid, which carries catalysis, monotones and conversion rates; its combination law can be sum or supremum over the same kind of order. Costs on transformations are left as the open problem. | Read |
 | [NOTE-1912](../../../record/notes.d/NOTE-1912.md) | Belrose et al. — LEACE | Proves that linear guardedness (no linear predictor under a convex loss beats a constant) is equivalent to equal class-conditional means and to zero cross-covariance; characterises the affine erasers that achieve it (P annihilates colsp(Σ_XZ)); and gives the unique eraser least-squares optimal under every inner-product norm, an oblique projection in whitened coordinates. Experiments: gender erasure in BERT, amnesic probing for part of speech, and layer-wise "concept scrubbing" of part of speech in LLaMA and Pythia. Linear only. | Read |
 | [NOTE-1960](../../../record/notes.d/NOTE-1960.md) | Reisizadeh et al. — Hidden-state leakage in model unlearning | Output-level unlearning can leave forget-set content in hidden states: in a Gaussian model the output's leakage and the representation's information are set by separate quantities, and per-layer probe decoders trained on part of the forget set recover held-out forget content after six unlearning methods whose outputs show near-zero leakage. | Read |
+| [NOTE-2091](../../../record/notes.d/NOTE-2091.md) | Masumori and others 2026 — Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata |  | Read |
+| [NOTE-2097](../../../record/notes.d/NOTE-2097.md) | Still 2017 (PRL 2020) — Thermodynamic cost and benefit of memory |  | Read |
+| [NOTE-2123](../../../record/notes.d/NOTE-2123.md) | Rupe and Crutchfield 2018 — Local Causal States and Discrete Coherent Structures |  | Read |

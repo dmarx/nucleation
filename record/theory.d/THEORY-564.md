@@ -46,7 +46,7 @@ summary: >-
   picks the generating structure when the parent model was itself
   learned. One initialisation; eight concepts, six binary features.
 ---
-<!-- inactive-ok-file: THEORY-tmp17fdp THEORY-tmp9tvpg — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2002 THEORY-2016 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-079 — Proposed; named as a caution about model reduction, not leaned on -->
 
 # THEORY-564: A bounded generative model can learn its own structure with no machinery beyond inference and learning: spare hidden-state slots with flat likelihoods get filled when an observation fits none of the learned causes, and Bayesian model reduction on the learned prior over states can return unneeded slots, though in a toy concept-learning task it recovers the true number of causes in only 45–80% of runs with four to seven causes, and never with two or three, unless the likelihood is given
@@ -132,8 +132,8 @@ one study, but would free nothing while [CLAIM-337](../claims.d/CLAIM-337.md)'s 
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Friston and colleagues ([THEORY-tmp9tvpg](THEORY-tmp9tvpg.md)), read: qualifies this entry but does not meet its promote_when. With 81 prespecified rules in a three-ball task, an agent choosing data by expected information gain over models, with Bayesian model reduction, found the true rule in 63 of 64 games; the one failure was "a premature commitment to the wrong model". But the structure is a rule from an enumerated set, not a number of hidden causes recovered from a learned parent, with no non-parametric comparison. Recovery may depend on whether data are chosen actively.
+Friston and colleagues ([THEORY-2016](THEORY-2016.md)), read: qualifies this entry but does not meet its promote_when. With 81 prespecified rules in a three-ball task, an agent choosing data by expected information gain over models, with Bayesian model reduction, found the true rule in 63 of 64 games; the one failure was "a premature commitment to the wrong model". But the structure is a rule from an enumerated set, not a number of hidden causes recovered from a learned parent, with no non-parametric comparison. Recovery may depend on whether data are chosen actively.
 
-Neacsu and colleagues ([THEORY-tmp17fdp](THEORY-tmp17fdp.md)), skimmed in part: agrees with this entry's framing. The review classes [LIT-615](../literature.d/LIT-615.md) among the reduction and expansion approaches, and says adding a variable to a model is "in principle, as trivial" as adding a hypothesis by hand, which fits this entry's view that expansion was never in doubt. It names a further gap, the hand-supplied hypothesis space, but reports no recovery rates, so the promote_when is untouched.
+Neacsu and colleagues ([THEORY-2002](THEORY-2002.md)), skimmed in part: agrees with this entry's framing. The review classes [LIT-615](../literature.d/LIT-615.md) among the reduction and expansion approaches, and says adding a variable to a model is "in principle, as trivial" as adding a hypothesis by hand, which fits this entry's view that expansion was never in doubt. It names a further gap, the hand-supplied hypothesis space, but reports no recovery rates, so the promote_when is untouched.
 
 No status change.

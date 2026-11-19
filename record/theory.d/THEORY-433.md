@@ -126,4 +126,4 @@ what we would be entitled to say.
   account states and does not defend.
 
 ## Note of 2026-11-19: Carnap, read
-Background ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): the replacement here, of an inexact question by an exact one, is what Carnap calls explication (§2), judged as more or less satisfactory rather than right ([THEORY-tmpai35t](THEORY-tmpai35t.md)). Carnap does not cite Turing.
+Background ([NOTE-2110](../notes.d/NOTE-2110.md)): the replacement here, of an inexact question by an exact one, is what Carnap calls explication (§2), judged as more or less satisfactory rather than right ([THEORY-2017](THEORY-2017.md)). Carnap does not cite Turing.

@@ -20,7 +20,7 @@ summary: >-
   which is the record's signal to give it a code. A candidate term is
   filed beside it, Proposed ([TERM-098](../terms.d/TERM-098.md)); this question asks what would settle it.
 ---
-<!-- inactive-ok-file: TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: TERM-131 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-360: When does a learned distinction become a concept rather than a discriminator or a habit (by being reused systematically, transferring to counterfactual cases, integrating with other capacities, or being correctable), is the transition graded or categorical, and how is a concept told apart from the organization that realizes it and from the thing it is about?
 
@@ -100,8 +100,8 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07)
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A46 §4 offered levels of retained organization: episodic memory, reusable association or habit, generalized representation or procedure, adaptable learning architecture, reflexive learning organization. A called them "analytical distinctions, not a necessary progression", which leaves this question's graded-or-categorical point open. Its habit and generalized procedure are this question's habit and the reused, transferring side of a concept; it adds that the levels differ in "different kinds of future work that experience can replace". A's definition of learning that frames them is filed as [TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md).
+A46 §4 offered levels of retained organization: episodic memory, reusable association or habit, generalized representation or procedure, adaptable learning architecture, reflexive learning organization. A called them "analytical distinctions, not a necessary progression", which leaves this question's graded-or-categorical point open. Its habit and generalized procedure are this question's habit and the reused, transferring side of a concept; it adds that the levels differ in "different kinds of future work that experience can replace". A's definition of learning that frames them is filed as [TERM-131](../terms.d/TERM-131.md).
 
-A73 §7's ladder (retained answer, reusable procedure, relational understanding, generative epistemic competence) comes with a test this question can use: a learner that memorized f(2) = 4, f(3) = 9, f(4) = 16 and one that found f(x) = x² answer alike, but on a shift to x² + c the second adapts from little evidence and the first relearns. That separates a discriminator from a concept by the cost of the next acquisition rather than by present answers. It is filed with the knowledge question, [QUESTION-tmpo8ddc](QUESTION-tmpo8ddc.md).
+A73 §7's ladder (retained answer, reusable procedure, relational understanding, generative epistemic competence) comes with a test this question can use: a learner that memorized f(2) = 4, f(3) = 9, f(4) = 16 and one that found f(x) = x² answer alike, but on a shift to x² + c the second adapts from little evidence and the first relearns. That separates a discriminator from a concept by the cost of the next acquisition rather than by present answers. It is filed with the knowledge question, [QUESTION-493](QUESTION-493.md).
 
 No status change.

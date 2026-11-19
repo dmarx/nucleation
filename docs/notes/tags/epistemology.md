@@ -4,7 +4,7 @@
 
 **epistemology**.
 
-81 of 2083 NOTE documents. Back to the [full index](../README.md).
+82 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -89,3 +89,4 @@
 | [NOTE-1893](../../../record/notes.d/NOTE-1893.md) | Fuentes (2016) — Dispossessed Lives: Enslaved Women, Violence, and the Archive | Fuentes set out to write about enslaved women's lives in colonial Bridgetown, Barbados, and found only records made by owners, courts, executioners and newspapers, in which the women appear as fragments. The book turns the absence into its subject: the archive's violence and the discipline's demand for sources together produce erasure, and the historian must write "about what an archive does not offer". | Skimmed |
 | [NOTE-1936](../../../record/notes.d/NOTE-1936.md) | Postman (1992) — Technopoly, chapter 1 "The Judgment of Thamus" | In chapter 1 Postman holds that every technology is both a burden and a blessing, that it carries an ideological bias that silently redefines a culture's central words, and that its effects are ecological, so that a new technology changes everything around it; he names the culture this produces Technopoly. | Skimmed |
 | [NOTE-1945](../../../record/notes.d/NOTE-1945.md) | Postman (1998) — Five Things We Need to Know About Technological Change | Postman's five ideas: every technology is a trade-off; its advantages and disadvantages are unevenly distributed; it embeds an idea; its change is ecological; and it tends to become mythic. Its consequences are vast, unpredictable and largely irreversible. | Read |
+| [NOTE-2110](../../../record/notes.d/NOTE-2110.md) v2 | Carnap — Logical Foundations of Probability | Carnap's case that inductive logic is the logic of probability in the logical sense: degree of confirmation, a relation between evidence and hypothesis whose elementary statements are analytic, read as partial entailment between ranges of state-descriptions. Chapter I gives the method, explication; chapter II separates two explicanda of probability, logical and frequency, and dissolves the controversy between them. The rest builds the logic: deductive groundwork, the regular confirmation functions and what holds for all of them, relevance, a comparative logic, the symmetrical functions, estimation and, provisionally, c*. The book is also a sustained worked example of explication. | Read |

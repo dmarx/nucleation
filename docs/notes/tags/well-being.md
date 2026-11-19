@@ -4,7 +4,7 @@
 
 **well-being**.
 
-27 of 2083 NOTE documents. Back to the [full index](../README.md).
+28 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -35,3 +35,4 @@
 | [NOTE-1937](../../../record/notes.d/NOTE-1937.md) | Susen (2020) — The Resonance of Resonance | Susen restates Rosa's account: resonance as a responsive, transforming world-relation that cannot be produced at will; alienation as indifferent or hostile relation; the good life as rich in resonance with stable axes of resonance; and examines its critics. | Read |
 | [NOTE-1944](../../../record/notes.d/NOTE-1944.md) | Han (2015) — The Burnout Society, chapter "Beyond Disciplinary Society" | Han holds that late-modern society has passed from a disciplinary society of prohibition to an achievement society of unlimited "Can", whose subjects, free of external domination, exploit themselves in a freedom that coincides with constraint, which produces depression and burnout. | Skimmed |
 | [NOTE-1949](../../../record/notes.d/NOTE-1949.md) | Wolf (2007) — Meaning in Life and Why It Matters (Tanner Lectures I and II) | Wolf argues that meaningfulness is a third dimension of a good life, beside happiness and morality, arising when a person loves objects worthy of love and engages with them actively ("fitting fulfillment"); that the view needs some nonsubjective standard of value, of which she has no theory; and that the category matters because it makes hedonistic self-interest inadequate and denies morality the role of an absolute filter on practical reason. | Read |
+| [NOTE-2114](../../../record/notes.d/NOTE-2114.md) | Ibrahim 2013 — Collective Capabilities: What are they and why are they Important? |  | Read |

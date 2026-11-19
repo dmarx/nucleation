@@ -189,4 +189,4 @@ this one: the depth law from generic starts, such as random orthogonal weights, 
 changed by it.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-Background ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues' teacher-student analysis extends Saxe and colleagues' deep linear modes to stochastic flow, where the smallest learnable mode is set by noise (§6). Poole and colleagues ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)) generalize the order-to-chaos transition at initialization that this account's body mentions; neither bears on learning time.
+Background ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues' teacher-student analysis extends Saxe and colleagues' deep linear modes to stochastic flow, where the smallest learnable mode is set by noise (§6). Poole and colleagues ([NOTE-2099](../notes.d/NOTE-2099.md)) generalize the order-to-chaos transition at initialization that this account's body mentions; neither bears on learning time.

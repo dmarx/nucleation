@@ -211,4 +211,4 @@ question is not filed separately. No status changes.
 
 ## Note of 2026-11-19: Carnap, read
 
-An analogy from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), result 13), not evidence: a confirmation function's own estimates of its reliability "cannot be used as a method for obtaining an external, objective judg- ment on the goodness of a system of inductive logic" (§103). Evidence for a concept's adequacy that passes through the concept's own use is the case this claim excludes. [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) now asks the same of an explication. The claim is unchanged.
+An analogy from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md), result 13), not evidence: a confirmation function's own estimates of its reliability "cannot be used as a method for obtaining an external, objective judg- ment on the goodness of a system of inductive logic" (§103). Evidence for a concept's adequacy that passes through the concept's own use is the case this claim excludes. [ADR-107](../decisions.d/ADR-107.md) now asks the same of an explication. The claim is unchanged.

@@ -40,7 +40,7 @@ draws_on:
 - THEORY-756
 - THEORY-820
 ---
-<!-- inactive-ok-file: THEORY-tmpgs5bb — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2028 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-062: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target
@@ -90,6 +90,6 @@ sense 1).
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Rupe and Crutchfield ([THEORY-tmpgs5bb](../theory.d/THEORY-tmpgs5bb.md)), read: supports the TERM and adds a choice of source and target beside the ε- and υ-machines. The source is the past lightcone at a spacetime point and the target its future lightcone; two past lightcones are equivalent when they give the same distribution over future lightcones. The resulting local causal states are "minimal sufficient statistics for optimal local prediction". They confirm that causal states are not interventional: the states "do not detect direct causal relationships".
+Rupe and Crutchfield ([THEORY-2028](../theory.d/THEORY-2028.md)), read: supports the TERM and adds a choice of source and target beside the ε- and υ-machines. The source is the past lightcone at a spacetime point and the target its future lightcone; two past lightcones are equivalent when they give the same distribution over future lightcones. The resulting local causal states are "minimal sufficient statistics for optimal local prediction". They confirm that causal states are not interventional: the states "do not detect direct causal relationships".
 
 No status change.

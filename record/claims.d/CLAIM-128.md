@@ -127,4 +127,4 @@ occur at all, the first branch of the defeat condition, has no
 observation. The order-theoretic part is [CLAIM-371](CLAIM-371.md) and is Active.
 
 ## Note of 2026-11-19: Carnap, read
-A parallel from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). His comparative confirmation leaves most pairs incomparable because admissible measures disagree (§82), and he resolves it not from the order but by choosing one measure, provisionally and by its consequences (§110A). The same move this claim leaves to a task's priorities. The claim is unchanged.
+A parallel from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md)). His comparative confirmation leaves most pairs incomparable because admissible measures disagree (§82), and he resolves it not from the order but by choosing one measure, provisionally and by its consequences (§110A). The same move this claim leaves to a task's priorities. The claim is unchanged.

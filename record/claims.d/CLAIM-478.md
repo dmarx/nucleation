@@ -19,7 +19,7 @@ history:
 - version: 3
   date: '2026-11-19'
   note: >-
-    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    Joins the work cost-structure-of-possibility (ADR-106), the
     owner's manuscript from the exchange "Topological protection
     explained": A43 §2.2 states its proposition, and §1 and §13
     restate it. No other change.
@@ -81,7 +81,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
-<!-- inactive-ok-file: CLAIM-tmp449rr CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
@@ -431,9 +431,9 @@ Critical slowing in different modes, which bears oppositely on the reduction thi
 
 At U14 the owner tied A's "selective contraction" to "Nucleation's inquiry into how timescale separation can drive structural emergence": this claim, the owner's own. A29 §2's four-unit example, fast within-pair differences and a slow between-pair difference, is the window this claim's note of the U15–U23 turns already gives for weakly joined clusters. A29 §2 credited its timescale-relative individuation to [CLAIM-481](CLAIM-481.md); it is this claim's. A29 §5's differentiation between attractors with contraction within basins restates this claim's last clause, that instabilities make the separations that then constrain.
 
-A32 §5, from [CLAIM-626](CLAIM-626.md), adds that "There isn't one relevant separation": collective activity, restoration, maintenance and reproduction may each have a time scale, and their hierarchy may say more than one fast–slow ratio. A32 §12 asks whether an emergent organization can change the timescale hierarchy and intervention-equivalence structure it was identified by, which is this claim's second half widened to the equivalence structure. The owner's U10 hypothesis carries this claim from constraints to units: [CLAIM-tmpw8xkt](CLAIM-tmpw8xkt.md) rests on it. [CLAIM-tmp449rr](CLAIM-tmp449rr.md) separates the dynamical separation this claim names from the economic separation of costly formation and cheap reuse.
+A32 §5, from [CLAIM-626](CLAIM-626.md), adds that "There isn't one relevant separation": collective activity, restoration, maintenance and reproduction may each have a time scale, and their hierarchy may say more than one fast–slow ratio. A32 §12 asks whether an emergent organization can change the timescale hierarchy and intervention-equivalence structure it was identified by, which is this claim's second half widened to the equivalence structure. The owner's U10 hypothesis carries this claim from constraints to units: [CLAIM-762](CLAIM-762.md) rests on it. [CLAIM-755](CLAIM-755.md) separates the dynamical separation this claim names from the economic separation of costly formation and cheap reuse.
 
 No status change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-An analogy from Wang and Slotine ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): relative degrees of freedom contract quickly and the synchronous relation then holds as a constraint, a set that is "both an invariant set and a linear constraint" (Ex. 4.2). A worked case of the shape the claim describes, in a deterministic network; not evidence for the claim's general form.
+An analogy from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): relative degrees of freedom contract quickly and the synchronous relation then holds as a constraint, a set that is "both an invariant set and a linear constraint" (Ex. 4.2). A worked case of the shape the claim describes, in a deterministic network; not evidence for the claim's general form.

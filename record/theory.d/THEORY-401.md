@@ -96,4 +96,4 @@ theorem and the standard-part result as strong, by proof.
   theories ([LIT-145](../literature.d/LIT-145.md), [THEORY-595](THEORY-595.md)).
 
 ## Note of 2026-11-19: Carnap, read
-A contrast from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). His regularity, a positive measure on every state-description, holds in finite languages; in the infinite language he works by limits, and there a factual universal law gets measure 0, "almost L-false" (§§56, 58, 110F). This account gives regularity in the infinite case by other means.
+A contrast from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md)). His regularity, a positive measure on every state-description, holds in finite languages; in the infinite language he works by limits, and there a factual universal law gets measure 0, "almost L-false" (§§56, 58, 110F). This account gives regularity in the infinite case by other means.

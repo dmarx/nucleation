@@ -33,7 +33,7 @@ summary: >-
 bears_on:
 - QUESTION-063
 ---
-<!-- inactive-ok-file: THEORY-tmp31d9a THEORY-tmpz825j — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2005 THEORY-2055 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-1059: The dynamics a coupled cell network admits, restricted to a robustly synchronous pattern, are dynamics admitted by a smaller quotient network whose cells are the synchronized classes, so behaviour of the quotient, including symmetric behaviour the original network has no symmetry to force, appears in the original as synchronous behaviour; the quotient admits more dynamics than restriction produces, and is unique only up to refinement of its arrow types
 
@@ -103,13 +103,13 @@ p. 639) as an edge-refinement (Corollary 8.8, p. 641).
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-DeVille and Lerman ([THEORY-tmp31d9a](THEORY-tmp31d9a.md)), read: supports the construction; the apparent conflict is one of class. Their Corollary 6.2.4 and Remark 6.2.6 make invariant fields on a network and its balanced quotient "always isomorphic"; this entry's Remark 7.5 says quotient-admissible fields do not always lift. Their class is fields invariant under input-tree isomorphisms of graphs without arrow types ("we work with monochromatic graphs"). This entry's "admits more" means Stewart, Golubitsky and Pivato's admissible fields for the natural quotient with its arrow types. Neither compares them, so a citation must name the class.
+DeVille and Lerman ([THEORY-2005](THEORY-2005.md)), read: supports the construction; the apparent conflict is one of class. Their Corollary 6.2.4 and Remark 6.2.6 make invariant fields on a network and its balanced quotient "always isomorphic"; this entry's Remark 7.5 says quotient-admissible fields do not always lift. Their class is fields invariant under input-tree isomorphisms of graphs without arrow types ("we work with monochromatic graphs"). This entry's "admits more" means Stewart, Golubitsky and Pivato's admissible fields for the natural quotient with its arrow types. Neither compares them, so a citation must name the class.
 
-Velarde, Parra, Hashemi and Makse ([THEORY-tmpz825j](THEORY-tmpz825j.md)), read: supports by application. They compress trained networks to the base graph of their fibers or covers, which "performs the identical forward computation" for exact fibers. That is this entry's quotient network, run on the synchronous subspace, used as a compression method. Their networks are weighted and feed-forward, outside the 2003 setting, and their loss bound for quasi-fibers (Eq. 7) was not checked.
+Velarde, Parra, Hashemi and Makse ([THEORY-2055](THEORY-2055.md)), read: supports by application. They compress trained networks to the base graph of their fibers or covers, which "performs the identical forward computation" for exact fibers. That is this entry's quotient network, run on the synchronous subspace, used as a compression method. Their networks are weighted and feed-forward, outside the 2003 setting, and their loss bound for quasi-fibers (Eq. 7) was not checked.
 
 No status change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2044 — Proposed; cited from the readings of 2026-11-19 -->
 
-A complement ([THEORY-tmprqrdn](THEORY-tmprqrdn.md); [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): the transverse stability this account leaves "not treated" is what Wang and Slotine's partial contraction gives, for full and subgroup synchrony under diffusive coupling (Theorem 6), with the dynamics on the synchronous set those of one uncoupled unit.
+A complement ([THEORY-2044](THEORY-2044.md); [NOTE-2096](../notes.d/NOTE-2096.md)): the transverse stability this account leaves "not treated" is what Wang and Slotine's partial contraction gives, for full and subgroup synchrony under diffusive coupling (Theorem 6), with the dynamics on the synchronous set those of one uncoupled unit.

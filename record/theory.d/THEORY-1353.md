@@ -37,7 +37,7 @@ summary: >-
   seeds for the reset. Proposed: single-author, unreplicated, mixing
   unproved.
 ---
-<!-- inactive-ok-file: THEORY-tmp8wxgt THEORY-tmpgjb4y — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2015 THEORY-2027 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-1353: In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
 
@@ -75,8 +75,8 @@ Dong (2026), [LIT-2006](../literature.d/LIT-2006.md), read in [NOTE-1540](../not
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Dohare and colleagues ([THEORY-tmpgjb4y](THEORY-tmpgjb4y.md)), read: supports the depletion reading of plasticity loss, independently of Dong's attention-head account. They find loss of plasticity with dead units, growing weights and falling effective rank, name its root cause as the benefits of random initialization "lost over time", and repair it by reinitializing low-utility units, the same kind of act as Dong's query–key reset. Their networks are small and their setting continual learning, so the title's clauses on conjunction circuits and attention heads are not tested.
+Dohare and colleagues ([THEORY-2027](THEORY-2027.md)), read: supports the depletion reading of plasticity loss, independently of Dong's attention-head account. They find loss of plasticity with dead units, growing weights and falling effective rank, name its root cause as the benefits of random initialization "lost over time", and repair it by reinitializing low-utility units, the same kind of act as Dong's query–key reset. Their networks are small and their setting continual learning, so the title's clauses on conjunction circuits and attention heads are not tested.
 
-Han and colleagues ([THEORY-tmp8wxgt](THEORY-tmp8wxgt.md)), read: related, not the same construct. Higher pretraining weight decay lowers the rank of query–key products more than value–projection ones, and improves fine-tuning. That puts plasticity-relevant structure in the query–key product, as Dong's query–key reset does. Neither paper tests the other's intervention, and the authors call their rank mechanism correlational, so the entry's plasticity clause is left open.
+Han and colleagues ([THEORY-2015](THEORY-2015.md)), read: related, not the same construct. Higher pretraining weight decay lowers the rank of query–key products more than value–projection ones, and improves fine-tuning. That puts plasticity-relevant structure in the query–key product, as Dong's query–key reset does. Neither paper tests the other's intervention, and the authors call their rank mechanism correlational, so the entry's plasticity clause is left open.
 
 No status change.

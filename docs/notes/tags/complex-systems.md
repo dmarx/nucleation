@@ -4,7 +4,7 @@
 
 **complex-systems**.
 
-223 of 2083 NOTE documents. Back to the [full index](../README.md).
+232 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -231,3 +231,12 @@
 | [NOTE-1984](../../../record/notes.d/NOTE-1984.md) | Gepshtein et al. — Spatially distributed computation in cortical circuits | A chain of coupled Wilson–Cowan E/I motifs answers a point input with a standing, spatially damped neural wave of intrinsic period. Linear interference of these waves sets SF and TF preference and gives lateral modulation at the intrinsic period. It predicts, and MT data show, preferred TF varying nonmonotonically with SF. The waves do not propagate, and contrast effects need the nonlinear regime. | Read |
 | [NOTE-1992](../../../record/notes.d/NOTE-1992.md) | Zhang et al. — Static topological solitons in mechanical metamaterials | Compressed past a critical strain, the cells of a perforated elastomer buckle into two mirror rotations. Ordered domain walls between them are the static kink–antikink lattice of the λφ⁴ equation, with net charge zero, pinned by a lattice barrier. These are φ⁴ kinks, not Kane–Lubensky polarization. They exist only while the compression holds the double well. | Read |
 | [NOTE-2083](../../../record/notes.d/NOTE-2083.md) | Cook — How Complex Systems Fail | Eighteen theses on failure in hazardous systems. Accidents need several latent failures joined, so "there is no isolated 'cause'", and root-cause attribution answers "the social, cultural need to blame specific, localized forces or events". Organizations leave the trade between production and risk ambiguous, often intentionally, and the sharp end resolves it; hindsight then calls the result error. Systems run degraded because people keep them working, a defending role outsiders see only after accidents. | Read |
+| [NOTE-2091](../../../record/notes.d/NOTE-2091.md) | Masumori and others 2026 — Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata |  | Read |
+| [NOTE-2096](../../../record/notes.d/NOTE-2096.md) | Wang and Slotine — On partial contraction analysis for coupled nonlinear oscillators | Partial contraction: if a virtual system, with the actual state as an input, is contracting, every trajectory of the actual system acquires any smooth property one of the virtual system's solutions has (equal states, a manifold), though the actual system need not be contracting. Applied to networks of identical units with diffusive coupling, it gives exact global conditions for synchronization, anti-synchronization and oscillator death, and a coupling threshold set by the Laplacian's spectrum, with the common phase left to initial conditions. | Read |
+| [NOTE-2098](../../../record/notes.d/NOTE-2098.md) | Omidvar and others 2025 — Racetrack computing with a topological boundary ratchet |  | Read |
+| [NOTE-2107](../../../record/notes.d/NOTE-2107.md) | Miyato and others 2024 — Artificial Kuramoto Oscillatory Neurons |  | Skimmed |
+| [NOTE-2109](../../../record/notes.d/NOTE-2109.md) | Kaschube and others 2008 — Self-Organization and the Selection of Pinwheel Density in Visual Cortical Development |  | Read |
+| [NOTE-2112](../../../record/notes.d/NOTE-2112.md) | Suzuki, Li and Zurek 2026 — Machine learning topological defect formation: When are the defects made? |  | Read |
+| [NOTE-2123](../../../record/notes.d/NOTE-2123.md) | Rupe and Crutchfield 2018 — Local Causal States and Discrete Coherent Structures |  | Read |
+| [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |
+| [NOTE-2135](../../../record/notes.d/NOTE-2135.md) | Mordvintsev and others 2020 — Growing Neural Cellular Automata |  | Read |

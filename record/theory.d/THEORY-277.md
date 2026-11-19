@@ -231,4 +231,4 @@ clause would then go to a Proposed THEORY that extends it ([ADR-047](../decision
 If a second checker confirms steps 3 to 6, the narrowed title would be: "For a string x of length n and every complexity bound α, a finite set of complexity at most α + O(log n) that minimises two-part code length has randomness deficiency within O(log n) of the best achievable at complexity α; the minimal two-part code length and the best fit plus K(x) agree to within O(log n) in argument and value". Until then the title above stands.
 
 ## Note of 2026-11-19: Carnap, read
-Background ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): the choice of measure this account fixes by complexity is the choice Carnap 1950 leaves to adequacy and consequences, after showing that the common axioms leave every value open (§§47, 59, 110A).
+Background ([NOTE-2110](../notes.d/NOTE-2110.md)): the choice of measure this account fixes by complexity is the choice Carnap 1950 leaves to adequacy and consequences, after showing that the common axioms leave every value open (§§47, 59, 110A).

@@ -50,7 +50,7 @@ summary: >-
   composition heads, formed in the same window, carry more of it above some
   size.
 ---
-<!-- inactive-ok-file: THEORY-tmpqvj8f — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2042 — Proposed; cited in this filing of 2026-11-19 -->
 # THEORY-990: In transformer language models of every size, including large ones with MLPs, induction heads, extended to fuzzy matching of similar tokens and abstract patterns, are the mechanism of most in-context learning, as Olsson et al. propose
 
 ## Source
@@ -124,6 +124,6 @@ the account stays Proposed.
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Yin and Steinhardt ([THEORY-tmpqvj8f](THEORY-tmpqvj8f.md)), read: qualifies this reading by metric and scale. For few-shot accuracy in models from about 1B to 7B, ablating induction heads that lack function-vector character costs about as much as random ablation, while ablating function-vector heads costs much more. On the token-loss difference, Olsson et al.'s own measure, induction heads still matter more. So the thesis holds for that quantity and fails for task accuracy at scale. The function-vector heads form later, not in the same window, so the refutation clause is not met either.
+Yin and Steinhardt ([THEORY-2042](THEORY-2042.md)), read: qualifies this reading by metric and scale. For few-shot accuracy in models from about 1B to 7B, ablating induction heads that lack function-vector character costs about as much as random ablation, while ablating function-vector heads costs much more. On the token-loss difference, Olsson et al.'s own measure, induction heads still matter more. So the thesis holds for that quantity and fails for task accuracy at scale. The function-vector heads form later, not in the same window, so the refutation clause is not met either.
 
 No status change.

@@ -27,7 +27,7 @@ history:
 - version: 4
   date: '2026-11-19'
   note: >-
-    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    Joins the work cost-structure-of-possibility (ADR-106), the
     owner's manuscript from the exchange "Topological protection
     explained": A43 §8.1 and §9 state its proposition. No other
     change.

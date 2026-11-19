@@ -27,7 +27,7 @@ summary: >-
   are a candidate. It does not say that every boundary mode is
   topological, or that the linear zero modes extend to finite motions.
 ---
-<!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2010 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1369 — Proposed and new; the related account from Chen et al. (2016), cited as open -->
 
 # THEORY-1408: Kane and Lubensky show that in isostatic lattices the number of zero modes in a region equals a local count of sites and bonds plus a topological count fixed by winding numbers of the bulk equilibrium matrix, so that gapped phases of different topological polarization carry protected floppy modes or states of self-stress at their boundaries and interfaces even where degrees of freedom and constraints locally balance
@@ -61,6 +61,6 @@ Kane and Lubensky (2014; arXiv v1 2013-08-02), [LIT-2078](../literature.d/LIT-20
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Omidvar and colleagues ([THEORY-tmp5hurd](THEORY-tmp5hurd.md)), read: qualifies the reach of this account. Their domain-wall modes are attributed to bulk polarization of the excitation bands, but the transport they drive is not index-protected: the Chern number is ill-defined on the experimental path, and the wall moves by an instability. The opposite domain's pressure makes the interface mode differ from the vacuum-edge mode. This is not a Kane–Lubensky zero-mode count at an interface, so it does not meet the promote_when.
+Omidvar and colleagues ([THEORY-2010](THEORY-2010.md)), read: qualifies the reach of this account. Their domain-wall modes are attributed to bulk polarization of the excitation bands, but the transport they drive is not index-protected: the Chern number is ill-defined on the experimental path, and the wall moves by an instability. The opposite domain's pressure makes the interface mode differ from the vacuum-edge mode. This is not a Kane–Lubensky zero-mode count at an interface, so it does not meet the promote_when.
 
 No status change.

@@ -25,7 +25,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
-<!-- inactive-ok-file: THEORY-tmpohouk THEORY-tmpqtb3q — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2038 THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
@@ -303,13 +303,13 @@ This meets the second half of "What would count as an answer" for a formal syste
 
 ## Note of 2026-11-19: readings for the exchange "Topological protection explained"
 
-Schoenholz and colleagues ([THEORY-tmpqtb3q](../theory.d/THEORY-tmpqtb3q.md)), read: supports one route, for a stated system. In wide random networks at initialization, the ordered phase erases the distinction between two inputs, their correlation going to 1, and the chaotic phase amplifies small differences until the inputs decorrelate. A distinction survives over a depth scale ξc that diverges only at the transition. This is a bifurcation of the layer map acting on distinctions through depth, in the mean-field limit. It says nothing about stabilization or a constitutive role.
+Schoenholz and colleagues ([THEORY-2041](../theory.d/THEORY-2041.md)), read: supports one route, for a stated system. In wide random networks at initialization, the ordered phase erases the distinction between two inputs, their correlation going to 1, and the chaotic phase amplifies small differences until the inputs decorrelate. A distinction survives over a depth scale ξc that diverges only at the transition. This is a bifurcation of the layer map acting on distinctions through depth, in the mean-field limit. It says nothing about stabilization or a constitutive role.
 
-Suzuki, Li and Zurek ([THEORY-tmpohouk](../theory.d/THEORY-tmpohouk.md)), read: supports the separation of creation from stabilization in one stated system, a noisy one-dimensional φ⁴ field quenched through its transition. Noise imprinted near the critical point, where the potential is flat, is amplified by the instability. A trained predictor recovers the final kinks' number and positions from data near the critical point, well before freeze-out, when the kinks settle into the new minima. So the form is fixed before it is stabilized, and the two are dated apart. A constitutive role is not addressed.
+Suzuki, Li and Zurek ([THEORY-2038](../theory.d/THEORY-2038.md)), read: supports the separation of creation from stabilization in one stated system, a noisy one-dimensional φ⁴ field quenched through its transition. Noise imprinted near the critical point, where the potential is flat, is amplified by the instability. A trained predictor recovers the final kinks' number and positions from data near the critical point, well before freeze-out, when the kinks settle into the new minima. So the form is fixed before it is stabilized, and the two are dated apart. A constitutive role is not addressed.
 
 No status change.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-<!-- inactive-ok-file: THEORY-tmpitdat — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2031 — Proposed; cited from the readings of 2026-11-19 -->
 
-Poole and colleagues ([THEORY-tmpitdat](../theory.d/THEORY-tmpitdat.md), bears_on; [NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)), in wide random networks: the chaotic phase is instability that amplifies small differences, χ1 the per-layer stretch and its logarithm a Lyapunov exponent; the ordered phase is the route by which differences pass away, nearby inputs converging; and new distinctions are made as a curve gains turns at a fixed curvature. Reading the fixed curvature as the stabilization of a form would be an analogy. It adds to the reading of Schoenholz and colleagues the same transition seen as creating distinctions rather than as how far they survive.
+Poole and colleagues ([THEORY-2031](../theory.d/THEORY-2031.md), bears_on; [NOTE-2099](../notes.d/NOTE-2099.md)), in wide random networks: the chaotic phase is instability that amplifies small differences, χ1 the per-layer stretch and its logarithm a Lyapunov exponent; the ordered phase is the route by which differences pass away, nearby inputs converging; and new distinctions are made as a curve gains turns at a fixed curvature. Reading the fixed curvature as the stabilization of a form would be an analogy. It adds to the reading of Schoenholz and colleagues the same transition seen as creating distinctions rather than as how far they survive.

@@ -76,4 +76,4 @@ not refuted. It does not carry the authors' edge-of-stability reading,
 which is argued from the minimal model only.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): the same mechanism class as Chen and colleagues' stochastic collapse, applied to a different symmetry.
+A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): the same mechanism class as Chen and colleagues' stochastic collapse, applied to a different symmetry.

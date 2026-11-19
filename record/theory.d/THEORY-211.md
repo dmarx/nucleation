@@ -187,4 +187,4 @@ this one: the law of balance in deep networks trained on real data, which the au
 changed by it.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues work with the same mechanism class, position-dependent gradient noise pulling dynamics toward low-noise sets, for permutation and sign symmetries rather than rescaling.
+A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues work with the same mechanism class, position-dependent gradient noise pulling dynamics toward low-noise sets, for permutation and sign symmetries rather than rescaling.

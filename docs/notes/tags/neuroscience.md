@@ -4,7 +4,7 @@
 
 **neuroscience**.
 
-144 of 2083 NOTE documents. Back to the [full index](../README.md).
+151 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -152,3 +152,10 @@
 | [NOTE-1969](../../../record/notes.d/NOTE-1969.md) | Seguin et al. — Connectome communication and the spread of direct electrical stimulation | Evoked responses to 29,055 single-pulse stimulations in 550 patients are better predicted by diffusive connectome measures (search information, communicability) than by direct structural weights or routing, even between unconnected regions. Euclidean distance is the strongest single predictor. Distance, search information and FC together give an out-of-sample R² of 54% (preprint figures). No wave content. | Read |
 | [NOTE-1976](../../../record/notes.d/NOTE-1976.md) | Di Volo and Férézou — Nonlinear collision between propagating waves in mouse S1 | The main result: in anaesthetised mouse barrel cortex, two whisker-evoked waves launched 10 ms apart sum sub-linearly, about 30% below the linear sum at peak, as a heterogeneous E/I mean-field model predicted from the lower gain of already-active populations. The waves are excitable fronts at about 0.1 mm/ms, anisotropic in intensity, not speed. | Read |
 | [NOTE-1984](../../../record/notes.d/NOTE-1984.md) | Gepshtein et al. — Spatially distributed computation in cortical circuits | A chain of coupled Wilson–Cowan E/I motifs answers a point input with a standing, spatially damped neural wave of intrinsic period. Linear interference of these waves sets SF and TF preference and gives lateral modulation at the intrinsic period. It predicts, and MT data show, preferred TF varying nonmonotonically with SF. The waves do not propagate, and contrast effects need the nonlinear regime. | Read |
+| [NOTE-2092](../../../record/notes.d/NOTE-2092.md) | Neacsu and others 2026 — Reviewing Structure Learning in and Out of the Active Inference Framework |  | Skimmed |
+| [NOTE-2105](../../../record/notes.d/NOTE-2105.md) | Friston and others 2026 — Active inference and artificial reasoning |  | Read |
+| [NOTE-2109](../../../record/notes.d/NOTE-2109.md) | Kaschube and others 2008 — Self-Organization and the Selection of Pinwheel Density in Visual Cortical Development |  | Read |
+| [NOTE-2111](../../../record/notes.d/NOTE-2111.md) | Gili and others 2024 — Fibration symmetry-breaking supports functional transitions in a brain network engaged in language |  | Read |
+| [NOTE-2117](../../../record/notes.d/NOTE-2117.md) | Smith, Friston and Whyte 2022 — A step-by-step tutorial on active inference and its application to empirical data |  | Skimmed |
+| [NOTE-2132](../../../record/notes.d/NOTE-2132.md) | Keller and others 2024 — Traveling Waves Encode the Recent Past and Enhance Sequence Learning |  | Read |
+| [NOTE-2133](../../../record/notes.d/NOTE-2133.md) | Jacobs and others 2025 — Traveling Waves Integrate Spatial Information Through Time |  | Read |

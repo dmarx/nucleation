@@ -197,4 +197,4 @@ unanswered: the history note of 2026-10-27 names it, but the sentence it
 targets under "What it does not say" is unchanged.
 
 ## Note of 2026-11-19: Carnap, read
-A parallel from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)), not evidence: an order defined by agreement across every admissible measure, with incomparability where they disagree (§§81–82), as Blackwell's is across decision problems. The claim is unchanged.
+A parallel from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md)), not evidence: an order defined by agreement across every admissible measure, with incomparability where they disagree (§§81–82), as Blackwell's is across decision problems. The claim is unchanged.

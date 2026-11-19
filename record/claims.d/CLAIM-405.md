@@ -61,7 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-065
 ---
-<!-- inactive-ok-file: THEORY-tmp8my3p — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-174 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 
@@ -247,6 +247,6 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-Gili and colleagues ([THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md), read; A17 §2 reported the detail) corroborate the clause on crossing boundaries. At rest the two Broca regions share a fibre. In task, left Broca joins SMA and right Broca joins the Wernicke regions, so one system's rest and task partitions cross rather than nest. The support is narrower than the clause: the criterion, the coarsest balanced colouring that matches the observed synchrony, is the same in both states, and what differs is the state and the inferred network. So it shows crossing units under one criterion in two conditions, not under two criteria. The reading's front matter already carries corroborates CLAIM-405; the claim does not rest on it.
+Gili and colleagues ([THEORY-2014](../theory.d/THEORY-2014.md), read; A17 §2 reported the detail) corroborate the clause on crossing boundaries. At rest the two Broca regions share a fibre. In task, left Broca joins SMA and right Broca joins the Wernicke regions, so one system's rest and task partitions cross rather than nest. The support is narrower than the clause: the criterion, the coarsest balanced colouring that matches the observed synchrony, is the same in both states, and what differs is the state and the inferred network. So it shows crossing units under one criterion in two conditions, not under two criteria. The reading's front matter already carries corroborates CLAIM-405; the claim does not rest on it.
 
 No status change.

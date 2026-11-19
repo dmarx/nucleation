@@ -4,7 +4,7 @@
 
 **learning-theory**.
 
-180 of 2083 NOTE documents. Back to the [full index](../README.md).
+203 of 2137 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -188,3 +188,26 @@
 | [NOTE-1985](../../../record/notes.d/NOTE-1985.md) | Kumar, Tan and Sharma — Probing classifiers are unreliable for concept removal | For frozen, disentangled representations under max-margin training, a concept probe uses correlated main-task features, so probe-guided removal (INLP, adversarial) can leave concept features while corrupting task features; on a classifier that never used the concept, INLP drives main-task accuracy to chance. | Read |
 | [NOTE-1986](../../../record/notes.d/NOTE-1986.md) | Balasubramanian and Kasiviswanathan — Forgetting in post-training | In a two-mode mixture, forward-KL SFT on new data collapses the old mode's weight; KL-regularized (reverse-KL) RL toward a target that keeps the old mode converges to it, with drift exponentially small in mode separation; an exponential tilt of a frozen reference only reweights modes it already has. States the KL-regularized optimum in closed form. | Read |
 | [NOTE-1988](../../../record/notes.d/NOTE-1988.md) | Schlag, Irie and Schmidhuber — Linear transformers are fast weight programmers | Linear attention, with or without a kernel φ, is an outer-product fast weight programmer apart from normalisation: a fast weight matrix summing v ⊗ φ(k), read by the query. Hence at most d_dot associations without crosstalk, shown on synthetic retrieval, and a delta-rule write W ← W + β(v − v̄) ⊗ φ(k) with a learned rate β, which helps on WikiText-103 in an overcapacity regime. Defines the delta-rule layer [QUESTION-159](../../../record/questions.d/QUESTION-159.md) asks about. | Read |
+| [NOTE-2084](../../../record/notes.d/NOTE-2084.md) | Lu and Kankanhalli 2026 — Agentic-TTT: Training Test-time Policy for Test-time Training |  | Read |
+| [NOTE-2089](../../../record/notes.d/NOTE-2089.md) | Rajendran and others 2020 — Meta-Learning Requires Meta-Augmentation |  | Read |
+| [NOTE-2090](../../../record/notes.d/NOTE-2090.md) | Finn and others 2017 — Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks |  | Read |
+| [NOTE-2094](../../../record/notes.d/NOTE-2094.md) | Li and Webb 2026 — What drives the emergence of symbolic mechanisms in large language models? |  | Read |
+| [NOTE-2099](../../../record/notes.d/NOTE-2099.md) | Poole, Lahiri, Raghu, Sohl-Dickstein and Ganguli — Exponential expressivity in deep neural networks through transient chaos | Mean-field theory of wide random networks: maps for the length of one input and the correlation of two across layers, whose slope χ1 at correlation 1 divides the weight and bias variances into an ordered phase, where inputs converge, and a chaotic one, where they separate. In the chaotic phase a curve's length grows exponentially with depth while its curvature holds at a fixed point, so its global curvature grows exponentially with depth and not with width; a one-hidden-layer network cannot match this. | Read |
+| [NOTE-2101](../../../record/notes.d/NOTE-2101.md) | Schoenholz and others 2017 — Deep Information Propagation |  | Read |
+| [NOTE-2102](../../../record/notes.d/NOTE-2102.md) | Nichol and others 2018 — On First-Order Meta-Learning Algorithms |  | Read |
+| [NOTE-2103](../../../record/notes.d/NOTE-2103.md) | Garg and others 2022 — What Can Transformers Learn In-Context? A Case Study of Simple Function Classes |  | Read |
+| [NOTE-2104](../../../record/notes.d/NOTE-2104.md) | Min and others 2022 — MetaICL: Learning to Learn In Context |  | Read |
+| [NOTE-2106](../../../record/notes.d/NOTE-2106.md) | Javed and White 2019 — Meta-Learning Representations for Continual Learning |  | Read |
+| [NOTE-2108](../../../record/notes.d/NOTE-2108.md) | Hospedales and others 2020 — Meta-Learning in Neural Networks: A Survey |  | Skimmed |
+| [NOTE-2113](../../../record/notes.d/NOTE-2113.md) | Wang and Isola 2020 — Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere |  | Read |
+| [NOTE-2116](../../../record/notes.d/NOTE-2116.md) | Yin and others 2020 — Meta-Learning without Memorization |  | Read |
+| [NOTE-2118](../../../record/notes.d/NOTE-2118.md) | Settles 2009 (rev. 2010) — Active Learning Literature Survey |  | Skimmed |
+| [NOTE-2119](../../../record/notes.d/NOTE-2119.md) | Springer and others 2025 — Overtrained Language Models Are Harder to Fine-Tune |  | Read |
+| [NOTE-2121](../../../record/notes.d/NOTE-2121.md) | Akyürek and others 2023 — What learning algorithm is in-context learning? Investigations with linear models |  | Read |
+| [NOTE-2125](../../../record/notes.d/NOTE-2125.md) | Han and others 2026 — Weight Decay Improves Language Model Plasticity |  | Read |
+| [NOTE-2126](../../../record/notes.d/NOTE-2126.md) | Iqbal and others 2026 — Spontaneous symmetry breaking and Goldstone modes for deep information propagation |  | Read |
+| [NOTE-2127](../../../record/notes.d/NOTE-2127.md) | Chen, Kunin, Yamamura and Ganguli — Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks | Sets where a hidden neuron vanishes, or two neurons in a layer are identical, are invariant under SGD; both are fixed sets of reflection symmetries of the parameterization. For a continuous model of SGD the authors give a sufficient condition for such a set to attract, a competition between curvature and gradient noise that can hold at saddles and maxima, and report clusters of near-identical neurons in trained VGG and ResNet networks, growing with learning rate. In a linear teacher-student model the collapse keeps weak modes from being learned. | Read |
+| [NOTE-2128](../../../record/notes.d/NOTE-2128.md) | Sun and others 2020 — Test-Time Training with Self-Supervision for Generalization under Distribution Shifts |  | Read |
+| [NOTE-2131](../../../record/notes.d/NOTE-2131.md) | Raghu and others 2019 — Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML |  | Read |
+| [NOTE-2136](../../../record/notes.d/NOTE-2136.md) | Biderman and others 2023 — Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling |  | Read |
+| [NOTE-2137](../../../record/notes.d/NOTE-2137.md) | Dohare and others 2023/2024 — Maintaining Plasticity in Deep Continual Learning (arXiv v3), published as Loss of plasticity in deep continual learning (Nature 2024) |  | Read |

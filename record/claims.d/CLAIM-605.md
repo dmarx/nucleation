@@ -85,7 +85,7 @@ summary: >-
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp5gbzr CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-756 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-684 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
@@ -230,8 +230,8 @@ owner's call.
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A41 §8 cited this claim rightly for the converse of recursive capability formation: a competence learned by practice can decay below the threshold for its own recovery, so "the same recursive structure can produce either capability accumulation or a capability trap". A43 §5.3 says the same. That recursion is this claim for one capacity. [CLAIM-tmp5gbzr](CLAIM-tmp5gbzr.md), filed from the same exchange, gives the two-capacity case, where acquiring one capacity lowers the cost of acquiring another.
+A41 §8 cited this claim rightly for the converse of recursive capability formation: a competence learned by practice can decay below the threshold for its own recovery, so "the same recursive structure can produce either capability accumulation or a capability trap". A43 §5.3 says the same. That recursion is this claim for one capacity. [CLAIM-756](CLAIM-756.md), filed from the same exchange, gives the two-capacity case, where acquiring one capacity lowers the cost of acquiring another.
 
-A48 §8's "learning oneself into a trap" is an internal case of this model. The learner's own efficient procedure, not outside support, does the work its exploratory competence would have done, "a highly efficient learned procedure that gradually replaces the exploratory competence through which the procedure was originally developed". The model applies if exploratory competence is learned by doing and decays with disuse, which A does not show. The owner's U22 read it as a generalization of overfitting that captures "over cooking" a learning process; that is filed as [CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md).
+A48 §8's "learning oneself into a trap" is an internal case of this model. The learner's own efficient procedure, not outside support, does the work its exploratory competence would have done, "a highly efficient learned procedure that gradually replaces the exploratory competence through which the procedure was originally developed". The model applies if exploratory competence is learned by doing and decays with disuse, which A does not show. The owner's U22 read it as a generalization of overfitting that captures "over cooking" a learning process; that is filed as [CLAIM-758](CLAIM-758.md).
 
 No status change.

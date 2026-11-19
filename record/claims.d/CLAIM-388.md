@@ -149,4 +149,4 @@ aggregate. [CLAIM-526](CLAIM-526.md) uses this.
 No status, title or warrant changes.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-A parallel from Wang and Slotine ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): the synchronous set of identical diffusively coupled units is closed, with the dynamics of one uncoupled unit, and no fast or weakly coupled block is assumed (eq. 10). Another exact closure without a block decomposition. The claim is unchanged.
+A parallel from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): the synchronous set of identical diffusively coupled units is closed, with the dynamics of one uncoupled unit, and no fast or weakly coupled block is assumed (eq. 10). Another exact closure without a block decomposition. The claim is unchanged.
