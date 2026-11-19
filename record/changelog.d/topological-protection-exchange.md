@@ -1,4 +1,5 @@
-<!-- inactive-ok-file: CLAIM-tmp5vg7p CLAIM-tmpj540o CLAIM-tmpkrk41 SYNTHESIS-042 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: SYNTHESIS-030 SYNTHESIS-043 SYNTHESIS-088 SYNTHESIS-tmpfhzxg SYNTHESIS-tmphvng7 SYNTHESIS-tmplih4n — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-tmp5vg7p CLAIM-tmpj540o CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-tmpm8rng ARG-tmpy9z67 CASE-tmphsr99 CASE-tmpplox8 CASE-tmpsjjgx CLAIM-478 CLAIM-tmp1l2s7 CLAIM-tmp449rr CLAIM-tmp5gbzr CLAIM-tmp8ljvp CLAIM-tmpqpd2p CLAIM-tmpw8xkt SYNTHESIS-096 TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 ### Added
@@ -31,8 +32,6 @@
 
 ### Changed
 
-- [SYNTHESIS-096](record/syntheses.d/SYNTHESIS-096.md) v2 integrates the three frontiers, overconsolidation and
-  the Pythia study.
 - [CLAIM-475](record/claims.d/CLAIM-475.md)'s note of 2026-11-19 corrects its summary's identification of
   amortization with [CLAIM-478](record/claims.d/CLAIM-478.md)'s separation of time scales.
 
@@ -45,4 +44,9 @@
   genres case ([CASE-tmpsjjgx](record/cases.d/CASE-tmpsjjgx.md)); and the check of the symmetry route to the
   owner's fibration hunch ([CLAIM-tmpj540o](record/claims.d/CLAIM-tmpj540o.md)), which holds only where the
   relabelling group permutes units, and corrects [QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md).
-- [SYNTHESIS-042](record/syntheses.d/SYNTHESIS-042.md) v3 integrates the filing's realizability entries.
+- Three new part accounts at the synthesis review of 2026-11-19: how an
+  equivalence becomes a unit (SYNTHESIS-tmplih4n, formal-apparatus);
+  stored work and the cost structure of possibility (SYNTHESIS-tmphvng7,
+  realizability); what learning does to what can still be learned
+  (SYNTHESIS-tmpfhzxg, learned-structure). The line accounts
+  SYNTHESIS-088, SYNTHESIS-043 and SYNTHESIS-030 integrate them.

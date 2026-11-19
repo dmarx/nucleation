@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpivyc1
 title: 'The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner''s demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, what classification leaves in the last layers, whether modes describe learned networks, and how latent capability is elicited and at what cost, with smaller families and eighteen entries linked to no other; the parts meet mostly through the acquisition questions, and the line is a candidate to split'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -22,6 +22,12 @@ history:
     links were stated by notes of 2026-11-11 and are removed; one is
     added. The title is changed to name the two new parts and the new
     count.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Integrates a new part account, SYNTHESIS-tmpfhzxg, filed at the owner's request
+    of 2026-11-19 from the exchange "Topological protection explained":
+    what learning is and what it does to what can still be learned (CLAIM-tmp1l2s7, the owner's overconsolidation, CLAIM-tmp8ljvp, and the owner's questions on optimal learning and knowing). No other change.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the line that neither a part account nor this
@@ -36,6 +42,7 @@ date: '2026-11-10'
 line:
 - learned-structure
 integrates:
+- SYNTHESIS-tmpfhzxg
 - SYNTHESIS-026
 - SYNTHESIS-034
 - SYNTHESIS-029
@@ -83,6 +90,7 @@ bears_on:
 - QUESTION-039
 - QUESTION-069
 ---
+<!-- inactive-ok-file: SYNTHESIS-tmpfhzxg CLAIM-tmp1l2s7 CLAIM-tmp8ljvp — Proposed; the part account integrated on 2026-11-19 and its hinge -->
 <!-- inactive-ok-file: ADR-083 CASE-270 CASE-271 CASE-272 CASE-273 CASE-274 CASE-275 CLAIM-633 CLAIM-641 CLAIM-695 CLAIM-696 CLAIM-697 CLAIM-698 CLAIM-699 CASE-193 CASE-226 CLAIM-263 CLAIM-367 CLAIM-498 CLAIM-499 CLAIM-555 CLAIM-620 CLAIM-621 CLAIM-629 TERM-098 THEORY-196 THEORY-288 THEORY-614 — Proposed; components, citations and the decisions this account follows, with their standing -->
 <!-- inactive-ok-file: QUESTION-244 QUESTION-286 QUESTION-291 QUESTION-294 — Answered; components and citations, with their standing -->
 
@@ -119,6 +127,8 @@ bears_on:
   [CASE-271](../cases.d/CASE-271.md), [CASE-274](../cases.d/CASE-274.md), [CASE-275](../cases.d/CASE-275.md)). Dispositions relative to budgets,
   readers and cues; RL as amortized search; telling loss from
   inaccessibility.
+
+- **Added 2026-11-19:** SYNTHESIS-tmpfhzxg, the account of what learning is and what it does to what can still be learned (CLAIM-tmp1l2s7, the owner's overconsolidation, CLAIM-tmp8ljvp, and the owner's questions on optimal learning and knowing).
 
 ## Where the parts meet
 

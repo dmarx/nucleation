@@ -42,6 +42,7 @@ summary: >-
   that the three diverge. A71 introduced the inquiry frontier as new; it
   is [TERM-092](../terms.d/TERM-092.md). The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-697 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmp1l2s7: A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no single measure of competence or plasticity ranks learners or learning processes
@@ -80,6 +81,22 @@ to keep is [CLAIM-569](CLAIM-569.md). That a concept can make a question askable
 it makes it answerable is [CLAIM-475](CLAIM-475.md). The claim's own content is the
 developmental frontier as an object with a declared interface, and the
 consequence that no single scalar ranks learners.
+
+## Admission
+
+Tested at the synthesis review of 2026-11-19, because its premises are
+claims and it could be only their account. What it adds, in one
+sentence: for a learner's own training, and not only for support given
+to a party, the frontier of what can still be acquired varies apart from
+present competence. Its premises leave that open: CLAIM-675 is
+demonstrated for support that does a party's work, CLAIM-569 for forms
+in general, CLAIM-697 for elicitation of a fixed system. It passes as a
+discriminating prediction. Within one training run of one architecture,
+checkpoints with equal operational frontiers on a declared family of
+familiar tasks will differ in the budget they need to acquire held-out
+task families. The outcome against it is acquisition cost fixed by
+present performance across checkpoints. CASE-tmphsr99 measures exactly
+this.
 
 ## The stronger reading it invites and does not support
 
