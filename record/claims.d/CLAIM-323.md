@@ -97,3 +97,6 @@ in every problem". [THEORY-717](../theory.d/THEORY-717.md), Active, states both 
 spaces. The ground is now that THEORY. The quotations above are [THEORY-156](../theory.d/THEORY-156.md)'s
 wording of the same definitions, which still holds them for arbitrary
 outcome spaces.
+
+## Note of 2026-11-19: Carnap, read
+A parallel from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)), not evidence: his comparative confirmation is, like Blackwell's order, defined by agreement across every admissible measure, with incomparability where they disagree (§§81–82). The claim is unchanged.

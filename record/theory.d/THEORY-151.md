@@ -124,3 +124,6 @@ with homogenized reviews (less diversity of criticism), which are two of the
 conditions the theory names. The paper itself cites Longino on the value of
 reviewer variation. Candidate dated note on THEORY-151 or a `bears_on`; it
 does not test the theory.
+
+## Note of 2026-11-19: Carnap, read
+A contrast ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). Carnap places objectivity in a logical relation relative to the evidence and the language (§§8, 48), not in a community's practice, and reads everyday disagreement about probabilities as tacit belief in an objective value, while saying "it does, of course, by no means follow that probability, is actually an objective concept" (§48).

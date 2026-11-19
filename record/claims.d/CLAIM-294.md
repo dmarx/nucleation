@@ -145,3 +145,15 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Park et al.** ([THEORY-1736](../theory.d/THEORY-1736.md)): The memory stream keeps the history but no structure of dependence, so a reflection whose evidence later changes is not revisited; illustrates what the claim says a record must keep beyond conclusions, and that keeping observations is not enough.
 
 The claim is unchanged.
+
+## Note of 2026-11-19: Carnap, read
+<!-- inactive-ok-file: THEORY-tmp1kxhj — newly filed; the reading of 2026-11-19 -->
+
+Carnap's relevance theory ([THEORY-tmp1kxhj](../theory.d/THEORY-tmp1kxhj.md), corroborates): c(h,e) and
+the separate relevance of i and of j to h do not fix the relevance of i
+and j together (§§68–69): "the superficial appearance of plausibility in
+inductive logic is very often entirely misleading." A summary of each
+support taken separately underdetermines the update on their
+combination, which is the claim's insufficiency of a current marginal
+state, in a different setting. Analogy of structure, not the claim's own
+case. The claim is unchanged.

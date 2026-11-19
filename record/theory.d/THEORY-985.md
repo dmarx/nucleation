@@ -89,3 +89,6 @@ do).
   ([LIT-1544](../literature.d/LIT-1544.md)).
 - Anything about time or covariates. The objects are exchangeable.
 - That the paper proves conjugacy; it cites it.
+
+## Note of 2026-11-19: Carnap, read
+Background ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). Carnap's symmetrical confirmation functions, invariant under any permutation of individuals (§§90–91), are formally the exchangeable sequences this account mixes over; he cites de Finetti but does not use the word. He makes symmetry a requirement on any adequate explicatum: "no concept can be regarded as an adequate explicatum for probability, unless it possesses the charac- teristic of symmetry" (§91).
