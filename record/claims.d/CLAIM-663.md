@@ -131,7 +131,7 @@ All five use the claim's two columns, boundary as reachability under a budget an
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A69 §4 and A71 §4 set sophisticated active inference (THEORY-426) beside this claim. Recursive planning selects trajectories prospectively, so an action with little immediate value can be chosen for the later observation it opens; PASS@(k,T) scores how reliably trajectories succeed at each budget. A69 §4: "The connection isn't an identity of metrics". A71 §4 calls them complements, "Policy selection" and "Resource-indexed outcome evaluation", not one measure, which fits this claim's columns: the planner is a process, and the metric reads its reachability and reliability under a budget.
+A69 §4 and A71 §4 set sophisticated active inference ([THEORY-426](../theory.d/THEORY-426.md)) beside this claim. Recursive planning selects trajectories prospectively, so an action with little immediate value can be chosen for the later observation it opens; PASS@(k,T) scores how reliably trajectories succeed at each budget. A69 §4: "The connection isn't an identity of metrics". A71 §4 calls them complements, "Policy selection" and "Resource-indexed outcome evaluation", not one measure, which fits this claim's columns: the planner is a process, and the metric reads its reachability and reliability under a budget.
 
 A's proposal (A69 §4) is to judge an epistemic planner "by the resource-bounded repertoire of successful trajectories it actually produces", and to tell better selection among existing trajectories from expansion of the repertoire. That is this claim's question of reachable against reliably reached, asked of a planner. Nothing was run.
 
