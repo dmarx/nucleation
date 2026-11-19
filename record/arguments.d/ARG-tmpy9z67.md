@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'CASE-116''s slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions'
+title: 'The three-arm case''s slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions'
 version: 1
 form: existence
 grounds:
@@ -22,7 +22,7 @@ summary: >-
   in this session; adopting it is the owner's call.
 ---
 
-# ARG-tmpy9z67: [CASE-116](../cases.d/CASE-116.md)'s slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions
+# ARG-tmpy9z67: The three-arm case's slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions
 
 ## The inference
 

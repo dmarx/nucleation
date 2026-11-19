@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in CLAIM-478''s sense, and a constraint that is both is a further fact'
+title: 'Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in the sense of the owner''s scale-separation claim, and a constraint that is both is a further fact'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -41,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-tmpy9z67 CLAIM-478 CLAIM-tmp5gbzr CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-tmp449rr: Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in [CLAIM-478](CLAIM-478.md)'s sense, and a constraint that is both is a further fact
+# CLAIM-tmp449rr: Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in the sense of the owner's scale-separation claim, and a constraint that is both is a further fact
 
 ## The claim
 
