@@ -130,3 +130,6 @@ model at every R and difficulty (it lost at high R and on the hardest).
 - [THEORY-342](THEORY-342.md) is the complement: Jones measures the exchange rate between
   training and search at fixed strength, with no volume term; these two
   add volume, with no iso-performance curve beyond Snell's one comparison.
+
+## Note of 2026-11-19: Howard and Ruder, read
+An analogy (NOTE-tmp44esf): Howard and Ruder justify pretraining's cost because "it only needs to be performed once", up-front compute amortized over later uses, without accounting.

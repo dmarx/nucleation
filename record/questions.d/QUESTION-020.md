@@ -104,3 +104,6 @@ stand in for transmitted information. Its worked example has no side
 information at the decoder, which is A86's Wyner–Ziv case. [CLAIM-258](../claims.d/CLAIM-258.md)
 and [CLAIM-237](../claims.d/CLAIM-237.md), on side information and deficiency, bear here as on
 [QUESTION-016](QUESTION-016.md).
+
+## Note of 2026-11-19: Brown and colleagues, read
+An analogy close to evidence (NOTE-tmprmye5): in Brown and colleagues' results larger models need fewer demonstrations, a better interpreter substituting for transmitted examples, though across model sizes and without a measure of the substitution rate.

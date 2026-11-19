@@ -85,3 +85,6 @@ across sizes. Neither happened.
   pretraining.
 - **[CLAIM-248](../claims.d/CLAIM-248.md)** cites this result: one model is not enough, because what
   works for one model does not for another.
+
+## Note of 2026-11-19: Brown and colleagues, read
+Qualifies (NOTE-tmprmye5): Brown and colleagues' few-shot results are sensitive to example order, as this account shows up to the same 175B model, which bears on how reliably a level is reached in context.

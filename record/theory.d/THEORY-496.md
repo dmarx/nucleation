@@ -113,3 +113,6 @@ Min and colleagues' MetaICL ([THEORY-2037](THEORY-2037.md)), read: complements t
 Pan and colleagues ([THEORY-2039](THEORY-2039.md)), read: qualifies this reading by scale, and runs the test it says was missing. The gold–random gap is small for smaller models, agreeing with Min et al., but in their tasks it widens as models and demonstrations grow, and with 16 examples OPT-66B and GPT-3 davinci match gold accuracy under abstract remapped labels. So large models do learn new mappings in context. Min et al.'s small gap at 175B and this result are not reconciled by either paper.
 
 No status change.
+
+## Note of 2026-11-19: Brown and colleagues, read
+Qualifies Brown and colleagues' results (NOTE-tmprmye5): on classification much of the few-shot gain is format and label-space recognition, the recognition end of the spectrum they leave open. Their synthetic tasks are not tested here.

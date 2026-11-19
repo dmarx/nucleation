@@ -207,3 +207,6 @@ Min and colleagues' MetaICL ([THEORY-2037](../theory.d/THEORY-2037.md)), read, i
 Lu and Kankanhalli ([THEORY-2023](../theory.d/THEORY-2023.md)), read: a LoRA skill built on one query and loaded on later ones carries earlier contexts into new ones, so by the claim's criterion it falls on the interpreter side although the backbone is frozen and the skill removable. The interpreter becomes a backbone plus a library, with a policy choosing per query which one answers. That fits the claim's criterion of what is carried and leaves it untested.
 
 No status change.
+
+## Note of 2026-11-19: Brown and colleagues, read
+A parallel, close to evidence (NOTE-tmprmye5): Brown and colleagues' in-context learning is the signal side of this claim's distinction; the demonstrations supply signal, and the pretrained weights the interpreter.

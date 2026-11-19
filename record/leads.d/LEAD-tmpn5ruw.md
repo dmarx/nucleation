@@ -1,8 +1,17 @@
 ---
-status: Open
+status: Done
 title: 'Read the pretraining works that measure what the owner said the literature ought to show: Brown and colleagues on few-shot in-context learning (GPT-3) and Howard and Ruder on sample-efficient fine-tuning (ULMFiT)'
-version: 1
-stage: specified
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Done: both works read the same day (LIT-tmpjzvu6, NOTE-tmprmye5,
+    THEORY-tmp8cm7r; LIT-tmpcbzyu, NOTE-tmp44esf, THEORY-tmpw8s3h). The
+    plan overstated what Brown and colleagues measure: accuracy against
+    the number of examples by model size, not examples to a level, and
+    across sizes at fixed pretraining, not with and without it.
+stage: underway
 method:
 - reading
 tags:
@@ -22,7 +31,7 @@ summary: >-
   and Ruder added as the work that measures labelled-sample cost directly.
   Neither is held.
 ---
-<!-- inactive-ok-file: CLAIM-756 TERM-131 — Proposed or newly filed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp8cm7r THEORY-tmpw8s3h CLAIM-756 TERM-131 — Proposed or newly filed; cited in this filing of 2026-11-19 -->
 
 # LEAD-tmpn5ruw: Read the pretraining works that measure what the owner said the literature ought to show: Brown and colleagues on few-shot in-context learning (GPT-3) and Howard and Ruder on sample-efficient fine-tuning (ULMFiT)
 
@@ -49,3 +58,17 @@ the operational frontier reaching further, not acquisition. That bears on
 ## Cost
 
 Two readings.
+
+## What came of it
+
+Howard and Ruder measure what the owner's point at U37 needed: with 100
+labelled examples a pretrained and fine-tuned model matches training from
+scratch on ten to twenty times more labels, a hundred times with
+unlabelled text. The saving is joint with their fine-tuning method, and
+pretraining is not counted as cost. Brown and colleagues show larger
+pretrained models using in-context examples more efficiently, across
+sizes rather than against no pretraining, and the plan's claim that they
+measure examples to a level was too strong. In-context learning changes
+no weights; whether it is learning in TERM-131's sense is now argued in
+the note on that term. Notes on CLAIM-756, TERM-131 and the entries the
+readings bear on carry the rest (curation entry of 2026-11-19, 202220).

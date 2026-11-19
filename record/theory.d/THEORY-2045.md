@@ -48,3 +48,6 @@ In the survey's framing, active learning lets the learner pose queries, usually 
 - No new results. A survey up to 2010.
 - Little on agents whose queries are actions in a world, or on interventional or structural queries.
 - It does not quantify how often active learning fails.
+
+## Note of 2026-11-19: Howard and Ruder, read
+A parallel (NOTE-tmp44esf): Howard and Ruder use the same measure of labels needed to reach a level, by transfer rather than by choosing which examples to label.

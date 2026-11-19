@@ -56,3 +56,6 @@ Extended pre-training improves the base model steadily. For a modification of fi
 
 ## Note of 2026-11-19: Anguita and colleagues, read
 A contrast ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): Anguita and colleagues vary initialization, not pretraining length, and measure only fine-tuning error, so their account says nothing about catastrophic overtraining or forgetting.
+
+## Note of 2026-11-19: Howard and Ruder, read
+A parallel (NOTE-tmp44esf): Howard and Ruder also find that full fine-tuning at an aggressive rate loses the pretrained benefit and that a gentler schedule keeps it; they do not vary pretraining length.

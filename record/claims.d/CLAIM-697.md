@@ -111,3 +111,6 @@ coverage, not what an unaided selector delivers.
 (c) A71 §1 introduced this claim's construction, a supremum over affordable procedures of delivered, not merely sampled, success, with "Our theory needs a richer object", and only then said it is "closely aligned" with this claim. It is this claim, the owner's idea. (d) A73 carries coverage against delivery to knowledge: a correct response once in 10,000 samples is "Evidence of generative reach, not by itself knowledge" ([QUESTION-493](../questions.d/QUESTION-493.md)). (e) [CLAIM-754](CLAIM-754.md) takes this claim's set of tasks reliable within a budget as its operational frontier.
 
 No status change.
+
+## Note of 2026-11-19: Brown and colleagues, read
+A parallel (NOTE-tmprmye5): few-shot elicitation of a frozen model fits this resource-conditional disposition, with the number of demonstrations and the context window as operating budget.

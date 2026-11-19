@@ -47,3 +47,6 @@ In-context learning of a function class is a property of a fixed model: low expe
 - Anything about language models trained on text; the authors leave that open.
 - Robustness in general: error grows under skewed covariance and when inputs are scaled by 1/3 or 3.
 - That the model does gradient descent.
+
+## Note of 2026-11-19: Brown and colleagues, read
+A parallel (NOTE-tmprmye5): a from-scratch case of the de novo end of the spectrum Brown and colleagues leave open, where an outer loop provably yields in-context learning of unseen functions.
