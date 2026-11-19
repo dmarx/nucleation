@@ -32,5 +32,5 @@ in inquiry; if not, in inference or plasticity.
 
 ## What is not yet settled
 
-The environment ([LEAD-tmphfbq0](LEAD-tmphfbq0.md)), the probe costs, and what counts as two learners
+A task-composition setting, found in prior work or built ([LEAD-tmphfbq0](LEAD-tmphfbq0.md)), the probe costs, and what counts as two learners
 with the same present competence.

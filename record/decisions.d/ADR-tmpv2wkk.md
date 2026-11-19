@@ -96,8 +96,8 @@ The first application, filed with this decision, is ten leads from the
 exchange "Topological protection explained" and its readings, on the
 learned-structure line and the owner's Reddit case: the Pythia study's
 calibration pilot and the study it presupposes (both operationalized in
-[CASE-294](../cases.d/CASE-294.md)), the Reddit study ([CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md)), a compositional environment
-and the inquiry experiment that presupposes it, a thermodynamic
+[CASE-294](../cases.d/CASE-294.md)), the Reddit study ([CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md)), a task-composition
+investigation and the inquiry experiment that presupposes it, a thermodynamic
 milestone, two readings (the owner's suggestion of the GPT-3 paper, with
 ULMFiT; and Lippl and Lindsey), a conceptual lead for [QUESTION-493](../questions.d/QUESTION-493.md) and a
 formal one for [QUESTION-495](../questions.d/QUESTION-495.md). No question-to-question `presupposes` edge
