@@ -1,3 +1,4 @@
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5vg7p CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 ### Added
 
 - The forty-six works registered from the exchange "Topological

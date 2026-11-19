@@ -27,6 +27,7 @@ summary: >-
   kinks, not Kane–Lubensky polarization. The wording is the reader's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-1893: Zhang, Li, Zheng, Genin and Chen show that a perforated elastomer whose cells become bistable under compression breaks into domains of opposite rotation separated by ordered, reproducible walls, which a strong-coupling continuum limit describes as the static kink–antikink lattice of the φ⁴ equation
 

@@ -40,6 +40,7 @@ summary: >-
   generalizes in one direction. Read in its NOTE. Read in NOTE-tmpubt2l;
   its account is THEORY-tmp31d9a.
 ---
+<!-- inactive-ok-file: THEORY-tmp31d9a — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp31ier: Modular dynamical systems on networks
 

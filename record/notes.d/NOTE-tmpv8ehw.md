@@ -22,6 +22,8 @@ history:
     dl/text.txt.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-698 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpv8ehw: Keller and others 2024 — Traveling Waves Encode the Recent Past and Enhance Sequence Learning
 

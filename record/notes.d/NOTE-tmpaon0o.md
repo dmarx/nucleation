@@ -19,6 +19,7 @@ history:
     plots, references.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpaon0o: Schoenholz and others 2017 — Deep Information Propagation
 

@@ -21,6 +21,7 @@ summary: >-
   nothing at the level of units or partitions, so the link is untested.
   The question's wording is the filer's; the hunch is the owner's.
 ---
+<!-- inactive-ok-file: THEORY-tmp1cus0 THEORY-tmp31d9a THEORY-tmpz825j — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmpj540o — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-tmp8my3p THEORY-tmpmtmq7 — Proposed; cited in this filing of 2026-11-19 -->
 

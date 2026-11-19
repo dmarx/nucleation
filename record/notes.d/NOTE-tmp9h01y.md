@@ -18,6 +18,7 @@ history:
     between v3 and the PRL text is unchecked.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: THEORY-817 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp9h01y: Still 2017 (PRL 2020) — Thermodynamic cost and benefit of memory
 

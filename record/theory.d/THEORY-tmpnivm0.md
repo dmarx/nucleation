@@ -31,6 +31,7 @@ summary: >-
   that it uses the signal better (CLAIM-118), and of the meta-learning arm
   of CASE-tmphsr99. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpnivm0: Min and colleagues show that fine-tuning a 770M-parameter language model on many tasks presented as few-shot episodes makes it better at learning held-out classification and multiple-choice tasks in context, without parameter updates, than the same model without such training or trained on the same tasks without demonstrations, with the largest gains on targets unlike the training tasks and with diverse training tasks mattering most
 

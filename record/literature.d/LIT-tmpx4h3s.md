@@ -43,6 +43,7 @@ summary: >-
   learned interpreter and a discarded per-sequence fit. Read in its NOTE.
   Read in NOTE-tmpbf4ra; its account is THEORY-tmpxdk37.
 ---
+<!-- inactive-ok-file: THEORY-tmpxdk37 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpx4h3s: What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
 

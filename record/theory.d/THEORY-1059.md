@@ -33,6 +33,7 @@ summary: >-
 bears_on:
 - QUESTION-063
 ---
+<!-- inactive-ok-file: THEORY-tmp31d9a THEORY-tmpz825j — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-1059: The dynamics a coupled cell network admits, restricted to a robustly synchronous pattern, are dynamics admitted by a smaller quotient network whose cells are the synchronized classes, so behaviour of the quotient, including symmetric behaviour the original network has no symmetry to force, appears in the original as synchronous behaviour; the quotient admits more dynamics than restriction produces, and is unique only up to refinement of its arrow types
 

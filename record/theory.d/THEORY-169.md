@@ -50,6 +50,7 @@ summary: >-
 bears_on:
 - QUESTION-159
 ---
+<!-- inactive-ok-file: THEORY-tmpvf16r THEORY-tmpxdk37 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-169: For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind
 

@@ -59,6 +59,7 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp3vfqj THEORY-tmpeaw52 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 
 # CLAIM-566: That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure

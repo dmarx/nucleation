@@ -42,6 +42,7 @@ summary: >-
   forgetting under modification, not a higher budget to acquire. Read in
   its NOTE. Read in NOTE-tmpp1jb7; its account is THEORY-tmp3dqbl.
 ---
+<!-- inactive-ok-file: THEORY-tmp3dqbl — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpq5g0q: Overtrained Language Models Are Harder to Fine-Tune

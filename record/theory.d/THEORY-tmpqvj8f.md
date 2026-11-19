@@ -29,6 +29,7 @@ summary: >-
   tmphsr99. On Pythia it says in-context ability is still rising at late
   checkpoints, and it qualifies THEORY-990. Read in its NOTE.
 ---
+<!-- inactive-ok-file: THEORY-990 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpqvj8f: Yin and Steinhardt show that, in twelve language models from 70M to 7B parameters, few-shot in-context accuracy depends mainly on function-vector heads and not on induction heads once heads with both properties are spared, increasingly so with scale, while induction heads matter more for the token-loss difference; and that across Pythia training induction heads form near step 1,000 while function-vector heads strengthen from about step 16,000 to the end, many of them having first been induction heads
 

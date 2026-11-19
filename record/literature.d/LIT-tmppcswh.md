@@ -41,6 +41,7 @@ summary: >-
   in-context success task learning by construction. Read in its NOTE. Read
   in NOTE-tmp6fdy5; its account is THEORY-tmppqtz3.
 ---
+<!-- inactive-ok-file: THEORY-tmppqtz3 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmppcswh: What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning

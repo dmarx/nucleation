@@ -42,6 +42,7 @@ summary: >-
   its CCA reading. Read in its NOTE. Read in NOTE-tmptbvgq; its account is
   THEORY-tmpanqm0.
 ---
+<!-- inactive-ok-file: THEORY-tmpanqm0 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp3su77: Barlow Twins: Self-Supervised Learning via Redundancy Reduction
 

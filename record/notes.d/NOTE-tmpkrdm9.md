@@ -24,6 +24,7 @@ history:
     two driven regions.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 THEORY-1408 THEORY-1507 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpkrdm9: Rudner and others 2013 — Anomalous edge states and the bulk-edge correspondence for periodically-driven two dimensional systems
 

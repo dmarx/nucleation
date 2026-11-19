@@ -39,6 +39,8 @@ summary: >-
   CLAIM-352 and CLAIM-tmpkrk41. Read in its NOTE. Read in NOTE-tmpk5kvr;
   its account is THEORY-tmphw7hd.
 ---
+<!-- inactive-ok-file: CLAIM-tmpkrk41 THEORY-tmphw7hd — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpmg2nk — Unavailable; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp7b5k5: Collective Capabilities: What are they and why are they Important?
 

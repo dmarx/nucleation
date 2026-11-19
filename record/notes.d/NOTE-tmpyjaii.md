@@ -22,6 +22,8 @@ history:
     to dl/text.txt; the -layout extraction is kept as dl/text_layout.txt.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-698 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpyjaii: Jacobs and others 2025 — Traveling Waves Integrate Spatial Information Through Time
 

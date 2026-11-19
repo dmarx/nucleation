@@ -35,6 +35,7 @@ summary: >-
   plasticity is lost while the network keeps practising on varied tasks.
   Read in its NOTE.
 ---
+<!-- inactive-ok-file: THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpgjb4y: Dohare and colleagues show that networks trained by standard backpropagation on long sequences of new supervised tasks (Continual ImageNet, Permuted MNIST, class-incremental CIFAR-100) gradually lose the ability to learn each new task, down to about the level of a linear network, which is distinct from forgetting old tasks, and that methods which keep weights small while continually injecting fresh random units from the start of training, best of all their continual backpropagation, maintain that ability.
 

@@ -21,6 +21,7 @@ history:
     were not read off.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5vg7p CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpp1jb7: Springer and others 2025 — Overtrained Language Models Are Harder to Fine-Tune
 

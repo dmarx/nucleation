@@ -39,6 +39,7 @@ summary: >-
   several seeds and pre/post-update accuracy as the diagnostic. Read in
   its NOTE. Read in NOTE-tmp3nxjy; its account is THEORY-tmpy398k.
 ---
+<!-- inactive-ok-file: THEORY-tmpy398k — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpjmy81: Meta-Learning Requires Meta-Augmentation

@@ -21,6 +21,7 @@ history:
     beyond what the theorems' statements need; §6.1 and the proofs in §6.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-tmpj540o — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpubt2l: DeVille and Lerman 2013 — Modular dynamical systems on networks
 

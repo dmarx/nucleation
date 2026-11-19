@@ -24,6 +24,7 @@ history:
     of a 1D φ⁴ field in simulation, not experiment.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-269 CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmphzpy8: Suzuki, Li and Zurek 2026 — Machine learning topological defect formation: When are the defects made?
 

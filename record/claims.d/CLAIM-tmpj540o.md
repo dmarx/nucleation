@@ -34,6 +34,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpz825j — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-tmpmtmq7 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmpj540o: A symmetry of the data gives a network a balanced partition of its units only where the symmetry group acts on the units by permuting them: weights fixed by such an action make the group act by automorphisms of the weighted unit graph, whose orbits are always a balanced partition; where the group acts only on the inputs, or on hidden coordinates by mixing rather than permuting, data symmetry fixes no partition of units, and for a vocabulary larger than the width the relabelling group cannot permute the units nontrivially at all

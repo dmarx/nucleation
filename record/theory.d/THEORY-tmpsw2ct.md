@@ -32,6 +32,7 @@ summary: >-
   initialization ranked below joint training on present loss and above it
   once adaptation is counted. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-tmp5gbzr CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpsw2ct: Finn, Abbeel and Levine show that training a network's initial parameters on the loss after one or a few gradient steps on each of many tasks from a declared task distribution, rather than on the loss at those parameters, yields an initialization that adapts to new tasks from that distribution from a handful of examples where joint pretraining on the same tasks does not
 

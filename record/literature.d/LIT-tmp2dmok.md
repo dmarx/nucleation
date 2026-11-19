@@ -41,6 +41,7 @@ summary: >-
   against vacuum, not interfaces between two driven regions. Read in its
   NOTE. Read in NOTE-tmpkrdm9; its account is THEORY-tmpq7rwx.
 ---
+<!-- inactive-ok-file: THEORY-tmpq7rwx — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp2dmok: Anomalous edge states and the bulk-edge correspondence for periodically-driven two dimensional systems
 

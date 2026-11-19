@@ -41,6 +41,8 @@ summary: >-
   challenges); read in its NOTE. Read in NOTE-tmpfnzxf; its account is
   THEORY-tmpm09s4.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-tmpm09s4 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpfnzxf — Skimmed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp3u6bb: Meta-Learning in Neural Networks: A Survey
 

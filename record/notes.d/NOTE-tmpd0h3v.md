@@ -19,6 +19,7 @@ history:
     read from captions and text.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5vg7p CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpd0h3v: Javed and White 2019 — Meta-Learning Representations for Continual Learning
 

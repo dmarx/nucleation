@@ -40,6 +40,7 @@ summary: >-
   whole symmetry-broken phase. Read in its NOTE. Read in NOTE-tmpaon0o;
   its account is THEORY-tmpqtb3q.
 ---
+<!-- inactive-ok-file: THEORY-tmpqtb3q THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpn5ate: Deep Information Propagation
 

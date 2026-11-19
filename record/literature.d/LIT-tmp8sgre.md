@@ -51,6 +51,8 @@ summary: >-
   use. Read in its NOTE. Read in NOTE-tmp9n17l; its account is THEORY-
   tmp5hurd.
 ---
+<!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1408 THEORY-1893 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp8sgre: Racetrack Computing with a Topological Boundary Ratchet

@@ -53,6 +53,8 @@ history:
     2026-11-19, not Wang and Slotine.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: QUESTION-287 — Answered; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp2wkbb: Lohmiller and Slotine 1998 — On Contraction Analysis for Non-linear Systems
 

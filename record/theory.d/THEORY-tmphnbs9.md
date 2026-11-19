@@ -29,6 +29,7 @@ summary: >-
   second process with authority over action and no structure learning.
   Read in its NOTE (skimmed in part).
 ---
+<!-- inactive-ok-file: NOTE-tmpmq8mz — Skimmed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmphnbs9: Smith, Friston and Whyte show, in a tutorial simulation of an explore–exploit task with a costly hint, that an active-inference agent learning which option is better takes the hint early and less often as its Dirichlet counts grow, takes it less the more precisely it prefers the larger win, and returns to it after unexpected losses
 

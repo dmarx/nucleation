@@ -27,6 +27,7 @@ summary: >-
   are a candidate. It does not say that every boundary mode is
   topological, or that the linear zero modes extend to finite motions.
 ---
+<!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1369 — Proposed and new; the related account from Chen et al. (2016), cited as open -->
 
 # THEORY-1408: Kane and Lubensky show that in isostatic lattices the number of zero modes in a region equals a local count of sites and bonds plus a topological count fixed by winding numbers of the bulk equilibrium matrix, so that gapped phases of different topological polarization carry protected floppy modes or states of self-stress at their boundaries and interfaces even where degrees of freedom and constraints locally balance

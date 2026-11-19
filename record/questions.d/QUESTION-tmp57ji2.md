@@ -24,6 +24,7 @@ summary: >-
   [CLAIM-611](../claims.d/CLAIM-611.md)). It does not hold the feedback. The wording is A's; adopting
   it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-269 CLAIM-606 CLAIM-611 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-tmp57ji2: Can degrees of freedom bound to a topological defect or interface come to maintain the order-parameter structure that localizes them, and if so, is the composite individuated as one organization rather than as a defect plus what it hosts?

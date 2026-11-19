@@ -30,6 +30,7 @@ summary: >-
   2026-11-19, CLAIM-tmpw8xkt). It supports that split but is not spectral
   and says nothing of the classes kept. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpl3nl5: Wang and Isola show that, as the number of negative samples grows, the normalized InfoNCE loss on the unit hypersphere converges to an alignment term, minimized exactly by encoders that map both members of every positive pair to the same feature, plus a uniformity term, minimized by encoders whose features are uniformly distributed on the sphere when such encoders exist; on a finite augmented dataset the two optima cannot both be met
 

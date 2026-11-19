@@ -42,6 +42,7 @@ summary: >-
   training-time correlation, not on intervention. Read in its NOTE. Read
   in NOTE-tmpyjaii; its account is THEORY-tmpctik9.
 ---
+<!-- inactive-ok-file: THEORY-tmpctik9 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpv822r: Traveling Waves Integrate Spatial Information Through Time

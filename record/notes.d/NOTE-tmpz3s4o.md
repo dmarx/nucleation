@@ -24,6 +24,7 @@ history:
     (scripts and styles stripped) to dl/text.txt.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-672 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpz3s4o: Mordvintsev and others 2020 — Growing Neural Cellular Automata
 

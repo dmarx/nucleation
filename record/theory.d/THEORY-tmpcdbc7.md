@@ -30,6 +30,7 @@ summary: >-
   together by freezing the representation, and it says nothing on
   plasticity over long training. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpcdbc7: Javed and White show that a representation meta-trained by differentiating through online SGD updates on correlated streams (OML), then frozen beneath a small online-learned predictor, lets that predictor learn sequential regression and classification tasks with far less forgetting than pre-trained or sparsity-trained representations, and that such representations come out highly sparse with no dead units.
 

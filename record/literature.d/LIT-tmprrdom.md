@@ -50,6 +50,7 @@ summary: >-
   eq. (15). Read in its NOTE. Read in NOTE-tmp2wkbb; its account is
   THEORY-tmprpscg.
 ---
+<!-- inactive-ok-file: THEORY-tmprpscg — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmprrdom: On Contraction Analysis for Non-linear Systems
 

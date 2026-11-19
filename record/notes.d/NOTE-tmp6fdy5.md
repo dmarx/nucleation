@@ -16,6 +16,7 @@ history:
     were read by caption only (per-task-type and per-label-type breakdowns).
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-697 CLAIM-tmp1l2s7 THEORY-614 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp6fdy5: Pan and others 2023 — What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning
 

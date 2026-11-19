@@ -26,6 +26,7 @@ history:
     behaviour, not whose topology, is dynamical.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 THEORY-1408 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpyv62s: Shankar and others 2020 — Topological active matter
 

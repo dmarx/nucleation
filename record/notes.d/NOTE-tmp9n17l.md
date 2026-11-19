@@ -30,6 +30,8 @@ history:
     transport.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 THEORY-1408 THEORY-1415 THEORY-1893 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp9n17l: Omidvar and others 2025 — Racetrack computing with a topological boundary ratchet
 

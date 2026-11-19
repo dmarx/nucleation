@@ -40,6 +40,7 @@ summary: >-
   overfitting. Read in its NOTE. Read in NOTE-tmplyn0o; its account is
   THEORY-tmpzauel.
 ---
+<!-- inactive-ok-file: THEORY-tmpzauel — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpws19o: Meta-Learning without Memorization

@@ -41,6 +41,7 @@ summary: >-
   on the TTT arm of CASE-tmphsr99. Read in its NOTE. Read in NOTE-
   tmp2v2zr; its account is THEORY-tmpv904w.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmpv904w — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp78co9: End-to-End Test-Time Training for Long Context
 

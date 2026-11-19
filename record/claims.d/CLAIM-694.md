@@ -41,6 +41,8 @@ summary: >-
   field-theoretic instance of [CLAIM-593](CLAIM-593.md)'s "Structural isomorphism ⇏ token
   identity". The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpcxzxx THEORY-tmpg9anb THEORY-tmpky96s THEORY-tmpohouk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-606 CASE-266 NOTE-1950 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
 

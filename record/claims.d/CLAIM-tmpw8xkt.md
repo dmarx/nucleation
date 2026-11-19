@@ -48,6 +48,7 @@ summary: >-
   A's objection that any partition yields classes distinguishable from
   one another (A24 §6). The completion by differentiation is A's (A29 §5).
 ---
+<!-- inactive-ok-file: THEORY-tmpl3nl5 THEORY-tmprpscg THEORY-tmpte85d — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmpsjjgx CLAIM-478 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmpw8xkt: Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system's own operations and are reused

@@ -24,6 +24,7 @@ history:
     Hamiltonian around the defect, not the defect's order-parameter charge.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 THEORY-1507 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpr6z7k: Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors
 

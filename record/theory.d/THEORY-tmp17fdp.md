@@ -28,6 +28,8 @@ summary: >-
   LIT-tmpg7w4q. It agrees with THEORY-564's framing that reduction, not
   expansion, is the open half. Read in its NOTE (skimmed in part).
 ---
+<!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmp5xf4s — Skimmed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmp17fdp: Neacsu and colleagues argue that, within active inference, structure learning is Bayesian model selection by model evidence over a supplied set of alternative models, done offline by refitting or by Bayesian model reduction or expansion, and that its open problem is not choosing among the alternatives but generating them
 

@@ -43,6 +43,7 @@ summary: >-
   meta-learning arm of CASE-tmphsr99. Read in its NOTE. Read in NOTE-
   tmpbyao9; its account is THEORY-tmpnivm0.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmpnivm0 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp7ge7b: MetaICL: Learning to Learn In Context
 

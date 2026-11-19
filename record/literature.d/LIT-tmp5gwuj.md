@@ -40,6 +40,7 @@ summary: >-
   with it, and the regenerating rule is supplied from outside the pattern.
   Read in its NOTE. Read in NOTE-tmpz3s4o; its account is THEORY-tmpeaw52.
 ---
+<!-- inactive-ok-file: THEORY-tmpeaw52 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp5gwuj: Growing Neural Cellular Automata
 

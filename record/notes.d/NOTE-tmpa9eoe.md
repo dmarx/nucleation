@@ -19,6 +19,7 @@ history:
     glanced at.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp1l2s7 THEORY-1353 THEORY-990 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpa9eoe: Yin and Steinhardt 2025 — Which Attention Heads Matter for In-Context Learning?
 

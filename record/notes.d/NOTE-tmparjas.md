@@ -21,6 +21,7 @@ history:
     and references.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmparjas: Nichol and others 2018 — On First-Order Meta-Learning Algorithms
 

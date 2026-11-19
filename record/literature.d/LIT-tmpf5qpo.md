@@ -41,6 +41,7 @@ summary: >-
   (CLAIM-481's note of 2026-11-19). Read in its NOTE. Read in NOTE-
   tmpprl89; its account is THEORY-tmp78qwh.
 ---
+<!-- inactive-ok-file: THEORY-tmp78qwh — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpf5qpo: VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
 

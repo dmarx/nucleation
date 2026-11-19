@@ -28,6 +28,7 @@ history:
     details), 4.23 (low rank); supplementary video S1 not seen.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmpsjjgx CLAIM-tmpj540o — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp0z3qi: Velarde and others 2026 — Emergence of Fibrations, Compression, and Symmetry Breaking in Artificial Neural Networks
 

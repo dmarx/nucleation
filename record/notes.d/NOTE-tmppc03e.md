@@ -17,6 +17,7 @@ history:
     1-2, hyperparameters, probe details, extra probing plots).
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: THEORY-614 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmppc03e: Akyürek and others 2023 — What learning algorithm is in-context learning? Investigations with linear models
 

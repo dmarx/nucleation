@@ -46,6 +46,8 @@ summary: >-
   on the feedback premise of QUESTION-tmprj00l. Read in its NOTE
   (skimmed). Read in NOTE-tmpob2w3; its account is THEORY-tmpsiaty.
 ---
+<!-- inactive-ok-file: THEORY-tmpsiaty — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpob2w3 — Skimmed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp62j1j: Active Learning Literature Survey
 

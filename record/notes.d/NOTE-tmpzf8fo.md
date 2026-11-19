@@ -23,6 +23,7 @@ history:
     paper states them; the Hugging Face listing itself was not consulted.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1004 THEORY-997 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpzf8fo: Biderman and others 2023 — Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
 

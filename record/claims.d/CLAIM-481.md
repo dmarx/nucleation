@@ -55,6 +55,7 @@ summary: >-
   from. Conceded, so Active. It gives a mechanism for [CLAIM-478](CLAIM-478.md)'s
   second half and is not a test of individuality.
 ---
+<!-- inactive-ok-file: THEORY-tmp78qwh THEORY-tmpanqm0 THEORY-tmpl3nl5 THEORY-tmprpscg THEORY-tmpte85d — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
 <!-- inactive-ok-file: LIT-1639 — Unfetched; registered from the exchange, a lawful full text found on 2026-10-27 but not fetched, unread, cited for what it is standardly cited for -->

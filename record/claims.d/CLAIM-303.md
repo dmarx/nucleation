@@ -88,6 +88,7 @@ summary: >-
   threshold of [CLAIM-185](CLAIM-185.md) are approximations to this trade, and can fail in both
   directions.
 ---
+<!-- inactive-ok-file: THEORY-tmpddlli — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-731 CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

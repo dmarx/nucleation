@@ -18,6 +18,7 @@ history:
     details.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-697 CLAIM-tmp1l2s7 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpbyao9: Min and others 2022 — MetaICL: Learning to Learn In Context
 

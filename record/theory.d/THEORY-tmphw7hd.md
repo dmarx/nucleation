@@ -33,6 +33,8 @@ summary: >-
   individual capabilities made possible by a collective, beside CLAIM-352
   and CLAIM-tmpkrk41. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpmg2nk — Unavailable; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmphw7hd: Ibrahim argues that collective capabilities, those that result from collective agency and that no individual alone could have or achieve, are intrinsically and instrumentally important for human capabilities, that their generation is good only when participation is free and voluntary and the agency empowering, and that the capability approach's evaluative space should therefore extend from the individual to the collectivity
 

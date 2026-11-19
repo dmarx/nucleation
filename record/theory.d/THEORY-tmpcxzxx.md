@@ -33,6 +33,8 @@ summary: >-
   different objects. What is protected is the hosted modes, not the
   defect's persistence. Skimmed in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpr6z7k — Skimmed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpcxzxx: Teo and Kane show that a defect in a non-interacting gapped insulator or superconductor can be classified by the homotopy class of the Bloch or Bogoliubov–de Gennes Hamiltonian H(k, r) on a surface enclosing it, that this classification depends only on the symmetry class and on δ = d − D, and that in their examples a nontrivial class coincides with protected gapless modes bound to the defect, a correspondence they observe rather than prove
 

@@ -32,6 +32,7 @@ history:
     pdftotext -layout to dl/text.txt.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: ADR-101 CLAIM-672 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp4u57l: Masumori and others 2026 — Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata
 

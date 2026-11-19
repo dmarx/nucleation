@@ -27,6 +27,7 @@ summary: >-
   identification, but its own film blocks are mostly not genres, which
   bears on the case's confounds. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CASE-tmpsjjgx — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpyydjg: Larremore, Clauset and Jacobs show that a degree-corrected stochastic block model restricted to pure-type groups of a bipartite network finds higher-likelihood partitions faster than the unrestricted model and recovers planted groups that one-mode projections hide, and that on an IMDb actor–movie network its movie blocks track language for most groups and genre for one
 

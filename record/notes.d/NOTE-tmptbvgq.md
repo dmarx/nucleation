@@ -35,6 +35,7 @@ history:
     of the method; this reading is the first of the method's own paper.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-tmpw8xkt SYNTHESIS-034 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmptbvgq: Zbontar and others 2021 — Barlow Twins: Self-Supervised Learning via Redundancy Reduction
 

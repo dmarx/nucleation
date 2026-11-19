@@ -35,6 +35,7 @@ summary: >-
   qualifies: the case is mainly about forgetting under modification, not a
   higher budget to acquire. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmp3dqbl: Springer and colleagues show that, past an inflection point in pre-training length, language models degrade more under a fixed-size later modification (fine-tuning or weight noise), so that longer pre-training can leave a worse model after fine-tuning even though the base model keeps improving, and they attribute this mainly to forgetting of pre-trained capability that grows with pre-training ("progressive sensitivity").
 

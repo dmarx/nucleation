@@ -49,6 +49,7 @@ summary: >-
   It has the energy and the collapse but no flow. Read in its NOTE. Read
   in NOTE-tmpp5l9v; its account is THEORY-tmpte85d.
 ---
+<!-- inactive-ok-file: THEORY-tmpte85d — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp3egua: Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
 

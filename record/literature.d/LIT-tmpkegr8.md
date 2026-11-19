@@ -44,6 +44,7 @@ summary: >-
   but is not spectral and says nothing of the classes kept. Read in its
   NOTE. Read in NOTE-tmpk44ye; its account is THEORY-tmpl3nl5.
 ---
+<!-- inactive-ok-file: CLAIM-tmpw8xkt THEORY-tmpl3nl5 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpkegr8: Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere
 

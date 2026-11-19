@@ -24,6 +24,7 @@ summary: >-
   but their use is not shown. A stand-in for the thesis of [LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md),
   the owner's U6 example.
 ---
+<!-- inactive-ok-file: THEORY-tmpqtb3q — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpvtafk: Iqbal and colleagues show, at initialisation and large width and in experiments, that a deep network with U(1)- or O(k)-equivariant middle layers has a transition at σ_W = 1 above which a symmetry-broken phase conserves the relative phase of two inputs across layers and keeps one Jacobian component O(1) at any depth, so very deep networks train without normalisation over the whole phase, while the same order parameter in non-equivariant networks brings no gain

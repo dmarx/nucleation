@@ -40,6 +40,8 @@ summary: >-
   claimants now do the work. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmphw7hd — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpmg2nk — Unavailable; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-731 CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmpkrk41: That an organization makes an activity cheaper for those who perform it does not show that work was saved: the work may have been transferred, to an earlier time, to upkeep, or to other parties, and the efficiency an organization appears to have depends on the boundary of the system whose costs are counted; work saved, work transferred and valuable capability expanded are three separate achievements

@@ -32,6 +32,7 @@ summary: >-
   also shows that kink locations are set by history, not by the charge
   (CLAIM-694). Read in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpohouk: Suzuki, Li and Zurek show, in simulations of a noisy, overdamped one-dimensional φ⁴ field quenched through its symmetry-breaking transition, that a recurrent network given short stretches of the field's evolution predicts the number and locations of the final kinks from data taken near the critical point, well before the freeze-out time, and that the onset of this predictability collapses across quench rates when time is rescaled by the Kibble–Zurek freeze-out time
 

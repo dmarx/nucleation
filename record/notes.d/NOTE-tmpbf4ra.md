@@ -17,6 +17,7 @@ history:
     estimate).
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-697 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpbf4ra: Garg and others 2022 — What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
 

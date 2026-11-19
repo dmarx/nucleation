@@ -39,6 +39,7 @@ summary: >-
   on record shows. Its test is an arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmpgjb4y — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmp5vg7p: If a learner's capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then recovery from overconsolidation by renewed practice has a deadline: renewed exposure to varied tasks restores the capacity to acquire when it comes before a threshold point in training and not after, while an intervention that raises the capacity directly (a reset of some weights) can still restore it after the threshold if it lifts the capacity back above it; in a heterogeneous population the threshold may show as a steep or probabilistic transition rather than a step

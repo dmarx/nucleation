@@ -31,6 +31,7 @@ summary: >-
   promote_when, and it shows the mechanism CASE-153's sentry would block.
   Read in its NOTE.
 ---
+<!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmp9tvpg: Friston and colleagues show, in simulations of a three-ball rule-discovery task, that adding to expected free energy the expected information gain over a prespecified set of model structures, computed by Bayesian model reduction, lets an active-inference agent choose observations that identify the generating rule faster than when only information gain over states and parameters, or none, drives its choices
 

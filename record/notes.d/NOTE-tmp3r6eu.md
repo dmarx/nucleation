@@ -20,6 +20,7 @@ history:
     figures and tables 4-5 beyond their captions.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5gbzr CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp3r6eu: Finn and others 2017 — Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 

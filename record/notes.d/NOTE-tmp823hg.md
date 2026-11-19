@@ -17,6 +17,7 @@ history:
     figures read from captions, not inspected as images.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmpsjjgx CLAIM-tmpj540o — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp823hg: Larremore and others 2014 — Efficiently inferring community structure in bipartite networks
 

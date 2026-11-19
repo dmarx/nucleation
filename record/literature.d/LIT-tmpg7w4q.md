@@ -43,6 +43,7 @@ summary: >-
   promote_when, and it shows the mechanism CASE-153's sentry would block.
   Read in its NOTE. Read in NOTE-tmpc0is3; its account is THEORY-tmp9tvpg.
 ---
+<!-- inactive-ok-file: THEORY-tmp9tvpg — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpg7w4q: Active inference and artificial reasoning

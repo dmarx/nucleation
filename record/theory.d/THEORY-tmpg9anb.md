@@ -31,6 +31,7 @@ summary: >-
   tmpcb0bf); the paper treats them only as countable markers and assigns
   no function. Read in its NOTE.
 ---
+<!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpg9anb: Kaschube, Schnabel and Wolf show that in a long-range-interaction pattern-formation model of orientation-map development the density of pinwheel defects per hypercolumn is exactly π in the limit of infinite interaction range, and stays close to π, with small variance between maps, for intermediate ranges
 

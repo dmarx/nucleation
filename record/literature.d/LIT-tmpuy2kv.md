@@ -44,6 +44,8 @@ summary: >-
   Read in its NOTE (skimmed in part). Read in NOTE-tmp5xf4s; its account
   is THEORY-tmp17fdp.
 ---
+<!-- inactive-ok-file: THEORY-564 THEORY-tmp17fdp — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmp5xf4s — Skimmed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpuy2kv: Reviewing Structure Learning in and Out of the Active Inference Framework
 

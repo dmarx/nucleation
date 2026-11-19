@@ -24,7 +24,7 @@ summary: >-
   makes askable ([CLAIM-475](../claims.d/CLAIM-475.md)). The question's wording is the filer's,
   joining the owner's U21 to A's open problems.
 ---
-<!-- inactive-ok-file: LIT-tmphr4nm — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpm09s4 THEORY-tmpsw2ct — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-576 CLAIM-697 CLAIM-tmp1l2s7 CLAIM-tmp5gbzr CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-tmpwqepn: What would make a learning process optimal, when some of the most valuable consequences of learning are changes in what the learner can later learn, ask and afford, which cannot be specified in advance; and when is investing in future learnability better than improving present competence?

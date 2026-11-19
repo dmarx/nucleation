@@ -90,6 +90,7 @@ summary: >-
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
+<!-- inactive-ok-file: THEORY-tmphw7hd — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmpmg2nk — Deferred; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1845 THEORY-1852 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->

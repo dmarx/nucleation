@@ -61,7 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-191
 ---
-<!-- inactive-ok-file: LIT-tmpsp5bi — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp6miip — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-817 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-026: For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient

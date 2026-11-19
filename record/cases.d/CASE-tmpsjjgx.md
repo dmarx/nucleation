@@ -32,7 +32,7 @@ summary: >-
   A's (A24, A26 §11, A27 §5, A29 §9), and A24's toy matrix is
   hypothetical. It illustrates the owner's [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md).
 ---
-<!-- inactive-ok-file: LIT-tmpc7kaa — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpyydjg — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-119 CLAIM-327 CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 
 # CASE-tmpsjjgx: Genres and audiences as classes that engagement data identifies jointly (films by who engages with them, people by what they engage with), which become distinctions a platform acts on and then feed back on the data they were found in: the owner's example, with a laboratory that separates classes inferred, classes used, and classes that reshape preferences

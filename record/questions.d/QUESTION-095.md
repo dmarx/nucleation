@@ -40,6 +40,7 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
+<!-- inactive-ok-file: THEORY-tmp3hfjg THEORY-tmpddlli THEORY-tmpv904w — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-358 CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1639 THEORY-1643 THEORY-1645 THEORY-1644 THEORY-1641 THEORY-1640 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-235 CASE-234 CLAIM-647 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->

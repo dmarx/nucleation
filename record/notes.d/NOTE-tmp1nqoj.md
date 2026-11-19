@@ -29,6 +29,7 @@ history:
     scrubbing, SAEs, DAS, steering).
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmpsjjgx CLAIM-tmpj540o — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp1nqoj: Geiger and others 2025 — Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability
 

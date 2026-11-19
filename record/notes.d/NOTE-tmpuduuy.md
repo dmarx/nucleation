@@ -21,6 +21,7 @@ history:
     the paper's algorithm.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5vg7p CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpuduuy: Raghu and others 2019 — Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML
 

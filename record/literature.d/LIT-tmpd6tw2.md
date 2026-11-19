@@ -44,6 +44,7 @@ summary: >-
   CLAIM-118's split. Read in its NOTE. Read in NOTE-tmppc03e; its account
   is THEORY-tmpvf16r.
 ---
+<!-- inactive-ok-file: THEORY-tmpvf16r — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpd6tw2: What learning algorithm is in-context learning? Investigations with linear models
 

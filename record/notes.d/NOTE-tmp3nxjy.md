@@ -22,6 +22,7 @@ history:
     running text.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp3nxjy: Rajendran and others 2020 — Meta-Learning Requires Meta-Augmentation
 

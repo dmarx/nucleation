@@ -55,6 +55,7 @@ bears_on:
 - QUESTION-020
 - QUESTION-095
 ---
+<!-- inactive-ok-file: THEORY-tmp3hfjg THEORY-tmpv904w — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-439: Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable
 

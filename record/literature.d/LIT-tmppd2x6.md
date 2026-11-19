@@ -46,6 +46,8 @@ summary: >-
   no structure learning. Read in its NOTE (skimmed in part). Read in NOTE-
   tmpmq8mz; its account is THEORY-tmphnbs9.
 ---
+<!-- inactive-ok-file: THEORY-tmphnbs9 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpmq8mz — Skimmed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmppd2x6: A step-by-step tutorial on active inference and its application to empirical data
 

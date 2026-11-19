@@ -45,6 +45,8 @@ summary: >-
   Skimmed for its definitions; read in its NOTE. Read in NOTE-tmp1nqoj;
   its account is THEORY-tmp1cus0.
 ---
+<!-- inactive-ok-file: THEORY-tmp1cus0 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmp1nqoj — Skimmed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp6x1cq: Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability
 

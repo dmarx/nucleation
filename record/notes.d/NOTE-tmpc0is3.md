@@ -21,6 +21,7 @@ history:
     Verbelen, Parr. Received 24 Dec 2025, accepted 18 Aug 2026.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpc0is3: Friston and others 2026 — Active inference and artificial reasoning
 

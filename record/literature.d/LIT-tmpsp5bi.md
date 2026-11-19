@@ -41,6 +41,7 @@ summary: >-
   extends THEORY-026 to a cyclic engine. Read in its NOTE (arXiv v3). Read
   in NOTE-tmp9h01y; its account is THEORY-tmp6miip.
 ---
+<!-- inactive-ok-file: THEORY-tmp6miip — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpsp5bi: Thermodynamic cost and benefit of memory
 

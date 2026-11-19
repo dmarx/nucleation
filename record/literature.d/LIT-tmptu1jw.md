@@ -43,6 +43,7 @@ summary: >-
   comparative across models, with no intervention on the waves themselves.
   Read in its NOTE. Read in NOTE-tmpv8ehw; its account is THEORY-tmpuy990.
 ---
+<!-- inactive-ok-file: THEORY-tmpuy990 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
 # LIT-tmptu1jw: Traveling Waves Encode the Recent Past and Enhance Sequence Learning

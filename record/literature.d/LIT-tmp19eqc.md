@@ -48,6 +48,7 @@ summary: >-
   mechanisms. Read in its NOTE. Read in NOTE-tmp4u57l; its account is
   THEORY-tmp3vfqj.
 ---
+<!-- inactive-ok-file: THEORY-tmp3vfqj — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp19eqc: Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata
 

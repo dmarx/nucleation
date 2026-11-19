@@ -50,6 +50,7 @@ summary: >-
   composition heads, formed in the same window, carry more of it above some
   size.
 ---
+<!-- inactive-ok-file: THEORY-tmpqvj8f — Proposed; cited in this filing of 2026-11-19 -->
 # THEORY-990: In transformer language models of every size, including large ones with MLPs, induction heads, extended to fuzzy matching of similar tokens and abstract patterns, are the mechanism of most in-context learning, as Olsson et al. propose
 
 ## Source

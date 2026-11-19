@@ -30,6 +30,7 @@ history:
     etc.), Table 1 beyond its caption, references.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5gbzr CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpfnzxf: Hospedales and others 2020 — Meta-Learning in Neural Networks: A Survey
 

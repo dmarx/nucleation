@@ -28,6 +28,7 @@ summary: >-
   synthetic task families, with no pretrained prior, make in-context
   success task learning by construction. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmppqtz3: Pan and colleagues show that, in few-shot classification with GPT-3, LLaMA and OPT, accuracy with randomly drawn labels from the right label set (task recognition) is above chance even for the smallest models but barely changes with model size or number of demonstrations, while accuracy under a fresh mapping to abstract labels (task learning) is near flat for small models and rises with both size and demonstrations, matching gold labels with 16 examples in the largest
 

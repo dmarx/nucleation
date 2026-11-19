@@ -19,6 +19,7 @@ history:
     only as cited from the main text.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp2v2zr: Tandon and others 2025 — End-to-End Test-Time Training for Long Context
 

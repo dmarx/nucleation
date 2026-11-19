@@ -41,6 +41,7 @@ summary: >-
   present capability does not rank later capability. Read in its NOTE.
   Read in NOTE-tmps6j9j; its account is THEORY-tmp8wxgt.
 ---
+<!-- inactive-ok-file: THEORY-tmp8wxgt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpkfcwr: Weight Decay Improves Language Model Plasticity

@@ -46,6 +46,7 @@ summary: >-
   picks the generating structure when the parent model was itself
   learned. One initialisation; eight concepts, six binary features.
 ---
+<!-- inactive-ok-file: THEORY-tmp17fdp THEORY-tmp9tvpg — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-079 — Proposed; named as a caution about model reduction, not leaned on -->
 
 # THEORY-564: A bounded generative model can learn its own structure with no machinery beyond inference and learning: spare hidden-state slots with flat likelihoods get filled when an observation fits none of the learned causes, and Bayesian model reduction on the learned prior over states can return unneeded slots, though in a toy concept-learning task it recovers the true number of causes in only 45–80% of runs with four to seven causes, and never with two or three, unless the likelihood is given

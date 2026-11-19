@@ -18,6 +18,7 @@ history:
     baseline details, sample images).
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpt5pbx: Sun and others 2020 — Test-Time Training with Self-Supervision for Generalization under Distribution Shifts
 

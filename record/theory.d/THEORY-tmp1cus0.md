@@ -33,6 +33,7 @@ summary: >-
   random-network control applies to it. Skimmed for its definitions; read
   in its NOTE.
 ---
+<!-- inactive-ok-file: NOTE-tmp1nqoj — Skimmed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmp1cus0: Geiger and colleagues define a high-level causal model as a constructive abstraction of a network when, under an alignment that partitions the network's variables into cells mapped onto high-level variables, translating the network's solutions under each aligned intervention gives the high-level model's solutions under the corresponding intervention, and they test this with interchange interventions that set aligned variables to the values a different source input would give, scored as interchange intervention accuracy
 

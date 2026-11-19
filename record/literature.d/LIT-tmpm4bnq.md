@@ -40,6 +40,7 @@ summary: >-
   (CASE-tmphsr99). Read in its NOTE. Read in NOTE-tmpuduuy; its account is
   THEORY-tmpfhidr.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmpfhidr — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpm4bnq: Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML

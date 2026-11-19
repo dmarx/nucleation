@@ -40,6 +40,7 @@ summary: >-
   appendix prices the work moved to test time (QUESTION-095). Read in its
   NOTE. Read in NOTE-tmpt5pbx; its account is THEORY-tmp3hfjg.
 ---
+<!-- inactive-ok-file: THEORY-tmp3hfjg — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpklgue: Test-Time Training with Self-Supervision for Generalization under Distribution Shifts
 

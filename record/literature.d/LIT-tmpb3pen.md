@@ -38,6 +38,8 @@ summary: >-
   assigns no function. Read in its NOTE. Read in NOTE-tmpgq62j; its
   account is THEORY-tmpg9anb.
 ---
+<!-- inactive-ok-file: THEORY-tmpg9anb — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpb3pen: Self-organization and the selection of pinwheel density in visual cortical development
 

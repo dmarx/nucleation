@@ -18,6 +18,7 @@ summary: >-
   (kernel regression that stores the context). Whether the pattern reaches
   other layer classes, or is bounded by one, is open.
 ---
+<!-- inactive-ok-file: THEORY-tmpvf16r — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-159: Does an exact train-then-predict identity, of the kind proved for unnormalized linear attention and for softmax attention, hold for further sequence-layer classes such as delta-rule or mini-batch inner updates, and is there a standard attention layer whose dependence on its context admits no description as any learner's train-then-predict step?
 

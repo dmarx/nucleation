@@ -46,6 +46,8 @@ history:
     and Malik.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-784 — Superseded; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpp5l9v: Belkin and Niyogi 2001 — Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
 

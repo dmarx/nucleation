@@ -32,6 +32,7 @@ summary: >-
   on the feedback premise of QUESTION-tmprj00l. Read in its NOTE
   (skimmed).
 ---
+<!-- inactive-ok-file: NOTE-tmpob2w3 — Skimmed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpsiaty: Settles's survey reports that letting a learner choose which instances to have labelled usually reduces the labels needed for a given accuracy, but not reliably: actively gathered data are biased toward the model that chose them, active learning has sometimes needed more labels than passive sampling, approaches that ignore variable labelling costs can do no better than random selection, and greedy guarantees hold only for submodular objectives, which active-learning criteria generally are not
 

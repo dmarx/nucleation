@@ -23,6 +23,7 @@ history:
     (Figs. 3–6). Figures not inspected as images.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmpsjjgx CLAIM-tmpj540o — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpqwurm: Rupe and Crutchfield 2018 — Local Causal States and Discrete Coherent Structures
 

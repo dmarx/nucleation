@@ -37,6 +37,7 @@ summary: >-
   seeds for the reset. Proposed: single-author, unreplicated, mixing
   unproved.
 ---
+<!-- inactive-ok-file: THEORY-tmp8wxgt THEORY-tmpgjb4y — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-1353: In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
 

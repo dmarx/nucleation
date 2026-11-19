@@ -26,7 +26,7 @@ summary: >-
   observations breaks the no-feedback condition, so the passive result does
   not reach it. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpsp5bi — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp6miip — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1646 THEORY-817 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-tmprj00l: In a percept–action loop with feedback, does the memory that minimizes dissipation retain the interventional partition of histories (the causal information bottleneck), the predictive partition, or neither, once the costs of building, maintaining, operating and revising it are counted?

@@ -33,6 +33,8 @@ summary: >-
   compression) and THEORY-1408, whose index-protected modes it does not
   use. Read in its NOTE.
 ---
+<!-- inactive-ok-file: THEORY-1408 THEORY-1893 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmp5hurd: Omidvar, Bestler, Zahedi Fard, Zilberberg and Serra-Garcia show, in a chain of buckled polymer beams under a standing and a cyclic compression, that bits stored as buckling domains are moved one unit cell per load cycle, the domain wall advancing when a boundary mode localized at it, softened by the opposite domain's pressure, becomes unstable, a ratchet they distinguish from Chern-number pumping; logic gates built from such racetracks are shown in simulation only
 

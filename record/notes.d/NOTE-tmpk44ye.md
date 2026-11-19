@@ -37,6 +37,7 @@ history:
     context, not checked further).
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpk44ye: Wang and Isola 2020 — Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere
 

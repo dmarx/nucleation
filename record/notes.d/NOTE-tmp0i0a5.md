@@ -18,6 +18,7 @@ history:
     details), seen only where the main text cites them.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-697 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp0i0a5: Lu and Kankanhalli 2026 — Agentic-TTT: Training Test-time Policy for Test-time Training
 

@@ -21,6 +21,8 @@ history:
     reference list. Text extracted with pdftotext -layout to dl/text.txt.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 THEORY-088 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpgq62j: Kaschube and others 2008 — Self-Organization and the Selection of Pinwheel Density in Visual Cortical Development
 

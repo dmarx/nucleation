@@ -32,6 +32,7 @@ summary: >-
   mentions it. The role of the waves rests on comparisons and a training-
   time correlation, not on intervention. Read in its NOTE.
 ---
+<!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpctik9: Jacobs and colleagues show that recurrent networks with only local encoders and local recurrence learn to propagate travelling waves that carry whole-shape information to each pixel, so that a readout of each neuron's activity over time segments images needing global context, beating feed-forward networks of matched receptive field and, on Multi-MNIST, U-Nets of similar size
 

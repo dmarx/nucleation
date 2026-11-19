@@ -27,6 +27,7 @@ history:
     2025, accepted 28 May 2026, published 15 June 2026.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmp5xf4s: Neacsu and others 2026 — Reviewing Structure Learning in and Out of the Active Inference Framework
 

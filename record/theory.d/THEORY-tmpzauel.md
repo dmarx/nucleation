@@ -30,6 +30,7 @@ summary: >-
   the authors name this loss of adaptability task-level overfitting. Read
   in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpzauel: Yin and colleagues show that when meta-training tasks are not mutually exclusive, MAML and conditional neural processes can learn a single function that solves every training task without using its training data, reaching lower meta-training error than an adapting solution yet failing on new tasks, that standard weight regularization does not prevent this, and that penalizing the information held in the meta-parameters not used for adaptation does
 

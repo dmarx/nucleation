@@ -22,7 +22,8 @@ summary: >-
   relative to a target. What it does not hold is the comparison on a
   learned feature. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp6x1cq LIT-tmpn17zh — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp1cus0 THEORY-tmp3vfqj THEORY-tmpctik9 THEORY-tmpg9anb THEORY-tmpgs5bb THEORY-tmpuy990 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpdedmw — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-694 SYNTHESIS-079 THEORY-1507 THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-tmpdcvze — Skimmed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->

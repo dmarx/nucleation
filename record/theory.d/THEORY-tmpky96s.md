@@ -34,6 +34,8 @@ summary: >-
   structure on both the charge route and the supplied route (CLAIM-606).
   Skimmed in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpyv62s — Skimmed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpky96s: Shankar, Souslov, Bowick, Marchetti and Vitelli review topology in active matter as two physically distinct classes of phenomena that share the mathematics of integer invariants: topological defects, whose winding number is protected under continuous deformation of the order parameter and which in active nematics self-propel and unbind through flows they themselves generate, and topologically protected edge modes, whose band invariant is protected under continuous change of the medium's parameters while the bulk gap stays open
 

@@ -29,6 +29,8 @@ summary: >-
   presupposes a declared task family. Skimmed (taxonomy, formalization,
   meta-objectives, continual learning, challenges); read in its NOTE.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpfnzxf — Skimmed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpm09s4: Hospedales, Antoniou, Micaelli and Storkey characterize neural-network meta-learning as end-to-end optimization of an explicitly defined meta-objective over many learning episodes, so as to improve future learning, and order the field on three axes, what is meta-learned, how it is optimized and what objective it serves; they name meta-overfitting and generalization to task distributions other than the training one as open problems
 

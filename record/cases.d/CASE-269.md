@@ -47,6 +47,7 @@ summary: >-
   control (noted on [QUESTION-397](../questions.d/QUESTION-397.md)). Not run. Proposed because the design is
   A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpohouk — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-266 CASE-267 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1869 CLAIM-694 CLAIM-618 — Proposed or new; the readings and claims the design draws on or maps to -->
 

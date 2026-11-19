@@ -88,7 +88,7 @@ summary: >-
   decline", and the proposed study is [CASE-262](../cases.d/CASE-262.md). The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpkfcwr LIT-tmpq5g0q — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmp8wxgt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp1l2s7 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-1847 THEORY-1839 THEORY-1848 THEORY-1863 THEORY-1856 THEORY-343 — Proposed; cited with its standing -->

@@ -30,6 +30,7 @@ summary: >-
   described, and because many THEORY entries use its models without an
   entry for the suite. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmp7himr: Biderman and colleagues release Pythia, eight decoder-only language models from 70M to 12B parameters each trained once on the Pile and once on a deduplicated Pile in one fixed data order, with 154 public checkpoints per model (initialization, ten log-spaced early steps and every 1,000 steps to 143,000) and tools to reconstruct the exact batches seen up to each, and show with it that training order has little effect on memorization and that a link between term frequency and few-shot accuracy appears only late in training and only at 2.8B parameters and above
 

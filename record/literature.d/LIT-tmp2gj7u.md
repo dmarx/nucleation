@@ -40,6 +40,7 @@ summary: >-
   the same tasks as its control and the inner budget k fixed. Read in its
   NOTE. Read in NOTE-tmparjas; its account is THEORY-tmpbzf9h.
 ---
+<!-- inactive-ok-file: THEORY-tmpbzf9h — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp2gj7u: On First-Order Meta-Learning Algorithms

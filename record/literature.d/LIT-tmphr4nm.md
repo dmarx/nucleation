@@ -40,6 +40,7 @@ summary: >-
   and above it once adaptation is counted. Read in its NOTE. Read in NOTE-
   tmp3r6eu; its account is THEORY-tmpsw2ct.
 ---
+<!-- inactive-ok-file: THEORY-tmpsw2ct — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmphr4nm: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks

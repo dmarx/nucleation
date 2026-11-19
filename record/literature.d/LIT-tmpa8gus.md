@@ -41,6 +41,7 @@ summary: >-
   trade and CLAIM-303's criterion for parameter skills. Read in its NOTE.
   Read in NOTE-tmp0i0a5; its account is THEORY-tmpddlli.
 ---
+<!-- inactive-ok-file: THEORY-tmpddlli — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpa8gus: Agentic-TTT: Training test-time policy for test-time training
 

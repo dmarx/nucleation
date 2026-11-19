@@ -43,6 +43,7 @@ summary: >-
   on varied tasks. Read in its NOTE. Read in NOTE-tmpzn6c6; its account is
   THEORY-tmpgjb4y.
 ---
+<!-- inactive-ok-file: THEORY-tmpgjb4y — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpco2kf: Maintaining Plasticity in Deep Continual Learning

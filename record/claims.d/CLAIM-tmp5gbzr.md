@@ -43,6 +43,7 @@ summary: >-
   return is part of the best policy. The wording is A's with the filer's
   numbers; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpsw2ct — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-tmpm8rng CASE-tmpplox8 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmp5gbzr: An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted

@@ -64,6 +64,7 @@ summary: >-
   as defect-like singularities that need not be functional units, which
   bears on [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Unverified until read.
 ---
+<!-- inactive-ok-file: ADR-101 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpdedmw: Universality in the Evolution of Orientation Columns in the Visual Cortex
 

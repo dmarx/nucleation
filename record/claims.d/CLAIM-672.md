@@ -41,6 +41,7 @@ summary: >-
   case and asked for the general claim. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp3vfqj THEORY-tmpeaw52 — Proposed; cited in this filing of 2026-11-19 -->
 
 <!-- inactive-ok-file: CASE-260 CASE-259 ARG-101 — Proposed; the constructions and the argument filed with this claim -->
 

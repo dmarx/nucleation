@@ -43,6 +43,8 @@ summary: >-
   supplied route (CLAIM-606). Skimmed in its NOTE. Read in NOTE-tmpyv62s;
   its account is THEORY-tmpky96s.
 ---
+<!-- inactive-ok-file: CLAIM-606 CLAIM-694 THEORY-tmpky96s — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpyv62s — Skimmed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp1nipn: Topological active matter
 

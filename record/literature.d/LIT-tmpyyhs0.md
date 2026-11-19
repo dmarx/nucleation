@@ -42,6 +42,7 @@ summary: >-
   without an entry for the suite. Read in its NOTE. Read in NOTE-tmpzf8fo;
   its account is THEORY-tmp7himr.
 ---
+<!-- inactive-ok-file: THEORY-tmp7himr — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpyyhs0: Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling

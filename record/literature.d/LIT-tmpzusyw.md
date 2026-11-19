@@ -42,6 +42,7 @@ summary: >-
   without symmetry forcing it, and is silent on role abstraction. Read in
   its NOTE. Read in NOTE-tmp0z3qi; its account is THEORY-tmpz825j.
 ---
+<!-- inactive-ok-file: THEORY-tmpz825j — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpzusyw: Emergence of Fibrations, Compression, and Symmetry Breaking in Artificial Neural Networks
 

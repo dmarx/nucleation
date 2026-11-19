@@ -39,6 +39,7 @@ summary: >-
   representation, and it says nothing on plasticity over long training.
   Read in its NOTE. Read in NOTE-tmpd0h3v; its account is THEORY-tmpcdbc7.
 ---
+<!-- inactive-ok-file: THEORY-tmpcdbc7 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmppqss3: Meta-Learning Representations for Continual Learning

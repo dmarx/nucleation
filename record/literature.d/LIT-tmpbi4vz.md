@@ -41,6 +41,7 @@ summary: >-
   at late checkpoints, and it qualifies THEORY-990. Read in its NOTE. Read
   in NOTE-tmpa9eoe; its account is THEORY-tmpqvj8f.
 ---
+<!-- inactive-ok-file: THEORY-990 THEORY-tmpqvj8f — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpbi4vz: Which Attention Heads Matter for In-Context Learning?

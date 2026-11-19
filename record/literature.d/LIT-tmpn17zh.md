@@ -40,6 +40,7 @@ summary: >-
   that QUESTION-tmpcb0bf compares. Read in its NOTE. Read in NOTE-
   tmpqwurm; its account is THEORY-tmpgs5bb.
 ---
+<!-- inactive-ok-file: THEORY-tmpgs5bb — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpn17zh: Local Causal States and Discrete Coherent Structures
 

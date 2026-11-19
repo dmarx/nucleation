@@ -40,6 +40,7 @@ summary: >-
   mostly not genres, which bears on the case's confounds. Read in its
   NOTE. Read in NOTE-tmp823hg; its account is THEORY-tmpyydjg.
 ---
+<!-- inactive-ok-file: THEORY-tmpyydjg — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmpsjjgx — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpc7kaa: Efficiently inferring community structure in bipartite networks

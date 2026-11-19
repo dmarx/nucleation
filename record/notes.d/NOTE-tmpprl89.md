@@ -35,6 +35,8 @@ history:
     Appendix A's correlation measurements bear.
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-199 — Superseded; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpprl89: Bardes and others 2022 — VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
 

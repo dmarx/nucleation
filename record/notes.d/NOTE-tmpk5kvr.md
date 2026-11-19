@@ -20,6 +20,8 @@ history:
     and others).
 date: '2026-11-19'
 ---
+<!-- inactive-ok-file: CLAIM-tmpkrk41 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpmg2nk — Unavailable; cited in this filing of 2026-11-19 -->
 
 # NOTE-tmpk5kvr: Ibrahim 2013 — Collective Capabilities: What are they and why are they Important?
 

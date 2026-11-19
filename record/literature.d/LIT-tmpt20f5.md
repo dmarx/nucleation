@@ -48,6 +48,7 @@ summary: >-
   set by history, not by the charge (CLAIM-694). Read in its NOTE. Read in
   NOTE-tmphzpy8; its account is THEORY-tmpohouk.
 ---
+<!-- inactive-ok-file: CLAIM-694 THEORY-tmpohouk — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmpt20f5: Machine Learning Topological Defect Formation: When Are the Defects Made?
 

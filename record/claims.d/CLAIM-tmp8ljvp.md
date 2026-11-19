@@ -46,7 +46,7 @@ summary: >-
   reading ([THEORY-1353](../theory.d/THEORY-1353.md)) and the RL case in pass@k terms ([CLAIM-695](CLAIM-695.md)); it
   held no general claim for training.
 ---
-<!-- inactive-ok-file: LIT-tmpco2kf LIT-tmpkfcwr LIT-tmpm4bnq LIT-tmpq5g0q — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmp8wxgt THEORY-tmpbzf9h THEORY-tmpfhidr THEORY-tmpgjb4y THEORY-tmpm09s4 THEORY-tmpy398k THEORY-tmpzauel — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-695 CLAIM-tmp1l2s7 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmp8ljvp: Overconsolidation, a generalization of overfitting: relative to a declared family of future demands, continued stabilization of a learner's organization can keep improving its present objective while raising the cost of acquiring, recovering or reaching other capabilities, so a learner can learn itself into a trap without overfitting its data; it is a failure only relative to that declared family and horizon

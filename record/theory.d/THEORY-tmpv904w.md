@@ -32,6 +32,7 @@ summary: >-
   updates on an ordinarily trained model add little bears on the TTT arm
   of CASE-tmphsr99. Read in its NOTE.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpv904w: Tandon and colleagues show that a sliding-window Transformer which keeps training on its context by next-token prediction at test time, from an initialization meta-learned for its loss after those updates, matches full attention's improvement in language-modelling loss with context length up to 128K at 3B parameters with constant per-token latency, while losing to full attention on verbatim retrieval, and that without the meta-learned initialization the test-time updates add little
 

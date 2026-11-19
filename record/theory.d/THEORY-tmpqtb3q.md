@@ -31,6 +31,7 @@ summary: >-
   tmpyahtz (THEORY-tmpvtafk) claims to avoid over a whole symmetry-broken
   phase. Read in its NOTE.
 ---
+<!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpqtb3q: Schoenholz and colleagues show, in mean-field theory of wide random fully connected networks with bounded activations and in experiments on MNIST and CIFAR-10, that the correlation between two inputs approaches its limit over a depth scale that diverges only at the order-to-chaos transition, that gradients vanish or explode over the same scale on either side, that networks train when their depth is below about six times that scale, and that dropout removes the transition and so caps trainable depth
 

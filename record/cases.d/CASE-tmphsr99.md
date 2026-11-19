@@ -27,7 +27,7 @@ summary: >-
   is Dong's plasticity loss over Pythia training ([THEORY-1353](../theory.d/THEORY-1353.md), Proposed).
   Not run. The design is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp2gj7u LIT-tmpjmy81 LIT-tmpkfcwr LIT-tmppcswh LIT-tmpws19o LIT-tmpyyhs0 — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmp7himr THEORY-tmpbzf9h THEORY-tmpfhidr THEORY-tmppqtz3 THEORY-tmpqvj8f THEORY-tmpv904w THEORY-tmpy398k THEORY-tmpzauel — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-697 CLAIM-tmp8ljvp THEORY-1353 THEORY-1703 THEORY-1894 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CASE-tmphsr99: A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work

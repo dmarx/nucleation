@@ -36,6 +36,7 @@ summary: >-
 bears_on:
 - QUESTION-024
 ---
+<!-- inactive-ok-file: THEORY-tmpnivm0 THEORY-tmppqtz3 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; the claim that reads this result as support, named, not leaned on -->
 
 # THEORY-496: In few-shot classification and multiple choice by language models up to 175B parameters, whether each demonstration's label is correct contributes little to the gain over zero-shot, while the distribution of the inputs, the label space and the paired format carry most of it

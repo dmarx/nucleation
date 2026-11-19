@@ -30,6 +30,7 @@ summary: >-
   that a low adaptation budget can measure reuse rather than plasticity
   (CASE-tmphsr99). Read in its NOTE.
 ---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-tmpfhidr: Raghu and colleagues show that on standard few-shot image-classification and RL benchmarks, MAML's fast adaptation comes almost entirely from reusing features already present in its meta-initialization rather than from rapid change of representations, so that freezing all layers but the head at test time, or never adapting the body during training (ANIL), leaves performance about unchanged.
 

@@ -44,6 +44,8 @@ summary: >-
   protected is the hosted modes, not the defect's persistence. Skimmed in
   its NOTE. Read in NOTE-tmpr6z7k; its account is THEORY-tmpcxzxx.
 ---
+<!-- inactive-ok-file: THEORY-tmpcxzxx — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmpr6z7k — Skimmed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 
 # LIT-tmp4lexz: Topological Defects and Gapless Modes in Insulators and Superconductors
