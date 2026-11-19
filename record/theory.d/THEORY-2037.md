@@ -50,4 +50,4 @@ MetaICL trains the weights once, across tasks, on the in-context objective: pred
 - Which training tasks help, or why: the variance across choices is large and unexplained.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-A parallel (NOTE-tmprmye5): Brown and colleagues' outer loop is implicit in pretraining ("a “natural” broad distribution of tasks implicitly contained in predicting the text itself"); this account makes it explicit.
+A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): Brown and colleagues' outer loop is implicit in pretraining ("a “natural” broad distribution of tasks implicitly contained in predicting the text itself"); this account makes it explicit.

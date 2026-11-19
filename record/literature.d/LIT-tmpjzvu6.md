@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmprmye5). Worth reading as the case that
+  Read on 2026-11-19 ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)). Worth reading as the case that
   pretraining at scale makes tasks attainable from a few in-context
   examples, and for its own open question whether that is learning or
   recognition.
@@ -35,7 +35,7 @@ summary: >-
   reach a level with fewer examples. Scale here is model size at fixed
   data; there is no comparison without pretraining. The authors leave open
   whether in-context learning acquires a task or recognizes one learned in
-  pretraining. Read in NOTE-tmprmye5; account THEORY-tmp8cm7r.
+  pretraining. Read in [NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md); account [THEORY-tmp8cm7r](../theory.d/THEORY-tmp8cm7r.md).
 ---
 
 # LIT-tmpjzvu6: Language Models are Few-Shot Learners
@@ -44,4 +44,4 @@ Tom B. Brown and colleagues (2020). "Language Models are Few-Shot Learners". arX
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, as LEAD-tmpn5ruw planned.
+Registered and read on 2026-11-19 at the owner's request, as [LEAD-tmpn5ruw](../leads.d/LEAD-tmpn5ruw.md) planned.

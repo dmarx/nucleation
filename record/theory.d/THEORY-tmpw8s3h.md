@@ -17,7 +17,7 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmpcbzyu in NOTE-tmp44esf. The cost measure the
+  From the reading of [LIT-tmpcbzyu](../literature.d/LIT-tmpcbzyu.md) in [NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md). The cost measure the
   owner's point at U37 needed: labelled samples to a level. Proposed until
   its promote_when is met.
 ---

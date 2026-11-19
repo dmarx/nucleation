@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmp44esf). Worth reading as the first work the
+  Read on 2026-11-19 ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)). Worth reading as the first work the
   record holds that measures prior learning lowering the labelled-sample
   cost of a later task to a stated level.
 title: 'Universal Language Model Fine-tuning for Text Classification'
@@ -34,8 +34,8 @@ summary: >-
   on 10 times more labels on IMDb and 20 times on AG, and 100 and 50 times
   with unlabelled task text added. The low-shot comparison does not
   separate pretraining from the fine-tuning method, and pretraining and
-  unlabelled data are not counted as cost. Read in NOTE-tmp44esf; account
-  THEORY-tmpw8s3h.
+  unlabelled data are not counted as cost. Read in [NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md); account
+  [THEORY-tmpw8s3h](../theory.d/THEORY-tmpw8s3h.md).
 ---
 
 # LIT-tmpcbzyu: Universal Language Model Fine-tuning for Text Classification
@@ -44,4 +44,4 @@ Jeremy Howard and Sebastian Ruder (2018). "Universal Language Model Fine-tuning 
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, as LEAD-tmpn5ruw planned.
+Registered and read on 2026-11-19 at the owner's request, as [LEAD-tmpn5ruw](../leads.d/LEAD-tmpn5ruw.md) planned.

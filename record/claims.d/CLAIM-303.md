@@ -151,4 +151,4 @@ Lu and Kankanhalli ([THEORY-2023](../theory.d/THEORY-2023.md)), read, apply this
 No status change.
 
 ## Note of 2026-11-19: Howard and Ruder, read
-An analogy (NOTE-tmp44esf): Howard and Ruder's pretraining "only needs to be performed once" and serves many tasks, stored work repaid by reuse, though they do no accounting.
+An analogy ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): Howard and Ruder's pretraining "only needs to be performed once" and serves many tasks, stored work repaid by reuse, though they do no accounting.

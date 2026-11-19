@@ -132,4 +132,4 @@ model at every R and difficulty (it lost at high R and on the hardest).
   add volume, with no iso-performance curve beyond Snell's one comparison.
 
 ## Note of 2026-11-19: Howard and Ruder, read
-An analogy (NOTE-tmp44esf): Howard and Ruder justify pretraining's cost because "it only needs to be performed once", up-front compute amortized over later uses, without accounting.
+An analogy ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): Howard and Ruder justify pretraining's cost because "it only needs to be performed once", up-front compute amortized over later uses, without accounting.

@@ -69,6 +69,6 @@ pretraining is not counted as cost. Brown and colleagues show larger
 pretrained models using in-context examples more efficiently, across
 sizes rather than against no pretraining, and the plan's claim that they
 measure examples to a level was too strong. In-context learning changes
-no weights; whether it is learning in TERM-131's sense is now argued in
-the note on that term. Notes on CLAIM-756, TERM-131 and the entries the
+no weights; whether it is learning in [TERM-131](../terms.d/TERM-131.md)'s sense is now argued in
+the note on that term. Notes on [CLAIM-756](../claims.d/CLAIM-756.md), [TERM-131](../terms.d/TERM-131.md) and the entries the
 readings bear on carry the rest (curation entry of 2026-11-19, 202220).

@@ -46,4 +46,4 @@ Demonstrations act in two ways. They let a model recognize the task from the inp
 - That RANDOM is pure recognition or ABSTRACT pure learning: random labels still give the label space, and abstract symbols carry pretraining biases that per-prompt remapping only cancels on average.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-The work this account follows, read (NOTE-tmprmye5): Brown and colleagues leave open "whether the model learns new tasks from scratch at inference time or simply recognizes patterns seen during training", and expect it to vary by task. This account operationalizes that question on the same models.
+The work this account follows, read ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): Brown and colleagues leave open "whether the model learns new tasks from scratch at inference time or simply recognizes patterns seen during training", and expect it to vary by task. This account operationalizes that question on the same models.

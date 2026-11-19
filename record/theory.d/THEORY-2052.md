@@ -49,4 +49,4 @@ In-context learning of a function class is a property of a fixed model: low expe
 - That the model does gradient descent.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-A parallel (NOTE-tmprmye5): a from-scratch case of the de novo end of the spectrum Brown and colleagues leave open, where an outer loop provably yields in-context learning of unseen functions.
+A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): a from-scratch case of the de novo end of the spectrum Brown and colleagues leave open, where an outer loop provably yields in-context learning of unseen functions.

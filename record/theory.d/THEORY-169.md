@@ -159,4 +159,4 @@ No status change.
 ## Note of 2026-11-19: Brown and colleagues, read
 <!-- inactive-ok-file: TERM-131 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Background for TERM-131 (NOTE-tmprmye5): Brown and colleagues' in-context learning keeps no state beyond the sequence; on this account conditioning and per-sequence weight updates differ in what is kept, not in kind, so retention is the test for whether it is learning.
+Background for [TERM-131](../terms.d/TERM-131.md) ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): Brown and colleagues' in-context learning keeps no state beyond the sequence; on this account conditioning and per-sequence weight updates differ in what is kept, not in kind, so retention is the test for whether it is learning.

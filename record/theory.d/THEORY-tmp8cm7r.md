@@ -14,7 +14,7 @@ promote_when: >-
   accuracy on held-out tasks falls with model size, and that the gap
   between zero- and few-shot widens with size.
 summary: >-
-  From the reading of LIT-tmpjzvu6 in NOTE-tmprmye5. The owner's
+  From the reading of [LIT-tmpjzvu6](../literature.d/LIT-tmpjzvu6.md) in [NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md). The owner's
   suggestion for showing that pretraining makes later task acquisition
   cheap; it shows that across model sizes, not against no pretraining, and
   the acquisition retains nothing. Proposed until its promote_when is met.

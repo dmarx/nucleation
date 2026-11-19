@@ -74,16 +74,16 @@ catastrophic forgetting as loss of the pretrained benefit.
 
 ## Bearing on the record
 
-- **CLAIM-756.** The first reading on record that measures prior learning
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** The first reading on record that measures prior learning
   lowering the labelled-sample cost of a later task to a stated level:
   evidence for the claim's premise, and for the owner's point at U37 in
   cost terms. Qualified: the saving is joint between pretraining and the
   fine-tuning method, and pretraining and unlabelled data are uncounted.
   Nothing on the claim's own content, valuation.
-- **CLAIM-758.** A terminological caution: ULMFiT's "catastrophic
+- **[CLAIM-758](../claims.d/CLAIM-758.md).** A terminological caution: ULMFiT's "catastrophic
   forgetting" is not collateral loss of held capabilities, the forgetting
   version 2 counts as cost.
-- **CASE-294.** Samples to match a comparator is a ready form for the
+- **[CASE-294](../cases.d/CASE-294.md).** Samples to match a comparator is a ready form for the
   primary estimand; the fine-tuning protocol alone moves the cost a great
   deal, so it must be fixed in advance.
 

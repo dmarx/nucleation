@@ -23,7 +23,7 @@ summary: >-
   weights, and the authors leave open whether it learns tasks or
   recognizes them.
 ---
-<!-- inactive-ok-file: TERM-131 THEORY-2039 CLAIM-756 CLAIM-697 — Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: TERM-131 THEORY-2039 CLAIM-756 — Proposed; entries this reading bears on -->
 
 # NOTE-tmprmye5: Brown and colleagues — Language Models are Few-Shot Learners
 
@@ -83,21 +83,21 @@ novo learning; contamination; amortized pretraining compute.
 
 ## Bearing on the record
 
-- **CLAIM-756.** Weak evidence for its premise: larger pretrained models
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** Weak evidence for its premise: larger pretrained models
   reach a level with fewer examples, and a few demonstrations rival
   125,000 fine-tuning examples. Short of what the owner's point at U37
   needs: the comparison is across sizes, not with and without pretraining;
   pretraining's cost is not set against the saving; and the later
   "acquisition" retains nothing.
-- **TERM-131.** Evidence on the open point LEAD-tmpn5ruw named. Against
+- **[TERM-131](../terms.d/TERM-131.md).** Evidence on the open point [LEAD-tmpn5ruw](../leads.d/LEAD-tmpn5ruw.md) named. Against
   counting in-context learning as learning in the term's sense: no
   weights change and nothing is said to persist beyond the sequence. For
   it, within a sequence: the context is retained state that changes later
   outputs, and the authors call it learning. Pretraining, the outer loop,
-  is learning in the term's sense either way. In CLAIM-754's terms the
+  is learning in the term's sense either way. In [CLAIM-754](../claims.d/CLAIM-754.md)'s terms the
   success may be the operational frontier reached with a larger operating
   budget (the context) rather than an acquisition.
-- **THEORY-2039** (Pan and colleagues) operationalizes the question the
+- **[THEORY-2039](../theory.d/THEORY-2039.md)** (Pan and colleagues) operationalizes the question the
   authors leave open, on these models.
 
 ## Limitations
