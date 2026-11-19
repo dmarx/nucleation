@@ -119,4 +119,4 @@ A29 §3 also gives a two-line case for the closure side. Under ż = aξ, ξ̇ = 
 No status change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-A parallel (NOTE-tmp9eyoy): in Wang and Slotine's networks the synchronized mode is a closed collective mode, with its own dynamics, reached from any initial condition above a threshold. Whether such a mode acts as a unit is not their question.
+A parallel ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): in Wang and Slotine's networks the synchronized mode is a closed collective mode, with its own dynamics, reached from any initial condition above a threshold. Whether such a mode acts as a unit is not their question.

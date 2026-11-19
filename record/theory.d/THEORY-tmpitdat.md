@@ -18,7 +18,7 @@ corroborates:
 bears_on:
 - QUESTION-281
 summary: >-
-  From the reading of LIT-tmpzpom9 in NOTE-tmpa7swy. The mean-field theory
+  From the reading of [LIT-tmpzpom9](../literature.d/LIT-tmpzpom9.md) in [NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md). The mean-field theory
   Schoenholz and colleagues build on. Proposed until its promote_when is
   met.
 ---

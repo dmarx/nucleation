@@ -153,4 +153,4 @@ Lohmiller and Slotine ([THEORY-tmprpscg](THEORY-tmprpscg.md)), read: supports an
 No status change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-Background (NOTE-tmp9eyoy). The hypothesis this account finds insufficient, partial contraction of f in x, is Wang and Slotine's construction, and they say the same of their own systems: "the overall system itself in general is not contracting" (p. 7). That agrees with this account's point that partial contraction does not by itself make the reduced system contracting. Nothing in the paper bears on the O(ε) bounds.
+Background ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)). The hypothesis this account finds insufficient, partial contraction of f in x, is Wang and Slotine's construction, and they say the same of their own systems: "the overall system itself in general is not contracting" (p. 7). That agrees with this account's point that partial contraction does not by itself make the reduced system contracting. Nothing in the paper bears on the O(ε) bounds.

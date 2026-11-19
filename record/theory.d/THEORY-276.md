@@ -188,4 +188,4 @@ commuting reflections, the pentagonal block loses transverse stability first
 while the triangular mode stays stable.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-An analogy only (NOTE-tmpsybfr): identical-neuron sets in weight space are orbit-synchrony patterns of the parameterization's permutation group, attracted under noise (Chen and colleagues).
+An analogy only ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): identical-neuron sets in weight space are orbit-synchrony patterns of the parameterization's permutation group, attracted under noise (Chen and colleagues).

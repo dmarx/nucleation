@@ -94,7 +94,7 @@ independent neurons; vanishing neurons.
 
 ## Bearing on the record
 
-- **Velarde and colleagues' citation (THEORY-tmpz825j).** They cite this
+- **Velarde and colleagues' citation ([THEORY-tmpz825j](../theory.d/THEORY-tmpz825j.md)).** They cite this
   paper for "Any parameter set that is invariant under GD becomes a
   stable attractor under stochastic GD for sufficiently large learning
   rates". The paper does not say that. Its sets must be invariant under
@@ -103,19 +103,19 @@ independent neurons; vanishing neurons.
   in high dimensions; in its toy, collapse stops above a critical
   learning rate; and the analysis is of the continuous model. It covers
   vanishing and pairwise identical neurons, not covers in general.
-- **THEORY-781 and QUESTION-206.** An independent, rigorous sufficient
+- **[THEORY-781](../theory.d/THEORY-781.md) and [QUESTION-206](../questions.d/QUESTION-206.md).** An independent, rigorous sufficient
   condition for noise making symmetric subspaces attract, at saddles too,
   with evidence in deep networks; no deep-network threshold tested, no
   control that removes the symmetry.
-- **The fibration hunch (QUESTION-tmpex36a) and CLAIM-tmpj540o.** A route
+- **The fibration hunch ([QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md)) and [CLAIM-tmpj540o](../claims.d/CLAIM-tmpj540o.md).** A route
   to learned unit partitions with no data symmetry: the architecture's
   permutation symmetry plus noise. The partitions are copies, not
   quotients by relabelling.
 - **Plasticity and overconsolidation.** Not discussed by the authors.
   Collapsed units can never be separated by gradients, and near-collapsed
   ones escape slowly, which parallels dead units and falling rank in
-  plasticity loss (THEORY-tmpgjb4y) and gives overconsolidation
-  (CLAIM-tmp8ljvp) a candidate mechanism. An analogy, not evidence.
+  plasticity loss ([THEORY-tmpgjb4y](../theory.d/THEORY-tmpgjb4y.md)) and gives overconsolidation
+  ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) a candidate mechanism. An analogy, not evidence.
 
 ## Limitations
 

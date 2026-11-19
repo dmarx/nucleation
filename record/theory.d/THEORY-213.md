@@ -167,6 +167,6 @@ Han and colleagues ([THEORY-tmp8wxgt](THEORY-tmp8wxgt.md)), read: consistent wit
 No status change.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-<!-- inactive-ok-file: THEORY-781 THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
 
-Parallel and independent (THEORY-tmp4kekv; NOTE-tmpsybfr): Chen and colleagues derive the invariance of identical-neuron sets from reflection symmetries of the parameterization, by their own proof (Prop. 3.2, Thm 3.1), agreeing with this account's invariance half. They say nothing of weight decay as a mechanism. The attraction half is THEORY-781's.
+Parallel and independent ([THEORY-tmp4kekv](THEORY-tmp4kekv.md); [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues derive the invariance of identical-neuron sets from reflection symmetries of the parameterization, by their own proof (Prop. 3.2, Thm 3.1), agreeing with this account's invariance half. They say nothing of weight decay as a mechanism. The attraction half is [THEORY-781](THEORY-781.md)'s.

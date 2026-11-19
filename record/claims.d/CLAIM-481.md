@@ -198,7 +198,7 @@ No status change.
 ## Note of 2026-11-19: Wang and Slotine, read
 <!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
 
-Wang and Slotine (THEORY-tmprqrdn, corroborates; NOTE-tmp9eyoy), read: the partial contraction the note of 2026-11-19 said the record did not hold. Three bearings.
+Wang and Slotine ([THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md), corroborates; [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)), read: the partial contraction the note of 2026-11-19 said the record did not hold. Three bearings.
 
 - **The dissipative-coupling case, generalized.** For identical nonlinear units with symmetric positive-definite diffusive coupling on a connected graph, the relative modes contract once the coupling, through λm+1 of the weighted Laplacian, beats the units' own expansion rate (Theorem 6). The chain's eigenvalue 2(1 − cos(π/n)) appears as a synchronization threshold, and "the effort to synchronize an open chain network is four times of that to a closed one" (Ex. 4.5): the claim's chain computation, read as a threshold.
 - **The bullet on nonlinear coupling.** For positive-definite diffusive coupling, strong enough coupling always gives global synchrony; destabilization by strong coupling belongs to semi-definite coupling without contraction of the coupled block (§4.4.3, after Pecora). Ex. 4.2 shows a synchronous set that is "both an invariant set and a linear constraint" and attracts.

@@ -19,11 +19,10 @@ bears_on:
 - QUESTION-206
 - QUESTION-080
 summary: >-
-  From the reading of LIT-tmp3cyf2 in NOTE-tmpsybfr. The source Velarde
+  From the reading of [LIT-tmp3cyf2](../literature.d/LIT-tmp3cyf2.md) in [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md). The source Velarde
   and colleagues cite for covers attracting SGD; it supports less than
   they cite it for. Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: THEORY-tmpz825j — Proposed; the account whose citation this reading checks -->
 
 # THEORY-tmp4kekv: Chen, Kunin, Yamamura and Ganguli show that the symmetry-generated affine sets where a hidden neuron vanishes or two neurons in a layer are identical are invariant under SGD; that for a continuous model of SGD such a set attracts under a sufficient condition weighing the loss's curvature against gradient noise, which can hold at saddles and maxima; and that VGG-16 and ResNet-18 trained with SGD form clusters of near-identical neurons that grow with the learning rate
 

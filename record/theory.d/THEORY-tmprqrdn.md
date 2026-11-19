@@ -21,7 +21,7 @@ bears_on:
 - QUESTION-063
 - QUESTION-147
 summary: >-
-  From the reading of LIT-tmpwo4ry in NOTE-tmp9eyoy. The partial
+  From the reading of [LIT-tmpwo4ry](../literature.d/LIT-tmpwo4ry.md) in [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md). The partial
   contraction the reading of Lohmiller and Slotine found missing.
   Proposed until its promote_when is met.
 ---

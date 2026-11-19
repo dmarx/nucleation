@@ -109,4 +109,4 @@ checkable line by line, and the Fig. 3.1 example by multiplying out two
   will be no smallest nontrivial eigenvalue" (p. 14).
 
 ## Note of 2026-11-19: Wang and Slotine, read
-A parallel (NOTE-tmp9eyoy): with no uncoupled dynamics, Wang and Slotine's coupled system converges to the initial average (Ex. 4.7), the Laplacian consensus this account generalizes to sheaves.
+A parallel ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): with no uncoupled dynamics, Wang and Slotine's coupled system converges to the initial average (Ex. 4.7), the Laplacian consensus this account generalizes to sheaves.

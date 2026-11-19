@@ -181,4 +181,4 @@ multiplicity N(d, k), the per-harmonic cost ½ log(1 + βnµ_k/α), and the
 rate γ ~ n^((d−1)/d). Those are what the promote_when's computation tests.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-A parallel (NOTE-tmpa7swy): Poole and colleagues' covariance maps are, in substance, the layerwise Gaussian-process kernel recursion; the identification is the reader's.
+A parallel ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): Poole and colleagues' covariance maps are, in substance, the layerwise Gaussian-process kernel recursion; the identification is the reader's.

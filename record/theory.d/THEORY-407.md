@@ -88,4 +88,4 @@ seen at the boundary. Neither is the case.
   about transient growth.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-A parallel (NOTE-tmpa7swy): Poole and colleagues relate the logarithm of χ1 to the Lyapunov exponent of a mean-field average over products of random Jacobians at initialization, the i.i.d. random-product setting this account fits.
+A parallel ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): Poole and colleagues relate the logarithm of χ1 to the Lyapunov exponent of a mean-field average over products of random Jacobians at initialization, the i.i.d. random-product setting this account fits.

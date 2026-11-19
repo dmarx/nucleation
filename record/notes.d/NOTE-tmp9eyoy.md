@@ -115,16 +115,16 @@ inhibition; switching networks; leader–follower.
   of Lohmiller and Slotine found missing: contraction confined to some
   directions. Differences transverse to the synchronous manifold are
   erased; a continuum of states along it survives, set by initial
-  conditions. THEORY-tmprpscg stated the direction the other way round
+  conditions. [THEORY-tmprpscg](../theory.d/THEORY-tmprpscg.md) stated the direction the other way round
   and is corrected.
-- **CLAIM-481.** Supports its dissipative-coupling case for nonlinear
+- **[CLAIM-481](../claims.d/CLAIM-481.md).** Supports its dissipative-coupling case for nonlinear
   units, repeats its chain eigenvalue as a synchronization threshold, and
   bears on its bullet about nonlinear coupling.
-- **Invariance and attraction.** THEORY-1065, THEORY-1059 and
-  THEORY-tmp31d9a give balanced partitions and quotients as invariant sets
+- **Invariance and attraction.** [THEORY-1065](../theory.d/THEORY-1065.md), [THEORY-1059](../theory.d/THEORY-1059.md) and
+  [THEORY-tmp31d9a](../theory.d/THEORY-tmp31d9a.md) give balanced partitions and quotients as invariant sets
   without their stability; this gives global attraction of full and
   subgroup synchrony under its conditions.
-- **QUESTION-063.** A leader fixes the collective phase; among peers it is
+- **[QUESTION-063](../questions.d/QUESTION-063.md).** A leader fixes the collective phase; among peers it is
   left to initial conditions.
 
 ## Limitations

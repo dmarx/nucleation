@@ -191,4 +191,4 @@ The re-run is the record's own, from a transcription whose figures were
 read from their captions only.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-A parallel (NOTE-tmp9eyoy): Wang and Slotine remark that high-density regions of a network synchronize fast and act as leaders for sparse ones (p. 23), the same within-module-first ordering in a deterministic setting.
+A parallel ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): Wang and Slotine remark that high-density regions of a network synchronize fast and act as leaders for sparse ones (p. 23), the same within-module-first ordering in a deterministic setting.

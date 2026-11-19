@@ -85,13 +85,13 @@ chaos; random networks as a null model.
 
 - **Edge of chaos.** The paper never says "edge of chaos" or "critical":
   depth's value here lies in the chaotic regime away from χ1 = 1. The
-  emphasis on criticality in THEORY-tmpqtb3q and THEORY-tmpvtafk is
+  emphasis on criticality in [THEORY-tmpqtb3q](../theory.d/THEORY-tmpqtb3q.md) and [THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md) is
   Schoenholz and colleagues'.
-- **CLAIM-360.** Theorem 1 against exponential growth with depth is a
+- **[CLAIM-360](../claims.d/CLAIM-360.md).** Theorem 1 against exponential growth with depth is a
   depth separation on one measure, curve length. The abstract's "cannot
   be efficiently computed by any shallow network" goes beyond Theorem 1;
   the link from length to approximation is shown only numerically.
-- **QUESTION-281.** The chaotic phase amplifies small differences; the
+- **[QUESTION-281](../questions.d/QUESTION-281.md).** The chaotic phase amplifies small differences; the
   ordered phase erases them; new distinctions are made as the curve gains
   turns at a fixed curvature.
 

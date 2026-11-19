@@ -8,5 +8,5 @@
 
 ### Changed
 
-- THEORY-tmprpscg version 2: partial contraction erases the
+- [THEORY-tmprpscg](record/theory.d/THEORY-tmprpscg.md) version 2: partial contraction erases the
   distinctions transverse to the manifold, not the reverse.

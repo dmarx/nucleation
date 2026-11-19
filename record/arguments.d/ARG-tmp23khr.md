@@ -52,7 +52,7 @@ summary: >-
   in [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Proposed. Filed by the assistant (Claude, in this
   session) at the owner's request; the verdict is the owner's to adopt.
 ---
-<!-- inactive-ok-file: CASE-tmphsr99 ADR-tmptwlsg CASE-tmpplox8 CLAIM-519 CLAIM-tmp1l2s7 CLAIM-tmp5gbzr CLAIM-tmp8ljvp TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-tmphsr99 CASE-tmpplox8 CLAIM-519 CLAIM-tmp1l2s7 CLAIM-tmp5gbzr CLAIM-tmp8ljvp TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # ARG-tmp23khr: The definition of learning as an experience-dependent change in retained organization, judged by what it later costs and against a counterfactual, explicates what the record's claims about learning need; the definition by improved performance at a task explicates another explicandum, successful learning, which the term keeps apart, so it is not a rival and both stand; the exclusion of selection is a contested case the term must decide, and its fruitfulness is so far shown only by claims stated in its own terms
 

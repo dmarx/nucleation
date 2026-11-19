@@ -166,4 +166,4 @@ A23 then reads Frankfurt into the dynamics. A higher-order volition is "a prefer
 No status changes.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-A parallel from Wang and Slotine (NOTE-tmp9eyoy): which of two collective patterns a coupled pair settles into can be set by the sign of the coupling (§3.3), not only by a tilt between basins.
+A parallel from Wang and Slotine ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): which of two collective patterns a coupled pair settles into can be set by the sign of the coupling (§3.3), not only by a tilt between basins.

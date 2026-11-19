@@ -196,6 +196,6 @@ Its standing. No reading shows the full signature: present competence rising, a 
 No status change.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-<!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
 
-An analogy with the right shape (THEORY-tmp4kekv; NOTE-tmpsybfr), not evidence. Long training at a large learning rate keeps improving present generalization while driving the network toward invariant sets from which escape is slower ("the repulsive escape will take longer the closer it starts from the invariant set", p. 10). Chen and colleagues value this as preventing overfitting; whether it raises the cost of a declared family outside the training distribution is untested. A candidate mechanism for the claim, to measure in CASE-tmphsr99. The claim is unchanged.
+An analogy with the right shape ([THEORY-tmp4kekv](../theory.d/THEORY-tmp4kekv.md); [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)), not evidence. Long training at a large learning rate keeps improving present generalization while driving the network toward invariant sets from which escape is slower ("the repulsive escape will take longer the closer it starts from the invariant set", p. 10). Chen and colleagues value this as preventing overfitting; whether it raises the cost of a declared family outside the training distribution is untested. A candidate mechanism for the claim, to measure in [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). The claim is unchanged.

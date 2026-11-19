@@ -112,4 +112,4 @@ No status change.
 ## Note of 2026-11-19: Wang and Slotine, read
 <!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
 
-A complement (THEORY-tmprqrdn; NOTE-tmp9eyoy): the transverse stability this account leaves "not treated" is what Wang and Slotine's partial contraction gives, for full and subgroup synchrony under diffusive coupling (Theorem 6), with the dynamics on the synchronous set those of one uncoupled unit.
+A complement ([THEORY-tmprqrdn](THEORY-tmprqrdn.md); [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): the transverse stability this account leaves "not treated" is what Wang and Slotine's partial contraction gives, for full and subgroup synchrony under diffusive coupling (Theorem 6), with the dynamics on the synchronous set those of one uncoupled unit.

@@ -436,4 +436,4 @@ A32 §5, from [CLAIM-626](CLAIM-626.md), adds that "There isn't one relevant sep
 No status change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
-An analogy from Wang and Slotine (NOTE-tmp9eyoy): relative degrees of freedom contract quickly and the synchronous relation then holds as a constraint, a set that is "both an invariant set and a linear constraint" (Ex. 4.2). A worked case of the shape the claim describes, in a deterministic network; not evidence for the claim's general form.
+An analogy from Wang and Slotine ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): relative degrees of freedom contract quickly and the synchronous relation then holds as a constraint, a set that is "both an invariant set and a linear constraint" (Ex. 4.2). A worked case of the shape the claim describes, in a deterministic network; not evidence for the claim's general form.

@@ -59,4 +59,4 @@ used would limit the law, not refute it. More solvable toy models cannot
 settle it.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-A parallel (NOTE-tmpsybfr): Chen and colleagues show noise-driven attraction toward symmetry-generated sets for permutation and sign symmetries; the rescaling case this question asks about is not theirs.
+A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues show noise-driven attraction toward symmetry-generated sets for permutation and sign symmetries; the rescaling case this question asks about is not theirs.

@@ -183,4 +183,4 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 ## Note of 2026-11-19: Wang and Slotine, read
 <!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
 
-Wang and Slotine (THEORY-tmprqrdn, bears_on; NOTE-tmp9eyoy). A leader fixes the collective phase (Theorem 7), while among peers "the phase of the collective behavior is hard to predict, since it depends on the initial conditions of all the coupled elements" (p. 21). That is the collective phase freedom of the coupled architecture against a common drive. It gives no test that tells the two apart in data.
+Wang and Slotine ([THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md), bears_on; [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)). A leader fixes the collective phase (Theorem 7), while among peers "the phase of the collective behavior is hard to predict, since it depends on the initial conditions of all the coupled elements" (p. 21). That is the collective phase freedom of the coupled architecture against a common drive. It gives no test that tells the two apart in data.

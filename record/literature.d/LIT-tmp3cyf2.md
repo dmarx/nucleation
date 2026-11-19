@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpsybfr) from arXiv 2306.04251v3. Worth
+  Read on 2026-11-19 ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)) from arXiv 2306.04251v3. Worth
   reading for symmetry-generated invariant sets of SGD and the noise
   condition for their attraction; it supports less than Velarde and
   colleagues cite it for.
@@ -38,8 +38,8 @@ summary: >-
   weighing curvature against noise makes them attract, at saddles too, and
   trained networks form clusters of near-identical neurons that grow with
   learning rate. Registered from the reading of Velarde and colleagues
-  (LIT-tmpzusyw), who cite it more broadly than it bears. Read in NOTE-
-  tmpsybfr; account THEORY-tmp4kekv.
+  ([LIT-tmpzusyw](LIT-tmpzusyw.md)), who cite it more broadly than it bears. Read in NOTE-
+  tmpsybfr; account [THEORY-tmp4kekv](../theory.d/THEORY-tmp4kekv.md).
 ---
 
 # LIT-tmp3cyf2: Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks
@@ -48,4 +48,4 @@ Chen, Kunin, Yamamura and Ganguli (2023). arXiv 2306.04251.
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request (NOTE-tmpsybfr, THEORY-tmp4kekv).
+Registered and read on 2026-11-19 at the owner's request ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md), [THEORY-tmp4kekv](../theory.d/THEORY-tmp4kekv.md)).

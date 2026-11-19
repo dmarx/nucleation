@@ -46,4 +46,4 @@ A network is a finite directed multigraph with a manifold at each node. A modula
 ## Note of 2026-11-19: Wang and Slotine, read
 <!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
 
-A complement (THEORY-tmprqrdn; NOTE-tmp9eyoy): fibrations give invariant synchrony patterns; Wang and Slotine give conditions under which synchrony is also globally attracting, for identical units with symmetric positive-definite diffusive coupling (Theorem 6).
+A complement ([THEORY-tmprqrdn](THEORY-tmprqrdn.md); [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): fibrations give invariant synchrony patterns; Wang and Slotine give conditions under which synchrony is also globally attracting, for identical units with symmetric positive-definite diffusive coupling (Theorem 6).

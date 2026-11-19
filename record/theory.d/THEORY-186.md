@@ -170,4 +170,4 @@ from the aligned logistic from 33% to 0.1%), which the promote_when rules
 out as settling it.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-Background (NOTE-tmpsybfr): Chen and colleagues extend this line of deep linear analysis to stochastic gradient flow, where collapse keeps weak noisy singular modes from being learned (§6).
+Background ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues extend this line of deep linear analysis to stochastic gradient flow, where collapse keeps weak noisy singular modes from being learned (§6).

@@ -69,4 +69,4 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 ## Note of 2026-11-19: Wang and Slotine, read
 <!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
 
-Wang and Slotine (THEORY-tmprqrdn, bears_on; NOTE-tmp9eyoy): sufficient global conditions for full and symmetric-subgroup synchrony in networks of identical units with diffusive coupling (Theorem 6). They do not test predictions from symmetry orbits, so the question stays open.
+Wang and Slotine ([THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md), bears_on; [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): sufficient global conditions for full and symmetric-subgroup synchrony in networks of identical units with diffusive coupling (Theorem 6). They do not test predictions from symmetry orbits, so the question stays open.

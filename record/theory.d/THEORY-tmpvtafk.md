@@ -59,4 +59,4 @@ Schoenholz and colleagues ([THEORY-tmpqtb3q](THEORY-tmpqtb3q.md)), read: give th
 No status change.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-Background, with a qualification (NOTE-tmpa7swy). Poole and colleagues supply the generic baseline this account is set against: the χ1 = 1 boundary, and the bias-free transition at σw = 1. In their account the chaotic phase is where depth buys expressivity, so the generic network's chaotic phase is not only something to avoid, and the paper never speaks of an "edge of chaos". Nothing on equivariance, information retention or trainability.
+Background, with a qualification ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)). Poole and colleagues supply the generic baseline this account is set against: the χ1 = 1 boundary, and the bias-free transition at σw = 1. In their account the chaotic phase is where depth buys expressivity, so the generic network's chaotic phase is not only something to avoid, and the paper never speaks of an "edge of chaos". Nothing on equivariance, information retention or trainability.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read in full on 2026-11-19 (NOTE-tmp9eyoy) from the authors' accepted
+  Read in full on 2026-11-19 ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)) from the authors' accepted
   manuscript on SciSpace. Worth reading as the source of partial
   contraction, which the record needed for contraction that keeps
   distinctions.
@@ -42,8 +42,8 @@ summary: >-
   the system itself need not contract. Applied to identical units with
   diffusive coupling, it gives global synchronization above a threshold
   set by the Laplacian's spectrum, with the common phase left free.
-  Registered from the reading of Lohmiller and Slotine (LIT-tmprrdom).
-  Read in NOTE-tmp9eyoy; account THEORY-tmprqrdn.
+  Registered from the reading of Lohmiller and Slotine ([LIT-tmprrdom](LIT-tmprrdom.md)).
+  Read in [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md); account [THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md).
 ---
 
 # LIT-tmpwo4ry: On partial contraction analysis for coupled nonlinear oscillators
@@ -52,4 +52,4 @@ Wang and Slotine (2004). Biological Cybernetics 92, DOI 10.1007/s00422-004-0527-
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request (NOTE-tmp9eyoy, THEORY-tmprqrdn).
+Registered and read on 2026-11-19 at the owner's request ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md), [THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md)).

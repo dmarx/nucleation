@@ -124,4 +124,4 @@ are therefore independent, and the network has at least ∏(rᵢ+1) neurons.
 The argument uses σ_e ≠ 0 only for d − K ≤ e ≤ d.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-A parallel (NOTE-tmpa7swy): Poole and colleagues separate depth from width for generic random networks, by geometry (Theorem 1 against exponential growth of curve length), where this account does it for monomials at fixed neuron count.
+A parallel ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): Poole and colleagues separate depth from width for generic random networks, by geometry (Theorem 1 against exponential growth of curve length), where this account does it for monomials at fixed neuron count.

@@ -77,4 +77,4 @@ flow.
   slowest singular-value transition.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
-A parallel (NOTE-tmpsybfr): Chen and colleagues' stochastic collapse is a noise-driven pull toward symmetric sets in the permutation and sign cases; it leaves this question where it was.
+A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues' stochastic collapse is a noise-driven pull toward symmetric sets in the permutation and sign cases; it leaves this question where it was.

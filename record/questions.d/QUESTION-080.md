@@ -90,4 +90,4 @@ property of SGD's stationary distribution rather than of a limit point.
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 <!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
 
-Chen and colleagues (THEORY-tmp4kekv, bears_on; NOTE-tmpsybfr): at a large learning rate collapse continues after the training loss plateaus, "even after the training loss plateaus, further extended training with a large learning rate η will continue to drive stochastic collapse of small singular modes" (p. 10). Neuron coincidence is one structure that keeps tightening while the loss stands still.
+Chen and colleagues ([THEORY-tmp4kekv](../theory.d/THEORY-tmp4kekv.md), bears_on; [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): at a large learning rate collapse continues after the training loss plateaus, "even after the training loss plateaus, further extended training with a large learning rate η will continue to drive stochastic collapse of small singular modes" (p. 10). Neuron coincidence is one structure that keeps tightening while the loss stands still.

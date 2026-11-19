@@ -50,4 +50,4 @@ The thesis is that lazy training never lowers within-class variability below its
 A verified-lazy network on real data whose NC1 stays at its initial value while the same architecture, trained out of the lazy regime, collapses would confirm it; one whose NC1 falls well below its initial value with the kernel verified static would reject it. [QUESTION-192](../questions.d/QUESTION-192.md) asks the same thing as a question; this entry is the answer Kothapalli and Tirer propose.
 
 ## Note of 2026-11-19: Poole and colleagues, read
-A parallel (NOTE-tmpa7swy): Poole and colleagues' layerwise covariance recursion is, in substance, the kernel recursion of the infinite-width regime; they predate the name and do not make the identification.
+A parallel ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): Poole and colleagues' layerwise covariance recursion is, in substance, the kernel recursion of the infinite-width regime; they predate the name and do not make the identification.
