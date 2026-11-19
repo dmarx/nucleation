@@ -12,3 +12,18 @@
 - Warmup: baseline is also continued on the same 10B new shuffled data; "best checkpoint" arm started from a checkpoint before 10B, so fewer total tokens.
 - Gains concentrated early/mid; vanilla converges to baseline at end (p5). Warmup gives +2.0 to +3.5% at end; 100B run +~3.1%.
 - Open doubt: fixed LR throughout; no LR decay, so "endpoint" is a constant-LR endpoint.
+
+## Quotes checked by script (36 quotes, all found in downloaded text)
+
+## Bearings searched (record read only)
+- Only mention of the work: LEAD-tmpjdtrl item 3 ("Zhang and colleagues on curricula in pretraining"). No LIT yet.
+- CLAIM-756: qualifies/weak support. Ordering, not a distinct earlier acquisition; warmup arm (S3) is the nearest: same phase-1 tokens reordered, same phase-2 10B random data, ends +2.6-3.5% (one seed). Measured as accuracy level, plus "steps to reach baseline best".
+- CLAIM-596 / QUESTION-397: relevant. Vanilla CL = head start that converges ("converging or remaining slightly higher"); warmup = baseline converges while warmup "keeps improving" (rate in later phase), figure-read, one seed.
+- QUESTION-039: partial, aggregate benchmark only.
+- THEORY-tmpd6l4a (Skill-it): contrast (sequential skills no better than random vs. easy-to-hard helps early).
+- THEORY-tmp0lbb1 (Bengio): parallel, qualifies (endpoint gains mostly vanish in vanilla).
+- THEORY-tmprqq7k (Feng et al.): parallel (order washes out at end).
+- THEORY-tmpk9cmk (Hu): parallel, earlier tokens counted in both.
+- THEORY-tmpd6smn, THEORY-tmplutfz: background.
+- TERM-131: background (counterfactual = same data, random order).
+- Open doubt: constant LR, no cooldown; single seeds for the vanilla and warmup arms.
