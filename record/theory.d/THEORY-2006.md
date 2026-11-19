@@ -61,4 +61,4 @@ A contrast ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): Anguita and colleague
 A parallel ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): Howard and Ruder also find that full fine-tuning at an aggressive rate loses the pretrained benefit and that a gentler schedule keeps it; they do not vary pretraining length.
 
 ## Note of 2026-11-19: the data-scheduling readings, read
-Two parallels. Gururangan and colleagues (NOTE-tmpg5d9a): more relevant continued pretraining helps and irrelevant hurts, so content, not only length, decides. Liu and colleagues (NOTE-tmphfhfu) cite this account and find at most a faint version of its pattern at 160M, and suggest midtraining "may prevent overtraining", untested.
+Two parallels. Gururangan and colleagues ([NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md)): more relevant continued pretraining helps and irrelevant hurts, so content, not only length, decides. Liu and colleagues ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)) cite this account and find at most a faint version of its pattern at 160M, and suggest midtraining "may prevent overtraining", untested.

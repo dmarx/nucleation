@@ -38,9 +38,9 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-756.** Evidence for its premise with the earlier acquisition's cost inside the comparison, at a fixed total budget: adding a prerequisite's data lowers the steps a target needs. Not the claim's sequence (acquire one, then the other), and no step with a negative return of its own. The sampler, which weights a skill by the losses of the skills it influences, is a working analogue of valuing an acquisition by its effect on others, but on present losses, not later costs.
-- **LEAD-tmp5lpoy** described it as ordering data by prerequisites; it mixes and reweights, and its own sequential curriculum fails.
-- **QUESTION-039 and QUESTION-217.** The order of benefit is set by the data and departs from the task's dependency order.
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** Evidence for its premise with the earlier acquisition's cost inside the comparison, at a fixed total budget: adding a prerequisite's data lowers the steps a target needs. Not the claim's sequence (acquire one, then the other), and no step with a negative return of its own. The sampler, which weights a skill by the losses of the skills it influences, is a working analogue of valuing an acquisition by its effect on others, but on present losses, not later costs.
+- **[LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md)** described it as ordering data by prerequisites; it mixes and reweights, and its own sequential curriculum fails.
+- **[QUESTION-039](../questions.d/QUESTION-039.md) and [QUESTION-217](../questions.d/QUESTION-217.md).** The order of benefit is set by the data and departs from the task's dependency order.
 
 ## Limitations
 

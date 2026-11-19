@@ -15,7 +15,7 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmpuo84j in NOTE-tmpk9vq9. A final-performance
+  From the reading of [LIT-tmpuo84j](../literature.d/LIT-tmpuo84j.md) in [NOTE-tmpk9vq9](../notes.d/NOTE-tmpk9vq9.md). A final-performance
   result in which an earlier step weak on its own belongs to the best
   policy. Proposed until its promote_when is met.
 ---

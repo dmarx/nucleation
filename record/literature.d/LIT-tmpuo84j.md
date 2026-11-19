@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpk9vq9). Worth reading as the founding
+  Read on 2026-11-19 ([NOTE-tmpk9vq9](../notes.d/NOTE-tmpk9vq9.md)). Worth reading as the founding
   statement of curriculum learning and its continuation-method account.
 title: 'Curriculum learning'
 version: 1
@@ -31,7 +31,7 @@ summary: >-
   better than unordered training on both sets) and in a language model
   with a growing vocabulary; a curriculum is read as a continuation method
   and, on the surface, a regularizer. Final performance, not cost. Read in
-  NOTE-tmpk9vq9; account THEORY-tmp0lbb1.
+  [NOTE-tmpk9vq9](../notes.d/NOTE-tmpk9vq9.md); account [THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md).
 ---
 
 # LIT-tmpuo84j: Curriculum learning
@@ -40,4 +40,4 @@ Yoshua Bengio, Jérôme Louradour, Ronan Collobert and Jason Weston (2009). "Cur
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmp5lpoy.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md).

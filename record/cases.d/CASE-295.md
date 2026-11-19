@@ -66,4 +66,4 @@ first.
 ## Note of 2026-11-19: Bengio, Louradour, Collobert and Weston, read
 <!-- inactive-ok-file: THEORY-tmp0lbb1 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-A real instance of this case's pattern (THEORY-tmp0lbb1; NOTE-tmpk9cmk), in final-error terms: training on easier shapes alone "yielded poor results", yet spending half of a fixed budget on them first gave the best final error, better than unordered training on both sets. Chen and colleagues (NOTE-tmpwrmog) add a cost this case leaves out, finding which earlier acquisition helps, and show it can be paid and recouped.
+A real instance of this case's pattern ([THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md); NOTE-tmpk9cmk), in final-error terms: training on easier shapes alone "yielded poor results", yet spending half of a fixed budget on them first gave the best final error, better than unordered training on both sets. Chen and colleagues ([NOTE-tmpwrmog](../notes.d/NOTE-tmpwrmog.md)) add a cost this case leaves out, finding which earlier acquisition helps, and show it can be paid and recouped.

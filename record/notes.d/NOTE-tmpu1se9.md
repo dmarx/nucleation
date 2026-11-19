@@ -36,8 +36,8 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmp5lpoy.** A different question from the owner's recollection, not a counter-example: it orders within one conversational corpus and measures final general competence; no conversational-then-domain sequence and no later cost. At most a weak instance of order not mattering at fixed data, for within-corpus age order.
-- **CLAIM-756.** Background: no later acquisition is measured.
+- **[LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md).** A different question from the owner's recollection, not a counter-example: it orders within one conversational corpus and measures final general competence; no conversational-then-domain sequence and no later cost. At most a weak instance of order not mattering at fixed data, for within-corpus age order.
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** Background: no later acquisition is measured.
 
 ## Limitations
 

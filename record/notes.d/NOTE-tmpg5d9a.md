@@ -35,9 +35,9 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-756.** A weak parallel in performance terms; ULMFiT's cost-to-level remains the stronger case. Irrelevant adaptation shows the converse: an earlier acquisition making a later one turn out worse.
-- **CLAIM-758.** Collateral loss of general competence after further training is measured, but on a shifted distribution, not continued stabilization: not a case.
-- **THEORY-tmpkjzqg.** Independent support for relevance deciding transfer, by another method.
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** A weak parallel in performance terms; ULMFiT's cost-to-level remains the stronger case. Irrelevant adaptation shows the converse: an earlier acquisition making a later one turn out worse.
+- **[CLAIM-758](../claims.d/CLAIM-758.md).** Collateral loss of general competence after further training is measured, but on a shifted distribution, not continued stabilization: not a case.
+- **[THEORY-tmpkjzqg](../theory.d/THEORY-tmpkjzqg.md).** Independent support for relevance deciding transfer, by another method.
 
 ## Limitations
 

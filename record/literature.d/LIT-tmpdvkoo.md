@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpu1se9). Worth reading as a controlled test
+  Read on 2026-11-19 ([NOTE-tmpu1se9](../notes.d/NOTE-tmpu1se9.md)). Worth reading as a controlled test
   of a developmental curriculum in language-model training; it is not the
   result the owner recalls.
 title: 'Is Child-Directed Speech Effective Training Data for Language Models?'
@@ -30,7 +30,7 @@ summary: >-
   syntax and semantics (GPT-2 only, weakly powered), while shuffling
   utterances within conversations hurts on CHILDES. Conversational data
   helps syntax at equal tokens. No later domain is learned. Read in NOTE-
-  tmpu1se9; account THEORY-tmprqq7k.
+  tmpu1se9; account [THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md).
 ---
 
 # LIT-tmpdvkoo: Is Child-Directed Speech Effective Training Data for Language Models?
@@ -39,4 +39,4 @@ Steven Y. Feng, Noah D. Goodman and Michael C. Frank (2024). "Is Child-Directed 
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmp5lpoy.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md).

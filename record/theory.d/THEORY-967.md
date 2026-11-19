@@ -102,4 +102,4 @@ The promote_when above.
   here come from; its path expansion is [THEORY-988](THEORY-988.md).
 
 ## Note of 2026-11-19: Hu, Petty, Shi, Merrill and Linzen, read
-A parallel (NOTE-tmpm4pxy): here bracket-matching heads arise from natural text; there a bracket corpus seeds heads later used for natural text.
+A parallel ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)): here bracket-matching heads arise from natural text; there a bracket corpus seeds heads later used for natural text.

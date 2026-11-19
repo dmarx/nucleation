@@ -48,4 +48,4 @@ per configuration, significance at p < 0.1; small real-domain gains that
 an ablation shrinks; small semi-synthetic models.
 
 ## Note of 2026-11-19: Gururangan and colleagues, read
-Independent support for relevance deciding transfer (NOTE-tmpg5d9a), by another method: continued pretraining on an irrelevant domain or another task's text does worse than none.
+Independent support for relevance deciding transfer ([NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md)), by another method: continued pretraining on an irrelevant domain or another task's text does worse than none.
