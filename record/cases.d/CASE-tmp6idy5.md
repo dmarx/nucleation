@@ -34,9 +34,9 @@ summary: >-
   communities and joke communities; the team communities are the owner's
   report. ChatGPT (A82) added three classes of formation, a five-step
   sequence, a measure of a community's developmental productivity and two
-  works, unread. A specimen with a study proposed on it; nothing measured.
+  works, since read: correlational, carrying less than A82 said. A specimen with a study proposed on it; nothing measured.
 ---
-<!-- inactive-ok-file: CLAIM-762 LIT-tmpdivuz LIT-tmpk778z THEORY-tmp5zxkk CASE-296 CLAIM-761 CLAIM-754 — Proposed or Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-762 THEORY-tmps2gur THEORY-tmpj5upc THEORY-tmp5zxkk CASE-296 CLAIM-761 CLAIM-754 — Proposed or Deferred; cited in this filing of 2026-11-19 -->
 
 # CASE-tmp6idy5: Communities forming subcommunities on Reddit, the owner's example of learned abstractions becoming operative structures that change later behaviour: specializations nested in broad communities on the owner's map, college-football team communities organized by inside jokes and rivalries, and joke communities that grew and lapsed; with a proposed longitudinal study of whether a community makes its descendants cheaper to form
 
@@ -94,17 +94,26 @@ not be imported from an established institution". It illustrates
   and selection; and two senses of parent kept apart, "the source of
   early participants without being the organizational cause of the new
   group", or a continuing home community rather than a split.
-- **Prior work** (registered, unread): Hessel, Tan and Lee
-  ([LIT-tmpdivuz](../literature.d/LIT-tmpdivuz.md)), cited for users who join a related community becoming
-  more active in the original one, so that differentiation need not
-  fragment; Krohn and Weninger ([LIT-tmpk778z](../literature.d/LIT-tmpk778z.md)), cited for links to
-  subreddits that did not yet exist, often jokes, leading to their
-  creation, "symbolic reification becoming institutional construction" in
-  A82's phrase.
+- **Prior work**, read on 2026-11-19, and carrying less than A82 said:
+  - Hessel, Tan and Lee (THEORY-tmps2gur) measure three of these
+    outcomes on affix-named pairs: founders by the early-participant
+    fraction, displacement by the activity ratio, complementarity by the
+    exploration effect. Users who try a spinoff are, in most kinds of
+    pair, more likely to raise their activity in the original over 30
+    days, negative for some kinds, with causation disclaimed; that is
+    short-term individual activity, not the absence of fragmentation A82
+    read into it. About half of related pairs share few founders, which
+    bears out the caution on the two senses of parent.
+  - Krohn and Weninger (THEORY-tmpj5upc) find that links to subreddits
+    that did not yet exist preceded a sixth of later creations, most
+    such links never followed by one. They report correlation, not the
+    natural experiment A82 described, and measure nothing institutional:
+    where members come from and whether created communities last are
+    their open questions.
 
 ## What it does not show
 
 Nothing is measured. The map is built for discovery: its direction is a
 reading, its months are flattened, and it cannot say which community came
-first or whether a parent caused a child. The two works are cited as A82
-reports them.
+first or whether a parent caused a child. The two works were read on 2026-11-19 and are
+correlational.

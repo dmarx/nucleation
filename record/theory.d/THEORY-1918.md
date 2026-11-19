@@ -41,3 +41,6 @@ efficacy, observed (by example) on platforms.
 No data. It does not say effective voice is always better ("we do not regard one as" a priori superior).
 Platforms and peer communities, not public administration or algorithmic decision systems; it is not
 Kong and Chang's argument.
+
+## Note of 2026-11-19: Hessel, Tan and Lee, read
+A qualifying parallel (NOTE-tmpwmsxg): online, trying an alternative community is mostly not exit from the original, in Hessel, Tan and Lee's data, except for place and nsfw spinoffs and some pairs.

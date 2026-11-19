@@ -141,3 +141,6 @@ Springer and colleagues ([THEORY-2006](../theory.d/THEORY-2006.md)), read, try n
 What the readings do to its standing. The conditional is untouched, but nothing read supports its antecedent for networks, and the one setting that applies varied practice throughout shows gradual decline under use. To survive, the claim would have to say what exercising the capacity to acquire is, so that Dohare's continual training is not already it, and measure the deadline as a rise in acquisition cost with held capabilities kept, so that a forgetting-driven inflection like Springer's does not count. The test in [CASE-294](../cases.d/CASE-294.md) stands as written.
 
 No status change.
+
+## Note of 2026-11-19: Anguita and colleagues, read
+An analogy only (NOTE-tmpr453b): rescaling the readout, or shrinking all weights, at the start of fine-tuning moves a network back toward learning new features, which resembles the branch where an intervention renews what training used up. There is no loss of capacity over training and no threshold in their model, so no evidence for either branch.

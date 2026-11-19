@@ -217,3 +217,8 @@ Han and colleagues ([THEORY-2015](../theory.d/THEORY-2015.md)), read, give a tra
 Springer and colleagues ([THEORY-2006](../theory.d/THEORY-2006.md)), read: past an inflection point, longer pre-training leaves a base model that keeps improving and a fine-tuned model that gets worse. That too is present capability failing to rank later capability, along one training run. The mechanism they give is forgetting under the fine-tune, not a capacity decaying with disuse, so it supports the evaluative consequence and not the model the derivation uses.
 
 No status change.
+
+## Note of 2026-11-19: Anguita and colleagues, read
+<!-- inactive-ok-file: THEORY-tmppm9la — Proposed; cited from the readings of 2026-11-19 -->
+
+Anguita and colleagues (THEORY-tmppm9la, corroborates; NOTE-tmpr453b): an analytical case of the same capabilities now with different later learning. With pretraining exact, networks differing only in the relative scale of their layers compute the same function and fine-tune differently. It supports the claim's evaluative consequence with independent evidence; it does not bear on the derivation, which rests on the model of learning by use and disuse.

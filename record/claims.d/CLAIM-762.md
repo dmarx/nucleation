@@ -143,3 +143,8 @@ Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md); [NOTE-2096](../note
 <!-- inactive-ok-file: CASE-tmp6idy5 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
 The owner's Reddit case ([CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md), U37) illustrates this claim socially: a joke or a rivalry recognized in a community becomes a named subreddit that people join and govern, which then organizes further activity. ChatGPT (A82): "a distinction born within a community becomes a new social object, which then organizes behavior that would have been more difficult to coordinate without it". Nothing is measured; the claim is unchanged.
+
+## Note of 2026-11-19: Krohn and Weninger, read
+<!-- inactive-ok-file: THEORY-tmpj5upc — Proposed; cited from the readings of 2026-11-19 -->
+
+Krohn and Weninger (THEORY-tmpj5upc; NOTE-tmp39hi8), by analogy: on Reddit a name can come before its community, "links are made to subreddits that do not exist" "(often as a joke), and occasionally these links spur the creation of a new community", a route to a named unit that starts from a symbol rather than from collapsing differences. Correlational, and nothing on closure or reuse. Hessel, Tan and Lee (NOTE-tmpwmsxg): affixes such as "true" or "ask" recur across many pairs as templates for new communities. Neither is evidence for the claim; the note above on the Reddit case should be read as illustration.

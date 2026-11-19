@@ -118,3 +118,6 @@ The promote_when above.
 - [CLAIM-329](../claims.d/CLAIM-329.md): "the same components" is judged here by resemblance (the node
   appears again), not by what the component does or where its function
   came from.
+
+## Note of 2026-11-19: Anguita and colleagues, read
+A parallel (NOTE-tmpr453b): in Anguita and colleagues' rich, pretraining-dependent regime "nearly all representational dimensions expressed post-fine-tuning are inherited from the pretraining state", the same kind of finding as this account's.

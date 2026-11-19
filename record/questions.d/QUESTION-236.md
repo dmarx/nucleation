@@ -72,3 +72,6 @@ transfer.
 **What cannot settle it.** More losses on ResNet-50 and ImageNet repeat the
 measured correlation. More same-class shift benchmarks answer a different
 question ([THEORY-104](../theory.d/THEORY-104.md)).
+
+## Note of 2026-11-19: the pretraining works, read
+Background from two readings: Anguita and colleagues' lazy, pretraining-dependent regime is fixed-feature transfer, optimal only when the fine-tuning task's features coincide with the pretrained ones (NOTE-tmpr453b); McDermott and colleagues' Corollary 1 gives a mechanism of this question's shape, a label-collapsed structure capping transfer, without ResNet evidence (NOTE-tmp074zx). Neither settles it.

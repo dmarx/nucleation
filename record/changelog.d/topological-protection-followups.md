@@ -13,3 +13,9 @@
 ### Changed
 
 - [SYNTHESIS-107](record/syntheses.d/SYNTHESIS-107.md) version 2: the Reddit case added as a test.
+- The four works ChatGPT cited in the follow-up turns, read (curation
+  entry of 2026-11-19, 193706): Hessel, Tan and Lee and Krohn and
+  Weninger on Reddit communities, McDermott and colleagues and Anguita
+  and colleagues on pretraining, each with a NOTE and a Proposed THEORY;
+  the Reddit case's account of the first two corrected; dated notes on
+  twenty-nine entries.

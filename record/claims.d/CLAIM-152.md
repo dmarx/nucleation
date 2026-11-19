@@ -233,3 +233,8 @@ The claim is unchanged.
 
 ## Note of 2026-11-19: Carnap, read
 A second source of relativity, from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md)). His Q-predicates are the finest partition a monadic language can express ("the strongest factual properties expressible in the system", §31), and the width of a property is defined only relative to the language's primitives (§32). That partition is relative to the vocabulary chosen, not to a target outcome as this claim's is. The two compose: what can be individuated at all is fixed by the language, and which partition wins by the target. The claim is unchanged.
+
+## Note of 2026-11-19: McDermott and colleagues, read
+<!-- inactive-ok-file: THEORY-tmpkjzqg — Proposed; cited from the readings of 2026-11-19 -->
+
+McDermott and colleagues (THEORY-tmpkjzqg, corroborates; NOTE-tmp074zx): a partition sufficient for the pre-training labels serves a later task only as far as that task's labels are constant on its classes (Corollary 1), an instance of sufficiency being relative to the target.

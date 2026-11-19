@@ -148,3 +148,6 @@ its own spectral sectors.
 ## Note of 2026-10-12: evidence now linked
 
 [THEORY-081](../theory.d/THEORY-081.md) now grounds this claim. The Savage–Dickey ratio is the point-mass case of a general identity for models that differ only in their prior. Its caveat, that Laplace forms are only as good as the full posterior, sits with [CLAIM-188](CLAIM-188.md).
+
+## Note of 2026-11-19: Krohn and Weninger, read
+An analogy (NOTE-tmp39hi8): most proposed names never become communities, and the returns from repeating a name saturate.

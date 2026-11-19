@@ -273,3 +273,6 @@ A8 states the costs such a comparison must charge: the archive, the detector and
 The example restates this question's dormant case with numbers. It is not filed as a CASE.
 
 No status changes.
+
+## Note of 2026-11-19: Hessel, Tan and Lee, read
+An analogy only (NOTE-tmpwmsxg): Hessel, Tan and Lee's "complementary rather than competitive" spinoffs concern individual users' short-term activity, not recovery when rare or coexistence in the ecological sense.

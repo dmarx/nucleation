@@ -202,3 +202,8 @@ No status change.
 <!-- inactive-ok-file: THEORY-2009 — Proposed; cited from the readings of 2026-11-19 -->
 
 An analogy with the right shape ([THEORY-2009](../theory.d/THEORY-2009.md); [NOTE-2127](../notes.d/NOTE-2127.md)), not evidence. Long training at a large learning rate keeps improving present generalization while driving the network toward invariant sets from which escape is slower ("the repulsive escape will take longer the closer it starts from the invariant set", p. 10). Chen and colleagues value this as preventing overfitting; whether it raises the cost of a declared family outside the training distribution is untested. A candidate mechanism for the claim, to measure in [CASE-294](../cases.d/CASE-294.md). The claim is unchanged.
+
+## Note of 2026-11-19: the pretraining works, read
+<!-- inactive-ok-file: THEORY-tmpkjzqg THEORY-tmppm9la — Proposed; cited from the readings of 2026-11-19 -->
+
+Neither bears on the claim's time course. Anguita and colleagues (THEORY-tmppm9la; NOTE-tmpr453b) never vary pretraining length; they show, in a solvable model, that how cheaply something is learned later can depend on a property of the representation the present objective does not see (the relative scale of the layers), which makes the claim's mechanism coherent without showing it operate. McDermott and colleagues (THEORY-tmpkjzqg; NOTE-tmp074zx) give, as a bound, a pre-training form of the overcompression mechanism this claim lists: a label-defined constraint caps a later task whose labels vary within the pre-training classes ("once saturation is reached, it will not improve beyond this fixed upper bound relating to task correlation"). It does not grow with training there. The claim is unchanged.

@@ -1,0 +1,104 @@
+---
+status: Read
+paper: LIT-tmplopzs
+title: 'Anguita, Locatello, Saxe, Mondelli, Mancini, Lippl and Dominé — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from arXiv 2602.20062v2
+    (2026-06-30), whose footer gives ICML 2026, PMLR 306; the PMLR index
+    lists it at pp. 2893-2920. Main text, Appendix A, Appendix D and the
+    protocol parts of Appendix E read; the derivations of Appendix B and the
+    replica proof of Appendix C skipped; figures through captions and prose.
+    v2 has seven authors. Quotations rechecked by the filer by script.
+date: '2026-11-19'
+summary: >-
+  In two-layer diagonal linear networks trained to convergence, the
+  initialization's absolute scale, its relative scale between layers and
+  the readout's scale at fine-tuning place fine-tuning in one of four
+  regimes trading reuse of pretrained features against a bias to learn
+  sparse new ones. The relative scale changes fine-tuning even when the
+  pretrained function is the same, and which regime generalizes best
+  depends on how the fine-tuning task overlaps the pretrained features.
+  Deep-network experiments agree qualitatively.
+---
+<!-- inactive-ok-file: CLAIM-756 CLAIM-758 — Proposed; entries this reading bears on -->
+
+# NOTE-tmpr453b: Anguita, Locatello, Saxe, Mondelli, Mancini, Lippl and Dominé — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning
+
+## Contribution
+
+An analytical theory of pretraining followed by fine-tuning: the implicit
+bias of fine-tuning as a penalty reweighted by the pretrained function
+and three initialization scales, turned into generalization error by a
+replica calculation; four regimes, two of them new to fine-tuning.
+
+## Key results
+
+1. **Same function, different later learning (§4.1, p. 5).** "even though
+   in diagonal linear networks, the relative scale λP T does not impact
+   the inductive bias of pretraining, it does impact the learned hidden
+   representation and therefore the inductive bias of fine-tuning".
+2. **A trade-off (Prop. 5.1, p. 7).** "it is impossible to achieve PD = −1
+   and ℓ-order = 1": full reliance on pretraining and full sparsity bias
+   cannot both be had.
+3. **A regime with no transfer (§5.1, p. 6).** "for badly chosen
+   initialization parameters, pretraining will not create transferable
+   features".
+4. **The best regime depends on the task (§5.3, App. A).** With no
+   overlap, "the regime approaching the rich, pretraining-independent
+   regime (in yellow) is optimal"; with complete overlap, "the lazy,
+   pretraining-dependent regime (II, in purple) is optimal"; with a
+   subset, "the rich, pretraining-dependent regime (IV, in green) is
+   optimal". "negative λP T makes generalization worse under full
+   overlap", and "the optimal learning regime will depend on the task
+   parameters".
+5. **Pretraining is converged (§3.2, §3.3).** "In both cases, we assume
+   that the model trains to zero training error"; pretraining strength is
+   a data ratio, not training time.
+6. **Deep networks (§6, App. D).** "increasing the scale of cP T also
+   leads to degraded fine-tuning generalization"; some orderings "are not
+   statistically significant". On SVHN, "FT performance exceeds that of
+   single-task learning at intermediate training stages across all kappa
+   values".
+
+## Assumptions
+
+Diagonal linear networks, gradient flow to convergence, Gaussian inputs,
+sparse noiseless teachers, a non-rigorous replica calculation ("The
+replica method is nonrigorous"), an artificial re-balancing before
+fine-tuning; the deep experiments do not control overlap or sparsity.
+
+## Concepts
+
+Absolute, relative and readout initialization scales; lazy and rich
+regimes of fine-tuning; pretraining dependence and ℓ-order; feature reuse,
+refinement and new learning; participation ratio and shared dimensions.
+
+## Bearing on the record
+
+- **CLAIM-754 and CLAIM-675.** An analytical case of equal present
+  capability and different later learning: with pretraining exact, every
+  relative scale gives the same pretrained function, yet fine-tuning's
+  inductive bias differs. And which initialization is best reverses with
+  the declared fine-tuning task, as the three-frontier claim says a
+  ranking needs a declared distribution.
+- **CLAIM-756 and the owner's point at U37.** Pretrained features lower
+  the sample cost of fine-tuning where tasks overlap, and beat training
+  from scratch on SVHN: a real instance of the claim's premise, nothing on
+  valuation.
+- **CLAIM-758.** No bearing on its time course, since pretraining length
+  is never varied; but it shows in a solvable model that later learning
+  can depend on a property of the representation the present objective
+  does not see.
+- **CASE-294.** The re-initialized head's scale and the layers' relative
+  scale decide whether fine-tuning reuses or learns features, so the
+  study should fix and report them.
+
+## Limitations
+
+Diagonal linear networks; non-rigorous replicas; artificial re-balancing;
+both stages to convergence, so nothing on training duration or
+forgetting; qualitative deep experiments with uncontrolled overlap.

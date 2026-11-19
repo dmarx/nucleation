@@ -36,3 +36,8 @@ edges below a ratio of 0.1 dropped.
 A method and a map, not a test: the specialization reading is the
 author's interpretation of the edge direction, and the flattening means
 the map cannot show which community came first.
+
+## Note of 2026-11-19: Hessel, Tan and Lee, read
+<!-- inactive-ok-file: THEORY-tmpj5upc THEORY-tmps2gur — Proposed; cited from the readings of 2026-11-19 -->
+
+Hessel, Tan and Lee (THEORY-tmps2gur; NOTE-tmpwmsxg), on the same platform, qualify the reading of a nested edge as a specialization forked from the larger community: in 14% of name-linked pairs the specific community is the older ("ukpolitics" before "politics"), and about half of related pairs share few early participants. Overlap or nesting is not descent, which this account's flattening of the months already leaves undetermined. Krohn and Weninger (THEORY-tmpj5upc) build a different graph, from explicit links, monthly; it grows sparser and more tree-like over time, a different measure, not a confirmation.

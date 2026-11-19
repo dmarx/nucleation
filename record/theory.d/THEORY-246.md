@@ -178,3 +178,6 @@ in a figure and states it in words, without numbers. The former
 promote_when, which asked for another pretraining
 setting and for an intervention on within-class spread at a fixed loss,
 moves unchanged to [QUESTION-236](../questions.d/QUESTION-236.md).
+
+## Note of 2026-11-19: McDermott and colleagues, read
+A parallel (NOTE-tmp074zx): McDermott and colleagues' Corollary 1 gives a mechanism of this shape, a shallow label-collapsed structure capping transfer, in a nearest-neighbour bound, not in ResNets.

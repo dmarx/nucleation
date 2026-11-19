@@ -53,3 +53,6 @@ Weight decay, usually tuned for the base model's validation loss, also shapes ho
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 A caution from Chen and colleagues' reading ([NOTE-2127](../notes.d/NOTE-2127.md)): rank reduction by collapse is not plasticity loss as such; this account found more plasticity across a weight-decay window with rank reduced.
+
+## Note of 2026-11-19: Anguita and colleagues, read
+A parallel (NOTE-tmpr453b): in both, how pretraining leaves the weights, not the pretraining loss, ranks the model after fine-tuning; here the initialization's scales, there weight decay. The mechanisms are not shown to be the same.
