@@ -1,20 +1,31 @@
 ---
 status: Proposed
-title: 'If a learner''s capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then recovery from overconsolidation by renewed practice has a deadline: renewed exposure to varied tasks restores the capacity to acquire when it comes before a threshold point in training and not after, while an intervention that raises the capacity directly (a reset of some weights) can still restore it after the threshold if it lifts the capacity back above it; in a heterogeneous population the threshold may show as a steep or probabilistic transition rather than a step'
-version: 1
-role: supposed
+title: 'Whether relief from overconsolidation has a deadline depends on how the capacity to acquire is lost: if it is sustained by use and decays with disuse (the conditions of the owner-endorsed model of learning by doing), renewed varied practice restores it before a threshold point in training and not after; if it is used up by training, as in plasticity loss under continued varied practice, renewed practice does not restore it at any point, and only an intervention that renews what was used up, such as reinitializing units, does, at any point; the evidence read so far fits the second'
+version: 2
+role: thesis
 warrant: interpretive
 defeated_if: >-
-  Across checkpoints of one training run, the gain in later acquisition
-  from renewed practice (varied-task exposure) declines gradually with
-  training time, with no point or narrow band after which it falls to
-  near zero, where the population of runs is homogeneous enough that a
-  threshold would show as a steep transition; or the
-  antecedent fails, that is, the capacity to acquire is not drawn down by
-  disuse and rebuilt by use, so that CLAIM-605's model does not describe
-  training at all. Also defeated if the apparent deadline is explained by
-  forgetting of held capabilities rather than by lost capacity to
-  acquire.
+  A case that fits neither branch: a network whose capacity to acquire,
+  lost under continued training, is restored by renewed varied practice
+  after every reinitializing intervention has failed; or one in which
+  practice restores it at every point, with no threshold, while the
+  capacity also decays with disuse. Also defeated if the loss Dohare and
+  colleagues measure, read as depletion here, turns out to be disuse of
+  some sub-capacity that varied practice does not exercise, so that the
+  first branch covers their case too.
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Revised after the readings of 2026-11-19 (curation entry 071802), at
+    the owner's request. Dohare and colleagues find plasticity lost
+    gradually while networks keep practising on new tasks, with no
+    threshold, and kept by continually reinitializing little-used units:
+    decay with use, against version 1's antecedent. Version 1 was a
+    conditional on CLAIM-605's conditions; version 2 states both branches
+    and which the evidence fits. Role changed from supposed to thesis: the
+    claim no longer rests on an unshown antecedent. Version 1's title read:
+    'If a learner''s capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then recovery from overconsolidation by renewed practice has a deadline: renewed exposure to varied tasks restores the capacity to acquire when it comes before a threshold point in training and not after, while an intervention that raises the capacity directly (a reset of some weights) can still restore it after the threshold if it lifts the capacity back above it; in a heterogeneous population the threshold may show as a steep or probabilistic transition rather than a step'.
 tags:
 - learning-theory
 - representation-learning
@@ -38,11 +49,34 @@ summary: >-
   three conditions describe a network's capacity to acquire, which nothing
   on record shows. Its test is an arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+  Revised to version 2 after the readings of 2026-11-19: it now states two
+  branches, and the evidence (Dohare and colleagues) fits depletion by use.
 ---
 <!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmpgjb4y — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-tmp5vg7p: If a learner's capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then recovery from overconsolidation by renewed practice has a deadline: renewed exposure to varied tasks restores the capacity to acquire when it comes before a threshold point in training and not after, while an intervention that raises the capacity directly (a reset of some weights) can still restore it after the threshold if it lifts the capacity back above it; in a heterogeneous population the threshold may show as a steep or probabilistic transition rather than a step
+# CLAIM-tmp5vg7p: Whether relief from overconsolidation has a deadline depends on how the capacity to acquire is lost: if it is sustained by use and decays with disuse (the conditions of the owner-endorsed model of learning by doing), renewed varied practice restores it before a threshold point in training and not after; if it is used up by training, as in plasticity loss under continued varied practice, renewed practice does not restore it at any point, and only an intervention that renews what was used up, such as reinitializing units, does, at any point; the evidence read so far fits the second
+
+
+## Version 2, after the readings
+
+Dohare and colleagues (THEORY-tmpgjb4y), read, find networks losing the
+ability to learn new tasks gradually, while they keep training on a
+stream of varied tasks, with no threshold reported. The loss is kept by
+continual backpropagation, which reinitializes a small share of
+little-used units throughout. That is the second branch: the capacity is
+used up by training, not left unexercised, so practice cannot be what
+restores it, and a direct renewal works whenever it is applied. Dong's
+depletion reading (THEORY-1353) is the same branch at the level of
+attention heads. The first branch, version 1's, stays as CLAIM-605's
+consequence where its conditions hold; nothing read shows them for
+networks. Springer and colleagues (THEORY-tmp3dqbl) explain their
+inflection mostly by forgetting, which neither branch is about.
+
+The test is unchanged in form. In CASE-tmphsr99, apply renewed practice
+and, separately, reinitialization or resets at each checkpoint. Under the
+second branch practice fails throughout and reinitialization works
+throughout; under the first, practice fails only after a point.
 
 ## The claim
 

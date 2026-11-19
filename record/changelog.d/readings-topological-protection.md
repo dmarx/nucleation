@@ -18,3 +18,8 @@
 
 - Three LITs' published dates move to the arXiv versions read, which
   predate the journal articles ([ADR-002](record/decisions.d/ADR-002.md)).
+- CLAIM-tmp8ljvp v2 and CLAIM-tmp5vg7p v2, revised after the readings at
+  the owner's request: overconsolidation's later family lies outside the
+  training task distribution and counts collateral forgetting as cost;
+  the deadline claim now states two branches, decay with disuse and
+  depletion by use, and the evidence fits depletion.

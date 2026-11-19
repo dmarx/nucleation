@@ -10,6 +10,8 @@ tags:
 date: '2026-11-19'
 bears_on:
 - QUESTION-tmpwqepn
+corroborates:
+- CLAIM-tmp5vg7p
 promote_when: >-
   An independent group, with code not the authors', reproduces on
   Continual ImageNet or class-incremental CIFAR-100 that backpropagation's

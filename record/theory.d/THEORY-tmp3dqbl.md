@@ -12,6 +12,7 @@ bears_on:
 - QUESTION-tmpwqepn
 corroborates:
 - CLAIM-675
+- CLAIM-tmp8ljvp
 promote_when: >-
   An independent group, on checkpoints or models not the authors', finds
   at a fixed fine-tuning learning rate that the rise in pre-training loss

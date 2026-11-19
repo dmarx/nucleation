@@ -1,18 +1,33 @@
 ---
 status: Proposed
-title: 'Overconsolidation, a generalization of overfitting: relative to a declared family of future demands, continued stabilization of a learner''s organization can keep improving its present objective while raising the cost of acquiring, recovering or reaching other capabilities, so a learner can learn itself into a trap without overfitting its data; it is a failure only relative to that declared family and horizon'
-version: 1
+title: 'Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon'
+version: 2
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Evidence that what is called overconsolidation is always one of the
-  failures already named, overfitting to a data distribution or forgetting
-  of held capabilities, so that no case shows present competence rising
-  while the cost of a declared later acquisition rises and held
-  capabilities are kept; or that the rise in acquisition cost is always
-  undone by an alternative route the same learner already has, as when
-  in-context adaptability rises while fine-tuning plasticity falls, so that
-  nothing is lost but the place where learning happens.
+  Evidence that every case is one of the failures it is kept apart from:
+  overfitting to a data distribution; task-level overfitting, where the
+  later family is drawn from the training task distribution; or forgetting
+  that a constrained acquisition does not make worse with longer
+  stabilization, so that the constrained cost of a declared later
+  acquisition never rises with continued training while present
+  performance rises. Or that the rise is always undone by another route
+  the same learner already has, as when in-context adaptability rises
+  while fine-tuning plasticity falls, so that nothing is lost but the
+  place where learning happens.
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Revised after the readings of 2026-11-19 (curation entry 071802), at
+    the owner's request. No reading showed version 1's signature with held
+    capabilities kept. Springer and colleagues' overtraining is mostly
+    forgetting under fine-tuning, and Yin and colleagues' and Rajendran and
+    colleagues' cases are task-level overfitting within the training task
+    distribution. Version 2 declares the later family outside that
+    distribution and prices acquisition with held capabilities kept above
+    a floor, so collateral forgetting is part of the cost. Version 1's title
+    read: 'Overconsolidation, a generalization of overfitting: relative to a declared family of future demands, continued stabilization of a learner''s organization can keep improving its present objective while raising the cost of acquiring, recovering or reaching other capabilities, so a learner can learn itself into a trap without overfitting its data; it is a failure only relative to that declared family and horizon'.
 tags:
 - learning-theory
 - representation-learning
@@ -44,12 +59,43 @@ summary: >-
   frontier does not contain its predecessor ([CLAIM-tmp1l2s7](CLAIM-tmp1l2s7.md)). The record
   held the trajectory form for support ([CLAIM-675](CLAIM-675.md)), plasticity loss as a
   reading ([THEORY-1353](../theory.d/THEORY-1353.md)) and the RL case in pass@k terms ([CLAIM-695](CLAIM-695.md)); it
-  held no general claim for training.
+  held no general claim for training. Revised to version 2 after the
+  readings of 2026-11-19: the later family lies outside the training task
+  distribution, and acquisition is priced with held capabilities kept, so
+  collateral forgetting counts as cost.
 ---
 <!-- inactive-ok-file: THEORY-tmp3dqbl THEORY-tmp8wxgt THEORY-tmpbzf9h THEORY-tmpfhidr THEORY-tmpgjb4y THEORY-tmpm09s4 THEORY-tmpy398k THEORY-tmpzauel — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-695 CLAIM-tmp1l2s7 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-tmp8ljvp: Overconsolidation, a generalization of overfitting: relative to a declared family of future demands, continued stabilization of a learner's organization can keep improving its present objective while raising the cost of acquiring, recovering or reaching other capabilities, so a learner can learn itself into a trap without overfitting its data; it is a failure only relative to that declared family and horizon
+# CLAIM-tmp8ljvp: Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon
+
+## Version 2, after the readings
+
+Two changes, both forced by the readings of 2026-11-19.
+
+- **The later family lies outside the training task distribution.**
+  Yin and colleagues (THEORY-tmpzauel) and Rajendran and colleagues
+  (THEORY-tmpy398k) show meta-learners whose training loss improves while
+  their adaptation to new tasks from the same task distribution is lost.
+  Their authors call it task-level overfitting. That is the
+  claim's first defeater, so version 2 excludes it by declaring the later
+  family outside the training task distribution.
+- **Acquisition is priced with held capabilities kept.** Springer and
+  colleagues (THEORY-tmp3dqbl) find that past an inflection point a
+  longer-pretrained model ends worse after fine-tuning, mainly because
+  fine-tuning degrades more of what it held. Version 1 set forgetting
+  aside and so had no case. Version 2 measures the budget to reach the new
+  family at a declared reliability while keeping held capabilities above
+  a declared floor. Collateral forgetting is then part of the acquisition
+  cost, and Springer's result is a case of it rising with stabilization.
+  Han and colleagues (THEORY-tmp8wxgt) show pretraining weight decay
+  lowering that cost at a fixed budget, a regime comparison, not a time
+  course.
+
+What version 2 still lacks is a case where present performance rises,
+the constrained cost of a declared out-of-distribution family rises with
+training time, and forgetting is measured, all in one run.
+CASE-tmphsr99's primary estimand is that measurement.
 
 ## The claim
 
