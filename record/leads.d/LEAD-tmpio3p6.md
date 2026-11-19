@@ -14,7 +14,7 @@ line:
 advances:
 - CLAIM-754
 summary: >-
-  Named by the reading of Anguita and colleagues (NOTE-tmpr453b) as the
+  Named by the reading of Anguita and colleagues ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)) as the
   work their theory extends; not held.
 ---
 

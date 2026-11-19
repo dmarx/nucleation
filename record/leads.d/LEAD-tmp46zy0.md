@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-493
 summary: >-
-  ChatGPT's next advance for QUESTION-493 without an experiment (A84):
+  ChatGPT's next advance for [QUESTION-493](../questions.d/QUESTION-493.md) without an experiment (A84):
   cases, real or stipulated, in which a system answers reliably without
   knowing, or knows without the answer being reliably accessible.
 ---

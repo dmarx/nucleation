@@ -16,7 +16,7 @@ advances:
 operationalized_in:
 - CASE-294
 summary: >-
-  The first step of CASE-294, as ChatGPT's review set it: four checkpoints
+  The first step of [CASE-294](../cases.d/CASE-294.md), as ChatGPT's review set it: four checkpoints
   of Pythia-70M-deduped, two synthetic task families, three seeds, the
   primary estimand the minimum adaptation budget to a reliability
   threshold.
@@ -27,7 +27,7 @@ summary: >-
 
 ## What would be done
 
-CASE-294's pilot: checkpoints 16k, 64k, 128k and 143k of
+[CASE-294](../cases.d/CASE-294.md)'s pilot: checkpoints 16k, 64k, 128k and 143k of
 Pythia-70M-deduped; two task families (associative mappings, relational
 composition) with rules randomized by episode; three fine-tuning seeds;
 fresh optimizer state, calibrated learning rates, runs that never reach
@@ -38,7 +38,7 @@ adds: fix and report the head's initialization scale.
 
 The pilot succeeds as calibration if every checkpoint can learn both
 families within budget and the estimand separates from seed noise. It
-says nothing yet for or against CLAIM-758; a flat or noisy result calls
+says nothing yet for or against [CLAIM-758](../claims.d/CLAIM-758.md); a flat or noisy result calls
 for redesigning the tasks, not adding arms.
 
 ## Cost

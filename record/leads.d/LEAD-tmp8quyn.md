@@ -19,7 +19,7 @@ advances:
 operationalized_in:
 - CASE-tmp6idy5
 summary: >-
-  The study proposed on the owner's Reddit case (CASE-tmp6idy5). Not yet
+  The study proposed on the owner's Reddit case ([CASE-tmp6idy5](../cases.d/CASE-tmp6idy5.md)). Not yet
   specified: the data source, the definition of a formation event and a
   control for platform growth are open.
 ---

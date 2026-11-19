@@ -14,7 +14,7 @@ line:
 advances:
 - QUESTION-494
 summary: >-
-  ChatGPT's first milestone for QUESTION-494 (A80, A84): reproduce a known
+  ChatGPT's first milestone for [QUESTION-494](../questions.d/QUESTION-494.md) (A80, A84): reproduce a known
   no-feedback result before adding feedback, so that the question's model
   is checked against what is known.
 ---

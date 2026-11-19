@@ -34,17 +34,17 @@ Fine-tuning for Text Classification" (2018).
 
 ## What would count
 
-For CLAIM-756's premise in cost terms: a measured fall, due to
+For [CLAIM-756](../claims.d/CLAIM-756.md)'s premise in cost terms: a measured fall, due to
 pretraining, in the examples or gradient steps needed to reach a level
 on a new task. Brown and colleagues measure how few examples in context
 reach a level, and how that changes with scale; Howard and Ruder compare
 labelled examples needed with and without pretraining.
 
 A question the reading must settle: few-shot prompting changes no
-weights, so whether it is learning in TERM-131's sense, an
+weights, so whether it is learning in [TERM-131](../terms.d/TERM-131.md)'s sense, an
 experience-dependent change in retained organization, is open. It may be
 the operational frontier reaching further, not acquisition. That bears on
-QUESTION-493 as well.
+[QUESTION-493](../questions.d/QUESTION-493.md) as well.
 
 ## Cost
 

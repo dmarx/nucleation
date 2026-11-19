@@ -16,10 +16,10 @@ advances:
 presupposes:
 - LEAD-tmphfbq0
 summary: >-
-  ChatGPT's inquiry experiment (A80), filed as a dated note on CLAIM-754:
+  ChatGPT's inquiry experiment (A80), filed as a dated note on [CLAIM-754](../claims.d/CLAIM-754.md):
   the test of the inquiry frontier moving apart from the operational one.
 ---
-<!-- inactive-ok-file: CLAIM-754 LEAD-tmphfbq0 — Proposed or newly filed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-754 — Proposed or newly filed; cited in this filing of 2026-11-19 -->
 
 # LEAD-tmpadknn: Test whether acquired organization changes which probes a learner can afford or chooses to make: random, uncertainty, information-gain, expected-free-energy and cost-aware probe selection after the environment changes, with a forced-probe condition separating inquiry failure from inference failure
 
@@ -32,5 +32,5 @@ in inquiry; if not, in inference or plasticity.
 
 ## What is not yet settled
 
-The environment (LEAD-tmphfbq0), the probe costs, and what counts as two learners
+The environment ([LEAD-tmphfbq0](LEAD-tmphfbq0.md)), the probe costs, and what counts as two learners
 with the same present competence.

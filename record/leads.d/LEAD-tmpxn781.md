@@ -15,8 +15,8 @@ line:
 advances:
 - QUESTION-495
 summary: >-
-  ChatGPT's next advance for QUESTION-495 without an experiment (A84),
-  beside CLAIM-754's point that no context-free scalar ranks learners.
+  ChatGPT's next advance for [QUESTION-495](../questions.d/QUESTION-495.md) without an experiment (A84),
+  beside [CLAIM-754](../claims.d/CLAIM-754.md)'s point that no context-free scalar ranks learners.
 ---
 <!-- inactive-ok-file: CLAIM-754 — Proposed or newly filed; cited in this filing of 2026-11-19 -->
 
