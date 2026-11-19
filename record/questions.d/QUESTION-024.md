@@ -18,6 +18,7 @@ summary: >-
   been calling a delivery frame". Kept as "convention induction" in
   outlines v3 and v4; absent from the manuscript.
 ---
+<!-- inactive-ok-file: THEORY-tmppqtz3 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-264 — Proposed; filed today, cited as a reading that does not answer this question -->
 
@@ -67,3 +68,9 @@ frame: the tasks are lexical mappings and classification. One detail bears
 on transfer across wordings: in [LIT-942](../literature.d/LIT-942.md) Fig. 3E–F, instructions of
 different wording give shared-head activations more alike to each other
 than either is to demonstrations.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Pan and colleagues ([THEORY-tmppqtz3](../theory.d/THEORY-tmppqtz3.md)), read, show a task recovered from demonstrations whose labels are random within the correct label set, at every model size. That bears on the question's first half as evidence: demonstrations establish a convention without accurate propositional examples. It is for lexical classification, not for a stance, and transfer across wordings is not tested, so it does not answer the question.
+
+No status change.

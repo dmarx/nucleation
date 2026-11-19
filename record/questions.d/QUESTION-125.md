@@ -23,6 +23,8 @@ summary: >-
   with the behaviour unchanged, with what each shows about regime,
   individual and function.
 ---
+<!-- inactive-ok-file: THEORY-tmp8my3p THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 
 # QUESTION-125: When a candidate block gains or loses the gap that isolates it as a parameter varies, does the change in its identifiable boundary coincide with a bifurcation of its dynamics, and what does each way of their coming apart show?
@@ -81,3 +83,17 @@ From A14 §2 and A20 §4 of the exchange "Individuation, Possibility, and Dispos
 - **The regime goes with the gap intact.** [CLAIM-521](../claims.d/CLAIM-521.md): the maintenance fails at its fold while the coupling's gap stays near its full value.
 
 The third region, a gap closing with the regime and its behaviour intact, still has no case. The filer adds: the locking example's early loss of the horizon-relative boundary comes near it, but there the gap is shrinking toward the bifurcation, not closing apart from it. The question stays open.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+Two readings filed from this exchange bear here, and both already carry bears_on to this question. Neither is a gap in a block, so both bear on the question's last part: which of regime and observable function changed.
+
+- **[THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md)** (Iqbal and colleagues, read). In networks with equivariant middle layers, trainability at great depth turns on with the symmetry-breaking transition at σ_W = 1. In generic networks the same order parameter turns on and brings no gain. So one dynamical transition coincides with a functional change in one family and comes apart from it in another.
+- **[THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md)** (Gili and colleagues, read). A balanced partition changes between rest and task. There is no parametrized family and no dynamics, and behaviour changes too, so it fills none of the three regions.
+
+A12 §5 proposed measuring an order parameter, a defect density or persistence statistic and a task-relevant information measure beside the loss as noise varies in Iqbal and Welling's model, to see which transition explains the change in performance. The noise level it reports (about 0.0046) is unverified: the paper, [LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md), is Unfetched.
+
+The question stays open. No status change.
+
+## Note of 2026-11-19: Poole and colleagues, read
+Background ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): in Poole and colleagues' mean-field maps, χ1 = 1 is a bifurcation of the layer map, where the fixed point at correlation 1 loses stability and one below 1 appears (§3). There is no block or gap in their setting, so it supplies only the bifurcation half.

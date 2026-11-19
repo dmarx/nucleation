@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpoclez
 title: 'The realizability line is four accounts, of reaching under resources, of budgeted individuation, of assembly and productive nucleation, and of persisting organized individuals, which meet at the separation of assembling, persisting and regenerating a form; the first three are densely joined, the persistence part points out and receives nothing, and no link between the parts that no part states passes the claim test'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -17,6 +17,12 @@ history:
     redone. The "Not stated" bullet on a budget that costs reliability is
     corrected: CLAIM-654 now states one reading of it. The title is
     unchanged.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Integrates a new part account, SYNTHESIS-tmphvng7, filed at the owner's request
+    of 2026-11-19 from the exchange "Topological protection explained":
+    stored work and the cost structure of possibility (the owner-endorsed CLAIM-tmpqpd2p and the claims around it). No other change.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the realizability line that neither a part
@@ -30,6 +36,7 @@ date: '2026-11-11'
 line:
 - realizability
 integrates:
+- SYNTHESIS-tmphvng7
 - SYNTHESIS-042
 - SYNTHESIS-040
 - SYNTHESIS-045
@@ -47,6 +54,7 @@ summary: >-
   [ADR-088](../decisions.d/ADR-088.md)). The account adds nothing of its own; its standing is its
   components'.
 ---
+<!-- inactive-ok-file: SYNTHESIS-tmphvng7 CLAIM-tmpqpd2p — Proposed; the part account integrated on 2026-11-19 and its hinge -->
 <!-- inactive-ok-file: CLAIM-646 CLAIM-654 CLAIM-663 CLAIM-697 CLAIM-695 CLAIM-699 CLAIM-639 CASE-236 CLAIM-478 ADR-075 ADR-083 ADR-084 ADR-085 ADR-088 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 CLAIM-625 TERM-116 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-010 — Superseded; cited as the entries their claims returned to, and not integrated -->
 
@@ -109,6 +117,8 @@ is integrated again.*
   probabilities, and "a structure that assembles and persists without
   producing the constraints that would regenerate it does not show
   organizational closure".
+
+- **Added 2026-11-19:** [SYNTHESIS-tmphvng7](SYNTHESIS-tmphvng7.md), the account of stored work and the cost structure of possibility (the owner-endorsed [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) and the claims around it).
 
 ## Where they meet
 

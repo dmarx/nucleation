@@ -47,6 +47,8 @@ summary: >-
   control (noted on [QUESTION-397](../questions.d/QUESTION-397.md)). Not run. Proposed because the design is
   A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpohouk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-266 CASE-267 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1869 CLAIM-694 CLAIM-618 — Proposed or new; the readings and claims the design draws on or maps to -->
 
 # CASE-269: A proposed study: a common testbed of continuous fields, a φ⁴ kink, abelian Higgs vortices and a coupled field in which a localized nucleus makes a diffusing mediator, to measure separately whether a localized structure exists, is reachable, is attracting, persists, regenerates and changes downstream transition rates, and to find configurations that look alike in persistence and differ under intervention
@@ -126,3 +128,17 @@ within the models. A's own rule applies: "a construction should count as
 evidence for the distinction it actually separates, not automatically as
 support for a broad interpretation of what the distinction means in human
 organizations."
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A10 §6 proposed a program that would extend this testbed. Its kink is driven with a support term u and noise, and coupled to a Dirac field, so the bound state's energy and localization become a further observable. Its readouts include the response to withdrawing u, the probability of formation and of recovery, and the resource cost of transitions. A10 §6 also proposed letting a secondary order ψ condense at the wall, and asking whether it changes the formation of a larger target, as a candidate productive nucleus in [TERM-117](../terms.d/TERM-117.md)'s sense.
+
+A presented the program as "the most promising next step" and named [CASE-266](CASE-266.md) and [CASE-267](CASE-267.md) as what it extends. It did not cite this case, which already holds the property table, the kink–antikink run and a nucleus that lowers a barrier through a mediator. What the program adds here is the bound-state observable, the support withdrawal on the kink itself, and the interfacial order as a nucleus. Whether such bound or interfacial modes could come to maintain the kink that localizes them is [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md).
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Suzuki, Li and Zurek ([THEORY-tmpohouk](../theory.d/THEORY-tmpohouk.md)), read, run the testbed's φ⁴ kink with a formation readout: an overdamped Langevin φ⁴ field, quenched linearly through ε = 0 under weak white noise in a periodic box. Their method could join the testbed as a measure of when a structure becomes determined, the time at which a trained predictor's error on the final configuration drops. That adds a timing observable beside the probability of formation in the property table. It supports the design's first model and changes nothing in it.
+
+No status change.

@@ -47,3 +47,8 @@ network evidence (ResNet18, transformers) was not checked. Until
 
 Against it: no dependence of the outcome on noise where the threshold
 predicts one. What cannot settle it: more toy factorizations.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+<!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+
+Chen and colleagues ([THEORY-tmp4kekv](../theory.d/THEORY-tmp4kekv.md), bears_on; [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)). On the first bullet: a condition beyond the diagonal argument, but for the continuous model and sufficient only, not for discrete SGD. On the second: neuron-coincidence distance falls with learning rate, at a 10% tolerance, but not to zero past a predicted threshold, and with no reparameterization control. The question stays open.

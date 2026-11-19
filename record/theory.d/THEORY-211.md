@@ -185,3 +185,6 @@ it had stated was left with nowhere to go but this body and a QUESTION.
 Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-790](THEORY-790.md), which extends
 this one: the law of balance in deep networks trained on real data, which the authors present as general. This entry is that THEORY's evidence and is not
 changed by it.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues work with the same mechanism class, position-dependent gradient noise pulling dynamics toward low-noise sets, for permutation and sign symmetries rather than rescaling.

@@ -1,0 +1,67 @@
+---
+status: Read
+paper: LIT-tmpg7w4q
+title: 'Friston and others 2026 — Active inference and artificial reasoning'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    URL read: https://www.nature.com/articles/s41467-026-77209-5.pdf
+    (publisher's open-access version, Nature Communications (2026) 17:10125;
+    the article page https://www.nature.com/articles/s41467-026-77209-5
+    names it as citation_pdf_url). Kind: publisher open-access copy. Date
+    2026-11-19. HTTP 200, no obstacle. Read: abstract, introduction and
+    contributions, Results (three-ball paradigm, plausible rules, artificial
+    reasoning, contribution analyses), Discussion, and the figure legends
+    (Figs. 1-6). Skimmed: Methods (generative model, expected free energy,
+    active selection via Bayesian model reduction, Eqs. 8-14); the equations
+    were not checked. Skipped: reference list. The MATLAB code was not run.
+    Authors as printed: Friston, Da Costa, Tschantz, Heins, Buckley,
+    Verbelen, Parr. Received 24 Dec 2025, accepted 18 Aug 2026.
+date: '2026-11-19'
+---
+<!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
+
+# NOTE-tmpc0is3: Friston and others 2026 — Active inference and artificial reasoning
+
+## Contribution
+
+The paper adds a third information-gain term to expected free energy, over model structures, beside the usual terms over states ("salience") and parameters ("novelty"). It computes that term cheaply with Bayesian model reduction from the posterior Dirichlet counts of a full model. An agent can then choose actions that disambiguate hypotheses about the model's structure, in the spirit of optimal experimental design. The authors call this "active reasoning". They make the hypothesis space tractable by imposing symmetry priors (sparsity, injectivity, isomorphism, context), and illustrate the method on a three-ball rule-discovery task with foveal sampling.
+
+## Key results
+
+- Abstract, p. 1: information gain is the Kullback–Leibler "divergence between predictive posteriors with, and without, the consequences of action."
+- Introduction, p. 1: "we introduce a third sort of information gain that pertains to the structure of the generative model".
+- Introduction, p. 2: expected information gain is not learnable as a fixed mapping, "one cannot learn to be curious".
+- Results, Plausible rules, pp. 4–7: symmetry constraints cut the space from 2^432 sparse rules to 81 context-sensitive isomorphic rules (79 unique). "the three-ball paradigm offers 81 possible likelihood mappings between latent states and a feedback modality".
+- Artificial reasoning, p. 7, Fig. 3: in one game the true rule (65) is selected when the log odds pass 16 nats. "At trial 18, this exceeds a threshold of 16 nats and Occam’s razor is implemented."
+- Fig. 4 (64 games): "The mode of discovery time was about 14 trials with a cumulative score of about 150." One game committed to the wrong model: "one of the 64 simulations committed to the wrong model prematurely, after just six trials".
+- Contribution analyses, Fig. 6: "removing expected information gain over models precluded rule discovery in two of the 64 games". Removing it over models and parameters raised mean discovery time, "reducing from 28.5 to 19.4 trials" when it was restored. Without any information gain there is "a failure to discover the rule after 64 trials in about half of the simulations".
+- Discussion, p. 9: the cost of the symmetry priors is that "the chance of inappropriately excluding a model increases with each successive symmetry that is imposed".
+
+## Assumptions
+
+- The agent already knows the generative model apart from the rule-bearing likelihood: "we have assumed that the agent knows the generative model under which the (unknown) rule is implemented" (Discussion).
+- The hypothesis space is enumerated in advance from symmetry priors that are built in, and it contains the true rule.
+- Discrete POMDPs, Dirichlet parameter learning, and a fixed Occam threshold of 16 nats. All evidence is simulation, using the authors' MATLAB routines.
+
+## Concepts
+
+- Active reasoning, or active model reduction: action selection driven by expected information gain over models.
+- Bayesian model reduction as post-hoc model selection without refitting. Occam’s razor is the switch to the selected model.
+- Choice versus criterion versus context factors. Isomorphism and context constraints serve as priors over rules.
+- Novelty (parameters), salience (states) and model information gain as the components of expected free energy.
+
+## Bearing on the record
+
+- [THEORY-564](../theory.d/THEORY-564.md): qualifies; it does not meet the promote_when. The structure here is a likelihood rule chosen from a prior enumerated set of 81, not a number of hidden causes recovered by reducing a learned parent with spare slots. When the agent chooses its data by model information gain, reduction found the true rule in 63 of 64 games; "the single failure with expected information gain corresponds to a premature commitment to the wrong model" (Fig. 6 text). This suggests that what [THEORY-564](../theory.d/THEORY-564.md) measured (reduction on passively gathered data, 45–80%) depends on how the data were gathered. But the 16-nat threshold, the symmetry priors and the fixed space make the two not comparable. [THEORY-564](../theory.d/THEORY-564.md)'s promote_when (larger problems, against a nonparametric learner, a learned likelihood) remains open.
+- [CASE-153](../cases.d/CASE-153.md): supports the case's design rationale. The contribution analyses show that stripping the information-gain terms from policy selection leaves the rule undiscovered in about half the games. That is the mechanism the case's sentry exploits when κg blocks inspection. The case's Bayesian baseline and protected investigator could use this scheme's information gain over states and parameters (and over models, if hypotheses about the danger contingency are enumerated).
+- [CLAIM-572](../claims.d/CLAIM-572.md): leaves open. The agent trades epistemic moves against preferred outcomes inside one objective rather than under a fixed budget, and its sequential choice is myopic two steps ahead. It does not bear on whether greedy stopping misses the optimum.
+- [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md): leaves open. The information gain is variational, with no thermodynamic cost, and the question's scope note already separates the two.
+
+## Limitations
+
+- One toy task, with a hand-built hypothesis space that contains the truth, and 64 simulated games. No comparison with other active-learning or optimal-design schemes, nor with a learner whose hypothesis space is not given.
+- The method addresses "a small part" of the ARC-AGI-3 challenge (authors' words). Learning the generative model itself is assumed done.
+- No human data. The neural and clinical remarks (basal ganglia, jumping to conclusions in schizophrenia) are speculative.

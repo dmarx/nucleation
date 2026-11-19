@@ -7,7 +7,7 @@ title: Is leaving the result of a computation where it can be cheaply retrieved
   the same trade as amortizing the computation, and does one account of when it
   pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused
   inferences?
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -17,6 +17,11 @@ history:
     through the first line of an entry it names:
     nucleating-argument, since it refines QUESTION-098. No other
     change.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Wording only, at the owner's request (review of dmarx/nucleation#528,
+    2026-11-19): "dearer" replaced by "more costly" in one sentence. No other change.
 tags:
 - cognition
 - embodied-cognition
@@ -35,6 +40,8 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
+<!-- inactive-ok-file: THEORY-tmp3hfjg THEORY-tmpddlli THEORY-tmpv904w — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-358 CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1639 THEORY-1643 THEORY-1645 THEORY-1644 THEORY-1641 THEORY-1640 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-235 CASE-234 CLAIM-647 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
@@ -79,7 +86,7 @@ Literatures that may already hold it, registered for this question and read the 
   Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md)), Ballard et al. 1997 ([LIT-1075](../literature.d/LIT-1075.md)), Risko and
   Gilbert 2016 ([LIT-1059](../literature.d/LIT-1059.md)).
 - **Choosing head or world by cost.** Gray and Fu 2004 ([LIT-1058](../literature.d/LIT-1058.md)),
-  where people take cheaper, worse memory over dearer, perfect information
+  where people take cheaper, worse memory over more costly, perfect information
   in the world; Lieder and Griffiths 2020 ([LIT-1071](../literature.d/LIT-1071.md)), cognition as the
   optimal use of limited computation.
 
@@ -260,3 +267,21 @@ this question.
   update "are not interchangeable". It now bears on this question.
 
 The question stays Open.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U17 the owner named what this question is after as "the tradeoff between memory (amortizing a value) and computation (rederiving it just in time)". [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) files the owner-endorsed thesis that a constraint is such an amortization. The exchange added four things, all A's.
+
+(a) A fourth kind of stored work beside the four strategies of the note of 2026-10-15: a learned coordination structure, which stores neither an answer nor an index (A39 §2, after [CLAIM-358](../claims.d/CLAIM-358.md) and [CLAIM-443](../claims.d/CLAIM-443.md)). (b) A retention ladder: keep in context, temporary adapter, saved adapter, consolidate into weights, with an optimal retention horizon that weighs reuse against acquisition and upkeep, and interference as a retention cost (A56 §6–8, A58 §7, A62 §6). [CASE-235](../cases.d/CASE-235.md) is the record's case of the ladder's rungs; [CLAIM-647](../claims.d/CLAIM-647.md) is its staleness term. (c) Learning as an instance of the trade, "partly as deciding which results of present computation deserve to become infrastructure for future computation" (A71 §3). (d) A physical version: preparing, reading, verifying, maintaining and resetting a memory, where mere persistence has no Landauer floor (A65 §6; [THEORY-030](../theory.d/THEORY-030.md), [THEORY-1273](../theory.d/THEORY-1273.md), [QUESTION-452](QUESTION-452.md)).
+
+None of this joins the literatures with one cost model. No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Lu and Kankanhalli ([THEORY-tmpddlli](../theory.d/THEORY-tmpddlli.md)), read: supports the question's trade for one kind of stored work. Their policy keeps a test-time-trained adapter only when its gain "amortized over expected future reuse" covers its compute, and loading it later "requires no additional adaptation". That prices precompute, expected reuse and retrieval in one decision rule, for parameter skills. Storage, upkeep and staleness are not costed, so it covers only part of the cost model the question asks for.
+
+Sun and colleagues ([THEORY-tmp3hfjg](../theory.d/THEORY-tmp3hfjg.md)), read: supports reading test-time training as work moved from training to deployment. They price the move as a test-time slowdown of 2 × batch size × number of iterations, describe training that "only happens when necessary", and suggest the reverse move, preparing the model in training so that test-time updates are cheap. They give no rule for when either move pays, so the question's cost model is not supplied.
+
+Tandon and colleagues ([THEORY-tmpv904w](../theory.d/THEORY-tmpv904w.md)), read: supports the question with numbers for the opposite move, work taken out of inference and put into training. Meta-learning the initialization makes training 3.4× slower at 8K context and buys inference 2.7× faster than full attention at 128K. The context compressed into weights is cheap to use but lossy: pass-key retrieval at 128K falls to 0.06, against 0.99 for full attention. That is the question's staleness cost in another form: the stored result lacks what a later query needs.
+
+No status change.

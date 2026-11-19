@@ -208,3 +208,7 @@ confirm the assumptions behind it. The record holds the loop: this claim
 confirm it), [CASE-142](../cases.d/CASE-142.md) (a label confirmed by the response of someone who
 rejects it) and [CLAIM-619](CLAIM-619.md) (a challenge classified as the problem). The
 question is not filed separately. No status changes.
+
+## Note of 2026-11-19: Carnap, read
+
+An analogy from Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), result 13), not evidence: a confirmation function's own estimates of its reliability "cannot be used as a method for obtaining an external, objective judg- ment on the goodness of a system of inductive logic" (§103). Evidence for a concept's adequacy that passes through the concept's own use is the case this claim excludes. [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) now asks the same of an explication. The claim is unchanged.

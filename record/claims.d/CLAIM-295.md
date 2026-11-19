@@ -7,7 +7,7 @@ title: 'A record of an inquiry''s justifications adds nothing for decisions its
   current state already suffices for: what it can add is a wider family of decisions
   for which what is kept suffices, and decisions a bounded agent can make that it
   otherwise could not'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,12 @@ history:
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §6 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +47,8 @@ tags:
 date: '2026-10-15'
 line:
 - records-of-inquiry
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-294
 - CLAIM-300

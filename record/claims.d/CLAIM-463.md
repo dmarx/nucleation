@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmpcwl5o
 title: 'Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §5.3 states its proposition. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,6 +31,8 @@ date: '2026-10-27'
 line:
 - distributed-agency
 - formal-apparatus
+works:
+- cost-structure-of-possibility
 grounds:
 - CASE-111
 complements:

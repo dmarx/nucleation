@@ -75,3 +75,6 @@ flow.
   learning curve, at several η/S.
 - **Or a derivation:** comparing the drift rate TC₀ with the rate of the
   slowest singular-value transition.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+A parallel ([NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)): Chen and colleagues' stochastic collapse is a noise-driven pull toward symmetric sets in the permutation and sign cases; it leaves this question where it was.

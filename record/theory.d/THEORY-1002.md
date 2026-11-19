@@ -87,3 +87,6 @@ network does not have.
 - **[THEORY-802](THEORY-802.md).** An abstraction that passes only because the search is
   expressive is one more way an interchange test underdetermines what the
   network computes.
+
+## Note of 2026-11-19: Poole and colleagues, read
+An analogy ([NOTE-tmpa7swy](../notes.d/NOTE-tmpa7swy.md)): Poole and colleagues use random networks as "an important null model of deep signal propagation", the same move this account makes with frozen random networks, in another context.

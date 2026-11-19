@@ -517,6 +517,16 @@ vocabularies:
         blurb: 'a reading of a work grounds a claim. Critical questions: does the work say this, read
           in context? Is it said within the scope the claim needs? Does the claim lean on the reading
           for more than the reading holds? (ADR-061)'
+      explication:
+        label: Explication
+        blurb: 'a definition does its declared job better than its predecessor and rivals, judged as more
+          or less satisfactory and not as true (Carnap 1950, THEORY-tmpai35t; CLAIM-472). It concludes
+          a TERM. Critical questions: is the explicandum clear, by examples of uses meant and not meant,
+          and is it the one the rivals explicate? Is it clearly too wide or too narrow on cases of practical
+          agreement, with other departures paid for by fruitfulness? Does it meet every necessary condition?
+          Is it exact and interpreted? Is it fruitful: what becomes statable that was not? Is it as simple
+          as the rest allow? Against which rivals, by what consequences, with evidence not drawn only from
+          its own use? (ADR-tmptwlsg)'
   question-statuses:
     label: Question statuses
     blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
@@ -729,6 +739,16 @@ vocabularies:
           subtraction of an option, and that a capability should be limited is kept apart from who may limit it;
           freedom as the legitimate governance of capability among interdependent agents. Its argument is held in
           the line rightful-power and its neighbours'
+      cost-structure-of-possibility:
+        label: 'The Cost Structure of Possibility'
+        blurb: 'the owner''s manuscript, requested at U19 of the exchange "Topological protection explained" and
+          drafted by ChatGPT on 2026-11-19 (A43): Historical Investment, Effective Constraints, and the Emergence of
+          Capabilities. An emergent organization is a historically accumulated investment that changes the cost
+          structure of future possibility: past work leaves constraints that change what can be realized under
+          bounded resources, including the cost of building further organization, and what it makes cheap can
+          also lock in, so capability is kept apart from substantive freedom. Its argument is held mainly in the
+          lines realizability and formal-apparatus, with will-organization and transient-support for its
+          normative part'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).
@@ -1630,6 +1650,16 @@ schemes:
         many: true
         converse: uses
         derived: true
+      argued_by:
+        label: Argued by
+        blurb: the explications concluding that this definition does its job, written by `luria link
+          --fix` from their `concludes`. The verdict is the argument's; adopting the term is its status
+          (ADR-tmptwlsg)
+        scheme: ARG
+        required: false
+        many: true
+        converse: concludes
+        derived: true
       superseded_by:
         label: Superseded by
         blurb: the term whose definition replaced this one's (ADR-032)
@@ -1743,8 +1773,9 @@ schemes:
         label: Concludes
         blurb: the claim or claims the inference arrives at. One inference may conclude several
           theses when the same premises bear on each in the same way, so that one verdict is filed once
-          (ADR-061)
-        scheme: CLAIM
+          (ADR-061). An explication concludes a TERM instead, that its definition does its job
+          (ADR-tmptwlsg)
+        scheme: [CLAIM, TERM]
         required: true
         many: true
         converse: argued_by

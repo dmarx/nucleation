@@ -68,6 +68,7 @@ draws_on:
 - THEORY-1088
 - THEORY-1090
 ---
+<!-- inactive-ok-file: THEORY-tmp8my3p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
@@ -191,3 +192,11 @@ The study is still proposed.
 ## Note of 2026-11-07: A12's elaboration of this design, from "Individuation, Possibility, and Disposition"
 
 A12 §8 and §10 of the exchange (2026-11-06 to 07) call its programme "a direct elaboration" of this case. It adds three arms: withdrawal of an external periodic forcing, suppression of oscillation by an inhibitory control ([CASE-225](CASE-225.md)), and adaptive capacities whose production can be knocked out. A12 §10's further extension, correspondence maps that "adapt through plasticity or emerge from interaction delays" rather than being assigned by the experimenter, is [QUESTION-282](../questions.d/QUESTION-282.md). A12's first project, a "forced adaptive oscillator network with frustration and reciprocal maintenance variables", is in [CLAIM-616](../claims.d/CLAIM-616.md). No status change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A17 §4 tied this design to one distinction: a change in observed collective organization may be spontaneous selection among modes under a fixed symmetric law, or reconfiguration by a changed effective coupling. A17 §7 proposed comparing four partitions, structurally balanced, dynamically stable, observed and functional, and named common forcing as a way observed synchrony can appear without a fibration. Gili and colleagues ([THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md), read) are a partial natural analogue: one substrate in several states, each with an inferred coupling, but nothing is manipulated independently, so they cannot tell the two readings apart.
+
+A32 §11 proposed extending this study with regimes: strong dissipation under correct and under incorrect correspondence relations, a good predictive quotient that hides intervention-sensitive differences, and endogenous adaptation of the correspondences. The last is the positive arm noted above and [QUESTION-282](../questions.d/QUESTION-282.md). The first three are new arms. A32 §11 also proposed resource limits as a fifth regime.
+
+The study is still proposed. No status change.

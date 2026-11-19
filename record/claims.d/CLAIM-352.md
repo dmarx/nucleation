@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmph678z
 title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -42,6 +42,12 @@ history:
     stands for Sen's opportunity aspect only through a map to valued
     functionings is a claim about what capability needs, the line's
     subject. will-organization stays first. No other change.
+- version: 6
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §8 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +68,8 @@ date: '2026-10-18'
 line:
 - will-organization
 - flourishing-and-meaning
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-079
 - CLAIM-027
@@ -82,6 +90,9 @@ summary: >-
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
+<!-- inactive-ok-file: THEORY-tmphw7hd — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmpmg2nk — Deferred; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-tmpqpd2p — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1845 THEORY-1852 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
@@ -204,3 +215,17 @@ claim rests on this one. No change.
 ## Note of 2026-11-13: readings for the exchange "Analyze technological civilization trap"
 
 Sen read first-hand for the first time on the record: the Tanner Lectures, The Standard of Living (1985; [THEORY-1845](../theory.d/THEORY-1845.md)), where capabilities are "what real opportunities you have regarding the life you may lead", and Development as Freedom, Introduction and chapter 1 ([THEORY-1852](../theory.d/THEORY-1852.md)), which names "the process aspect and the opportunity aspect of freedom" [OCR-normalized]. Both corroborate this claim's reading of the two aspects. Neither gives the map from trajectories to valued functionings that the claim says control theory lacks.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U16 the owner saw "a clean way of connecting the earlier discussion of how effective degrees of freedom can emerge from selective contraction, to capability expansion and thinkers like Amartya Sen". That re-finds this claim, the owner's own Sen connection (U11 of the exchange of 2026-10-17). A37 cited this claim and read it rightly, without saying it was the owner's. A37 §4 built a dynamic capability set, the valued functionings Φ_N(γ) of the trajectories reachable within budget B and horizon T, and said it was its own construction, "not Sen's own formalism". The map Φ_N is this claim's point: reachable states count as freedom only through a map to valued functionings, and A37 §4 likewise refuses to equate more reachable states with more freedom. A37 also raised collective capabilities after Ibrahim ([LIT-tmpmg2nk](../literature.d/LIT-tmpmg2nk.md), registered unread).
+
+The capability question that [CLAIM-tmpqpd2p](CLAIM-tmpqpd2p.md), filed from the same exchange, leaves open is this claim's: whether operations a stored constraint makes newly affordable widen anyone's substantive freedom, and whose.
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Ibrahim ([THEORY-tmphw7hd](../theory.d/THEORY-tmphw7hd.md)), read in her 2013 piece as a stand-in for [LIT-tmpmg2nk](../literature.d/LIT-tmpmg2nk.md), defines collective capabilities as those no individual alone could have and asks that the evaluative space extend to the collectivity. Sen's own term for the same cases, "socially dependent individual capabilities", keeps the claim's individual unit, so this qualifies the claim rather than defeating it. Her first condition, free and voluntary participation without coercion, is a requirement of the process aspect on how such capabilities arise.
+
+No status change.

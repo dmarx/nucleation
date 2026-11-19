@@ -197,6 +197,17 @@ not a finding.
 - **Every entry the reading bears on** gets a dated section, "Note of DATE:
   AUTHOR, read", saying what the reading supports, qualifies or leaves
   open. Change a status there only if the note says why.
+  - This includes the weaker bearings a reader reports (a parallel, a
+    contrast, background), not only the codes the brief named. A request
+    to read a work is a request for these notes and relations too; do not
+    leave them for the owner to ask for. Say in the note which kind of
+    bearing it is, and write a relation (step 9) only where the note names
+    the reading as evidence. An analogy gets a note and no edge.
+  - Leave a bearing out only when it is too loose to say anything, or the
+    entry is retired; the curation entry lists each one left, and why.
+  - When a reading meets a THEORY's `promote_when`, say so; promote it
+    when the owner asks, or when the reading that meets it is independent
+    of the one that filed it.
 
 ## 9. File the argument
 

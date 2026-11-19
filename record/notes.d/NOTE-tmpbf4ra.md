@@ -1,0 +1,62 @@
+---
+status: Read
+paper: LIT-tmpx4h3s
+title: 'Garg and others 2022 — What Can Transformers Learn In-Context? A Case Study of Simple Function Classes'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    URL read: https://arxiv.org/pdf/2208.01066 (HTTP 200, 3.0 MB PDF, arXiv
+    v3 of 11 Aug 2023). Kind of copy: arXiv preprint (step 5, first place to
+    look). Date: 2026-11-19. Nothing stopped the fetch. Text extracted with
+    pdftotext -layout to dl/text.txt. Read: the whole main text (abstract,
+    §§1-8), Figures 1-6 captions. Skipped: references and Appendices A
+    (training details, baselines) and B (extra plots: scaling, other
+    distribution shifts, curriculum, data-size ablations, memorization
+    estimate).
+date: '2026-11-19'
+---
+<!-- inactive-ok-file: CLAIM-697 — Proposed; cited in this filing of 2026-11-19 -->
+
+# NOTE-tmpbf4ra: Garg and others 2022 — What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
+
+## Contribution
+
+The paper turns "in-context learning" into a well-posed question. A model in-context learns a function class F, relative to distributions over functions and inputs, if its prediction at a query from a prompt of (x, f(x)) pairs has low expected error (Eq. 1). It then trains a GPT-2-style transformer (12 layers, 9.5M parameters) from scratch on random prompts from a class and asks how well it learns unseen functions of that class. The authors note that this ability "is a property of model M alone, independent" of how it was trained, and that training it is an instance of meta-learning.
+
+## Key results
+
+- §3.1, Figure 2. For linear functions in 20 dimensions the trained model performs "comparably to the optimal least squares estimator" at every number of examples (error 0.02 at k = d, 0.0006 at k = 2d); nearest-neighbour and averaging baselines are far worse.
+- §3.1. Memorization cannot explain this: the best of the 32M training weight vectors would give error about 0.2, so the model is not "relying on memorization of training prompts or weight vectors".
+- §3.2, Figure 3. The gradient of the prediction with respect to the query aligns with the projection of w onto the span of the examples, as the ideal predictor's would.
+- §4, Figure 4. Under shifts it was not trained on (noisy labels, a low-dimensional subspace, in-context and query inputs in different orthants, query orthogonal to the examples) the model tracks least squares, showing even double descent with noise; with skewed covariance "it is not perfectly robust to this distribution mismatch", and it is fragile when inputs are scaled by 1/3 or 3.
+- §5, Figure 5. Trained on sparse linear functions it is "also able to leverage sparsity, nearly matching the performance of Lasso"; on depth-4 decision trees "the Transformer achieves an error of 0.12 whereas greedy learning achieves an error of 0.80" (XGBoost 0.62); on two-layer ReLU networks it matches a network of the same architecture trained by Adam on the examples, and that model also in-context learns linear functions.
+- §6, Figure 6. More capacity lowers error and helps most under distribution shift; without a curriculum there is a long plateau "followed by a period of sharp decrease", which the authors compare to Olsson et al.'s induction-head jump.
+- §6. The "amount of training data required is relatively small": non-trivial in-context learning from 100k distinct prompts or 1k distinct weight vectors, near the unrestricted model at 1M or 10k.
+
+## Assumptions
+
+- Synthetic regression with isotropic Gaussian inputs in 20 dimensions (10–50 in §6), squared loss, and training and test function classes usually the same.
+- The model is trained from scratch on the target class: a meta-learner by construction, not a language model.
+- "Learning" is judged by error against the class's optimal or standard estimators, not by mechanism.
+
+## Concepts
+
+- **In-context learning of a function class**: a property of a fixed model, defined by its expected error on prompts from given distributions over functions and inputs.
+- **Prefix-conditioned function**: f̂ fixed by the k examples and read as a function of the query, which lets the learned predictor be compared with a fitted one.
+- **Out-of-distribution prompts**: shifts between training and test prompts, or between the in-context inputs and the query, used to probe what algorithm is encoded.
+
+## Bearing on the record
+
+- **[CLAIM-118](../claims.d/CLAIM-118.md)** (supports). The trained transformer is an interpreter whose weights, shaped across many functions, carry a learning algorithm; each prompt's function is held only in the forward pass and discarded. That is the claim's split: the per-sequence fit is signal, the learned estimator is interpreter. It fits the distinction and does not test it.
+- **[THEORY-169](../theory.d/THEORY-169.md)** (qualifies). The exact identities there hold for constructed or single layers. Garg et al. show what trained deep models do behaviourally: near least squares, near Lasso on sparse targets, better than greedy trees. These are not one gradient step, consistent with [THEORY-169](../theory.d/THEORY-169.md)'s caution that trained transformers are not shown to do gradient descent.
+- **[THEORY-481](../theory.d/THEORY-481.md)** (consistent). [THEORY-481](../theory.d/THEORY-481.md) derives a single linear-attention layer converging to a preconditioned estimator. Garg et al. report the empirical counterpart for deep softmax transformers, with the same plateau-then-drop learning curve without a curriculum.
+- **[CLAIM-697](../claims.d/CLAIM-697.md)** (leaves open). Capacity and the number of examples act as budgets, but the paper concerns a model trained for one class and does not separate coverage from delivery.
+
+## Limitations
+
+- Synthetic, low-dimensional, mostly in-distribution function classes; the bearing on language models is left open by the authors: the extent to "which such non-trivial in-context learning behavior exists in large language models is still open".
+- Behavioural evidence only: no account of the algorithm inside.
+- Robustness fails under input scaling and skewed covariance.
+- Small models (≤ 9.5M parameters) trained 500k steps; three seeds per configuration in §6.

@@ -1,0 +1,61 @@
+---
+status: Active
+status_note: >-
+  Read in full on 2026-11-19 at the owner's request ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)).
+  Worth reading for its chapter on explication, the method the
+  record's explication form takes its questions from, and for a logical
+  theory of probability whose relevance results bear on how the record
+  treats support.
+title: 'Logical Foundations of Probability'
+version: 2
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed and its chapter I, sections 2 and 3, read from the Internet
+    Archive copy (logicalfoundatio00carn_0), marked public domain after
+    HathiTrust's copyright review. Published by the University of Chicago
+    Press in 1950; the preface is signed March 1950, and the exact date is
+    unverified. No DOI found. Not held: no Carnap-authored work in
+    record/literature.d; LIT-2322 is the SEP entry on Carnap.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read in full, at the owner's request, by six delegated readers, one
+    part each, from the same copy; quotations rechecked by the filer
+    (NOTE-tmpgrtgu version 2). A second account, THEORY-tmp1kxhj, holds
+    the book's theory of logical probability. Summary rewritten.
+tags:
+- philosophy-of-science
+- epistemology
+- logic
+date: '2026-11-19'
+published: '1950-03-01'
+url: 'https://archive.org/details/logicalfoundatio00carn_0'
+first_author: 'Carnap'
+keywords: []
+implementations: []
+summary: >-
+  Carnap (1950), University of Chicago Press. Chapter I states
+  explication: an exact explicatum replaces an inexact explicandum and is
+  judged as more or less satisfactory, by similarity, exactness,
+  fruitfulness and simplicity ([THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md)). The rest argues that
+  inductive logic is the logic of probability in the logical sense,
+  degree of confirmation, an analytic relation between evidence and
+  hypothesis measured as partial entailment between ranges relative to a
+  language, and builds it: what holds for every regular measure, a theory
+  of relevance, a comparative logic, the symmetrical measures,
+  estimation, and provisionally c* ([THEORY-tmp1kxhj](../theory.d/THEORY-tmp1kxhj.md)). Read in
+  [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md).
+---
+
+# LIT-tmpkck45: Logical Foundations of Probability
+
+Rudolf Carnap (1950). *Logical Foundations of Probability*. Chicago:
+University of Chicago Press.
+
+## Standing in the record
+
+Read in part on 2026-11-19 (chapter I, sections 2 and 3) at the owner's
+request, as the source of the explication form's critical questions
+([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)). The rest of the book, on inductive logic, is not read.

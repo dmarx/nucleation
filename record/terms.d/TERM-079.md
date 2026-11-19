@@ -102,3 +102,6 @@ if claims about belief in the will and legibility lines can be stated in
 it, and the three probes distinguish cases the record needs (an accurate
 belief denied authority, [QUESTION-270](../questions.d/QUESTION-270.md); a false belief kept by a
 legibility regime, [CASE-156](../cases.d/CASE-156.md)).
+
+## Note of 2026-11-19: Carnap, read
+Consistent with Carnap ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). He keeps degree of actual belief, a real psychological concept, apart from logical probability: "it cannot serve as a basis for inductive logic or a calculus of probability applicable as a general tool of science" (ch. II, §12B). This term is descriptive, a degree fixed by use, so it sits on his psychological side and claims nothing about rational degree. The term is unchanged.

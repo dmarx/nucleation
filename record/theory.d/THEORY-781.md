@@ -78,3 +78,8 @@ does not ([THEORY-213](THEORY-213.md), history of version 2).
 Filed on 2026-10-20 by the narrowing-loss sweep ([ADR-047](../decisions.d/ADR-047.md) v4, batch 068),
 from the gradient-noise clause [THEORY-213](THEORY-213.md)'s title carried before it was
 narrowed on 2026-10-20.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+<!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+
+Partial support ([THEORY-tmp4kekv](THEORY-tmp4kekv.md); [NOTE-tmpsybfr](../notes.d/NOTE-tmpsybfr.md)). Chen and colleagues give an independent, rigorous sufficient condition, for the continuous model of SGD and without a diagonal-Hessian approximation, for noise to make symmetry-generated subspaces attract, including at saddles and maxima ("the collapsing condition can still be satisfied with negative curvature", p. 5), with deep-network evidence across learning rates. Not met by it: weight decay was held fixed, batch-size effects were "complex", no threshold was tested in a deep network, there was no control that removes the symmetry, and in a toy collapse stops above a critical learning rate. The promote_when is not met.

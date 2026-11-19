@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
 title: 'Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -16,6 +16,13 @@ history:
     whether it reduces to a separation by time scale is open." Carries
     realizability, QUESTION-391's first line, after its own (ADR-085). No
     other change.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §2.2 states its proposition, and §1 and §13
+    restate it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +46,8 @@ date: '2026-10-27'
 line:
 - distributed-agency
 - realizability
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-477
 - CLAIM-331
@@ -72,6 +81,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: CLAIM-tmp449rr CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
@@ -416,3 +426,14 @@ A14 §3 and A18 §2 rebuild the claim's first half (A: "I would call this *dynam
 - **A forcing floor.** A20 §3: under a bounded disturbance |η| ≤ η_max the deviation settles at about η_max/λ⊥, not zero. So "approximately enforced" needs λ⊥H ≫ 1 over the horizon H and a small η_max/λ⊥ as well.
 
 Critical slowing in different modes, which bears oppositely on the reduction this claim describes, is [CLAIM-626](CLAIM-626.md), filed from the same exchange. No status change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U14 the owner tied A's "selective contraction" to "Nucleation's inquiry into how timescale separation can drive structural emergence": this claim, the owner's own. A29 §2's four-unit example, fast within-pair differences and a slow between-pair difference, is the window this claim's note of the U15–U23 turns already gives for weakly joined clusters. A29 §2 credited its timescale-relative individuation to [CLAIM-481](CLAIM-481.md); it is this claim's. A29 §5's differentiation between attractors with contraction within basins restates this claim's last clause, that instabilities make the separations that then constrain.
+
+A32 §5, from [CLAIM-626](CLAIM-626.md), adds that "There isn't one relevant separation": collective activity, restoration, maintenance and reproduction may each have a time scale, and their hierarchy may say more than one fast–slow ratio. A32 §12 asks whether an emergent organization can change the timescale hierarchy and intervention-equivalence structure it was identified by, which is this claim's second half widened to the equivalence structure. The owner's U10 hypothesis carries this claim from constraints to units: [CLAIM-tmpw8xkt](CLAIM-tmpw8xkt.md) rests on it. [CLAIM-tmp449rr](CLAIM-tmp449rr.md) separates the dynamical separation this claim names from the economic separation of costly formation and cheap reuse.
+
+No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+An analogy from Wang and Slotine ([NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)): relative degrees of freedom contract quickly and the synchronous relation then holds as a constraint, a set that is "both an invariant set and a linear constraint" (Ex. 4.2). A worked case of the shape the claim describes, in a deterministic network; not evidence for the claim's general form.

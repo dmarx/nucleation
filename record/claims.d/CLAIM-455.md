@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmp23fhq
 title: 'For one bounded observer, a transformation of a representation can make one task''s distinction legible and another''s illegible at once, so legibility regimes are ordered only relative to a task, and a regime that improves one perspective''s competence can disable another''s'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §9 states its proposition. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -22,6 +29,8 @@ date: '2026-10-27'
 line:
 - distributed-agency
 - formal-apparatus
+works:
+- cost-structure-of-possibility
 grounds:
 - CASE-154
 complements:

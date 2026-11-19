@@ -1,0 +1,82 @@
+---
+status: Read
+paper: LIT-tmpco2kf
+title: 'Dohare and others 2023/2024 — Maintaining Plasticity in Deep Continual Learning (arXiv v3), published as Loss of plasticity in deep continual learning (Nature 2024)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    URLs read: - https://arxiv.org/pdf/2306.13812 (served as
+    arXiv:2306.13812v3, 9 Apr 2024, "Maintaining Plasticity in Deep
+    Continual Learning", 44 pages). Kind of copy (step 5): arXiv preprint,
+    the authors' own manuscript. Lawful. -
+    https://www.nature.com/articles/s41586-024-07711-7.pdf (Dohare,
+    Hernandez-Garcia, Lan, Rahman, Mahmood and Sutton, "Loss of plasticity
+    in deep continual learning", Nature 632, 768-774, published online 21
+    August 2024; 20 pages with Methods and Extended Data). Kind of copy: the
+    publisher's version of record, open access. The PDF states: "Open Access
+    This article is licensed under a Creative Commons Attribution 4.0
+    International License". Lawful. Fetched once; HTTP 200 PDF, no bot check
+    (the URL gained a "cookies_not_supported" query parameter on redirect;
+    the PDF was served). Date: 2026-11-19. No refusal. No email address
+    sent. dl/text.txt is the arXiv v3 text followed by the Nature text, each
+    under a header line; separate extractions are in dl/arxiv_text.txt and
+    dl/nature/text.txt; PDFs in dl/paper.pdf and dl/nature/article.pdf.
+    Read: arXiv v3 §1-§7 in full (main text, pp. 1-~22). Nature: main text
+    (pp. 768-774) and the Methods' discussion of PPO, forgetting and the
+    extended discussion; the rest of Methods was skimmed for whether any
+    method was switched on after plasticity was lost (none was). Skipped:
+    arXiv appendices A-E (hyperparameters, activations, Slippery Ant,
+    utility ablation, continual PPO); Nature Extended Data figures except
+    captions found by search; reference lists.
+date: '2026-11-19'
+---
+<!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp5vg7p CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
+
+# NOTE-tmpzn6c6: Dohare and others 2023/2024 — Maintaining Plasticity in Deep Continual Learning (arXiv v3), published as Loss of plasticity in deep continual learning (Nature 2024)
+
+## Contribution
+
+Dohare, Hernandez-Garcia, Rahman, Mahmood and Sutton (Lan joins in the Nature version) show directly that standard deep learning loses the ability to learn new tasks over long continual training. This is "loss of plasticity", which they keep distinct from catastrophic forgetting. Their tests are Continual ImageNet (thousands of binary tasks), Online Permuted MNIST, Slowly-Changing Regression, class-incremental CIFAR-100 with a ResNet-18 (Nature) and PPO on ant locomotion. Loss of plasticity goes with growing weight magnitude, more dead units and falling effective rank. Adam, dropout and normalization make it worse. L2 regularization and Shrink and Perturb ease it. Their continual backpropagation, which reinitializes a small fraction of low-utility units at every step, maintains plasticity in all their problems. Every remedy is applied from the start of training; none is switched on after plasticity has been lost.
+
+## Key results
+
+- The headline (arXiv abstract): "In ImageNet, binary classification performance dropped from 89% accuracy on an early task down to 77%, about the level of a linear network, on the 2000th task."
+- The distinction they hold to (Nature, p. 768): "Loss of plasticity is different from catastrophic forgetting, which concerns poor performance on old examples even if they are not presented again".
+- The decline is gradual: performance "first increased across tasks, then began falling steadily across all subsequent tasks" (arXiv §3, Permuted MNIST), and "performance first improves, then falls substantially, ending near or below the linear baseline" (arXiv §2).
+- Forgetting is controlled by design in class-incremental CIFAR-100 (Nature, p. 770): "We continued training on the old classes (unlike in most work in class-incremental learning) to focus on plasticity rather than on forgetting." Incremental training first beats retraining from scratch and then, after 40 classes, falls below it.
+- Correlates (arXiv §4): "loss of plasticity is correlated with an increasing weight magnitude, a decrease in the effective rank of the representation, and an increase in the fraction of dead units."
+- Common tools worsen it (arXiv §5): "Adam’s loss of plasticity can be categorized as catastrophic". Shrink and Perturb helps: "Shrink-and-perturb is particularly effective, as it almost entirely mitigates the loss of plasticity."
+- Continual backpropagation (arXiv §6): "Continual backpropagation fully mitigates the loss of plasticity in Continual ImageNet." In Nature (abstract): "Plasticity is maintained indefinitely only by algorithms that continually inject diversity into the network".
+- Its cause, as the authors read it (arXiv §7): "The root cause of loss of plasticity is that the benefits provided by initialization with small random numbers are lost over time."
+- In RL both failures occur (Nature, Methods): "Loss of plasticity and forgetting are both responsible for the observed degradation in performance."
+- Continual backpropagation does not address forgetting (Nature, Methods): "Continual backpropagation in its current form does not tackle the forgetting problem."
+
+## Assumptions
+
+- That accuracy on a new task of fixed difficulty, after a fixed training budget, measures plasticity. In Continual ImageNet task difficulty is held constant, so a drop is a drop in learning ability.
+- That reinitializing the head (or not) and training to a fixed budget per task isolates the body's learning ability.
+- Small networks (a 3-conv, 3-FC net; MLPs with 100-10,000 units; ResNet-18) and supervised streams, with RL as a preliminary extension.
+
+## Concepts
+
+- Loss of plasticity: the loss of ability to learn new examples with continued training, as against forgetting old ones.
+- The three correlates: dead (or saturated) units, growing weight magnitude, falling effective rank of the representation.
+- Continual backpropagation: SGD plus selective reinitialization of low-utility units at a small replacement rate, with a maturity threshold protecting new units. Utility is contribution times adaptability.
+- Stability against plasticity as the two goals of continual learning. The authors study plasticity "in isolation" and leave stability aside.
+
+## Bearing on the record
+
+- [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md): supports the mechanism clause and qualifies the domain. Continued training raises the cost of later acquisition, and in CIFAR-100 that is shown with old classes still trained, so it is not forgetting. But the learner here keeps facing new tasks: this is loss of plasticity under continual change, not stabilization on one present objective. The CIFAR result is the claim's signature in a small setting: incremental training is better than retraining at first and worse later.
+- [CLAIM-tmp5vg7p](../claims.d/CLAIM-tmp5vg7p.md): counts against its antecedent in this setting, and is silent on its threshold. [CLAIM-605](../claims.d/CLAIM-605.md)'s model (via this claim) needs the capacity to acquire to be learned by use and to decay with disuse. Here plasticity falls while the network is continually used on varied new tasks. That is the claim's renewed practice, and it does not maintain plasticity. Only direct interventions do (small weights plus injected randomness, unit reinitialization). The decline is gradual ("began falling steadily"), with no threshold reported. No method was switched on after plasticity was lost, so the paper says nothing on whether a direct intervention restores it late. Nature mentions that resets of the network help in RL (Nikishin et al.), without testing them.
+- [THEORY-1353](../theory.d/THEORY-1353.md): supports the depletion reading against the use-and-disuse reading. The authors' "root cause" (the benefits of random initialization lost over time) and the dead-unit and rank correlates fit plasticity as a used-up resource, here units rather than attention heads. Their remedy, reinitializing units, is the same kind of act as Dong's query–key reset.
+- [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md): supports adding a fresh-capacity arm (reinitializing a small fraction of units) beside the query–key reset. It also supports the dead-unit and effective-rank diagnostics at each checkpoint, and running the CIFAR-style control that compares against a model trained from scratch on the same data.
+- [CLAIM-347](../claims.d/CLAIM-347.md): bears on its dated note's condition. Continual backpropagation's new units start with zero outgoing weights "so the consumers are less affected by the unit’s removal", a design meant to restore capacity without disturbing what the network already does. The authors still concede it does not tackle forgetting.
+
+## Limitations
+
+- Small networks and benchmarks. The Nature paper (p. 769) says a systematic study with large language models "would not be possible today".
+- Every remedy runs from the start of training. Recovery after the loss has happened is not tested.
+- The correlates are correlational. Dropout's harm is not explained by them.
+- The RL results are preliminary in the arXiv version.

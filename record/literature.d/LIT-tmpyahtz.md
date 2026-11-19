@@ -1,0 +1,54 @@
+---
+status: Active
+title: 'Spontaneous symmetry breaking and Goldstone modes for deep information propagation'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed and read the same day, as a stand-in for LIT-tmp01nqp (Iqbal and
+    Welling 2025), whose venue copy was refused. Found as the paper that
+    cites it; the reader confirmed the workshop paper's identity from its
+    reference 26. arXiv v1 dated 14 May 2026 (cs.LG), as the PDF gives it.
+    Not held before: no hit for the id, Iqbal or the title. Read from the
+    arXiv PDF v1 in NOTE-tmpsdqio.
+tags:
+- representation-learning
+- learning-theory
+- anthology-candidate
+date: '2026-11-19'
+published: '2026-05-14'
+arxiv: '2605.14685'
+first_author: 'Iqbal'
+keywords:
+- spontaneous symmetry breaking
+- Goldstone modes
+- signal propagation
+- equivariant networks
+implementations: []
+summary: >-
+  Iqbal, Keller, Song, Miyato and Welling (2026), arXiv 2605.14685. A deep
+  network whose middle layers are equivariant under U(1) or O(k) has, at
+  initialisation and large width, a transition at σ_W = 1. Above it a
+  symmetry-broken phase conserves the relative phase of two inputs across
+  layers and keeps one Jacobian component O(1) at any depth, so 100-layer
+  networks train without normalisation or skip connections over the whole
+  phase, not only at the edge of chaos. The same order parameter in
+  non-equivariant networks brings no training gain. Read in [NOTE-tmpsdqio](../notes.d/NOTE-tmpsdqio.md);
+  its account is [THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md). A stand-in for [LIT-tmp01nqp](LIT-tmp01nqp.md)'s thesis
+  only.
+---
+<!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
+
+# LIT-tmpyahtz: Spontaneous symmetry breaking and Goldstone modes for deep information propagation
+
+Iqbal, Keller, Song, Miyato and Welling (2026). arXiv 2605.14685.
+
+## Standing in the record
+
+Registered as a stand-in for the owner's U6 example, Iqbal and Welling's
+workshop paper ([LIT-tmp01nqp](LIT-tmp01nqp.md)), which it cites as related work "in the
+context of a discrete symmetry". It carries the continuous-symmetry
+version of the same thesis. It does not restate the workshop paper's
+domain-wall results.

@@ -55,6 +55,8 @@ summary: >-
   from. Conceded, so Active. It gives a mechanism for [CLAIM-478](CLAIM-478.md)'s
   second half and is not a test of individuality.
 ---
+<!-- inactive-ok-file: THEORY-tmp78qwh THEORY-tmpanqm0 THEORY-tmpl3nl5 THEORY-tmprpscg THEORY-tmpte85d — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-tmpw8xkt — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
 <!-- inactive-ok-file: LIT-1639 — Unfetched; registered from the exchange, a lawful full text found on 2026-10-27 but not fetched, unread, cited for what it is standardly cited for -->
 
@@ -168,3 +170,38 @@ order K, as A21 said; the path graph for n = 10 gave λ₂ = 0.0979 against
 - **Stewart, Golubitsky and Pivato** ([NOTE-1217](../notes.d/NOTE-1217.md)) support only "invariant
   without being attracting" (p. 626), and as a scope statement rather than
   a result.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A26 §6 put a general form of this claim's dissipative case: "A dynamical process can make an equivalence relation approximately true by dissipating the differences that violate it." The owner, at U12, on that sentence: "reminds me of self supervised learning". The connection is recorded as the owner's.
+
+A27 §2 made it concrete. The alignment energy tr(ZᵀLZ), minimized by gradient flow, gives Laplacian diffusion of the representations along the edges that assert equivalence. That is consensus dynamics of this claim's kind: relative differences across an edge decay and the components of the graph survive. The SSL equivalence is held as [LIT-228](../literature.d/LIT-228.md) (contrastive and non-contrastive methods as spectral embeddings) and [LIT-249](../literature.d/LIT-249.md) (spectral contrastive loss). A27 §2 kept a limit: augmentation graphs may at first connect only views of the same instance, so classes across instances need further assumptions. A27 §2 also noted that pure diffusion collapses each component, so non-collapse terms are needed for an informative representation.
+
+Whether such collapse is how the classes become reified distinctions is the owner's U10 thesis, [CLAIM-tmpw8xkt](CLAIM-tmpw8xkt.md). No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+These readings bear on the note of 2026-11-19 above, the reading of self-supervised alignment as Laplacian diffusion, not on the claim's computations, which stand demonstrated.
+
+Bardes, Ponce and LeCun's VICReg ([THEORY-tmp78qwh](../theory.d/THEORY-tmp78qwh.md)), read: in the ablation (Appendix D.4, Table 7) the invariance term alone, the alignment energy the note reads as diffusion, sends every input to one vector, and the covariance term "has no repulsive effect preventing collapse". Only the variance hinge holds the spread. That bears out A27's remark that pure diffusion collapses, and leaves the claim as it is.
+
+Belkin and Niyogi ([THEORY-tmpte85d](../theory.d/THEORY-tmpte85d.md)), read, have the energy and the collapse the note needs: minimizing Σ(y_i − y_j)²W_ij alone gives the constant vector, "which collapses all vertices of G onto the real number 1", and their constraints exist to stop it; a disconnected graph is embedded component by component. They study no flow, so reading the minimization as dissipation is the record's step. It qualifies the note.
+
+Zbontar and colleagues' Barlow Twins ([THEORY-tmpanqm0](../theory.d/THEORY-tmpanqm0.md)), read, prevent collapse by decorrelating units standardized over the batch, not by a spectral constraint. Their ablation (Table 5) gives the decorrelation term alone 0.1% linear accuracy, and invariance with batch standardization alone 57.3%, so part of the anti-collapse work is done by the standardization. That qualifies the note: non-collapse terms differ in kind.
+
+Wang and Isola ([THEORY-tmpl3nl5](../theory.d/THEORY-tmpl3nl5.md)), read, prove the split for the contrastive case: with many negatives InfoNCE is an alignment term plus a uniformity term, and with alignment weighted far above uniformity every input goes to one vector (§5). The anti-collapse term is a repulsion toward the uniform measure, and nothing is said of diffusion along a graph. It qualifies the note.
+
+Lohmiller and Slotine ([THEORY-tmprpscg](../theory.d/THEORY-tmprpscg.md)), read: full contraction sends all trajectories to one, and "A convex contraction region contains at most one equilibrium point". Contraction that keeps distinctions appears only in two remarks of §3.9. The selective contraction A29 invoked is Wang and Slotine's later partial contraction, which the record does not hold. It leaves the claim open on that point.
+
+No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+
+Wang and Slotine ([THEORY-tmprqrdn](../theory.d/THEORY-tmprqrdn.md), corroborates; [NOTE-tmp9eyoy](../notes.d/NOTE-tmp9eyoy.md)), read: the partial contraction the note of 2026-11-19 said the record did not hold. Three bearings.
+
+- **The dissipative-coupling case, generalized.** For identical nonlinear units with symmetric positive-definite diffusive coupling on a connected graph, the relative modes contract once the coupling, through λm+1 of the weighted Laplacian, beats the units' own expansion rate (Theorem 6). The chain's eigenvalue 2(1 − cos(π/n)) appears as a synchronization threshold, and "the effort to synchronize an open chain network is four times of that to a closed one" (Ex. 4.5): the claim's chain computation, read as a threshold.
+- **The bullet on nonlinear coupling.** For positive-definite diffusive coupling, strong enough coupling always gives global synchrony; destabilization by strong coupling belongs to semi-definite coupling without contraction of the coupled block (§4.4.3, after Pecora). Ex. 4.2 shows a synchronous set that is "both an invariant set and a linear constraint" and attracts.
+- **Selective contraction.** Partial contraction erases differences transverse to a manifold and keeps what lies along it: "the common phase of the steady states is determined by the initial conditions" (p. 7). It needs no rate comparison between within-class and between-class variation. The point the earlier note left open now has its source.
+
+No status change.

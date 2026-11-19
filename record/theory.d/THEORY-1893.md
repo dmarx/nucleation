@@ -27,6 +27,7 @@ summary: >-
   kinks, not Kane–Lubensky polarization. The wording is the reader's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp5hurd — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-1893: Zhang, Li, Zheng, Genin and Chen show that a perforated elastomer whose cells become bistable under compression breaks into domains of opposite rotation separated by ordered, reproducible walls, which a strong-coupling continuum limit describes as the static kink–antikink lattice of the φ⁴ equation
 
@@ -60,3 +61,9 @@ alternative outcome.
   monostable and the walls are gone.
 - That a wall is softer than the bulk, or any dynamics; the solitons are
   static.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Omidvar and colleagues ([THEORY-tmp5hurd](THEORY-tmp5hurd.md)), read: a second buckled metamaterial, from a different group, in which compression makes beams bistable and domain walls separate regions of opposite buckling. Here the walls are moved one unit cell per load cycle, and the stored domains exist only while the static compression holds, as this entry says of its own walls. It does not test the kink–antikink lattice or the stepwise growth of the count with sample length, so it does not meet the promote_when.
+
+No status change.

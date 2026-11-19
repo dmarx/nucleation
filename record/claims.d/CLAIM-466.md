@@ -48,6 +48,7 @@ summary: >-
   remedies are too. The edge: the correction is an oracle's, with known
   propensities.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-466: Lock-in from selectively admitted evidence and lock-in from self-scoring need different remedies: weighting admitted evidence by known, positive admission probabilities undoes the first and leaves the second, so correcting for how evidence was selected is not correcting how it is scored
 
@@ -81,3 +82,11 @@ fidelity is the self-scoring half; [CASE-156](../cases.d/CASE-156.md) the select
   ([CLAIM-342](CLAIM-342.md)'s evidence that does not pass through the interpretation it
   tests); the runs do not test it.
 - **Anything beyond the stipulated population** of the case.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A71 §8 proposed three developmental traps for learners. A plasticity trap: the organization "is difficult to alter even when appropriate evidence is supplied". An inquiry trap: it "prevents the learner from seeking or recognizing the evidence required to alter it". An evaluation trap: the learner "can generate a better alternative but lacks a sufficiently independent mechanism for recognizing it". This claim already separates lock-in by selectively admitted evidence from lock-in by self-scoring, and shows their remedies differ; that is nearly A's inquiry/evaluation split, though A's inquiry trap also takes in recognizing evidence, which this claim puts on the scoring side. The plasticity trap is [THEORY-1353](../theory.d/THEORY-1353.md)'s site depletion, which more data cannot undo. A did not cite this claim.
+
+A67 §8: "A learner can overfit not only to its training data, but to its own strategy for selecting training data", the selection half of this claim made endogenous to a learner. The overconsolidation claim filed from the same exchange, [CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md), takes these traps among its mechanisms.
+
+No status change.

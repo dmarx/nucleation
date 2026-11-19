@@ -1,0 +1,56 @@
+---
+status: Active
+title: 'Reviewing Structure Learning in and Out of the Active Inference Framework'
+version: 2
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed, not read. Identifier checked on Crossref on 2026-11-19, no email
+    address sent: Minds and Machines, earliest date 2026-06-15. Not held: no
+    hit for the identifier, the title or Neacsu in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Skimmed on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmp5xf4s, account THEORY-tmp17fdp. URL read:
+    https://link.springer.com/content/pdf/10.1007/s11023-026-09787-8.pdf
+    (publisher's open-access version, "© The Author(s) 2026", Minds and
+    Machines (2026) 36:33; located through OpenAlex, which lists it as
+    hybrid OA, publishedVersion). Kind: publisher open-access copy. Date
+    2026-11-19. HTTP 200, no obstacle.
+tags:
+- neuroscience
+- philosophy-of-science
+date: '2026-11-19'
+published: '2026-06-15'
+doi: '10.1007/s11023-026-09787-8'
+first_author: 'Neacsu'
+keywords: []
+implementations: []
+summary: >-
+  Neacsu, So, Rutar, da Costa, Adams and Friston (2026), Minds and
+  Machines 36:33, DOI 10.1007/s11023-026-09787-8 (open access). A
+  conceptual review. It surveys what "structure learning" means across
+  developmental, cognitive and machine-learning work, then defines
+  Structure Learning in active inference as offline Bayesian model
+  selection by model evidence, by refitting or by Bayesian model reduction
+  or expansion. It names the open problem as generating the hypothesis
+  space, not choosing within it. It reports no results. Here because the
+  exchange called it the most useful single paper for what the free-energy
+  literature covers. It maps that literature fairly but leaves active,
+  data-choosing structure learning to [LIT-tmpg7w4q](LIT-tmpg7w4q.md). It agrees with
+  [THEORY-564](../theory.d/THEORY-564.md)'s framing that reduction, not expansion, is the open half.
+  Read in its NOTE (skimmed in part). Read in [NOTE-tmp5xf4s](../notes.d/NOTE-tmp5xf4s.md); its account
+  is [THEORY-tmp17fdp](../theory.d/THEORY-tmp17fdp.md).
+---
+<!-- inactive-ok-file: THEORY-564 THEORY-tmp17fdp — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: NOTE-tmp5xf4s — Skimmed; cited in this filing of 2026-11-19 -->
+
+# LIT-tmpuy2kv: Reviewing Structure Learning in and Out of the Active Inference Framework
+
+Neacsu, So, Rutar, da Costa et al. (2026). Minds and Machines, DOI 10.1007/s11023-026-09787-8.
+
+## Standing in the record
+
+Registered on 2026-11-19 from A69 of the exchange "Topological protection explained". A69 called it the most useful single paper for what the free-energy literature already covers, for the owner's U31. Not read.

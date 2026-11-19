@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdr90u
 title: 'Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-30'
@@ -37,6 +37,14 @@ history:
   note: >-
     Rubel, Castro and Pham (2021), chapter 7, read as the stand-in for
     their 2019 article and filed with corroborates on this claim.
+- version: 6
+  date: '2026-11-19'
+  note: >-
+    Carnap's Logical Foundations of Probability (1950), chapter I, read
+    (NOTE-tmpgrtgu); its account THEORY-tmpai35t corroborates this claim,
+    as the primary source behind THEORY-1797. A dated note says what it
+    supports in each half. It is corroboration, not grounds: the claim
+    does not rest on Carnap. The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -185,3 +193,61 @@ The claim is unchanged.
 Rubel, Castro & Pham 2021, ch. 7, read as the stand-in for [LIT-2659](../literature.d/LIT-2659.md) ([NOTE-2031](../notes.d/NOTE-2031.md), [THEORY-1946](../theory.d/THEORY-1946.md), corroborates). Of an agency that deploys a risk-assessment system while acknowledging its biases: "it is the decision to deploy the system that requires an account, and that decision is not obscured" (p. 157). Agency laundering is the failure to answer for that choice: ascribing "morally relevant qualities" such as "relevance, neutrality, reliability" to the process, and so failing "to adequately account" (p. 143). That supports the claim's first half, that choosing an apparatus is open to evaluation, from the side of accountability. The chapter does not address the claim's second half, which exclusions matter.
 
 No status changes.
+
+## Note of 2026-11-19: Carnap, read
+
+
+Carnap's *Logical Foundations of Probability* (1950), chapter I, sections
+2 and 3, read at the owner's request ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md), [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md),
+corroborates). It is the primary text behind what Leitgeb and Carus
+report ([THEORY-1797](../theory.d/THEORY-1797.md)), and it bears on both halves.
+
+- **The first half, directly.** Because the concept to be explicated is
+  inexact, "the question whether the solution is right or wrong makes no
+  good sense"; the question is "whether the proposed solution is
+  satisfactory, whether it is more satisfactory than another one" (§2).
+  Choosing a concept is evaluated, not verified, and Carnap gives the
+  standard: similarity, exactness, fruitfulness, simplicity (§3).
+- **The second half, more than the SEP entry suggested.** The note of
+  2026-11-12 read Carnap's "no right or wrong answers" as stronger than
+  this claim's indexing. The primary text narrows that. "More
+  satisfactory" is judged against stated requirements, each held "to a
+  sufficient degree", which is a judgment indexed to a standard. And
+  Carnap's worked example is an exclusion: zoologists' Piscis drops whales
+  and seals, which the old word Fish rightly covered, and this was "not a
+  correction in the field of factual knowledge but a change in the rules
+  of the language", justified because Piscis "promised to be much more
+  fruitful". That is this claim's second half in a case: the cut excludes,
+  and whether the exclusion matters is settled by a standard, not by the
+  fact that something was excluded. What Carnap does not index the
+  judgment to is "those affected": his standard is the concept's use in
+  science, not the parties a cut bears on.
+- **Applied to the record's own terms.** [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) (Active since 2026-11-19) makes
+  Carnap's requirements the critical questions of an `explication`
+  argument, so that the choice of a TERM's definition is argued and
+  judged as this claim says a choice of apparatus can be.
+
+No status change. What holds it back is still [CLAIM-476](CLAIM-476.md) (note of
+2026-10-30).
+
+## Note of 2026-11-19 (later): Carnap, read in full
+
+The whole book read ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). Beyond chapter I:
+
+- **First half.** The choice is made again and again inside the theory
+  and judged, not verified. A measure function's choice is "a purely
+  logical ques- tion" whose empirical content enters only through the
+  evidence (§55B); estimation "depends upon a choice, which is a matter of
+  prac- tical decision" (§98); c* is chosen "by comparing them with the
+  consequences of other definitions" and offered as provisional (§110A).
+  Degree of confirmation itself depends on the language chosen (§§14, 52).
+- **"Leaves others unstatable", qualified.** §45A: "For any single fact in
+  the world, a language sys- tem can be constructed which is capable of
+  representing that fact while others are not covered." What an apparatus
+  leaves unstatable is unstatable in it, not for good. That fits the
+  claim, which is about what a chosen apparatus makes determinate, and
+  limits a stronger reading of it.
+- **Second half.** Nothing beyond the Fish case. Carnap's indexing is to
+  purposes, not to those affected.
+
+No status change.

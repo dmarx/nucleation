@@ -1,0 +1,51 @@
+---
+status: Active
+title: 'Meta-Learning Requires Meta-Augmentation'
+version: 2
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-19, no
+    email address sent: v1 submitted 2020-07-10. Not held: no hit for the
+    identifier, the title or Rajendran in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmp3nxjy, account THEORY-tmpy398k. URL read:
+    https://arxiv.org/pdf/2007.05549 (served arXiv:2007.05549v2, 4 Nov 2020;
+    HTTP 200, application/pdf).
+tags:
+- learning-theory
+- anthology-candidate
+date: '2026-11-19'
+published: '2020-07-10'
+arxiv: '2007.05549'
+first_author: 'Rajendran'
+keywords: []
+implementations: []
+summary: >-
+  Rajendran, Irpan and Jang (2020), NeurIPS 2020, arXiv 2007.05549. They
+  separate memorization overfitting, where the model ignores the support
+  set, from learner overfitting, where the base learner fails on new tasks
+  even when tasks are mutually exclusive, and show that re-keying each
+  task's labels at random (label shuffling for classification, shared
+  noise for regression) improves meta-test performance, on top of Yin et
+  al.'s meta-regularization; Mini-ImageNet MAML rose from 30% to 46%. Here
+  because A54 used it beside Yin et al. ([LIT-tmpws19o](LIT-tmpws19o.md)) for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md):
+  the reading supports the case's held-out task-generating processes,
+  since learner overfitting survives shuffling, and adds two rules,
+  several seeds and pre/post-update accuracy as the diagnostic. Read in
+  its NOTE. Read in [NOTE-tmp3nxjy](../notes.d/NOTE-tmp3nxjy.md); its account is [THEORY-tmpy398k](../theory.d/THEORY-tmpy398k.md).
+---
+<!-- inactive-ok-file: THEORY-tmpy398k — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-tmphsr99 — Proposed; cited in this filing of 2026-11-19 -->
+
+# LIT-tmpjmy81: Meta-Learning Requires Meta-Augmentation
+
+Rajendran, Irpan, Jang (2020). arXiv 2007.05549.
+
+## Standing in the record
+
+Registered on 2026-11-19 from A54 of the exchange "Topological protection explained". A54 used it beside Yin et al. for [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Not read.

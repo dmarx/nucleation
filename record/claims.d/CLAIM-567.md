@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9jvpb
 title: 'That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,13 @@ history:
     reached" in sampling processes; Yue's result suggests a trade between
     reliability and reachability that the claim does not assert. No status
     change.
+- version: 4
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §4.2 uses its proposition as a step, for
+    reliability improvement as a route of its own. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -46,6 +53,8 @@ line:
 - realizability
 - readiness
 - formal-apparatus
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-571
 complements:

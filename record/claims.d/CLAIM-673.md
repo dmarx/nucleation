@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp09pjt
 title: 'Where the capacities a collective needs to govern an arrangement are learned by exercise and lost with disuse, and the arrangement does the work through which they are exercised, the arrangement can erode the capacity to govern it, so that whether a collective can correct an arrangement is not independent of the arrangement'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -24,6 +24,13 @@ history:
     defeated_if. Interpretive: the title makes CLAIM-605's kind of
     capacity a condition, and under it the body derives the
     erosion from CLAIM-605's deadline. No change of title.
+- version: 4
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §8.1 and §9 state its proposition. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +52,8 @@ date: '2026-11-13'
 line:
 - dependence-and-domination
 - transient-support
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-605
 complements:

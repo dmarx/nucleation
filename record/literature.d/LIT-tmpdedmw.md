@@ -1,0 +1,79 @@
+---
+status: Unfetched
+status_note: >-
+  A lawful copy was located and not read. Date of all attempts:
+  2026-11-19. No email address sent to any service. Located lawful copy:
+  PubMed Central author manuscript (accepted version), PMCID PMC3138194,
+  PMID 21051599. - https://pmc.ncbi.nlm.nih.gov/articles/PMC3138194/ :
+  HTTP 200 but the page is a reCAPTCHA / bot challenge. Stopped; not
+  retried. -
+  https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3138194/fullTextXML
+  (Europe PMC REST, the ADR-101 route): HTTP 500 Internal Server Error,
+  then HTTP 503 Service Temporarily Unavailable. Not pursued further. (The
+  Europe PMC search API itself answered and listed the PMC copy, with
+  isOpenAccess N, inEPMC Y, hasPDF Y.) Other locations tried (from
+  OpenAlex, api.openalex.org, and Semantic Scholar's API, no email sent):
+  - http://hdl.handle.net/11858/00-001M-0000-0029-120B-5 ->
+  https://pure.mpg.de/pubman/item/item_2178717 : HTTP 403 with a CAPTCHA.
+  Stopped. - http://edoc.mpg.de/528753 : HTTP 503, "DNS resolution failed
+  (transient resolver error)". -
+  https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.1011.2943 :
+  redirected to web.archive.org, connection reset by peer. Not retried. -
+  https://doi.org/10.1126/science.1194869 (Science): paywalled per
+  OpenAlex (is_oa false); not fetched. - Semantic Scholar openAccessPdf
+  points only to the PMC copy. So: Unfetched (ADR-053), not Unavailable:
+  the PMC author manuscript is a located lawful copy, blocked by a bot
+  check at pmc.ncbi.nlm.nih.gov and by server errors at the Europe PMC
+  interface. Neighbour read as a stand-in: Kaschube, Schnabel and Wolf
+  (2008), "Self-organization and the selection of pinwheel density in
+  visual cortical development", arXiv 0801.3651 (arXiv v1; the PDF names
+  no journal, and no journal version was checked). Files in ../kaschube-
+  neighbour/. It stands in for the 2010 paper's theoretical half only: the
+  prediction that long-range interactions select a pinwheel density near
+  π. It does not restate the 2010 paper's measurements across tree shrew,
+  galago and ferret, its other pinwheel statistics, or its reported
+  universality; nothing about those is said here from memory. Not held in
+  the record: no hit for 0801.3651, the title, Kaschube or "pinwheel"
+  outside LIT-tmpdedmw and an unrelated use in NOTE-1963.
+title: 'Universality in the Evolution of Orientation Columns in the Visual Cortex'
+version: 2
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed, not read. Identifier checked on Crossref on 2026-11-19, no email
+    address sent: Science, earliest date 2010-11-04. Not held: no hit for
+    the identifier, the title or Kaschube in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Reading attempted on 2026-11-19; Unfetched. See the status note.
+tags:
+- neuroscience
+- complex-systems
+date: '2026-11-19'
+published: '2010-11-04'
+doi: '10.1126/science.1194869'
+first_author: 'Kaschube'
+keywords: []
+implementations: []
+summary: >-
+  Kaschube, Schnabel, Löwel, Coppola et al. (2010), Science, DOI
+  10.1126/science.1194869. Per ChatGPT, pinwheel defects in visual-cortex
+  orientation maps with a universal density. Here because A15 cited them
+  as defect-like singularities that need not be functional units, which
+  bears on [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Unverified until read.
+---
+<!-- inactive-ok-file: ADR-101 — Proposed; cited in this filing of 2026-11-19 -->
+
+# LIT-tmpdedmw: Universality in the Evolution of Orientation Columns in the Visual Cortex
+
+Kaschube, Schnabel, Löwel, Coppola et al. (2010). Science, DOI 10.1126/science.1194869.
+
+## Standing in the record
+
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 cited them as defect-like singularities that need not be functional units, which bears on [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Not read.
+
+Not read: see the status note. Its stand-in, read on 2026-11-19, is
+[LIT-tmpb3pen](LIT-tmpb3pen.md) (Kaschube, Schnabel and Wolf 2008), for the model's pinwheel
+density prediction only.

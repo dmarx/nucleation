@@ -221,3 +221,11 @@ obligation that turn on histories a present state does not show; "What
 matters is not sameness of identity over time and change, but the
 persistence of obligations" (p. 16). Filed as `corroborates`. No status
 change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+At U15 the owner read A32's "An effective degree of freedom need not be an instantaneous state variable. It may be a functional of history", which A32 drew from [QUESTION-222](../questions.d/QUESTION-222.md)'s memory-kernel question, as connecting "directly to Nucleation's inquiries into normativity and justice". Neither this claim nor [QUESTION-222](../questions.d/QUESTION-222.md) cites the other; the bridge is the owner's.
+
+A34 §1 made it concrete. It used this claim's pair of histories with one endpoint and different verdicts, and [CLAIM-350](CLAIM-350.md)'s factorization condition, as the claim itself does. It then proposed an augmented state, the present state with a history variable updated as obligations are "incurred, discharged, violated, or carried forward", sufficient for judgments the present state cannot support. That is [QUESTION-222](../questions.d/QUESTION-222.md)'s finite-dimensional Markovian augmentation, asked for judgment rather than for prediction: A34 says the variable's "significance isn't established by predictive accuracy alone". A34 kept this claim's limit, that identifying a violation does not fix the remedy.
+
+No status change.

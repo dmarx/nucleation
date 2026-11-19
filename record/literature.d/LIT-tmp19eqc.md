@@ -1,0 +1,59 @@
+---
+status: Active
+title: 'Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata'
+version: 2
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed, not read. Identifier checked on Crossref on 2026-11-19, no email
+    address sent: Entropy, earliest date 2026-08-08. Not held: no hit for
+    the identifier, the title or Masumori in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmp4u57l, account THEORY-tmp3vfqj. What was read is the
+    authors' arXiv preprint, the submitted version of the Entropy article,
+    not the version of record.
+    The copy read is arXiv 2607.12403, v1 submitted 2026-07-14 (checked
+    on the arXiv API, no email sent), the submitted version and not the
+    version of record (MDPI returned 403); `published:` moves to it from
+    the journal's 2026-08-08 (ADR-002).
+tags:
+- complex-systems
+- information-theory
+date: '2026-11-19'
+published: '2026-07-14'
+arxiv: '2607.12403'
+doi: '10.3390/e28080893'
+first_author: 'Masumori'
+keywords: []
+implementations: []
+summary: >-
+  Masumori, Sato and Ikegami (2026), Entropy 28(8):893, DOI
+  10.3390/e28080893; read as the authors' arXiv preprint 2607.12403. In a
+  growing neural cellular automaton trained to regenerate (Mordvintsev et
+  al., [LIT-tmp5gwuj](LIT-tmp5gwuj.md)), the formed pattern is kept not at a fixed point but
+  on a recurrent attracting state, with persistent fluctuations
+  concentrated in a few "fluctuation cores" near the shape's boundaries;
+  damage displaces the system and it returns over hundreds of steps, and
+  blocking small updates outside a disc holding less than about 74% of the
+  cells impairs the return. Transfer entropy and information decomposition
+  describe inward corrective and outward propagating predictive
+  asymmetries during repair, which the authors do not read as causal flow.
+  Here because A15 of the exchange "Topological protection explained"
+  cited it beside Mordvintsev et al. for [CLAIM-566](../claims.d/CLAIM-566.md); it shows persistence
+  and repair in this system as one precarious activity, not two
+  mechanisms. Read in its NOTE. Read in [NOTE-tmp4u57l](../notes.d/NOTE-tmp4u57l.md); its account is
+  [THEORY-tmp3vfqj](../theory.d/THEORY-tmp3vfqj.md).
+---
+<!-- inactive-ok-file: THEORY-tmp3vfqj — Proposed; cited in this filing of 2026-11-19 -->
+
+# LIT-tmp19eqc: Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata
+
+Masumori, Sato, Ikegami (2026). Entropy, DOI 10.3390/e28080893.
+
+## Standing in the record
+
+Registered on 2026-11-19 from A15 of the exchange "Topological protection explained". A15 cited it beside Mordvintsev et al. for [CLAIM-566](../claims.d/CLAIM-566.md). Not read.

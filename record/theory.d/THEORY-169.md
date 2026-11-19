@@ -50,6 +50,7 @@ summary: >-
 bears_on:
 - QUESTION-159
 ---
+<!-- inactive-ok-file: THEORY-tmpvf16r THEORY-tmpxdk37 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-169: For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind
 
@@ -146,3 +147,11 @@ Written out for the promotion audit (batch 024, [ADR-047](../decisions.d/ADR-047
   W₀ = 0 is ΔW = (η/N) Σ_i y_i x_iᵀ, so the layer sends y_j to
   y_j − ΔW x_j. On a query token (x_q, 0) the read-out, sign flipped, is
   ΔW x_q, the updated model's prediction.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Akyürek and colleagues ([THEORY-tmpvf16r](THEORY-tmpvf16r.md)), read: adds a construction and measures this entry's caution. Their Theorem 1 builds one gradient step in a softmax transformer of constant depth, beside von Oswald et al.'s linear construction. Trained models fit one gradient step only at one layer, and poorly; two to four layers match ridge regression, and deeper ones least squares or the Bayes ridge predictor. That supports the caution that trained transformers are not shown to do gradient descent, and leaves the identities untouched.
+
+Garg and colleagues ([THEORY-tmpxdk37](THEORY-tmpxdk37.md)), read: supports the same caution with what trained deep transformers do. On linear functions they match least squares, on sparse linear functions they come near Lasso, and on depth-4 decision trees they beat greedy learning (error 0.12 against 0.80). None of that is one gradient step. The paper has no construction and does not bear on the identities themselves.
+
+No status change.

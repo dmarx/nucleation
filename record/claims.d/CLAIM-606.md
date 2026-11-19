@@ -107,6 +107,9 @@ summary: >-
   and by whether an outflow is measured. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp5hurd THEORY-tmpcxzxx THEORY-tmpky96s THEORY-tmpq7rwx — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpvtafk — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-tmp01nqp — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1500 THEORY-1501 THEORY-1506 THEORY-1507 THEORY-1509 THEORY-1548 THEORY-1555 — Proposed; the readings that hold this claim back, cited as open -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; claims, a term and readings this one rests on or extends, cited as open -->
 
@@ -214,3 +217,23 @@ No status changes.
 Zhang, Li, Zheng, Genin and Chen ([LIT-2657](../literature.d/LIT-2657.md), read in [NOTE-1992](../notes.d/NOTE-1992.md)) build the topological route in a mechanical metamaterial. Compressed past a critical strain, each cell of a perforated elastomer buckles into one of two mirror rotations, and the walls between domains are the static kink–antikink lattice of the φ⁴ equation ([THEORY-1893](../theory.d/THEORY-1893.md)). Each wall is a topological defect between degenerate minima. But it persists only while the compression holds the double well: below the critical strain the cells are monostable and the walls are gone. With net charge "Q=0, which indicates each kink is followed by an antikink", no single kink is globally protected, and the walls' positions are held by lattice ("Perierls-Nabarro", sic) pinning.
 
 So the route's "charge that continuous change cannot remove" can depend on a standing constraint that keeps the degenerate states in existence. That constraint is not a supply, since nothing is consumed and no outflow is replenished. The claim's test of withdrawing the supply and measuring the outflow would class these walls with the internal-balance route: they show no outflow. Withdrawing the constraint ends them, as withdrawing a pump ends a dissipative soliton. The table's "How it ends" for the topological row should allow "when the constraint that makes the states degenerate is lifted" beside "by meeting an opposite charge, or at a boundary". The reading qualifies the claim's sorting. It does not contest the three routes. Its "topological" is the kink sense, not Kane–Lubensky polarization. No status change.
+
+## Note of 2026-11-19: the exchange "Topological protection explained"
+
+A separates two topologies (A4 §1, A7 §2–3). The order-parameter manifold decides whether a defect is stable, which is this claim's topological route. The excitation operator in the defect's background decides whether it binds modes, as in Jackiw–Rebbi. Neither implies the other: "A domain wall may be topologically stable without hosting protected electronic modes" (A4 §1). The row is about the first only.
+
+A15 §2 lists learned-network carriers as candidate instances of the routes: phase-locked regions, travelling waves, domain walls and regenerative patterns. The one read case is [THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md), a stand-in for the owner's U6 example ([LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md), Unfetched). In its convolutional U(1) recurrent network, vortices form in ± pairs and annihilate on contact, as the topological row expects. No functional role for them is shown. Whether the walls coincide with predictive or causally operative structures is [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Whether modes bound to a defect could come to maintain it is [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md).
+
+No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Teo and Kane ([THEORY-tmpcxzxx](../theory.d/THEORY-tmpcxzxx.md)), read, classify defects by the winding of the electronic Hamiltonian around them, not by an order-parameter charge. Their topology protects bound gapless modes while the bulk gap is open, not the defect's persistence; in a disordered weak topological insulator the modes even outlive the structure that produced them. So a protected bound mode is no evidence that its host is on the topological route, and the table's topological row should be read as order-parameter topology only. It qualifies the claim.
+
+Rudner and colleagues ([THEORY-tmpq7rwx](../theory.d/THEORY-tmpq7rwx.md)), read, add a third sense of "topological": an invariant of a periodic process, a loop of evolution operators, neither a field configuration's charge ([THEORY-1507](../theory.d/THEORY-1507.md)) nor a static Hamiltonian's winding around a defect. What it protects exists only while the drive runs, so it sits with the supplied route as much as with the topological one. It qualifies the sorting.
+
+Shankar and colleagues ([THEORY-tmpky96s](../theory.d/THEORY-tmpky96s.md)), read, describe active-nematic defects that carry a conserved charge but are produced and kept unbound by a standing supply, activity; in passive media the flows are "transient". The charge constrains creation and ending (pairs in two dimensions), and the supply decides whether defects exist and how many. One structure can thus sit on the topological and the supplied routes at once, which qualifies the claim's sorting: the routes are not exclusive.
+
+Omidvar and colleagues ([THEORY-tmp5hurd](../theory.d/THEORY-tmp5hurd.md)), read: their stored bits persist by bistability under a standing compression, and the "topological" of their title refers to the band polarization at the wall, not to a conserved charge of the wall. That is a further case for the note of 2026-11-15, and a reason to tie the word "topological" to a stated invariant. It qualifies the claim.
+
+No status change.

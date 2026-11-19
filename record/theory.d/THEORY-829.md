@@ -97,3 +97,6 @@ threshold below 1 (eq. 3.3). It does not.
 - [THEORY-647](THEORY-647.md) extends this result into a thesis about outright belief.
 - [THEORY-401](THEORY-401.md) holds the thesis's fair-lottery construction, whose rounding
   diagnosis this result applies to belief.
+
+## Note of 2026-11-19: Carnap, read
+A related bound ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)): Carnap's cumulative chains keep confirmation high only "provided the chain is not too long" (§59), the shape this account gives for conjunctions of believed propositions.
