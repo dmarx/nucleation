@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-29'
@@ -56,6 +56,11 @@ history:
     A dated note: A79 §2 of the exchange "Assess Depp Heard Abuse"
     applies the claim to contestation, where it becomes the first
     stage of an effective objection. No other change.
+- version: 8
+  date: '2026-11-19'
+  note: >-
+    Wording only, at the owner's request (review of dmarx/nucleation#528,
+    2026-11-19): "dear" replaced by "costly" in one sentence. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -145,7 +150,7 @@ realization." This is [CLAIM-478](CLAIM-478.md)'s mechanism applied to inquiry. 
 costly process leaves a product that the fast process treats as fixed.
 
 **The same storage entrenches.** Familiar distinctions are cheap and new ones
-are dear, so "an apparatus may expand its capacity for inquiry while
+are costly, so "an apparatus may expand its capacity for inquiry while
 simultaneously entrenching a particular mode of individuation" (A17 §5). For a
 record: "If revising a schema is vastly more expensive than adding another
 record under the existing schema, inquiry may remain trapped in a locally
