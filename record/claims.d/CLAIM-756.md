@@ -111,3 +111,37 @@ The second share of the exchange (2026-11-19) adds U34 to U39. At A80 ChatGPT pr
 <!-- inactive-ok-file: THEORY-tmpkjzqg THEORY-tmppm9la — Proposed; cited from the readings of 2026-11-19 -->
 
 The two works cited after the owner's point at U37 (that the pretraining literature ought to show acquired organization making later learning cheaper) were read. They carry less than that. Anguita and colleagues ([THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md); [NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)) give an analytical instance: pretrained features lower the sample cost of fine-tuning where the tasks' features overlap, and beat training from scratch in one deep-network comparison. McDermott and colleagues ([THEORY-tmpkjzqg](../theory.d/THEORY-tmpkjzqg.md); [NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)) measure final downstream performance, with one convergence curve and no threshold or budget, so at most a weak instance. Neither bears on the claim's own content, valuation by effect on later acquisitions. The owner's point stands as a reasonable expectation that these two works do not yet bear out in cost terms; a reading of work that measures sample or compute cost to a threshold would. No status change.
+
+## Note of 2026-11-19: Brown and colleagues, and Howard and Ruder, read
+<!-- inactive-ok-file: LEAD-tmpn5ruw TERM-131 THEORY-tmp8cm7r THEORY-tmpw8s3h — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+The readings the owner asked for after the earlier note ([LEAD-tmpn5ruw](../leads.d/LEAD-tmpn5ruw.md)). Howard and Ruder ([THEORY-tmpw8s3h](../theory.d/THEORY-tmpw8s3h.md), corroborates; [NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)) are the first work on record to measure prior learning lowering the cost of a later acquisition to a stated level: with 100 labelled examples their pretrained and fine-tuned model "matches the performance of training from scratch with 10× and 20× more data" on IMDb and AG. That is the claim's premise in cost terms, and the owner's point at U37 borne out. Qualified: the saving is joint between pretraining and the fine-tuning method, which the comparison does not separate, and pretraining is not counted as cost ("it only needs to be performed once"). Brown and colleagues ([THEORY-tmp8cm7r](../theory.d/THEORY-tmp8cm7r.md), corroborates; [NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)) are evidence of a different kind: pretraining makes in-context learning, which is learning of the model running in an episode ([TERM-131](../terms.d/TERM-131.md), version 2), cheap, with a rough exchange rate of fewer than eight demonstrations against a BERT-Large fine-tuned on 125,000 examples on SuperGLUE. The comparisons are across model sizes and across systems, not one model with and without pretraining. Neither touches the claim's own content, valuing an acquisition by its effect on others. No status change.
+
+## Note of 2026-11-19: the data-scheduling readings, read
+<!-- inactive-ok-file: THEORY-tmp0lbb1 THEORY-tmpd6l4a THEORY-tmpk9cmk — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Six works read for [LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md), the owner's suggestion that ordering experiments have this claim's shape. Two add evidence for the premise with the earlier acquisition's cost counted, which ULMFiT ([THEORY-tmpw8s3h](../theory.d/THEORY-tmpw8s3h.md)) did not. Hu and colleagues ([THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md), corroborates): a short formal-language first phase lets a 1B model reach its baseline's final loss with 33 per cent fewer total tokens, the first phase included; a matched natural-language first phase gets much of the saving. Chen and colleagues ([THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md), corroborates): at a fixed total budget, mixing a target skill's prerequisites in reaches a loss threshold in about a third fewer steps, though by co-acquisition, not one then the other. Bengio and colleagues ([THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md), corroborates) give the claim's pattern in final-error terms: easier shapes, poor alone, belong to the best policy within a fixed budget ([CASE-295](../cases.d/CASE-295.md)'s shape). Gururangan and colleagues, Liu and colleagues, and Feng and colleagues measure final performance: relevant earlier training helps, irrelevant hurts, specialized data early beats late, and developmental order within one corpus barely matters. None tests the claim's own content, valuing an acquisition by its effect on others. No status change.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: ARG-tmp30ltz LEAD-tmpjdtrl THEORY-tmp1b3hj THEORY-tmp1mk7r THEORY-tmp5jrhv THEORY-tmpbsmcq THEORY-tmpgk8nb THEORY-tmply4g3 THEORY-tmpngig0 THEORY-tmpsewbi THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Fifteen works read for [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md). Two add evidence for the premise in
+cost terms (corroborates). Hernandez and colleagues ([THEORY-tmp1mk7r](../theory.d/THEORY-tmp1mk7r.md)):
+pretraining is worth an amount of from-scratch data that grows as a power
+law in later data and model size, in the low-data regime; pretraining's
+own cost is excluded, and outside that regime small pretrained models do
+worse than from scratch. The procedural-pretraining paper
+([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)): a warm-up of well under one per cent of tokens, with no direct
+value on the target, saves 14 to 45 per cent of later tokens; no seeds.
+Against these, Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) find that at matched
+compute with a tuned initialization no first phase beats natural language
+alone, and that part of an earlier gain was a weak baseline; [ARG-tmp30ltz](../arguments.d/ARG-tmp30ltz.md)
+argues that the instances carry the premise as possibility and not as a
+rule. The rest measure final scores or attribution, not cost: code first
+([THEORY-tmpbsmcq](../theory.d/THEORY-tmpbsmcq.md)) wins before cooldown and loses after it; reasoning data
+early ([THEORY-tmpgk8nb](../theory.d/THEORY-tmpgk8nb.md)) raises what fine-tuning reaches; order at fixed
+data matters a little ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md), [THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md), [THEORY-tmpvbozh](../theory.d/THEORY-tmpvbozh.md));
+and the attribution studies ([THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md), [THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md)) credit only
+immediate alignment, so by construction they cannot see an acquisition's
+effect on later ones, the accounting this claim says is missing. None
+tests the claim's own content. No status change.

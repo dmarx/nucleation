@@ -80,3 +80,6 @@ Dohare and colleagues ([THEORY-2027](THEORY-2027.md)), read: supports the deplet
 Han and colleagues ([THEORY-2015](THEORY-2015.md)), read: related, not the same construct. Higher pretraining weight decay lowers the rank of query–key products more than value–projection ones, and improves fine-tuning. That puts plasticity-relevant structure in the query–key product, as Dong's query–key reset does. Neither paper tests the other's intervention, and the authors call their rank mechanism correlational, so the entry's plasticity clause is left open.
 
 No status change.
+
+## Note of 2026-11-19: Liu, Neubig and Xiong, read
+A parallel ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)): both locate a loss of malleability late in Pythia-family training; Liu and colleagues' is behavioural, inferred from when specialized data is introduced, and confounded with the learning-rate schedule.

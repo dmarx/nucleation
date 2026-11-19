@@ -155,3 +155,8 @@ Akyürek and colleagues ([THEORY-2050](THEORY-2050.md)), read: adds a constructi
 Garg and colleagues ([THEORY-2052](THEORY-2052.md)), read: supports the same caution with what trained deep transformers do. On linear functions they match least squares, on sparse linear functions they come near Lasso, and on depth-4 decision trees they beat greedy learning (error 0.12 against 0.80). None of that is one gradient step. The paper has no construction and does not bear on the identities themselves.
 
 No status change.
+
+## Note of 2026-11-19: Brown and colleagues, read
+<!-- inactive-ok-file: TERM-131 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Background for [TERM-131](../terms.d/TERM-131.md) ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): Brown and colleagues' in-context learning keeps no state beyond the sequence; on this account conditioning and per-sequence weight updates differ in what is kept, not in kind, so retention is the test for whether it is learning.

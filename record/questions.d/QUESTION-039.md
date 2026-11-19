@@ -106,3 +106,22 @@ joint step: a chain of comparable steps would show an Erlang shape, and
 the measured shape is exponential. The answer is single-author and
 unreplicated, and its exponential evidence is strongest in a toy. No
 status changes.
+
+## Note of 2026-11-19: the data-scheduling readings, read
+<!-- inactive-ok-file: THEORY-tmpd6l4a THEORY-tmpk9cmk — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Two readings bear on order. Hu and colleagues ([THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md), bears_on): structure first, and the first phase's duration, set the later cost. Chen and colleagues ([THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md), bears_on): which skills help which is set by the data and departs from the task's dependency order, and ordering skills in sequence does no better than random. Whether acquisition is one kind of event or several stays open.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp1b3hj THEORY-tmp5jrhv THEORY-tmply4g3 THEORY-tmpmy98s THEORY-tmpsewbi — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+The follow-up readings bear on the order of data more than on the moment a
+structure is acquired. Zhang and colleagues ([THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md), bears_on):
+difficulty order moves when aggregate competence arrives, mostly not the
+endpoint. Nishida and colleagues ([THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md)) and Wang and colleagues
+([THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md)) describe which data align with training early and late,
+attribution only. Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) find what a
+separate first phase taught is overwritten at the switch and kept under
+interleaving, so order bears on retention as well as acquisition. The
+procedural paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) finds the first phase's length matters
+non-monotonically. Background for the question's mechanisms.

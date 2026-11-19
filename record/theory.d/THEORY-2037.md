@@ -48,3 +48,6 @@ MetaICL trains the weights once, across tasks, on the in-context objective: pred
 - Anything beyond 774M parameters, classification and multiple choice, or English.
 - That meta-training beats per-task fine-tuning: fine-tuning with meta-training exceeds MetaICL.
 - Which training tasks help, or why: the variance across choices is large and unexplained.
+
+## Note of 2026-11-19: Brown and colleagues, read
+A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): Brown and colleagues' outer loop is implicit in pretraining ("a “natural” broad distribution of tasks implicitly contained in predicting the text itself"); this account makes it explicit.
