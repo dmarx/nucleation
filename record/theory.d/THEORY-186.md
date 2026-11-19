@@ -168,3 +168,6 @@ scale: as the scale falls from 10⁻¹ to 10⁻⁴, the off-diagonal part of the
 product falls from 15% to 2% of the largest strength, and the deviation
 from the aligned logistic from 33% to 0.1%), which the promote_when rules
 out as settling it.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+Background (NOTE-tmpsybfr): Chen and colleagues extend this line of deep linear analysis to stochastic gradient flow, where collapse keeps weak noisy singular modes from being learned (§6).

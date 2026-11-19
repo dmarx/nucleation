@@ -130,3 +130,8 @@ Lohmiller and Slotine ([THEORY-tmprpscg](../theory.d/THEORY-tmprpscg.md)), read:
 Wang and Isola ([THEORY-tmpl3nl5](../theory.d/THEORY-tmpl3nl5.md)), read, note (§4.2) that on a finite augmented dataset perfect alignment and uniformity cannot both hold, "because perfect alignment implies that all augmentations from a single element have the same feature vector". The identification the loss enforces is the augmentation's, and uniformity resists any coarser one. Whether coarser classes form, and whether they are closed under further operations, is not addressed, so it leaves the claim open.
 
 No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+
+Wang and Slotine (THEORY-tmprqrdn; NOTE-tmp9eyoy), read. An analogy, not evidence, but it answers the objection the reading of Lohmiller and Slotine raised, that contraction "leaves a single class" unless confined to some directions. Partial contraction is that confinement: differences across the synchronous manifold are erased exponentially while a continuum of collective states along it survives, set by initial conditions, and the surviving variable keeps well-defined dynamics ("both oscillators tend to their original limit cycle behavior, but with a common phase", p. 7). Two qualifications. What survives is a continuum, not discrete classes, so classes need more than contraction. And partial contraction needs no condition that within-class variation decay faster than between-class variation, which bears on the claim's rate condition. Nothing here bears on reuse or on classes becoming units. The claim is unchanged.

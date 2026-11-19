@@ -204,3 +204,6 @@ reduced slow system is what makes it uniform.
   separates from weakness.
 - **[CLAIM-331](../claims.d/CLAIM-331.md).** Remark 8's cascade, τ_µ = (ε_c,µ ⋯ ε_c,M) τ_M, is an
   "expected" estimate, not a theorem.
+
+## Note of 2026-11-19: Wang and Slotine, read
+Background (NOTE-tmp9eyoy): this account's partially contracting hypothesis descends from Wang and Slotine's construction, now held and read.

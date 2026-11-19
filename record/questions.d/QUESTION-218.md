@@ -117,3 +117,6 @@ exchange ran together.
 A29 §3 also gives a two-line case for the closure side. Under ż = aξ, ξ̇ = −λξ, the quantity q = z + (a/λ)ξ is conserved, so the class fixed by a common future is set by q, not by z. The filer checked the algebra: dq/dt = aξ + (a/λ)(−λξ) = 0. The unit mixes a slow and a fast coordinate, so it is a demonstrated instance of a unit that is a function of the whole state rather than a subset of members. It does not supply the independent mark of unity the question asks for.
 
 No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+A parallel (NOTE-tmp9eyoy): in Wang and Slotine's networks the synchronized mode is a closed collective mode, with its own dynamics, reached from any initial condition above a threshold. Whether such a mode acts as a unit is not their question.

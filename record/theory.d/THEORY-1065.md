@@ -119,3 +119,11 @@ Velarde, Parra, Hashemi and Makse ([THEORY-tmpz825j](THEORY-tmpz825j.md)), read:
 Larremore, Clauset and Jacobs ([THEORY-tmpyydjg](THEORY-tmpyydjg.md)), read; the reader's observation, not the paper's: a block of a stochastic block model is a balanced partition in expectation, its members having the same expected number of edges to each block. That is a stochastic counterpart of this entry's equal count of inputs from each class, which is exact, not expected. Neither source states the link. If made, it would put the genres case ([CASE-tmpsjjgx](../cases.d/CASE-tmpsjjgx.md)) and the fibration hunch ([QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md)) on one formal object.
 
 No status change.
+
+## Note of 2026-11-19: Wang and Slotine, read
+<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+
+A complement (THEORY-tmprqrdn; NOTE-tmp9eyoy). This account gives balanced partitions as the invariant synchrony patterns, "existence, not stability". Wang and Slotine give the stability side under their conditions: for identical units with symmetric positive-definite diffusive coupling, full synchrony attracts globally above a spectral threshold, and the same bound applies to "symmetric subgroups in a network" (Theorem 6, p. 14). Different conditions, a different question; together they say when an invariant pattern is also reached.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+An analogy across two dynamics (NOTE-tmpsybfr): in weight space under training, Chen and colleagues likewise separate invariance from attraction, which needs a condition weighing curvature against noise. It supports this account's warning by parallel, not in the state dynamics of cells.

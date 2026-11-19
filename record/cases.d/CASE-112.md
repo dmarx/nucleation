@@ -164,3 +164,6 @@ A23 then reads Frankfurt into the dynamics. A higher-order volition is "a prefer
 [CLAIM-465](../claims.d/CLAIM-465.md)'s release condition and [CLAIM-359](../claims.d/CLAIM-359.md)'s capture of authority-allocating processes bear on the same regime.
 
 No status changes.
+
+## Note of 2026-11-19: Wang and Slotine, read
+A parallel from Wang and Slotine (NOTE-tmp9eyoy): which of two collective patterns a coupled pair settles into can be set by the sign of the coupling (§3.3), not only by a tilt between basins.

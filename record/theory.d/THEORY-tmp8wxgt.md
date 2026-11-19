@@ -47,3 +47,6 @@ Weight decay, usually tuned for the base model's validation loss, also shapes ho
 - Not that pre-trained capability is kept. Forgetting during fine-tuning is not measured.
 - Not that weight decay applied late, or at fine-tuning time alone, restores plasticity.
 - Not beyond 4B parameters or 140 tokens per parameter. The authors expect low loss may win in heavily overtrained runs.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+A caution from Chen and colleagues' reading (NOTE-tmpsybfr): rank reduction by collapse is not plasticity loss as such; this account found more plasticity across a weight-decay window with rank reduced.

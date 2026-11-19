@@ -117,3 +117,6 @@ is ε/(2S)·I, isotropic, while the posterior's is A⁻¹/N.
 weight decay, from Kunin et al.; its λ → 0 isotropy is this account's
 Assumption 5 case with μ = 1 − β. McCandlish et al.'s temperature ε/B
 ([NOTE-293](../notes.d/NOTE-293.md), App. C) uses this stationary model.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+Outside this account's scope rather than against it (NOTE-tmpsybfr): at the invariant sets Chen and colleagues study the gradient noise vanishes, and the stationary law can concentrate on the set (p. 6), unlike a Gaussian stationary state near a non-degenerate minimum.

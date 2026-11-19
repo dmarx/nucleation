@@ -89,3 +89,8 @@ DeVille and Lerman ([THEORY-tmp31d9a](../theory.d/THEORY-tmp31d9a.md)), read: le
 Geiger and colleagues ([THEORY-tmp1cus0](../theory.d/THEORY-tmp1cus0.md)), skimmed; the reader's observation, not the paper's: their alignment (Definition 31) is a quotient of units, a partition with value maps. A fibration base merges units with equal activity on every input, a variable merge with identity value maps that keeps the forward computation exact ([THEORY-tmpz825j](../theory.d/THEORY-tmpz825j.md)). Neither paper connects the two. A test of the hunch could ask whether the alignment cells of a role-level algorithm are unions of quasi-fibers. Their worked task, hierarchical equality, is a relational rule of the kind the question names.
 
 No status change.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+<!-- inactive-ok-file: THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+
+Chen and colleagues (THEORY-tmp4kekv; NOTE-tmpsybfr), read: background that qualifies the source Velarde cited. Learned unit partitions with no data symmetry arise from the architecture's permutation symmetry plus noise, which pulls units toward exact copies. Those are redundancies, not quotients of inputs by relabelling, and no relational task is involved, so the owner's hunch is untested. A usable measure: the fraction of independent neurons at a tolerance (p. 7), a weight-space diagnostic to set beside Velarde's colourings.

@@ -57,3 +57,6 @@ under gradient flow, or diffusing without a preferred value, as under
 isotropic noise. A failure of the SDE approximation at the learning rates
 used would limit the law, not refute it. More solvable toy models cannot
 settle it.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+A parallel (NOTE-tmpsybfr): Chen and colleagues show noise-driven attraction toward symmetry-generated sets for permutation and sign symmetries; the rescaling case this question asks about is not theirs.

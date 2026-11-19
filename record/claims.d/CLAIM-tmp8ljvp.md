@@ -194,3 +194,8 @@ Nichol, Achiam and Schulman ([THEORY-tmpbzf9h](../theory.d/THEORY-tmpbzf9h.md)),
 Its standing. No reading shows the full signature: present competence rising, a declared later acquisition costing more, held capabilities kept. Springer's case is mainly forgetting; Yin's and Rajendran's have the signature and are named task overfitting. To survive, the claim must declare its future family outside the training task distribution, so it is not task overfitting, and either keep held capabilities in the signature, leaving Springer no case, or count collateral forgetting as acquisition cost and redraw its line with forgetting. [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)'s A_s tests the clean version.
 
 No status change.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+<!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmp4kekv — Proposed; cited from the readings of 2026-11-19 -->
+
+An analogy with the right shape (THEORY-tmp4kekv; NOTE-tmpsybfr), not evidence. Long training at a large learning rate keeps improving present generalization while driving the network toward invariant sets from which escape is slower ("the repulsive escape will take longer the closer it starts from the invariant set", p. 10). Chen and colleagues value this as preventing overfitting; whether it raises the cost of a declared family outside the training distribution is untested. A candidate mechanism for the claim, to measure in CASE-tmphsr99. The claim is unchanged.

@@ -159,3 +159,6 @@ happens with fixed orthogonal write maps. With learnable ones it is open.
 - **[LIT-1534](../literature.d/LIT-1534.md).** Elhage et al.'s mathematical framework is where the
   two-layer attention-only setting and the QK/OV reading of heads of the
   paper's models come from; its path expansion is [THEORY-988](THEORY-988.md).
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+A parallel (NOTE-tmpsybfr): Chen and colleagues locate learned structure in the architecture's symmetry plus noise, not the data's, and leave "the interplay between symmetries in data and invariant sets" open (p. 10).

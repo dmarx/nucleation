@@ -132,3 +132,6 @@ Yin and colleagues ([THEORY-tmpzauel](../theory.d/THEORY-tmpzauel.md)), read, pl
 Rajendran, Irpan and Jang ([THEORY-tmpy398k](../theory.d/THEORY-tmpy398k.md)), read, show learner overfitting surviving mutually exclusive tasks, which supports held-out task-generating processes over shuffled tasks alone. Which form a run shows "depends on random seed", so the meta-trained arm should use several seeds and report pre- and post-update accuracy on training and validation tasks.
 
 No status change.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+A measure to add (NOTE-tmpsybfr): Chen and colleagues' fraction of independent neurons, units counted identical within a tolerance of their norms (p. 7), beside the dead-unit and effective-rank measures at each checkpoint. Their caution applies: residual connections fall outside their propositions (p. 8), and Pythia is residual.

@@ -1,14 +1,12 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-19, not read. Registered at the owner's request from the
-  reading of Lohmiller and Slotine ([LIT-tmprrdom](LIT-tmprrdom.md), [NOTE-tmp2wkbb](../notes.d/NOTE-tmp2wkbb.md)), which
-  found that their paper treats full contraction and that the partial
-  contraction A29 of the exchange "Topological protection explained" needs
-  is this later paper. No reading was attempted; a lawful copy has not
-  been sought.
+  Read in full on 2026-11-19 (NOTE-tmp9eyoy) from the authors' accepted
+  manuscript on SciSpace. Worth reading as the source of partial
+  contraction, which the record needed for contraction that keeps
+  distinctions.
 title: 'On partial contraction analysis for coupled nonlinear oscillators'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -18,6 +16,14 @@ history:
     version found (an arXiv search by title and authors returned nothing).
     Not held: no hit for the identifier, the title or Wang in
     record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read in full on 2026-11-19 by a delegated reader from the authors'
+    accepted manuscript on SciSpace (typeset.io), lawful under ADR-074;
+    quotations rechecked by the filer. Account THEORY-tmprqrdn. Venue
+    confirmed: Biological Cybernetics 92(1), pp. 38-53; the online date
+    stays the published date (ADR-002). Summary rewritten.
 tags:
 - control-theory
 - mathematics
@@ -29,13 +35,15 @@ first_author: 'Wang'
 keywords: []
 implementations: []
 summary: >-
-  Wang and Slotine (2004), Biological Cybernetics 92, DOI
-  10.1007/s00422-004-0527-x. Here from the reading of Lohmiller and
-  Slotine ([LIT-tmprrdom](LIT-tmprrdom.md), [NOTE-tmp2wkbb](../notes.d/NOTE-tmp2wkbb.md)), which found that their paper
-  treats full contraction and that the partial contraction A29 of the
-  exchange "Topological protection explained" needs is this later paper.
-  Bears on [THEORY-773](../theory.d/THEORY-773.md), [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md) and [CLAIM-481](../claims.d/CLAIM-481.md)'s note of 2026-11-19
-  (selective contraction). Unverified until read.
+  Wang and Slotine (2004 online; Biological Cybernetics 92, 2005), DOI
+  10.1007/s00422-004-0527-x. Introduces partial contraction: if an
+  auxiliary system with the actual state as input is contracting, every
+  trajectory acquires any smooth property one of its solutions has, though
+  the system itself need not contract. Applied to identical units with
+  diffusive coupling, it gives global synchronization above a threshold
+  set by the Laplacian's spectrum, with the common phase left free.
+  Registered from the reading of Lohmiller and Slotine (LIT-tmprrdom).
+  Read in NOTE-tmp9eyoy; account THEORY-tmprqrdn.
 ---
 
 # LIT-tmpwo4ry: On partial contraction analysis for coupled nonlinear oscillators
@@ -44,4 +52,4 @@ Wang and Slotine (2004). Biological Cybernetics 92, DOI 10.1007/s00422-004-0527-
 
 ## Standing in the record
 
-Registered on 2026-11-19 at the owner's request, from the reading of Lohmiller and Slotine ([LIT-tmprrdom](LIT-tmprrdom.md), [NOTE-tmp2wkbb](../notes.d/NOTE-tmp2wkbb.md)), which found that their paper treats full contraction and that the partial contraction A29 of the exchange "Topological protection explained" needs is this later paper. Not read.
+Registered and read on 2026-11-19 at the owner's request (NOTE-tmp9eyoy, THEORY-tmprqrdn).

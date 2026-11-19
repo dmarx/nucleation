@@ -187,3 +187,6 @@ it had stated was left with nowhere to go but this body and a QUESTION.
 Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-792](THEORY-792.md), which extends
 this one: the depth law from generic starts, such as random orthogonal weights, which the paper argues from simulation. This entry is that THEORY's evidence and is not
 changed by it.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+Background (NOTE-tmpsybfr): Chen and colleagues' teacher-student analysis extends Saxe and colleagues' deep linear modes to stochastic flow, where the smallest learnable mode is set by noise (§6). Poole and colleagues (NOTE-tmpa7swy) generalize the order-to-chaos transition at initialization that this account's body mentions; neither bears on learning time.

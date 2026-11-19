@@ -42,3 +42,8 @@ A network is a finite directed multigraph with a manifold at each node. A modula
 - Stability of the embedded or projected dynamics.
 - Discrete-time, stochastic or weighted settings, such as trained neural networks.
 - How its modular class compares with Golubitsky and Stewart's admissible class. In particular it does not reconcile its isomorphism of invariant fields under surjective fibrations (Corollary 6.2.4) with the 2003 result that quotient dynamics need not lift.
+
+## Note of 2026-11-19: Wang and Slotine, read
+<!-- inactive-ok-file: THEORY-tmprqrdn — Proposed; cited from the readings of 2026-11-19 -->
+
+A complement (THEORY-tmprqrdn; NOTE-tmp9eyoy): fibrations give invariant synchrony patterns; Wang and Slotine give conditions under which synchrony is also globally attracting, for identical units with symmetric positive-definite diffusive coupling (Theorem 6).

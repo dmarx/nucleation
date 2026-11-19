@@ -42,3 +42,8 @@ In a wide random network, iterating the mean-field maps for one input's variance
 ## What it does not show
 
 Anything for ReLU or other unbounded activations, convolutional or residual architectures, or trained (not initial) networks; why the threshold is about 6ξc; anything about generalization; any route to depth that does not require tuning to criticality.
+
+## Note of 2026-11-19: Poole and colleagues, read
+<!-- inactive-ok-file: THEORY-tmpitdat — Proposed; cited from the readings of 2026-11-19 -->
+
+The direct ancestor, read (THEORY-tmpitdat; NOTE-tmpa7swy). Poole and colleagues derive the length and correlation maps, χ1 and the phase diagram this account rests on, and already note that "correlations typically take about 20 layers to approach the fixed point, while lengths need only 4" (§3), anticipating the two depth scales. They have no gradients, depth scales or trainability, and their emphasis is on the chaotic phase, not on criticality.

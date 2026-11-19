@@ -86,3 +86,6 @@ seen at the boundary. Neither is the case.
 - [THEORY-325](THEORY-325.md) is about growth of non-normal products under time dependence
   at finite times. The exponents here are asymptotic rates and say nothing
   about transient growth.
+
+## Note of 2026-11-19: Poole and colleagues, read
+A parallel (NOTE-tmpa7swy): Poole and colleagues relate the logarithm of χ1 to the Lyapunov exponent of a mean-field average over products of random Jacobians at initialization, the i.i.d. random-product setting this account fits.

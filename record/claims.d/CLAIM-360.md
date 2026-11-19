@@ -177,3 +177,8 @@ learned capabilities are protected or revised. That is A38's third measure,
 - Not that a budget is a detail. Which effect a result shows changes with
   the data, time and size budget, and the claim is only as definite as the
   budget it states.
+
+## Note of 2026-11-19: Poole and colleagues, read
+<!-- inactive-ok-file: THEORY-tmpitdat — Proposed; cited from the readings of 2026-11-19 -->
+
+Poole and colleagues (THEORY-tmpitdat, corroborates; NOTE-tmpa7swy), read: evidence for the first effect, qualified. Theorem 1 bounds the curve length any one-hidden-layer network can reach, while typical deep random networks in the chaotic phase grow it exponentially with depth: a depth separation on one measure. The abstract's "cannot be efficiently computed by any shallow network" goes beyond the theorem; the link from length to approximation error is shown only numerically. It can stand beside THEORY-206 as a second ground. The claim is unchanged.

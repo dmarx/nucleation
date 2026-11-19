@@ -51,3 +51,6 @@ Long continual training erodes what random initialization gave the network: smal
 - Not a threshold. The decline reported is gradual.
 - Not for large language models or pre-training on one stationary corpus. The tasks change continually.
 - Not that continual backpropagation preserves old knowledge. The authors say it does not tackle forgetting.
+
+## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
+An analogy from Chen and colleagues (NOTE-tmpsybfr), who do not discuss plasticity. Their collapse lowers the number of independent neurons and the effective rank and produces vanishing neurons, which parallel two of this account's correlates. Exactly coincident or zeroed units can never be separated by gradients, and near-collapsed ones escape slowly ("the repulsive escape will take longer the closer it starts from the invariant set", p. 10). On that reading, reinitializing units breaks a symmetry SGD cannot break. Their vanishing neurons are zero-weight GELU units, not dead ReLU units.

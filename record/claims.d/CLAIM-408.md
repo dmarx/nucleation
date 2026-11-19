@@ -174,3 +174,6 @@ Only the first is demonstrated here.
   question, and whether undifferentiated processes come to hold
   differentiated authority at all is [QUESTION-083](../questions.d/QUESTION-083.md)'s. This claim shows only
   that a symmetric rule can make an unequal allocation the stable one.
+
+## Note of 2026-11-19: Wang and Slotine, read
+A parallel from Wang and Slotine (NOTE-tmp9eyoy): the sign of the coupling selects synchrony or anti-synchrony, and "Oscillator-death as a transition state between synchronized and anti-synchronized solutions does not exist except when γ = 0" (§3.3). A differentiation by the sign of coupling, not by a bifurcation of basins; no bearing on the claim's own mechanism.

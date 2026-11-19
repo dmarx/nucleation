@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Lohmiller and Slotine show that if the generalized Jacobian F = (Θ̇ + Θ ∂f/∂x)Θ⁻¹ of a smooth system ẋ = f(x, t) is uniformly negative definite in a region, with M = ΘᵀΘ uniformly positive definite, then any trajectory starting in an M-ball about a given trajectory and contained in that region converges to it exponentially, that conversely every exponentially convergent system is contracting in some metric, and that contraction is preserved under parallel, skew-symmetric feedback and hierarchical combination'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Corrected after reading Wang and Slotine (NOTE-tmp9eyoy): partial
+    contraction erases the distinctions transverse to the manifold and
+    keeps those along it; version 1 had it the other way round. Partial
+    contraction is Wang and Slotine's, now held (THEORY-tmprqrdn).
 source:
 - LIT-tmprrdom
 tags:
@@ -39,4 +47,4 @@ Write the virtual dynamics of ẋ = f(x, t) in differential coordinates δz = Θ
 
 ## What it does not show
 
-The paper proves convergence of all trajectories to one, not to a manifold. Partial contraction, contraction toward an invariant subspace or manifold that keeps distinctions transverse to it, is not developed here: §3.9 states two remarks in that direction without theorems, and the theory was developed later (Wang and Slotine 2005, not held). Nothing is stochastic.
+The paper proves convergence of all trajectories to one, not to a manifold. Partial contraction, contraction toward an invariant subspace or manifold that erases distinctions transverse to it and keeps those along it, is not developed here: §3.9 states two remarks in that direction without theorems, and the theory was developed later (Wang and Slotine 2005, not held). Nothing is stochastic.
