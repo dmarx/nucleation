@@ -134,8 +134,8 @@ rivals or the promote_when since batch 056.
 <!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 The reading of f = ma as a generalization-sketch is confirmed in
-Structure's Postscript ("a law-sketch or a law-schema", THEORY-tmpg10ux)
-and in "Second Thoughts on Paradigms" (THEORY-tmpndxv9, the primary source
+Structure's Postscript ("a law-sketch or a law-schema", [THEORY-tmpg10ux](THEORY-tmpg10ux.md))
+and in "Second Thoughts on Paradigms" ([THEORY-tmpndxv9](THEORY-tmpndxv9.md), the primary source
 of "generalization-sketch"). The citation this account inherits, "Kuhn
 1970, p. 465", is not in Structure; it is presumably the 1974 essay's
 pagination in Suppe's volume, which runs to p. 482.

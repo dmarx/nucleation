@@ -2,10 +2,10 @@
 status: Active
 status_note: >-
   The primary source of the exemplar account and of
-  "generalization-sketch" (used by THEORY-673): prior problem-solving
+  "generalization-sketch" (used by [THEORY-673](../theory.d/THEORY-673.md)): prior problem-solving
   leaves a learned similarity relation that makes new problems tractable.
   Published 1974; the exact day is not known, so the first of the year
-  stands in. Read on 2026-11-19 (NOTE-tmpvzqac).
+  stands in. Read on 2026-11-19 ([NOTE-tmpvzqac](../notes.d/NOTE-tmpvzqac.md)).
 title: 'Second Thoughts on Paradigms'
 version: 1
 history:
@@ -36,7 +36,7 @@ summary: >-
   so a new problem is seen as like a solved one and the formalism follows.
   Knowledge stored in the similarity relation differs from knowledge
   stored as rules, and serves only in the environment it was learned in.
-  Read in NOTE-tmpvzqac; account THEORY-tmpndxv9.
+  Read in [NOTE-tmpvzqac](../notes.d/NOTE-tmpvzqac.md); account [THEORY-tmpndxv9](../theory.d/THEORY-tmpndxv9.md).
 ---
 
 # LIT-tmphef14: Second Thoughts on Paradigms

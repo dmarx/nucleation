@@ -21,7 +21,7 @@ corroborates:
 - CLAIM-756
 - CLAIM-475
 summary: >-
-  From the reading of LIT-tmphu623 in NOTE-tmp8hiqg. Paradigms as acquired
+  From the reading of [LIT-tmphu623](../literature.d/LIT-tmphu623.md) in [NOTE-tmp8hiqg](../notes.d/NOTE-tmp8hiqg.md). Paradigms as acquired
   organization that makes later work cheap, restricts inquiry and detects
   anomaly; interpretive history. Proposed until its promote_when is met.
 ---

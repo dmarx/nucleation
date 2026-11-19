@@ -150,8 +150,8 @@ tests the claim's own content. No status change.
 <!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 The owner proposed Kuhn as corroborating theory. Structure
-(THEORY-tmpg10ux, corroborates) and "Second Thoughts on Paradigms"
-(THEORY-tmpndxv9, corroborates) give interpretive and historical support
+([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md), corroborates) and "Second Thoughts on Paradigms"
+([THEORY-tmpndxv9](../theory.d/THEORY-tmpndxv9.md), corroborates) give interpretive and historical support
 for the premise: a paradigm's value lies mainly in the later
 puzzle-solving it makes tractable, and working exemplars leaves a
 similarity relation by which new problems are seen as like solved ones,

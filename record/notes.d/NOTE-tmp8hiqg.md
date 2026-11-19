@@ -22,7 +22,7 @@ summary: >-
   a tacit similarity relation, with diminishing returns. Interpretive
   history.
 ---
-<!-- inactive-ok-file: CLAIM-761 CLAIM-756 CLAIM-754 CLAIM-758 CLAIM-757 THEORY-834 THEORY-148 THEORY-673 LIT-tmphef14 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-761 CLAIM-756 CLAIM-754 CLAIM-758 CLAIM-757 THEORY-834 THEORY-148 THEORY-673 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp8hiqg: Kuhn — The Structure of Scientific Revolutions
 
@@ -82,39 +82,39 @@ acquired similarity relation; tacit knowledge; retooling.
 
 ## Bearing on the record
 
-- **CLAIM-475**, the closest parallel, supported by historical
+- **[CLAIM-475](../claims.d/CLAIM-475.md)**, the closest parallel, supported by historical
   illustration: a stabilized commitment is past inquiry stored, making
   some later questions cheap and others unaskable (pp. 37, 103, 109).
-  **TERM-092** and **CLAIM-761**, parallels: the problem-field; the
+  **[TERM-092](../terms.d/TERM-092.md)** and **[CLAIM-761](../claims.d/CLAIM-761.md)**, parallels: the problem-field; the
   textbook as stored work and the cost of retooling.
-- **CLAIM-756**, corroborates the premise as interpretive history: a
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, corroborates the premise as interpretive history: a
   paradigm's value lies mainly in the later puzzle-solving it makes
   tractable. No cost accounting; the claim's own content is untouched.
-- **CLAIM-754**, illustration: normal science extends what can be done
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, illustration: normal science extends what can be done
   while narrowing what can be asked; a revolution moves the inquiry
   frontier, with "large but never complete overlap" in what old and new
   can solve (p. 85).
-- **CLAIM-758**, qualifies: the pattern is there (training "almost
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, qualifies: the pattern is there (training "almost
   perfectly equipped" for puzzles and "not well designed" for a fresh
   approach, p. 166), but the same rigidity is functional for the
   community, which detects anomaly by it; and a late convert can still
   work in the new paradigm "as a foreigner", a raised cost, not an
   impossibility (p. 204).
-- **CLAIM-757**, analogy: relief comes by generational replacement, not by
+- **[CLAIM-757](../claims.d/CLAIM-757.md)**, analogy: relief comes by generational replacement, not by
   restoring the individual.
-- **QUESTION-495**, a partial historical answer: invest in the paradigm
+- **[QUESTION-495](../questions.d/QUESTION-495.md)**, a partial historical answer: invest in the paradigm
   while its tools keep working, retool at crisis, and keep the capacity to
   change through variable individual judgement and new entrants.
-- **THEORY-834** (Collins), supports its Kuhnian premises: inventors of new
+- **[THEORY-834](../theory.d/THEORY-834.md)** (Collins), supports its Kuhnian premises: inventors of new
   paradigms are "either very young or very new to the field" (p. 90), and
   crises can come from outside the community (p. 181).
-- **THEORY-148** (Zollman), a correction to NOTE-564's "against Kuhn":
+- **[THEORY-148](../theory.d/THEORY-148.md)** (Zollman), a correction to [NOTE-564](NOTE-564.md)'s "against Kuhn":
   Kuhn himself gives a risk-distribution argument for diversity of
   individual judgement (p. 186); the disagreement is narrower.
-- **THEORY-673** (Luque), the law-sketch reading of f = ma is confirmed
+- **[THEORY-673](../theory.d/THEORY-673.md)** (Luque), the law-sketch reading of f = ma is confirmed
   (pp. 188–189); its citation "Kuhn 1970, p. 465" is not in Structure and
-  is presumably "Second Thoughts on Paradigms" (LIT-tmphef14).
-- **TERM-117**, **TERM-131**, **CLAIM-184**, **QUESTION-360**: analogies
+  is presumably "Second Thoughts on Paradigms" ([LIT-tmphef14](../literature.d/LIT-tmphef14.md)).
+- **[TERM-117](../terms.d/TERM-117.md)**, **[TERM-131](../terms.d/TERM-131.md)**, **[CLAIM-184](../claims.d/CLAIM-184.md)**, **[QUESTION-360](../questions.d/QUESTION-360.md)**: analogies
   and illustrations.
 
 ## Limitations

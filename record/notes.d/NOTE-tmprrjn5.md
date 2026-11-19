@@ -21,7 +21,7 @@ summary: >-
   paradigm makes anomaly visible. Carries the thesis and two quoted
   sentences, not the essay.
 ---
-<!-- inactive-ok-file: CLAIM-758 CLAIM-756 CLAIM-754 THEORY-834 THEORY-148 LIT-tmp5651k — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-758 CLAIM-756 CLAIM-754 THEORY-834 THEORY-148 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmprrjn5: Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions
 
@@ -55,25 +55,25 @@ thinking.
 
 ## Bearing on the record
 
-- **CLAIM-758**, qualifies by analogy, and points to something the record
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, qualifies by analogy, and points to something the record
   lacks: the same stabilization that raises the cost of moving out of a
   tradition also makes the need to move visible. Consolidation could raise
   the cost of a later acquisition while lowering the cost of detecting
   that it is needed.
-- **CLAIM-756**, parallel: training in a tradition is worth having for
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, parallel: training in a tradition is worth having for
   what it makes possible later, recognizing anomaly and innovating; the
   later good is the ability to see failure, not a cheaper acquisition.
-- **CLAIM-754**, supports the inquiry frontier interpretively: training
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, supports the inquiry frontier interpretively: training
   fixes which anomalies a scientist can formulate.
-- **QUESTION-495**, a partial answer, interpretive: deep investment in
+- **[QUESTION-495](../questions.d/QUESTION-495.md)**, a partial answer, interpretive: deep investment in
   present competence is what pays for later revolutionary learning, which
   cuts against reading the question as a choice between the two.
-- **THEORY-834** (Collins), in tension: Kuhn holds rootedness enables the
+- **[THEORY-834](../theory.d/THEORY-834.md)** (Collins), in tension: Kuhn holds rootedness enables the
   break; Collins that rootedness alone blinds, and the break needs
   experience from outside as well.
-- **THEORY-148** (Zollman), a formal counterpart: dogmatic agents do best
+- **[THEORY-148](../theory.d/THEORY-148.md)** (Zollman), a formal counterpart: dogmatic agents do best
   in some networks.
-- **TERM-117**, parallel: a paradigm is a nucleus that shapes later
+- **[TERM-117](../terms.d/TERM-117.md)**, parallel: a paradigm is a nucleus that shapes later
   formation, including its own overthrow.
 
 ## Limitations

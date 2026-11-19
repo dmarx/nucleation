@@ -137,6 +137,6 @@ output composition and obstructs natural-language transduction. Analogies.
 
 A Kuhnian paradigm is an analogue: an achievement "sufficiently
 open-ended" to leave problems to solve, identified by what it does to
-later development (THEORY-tmpg10ux); productive for puzzles within it and
+later development ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md)); productive for puzzles within it and
 obstructive for anomalies, which it nonetheless makes visible. No
 comparator or interventional measure.

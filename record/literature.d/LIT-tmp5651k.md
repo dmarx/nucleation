@@ -5,7 +5,7 @@ status_note: >-
   1977 book on an organization's site and on file-sharing hosts (not
   lawful, not read); publisher listings; the 1959 proceedings with no open
   scan (a catalogue search returned a refusal). Kindi's essay
-  (LIT-tmpvmfv7) stands in for the thesis and two sentences, not for the
+  ([LIT-tmpvmfv7](LIT-tmpvmfv7.md)) stands in for the thesis and two sentences, not for the
   essay's own text.
 title: 'The Essential Tension: Tradition and Innovation in Scientific Research'
 version: 1
@@ -30,10 +30,9 @@ summary: >-
   Kuhn's essay from the 1959 University of Utah conference on scientific
   talent, reprinted in The Essential Tension (1977), pp. 225–239: research
   needs convergent as much as divergent thinking, and rigorous training in
-  a tradition is what lets research break with it. Unread; LIT-tmpvmfv7
+  a tradition is what lets research break with it. Unread; [LIT-tmpvmfv7](LIT-tmpvmfv7.md)
   stands in.
 ---
-<!-- inactive-ok-file: LIT-tmpvmfv7 — newly filed stand-in -->
 
 # LIT-tmp5651k: The Essential Tension: Tradition and Innovation in Scientific Research
 
@@ -45,6 +44,6 @@ Press, 1977), pp. 225–239.
 
 ## Standing in the record
 
-Unavailable. Kindi's essay (LIT-tmpvmfv7) stands in for its thesis and two
+Unavailable. Kindi's essay ([LIT-tmpvmfv7](LIT-tmpvmfv7.md)) stands in for its thesis and two
 quoted sentences; the essay's text on textbooks, its examples and its
 account of the individual's cost are not carried.

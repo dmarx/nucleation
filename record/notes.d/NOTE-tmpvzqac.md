@@ -72,26 +72,26 @@ resemblance.
 
 ## Bearing on the record
 
-- **CLAIM-756**, corroborates the premise as interpretive and historical
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, corroborates the premise as interpretive and historical
   illustration: exemplars are acquisitions whose value is that later
   problems become tractable. Kuhn measures no cost and does not compare an
   exemplar's direct return with its effect, so nothing bears on the
   claim's reversal.
-- **TERM-131**, supports interpretively: a change in retained perceptual
+- **[TERM-131](../terms.d/TERM-131.md)**, supports interpretively: a change in retained perceptual
   organization that alters what the learner can later do, with the
   knowledge in the organization rather than in statable rules.
-- **CLAIM-758**, analogy only: a learned relation serves its environment
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, analogy only: a learned relation serves its environment
   and costs when it shifts (the Australia line); Kuhn prefers similarity
   as more flexible than rules, so the trap he names is not
   consolidation.
-- **CLAIM-754** and **TERM-117**, parallels: agreement on a formalism for
+- **[CLAIM-754](../claims.d/CLAIM-754.md)** and **[TERM-117](../terms.d/TERM-117.md)**, parallels: agreement on a formalism for
   a new problem exceeds any conjunction of past cases; an exemplar is a
   partial organization defined by what it does to later formation.
-- **THEORY-673** and **THEORY-770**: this is the primary source of the
+- **[THEORY-673](../theory.d/THEORY-673.md)** and **[THEORY-770](../theory.d/THEORY-770.md)**: this is the primary source of the
   "generalization-sketch" those readings apply to the Price equation.
-- **THEORY-1358** and **THEORY-1363** (Kemp and colleagues on learning to
+- **[THEORY-1358](../theory.d/THEORY-1358.md)** and **[THEORY-1363](../theory.d/THEORY-1363.md)** (Kemp and colleagues on learning to
   learn): a formal parallel to Kuhn's informal one.
-- **QUESTION-028**, parallel: learned clusters carry information that
+- **[QUESTION-028](../questions.d/QUESTION-028.md)**, parallel: learned clusters carry information that
   nature offers no swan-geese.
 
 ## Limitations

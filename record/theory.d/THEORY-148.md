@@ -83,7 +83,7 @@ They report this observation, that transient diversity is necessary,
 ## Note of 2026-11-19: Kuhn, read
 <!-- inactive-ok-file: THEORY-tmpg10ux — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-NOTE-564 places Zollman "against Kuhn". Structure (THEORY-tmpg10ux) needs
+[NOTE-564](../notes.d/NOTE-564.md) places Zollman "against Kuhn". Structure ([THEORY-tmpg10ux](THEORY-tmpg10ux.md)) needs
 that qualified: Kuhn himself argues that individual variability in
 applying shared values "may be the community's way of distributing risk".
 The disagreement is over whether diversity needs differences in how values

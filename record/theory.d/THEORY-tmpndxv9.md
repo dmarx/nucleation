@@ -19,7 +19,7 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmphef14 in NOTE-tmpvzqac. The exemplar account:
+  From the reading of [LIT-tmphef14](../literature.d/LIT-tmphef14.md) in [NOTE-tmpvzqac](../notes.d/NOTE-tmpvzqac.md). The exemplar account:
   prior problem-solving leaves organization that makes later problems
   tractable; interpretive and historical. Proposed until its promote_when
   is met.

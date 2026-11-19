@@ -5,7 +5,7 @@ status_note: >-
   the owner ruled on 2026-11-19 that this copy counts as lawful (curation
   entry of that date). Published 1962; the exact day is not known, so the
   first of the year stands in. Read in the 1970 second edition. Read on
-  2026-11-19 (NOTE-tmp8hiqg).
+  2026-11-19 ([NOTE-tmp8hiqg](../notes.d/NOTE-tmp8hiqg.md)).
 title: 'The Structure of Scientific Revolutions'
 version: 1
 history:
@@ -38,7 +38,7 @@ summary: >-
   some learned similarity relations, with losses as well as gains. The
   Postscript locates the paradigm in exemplars, problem-solutions from
   which students acquire a rule-free similarity relation. Read in
-  NOTE-tmp8hiqg; account THEORY-tmpg10ux.
+  [NOTE-tmp8hiqg](../notes.d/NOTE-tmp8hiqg.md); account [THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md).
 ---
 
 # LIT-tmphu623: The Structure of Scientific Revolutions

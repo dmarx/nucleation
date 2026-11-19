@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  Read as a stand-in for Kuhn's "The Essential Tension" (LIT-tmp5651k), of
+  Read as a stand-in for Kuhn's "The Essential Tension" ([LIT-tmp5651k](LIT-tmp5651k.md)), of
   which no lawful full text was found. It carries the essay's thesis and
   two of its sentences (Kuhn 1977, pp. 227 and 229), not the essay's own
   text on textbooks or its examples. The copy is undated; it cites a 2021
   work, so the first of 2021 stands in for an unknown date. Read on
-  2026-11-19 (NOTE-tmprrjn5).
+  2026-11-19 ([NOTE-tmprrjn5](../notes.d/NOTE-tmprrjn5.md)).
 title: 'Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions'
 version: 1
 history:
@@ -36,7 +36,7 @@ summary: >-
   divergent thinking: training that commits a scientist to a tradition is
   what lets research break with it, so the scientist must be "a
   traditionalist and an iconoclast". Registered as a stand-in for the
-  essay itself. Read in NOTE-tmprrjn5; account THEORY-tmptbea0.
+  essay itself. Read in [NOTE-tmprrjn5](../notes.d/NOTE-tmprrjn5.md); account [THEORY-tmptbea0](../theory.d/THEORY-tmptbea0.md).
 ---
 
 # LIT-tmpvmfv7: Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions

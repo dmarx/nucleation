@@ -111,8 +111,8 @@ pretraining ratio for a data-limited target as open.
 ## Note of 2026-11-19: Kuhn, read
 <!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-A partial historical answer from Kuhn (THEORY-tmpg10ux, and through a
-stand-in THEORY-tmptbea0): invest in the paradigm while its tools keep
+A partial historical answer from Kuhn ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md), and through a
+stand-in [THEORY-tmptbea0](../theory.d/THEORY-tmptbea0.md)): invest in the paradigm while its tools keep
 solving its problems, retool only at crisis, and keep the capacity to
 change through variable individual judgement and new entrants; deep
 investment in present competence is itself what pays for later

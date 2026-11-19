@@ -15,7 +15,7 @@ promote_when: >-
   argues convergent training is a precondition of breaking with a
   tradition, not merely compatible with it.
 summary: >-
-  From the reading of LIT-tmpvmfv7 in NOTE-tmprrjn5. Through a stand-in;
+  From the reading of [LIT-tmpvmfv7](../literature.d/LIT-tmpvmfv7.md) in [NOTE-tmprrjn5](../notes.d/NOTE-tmprrjn5.md). Through a stand-in;
   it carries the thesis and two sentences of Kuhn's essay. Proposed until
   its promote_when is met.
 ---

@@ -351,7 +351,7 @@ No status change.
 ## Note of 2026-11-19: Kuhn, read
 <!-- inactive-ok-file: THEORY-tmpg10ux — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Structure (THEORY-tmpg10ux, corroborates) is the closest historical
+Structure ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md), corroborates) is the closest historical
 illustration: a paradigm gives "a criterion for choosing problems that,
 while the paradigm is taken for granted, can be assumed to have
 solutions", rejects others as metaphysical, and can "insulate the
