@@ -196,8 +196,8 @@ The claim takes the line flourishing-and-meaning ([ADR-099](../decisions.d/ADR-0
 
 ## Note of 2026-11-19: the exchange "Topological protection explained"
 
-A cited this claim often and rightly. A54 §8 and A71 §10 predict its pattern for training: "Systems with matched present performance can have different future acquisition-cost frontiers because of how they were trained" (A71 §10). That carries the claim from support to training regimes. The claim's derivation is in CLAIM-605's model of a capacity learned by doing; whether a network's adaptability behaves like that capacity is what the prediction would test, not something the claim shows. A's empirical cases are Springer et al. 2025 on overtrained language models (LIT-tmpq5g0q) and Han et al. 2026 on weight decay and plasticity (LIT-tmpkfcwr), both registered unread.
+A cited this claim often and rightly. A54 §8 and A71 §10 predict its pattern for training: "Systems with matched present performance can have different future acquisition-cost frontiers because of how they were trained" (A71 §10). That carries the claim from support to training regimes. The claim's derivation is in [CLAIM-605](CLAIM-605.md)'s model of a capacity learned by doing; whether a network's adaptability behaves like that capacity is what the prediction would test, not something the claim shows. A's empirical cases are Springer et al. 2025 on overtrained language models ([LIT-tmpq5g0q](../literature.d/LIT-tmpq5g0q.md)) and Han et al. 2026 on weight decay and plasticity ([LIT-tmpkfcwr](../literature.d/LIT-tmpkfcwr.md)), both registered unread.
 
-A43's manuscript listed its version as a hypothesis (H4), which understates this claim: it is Active and demonstrated in its model. Two claims filed from the exchange rest on it: CLAIM-tmp8ljvp (overconsolidation) and CLAIM-tmp1l2s7 (three frontiers).
+A43's manuscript listed its version as a hypothesis (H4), which understates this claim: it is Active and demonstrated in its model. Two claims filed from the exchange rest on it: [CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md) (overconsolidation) and [CLAIM-tmp1l2s7](CLAIM-tmp1l2s7.md) (three frontiers).
 
 No status change.
