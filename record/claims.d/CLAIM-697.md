@@ -113,4 +113,4 @@ coverage, not what an unaided selector delivers.
 No status change.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): few-shot elicitation of a frozen model fits this resource-conditional disposition, with the number of demonstrations and the context window as operating budget.
+A parallel ([NOTE-2160](../notes.d/NOTE-2160.md)): few-shot elicitation of a frozen model fits this resource-conditional disposition, with the number of demonstrations and the context window as operating budget.

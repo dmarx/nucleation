@@ -48,7 +48,7 @@ MAML trains an initialization from which a few gradient steps solve a new task. 
 - Not that the same holds where test tasks need features the training tasks did not supply. The authors limit the claim to benchmark datasets.
 
 ## Note of 2026-11-19: Anguita and colleagues, read
-A parallel ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): Anguita and colleagues' lazy, pretraining-dependent regime is reuse with little adaptation, and they give the condition under which it is optimal, complete overlap of the fine-tuning task's features with the pretrained ones. An analogy, not evidence about MAML.
+A parallel ([NOTE-2159](../notes.d/NOTE-2159.md)): Anguita and colleagues' lazy, pretraining-dependent regime is reuse with little adaptation, and they give the condition under which it is optimal, complete overlap of the fine-tuning task's features with the pretrained ones. An analogy, not evidence about MAML.
 
 ## Note of 2026-11-19: Howard and Ruder, read
-Qualifies by contrast ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): in Howard and Ruder's LSTM text setting pure reuse of frozen features "severely underfits"; adaptation needs the whole body changed, gradually.
+Qualifies by contrast ([NOTE-2141](../notes.d/NOTE-2141.md)): in Howard and Ruder's LSTM text setting pure reuse of frozen features "severely underfits"; adaptation needs the whole body changed, gradually.

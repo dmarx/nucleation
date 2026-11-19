@@ -1,13 +1,13 @@
-<!-- inactive-ok-file: CASE-tmp6idy5 QUESTION-tmpiualy CLAIM-tmpkcdfh CLAIM-tmpitvrh SYNTHESIS-107 — Proposed or Open; filed in this contribution of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-297 QUESTION-496 CLAIM-764 CLAIM-763 SYNTHESIS-107 — Proposed or Open; filed in this contribution of 2026-11-19 -->
 ### Added
 
 - The follow-up turns of the exchange "Topological protection
   explained" (U34 to U39), with the curation entry of 2026-11-19,
   192325: the owner's Reddit case of communities forming subcommunities
-  ([CASE-tmp6idy5](record/cases.d/CASE-tmp6idy5.md)) and the owner's 2017 map post, read; the owner's
-  question of how to triage open questions ([QUESTION-tmpiualy](record/questions.d/QUESTION-tmpiualy.md)) and claim
-  that experiment is not the only way to advance them ([CLAIM-tmpkcdfh](record/claims.d/CLAIM-tmpkcdfh.md));
-  ChatGPT's triage procedure ([CLAIM-tmpitvrh](record/claims.d/CLAIM-tmpitvrh.md)); four works registered
+  ([CASE-297](record/cases.d/CASE-297.md)) and the owner's 2017 map post, read; the owner's
+  question of how to triage open questions ([QUESTION-496](record/questions.d/QUESTION-496.md)) and claim
+  that experiment is not the only way to advance them ([CLAIM-764](record/claims.d/CLAIM-764.md));
+  ChatGPT's triage procedure ([CLAIM-763](record/claims.d/CLAIM-763.md)); four works registered
   Deferred; dated notes on eleven entries.
 
 ### Changed

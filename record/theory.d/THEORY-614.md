@@ -157,4 +157,4 @@ ratios ([LIT-797](../literature.d/LIT-797.md), Appendix B), is still neither rea
 corroboration, not as a ground.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): a theory of the recognition end of Brown and colleagues' spectrum, with GPT-3's few-shot behaviour the phenomenon explained.
+A parallel ([NOTE-2160](../notes.d/NOTE-2160.md)): a theory of the recognition end of Brown and colleagues' spectrum, with GPT-3's few-shot behaviour the phenomenon explained.

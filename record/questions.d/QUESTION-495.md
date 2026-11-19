@@ -91,19 +91,19 @@ Hospedales, Antoniou, Micaelli and Storkey ([THEORY-2034](../theory.d/THEORY-203
 No status change.
 
 ## Note of 2026-11-19: follow-up turns of "Topological protection explained"
-<!-- inactive-ok-file: CLAIM-tmpitvrh — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-763 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
-ChatGPT (A84) ranks this question foundational in its triage ([CLAIM-tmpitvrh](../claims.d/CLAIM-tmpitvrh.md)), as philosophical and decision-theoretic analysis of the evaluative standard. The questions it adds: "Should a learner preserve future adaptability even when its expected instrumental value is currently low?"; "Is the ability to acquire further capabilities intrinsically valuable or merely instrumentally useful?"; and which future possibilities must remain open for learning to count as "flourishing, autonomous, or well-governed". A next advance without an experiment: "Show which assumptions are necessary for a scalar optimum to exist". It also applies the question to the record itself: research triage faces the same problem ([CLAIM-tmpitvrh](../claims.d/CLAIM-tmpitvrh.md)).
+ChatGPT (A84) ranks this question foundational in its triage ([CLAIM-763](../claims.d/CLAIM-763.md)), as philosophical and decision-theoretic analysis of the evaluative standard. The questions it adds: "Should a learner preserve future adaptability even when its expected instrumental value is currently low?"; "Is the ability to acquire further capabilities intrinsically valuable or merely instrumentally useful?"; and which future possibilities must remain open for learning to count as "flourishing, autonomous, or well-governed". A next advance without an experiment: "Show which assumptions are necessary for a scalar optimum to exist". It also applies the question to the record itself: research triage faces the same problem ([CLAIM-763](../claims.d/CLAIM-763.md)).
 
 ## Note of 2026-11-19: the pretraining works, read
-Two readings bear on the worry that the value of learning cannot be specified in advance. McDermott and colleagues ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)) give a partial criterion: a later task benefits from pre-training as far as it is smooth over the structure pre-training induced, so given that structure, which unknown tasks will benefit is partly predictable. Anguita and colleagues ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)) show a pretraining-time choice, the initialization's scales, whose value appears only at fine-tuning and depends on which task comes. Analogies to the question's object; no answer.
+Two readings bear on the worry that the value of learning cannot be specified in advance. McDermott and colleagues ([NOTE-2138](../notes.d/NOTE-2138.md)) give a partial criterion: a later task benefits from pre-training as far as it is smooth over the structure pre-training induced, so given that structure, which unknown tasks will benefit is partly predictable. Anguita and colleagues ([NOTE-2159](../notes.d/NOTE-2159.md)) show a pretraining-time choice, the initialization's scales, whose value appears only at fine-tuning and depends on which task comes. Analogies to the question's object; no answer.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
-<!-- inactive-ok-file: THEORY-tmpsewbi — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2081 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) give a narrow empirical case where
+Stern and colleagues ([THEORY-2081](../theory.d/THEORY-2081.md)) give a narrow empirical case where
 investing in later learnability does not pay at matched compute except in
 very data-poor additive settings. Hernandez and colleagues
-([THEORY-tmp1mk7r](../theory.d/THEORY-tmp1mk7r.md)) propose using their transfer exponent to choose between
+([THEORY-2059](../theory.d/THEORY-2059.md)) propose using their transfer exponent to choose between
 collecting more fine-tuning data and growing the model, and list the ideal
 pretraining ratio for a data-limited target as open.

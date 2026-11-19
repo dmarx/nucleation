@@ -120,14 +120,14 @@ A's fourth synthesis adds two refinements. Productivity is a vector over targets
 No status changes.
 
 ## Note of 2026-11-19: Hu, Petty, Shi, Merrill and Linzen, read
-An application of the term ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)): a declared target (the no-first-phase baseline's final loss), comparators (no first phase, random strings, natural language), a horizon, and productivity as timeliness. The formal-language first phase passes the interventional test as a whole; the heads identified by pruning do not, since their evidence is a post-hoc ablation, the kind of association the term says is not enough. The first phase's optimal duration and the copy language's harm fit the term's point that a nucleus can promote one form while obstructing another.
+An application of the term ([NOTE-2157](../notes.d/NOTE-2157.md)): a declared target (the no-first-phase baseline's final loss), comparators (no first phase, random strings, natural language), a horizon, and productivity as timeliness. The formal-language first phase passes the interventional test as a whole; the heads identified by pruning do not, since their evidence is a post-hoc ablation, the kind of association the term says is not enough. The first phase's optimal duration and the copy language's harm fit the term's point that a nucleus can promote one form while obstructing another.
 
 ## Note of 2026-11-19: the scheduling follow-up readings, read
-<!-- inactive-ok-file: THEORY-tmpq9sev — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2078 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Applications from the follow-up readings: in the procedural paper
-([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) productivity is a vector over targets (one procedure raises
+([THEORY-2075](../theory.d/THEORY-2075.md)) productivity is a vector over targets (one procedure raises
 multiplication and collapses sorting), the first phase has an optimal
 length, and shuffled data or weights remove the effect, an interventional
-test; Petty and colleagues ([THEORY-tmpq9sev](../theory.d/THEORY-tmpq9sev.md)) find code promotes formal-
+test; Petty and colleagues ([THEORY-2078](../theory.d/THEORY-2078.md)) find code promotes formal-
 output composition and obstructs natural-language transduction. Analogies.

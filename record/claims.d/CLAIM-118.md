@@ -209,4 +209,4 @@ Lu and Kankanhalli ([THEORY-2023](../theory.d/THEORY-2023.md)), read: a LoRA ski
 No status change.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-A parallel, close to evidence ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): Brown and colleagues' in-context learning is the signal side of this claim's distinction; the demonstrations supply signal, and the pretrained weights the interpreter.
+A parallel, close to evidence ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and colleagues' in-context learning is the signal side of this claim's distinction; the demonstrations supply signal, and the pretrained weights the interpreter.

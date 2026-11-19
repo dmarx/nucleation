@@ -115,4 +115,4 @@ Until such an estimate is read, that differences which began as noise
 became real is the paper's argument from interviews.
 
 ## Note of 2026-11-19: Krohn and Weninger, read
-A parallel ([NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md)): self-fulfilling reference on Reddit, where naming a community that does not exist is sometimes followed by its creation.
+A parallel ([NOTE-2140](../notes.d/NOTE-2140.md)): self-fulfilling reference on Reddit, where naming a community that does not exist is sometimes followed by its creation.

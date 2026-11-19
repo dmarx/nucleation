@@ -395,7 +395,7 @@ before filing anything.
     it only restates an entry the record already holds.
   - A proposed test, reading, construction or study goes in as a LEAD
     that `advances` the question or claim it bears on, at stage `idea`
-    unless it is worked out (ADR-tmpv2wkk); a dated note may name it.
+    unless it is worked out (ADR-109); a dated note may name it.
 - **The curation entry gets a section** listing them, and the changelog
   fragment a line.
 

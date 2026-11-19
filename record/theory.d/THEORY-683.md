@@ -87,4 +87,4 @@ across sizes. Neither happened.
   works for one model does not for another.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-Qualifies ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): Brown and colleagues' few-shot results are sensitive to example order, as this account shows up to the same 175B model, which bears on how reliably a level is reached in context.
+Qualifies ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and colleagues' few-shot results are sensitive to example order, as this account shows up to the same 175B model, which bears on how reliably a level is reached in context.

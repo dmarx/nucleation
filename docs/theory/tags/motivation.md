@@ -6,7 +6,7 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-59 of 2056 THEORY documents. Back to the [full index](../README.md).
+59 of 2084 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -115,4 +115,4 @@ Pan and colleagues ([THEORY-2039](THEORY-2039.md)), read: qualifies this reading
 No status change.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-Qualifies Brown and colleagues' results ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): on classification much of the few-shot gain is format and label-space recognition, the recognition end of the spectrum they leave open. Their synthetic tasks are not tested here.
+Qualifies Brown and colleagues' results ([NOTE-2160](../notes.d/NOTE-2160.md)): on classification much of the few-shot gain is format and label-space recognition, the recognition end of the spectrum they leave open. Their synthetic tasks are not tested here.

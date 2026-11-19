@@ -134,4 +134,4 @@ Tandon and colleagues ([THEORY-2049](THEORY-2049.md)), read: qualifies the non-i
 No status change.
 
 ## Note of 2026-11-19: Brown and colleagues, read
-Qualifies ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): demonstrations used as context and as gradient signal are not interchangeable, the comparison Brown and colleagues leave to future work ("we do not fine-tune GPT-3").
+Qualifies ([NOTE-2160](../notes.d/NOTE-2160.md)): demonstrations used as context and as gradient signal are not interchangeable, the comparison Brown and colleagues leave to future work ("we do not fine-tune GPT-3").

@@ -50,4 +50,4 @@ In the survey's framing, active learning lets the learner pose queries, usually 
 - It does not quantify how often active learning fails.
 
 ## Note of 2026-11-19: Howard and Ruder, read
-A parallel ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): Howard and Ruder use the same measure of labels needed to reach a level, by transfer rather than by choosing which examples to label.
+A parallel ([NOTE-2141](../notes.d/NOTE-2141.md)): Howard and Ruder use the same measure of labels needed to reach a level, by transfer rather than by choosing which examples to label.
