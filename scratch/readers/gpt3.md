@@ -23,3 +23,10 @@
 - Fig. 3.8 (p. 20): at 125M few-shot (K=32) scores below one-shot. LAMBADA §3.1.2: few-shot "decreases the performance of the smallest model by almost 20%".
 - Appendix B: all sizes 300B tokens, cosine LR decay; pretraining amount is never varied. No untrained or non-pretrained baseline; no fine-tuning of GPT-3.
 - Open doubt: "scale" here is parameters/compute at fixed data, so it shows larger pretrained models adapt in context with fewer examples, not that more pretraining of one learner lowers cost.
+
+## Step 4: bearings searched, quotes checked
+- Not held: no LIT carries 2005.14165. Only the lead and CLAIM-756's notes point to the work.
+- Bearings: CLAIM-756 (weak instance, cross-model), CLAIM-754 (ICL as a route of the developmental frontier vs operational elicitation), CLAIM-758 (no time course), TERM-131 (authors: no weight updates; inner loop in activations; agnostic on learning vs recognition), QUESTION-493 (background), CASE-294 (A56 ICL arm; recognition controls).
+- Related readings: THEORY-2039 (Pan: recognition vs learning, scale), THEORY-2037 (MetaICL), THEORY-2052 (Garg), THEORY-2050 (Akyürek), THEORY-496 (Min), THEORY-683 (order), THEORY-614 (Xie), THEORY-169 (conditioning = training), THEORY-439 (ICL vs TTT), THEORY-2042, THEORY-973/990; CLAIM-118, CLAIM-074, CLAIM-697, QUESTION-020, QUESTION-161, CASE-005.
+- All 45 quotes rechecked by script against my extracted text: all found.
+- Verdict on the lead: it says Brown "measure how few examples in context reach a level"; they plot accuracy against K and by size; K-to-a-level is readable from Fig. 1.2 only by eye, for one task, and size varies at fixed 300B tokens, so "due to pretraining" is not isolated.
