@@ -19,6 +19,8 @@ summary: >-
   [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md) is its only witness. Both critical questions are
   answered. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
+uses:
+- TERM-tmp1ix99
 ---
 <!-- inactive-ok-file: CASE-tmpplox8 — Proposed; cited in this filing of 2026-11-19 -->
 

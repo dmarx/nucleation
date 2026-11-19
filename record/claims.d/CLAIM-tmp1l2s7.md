@@ -25,6 +25,7 @@ rests_on:
 - CLAIM-475
 uses:
 - TERM-092
+- TERM-tmp1ix99
 complements:
 - CLAIM-576
 - CLAIM-tmp8ljvp

@@ -38,6 +38,8 @@ summary: >-
   three conditions describe a network's capacity to acquire, which nothing
   on record shows. Its test is an arm of [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+uses:
+- TERM-tmp1ix99
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-tmp8ljvp THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 

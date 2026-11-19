@@ -45,6 +45,8 @@ summary: >-
   held the trajectory form for support ([CLAIM-675](CLAIM-675.md)), plasticity loss as a
   reading ([THEORY-1353](../theory.d/THEORY-1353.md)) and the RL case in pass@k terms ([CLAIM-695](CLAIM-695.md)); it
   held no general claim for training.
+uses:
+- TERM-tmp1ix99
 ---
 <!-- inactive-ok-file: LIT-tmpco2kf LIT-tmpkfcwr LIT-tmpm4bnq LIT-tmpq5g0q — Deferred; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-695 CLAIM-tmp1l2s7 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
