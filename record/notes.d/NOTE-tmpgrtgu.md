@@ -22,7 +22,7 @@ summary: >-
   the explicandum, exactly characterized, fruitful and as simple as the
   other three permit.
 ---
-<!-- inactive-ok-file: ADR-tmptwlsg ARG-tmp23khr TERM-tmp1ix99 — Proposed; filed alongside this reading -->
+<!-- inactive-ok-file: ADR-tmptwlsg ARG-tmp23khr — Proposed; filed alongside this reading -->
 
 # NOTE-tmpgrtgu: Carnap — Logical Foundations of Probability, chapter I on explication
 
@@ -30,7 +30,7 @@ summary: >-
 
 The classic statement of explication as a method, and of the four
 requirements an explicatum must meet. It is the source the record's
-secondary account (THEORY-1797, from the SEP entry) reports.
+secondary account ([THEORY-1797](../theory.d/THEORY-1797.md), from the SEP entry) reports.
 
 ## Key results
 
@@ -82,11 +82,11 @@ statable. That transfer is the record's, not Carnap's.
 
 ## Bearing on the record
 
-Gives the explication form (ADR-tmptwlsg) its primary source, and
+Gives the explication form ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)) its primary source, and
 sharpens two of its critical questions. Similarity is loose: a definition
 may exclude paradigm cases of the old word if fruitfulness pays for it,
 so "do the paradigm cases fall on the right side?" should ask whether each
 departure is paid for. And a separate step comes first: the explicandum,
 what "learning" was meant to cover and not cover, must be made clear by
-examples before a definition can be judged. Bears on ARG-tmp23khr and
-CLAIM-472.
+examples before a definition can be judged. Bears on [ARG-tmp23khr](../arguments.d/ARG-tmp23khr.md) and
+[CLAIM-472](../claims.d/CLAIM-472.md).

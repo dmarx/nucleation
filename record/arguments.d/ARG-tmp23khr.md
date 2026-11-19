@@ -58,8 +58,8 @@ what the record's claims about learning need.
 
 ## Critical questions
 
-Asked as Carnap's requirements for an explicatum (THEORY-tmpai35t), in
-the form ADR-tmptwlsg gives them.
+Asked as Carnap's requirements for an explicatum ([THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md)), in
+the form [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) gives them.
 
 - **Is the explicandum clear, by examples of uses meant and not meant?**
   Mostly, by the term's own examples. Meant: training, will-organization,
