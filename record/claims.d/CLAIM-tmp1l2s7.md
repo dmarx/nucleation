@@ -88,14 +88,14 @@ Tested at the synthesis review of 2026-11-19, because its premises are
 claims and it could be only their account. What it adds, in one
 sentence: for a learner's own training, and not only for support given
 to a party, the frontier of what can still be acquired varies apart from
-present competence. Its premises leave that open: CLAIM-675 is
-demonstrated for support that does a party's work, CLAIM-569 for forms
-in general, CLAIM-697 for elicitation of a fixed system. It passes as a
+present competence. Its premises leave that open: [CLAIM-675](CLAIM-675.md) is
+demonstrated for support that does a party's work, [CLAIM-569](CLAIM-569.md) for forms
+in general, [CLAIM-697](CLAIM-697.md) for elicitation of a fixed system. It passes as a
 discriminating prediction. Within one training run of one architecture,
 checkpoints with equal operational frontiers on a declared family of
 familiar tasks will differ in the budget they need to acquire held-out
 task families. The outcome against it is acquisition cost fixed by
-present performance across checkpoints. CASE-tmphsr99 measures exactly
+present performance across checkpoints. [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) measures exactly
 this.
 
 ## The stronger reading it invites and does not support

@@ -118,7 +118,7 @@ is integrated again.*
   producing the constraints that would regenerate it does not show
   organizational closure".
 
-- **Added 2026-11-19:** SYNTHESIS-tmphvng7, the account of stored work and the cost structure of possibility (the owner-endorsed CLAIM-tmpqpd2p and the claims around it).
+- **Added 2026-11-19:** [SYNTHESIS-tmphvng7](SYNTHESIS-tmphvng7.md), the account of stored work and the cost structure of possibility (the owner-endorsed [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) and the claims around it).
 
 ## Where they meet
 

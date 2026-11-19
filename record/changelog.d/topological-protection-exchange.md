@@ -45,8 +45,8 @@
   owner's fibration hunch ([CLAIM-tmpj540o](record/claims.d/CLAIM-tmpj540o.md)), which holds only where the
   relabelling group permutes units, and corrects [QUESTION-tmpex36a](record/questions.d/QUESTION-tmpex36a.md).
 - Three new part accounts at the synthesis review of 2026-11-19: how an
-  equivalence becomes a unit (SYNTHESIS-tmplih4n, formal-apparatus);
-  stored work and the cost structure of possibility (SYNTHESIS-tmphvng7,
+  equivalence becomes a unit ([SYNTHESIS-tmplih4n](record/syntheses.d/SYNTHESIS-tmplih4n.md), formal-apparatus);
+  stored work and the cost structure of possibility ([SYNTHESIS-tmphvng7](record/syntheses.d/SYNTHESIS-tmphvng7.md),
   realizability); what learning does to what can still be learned
-  (SYNTHESIS-tmpfhzxg, learned-structure). The line accounts
-  SYNTHESIS-088, SYNTHESIS-043 and SYNTHESIS-030 integrate them.
+  ([SYNTHESIS-tmpfhzxg](record/syntheses.d/SYNTHESIS-tmpfhzxg.md), learned-structure). The line accounts
+  [SYNTHESIS-088](record/syntheses.d/SYNTHESIS-088.md), [SYNTHESIS-043](record/syntheses.d/SYNTHESIS-043.md) and [SYNTHESIS-030](record/syntheses.d/SYNTHESIS-030.md) integrate them.

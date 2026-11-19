@@ -143,7 +143,7 @@ integrated.*
 - **Random projections and sparse recovery ([SYNTHESIS-085](SYNTHESIS-085.md)), 3 entries.** [QUESTION-120](../questions.d/QUESTION-120.md), [QUESTION-168](../questions.d/QUESTION-168.md) and [QUESTION-251](../questions.d/QUESTION-251.md).
 - **Coarse-graining and renormalization ([SYNTHESIS-084](SYNTHESIS-084.md)), 3 entries.** [QUESTION-185](../questions.d/QUESTION-185.md), [QUESTION-205](../questions.d/QUESTION-205.md) and [QUESTION-232](../questions.d/QUESTION-232.md), all open.
 
-- **Added 2026-11-19:** SYNTHESIS-tmplih4n, the account of how an equivalence becomes a unit (the owner's U10 hypothesis, CLAIM-tmpw8xkt, with the owner's genres example and fibration hunch).
+- **Added 2026-11-19:** [SYNTHESIS-tmplih4n](SYNTHESIS-tmplih4n.md), the account of how an equivalence becomes a unit (the owner's U10 hypothesis, [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md), with the owner's genres example and fibration hunch).
 
 ## Integrated directly
 

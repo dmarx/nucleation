@@ -39,11 +39,11 @@ summary: >-
   The account of the part of the realizability line on stored work, which
   the exchange "Topological protection explained" (2026-11-18 to 19)
   joined up. Its hinge is the thesis the owner endorsed at U17
-  (CLAIM-tmpqpd2p): constraint as amortized realization, the owner's
+  ([CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md)): constraint as amortized realization, the owner's
   "tradeoff between memory (amortizing a value) and computation
-  (rederiving it just in time)", which the owner's conjecture QUESTION-095
-  had posed on 2026-10-15. The pieces were on record before (CLAIM-303,
-  CLAIM-475, CLAIM-582, CLAIM-443, CLAIM-571); the exchange added the
+  (rederiving it just in time)", which the owner's conjecture [QUESTION-095](../questions.d/QUESTION-095.md)
+  had posed on 2026-10-15. The pieces were on record before ([CLAIM-303](../claims.d/CLAIM-303.md),
+  [CLAIM-475](../claims.d/CLAIM-475.md), [CLAIM-582](../claims.d/CLAIM-582.md), [CLAIM-443](../claims.d/CLAIM-443.md), [CLAIM-571](../claims.d/CLAIM-571.md)); the exchange added the
   join and three claims around it. It maps the components and adds
   nothing. Filed at the owner's request of 2026-11-19.
 ---
@@ -53,70 +53,70 @@ summary: >-
 
 ## The account
 
-- **The question.** QUESTION-095 (the owner's; Open): is leaving a result
+- **The question.** [QUESTION-095](../questions.d/QUESTION-095.md) (the owner's; Open): is leaving a result
   where it can be cheaply retrieved the same trade as amortizing
-  computation? QUESTION-114 (Open) asks it of sorting and physical
+  computation? [QUESTION-114](../questions.d/QUESTION-114.md) (Open) asks it of sorting and physical
   database design.
-- **The accounting.** CLAIM-303 (A's, at the owner's request; Active):
+- **The accounting.** [CLAIM-303](../claims.d/CLAIM-303.md) (A's, at the owner's request; Active):
   stored work is paid now against reconstruction later, worth it when
-  reuse covers it. CLAIM-475 (the owner's; Active): a stabilized
+  reuse covers it. [CLAIM-475](../claims.d/CLAIM-475.md) (the owner's; Active): a stabilized
   specification is stored inquiry, making later questions cheaper to ask
   and others harder.
-- **The thesis.** CLAIM-tmpqpd2p (the owner's thesis, A's wording;
-  Proposed) rests on CLAIM-303, CLAIM-475 and CLAIM-582. Under a per-task
+- **The thesis.** [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) (the owner's thesis, A's wording;
+  Proposed) rests on [CLAIM-303](../claims.d/CLAIM-303.md), [CLAIM-475](../claims.d/CLAIM-475.md) and [CLAIM-582](../claims.d/CLAIM-582.md). Under a per-task
   budget, stored work can move a task across the budget line before it has
-  repaid its cost, which its body ties to CLAIM-571's threshold as a peak,
+  repaid its cost, which its body ties to [CLAIM-571](../claims.d/CLAIM-571.md)'s threshold as a peak,
   not a total.
-- **Its guards.** CLAIM-582 (Active, demonstrated): an added hard
+- **Its guards.** [CLAIM-582](../claims.d/CLAIM-582.md) (Active, demonstrated): an added hard
   constraint under a fixed mechanism enlarges nothing, so a constraint
-  that lowers a cost has changed the mechanism; CLAIM-tmpqpd2p is about
-  those. CLAIM-443 (Active): persistence is not amortization.
-- **Two separations.** CLAIM-tmp449rr (A's; Proposed, demonstrated, argued
-  in ARG-tmpy9z67 from CASE-116): a slow variable can save no work, and a
+  that lowers a cost has changed the mechanism; [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) is about
+  those. [CLAIM-443](../claims.d/CLAIM-443.md) (Active): persistence is not amortization.
+- **Two separations.** [CLAIM-tmp449rr](../claims.d/CLAIM-tmp449rr.md) (A's; Proposed, demonstrated, argued
+  in [ARG-tmpy9z67](../arguments.d/ARG-tmpy9z67.md) from [CASE-116](../cases.d/CASE-116.md)): a slow variable can save no work, and a
   reused result need not be an attractor, so economic separation is not
-  CLAIM-478's dynamical one. CLAIM-475's note of 2026-11-19 corrects its
+  [CLAIM-478](../claims.d/CLAIM-478.md)'s dynamical one. [CLAIM-475](../claims.d/CLAIM-475.md)'s note of 2026-11-19 corrects its
   summary's identification of the two.
-- **Investment across acquisitions.** CLAIM-tmp5gbzr (A's with the filer's
-  numbers; Proposed, demonstrated by ARG-tmpm8rng from CASE-tmpplox8): an
+- **Investment across acquisitions.** [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md) (A's with the filer's
+  numbers; Proposed, demonstrated by [ARG-tmpm8rng](../arguments.d/ARG-tmpm8rng.md) from [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md)): an
   acquisition with a loss on its own tasks can belong to the best policy
-  because it cuts another's cost; in TERM-117's terms it is a productive
-  nucleus for the second. CLAIM-569 (Active) holds that acquiring and
-  keeping a form cost differently, and CLAIM-605 (Active) the one-capacity
+  because it cuts another's cost; in [TERM-117](../terms.d/TERM-117.md)'s terms it is a productive
+  nucleus for the second. [CLAIM-569](../claims.d/CLAIM-569.md) (Active) holds that acquiring and
+  keeping a form cost differently, and [CLAIM-605](../claims.d/CLAIM-605.md) (Active) the one-capacity
   case with a threshold.
-- **Whose work.** CLAIM-tmpkrk41 (A's, at the owner's request; Proposed)
-  rests on CLAIM-303: a fall in one party's cost may be work transferred,
+- **Whose work.** [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md) (A's, at the owner's request; Proposed)
+  rests on [CLAIM-303](../claims.d/CLAIM-303.md): a fall in one party's cost may be work transferred,
   and saved, transferred and expanded are separate achievements. Whether
-  newly affordable operations widen freedom is CLAIM-352's question (the
-  owner's; Active), which CLAIM-tmpqpd2p leaves open.
+  newly affordable operations widen freedom is [CLAIM-352](../claims.d/CLAIM-352.md)'s question (the
+  owner's; Active), which [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) leaves open.
 
 ## The components
 
-- QUESTION-095, the owner's, Open; QUESTION-114, Open.
-- CLAIM-303, A's at the owner's request, interpretive, Active.
-- CLAIM-475, the owner's, interpretive, Active.
-- CLAIM-tmpqpd2p, the owner's thesis in A's wording, interpretive,
+- [QUESTION-095](../questions.d/QUESTION-095.md), the owner's, Open; [QUESTION-114](../questions.d/QUESTION-114.md), Open.
+- [CLAIM-303](../claims.d/CLAIM-303.md), A's at the owner's request, interpretive, Active.
+- [CLAIM-475](../claims.d/CLAIM-475.md), the owner's, interpretive, Active.
+- [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md), the owner's thesis in A's wording, interpretive,
   Proposed.
-- CLAIM-582 and CLAIM-571, demonstrated, Active.
-- CLAIM-443, interpretive, Active.
-- CLAIM-tmp449rr, A's, demonstrated, Proposed; ARG-tmpy9z67, Proposed;
-  CASE-116, Active.
-- CLAIM-tmp5gbzr, A's, demonstrated, Proposed; CASE-tmpplox8 and
-  ARG-tmpm8rng, the assistant's, Proposed.
-- TERM-117, Active.
-- CLAIM-569 and CLAIM-605, demonstrated, Active.
-- CLAIM-tmpkrk41, A's, interpretive, Proposed.
-- CLAIM-352, the owner's, interpretive, Active.
+- [CLAIM-582](../claims.d/CLAIM-582.md) and [CLAIM-571](../claims.d/CLAIM-571.md), demonstrated, Active.
+- [CLAIM-443](../claims.d/CLAIM-443.md), interpretive, Active.
+- [CLAIM-tmp449rr](../claims.d/CLAIM-tmp449rr.md), A's, demonstrated, Proposed; [ARG-tmpy9z67](../arguments.d/ARG-tmpy9z67.md), Proposed;
+  [CASE-116](../cases.d/CASE-116.md), Active.
+- [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md), A's, demonstrated, Proposed; [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md) and
+  [ARG-tmpm8rng](../arguments.d/ARG-tmpm8rng.md), the assistant's, Proposed.
+- [TERM-117](../terms.d/TERM-117.md), Active.
+- [CLAIM-569](../claims.d/CLAIM-569.md) and [CLAIM-605](../claims.d/CLAIM-605.md), demonstrated, Active.
+- [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md), A's, interpretive, Proposed.
+- [CLAIM-352](../claims.d/CLAIM-352.md), the owner's, interpretive, Active.
 
 ## Not stated on the record
 
-- **That QUESTION-095 is answered.** CLAIM-tmpqpd2p says what stored work
+- **That [QUESTION-095](../questions.d/QUESTION-095.md) is answered.** [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) says what stored work
   does to a budget; no entry says that cheap retrieval and amortized
   computation are the same trade.
 - **A's conjecture that productive constraints usually have both
-  separations** (A39 §3): CLAIM-tmp449rr leaves it open.
+  separations** (A39 §3): [CLAIM-tmp449rr](../claims.d/CLAIM-tmp449rr.md) leaves it open.
 
 ## What it does not say
 
 That every emergent organization is such an investment
-(CLAIM-tmpqpd2p's stronger reading), or that a transfer of work is
-wrongful (CLAIM-tmpkrk41's).
+([CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md)'s stronger reading), or that a transfer of work is
+wrongful ([CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md)'s).

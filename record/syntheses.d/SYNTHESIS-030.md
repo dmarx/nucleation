@@ -128,7 +128,7 @@ bears_on:
   readers and cues; RL as amortized search; telling loss from
   inaccessibility.
 
-- **Added 2026-11-19:** SYNTHESIS-tmpfhzxg, the account of what learning is and what it does to what can still be learned (CLAIM-tmp1l2s7, the owner's overconsolidation, CLAIM-tmp8ljvp, and the owner's questions on optimal learning and knowing).
+- **Added 2026-11-19:** [SYNTHESIS-tmpfhzxg](SYNTHESIS-tmpfhzxg.md), the account of what learning is and what it does to what can still be learned ([CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md), the owner's overconsolidation, [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md), and the owner's questions on optimal learning and knowing).
 
 ## Where the parts meet
 
