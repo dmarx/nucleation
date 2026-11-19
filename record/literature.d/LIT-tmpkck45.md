@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Chapter I, sections 2 and 3, read on 2026-11-19 (NOTE-tmpgrtgu); the rest of the
+  Chapter I, sections 2 and 3, read on 2026-11-19 ([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)); the rest of the
   book not read. Filed at the owner's request as the primary source for
   the explication form's critical questions.
 title: 'Logical Foundations of Probability'
@@ -31,8 +31,8 @@ summary: >-
   states what an explication is and what makes one adequate: an exact
   explicatum replacing an inexact explicandum, judged as more or less
   satisfactory rather than right or wrong, by similarity, exactness,
-  fruitfulness and simplicity. Read for those sections in NOTE-tmpgrtgu; its account
-  is THEORY-tmpai35t. The primary source for LIT-2322's account (THEORY-1797) of the
+  fruitfulness and simplicity. Read for those sections in [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md); its account
+  is [THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md). The primary source for [LIT-2322](LIT-2322.md)'s account ([THEORY-1797](../theory.d/THEORY-1797.md)) of the
   four desiderata.
 ---
 
@@ -45,4 +45,4 @@ University of Chicago Press.
 
 Read in part on 2026-11-19 (chapter I, sections 2 and 3) at the owner's
 request, as the source of the explication form's critical questions
-(ADR-tmptwlsg). The rest of the book, on inductive logic, is not read.
+([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)). The rest of the book, on inductive logic, is not read.

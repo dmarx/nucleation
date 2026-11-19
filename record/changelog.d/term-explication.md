@@ -9,8 +9,8 @@
   than a definition by improved performance, with two questions answered
   only in part.
 - Carnap's *Logical Foundations of Probability* (1950), registered and
-  its chapter on explication read at the owner's request (LIT-tmpkck45,
-  NOTE-tmpgrtgu, THEORY-tmpai35t), as the provenance of the explication
+  its chapter on explication read at the owner's request ([LIT-tmpkck45](record/literature.d/LIT-tmpkck45.md),
+  [NOTE-tmpgrtgu](record/notes.d/NOTE-tmpgrtgu.md), [THEORY-tmpai35t](record/theory.d/THEORY-tmpai35t.md)), as the provenance of the explication
   form's critical questions. The reading adds a question, whether the
   explicandum is clear by examples, and loosens similarity to allow
   departures paid for by fruitfulness.

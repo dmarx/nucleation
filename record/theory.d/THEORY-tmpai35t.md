@@ -16,9 +16,9 @@ promote_when: >-
 corroborates:
 - CLAIM-472
 summary: >-
-  From the reading of LIT-tmpkck45 in NOTE-tmpgrtgu. The primary source for the four
-  desiderata THEORY-1797 reports from the SEP entry, and for the
-  explication form's critical questions (ADR-tmptwlsg). Proposed until its
+  From the reading of [LIT-tmpkck45](../literature.d/LIT-tmpkck45.md) in [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md). The primary source for the four
+  desiderata [THEORY-1797](THEORY-1797.md) reports from the SEP entry, and for the
+  explication form's critical questions ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)). Proposed until its
   promote_when is met.
 ---
 <!-- inactive-ok-file: ADR-tmptwlsg THEORY-1797 — Proposed; the decision this reading grounds and the secondary account it backs -->
