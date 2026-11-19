@@ -12,7 +12,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from Nature Neuroscience, doi
+    (LEAD-006), from Nature Neuroscience, doi
     10.1038/s41593-024-01668-6 (CC BY 4.0), through the Europe PMC full-text
     interface for PMC11239504 (ADR-101); the date from Crossref. Not held
     before; the identifier checked on the arXiv API.
@@ -45,4 +45,4 @@ Laura N. Driscoll, Krishna Shenoy and David Sussillo (2024). "Flexible multitask
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

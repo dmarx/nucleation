@@ -19,7 +19,7 @@ summary: >-
   compose new facts. Organizations compared, not matched; no intervention;
   single runs.
 ---
-<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-754 CLAIM-756 LEAD-tmpadknn — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: LEAD-006 CLAIM-754 CLAIM-756 LEAD-004 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpvars9: He and colleagues — Is Grokking Worthwhile? Functional Analysis and Transferability of Generalization Circuits in Transformers
 
@@ -50,7 +50,7 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmphfbq0**, the closest to its part (b): a circuit and a shortcut,
+- **LEAD-006**, the closest to its part (b): a circuit and a shortcut,
   each followed into a later acquisition, with the organization predicting
   the later curve; the shortcut has higher first-stage accuracy and learns
   worse later. No intervention, no cost number, single runs. A testbed for
@@ -62,7 +62,7 @@ summary: >-
   acquisition, not first-stage accuracy; no costs.
 - **CLAIM-519**, supports: the same behaviour with different internal
   paths; the paper's own mechanism evidence is observational.
-- **LEAD-tmpadknn**, background: a case of similar present competence
+- **LEAD-004**, background: a case of similar present competence
   with different later acquisition.
 - **CLAIM-758**, qualifies weakly: longer training (grokking) does not raise
   later cost here.

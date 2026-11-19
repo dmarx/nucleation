@@ -22,7 +22,7 @@ summary: >-
   removes the saving. One kind of learner; the representation itself is
   not ablated.
 ---
-<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: LEAD-006 CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpk8fli: Goudar and colleagues — Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving
 
@@ -50,7 +50,7 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmphfbq0**, partial: (a) trials to criterion with and without
+- **LEAD-006**, partial: (a) trials to criterion with and without
   earlier learning; (c) by readout perturbation, the representation left
   intact; not (b), one kind of learner. The shared structure is the trial
   structure and response set; later rules are new stimulus mappings.

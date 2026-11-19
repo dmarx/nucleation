@@ -12,7 +12,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from arXiv 2601.09049v1 (PDF). Not held before; the
+    (LEAD-006), from arXiv 2601.09049v1 (PDF). Not held before; the
     identifier checked on the arXiv API.
 tags:
 - compositionality
@@ -43,4 +43,4 @@ Kaiyu He, Zhang Mian, Peilin Wu, Xinya Du and Zhiyu Chen (2026). "Is Grokking Wo
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

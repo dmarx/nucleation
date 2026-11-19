@@ -21,7 +21,7 @@ summary: >-
   motif clusters, on trained networks only. No matched comparison of
   organizations; no intervention on the transferred motif.
 ---
-<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 CLAIM-754 THEORY-tmpf6s7m THEORY-tmppm9la — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: LEAD-006 CLAIM-756 CLAIM-754 THEORY-2067 THEORY-2077 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp7fq38: Driscoll, Shenoy and Sussillo — Flexible multitask computation in recurrent networks utilizes shared dynamical motifs
 
@@ -71,7 +71,7 @@ variance clusters; transfer by training only an input.
 
 ## Bearing on the record
 
-- **LEAD-tmphfbq0**, partial: (a) learning curves with and without the
+- **LEAD-006**, partial: (a) learning curves with and without the
   relevant prior learning; not (b), since arms differ in pretraining data;
   not (c) for the saving, since lesions are on trained networks and no
   motif is removed before transfer. The composition is a recombination of
@@ -88,10 +88,10 @@ variance clusters; transfer by training only an input.
 - **CLAIM-596**, parallel: a rate comparison of a later acquisition; the
   blue and orange arms both hold the memory motif, isolating the anti
   motif.
-- **THEORY-tmpf6s7m** (Papadimitriou and Jurafsky), the closest design
+- **THEORY-2067** (Papadimitriou and Jurafsky), the closest design
   parallel: frozen recurrent weights, only an input trained, sources with
   and without the needed structure.
-- **THEORY-tmppm9la** (Anguita and colleagues), parallel: an input-only
+- **THEORY-2077** (Anguita and colleagues), parallel: an input-only
   regime forces reuse and loses when the new task's features do not
   overlap.
 - **QUESTION-039**, background: slow acquisition of motifs, then fast

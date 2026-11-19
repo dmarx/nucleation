@@ -11,7 +11,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from Nature Neuroscience, doi
+    (LEAD-006), from Nature Neuroscience, doi
     10.1038/s41593-023-01293-9, from the PMC author manuscript PMC11559441
     (the Europe PMC interface returned an error; the supplement sat behind a
     download challenge and was not read); the date from Crossref. Not held
@@ -45,4 +45,4 @@ Vishwa Goudar, Barbara Peysakhovich, David J. Freedman, Elizabeth A. Buffalo and
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

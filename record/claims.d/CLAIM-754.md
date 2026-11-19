@@ -2,7 +2,7 @@
 number: 754
 status: Proposed
 formerly:
-- CLAIM-tmp1l2s7
+- CLAIM-754
 title: 'A learner''s acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared'
 version: 1
 role: thesis

@@ -18,7 +18,7 @@ summary: >-
   the sub-tasks; the reverse, composition first then a sub-task, saves.
   Single runs; no intervention.
 ---
-<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 THEORY-tmpd6l4a THEORY-tmpk9cmk THEORY-tmpf6s7m THEORY-tmpmy98s — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: LEAD-006 CLAIM-756 THEORY-2065 THEORY-2071 THEORY-2067 THEORY-2075 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp8n812: Thomm and colleagues — Limits of Transformer Language Models on Learning to Compose Algorithms
 
@@ -42,7 +42,7 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmphfbq0**, qualifies: prior research the lead must face, not its
+- **LEAD-006**, qualifies: prior research the lead must face, not its
   experiment; no staged acquisition of the shared structure, no matched
   first stage, no intervention.
 - **CLAIM-756**, a limit on when the effect appears, not a counterexample:
@@ -50,9 +50,9 @@ summary: >-
 - **CLAIM-596** and **QUESTION-397**, parallel: accuracy at a sample size
   cannot tell a changed rate from a head start; the no-reuse reading goes
   beyond the data.
-- **THEORY-tmpd6l4a** (Skill-it), in tension: mixing in prerequisites
+- **THEORY-2065** (Skill-it), in tension: mixing in prerequisites
   saved steps there and composed samples barely here; different measures.
-- **THEORY-tmpk9cmk**, **THEORY-tmpf6s7m**, **THEORY-tmpmy98s**: contrast,
+- **THEORY-2071**, **THEORY-2067**, **THEORY-2075**: contrast,
   staged designs that do find savings.
 - **THEORY-253**, parallel: skills progress together under gradient
   descent.

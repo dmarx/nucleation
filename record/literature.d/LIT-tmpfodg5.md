@@ -11,7 +11,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from arXiv 2209.07431v3 (PDF), compared with the
+    (LEAD-006), from arXiv 2209.07431v3 (PDF), compared with the
     NeurIPS 2022 version. Not held before; the identifier checked on the
     arXiv API.
 tags:
@@ -43,4 +43,4 @@ Takuya Ito, Tim Klinger, Douglas H. Schultz, John D. Murray, Michael W. Cole and
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

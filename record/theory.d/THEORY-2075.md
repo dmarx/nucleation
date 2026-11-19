@@ -2,7 +2,7 @@
 number: 2075
 status: Proposed
 formerly:
-- THEORY-tmpmy98s
+- THEORY-2075
 title: 'Jiang and colleagues find that a brief first phase on procedurally generated abstract data, well under one per cent of the later tokens, lets a language model reach its baseline''s loss with substantially fewer natural-language or code tokens, and that shuffling the procedural sequences or the transferred weights removes the saving'
 version: 1
 source:

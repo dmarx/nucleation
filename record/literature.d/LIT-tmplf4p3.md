@@ -12,7 +12,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from arXiv 2006.10455v2 (PDF, 11 Nov 2020); seven
+    (LEAD-006), from arXiv 2006.10455v2 (PDF, 11 Nov 2020); seven
     authors, not six as the search listed. Not held before; the identifier
     checked on the arXiv API.
 tags:
@@ -43,4 +43,4 @@ Hartmut Maennel, Ibrahim Alabdulmohsin, Ilya Tolstikhin, Robert J. N. Baldock, O
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

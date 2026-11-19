@@ -19,7 +19,7 @@ summary: >-
   to learn and generalize zero-shot; abstraction measured by a parallelism
   score; order of pretraining decisive. Correlational for mechanism.
 ---
-<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 CLAIM-754 THEORY-tmpd6l4a THEORY-tmpsewbi — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: LEAD-006 CLAIM-756 CLAIM-754 THEORY-2065 THEORY-2081 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpbhlth: Ito and colleagues — Compositional generalization through abstract representations in human and artificial neural networks
 
@@ -45,7 +45,7 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmphfbq0**, partial: primitives are g and three-rule contexts are
+- **LEAD-006**, partial: primitives are g and three-rule contexts are
   compositions over them; (a) loosely, with pretraining counted; (b)
   weakly, regimes compared through an abstraction score with no
   memorizing arm, though all stop at the same criterion; no (c). A cheap
@@ -57,11 +57,11 @@ summary: >-
   on trained contexts differ in what they can reach on novel ones.
 - **QUESTION-039**, supports: the order of acquisition decides whether
   generalization appears at all.
-- **THEORY-tmpd6l4a** (Skill-it), contrast: prerequisites lower a target's
+- **THEORY-2065** (Skill-it), contrast: prerequisites lower a target's
   cost there too, but sequence did not matter there and decides everything
   here.
 - **THEORY-794**, parallel on compositional generalization with factored
-  representations; **THEORY-tmpsewbi**, a caution: counted samples, not
+  representations; **THEORY-2081**, a caution: counted samples, not
   compute.
 
 ## Limitations

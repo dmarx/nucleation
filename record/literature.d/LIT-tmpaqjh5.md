@@ -11,7 +11,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from arXiv 2402.05785v5 (PDF, 5 Nov 2024). Not held
+    (LEAD-006), from arXiv 2402.05785v5 (PDF, 5 Nov 2024). Not held
     before; the identifier checked on the arXiv API.
 tags:
 - compositionality
@@ -41,4 +41,4 @@ Jonathan Thomm, Giacomo Camposampiero, Aleksandar Terzic, Michael Hersche, Bernh
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

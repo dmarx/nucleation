@@ -21,7 +21,7 @@ corroborates:
 - CLAIM-756
 summary: >-
   From the reading of LIT-tmpsnc7a in NOTE-tmpnu6cu. The closest prior
-  research found for LEAD-tmphfbq0: transplant with a size-matched
+  research found for LEAD-006: transplant with a size-matched
   control, no matched comparison of organizations. Proposed until its
   promote_when is met.
 ---

@@ -19,7 +19,7 @@ summary: >-
   the subtask. The located component carries the saving; a size-matched
   random part of the same model does not.
 ---
-<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 THEORY-tmpk9cmk THEORY-tmpmy98s CLAIM-754 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: LEAD-006 CLAIM-756 THEORY-2071 THEORY-2075 CLAIM-754 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpnu6cu: Zhang, Lepori and Pavlick — Instilling Inductive Biases with Subnetworks
 
@@ -69,7 +69,7 @@ samples.
 
 ## Bearing on the record
 
-- **LEAD-tmphfbq0**, partial prior research, the closest yet: (a) a later
+- **LEAD-006**, partial prior research, the closest yet: (a) a later
   sample cost with and without the earlier learning; (c) an intervention
   by transplant with a size-matched control. Not (b): every first-stage
   model is near perfect and no organizations are compared. The target is
@@ -80,10 +80,10 @@ samples.
 - **CLAIM-756**, corroborates in kind: an earlier acquisition lowers a
   later sample cost, and the saving rides on a located component; the
   first stage's cost is not netted.
-- **THEORY-tmpk9cmk** (Hu and colleagues), parallel and stronger on
+- **THEORY-2071** (Hu and colleagues), parallel and stronger on
   mechanism: the component alone, with random controls, carries the
   saving.
-- **THEORY-tmpmy98s** (procedural pretraining), complementary
+- **THEORY-2075** (procedural pretraining), complementary
   intervention: shuffled weights there, a random same-size part here.
 - **CLAIM-754**, weak parallel: arms with equal target accuracy at 10
   samples differ greatly in later cost.

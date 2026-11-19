@@ -2,7 +2,7 @@
 number: 294
 status: Proposed
 formerly:
-- CASE-tmphsr99
+- CASE-294
 title: 'A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work'
 version: 1
 standing: stipulated

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  The closest match yet to LEAD-tmphfbq0: a located shared component,
+  The closest match yet to LEAD-006: a located shared component,
   transplanted alone, carries a later sample saving against a size-matched
   random control. No matched comparison of organizations. Read on
   2026-11-19 (NOTE-tmpnu6cu).
@@ -12,7 +12,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from arXiv 2310.10899v2 (PDF, 1 Feb 2024). Not held
+    (LEAD-006), from arXiv 2310.10899v2 (PDF, 1 Feb 2024). Not held
     before; the identifier checked on the arXiv API.
 tags:
 - compositionality
@@ -43,4 +43,4 @@ Enyan Zhang, Michael A. Lepori and Ellie Pavlick (2023). "Instilling Inductive B
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

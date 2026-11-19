@@ -20,7 +20,7 @@ summary: >-
   the loss in inactive later units. Lesson for any memorization arm:
   control for input statistics and weight scale.
 ---
-<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 CLAIM-758 THEORY-tmpmy98s — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: LEAD-006 CLAIM-756 CLAIM-758 THEORY-2075 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpmkl72: Maennel and colleagues — What Do Neural Networks Learn When Trained With Random Labels?
 
@@ -48,7 +48,7 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmphfbq0**, qualifies its memorization arm: a first stage with no
+- **LEAD-006**, qualifies its memorization arm: a first stage with no
   task information still lowers (or raises) later cost through input
   statistics, so a memorizer needs covariance-matched and norm-rescaled
   controls before a saving is credited to or against a learned g. Runs (a)
@@ -66,7 +66,7 @@ summary: >-
   input statistics even with random labels.
 - **THEORY-2027** and **THEORY-1353**, parallel: inactive units cut
   plasticity, and width helps.
-- **THEORY-tmpmy98s**, complement: shuffled weights remove a saving there;
+- **THEORY-2075**, complement: shuffled weights remove a saving there;
   covariance-resampled weights keep it here.
 - **TERM-117**, analogy: a nucleus that helps or hurts by setting.
 

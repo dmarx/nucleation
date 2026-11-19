@@ -12,7 +12,7 @@ history:
   date: '2026-11-19'
   note: >-
     Registered and read on 2026-11-19 at the owner's request
-    (LEAD-tmphfbq0), from arXiv 2402.16726v4 (PDF and LaTeX source, 30 Dec
+    (LEAD-006), from arXiv 2402.16726v4 (PDF and LaTeX source, 30 Dec
     2024; TMLR). Not held before; the identifier checked on the arXiv API.
 tags:
 - compositionality
@@ -43,4 +43,4 @@ Hiroki Furuta, Gouki Minegishi, Yusuke Iwasawa and Yutaka Matsuo (2024). "Toward
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.
+Registered and read on 2026-11-19 at the owner's request, under LEAD-006.

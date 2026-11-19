@@ -2,7 +2,7 @@
 number: 6
 status: Open
 formerly:
-- LEAD-tmphfbq0
+- LEAD-006
 title: 'Investigate task composition: whether a structure learned for one task lowers the cost of later tasks composed on it, with learners matched on first-stage performance, looking first for prior research that already runs the experiment'
 version: 1
 stage: idea
