@@ -138,3 +138,32 @@ No status change.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 A measure to add ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues' fraction of independent neurons, units counted identical within a tolerance of their norms (p. 7), beside the dead-unit and effective-rank measures at each checkpoint. Their caution applies: residual connections fall outside their propositions (p. 8), and Pythia is residual.
+
+## Note of 2026-11-19: follow-up turns of "Topological protection explained"
+<!-- inactive-ok-file: CASE-tmp6idy5 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+
+ChatGPT's experiment ranking (A80, A82) keeps this study as the main test of overconsolidation and adds design points:
+- **Rules by episode.** Randomize the task-generating rule by episode, "not independently between a support example and its associated query", so a task is learnable at all.
+- **Censoring.** Report runs that never reach the threshold as censored outcomes rather than dropping them; fresh optimizer state and calibrated learning rates.
+- **Reading a slower late checkpoint.** If fine-tuning slows but in-context learning improves, adaptation may be "shifting between mechanisms"; if adapters recover it, the limit "may involve modifiability of existing parameters"; if new tasks are learned at the cost of old competence, it is a stability–plasticity tradeoff, "not necessarily inefficient learning".
+- **Not rediscovering plasticity loss.** "We shouldn't try to rediscover plasticity loss." The distinctive question is whether the loss changes the learner's "total resource-indexed repertoire, or merely shifts adaptation toward other mechanisms".
+Extra arms only after the primary contrast is measured. After the owner's U37, ChatGPT ranked it below a literature synthesis on pretraining and the Reddit study ([CASE-tmp6idy5](CASE-tmp6idy5.md)).
+
+## Note of 2026-11-19: the pretraining works, read
+Design points from two readings. Anguita and colleagues ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): the scale of the re-initialized head and the relative scale of the layers decide whether fine-tuning reuses features or learns new ones, so the study should fix and report the head's initialization and scale, or checkpoint differences may be a change of regime rather than consolidation; rescaling the readout or all weights before fine-tuning are cheap intervention arms beside the resets; the participation ratio and shared dimensions are a readout of reuse against new learning. McDermott and colleagues ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): a continued-training control with the new objective switched off is the right control for more training against this objective, and their one convergence curve shows why the study needs a threshold, censoring and fixed stopping rules.
+
+## Note of 2026-11-19: Brown and colleagues, and Howard and Ruder, read
+Design points. Howard and Ruder ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): labelled examples needed to match a comparator is a ready form for the primary estimand, and shows that what the comparator holds fixed must be stated; the fine-tuning protocol alone moves acquisition cost greatly (on TREC-6 from 5.69 to 16.09 error across methods), so it must be fixed and calibrated in advance; and access to unlabelled task text is part of the declared learning interface. Brown and colleagues ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): accuracy against the number of in-context examples by size is the shape the in-context arm needs, but its estimand should be examples to a threshold, which they do not compute; and their smallest models degrade with more examples on some tasks, a floor for 70M and 160M models beside Pan and colleagues'.
+
+## Note of 2026-11-19: the data-scheduling readings, read
+Design points. Liu and colleagues ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)) ran the nearest design: the same model family and sizes, a checkpoint series each fine-tuned, forgetting scored on the pretraining distribution. They trained from scratch, measured final loss after four epochs rather than budget to a threshold, and chose learning rates on one checkpoint, which can bias late checkpoints under a cosine schedule, a confound this case already notes. Chen and colleagues ([NOTE-tmpwrmog](../notes.d/NOTE-tmpwrmog.md)): steps to a loss threshold is the estimand's form, and their pairwise probe runs are a cheap way to find which earlier skills lower a later cost. Hu and colleagues ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)): a matched natural-language first phase is the control that separates content from schedule.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp5jrhv THEORY-tmpfvaag THEORY-tmpngig0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Several follow-up readings show what this study would add. Nishida and
+colleagues ([THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md)) run a checkpoint pipeline on Pythia that
+measures alignment, not cost; Blakeney and colleagues ([THEORY-tmpfvaag](../theory.d/THEORY-tmpfvaag.md))
+and Feng, Prabhumoye and colleagues ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md)) report end-of-run
+scores without a cost to a threshold. None prices a later acquisition by
+checkpoint.

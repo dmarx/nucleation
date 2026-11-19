@@ -108,3 +108,6 @@ the whole trajectory:
   transfer and fine-tuning results are on small constructed tasks.
 - It does not instruct. Initialization schemes for practice belong to the
   anthology.
+
+## Note of 2026-11-19: Anguita and colleagues, read
+Extended by the same group ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): Anguita and colleagues carry the conserved relative scale into two-stage training. Their convention differs: λ is normalized to [−1, 1], and the rich, pretraining-independent regime of fine-tuning comes as λ approaches −1 with a small readout, not at the balanced λ = 0. The relative scale can leave pretraining's own bias unchanged and still decide fine-tuning.

@@ -151,3 +151,8 @@ the fibre-wise factorization this claim proves, and the hidden governance
 bit separates them ([THEORY-848](../theory.d/THEORY-848.md), [CLAIM-399](CLAIM-399.md)). Beckers and
 Halpern's compatibility condition is this claim's shape one level up, on
 contexts ([THEORY-849](../theory.d/THEORY-849.md)).
+
+## Note of 2026-11-19: McDermott and colleagues, read
+<!-- inactive-ok-file: THEORY-tmpkjzqg — Proposed; cited from the readings of 2026-11-19 -->
+
+McDermott and colleagues ([THEORY-tmpkjzqg](../theory.d/THEORY-tmpkjzqg.md), corroborates; [NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): Corollary 1 is this claim in pre-training form. A pre-training graph defined by class labels collapses each class, so nearest-neighbour accuracy on a later task is capped by how constant its label is within the pre-training classes, "once saturation is reached, it will not improve beyond this fixed upper bound relating to task correlation".

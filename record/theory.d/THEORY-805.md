@@ -50,3 +50,6 @@ and the imbalance effect on naturally long-tailed data with seeds, confirm
 it; learned partitions that track unequal classes as well as an
 instance-based method's reject it for that method. [QUESTION-171](../questions.d/QUESTION-171.md) asks the
 same thing as a question; this entry is the answer Assran et al. propose.
+
+## Note of 2026-11-19: McDermott and colleagues, read
+A parallel ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): a built-in relational prior costs transfer where it does not match the later task, in McDermott and colleagues' structure-inducing pre-training as here.

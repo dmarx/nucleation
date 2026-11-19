@@ -80,3 +80,6 @@ the doorway agents could have found the shortcut in time. Neither happened.
 - Model-based option models, which make look-ahead "saltatory", are
   described but not implemented; the model-based and model-free division
   it adopts is [THEORY-062](THEORY-062.md).
+
+## Note of 2026-11-19: McDermott and colleagues, read
+A parallel ([NOTE-tmp074zx](../notes.d/NOTE-tmp074zx.md)): a pre-training graph that fits the later task helps and one that does not (their structural graph) hurts, relative to language-model pre-training. It compares organizations and measures performance, not cost.

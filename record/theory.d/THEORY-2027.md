@@ -35,8 +35,8 @@ summary: >-
   with old classes still trained. Small weights with continual injection
   of randomness (Shrink and Perturb, and their continual backpropagation)
   maintain plasticity, but all are applied from the start, and none is
-  tested as a late rescue. It is here for overconsolidation (CLAIM-
-  tmp8ljvp) beside [THEORY-1353](THEORY-1353.md), whose depletion reading it fits:
+  tested as a late rescue. It is here for overconsolidation
+  (CLAIM-758) beside [THEORY-1353](THEORY-1353.md), whose depletion reading it fits:
   plasticity is lost while the network keeps practising on varied tasks.
   Read in its NOTE.
 ---
@@ -57,3 +57,6 @@ Long continual training erodes what random initialization gave the network: smal
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 An analogy from Chen and colleagues ([NOTE-2127](../notes.d/NOTE-2127.md)), who do not discuss plasticity. Their collapse lowers the number of independent neurons and the effective rank and produces vanishing neurons, which parallel two of this account's correlates. Exactly coincident or zeroed units can never be separated by gradients, and near-collapsed ones escape slowly ("the repulsive escape will take longer the closer it starts from the invariant set", p. 10). On that reading, reinitializing units breaks a symmetry SGD cannot break. Their vanishing neurons are zero-weight GELU units, not dead ReLU units.
+
+## Note of 2026-11-19: Liu, Neubig and Xiong, read
+A parallel ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)): Liu and colleagues' plasticity is inferred from timing and assumed in their theory, where this account measures its loss directly; their gradual decline is consistent with it but is not independent evidence.

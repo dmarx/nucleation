@@ -88,3 +88,6 @@ study that would test the claim.
 - **That migration shows a verdict.** A, at A36 §7: "contributor migration
   is insufficient on its own". Testing the claim needs verdicts measured
   independently of the move ([CLAIM-342](CLAIM-342.md)).
+
+## Note of 2026-11-19: Krohn and Weninger, read
+A parallel ([NOTE-tmp39hi8](../notes.d/NOTE-tmp39hi8.md)): participants' acts of reference may produce the community referred to, as judgements of legitimacy are here said to produce succession.

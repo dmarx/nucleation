@@ -527,6 +527,62 @@ vocabularies:
           Is it exact and interpreted? Is it fruitful: what becomes statable that was not? Is it as simple
           as the rest allow? Against which rivals, by what consequences, with evidence not drawn only from
           its own use? (ADR-107)'
+  lead-statuses:
+    label: Lead statuses
+    blurb: Whether a LEAD is still to be followed. How far it has been worked out is its `stage`, a separate
+      field (ADR-tmpv2wkk).
+    alert: Closed.
+    terms:
+      Open:
+        label: Open
+        blurb: still worth following
+      Done:
+        label: Done
+        blurb: followed; the body says what came of it and where the result is filed
+      Dropped:
+        label: Dropped
+        blurb: no longer worth following; the body says why
+      Superseded:
+        label: Superseded
+        blurb: replaced by a better-framed lead, named in `superseded_by`
+  lead-stages:
+    label: Lead stages
+    blurb: How far a LEAD has been worked out, beside whether it is still worth following (ADR-tmpv2wkk).
+    alert: Closed.
+    terms:
+      idea:
+        label: Idea
+        blurb: named, with what it would advance; how it would be done is not yet said
+      specified:
+        label: Specified
+        blurb: says what would be done, what result would count for and against what it advances, and
+          roughly what it would cost
+      underway:
+        label: Underway
+        blurb: being done
+  lead-methods:
+    label: Lead methods
+    blurb: What kind of work a LEAD is. Experiment is one kind among several (CLAIM-tmpkcdfh, ADR-tmpv2wkk).
+    alert: Closed.
+    terms:
+      reading:
+        label: Reading
+        blurb: read a work, or register and read one
+      conceptual:
+        label: Conceptual
+        blurb: draw or test a distinction, construct cases or counterexamples
+      formal:
+        label: Formal
+        blurb: prove, derive, construct a model or a countermodel
+      empirical:
+        label: Empirical
+        blurb: observe, measure, or run an experiment or simulation
+      historical:
+        label: Historical
+        blurb: reconstruct a case, or what has already been shown or argued
+      operationalization:
+        label: Operationalization
+        blurb: work out how a question or claim could be advanced at all
   question-statuses:
     label: Question statuses
     blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
@@ -1230,6 +1286,32 @@ schemes:
         many: true
         converse: refines
         derived: true
+      presupposes:
+        label: Presupposes
+        blurb: a question whose concepts or result any answer to this one must use. Not a question whose
+          answer would only make this one easier; as a THEORY's `presupposes` takes another's conclusion
+          as a premise (ADR-029, ADR-tmpv2wkk)
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: presupposed_by
+      presupposed_by:
+        label: Presupposed by
+        blurb: the questions and leads that presuppose this one, written by `luria link --fix` (ADR-tmpv2wkk)
+        scheme: [QUESTION, LEAD]
+        required: false
+        many: true
+        converse: presupposes
+        derived: true
+      advanced_by:
+        label: Leads on it
+        blurb: the leads that would advance this question, written by `luria link --fix` from their
+          `advances` (ADR-tmpv2wkk)
+        scheme: LEAD
+        required: false
+        many: true
+        converse: advances
+        derived: true
       answered_by:
         label: Answered by
         blurb: the record's own claims and the literature's accounts that answer it, written by `luria
@@ -1287,6 +1369,15 @@ schemes:
     render: index
     allocate: merge
     references:
+      advanced_by:
+        label: Leads on it
+        blurb: the leads that would advance this claim, by testing, grounding or objecting to it, written
+          by `luria link --fix` from their `advances` (ADR-tmpv2wkk)
+        scheme: LEAD
+        required: false
+        many: true
+        converse: advances
+        derived: true
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
@@ -1497,6 +1588,15 @@ schemes:
     render: index
     allocate: merge
     references:
+      operationalizes:
+        label: Design for
+        blurb: the leads this case's study design would carry out, written by `luria link --fix` from
+          their `operationalized_in` (ADR-tmpv2wkk)
+        scheme: LEAD
+        required: false
+        many: true
+        converse: operationalized_in
+        derived: true
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
@@ -1842,6 +1942,84 @@ schemes:
     axis: tags
     retires_on: Superseded
     successor: superseded_by
+  LEAD:
+    title: Leads
+    blurb: >-
+      A piece of work the record could do to advance one of its questions or claims: a reading,
+      a distinction to draw, a proof, a study, a history, or working out how a question could be
+      advanced at all. Its status says whether it is still worth following; its stage, how far it
+      has been worked out. A lead is a plan, not a finding: what it yields is filed as readings,
+      claims and cases (ADR-tmpv2wkk).
+    dir: record/leads.d
+    output: docs/leads
+    active: Open
+    render: index
+    allocate: merge
+    references:
+      advances:
+        label: Advances
+        blurb: the questions and claims this lead would move, by answering, narrowing, testing, grounding
+          or objecting (ADR-tmpv2wkk)
+        scheme: [QUESTION, CLAIM]
+        required: true
+        many: true
+        converse: advanced_by
+      operationalized_in:
+        label: Designed in
+        blurb: the CASE that holds this lead's study design, where it has one (ADR-tmpv2wkk)
+        scheme: CASE
+        required: false
+        many: true
+        converse: operationalizes
+      presupposes:
+        label: Presupposes
+        blurb: a lead that must be done first, or a question whose concepts or result any way of doing this
+          one must use (ADR-tmpv2wkk)
+        scheme: [LEAD, QUESTION]
+        required: false
+        many: true
+        converse: presupposed_by
+      presupposed_by:
+        label: Presupposed by
+        blurb: the leads that presuppose this one, written by `luria link --fix`
+        scheme: LEAD
+        required: false
+        many: true
+        converse: presupposes
+        derived: true
+      superseded_by:
+        scheme: LEAD
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Open
+    fields:
+      status:
+        vocabulary: lead-statuses
+      stage:
+        vocabulary: lead-stages
+        required: true
+      method:
+        vocabulary: lead-methods
+        many: true
+        required: true
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+        many: true
+        required: true
+    axis: line
+    retires_on: Superseded
+    successor: superseded_by
+
   SYNTHESIS:
     title: Syntheses
     blurb: >-

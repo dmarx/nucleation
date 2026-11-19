@@ -49,3 +49,6 @@ A transformer with constant depth can implement one gradient-descent step (O(d) 
 - That language models do this; the paper is about linear regression trained from scratch.
 - That ICL is always Bayes-optimal: capacity-limited models are not.
 - An exact identity of the [QUESTION-159](../questions.d/QUESTION-159.md) kind: the theorems are existence constructions. The question is listed because the reading bears on it, not because it answers it.
+
+## Note of 2026-11-19: Brown and colleagues, read
+A parallel ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): a from-scratch case of the de novo end of Brown and colleagues' spectrum, in-context learning of functions not seen in training.

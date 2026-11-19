@@ -1,0 +1,50 @@
+---
+status: Active
+status_note: >-
+  Read on 2026-11-19 ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)). Worth reading for an analytical case
+  of the same present capability with different later learning.
+title: 'A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning'
+version: 2
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-19, no
+    email address sent: v1 2026-02-23. The ICML 2026 appearance is ChatGPT's
+    and unverified. Not held: no hit for the identifier, the title or
+    Anguita in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from arXiv v2 (2026-06-30);
+    quotations rechecked by the filer. Account THEORY-tmppm9la. ICML 2026
+    confirmed (PMLR 306, pp. 2893-2920), and v2 has seven authors, Lippl and
+    Dominé added. Summary rewritten.
+tags:
+- learning-theory
+- representation-learning
+- anthology-candidate
+date: '2026-11-19'
+published: '2026-02-23'
+arxiv: '2602.20062'
+first_author: 'Anguita'
+keywords: []
+implementations: []
+summary: >-
+  Anguita, Locatello, Saxe, Mondelli, Mancini, Lippl and Dominé (ICML
+  2026, PMLR 306), arXiv 2602.20062. In diagonal linear networks trained
+  to convergence, three initialization scales place fine-tuning in one of
+  four regimes trading reuse of pretrained features against learning new
+  ones; the relative scale changes fine-tuning even when the pretrained
+  function is the same, and the best regime depends on how the fine-tuning
+  task overlaps the pretrained features. Registered from ChatGPT's A82
+  after the owner's U37. Read in [NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md); account [THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md).
+---
+
+# LIT-tmplopzs: A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning
+
+Anguita, Locatello, Saxe, Mondelli and Mancini (2026; ICML 2026, as ChatGPT says). arXiv 2602.20062.
+
+## Standing in the record
+
+Registered and read on 2026-11-19 ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md), [THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md)).

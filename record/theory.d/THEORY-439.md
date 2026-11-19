@@ -132,3 +132,6 @@ Sun and colleagues ([THEORY-2007](THEORY-2007.md)), read: earlier, independent e
 Tandon and colleagues ([THEORY-2049](THEORY-2049.md)), read: qualifies the non-interchangeability. Compressing a long context into weights by test-time training beats holding it in full attention on average next-token loss, yet loses badly on verbatim retrieval (pass-key at 128K: 0.06 against 0.99). Which use of a context is better depends on what the query needs from it. The comparison is between architectures, not within one model as here.
 
 No status change.
+
+## Note of 2026-11-19: Brown and colleagues, read
+Qualifies ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)): demonstrations used as context and as gradient signal are not interchangeable, the comparison Brown and colleagues leave to future work ("we do not fine-tune GPT-3").

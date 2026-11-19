@@ -141,3 +141,11 @@ Springer and colleagues ([THEORY-2006](../theory.d/THEORY-2006.md)), read, try n
 What the readings do to its standing. The conditional is untouched, but nothing read supports its antecedent for networks, and the one setting that applies varied practice throughout shows gradual decline under use. To survive, the claim would have to say what exercising the capacity to acquire is, so that Dohare's continual training is not already it, and measure the deadline as a rise in acquisition cost with held capabilities kept, so that a forgetting-driven inflection like Springer's does not count. The test in [CASE-294](../cases.d/CASE-294.md) stands as written.
 
 No status change.
+
+## Note of 2026-11-19: Anguita and colleagues, read
+An analogy only ([NOTE-tmpr453b](../notes.d/NOTE-tmpr453b.md)): rescaling the readout, or shrinking all weights, at the start of fine-tuning moves a network back toward learning new features, which resembles the branch where an intervention renews what training used up. There is no loss of capacity over training and no threshold in their model, so no evidence for either branch.
+
+## Note of 2026-11-19: Liu, Neubig and Xiong, read
+<!-- inactive-ok-file: THEORY-tmpd6smn — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+The nearest thing on record to a deadline in language-model pretraining ([THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md); [NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)): a heavy code mix helps most started early and, started late, ends worse than none, which the authors call a plasticity window. The decline with start time is gradual, with no threshold, which fits the depletion branch better than the disuse branch. But nothing renews practice or resets units, and later starts also fall at a lower learning rate under the cosine schedule, which the authors do not separate from plasticity. A parallel; the claim's test should name the schedule confound.
