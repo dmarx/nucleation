@@ -1,13 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-19, not read. Registered from A67 of the exchange
-  "Topological protection explained" (2026-11-18,
-  https://chatgpt.com/share/6afe6dd0-9d78-83ea-9782-f55680665dcf), where
-  ChatGPT cited it. No reading was attempted; a lawful copy has not been
-  sought.
+status: Active
 title: 'Active Learning Literature Survey'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -17,6 +11,14 @@ history:
     DOI; `published:` is the report's revision date as commonly cited,
     January 2009, not verified. Not held: no hit for the identifier, the
     title or Settles in record/literature.d.
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Skimmed on 2026-11-19 by a delegated reader, quotations rechecked by the
+    filer; in NOTE-tmpob2w3, account THEORY-tmpsiaty. URL read:
+    https://burrsettles.com/pub/settles.activelearning.pdf (the author's own
+    site; PDF, extracted with pdftotext). Kind: author's page. Date
+    2026-11-19. HTTP 200, no obstacle.
 tags:
 - learning-theory
 - anthology-candidate
@@ -27,10 +29,22 @@ first_author: 'Settles'
 keywords: []
 implementations: []
 summary: >-
-  Settles (2009), https://burrsettles.com/pub/settles.activelearning.pdf.
-  A survey of active learning. Here because the owner said at U30 that the
-  exchange was entering active-learning territory; no active-learning work
-  was held. Unverified until read.
+  Settles (2009; revised 26 January 2010), Active Learning Literature
+  Survey, Computer Sciences Technical Report 1648, University of
+  Wisconsin–Madison,
+  https://burrsettles.com/pub/settles.activelearning.pdf. The standard
+  survey of active learning: query scenarios, query strategies
+  (uncertainty sampling, query-by-committee, expected error reduction,
+  variance reduction), and the evidence for them. It also covers practical
+  issues such as variable labelling costs, unknown model classes and
+  stopping criteria. It reports that active learning usually saves labels
+  but can fail: the data are biased toward the model that chose them,
+  cost-blind selection can do no better than random, and greedy guarantees
+  need submodularity, which active-learning criteria generally lack. Here
+  because the owner said at U30 that the exchange was entering active-
+  learning territory. It bears on CLAIM-572's greedy-stopping result and
+  on the feedback premise of QUESTION-tmprj00l. Read in its NOTE
+  (skimmed). Read in NOTE-tmpob2w3; its account is THEORY-tmpsiaty.
 ---
 
 # LIT-tmp62j1j: Active Learning Literature Survey

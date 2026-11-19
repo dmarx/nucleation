@@ -1,0 +1,69 @@
+---
+status: Read
+paper: LIT-tmptu1jw
+title: 'Keller and others 2024 — Traveling Waves Encode the Recent Past and Enhance Sequence Learning'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    URL read: https://arxiv.org/pdf/2309.08045 (HTTP 200, PDF, 27 pages;
+    arXiv v2, 15 Mar 2024, header "Published as a conference paper at ICLR
+    2024"). Kind of copy (step 5): arXiv, the authors' own posting of the
+    published conference paper. Lawful. Date: 2026-11-19. No fetch obstacle.
+    Read: abstract, §1 Introduction, §2 (wRNN construction, baselines, wave
+    visualisation), §3 Experiments (copy, adding, sMNIST/psMNIST, nsCIFAR10,
+    ablations), §4 Discussion with Limitations; Appendix C additional
+    results on frozen weights, locally connected ablation, linear-layer
+    "tape" baseline, emergence of waves under different initialisations
+    (Figs. 13-19). Skimmed or skipped: Appendix A (extended related work),
+    Appendix B (pseudocode, hyperparameter grids), Table 7 seed statistics,
+    the reference list. Text extracted with pdftotext -layout to
+    dl/text.txt.
+date: '2026-11-19'
+---
+
+# NOTE-tmpv8ehw: Keller and others 2024 — Traveling Waves Encode the Recent Past and Enhance Sequence Learning
+
+## Contribution
+
+Keller, Muller, Sejnowski and Welling (ICLR 2024; arXiv 2309.08045) build the simplest recurrent network whose hidden state carries travelling waves: a simple RNN whose recurrent matrix is a circular convolution initialised as a one-step shift on a ring of neurons (the Wave-RNN, wRNN). They compare it with a nearly identical wave-free baseline, the identity-initialised RNN (iRNN), which keeps inputs as static, decaying "bumps". On synthetic memory tasks and sequential image classification, the wave model learns faster, holds information longer and solves longer sequences. The paper's picture is that a wave-propagating hidden state is a register or stack: propagation moves each written input along, so later inputs at the same site do not overwrite earlier ones.
+
+## Key results
+
+- §1: the mechanism is propagation as protection against overwriting: "The propagation of waves then serves to prevent overwriting of past input, allowing for superior invertible memory storage."
+- §1, Fig. 1: in a static bump system "onset time of stimuli are tied to position, and therefore information about the sequential order of multiple inputs at the same position is lost."
+- §3, copy task (Figs. 3-4): "the wRNNs achieve more than 5 orders of magnitude lower loss and learn exponentially faster for all sequence lengths"; the iRNN "has trouble holding items in memory for longer than 10 timesteps, while the comparable wRNN has no problem copying data for up to 500 timesteps."
+- §3, adding task (Table 1): the wRNN solves sequences up to length 1000; the iRNN never solves 700 or 1000 within 60k iterations.
+- §3, psMNIST (Fig. 6): "the performance of the Wave-RNN is virtually unaffected, while the simple RNN baseline suffers dramatically", read by the authors as the wave field acting as a "buffer".
+- §3, ablations (Table 4): "u-shift initialization having the biggest impact on performance"; giving the iRNN the same shift initialisation helps "but it never reaches the same level of performance of the wRNN".
+- Appendix C, frozen weights (Fig. 15): with encoder and recurrence frozen, "the wRNN performs remarkably better then the iRNN in this setting (89.0% vs. 44.3%), indicating that the wave dynamics do indeed preserve input information by default".
+- Appendix C, emergence (Figs. 17-18): "randomly initialized convolutional models do not initially exhibit waves but learn to exhibit them during training, and identity initialized models never learn to exhibit waves"; an iRNN given the shift initialisation starts with stronger waves and the models "slowly lose them throughout training".
+- Appendix C, "tape" baseline (Fig. 14): a linear layer on the flattened image reaches 92.4% against the wRNN's 97.6%, so the wRNN is not only a copy-to-register device.
+
+## Assumptions
+
+- A one-dimensional ring with circular boundary, linear or ReLU activation, one recurrent layer, linear encoder and decoder.
+- The iRNN is taken as the wave-free control; the two differ in recurrent parameterisation (convolution with tied weights versus full matrix) as well as in whether waves occur, which the ablations address only partly.
+- Hyperparameters are grid-searched per model; results are the best models, with a seed table in the appendix.
+
+## Concepts
+
+- Wave-field memory: information about past inputs kept by transporting them across the hidden state rather than holding them in place.
+- Bump system: the static, decaying alternative, in which position codes identity and timing is lost.
+- Register or stack reading of a travelling wave; time-reversible storage in a non-dissipative wave medium.
+- Emergence of waves under training from random initialisation of a local, convolutional recurrence.
+
+## Bearing on the record
+
+- QUESTION-tmpcb0bf: leaves open. The paper shows a learned, spatially organised carrier of task information (waves on a ring), but no defects, walls or ordered phases, and its causal test is architectural (initialisation, freezing, ablation), not an intervention on the wave inside a trained network. It is a case in which a structure identified descriptively (diagonal bands, the 2D Fourier diagonal) is also shown to matter for the task, but only by comparison across models.
+- CLAIM-606: leaves open. A wave on a lossless ring keeps information by transport, which is none of the claim's three routes for a localized structure; the paper does not treat a wave as a localized structure or withdraw any supply.
+- LIT-647: supports the review's reported thesis as summarised in the record (waves "embedding sensory history" in activity across a map), in an artificial network, by one of its co-authors (Muller). It confirms the record's note that 2309.08045 is a different work from the review.
+- CLAIM-698: qualifies. Here a wave-level description does explain the advantage, but the waves are built into the architecture by its initialisation, so the case is not one of a modal description fitted to an unconstrained learned network.
+
+## Limitations
+
+- Small models: single-layer RNNs with linear encoders and decoders; the authors say this is "potentially leaving significant performance on the table".
+- The wave-free control is one architecture (iRNN); waves and convolutional weight-tying are partly confounded, though the locally connected ablation (Fig. 13) suggests local connectivity, not tying, is what produces waves.
+- No intervention on waves within a trained network (for example, disrupting propagation at test time); evidence is comparative and correlational across models and initialisations.
+- No comparison with recordings from cortex; the link to brain waves is motivational.
