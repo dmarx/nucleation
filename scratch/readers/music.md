@@ -7,3 +7,9 @@
 - Doubts: body text gives flat parens 170.03 and code 139.10, appendix 170.30 and 139.11 (small internal inconsistency).
 - Measure is zero-shot-structure ppl with frozen LSTM, not cost/speed of later learning; no full-finetune or data-efficiency condition.
 - Corpus sizes not matched: music 23M tokens, code 9.5M, others 100M.
+
+## 2026-11-19 bearings searched
+- No LIT/NOTE for this work in the record (grep for author, arXiv id, title: none).
+- Named: CLAIM-756 (qualifies weakly: measure is not cost of later learning), QUESTION-039 (background), TERM-131 (background), THEORY-tmpk9cmk (Hu et al.: partial tension, flat crossing pairs = nesting here vs. hierarchy "crucial" there; different architecture and measure).
+- Others: TERM-117, CLAIM-596 (end-state measure cannot tell head start from speed-up), THEORY-tmpd6l4a, THEORY-tmp0lbb1, THEORY-tmprqq7k, QUESTION-495, CLAIM-754, THEORY-967 (bracket-matching head, background).
+- 36 quotes checked by script against downloaded text: all found.
