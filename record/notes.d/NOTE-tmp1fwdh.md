@@ -20,7 +20,7 @@ summary: >-
   widens the spread of task effects without a significant mean change. No
   ordering, no cost measure.
 ---
-<!-- inactive-ok-file: CLAIM-756 THEORY-tmpk9cmk THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-809 CLAIM-756 THEORY-tmpk9cmk THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp1fwdh: Petty, van Steenkiste and Linzen — How Does Code Pretraining Affect Language Model Task Performance?
 

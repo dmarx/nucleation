@@ -34,3 +34,16 @@ not, for these models, a special training signal; local coherence is.
 
 GPT-2 at 124M on about 25M training words, three seeds, heavy
 repetition; RoBERTa global-order runs failed to converge.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmply4g3 THEORY-tmpngig0 THEORY-tmpshgvo THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Opper and colleagues (THEORY-tmpshgvo) agree: developmental or complexity
+order barely moves final syntactic scores in small models, and coherent
+units matter (sequences beat token blocks). Zhang and colleagues (THEORY-
+tmply4g3) agree for strict ordering within a corpus, and add early
+acceleration and warm-up gains. Yıldız and colleagues (THEORY-tmpvbozh)
+contrast: across many distinct domains, order changes final perplexity and
+forgetting. Feng, Prabhumoye and colleagues (THEORY-tmpngig0) share this
+account's first author's surname and nothing else; cited with a second
+author to keep them apart.

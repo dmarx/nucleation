@@ -102,3 +102,17 @@ against what counterfactual ([TERM-117](TERM-117.md)'s comparator). Self-formati
 <!-- inactive-ok-file: THEORY-tmp8cm7r — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Brown and colleagues ([THEORY-tmp8cm7r](../theory.d/THEORY-tmp8cm7r.md); [NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)) prompted version 2. Their in-context learning "occurs within the forward-pass upon each sequence", with "no gradient updates or fine-tuning, just increasing numbers of demonstrations given as conditioning", and the authors call it learning ("the model really does appear to learn these tasks at test time"). A first reading of this note took the absence of weight changes to count against it. The owner's view, adopted in version 2, is that learning from context in activation space is learning: of the model running in an episode, over the episode. [THEORY-169](../theory.d/THEORY-169.md) (conditioning and per-sequence weight updates differ in what state is kept, not in kind) agrees: what differs is the system and horizon over which organization is retained, not the kind of change. Pretraining, the outer loop, is learning of the weights over the model's life.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp1b3hj THEORY-tmp1mk7r THEORY-tmp5jrhv THEORY-tmpf6s7m — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Hernandez and colleagues' effective data transferred (THEORY-tmp1mk7r) is
+a worked operationalization of the counterfactual cost this term asks for,
+in samples: the data the same-size system would have needed without the
+experience. Papadimitriou and Jurafsky's frozen-weight transfer (THEORY-
+tmpf6s7m) runs the same later step against different histories with random
+text as the null, but measures what the system can later do, not at what
+cost. A caution from the attribution studies (THEORY-tmp5jrhv, THEORY-
+tmp1b3hj): alignment of an update with a run's endpoint or a target is not
+learning from the experience in this term's sense, which needs a
+counterfactual.

@@ -18,7 +18,7 @@ summary: >-
   changes final perplexity and forgetting at fixed data; forward transfer
   measured zero-shot, never as cost.
 ---
-<!-- inactive-ok-file: CLAIM-756 THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-757 CLAIM-756 THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp4noj0: Yıldız and colleagues — Investigating Continual Pretraining in Large Language Models: Insights and Implications
 

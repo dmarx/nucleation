@@ -123,3 +123,14 @@ Anguita and colleagues ([THEORY-tmppm9la](../theory.d/THEORY-tmppm9la.md), corro
 
 ## Note of 2026-11-19: Brown and colleagues, and Howard and Ruder, read
 Parallels from two readings. Brown and colleagues ([NOTE-tmprmye5](../notes.d/NOTE-tmprmye5.md)) treat in-context use and fine-tuning as distinct "points on this spectrum" of task-specific data, with in-context use bounded by its own budget, the context window: the developmental frontier is indexed by admissible procedures, as the claim says. Howard and Ruder ([NOTE-tmp44esf](../notes.d/NOTE-tmp44esf.md)): one pretrained model reaches a target at very different cost under different fine-tuning procedures (last layer only, full, gradual unfreezing). Neither compares learners of equal present competence, so neither shows the frontiers coming apart.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp1mk7r THEORY-tmpgk8nb THEORY-tmpmy98s — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Parallels from the follow-up readings, none naming this claim: the
+procedural paper (THEORY-tmpmy98s) finds the same first phase lowers some
+later costs and raises others, with the best transferring component
+differing by domain; Hernandez and colleagues (THEORY-tmp1mk7r) find
+whether pretraining helps depends on later data and size; Akter and
+colleagues (THEORY-tmpgk8nb) find pretraining choices that barely move
+base scores move what fine-tuning reaches. Analogies.

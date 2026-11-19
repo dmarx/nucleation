@@ -36,3 +36,17 @@ optimizes a smoothed objective first, reaching better minima.
 
 Small experiments with seeds averaged; final error only; baseline-tuned
 hyperparameters.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp5jrhv THEORY-tmply4g3 THEORY-tmpshgvo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Three parallel tests of easy-first ordering. Zhang and colleagues (THEORY-
+tmply4g3) find it reaches a random baseline's best in 18 to 45 per cent
+fewer steps in language-model pretraining, with the gap mostly closing by
+the end under strict ordering and a lasting gain when the curriculum is a
+warm-up; constant learning rate, mostly single runs. Opper and colleagues
+(THEORY-tmpshgvo) find sequence-complexity curricula no better than random
+at BabyLM scale, and a corpus order only marginally better. Nishida and
+colleagues (THEORY-tmp5jrhv) find hard text most aligned mid-training, an
+attribution pattern, not a curriculum test. Qualifies: easy first helps
+speed more than endpoint.

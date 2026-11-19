@@ -19,7 +19,7 @@ summary: >-
   worth, as a power law in fine-tuning data and model size in the low-data
   regime. Pretraining cost excluded; small models ossify at large data.
 ---
-<!-- inactive-ok-file: CLAIM-756 CLAIM-758 THEORY-tmpw8s3h THEORY-tmpk9cmk — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-761 CLAIM-756 CLAIM-758 THEORY-tmpw8s3h THEORY-tmpk9cmk — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpmxg4d: Hernandez and colleagues — Scaling Laws for Transfer
 
