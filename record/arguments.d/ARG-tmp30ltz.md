@@ -1,0 +1,73 @@
+---
+status: Proposed
+title: 'The formal-language and procedural first phases show that an earlier acquisition can lower a later one''s cost with its own cost counted, but the compute-matched null shows this is not a general property of pretraining with a first phase, so they support the claim''s premise as possibility and no more'
+version: 1
+form: existence
+grounds:
+- THEORY-tmpk9cmk
+- THEORY-tmpmy98s
+- THEORY-tmpsewbi
+concludes:
+- CLAIM-756
+tags:
+- learning-theory
+- representation-learning
+date: '2026-11-19'
+line:
+- learned-structure
+- realizability
+summary: >-
+  Hu and colleagues and the procedural-pretraining paper are instances of
+  an earlier acquisition lowering a later one's token cost with the
+  earlier phase counted; Stern and colleagues find no such saving at
+  matched compute with a tuned initialization. An instance carries a
+  possibility claim; it does not carry a rule. The weakest step: whether
+  the instances survive the initialization confound Stern and colleagues
+  identify.
+---
+<!-- inactive-ok-file: CASE-295 CLAIM-756 THEORY-tmpk9cmk THEORY-tmpmy98s THEORY-tmpsewbi — Proposed; the claim and readings this argument is about -->
+
+# ARG-tmp30ltz: The formal-language and procedural first phases show that an earlier acquisition can lower a later one's cost with its own cost counted, but the compute-matched null shows this is not a general property of pretraining with a first phase, so they support the claim's premise as possibility and no more
+
+## The inference
+
+[CLAIM-756](../claims.d/CLAIM-756.md) says an acquisition *can* be worth making for what it does to
+the cost of other acquisitions. Its premise needs one coherent case in
+which an earlier acquisition lowers a later one's cost, counted with the
+earlier cost. Hu and colleagues ([THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)) give one: a 1B model
+reaches its baseline's final loss with 33 per cent fewer total tokens,
+the formal-language phase included. The procedural-pretraining paper
+([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) gives a second, independent one: 2.1M procedural tokens
+save about 45 per cent of C4 tokens at 124M, and 82M save 34 per cent at
+1.3B, with shuffled data or shuffled weights giving no saving.
+
+Stern and colleagues ([THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)) find that at matched FLOPs, with
+an improved initialization, no first phase of this kind beats natural
+language alone, in three regimes, and that part of an earlier reported
+gain was a weak baseline. That does not defeat an existence claim. It
+does stop the instances being read as a general rule of the form "a
+structured first phase lowers later cost", which the record's earlier
+notes on [CLAIM-756](../claims.d/CLAIM-756.md) came close to.
+
+## Critical questions
+
+**Is the case coherent?** Yes in each paper's own conditions. Doubt
+enters through Stern and colleagues' initialization result: if Hu's or
+the procedural paper's baselines were handicapped in the same way, the
+instances shrink. Neither paper is re-run under Stern's initialization,
+and Stern's additive results show gains surviving at small natural-language
+budgets even with the better initialization, so the instances are
+weakened, not removed.
+
+**Does it separate the very things the conclusion says can come apart?**
+The claim separates an acquisition's direct return from its effect on
+later costs. In both instances the first phase has no direct return on
+the target (its vocabulary is discarded) and a positive effect on the
+later cost. That is the separation. Neither instance tests the claim's
+second part, that ranking learning policies can reverse once the effect
+is counted; [CASE-295](../cases.d/CASE-295.md) carries that by stipulation.
+
+## Verdict
+
+The instances support the premise as a possibility, not as a regularity.
+Proposed until the owner rules on it.

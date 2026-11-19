@@ -1,0 +1,86 @@
+---
+status: Read
+paper: LIT-tmpegoad
+title: 'Opper, Morrison and Siddharth — On the effect of curriculum learning with developmental data for grammar acquisition'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from arXiv 2311.00128v2 (PDF, 3
+    Nov 2023): all of it, §§1–12 and appendices A and B; figure images not
+    inspected. Running notes on the branch claude/readers/scheduling-
+    followups (the procedure proposed in pull request 537). Quotations
+    rechecked by the filer by script against the downloaded text.
+date: '2026-11-19'
+summary: >-
+  Curricula by sequence complexity, by modality and by corpus complexity,
+  at a fixed 120k steps on BabyLM strict-small, scored on BLiMP and held-
+  out zero-shot tasks, three seeds. Random sampling is hard to beat;
+  speech beats text; ordering effects are about a point or less.
+---
+<!-- inactive-ok-file: THEORY-tmp0lbb1 THEORY-tmprqq7k THEORY-tmpd6l4a CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmp7x6kq: Opper, Morrison and Siddharth — On the effect of curriculum learning with developmental data for grammar acquisition
+
+## Contribution
+
+A negative-to-modest BabyLM result on ordering, with an interpretation:
+"it is not the proportion of tokens occupied by high-utility data that aids
+acquisition, but rather the proportion of training steps assigned to such
+data" (abstract).
+
+## Key results
+
+1. **Sequence curricula fail.** "None of the curricula were able to
+   outperform a baseline measure of simply sampling random sequences from
+   the concatenation of all the datasets." (§4.3)
+2. **Speech beats text** at 40k steps of one modality: "Training on
+   transcribed speech consistently outperforms training on text alone"
+   (§6.1). Speech is "56% of total tokens" but "80% of all examples"
+   counted in lines (§5).
+3. **Speech first** then mixed: Overall 67.74 against random sampling's
+   68.21 and text-first's 66.42 (Table 2); "Under this setting, performance
+   is roughly equal to random sampling" (§6.3).
+4. **Corpus order.** Simple to complex 68.77, complex to simple 66.72,
+   random 68.21 (Table 3); "difficult to make any strong claims regarding
+   the effect of ordering" (§7).
+5. **Text-heavy control.** Simple to complex 67.28 against random 66.38
+   (Table 5): "we find a slight, but discernible improvement from using the
+   curriculum" (§9), not extending to held-out tasks.
+
+## Assumptions
+
+BLiMP and held-out zero-shot tasks stand in for grammar; steps, not tokens,
+are held fixed; the steps-over-tokens reading is inferred, not manipulated.
+
+## Concepts
+
+Starting small; cumulative staged curricula; speech against text; high-
+utility data; share of steps against share of tokens.
+
+## Bearing on the record
+
+- **[THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md)** (Bengio and colleagues), qualifies, as a parallel
+  test: easy-first curricula do not beat random sampling here; the authors
+  cannot rule out longer-horizon trends.
+- **[THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md)** (Feng and colleagues), parallel and agreeing:
+  developmental or complexity order barely moves final syntactic scores in
+  small models, and coherent units matter (sequences beat token blocks,
+  68.21 against 64.1, Table 1).
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)** (Skill-it), parallel: a random mixture is hard to beat
+  by sequencing at a fixed step budget.
+- **[CLAIM-756](../claims.d/CLAIM-756.md)** and **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**, background: no later acquisition's
+  cost is measured with and without speech first, so this is not the
+  owner's recalled result.
+- **[CLAIM-596](../claims.d/CLAIM-596.md)**, a methodological point: final scores at a fixed budget
+  cannot tell speech data that speeds later text learning from speech data
+  that simply carries the grammar signal.
+- **[THEORY-293](../theory.d/THEORY-293.md)**, analogy: a data type's share of training sets what is
+  acquired; there a threshold, here only suggested.
+
+## Limitations
+
+Three seeds, no significance tests; one model size; steps fixed while line
+lengths differ; the control changes batch and length; random sampling's
+standard deviation reported as 0.23 and as 0.52 in different tables.

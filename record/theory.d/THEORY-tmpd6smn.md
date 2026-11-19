@@ -36,3 +36,22 @@ plasticity window and assume plasticity declines in their theory.
 
 Controlled runs, one per condition, at small scale; fine-tuning with
 seeds; final loss after a fixed budget; schedule confound unaddressed.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmpfvaag THEORY-tmpngig0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Blakeney and colleagues ([THEORY-tmpfvaag](THEORY-tmpfvaag.md)) qualify the reading of late code
+most directly: a late phase heavy in code and domain data raises code and
+math scores of a 7B base model at 1T tokens, where this account found late
+code worse than none for small models after fine-tuning; targets and scale
+differ and neither controls the learning-rate schedule, so a plasticity-
+window reading should not be generalized to the conclusion that late
+specialized data hurts. Feng, Prabhumoye and colleagues ([THEORY-tmpngig0](THEORY-tmpngig0.md))
+agree with Blakeney on base-model scores. Akter and colleagues
+([THEORY-tmpgk8nb](THEORY-tmpgk8nb.md)) are the closest parallel: specialized data substituted into
+pretraining helps later fine-tuning. Aryabumi and colleagues
+([THEORY-tmpbsmcq](THEORY-tmpbsmcq.md)) are consistent on early code. Ma and colleagues
+([THEORY-tmp9adpz](THEORY-tmp9adpz.md)) leave open, uncontrolled, the pretraining-stage question this
+account answers at matched tokens. Nishida and colleagues
+([THEORY-tmp5jrhv](THEORY-tmp5jrhv.md)) find early code and STEM examples weakly aligned, attribution
+only.

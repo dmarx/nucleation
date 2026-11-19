@@ -1,8 +1,19 @@
 ---
-status: Open
+status: Done
 title: 'Find and read work on what data early in pretraining does to the cost of learning other data later: the owner''s recollection of social-media or forum text first easing domain text later, code first easing natural language, and the neighbours the first search found'
-version: 1
-stage: idea
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Done: a targeted search and fifteen readings (curation entry of
+    2026-11-19, 213652). The owner's recollection, social-media or forum
+    text early easing domain text later, was not found: the nearest are
+    two attribution studies of ordinary runs. Code first is contested: a
+    positive final-score result that does not survive cooldown, and a
+    compute-matched null. Two readings add cost-counted evidence for
+    CLAIM-756: transfer as effective data, and a procedural warm-up.
+stage: underway
 method:
 - reading
 tags:
@@ -23,6 +34,7 @@ summary: >-
   search found and did not read are listed here.
 ---
 <!-- inactive-ok-file: LEAD-tmp5lpoy — Done; the lead this one follows -->
+<!-- inactive-ok-file: CLAIM-756 — Proposed; named in the history note -->
 
 # LEAD-tmpjdtrl: Find and read work on what data early in pretraining does to the cost of learning other data later: the owner's recollection of social-media or forum text first easing domain text later, code first easing natural language, and the neighbours the first search found
 

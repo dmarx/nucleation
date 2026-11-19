@@ -115,3 +115,18 @@ sparing the time it would take to form.
 
 ## Note of 2026-11-19: Bengio, Louradour, Collobert and Weston, read
 A qualification ([NOTE-tmpk9vq9](../notes.d/NOTE-tmpk9vq9.md)): the founding curriculum paper reports mostly end yields, the measure this claim says cannot tell a generative nucleus from a head start; only its language-model curve, where the curriculum model gets "better on the new words" quickly, speaks to the rate of the later step.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp9adpz THEORY-tmpf6s7m THEORY-tmply4g3 THEORY-tmpngig0 THEORY-tmpshgvo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Most of the follow-up readings report yields, and so cannot tell a
+foundation that speeds later learning from a head start: Papadimitriou and
+Jurafsky ([THEORY-tmpf6s7m](../theory.d/THEORY-tmpf6s7m.md)) measure end-state perplexity under a frozen
+interface; Opper ([THEORY-tmpshgvo](../theory.d/THEORY-tmpshgvo.md)), Feng and Prabhumoye ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md))
+and Ma ([THEORY-tmp9adpz](../theory.d/THEORY-tmp9adpz.md)) final scores; Wang and colleagues
+([THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md)) a per-step attribution with the same blindness. Zhang and
+colleagues ([THEORY-tmply4g3](../theory.d/THEORY-tmply4g3.md)) come nearest to the rate this claim asks for:
+strict curricula look like head starts, an early lead that closes, while a
+curriculum warm-up keeps improving after the baseline converges; read from
+a figure, one run, no rate quantity. Supports the claim's diagnosis; no
+status change.

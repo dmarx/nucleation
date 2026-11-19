@@ -34,3 +34,16 @@ the cost of the end task's acquisition.
 
 Eight classification tasks, five seeds, one base model; no learning
 curves; general pretraining not ablated.
+
+## Note of 2026-11-19: the scheduling follow-up readings, read
+<!-- inactive-ok-file: THEORY-tmp1mk7r THEORY-tmpfvaag THEORY-tmpvbozh — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Yıldız and colleagues ([THEORY-tmpvbozh](THEORY-tmpvbozh.md)) extend domain-adaptive pretraining
+to 159 domains with decoders: continuing through earlier domains beats
+adapting the base model to each alone for GPT-2, while Llama2-7B is
+degraded even by domain adaptation on small domains. Blakeney and
+colleagues ([THEORY-tmpfvaag](THEORY-tmpfvaag.md)) move relevant data into the last phase of
+pretraining, and their late ablation without math falls below no
+intervention, echoing the irrelevant-domain arm here. Hernandez and
+colleagues ([THEORY-tmp1mk7r](THEORY-tmp1mk7r.md)) give the cost form: nearer pretraining helps
+more, read in their transfer exponent. Parallels.
