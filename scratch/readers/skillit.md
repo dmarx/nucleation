@@ -17,3 +17,11 @@ Pilot in-flight notes, 2026-11-19. Lead: LEAD-tmp5lpoy.
 - Orderings tested as sequences (Skill-curriculum, from Varshney et al.) do NOT help: on LEGO skill-curriculum avg loss 0.546 vs random 0.542 vs skill-stratified mixture 0.046 (proceedings Table 4). On addition skill-curriculum 0.463 vs random 0.010 (proceedings Table 6). frac=0.0 "resulted in forgetting".
 - Edges do not follow the task's own logical chain: D.1, skill 3 does not help skill 4 though they share a chain edge.
 - Doubt: no experiment trains prerequisite FIRST, then target, against target-only with the prerequisite's cost stated. The closest to CLAIM-756's shape is the mixture-vs-target-only at equal total steps, where the prerequisite data comes out of the budget.
+
+## Step 4: bearings searched
+- Named: CLAIM-756 qualifies-to-supports (an instance of a co-acquired skill lowering the steps to a target at equal total budget; not sequential, no valuation); CLAIM-754 parallel only; CLAIM-758 no bearing (no stabilization time-course); TERM-131 background; CASE-295 parallel in shape, but the paper's "prerequisite" is co-training, not prior acquisition; CASE-294 methods analogy (loss-to-threshold budget; graph-learning brute force is a pairwise cost probe).
+- Found by grep: QUESTION-039 (order of acquisition) and THEORY-783 / THEORY-253 / QUESTION-193 (sequential skill onset) parallel; THEORY-688 (ill-fitting options slow learning) parallel to orderings that hurt; CLAIM-761 / CLAIM-303 background; QUESTION-495 bears (the graph must be learned at a cost: Table 13 in the proceedings counts it).
+- Main open doubt for the filer: the lead calls the work one that "orders training data by prerequisite skills"; it reweights a mixture, and its own sequential skill curriculum does no better than random on LEGO.
+
+## Done
+Quotes rechecked by script against both texts (all found). Final report handed back.
