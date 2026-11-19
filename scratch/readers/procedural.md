@@ -10,3 +10,7 @@
   - 1.3B substitutive: 82M procedural tokens -> 66% of C4, 75% of CodeParrot.
   - Cites Papadimitriou & Jurafsky 2023 (2304.13060, "Injecting structural hints"), not 2004.14601. Hu et al. 2025 cited as prior; no head-to-head.
 - Next: record bearings.
+- Bearings searched. No LIT for this work on the record or on this branch yet; the only characterization is the lead brief's "reportedly 0.1-0.3% ... 55/67/86%", which is the abstract's and conflates two runs for DM-Math (86% needs 10.4M tokens, ~0.6%).
+  - CLAIM-756: supports the premise (earlier acquisition lowers later cost; earlier cost tiny), not the valuation content. THEORY-tmpk9cmk: parallel, independent second instance with different procedures; lacks Hu's natural-language first-phase control. THEORY-tmpd6l4a, THEORY-tmp0lbb1: parallel. QUESTION-039: partial (amount/duration matters non-monotonically, App. I). TERM-117: application (vector productivity: Union hurts Sorting, helps Multiplication). CLAIM-754/758: some procedures raise later costs; overfitting the first phase impairs transfer. THEORY-1030 (Geva) background to the MLP finding.
+  - Open doubt: whether substitutive points are read off one cosine-scheduled baseline curve or from re-scheduled shorter runs; the text does not say. No seed count for semantic runs.
+- Quotes rechecked by script against the downloaded text. Report sent.
