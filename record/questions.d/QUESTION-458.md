@@ -190,3 +190,8 @@ Two corrections to the section above. COPE's paper never names Edapt; that
 COPE became Eclipse Edapt is known from outside it. A's bare "Stojanovic" at
 A22 is most likely Stojanovic et al. 2002, named by Flouris et al. and now
 registered ([LIT-2514](../literature.d/LIT-2514.md), not read). The question is unchanged.
+
+## Note of 2026-11-19: Carnap, read
+<!-- inactive-ok-file: ADR-tmptwlsg — Proposed; cited from the reading of 2026-11-19 -->
+
+Carnap's *Logical Foundations of Probability*, read in full (THEORY-tmpai35t, bears_on; NOTE-tmpgrtgu). It gives criteria for judging a change of concept or language, which part 2 needs as a standard for whether the coupling does work: an explicatum is judged as "more satisfactory than another one" (§2), by similarity, exactness, fruitfulness and simplicity (§3), and a choice between language forms goes to the one "for which a more adequate or more convenient inductive method can be developed" (§15B). Rival explicata of different explicanda are kept side by side (§9). ADR-tmptwlsg (Proposed) applies these criteria to the record's own terms, which puts argumentation over a change of definition inside luria's coupling. No answer to either part.

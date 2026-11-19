@@ -104,3 +104,6 @@ general proof. Neither happened.
 - Hotelling's 1929 parameter-space metric (Appendix 3) is the Fisher
   information metric, two decades before Rao. The record's
   information-geometry holdings may want it as history.
+
+## Note of 2026-11-19: Carnap, read
+Consistent, from 1950 (NOTE-tmpgrtgu): Carnap reports maximum likelihood's validity as still disputed, doubts its values on small samples and accepts it as a large-sample approximation (§98), and calls the statistical theory of estimation of the time "a startling spectacle of unsolved controversies and mutual misunderstandings".

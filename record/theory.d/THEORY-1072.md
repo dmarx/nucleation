@@ -77,3 +77,6 @@ computability is what moves the boundary (p. 197).
 - **Anything about questions or inquiry.** The paper's terms are problems,
   problem spaces and solvers; carrying it to what an agent can ask is the
   record's own step ([CLAIM-475](../claims.d/CLAIM-475.md)).
+
+## Note of 2026-11-19: Carnap, read
+A parallel (NOTE-tmpgrtgu): degree of confirmation "is, in gen- eral, not a computable function", computable only in restricted classes, while checking a given proof is "practically effective" (§43). Practicable rather than in-principle computability, as in this account.

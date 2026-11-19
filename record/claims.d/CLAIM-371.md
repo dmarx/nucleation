@@ -74,3 +74,6 @@ wⱼ > 0.
 - It does not say no weighting is right. That fidelity is task-relative, and
   that the theory fixes no weighting, is [CLAIM-128](CLAIM-128.md)'s thesis, which is
   argued, not proved.
+
+## Note of 2026-11-19: Carnap, read
+A structural parallel from Carnap (NOTE-tmpgrtgu), not evidence. His comparative confirmation holds exactly when every regular confirmation function agrees, and two pairs are incomparable when "some c-functions rate the one pair higher and other c-functions the other pair" (§82). That is this claim's dominance order, in which incomparability is disagreement among admissible weightings, in a different domain. The claim is unchanged.

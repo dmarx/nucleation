@@ -175,3 +175,6 @@ garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
 [THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-11-19: Carnap, read
+A parallel from Carnap (NOTE-tmpgrtgu), not evidence: his comparative confirmation, like Blackwell's order, is defined over one fixed space (one language's state-descriptions), and says nothing across languages; confirmation is relative to the language (§§14, 52). The claim is unchanged.

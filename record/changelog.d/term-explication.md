@@ -21,3 +21,14 @@
   performance definition of learning an explicatum of another
   explicandum, not a rival; dated notes on CLAIM-472, CLAIM-293,
   CLAIM-294, CLAIM-401, THEORY-1239 and THEORY-1797.
+- THEORY-tmpai35t promoted to Active at the owner's request, with
+  bears_on QUESTION-458; dated notes from the Carnap reading on
+  twenty-eight further entries, each saying which kind of bearing it is.
+
+### Changed
+
+- The read-and-file skill, step 8: notes on every bearing a reader
+  reports, weaker ones included, are part of every reading, with a
+  relation only where the reading is named as evidence; and when a
+  reading meets a THEORY's promote_when, say so.
+

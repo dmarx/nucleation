@@ -121,3 +121,6 @@ stick is occupied, and their expected number, 0.34, is the whole gap
 9.31 − 8.97. The comparison stands. The IBP's original paper, [LIT-1623](../literature.d/LIT-1623.md),
 read the same day, states αH_N for the limit only, as the review does
 ([THEORY-1043](THEORY-1043.md)). The title and status are unchanged.
+
+## Note of 2026-11-19: Carnap, read
+Background (NOTE-tmpgrtgu): the finite model here is exchangeable over objects, which Carnap requires of any adequate confirmation function as symmetry (§§90–91).

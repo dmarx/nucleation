@@ -124,3 +124,6 @@ what we would be entitled to say.
 - **Mimicry.** [THEORY-023](THEORY-023.md) holds that mimicry undercuts behavioural evidence
   for AI consciousness. It is aimed at the assumption of §2, which this
   account states and does not defend.
+
+## Note of 2026-11-19: Carnap, read
+Background (NOTE-tmpgrtgu): the replacement here, of an inexact question by an exact one, is what Carnap calls explication (§2), judged as more or less satisfactory rather than right (THEORY-tmpai35t). Carnap does not cite Turing.

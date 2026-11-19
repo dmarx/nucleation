@@ -119,3 +119,6 @@ accumulation of negligible rounding errors.
 - Pettigrew's accuracy-first credence ([LIT-171](../literature.d/LIT-171.md)) is a neighbour on the
   relation of credence to outright belief. It is not engaged, and the
   thesis predates it.
+
+## Note of 2026-11-19: Carnap, read
+A related bound (NOTE-tmpgrtgu): high confirmation is not transitive, but a cumulative chain keeps it high "provided the chain is not too long" (Carnap 1950, §59), the same accumulation of small losses this account bounds by counting conjuncts.

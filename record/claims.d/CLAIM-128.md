@@ -125,3 +125,6 @@ transports on any task. Only D_obs has a formula ([QUESTION-005](../questions.d/
 whether components move together is [QUESTION-013](../questions.d/QUESTION-013.md), so whether trade-offs
 occur at all, the first branch of the defeat condition, has no
 observation. The order-theoretic part is [CLAIM-371](CLAIM-371.md) and is Active.
+
+## Note of 2026-11-19: Carnap, read
+A parallel from Carnap (NOTE-tmpgrtgu). His comparative confirmation leaves most pairs incomparable because admissible measures disagree (§82), and he resolves it not from the order but by choosing one measure, provisionally and by its consequences (§110A). The same move this claim leaves to a task's priorities. The claim is unchanged.

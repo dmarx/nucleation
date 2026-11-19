@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'Carnap (1950) holds that an explication replaces an inexact concept by an exact one and is judged as more or less satisfactory, not right or wrong, after the concept to be explicated has been made practically clear by examples of uses intended and not intended; an adequate explicatum is similar enough to it (considerable differences permitted), exact, fruitful for formulating general statements, and as simple as those three permit'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-19'
@@ -12,24 +12,29 @@ history:
     the explicandum, which is this entry's promote_when; the status is left
     for the owner, since both readings were made in one session. The rest
     of the book shows the method in use (NOTE-tmpgrtgu, results 8 to 14).
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Promoted at the owner's request: its promote_when, a second reader of
+    chapter I, sections 2 and 3, confirming the four requirements, the
+    comparative standard and the prior clarification of the explicandum,
+    was met by the delegated reader of chapters I and II at the full
+    reading. Text unchanged. bears_on QUESTION-458 added with a note.
 source:
 - LIT-tmpkck45
 tags:
 - philosophy-of-science
 - epistemology
 date: '2026-11-19'
-promote_when: >-
-  Confirmed by a second reader of chapter I, sections 2 and 3, or by a
-  secondary account that reports the same four requirements, the
-  comparative standard and the prior clarification of the explicandum
-  (THEORY-1797 reports the first).
 corroborates:
 - CLAIM-472
+bears_on:
+- QUESTION-458
 summary: >-
   From the reading of [LIT-tmpkck45](../literature.d/LIT-tmpkck45.md) in [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md). The primary source for the four
   desiderata [THEORY-1797](THEORY-1797.md) reports from the SEP entry, and for the
-  explication form's critical questions ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)). Proposed until its
-  promote_when is met.
+  explication form's critical questions ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)). Active since the full reading
+  confirmed it.
 ---
 <!-- inactive-ok-file: ADR-tmptwlsg THEORY-1797 — Proposed; the decision this reading grounds and the secondary account it backs -->
 

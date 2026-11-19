@@ -230,3 +230,6 @@ Two readings of 2026-10-29 give instances.
   not staying the same system.
 
 The claim is unchanged.
+
+## Note of 2026-11-19: Carnap, read
+A second source of relativity, from Carnap (NOTE-tmpgrtgu). His Q-predicates are the finest partition a monadic language can express ("the strongest factual properties expressible in the system", §31), and the width of a property is defined only relative to the language's primitives (§32). That partition is relative to the vocabulary chosen, not to a target outcome as this claim's is. The two compose: what can be individuated at all is fixed by the language, and which partition wins by the target. The claim is unchanged.
