@@ -23,6 +23,7 @@ summary: >-
   `draws_on` to claims and cases; leaving it to prose.
 ---
 <!-- inactive-ok-file: CLAIM-472 TERM-tmp1ix99 — Proposed; the record's ground for the form, and the term of its first application -->
+<!-- inactive-ok-file: THEORY-tmpai35t THEORY-1797 — Proposed; the readings that carry the form's provenance -->
 
 # ADR-tmptwlsg: An ARG may conclude a TERM, as an explication: that the definition does its declared job better than its predecessor and rivals, judged by Carnap's adequacy conditions; the verdict is the argument's and adoption stays the term's status, and the term's `argued_by` is derived
 
@@ -52,14 +53,24 @@ Nothing machine-readable tied the term to either. The owner asked on
    TERM's `argued_by` is its converse, derived by `luria link --fix`.
 2. **It does so in one form, `explication`.** The argument is that the
    definition does its declared job better than its predecessor and its
-   rivals. Its critical questions are Carnap's conditions on an
-   explication, with the comparison made explicit:
-   - Do the paradigm cases, and the cases the job turns on, fall on the
-     right side?
+   rivals. Its critical questions are Carnap's requirements for an
+   explicatum (*Logical Foundations of Probability*, 1950, chapter I;
+   LIT-tmpkck45, read in NOTE-tmpgrtgu, account THEORY-tmpai35t; the SEP
+   entry's report of them is THEORY-1797), with the comparison made
+   explicit:
+   - Is the explicandum clear: which uses was the word meant to cover,
+     and which not, shown by examples? Carnap puts this before any
+     explicatum is judged.
+   - Is it similar enough: does it apply in most cases where the word was
+     used, and is each departure, a paradigm case it excludes or a
+     contested case it decides, paid for by fruitfulness? Carnap permits
+     "considerable differences".
    - Is it exact enough to apply?
    - Is it fruitful: what becomes statable that was not?
-   - Is it as simple as the job allows?
-   - Which predecessor and rivals is it judged against?
+   - Is it as simple as the other requirements allow?
+   - Which predecessor and rivals is it judged against? For Carnap the
+     question is whether one explication is "more satisfactory than
+     another", not whether it is right.
 3. **The verdict is on fit, not truth.** A definition is not true or
    false. [CLAIM-472](../claims.d/CLAIM-472.md) (Proposed) holds that choosing a distinction is open
    to evaluation and not only to verification; this is that evaluation

@@ -1,4 +1,4 @@
-<!-- inactive-ok-file: ADR-tmptwlsg ARG-tmp23khr TERM-tmp1ix99 — Proposed; filed in this contribution of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpai35t ADR-tmptwlsg ARG-tmp23khr TERM-tmp1ix99 — Proposed; filed in this contribution of 2026-11-19 -->
 ### Added
 
 - [ADR-tmptwlsg](record/decisions.d/ADR-tmptwlsg.md) (Proposed): an ARG may conclude a TERM, in a new form,
@@ -8,3 +8,9 @@
   that the definition of learning ([TERM-tmp1ix99](record/terms.d/TERM-tmp1ix99.md)) does its job better
   than a definition by improved performance, with two questions answered
   only in part.
+- Carnap's *Logical Foundations of Probability* (1950), registered and
+  its chapter on explication read at the owner's request (LIT-tmpkck45,
+  NOTE-tmpgrtgu, THEORY-tmpai35t), as the provenance of the explication
+  form's critical questions. The reading adds a question, whether the
+  explicandum is clear by examples, and loosens similarity to allow
+  departures paid for by fruitfulness.

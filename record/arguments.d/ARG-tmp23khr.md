@@ -36,7 +36,7 @@ summary: >-
   assistant (Claude, in this session) at the owner's request; the verdict
   is the owner's to adopt.
 ---
-<!-- inactive-ok-file: ADR-tmptwlsg CASE-tmpplox8 CLAIM-519 CLAIM-tmp1l2s7 CLAIM-tmp5gbzr CLAIM-tmp8ljvp TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpai35t ADR-tmptwlsg CASE-tmpplox8 CLAIM-519 CLAIM-tmp1l2s7 CLAIM-tmp5gbzr CLAIM-tmp8ljvp TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
 
 # ARG-tmp23khr: The definition of learning as an experience-dependent change in retained organization, judged by what it later costs and against a counterfactual, does its job better than a definition by improved performance: it makes a step that loses on its own tasks, and stabilization that improves performance while raising the cost of later acquisition, statable as learning; but its exclusion of selection depends on which system is declared, and it is exact only once a comparator and budget are declared
 
@@ -58,8 +58,22 @@ what the record's claims about learning need.
 
 ## Critical questions
 
-- **Do the paradigm cases, and the cases the job turns on, fall on the
-  right side?**
+Asked as Carnap's requirements for an explicatum (THEORY-tmpai35t), in
+the form ADR-tmptwlsg gives them.
+
+- **Is the explicandum clear, by examples of uses meant and not meant?**
+  Mostly, by the term's own examples. Meant: training, will-organization,
+  institutions and self-formation, where the record already used the word
+  undefined. Not meant: a cooling material relaxing, a population changing
+  by differential survival, a fixed controller responding (A46 §7). The
+  second is less clear than it looks, as the question on selection below
+  shows: whether a population is meant as the system was never said.
+- **Is it similar enough, with each departure paid for by fruitfulness?**
+  It is meant to apply wherever the record used the word; that has not
+  been checked use by use. It departs from the
+  rival, and from ordinary use, in counting a step that loses on its own
+  tasks, and in pricing a gain by its later costs; both are paid for by
+  the claims below. Case by case:
   - *A step that loses on its own tasks.* In [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md) a procedure
     loses money on the one question it serves but cuts the cost of a
     second acquisition from 10 to 1. On the rival it is not learning,
@@ -98,7 +112,7 @@ what the record's claims about learning need.
   rival, where the first collapses to one frontier and the last two are
   not learning or not distinguishable from it. Four claims and one
   argument are stated in it.
-- **Is it as simple as the job allows?** Four elements: experience, a
+- **Is it as simple as the other requirements allow?** Four elements: experience, a
   change in retained organization, a later consequence and, kept apart,
   an evaluation. Cost and reliability are additions to Mitchell's, and
   each is used by a claim above.

@@ -519,11 +519,12 @@ vocabularies:
           for more than the reading holds? (ADR-061)'
       explication:
         label: Explication
-        blurb: 'a definition does its declared job better than its predecessor and rivals (Carnap''s
-          explication; CLAIM-472). It concludes a TERM, and its verdict is on fit to that job, not on
-          truth. Critical questions: do the paradigm cases, and the cases the job turns on, fall on the
-          right side? Is it exact enough to apply? Is it fruitful: what becomes statable that was not?
-          Is it as simple as the job allows? Which predecessor and rivals is it judged against? (ADR-tmptwlsg)'
+        blurb: 'a definition does its declared job better than its predecessor and rivals, judged as more
+          or less satisfactory and not as true (Carnap 1950, THEORY-tmpai35t; CLAIM-472). It concludes
+          a TERM. Critical questions: is the explicandum clear, by examples of uses meant and not meant?
+          Is it similar enough, with each departure from the old use paid for by fruitfulness? Is it exact
+          enough to apply? Is it fruitful: what becomes statable that was not? Is it as simple as the
+          other requirements allow? Which predecessor and rivals is it judged against? (ADR-tmptwlsg)'
   question-statuses:
     label: Question statuses
     blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
