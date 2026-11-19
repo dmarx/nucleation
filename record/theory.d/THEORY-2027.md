@@ -57,3 +57,6 @@ Long continual training erodes what random initialization gave the network: smal
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 An analogy from Chen and colleagues ([NOTE-2127](../notes.d/NOTE-2127.md)), who do not discuss plasticity. Their collapse lowers the number of independent neurons and the effective rank and produces vanishing neurons, which parallel two of this account's correlates. Exactly coincident or zeroed units can never be separated by gradients, and near-collapsed ones escape slowly ("the repulsive escape will take longer the closer it starts from the invariant set", p. 10). On that reading, reinitializing units breaks a symmetry SGD cannot break. Their vanishing neurons are zero-weight GELU units, not dead ReLU units.
+
+## Note of 2026-11-19: Liu, Neubig and Xiong, read
+A parallel (NOTE-tmphfhfu): Liu and colleagues' plasticity is inferred from timing and assumed in their theory, where this account measures its loss directly; their gradual decline is consistent with it but is not independent evidence.

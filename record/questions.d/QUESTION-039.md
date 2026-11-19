@@ -106,3 +106,8 @@ joint step: a chain of comparable steps would show an Erlang shape, and
 the measured shape is exponential. The answer is single-author and
 unreplicated, and its exponential evidence is strongest in a toy. No
 status changes.
+
+## Note of 2026-11-19: the data-scheduling readings, read
+<!-- inactive-ok-file: THEORY-tmpd6l4a THEORY-tmpk9cmk — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Two readings bear on order. Hu and colleagues (THEORY-tmpk9cmk, bears_on): structure first, and the first phase's duration, set the later cost. Chen and colleagues (THEORY-tmpd6l4a, bears_on): which skills help which is set by the data and departs from the task's dependency order, and ordering skills in sequence does no better than random. Whether acquisition is one kind of event or several stays open.

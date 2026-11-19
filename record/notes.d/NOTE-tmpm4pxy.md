@@ -1,0 +1,45 @@
+---
+status: Read
+paper: LIT-tmpzv4og
+title: 'Hu, Petty, Shi, Merrill and Linzen — Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 from arXiv 2502.19249v2: the body in full, Appendix
+    B, Table 5; the proofs of Appendix A skimmed. Read on 2026-11-19 by a
+    delegated reader, with running notes on the branch claude/readers/data-
+    scheduling; quotations rechecked by the filer by script against the
+    downloaded text.
+date: '2026-11-19'
+summary: >-
+  Pre-pretraining on a hierarchical formal language before natural-
+  language pretraining: the natural-language tokens needed to reach a loss
+  fall, the first phase's tokens counted (33 per cent fewer at 1B against
+  no first phase). Non-hierarchical first phases raise the cost; a matched
+  natural-language first phase gets much of the saving; the first phase's
+  pruned subnetwork stays important after pretraining, shown post hoc.
+---
+<!-- inactive-ok-file: CLAIM-756 LEAD-tmphfbq0 — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmpm4pxy: Hu, Petty, Shi, Merrill and Linzen — Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases
+
+## Key results
+
+1. **Cost counted.** The efficiency gain counts the first phase's steps: at 1B, k-Shuffle Dyck "achieves the final loss of the no-pre-pretraining baseline after training for only 1.10B total tokens", a "token efficiency gain of 33%" (§6). The control for that figure is no first phase.
+2. **What helps (§4, Table 5).** "Hierarchical dependencies, which both 𝑘-Dyck and 𝑘-Shuffle Dyck have, appear to be crucial for positive transfer from formal to natural language." The copy language is "unhelpful at all durations", and random strings show "This rules out the hypothesis that any pre-pretraining is helpful". At 160M, a matched natural-language first phase lowers loss almost as much (3.754 against 3.741 for k-Shuffle Dyck, both against 3.780 with none), within the reported spreads. The learning-rate warmup restarts in every two-phase arm.
+3. **Duration (§4).** "there is an optimal duration after which additional formal language pre-pretraining leads to less effective transfer overall".
+4. **Not only local statistics (§6).** First phases matching only n-gram statistics are "strictly less effective".
+5. **Mechanism (§5).** A subnetwork found by pruning after the first phase, ablated after pretraining, does better than random subnetworks: "the subnetwork learned during pre-pretraining continues to play a critical role after training on natural language". Post hoc: nothing disrupts it before pretraining.
+
+## Bearing on the record
+
+- **CLAIM-756.** Evidence for its premise with the earlier cost counted, stronger than ULMFiT's on accounting: a marginal rate of substitution above one. Order matters at equal total tokens, though a natural-language first phase gets much of it, so part may be the schedule.
+- **TERM-117.** An application of the term: a declared target (the baseline's final loss), comparators (none, random strings, natural language), a horizon, productivity as timeliness. The first-phase state as a whole passes the interventional test; the identified heads do not, since their evidence is post hoc. The duration optimum and the copy language's harm fit the term's warnings that a nucleus can promote one form and obstruct another.
+- **LEAD-tmphfbq0.** Still needed for mediation; the authors' setup is a ready testbed: disrupt the subnetwork before pretraining and compare the saving.
+- **QUESTION-039.** Partly answered for order: structure first, and the first phase's duration, set the later cost.
+
+## Limitations
+
+Small effect sizes against matched natural language; one 1B run; the warmup confound; blocked training only; mechanism post hoc.

@@ -201,3 +201,6 @@ monotone half is now filed as [CLAIM-409](../claims.d/CLAIM-409.md). The proposa
 Under squared-error gradient flow, the residual obeys ė = −K_τ e. Write it in the kernel's moving eigenbasis, e = U_τ a, with K_τ = U_τ Λ_τ U_τᵀ. Then ȧ = −Λ_τ a − Ω_τ a, with Ω_τ = U_τᵀ U̇_τ skew-symmetric. The first term is relaxation along the current modes. The second redistributes the residual because the modes themselves rotate. In the fixed-kernel regime the second term vanishes, and learning order is spectral order. With feature learning it need not be. The derivation is A's, from the continuation of the exchange "Explain String Theory" (A14), and is standard calculus under differentiable, non-degenerate eigenspaces. Within a degenerate eigenspace the rotation is a choice of coordinates, so only rotations of identifiable subspaces count.
 
 It adds a fourth order to the question's three: the order in which the space of modes is reorganized. This answers none of the four. No status change.
+
+## Note of 2026-11-19: Chen and colleagues, read
+A qualification by analogy (NOTE-tmpwrmog): the order in which skills benefit training departs from the task's own dependency order ("the reasoning graph does not necessarily equal the skills graph").

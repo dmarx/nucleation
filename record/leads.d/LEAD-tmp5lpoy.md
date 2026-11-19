@@ -1,8 +1,17 @@
 ---
-status: Open
+status: Done
 title: 'Read the data-scheduling and curriculum literature for experiments that order acquisitions, so that the cost of a later acquisition can be measured with and without an earlier one'
-version: 1
-stage: idea
+version: 2
+history:
+- version: 2
+  date: '2026-11-19'
+  note: >-
+    Done: a search and six readings (curation entry of 2026-11-19, 211445).
+    The candidates the assistant recalled were read; one was misdescribed
+    here: Chen and colleagues mix prerequisite data in, they do not order
+    it. The specific result the owner recalls was not found; a narrower
+    search, for Reddit or forum data, is LEAD-tmpjdtrl.
+stage: underway
 method:
 - reading
 tags:
@@ -22,6 +31,7 @@ summary: >-
   of a later one, with and without it, which neither GPT-3 nor ULMFiT
   isolates.
 ---
+<!-- inactive-ok-file: LEAD-tmpjdtrl — newly filed; the follow-up search -->
 
 # LEAD-tmp5lpoy: Read the data-scheduling and curriculum literature for experiments that order acquisitions, so that the cost of a later acquisition can be measured with and without an earlier one
 
@@ -45,3 +55,15 @@ For [CLAIM-756](../claims.d/CLAIM-756.md)'s premise: the data or compute needed 
 later domain or skill, lower after an earlier one than without it, with
 the earlier one's cost stated. Against the stronger reading the owner's
 example suggests: the order not mattering once total data is fixed.
+
+## What came of it
+
+Two works measure an earlier acquisition lowering a later one's cost with
+the earlier cost counted: Hu and colleagues (a formal-language first
+phase, a third fewer total tokens at 1B) and Chen and colleagues (mixing
+prerequisites in, a third fewer steps at fixed budget). Bengio and
+colleagues give the pattern in final-error terms. Gururangan and
+colleagues, Liu and colleagues, and Feng and colleagues measure final
+performance; the second finds specialized data early better than late,
+against the direction of the owner's example, and the third finds that
+developmental order within child conversation barely matters.

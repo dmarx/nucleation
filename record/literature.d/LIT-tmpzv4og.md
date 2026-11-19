@@ -1,0 +1,45 @@
+---
+status: Active
+status_note: >-
+  Read on 2026-11-19 (NOTE-tmpm4pxy). Worth reading as the cleanest
+  measure on record of an earlier acquisition lowering a later one's cost
+  with the earlier cost counted.
+title: 'Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Registered and read on 2026-11-19 at the owner's request (LEAD-
+    tmp5lpoy), from arXiv 2502.19249v2 (2025-05-27; v1 2025-02-26), the ACL
+    2025 camera-ready; venue and DOI from the ACL Anthology. Not held
+    before.
+tags:
+- learning-theory
+- representation-learning
+- anthology-candidate
+date: '2026-11-19'
+published: '2025-02-26'
+doi: '10.18653/v1/2025.acl-long.478'
+arxiv: '2502.19249'
+first_author: 'Hu'
+keywords: []
+implementations: []
+summary: >-
+  Hu, Petty, Shi, Merrill and Linzen (ACL 2025), arXiv 2502.19249. A short
+  first phase of training on a formal language with hierarchical
+  dependencies lowers the natural-language tokens needed to reach a given
+  loss, counting the first phase: a 1B model reached its baseline's final
+  loss with 33 per cent fewer total tokens. The copy language and random
+  strings raise the cost; matched natural language as a first phase gets
+  much of the saving; heads found by pruning after the first phase remain
+  important afterwards. Read in NOTE-tmpm4pxy; account THEORY-tmpk9cmk.
+---
+
+# LIT-tmpzv4og: Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases
+
+Michael Y. Hu, Jackson Petty, Chuan Shi, William Merrill and Tal Linzen (2025). "Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases". ACL 2025; arXiv 2502.19249.
+
+## Standing in the record
+
+Registered and read on 2026-11-19 at the owner's request, under LEAD-tmp5lpoy.

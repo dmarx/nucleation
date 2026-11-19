@@ -36,3 +36,6 @@ Pretraining already shows prior learning making later learning cheaper
 in general (the owner, U37); what this would add is control over which
 organization causes it. Worth specifying only if the readings of the
 pretraining literature leave that open.
+
+## Note of 2026-11-19: Hu, Petty, Shi, Merrill and Linzen, read
+Hu and colleagues' setup (NOTE-tmpm4pxy) is a ready testbed for this lead's mediation test: disrupt or reinitialize the subnetwork found after the formal-language phase, before natural-language pretraining, and see whether the token saving goes. Their first phases matching only local statistics are a partial analogue of the shortcut arm. That is the assistant's suggestion, not the paper's.
