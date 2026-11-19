@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmph678z
 title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -42,6 +42,12 @@ history:
     stands for Sen's opportunity aspect only through a map to valued
     functionings is a claim about what capability needs, the line's
     subject. will-organization stays first. No other change.
+- version: 6
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §8 states its proposition. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +68,8 @@ date: '2026-10-18'
 line:
 - will-organization
 - flourishing-and-meaning
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-079
 - CLAIM-027

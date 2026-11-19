@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3qyzh
 title: 'Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal'
-version: 6
+version: 7
 history:
 - version: 1
   date: '2026-10-11'
@@ -44,6 +44,13 @@ history:
     Note of 2026-10-29 added, from the readings of Shalizi and
     Crutchfield (NOTE-1372) and Kolchinsky and Wolpert
     (NOTE-1370). The claim is unchanged.
+- version: 7
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §6 uses its proposition, and §11 states it as the
+    fourth limit. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -59,6 +66,8 @@ date: '2026-10-11'
 line:
 - distributed-agency
 - formal-apparatus
+works:
+- cost-structure-of-possibility
 uses:
 - TERM-049
 summary: >-

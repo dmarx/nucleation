@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6wuql
 title: 'Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-13'
@@ -33,6 +33,13 @@ history:
     sixty units after withdrawal); ARG-105 answers Gardner's
     challenge to the framing, and nothing read argues that the
     capability set includes later sets. No change of title.
+- version: 5
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §8.1 states its proposition, and §10's Hypothesis
+    4 restates it. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -59,6 +66,7 @@ line:
 - flourishing-and-meaning
 works:
 - capability-restraint-relational-freedom
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-605
 - CLAIM-352

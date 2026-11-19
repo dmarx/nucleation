@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpancvu
 title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -21,6 +21,13 @@ history:
     construction and maintenance rank alike (Aksel et al., Shirt-Ediss et
     al.) are what its defeat condition excludes. TERM-106 is cited in the
     body in its two-sided sense and takes no edge.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §3.3 and §5.3 state its proposition. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -39,6 +46,8 @@ date: '2026-11-05'
 line:
 - readiness
 - realizability
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-571
 uses:

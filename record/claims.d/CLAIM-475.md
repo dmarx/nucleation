@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-29'
@@ -56,6 +56,13 @@ history:
     A dated note: A79 §2 of the exchange "Assess Depp Heard Abuse"
     applies the claim to contestation, where it becomes the first
     stage of an effective objection. No other change.
+- version: 8
+  date: '2026-11-19'
+  note: >-
+    Joins the work cost-structure-of-possibility (ADR-tmpfio55), the
+    owner's manuscript from the exchange "Topological protection
+    explained": A43 §4.3, §9 and §12 state its proposition. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -75,6 +82,8 @@ tags:
 date: '2026-10-27'
 line:
 - record-as-apparatus
+works:
+- cost-structure-of-possibility
 rests_on:
 - CLAIM-470
 complements:
