@@ -57,7 +57,7 @@ objective, the less the capacity to acquire other structure is
 exercised. If that capacity obeys the same three conditions, the same
 threshold follows for recovery by practice: renewed practice restores
 the capacity before a point and not after. It does not follow for every
-intervention. In CLAIM-605's model a direct boost that lifts capacity
+intervention. In [CLAIM-605](CLAIM-605.md)'s model a direct boost that lifts capacity
 above the threshold restores growth, so an intervention that raises the
 capacity itself, as a weight reset might, can work after the point where
 practice alone fails. And across runs that differ in their thresholds, a
@@ -77,7 +77,7 @@ with no threshold. The two readings are what the test separates.
 
 ## The test
 
-In CASE-tmphsr99, at every checkpoint, apply renewed practice
+In [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md), at every checkpoint, apply renewed practice
 (mixed-task exposure) and, separately, direct interventions (the
 query–key reset, the value–output reset, higher weight decay from a
 checkpoint onward), and plot the gain in later acquisition cost against

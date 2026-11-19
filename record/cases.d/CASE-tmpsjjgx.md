@@ -126,6 +126,6 @@ only which preferences become observable? A class that predicts only
 under the policy that uses it is a compression of that policy's
 exposure; one that keeps predicting under changed exposure is a unit of
 the users' own engagement; one whose members' preferences move toward
-the class when the policy acts on it is CLAIM-327's self-reinforcing
+the class when the policy acts on it is [CLAIM-327](../claims.d/CLAIM-327.md)'s self-reinforcing
 collective variable. The wording is ChatGPT's in substance; adopting it
 is the owner's call.

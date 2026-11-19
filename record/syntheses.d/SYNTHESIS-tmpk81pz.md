@@ -52,11 +52,11 @@ summary: >-
 
 ## The parts
 
-- SYNTHESIS-tmplih4n: how an equivalence becomes a unit
+- [SYNTHESIS-tmplih4n](SYNTHESIS-tmplih4n.md): how an equivalence becomes a unit
   (formal-apparatus).
-- SYNTHESIS-tmphvng7: stored work and the cost structure of possibility
+- [SYNTHESIS-tmphvng7](SYNTHESIS-tmphvng7.md): stored work and the cost structure of possibility
   (realizability).
-- SYNTHESIS-tmpfhzxg: what learning does to what can still be learned
+- [SYNTHESIS-tmpfhzxg](SYNTHESIS-tmpfhzxg.md): what learning does to what can still be learned
   (learned-structure).
 
 ## The chain, step by step
@@ -65,33 +65,33 @@ ChatGPT's five steps, each with the entry that states it, the entry that
 says it can hold without the next, and the test the record has for it.
 
 1. **Selective identification → operative reification.** Stated by
-   CLAIM-tmpw8xkt (the owner's, U10): collapsing differences that do not
+   [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md) (the owner's, U10): collapsing differences that do not
    matter is how classes come to be reified. *Can fail:* a partition
-   need not be operative; CLAIM-tmpw8xkt itself makes the claim
+   need not be operative; [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md) itself makes the claim
    substantive only where the classes are closed under the system's
-   operations and reused, and CLAIM-154 says when a unit is worth
-   naming. *Test:* CASE-tmpsjjgx's closure test and its intervention
+   operations and reused, and [CLAIM-154](../claims.d/CLAIM-154.md) says when a unit is worth
+   naming. *Test:* [CASE-tmpsjjgx](../cases.d/CASE-tmpsjjgx.md)'s closure test and its intervention
    arm.
 2. **Operative unit → historical amortization.** Stated by
-   CLAIM-tmpqpd2p (the owner-endorsed thesis): a stabilized constraint
+   [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) (the owner-endorsed thesis): a stabilized constraint
    can be stored work, replacing later work with cheaper operations.
-   *Can fail:* an operative distinction need not save work, CLAIM-443
+   *Can fail:* an operative distinction need not save work, [CLAIM-443](../claims.d/CLAIM-443.md)
    (persistence is not amortization), and a slow variable can save none,
-   CLAIM-tmp449rr.
+   [CLAIM-tmp449rr](../claims.d/CLAIM-tmp449rr.md).
 3. **Amortization → capability transformation.** Stated by
-   CLAIM-tmpqpd2p: under a per-task budget, stored work moves tasks
+   [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md): under a per-task budget, stored work moves tasks
    across the budget line. That costs can move in different directions
-   for operating, learning and inquiry is CLAIM-tmp1l2s7. *Can fail:*
-   saved work need not expand a valuable capability: CLAIM-tmpkrk41 (it
-   may be work transferred), and CLAIM-352 (the owner's: an affordable
-   option is not yet a freedom). *Test:* CASE-tmphsr99's primary
+   for operating, learning and inquiry is [CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md). *Can fail:*
+   saved work need not expand a valuable capability: [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md) (it
+   may be work transferred), and [CLAIM-352](../claims.d/CLAIM-352.md) (the owner's: an affordable
+   option is not yet a freedom). *Test:* [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md)'s primary
    estimand, acquisition cost by checkpoint, for the learning side.
-4. **Capability → recursive feedback.** Stated by CLAIM-475 (the owner's:
+4. **Capability → recursive feedback.** Stated by [CLAIM-475](../claims.d/CLAIM-475.md) (the owner's:
    the questions an agent can ask are a product of what it has realized)
-   and CLAIM-tmp5gbzr (an acquisition can lower the cost of others).
+   and [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md) (an acquisition can lower the cost of others).
    *Can fail:* a new capability need not support further organization:
-   CLAIM-tmp8ljvp (the owner's overconsolidation, where present
-   competence rises as later acquisition gets costlier) and CLAIM-605
+   [CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md) (the owner's overconsolidation, where present
+   competence rises as later acquisition gets costlier) and [CLAIM-605](../claims.d/CLAIM-605.md)
    (below a threshold the recursion traps instead of accumulating).
 
 ## Not stated on the record
@@ -100,10 +100,10 @@ says it can hold without the next, and the test the record has for it.
   through all five steps, or that each step tends to produce the next,
   is stated by no entry. ChatGPT offered it as a "proposed causal
   sequence, not a universal law". Filed as a claim it would need one of
-  ADR-075's routes; as it stands it is a research map.
-- **That identification is where the chain starts.** CLAIM-tmpw8xkt's own
+  [ADR-075](../decisions.d/ADR-075.md)'s routes; as it stands it is a research map.
+- **That identification is where the chain starts.** [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md)'s own
   completion makes differentiation between basins a second route to
-  classes (CLAIM-408); the chain begins at identification by choice.
+  classes ([CLAIM-408](../claims.d/CLAIM-408.md)); the chain begins at identification by choice.
 - **That any step has been shown in one system end to end.** No case on
   record runs through more than two steps.
 

@@ -57,4 +57,4 @@
   condition matches its quantifier; the three-frontier claim allows
   context-dependent scalars; an intervention arm for the genres case; a
   primary estimand for the Pythia study; and a cross-line account of the
-  five-step chain (SYNTHESIS-tmpk81pz).
+  five-step chain ([SYNTHESIS-tmpk81pz](record/syntheses.d/SYNTHESIS-tmpk81pz.md)).
