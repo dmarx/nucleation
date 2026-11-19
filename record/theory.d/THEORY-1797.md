@@ -39,7 +39,7 @@ its purposes rather than by truth.
 ## Note of 2026-11-19: the primary text, read
 
 Carnap's *Logical Foundations of Probability* read in full
-(NOTE-tmpgrtgu). It confirms from the primary text what this account
+([NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)). It confirms from the primary text what this account
 reports from the SEP entry: the four desiderata, held "to a sufficient
 degree" (§3), and evaluation rather than truth (§2). It adds the
 pluralism in use: two explicanda of probability, both kept (§9), and

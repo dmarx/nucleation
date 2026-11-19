@@ -22,8 +22,8 @@ corroborates:
 - CLAIM-294
 - CLAIM-401
 summary: >-
-  From the reading of LIT-tmpkck45 in NOTE-tmpgrtgu: the book's account of
-  probability, beside THEORY-tmpai35t, its account of explication.
+  From the reading of [LIT-tmpkck45](../literature.d/LIT-tmpkck45.md) in [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md): the book's account of
+  probability, beside [THEORY-tmpai35t](THEORY-tmpai35t.md), its account of explication.
   Proposed until its promote_when is met.
 ---
 

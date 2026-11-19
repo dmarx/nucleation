@@ -36,9 +36,9 @@ line:
 works:
 - cost-structure-of-possibility
 summary: >-
-  The first explication (ADR-tmptwlsg): the argument that the definition
+  The first explication ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)): the argument that the definition
   of learning filed from the exchange "Topological protection explained"
-  (TERM-tmp1ix99, A's wording from A46 and A71) does its job, which is to
+  ([TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md), A's wording from A46 and A71) does its job, which is to
   let claims about learning in any line say what changed, at what cost and
   against what counterfactual. Version 2, after the full reading of
   Carnap: the definition by improved performance (Mitchell's, which A46
@@ -46,10 +46,10 @@ summary: >-
   explicatum of successful learning, which the term keeps apart, and both
   stand. The term passes the necessary condition (a counterfactual
   difference made by experience), is not shown clearly too wide or too
-  narrow, and is exact only once a comparator (TERM-117) and a budget are
+  narrow, and is exact only once a comparator ([TERM-117](../terms.d/TERM-117.md)) and a budget are
   declared. Its fruitfulness is shown only by claims written in its own
   terms; an outside check would be whether those claims survive test, as
-  in CASE-tmphsr99. Proposed. Filed by the assistant (Claude, in this
+  in [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md). Proposed. Filed by the assistant (Claude, in this
   session) at the owner's request; the verdict is the owner's to adopt.
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 THEORY-tmpai35t ADR-tmptwlsg CASE-tmpplox8 CLAIM-519 CLAIM-tmp1l2s7 CLAIM-tmp5gbzr CLAIM-tmp8ljvp TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
@@ -58,7 +58,7 @@ summary: >-
 
 ## The inference
 
-TERM-tmp1ix99 defines learning as an experience-dependent change in a
+[TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md) defines learning as an experience-dependent change in a
 system's retained organization that alters what it can later do, at what
 cost and with what reliability, judged against a counterfactual in which
 the experience did not occur. Successful learning, relative to a declared
@@ -68,11 +68,11 @@ of the record's lines say what changed.
 Version 1 argued that it does this better than the definition A46 says it
 extends: a system learns when its performance at a class of tasks, by a
 measure, improves with experience (Mitchell's). Carnap's first question
-of rivals is whether they explicate the same thing (§9; NOTE-tmpgrtgu,
+of rivals is whether they explicate the same thing (§9; [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md),
 result 8). They do not. Mitchell's definition fixes a task class and a
 measure in advance and asks whether performance rose; that is what the
 term calls successful learning relative to a declared criterion.
-TERM-tmp1ix99 explicates something else: what the experience changed in
+[TERM-tmp1ix99](../terms.d/TERM-tmp1ix99.md) explicates something else: what the experience changed in
 what the system can later do, and at what cost, whatever criterion is
 later applied. So, as with Carnap's two probabilities, the two are
 compatible, and both stand. The argument is that the record's claims
@@ -81,8 +81,8 @@ it adequately.
 
 ## Critical questions
 
-Asked as ADR-tmptwlsg gives them, from Carnap's requirements and his
-practice (THEORY-tmpai35t, NOTE-tmpgrtgu).
+Asked as [ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md) gives them, from Carnap's requirements and his
+practice ([THEORY-tmpai35t](../theory.d/THEORY-tmpai35t.md), [NOTE-tmpgrtgu](../notes.d/NOTE-tmpgrtgu.md)).
 
 - **Is the explicandum clear, and is it the rivals'?** Mostly clear, by
   the term's own examples. Meant: training, will-organization,
@@ -98,20 +98,20 @@ practice (THEORY-tmpai35t, NOTE-tmpgrtgu).
     organization, and the definition counts it as learning. Whether
     evolution "learns" is not a case of practical agreement either way, so
     this does not show the definition clearly too wide. It is a contested
-    case the term has to decide and say it has decided. CLAIM-288 supports
+    case the term has to decide and say it has decided. [CLAIM-288](../claims.d/CLAIM-288.md) supports
     the exclusion for members only: what a population appears to maintain
     is set by what selection keeps, not produced by any member.
-  - *Memorization.* Counted as learning, as ordinary use does. CLAIM-519
+  - *Memorization.* Counted as learning, as ordinary use does. [CLAIM-519](../claims.d/CLAIM-519.md)
     shows why competence cannot test anything more: over a finite horizon
     a lookup table reproduces a model's behaviour exactly.
-  - *A step that loses on its own tasks.* In CASE-tmpplox8 a procedure
+  - *A step that loses on its own tasks.* In [CASE-tmpplox8](../cases.d/CASE-tmpplox8.md) a procedure
     loses on the one question it serves but cuts the cost of a second
     acquisition from 10 to 1. The term counts it as learning: retained
     organization changed and later costs fell. That departs from ordinary
     use, which ties learning to improvement, and is paid for by
-    CLAIM-tmp5gbzr, which turns on it.
+    [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md), which turns on it.
   - *Overconsolidation.* Stabilization that improves the present objective
-    while raising the cost of later acquisition (CLAIM-tmp8ljvp) is
+    while raising the cost of later acquisition ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)) is
     learning on both definitions; only this one can state what it costs.
   - No case of practical agreement was found that the term gets wrong.
 - **Does it meet the necessary conditions?** The one any explicatum of
@@ -121,15 +121,15 @@ practice (THEORY-tmpai35t, NOTE-tmpgrtgu).
   not a level reached (§87). The counterfactual clause meets it. A fixed
   controller and relaxation fail it, as they should.
 - **Is it exact enough to apply, and interpreted?** Only once a comparator
-  and a budget are declared. The counterfactual is TERM-117's comparator;
+  and a budget are declared. The counterfactual is [TERM-117](../terms.d/TERM-117.md)'s comparator;
   "what it can later do, at what cost" needs the operating and acquisition
-  budgets of CLAIM-tmp1l2s7. "Retained organization" is not
+  budgets of [CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md). "Retained organization" is not
   operationalized; it is whatever state persists between the experience
   and the later test.
 - **Is it fruitful: what becomes statable that was not?** The three
-  frontiers moving separately (CLAIM-tmp1l2s7), overconsolidation
-  (CLAIM-tmp8ljvp), and an acquisition valued by what it does to other
-  acquisitions (CLAIM-tmp5gbzr). Four claims and one argument are stated
+  frontiers moving separately ([CLAIM-tmp1l2s7](../claims.d/CLAIM-tmp1l2s7.md)), overconsolidation
+  ([CLAIM-tmp8ljvp](../claims.d/CLAIM-tmp8ljvp.md)), and an acquisition valued by what it does to other
+  acquisitions ([CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)). Four claims and one argument are stated
   in it.
 - **Is it as simple as the rest allow?** Four elements: experience, a
   change in retained organization, a later consequence and, kept apart,
@@ -140,7 +140,7 @@ practice (THEORY-tmpai35t, NOTE-tmpgrtgu).
   not weighed. The evidence of fruitfulness is internal in Carnap's sense
   (§103): the claims that show it were written in the term's own words, so
   they show it can be used, not that it is adequate. An outside check is
-  whether those claims survive test; the Pythia study (CASE-tmphsr99)
+  whether those claims survive test; the Pythia study ([CASE-tmphsr99](../cases.d/CASE-tmphsr99.md))
   would be one.
 
 ## Verdict

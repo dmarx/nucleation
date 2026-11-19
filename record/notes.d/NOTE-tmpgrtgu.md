@@ -39,7 +39,7 @@ summary: >-
   logic, the symmetrical functions, estimation and, provisionally, c*.
   The book is also a sustained worked example of explication.
 ---
-<!-- inactive-ok-file: ADR-tmptwlsg ARG-tmp23khr TERM-tmp1ix99 THEORY-tmp1kxhj THEORY-tmpai35t CLAIM-472 — Proposed; filed alongside this reading -->
+<!-- inactive-ok-file: ADR-tmptwlsg ARG-tmp23khr CLAIM-472 — Proposed; filed alongside this reading -->
 
 # NOTE-tmpgrtgu: Carnap — Logical Foundations of Probability
 
@@ -213,25 +213,25 @@ instance confirmation (§110).
 
 ## Bearing on the record
 
-- **The explication form (ADR-tmptwlsg).** The book supports its
+- **The explication form ([ADR-tmptwlsg](../decisions.d/ADR-tmptwlsg.md)).** The book supports its
   critical questions and adds three of Carnap's own practices: asking
   whether rivals share the explicandum (§§9, 42A, 87), testing for clearly
   too wide and clearly too narrow (§§86, 88), and screening by necessary
   conditions (§§53, 91). It also warns that evidence of adequacy should
   not be internal to the explicatum (§103).
-- **ARG-tmp23khr.** By §9's test, the performance definition it weighs as
+- **[ARG-tmp23khr](../arguments.d/ARG-tmp23khr.md).** By §9's test, the performance definition it weighs as
   a rival may explicate another explicandum, successful learning, which
   the term already keeps apart.
-- **CLAIM-472.** Supports the first half throughout, and the second half
+- **[CLAIM-472](../claims.d/CLAIM-472.md).** Supports the first half throughout, and the second half
   through the Fish case and §45A ("For any single fact in the world, a
   language sys- tem can be constructed which is capable of representing
   that fact while others are not covered").
-- **CLAIM-293 and CLAIM-294.** Relevance theory: structure does not fix
+- **[CLAIM-293](../claims.d/CLAIM-293.md) and [CLAIM-294](../claims.d/CLAIM-294.md).** Relevance theory: structure does not fix
   support, and separate supports do not fix their joint effect.
-- **CLAIM-401.** Completeness is adequacy relative to a purpose.
-- **THEORY-1239.** A logic in which later evidence lowers an earlier
+- **[CLAIM-401](../claims.d/CLAIM-401.md).** Completeness is adequacy relative to a purpose.
+- **[THEORY-1239](../theory.d/THEORY-1239.md).** A logic in which later evidence lowers an earlier
   assessment, by total evidence, without non-monotonic inference.
-- **THEORY-1797.** The primary text behind the SEP entry's account.
+- **[THEORY-1797](../theory.d/THEORY-1797.md).** The primary text behind the SEP entry's account.
 
 ## Limitations
 
