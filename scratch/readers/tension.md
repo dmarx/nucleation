@@ -14,3 +14,6 @@
   - Matthews, HPS&ST newsletter Apr 2022, "Thomas Kuhn and Science Education": read pp. 1-6; quotes Andersen 2000 p. 91 on the empirical and normative claims about convergent thought.
   - Andersen 2000 "Learning by Ostension" (Springer): paywall HTML, stopped.
 - Doubt: the textbook passages and "convergent/divergent" detail come only second-hand; no page of the essay itself on textbooks reached.
+- Quotes checked by script against the downloaded stand-in texts (all found).
+- Bearings searched (paradigm, exemplar, anomaly, dogma, divergent, tradition, textbook, learning to learn). Main bearings: CLAIM-756 and CLAIM-758 (Kuhn's thesis is a historical-interpretive case of one organization both lowering and raising later acquisition cost; the record's claims are about cost, Kuhn's about anomaly detection and revolution); THEORY-834 (Collins already builds on the same Kuhnian step); NOTE-564/THEORY-148 (dogmatic agents, transient diversity: a formal analogue); CLAIM-276, CLAIM-445 (lock-in). Kuhn's role: interpretive/historical, mostly analogy for the learning-theory claims.
+- Done; report going to the filer.
