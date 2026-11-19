@@ -1,0 +1,93 @@
+---
+status: Read
+paper: LIT-tmp8kulf
+title: 'Petty, van Steenkiste and Linzen — How Does Code Pretraining Affect Language Model Task Performance?'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from arXiv 2409.04556v2 (PDF):
+    the body, pp. 1–12, and appendices A–C; references skimmed. Running
+    notes on the branch claude/readers/scheduling-followups (the procedure
+    proposed in pull request 537). Quotations rechecked by the filer by
+    script against the downloaded text.
+date: '2026-11-19'
+summary: >-
+  Code share varied continuously in shuffled pretraining under two
+  budgets. Code helps formal-output compositional generalization and
+  arithmetic, hurts natural-language-output and knowledge tasks, and
+  widens the spread of task effects without a significant mean change. No
+  ordering, no cost measure.
+---
+<!-- inactive-ok-file: LEAD-tmpjdtrl CLAIM-756 THEORY-tmpk9cmk THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmp1fwdh: Petty, van Steenkiste and Linzen — How Does Code Pretraining Affect Language Model Task Performance?
+
+## Contribution
+
+A causal, continuous manipulation of code share with two controls on
+volume: competitive, in which "the total volume of data seen during
+pretraining" "is held constant; and additive, in which the volume of
+language data is held constant" (abstract), the additive arm with
+language-only baselines of the same size. Five seeds.
+
+## Key results
+
+1. **No ordering.** Code and language are "shuffled during training, so
+   models see code and language data at the same time" (Fig. 1).
+2. **Formal-output composition improves.** COGS-vf structural slope 0.147
+   competitive and 0.165 additive, against the language-only baseline's
+   −0.048 (Table 3). The gain is not well-formedness: "exposure to code
+   does not, in general, improve the well-formedness of generalization"
+   outputs (§5).
+3. **Harms.** "Code distracts from linguistic- and world-knowledge." (§5)
+   Passivization falls in both settings (Table 5); morphology, fantasy
+   reasoning and general knowledge fall (Table 7).
+4. **Aggregate.** "We find a statistically significant difference of
+   variance (p = 0.0002) and upper-quartiles (p = 0.006)" (§5.1); the mean
+   difference is not significant.
+5. **No faster learning.** "code-pretraining does not help a model reach
+   higher" performance faster on the compositional benchmarks (App. C.1).
+6. **Timing appears only by citation**: "Ma et al. (2024) also show
+   exposing code to models" "early on during training can be helpful for
+   some tasks" (§2).
+
+## Assumptions
+
+C4 code-free; code and language disjoint; effects linear in the share,
+though arithmetic is visibly not; fixed 10K fine-tuning steps.
+
+## Concepts
+
+Code share; competitive and additive budgets; language-only baseline;
+lexical and structural generalization; well-formedness.
+
+## Bearing on the record
+
+- **LEAD-tmpjdtrl**, qualifies without answering: no order is varied and
+  no later cost measured; App. C.1 finds no speed-up, and more code tends to
+  hurt natural-language tasks.
+- **CLAIM-756**, parallel, weak: code improves a later fine-tuned
+  capability beyond what extra language buys, measured as final accuracy,
+  not cost.
+- **THEORY-tmpk9cmk** (Hu and colleagues; shared author), parallel and
+  qualifying: structured data carries useful bias, but large shares cost
+  natural-language tasks. With Hu's finding that a first phase can run too
+  long and the inverted U in competitive arithmetic, the two suggest a
+  short, bounded dose; that pairing is the reader's inference.
+- **THEORY-tmpd6l4a** (Skill-it), parallel: code acts as a prerequisite for
+  formal-output and arithmetic targets, not natural-language ones.
+- **THEORY-293** and **THEORY-809**, analogy: world knowledge falls as code
+  is added at fixed language data, consistent with capacity competition,
+  without a size-matched baseline for those tasks.
+- **TERM-117**, analogy: one experience promotes one capability and
+  obstructs another.
+- **TERM-131**, parallel: the additive arm is the kind of counterfactual the
+  term asks for.
+
+## Limitations
+
+374M only; one architecture (the text says 12 layers, the appendix 24);
+significance tested in one condition; the discussion overstates the
+aggregate's significance; no post-training.

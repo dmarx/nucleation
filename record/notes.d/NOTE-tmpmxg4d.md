@@ -1,0 +1,93 @@
+---
+status: Read
+paper: LIT-tmpcdjoe
+title: 'Hernandez and colleagues — Scaling Laws for Transfer'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from arXiv 2102.01293v1 (PDF):
+    abstract, §§1–7, limitations, discussion and appendices A–G; figures
+    from captions only. Running notes on the branch
+    claude/readers/scheduling-followups (the procedure proposed in pull
+    request 537). Quotations rechecked by the filer by script against the
+    downloaded text.
+date: '2026-11-19'
+summary: >-
+  Transfer measured in data: the from-scratch data a pretrained model is
+  worth, as a power law in fine-tuning data and model size in the low-data
+  regime. Pretraining cost excluded; small models ossify at large data.
+---
+<!-- inactive-ok-file: CLAIM-756 CLAIM-758 THEORY-tmpw8s3h THEORY-tmpk9cmk LEAD-tmpjdtrl — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmpmxg4d: Hernandez and colleagues — Scaling Laws for Transfer
+
+## Contribution
+
+A unit for transfer: D_T, "the amount of additional python data that a
+model of the same size trained on only python would have needed to
+achieve the same loss on python as a model pre-trained on language"
+(§1.1), and a law for it.
+
+## Key results
+
+1. **The law.** D_T = k·(D_F)^α·(N)^β; text→Python α=0.18, β=0.38;
+   text+code→Python α=0.096, same β: "Thus the exponent beta appears to
+   depend only on the model architecture and target distribution" (§1.1).
+2. **A multiplier that shrinks.** "pre-training effectively multiplies the
+   fine-tuning dataset size" (abstract); "Note that the multiplier goes
+   down as DF increases" (§1.1); "The less fine-tuning data is available,
+   the more pre-training helps." (Fig. 1).
+3. **Against from scratch.** For pretrained models "the slope in
+   performance gains is merely reduced rather than going to zero"
+   (abstract).
+4. **Cost excluded.** "Ignoring the cost of pre-training makes sense when
+   leveraging an existing pre-trained model like BERT or GPT-3" (§1.1).
+5. **Regime and ossification.** "We define D/D(N ) < 0.10 as the low data
+   regime" (§3.1); "We no longer get a good fit for these models once we
+   leave the low-data regime" (App. D); "Pre-training reduced effective
+   data for small models in the high data regime" (Fig. 6).
+6. **Composition.** "This highlights the value of training entirely on
+   one's distribution of interest if possible." (§1.1)
+7. **Contamination check.** Mixing a known 0.3 per cent of Python "increased
+   the effective python data by a factor of 4.5x" (App. F), so transfer is
+   mostly real.
+
+## Assumptions
+
+Equal loss at equal size defines equal data; D(N) the same with and
+without pretraining; hyperparameters tuned for training from scratch.
+
+## Concepts
+
+Effective data transferred; effective data multiplier; transfer
+coefficients; data regime; ossification.
+
+## Bearing on the record
+
+- **CLAIM-756**, evidence for its premise: an earlier acquisition lowers
+  a later one's sample cost by a closed-form amount, up to orders of
+  magnitude at small fine-tuning data. Only the later cost is measured;
+  the earlier is set aside on reuse grounds, so this is not the full
+  with-and-without accounting LEAD-tmpjdtrl asks for. Ossification shows
+  the sign can flip.
+- **CLAIM-758**, independent evidence: ossification is an earlier
+  stabilization raising a later acquisition's cost, here for small models
+  at large later data; forgetting is not measured.
+- **THEORY-tmpw8s3h** (ULMFiT), corroborating: the same from-scratch data
+  equivalence, generalized to a law.
+- **THEORY-tmpk9cmk** (Hu and colleagues), complementary: Hu counts the
+  first phase at a few points; Hernandez has the scaling form without it.
+- **CLAIM-754**, by parallel: whether pretraining helps depends on later
+  data and size; transfer coefficients are directed.
+- **TERM-131**: D_T is a worked operationalization of the term's
+  counterfactual cost, in samples.
+- **CLAIM-303**, **CLAIM-761**, **QUESTION-495**: background on amortized
+  reuse and when to invest in later learnability.
+
+## Limitations
+
+No seeds or uncertainty on the fit; pretraining length unstated; one
+target; small runs ended inside warmup; a factor-of-two gap between Fig. 1
+and the fitted law at one point.
