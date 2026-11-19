@@ -113,9 +113,9 @@ cannot be a member.
   [TERM-062](../terms.d/TERM-062.md) (§6).
 - Four claims filed from the exchange in dmarx/nucleation#528 are
   members too, added when this decision was merged into that pull
-  request at the owner's request: CLAIM-tmpqpd2p (§1, §4.1, §10's first
-  proposition), CLAIM-tmpkrk41 (§7.3, §11's fifth limit), CLAIM-tmp5gbzr
-  (§4.3, §5.2) and CLAIM-tmpw8xkt (§6, §7.2).
+  request at the owner's request: [CLAIM-tmpqpd2p](../claims.d/CLAIM-tmpqpd2p.md) (§1, §4.1, §10's first
+  proposition), [CLAIM-tmpkrk41](../claims.d/CLAIM-tmpkrk41.md) (§7.3, §11's fifth limit), [CLAIM-tmp5gbzr](../claims.d/CLAIM-tmp5gbzr.md)
+  (§4.3, §5.2) and [CLAIM-tmpw8xkt](../claims.d/CLAIM-tmpw8xkt.md) (§6, §7.2).
 - The first application is in this decision's pull request: the
   vocabulary entry, the 16 members on the default branch, each with a history note and a
   version bump, the curation entry and the changelog fragment.

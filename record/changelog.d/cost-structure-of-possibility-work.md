@@ -17,4 +17,4 @@
   [CLAIM-567](record/claims.d/CLAIM-567.md), [CLAIM-582](record/claims.d/CLAIM-582.md), [CLAIM-475](record/claims.d/CLAIM-475.md), [CLAIM-463](record/claims.d/CLAIM-463.md), [CLAIM-407](record/claims.d/CLAIM-407.md), [CLAIM-295](record/claims.d/CLAIM-295.md),
   [CLAIM-152](record/claims.d/CLAIM-152.md), [CLAIM-352](record/claims.d/CLAIM-352.md), [CLAIM-675](record/claims.d/CLAIM-675.md), [CLAIM-673](record/claims.d/CLAIM-673.md) and [CLAIM-455](record/claims.d/CLAIM-455.md).
 - Four claims filed from the exchange in the same pull request join the
-  work: CLAIM-tmpqpd2p, CLAIM-tmpkrk41, CLAIM-tmp5gbzr and CLAIM-tmpw8xkt.
+  work: [CLAIM-tmpqpd2p](record/claims.d/CLAIM-tmpqpd2p.md), [CLAIM-tmpkrk41](record/claims.d/CLAIM-tmpkrk41.md), [CLAIM-tmp5gbzr](record/claims.d/CLAIM-tmp5gbzr.md) and [CLAIM-tmpw8xkt](record/claims.d/CLAIM-tmpw8xkt.md).
