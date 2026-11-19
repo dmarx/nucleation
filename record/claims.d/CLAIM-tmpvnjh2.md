@@ -39,7 +39,7 @@ summary: >-
   already holds. The case for each is the filer's assembly; adopting the
   claim is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-519 THEORY-2058 THEORY-2059 THEORY-2060 THEORY-2062 TERM-131 QUESTION-tmpihjeu — Proposed or newly filed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-519 THEORY-2058 THEORY-2059 THEORY-2060 THEORY-2062 TERM-131 — Proposed or newly filed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-tmpvnjh2: Two properties of what a learner retains come apart in all four combinations: identifiability, whether a retained change and its contribution can be established from observation and intervention, and localization, whether it sits in a place one can point to
 
@@ -47,7 +47,7 @@ summary: >-
 
 Identifiability: one can establish, from observation and intervention,
 that a particular retained change exists and what it contributes, up to
-stated ambiguities, the second of CLAIM-135's three achievements.
+stated ambiguities, the second of [CLAIM-135](CLAIM-135.md)'s three achievements.
 Localization: the change sits in a specific place, such as a component, an
 address or a token position. The two are independent.
 
@@ -55,20 +55,20 @@ address or a token position. The two are independent.
 
 - **Identifiable and localized.** In-context learning: the demonstrations
   occupy positions in the context, and deleting one is the intervention
-  that identifies its effect on later outputs (THEORY-2062; TERM-131
+  that identifies its effect on later outputs ([THEORY-2062](../theory.d/THEORY-2062.md); [TERM-131](../terms.d/TERM-131.md)
   version 2).
 - **Identifiable, not localized.** Learning in the weights, measured by
   its effect: what pretraining is worth is identified as effective data
   transferred against same-size models trained from scratch, without
-  locating any of it (THEORY-2059); per-example contributions are
+  locating any of it ([THEORY-2059](../theory.d/THEORY-2059.md)); per-example contributions are
   estimated by attribution because no example's effect has an address
-  (THEORY-2058, THEORY-2060).
+  ([THEORY-2058](../theory.d/THEORY-2058.md), [THEORY-2060](../theory.d/THEORY-2060.md)).
 - **Localized, not identifiable.** A located circuit that is one of
   several sufficient ones: greedy pruning keeps one input of a redundant
-  set (THEORY-966), so the place is real and its role is not uniquely
+  set ([THEORY-966](../theory.d/THEORY-966.md)), so the place is real and its role is not uniquely
   fixed.
 - **Neither.** Competent behaviour over a fixed interface and finite
-  horizon that does not establish any internal model (CLAIM-519).
+  horizon that does not establish any internal model ([CLAIM-519](CLAIM-519.md)).
 
 ## Admission
 
@@ -82,8 +82,8 @@ claim.
 
 ## Bearing
 
-On TERM-131: a claim about learning can say which kind of retention it
-means. On individuation (QUESTION-tmpihjeu, refining QUESTION-035):
+On [TERM-131](../terms.d/TERM-131.md): a claim about learning can say which kind of retention it
+means. On individuation ([QUESTION-tmpihjeu](../questions.d/QUESTION-tmpihjeu.md), refining [QUESTION-035](../questions.d/QUESTION-035.md)):
 localization gives separability, identifiability gives attribution, and
-they diverge. THEORY-1024 suggests a third property, editability, that
+they diverge. [THEORY-1024](../theory.d/THEORY-1024.md) suggests a third property, editability, that
 comes apart from localization; it is not part of this claim.
