@@ -34,3 +34,13 @@ With all weights transferred and embeddings re-initialized, 2.1M procedural toke
 ## Evidence
 
 No seeds on semantic runs; no natural-language warm-up control; procedures selected by downstream grids.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp51mqd THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Complementary interventions: Maennel and colleagues (THEORY-tmpw5877) keep
+a saving by resampling first-layer filters from their learned covariance,
+where this account removes it by shuffling; Zhang, Lepori and Pavlick
+(THEORY-tmp51mqd) lose most of it with a same-size random subset of the
+trained weights. Together they place the saving in specific weight
+statistics or components.

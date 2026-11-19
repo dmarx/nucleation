@@ -73,3 +73,29 @@ transferred weights, an intervention on the learned representation; its
 components are procedures, not a shared latent mapping. Papadimitriou and
 Jurafsky ([THEORY-tmpf6s7m](../theory.d/THEORY-tmpf6s7m.md)) transfer frozen structure to a later task. A
 targeted search of the task-composition literature is still to do.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpezk6j THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+The search this lead asked for, and eight readings. No work runs the full
+design. The parts are covered separately. (a) A later cost with and
+without the earlier learning: Zhang, Lepori and Pavlick (THEORY-tmp51mqd),
+Goudar and colleagues (THEORY-tmp80vhs), Ito and colleagues
+(THEORY-tmpoqh3f, pretraining counted), Driscoll and colleagues
+(THEORY-tmpmir63), Furuta and colleagues (THEORY-tmp442o6). (b)
+Organizations compared: only He and colleagues (THEORY-tmpowquo), where a
+shortcut model with higher first-stage accuracy than a grokked one
+composes new facts worse; not matched, observational, single runs. (c) An
+intervention on the learned component: a frozen transplant of the located
+subnetwork against a size-matched random one (Zhang, Lepori and Pavlick),
+a readout barred from the reused subspace (Goudar and colleagues),
+covariance resampling (Maennel and colleagues, THEORY-tmpw5877). Against
+the lead's hope: mixing sub-tasks in gives little (Thomm and colleagues,
+THEORY-tmpezk6j), and transplanting g's own grokked module often raises
+the cost of h∘g (Furuta and colleagues). For the memorization arm, Maennel
+and colleagues show a random-label first stage changes later cost through
+input statistics, so that arm needs covariance and norm controls. The gap:
+He and colleagues' circuit-against-shortcut contrast, matched on
+first-stage accuracy, with Zhang, Lepori and Pavlick's transplant and
+random-subnetwork controls. That combination is not in the literature
+found; stage stays idea.

@@ -64,3 +64,13 @@ all differ. Petty and colleagues ([THEORY-tmpq9sev](THEORY-tmpq9sev.md), shared 
 large code shares hurt natural-language tasks; with this account's finding
 that a first phase can run too long, the pair suggests a short, bounded
 dose (the filer's inference). Argued in [ARG-tmp30ltz](../arguments.d/ARG-tmp30ltz.md).
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Zhang, Lepori and Pavlick (THEORY-tmp51mqd) go further on mechanism than
+this account's post hoc pruning: the located component alone, transplanted
+with size-matched random controls, carries the saving, at toy scale and
+without counting the first stage. Furuta and colleagues (THEORY-tmp442o6)
+find transplanted grokked modules often raise later cost, a parallel to
+this account's harmful first phases.

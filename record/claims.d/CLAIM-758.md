@@ -227,3 +227,13 @@ switch, part of its cost. The procedural paper ([THEORY-tmpmy98s](../theory.d/TH
 first phase driven to too low a loss worsens later transfer, small-scale.
 Akter and colleagues ([THEORY-tmpgk8nb](../theory.d/THEORY-tmpgk8nb.md)) qualify: reasoning-rich pretraining
 does not worsen later fine-tuning at 8B and 1T tokens, one run per arm.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmpowquo THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Weak parallels from the task-composition readings: frozen grokked modules
+block later grokking that training from scratch reaches (THEORY-tmp442o6),
+and random-label pretraining can leave later-layer units permanently
+inactive at the switch, reducing later capacity (THEORY-tmpw5877). He and
+colleagues (THEORY-tmpowquo) qualify: longer training to grokking does not
+raise later cost there. No time course of stabilization in any of them.

@@ -125,3 +125,12 @@ separate first phase taught is overwritten at the switch and kept under
 interleaving, so order bears on retention as well as acquisition. The
 procedural paper ([THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md)) finds the first phase's length matters
 non-monotonically. Background for the question's mechanisms.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Ito and colleagues (THEORY-tmpoqh3f): the order of pretraining stages
+decides whether compositional generalization appears at all. He and
+colleagues (THEORY-tmpowquo): grokking unfolds as saturation, then bridge
+recovery, then integration of facts. Driscoll and colleagues
+(THEORY-tmpmir63): slow acquisition of motifs, then fast recombination.

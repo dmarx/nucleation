@@ -1,0 +1,44 @@
+---
+status: Active
+status_note: >-
+  A negative case under joint training: sub-tasks mixed in give little
+  saving on the composed task; nothing is learned first and nothing
+  intervened on. Read on 2026-11-19 (NOTE-tmp8n812).
+title: 'Limits of Transformer Language Models on Learning to Compose Algorithms'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmphfbq0), from arXiv 2402.05785v5 (PDF, 5 Nov 2024). Not held
+    before; the identifier checked on the arXiv API.
+tags:
+- compositionality
+- learning-theory
+- representation-learning
+date: '2026-11-19'
+published: '2024-02-08'
+arxiv: '2402.05785'
+first_author: 'Thomm'
+keywords: []
+implementations: []
+summary: >-
+  Thomm, Camposampiero, Terzic, Hersche, Schölkopf and Rahimi (NeurIPS
+  2024), arXiv 2402.05785. A 150M LLaMA trained from scratch on four
+  algorithmic composition tasks, with the sub-tasks mixed into the same
+  run, needs more composed-task samples than the sub-task sets together
+  contain, and reaches about the same accuracy at matched composed-task
+  samples as without the sub-tasks. The only staged design runs the other
+  way: pretraining on the composition lowers the samples to fine-tune a
+  sub-task. One run per data point. Read in NOTE-tmp8n812; account
+  THEORY-tmpezk6j.
+---
+
+# LIT-tmpaqjh5: Limits of Transformer Language Models on Learning to Compose Algorithms
+
+Jonathan Thomm, Giacomo Camposampiero, Aleksandar Terzic, Michael Hersche, Bernhard Schölkopf and Abbas Rahimi (2024). "Limits of Transformer Language Models on Learning to Compose Algorithms". NeurIPS 2024; arXiv 2402.05785.
+
+## Standing in the record
+
+Registered and read on 2026-11-19 at the owner's request, under LEAD-tmphfbq0.

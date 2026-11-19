@@ -38,3 +38,12 @@ most of the work.
 
 Five seeds per condition; one target language; corpora unmatched in size
 for music and code; no full-training arm or learning curve.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmpmir63 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Two task-composition readings use this protocol, a frozen trained body
+with only inputs or embeddings retrained: Driscoll and colleagues
+(THEORY-tmpmir63) find it fast when the needed motifs were learned and
+behind full training otherwise; Furuta and colleagues (THEORY-tmp442o6)
+find it pair-specific and often harmful in modular arithmetic.

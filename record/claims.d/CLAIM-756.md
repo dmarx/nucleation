@@ -145,3 +145,20 @@ and the attribution studies ([THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md), 
 immediate alignment, so by construction they cannot see an acquisition's
 effect on later ones, the accounting this claim says is missing. None
 tests the claim's own content. No status change.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpezk6j THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Four of the eight task-composition readings add evidence for the premise
+(corroborates): a transplanted subnetwork for a shared subtask lowers
+later sample cost against a size-matched random one (THEORY-tmp51mqd);
+earlier problems cut later problems' trials to criterion, and barring the
+reused subspace removes the saving (THEORY-tmp80vhs); learned motifs make
+a new task learnable through one input vector (THEORY-tmpmir63);
+primitives lower a composition's cost with pretraining counted
+(THEORY-tmpoqh3f); and random-label pretraining, of no direct value on the
+later task, often lowers its cost (THEORY-tmpw5877). Two mark limits:
+mixing sub-tasks in gives little (THEORY-tmpezk6j), and transplanted
+grokked modules raise later cost as often as they lower it
+(THEORY-tmp442o6). None nets the first stage's cost or tests the
+valuation. No status change.

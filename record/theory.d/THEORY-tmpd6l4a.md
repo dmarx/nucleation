@@ -56,3 +56,12 @@ a similarity sequence ends worse than random. Opper and colleagues
 ([THEORY-tmpq9sev](THEORY-tmpq9sev.md)) find code acts as a prerequisite for formal-output and
 arithmetic targets, not natural-language ones. Analogies; none contradicts
 this account.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmpezk6j THEORY-tmpoqh3f — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Thomm and colleagues (THEORY-tmpezk6j) are in tension: mixing a
+composition's sub-tasks into training barely lowers the composed task's
+samples, where mixing prerequisites in saved steps here; the measures
+differ. Ito and colleagues (THEORY-tmpoqh3f) contrast on order: sequence
+decides everything there.

@@ -167,3 +167,11 @@ measures alignment, not cost; Blakeney and colleagues ([THEORY-tmpfvaag](../theo
 and Feng, Prabhumoye and colleagues ([THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md)) report end-of-run
 scores without a cost to a threshold. None prices a later acquisition by
 checkpoint.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+He and colleagues (THEORY-tmpowquo) find that no model composes a new fact
+in the second hop after fine-tuning; a held-out two-hop family built that
+way could fail for reasons unrelated to checkpoint age, a design caution
+for this study.

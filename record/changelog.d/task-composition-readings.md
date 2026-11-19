@@ -1,0 +1,9 @@
+<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 — not in force; filed or noted in this contribution of 2026-11-19 -->
+### Added
+
+- The task-composition readings (curation entry of 2026-11-19, 221251), the
+  owner's direction on LEAD-tmphfbq0 to look for prior research first. A
+  search and eight works, each with a NOTE and a Proposed THEORY. Five
+  corroborate CLAIM-756. No work runs the lead's full design; the lead's
+  dated note maps which parts each covers. Dated notes on fourteen
+  entries.

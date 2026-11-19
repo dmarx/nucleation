@@ -131,3 +131,13 @@ multiplication and collapses sorting), the first phase has an optimal
 length, and shuffled data or weights remove the effect, an interventional
 test; Petty and colleagues ([THEORY-tmpq9sev](../theory.d/THEORY-tmpq9sev.md)) find code promotes formal-
 output composition and obstructs natural-language transduction. Analogies.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Applications from the task-composition readings: a transplanted subnetwork
+for a shared subtask (THEORY-tmp51mqd) and a reused decision subspace
+(THEORY-tmp80vhs) are productive against declared comparators; frozen
+grokked modules are often obstructive for polynomials composed on their
+own operation (THEORY-tmp442o6); and random-label pretraining helps or
+hurts by setting (THEORY-tmpw5877).

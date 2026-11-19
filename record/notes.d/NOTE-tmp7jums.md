@@ -1,0 +1,72 @@
+---
+status: Read
+paper: LIT-tmpu3012
+title: 'Furuta and colleagues — Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from arXiv 2402.16726v4 (PDF
+    and LaTeX source, 30 Dec 2024; TMLR): §§1–9 and appendices C, F, I, J.2,
+    K–N; others skimmed; Table 1 read from the LaTeX. Running notes on the
+    branch claude/readers/task-composition (ADR-108). Quotations rechecked
+    by the filer by script against the downloaded text.
+date: '2026-11-19'
+summary: >-
+  Pre-grokked frozen modules reused on other modular operations:
+  pair-specific help, frequent harm, and grokking blocked for polynomials
+  that grok from scratch. Transplant only; no matched first stage.
+---
+<!-- inactive-ok-file: LEAD-tmphfbq0 CLAIM-756 CLAIM-754 THEORY-tmpf6s7m — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmp7jums: Furuta and colleagues — Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials
+
+## Key results
+
+1. **Design.** Pre-grokked modules are "used for another training to
+   replace randomly initialized modules without any parameter updates
+   (i.e. frozen)" (§4); "This allows us to consider learning
+   representations and algorithms separately."
+2. **Some pairs help.** "pre-grokked embedding with addition accelerates
+   grokking in 2a ± b, 2a ± 3b, and pre-grokked Transformer with
+   multiplication does in ab ± b" (§7.1); for 2a+b the minimum fraction
+   falls from 0.5 to 0.3 (Table 1).
+3. **Many hurt.** "in certain combinations, pre-grokked models hinder
+   grokking even with a r = 0.9 fraction" (§5); "pre-grokked models could
+   not accelerate, and they even prevent grokking in higher-order
+   polynomials" (§7.2).
+4. **The authors' summary.** "the transferability of pre-grokked
+   embeddings and models is limited to specific combinations" (§7).
+5. **h∘g rows, the reader's reading.** For (a±b)^2 and (a±b)^3, freezing
+   g's own module gives no measurable gain where scratch is at the 0.3
+   floor and often blocks grokking through the frozen body: (a+b)^3 never
+   groks with the addition body.
+6. **Tally, the reader's.** Of 96 cells, 24 lower the fraction, 20 equal,
+   52 raise or never grok.
+
+## Bearing on the record
+
+- **LEAD-tmphfbq0**, qualifies: (a) a later sample cost against scratch;
+  (c) by transplant; not (b). The factorizable polynomial rows are a ready
+  h∘g testbed, and on them transferring g's own grokked module does not
+  lower, and often raises, the cost of h∘g.
+- **CLAIM-756**, qualifies: earlier acquisitions both lower and raise later
+  costs, pair by pair; first-stage cost uncounted.
+- **CLAIM-754**, illustration: modules grokked on their sources give
+  different later costs, and embedding and body from one model differ, an
+  interface-relative frontier.
+- **THEORY-tmpf6s7m**, the same protocol (freeze the body, retrain
+  embeddings) with pair-specific, often negative results.
+- **THEORY-022**, extended: Fourier accounts for subtraction,
+  multiplication and polynomials.
+- **CLAIM-758**, weak parallel: frozen grokked structure blocks later
+  grokking; nothing varies stabilization length.
+- **TERM-117**, analogy: a pre-grokked module can be an obstructive
+  nucleus.
+
+## Limitations
+
+Grokking judged within a step cap with no stated threshold; the
+pre-grokking fraction unstated; a coarse grid with a 0.3 floor; few step
+counts in the text; no ablation of the transplanted module.
