@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now and dearer to teach (overconsolidation), and what exchange rates hold among these ways of spending work'
+title: 'A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work'
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -30,7 +30,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmp2gj7u LIT-tmpjmy81 LIT-tmpkfcwr LIT-tmppcswh LIT-tmpws19o LIT-tmpyyhs0 — Deferred; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-697 CLAIM-tmp8ljvp THEORY-1353 THEORY-1703 THEORY-1894 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CASE-tmphsr99: A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now and dearer to teach (overconsolidation), and what exchange rates hold among these ways of spending work
+# CASE-tmphsr99: A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work
 
 ## The core design (A52)
 
@@ -90,7 +90,7 @@ summary: >-
 
 ## What it could and could not show
 
-It could show that later checkpoints of one run are dearer to teach new
+It could show that later checkpoints of one run need a larger budget to learn new
 task families and whether any intervention or acquisition route relieves
 it. It could not distinguish pretraining length from the shape of that
 run's schedule, with one run; nor show that the synthetic families stand

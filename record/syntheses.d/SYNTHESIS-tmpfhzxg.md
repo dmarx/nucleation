@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'What learning is and what it does to what can still be learned: learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately; overconsolidation, the owner''s generalization of overfitting, better now and dearer to teach, with a supposed deadline for its relief and a proposed Pythia study; and the owner''s open questions on optimal learning and on what it is for a learning system to know'
+title: 'What learning is and what it does to what can still be learned: learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately; overconsolidation, the owner''s generalization of overfitting, better now but more costly to teach new tasks, with a supposed deadline for its relief and a proposed Pythia study; and the owner''s open questions on optimal learning and on what it is for a learning system to know'
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -47,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmphsr99 CLAIM-695 CLAIM-697 CLAIM-tmp1l2s7 CLAIM-tmp5vg7p CLAIM-tmp8ljvp SYNTHESIS-096 TERM-079 TERM-tmp1ix99 — Proposed; cited in this filing of 2026-11-19 -->
 
-# SYNTHESIS-tmpfhzxg: What learning is and what it does to what can still be learned: learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately; overconsolidation, the owner's generalization of overfitting, better now and dearer to teach, with a supposed deadline for its relief and a proposed Pythia study; and the owner's open questions on optimal learning and on what it is for a learning system to know
+# SYNTHESIS-tmpfhzxg: What learning is and what it does to what can still be learned: learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately; overconsolidation, the owner's generalization of overfitting, better now but more costly to teach new tasks, with a supposed deadline for its relief and a proposed Pythia study; and the owner's open questions on optimal learning and on what it is for a learning system to know
 
 ## The account
 
