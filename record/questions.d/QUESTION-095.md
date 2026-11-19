@@ -7,7 +7,7 @@ title: Is leaving the result of a computation where it can be cheaply retrieved
   the same trade as amortizing the computation, and does one account of when it
   pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused
   inferences?
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -17,6 +17,11 @@ history:
     through the first line of an entry it names:
     nucleating-argument, since it refines QUESTION-098. No other
     change.
+- version: 3
+  date: '2026-11-19'
+  note: >-
+    Wording only, at the owner's request (review of dmarx/nucleation#528,
+    2026-11-19): "dearer" replaced by "more costly" in one sentence. No other change.
 tags:
 - cognition
 - embodied-cognition
@@ -80,7 +85,7 @@ Literatures that may already hold it, registered for this question and read the 
   Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md)), Ballard et al. 1997 ([LIT-1075](../literature.d/LIT-1075.md)), Risko and
   Gilbert 2016 ([LIT-1059](../literature.d/LIT-1059.md)).
 - **Choosing head or world by cost.** Gray and Fu 2004 ([LIT-1058](../literature.d/LIT-1058.md)),
-  where people take cheaper, worse memory over dearer, perfect information
+  where people take cheaper, worse memory over more costly, perfect information
   in the world; Lieder and Griffiths 2020 ([LIT-1071](../literature.d/LIT-1071.md)), cognition as the
   optimal use of limited computation.
 

@@ -3,8 +3,8 @@ number: 569
 status: Active
 formerly:
 - CLAIM-tmpancvu
-title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it'
-version: 3
+title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and costly to acquire, so having enough to sustain it is not having enough to acquire it'
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,13 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §3.3 and §5.3 state its proposition. No other
     change.
+- version: 4
+  date: '2026-11-19'
+  note: >-
+    Wording only, at the owner's request (review of dmarx/nucleation#528,
+    2026-11-19): "dear" and "dearer" replaced by "costly" and "costs
+    more" in the title and four passages. The claim is unchanged.
+    Version 2's title read: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it'.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -77,7 +84,7 @@ complements:
 <!-- inactive-ok-file: CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
-# CLAIM-569: A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it
+# CLAIM-569: A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and costly to acquire, so having enough to sustain it is not having enough to acquire it
 
 ## The claim
 
@@ -106,7 +113,7 @@ of 10 a year and spends 7 on what it already does, leaving 3.
 
 Then:
 
-- **Construction and maintenance rank in opposite orders**: X is dearer
+- **Construction and maintenance rank in opposite orders**: X costs more
   to build (24 > 6) and cheaper to keep (2 < 4). So neither cost fixes the
   other, nor even its rank.
 - **X can be sustained and not acquired.** Its upkeep, 2, fits in the
@@ -136,14 +143,14 @@ budget, is the disconnection of [CLAIM-571](CLAIM-571.md)'s infinite threshold.
 - **That these are the only three.** Leaving a form, disbanding or
   converting it, has costs of its own; A counts them with entry.
 - **That a capability cheap to sustain is worth sustaining.** That it is
-  dear to rebuild is one reason to keep it; whether the reason is good
+  costly to rebuild is one reason to keep it; whether the reason is good
   depends on what it is for, the question of telling a warranted reserve
   from waste ([QUESTION-395](../questions.d/QUESTION-395.md)). [CASE-210](../cases.d/CASE-210.md) is the record's case of a
   maintained squad never used in ordinary operation.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-[TERM-116](../terms.d/TERM-116.md) prices this claim's three requirements per configuration: the incoming profile for constructing, the outgoing for moving out, and a maintenance profile that, in A's words, "is not supplied by Yoneda itself". A: a system "may be easy to assemble but hard to change once assembled"; in [CASE-199](../cases.d/CASE-199.md), L is cheap to reach from U and dear to leave for R. No status changes.
+[TERM-116](../terms.d/TERM-116.md) prices this claim's three requirements per configuration: the incoming profile for constructing, the outgoing for moving out, and a maintenance profile that, in A's words, "is not supplied by Yoneda itself". A: a system "may be easy to assemble but hard to change once assembled"; in [CASE-199](../cases.d/CASE-199.md), L is cheap to reach from U and costly to leave for R. No status changes.
 
 ## Note of 2026-11-05: the DNA origami readings
 
