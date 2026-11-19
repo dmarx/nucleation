@@ -50,3 +50,9 @@ consequence in equivariant networks and none in generic ones. On
 another route to it depends on the declared space of architectures. On
 [QUESTION-281](../questions.d/QUESTION-281.md): a bifurcation route by which a distinction (phase on the
 orbit) is retained through depth.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Schoenholz and colleagues (THEORY-tmpqtb3q), read: give the baseline this account improves on. In generic random networks, input correlations survive arbitrary depth only at the critical point χ1 = 1, and trainable depth falls to about 6ξc away from it, so deep trainability is fine-tuned. This entry's claim is that equivariance turns that point into a phase. They also show why a generic network's own order parameter carries trainability only at criticality, which makes this entry's dissociation intelligible without testing it. Equivariant networks are not studied.
+
+No status change.

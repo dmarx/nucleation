@@ -110,3 +110,15 @@ A10 restated this claim accurately: a defect may "protect an organizational poss
 [THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md)'s vortices come in ± pairs whose count varies by channel while the net charge stays near zero, which fits the split between kind and token.
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Suzuki, Li and Zurek (THEORY-tmpohouk), read, give independent evidence on the formation side. In their quenched one-dimensional φ⁴ field, with periodic boundaries and the net charge fixed, how many kinks form and where they sit differ between noise realizations and are fixed by fluctuations imprinted near the critical point. The tokens' number and places come from history, not from the charge. It supports the claim.
+
+Kaschube, Schnabel and Wolf (THEORY-tmpg9anb), the stand-in for LIT-tmpdedmw, read, show the claim's division in orientation maps. The ±1/2 charge fixes the kinds of pinwheel, but their number per hypercolumn is set by the dynamics, near π under long-range interactions, while rival models with the same charges let pinwheels annihilate over time. It supports the claim.
+
+Shankar and colleagues (THEORY-tmpky96s), read: in active nematics the charge constrains how defects are created and ended (in pairs in two dimensions), while activity decides how many there are. The review's statement that a winding number taken around several defects "measures the net number of topological defects" is stated as standard, not shown. Together these support the claim's split between net count and tokens.
+
+Teo and Kane (THEORY-tmpcxzxx), read, give a spectral-side parallel. For point defects their invariant is an index n = N+ − N−, a net count of zero modes by chirality, which fixes neither which modes there are nor their total number. That is the claim's structure applied to the modes a defect hosts rather than to the defect, so it is a parallel, not evidence for the claim.
+
+No status change.

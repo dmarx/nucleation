@@ -91,3 +91,13 @@ gained and old competence lost, as the case requires.
 That training should stop before the threshold. Whether the lost capacity
 matters depends on what the learner will later be asked to acquire
 ([CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md), [CLAIM-520](CLAIM-520.md)).
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Dohare and colleagues (THEORY-tmpgjb4y), read, bear on the antecedent. Networks lose plasticity while continually trained on varied new tasks, which is renewed practice, and the decline is gradual: performance "began falling steadily". Only direct interventions maintain plasticity (small weights with injected randomness, selective reinitialization of units), and all run from the start, so a late rescue is untested. In this setting the capacity to acquire decays with use, not disuse, which reads against CLAIM-605's model describing it and presses the defeater's second clause.
+
+Springer and colleagues (THEORY-tmp3dqbl), read, try no late intervention that raises plasticity; their mitigations are fine-tuning-time choices (a smaller learning rate, regularization toward the pre-trained weights) that trade the new task against the old. Their inflection point in training time is explained by forgetting, which is the claim's last defeater. So the one inflection on record is not this claim's deadline. It leaves the claim open.
+
+What the readings do to its standing. The conditional is untouched, but nothing read supports its antecedent for networks, and the one setting that applies varied practice throughout shows gradual decline under use. To survive, the claim would have to say what exercising the capacity to acquire is, so that Dohare's continual training is not already it, and measure the deadline as a rise in acquisition cost with held capabilities kept, so that a forgetting-driven inflection like Springer's does not count. The test in CASE-tmphsr99 stands as written.
+
+No status change.

@@ -93,3 +93,9 @@ report (unread), and the question stays open in that form.
 That such learned partitions are absent. That symmetry is irrelevant to
 role abstraction: the invariant rule direction Li and Webb measure can be
 a fixed vector of a mixing action without any partition of units.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Velarde and colleagues (THEORY-tmpz825j), read, give a route to balanced partitions of units that needs no symmetry of the data: covering partitions persist under gradient descent by equal updates, and are said to attract SGD, by citation to Chen and colleagues (2023). They report that automorphisms are "never observed" in trained networks. That is compatible with the claim and does not test its derivation. It confirms that if partitions coincide with role abstraction in Li and Webb's models, the mechanism would be of this learned kind.
+
+No status change.

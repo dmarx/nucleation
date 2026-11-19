@@ -142,3 +142,9 @@ Two qualifications, both A's. (a) Deadline feasibility. This claim's break-even 
 (b) Across agents. A fall in one party's operating cost may be work transferred, to past training, to maintenance or to other agents, not work saved. A62 §9 separates "work saved", "work transferred" and "valuable capability expanded", with a bureaucracy cheap for administrators because claimants do the work of fitting its categories; A41 §9 adds a recommender cheap for viewers that burdens creators "to remain legible to its classifications". This claim's accounting is one agent's. Neighbours: [CLAIM-060](CLAIM-060.md), [CLAIM-603](CLAIM-603.md), [CLAIM-676](CLAIM-676.md), [CLAIM-731](CLAIM-731.md). It is not filed as a claim, being close to definitional; the owner may want it.
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Lu and Kankanhalli (THEORY-tmpddlli), read, apply this claim's criterion to test-time-trained skills and learn it: a skill pays adaptation compute now and is kept when expected reuse covers it, and of 100 reuses of earlier skills 61 helped and 1 harmed. Under a compute penalty the policy builds fewer costly skills without loss of utility. That supports the claim, for parameter skills, with an independent measured case. It leaves the defeat condition about the second-occurrence rule untouched, and the paper prices neither upkeep nor a stale skill.
+
+No status change.

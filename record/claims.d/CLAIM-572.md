@@ -203,3 +203,9 @@ At U30 the owner said the discussion "sounds like we're getting into active lear
 A67 §3's objective, choose an experiment for the expected future work it saves less its cost, is this claim's pricing of observation by the response budget it lowers, carried from one decision to a learner's later tasks. A67 §3 adds that the most informative experiment need not be the best one. The record's thermodynamic account of memory, [THEORY-026](../theory.d/THEORY-026.md), excludes learners that choose their observations; [QUESTION-tmprj00l](../questions.d/QUESTION-tmprj00l.md) asks what replaces it.
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Settles (THEORY-tmpsiaty), skimmed, reports that stopping rules in active learning are intrinsic stability heuristics, and that greedy selection carries a guarantee only for submodular objectives, which active-learning criteria generally are not (§§6.7, 7.3). That is the general setting of this claim's fourth result, that a probe's worth depends on the probes after it, so stopping when the next does not pay can miss the optimum. It is context for the claim, not independent evidence: the claim's result is proved in its own model.
+
+No status change.

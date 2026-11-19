@@ -104,3 +104,11 @@ much as removing the demonstrations. They cost a few points.
   weights on the same demonstrations does more than conditioning on them.
 - **[CLAIM-029](../claims.d/CLAIM-029.md)** reads this result as support for treating a context as a
   frame.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Min and colleagues' MetaICL (THEORY-tmpnivm0), read: complements this reading. In their Appendix C.4, with each label word replaced by a random English word, raw and meta-trained models fall to near chance, so their in-context success leans on what the labels already mean. Only meta-training on randomly remapped labels lifts accuracy on remapped targets, from 30.1% to 43.5%. That bears on this entry's caution that a new correspondence was never tested: untrained use of one fails, and training can teach it.
+
+Pan and colleagues (THEORY-tmppqtz3), read: qualifies this reading by scale, and runs the test it says was missing. The gold–random gap is small for smaller models, agreeing with Min et al., but in their tasks it widens as models and demonstrations grow, and with 16 examples OPT-66B and GPT-3 davinci match gold accuracy under abstract remapped labels. So large models do learn new mappings in context. Min et al.'s small gap at 175B and this result are not reconciled by either paper.
+
+No status change.

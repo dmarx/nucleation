@@ -224,3 +224,15 @@ A separates two topologies (A4 §1, A7 §2–3). The order-parameter manifold de
 A15 §2 lists learned-network carriers as candidate instances of the routes: phase-locked regions, travelling waves, domain walls and regenerative patterns. The one read case is [THEORY-tmpvtafk](../theory.d/THEORY-tmpvtafk.md), a stand-in for the owner's U6 example ([LIT-tmp01nqp](../literature.d/LIT-tmp01nqp.md), Unfetched). In its convolutional U(1) recurrent network, vortices form in ± pairs and annihilate on contact, as the topological row expects. No functional role for them is shown. Whether the walls coincide with predictive or causally operative structures is [QUESTION-tmpcb0bf](../questions.d/QUESTION-tmpcb0bf.md). Whether modes bound to a defect could come to maintain it is [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md).
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Teo and Kane (THEORY-tmpcxzxx), read, classify defects by the winding of the electronic Hamiltonian around them, not by an order-parameter charge. Their topology protects bound gapless modes while the bulk gap is open, not the defect's persistence; in a disordered weak topological insulator the modes even outlive the structure that produced them. So a protected bound mode is no evidence that its host is on the topological route, and the table's topological row should be read as order-parameter topology only. It qualifies the claim.
+
+Rudner and colleagues (THEORY-tmpq7rwx), read, add a third sense of "topological": an invariant of a periodic process, a loop of evolution operators, neither a field configuration's charge (THEORY-1507) nor a static Hamiltonian's winding around a defect. What it protects exists only while the drive runs, so it sits with the supplied route as much as with the topological one. It qualifies the sorting.
+
+Shankar and colleagues (THEORY-tmpky96s), read, describe active-nematic defects that carry a conserved charge but are produced and kept unbound by a standing supply, activity; in passive media the flows are "transient". The charge constrains creation and ending (pairs in two dimensions), and the supply decides whether defects exist and how many. One structure can thus sit on the topological and the supplied routes at once, which qualifies the claim's sorting: the routes are not exclusive.
+
+Omidvar and colleagues (THEORY-tmp5hurd), read: their stored bits persist by bistability under a standing compression, and the "topological" of their title refers to the band polarization at the wall, not to a conserved charge of the wall. That is a further case for the note of 2026-11-15, and a reason to tie the word "topological" to a stated invariant. It qualifies the claim.
+
+No status change.

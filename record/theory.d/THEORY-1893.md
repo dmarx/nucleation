@@ -60,3 +60,9 @@ alternative outcome.
   monostable and the walls are gone.
 - That a wall is softer than the bulk, or any dynamics; the solitons are
   static.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Omidvar and colleagues (THEORY-tmp5hurd), read: a second buckled metamaterial, from a different group, in which compression makes beams bistable and domain walls separate regions of opposite buckling. Here the walls are moved one unit cell per load cycle, and the stored domains exist only while the static compression holds, as this entry says of its own walls. It does not test the kink–antikink lattice or the stepwise growth of the count with sample length, so it does not meet the promote_when.
+
+No status change.

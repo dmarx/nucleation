@@ -78,3 +78,11 @@ environments and survives the case where the task distribution itself
 depends on what the learner becomes, with a measurable proxy for the
 developmental frontier. [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) proposes the measurement for one
 family of models.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Finn, Abbeel and Levine (THEORY-tmpsw2ct), read: supports the first candidate answer's caveat. MAML's objective is the loss after adaptation on tasks from a declared distribution p(T), parameters "easy to fine-tune" in their words. The future it targets is that declared p(T) and a declared budget of one to a few gradient steps, so it does not reach the question's case of benefits that cannot be specified in advance. The record's addition, resource and repertoire accounting beyond a declared family, stands.
+
+Hospedales, Antoniou, Micaelli and Storkey (THEORY-tmpm09s4), skimmed: supports the same caveat across the field. They define meta-learning by an explicit objective that improves "future learning performance", and list objectives for speed, asymptotic performance, robustness and continual retention (§4.3, §5.7). Every one presupposes a declared task family or episode design. The survey lists generalization to other task distributions, and settings with no task family, as open (§6), which is the question's unspecifiable future.
+
+No status change.

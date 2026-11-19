@@ -129,3 +129,9 @@ the users' own engagement; one whose members' preferences move toward
 the class when the policy acts on it is [CLAIM-327](../claims.d/CLAIM-327.md)'s self-reinforcing
 collective variable. The wording is ChatGPT's in substance; adopting it
 is the owner's call.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Larremore, Clauset and Jacobs (THEORY-tmpyydjg), read, give the joint identification as a degree-corrected bipartite block model: the groups on each side are defined by their expected connections to the other side's groups. In their film example (IMDb co-appearance, not ratings), five of six movie blocks were language groups and one a genre; they read blocks as traces of "multiple mechanisms responsible for the existence of edges". That supports the case's confounds. Degree correction is the in-model guard against popularity classes: without it the model "tends to sort vertices by degree".
+
+No status change.

@@ -128,3 +128,11 @@ initialisation. No larger runs compared with a non-parametric learner are
 in the record. Narrowing it to the toy runs would make it promotable on
 one study, but would free nothing while [CLAIM-337](../claims.d/CLAIM-337.md)'s other grounds,
 [THEORY-662](THEORY-662.md) and [THEORY-577](THEORY-577.md), are Proposed.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Friston and colleagues (THEORY-tmp9tvpg), read: qualifies this entry but does not meet its promote_when. With 81 prespecified rules in a three-ball task, an agent choosing data by expected information gain over models, with Bayesian model reduction, found the true rule in 63 of 64 games; the one failure was "a premature commitment to the wrong model". But the structure is a rule from an enumerated set, not a number of hidden causes recovered from a learned parent, with no non-parametric comparison. Recovery may depend on whether data are chosen actively.
+
+Neacsu and colleagues (THEORY-tmp17fdp), skimmed in part: agrees with this entry's framing. The review classes LIT-615 among the reduction and expansion approaches, and says adding a variable to a model is "in principle, as trivial" as adding a hypothesis by hand, which fits this entry's view that expansion was never in doubt. It names a further gap, the hand-supplied hypothesis space, but reports no recovery rates, so the promote_when is untouched.
+
+No status change.

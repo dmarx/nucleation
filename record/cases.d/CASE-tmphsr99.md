@@ -110,3 +110,25 @@ it. It could not distinguish pretraining length from the shape of that
 run's schedule, with one run; nor show that the synthetic families stand
 for capabilities that matter. The owner asked for the design; whether to
 run it is the owner's call.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Biderman and colleagues' Pythia (THEORY-tmp7himr), read: the named models exist, 70M- and 160M-deduped, with checkpoints at step 0, log-spaced to 512 and every 1,000 steps to 143,000. Three confounds the design should state: the learning rate decays on a cosine to a tenth of peak, so later checkpoints also sit at lower learning rates; the deduplicated models run about 1.5 epochs, so late checkpoints have seen their data twice; and there is one run per size. Optimizer states are not said to be public, so the fresh-optimizer rule stands.
+
+Springer and colleagues (THEORY-tmp3dqbl), read, ran nearly this design on OLMo checkpoints and on small models pre-trained to separate budgets, each annealed to zero, which is a way to remove the single-run schedule confound. Their effects showed mostly on the old-capability axis, which supports scoring both axes; they did not measure A_s, so they do not supply the primary estimand.
+
+Tandon and colleagues (THEORY-tmpv904w), read: test-time updates on an initialization not trained for them ("TTT-naive") gain little, while a meta-learned initialization nearly matches full attention. Pythia is not meta-learned for test-time updates, so the TTT arm measures TTT-naive, and a weak TTT result could reflect the missing outer loop rather than lost plasticity; the design should say so.
+
+Pan and colleagues (THEORY-tmppqtz3), read, find task learning flat in small models (their smallest is 350M) whatever the number of demonstrations, so the in-context arm at 70M and 160M risks a floor. The study's synthetic families lack a natural label space, so in-context success on them is task learning by construction; a larger replication size, or recognition controls on a natural-language family, would make the arm informative.
+
+Yin and Steinhardt (THEORY-tmpqvj8f), read, give a Pythia baseline for the in-context arm: in all seven sizes, function-vector heads and few-shot accuracy keep rising from about step 16,000 to the end of training. In-context adaptability is still growing at the late checkpoints compared, the pattern A56 said would bear against reading overconsolidation as a loss of all adaptability, and a query–key reset should be scored for its cost to these heads.
+
+Raghu and colleagues (THEORY-tmpfhidr), read: a short adaptation budget on families that existing features serve measures reuse, not plasticity. The frozen-readout mode should be reported beside full fine-tuning at every checkpoint, so that a held-out family counts as needing new structure only where the frozen-body baseline fails.
+
+Nichol, Achiam and Schulman (THEORY-tmpbzf9h), read: Reptile differs from joint training only through a term that grows with step size times inner steps (§5.1). The matched-resource Reptile arm needs its inner budget k fixed and joint training plus fine-tuning on the same tasks as control, which the authors call "a strong baseline"; their RL results were negative, so the interactive arms should not inherit Reptile without a pilot.
+
+Yin and colleagues (THEORY-tmpzauel), read, place meta-overfitting in tasks identifiable from the query input alone. The case's per-example randomized families are mutually exclusive already, and held-out families add the guard; the diagnostic is high pre-update accuracy on meta-training tasks with low meta-test accuracy. A run can settle in a memorizing or an adapting mode, so the meta-trained arm needs several seeds.
+
+Rajendran, Irpan and Jang (THEORY-tmpy398k), read, show learner overfitting surviving mutually exclusive tasks, which supports held-out task-generating processes over shuffled tasks alone. Which form a run shows "depends on random seed", so the meta-trained arm should use several seeds and report pre- and post-update accuracy on training and validation tasks.
+
+No status change.

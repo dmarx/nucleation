@@ -82,3 +82,9 @@ is [CLAIM-352](CLAIM-352.md)'s question, not this one's.
 That organizations which transfer work are wrongful. Whether a transfer
 is unjust is judged against a declared standard ([CLAIM-363](CLAIM-363.md)), and the
 contesting cost a transfer imposes is [CLAIM-731](CLAIM-731.md)'s subject.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Ibrahim (THEORY-tmphw7hd), read in her 2013 piece as a stand-in for LIT-tmpmg2nk: a collective capability, one "the individual alone would neither have nor be able to achieve", is a case of the claim's third achievement, capability expanded, apart from work saved or transferred. Alkire's objection that crediting a group with a capability "may overlook some significant dis-benefits or heterogeneities" is the claim's boundary point about costs, made about benefits. It supports the claim's third category; it says nothing on saved against transferred work.
+
+No status change.

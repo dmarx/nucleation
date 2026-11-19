@@ -209,3 +209,11 @@ A cited this claim often and rightly. A54 §8 and A71 §10 predict its pattern f
 A43's manuscript listed its version as a hypothesis (H4), which understates this claim: it is Active and demonstrated in its model. Two claims filed from the exchange rest on it: [CLAIM-tmp8ljvp](CLAIM-tmp8ljvp.md) (overconsolidation) and [CLAIM-tmp1l2s7](CLAIM-tmp1l2s7.md) (three frontiers).
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Han and colleagues (THEORY-tmp8wxgt), read, give a training case of this claim. With all else fixed, OLMo-2-1B pre-trained at weight decay 0.3 or 1.0 ends with a worse pre-training loss than at 0.1 and performs "noticeably better after fine-tuning", and models with similar losses also diverge after fine-tuning. Present capability does not rank later capability, here between training regimes. That supports the claim's consequence with independent evidence; it does not touch the derivation, which is in CLAIM-605's model.
+
+Springer and colleagues (THEORY-tmp3dqbl), read: past an inflection point, longer pre-training leaves a base model that keeps improving and a fine-tuned model that gets worse. That too is present capability failing to rank later capability, along one training run. The mechanism they give is forgetting under the fine-tune, not a capacity decaying with disuse, so it supports the evaluative consequence and not the model the derivation uses.
+
+No status change.

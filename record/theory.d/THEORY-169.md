@@ -146,3 +146,11 @@ Written out for the promotion audit (batch 024, [ADR-047](../decisions.d/ADR-047
   W₀ = 0 is ΔW = (η/N) Σ_i y_i x_iᵀ, so the layer sends y_j to
   y_j − ΔW x_j. On a query token (x_q, 0) the read-out, sign flipped, is
   ΔW x_q, the updated model's prediction.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Akyürek and colleagues (THEORY-tmpvf16r), read: adds a construction and measures this entry's caution. Their Theorem 1 builds one gradient step in a softmax transformer of constant depth, beside von Oswald et al.'s linear construction. Trained models fit one gradient step only at one layer, and poorly; two to four layers match ridge regression, and deeper ones least squares or the Bayes ridge predictor. That supports the caution that trained transformers are not shown to do gradient descent, and leaves the identities untouched.
+
+Garg and colleagues (THEORY-tmpxdk37), read: supports the same caution with what trained deep transformers do. On linear functions they match least squares, on sparse linear functions they come near Lasso, and on depth-4 decision trees they beat greedy learning (error 0.12 against 0.80). None of that is one gradient step. The paper has no construction and does not bear on the identities themselves.
+
+No status change.

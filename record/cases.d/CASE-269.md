@@ -135,3 +135,9 @@ A10 §6 proposed a program that would extend this testbed. Its kink is driven wi
 A presented the program as "the most promising next step" and named [CASE-266](CASE-266.md) and [CASE-267](CASE-267.md) as what it extends. It did not cite this case, which already holds the property table, the kink–antikink run and a nucleus that lowers a barrier through a mediator. What the program adds here is the bound-state observable, the support withdrawal on the kink itself, and the interfacial order as a nucleus. Whether such bound or interfacial modes could come to maintain the kink that localizes them is [QUESTION-tmp57ji2](../questions.d/QUESTION-tmp57ji2.md).
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Suzuki, Li and Zurek (THEORY-tmpohouk), read, run the testbed's φ⁴ kink with a formation readout: an overdamped Langevin φ⁴ field, quenched linearly through ε = 0 under weak white noise in a periodic box. Their method could join the testbed as a measure of when a structure becomes determined, the time at which a trained predictor's error on the final configuration drops. That adds a timing observable beside the probability of formation in the property table. It supports the design's first model and changes nothing in it.
+
+No status change.

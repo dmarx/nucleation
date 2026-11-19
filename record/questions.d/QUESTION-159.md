@@ -57,3 +57,9 @@ The delta-rule layer the question names is defined in Schlag, Irie and Schmidhub
 By the filer's arithmetic, not the paper's, the increment is −β(i) times the gradient in W of ½‖v(i) − Wφ(k(i))‖² at W(i−1). So the unnormalised layer's output is the prediction, at φ(q(i)), of a linear model trained from zero by one online gradient step per context token, at the learned rates β(i). That makes it a train-then-predict description by construction. But it is sequential, not [THEORY-169](../theory.d/THEORY-169.md)'s single batch step, and it does not cover the normalised layer (Eqs. 27–28).
 
 Whether this counts as an exact identity of the kind asked, or is too immediate to count, is the owner's call. If it counts, it answers the question's first half for the unnormalised delta-rule layer. The second half is untouched. No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Akyürek and colleagues (THEORY-tmpvf16r), read: leaves the question open. Their Theorems 1 and 2 show that chosen transformer weights can carry one gradient step, or one Sherman–Morrison update of a ridge solution, on in-context examples. These are existence constructions for particular weights, not identities for a layer class, and the question says that restating constructions of this kind does not count. Their measurements of trained models, which match ridge or least squares rather than one gradient step, are excluded by the question's terms as well.
+
+No status change.

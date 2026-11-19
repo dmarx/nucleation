@@ -119,3 +119,13 @@ exactly closed collective variable with no weakly coupled block, and
 A29 §3's own coordinate z + (a/λ)ξ is conserved without any grouping of
 coordinates into fast and slow classes. The claim is filed without the
 rate condition.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Belkin and Niyogi (THEORY-tmpte85d), read, put the owner's thesis as a passing speculation in their introduction: if recovering low-dimensional structure is local, "a natural clustering will emerge" and might serve as a basis for categories in perception. They give no argument and no condition under which the clusters become units of further operation. It leaves the claim open.
+
+Lohmiller and Slotine (THEORY-tmprpscg), read: full contraction identifies all states and leaves a single class in any convex contraction region. That is why the claim needs its completion by differentiation (A29 §5): identification by contraction yields several classes only where something else has first separated basins or confined contraction to some directions. It qualifies the mechanism and agrees with the claim's completion.
+
+Wang and Isola (THEORY-tmpl3nl5), read, note (§4.2) that on a finite augmented dataset perfect alignment and uniformity cannot both hold, "because perfect alignment implies that all augmentations from a single element have the same feature vector". The identification the loss enforces is the augmentation's, and uniformity resists any coarser one. Whether coarser classes form, and whether they are closed under further operations, is not addressed, so it leaves the claim open.
+
+No status change.

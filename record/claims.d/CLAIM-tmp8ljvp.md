@@ -124,3 +124,25 @@ the evidence that would change it ([THEORY-285](../theory.d/THEORY-285.md), [CLA
 Springer et al. ([LIT-tmpq5g0q](../literature.d/LIT-tmpq5g0q.md)), Han et al. ([LIT-tmpkfcwr](../literature.d/LIT-tmpkfcwr.md)) and Dohare et
 al. ([LIT-tmpco2kf](../literature.d/LIT-tmpco2kf.md)), registered unread, are the empirical cases A cited.
 [CASE-tmphsr99](../cases.d/CASE-tmphsr99.md) is the owner-requested test on Pythia checkpoints.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Springer and colleagues (THEORY-tmp3dqbl), read, are the claim's prime case, and they qualify it. Past an inflection point the base model improves while the fine-tuned model gets worse, by forgetting that grows with pre-training: "for modifications of equal magnitude, models that have undergone longer pre-training exhibit greater forgetting". The new task itself gets worse only in some settings (RTE and TREC at a tuned learning rate). The case counts only if the cost of acquiring includes collateral loss of held capability, which the Not-forgetting bullet excludes.
+
+Yin and colleagues (THEORY-tmpzauel), read, observe a learner whose training loss improves while its capacity to adapt is lost: "models that converge to a memorization solution have lower training error than solutions which use the task training data". They call it "a subtle form of task overfitting", distinct from standard overfitting. That has the claim's signature and an existing name, so it presses the first clause of defeated_if: here the failure is overfitting, across a distribution of tasks rather than of examples.
+
+Rajendran, Irpan and Jang (THEORY-tmpy398k), read, add learner overfitting: a base learner that fails on new tasks even when tasks are mutually exclusive, while meta-training performance holds. It is a second named overfitting with the same signature, and the same pressure on the first clause of defeated_if. The claim's Not-overfitting bullet, which defines overfitting over examples, does not yet exclude it.
+
+Han and colleagues (THEORY-tmp8wxgt), read: higher pre-training weight decay gives a worse pre-training loss and a better fine-tuned score. That fits the claim's trade between the present objective and later acquisition, but it compares regimes, not continued training within one, measures plasticity only as the fine-tuned score, and does not measure forgetting. It qualifies the claim: a preventive regime exists, the trap itself is not shown.
+
+Dohare and colleagues (THEORY-tmpgjb4y), read, show networks losing the ability to learn new tasks, kept by the authors apart from forgetting and with no overfitting. That is a failure of acquisition outside both named failures, which the claim needs. But the present objective does not improve there: performance on each new task falls. So it shows plasticity loss, a candidate mechanism the claim lists, and not the claim's signature.
+
+Raghu and colleagues (THEORY-tmpfhidr), read, separate reusing held features from rapidly changing them, and find MAML takes the first: "feature reuse is the dominant factor". That supports the Not-one-scalar bullet only in a weaker form: fast adaptation can coexist with almost no change of representations. Neither quantity is tracked over training, and retention is not measured.
+
+Hospedales and colleagues (THEORY-tmpm09s4), skimmed, name meta-overfitting as metaknowledge that "constrains the hypothesis space" of θ too tightly around the source tasks (§2.1). That is close to the claim's raised cost of reaching other capabilities, framed as a failure of generalization across tasks, the rival naming defeated_if anticipates.
+
+Nichol, Achiam and Schulman (THEORY-tmpbzf9h), read, suggest from their expansion that ordinary SGD "automatically" performs a MAML-like update favouring generalization between mini-batches (§7). If so, ordinary training carries part of an adaptability objective, and overconsolidation would be that term ceasing to pay rather than its absence. The suggestion is untested beyond few-shot classification, so it leaves the claim open.
+
+Its standing. No reading shows the full signature: present competence rising, a declared later acquisition costing more, held capabilities kept. Springer's case is mainly forgetting; Yin's and Rajendran's have the signature and are named task overfitting. To survive, the claim must declare its future family outside the training task distribution, so it is not task overfitting, and either keep held capabilities in the signature, leaving Springer no case, or count collateral forgetting as acquisition cost and redraw its line with forgetting. CASE-tmphsr99's A_s tests the clean version.
+
+No status change.

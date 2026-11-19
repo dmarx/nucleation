@@ -109,3 +109,13 @@ Gili and colleagues ([THEORY-tmp8my3p](THEORY-tmp8my3p.md), read) apply the theo
 The owner's U9 hunch, that the fibration approach relates to Li and Webb's symbolic mechanisms, is [QUESTION-tmpex36a](../questions.d/QUESTION-tmpex36a.md).
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+DeVille and Lerman (THEORY-tmp31d9a), read: supports the sufficiency half and generalizes it. They state that the quotient maps of balanced relations are the surjective graph fibrations, and prove that surjective fibrations make the synchrony polydiagonal invariant for every groupoid-invariant vector field, on manifolds rather than Euclidean spaces (Theorem 4.3.1, Lemma 5.1.1). They prove only this direction: "We do not attempt to establish the converse" (Remark 4.3.3). The necessity half still rests on Stewart, Golubitsky and Pivato alone.
+
+Velarde, Parra, Hashemi and Makse (THEORY-tmpz825j), read: uses the balanced-colouring form on weighted feed-forward networks, with equal summed input weight from each colour class (their Eq. 14), so that units in a fiber synchronize for every input. That weighted version lies outside the 2003 definition held here. Their claim that covers are stable attractors of SGD rests on a cited result, not on the invariance, consistent with this entry's warning that invariance says nothing about attraction.
+
+Larremore, Clauset and Jacobs (THEORY-tmpyydjg), read; the reader's observation, not the paper's: a block of a stochastic block model is a balanced partition in expectation, its members having the same expected number of edges to each block. That is a stochastic counterpart of this entry's equal count of inputs from each class, which is exact, not expected. Neither source states the link. If made, it would put the genres case (CASE-tmpsjjgx) and the fibration hunch (QUESTION-tmpex36a) on one formal object.
+
+No status change.

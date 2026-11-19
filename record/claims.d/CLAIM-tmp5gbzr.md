@@ -90,3 +90,9 @@ later questions will come. When they cannot be specified in advance,
 which is the owner's U21 problem, the value of a productive step is
 uncertain, and that is [QUESTION-tmpwqepn](../questions.d/QUESTION-tmpwqepn.md). [CLAIM-605](CLAIM-605.md) shows the same
 compounding for one capacity, with a threshold below which it traps.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Finn, Abbeel and Levine's MAML (THEORY-tmpsw2ct), read, is an empirical instance. The initialization best on the present joint objective, pre-training on all tasks, adapts worse than the MAML initialization chosen by post-adaptation loss (sinusoid, §5.1; Appendix C, Table 2: 5-shot MSE 2.41 against 0.67 after one step). That supports the claim with independent evidence. As in CASE-tmpplox8, the later tasks are stipulated to come, here from p(T), so it does not touch the stronger reading the claim declines.
+
+No status change.

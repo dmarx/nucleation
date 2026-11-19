@@ -144,3 +144,9 @@ slow error stayed below the bound at d = 5, 20, 100 and 500, at 41 to
   quasi-steady-state reduction, in a different frame from Simon and Ando
   (nonlinear, continuous time, contraction metrics, a given fast–slow
   split).
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Lohmiller and Slotine (THEORY-tmprpscg), read: supports an ingredient. They state the inequality Ṙ + |λmax|R ≤ ‖Θd‖ (§3.7 (vii), eq. 15) on which this entry's constant-metric Lemma 1 rests, and offer hierarchical combination (§3.8.3), which couples one way only, as a framework for singular perturbations; this entry's counterexample couples both ways. Their contraction is full contraction, every trajectory converging to one. Partial contraction, the hypothesis this entry finds insufficient, is Wang and Slotine (2005), not held. The O(ε) bounds are Del Vecchio and Slotine's.
+
+No status change.

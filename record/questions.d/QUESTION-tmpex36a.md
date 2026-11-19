@@ -78,3 +78,13 @@ trained networks and are the evidence on the fibration side.
 - Li and Webb ([THEORY-tmpmtmq7](../theory.d/THEORY-tmpmtmq7.md)): silent at the level of units.
 - Gili et al. ([THEORY-tmp8my3p](../theory.d/THEORY-tmp8my3p.md)): balanced partitions inferred from
   synchrony in brains, not from trained networks.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Velarde, Parra, Hashemi and Makse (THEORY-tmpz825j), read: narrows the question and leaves it open. Quasi-fibers and quasi-covers grow in training, and gradient descent only merges exact covers (Theorem 1): balanced structure among units with no data symmetry to force it. But each input coordinate starts in its own colour, so units in a fiber agree "for any input x": redundant copies, not a quotient of inputs by relabelling, and no rule task is run. Their tolerance-based colouring (Methods 4.15) is still to be run on Li and Webb's models.
+
+DeVille and Lerman (THEORY-tmp31d9a), read: leaves the question open. They give the fibration side of the bridge as maps of dynamical systems, h ∘ ϕt = ψt ∘ h, the commuting-map form A21 used, and call the surjections induced by injective fibrations "abstractions" in the computer-science sense. The paper covers continuous-time systems on unweighted graphs and says nothing about learning or inputs.
+
+Geiger and colleagues (THEORY-tmp1cus0), skimmed; the reader's observation, not the paper's: their alignment (Definition 31) is a quotient of units, a partition with value maps. A fibration base merges units with equal activity on every input, a variable merge with identity value maps that keeps the forward computation exact (THEORY-tmpz825j). Neither paper connects the two. A test of the hunch could ask whether the alignment cells of a role-level algorithm are unions of quasi-fibers. Their worked task, hierarchical equality, is a relational rule of the kind the question names.
+
+No status change.

@@ -222,3 +222,9 @@ At U16 the owner saw "a clean way of connecting the earlier discussion of how ef
 The capability question that [CLAIM-tmpqpd2p](CLAIM-tmpqpd2p.md), filed from the same exchange, leaves open is this claim's: whether operations a stored constraint makes newly affordable widen anyone's substantive freedom, and whose.
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Ibrahim (THEORY-tmphw7hd), read in her 2013 piece as a stand-in for LIT-tmpmg2nk, defines collective capabilities as those no individual alone could have and asks that the evaluative space extend to the collectivity. Sen's own term for the same cases, "socially dependent individual capabilities", keeps the claim's individual unit, so this qualifies the claim rather than defeating it. Her first condition, free and voluntary participation without coercion, is a requirement of the process aspect on how such capabilities arise.
+
+No status change.

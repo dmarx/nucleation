@@ -194,3 +194,15 @@ against the claim.
 <!-- inactive-ok-file: NOTE-1953 — Skimmed; ReAct, skimmed on 2026-11-15 for one use, cited as an example that fits the distinction -->
 
 Yao et al. ([LIT-2652](../literature.d/LIT-2652.md), skimmed in [NOTE-1953](../notes.d/NOTE-1953.md) for one use): a frozen model prompted to interleave reasoning with calls to a Wikipedia API takes in facts it did not hold, and on an outdated HotpotQA label "Only ReAct is able to retrieve up-to-date information". The weights do not change and the new fact arrives in context, so this is improving the signal, not the interpreter, in the claim's sense. It is a standard example that fits the distinction; it does not test it, since nothing in it could have shown the two sources mixed. No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Sun and colleagues (THEORY-tmp3hfjg), read, draw the claim's line by what is carried: standard test-time training updates features on the current image and the update is "discarded" after predicting (the signal), while the online version keeps it for later images (the interpreter). Both are weight updates, so mechanism does not decide the side, and online TTT does better on a shifted stream. That supports the claim's last clause with a measured case. It does not test the defeat condition.
+
+Tandon and colleagues (THEORY-tmpv904w), read, exhibit the claim's two timescales in a language model: MLP weights trained on the current sequence and reset at document boundaries (the signal, though held in weights), and an initialization meta-learned across sequences and fixed after training (the interpreter). Without that initialization the test-time updates add little, so improving the interpreter is what lets the signal be used. Their name for the per-sequence weights, "long-term memory", is the naming by mechanism the claim sets aside. It supports the claim.
+
+Min and colleagues' MetaICL (THEORY-tmpnivm0), read, is a measured case of improving the interpreter rather than the signal: weights trained once across tasks on the in-context objective make the frozen model use the same k demonstrations better on held-out tasks, with per-task fine-tuning reported beside it as the other route. It supports the claim's distinction between the two kinds of improvement and does not test its defeat condition.
+
+Lu and Kankanhalli (THEORY-tmpddlli), read: a LoRA skill built on one query and loaded on later ones carries earlier contexts into new ones, so by the claim's criterion it falls on the interpreter side although the backbone is frozen and the skill removable. The interpreter becomes a backbone plus a library, with a policy choosing per query which one answers. That fits the claim's criterion of what is carried and leaves it untested.
+
+No status change.

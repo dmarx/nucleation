@@ -92,3 +92,11 @@ The argument is [ARG-101](../arguments.d/ARG-101.md), an existence proof.
 - **[CLAIM-456](CLAIM-456.md).** Internal maintenance can be more fragile than reset from
   outside. This claim's eater and gun blocks are the two kinds, for one
   form, but nothing is said here about which is more fragile.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Mordvintsev and colleagues (THEORY-tmpeaw52), read, show one form, a grown lizard, kept either as an almost stable pattern that does not repair or as an attractor that repairs itself after a strike, depending only on how the shared rule was trained. That supports the claim's thesis that the mode of persistence is not fixed by the form, in a trained system rather than Life. What changes the mode there is training, not a role, so it does not bear on the claim's second clause.
+
+Masumori and colleagues (THEORY-tmp3vfqj), read, show the trained lizard is not a fixed point: the system "continuously traverses a structured region of state space" and returns to it after damage. That is a mode between the claim's fixed point and repair after a strike, an attracting recurrent state that is repairing all the time. The claim's list is given as what can hold, not as exhaustive, so this extends it and leaves the claim standing.
+
+No status change.

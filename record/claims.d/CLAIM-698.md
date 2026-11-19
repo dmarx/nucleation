@@ -128,3 +128,9 @@ assistant's (Claude, in this session).
 ## Note of 2026-11-18: what holds it back
 
 The claim's own test has not been run: no matched, prospective comparison yet shows a description in independently justified modes and couplings predicting a learned network's responses better than feature-, circuit- or parameter-level accounts given the same data. Its experiments are proposed, not done ([CASE-272](../cases.d/CASE-272.md), [CASE-274](../cases.d/CASE-274.md)), and its one held case of justified modes, [THEORY-022](../theory.d/THEORY-022.md), is Proposed.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Jacobs and colleagues (THEORY-tmpctik9), read, are a case in which a spectral, modal description of a trained network makes its computation legible: per-pixel frequency spectra of the hidden dynamics, read out by FFT, nearly match learned linear readouts. The authors call their drum analogy motivational, not literal, and nothing tests prediction of interventions, training or merging against feature- or circuit-level accounts, which is the claim's criterion. It leaves the claim open.
+
+No status change.

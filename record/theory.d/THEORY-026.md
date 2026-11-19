@@ -157,3 +157,9 @@ A65 §2 and A71 §5 report this account's scope correctly: nonnegativity holds "
 A65 §3 also cited Still 2020 ([LIT-tmpsp5bi](../literature.d/LIT-tmpsp5bi.md), registered unread), which on A's account minimizes a thermodynamic lower bound on dissipation to derive a bottleneck that keeps predictive information. If it holds, it is this account carried to a design objective for memory.
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Still (THEORY-tmp6miip), read: a parallel in another setting, not a source for this entry's identity. In a cyclic, partially observable engine the isothermal bound is −Q ≥ kT·I[M,X|Y] (Eq. 7): only memory irrelevant to Y is waste, as only nonpredictive memory is here. The bound-minimizing memory is the information bottleneck (Eqs. 9–10). Y is what the work-extraction device can manipulate, not the next input, so A65's gloss that it keeps predictive information is loose. It is silent on feedback; the feedback clause and THEORY-817 are untouched.
+
+No status change.

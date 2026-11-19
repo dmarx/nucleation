@@ -65,3 +65,9 @@ interventions and the cost of reconfiguring. First reproduce Still's
 no-feedback result, then add feedback. A71 §10's Experiment III is the
 same design. Still's 2020 derivation of a bottleneck from a dissipation
 bound ([LIT-tmpsp5bi](../literature.d/LIT-tmpsp5bi.md)) is the nearest prior result, unread.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Still (THEORY-tmp6miip), read from arXiv v3: leaves the question open and sharpens it. The dissipation-minimizing memory is the information bottleneck relative to Y, the variables the work-extraction device can manipulate, so "relevant" is already relative to action. But it is computed from the observational p(y|x), and the agent's action never changes the next cycle's data: the preparation is fixed and the marginals unchanged. It is the no-feedback first rung of Experiment A. The choice between the interventional and the predictive partition arises only once preparation depends on memory.
+
+No status change.

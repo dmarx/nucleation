@@ -88,3 +88,11 @@ A gives two field-theoretic routes to new freedom at an interface. First, a wall
 A7 §4 calls the ordered interface "an autonomous lower-dimensional phase". That means a phase with its own symmetry and excitations, not autonomy in [TERM-088](../terms.d/TERM-088.md)'s sense. Whether such interface freedoms could come to maintain the wall that localizes them is [QUESTION-tmp57ji2](QUESTION-tmp57ji2.md).
 
 No status change.
+
+## Note of 2026-11-19: readings for the exchange "Topological protection explained"
+
+Rudner, Lindner, Berg and Levin (THEORY-tmpq7rwx), read: qualifies what "distinct phases" can mean. Two driven hopping systems with the same one-period evolution, the identity, have opposite chiral edge modes, fixed by a winding number of the evolution over the whole period. They are distinct by their dynamics in a way no snapshot of the state shows. The paper treats edges against vacuum only. That an interface between the two would carry the difference of their windings is an inference, not a result.
+
+Teo and Kane (THEORY-tmpcxzxx), read: qualifies the "distinct phases" condition. They treat an interface between topologically distinct phases as the D = 0 defect, with protected modes. But at a magnetic topological insulator domain wall, where the invariant θ is not quantized on either side, whether the wall carries a chiral mode depends on the path θ takes across it, and the mode escapes when the sides are decoupled. Which two phases meet does not by itself decide whether the interface gains a freedom.
+
+No status change.
