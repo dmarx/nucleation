@@ -10,8 +10,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpn5ruw), by a delegated reader from arXiv v5 (2018-05-23; v1
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpn5ruw), by a delegated reader from arXiv v5 (2018-05-23; v1
     2018-01-18, checked on the arXiv API, no email sent), in full. ACL 2018,
     pp. 328-339, DOI 10.18653/v1/P18-1031, from the ACL Anthology.
     Quotations rechecked by the filer. Not held before.

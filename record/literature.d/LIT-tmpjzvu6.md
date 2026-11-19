@@ -11,8 +11,8 @@ history:
 - version: 1
   date: '2026-11-19'
   note: >-
-    Registered and read on 2026-11-19 at the owner's request (LEAD-
-    tmpn5ruw), by a delegated reader from arXiv v4 (2020-07-22; v1
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-tmpn5ruw), by a delegated reader from arXiv v4 (2020-07-22; v1
     2020-05-28, checked on the arXiv API, no email sent); main text in full,
     appendices B and C skimmed. Quotations rechecked by the filer. Not held
     before: no hit for the identifier or title. NeurIPS 2020 not checked.
