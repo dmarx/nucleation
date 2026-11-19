@@ -15,7 +15,7 @@ advances:
 - CLAIM-756
 - QUESTION-039
 summary: >-
-  Follows LEAD-tmp5lpoy, whose search did not find the result the owner
+  Follows [LEAD-tmp5lpoy](LEAD-tmp5lpoy.md), whose search did not find the result the owner
   recalls. The owner then narrowed it (2026-11-19): the generic
   conversational data was probably Reddit, or social media and forums
   generally; and suggested a second lead, code first to ease natural
@@ -34,7 +34,7 @@ summary: >-
 2. **Code first**, the owner's suggestion: work that trains on code before
    natural language, or mixes it in early, and measures the effect on
    later natural-language learning. Hu and colleagues' formal-language
-   first phase (THEORY-tmpk9cmk) is the nearest held result.
+   first phase ([THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)) is the nearest held result.
 3. **Unread neighbours from the first search**, identifiers verified there:
    Akter and colleagues on front-loading reasoning data (arXiv
    2510.03264); Blakeney and colleagues on domain upsampling late (arXiv
@@ -47,6 +47,6 @@ summary: >-
 
 ## What would count
 
-As for LEAD-tmp5lpoy: the cost of a later acquisition with and without an
+As for [LEAD-tmp5lpoy](LEAD-tmp5lpoy.md): the cost of a later acquisition with and without an
 earlier one, the earlier one's cost stated, and order compared at fixed
 total data.

@@ -20,7 +20,7 @@ summary: >-
   text mid-training. Attribution only; no intervention, no Reddit or forum
   breakdown.
 ---
-<!-- inactive-ok-file: LEAD-tmpjdtrl CLAIM-756 THEORY-tmp0lbb1 THEORY-tmpd6smn — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 THEORY-tmp0lbb1 THEORY-tmpd6smn — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpd7rzs: Nishida and colleagues — Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining
 
@@ -65,21 +65,21 @@ dependence; the literature-to-STEM crossover.
 
 ## Bearing on the record
 
-- **LEAD-tmpjdtrl**, the owner's recollection: not found here. No Reddit,
+- **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**, the owner's recollection: not found here. No Reddit,
   forum or Pile-source breakdown; "conversational" rests on one excerpt.
-- **CLAIM-756**, background: no later acquisition's cost is measured, and
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, background: no later acquisition's cost is measured, and
   endpoint alignment cannot credit an update that only eases later ones.
-- **QUESTION-039**, weak bearing: when each data type aligns with the
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, weak bearing: when each data type aligns with the
   trajectory, and transitions later in smaller models; alignment, not the
   acquisition of a structure.
-- **THEORY-tmp0lbb1**, interpretation only: hard text matters most
+- **[THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md)**, interpretation only: hard text matters most
   mid-training, not last; an attribution pattern, not a curriculum test.
-- **THEORY-tmpd6smn** (Liu and colleagues), parallel with some tension:
+- **[THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md)** (Liu and colleagues), parallel with some tension:
   late STEM alignment matches late-specialization recipes; Liu finds early
   code best by intervention.
-- **TERM-131**, a caution: the measure has no counterfactual in the term's
+- **[TERM-131](../terms.d/TERM-131.md)**, a caution: the measure has no counterfactual in the term's
   sense, so it measures alignment, not learning from the experience.
-- **THEORY-279** and **CASE-294**, parallel and method neighbour.
+- **[THEORY-279](../theory.d/THEORY-279.md)** and **[CASE-294](../cases.d/CASE-294.md)**, parallel and method neighbour.
 
 ## Limitations
 

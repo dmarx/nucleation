@@ -14,7 +14,7 @@ promote_when: >-
   phase schedule beats random order of the same blend on downstream
   averages with both arms under the same learning-rate schedule.
 summary: >-
-  From the reading of LIT-tmp9r948 in NOTE-tmp58c4t. Order at fixed data
+  From the reading of [LIT-tmp9r948](../literature.d/LIT-tmp9r948.md) in [NOTE-tmp58c4t](../notes.d/NOTE-tmp58c4t.md). Order at fixed data
   and weights; the gain is small and confounded with an end-of-run anneal.
   Proposed until its promote_when is met.
 ---

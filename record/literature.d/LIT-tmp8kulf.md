@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmp1fwdh). Worth reading for its additive
+  Read on 2026-11-19 ([NOTE-tmp1fwdh](../notes.d/NOTE-tmp1fwdh.md)). Worth reading for its additive
   design with size-matched language-only baselines; it varies the share of
   code, never its order.
 title: 'How Does Code Pretraining Affect Language Model Task Performance?'
@@ -34,7 +34,7 @@ summary: >-
   arithmetic; it lowers natural-language-output generalization
   (passivization), morphology, reasoning and world knowledge. Order is
   never varied, and code does not speed fine-tuning. Read in NOTE-
-  tmp1fwdh; account THEORY-tmpq9sev.
+  tmp1fwdh; account [THEORY-tmpq9sev](../theory.d/THEORY-tmpq9sev.md).
 ---
 
 # LIT-tmp8kulf: How Does Code Pretraining Affect Language Model Task Performance?
@@ -43,4 +43,4 @@ Jackson Petty, Sjoerd van Steenkiste and Tal Linzen (2024). "How Does Code Pretr
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

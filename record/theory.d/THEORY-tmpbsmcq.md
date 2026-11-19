@@ -15,9 +15,9 @@ promote_when: >-
   of equal total tokens before a cooldown phase, and reports whether the
   advantage survives it.
 summary: >-
-  From the reading of LIT-tmp2di18 in NOTE-tmphewc9. The positive instance
+  From the reading of [LIT-tmp2di18](../literature.d/LIT-tmp2di18.md) in [NOTE-tmphewc9](../notes.d/NOTE-tmphewc9.md). The positive instance
   of the owner's code-first idea, as final score at fixed total tokens;
-  THEORY-tmpsewbi finds no benefit at matched compute. Proposed until its
+  [THEORY-tmpsewbi](THEORY-tmpsewbi.md) finds no benefit at matched compute. Proposed until its
   promote_when is met.
 ---
 

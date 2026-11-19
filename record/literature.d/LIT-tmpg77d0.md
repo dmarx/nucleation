@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Domain order across 159 domains at fixed total data, measured as
   perplexity and forgetting; forward transfer is zero-shot, not a cost.
-  Read on 2026-11-19 (NOTE-tmp4noj0).
+  Read on 2026-11-19 ([NOTE-tmp4noj0](../notes.d/NOTE-tmp4noj0.md)).
 title: 'Investigating Continual Pretraining in Large Language Models: Insights and Implications'
 version: 1
 history:
@@ -30,7 +30,7 @@ summary: >-
   perplexity on the domain just trained and on recent ones, while a random
   order ends better overall and forgets less; smaller models gain and
   forget most; Llama2-7B is degraded. One run per model and order. Read in
-  NOTE-tmp4noj0; account THEORY-tmpvbozh.
+  [NOTE-tmp4noj0](../notes.d/NOTE-tmp4noj0.md); account [THEORY-tmpvbozh](../theory.d/THEORY-tmpvbozh.md).
 ---
 
 # LIT-tmpg77d0: Investigating Continual Pretraining in Large Language Models: Insights and Implications
@@ -39,4 +39,4 @@ summary: >-
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

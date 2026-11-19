@@ -20,7 +20,7 @@ summary: >-
   after it; mixing is recommended. Natural-language tokens are not
   matched; no cost to a threshold; one run per arm.
 ---
-<!-- inactive-ok-file: LEAD-tmpjdtrl CLAIM-756 THEORY-tmpk9cmk THEORY-tmpsewbi THEORY-tmpd6smn THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 THEORY-tmpk9cmk THEORY-tmpsewbi THEORY-tmpd6smn THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmphewc9: Aryabumi and colleagues — To Code, or Not To Code? Exploring Impact of Code in Pre-training
 
@@ -60,27 +60,27 @@ Code-initialized continued pretraining; cooldown; code-share optimum.
 
 ## Bearing on the record
 
-- **LEAD-tmpjdtrl**, the owner's code-first idea: the positive instance, at
+- **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**, the owner's code-first idea: the positive instance, at
   final score only. No saving is stated in tokens or compute; read from
   Table 2, code first matches text-only knowledge and beats its reasoning
   with less than half the text before cooldown, and loses after it.
-- **CLAIM-756**, weak qualification: a phase weak on its own (code alone
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, weak qualification: a phase weak on its own (code alone
   scores poorly on language) belongs to a policy that does better before
   cooldown. Final score, one run, reversed after cooldown: not the cost
   evidence the claim's notes ask for.
-- **THEORY-tmpk9cmk** (Hu and colleagues), parallel and weaker: a long
+- **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)** (Hu and colleagues), parallel and weaker: a long
   first phase (half the budget), no threshold, no matched control.
-- **THEORY-tmpsewbi** (Stern and colleagues, filed in this change): the
+- **[THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)** (Stern and colleagues, filed in this change): the
   compute-matched counterpart that finds no benefit. The designs differ:
   total tokens matched here, FLOPs there; benchmark scores here, loss
   there; a long first phase here, a short one there; and code is still in
   phase 2 here.
-- **THEORY-tmpd6smn** (Liu and colleagues), consistent: early code beats
+- **[THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md)** (Liu and colleagues), consistent: early code beats
   late; here late code in a cooldown also helps.
-- **THEORY-tmpd6l4a** (Skill-it), partly in tension: code then text beats
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)** (Skill-it), partly in tension: code then text beats
   balanced throughout before cooldown, but natural-language amount is
   confounded, and the authors recommend mixing.
-- **THEORY-293**, analogy: knowledge falls monotonically with code share.
+- **[THEORY-293](../theory.d/THEORY-293.md)**, analogy: knowledge falls monotonically with code share.
 
 ## Limitations
 

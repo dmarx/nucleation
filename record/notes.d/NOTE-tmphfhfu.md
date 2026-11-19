@@ -36,10 +36,10 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-757.** The nearest thing on record to a deadline in language-model pretraining. Its decline is gradual, with no threshold, which fits the depletion branch more than the disuse branch, but it tests no renewed practice or reset and cannot separate plasticity from the cosine schedule's falling learning rate: a parallel, and a confound the claim's test should name.
-- **CLAIM-758.** In the base checkpoint series, in-domain loss after fine-tuning is flat after about 40B tokens and general loss after fine-tuning slightly rises late, within the bands: at most a faint version of Springer and colleagues' pattern at small scale.
-- **CASE-294.** The same model family and sizes, a checkpoint series each fine-tuned, forgetting scored; but trained from scratch, final loss rather than cost to a threshold, natural targets, no resets.
-- **LEAD-tmp5lpoy.** The direction runs against the owner's example: specialized data early and mixed beats a long general stretch before heavy specialization.
+- **[CLAIM-757](../claims.d/CLAIM-757.md).** The nearest thing on record to a deadline in language-model pretraining. Its decline is gradual, with no threshold, which fits the depletion branch more than the disuse branch, but it tests no renewed practice or reset and cannot separate plasticity from the cosine schedule's falling learning rate: a parallel, and a confound the claim's test should name.
+- **[CLAIM-758](../claims.d/CLAIM-758.md).** In the base checkpoint series, in-domain loss after fine-tuning is flat after about 40B tokens and general loss after fine-tuning slightly rises late, within the bands: at most a faint version of Springer and colleagues' pattern at small scale.
+- **[CASE-294](../cases.d/CASE-294.md).** The same model family and sizes, a checkpoint series each fine-tuned, forgetting scored; but trained from scratch, final loss rather than cost to a threshold, natural targets, no resets.
+- **[LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md).** The direction runs against the owner's example: specialized data early and mixed beats a long general stretch before heavy specialization.
 
 ## Limitations
 

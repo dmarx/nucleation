@@ -203,4 +203,4 @@ Under squared-error gradient flow, the residual obeys ė = −K_τ e. Write it i
 It adds a fourth order to the question's three: the order in which the space of modes is reorganized. This answers none of the four. No status change.
 
 ## Note of 2026-11-19: Chen and colleagues, read
-A qualification by analogy (NOTE-tmpwrmog): the order in which skills benefit training departs from the task's own dependency order ("the reasoning graph does not necessarily equal the skills graph").
+A qualification by analogy ([NOTE-tmpwrmog](../notes.d/NOTE-tmpwrmog.md)): the order in which skills benefit training departs from the task's own dependency order ("the reasoning graph does not necessarily equal the skills graph").

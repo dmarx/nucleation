@@ -38,15 +38,15 @@ summary: >-
 
 ## Bearing on the record
 
-- **THEORY-tmpd6smn** (Liu and colleagues), qualifies most directly: here a
+- **[THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md)** (Liu and colleagues), qualifies most directly: here a
   late phase heavy in code raises code and math scores of a 7B base model;
   Liu found late code worse than none for small models after fine-tuning.
   A plasticity-window reading of Liu should not be generalized to the
   conclusion that late specialized data hurts without these qualifications.
-- **CLAIM-756**, background: the late phase is the acquisition, judged by
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, background: the late phase is the acquisition, judged by
   final score; nothing earlier is varied.
-- **THEORY-tmplutfz**, parallel; **THEORY-tmp0lbb1**, **THEORY-tmpd6l4a**,
-  **QUESTION-039**, **CASE-294**: parallels or background.
+- **[THEORY-tmplutfz](../theory.d/THEORY-tmplutfz.md)**, parallel; **[THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md)**, **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)**,
+  **[QUESTION-039](../questions.d/QUESTION-039.md)**, **[CASE-294](../cases.d/CASE-294.md)**: parallels or background.
 
 ## Limitations
 

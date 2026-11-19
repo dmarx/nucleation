@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   About the last phase, not what early data does to later learning; its
-  late-code result qualifies THEORY-tmpd6smn. Read on 2026-11-19 (NOTE-
+  late-code result qualifies [THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md). Read on 2026-11-19 (NOTE-
   tmpfwg5y).
 title: 'Does your data spark joy? Performance gains from domain upsampling at the end of training'
 version: 1
@@ -30,7 +30,7 @@ summary: >-
   benchmarks peak at 10 to 20 per cent while math and code keep rising. A
   late phase without math datasets falls below the model with no late
   phase. The throughout arm is never run; one run per condition. Read in
-  NOTE-tmpfwg5y; account THEORY-tmpfvaag.
+  [NOTE-tmpfwg5y](../notes.d/NOTE-tmpfwg5y.md); account [THEORY-tmpfvaag](../theory.d/THEORY-tmpfvaag.md).
 ---
 
 # LIT-tmps3oxd: Does your data spark joy? Performance gains from domain upsampling at the end of training
@@ -39,4 +39,4 @@ Cody Blakeney, Mansheej Paul, Brett W. Larsen, Sean Owen and Jonathan Frankle (2
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

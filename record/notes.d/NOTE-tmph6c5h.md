@@ -20,7 +20,7 @@ summary: >-
   budgets; earlier gains partly an initialization artefact; first-phase
   skill overwritten at the switch, kept under interleaving.
 ---
-<!-- inactive-ok-file: THEORY-tmpk9cmk CLAIM-756 LEAD-tmpjdtrl THEORY-tmpbsmcq CLAIM-758 THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-tmpk9cmk CLAIM-756 THEORY-tmpbsmcq CLAIM-758 THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmph6c5h: Stern and colleagues — Rethinking Pre-pretraining
 
@@ -71,7 +71,7 @@ initialization confound; forgetting at a phase switch; interleaving.
 
 ## Bearing on the record
 
-- **THEORY-tmpk9cmk** (Hu and colleagues), qualifies its generality: at
+- **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)** (Hu and colleagues), qualifies its generality: at
   matched compute with a tuned initialization, k-Dyck never beats the
   baseline in any regime; under Hu's initialization family the additive
   gain persists at 1B (Fig. 8). The optimizer-reset point bears on Hu's
@@ -80,21 +80,21 @@ initialization confound; forgetting at a phase switch; interleaving.
   cite a reproduction (Riazhskykh and colleagues) whose gain "did not
   consistently persist across all model sizes, tokenizers, and languages
   tested".
-- **CLAIM-756**, qualifies its leading empirical instance: in a tuned
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, qualifies its leading empirical instance: in a tuned
   regime the earlier acquisition does not repay its compute. The claim's
   derivational content is untouched. Argued in ARG filed with this change.
-- **LEAD-tmpjdtrl**, the owner's code-first idea: answered negatively at
+- **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**, the owner's code-first idea: answered negatively at
   these scales; a code first phase does not even clearly help held-out code
   loss at matched compute (Table 12).
-- **THEORY-tmpbsmcq** (Aryabumi and colleagues): the positive instance this
+- **[THEORY-tmpbsmcq](../theory.d/THEORY-tmpbsmcq.md)** (Aryabumi and colleagues): the positive instance this
   paper does not test; design differences listed in its NOTE.
-- **CLAIM-758**, parallel: collateral forgetting at an abrupt shift counts
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, parallel: collateral forgetting at an abrupt shift counts
   as part of a phase's cost.
-- **THEORY-tmpd6l4a** (Skill-it), parallel: interleaving keeps what
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)** (Skill-it), parallel: interleaving keeps what
   front-loading loses.
-- **QUESTION-495**, evidence and narrow: a case where investing in later
+- **[QUESTION-495](../questions.d/QUESTION-495.md)**, evidence and narrow: a case where investing in later
   learnability does not pay at matched compute.
-- **THEORY-279**, **THEORY-2006**, **CLAIM-754**: analogies on earlier
+- **[THEORY-279](../theory.d/THEORY-279.md)**, **[THEORY-2006](../theory.d/THEORY-2006.md)**, **[CLAIM-754](../claims.d/CLAIM-754.md)**: analogies on earlier
   structure lost to later training.
 
 ## Limitations

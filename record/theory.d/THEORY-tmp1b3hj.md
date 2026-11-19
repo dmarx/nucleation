@@ -15,7 +15,7 @@ promote_when: >-
   only in the first few hundred steps, a dominant ArXiv share, and
   declining average per-point values for each domain.
 summary: >-
-  From the reading of LIT-tmprdmjg in NOTE-tmp4t32o. The measure credits
+  From the reading of [LIT-tmprdmjg](../literature.d/LIT-tmprdmjg.md) in [NOTE-tmp4t32o](../notes.d/NOTE-tmp4t32o.md). The measure credits
   only immediate alignment, so it cannot see an early step easing later
   ones. Proposed until its promote_when is met.
 ---

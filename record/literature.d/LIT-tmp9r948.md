@@ -2,8 +2,8 @@
 status: Active
 status_note: >-
   Order at fixed total tokens and fixed source weights, measured as final
-  accuracy. Not the same work as THEORY-tmprqq7k (Feng, Goodman and
-  Frank). Read on 2026-11-19 (NOTE-tmp58c4t).
+  accuracy. Not the same work as [THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md) (Feng, Goodman and
+  Frank). Read on 2026-11-19 ([NOTE-tmp58c4t](../notes.d/NOTE-tmp58c4t.md)).
 title: 'Maximize Your Data''s Potential: Enhancing LLM Accuracy with Two-Phase Pretraining'
 version: 1
 history:
@@ -32,7 +32,7 @@ summary: >-
   kept. The headline is the best of six phase-2 lengths, the phase-2
   learning-rate re-anneal is confounded with the phase, and the baselines
   are not run at the larger scales. One run per configuration. Read in
-  NOTE-tmp58c4t; account THEORY-tmpngig0.
+  [NOTE-tmp58c4t](../notes.d/NOTE-tmp58c4t.md); account [THEORY-tmpngig0](../theory.d/THEORY-tmpngig0.md).
 ---
 
 # LIT-tmp9r948: Maximize Your Data's Potential: Enhancing LLM Accuracy with Two-Phase Pretraining
@@ -41,4 +41,4 @@ Steven Y. Feng, Shrimai Prabhumoye, Kezhi Kong, Dan Su, Mostofa Patwary, Mohamma
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

@@ -20,7 +20,7 @@ summary: >-
   widens the spread of task effects without a significant mean change. No
   ordering, no cost measure.
 ---
-<!-- inactive-ok-file: LEAD-tmpjdtrl CLAIM-756 THEORY-tmpk9cmk THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 THEORY-tmpk9cmk THEORY-tmpd6l4a — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp1fwdh: Petty, van Steenkiste and Linzen — How Does Code Pretraining Affect Language Model Task Performance?
 
@@ -65,25 +65,25 @@ lexical and structural generalization; well-formedness.
 
 ## Bearing on the record
 
-- **LEAD-tmpjdtrl**, qualifies without answering: no order is varied and
+- **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**, qualifies without answering: no order is varied and
   no later cost measured; App. C.1 finds no speed-up, and more code tends to
   hurt natural-language tasks.
-- **CLAIM-756**, parallel, weak: code improves a later fine-tuned
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, parallel, weak: code improves a later fine-tuned
   capability beyond what extra language buys, measured as final accuracy,
   not cost.
-- **THEORY-tmpk9cmk** (Hu and colleagues; shared author), parallel and
+- **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)** (Hu and colleagues; shared author), parallel and
   qualifying: structured data carries useful bias, but large shares cost
   natural-language tasks. With Hu's finding that a first phase can run too
   long and the inverted U in competitive arithmetic, the two suggest a
   short, bounded dose; that pairing is the reader's inference.
-- **THEORY-tmpd6l4a** (Skill-it), parallel: code acts as a prerequisite for
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)** (Skill-it), parallel: code acts as a prerequisite for
   formal-output and arithmetic targets, not natural-language ones.
-- **THEORY-293** and **THEORY-809**, analogy: world knowledge falls as code
+- **[THEORY-293](../theory.d/THEORY-293.md)** and **[THEORY-809](../theory.d/THEORY-809.md)**, analogy: world knowledge falls as code
   is added at fixed language data, consistent with capacity competition,
   without a size-matched baseline for those tasks.
-- **TERM-117**, analogy: one experience promotes one capability and
+- **[TERM-117](../terms.d/TERM-117.md)**, analogy: one experience promotes one capability and
   obstructs another.
-- **TERM-131**, parallel: the additive arm is the kind of counterfactual the
+- **[TERM-131](../terms.d/TERM-131.md)**, parallel: the additive arm is the kind of counterfactual the
   term asks for.
 
 ## Limitations

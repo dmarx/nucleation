@@ -35,8 +35,8 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-756 and CASE-295.** The shape experiment is a real instance of CASE-295's pattern: an earlier acquisition that does poorly alone ("poor results") belongs to the best policy within a fixed budget, and the union control separates order from data. Measured as final error, not a lowered later cost.
-- **CLAIM-596.** The paper mostly reports end yields, which that claim says cannot tell a generative nucleus from a head start.
+- **[CLAIM-756](../claims.d/CLAIM-756.md) and [CASE-295](../cases.d/CASE-295.md).** The shape experiment is a real instance of [CASE-295](../cases.d/CASE-295.md)'s pattern: an earlier acquisition that does poorly alone ("poor results") belongs to the best policy within a fixed budget, and the union control separates order from data. Measured as final error, not a lowered later cost.
+- **[CLAIM-596](../claims.d/CLAIM-596.md).** The paper mostly reports end yields, which that claim says cannot tell a generative nucleus from a head start.
 
 ## Limitations
 

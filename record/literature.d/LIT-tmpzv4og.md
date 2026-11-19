@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpm4pxy). Worth reading as the cleanest
+  Read on 2026-11-19 ([NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md)). Worth reading as the cleanest
   measure on record of an earlier acquisition lowering a later one's cost
   with the earlier cost counted.
 title: 'Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases'
@@ -33,7 +33,7 @@ summary: >-
   loss with 33 per cent fewer total tokens. The copy language and random
   strings raise the cost; matched natural language as a first phase gets
   much of the saving; heads found by pruning after the first phase remain
-  important afterwards. Read in NOTE-tmpm4pxy; account THEORY-tmpk9cmk.
+  important afterwards. Read in [NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md); account [THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md).
 ---
 
 # LIT-tmpzv4og: Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases
@@ -42,4 +42,4 @@ Michael Y. Hu, Jackson Petty, Chuan Shi, William Merrill and Tal Linzen (2025). 
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmp5lpoy.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md).

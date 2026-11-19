@@ -15,8 +15,8 @@ promote_when: >-
   data raises those benchmarks over continuing the base mix, and that
   general-benchmark scores peak at an intermediate late-phase duration.
 summary: >-
-  From the reading of LIT-tmps3oxd in NOTE-tmpfwg5y. A late-phase result;
-  it qualifies THEORY-tmpd6smn's reading of late code. Proposed until its
+  From the reading of [LIT-tmps3oxd](../literature.d/LIT-tmps3oxd.md) in [NOTE-tmpfwg5y](../notes.d/NOTE-tmpfwg5y.md). A late-phase result;
+  it qualifies [THEORY-tmpd6smn](THEORY-tmpd6smn.md)'s reading of late code. Proposed until its
   promote_when is met.
 ---
 

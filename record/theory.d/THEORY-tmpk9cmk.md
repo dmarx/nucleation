@@ -20,7 +20,7 @@ corroborates:
 bears_on:
 - QUESTION-039
 summary: >-
-  From the reading of LIT-tmpzv4og in NOTE-tmpm4pxy. An earlier
+  From the reading of [LIT-tmpzv4og](../literature.d/LIT-tmpzv4og.md) in [NOTE-tmpm4pxy](../notes.d/NOTE-tmpm4pxy.md). An earlier
   acquisition lowering a later one's cost, the earlier cost counted.
   Proposed until its promote_when is met.
 ---

@@ -15,7 +15,7 @@ promote_when: >-
   declining with its start time when the learning-rate schedule and the
   count of specialized tokens are held fixed across start times.
 summary: >-
-  From the reading of LIT-tmpvfc1j in NOTE-tmphfhfu. Bears on the deadline
+  From the reading of [LIT-tmpvfc1j](../literature.d/LIT-tmpvfc1j.md) in [NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md). Bears on the deadline
   and overconsolidation claims as a parallel; plasticity is not measured.
   Proposed until its promote_when is met.
 ---

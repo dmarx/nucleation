@@ -15,7 +15,7 @@ promote_when: >-
   and a size-matched continued pretraining on an irrelevant domain falling
   below it.
 summary: >-
-  From the reading of LIT-tmptmqyy in NOTE-tmpg5d9a. A performance result,
+  From the reading of [LIT-tmptmqyy](../literature.d/LIT-tmptmqyy.md) in [NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md). A performance result,
   not a cost one. Proposed until its promote_when is met.
 ---
 

@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Read as a candidate for the owner's recollection; it is not it, and by
   construction its attribution cannot credit an early step for easing
-  later ones. Read on 2026-11-19 (NOTE-tmp4t32o).
+  later ones. Read on 2026-11-19 ([NOTE-tmp4t32o](../notes.d/NOTE-tmp4t32o.md)).
 title: 'Data Shapley in One Training Run'
 version: 1
 history:
@@ -30,8 +30,8 @@ summary: >-
   dominates far beyond its share; web crawl (Pile-CC) holds a positive
   share only in the first few hundred steps; per-point value of every
   domain shrinks with training. Per-step attribution gives an early step
-  no credit for making later steps more effective. Read in NOTE-tmp4t32o;
-  account THEORY-tmp1b3hj.
+  no credit for making later steps more effective. Read in [NOTE-tmp4t32o](../notes.d/NOTE-tmp4t32o.md);
+  account [THEORY-tmp1b3hj](../theory.d/THEORY-tmp1b3hj.md).
 ---
 
 # LIT-tmprdmjg: Data Shapley in One Training Run
@@ -40,4 +40,4 @@ Jiachen T. Wang, Prateek Mittal, Dawn Song and Ruoxi Jia (2024). "Data Shapley i
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

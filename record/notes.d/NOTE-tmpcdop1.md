@@ -69,26 +69,26 @@ transfer; structure against statistics.
 
 ## Bearing on the record
 
-- **CLAIM-756**, evidence for its premise: an earlier acquisition of
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, evidence for its premise: an earlier acquisition of
   negligible cost and no direct value on the target (its vocabulary is
   discarded) lowers a later acquisition's token cost substantially. Cost
   in semantic tokens, selection uncosted, no seeds.
-- **THEORY-tmpk9cmk** (Hu and colleagues), a second, independent instance
+- **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)** (Hu and colleagues), a second, independent instance
   with different procedures, domains and scale; it lacks Hu's matched
   natural-language first-phase control, so it cannot say procedural data
   beats as much natural text. It does not test Hu's non-hierarchical arm.
   It does not by itself meet that THEORY's promote_when, which asks for
   Hu's specific findings.
-- **THEORY-tmpsewbi** (Stern and colleagues): the compute-matched dispute
+- **[THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md)** (Stern and colleagues): the compute-matched dispute
   this paper does not answer.
-- **TERM-117**, application: productivity is a vector over targets (Union
+- **[TERM-117](../terms.d/TERM-117.md)**, application: productivity is a vector over targets (Union
   raises multiplication and collapses sorting) and the phase has an
   optimal length.
-- **CLAIM-754**, by analogy: the same phase lowers some later costs and
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, by analogy: the same phase lowers some later costs and
   raises others.
-- **CLAIM-758**, a weak instance: a first phase stabilized too far worsens
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, a weak instance: a first phase stabilized too far worsens
   later transfer, small-scale and read from a figure.
-- **QUESTION-039**, partial: front-loaded structure changes later
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, partial: front-loaded structure changes later
   acquisition, non-monotonically in its length.
 
 ## Limitations

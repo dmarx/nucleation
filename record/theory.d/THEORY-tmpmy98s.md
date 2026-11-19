@@ -19,9 +19,9 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of LIT-tmpb6e1c in NOTE-tmpcdop1. A second instance,
-  beside THEORY-tmpk9cmk, of an earlier acquisition lowering a later one's
-  cost; disputed at matched compute by THEORY-tmpsewbi. Proposed until its
+  From the reading of [LIT-tmpb6e1c](../literature.d/LIT-tmpb6e1c.md) in [NOTE-tmpcdop1](../notes.d/NOTE-tmpcdop1.md). A second instance,
+  beside [THEORY-tmpk9cmk](THEORY-tmpk9cmk.md), of an earlier acquisition lowering a later one's
+  cost; disputed at matched compute by [THEORY-tmpsewbi](THEORY-tmpsewbi.md). Proposed until its
   promote_when is met.
 ---
 

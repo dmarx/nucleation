@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Reasoning data in pretraining raises what later fine-tuning reaches;
   final scores only, and total reasoning data is not held fixed. Read on
-  2026-11-19 (NOTE-tmpw5r9u).
+  2026-11-19 ([NOTE-tmpw5r9u](../notes.d/NOTE-tmpw5r9u.md)).
 title: 'Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   doubling the baseline's SFT data does not close the gap; diversity
   matters most in pretraining and quality in SFT. Only pretraining tokens
   are fixed, total reasoning data is not, and no saving in data or compute
-  is measured. One run per arm. Read in NOTE-tmpw5r9u; account THEORY-
+  is measured. One run per arm. Read in [NOTE-tmpw5r9u](../notes.d/NOTE-tmpw5r9u.md); account THEORY-
   tmpgk8nb.
 ---
 
@@ -39,4 +39,4 @@ Syeda Nahida Akter, Shrimai Prabhumoye, Eric Nyberg, Mostofa Patwary, Mohammad S
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

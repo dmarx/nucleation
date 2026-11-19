@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Order within one distribution at fixed tokens, with savings in steps
   counted; it does not find one kind of data easing a different later
-  kind. Read on 2026-11-19 (NOTE-tmp4uvbo).
+  kind. Read on 2026-11-19 ([NOTE-tmp4uvbo](../notes.d/NOTE-tmp4uvbo.md)).
 title: 'Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning'
 version: 1
 history:
@@ -30,7 +30,7 @@ summary: >-
   18 to 45 per cent fewer steps for the best metric–schedule pairs, the
   advantage concentrated early and mid-training; used as a warm-up before
   the baseline's own shuffled continuation, a curriculum ends 2 to 3.5 per
-  cent higher. Mostly single runs. Read in NOTE-tmp4uvbo; account THEORY-
+  cent higher. Mostly single runs. Read in [NOTE-tmp4uvbo](../notes.d/NOTE-tmp4uvbo.md); account THEORY-
   tmply4g3.
 ---
 
@@ -40,4 +40,4 @@ Yang Zhang, Amr Mohamed, Hadi Abdine, Guokan Shang and Michalis Vazirgiannis (20
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

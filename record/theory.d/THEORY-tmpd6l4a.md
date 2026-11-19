@@ -19,7 +19,7 @@ corroborates:
 bears_on:
 - QUESTION-039
 summary: >-
-  From the reading of LIT-tmpagqou in NOTE-tmpwrmog. Co-acquisition
+  From the reading of [LIT-tmpagqou](../literature.d/LIT-tmpagqou.md) in [NOTE-tmpwrmog](../notes.d/NOTE-tmpwrmog.md). Co-acquisition
   lowering a target's cost at a fixed budget, the earlier data's cost
   counted. Proposed until its promote_when is met.
 ---

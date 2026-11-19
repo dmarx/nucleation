@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   The nearest find to the owner's recollection of conversational text
   early, and not it: attribution within ordinary runs, no reordering, no
-  Reddit or forum analysis. Read on 2026-11-19 (NOTE-tmpd7rzs).
+  Reddit or forum analysis. Read on 2026-11-19 ([NOTE-tmpd7rzs](../notes.d/NOTE-tmpd7rzs.md)).
 title: 'Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining'
 version: 1
 history:
@@ -31,8 +31,8 @@ summary: >-
   STEM examples later; high-perplexity text contributes most mid-training.
   The authors state that this is attribution within ordinary runs, not the
   effect of changing mixture or order; one early example is called
-  conversational. Not the owner's recalled result. Read in NOTE-tmpd7rzs;
-  account THEORY-tmp5jrhv.
+  conversational. Not the owner's recalled result. Read in [NOTE-tmpd7rzs](../notes.d/NOTE-tmpd7rzs.md);
+  account [THEORY-tmp5jrhv](../theory.d/THEORY-tmp5jrhv.md).
 ---
 
 # LIT-tmpbcd3f: Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining
@@ -41,4 +41,4 @@ Yuto Nishida, Hirokazu Kiyomaru, Yusuke Oda, Takashi Kodama, Chaoran Liu, Daisuk
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

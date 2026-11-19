@@ -15,7 +15,7 @@ promote_when: >-
   ordered, reversed and random global order, together with a measurable
   loss from shuffling utterances within conversations.
 summary: >-
-  From the reading of LIT-tmpdvkoo in NOTE-tmpu1se9. A null for
+  From the reading of [LIT-tmpdvkoo](../literature.d/LIT-tmpdvkoo.md) in [NOTE-tmpu1se9](../notes.d/NOTE-tmpu1se9.md). A null for
   developmental order within one corpus, weakly powered. Proposed until
   its promote_when is met.
 ---

@@ -39,15 +39,15 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-756**, weak background: earlier domains leave a later domain
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, weak background: earlier domains leave a later domain
   better after the same budget on it, with the earlier cost uncounted; some
   earlier acquisitions make later ones start worse, in zero-shot loss.
-- **THEORY-tmplutfz** (Gururangan and colleagues), qualifies and extends
+- **[THEORY-tmplutfz](../theory.d/THEORY-tmplutfz.md)** (Gururangan and colleagues), qualifies and extends
   domain-adaptive pretraining.
-- **THEORY-tmpd6l4a**, agreeing in direction: a similarity sequence ends
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)**, agreeing in direction: a similarity sequence ends
   worse than random.
-- **THEORY-tmprqq7k**, contrast: here order changes final perplexity.
-- **THEORY-2006**, **CLAIM-758**, **CLAIM-757**: analogies on long
+- **[THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md)**, contrast: here order changes final perplexity.
+- **[THEORY-2006](../theory.d/THEORY-2006.md)**, **[CLAIM-758](../claims.d/CLAIM-758.md)**, **[CLAIM-757](../claims.d/CLAIM-757.md)**: analogies on long
   pretraining and later degradation; nothing measured as a budget.
 
 ## Limitations

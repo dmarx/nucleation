@@ -2,9 +2,9 @@
 status: Active
 status_note: >-
   A second, independent instance of a tiny abstract first phase lowering
-  later data cost, beside THEORY-tmpk9cmk; it lacks a natural-language
+  later data cost, beside [THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md); it lacks a natural-language
   first-phase control and a compute-matched accounting. Read on 2026-11-19
-  (NOTE-tmpcdop1).
+  ([NOTE-tmpcdop1](../notes.d/NOTE-tmpcdop1.md)).
 title: 'Procedural Pretraining: Warming Up Language Models with Abstract Data'
 version: 1
 history:
@@ -35,7 +35,7 @@ summary: >-
   cent of C4. Shuffling the procedural sequences or the transferred
   weights removes the benefit. No seeds for semantic runs; no natural-
   language warm-up control; procedures chosen by downstream grids. Read in
-  NOTE-tmpcdop1; account THEORY-tmpmy98s.
+  [NOTE-tmpcdop1](../notes.d/NOTE-tmpcdop1.md); account [THEORY-tmpmy98s](../theory.d/THEORY-tmpmy98s.md).
 ---
 
 # LIT-tmpb6e1c: Procedural Pretraining: Warming Up Language Models with Abstract Data
@@ -44,4 +44,4 @@ Liangze Jiang, Zachary Shinnick, Anton van den Hengel, Hemanth Saratchandran and
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

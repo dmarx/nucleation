@@ -19,7 +19,7 @@ summary: >-
   worth, as a power law in fine-tuning data and model size in the low-data
   regime. Pretraining cost excluded; small models ossify at large data.
 ---
-<!-- inactive-ok-file: CLAIM-756 CLAIM-758 THEORY-tmpw8s3h THEORY-tmpk9cmk LEAD-tmpjdtrl — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 CLAIM-758 THEORY-tmpw8s3h THEORY-tmpk9cmk — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpmxg4d: Hernandez and colleagues — Scaling Laws for Transfer
 
@@ -66,24 +66,24 @@ coefficients; data regime; ossification.
 
 ## Bearing on the record
 
-- **CLAIM-756**, evidence for its premise: an earlier acquisition lowers
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, evidence for its premise: an earlier acquisition lowers
   a later one's sample cost by a closed-form amount, up to orders of
   magnitude at small fine-tuning data. Only the later cost is measured;
   the earlier is set aside on reuse grounds, so this is not the full
-  with-and-without accounting LEAD-tmpjdtrl asks for. Ossification shows
+  with-and-without accounting [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md) asks for. Ossification shows
   the sign can flip.
-- **CLAIM-758**, independent evidence: ossification is an earlier
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, independent evidence: ossification is an earlier
   stabilization raising a later acquisition's cost, here for small models
   at large later data; forgetting is not measured.
-- **THEORY-tmpw8s3h** (ULMFiT), corroborating: the same from-scratch data
+- **[THEORY-tmpw8s3h](../theory.d/THEORY-tmpw8s3h.md)** (ULMFiT), corroborating: the same from-scratch data
   equivalence, generalized to a law.
-- **THEORY-tmpk9cmk** (Hu and colleagues), complementary: Hu counts the
+- **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)** (Hu and colleagues), complementary: Hu counts the
   first phase at a few points; Hernandez has the scaling form without it.
-- **CLAIM-754**, by parallel: whether pretraining helps depends on later
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, by parallel: whether pretraining helps depends on later
   data and size; transfer coefficients are directed.
-- **TERM-131**: D_T is a worked operationalization of the term's
+- **[TERM-131](../terms.d/TERM-131.md)**: D_T is a worked operationalization of the term's
   counterfactual cost, in samples.
-- **CLAIM-303**, **CLAIM-761**, **QUESTION-495**: background on amortized
+- **[CLAIM-303](../claims.d/CLAIM-303.md)**, **[CLAIM-761](../claims.d/CLAIM-761.md)**, **[QUESTION-495](../questions.d/QUESTION-495.md)**: background on amortized
   reuse and when to invest in later learnability.
 
 ## Limitations

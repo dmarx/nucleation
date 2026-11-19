@@ -18,7 +18,7 @@ summary: >-
   schedule tried only at instruction tuning. Unmatched comparisons, single
   runs, tiny test sets.
 ---
-<!-- inactive-ok-file: LEAD-tmpjdtrl THEORY-tmpd6smn CLAIM-596 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-tmpd6smn — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmphkwyp: Ma and colleagues — At Which Training Stage Does Code Data Help LLMs Reasoning?
 
@@ -39,14 +39,14 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmpjdtrl**, code first: does not support it; code is never
+- **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**, code first: does not support it; code is never
   strictly first and no later cost is measured.
-- **THEORY-tmpd6smn** (Liu and colleagues), the useful bearing: the record
+- **[THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md)** (Liu and colleagues), the useful bearing: the record
   already holds a better-controlled answer, at matched tokens, to the
   pretraining-stage question this paper leaves open.
-- **CLAIM-596**, by analogy: end scores cannot tell a changed rate of later
+- **[CLAIM-596](../claims.d/CLAIM-596.md)**, by analogy: end scores cannot tell a changed rate of later
   learning from a head start.
-- **CLAIM-756**, **QUESTION-039**, **THEORY-tmpd6l4a**, **THEORY-tmpk9cmk**:
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, **[QUESTION-039](../questions.d/QUESTION-039.md)**, **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)**, **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)**:
   background.
 
 ## Limitations

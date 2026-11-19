@@ -20,7 +20,7 @@ summary: >-
   specialised text dominates; per-point value decays with training. No
   order intervention.
 ---
-<!-- inactive-ok-file: CLAIM-756 CLAIM-596 LEAD-tmpjdtrl — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp4t32o: Wang and colleagues — Data Shapley in One Training Run
 
@@ -60,20 +60,20 @@ model-specific against algorithm-level attribution.
 
 ## Bearing on the record
 
-- **CLAIM-756**, background with one point the record should keep: this
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, background with one point the record should keep: this
   is the own-direct-return accounting the claim says misses an
   acquisition's effect on later costs. An early step that only eases later
   learning gets zero or negative value here, so this attribution family
   cannot test the claim.
-- **CLAIM-596**, analogy: per-step attribution, like a yield, cannot
+- **[CLAIM-596](../claims.d/CLAIM-596.md)**, analogy: per-step attribution, like a yield, cannot
   separate a contribution that speeds a later step from one that does not.
-- **LEAD-tmpjdtrl**: not the owner's recalled result, and by construction
+- **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**: not the owner's recalled result, and by construction
   it cannot be.
-- **QUESTION-039**, weak parallel: which domains help a target shifts in
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, weak parallel: which domains help a target shifts in
   the opening steps, and per-point value decays.
-- **TERM-131**, background: a per-step counterfactual inside one
+- **[TERM-131](../terms.d/TERM-131.md)**, background: a per-step counterfactual inside one
   trajectory, not the whole-run counterfactual the term asks for.
-- **THEORY-tmpd6smn**, **THEORY-tmpd6l4a**, **THEORY-279**, **CASE-294**:
+- **[THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md)**, **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)**, **[THEORY-279](../theory.d/THEORY-279.md)**, **[CASE-294](../cases.d/CASE-294.md)**:
   parallels or background.
 
 ## Limitations

@@ -20,7 +20,7 @@ summary: >-
   natural languages tracks syntactic distance. No full-finetuning arm and
   no cost measure.
 ---
-<!-- inactive-ok-file: CLAIM-756 THEORY-tmpk9cmk CLAIM-596 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 THEORY-tmpk9cmk — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpwj0be: Papadimitriou and Jurafsky — Learning Music Helps You Read
 
@@ -67,11 +67,11 @@ head-dependent pairing bias; WALS-syntax distance.
 
 ## Bearing on the record
 
-- **CLAIM-756**, background. An earlier acquisition leaves something
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, background. An earlier acquisition leaves something
   reusable, but the measure is end-state perplexity under a frozen
   interface: no learning curve, no cost, the first phase's cost not counted.
   Not evidence for the claim's premise.
-- **THEORY-tmpk9cmk** (Hu and colleagues), the direct predecessor, in
+- **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)** (Hu and colleagues), the direct predecessor, in
   partial tension. Both find structured formal data helps and random
   strings do not. Here flat crossing pairs equal nesting; Hu and colleagues
   find hierarchy crucial and the copy language unhelpful. LSTM against
@@ -79,15 +79,15 @@ head-dependent pairing bias; WALS-syntax distance.
   with Spanish-derived distances against a copy language could each
   account for it. The authors: "A first step in future work would be to
   test if the results of this paper hold on Transformer architectures".
-- **CLAIM-596**, a methodological point the record supplies: an end-state
+- **[CLAIM-596](../claims.d/CLAIM-596.md)**, a methodological point the record supplies: an end-state
   measure cannot tell a foundation that speeds later learning from a head
   start; this design has no later learning rate at all.
-- **TERM-131**, parallel: TILT runs the same later step against different
+- **[TERM-131](../terms.d/TERM-131.md)**, parallel: TILT runs the same later step against different
   histories with random text as the null, the counterfactual the term asks
   for, but measures only what the system can later do, not at what cost.
-- **TERM-117**, analogy: a structured first corpus judged against random
+- **[TERM-117](../terms.d/TERM-117.md)**, analogy: a structured first corpus judged against random
   comparators, productivity read as end-state usability.
-- **QUESTION-039**, background: which first-corpus structure becomes
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, background: which first-corpus structure becomes
   usable, nothing on timing.
 
 ## Limitations

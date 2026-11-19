@@ -15,7 +15,7 @@ promote_when: >-
   contributors early than late and STEM-classified examples a larger share
   late than early, across at least three seeds with the data order varied.
 summary: >-
-  From the reading of LIT-tmpbcd3f in NOTE-tmpd7rzs. Attribution within
+  From the reading of [LIT-tmpbcd3f](../literature.d/LIT-tmpbcd3f.md) in [NOTE-tmpd7rzs](../notes.d/NOTE-tmpd7rzs.md). Attribution within
   ordinary runs; the authors state it does not show the effect of changing
   order. Proposed until its promote_when is met.
 ---

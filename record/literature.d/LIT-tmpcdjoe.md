@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   The record's cleanest quantitative instance of an earlier acquisition
   lowering a later one's sample cost, as a law; pretraining's own cost is
-  excluded. Read on 2026-11-19 (NOTE-tmpmxg4d).
+  excluded. Read on 2026-11-19 ([NOTE-tmpmxg4d](../notes.d/NOTE-tmpmxg4d.md)).
 title: 'Scaling Laws for Transfer'
 version: 1
 history:
@@ -32,7 +32,7 @@ summary: >-
   tuning data by a factor that falls with fine-tuning data and grows with
   model size. Outside that regime the fit fails and small pretrained
   models can end worse than from scratch ("ossify"). Pretraining's cost is
-  set aside; no order comparison. Read in NOTE-tmpmxg4d; account THEORY-
+  set aside; no order comparison. Read in [NOTE-tmpmxg4d](../notes.d/NOTE-tmpmxg4d.md); account THEORY-
   tmp1mk7r.
 ---
 
@@ -42,4 +42,4 @@ Danny Hernandez, Jared Kaplan, Tom Henighan and Sam McCandlish (2021). "Scaling 
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmp7x6kq). A BabyLM-scale test of curricula and
+  Read on 2026-11-19 ([NOTE-tmp7x6kq](../notes.d/NOTE-tmp7x6kq.md)). A BabyLM-scale test of curricula and
   of speech against text; worth it as a weak, mostly negative check on
   ordering, not as the owner's recalled result.
 title: 'On the effect of curriculum learning with developmental data for grammar acquisition'
@@ -32,7 +32,7 @@ summary: >-
   text-heavy control. The authors attribute random sampling's strength to
   the share of steps given to short speech lines, an interpretation not
   manipulated. No later acquisition's cost is measured. Read in NOTE-
-  tmp7x6kq; account THEORY-tmpshgvo.
+  tmp7x6kq; account [THEORY-tmpshgvo](../theory.d/THEORY-tmpshgvo.md).
 ---
 
 # LIT-tmpegoad: On the effect of curriculum learning with developmental data for grammar acquisition
@@ -41,4 +41,4 @@ Mattia Opper, J. Morrison and N. Siddharth (2023). "On the effect of curriculum 
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

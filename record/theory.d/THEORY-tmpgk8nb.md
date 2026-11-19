@@ -15,7 +15,7 @@ promote_when: >-
   an identical SFT recipe, and above that baseline given twice the SFT
   data.
 summary: >-
-  From the reading of LIT-tmpofzg6 in NOTE-tmpw5r9u. An earlier phase that
+  From the reading of [LIT-tmpofzg6](../literature.d/LIT-tmpofzg6.md) in [NOTE-tmpw5r9u](../notes.d/NOTE-tmpw5r9u.md). An earlier phase that
   raises what later fine-tuning reaches, measured as final scores.
   Proposed until its promote_when is met.
 ---

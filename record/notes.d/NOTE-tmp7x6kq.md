@@ -19,7 +19,7 @@ summary: >-
   out zero-shot tasks, three seeds. Random sampling is hard to beat;
   speech beats text; ordering effects are about a point or less.
 ---
-<!-- inactive-ok-file: THEORY-tmp0lbb1 THEORY-tmprqq7k THEORY-tmpd6l4a CLAIM-756 LEAD-tmpjdtrl CLAIM-596 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-tmp0lbb1 THEORY-tmprqq7k THEORY-tmpd6l4a CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp7x6kq: Opper, Morrison and Siddharth — On the effect of curriculum learning with developmental data for grammar acquisition
 
@@ -61,22 +61,22 @@ utility data; share of steps against share of tokens.
 
 ## Bearing on the record
 
-- **THEORY-tmp0lbb1** (Bengio and colleagues), qualifies, as a parallel
+- **[THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md)** (Bengio and colleagues), qualifies, as a parallel
   test: easy-first curricula do not beat random sampling here; the authors
   cannot rule out longer-horizon trends.
-- **THEORY-tmprqq7k** (Feng and colleagues), parallel and agreeing:
+- **[THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md)** (Feng and colleagues), parallel and agreeing:
   developmental or complexity order barely moves final syntactic scores in
   small models, and coherent units matter (sequences beat token blocks,
   68.21 against 64.1, Table 1).
-- **THEORY-tmpd6l4a** (Skill-it), parallel: a random mixture is hard to beat
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)** (Skill-it), parallel: a random mixture is hard to beat
   by sequencing at a fixed step budget.
-- **CLAIM-756** and **LEAD-tmpjdtrl**, background: no later acquisition's
+- **[CLAIM-756](../claims.d/CLAIM-756.md)** and **[LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md)**, background: no later acquisition's
   cost is measured with and without speech first, so this is not the
   owner's recalled result.
-- **CLAIM-596**, a methodological point: final scores at a fixed budget
+- **[CLAIM-596](../claims.d/CLAIM-596.md)**, a methodological point: final scores at a fixed budget
   cannot tell speech data that speeds later text learning from speech data
   that simply carries the grammar signal.
-- **THEORY-293**, analogy: a data type's share of training sets what is
+- **[THEORY-293](../theory.d/THEORY-293.md)**, analogy: a data type's share of training sets what is
   acquired; there a threshold, here only suggested.
 
 ## Limitations

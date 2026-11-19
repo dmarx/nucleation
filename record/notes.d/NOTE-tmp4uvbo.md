@@ -20,7 +20,7 @@ summary: >-
   as a warm-up. Within one distribution; mostly single runs; constant
   learning rate.
 ---
-<!-- inactive-ok-file: CLAIM-596 CLAIM-756 THEORY-tmp0lbb1 THEORY-tmpd6l4a THEORY-tmprqq7k THEORY-tmpk9cmk — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 THEORY-tmp0lbb1 THEORY-tmpd6l4a THEORY-tmprqq7k THEORY-tmpk9cmk — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmp4uvbo: Zhang and colleagues — Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning
 
@@ -61,23 +61,23 @@ baseline's best; ordering against filtering.
 
 ## Bearing on the record
 
-- **CLAIM-596**, the closest any of these readings comes to the rate it
+- **[CLAIM-596](../claims.d/CLAIM-596.md)**, the closest any of these readings comes to the rate it
   asks for: strict curricula look like head starts (early lead, then
   convergence), while the warm-up arm keeps improving after the baseline
   converges. Read from a figure, one run, no rate quantity.
-- **QUESTION-397**, by the same contrast: partial organization changing
+- **[QUESTION-397](../questions.d/QUESTION-397.md)**, by the same contrast: partial organization changing
   later dynamics against a more advanced start.
-- **CLAIM-756**, analogy: order at fixed total data with the earlier tokens
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, analogy: order at fixed total data with the earlier tokens
   counted, but within one acquisition; phase 2 is the same distribution.
-- **QUESTION-039**, partial: order moves when aggregate competence arrives,
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, partial: order moves when aggregate competence arrives,
   mostly not the endpoint.
-- **THEORY-tmp0lbb1** (Bengio and colleagues), parallel, qualifying: easy to
+- **[THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md)** (Bengio and colleagues), parallel, qualifying: easy to
   hard helps at language-model scale, with lasting gains mainly as warm-up.
-- **THEORY-tmpd6l4a** (Skill-it), contrast: different units ordered and
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)** (Skill-it), contrast: different units ordered and
   different measures, not a contradiction.
-- **THEORY-tmprqq7k** (Feng, Goodman and Frank), parallel: order within a
+- **[THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md)** (Feng, Goodman and Frank), parallel: order within a
   corpus washes out at the end under strict ordering.
-- **THEORY-tmpk9cmk**, parallel: both count the earlier phase's tokens.
+- **[THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md)**, parallel: both count the earlier phase's tokens.
 
 ## Limitations
 

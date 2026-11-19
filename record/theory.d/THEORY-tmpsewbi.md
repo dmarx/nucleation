@@ -17,8 +17,8 @@ promote_when: >-
   that loss on the first-phase distribution rises after the switch but not
   under interleaving of the same data.
 summary: >-
-  From the reading of LIT-tmpqj6ht in NOTE-tmph6c5h. It qualifies the
-  generality of THEORY-tmpk9cmk and answers the owner's code-first idea
+  From the reading of [LIT-tmpqj6ht](../literature.d/LIT-tmpqj6ht.md) in [NOTE-tmph6c5h](../notes.d/NOTE-tmph6c5h.md). It qualifies the
+  generality of [THEORY-tmpk9cmk](THEORY-tmpk9cmk.md) and answers the owner's code-first idea
   negatively at these scales. Proposed until its promote_when is met.
 ---
 

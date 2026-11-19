@@ -41,16 +41,16 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-756**, background: order at fixed total data, final accuracy, no
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, background: order at fixed total data, final accuracy, no
   later cost with and without an earlier acquisition.
-- **THEORY-tmpd6smn** (Liu and colleagues), qualifies: code and math
+- **[THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md)** (Liu and colleagues), qualifies: code and math
   concentrated late help base-model code and math scores; Liu's late code
   hurt fine-tuning. Different targets; neither controls the schedule.
-- **THEORY-tmpd6l4a** (Skill-it), by analogy: phasing by quality beats
+- **[THEORY-tmpd6l4a](../theory.d/THEORY-tmpd6l4a.md)** (Skill-it), by analogy: phasing by quality beats
   random order, where skill sequencing did not; different orderings.
-- **THEORY-tmp0lbb1**, **THEORY-tmplutfz**, **CLAIM-596**, **THEORY-2006**:
+- **[THEORY-tmp0lbb1](../theory.d/THEORY-tmp0lbb1.md)**, **[THEORY-tmplutfz](../theory.d/THEORY-tmplutfz.md)**, **[CLAIM-596](../claims.d/CLAIM-596.md)**, **[THEORY-2006](../theory.d/THEORY-2006.md)**:
   parallels; phase 2 past 40 per cent degrades every category.
-- **THEORY-tmprqq7k**: a name collision only.
+- **[THEORY-tmprqq7k](../theory.d/THEORY-tmprqq7k.md)**: a name collision only.
 
 ## Limitations
 

@@ -39,18 +39,18 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-756**, weak qualification: a later acquisition goes further
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, weak qualification: a later acquisition goes further
   after an earlier one, in final scores; the earlier phase's cost is folded
   into a fixed pretraining budget and never valued.
-- **CLAIM-758** and **THEORY-2006**, qualifies: no worsening of later SFT
+- **[CLAIM-758](../claims.d/CLAIM-758.md)** and **[THEORY-2006](../theory.d/THEORY-2006.md)**, qualifies: no worsening of later SFT
   from reasoning-rich pretraining at 8B and 1T in one run per arm; later SFT
   on mixed-quality data erodes the earlier advantage, a weak parallel to
   collateral forgetting.
-- **THEORY-tmpd6smn** (Liu and colleagues), the closest parallel:
+- **[THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md)** (Liu and colleagues), the closest parallel:
   specialized data substituted into pretraining helps later fine-tuning.
-- **CLAIM-754**, by analogy: pretraining choices that barely move base
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, by analogy: pretraining choices that barely move base
   scores move what SFT can reach.
-- **QUESTION-039**, **TERM-131**, **THEORY-tmplutfz**: background.
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, **[TERM-131](../terms.d/TERM-131.md)**, **[THEORY-tmplutfz](../theory.d/THEORY-tmplutfz.md)**: background.
 
 ## Limitations
 

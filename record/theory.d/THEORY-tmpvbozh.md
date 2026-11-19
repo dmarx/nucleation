@@ -15,7 +15,7 @@ promote_when: >-
   and the similarity-ordered sequence giving lower just-trained perplexity
   but worse final perplexity and more forgetting than random order.
 summary: >-
-  From the reading of LIT-tmpg77d0 in NOTE-tmp4noj0. Domain order at fixed
+  From the reading of [LIT-tmpg77d0](../literature.d/LIT-tmpg77d0.md) in [NOTE-tmp4noj0](../notes.d/NOTE-tmp4noj0.md). Domain order at fixed
   data, measured as perplexity and forgetting. Proposed until its
   promote_when is met.
 ---

@@ -21,7 +21,7 @@ summary: >-
   natural-language first phase gets much of the saving; the first phase's
   pruned subnetwork stays important after pretraining, shown post hoc.
 ---
-<!-- inactive-ok-file: CLAIM-756 LEAD-tmphfbq0 — Proposed or newly filed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-756 — Proposed or newly filed; entries this reading bears on -->
 
 # NOTE-tmpm4pxy: Hu, Petty, Shi, Merrill and Linzen — Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases
 
@@ -35,10 +35,10 @@ summary: >-
 
 ## Bearing on the record
 
-- **CLAIM-756.** Evidence for its premise with the earlier cost counted, stronger than ULMFiT's on accounting: a marginal rate of substitution above one. Order matters at equal total tokens, though a natural-language first phase gets much of it, so part may be the schedule.
-- **TERM-117.** An application of the term: a declared target (the baseline's final loss), comparators (none, random strings, natural language), a horizon, productivity as timeliness. The first-phase state as a whole passes the interventional test; the identified heads do not, since their evidence is post hoc. The duration optimum and the copy language's harm fit the term's warnings that a nucleus can promote one form and obstruct another.
-- **LEAD-tmphfbq0.** Still needed for mediation; the authors' setup is a ready testbed: disrupt the subnetwork before pretraining and compare the saving.
-- **QUESTION-039.** Partly answered for order: structure first, and the first phase's duration, set the later cost.
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** Evidence for its premise with the earlier cost counted, stronger than ULMFiT's on accounting: a marginal rate of substitution above one. Order matters at equal total tokens, though a natural-language first phase gets much of it, so part may be the schedule.
+- **[TERM-117](../terms.d/TERM-117.md).** An application of the term: a declared target (the baseline's final loss), comparators (none, random strings, natural language), a horizon, productivity as timeliness. The first-phase state as a whole passes the interventional test; the identified heads do not, since their evidence is post hoc. The duration optimum and the copy language's harm fit the term's warnings that a nucleus can promote one form and obstruct another.
+- **[LEAD-tmphfbq0](../leads.d/LEAD-tmphfbq0.md).** Still needed for mediation; the authors' setup is a ready testbed: disrupt the subnetwork before pretraining and compare the saving.
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** Partly answered for order: structure first, and the first phase's duration, set the later cost.
 
 ## Limitations
 

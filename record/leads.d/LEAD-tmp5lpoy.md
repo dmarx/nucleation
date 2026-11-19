@@ -31,7 +31,6 @@ summary: >-
   of a later one, with and without it, which neither GPT-3 nor ULMFiT
   isolates.
 ---
-<!-- inactive-ok-file: LEAD-tmpjdtrl — newly filed; the follow-up search -->
 
 # LEAD-tmp5lpoy: Read the data-scheduling and curriculum literature for experiments that order acquisitions, so that the cost of a later acquisition can be measured with and without an earlier one
 

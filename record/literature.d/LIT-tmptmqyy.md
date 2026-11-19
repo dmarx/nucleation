@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpg5d9a). Worth reading for continued
+  Read on 2026-11-19 ([NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md)). Worth reading for continued
   pretraining on relevant text helping and on irrelevant text hurting a
   later task, with general competence measured after adaptation.
 title: 'Don''t Stop Pretraining: Adapt Language Models to Domains and Tasks'
@@ -30,7 +30,7 @@ summary: >-
   performance; domain then task is best; an irrelevant domain or a sibling
   task's text leaves it below no adaptation. Final performance at a fixed
   fine-tuning budget, not cost; general pretraining never ablated. Read in
-  NOTE-tmpg5d9a; account THEORY-tmplutfz.
+  [NOTE-tmpg5d9a](../notes.d/NOTE-tmpg5d9a.md); account [THEORY-tmplutfz](../theory.d/THEORY-tmplutfz.md).
 ---
 
 # LIT-tmptmqyy: Don't Stop Pretraining: Adapt Language Models to Domains and Tasks
@@ -39,4 +39,4 @@ Suchin Gururangan and colleagues (2020). "Don't Stop Pretraining: Adapt Language
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmp5lpoy.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md).

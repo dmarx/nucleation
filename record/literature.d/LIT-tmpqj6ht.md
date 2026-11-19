@@ -2,8 +2,8 @@
 status: Active
 status_note: >-
   The compute-matched test of pre-pretraining that the record lacked; it
-  qualifies THEORY-tmpk9cmk and answers the owner's code-first idea
-  negatively at these scales. Read on 2026-11-19 (NOTE-tmph6c5h).
+  qualifies [THEORY-tmpk9cmk](../theory.d/THEORY-tmpk9cmk.md) and answers the owner's code-first idea
+  negatively at these scales. Read on 2026-11-19 ([NOTE-tmph6c5h](../notes.d/NOTE-tmph6c5h.md)).
 title: 'Rethinking Pre-pretraining'
 version: 1
 history:
@@ -35,7 +35,7 @@ summary: >-
   initialization improves. Loss on the first-phase distribution, code
   included, rises after the switch; interleaving the same data prevents
   that. Three seeds; Hu and colleagues' own setup not reproduced. Read in
-  NOTE-tmph6c5h; account THEORY-tmpsewbi.
+  [NOTE-tmph6c5h](../notes.d/NOTE-tmph6c5h.md); account [THEORY-tmpsewbi](../theory.d/THEORY-tmpsewbi.md).
 ---
 
 # LIT-tmpqj6ht: Rethinking Pre-pretraining
@@ -44,4 +44,4 @@ Alexander Stern, Tim Rocktäschel, Acyr Locatelli and Laura Ruis (2026). "Rethin
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

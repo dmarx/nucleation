@@ -16,8 +16,8 @@ promote_when: >-
   beating uniform and increasing schedules of equal mean code share on
   code tasks across seeds.
 summary: >-
-  From the reading of LIT-tmpe21sz in NOTE-tmphkwyp. A weak, uncontrolled
-  instance; THEORY-tmpd6smn holds the controlled version of its open
+  From the reading of [LIT-tmpe21sz](../literature.d/LIT-tmpe21sz.md) in [NOTE-tmphkwyp](../notes.d/NOTE-tmphkwyp.md). A weak, uncontrolled
+  instance; [THEORY-tmpd6smn](THEORY-tmpd6smn.md) holds the controlled version of its open
   question. Proposed until its promote_when is met.
 ---
 

@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   The clearest positive result for the owner's code-first idea, as a final
   score at a fixed total budget; it measures no cost, and the advantage
-  does not survive cooldown. Read on 2026-11-19 (NOTE-tmphewc9).
+  does not survive cooldown. Read on 2026-11-19 ([NOTE-tmphewc9](../notes.d/NOTE-tmphewc9.md)).
 title: 'To Code, or Not To Code? Exploring Impact of Code in Pre-training'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   code from scratch is the best share. After a 40B-token cooldown the
   code-first model ends below text-only (Table 2), and the authors
   recommend a balanced mix, not code first. Single runs; final scores, not
-  costs. Read in NOTE-tmphewc9; account THEORY-tmpbsmcq.
+  costs. Read in [NOTE-tmphewc9](../notes.d/NOTE-tmphewc9.md); account [THEORY-tmpbsmcq](../theory.d/THEORY-tmpbsmcq.md).
 ---
 
 # LIT-tmp2di18: To Code, or Not To Code? Exploring Impact of Code in Pre-training
@@ -40,4 +40,4 @@ Viraat Aryabumi, Yixuan Su, Raymond Ma, Adrien Morisot, Ivan Zhang, Acyr Locatel
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

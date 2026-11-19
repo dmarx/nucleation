@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmphfhfu). Worth reading as a controlled study
+  Read on 2026-11-19 ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)). Worth reading as a controlled study
   of when specialized data enters pretraining, with forgetting measured;
   its plasticity window is inferred, not measured.
 title: 'Midtraining Bridges Pretraining and Posttraining Distributions'
@@ -32,7 +32,7 @@ summary: >-
   ones; a heavy code mix helps most when introduced early and ends worse
   than none when introduced late, which the authors read as a plasticity
   window. Final loss, not cost; one pretraining run per condition. Read in
-  NOTE-tmphfhfu; account THEORY-tmpd6smn.
+  [NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md); account [THEORY-tmpd6smn](../theory.d/THEORY-tmpd6smn.md).
 ---
 
 # LIT-tmpvfc1j: Midtraining Bridges Pretraining and Posttraining Distributions
@@ -41,4 +41,4 @@ Emmy Liu, Graham Neubig and Chenyan Xiong (2025). "Midtraining Bridges Pretraini
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmp5lpoy.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmp5lpoy](../leads.d/LEAD-tmp5lpoy.md).

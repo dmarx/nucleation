@@ -17,7 +17,7 @@ promote_when: >-
   simple-to-complex corpus order gains at most marginally over random
   sampling.
 summary: >-
-  From the reading of LIT-tmpegoad in NOTE-tmp7x6kq. A weak, mostly
+  From the reading of [LIT-tmpegoad](../literature.d/LIT-tmpegoad.md) in [NOTE-tmp7x6kq](../notes.d/NOTE-tmp7x6kq.md). A weak, mostly
   negative check on curricula in small language models, beside THEORY-
   tmprqq7k. Proposed until its promote_when is met.
 ---

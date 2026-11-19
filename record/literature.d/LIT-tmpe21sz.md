@@ -3,7 +3,7 @@ status: Active
 status_note: >-
   Code in pretraining and a code-decreasing schedule at instruction
   tuning; the pretraining comparison is not controlled, and the schedule
-  was never tested in pretraining. Read on 2026-11-19 (NOTE-tmphkwyp).
+  was never tested in pretraining. Read on 2026-11-19 ([NOTE-tmphkwyp](../notes.d/NOTE-tmphkwyp.md)).
 title: 'At Which Training Stage Does Code Data Help LLMs Reasoning?'
 version: 1
 history:
@@ -30,7 +30,7 @@ summary: >-
   tuning mainly raises code-task scores; within instruction tuning a code
   share falling from half to three-tenths beats uniform and rising
   schedules on code tasks. The authors leave the schedule in pretraining
-  untested. Single runs. Read in NOTE-tmphkwyp; account THEORY-tmp9adpz.
+  untested. Single runs. Read in [NOTE-tmphkwyp](../notes.d/NOTE-tmphkwyp.md); account [THEORY-tmp9adpz](../theory.d/THEORY-tmp9adpz.md).
 ---
 
 # LIT-tmpe21sz: At Which Training Stage Does Code Data Help LLMs Reasoning?
@@ -39,4 +39,4 @@ Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang and Shans
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-19 (NOTE-tmpwj0be). Worth reading as the existence
+  Read on 2026-11-19 ([NOTE-tmpwj0be](../notes.d/NOTE-tmpwj0be.md)). Worth reading as the existence
   result that structured non-linguistic data leaves something an LSTM
   reuses for language; it measures no cost.
 title: 'Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models'
@@ -31,8 +31,8 @@ summary: >-
   139), matched-pair parenthesis languages (about 170) or MIDI music
   (about 256) than after random text (about 493 to 514); flat crossing
   pairs transfer as well as nested ones. End-state usability under a
-  frozen interface, not the cost of later learning. Read in NOTE-tmpwj0be;
-  account THEORY-tmpf6s7m.
+  frozen interface, not the cost of later learning. Read in [NOTE-tmpwj0be](../notes.d/NOTE-tmpwj0be.md);
+  account [THEORY-tmpf6s7m](../theory.d/THEORY-tmpf6s7m.md).
 ---
 
 # LIT-tmporqpp: Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models
@@ -41,4 +41,4 @@ Isabel Papadimitriou and Dan Jurafsky (2020). "Learning Music Helps You Read: Us
 
 ## Standing in the record
 
-Registered and read on 2026-11-19 at the owner's request, under LEAD-tmpjdtrl.
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-tmpjdtrl](../leads.d/LEAD-tmpjdtrl.md).

@@ -16,8 +16,8 @@ promote_when: >-
   random-text-pretrained ones, and that flat crossing-pair and nested-pair
   corpora give statistically indistinguishable transfer.
 summary: >-
-  From the reading of LIT-tmporqpp in NOTE-tmpwj0be. The predecessor of
-  THEORY-tmpk9cmk: it shows reuse exists, under a frozen interface, and
+  From the reading of [LIT-tmporqpp](../literature.d/LIT-tmporqpp.md) in [NOTE-tmpwj0be](../notes.d/NOTE-tmpwj0be.md). The predecessor of
+  [THEORY-tmpk9cmk](THEORY-tmpk9cmk.md): it shows reuse exists, under a frozen interface, and
   measures no cost of later learning. Proposed until its promote_when is
   met.
 ---

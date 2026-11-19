@@ -18,7 +18,7 @@ promote_when: >-
 bears_on:
 - QUESTION-039
 summary: >-
-  From the reading of LIT-tmp42j5k in NOTE-tmp4uvbo. Order within one
+  From the reading of [LIT-tmp42j5k](../literature.d/LIT-tmp42j5k.md) in [NOTE-tmp4uvbo](../notes.d/NOTE-tmp4uvbo.md). Order within one
   distribution; the warm-up result is the nearest on record to a lasting
   change in later learning rate. Proposed until its promote_when is met.
 ---

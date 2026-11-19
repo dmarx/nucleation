@@ -82,4 +82,4 @@ Han and colleagues ([THEORY-2015](THEORY-2015.md)), read: related, not the same 
 No status change.
 
 ## Note of 2026-11-19: Liu, Neubig and Xiong, read
-A parallel (NOTE-tmphfhfu): both locate a loss of malleability late in Pythia-family training; Liu and colleagues' is behavioural, inferred from when specialized data is introduced, and confounded with the learning-rate schedule.
+A parallel ([NOTE-tmphfhfu](../notes.d/NOTE-tmphfhfu.md)): both locate a loss of malleability late in Pythia-family training; Liu and colleagues' is behavioural, inferred from when specialized data is introduced, and confounded with the learning-rate schedule.

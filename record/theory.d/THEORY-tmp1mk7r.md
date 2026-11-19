@@ -21,7 +21,7 @@ corroborates:
 - CLAIM-756
 - CLAIM-758
 summary: >-
-  From the reading of LIT-tmpcdjoe in NOTE-tmpmxg4d. The cleanest measure
+  From the reading of [LIT-tmpcdjoe](../literature.d/LIT-tmpcdjoe.md) in [NOTE-tmpmxg4d](../notes.d/NOTE-tmpmxg4d.md). The cleanest measure
   on record of an earlier acquisition lowering a later one's sample cost;
   pretraining's own cost excluded. Proposed until its promote_when is met.
 ---

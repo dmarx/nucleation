@@ -17,7 +17,7 @@ promote_when: >-
   language-output transformation benchmark, under both fixed-total-data
   and fixed-language-data budgets.
 summary: >-
-  From the reading of LIT-tmp8kulf in NOTE-tmp1fwdh. Code's effect as a
+  From the reading of [LIT-tmp8kulf](../literature.d/LIT-tmp8kulf.md) in [NOTE-tmp1fwdh](../notes.d/NOTE-tmp1fwdh.md). Code's effect as a
   share, not an order; it bears on the owner's code-first lead only by
   contrast. Proposed until its promote_when is met.
 ---
