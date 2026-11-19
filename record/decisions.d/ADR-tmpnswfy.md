@@ -6,7 +6,7 @@ tags:
 - record
 date: '2026-11-19'
 summary: >-
-  ADR-068's eighth invariant had readers draft outside the repository,
+  [ADR-068](ADR-068.md)'s eighth invariant had readers draft outside the repository,
   so a long reading showed nothing until its report came back. The owner
   asked on 2026-11-19 for readers' notes to be version-controlled and
   visible in flight, and removed when filed. The owner proposed
@@ -17,7 +17,7 @@ summary: >-
   branch claude/readers/<key> with no pull request, and commits and
   pushes after each step. Readers still do not write to the record. The
   filer files from the final report and deletes the branch. Downloaded
-  texts stay out of the repository. Changes ADR-068's eighth invariant;
+  texts stay out of the repository. Changes [ADR-068](ADR-068.md)'s eighth invariant;
   the rest stands. Rejected: the workbench; readers pushing to the filing
   branch; the filer saving reports after the fact.
 ---
@@ -27,7 +27,7 @@ summary: >-
 
 ## Context
 
-ADR-068's eighth invariant: "Readers do not write to the record. A
+[ADR-068](ADR-068.md)'s eighth invariant: "Readers do not write to the record. A
 delegated reader drafts outside the repository, and the filer files."
 Readers' drafts lived in the session's scratchpad, invisible to the
 owner until the reader returned, and lost with the container.
@@ -41,7 +41,7 @@ remove/move the associated notes".
 
 record/workbench.d is not outside luria. It is a configured journal
 (luria.yaml, `journals.workbench`), rendered to docs/workbench, whose
-blurb says its entries are "dated and never rewritten" (ADR-032); it
+blurb says its entries are "dated and never rewritten" ([ADR-032](ADR-032.md)); it
 held 133 entries on that date. Removing notes from it would break that
 contract, and every push would put half-written notes on the site. The
 repository's `scratch/` folder, outside record/, already holds working
@@ -66,7 +66,7 @@ material luria does not read.
 4. **Removed when filed.** When the reading is filed, the filer deletes
    the reader's branch. Its history goes with it; what matters is in the
    NOTE, the THEORY and the curation entry.
-5. **Readers still do not write to the record.** ADR-068's eighth
+5. **Readers still do not write to the record.** [ADR-068](ADR-068.md)'s eighth
    invariant now reads: "Readers do not write to the record. A delegated
    reader drafts outside the record, in running notes it pushes on a
    branch of its own (ADR-tmpnswfy), and the filer files."
