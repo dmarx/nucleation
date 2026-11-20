@@ -1,19 +1,35 @@
 ---
 status: Proposed
-title: 'An entry''s local degrees of freedom narrow over its life cycle as constraints accumulate on it, so the revisions it can still take narrow like an inductive prior: the schema fixes it away from equiprobability at filing, the relations that accrue fix it away from independence, and an entry that has slowed works as a constraint on faster ones; what narrows is its text, while its identity stays open to change by status'
-version: 1
+title: 'An entry''s local degrees of freedom are the features a restatement copies with error, neither pulled onto a convention nor copied exactly, and over its life cycle they are moved out of that part: the schema puts its form in the contracting part at filing, and its code, its verbatim reading and the relations that accrue on it put its content in the conserved part, so the revisions it can still take narrow like an inductive prior; an entry that has slowed works as a constraint on faster ones, and what narrows is its text, while its identity stays open to change by status'
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Restated before merging, at the owner's U5, which asked whether
+    stabilization and contraction are one phenomenon (CLAIM-tmpdx6l8,
+    version 2). The narrowing is now said in that claim's terms: local
+    degrees of freedom are the features copied with error, and the life
+    cycle moves them into the contracting or the conserved part. Juarrero's
+    two kinds of constraint, scale separation and identity by status are
+    kept. Version 1's title: "An entry's local degrees of freedom narrow
+    over its life cycle as constraints accumulate on it, so the revisions
+    it can still take narrow like an inductive prior: the schema fixes it
+    away from equiprobability at filing, the relations that accrue fix it
+    away from independence, and an entry that has slowed works as a
+    constraint on faster ones; what narrows is its text, while its
+    identity stays open to change by status".
 role: thesis
 warrant: interpretive
 defeated_if: >-
   Either of two results. (a) In the record's own history, entries with
   many inbound rests_on or grounds edges take substantive revisions (a
   changed title or claim, not an added history note or relation) no less
-  often, after those edges arrive, than entries with none, so that
-  accumulated relations do no work in narrowing what an entry can still
-  take. (b) Settling of entries that is fully accounted for by
-  contraction toward the record's conventions (CLAIM-tmp4qvx2), with no
-  residual difference between entries the record constrains heavily and
-  entries it does not.
+  often, after those edges arrive, than entries of the same age with
+  none, so that accrued relations do not move an entry's content out of
+  the part copied with error. (b) Coded entries read verbatim keep no
+  more of their originating turn than uncoded restatements of the same
+  ideas, so that coding does not put content in the conserved part.
 tags:
 - design-rationale
 - complex-systems
@@ -27,23 +43,27 @@ summary: >-
   degrees of freedom by adding constraints and thereby developing an
   increasingly narrow inductive prior towards desired outcomes", related
   to "the evolution of an item on the record and how its local degrees of
-  freedom change over its life cycle". The account of it is the
-  assistant's: Juarrero's two kinds of constraint ([THEORY-1335](../theory.d/THEORY-1335.md)) read as
-  the schema and the relations, enabling turning into governing as
-  citations accrue, and the scale-separation reading of [CLAIM-478](CLAIM-478.md) applied
-  to entries. The wording is the assistant's (Claude, in this session);
-  adopting it is the owner's call.
+  freedom change over its life cycle". The account is the assistant's,
+  restated at U5 in the terms of CLAIM-tmpdx6l8: an entry's free features
+  are those copied with error (TERM-tmp7i7ed), and filing, coding and
+  citation move them into the contracting or the conserved part. The
+  wording is the assistant's (Claude, in this session); adopting it is
+  the owner's call.
 rests_on:
+- CLAIM-tmpdx6l8
+- CLAIM-tmpw6wkt
 - CLAIM-478
 - CLAIM-195
 - CLAIM-031
 grounds:
 - THEORY-1335
+uses:
+- TERM-tmp7i7ed
 ---
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 CLAIM-191 CLAIM-114 — Proposed; open, cited for what each holds -->
-<!-- inactive-ok-file: CLAIM-tmp4qvx2 CLAIM-tmpdx6l8 — Proposed or Open; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-tmp4qvx2 CLAIM-tmpdx6l8 CLAIM-tmpw6wkt TERM-tmp7i7ed — Proposed; filed in this contribution of 2026-11-20 -->
 
-# CLAIM-tmpvm90n: An entry's local degrees of freedom narrow over its life cycle as constraints accumulate on it, so the revisions it can still take narrow like an inductive prior: the schema fixes it away from equiprobability at filing, the relations that accrue fix it away from independence, and an entry that has slowed works as a constraint on faster ones; what narrows is its text, while its identity stays open to change by status
+# CLAIM-tmpvm90n: An entry's local degrees of freedom are the features a restatement copies with error, neither pulled onto a convention nor copied exactly, and over its life cycle they are moved out of that part: the schema puts its form in the contracting part at filing, and its code, its verbatim reading and the relations that accrue on it put its content in the conserved part, so the revisions it can still take narrow like an inductive prior; an entry that has slowed works as a constraint on faster ones, and what narrows is its text, while its identity stays open to change by status
 
 ## The claim
 
@@ -52,64 +72,61 @@ and thereby developing an increasingly narrow inductive prior towards desired
 outcomes, to the evolution of an item on the record and how its local degrees
 of freedom change over its life cycle".
 
-An entry's **local degrees of freedom** are the revisions it can still take
-and remain the same entry. Over its life they narrow, and the revisions that
-remain become more predictable: the distribution over its next revision
-sharpens as a prior does when constraints are added.
+**What the degrees of freedom are.** CLAIM-tmpdx6l8 splits the features of
+an entry by what a restatement step does to them: it pulls them onto its own
+fixed point (contracting), copies them exactly (conserved), or copies them
+with error (neutral). Only the last kind is free: a contracted feature has
+somewhere it goes, a conserved one stays where it was, and a feature copied
+with error wanders, its spread growing as √n while its start is forgotten as
+1/n (CLAIM-tmpw6wkt). An entry's **local degrees of freedom** are those
+features (TERM-tmp7i7ed). The distribution over its next revision is
+narrow when few of them remain.
 
-**Two kinds of constraint.** Juarrero, after Gatlin ([THEORY-1335](../theory.d/THEORY-1335.md)), separates
-constraints that take a system away from equiprobability from those that take
-it away from independence. On an entry:
+**The life cycle moves features out of the free part.**
 
-- *Context-independent:* the schema. Required fields, the closed `topics`
-  vocabulary, `source:`, `role` and `warrant`, a `promote_when` or
-  `defeated_if`. They apply at `luria new` and are the same for every entry
-  of a scheme: the prior every entry starts under.
-- *Context-dependent:* the relations. `rests_on`, `grounds`, `presupposes`,
-  `corroborates`, and the converses written into the entry from elsewhere.
-  Each inbound `rests_on` adds an entry that has to change if this one
-  changes. These accrue after filing and are particular to the entry.
-
-**Enabling turns into governing.** In Juarrero's account, enabling constraints
-couple processes into a dynamic whose constraints then confine the components
-([THEORY-1335](../theory.d/THEORY-1335.md)). Coding an idea enables it: it can now be cited. Once claims
-rest on it, that web governs it, and the region of revisions open to it
-shrinks. The entry made the constraint that binds it. [CLAIM-184](CLAIM-184.md) states the
-cost of the same step: anchors entrench.
-
-**Slowing is what makes an entry a constraint.** [CLAIM-478](CLAIM-478.md): where some
-degrees of freedom settle fast relative to others, the relation they settle
-into is a constraint over the window between the two time scales. A new
-entry is fast, revised several times within one pull request; a load-bearing
-Active entry is slow. It can ground newer, faster entries because it has
-slowed. Within a session, an assistant's framing is the fast variable, and
-the filed entry the slow one; coding an idea is the point at which it passes
-from the one scale to the other (compare [CLAIM-191](CLAIM-191.md), a code restores
-continuity).
-
-**The stages.**
-
-| Stage | What can still move | What is fixed |
+| Stage | Free (copied with error) | Moved to |
 |---|---|---|
-| Exchange text, not yet coded | everything; restatements drift | nothing |
-| Coded | title, body, relations, status | its identity, the code later entries cite |
-| LEAD `idea` → `specified` → `costed` → `underway` | method and scope, less at each stage | the entry it `advances` |
-| Proposed, with `promote_when` or `defeated_if` | status, in the directions named | what would move it |
-| Active, with inbound `rests_on` | history notes, added relations | title and claim: changing them costs work downstream |
-| Superseded or Rejected | almost nothing | the body (retire by status, never by deletion); `superseded_by` |
+| Exchange text, not yet coded | everything | nothing yet |
+| Filed (`luria new`) | content | form to the contracting part: fields, vocabulary, role, warrant |
+| Coded and read verbatim | interpretation, scope, emphasis | the text to the conserved part |
+| Proposed, with `promote_when` or `defeated_if` | which way its status goes | what would move it, conserved in the field |
+| Active, with inbound `rests_on` | history notes, added relations | title and claim: a change costs work downstream, so in effect conserved |
+| Superseded or Rejected | almost nothing | the body (retire by status, never by deletion) |
 
-History notes show the narrowing in their own words: late in an entry's life
-they mostly end "No other change."
+History notes say it in their own words: late in an entry's life they mostly
+end "No other change."
 
-**What narrows is the text, not the identity.** [CLAIM-031](CLAIM-031.md): "one changed
+**Two kinds of constraint, two parts.** Juarrero, after Gatlin
+(THEORY-1335), separates constraints that take a system away from
+equiprobability from those that take it away from independence. The first
+kind is the schema: the same for every entry of a scheme, a convention every
+restatement contracts onto. The second is the relations: particular to the
+entry, accruing after filing, each inbound `rests_on` an entry that has to
+change if this one does. They are what make the text, in effect, conserved.
+
+**Enabling turns into governing.** In Juarrero's account, enabling
+constraints couple processes into a dynamic whose constraints then confine
+the components (THEORY-1335). Coding an idea enables it: it can be cited.
+Once claims rest on it, that web holds its text. The entry made the
+constraint that binds it. CLAIM-184 states the cost: anchors entrench.
+
+**Slowing is what makes an entry a constraint.** CLAIM-478: where some
+degrees of freedom settle fast relative to others, the relation they settle
+into is a constraint over the window between the two time scales. Within a
+session an assistant's framing is fast, and contracts onto its own
+conventions; the filed entry is slow. Coding is the point at which an idea
+passes from the one scale to the other (compare CLAIM-191: a code restores
+continuity), and a slowed entry can ground newer, faster ones.
+
+**What narrows is the text, not the identity.** CLAIM-031: "one changed
 constraint can change the act" while most observables stay stable. A status
-or role transition does exactly that: the body of a claim moved Active to
-Superseded, or thesis to granted, is unchanged, and what it is has changed.
-[CLAIM-195](CLAIM-195.md) holds that what counts as the same claim persisting is fixed by an
-amendable decision; the record has put identity in the code and its
-controlled fields, not in the prose. So an entry's credence and voice stay
-open to change after its text has all but closed, and that is how the record
-makes a phase change ([CLAIM-114](CLAIM-114.md)) deliberately rather than by drift.
+or role transition does that: a claim moved Active to Superseded, or thesis
+to granted, keeps its body and changes what it is. CLAIM-195 holds that what
+counts as the same claim persisting is fixed by an amendable decision; the
+record has put identity in the code and its controlled fields, not in the
+prose. So credence and voice stay free after the text has all but closed,
+and that is how the record makes a phase change (CLAIM-114) deliberately and
+not by drift.
 
 ## What it does not say
 
@@ -117,20 +134,20 @@ makes a phase change ([CLAIM-114](CLAIM-114.md)) deliberately rather than by dri
   degrees of freedom, but on a new entry: the old one is frozen, not
   loosened. A version that changes a title is the exception, and costs more
   the more inbound edges the entry has.
-- Not that narrowing is good. Narrowing too early is premature convergence;
-  Proposed status, `promote_when` and `defeated_if` keep chosen degrees of
-  freedom open on purpose, and [CLAIM-184](CLAIM-184.md) is the risk.
-- Not that a settled entry was settled by its constraints. Contraction toward
-  the record's conventions also settles entries, and the two are told apart
-  only by retention ([CLAIM-tmp4qvx2](CLAIM-tmp4qvx2.md)). How the two divide the work is
-  [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md).
-- The analogy to an inductive prior is an analogy: a prior is soft, and lint
-  constraints are hard. [DP-3](../../docs/design-principles.md#dp-3)'s ladder (prose, convention, mechanism,
-  guarantee) is the same hardening applied to the record's norms rather than
-  its entries.
+- Not that narrowing is good. Moving content into the conserved part too
+  early is premature convergence; Proposed status, `promote_when` and
+  `defeated_if` keep chosen features free on purpose, and CLAIM-184 is the
+  risk.
+- Not that a settled entry was settled by being conserved. Contraction also
+  settles, onto the convention; the two are told apart only by retention
+  (CLAIM-tmp4qvx2).
+- The inductive prior is an analogy for the narrowing distribution over
+  next revisions. A prior is soft and lint is hard; DP-3's ladder (prose,
+  convention, mechanism, guarantee) is the same hardening applied to the
+  record's norms rather than its entries.
 
 ## Tests
 
-[LEAD-tmp6do6f](../leads.d/LEAD-tmp6do6f.md) counts edit rate against inbound references; [LEAD-tmp84yvk](../leads.d/LEAD-tmp84yvk.md)
-measures retention against the originating turn, which is what separates this
-claim's mechanism from contraction.
+LEAD-tmp6do6f counts revisions against inbound references (defeater (a));
+LEAD-tmp84yvk measures retention against the originating turn (defeater
+(b)).

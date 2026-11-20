@@ -21,7 +21,7 @@ summary: >-
   filing too, doesn't need to be one or the other". The count of
   substantive revisions per claim against its inbound references, from git
   history. It tests the settling [CLAIM-tmpvm90n](../claims.d/CLAIM-tmpvm90n.md) predicts; by
-  [CLAIM-tmp4qvx2](../claims.d/CLAIM-tmp4qvx2.md) it cannot by itself say whether constraint or contraction
+  [CLAIM-tmp4qvx2](../claims.d/CLAIM-tmp4qvx2.md) it cannot by itself say whether exact copying or contraction
   did the settling, which is what [LEAD-tmp84yvk](LEAD-tmp84yvk.md) adds.
 ---
 <!-- inactive-ok-file: CLAIM-tmpvm90n CLAIM-tmp4qvx2 — Proposed or Open; filed in this contribution of 2026-11-20 -->

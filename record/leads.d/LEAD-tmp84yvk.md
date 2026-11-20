@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Measure how much of the owner''s originating turn each settled claim retains, judged blind in a metric fixed in advance, to tell entries settled by their constraints from entries contracted onto the record''s conventions'
+title: 'Measure how much of the owner''s originating turn each settled claim retains, judged blind in a metric fixed in advance, to tell entries whose content was copied exactly from entries contracted onto the record''s conventions'
 version: 1
 stage: idea
 priority: medium
@@ -21,14 +21,14 @@ advances:
 summary: >-
   The second profile [CLAIM-tmp4qvx2](../claims.d/CLAIM-tmp4qvx2.md) asks for, beside [LEAD-tmp6do6f](LEAD-tmp6do6f.md)'s
   revision count: retention of the originating turn's content by the
-  entry it settled into. Settled and retained reads as constraint,
+  entry it settled into. Settled and retained reads as conserved (copied exactly),
   settled and not retained as contraction. At stage idea: the metric and
   who judges are not fixed, and that is [ARG-028](../arguments.d/ARG-028.md)'s open dispute.
 ---
-<!-- inactive-ok-file: CLAIM-tmpvm90n CLAIM-tmpdx6l8 CLAIM-tmp4qvx2 — Proposed or Open; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-tmpvm90n CLAIM-tmpdx6l8 CLAIM-tmp4qvx2 CLAIM-tmpw6wkt — Proposed or Open; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: ARG-028 CLAIM-217 CLAIM-206 CLAIM-189 CLAIM-068 — Proposed; the open dispute over what drift is judged against -->
 
-# LEAD-tmp84yvk: Measure how much of the owner's originating turn each settled claim retains, judged blind in a metric fixed in advance, to tell entries settled by their constraints from entries contracted onto the record's conventions
+# LEAD-tmp84yvk: Measure how much of the owner's originating turn each settled claim retains, judged blind in a metric fixed in advance, to tell entries whose content was copied exactly from entries contracted onto the record's conventions
 
 ## Sketch
 
@@ -49,8 +49,8 @@ scales fixed before any data are seen ([CLAIM-208](../claims.d/CLAIM-208.md)'s d
 
 | | Retained | Not retained |
 |---|---|---|
-| Settled | constraint ([CLAIM-tmpvm90n](../claims.d/CLAIM-tmpvm90n.md)) | contraction ([CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md), [CLAIM-068](../claims.d/CLAIM-068.md)) |
-| Not settled | still open | drifting |
+| Settled | conserved (CLAIM-tmpdx6l8, [CLAIM-tmpvm90n](../claims.d/CLAIM-tmpvm90n.md)) | contracted ([CLAIM-068](../claims.d/CLAIM-068.md)) |
+| Not settled | still open | copied with error, drifting (CLAIM-tmpw6wkt) |
 
 Not-retained is not by itself a defect: [CLAIM-189](../claims.d/CLAIM-189.md) holds that a developing
 argument changes legitimately. The measure is of mechanism.
