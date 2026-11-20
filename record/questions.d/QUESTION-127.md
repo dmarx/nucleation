@@ -3,8 +3,8 @@ number: 127
 status: Open
 formerly:
 - QUESTION-tmpm1wok
-title: 'Which diagnoses of frustration among a learner''s demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?'
-version: 3
+title: 'Beyond the common-descent verdict and a Euclidean-budgeted residual on the orbits of symmetries that are diffeomorphisms of the parameters, which diagnoses of frustration among a learner''s demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?'
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -25,6 +25,18 @@ history:
     curation entry of 2026-11-10). Both are Proposed, so under ADR-049
     the question is not split and its status stays Open. No other
     change.
+- version: 4
+  date: '2026-11-20'
+  note: >-
+    Split under ADR-049 at the status review's ruling (the owner delegated
+    these rulings), now that CLAIM-629 is Active. The answered part, whether
+    the common-descent verdict and a Euclidean-budgeted residual are
+    constant on the orbits of a symmetry that is a diffeomorphism of the
+    parameters, is QUESTION-tmpr6jhg, answered by CLAIM-629. This question
+    narrows to the rest. The old title was "Which diagnoses of frustration
+    among a learner's demands survive quotienting by function-preserving
+    symmetries, which belong only to an update geometry, and which only to
+    a particular training organization with its optimizer?"
 tags:
 - information-geometry
 - loss-landscapes
@@ -43,7 +55,7 @@ summary: >-
   An answer sorts each diagnosis by what it is a property of.
 ---
 
-# QUESTION-127: Which diagnoses of frustration among a learner's demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?
+# QUESTION-127: Beyond the common-descent verdict and a Euclidean-budgeted residual on the orbits of symmetries that are diffeomorphisms of the parameters, which diagnoses of frustration among a learner's demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?
 
 ## Why it is a question
 
@@ -128,3 +140,15 @@ trajectories.
 Neither speaks to trajectories, which carry the optimizer, or to
 governance regret or modular localization. Both are Proposed, so under
 [ADR-049](../decisions.d/ADR-049.md) the question is not split and stays Open.
+
+## Note of 2026-11-20: the orbit part split off
+
+CLAIM-629 went Active at the status review of this date, so the part of
+this question it answers is split off under ADR-049 as QUESTION-tmpr6jhg:
+on the orbits of a function-preserving symmetry that is a diffeomorphism of
+the parameters, the common-descent verdict is constant, and a residual
+budgeted in a fixed Euclidean norm is constant where the symmetry's
+derivative is orthogonal and can change along rescalings. What stays here:
+symmetries that are not diffeomorphisms, such as blow-ups (CLAIM-305); the
+compatibility complex (CLAIM-555, still Proposed), governance regret and
+modular localization; and trajectories, which carry the optimizer.
