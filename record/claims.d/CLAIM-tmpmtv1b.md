@@ -24,10 +24,10 @@ bears_on:
 - QUESTION-388
 - QUESTION-457
 summary: >-
-  A finding of the decision census (CASE-tmpnkuie), filed at the owner's
+  A finding of the decision census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)), filed at the owner's
   direction from the manuscript on the record. It answers no question
-  outright. It bears on QUESTION-388 (what makes reconfiguration self-
-  governed) and QUESTION-457 (whether a collective keeping a governed record
+  outright. It bears on [QUESTION-388](../questions.d/QUESTION-388.md) (what makes reconfiguration self-
+  governed) and [QUESTION-457](../questions.d/QUESTION-457.md) (whether a collective keeping a governed record
   improves its improver). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -38,7 +38,7 @@ summary: >-
 
 ## The claim
 
-The census of the record's decisions (CASE-tmpnkuie) coded, for each of the 88 that changed the grammar, who noticed the need, who proposed the change, who decided it and how the owner ratified it. Agreement on these fields between two coders on a random 30 was κ 0.82, 0.85, 1.00 and 1.00.
+The census of the record's decisions ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) coded, for each of the 88 that changed the grammar, who noticed the need, who proposed the change, who decided it and how the owner ratified it. Agreement on these fields between two coders on a random 30 was κ 0.82, 0.85, 1.00 and 1.00.
 
 **Who noticed changed over the eight weeks.**
 
@@ -55,19 +55,19 @@ The census of the record's decisions (CASE-tmpnkuie) coded, for each of the 88 t
 
 **Delegation took three forms:**
 
-- standing permission for a class of refinements, mostly vocabulary words ("The owner authorised extending the vocabulary as the record sees fit", ADR-034);
+- standing permission for a class of refinements, mostly vocabulary words ("The owner authorised extending the vocabulary as the record sees fit", [ADR-034](../decisions.d/ADR-034.md));
 - ratification by merging a procedure's output ("merging it is the assent", `record/status-review/README.md`);
-- one explicit, case-by-case hand-over of a revision ("The owner left the split to the assistant's judgement", ADR-089).
+- one explicit, case-by-case hand-over of a revision ("The owner left the split to the assistant's judgement", [ADR-089](../decisions.d/ADR-089.md)).
 
 ## What it does not say
 
 - **That the owner's share of noticing fell steadily.** It did not: 21%, then 50%, then 28%. An earlier expectation that noticing would move steadily from the owner to assistants was falsified by the same census.
 - **That the procedures notice well.** Nothing measures how many misfits they miss.
-- **That delegating noticing leaves the owner's capacity to judge revisions intact.** CLAIM-602, CLAIM-605 and CLAIM-675 give reasons to measure it. This claim does not.
+- **That delegating noticing leaves the owner's capacity to judge revisions intact.** [CLAIM-602](CLAIM-602.md), [CLAIM-605](CLAIM-605.md) and [CLAIM-675](CLAIM-675.md) give reasons to measure it. This claim does not.
 - **That it holds beyond one owner and one record.**
 
 ## Why it matters
 
-QUESTION-388 asks what separates a programmable system from one that governs its own reconfiguration. By this claim, the record's reconfiguration was self-governed at the level of the owner together with the owner's procedures, and not at the level of its assistants. The criteria for revision stayed with the owner.
+[QUESTION-388](../questions.d/QUESTION-388.md) asks what separates a programmable system from one that governs its own reconfiguration. By this claim, the record's reconfiguration was self-governed at the level of the owner together with the owner's procedures, and not at the level of its assistants. The criteria for revision stayed with the owner.
 
-CLAIM-673 says an arrangement that does the work through which a collective governs it can erode the capacity to govern it. That makes the pattern a candidate for the risk CLAIM-673 names. It is not shown to be an instance of it.
+[CLAIM-673](CLAIM-673.md) says an arrangement that does the work through which a collective governs it can erode the capacity to govern it. That makes the pattern a candidate for the risk [CLAIM-673](CLAIM-673.md) names. It is not shown to be an instance of it.

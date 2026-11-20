@@ -21,9 +21,9 @@ line:
 grounds:
 - CASE-tmpnkuie
 summary: >-
-  A finding of the term audit in CASE-tmpnkuie, filed at the owner's
-  direction from the manuscript on the record. It measures CLAIM-189's
-  traceability, and CLAIM-666's criterion for a faithful migration, against
+  A finding of the term audit in [CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md), filed at the owner's
+  direction from the manuscript on the record. It measures [CLAIM-189](CLAIM-189.md)'s
+  traceability, and [CLAIM-666](CLAIM-666.md)'s criterion for a faithful migration, against
   the record's own grammar. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -34,18 +34,18 @@ summary: >-
 
 ## The claim
 
-The term audit (CASE-tmpnkuie) found 34 events in the record's history: 25 declarations reworded and 9 terms removed. Every event came with a decision record in its unit of work. What happened to the entries carrying each term depended on the kind of change:
+The term audit ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) found 34 events in the record's history: 25 declarations reworded and 9 terms removed. Every event came with a decision record in its unit of work. What happened to the entries carrying each term depended on the kind of change:
 
-- **Removal.** Every entry carrying a removed term in use was changed in the same unit: `identity` 41 of 41, `self-and-personhood` 42 of 42, and the four SYNTHESIS terms ADR-084 removed.
+- **Removal.** Every entry carrying a removed term in use was changed in the same unit: `identity` 41 of 41, `self-and-personhood` 42 of 42, and the four SYNTHESIS terms [ADR-084](../decisions.d/ADR-084.md) removed.
 - **Split.** The entries that moved were changed: `Deferred` 177 of 345, `ecology` 13 of 50, and the split lines.
 - **Widening.** Almost nothing was touched: `learning-theory` 1 of 92. Nothing needed to be, because a widened word still holds what it held.
-- **Redefinition in place.** Nothing was touched: `anthology-candidate` 0 of 237. ADR-048 changed the flag's meaning from "this work's filing here is in doubt" to "the anthology may want this work as well". An entry flagged before 19 October now reads under a meaning it was not written with.
+- **Redefinition in place.** Nothing was touched: `anthology-candidate` 0 of 237. [ADR-048](../decisions.d/ADR-048.md) changed the flag's meaning from "this work's filing here is in doubt" to "the anthology may want this work as well". An entry flagged before 19 October now reads under a meaning it was not written with.
 
 ## Why it matters
 
-CLAIM-189 (Proposed) holds that what a record can secure is traceability: change that is announced and located. For the record's own grammar, changes are always announced, and are located only when entries must move.
+[CLAIM-189](CLAIM-189.md) (Proposed) holds that what a record can secure is traceability: change that is announced and located. For the record's own grammar, changes are always announced, and are located only when entries must move.
 
-CLAIM-666 (Proposed) holds that a migration is faithful when it preserves the accountability structure. By that criterion, ADR-048's migration was not faithful. Nothing records whether each old flag still means what it now says.
+[CLAIM-666](CLAIM-666.md) (Proposed) holds that a migration is faithful when it preserves the accountability structure. By that criterion, [ADR-048](../decisions.d/ADR-048.md)'s migration was not faithful. Nothing records whether each old flag still means what it now says.
 
 ## What it does not say
 

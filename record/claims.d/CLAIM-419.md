@@ -263,10 +263,9 @@ The claim is unchanged.
 
 ## Note of 2026-11-20: the amendments counted
 
-<!-- inactive-ok: ADR-084 — Proposed; cited as a decision the census coded -->
 
-The decision census (CASE-tmpnkuie) coded every decision from ADR-001 to ADR-114. 88 changed the grammar: 62 by refinement, 25 by revision and 1 by restraint. Two coders agreed at κ 0.84 on that split, over a random 30.
+The decision census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) coded every decision from [ADR-001](../decisions.d/ADR-001.md) to [ADR-114](../decisions.d/ADR-114.md). 88 changed the grammar: 62 by refinement, 25 by revision and 1 by restraint. Two coders agreed at κ 0.84 on that split, over a random 30.
 
-The revisions include changes to what counts as an answer (ADR-049), boundaries redrawn between kinds of entry (ADR-058, ADR-060, ADR-061), and an abstraction withdrawn (ADR-084). This bears on the note of 2026-10-27, which contrasted this record's additions with CEGAR's splits. The grammar has also been revised, not only added to.
+The revisions include changes to what counts as an answer ([ADR-049](../decisions.d/ADR-049.md)), boundaries redrawn between kinds of entry ([ADR-058](../decisions.d/ADR-058.md), [ADR-060](../decisions.d/ADR-060.md), [ADR-061](../decisions.d/ADR-061.md)), and an abstraction withdrawn ([ADR-084](../decisions.d/ADR-084.md)). This bears on the note of 2026-10-27, which contrasted this record's additions with CEGAR's splits. The grammar has also been revised, not only added to.
 
 The census reaches only decisions, so it does not touch this claim's caveat, that "whether every such move is caught is not shown". The claim is unchanged.

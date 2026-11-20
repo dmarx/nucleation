@@ -26,7 +26,7 @@ summary: >-
   codebook fixed before coding, by four coders with a second coder on a
   random 30; every change to a vocabulary term in the record's history was
   audited for whether the entries carrying it were changed with it. The
-  data and scripts are in scratch/formal/decision-census/. CASE-178 measured
+  data and scripts are in scratch/formal/decision-census/. [CASE-178](CASE-178.md) measured
   how often the grammar grew; this measures who changed it, how, and what
   the changes did.
 ---
@@ -40,12 +40,12 @@ summary: >-
 
 **Method.** Two analyses, both reproducible from `scratch/formal/decision-census/`.
 
-**The census.** Every decision record from ADR-001 to ADR-114, read in full and coded against `census/CODEBOOK.md`, which was fixed on 2026-11-20 before any decision was coded. The codebook asks of each decision:
+**The census.** Every decision record from [ADR-001](../decisions.d/ADR-001.md) to [ADR-114](../decisions.d/ADR-114.md), read in full and coded against `census/CODEBOOK.md`, which was fixed on 2026-11-20 before any decision was coded. The codebook asks of each decision:
 
 - whether it changed the grammar: `luria.yaml` declarations, lint patterns and views;
 - its level and operation;
 - whether it was a **refinement** (adds a distinction; what counted as an answer, a criterion or a unit of inquiry still counts the same way), a **revision** (changes one of those) or **restraint** (a proposed change declined or narrowed);
-- which component of an inquiry it touched, in TERM-095's terms;
+- which component of an inquiry it touched, in [TERM-095](../terms.d/TERM-095.md)'s terms;
 - what triggered it;
 - who noticed the need, who proposed the design, who decided, and how the owner ratified it;
 - what form the misfit took before the decision;
@@ -81,11 +81,11 @@ The outcome field is not used. The coders split on a convention the codebook lef
 
 **How the grammar changed.** 88 of the 114 decisions changed the grammar: 62 refinements, 25 revisions and 1 restraint. The revisions include five kinds:
 
-- **What counts as an answer** was redefined (ADR-049, ADR-059).
-- **Boundaries between kinds of entry** were redrawn (ADR-058, ADR-060, ADR-061).
-- **An abstraction was withdrawn** (ADR-084).
-- **Entries were reassigned to new lines** (ADR-073, ADR-082, ADR-087, ADR-089, ADR-100).
-- **Senses changed in place** (ADR-036, ADR-048).
+- **What counts as an answer** was redefined ([ADR-049](../decisions.d/ADR-049.md), [ADR-059](../decisions.d/ADR-059.md)).
+- **Boundaries between kinds of entry** were redrawn ([ADR-058](../decisions.d/ADR-058.md), [ADR-060](../decisions.d/ADR-060.md), [ADR-061](../decisions.d/ADR-061.md)).
+- **An abstraction was withdrawn** ([ADR-084](../decisions.d/ADR-084.md)).
+- **Entries were reassigned to new lines** ([ADR-073](../decisions.d/ADR-073.md), [ADR-082](../decisions.d/ADR-082.md), [ADR-087](../decisions.d/ADR-087.md), [ADR-089](../decisions.d/ADR-089.md), [ADR-100](../decisions.d/ADR-100.md)).
+- **Senses changed in place** ([ADR-036](../decisions.d/ADR-036.md), [ADR-048](../decisions.d/ADR-048.md)).
 
 | Period | Changes | Refine | Revise | Restraint |
 |---|---:|---:|---:|---:|
@@ -125,7 +125,7 @@ In 63 of the 71 changes made in answer to a misfit, the move had first been forc
 Ratification of the 88 changes:
 
 - 48 record the owner's approval of that change;
-- 6 cite a standing permission ("The owner authorised extending the vocabulary as the record sees fit", ADR-034);
+- 6 cite a standing permission ("The owner authorised extending the vocabulary as the record sees fit", [ADR-034](../decisions.d/ADR-034.md));
 - 4 were ratified by merge or by a review procedure the owner delegated to;
 - 30 record no owner involvement.
 
@@ -134,29 +134,29 @@ The owner decided 49 changes, an assistant 6 and a review procedure 2; 31 do not
 **Costs and errors.**
 
 - 58 changes state a migration: 2,664 existing entries in all, median 6.
-- 10 grammar changes were followed by a recorded error that the change caused: ADR-015, ADR-043, ADR-047, ADR-057, ADR-076, ADR-077, ADR-090, ADR-104, ADR-107 and ADR-109.
-- 4 were undone within days: ADR-015 in part, ADR-076, ADR-077 and ADR-080.
+- 10 grammar changes were followed by a recorded error that the change caused: [ADR-015](../decisions.d/ADR-015.md), [ADR-043](../decisions.d/ADR-043.md), [ADR-047](../decisions.d/ADR-047.md), [ADR-057](../decisions.d/ADR-057.md), [ADR-076](../decisions.d/ADR-076.md), [ADR-077](../decisions.d/ADR-077.md), [ADR-090](../decisions.d/ADR-090.md), [ADR-104](../decisions.d/ADR-104.md), [ADR-107](../decisions.d/ADR-107.md) and [ADR-109](../decisions.d/ADR-109.md).
+- 4 were undone within days: [ADR-015](../decisions.d/ADR-015.md) in part, [ADR-076](../decisions.d/ADR-076.md), [ADR-077](../decisions.d/ADR-077.md) and [ADR-080](../decisions.d/ADR-080.md).
 
 **The term audit.** 34 events: 25 declarations reworded and 9 terms removed. Every one came with a decision record in the same unit of work, and one unit was a lone commit.
 
 | Kind of change | Carrying entries touched in the same unit |
 |---|---|
-| Removal, where the term was in use | All of them: `identity` 41 of 41, `self-and-personhood` 42 of 42, and the four SYNTHESIS terms ADR-084 removed (12, 5, 9 and 3, all touched) |
+| Removal, where the term was in use | All of them: `identity` 41 of 41, `self-and-personhood` 42 of 42, and the four SYNTHESIS terms [ADR-084](../decisions.d/ADR-084.md) removed (12, 5, 9 and 3, all touched) |
 | Split | The entries that moved: `Deferred` 177 of 345, `ecology` 13 of 50, the split lines |
 | Widening | Almost none: `learning-theory` 1 of 92 |
-| Redefinition in place | None: `anthology-candidate` (ADR-048) 0 of 237 |
+| Redefinition in place | None: `anthology-candidate` ([ADR-048](../decisions.d/ADR-048.md)) 0 of 237 |
 
 ## What it shows
 
-- **The record answers noticed misfits by changing its grammar, after the grammar has absorbed them.** CLAIM-181's account, that a move the grammar cannot hold "is forced into one or lost until the misfit is noticed", holds for the misfits that were eventually noticed. CLAIM-419's amendment by decision is the usual response.
-- **The grammar is revised as well as refined.** That includes what counts as an answer, the instance of CLAIM-470's distinctive clause.
+- **The record answers noticed misfits by changing its grammar, after the grammar has absorbed them.** [CLAIM-181](../claims.d/CLAIM-181.md)'s account, that a move the grammar cannot hold "is forced into one or lost until the misfit is noticed", holds for the misfits that were eventually noticed. [CLAIM-419](../claims.d/CLAIM-419.md)'s amendment by decision is the usual response.
+- **The grammar is revised as well as refined.** That includes what counts as an answer, the instance of [CLAIM-470](../claims.d/CLAIM-470.md)'s distinctive clause.
 - **Traceability reaches the grammar unevenly.** Every change is announced by decision. Entries follow when they must move, and do not follow when only a meaning moves.
 - **Noticing moved from incidental to procedural.** Filing agents met missing words early; review procedures built to look found later needs. Revision stayed mostly with the owner.
 
 ## What it cannot show
 
-- **Misfits never noticed, or noticed and left.** Only decisions are coded. The census cannot see these, so it is no denominator for CLAIM-419's caveat.
-- **That any change improved the inquiry.** Every figure is counted in the record's own grammar (ARG-028, CLAIM-266).
+- **Misfits never noticed, or noticed and left.** Only decisions are coded. The census cannot see these, so it is no denominator for [CLAIM-419](../claims.d/CLAIM-419.md)'s caveat.
+- **That any change improved the inquiry.** Every figure is counted in the record's own grammar ([ARG-028](../arguments.d/ARG-028.md), [CLAIM-266](../claims.d/CLAIM-266.md)).
 - **Re-reading.** "Touched in the same unit" is a proxy for it, not a measure of it.
 - **Independence of the coders.** All coders were instances of one model, and agreement may partly reflect shared bias. A human second coder would address this.
 - **Generality.** One owner, one record and eight weeks.

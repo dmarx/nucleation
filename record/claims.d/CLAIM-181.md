@@ -240,7 +240,7 @@ recorded that the record still cannot hold, or holds only by distorting it.
 
 ## Note of 2026-11-20: the forcing, counted, in the decisions that answered it
 
-The decision census (CASE-tmpnkuie) coded the form each misfit took before the decision that answered it. Of the 88 decisions that changed the grammar, 71 answered a misfit. In 63 of those 71, the move had first been forced into the nearest category (43) or kept only in prose (20). Four more were cases where the grammar had made the record assert something false.
+The decision census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) coded the form each misfit took before the decision that answered it. Of the 88 decisions that changed the grammar, 71 answered a misfit. In 63 of those 71, the move had first been forced into the nearest category (43) or kept only in prose (20). Four more were cases where the grammar had made the record assert something false.
 
 So for the misfits that were eventually noticed, the claim's sequence holds: forced or held in prose first, the grammar amended after.
 

@@ -52,30 +52,30 @@ The claim is local. It is about where misfits are noticed after a refinement, no
 
 ## Admission
 
-By the discriminating-prediction route (ADR-075, step 5).
+By the discriminating-prediction route ([ADR-075](../decisions.d/ADR-075.md), step 5).
 
-**The components leave the direction open.** CLAIM-181 has a move that fits nothing "forced into one or lost until the misfit is noticed". CLAIM-419 has noticed misfits answered by amendment. Neither says whether an amendment makes the next misfit more or less noticeable. CLAIM-475's stored specification makes some later questions cheaper, "and it can make other questions harder", which fits either sign.
+**The components leave the direction open.** [CLAIM-181](CLAIM-181.md) has a move that fits nothing "forced into one or lost until the misfit is noticed". [CLAIM-419](CLAIM-419.md) has noticed misfits answered by amendment. Neither says whether an amendment makes the next misfit more or less noticeable. [CLAIM-475](CLAIM-475.md)'s stored specification makes some later questions cheaper, "and it can make other questions harder", which fits either sign.
 
 **Two mechanisms predict opposite signs:**
 
 - **Fewer misfits noticed.** Finer categories give a move more slots to be forced into.
 - **More misfits noticed.** Finer categories give a move more boundaries to fall between, each with a stated definition a filer can check.
 
-Kuhn, as Kindi reads him (THEORY-2096, Proposed), takes the second view for sciences: commitment to a tradition is what lets research recognize where the tradition fails. This claim takes the same view for a record and localizes it, so that it can come out against.
+Kuhn, as Kindi reads him ([THEORY-2096](../theory.d/THEORY-2096.md), Proposed), takes the second view for sciences: commitment to a tradition is what lets research recognize where the tradition fails. This claim takes the same view for a record and localizes it, so that it can come out against.
 
-**A realistic case that does not test it.** CASE-178 finds "the grammar's rates fell while filing rose". That bears against an unlocalized version, in which each refinement raises the rate of amendment overall. It does not test this claim, which concerns where misfits are noticed, not how many amendments are made.
+**A realistic case that does not test it.** [CASE-178](../cases.d/CASE-178.md) finds "the grammar's rates fell while filing rose". That bears against an unlocalized version, in which each refinement raises the rate of amendment overall. It does not test this claim, which concerns where misfits are noticed, not how many amendments are made.
 
 ## What would test it
 
-The census (CASE-tmpnkuie) dates each grammar change and codes what triggered it. To test this claim, a coder would need to:
+The census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) dates each grammar change and codes what triggered it. To test this claim, a coder would need to:
 
 1. For each refinement, find the misfits later noticed in the region it refined, counting only moves the old category would have absorbed.
 2. Compare them, per filed entry, with a matched window before the refinement and with unrefined regions that had comparable filing.
 
-ADR-043 and its version 2 give one instance in the claim's favour: once `warrant` existed, two readings of it were found in use. That is one instance, not a test.
+[ADR-043](../decisions.d/ADR-043.md) and its version 2 give one instance in the claim's favour: once `warrant` existed, two readings of it were found in use. That is one instance, not a test.
 
 ## What it does not say
 
-- **That refinement is always worth its cost.** CLAIM-569 holds the costs of construction, maintenance and transition.
-- **That noticing follows by itself.** Someone or something must still look. CLAIM-tmpmtv1b holds who did, in this record.
-- **That the eight-stage cycle of the manuscript is a sequence.** CLAIM-474 and CLAIM-532 both deny that such steps form a sequence.
+- **That refinement is always worth its cost.** [CLAIM-569](CLAIM-569.md) holds the costs of construction, maintenance and transition.
+- **That noticing follows by itself.** Someone or something must still look. [CLAIM-tmpmtv1b](CLAIM-tmpmtv1b.md) holds who did, in this record.
+- **That the eight-stage cycle of the manuscript is a sequence.** [CLAIM-474](CLAIM-474.md) and [CLAIM-532](CLAIM-532.md) both deny that such steps form a sequence.
