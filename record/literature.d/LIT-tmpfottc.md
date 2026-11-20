@@ -1,0 +1,56 @@
+---
+status: Unfetched
+status_note: >-
+  registered 2026-11-20, not read. The publisher's copy
+  (https://www.tandfonline.com/doi/pdf/10.1080/09515089.2018.1486605, CC
+  BY 4.0 from 2018-07-04 per Crossref) returned a Cloudflare challenge;
+  the submitted version in MPG.PuRe (pure.mpg.de item_2640305) a bot
+  check; PhilArchive and PhilPapers a Cloudflare challenge. A third-party
+  copy at the-brights.net
+  (/morality/statement_2_studies/DOI/10.1080_09515089.2018.1486605.pdf),
+  lawful under the article's CC BY licence, was refused by this session's
+  permission system and not worked around (ADR-074). Tomasello and Vaish
+  2013 (LIT-tmpxn5g7) stands in. All on 2026-11-20.
+title: 'Precís of a natural history of human morality'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Registered on 2026-11-20 at the owner's request, as the author's own
+    summary of A Natural History of Human Morality (LIT-504), which
+    LIT-504's status note named as the natural first step. Bibliographic
+    details from Crossref and OpenAlex, not from the text; Crossref spells
+    the title "Precís". Not read.
+tags:
+- moral-psychology
+- cognition
+- social-science
+date: '2026-11-20'
+published: '2018-07-04'
+doi: '10.1080/09515089.2018.1486605'
+first_author: 'Tomasello'
+keywords: []
+implementations: []
+summary: >-
+  Tomasello's eight-page précis of A Natural History of Human Morality
+  (LIT-504), opening a book symposium with commentaries by Roughley,
+  Wilson, Boehm, van Schaik and Burkart, Pettit, Gilbert, Killen and
+  Darwall, and a response. Per its abstract: human morality is a "we > me"
+  orientation emanating from the logic of interdependence at the levels of
+  collaboration and of the cultural group. Unfetched; read through
+  LIT-tmpxn5g7.
+---
+<!-- inactive-ok-file: LIT-tmpxn5g7 LIT-504 — newly filed or Unavailable; the stand-in and the book -->
+
+# LIT-tmpfottc: Precís of a natural history of human morality
+
+Michael Tomasello (2018). "Precís of a natural history of human morality". Philosophical Psychology 31(5), pp. 661–668 (from Crossref).
+
+## Standing in the record
+
+Registered on 2026-11-20 and not read: every located copy was blocked, one
+by this session's permission system. A copy the owner supplies, or
+permission for the third-party fetch, returns it to reading. The
+symposium's other pieces are listed in the curation entry of 2026-11-20;
+Pettit's is open on his own site.

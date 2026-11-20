@@ -61,3 +61,15 @@ That covers executive control and one theory of resolve. The comparison
 with planning theory and with institutional theory is not made.
 [CLAIM-024](CLAIM-024.md) objects to this claim, and [QUESTION-056](../questions.d/QUESTION-056.md) asks what result would
 show the agent-level description idle.
+
+## Note of 2026-11-20: Tomasello's agency model, a test case
+<!-- inactive-ok-file: THEORY-tmp8f4on — Proposed; the account -->
+
+Tomasello's feedback-control model of agency (LIT-tmp8gni8, NOTE-tmpg5axw;
+account THEORY-tmp8f4on) is a single control-theoretic framework carried
+from vertebrates to children, with executive and metacognitive tiers. It
+is a test case for CLAIM-024's charge that control theory and
+executive-control research could replace the will-organization account,
+and it qualifies the uniqueness this claim asserts, since one framework
+here already spans many kinds of system. Noted for the owner; no relation
+is written and no status changes.
