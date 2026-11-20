@@ -2,35 +2,38 @@
 
 # From Obstruction to Reorganization: working draft
 
-The successor to the owner's manuscript "luria: nucleating an argument" (the work `luria-nucleating-an-argument`, proposed 2026-10-11; root question QUESTION-037). It carries the predecessor's account of drift and anchoring, the account of what a record of inquiry can secure, and the account of inquiry as specification. These are used as an interpretive framework. It then studies how the record changed its own grammar over its first eight weeks, through a census of all 114 of its decisions.
+A general theory of learning and inquiry, intended to apply to arbitrary systems (Part I). It is shown operationalized in the research record in which it was developed (Part II). The self-reinforcing cycle that record's machinery produced is traced and set against the theory's implications (Part III). The draft succeeds the owner's manuscript "luria: nucleating an argument" (the work `luria-nucleating-an-argument`, proposed 2026-10-11; root question QUESTION-037).
 
-**Provenance.** The draft went through three versions.
+**Provenance.**
 
 1. Written out from the ChatGPT exchange "Branch · Audit Luria Evolution" (2026-11-20) and its measurements.
-2. Extended at the owner's direction with the argument and the mapping (§§2–3).
-3. Revised on the plan in [REVIEW-2026-11-20.md](REVIEW-2026-11-20.md). This version added:
-   - a census of every decision, coded against a fixed codebook, with a second coder;
-   - an audit of every change to a vocabulary term;
-   - attribution corrected: assistants and procedures noticed most grammar changes;
-   - refinement kept apart from revision;
-   - stated falsifiers, threats to validity and the factual corrections.
+2. Extended with the predecessor's argument and a mapping of luria onto it.
+3. Revised on [REVIEW-2026-11-20.md](REVIEW-2026-11-20.md), adding a census of every decision, a term-change audit, and threats to validity.
+4. Restructured at the owner's direction, 2026-11-20, into three parts. Part I now develops the record's theory of learning and inquiry in full, from cited digests of five regions of the record (`background/`). Material was added, not trimmed.
 
-**Status.** A working document under version control. It is not part of the record: luria does not read `scratch/`, and codes are cited bare. The framework F1–F4 (§2.7), the mapping tables (§§3.3–3.4) and the census are this draft's own, not entries the record holds.
+**Status.** A working document under version control. It is not part of the record: luria does not read `scratch/`, and codes are cited bare. The ten principles (§7.1), the predicted cycle (§7.2), the mappings (§9) and the census are this draft's own integrations, not entries the record holds. Each step of Part I cites the entries it rests on, with their standing.
 
 ## Files, in reading order
 
 | File | Sections |
 |---|---|
-| [00-abstract-introduction.md](00-abstract-introduction.md) | Title, abstract, §1 (including a table of terms) |
-| [01-argument.md](01-argument.md) | §2 The framework and its provenance |
-| [02-luria-mapped.md](02-luria-mapped.md) | §3 Luria mapped onto it; expectations E1–E6 with falsifiers |
-| [03-related-work-and-method.md](03-related-work-and-method.md) | §4 Related work, §5 Method, growth and rates |
-| [04-cases.md](04-cases.md) | §6 The census, eight cases drawn from it, and grammar changes that went wrong |
-| [05-governance.md](05-governance.md) | §7 Four loops: decisions, reviews of the argument, POSTMORTEM, the tool |
-| [06-results.md](06-results.md) | §8 Results against E1–E6 |
-| [07-discussion.md](07-discussion.md) | §9 Delegation, when to draw a distinction, maintained capacity, signatures |
-| [08-threats-evaluation-conclusion.md](08-threats-evaluation-conclusion.md) | §10 Threats to validity, §11 Future evaluation, §12 Conclusion |
-| [09-appendices.md](09-appendices.md) | Figures to produce, source map, references |
+| [00-abstract-introduction.md](00-abstract-introduction.md) | Title, abstract, §1 (three claims, questions, contributions, terms, roadmap) |
+| **Part I** | **A theory of learning and inquiry** |
+| [01-theory-distinctions-and-learning.md](01-theory-distinctions-and-learning.md) | §2 Systems that draw distinctions; §3 Learning as the formation of maintained capacity |
+| [02-theory-inquiry-memory-collectives.md](02-theory-inquiry-memory-collectives.md) | §4 Inquiry as specification; §5 Memory, transmission and identity; §6 Collective inquiry |
+| [03-theory-implications.md](03-theory-implications.md) | §7 Ten principles, the predicted cycle, and expectations E1–E7 |
+| **Part II** | **The theory inside its own investigative machinery** |
+| [04-operationalization.md](04-operationalization.md) | §8 Luria and Nucleation; §9 How the record operationalizes each principle; §10 What that does and does not establish |
+| [05-related-work-and-method.md](05-related-work-and-method.md) | §11 Related work (including Ashby, Simon, Kuhn); §12 Method, growth and rates |
+| **Part III** | **The flywheel** |
+| [06-census-and-cases.md](06-census-and-cases.md) | §13 The census and eight cases; grammar changes that went wrong |
+| [07-governance.md](07-governance.md) | §14 Four loops: decisions, reviews, POSTMORTEM, the tool |
+| [08-results.md](08-results.md) | §15 Results against E1–E7 |
+| [09-flywheel.md](09-flywheel.md) | §16 The flywheel stage by stage, the cycle acting on the theory itself, and what echoes each principle |
+| [10-discussion.md](10-discussion.md) | §17 Delegation, distinction-drawing, maintained capacity, signatures |
+| [11-threats-evaluation-conclusion.md](11-threats-evaluation-conclusion.md) | §18 Threats to validity; §19 Future evaluation; §20 Conclusion |
+| [12-appendices.md](12-appendices.md) | Figures, source map, references |
+| `background/` | Five cited digests of the record's theory, the raw material for Part I |
 
 ## Analysis
 
@@ -47,12 +50,12 @@ The successor to the owner's manuscript "luria: nucleating an argument" (the wor
 
 ## Open items for the owner
 
-1. **The framework as claims.** F1–F4 integrate entries the record holds. The census findings (§8) are new results about the record. Should either be filed, for example as claims and an executed-study CASE in `record-as-apparatus`?
-2. **ADR-048's flag.** The 237 entries carrying `anthology-candidate` were never revisited when its meaning changed (§8.2). That is a finding, and also a repair the record may want.
-3. **POSTMORTEM-002's summary** (§7.5). Cite it as of a dated commit, or correct it in the record.
+1. **The principles as claims.** P1–P10 (§7.1) and the predicted cycle (§7.2) integrate entries the record holds, across several lines. The census findings (§§13, 15) are new results about the record. Should either be filed, for example as claims and an executed-study CASE in `record-as-apparatus`?
+2. **ADR-048's flag.** The 237 entries carrying `anthology-candidate` were never revisited when its meaning changed (§15.2). That is a finding, and also a repair the record may want.
+3. **POSTMORTEM-002's summary** (§14.5). Cite it as of a dated commit, or correct it in the record.
 4. **The work.** Keep `luria-nucleating-an-argument` with its blurb revised, or give this paper a new `works` term?
-5. **A human coder.** All census coders were instances of one model (§10). A human second coder on the 30-decision sample would address the largest reliability threat.
-6. **Unread sources.** Dewey, Collingwood, Rheinberger, Bowker & Star, Stojanovic and Allspaw are cited but unread on the record (§4). They should be read, or supplied, before submission.
+5. **A human coder.** All census coders were instances of one model (§18). A human second coder on the 30-decision sample would address the largest reliability threat.
+6. **Unread sources.** Dewey, Collingwood, Rheinberger, Bowker & Star, Stojanovic and Allspaw are cited but unread on the record (§11). They should be read, or supplied, before submission.
 7. **Missing references:** the luria repository, Nygard, Tyree & Akerman, the qualitative-codebook literature, PRISM, PROV, and work on LLM agents with memory.
-8. **Length and venue.** About 15,000 words with tables. A workshop version would keep §§1, 2.7, 3.6, 5.3, 6.1, 8 and 9.1.
-9. **Authorship and disclosure** of AI assistance (§10).
+8. **Length.** Material has been added rather than trimmed, at the owner's direction; trimming is left to the owner.
+9. **Authorship and disclosure** of AI assistance (§18).

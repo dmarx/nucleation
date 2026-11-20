@@ -1,10 +1,10 @@
-<!-- scratch/manuscripts/from-obstruction-to-reorganization/04-cases.md -->
+<!-- scratch/manuscripts/from-obstruction-to-reorganization/06-census-and-cases.md -->
 
-## 6. The census, and eight cases drawn from it
+## 13. The census, and eight cases drawn from it
 
-### 6.1 The census
+### 13.1 The census
 
-Of the 114 decisions, **88 changed the grammar** (§5.2 defines the term). The tables below are produced by `analysis/census.py` from the coded census and are reproduced in `analysis/census_report.md`.
+Of the 114 decisions, **88 changed the grammar** (§12.2 defines the term). The tables below are produced by `analysis/census.py` from the coded census and are reproduced in `analysis/census_report.md`.
 
 **Agreement between coders.** These figures come from the 30 decisions coded twice.
 
@@ -62,11 +62,11 @@ Who noticed depends strongly on the kind of change:
 
 The owner is the decider in 49 changes, an assistant in 6 and a review procedure in 2. The decider is not stated in 31.
 
-**Costs and errors.** Fifty-eight changes state how many existing entries they migrated: 2,664 in all, median 6. Ten grammar changes were followed by a recorded error that the change caused (§6.9). Four were undone within days (ADR-015 in part, ADR-076, ADR-077, ADR-080).
+**Costs and errors.** Fifty-eight changes state how many existing entries they migrated: 2,664 in all, median 6. Ten grammar changes were followed by a recorded error that the change caused (§13.9). Four were undone within days (ADR-015 in part, ADR-076, ADR-077, ADR-080).
 
-Section 8 reads these results against E1 to E6. The cases below are drawn from the census to illustrate each type it contains: refinement, revision and restraint, noticed by the owner, by an agent and by a procedure.
+Section 15 reads these results against E1 to E7, and §16 against the flywheel of §7.2. The cases below are drawn from the census to illustrate each type it contains: refinement, revision and restraint, noticed by the owner, by an agent and by a procedure.
 
-### 6.2 Refinement: CASE kind against standing (ADR-042)
+### 13.2 Refinement: CASE kind against standing (ADR-042)
 
 *Refinement; noticed by the owner, proposed by an assistant.*
 
@@ -92,7 +92,7 @@ By 20 November the record held 298 CASEs:
 
 Every case has a kind because the linter requires one, so coverage shows nothing. The distribution does show something. Fourteen of eighteen combinations are populated, and constructions, thought experiments and executed studies occur under all three standings, so the two fields answer different questions. They are not statistically independent, and could not be: a reported study is documented by its nature.
 
-### 6.3 Refinement of criteria: CLAIM warrant against status (ADR-043)
+### 13.3 Refinement of criteria: CLAIM warrant against status (ADR-043)
 
 *Refinement; noticed by the owner, proposed by an external assistant.*
 
@@ -110,7 +110,7 @@ Among the 766 claims on 20 November:
 
 Thirty-nine Proposed claims are demonstrated, and 185 Active ones are interpretive, so how a claim is supported and whether it is accepted vary independently. This change also caused an error later. Two readings of `warrant` were in use, and one batch relabelled a claim on the reading the owner then rejected (version 2, 19 October).
 
-### 6.4 Revision of an answer space, done twice: Deferred, Unavailable, Unfetched (ADR-041, ADR-053)
+### 13.4 Revision of an answer space, done twice: Deferred, Unavailable, Unfetched (ADR-041, ADR-053)
 
 *Revision of a status vocabulary; noticed by the owner.*
 
@@ -118,7 +118,7 @@ Thirty-nine Proposed claims are demonstrated, and 185 Active ones are interpreti
 
 On 25 October the owner supplied two such works by hand and asked for a status for "content that would be easy for me to access where you encountered obstacles". ADR-053 found **43** such entries, not eight. It also argued from an asymmetry of cost: clearing such an entry means only that the owner supplies a copy. So it added `Unfetched`, and made the owner's queue a generated page. Both a larger count and a change in what the distinction was for led to the reversal of ADR-041's restraint. Today 2,114 LITs are Active, 531 Unavailable, 179 Unfetched and 58 Deferred.
 
-### 6.5 Revision of a boundary: CLAIM and ARG (ADR-032, ADR-061)
+### 13.5 Revision of a boundary: CLAIM and ARG (ADR-032, ADR-061)
 
 *Revision; who noticed is not recorded.*
 
@@ -126,7 +126,7 @@ ADR-032 created ARG for judgments about inferences, to be filed only when someth
 
 ADR-061 redrew the boundary: an ARG is any claim about support. It filed 29 ARGs (15 Rejected, 13 Proposed, 1 Active), superseded 14 claims and split 15. Each entry had to be read to decide which kind of thing it was. This is a revision: existing entries were reassigned to a different kind of thing.
 
-### 6.6 Revision by withdrawal: SYNTHESIS (ADR-075, ADR-076, ADR-084)
+### 13.6 Revision by withdrawal: SYNTHESIS (ADR-075, ADR-076, ADR-084)
 
 *Revision; noticed by the owner.*
 
@@ -134,7 +134,7 @@ ADR-075 first proposed filing integrations as thesis claims. ADR-076, the same d
 
 On 8 November the owner asked what the admitted syntheses added. ADR-084 withdrew the asserting role: a SYNTHESIS asserts nothing of its own, and whatever adds to its components is a CLAIM. Eleven admitted syntheses returned to CLAIM, nine under their original codes, and ADR-076, ADR-077 and ADR-080 were superseded. The asserting abstraction lived about a day. The episode is short, but it is the record's clearest case of the grammar *losing* a distinction it had briefly drawn.
 
-### 6.7 Revision of the unit of inquiry: splitting lines (ADR-083 and its applications)
+### 13.7 Revision of the unit of inquiry: splitting lines (ADR-083 and its applications)
 
 *Revision; noticed by the owner, then by a procedure.*
 
@@ -151,16 +151,16 @@ The tool does not decide. ADR-087 found that 24 of 28 cross-part pairs were mere
 
 The tool also has a known blind spot. CLAIM-388 (Active) shows that a real unit need not be weakly coupled to its surroundings: a uniformly coupled system can have an exactly closed aggregate. So low coupling across a boundary suggests a split, but its absence does not show that no split is needed.
 
-### 6.8 Restraint
+### 13.8 Restraint
 
 *Rejected and deferred proposals, and refusals inside accepted decisions.*
 
 - **ADR-056 (Rejected),** noticed by the owner and proposed by an external assistant. It proposed four kinds of TERM, to be piloted before becoming a field. Of sixteen sampled TERMs, eleven sorted cleanly and five forced an arbitrary choice, exactly where the field was meant to decide. The pilot rejected the field.
 - **ADR-050 (Deferred).** A protocol for words such as "organized" and "effective" stopped at the convention rung, because a lint "would fire 395 times".
-- **ADR-036.** Readers reported independently that the vocabulary had no word for training dynamics. The owner widened `learning-theory` rather than add a word. (The census codes this as a revision, because an existing word's meaning changed. §8.2 asks whether its 92 carrying entries were re-read.)
+- **ADR-036.** Readers reported independently that the vocabulary had no word for training dynamics. The owner widened `learning-theory` rather than add a word. (The census codes this as a revision, because an existing word's meaning changed. §15.2 asks whether its 92 carrying entries were re-read.)
 - **Refusals inside accepted decisions.** ADR-042 refused a STUDY scheme, and ADR-041 refused the sixth status until ADR-053.
 
-### 6.9 When grammar changes went wrong
+### 13.9 When grammar changes went wrong
 
 Ten grammar changes have a recorded later error that they caused:
 

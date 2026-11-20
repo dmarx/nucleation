@@ -1,0 +1,91 @@
+<!-- scratch/manuscripts/from-obstruction-to-reorganization/09-flywheel.md -->
+
+## 16. The flywheel, observed
+
+Section 7.2 described the cycle the theory predicts for any inquiry held in a revisable apparatus. This section walks the record's history through that cycle, stage by stage, then shows something the theory did not predict but that its reflexivity makes possible. Some of the theory's own claims were revised by the very machinery the theory describes, and the instruments now used to state the theory are products of the cycle.
+
+### 16.1 Stage by stage
+
+**Stage 1: a misfit is absorbed.** In 63 of the 71 grammar changes that answered a misfit, the move had first been forced into the nearest category (43) or kept in prose (20) (§15.1). Concrete forms of this:
+
+- 177 Deferred LITs carried a free-text note of a failed search, a distinction held only in prose (ADR-041);
+- 42 claims were about whether one entry supports another, filed as substantive claims because ARG went unused (ADR-061);
+- one topic word carried four senses of "self" that readings needed to keep apart (ADR-024).
+
+**Stage 2: the misfit is noticed.** Who noticed changed over the period (§15.4).
+
+- **Early:** filing agents, meeting a missing word in the course of reading.
+- **Middle:** the owner, half of the time.
+- **Late:** review procedures built to look: status reviews (31 sessions), synthesis and reading reviews, a line-splitting script (`scratch/formal/line_parts.py`, ADR-083) and postmortems.
+
+Noticing moved from incidental to institutional. In P10's terms, the recognition link of the ladder was strengthened by building it into procedure.
+
+**Stage 3: diagnosis against a target.** Every grammar change has a decision record weighing alternatives. The diagnoses are P1 in practice:
+
+- ADR-042 refused to add values to `standing` because one field cannot answer two questions.
+- ADR-036 widened `learning-theory` rather than split it, because no committed action needed the split.
+- ADR-056 piloted a TERM `kind` field and rejected it when five of sixteen terms forced an arbitrary choice. The test was P4's: would the name earn its keep?
+- ADR-053 added `Unfetched` when the situations it separated called for different actions by different people (the owner could fetch them; no search could).
+
+**Stage 4: the apparatus changes.** There were 88 grammar changes: 62 refinements, 25 revisions and 1 restraint (§13.1). The revisions show P2's full range:
+
+- **re-carving** what counts as an answer (ADR-049);
+- **redrawing boundaries** between kinds of entry (ADR-058, ADR-060, ADR-061);
+- **withdrawing a type** that did not earn its keep (ADR-084);
+- **splitting units of inquiry** (ADR-082, ADR-087, ADR-089, ADR-100).
+
+**Stage 5: carry-through.** 2,664 existing entries were migrated by the 58 changes that state a count. Every removed vocabulary term in use was carried through every entry using it (§15.2). The predicted failure occurred exactly where the theory says it would. When only a meaning changed, nothing forced the entries to follow: ADR-048's redefinition of `anthology-candidate` reached none of its 237 entries.
+
+**Stage 6: maintenance.** Required fields, `fail_on` patterns, CI on every pull request, skills that write review procedures down, generated worklists (§14.3). The predicted failure also occurred. A correction to a postmortem's body did not reach its summary or the view generated from it (§14.5). In P7's terms, it was a correction recorded but not carried through everything that depends on it.
+
+**Stage 7: the new capacity serves later cases.** Questions moved from expressible to askable:
+
+- "Which of our research opportunities are worked out enough to run?" became an index after LEAD and its revision (ADR-109, ADR-111).
+- "What could the owner fetch by hand?" became a page after `Unfetched` (ADR-053).
+
+New distinctions made new misfits visible. Once `warrant` existed, two readings of it were found in use (ADR-043, version 2). The predicted cost appeared too. Ten grammar changes caused errors that only later checks revealed (§13.9). As for entrenchment, additions to the grammar fell sharply within the first month (82 new terms, then 24), which fits settling and entrenchment equally (§15.3).
+
+**Stage 8: the capacity to run the cycle forms.** The record built procedures for noticing, and then a procedure for reviewing its own changes:
+
+- status reviews from 27 October;
+- synthesis and reading reviews from 7 and 11 November;
+- POSTMORTEM and its triggers on 20 November (ADR-110, ADR-112);
+- one complete review-and-revision cycle within two days (§14.4).
+
+It also changed its tool. ADR-057's mechanisms became features of luria 1.3.0 (luria#382, §14.6). Whether the capacity to judge revisions was kept or eroded is the predicted risk, and it is not measured (§17.1).
+
+### 16.2 The cycle acting on the theory itself
+
+The record holds the theory of Part I as entries, and those entries pass through the same machinery as every other entry. CLAIM-532, the theory's account of learning, is the clearest case. Its history:
+
+1. **6 November.** Promoted to Active at the twenty-sixth status review, at the status review's ruling: the owner had delegated such rulings to the procedure.
+2. **10 November.** A lint sweep found it crossing lines as a `rests_on` step, and it was given the `distributed-agency` line under a rule adopted that day (ADR-085).
+3. **18 November.** A synthesis review's reader found a separating case. A uniform change of priority meets every premise and is neither covered nor excluded, so the claim gained an "Admission" section and the record opened QUESTION-488.
+4. **18 November, later.** At the owner's direction, it was restated from a definition to a sufficient condition. The owner's reason was itself a P2 point: if the components of a frozen random projection count as existing processes, "all feature learning is reweighting of them". The definition therefore could not be mechanistic.
+
+Each step is a stage of the flywheel, and the claim it revised is the claim that describes the flywheel's stage 4.
+
+Three of the instruments this paper uses to state the theory are products of the cycle:
+
+- **Standings.** Every theory claim in Part I is labelled with a standing. That grading exists only because the record's grammar was revised to hold it. The `warrant` field (ADR-043) separates how a claim is supported from whether it is accepted, and it was itself a turn of the flywheel: a distinction an external assistant drew in conversation, which the owner noticed the record could not express.
+- **The background digests.** They are built on SYNTHESIS accounts. The scheme for those accounts was created, overreached, and was withdrawn to its present form in two days (ADR-076, ADR-084).
+- **The line this paper belongs to.** `record-as-apparatus`, the line whose argument this paper extends, exists because a line-splitting decision found it to be a separate inquiry (ADR-082).
+
+The theory and the machinery that tests it were formed together, and each was revised by the other. That co-formation is what Part I means by reflexive inquiry (P8). It is also the paper's main threat to validity (§18): the theory cannot be wholly independent of the evidence it is shown against.
+
+### 16.3 What echoes, and how strongly
+
+| Principle | What in the record's history echoes it | Strength |
+|---|---|---|
+| P1: a distinction is needed when actions differ | ADR-042, ADR-053, ADR-036; every decision weighs alternatives | Observed in rationale (tier 1) |
+| P2: split, merge, re-carve | 25 revisions, including a withdrawal and a redefinition of what counts as an answer | Observed (tier 2) |
+| P3: no self-certification | Reviews by procedures independent of filing; counter-example: a summary that propagated an error | Observed in design; one failure |
+| P4: naming is its own decision | Pilots before required fields (ADR-043, ADR-056); the second-occurrence rule | Observed (tier 1) |
+| P5: discrepancy then capacity; absorption first | 63 of 71 misfits absorbed first; new distinctions then served later cases | Observed (tier 2); transfer not formally tested |
+| P6: three ledgers | 2,664 entries migrated; ten later errors; transition costs recorded | Observed (tier 2) |
+| P7: maintenance; support erodes | Procedures built for maintenance; corrections that stopped short; erosion of the owner's capacity unmeasured | Partly observed; the key risk untested |
+| P8: reflexive inquiry, owned criteria | Grammar revised by decision; criteria of revision stayed with the owner; the theory revised by the machinery | Observed (tier 1–2) |
+| P9: anchors and traceable change | Codes, history, retirement by status; removals fully carried through; one redefinition not | Observed (tier 2); one failure |
+| P10: chain of uptake; correctability | Noticing moved into procedures; postmortems review decisions; correctability of the whole not measured | Partly observed |
+
+Every entry in the table is tier 1 or tier 2 evidence: what the record says it did, and what its grammar now distinguishes. None is tier 3, evidence that the inquiry is better for it. Section 19 sets out how tier-3 evidence could be obtained.

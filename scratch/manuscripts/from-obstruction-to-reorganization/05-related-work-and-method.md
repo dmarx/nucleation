@@ -1,6 +1,6 @@
-<!-- scratch/manuscripts/from-obstruction-to-reorganization/03-related-work-and-method.md -->
+<!-- scratch/manuscripts/from-obstruction-to-reorganization/05-related-work-and-method.md -->
 
-## 4. Related work
+## 11. Related work
 
 *A work marked "unread" is registered on the record but has not been read first-hand. "Skimmed" means read in part. Claims about the content of unread works are the record's reports of them, and they must be checked before submission.*
 
@@ -23,14 +23,14 @@ These place luria's distinctive feature, the one QUESTION-458 asks about, as the
 
 [To add before submission: database schema evolution, e.g. PRISM.]
 
-**Qualitative codebooks.** The closest methodological analogue may be codebook evolution in qualitative research. Analysts revise codes as data arrive, keep memos on why, and measure agreement between coders. The record's grammar is a codebook its own filers revise mid-study, and this paper borrows the discipline: a fixed codebook and a second coder (§5.3). [This literature is not yet on the record.]
+**Qualitative codebooks.** The closest methodological analogue may be codebook evolution in qualitative research. Analysts revise codes as data arrive, keep memos on why, and measure agreement between coders. The record's grammar is a codebook its own filers revise mid-study, and this paper borrows the discipline: a fixed codebook and a second coder (§12.3). [This literature is not yet on the record.]
 
 **Classification and its consequences.** Bowker and Star (LIT-1631, unread) argue that classification systems foreground some situations and silence others, and that the work of fitting cases to categories goes unseen. Our cases are small, explicit instances of that thesis.
 
 **Organizational learning and memory.**
 
 - **Argyris** (LIT-745) distinguishes single-loop learning, which corrects action within fixed governing variables, from double-loop learning, which revises the variables. THEORY-145 records his warning that organizations espousing double-loop learning characteristically fail to practice it.
-- **March** (LIT-729) models an organizational code that learns from its members and teaches them. In that model moderate turnover keeps an organization exploring (THEORY-142). Memoryless collaborators may play turnover's role (§9.5).
+- **March** (LIT-729) models an organizational code that learns from its members and teaches them. In that model moderate turnover keeps an organization exploring (THEORY-142). Memoryless collaborators may play turnover's role (§17.5).
 - **Hutchins**'s cockpit remembers speeds that neither pilot holds (THEORY-351, from LIT-1066). It is the classic case of memory held by an arrangement rather than a person.
 
 **Postmortems.** Blameless postmortem practice treats an incident as evidence about a system rather than about a person (LIT-2784; Allspaw, LIT-2785, unread). Nucleation's POSTMORTEM applies the practice to a change to its grammar or process once that change has been used.
@@ -44,15 +44,31 @@ These place luria's distinctive feature, the one QUESTION-458 asks about, as the
 
 The record files a decision for every grammar change. It also travels each decision with its first application (ADR-071), so that a reviewer judges the rule by what it does.
 
-**Theories of inquiry.** Dewey (LIT-1645, unread) and Collingwood (LIT-1651, unread) are the nearest predecessors of CLAIM-470. Rheinberger's epistemic things (LIT-1665, unread) are a third. The formal case the record has read is CEGAR (LIT-1652), with the disanalogies in §2.5.
+**Learning by reorganization.** The theory's nearest classical ancestor is Ashby's *Design for a Brain* (LIT-787):
+
+- **Ultrastability.** A system that does not know how its environment affects its essential variables adapts by trial and error only if a second feedback, through those variables, changes the parameters of its primary feedback. If that second feedback acts "whenever, and for as long as, an essential variable is outside its limits", every equilibrium the whole can reach is an adapted one (THEORY-324, Active). This is the flywheel in its simplest form: an obstruction triggers reorganization of the parameters, not just a new response.
+- **Retention.** Adaptation in a large system "finishes in a practicable time only if partial adaptations are retained". Retention requires that the parts be separated, at least temporarily, by constancies; where later learning shares parts with earlier learning, it destroys it (THEORY-307, Proposed). This anticipates both the record's line splits and the risk that a revision undoes what an earlier one secured.
+- **Near-decomposability.** Simon's account of nearly decomposable systems (LIT-905; THEORY-661) separates fast dynamics within parts from slow, aggregate dynamics between them. CLAIM-388 shows that the separation is sufficient for closure but not necessary.
+- **Commitment and anomaly.** Kuhn, as one reading has him, holds that firm commitment to a tradition is what lets research recognize where the tradition fails (THEORY-2096, Proposed, from LIT-2885). That is stage 7 of the flywheel: finer categories make misfits visible.
+
+Where this paper's theory goes beyond these is in four places:
+
+- separating the products of learning, distinction and channel (CLAIM-532);
+- keeping formation, maintenance and transition costs apart (CLAIM-569);
+- separating the observing budget from the acting budget (CLAIM-557);
+- treating the apparatus of inquiry, not only the learner, as revisable (CLAIM-470).
+
+[Not yet on the record, or unread: Bateson on deutero-learning (LIT-2323, Unfetched); Piaget on accommodation; Lakatos on research programmes; work on active inference, of which the record holds several readings (e.g. LIT-1363) that this draft does not use.]
+
+**Theories of inquiry.** Dewey (LIT-1645, unread) and Collingwood (LIT-1651, unread) are the nearest predecessors of CLAIM-470. Rheinberger's epistemic things (LIT-1665, unread) are a third. The formal case the record has read is CEGAR (LIT-1652), with the disanalogies in §4.1.
 
 [Not yet on the record: provenance models (PROV), nanopublications, argument mapping, boundary objects, and work on LLM agents with persistent memory.]
 
 ---
 
-## 5. Method and materials
+## 12. Method and materials
 
-### 5.1 Evidence and observation points
+### 12.1 Evidence and observation points
 
 The evidence is the version-controlled repository, read with its full history: 3,454 commits from the empty initial commit of 7 September 2026. The record's start is its scaffold on 25 September (`af387c07b`).
 
@@ -60,21 +76,21 @@ Figures come from four observation points:
 
 | Observation point | Commit(s) | Used for |
 |---|---|---|
-| Historical snapshots: the last first-parent commit on `main` by 23:59 UTC on each date | 25 Sep `f5c040c6a`; 15 Oct `b84ad2e37`; 1 Nov `55cd0d814`; 19 Nov `eed84a74e` | Growth (§5.5) |
-| Executed studies inside the record, both run on 27 Oct | CASE-178 (32 days from the scaffold); CASE-180 (50 days from 7 Sep, so 32 days of record) | Rates of grammar change and revision (§§5.6–5.7) |
-| The current record | `main` at `09950cdf`, 20 Nov | Cross-tabulations (§6), census (§6.1), term-change analysis (§8.2), governance counts (§7) |
+| Historical snapshots: the last first-parent commit on `main` by 23:59 UTC on each date | 25 Sep `f5c040c6a`; 15 Oct `b84ad2e37`; 1 Nov `55cd0d814`; 19 Nov `eed84a74e` | Growth (§12.5) |
+| Executed studies inside the record, both run on 27 Oct | CASE-178 (32 days from the scaffold); CASE-180 (50 days from 7 Sep, so 32 days of record) | Rates of grammar change and revision (§§12.6–12.7) |
+| The current record | `main` at `09950cdf`, 20 Nov | Cross-tabulations (§13), census (§13.1), term-change analysis (§15.2), governance counts (§14) |
 | The owner's measurements (U11 of the exchange that produced the first sketch) | Dated snapshots, no hashes | Cross-checked against the snapshots above; they agree to within 1.5% |
 
-### 5.2 Units
+### 12.2 Units
 
 - **Unit of analysis.** For the census, the unit is a **decision record** (ADR-001 to ADR-114). For the history of the grammar, it is a **unit of work**: the pull request a commit came in, or the commit itself where it cannot be tied to one.
 - **Grammar.** The declarations in `luria.yaml` (schemes, fields, relations, vocabularies and their terms, statuses, lines, `fail_on` patterns and view definitions). Conventions held only in prose, such as CLAUDE.md or the skills, are *conventions*, not grammar.
 - **Misfit.** A move the grammar of the day could not hold faithfully.
 - **Obstruction.** A misfit someone noticed.
 
-Unnoticed misfits are the denominator this method cannot see (§10).
+Unnoticed misfits are the denominator this method cannot see (§18).
 
-### 5.3 The census, and agreement between coders
+### 12.3 The census, and agreement between coders
 
 Every decision record was coded against a codebook fixed before any coding began (`analysis/census/CODEBOOK.md`). The codebook records:
 
@@ -87,9 +103,9 @@ Every decision record was coded against a codebook fixed before any coding began
 - what form the misfit took before the decision;
 - the size of any migration, the outcome, and any later error.
 
-Four coders (assistant subagents) coded the 114 decisions in four batches. A fifth coded a random sample of 30, seed 20261120, without seeing the first coding. Agreement is reported per field as raw agreement and Cohen's κ, and as mean Jaccard overlap for list-valued fields (§6.1). All five coders were instances of the same model, a limit discussed in §10.
+Four coders (assistant subagents) coded the 114 decisions in four batches. A fifth coded a random sample of 30, seed 20261120, without seeing the first coding. Agreement is reported per field as raw agreement and Cohen's κ, and as mean Jaccard overlap for list-valued fields (§13.1). All five coders were instances of the same model, a limit discussed in §18.
 
-### 5.4 Evidential tiers
+### 12.4 Evidential tiers
 
 We separate three kinds of evidence:
 
@@ -97,9 +113,9 @@ We separate three kinds of evidence:
 2. **Observed operation:** what the grammar now distinguishes, as shown by populated fields and cross-tabulations.
 3. **Measured outcome:** whether the change improved later research.
 
-The record is strong on the first, moderate on the second and silent on the third. Evidence of the second kind is also bounded by E6: it is counted in the grammar it evaluates.
+The record is strong on the first, moderate on the second and silent on the third. Evidence of the second kind is also bounded by E7: it is counted in the grammar it evaluates.
 
-### 5.5 Growth of the record and its grammar
+### 12.5 Growth of the record and its grammar
 
 | Measure | 25 Sep | 15 Oct | 1 Nov | 19 Nov |
 |---|---:|---:|---:|---:|
@@ -112,7 +128,7 @@ The record is strong on the first, moderate on the second and silent on the thir
 
 Record files grew 47-fold and configuration lines about 5-fold. Lines are a poor proxy for the grammar's content. The grammar grew in steps: five schemes added on 7 October, a plateau to the end of October, then SYNTHESIS and LEAD by 19 November and POSTMORTEM on 20 November.
 
-### 5.6 Grammar change as part of ordinary work
+### 12.6 Grammar change as part of ordinary work
 
 CASE-178 read every change to `luria.yaml` in the 32 days after the scaffold.
 
@@ -145,7 +161,7 @@ What the data show is that the rule was followed, and that grammar changes arriv
 
 The same study also measured luria's own record and strata-g, the project luria was extracted from on 3 August. Their grammars are small: luria added two terms and four fields in the period, and strata-g added nothing. CASE-178 counts projects as the slowest level, with about five begun across the owner's records in four months. The extraction of luria from strata-g is the outermost loop: a project's practice became a tool.
 
-### 5.7 Different rates of revision
+### 12.7 Different rates of revision
 
 CASE-180 measured 1,434 commits, 415 of them by the repository's bot. Once drafting was over, prose was revised about once in 21.8 days, status about once in 127.5 days, and an authored relation was gained or lost about once in 131.9 days. That is about a sixfold spread, not orders of magnitude. No relation type was redefined.
 

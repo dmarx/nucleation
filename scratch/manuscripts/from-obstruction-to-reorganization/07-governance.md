@@ -1,19 +1,19 @@
-<!-- scratch/manuscripts/from-obstruction-to-reorganization/05-governance.md -->
+<!-- scratch/manuscripts/from-obstruction-to-reorganization/07-governance.md -->
 
-## 7. Governance: four loops
+## 14. Governance: four loops
 
-### 7.1 Decision records
+### 14.1 Decision records
 
 The record holds 114 decision records: 70 Active, 37 Proposed, 5 Superseded, 1 Deferred and 1 Rejected. Each states its context, decision, alternatives and consequences. Two rules shape how they are used:
 
 - **ADR-071.** Each logical unit of work gets its own branch and pull request, and a decision travels with its first application. A reviewer therefore judges a rule by what it does.
 - **ADR-072.** The second-occurrence rule applies to process: a decision or principle is written when its occasion recurs.
 
-Thirty-seven decisions are still Proposed. The census codes 26 of them as applied, and the remaining 11 as undeterminable from the decision itself. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§6.1) therefore codes ratification separately from status.
+Thirty-seven decisions are still Proposed. The census codes 26 of them as applied, and the remaining 11 as undeterminable from the decision itself. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§13.1) therefore codes ratification separately from status.
 
-### 7.2 Reviewing the argument, from October
+### 14.2 Reviewing the argument, from October
 
-The outer loop of §3.5 changes the grammar. Before any grammar change was reviewed after the fact, the record was already reviewing its *argument*:
+The outer loop of §9.5 changes the grammar. Before any grammar change was reviewed after the fact, the record was already reviewing its *argument*:
 
 - **Promotion audit** (ADR-047, 19–27 October). It ran 79 batches and filed 308 decision files, ruling on which Proposed readings had earned Active standing. It was replaced by a worklist derived on each pass (ADR-057) when it was found that:
   - 230 of its 308 decision files had gone stale;
@@ -27,9 +27,9 @@ The outer loop of §3.5 changes the grammar. Before any grammar change was revie
   The owner delegated the rulings: "merging it is the assent".
 - **Synthesis and reading reviews** (ADR-078, ADR-091). These are periodic audits of whether each line's account maps it faithfully, and of which readings no line uses. Their findings prompted ADR-093 to ADR-095.
 
-These reviews account for most of the "review procedure" entries in the census's late period (§6.1). Twelve of the 25 grammar changes after 6 November were noticed by a review procedure, not by a person working on content.
+These reviews account for most of the "review procedure" entries in the census's late period (§13.1). Twelve of the 25 grammar changes after 6 November were noticed by a review procedure, not by a person working on content.
 
-### 7.3 Compiling norms
+### 14.3 Compiling norms
 
 DP-3 ("culture must be compiled") names the ladder a norm climbs: prose, then convention, then mechanism, then guarantee. The census's grammar changes are its upper rungs. The record also shows the lower ones:
 
@@ -43,9 +43,9 @@ DP-3 ("culture must be compiled") names the ladder a norm climbs: prose, then co
 
 DP-4 ("fire before trusting") was applied at least once: the promotion audit's check was run against a deliberately broken queue before it was relied on.
 
-Compiling a norm has a cost. CASE-131 records a link fixer writing a dependency that no author had asserted, so the rigid relation reproduced a mistake reliably (CLAIM-479). DP-2's generated views do the same with an uncorrected summary (§7.5).
+Compiling a norm has a cost. CASE-131 records a link fixer writing a dependency that no author had asserted, so the rigid relation reproduced a mistake reliably (CLAIM-479). DP-2's generated views do the same with an uncorrected summary (§14.5).
 
-### 7.4 POSTMORTEM, and one complete cycle
+### 14.4 POSTMORTEM, and one complete cycle
 
 Two decisions of 20 November, both Proposed, made review of the grammar's changes a record type:
 
@@ -67,13 +67,13 @@ Two decisions of 20 November, both Proposed, made review of the grammar's change
 
 What moved is mostly definitional. The 53 leads that moved to `specified` were those that already had a design in a CASE, and dropping the cost requirement admitted them. The cycle shows a review finding a field that did not discriminate, and a revision completed within two days. It is a migration, not evidence that the backlog is now better used.
 
-### 7.5 A correction that did not propagate
+### 14.5 A correction that did not propagate
 
 POSTMORTEM-002's first version called the missing converse fields a defect. On reading luria's code, the filer found that luria computes converses by design, and corrected the body the same day. The frontmatter summary was not corrected. It still says the converses "are declared but never written", and the generated postmortem index carries that sentence.
 
 A correction to an authored text did not reach the compressed representation derived from it. All three postmortems are Drafts.
 
-### 7.6 The fourth loop: changing the tool
+### 14.6 The fourth loop: changing the tool
 
 Problems found in this record changed luria itself. The record's changelog and decisions cite a run of upstream issues:
 
