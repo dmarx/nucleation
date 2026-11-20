@@ -1,10 +1,10 @@
 ---
 number: 329
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -43,6 +43,21 @@ history:
   date: '2026-11-03'
   note: >-
     uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
+- version: 7
+  date: '2026-11-20'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057: its grounds (CASE-102,
+    CASE-098, CASE-105) and terms are Active, no objection is filed,
+    and nothing in the record meets its defeat condition. The note of
+    2026-10-30 held it on three points. What must be transmitted is
+    QUESTION-118's, which the claim leaves open in its own words and
+    the title does not assert; the 2005 Nationals do not meet the
+    defeater, since CASE-105 puts the original club's lineage with the
+    Twins and CLAIM-328 (Active) counts the Nationals a successor by
+    narrative and place, not a continuation; and the limit to a
+    carrier's persistence, from the note of 2026-10-22, is now stated
+    under "What it does not say". The title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -88,7 +103,6 @@ summary: >-
   §4.3's of 2026-10-13 and did not file it. It does not say what must be
   transmitted, or settle branching successors.
 ---
-<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1381 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
@@ -154,6 +168,10 @@ kind*" was A6's first question for it.
   each continuous with the original in a different respect.
 - **That transmission suffices for being a self, an agent or one
   system.** It is a persistence condition only, as [CLAIM-161](CLAIM-161.md) is.
+- **That what a collective carries persists with it.** The criterion is
+  for a carrier's persistence. A party's organization can be transmitted
+  while its operative perspective changes ([CASE-133](../cases.d/CASE-133.md), note of
+  2026-10-22), and whether a perspective persists is [CLAIM-417](CLAIM-417.md)'s question.
 
 ## Note of 2026-10-21: the persistences re-derived, and reconstitution
 
@@ -303,3 +321,13 @@ Across A32 §2 and §9, A34 §4 and A37 §1 of the exchange "Individuation, Poss
 - **Freenode and Libera Chat, 2021** (A36 §1, in [CASE-223](../cases.d/CASE-223.md), A's report, unverified): the volunteer staff, the producing organization, moved to Libera, so this claim's criterion picks Libera as the persisting network. A calls it "organizational reconstruction across a change of substrate and institutional boundary"; in this claim's terms it is a transmission, not an independent reconstitution, and A did not draw the verdict.
 
 A36 closes on this claim's open question without citing it: "When a project changes hands, what exactly must be transmitted for the successor to count as a continuation of the same organization" ([QUESTION-118](../questions.d/QUESTION-118.md)). [CLAIM-617](CLAIM-617.md) adds that participants' verdicts can move the producers, and so the persistence. Unchanged; stays Proposed.
+
+## Note of 2026-11-20: promoted, and how the note of 2026-10-30 was answered
+
+Promoted by the status review of this date. The note of 2026-10-30 named three things.
+
+- **What must be transmitted ([QUESTION-118](../questions.d/QUESTION-118.md)).** The title says that persistence through total turnover, where it happens, is by transmission of the producing organization and not by resemblance. It does not say which transmission is enough, and "What it does not say" leaves that to the question. Where every candidate is causally continuous, as in training or among [CASE-105](../cases.d/CASE-105.md)'s three successors, the claim returns no verdict. That is a limit on its verdicts, not a case against it, and plural succession is [CLAIM-328](CLAIM-328.md)'s (Active).
+- **The 2005 Nationals.** The defeater needs participants and the record's criteria to count a later collective the earlier one's continuation with no causal path between their organizations. [CASE-105](../cases.d/CASE-105.md), documented, puts the original club's lineage with the Twins and the Nationals' through Montreal. [CLAIM-328](CLAIM-328.md) counts the Nationals a successor in the respect of narrative and place, "by claim", and not a continuation. A supporters' tradition that counts itself continuous through the gap has a causal path through its surviving supporters, which is the title's "a lapse in its coherence need not end it". [LEAD-099](../leads.d/LEAD-099.md), filed 2026-11-19, would check what the league, the club and the supporters say; a club organization that participants and the record came to count as the Senators continued, with no path from them, would still defeat the claim.
+- **A carrier's persistence.** Now stated under "What it does not say".
+
+[CASE-223](../cases.d/CASE-223.md), revised on 2026-11-07, adds A55's dated facts on Freenode and Libera, still unverified, so the claim takes nothing from it.

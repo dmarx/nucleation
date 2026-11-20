@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcdshj
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-07'
@@ -61,6 +61,13 @@ history:
     now says it was moved, as SYNTHESIS-001, from this claim.
     Reported by the synthesis review of 2026-11-11 (seventh round).
     No other change.
+- version: 8
+  date: '2026-11-20'
+  note: >-
+    Layers 2 and 5 marked CLAIM-329 and CASE-223 as Proposed; both
+    went Active at the status review of this date (the owner delegated
+    these rulings), and the parentheses now say so. The claim is
+    unchanged and stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -123,11 +130,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-611 CLAIM-617 CASE-223 — filed from the same exchange, Proposed; premise, component and the owner's study -->
+<!-- inactive-ok-file: CLAIM-611 CLAIM-617 — filed from the same exchange, Proposed; premise and component -->
 <!-- inactive-ok-file: ARG-075 — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed; the later theses that rest on this one -->
-<!-- inactive-ok-file: CLAIM-329 CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
 
 # CLAIM-615: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
 
@@ -154,7 +161,7 @@ The architecture, in layers:
    and reconstructed." The record's form of that is [CLAIM-576](CLAIM-576.md) (Proposed,
    A's), on a change of architecture altering which transformations are
    possible.
-2. **The criterion.** Transmission, not resemblance ([CLAIM-329](CLAIM-329.md), Proposed,
+2. **The criterion.** Transmission, not resemblance ([CLAIM-329](CLAIM-329.md), Active,
    A's): "an organization of the same kind that arises independently is
    not its continuation". The fork fits it (A34 §4). Two repositories that
    are identical at the fork become two projects.
@@ -183,7 +190,7 @@ The architecture, in layers:
    different respects ([CLAIM-328](CLAIM-328.md), Active), and descent need not be an
    equivalence relation ([CLAIM-287](CLAIM-287.md), Active). The Senators are the record's
    case ([CASE-105](../cases.d/CASE-105.md)). The owner's U16 study is the test ([CASE-223](../cases.d/CASE-223.md),
-   Proposed), and participants' verdicts can move the producers
+   Active), and participants' verdicts can move the producers
    ([CLAIM-617](CLAIM-617.md), Proposed, A's).
 
 The three questions A37 ends on are already held: "Identity asks what makes
@@ -252,3 +259,7 @@ on disposition (the dispositional reframing, since withdrawn), which rest on it.
 ## Admission
 
 Under [ADR-075](../decisions.d/ADR-075.md)'s admission test, the integration must be able to fail while every component holds. It can. A mechanism maintained by one workshop loses a part and passes to an unrelated workshop that maintains it from then on, with nothing of the first workshop's maintaining organization transmitted; let the domain's continuation morphisms, which [CLAIM-593](CLAIM-593.md) says must be stipulated, count it the same mechanism by continuity of its remaining parts. [CLAIM-329](CLAIM-329.md) (about collectives), [CLAIM-593](CLAIM-593.md), [CLAIM-280](CLAIM-280.md) and [CLAIM-611](CLAIM-611.md) all hold, and identity runs through continuity of constituents, not transmission. Generalizing [CLAIM-329](CLAIM-329.md) beyond collectives is a step that can fail, so the claim is admitted. Its last three title clauses are components, marked as such in the body.
+
+## Note of 2026-11-20: what holds it back
+
+[CLAIM-329](CLAIM-329.md) went Active at the status review of this date, so [CLAIM-611](CLAIM-611.md), on what persists through changes of state and mode, is the one premise not held.

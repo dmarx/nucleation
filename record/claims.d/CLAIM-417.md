@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8lheg
 title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -35,6 +35,16 @@ history:
     pairing in its body ("Carried from CLAIM-427": "CLAIM-417, whose
     defeater the grading reads"). Reported by the synthesis review
     of 2026-11-11 (seventh round). No other change.
+- version: 6
+  date: '2026-11-20'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings):
+    sense 2 now says which source it means, as the note of 2026-10-22
+    asked. Its repertoire is Wacquant's habitus; Swidler's repertoire,
+    which is not dispositional, goes with the resources coupled to it.
+    The text was: "becomes a perspective's dispositional repertoire and
+    the resources coupled to it (habitus, in the sociology the exchange
+    leaned on: LIT-1377, LIT-1367)". The claim stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,7 +87,7 @@ summary: >-
   of realizations, and representations of any of these. The exchange ran these together; the claim
   does not.
 ---
-<!-- inactive-ok-file: CLAIM-137 CLAIM-196 CLAIM-329 CLAIM-355 CLAIM-412 CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-137 CLAIM-196 CLAIM-355 CLAIM-412 CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- ref::uses-file: TERM-084 — a perspective's "lineage, a chain of causal transmission from one realization to" the next, kept apart from its carriers and representations, is TERM-084's lineage sense -->
 
 # CLAIM-417: What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself
@@ -102,8 +112,12 @@ subject", a separate question. Set against [TERM-045](../terms.d/TERM-045.md)'s 
 is:
 
 - **Sense 2, dispositional or extended**, becomes a perspective's
-  dispositional repertoire and the resources coupled to it (habitus, in
-  the sociology the exchange leaned on: [LIT-1377](../literature.d/LIT-1377.md), [LIT-1367](../literature.d/LIT-1367.md)).
+  dispositional repertoire and the resources coupled to it. The
+  repertoire is habitus as Wacquant states it, dispositions "deposited
+  inside persons" ([LIT-1377](../literature.d/LIT-1377.md), p. 65). Swidler's repertoire ([LIT-1367](../literature.d/LIT-1367.md)) is not
+  dispositional, and on her account it belongs with the resources coupled
+  to the repertoire, the kit from which strategies of action are built
+  (note of 2026-10-22).
 - **Sense 3, persisting**, becomes the persistence of a perspective or of
   its carrier, in one of [TERM-071](../terms.d/TERM-071.md)'s senses, and these come apart (below).
 - **Sense 5, self-governing**, becomes reflexive governance of a
@@ -264,3 +278,8 @@ who disagree, for sense 2, and the claim has not said which it means.
 
 <!-- inactive-ok-block: ARG-025 — Proposed; the competitor argument, unchanged -->
 A50 §5 adds a "dispositional basis" ([CLAIM-421](CLAIM-421.md)) beside realization, character and lineage; A52 §7 restores representation, which makes five objects. A50 again pairs habitus with Swidler, calling *Culture in Action* "a complementary account", the pairing this claim's note of 2026-10-22 flagged: Swidler's repertoire is not dispositional. A52 §16 concedes the competitor ("The novel contribution cannot be simply renaming those phenomena") and offers nothing that out-predicts it, so [ARG-025](../arguments.d/ARG-025.md) is unchanged.
+
+## Note of 2026-11-20: what holds it back
+
+<!-- inactive-ok-block: ARG-025 — Proposed; the competitor argument, unchanged -->
+The third disjunct of the defeat condition is still live: habitus and transposable schemas may explain the same transitions, and no model in the record out-predicts them at matched complexity, the third grade [ARG-025](../arguments.d/ARG-025.md) does not meet. Checked since the note of 2026-10-30: [CLAIM-421](CLAIM-421.md)'s revisions (promoted on 2026-10-30; bears on [QUESTION-257](../questions.d/QUESTION-257.md) since 2026-11-11) add a kind of interruption to the perspective vocabulary and no comparison with the competitors, and A52 §16 (note of 2026-11-07) concedes the competitor without out-predicting it. The other point that note named, which of Swidler and Wacquant sense 2 means, is answered in this version.

@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpjw473
 title: 'When a project''s continuities part at a change of steward, participants'' judgements of which successor continues it are causally productive of that succession: those who judge one successor illegitimate move their work to another, and the move transfers the productive organization the judgement was about'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    grounds CASE-223 dropped at the status review's ruling (the owner
+    delegated these rulings), under ADR-058: CASE-223 is the study
+    that would test the claim, and the body says of its evidence "None
+    yet". The inference from the study to this claim is ARG-067, which
+    concludes it; CASE-223 still illustrates it. The claim is
+    unchanged and stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,8 +37,6 @@ line:
 - distributed-agency
 complements:
 - CLAIM-328
-grounds:
-- CASE-223
 bears_on:
 - QUESTION-118
 summary: >-
@@ -42,8 +50,8 @@ summary: >-
   Proposed and untested; the study that would test it is filed from the
   same exchange. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-329 CLAIM-426 — Proposed; the criterion and the reflexive mechanism this claim combines -->
-<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed; the study that would test this claim -->
+<!-- inactive-ok-file: CLAIM-426 — Proposed; the reflexive mechanism this claim combines -->
+<!-- inactive-ok-file: ARG-067 — Proposed; the argument from the study to this claim, cited as open -->
 
 # CLAIM-617: When a project's continuities part at a change of steward, participants' judgements of which successor continues it are causally productive of that succession: those who judge one successor illegitimate move their work to another, and the move transfers the productive organization the judgement was about
 
@@ -91,3 +99,7 @@ study that would test the claim.
 
 ## Note of 2026-11-19: Krohn and Weninger, read
 A parallel ([NOTE-2140](../notes.d/NOTE-2140.md)): participants' acts of reference may produce the community referred to, as judgements of legitimacy are here said to produce succession.
+
+## Note of 2026-11-20: what holds it back
+
+The claim is causal and has no evidence yet: [CASE-223](../cases.d/CASE-223.md)'s study, verdicts measured apart from the move and timed against it with cost and incentive controlled ([LEAD-185](../leads.d/LEAD-185.md)), has not been run, and its instances are A's reports, unverified. Until it is, [ARG-067](../arguments.d/ARG-067.md)'s finding stands that the Freenode move is expected under [CLAIM-329](CLAIM-329.md)'s criterion alone, with no causal work done by the verdicts, which is the restatement half of the defeat condition.
