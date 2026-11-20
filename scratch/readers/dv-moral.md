@@ -15,3 +15,6 @@
 ## Step 2: Killen & Smetana 2015 read (in part)
 Read: pp. 701-715 (intro, classical theories, false dichotomies, roots in infancy/early childhood), 717-718 (intentionality), 721-725 (moral judgments; fair distribution), 733-735 (peers), 741-742 (conclusions). Skipped: mental states detail, family, civic, neuroscience sections, references.
 Key quotes logged (p.705 Piaget passage; p.712 Warneken et al. 2011; p.713 Baumard; p.713 Brownell/Piaget; p.723 Damon equality->merit; p.733 peers; p.741 conclusion).
+
+## Step 3: McAuliffe et al. 2017 read in full (author manuscript, Leiden copy, 26 pp; pages cited are manuscript pages)
+Read all text, boxes, figure legends; references skimmed. No mention of Piaget; no treatment of collaboration-based sharing (Hamann/Warneken 2011 not cited); Tomasello appears only in refs (chimp ultimatum, third-party punishment, Wittig 2013, Grocke 2015 as procedural justice).
