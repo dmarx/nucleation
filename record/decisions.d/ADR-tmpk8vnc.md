@@ -14,8 +14,8 @@ summary: >-
   `reviewed_by`, derived on ADR), may name the decisions its
   recommendations `prompted` (converse `prompted_by`), and carries
   `pull_requests` and `discussions` as URL lists. Statuses Draft,
-  Accepted, Superseded. First application: POSTMORTEM-tmp7fylf, on
-  ADR-106, ADR-107 and ADR-109. Rejected: a curation entry; a workbench
+  Accepted, Superseded. First application: [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md), on
+  [ADR-106](ADR-106.md), [ADR-107](ADR-107.md) and [ADR-109](ADR-109.md). Rejected: a curation entry; a workbench
   entry; new history versions on each reviewed ADR; reviews as dated notes
   on the ADRs.
 ---
@@ -27,8 +27,8 @@ summary: >-
 ## Context
 
 The session of 2026-11-19 changed luria.yaml three times: a work for the
-owner's manuscript (ADR-106), the explication argument form (ADR-107) and
-the LEAD scheme (ADR-109). The next day the owner asked for a postmortem
+owner's manuscript ([ADR-106](ADR-106.md)), the explication argument form ([ADR-107](ADR-107.md)) and
+the LEAD scheme ([ADR-109](ADR-109.md)). The next day the owner asked for a postmortem
 of those changes. The review found things no single entry holds: how much
 of each change is used, what turned out unused or misleading, what the
 changes cost the process, and what to decide next.
@@ -84,7 +84,7 @@ list is enough, and `luria` lints nothing it could check about them.
 
 A change to the record can be reviewed once it has been used, and the
 review is found from the decision it reviews. Its recommendations become
-ADRs that point back to it. The first application, POSTMORTEM-tmp7fylf,
-reviews ADR-106, ADR-107 and ADR-109 and recommends a decision on LEAD
+ADRs that point back to it. The first application, [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md),
+reviews [ADR-106](ADR-106.md), [ADR-107](ADR-107.md) and [ADR-109](ADR-109.md) and recommends a decision on LEAD
 priority, the stage ladder, derived converses, lead scope and question
 dependencies, and three process rules.

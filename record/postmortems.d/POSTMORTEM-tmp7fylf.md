@@ -36,19 +36,19 @@ summary: >-
 
 | Change | Commits | Decision | Landed in |
 |---|---|---|---|
-| A work, cost-structure-of-possibility | 9868fd550 | ADR-106 | pull request 528 |
-| The explication argument form; an ARG may conclude a TERM; TERM `argued_by` | 982f11a7b, revised in 44c192ec3 and fe0aa5921 | ADR-107 | pull request 533, folded into 528 |
-| The LEAD scheme, three vocabularies, `advanced_by` on QUESTION and CLAIM, `operationalizes` on CASE, QUESTION `presupposes` (178 lines) | d80bac44a | ADR-109 | pull request 536, landed through 535 |
+| A work, cost-structure-of-possibility | 9868fd550 | [ADR-106](../decisions.d/ADR-106.md) | pull request 528 |
+| The explication argument form; an ARG may conclude a TERM; TERM `argued_by` | 982f11a7b, revised in 44c192ec3 and fe0aa5921 | [ADR-107](../decisions.d/ADR-107.md) | pull request 533, folded into 528 |
+| The LEAD scheme, three vocabularies, `advanced_by` on QUESTION and CLAIM, `operationalizes` on CASE, QUESTION `presupposes` (178 lines) | d80bac44a | [ADR-109](../decisions.d/ADR-109.md) | pull request 536, landed through 535 |
 
 Main's concretization also rewrote the temporary decision and claim codes
 inside the config's blurbs (eed84a74e, 58c495fdd).
 
 ## How each has been used (main at ace6ccba2, 2026-11-20)
 
-- **The work (ADR-106).** 23 entries name it. Nothing to fix.
-- **The explication form (ADR-107).** One ARG uses it, ARG-119, the
+- **The work ([ADR-106](../decisions.d/ADR-106.md)).** 23 entries name it. Nothing to fix.
+- **The explication form ([ADR-107](../decisions.d/ADR-107.md)).** One ARG uses it, [ARG-119](../arguments.d/ARG-119.md), the
 explication of learning. No TERM carries a stored `argued_by`.
-- **The LEAD scheme (ADR-109).** 197 leads: 194 Open, 3 Done; stage 190
+- **The LEAD scheme ([ADR-109](../decisions.d/ADR-109.md)).** 197 leads: 194 Open, 3 Done; stage 190
 idea, 4 specified, 3 underway; methods empirical 99, reading 63, formal
 58, conceptual 27, historical 13, operationalization 7. 55 point at a
 CASE; 12 presuppose another lead, none a question. No QUESTION uses
@@ -59,17 +59,17 @@ CASE; 12 presuppose another lead, none a question. No QUESTION uses
 - The backlog audit of 2026-11-19 had a home for 184 opportunities, and 52
 proposed-study cases are now linked from leads to their designs.
 - The method vocabulary covered every opportunity found without an "other".
-- The owner's review of LEAD-006 changed its scope, from building an
+- The owner's review of [LEAD-006](../leads.d/LEAD-006.md) changed its scope, from building an
 environment to investigating task composition, with no schema friction.
 - Each decision carried its first application in the same pull request
-(ADR-071), so each was judged by what it did.
+([ADR-071](../decisions.d/ADR-071.md)), so each was judged by what it did.
 
 ## What did not
 
 1. **The explication form was filed before its source was read.** The form
 names Carnap; its critical questions were written first and rewritten
 twice within hours once Carnap was read (44c192ec3, fe0aa5921).
-2. **The stage ladder does not discriminate.** ADR-109 makes `specified`
+2. **The stage ladder does not discriminate.** [ADR-109](../decisions.d/ADR-109.md) makes `specified`
 require a stated cost, which almost no source gives; 52 cases with full
 designs sit at `idea` beside one-line hunches.
 3. **No priority.** The owner raised the backlog as a triage problem, and the
@@ -126,6 +126,6 @@ land a schema change alone and early, so that content does not stack on
 it.
 
 Recommendations 1 to 5 are one decision, to be filed with its first
-application (ADR-071) and named in `prompted` here when it exists. This
-scheme's own decision (ADR-tmpk8vnc) applies recommendation 6's third
+application ([ADR-071](../decisions.d/ADR-071.md)) and named in `prompted` here when it exists. This
+scheme's own decision ([ADR-tmpk8vnc](../decisions.d/ADR-tmpk8vnc.md)) applies recommendation 6's third
 rule.
