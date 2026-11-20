@@ -1,0 +1,74 @@
+---
+status: Read
+paper: LIT-tmpjcyb9
+title: 'Killen and Smetana — Origins and Development of Morality'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Read on 2026-11-20 by a delegated reader from a print of the published
+    chapter on Smetana's faculty page at the University of Rochester: pp.
+    701–715, 717–718, 721–725, 733–735 and 741–742; the family, civic,
+    neuroscience and parts of the mental-states and intergroup sections,
+    and the references, skipped. Running notes on the branch
+    claude/readers/dv-moral (ADR-108). Quotations rechecked by the filer
+    by script against the downloaded text.
+date: '2026-11-20'
+summary: >-
+  A handbook review: Piaget's peers and equality-before-equity held,
+  heteronomy refuted; early moral judgment by 3–4; equal sharing after
+  joint work at 3 reported, its motive unexamined.
+---
+
+# NOTE-tmpfrpvx: Killen and Smetana — Origins and Development of Morality
+
+## Contribution
+
+A handbook review of theories and research on moral development, assessing
+Piaget directly.
+
+## Key results
+
+1. **Piaget.** "Piaget proposed that children are initially heteronomous
+   (defining morality as compliance with rules set by an authority) and
+   then become autonomous by 8–10 years of age" (p. 705).
+2. **What held.** "Research has clearly established that peer relations
+   and particularly friendships play important roles in children’s moral
+   understanding" (p. 705).
+3. **What did not.** "Piaget’s description of early morality as
+   heteronomous has not survived empirical scrutiny" (p. 705); "Contrary
+   to Piaget’s findings, research has consistently shown that children as
+   young as 3 years of age can take intentions into account" (p. 718).
+4. **Early fairness, motive unexamined.** On equal sharing after joint
+   work at 3 (Warneken et al. 2011): "However, the researchers did not
+   examine why 3-year-olds shared equitably" (p. 712).
+5. **Equality before equity.** The shift from strict equality to merit and
+   need is "One of the most robust developmental findings" (p. 723).
+6. **Cooperation and morality.** "Because these behaviors lack a
+   prescriptive, obligatory basis, questions have been raised about
+   whether these constitute moral behaviors" (p. 710).
+
+## Assumptions
+
+Social domain theory: morality means prescriptive norms that hold across
+contexts and regardless of authority.
+
+## Concepts
+
+Heteronomous and autonomous morality; moral, conventional and personal
+domains; equality, equity and merit.
+
+## Bearing on the record
+
+- **THEORY-495**, a qualification: equal sharing at 3 after joint work is
+  confirmed, but its motive was never examined; the chapter places early
+  obligation in the moral/conventional distinction, not in joint
+  commitments.
+- **LIT-837** (Piaget), background: supplies the 1932 moral theory the
+  record lacks, with its assessment.
+
+## Limitations
+
+A broad survey; it does not separate jointly earned from windfall
+resources or explain why equality is the default.

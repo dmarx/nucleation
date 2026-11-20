@@ -138,3 +138,23 @@ rival, coordination on a salient division by mutual expectation with no
 "we". The studies cited here that compare collaboration with windfalls
 bear on the rival; whether they exclude it is not settled by either
 reading.
+
+## Note of 2026-11-20: developmental readings of 2026-11-20
+<!-- inactive-ok-file: CLAIM-tmpue255 THEORY-tmpitywd THEORY-tmpj4l2c THEORY-tmpsn2t0 THEORY-tmpf3zwk THEORY-tmpjqrp3 LIT-tmpkwxfx THEORY-tmpuerfk THEORY-tmpgv0cr THEORY-tmpoak8v — Proposed or newly filed; readings and the claim cited -->
+
+Readings filed for the owner's question whether three-year-olds have the
+theory of mind a mutual-expectation reading of equal sharing needs. They
+bear on this account four ways. (1) With windfalls, three-year-olds state
+equal division as the norm but keep more for themselves (THEORY-tmpitywd),
+so collaboration bears on following the norm, not on knowing it. (2)
+Recursive mindreading arrives years after three (THEORY-tmpj4l2c,
+THEORY-tmpsn2t0), and Tomasello himself holds that three-year-olds
+coordinate perspectives poorly (THEORY-tmpf3zwk); recursive coordination
+is shown at six (THEORY-tmpjqrp3). (3) Tacit coordination on salience
+appears from about five, not three (LIT-tmpkwxfx, abstract;
+THEORY-tmpuerfk). (4) Killen (THEORY-tmpgv0cr) gives a rival reading: the
+"we" does not suffice, independent judgment and peer conflict do. Killen
+and Smetana note the motive behind the equal sharing was never examined
+(THEORY-tmpoak8v). The owner's claim CLAIM-tmpue255 builds on this
+account, reading the joint commitment as the motive and a known equal
+default as the content.
