@@ -1,5 +1,6 @@
 ---
 <!-- inactive-ok-file: ADR-102 — Proposed; two further kinds of lawful copy, the owner's ruling of 2026-11-18 -->
+<!-- inactive-ok-file: ADR-tmpj7wqa — Proposed; course-hosted copies, whole books included, the owner's ruling of 2026-11-20 -->
 name: read-and-file
 description: How this record takes in reading. Use it to file an exchange, a pasted synthesis, an upload or a single work; to check whether something is "already on the record"; or to read registered works and file the readings. ADR-068 holds the invariants; this file holds the steps.
 ---
@@ -120,8 +121,11 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   kinds count (ADR-102): a copy whose host states it is published
   with the rights holders' permission (the publisher, author or estate,
   named), with the statement quoted in the NOTE; and a reply posted by the
-  scholar it answers, on that scholar's site beside their own paper. A
-  brief may narrow this only with a reason stated in the curation entry.
+  scholar it answers, on that scholar's site beside their own paper. And
+  anything a course hosts counts, on its page or its site, a whole
+  in-copyright book included (ADR-tmpj7wqa); a course's link to an excluded host does
+  not. A brief may narrow this only with a reason stated in the curation
+  entry.
 - **Stop at any bot check**: captcha, Cloudflare or WAF challenge,
   "Access Denied", rate limit, paywall. Never try to get around one.
   Retrying the same host doesn't help either.
