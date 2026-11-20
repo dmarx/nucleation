@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others'
+title: 'Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers'' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others'
 version: 1
 source:
 - LIT-tmp629tl
