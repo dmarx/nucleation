@@ -68,26 +68,26 @@ answering it. The criterion is filed as [THEORY-232](../theory.d/THEORY-232.md),
 relation to this question for that reason.
 
 ## Note of 2026-11-20: works cited in the Tomasello interview, read
-<!-- inactive-ok-file: THEORY-tmpqxwyk THEORY-tmpwr5sp — Proposed; the readings' accounts -->
+<!-- inactive-ok-file: THEORY-2120 THEORY-2127 — Proposed; the readings' accounts -->
 
 Two contrast cases: Schelling's tacit coordination on focal points
-([LIT-tmp4uor8](../literature.d/LIT-tmp4uor8.md); account [THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md)) and Keller's invisible-hand
-language change ([LIT-tmp0ucsz](../literature.d/LIT-tmp0ucsz.md); account [THEORY-tmpwr5sp](../theory.d/THEORY-tmpwr5sp.md)) are patterns of
+([LIT-2894](../literature.d/LIT-2894.md); account [THEORY-2120](../theory.d/THEORY-2120.md)) and Keller's invisible-hand
+language change ([LIT-2888](../literature.d/LIT-2888.md); account [THEORY-2127](../theory.d/THEORY-2127.md)) are patterns of
 coordination, the second sustained across a whole speech community, that
 neither author treats as an additional agent; Tomasello's role of roles
-([LIT-tmp13v45](../literature.d/LIT-tmp13v45.md)) holds that coordination without a joint goal, as in
+([LIT-2890](../literature.d/LIT-2890.md)) holds that coordination without a joint goal, as in
 chimpanzee group hunting, has no roles and no joint agent. Evidence on
-where the line falls; relations written: [THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md) and
-[THEORY-tmpwr5sp](../theory.d/THEORY-tmpwr5sp.md) bear_on this question.
+where the line falls; relations written: [THEORY-2120](../theory.d/THEORY-2120.md) and
+[THEORY-2127](../theory.d/THEORY-2127.md) bear_on this question.
 
 ## Note of 2026-11-20: Tomasello on markets and shared agents, an interview
-<!-- inactive-ok-file: THEORY-tmpx361j — Proposed; the account -->
+<!-- inactive-ok-file: THEORY-2128 — Proposed; the account -->
 
-In a 2026 interview ([LIT-tmpfusyv](../literature.d/LIT-tmpfusyv.md), read in [NOTE-tmpkd5w9](../notes.d/NOTE-tmpkd5w9.md); account
-[THEORY-tmpx361j](../theory.d/THEORY-tmpx361j.md)) Tomasello answers within his own view: markets and
+In a 2026 interview ([LIT-2905](../literature.d/LIT-2905.md), read in [NOTE-2196](../notes.d/NOTE-2196.md); account
+[THEORY-2128](../theory.d/THEORY-2128.md)) Tomasello answers within his own view: markets and
 capital are not agents ("I'm not a big fan of talking about inanimate
 things as agents"); traffic jams, inflation and crashes are phenomena of
 the third kind that emerge from individuals' intentional acts; a shared
 agent needs a joint goal, roles and mutual knowledge. Evidence for the
-negative side for emergent regularities. Relation written: [THEORY-tmpx361j](../theory.d/THEORY-tmpx361j.md)
+negative side for emergent regularities. Relation written: [THEORY-2128](../theory.d/THEORY-2128.md)
 bears_on this question.

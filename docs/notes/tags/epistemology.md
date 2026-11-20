@@ -4,7 +4,7 @@
 
 **epistemology**.
 
-85 of 2179 NOTE documents. Back to the [full index](../README.md).
+89 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -93,3 +93,7 @@
 | [NOTE-2176](../../../record/notes.d/NOTE-2176.md) | Kuhn — The Structure of Scientific Revolutions | Paradigms make later puzzle-solving tractable and restrict what can be asked; their rigidity detects anomaly; revolutions change problems, standards and learned similarity relations, with losses. Exemplars teach a tacit similarity relation, with diminishing returns. Interpretive history. | Read |
 | [NOTE-2177](../../../record/notes.d/NOTE-2177.md) | Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions | Kuhn's essential tension, through a stand-in: convergent training in a tradition is a precondition of breaking with it, because a precise paradigm makes anomaly visible. Carries the thesis and two quoted sentences, not the essay. | Read |
 | [NOTE-2178](../../../record/notes.d/NOTE-2178.md) | Kuhn — Second Thoughts on Paradigms | Exemplars teach a learned similarity relation, prior to criteria, which makes new problems tractable; knowledge lives in that relation, and replacing it with rules changes it. Interpretive, with a historical chain and a thought experiment; no measurement. | Read |
+| [NOTE-2199](../../../record/notes.d/NOTE-2199.md) | Davidson — Rational Animals | Rationality as having propositional attitudes; against animal belief: attitudes need the concept of belief, which needs the concept of objective truth, which only communication supplies; triangulation; the decisive step admitted unproven. | Read |
+| [NOTE-2202](../../../record/notes.d/NOTE-2202.md) | Butterfill and Apperly — How to Construct a Minimal Theory of Mind | A minimal theory of mind: registrations instead of beliefs; passes location false-belief tasks, fails identity ones; no embedding, so no nested beliefs; nothing on coordination. | Read |
+| [NOTE-2208](../../../record/notes.d/NOTE-2208.md) | Choifer — Interpretational Complexities in Developmental Research and a Piagetian Reading of the False-Belief Task | A defence of Piaget's concept of egocentrism as self–other undifferentiation; early perspective-switching is subject-less; false belief marks differentiation; doubts implicit false-belief claims. | Read |
+| [NOTE-2211](../../../record/notes.d/NOTE-2211.md) | Tomasello — How children come to understand false beliefs: A shared intentionality account | False-belief understanding as an outcome of coordinating perspectives in cooperative interaction; infants and apes track epistemic states without comparing them to reality; 3-year-olds are pulled to the real; second-order belief comes naturally in cooperative coordination at 6. | Read |

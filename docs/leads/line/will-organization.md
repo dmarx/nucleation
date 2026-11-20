@@ -6,7 +6,7 @@
 
 **Will-organization** — what organizes practical efficacy in an agent, and how that organization becomes precarious. Normative judgment about organizations is a line of its own (ADR-089).
 
-22 of 197 LEAD documents. Back to the [full index](../README.md).
+22 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

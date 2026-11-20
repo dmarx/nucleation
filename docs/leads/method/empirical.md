@@ -6,7 +6,7 @@
 
 **Empirical** — observe, measure, or run an experiment or simulation.
 
-99 of 197 LEAD documents. Back to the [full index](../README.md).
+100 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -109,3 +109,4 @@
 | [LEAD-191](../../../record/leads.d/LEAD-191.md) | Compare a sheaf route that allows signalling with Contextuality-by-Default 2.0 on one signalling data set, where their verdicts diverge | Named in [CLAIM-037](../../../record/claims.d/CLAIM-037.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-193](../../../record/leads.d/LEAD-193.md) | Run the study of investigators starting from an equilibrium-only schema on a synthetic oscillatory system, with three regimes on the same benchmarks | Named in [CLAIM-470](../../../record/claims.d/CLAIM-470.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-197](../../../record/leads.d/LEAD-197.md) | Run the assisted-learning study: learners matched on starting skill, practising under an assistant that does the hard step for them or one that does not | Named in [CLAIM-675](../../../record/claims.d/CLAIM-675.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-198](../../../record/leads.d/LEAD-198.md) | Test whether the joint commitment supplies the motive and the conspicuous split the content of children's equal division, by crossing commitment with the availability of a salient or known split | The crossed design that would test [CLAIM-766](../../../record/claims.d/CLAIM-766.md): commitment against no commitment, crossed at age five and over with a salient against no salient split, and at age three with a stated equality norm against a novel division with no stated norm. First step: search for published studies that already cross these factors. Filed with the developmental readings of 2026-11-20. | Open |

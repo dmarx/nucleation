@@ -66,13 +66,13 @@ a collective good close to a larger self's, and Sugden's cooperative
 reasoner intends each member's benefit with no larger self in play.
 
 ## Note of 2026-11-20: empirical tests of team reasoning, read
-<!-- inactive-ok-file: THEORY-tmpuucqv THEORY-tmp82rjz THEORY-tmpuerfk — Proposed; the accounts cited -->
+<!-- inactive-ok-file: THEORY-2123 THEORY-2100 THEORY-2122 — Proposed; the accounts cited -->
 
 Three readings of 2026-11-20 test team reasoning. Bardsley, Mehta, Starmer
-and Sugden ([THEORY-tmpuucqv](THEORY-tmpuucqv.md)) find it in one adult sample and
+and Sugden ([THEORY-2123](THEORY-2123.md)) find it in one adult sample and
 cognitive-hierarchy guessing in another; Colman, Pulford and Lawrence
-([THEORY-tmp82rjz](THEORY-tmp82rjz.md)) find level-1 reasoning dominant and team reasoning a
+([THEORY-2100](THEORY-2100.md)) find level-1 reasoning dominant and team reasoning a
 minority that grows with game size, and note it needs a belief that the
-other team-reasons; Perez-Zapata and colleagues ([THEORY-tmpuerfk](THEORY-tmpuerfk.md)) find
+other team-reasons; Perez-Zapata and colleagues ([THEORY-2122](THEORY-2122.md)) find
 tacit coordination in children from 4–5. Team reasoning avoids nested
 beliefs but conditions on expecting the partner to reason alike.

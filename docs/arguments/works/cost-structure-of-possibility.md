@@ -6,7 +6,7 @@
 
 **The Cost Structure of Possibility** — the owner's manuscript, requested at U19 of the exchange "Topological protection explained" and drafted by ChatGPT on 2026-11-19 (A43): Historical Investment, Effective Constraints, and the Emergence of Capabilities. An emergent organization is a historically accumulated investment that changes the cost structure of future possibility: past work leaves constraints that change what can be realized under bounded resources, including the cost of building further organization, and what it makes cheap can also lock in, so capability is kept apart from substantive freedom. Its argument is held mainly in the lines realizability and formal-apparatus, with will-organization and transient-support for its normative part.
 
-1 of 122 ARG documents. Back to the [full index](../README.md).
+1 of 123 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

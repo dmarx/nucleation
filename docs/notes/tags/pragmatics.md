@@ -4,7 +4,7 @@
 
 **pragmatics**.
 
-28 of 2179 NOTE documents. Back to the [full index](../README.md).
+31 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -36,3 +36,6 @@
 | [NOTE-1453](../../../record/notes.d/NOTE-1453.md) | Harnish — Commitments and Speech Acts | Harnish sets the Gricean expressed-attitude theory against normative theories of illocution. On Bach and Harnish, communicative acts are individuated by the attitude the speaker expresses, that is, reflexively intends the hearer to take the utterance as reason to ascribe. Institutional acts are a separate class. Searle's account of how speech creates commitment is unexplained, and Alston's rule-subjection analysis fails. Expressing the belief that P and taking responsibility for P may be equivalent, so the normative theory may be the same facts redescribed. Teasing and the audience's standing are not discussed. | Read |
 | [NOTE-1487](../../../record/notes.d/NOTE-1487.md) | Wilhoit — Ventriloquism's methodological scope | A short reply to Cooren (2014). Montréal School CCO's commitment to interaction makes conversation analysis its method of choice, so ventriloquism carries epistemological and methodological commitments that other communication traditions will not share, and it cannot be the open metamodel Craig (1999) called for. Dialogue is instead coming from CCO studies that use other methods. It says nothing about agents being entified. | Read |
 | [NOTE-1882](../../../record/notes.d/NOTE-1882.md) | Clark and Brennan — Grounding in communication | Every collective action rests on common ground: mutual knowledge, mutual beliefs and mutual assumptions. Communication needs that common ground to be updated moment by moment. The process that updates it is **grounding**. | Read |
+| [NOTE-2198](../../../record/notes.d/NOTE-2198.md) | Tomasello — Why Don't Apes Point? | Apes gesture flexibly but never point for each other: they lack communicative-intention understanding, common ground, helping and sharing motives, and bidirectional conventions; all trace to shared intentionality; pointing already has language's collaborative structure. | Read |
+| [NOTE-2210](../../../record/notes.d/NOTE-2210.md) | Tomasello — Communicating Without Conventions: The Co-operation Model | Pragmatics as the foundation: natural gestures show communication's cooperative structure in the raw; apes lack it; three motives, common ground, an overt Gricean intention and the norms it creates; collaborative foraging; conventions from iconic gestures grown opaque. | Read |
+| [NOTE-2212](../../../record/notes.d/NOTE-2212.md) | Bohn, Kachel and Tomasello — Young children spontaneously recreate core properties of language in a new modality | Children aged 3–8 in pairs create iconic gestures to communicate when sound is cut; signs converge within pairs, drift slightly toward arbitrariness with reduced effort, and combine compositionally for complex relations, not in German word order. N = 198. | Read |

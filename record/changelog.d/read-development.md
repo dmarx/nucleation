@@ -6,6 +6,6 @@
   Meltzoff, Moll and Kadipasaoglu, Choifer), fairness since Piaget (Killen
   and Smetana, McAuliffe et al., Killen 2018) and team reasoning (Bardsley
   et al., Colman et al., Perez-Zapata et al., Grueneisen et al.).
-- The owner's claim [CLAIM-tmpue255](record/claims.d/CLAIM-tmpue255.md) that the joint commitment supplies the motive and
+- The owner's claim [CLAIM-766](record/claims.d/CLAIM-766.md) that the joint commitment supplies the motive and
   a conspicuous equal split the content of children's equal division, with
-  its argument [ARG-tmp3r9ay](record/arguments.d/ARG-tmp3r9ay.md) and the crossed test [LEAD-tmpxakgu](record/leads.d/LEAD-tmpxakgu.md).
+  its argument [ARG-123](record/arguments.d/ARG-123.md) and the crossed test [LEAD-198](record/leads.d/LEAD-198.md).

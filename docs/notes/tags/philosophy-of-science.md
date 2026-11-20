@@ -4,7 +4,7 @@
 
 **philosophy-of-science**.
 
-180 of 2179 NOTE documents. Back to the [full index](../README.md).
+181 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -188,3 +188,4 @@
 | [NOTE-2176](../../../record/notes.d/NOTE-2176.md) | Kuhn — The Structure of Scientific Revolutions | Paradigms make later puzzle-solving tractable and restrict what can be asked; their rigidity detects anomaly; revolutions change problems, standards and learned similarity relations, with losses. Exemplars teach a tacit similarity relation, with diminishing returns. Interpretive history. | Read |
 | [NOTE-2177](../../../record/notes.d/NOTE-2177.md) | Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions | Kuhn's essential tension, through a stand-in: convergent training in a tradition is a precondition of breaking with it, because a precise paradigm makes anomaly visible. Carries the thesis and two quoted sentences, not the essay. | Read |
 | [NOTE-2178](../../../record/notes.d/NOTE-2178.md) | Kuhn — Second Thoughts on Paradigms | Exemplars teach a learned similarity relation, prior to criteria, which makes new problems tractable; knowledge lives in that relation, and replacing it with rules changes it. Interpretive, with a historical chain and a thought experiment; no measurement. | Read |
+| [NOTE-2205](../../../record/notes.d/NOTE-2205.md) | Rakoczy — Foundations of theory of mind and its development in early childhood | Transitions at about 9 months and 4 years; recursive mindreading later and gradual; the implicit false-belief findings largely fail to replicate. | Read |

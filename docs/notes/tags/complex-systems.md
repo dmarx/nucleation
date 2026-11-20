@@ -4,7 +4,7 @@
 
 **complex-systems**.
 
-232 of 2179 NOTE documents. Back to the [full index](../README.md).
+233 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -240,3 +240,4 @@
 | [NOTE-2123](../../../record/notes.d/NOTE-2123.md) | Rupe and Crutchfield 2018 — Local Causal States and Discrete Coherent Structures |  | Read |
 | [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |
 | [NOTE-2135](../../../record/notes.d/NOTE-2135.md) | Mordvintsev and others 2020 — Growing Neural Cellular Automata |  | Read |
+| [NOTE-2183](../../../record/notes.d/NOTE-2183.md) | Keller — Sprachwandel | Language as conventions changed by systematic breaches; a phenomenon of the third kind, like a path trodden across a lawn; invisible-hand explanation in three stages, from speakers' maxims to structure; structural, not specific, predictions. In German. | Read |

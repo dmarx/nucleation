@@ -4,7 +4,7 @@
 
 **natural-sciences**.
 
-244 of 2179 NOTE documents. Back to the [full index](../README.md).
+246 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -252,3 +252,5 @@
 | [NOTE-2124](../../../record/notes.d/NOTE-2124.md) | Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors |  | Skimmed |
 | [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |
 | [NOTE-2179](../../../record/notes.d/NOTE-2179.md) | Alexander — A Biological Interpretation of Moral Systems | Moral systems as indirect reciprocity: conflicts of reproductive interest, softened by nepotism and reciprocity, with returns from observers rather than the person helped. Selects for conscience, self-deception and indiscriminate altruism as social investment; practised morality is in-group cohesion. Verbal model, individual-level selection. Stand-in for the 1987 book. | Read |
+| [NOTE-2191](../../../record/notes.d/NOTE-2191.md) | Tomasello — An agency-based model of executive and metacognitive regulation | Agency as tiered feedback control: executive regulation of action and attention, metacognitive regulation of the executive; four evolutionary grades; the same architectures in development, with joint agency at 9–12 months and collective agency at 3–4. Cognitive flexibility as coordinating perspectives learnt in shared agency. A conceptual essay. | Read |
+| [NOTE-2195](../../../record/notes.d/NOTE-2195.md) | Tomasello — Social cognition and metacognition in great apes: a theory | Apes understand others as agents (goals, perception, knowledge; beliefs unclear) and monitor their own uncertainty; theory: a metacognitive tier added to the mammalian executive tier, with self-monitored states attributed to others. Five predictions. A review with a theory. | Read |

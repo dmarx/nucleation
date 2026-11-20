@@ -6,7 +6,7 @@
 
 **Conceptual** — draw or test a distinction, construct cases or counterexamples.
 
-27 of 197 LEAD documents. Back to the [full index](../README.md).
+27 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

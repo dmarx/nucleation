@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 128 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 129 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -264,3 +264,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
 - [CLAIM-756](../record/claims.d/CLAIM-756.md) — An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted *(Proposed, thesis)*
   - [ARG-120](../record/arguments.d/ARG-120.md) — The stipulated two-step acquisition shows that an acquisition with a negative return on its own tasks can belong to the best learning policy, because of what it does to the cost of another *(Proposed, existence)*
   - [ARG-122](../record/arguments.d/ARG-122.md) — The formal-language and procedural first phases show that an earlier acquisition can lower a later one's cost with its own cost counted, but the compute-matched null shows this is not a general property of pretraining with a first phase, so they support the claim's premise as possibility and no more *(Proposed, existence)*
+- [CLAIM-766](../record/claims.d/CLAIM-766.md) — In children's equal division of jointly earned spoils, the joint "we" supplies the motive to settle the division and the equal split supplies its content as the conspicuous solution the situation affords, so the obligation reading and the coordination reading are complementary, and at age three the conspicuous split is a known default rather than a focal point found by mutual expectation *(Proposed, thesis)*
+  - [ARG-123](../record/arguments.d/ARG-123.md) — The age-three pattern, equality stated as a norm but kept to only after collaboration, with mutual expectation and tacit salience unavailable at that age, is best explained by a joint commitment that motivates settling a division whose content is an already-known equal default *(Proposed, abduction)*

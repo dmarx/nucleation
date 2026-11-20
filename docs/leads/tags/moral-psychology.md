@@ -6,8 +6,9 @@
 
 **Moral psychology** — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
-1 of 197 LEAD documents. Back to the [full index](../README.md).
+2 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-150](../../../record/leads.d/LEAD-150.md) | Read the works on bidirectional violence | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-198](../../../record/leads.d/LEAD-198.md) | Test whether the joint commitment supplies the motive and the conspicuous split the content of children's equal division, by crossing commitment with the availability of a salient or known split | The crossed design that would test [CLAIM-766](../../../record/claims.d/CLAIM-766.md): commitment against no commitment, crossed at age five and over with a salient against no salient split, and at age three with a stated equality norm against a novel division with no stated norm. First step: search for published studies that already cross these factors. Filed with the developmental readings of 2026-11-20. | Open |

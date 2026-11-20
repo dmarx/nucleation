@@ -6,7 +6,7 @@
 
 **Controlled contrast** — two cases alike except in one factor differ in outcome, so the factor matters (the method of difference). Critical questions: is everything said to be held fixed really fixed? Does changing the factor change anything else? Is the case realistic, or only coherent?.
 
-6 of 122 ARG documents. Back to the [full index](../README.md).
+6 of 123 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

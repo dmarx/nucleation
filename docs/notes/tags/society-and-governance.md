@@ -4,7 +4,7 @@
 
 **society-and-governance**.
 
-271 of 2179 NOTE documents. Back to the [full index](../README.md).
+273 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -279,3 +279,5 @@
 | [NOTE-2081](../../../record/notes.d/NOTE-2081.md) | 49 U.S.C. § 1154 — the bar on NTSB reports in damages actions | § 1154(b) bars any part of a report of the Board on an accident from being admitted or used "in a civil action for damages resulting from a matter mentioned in the report". The NTSB's regulations confine it to the Board's report of its determinations and probable cause, leave its investigators' factual reports admissible, give its purpose as keeping the Board free of "the entanglement of such suits", and describe investigations as "not conducted for the purpose of determining the rights, liabilities, or blame of any person or entity". | Read |
 | [NOTE-2082](../../../record/notes.d/NOTE-2082.md) | Lunney and Lueder — Postmortem Culture: Learning from Failure | Google's statement of blameless postmortem practice. A postmortem records an incident, its root causes and follow-up actions; it must identify "the contributing causes of the incident without indicting any individual or team", because under blame "people will not bring issues to light for fear of punishment". It is reviewed by senior engineers and shared widely, and the practice is kept up by reward and by asking teams how the process could improve. Norms and practice, with no data on what postmortems trace or fix. | Read |
 | [NOTE-2083](../../../record/notes.d/NOTE-2083.md) | Cook — How Complex Systems Fail | Eighteen theses on failure in hazardous systems. Accidents need several latent failures joined, so "there is no isolated 'cause'", and root-cause attribution answers "the social, cultural need to blame specific, localized forces or events". Organizations leave the trade between production and risk ambiguous, often intentionally, and the sharp end resolves it; hindsight then calls the result error. Systems run degraded because people keep them working, a defending role outsiders see only after accidents. | Read |
+| [NOTE-2184](../../../record/notes.d/NOTE-2184.md) | Recht — Announcing The Irrational Decision | Mathematical rationality as risk analysis under one currency; valid in narrow sweet spots (regulation, engineering, fair games); most decisions, especially political ones, not delegable; mathematical pluralism; language models built on the same formalism. | Read |
+| [NOTE-2193](../../../record/notes.d/NOTE-2193.md) | Schelling — Bargaining, Communication, and Limited War | Tacit coordination on focal points: prominence and uniqueness for these parties; explicit bargaining also needs converging expectations; fairness partly a focusing device; tacit limits in war must be qualitative. | Read |

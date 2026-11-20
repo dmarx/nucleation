@@ -6,7 +6,7 @@
 
 **Reading** — read a work, or register and read one.
 
-63 of 197 LEAD documents. Back to the [full index](../README.md).
+64 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -73,3 +73,4 @@
 | [LEAD-189](../../../record/leads.d/LEAD-189.md) | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-192](../../../record/leads.d/LEAD-192.md) | Prove a projection perturbation bound for the coarse-graining claim, reading the biorthogonal diffusion wavelets first | Named in [NOTE-984](../../../record/notes.d/NOTE-984.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-196](../../../record/leads.d/LEAD-196.md) | Read the consumer-resource competition works | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-198](../../../record/leads.d/LEAD-198.md) | Test whether the joint commitment supplies the motive and the conspicuous split the content of children's equal division, by crossing commitment with the availability of a salient or known split | The crossed design that would test [CLAIM-766](../../../record/claims.d/CLAIM-766.md): commitment against no commitment, crossed at age five and over with a salient against no salient split, and at age three with a stated equality norm against a novel division with no stated norm. First step: search for published studies that already cross these factors. Filed with the developmental readings of 2026-11-20. | Open |

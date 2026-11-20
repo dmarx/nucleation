@@ -217,9 +217,9 @@ computational version, a system that predicts and regulates a body would
 have affect. Damasio & Carvalho and Seth tie affect to living tissue.
 
 ## Note of 2026-11-20: works cited in the Tomasello interview, read
-<!-- inactive-ok-file: THEORY-tmplxowv — Proposed; the reading's account -->
+<!-- inactive-ok-file: THEORY-2115 — Proposed; the reading's account -->
 
-Block 2026 ([LIT-tmpuii0h](../literature.d/LIT-tmpuii0h.md), [NOTE-tmpshpsc](../notes.d/NOTE-tmpshpsc.md); account [THEORY-tmplxowv](THEORY-tmplxowv.md)) supports
+Block 2026 ([LIT-2925](../literature.d/LIT-2925.md), [NOTE-2204](../notes.d/NOTE-2204.md); account [THEORY-2115](THEORY-2115.md)) supports
 and extends this account: the leading theories are meat-neutral, so
 architectural indicators presuppose computational functionalism, and the
 alternative that consciousness depends on biological realizers is, he

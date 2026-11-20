@@ -6,7 +6,7 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-10 of 197 LEAD documents. Back to the [full index](../README.md).
+11 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [LEAD-180](../../../record/leads.d/LEAD-180.md) | Run the robust-governance study: four governance architectures over cooperative, honestly dissenting and adversarial specialists, including an evaluator-capture variant | Named in [QUESTION-087](../../../record/questions.d/QUESTION-087.md) and [CASE-108](../../../record/cases.d/CASE-108.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-186](../../../record/leads.d/LEAD-186.md) | Read the owed IP-Adapter work and test whether a LoRA learned on one base model is reusable on its successor | Named in [ARG-079](../../../record/arguments.d/ARG-079.md) and the curation entry of 2026-11-12 (015626). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-187](../../../record/leads.d/LEAD-187.md) | Find or run a transmission chain whose endpoint is compared with a prior measured on its own transmitters before transmission, and chains started from different stances | [CLAIM-090](../../../record/claims.d/CLAIM-090.md) is the premise of [CLAIM-068](../../../record/claims.d/CLAIM-068.md), which is the premise of [CLAIM-059](../../../record/claims.d/CLAIM-059.md). Named in [CLAIM-090](../../../record/claims.d/CLAIM-090.md) and [CLAIM-068](../../../record/claims.d/CLAIM-068.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-198](../../../record/leads.d/LEAD-198.md) | Test whether the joint commitment supplies the motive and the conspicuous split the content of children's equal division, by crossing commitment with the availability of a salient or known split | The crossed design that would test [CLAIM-766](../../../record/claims.d/CLAIM-766.md): commitment against no commitment, crossed at age five and over with a salient against no salient split, and at age three with a stated equality norm against a novel division with no stated norm. First step: search for published studies that already cross these factors. Filed with the developmental readings of 2026-11-20. | Open |

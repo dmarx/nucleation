@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-44 of 2179 NOTE documents. Back to the [full index](../README.md).
+46 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -52,3 +52,5 @@
 | [NOTE-1451](../../../record/notes.d/NOTE-1451.md) | Nida — Principles of Correspondence | Nida sets out formal and dynamic equivalence. Formal equivalence matches the message's form and content and suits gloss translations with notes. Dynamic equivalence follows the principle of equivalent effect: the receptor's relation to the message should be substantially what the original receptors' was, as in Phillips's handshake for the holy kiss. It is "the closest natural equivalent" to the source message, natural to the receptor language, the message's context and the audience. It must still reflect the source's meaning and intent, with meaning before style. There is no single right answer. | Read |
 | [NOTE-2146](../../../record/notes.d/NOTE-2146.md) | Opper, Morrison and Siddharth — On the effect of curriculum learning with developmental data for grammar acquisition | Curricula by sequence complexity, by modality and by corpus complexity, at a fixed 120k steps on BabyLM strict-small, scored on BLiMP and held- out zero-shot tasks, three seeds. Random sampling is hard to beat; speech beats text; ordering effects are about a point or less. | Read |
 | [NOTE-2163](../../../record/notes.d/NOTE-2163.md) | Papadimitriou and Jurafsky — Learning Music Helps You Read | TILT: train an LSTM on a first corpus, freeze it, finetune only embeddings on Spanish. Code, music and paired-token languages transfer far better than random text; flat pairs equal nesting; transfer among natural languages tracks syntactic distance. No full-finetuning arm and no cost measure. | Read |
+| [NOTE-2183](../../../record/notes.d/NOTE-2183.md) | Keller — Sprachwandel | Language as conventions changed by systematic breaches; a phenomenon of the third kind, like a path trodden across a lawn; invisible-hand explanation in three stages, from speakers' maxims to structure; structural, not specific, predictions. In German. | Read |
+| [NOTE-2212](../../../record/notes.d/NOTE-2212.md) | Bohn, Kachel and Tomasello — Young children spontaneously recreate core properties of language in a new modality | Children aged 3–8 in pairs create iconic gestures to communicate when sound is cut; signs converge within pairs, drift slightly toward arbitrariness with reduced effort, and combine compositionally for complex relations, not in German word order. N = 198. | Read |

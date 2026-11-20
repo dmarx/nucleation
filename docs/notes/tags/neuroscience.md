@@ -4,7 +4,7 @@
 
 **neuroscience**.
 
-154 of 2179 NOTE documents. Back to the [full index](../README.md).
+156 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -162,3 +162,5 @@
 | [NOTE-2167](../../../record/notes.d/NOTE-2167.md) | Driscoll, Shenoy and Sussillo — Flexible multitask computation in recurrent networks utilizes shared dynamical motifs | Shared dynamical motifs in multitask RNNs; transfer by training only a rule input, fast when the needed motif was learned before; lesions of motif clusters, on trained networks only. No matched comparison of organizations; no intervention on the transferred motif. | Read |
 | [NOTE-2170](../../../record/notes.d/NOTE-2170.md) | Ito and colleagues — Compositional generalization through abstract representations in human and artificial neural networks | Rule primitives pretrained first make a compositional rule task cheaper to learn and generalize zero-shot; abstraction measured by a parallelism score; order of pretraining decisive. Correlational for mechanism. | Read |
 | [NOTE-2171](../../../record/notes.d/NOTE-2171.md) | Goudar and colleagues — Schema formation in a neural population subspace underlies learning-to-learn in flexible sensorimotor problem-solving | Harlow-style learning-to-learn in an RNN, trials to criterion falling exponentially; a reused decision subspace; a readout perturbation that removes the saving. One kind of learner; the representation itself is not ablated. | Read |
+| [NOTE-2186](../../../record/notes.d/NOTE-2186.md) | Solms — The Hard Problem of Consciousness and the Free Energy Principle | Dual-aspect monism; consciousness generated in the upper brainstem, not cortex, and affective; feeling as precision-weighting among homeostatic needs under the free-energy principle; consciousness as felt uncertainty. | Read |
+| [NOTE-2204](../../../record/notes.d/NOTE-2204.md) | Block — Can only meat machines be conscious? | Role against realizer as two bases for extrapolating consciousness; the meat hypothesis as plausible as computational functionalism; the major theories meat-neutral; AI against simple animals; electrochemical computation as the candidate realizer. | Read |

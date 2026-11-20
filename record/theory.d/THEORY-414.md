@@ -155,9 +155,9 @@ makes an equilibrium an institution is the players' representing it as a
 rule.
 
 ## Note of 2026-11-20: works cited in the Tomasello interview, read
-<!-- inactive-ok-file: THEORY-tmpqxwyk — Proposed; the reading's account -->
+<!-- inactive-ok-file: THEORY-2120 — Proposed; the reading's account -->
 
-Schelling ([LIT-tmp4uor8](../literature.d/LIT-tmp4uor8.md), [NOTE-tmpi86i1](../notes.d/NOTE-tmpi86i1.md); account [THEORY-tmpqxwyk](THEORY-tmpqxwyk.md)) supplies
+Schelling ([LIT-2894](../literature.d/LIT-2894.md), [NOTE-2193](../notes.d/NOTE-2193.md); account [THEORY-2120](THEORY-2120.md)) supplies
 the mechanism this account presupposes for selecting among several
 equilibria: focal points, options the shared situation makes prominent and
 unique, on which mutual expectations converge. Support for the selection

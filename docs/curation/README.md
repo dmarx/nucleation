@@ -6,6 +6,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [20 Nov 05:51 — Developmental readings for the owner's question whether three-year-olds' equal sharing can rest on mutual expectation: theory of mind, perspective-taking, fairness since Piaget and team reasoning, with the owner's claim that commitment and conspicuity are complementary](2026-11.md#developmental-readings-for-the-owners-question-whether-three-year-olds-equal-sharing-can-rest-on-mutual-expectation-theory-of-mind-perspective-taking-fairness-since-piaget-and-team-reasoning-with-the-owners-claim-that-commitment-and-conspicuity-are-complementary)
+- [20 Nov 05:01 — The works cited in a 2026 interview with Michael Tomasello: twelve not held, five read directly, six read through stand-ins, one through its abstract](2026-11.md#the-works-cited-in-a-2026-interview-with-michael-tomasello-twelve-not-held-five-read-directly-six-read-through-stand-ins-one-through-its-abstract)
+- [20 Nov 04:49 — Tomasello's comparative and developmental work read at the owner's request: shared intentionality, the interdependence hypothesis and Tomasello and Vaish read; the morality précis and The Evolution of Agency registered and read through stand-ins](2026-11.md#tomasellos-comparative-and-developmental-work-read-at-the-owners-request-shared-intentionality-the-interdependence-hypothesis-and-tomasello-and-vaish-read-the-morality-précis-and-the-evolution-of-agency-registered-and-read-through-stand-ins)
 - [20 Nov 04:39 — Alexander's The Biology of Moral Systems sought under the course-copy rule, blocked by a bot check, and read through his own 1985 statement of its thesis](2026-11.md#alexanders-the-biology-of-moral-systems-sought-under-the-course-copy-rule-blocked-by-a-bot-check-and-read-through-his-own-1985-statement-of-its-thesis)
 - [20 Nov 03:02 — Question dependencies backfilled: four presupposes edges among the open questions, and eleven probable ones left for the owner](2026-11.md#question-dependencies-backfilled-four-presupposes-edges-among-the-open-questions-and-eleven-probable-ones-left-for-the-owner)
 - [19 Nov 23:42 — Kuhn read at the owner's suggestion: three works on paradigms, exemplars and the essential tension, as interpretive corroboration for learning that makes later learning cheaper](2026-11.md#kuhn-read-at-the-owners-suggestion-three-works-on-paradigms-exemplars-and-the-essential-tension-as-interpretive-corroboration-for-learning-that-makes-later-learning-cheaper)
@@ -109,10 +112,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-297 entries across 3 books, newest first.
+300 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 100 | 2026-11-01 | 2026-11-20 |
+| [2026-11](2026-11.md) | 103 | 2026-11-01 | 2026-11-20 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

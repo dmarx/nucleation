@@ -4,7 +4,7 @@
 
 **probabilistic-modeling**.
 
-164 of 2179 NOTE documents. Back to the [full index](../README.md).
+165 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -172,3 +172,4 @@
 | [NOTE-2095](../../../record/notes.d/NOTE-2095.md) | Larremore and others 2014 — Efficiently inferring community structure in bipartite networks |  | Read |
 | [NOTE-2105](../../../record/notes.d/NOTE-2105.md) | Friston and others 2026 — Active inference and artificial reasoning |  | Read |
 | [NOTE-2117](../../../record/notes.d/NOTE-2117.md) | Smith, Friston and Whyte 2022 — A step-by-step tutorial on active inference and its application to empirical data |  | Skimmed |
+| [NOTE-2184](../../../record/notes.d/NOTE-2184.md) | Recht — Announcing The Irrational Decision | Mathematical rationality as risk analysis under one currency; valid in narrow sweet spots (regulation, engineering, fair games); most decisions, especially political ones, not delegable; mathematical pluralism; language models built on the same formalism. | Read |

@@ -6,7 +6,7 @@
 
 **Formal** — prove, derive, construct a model or a countermodel.
 
-58 of 197 LEAD documents. Back to the [full index](../README.md).
+58 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

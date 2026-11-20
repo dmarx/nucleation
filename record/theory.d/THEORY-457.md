@@ -94,8 +94,8 @@ been divided alike. They were not.
 
 ## Note of 2026-11-20: Tomasello 2012 and 2013, read
 
-A close parallel: Tomasello and colleagues 2012 ([LIT-tmpsh1xk](../literature.d/LIT-tmpsh1xk.md)) and
-Tomasello and Vaish 2013 ([LIT-tmpxn5g7](../literature.d/LIT-tmpxn5g7.md)) also derive helping and fairness
+A close parallel: Tomasello and colleagues 2012 ([LIT-2921](../literature.d/LIT-2921.md)) and
+Tomasello and Vaish 2013 ([LIT-2929](../literature.d/LIT-2929.md)) also derive helping and fairness
 from mutualistic collaboration and partner choice, by reputation as a good
 collaborator, with reciprocity demoted. They add the shared-intentionality
 psychology and a second, group-level step.

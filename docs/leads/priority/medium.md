@@ -6,7 +6,7 @@
 
 **Medium** — would move an entry in force or a question with some weight in its line.
 
-125 of 197 LEAD documents. Back to the [full index](../README.md).
+126 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -135,3 +135,4 @@
 | [LEAD-195](../../../record/leads.d/LEAD-195.md) | Rule on whether a symmetry or conservation law, or a possibility fact in Deutsch and Marletto's sense, counts as realizing a constraint | Named in [CLAIM-477](../../../record/claims.d/CLAIM-477.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-196](../../../record/leads.d/LEAD-196.md) | Read the consumer-resource competition works | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-197](../../../record/leads.d/LEAD-197.md) | Run the assisted-learning study: learners matched on starting skill, practising under an assistant that does the hard step for them or one that does not | Named in [CLAIM-675](../../../record/claims.d/CLAIM-675.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-198](../../../record/leads.d/LEAD-198.md) | Test whether the joint commitment supplies the motive and the conspicuous split the content of children's equal division, by crossing commitment with the availability of a salient or known split | The crossed design that would test [CLAIM-766](../../../record/claims.d/CLAIM-766.md): commitment against no commitment, crossed at age five and over with a salient against no salient split, and at age three with a stated equality norm against a novel division with no stated norm. First step: search for published studies that already cross these factors. Filed with the developmental readings of 2026-11-20. | Open |

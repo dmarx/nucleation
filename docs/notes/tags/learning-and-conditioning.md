@@ -4,7 +4,7 @@
 
 **learning-and-conditioning**.
 
-36 of 2179 NOTE documents. Back to the [full index](../README.md).
+37 of 2212 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -44,3 +44,4 @@
 | [NOTE-1713](../../../record/notes.d/NOTE-1713.md) | Ahn — From Bainbridge to bedside | A single-author commentary that reads four points out of Bainbridge's "Ironies of automation", in paraphrase, and pairs each with a remedy for medical education with large language models: deskilling, met by AI-free phases before AI is introduced; the monitoring trap, met by AI literacy; the operator left the atypical cases, met by training for what AI cannot do; and the out-of-the-loop operator recalled at failure, met by simulations with injected AI failures. No data; no quotation of Bainbridge. | Read |
 | [NOTE-1726](../../../record/notes.d/NOTE-1726.md) | Ince and others (2024) — Problematic pornography use and novel patterns of escalating use: A cross-sectional network analysis with two independent samples | Two cross-sectional online samples of male pornography users (N1 = 1,356 USA; N2 = 944 UK). Measures: the five-item Brief Pornography Screener (BPS) for problematic pornography use (PPU); the PPCS tolerance subscale split into quantitative tolerance (two items, averaged) and qualitative escalation (one item); binge frequency; edging; tab-jumping. Analysis by Gaussian graphical network models (EBIC-LASSO), node expected influence and bridge expected influence, with stability checks and sensitivity analyses. Quantitative tolerance was the most central node and the strongest bridge between use patterns and PPU facets, replicated across samples. | Read |
 | [NOTE-1926](../../../record/notes.d/NOTE-1926.md) | Vallor (2013) — The Future of Military Virtue | Vallor argues that moral virtue presupposes repeated practice of moral skills, that automated warfare can make those practices redundant and so deskill the military morally, even with a human on the loop, and that the remedy is to automate only where human judgment is gravely inadequate and to use machines for moral upskilling. | Read |
+| [NOTE-2181](../../../record/notes.d/NOTE-2181.md) | Arslan et al. — Five-Year-Olds' Systematic Errors in Second-Order False Belief Tasks Are Due to First-Order Theory of Mind Strategy Selection: A Computational Modeling Study | Second-order false belief one to three years after first-order (so about 5–7); failing 5–6-year-olds answer at first order; an ACT-R model of strategy selection. | Read |

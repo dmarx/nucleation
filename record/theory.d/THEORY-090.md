@@ -236,9 +236,9 @@ Active reading of what Newen and Montemayor propose, is the route that
 would make [CLAIM-435](../claims.d/CLAIM-435.md)'s ground held.
 
 ## Note of 2026-11-20: works cited in the Tomasello interview, read
-<!-- inactive-ok-file: THEORY-tmp2aaek — Proposed; the reading's account -->
+<!-- inactive-ok-file: THEORY-2098 — Proposed; the reading's account -->
 
-Solms 2019 ([LIT-tmp265t7](../literature.d/LIT-tmp265t7.md), [NOTE-tmp9hbez](../notes.d/NOTE-tmp9hbez.md); account [THEORY-tmp2aaek](THEORY-tmp2aaek.md)), a
+Solms 2019 ([LIT-2891](../literature.d/LIT-2891.md), [NOTE-2186](../notes.d/NOTE-2186.md); account [THEORY-2098](THEORY-2098.md)), a
 stand-in for The Hidden Spring, supports the subcortical, affective
 localisation ("we must conclude that consciousness is generated in the
 upper brainstem", p. 6) and adds a mechanism: feeling as the

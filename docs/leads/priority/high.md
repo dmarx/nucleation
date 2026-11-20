@@ -6,7 +6,7 @@
 
 **High** — would move a central entry, one many others rest on, or settle a defeat condition.
 
-59 of 197 LEAD documents. Back to the [full index](../README.md).
+59 of 198 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
