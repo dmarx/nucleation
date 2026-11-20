@@ -1,4 +1,4 @@
-<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmp9lm3d CLAIM-tmpy75jv LIT-tmpl98s1 LIT-tmpslg57 LIT-tmpk0e2v CLAIM-478 CLAIM-157 CLAIM-762 THEORY-1558 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: QUESTION-tmp4ma9f CLAIM-tmpxi826 CLAIM-tmp9lm3d CLAIM-tmpy75jv LIT-tmpl98s1 LIT-tmpslg57 LIT-tmpk0e2v CLAIM-478 CLAIM-157 CLAIM-762 THEORY-1558 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
 ### Added
 
 - Hierarchy and hyperbolicity, at the owner's request, with the curation
@@ -15,5 +15,9 @@
 
 ### Changed
 
+- CLAIM-478 version 5, at the owner's request: rate differences between
+  levels that exceed those within, in place of scale separation. The claims
+  above were restated the same way before merging, and the sharp threshold
+  is filed as QUESTION-tmp4ma9f.
 - Dated notes on CLAIM-581, CLAIM-478, CLAIM-157, CLAIM-386, THEORY-1558,
   CLAIM-762 and QUESTION-281.

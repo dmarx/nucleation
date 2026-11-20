@@ -1,7 +1,17 @@
 ---
 status: Proposed
-title: 'One rate gap does two jobs in a hierarchy: at each level, the ratio of the rate between blocks to the rate within them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how scale separation makes hierarchical structure and not only marks it'
-version: 1
+title: 'Rate differences between levels, where they exceed the rate differences within a level, do two jobs in a hierarchy: the ratio of the rate within a level''s blocks to the rate between them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how rate differences make hierarchical structure and not only mark it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Restated before merging, at the owner's turn of 2026-11-20 preferring
+    "rate differences" to "scale separation", and after the check of
+    2026-11-20 (hyp6.py) that a designed hierarchy keeps its topology in the
+    time geometry once the rate ratio between levels beats the spread of
+    rates within them, and is rearranged otherwise. The title names that
+    comparison in place of "one rate gap". Version 1's title: "One rate gap does two jobs in a hierarchy: at each level, the ratio of the rate between blocks to the rate within them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how scale separation makes hierarchical structure and not only marks it".
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,15 +51,16 @@ summary: >-
   scale separation drives structure formation". The assistant's reading:
   the gap that makes a level dynamically (normal hyperbolicity, Simon–Ando
   closure, CLAIM-157's gap-isolated block) is the gap that spaces it in the
-  tree-like time geometry CLAIM-tmpxi826 derives, so CLAIM-478's "scale
-  separation helps make structure" has a formal sense: separated scales
-  make the state space's time geometry a hierarchy. The wording is the
+  tree-like time geometry CLAIM-tmpxi826 derives, so CLAIM-478's "rate
+  differences help make structure" has a formal sense: rate differences
+  between levels that exceed those within make the state space's time
+  geometry a hierarchy. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmp9lm3d CLAIM-tmpdx6l8 — Proposed; filed in this contribution or the one it builds on -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1558 THEORY-1429 CLAIM-762 SYNTHESIS-048 SYNTHESIS-108 CLAIM-755 LIT-1638 — Proposed or Unfetched; the claims and readings this joins -->
 
-# CLAIM-tmpy75jv: One rate gap does two jobs in a hierarchy: at each level, the ratio of the rate between blocks to the rate within them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how scale separation makes hierarchical structure and not only marks it
+# CLAIM-tmpy75jv: Rate differences between levels, where they exceed the rate differences within a level, do two jobs in a hierarchy: the ratio of the rate within a level's blocks to the rate between them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how rate differences make hierarchical structure and not only mark it
 
 ## The claim
 
@@ -84,11 +95,23 @@ hyperbolicity level by level gives geometric hyperbolicity of the whole.
 When the rates converge, both fail together: the aggregate stops closing and
 the level stops showing in the geometry (CLAIM-tmp9lm3d).
 
+**Between against within.** What matters is not a gap alone but the gap
+between levels set against the spread of rates within a level. In a designed
+binary hierarchy whose within-level rates varied by factors up to e^h, the
+time geometry's tree kept the designed topology in every run once the ratio
+between levels, 1/g, beat that spread (roughly 1/g > e^(2h)), and was
+rearranged, with as many classes added as lost, when it did not (curation
+entry of 2026-11-20, 232905, hyp6.py). The rule was conservative at the
+largest spread tried. Where the spread within a level beats the difference
+between levels, the rates still make a tree, but not that hierarchy's.
+
 ## What it adds to the line on structure
 
-- **CLAIM-478** holds that "scale separation helps make structure and not
-  only marks it": where some degrees of freedom settle fast, the relation
-  they settle into is a constraint over the window between scales. This
+- **CLAIM-478** holds, in its version of 2026-11-20, that rate differences
+  help make structure and not only mark it: where some degrees of freedom
+  settle faster than others by more than the rates vary among them, the
+  relation they settle into is a constraint over the window between the
+  rates. This
   claim gives the structure a shape: nested windows make a tree, the tree of
   CLAIM-581's budgeted classes, and the time geometry is that tree.
 - **CLAIM-762 and SYNTHESIS-108** (collapsing differences that do not matter

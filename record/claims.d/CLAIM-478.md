@@ -3,8 +3,8 @@ number: 478
 status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
-title: 'Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another'
-version: 4
+title: 'Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another'
+version: 5
 history:
 - version: 2
   date: '2026-11-11'
@@ -28,6 +28,21 @@ history:
   note: >-
     A dated note: CLAIM-tmpxi826 and CLAIM-tmpy75jv give the
     structure scale separation makes a shape, a tree. No change of status or title.
+- version: 5
+  date: '2026-11-20'
+  note: >-
+    Restated at the owner's request. The owner, of the hierarchy-and-
+    hyperbolicity filing: "maybe I'm being brash calling it 'scale
+    separation' and a more appropriate -- or at least easier to
+    demonstrate -- assertion would call it 'rate differences'"; then:
+    "file a new version of CLAIM-478". The title says rate differences in
+    place of scale separation, and adds the condition the formal results
+    found (CLAIM-tmpxi826, CLAIM-tmpy75jv): the differences that make a
+    level are those that exceed how much the rates vary within it. The
+    mechanism, the defeaters and the body's quotations are unchanged; a
+    section says what the new wording changes. The claim is in the work
+    cost-structure-of-possibility, whose §2.2 states the old wording; the
+    manuscript is the owner's to revise. Version 4's title: "Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another".
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -86,6 +101,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: CLAIM-tmp9lm3d QUESTION-tmp4ma9f — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
@@ -98,7 +114,34 @@ bears_on:
 <!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: CASE-207 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
-# CLAIM-478: Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
+# CLAIM-478: Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another
+
+## What version 5 changes
+
+The owner, 2026-11-20: "maybe I'm being brash calling it 'scale separation'
+and a more appropriate -- or at least easier to demonstrate -- assertion
+would call it 'rate differences'". Three findings of that day support the
+change.
+
+- **No limit is needed.** CLAIM-tmpxi826's bound holds at every ε: a level
+  shows in a chain's log commute-time geometry once the rate ratio across it
+  exceeds a finite factor. "Scale separation" suggests an asymptotic regime
+  the mechanism does not require.
+- **Any rate difference orders a tree; its size decides whether the
+  dynamics shows it.** The tree of budgeted classes depends only on the
+  order of the rates (CLAIM-tmp9lm3d), so rate differences alone always give
+  one. That is nearly empty. What has content is the comparison: a designed
+  hierarchy kept its place in the time geometry once the rate ratio between
+  levels beat the spread of rates within them, and was rearranged otherwise
+  (CLAIM-tmpy75jv; the sharp threshold is QUESTION-tmp4ma9f).
+- **So the claim's condition is between against within.** "Settle fast
+  relative to others" becomes "settle faster than others by more than the
+  rates vary among them". Where the rates within a level vary more than
+  they differ between levels, the rates still make structure, but not that
+  level.
+
+The quotations below keep A12's and A13's "scale separation"; they are what
+was said.
 
 ## The claim
 

@@ -1,7 +1,18 @@
 ---
 status: Proposed
-title: 'For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov''s four-point sense with δ bounded independently of ε while its distances grow as log(1/ε), and as time scales separate it becomes the tree of classes reachable within a budget'
-version: 1
+title: 'For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov''s four-point sense with δ bounded independently of the rates, and a level of the tree of classes reachable within a budget shows in that geometry once the rate ratio across it exceeds max(E, n − 1) squared'
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Restated before merging, at the owner's turn of 2026-11-20: "maybe I'm
+    being brash calling it 'scale separation' and a more appropriate -- or at
+    least easier to demonstrate -- assertion would call it 'rate
+    differences'". The bound holds at every ε, so the claim never needed a
+    limit; the title now states the finite condition, a rate ratio across a
+    level, in place of "as time scales separate". The proof is unchanged.
+    Version 1's title: "For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov's four-point sense with δ bounded independently of ε while its distances grow as log(1/ε), and as time scales separate it becomes the tree of classes reachable within a budget".
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,8 +36,8 @@ rests_on:
 summary: >-
   The link the record lacked between dynamical hierarchy (levels marked by
   rate gaps, THEORY-1306, THEORY-1558, CLAIM-478) and geometric
-  hyperbolicity (THEORY-193, THEORY-196): separated time scales make the
-  log commute-time geometry of a state space tree-like, and the tree is
+  hyperbolicity (THEORY-193, THEORY-196): rate differences across levels
+  make the log commute-time geometry of a state space tree-like, and the tree is
   the one CLAIM-581 builds from peak-capacity thresholds. Proved by
   electrical-network bounds and checked numerically. The owner asked
   (2026-11-20) whether the record could "formalize the relationship
@@ -37,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1558 CLAIM-478 THEORY-196 — Proposed; the readings and claims this links -->
 
-# CLAIM-tmpxi826: For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov's four-point sense with δ bounded independently of ε while its distances grow as log(1/ε), and as time scales separate it becomes the tree of classes reachable within a budget
+# CLAIM-tmpxi826: For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov's four-point sense with δ bounded independently of the rates, and a level of the tree of classes reachable within a budget shows in that geometry once the rate ratio across it exceeds max(E, n − 1) squared
 
 ## The claim
 
@@ -84,7 +95,12 @@ budget.
 
 **When levels show.** Two levels of that tree whose barriers differ by Δu
 are separated in D by about s·Δu. They can be told apart in the geometry
-when s·Δu exceeds the slack 2c, and not otherwise.
+when s·Δu exceeds the slack 2c, that is, when the rate ratio across the
+level, ε^(−Δu), exceeds e^(2c) = max(E, n − 1)². That is a finite rate
+difference, not a limit: the claim needs no asymptotic separation of
+scales. The factor is sufficient and loose; in the designed hierarchy below,
+levels showed at ratios near 10 on 16 states, where the factor is 1,024
+(QUESTION-tmp4ma9f).
 
 ## Checks
 
