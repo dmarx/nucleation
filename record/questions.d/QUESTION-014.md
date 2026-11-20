@@ -12,6 +12,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 refines:
 - QUESTION-002
+presupposes:
+- QUESTION-076
 summary: >-
   A67, after the inference harness could not be run: "The next result
   worth obtaining". The manuscript's Case II (stable complicit, stable
@@ -63,3 +65,14 @@ exists in the record. [CASE-068](../cases.d/CASE-068.md) gives documented chain 
 evaluative stance only, and [CLAIM-234](../claims.d/CLAIM-234.md)'s note of 2026-10-10 says that
 for footing "it still has none". A footing chain would first need the
 measurement [QUESTION-076](QUESTION-076.md) asks for.
+
+## Note of 2026-11-20: presupposes [QUESTION-076](QUESTION-076.md)
+
+Filed by the question-dependency sweep the owner asked for on 2026-11-20.
+Any answer to this question must use [QUESTION-076](QUESTION-076.md)'s concept or result:
+Whether stable footing reduces pragmatic drift can only be answered with
+footing scored by raters, and QUESTION-014's own note says a footing chain
+would first need the measurement [QUESTION-076](QUESTION-076.md) asks for. This question: "A
+footing chain would first need the measurement [QUESTION-076](QUESTION-076.md) asks for";
+[QUESTION-076](QUESTION-076.md): "Can readers judge footing and stance reliably and validly
+in the categories the designs use?".
