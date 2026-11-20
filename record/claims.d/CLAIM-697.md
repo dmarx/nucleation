@@ -43,8 +43,6 @@ uses:
 complements:
 - CLAIM-576
 - CLAIM-567
-corroborated_by:
-- THEORY-1894
 summary: >-
   The owner's, from the continuation of the exchange "Explain String
   Theory" (2026-11-15), answering A's condition that a retained capability
@@ -62,7 +60,7 @@ summary: >-
   owner's; the wording is A's, and adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-754 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-576 TERM-118 THEORY-1894 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
+<!-- inactive-ok-file: CLAIM-576 TERM-118 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
 
 # CLAIM-697: A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs
 
@@ -106,7 +104,7 @@ coverage, not what an unaided selector delivers.
   capability. Its bearer is the learned system together with its declared
   operations, inside the boundary the second of those items draws. What
   the budget changes is this tendency; whether a success is possible at
-  all is unchanged by it, as CLAIM-576's line below says.
+  all is unchanged by it, as [CLAIM-576](CLAIM-576.md)'s line below says.
 - **[CLAIM-576](CLAIM-576.md).** A frozen model's repertoire is indexed by inference
   resources as well as by architecture. A budget can make a process
   affordable without making a new one possible.
@@ -140,7 +138,7 @@ A parallel ([NOTE-2160](../notes.d/NOTE-2160.md)): few-shot elicitation of a fro
 
 ## Note of 2026-11-20: what holds it back
 
-It uses TERM-118, which is not adopted: ARG-069 still leaves the forking
-disposition's bearer open, and ARG-059 still calls CLAIM-619 a fink against
+It uses [TERM-118](../terms.d/TERM-118.md), which is not adopted: [ARG-069](../arguments.d/ARG-069.md) still leaves the forking
+disposition's bearer open, and [ARG-059](../arguments.d/ARG-059.md) still calls [CLAIM-619](CLAIM-619.md) a fink against
 the term's finking row. Its own demonstration is re-derived and its sense
-is now named, so once TERM-118 is adopted nothing else holds it.
+is now named, so once [TERM-118](../terms.d/TERM-118.md) is adopted nothing else holds it.

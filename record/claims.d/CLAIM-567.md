@@ -332,6 +332,6 @@ A44 §1 cites this claim accurately. No status change.
 
 ## Note of 2026-11-15: coverage and RL post-training, read
 
-<!-- inactive-ok-file: THEORY-1894 THEORY-1880 — Proposed; the readings of 2026-11-15 that corroborate this claim, cited as measured instances -->
+<!-- inactive-ok-file: THEORY-1880 — Proposed; the readings of 2026-11-15 that corroborate this claim, cited as measured instances -->
 
 Two measured cases of "reachable, not reliably reached" in sampling processes. Brown et al. ([THEORY-1894](../theory.d/THEORY-1894.md)): a model that solves 15.9% of SWE-bench Lite in one attempt reaches 56% in 250. Yue et al. ([THEORY-1880](../theory.d/THEORY-1880.md)): RLVR raises pass@1 and lowers pass@k at large k, so one intervention moves reliability and reachability in opposite directions. The claim says neither implies the other; it does not assert a trade between them, which Yue's result suggests for this class of process. Reachability here is empirical at finite k, as [ARG-093](../arguments.d/ARG-093.md) notes. No status change.

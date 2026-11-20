@@ -171,7 +171,7 @@ A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 
 ## Note of 2026-11-15: inference budgets, and RL post-training as the hard case
 
-<!-- inactive-ok-file: THEORY-1894 CLAIM-697 THEORY-1880 THEORY-1899 THEORY-1896 THEORY-1908 CLAIM-695 — Proposed; the readings and claims filed 2026-11-15 from the continuation of "Explain String Theory", cited as cases and as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-697 THEORY-1880 THEORY-1899 THEORY-1896 THEORY-1908 CLAIM-695 — Proposed; the readings and claims filed 2026-11-15 from the continuation of "Explain String Theory", cited as cases and as open, nothing here rests on them -->
 
 Readings filed on 2026-11-15 give the claim machine-learning cases on each side of its distinction between a budget making an existing process affordable and a change making a new process possible.
 

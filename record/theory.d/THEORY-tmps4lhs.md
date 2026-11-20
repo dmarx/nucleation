@@ -17,11 +17,11 @@ source:
 extends:
 - THEORY-1894
 summary: >-
-  Brown and colleagues' wider thesis, filed beside THEORY-1894, which
+  Brown and colleagues' wider thesis, filed beside [THEORY-1894](THEORY-1894.md), which
   reports what they found, when the status review of 2026-11-20 promoted it
-  (ADR-065: each promoted attribution gets its wider thesis filed beside it,
+  ([ADR-065](../decisions.d/ADR-065.md): each promoted attribution gets its wider thesis filed beside it,
   Proposed). The authors read their fitted curves as an inference-time
-  scaling law (NOTE-1972). THEORY-1894's old promote_when moves here
+  scaling law ([NOTE-1972](../notes.d/NOTE-1972.md)). [THEORY-1894](THEORY-1894.md)'s old promote_when moves here
   word for word: the thesis waits on a measurement by others on another
   model and task.
 ---
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Brown et al. (2024), LIT-2622, read in NOTE-1972. THEORY-1894 holds what
+Brown et al. (2024), [LIT-2622](../literature.d/LIT-2622.md), read in [NOTE-1972](../notes.d/NOTE-1972.md). [THEORY-1894](THEORY-1894.md) holds what
 the paper measured, Active on that reading.
 
 ## The thesis
@@ -39,21 +39,21 @@ the paper measured, Active on that reading.
 The paper reports its curves across coding, formal-proof and math tasks and
 several model families, and reads them as a law: log coverage fit by an
 exponentiated power law in the number of samples (§3.1, Eq. 2), an
-inference-time scaling law (NOTE-1972, "Concepts"). This entry asserts that law and
+inference-time scaling law ([NOTE-1972](../notes.d/NOTE-1972.md), "Concepts"). This entry asserts that law and
 the verifier gap as properties of repeated sampling from language models,
 beyond the runs reported.
 
 ## Why it is Proposed
 
-Its only evidence is the one paper whose runs THEORY-1894 reports. The
+Its only evidence is the one paper whose runs [THEORY-1894](THEORY-1894.md) reports. The
 paper itself notes curves that "do not follow this trend closely" (Fig. 5),
-and its SWE-bench figure is one model in one agent framework (NOTE-1972).
-Yue and colleagues (THEORY-1880) use the same coverage metric to compare
+and its SWE-bench figure is one model in one agent framework ([NOTE-1972](../notes.d/NOTE-1972.md)).
+Yue and colleagues ([THEORY-1880](THEORY-1880.md)) use the same coverage metric to compare
 base and RL-trained models; that is a use of the metric, not an
 independent test of the law.
 
 ## What this does not say
 
-What THEORY-1894 does not say carries over: that a problem unsolved at the
+What [THEORY-1894](THEORY-1894.md) does not say carries over: that a problem unsolved at the
 largest budget is unsolvable, that sampling helps where per-sample success
 is zero, or that coverage is deployable success without a verifier.

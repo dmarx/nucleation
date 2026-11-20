@@ -35,7 +35,7 @@ summary: >-
   [THEORY-1672](THEORY-1672.md)). The wording is the reader's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-1908 THEORY-1894 THEORY-1899 THEORY-1896 — Proposed; new entries filed in the same contribution -->
+<!-- inactive-ok-file: THEORY-1908 THEORY-1899 THEORY-1896 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 THEORY-1703 THEORY-1672 — Proposed; the claim this account bears on and the agentic extension of the dispute -->
 
 # THEORY-1880: Yue and colleagues find that RLVR-trained language models beat their base models in pass@k at small k but are overtaken by them as k grows into the hundreds, across model families, RL algorithms and math, code and visual-reasoning benchmarks, with the RL models' reasoning paths already of high likelihood under the base model, and read RLVR as sharpening sampling within the base model's distribution rather than expanding it, whereas distillation from a stronger teacher raised pass@k at every k

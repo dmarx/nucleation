@@ -143,12 +143,12 @@ governance regret or modular localization. Both are Proposed, so under
 
 ## Note of 2026-11-20: the orbit part split off
 
-CLAIM-629 went Active at the status review of this date, so the part of
-this question it answers is split off under ADR-049 as QUESTION-tmpr6jhg:
+[CLAIM-629](../claims.d/CLAIM-629.md) went Active at the status review of this date, so the part of
+this question it answers is split off under [ADR-049](../decisions.d/ADR-049.md) as [QUESTION-tmpr6jhg](QUESTION-tmpr6jhg.md):
 on the orbits of a function-preserving symmetry that is a diffeomorphism of
 the parameters, the common-descent verdict is constant, and a residual
 budgeted in a fixed Euclidean norm is constant where the symmetry's
 derivative is orthogonal and can change along rescalings. What stays here:
-symmetries that are not diffeomorphisms, such as blow-ups (CLAIM-305); the
-compatibility complex (CLAIM-555, still Proposed), governance regret and
+symmetries that are not diffeomorphisms, such as blow-ups ([CLAIM-305](../claims.d/CLAIM-305.md)); the
+compatibility complex ([CLAIM-555](../claims.d/CLAIM-555.md), still Proposed), governance regret and
 modular localization; and trajectories, which carry the optimizer.

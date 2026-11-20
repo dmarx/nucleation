@@ -53,7 +53,7 @@ summary: >-
   nothing. Filed at the owner's request of 2026-11-19 that the
   exchange's progress be tracked in accounts.
 ---
-<!-- inactive-ok-file: CASE-296 CLAIM-478 CLAIM-759 CLAIM-762 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-296 CLAIM-478 CLAIM-762 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
 
 # SYNTHESIS-108: How an equivalence becomes a unit: the owner's hypothesis that collapsing differences that do not matter is how classes are reified, made substantive by closure under the system's own operations and completed by differentiation between basins; the owner's genres example and its closure test; the owner's hunch that role abstraction meets balanced partitions of units, with the check that symmetry alone forces one only where the relabelling group permutes the units; and the open comparison of criteria for a learned feature
 

@@ -113,7 +113,7 @@ Every rescaling and swap still agrees.
 g_i(θ) = Dσ(θ)ᵀ g_i(σθ). If Σλᵢ g_i(σθ) = 0 with λ in the simplex, the same
 λ gives Σλᵢ g_i(θ) = Dσᵀ 0 = 0, and the converse uses (Dσᵀ)⁻¹; so
 0 ∈ conv{g_i} at θ exactly when at σθ, and by Gordan's alternative
-(CLAIM-366's criterion) so is common descent. The ε_i are the declared
+([CLAIM-366](CLAIM-366.md)'s criterion) so is common descent. The ε_i are the declared
 improvements and do not move, so in the dual Φ_r = max_λ Σλᵢεᵢ − r‖Σλᵢgᵢ‖
 only the norm can change. For orthogonal Dσ, ‖Dσᵀ v‖ = ‖v‖ for every v and
 Φ_r is equal at the two points. For Dσ = diag(½, 2) and f = v·relu(ux),
