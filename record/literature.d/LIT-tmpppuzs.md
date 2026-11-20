@@ -1,0 +1,51 @@
+---
+status: Active
+status_note: >-
+  Read on 2026-11-20 ([NOTE-tmpxulty](../notes.d/NOTE-tmpxulty.md)) for the owner's question whether
+  three-year-olds' equal sharing can rest on mutual expectation. Copy: the
+  open-access full text in Europe PMC (CC BY-NC-ND), fetched as XML
+  through Europe PMC's documented interface ([ADR-101](../decisions.d/ADR-101.md)).
+title: 'How children come to understand false beliefs: A shared intentionality account'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Registered and read on 2026-11-20 at the owner's request, after the
+    owner asked whether three-year-olds have the theory of mind that a
+    mutual-expectation reading of their equal sharing needs, and asked for
+    recent work integrating Piaget with better-validated developmental
+    research. Bibliographic details from the text, checked against the
+    publisher where the copy lacks them. Not held before (grep of title
+    and DOI).
+tags:
+- cognition
+- social-science
+- epistemology
+date: '2026-11-20'
+published: '2018-08-21'
+doi: '10.1073/pnas.1804761115'
+first_author: 'Tomasello'
+keywords: []
+implementations: []
+summary: >-
+  Tomasello argues that infants and apes pass implicit false-belief tasks
+  by tracking what others see and know, a capacity evolved for
+  competition, while older children understand false belief by
+  coordinating conflicting perspectives, including an objective one, in
+  joint attention and conversation, through shared intentionality. Read in
+  [NOTE-tmpxulty](../notes.d/NOTE-tmpxulty.md); account [THEORY-tmpf3zwk](../theory.d/THEORY-tmpf3zwk.md).
+---
+<!-- inactive-ok-file: THEORY-tmpf3zwk — Proposed; this reading's account -->
+
+# LIT-tmpppuzs: How children come to understand false beliefs: A shared intentionality account
+
+Michael Tomasello (2018). "How children come to understand false beliefs: A shared intentionality account". Proceedings of the National Academy of Sciences 115(34), pp. 8491–8498; copy read: Europe PMC, PMC6112688.
+
+## Standing in the record
+
+Registered and read on 2026-11-20 at the owner's request, after the owner
+asked whether three-year-olds have the theory of mind that a
+mutual-expectation reading of their equal sharing needs, and asked for
+recent work integrating Piaget with better-validated developmental
+research.

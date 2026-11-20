@@ -1,0 +1,52 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-11-20, not read. MIT Press Direct returned a Cloudflare
+  challenge and the MIT Press catalogue page Access Denied (403); the
+  publisher's free chapter 1 sample
+  (mitpress.mit.edu/books/chapters/0262201771chap1.pdf) is on that host
+  and was not tried, and the Wayback Machine holds no snapshot; OpenAlex
+  lists it closed (2026-11-20). Read through two of Tomasello's own open
+  texts: [LIT-tmplkqp8](LIT-tmplkqp8.md) (the cooperation model, the book's core in
+  miniature) and [LIT-tmppnma2](LIT-tmppnma2.md) (its chapters 2–4 on pointing). Also seen:
+  his handout for Jean Nicod Lecture 4 on SciSpace (an outline of chapters
+  6–7) and a faculty reading page at IIT Kanpur with short quotations from
+  chapters 1–3. It stays Unavailable until a copy is supplied.
+title: 'Origins of Human Communication'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Registered on 2026-11-20 at the owner's request, from the reference
+    list of a 2026 interview with Michael Tomasello that the owner shared.
+    Bibliographic details and chapter list from Crossref; it is based on
+    the 2006 Jean Nicod Lectures.
+tags:
+- philosophy-of-language
+- pragmatics
+- cognition
+date: '2026-11-20'
+published: '2008-08-22'
+doi: '10.7551/mitpress/7551.001.0001'
+first_author: 'Tomasello'
+keywords: []
+implementations: []
+summary: >-
+  Tomasello's account of human communication as cooperative at base:
+  pointing and pantomime work without conventions through a communicative
+  intention, cooperative motives and common ground, resting on shared
+  intentionality; conventions and grammar are built later on natural
+  gestures. Unread; read through [LIT-tmplkqp8](LIT-tmplkqp8.md) and [LIT-tmppnma2](LIT-tmppnma2.md).
+---
+
+# LIT-tmpf6o51: Origins of Human Communication
+
+Michael Tomasello (2008). "Origins of Human Communication". The MIT Press, 394 pp. Chapters: A Focus on Infrastructure; Primate Intentional Communication; Human Cooperative Communication; Ontogenetic Origins; Phylogenetic Origins; The Grammatical Dimension; From Ape Gestures to Human Language.
+
+## Standing in the record
+
+Registered on 2026-11-20 at the owner's request, from the reference list
+of a 2026 interview with Michael Tomasello that the owner shared, not
+read; two open texts by the author stand in. Bohn, Kachel and Tomasello
+2019 ([LIT-tmptxd9j](LIT-tmptxd9j.md)) tests its account of conventions.

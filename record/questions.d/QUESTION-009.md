@@ -66,3 +66,28 @@ absolute threshold". So it is not a criterion for when there is an
 additional agent, and read as one it changes the question rather than
 answering it. The criterion is filed as [THEORY-232](../theory.d/THEORY-232.md), which declares no
 relation to this question for that reason.
+
+## Note of 2026-11-20: works cited in the Tomasello interview, read
+<!-- inactive-ok-file: THEORY-tmpqxwyk THEORY-tmpwr5sp — Proposed; the readings' accounts -->
+
+Two contrast cases: Schelling's tacit coordination on focal points
+([LIT-tmp4uor8](../literature.d/LIT-tmp4uor8.md); account [THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md)) and Keller's invisible-hand
+language change ([LIT-tmp0ucsz](../literature.d/LIT-tmp0ucsz.md); account [THEORY-tmpwr5sp](../theory.d/THEORY-tmpwr5sp.md)) are patterns of
+coordination, the second sustained across a whole speech community, that
+neither author treats as an additional agent; Tomasello's role of roles
+([LIT-tmp13v45](../literature.d/LIT-tmp13v45.md)) holds that coordination without a joint goal, as in
+chimpanzee group hunting, has no roles and no joint agent. Evidence on
+where the line falls; relations written: [THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md) and
+[THEORY-tmpwr5sp](../theory.d/THEORY-tmpwr5sp.md) bear_on this question.
+
+## Note of 2026-11-20: Tomasello on markets and shared agents, an interview
+<!-- inactive-ok-file: THEORY-tmpx361j — Proposed; the account -->
+
+In a 2026 interview ([LIT-tmpfusyv](../literature.d/LIT-tmpfusyv.md), read in [NOTE-tmpkd5w9](../notes.d/NOTE-tmpkd5w9.md); account
+[THEORY-tmpx361j](../theory.d/THEORY-tmpx361j.md)) Tomasello answers within his own view: markets and
+capital are not agents ("I'm not a big fan of talking about inanimate
+things as agents"); traffic jams, inflation and crashes are phenomena of
+the third kind that emerge from individuals' intentional acts; a shared
+agent needs a joint goal, roles and mutual knowledge. Evidence for the
+negative side for emergent regularities. Relation written: [THEORY-tmpx361j](../theory.d/THEORY-tmpx361j.md)
+bears_on this question.
