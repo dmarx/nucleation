@@ -583,6 +583,21 @@ vocabularies:
       operationalization:
         label: Operationalization
         blurb: work out how a question or claim could be advanced at all
+  postmortem-statuses:
+    label: Postmortem statuses
+    blurb: Where a POSTMORTEM stands. A postmortem is never deleted; it is accepted, or replaced by a
+      fuller review of the same change (the decision adding the POSTMORTEM scheme).
+    alert: Closed.
+    terms:
+      Draft:
+        label: Draft
+        blurb: written and not yet accepted by the owner
+      Accepted:
+        label: Accepted
+        blurb: the owner accepts its account of what happened and what it recommends
+      Superseded:
+        label: Superseded
+        blurb: replaced by a later review of the same change, named in `superseded_by`
   question-statuses:
     label: Question statuses
     blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
@@ -1219,6 +1234,24 @@ schemes:
         forbidden_when:
           status:
           - Active
+      reviewed_by:
+        label: Reviewed by
+        blurb: the postmortems that review how this decision has worked, written by `luria link --fix`
+          from their `reviews` (the decision adding the POSTMORTEM scheme)
+        scheme: POSTMORTEM
+        required: false
+        many: true
+        converse: reviews
+        derived: true
+      prompted_by:
+        label: Prompted by
+        blurb: the postmortems whose recommendations this decision carries out, written by `luria link
+          --fix` from their `prompted` (the decision adding the POSTMORTEM scheme)
+        scheme: POSTMORTEM
+        required: false
+        many: true
+        converse: prompted
+        derived: true
   DP:
     title: Design principles
     blurb: >-
@@ -2017,6 +2050,68 @@ schemes:
         many: true
         required: true
     axis: line
+    retires_on: Superseded
+    successor: superseded_by
+
+  POSTMORTEM:
+    title: Postmortems
+    blurb: >-
+      A review of how a change to the record has worked out once it has been used: what the
+      decisions behind it changed, how the record has used the change since, what went well and
+      what did not, and what to do next. It reviews the decisions (ADR) and links the pull requests
+      that carried them and the discussions that prompted the review; its recommendations become
+      decisions of their own, which it names in `prompted`. A postmortem says what happened, not
+      what the record believes about its subject (the decision adding the POSTMORTEM scheme).
+    dir: record/postmortems.d
+    output: docs/postmortems
+    active: Accepted
+    render: index
+    allocate: merge
+    references:
+      reviews:
+        label: Reviews
+        blurb: the decisions whose changes this postmortem reviews
+        scheme: ADR
+        required: true
+        many: true
+        converse: reviewed_by
+      prompted:
+        label: Prompted
+        blurb: the decisions that carry out this postmortem's recommendations, added once they are filed
+        scheme: ADR
+        required: false
+        many: true
+        converse: prompted_by
+      superseded_by:
+        scheme: POSTMORTEM
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Accepted
+    fields:
+      status:
+        vocabulary: postmortem-statuses
+      tags:
+        vocabulary: adr-tags
+        many: true
+        required: true
+        closed: false
+      pull_requests:
+        label: Pull requests
+        blurb: the pull requests that carried the reviewed change, as URLs
+        many: true
+        required: true
+      discussions:
+        label: Discussions
+        blurb: where the review was asked for or held, as URLs (a session, an issue, a pull request
+          thread)
+        many: true
+        required: false
+    axis: tags
     retires_on: Superseded
     successor: superseded_by
 
