@@ -4,7 +4,7 @@
 
 **probabilistic-modeling**.
 
-165 of 2212 NOTE documents. Back to the [full index](../README.md).
+168 of 2217 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -173,3 +173,6 @@
 | [NOTE-2105](../../../record/notes.d/NOTE-2105.md) | Friston and others 2026 — Active inference and artificial reasoning |  | Read |
 | [NOTE-2117](../../../record/notes.d/NOTE-2117.md) | Smith, Friston and Whyte 2022 — A step-by-step tutorial on active inference and its application to empirical data |  | Skimmed |
 | [NOTE-2184](../../../record/notes.d/NOTE-2184.md) | Recht — Announcing The Irrational Decision | Mathematical rationality as risk analysis under one currency; valid in narrow sweet spots (regulation, engineering, fair games); most decisions, especially political ones, not delegable; mathematical pluralism; language models built on the same formalism. | Read |
+| [NOTE-2214](../../../record/notes.d/NOTE-2214.md) | The Rational Landscapes | Recht's post on the limits of probabilistic rationality under uncertainty, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2215](../../../record/notes.d/NOTE-2215.md) | Mathematical Pluralism | Recht's post on the local validity of formal decision tools, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2216](../../../record/notes.d/NOTE-2216.md) | The Rationality of the Language Machines | Recht's post on language models and mathematical rationality, read in full beside his announcement of The Irrational Decision. | Read |

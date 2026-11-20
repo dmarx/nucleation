@@ -4,7 +4,7 @@
 
 **society-and-governance**.
 
-273 of 2212 NOTE documents. Back to the [full index](../README.md).
+276 of 2217 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -281,3 +281,6 @@
 | [NOTE-2083](../../../record/notes.d/NOTE-2083.md) | Cook — How Complex Systems Fail | Eighteen theses on failure in hazardous systems. Accidents need several latent failures joined, so "there is no isolated 'cause'", and root-cause attribution answers "the social, cultural need to blame specific, localized forces or events". Organizations leave the trade between production and risk ambiguous, often intentionally, and the sharp end resolves it; hindsight then calls the result error. Systems run degraded because people keep them working, a defending role outsiders see only after accidents. | Read |
 | [NOTE-2184](../../../record/notes.d/NOTE-2184.md) | Recht — Announcing The Irrational Decision | Mathematical rationality as risk analysis under one currency; valid in narrow sweet spots (regulation, engineering, fair games); most decisions, especially political ones, not delegable; mathematical pluralism; language models built on the same formalism. | Read |
 | [NOTE-2193](../../../record/notes.d/NOTE-2193.md) | Schelling — Bargaining, Communication, and Limited War | Tacit coordination on focal points: prominence and uniqueness for these parties; explicit bargaining also needs converging expectations; fairness partly a focusing device; tacit limits in war must be qualitative. | Read |
+| [NOTE-2214](../../../record/notes.d/NOTE-2214.md) | The Rational Landscapes | Recht's post on the limits of probabilistic rationality under uncertainty, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2215](../../../record/notes.d/NOTE-2215.md) | Mathematical Pluralism | Recht's post on the local validity of formal decision tools, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2216](../../../record/notes.d/NOTE-2216.md) | The Rationality of the Language Machines | Recht's post on language models and mathematical rationality, read in full beside his announcement of The Irrational Decision. | Read |

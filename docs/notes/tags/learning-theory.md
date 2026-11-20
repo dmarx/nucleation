@@ -4,7 +4,7 @@
 
 **learning-theory**.
 
-240 of 2212 NOTE documents. Back to the [full index](../README.md).
+242 of 2217 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -248,3 +248,5 @@
 | [NOTE-2176](../../../record/notes.d/NOTE-2176.md) | Kuhn — The Structure of Scientific Revolutions | Paradigms make later puzzle-solving tractable and restrict what can be asked; their rigidity detects anomaly; revolutions change problems, standards and learned similarity relations, with losses. Exemplars teach a tacit similarity relation, with diminishing returns. Interpretive history. | Read |
 | [NOTE-2177](../../../record/notes.d/NOTE-2177.md) | Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions | Kuhn's essential tension, through a stand-in: convergent training in a tradition is a precondition of breaking with it, because a precise paradigm makes anomaly visible. Carries the thesis and two quoted sentences, not the essay. | Read |
 | [NOTE-2178](../../../record/notes.d/NOTE-2178.md) | Kuhn — Second Thoughts on Paradigms | Exemplars teach a learned similarity relation, prior to criteria, which makes new problems tractable; knowledge lives in that relation, and replacing it with rules changes it. Interpretive, with a historical chain and a thought experiment; no measurement. | Read |
+| [NOTE-2213](../../../record/notes.d/NOTE-2213.md) | Thomas Kuhn and Science Education: A Troubled Connection | Matthews's opinion piece on Kuhn and science education, read in part (pp. 1–6) beside Kindi's essay; quoted for Andersen's empirical and normative readings of Kuhn on convergent thought. | Skimmed |
+| [NOTE-2217](../../../record/notes.d/NOTE-2217.md) | Thomas Kuhn | Bird's SEP entry on Kuhn, read in part (§§1–3) beside Kindi's essay; quoted for training as the inculcation of commitment. | Skimmed |

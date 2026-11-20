@@ -6,7 +6,7 @@
 
 **Read** — the full text, closely enough to state its assumptions and results exactly — the only status that licenses a claims table.
 
-2026 of 2212 NOTE documents. Back to the [full index](../README.md).
+2029 of 2217 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -2036,3 +2036,6 @@
 | [NOTE-2210](../../../record/notes.d/NOTE-2210.md) | Tomasello — Communicating Without Conventions: The Co-operation Model | Pragmatics as the foundation: natural gestures show communication's cooperative structure in the raw; apes lack it; three motives, common ground, an overt Gricean intention and the norms it creates; collaborative foraging; conventions from iconic gestures grown opaque. | Read |
 | [NOTE-2211](../../../record/notes.d/NOTE-2211.md) | Tomasello — How children come to understand false beliefs: A shared intentionality account | False-belief understanding as an outcome of coordinating perspectives in cooperative interaction; infants and apes track epistemic states without comparing them to reality; 3-year-olds are pulled to the real; second-order belief comes naturally in cooperative coordination at 6. | Read |
 | [NOTE-2212](../../../record/notes.d/NOTE-2212.md) | Bohn, Kachel and Tomasello — Young children spontaneously recreate core properties of language in a new modality | Children aged 3–8 in pairs create iconic gestures to communicate when sound is cut; signs converge within pairs, drift slightly toward arbitrariness with reduced effort, and combine compositionally for complex relations, not in German word order. N = 198. | Read |
+| [NOTE-2214](../../../record/notes.d/NOTE-2214.md) | The Rational Landscapes | Recht's post on the limits of probabilistic rationality under uncertainty, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2215](../../../record/notes.d/NOTE-2215.md) | Mathematical Pluralism | Recht's post on the local validity of formal decision tools, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2216](../../../record/notes.d/NOTE-2216.md) | The Rationality of the Language Machines | Recht's post on language models and mathematical rationality, read in full beside his announcement of The Irrational Decision. | Read |

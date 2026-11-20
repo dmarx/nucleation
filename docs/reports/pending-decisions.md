@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1964 document(s) awaiting a decision, 42 undated.**
+**1965 document(s) awaiting a decision, 42 undated.**
 
 ## LITs
 
-90 of the 1964.
+90 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-1188 of the 1964.
+1188 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1301,7 +1301,7 @@
 
 ## ADRs
 
-37 of the 1964.
+38 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1338,6 +1338,7 @@
 | 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 50 | 44 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
 | 2026-11-19 | Proposed | [ADR-106](../../record/decisions.d/ADR-106.md) | 0 | 21 | 16 | A work cost-structure-of-possibility is added for the owner's manuscript from the exchange Topological protection explained: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step |
 | 2026-11-19 | Proposed | [ADR-109](../../record/decisions.d/ADR-109.md) | 0 | 14 | 2 | The record keeps its research opportunities as LEADs, plans to advance a question or claim by any method, with a status for whether each is still worth following and a stage for how far it is worked out; and a question may presuppose another |
+| 2026-11-20 | Proposed | [ADR-114](../../record/decisions.d/ADR-114.md) | 0 | 20 | 0 | Every work read for the record gets its own LIT, a stand-in or a supplement as much as the work it stands beside, and is filed as what it is |
 | 2026-11-20 | Proposed | [ADR-113](../../record/decisions.d/ADR-113.md) | 0 | 8 | 2 | Anything a course page hosts counts as a lawful copy to read, whole in-copyright books included |
 | 2026-11-20 | Proposed | [ADR-110](../../record/decisions.d/ADR-110.md) | 0 | 3 | 1 | A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded |
 | 2026-11-20 | Proposed | [ADR-112](../../record/decisions.d/ADR-112.md) | 0 | 3 | 2 | The record keeps postmortems as POSTMORTEMs, reviews of how a change to the record has worked out once used, which review the decisions behind the change, link the pull requests that carried it and the discussions that asked for the review, and name the decisions their recommendations prompt |
@@ -1345,7 +1346,7 @@
 
 ## QUESTIONs
 
-6 of the 1964.
+6 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1358,7 +1359,7 @@
 
 ## CLAIMs
 
-324 of the 1964.
+324 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1689,7 +1690,7 @@
 
 ## CASEs
 
-106 of the 1964.
+106 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1802,7 +1803,7 @@
 
 ## TERMs
 
-36 of the 1964.
+36 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1845,7 +1846,7 @@
 
 ## ARGs
 
-80 of the 1964.
+80 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1932,7 +1933,7 @@
 
 ## SYNTHESISs
 
-97 of the 1964.
+97 of the 1965.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

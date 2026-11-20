@@ -1,6 +1,6 @@
 ---
 <!-- inactive-ok-file: ADR-102 — Proposed; two further kinds of lawful copy, the owner's ruling of 2026-11-18 -->
-<!-- inactive-ok-file: ADR-tmp59tp7 — Proposed; stand-ins and supplements as entries of their own, the owner's ruling of 2026-11-20 -->
+<!-- inactive-ok-file: ADR-114 — Proposed; stand-ins and supplements as entries of their own, the owner's ruling of 2026-11-20 -->
 <!-- inactive-ok-file: ADR-113 — Proposed; course-hosted copies, whole books included, the owner's ruling of 2026-11-20 -->
 name: read-and-file
 description: How this record takes in reading. Use it to file an exchange, a pasted synthesis, an upload or a single work; to check whether something is "already on the record"; or to read registered works and file the readings. ADR-068 holds the invariants; this file holds the steps.
@@ -164,12 +164,12 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **Filing a neighbour.** It is a work in its own right, with a LIT, a NOTE
   and a THEORY. Its history says it was registered as a stand-in. Never
   file it under the original's code or present it as the original
-  (ADR-tmp59tp7).
+  (ADR-114).
   - The unread original's LIT names the neighbour in its status note and
     in "Standing in the record", and says how far it stands in.
   - The neighbour's NOTE says, under Connections, which of the original's
     results it restates and which it doesn't.
-- **Supplements get entries too** (ADR-tmp59tp7). A work read beside
+- **Supplements get entries too** (ADR-114). A work read beside
   another, for a passage, a figure or a third author it reports, gets its
   own LIT and NOTE whenever the record quotes it or relies on it, and the
   quoting NOTE names its code. A THEORY is needed only if the record uses
@@ -451,7 +451,7 @@ Send each reader:
   read accessible neighbouring literature that carries the same ideas
   (step 5), and write a report for each in the same format. Report
   every other work you read and quote, even for one passage, with its own
-  provenance, so the filer can give it an entry (ADR-tmp59tp7). In the work's
+  provenance, so the filer can give it an entry (ADR-114). In the work's
   own report, say which neighbour stands in for it and how far.
 - **And**: if neither the work nor a neighbour is reached, say so and
   stop. Write nothing from memory.

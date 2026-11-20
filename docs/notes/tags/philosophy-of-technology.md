@@ -4,7 +4,7 @@
 
 **philosophy-of-technology**.
 
-59 of 2212 NOTE documents. Back to the [full index](../README.md).
+62 of 2217 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -67,3 +67,6 @@
 | [NOTE-2034](../../../record/notes.d/NOTE-2034.md) v2 | NTSB (2019) — Collision Between Vehicle Controlled by Developmental Automated Driving System and Pedestrian, Tempe, Arizona (HAR-19/03) | An Uber ATG test vehicle under its developmental automated driving system killed a pedestrian in Tempe on 18 March 2018. The system detected her 5.6 seconds before impact but never classified her as a pedestrian; its design relied on the operator to brake; Uber had disabled the Volvo's own collision warning and emergency braking; the operator was streaming video throughout. The NTSB made the operator's distraction the probable cause, with Uber ATG's risk assessment, oversight of operators and handling of automation complacency, "all a consequence of its inadequate safety culture", contributing, and the pedestrian and Arizona's oversight as further factors. | Read |
 | [NOTE-2184](../../../record/notes.d/NOTE-2184.md) | Recht — Announcing The Irrational Decision | Mathematical rationality as risk analysis under one currency; valid in narrow sweet spots (regulation, engineering, fair games); most decisions, especially political ones, not delegable; mathematical pluralism; language models built on the same formalism. | Read |
 | [NOTE-2204](../../../record/notes.d/NOTE-2204.md) | Block — Can only meat machines be conscious? | Role against realizer as two bases for extrapolating consciousness; the meat hypothesis as plausible as computational functionalism; the major theories meat-neutral; AI against simple animals; electrochemical computation as the candidate realizer. | Read |
+| [NOTE-2214](../../../record/notes.d/NOTE-2214.md) | The Rational Landscapes | Recht's post on the limits of probabilistic rationality under uncertainty, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2215](../../../record/notes.d/NOTE-2215.md) | Mathematical Pluralism | Recht's post on the local validity of formal decision tools, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2216](../../../record/notes.d/NOTE-2216.md) | The Rationality of the Language Machines | Recht's post on language models and mathematical rationality, read in full beside his announcement of The Irrational Decision. | Read |

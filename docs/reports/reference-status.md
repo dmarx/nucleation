@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1067 documents cited without acknowledgement.** Not listed: 35820 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1069 documents cited without acknowledgement.** Not listed: 35842 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2193,7 +2193,7 @@ A delegated reader keeps running notes in the repository, outside the record, on
 
 44 citations in 44 files await a look; 6 other citations of it are acknowledged.
 
-- [`.claude/skills/read-and-file/SKILL.md:175`](../../.claude/skills/read-and-file/SKILL.md)
+- [`.claude/skills/read-and-file/SKILL.md:185`](../../.claude/skills/read-and-file/SKILL.md)
 - [`record/decisions.d/ADR-110.md:90`](../../record/decisions.d/ADR-110.md)
 - [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
 - [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
@@ -4770,6 +4770,23 @@ An operator framework flexible enough to redescribe any dynamical process explai
 - [`record/questions.d/QUESTION-117.md:121`](../../record/questions.d/QUESTION-117.md)
 - [`record/terms.d/TERM-074.md:18`](../../record/terms.d/TERM-074.md)
 - [`record/terms.d/TERM-074.md:22`](../../record/terms.d/TERM-074.md)
+
+### [LIT-2917](../../record/literature.d/LIT-2917.md) — Unavailable
+
+The Irrational Decision: How We Gave Computers the Power to Choose for Us
+
+10 citations in 7 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2931.md:9`](../../record/literature.d/LIT-2931.md)
+- [`record/literature.d/LIT-2931.md:50`](../../record/literature.d/LIT-2931.md)
+- [`record/literature.d/LIT-2932.md:9`](../../record/literature.d/LIT-2932.md)
+- [`record/literature.d/LIT-2932.md:50`](../../record/literature.d/LIT-2932.md)
+- [`record/literature.d/LIT-2935.md:9`](../../record/literature.d/LIT-2935.md)
+- [`record/literature.d/LIT-2935.md:50`](../../record/literature.d/LIT-2935.md)
+- [`record/notes.d/NOTE-2214.md:38`](../../record/notes.d/NOTE-2214.md)
+- [`record/notes.d/NOTE-2215.md:37`](../../record/notes.d/NOTE-2215.md)
+- [`record/notes.d/NOTE-2216.md:37`](../../record/notes.d/NOTE-2216.md)
+- [`record/theory.d/THEORY-2099.md:21`](../../record/theory.d/THEORY-2099.md)
 
 ### [NOTE-1437](../../record/notes.d/NOTE-1437.md) — Skimmed
 
@@ -9353,6 +9370,16 @@ Security: A New Framework for Analysis
 - [`record/claims.d/CLAIM-445.md:178`](../../record/claims.d/CLAIM-445.md)
 - [`record/notes.d/NOTE-1133.md:127`](../../record/notes.d/NOTE-1133.md)
 
+### [LIT-2882](../../record/literature.d/LIT-2882.md) — Unavailable
+
+The Essential Tension: Tradition and Innovation in Scientific Research
+
+3 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-2885.md:7`](../../record/literature.d/LIT-2885.md)
+- [`record/literature.d/LIT-2933.md:8`](../../record/literature.d/LIT-2933.md)
+- [`record/literature.d/LIT-2934.md:9`](../../record/literature.d/LIT-2934.md)
+
 ### [LIT-391](../../record/literature.d/LIT-391.md) — Unavailable
 
 Group Agency: The Possibility, Design, and Status of Corporate Agents
@@ -9987,7 +10014,7 @@ The record keeps its research opportunities as LEADs, plans to advance a questio
 
 2 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
-- [`.claude/skills/read-and-file/SKILL.md:402`](../../.claude/skills/read-and-file/SKILL.md)
+- [`.claude/skills/read-and-file/SKILL.md:412`](../../.claude/skills/read-and-file/SKILL.md)
 - [`CLAUDE.md:33`](../../CLAUDE.md)
 
 ### [ADR-112](../../record/decisions.d/ADR-112.md) — Proposed
@@ -10889,6 +10916,24 @@ The owner — What's In A Name? Investigating Bias And Identity In Text-To-Image
 
 - [`record/literature.d/LIT-2873.md:8`](../../record/literature.d/LIT-2873.md)
 - [`record/literature.d/LIT-2873.md:38`](../../record/literature.d/LIT-2873.md)
+
+### [NOTE-2213](../../record/notes.d/NOTE-2213.md) — Skimmed
+
+Thomas Kuhn and Science Education: A Troubled Connection
+
+2 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-2933.md:41`](../../record/literature.d/LIT-2933.md)
+- [`record/notes.d/NOTE-2177.md:94`](../../record/notes.d/NOTE-2177.md)
+
+### [NOTE-2217](../../record/notes.d/NOTE-2217.md) — Skimmed
+
+Thomas Kuhn
+
+2 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-2934.md:37`](../../record/literature.d/LIT-2934.md)
+- [`record/notes.d/NOTE-2177.md:93`](../../record/notes.d/NOTE-2177.md)
 
 ### [NOTE-418](../../record/notes.d/NOTE-418.md) — Skimmed
 
@@ -12812,14 +12857,6 @@ The Second-Person Standpoint: Morality, Respect, and Accountability
 
 - [`record/notes.d/NOTE-2180.md:107`](../../record/notes.d/NOTE-2180.md)
 
-### [LIT-2882](../../record/literature.d/LIT-2882.md) — Unavailable
-
-The Essential Tension: Tradition and Innovation in Scientific Research
-
-1 citation in 1 file awaits a look.
-
-- [`record/literature.d/LIT-2885.md:7`](../../record/literature.d/LIT-2885.md)
-
 ### [LIT-2893](../../record/literature.d/LIT-2893.md) — Unavailable
 
 On Language Change: The Invisible Hand in Language
@@ -12843,14 +12880,6 @@ The Hidden Spring: A Journey to the Source of Consciousness
 1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-2098.md:22`](../../record/theory.d/THEORY-2098.md)
-
-### [LIT-2917](../../record/literature.d/LIT-2917.md) — Unavailable
-
-The Irrational Decision: How We Gave Computers the Power to Choose for Us
-
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
-
-- [`record/theory.d/THEORY-2099.md:21`](../../record/theory.d/THEORY-2099.md)
 
 ### [LIT-2930](../../record/literature.d/LIT-2930.md) — Unavailable
 
