@@ -69,7 +69,7 @@ Assumptions: phenomenal consciousness is real (illusionism set aside, flagged as
 Concepts: computational functionalism; meat condition / meat hypothesis / "subcomputationalism"; role vs realizer, second- vs first-order property; core vs total realizer; meat-neutral theory; extrapolation base; electrochemical vs electrical nervous system; Myriazoa, ctenophore-sister hypothesis.
 
 Bearings:
-- THEORY-023 (current evidence cannot settle AI consciousness; architectural indicators presuppose CF; sources LIT-111, LIT-191, LIT-135): supports and extends; Block names the presupposed premise and adds that dropping it moves credence to simple animals. Cites Butlin et al. as the CF paper (LIT-191 if that is it; check).
+- THEORY-023 (current evidence cannot settle AI consciousness; architectural indicators presuppose CF; sources LIT-111, LIT-191, LIT-135): supports and extends; Block names the presupposed premise and adds that dropping it moves credence to simple animals. Block p. 298 quotes the 19-author Butlin et al. report, held as LIT-056 ("Consciousness in Artificial Intelligence: Insights from the Science of Consciousness"), whose first assumption is CF.
 - LIT-135 (Seth, biological naturalism) / its uses: parallel; Block cites Seth's "inchoate... feeling of being alive" and co-authored the Nature 2026 piece with Seth and Tononi.
 - THEORY-638 (Searle: whatever thinks needs causal powers equivalent to the brain's): parallel, same role/realizer move; Block's gravity simulation argument is Searle's.
 - THEORY-507 (Chalmers, organizational invariance via fading qualia, LIT-392): contrast; Block holds the realizer may matter even under identical fine-grained organisation.
