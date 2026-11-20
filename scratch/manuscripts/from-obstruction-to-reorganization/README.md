@@ -8,6 +8,8 @@ The successor to the owner's manuscript "luria: nucleating an argument" (the wor
 
 **Status.** A working document under version control. It is not part of the record: luria does not read `scratch/`, and codes are cited bare. Figures come from three observation points, kept apart in §5.1. Where the draft depends on a Proposed entry, it says so. The theses T1–T4 (§2.7) and the mapping tables (§§3.3–3.4) are the draft's own integrations, not claims the record holds.
 
+**Review.** [REVIEW-2026-11-20.md](REVIEW-2026-11-20.md) critiques this draft and lists points of contact with the record; its revision plan has not yet been applied.
+
 ## Files, in reading order
 
 | File | Sections |

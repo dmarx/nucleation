@@ -12,3 +12,6 @@
   (2026-11-20) and its measurements. It is outside the record: no entry,
   vocabulary or relation changes. Its README lists what the owner must
   settle, first among them whether its theses T1–T4 are filed as claims.
+- A review of the draft beside it (`REVIEW-2026-11-20.md`): structural
+  problems, confirmed factual corrections, points of contact with the
+  record by section, and a revision plan. The draft is unchanged.
