@@ -191,7 +191,7 @@ Phenomenon of the third kind; invisible-hand explanation (three stages: motives,
 - THEORY-561 (Floridi, distributed morality, whose definition invokes an "invisible hand", LIT-901) and THEORY-207 (responsibility for outcomes emerging from neutral interactions, LIT-899): parallel. A macro outcome is produced by micro acts that do not aim at it.
 - LIT-771 (Kirby et al., cumulative cultural evolution of language in the lab): supports. It gives experimental evidence that linguistic structure arises without design through use and transmission, which is the kind of test Keller's account invites.
 - LIT-141 (Emergence) and LIT-424 (Dennett, From Bacteria to Bach, Unavailable): background.
-- QUESTION-009 (when does coordination constitute an additional agent?): contrast case. An invisible-hand structure is coordinated and adaptive ("more intelligent than the architects' paths", A S. 8) but no agent.
+- QUESTION-009 (when does coordination constitute an additional agent?): contrast case. An invisible-hand structure is coordinated and adaptive (in translation: the footpath network is more intelligent than the paved paths the architects planned, A S. 8) but no agent.
 - Tomasello codes (THEORY-495 and LIT-125): background only. Keller supplies the cultural-evolutionary, undesigned route by which conventions, linguistic ones included, arise and change, which Tomasello's account of conventional communication presupposes.
 
 ### Limitations
