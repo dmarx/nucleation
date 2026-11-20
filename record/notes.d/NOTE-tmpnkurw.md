@@ -1,0 +1,152 @@
+---
+status: Read
+paper: LIT-tmp629tl
+title: 'Alexander — A Biological Interpretation of Moral Systems'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Read on 2026-11-20 by a delegated reader from the publisher's
+    open-access PDF (zygonjournal.org; CC BY 4.0), pp. 3–20 in full with
+    notes 1–7 and references. An 18-page scan with a text layer: figs. 1
+    and 6 only partly legible, and the extracted captions of figs. 4 and 5
+    appear swapped, so neither caption is quoted. Running notes on the
+    branch claude/readers/alexander (ADR-108). Quotations rechecked by the
+    filer by script against the downloaded text.
+date: '2026-11-20'
+summary: >-
+  Moral systems as indirect reciprocity: conflicts of reproductive
+  interest, softened by nepotism and reciprocity, with returns from
+  observers rather than the person helped. Selects for conscience,
+  self-deception and indiscriminate altruism as social investment;
+  practised morality is in-group cohesion. Verbal model, individual-level
+  selection. Stand-in for the 1987 book.
+---
+<!-- inactive-ok-file: LIT-495 THEORY-tmp5lj70 THEORY-663 — Unfetched or Proposed; the book this stands in for, this reading's account, and Trivers's account -->
+
+# NOTE-tmpnkurw: Alexander — A Biological Interpretation of Moral Systems
+
+## Contribution
+
+Alexander's own statement, from a 1983 AAAS talk, of the thesis his 1987
+book develops: moral systems are, in essence, systems of indirect
+reciprocity. It explains in one evolutionary account morality as
+practised, the sense that morality runs against evolution, and idealized
+universal moralities. It is the citable source, in his words, for what
+Nowak 2006 credits him with.
+
+## Key results
+
+1. **Definition and source of moral problems.** "A moral system is
+   essentially a society with rules" (p. 3); "moral (and ethical)
+   questions and problems arise because of conflicts of interest" (p. 4).
+   Interests are reproductive: "humans have evolved to maximize survival
+   of their genes through reproduction" (p. 6).
+2. **Indirect reciprocity defined.** Its returns "are likely to come from
+   individuals other than those helped (or hurt) by the original actor"
+   (p. 9). "The essence of moral systems seems to lie in patterns of
+   indirect reciprocity" (p. 10). "Indirect reciprocity is what happens
+   when direct reciprocity occurs in the presence of an interested
+   audience." (p. 11). The model is verbal (figs. 3–5 are lettered
+   sequences); the reckoning is done in people's heads: "we are evolved to
+   be exceedingly accurate and quick at making such analyses" (p. 11).
+3. **What it selects for.** Conscience is "the ability to use our own
+   judgment to serve our own interests"; people are expected "to
+   self-deceive and display false sincerity as defenses against detection
+   of cheating" (p. 12).
+4. **Conditions.** Reciprocity flourishes when benefits are cheap relative
+   to returns (pp. 12–13, citing Trivers 1971): symmetrical joint effort,
+   or unequal contributions "leading to division of labor" (p. 13).
+5. **Indiscriminate altruism and justice.** Justice gained currency
+   through "the suppression of widespread nepotistic favoritism" (p. 15).
+   Indiscriminate altruism expands "when the nature and immediacy of
+   external threats favor high levels of cooperativeness" (p. 15), and
+   the view "also justifies indiscriminate altruism as a model worth
+   pursuing" (p. 16).
+6. **In-group morality.** Morality "may have arisen for immoral reasons",
+   as cohesion within groups "directed against other human groups"
+   (abstract, p. 3); the question is posed "whether cooperation-to-compete
+   has been the historical function of group unity" (p. 4).
+7. **Level of selection.** "selection is usually most effective at low
+   levels in the hierarchy of organization of life" (p. 6). Of Darwin's
+   tribe-against-tribe account: "This is a group selection model, and not
+   an unreasonable one." Of Fisher's: "His theory is, in general, the same
+   as that I am presenting here." (note 5, pp. 18–19).
+8. **The arms race.** "The most serious moral or conflict-of-interest
+   problem in the world today is surely the international arms race."
+   (p. 16). A hoped-for universal brotherhood would be "explicitly based on
+   individually self-serving behavior" (p. 17).
+9. **Terminology.** Trivers's "generalized reciprocity" names the same
+   idea; Alexander avoids the phrase because Sahlins used it otherwise
+   (note 3, p. 18).
+
+## Assumptions
+
+Selection acts mainly at the level of the individual and the gene.
+Interests are reproductive whatever people believe them to be.
+Cost-benefit judgement is fast and often unconscious. The opposition
+between biological and cultural is rejected (note 1).
+
+## Concepts
+
+Somatic and reproductive effort; selfish and altruistic judged by visible
+effect and genetically; direct and indirect reciprocity; indiscriminate
+altruism as social investment; cooperation-to-compete; conscience;
+self-deception.
+
+## Checks the book's LIT asked for
+
+- **How indirect reciprocity is modelled:** verbally, with lettered
+  sequences and informal cost-benefit reasoning; no image score and no
+  probability of knowing a reputation. The word "reputation" does not
+  occur; the paper speaks of an interested audience and of being judged.
+- **Group selection:** not argued. Outside groups enter as external
+  threats that make in-group cooperation pay individuals; Fisher's
+  individual-level account is adopted (note 5).
+- **"Not easily relatable to universals":** not in the paper. What it
+  denies is that practised morality is universal indiscriminate altruism,
+  and that idealized universalist moralities are realistic (they "have so
+  far invariably fallen short", p. 13). That concerns the scope of moral
+  concern, not whether the same rules recur across cultures.
+- **What is owed:** no normative theory; the near-normative remarks are
+  the sentence on justifying indiscriminate altruism (p. 16) and advice
+  that peace be sought through appeals to self-interest (p. 17).
+- **Contests, division, possession:** absent, except division of labour
+  (p. 13).
+
+## Bearing on the record
+
+- **LIT-495**, the book: Alexander's précis. It confirms the publisher's
+  description except for the levels formula ("confluences of interest at
+  lower levels", here only "conflicts and confluences of interest", p. 3)
+  and the claim about universals, which only the book can settle. It gives
+  no warrant for an `ethics` tag.
+- **THEORY-567** (Nowak 2006), supports the attribution: Nowak's credit
+  to Alexander for indirect reciprocity leading to morality is borne out
+  by p. 10. Alexander's indirect reciprocity also takes in harm, cheating
+  and punishment, where Nowak's rule covers help only.
+- **THEORY-663** (Trivers 1971), background: Alexander credits Trivers
+  with the same idea under the name generalized reciprocity (note 3), and
+  cites him for the cost condition and for self-deception, matching the
+  account's cost condition and its sham versions.
+- **NOTE-034** (morality-as-cooperation), lineage: the paper grounds the
+  kin, reciprocity and group domains and touches mutualism, bravery and
+  fairness; it is silent on deference, division and possession. No
+  conflict with universal moral rules. The theory's lineage paragraph does
+  not name Alexander.
+- **CLAIM-547**, an illustration: in-group morality "directed against
+  other human groups" is a case of the trade-off between cooperation
+  within groups and the coexistence of groups, reached without group
+  selection.
+- **LIT-514** (Boehm) and **LIT-504** (Tomasello), neighbours as the
+  book's LIT says: Boehm shares judgment and punishment by onlookers;
+  Tomasello's base is collaboration, which Alexander treats only as a
+  condition under which reciprocity pays (p. 13).
+
+## Limitations
+
+A talk-length paper standing in for a book; the book's levels formula, its
+claim about universals and its chapters 3 and 4 are unread. It states
+Alexander's view as of 1983. The scan's text layer has errors, and two
+figure captions are not quoted for that reason.
