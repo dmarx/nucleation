@@ -18,3 +18,9 @@ Key quotes logged (p.705 Piaget passage; p.712 Warneken et al. 2011; p.713 Bauma
 
 ## Step 3: McAuliffe et al. 2017 read in full (author manuscript, Leiden copy, 26 pp; pages cited are manuscript pages)
 Read all text, boxes, figure legends; references skimmed. No mention of Piaget; no treatment of collaboration-based sharing (Hamann/Warneken 2011 not cited); Tomasello appears only in refs (chimp ultimatum, third-party punishment, Wittig 2013, Grocke 2015 as procedural justice).
+
+## Step 4: Killen 2018 read in full (pp. 767-797 text; references skimmed)
+Quotes verified by script (/tmp/claude-0/-home-user-nucleation/5941a951-7543-5f39-8844-3df64bbd23c3/scratchpad/dvm_q.py) after NFKC normalisation; the PAR PDF uses ligatures (fi, fl), so the filer should normalise too.
+
+## Step 5: Report (final)
+See SubagentHandback report; copied below.
