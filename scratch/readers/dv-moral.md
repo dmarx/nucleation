@@ -11,3 +11,7 @@
   - https://www.nature.com/articles/s41562-016-0042 (publisher, paywalled) -> not fetched.
 - Killen 2018, "The origins of morality: Social equality, fairness, and justice", Philosophical Psychology 31(5):767-803, doi:10.1080/09515089.2018.1486612: https://par.nsf.gov/servlets/purl/10079930 (NSF Public Access Repository; lawful) -> fetched, 22 pp.
 - Passed over: Carpendale (with Muller & Smith?) "Piaget's theory of moral development", Cambridge Companion to Piaget (2009), ch. 12: only Cambridge Core (paywalled) found, no lawful copy; not fetched.
+
+## Step 2: Killen & Smetana 2015 read (in part)
+Read: pp. 701-715 (intro, classical theories, false dichotomies, roots in infancy/early childhood), 717-718 (intentionality), 721-725 (moral judgments; fair distribution), 733-735 (peers), 741-742 (conclusions). Skipped: mental states detail, family, civic, neuroscience sections, references.
+Key quotes logged (p.705 Piaget passage; p.712 Warneken et al. 2011; p.713 Baumard; p.713 Brownell/Piaget; p.723 Damon equality->merit; p.733 peers; p.741 conclusion).
