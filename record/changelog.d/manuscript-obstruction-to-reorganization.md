@@ -14,6 +14,6 @@
 - With it, `analysis/`: a census of all 114 decisions coded against a
   codebook fixed before coding, with a second coder on a random 30, and an
   audit of every reworded or removed vocabulary term in the history. The
-  audit finds that ADR-048's change to what `anthology-candidate` means
+  audit finds that [ADR-048](record/decisions.d/ADR-048.md)'s change to what `anthology-candidate` means
   reached none of the 237 entries carrying it; the README lists this and
   the other items for the owner.
