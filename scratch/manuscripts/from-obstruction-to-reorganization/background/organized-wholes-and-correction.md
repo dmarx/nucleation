@@ -566,27 +566,20 @@ degrees of existence" (SYNTHESIS-048).
   rests_on CLAIM-652, CLAIM-662): these two routes need no deliberate
   suppression, and "both differ from the counter-corrective weakening of the
   channels through which challenge succeeds" (SYNTHESIS-094).
-- **CLAIM-742** (Proposed; thesis; interpretive): diminished culpability "does
-  not diminish the wrongfulness of what it does, the claims of those it harms,
-  or the need for correction, because the grounds of correction are not
-  exhausted by the grounds of blame." **CLAIM-714** (Proposed; rests_on
-  CLAIM-733): where a party dismantled a capability in breach of a duty, the
-  incapacity "does not excuse it". **CLAIM-712** (Proposed): a complete audit
-  trail of who approved an outcome does not settle fair attribution
-  (SYNTHESIS-104).
-- **CLAIM-743** (Proposed; thesis; interpretive; rests_on CLAIM-361): a demand
-  ceases legitimately "only by a valid normative power, which changes the
-  reference set; an institution's ceasing to count it changes only the set it
-  recognizes." **CLAIM-745** (Proposed; rests_on CLAIM-725): a categorical
-  gate "can make evidence the governing standard requires to count unable to
-  change a decision", and compliance with it "establishes neither its legal
-  authority nor its justification" (SYNTHESIS-102).
-- **CLAIM-720** (Proposed; thesis; interpretive; first line
-  dependence-and-domination): no delegation, contract, collective decision
-  "or success in imposing an arrangement confers authority over whether a
-  person keeps the standing from which claims against it arise, 'because the
-  holder lacks the power to confer it'"; ARG-117 finds Locke supports "the
-  claim's form and not its scope" (SYNTHESIS-102).
+- **SYNTHESIS-104 and SYNTHESIS-102, in brief.** CLAIM-742 (Proposed;
+  interpretive): diminished culpability does not diminish "the need for
+  correction, because the grounds of correction are not exhausted by the
+  grounds of blame"; CLAIM-714 (Proposed; rests_on CLAIM-733): an incapacity
+  brought about in breach of a duty "does not excuse it"; CLAIM-712
+  (Proposed): a complete audit trail does not settle fair attribution.
+  CLAIM-743 (Proposed; rests_on CLAIM-361): a demand ceases legitimately "only
+  by a valid normative power"; "an institution's ceasing to count it changes
+  only the set it recognizes." CLAIM-745 (Proposed; rests_on CLAIM-725): a
+  categorical gate can make required evidence "unable to change a decision".
+  CLAIM-720 (Proposed; first line dependence-and-domination): no delegation or
+  "success in imposing an arrangement" confers authority over a person's
+  standing, "because the holder lacks the power to confer it"; ARG-117 finds
+  Locke supports "the claim's form and not its scope".
 
 ---
 
@@ -746,13 +739,6 @@ degrees of existence" (SYNTHESIS-048).
   could be restored, or not, separately". SYNTHESIS-056 records that none of
   the claims or cases says "any government's conduct was unlawful or
   intended".
-- **CASE-289 (Proposed): the 75-country visa pause** and its vacatur; the court
-  found the officers' determinations "ultimately irrelevant. The outcome is
-  predetermined" (SYNTHESIS-102).
-- **CASE-277 (Proposed): two hospitals** with equally complete audit trails,
-  one of them "the moral crumple zone of CLAIM-707 with a perfect paper trail"
-  (SYNTHESIS-104).
-
 ---
 
 ## 4. How the accounts fit together; what is open
