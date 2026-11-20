@@ -1,0 +1,49 @@
+---
+status: Active
+status_note: >-
+  Read on 2026-11-20 ([NOTE-tmp6ldyy](../notes.d/NOTE-tmp6ldyy.md)): the target article in full, the
+  authors' response skimmed, the commentaries not read. The foundational
+  statement of shared intentionality, which Tomasello's 2020 obligation
+  account ([LIT-125](LIT-125.md)) later builds on.
+title: 'Understanding and sharing intentions: The origins of cultural cognition'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Registered and read on 2026-11-20 at the owner's request, after a
+    review of the record's coverage of Tomasello found his comparative and
+    developmental work missing, from a research-group copy (Developmental
+    Psychology, University of Göttingen) of the publisher's typesetting of
+    the whole BBS treatment, pp. 675–735. Bibliographic details from the
+    text; DOI from PubMed and OpenAlex. Not held before.
+tags:
+- moral-psychology
+- cognition
+- social-science
+date: '2026-11-20'
+published: '2005-10-01'
+doi: '10.1017/S0140525X05000129'
+first_author: 'Tomasello'
+keywords: []
+implementations: []
+summary: >-
+  Tomasello, Carpenter, Call, Behne and Moll. What is uniquely human in
+  cognition is shared intentionality: collaboration with shared goals and
+  joint intentions, in which each participant's goals include the other's.
+  Apes read intentions but do not share them; infants do so by about 14
+  months; language, belief–desire psychology and norms derive from it.
+  Read in [NOTE-tmp6ldyy](../notes.d/NOTE-tmp6ldyy.md); account [THEORY-tmpm38wl](../theory.d/THEORY-tmpm38wl.md).
+---
+<!-- inactive-ok-file: THEORY-tmpm38wl — Proposed; this reading's account -->
+
+# LIT-tmpe8blp: Understanding and sharing intentions: The origins of cultural cognition
+
+Michael Tomasello, Malinda Carpenter, Josep Call, Tanya Behne and Henrike Moll (2005). "Understanding and sharing intentions: The origins of cultural cognition". Behavioral and Brain Sciences 28(5), pp. 675–691 (target article; with commentaries and response, pp. 675–735); copy read: https://www.psych.uni-goettingen.de/de/development/pdfs/tomasello-carpenter-call-behne-moll_behavioral-and-brain-sciences-2005.pdf.
+
+## Standing in the record
+
+Registered and read on 2026-11-20 at the owner's request, after a review
+of the record's coverage of Tomasello found his comparative and
+developmental work missing. The shared-intentionality foundations of the
+obligation account the record holds as [THEORY-495](../theory.d/THEORY-495.md).

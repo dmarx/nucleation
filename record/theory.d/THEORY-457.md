@@ -91,3 +91,11 @@ been divided alike. They were not.
 - The record's Equality–Proportionality split in the MFQ-2 ([THEORY-613](THEORY-613.md)) separates
   the two kinds of fairness this account treats as one outcome of partner
   choice.
+
+## Note of 2026-11-20: Tomasello 2012 and 2013, read
+
+A close parallel: Tomasello and colleagues 2012 ([LIT-tmpsh1xk](../literature.d/LIT-tmpsh1xk.md)) and
+Tomasello and Vaish 2013 ([LIT-tmpxn5g7](../literature.d/LIT-tmpxn5g7.md)) also derive helping and fairness
+from mutualistic collaboration and partner choice, by reputation as a good
+collaborator, with reciprocity demoted. They add the shared-intentionality
+psychology and a second, group-level step.

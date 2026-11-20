@@ -101,3 +101,60 @@ after collaboration. Neither happened.
 - It describes how obligation between peers arises, which is the shape of
   [QUESTION-007](../questions.d/QUESTION-007.md)'s question. [QUESTION-007](../questions.d/QUESTION-007.md) asks what grounds such normativity,
   and this account, by its author's concession, does not answer that.
+
+## Note of 2026-11-20: Tomasello 2005, 2012 and 2013, read
+
+Three earlier works by Tomasello and colleagues were read on 2026-11-20.
+The 2005 shared-intentionality paper ([LIT-tmpe8blp](../literature.d/LIT-tmpe8blp.md), [NOTE-tmp6ldyy](../notes.d/NOTE-tmp6ldyy.md)) is a
+precursor with a difference: there, shared goals carry a "shared
+commitment" from about 12–14 months, marked only by being upset at
+reneging, and morality enters only with internalized conventions; here,
+felt obligation starts inside the dyadic joint commitment and its specific
+behaviours appear at about three years. Read together they put joint
+intention and committed obligation about two years apart, which supports
+Bratman's commentary point that commitment, not collaboration, does the
+work, and bears on this account's promote_when, which asks to hold
+collaboration fixed and vary commitment. The 2005 paper also offers strong
+reciprocity as a possible substrate, where this account argues against
+reciprocity as a source of obligation. The 2012 interdependence paper
+([LIT-tmpsh1xk](../literature.d/LIT-tmpsh1xk.md)) and Tomasello and Vaish 2013 ([LIT-tmpxn5g7](../literature.d/LIT-tmpxn5g7.md)) are its
+evolutionary and developmental scaffolding, with an early form of
+sanctioning oneself on behalf of the group. Background and partial
+support; the promote_when is not met.
+
+## Note of 2026-11-20: works cited in the Tomasello interview, read
+
+Two readings bear on this account. Tomasello's "The role of roles"
+([LIT-tmp13v45](../literature.d/LIT-tmp13v45.md), [NOTE-tmp2kq0t](../notes.d/NOTE-tmp2kq0t.md)) restates it in short, with the same
+experiments (role ideals, self-other equivalence, joint commitment as
+collaborative self-regulation, guilt), and adds a cognitive half this
+account lacks; it supports the account as its author's restatement, not as
+independent evidence. Schelling's "Bargaining, Communication, and Limited
+War" ([LIT-tmp4uor8](../literature.d/LIT-tmp4uor8.md), [NOTE-tmpi86i1](../notes.d/NOTE-tmpi86i1.md)) is a contrast: an equal split is a
+focal point, "arbitrary in its reliance on a kind of recognizable
+mathematical purity" (p. 207), so part of the equal-sharing evidence this
+account reads as fairness inside a joint commitment has a non-normative
+rival, coordination on a salient division by mutual expectation with no
+"we". The studies cited here that compare collaboration with windfalls
+bear on the rival; whether they exclude it is not settled by either
+reading.
+
+## Note of 2026-11-20: developmental readings of 2026-11-20
+<!-- inactive-ok-file: CLAIM-tmpue255 THEORY-tmpitywd THEORY-tmpj4l2c THEORY-tmpsn2t0 THEORY-tmpf3zwk THEORY-tmpjqrp3 LIT-tmpkwxfx THEORY-tmpuerfk THEORY-tmpgv0cr THEORY-tmpoak8v — Proposed or newly filed; readings and the claim cited -->
+
+Readings filed for the owner's question whether three-year-olds have the
+theory of mind a mutual-expectation reading of equal sharing needs. They
+bear on this account four ways. (1) With windfalls, three-year-olds state
+equal division as the norm but keep more for themselves ([THEORY-tmpitywd](THEORY-tmpitywd.md)),
+so collaboration bears on following the norm, not on knowing it. (2)
+Recursive mindreading arrives years after three ([THEORY-tmpj4l2c](THEORY-tmpj4l2c.md),
+[THEORY-tmpsn2t0](THEORY-tmpsn2t0.md)), and Tomasello himself holds that three-year-olds
+coordinate perspectives poorly ([THEORY-tmpf3zwk](THEORY-tmpf3zwk.md)); recursive coordination
+is shown at six ([THEORY-tmpjqrp3](THEORY-tmpjqrp3.md)). (3) Tacit coordination on salience
+appears from about five, not three ([LIT-tmpkwxfx](../literature.d/LIT-tmpkwxfx.md), abstract;
+[THEORY-tmpuerfk](THEORY-tmpuerfk.md)). (4) Killen ([THEORY-tmpgv0cr](THEORY-tmpgv0cr.md)) gives a rival reading: the
+"we" does not suffice, independent judgment and peer conflict do. Killen
+and Smetana note the motive behind the equal sharing was never examined
+([THEORY-tmpoak8v](THEORY-tmpoak8v.md)). The owner's claim [CLAIM-tmpue255](../claims.d/CLAIM-tmpue255.md) builds on this
+account, reading the joint commitment as the motive and a known equal
+default as the content.

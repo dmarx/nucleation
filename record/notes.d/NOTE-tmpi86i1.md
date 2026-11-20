@@ -1,0 +1,86 @@
+---
+status: Read
+paper: LIT-tmp4uor8
+title: 'Schelling — Bargaining, Communication, and Limited War'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Read on 2026-11-20 by a delegated reader from the 2008 reprint in
+    Negotiation and Conflict Management Research
+    (https://ncmr.lps.library.cmu.edu/article/87/galley/90/download). The
+    host states: "This article is reprinted with permission. ... Copyright
+    1957 by Sage Publications Inc. Journals. Reproduced with permission of
+    Sage Publications Inc. Journals in the format Journal via Copyright
+    Clearance Center." A copy whose host states it is published with the
+    rights holder's permission (ADR-102): in full; pages cited are the
+    reprint's. Running notes on the branch claude/readers/iv-convention
+    (ADR-108). Quotations rechecked by the filer by script against the
+    downloaded text.
+date: '2026-11-20'
+summary: >-
+  Tacit coordination on focal points: prominence and uniqueness for these
+  parties; explicit bargaining also needs converging expectations;
+  fairness partly a focusing device; tacit limits in war must be
+  qualitative.
+---
+<!-- inactive-ok-file: LIT-473 THEORY-414 THEORY-495 QUESTION-009 — Unavailable, Proposed or Deferred; entries this reading bears on -->
+
+# NOTE-tmpi86i1: Schelling — Bargaining, Communication, and Limited War
+
+## Contribution
+
+The idea of the focal point and of bargaining as the coordination of
+expectations, the salience Lewis's account of convention builds on.
+
+## Key results
+
+1. **Coordination of expectations.** "What is necessary is to
+   co-ordinate predictions" (p. 199); the situation must "provide some
+   clue for co-ordinating behavior, some focal point for each" (p. 201).
+   "But it is a prominence that depends on time and place and who the
+   people are." (p. 201).
+2. **Evidence.** Informal questionnaires; for instance, "In problem 4,
+   36 out of 40 chose $50." (p. 205, n. 4).
+3. **Bargaining.** "Each party is the prisoner or the beneficiary of
+   their mutual expectations" (p. 203); "These infinitely reflexive
+   expectations must somehow converge on a single point" (p. 210).
+4. **Fairness as focus.** "Even the 50–50 split is arbitrary in its
+   reliance on a kind of recognizable mathematical purity" (p. 207); "the
+   moral force of fairness is greatly reinforced by the power of a" focal
+   point (pp. 211–212).
+5. **Society.** "Perhaps many kinds of social stability and the
+   formation of interest groups reflect the same dependence on such
+   co-ordinators" (p. 212).
+6. **Limited war.** "it is a lumpy, discrete world that is better able
+   to recognize qualitative than quantitative differences" (p. 214).
+
+## Assumptions
+
+Each player knows the other is also trying to coordinate; imagination more
+than logic finds the clue; the evidence is informal, "unscientific" in his
+word; tacit and explicit bargaining lie on one continuum.
+
+## Concepts
+
+Tacit bargaining; tacit coordination; focal point; prominence and
+uniqueness; coordination of expectations; qualitative limits; rallying
+point.
+
+## Bearing on the record
+
+- **[LIT-473](../literature.d/LIT-473.md)** (Lewis), the source of the salience Lewis's account of
+  convention uses.
+- **[THEORY-414](../theory.d/THEORY-414.md)** (institutions as rules in equilibrium), supports it:
+  focal points are how one of several equilibria is selected.
+- **[THEORY-495](../theory.d/THEORY-495.md)** (Tomasello, obligation), a contrast: an equal split is
+  focal as well as fair, a non-normative rival for part of the
+  equal-sharing evidence; coordination by mutual expectation with no "we".
+- **[QUESTION-009](../questions.d/QUESTION-009.md)**, a contrast case: coordination with no joint agent.
+- **[THEORY-1630](../theory.d/THEORY-1630.md)** (team reasoning), a later explanation of why people
+  pick focal points; Schelling relies on salience.
+
+## Limitations
+
+Chapter 4 and the book's revisions to chapter 3 unread; informal evidence.
