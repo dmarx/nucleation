@@ -24,7 +24,7 @@ summary: >-
   conventions and norms under intergroup competition. Reciprocity demoted;
   Alexander not cited. Speculative, by its own account.
 ---
-<!-- inactive-ok-file: THEORY-tmpe5ngv LIT-495 THEORY-495 LIT-504 THEORY-663 LIT-514 LIT-473 — Proposed, Unfetched or Unavailable; entries this reading bears on -->
+<!-- inactive-ok-file: LIT-495 THEORY-495 LIT-504 THEORY-663 LIT-514 LIT-473 — Proposed, Unfetched or Unavailable; entries this reading bears on -->
 
 # NOTE-tmpgi6rv: Tomasello et al. — Two Key Steps in the Evolution of Human Cooperation: The Interdependence Hypothesis
 
@@ -87,7 +87,7 @@ social selection.
 
 ## Bearing on the record
 
-- **LIT-495** and Alexander's 1985 account, a contrast: collaboration
+- **[LIT-495](../literature.d/LIT-495.md)** and Alexander's 1985 account, a contrast: collaboration
   first and reciprocity last, where Alexander puts indirect reciprocity
   first. They converge on audience-based partner choice and on intergroup
   competition, and differ on what the return is and what is reputed.
@@ -98,23 +98,23 @@ social selection.
   on an indirect-reciprocity model (Panchanathan and Boyd) for punishing
   non-punishers; the difference from reciprocity is asserted, not
   modelled.
-- **THEORY-495**, background: the evolutionary scaffolding of the
+- **[THEORY-495](../theory.d/THEORY-495.md)**, background: the evolutionary scaffolding of the
   obligation account, with an early form of its "emissary of the group"
   idea; nothing on obligation as such.
-- **LIT-504**, a stand-in for the book's evolutionary core, not its
+- **[LIT-504](../literature.d/LIT-504.md)**, a stand-in for the book's evolutionary core, not its
   moral-psychology chapters.
-- **THEORY-457** (Baumard and colleagues, mutualistic morality by
+- **[THEORY-457](../theory.d/THEORY-457.md)** (Baumard and colleagues, mutualistic morality by
   partner choice), the closest parallel.
-- **THEORY-567** (Nowak) and **THEORY-663** (Trivers), contrasts: the
+- **[THEORY-567](../theory.d/THEORY-567.md)** (Nowak) and **[THEORY-663](../theory.d/THEORY-663.md)** (Trivers), contrasts: the
   stakeholder mechanism is none of Nowak's five rules, and the
   reciprocity-first baseline is set aside without citing Trivers.
-- **LIT-514** (Boehm), a parallel: cited for counter-dominance; partner
+- **[LIT-514](../literature.d/LIT-514.md)** (Boehm), a parallel: cited for counter-dominance; partner
   choice comes first and punishment second, against Boehm's
   punishment-driven social selection.
-- **THEORY-414** (Guala, institutions as Stag Hunt equilibria) and
-  **LIT-473** (Lewis, cited for conventions), parallels to the second
+- **[THEORY-414](../theory.d/THEORY-414.md)** (Guala, institutions as Stag Hunt equilibria) and
+  **[LIT-473](../literature.d/LIT-473.md)** (Lewis, cited for conventions), parallels to the second
   step.
-- **LIT-047 and NOTE-034** (morality-as-cooperation), a parallel:
+- **[LIT-047](../literature.d/LIT-047.md) and [NOTE-034](NOTE-034.md)** (morality-as-cooperation), a parallel:
   cooperation-first, from one mutualistic root rather than seven games.
 
 ## Limitations

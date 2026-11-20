@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmp0v2mf) as a stand-in for Tomasello's précis
-  of A Natural History of Human Morality (LIT-tmpfottc), which was not
-  fetched, and so for the book (LIT-504): it states the book's argument
+  Read on 2026-11-20 ([NOTE-tmp0v2mf](../notes.d/NOTE-tmp0v2mf.md)) as a stand-in for Tomasello's précis
+  of A Natural History of Human Morality ([LIT-tmpfottc](LIT-tmpfottc.md)), which was not
+  fetched, and so for the book ([LIT-504](LIT-504.md)): it states the book's argument
   three years earlier, covering roughly its chapters 1–4 and not chapter
   5.
 title: 'Origins of Human Cooperation and Morality'
@@ -34,8 +34,8 @@ summary: >-
   giving a second-personal "joint morality" of helping, sharing and
   commitment; then group-wide norms, giving an agent-neutral "collective
   morality" enforced on others and on the self. Registered as a stand-in
-  for the précis and the 2016 book. Read in NOTE-tmp0v2mf; account
-  THEORY-tmpgq14u.
+  for the précis and the 2016 book. Read in [NOTE-tmp0v2mf](../notes.d/NOTE-tmp0v2mf.md); account
+  [THEORY-tmpgq14u](../theory.d/THEORY-tmpgq14u.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpgq14u LIT-tmpfottc LIT-504 — Proposed, Unfetched or Unavailable; this reading's account and the works it stands in for -->
 
@@ -47,4 +47,4 @@ Michael Tomasello and Amrisha Vaish (2013). "Origins of Human Cooperation and Mo
 
 Registered and read on 2026-11-20 at the owner's request, after a review
 of the record's coverage of Tomasello found his comparative and
-developmental work missing, as a stand-in for LIT-tmpfottc and LIT-504.
+developmental work missing, as a stand-in for [LIT-tmpfottc](LIT-tmpfottc.md) and [LIT-504](LIT-504.md).

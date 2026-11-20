@@ -16,8 +16,8 @@ promote_when: >-
   these four grades, with the tier each adds and the lineage each is
   assigned to.
 summary: >-
-  From the reading of LIT-tmp8gni8 in NOTE-tmpg5axw, a stand-in for
-  LIT-tmpnhoiu. A restatement of the book's typology; its evidence is in
+  From the reading of [LIT-tmp8gni8](../literature.d/LIT-tmp8gni8.md) in [NOTE-tmpg5axw](../notes.d/NOTE-tmpg5axw.md), a stand-in for
+  [LIT-tmpnhoiu](../literature.d/LIT-tmpnhoiu.md). A restatement of the book's typology; its evidence is in
   the book. Proposed until its promote_when is met.
 ---
 

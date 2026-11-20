@@ -80,30 +80,30 @@ internalized group judgment.
 
 ## How far it stands in
 
-For the précis (LIT-tmpfottc) and the book (LIT-504): it covers roughly
+For the précis ([LIT-tmpfottc](../literature.d/LIT-tmpfottc.md)) and the book ([LIT-504](../literature.d/LIT-504.md)): it covers roughly
 the book's chapter 1 (interdependence), the ape half of chapter 2, chapter
 3 (second-personal morality) and chapter 4 ("objective" morality), without
 those terms; nothing like chapter 5. It predates the book's account of
-obligation as self-regulation within joint commitment, which LIT-125
+obligation as self-regulation within joint commitment, which [LIT-125](../literature.d/LIT-125.md)
 gives. Whether the book concedes a tie between reciprocity and obligation
 is not settled by it.
 
 ## Bearing on the record
 
-- **LIT-504**, the closest lawful stand-in so far for chapters 1–4.
-- **THEORY-495**, background and support: the same two-step shape six
+- **[LIT-504](../literature.d/LIT-504.md)**, the closest lawful stand-in so far for chapters 1–4.
+- **[THEORY-495](../theory.d/THEORY-495.md)**, background and support: the same two-step shape six
   years earlier; the obligation account develops the passage on
   sanctioning oneself on behalf of the group.
-- **LIT-495** and Alexander's account, a contrast: reciprocity here is
+- **[LIT-495](../literature.d/LIT-495.md)** and Alexander's account, a contrast: reciprocity here is
   ape-level and attitudinal, and collaboration, not indirect reciprocity,
   is the source of morality; both give partner choice and reputation a
   role.
-- **THEORY-457** (Baumard and colleagues), a parallel to the
+- **[THEORY-457](../theory.d/THEORY-457.md)** (Baumard and colleagues), a parallel to the
   joint-morality step and its partner choice.
-- **THEORY-075** (Korsgaard on obligation), cited for normative
-  self-governance (p. 240); **LIT-2756** (Darwall), the source of
+- **[THEORY-075](../theory.d/THEORY-075.md)** (Korsgaard on obligation), cited for normative
+  self-governance (p. 240); **[LIT-2756](../literature.d/LIT-2756.md)** (Darwall), the source of
   "second-personal" (p. 245).
-- **CLAIM-096 and QUESTION-007**, background: a genesis, not a
+- **[CLAIM-096](../claims.d/CLAIM-096.md) and [QUESTION-007](../questions.d/QUESTION-007.md)**, background: a genesis, not a
   grounding.
 
 ## Limitations

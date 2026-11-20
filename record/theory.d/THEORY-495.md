@@ -105,7 +105,7 @@ after collaboration. Neither happened.
 ## Note of 2026-11-20: Tomasello 2005, 2012 and 2013, read
 
 Three earlier works by Tomasello and colleagues were read on 2026-11-20.
-The 2005 shared-intentionality paper (LIT-tmpe8blp, NOTE-tmp6ldyy) is a
+The 2005 shared-intentionality paper ([LIT-tmpe8blp](../literature.d/LIT-tmpe8blp.md), [NOTE-tmp6ldyy](../notes.d/NOTE-tmp6ldyy.md)) is a
 precursor with a difference: there, shared goals carry a "shared
 commitment" from about 12–14 months, marked only by being upset at
 reneging, and morality enters only with internalized conventions; here,
@@ -117,7 +117,7 @@ work, and bears on this account's promote_when, which asks to hold
 collaboration fixed and vary commitment. The 2005 paper also offers strong
 reciprocity as a possible substrate, where this account argues against
 reciprocity as a source of obligation. The 2012 interdependence paper
-(LIT-tmpsh1xk) and Tomasello and Vaish 2013 (LIT-tmpxn5g7) are its
+([LIT-tmpsh1xk](../literature.d/LIT-tmpsh1xk.md)) and Tomasello and Vaish 2013 ([LIT-tmpxn5g7](../literature.d/LIT-tmpxn5g7.md)) are its
 evolutionary and developmental scaffolding, with an early form of
 sanctioning oneself on behalf of the group. Background and partial
 support; the promote_when is not met.

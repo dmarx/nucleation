@@ -16,7 +16,7 @@ promote_when: >-
   guilt appear later, around age three, in non-WEIRD as well as WEIRD
   children.
 summary: >-
-  From the reading of LIT-tmpxn5g7 in NOTE-tmp0v2mf, a stand-in for the
+  From the reading of [LIT-tmpxn5g7](../literature.d/LIT-tmpxn5g7.md) in [NOTE-tmp0v2mf](../notes.d/NOTE-tmp0v2mf.md), a stand-in for the
   2016 book. A review. Proposed until its promote_when is met.
 ---
 

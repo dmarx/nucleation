@@ -100,14 +100,14 @@ aggregation rule no process controls is itself a governing level, is
 untouched.
 
 ## Note of 2026-11-20: Tomasello on tiers of control, read
-<!-- inactive-ok-file: THEORY-tmp8f4on LIT-tmpnhoiu — Proposed or Unavailable; the account and the book -->
+<!-- inactive-ok-file: THEORY-tmp8f4on — Proposed or Unavailable; the account and the book -->
 
-Tomasello's model of agency (LIT-tmp8gni8, read in NOTE-tmpg5axw; account
-THEORY-tmp8f4on; with LIT-tmpph4ak) gives a direct answer within one
+Tomasello's model of agency ([LIT-tmp8gni8](../literature.d/LIT-tmp8gni8.md), read in [NOTE-tmpg5axw](../notes.d/NOTE-tmpg5axw.md); account
+[THEORY-tmp8f4on](../theory.d/THEORY-tmp8f4on.md); with [LIT-tmpph4ak](../literature.d/LIT-tmpph4ak.md)) gives a direct answer within one
 account: an executive tier monitors and controls action and attention, and
 in great apes a metacognitive tier monitors and controls the executive
 tier, "two analogous control systems operating on different material from
 different tiers" (p. 9). Shared agency adds regulation by joint and
 collective norms. Evidence for a governing level, of a specific kind; it
 does not say whether the levels the question has in view are these tiers.
-Relation written: THEORY-tmp8f4on bears_on this question.
+Relation written: [THEORY-tmp8f4on](../theory.d/THEORY-tmp8f4on.md) bears_on this question.

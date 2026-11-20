@@ -9,8 +9,8 @@ status_note: >-
   copy at the-brights.net
   (/morality/statement_2_studies/DOI/10.1080_09515089.2018.1486605.pdf),
   lawful under the article's CC BY licence, was refused by this session's
-  permission system and not worked around (ADR-074). Tomasello and Vaish
-  2013 (LIT-tmpxn5g7) stands in. All on 2026-11-20.
+  permission system and not worked around ([ADR-074](../decisions.d/ADR-074.md)). Tomasello and Vaish
+  2013 ([LIT-tmpxn5g7](LIT-tmpxn5g7.md)) stands in. All on 2026-11-20.
 title: 'Precís of a natural history of human morality'
 version: 1
 history:
@@ -34,14 +34,14 @@ keywords: []
 implementations: []
 summary: >-
   Tomasello's eight-page précis of A Natural History of Human Morality
-  (LIT-504), opening a book symposium with commentaries by Roughley,
+  ([LIT-504](LIT-504.md)), opening a book symposium with commentaries by Roughley,
   Wilson, Boehm, van Schaik and Burkart, Pettit, Gilbert, Killen and
   Darwall, and a response. Per its abstract: human morality is a "we > me"
   orientation emanating from the logic of interdependence at the levels of
   collaboration and of the cultural group. Unfetched; read through
-  LIT-tmpxn5g7.
+  [LIT-tmpxn5g7](LIT-tmpxn5g7.md).
 ---
-<!-- inactive-ok-file: LIT-tmpxn5g7 LIT-504 — newly filed or Unavailable; the stand-in and the book -->
+<!-- inactive-ok-file: LIT-504 — newly filed or Unavailable; the stand-in and the book -->
 
 # LIT-tmpfottc: Precís of a natural history of human morality
 

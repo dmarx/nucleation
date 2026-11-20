@@ -24,7 +24,7 @@ summary: >-
   sharing. Commitment appears only as being upset at reneging; morality
   enters later, via Searle. A review.
 ---
-<!-- inactive-ok-file: THEORY-tmpm38wl THEORY-495 LIT-471 LIT-488 LIT-492 LIT-477 LIT-485 LIT-504 CLAIM-096 — Proposed, Deferred or Unavailable; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-495 LIT-471 LIT-488 LIT-492 LIT-477 LIT-485 LIT-504 CLAIM-096 — Proposed, Deferred or Unavailable; entries this reading bears on -->
 
 # NOTE-tmp6ldyy: Tomasello et al. — Understanding and sharing intentions: The origins of cultural cognition
 
@@ -74,7 +74,7 @@ and shared commitment; collective intentionality.
 
 ## Bearing on the record
 
-- **THEORY-495** (Tomasello 2020, obligation), a precursor with three
+- **[THEORY-495](../theory.d/THEORY-495.md)** (Tomasello 2020, obligation), a precursor with three
   shifts. In 2005 the dyadic commitment carries no obligation, only being
   upset at reneging; morality enters only with internalized conventions,
   borrowed from Searle; by 2020 felt obligation starts inside the dyadic
@@ -82,25 +82,25 @@ and shared commitment; collective intentionality.
   12–14 months; in 2020 the obligation-specific behaviours appear at about
   three years. Read together the papers put joint intention and committed
   obligation about two years apart, which supports Bratman's point,
-  recorded in THEORY-495, that commitment rather than collaboration does
+  recorded in [THEORY-495](../theory.d/THEORY-495.md), that commitment rather than collaboration does
   the work. And in 2005 strong reciprocity is a possible substrate, where
-  THEORY-495 argues against reciprocity as a source of obligation.
-- **LIT-471 and LIT-488** (Bratman), adopted: the planning theory of
+  [THEORY-495](../theory.d/THEORY-495.md) argues against reciprocity as a source of obligation.
+- **[LIT-471](../literature.d/LIT-471.md) and [LIT-488](../literature.d/LIT-488.md)** (Bratman), adopted: the planning theory of
   intention and Bratman's conditions on shared activity, used as
   developmental stages and a species contrast rather than as analysis.
-- **LIT-492 and LIT-477** (Gilbert), a borrowed label: "shared
+- **[LIT-492](../literature.d/LIT-492.md) and [LIT-477](../literature.d/LIT-477.md)** (Gilbert), a borrowed label: "shared
   commitment" here has no plural subject and no rights of rebuke; its mark
   is affective. Note 3 argues in Gilbert's manner against reducing a
   shared goal to common knowledge.
-- **THEORY-625 and LIT-485** (Searle), relied on for institutional facts
+- **[THEORY-625](../theory.d/THEORY-625.md) and [LIT-485](../literature.d/LIT-485.md)** (Searle), relied on for institutional facts
   and desire-independent reasons; but here we-intentionality is built in
   development, not taken as a primitive.
-- **TERM-080**, both senses: participatory (joint intention) and
+- **[TERM-080](../terms.d/TERM-080.md)**, both senses: participatory (joint intention) and
   institutional (collective intentionality), kept apart by developmental
   stage.
-- **LIT-504**, a precursor: the interdependence hypothesis is absent
-  here (it is in LIT-tmpsh1xk).
-- **CLAIM-096 and QUESTION-007**, background only: no grounding of
+- **[LIT-504](../literature.d/LIT-504.md)**, a precursor: the interdependence hypothesis is absent
+  here (it is in [LIT-tmpsh1xk](../literature.d/LIT-tmpsh1xk.md)).
+- **[CLAIM-096](../claims.d/CLAIM-096.md) and [QUESTION-007](../questions.d/QUESTION-007.md)**, background only: no grounding of
   normativity.
 
 ## Limitations

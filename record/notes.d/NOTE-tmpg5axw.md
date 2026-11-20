@@ -71,22 +71,22 @@ perspective coordination.
 
 ## Bearing on the record
 
-- **QUESTION-054** (whether an agent's regimes have a governing level),
+- **[QUESTION-054](../questions.d/QUESTION-054.md)** (whether an agent's regimes have a governing level),
   a direct answer within one account: distinct executive and metacognitive
   tiers, each monitoring and controlling the one below. The relation
   `bears_on` is written from this reading's account.
-- **CLAIM-024 and CLAIM-487** (whether control theory and
+- **[CLAIM-024](../claims.d/CLAIM-024.md) and [CLAIM-487](../claims.d/CLAIM-487.md)** (whether control theory and
   executive-control research replace the will-organization account), a
   test case: this is such an account, carried from lizards to children.
-  Noted; whether it bears out CLAIM-024's charge is left to the owner.
-- **CLAIM-010** (every control system has a will), a contrast: here a
+  Noted; whether it bears out [CLAIM-024](../claims.d/CLAIM-024.md)'s charge is left to the owner.
+- **[CLAIM-010](../claims.d/CLAIM-010.md)** (every control system has a will), a contrast: here a
   bare control loop is only goal-directed; choosing among options needs an
   executive tier.
-- **CLAIM-155 and CLAIM-174**, a parallel: an independent ladder of
+- **[CLAIM-155](../claims.d/CLAIM-155.md) and [CLAIM-174](../claims.d/CLAIM-174.md)**, a parallel: an independent ladder of
   grades of agency, which also leaves consciousness out.
-- **CLAIM-539** (Jennings, a process over processes), a parallel to the
+- **[CLAIM-539](../claims.d/CLAIM-539.md)** (Jennings, a process over processes), a parallel to the
   metacognitive tier.
-- **THEORY-495**, background: its obligation account becomes the top
+- **[THEORY-495](../theory.d/THEORY-495.md)**, background: its obligation account becomes the top
   grade of the sequence.
 
 ## Limitations

@@ -58,10 +58,10 @@ others.
 
 ## Bearing on the record
 
-- **THEORY-662, CLAIM-439 and QUESTION-266**, a parallel: the debate
+- **[THEORY-662](../theory.d/THEORY-662.md), [CLAIM-439](../claims.d/CLAIM-439.md) and [QUESTION-266](../questions.d/QUESTION-266.md)**, a parallel: the debate
   over whether procedural metacognition monitors a feeling or a cognitive
   state; the paper cites Carruthers and Williams, who argue for feelings.
-- **QUESTION-054**, as for LIT-tmp8gni8: the metacognitive tier is a
+- **[QUESTION-054](../questions.d/QUESTION-054.md)**, as for [LIT-tmp8gni8](../literature.d/LIT-tmp8gni8.md): the metacognitive tier is a
   governing level over the executive.
 
 ## Limitations

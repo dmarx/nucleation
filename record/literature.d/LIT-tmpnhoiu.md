@@ -5,8 +5,8 @@ status_note: >-
   licence; OpenAlex closed). The MIT Press product page returned 403 and a
   chapter PDF on MIT Press Direct a Cloudflare challenge, both publisher
   copies behind access control. Read through two of Tomasello's open
-  papers that restate it: LIT-tmp8gni8 (the architecture and the four
-  grades) and LIT-tmpph4ak (the step from mammals to apes, with evidence).
+  papers that restate it: [LIT-tmp8gni8](LIT-tmp8gni8.md) (the architecture and the four
+  grades) and [LIT-tmpph4ak](LIT-tmpph4ak.md) (the step from mammals to apes, with evidence).
   It stays Unavailable until a copy is supplied.
 title: 'The Evolution of Agency: Behavioral Organization from Lizards to Humans'
 version: 1
@@ -33,7 +33,7 @@ summary: >-
   the human lineage: goal-directed agency in early vertebrates,
   intentional agency in early mammals, rational agency in early apes and
   shared, socially normative agency in early humans. Unread; read through
-  LIT-tmp8gni8 and LIT-tmpph4ak.
+  [LIT-tmp8gni8](LIT-tmp8gni8.md) and [LIT-tmpph4ak](LIT-tmpph4ak.md).
 ---
 
 # LIT-tmpnhoiu: The Evolution of Agency: Behavioral Organization from Lizards to Humans
@@ -52,8 +52,8 @@ Vertebrates as Goal-Directed Agents (27–42); Ancient Mammals as
 Intentional Agents (43–66); Ancient Apes as Rational Agents (67–90);
 Ancient Humans as Socially Normative Agents (91–120); Agency as Behavioral
 Organization (121–134); two addenda, notes, references, index.
-LIT-tmp8gni8 restates the architecture of chapter 1 and the four grades of
-chapters 2–5 in about a page; LIT-tmpph4ak stands in for chapter 4 and the
+[LIT-tmp8gni8](LIT-tmp8gni8.md) restates the architecture of chapter 1 and the four grades of
+chapters 2–5 in about a page; [LIT-tmpph4ak](LIT-tmpph4ak.md) stands in for chapter 4 and the
 step from chapter 3, with the evidence. Neither carries the vertebrate or
 human chapters' evidence. Reviews located, not read: Bliss, Metascience 32
 (2023); Falikman, Mind, Culture, and Activity (2023). Its sequel on

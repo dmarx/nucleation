@@ -15,7 +15,7 @@ promote_when: >-
   collaborate in complementary roles, re-engage a stopped partner, reverse
   roles and share attention declaratively.
 summary: >-
-  From the reading of LIT-tmpe8blp in NOTE-tmp6ldyy. A review of
+  From the reading of [LIT-tmpe8blp](../literature.d/LIT-tmpe8blp.md) in [NOTE-tmp6ldyy](../notes.d/NOTE-tmp6ldyy.md). A review of
   comparative and developmental evidence; the 14-month claim is, by the
   authors' own response, the least supported. Proposed until its
   promote_when is met.

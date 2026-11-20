@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpgi6rv): the target article in full; comments
+  Read on 2026-11-20 ([NOTE-tmpgi6rv](../notes.d/NOTE-tmpgi6rv.md)): the target article in full; comments
   and reply listed, not read. The open statement of the evolutionary core
-  of A Natural History of Human Morality (LIT-504), which is unread. Cited
+  of A Natural History of Human Morality ([LIT-504](LIT-504.md)), which is unread. Cited
   by Tomasello in the 2026 interview the owner shared.
 title: 'Two Key Steps in the Evolution of Human Cooperation: The Interdependence Hypothesis'
 version: 1
@@ -34,7 +34,7 @@ summary: >-
   choice by reputation as a good collaborator; then group growth and
   intergroup competition scaled joint into collective intentionality, with
   conventions, norms and institutions. Reciprocity plays "only minor
-  roles". Read in NOTE-tmpgi6rv; account THEORY-tmpe5ngv.
+  roles". Read in [NOTE-tmpgi6rv](../notes.d/NOTE-tmpgi6rv.md); account [THEORY-tmpe5ngv](../theory.d/THEORY-tmpe5ngv.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpe5ngv LIT-495 LIT-504 — Proposed, Unfetched or Unavailable; this reading's account and the works it stands beside -->
 
@@ -47,5 +47,5 @@ Michael Tomasello, Alicia P. Melis, Claudio Tennie, Emily Wyman and Esther Herrm
 Registered and read on 2026-11-20 at the owner's request, after a review
 of the record's coverage of Tomasello found his comparative and
 developmental work missing. The collaboration-first counterpart to
-Alexander's reciprocity-first account (LIT-495), and a stand-in for the
-evolutionary chapters of LIT-504.
+Alexander's reciprocity-first account ([LIT-495](LIT-495.md)), and a stand-in for the
+evolutionary chapters of [LIT-504](LIT-504.md).

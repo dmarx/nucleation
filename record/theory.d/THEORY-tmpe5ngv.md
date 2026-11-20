@@ -16,7 +16,7 @@ promote_when: >-
   samples; and that collaboration with joint commitment precedes norm
   enforcement in development and in comparison with other apes.
 summary: >-
-  From the reading of LIT-tmpsh1xk in NOTE-tmpgi6rv. Speculative by its
+  From the reading of [LIT-tmpsh1xk](../literature.d/LIT-tmpsh1xk.md) in [NOTE-tmpgi6rv](../notes.d/NOTE-tmpgi6rv.md). Speculative by its
   own account; the separation from indirect reciprocity is asserted, not
   modelled. Proposed until its promote_when is met.
 ---

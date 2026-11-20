@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmp6ldyy): the target article in full, the
+  Read on 2026-11-20 ([NOTE-tmp6ldyy](../notes.d/NOTE-tmp6ldyy.md)): the target article in full, the
   authors' response skimmed, the commentaries not read. The foundational
   statement of shared intentionality, which Tomasello's 2020 obligation
-  account (LIT-125) later builds on.
+  account ([LIT-125](LIT-125.md)) later builds on.
 title: 'Understanding and sharing intentions: The origins of cultural cognition'
 version: 1
 history:
@@ -33,7 +33,7 @@ summary: >-
   joint intentions, in which each participant's goals include the other's.
   Apes read intentions but do not share them; infants do so by about 14
   months; language, belief–desire psychology and norms derive from it.
-  Read in NOTE-tmp6ldyy; account THEORY-tmpm38wl.
+  Read in [NOTE-tmp6ldyy](../notes.d/NOTE-tmp6ldyy.md); account [THEORY-tmpm38wl](../theory.d/THEORY-tmpm38wl.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpm38wl — Proposed; this reading's account -->
 
@@ -46,4 +46,4 @@ Michael Tomasello, Malinda Carpenter, Josep Call, Tanya Behne and Henrike Moll (
 Registered and read on 2026-11-20 at the owner's request, after a review
 of the record's coverage of Tomasello found his comparative and
 developmental work missing. The shared-intentionality foundations of the
-obligation account the record holds as THEORY-495.
+obligation account the record holds as [THEORY-495](../theory.d/THEORY-495.md).

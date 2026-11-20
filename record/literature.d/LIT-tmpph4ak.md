@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpk6dum) as a stand-in for chapter 4 of The
-  Evolution of Agency (LIT-tmpnhoiu), "Ancient Apes as Rational Agents",
+  Read on 2026-11-20 ([NOTE-tmpk6dum](../notes.d/NOTE-tmpk6dum.md)) as a stand-in for chapter 4 of The
+  Evolution of Agency ([LIT-tmpnhoiu](LIT-tmpnhoiu.md)), "Ancient Apes as Rational Agents",
   and the step to it from chapter 3, with their evidence. Open access, CC
   BY 4.0.
 title: 'Social cognition and metacognition in great apes: a theory'
@@ -31,8 +31,8 @@ summary: >-
   goals, perception and knowledge, and monitor their own uncertainty. His
   theory: mammals have an executive tier and apes add a metacognitive one,
   and apes attribute to others the states they monitor in themselves,
-  perhaps under competition for clumped fruit. Read in NOTE-tmpk6dum;
-  account THEORY-tmp9hirk.
+  perhaps under competition for clumped fruit. Read in [NOTE-tmpk6dum](../notes.d/NOTE-tmpk6dum.md);
+  account [THEORY-tmp9hirk](../theory.d/THEORY-tmp9hirk.md).
 ---
 <!-- inactive-ok-file: LIT-tmpnhoiu THEORY-tmp9hirk — Unavailable or Proposed; the book and this reading's account -->
 
@@ -44,4 +44,4 @@ Michael Tomasello (2023). "Social cognition and metacognition in great apes: a t
 
 Registered and read on 2026-11-20 at the owner's request, after a review
 of the record's coverage of Tomasello found his comparative and
-developmental work missing, as a stand-in for LIT-tmpnhoiu.
+developmental work missing, as a stand-in for [LIT-tmpnhoiu](LIT-tmpnhoiu.md).

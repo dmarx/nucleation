@@ -15,8 +15,8 @@ promote_when: >-
   that across primate species self-regulatory and social-cognitive skills
   correlate as the paper predicts.
 summary: >-
-  From the reading of LIT-tmpph4ak in NOTE-tmpk6dum, a stand-in for
-  chapter 4 of LIT-tmpnhoiu. Proposed until its promote_when is met.
+  From the reading of [LIT-tmpph4ak](../literature.d/LIT-tmpph4ak.md) in [NOTE-tmpk6dum](../notes.d/NOTE-tmpk6dum.md), a stand-in for
+  chapter 4 of [LIT-tmpnhoiu](../literature.d/LIT-tmpnhoiu.md). Proposed until its promote_when is met.
 ---
 
 # THEORY-tmp9hirk: Tomasello proposes that great apes add a metacognitive tier of control to the executive tier common to mammals, monitoring their own executive decisions and uncertainty, and that they understand others as agents by attributing to them the goals, perceptions and knowledge they monitor in themselves
