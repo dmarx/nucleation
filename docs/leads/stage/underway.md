@@ -2,7 +2,7 @@
 
 # LEADs with `stage` `underway`
 
-*Lead stages — How far a LEAD has been worked out, beside whether it is still worth following (ADR-109).*
+*Lead stages — How far a LEAD has been worked out, beside whether it is still worth following (ADR-109; the decision revising the LEAD scheme).*
 
 **Underway** — being done.
 

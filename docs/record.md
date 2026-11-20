@@ -27,6 +27,7 @@ A code — `ADR-012` — resolves to a document, and every reference to it in th
 | `TERM-001` | `record/terms.d/` | `docs/terms/README.md` + tag pages | `Active` |
 | `ARG-001` | `record/arguments.d/` | `docs/arguments/README.md` + tag pages | `Active` |
 | `LEAD-001` | `record/leads.d/` | `docs/leads/README.md` + tag pages | `Open` |
+| `POSTMORTEM-001` | `record/postmortems.d/` | `docs/postmortems/README.md` + tag pages | `Accepted` |
 | `SYNTHESIS-001` | `record/syntheses.d/` | `docs/syntheses/README.md` + tag pages | `Current` |
 
 ## What each family is
@@ -77,6 +78,10 @@ What the record says about support between its entries: that these premises do, 
 
 A piece of work the record could do to advance one of its questions or claims: a reading, a distinction to draw, a proof, a study, a history, or working out how a question could be advanced at all. Its status says whether it is still worth following; its stage, how far it has been worked out. A lead is a plan, not a finding: what it yields is filed as readings, claims and cases (ADR-109).
 
+**`POSTMORTEM`** — Postmortems
+
+A review of how a change to the record has worked out once it has been used: what the decisions behind it changed, how the record has used the change since, what went well and what did not, and what to do next. It reviews the decisions (ADR) and links the pull requests that carried them and the discussions that prompted the review; its recommendations become decisions of their own, which it names in `prompted`. A postmortem says what happened, not what the record believes about its subject (the decision adding the POSTMORTEM scheme).
+
 **`SYNTHESIS`** — Syntheses
 
 An account of a scope of the record's own argument, a line or a part of one: every component it puts together, each link between them attributed to the entry that states it, and nothing added. Whatever adds to its components is a CLAIM (the decision making SYNTHESIS an account). Its components keep their own status and voice; the current-account view derives them.
@@ -116,6 +121,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`THEORY`**
 
+- `advanced_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.THEORY.references.advanced_by) — *the leads that would advance this reading, as a replication that would meet its `promote_when`, derived from their `advances`, computed for every reader and never stored (the decision revising the LEAD scheme)*
 - `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.THEORY.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `source` — required, one or more `LIT` codes (luria.yaml: schemes.THEORY.references.source) — *the work this account comes from. Same test as a practice's: what the explanation could not survive losing.*
 - `extends` — optional, one or more `THEORY` codes when present (luria.yaml: schemes.THEORY.references.extends) — *the earlier account this one builds on — a refinement or a widening of the same mechanism, not a rival one.*
@@ -142,6 +148,8 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 **`ADR`**
 
 - `superseded_by` — required when `status` is `Superseded`, one or more `ADR` codes when present; forbidden when `status` is `Active` (luria.yaml: schemes.ADR.references.superseded_by)
+- `reviewed_by` — optional, one or more `POSTMORTEM` codes when present (luria.yaml: schemes.ADR.references.reviewed_by) — *the postmortems that review how this decision has worked, derived from their `reviews`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)*
+- `prompted_by` — optional, one or more `POSTMORTEM` codes when present (luria.yaml: schemes.ADR.references.prompted_by) — *the postmortems whose recommendations this decision carries out, derived from their `prompted`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)*
 - `status` — optional, one of `Active`, `Proposed`, `Deferred`, `Superseded`, `Rejected` (luria.yaml: schemes.ADR.fields.status; vocabulary 'statuses': values)
 - `tags` — required, one or more of `record`, `taxonomy`, `mechanism`, `migration` (luria.yaml: schemes.ADR.fields.tags; vocabulary 'adr-tags': values) — *What a decision is about, in the order the index shows them. Open, unlike the topics: a decision that needs a word it does not have simply gets one.*
 
@@ -157,8 +165,8 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 - `refines` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.QUESTION.references.refines) — *the broader question this one is a part or a sharpening of*
 - `refined_by` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.QUESTION.references.refined_by) — *the converse of `refines`, written by `luria link --fix`.*
 - `presupposes` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.QUESTION.references.presupposes) — *a question whose concepts or result any answer to this one must use. Not a question whose answer would only make this one easier; as a THEORY's `presupposes` takes another's conclusion as a premise (ADR-029, ADR-109)*
-- `presupposed_by` — optional, one or more `QUESTION` or `LEAD` codes when present (luria.yaml: schemes.QUESTION.references.presupposed_by) — *the questions and leads that presuppose this one, written by `luria link --fix` (ADR-109)*
-- `advanced_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.QUESTION.references.advanced_by) — *the leads that would advance this question, written by `luria link --fix` from their `advances` (ADR-109)*
+- `presupposed_by` — optional, one or more `QUESTION` or `LEAD` codes when present (luria.yaml: schemes.QUESTION.references.presupposed_by) — *the questions and leads that presuppose this one, derived from their `presupposes`, computed for every reader and never stored (ADR-109; the decision revising the LEAD scheme)*
+- `advanced_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.QUESTION.references.advanced_by) — *the leads that would advance this question, derived from their `advances`, computed for every reader and never stored (ADR-109; the decision revising the LEAD scheme)*
 - `answered_by` — optional, one or more `CLAIM` or `THEORY` codes when present (luria.yaml: schemes.QUESTION.references.answered_by) — *the record's own claims and the literature's accounts that answer it, written by `luria link --fix` from their `answers`. Both, on one page, is what synthesis is*
 - `bearing` — optional, one or more `CLAIM` or `THEORY` or `CASE` codes when present (luria.yaml: schemes.QUESTION.references.bearing) — *the claims, accounts and cases that bear on this question without answering it, written by `luria link --fix` from their `bears_on` (ADR-060, ADR-092)*
 - `superseded_by` — required when `status` is `Superseded`, one or more `QUESTION` codes when present; forbidden when `status` is `Open` (luria.yaml: schemes.QUESTION.references.superseded_by)
@@ -168,7 +176,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`CLAIM`**
 
-- `advanced_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.CLAIM.references.advanced_by) — *the leads that would advance this claim, by testing, grounding or objecting to it, written by `luria link --fix` from their `advances` (ADR-109)*
+- `advanced_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.CLAIM.references.advanced_by) — *the leads that would advance this claim, by testing, grounding or objecting to it, derived from their `advances`, computed for every reader and never stored (ADR-109; the decision revising the LEAD scheme)*
 - `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.CLAIM.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `answers` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.CLAIM.references.answers) — *the question this claim is an answer to*
 - `bears_on` — optional, one or more `QUESTION` codes when present (luria.yaml: schemes.CLAIM.references.bears_on) — *a question this claim is evidence for or against, or a premise of, without answering it or a part it settles exactly; `answers` is for an answer, held or offered (ADR-060)*
@@ -198,7 +206,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`CASE`**
 
-- `operationalizes` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.CASE.references.operationalizes) — *the leads this case's study design would carry out, written by `luria link --fix` from their `operationalized_in` (ADR-109)*
+- `operationalizes` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.CASE.references.operationalizes) — *the leads this case's study design would carry out, derived from their `operationalized_in`, computed for every reader and never stored (ADR-109; the decision revising the LEAD scheme)*
 - `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.CASE.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `supports` — optional, one or more `CLAIM` or `ARG` codes when present (luria.yaml: schemes.CASE.references.supports) — *the claims and arguments grounded in this case, written by `luria link --fix` from their `grounds`.*
 - `illustrates` — optional, one or more `CLAIM` codes when present (luria.yaml: schemes.CASE.references.illustrates) — *a claim this case makes vivid without bearing its weight. Losing the case costs the claim an example, not a premise; that is what separates this from `grounds`*
@@ -219,6 +227,7 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`TERM`**
 
+- `advanced_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.TERM.references.advanced_by) — *the leads that would advance this term, as the operationalization or measure it waits on, derived from their `advances`, computed for every reader and never stored (the decision revising the LEAD scheme)*
 - `integrated_by` — optional, one or more `SYNTHESIS` codes when present (luria.yaml: schemes.TERM.references.integrated_by) — *the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria link --fix` from their `integrates` (ADR-086). It is how an entry shows which part of its line's argument it belongs to*
 - `used_by` — optional, one or more `CLAIM` or `ARG` codes when present (luria.yaml: schemes.TERM.references.used_by) — *the claims and arguments stated in this term, written by `luria link --fix` from their `uses`.*
 - `argued_by` — optional, one or more `ARG` codes when present (luria.yaml: schemes.TERM.references.argued_by) — *the explications concluding that this definition does its job, written by `luria link --fix` from their `concludes`. The verdict is the argument's; adopting the term is its status (ADR-107)*
@@ -252,16 +261,28 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 **`LEAD`**
 
-- `advances` — required, one or more `QUESTION` or `CLAIM` codes (luria.yaml: schemes.LEAD.references.advances) — *the questions and claims this lead would move, by answering, narrowing, testing, grounding or objecting (ADR-109)*
+- `advances` — required, one or more `QUESTION` or `CLAIM` or `THEORY` or `TERM` codes (luria.yaml: schemes.LEAD.references.advances) — *the questions, claims, readings and terms this lead would move, by answering, narrowing, testing, grounding, replicating, operationalizing or objecting (ADR-109; the decision revising the LEAD scheme)*
 - `operationalized_in` — optional, one or more `CASE` codes when present (luria.yaml: schemes.LEAD.references.operationalized_in) — *the CASE that holds this lead's study design, where it has one (ADR-109)*
 - `presupposes` — optional, one or more `LEAD` or `QUESTION` codes when present (luria.yaml: schemes.LEAD.references.presupposes) — *a lead that must be done first, or a question whose concepts or result any way of doing this one must use (ADR-109)*
-- `presupposed_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.LEAD.references.presupposed_by) — *the leads that presuppose this one, written by `luria link --fix`*
+- `presupposed_by` — optional, one or more `LEAD` codes when present (luria.yaml: schemes.LEAD.references.presupposed_by) — *the leads that presuppose this one, derived from their `presupposes`, computed for every reader and never stored (the decision revising the LEAD scheme)*
 - `superseded_by` — required when `status` is `Superseded`, one or more `LEAD` codes when present; forbidden when `status` is `Open` (luria.yaml: schemes.LEAD.references.superseded_by)
 - `status` — optional, one of `Open`, `Done`, `Dropped`, `Superseded` (luria.yaml: schemes.LEAD.fields.status; vocabulary 'lead-statuses': values) — *Whether a LEAD is still to be followed. How far it has been worked out is its `stage`, a separate field (ADR-109).*
-- `stage` — required, one of `idea`, `specified`, `underway` (luria.yaml: schemes.LEAD.fields.stage; vocabulary 'lead-stages': values) — *How far a LEAD has been worked out, beside whether it is still worth following (ADR-109).*
+- `stage` — required, one of `idea`, `specified`, `costed`, `underway` (luria.yaml: schemes.LEAD.fields.stage; vocabulary 'lead-stages': values) — *How far a LEAD has been worked out, beside whether it is still worth following (ADR-109; the decision revising the LEAD scheme).*
+- `priority` — optional, one of `high`, `medium`, `low` (luria.yaml: schemes.LEAD.fields.priority; vocabulary 'lead-priorities': values) — *How much a LEAD would move the record if done, for triage; set by the owner or by an audit and revised freely (the decision revising the LEAD scheme).*
 - `method` — required, one or more of `reading`, `conceptual`, `formal`, `empirical`, `historical`, `operationalization` (luria.yaml: schemes.LEAD.fields.method; vocabulary 'lead-methods': values) — *What kind of work a LEAD is. Experiment is one kind among several (CLAIM-764, ADR-109).*
 - `tags` — required, one or more of `quantum-foundations`, `contextuality`, `mathematics`, `game-theory`, `network-science`, `complex-systems`, `probabilistic-modeling`, `neuroscience`, `natural-sciences`, `ecology`, `endosymbiosis`, `thermodynamics`, `operations-research`, `society-and-governance`, `information-theory`, `representation-learning`, `learning-theory`, `compositionality`, `mathematical-statistics`, `information-retrieval`, `databases`, `design-rationale`, `social-science`, `causality`, `pragmatics`, `myth-and-folklore`, `translation`, `linguistics`, `metaphysics`, `mereology`, `agency`, `individuation`, `self`, `personhood`, `behavioral-integration`, `phenomenal-unity`, `narrative-unity`, `self-governance`, `phenomenology`, `social-ontology`, `social-identity`, `altruism`, `future-generations`, `moral-psychology`, `psychopathology-and-treatment`, `motivation`, `well-being`, `learning-and-conditioning`, `psychometrics`, `philosophy-of-biology`, `embodied-cognition`, `free-will`, `model-comparison`, `information-geometry`, `loss-landscapes`, `control-theory`, `software-engineering`, `ethics`, `consciousness`, `cognition`, `emotion-and-affect`, `philosophy-of-science`, `philosophy-of-technology`, `epistemology`, `logic`, `philosophy-of-mathematics`, `philosophy-of-language`, `religion`, `anthology-candidate` (luria.yaml: schemes.LEAD.fields.tags; vocabulary 'topics': values) — *What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 - `line` — required, one or more of `distributed-agency`, `will-organization`, `organizational-normativity`, `dependence-and-domination`, `rightful-power`, `organizational-affect`, `authenticity`, `pragmatic-transport`, `nucleating-argument`, `records-of-inquiry`, `record-as-apparatus`, `evidence-for-experience`, `learned-structure`, `formal-apparatus`, `readiness`, `transient-support`, `realizability`, `flourishing-and-meaning` (luria.yaml: schemes.LEAD.fields.line; vocabulary 'lines': values) — *A named line of the record's own argument, so that a line can be set aside as a whole and what depends on it can be found. Retracting a line is a status change on its members, never a deletion (ADR-032).*
+- `blocked_on` — optional (luria.yaml: schemes.LEAD.fields.blocked_on) — *what the lead waits on that the record cannot do itself, in words, such as a copy the owner must supply, a host to allow, or an owner's ruling; removed when it clears (the decision revising the LEAD scheme)*
+
+**`POSTMORTEM`**
+
+- `reviews` — required, one or more `ADR` codes (luria.yaml: schemes.POSTMORTEM.references.reviews) — *the decisions whose changes this postmortem reviews*
+- `prompted` — optional, one or more `ADR` codes when present (luria.yaml: schemes.POSTMORTEM.references.prompted) — *the decisions that carry out this postmortem's recommendations, added once they are filed*
+- `superseded_by` — required when `status` is `Superseded`, one or more `POSTMORTEM` codes when present; forbidden when `status` is `Accepted` (luria.yaml: schemes.POSTMORTEM.references.superseded_by)
+- `status` — optional, one of `Draft`, `Accepted`, `Superseded` (luria.yaml: schemes.POSTMORTEM.fields.status; vocabulary 'postmortem-statuses': values) — *Where a POSTMORTEM stands. A postmortem is never deleted; it is accepted, or replaced by a fuller review of the same change (the decision adding the POSTMORTEM scheme).*
+- `tags` — required, one or more of `record`, `taxonomy`, `mechanism`, `migration` (luria.yaml: schemes.POSTMORTEM.fields.tags; vocabulary 'adr-tags': values) — *What a decision is about, in the order the index shows them. Open, unlike the topics: a decision that needs a word it does not have simply gets one.*
+- `pull_requests` — required (luria.yaml: schemes.POSTMORTEM.fields.pull_requests) — *the pull requests that carried the reviewed change, as URLs*
+- `discussions` — optional (luria.yaml: schemes.POSTMORTEM.fields.discussions) — *where the review was asked for or held, as URLs (a session, an issue, a pull request thread)*
 
 **`SYNTHESIS`**
 
@@ -324,6 +345,7 @@ Every kind this project scaffolds, straight from the dispatch table `luria new` 
 | `luria new --kind lit --title "…"` | a document in the `LIT` scheme, numbered for you |
 | `luria new --kind migration --title "…"` | a migration spec |
 | `luria new --kind note --title "…"` | a document in the `NOTE` scheme, numbered for you |
+| `luria new --kind postmortem --title "…"` | a document in the `POSTMORTEM` scheme, numbered for you |
 | `luria new --kind question --title "…"` | a document in the `QUESTION` scheme, numbered for you |
 | `luria new --kind synthesis --title "…"` | a document in the `SYNTHESIS` scheme, numbered for you |
 | `luria new --kind term --title "…"` | a document in the `TERM` scheme, numbered for you |
@@ -380,7 +402,9 @@ Everything not listed here is at Luria's default.
 | `vocabularies.arg-forms` | *4 keys set* | *unset* |
 | `vocabularies.lead-statuses` | *4 keys set* | *unset* |
 | `vocabularies.lead-stages` | *4 keys set* | *unset* |
+| `vocabularies.lead-priorities` | *4 keys set* | *unset* |
 | `vocabularies.lead-methods` | *4 keys set* | *unset* |
+| `vocabularies.postmortem-statuses` | *4 keys set* | *unset* |
 | `vocabularies.question-statuses` | *4 keys set* | *unset* |
 | `vocabularies.lines` | *4 keys set* | *unset* |
 | `vocabularies.works` | *4 keys set* | *unset* |

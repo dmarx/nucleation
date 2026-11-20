@@ -1,5 +1,8 @@
 ---
+number: 2
 status: Draft
+formerly:
+- POSTMORTEM-tmp7fylf
 title: 'The session''s changes to luria.yaml of 2026-11-19: a work for the owner''s manuscript, the explication form, and the LEAD scheme'
 version: 1
 tags:
@@ -11,7 +14,7 @@ reviews:
 - ADR-107
 - ADR-109
 prompted:
-- ADR-tmpcoobj
+- ADR-111
 pull_requests:
 - https://github.com/dmarx/nucleation/pull/528
 - https://github.com/dmarx/nucleation/pull/533
@@ -30,9 +33,9 @@ summary: >-
   are declared but never written. Recommendations for one decision, and
   three process rules.
 ---
-<!-- inactive-ok-file: ADR-106 ADR-109 ADR-tmpcoobj — Proposed or newly filed; the decisions this postmortem reviews or prompted -->
+<!-- inactive-ok-file: ADR-106 ADR-109 ADR-111 — Proposed or newly filed; the decisions this postmortem reviews or prompted -->
 
-# POSTMORTEM-tmp7fylf: The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme
+# POSTMORTEM-002: The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme
 
 ## What changed
 
@@ -127,6 +130,6 @@ whether a `blocked` stage or status is wanted.
 land a schema change alone and early, so that content does not stack on
 it.
 
-Recommendations 1 to 5 are carried out by [ADR-tmpcoobj](../decisions.d/ADR-tmpcoobj.md), named in
+Recommendations 1 to 5 are carried out by [ADR-111](../decisions.d/ADR-111.md), named in
 `prompted`, with its first application. This scheme's own decision
-([ADR-tmpk8vnc](../decisions.d/ADR-tmpk8vnc.md)) applies recommendation 6's third rule.
+([ADR-112](../decisions.d/ADR-112.md)) applies recommendation 6's third rule.

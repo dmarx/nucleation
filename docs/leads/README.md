@@ -56,7 +56,9 @@
 
 **By status:** [Open](status/Open.md) (194) · [Done](status/Done.md) (3) · [Dropped](status/Dropped.md) (0) · [Superseded](status/Superseded.md) (0)
 
-**By stage:** [Idea](stage/idea.md) (190) · [Specified](stage/specified.md) (4) · [Underway](stage/underway.md) (3)
+**By stage:** [Idea](stage/idea.md) (137) · [Specified](stage/specified.md) (56) · [Costed](stage/costed.md) (1) · [Underway](stage/underway.md) (3)
+
+**By priority:** [High](priority/high.md) (59) · [Medium](priority/medium.md) (125) · [Low](priority/low.md) (0)
 
 **By method:** [Reading](method/reading.md) (63) · [Conceptual](method/conceptual.md) (27) · [Formal](method/formal.md) (58) · [Empirical](method/empirical.md) (99) · [Historical](method/historical.md) (13) · [Operationalization](method/operationalization.md) (7)
 

@@ -1,5 +1,8 @@
 ---
+number: 1
 status: Draft
+formerly:
+- POSTMORTEM-tmp5eoc7
 title: 'The batch of 2026-11-19: pull requests 535 to 540, a stacked series folded top-down'
 version: 1
 tags:
@@ -20,7 +23,7 @@ pull_requests:
 discussions:
 - https://claude.ai/code/session_01HcmtbsDR5i5G9oxErMDiB4
 summary: >-
-  Trigger 2 of [ADR-tmp714j2](../decisions.d/ADR-tmp714j2.md): six pull requests, five of them a stack built
+  Trigger 2 of [ADR-110](../decisions.d/ADR-110.md): six pull requests, five of them a stack built
   on a schema change and folded top-down into main. Everything landed
   green. The costs were a stack forced by putting readings on the schema
   pull request, codes split at hyphens by the filer's line-wrapping, a bot
@@ -29,9 +32,9 @@ summary: >-
   not delete. What changes: four small rules, and the reader-branch ending
   [ADR-108](../decisions.d/ADR-108.md) left open.
 ---
-<!-- inactive-ok-file: ADR-108 ADR-tmp714j2 POSTMORTEM-tmp7fylf — Proposed or newly filed; the decisions this postmortem reviews -->
+<!-- inactive-ok-file: ADR-108 ADR-110 POSTMORTEM-002 — Proposed or newly filed; the decisions this postmortem reviews -->
 
-# POSTMORTEM-tmp5eoc7: The batch of 2026-11-19: pull requests 535 to 540, a stacked series folded top-down
+# POSTMORTEM-001: The batch of 2026-11-19: pull requests 535 to 540, a stacked series folded top-down
 
 ## What happened
 
@@ -49,7 +52,7 @@ re-checked, the final one was.
 
 1. **A stack forced by a schema change.** Readings that cited the pilot leads
 had to wait on 536, so four content pull requests stacked on a schema pull
-request. [POSTMORTEM-tmp7fylf](POSTMORTEM-tmp7fylf.md) already recommends landing a schema change
+request. [POSTMORTEM-002](POSTMORTEM-002.md) already recommends landing a schema change
 alone and early.
 2. **Codes split at hyphens.** The filer's line-wrapping broke codes such as
 [THEORY-2058](../theory.d/THEORY-2058.md) across lines (THEORY- / tmp1b3hj), which the linter does

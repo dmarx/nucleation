@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1038 documents cited without acknowledgement.** Not listed: 35554 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1042 documents cited without acknowledgement.** Not listed: 35590 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3560,7 +3560,7 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 
 A work cost-structure-of-possibility is added for the owner's manuscript from the exchange Topological protection explained: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step
 
-16 citations in 16 files await a look.
+16 citations in 16 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-152.md:50`](../../record/claims.d/CLAIM-152.md)
 - [`record/claims.d/CLAIM-184.md:41`](../../record/claims.d/CLAIM-184.md)
@@ -4061,6 +4061,26 @@ Emotion categories are populations of variable instances grouped by the perceive
 - [`record/questions.d/QUESTION-360.md:59`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:95`](../../record/terms.d/TERM-098.md)
 
+### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
+
+A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
+
+13 citations in 13 files await a look; 6 other citations of it are acknowledged.
+
+- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
+- [`record/decisions.d/ADR-110.md:90`](../../record/decisions.d/ADR-110.md)
+- [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
+- [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
+- [`record/notes.d/NOTE-2169.md:16`](../../record/notes.d/NOTE-2169.md)
+- [`record/notes.d/NOTE-2170.md:17`](../../record/notes.d/NOTE-2170.md)
+- [`record/notes.d/NOTE-2171.md:19`](../../record/notes.d/NOTE-2171.md)
+- [`record/notes.d/NOTE-2173.md:17`](../../record/notes.d/NOTE-2173.md)
+- [`record/notes.d/NOTE-2174.md:16`](../../record/notes.d/NOTE-2174.md)
+- [`record/notes.d/NOTE-2175.md:16`](../../record/notes.d/NOTE-2175.md)
+- [`record/notes.d/NOTE-2176.md:18`](../../record/notes.d/NOTE-2176.md)
+- [`record/notes.d/NOTE-2177.md:18`](../../record/notes.d/NOTE-2177.md)
+- [`record/notes.d/NOTE-2178.md:18`](../../record/notes.d/NOTE-2178.md)
+
 ### [ARG-036](../../record/arguments.d/ARG-036.md) — Proposed
 
 The lab's restricted models, whose predictions could have failed, support the shared-organization thesis
@@ -4220,25 +4240,6 @@ Whether a learner's demands share a descent direction is decided by a test that 
 - [`record/syntheses.d/SYNTHESIS-030.md:306`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-030.md:308`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-034.md:136`](../../record/syntheses.d/SYNTHESIS-034.md)
-
-### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
-
-A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
-
-12 citations in 12 files await a look; 2 other citations of it are acknowledged.
-
-- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
-- [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
-- [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
-- [`record/notes.d/NOTE-2169.md:16`](../../record/notes.d/NOTE-2169.md)
-- [`record/notes.d/NOTE-2170.md:17`](../../record/notes.d/NOTE-2170.md)
-- [`record/notes.d/NOTE-2171.md:19`](../../record/notes.d/NOTE-2171.md)
-- [`record/notes.d/NOTE-2173.md:17`](../../record/notes.d/NOTE-2173.md)
-- [`record/notes.d/NOTE-2174.md:16`](../../record/notes.d/NOTE-2174.md)
-- [`record/notes.d/NOTE-2175.md:16`](../../record/notes.d/NOTE-2175.md)
-- [`record/notes.d/NOTE-2176.md:18`](../../record/notes.d/NOTE-2176.md)
-- [`record/notes.d/NOTE-2177.md:18`](../../record/notes.d/NOTE-2177.md)
-- [`record/notes.d/NOTE-2178.md:18`](../../record/notes.d/NOTE-2178.md)
 
 ### [CLAIM-174](../../record/claims.d/CLAIM-174.md) — Proposed
 
@@ -5102,6 +5103,22 @@ Detection, Estimation, and Modulation Theory, Part I
 - [`record/notes.d/NOTE-315.md:147`](../../record/notes.d/NOTE-315.md)
 - [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
 
+### [TERM-131](../../record/terms.d/TERM-131.md) — Proposed
+
+learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response
+
+9 citations in 9 files await a look; 23 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2139.md:89`](../../record/notes.d/NOTE-2139.md)
+- [`record/notes.d/NOTE-2143.md:77`](../../record/notes.d/NOTE-2143.md)
+- [`record/notes.d/NOTE-2149.md:83`](../../record/notes.d/NOTE-2149.md)
+- [`record/notes.d/NOTE-2158.md:87`](../../record/notes.d/NOTE-2158.md)
+- [`record/notes.d/NOTE-2162.md:56`](../../record/notes.d/NOTE-2162.md)
+- [`record/notes.d/NOTE-2163.md:88`](../../record/notes.d/NOTE-2163.md)
+- [`record/notes.d/NOTE-2176.md:120`](../../record/notes.d/NOTE-2176.md)
+- [`record/postmortems.d/POSTMORTEM-003.md:54`](../../record/postmortems.d/POSTMORTEM-003.md)
+- [`record/theory.d/THEORY-2062.md:26`](../../record/theory.d/THEORY-2062.md)
+
 ### [THEORY-054](../../record/theory.d/THEORY-054.md) — Proposed
 
 A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
@@ -5542,21 +5559,6 @@ Anchoring has costs and a price: an early anchor can entrench its framing, and i
 - [`docs/syntheses/warrant/interpretive.md:25`](../syntheses/warrant/interpretive.md)
 - [`record/claims.d/CLAIM-630.md:78`](../../record/claims.d/CLAIM-630.md)
 
-### [TERM-131](../../record/terms.d/TERM-131.md) — Proposed
-
-learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response
-
-8 citations in 8 files await a look; 23 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-2139.md:89`](../../record/notes.d/NOTE-2139.md)
-- [`record/notes.d/NOTE-2143.md:77`](../../record/notes.d/NOTE-2143.md)
-- [`record/notes.d/NOTE-2149.md:83`](../../record/notes.d/NOTE-2149.md)
-- [`record/notes.d/NOTE-2158.md:87`](../../record/notes.d/NOTE-2158.md)
-- [`record/notes.d/NOTE-2162.md:56`](../../record/notes.d/NOTE-2162.md)
-- [`record/notes.d/NOTE-2163.md:88`](../../record/notes.d/NOTE-2163.md)
-- [`record/notes.d/NOTE-2176.md:120`](../../record/notes.d/NOTE-2176.md)
-- [`record/theory.d/THEORY-2062.md:26`](../../record/theory.d/THEORY-2062.md)
-
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
 A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
@@ -5898,6 +5900,20 @@ An organized individual's identity over time is carried by the causal transmissi
 - [`record/decisions.d/ADR-085.md:126`](../../record/decisions.d/ADR-085.md)
 - [`record/syntheses.d/SYNTHESIS-003.md:86`](../../record/syntheses.d/SYNTHESIS-003.md)
 - [`record/syntheses.d/SYNTHESIS-005.md:30`](../../record/syntheses.d/SYNTHESIS-005.md)
+
+### [CLAIM-754](../../record/claims.d/CLAIM-754.md) — Proposed
+
+A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared
+
+7 citations in 7 files await a look; 35 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2148.md:90`](../../record/notes.d/NOTE-2148.md)
+- [`record/notes.d/NOTE-2152.md:100`](../../record/notes.d/NOTE-2152.md)
+- [`record/notes.d/NOTE-2158.md:85`](../../record/notes.d/NOTE-2158.md)
+- [`record/notes.d/NOTE-2159.md:85`](../../record/notes.d/NOTE-2159.md)
+- [`record/notes.d/NOTE-2162.md:54`](../../record/notes.d/NOTE-2162.md)
+- [`record/notes.d/NOTE-2171.md:68`](../../record/notes.d/NOTE-2171.md)
+- [`record/postmortems.d/POSTMORTEM-003.md:53`](../../record/postmortems.d/POSTMORTEM-003.md)
 
 ### [LIT-1169](../../record/literature.d/LIT-1169.md) — Unavailable
 
@@ -6288,19 +6304,6 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 - [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
 - [`record/decisions.d/ADR-077.md:106`](../../record/decisions.d/ADR-077.md)
 - [`record/terms.d/TERM-086.md:173`](../../record/terms.d/TERM-086.md)
-
-### [CLAIM-754](../../record/claims.d/CLAIM-754.md) — Proposed
-
-A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared
-
-6 citations in 6 files await a look; 35 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-2148.md:90`](../../record/notes.d/NOTE-2148.md)
-- [`record/notes.d/NOTE-2152.md:100`](../../record/notes.d/NOTE-2152.md)
-- [`record/notes.d/NOTE-2158.md:85`](../../record/notes.d/NOTE-2158.md)
-- [`record/notes.d/NOTE-2159.md:85`](../../record/notes.d/NOTE-2159.md)
-- [`record/notes.d/NOTE-2162.md:54`](../../record/notes.d/NOTE-2162.md)
-- [`record/notes.d/NOTE-2171.md:68`](../../record/notes.d/NOTE-2171.md)
 
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
@@ -7012,6 +7015,18 @@ The duties to comply with a justified rule, to support a justified institution a
 - [`record/claims.d/CLAIM-752.md:50`](../../record/claims.d/CLAIM-752.md)
 - [`record/claims.d/CLAIM-752.md:55`](../../record/claims.d/CLAIM-752.md)
 
+### [CLAIM-758](../../record/claims.d/CLAIM-758.md) — Proposed
+
+Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon
+
+5 citations in 5 files await a look; 72 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2142.md:53`](../../record/notes.d/NOTE-2142.md)
+- [`record/notes.d/NOTE-2168.md:66`](../../record/notes.d/NOTE-2168.md)
+- [`record/notes.d/NOTE-2175.md:70`](../../record/notes.d/NOTE-2175.md)
+- [`record/postmortems.d/POSTMORTEM-003.md:53`](../../record/postmortems.d/POSTMORTEM-003.md)
+- [`record/theory.d/THEORY-2027.md:39`](../../record/theory.d/THEORY-2027.md)
+
 ### [LIT-1445](../../record/literature.d/LIT-1445.md) — Unfetched
 
 Pleasure as a sign you can attend to something else: Placing positive feelings within a general model of affect
@@ -7444,6 +7459,17 @@ Consciousness in an inferring system requires three things: a unified generative
 - [`record/questions.d/QUESTION-255.md:214`](../../record/questions.d/QUESTION-255.md)
 - [`record/theory.d/THEORY-662.md:119`](../../record/theory.d/THEORY-662.md)
 
+### [ADR-068](../../record/decisions.d/ADR-068.md) — Proposed
+
+Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice
+
+4 citations in 3 files await a look; 9 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-072.md:57`](../../record/decisions.d/ADR-072.md)
+- [`record/decisions.d/ADR-072.md:60`](../../record/decisions.d/ADR-072.md)
+- [`record/decisions.d/ADR-110.md:90`](../../record/decisions.d/ADR-110.md)
+- [`record/notes.d/NOTE-1540.md:19`](../../record/notes.d/NOTE-1540.md)
+
 ### [ADR-095](../../record/decisions.d/ADR-095.md) — Proposed
 
 A case or a term that uses a reading other than as its source carries `draws_on` to it, and the reading's `drawn_on_by` is derived; how a case uses it is its kind's to say, and a term draws on the readings its sense is fixed by
@@ -7774,16 +7800,16 @@ Forgetting a hidden mechanism can turn a sheaf of histories into a presheaf of r
 - [`record/theory.d/THEORY-1060.md:12`](../../record/theory.d/THEORY-1060.md)
 - [`record/theory.d/THEORY-1060.md:21`](../../record/theory.d/THEORY-1060.md)
 
-### [CLAIM-758](../../record/claims.d/CLAIM-758.md) — Proposed
+### [CLAIM-756](../../record/claims.d/CLAIM-756.md) — Proposed
 
-Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon
+An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted
 
-4 citations in 4 files await a look; 72 other citations of it are acknowledged.
+4 citations in 3 files await a look; 53 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-2142.md:53`](../../record/notes.d/NOTE-2142.md)
-- [`record/notes.d/NOTE-2168.md:66`](../../record/notes.d/NOTE-2168.md)
-- [`record/notes.d/NOTE-2175.md:70`](../../record/notes.d/NOTE-2175.md)
-- [`record/theory.d/THEORY-2027.md:39`](../../record/theory.d/THEORY-2027.md)
+- [`record/leads.d/LEAD-002.md:33`](../../record/leads.d/LEAD-002.md)
+- [`record/leads.d/LEAD-002.md:56`](../../record/leads.d/LEAD-002.md)
+- [`record/notes.d/NOTE-2155.md:52`](../../record/notes.d/NOTE-2155.md)
+- [`record/postmortems.d/POSTMORTEM-003.md:53`](../../record/postmortems.d/POSTMORTEM-003.md)
 
 ### [LEAD-009](../../record/leads.d/LEAD-009.md) — Done
 
@@ -8489,16 +8515,6 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 - [`record/claims.d/CLAIM-446.md:277`](../../record/claims.d/CLAIM-446.md)
 - [`record/claims.d/CLAIM-451.md:152`](../../record/claims.d/CLAIM-451.md)
 
-### [ADR-068](../../record/decisions.d/ADR-068.md) — Proposed
-
-Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice
-
-3 citations in 2 files await a look; 9 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-072.md:57`](../../record/decisions.d/ADR-072.md)
-- [`record/decisions.d/ADR-072.md:60`](../../record/decisions.d/ADR-072.md)
-- [`record/notes.d/NOTE-1540.md:19`](../../record/notes.d/NOTE-1540.md)
-
 ### [ARG-002](../../record/arguments.d/ARG-002.md) — Rejected
 
 Interpretive framings change a reader's state as non-commuting measurements do, so the frame participates in determining which meaning becomes actual
@@ -8998,16 +9014,6 @@ A critique of produced wants cannot rest on how they were formed, by whatever pr
 - [`record/claims.d/CLAIM-689.md:20`](../../record/claims.d/CLAIM-689.md)
 - [`record/claims.d/CLAIM-689.md:36`](../../record/claims.d/CLAIM-689.md)
 - [`record/claims.d/CLAIM-689.md:93`](../../record/claims.d/CLAIM-689.md)
-
-### [CLAIM-756](../../record/claims.d/CLAIM-756.md) — Proposed
-
-An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted
-
-3 citations in 2 files await a look; 53 other citations of it are acknowledged.
-
-- [`record/leads.d/LEAD-002.md:33`](../../record/leads.d/LEAD-002.md)
-- [`record/leads.d/LEAD-002.md:56`](../../record/leads.d/LEAD-002.md)
-- [`record/notes.d/NOTE-2155.md:52`](../../record/notes.d/NOTE-2155.md)
 
 ### [LIT-079](../../record/literature.d/LIT-079.md) — Proposed
 
@@ -9589,6 +9595,16 @@ Bengio, Louradour, Collobert and Weston report that training first on easier exa
 - [`record/notes.d/NOTE-2145.md:54`](../../record/notes.d/NOTE-2145.md)
 - [`record/notes.d/NOTE-2150.md:51`](../../record/notes.d/NOTE-2150.md)
 
+### [THEORY-2058](../../record/theory.d/THEORY-2058.md) — Proposed
+
+Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds
+
+3 citations in 3 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-596.md:127`](../../record/claims.d/CLAIM-596.md)
+- [`record/literature.d/LIT-2865.md:37`](../../record/literature.d/LIT-2865.md)
+- [`record/postmortems.d/POSTMORTEM-001.md:58`](../../record/postmortems.d/POSTMORTEM-001.md)
+
 ### [THEORY-2069](../../record/theory.d/THEORY-2069.md) — Proposed
 
 Akter and colleagues find that replacing a fifth of an 8B language model's general pretraining data with reasoning-style data raises its accuracy after the same supervised fine-tuning and after reinforcement learning, and that doubling a baseline's fine-tuning data does not close the gap
@@ -9811,10 +9827,19 @@ A repository's documented machine interface to an open-access full text is a law
 
 The record keeps its research opportunities as LEADs, plans to advance a question or claim by any method, with a status for whether each is still worth following and a stage for how far it is worked out; and a question may presuppose another
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
 - [`.claude/skills/read-and-file/SKILL.md:398`](../../.claude/skills/read-and-file/SKILL.md)
 - [`CLAUDE.md:33`](../../CLAUDE.md)
+
+### [ADR-112](../../record/decisions.d/ADR-112.md) — Proposed
+
+The record keeps postmortems as POSTMORTEMs, reviews of how a change to the record has worked out once used, which review the decisions behind the change, link the pull requests that carried it and the discussions that asked for the review, and name the decisions their recommendations prompt
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`CLAUDE.md:38`](../../CLAUDE.md)
+- [`record/postmortems.d/POSTMORTEM-002.md:135`](../../record/postmortems.d/POSTMORTEM-002.md)
 
 ### [ARG-013](../../record/arguments.d/ARG-013.md) — Rejected
 
@@ -11373,15 +11398,6 @@ Poole, Lahiri, Raghu, Sohl-Dickstein and Ganguli show, in the mean-field theory 
 - [`record/literature.d/LIT-2842.md:42`](../../record/literature.d/LIT-2842.md)
 - [`record/literature.d/LIT-2842.md:51`](../../record/literature.d/LIT-2842.md)
 
-### [THEORY-2058](../../record/theory.d/THEORY-2058.md) — Proposed
-
-Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds
-
-2 citations in 2 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-596.md:127`](../../record/claims.d/CLAIM-596.md)
-- [`record/literature.d/LIT-2865.md:37`](../../record/literature.d/LIT-2865.md)
-
 ### [THEORY-2059](../../record/theory.d/THEORY-2059.md) — Proposed
 
 Hernandez and colleagues find that, in the low-data regime, pretraining a transformer on text is worth an amount of from-scratch Python data that grows as a power law in the fine-tuning data and in model size, so that it multiplies the fine-tuning data by a factor that falls as that data grows, and that outside this regime pretraining can leave small models worse than training from scratch
@@ -11571,6 +11587,22 @@ In a multi-agent system run against a world utility, a private utility is factor
 - [`record/claims.d/CLAIM-444.md:151`](../../record/claims.d/CLAIM-444.md)
 - [`record/questions.d/QUESTION-271.md:102`](../../record/questions.d/QUESTION-271.md)
 
+### [ADR-110](../../record/decisions.d/ADR-110.md) — Proposed
+
+A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`CLAUDE.md:39`](../../CLAUDE.md)
+
+### [ADR-111](../../record/decisions.d/ADR-111.md) — Proposed
+
+LEADs get a priority for triage and a blocked_on note; the stage ladder separates a specified design from a costed one; a lead may advance a reading or a term as well as a question or claim; and derived converses are stated as computed, not stored
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-109.md:5`](../../record/decisions.d/ADR-109.md)
+
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
 Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants
@@ -11658,6 +11690,14 @@ Low observed exercise of a specialized capability is evidence that its maintenan
 1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-109.md:14`](../../record/terms.d/TERM-109.md)
+
+### [ARG-119](../../record/arguments.d/ARG-119.md) — Proposed
+
+The definition of learning as an experience-dependent change in retained organization, judged by what it later costs and against a counterfactual, explicates what the record's claims about learning need; the definition by improved performance at a task explicates another explicandum, successful learning, which the term keeps apart, so it is not a rival and both stand; the exclusion of selection is a contested case the term must decide, and its fruitfulness is so far shown only by claims stated in its own terms
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/postmortems.d/POSTMORTEM-002.md:54`](../../record/postmortems.d/POSTMORTEM-002.md)
 
 ### [CASE-007](../../record/cases.d/CASE-007.md) — Superseded
 

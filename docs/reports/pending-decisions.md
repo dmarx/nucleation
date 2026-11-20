@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1925 document(s) awaiting a decision, 42 undated.**
+**1928 document(s) awaiting a decision, 42 undated.**
 
 ## LITs
 
-90 of the 1925.
+90 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-1155 of the 1925.
+1155 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -232,7 +232,7 @@
 | 2026-11-19 | Proposed | [THEORY-2075](../../record/theory.d/THEORY-2075.md) | 1 | 12 | 3 | Jiang and colleagues find that a brief first phase on procedurally generated abstract data, well under one per cent of the later tokens, lets a language model reach its baseline's loss with substantially fewer natural-language or code tokens, and that shuffling the procedural sequences or the transferred weights removes the saving |
 | 2026-11-19 | Proposed | [THEORY-2059](../../record/theory.d/THEORY-2059.md) | 1 | 10 | 2 | Hernandez and colleagues find that, in the low-data regime, pretraining a transformer on text is worth an amount of from-scratch Python data that grows as a power law in the fine-tuning data and in model size, so that it multiplies the fine-tuning data by a factor that falls as that data grows, and that outside this regime pretraining can leave small models worse than training from scratch |
 | 2026-11-19 | Proposed | [THEORY-2060](../../record/theory.d/THEORY-2060.md) | 1 | 9 | 2 | Nishida and colleagues find that if a pretraining example's influence is measured as how much its update shortens the parameter distance to the run's final weights, then in Pythia runs literature-classified examples are relatively prominent among the most influential early and STEM examples later, and high-perplexity text is most influential mid-training |
-| 2026-11-19 | Proposed | [THEORY-2058](../../record/theory.d/THEORY-2058.md) | 1 | 7 | 2 | Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds |
+| 2026-11-19 | Proposed | [THEORY-2058](../../record/theory.d/THEORY-2058.md) | 1 | 8 | 3 | Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds |
 | 2026-11-19 | Proposed | [THEORY-2062](../../record/theory.d/THEORY-2062.md) | 1 | 5 | 1 | Brown and colleagues show that in autoregressive language models from 125M to 175B parameters, each pretrained on 300B tokens, performance with task demonstrations given in the context and no weight update rises with the number of demonstrations and with model size, the gain over zero-shot growing with size, so that larger models reach a given accuracy with fewer in-context examples; they leave open whether this learns new tasks or recognizes tasks acquired in pretraining |
 | undated | Proposed | [THEORY-1917](../../record/theory.d/THEORY-1917.md) | 1 | 29 | 0 | Keller argues that a person can wrongfully place another under a genuine moral obligation, by changing her circumstances so that every alternative to what he wants is morally unacceptable, and that fiduciary roles expose those who hold them to this moral blackmail because they predictably generate special obligations that exceed and outlast the fiduciary duty |
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 0 | 64 | 24 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used |
@@ -1268,12 +1268,12 @@
 
 ## ADRs
 
-33 of the 1925.
+36 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-10-22 | Deferred | [ADR-050](../../record/decisions.d/ADR-050.md) | 0 | 5 | 0 | A claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means |
-| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 12 | 3 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
+| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 13 | 4 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
 | 2026-11-07 | Proposed | [ADR-075](../../record/decisions.d/ADR-075.md) | 0 | 204 | 34 | A synthesis in a filed source is audited and, when it integrates, filed as a thesis claim with its components mapped, rather than mapped to its source turns and left |
 | 2026-11-07 | Proposed | [ADR-082](../../record/decisions.d/ADR-082.md) | 0 | 66 | 47 | The nucleating-argument line is split in three: nucleating-argument keeps how an argument drifts, anchors and pays for anchoring; what a record of inquiry keeps and the record as its own apparatus become lines of their own, because their parts barely relate to the rest |
 | 2026-11-07 | Proposed | [ADR-083](../../record/decisions.d/ADR-083.md) | 0 | 64 | 2 | An account the record holds only in parts, for a line or a part of one, gets a SYNTHESIS that restates it, so the account has an address: it adds nothing, and its standing is its components'; there is one account per scope, an account may integrate the accounts of its parts, and a line whose parts barely relate is a candidate to split |
@@ -1302,13 +1302,16 @@
 | 2026-11-18 | Proposed | [ADR-102](../../record/decisions.d/ADR-102.md) | 0 | 8 | 0 | A copy its host says is published with the rights holders' permission, and a reply posted by the scholar it answers beside that scholar's own paper, count as lawful copies to read, beside the kinds already admitted |
 | 2026-11-18 | Proposed | [ADR-103](../../record/decisions.d/ADR-103.md) | 0 | 1 | 0 | A line rightful-power is added beside dependence-and-domination and organizational-normativity, without moving any entry out of them: its root questions carry it first, and an entry carries it when it takes part in its argument |
 | 2026-11-18 | Proposed | [ADR-105](../../record/decisions.d/ADR-105.md) | 0 | 0 | 0 | Docs runs on pushes to the default branch wait for one another and are never cancelled: one concurrency group serializes view generation, so two merges minutes apart no longer race |
-| 2026-11-19 | Proposed | [ADR-106](../../record/decisions.d/ADR-106.md) | 0 | 16 | 16 | A work cost-structure-of-possibility is added for the owner's manuscript from the exchange Topological protection explained: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step |
-| 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 14 | 12 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
-| 2026-11-19 | Proposed | [ADR-109](../../record/decisions.d/ADR-109.md) | 0 | 2 | 2 | The record keeps its research opportunities as LEADs, plans to advance a question or claim by any method, with a status for whether each is still worth following and a stage for how far it is worked out; and a question may presuppose another |
+| 2026-11-19 | Proposed | [ADR-106](../../record/decisions.d/ADR-106.md) | 0 | 21 | 16 | A work cost-structure-of-possibility is added for the owner's manuscript from the exchange Topological protection explained: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step |
+| 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 19 | 13 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
+| 2026-11-19 | Proposed | [ADR-109](../../record/decisions.d/ADR-109.md) | 0 | 14 | 2 | The record keeps its research opportunities as LEADs, plans to advance a question or claim by any method, with a status for whether each is still worth following and a stage for how far it is worked out; and a question may presuppose another |
+| 2026-11-20 | Proposed | [ADR-110](../../record/decisions.d/ADR-110.md) | 0 | 3 | 1 | A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded |
+| 2026-11-20 | Proposed | [ADR-112](../../record/decisions.d/ADR-112.md) | 0 | 3 | 2 | The record keeps postmortems as POSTMORTEMs, reviews of how a change to the record has worked out once used, which review the decisions behind the change, link the pull requests that carried it and the discussions that asked for the review, and name the decisions their recommendations prompt |
+| 2026-11-20 | Proposed | [ADR-111](../../record/decisions.d/ADR-111.md) | 0 | 2 | 1 | LEADs get a priority for triage and a blocked_on note; the stage ladder separates a specified design from a costed one; a lead may advance a reading or a term as well as a question or claim; and derived converses are stated as computed, not stored |
 
 ## QUESTIONs
 
-6 of the 1925.
+6 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1321,7 +1324,7 @@
 
 ## CLAIMs
 
-323 of the 1925.
+323 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1402,7 +1405,7 @@
 | 2026-11-16 | Proposed | [CLAIM-702](../../record/claims.d/CLAIM-702.md) | 1 | 57 | 0 | Where members' compensating effort prevents failures that an organization's conditions would otherwise produce, the prevention leaves little trace while its lapse is visible, so the organization can be credited with outcomes the compensation produced and the members blamed for failures the conditions produced: credit and blame then follow different principles |
 | 2026-11-17 | Proposed | [CLAIM-733](../../record/claims.d/CLAIM-733.md) | 1 | 42 | 0 | Blame supplies provenance: responsibility for a harmful act and responsibility for producing the incapacity through which it was done can come apart and attach to different actors, so blame traced upstream to those who formed or maintained an agent's incapacity grounds holding them accountable where the agent who acted is not culpable |
 | 2026-11-17 | Proposed | [CLAIM-737](../../record/claims.d/CLAIM-737.md) | 1 | 40 | 0 | That a capability's exercise should be limited and that a given party may limit it are separate conclusions on separate grounds, neither entailing the other; the power to restrict is itself a capability, whose legitimacy turns on how it is bounded and answerable and not on whether the limit it imposes is right |
-| 2026-11-19 | Proposed | [CLAIM-758](../../record/claims.d/CLAIM-758.md) | 1 | 76 | 4 | Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon |
+| 2026-11-19 | Proposed | [CLAIM-758](../../record/claims.d/CLAIM-758.md) | 1 | 77 | 5 | Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon |
 | 2026-10-04 | Proposed | [CLAIM-024](../../record/claims.d/CLAIM-024.md) | 0 | 35 | 10 | Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie's interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it |
 | 2026-10-04 | Proposed | [CLAIM-003](../../record/claims.d/CLAIM-003.md) | 0 | 24 | 0 | A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it |
 | 2026-10-05 | Deferred | [CLAIM-104](../../record/claims.d/CLAIM-104.md) | 0 | 22 | 0 | Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level |
@@ -1637,8 +1640,8 @@
 | 2026-11-18 | Proposed | [CLAIM-751](../../record/claims.d/CLAIM-751.md) | 0 | 15 | 1 | The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator's distraction to her company's safety culture and the state's oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source |
 | 2026-11-18 | Proposed | [CLAIM-753](../../record/claims.d/CLAIM-753.md) | 0 | 3 | 3 | A critique of produced wants cannot rest on how they were formed, by whatever process, without appeal to the worth of their objects or to their effects |
 | 2026-11-18 | Proposed | [CLAIM-752](../../record/claims.d/CLAIM-752.md) | 0 | 1 | 1 | The duties to comply with a justified rule and to support the institution that administers it may be one duty, as Rawls's natural duty treats them, and are not shown distinct until a case separates them |
-| 2026-11-19 | Proposed | [CLAIM-756](../../record/claims.d/CLAIM-756.md) | 0 | 56 | 3 | An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted |
-| 2026-11-19 | Proposed | [CLAIM-754](../../record/claims.d/CLAIM-754.md) | 0 | 41 | 6 | A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared |
+| 2026-11-19 | Proposed | [CLAIM-756](../../record/claims.d/CLAIM-756.md) | 0 | 57 | 4 | An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted |
+| 2026-11-19 | Proposed | [CLAIM-754](../../record/claims.d/CLAIM-754.md) | 0 | 42 | 7 | A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared |
 | 2026-11-19 | Proposed | [CLAIM-762](../../record/claims.d/CLAIM-762.md) | 0 | 31 | 1 | Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system's own operations and are reused |
 | 2026-11-19 | Proposed | [CLAIM-761](../../record/claims.d/CLAIM-761.md) | 0 | 24 | 1 | A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench |
 | 2026-11-19 | Proposed | [CLAIM-757](../../record/claims.d/CLAIM-757.md) | 0 | 13 | 0 | Whether relief from overconsolidation has a deadline depends on how the capacity to acquire is lost: if it is sustained by use and decays with disuse (the conditions of the owner-endorsed model of learning by doing), renewed varied practice restores it before a threshold point in training and not after; if it is used up by training, as in plasticity loss under continued varied practice, renewed practice does not restore it at any point, and only an intervention that renews what was used up, such as reinitializing units, does, at any point; the evidence read so far fits the second |
@@ -1651,7 +1654,7 @@
 
 ## CASEs
 
-106 of the 1925.
+106 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1764,7 +1767,7 @@
 
 ## TERMs
 
-36 of the 1925.
+36 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1772,7 +1775,7 @@
 | 2026-10-23 | Proposed | [TERM-076](../../record/terms.d/TERM-076.md) | 10 | 109 | 23 | goal-conduciveness valence, organizational: a regime in which the negotiation among a system's perspectives has, approximately, a potential, an ordering of the system's own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation's decisions follow it rather than any rival ordering |
 | 2026-11-13 | Proposed | [TERM-124](../../record/terms.d/TERM-124.md) | 9 | 99 | 0 | domination, of a party within an arrangement, relative to a declared standard of answerability: an agent's or role's capacity, used or not, to set or change the terms on which the party can act, exit, contest or renegotiate, where the capacity is not answerable to the party under a standard declared with the judgment |
 | 2026-11-07 | Proposed | [TERM-118](../../record/terms.d/TERM-118.md) | 8 | 47 | 3 | disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked |
-| 2026-11-19 | Proposed | [TERM-131](../../record/terms.d/TERM-131.md) | 6 | 31 | 8 | learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response |
+| 2026-11-19 | Proposed | [TERM-131](../../record/terms.d/TERM-131.md) | 6 | 32 | 9 | learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response |
 | 2026-10-04 | Deferred | [TERM-012](../../record/terms.d/TERM-012.md) | 3 | 18 | 0 | cross-scale concordance |
 | 2026-10-04 | Deferred | [TERM-006](../../record/terms.d/TERM-006.md) | 3 | 15 | 1 | organizational authenticity |
 | 2026-11-17 | Proposed | [TERM-129](../../record/terms.d/TERM-129.md) | 3 | 20 | 0 | capability, decomposed for restriction: competence (the skill, knowledge, equipment or capacity to act), exercise (whether the act can be performed here and now), authority (who is entitled to decide whether it proceeds) and governance (who can set and revise the relations fixing the other three), which vary independently, so that a restriction on one is not a restriction on another |
@@ -1807,7 +1810,7 @@
 
 ## ARGs
 
-79 of the 1925.
+79 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1888,12 +1891,12 @@
 | 2026-11-18 | Proposed | [ARG-118](../../record/arguments.d/ARG-118.md) | 0 | 2 | 0 | The NTSB's Tempe investigation, barred from assigning blame or liability, still traced the operator's distraction to the company and the state and directed its recommendations to them, which shows that upstream provenance can be carried without blame |
 | 2026-11-19 | Proposed | [ARG-120](../../record/arguments.d/ARG-120.md) | 0 | 3 | 0 | The stipulated two-step acquisition shows that an acquisition with a negative return on its own tasks can belong to the best learning policy, because of what it does to the cost of another |
 | 2026-11-19 | Proposed | [ARG-121](../../record/arguments.d/ARG-121.md) | 0 | 3 | 0 | The three-arm case's slow register that no member reads, and its rule passed through an archive between episodes that never run together, show that dynamical and economic separation of time scales come apart in both directions |
+| 2026-11-19 | Proposed | [ARG-119](../../record/arguments.d/ARG-119.md) | 0 | 2 | 1 | The definition of learning as an experience-dependent change in retained organization, judged by what it later costs and against a counterfactual, explicates what the record's claims about learning need; the definition by improved performance at a task explicates another explicandum, successful learning, which the term keeps apart, so it is not a rival and both stand; the exclusion of selection is a contested case the term must decide, and its fruitfulness is so far shown only by claims stated in its own terms |
 | 2026-11-19 | Proposed | [ARG-122](../../record/arguments.d/ARG-122.md) | 0 | 2 | 0 | The formal-language and procedural first phases show that an earlier acquisition can lower a later one's cost with its own cost counted, but the compute-matched null shows this is not a general property of pretraining with a first phase, so they support the claim's premise as possibility and no more |
-| 2026-11-19 | Proposed | [ARG-119](../../record/arguments.d/ARG-119.md) | 0 | 1 | 0 | The definition of learning as an experience-dependent change in retained organization, judged by what it later costs and against a counterfactual, explicates what the record's claims about learning need; the definition by improved performance at a task explicates another explicandum, successful learning, which the term keeps apart, so it is not a rival and both stand; the exclusion of selection is a contested case the term must decide, and its fruitfulness is so far shown only by claims stated in its own terms |
 
 ## SYNTHESISs
 
-97 of the 1925.
+97 of the 1928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

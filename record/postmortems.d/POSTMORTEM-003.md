@@ -1,5 +1,8 @@
 ---
+number: 3
 status: Draft
+formerly:
+- POSTMORTEM-tmpe7ifr
 title: 'The batch of 2026-11-19 and 20: pull requests 541 to 545, parallel pull requests appending notes to the same entries'
 version: 1
 tags:
@@ -20,7 +23,7 @@ pull_requests:
 discussions:
 - https://claude.ai/code/session_01HcmtbsDR5i5G9oxErMDiB4
 summary: >-
-  Trigger 2 of [ADR-tmp714j2](../decisions.d/ADR-tmp714j2.md): five pull requests, one stacked on another
+  Trigger 2 of [ADR-110](../decisions.d/ADR-110.md): five pull requests, one stacked on another
   and folded, merged on the owner's word. The costs were conflicts on
   dated notes appended to the same entries by parallel pull requests,
   twice on one of them; a branch that had to be remapped to concretized
@@ -30,9 +33,9 @@ summary: >-
   the owner on how dated notes are filed, a wording question for [ADR-074](../decisions.d/ADR-074.md),
   and a rule against inferring names.
 ---
-<!-- inactive-ok-file: ADR-tmp714j2 — Proposed or newly filed; the decisions this postmortem reviews -->
+<!-- inactive-ok-file: ADR-110 — Proposed or newly filed; the decisions this postmortem reviews -->
 
-# POSTMORTEM-tmpe7ifr: The batch of 2026-11-19 and 20: pull requests 541 to 545, parallel pull requests appending notes to the same entries
+# POSTMORTEM-003: The batch of 2026-11-19 and 20: pull requests 541 to 545, parallel pull requests appending notes to the same entries
 
 ## What happened
 
