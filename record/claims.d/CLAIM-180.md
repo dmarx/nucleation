@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7vmnc
 title: 'Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-14'
@@ -45,6 +45,12 @@ history:
   note: >-
     A dated note: CLAIM-tmpw6wkt and CLAIM-tmpdx6l8 give a mechanism
     for the drift this claim describes. No change of status or title.
+- version: 6
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmphedau turns the critical distance into a
+    number of restatements, and CLAIM-tmpsn2rb draws a prediction. No
+    change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -78,6 +84,7 @@ summary: >-
 bears_on:
 - QUESTION-038
 ---
+<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-tmpsn2rb — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-tmpdx6l8 CLAIM-tmpw6wkt — Proposed; filed in the contribution of 2026-11-20 on an entry's life cycle -->
 <!-- inactive-ok-file: CLAIM-024 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
@@ -199,3 +206,15 @@ error, so the feature never enters the walk; that is a reason, in the
 chain's terms, why "a code bypasses retrieval by content altogether". A
 parallel that bears on the mechanism; it is not evidence that the critical
 distance exists, and this claim's own test is still not run.
+
+## Note of 2026-11-20 (later): the critical distance as a number of restatements
+
+CLAIM-tmphedau, a linear Gaussian model of restatement, gives the number of
+restatements before a feature first passes the distance δ this claim calls
+critical: about δ²/σ² when the feature is copied with random error σ;
+ln(D/(D − δ))/ln(1/a) when it is pulled toward a convention at distance
+D > δ; and, on average, never when the convention lies within δ. So the
+critical distance, with the step's constants, predicts when an idea will be
+taken for new. CLAIM-tmpsn2rb draws the consequence that ideas far from the
+collaborators' framings are lost soonest. Neither tests the critical
+distance itself, which this claim's own test still awaits.
