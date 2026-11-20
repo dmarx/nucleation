@@ -129,10 +129,9 @@ things qualify the claim.
   draws from endosymbiosis, met again at the scale of groups.
 
 ## Note of 2026-11-20: Alexander 1985, read
-<!-- inactive-ok-file: THEORY-tmp5lj70 — Proposed; the account of the reading cited -->
 
-An illustration, by analogy: Alexander (LIT-tmp629tl, read in
-NOTE-tmpnkurw) holds that morality arose "as a force leading to
+An illustration, by analogy: Alexander ([LIT-tmp629tl](../literature.d/LIT-tmp629tl.md), read in
+[NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md)) holds that morality arose "as a force leading to
 cohesiveness within human groups but specifically excluding and directed
 against other human groups" (p. 3), so cooperation within groups trades
 against the coexistence of groups, and he reaches this without group

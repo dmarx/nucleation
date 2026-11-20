@@ -119,9 +119,8 @@ before the account and for other purposes.
   lag between giving and return here.
 
 ## Note of 2026-11-20: Alexander 1985, read
-<!-- inactive-ok-file: THEORY-tmp5lj70 — Proposed; the account of the reading cited -->
 
-Alexander (LIT-tmp629tl, read in NOTE-tmpnkurw) credits this paper with
+Alexander ([LIT-tmp629tl](../literature.d/LIT-tmp629tl.md), read in [NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md)) credits this paper with
 the idea he calls indirect reciprocity, under Trivers's name "generalized
 reciprocity" (note 3, p. 18), and cites it for the cost condition and for
 self-deception (pp. 12–13). Background: it confirms the record's reading

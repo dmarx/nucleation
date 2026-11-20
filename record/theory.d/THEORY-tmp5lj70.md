@@ -18,8 +18,8 @@ promote_when: >-
   it as self-sacrifice; practised morality is in-group cohesion that may
   be directed against other groups.
 summary: >-
-  From the reading of LIT-tmp629tl in NOTE-tmpnkurw, a stand-in for the
-  book LIT-495. A verbal model at the level of individual selection.
+  From the reading of [LIT-tmp629tl](../literature.d/LIT-tmp629tl.md) in [NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md), a stand-in for the
+  book [LIT-495](../literature.d/LIT-495.md). A verbal model at the level of individual selection.
   Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: LIT-495 — Unfetched; the book this account is meant to stand for -->

@@ -207,10 +207,9 @@ There is no instruction for ML practice. For this record's ethics and cooperatio
   either version, asks about returning a favour.
 
 ## Note of 2026-11-20: Alexander 1985, read
-<!-- inactive-ok-file: THEORY-tmp5lj70 — Proposed; the account of the reading cited -->
 
 Alexander's 1985 statement of the evolutionary account of morality
-(LIT-tmp629tl, read in NOTE-tmpnkurw) is a precursor this note's lineage
+([LIT-tmp629tl](../literature.d/LIT-tmp629tl.md), read in [NOTE-tmpnkurw](NOTE-tmpnkurw.md)) is a precursor this note's lineage
 does not name. It grounds the kin, reciprocity and group domains, touches
 mutualism, bravery and fairness, and is silent on deference, division and
 possession. It denies that practised morality is universal altruism, which

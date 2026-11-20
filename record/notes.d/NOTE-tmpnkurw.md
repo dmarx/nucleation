@@ -23,7 +23,7 @@ summary: >-
   practised morality is in-group cohesion. Verbal model, individual-level
   selection. Stand-in for the 1987 book.
 ---
-<!-- inactive-ok-file: LIT-495 THEORY-tmp5lj70 THEORY-663 — Unfetched or Proposed; the book this stands in for, this reading's account, and Trivers's account -->
+<!-- inactive-ok-file: LIT-495 THEORY-663 — Unfetched or Proposed; the book this stands in for, this reading's account, and Trivers's account -->
 
 # NOTE-tmpnkurw: Alexander — A Biological Interpretation of Moral Systems
 
@@ -117,29 +117,29 @@ self-deception.
 
 ## Bearing on the record
 
-- **LIT-495**, the book: Alexander's précis. It confirms the publisher's
+- **[LIT-495](../literature.d/LIT-495.md)**, the book: Alexander's précis. It confirms the publisher's
   description except for the levels formula ("confluences of interest at
   lower levels", here only "conflicts and confluences of interest", p. 3)
   and the claim about universals, which only the book can settle. It gives
   no warrant for an `ethics` tag.
-- **THEORY-567** (Nowak 2006), supports the attribution: Nowak's credit
+- **[THEORY-567](../theory.d/THEORY-567.md)** (Nowak 2006), supports the attribution: Nowak's credit
   to Alexander for indirect reciprocity leading to morality is borne out
   by p. 10. Alexander's indirect reciprocity also takes in harm, cheating
   and punishment, where Nowak's rule covers help only.
-- **THEORY-663** (Trivers 1971), background: Alexander credits Trivers
+- **[THEORY-663](../theory.d/THEORY-663.md)** (Trivers 1971), background: Alexander credits Trivers
   with the same idea under the name generalized reciprocity (note 3), and
   cites him for the cost condition and for self-deception, matching the
   account's cost condition and its sham versions.
-- **NOTE-034** (morality-as-cooperation), lineage: the paper grounds the
+- **[NOTE-034](NOTE-034.md)** (morality-as-cooperation), lineage: the paper grounds the
   kin, reciprocity and group domains and touches mutualism, bravery and
   fairness; it is silent on deference, division and possession. No
   conflict with universal moral rules. The theory's lineage paragraph does
   not name Alexander.
-- **CLAIM-547**, an illustration: in-group morality "directed against
+- **[CLAIM-547](../claims.d/CLAIM-547.md)**, an illustration: in-group morality "directed against
   other human groups" is a case of the trade-off between cooperation
   within groups and the coexistence of groups, reached without group
   selection.
-- **LIT-514** (Boehm) and **LIT-504** (Tomasello), neighbours as the
+- **[LIT-514](../literature.d/LIT-514.md)** (Boehm) and **[LIT-504](../literature.d/LIT-504.md)** (Tomasello), neighbours as the
   book's LIT says: Boehm shares judgment and punishment by onlookers;
   Tomasello's base is collaboration, which Alexander treats only as a
   condition under which reciprocity pays (p. 13).

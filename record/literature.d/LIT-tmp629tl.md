@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  Read in full on 2026-11-20 (NOTE-tmpnkurw) as a stand-in for Alexander's
-  book The Biology of Moral Systems (LIT-495), whose only located lawful
+  Read in full on 2026-11-20 ([NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md)) as a stand-in for Alexander's
+  book The Biology of Moral Systems ([LIT-495](LIT-495.md)), whose only located lawful
   copy sat behind a Cloudflare challenge. Alexander's own short statement
   of the book's thesis: it carries the indirect-reciprocity thesis, its
   mechanism, conflicts of reproductive interest and the arms race, not the
@@ -32,14 +32,14 @@ keywords: []
 implementations: []
 summary: >-
   Alexander's own statement of the thesis of The Biology of Moral Systems
-  (LIT-495), from a 1983 AAAS talk: "A moral system is essentially a
+  ([LIT-495](LIT-495.md)), from a 1983 AAAS talk: "A moral system is essentially a
   society with rules"; moral questions arise from conflicts of ultimately
   reproductive interest, and "The essence of moral systems seems to lie in
   patterns of indirect reciprocity", direct reciprocity before "an
   interested audience". Indiscriminate altruism pays as social investment;
   idealized universal moralities misread it as self-sacrifice; morality as
   practised is in-group cohesion. Registered as a stand-in for the book.
-  Read in NOTE-tmpnkurw; account THEORY-tmp5lj70.
+  Read in [NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md); account [THEORY-tmp5lj70](../theory.d/THEORY-tmp5lj70.md).
 ---
 <!-- inactive-ok-file: LIT-495 — Unfetched; the book this paper stands in for -->
 
@@ -50,7 +50,7 @@ Richard D. Alexander (1985). "A Biological Interpretation of Moral Systems". Zyg
 ## Standing in the record
 
 Registered and read on 2026-11-20 at the owner's request, as a stand-in
-for The Biology of Moral Systems (LIT-495), which could not be fetched.
+for The Biology of Moral Systems ([LIT-495](LIT-495.md)), which could not be fetched.
 Its first page says parts of it were included in the book manuscript. It
 stands in for the book on indirect reciprocity, conflicts of interest and
 reproductive interests, in-group morality and the arms race; not on the
