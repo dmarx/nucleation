@@ -6,7 +6,7 @@
 
 **Demonstrated** — follows from stated premises, definitions or a construction, and licenses the conclusion under them. A theorem whose interpretation is disputed is demonstrated and Proposed.
 
-243 of 764 CLAIM documents. Back to the [full index](../README.md).
+243 of 765 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

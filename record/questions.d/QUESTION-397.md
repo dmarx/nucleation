@@ -121,12 +121,12 @@ improvement after the baseline converges, suggesting changed later
 dynamics; untested as such, one run, read from a figure.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmp51mqd THEORY-tmp80vhs — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2087 THEORY-2088 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Goudar and colleagues ([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)) give a process-level test in an
+Goudar and colleagues ([THEORY-2088](../theory.d/THEORY-2088.md)) give a process-level test in an
 RNN: barring the readout from the reused decision subspace returns
 learning to the first problem's cost, so the benefit runs through changed
 later dynamics, not a more advanced start. Zhang, Lepori and Pavlick
-([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md)) separate a reusable component from a random subset that
+([THEORY-2087](../theory.d/THEORY-2087.md)) separate a reusable component from a random subset that
 helps only as a better initialization. Analogies to this question's
 assembly setting.

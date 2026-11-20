@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1017 documents cited without acknowledgement.** Not listed: 34828 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1033 documents cited without acknowledgement.** Not listed: 34936 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -4842,6 +4842,22 @@ A far-from-equilibrium system that contributes to its own maintenance has functi
 - [`record/questions.d/QUESTION-128.md:97`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:128`](../../record/questions.d/QUESTION-128.md)
 
+### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
+
+A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
+
+9 citations in 9 files await a look; 2 other citations of it are acknowledged.
+
+- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
+- [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
+- [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
+- [`record/notes.d/NOTE-2169.md:16`](../../record/notes.d/NOTE-2169.md)
+- [`record/notes.d/NOTE-2170.md:17`](../../record/notes.d/NOTE-2170.md)
+- [`record/notes.d/NOTE-2171.md:19`](../../record/notes.d/NOTE-2171.md)
+- [`record/notes.d/NOTE-2173.md:17`](../../record/notes.d/NOTE-2173.md)
+- [`record/notes.d/NOTE-2174.md:16`](../../record/notes.d/NOTE-2174.md)
+- [`record/notes.d/NOTE-2175.md:16`](../../record/notes.d/NOTE-2175.md)
+
 ### [CLAIM-066](../../record/claims.d/CLAIM-066.md) — Superseded
 
 Kirby, Cornish and Smith show structure emerging under transmission with an experimenter's filter, not filtering by measured inductive biases, and Griffiths and Kalish's convergence to the prior holds only for sampling learners
@@ -5571,7 +5587,7 @@ Organizational action can be described as pre-individual, so that whose action i
 
 Hu, Petty, Shi, Merrill and Linzen report that a short first phase of training on a formal language with hierarchical dependencies, before natural-language pretraining, lowers the natural-language tokens a transformer needs to reach a given loss, counting the first phase's tokens, by a third at 1B parameters against no first phase; that the copy language and random strings raise that cost; and that attention heads found by pruning after the first phase remain more important than random heads after natural-language training
 
-8 citations in 8 files await a look; 10 other citations of it are acknowledged.
+8 citations in 8 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/leads.d/LEAD-008.md:52`](../../record/leads.d/LEAD-008.md)
 - [`record/literature.d/LIT-2850.md:8`](../../record/literature.d/LIT-2850.md)
@@ -5951,7 +5967,7 @@ If the communicative object is a presheaf of propositions over a category of con
 
 learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response
 
-7 citations in 7 files await a look; 18 other citations of it are acknowledged.
+7 citations in 7 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2139.md:89`](../../record/notes.d/NOTE-2139.md)
 - [`record/notes.d/NOTE-2143.md:77`](../../record/notes.d/NOTE-2143.md)
@@ -6227,6 +6243,19 @@ Model-based wanting is a pursuit process's ranking of the futures it predicts un
 - [`record/theory.d/THEORY-893.md:28`](../../record/theory.d/THEORY-893.md)
 - [`record/theory.d/THEORY-895.md:158`](../../record/theory.d/THEORY-895.md)
 
+### [CLAIM-519](../../record/claims.d/CLAIM-519.md) — Proposed
+
+Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions
+
+6 citations in 5 files await a look; 43 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-513.md:32`](../../record/claims.d/CLAIM-513.md)
+- [`record/claims.d/CLAIM-513.md:53`](../../record/claims.d/CLAIM-513.md)
+- [`record/claims.d/CLAIM-515.md:77`](../../record/claims.d/CLAIM-515.md)
+- [`record/decisions.d/ADR-107.md:55`](../../record/decisions.d/ADR-107.md)
+- [`record/notes.d/NOTE-2175.md:66`](../../record/notes.d/NOTE-2175.md)
+- [`record/theory.d/THEORY-609.md:13`](../../record/theory.d/THEORY-609.md)
+
 ### [CLAIM-545](../../record/claims.d/CLAIM-545.md) — Proposed
 
 Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
@@ -6239,6 +6268,19 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 - [`docs/syntheses/warrant/interpretive.md:19`](../syntheses/warrant/interpretive.md)
 - [`record/decisions.d/ADR-077.md:106`](../../record/decisions.d/ADR-077.md)
 - [`record/terms.d/TERM-086.md:173`](../../record/terms.d/TERM-086.md)
+
+### [CLAIM-754](../../record/claims.d/CLAIM-754.md) — Proposed
+
+A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared
+
+6 citations in 6 files await a look; 32 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2148.md:90`](../../record/notes.d/NOTE-2148.md)
+- [`record/notes.d/NOTE-2152.md:100`](../../record/notes.d/NOTE-2152.md)
+- [`record/notes.d/NOTE-2158.md:85`](../../record/notes.d/NOTE-2158.md)
+- [`record/notes.d/NOTE-2159.md:85`](../../record/notes.d/NOTE-2159.md)
+- [`record/notes.d/NOTE-2162.md:54`](../../record/notes.d/NOTE-2162.md)
+- [`record/notes.d/NOTE-2171.md:68`](../../record/notes.d/NOTE-2171.md)
 
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
@@ -6807,6 +6849,18 @@ Two departments perform no extrications during ordinary operation, but only one 
 - [`docs/syntheses/warrant/demonstrated.md:14`](../syntheses/warrant/demonstrated.md)
 - [`record/decisions.d/ADR-087.md:65`](../../record/decisions.d/ADR-087.md)
 
+### [CASE-294](../../record/cases.d/CASE-294.md) — Proposed
+
+A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work
+
+5 citations in 5 files await a look; 63 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2143.md:79`](../../record/notes.d/NOTE-2143.md)
+- [`record/notes.d/NOTE-2149.md:85`](../../record/notes.d/NOTE-2149.md)
+- [`record/notes.d/NOTE-2150.md:52`](../../record/notes.d/NOTE-2150.md)
+- [`record/notes.d/NOTE-2159.md:99`](../../record/notes.d/NOTE-2159.md)
+- [`record/notes.d/NOTE-2175.md:76`](../../record/notes.d/NOTE-2175.md)
+
 ### [CLAIM-105](../../record/claims.d/CLAIM-105.md) — Proposed
 
 In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning
@@ -6879,18 +6933,6 @@ Experience is constituted by interpretive organization, not produced by it: an a
 - [`record/theory.d/THEORY-056.md:256`](../../record/theory.d/THEORY-056.md)
 - [`record/theory.d/THEORY-056.md:261`](../../record/theory.d/THEORY-056.md)
 
-### [CLAIM-519](../../record/claims.d/CLAIM-519.md) — Proposed
-
-Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions
-
-5 citations in 4 files await a look; 40 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-513.md:32`](../../record/claims.d/CLAIM-513.md)
-- [`record/claims.d/CLAIM-513.md:53`](../../record/claims.d/CLAIM-513.md)
-- [`record/claims.d/CLAIM-515.md:77`](../../record/claims.d/CLAIM-515.md)
-- [`record/decisions.d/ADR-107.md:55`](../../record/decisions.d/ADR-107.md)
-- [`record/theory.d/THEORY-609.md:13`](../../record/theory.d/THEORY-609.md)
-
 ### [CLAIM-606](../../record/claims.d/CLAIM-606.md) — Proposed
 
 A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
@@ -6962,18 +7004,6 @@ The duties to comply with a justified rule, to support a justified institution a
 - [`record/claims.d/CLAIM-752.md:39`](../../record/claims.d/CLAIM-752.md)
 - [`record/claims.d/CLAIM-752.md:50`](../../record/claims.d/CLAIM-752.md)
 - [`record/claims.d/CLAIM-752.md:55`](../../record/claims.d/CLAIM-752.md)
-
-### [CLAIM-754](../../record/claims.d/CLAIM-754.md) — Proposed
-
-A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared
-
-5 citations in 5 files await a look; 27 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-2148.md:90`](../../record/notes.d/NOTE-2148.md)
-- [`record/notes.d/NOTE-2152.md:100`](../../record/notes.d/NOTE-2152.md)
-- [`record/notes.d/NOTE-2158.md:85`](../../record/notes.d/NOTE-2158.md)
-- [`record/notes.d/NOTE-2159.md:85`](../../record/notes.d/NOTE-2159.md)
-- [`record/notes.d/NOTE-2162.md:54`](../../record/notes.d/NOTE-2162.md)
 
 ### [LIT-1445](../../record/literature.d/LIT-1445.md) — Unfetched
 
@@ -7167,6 +7197,18 @@ ratchet effect, in the incentive sense: a principal that cannot commit to future
 - [`record/claims.d/CLAIM-577.md:170`](../../record/claims.d/CLAIM-577.md)
 - [`record/decisions.d/ADR-087.md:65`](../../record/decisions.d/ADR-087.md)
 
+### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
+
+The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
+
+5 citations in 4 files await a look; 35 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2168.md:64`](../../record/notes.d/NOTE-2168.md)
+- [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
+- [`record/questions.d/QUESTION-058.md:17`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:35`](../../record/questions.d/QUESTION-058.md)
+
 ### [THEORY-025](../../record/theory.d/THEORY-025.md) — Proposed
 
 Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation
@@ -7178,6 +7220,18 @@ Neither utility information nor resource holdings, alone or together, can regist
 - [`record/claims.d/CLAIM-352.md:111`](../../record/claims.d/CLAIM-352.md)
 - [`record/claims.d/CLAIM-352.md:133`](../../record/claims.d/CLAIM-352.md)
 - [`record/theory.d/THEORY-027.md:73`](../../record/theory.d/THEORY-027.md)
+
+### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
+
+The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
+
+5 citations in 4 files await a look; 32 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2175.md:72`](../../record/notes.d/NOTE-2175.md)
+- [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
+- [`record/questions.d/QUESTION-039.md:26`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:48`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-044](../../record/theory.d/THEORY-044.md) — Proposed
 
@@ -7279,7 +7333,7 @@ Feng, Goodman and Frank find that small GPT-2 models trained from scratch on abo
 
 Stern and colleagues find that in transformers below one billion parameters, spending a share of a fixed compute budget on a first phase of formal-language, cellular-automaton, synthetic or code data never lowers natural-language validation loss below spending it all on natural language, that earlier reported gains shrink when the baseline is better initialized, and that what the first phase taught is overwritten at the switch unless the data are interleaved
 
-5 citations in 5 files await a look; 7 other citations of it are acknowledged.
+5 citations in 5 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2864.md:41`](../../record/literature.d/LIT-2864.md)
 - [`record/theory.d/THEORY-2064.md:23`](../../record/theory.d/THEORY-2064.md)
@@ -7437,17 +7491,6 @@ A proposed study of open-source projects whose name, code or hosting passed to a
 - [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
 - [`docs/syntheses/route/hypothesis.md:13`](../syntheses/route/hypothesis.md)
 - [`docs/syntheses/warrant/interpretive.md:13`](../syntheses/warrant/interpretive.md)
-
-### [CASE-294](../../record/cases.d/CASE-294.md) — Proposed
-
-A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work
-
-4 citations in 4 files await a look; 63 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-2143.md:79`](../../record/notes.d/NOTE-2143.md)
-- [`record/notes.d/NOTE-2149.md:85`](../../record/notes.d/NOTE-2149.md)
-- [`record/notes.d/NOTE-2150.md:52`](../../record/notes.d/NOTE-2150.md)
-- [`record/notes.d/NOTE-2159.md:99`](../../record/notes.d/NOTE-2159.md)
 
 ### [CLAIM-004](../../record/claims.d/CLAIM-004.md) — Proposed
 
@@ -7723,6 +7766,17 @@ Forgetting a hidden mechanism can turn a sheaf of histories into a presheaf of r
 - [`record/claims.d/CLAIM-197.md:29`](../../record/claims.d/CLAIM-197.md)
 - [`record/theory.d/THEORY-1060.md:12`](../../record/theory.d/THEORY-1060.md)
 - [`record/theory.d/THEORY-1060.md:21`](../../record/theory.d/THEORY-1060.md)
+
+### [CLAIM-758](../../record/claims.d/CLAIM-758.md) — Proposed
+
+Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon
+
+4 citations in 4 files await a look; 69 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2142.md:53`](../../record/notes.d/NOTE-2142.md)
+- [`record/notes.d/NOTE-2168.md:66`](../../record/notes.d/NOTE-2168.md)
+- [`record/notes.d/NOTE-2175.md:70`](../../record/notes.d/NOTE-2175.md)
+- [`record/theory.d/THEORY-2027.md:39`](../../record/theory.d/THEORY-2027.md)
 
 ### [LEAD-009](../../record/leads.d/LEAD-009.md) — Done
 
@@ -8087,28 +8141,6 @@ moral standing: being owed moral consideration directly, for one's own sake, and
 - [`record/terms.d/TERM-081.md:21`](../../record/terms.d/TERM-081.md)
 - [`record/terms.d/TERM-081.md:49`](../../record/terms.d/TERM-081.md)
 
-### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
-
-The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
-
-4 citations in 3 files await a look; 35 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
-- [`record/questions.d/QUESTION-058.md:17`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:35`](../../record/questions.d/QUESTION-058.md)
-
-### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
-
-The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
-
-4 citations in 3 files await a look; 32 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
-- [`record/questions.d/QUESTION-039.md:26`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:48`](../../record/questions.d/QUESTION-039.md)
-
 ### [THEORY-047](../../record/theory.d/THEORY-047.md) — Proposed
 
 A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is
@@ -8355,12 +8387,23 @@ Wang and Slotine show that if an auxiliary system with the actual state as input
 
 Chen and colleagues report that at an equal total budget of training steps, training a language model on a mixture of a target skill's data with the data of its prerequisite skills reaches a given validation loss on the target in fewer steps, or a lower loss in the same steps, than training on the target's data alone, and that a sequential curriculum over the same skills does no better than random sampling
 
-4 citations in 4 files await a look; 9 other citations of it are acknowledged.
+4 citations in 4 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2849.md:38`](../../record/literature.d/LIT-2849.md)
 - [`record/notes.d/NOTE-2143.md:79`](../../record/notes.d/NOTE-2143.md)
 - [`record/notes.d/NOTE-2150.md:51`](../../record/notes.d/NOTE-2150.md)
 - [`record/notes.d/NOTE-2155.md:52`](../../record/notes.d/NOTE-2155.md)
+
+### [THEORY-279](../../record/theory.d/THEORY-279.md) — Proposed
+
+Early in training, image classifiers and language models act on the low-order statistics of their inputs, first-order before second-order, and later lose that sensitivity as they come to use higher-order structure
+
+4 citations in 4 files await a look; 11 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2143.md:79`](../../record/notes.d/NOTE-2143.md)
+- [`record/notes.d/NOTE-2149.md:85`](../../record/notes.d/NOTE-2149.md)
+- [`record/notes.d/NOTE-2152.md:100`](../../record/notes.d/NOTE-2152.md)
+- [`record/notes.d/NOTE-2173.md:68`](../../record/notes.d/NOTE-2173.md)
 
 ### [THEORY-326](../../record/theory.d/THEORY-326.md) — Proposed
 
@@ -8933,7 +8976,7 @@ An absence of response under an inserted intervention with an expected response 
 
 A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs
 
-3 citations in 3 files await a look; 45 other citations of it are acknowledged.
+3 citations in 3 files await a look; 49 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-275.md:73`](../../record/cases.d/CASE-275.md)
 - [`record/claims.d/CLAIM-613.md:145`](../../record/claims.d/CLAIM-613.md)
@@ -8953,7 +8996,7 @@ A critique of produced wants cannot rest on how they were formed, by whatever pr
 
 An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted
 
-3 citations in 2 files await a look; 42 other citations of it are acknowledged.
+3 citations in 2 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/leads.d/LEAD-002.md:33`](../../record/leads.d/LEAD-002.md)
 - [`record/leads.d/LEAD-002.md:56`](../../record/leads.d/LEAD-002.md)
@@ -9499,6 +9542,16 @@ Mossio, Montévil and Longo argue that closure of constraints both stabilizes an
 - [`record/literature.d/LIT-1888.md:91`](../../record/literature.d/LIT-1888.md)
 - [`record/theory.d/THEORY-1251.md:69`](../../record/theory.d/THEORY-1251.md)
 
+### [THEORY-1353](../../record/theory.d/THEORY-1353.md) — Proposed
+
+In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
+
+3 citations in 2 files await a look; 20 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2006.md:35`](../../record/literature.d/LIT-2006.md)
+- [`record/literature.d/LIT-2006.md:65`](../../record/literature.d/LIT-2006.md)
+- [`record/notes.d/NOTE-2173.md:70`](../../record/notes.d/NOTE-2173.md)
+
 ### [THEORY-150](../../record/theory.d/THEORY-150.md) — Proposed
 
 A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy
@@ -9528,16 +9581,6 @@ Bengio, Louradour, Collobert and Weston report that training first on easier exa
 - [`record/literature.d/LIT-2868.md:37`](../../record/literature.d/LIT-2868.md)
 - [`record/notes.d/NOTE-2145.md:54`](../../record/notes.d/NOTE-2145.md)
 - [`record/notes.d/NOTE-2150.md:51`](../../record/notes.d/NOTE-2150.md)
-
-### [THEORY-2058](../../record/theory.d/THEORY-2058.md) — Proposed
-
-Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds
-
-3 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-596.md:127`](../../record/claims.d/CLAIM-596.md)
-- [`record/literature.d/LIT-2865.md:37`](../../record/literature.d/LIT-2865.md)
-- [`record/terms.d/TERM-131.md:116`](../../record/terms.d/TERM-131.md)
 
 ### [THEORY-2069](../../record/theory.d/THEORY-2069.md) — Proposed
 
@@ -9583,7 +9626,7 @@ Zhang and colleagues find that ordering pretraining documents from easy to hard 
 
 Jiang and colleagues find that a brief first phase on procedurally generated abstract data, well under one per cent of the later tokens, lets a language model reach its baseline's loss with substantially fewer natural-language or code tokens, and that shuffling the procedural sequences or the transferred weights removes the saving
 
-3 citations in 3 files await a look; 6 other citations of it are acknowledged.
+3 citations in 3 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-756.md:134`](../../record/claims.d/CLAIM-756.md)
 - [`record/literature.d/LIT-2850.md:41`](../../record/literature.d/LIT-2850.md)
@@ -9593,7 +9636,7 @@ Jiang and colleagues find that a brief first phase on procedurally generated abs
 
 Anguita and colleagues show in two-layer diagonal linear networks trained to convergence that the initialization's absolute scale, its relative scale between layers and the readout's scale at fine-tuning place fine-tuning in one of four regimes that trade reuse of pretrained features against a bias to learn sparse new ones; that the relative scale changes fine-tuning's inductive bias even when the pretrained function is the same; and that which regime generalizes best depends on how the fine-tuning task's features overlap the pretrained ones
 
-3 citations in 1 file await a look; 4 other citations of it are acknowledged.
+3 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2861.md:23`](../../record/literature.d/LIT-2861.md)
 - [`record/literature.d/LIT-2861.md:44`](../../record/literature.d/LIT-2861.md)
@@ -9638,16 +9681,6 @@ Inductive and explanatory usefulness is necessary but not sufficient for a natur
 - [`record/literature.d/LIT-244.md:24`](../../record/literature.d/LIT-244.md)
 - [`record/literature.d/LIT-244.md:97`](../../record/literature.d/LIT-244.md)
 - [`record/notes.d/NOTE-769.md:233`](../../record/notes.d/NOTE-769.md)
-
-### [THEORY-279](../../record/theory.d/THEORY-279.md) — Proposed
-
-Early in training, image classifiers and language models act on the low-order statistics of their inputs, first-order before second-order, and later lose that sensitivity as they come to use higher-order structure
-
-3 citations in 3 files await a look; 11 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-2143.md:79`](../../record/notes.d/NOTE-2143.md)
-- [`record/notes.d/NOTE-2149.md:85`](../../record/notes.d/NOTE-2149.md)
-- [`record/notes.d/NOTE-2152.md:100`](../../record/notes.d/NOTE-2152.md)
 
 ### [THEORY-464](../../record/theory.d/THEORY-464.md) — Proposed
 
@@ -9757,6 +9790,15 @@ An account the record holds only in parts, for a line or a part of one, gets a S
 
 - [`record/syntheses.d/SYNTHESIS-031.md:56`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-031.md:136`](../../record/syntheses.d/SYNTHESIS-031.md)
+
+### [ADR-101](../../record/decisions.d/ADR-101.md) — Proposed
+
+A repository's documented machine interface to an open-access full text is a lawful route in its own right, and a bot check on the repository's website does not bar it; Europe PMC's REST API is the first such route
+
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2876.md:20`](../../record/literature.d/LIT-2876.md)
+- [`record/notes.d/NOTE-2167.md:15`](../../record/notes.d/NOTE-2167.md)
 
 ### [ADR-109](../../record/decisions.d/ADR-109.md) — Proposed
 
@@ -10108,15 +10150,6 @@ Where a slowly revised governing level (a statute, an objective, a classificatio
 
 - [`record/claims.d/CLAIM-736.md:189`](../../record/claims.d/CLAIM-736.md)
 - [`record/terms.d/TERM-124.md:151`](../../record/terms.d/TERM-124.md)
-
-### [CLAIM-758](../../record/claims.d/CLAIM-758.md) — Proposed
-
-Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon
-
-2 citations in 2 files await a look; 68 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-2142.md:53`](../../record/notes.d/NOTE-2142.md)
-- [`record/theory.d/THEORY-2027.md:39`](../../record/theory.d/THEORY-2027.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -10630,6 +10663,15 @@ Balestriero & LeCun 2022 — SSL recovers spectral embedding
 
 - [`record/notes.d/NOTE-319.md:189`](../../record/notes.d/NOTE-319.md)
 - [`record/notes.d/NOTE-752.md:20`](../../record/notes.d/NOTE-752.md)
+
+### [NOTE-2166](../../record/notes.d/NOTE-2166.md) — Skimmed
+
+The owner — What's In A Name? Investigating Bias And Identity In Text-To-Image Models
+
+2 citations in 1 file await a look.
+
+- [`record/literature.d/LIT-2873.md:8`](../../record/literature.d/LIT-2873.md)
+- [`record/literature.d/LIT-2873.md:38`](../../record/literature.d/LIT-2873.md)
 
 ### [NOTE-418](../../record/notes.d/NOTE-418.md) — Skimmed
 
@@ -11171,15 +11213,6 @@ In West, Fisher, Gardner and Kiers's account, a transition in individuality is d
 - [`record/decisions.d/ADR-077.md:49`](../../record/decisions.d/ADR-077.md)
 - [`record/decisions.d/ADR-077.md:77`](../../record/decisions.d/ADR-077.md)
 
-### [THEORY-1353](../../record/theory.d/THEORY-1353.md) — Proposed
-
-In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
-
-2 citations in 1 file await a look; 20 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-2006.md:35`](../../record/literature.d/LIT-2006.md)
-- [`record/literature.d/LIT-2006.md:65`](../../record/literature.d/LIT-2006.md)
-
 ### [THEORY-1425](../../record/theory.d/THEORY-1425.md) — Proposed
 
 Rocks and colleagues show that in disordered spring networks a chosen linear strain response between a distant pair of target nodes and a pair of source nodes, and several such responses at once, can be produced with near-total success by removing about one percent of the bonds, chosen greedily with an analytic update built from the network's states of self-stress and compatible stress
@@ -11324,11 +11357,20 @@ Poole, Lahiri, Raghu, Sohl-Dickstein and Ganguli show, in the mean-field theory 
 - [`record/literature.d/LIT-2842.md:42`](../../record/literature.d/LIT-2842.md)
 - [`record/literature.d/LIT-2842.md:51`](../../record/literature.d/LIT-2842.md)
 
+### [THEORY-2058](../../record/theory.d/THEORY-2058.md) — Proposed
+
+Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds
+
+2 citations in 2 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-596.md:127`](../../record/claims.d/CLAIM-596.md)
+- [`record/literature.d/LIT-2865.md:37`](../../record/literature.d/LIT-2865.md)
+
 ### [THEORY-2059](../../record/theory.d/THEORY-2059.md) — Proposed
 
 Hernandez and colleagues find that, in the low-data regime, pretraining a transformer on text is worth an amount of from-scratch Python data that grows as a power law in the fine-tuning data and in model size, so that it multiplies the fine-tuning data by a factor that falls as that data grows, and that outside this regime pretraining can leave small models worse than training from scratch
 
-2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2853.md:39`](../../record/literature.d/LIT-2853.md)
 - [`record/questions.d/QUESTION-495.md:107`](../../record/questions.d/QUESTION-495.md)
@@ -11337,7 +11379,7 @@ Hernandez and colleagues find that, in the low-data regime, pretraining a transf
 
 Nishida and colleagues find that if a pretraining example's influence is measured as how much its update shortens the parameter distance to the run's final weights, then in Pythia runs literature-classified examples are relatively prominent among the most influential early and STEM examples later, and high-perplexity text is most influential mid-training
 
-2 citations in 2 files await a look; 5 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2851.md:38`](../../record/literature.d/LIT-2851.md)
 - [`record/theory.d/THEORY-2066.md:59`](../../record/theory.d/THEORY-2066.md)
@@ -11373,7 +11415,7 @@ Aryabumi and colleagues find that at a fixed total of 400B tokens, a 470M-parame
 
 Papadimitriou and Jurafsky find that LSTM language models whose recurrent weights are trained on Java code, on matched-pair parenthesis languages or on MIDI music, then frozen while only the embeddings are finetuned on Spanish, reach far lower Spanish perplexity than ones trained on random text, and that flat crossing pairs transfer as well as nested ones
 
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+2 citations in 2 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2863.md:38`](../../record/literature.d/LIT-2863.md)
 - [`record/terms.d/TERM-131.md:113`](../../record/terms.d/TERM-131.md)
@@ -11512,14 +11554,6 @@ In a multi-agent system run against a world utility, a private utility is factor
 
 - [`record/claims.d/CLAIM-444.md:151`](../../record/claims.d/CLAIM-444.md)
 - [`record/questions.d/QUESTION-271.md:102`](../../record/questions.d/QUESTION-271.md)
-
-### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
-
-A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
 
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
@@ -11920,6 +11954,14 @@ The mathematics of waves and distributed modes, which covers harmonic and spectr
 1 citation in 1 file awaits a look; 24 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-118.md:224`](../../record/terms.d/TERM-118.md)
+
+### [CLAIM-699](../../record/claims.d/CLAIM-699.md) — Proposed
+
+Where the reward used in RL post-training is also available as a verifier at test time, the RL model's single-sample gain is a cheaper route to what base sampling filtered by that verifier reaches at matched compute, and should not exceed it at large budgets; RL's distinctive value lies where recognition at test time is unavailable or costly, so the substitutability of training and search is fixed by the cost of recognition
+
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
+
+- [`record/leads.d/LEAD-013.md:30`](../../record/leads.d/LEAD-013.md)
 
 ### [CLAIM-707](../../record/claims.d/CLAIM-707.md) — Proposed
 
@@ -13265,6 +13307,14 @@ Multicellular cooperation depends on suppressing cells that gain fitness at the 
 
 - [`record/claims.d/CLAIM-060.md:51`](../../record/claims.d/CLAIM-060.md)
 
+### [THEORY-1358](../../record/theory.d/THEORY-1358.md) — Proposed
+
+In Kemp, Goodman and Tenenbaum's account, people learn to learn causal models by inferring a causal schema, a partition of objects into categories with category-level causal powers, characteristic features and between-category interactions, from contingency and feature data, and the schema lets a causal model for a new object be learned from one trial or from its features alone while still being overruled when the object proves unlike any category
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2171.md:70`](../../record/notes.d/NOTE-2171.md)
+
 ### [THEORY-1380](../../record/theory.d/THEORY-1380.md) — Proposed
 
 Zhuk shows, independently of Bulatov, that for a finite set of relations on a finite domain, deciding satisfiability is solvable in polynomial time if a weak near-unanimity operation preserves every relation and is NP-complete otherwise, by an algorithm that combines local consistency with linear algebra over prime fields
@@ -13433,6 +13483,22 @@ DeVille and Lerman show that a graph fibration between networks of continuous-ti
 
 - [`record/notes.d/NOTE-2096.md:127`](../../record/notes.d/NOTE-2096.md)
 
+### [THEORY-2019](../../record/theory.d/THEORY-2019.md) — Proposed
+
+Nichol, Achiam and Schulman show that Reptile, which repeatedly trains on a sampled task for k steps and moves the initialization toward the result, matches MAML on few-shot Omniglot and Mini-ImageNet with first-order gradients only, and that to leading order its update and MAML's both combine joint training on the expected loss with a term that raises the inner product of gradients from different mini-batches of one task, a term that grows with the step size and the number of inner steps and vanishes at one step
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2171.md:72`](../../record/notes.d/NOTE-2171.md)
+
+### [THEORY-2027](../../record/theory.d/THEORY-2027.md) — Proposed
+
+Dohare and colleagues show that networks trained by standard backpropagation on long sequences of new supervised tasks (Continual ImageNet, Permuted MNIST, class-incremental CIFAR-100) gradually lose the ability to learn each new task, down to about the level of a linear network, which is distinct from forgetting old tasks, and that methods which keep weights small while continually injecting fresh random units from the start of training, best of all their continual backpropagation, maintain that ability.
+
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2173.md:70`](../../record/notes.d/NOTE-2173.md)
+
 ### [THEORY-2043](../../record/theory.d/THEORY-2043.md) — Proposed
 
 Lohmiller and Slotine show that if the generalized Jacobian F = (Θ̇ + Θ ∂f/∂x)Θ⁻¹ of a smooth system ẋ = f(x, t) is uniformly negative definite in a region, with M = ΘᵀΘ uniformly positive definite, then any trajectory starting in an M-ball about a given trajectory and contained in that region converges to it exponentially, that conversely every exponentially convergent system is contracting in some metric, and that contraction is preserved under parallel, skew-symmetric feedback and hierarchical combination
@@ -13441,11 +13507,19 @@ Lohmiller and Slotine show that if the generalized Jacobian F = (Θ̇ + Θ ∂f/
 
 - [`record/notes.d/NOTE-2096.md:121`](../../record/notes.d/NOTE-2096.md)
 
+### [THEORY-2046](../../record/theory.d/THEORY-2046.md) — Proposed
+
+Finn, Abbeel and Levine show that training a network's initial parameters on the loss after one or a few gradient steps on each of many tasks from a declared task distribution, rather than on the loss at those parameters, yields an initialization that adapts to new tasks from that distribution from a handful of examples where joint pretraining on the same tasks does not
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2171.md:71`](../../record/notes.d/NOTE-2171.md)
+
 ### [THEORY-2062](../../record/theory.d/THEORY-2062.md) — Proposed
 
 Brown and colleagues show that in autoregressive language models from 125M to 175B parameters, each pretrained on 300B tokens, performance with task demonstrations given in the context and no weight update rises with the number of demonstrations and with model size, the gain over zero-shot growing with size, so that larger models reach a given accuracy with fewer in-context examples; they leave open whether this learns new tasks or recognizes tasks acquired in pretraining
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2859.md:41`](../../record/literature.d/LIT-2859.md)
 
@@ -13504,6 +13578,70 @@ Howard and Ruder report that a language model pretrained on WikiText-103 and fin
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2852.md:41`](../../record/literature.d/LIT-2852.md)
+
+### [THEORY-2086](../../record/theory.d/THEORY-2086.md) — Proposed
+
+Furuta and colleagues find that in one-layer transformers learning modular arithmetic, a frozen embedding or body pre-grokked on an elementary operation lowers the training fraction needed to grok some related linear expressions, but for quadratic and cubic polynomials more often raises it or prevents grokking, including polynomials composed on that same operation
+
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2880.md:40`](../../record/literature.d/LIT-2880.md)
+
+### [THEORY-2087](../../record/theory.d/THEORY-2087.md) — Proposed
+
+Zhang, Lepori and Pavlick find that a frozen subnetwork computing a shared arithmetic subtask, isolated by a weight mask in a small transformer and transplanted into a fresh one, lets it learn a target containing that subtask from about a thousand disambiguating samples, at least as efficiently as transferring the whole trained model, while a same-size random subnetwork of the trained model needs about six times as much data
+
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2879.md:40`](../../record/literature.d/LIT-2879.md)
+
+### [THEORY-2088](../../record/theory.d/THEORY-2088.md) — Proposed
+
+Goudar and colleagues find that a recurrent network trained without a meta-learning objective on successive sensorimotor association problems sharing a trial structure needs exponentially fewer trials for each new problem, reuses a low-dimensional decision subspace across problems, and loses the saving when its readout is barred from that subspace
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2881.md:42`](../../record/literature.d/LIT-2881.md)
+
+### [THEORY-2089](../../record/theory.d/THEORY-2089.md) — Proposed
+
+Thomm and colleagues find that transformer language models trained from scratch on algorithmic composition tasks, with the sub-tasks mixed into the same training, need more composed-task samples than the sub-task sets together contain and gain little from the sub-tasks, while pretraining on a composition lowers the cost of later learning one of its sub-tasks
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2874.md:38`](../../record/literature.d/LIT-2874.md)
+
+### [THEORY-2090](../../record/theory.d/THEORY-2090.md) — Proposed
+
+Driscoll, Shenoy and Sussillo find that recurrent networks trained on many cognitive tasks reuse shared dynamical motifs across tasks that share subtasks, carried in unit clusters whose lesion impairs only those tasks, and that a held-out task is learned quickly by training only its rule input when earlier training contained its motifs and slowly or not at all when it did not
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2876.md:42`](../../record/literature.d/LIT-2876.md)
+
+### [THEORY-2091](../../record/theory.d/THEORY-2091.md) — Proposed
+
+Ito and colleagues find that pretraining a small network on rule primitives and two-rule combinations of a compositional rule task builds abstract rule representations that give high zero-shot accuracy on the full task, that a network without pretraining needs several times more samples, pretraining counted, to match it, and that reversing the pretraining order leaves generalization at chance
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2877.md:40`](../../record/literature.d/LIT-2877.md)
+
+### [THEORY-2092](../../record/theory.d/THEORY-2092.md) — Proposed
+
+He and colleagues find that in a parameter-sharing transformer on a synthetic two-hop fact-composition task, models that reach held-out compositions through a bridge-entity reasoning path, by grokking or by full compositional supervision, later compose new first-hop facts with old ones, while models that reach comparable held-out accuracy by a shortcut learn new facts without composing them, and no model composes new second-hop facts
+
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2872.md:40`](../../record/literature.d/LIT-2872.md)
+
+### [THEORY-2093](../../record/theory.d/THEORY-2093.md) — Proposed
+
+Maennel and colleagues find that convolutional networks pretrained on images with random labels, rescaled and given a fresh head, usually learn a new labelling of fresh images faster than from scratch, a gain reproduced by first-layer filters sampled from the learned weight covariance, which aligns with the data covariance, while in other settings the same pretraining slows later learning as later-layer units go inactive
+
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2878.md:40`](../../record/literature.d/LIT-2878.md)
 
 ### [THEORY-221](../../record/theory.d/THEORY-221.md) — Proposed
 
@@ -13712,6 +13850,14 @@ Listeners interpret an utterance by inverting a model of a speaker who chooses a
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-242.md:156`](../../record/claims.d/CLAIM-242.md)
+
+### [THEORY-794](../../record/theory.d/THEORY-794.md) — Proposed
+
+In vision models, compositional generalization to unseen combinations of concepts is driven by the diversity of the combinations seen in training rather than by data volume, and arrives with representations that are linearly factored by concept, as Uselis, Dittadi and Oh propose
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2170.md:66`](../../record/notes.d/NOTE-2170.md)
 
 ### [THEORY-867](../../record/theory.d/THEORY-867.md) — Proposed
 

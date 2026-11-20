@@ -1,7 +1,7 @@
-<!-- inactive-ok-file: LEAD-tmptdlel CASE-tmpoqr8p — newly filed in this contribution of 2026-11-19 -->
+<!-- inactive-ok-file: LEAD-013 CASE-298 — newly filed in this contribution of 2026-11-19 -->
 ### Added
 
-- The owner's unfinished identity projects ([LIT-tmpevryj](record/literature.d/LIT-tmpevryj.md), [LIT-tmp64sbf](record/literature.d/LIT-tmp64sbf.md))
+- The owner's unfinished identity projects ([LIT-2875](record/literature.d/LIT-2875.md), [LIT-2873](record/literature.d/LIT-2873.md))
   filed as a directional experiment for accidental against reliable
-  capability: [CASE-tmpoqr8p](record/cases.d/CASE-tmpoqr8p.md) and [LEAD-tmptdlel](record/leads.d/LEAD-tmptdlel.md) (curation entry of
+  capability: [CASE-298](record/cases.d/CASE-298.md) and [LEAD-013](record/leads.d/LEAD-013.md) (curation entry of
   2026-11-19, 230953).

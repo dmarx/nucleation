@@ -39,9 +39,9 @@ A task-composition setting, found in prior work or built ([LEAD-006](LEAD-006.md
 with the same present competence.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2092 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-He and colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)) give a concrete pair of learners with
+He and colleagues ([THEORY-2092](../theory.d/THEORY-2092.md)) give a concrete pair of learners with
 similar present competence (a grokked and a shortcut model) whose later
 acquisition differs, which bears on this lead's unsettled point of what
 counts as the same present competence.

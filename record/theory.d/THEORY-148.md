@@ -2,7 +2,7 @@
 number: 148
 status: Proposed
 formerly:
-- THEORY-tmpqnfk9
+- THEORY-148
 promote_when: >-
   A demonstration outside the bandit-model family: either a different
   formal model of inquiry, or real groups, in which keeping alternatives

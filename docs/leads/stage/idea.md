@@ -6,7 +6,7 @@
 
 **Idea** — named, with what it would advance; how it would be done is not yet said.
 
-7 of 12 LEAD documents. Back to the [full index](../README.md).
+8 of 13 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [LEAD-006](../../../record/leads.d/LEAD-006.md) | Investigate task composition: whether a structure learned for one task lowers the cost of later tasks composed on it, with learners matched on first-stage performance, looking first for prior research that already runs the experiment | The question behind ChatGPT's first proposal at A80 (f = h∘g, structured, memorizing and shortcut learners matched on first-stage performance, with an intervention on the learned representation of g). At the owner's direction (review of 2026-11-19), the lead is the investigation, not a build: prior research on task composition may already run the experiment, and building an environment is one way to operationalize it, taken only if none does. | Open |
 | [LEAD-007](../../../record/leads.d/LEAD-007.md) | Read Lippl and Lindsey on regimes of feature reuse in multi-task learning and fine-tuning, the direct precursor of Anguita and colleagues | Named by the reading of Anguita and colleagues ([NOTE-2159](../../../record/notes.d/NOTE-2159.md)) as the work their theory extends; not held. | Open |
 | [LEAD-011](../../../record/leads.d/LEAD-011.md) | Show which assumptions are needed for a scalar optimum of learning to exist when what is learned changes what can later be learned | ChatGPT's next advance for [QUESTION-495](../../../record/questions.d/QUESTION-495.md) without an experiment (A84), beside [CLAIM-754](../../../record/claims.d/CLAIM-754.md)'s point that no context-free scalar ranks learners. | Open |
+| [LEAD-013](../../../record/leads.d/LEAD-013.md) | Run the identity-acquisition study: when does a capability reachable by sampling become reliable in training, and does reliability coincide with the learned identity becoming localized | The owner's suggestion of 2026-11-19 that the unfinished identity projects ([LIT-2875](../../../record/literature.d/LIT-2875.md), [LIT-2873](../../../record/literature.d/LIT-2873.md)) offer a directional experiment for accidental against reliable capability. Complements the backlog audit's lead for [CLAIM-699](../../../record/claims.d/CLAIM-699.md) (pull request 542), which compares RL with best-of-N at matched compute. | Open |

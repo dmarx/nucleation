@@ -6,7 +6,7 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-145 of 2165 NOTE documents. Back to the [full index](../README.md).
+146 of 2175 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -155,3 +155,4 @@
 | [NOTE-2118](../../../record/notes.d/NOTE-2118.md) | Settles 2009 (rev. 2010) — Active Learning Literature Survey |  | Skimmed |
 | [NOTE-2124](../../../record/notes.d/NOTE-2124.md) | Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors |  | Skimmed |
 | [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |
+| [NOTE-2166](../../../record/notes.d/NOTE-2166.md) | The owner — What's In A Name? Investigating Bias And Identity In Text-To-Image Models | A partial implementation of the identity proposal on Stable Diffusion v1.4: identity strength as dispersion of 128 samples per name in CLIP space, and a distinction between unique and self-consistent pseudo-identities. No training dynamics; results unwritten. | Skimmed |

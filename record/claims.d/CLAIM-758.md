@@ -229,13 +229,13 @@ Akter and colleagues ([THEORY-2069](../theory.d/THEORY-2069.md)) qualify: reason
 does not worsen later fine-tuning at 8B and 1T tokens, one run per arm.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmpowquo THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2086 THEORY-2092 THEORY-2093 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Weak parallels from the task-composition readings: frozen grokked modules
-block later grokking that training from scratch reaches ([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)),
+block later grokking that training from scratch reaches ([THEORY-2086](../theory.d/THEORY-2086.md)),
 and random-label pretraining can leave later-layer units permanently
-inactive at the switch, reducing later capacity ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)). He and
-colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)) qualify: longer training to grokking does not
+inactive at the switch, reducing later capacity ([THEORY-2093](../theory.d/THEORY-2093.md)). He and
+colleagues ([THEORY-2092](../theory.d/THEORY-2092.md)) qualify: longer training to grokking does not
 raise later cost there. No time course of stabilization in any of them.
 
 ## Note of 2026-11-19: Kuhn, read

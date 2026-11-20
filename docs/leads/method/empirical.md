@@ -6,7 +6,7 @@
 
 **Empirical** — observe, measure, or run an experiment or simulation.
 
-5 of 12 LEAD documents. Back to the [full index](../README.md).
+6 of 13 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [LEAD-006](../../../record/leads.d/LEAD-006.md) | Investigate task composition: whether a structure learned for one task lowers the cost of later tasks composed on it, with learners matched on first-stage performance, looking first for prior research that already runs the experiment | The question behind ChatGPT's first proposal at A80 (f = h∘g, structured, memorizing and shortcut learners matched on first-stage performance, with an intervention on the learned representation of g). At the owner's direction (review of 2026-11-19), the lead is the investigation, not a build: prior research on task composition may already run the experiment, and building an environment is one way to operationalize it, taken only if none does. | Open |
 | [LEAD-010](../../../record/leads.d/LEAD-010.md) | Calibrate the Pythia study: pilot two task families on four checkpoints of one model and confirm that each family is learnable and that adaptation cost is measurable before any arm is added | The first step of [CASE-294](../../../record/cases.d/CASE-294.md), as ChatGPT's review set it: four checkpoints of Pythia-70M-deduped, two synthetic task families, three seeds, the primary estimand the minimum adaptation budget to a reliability threshold. | Open |
 | [LEAD-012](../../../record/leads.d/LEAD-012.md) | Run the Pythia study: measure across checkpoints whether the cost of acquiring held-out task families rises while the pretraining objective improves, with forgetting measured and the secondary arms added only after the primary contrast | [CASE-294](../../../record/cases.d/CASE-294.md)'s study proper, once its calibration pilot is done: the record's main test of overconsolidation and of the deadline claim's two branches. | Open |
+| [LEAD-013](../../../record/leads.d/LEAD-013.md) | Run the identity-acquisition study: when does a capability reachable by sampling become reliable in training, and does reliability coincide with the learned identity becoming localized | The owner's suggestion of 2026-11-19 that the unfinished identity projects ([LIT-2875](../../../record/literature.d/LIT-2875.md), [LIT-2873](../../../record/literature.d/LIT-2873.md)) offer a directional experiment for accidental against reliable capability. Complements the backlog audit's lead for [CLAIM-699](../../../record/claims.d/CLAIM-699.md) (pull request 542), which compares RL with best-of-N at matched compute. | Open |

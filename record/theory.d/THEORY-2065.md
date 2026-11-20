@@ -61,10 +61,10 @@ arithmetic targets, not natural-language ones. Analogies; none contradicts
 this account.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmpezk6j THEORY-tmpoqh3f — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2089 THEORY-2091 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Thomm and colleagues ([THEORY-tmpezk6j](THEORY-tmpezk6j.md)) are in tension: mixing a
+Thomm and colleagues ([THEORY-2089](THEORY-2089.md)) are in tension: mixing a
 composition's sub-tasks into training barely lowers the composed task's
 samples, where mixing prerequisites in saved steps here; the measures
-differ. Ito and colleagues ([THEORY-tmpoqh3f](THEORY-tmpoqh3f.md)) contrast on order: sequence
+differ. Ito and colleagues ([THEORY-2091](THEORY-2091.md)) contrast on order: sequence
 decides everything there.

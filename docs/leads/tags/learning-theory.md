@@ -6,7 +6,7 @@
 
 **Learning theory** — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
-10 of 12 LEAD documents. Back to the [full index](../README.md).
+11 of 13 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [LEAD-010](../../../record/leads.d/LEAD-010.md) | Calibrate the Pythia study: pilot two task families on four checkpoints of one model and confirm that each family is learnable and that adaptation cost is measurable before any arm is added | The first step of [CASE-294](../../../record/cases.d/CASE-294.md), as ChatGPT's review set it: four checkpoints of Pythia-70M-deduped, two synthetic task families, three seeds, the primary estimand the minimum adaptation budget to a reliability threshold. | Open |
 | [LEAD-011](../../../record/leads.d/LEAD-011.md) | Show which assumptions are needed for a scalar optimum of learning to exist when what is learned changes what can later be learned | ChatGPT's next advance for [QUESTION-495](../../../record/questions.d/QUESTION-495.md) without an experiment (A84), beside [CLAIM-754](../../../record/claims.d/CLAIM-754.md)'s point that no context-free scalar ranks learners. | Open |
 | [LEAD-012](../../../record/leads.d/LEAD-012.md) | Run the Pythia study: measure across checkpoints whether the cost of acquiring held-out task families rises while the pretraining objective improves, with forgetting measured and the secondary arms added only after the primary contrast | [CASE-294](../../../record/cases.d/CASE-294.md)'s study proper, once its calibration pilot is done: the record's main test of overconsolidation and of the deadline claim's two branches. | Open |
+| [LEAD-013](../../../record/leads.d/LEAD-013.md) | Run the identity-acquisition study: when does a capability reachable by sampling become reliable in training, and does reliability coincide with the learned identity becoming localized | The owner's suggestion of 2026-11-19 that the unfinished identity projects ([LIT-2875](../../../record/literature.d/LIT-2875.md), [LIT-2873](../../../record/literature.d/LIT-2873.md)) offer a directional experiment for accidental against reliable capability. Complements the backlog audit's lead for [CLAIM-699](../../../record/claims.d/CLAIM-699.md) (pull request 542), which compares RL with best-of-N at matched compute. | Open |
