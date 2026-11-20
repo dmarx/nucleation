@@ -1,10 +1,10 @@
 ---
 number: 632
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpupm3q
 title: 'Records kept of each capacity a response needs bound a reserve''s readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities'' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities'' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-08'
@@ -34,6 +34,28 @@ history:
     or offered (ADR-060). The claim is Proposed, so QUESTION-395
     stays Open and is not split under ADR-049 until an answer is
     Active. No other change.
+- version: 4
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057), on a checked re-derivation (ADR-047, "What a
+    re-derivation counts for"). Its premises CLAIM-587 and CLAIM-558 and
+    the term it uses, TERM-115, are Active; nothing objects to it, and
+    nothing meets its defeated_if. Re-derived at this review: the bounds by
+    Boole's inequality and R ≤ Pᵢ; attainment by nested and end-to-end
+    (wrapped) success sets and their mixtures, R being linear in the joint
+    law; the verdict rule by monotonicity, with the floor's two conditions;
+    the three table rows; and the expiry clause.
+    scratch/formal/claim639_632_625_checks.py recomputes the bounds by
+    linear program on 1,500 marginal vectors and the table, and its
+    control shows the independence value is not the lower bound. Its
+    `answers` QUESTION-395 moves to QUESTION-tmp1j2mq, the part this
+    claim settles, split off under ADR-049 in the same change; the
+    narrowed parent stays Open. The body's sentence that the expiry
+    "holds for an estimate of R from a joint exercise" holds where decay
+    is pathwise and not where only the marginals fall (note of
+    2026-11-20); the title speaks of records and is unaffected.
+    Demonstrated. The title is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -63,6 +85,8 @@ rests_on:
 uses:
 - TERM-115
 answers:
+- QUESTION-tmp1j2mq
+bears_on:
 - QUESTION-395
 summary: >-
   [QUESTION-395](../questions.d/QUESTION-395.md) asks which observations tell a warranted reserve of
@@ -208,3 +232,7 @@ exercise, this claim's joint evidence, is in that chain the
 independent-smoke probe, which exercises every capacity of the response
 at once and nothing else. [CASE-210](../cases.d/CASE-210.md) has the same structure with rescue
 squads. Nothing changes. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-20: the joint-exercise sentence
+
+Item 4's last sentence, "The same holds for an estimate of R from a joint exercise", needs decay to be pathwise: each capacity's success event only shrinks between exercise and need, so their intersection only shrinks and R only falls. If only the marginals fall while the dependence changes, R can rise, which is CASE-237's construction run backwards: two capacities at 0.85 each failing apart (R = 0.7) can decay to 0.8 each failing together (R = 0.8), so a refutation from an exercise at a floor of 0.75 would not outlast it. The title, which speaks of records kept of each capacity, is unaffected: their upper bound min Pᵢ falls whenever every marginal falls. Checked in scratch/formal/claim639_632_625_checks.py. The wording is the assistant's (Claude, in this session).

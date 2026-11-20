@@ -180,3 +180,7 @@ Readings filed on 2026-11-15 give the claim machine-learning cases on each side 
 - **The test.** ProRL ([THEORY-1908](../theory.d/THEORY-1908.md), [CLAIM-695](CLAIM-695.md)) reports new strategies under prolonged RL, with pass@k rising from zero on some tasks. It does not settle the matter, since "zero" is read at k ≤ 128 from a distilled start.
 
 The claim's question, whether a change makes a process possible or only cheaper, is here answered per training run, by matched-budget coverage. None of these readings is listed as corroborating the architecture clause: whether a change of weights is a change of architecture in this claim's sense is the claim's own question, and they do not answer it. No status change.
+
+## Note of 2026-11-20: what holds it back
+
+The wait of 2026-11-06 is not over. Its named entries have moved without supplying what it waits on: CASE-194 was revised on 2026-11-11 (what it illustrates of CLAIM-346, and a bearing on QUESTION-097) and is still Proposed, so the observational way is still held only through a Proposed case; CLAIM-583's revision of 2026-11-11 corrected stale text; and TERM-114 gained draws_on THEORY-1435 (2026-11-12) and a note on a proposed authority component (2026-11-17), neither of which is a comparison. No comparison is yet on file that the repertoire makes and a costed configuration space with its moves (TERM-114) does not, which the first and novelty clauses of the defeat condition ask, and the readings of 2026-11-15 leave the architecture clause unanswered, as the note of that date says.

@@ -42,7 +42,7 @@ summary: >-
   have both is not part of the claim. The wording is A's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: ARG-121 CLAIM-478 CLAIM-756 CLAIM-761 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: ARG-121 CLAIM-478 CLAIM-756 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-755: Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in the sense of the owner's scale-separation claim, and a constraint that is both is a further fact
 
@@ -79,3 +79,7 @@ That the two are unrelated. A conjectured that "many productive emergent
 constraints instantiate both separations at once", and that the work one
 stabilized organization saves can be invested in forming another
 ([CLAIM-761](CLAIM-761.md), [CLAIM-756](CLAIM-756.md)). Whether they usually coincide is open.
+
+## Note of 2026-11-20: what holds it back
+
+The second direction's witness may meet the claim's own defeated_if: arm A counts as dynamically separated by slowness alone (second eigenvalue 0.98; nothing relaxes onto Z), and by that measure arm C's archive, once counted as a state of the system, is slower still: eigenvalue 1 across the gap, read by episode B and fixed on B's time scale, which makes it a constraint in CLAIM-478's sense, the case of "a rule stored in a file" that CLAIM-478 itself names. What is missing is either a definition of dynamical separation, such as relaxation onto a slow variable, under which arm A's register counts and arm C's archive does not, or a witness in which a result is reused cheaply while held by no variable slower than its uses, such as one result read by many users at once. ARG-121's second critical question qualifies arm C's saving, not its dynamics, and the first direction, a slow variable that saves no work, is not in doubt.
