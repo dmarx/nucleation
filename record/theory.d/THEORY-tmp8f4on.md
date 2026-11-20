@@ -39,7 +39,7 @@ Restated from the 2022 book with a few ape and child studies; no new data.
 
 ## Note of 2026-11-20: restated in a 2026 interview
 
-Tomasello restates the typology orally (LIT-tmpfusyv, NOTE-tmpkd5w9):
+Tomasello restates the typology orally ([LIT-tmpfusyv](../literature.d/LIT-tmpfusyv.md), [NOTE-tmpkd5w9](../notes.d/NOTE-tmpkd5w9.md)):
 reptiles, as models of the first land vertebrates, are basic control
 systems making simple decisions; mammals add an executive layer with
 imaginative representations (intentional agency); great apes metacognitive

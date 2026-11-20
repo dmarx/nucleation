@@ -20,7 +20,7 @@ summary: >-
   view of anyone in the group; the assumption of cooperation admitted
   unclear; enactive alternatives and Butterfill's minimal goal rejected.
 ---
-<!-- inactive-ok-file: LIT-tmpzihxq THEORY-tmpeqsoz — Unavailable or Proposed; the book and the account -->
+<!-- inactive-ok-file: THEORY-tmpeqsoz — Unavailable or Proposed; the book and the account -->
 
 # NOTE-tmpe9epc: Tomasello — Response to Commentators
 
@@ -58,9 +58,9 @@ perspective; minimal shared goal.
 
 ## Bearing on the record
 
-- Its account is the précis's (THEORY-tmpeqsoz); no separate THEORY is
+- Its account is the précis's ([THEORY-tmpeqsoz](../theory.d/THEORY-tmpeqsoz.md)); no separate THEORY is
   filed.
-- **THEORY-1605** (group identification), a contrast: team-reasoning
+- **[THEORY-1605](../theory.d/THEORY-1605.md)** (group identification), a contrast: team-reasoning
   membership is called metaphorical (p. 121).
 
 ## Limitations

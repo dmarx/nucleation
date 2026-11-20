@@ -14,8 +14,8 @@ promote_when: >-
   of mathematical rationality and the grounds on which decisions outside
   it cannot be delegated to computation.
 summary: >-
-  From the reading of LIT-tmpqibyg in NOTE-tmp60ehr, a stand-in for
-  LIT-tmpqa7q2. Proposed until its promote_when is met.
+  From the reading of [LIT-tmpqibyg](../literature.d/LIT-tmpqibyg.md) in [NOTE-tmp60ehr](../notes.d/NOTE-tmp60ehr.md), a stand-in for
+  [LIT-tmpqa7q2](../literature.d/LIT-tmpqa7q2.md). Proposed until its promote_when is met.
 ---
 
 # THEORY-tmp68snm: Recht argues that the mathematical rationality built with the first computers, which casts every decision under uncertainty as maximising expected utility under a probability model, is valid only in narrow settings such as regulation and engineering, so that outsourcing most decisions, political or value-laden ones above all, to computation built on it is itself irrational

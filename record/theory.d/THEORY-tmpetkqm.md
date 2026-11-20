@@ -16,7 +16,7 @@ promote_when: >-
   chimpanzees given the same experience do not form joint goals with
   roles.
 summary: >-
-  From the reading of LIT-tmp13v45 in NOTE-tmp2kq0t. A review; the
+  From the reading of [LIT-tmp13v45](../literature.d/LIT-tmp13v45.md) in [NOTE-tmp2kq0t](../notes.d/NOTE-tmp2kq0t.md). A review; the
   prerequisite claim is unsupported by its own account. Proposed until its
   promote_when is met.
 ---

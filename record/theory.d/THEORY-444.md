@@ -145,10 +145,10 @@ non-factive, designed sense nearer the bus bell ([CASE-243](../cases.d/CASE-243.
 status changes.
 
 ## Note of 2026-11-20: works cited in the Tomasello interview, read
-<!-- inactive-ok-file: THEORY-tmpeicz2 THEORY-tmpn62lb — Proposed; the readings' accounts -->
+<!-- inactive-ok-file: THEORY-tmpeicz2 — Proposed; the readings' accounts -->
 
-Tomasello's cooperation model (LIT-tmplkqp8, NOTE-tmpxlouc; account
-THEORY-tmpeicz2; with LIT-tmppnma2) keeps the Gricean communicative
+Tomasello's cooperation model ([LIT-tmplkqp8](../literature.d/LIT-tmplkqp8.md), [NOTE-tmpxlouc](../notes.d/NOTE-tmpxlouc.md); account
+[THEORY-tmpeicz2](THEORY-tmpeicz2.md); with [LIT-tmppnma2](../literature.d/LIT-tmppnma2.md)) keeps the Gricean communicative
 intention central and grounds it: it is made mutually manifest within
 common ground, rests on shared intentionality evolved for collaboration,
 and shows in pointing and pantomime with no convention. Great apes, on his

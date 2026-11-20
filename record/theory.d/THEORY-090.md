@@ -238,7 +238,7 @@ would make [CLAIM-435](../claims.d/CLAIM-435.md)'s ground held.
 ## Note of 2026-11-20: works cited in the Tomasello interview, read
 <!-- inactive-ok-file: THEORY-tmp2aaek — Proposed; the reading's account -->
 
-Solms 2019 (LIT-tmp265t7, NOTE-tmp9hbez; account THEORY-tmp2aaek), a
+Solms 2019 ([LIT-tmp265t7](../literature.d/LIT-tmp265t7.md), [NOTE-tmp9hbez](../notes.d/NOTE-tmp9hbez.md); account [THEORY-tmp2aaek](THEORY-tmp2aaek.md)), a
 stand-in for The Hidden Spring, supports the subcortical, affective
 localisation ("we must conclude that consciousness is generated in the
 upper brainstem", p. 6) and adds a mechanism: feeling as the

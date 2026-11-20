@@ -5,7 +5,7 @@ status_note: >-
   karger.com, which returned 403; OpenAlex and Semantic Scholar list it
   closed; the Duke Scholars and faculty-database pages are records only;
   no author, repository or course copy found (2026-11-20). Its thesis is
-  restated in "The role of roles" (LIT-tmp13v45, §4.1–4.2), read as a
+  restated in "The role of roles" ([LIT-tmp13v45](LIT-tmp13v45.md), §4.1–4.2), read as a
   stand-in; its transactional causal model is not. It stays Unavailable
   until a copy is supplied.
 title: 'The Normative Turn in Early Moral Development'
@@ -34,7 +34,7 @@ summary: >-
   enforcing social norms and guilt, and a transactional causal model,
   maturing shared intentionality enabling new cooperative interaction that
   shapes moral development, is proposed to explain the co-emergence.
-  Unread; stand-in LIT-tmp13v45.
+  Unread; stand-in [LIT-tmp13v45](LIT-tmp13v45.md).
 ---
 
 # LIT-tmpxajf5: The Normative Turn in Early Moral Development
@@ -45,5 +45,5 @@ Michael Tomasello (2018). "The Normative Turn in Early Moral Development". Human
 
 Registered on 2026-11-20 at the owner's request, from the reference list
 of a 2026 interview with Michael Tomasello that the owner shared, not read
-beyond the abstract. LIT-125 (read) covers the same age-three findings at
+beyond the abstract. [LIT-125](LIT-125.md) (read) covers the same age-three findings at
 length.

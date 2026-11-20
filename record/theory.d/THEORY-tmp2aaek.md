@@ -15,8 +15,8 @@ promote_when: >-
   reported pleasure and unpleasure track decreases and increases in
   expected uncertainty about the need at issue.
 summary: >-
-  From the reading of LIT-tmp265t7 in NOTE-tmp9hbez, a stand-in for
-  LIT-tmpq6yfo. Proposed until its promote_when is met.
+  From the reading of [LIT-tmp265t7](../literature.d/LIT-tmp265t7.md) in [NOTE-tmp9hbez](../notes.d/NOTE-tmp9hbez.md), a stand-in for
+  [LIT-tmpq6yfo](../literature.d/LIT-tmpq6yfo.md). Proposed until its promote_when is met.
 ---
 
 # THEORY-tmp2aaek: Solms argues that consciousness is generated in the upper brainstem and is fundamentally affective, feeling being the precision-weighting by which an organism that minimises free energy prioritises among its homeostatic needs in unpredicted contexts, so that rising uncertainty about a need is felt as unpleasure and falling uncertainty as pleasure

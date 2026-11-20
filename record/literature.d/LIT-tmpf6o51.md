@@ -7,8 +7,8 @@ status_note: >-
   (mitpress.mit.edu/books/chapters/0262201771chap1.pdf) is on that host
   and was not tried, and the Wayback Machine holds no snapshot; OpenAlex
   lists it closed (2026-11-20). Read through two of Tomasello's own open
-  texts: LIT-tmplkqp8 (the cooperation model, the book's core in
-  miniature) and LIT-tmppnma2 (its chapters 2–4 on pointing). Also seen:
+  texts: [LIT-tmplkqp8](LIT-tmplkqp8.md) (the cooperation model, the book's core in
+  miniature) and [LIT-tmppnma2](LIT-tmppnma2.md) (its chapters 2–4 on pointing). Also seen:
   his handout for Jean Nicod Lecture 4 on SciSpace (an outline of chapters
   6–7) and a faculty reading page at IIT Kanpur with short quotations from
   chapters 1–3. It stays Unavailable until a copy is supplied.
@@ -37,7 +37,7 @@ summary: >-
   pointing and pantomime work without conventions through a communicative
   intention, cooperative motives and common ground, resting on shared
   intentionality; conventions and grammar are built later on natural
-  gestures. Unread; read through LIT-tmplkqp8 and LIT-tmppnma2.
+  gestures. Unread; read through [LIT-tmplkqp8](LIT-tmplkqp8.md) and [LIT-tmppnma2](LIT-tmppnma2.md).
 ---
 
 # LIT-tmpf6o51: Origins of Human Communication
@@ -49,4 +49,4 @@ Michael Tomasello (2008). "Origins of Human Communication". The MIT Press, 394 p
 Registered on 2026-11-20 at the owner's request, from the reference list
 of a 2026 interview with Michael Tomasello that the owner shared, not
 read; two open texts by the author stand in. Bohn, Kachel and Tomasello
-2019 (LIT-tmptxd9j) tests its account of conventions.
+2019 ([LIT-tmptxd9j](LIT-tmptxd9j.md)) tests its account of conventions.

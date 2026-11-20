@@ -21,7 +21,7 @@ summary: >-
   self-reflective inference, normative self-governance). Framework without
   data.
 ---
-<!-- inactive-ok-file: LIT-tmpzihxq THEORY-tmpeqsoz THEORY-495 TERM-080 THEORY-625 THEORY-538 — Unavailable or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-495 TERM-080 THEORY-625 THEORY-538 — Unavailable or Proposed; entries this reading bears on -->
 
 # NOTE-tmpo5i3y: Tomasello — Precís of A Natural History of Human Thinking
 
@@ -64,14 +64,14 @@ cultural common ground.
 
 ## Bearing on the record
 
-- **THEORY-495**, background: the same individual–joint–collective
+- **[THEORY-495](../theory.d/THEORY-495.md)**, background: the same individual–joint–collective
   scaffold applied to thinking; social and generically normative
   self-monitoring mirror second-personal and group-level obligation.
-- **TERM-080**, a qualification: the joint and collective cut maps
+- **[TERM-080](../terms.d/TERM-080.md)**, a qualification: the joint and collective cut maps
   roughly onto participatory and institutionally constituted intention.
-- **THEORY-625** (Searle), a parallel: Searle's café patron is the
+- **[THEORY-625](../theory.d/THEORY-625.md)** (Searle), a parallel: Searle's café patron is the
   précis's paradigm of collective intentionality.
-- **THEORY-538** (Dennett), a contrast: representation and inference as
+- **[THEORY-538](../theory.d/THEORY-538.md)** (Dennett), a contrast: representation and inference as
   real cognitive structure, not a predictive stance.
 
 ## Limitations

@@ -27,7 +27,7 @@ summary: >-
   decisions, especially political ones, not delegable; mathematical
   pluralism; language models built on the same formalism.
 ---
-<!-- inactive-ok-file: LIT-tmpqa7q2 THEORY-tmp68snm THEORY-1947 THEORY-1938 CLAIM-710 THEORY-491 THEORY-451 THEORY-359 CLAIM-440 THEORY-101 — Unavailable or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-1947 THEORY-1938 CLAIM-710 THEORY-491 THEORY-451 THEORY-359 CLAIM-440 THEORY-101 — Unavailable or Proposed; entries this reading bears on -->
 
 # NOTE-tmp60ehr: Recht — Announcing The Irrational Decision
 
@@ -70,15 +70,15 @@ making.
 
 ## Bearing on the record
 
-- **THEORY-1947**, **THEORY-1938** and **CLAIM-710** (automated
+- **[THEORY-1947](../theory.d/THEORY-1947.md)**, **[THEORY-1938](../theory.d/THEORY-1938.md)** and **[CLAIM-710](../claims.d/CLAIM-710.md)** (automated
   administrative decision), parallels: Recht supplies the history of the
   formalism such systems run on.
-- **THEORY-491** and **THEORY-451** (randomisation; Cartwright on
+- **[THEORY-491](../theory.d/THEORY-491.md)** and **[THEORY-451](../theory.d/THEORY-451.md)** (randomisation; Cartwright on
   singular causal claims), parallels on the narrow sweet spot of trials
   and a dappled pluralism.
-- **THEORY-359** (resource-rational analysis), a contrast: the program
+- **[THEORY-359](../theory.d/THEORY-359.md)** (resource-rational analysis), a contrast: the program
   he calls mathematical rationality, applied to minds.
-- **CLAIM-440** and **THEORY-101** (a common currency of valence), a
+- **[CLAIM-440](../claims.d/CLAIM-440.md)** and **[THEORY-101](../theory.d/THEORY-101.md)** (a common currency of valence), a
   contrast: Recht rejects a single currency for goals.
 
 ## Limitations

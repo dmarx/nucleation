@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpyqw1q): main text in full from PubMed
+  Read on 2026-11-20 ([NOTE-tmpyqw1q](../notes.d/NOTE-tmpyqw1q.md)): main text in full from PubMed
   Central; the SI not read; printed pages not checkable in the HTML. An
   experimental test of the scenario of Origins of Human Communication
-  (LIT-tmpf6o51).
+  ([LIT-tmpf6o51](LIT-tmpf6o51.md)).
 title: 'Young children spontaneously recreate core properties of language in a new modality'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   minutes; partners adopt them, they become pair-specific and drift
   slightly toward the arbitrary as effort drops, and older children
   combine signs into compositional sequences when relations are complex.
-  Read in NOTE-tmpyqw1q; account THEORY-tmpuyvpv.
+  Read in [NOTE-tmpyqw1q](../notes.d/NOTE-tmpyqw1q.md); account [THEORY-tmpuyvpv](../theory.d/THEORY-tmpuyvpv.md).
 ---
 <!-- inactive-ok-file: LIT-tmpf6o51 — Unavailable; the book it tests -->
 

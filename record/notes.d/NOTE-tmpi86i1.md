@@ -25,7 +25,7 @@ summary: >-
   fairness partly a focusing device; tacit limits in war must be
   qualitative.
 ---
-<!-- inactive-ok-file: LIT-tmp7ugv5 THEORY-tmpqxwyk LIT-473 THEORY-414 THEORY-495 QUESTION-009 THEORY-1630 — Unavailable, Proposed or Deferred; entries this reading bears on -->
+<!-- inactive-ok-file: LIT-473 THEORY-414 THEORY-495 QUESTION-009 — Unavailable, Proposed or Deferred; entries this reading bears on -->
 
 # NOTE-tmpi86i1: Schelling — Bargaining, Communication, and Limited War
 
@@ -70,15 +70,15 @@ point.
 
 ## Bearing on the record
 
-- **LIT-473** (Lewis), the source of the salience Lewis's account of
+- **[LIT-473](../literature.d/LIT-473.md)** (Lewis), the source of the salience Lewis's account of
   convention uses.
-- **THEORY-414** (institutions as rules in equilibrium), supports it:
+- **[THEORY-414](../theory.d/THEORY-414.md)** (institutions as rules in equilibrium), supports it:
   focal points are how one of several equilibria is selected.
-- **THEORY-495** (Tomasello, obligation), a contrast: an equal split is
+- **[THEORY-495](../theory.d/THEORY-495.md)** (Tomasello, obligation), a contrast: an equal split is
   focal as well as fair, a non-normative rival for part of the
   equal-sharing evidence; coordination by mutual expectation with no "we".
-- **QUESTION-009**, a contrast case: coordination with no joint agent.
-- **THEORY-1630** (team reasoning), a later explanation of why people
+- **[QUESTION-009](../questions.d/QUESTION-009.md)**, a contrast case: coordination with no joint agent.
+- **[THEORY-1630](../theory.d/THEORY-1630.md)** (team reasoning), a later explanation of why people
   pick focal points; Schelling relies on salience.
 
 ## Limitations

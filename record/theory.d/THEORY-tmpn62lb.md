@@ -16,8 +16,8 @@ promote_when: >-
   of common ground or communicative-intention understanding rather than
   task factors.
 summary: >-
-  From the reading of LIT-tmppnma2 in NOTE-tmplyhrh, a stand-in for
-  LIT-tmpf6o51. Proposed until its promote_when is met.
+  From the reading of [LIT-tmppnma2](../literature.d/LIT-tmppnma2.md) in [NOTE-tmplyhrh](../notes.d/NOTE-tmplyhrh.md), a stand-in for
+  [LIT-tmpf6o51](../literature.d/LIT-tmpf6o51.md). Proposed until its promote_when is met.
 ---
 
 # THEORY-tmpn62lb: Tomasello argues that apes do not point for one another because they lack shared intentionality, so do not understand communicative intentions, lack joint attentional common ground and motives to help and share, and use gestures learnt by ritualization as one-way procedures rather than bidirectional conventions

@@ -9,4 +9,4 @@
   (poster) registered.
 - The interview itself ("What a Squirrel Knows That Language Models Skip"),
   read from the owner's transcript, with a NOTE, a THEORY bearing on
-  QUESTION-009, and dated notes on QUESTION-009 and the agency typology.
+  [QUESTION-009](record/questions.d/QUESTION-009.md), and dated notes on [QUESTION-009](record/questions.d/QUESTION-009.md) and the agency typology.

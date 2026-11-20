@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read in full on 2026-11-20 (NOTE-tmpkd5w9) from a timestamped transcript
+  Read in full on 2026-11-20 ([NOTE-tmpkd5w9](../notes.d/NOTE-tmpkd5w9.md)) from a timestamped transcript
   the owner supplied. An interview: Tomasello's claims are his, given
   orally; the interviewer's are labelled as the interviewer's. Its
   reference list was filed with it (curation entry of 2026-11-20).
@@ -34,7 +34,7 @@ summary: >-
   should be built from coordination up. Also: emotions as nature's finger
   on the scale, against massive modularity and general intelligence,
   markets as not agents, lying as parasitic on cooperation. Read in
-  NOTE-tmpkd5w9; account THEORY-tmpx361j.
+  [NOTE-tmpkd5w9](../notes.d/NOTE-tmpkd5w9.md); account [THEORY-tmpx361j](../theory.d/THEORY-tmpx361j.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpx361j — Proposed; this reading's account -->
 

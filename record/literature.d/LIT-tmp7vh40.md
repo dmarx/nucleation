@@ -7,7 +7,7 @@ status_note: >-
   address from two web searches); the PDF returned HTTP 202 with an empty
   body, taken as a bot gate, and was not retried (2026-11-20). No arXiv,
   OSF or OpenAlex copy; Semantic Scholar rate-limited. The authors'
-  one-page poster (LIT-tmpj2bbx) was read in its place.
+  one-page poster ([LIT-tmpj2bbx](LIT-tmpj2bbx.md)) was read in its place.
 title: 'The Agency Gap: Testing Human-Human and Human-AI Collaboration Using a Minimal Coordination Game'
 version: 1
 history:
@@ -32,7 +32,7 @@ summary: >-
   Cheng, Gao, Tomasello and Kushnir test human–human against human–AI
   collaboration in a minimal non-verbal coordination game, measuring joint
   commitment and signalling as signatures of shared agency. Unfetched;
-  read through the authors' poster (LIT-tmpj2bbx). The year stands in for
+  read through the authors' poster ([LIT-tmpj2bbx](LIT-tmpj2bbx.md)). The year stands in for
   an unknown date.
 ---
 

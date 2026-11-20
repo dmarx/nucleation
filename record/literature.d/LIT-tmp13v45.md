@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmp2kq0t). A short statement of the account the
-  record holds as THEORY-495, with a cognitive half that account lacks.
+  Read on 2026-11-20 ([NOTE-tmp2kq0t](../notes.d/NOTE-tmp2kq0t.md)). A short statement of the account the
+  record holds as [THEORY-495](../theory.d/THEORY-495.md), with a cognitive half that account lacks.
   Also the stand-in for "The Normative Turn in Early Moral Development"
-  (LIT-tmpxajf5), which it cites for the turn at age three. Open access,
+  ([LIT-tmpxajf5](LIT-tmpxajf5.md)), which it cites for the turn at age three. Open access,
   CC BY.
 title: 'The role of roles in uniquely human cognition and sociality'
 version: 1
@@ -33,7 +33,7 @@ summary: >-
   individual roles. This dual-level structure is offered as the source of
   perspectival and objective thinking, role-based concepts, self-other
   equivalence and fairness, and normative moral identity. Read in
-  NOTE-tmp2kq0t; account THEORY-tmpetkqm.
+  [NOTE-tmp2kq0t](../notes.d/NOTE-tmp2kq0t.md); account [THEORY-tmpetkqm](../theory.d/THEORY-tmpetkqm.md).
 ---
 
 # LIT-tmp13v45: The role of roles in uniquely human cognition and sociality

@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpo5i3y) as a stand-in for A Natural History
-  of Human Thinking (LIT-tmpzihxq): the book's framework for chapters 1–4,
+  Read on 2026-11-20 ([NOTE-tmpo5i3y](../notes.d/NOTE-tmpo5i3y.md)) as a stand-in for A Natural History
+  of Human Thinking ([LIT-tmpzihxq](LIT-tmpzihxq.md)): the book's framework for chapters 1–4,
   without data; chapters 5–6 not summarised. Open access, CC BY-NC-ND 3.0.
 title: 'Precís of A Natural History of Human Thinking'
 version: 1
@@ -30,7 +30,7 @@ summary: >-
   apes, through joint intentionality in dyadic collaboration and
   cooperative communication, to collective intentionality in cultural
   groups; his contribution is the split between joint and collective. Read
-  in NOTE-tmpo5i3y; account THEORY-tmpeqsoz.
+  in [NOTE-tmpo5i3y](../notes.d/NOTE-tmpo5i3y.md); account [THEORY-tmpeqsoz](../theory.d/THEORY-tmpeqsoz.md).
 ---
 <!-- inactive-ok-file: LIT-tmpzihxq THEORY-tmpeqsoz — Unavailable or Proposed; the book and this reading's account -->
 
@@ -42,4 +42,4 @@ Michael Tomasello (2016). "Precís of A Natural History of Human Thinking". Jour
 
 Registered on 2026-11-20 at the owner's request, from the reference list
 of a 2026 interview with Michael Tomasello that the owner shared, as a
-stand-in for LIT-tmpzihxq.
+stand-in for [LIT-tmpzihxq](LIT-tmpzihxq.md).

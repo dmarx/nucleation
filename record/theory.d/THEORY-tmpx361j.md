@@ -18,7 +18,7 @@ promote_when: >-
   convention-making shared intentionality; and emergent social
   regularities such as markets as not agents.
 summary: >-
-  From the reading of LIT-tmpfusyv in NOTE-tmpkd5w9. Oral and partly
+  From the reading of [LIT-tmpfusyv](../literature.d/LIT-tmpfusyv.md) in [NOTE-tmpkd5w9](../notes.d/NOTE-tmpkd5w9.md). Oral and partly
   hedged. Proposed until its promote_when is met.
 ---
 

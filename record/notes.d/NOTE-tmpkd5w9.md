@@ -22,7 +22,7 @@ summary: >-
   agents from coordination up; plus influences without determinism,
   markets not agents, lying parasitic on cooperation.
 ---
-<!-- inactive-ok-file: THEORY-tmpx361j THEORY-tmp8f4on CLAIM-010 — Proposed or Rejected; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-tmp8f4on CLAIM-010 — Proposed or Rejected; entries this reading bears on -->
 
 # NOTE-tmpkd5w9: Tomasello (interview) — What a Squirrel Knows That Language Models Skip (Michael Tomasello)
 
@@ -106,23 +106,23 @@ determinism.
 
 ## Bearing on the record
 
-- **QUESTION-009** (when coordination constitutes an additional agent),
+- **[QUESTION-009](../questions.d/QUESTION-009.md)** (when coordination constitutes an additional agent),
   an answer in one voice: markets and capital are not agents, their
   regularities are phenomena of the third kind emerging from individuals'
   intentional acts; shared agency needs a joint goal, roles and mutual
   knowledge. Relation written: this reading's account bears_on the
   question.
-- **THEORY-tmp8f4on** (the agency typology, through a stand-in), near
+- **[THEORY-tmp8f4on](../theory.d/THEORY-tmp8f4on.md)** (the agency typology, through a stand-in), near
   its promote_when: the interview restates the four grades with their
   tiers and lineages, independently of the paper that filed it, but its
   label for the first grade is muddled ("basic agency and then the goal
   directed agency"). Noted; promotion left to the owner.
-- **QUESTION-054**, as for the agency stand-ins: tiers as governing
+- **[QUESTION-054](../questions.d/QUESTION-054.md)**, as for the agency stand-ins: tiers as governing
   levels.
-- **CLAIM-010** (Rejected: every control system has a will), agreement
+- **[CLAIM-010](../claims.d/CLAIM-010.md)** (Rejected: every control system has a will), agreement
   with the rejection: thermostats show the organization but are not
   agents.
-- **THEORY-023** (Block) and the Block reading on this branch,
+- **[THEORY-023](../theory.d/THEORY-023.md)** (Block) and the Block reading on this branch,
   background: he reports a Block talk, "does meat matter?", with no
   consensus in the room.
 

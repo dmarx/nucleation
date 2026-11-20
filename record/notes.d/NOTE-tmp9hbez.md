@@ -20,7 +20,7 @@ summary: >-
   needs under the free-energy principle; consciousness as felt
   uncertainty.
 ---
-<!-- inactive-ok-file: LIT-tmpq6yfo THEORY-tmp2aaek THEORY-090 THEORY-045 THEORY-882 THEORY-883 THEORY-101 CLAIM-440 THEORY-073 THEORY-098 THEORY-096 — Unavailable or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-090 THEORY-045 THEORY-882 THEORY-883 THEORY-101 CLAIM-440 THEORY-098 THEORY-096 — Unavailable or Proposed; entries this reading bears on -->
 
 # NOTE-tmp9hbez: Solms — The Hard Problem of Consciousness and the Free Energy Principle
 
@@ -66,18 +66,18 @@ reconsolidation.
 
 ## Bearing on the record
 
-- **THEORY-090** (affective consciousness realised subcortically),
+- **[THEORY-090](../theory.d/THEORY-090.md)** (affective consciousness realised subcortically),
   supports its localisation and adds a mechanism: felt uncertainty in
   prioritising needs; Solms differs on whether choice among needs is what
   makes it felt.
-- **THEORY-045** (prediction), supports the predictive side;
-  **THEORY-882** and **THEORY-883** (active-inference consciousness),
+- **[THEORY-045](../theory.d/THEORY-045.md)** (prediction), supports the predictive side;
+  **[THEORY-882](../theory.d/THEORY-882.md)** and **[THEORY-883](../theory.d/THEORY-883.md)** (active-inference consciousness),
   parallel frameworks.
-- **THEORY-101** and **CLAIM-440** (a common currency of valence), a
+- **[THEORY-101](../theory.d/THEORY-101.md)** and **[CLAIM-440](../claims.d/CLAIM-440.md)** (a common currency of valence), a
   contrast: Solms keeps needs categorically distinct.
-- **THEORY-073** (Markov blankets do not individuate), a qualification
+- **[THEORY-073](../theory.d/THEORY-073.md)** (Markov blankets do not individuate), a qualification
   of his derivation of selfhood from the blanket.
-- **THEORY-098** and **THEORY-096** (cortical and global-workspace
+- **[THEORY-098](../theory.d/THEORY-098.md)** and **[THEORY-096](../theory.d/THEORY-096.md)** (cortical and global-workspace
   consciousness), contrasts.
 
 ## Limitations

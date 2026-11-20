@@ -20,7 +20,7 @@ summary: >-
   sharing motives, and bidirectional conventions; all trace to shared
   intentionality; pointing already has language's collaborative structure.
 ---
-<!-- inactive-ok-file: LIT-tmpf6o51 THEORY-tmpn62lb THEORY-444 — Unavailable or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: LIT-tmpf6o51 THEORY-444 — Unavailable or Proposed; entries this reading bears on -->
 
 # NOTE-tmplyhrh: Tomasello — Why Don't Apes Point?
 
@@ -58,9 +58,9 @@ intentionality.
 
 ## Bearing on the record
 
-- **THEORY-444** (Grice), as for the 2021 stand-in: the embedded
+- **[THEORY-444](../theory.d/THEORY-444.md)** (Grice), as for the 2021 stand-in: the embedded
   communicative intention apes do not grasp.
-- **LIT-tmpf6o51**, a stand-in for chapters 2–4.
+- **[LIT-tmpf6o51](../literature.d/LIT-tmpf6o51.md)**, a stand-in for chapters 2–4.
 
 ## Limitations
 

@@ -16,7 +16,7 @@ promote_when: >-
   defended against the objection that surprise needs only a revised
   first-order belief.
 summary: >-
-  From the reading of LIT-tmpbypds in NOTE-tmpm5bff. An argument
+  From the reading of [LIT-tmpbypds](../literature.d/LIT-tmpbypds.md) in [NOTE-tmpm5bff](../notes.d/NOTE-tmpm5bff.md). An argument
   incomplete by its author's own account. Proposed until its promote_when
   is met.
 ---

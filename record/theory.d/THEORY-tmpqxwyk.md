@@ -18,8 +18,8 @@ promote_when: >-
   where explicit bargains settle independently of fairness judgements and
   bargaining power.
 summary: >-
-  From the reading of LIT-tmp4uor8 in NOTE-tmpi86i1, a stand-in for
-  chapter 3 of LIT-tmp7ugv5. Informal evidence. Proposed until its
+  From the reading of [LIT-tmp4uor8](../literature.d/LIT-tmp4uor8.md) in [NOTE-tmpi86i1](../notes.d/NOTE-tmpi86i1.md), a stand-in for
+  chapter 3 of [LIT-tmp7ugv5](../literature.d/LIT-tmp7ugv5.md). Informal evidence. Proposed until its
   promote_when is met.
 ---
 

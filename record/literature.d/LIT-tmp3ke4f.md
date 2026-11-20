@@ -4,7 +4,7 @@ status_note: >-
   registered 2026-11-20, not read. No lawful copy of the English book:
   Perlego is a subscription; a docshare.tips upload of the whole book is
   excluded; OpenAlex rate-limited (2026-11-20). Read through Keller's own
-  lecture "Sprachwandel" on his faculty's site (LIT-tmp0ucsz) and a
+  lecture "Sprachwandel" on his faculty's site ([LIT-tmp0ucsz](LIT-tmp0ucsz.md)) and a
   two-page excerpt of the German original posted by Klett as teaching
   material, ruled in bounds by the owner. Together they cover the book's
   central account (its chapter 4), in German. It stays Unavailable until a
@@ -35,7 +35,7 @@ summary: >-
   language is a phenomenon of the third kind, made by human action but not
   by design, and changes are explained from speakers' maxims through a
   cumulative process to the resulting structure. Unread in English; read
-  through LIT-tmp0ucsz.
+  through [LIT-tmp0ucsz](LIT-tmp0ucsz.md).
 ---
 
 # LIT-tmp3ke4f: On Language Change: The Invisible Hand in Language

@@ -4,7 +4,7 @@ status_note: >-
   registered 2026-11-20, not read. Princeton's page offers no sample; the
   De Gruyter chapter page returned a bot gate (HTTP 202); OpenAlex lists
   it closed (2026-11-20). Read through Recht's own posts on argmin.net,
-  chiefly "Announcing The Irrational Decision" (LIT-tmpqibyg), which carry
+  chiefly "Announcing The Irrational Decision" ([LIT-tmpqibyg](LIT-tmpqibyg.md)), which carry
   the thesis and the pluralist conclusion, not the history of chapters
   2–6. It stays Unavailable until a copy is supplied.
 title: 'The Irrational Decision: How We Gave Computers the Power to Choose for Us'
@@ -30,7 +30,7 @@ summary: >-
   Recht's history of mathematical rationality, the post-war view that
   every decision under uncertainty is a statistical risk analysis, and his
   case that outsourcing most decisions to computation built on it is
-  irrational. Unread; read through LIT-tmpqibyg.
+  irrational. Unread; read through [LIT-tmpqibyg](LIT-tmpqibyg.md).
 ---
 
 # LIT-tmpqa7q2: The Irrational Decision: How We Gave Computers the Power to Choose for Us

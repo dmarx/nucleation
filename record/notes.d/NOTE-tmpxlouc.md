@@ -20,7 +20,7 @@ summary: >-
   ground, an overt Gricean intention and the norms it creates;
   collaborative foraging; conventions from iconic gestures grown opaque.
 ---
-<!-- inactive-ok-file: LIT-tmpf6o51 THEORY-tmpeicz2 LIT-473 THEORY-444 THEORY-511 THEORY-785 THEORY-172 THEORY-495 CLAIM-221 — Unavailable or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: LIT-473 THEORY-444 THEORY-511 THEORY-785 THEORY-495 CLAIM-221 — Unavailable or Proposed; entries this reading bears on -->
 
 # NOTE-tmpxlouc: Tomasello — Communicating Without Conventions: The Co-operation Model
 
@@ -70,21 +70,21 @@ to the arbitrary.
 
 ## Bearing on the record
 
-- **THEORY-444** (Grice), supports and grounds it: the communicative
+- **[THEORY-444](../theory.d/THEORY-444.md)** (Grice), supports and grounds it: the communicative
   intention is central, made mutually manifest and grounded in shared
   intentionality, and natural gestures show it without convention.
-- **THEORY-511** (Strawson), a parallel: requests, informing and sharing
+- **[THEORY-511](../theory.d/THEORY-511.md)** (Strawson), a parallel: requests, informing and sharing
   by pointing with no convention.
-- **LIT-473** (Lewis), a qualification: conventions presuppose a prior
+- **[LIT-473](../literature.d/LIT-473.md)** (Lewis), a qualification: conventions presuppose a prior
   cooperative, non-conventional channel and arise by imitation and
   opacity, not agreement.
-- **THEORY-785** and **THEORY-172** (rational speech act models), a
+- **[THEORY-785](../theory.d/THEORY-785.md)** and **[THEORY-172](../theory.d/THEORY-172.md)** (rational speech act models), a
   contrast: reasoning is cooperative and tied to common ground, not one
   listener inverting an informative speaker; the claim that common ground
   beats egocentric relevance is testable in those paradigms.
-- **THEORY-495**, a parallel: the same infrastructure, and overt
+- **[THEORY-495](../theory.d/THEORY-495.md)**, a parallel: the same infrastructure, and overt
   communication creating norms.
-- **CLAIM-221**, support: a developed account based on intention plus
+- **[CLAIM-221](../claims.d/CLAIM-221.md)**, support: a developed account based on intention plus
   common ground.
 
 ## Limitations

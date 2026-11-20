@@ -22,7 +22,7 @@ summary: >-
   partners; children less efficient with an individual-reward partner,
   predicted by lower commitment. Poster; Study 2 ongoing.
 ---
-<!-- inactive-ok-file: LIT-tmp7vh40 LIT-tmpnhoiu THEORY-tmpkc8k5 — Unfetched, Unavailable or Proposed; the paper, the book it cites, and this reading's account -->
+<!-- inactive-ok-file: LIT-tmpnhoiu — Unfetched, Unavailable or Proposed; the paper, the book it cites, and this reading's account -->
 
 # NOTE-tmpcfrgj: Cheng, Gao, Tomasello and Kushnir — The Agency Gap (poster)
 
@@ -61,14 +61,14 @@ social tool; collaborative agent.
 
 ## Bearing on the record
 
-- **LIT-tmpnhoiu** (The Evolution of Agency), applied: the poster cites
+- **[LIT-tmpnhoiu](../literature.d/LIT-tmpnhoiu.md)** (The Evolution of Agency), applied: the poster cites
   it for the shared-agency premise.
-- **THEORY-495**, a parallel: commitment is the measured mark of a joint
+- **[THEORY-495](../theory.d/THEORY-495.md)**, a parallel: commitment is the measured mark of a joint
   agent; normativity is not tested (no protest measure).
-- **THEORY-414** and **LIT-473**, a contrast: the reward-maximizing
+- **[THEORY-414](../theory.d/THEORY-414.md)** and **[LIT-473](../literature.d/LIT-473.md)**, a contrast: the reward-maximizing
   partner nearly matches humans on success while showing less commitment,
   so outcome-level coordination does not show shared agency.
-- **THEORY-1791** (human–AI teams), a parallel on process rather than
+- **[THEORY-1791](../theory.d/THEORY-1791.md)** (human–AI teams), a parallel on process rather than
   accuracy.
 
 ## Limitations

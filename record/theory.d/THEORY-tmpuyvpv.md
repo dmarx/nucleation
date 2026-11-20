@@ -16,7 +16,7 @@ promote_when: >-
   for relational than for single-property contrasts with no native
   word-order effect.
 summary: >-
-  From the reading of LIT-tmptxd9j in NOTE-tmpyqw1q. One German sample;
+  From the reading of [LIT-tmptxd9j](../literature.d/LIT-tmptxd9j.md) in [NOTE-tmpyqw1q](../notes.d/NOTE-tmpyqw1q.md). One German sample;
   rating-based measures. Proposed until its promote_when is met.
 ---
 

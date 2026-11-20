@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpshpsc) from the published PDF uploaded by
+  Read on 2026-11-20 ([NOTE-tmpshpsc](../notes.d/NOTE-tmpshpsc.md)) from the published PDF uploaded by
   Block and linked from his own site (nedblock.us), an author's own
   upload. PhilArchive and PhilPapers returned Cloudflare challenges and
   the NYU page 403.
@@ -31,7 +31,7 @@ summary: >-
   subcomputational biological realizers; the major theories are
   meat-neutral, roles favour AI and realizers favour simple animals, and
   electrochemical nervous systems are where to look for the realizer. Read
-  in NOTE-tmpshpsc; account THEORY-tmplxowv.
+  in [NOTE-tmpshpsc](../notes.d/NOTE-tmpshpsc.md); account [THEORY-tmplxowv](../theory.d/THEORY-tmplxowv.md).
 ---
 <!-- inactive-ok-file: THEORY-tmplxowv — Proposed; this reading's account -->
 

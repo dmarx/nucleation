@@ -6,7 +6,7 @@ status_note: >-
   record returned 403; EBSCO, Perlego and catalogue records are
   subscription or metadata only; Duke faculty pages carry no file; no
   course copy found (2026-11-20). Read through Tomasello's précis
-  (LIT-tmp0zlvm) and reply to commentators (LIT-tmp0aopp) in the Journal
+  ([LIT-tmp0zlvm](LIT-tmp0zlvm.md)) and reply to commentators ([LIT-tmp0aopp](LIT-tmp0aopp.md)) in the Journal
   of Social Ontology symposium, which together stand in for the argument
   of chapters 1–4, not their evidence, and not chapters 5–6. It stays
   Unavailable until a copy is supplied.
@@ -35,7 +35,7 @@ summary: >-
   intentionality (perspectival representation, recursive inference, social
   self-monitoring) and then collective intentionality (objective
   representation, self-reflective inference, normative self-governance).
-  Unread; read through LIT-tmp0zlvm and LIT-tmp0aopp.
+  Unread; read through [LIT-tmp0zlvm](LIT-tmp0zlvm.md) and [LIT-tmp0aopp](LIT-tmp0aopp.md).
 ---
 
 # LIT-tmpzihxq: A Natural History of Human Thinking

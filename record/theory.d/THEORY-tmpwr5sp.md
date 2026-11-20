@@ -17,8 +17,8 @@ promote_when: >-
   resulting conventional change, or an experiment or simulation shows such
   maxims producing a change no speaker aims at.
 summary: >-
-  From the reading of LIT-tmp0ucsz in NOTE-tmp51wba, a stand-in for
-  LIT-tmp3ke4f. Proposed until its promote_when is met.
+  From the reading of [LIT-tmp0ucsz](../literature.d/LIT-tmp0ucsz.md) in [NOTE-tmp51wba](../notes.d/NOTE-tmp51wba.md), a stand-in for
+  [LIT-tmp3ke4f](../literature.d/LIT-tmp3ke4f.md). Proposed until its promote_when is met.
 ---
 
 # THEORY-tmpwr5sp: Keller holds that a natural language is a phenomenon of the third kind, the unintended causal consequence of many speakers' intentional communicative acts under partly shared maxims such as saving effort, being understood, being noticed and being polite, so that language change is explained by an invisible-hand explanation running from individual motives through a cumulative process to the resulting structure

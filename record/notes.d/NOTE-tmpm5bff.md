@@ -25,7 +25,7 @@ summary: >-
   objective truth, which only communication supplies; triangulation; the
   decisive step admitted unproven.
 ---
-<!-- inactive-ok-file: THEORY-tmpzt30n THEORY-596 THEORY-538 THEORY-616 THEORY-495 THEORY-151 — Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-596 THEORY-538 THEORY-616 THEORY-495 THEORY-151 — Proposed; entries this reading bears on -->
 
 # NOTE-tmpm5bff: Davidson — Rational Animals
 
@@ -72,16 +72,16 @@ surprise; objective and intersubjective truth; triangulation.
 
 ## Bearing on the record
 
-- **THEORY-596** and **THEORY-538** (Dennett), a contrast: attitude
+- **[THEORY-596](../theory.d/THEORY-596.md)** and **[THEORY-538](../theory.d/THEORY-538.md)** (Dennett), a contrast: attitude
   attribution may predict animal behaviour well and still be wrong.
-- **THEORY-616**, a qualification: on Davidson's criterion whether a
+- **[THEORY-616](../theory.d/THEORY-616.md)**, a qualification: on Davidson's criterion whether a
   language model has attitudes turns on whether it interprets others'
   speech, not on how well attribution predicts it.
-- **THEORY-495** and Tomasello's account of thinking, a contrast and
+- **[THEORY-495](../theory.d/THEORY-495.md)** and Tomasello's account of thinking, a contrast and
   parallel: both put the human difference in sociality, but Davidson
   denies non-linguistic creatures beliefs; triangulation is structurally
   parallel to joint attention.
-- **THEORY-151** (objectivity as a community's practice), a parallel.
+- **[THEORY-151](../theory.d/THEORY-151.md)** (objectivity as a community's practice), a parallel.
 
 ## Limitations
 

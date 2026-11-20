@@ -15,7 +15,7 @@ promote_when: >-
   realizers are held fixed, or with the realizers while the roles are held
   fixed.
 summary: >-
-  From the reading of LIT-tmpuii0h in NOTE-tmpshpsc. An opinion piece.
+  From the reading of [LIT-tmpuii0h](../literature.d/LIT-tmpuii0h.md) in [NOTE-tmpshpsc](../notes.d/NOTE-tmpshpsc.md). An opinion piece.
   Proposed until its promote_when is met.
 ---
 

@@ -17,8 +17,8 @@ promote_when: >-
   that perspectival representation and recursive inference depend on the
   joint step and objective representation on the collective one.
 summary: >-
-  From the reading of LIT-tmp0zlvm in NOTE-tmpo5i3y, with the reply
-  LIT-tmp0aopp; stand-ins for LIT-tmpzihxq. Proposed until its
+  From the reading of [LIT-tmp0zlvm](../literature.d/LIT-tmp0zlvm.md) in [NOTE-tmpo5i3y](../notes.d/NOTE-tmpo5i3y.md), with the reply
+  [LIT-tmp0aopp](../literature.d/LIT-tmp0aopp.md); stand-ins for [LIT-tmpzihxq](../literature.d/LIT-tmpzihxq.md). Proposed until its
   promote_when is met.
 ---
 

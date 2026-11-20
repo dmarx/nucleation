@@ -21,7 +21,7 @@ summary: >-
   arbitrariness with reduced effort, and combine compositionally for
   complex relations, not in German word order. N = 198.
 ---
-<!-- inactive-ok-file: LIT-tmpf6o51 LIT-473 THEORY-tmpuyvpv — Unavailable or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: LIT-tmpf6o51 LIT-473 — Unavailable or Proposed; entries this reading bears on -->
 
 # NOTE-tmpyqw1q: Bohn, Kachel and Tomasello — Young children spontaneously recreate core properties of language in a new modality
 
@@ -74,15 +74,15 @@ homesign.
 
 ## Bearing on the record
 
-- **LIT-771** and **THEORY-155** (iterated learning), a qualification:
+- **[LIT-771](../literature.d/LIT-771.md)** and **[THEORY-155](../theory.d/THEORY-155.md)** (iterated learning), a qualification:
   here structure arises within one pair, from the pressure of
   communicating complex relations, with no transmission between
   generations; the authors predict transmission would add more.
-- **LIT-473** (Lewis), a parallel: pairs converge on signs by imitating
+- **[LIT-473](../literature.d/LIT-473.md)** (Lewis), a parallel: pairs converge on signs by imitating
   each other, without agreement; only pair-level conventions are shown.
-- **THEORY-785** and **THEORY-172** (rational speech act models),
+- **[THEORY-785](../theory.d/THEORY-785.md)** and **[THEORY-172](../theory.d/THEORY-172.md)** (rational speech act models),
   background: the task is a reference game; no model is fitted.
-- **LIT-tmpf6o51**, a test of its account of conventions from iconic
+- **[LIT-tmpf6o51](../literature.d/LIT-tmpf6o51.md)**, a test of its account of conventions from iconic
   gesture.
 
 ## Limitations

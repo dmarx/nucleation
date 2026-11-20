@@ -72,19 +72,19 @@ triangulation; objective perspective; moral identity; generalized other
 
 ## Bearing on the record
 
-- **THEORY-495** (Tomasello 2020, obligation), the same account in
+- **[THEORY-495](../theory.d/THEORY-495.md)** (Tomasello 2020, obligation), the same account in
   short: role ideals, self-other equivalence, joint commitment as
   collaborative self-regulation and guilt, with the same experiments, plus
   the cognitive half (perspectives, objectivity, thematic concepts).
-- **TERM-080**, the joint and collective split maps onto the
+- **[TERM-080](../terms.d/TERM-080.md)**, the joint and collective split maps onto the
   participatory and institutional senses of collective intention.
-- **THEORY-414** and **LIT-473**, a contrast: roles and institutions
+- **[THEORY-414](../theory.d/THEORY-414.md)** and **[LIT-473](../literature.d/LIT-473.md)**, a contrast: roles and institutions
   need shared intentionality and normativity, not only equilibrium
   expectations; coordination without a joint goal is the lean chimpanzee
   case.
-- **THEORY-1605** (group identification) and **THEORY-457** (partner
+- **[THEORY-1605](../theory.d/THEORY-1605.md)** (group identification) and **[THEORY-457](../theory.d/THEORY-457.md)** (partner
   choice and division), parallels.
-- **LIT-tmpxajf5**, a stand-in for its thesis (§4.1–4.2, pp. 13–15), not
+- **[LIT-tmpxajf5](../literature.d/LIT-tmpxajf5.md)**, a stand-in for its thesis (§4.1–4.2, pp. 13–15), not
   for its transactional causal model.
 
 ## Limitations

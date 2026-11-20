@@ -15,8 +15,8 @@ promote_when: >-
   matched framing, and the children's relation between commitment and
   efficiency.
 summary: >-
-  From the reading of LIT-tmpj2bbx in NOTE-tmpcfrgj, a poster standing in
-  for LIT-tmp7vh40; values read off its layout and Study 2 unfinished.
+  From the reading of [LIT-tmpj2bbx](../literature.d/LIT-tmpj2bbx.md) in [NOTE-tmpcfrgj](../notes.d/NOTE-tmpcfrgj.md), a poster standing in
+  for [LIT-tmp7vh40](../literature.d/LIT-tmp7vh40.md); values read off its layout and Study 2 unfinished.
   Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: LIT-tmp7vh40 — Unfetched; the paper -->

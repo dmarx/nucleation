@@ -7,7 +7,7 @@ status_note: >-
   fetched; RAND P-1491, the source of chapter 4, returned 403; a UMBC
   course page holds "An Essay on Bargaining" (chapter 2), fetched and not
   read (2026-11-20). Chapter 3 is read through its source article,
-  Schelling 1957 (LIT-tmp4uor8). It stays Unavailable until a copy is
+  Schelling 1957 ([LIT-tmp4uor8](LIT-tmp4uor8.md)). It stays Unavailable until a copy is
   supplied.
 title: 'The Strategy of Conflict'
 version: 1
@@ -34,7 +34,7 @@ summary: >-
   Schelling's founding book on bargaining and conflict as games of
   interdependent decision, including tacit coordination on focal points,
   the source of the salience Lewis's Convention builds on. Unread; chapter
-  3 read through LIT-tmp4uor8.
+  3 read through [LIT-tmp4uor8](LIT-tmp4uor8.md).
 ---
 
 # LIT-tmp7ugv5: The Strategy of Conflict

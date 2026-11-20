@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmp60ehr) as a stand-in for The Irrational
-  Decision (LIT-tmpqa7q2), with three further posts by Recht on
+  Read on 2026-11-20 ([NOTE-tmp60ehr](../notes.d/NOTE-tmp60ehr.md)) as a stand-in for The Irrational
+  Decision ([LIT-tmpqa7q2](LIT-tmpqa7q2.md)), with three further posts by Recht on
   argmin.net. They carry the book's thesis and conclusion, not its
   history.
 title: 'Announcing The Irrational Decision'
@@ -29,8 +29,8 @@ summary: >-
   Recht announces his book: mathematical rationality, built with the first
   computers, reduces decision-making to a statistical analysis of risk;
   deciding that people should decide like computers was itself irrational,
-  since most decisions cannot be outsourced. Read in NOTE-tmp60ehr;
-  account THEORY-tmp68snm.
+  since most decisions cannot be outsourced. Read in [NOTE-tmp60ehr](../notes.d/NOTE-tmp60ehr.md);
+  account [THEORY-tmp68snm](../theory.d/THEORY-tmp68snm.md).
 ---
 <!-- inactive-ok-file: LIT-tmpqa7q2 THEORY-tmp68snm — Unavailable or Proposed; the book and this reading's account -->
 
@@ -42,4 +42,4 @@ Benjamin Recht (2025). "Announcing The Irrational Decision". arg min (blog), 4 A
 
 Registered on 2026-11-20 at the owner's request, from the reference list
 of a 2026 interview with Michael Tomasello that the owner shared, as a
-stand-in for LIT-tmpqa7q2.
+stand-in for [LIT-tmpqa7q2](LIT-tmpqa7q2.md).

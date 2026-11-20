@@ -16,8 +16,8 @@ promote_when: >-
   arbitrary conventions arise from iconic gestures by imitation without
   agreement.
 summary: >-
-  From the reading of LIT-tmplkqp8 in NOTE-tmpxlouc, a stand-in for
-  LIT-tmpf6o51. Proposed until its promote_when is met.
+  From the reading of [LIT-tmplkqp8](../literature.d/LIT-tmplkqp8.md) in [NOTE-tmpxlouc](../notes.d/NOTE-tmpxlouc.md), a stand-in for
+  [LIT-tmpf6o51](../literature.d/LIT-tmpf6o51.md). Proposed until its promote_when is met.
 ---
 
 # THEORY-tmpeicz2: Tomasello argues that human communication is cooperative at base, pointing and pantomime working without conventions through an overt communicative intention, motives of requesting, informing and sharing, and common ground, on an infrastructure of shared intentionality evolved for collaboration, and that arbitrary conventions were built later on such natural gestures, which great apes lack

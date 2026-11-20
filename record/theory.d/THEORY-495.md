@@ -125,12 +125,12 @@ support; the promote_when is not met.
 ## Note of 2026-11-20: works cited in the Tomasello interview, read
 
 Two readings bear on this account. Tomasello's "The role of roles"
-(LIT-tmp13v45, NOTE-tmp2kq0t) restates it in short, with the same
+([LIT-tmp13v45](../literature.d/LIT-tmp13v45.md), [NOTE-tmp2kq0t](../notes.d/NOTE-tmp2kq0t.md)) restates it in short, with the same
 experiments (role ideals, self-other equivalence, joint commitment as
 collaborative self-regulation, guilt), and adds a cognitive half this
 account lacks; it supports the account as its author's restatement, not as
 independent evidence. Schelling's "Bargaining, Communication, and Limited
-War" (LIT-tmp4uor8, NOTE-tmpi86i1) is a contrast: an equal split is a
+War" ([LIT-tmp4uor8](../literature.d/LIT-tmp4uor8.md), [NOTE-tmpi86i1](../notes.d/NOTE-tmpi86i1.md)) is a contrast: an equal split is a
 focal point, "arbitrary in its reliance on a kind of recognizable
 mathematical purity" (p. 207), so part of the equal-sharing evidence this
 account reads as fairness inside a joint commitment has a non-normative

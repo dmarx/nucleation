@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpm5bff) from a course copy (ADR-113): a scan
+  Read on 2026-11-20 ([NOTE-tmpm5bff](../notes.d/NOTE-tmpm5bff.md)) from a course copy ([ADR-113](../decisions.d/ADR-113.md)): a scan
   of the published article linked as a suggested reading from the plan for
   Valéry Giroux's course session of 12 March 2012; the owner ruled on
   2026-11-20 that this copy is in bounds.
@@ -31,7 +31,7 @@ summary: >-
   shown by liability to surprise; that is the concept of objective truth,
   available only through triangulation with another creature in
   communication; so rationality is a social trait and only communicators
-  have it. Read in NOTE-tmpm5bff; account THEORY-tmpzt30n.
+  have it. Read in [NOTE-tmpm5bff](../notes.d/NOTE-tmpm5bff.md); account [THEORY-tmpzt30n](../theory.d/THEORY-tmpzt30n.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpzt30n — Proposed; this reading's account -->
 

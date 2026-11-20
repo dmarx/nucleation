@@ -26,7 +26,7 @@ summary: >-
   explanation in three stages, from speakers' maxims to structure;
   structural, not specific, predictions. In German.
 ---
-<!-- inactive-ok-file: LIT-tmp3ke4f THEORY-tmpwr5sp LIT-473 THEORY-414 THEORY-561 QUESTION-009 — Unavailable, Proposed or Deferred; entries this reading bears on -->
+<!-- inactive-ok-file: LIT-473 THEORY-414 THEORY-561 QUESTION-009 — Unavailable, Proposed or Deferred; entries this reading bears on -->
 
 # NOTE-tmp51wba: Keller — Sprachwandel
 
@@ -76,15 +76,15 @@ level; maxims; systematic violation; pejoration; structural prediction.
 
 ## Bearing on the record
 
-- **LIT-473** (Lewis), background: Lewis gives the account of
+- **[LIT-473](../literature.d/LIT-473.md)** (Lewis), background: Lewis gives the account of
   convention, Keller how conventions change without anyone aiming at the
   change.
-- **THEORY-414** (rules in equilibrium) and **THEORY-561** (an invisible
+- **[THEORY-414](../theory.d/THEORY-414.md)** (rules in equilibrium) and **[THEORY-561](../theory.d/THEORY-561.md)** (an invisible
   hand in information systems), parallels: undesigned equilibria and
   outcomes.
-- **LIT-771** (iterated learning in the laboratory), supports it as
+- **[LIT-771](../literature.d/LIT-771.md)** (iterated learning in the laboratory), supports it as
   evidence that linguistic structure arises without design.
-- **QUESTION-009**, a contrast case: adaptive coordination that is not
+- **[QUESTION-009](../questions.d/QUESTION-009.md)**, a contrast case: adaptive coordination that is not
   an agent.
 
 ## Limitations

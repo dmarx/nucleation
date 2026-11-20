@@ -20,7 +20,7 @@ summary: >-
   theories meat-neutral; AI against simple animals; electrochemical
   computation as the candidate realizer.
 ---
-<!-- inactive-ok-file: THEORY-tmplxowv THEORY-023 CLAIM-412 THEORY-507 THEORY-638 THEORY-252 THEORY-090 THEORY-101 — Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: THEORY-023 CLAIM-412 THEORY-507 THEORY-638 THEORY-252 THEORY-090 THEORY-101 — Proposed; entries this reading bears on -->
 
 # NOTE-tmpshpsc: Block — Can only meat machines be conscious?
 
@@ -63,14 +63,14 @@ nervous systems; ctenophores.
 
 ## Bearing on the record
 
-- **THEORY-023** (current evidence cannot settle AI consciousness),
+- **[THEORY-023](../theory.d/THEORY-023.md)** (current evidence cannot settle AI consciousness),
   supports and extends it: the indicators presuppose computational
   functionalism, and the realizer alternative is as plausible.
-- **CLAIM-412**, a contrast: a role view, which the meat hypothesis
+- **[CLAIM-412](../claims.d/CLAIM-412.md)**, a contrast: a role view, which the meat hypothesis
   denies is sufficient.
-- **THEORY-507** (Chalmers), a contrast; **THEORY-638** (Searle) and
-  **THEORY-252**, parallels.
-- **THEORY-090** and **THEORY-101**, parallels on simple animals.
+- **[THEORY-507](../theory.d/THEORY-507.md)** (Chalmers), a contrast; **[THEORY-638](../theory.d/THEORY-638.md)** (Searle) and
+  **[THEORY-252](../theory.d/THEORY-252.md)**, parallels.
+- **[THEORY-090](../theory.d/THEORY-090.md)** and **[THEORY-101](../theory.d/THEORY-101.md)**, parallels on simple animals.
 
 ## Limitations
 

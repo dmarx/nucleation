@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmp9hbez) as a stand-in for The Hidden Spring
-  (LIT-tmpq6yfo): it says a book-length treatment is in press, and carries
+  Read on 2026-11-20 ([NOTE-tmp9hbez](../notes.d/NOTE-tmp9hbez.md)) as a stand-in for The Hidden Spring
+  ([LIT-tmpq6yfo](LIT-tmpq6yfo.md)): it says a book-length treatment is in press, and carries
   the book's brainstem, affect and free-energy core, not its narrative,
   cases or later revisions. Open access.
 title: 'The Hard Problem of Consciousness and the Free Energy Principle'
@@ -30,8 +30,8 @@ summary: >-
   fundamentally affective; on dual-aspect monism it is the felt aspect of
   precision-weighting by which a free-energy-minimising organism
   prioritises among homeostatic needs in unpredicted contexts:
-  consciousness is felt uncertainty. Read in NOTE-tmp9hbez; account
-  THEORY-tmp2aaek.
+  consciousness is felt uncertainty. Read in [NOTE-tmp9hbez](../notes.d/NOTE-tmp9hbez.md); account
+  [THEORY-tmp2aaek](../theory.d/THEORY-tmp2aaek.md).
 ---
 <!-- inactive-ok-file: LIT-tmpq6yfo THEORY-tmp2aaek — Unavailable or Proposed; the book and this reading's account -->
 
@@ -43,4 +43,4 @@ Mark Solms (2019). "The Hard Problem of Consciousness and the Free Energy Princi
 
 Registered on 2026-11-20 at the owner's request, from the reference list
 of a 2026 interview with Michael Tomasello that the owner shared, as a
-stand-in for LIT-tmpq6yfo.
+stand-in for [LIT-tmpq6yfo](LIT-tmpq6yfo.md).

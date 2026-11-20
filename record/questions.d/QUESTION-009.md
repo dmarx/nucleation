@@ -71,23 +71,23 @@ relation to this question for that reason.
 <!-- inactive-ok-file: THEORY-tmpqxwyk THEORY-tmpwr5sp — Proposed; the readings' accounts -->
 
 Two contrast cases: Schelling's tacit coordination on focal points
-(LIT-tmp4uor8; account THEORY-tmpqxwyk) and Keller's invisible-hand
-language change (LIT-tmp0ucsz; account THEORY-tmpwr5sp) are patterns of
+([LIT-tmp4uor8](../literature.d/LIT-tmp4uor8.md); account [THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md)) and Keller's invisible-hand
+language change ([LIT-tmp0ucsz](../literature.d/LIT-tmp0ucsz.md); account [THEORY-tmpwr5sp](../theory.d/THEORY-tmpwr5sp.md)) are patterns of
 coordination, the second sustained across a whole speech community, that
 neither author treats as an additional agent; Tomasello's role of roles
-(LIT-tmp13v45) holds that coordination without a joint goal, as in
+([LIT-tmp13v45](../literature.d/LIT-tmp13v45.md)) holds that coordination without a joint goal, as in
 chimpanzee group hunting, has no roles and no joint agent. Evidence on
-where the line falls; relations written: THEORY-tmpqxwyk and
-THEORY-tmpwr5sp bear_on this question.
+where the line falls; relations written: [THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md) and
+[THEORY-tmpwr5sp](../theory.d/THEORY-tmpwr5sp.md) bear_on this question.
 
 ## Note of 2026-11-20: Tomasello on markets and shared agents, an interview
 <!-- inactive-ok-file: THEORY-tmpx361j — Proposed; the account -->
 
-In a 2026 interview (LIT-tmpfusyv, read in NOTE-tmpkd5w9; account
-THEORY-tmpx361j) Tomasello answers within his own view: markets and
+In a 2026 interview ([LIT-tmpfusyv](../literature.d/LIT-tmpfusyv.md), read in [NOTE-tmpkd5w9](../notes.d/NOTE-tmpkd5w9.md); account
+[THEORY-tmpx361j](../theory.d/THEORY-tmpx361j.md)) Tomasello answers within his own view: markets and
 capital are not agents ("I'm not a big fan of talking about inanimate
 things as agents"); traffic jams, inflation and crashes are phenomena of
 the third kind that emerge from individuals' intentional acts; a shared
 agent needs a joint goal, roles and mutual knowledge. Evidence for the
-negative side for emergent regularities. Relation written: THEORY-tmpx361j
+negative side for emergent regularities. Relation written: [THEORY-tmpx361j](../theory.d/THEORY-tmpx361j.md)
 bears_on this question.

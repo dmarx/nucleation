@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmp51wba) as a stand-in for On Language Change
-  (LIT-tmp3ke4f): the author's lecture on his faculty's site, with a Klett
+  Read on 2026-11-20 ([NOTE-tmp51wba](../notes.d/NOTE-tmp51wba.md)) as a stand-in for On Language Change
+  ([LIT-tmp3ke4f](LIT-tmp3ke4f.md)): the author's lecture on his faculty's site, with a Klett
   teaching excerpt of the German book. In German; its rights notice
   reserves use, so quotations here are kept minimal and glossed.
 title: 'Sprachwandel'
@@ -32,7 +32,7 @@ summary: >-
   systematic, and a language is a phenomenon of the third kind, the
   unintended result of many speakers' communicative acts, to be explained
   by an invisible-hand explanation from maxims to structure. Read in
-  NOTE-tmp51wba; account THEORY-tmpwr5sp.
+  [NOTE-tmp51wba](../notes.d/NOTE-tmp51wba.md); account [THEORY-tmpwr5sp](../theory.d/THEORY-tmpwr5sp.md).
 ---
 <!-- inactive-ok-file: LIT-tmp3ke4f THEORY-tmpwr5sp — Unavailable or Proposed; the book and this reading's account -->
 
@@ -44,4 +44,4 @@ Rudi Keller (2004). "Sprachwandel" (lecture, BDÜ 2000). Copy read: https://www.
 
 Registered on 2026-11-20 at the owner's request, from the reference list
 of a 2026 interview with Michael Tomasello that the owner shared, as a
-stand-in for LIT-tmp3ke4f.
+stand-in for [LIT-tmp3ke4f](LIT-tmp3ke4f.md).
