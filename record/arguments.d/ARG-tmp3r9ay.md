@@ -26,7 +26,8 @@ summary: >-
   Proposed: the verdict is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpue255 THEORY-tmpitywd THEORY-495 THEORY-tmpj4l2c LIT-tmpkwxfx THEORY-tmpgv0cr THEORY-tmpoak8v — Proposed, Unavailable or newly filed; the claim, its grounds and its rival -->
+<!-- inactive-ok-file: CLAIM-tmpue255 THEORY-tmpitywd THEORY-495 THEORY-tmpj4l2c THEORY-tmpgv0cr THEORY-tmpoak8v — Proposed or newly filed; the claim, its grounds and its rival -->
+<!-- inactive-ok-file: LIT-tmpkwxfx until 2027-05-20 — Unavailable, abstract only; grounds the step that three-year-olds do not coordinate on salience, to be re-asked once the full text is read -->
 
 # ARG-tmp3r9ay: The age-three pattern, equality stated as a norm but kept to only after collaboration, with mutual expectation and tacit salience unavailable at that age, is best explained by a joint commitment that motivates settling a division whose content is an already-known equal default
 
