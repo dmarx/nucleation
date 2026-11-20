@@ -101,9 +101,15 @@ Run under `python3 -I` on 2026-11-20 (scripts in the curation entry of
   between leaves, multiplied within a level by symmetric factors up to e^h.
   With h = 0 the metric is ultrametric for every g, by symmetry. With
   h = 0.5 and 1, δ fell as the gap grew (h = 1: 0.073, 0.047, 0.011, 0.001
-  at g = 0.5, 0.1, 0.01, 0.001), while the defect from the designed tree did
-  not fall: the metric became a tree, but a finer one, in which the
-  within-level variation became sub-levels.
+  at g = 0.5, 0.1, 0.01, 0.001), while the defect from equal heights per
+  level did not fall. The single-linkage tree of the time geometry had the
+  designed topology in every run once the gap beat the spread within levels
+  (all runs at g ≤ 0.1 for h = 0.5 and 1; at h = 3, 1 of 5 runs at g = 0.1,
+  4 of 5 at 0.01, 5 of 5 at 0.001), and a rearranged topology, with as many
+  classes added as lost, when it did not (every run at g = 0.5). The
+  remaining defect is unequal heights within a level, largest among
+  siblings: the tree is the designed one with nodes of a level at
+  different heights, not a finer tree.
 - **Flat chains.** A 16-cycle and the 4×4 torus with equal rates: δ = 0.32
   against diameter 1.45, and 0.22 against 0.35.
 
