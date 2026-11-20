@@ -10,7 +10,7 @@ Section 7.2 described the cycle the theory predicts for any inquiry held in a re
 
 - 177 Deferred LITs carried a free-text note of a failed search, a distinction held only in prose (ADR-041);
 - 42 claims were about whether one entry supports another, filed as substantive claims because ARG went unused (ADR-061);
-- one topic word carried four senses of "self" that readings needed to keep apart (ADR-024).
+- one topic word, `self-and-personhood`, held senses the owner asked to keep apart: agent, individual, self and person, and four kinds of unity (ADR-024).
 
 **Stage 2: the misfit is noticed.** Who noticed changed over the period (§15.4).
 
@@ -20,10 +20,10 @@ Section 7.2 described the cycle the theory predicts for any inquiry held in a re
 
 Noticing moved from incidental to institutional. In P10's terms, the recognition link of the ladder was strengthened by building it into procedure.
 
-**Stage 3: diagnosis against a target.** Every grammar change has a decision record weighing alternatives. The diagnoses are P1 in practice:
+**Stage 3: diagnosis against a target.** Grammar changes come with decision records that weigh alternatives. The diagnoses read as P1 in practice, though they do not cite it:
 
 - ADR-042 refused to add values to `standing` because one field cannot answer two questions.
-- ADR-036 widened `learning-theory` rather than split it, because no committed action needed the split.
+- ADR-036 widened `learning-theory` rather than split it, because the works sat on both sides and "two words would split one literature".
 - ADR-056 piloted a TERM `kind` field and rejected it when five of sixteen terms forced an arbitrary choice. The test was P4's: would the name earn its keep?
 - ADR-053 added `Unfetched` when the situations it separated called for different actions by different people (the owner could fetch them; no search could).
 
@@ -31,7 +31,7 @@ Noticing moved from incidental to institutional. In P10's terms, the recognition
 
 - **re-carving** what counts as an answer (ADR-049);
 - **redrawing boundaries** between kinds of entry (ADR-058, ADR-060, ADR-061);
-- **withdrawing a type** that did not earn its keep (ADR-084);
+- **withdrawing an abstraction** that had overreached: an admission route that let accounts assert (ADR-084);
 - **splitting units of inquiry** (ADR-082, ADR-087, ADR-089, ADR-100).
 
 **Stage 5: carry-through.** 2,664 existing entries were migrated by the 58 changes that state a count. Every removed vocabulary term in use was carried through every entry using it (§15.2). The predicted failure occurred exactly where the theory says it would. When only a meaning changed, nothing forced the entries to follow: ADR-048's redefinition of `anthology-candidate` reached none of its 237 entries.
@@ -40,8 +40,8 @@ Noticing moved from incidental to institutional. In P10's terms, the recognition
 
 **Stage 7: the new capacity serves later cases.** Questions moved from expressible to askable:
 
-- "Which of our research opportunities are worked out enough to run?" became an index after LEAD and its revision (ADR-109, ADR-111).
-- "What could the owner fetch by hand?" became a page after `Unfetched` (ADR-053).
+- The question of which research opportunities are worked out enough to run became an index after LEAD and its revision (ADR-109, ADR-111).
+- The question of what the owner could fetch by hand became a page after `Unfetched` (ADR-053).
 
 New distinctions made new misfits visible. Once `warrant` existed, two readings of it were found in use (ADR-043, version 2). The predicted cost appeared too. Ten grammar changes caused errors that only later checks revealed (§13.9). As for entrenchment, additions to the grammar fell sharply within the first month (82 new terms, then 24), which fits settling and entrenchment equally (§15.3).
 
@@ -49,21 +49,22 @@ New distinctions made new misfits visible. Once `warrant` existed, two readings 
 
 - status reviews from 27 October;
 - synthesis and reading reviews from 7 and 11 November;
-- POSTMORTEM and its triggers on 20 November (ADR-110, ADR-112);
+- POSTMORTEM and its triggers on 20 November (ADR-110, ADR-112, both Proposed but applied);
 - one complete review-and-revision cycle within two days (§14.4).
 
-It also changed its tool. ADR-057's mechanisms became features of luria 1.3.0 (luria#382, §14.6). Whether the capacity to judge revisions was kept or eroded is the predicted risk, and it is not measured (§17.1).
+It also changed its tool. Mechanisms 3 to 5 of ADR-057 became features of luria 1.3.0 on 28 October (luria#382, §14.6). Whether the capacity to judge revisions was kept or eroded is the predicted risk, and it is not measured (§17.1).
 
 ### 16.2 The cycle acting on the theory itself
 
 The record holds the theory of Part I as entries, and those entries pass through the same machinery as every other entry. CLAIM-532, the theory's account of learning, is the clearest case. Its history:
 
 1. **6 November.** Promoted to Active at the twenty-sixth status review, at the status review's ruling: the owner had delegated such rulings to the procedure.
-2. **10 November.** A lint sweep found it crossing lines as a `rests_on` step, and it was given the `distributed-agency` line under a rule adopted that day (ADR-085).
-3. **18 November.** A synthesis review's reader found a separating case. A uniform change of priority meets every premise and is neither covered nor excluded, so the claim gained an "Admission" section and the record opened QUESTION-488.
-4. **18 November, later.** At the owner's direction, it was restated from a definition to a sufficient condition. The owner's reason was itself a P2 point: if the components of a frozen random projection count as existing processes, "all feature learning is reweighting of them". The definition therefore could not be mechanistic.
+2. **10 November.** A lint sweep found it crossing lines as a `rests_on` step, and it was given the `distributed-agency` line under a rule proposed that day and applied at once (ADR-085, Proposed).
+3. **11 November.** A synthesis review's reader found a separating case: a uniform change of priority among regimes. Read against the claim as it then stood, a definition, the case would meet its defeat condition if the record counted such a change as self-formation.
+4. **18 November.** The next synthesis review wrote the case into the claim as an "Admission" section, and the record opened QUESTION-488 to hold it.
+5. **18 November, later.** At the owner's direction, the claim was restated, on two observations of the owner's. First, it read as a definition where its body and CASE-191 support only a sufficient condition. That drove the restatement. As a sufficient condition, the claim "does not cover it either way". Second, the contrast between existing processes and a new ability was underspecified: if the components of a frozen random projection count as existing processes, "all feature learning is reweighting of them". That drove defining the claim's products by behaviour rather than mechanism.
 
-Each step is a stage of the flywheel, and the claim it revised is the claim that describes the flywheel's stage 4.
+Each step is a stage of the flywheel: a procedure promoting, a mechanism noticing, a review finding a case the claim could not hold, a revision. The claim it revised is the one behind P5, the principle that describes the flywheel's first and seventh stages.
 
 Three of the instruments this paper uses to state the theory are products of the cycle:
 

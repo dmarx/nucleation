@@ -14,7 +14,7 @@ Luria is a command-line tool, and a set of conventions, for keeping a project's 
 
 - **Schemes.** Typed document families with stable codes, such as `CLAIM-532`. A code is never reused. Documents are retired by status, never deleted.
 - **Fields.** Each is required or optional per scheme. Some draw on **vocabularies**, which may be closed: every value was chosen and described by someone.
-- **Typed, directed relations** between documents, such as `rests_on`, `grounds`, `objects_to`, `refines` and `advances`. A relation declares its converse, which luria computes for every reader rather than storing (ADR-079).
+- **Typed, directed relations** between documents, such as `rests_on`, `grounds`, `objects_to`, `refines` and `advances`. A directed relation declares its converse, which luria computes for every reader rather than storing (ADR-079, Proposed but applied). Symmetric relations such as `complements` stay stored on both sides.
 - **Statuses.** These encode standing, such as Proposed, Active, Superseded and Rejected. History notes, version numbers and supersession links record how standing changes.
 - **Generated views.** Indexes by field value, line, topic and relation, built from the documents and never edited by hand.
 - **Validation and repair.** A linter, including `fail_on` patterns a project adds, and a repair step that writes link targets.
@@ -71,8 +71,8 @@ The record also holds its own limit as a claim. "A typed relation is more constr
 
 | Component of an inquiry (TERM-095) | What realizes it in a luria record | In Nucleation |
 |---|---|---|
-| **Language** | Schemes, fields, vocabularies, relation types: the relational vocabulary (TERM-091) | 13 schemes, 18 vocabularies, 69 topic terms; `rests_on`, `grounds`, `objects_to`, `bears_on` and others |
-| **Answer space** | What can be said of an entry's standing and kind | QUESTION statuses (Open, Answered, Deferred) and "What would answer it?"; CLAIM status, `role` and `warrant`; CASE `standing` and `kind`; LIT statuses such as Unavailable and Unfetched |
+| **Language** | Schemes, fields, vocabularies, relation types: the relational vocabulary (TERM-091) | 13 schemes, 20 vocabularies and 69 topic terms on 20 November; `rests_on`, `grounds`, `objects_to`, `bears_on` and others |
+| **Answer space** | What can be said of an entry's standing and kind | QUESTION statuses (Open, Answered, Deferred, Dissolved, Superseded) and the "What would answer it" sections of their bodies; CLAIM status, `role` and `warrant`; CASE `standing` and `kind`; LIT statuses such as Unavailable and Unfetched |
 | **Interventions** | Ways of acting on the world or the record | Reading a work (LIT → NOTE); executed studies (CASEs with scripts in `scratch/formal`); LEADs, planned interventions with a stage and priority |
 | **Observations** | What comes back, including what the record shows of itself | NOTEs (Read, Skimmed); generated views; lint reports; counts such as CASE-178's |
 | **Criteria** | Conditions for changing standing and for admission | THEORY `promote_when`; CLAIM `defeated_if`; the test for a claim whose premises are claims (ADR-084); ARG judgments on support; the owner's review; `fail_on` patterns |
@@ -87,14 +87,14 @@ Each principle of §7.1 has one or more mechanisms that operationalize it in the
 
 | Principle | How the record operationalizes it |
 |---|---|
-| **P1:** a distinction is needed when actions differ | Every grammar change is argued in a decision record, with alternatives considered and rejected. ADR-042 rejected adding values to `standing` because it "would answer two questions with one field". Decisions are judged by their first application (ADR-071), so a distinction must show what it does. |
+| **P1:** a distinction is needed when actions differ | Grammar changes are argued in decision records, with alternatives considered and rejected. In the record's first month, nine changes in ten came with one (CASE-178). ADR-042 rejected adding values to `standing` because it "would answer two questions with one field". Decisions are judged by their first application (ADR-071), so a distinction must show what it does. |
 | **P2:** split, merge, re-carve | The grammar can add, split, widen, narrow, rename, retire and withdraw. Retiring by status keeps both the old and the new partition and the map between them. |
 | **P3:** no self-certification | Readings are filed by one session and reviewed by another. The owner reviews every pull request. Status reviews and synthesis reviews read the argument with procedures that do not depend on how it was filed. The linter checks consistency, which the record's own claims say is not correctness (CLAIM-293, CLAIM-479). |
 | **P4:** naming is its own decision | The second-occurrence rule for process (ADR-072). The rule that an idea gets a code "when it has content of its own and is not already held" (ADR-072). Piloting a field on a sample before requiring it (ADR-043, ADR-056). |
-| **P5:** discrepancy, then capacity | A misfit that a filing reports is "listed and then sent to a decision" (CLAIM-419). The curation journal records what each filing left and why. Decision records name the discrepancy that occasioned them. |
+| **P5:** discrepancy, then capacity | The one misfit recent filings reported was listed and then sent to a decision (CLAIM-419, note of 12 November). The curation journal records what each filing left and why. Decision records name the discrepancy that occasioned them. |
 | **P6:** three ledgers | Construction: the decision and its first application. Transition: migrations, recorded with counts. Maintenance: required fields, lint, the reviews that exercise a distinction. |
 | **P7:** maintenance by intervention; support can erode | CI runs the checks on every change. Skills write review procedures down so that a fresh session can carry them out (DP-5, "no private brains"). DP-4 ("fire before trusting") requires a guard to be run against a deliberate failure before it is relied on. Postmortems review a change once it has been used. The owner's review of every pull request keeps the owner exercising judgment that assistants could otherwise take over. |
-| **P8:** reflexive inquiry | `luria.yaml` is a versioned file changed only by decision. Decisions are themselves entries with status and history. POSTMORTEMs `review` decisions and name the decisions their recommendations `prompted` (ADR-112). |
+| **P8:** reflexive inquiry | `luria.yaml` is a versioned file changed, as a rule, by decision. Decisions are themselves entries with status and history. POSTMORTEMs `review` decisions and name the decisions their recommendations `prompted` (ADR-112). |
 | **P9:** anchors and traceability | Stable codes as exact addresses. `rests_on`, `grounds` and `objects_to` as accountability structure. Retirement by status, never deletion. History notes with dates. `formerly`. The `works` field, which keeps a claim's membership in a manuscript apart from its standing, so that a manuscript is "a view over the argument and not its only copy" (CLAIM-178). |
 | **P10:** the ladder of uptake | Admission: a contribution is filed. Recognition: it gets a code in apt terms, with the right type and vocabulary. Credibility: its status and warrant. Uptake: a claim `rests_on` it, or a synthesis integrates it. Revision of the standards of uptake: a decision that changes the grammar or the criteria. |
 
@@ -102,15 +102,15 @@ Each principle of §7.1 has one or more mechanisms that operationalize it in the
 
 | Concept | Where argued | What realizes it |
 |---|---|---|
-| Anchor | CLAIM-182, CLAIM-185 | A code: stable, never reused, citable part by part |
+| Anchor | CLAIM-182, CLAIM-185 (Proposed) | A code: stable, never reused, citable part by part |
 | Identity stipulated by decision | CLAIM-195 | Versions, history notes, supersession, `formerly` |
-| Trigger for coding | CLAIM-176, CLAIM-630 | The second-occurrence rule, now confined to process |
-| Accountability structure | CLAIM-250 | `rests_on`, `grounds`, `objects_to`, ARG; the curation and workbench journals |
+| Trigger for coding | CLAIM-176, CLAIM-630 (Proposed) | The second-occurrence rule, now confined to process |
+| Accountability structure | CLAIM-250 (Proposed) | `rests_on`, `grounds`, `objects_to`, ARG; the curation and workbench journals |
 | Support recorded, strength not | CLAIM-293 | A known limit of `rests_on` and `grounds` |
 | No computed withdrawals | CLAIM-664 | Retiring an entry reports its dependants and leaves each to judgment |
 | Faithful migration | CLAIM-666 (Proposed) | A decision stating what moved; entries re-read and given history notes |
 | An anchor is not shared knowledge | CLAIM-668 (Proposed) | Access to the record does not show that each collaborator knows an entry's current standing |
-| Capture cost moved to the reader | CLAIM-179 | Agent filing, with the owner reviewing each pull request |
+| Capture cost moved to the reader | CLAIM-179 (Proposed) | Agent filing, with the owner reviewing each pull request |
 | Question drift | TERM-056 | QUESTIONs that `refine` one another, so a changed question is a new, related entry |
 
 ### 9.5 Four loops
@@ -124,11 +124,13 @@ Read through the tuple, the record runs four nested loops:
 
 Part III shows each loop at work. The second is the flywheel of §7.2.
 
+Several of the decisions that created these mechanisms are still Proposed although applied. They include ADR-079 (computed converses), ADR-082 to ADR-084 (accounts and line splits), ADR-087, ADR-089 and ADR-100 (further splits), ADR-109 and ADR-111 (LEAD), and ADR-110 and ADR-112 (POSTMORTEM). In this record, "Proposed" on a decision usually means not yet formally adopted by the owner, not unapplied (§14.1).
+
 ## 10. What operationalization does and does not establish
 
 Section 9 shows a correspondence between the theory's principles and the record's mechanisms. Five cautions limit what that correspondence establishes.
 
-**Mechanisms were mostly adopted for local reasons.** A decision record was required for every new vocabulary word from the first day (ADR-001), before the record held any of Part I's claims. The second-occurrence rule was a throttle on flooding. Retirement by status was a convention inherited from Luria. The correspondence in §9.3 is therefore partly convergence: practices adopted to keep a record usable turned out to embody claims the record later argued for. Convergence is weaker evidence than design would be. It is also more interesting, because it suggests the principles describe constraints any such record meets.
+**Mechanisms were mostly adopted for local reasons.** A decision was required for every new word in the closed topic vocabulary from the first day (ADR-001), before the record held any of Part I's claims. The second-occurrence rule was a throttle on flooding. Retirement by status was a convention inherited from Luria. The correspondence in §9.3 is therefore partly convergence: practices adopted to keep a record usable turned out to embody claims the record later argued for. Convergence is weaker evidence than design would be. It is also more interesting, because it suggests the principles describe constraints any such record meets.
 
 **Holding a claim is not operating on it.** The record holds CLAIM-602, which says support that does the work erodes the capacity it supports. Holding it does not show that the record's own use of assistants respects it. Operationalization is a property of mechanisms, not of content, and §9.3 lists mechanisms. Where no mechanism exists, as for measuring whether the owner's capacity to judge revisions is maintained, the principle is held and not operationalized (§17.1).
 

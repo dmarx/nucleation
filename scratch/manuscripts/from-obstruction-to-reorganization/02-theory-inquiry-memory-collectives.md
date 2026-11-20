@@ -12,7 +12,8 @@ TERM-095 (Active) writes an inquiry as a tuple with six components:
 
 - **a language** in which the question is posed;
 - **an answer space** that says which differences would count as an answer;
-- **interventions and observations** that make those differences accessible;
+- **interventions** that make those differences accessible;
+- **observations** that report them;
 - **criteria** for judging candidate answers;
 - **resources** it runs on.
 
@@ -84,14 +85,14 @@ A further distinction applies to improvement over time. A collective can get bet
 Any inquiry that runs across time must pass its results forward, through people, sessions, documents or generations. The record holds a general account of what happens to content passed along a chain.
 
 - **Convergence is not preservation.** "Retaining information about where a Markov chain started and staying close to the starting distribution are different properties: a chain can forget its initial state while its distribution stays far from where it began" (CLAIM-270, Active, demonstrated). Equally, "transmission is not degradation" (CLAIM-081, Active, interpretive).
-- **The endpoint reflects the transmitters.** A stable endpoint of cultural transmission may be "a shared decoding convention rather than a preserved historical object" (TERM-027, Active, quoting A110). Serial transmission is reconstructive and filtered by the transmitters' inductive biases (CLAIM-090, Proposed, empirical; ARG-035, Proposed, from Griffiths and Kalish and from Kirby, Cornish and Smith).
+- **The endpoint reflects the transmitters.** A stable endpoint of cultural transmission may be "a shared decoding convention rather than a preserved historical object" (TERM-027, Active, quoting A110). Serial transmission is reconstructive and filtered by the transmitters' inductive biases (CLAIM-090, Proposed, empirical). ARG-035 (Proposed) qualifies the support. Griffiths and Kalish's theorem and Kirby, Cornish and Smith's chains "show different things", and convergence to the transmitters' prior is proved only for sampling learners.
 - **Small errors need not stay small.** The same local error can be damped, accumulated or amplified by later reconstructions, and local similarity can coexist with large global drift (CLAIM-056, Active, interpretive). The event to detect may be a *phase change*, the first generation at which a different configuration dominates, which per-step error does not show (CLAIM-114, Proposed).
 
 ### 5.2 Arguments drift in identity
 
 The record's own founding observation is an instance. "In the record's exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change" (CLAIM-177, Active, empirical, across six exchanges). In the documented case, a manuscript drafted straight from an argument's matured state dropped 24 of its items, none on request, and changed the thesis with no turn arguing the move (CLAIM-324, Active, empirical).
 
-The record reads restatement across memoryless sessions as iterated transport "with only a weak channel back to the source". Without anchors, restatements drift toward the collaborators' own framings rather than at random (CLAIM-191, Proposed, interpretive), as §5.1 predicts.
+The record reads restatement across memoryless sessions as iterated transport "with only a weak channel back to the source". Without anchors, restatements drift toward the collaborators' own framings rather than at random (CLAIM-191, Proposed, interpretive), as §5.1 predicts where its conditions hold.
 
 Two refinements matter:
 
@@ -120,7 +121,7 @@ A stable code carried forward unchanged is, in CLAIM-635's terms, an exactly con
 
 ### 5.5 What a record of inquiry can secure
 
-If maturing drops things legitimately, a record cannot aim at preservation. What it can secure is "traceability, change that is announced and located" (CLAIM-189, Proposed). That is defined over the argument's accountability structure: what was asserted, why, how it was challenged, and what justified its revision (CLAIM-250, Proposed).
+If maturing drops things legitimately, a record cannot aim at preservation. What it can secure, the record proposes, is "traceability, change that is announced and located" (CLAIM-189, Proposed, filed as a counter to an earlier claim of the record's own). That is defined over the argument's accountability structure: what was asserted, why, how it was challenged, and what justified its revision (CLAIM-250, Proposed).
 
 Demonstrated results bound what such a record is:
 
@@ -140,7 +141,7 @@ If an inquiry's content can change, what makes it the same inquiry?
 - **Interruption is not loss.** A perspective's enactment can stop without the loss of what could reinstate it. An interruption may be of activation, of enactment or of reproduction (CLAIM-421, Active).
 - **Participants' judgments help make the succession.** At a change of steward, their judgments of which successor continues a project are causally productive of the succession (CLAIM-617, Proposed).
 
-**The ninth principle follows.** Without anchors, content passed through memoryless or biased transmitters drifts toward the transmitters' priors, and a stable result is not evidence of a preserved one. What holds a chain to its origin is an exactly conserved address, evidence that does not pass through the interpretation under test, or anchoring to independently measured distinctions. What a record can secure is traceable change, not fidelity. An inquiry stays the same inquiry by transmitting what keeps it going, not by staying the same.
+**The ninth principle follows.** Without anchors, content passed through memoryless transmitters can drift toward the transmitters' own biases (proved for sampling learners), and a stable result is not evidence of a preserved one. What holds a chain to its origin is an exactly conserved address, evidence that does not pass through the interpretation under test, or anchoring to independently measured distinctions. What a record can aim to secure, on the record's Proposed account, is traceable change, not fidelity. An inquiry stays the same inquiry by transmitting what keeps it going, not by staying the same.
 
 ## 6. Collective inquiry
 
@@ -190,4 +191,4 @@ The record also holds a Proposed empirical prediction about when self-revision p
 
 One more caution concerns what records do for a collective. In a simulated organization, keeping an incident team's records through a handoff cut the company's error in estimating its own state "about eightfold while barely changing what it does" (CASE-166, Proposed; reported, not re-run). A record may improve what a collective knows more than what it decides.
 
-**The tenth principle follows.** A collective learns only if a chain of separable achievements holds: admission, recognition, credibility, uptake, and revision of the standards of uptake. Its weakest link bounds the whole. Its capacity to be corrected is a state that must be maintained, can erode while performance improves, and is not shown by the absence of challenge. Its evaluation of itself confirms itself unless some evidence arrives, or is scored, independently of what it tests.
+**The tenth principle follows.** A collective learns only if a chain of separable achievements holds: admission, recognition, credibility, uptake, and revision of the standards of uptake. Each link can fail while the others hold. For objections, the record proposes that the weakest stage bounds the whole (CLAIM-732, Proposed). Its capacity to be corrected is a state that must be maintained, can erode while performance improves, and is not shown by the absence of challenge. Its evaluation of itself confirms itself unless some evidence arrives, or is scored, independently of what it tests.

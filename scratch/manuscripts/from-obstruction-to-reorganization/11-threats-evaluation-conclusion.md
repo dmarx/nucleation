@@ -83,7 +83,7 @@ Part I set out a theory of how systems learn and inquire.
 - **Learning** is the formation of a maintained capacity, a new distinction or a new channel. It is occasioned by a discrepancy the system cannot resolve, it is not guaranteed by it, and it is costed in three separate ledgers. A capacity's maintenance is known only by intervention, and help that does the work erodes it.
 - **Inquiry** is a form of specification that can revise what counts as an answer. It is self-governing only where the criteria of revision are the system's own.
 - **Transmission.** Without anchors, transmission drifts toward the transmitters. What a record can secure is traceable change, not fidelity.
-- **Collectives** learn through a chain of separable achievements whose weakest link bounds the whole, and they confirm themselves without independent evidence.
+- **Collectives** learn through a chain of separable achievements, any of which can fail while the others hold, and they confirm themselves without independent evidence.
 
 From these principles the theory predicts a cycle for any inquiry held in a revisable apparatus. Misfits are absorbed before they are noticed. Noticing is the scarce step. Diagnosis weighs actions, not just data. Revision includes merging and withdrawal as well as splitting. Carry-through fails where only a meaning moves. Maintenance fails where a correction stops short. Each turn stores work that later turns use, and that also entrenches.
 
