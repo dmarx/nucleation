@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp2stjj
 title: 'A collective that replaces all its members, or a self that goes inactive, persists on the record''s account by causal transmission of the organization that produces it or by the capacity to reinstate it, not by resemblance or a running quantity: persistence has senses that come apart, its successors can be plural without identity branching, what must be transmitted is still open, a slow variable belongs to a collective''s dynamics only when its members read and regenerate it, and a feature recovered from members'' activity is at most a constituent of a perspective'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    CLAIM-617 no longer grounds CASE-223 (ADR-058, status review of
+    2026-11-20); the case illustrates it.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the persistence part of the distributed-agency line left out without a
@@ -260,7 +266,7 @@ identified at all.
   [CLAIM-617](../claims.d/CLAIM-617.md).
 - [CLAIM-420](../claims.d/CLAIM-420.md), the owner's corrected by A38, thesis, interpretive, Active;
   complements [CLAIM-329](../claims.d/CLAIM-329.md); uses [TERM-084](../terms.d/TERM-084.md).
-- [CLAIM-617](../claims.d/CLAIM-617.md), A's, thesis, interpretive, Proposed; grounds [CASE-223](../cases.d/CASE-223.md);
+- [CLAIM-617](../claims.d/CLAIM-617.md), A's, thesis, interpretive, Proposed; illustrated by [CASE-223](../cases.d/CASE-223.md);
   complements [CLAIM-328](../claims.d/CLAIM-328.md); bears on [QUESTION-118](../questions.d/QUESTION-118.md).
 - [CLAIM-613](../claims.d/CLAIM-613.md), A's, thesis, interpretive, Proposed; first line
   will-organization, where [SYNTHESIS-036](SYNTHESIS-036.md) integrates it; rests on [CLAIM-047](../claims.d/CLAIM-047.md)

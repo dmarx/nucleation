@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmplih4n
 title: 'How an equivalence becomes a unit: the owner''s hypothesis that collapsing differences that do not matter is how classes are reified, made substantive by closure under the system''s own operations and completed by differentiation between basins; the owner''s genres example and its closure test; the owner''s hunch that role abstraction meets balanced partitions of units, with the check that symmetry alone forces one only where the relabelling group permutes the units; and the open comparison of criteria for a learned feature'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    CLAIM-759's vocabulary clause restated as narrowed at the status review
+    of 2026-11-20: for at least five tokens the relabelling group can permute
+    a narrower layer's units only through the sign, rather than not at all.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part (how identification of states yields a unit that later
@@ -86,8 +93,9 @@ summary: >-
   balanced-partition structure among units, the structure [THEORY-1065](../theory.d/THEORY-1065.md)
   (Active) holds. [CLAIM-759](../claims.d/CLAIM-759.md) (the assistant's, accepted by the owner;
   Proposed, demonstrated) bears on it: data symmetry forces such a
-  partition only where the relabelling group permutes the units, and
-  cannot for vocabularies larger than the width, so in Li and Webb's
+  partition where the relabelling group permutes the units, and for
+  vocabularies of at least five tokens larger than the width it can
+  permute them only through the sign, so in Li and Webb's
   models any coincidence would be learned.
 - **Competing criteria for a learned feature.** [QUESTION-491](../questions.d/QUESTION-491.md) (A's;
   Open) asks whether domain walls, local causal states, local transfer
