@@ -2,7 +2,7 @@
 number: 39
 status: Open
 formerly:
-- QUESTION-tmp0dy29
+- QUESTION-039
 title: 'What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?'
 version: 2
 history:
@@ -125,3 +125,12 @@ separate first phase taught is overwritten at the switch and kept under
 interleaving, so order bears on retention as well as acquisition. The
 procedural paper ([THEORY-2075](../theory.d/THEORY-2075.md)) finds the first phase's length matters
 non-monotonically. Background for the question's mechanisms.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Ito and colleagues ([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)): the order of pretraining stages
+decides whether compositional generalization appears at all. He and
+colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)): grokking unfolds as saturation, then bridge
+recovery, then integration of facts. Driscoll and colleagues
+([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md)): slow acquisition of motifs, then fast recombination.

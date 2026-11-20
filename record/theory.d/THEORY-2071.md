@@ -2,7 +2,7 @@
 number: 2071
 status: Proposed
 formerly:
-- THEORY-tmpk9cmk
+- THEORY-2071
 title: 'Hu, Petty, Shi, Merrill and Linzen report that a short first phase of training on a formal language with hierarchical dependencies, before natural-language pretraining, lowers the natural-language tokens a transformer needs to reach a given loss, counting the first phase''s tokens, by a third at 1B parameters against no first phase; that the copy language and random strings raise that cost; and that attention heads found by pruning after the first phase remain more important than random heads after natural-language training'
 version: 1
 source:
@@ -67,3 +67,13 @@ all differ. Petty and colleagues ([THEORY-2078](THEORY-2078.md), shared author) 
 large code shares hurt natural-language tasks; with this account's finding
 that a first phase can run too long, the pair suggests a short, bounded
 dose (the filer's inference). Argued in [ARG-122](../arguments.d/ARG-122.md).
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Zhang, Lepori and Pavlick ([THEORY-tmp51mqd](THEORY-tmp51mqd.md)) go further on mechanism than
+this account's post hoc pruning: the located component alone, transplanted
+with size-matched random controls, carries the saving, at toy scale and
+without counting the first stage. Furuta and colleagues ([THEORY-tmp442o6](THEORY-tmp442o6.md))
+find transplanted grokked modules often raise later cost, a parallel to
+this account's harmful first phases.

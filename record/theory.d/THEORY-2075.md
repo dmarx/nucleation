@@ -2,7 +2,7 @@
 number: 2075
 status: Proposed
 formerly:
-- THEORY-tmpmy98s
+- THEORY-2075
 title: 'Jiang and colleagues find that a brief first phase on procedurally generated abstract data, well under one per cent of the later tokens, lets a language model reach its baseline''s loss with substantially fewer natural-language or code tokens, and that shuffling the procedural sequences or the transferred weights removes the saving'
 version: 1
 source:
@@ -37,3 +37,13 @@ With all weights transferred and embeddings re-initialized, 2.1M procedural toke
 ## Evidence
 
 No seeds on semantic runs; no natural-language warm-up control; procedures selected by downstream grids.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp51mqd THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Complementary interventions: Maennel and colleagues ([THEORY-tmpw5877](THEORY-tmpw5877.md)) keep
+a saving by resampling first-layer filters from their learned covariance,
+where this account removes it by shuffling; Zhang, Lepori and Pavlick
+([THEORY-tmp51mqd](THEORY-tmp51mqd.md)) lose most of it with a same-size random subset of the
+trained weights. Together they place the saving in specific weight
+statistics or components.

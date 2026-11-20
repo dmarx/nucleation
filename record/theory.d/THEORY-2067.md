@@ -2,7 +2,7 @@
 number: 2067
 status: Proposed
 formerly:
-- THEORY-tmpf6s7m
+- THEORY-2067
 title: 'Papadimitriou and Jurafsky find that LSTM language models whose recurrent weights are trained on Java code, on matched-pair parenthesis languages or on MIDI music, then frozen while only the embeddings are finetuned on Spanish, reach far lower Spanish perplexity than ones trained on random text, and that flat crossing pairs transfer as well as nested ones'
 version: 1
 source:
@@ -41,3 +41,12 @@ most of the work.
 
 Five seeds per condition; one target language; corpora unmatched in size
 for music and code; no full-training arm or learning curve.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmpmir63 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Two task-composition readings use this protocol, a frozen trained body
+with only inputs or embeddings retrained: Driscoll and colleagues
+([THEORY-tmpmir63](THEORY-tmpmir63.md)) find it fast when the needed motifs were learned and
+behind full training otherwise; Furuta and colleagues ([THEORY-tmp442o6](THEORY-tmp442o6.md))
+find it pair-specific and often harmful in modular arithmetic.

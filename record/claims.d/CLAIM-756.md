@@ -2,7 +2,7 @@
 number: 756
 status: Proposed
 formerly:
-- CLAIM-tmp5gbzr
+- CLAIM-756
 title: 'An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted'
 version: 1
 role: thesis
@@ -145,6 +145,23 @@ and the attribution studies ([THEORY-2058](../theory.d/THEORY-2058.md), [THEORY-
 immediate alignment, so by construction they cannot see an acquisition's
 effect on later ones, the accounting this claim says is missing. None
 tests the claim's own content. No status change.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpezk6j THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Four of the eight task-composition readings add evidence for the premise
+(corroborates): a transplanted subnetwork for a shared subtask lowers
+later sample cost against a size-matched random one ([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md));
+earlier problems cut later problems' trials to criterion, and barring the
+reused subspace removes the saving ([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)); learned motifs make
+a new task learnable through one input vector ([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md));
+primitives lower a composition's cost with pretraining counted
+([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)); and random-label pretraining, of no direct value on the
+later task, often lowers its cost ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)). Two mark limits:
+mixing sub-tasks in gives little ([THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)), and transplanted
+grokked modules raise later cost as often as they lower it
+([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)). None nets the first stage's cost or tests the
+valuation. No status change.
 
 ## Note of 2026-11-19: Kuhn, read
 <!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->

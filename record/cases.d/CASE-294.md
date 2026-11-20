@@ -2,7 +2,7 @@
 number: 294
 status: Proposed
 formerly:
-- CASE-tmphsr99
+- CASE-294
 title: 'A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work'
 version: 1
 standing: stipulated
@@ -167,3 +167,11 @@ measures alignment, not cost; Blakeney and colleagues ([THEORY-2068](../theory.d
 and Feng, Prabhumoye and colleagues ([THEORY-2076](../theory.d/THEORY-2076.md)) report end-of-run
 scores without a cost to a threshold. None prices a later acquisition by
 checkpoint.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+He and colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)) find that no model composes a new fact
+in the second hop after fine-tuning; a held-out two-hop family built that
+way could fail for reasons unrelated to checkpoint age, a design caution
+for this study.

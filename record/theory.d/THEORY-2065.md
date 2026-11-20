@@ -2,7 +2,7 @@
 number: 2065
 status: Proposed
 formerly:
-- THEORY-tmpd6l4a
+- THEORY-2065
 title: 'Chen and colleagues report that at an equal total budget of training steps, training a language model on a mixture of a target skill''s data with the data of its prerequisite skills reaches a given validation loss on the target in fewer steps, or a lower loss in the same steps, than training on the target''s data alone, and that a sequential curriculum over the same skills does no better than random sampling'
 version: 1
 source:
@@ -59,3 +59,12 @@ a similarity sequence ends worse than random. Opper and colleagues
 ([THEORY-2078](THEORY-2078.md)) find code acts as a prerequisite for formal-output and
 arithmetic targets, not natural-language ones. Analogies; none contradicts
 this account.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmpezk6j THEORY-tmpoqh3f — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Thomm and colleagues ([THEORY-tmpezk6j](THEORY-tmpezk6j.md)) are in tension: mixing a
+composition's sub-tasks into training barely lowers the composed task's
+samples, where mixing prerequisites in saved steps here; the measures
+differ. Ito and colleagues ([THEORY-tmpoqh3f](THEORY-tmpoqh3f.md)) contrast on order: sequence
+decides everything there.

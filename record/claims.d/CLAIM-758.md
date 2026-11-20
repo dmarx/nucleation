@@ -2,7 +2,7 @@
 number: 758
 status: Proposed
 formerly:
-- CLAIM-tmp8ljvp
+- CLAIM-758
 title: 'Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon'
 version: 2
 role: thesis
@@ -227,6 +227,16 @@ switch, part of its cost. The procedural paper ([THEORY-2075](../theory.d/THEORY
 first phase driven to too low a loss worsens later transfer, small-scale.
 Akter and colleagues ([THEORY-2069](../theory.d/THEORY-2069.md)) qualify: reasoning-rich pretraining
 does not worsen later fine-tuning at 8B and 1T tokens, one run per arm.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmpowquo THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Weak parallels from the task-composition readings: frozen grokked modules
+block later grokking that training from scratch reaches ([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)),
+and random-label pretraining can leave later-layer units permanently
+inactive at the switch, reducing later capacity ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)). He and
+colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)) qualify: longer training to grokking does not
+raise later cost there. No time course of stabilization in any of them.
 
 ## Note of 2026-11-19: Kuhn, read
 <!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->

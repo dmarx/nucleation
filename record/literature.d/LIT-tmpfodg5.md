@@ -1,0 +1,46 @@
+---
+status: Active
+status_note: >-
+  Primitives pretraining builds abstract representations that make
+  compositional rules cheaper to learn, pretraining samples counted; no
+  intervention on the representation. Read on 2026-11-19 ([NOTE-tmpbhlth](../notes.d/NOTE-tmpbhlth.md)).
+title: 'Compositional generalization through abstract representations in human and artificial neural networks'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Registered and read on 2026-11-19 at the owner's request
+    (LEAD-006), from arXiv 2209.07431v3 (PDF), compared with the
+    NeurIPS 2022 version. Not held before; the identifier checked on the
+    arXiv API.
+tags:
+- compositionality
+- neuroscience
+- representation-learning
+date: '2026-11-19'
+published: '2022-09-15'
+arxiv: '2209.07431'
+first_author: 'Ito'
+keywords: []
+implementations: []
+summary: >-
+  Ito, Klinger, Schultz, Murray, Cole and Rigotti (NeurIPS 2022), arXiv
+  2209.07431. On a 64-context task built from 4 logic, 4 sensory and 4
+  motor rules, humans generalize to novel contexts and fMRI shows
+  rule-specific abstract (parallel) representations. A small network
+  pretrained on one- and two-rule tasks reaches 92 per cent zero-shot on
+  the full task against 23 per cent without; a network without pretraining
+  needs up to 4.23 times as many samples, pretraining counted, to match;
+  abstraction and generalization rise together during pretraining (r =
+  0.88); reversing the two pretraining stages leaves generalization at
+  chance. Read in [NOTE-tmpbhlth](../notes.d/NOTE-tmpbhlth.md); account [THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md).
+---
+
+# LIT-tmpfodg5: Compositional generalization through abstract representations in human and artificial neural networks
+
+Takuya Ito, Tim Klinger, Douglas H. Schultz, John D. Murray, Michael W. Cole and Mattia Rigotti (2022). "Compositional generalization through abstract representations in human and artificial neural networks". NeurIPS 2022; arXiv 2209.07431.
+
+## Standing in the record
+
+Registered and read on 2026-11-19 at the owner's request, under [LEAD-006](../leads.d/LEAD-006.md).
