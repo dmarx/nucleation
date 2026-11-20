@@ -66,3 +66,16 @@ absolute threshold". So it is not a criterion for when there is an
 additional agent, and read as one it changes the question rather than
 answering it. The criterion is filed as [THEORY-232](../theory.d/THEORY-232.md), which declares no
 relation to this question for that reason.
+
+## Note of 2026-11-20: works cited in the Tomasello interview, read
+<!-- inactive-ok-file: THEORY-tmpqxwyk THEORY-tmpwr5sp — Proposed; the readings' accounts -->
+
+Two contrast cases: Schelling's tacit coordination on focal points
+(LIT-tmp4uor8; account THEORY-tmpqxwyk) and Keller's invisible-hand
+language change (LIT-tmp0ucsz; account THEORY-tmpwr5sp) are patterns of
+coordination, the second sustained across a whole speech community, that
+neither author treats as an additional agent; Tomasello's role of roles
+(LIT-tmp13v45) holds that coordination without a joint goal, as in
+chimpanzee group hunting, has no roles and no joint agent. Evidence on
+where the line falls; relations written: THEORY-tmpqxwyk and
+THEORY-tmpwr5sp bear_on this question.

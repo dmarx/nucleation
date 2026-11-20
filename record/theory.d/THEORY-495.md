@@ -121,3 +121,20 @@ reciprocity as a source of obligation. The 2012 interdependence paper
 evolutionary and developmental scaffolding, with an early form of
 sanctioning oneself on behalf of the group. Background and partial
 support; the promote_when is not met.
+
+## Note of 2026-11-20: works cited in the Tomasello interview, read
+
+Two readings bear on this account. Tomasello's "The role of roles"
+(LIT-tmp13v45, NOTE-tmp2kq0t) restates it in short, with the same
+experiments (role ideals, self-other equivalence, joint commitment as
+collaborative self-regulation, guilt), and adds a cognitive half this
+account lacks; it supports the account as its author's restatement, not as
+independent evidence. Schelling's "Bargaining, Communication, and Limited
+War" (LIT-tmp4uor8, NOTE-tmpi86i1) is a contrast: an equal split is a
+focal point, "arbitrary in its reliance on a kind of recognizable
+mathematical purity" (p. 207), so part of the equal-sharing evidence this
+account reads as fairness inside a joint commitment has a non-normative
+rival, coordination on a salient division by mutual expectation with no
+"we". The studies cited here that compare collaboration with windfalls
+bear on the rival; whether they exclude it is not settled by either
+reading.

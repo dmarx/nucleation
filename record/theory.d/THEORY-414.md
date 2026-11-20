@@ -153,3 +153,12 @@ for this THEORY's promote_when, between human institutions and animal
 correlated equilibria. It also supports the THEORY's condition that what
 makes an equilibrium an institution is the players' representing it as a
 rule.
+
+## Note of 2026-11-20: works cited in the Tomasello interview, read
+<!-- inactive-ok-file: THEORY-tmpqxwyk — Proposed; the reading's account -->
+
+Schelling (LIT-tmp4uor8, NOTE-tmpi86i1; account THEORY-tmpqxwyk) supplies
+the mechanism this account presupposes for selecting among several
+equilibria: focal points, options the shared situation makes prominent and
+unique, on which mutual expectations converge. Support for the selection
+step, read from the account's source of salience.

@@ -234,3 +234,14 @@ felt pain's advantages, which presupposes that the pain is felt. Once
 [CLAIM-435](../claims.d/CLAIM-435.md)'s other premises are held, a split on [THEORY-1110](THEORY-1110.md)'s pattern, an
 Active reading of what Newen and Montemayor propose, is the route that
 would make [CLAIM-435](../claims.d/CLAIM-435.md)'s ground held.
+
+## Note of 2026-11-20: works cited in the Tomasello interview, read
+<!-- inactive-ok-file: THEORY-tmp2aaek — Proposed; the reading's account -->
+
+Solms 2019 (LIT-tmp265t7, NOTE-tmp9hbez; account THEORY-tmp2aaek), a
+stand-in for The Hidden Spring, supports the subcortical, affective
+localisation ("we must conclude that consciousness is generated in the
+upper brainstem", p. 6) and adds a mechanism: feeling as the
+precision-weighting by which an organism prioritises among homeostatic
+needs, "felt uncertainty". It differs in making prioritisation among
+needs, rather than alarm, what makes affect felt.
