@@ -1,0 +1,58 @@
+---
+status: Proposed
+title: 'A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity''s maintenance comes from is shown only by intervention on its production'
+version: 1
+defeated_if: >-
+  A component misstated or misattributed here, with its scope conditions;
+  an in-force entry of the record that states part of this theme left out
+  without a reason given; or a link this account states that no component
+  states. Its standing is its components': a component retired takes its
+  clause with it.
+tags:
+- agency
+- operations-research
+- society-and-governance
+date: '2026-11-20'
+line:
+- will-organization
+- transient-support
+- readiness
+integrates:
+- CLAIM-558
+- CLAIM-422
+- CASE-138
+- CLAIM-602
+- CLAIM-605
+- CLAIM-675
+- CLAIM-673
+- TERM-115
+- CLAIM-414
+- CLAIM-522
+- TERM-100
+---
+
+# SYNTHESIS-tmph7fc9: A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity's maintenance comes from is shown only by intervention on its production
+
+*A thematic account, across lines, of principle P7 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own (ADR-075, step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which ADR-083's one account per scope does not anticipate.*
+
+## The account
+
+**Disuse.** CLAIM-558 (Active, interpretive, thesis): "A procedural capability that operation seldom calls on decays with the time since its last use". A capability kept for rare events "is maintained by practice outside operation, not by operation". Its loss is not observed until a retention test or a real contingency. TERM-115 (Active) defines readiness for a rare contingency "under intervention, so a record of what was done does not measure it".
+
+**Correction is not capacity.** CLAIM-422 (Active, interpretive, thesis): "A successful corrective act, an executable procedure and a maintained organizational capacity are three different things". CASE-138 (Active, documented) is Challenger to Columbia, glossed "A correction recorded is not a capacity maintained."
+
+**Support that does the work.** These hold where capacity is learned by doing and decays with disuse:
+
+- Outside supply that does the work first "lowers the capacity kept", while supply covering only the shortfall leaves learning untouched (CLAIM-602, Active, demonstrated).
+- Where capacity is needed to grow capacity, such support has a deadline after which withdrawal no longer restores capacity (CLAIM-605, Active, demonstrated).
+- Supports equal now can leave different capabilities later (CLAIM-675, Active, demonstrated).
+- An arrangement that does the work through which a collective governs it "can erode the capacity to govern it" (CLAIM-673, Active, interpretive).
+
+**Passive agreement hides differences.** CLAIM-414 (Active, demonstrated): in two finite constructions, matched ordinary trajectories conceal differences in efficacy, its allocation and its maintenance, which a specified intervention exposes.
+
+**Where maintenance comes from.** CLAIM-522 (Active, demonstrated): recovery under interventions on state cannot show where maintenance is realized; only interventions on the production mechanisms can. TERM-100 (Active) separates formation, maintenance and source provenance.
+
+## Not stated on the record
+
+- **Maintenance is known only by intervention,** for capacities in general. The manuscript's P7 stated this. CLAIM-558 and TERM-115 hold it for capacities that operation seldom calls on. A capacity exercised daily is shown by operation.
+- **That whether a capacity is maintained and where its maintenance comes from are one question.** CLAIM-522 is about the second.
