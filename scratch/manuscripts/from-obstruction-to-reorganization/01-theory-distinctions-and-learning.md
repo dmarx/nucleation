@@ -72,7 +72,7 @@ The record's formal results show four ways in which the tidy picture breaks:
 - **Bounded observers trade tasks.** For one bounded observer, a transformation of a representation "can make one task's distinction legible and another's illegible at once" (CLAIM-455, Active, demonstrated).
 - **Averages and non-nested probes lose the guarantee.** The monotone growth of CLAIM-574 holds only for nested probes compared probe by probe. An averaged comparison does not carry it.
 
-**The second principle follows.** As a learning system's resources grow, its categories may need to split, merge, or be re-carved, and only an ideal observer with nested probes is guaranteed only to split. Any theory of learning that equates learning with refinement mistakes a special case for the general one.
+**The second principle follows.** As a learning system's resources grow, its categories may need to split, merge, or be re-carved. What can be told apart only splits, along nested probes compared probe by probe. What is optimal to keep is a different object, and can re-carve. Some learners are guaranteed nested optima: the record holds a nesting result for the information bottleneck with side information (NOTE-676). So refinement is one case, with conditions of its own, and not the general one.
 
 ### 2.4 What a system can see, and what it can certify about its own categories
 
@@ -140,7 +140,7 @@ The account has a classical ancestor in Ashby's ultrastability. A second feedbac
 - it requires the product to be maintained and to transfer;
 - it asks whose process produced the product (§3.4).
 
-**The fifth principle follows.** Learning, in the sense that matters for inquiry, is the formation of a maintained capacity, a new distinction or a new channel, occasioned by a discrepancy the system could not resolve. A discrepancy may be borne without anything forming, as below the threshold in CASE-191's construction. A discrepancy can also be "settled" by giving up a demand, which is capitulation, not learning.
+**The fifth principle follows.** An unresolved discrepancy is an occasion, and a sufficient condition, for one important kind of learning: the formation of a maintained capacity, a new distinction or a new channel. CLAIM-532 states a sufficient condition, not a definition. The record's proposed definition of learning is broader (TERM-131, Proposed): latent learning, such as an unrewarded exploration that forms a map used later, is learning with no discrepancy. A discrepancy may be borne without anything forming, as below the threshold in CASE-191's construction. A discrepancy can also be "settled" by giving up a demand, which is capitulation, not learning.
 
 ### 3.3 What does not count
 

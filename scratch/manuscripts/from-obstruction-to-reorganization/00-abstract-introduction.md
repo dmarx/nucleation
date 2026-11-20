@@ -12,7 +12,7 @@ We present a general theory of learning and inquiry, intended to apply to any sy
 
 - **Distinctions are relative.** A distinction is relative to a target and a regime. A new one is needed exactly when situations treated alike call for different acceptable actions.
 - **Budgets pull both ways.** More resource for observing splits categories; more resource for acting merges them. Optimal categories at a larger budget can re-carve rather than refine.
-- **Learning is the formation of a maintained capacity.** The capacity is a new distinction or a new channel. It is occasioned by an unresolved discrepancy and not guaranteed by it, and it is tested by transfer and by intervention while it forms.
+- **Learning as the formation of a maintained capacity.** One central kind of learning forms a maintained capacity: a new distinction or a new channel. An unresolved discrepancy is a sufficient occasion for it, but does not guarantee it. It is tested by transfer and by intervention while it forms.
 - **Three ledgers.** Forming, keeping and changing a capacity are separate costs. A capacity's maintenance is known only by intervention, and support that does the work a capacity is learned from erodes it.
 - **Inquiry is a form of specification that can revise what counts as an answer.** It becomes reflexive when its language, answer space, criteria or resources become its object.
 - **Transmission and collectives.** Without anchors, transmitted content drifts toward the transmitters' priors. A collective learns only through a chain of separable achievements, from admission to the revision of its own standards.

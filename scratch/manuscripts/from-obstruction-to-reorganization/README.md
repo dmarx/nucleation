@@ -50,7 +50,7 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 
 ## Open items for the owner
 
-1. **The principles as claims.** P1–P10 (§7.1) and the predicted cycle (§7.2) integrate entries the record holds, across several lines. The census findings (§§13, 15) are new results about the record. Should either be filed, for example as claims and an executed-study CASE in `record-as-apparatus`?
+1. **The principles in the record.** Filed on dmarx/nucleation#557. The census is a CASE and two claims. P1 and P3 are already stated. P2 and P4–P10 are SYNTHESIS accounts. One narrowed part of the cycle is a claim. Section 7.4 reports the audit. Open: whether thematic, cross-line accounts are a kind the record wants (ADR-083).
 2. **ADR-048's flag.** The 237 entries carrying `anthology-candidate` were never revisited when its meaning changed (§15.2). That is a finding, and also a repair the record may want.
 3. **POSTMORTEM-002's summary** (§14.5). Cite it as of a dated commit, or correct it in the record.
 4. **The work.** Keep `luria-nucleating-an-argument` with its blurb revised, or give this paper a new `works` term?
