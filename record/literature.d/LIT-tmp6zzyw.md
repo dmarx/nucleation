@@ -1,0 +1,52 @@
+---
+status: Active
+status_note: >-
+  Read in part on 2026-11-19 (pp. 1–6) as a further stand-in beside
+  Kindi's essay for Kuhn's unread "The Essential Tension" (LIT-2882);
+  NOTE-2177 quotes Andersen 2000 as it reports him. Registered on
+  2026-11-20 under ADR-tmp59tp7; the copy's address, not recorded by the
+  reader, was confirmed on 2026-11-20 by matching the downloaded text
+  against the newsletter PDF. Its longer version is Matthews, Science &
+  Education 33 (2024), not read.
+title: 'Thomas Kuhn and Science Education: A Troubled Connection'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Registered on 2026-11-20 at the owner's request under ADR-tmp59tp7: it
+    was read beside another work and quoted in that work's NOTE, but had
+    no entry of its own. Read on 2026-11-19 by the delegated reader of the
+    Kuhn works (running notes on the branch claude/readers/kuhn): pp. 1–6,
+    from the newsletter PDF. The address was confirmed on 2026-11-20 by
+    matching the saved text against the PDF at the cited URL. Quotations
+    rechecked by the filer by script against the downloaded text.
+tags:
+- philosophy-of-science
+- learning-theory
+date: '2026-11-20'
+published: '2022-04-01'
+url: 'https://www.hpsst.com/uploads/6/2/9/3/62931075/aproped2022.pdf'
+first_author: 'Matthews'
+keywords: []
+implementations: []
+summary: >-
+  Matthews's newsletter opinion piece on Kuhn's influence on science
+  education, good in bringing history and philosophy of science to many,
+  flawed on key points of his account of science. Cited in the record for
+  Andersen's two readings of "The Essential Tension". Read in
+  NOTE-tmpflvs8.
+---
+<!-- inactive-ok-file: ADR-tmp59tp7 — Proposed; the decision under which this work is registered -->
+
+# LIT-tmp6zzyw: Thomas Kuhn and Science Education: A Troubled Connection
+
+Michael R. Matthews (2022). "Thomas Kuhn and Science Education: A Troubled Connection". Opinion piece, HPS&ST Newsletter, April 2022; copy read: https://www.hpsst.com/uploads/6/2/9/3/62931075/aproped2022.pdf.
+
+## Standing in the record
+
+Registered on 2026-11-20 at the owner's request under ADR-tmp59tp7: it was
+read beside another work and quoted in that work's NOTE, but had no entry
+of its own. It was read in support of Kindi's essay on "The Essential
+Tension" (LIT-2885, NOTE-2177), and is filed so that what the record
+quotes from it has an entry that says what it is.
