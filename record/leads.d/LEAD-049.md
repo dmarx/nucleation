@@ -6,6 +6,7 @@ formerly:
 title: 'Prove a restricted theorem for a population of adaptive operators: sufficient conditions, for symmetric competitive interactions and bounded niche adaptation, for a locally stable differentiated equilibrium in which every specialist can reinvade'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 tags:

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpdesma
 title: 'Run audited governance against a contextual router, given the same audit delay and cost, after expertise reverses and in the arms where a router could lose'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

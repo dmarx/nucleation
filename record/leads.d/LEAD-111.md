@@ -6,6 +6,7 @@ formerly:
 title: 'Construct the operational cover as a family of contexts with restriction maps, or give the operational notion its own name'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - conceptual

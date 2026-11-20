@@ -6,6 +6,7 @@ formerly:
 title: 'Construct a manipulated will and its unmanipulated twin and find a present-structure feature that tells them apart, or argue that none can and state what a record of the will''s formation must contain'
 version: 1
 stage: idea
+priority: high
 method:
 - conceptual
 tags:

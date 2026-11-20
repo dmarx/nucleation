@@ -6,6 +6,7 @@ formerly:
 title: 'Resolve the tension between the claims on curation as revision and on admission'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 tags:

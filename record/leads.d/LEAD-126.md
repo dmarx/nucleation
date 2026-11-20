@@ -6,6 +6,9 @@ formerly:
 title: 'Read the work on constitutive relevance for where maintenance is realized'
 version: 1
 stage: idea
+priority: high
+blocked_on:
+- 'a copy of the work behind SSRN, which the owner must supply; the others can be read now'
 method:
 - reading
 tags:

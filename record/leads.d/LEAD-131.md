@@ -6,6 +6,7 @@ formerly:
 title: 'Fix who bears the duty not to reproduce projections and which sense of organization the claim uses'
 version: 1
 stage: idea
+priority: high
 method:
 - conceptual
 tags:

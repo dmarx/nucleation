@@ -6,6 +6,7 @@ formerly:
 title: 'Build a small stochastic assembly model in which support can be withdrawn at chosen intermediate states and the nucleus''s relations switched on as a state and as a rate modifier separately'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 - empirical

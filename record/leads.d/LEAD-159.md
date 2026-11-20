@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpt1z9t
 title: 'Test corrigible resolve against entrenchment: perturb or ablate a learner''s slow influence structure with task information and capacity held fixed'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpb8gee
 title: 'Compare two arrangements whose overseer has the same authority and resources and that differ only in how fast the acting institution can act'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 - historical

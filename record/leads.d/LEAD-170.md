@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpuoufv
 title: 'Run repeated reconstruction chains, cross-modal (text, image, caption, image) against text-only of the same length, scored with an overlapping-context design at each stage'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmprscqw
 title: 'Measure, for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

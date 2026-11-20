@@ -6,6 +6,7 @@ formerly:
 title: 'Measure in the reconstructed exchanges each restatement''s distance from its original against whether it was re-derived as new, and coded against uncoded items, with raters blind to direction'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

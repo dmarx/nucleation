@@ -6,6 +6,7 @@ formerly:
 title: 'Read the meta-analysis of procedural skill retention and decay'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

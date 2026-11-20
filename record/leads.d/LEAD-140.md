@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpp167n
 title: 'Compare an earlier and a later improver of a record-keeping collective from the same fresh state at the same budget, then damage its diagnostic machinery'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

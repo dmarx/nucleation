@@ -6,6 +6,7 @@ formerly:
 title: 'Find or design a study that measures the self''s extent apart from caring and tests whether concern for future people and for one''s legacy follows it, including legacy priming where no one will know'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 - empirical

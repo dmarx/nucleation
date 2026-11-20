@@ -6,6 +6,7 @@ formerly:
 title: 'State the operational equivalences among renderings a pragmatic experiment assumes and derive the noncontextual inequality they imply'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - operationalization

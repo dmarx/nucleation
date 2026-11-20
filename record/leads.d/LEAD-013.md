@@ -5,7 +5,7 @@ formerly:
 - LEAD-tmptdlel
 title: 'Run the identity-acquisition study: when does a capability reachable by sampling become reliable in training, and does reliability coincide with the learned identity becoming localized'
 version: 1
-stage: idea
+stage: specified
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Measure whether the features of model soups and SWA iterates equal the average of their members'' features, and the barrier after alignment against depth at fixed width, including in transformers'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - empirical

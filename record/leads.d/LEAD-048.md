@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp7x1yb
 title: 'Run maintained inquiry under damage: a second correction after the diagnostic and copying machinery is injured, in a world that leaves its hypothesis family, with evidence generation, admission and scoring separately lesionable'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

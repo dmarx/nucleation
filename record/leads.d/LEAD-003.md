@@ -5,7 +5,7 @@ formerly:
 - LEAD-tmp8quyn
 title: 'Study community formation on Reddit as it happens: monthly user and link graphs around the creation of new subreddits, tracking where founders come from, whether the community individuates and lasts, and whether it makes further communities cheaper to form'
 version: 1
-stage: idea
+stage: specified
 method:
 - empirical
 - historical

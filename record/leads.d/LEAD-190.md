@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpy1k4c
 title: 'Simulate the population comparisons the authority-grant claims name: role-indexed against scalar grants, and operators bound by the two grant conditions'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - formal
 tags:

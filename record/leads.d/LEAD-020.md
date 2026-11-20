@@ -6,6 +6,7 @@ formerly:
 title: 'Simulate an interpretation loop that does not lock in with action held fixed, and show which candidate''s removal makes it lock in'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

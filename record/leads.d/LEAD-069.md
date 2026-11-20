@@ -6,6 +6,7 @@ formerly:
 title: 'Decide whether the record individuates the Game of Life block and eater, so that the Life constructions meet both halves of the answer to the achievement question'
 version: 1
 stage: idea
+priority: high
 method:
 - conceptual
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Train on synthetic data with a known tree and spectral strength per level varied independently of the tree, and map when acquisition is coarse-first, fine-first, simultaneous or mixed'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 - formal

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpj7wct
 title: 'Run the perspective-transplantation simulation, to tell numerical continuation, branching descent and reconstitution apart'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

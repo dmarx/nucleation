@@ -6,6 +6,7 @@ formerly:
 title: 'Check on a non-lattice system of coupled agents whether variables chosen for informativeness across a buffer match the gap-isolated block'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - empirical

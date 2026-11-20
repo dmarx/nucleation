@@ -6,6 +6,7 @@ formerly:
 title: 'Bound the commutator of Conjecture A''s kind for the hierarchy question, reading Nadler and colleagues first'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - formal

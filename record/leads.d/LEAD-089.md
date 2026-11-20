@@ -6,6 +6,7 @@ formerly:
 title: 'Model Northstar with control and metacontrol mechanisms alone and then with a will-organization over them, price the difference, and set planning, control and institutional theory beside the account'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 - conceptual

@@ -6,6 +6,7 @@ formerly:
 title: 'Read the works on remedies and correction, Levinson first'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

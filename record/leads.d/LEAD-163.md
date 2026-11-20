@@ -6,6 +6,7 @@ formerly:
 title: 'Close the open slot in the admission case that would otherwise defeat its claim'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 tags:

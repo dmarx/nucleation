@@ -6,6 +6,7 @@ formerly:
 title: 'Read Golub and Jackson''s Proposition 2 and Theorem 3 with their definitions of influence and wisdom for several closed groups'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Derive the PMI spectrum of a co-occurrence model with implication among binary attributes, and measure PMI additivity across a known hierarchy and across analogy families'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 - empirical

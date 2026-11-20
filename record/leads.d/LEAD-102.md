@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmphqkoe
 title: 'Run the factorial study of wording, attributed speaker and judgement order, with hierarchical, sequential and quantum models compared and the order effects of different renderings of the same sources'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

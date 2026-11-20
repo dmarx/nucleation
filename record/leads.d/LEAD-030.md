@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp3983g
 title: 'Run the laboratory of genres, which separates classes inferred, classes used and classes that reshape preferences'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

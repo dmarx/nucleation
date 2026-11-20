@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp5pwlw
 title: 'Run the forgetting study in small transformers: whether apparent forgetting is loss, readdressing, interference or suppression'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

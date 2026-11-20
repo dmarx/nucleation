@@ -6,6 +6,7 @@ formerly:
 title: 'Build signalling estimators with bias correction and a stated sampling error, or a signalling test with a stated null, and apply them to the published systems with their occurrence counts'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

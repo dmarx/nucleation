@@ -6,6 +6,7 @@ formerly:
 title: 'Compare an RL-trained model with no verifier against its base under best-of-N with the training verifier, at matched total compute and across k, after searching for work that already does so'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - empirical

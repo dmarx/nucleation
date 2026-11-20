@@ -6,6 +6,7 @@ formerly:
 title: 'Find studies in which a term is added to, lost from or merged in a language''s inventory and the use of its neighbours is measured against terms outside the field'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

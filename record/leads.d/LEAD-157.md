@@ -6,6 +6,7 @@ formerly:
 title: 'Measure the permutation-aligned barrier over several path families, and test whether alignment always removes the barrier between networks known to share a mechanism'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

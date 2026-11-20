@@ -6,6 +6,7 @@ formerly:
 title: 'Compare a sheaf route that allows signalling with Contextuality-by-Default 2.0 on one signalling data set, where their verdicts diverge'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - empirical

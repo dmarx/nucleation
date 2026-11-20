@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpeng6t
 title: 'Run governed schema adaptation with a performance-gated arm, including its secondary estimand on routine tasks'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

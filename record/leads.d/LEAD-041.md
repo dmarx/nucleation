@@ -6,6 +6,7 @@ formerly:
 title: 'Specify a procedure that reads from a record of conduct which ordering prevails, how strongly and whether it resumes, separating ambivalence from neutrality; and argue that the model''s two channels are perspectives'
 version: 1
 stage: idea
+priority: high
 method:
 - conceptual
 - formal

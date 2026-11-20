@@ -6,6 +6,7 @@ formerly:
 title: 'Train small recurrent networks with a Z2 symmetry on a boundary-dependent task, compute the four candidate partitions of the hidden field, and move walls by intervention'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

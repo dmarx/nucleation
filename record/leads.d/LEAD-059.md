@@ -6,6 +6,7 @@ formerly:
 title: 'File the demonstrated corollary that answers part of the question on reinforcing loops'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

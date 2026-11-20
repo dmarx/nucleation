@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp2guat
 title: 'Simulate populations with the same turnover and aggregate statistics where the criteria of individuality disagree, and test a search procedure and a lagged block criterion against them'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 - formal

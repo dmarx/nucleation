@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpiwm65
 title: 'Work the part-whole case through to one of its three results: which relation of part to whole grounds a norm concerning the part, and who bears the obligation'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - conceptual
 tags:

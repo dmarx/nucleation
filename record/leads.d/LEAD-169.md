@@ -6,6 +6,7 @@ formerly:
 title: 'Run the reader test with Russian readers as the reference for Dolly''s slip into the familiar form, against the English versions'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

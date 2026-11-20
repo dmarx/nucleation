@@ -6,6 +6,7 @@ formerly:
 title: 'Bound the dynamical dependence of a block''s aggregate in terms of off-block coupling, gap and noise, linear Gaussian VAR(1) first'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

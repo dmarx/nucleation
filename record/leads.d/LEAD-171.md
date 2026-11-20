@@ -6,6 +6,7 @@ formerly:
 title: 'Write a threshold version of the crowding-out model'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

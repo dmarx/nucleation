@@ -6,6 +6,7 @@ formerly:
 title: 'Run the study of investigators starting from an equilibrium-only schema on a synthetic oscillatory system, with three regimes on the same benchmarks'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

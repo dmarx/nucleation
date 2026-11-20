@@ -6,6 +6,7 @@ formerly:
 title: 'Read the consumer-resource competition works'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Test whether corporations changed only by sanction keep weighing others'' harms once the sanction is lifted, with reputation and benefit held fixed'
 version: 1
 stage: idea
+priority: medium
 method:
 - historical
 - reading

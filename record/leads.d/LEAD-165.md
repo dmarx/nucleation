@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmptx3gm
 title: 'Run the language-model experiments on frame commutation and on in-context learning against test-time training'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Read the works on bidirectional violence'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

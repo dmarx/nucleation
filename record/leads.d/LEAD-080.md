@@ -6,6 +6,7 @@ formerly:
 title: 'Run the readiness simulator twice, with each period''s budget set to the last period''s peak spending and with carry-over'
 version: 1
 stage: specified
+priority: high
 method:
 - formal
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Find cases where access and experience come apart and each kind of evidence follows one of them: superblindsight, inconspicuous rivalry recorded intracranially, a marker accepted in advance'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmphj0rz
 title: 'Run the coupling, correspondence-map and revision-apparatus network study with its three added arms, including displacing a shared drive for one member only'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 - formal

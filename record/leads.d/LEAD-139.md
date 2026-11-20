@@ -6,6 +6,7 @@ formerly:
 title: 'Test relational measures against surface or embedding similarity as predictors of trope-identity judgements on recasts, with held-out trope families'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

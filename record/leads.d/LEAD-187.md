@@ -6,6 +6,7 @@ formerly:
 title: 'Find or run a transmission chain whose endpoint is compared with a prior measured on its own transmitters before transmission, and chains started from different stances'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 - empirical

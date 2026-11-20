@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpjqhbi
 title: 'Run stochastic and factorial assembly scored by committor'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 - formal

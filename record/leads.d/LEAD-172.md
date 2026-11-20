@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmput8rh
 title: 'Run the modular-addition checkpoint study and its prospective test: fit the coupled feature-circuit description on early checkpoints and predict later functional change under held-out training interventions'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

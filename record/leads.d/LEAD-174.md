@@ -6,6 +6,7 @@ formerly:
 title: 'Estimate per-step kernels from several independent retellers per generation on held-out and perturbed inputs, in a metric fixed beforehand, and predict end-to-end drift'
 version: 1
 stage: idea
+priority: medium
 method:
 - operationalization
 - empirical

@@ -6,6 +6,7 @@ formerly:
 title: 'Find out whether the league, the club or its supporters count the 2005 Washington Nationals as the original Senators'' continuation'
 version: 1
 stage: idea
+priority: medium
 method:
 - historical
 tags:

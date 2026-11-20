@@ -6,6 +6,7 @@ formerly:
 title: 'Give receivers a report task and a re-performance task on the same renderings, and classify the line''s central cases as reports or re-performances'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 - conceptual

@@ -6,6 +6,7 @@ formerly:
 title: 'Run tolerance-based balanced colouring on relational-rule MLPs and test whether the rule direction lies in the synchrony subspace as flip rate rises'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

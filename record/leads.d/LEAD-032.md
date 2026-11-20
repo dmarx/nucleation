@@ -6,6 +6,7 @@ formerly:
 title: 'Search the treatment literature for dismantling trials that cut a maintaining link with exposure held fixed, or for individual data showing hysteresis'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

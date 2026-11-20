@@ -6,6 +6,7 @@ formerly:
 title: 'For each closure condition, in a linear Gaussian VAR, construct a case that meets the other four and fails it, or prove that the other four entail it'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 tags:

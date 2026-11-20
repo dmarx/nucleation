@@ -6,6 +6,7 @@ formerly:
 title: 'Construct three institutions in two arrangements alike in routine, one with enforcement independent of the executive and one in which the executive can condition it'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 - formal

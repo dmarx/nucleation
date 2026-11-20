@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpfn6o3
 title: 'Run the memory ablation for revision on synthetic inquiries, with MEME''s Cascade and Absence tasks as an external testbed, under two ingestion modes'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

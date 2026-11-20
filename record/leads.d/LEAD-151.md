@@ -6,6 +6,7 @@ formerly:
 title: 'Test whether protective authority declines when an independently measured threat declines, in documented emergency regimes'
 version: 1
 stage: idea
+priority: medium
 method:
 - historical
 tags:

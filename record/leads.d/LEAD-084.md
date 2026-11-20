@@ -6,6 +6,7 @@ formerly:
 title: 'Find conditions under which a reduced process has a finite-dimensional Markovian augmentation beyond the scalar linear Gaussian case'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:
