@@ -95,7 +95,7 @@ close.
 ## Note of 2026-11-20: arrival times under equalized rates
 
 This reading gives each mode's wait as of order its inverse strength times
-the log of the inverse initial scale. CLAIM-tmpmugkp gives the counterpart
+the log of the inverse initial scale. [CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md) gives the counterpart
 when each layer's update is the polar factor of its gradient: from the same
 decoupled, balanced start, a mode reaches half its strength at √(s/2)/lr, so
 the order of arrival reverses. Checked by simulation from a random small

@@ -33,6 +33,6 @@ Yang, Simon and Bernstein. arXiv 2310.17813 (2023).
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
 and drift results to μP, depth scaling and modular duality. Not read;
-LEAD-tmp8q1aw is the plan to read it. Flagged anthology-candidate: the
+[LEAD-tmp8q1aw](../leads.d/LEAD-tmp8q1aw.md) is the plan to read it. Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

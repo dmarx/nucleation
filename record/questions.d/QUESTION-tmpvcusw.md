@@ -10,11 +10,11 @@ date: '2026-11-20'
 line:
 - learned-structure
 summary: >-
-  CLAIM-tmpmugkp shows that in a two-layer linear network, equalizing the
+  [CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md) shows that in a two-layer linear network, equalizing the
   rates of singular directions within a layer reverses and compresses the
   order in which modes are learned. Saxe and colleagues read the gradient
   descent order as progressive differentiation of a hierarchy of
-  categories (THEORY-186). Whether the reversal survives nonlinearity,
+  categories ([THEORY-186](../theory.d/THEORY-186.md)). Whether the reversal survives nonlinearity,
   depth, momentum and noise, and shows in networks trained with such
   updates in practice, is open.
 ---
@@ -24,11 +24,11 @@ summary: >-
 
 ## What makes it open
 
-CLAIM-tmpmugkp is a derivation for a two-layer linear network from small
+[CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md) is a derivation for a two-layer linear network from small
 weights, checked by simulation. Three things stand between it and trained
 networks: nonlinearity, which couples modes; momentum, which smooths the
 polar step; and the Newton–Schulz approximation to the polar factor that
-practical implementations use (LIT-tmpp6b7j), which does not set every
+practical implementations use ([LIT-tmpp6b7j](../literature.d/LIT-tmpp6b7j.md)), which does not set every
 singular value exactly to one.
 
 ## What would count as an answer

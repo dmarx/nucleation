@@ -22,7 +22,7 @@ published: '2023-09-28'
 arxiv: '2309.16620'
 first_author: 'Bordelon'
 summary: >-
-  Bordelon, Noci, Li, Hanin and Pehlevan (2023). Its abstract: residual networks with "a residual branch scale of 1/√depth in combination with the μP parameterization" transfer optimal hyperparameters across width and depth, and DMFT gives "a well-defined feature learning joint infinite-width and infinite-depth limit". Here for CLAIM-tmp2yj4t: the 1/√depth branch scale is the diffusive row of CLAIM-tmphedau's drift table. Unverified until read.
+  Bordelon, Noci, Li, Hanin and Pehlevan (2023). Its abstract: residual networks with "a residual branch scale of 1/√depth in combination with the μP parameterization" transfer optimal hyperparameters across width and depth, and DMFT gives "a well-defined feature learning joint infinite-width and infinite-depth limit". Here for [CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md): the 1/√depth branch scale is the diffusive row of [CLAIM-tmphedau](../claims.d/CLAIM-tmphedau.md)'s drift table. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmphedau — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
 
@@ -34,6 +34,6 @@ Bordelon, Noci, Li, Hanin and Pehlevan. arXiv 2309.16620 (2023).
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
 and drift results to μP, depth scaling and modular duality. Not read;
-LEAD-tmp8q1aw is the plan to read it. Flagged anthology-candidate: the
+[LEAD-tmp8q1aw](../leads.d/LEAD-tmp8q1aw.md) is the plan to read it. Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

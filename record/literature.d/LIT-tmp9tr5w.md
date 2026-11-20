@@ -22,7 +22,7 @@ published: '2020-11-30'
 arxiv: '2011.14522'
 first_author: 'Yang'
 summary: >-
-  Yang and Hu (2020). Tensor Programs IV. Classifies parameterizations of wide networks by how each layer's initialization, multiplier and learning rate scale with width, separates kernel (lazy) limits from feature-learning limits, and identifies the maximal update parameterization (μP). Here because a parameterization fixes the exponent with which each layer's rate scales with width, the ε^U form of the record's rate-difference claims, and the lazy limit freezes hidden layers into constraints (CLAIM-tmpqwoxz). Unverified until read.
+  Yang and Hu (2020). Tensor Programs IV. Classifies parameterizations of wide networks by how each layer's initialization, multiplier and learning rate scale with width, separates kernel (lazy) limits from feature-learning limits, and identifies the maximal update parameterization (μP). Here because a parameterization fixes the exponent with which each layer's rate scales with width, the ε^U form of the record's rate-difference claims, and the lazy limit freezes hidden layers into constraints ([CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpqwoxz — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
 
@@ -34,6 +34,6 @@ Yang and Hu. arXiv 2011.14522 (2020).
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
 and drift results to μP, depth scaling and modular duality. Not read;
-LEAD-tmp8q1aw is the plan to read it. Flagged anthology-candidate: the
+[LEAD-tmp8q1aw](../leads.d/LEAD-tmp8q1aw.md) is the plan to read it. Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

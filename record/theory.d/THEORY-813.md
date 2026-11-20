@@ -61,10 +61,10 @@ A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): Poole and colleagues' layerwi
 
 ## Note of 2026-11-20: the lazy regime as two levels
 
-CLAIM-tmpqwoxz reads the lazy, kernel regime this reading describes as a
+[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md) reads the lazy, kernel regime this reading describes as a
 separation of rates: the hidden features move by a vanishing amount while the
 output is fit, so the features act as a slow level constraining the fast
-readout, in the sense of CLAIM-478 (version 5). Feature learning, which this
+readout, in the sense of [CLAIM-478](../claims.d/CLAIM-478.md) (version 5). Feature learning, which this
 reading says alone produces neural collapse, is then what happens when the
 hidden layers are not slower than the readout by a factor that grows with
 width. A bearing of use; nothing here tests the reading.

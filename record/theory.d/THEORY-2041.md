@@ -60,10 +60,10 @@ The direct ancestor, read ([THEORY-2031](THEORY-2031.md); [NOTE-2099](../notes.d
 
 ## Note of 2026-11-20: the ordered phase as contraction in depth
 
-CLAIM-tmp2yj4t reads depth as a restatement chain. In this reading's ordered
+[CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md) reads depth as a restatement chain. In this reading's ordered
 phase each layer pulls the correlation between inputs toward its fixed point,
-which is the contracting row of CLAIM-tmphedau's drift model: the input is
+which is the contracting row of [CLAIM-tmphedau](../claims.d/CLAIM-tmphedau.md)'s drift model: the input is
 forgotten geometrically, over this reading's depth scale. A residual skip
-connection moves the chain to the copied-with-error row. CLAIM-tmp2yj4t
+connection moves the chain to the copied-with-error row. [CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md)
 grounds on this reading for that row; it adds nothing to the reading's
 mean-field result.

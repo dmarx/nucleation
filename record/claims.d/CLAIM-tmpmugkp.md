@@ -27,16 +27,16 @@ summary: >-
   The owner asked (2026-11-20) whether the record's rate-difference and
   time-scale results connect to μP depth scaling and the modular duality
   program. One link is within a layer: modular dualization of a linear
-  layer (LIT-tmpp6b7j) is steepest descent in the spectral norm, whose
+  layer ([LIT-tmpp6b7j](../literature.d/LIT-tmpp6b7j.md)) is steepest descent in the spectral norm, whose
   update is the polar factor of the gradient, the same unit step in every
-  singular direction. Saxe's deep linear dynamics (THEORY-186, THEORY-740)
+  singular direction. Saxe's deep linear dynamics ([THEORY-186](../theory.d/THEORY-186.md), [THEORY-740](../theory.d/THEORY-740.md))
   learn modes in order of strength because gradient descent moves each at
   a rate set by its strength. With the rates equalized, the order is set
   by how far each mode must travel instead: weakest first, in time ∝ √s.
   Derived and checked by simulation. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpp6b7j CLAIM-tmpy75jv QUESTION-tmpvcusw CLAIM-478 THEORY-186 — Proposed, Deferred or Open; the work this applies and the claims it bears on -->
+<!-- inactive-ok-file: LIT-tmpp6b7j CLAIM-tmpy75jv CLAIM-478 THEORY-186 — Proposed, Deferred or Open; the work this applies and the claims it bears on -->
 
 # CLAIM-tmpmugkp: In a two-layer linear network learning from small weights, steepest descent in the spectral norm, which moves every singular direction of each layer at the same rate, learns the modes of the input–output correlation in a time proportional to the square root of their strength, weakest first, where gradient descent learns them in a time proportional to the inverse of their strength, strongest first: equalizing rates within a layer reverses and compresses the staged hierarchy of learning rather than removing it
 
@@ -46,7 +46,7 @@ Let a network f(x) = W₂W₁x learn the input–output correlation
 Σ = U diag(s) Vᵀ on whitened inputs, with loss ½‖Σ − W₂W₁‖², from small
 weights.
 
-**Gradient descent** (THEORY-186, THEORY-740, Saxe and colleagues): from a
+**Gradient descent** ([THEORY-186](../theory.d/THEORY-186.md), [THEORY-740](../theory.d/THEORY-740.md), Saxe and colleagues): from a
 decoupled, balanced start each mode's strength rises logistically after a wait
 of order (1/s)·log(1/ε₀), so modes arrive strongest first.
 
@@ -54,7 +54,7 @@ of order (1/s)·log(1/ε₀), so modes arrive strongest first.
 −lr·polar(G), where G is the layer's gradient and polar(G) = PQᵀ for G = PDQᵀ:
 every nonzero singular direction of the gradient moves by the same amount, lr.
 This is the duality map for the spectral norm, which modular dualization
-assigns to linear layers (LIT-tmpp6b7j).
+assigns to linear layers ([LIT-tmpp6b7j](../literature.d/LIT-tmpp6b7j.md)).
 
 **Derivation.** From a decoupled, aligned, balanced start, W₁ = diag(a)Vᵀ and
 W₂ = U diag(a) in the target's bases, the gradients are diagonal in the same
@@ -85,7 +85,7 @@ entry of 2026-11-20, 234553). Steps to half-learn each mode:
 
 ## What it bears on
 
-- **Rate differences within a layer.** CLAIM-tmpy75jv and CLAIM-478 (version
+- **Rate differences within a layer.** [CLAIM-tmpy75jv](CLAIM-tmpy75jv.md) and [CLAIM-478](CLAIM-478.md) (version
   5) say a hierarchy shows where rate differences between levels beat the
   spread within. Gradient descent's staged learning is a hierarchy in training
   time made by rate differences between modes. Equalizing the rates does not
@@ -93,9 +93,9 @@ entry of 2026-11-20, 234553). Steps to half-learn each mode:
   from a spread of r to √r and reversed. By the between-against-within test,
   its levels are harder to resolve.
 - **Progressive differentiation.** Saxe and colleagues read the staged order
-  as coarse-to-fine learning of a hierarchy of categories (THEORY-186). On
+  as coarse-to-fine learning of a hierarchy of categories ([THEORY-186](../theory.d/THEORY-186.md)). On
   this claim, a network trained with orthogonalized updates would show it
-  weakly or reversed. Whether real networks do is QUESTION-tmpvcusw.
+  weakly or reversed. Whether real networks do is [QUESTION-tmpvcusw](../questions.d/QUESTION-tmpvcusw.md).
 
 ## What it does not say
 

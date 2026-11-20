@@ -30,13 +30,13 @@ grounds:
 summary: >-
   The second link the owner asked for, between the record's time-scale
   results and depth scaling. A residual block x_(l+1) = x_l + L^(−α) f_l(x_l)
-  is CLAIM-tmphedau's step with the skip as an exact copy and the branch
+  is [CLAIM-tmphedau](CLAIM-tmphedau.md)'s step with the skip as an exact copy and the branch
   as the error. The record's drift table then says why branch scales
   differ: zero-mean contributions accumulate as √L, systematic ones as L.
   Bordelon and colleagues' abstract states the 1/√depth branch scale; the
   assistant's recollection that depth-μP's learned changes land at order
-  1/L per block is unverified until LIT-tmp4peep is read. Without skips,
-  Schoenholz's ordered phase (THEORY-2041) is the contracting row. The
+  1/L per block is unverified until [LIT-tmp4peep](../literature.d/LIT-tmp4peep.md) is read. Without skips,
+  Schoenholz's ordered phase ([THEORY-2041](../theory.d/THEORY-2041.md)) is the contracting row. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -47,7 +47,7 @@ summary: >-
 ## The claim
 
 A residual block maps x_l to x_(l+1) = x_l + L^(−α)·f_l(x_l). Read depth as
-the steps of CLAIM-tmphedau's restatement chain: the skip connection is a = 1,
+the steps of [CLAIM-tmphedau](CLAIM-tmphedau.md)'s restatement chain: the skip connection is a = 1,
 an exact copy, and the branch is what each step adds. Over L blocks the
 representation drifts by the sum of the branch terms.
 
@@ -55,26 +55,26 @@ representation drifts by the sum of the branch terms.
   outputs are roughly independent across blocks with mean zero. They add as a
   random walk, total size √L·L^(−α)·σ. A total of order one needs α = ½: the
   branch scale 1/√depth that Bordelon and colleagues use with μP
-  (LIT-tmpu5m2v, from its abstract).
+  ([LIT-tmpu5m2v](../literature.d/LIT-tmpu5m2v.md), from its abstract).
 - **Systematic contributions: linear.** During training the updates that
   each block's weights receive are correlated across blocks, since they
   answer the same loss. Their effects add as L·μ, so a total of order one
   needs a learned change of order 1/L per block. The assistant recalls that
   depth-μP arranges this: the 1/√L multiplier applied once in the forward
   pass and once in the gradient gives 1/L. That is unverified until
-  LIT-tmp4peep is read, which is defeater (b).
+  [LIT-tmp4peep](../literature.d/LIT-tmp4peep.md) is read, which is defeater (b).
 - **No skip: contracting.** Without the identity, each layer maps
   representations toward a fixed point in the ordered phase, and the
   correlation between inputs converges over a depth scale that diverges only
-  at the order-to-chaos transition (THEORY-2041). That is CLAIM-tmphedau's
+  at the order-to-chaos transition ([THEORY-2041](../theory.d/THEORY-2041.md)). That is [CLAIM-tmphedau](CLAIM-tmphedau.md)'s
   contracting row: the input is forgotten geometrically in depth. The skip
   connection moves the network to the copied-with-error row, where the input
-  is lost only as 1/n (CLAIM-tmpw6wkt), or not at all as the error goes to
+  is lost only as 1/n ([CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md)), or not at all as the error goes to
   zero.
 
 So the choice of residual scaling is the choice, for each kind of
 contribution, of which drift row keeps it of order one. In
-CLAIM-tmpdx6l8's terms the skip puts the representation in the conserved
+[CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md)'s terms the skip puts the representation in the conserved
 part of the step and the branch scale fixes how much error each step may
 add.
 
@@ -87,5 +87,5 @@ add.
   how contributions accumulate, which needs only their correlation across
   blocks.
 - Not Tensor Programs VI's finding that deeper blocks meet "fundamental
-  limitations" (LIT-tmp4peep, abstract). Whether that is a further drift
+  limitations" ([LIT-tmp4peep](../literature.d/LIT-tmp4peep.md), abstract). Whether that is a further drift
   kind is open.
