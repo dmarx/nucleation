@@ -135,3 +135,11 @@ For ML practice it carries nothing actionable. The dossier's suggestion that it 
 - The abstract's phrasing "voluntarily place our fate in one another's hands" understates a distinction the body depends on and Bratman presses. Collaboration alone is not claimed to yield obligation: the body's own control condition (the child "just playing with the adult spontaneously, in the absence of a joint commitment", §2.1.2.1) shows no leave-taking. The load-bearing ingredient is *joint commitment*, not joint intentional collaboration as such (Bratman e62). In the response (R4) Tomasello recasts the account as graded: implicit common-ground commitments yield weaker obligation than explicit ones (Siposova et al. 2018; Kachel & Tomasello 2019).
 - The dossier's scope worry ("empirical cognitive science alone") is half right. The evidence is empirical developmental and comparative psychology, but the target and the treatment are philosophical: four of the commentators are the philosophers whose accounts it uses, and R4 "Whence normativity?" is an explicit is/ought exchange. It belongs in the record.
 - Agency tag: justified; see Connections.
+
+## Note of 2026-11-20: Killen 2018, read
+
+The Killen and Dahl objection this note records is stated at length in
+Killen's commentary on A Natural History of Human Morality ([LIT-tmpwjmfm](../literature.d/LIT-tmpwjmfm.md),
+[NOTE-tmpqf0zu](NOTE-tmpqf0zu.md)): cooperation and morality "are not one and the same",
+interdependence coexists with independent autonomous thinking, and peer
+conflict, not collaboration alone, drives moral change.

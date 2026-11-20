@@ -37,3 +37,16 @@ expectations. Tacit limits in war must be qualitative to be recognized.
 ## Evidence
 
 Informal questionnaires and historical examples.
+
+## Note of 2026-11-20: not available at age three
+<!-- inactive-ok-file: THEORY-tmpj4l2c THEORY-tmpsn2t0 LIT-tmpkwxfx THEORY-tmpjqrp3 CLAIM-tmpue255 — Proposed, Unavailable or newly filed; readings and the claim cited -->
+
+Read against the developmental literature of 2026-11-20, this account's
+coordination by mutual expectation is not available to three-year-olds:
+recursive mindreading comes later ([THEORY-tmpj4l2c](THEORY-tmpj4l2c.md), [THEORY-tmpsn2t0](THEORY-tmpsn2t0.md)), only
+5- and 8-year-olds chose the salient option above chance in a tacit
+coordination game ([LIT-tmpkwxfx](../literature.d/LIT-tmpkwxfx.md), abstract), and six-year-olds use
+second-order false belief to coordinate ([THEORY-tmpjqrp3](THEORY-tmpjqrp3.md)), whose authors
+cite this account for the need for a meeting of minds. It applies from
+about five; at three the equal split works as a known default
+([CLAIM-tmpue255](../claims.d/CLAIM-tmpue255.md)).

@@ -54,3 +54,10 @@ by this session's permission system. A copy the owner supplies, or
 permission for the third-party fetch, returns it to reading. The
 symposium's other pieces are listed in the curation entry of 2026-11-20;
 Pettit's is open on his own site.
+
+## Note of 2026-11-20: Killen 2018 found open
+
+Of the symposium pieces listed with this précis, Killen's "The origins of
+morality: Social equality, fairness, and justice" turned out to be open in
+the NSF Public Access Repository and was read on 2026-11-20 ([LIT-tmpwjmfm](LIT-tmpwjmfm.md),
+[NOTE-tmpqf0zu](../notes.d/NOTE-tmpqf0zu.md)).

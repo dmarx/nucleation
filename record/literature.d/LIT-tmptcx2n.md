@@ -1,0 +1,51 @@
+---
+status: Active
+status_note: >-
+  Read on 2026-11-20 ([NOTE-tmpl7udu](../notes.d/NOTE-tmpl7udu.md)) for the owner's question whether
+  three-year-olds' equal sharing can rest on mutual expectation. Copy: the
+  PsyArXiv preprint (doi 10.31234/osf.io/96hbp); the Birmingham repository
+  and publisher copies were blocked. A preprint, so wording may differ
+  from the published version.
+title: 'Meeting and Missing Minds: Children and Adults Use Alignment of Intuitions to Solve Pure Coordination Games'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Registered and read on 2026-11-20 at the owner's request, after the
+    owner asked whether three-year-olds have the theory of mind that a
+    mutual-expectation reading of their equal sharing needs, and asked for
+    recent work integrating Piaget with better-validated developmental
+    research. Bibliographic details from the text, checked against the
+    publisher where the copy lacks them. Not held before (grep of title
+    and DOI).
+tags:
+- game-theory
+- cognition
+- social-science
+date: '2026-11-20'
+published: '2025-01-01'
+doi: '10.1080/20445911.2025.2452232'
+first_author: 'Perez-Zapata'
+keywords: []
+implementations: []
+summary: >-
+  Perez-Zapata, McKenzie-Smart, Charest and Apperly find that children of
+  4–5 and 6–7, like adults, converge above chance on the same answers in
+  pure coordination games without communication, less often than adults
+  and sometimes on different answers. Read in [NOTE-tmpl7udu](../notes.d/NOTE-tmpl7udu.md); account
+  [THEORY-tmpuerfk](../theory.d/THEORY-tmpuerfk.md).
+---
+<!-- inactive-ok-file: THEORY-tmpuerfk — Proposed; this reading's account -->
+
+# LIT-tmptcx2n: Meeting and Missing Minds: Children and Adults Use Alignment of Intuitions to Solve Pure Coordination Games
+
+Daniel Perez-Zapata, Xavia McKenzie-Smart, Ian Charest and Ian Apperly (2025). "Meeting and Missing Minds: Children and Adults Use Alignment of Intuitions to Solve Pure Coordination Games". Journal of Cognitive Psychology 37(3), pp. 277–292; copy read: the PsyArXiv preprint, https://osf.io/96hbp/download.
+
+## Standing in the record
+
+Registered and read on 2026-11-20 at the owner's request, after the owner
+asked whether three-year-olds have the theory of mind that a
+mutual-expectation reading of their equal sharing needs, and asked for
+recent work integrating Piaget with better-validated developmental
+research.
