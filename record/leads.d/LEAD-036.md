@@ -6,6 +6,7 @@ formerly:
 title: 'Model or trace the loop by which activity-based funding erodes rarely used capability, against a control that decouples maintenance funding from observed activity'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - historical

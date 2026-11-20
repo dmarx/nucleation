@@ -6,6 +6,7 @@ formerly:
 title: 'Settle where flow''s affect lies: in-episode reports of flow, and a measure that separates intrinsic pleasantness from goal-conduciveness valence'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

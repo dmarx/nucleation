@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp0n5t8
 title: 'Run the discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named receivers, against a proposition-plus-force rival and a text-similarity baseline'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

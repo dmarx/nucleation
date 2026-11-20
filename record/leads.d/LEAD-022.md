@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp1jmer
 title: 'Run the study of a fall in complaints: with working conditions fixed, measure separately whether members find them acceptable, see the discrepancy, are motivated and are able to voice it'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Compare two theatrical organizations with similar artistic outputs and different labour arrangements, to tell exploitation from dependence and from domination'
 version: 1
 stage: idea
+priority: medium
 method:
 - historical
 tags:

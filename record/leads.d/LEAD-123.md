@@ -6,6 +6,7 @@ formerly:
 title: 'Build the three-perspective agenda model with a latent Condorcet cycle, in which a chair or a legibility regime controls which pairwise contests enter the record'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

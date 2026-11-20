@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpny0s9
 title: 'Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - formal
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Separate the mechanisms that set acquisition order and timing by training the same unequal-frequency skills under gradient descent and under sign descent'
 version: 1
 stage: idea
+priority: high
 method:
 - empirical
 - formal

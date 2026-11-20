@@ -6,6 +6,7 @@ formerly:
 title: 'Rule on whether a symmetry or conservation law, or a possibility fact in Deutsch and Marletto''s sense, counts as realizing a constraint'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 tags:

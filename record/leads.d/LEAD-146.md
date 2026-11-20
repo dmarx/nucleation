@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpqgbxs
 title: 'Fix what the discriminating fidelity study must fix before data: a strong contextual baseline, named receiver populations and sampling frames, an equivalence margin with power, and an interlingual arm'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - operationalization
 - conceptual

@@ -6,6 +6,7 @@ formerly:
 title: 'Specify the decision signature and prove or refute the eigenspace candidate for the directed case'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp97xdc
 title: 'Build the common testbed of continuous fields (a kink, vortices, a nucleus making a diffusing mediator), beginning with a Dirac field coupled to the kink and the support withdrawn'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - formal
 - empirical

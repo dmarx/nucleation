@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpdqp3c
 title: 'Run the discriminating experiment on governance-induced frustration: intervene on the allocation of influence while search and information stay fixed, with declared demands and a feasible-update oracle'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 - formal

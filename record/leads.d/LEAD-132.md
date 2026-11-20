@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpnkagr
 title: 'Measure the real-money cost of a standardized loot-box reward across a game''s releases, against the economic weight of its high spenders'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

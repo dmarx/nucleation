@@ -6,6 +6,7 @@ formerly:
 title: 'Prove a projection perturbation bound for the coarse-graining claim, reading the biorthogonal diffusion wavelets first'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - formal

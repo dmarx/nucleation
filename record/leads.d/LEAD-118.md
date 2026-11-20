@@ -6,6 +6,7 @@ formerly:
 title: 'Retry the Unfetched works whose fetch stopped at a PMC or Europe PMC check, through the Europe PMC REST route'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

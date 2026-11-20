@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmprclo5
 title: 'Run the cross of topic and act, with a behavioural uptake predictor against a fidelity-rating criterion'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

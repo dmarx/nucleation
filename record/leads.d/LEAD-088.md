@@ -6,6 +6,7 @@ formerly:
 title: 'Compare the drive profiles that interests, the expected value of control and will-organization predict for an agent resisting temptation, and estimate one for a real system'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - empirical

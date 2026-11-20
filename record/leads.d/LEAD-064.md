@@ -6,6 +6,7 @@ formerly:
 title: 'Run the study at matched budgets of adaptive single trajectories against fixed queries and independent trajectories'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

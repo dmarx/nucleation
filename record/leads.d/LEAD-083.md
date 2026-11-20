@@ -6,6 +6,7 @@ formerly:
 title: 'Measure compensation and entrainment in a mode that is dynamically closed but not a weakly coupled block, to see whether the block test misses a unit'
 version: 1
 stage: idea
+priority: high
 method:
 - empirical
 - formal

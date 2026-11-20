@@ -6,6 +6,7 @@ formerly:
 title: 'Read the works on manipulation and outside governance'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

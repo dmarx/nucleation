@@ -6,6 +6,7 @@ formerly:
 title: 'Find or make a fit of the expected-value-of-control model in which control intensity falls with its cost'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - empirical

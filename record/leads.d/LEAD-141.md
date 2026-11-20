@@ -6,6 +6,7 @@ formerly:
 title: 'Test the will-organization claim across realizers: interventions that block or restore the epistemic agent model with competing thoughts held fixed, reading Axelrod and colleagues first'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - empirical

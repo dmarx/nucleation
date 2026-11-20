@@ -6,6 +6,7 @@ formerly:
 title: 'Compare equal-budget interventions at different locations in an organization''s constraint structure'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 - historical

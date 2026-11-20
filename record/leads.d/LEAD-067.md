@@ -6,6 +6,7 @@ formerly:
 title: 'Build the finite evaluative-transport construction: three overlapping contexts, comparisons on overlaps, derived transport, and the null of trivial holonomy'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

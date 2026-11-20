@@ -6,6 +6,7 @@ formerly:
 title: 'State the wrong of reproducing projections apart from the harm, and read the gaslighting review proposed as a boundary test'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 - reading

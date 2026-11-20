@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpdbpsr
 title: 'Separate structural frustration from operative thwarting in each direction, and run the self-protecting sentry in full with hidden state and evidence restriction'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - conceptual
 - formal

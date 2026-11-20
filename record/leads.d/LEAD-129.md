@@ -6,6 +6,7 @@ formerly:
 title: 'Compare institutions with and without effective means to revise their governing standards, matched on resources and independence of evidence'
 version: 1
 stage: idea
+priority: medium
 method:
 - historical
 tags:

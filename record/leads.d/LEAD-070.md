@@ -6,6 +6,7 @@ formerly:
 title: 'Find where the effort that positive affect frees goes, measured against an ordering that participants'' own conflicts reveal, reading Carver first-hand'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

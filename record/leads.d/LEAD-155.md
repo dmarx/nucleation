@@ -6,6 +6,7 @@ formerly:
 title: 'File one corpus under two apparatuses and test whether the change of apparatus changes later inquiry beyond visualization'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

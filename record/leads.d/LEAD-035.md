@@ -6,6 +6,7 @@ formerly:
 title: 'Check the SNR singular values against the predicted quarter-power law for neural collapse'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Find a study that measures a defensive process''s authority apart from threat belief, intervening on its authority or evidence access while the represented threat stays fixed'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 - empirical

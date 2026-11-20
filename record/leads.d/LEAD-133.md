@@ -6,6 +6,7 @@ formerly:
 title: 'Read the works on exploited commitment, with Hart and Moore on control rights'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

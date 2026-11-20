@@ -6,6 +6,7 @@ formerly:
 title: 'Apply an integration or dynamic-core measure, or a justified anti-nesting rule, to a modular-mind model and to a group model'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

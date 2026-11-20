@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp0fbe3
 title: 'Run emergent specialization in a population of identical adaptive operators, holding the final diversity fixed while changing the mechanism that produced it'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

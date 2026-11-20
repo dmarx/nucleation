@@ -6,6 +6,7 @@ formerly:
 title: 'Find evidence on bundling by self-prediction rather than an imposed bundle, and on whether discounting mediates self-control change after mindfulness practice'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

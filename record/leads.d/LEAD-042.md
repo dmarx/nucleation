@@ -6,6 +6,7 @@ formerly:
 title: 'Find or run an anchoring design whose retrieval measure is first shown sensitive to direct priming, holding memory and evidence fixed'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - empirical

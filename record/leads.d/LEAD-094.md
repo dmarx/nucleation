@@ -6,6 +6,7 @@ formerly:
 title: 'Read the dynamics batch on scale separation and localized structure, with Ott and Antonsen''s reduction as a candidate defeater'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

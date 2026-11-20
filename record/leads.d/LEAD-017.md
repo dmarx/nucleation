@@ -6,6 +6,7 @@ formerly:
 title: 'Extend the synthetic separation with three organizations of matched behaviour and different endorsement relations, measuring registration apart from the experimenter''s setting'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - operationalization

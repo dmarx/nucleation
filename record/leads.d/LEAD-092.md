@@ -6,6 +6,7 @@ formerly:
 title: 'Read the single unread works under central entries'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

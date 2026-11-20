@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp1d0lj
 title: 'Run diagnose-before-repair under a probe budget'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

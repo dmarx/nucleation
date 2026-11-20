@@ -6,6 +6,7 @@ formerly:
 title: 'Find the structural condition on the joint distribution under which information-bottleneck optima are nested, or an example of incomparable optima at finite beta'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

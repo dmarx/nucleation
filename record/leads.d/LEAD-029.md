@@ -6,6 +6,7 @@ formerly:
 title: 'Derive a prediction that follows from the shared organizational variables and not from phenomenon-specific or central-executive models, and a joint prediction of two lines through the mapping'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 - empirical

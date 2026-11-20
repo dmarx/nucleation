@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmptxwb9
 title: 'Test dependency against division of labour by the capability trajectory under withdrawal, in a microbial co-culture whose supplied metabolite can be removed'
 version: 1
-stage: specified
+stage: costed
+priority: high
 method:
 - reading
 - empirical

@@ -6,6 +6,7 @@ formerly:
 title: 'Construct a nucleus that, once formed, takes part in producing or repairing the constraints of its own formation, and measure when the loop closes'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Read the works on the objectivity of relational norms, with Leffler on constitutivism as the adversarial test'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

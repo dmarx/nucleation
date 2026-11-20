@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpcu27l
 title: 'Run the staging experiment: states A and B with a staging state C, measuring the bottleneck budget, the least time at budget and the readiness, to produce the four kinds of case'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - formal
 tags:

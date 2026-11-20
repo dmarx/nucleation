@@ -6,6 +6,7 @@ formerly:
 title: 'Read the rest of the dynamics batch: synchrony, sheaves and time-varying data'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

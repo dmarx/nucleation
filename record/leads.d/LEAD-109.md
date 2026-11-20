@@ -6,6 +6,7 @@ formerly:
 title: 'Settle whether a fixed level and target can have several self-consistent factorizations into agents'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - conceptual

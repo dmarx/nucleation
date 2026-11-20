@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpoe54n
 title: 'Run individuation by probing at rising budgets'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 - formal

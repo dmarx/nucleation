@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpeqq2o
 title: 'Reanalyse the released r/place placement logs: recruitment after visible growth or damage, retention as a function of the survival of one''s own pixels, and the population of overwrites and repairs'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Change a structural variable in a community or a multi-session argument with members'' reasoning held fixed, as the anchoring-rate test proposes'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

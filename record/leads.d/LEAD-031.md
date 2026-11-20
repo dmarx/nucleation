@@ -6,6 +6,7 @@ formerly:
 title: 'Read the works on obligation and repair'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

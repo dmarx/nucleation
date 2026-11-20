@@ -6,6 +6,7 @@ formerly:
 title: 'Build a receiver-restricted informativeness order with its own results, or argue that judged access tracks ideal informativeness'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:
