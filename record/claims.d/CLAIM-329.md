@@ -103,6 +103,7 @@ summary: >-
   §4.3's of 2026-10-13 and did not file it. It does not say what must be
   transmitted, or settle branching successors.
 ---
+<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1381 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

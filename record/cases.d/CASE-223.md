@@ -1,10 +1,10 @@
 ---
 number: 223
-status: Active
+status: Proposed
 formerly:
 - CASE-tmpcr92d
 title: 'A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community''s own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure'
-version: 3
+version: 2
 history:
 - version: 2
   date: '2026-11-07'
@@ -15,20 +15,6 @@ history:
     A's, unverified, under a new section of things to check; the
     instances stay in this study until checked. The study is otherwise
     unchanged.
-- version: 3
-  date: '2026-11-20'
-  note: >-
-    Promoted to Active at the status review's ruling (the owner
-    delegated these rulings), under ADR-057. The status is credence in
-    the case as stated: a proposed study, its arms, measures and named
-    threat to inference, with every instance kept as A's report,
-    unverified, and no result claimed. The summary's "adopting it is
-    the owner's call" is met by the delegation. ARG-067 finds the
-    design, not its instances, able to tell CLAIM-617 from
-    CLAIM-329's criterion alone. The standing stays stipulated until
-    the instances are checked. CLAIM-617 no longer grounds on it
-    (that claim says it has no evidence yet); it still illustrates
-    CLAIM-617. The case is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -58,6 +44,7 @@ summary: >-
   wording of the arms and measures is A's; adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: CLAIM-329 — Proposed; cited for its criterion, which the study would apply -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed; the claim the study would test -->
 
 # CASE-223: A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community's own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure

@@ -4,13 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp2stjj
 title: 'A collective that replaces all its members, or a self that goes inactive, persists on the record''s account by causal transmission of the organization that produces it or by the capacity to reinstate it, not by resemblance or a running quantity: persistence has senses that come apart, its successors can be plural without identity branching, what must be transmitted is still open, a slow variable belongs to a collective''s dynamics only when its members read and regenerate it, and a feature recovered from members'' activity is at most a constituent of a perspective'
-version: 2
-history:
-- version: 2
-  date: '2026-11-20'
-  note: >-
-    CLAIM-617 no longer grounds CASE-223 (ADR-058, status review of
-    2026-11-20); the case illustrates it.
+version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the persistence part of the distributed-agency line left out without a
@@ -66,7 +60,7 @@ integrates:
 - QUESTION-276
 - QUESTION-440
 ---
-<!-- inactive-ok-file: ADR-075 ADR-084 ARG-067 ARG-075 CASE-166 CASE-222 CLAIM-157 CLAIM-161 CLAIM-167 CLAIM-170 CLAIM-327 CLAIM-367 CLAIM-417 CLAIM-423 CLAIM-426 CLAIM-477 CLAIM-478 CLAIM-544 CLAIM-545 CLAIM-611 CLAIM-612 CLAIM-613 CLAIM-615 CLAIM-617 CLAIM-620 SYNTHESIS-030 SYNTHESIS-036 SYNTHESIS-040 SYNTHESIS-041 SYNTHESIS-046 TERM-063 TERM-086 THEORY-447 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ADR-075 ADR-084 ARG-067 ARG-075 CASE-166 CASE-222 CASE-223 CLAIM-157 CLAIM-161 CLAIM-167 CLAIM-170 CLAIM-327 CLAIM-367 CLAIM-417 CLAIM-423 CLAIM-426 CLAIM-477 CLAIM-478 CLAIM-544 CLAIM-545 CLAIM-611 CLAIM-612 CLAIM-613 CLAIM-615 CLAIM-617 CLAIM-620 SYNTHESIS-030 SYNTHESIS-036 SYNTHESIS-040 SYNTHESIS-041 SYNTHESIS-046 TERM-063 TERM-086 THEORY-447 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; integrated with that standing -->
 <!-- inactive-ok-file: CASE-028 CLAIM-427 SYNTHESIS-001 SYNTHESIS-004 — Superseded; CASE-028 by CASE-006 and SYNTHESIS-001 by CLAIM-615, cited as such and not integrated, CLAIM-427 as QUESTION-276 cites it, SYNTHESIS-004 as an earlier account that named CLAIM-329 -->
 
@@ -266,7 +260,7 @@ identified at all.
   [CLAIM-617](../claims.d/CLAIM-617.md).
 - [CLAIM-420](../claims.d/CLAIM-420.md), the owner's corrected by A38, thesis, interpretive, Active;
   complements [CLAIM-329](../claims.d/CLAIM-329.md); uses [TERM-084](../terms.d/TERM-084.md).
-- [CLAIM-617](../claims.d/CLAIM-617.md), A's, thesis, interpretive, Proposed; illustrated by [CASE-223](../cases.d/CASE-223.md);
+- [CLAIM-617](../claims.d/CLAIM-617.md), A's, thesis, interpretive, Proposed; grounds [CASE-223](../cases.d/CASE-223.md);
   complements [CLAIM-328](../claims.d/CLAIM-328.md); bears on [QUESTION-118](../questions.d/QUESTION-118.md).
 - [CLAIM-613](../claims.d/CLAIM-613.md), A's, thesis, interpretive, Proposed; first line
   will-organization, where [SYNTHESIS-036](SYNTHESIS-036.md) integrates it; rests on [CLAIM-047](../claims.d/CLAIM-047.md)

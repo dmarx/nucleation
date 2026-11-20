@@ -64,9 +64,9 @@ history:
 - version: 8
   date: '2026-11-20'
   note: >-
-    Layers 2 and 5 marked CLAIM-329 and CASE-223 as Proposed; both
-    went Active at the status review of this date (the owner delegated
-    these rulings), and the parentheses now say so. The claim is
+    Layer 2 marked CLAIM-329 as Proposed; it went Active at the status
+    review of this date (the owner delegated these rulings), and the
+    parenthesis now says so. The claim is
     unchanged and stays Proposed.
 role: thesis
 warrant: interpretive
@@ -130,7 +130,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-611 CLAIM-617 — filed from the same exchange, Proposed; premise and component -->
+<!-- inactive-ok-file: CLAIM-611 CLAIM-617 CASE-223 — filed from the same exchange, Proposed; premise, component and the owner's study -->
 <!-- inactive-ok-file: ARG-075 — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed; the later theses that rest on this one -->
@@ -190,7 +190,7 @@ The architecture, in layers:
    different respects ([CLAIM-328](CLAIM-328.md), Active), and descent need not be an
    equivalence relation ([CLAIM-287](CLAIM-287.md), Active). The Senators are the record's
    case ([CASE-105](../cases.d/CASE-105.md)). The owner's U16 study is the test ([CASE-223](../cases.d/CASE-223.md),
-   Active), and participants' verdicts can move the producers
+   Proposed), and participants' verdicts can move the producers
    ([CLAIM-617](CLAIM-617.md), Proposed, A's).
 
 The three questions A37 ends on are already held: "Identity asks what makes
