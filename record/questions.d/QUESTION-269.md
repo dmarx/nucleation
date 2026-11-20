@@ -11,6 +11,8 @@ tags:
 - self-governance
 date: '2026-10-23'
 line: organizational-affect
+presupposes:
+- QUESTION-268
 summary: >-
   From the comparison of the record's will and affect lines of
   2026-10-23, filed at the owner's direction. Will-organization ([TERM-023](../terms.d/TERM-023.md))
@@ -68,3 +70,15 @@ it.
 
 A redefinition of valence that folds the relation into "who won" by
 stipulation, which is the reduction [CLAIM-027](../claims.d/CLAIM-027.md) denies.
+
+## Note of 2026-11-20: presupposes QUESTION-268
+
+Filed by the question-dependency sweep the owner asked for on 2026-11-20.
+Any answer to this question must use QUESTION-268's concept or result: 269
+asks whether valence read off 'which side wins' misses the other
+will-organization relations, and its stated answer must say 'how the
+measurement procedure of QUESTION-268 must record it', so it takes 268's
+record of wins as its baseline. This question: "beside the priority,
+persistence and resumption it reads off which side wins"; QUESTION-268:
+"which conflicts it wins, for how long, and whether it returns after
+interruption".
