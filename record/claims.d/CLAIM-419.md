@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbgq5o
 title: 'The record''s grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -26,6 +26,12 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-20'
+  note: >-
+    Note of 2026-11-20: the decision census (CASE-tmpnkuie) counts the
+    amendments across all 114 decisions, beyond the five this claim cites.
+    No change to the claim.
 role: counter
 warrant: empirical
 tags:
@@ -254,3 +260,13 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Tudorache, Nyulas, Noy and Musen** ([THEORY-1768](../theory.d/THEORY-1768.md)): WebProtégé records schema changes but not decisions about them; the contrast is exactly CLAIM-419's "amendable by decision".
 
 The claim is unchanged.
+
+## Note of 2026-11-20: the amendments counted
+
+<!-- inactive-ok: ADR-084 — Proposed; cited as a decision the census coded -->
+
+The decision census (CASE-tmpnkuie) coded every decision from ADR-001 to ADR-114. 88 changed the grammar: 62 by refinement, 25 by revision and 1 by restraint. Two coders agreed at κ 0.84 on that split, over a random 30.
+
+The revisions include changes to what counts as an answer (ADR-049), boundaries redrawn between kinds of entry (ADR-058, ADR-060, ADR-061), and an abstraction withdrawn (ADR-084). This bears on the note of 2026-10-27, which contrasted this record's additions with CEGAR's splits. The grammar has also been revised, not only added to.
+
+The census reaches only decisions, so it does not touch this claim's caveat, that "whether every such move is caught is not shown". The claim is unchanged.

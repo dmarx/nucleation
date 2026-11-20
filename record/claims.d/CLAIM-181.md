@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpas8q0
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-29'
@@ -59,6 +59,12 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: records-of-inquiry,
     since it objects to CLAIM-178. No other change.
+- version: 8
+  date: '2026-11-20'
+  note: >-
+    Note of 2026-11-20: the decision census (CASE-tmpnkuie) finds the
+    claim's mechanism in the misfits that were noticed. No change to the
+    claim.
 role: counter
 warrant: interpretive
 tags:
@@ -231,3 +237,11 @@ not loss.
 Rechecked after [CASE-131](../cases.d/CASE-131.md)'s revision of 2026-11-07, line bookkeeping only.
 Its own test is still unmet: no move that mattered in an exchange is
 recorded that the record still cannot hold, or holds only by distorting it.
+
+## Note of 2026-11-20: the forcing, counted, in the decisions that answered it
+
+The decision census (CASE-tmpnkuie) coded the form each misfit took before the decision that answered it. Of the 88 decisions that changed the grammar, 71 answered a misfit. In 63 of those 71, the move had first been forced into the nearest category (43) or kept only in prose (20). Four more were cases where the grammar had made the record assert something false.
+
+So for the misfits that were eventually noticed, the claim's sequence holds: forced or held in prose first, the grammar amended after.
+
+What the count cannot reach is this claim's remaining test, a misfit never noticed. Only decisions were coded. The claim is unchanged.

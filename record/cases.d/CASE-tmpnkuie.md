@@ -31,6 +31,9 @@ summary: >-
   the changes did.
 ---
 
+<!-- inactive-ok-file: ADR-047 ADR-076 ADR-077 ADR-080 — Superseded; cited as decisions the census coded -->
+<!-- inactive-ok-file: ADR-082 ADR-084 ADR-087 ADR-089 ADR-090 ADR-100 ADR-104 ADR-109 ADR-114 ARG-028 CLAIM-181 — Proposed; cited in this filing of 2026-11-20 -->
+
 # CASE-tmpnkuie: Who changes the record's grammar, how, and with what result
 
 ## The case
