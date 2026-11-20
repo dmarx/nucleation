@@ -18,7 +18,7 @@ summary: >-
   for a passage need not. Rejected: keeping supplements as mentions, which
   left quoted evidence with no entry; and filing a stand-in's text under
   the original's code, which presents it as something it is not. First
-  application: five works quoted in NOTE-2177 and NOTE-2184 without
+  application: five works quoted in [NOTE-2177](../notes.d/NOTE-2177.md) and [NOTE-2184](../notes.d/NOTE-2184.md) without
   entries.
 ---
 <!-- inactive-ok-file: LIT-2882 LIT-2917 — Unavailable; the unread works the first application's readings stood in for -->
@@ -39,10 +39,10 @@ mathematics-of-meaning#5 left them out for want of a code, and ruled that
 readings meant to stand in for an Unavailable work should generally get
 their own LIT "rather than pretending that they're something they're not".
 
-Two cases were found: NOTE-2177 (Kindi's essay, itself a stand-in for
-Kuhn's "The Essential Tension", LIT-2882) quotes the Stanford Encyclopedia
-entry on Kuhn and Matthews's 2022 opinion piece; NOTE-2184 (Recht's
-announcement post, a stand-in for The Irrational Decision, LIT-2917)
+Two cases were found: [NOTE-2177](../notes.d/NOTE-2177.md) (Kindi's essay, itself a stand-in for
+Kuhn's "The Essential Tension", [LIT-2882](../literature.d/LIT-2882.md)) quotes the Stanford Encyclopedia
+entry on Kuhn and Matthews's 2022 opinion piece; [NOTE-2184](../notes.d/NOTE-2184.md) (Recht's
+announcement post, a stand-in for The Irrational Decision, [LIT-2917](../literature.d/LIT-2917.md))
 quotes three more of his posts.
 
 ## Decision
@@ -79,11 +79,11 @@ quotes three more of his posts.
 
 ## Consequences
 
-- **First application:** five LITs and NOTEs, LIT-tmp8rse1, LIT-tmp6zzyw, LIT-tmp2puod, LIT-tmpxfyzg, LIT-tmp65czg: the
+- **First application:** five LITs and NOTEs, [LIT-tmp8rse1](../literature.d/LIT-tmp8rse1.md), [LIT-tmp6zzyw](../literature.d/LIT-tmp6zzyw.md), [LIT-tmp2puod](../literature.d/LIT-tmp2puod.md), [LIT-tmpxfyzg](../literature.d/LIT-tmpxfyzg.md), [LIT-tmp65czg](../literature.d/LIT-tmp65czg.md): the
   Stanford Encyclopedia entry on Kuhn and Matthews's opinion piece (read
-  beside LIT-2885), and Recht's posts "Mathematical Pluralism", "The
+  beside [LIT-2885](../literature.d/LIT-2885.md)), and Recht's posts "Mathematical Pluralism", "The
   Rational Landscapes" and "The Rationality of the Language Machines" (read
-  beside LIT-2918). NOTE-2177 and NOTE-2184 get dated notes naming them.
+  beside [LIT-2918](../literature.d/LIT-2918.md)). [NOTE-2177](../notes.d/NOTE-2177.md) and [NOTE-2184](../notes.d/NOTE-2184.md) get dated notes naming them.
   Their texts go to mathematics-of-meaning#5 under their permanent codes
   once this merges.
 - **The read-and-file skill** states the rule in step 5 and in the

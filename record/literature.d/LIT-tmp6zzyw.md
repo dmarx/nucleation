@@ -2,9 +2,9 @@
 status: Active
 status_note: >-
   Read in part on 2026-11-19 (pp. 1–6) as a further stand-in beside
-  Kindi's essay for Kuhn's unread "The Essential Tension" (LIT-2882);
-  NOTE-2177 quotes Andersen 2000 as it reports him. Registered on
-  2026-11-20 under ADR-tmp59tp7; the copy's address, not recorded by the
+  Kindi's essay for Kuhn's unread "The Essential Tension" ([LIT-2882](LIT-2882.md));
+  [NOTE-2177](../notes.d/NOTE-2177.md) quotes Andersen 2000 as it reports him. Registered on
+  2026-11-20 under [ADR-tmp59tp7](../decisions.d/ADR-tmp59tp7.md); the copy's address, not recorded by the
   reader, was confirmed on 2026-11-20 by matching the downloaded text
   against the newsletter PDF. Its longer version is Matthews, Science &
   Education 33 (2024), not read.
@@ -35,7 +35,7 @@ summary: >-
   education, good in bringing history and philosophy of science to many,
   flawed on key points of his account of science. Cited in the record for
   Andersen's two readings of "The Essential Tension". Read in
-  NOTE-tmpflvs8.
+  [NOTE-tmpflvs8](../notes.d/NOTE-tmpflvs8.md).
 ---
 <!-- inactive-ok-file: ADR-tmp59tp7 — Proposed; the decision under which this work is registered -->
 
@@ -45,8 +45,8 @@ Michael R. Matthews (2022). "Thomas Kuhn and Science Education: A Troubled Conne
 
 ## Standing in the record
 
-Registered on 2026-11-20 at the owner's request under ADR-tmp59tp7: it was
+Registered on 2026-11-20 at the owner's request under [ADR-tmp59tp7](../decisions.d/ADR-tmp59tp7.md): it was
 read beside another work and quoted in that work's NOTE, but had no entry
 of its own. It was read in support of Kindi's essay on "The Essential
-Tension" (LIT-2885, NOTE-2177), and is filed so that what the record
+Tension" ([LIT-2885](LIT-2885.md), [NOTE-2177](../notes.d/NOTE-2177.md)), and is filed so that what the record
 quotes from it has an entry that says what it is.

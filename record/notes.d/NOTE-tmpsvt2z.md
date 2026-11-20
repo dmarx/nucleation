@@ -30,8 +30,8 @@ tools.
 
 ## Bearing on the record
 
-- Read beside Recht's post announcing The Irrational Decision (LIT-2918,
-  NOTE-2184), itself a stand-in for the book (LIT-2917); see that NOTE for
+- Read beside Recht's post announcing The Irrational Decision ([LIT-2918](../literature.d/LIT-2918.md),
+  [NOTE-2184](NOTE-2184.md)), itself a stand-in for the book ([LIT-2917](../literature.d/LIT-2917.md)); see that NOTE for
   how it was used. No further bearing is claimed here.
 
 ## Limitations

@@ -3,8 +3,8 @@ status: Active
 status_note: >-
   Read in part on 2026-11-19 (§§1–3) by the reader of the Kuhn works, as a
   further stand-in beside Kindi's essay for Kuhn's unread "The Essential
-  Tension" (LIT-2882); NOTE-2177 quotes it. Registered on 2026-11-20 under
-  ADR-tmp59tp7.
+  Tension" ([LIT-2882](LIT-2882.md)); [NOTE-2177](../notes.d/NOTE-2177.md) quotes it. Registered on 2026-11-20 under
+  [ADR-tmp59tp7](../decisions.d/ADR-tmp59tp7.md).
 title: 'Thomas Kuhn'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   Structure, normal science, paradigms and exemplars, revolution and
   incommensurability, and his later work. Cited in the record for the
   claim that inculcating commitment is part of scientific training. Read
-  in NOTE-tmpykqcy.
+  in [NOTE-tmpykqcy](../notes.d/NOTE-tmpykqcy.md).
 ---
 <!-- inactive-ok-file: ADR-tmp59tp7 — Proposed; the decision under which this work is registered -->
 
@@ -41,8 +41,8 @@ Alexander Bird (2004; substantive revision 2025-09-02). "Thomas Kuhn". Stanford 
 
 ## Standing in the record
 
-Registered on 2026-11-20 at the owner's request under ADR-tmp59tp7: it was
+Registered on 2026-11-20 at the owner's request under [ADR-tmp59tp7](../decisions.d/ADR-tmp59tp7.md): it was
 read beside another work and quoted in that work's NOTE, but had no entry
 of its own. It was read in support of Kindi's essay on "The Essential
-Tension" (LIT-2885, NOTE-2177), and is filed so that what the record
+Tension" ([LIT-2885](LIT-2885.md), [NOTE-2177](../notes.d/NOTE-2177.md)), and is filed so that what the record
 quotes from it has an entry that says what it is.

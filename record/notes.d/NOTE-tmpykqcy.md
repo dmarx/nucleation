@@ -32,8 +32,8 @@ A standard reference account of Kuhn's philosophy of science, revised in
 
 ## Bearing on the record
 
-- Read beside Kindi's essay on "The Essential Tension" (LIT-2885,
-  NOTE-2177); see that NOTE for how it was used. No further bearing is
+- Read beside Kindi's essay on "The Essential Tension" ([LIT-2885](../literature.d/LIT-2885.md),
+  [NOTE-2177](NOTE-2177.md)); see that NOTE for how it was used. No further bearing is
   claimed here.
 
 ## Limitations
