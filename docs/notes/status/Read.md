@@ -6,7 +6,7 @@
 
 **Read** — the full text, closely enough to state its assumptions and results exactly — the only status that licenses a claims table.
 
-1989 of 2175 NOTE documents. Back to the [full index](../README.md).
+1992 of 2178 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -1999,3 +1999,6 @@
 | [NOTE-2173](../../../record/notes.d/NOTE-2173.md) | Maennel and colleagues — What Do Neural Networks Learn When Trained With Random Labels? | Random-label pretraining speeds or slows later training: the gain lives in first-layer second-order statistics (shown by covariance resampling), the loss in inactive later units. Lesson for any memorization arm: control for input statistics and weight scale. | Read |
 | [NOTE-2174](../../../record/notes.d/NOTE-2174.md) | Zhang, Lepori and Pavlick — Instilling Inductive Biases with Subnetworks | Subtask induction: find the subnetwork for a shared subtask, transplant it frozen, and count disambiguating samples for a target that contains the subtask. The located component carries the saving; a size-matched random part of the same model does not. | Read |
 | [NOTE-2175](../../../record/notes.d/NOTE-2175.md) | He and colleagues — Is Grokking Worthwhile? Functional Analysis and Transferability of Generalization Circuits in Transformers | Grokking read as integrating facts into an early reasoning path; a shortcut (fake grokking) at high first-stage accuracy that fails to compose new facts. Organizations compared, not matched; no intervention; single runs. | Read |
+| [NOTE-2176](../../../record/notes.d/NOTE-2176.md) | Kuhn — The Structure of Scientific Revolutions | Paradigms make later puzzle-solving tractable and restrict what can be asked; their rigidity detects anomaly; revolutions change problems, standards and learned similarity relations, with losses. Exemplars teach a tacit similarity relation, with diminishing returns. Interpretive history. | Read |
+| [NOTE-2177](../../../record/notes.d/NOTE-2177.md) | Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions | Kuhn's essential tension, through a stand-in: convergent training in a tradition is a precondition of breaking with it, because a precise paradigm makes anomaly visible. Carries the thesis and two quoted sentences, not the essay. | Read |
+| [NOTE-2178](../../../record/notes.d/NOTE-2178.md) | Kuhn — Second Thoughts on Paradigms | Exemplars teach a learned similarity relation, prior to criteria, which makes new problems tractable; knowledge lives in that relation, and replacing it with rules changes it. Interpretive, with a historical chain and a thought experiment; no measurement. | Read |

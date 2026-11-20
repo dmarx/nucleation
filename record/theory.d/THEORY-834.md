@@ -98,12 +98,12 @@ promote_when asks for.
   powerful community of insiders.
 
 ## Note of 2026-11-19: Kuhn, read
-<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2094 THEORY-2096 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Structure ([THEORY-tmpg10ux](THEORY-tmpg10ux.md)) supports this account's Kuhnian premises:
+Structure ([THEORY-2094](THEORY-2094.md)) supports this account's Kuhnian premises:
 inventors of new paradigms are "either very young or very new to the
 field", and crises can come from outside the community. The 1959 essay,
-through a stand-in ([THEORY-tmptbea0](THEORY-tmptbea0.md)), is in tension with it: Kuhn holds
+through a stand-in ([THEORY-2096](THEORY-2096.md)), is in tension with it: Kuhn holds
 that rootedness in the tradition enables the break, where this account
 holds rootedness alone blinds and the break needs experience from outside
 as well.

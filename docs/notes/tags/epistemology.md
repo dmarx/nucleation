@@ -4,7 +4,7 @@
 
 **epistemology**.
 
-82 of 2175 NOTE documents. Back to the [full index](../README.md).
+85 of 2178 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -90,3 +90,6 @@
 | [NOTE-1936](../../../record/notes.d/NOTE-1936.md) | Postman (1992) — Technopoly, chapter 1 "The Judgment of Thamus" | In chapter 1 Postman holds that every technology is both a burden and a blessing, that it carries an ideological bias that silently redefines a culture's central words, and that its effects are ecological, so that a new technology changes everything around it; he names the culture this produces Technopoly. | Skimmed |
 | [NOTE-1945](../../../record/notes.d/NOTE-1945.md) | Postman (1998) — Five Things We Need to Know About Technological Change | Postman's five ideas: every technology is a trade-off; its advantages and disadvantages are unevenly distributed; it embeds an idea; its change is ecological; and it tends to become mythic. Its consequences are vast, unpredictable and largely irreversible. | Read |
 | [NOTE-2110](../../../record/notes.d/NOTE-2110.md) v2 | Carnap — Logical Foundations of Probability | Carnap's case that inductive logic is the logic of probability in the logical sense: degree of confirmation, a relation between evidence and hypothesis whose elementary statements are analytic, read as partial entailment between ranges of state-descriptions. Chapter I gives the method, explication; chapter II separates two explicanda of probability, logical and frequency, and dissolves the controversy between them. The rest builds the logic: deductive groundwork, the regular confirmation functions and what holds for all of them, relevance, a comparative logic, the symmetrical functions, estimation and, provisionally, c*. The book is also a sustained worked example of explication. | Read |
+| [NOTE-2176](../../../record/notes.d/NOTE-2176.md) | Kuhn — The Structure of Scientific Revolutions | Paradigms make later puzzle-solving tractable and restrict what can be asked; their rigidity detects anomaly; revolutions change problems, standards and learned similarity relations, with losses. Exemplars teach a tacit similarity relation, with diminishing returns. Interpretive history. | Read |
+| [NOTE-2177](../../../record/notes.d/NOTE-2177.md) | Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions | Kuhn's essential tension, through a stand-in: convergent training in a tradition is a precondition of breaking with it, because a precise paradigm makes anomaly visible. Carries the thesis and two quoted sentences, not the essay. | Read |
+| [NOTE-2178](../../../record/notes.d/NOTE-2178.md) | Kuhn — Second Thoughts on Paradigms | Exemplars teach a learned similarity relation, prior to criteria, which makes new problems tractable; knowledge lives in that relation, and replacing it with rules changes it. Interpretive, with a historical chain and a thought experiment; no measurement. | Read |

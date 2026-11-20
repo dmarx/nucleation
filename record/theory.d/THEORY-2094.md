@@ -1,9 +1,12 @@
 ---
+number: 2094
 status: Proposed
+formerly:
+- THEORY-tmpg10ux
 title: 'Kuhn holds that a scientific community''s paradigm, learned from exemplary problem-solutions as a rule-free similarity relation, makes later puzzle-solving tractable and restricts which problems can be asked, that its rigidity makes anomalies visible until they bring crisis, and that a revolution changes the field''s problems, standards and some learned similarity relations, with losses as well as gains'
 version: 1
 source:
-- LIT-tmphu623
+- LIT-2884
 tags:
 - philosophy-of-science
 - learning-theory
@@ -21,12 +24,12 @@ corroborates:
 - CLAIM-756
 - CLAIM-475
 summary: >-
-  From the reading of [LIT-tmphu623](../literature.d/LIT-tmphu623.md) in [NOTE-tmp8hiqg](../notes.d/NOTE-tmp8hiqg.md). Paradigms as acquired
+  From the reading of [LIT-2884](../literature.d/LIT-2884.md) in [NOTE-2176](../notes.d/NOTE-2176.md). Paradigms as acquired
   organization that makes later work cheap, restricts inquiry and detects
   anomaly; interpretive history. Proposed until its promote_when is met.
 ---
 
-# THEORY-tmpg10ux: Kuhn holds that a scientific community's paradigm, learned from exemplary problem-solutions as a rule-free similarity relation, makes later puzzle-solving tractable and restricts which problems can be asked, that its rigidity makes anomalies visible until they bring crisis, and that a revolution changes the field's problems, standards and some learned similarity relations, with losses as well as gains
+# THEORY-2094: Kuhn holds that a scientific community's paradigm, learned from exemplary problem-solutions as a rule-free similarity relation, makes later puzzle-solving tractable and restricts which problems can be asked, that its rigidity makes anomalies visible until they bring crisis, and that a revolution changes the field's problems, standards and some learned similarity relations, with losses as well as gains
 
 ## The account
 

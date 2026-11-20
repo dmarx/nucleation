@@ -4,7 +4,7 @@
 
 **philosophy-of-science**.
 
-177 of 2175 NOTE documents. Back to the [full index](../README.md).
+180 of 2178 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -185,3 +185,6 @@
 | [NOTE-1884](../../../record/notes.d/NOTE-1884.md) | Li, Zoumpoulis, Puranam, Parker et al. — Artificial intelligences and human scientists exhibit complementary strengths in theory building | On a social-science task — predicting which features of academic papers are associated with their discussing racial or gender inequality, against a machine-learning benchmark, then explaining the realized patterns — the authors compare 25 LLMs with 13 senior researchers and 60 doctoral students. Individually, the LLMs matched or beat most humans on most tasks, produced more elaborate theories (more paths and latent variables) that blind raters preferred, but the extra complexity did not buy accuracy. Human theories were far more diverse, and human crowds gained more from aggregation. | Read |
 | [NOTE-2092](../../../record/notes.d/NOTE-2092.md) | Neacsu and others 2026 — Reviewing Structure Learning in and Out of the Active Inference Framework |  | Skimmed |
 | [NOTE-2110](../../../record/notes.d/NOTE-2110.md) v2 | Carnap — Logical Foundations of Probability | Carnap's case that inductive logic is the logic of probability in the logical sense: degree of confirmation, a relation between evidence and hypothesis whose elementary statements are analytic, read as partial entailment between ranges of state-descriptions. Chapter I gives the method, explication; chapter II separates two explicanda of probability, logical and frequency, and dissolves the controversy between them. The rest builds the logic: deductive groundwork, the regular confirmation functions and what holds for all of them, relevance, a comparative logic, the symmetrical functions, estimation and, provisionally, c*. The book is also a sustained worked example of explication. | Read |
+| [NOTE-2176](../../../record/notes.d/NOTE-2176.md) | Kuhn — The Structure of Scientific Revolutions | Paradigms make later puzzle-solving tractable and restrict what can be asked; their rigidity detects anomaly; revolutions change problems, standards and learned similarity relations, with losses. Exemplars teach a tacit similarity relation, with diminishing returns. Interpretive history. | Read |
+| [NOTE-2177](../../../record/notes.d/NOTE-2177.md) | Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions | Kuhn's essential tension, through a stand-in: convergent training in a tradition is a precondition of breaking with it, because a precise paradigm makes anomaly visible. Carries the thesis and two quoted sentences, not the essay. | Read |
+| [NOTE-2178](../../../record/notes.d/NOTE-2178.md) | Kuhn — Second Thoughts on Paradigms | Exemplars teach a learned similarity relation, prior to criteria, which makes new problems tractable; knowledge lives in that relation, and replacing it with rules changes it. Interpretive, with a historical chain and a thought experiment; no measurement. | Read |

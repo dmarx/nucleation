@@ -1,9 +1,12 @@
 ---
+number: 2095
 status: Proposed
+formerly:
+- THEORY-tmpndxv9
 title: 'Kuhn holds that the exemplars of a science, shared concrete problem-solutions, teach a learned perception of similarity rather than rules, by which a new problem is seen as like one already solved so that its formalism follows and only manipulative difficulties remain, and that knowledge stored in that similarity relation differs from knowledge stored as rules'
 version: 1
 source:
-- LIT-tmphef14
+- LIT-2883
 tags:
 - philosophy-of-science
 - learning-theory
@@ -19,13 +22,13 @@ promote_when: >-
 corroborates:
 - CLAIM-756
 summary: >-
-  From the reading of [LIT-tmphef14](../literature.d/LIT-tmphef14.md) in [NOTE-tmpvzqac](../notes.d/NOTE-tmpvzqac.md). The exemplar account:
+  From the reading of [LIT-2883](../literature.d/LIT-2883.md) in [NOTE-2178](../notes.d/NOTE-2178.md). The exemplar account:
   prior problem-solving leaves organization that makes later problems
   tractable; interpretive and historical. Proposed until its promote_when
   is met.
 ---
 
-# THEORY-tmpndxv9: Kuhn holds that the exemplars of a science, shared concrete problem-solutions, teach a learned perception of similarity rather than rules, by which a new problem is seen as like one already solved so that its formalism follows and only manipulative difficulties remain, and that knowledge stored in that similarity relation differs from knowledge stored as rules
+# THEORY-2095: Kuhn holds that the exemplars of a science, shared concrete problem-solutions, teach a learned perception of similarity rather than rules, by which a new problem is seen as like one already solved so that its formalism follows and only manipulative difficulties remain, and that knowledge stored in that similarity relation differs from knowledge stored as rules
 
 ## The account
 

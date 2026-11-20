@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1033 documents cited without acknowledgement.** Not listed: 35520 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1038 documents cited without acknowledgement.** Not listed: 35554 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3334,6 +3334,31 @@ No action is selfless in the sense of aiming at a good that is no self's: what i
 - [`record/theory.d/THEORY-1114.md:31`](../../record/theory.d/THEORY-1114.md)
 - [`record/theory.d/THEORY-655.md:26`](../../record/theory.d/THEORY-655.md)
 
+### [CLAIM-184](../../record/claims.d/CLAIM-184.md) — Proposed
+
+Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
+
+18 citations in 13 files await a look; 69 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
+- [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
+- [`docs/syntheses/warrant/interpretive.md:25`](../syntheses/warrant/interpretive.md)
+- [`record/arguments.d/ARG-045.md:39`](../../record/arguments.d/ARG-045.md)
+- [`record/cases.d/CASE-188.md:49`](../../record/cases.d/CASE-188.md)
+- [`record/claims.d/CLAIM-474.md:297`](../../record/claims.d/CLAIM-474.md)
+- [`record/literature.d/LIT-1926.md:43`](../../record/literature.d/LIT-1926.md)
+- [`record/literature.d/LIT-917.md:30`](../../record/literature.d/LIT-917.md)
+- [`record/literature.d/LIT-917.md:32`](../../record/literature.d/LIT-917.md)
+- [`record/notes.d/NOTE-1484.md:350`](../../record/notes.d/NOTE-1484.md)
+- [`record/notes.d/NOTE-2176.md:120`](../../record/notes.d/NOTE-2176.md)
+- [`record/questions.d/QUESTION-172.md:20`](../../record/questions.d/QUESTION-172.md)
+- [`record/syntheses.d/SYNTHESIS-006.md:224`](../../record/syntheses.d/SYNTHESIS-006.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:144`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:200`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:230`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:231`](../../record/syntheses.d/SYNTHESIS-012.md)
+- [`record/syntheses.d/SYNTHESIS-012.md:232`](../../record/syntheses.d/SYNTHESIS-012.md)
+
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
 A topos foundation for theories of physics: IV. Categories of systems
@@ -3458,30 +3483,6 @@ An organized individual that persists through changes of mode persists, on the r
 - [`record/syntheses.d/SYNTHESIS-043.md:197`](../../record/syntheses.d/SYNTHESIS-043.md)
 - [`record/syntheses.d/SYNTHESIS-043.md:202`](../../record/syntheses.d/SYNTHESIS-043.md)
 - [`record/syntheses.d/SYNTHESIS-043.md:216`](../../record/syntheses.d/SYNTHESIS-043.md)
-
-### [CLAIM-184](../../record/claims.d/CLAIM-184.md) — Proposed
-
-Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
-
-17 citations in 12 files await a look; 69 other citations of it are acknowledged.
-
-- [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
-- [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
-- [`docs/syntheses/warrant/interpretive.md:25`](../syntheses/warrant/interpretive.md)
-- [`record/arguments.d/ARG-045.md:39`](../../record/arguments.d/ARG-045.md)
-- [`record/cases.d/CASE-188.md:49`](../../record/cases.d/CASE-188.md)
-- [`record/claims.d/CLAIM-474.md:297`](../../record/claims.d/CLAIM-474.md)
-- [`record/literature.d/LIT-1926.md:43`](../../record/literature.d/LIT-1926.md)
-- [`record/literature.d/LIT-917.md:30`](../../record/literature.d/LIT-917.md)
-- [`record/literature.d/LIT-917.md:32`](../../record/literature.d/LIT-917.md)
-- [`record/notes.d/NOTE-1484.md:350`](../../record/notes.d/NOTE-1484.md)
-- [`record/questions.d/QUESTION-172.md:20`](../../record/questions.d/QUESTION-172.md)
-- [`record/syntheses.d/SYNTHESIS-006.md:224`](../../record/syntheses.d/SYNTHESIS-006.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:144`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:200`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:230`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:231`](../../record/syntheses.d/SYNTHESIS-012.md)
-- [`record/syntheses.d/SYNTHESIS-012.md:232`](../../record/syntheses.d/SYNTHESIS-012.md)
 
 ### [CLAIM-430](../../record/claims.d/CLAIM-430.md) — Proposed
 
@@ -4220,6 +4221,25 @@ Whether a learner's demands share a descent direction is decided by a test that 
 - [`record/syntheses.d/SYNTHESIS-030.md:308`](../../record/syntheses.d/SYNTHESIS-030.md)
 - [`record/syntheses.d/SYNTHESIS-034.md:136`](../../record/syntheses.d/SYNTHESIS-034.md)
 
+### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
+
+A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
+
+12 citations in 12 files await a look; 2 other citations of it are acknowledged.
+
+- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
+- [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
+- [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
+- [`record/notes.d/NOTE-2169.md:16`](../../record/notes.d/NOTE-2169.md)
+- [`record/notes.d/NOTE-2170.md:17`](../../record/notes.d/NOTE-2170.md)
+- [`record/notes.d/NOTE-2171.md:19`](../../record/notes.d/NOTE-2171.md)
+- [`record/notes.d/NOTE-2173.md:17`](../../record/notes.d/NOTE-2173.md)
+- [`record/notes.d/NOTE-2174.md:16`](../../record/notes.d/NOTE-2174.md)
+- [`record/notes.d/NOTE-2175.md:16`](../../record/notes.d/NOTE-2175.md)
+- [`record/notes.d/NOTE-2176.md:18`](../../record/notes.d/NOTE-2176.md)
+- [`record/notes.d/NOTE-2177.md:18`](../../record/notes.d/NOTE-2177.md)
+- [`record/notes.d/NOTE-2178.md:18`](../../record/notes.d/NOTE-2178.md)
+
 ### [CLAIM-174](../../record/claims.d/CLAIM-174.md) — Proposed
 
 A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
@@ -4841,22 +4861,6 @@ A far-from-equilibrium system that contributes to its own maintenance has functi
 - [`record/questions.d/QUESTION-128.md:38`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:97`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:128`](../../record/questions.d/QUESTION-128.md)
-
-### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
-
-A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
-
-9 citations in 9 files await a look; 2 other citations of it are acknowledged.
-
-- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
-- [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
-- [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
-- [`record/notes.d/NOTE-2169.md:16`](../../record/notes.d/NOTE-2169.md)
-- [`record/notes.d/NOTE-2170.md:17`](../../record/notes.d/NOTE-2170.md)
-- [`record/notes.d/NOTE-2171.md:19`](../../record/notes.d/NOTE-2171.md)
-- [`record/notes.d/NOTE-2173.md:17`](../../record/notes.d/NOTE-2173.md)
-- [`record/notes.d/NOTE-2174.md:16`](../../record/notes.d/NOTE-2174.md)
-- [`record/notes.d/NOTE-2175.md:16`](../../record/notes.d/NOTE-2175.md)
 
 ### [CLAIM-066](../../record/claims.d/CLAIM-066.md) — Superseded
 
@@ -5538,6 +5542,21 @@ Anchoring has costs and a price: an early anchor can entrench its framing, and i
 - [`docs/syntheses/warrant/interpretive.md:25`](../syntheses/warrant/interpretive.md)
 - [`record/claims.d/CLAIM-630.md:78`](../../record/claims.d/CLAIM-630.md)
 
+### [TERM-131](../../record/terms.d/TERM-131.md) — Proposed
+
+learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response
+
+8 citations in 8 files await a look; 23 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2139.md:89`](../../record/notes.d/NOTE-2139.md)
+- [`record/notes.d/NOTE-2143.md:77`](../../record/notes.d/NOTE-2143.md)
+- [`record/notes.d/NOTE-2149.md:83`](../../record/notes.d/NOTE-2149.md)
+- [`record/notes.d/NOTE-2158.md:87`](../../record/notes.d/NOTE-2158.md)
+- [`record/notes.d/NOTE-2162.md:56`](../../record/notes.d/NOTE-2162.md)
+- [`record/notes.d/NOTE-2163.md:88`](../../record/notes.d/NOTE-2163.md)
+- [`record/notes.d/NOTE-2176.md:120`](../../record/notes.d/NOTE-2176.md)
+- [`record/theory.d/THEORY-2062.md:26`](../../record/theory.d/THEORY-2062.md)
+
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
 A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
@@ -5597,6 +5616,21 @@ Hu, Petty, Shi, Merrill and Linzen report that a short first phase of training o
 - [`record/theory.d/THEORY-2067.md:23`](../../record/theory.d/THEORY-2067.md)
 - [`record/theory.d/THEORY-2075.md:26`](../../record/theory.d/THEORY-2075.md)
 - [`record/theory.d/THEORY-2081.md:24`](../../record/theory.d/THEORY-2081.md)
+
+### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
+
+The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
+
+8 citations in 4 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2883.md:8`](../../record/literature.d/LIT-2883.md)
+- [`record/notes.d/NOTE-2178.md:93`](../../record/notes.d/NOTE-2178.md)
+- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:83`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:88`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-829.md:13`](../../record/theory.d/THEORY-829.md)
 
 ### [THEORY-885](../../record/theory.d/THEORY-885.md) — Proposed
 
@@ -5963,20 +5997,6 @@ If the communicative object is a presheaf of propositions over a category of con
 - [`record/questions.d/QUESTION-332.md:30`](../../record/questions.d/QUESTION-332.md)
 - [`record/questions.d/QUESTION-332.md:49`](../../record/questions.d/QUESTION-332.md)
 
-### [TERM-131](../../record/terms.d/TERM-131.md) — Proposed
-
-learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response
-
-7 citations in 7 files await a look; 22 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-2139.md:89`](../../record/notes.d/NOTE-2139.md)
-- [`record/notes.d/NOTE-2143.md:77`](../../record/notes.d/NOTE-2143.md)
-- [`record/notes.d/NOTE-2149.md:83`](../../record/notes.d/NOTE-2149.md)
-- [`record/notes.d/NOTE-2158.md:87`](../../record/notes.d/NOTE-2158.md)
-- [`record/notes.d/NOTE-2162.md:56`](../../record/notes.d/NOTE-2162.md)
-- [`record/notes.d/NOTE-2163.md:88`](../../record/notes.d/NOTE-2163.md)
-- [`record/theory.d/THEORY-2062.md:26`](../../record/theory.d/THEORY-2062.md)
-
 ### [THEORY-056](../../record/theory.d/THEORY-056.md) — Proposed
 
 Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them
@@ -6273,7 +6293,7 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 
 A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared
 
-6 citations in 6 files await a look; 32 other citations of it are acknowledged.
+6 citations in 6 files await a look; 35 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2148.md:90`](../../record/notes.d/NOTE-2148.md)
 - [`record/notes.d/NOTE-2152.md:100`](../../record/notes.d/NOTE-2152.md)
@@ -6749,19 +6769,6 @@ Asserting is undertaking a commitment that entitles others to reassert it and ca
 - [`record/claims.d/CLAIM-363.md:204`](../../record/claims.d/CLAIM-363.md)
 - [`record/claims.d/CLAIM-363.md:205`](../../record/claims.d/CLAIM-363.md)
 - [`record/literature.d/LIT-1667.md:63`](../../record/literature.d/LIT-1667.md)
-
-### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
-
-The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
-
-6 citations in 2 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:83`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:88`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-829.md:13`](../../record/theory.d/THEORY-829.md)
 
 ### [THEORY-787](../../record/theory.d/THEORY-787.md) — Rejected
 
@@ -7771,7 +7778,7 @@ Forgetting a hidden mechanism can turn a sheaf of histories into a presheaf of r
 
 Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon
 
-4 citations in 4 files await a look; 69 other citations of it are acknowledged.
+4 citations in 4 files await a look; 72 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2142.md:53`](../../record/notes.d/NOTE-2142.md)
 - [`record/notes.d/NOTE-2168.md:66`](../../record/notes.d/NOTE-2168.md)
@@ -8996,7 +9003,7 @@ A critique of produced wants cannot rest on how they were formed, by whatever pr
 
 An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted
 
-3 citations in 2 files await a look; 50 other citations of it are acknowledged.
+3 citations in 2 files await a look; 53 other citations of it are acknowledged.
 
 - [`record/leads.d/LEAD-002.md:33`](../../record/leads.d/LEAD-002.md)
 - [`record/leads.d/LEAD-002.md:56`](../../record/leads.d/LEAD-002.md)
@@ -11213,6 +11220,15 @@ In West, Fisher, Gardner and Kiers's account, a transition in individuality is d
 - [`record/decisions.d/ADR-077.md:49`](../../record/decisions.d/ADR-077.md)
 - [`record/decisions.d/ADR-077.md:77`](../../record/decisions.d/ADR-077.md)
 
+### [THEORY-1358](../../record/theory.d/THEORY-1358.md) — Proposed
+
+In Kemp, Goodman and Tenenbaum's account, people learn to learn causal models by inferring a causal schema, a partition of objects into categories with category-level causal powers, characteristic features and between-category interactions, from contingency and feature data, and the schema lets a causal model for a new object be learned from one trial or from its features alone while still being overruled when the object proves unlike any category
+
+2 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2171.md:70`](../../record/notes.d/NOTE-2171.md)
+- [`record/notes.d/NOTE-2178.md:95`](../../record/notes.d/NOTE-2178.md)
+
 ### [THEORY-1425](../../record/theory.d/THEORY-1425.md) — Proposed
 
 Rocks and colleagues show that in disordered spring networks a chosen linear strain response between a distant pair of target nodes and a pair of source nodes, and several such responses at once, can be produced with near-total success by removing about one percent of the bonds, chosen greedily with an analytic update built from the network's states of self-stress and compatible stress
@@ -11244,7 +11260,7 @@ Deep responsibility is not limited to the moral, and attributability and account
 
 A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles
 
-2 citations in 1 file await a look; 21 other citations of it are acknowledged.
+2 citations in 1 file await a look; 23 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:25`](../../record/questions.d/QUESTION-047.md)
 - [`record/questions.d/QUESTION-047.md:42`](../../record/questions.d/QUESTION-047.md)
@@ -12031,7 +12047,7 @@ The duties to comply with a justified rule and to support the institution that a
 
 A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench
 
-1 citation in 1 file awaits a look; 22 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 23 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-764.md:52`](../../record/claims.d/CLAIM-764.md)
 
@@ -12538,6 +12554,14 @@ Two Faces of Responsibility
 1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2008.md:18`](../../record/notes.d/NOTE-2008.md)
+
+### [LIT-2882](../../record/literature.d/LIT-2882.md) — Unavailable
+
+The Essential Tension: Tradition and Innovation in Scientific Research
+
+1 citation in 1 file awaits a look.
+
+- [`record/literature.d/LIT-2885.md:7`](../../record/literature.d/LIT-2885.md)
 
 ### [LIT-337](../../record/literature.d/LIT-337.md) — Unavailable
 
@@ -13307,13 +13331,13 @@ Multicellular cooperation depends on suppressing cells that gain fitness at the 
 
 - [`record/claims.d/CLAIM-060.md:51`](../../record/claims.d/CLAIM-060.md)
 
-### [THEORY-1358](../../record/theory.d/THEORY-1358.md) — Proposed
+### [THEORY-1363](../../record/theory.d/THEORY-1363.md) — Proposed
 
-In Kemp, Goodman and Tenenbaum's account, people learn to learn causal models by inferring a causal schema, a partition of objects into categories with category-level causal powers, characteristic features and between-category interactions, from contingency and feature data, and the schema lets a causal model for a new object be learned from one trial or from its features alone while still being overruled when the object proves unlike any category
+In Kemp, Perfors and Tenenbaum's account, abstract inductive constraints such as the shape bias are higher-level parameters of a hierarchical Bayesian model, here the within-category variability and population feature distribution of a Dirichlet-multinomial, learned from a few labelled exemplars per category at the same time as the categories' own feature distributions, and once learned they let a single exemplar of a new category license generalization by shape
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-2171.md:70`](../../record/notes.d/NOTE-2171.md)
+- [`record/notes.d/NOTE-2178.md:95`](../../record/notes.d/NOTE-2178.md)
 
 ### [THEORY-1380](../../record/theory.d/THEORY-1380.md) — Proposed
 
@@ -13642,6 +13666,30 @@ Maennel and colleagues find that convolutional networks pretrained on images wit
 1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2878.md:40`](../../record/literature.d/LIT-2878.md)
+
+### [THEORY-2094](../../record/theory.d/THEORY-2094.md) — Proposed
+
+Kuhn holds that a scientific community's paradigm, learned from exemplary problem-solutions as a rule-free similarity relation, makes later puzzle-solving tractable and restricts which problems can be asked, that its rigidity makes anomalies visible until they bring crisis, and that a revolution changes the field's problems, standards and some learned similarity relations, with losses as well as gains
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2884.md:44`](../../record/literature.d/LIT-2884.md)
+
+### [THEORY-2095](../../record/theory.d/THEORY-2095.md) — Proposed
+
+Kuhn holds that the exemplars of a science, shared concrete problem-solutions, teach a learned perception of similarity rather than rules, by which a new problem is seen as like one already solved so that its formalism follows and only manipulative difficulties remain, and that knowledge stored in that similarity relation differs from knowledge stored as rules
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2883.md:42`](../../record/literature.d/LIT-2883.md)
+
+### [THEORY-2096](../../record/theory.d/THEORY-2096.md) — Proposed
+
+Kuhn, as Kindi reads his 1959 essay, holds that innovation in a mature science depends on convergent thinking as much as on divergent, because training that commits a scientist firmly to a tradition is what lets research recognize where the tradition fails and break with it
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2885.md:42`](../../record/literature.d/LIT-2885.md)
 
 ### [THEORY-221](../../record/theory.d/THEORY-221.md) — Proposed
 

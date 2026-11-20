@@ -139,9 +139,9 @@ ruling. [THEORY-1024](../theory.d/THEORY-1024.md) suggests a third property, edi
 apart from localization.
 
 ## Note of 2026-11-19: Kuhn, read
-<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2094 THEORY-2095 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Kuhn's exemplars ([THEORY-tmpndxv9](../theory.d/THEORY-tmpndxv9.md), [THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md)) illustrate the term: a
+Kuhn's exemplars ([THEORY-2095](../theory.d/THEORY-2095.md), [THEORY-2094](../theory.d/THEORY-2094.md)) illustrate the term: a
 retained change in what one sees as similar, learned by doing problems,
 which alters what one can later do and leaves the knowledge in the
 organization rather than in statable rules, corrigible through further

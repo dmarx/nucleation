@@ -150,12 +150,12 @@ on what is held and on which part was transferred. Illustrations, not
 tests.
 
 ## Note of 2026-11-19: Kuhn, read
-<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2094 THEORY-2096 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Structure ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md)) illustrates the frontiers moving apart: normal
+Structure ([THEORY-2094](../theory.d/THEORY-2094.md)) illustrates the frontiers moving apart: normal
 science extends what a community can do while narrowing what it can ask,
 and a revolution moves the inquiry frontier, changing problems and
 standards, with only partial overlap in what old and new can solve. The
-1959 essay, through a stand-in ([THEORY-tmptbea0](../theory.d/THEORY-tmptbea0.md)), places the formulation
+1959 essay, through a stand-in ([THEORY-2096](../theory.d/THEORY-2096.md)), places the formulation
 of anomalies in training in a tradition, an inquiry frontier set by
 acquired organization. Interpretive.

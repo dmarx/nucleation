@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-471 of 2175 NOTE documents. Back to the [full index](../README.md).
+472 of 2178 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -479,3 +479,4 @@
 | [NOTE-2165](../../../record/notes.d/NOTE-2165.md) | Chen and colleagues — Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models | Skills defined by data and a prerequisite relation defined by a fixed- budget mixture test. At equal total steps, a mixture of a target skill's data with its prerequisites' reaches a loss threshold in 32 to 36 per cent fewer steps on synthetic tasks, and lowers loss by 4 to 11 per cent on Natural Instructions categories. No prerequisite is trained first; a sequential skill curriculum does no better than random, and gains on real corpora are small. | Read |
 | [NOTE-2166](../../../record/notes.d/NOTE-2166.md) | The owner — What's In A Name? Investigating Bias And Identity In Text-To-Image Models | A partial implementation of the identity proposal on Stable Diffusion v1.4: identity strength as dispersion of 128 samples per name in CLIP space, and a distinction between unique and self-consistent pseudo-identities. No training dynamics; results unwritten. | Skimmed |
 | [NOTE-2172](../../../record/notes.d/NOTE-2172.md) | The owner — investigating identity formation as a concrete example of grokking dynamics (+ NameBasis) | A brainstorm with a hypothesis of phases in learning a named identity, a sub-hypothesis of a weight change when the model gives an identity its own concept, and measures over samples; no protocol, no training run, no results. | Read |
+| [NOTE-2176](../../../record/notes.d/NOTE-2176.md) | Kuhn — The Structure of Scientific Revolutions | Paradigms make later puzzle-solving tractable and restrict what can be asked; their rigidity detects anomaly; revolutions change problems, standards and learned similarity relations, with losses. Exemplars teach a tacit similarity relation, with diminishing returns. Interpretive history. | Read |

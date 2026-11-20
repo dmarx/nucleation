@@ -6,7 +6,7 @@
 
 **Personhood** — what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024).
 
-24 of 2093 THEORY documents. Back to the [full index](../README.md).
+24 of 2096 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

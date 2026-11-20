@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [19 Nov 23:42 — Kuhn read at the owner's suggestion: three works on paradigms, exemplars and the essential tension, as interpretive corroboration for learning that makes later learning cheaper](2026-11.md#kuhn-read-at-the-owners-suggestion-three-works-on-paradigms-exemplars-and-the-essential-tension-as-interpretive-corroboration-for-learning-that-makes-later-learning-cheaper)
 - [19 Nov 23:09 — The owner's identity projects, filed as a directional experiment for accidental against reliable capability](2026-11.md#the-owners-identity-projects-filed-as-a-directional-experiment-for-accidental-against-reliable-capability)
 - [19 Nov 22:47 — The backlog audit of 2026-11-19: six slices of the record read for research opportunities, and 184 filed as leads, 59 rated high and 125 medium; the low tier is listed for the owner](2026-11.md#the-backlog-audit-of-2026-11-19-six-slices-of-the-record-read-for-research-opportunities-and-184-filed-as-leads-59-rated-high-and-125-medium-the-low-tier-is-listed-for-the-owner)
 - [19 Nov 22:12 — The task-composition readings: a search and eight works on whether a learned shared structure lowers the cost of tasks composed on it; no work runs the full design, and the three parts are covered separately](2026-11.md#the-task-composition-readings-a-search-and-eight-works-on-whether-a-learned-shared-structure-lowers-the-cost-of-tasks-composed-on-it-no-work-runs-the-full-design-and-the-three-parts-are-covered-separately)
@@ -106,10 +107,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-294 entries across 3 books, newest first.
+295 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 97 | 2026-11-01 | 2026-11-19 |
+| [2026-11](2026-11.md) | 98 | 2026-11-01 | 2026-11-19 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

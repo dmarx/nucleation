@@ -109,10 +109,10 @@ collecting more fine-tuning data and growing the model, and list the ideal
 pretraining ratio for a data-limited target as open.
 
 ## Note of 2026-11-19: Kuhn, read
-<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2094 THEORY-2096 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-A partial historical answer from Kuhn ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md), and through a
-stand-in [THEORY-tmptbea0](../theory.d/THEORY-tmptbea0.md)): invest in the paradigm while its tools keep
+A partial historical answer from Kuhn ([THEORY-2094](../theory.d/THEORY-2094.md), and through a
+stand-in [THEORY-2096](../theory.d/THEORY-2096.md)): invest in the paradigm while its tools keep
 solving its problems, retool only at crisis, and keep the capacity to
 change through variable individual judgement and new entrants; deep
 investment in present competence is itself what pays for later

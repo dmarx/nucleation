@@ -6,7 +6,7 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-309 of 2093 THEORY documents. Back to the [full index](../README.md).
+309 of 2096 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
