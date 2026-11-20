@@ -117,3 +117,11 @@ before the account and for other purposes.
 - Moral disciplining ([LIT-101](../literature.d/LIT-101.md), [NOTE-132](../notes.d/NOTE-132.md), A1) rests on the premise that
   reciprocal cooperation requires delaying gratification, which is the time
   lag between giving and return here.
+
+## Note of 2026-11-20: Alexander 1985, read
+
+Alexander ([LIT-tmp629tl](../literature.d/LIT-tmp629tl.md), read in [NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md)) credits this paper with
+the idea he calls indirect reciprocity, under Trivers's name "generalized
+reciprocity" (note 3, p. 18), and cites it for the cost condition and for
+self-deception (pp. 12–13). Background: it confirms the record's reading
+that the multiparty section anticipates indirect reciprocity.
