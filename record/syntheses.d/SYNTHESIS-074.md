@@ -52,7 +52,7 @@ integrates:
 - CLAIM-496
 - TERM-097
 ---
-<!-- inactive-ok-file: CLAIM-628 CLAIM-629 CLAIM-631 CLAIM-634 — Proposed; components, with their standing -->
+<!-- inactive-ok-file: CLAIM-628 CLAIM-631 CLAIM-634 — Proposed; components, with their standing -->
 <!-- inactive-ok-file: CLAIM-263 CLAIM-553 CLAIM-555 CLAIM-618 — Proposed; cited for what components relate to or leave out -->
 <!-- inactive-ok-file: SYNTHESIS-026 SYNTHESIS-027 SYNTHESIS-036 SYNTHESIS-041 SYNTHESIS-044 SYNTHESIS-048 SYNTHESIS-051 SYNTHESIS-056 SYNTHESIS-064 — Proposed; the other lines' accounts that already integrate members -->
 <!-- inactive-ok-file: ADR-075 ADR-084 — Proposed; the test applied and the decision on accounts -->

@@ -118,7 +118,7 @@ reliability of a long path vs quality of each move.
 
 ## Note of 2026-11-15: the single-turn sources of the PASS@(k,T) dispute, read
 
-<!-- inactive-ok-file: THEORY-1894 THEORY-1880 THEORY-1908 THEORY-1899 THEORY-1896 THEORY-1672 — Proposed; the single-turn readings of 2026-11-15 and the multi-turn account they are set beside, cited as the sources and an instance of the claim's columns, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-1880 THEORY-1908 THEORY-1899 THEORY-1896 THEORY-1672 — Proposed; the single-turn readings of 2026-11-15 and the multi-turn account they are set beside, cited as the sources and an instance of the claim's columns, nothing here rests on them -->
 
 The dispute PASS@(k,T) extends to agents is now held at its source.
 - Brown et al. ([THEORY-1894](../theory.d/THEORY-1894.md)) supply the coverage metric, pass@k estimated per problem.

@@ -135,7 +135,7 @@ mixing action gives no unit partition. So their symbolic representations
 were not forced into a balanced partition of units by the symmetry of
 their data. If role abstraction coincides with balanced structure among
 units there, it is learned structure, the kind Velarde and colleagues
-report (THEORY-2055, read since: see the note of 2026-11-19 below), and the question stays open in that form.
+report ([THEORY-2055](../theory.d/THEORY-2055.md), read since: see the note of 2026-11-19 below), and the question stays open in that form.
 
 ## What it does not show
 
