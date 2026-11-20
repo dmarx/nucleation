@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
 title: 'Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -23,6 +23,11 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §2.2 states its proposition, and §1 and §13
     restate it. No other change.
+- version: 4
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpxi826 and CLAIM-tmpy75jv give the
+    structure scale separation makes a shape, a tree. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,6 +86,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
@@ -437,3 +443,15 @@ No status change.
 
 ## Note of 2026-11-19: Wang and Slotine, read
 An analogy from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): relative degrees of freedom contract quickly and the synchronous relation then holds as a constraint, a set that is "both an invariant set and a linear constraint" (Ex. 4.2). A worked case of the shape the claim describes, in a deterministic network; not evidence for the claim's general form.
+
+## Note of 2026-11-20: the structure is a tree
+
+This claim holds that scale separation "helps make structure and not only
+marks it". CLAIM-tmpxi826 gives that structure a shape in one model: with
+rates ε^U, separating the time scales makes the log commute-time geometry of
+the state space tree-like, Gromov-hyperbolic with a defect that does not
+grow as the scales separate, and the tree is the nesting of windows between
+scales. CLAIM-tmpy75jv argues that the gap that makes each level, by closure
+of its slow variable, is the gap that spaces it in the tree. Support for the
+claim's form in a model; it does not test the claim's defeater (a), which
+asks about the systems the record's individuation claims treat.

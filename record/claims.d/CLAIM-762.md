@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmpw8xkt
 title: 'Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system''s own operations and are reused'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpy75jv reads the classes of a
+    tree of time scales as the equivalence classes this claim describes. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,6 +57,7 @@ summary: >-
   A's objection that any partition yields classes distinguishable from
   one another (A24 §6). The completion by differentiation is A's (A29 §5).
 ---
+<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2033 THEORY-2043 THEORY-2047 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-296 CLAIM-478 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -148,3 +155,13 @@ The owner's Reddit case ([CASE-297](../cases.d/CASE-297.md), U37) illustrates th
 <!-- inactive-ok-file: THEORY-2070 — Proposed; cited from the readings of 2026-11-19 -->
 
 Krohn and Weninger ([THEORY-2070](../theory.d/THEORY-2070.md); [NOTE-2140](../notes.d/NOTE-2140.md)), by analogy: on Reddit a name can come before its community, "links are made to subreddits that do not exist" "(often as a joke), and occasionally these links spur the creation of a new community", a route to a named unit that starts from a symbol rather than from collapsing differences. Correlational, and nothing on closure or reuse. Hessel, Tan and Lee ([NOTE-2164](../notes.d/NOTE-2164.md)): affixes such as "true" or "ask" recur across many pairs as templates for new communities. Neither is evidence for the claim; the note above on the Reddit case should be read as illustration.
+
+## Note of 2026-11-20: equivalence classes made by fast mixing
+
+Where a chain's rates are separated, the fast mixing within a block collapses
+differences among its states that do not matter at the slower scale, and the
+classes left are CLAIM-581's budgeted classes, nesting into one tree
+(CLAIM-tmpxi826). CLAIM-tmpy75jv reads them as the classes this claim says
+are reified by collapse. A parallel: it gives the collapse a mechanism in one
+model, and says nothing about this claim's condition that the classes be
+closed under the system's own operations and reused.
