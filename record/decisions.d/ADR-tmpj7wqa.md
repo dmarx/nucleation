@@ -6,16 +6,16 @@ tags:
 - record
 date: '2026-11-20'
 summary: >-
-  Extends ADR-074's list of lawful copies on the owner's ruling of
+  Extends [ADR-074](ADR-074.md)'s list of lawful copies on the owner's ruling of
   2026-11-20: "if you find it on a course page, it's in bounds." A copy
   hosted on a course's own page or site (a syllabus or reading-list page,
   a course folder on a faculty or lecture site, a course blog, a public
   learning-platform folder) counts as lawful whatever it is, a whole
-  in-copyright book included. ADR-074 admitted course copies of articles
+  in-copyright book included. [ADR-074](ADR-074.md) admitted course copies of articles
   and manuscripts and excluded whole books; that exclusion no longer
   applies to a course's own copy. Rejected: limiting the ruling to the one
   Kuhn copy it first answered, and reading "on a course page" to cover a
-  link from a course page to a host ADR-074 excludes. Shadow libraries and
+  link from a course page to a host [ADR-074](ADR-074.md) excludes. Shadow libraries and
   file-sharing uploads stay excluded wherever they are linked from. First
   application: The Biology of Moral Systems moves from Unavailable to
   Unfetched, and the Kuhn copy's standing rests on this rule.
@@ -27,14 +27,14 @@ summary: >-
 
 ## Context
 
-ADR-074 lists the copies that count as lawful to read. A copy of a
+[ADR-074](ADR-074.md) lists the copies that count as lawful to read. A copy of a
 published article, or of an author's manuscript, on a course or
 reading-list page counts. Uploads of whole in-copyright books do not, and
 the list did not say what happens when a course hosts a whole book.
 
 On 2026-11-19 the reader of Kuhn's *Structure of Scientific Revolutions*
 found the whole second edition as a PDF in a course-papers folder on a
-faculty site. The filer read ADR-074 as excluding it and asked. The owner
+faculty site. The filer read [ADR-074](ADR-074.md) as excluding it and asked. The owner
 ruled "treat it as lawful", and the curation entry of that day recorded
 the ruling as one for that copy. On 2026-11-20 the owner made it general:
 "if you find it on a course page, it's in bounds."
@@ -44,21 +44,21 @@ the ruling as one for that copy. On 2026-11-20 the owner made it general:
 1. **A copy a course hosts counts as lawful, whatever it is.** That covers
    a syllabus or reading-list page, a course folder on a faculty or
    lecture site, a course blog, and a public folder on a learning platform.
-   It includes a whole in-copyright book. ADR-074's exclusion of whole
+   It includes a whole in-copyright book. [ADR-074](ADR-074.md)'s exclusion of whole
    books no longer applies to a course's own copy.
 2. **The copy must be hosted by the course**, on its page or its site. A
-   link from a course page to a host ADR-074 excludes (a shadow library, an
+   link from a course page to a host [ADR-074](ADR-074.md) excludes (a shadow library, an
    ebook-piracy site, a file-sharing upload such as Scribd) does not make
    that copy lawful.
 3. **The NOTE names the copy and the course** (or says the course could not
    be identified, and why the page is a course page), and the reader checks
-   that it is the work, as ADR-074 asks.
-4. **ADR-074's other kinds and exclusions stand, and so do ADR-102's and
-   ADR-053's line between `Unfetched` and `Unavailable`.** A whole book on
+   that it is the work, as [ADR-074](ADR-074.md) asks.
+4. **[ADR-074](ADR-074.md)'s other kinds and exclusions stand, and so do [ADR-102](ADR-102.md)'s and
+   [ADR-053](ADR-053.md)'s line between `Unfetched` and `Unavailable`.** A whole book on
    a faculty page that is not a course page, or on any other site, is
-   still excluded, unless ADR-102 admits it.
+   still excluded, unless [ADR-102](ADR-102.md) admits it.
 5. **Entries filed `Unavailable` because a course's whole-book copy was
-   passed over become `Unfetched`** (ADR-074 point 3: a located lawful copy
+   passed over become `Unfetched`** ([ADR-074](ADR-074.md) point 3: a located lawful copy
    never makes a work Unavailable).
 
 ## Alternatives considered
@@ -67,29 +67,29 @@ the ruling as one for that copy. On 2026-11-20 the owner made it general:
   making the ruling general.
 - **Read "on a course page" as any copy a course page links to.** That
   would admit a course's link to a shadow library. The owner's words are
-  about what is found on the page, and ADR-074's exclusions are about the
+  about what is found on the page, and [ADR-074](ADR-074.md)'s exclusions are about the
   host.
 - **Admit whole books on faculty pages too.** The owner's ruling names
-  course pages. A faculty page that is not a course's stays under ADR-074.
+  course pages. A faculty page that is not a course's stays under [ADR-074](ADR-074.md).
 
 ## Consequences
 
 - **First application, a sweep of the `Unavailable` and `Unfetched` LITs
   whose status notes mention a whole book and a course, syllabus or
   lecture page.** Eight matched. One changes:
-  - **LIT-495, *The Biology of Moral Systems*:** `Unavailable` → `Unfetched`.
+  - **[LIT-495](../literature.d/LIT-495.md), *The Biology of Moral Systems*:** `Unavailable` → `Unfetched`.
     Its filing of 2026-10-02 found "a complete scan posted on a course
     blog" and did not use it. On 2026-11-20 a search found a scan on CUNY
     Academic Commons, the university's platform for course and
     faculty sites. This is probably that copy. It has not been fetched.
-  - **LIT-2884, Kuhn's *Structure*:** its copy's standing now rests on this
+  - **[LIT-2884](../literature.d/LIT-2884.md), Kuhn's *Structure*:** its copy's standing now rests on this
     rule as well as on the ruling for that copy, and a dated note says so.
-  - **No change for the other six.** LIT-1004's and LIT-2747's whole-book
+  - **No change for the other six.** [LIT-1004](../literature.d/LIT-1004.md)'s and [LIT-2747](../literature.d/LIT-2747.md)'s whole-book
     copies are on a court library and a library site, not course pages.
-    LIT-1472 is already `Unfetched`. LIT-1985, LIT-2663 and LIT-2718 found
+    [LIT-1472](../literature.d/LIT-1472.md) is already `Unfetched`. [LIT-1985](../literature.d/LIT-1985.md), [LIT-2663](../literature.d/LIT-2663.md) and [LIT-2718](../literature.d/LIT-2718.md) found
     no course copy of the work.
 - **The read-and-file skill's step 5** names this kind of copy beside
-  ADR-074's and ADR-102's, so that reader briefs inherit it.
+  [ADR-074](ADR-074.md)'s and [ADR-102](ADR-102.md)'s, so that reader briefs inherit it.
 - A later sweep may find more. Briefs before this decision told readers to
   pass over whole books on course pages, and not every reader recorded
   where they found one.
