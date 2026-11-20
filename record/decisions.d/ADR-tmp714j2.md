@@ -101,10 +101,10 @@ at about the right moment.
 [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) covers it in part, as the scheme's use.
 - Pull requests 535 to 540 met trigger 2: six pull requests, a stack folded
 top-down, conflicts on shared notes, and a rebase onto concretized codes.
-Written as POSTMORTEM-tmp5eoc7.
+Written as [POSTMORTEM-tmp5eoc7](../postmortems.d/POSTMORTEM-tmp5eoc7.md).
 - Pull requests 541 to 545 met trigger 2: five pull requests, one folded
 into another, and two rounds of conflicts on dated notes appended to the
-same entries. Written as POSTMORTEM-tmpe7ifr.
+same entries. Written as [POSTMORTEM-tmpe7ifr](../postmortems.d/POSTMORTEM-tmpe7ifr.md).
 - Pull requests 546 and 547 (this scheme, and the LEAD revision) will meet
 trigger 1 once postmortems are written under them.
 
