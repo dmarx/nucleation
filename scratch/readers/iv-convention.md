@@ -50,7 +50,7 @@ It introduces the focal point (later "Schelling point"), with experimental quest
 ### Assumptions
 - Players know that the other is trying to coordinate too, and know that the other knows it.
 - The evidence is an informal, "unscientific" questionnaire sample (n of roughly 8-45 per item, mostly New Haven respondents).
-- Imagination and analogy, not formal logic, select the clue ("more like puns and anagrams than like chess"). Tacit and explicit bargaining lie on one continuum of communication.
+- Imagination and analogy, not formal logic, select the clue (he likens the game to puns and anagrams rather than chess, p. 202; paraphrase). Tacit and explicit bargaining lie on one continuum of communication.
 
 ### Concepts
 Tacit bargaining; tacit coordination; focal point; prominence, uniqueness and conspicuousness; coordination of expectations (higher-order); the power of weakness, or commitment by incapacity; qualitative versus quantitative limits; unilateral proposal as coordinator; rallying point.
