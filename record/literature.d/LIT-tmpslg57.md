@@ -28,7 +28,7 @@ summary: >-
   falling geometrically by level, relaxes as a power law rather than an
   exponential. Here because it may say what a hierarchy of time scales
   looks like from one level: hyperbolic, not exponential, decay
-  (LEAD-tmp7rohc). Unverified until read.
+  ([LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md)). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpxi826 — Proposed; filed in this contribution of 2026-11-20 -->
 
@@ -39,6 +39,6 @@ Ogielski and Stein. Physical Review Letters 55 (1985), 1634–1637, DOI
 
 ## Standing in the record
 
-Registered on 2026-11-20 for LEAD-tmp7rohc: the time geometry
-CLAIM-tmpxi826 derives is ultrametric in the limit, and this is the
+Registered on 2026-11-20 for [LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md): the time geometry
+[CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md) derives is ultrametric in the limit, and this is the
 classical treatment of dynamics on such spaces. Not read.

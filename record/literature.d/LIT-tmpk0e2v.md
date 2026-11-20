@@ -27,7 +27,7 @@ summary: >-
   showing that an agent discounting exponentially at an unknown hazard
   rate, with a suitable prior over the rate, discounts hyperbolically on
   average. Here because it may tie Ainslie's hyperbolic discounting
-  (THEORY-1117) to a spread of time scales (LEAD-tmp7rohc). Unverified
+  ([THEORY-1117](../theory.d/THEORY-1117.md)) to a spread of time scales ([LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md)). Unverified
   until read.
 ---
 
@@ -38,4 +38,4 @@ Sozou. Proceedings of the Royal Society B 265 (1998), 2015–2020, DOI
 
 ## Standing in the record
 
-Registered on 2026-11-20 for LEAD-tmp7rohc. Not read.
+Registered on 2026-11-20 for [LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md). Not read.

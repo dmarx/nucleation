@@ -50,8 +50,8 @@ summary: >-
   exists because of a rate gap"): "this connects us to entries about how
   scale separation drives structure formation". The assistant's reading:
   the gap that makes a level dynamically (normal hyperbolicity, Simon–Ando
-  closure, CLAIM-157's gap-isolated block) is the gap that spaces it in the
-  tree-like time geometry CLAIM-tmpxi826 derives, so CLAIM-478's "rate
+  closure, [CLAIM-157](CLAIM-157.md)'s gap-isolated block) is the gap that spaces it in the
+  tree-like time geometry [CLAIM-tmpxi826](CLAIM-tmpxi826.md) derives, so [CLAIM-478](CLAIM-478.md)'s "rate
   differences help make structure" has a formal sense: rate differences
   between levels that exceed those within make the state space's time
   geometry a hierarchy. The wording is the
@@ -73,15 +73,15 @@ between blocks, at a slow one. The block occupations are then a slow
 variable onto which the fast dynamics relax. In geometric terms the space of
 block-constant laws is an attracting slow manifold, normally hyperbolic when
 the transverse (within-block) rate dominates the tangential (between-block)
-one (THEORY-1429, after Fenichel). CLAIM-386 gives the linear version: the
-Simon–Ando aggregate closes to order ε, the coupling ratio. CLAIM-157 makes
+one ([THEORY-1429](../theory.d/THEORY-1429.md), after Fenichel). [CLAIM-386](CLAIM-386.md) gives the linear version: the
+Simon–Ando aggregate closes to order ε, the coupling ratio. [CLAIM-157](CLAIM-157.md) makes
 the same block "one system" while its gap beats the cost of naming it.
-THEORY-1306 and THEORY-1558 (Juarrero, after Salthe, Allen and Starr): levels
+[THEORY-1306](../theory.d/THEORY-1306.md) and [THEORY-1558](../theory.d/THEORY-1558.md) (Juarrero, after Salthe, Allen and Starr): levels
 are "demarcated by sharp discontinuities in characteristic process and
 relaxation rates". In each, the quantity that makes the level is the ratio
 of between-block to within-block rates.
 
-**Job two: the level is a node of a tree.** CLAIM-tmpxi826: with rates
+**Job two: the level is a node of a tree.** [CLAIM-tmpxi826](CLAIM-tmpxi826.md): with rates
 ε^U, the log commute-time geometry is within a constant of log(1/ε) times
 the minimax-barrier ultrametric, so it becomes a tree as ε → 0. A block whose
 exit barrier exceeds its internal barriers by Δu is a class of that tree,
@@ -93,7 +93,7 @@ in logarithm, the spacing of job two. So a hierarchy of normally hyperbolic
 levels is a hierarchy whose time geometry is Gromov-hyperbolic: dynamical
 hyperbolicity level by level gives geometric hyperbolicity of the whole.
 When the rates converge, both fail together: the aggregate stops closing and
-the level stops showing in the geometry (CLAIM-tmp9lm3d).
+the level stops showing in the geometry ([CLAIM-tmp9lm3d](CLAIM-tmp9lm3d.md)).
 
 **Between against within.** What matters is not a gap alone but the gap
 between levels set against the spread of rates within a level. In a designed
@@ -107,22 +107,22 @@ between levels, the rates still make a tree, but not that hierarchy's.
 
 ## What it adds to the line on structure
 
-- **CLAIM-478** holds, in its version of 2026-11-20, that rate differences
+- **[CLAIM-478](CLAIM-478.md)** holds, in its version of 2026-11-20, that rate differences
   help make structure and not only mark it: where some degrees of freedom
   settle faster than others by more than the rates vary among them, the
   relation they settle into is a constraint over the window between the
   rates. This
   claim gives the structure a shape: nested windows make a tree, the tree of
-  CLAIM-581's budgeted classes, and the time geometry is that tree.
-- **CLAIM-762 and SYNTHESIS-108** (collapsing differences that do not matter
+  [CLAIM-581](CLAIM-581.md)'s budgeted classes, and the time geometry is that tree.
+- **[CLAIM-762](CLAIM-762.md) and [SYNTHESIS-108](../syntheses.d/SYNTHESIS-108.md)** (collapsing differences that do not matter
   into equivalence classes is how classes become units): the fast mixing
   within a block is the collapse; the budgeted classes are the equivalence
   classes it leaves; the tree is their nesting.
-- **SYNTHESIS-048** records that "coupling separates time scales only where
+- **[SYNTHESIS-048](../syntheses.d/SYNTHESIS-048.md)** records that "coupling separates time scales only where
   it dissipates differences" and leaves open "how distinctions are made and
-  unmade". This claim takes the separation as given; CLAIM-tmp9lm3d says
+  unmade". This claim takes the separation as given; [CLAIM-tmp9lm3d](CLAIM-tmp9lm3d.md) says
   where, in a barrier model, distinctions are made and unmade.
-- **The contraction thread** (CLAIM-tmpdx6l8): a level's block occupations
+- **The contraction thread** ([CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md)): a level's block occupations
   are conserved on the fast scale and forgotten on the slow one. A hierarchy
   is a nested sequence of approximately conserved parts, each lost on its own
   time scale ε^(−u).
@@ -130,10 +130,10 @@ between levels, the rates still make a tree, but not that hierarchy's.
 ## What it does not say
 
 - Not that the normal-hyperbolicity side is proved here. The record has not
-  read Fenichel (LIT-1638, Unfetched) and holds Kuehn's statement as a
-  Proposed reading; the link to CLAIM-tmpxi826 is by the shared rate ratio.
-- Not that every hierarchy is a time-scale hierarchy. CLAIM-755 separates
+  read Fenichel ([LIT-1638](../literature.d/LIT-1638.md), Unfetched) and holds Kuehn's statement as a
+  Proposed reading; the link to [CLAIM-tmpxi826](CLAIM-tmpxi826.md) is by the shared rate ratio.
+- Not that every hierarchy is a time-scale hierarchy. [CLAIM-755](CLAIM-755.md) separates
   dynamical from economic separation; a hierarchy of reuse need not be a
   tree of time scales.
 - Not that the blocks are produced by the system. The barriers are given;
-  where they come from is CLAIM-478's and SYNTHESIS-048's question.
+  where they come from is [CLAIM-478](CLAIM-478.md)'s and [SYNTHESIS-048](../syntheses.d/SYNTHESIS-048.md)'s question.

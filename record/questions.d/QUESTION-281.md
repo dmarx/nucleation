@@ -323,7 +323,7 @@ Poole and colleagues ([THEORY-2031](../theory.d/THEORY-2031.md), bears_on; [NOTE
 
 ## Note of 2026-11-20: crossings of time scales
 
-CLAIM-tmp9lm3d gives a partial answer for systems a barrier landscape
+[CLAIM-tmp9lm3d](../claims.d/CLAIM-tmp9lm3d.md) gives a partial answer for systems a barrier landscape
 describes: the tree of levels is fixed while barriers move without crossing,
 and a distinction between levels is made or unmade only where two barriers
 cross, with the two levels indistinguishable in the time geometry near the
@@ -331,4 +331,4 @@ crossing. That is creation and loss of a distinction by a crossing of time
 scales. It does not touch the question's other transitions (instability,
 bifurcation of the attractors, tipping) or its second half, whether
 creation, stabilization and constitutive role are separate achievements.
-CLAIM-tmpy75jv bears on the question through it.
+[CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md) bears on the question through it.

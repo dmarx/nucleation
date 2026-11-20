@@ -330,12 +330,12 @@ trajectory ([NOTE-1215](../notes.d/NOTE-1215.md)).
 
 ## Note of 2026-11-20: the blocks nest into one tree
 
-This claim's unit is the gap-isolated block. Under CLAIM-tmpxi826, where a
+This claim's unit is the gap-isolated block. Under [CLAIM-tmpxi826](CLAIM-tmpxi826.md), where a
 chain's rates are ε^U, the blocks isolated by a gap at some time scale are
-the classes of one tree, the tree of CLAIM-581's budgeted classes, and the
+the classes of one tree, the tree of [CLAIM-581](CLAIM-581.md)'s budgeted classes, and the
 log commute-time geometry is that tree. So the candidate systems a state
 space offers at different targets nest; two blocks at different scales are
-either nested or disjoint. CLAIM-tmpy75jv argues that the gap this claim
+either nested or disjoint. [CLAIM-tmpy75jv](CLAIM-tmpy75jv.md) argues that the gap this claim
 compares with the Occam factor is the one that spaces the block's level in
 the tree. That this claim's blocks are blocks of components and the tree's
 are blocks of states is a difference the note does not settle.

@@ -35,15 +35,15 @@ rests_on:
 - CLAIM-581
 summary: >-
   The link the record lacked between dynamical hierarchy (levels marked by
-  rate gaps, THEORY-1306, THEORY-1558, CLAIM-478) and geometric
-  hyperbolicity (THEORY-193, THEORY-196): rate differences across levels
+  rate gaps, [THEORY-1306](../theory.d/THEORY-1306.md), [THEORY-1558](../theory.d/THEORY-1558.md), [CLAIM-478](CLAIM-478.md)) and geometric
+  hyperbolicity ([THEORY-193](../theory.d/THEORY-193.md), [THEORY-196](../theory.d/THEORY-196.md)): rate differences across levels
   make the log commute-time geometry of a state space tree-like, and the tree is
-  the one CLAIM-581 builds from peak-capacity thresholds. Proved by
+  the one [CLAIM-581](CLAIM-581.md) builds from peak-capacity thresholds. Proved by
   electrical-network bounds and checked numerically. The owner asked
   (2026-11-20) whether the record could "formalize the relationship
   between hierarchy and hyperbolicity". Results of this kind belong to
   Freidlin–Wentzell metastability theory, which the record does not hold
-  (LEAD-tmpdv2tt); the proof here stands on its own. The wording is the
+  ([LEAD-tmpdv2tt](../leads.d/LEAD-tmpdv2tt.md)); the proof here stands on its own. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-1558 CLAIM-478 THEORY-196 — Proposed; the readings and claims this links -->
@@ -60,7 +60,7 @@ higher barrier U is slower by a power of ε. Let
 - κ(i, j) be the commute time, the expected time to go from i to j and
   back, and D(i, j) = log κ(i, j);
 - u(i, j) be the minimax barrier: over paths from i to j, the least
-  possible highest U along the path. This is CLAIM-581's peak-capacity
+  possible highest U along the path. This is [CLAIM-581](CLAIM-581.md)'s peak-capacity
   threshold, and it is an ultrametric.
 
 Then for every pair and every ε,
@@ -90,7 +90,7 @@ differ by at most 4c and the metric is δ-hyperbolic with δ ≤ 2c (adding the
 constant log n changes no difference of sums). δ does not depend on ε,
 while the distances grow as s. So hyperbolicity relative to scale,
 δ/diameter, goes to zero as time scales separate, and D/s converges to the
-ultrametric u. The tree is CLAIM-581's tree of classes reachable within a
+ultrametric u. The tree is [CLAIM-581](CLAIM-581.md)'s tree of classes reachable within a
 budget.
 
 **When levels show.** Two levels of that tree whose barriers differ by Δu
@@ -100,7 +100,7 @@ level, ε^(−Δu), exceeds e^(2c) = max(E, n − 1)². That is a finite rate
 difference, not a limit: the claim needs no asymptotic separation of
 scales. The factor is sufficient and loose; in the designed hierarchy below,
 levels showed at ratios near 10 on 16 states, where the factor is 1,024
-(QUESTION-tmp4ma9f).
+([QUESTION-tmp4ma9f](../questions.d/QUESTION-tmp4ma9f.md)).
 
 ## Checks
 
@@ -136,9 +136,9 @@ Run under `python3 -I` on 2026-11-20 (scripts in the curation entry of
   wells; the same argument should go through, and was not checked.
 - Not the converse: that a tree-like time geometry with well-separated
   levels requires separated rates. Only the spacing argument above bears on
-  it (QUESTION-tmpv6fxp).
+  it ([QUESTION-tmpv6fxp](../questions.d/QUESTION-tmpv6fxp.md)).
 - Not that the result is new to mathematics. Freidlin–Wentzell theory and
   the metastability literature hold the small-noise asymptotics of
   transition times; the record holds neither.
 - Not that coupling produces the separation. The barriers are given here.
-  CLAIM-481 holds that coupling does not by itself separate time scales.
+  [CLAIM-481](CLAIM-481.md) holds that coupling does not by itself separate time scales.

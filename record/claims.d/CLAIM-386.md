@@ -118,9 +118,9 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-20: the closure margin as a spacing
 
-CLAIM-tmpy75jv uses this claim's result: the Simon–Ando aggregate closes to
+[CLAIM-tmpy75jv](CLAIM-tmpy75jv.md) uses this claim's result: the Simon–Ando aggregate closes to
 order ε, the ratio of between-block to within-block coupling. It argues that
 log(1/ε) is also the spacing between the block's level and the next in the
-log commute-time geometry CLAIM-tmpxi826 derives, so the margin by which a
+log commute-time geometry [CLAIM-tmpxi826](CLAIM-tmpxi826.md) derives, so the margin by which a
 level closes is the margin by which it shows in the geometry. An application
 of this claim, not a change to it.

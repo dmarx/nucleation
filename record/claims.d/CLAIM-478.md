@@ -101,7 +101,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
-<!-- inactive-ok-file: CLAIM-tmp9lm3d QUESTION-tmp4ma9f — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
+<!-- inactive-ok-file: CLAIM-tmp9lm3d — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
@@ -123,17 +123,17 @@ and a more appropriate -- or at least easier to demonstrate -- assertion
 would call it 'rate differences'". Three findings of that day support the
 change.
 
-- **No limit is needed.** CLAIM-tmpxi826's bound holds at every ε: a level
+- **No limit is needed.** [CLAIM-tmpxi826](CLAIM-tmpxi826.md)'s bound holds at every ε: a level
   shows in a chain's log commute-time geometry once the rate ratio across it
   exceeds a finite factor. "Scale separation" suggests an asymptotic regime
   the mechanism does not require.
 - **Any rate difference orders a tree; its size decides whether the
   dynamics shows it.** The tree of budgeted classes depends only on the
-  order of the rates (CLAIM-tmp9lm3d), so rate differences alone always give
+  order of the rates ([CLAIM-tmp9lm3d](CLAIM-tmp9lm3d.md)), so rate differences alone always give
   one. That is nearly empty. What has content is the comparison: a designed
   hierarchy kept its place in the time geometry once the rate ratio between
   levels beat the spread of rates within them, and was rearranged otherwise
-  (CLAIM-tmpy75jv; the sharp threshold is QUESTION-tmp4ma9f).
+  ([CLAIM-tmpy75jv](CLAIM-tmpy75jv.md); the sharp threshold is [QUESTION-tmp4ma9f](../questions.d/QUESTION-tmp4ma9f.md)).
 - **So the claim's condition is between against within.** "Settle fast
   relative to others" becomes "settle faster than others by more than the
   rates vary among them". Where the rates within a level vary more than
@@ -490,11 +490,11 @@ An analogy from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): relativ
 ## Note of 2026-11-20: the structure is a tree
 
 This claim holds that scale separation "helps make structure and not only
-marks it". CLAIM-tmpxi826 gives that structure a shape in one model: with
+marks it". [CLAIM-tmpxi826](CLAIM-tmpxi826.md) gives that structure a shape in one model: with
 rates ε^U, separating the time scales makes the log commute-time geometry of
 the state space tree-like, Gromov-hyperbolic with a defect that does not
 grow as the scales separate, and the tree is the nesting of windows between
-scales. CLAIM-tmpy75jv argues that the gap that makes each level, by closure
+scales. [CLAIM-tmpy75jv](CLAIM-tmpy75jv.md) argues that the gap that makes each level, by closure
 of its slow variable, is the gap that spaces it in the tree. Support for the
 claim's form in a model; it does not test the claim's defeater (a), which
 asks about the systems the record's individuation claims treat.

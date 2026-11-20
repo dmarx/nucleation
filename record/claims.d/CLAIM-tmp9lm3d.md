@@ -23,14 +23,14 @@ rests_on:
 bears_on:
 - QUESTION-281
 summary: >-
-  What makes and unmakes a level of the tree CLAIM-tmpxi826 derives. The
+  What makes and unmakes a level of the tree [CLAIM-tmpxi826](CLAIM-tmpxi826.md) derives. The
   budgeted classes are those of single-linkage clustering on the barriers,
   so the tree depends only on the order of the barrier values: it is
   constant while barriers move without crossing, and changes only where
-  two cross. With CLAIM-tmpxi826's slack, levels whose barriers are close
+  two cross. With [CLAIM-tmpxi826](CLAIM-tmpxi826.md)'s slack, levels whose barriers are close
   cannot be told apart in the time geometry. A partial answer, in this
   model, to how distinctions come into being and pass away
-  (QUESTION-281). The wording is the assistant's (Claude, in this
+  ([QUESTION-281](../questions.d/QUESTION-281.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpxi826 — Proposed; filed in this contribution of 2026-11-20 -->
@@ -40,7 +40,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-581's classes at budget b are the components of the graph keeping
+[CLAIM-581](CLAIM-581.md)'s classes at budget b are the components of the graph keeping
 only edges with barrier at most b. As b rises, these are the merges of
 single-linkage clustering on the barrier values, so the minimax barrier
 u(i, j) is the largest barrier on the path from i to j in a minimum spanning
@@ -51,9 +51,9 @@ dissolved only where two barriers cross.
 
 **Near a crossing the levels blur.** Two levels whose barriers differ by Δu
 are separated in the log commute-time geometry by about log(1/ε)·Δu, and
-CLAIM-tmpxi826's slack is 2·log max(E, n − 1). As two barriers approach a
+[CLAIM-tmpxi826](CLAIM-tmpxi826.md)'s slack is 2·log max(E, n − 1). As two barriers approach a
 crossing, Δu → 0 and the two levels stop being distinguishable in the time
-geometry before the tree itself changes. This is THEORY-1558's "when the
+geometry before the tree itself changes. This is [THEORY-1558](../theory.d/THEORY-1558.md)'s "when the
 cycling rates converge … the distinction between the levels [is] lost",
 stated for this model.
 
@@ -67,7 +67,7 @@ entry of 2026-11-20, 232905).
 
 ## What it bears on
 
-QUESTION-281 asks by which transitions distinctions come into being and pass
+[QUESTION-281](../questions.d/QUESTION-281.md) asks by which transitions distinctions come into being and pass
 away: instability, nucleation across a barrier, bifurcation, tipping. In this
 model a distinction between levels is made or unmade only when two barriers
 exchange order, a crossing of time scales. That is one answer for systems a

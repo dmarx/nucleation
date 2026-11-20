@@ -228,12 +228,12 @@ In the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa
 
 ## Note of 2026-11-20: the tree as the limit of a time geometry
 
-CLAIM-tmpxi826 shows that for a chain with symmetric rates ε^U, the log
+[CLAIM-tmpxi826](CLAIM-tmpxi826.md) shows that for a chain with symmetric rates ε^U, the log
 commute time between two states is within log max(E, n − 1) of log n plus
 log(1/ε) times this claim's threshold, the minimax barrier. So as time
 scales separate, the time geometry of the state space converges, after
 scaling, to this claim's ultrametric, and the tree of budgeted classes is
 what that geometry becomes. This claim's peak-capacity threshold is thereby
-also the exponent of a transition time. CLAIM-tmp9lm3d adds that the tree
+also the exponent of a transition time. [CLAIM-tmp9lm3d](CLAIM-tmp9lm3d.md) adds that the tree
 changes only where two barriers cross. A bearing of use; nothing here
 changes this claim's derivation.

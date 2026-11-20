@@ -10,7 +10,7 @@ line:
 - formal-apparatus
 - distributed-agency
 summary: >-
-  CLAIM-tmpxi826 proves that a level shows in the log commute-time
+  [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md) proves that a level shows in the log commute-time
   geometry once the rate ratio across it exceeds max(E, n − 1)², which is
   1,024 for 16 states on a torus. In a designed binary hierarchy on 16
   states, levels kept their designed place at ratios near 10, once the
@@ -25,7 +25,7 @@ summary: >-
 
 ## What makes it open
 
-The bound in CLAIM-tmpxi826 is worst case on both sides: a minimax path of
+The bound in [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md) is worst case on both sides: a minimax path of
 n − 1 edges for the upper bound, a cut of all E edges for the lower. In a
 hierarchy the cut between two blocks has many edges in parallel, and their
 heterogeneity averages; the path within a block is short. So the slack that
@@ -42,6 +42,6 @@ conservatively at the largest spread.
 - a construction showing that the n- and E-dependence cannot be removed in
   general, and the class of hierarchies in which it can.
 
-It bears on CLAIM-tmpy75jv, whose "between against within" rests on the
-simulation, and on CLAIM-478 in its version of 2026-11-20, which asks for
+It bears on [CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md), whose "between against within" rests on the
+simulation, and on [CLAIM-478](../claims.d/CLAIM-478.md) in its version of 2026-11-20, which asks for
 rate differences between levels that exceed those within.

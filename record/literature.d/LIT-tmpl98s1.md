@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-20, not read. Registered as a metastability source for
-  CLAIM-tmpxi826, whose small-noise asymptotics belong to this
+  [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md), whose small-noise asymptotics belong to this
   literature. arXiv math/0007160 is open; no reading was attempted.
 title: 'Metastability and Low Lying Spectra in Reversible Markov Chains'
 version: 1
@@ -28,7 +28,7 @@ summary: >-
   Bovier, Eckhoff, Gayrard and Klein (2000; Comm. Math. Phys. 2002). By
   its title, metastability in reversible Markov chains and its relation to
   the low-lying spectrum. Here as the literature that holds, rigorously
-  and more generally, the small-noise asymptotics CLAIM-tmpxi826 proves
+  and more generally, the small-noise asymptotics [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md) proves
   for a simple case: transition times set by barriers, and a hierarchy of
   metastable sets. Unverified until read.
 ---
@@ -42,5 +42,5 @@ Communications in Mathematical Physics 228 (2002), 219–255, DOI
 
 ## Standing in the record
 
-Registered on 2026-11-20 beside CLAIM-tmpxi826. Not read; LEAD-tmpdv2tt is
-the plan to read it, with Fenichel (LIT-1638).
+Registered on 2026-11-20 beside [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md). Not read; [LEAD-tmpdv2tt](../leads.d/LEAD-tmpdv2tt.md) is
+the plan to read it, with Fenichel ([LIT-1638](LIT-1638.md)).

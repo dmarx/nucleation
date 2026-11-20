@@ -10,7 +10,7 @@ line:
 - formal-apparatus
 - distributed-agency
 summary: >-
-  The converse of CLAIM-tmpxi826, which shows that separated time scales
+  The converse of [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md), which shows that separated time scales
   make the log commute-time geometry tree-like. The spacing argument
   suggests the converse: levels a distance Δ apart in that geometry differ
   in commute time by a factor e^Δ. But commute time mixes rates with the
@@ -24,12 +24,12 @@ summary: >-
 
 ## What makes it open
 
-CLAIM-tmpxi826 goes one way: rates ε^U with small ε give a log commute-time
+[CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md) goes one way: rates ε^U with small ε give a log commute-time
 metric within a constant of log(1/ε) times an ultrametric. The other way is
 not shown. Commute time is n·R_eff, and effective resistance depends on the
 graph as well as the rates: a long thin path of equal-rate edges has large
 resistance with no rate gap at all. So a tree-like time geometry might arise
-from the shape of the state space alone, as THEORY-193's growth process makes
+from the shape of the state space alone, as [THEORY-193](../theory.d/THEORY-193.md)'s growth process makes
 a hyperbolic graph with no rates in it.
 
 ## What would count as an answer
@@ -42,5 +42,5 @@ a hyperbolic graph with no rates in it.
   alone suffices; and then a statement of which hierarchies are of time
   scales and which of shape.
 
-It bears on CLAIM-tmpy75jv: if shape alone can make the tree, "one rate gap
+It bears on [CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md): if shape alone can make the tree, "one rate gap
 does two jobs" holds only where the tree comes from rates.

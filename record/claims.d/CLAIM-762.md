@@ -160,8 +160,8 @@ Krohn and Weninger ([THEORY-2070](../theory.d/THEORY-2070.md); [NOTE-2140](../no
 
 Where a chain's rates are separated, the fast mixing within a block collapses
 differences among its states that do not matter at the slower scale, and the
-classes left are CLAIM-581's budgeted classes, nesting into one tree
-(CLAIM-tmpxi826). CLAIM-tmpy75jv reads them as the classes this claim says
+classes left are [CLAIM-581](CLAIM-581.md)'s budgeted classes, nesting into one tree
+([CLAIM-tmpxi826](CLAIM-tmpxi826.md)). [CLAIM-tmpy75jv](CLAIM-tmpy75jv.md) reads them as the classes this claim says
 are reified by collapse. A parallel: it gives the collapse a mechanism in one
 model, and says nothing about this claim's condition that the classes be
 closed under the system's own operations and reused.
