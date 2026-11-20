@@ -26,7 +26,7 @@ integrates:
 - CASE-187
 - QUESTION-362
 ---
-<!-- inactive-ok-file: CLAIM-329 CLAIM-355 CLAIM-447 CLAIM-514 CLAIM-519 TERM-086 TERM-118 THEORY-092 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-447 CLAIM-514 CLAIM-519 TERM-086 TERM-118 THEORY-092 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-055: Competent behaviour across a family of goals fixes the world model an observer must ascribe without identifying any mechanism inside the agent, so world-modeling is a family of query-relative, resource-bounded capabilities, of which a representational model is one realization, and producing, maintaining and revising them are further organizational achievements that a proposed study would separate
 

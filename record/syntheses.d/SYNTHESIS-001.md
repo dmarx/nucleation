@@ -82,11 +82,11 @@ summary: >-
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-615 — filed from the same exchange, Superseded -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: SYNTHESIS-003 CLAIM-617 CASE-223 — filed from the same exchange, Proposed; premise, component and the owner's study -->
+<!-- inactive-ok-file: SYNTHESIS-003 CLAIM-617 — filed from the same exchange, Proposed; premise, component and the owner's study -->
 <!-- inactive-ok-file: ARG-075 — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
 <!-- inactive-ok-file: SYNTHESIS-005 — filed from the same exchange, Proposed; the later theses that rest on this one -->
-<!-- inactive-ok-file: CLAIM-329 CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
 
 # SYNTHESIS-001: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
 

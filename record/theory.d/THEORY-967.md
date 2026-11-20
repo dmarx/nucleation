@@ -43,7 +43,7 @@ summary: >-
   head 1:0. Whether the late roles are built from the early ones, or merely
   follow them in time, is not tested.
 ---
-<!-- inactive-ok-file: CLAIM-329 THEORY-279 — Proposed; the thesis on continuity by transmission and a neighbouring account, cited as open -->
+<!-- inactive-ok-file: THEORY-279 — Proposed; the thesis on continuity by transmission and a neighbouring account, cited as open -->
 # THEORY-967: In a two-layer attention-only transformer, attention heads change function during training: heads in the first layer that predict simple n-grams early later become the previous-token heads of the induction circuit, a bracket-matching support head, or supporting members of a circuit with second-layer n-gram heads, giving up simple n-grams as they do, and particular n-grams pass from one head to another; so later circuits form partly by repurposing components that already had a role
 
 ## Source

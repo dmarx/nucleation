@@ -320,4 +320,4 @@ Rechecked after [CLAIM-595](CLAIM-595.md) went Active and [TERM-117](../terms.d/
 
 ## Note of 2026-11-20: what holds it back
 
-Rechecked after CASE-183's revision of 2026-11-07, which writes into that case the count of inbound references per code reported in the note of 2026-11-06 and changes nothing else; the second defeater stays unmet on that count. The first defeater still needs structure formed on content that persisted set beside structure formed on content restated afresh, which no count of codes can supply, and ARG-028's question, whether the record's own grammar can show anchoring, is still open.
+Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07, which writes into that case the count of inbound references per code reported in the note of 2026-11-06 and changes nothing else; the second defeater stays unmet on that count. The first defeater still needs structure formed on content that persisted set beside structure formed on content restated afresh, which no count of codes can supply, and [ARG-028](../arguments.d/ARG-028.md)'s question, whether the record's own grammar can show anchoring, is still open.

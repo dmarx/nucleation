@@ -167,9 +167,9 @@ different stances converging.
 
 ## Note of 2026-11-20: what holds it back
 
-The move the worklist names was checked: CLAIM-090's version 4 added only
-a bearing on QUESTION-137, and CLAIM-090 stays Proposed, still waiting on
+The move the worklist names was checked: [CLAIM-090](CLAIM-090.md)'s version 4 added only
+a bearing on [QUESTION-137](../questions.d/QUESTION-137.md), and [CLAIM-090](CLAIM-090.md) stays Proposed, still waiting on
 a chain whose endpoint matches a prior measured on its own transmitters.
 This claim's own wait is unchanged: no study the record holds starts
-chains from different stances, which its defeat condition and CLAIM-234's
-concession ask for (LEAD-187).
+chains from different stances, which its defeat condition and [CLAIM-234](CLAIM-234.md)'s
+concession ask for ([LEAD-187](../leads.d/LEAD-187.md)).

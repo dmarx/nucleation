@@ -41,7 +41,7 @@ summary: >-
   [ADR-056](../decisions.d/ADR-056.md)'s proposed kinds would class it as a disambiguation.
 ---
 <!-- inactive-ok-file: NOTE-1799 — Skimmed; the reading filed from the same exchange -->
-<!-- inactive-ok-file: TERM-066 CLAIM-544 CLAIM-545 THEORY-040 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 CLAIM-329 — Proposed, Open, Deferred or new; cited as open -->
+<!-- inactive-ok-file: TERM-066 CLAIM-544 CLAIM-545 THEORY-040 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 — Proposed, Open, Deferred or new; cited as open -->
 
 # TERM-100: provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (what it was made from, the sense the descent term holds)
 

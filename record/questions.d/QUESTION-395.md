@@ -73,4 +73,4 @@ two departments of [CASE-210](../cases.d/CASE-210.md).
 
 ## Note of 2026-11-20: the part split off
 
-Records kept of each capacity are settled by QUESTION-tmp1j2mq: they fix the marginals, which bound readiness and identify it only when the capacities' dependence is known (CLAIM-632). What stays open here is which of the other kinds of evidence listed above, alone or together, identify readiness for a specified rare contingency, and how that is weighed against the capability's cost and its alternatives.
+Records kept of each capacity are settled by [QUESTION-tmp1j2mq](QUESTION-tmp1j2mq.md): they fix the marginals, which bound readiness and identify it only when the capacities' dependence is known ([CLAIM-632](../claims.d/CLAIM-632.md)). What stays open here is which of the other kinds of evidence listed above, alone or together, identify readiness for a specified rare contingency, and how that is weighed against the capability's cost and its alternatives.

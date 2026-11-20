@@ -88,4 +88,4 @@ The wait of 2026-10-29 stands: no chain the record holds has
 per-generation judgements of communicative configuration, so whether a
 change of act comes at a marked generation, which the defeat condition
 tests, has no observation either way. Nothing it names has moved since;
-LEAD-174 holds the plan for per-generation estimates along a chain.
+[LEAD-174](../leads.d/LEAD-174.md) holds the plan for per-generation estimates along a chain.
