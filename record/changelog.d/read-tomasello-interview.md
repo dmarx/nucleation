@@ -7,3 +7,6 @@
   The Irrational Decision and The Hidden Spring registered and read
   through stand-ins; The Normative Turn (abstract) and The Agency Gap
   (poster) registered.
+- The interview itself ("What a Squirrel Knows That Language Models Skip"),
+  read from the owner's transcript, with a NOTE, a THEORY bearing on
+  QUESTION-009, and dated notes on QUESTION-009 and the agency typology.

@@ -79,3 +79,15 @@ neither author treats as an additional agent; Tomasello's role of roles
 chimpanzee group hunting, has no roles and no joint agent. Evidence on
 where the line falls; relations written: THEORY-tmpqxwyk and
 THEORY-tmpwr5sp bear_on this question.
+
+## Note of 2026-11-20: Tomasello on markets and shared agents, an interview
+<!-- inactive-ok-file: THEORY-tmpx361j — Proposed; the account -->
+
+In a 2026 interview (LIT-tmpfusyv, read in NOTE-tmpkd5w9; account
+THEORY-tmpx361j) Tomasello answers within his own view: markets and
+capital are not agents ("I'm not a big fan of talking about inanimate
+things as agents"); traffic jams, inflation and crashes are phenomena of
+the third kind that emerge from individuals' intentional acts; a shared
+agent needs a joint goal, roles and mutual knowledge. Evidence for the
+negative side for emergent regularities. Relation written: THEORY-tmpx361j
+bears_on this question.
