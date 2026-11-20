@@ -127,6 +127,6 @@ whether a `blocked` stage or status is wanted.
 land a schema change alone and early, so that content does not stack on
 it.
 
-Recommendations 1 to 5 are carried out by ADR-tmpcoobj, named in
+Recommendations 1 to 5 are carried out by [ADR-tmpcoobj](../decisions.d/ADR-tmpcoobj.md), named in
 `prompted`, with its first application. This scheme's own decision
-(ADR-tmpk8vnc) applies recommendation 6's third rule.
+([ADR-tmpk8vnc](../decisions.d/ADR-tmpk8vnc.md)) applies recommendation 6's third rule.

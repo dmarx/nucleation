@@ -7,8 +7,8 @@ tags:
 - taxonomy
 date: '2026-11-20'
 summary: >-
-  Carries out recommendations 1 to 5 of POSTMORTEM-tmp7fylf, the review of
-  ADR-109 after the backlog audit filed 184 leads. A `priority` (high,
+  Carries out recommendations 1 to 5 of [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md), the review of
+  [ADR-109](ADR-109.md) after the backlog audit filed 184 leads. A `priority` (high,
   medium, low) for triage, backfilled from the audit's ratings (59 high,
   125 medium). The stage `specified` no longer needs a cost, which no
   source gave; a new stage `costed` holds what does; 53 leads whose design
@@ -30,7 +30,7 @@ summary: >-
 
 ## Context
 
-POSTMORTEM-tmp7fylf reviewed ADR-109 a day after the backlog audit filed
+[POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) reviewed [ADR-109](ADR-109.md) a day after the backlog audit filed
 184 leads, and found the scheme in use but weak where the owner most
 wanted it: the backlog could not be sorted for triage; 96 per cent of
 leads sat at stage idea, because `specified` required a cost no source
@@ -42,7 +42,7 @@ converse blurbs said they were written by `luria link --fix`.
 On the last point the postmortem was wrong in part. Reading luria's own
 code: for a directed pair, the primary side is stored and the derived side
 is computed for every reader by `edges()`, and never written back
-(relations.py, DP-2 and DP-3). The converses were never meant to be
+(relations.py, [DP-2](../../docs/design-principles.md#dp-2) and [DP-3](../../docs/design-principles.md#dp-3)). The converses were never meant to be
 stored. What misled was the blurbs. The 161 back-references a dry run of
 `luria link` reports are completions of undirected pairs elsewhere in the
 record, not these.
@@ -60,13 +60,13 @@ owner.
 the lead or in the CASE it is designed in, no cost needed); costed
 (specified, and roughly what it would cost); underway. First application:
 53 leads at idea with an `operationalized_in` CASE move to specified;
-LEAD-166, whose source states the design and its cost, moves to costed;
+[LEAD-166](../leads.d/LEAD-166.md), whose source states the design and its cost, moves to costed;
 the three other specified leads stay.
 3. **Blocked.** A plain field `blocked_on`, a list of what the lead waits on
 that the record cannot do itself (a copy the owner must supply, a host to
 allow, an owner's ruling), removed when it clears. Not a status: a lead
 can be blocked at any stage, and still be worth following. First
-application: LEAD-126 and LEAD-130, each waiting in part on copies behind
+application: [LEAD-126](../leads.d/LEAD-126.md) and [LEAD-130](../leads.d/LEAD-130.md), each waiting in part on copies behind
 SSRN or PhilArchive.
 4. **Scope.** `advances` may name a THEORY, for a replication or study that
 would meet its `promote_when`, or a TERM, for the operationalization or
@@ -81,7 +81,7 @@ every reader and never stored.
 because no sweep has looked for dependencies among the 451 open questions;
 one is left for a later decision, not filed here.
 
-ADR-109 stands, amended on these points; its status note says so. The
+[ADR-109](ADR-109.md) stands, amended on these points; its status note says so. The
 config blurbs name "the decision revising the LEAD scheme" rather than a
 temporary code.
 
@@ -105,5 +105,5 @@ drift.
 The backlog can be read by priority and by stage: 59 high, 125 medium, 13
 unrated; 137 at idea, 56 specified, 1 costed, 3 underway. Two leads say
 what blocks them. Readings and terms can be advanced by leads.
-POSTMORTEM-tmp7fylf names this decision in `prompted`, and its item on the
+[POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) names this decision in `prompted`, and its item on the
 converses is corrected.
