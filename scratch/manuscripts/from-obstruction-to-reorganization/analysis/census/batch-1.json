@@ -1,0 +1,886 @@
+[
+ {
+  "adr": "ADR-001",
+  "date": "2026-09-25",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "scheme",
+   "relation",
+   "vocabulary",
+   "term",
+   "process"
+  ],
+  "operation": [
+   "add",
+   "remove"
+  ],
+  "regime": "refine",
+  "component": [
+   "language",
+   "criteria"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "The anthology's reading-time triage of 2026-09-25",
+  "noticer": "review_process",
+  "proposer": "unknown",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner also decided that \"out of scope there\" should not mean \"unrecorded\", and named this repository as the catchall.",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Founding decision: ports schemes, drops SOTA scheme and explains relation, seeds topics. Boundary narrowed by ADR-013 and changed by ADR-048 (history v2, v3); status stays Active. Prior misfit was works unrecorded, which no residue value fits."
+ },
+ {
+  "adr": "ADR-002",
+  "date": "2026-09-25",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "field"
+  ],
+  "operation": [
+   "redefine"
+  ],
+  "regime": "revise",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "It surfaced when a close reading ([NOTE-005](../notes.d/NOTE-005.md)) flagged the discrepancy",
+  "noticer": "filing_agent",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner's ruling: use exact dates where we have them.",
+  "residue": "false_statement",
+  "migration": 29,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Changes the meaning of published: and the template comment; grammar_change true on that basis. v2 adds owner's earlier-date ruling of 2026-10-09, prompted by LIT-853 and LIT-854."
+ },
+ {
+  "adr": "ADR-003",
+  "date": "2026-09-25",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked for the three missing words and for a philosophy sub-vocabulary",
+  "noticer": "review_process",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner asked for the three missing words and for a philosophy sub-vocabulary, asking whether luria supports union vocabularies.",
+  "residue": "forced_category",
+  "migration": 6,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Ten terms plus a philosophy tag group. Gap found by a survey of the anthology's journal and by close readings. philosophy-of-science and control-theory held back. Migration counts the six named retagged works."
+ },
+ {
+  "adr": "ADR-004",
+  "date": "2026-09-25",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "Seeding the survey's 65 candidates found more",
+  "noticer": "filing_agent",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner asked for the word.",
+  "residue": "forced_category",
+  "migration": 4,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Adds the word ADR-003 held back; metaphysics was the nearest wrong tag."
+ },
+ {
+  "adr": "ADR-005",
+  "date": "2026-09-26",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary",
+   "view"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language",
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner also asked for a tag, so that a view could report on the candidates.",
+  "noticer": "unknown",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner also asked for a tag, so that a view could report on the candidates.",
+  "residue": "prose_only",
+  "migration": 3,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "A curation flag in the topics vocabulary plus a flags group; its generated tag page serves as the report. ADR-048 (history v2) changed what the flag means without retiring it."
+ },
+ {
+  "adr": "ADR-006",
+  "date": "2026-09-26",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "its dossier said `none — wants: epistemology`.",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 0,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Sweep dossiers named the gap. Existing works not retagged; new sweep works use the words. philosophy-of-mind declined for now. Decider not stated."
+ },
+ {
+  "adr": "ADR-007",
+  "date": "2026-09-26",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "The reader of the SEP *Religion and Science* entry found no topic for its subject, and recommended one, as its primary topic.",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 6,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Close readers named both gaps. Carson had mathematics as the nearest wrong word. Decider not stated."
+ },
+ {
+  "adr": "ADR-008",
+  "date": "2026-09-26",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "interventions"
+  ],
+  "trigger": "incident",
+  "trigger_quote": "The reader filled that field with the owner's address from its session context.",
+  "noticer": "filing_agent",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner then asked for the rule to be made part of the record.",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Rule added to the reading brief after an agent sent the owner's email address to Unpaywall. The reader reported it itself."
+ },
+ {
+  "adr": "ADR-009",
+  "date": "2026-09-26",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "The reader named the gap and recommended the word",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 5,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Grindrod's philosophy-of-science tag was unjustified (the nearest wrong word). Five works retagged per the table. Decider not stated."
+ },
+ {
+  "adr": "ADR-010",
+  "date": "2026-09-26",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "On 2026-09-26 the owner asked this record to file a list of works under four of their own headings",
+  "noticer": "unknown",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "The words were needed for a new batch the owner asked to file; no existing entries are said to be mis-tagged. Who noticed, proposed and decided is not stated."
+ },
+ {
+  "adr": "ADR-011",
+  "date": "2026-09-27",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "On 2026-09-27 the owner asked the record to file C. J. van Rijsbergen, *The Geometry of Information Retrieval*",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prospective",
+  "migration": 1,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "The seed named the gap (wants: information-retrieval). One held work (Knowledge Sheaves) also takes the word. The seed's probabilistic-modeling tag was not carried."
+ },
+ {
+  "adr": "ADR-012",
+  "date": "2026-09-27",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "On 2026-09-27 the owner asked for the tag and for the threads to be brought together.",
+  "noticer": "unknown",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "On 2026-09-27 the owner asked for the tag and for the threads to be brought together.",
+  "residue": "prose_only",
+  "migration": 5,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Before this, contextuality appeared only inside the quantum-foundations blurb. Five held works retagged."
+ },
+ {
+  "adr": "ADR-013",
+  "date": "2026-09-27",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "narrow"
+  ],
+  "regime": "none",
+  "component": [
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "On 2026-09-27 the owner asked for exactly this case.",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner asked for it so that the Lattice Representation Hypothesis, held in the anthology for concept geometry, could be re-read here",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "superseded",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Narrows ADR-001's filing boundary (a process rule, so narrow is used loosely). Subsumed by ADR-048 on 2026-10-19 (history v2), more than 7 days later; status stays Active."
+ },
+ {
+  "adr": "ADR-014",
+  "date": "2026-10-01",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "On 2026-10-01 the owner asked for one or more tags for emotion and affect.",
+  "noticer": "unknown",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "On 2026-10-01 the owner asked for one or more tags for emotion and affect.",
+  "residue": "forced_category",
+  "migration": 1,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "LIT-379 had been filed without an emotion word. homeostasis-and-interoception rejected."
+ },
+ {
+  "adr": "ADR-015",
+  "date": "2026-10-02",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "narrow",
+   "rename"
+  ],
+  "regime": "revise",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked for that literature to be filed and for this word to be added.",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner asked for that literature to be filed and for this word to be added.",
+  "residue": "forced_category",
+  "migration": 41,
+  "outcome": "reversed",
+  "later_harm": "ADR-024 (2026-10-03): the one word made conflations easy; LIT-142's self-and-personhood tag was \"One forced choice\" and was undone.",
+  "confidence": "low",
+  "note": "self-and-personhood was retired into self and personhood by ADR-024 a day later, so coded reversed; the rename to individuation stands. Migration is the 41 renamed bearers; overlap with the ~15 new-word works is unstated."
+ },
+ {
+  "adr": "ADR-016",
+  "date": "2026-10-02",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "The filing agent proposed the word, and the owner accepted it.",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The filing agent proposed the word, and the owner accepted it.",
+  "residue": "unknown",
+  "migration": 6,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "A word for a method, not a subject. Before this, the method had no representation at all, which no residue value captures."
+ },
+ {
+  "adr": "ADR-017",
+  "date": "2026-10-02",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked for the literature to be filed and the topic added.",
+  "noticer": "unknown",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner asked for the literature to be filed and the topic added.",
+  "residue": "forced_category",
+  "migration": 6,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "The group works carried several approximate words at once, \"which is how a missing word shows\"."
+ },
+ {
+  "adr": "ADR-018",
+  "date": "2026-10-02",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked how the record covers morality-as-cooperation.",
+  "noticer": "unknown",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 4,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "The ADR does not say who proposed the word or that the owner asked for it. Curry and Tomasello had carried ethics, the nearest wrong word."
+ },
+ {
+  "adr": "ADR-019",
+  "date": "2026-10-02",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "Two agents filing different parts of the batch each found the same gap and proposed the same word.",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 8,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "mathematics had been used as a stand-in."
+ },
+ {
+  "adr": "ADR-020",
+  "date": "2026-10-02",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "Each one, separately, reported the same gap and proposed the same word.",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 29,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Migration is 27 works plus 2 THEORYs and includes batch works filed in the same contribution. An agent's philosophy-of-biology proposal was deferred."
+ },
+ {
+  "adr": "ADR-021",
+  "date": "2026-10-03",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked for fifteen works to be filed",
+  "noticer": "unknown",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "The 15 notes that take it are new filings in the batch. Existing entries changed: not stated. Three gaps the filing agents named are deferred to a second work."
+ },
+ {
+  "adr": "ADR-022",
+  "date": "2026-10-03",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "relation"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "The filing agent held the rivalry in prose in all three notes and asked for a relation, citing the anthology's `rivals`.",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prose_only",
+  "migration": 3,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Symmetric relation on LIT and THEORY. Migration counts LIT-542, LIT-550 and LIT-540 at the first use (symmetric)."
+ },
+ {
+  "adr": "ADR-023",
+  "date": "2026-10-03",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked how the record covered self-determination theory, then for it to be filed",
+  "noticer": "unknown",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prospective",
+  "migration": 2,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "SDT was not held yet; the misfit under agency is hypothetical. Two earlier filings take the word second. Who proposed or decided is not stated."
+ },
+ {
+  "adr": "ADR-024",
+  "date": "2026-10-03",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "split",
+   "add",
+   "remove",
+   "redefine"
+  ],
+  "regime": "revise",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked that agent, individual, self and person not be synonyms",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner asked that agent, individual, self and person not be synonyms",
+  "residue": "forced_category",
+  "migration": 63,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "self-and-personhood (ADR-015) retired into self and personhood; four unity words added; blurbs say what each word is not. 42 retagged plus 21 that took a unity word; the prose was corrected too."
+ },
+ {
+  "adr": "ADR-025",
+  "date": "2026-10-03",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "The filing agents reported the same gaps independently, and each time the work went under the nearest word.",
+  "noticer": "filing_agent",
+  "proposer": "filing_agent",
+  "decider": "assistant",
+  "ratification": "standing_permission",
+  "ratification_quote": "The owner asked that the vocabulary be updated without hesitation.",
+  "residue": "forced_category",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Six words at once, departing from the earlier rule of waiting for a second work in a separate decision. Decider inferred from the blanket instruction. The retag count is not stated."
+ },
+ {
+  "adr": "ADR-026",
+  "date": "2026-10-03",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked for a set of readings to be checked against both records and filed here.",
+  "noticer": "unknown",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Only Watanabe was already held. Who proposed or decided the words is not stated."
+ },
+ {
+  "adr": "ADR-027",
+  "date": "2026-10-03",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked for 33 readings to be filed here.",
+  "noticer": "unknown",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "The record held none of the batch. model-merging was declined as a separate word, though no one is recorded proposing it."
+ },
+ {
+  "adr": "ADR-028",
+  "date": "2026-10-04",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "The filing agent had to tag every one `natural-sciences` plus `complex-systems`.",
+  "noticer": "filing_agent",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Occasion was the owner's coral batch. chronobiology declined. The split it anticipated was made by ADR-055 (history v2); ecology stays in force. Existing entries are retagged as touched; no count."
+ },
+ {
+  "adr": "ADR-029",
+  "date": "2026-10-05",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "relation"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "On 2026-10-05 the owner noticed that most theories relate to papers but not to other theories.",
+  "noticer": "owner",
+  "proposer": "unknown",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 2,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Trigger is the owner's observation, not a request; owner_request is the closest value. THEORY-139 had been filed as extends, the nearest relation, and that was false. Exempt from the theory chain and its topic invariant."
+ }
+]

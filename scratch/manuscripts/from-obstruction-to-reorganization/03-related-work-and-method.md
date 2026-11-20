@@ -2,24 +2,51 @@
 
 ## 4. Related work
 
-**Ontology and schema evolution.** The knowledge-engineering literature has long treated ontology change as a managed process. Stojanovic et al. (LIT-2514) set out a user-driven evolution process with change capture, representation, semantics of change, propagation, implementation and validation. Flouris et al. (LIT-2499) survey and classify ontology-change operations. In model-driven engineering, COPE (LIT-2479) automates the *coupled* evolution of a metamodel and the models that instantiate it. That is the same coupling Luria's migrations perform by hand and by script. Our case differs from these settings in three ways. The schema is changed in the course of the inquiry it serves, not by a separate maintenance team. The occasion for a change is an argumentative difficulty, not a requirements change. And each change is accompanied by a decision record and a first application. QUESTION-458 (Open) asks whether this coupling of schema change to recorded decision, migration and executable checks is what distinguishes Luria from ontology and metamodel evolution. This paper offers evidence on the descriptive half of that question.
+*A work marked "unread" is registered on the record but has not been read first-hand. "Skimmed" means read in part. Claims about the content of unread works are the record's reports of them, and they must be checked before submission.*
 
-**Classification and its consequences.** Bowker and Star (LIT-1631) showed that classification systems are never neutral. Each valorises some points of view and silences others, and the work of fitting cases to categories is mostly invisible. Our cases are small, explicit instances of their thesis. A category that conflates two situations makes one of them unrecordable, and recovering it costs a migration.
+**Formality and its costs.** The objection this paper answers is an old one. Shipman and Marshall's "Formality Considered Harmful" (LIT-756) found that users of interactive systems resist formal representation: formalizing early forces premature commitment, and the effort falls on those who gain least. CLAIM-181 adapts their finding to a record kept by agents. What is new here is not the objection but a history of meeting it.
 
-**Organisational learning.** Argyris's distinction between single-loop and double-loop learning (LIT-745) maps closely onto ours. Single-loop learning corrects an action within fixed governing variables. Double-loop learning revises the variables themselves. Re-filing a misfiled entry is single-loop. Changing the vocabulary that misfiled it is double-loop. The record's own CLAIM-422 adds a third distinction, between a corrective act, an executable procedure and a *maintained* corrective capacity, which we use in §8.3.
+**Ontology, schema and metamodel evolution.** The knowledge-engineering literature treats ontology change as a managed process:
 
-**Postmortems.** Blameless postmortem practice in site reliability engineering (LIT-2784, LIT-2785) treats an incident as evidence about a system rather than a person. Its products are recommendations with owners. Nucleation's POSTMORTEM adapts the practice to a different object: not an outage, but a change to the record's grammar or process once it has been used.
+- Flouris et al. (LIT-2499, skimmed) classify ontology-change operations, and list discovering "a design flaw in the original conceptualization" as a standard reason for change;
+- Stojanovic et al. (LIT-2514, unread) describe a user-driven evolution process;
+- COPE (LIT-2479) automates the *coupled* evolution of a metamodel and its models, which luria's migrations do by hand and by script.
 
-**Architectural decision records.** Lightweight decision records, each stating context, decision, alternatives and consequences, are an established software-engineering practice [ref needed: Nygard 2011, "Documenting Architecture Decisions"]. Nucleation uses them for every grammar change. It adds a rule that a decision travels in the same pull request as its first application (ADR-071), so that a reviewer judges the rule by what it does.
+Read against CLAIM-419, the record already holds several contrasts:
 
-**Theories of inquiry.** The account in §2.5 has older relatives. The record's notes on CLAIM-470 name two of them. One is Dewey's logic of inquiry (LIT-1645), in which inquiry transforms an indeterminate situation into a determinate one. The other is Collingwood's logic of question and answer (LIT-1651), in which a proposition is intelligible only as the answer to a question. The record has not read either first-hand (both are Unavailable), and the comparison should be made before submission. Rheinberger's epistemic things (LIT-1665, Unavailable) are a third candidate: objects of research that are under-determined by design and are given shape by the experimental system. The nearest formal case the record holds is counterexample-guided abstraction refinement (LIT-1652), where an abstraction is refined exactly where a spurious counterexample shows it to be too coarse. Nucleation's grammar differs in having grown by addition and once by withdrawal, not only by splitting (§2.5).
+- WebProtégé records schema changes but not decisions about them (LIT-2508);
+- Git4Voc amends a vocabulary by commit and discussion, not by decision record (LIT-2509);
+- in OBO, principles and the checks for them are revised when found imprecise, but no decision record is described (LIT-2494, LIT-2313);
+- Chong et al. patch an agent's schema when its trajectories reveal misfits, accepting a patch on measured gain with no record beyond a log (LIT-2311).
 
-**Design rationale.** Capturing the reasoning behind decisions has a long and largely discouraging history. IBIS represented design as issues, positions and arguments (LIT-758). Grudin traced the failure of groupware and capture systems to a disparity: the person who does the work of capture is not the one who benefits (LIT-757). Later work asked when argumentation-based rationale repays its cost (LIT-760, LIT-761, both Unavailable). CLAIM-179 places Nucleation against this history. When a memoryless agent does the filing, capture and benefit fall to the same party, and the disparity moves to the owner's review. The record's own question of when filing pays (CLAIM-303, CLAIM-308) is the design-rationale literature's question, put to a different division of labour.
+These place luria's distinctive feature, the one QUESTION-458 asks about, as the coupling of each schema change to a written decision, a migration of existing entries and an executable check.
 
-[Owner: decide whether related work should also cover research-notebook and argument-mapping tools, and prior literature on LLM agents with persistent memory. Neither is on the record yet.]
+[To add before submission: database schema evolution, e.g. PRISM.]
 
----
+**Qualitative codebooks.** The closest methodological analogue may be codebook evolution in qualitative research. Analysts revise codes as data arrive, keep memos on why, and measure agreement between coders. The record's grammar is a codebook its own filers revise mid-study, and this paper borrows the discipline: a fixed codebook and a second coder (§5.3). [This literature is not yet on the record.]
 
+**Classification and its consequences.** Bowker and Star (LIT-1631, unread) argue that classification systems foreground some situations and silence others, and that the work of fitting cases to categories goes unseen. Our cases are small, explicit instances of that thesis.
+
+**Organizational learning and memory.**
+
+- **Argyris** (LIT-745) distinguishes single-loop learning, which corrects action within fixed governing variables, from double-loop learning, which revises the variables. THEORY-145 records his warning that organizations espousing double-loop learning characteristically fail to practise it.
+- **March** (LIT-729) models an organizational code that learns from its members and teaches them. In that model moderate turnover keeps an organization exploring (THEORY-142). Memoryless collaborators may play turnover's role (§8.5).
+- **Hutchins**'s cockpit remembers speeds that neither pilot holds (THEORY-351, from LIT-1066). It is the classic case of memory held by an arrangement rather than a person.
+
+**Postmortems.** Blameless postmortem practice treats an incident as evidence about a system rather than about a person (LIT-2784; Allspaw, LIT-2785, unread). Nucleation's POSTMORTEM applies the practice to a change to its grammar or process once that change has been used.
+
+**Design rationale and decision records.**
+
+- **IBIS** (LIT-758) represented design reasoning as issues, positions and arguments.
+- **Grudin** (LIT-757) traced the failure of such capture to a disparity: the person who does the capture is not the one who benefits.
+- **Argumentation-based rationale**: later work asked when it repays its cost (LIT-760, LIT-761, both unread).
+- **Architectural decision records**: lightweight decision records are now common in software engineering [ref needed: Nygard 2011; Tyree and Akerman 2005].
+
+The record files a decision for every grammar change. It also travels each decision with its first application (ADR-071), so that a reviewer judges the rule by what it does.
+
+**Theories of inquiry.** Dewey (LIT-1645, unread) and Collingwood (LIT-1651, unread) are the nearest predecessors of CLAIM-470. Rheinberger's epistemic things (LIT-1665, unread) are a third. The formal case the record has read is CEGAR (LIT-1652), with the disanalogies in §2.5.
+
+[Not yet on the record: provenance models (PROV), nanopublications, argument mapping, boundary objects, and work on LLM agents with persistent memory.]
 
 ---
 
@@ -27,82 +54,99 @@
 
 ### 5.1 Evidence and observation points
 
-The study draws on the version-controlled record from its scaffold on 25 September 2026: dated repository snapshots, `luria.yaml` diffs, decision records, curation and workbench journals, changelog fragments, migration commits, generated indexes, CI workflows and postmortems. The quantitative evidence comes from three observation points, which we keep apart:
+The evidence is the version-controlled repository, read with its full history: 3,454 commits from the empty initial commit of 7 September 2026. The record's start is its scaffold on 25 September (`af387c07b`).
 
-| Observation point | Source | Used for |
+Figures come from four observation points:
+
+| Observation point | Commit(s) | Used for |
 |---|---|---|
-| **Historical snapshots** at the end of 25 Sep, 15 Oct, 1 Nov and 19 Nov (UTC) | Repository history at dated commits | Growth of the record and its configuration (§5.4) |
-| **Executed studies inside the record** | CASE-178 (first 32 days after the scaffold) and CASE-180 (first 50 days, 1,434 commits, 5,034 documents), both run on 27 Oct | Rates of grammar change and of revision (§§5.5–5.6) |
-| **Current generated indexes,** 20 Nov | Field values of every current entry | Classification cross-tabulations (§6) and governance census (§7) |
+| Historical snapshots: the last first-parent commit on `main` by 23:59 UTC on each date | 25 Sep `f5c040c6a`; 15 Oct `b84ad2e37`; 1 Nov `55cd0d814`; 19 Nov `eed84a74e` | Growth (§5.4) |
+| Executed studies inside the record, both run on 27 Oct | CASE-178 (32 days from the scaffold); CASE-180 (50 days from 7 Sep, so 32 days of record) | Rates of grammar change and revision (§§5.5–5.6) |
+| The current record | `main` at `09950cdf`, 20 Nov | Cross-tabulations (§6), census (§6.1), term-change analysis (§8.2), governance counts (§7) |
+| The owner's measurements (U11 of the exchange that produced the first sketch) | Dated snapshots, no hashes | Cross-checked against the snapshots above; they agree to within 1.5% |
 
-Two consequences follow. The cross-tabulations describe the record *after* every intervention discussed. They show that the distinctions are in use, not when each began to be used. And the LEAD comparison in §7.4 sets the 197 entries counted in POSTMORTEM-002 against the 198 in the later index. It is a change in distribution, not a fixed-cohort estimate of individual transitions.
+### 5.2 Units
 
-### 5.2 Unit of analysis
+- **Unit of analysis.** For the census, the unit is a **decision record** (ADR-001 to ADR-114). For the history of the grammar, it is a **unit of work**: the pull request a commit came in, or the commit itself where it cannot be tied to one.
+- **Grammar.** The declarations in `luria.yaml` (schemes, fields, relations, vocabularies and their terms, statuses, lines, `fail_on` patterns and view definitions). Conventions held only in prose, such as CLAUDE.md or the skills, are *conventions*, not grammar.
+- **Misfit.** A move the grammar of the day could not hold faithfully.
+- **Obstruction.** A misfit someone noticed.
 
-The unit is a **representational intervention**, reconstructed where the record permits as a sequence:
+Unnoticed misfits are the denominator this method cannot see (§10).
 
-> encountered difficulty → diagnosis → alternatives → decision → migration → operational consequence → later review.
+### 5.3 The census, and agreement between coders
 
-Not every episode has every stage. Early episodes have no later review, because no review mechanism existed. Whether a stage is present is itself a datum about how governance developed.
+Every decision record was coded against a codebook fixed before any coding began (`analysis/census/CODEBOOK.md`). The codebook records:
 
-### 5.3 Typology and evidential tiers
+- whether the decision changed the grammar;
+- the level and operation;
+- whether the change was a refinement, a revision or restraint;
+- which component of the inquiry it touched;
+- what triggered it;
+- who noticed the need, who proposed the design, who decided and how the decision was ratified;
+- what form the misfit took before the decision;
+- the size of any migration, the outcome, and any later error.
 
-We classify interventions as: (a) refining a vocabulary; (b) adding an independent classification dimension; (c) revising the boundary between schemes; (d) withdrawing an abstraction; (e) decomposing a line of inquiry; (f) changing the mechanisms that govern future change; and (g) declining to add structure.
+Four coders (assistant subagents) coded the 114 decisions in four batches. A fifth coded a random sample of 30, seed 20261120, without seeing the first coding. Agreement is reported per field as raw agreement and Cohen's κ, and as mean Jaccard overlap for list-valued fields (§6.1). All five coders were instances of the same model, a limit discussed in §10.
+
+### 5.4 Evidential tiers
 
 We separate three kinds of evidence:
 
-1. **Recorded rationale:** what the decision record says the difficulty was and why the change answered it.
-2. **Observed operation:** what the implemented representation now distinguishes, as shown by populated fields and cross-tabulations.
-3. **Measured outcome:** whether the change improved later research, coordination or correction.
+1. **Recorded rationale:** what a decision says the difficulty was.
+2. **Observed operation:** what the grammar now distinguishes, as shown by populated fields and cross-tabulations.
+3. **Measured outcome:** whether the change improved later research.
 
-The record is strong on the first, moderate on the second and weak on the third. We say which tier each finding rests on. Tier-2 evidence has a further bound, prediction P6 of §3.6. It is counted in the record's own grammar, so it shows that a distinction is drawn and used. It cannot show that drawing it was right (ARG-028, CLAIM-266).
+The record is strong on the first, moderate on the second and silent on the third. Evidence of the second kind is also bounded by E6: it is counted in the grammar it evaluates.
 
-### 5.4 Growth of the record and its grammar
+### 5.5 Growth of the record and its grammar
 
 | Measure | 25 Sep | 15 Oct | 1 Nov | 19 Nov |
 |---|---:|---:|---:|---:|
-| Repository files | 315 | 4,072 | 7,599 | 11,124 |
-| Files under `record/` | 214 | 3,419 | 6,877 | 10,070 |
-| Local record schemes | 5 | 10 | 10 | 12 |
-| Configured vocabularies | 6 | 14 | 14 | 18 |
-| Topic values | 19 | 62 | 67 | 69 |
-| `luria.yaml` lines | 482 | 1,469 | 1,757 | 2,380 |
+| Repository files | 315 | 4,072 | 7,597 | 11,112 |
+| Files under `record/` | 214 | 3,419 | 6,875 | 10,058 |
+| Schemes | 5 | 10 | 10 | 12 |
+| Vocabularies | 6 | 14 | 14 | 18 |
+| Topic terms | 19 | 62 | 67 | 69 |
+| `luria.yaml` lines | 481 | 1,468 | 1,736 | 2,379 |
 
-*Figure 1 (to draw): both series indexed to 25 Sep = 100. Record files rise to about 4,700, configuration lines to about 490.*
+Record files grew 47-fold and configuration lines about 5-fold. Lines are a poor proxy for the grammar's content. The grammar grew in steps: five schemes added on 7 October, a plateau to the end of October, then SYNTHESIS and LEAD by 19 November and POSTMORTEM on 20 November.
 
-Record files grew about 47-fold and configuration lines about 4.9-fold. The two are different quantities, and line count is a poor proxy for semantic complexity. Still, the comparison shows that the grammar did not grow in proportion to the material it held. Most growth in the corpus was absorbed by existing structure. The grammar grew in steps: five new schemes by mid-October, a plateau through the end of the month, then SYNTHESIS, LEAD and POSTMORTEM in November.
+### 5.6 Grammar change as part of ordinary work
 
-### 5.5 Grammar change as part of ordinary work
+CASE-178 read every change to `luria.yaml` in the 32 days after the scaffold.
 
-CASE-178, an executed study the record ran on itself, read every change to `luria.yaml` in the first 32 days after the scaffold:
+| Kind of addition | Additions | Days with one | First half / second half |
+|---|---:|---:|---:|
+| Documents | 5,030 | 32 | 2,271 / 2,759 |
+| Vocabulary terms | 106 | 18 | 82 / 24 |
+| Fields and relations | 79 | 8 | 67 / 12 |
+| Vocabularies | 8 | 3 | 6 / 2 |
+| Schemes | 5 | 1 | 5 / 0 |
 
-| Kind of addition | Additions | Days with one |
-|---|---:|---:|
-| Documents | 5,030 | 32 |
-| Vocabulary values | 106 | 18 |
-| Fields and relations | 79 | 8 |
-| Whole vocabularies | 8 | 3 |
-| Schemes | 5 | 1 |
-| Remote projects | 1 | 1 |
+Grammar additions fell while filing rose. Beyond additions, fields and relations were redeclared 26 times on 9 days, terms were reworded 10 times, and 2 terms were removed. Ninety-four per cent of new terms were used by a document changed in the same unit of work.
 
-The ordering by frequency matches the owner's prior guess: documents, then values, fields, vocabularies, schemes, projects. But the study's main finding is about *how* refinements arrived, not how often. **94% of the 106 new vocabulary values were used by a document changed in the same unit of work.** Decision records accompanied the units that changed the grammar far more often than other units:
+Decision records came with grammar changes far more often than with other work:
 
-| Work units | Included a decision record |
+| Units that added | Share with a decision record |
 |---|---:|
-| All 296 pull requests in the period | 16% |
-| 35 units adding a vocabulary value | 91% |
-| 9 units adding a field or relation | 89% |
-| 4 units adding a vocabulary | 75% |
-| 2 units adding a scheme | 100% |
+| Any pull request (296) | 16% |
+| A term (35) | 91% |
+| A field or relation (9) | 89% |
+| A vocabulary (4) | 75% |
+| A scheme (2) | 100% |
 
-CASE-178 concludes that the levels of the grammar are not slower processes of their own. They are rarer events within a single loop of work. The grammar was refined in the pull request that needed the refinement, and nine times in ten it was justified in writing. This is tier-2 evidence for the coupling QUESTION-458 asks about. The comparison with all pull requests is not controlled for the size of the unit, and the events are not independent. Nor does the study show that every misfit was noticed. It covers only the misfits that led to an amendment.
+Two cautions apply:
 
-### 5.6 Different rates of persistence
+- **Size.** The baseline is not matched for the size of a pull request.
+- **Policy.** The coupling is partly a matter of rule: ADR-001 required that a missing word be "added by decision, not the nearest wrong one."
 
-CASE-180 measured how often each layer of the record changes, using 1,434 non-merge commits over the first 50 days. After drafting was over, an entry's prose was revised about once in 21.8 days, its status about once in 127.5 days, and an authored relation was gained or lost about once in 131.9 days. None of the 68 declared relation types was redefined, although new types continued to be added.
+What the data show is that the rule was followed, and that grammar changes arrived inside the unit of work that needed them rather than in a separate redesign.
 
-These are inverse event frequencies, not relaxation times. A 50-day window cannot estimate a 128-day process, and the study says so. What they support is narrower. The record's layers are revised at rates one to two orders of magnitude apart, and the grammar is slow to revise without being slow to grow. CASE-180 also found that on the first day of an entry's life all layers change together. The ordering appears only once drafting is over.
+The same study also measured luria's own record and strata-g, the project luria was extracted from on 3 August. Their grammars are small: luria added two terms and four fields in the period, and strata-g added nothing. CASE-178 counts projects as the slowest level, with about five begun across the owner's records in four months. The extraction of luria from strata-g is the outermost loop: a project's practice became a tool.
 
-**Transition.** The machinery was stable under ordinary use and still amendable when the work exposed a need. The next section examines the amendments.
+### 5.7 Different rates of revision
 
----
+CASE-180 measured 1,434 commits, 415 of them by the repository's bot. Once drafting was over, prose was revised about once in 21.8 days, status about once in 127.5 days, and an authored relation was gained or lost about once in 131.9 days. That is about a sixfold spread, not orders of magnitude. No relation type was redefined.
+
+The ordering does not hold for every scheme. A CLAIM's relations changed far more often than its status (every 23 against every 654 days). These are inverse event frequencies over a short window, not time constants.
