@@ -56,6 +56,7 @@ bears_on:
 - QUESTION-137
 ---
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, cited from the manuscript and said to be unread, no ground here -->
+<!-- inactive-ok-file: CLAIM-068 CLAIM-182 CLAIM-191 — Proposed; the dependents a narrowing would not free, named in the note of 2026-11-20, cited as open -->
 
 # CLAIM-090: Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
 
@@ -92,3 +93,14 @@ sampling learners from MAP learners. [CASE-068](../cases.d/CASE-068.md)'s priors
 the experiment (Moussaïd), or predict less than the received message
 (Jagiello and Hills). [ARG-035](../arguments.d/ARG-035.md), from the two readings the manuscript cites,
 is Proposed because it holds only for sampling learners.
+
+## Note of 2026-11-20: what holds it back
+
+The wait of 2026-10-29 is not over: no chain the record holds ends on a
+prior or bias measured on its own transmitters before transmission
+(QUESTION-137; LEAD-187 is the plan to find or run one). The moves since
+were checked: version 4 added only a bearing, and LIT-1895 (NOTE-1478) is
+a formal instance with a stated bias whose endpoint is the zero function,
+measuring no human prior. Narrowing the title to THEORY-489's one
+function-learning task would free nothing, since CLAIM-068 waits on
+chains from different stances and CLAIM-191 on CLAIM-182.

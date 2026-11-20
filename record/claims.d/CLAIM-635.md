@@ -1,10 +1,24 @@
 ---
 number: 635
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp008ey
 title: 'Under Markov reconstruction kernels, an observable conserved exactly at every step and not constant on the support of the starting law keeps information about the start at every generation, bounded below independently of the generation, so such a chain cannot converge to a law independent of its start, while a bounded conservation defect does not prevent forgetting'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Proposed → Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057, ADR-047's rule on re-derivations). Both
+    premises, CLAIM-107 and CLAIM-270, are Active; no objection is filed.
+    The derivation was re-derived step by step by a second checker (the
+    note of 2026-11-20), and scratch/formal/claim635_conservation_retention_check.py
+    checks each step, the bound and the witness on 3,000 random reducible,
+    time-dependent chains over 40 steps, with three controls that fire.
+    The status is credence in the derivation, not in ADR-075, which is
+    Proposed and supplies only the admission route. The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -93,6 +107,48 @@ case (the reviewer's script, minimum slack 0.09 nats).
 It is not held: [CLAIM-107](CLAIM-107.md) has the martingale and says when non-constant
 harmonic observables exist; [CLAIM-270](CLAIM-270.md) and [CLAIM-081](CLAIM-081.md) separate retention from
 drift; no entry joins conservation to retention.
+
+## Note of 2026-11-20: the derivation re-checked
+
+A second checker went through each step at the status review of
+2026-11-20.
+
+1. **The martingale step.** For a time-dependent chain,
+   E[f(S_n) | S_0 = x] = (K_1 K_2 ⋯ K_n f)(x). Applying K_n f = f first,
+   then K_(n−1) f = f, and so on, gives f(x). Since each K_i is
+   stochastic, K_i 1 = 1, so g = f − m is harmonic for every K_i too and
+   E[g(S_n) | S_0] = g(S_0).
+2. **The identity.** Under the joint law, E[sgn(g(S_0)) g(S_n)] =
+   E[sgn(g(S_0)) E[g(S_n) | S_0]] = E[sgn(g(S_0)) g(S_0)] = E|g(S_0)|.
+   Under the product of the marginals the two factors are independent,
+   and E g(S_n) = E g(S_0) = 0 by step 1, so E[h] = 0.
+3. **The total-variation step.** With TV(P, Q) = ½ Σ |P − Q|,
+   |Σ h (P − Q)| ≤ ‖h‖∞ Σ |P − Q| = 2‖h‖∞ TV(P, Q), and ‖h‖∞ ≤ ‖g‖∞.
+4. **Pinsker.** I(S_0; S_n) is the Kullback–Leibler divergence of the
+   joint law from the product of its marginals, and TV ≤ √(KL/2) in nats.
+   So E|g(S_0)| ≤ 2‖g‖∞ √(I/2), and squaring,
+   I ≥ (E|g(S_0)|)² / (2‖g‖∞²). The bound is positive exactly when g(S_0)
+   is not almost surely zero, that is, when f is not constant on the
+   support of the starting law.
+5. **No start-independent limit.** If the law of S_n given S_0 = x
+   converged to one law for every x in the support, the joint law would
+   converge to the product of its marginals, and on a finite space
+   I(S_0; S_n) would go to zero, against step 4.
+6. **The witness.** For the flip chain, K f − f = p(1 − 2x), so the
+   defect is p, and P(S_n ≠ S_0) = (1 − (1 − 2p)^n)/2 → ½ for p in
+   (0, 1), so S_n becomes independent of S_0 and I(S_0; S_n) → 0. Any
+   defect bound ε > 0 admits such a chain, with p = min(ε, ½).
+
+The worked example checks: g = ±½, so the bound is (¼)/(2 · ¼) = ½ nat
+against ln 2. The script cited in "A check" was not on the record;
+scratch/formal/claim635_conservation_retention_check.py now is. It checks
+steps 1 to 4 and the bound on 3,000 random chains with two or three
+closed classes, transient states and kernels redrawn at every step, over
+40 steps (minimum slack 0.020 nats), and the witness for p from 0.01 to
+0.9. Its controls fire: kernels mixed toward a common law break the
+martingale and the bound, the bound without its factor 2 fails the
+worked example, and information scaled by ln 2 falls below the bound on
+some instance.
 
 ## What it adds to the line
 

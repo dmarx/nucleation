@@ -44,7 +44,7 @@ summary: >-
   that κ ≤ 1 in total variation; the taxonomy and its third experiment's
   test were dropped.
 ---
-<!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-068 CLAIM-090 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-059: Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics
 
@@ -99,3 +99,11 @@ metric in advance, but no metric is fixed and no condition is assigned, so
 the test it names has nothing yet to test. It moves when a metric and an
 assignment of conditions to regimes are filed, or when [CLAIM-068](CLAIM-068.md) is
 promoted.
+
+## Note of 2026-11-20: what holds it back
+
+The moves the worklist names were checked. CLAIM-068 was not revised in
+substance and stays Proposed, behind CLAIM-090; CLAIM-208's version 3
+only gives this claim's restated condition in a note. No metric is fixed
+in advance and no condition is assigned to a regime, so the test the
+defeat condition names still has nothing to test (LEAD-174).

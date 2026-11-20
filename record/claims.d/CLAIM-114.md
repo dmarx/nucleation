@@ -81,3 +81,11 @@ in the transcript. So whether the change comes at a marked generation, which
 is what makes it a phase change and what the defeat condition tests, has no
 observation either way. [CLAIM-056](CLAIM-056.md) gives only that surface error can stay
 small while the act changes.
+
+## Note of 2026-11-20: what holds it back
+
+The wait of 2026-10-29 stands: no chain the record holds has
+per-generation judgements of communicative configuration, so whether a
+change of act comes at a marked generation, which the defeat condition
+tests, has no observation either way. Nothing it names has moved since;
+LEAD-174 holds the plan for per-generation estimates along a chain.
