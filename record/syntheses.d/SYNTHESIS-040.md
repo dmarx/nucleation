@@ -45,7 +45,7 @@ integrates:
 - QUESTION-384
 - CLAIM-639
 ---
-<!-- inactive-ok-file: CLAIM-639 CASE-236 CLAIM-646 CASE-240 CASE-220 CLAIM-615 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CASE-236 CLAIM-646 CASE-240 CASE-220 CLAIM-615 TERM-116 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-040: A system's budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence
 

@@ -21,7 +21,6 @@ advances:
 summary: >-
   Named in [CLAIM-329](../claims.d/CLAIM-329.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-099: Find out whether the league, the club or its supporters count the 2005 Washington Nationals as the original Senators' continuation
 

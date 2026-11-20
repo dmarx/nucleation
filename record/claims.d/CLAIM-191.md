@@ -142,9 +142,9 @@ pragmatic-transport aside no longer takes this premise with it.
 
 ## Note of 2026-11-20: what holds it back
 
-Two premises are Proposed. CLAIM-090, on which the direction clause
+Two premises are Proposed. [CLAIM-090](CLAIM-090.md), on which the direction clause
 rests, waits on a chain whose endpoint matches a prior measured on its
-own transmitters (QUESTION-137); CLAIM-182, on which the code clause
+own transmitters ([QUESTION-137](../questions.d/QUESTION-137.md)); [CLAIM-182](CLAIM-182.md), on which the code clause
 rests, waits on a count of re-derivation before and after the same
 stored content got addresses. The direction prediction itself is
 untested in this claim's setting: no blind rating of re-derivations

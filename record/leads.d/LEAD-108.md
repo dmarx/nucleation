@@ -29,7 +29,6 @@ summary: >-
   [QUESTION-095](../questions.d/QUESTION-095.md) high. Named in [QUESTION-095](../questions.d/QUESTION-095.md) and [QUESTION-114](../questions.d/QUESTION-114.md). Filed by the
   backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-761 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-108: State one cost model for stored work and check whether it prices the cockpit's speed bugs, a filed argument and a LEGO bin with the same terms
 

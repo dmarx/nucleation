@@ -27,7 +27,6 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-724 CLAIM-732 TERM-126 — filed from the same exchange, Proposed or new -->
-<!-- inactive-ok-file: CLAIM-625 — Proposed; the record's nearest entries, cited with their standing -->
 
 # TERM-130: protected contestability, of an arrangement, for those with standing under a declared standard: the maintained, resource-bounded capability of those parties to formulate and present objections and obtain an appropriately consequential assessment of them, robust to a declared class of opposition; not a guarantee of success, a veto or costless adjudication
 

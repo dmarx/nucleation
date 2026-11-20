@@ -117,4 +117,4 @@ this review.
 
 ## Note of 2026-11-20: what holds it back
 
-Rechecked after CLAIM-295's revision of 2026-11-19, which joins the work cost-structure-of-possibility and changes nothing else. CLAIM-295 stays Proposed: its computational clause still has no decision that a bounded agent can make with a kept history and not with a state built for the same tasks, so the justification named in the note of 2026-10-15 is not held. No case tests this claim's defeat condition.
+Rechecked after [CLAIM-295](CLAIM-295.md)'s revision of 2026-11-19, which joins the work cost-structure-of-possibility and changes nothing else. [CLAIM-295](CLAIM-295.md) stays Proposed: its computational clause still has no decision that a bounded agent can make with a kept history and not with a state built for the same tasks, so the justification named in the note of 2026-10-15 is not held. No case tests this claim's defeat condition.

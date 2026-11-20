@@ -98,9 +98,9 @@ is Proposed because it holds only for sampling learners.
 
 The wait of 2026-10-29 is not over: no chain the record holds ends on a
 prior or bias measured on its own transmitters before transmission
-(QUESTION-137; LEAD-187 is the plan to find or run one). The moves since
-were checked: version 4 added only a bearing, and LIT-1895 (NOTE-1478) is
+([QUESTION-137](../questions.d/QUESTION-137.md); [LEAD-187](../leads.d/LEAD-187.md) is the plan to find or run one). The moves since
+were checked: version 4 added only a bearing, and [LIT-1895](../literature.d/LIT-1895.md) ([NOTE-1478](../notes.d/NOTE-1478.md)) is
 a formal instance with a stated bias whose endpoint is the zero function,
-measuring no human prior. Narrowing the title to THEORY-489's one
-function-learning task would free nothing, since CLAIM-068 waits on
-chains from different stances and CLAIM-191 on CLAIM-182.
+measuring no human prior. Narrowing the title to [THEORY-489](../theory.d/THEORY-489.md)'s one
+function-learning task would free nothing, since [CLAIM-068](CLAIM-068.md) waits on
+chains from different stances and [CLAIM-191](CLAIM-191.md) on [CLAIM-182](CLAIM-182.md).

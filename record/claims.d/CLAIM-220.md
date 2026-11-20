@@ -168,7 +168,7 @@ stated by [CLAIM-223](CLAIM-223.md), and nothing waits on this entry for it.
 
 ## Note of 2026-11-20: what holds it back
 
-The move the worklist names was checked: CASE-055's version 2 added only
-a bearing on QUESTION-075. The study is still designed and not run, with
+The move the worklist names was checked: [CASE-055](../cases.d/CASE-055.md)'s version 2 added only
+a bearing on [QUESTION-075](../questions.d/QUESTION-075.md). The study is still designed and not run, with
 its margins unfixed, so the comparative clause still has no result under
 it.

@@ -89,7 +89,7 @@ summary: >-
   directions.
 ---
 <!-- inactive-ok-file: THEORY-2023 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-603 CLAIM-731 CLAIM-761 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-603 CLAIM-731 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-303: Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion
