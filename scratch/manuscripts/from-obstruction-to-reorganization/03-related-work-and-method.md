@@ -29,8 +29,8 @@ These place luria's distinctive feature, the one QUESTION-458 asks about, as the
 
 **Organizational learning and memory.**
 
-- **Argyris** (LIT-745) distinguishes single-loop learning, which corrects action within fixed governing variables, from double-loop learning, which revises the variables. THEORY-145 records his warning that organizations espousing double-loop learning characteristically fail to practise it.
-- **March** (LIT-729) models an organizational code that learns from its members and teaches them. In that model moderate turnover keeps an organization exploring (THEORY-142). Memoryless collaborators may play turnover's role (§8.5).
+- **Argyris** (LIT-745) distinguishes single-loop learning, which corrects action within fixed governing variables, from double-loop learning, which revises the variables. THEORY-145 records his warning that organizations espousing double-loop learning characteristically fail to practice it.
+- **March** (LIT-729) models an organizational code that learns from its members and teaches them. In that model moderate turnover keeps an organization exploring (THEORY-142). Memoryless collaborators may play turnover's role (§9.5).
 - **Hutchins**'s cockpit remembers speeds that neither pilot holds (THEORY-351, from LIT-1066). It is the classic case of memory held by an arrangement rather than a person.
 
 **Postmortems.** Blameless postmortem practice treats an incident as evidence about a system rather than about a person (LIT-2784; Allspaw, LIT-2785, unread). Nucleation's POSTMORTEM applies the practice to a change to its grammar or process once that change has been used.
@@ -60,8 +60,8 @@ Figures come from four observation points:
 
 | Observation point | Commit(s) | Used for |
 |---|---|---|
-| Historical snapshots: the last first-parent commit on `main` by 23:59 UTC on each date | 25 Sep `f5c040c6a`; 15 Oct `b84ad2e37`; 1 Nov `55cd0d814`; 19 Nov `eed84a74e` | Growth (§5.4) |
-| Executed studies inside the record, both run on 27 Oct | CASE-178 (32 days from the scaffold); CASE-180 (50 days from 7 Sep, so 32 days of record) | Rates of grammar change and revision (§§5.5–5.6) |
+| Historical snapshots: the last first-parent commit on `main` by 23:59 UTC on each date | 25 Sep `f5c040c6a`; 15 Oct `b84ad2e37`; 1 Nov `55cd0d814`; 19 Nov `eed84a74e` | Growth (§5.5) |
+| Executed studies inside the record, both run on 27 Oct | CASE-178 (32 days from the scaffold); CASE-180 (50 days from 7 Sep, so 32 days of record) | Rates of grammar change and revision (§§5.6–5.7) |
 | The current record | `main` at `09950cdf`, 20 Nov | Cross-tabulations (§6), census (§6.1), term-change analysis (§8.2), governance counts (§7) |
 | The owner's measurements (U11 of the exchange that produced the first sketch) | Dated snapshots, no hashes | Cross-checked against the snapshots above; they agree to within 1.5% |
 
@@ -124,7 +124,7 @@ CASE-178 read every change to `luria.yaml` in the 32 days after the scaffold.
 | Vocabularies | 8 | 3 | 6 / 2 |
 | Schemes | 5 | 1 | 5 / 0 |
 
-Grammar additions fell while filing rose. Beyond additions, fields and relations were redeclared 26 times on 9 days, terms were reworded 10 times, and 2 terms were removed. Ninety-four per cent of new terms were used by a document changed in the same unit of work.
+Grammar additions fell while filing rose. Beyond additions, fields and relations were redeclared 26 times on 9 days, terms were reworded 10 times, and 2 terms were removed. Ninety-four percent of new terms were used by a document changed in the same unit of work.
 
 Decision records came with grammar changes far more often than with other work:
 

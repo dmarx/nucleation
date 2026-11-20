@@ -4,14 +4,16 @@
 
 - A working draft of the owner's manuscript "From Obstruction to
   Reorganization", the successor to the work luria-nucleating-an-argument,
-  at `scratch/manuscripts/from-obstruction-to-reorganization/`. It sets
-  out the record's account of drift, anchoring, records of inquiry and
-  inquiry as specification, maps luria onto it, and studies the record's
-  governed revision of its own grammar over its first eight weeks.
-  Written out from the ChatGPT exchange "Branch · Audit Luria Evolution"
-  (2026-11-20) and its measurements. It is outside the record: no entry,
-  vocabulary or relation changes. Its README lists what the owner must
-  settle, first among them whether its theses T1–T4 are filed as claims.
-- A review of the draft beside it (`REVIEW-2026-11-20.md`): structural
-  problems, confirmed factual corrections, points of contact with the
-  record by section, and a revision plan. The draft is unchanged.
+  at `scratch/manuscripts/from-obstruction-to-reorganization/`. It uses the
+  record's account of drift, anchoring, records of inquiry and inquiry as
+  specification as a framework, and studies how the record changed its own
+  grammar in its first eight weeks. Written out from the ChatGPT exchange
+  "Branch · Audit Luria Evolution" (2026-11-20), then revised on a review
+  kept beside it. It is outside the record: no entry, vocabulary or
+  relation changes.
+- With it, `analysis/`: a census of all 114 decisions coded against a
+  codebook fixed before coding, with a second coder on a random 30, and an
+  audit of every reworded or removed vocabulary term in the history. The
+  audit finds that ADR-048's change to what `anthology-candidate` means
+  reached none of the 237 entries carrying it; the README lists this and
+  the other items for the owner.

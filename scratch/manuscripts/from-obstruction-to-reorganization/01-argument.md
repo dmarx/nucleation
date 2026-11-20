@@ -14,7 +14,7 @@ CLAIM-470 itself names this record's grammar change, as measured in CASE-178, as
 
 ### 2.1 What fails: an argument loses its identity, not its structure
 
-An argument developed across many sessions with collaborators who keep no memory between them does not typically fail for lack of structure. It fails by losing the identity of what was said. Concepts are redefined silently, objections come back as though new, and the thesis changes with no turn arguing for the change. CLAIM-177 (Active, empirical) records this across six exchanges between one owner and one family of assistants. Its generalisation beyond that population, CLAIM-483, is Proposed.
+An argument developed across many sessions with collaborators who keep no memory between them does not typically fail for lack of structure. It fails by losing the identity of what was said. Concepts are redefined silently, objections come back as though new, and the thesis changes with no turn arguing for the change. CLAIM-177 (Active, empirical) records this across six exchanges between one owner and one family of assistants. Its generalization beyond that population, CLAIM-483, is Proposed.
 
 CLAIM-324 (Active) is the documented instance. A manuscript drafted straight from an argument's matured state changed the thesis "with no turn arguing the move" and dropped 24 of the argument's items, none on request.
 
@@ -67,7 +67,7 @@ CLAIM-470 itself distinguishes two ways an inquiry can change its regime, and th
 - **Refinement** adds distinctions within an existing language and answer space. Counterexample-guided abstraction refinement is the formal case: an abstraction is split exactly where a spurious counterexample shows it too coarse (LIT-1652).
 - **Revision** changes what counts as an answer, a criterion, or a unit of inquiry.
 
-CLAIM-470's own proposed test compares a fixed, a refinable and a revisable regime (§9.4). The claim's distinctive clause concerns revision.
+CLAIM-470's own proposed test compares a fixed, a refinable and a revisable regime (§11.4). The claim's distinctive clause concerns revision.
 
 CLAIM-419's notes record two disanalogies with CEGAR:
 
