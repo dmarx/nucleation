@@ -40,7 +40,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2096 CLAIM-181 — Proposed; the reading this claim generalizes from, and the counter whose sequence it extends -->
 
-# CLAIM-tmpzrl0a: In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer
+# CLAIM-tmpzrl0a: In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer: a move the coarse category would have absorbed without residue now visibly fits none of the finer ones, so a refinement exposes misfits as well as absorbing them
 
 ## The claim
 

@@ -34,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: ADR-089 — Proposed; cited in this filing of 2026-11-20 -->
 
-# CLAIM-tmpmtv1b: In this record the noticing of grammar misfits moved from incidental to procedural, while revisions were noticed or decided mostly by the owner
+# CLAIM-tmpmtv1b: In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision
 
 ## The claim
 
