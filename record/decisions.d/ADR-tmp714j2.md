@@ -30,7 +30,7 @@ summary: >-
 
 ## Context
 
-ADR-tmpk8vnc adds the POSTMORTEM scheme but says nothing about when one is
+[ADR-tmpk8vnc](ADR-tmpk8vnc.md) adds the POSTMORTEM scheme but says nothing about when one is
 written. The owner asked for a policy: every pull request probably does
 not need one, but batches might. The owner also expected this policy to
 change, and asked for a reasonable one to start with.
@@ -42,7 +42,7 @@ and has about 547 pull requests (some ten a day) and about 110 decisions
 (some two a day). Entries filed per day typically run from 100 to 350,
 with peaks of 516 (11-05), 675 (11-12) and 524 (11-19); this clone's git
 history, which starts on 2026-11-13, shows 16 pull requests merged on
-11-17 and 12 with 124 commits on 11-19. The LEAD scheme (ADR-109) went
+11-17 and 12 with 124 commits on 11-19. The LEAD scheme ([ADR-109](ADR-109.md)) went
 from decision to 197 entries in under a day. Two weeks is about 150 pull
 requests, 2,000 entries and 25 decisions: far too late to review a change
 before it is built on.
@@ -80,11 +80,11 @@ merged or set aside.
 - **Who raises it.** The assistant checks the triggers when a batch closes
 and says which are met; the owner decides whether to write it. A
 postmortem is not filed unasked.
-- **Size.** The full form (POSTMORTEM-tmp7fylf) for a schema change; a short
+- **Size.** The full form ([POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md)) for a schema change; a short
 one for a batch or an incident: what happened, what it cost, what changes,
 or a paragraph saying nothing changes.
 - **What it reviews.** Every batch follows some decision's procedure
-(ADR-068 for filings, ADR-108 for reader notes, ADR-109 for leads), so
+([ADR-068](ADR-068.md) for filings, [ADR-108](ADR-108.md) for reader notes, [ADR-109](ADR-109.md) for leads), so
 `reviews` stays required.
 - **Calibration.** The thresholds come from the pace measured above. When
 the pace changes, or postmortems show the triggers fire too often or too
@@ -94,11 +94,11 @@ seldom, this decision is superseded.
 
 Checked against the work of 2026-11-19 and 2026-11-20:
 
-- The LEAD scheme (ADR-109) met trigger 1 within the day, and the
-explication form (ADR-107) trigger 4; POSTMORTEM-tmp7fylf reviewed both,
+- The LEAD scheme ([ADR-109](ADR-109.md)) met trigger 1 within the day, and the
+explication form ([ADR-107](ADR-107.md)) trigger 4; [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) reviewed both,
 at about the right moment.
 - The backlog audit's 184 generated leads (pull request 542) met trigger 3;
-POSTMORTEM-tmp7fylf covers it in part, as the scheme's use.
+[POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) covers it in part, as the scheme's use.
 - Pull requests 535 to 540 met trigger 2: six pull requests, a stack folded
 top-down, conflicts on shared notes, and a rebase onto concretized codes.
 Due; not yet written.
