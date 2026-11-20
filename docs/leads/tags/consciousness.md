@@ -6,8 +6,10 @@
 
 **Consciousness** — experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+3 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-063](../../../record/leads.d/LEAD-063.md) | Apply an integration or dynamic-core measure, or a justified anti-nesting rule, to a modular-mind model and to a group model | Named in [QUESTION-046](../../../record/questions.d/QUESTION-046.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-112](../../../record/leads.d/LEAD-112.md) | Find cases where access and experience come apart and each kind of evidence follows one of them: superblindsight, inconspicuous rivalry recorded intracranially, a marker accepted in advance | Two claims on the organizational-affect line depend on the answer. Named in [QUESTION-048](../../../record/questions.d/QUESTION-048.md) and [QUESTION-061](../../../record/questions.d/QUESTION-061.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-134](../../../record/leads.d/LEAD-134.md) | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |

@@ -6,8 +6,10 @@
 
 **Neuroscience** — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+3 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-024](../../../record/leads.d/LEAD-024.md) | Fit Twitch Plays Pokemon's anarchy-mode input logs with a drift process against a switching model | Named in [CLAIM-262](../../../record/claims.d/CLAIM-262.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-106](../../../record/leads.d/LEAD-106.md) | Search for studies of context sampling after cued trauma recall in PTSD against trauma-exposed controls, and for exposure-matched intervention contrasts | Named in [QUESTION-303](../../../record/questions.d/QUESTION-303.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-112](../../../record/leads.d/LEAD-112.md) | Find cases where access and experience come apart and each kind of evidence follows one of them: superblindsight, inconspicuous rivalry recorded intracranially, a marker accepted in advance | Two claims on the organizational-affect line depend on the answer. Named in [QUESTION-048](../../../record/questions.d/QUESTION-048.md) and [QUESTION-061](../../../record/questions.d/QUESTION-061.md). Filed by the backlog audit of 2026-11-19. | Open |

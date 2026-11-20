@@ -6,8 +6,14 @@
 
 **Operationalization** — work out how a question or claim could be advanced at all.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+7 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-017](../../../record/leads.d/LEAD-017.md) | Extend the synthetic separation with three organizations of matched behaviour and different endorsement relations, measuring registration apart from the experimenter's setting | Named in [QUESTION-270](../../../record/questions.d/QUESTION-270.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-087](../../../record/leads.d/LEAD-087.md) | Run the study of perspective without collective agency, after saying in advance what distinguishes a shared perspective from correlated responses | Named in [CASE-145](../../../record/cases.d/CASE-145.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-103](../../../record/leads.d/LEAD-103.md) | State the operational equivalences among renderings a pragmatic experiment assumes and derive the noncontextual inequality they imply | Named in [QUESTION-067](../../../record/questions.d/QUESTION-067.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-136](../../../record/leads.d/LEAD-136.md) | Specify measures that separate aggregate, shared orientation, norm and corporate judgment in a real fanbase, with a test of a visible minority holding a stance the private majority rejects | Named in [QUESTION-119](../../../record/questions.d/QUESTION-119.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-146](../../../record/leads.d/LEAD-146.md) | Fix what the discriminating fidelity study must fix before data: a strong contextual baseline, named receiver populations and sampling frames, an equivalence margin with power, and an interlingual arm | The preregistration the discriminating study binds; cheap, and three Active counters ask for it. Named in [CASE-055](../../../record/cases.d/CASE-055.md), [CLAIM-205](../../../record/claims.d/CLAIM-205.md), [CLAIM-226](../../../record/claims.d/CLAIM-226.md) and [CLAIM-222](../../../record/claims.d/CLAIM-222.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-162](../../../record/leads.d/LEAD-162.md) | Construct and validate a measure of footing and stance: a definition given to judges, reliability between and within judges at a target fixed in advance, and known-groups validity on reattributed sentences | Stage 0 of the discriminating fidelity study, and the measure every footing clause on the pragmatic-transport line waits on. Named in [CLAIM-227](../../../record/claims.d/CLAIM-227.md), [CLAIM-084](../../../record/claims.d/CLAIM-084.md) and [QUESTION-076](../../../record/questions.d/QUESTION-076.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-174](../../../record/leads.d/LEAD-174.md) | Estimate per-step kernels from several independent retellers per generation on held-out and perturbed inputs, in a metric fixed beforehand, and predict end-to-end drift | Named in [CLAIM-208](../../../record/claims.d/CLAIM-208.md) and [CLAIM-059](../../../record/claims.d/CLAIM-059.md). Filed by the backlog audit of 2026-11-19. | Open |

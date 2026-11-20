@@ -6,8 +6,13 @@
 
 **Metaphysics** — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+6 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-030](../../../record/leads.d/LEAD-030.md) | Run the laboratory of genres, which separates classes inferred, classes used and classes that reshape preferences | Named in [CASE-296](../../../record/cases.d/CASE-296.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-057](../../../record/leads.d/LEAD-057.md) | On one dynamical model, compare a fixed preexisting partition, one recovered from measured dynamics, and one produced by coupling to an apparatus, and ask whether they make different counterfactual predictions | Named in [QUESTION-284](../../../record/questions.d/QUESTION-284.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-155](../../../record/leads.d/LEAD-155.md) | File one corpus under two apparatuses and test whether the change of apparatus changes later inquiry beyond visualization | Named in [CLAIM-476](../../../record/claims.d/CLAIM-476.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-158](../../../record/leads.d/LEAD-158.md) | Read the works on the objectivity of relational norms, with Leffler on constitutivism as the adversarial test | Named in [QUESTION-128](../../../record/questions.d/QUESTION-128.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-163](../../../record/leads.d/LEAD-163.md) | Close the open slot in the admission case that would otherwise defeat its claim | Named in the curation entry of 2026-11-11 (030317). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-195](../../../record/leads.d/LEAD-195.md) | Rule on whether a symmetry or conservation law, or a possibility fact in Deutsch and Marletto's sense, counts as realizing a constraint | Named in [CLAIM-477](../../../record/claims.d/CLAIM-477.md). Filed by the backlog audit of 2026-11-19. | Open |

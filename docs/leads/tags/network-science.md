@@ -6,8 +6,12 @@
 
 **Network science** — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-1 of 13 LEAD documents. Back to the [full index](../README.md).
+5 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-003](../../../record/leads.d/LEAD-003.md) | Study community formation on Reddit as it happens: monthly user and link graphs around the creation of new subreddits, tracking where founders come from, whether the community individuates and lasts, and whether it makes further communities cheaper to form | The study proposed on the owner's Reddit case ([CASE-297](../../../record/cases.d/CASE-297.md)). Not yet specified: the data source, the definition of a formation event and a control for platform growth are open. | Open |
+| [LEAD-023](../../../record/leads.d/LEAD-023.md) | Read the rest of the dynamics batch: synchrony, sheaves and time-varying data | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-061](../../../record/leads.d/LEAD-061.md) | Read Golub and Jackson's Proposition 2 and Theorem 3 with their definitions of influence and wisdom for several closed groups | Named in [QUESTION-184](../../../record/questions.d/QUESTION-184.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-125](../../../record/leads.d/LEAD-125.md) | Run tolerance-based balanced colouring on relational-rule MLPs and test whether the rule direction lies in the synchrony subspace as flip rate rises | Named in [QUESTION-492](../../../record/questions.d/QUESTION-492.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-184](../../../record/leads.d/LEAD-184.md) | Change a structural variable in a community or a multi-session argument with members' reasoning held fixed, as the anchoring-rate test proposes | Named in [QUESTION-047](../../../record/questions.d/QUESTION-047.md). Filed by the backlog audit of 2026-11-19. | Open |

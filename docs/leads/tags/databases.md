@@ -6,8 +6,8 @@
 
 **Databases and data structures** — how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+1 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-085](../../../record/leads.d/LEAD-085.md) | Run governed schema adaptation with a performance-gated arm, including its secondary estimand on routine tasks | The empirical core of the planned luria article; part 2 of [QUESTION-458](../../../record/questions.d/QUESTION-458.md) is untouched by the prior art. Named in [QUESTION-458](../../../record/questions.d/QUESTION-458.md) and [CLAIM-665](../../../record/claims.d/CLAIM-665.md). Filed by the backlog audit of 2026-11-19. | Open |

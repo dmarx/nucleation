@@ -6,8 +6,10 @@
 
 **Linguistics** — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+3 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-056](../../../record/leads.d/LEAD-056.md) | Find studies in which a term is added to, lost from or merged in a language's inventory and the use of its neighbours is measured against terms outside the field | Named in [CLAIM-082](../../../record/claims.d/CLAIM-082.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-169](../../../record/leads.d/LEAD-169.md) | Run the reader test with Russian readers as the reference for Dolly's slip into the familiar form, against the English versions | Named in [CLAIM-091](../../../record/claims.d/CLAIM-091.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-187](../../../record/leads.d/LEAD-187.md) | Find or run a transmission chain whose endpoint is compared with a prior measured on its own transmitters before transmission, and chains started from different stances | [CLAIM-090](../../../record/claims.d/CLAIM-090.md) is the premise of [CLAIM-068](../../../record/claims.d/CLAIM-068.md), which is the premise of [CLAIM-059](../../../record/claims.d/CLAIM-059.md). Named in [CLAIM-090](../../../record/claims.d/CLAIM-090.md) and [CLAIM-068](../../../record/claims.d/CLAIM-068.md). Filed by the backlog audit of 2026-11-19. | Open |

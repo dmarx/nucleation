@@ -6,8 +6,9 @@
 
 **Compositionality** — how the structure and meaning of a whole come from its parts and how they are combined — the principle of compositionality and compositional semantics, the emergence of compositional structure in languages under transmission, and composition and binding in learned models (generalization to unseen combinations, attribute binding, composing distributions or concepts). A work on making a model generalize compositionally is ML practice and goes to the anthology (ADR-031).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-103](../../../record/leads.d/LEAD-103.md) | State the operational equivalences among renderings a pragmatic experiment assumes and derive the noncontextual inequality they imply | Named in [QUESTION-067](../../../record/questions.d/QUESTION-067.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-170](../../../record/leads.d/LEAD-170.md) | Run repeated reconstruction chains, cross-modal (text, image, caption, image) against text-only of the same length, scored with an overlapping-context design at each stage | Named in [QUESTION-004](../../../record/questions.d/QUESTION-004.md), [QUESTION-014](../../../record/questions.d/QUESTION-014.md) and [CLAIM-087](../../../record/claims.d/CLAIM-087.md). Filed by the backlog audit of 2026-11-19. | Open |

@@ -6,8 +6,11 @@
 
 **Operations research** — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+4 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-036](../../../record/leads.d/LEAD-036.md) | Model or trace the loop by which activity-based funding erodes rarely used capability, against a control that decouples maintenance funding from observed activity | Named in [QUESTION-386](../../../record/questions.d/QUESTION-386.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-075](../../../record/leads.d/LEAD-075.md) | Run the staging experiment: states A and B with a staging state C, measuring the bottleneck budget, the least time at budget and the readiness, to produce the four kinds of case | Named in [QUESTION-392](../../../record/questions.d/QUESTION-392.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-080](../../../record/leads.d/LEAD-080.md) | Run the readiness simulator twice, with each period's budget set to the last period's peak spending and with carry-over | [QUESTION-394](../../../record/questions.d/QUESTION-394.md) calls it the cheapest test of [CLAIM-577](../../../record/claims.d/CLAIM-577.md) and gives the design. Named in [QUESTION-394](../../../record/questions.d/QUESTION-394.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-117](../../../record/leads.d/LEAD-117.md) | Compare an RL-trained model with no verifier against its base under best-of-N with the training verifier, at matched total compute and across k, after searching for work that already does so | Named in [CLAIM-699](../../../record/claims.d/CLAIM-699.md) and [QUESTION-392](../../../record/questions.d/QUESTION-392.md). Filed by the backlog audit of 2026-11-19. | Open |

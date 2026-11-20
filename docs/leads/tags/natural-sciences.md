@@ -6,8 +6,14 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+7 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-025](../../../record/leads.d/LEAD-025.md) | Read the transient-support line's primaries and find episodes in which support was withdrawn | A young, central line whose Active claims ground on unread works. Named in [CLAIM-600](../../../record/claims.d/CLAIM-600.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-044](../../../record/leads.d/LEAD-044.md) | Compare equal-budget interventions at different locations in an organization's constraint structure | Named in [CLAIM-562](../../../record/claims.d/CLAIM-562.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-055](../../../record/leads.d/LEAD-055.md) | Build the common testbed of continuous fields (a kink, vortices, a nucleus making a diffusing mediator), beginning with a Dirac field coupled to the kink and the support withdrawn | Named in [QUESTION-490](../../../record/questions.d/QUESTION-490.md) and [CASE-269](../../../record/cases.d/CASE-269.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-093](../../../record/leads.d/LEAD-093.md) | Construct a nucleus that, once formed, takes part in producing or repairing the constraints of its own formation, and measure when the loop closes | Named in [QUESTION-399](../../../record/questions.d/QUESTION-399.md) and [QUESTION-361](../../../record/questions.d/QUESTION-361.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-095](../../../record/leads.d/LEAD-095.md) | Build a small stochastic assembly model in which support can be withdrawn at chosen intermediate states and the nucleus's relations switched on as a state and as a rate modifier separately | [QUESTION-398](../../../record/questions.d/QUESTION-398.md) is the most-cited entry of its slice and its notes give only analogues, never a measured effect of withdrawal. Named in [QUESTION-398](../../../record/questions.d/QUESTION-398.md) and [QUESTION-397](../../../record/questions.d/QUESTION-397.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-116](../../../record/leads.d/LEAD-116.md) | Run stochastic and factorial assembly scored by committor | Named in [CASE-220](../../../record/cases.d/CASE-220.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-137](../../../record/leads.d/LEAD-137.md) | Check on a non-lattice system of coupled agents whether variables chosen for informativeness across a buffer match the gap-isolated block | Named in [QUESTION-065](../../../record/questions.d/QUESTION-065.md). Filed by the backlog audit of 2026-11-19. | Open |

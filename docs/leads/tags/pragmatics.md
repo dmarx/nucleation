@@ -6,8 +6,11 @@
 
 **Pragmatics** — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+4 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-046](../../../record/leads.d/LEAD-046.md) | Settle the residue of the intention-based rival for teasing and reproach: read the intention-based line and run the elicited test the sounding case names, holding intention fixed and varying the audience's standing | [CLAIM-151](../../../record/claims.d/CLAIM-151.md) is the premise four claims wait on. Named in [CLAIM-151](../../../record/claims.d/CLAIM-151.md) and [CLAIM-221](../../../record/claims.d/CLAIM-221.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-060](../../../record/leads.d/LEAD-060.md) | State the criterion that separates reframing a communicative act from changing it, and test it by having judges sort pairs of renderings into the two classes | [CLAIM-004](../../../record/claims.d/CLAIM-004.md) has nine dependents and is a premise of [CLAIM-151](../../../record/claims.d/CLAIM-151.md) and [CLAIM-143](../../../record/claims.d/CLAIM-143.md). Named in [CLAIM-004](../../../record/claims.d/CLAIM-004.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-139](../../../record/leads.d/LEAD-139.md) | Test relational measures against surface or embedding similarity as predictors of trope-identity judgements on recasts, with held-out trope families | Named in [CLAIM-147](../../../record/claims.d/CLAIM-147.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-149](../../../record/leads.d/LEAD-149.md) | Run the cross of topic and act, with a behavioural uptake predictor against a fidelity-rating criterion | Named in [CASE-040](../../../record/cases.d/CASE-040.md). Filed by the backlog audit of 2026-11-19. | Open |

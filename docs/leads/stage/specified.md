@@ -6,9 +6,11 @@
 
 **Specified** — says what would be done, what result would count for and against what it advances, and roughly what it would cost.
 
-2 of 13 LEAD documents. Back to the [full index](../README.md).
+4 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-010](../../../record/leads.d/LEAD-010.md) | Calibrate the Pythia study: pilot two task families on four checkpoints of one model and confirm that each family is learnable and that adaptation cost is measurable before any arm is added | The first step of [CASE-294](../../../record/cases.d/CASE-294.md), as ChatGPT's review set it: four checkpoints of Pythia-70M-deduped, two synthetic task families, three seeds, the primary estimand the minimum adaptation budget to a reliability threshold. | Open |
 | [LEAD-012](../../../record/leads.d/LEAD-012.md) | Run the Pythia study: measure across checkpoints whether the cost of acquiring held-out task families rises while the pretraining objective improves, with forgetting measured and the secondary arms added only after the primary contrast | [CASE-294](../../../record/cases.d/CASE-294.md)'s study proper, once its calibration pilot is done: the record's main test of overconsolidation and of the deadline claim's two branches. | Open |
+| [LEAD-080](../../../record/leads.d/LEAD-080.md) | Run the readiness simulator twice, with each period's budget set to the last period's peak spending and with carry-over | [QUESTION-394](../../../record/questions.d/QUESTION-394.md) calls it the cheapest test of [CLAIM-577](../../../record/claims.d/CLAIM-577.md) and gives the design. Named in [QUESTION-394](../../../record/questions.d/QUESTION-394.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-166](../../../record/leads.d/LEAD-166.md) | Test dependency against division of labour by the capability trajectory under withdrawal, in a microbial co-culture whose supplied metabolite can be removed | [CLAIM-603](../../../record/claims.d/CLAIM-603.md) states the design and its cost. Named in [CLAIM-603](../../../record/claims.d/CLAIM-603.md) and the curation entry of 2026-11-13 (072318). Filed by the backlog audit of 2026-11-19. | Open |

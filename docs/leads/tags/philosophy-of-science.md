@@ -6,8 +6,17 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+10 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-051](../../../record/leads.d/LEAD-051.md) | Read Peng and colleagues on maternal microchimerism and specify the comparison of own-maternal-cell tolerance against donor-supplied tolerogenic cells | Named in [QUESTION-086](../../../record/questions.d/QUESTION-086.md) and the curation entry of 2026-11-12 (022649). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-089](../../../record/leads.d/LEAD-089.md) | Model Northstar with control and metacontrol mechanisms alone and then with a will-organization over them, price the difference, and set planning, control and institutional theory beside the account | It decides whether the will-organization line's explanatory gain exists. Named in [QUESTION-056](../../../record/questions.d/QUESTION-056.md) and [CLAIM-024](../../../record/claims.d/CLAIM-024.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-126](../../../record/leads.d/LEAD-126.md) | Read the work on constitutive relevance for where maintenance is realized | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-142](../../../record/leads.d/LEAD-142.md) | Specify the decision signature and prove or refute the eigenspace candidate for the directed case | Named in [CLAIM-209](../../../record/claims.d/CLAIM-209.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-146](../../../record/leads.d/LEAD-146.md) | Fix what the discriminating fidelity study must fix before data: a strong contextual baseline, named receiver populations and sampling frames, an equivalence margin with power, and an interlingual arm | The preregistration the discriminating study binds; cheap, and three Active counters ask for it. Named in [CASE-055](../../../record/cases.d/CASE-055.md), [CLAIM-205](../../../record/claims.d/CLAIM-205.md), [CLAIM-226](../../../record/claims.d/CLAIM-226.md) and [CLAIM-222](../../../record/claims.d/CLAIM-222.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-149](../../../record/leads.d/LEAD-149.md) | Run the cross of topic and act, with a behavioural uptake predictor against a fidelity-rating criterion | Named in [CASE-040](../../../record/cases.d/CASE-040.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-160](../../../record/leads.d/LEAD-160.md) | Run the world-model achievements study under matched competence | Named in [CASE-187](../../../record/cases.d/CASE-187.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-164](../../../record/leads.d/LEAD-164.md) | Find a held case that checks a measured correspondence against evidence the measurement did not itself produce | Named in [CLAIM-510](../../../record/claims.d/CLAIM-510.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-174](../../../record/leads.d/LEAD-174.md) | Estimate per-step kernels from several independent retellers per generation on held-out and perturbed inputs, in a metric fixed beforehand, and predict end-to-end drift | Named in [CLAIM-208](../../../record/claims.d/CLAIM-208.md) and [CLAIM-059](../../../record/claims.d/CLAIM-059.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-193](../../../record/leads.d/LEAD-193.md) | Run the study of investigators starting from an equilibrium-only schema on a synthetic oscillatory system, with three regimes on the same benchmarks | Named in [CLAIM-470](../../../record/claims.d/CLAIM-470.md). Filed by the backlog audit of 2026-11-19. | Open |

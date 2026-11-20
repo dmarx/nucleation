@@ -7,6 +7,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 ## Currently — [November 2026](2026-11.md)
 
 - [19 Nov 23:09 — The owner's identity projects, filed as a directional experiment for accidental against reliable capability](2026-11.md#the-owners-identity-projects-filed-as-a-directional-experiment-for-accidental-against-reliable-capability)
+- [19 Nov 22:47 — The backlog audit of 2026-11-19: six slices of the record read for research opportunities, and 184 filed as leads, 59 rated high and 125 medium; the low tier is listed for the owner](2026-11.md#the-backlog-audit-of-2026-11-19-six-slices-of-the-record-read-for-research-opportunities-and-184-filed-as-leads-59-rated-high-and-125-medium-the-low-tier-is-listed-for-the-owner)
 - [19 Nov 22:12 — The task-composition readings: a search and eight works on whether a learned shared structure lowers the cost of tasks composed on it; no work runs the full design, and the three parts are covered separately](2026-11.md#the-task-composition-readings-a-search-and-eight-works-on-whether-a-learned-shared-structure-lowers-the-cost-of-tasks-composed-on-it-no-work-runs-the-full-design-and-the-three-parts-are-covered-separately)
 - [19 Nov 21:36 — The scheduling follow-up readings, completing a lead: fifteen works on what early data does to the cost of later learning; the owner's recollection still unfound, code first contested, and two cost-counted instances for CLAIM-756](2026-11.md#the-scheduling-follow-up-readings-completing-a-lead-fifteen-works-on-what-early-data-does-to-the-cost-of-later-learning-the-owners-recollection-still-unfound-code-first-contested-and-two-cost-counted-instances-for-claim-756)
 - [19 Nov 21:14 — The data-scheduling readings, completing a lead: a search and six works on whether an earlier phase of training lowers the cost of a later one; two measure it with the earlier cost counted, and the owner's recalled result was not found](2026-11.md#the-data-scheduling-readings-completing-a-lead-a-search-and-six-works-on-whether-an-earlier-phase-of-training-lowers-the-cost-of-a-later-one-two-measure-it-with-the-earlier-cost-counted-and-the-owners-recalled-result-was-not-found)
@@ -105,10 +106,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-293 entries across 3 books, newest first.
+294 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 96 | 2026-11-01 | 2026-11-19 |
+| [2026-11](2026-11.md) | 97 | 2026-11-01 | 2026-11-19 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

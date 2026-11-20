@@ -6,8 +6,13 @@
 
 **Psychopathology and treatment** — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+6 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-032](../../../record/leads.d/LEAD-032.md) | Search the treatment literature for dismantling trials that cut a maintaining link with exposure held fixed, or for individual data showing hysteresis | Named in [QUESTION-045](../../../record/questions.d/QUESTION-045.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-047](../../../record/leads.d/LEAD-047.md) | Find a study that measures a defensive process's authority apart from threat belief, intervening on its authority or evidence access while the represented threat stays fixed | Two Proposed claims, one with dependants, wait on it. Named in [CLAIM-446](../../../record/claims.d/CLAIM-446.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-076](../../../record/leads.d/LEAD-076.md) | Separate structural frustration from operative thwarting in each direction, and run the self-protecting sentry in full with hidden state and evidence restriction | Named in [QUESTION-131](../../../record/questions.d/QUESTION-131.md) and [CASE-153](../../../record/cases.d/CASE-153.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-106](../../../record/leads.d/LEAD-106.md) | Search for studies of context sampling after cued trauma recall in PTSD against trauma-exposed controls, and for exposure-matched intervention contrasts | Named in [QUESTION-303](../../../record/questions.d/QUESTION-303.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-156](../../../record/leads.d/LEAD-156.md) | Search for human studies that separate the germline route of intergenerational trauma from the uterine, parenting and cultural routes, and for studies of descendants' distress against group identification | Named in [QUESTION-297](../../../record/questions.d/QUESTION-297.md) and [NOTE-1291](../../../record/notes.d/NOTE-1291.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-161](../../../record/leads.d/LEAD-161.md) | Read the radically open dialectical behaviour therapy works and the organizational flexibility sources | Named in the curation entry of 2026-10-29 (205943). Filed by the backlog audit of 2026-11-19. | Open |

@@ -6,8 +6,9 @@
 
 **Causality** — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-115](../../../record/leads.d/LEAD-115.md) | For subject-verb agreement across a relative clause, compare sparse feature circuits from dictionaries of different seeds and widths matched for fidelity | Named in [QUESTION-274](../../../record/questions.d/QUESTION-274.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-126](../../../record/leads.d/LEAD-126.md) | Read the work on constitutive relevance for where maintenance is realized | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |

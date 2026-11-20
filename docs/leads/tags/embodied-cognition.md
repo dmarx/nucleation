@@ -6,8 +6,9 @@
 
 **Embodied cognition** — cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-154](../../../record/leads.d/LEAD-154.md) | Measure, for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references | The one measured crossover proposed for the record's most-cited question on stored work. Named in [QUESTION-095](../../../record/questions.d/QUESTION-095.md) and [CASE-234](../../../record/cases.d/CASE-234.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-186](../../../record/leads.d/LEAD-186.md) | Read the owed IP-Adapter work and test whether a LoRA learned on one base model is reusable on its successor | Named in [ARG-079](../../../record/arguments.d/ARG-079.md) and the curation entry of 2026-11-12 (015626). Filed by the backlog audit of 2026-11-19. | Open |

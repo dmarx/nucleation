@@ -6,8 +6,11 @@
 
 **Loss landscapes** — the geometry of trained solutions in weight space — mode connectivity, linear and along curves, barriers between minima and the permutation symmetries that hide or remove them, re-basin alignment, star domains and connecting simplexes, local versus global landscape structure, and model merging as its use (ADR-027).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+4 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-059](../../../record/leads.d/LEAD-059.md) | File the demonstrated corollary that answers part of the question on reinforcing loops | Named in the curation entry of 2026-11-07 (082259). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-143](../../../record/leads.d/LEAD-143.md) | Measure whether the features of model soups and SWA iterates equal the average of their members' features, and the barrier after alignment against depth at fixed width, including in transformers | Named in [CLAIM-498](../../../record/claims.d/CLAIM-498.md) and [QUESTION-318](../../../record/questions.d/QUESTION-318.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-157](../../../record/leads.d/LEAD-157.md) | Measure the permutation-aligned barrier over several path families, and test whether alignment always removes the barrier between networks known to share a mechanism | Named in [QUESTION-069](../../../record/questions.d/QUESTION-069.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-175](../../../record/leads.d/LEAD-175.md) | Re-run the toy-model-of-superposition check: SGD at n = 1,000 and on both sides of n = 600, and posterior sampling across n for the chain's critical sample sizes | Named in [QUESTION-363](../../../record/questions.d/QUESTION-363.md). Filed by the backlog audit of 2026-11-19. | Open |

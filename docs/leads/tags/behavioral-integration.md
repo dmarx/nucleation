@@ -6,8 +6,14 @@
 
 **Behavioral integration** — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+7 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-024](../../../record/leads.d/LEAD-024.md) | Fit Twitch Plays Pokemon's anarchy-mode input logs with a drift process against a switching model | Named in [CLAIM-262](../../../record/claims.d/CLAIM-262.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-029](../../../record/leads.d/LEAD-029.md) | Derive a prediction that follows from the shared organizational variables and not from phenomenon-specific or central-executive models, and a joint prediction of two lines through the mapping | Whether two lines are one model. Named in [CLAIM-286](../../../record/claims.d/CLAIM-286.md), [CLAIM-336](../../../record/claims.d/CLAIM-336.md) and [ARG-065](../../../record/arguments.d/ARG-065.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-054](../../../record/leads.d/LEAD-054.md) | Settle where flow's affect lies: in-episode reports of flow, and a measure that separates intrinsic pleasantness from goal-conduciveness valence | The main hold on [CLAIM-440](../../../record/claims.d/CLAIM-440.md), the line's hub. Named in [CLAIM-441](../../../record/claims.d/CLAIM-441.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-078](../../../record/leads.d/LEAD-078.md) | Find evidence on bundling by self-prediction rather than an imposed bundle, and on whether discounting mediates self-control change after mindfulness practice | Named in [CLAIM-169](../../../record/claims.d/CLAIM-169.md) and [CLAIM-156](../../../record/claims.d/CLAIM-156.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-088](../../../record/leads.d/LEAD-088.md) | Compare the drive profiles that interests, the expected value of control and will-organization predict for an agent resisting temptation, and estimate one for a real system | Named in [CLAIM-158](../../../record/claims.d/CLAIM-158.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-128](../../../record/leads.d/LEAD-128.md) | Find or make a fit of the expected-value-of-control model in which control intensity falls with its cost | Named in [CLAIM-358](../../../record/claims.d/CLAIM-358.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-159](../../../record/leads.d/LEAD-159.md) | Test corrigible resolve against entrenchment: perturb or ablate a learner's slow influence structure with task information and capacity held fixed | Named in [CLAIM-344](../../../record/claims.d/CLAIM-344.md) and [CASE-188](../../../record/cases.d/CASE-188.md). Filed by the backlog audit of 2026-11-19. | Open |

@@ -6,8 +6,9 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-064](../../../record/leads.d/LEAD-064.md) | Run the study at matched budgets of adaptive single trajectories against fixed queries and independent trajectories | Named in [CLAIM-301](../../../record/claims.d/CLAIM-301.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-108](../../../record/leads.d/LEAD-108.md) | State one cost model for stored work and check whether it prices the cockpit's speed bugs, a filed argument and a LEGO bin with the same terms | Two of the most-cited questions in the record ask for it, and A84 ranks [QUESTION-095](../../../record/questions.d/QUESTION-095.md) high. Named in [QUESTION-095](../../../record/questions.d/QUESTION-095.md) and [QUESTION-114](../../../record/questions.d/QUESTION-114.md). Filed by the backlog audit of 2026-11-19. | Open |

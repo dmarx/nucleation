@@ -6,8 +6,11 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+4 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-054](../../../record/leads.d/LEAD-054.md) | Settle where flow's affect lies: in-episode reports of flow, and a measure that separates intrinsic pleasantness from goal-conduciveness valence | The main hold on [CLAIM-440](../../../record/claims.d/CLAIM-440.md), the line's hub. Named in [CLAIM-441](../../../record/claims.d/CLAIM-441.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-070](../../../record/leads.d/LEAD-070.md) | Find where the effort that positive affect frees goes, measured against an ordering that participants' own conflicts reveal, reading Carver first-hand | It settles the sign of clause 3 of [CLAIM-440](../../../record/claims.d/CLAIM-440.md). Named in [CLAIM-505](../../../record/claims.d/CLAIM-505.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-123](../../../record/leads.d/LEAD-123.md) | Build the three-perspective agenda model with a latent Condorcet cycle, in which a chair or a legibility regime controls which pairwise contests enter the record | Named in [CLAIM-448](../../../record/claims.d/CLAIM-448.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-127](../../../record/leads.d/LEAD-127.md) | Search for evidence that thwarting a candidate basic need causes a functional deficit, and thwarting a matched enhancer does not, under intervention | Named in [QUESTION-369](../../../record/questions.d/QUESTION-369.md). Filed by the backlog audit of 2026-11-19. | Open |

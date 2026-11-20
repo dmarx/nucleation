@@ -6,8 +6,10 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+3 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-121](../../../record/leads.d/LEAD-121.md) | Decide whether share-dependent advantage counts as independent scoring, and close the term of the reinforcing-authority claim | The second most-cited live claim has an unresolved defeater. Named in the curation entry of 2026-11-11 (030317). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-144](../../../record/leads.d/LEAD-144.md) | Fit the dynamic beta-Bernoulli feature model to a mechanistic organizational simulator that does not assume its prior, with a shared-driver null, and score it on held-out interventions on the coupling | The question states that recovery under the model's own prior is not enough. Named in [QUESTION-276](../../../record/questions.d/QUESTION-276.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-170](../../../record/leads.d/LEAD-170.md) | Run repeated reconstruction chains, cross-modal (text, image, caption, image) against text-only of the same length, scored with an overlapping-context design at each stage | Named in [QUESTION-004](../../../record/questions.d/QUESTION-004.md), [QUESTION-014](../../../record/questions.d/QUESTION-014.md) and [CLAIM-087](../../../record/claims.d/CLAIM-087.md). Filed by the backlog audit of 2026-11-19. | Open |

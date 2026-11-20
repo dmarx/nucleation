@@ -6,8 +6,14 @@
 
 **Readiness and slack** — what it takes to keep, reach and pay for capacities whose value lies in rare circumstances — readiness as response capability, slack and reconfiguration slack as different reserves, the resource threshold of a transition and its obstructions, and budget rules that remove options no one chose to give up (ADR-073). When transient support can be withdrawn is a line of its own (ADR-087).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+7 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-036](../../../record/leads.d/LEAD-036.md) | Model or trace the loop by which activity-based funding erodes rarely used capability, against a control that decouples maintenance funding from observed activity | Named in [QUESTION-386](../../../record/questions.d/QUESTION-386.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-075](../../../record/leads.d/LEAD-075.md) | Run the staging experiment: states A and B with a staging state C, measuring the bottleneck budget, the least time at budget and the readiness, to produce the four kinds of case | Named in [QUESTION-392](../../../record/questions.d/QUESTION-392.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-080](../../../record/leads.d/LEAD-080.md) | Run the readiness simulator twice, with each period's budget set to the last period's peak spending and with carry-over | [QUESTION-394](../../../record/questions.d/QUESTION-394.md) calls it the cheapest test of [CLAIM-577](../../../record/claims.d/CLAIM-577.md) and gives the design. Named in [QUESTION-394](../../../record/questions.d/QUESTION-394.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-124](../../../record/leads.d/LEAD-124.md) | Read the meta-analysis of procedural skill retention and decay | One reading may answer a question outright. From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-145](../../../record/leads.d/LEAD-145.md) | Read dual control and the value-of-information literature for shared observe-and-act budgets | Named in the curation entry of 2026-11-05 (042017). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-166](../../../record/leads.d/LEAD-166.md) | Test dependency against division of labour by the capability trajectory under withdrawal, in a microbial co-culture whose supplied metabolite can be removed | [CLAIM-603](../../../record/claims.d/CLAIM-603.md) states the design and its cost. Named in [CLAIM-603](../../../record/claims.d/CLAIM-603.md) and the curation entry of 2026-11-13 (072318). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-171](../../../record/leads.d/LEAD-171.md) | Write a threshold version of the crowding-out model | Named in the curation entry of 2026-11-05 (201805). Filed by the backlog audit of 2026-11-19. | Open |

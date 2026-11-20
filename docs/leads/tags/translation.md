@@ -6,8 +6,12 @@
 
 **Translation** — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+5 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-019](../../../record/leads.d/LEAD-019.md) | Run the discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named receivers, against a proposition-plus-force rival and a text-similarity baseline | The pragmatic-transport line's central defeat test; five Proposed theses, an argument and a synthesis wait on it. Named in [CLAIM-228](../../../record/claims.d/CLAIM-228.md), [CLAIM-220](../../../record/claims.d/CLAIM-220.md), [ARG-017](../../../record/arguments.d/ARG-017.md), [QUESTION-002](../../../record/questions.d/QUESTION-002.md) and [CLAIM-637](../../../record/claims.d/CLAIM-637.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-096](../../../record/leads.d/LEAD-096.md) | Give receivers a report task and a re-performance task on the same renderings, and classify the line's central cases as reports or re-performances | Named in [CLAIM-212](../../../record/claims.d/CLAIM-212.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-111](../../../record/leads.d/LEAD-111.md) | Construct the operational cover as a family of contexts with restriction maps, or give the operational notion its own name | Named in [CLAIM-251](../../../record/claims.d/CLAIM-251.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-139](../../../record/leads.d/LEAD-139.md) | Test relational measures against surface or embedding similarity as predictors of trope-identity judgements on recasts, with held-out trope families | Named in [CLAIM-147](../../../record/claims.d/CLAIM-147.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-146](../../../record/leads.d/LEAD-146.md) | Fix what the discriminating fidelity study must fix before data: a strong contextual baseline, named receiver populations and sampling frames, an equivalence margin with power, and an interlingual arm | The preregistration the discriminating study binds; cheap, and three Active counters ask for it. Named in [CASE-055](../../../record/cases.d/CASE-055.md), [CLAIM-205](../../../record/claims.d/CLAIM-205.md), [CLAIM-226](../../../record/claims.d/CLAIM-226.md) and [CLAIM-222](../../../record/claims.d/CLAIM-222.md). Filed by the backlog audit of 2026-11-19. | Open |

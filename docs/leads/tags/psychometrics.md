@@ -6,8 +6,11 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+4 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-019](../../../record/leads.d/LEAD-019.md) | Run the discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named receivers, against a proposition-plus-force rival and a text-similarity baseline | The pragmatic-transport line's central defeat test; five Proposed theses, an argument and a synthesis wait on it. Named in [CLAIM-228](../../../record/claims.d/CLAIM-228.md), [CLAIM-220](../../../record/claims.d/CLAIM-220.md), [ARG-017](../../../record/arguments.d/ARG-017.md), [QUESTION-002](../../../record/questions.d/QUESTION-002.md) and [CLAIM-637](../../../record/claims.d/CLAIM-637.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-034](../../../record/leads.d/LEAD-034.md) | Fit a weighting of the fidelity profile's components on one set of renderings and judges and test it on another, against the best single component | Named in [CLAIM-240](../../../record/claims.d/CLAIM-240.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-127](../../../record/leads.d/LEAD-127.md) | Search for evidence that thwarting a candidate basic need causes a functional deficit, and thwarting a matched enhancer does not, under intervention | Named in [QUESTION-369](../../../record/questions.d/QUESTION-369.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-162](../../../record/leads.d/LEAD-162.md) | Construct and validate a measure of footing and stance: a definition given to judges, reliability between and within judges at a target fixed in advance, and known-groups validity on reattributed sentences | Stage 0 of the discriminating fidelity study, and the measure every footing clause on the pragmatic-transport line waits on. Named in [CLAIM-227](../../../record/claims.d/CLAIM-227.md), [CLAIM-084](../../../record/claims.d/CLAIM-084.md) and [QUESTION-076](../../../record/questions.d/QUESTION-076.md). Filed by the backlog audit of 2026-11-19. | Open |

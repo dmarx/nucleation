@@ -6,8 +6,15 @@
 
 **Wholes, parts and dependence** — what wholes and their parts owe and can claim of each other, and when a dependence becomes domination or exploitation — control over the terms on which a dependence is met, not the size of the dependence, decides which way it runs and whether a whole's need of a part is the part's hold; exploitation and domination are judged against a standard declared with the judgment; and those who control an arrangement others depend on owe accountability and justification that rise with how indispensable it has become and how durably their choices narrow what is later open. "Organization" here is TERM-074's sense 1, a relational arrangement, unless an entry says otherwise, and the bearers of obligations, agents or roles, are kept apart from the ground of the obligation; split from organizational-normativity (ADR-100).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+8 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-031](../../../record/leads.d/LEAD-031.md) | Read the works on obligation and repair | Named in the curation entry of 2026-11-15 (221646). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-104](../../../record/leads.d/LEAD-104.md) | Write the model of the competence-restriction loop, with reinstatement made a threshold on capacity | Named in [CLAIM-721](../../../record/claims.d/CLAIM-721.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-110](../../../record/leads.d/LEAD-110.md) | Work the part-whole case through to one of its three results: which relation of part to whole grounds a norm concerning the part, and who bears the obligation | Named in [QUESTION-460](../../../record/questions.d/QUESTION-460.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-129](../../../record/leads.d/LEAD-129.md) | Compare institutions with and without effective means to revise their governing standards, matched on resources and independence of evidence | Named in [CLAIM-685](../../../record/claims.d/CLAIM-685.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-131](../../../record/leads.d/LEAD-131.md) | Fix who bears the duty not to reproduce projections and which sense of organization the claim uses | The most-cited claim in the record, and a synthesis integration waits on it. Named in the curation entry of 2026-11-15 (044148). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-133](../../../record/leads.d/LEAD-133.md) | Read the works on exploited commitment, with Hart and Moore on control rights | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-150](../../../record/leads.d/LEAD-150.md) | Read the works on bidirectional violence | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-153](../../../record/leads.d/LEAD-153.md) | Compare two theatrical organizations with similar artistic outputs and different labour arrangements, to tell exploitation from dependence and from domination | Named in [QUESTION-468](../../../record/questions.d/QUESTION-468.md). Filed by the backlog audit of 2026-11-19. | Open |

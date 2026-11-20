@@ -6,8 +6,14 @@
 
 **The record as its own apparatus** — what an apparatus of record-keeping makes determinate, how its grammar is fixed and revised through use, and inquiry as specification — the record itself as the case; split from nucleating-argument (ADR-082).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+7 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-021](../../../record/leads.d/LEAD-021.md) | Run diagnose-before-repair under a probe budget | Named in [CASE-254](../../../record/cases.d/CASE-254.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-058](../../../record/leads.d/LEAD-058.md) | Run HiddenBench hidden-profile tasks under conversation, the published structured protocol and a governed record, tracing each clue through admission, interpretation, credit and use | The benchmark has been read, so the design can go ahead. Named in [QUESTION-459](../../../record/questions.d/QUESTION-459.md) and [CLAIM-403](../../../record/claims.d/CLAIM-403.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-085](../../../record/leads.d/LEAD-085.md) | Run governed schema adaptation with a performance-gated arm, including its secondary estimand on routine tasks | The empirical core of the planned luria article; part 2 of [QUESTION-458](../../../record/questions.d/QUESTION-458.md) is untouched by the prior art. Named in [QUESTION-458](../../../record/questions.d/QUESTION-458.md) and [CLAIM-665](../../../record/claims.d/CLAIM-665.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-122](../../../record/leads.d/LEAD-122.md) | Count, in the workbench reconstructions, the share of moves of comparable content filed by contributor and by kind of move | Named in [QUESTION-072](../../../record/questions.d/QUESTION-072.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-140](../../../record/leads.d/LEAD-140.md) | Compare an earlier and a later improver of a record-keeping collective from the same fresh state at the same budget, then damage its diagnostic machinery | The study [QUESTION-457](../../../record/questions.d/QUESTION-457.md) names as its answer. Named in [QUESTION-457](../../../record/questions.d/QUESTION-457.md) and [QUESTION-388](../../../record/questions.d/QUESTION-388.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-155](../../../record/leads.d/LEAD-155.md) | File one corpus under two apparatuses and test whether the change of apparatus changes later inquiry beyond visualization | Named in [CLAIM-476](../../../record/claims.d/CLAIM-476.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-193](../../../record/leads.d/LEAD-193.md) | Run the study of investigators starting from an equilibrium-only schema on a synthetic oscillatory system, with three regimes on the same benchmarks | Named in [CLAIM-470](../../../record/claims.d/CLAIM-470.md). Filed by the backlog audit of 2026-11-19. | Open |

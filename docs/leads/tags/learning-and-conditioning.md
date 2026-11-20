@@ -6,8 +6,9 @@
 
 **Learning and conditioning** — how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-104](../../../record/leads.d/LEAD-104.md) | Write the model of the competence-restriction loop, with reinstatement made a threshold on capacity | Named in [CLAIM-721](../../../record/claims.d/CLAIM-721.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-124](../../../record/leads.d/LEAD-124.md) | Read the meta-analysis of procedural skill retention and decay | One reading may answer a question outright. From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |

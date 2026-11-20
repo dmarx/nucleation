@@ -6,8 +6,9 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-063](../../../record/leads.d/LEAD-063.md) | Apply an integration or dynamic-core measure, or a justified anti-nesting rule, to a modular-mind model and to a group model | Named in [QUESTION-046](../../../record/questions.d/QUESTION-046.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-134](../../../record/leads.d/LEAD-134.md) | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |

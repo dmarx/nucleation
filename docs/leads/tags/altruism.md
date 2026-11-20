@@ -6,8 +6,9 @@
 
 **Altruism and self-interest** — whether and how action can aim at another's good rather than one's own — psychological egoism and its rivals, the empathy–altruism debate and self–other merging, inclusion of others in the self and identity fusion, team reasoning and group-directed preferences, identity in the utility function, the evolution of unselfish behaviour (kin, reciprocal and group selection), and the extent of the self as it bears on what counts as self-interest (ADR-062).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-062](../../../record/leads.d/LEAD-062.md) | Find or design a study that measures the self's extent apart from caring and tests whether concern for future people and for one's legacy follows it, including legacy priming where no one will know | Three central questions and an Active claim share one test. Named in [QUESTION-301](../../../record/questions.d/QUESTION-301.md), [QUESTION-299](../../../record/questions.d/QUESTION-299.md) and [NOTE-1280](../../../record/notes.d/NOTE-1280.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-156](../../../record/leads.d/LEAD-156.md) | Search for human studies that separate the germline route of intergenerational trauma from the uterine, parenting and cultural routes, and for studies of descendants' distress against group identification | Named in [QUESTION-297](../../../record/questions.d/QUESTION-297.md) and [NOTE-1291](../../../record/notes.d/NOTE-1291.md). Filed by the backlog audit of 2026-11-19. | Open |

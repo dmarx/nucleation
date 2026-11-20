@@ -6,8 +6,8 @@
 
 **Information geometry** — the geometry of statistical models — the Fisher information as a metric, natural gradient, curvature and its Kronecker and block structure, and the spectra of Fisher and Hessian matrices in learned models (ADR-026).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+1 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-059](../../../record/leads.d/LEAD-059.md) | File the demonstrated corollary that answers part of the question on reinforcing loops | Named in the curation entry of 2026-11-07 (082259). Filed by the backlog audit of 2026-11-19. | Open |

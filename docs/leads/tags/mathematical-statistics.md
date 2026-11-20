@@ -6,8 +6,13 @@
 
 **Mathematical statistics** — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+6 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-072](../../../record/leads.d/LEAD-072.md) | Build signalling estimators with bias correction and a stated sampling error, or a signalling test with a stated null, and apply them to the published systems with their occurrence counts | Named in [CLAIM-235](../../../record/claims.d/CLAIM-235.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-073](../../../record/leads.d/LEAD-073.md) | Measure the quantities of the pragmatic-geometry account in released language models | Named in [NOTE-746](../../../record/notes.d/NOTE-746.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-096](../../../record/leads.d/LEAD-096.md) | Give receivers a report task and a re-performance task on the same renderings, and classify the line's central cases as reports or re-performances | Named in [CLAIM-212](../../../record/claims.d/CLAIM-212.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-100](../../../record/leads.d/LEAD-100.md) | Build a receiver-restricted informativeness order with its own results, or argue that judged access tracks ideal informativeness | Named in [ARG-019](../../../record/arguments.d/ARG-019.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-142](../../../record/leads.d/LEAD-142.md) | Specify the decision signature and prove or refute the eigenspace candidate for the directed case | Named in [CLAIM-209](../../../record/claims.d/CLAIM-209.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-149](../../../record/leads.d/LEAD-149.md) | Run the cross of topic and act, with a behavioural uptake predictor against a fidelity-rating criterion | Named in [CASE-040](../../../record/cases.d/CASE-040.md). Filed by the backlog audit of 2026-11-19. | Open |

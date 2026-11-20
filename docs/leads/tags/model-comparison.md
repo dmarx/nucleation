@@ -6,8 +6,9 @@
 
 **Model comparison** — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+2 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-014](../../../record/leads.d/LEAD-014.md) | Run the curation-completeness study: an agent given a source and the record as it stood produces the filing's accounting, scored against the filing and its later corrections | Owner-accepted; the record's own history supplies the ground truth. Named in [QUESTION-108](../../../record/questions.d/QUESTION-108.md) and [CASE-251](../../../record/cases.d/CASE-251.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-194](../../../record/leads.d/LEAD-194.md) | Resolve the tension between the claims on curation as revision and on admission | Named in the curation entry of 2026-11-11 (061331). Filed by the backlog audit of 2026-11-19. | Open |

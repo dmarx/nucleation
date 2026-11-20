@@ -6,8 +6,8 @@
 
 **Future generations** — what the living owe, and why they care about, people who will live after them — longtermism and existential risk, intergenerational justice, the non-identity problem and person-affecting views, population ethics, discounting of future welfare, and the psychology of concern for the future: legacy motivation, generativity, symbolic immortality and continuity with one's future self (ADR-063).
 
-0 of 13 LEAD documents. Back to the [full index](../README.md).
+1 of 197 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-156](../../../record/leads.d/LEAD-156.md) | Search for human studies that separate the germline route of intergenerational trauma from the uterine, parenting and cultural routes, and for studies of descendants' distress against group identification | Named in [QUESTION-297](../../../record/questions.d/QUESTION-297.md) and [NOTE-1291](../../../record/notes.d/NOTE-1291.md). Filed by the backlog audit of 2026-11-19. | Open |
