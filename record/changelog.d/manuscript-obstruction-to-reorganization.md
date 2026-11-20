@@ -2,11 +2,13 @@
 
 ### Added
 
-- A working draft of the owner's manuscript on how Nucleation applied
-  luria and evolved its governance, "From Obstruction to Reorganization",
-  written out from the ChatGPT exchange "Branch · Audit Luria Evolution"
-  (2026-11-20) and its measurements, at
-  `scratch/manuscripts/from-obstruction-to-reorganization.md`. It is
-  outside the record: no entry, vocabulary or relation changes. Its
-  Appendix C lists what the owner must settle, first among them how it
-  relates to the work luria-nucleating-an-argument.
+- A working draft of the owner's manuscript "From Obstruction to
+  Reorganization", the successor to the work luria-nucleating-an-argument,
+  at `scratch/manuscripts/from-obstruction-to-reorganization/`. It sets
+  out the record's account of drift, anchoring, records of inquiry and
+  inquiry as specification, maps luria onto it, and studies the record's
+  governed revision of its own grammar over its first eight weeks.
+  Written out from the ChatGPT exchange "Branch · Audit Luria Evolution"
+  (2026-11-20) and its measurements. It is outside the record: no entry,
+  vocabulary or relation changes. Its README lists what the owner must
+  settle, first among them whether its theses T1–T4 are filed as claims.
