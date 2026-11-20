@@ -37,3 +37,21 @@
 - Verified: Michael Tomasello and Amrisha Vaish, "Origins of Human Cooperation and Morality", Annual Review of Psychology 2013, 64:231-55, doi 10.1146/annurev-psych-113011-143812, first published online as Review in Advance 12 July 2012.
 - Not held in the record (grep for DOI and title: nothing).
 - Full findings: in the hand-back report (same text).
+
+## Tomasello & Vaish 2013: findings (quotes script-checked against the PDF text)
+Summary: a review of comparative (apes) and developmental (children) research, arguing that morality is a subset of cooperation and arose in two steps, in phylogeny and in ontogeny alike: a second-personal morality of collaboration with particular partners, then an agent-neutral morality of group norms.
+Key results:
+- p.231 abstract: "From an evolutionary perspective, morality is a form of cooperation." Step two is "an agent-neutral morality in which individuals follow and enforce group-wide social norms".
+- p.234: ape helping and sharing rest on attitudinal, not calculated, reciprocity: "individuals have more positive affect toward those who have helped them".
+- p.236: "chimpanzees coordinate, but they show no commitment to their partner"; they use the partner "as a kind of social tool".
+- p.239 (interdependence hypothesis, citing Tomasello et al. 2012): obligate collaborative foraging makes partners interdependent; "Interdependence thus breeds helping."; "This social selection of partners in interdependent contexts thus advantages good cooperators."; the result is "what one may call a joint morality".
+- p.239-240: intergroup competition scales this to the group, giving collective intentionality, agent-neutral norms and "what one may call a collective morality", "engendering what some have called normative self-governance (Korsgaard 1996)".
+- p.240: "young children before about 3 years of age may not really understand social norms as such."
+- p.243: 3-year-olds are "more likely to divide up their rewards equally if they obtained the rewards by working collaboratively than by working individually or receiving a windfall" (Hamann et al. 2011).
+- p.245: toddler morality is second-personal, "based on personal relationships and social emotions (Darwall 2006)"; "Social norms are thus mutually known group expectations and commitments".
+- p.246: "approximately one-quarter of the children protested using normative language" (Vaish et al. 2011b).
+- p.247: conventional norms: "they protest more against an in-group member than an out-group member" (moral norms: equally).
+- p.248: guilt and shame as internalized group judgment: "I am sanctioning myself or praising myself on behalf of the group, as it were."
+- p.249: "humans began to take a mutualistic rather than a purely individualistic approach to cooperative activity"; "the rise of intergroup competition gave way to a group-mindedness that is, we argue, totally unique to humans among primates".
+- p.250: "The transition from a second-personal to a norm-based morality is thus not an abrupt one".
+- p.251: "These collaborative activities are the origins of human morality."
