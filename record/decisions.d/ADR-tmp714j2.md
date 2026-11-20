@@ -24,7 +24,7 @@ summary: >-
   reviewing. Rejected: a postmortem per pull request; calendar intervals;
   leaving it to ad hoc request.
 ---
-<!-- inactive-ok-file: ADR-tmpk8vnc ADR-109 POSTMORTEM-tmp7fylf — Proposed or Draft; the scheme this policy serves, and the review that showed the pace -->
+<!-- inactive-ok-file: ADR-tmpk8vnc ADR-109 POSTMORTEM-tmp7fylf POSTMORTEM-tmp5eoc7 POSTMORTEM-tmpe7ifr — Proposed or Draft; the scheme this policy serves, and the review that showed the pace -->
 
 # ADR-tmp714j2: A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded
 
@@ -101,14 +101,14 @@ at about the right moment.
 [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) covers it in part, as the scheme's use.
 - Pull requests 535 to 540 met trigger 2: six pull requests, a stack folded
 top-down, conflicts on shared notes, and a rebase onto concretized codes.
-Due; not yet written.
+Written as POSTMORTEM-tmp5eoc7.
 - Pull requests 541 to 545 met trigger 2: five pull requests, one folded
 into another, and two rounds of conflicts on dated notes appended to the
-same entries. Due; not yet written.
+same entries. Written as POSTMORTEM-tmpe7ifr.
 - Pull requests 546 and 547 (this scheme, and the LEAD revision) will meet
 trigger 1 once postmortems are written under them.
 
-The two due batch postmortems are proposed to the owner, not filed.
+The owner asked for both due batch postmortems on 2026-11-20; they are filed with this decision, in the short form.
 
 ## Alternatives considered
 
