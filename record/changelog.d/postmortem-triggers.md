@@ -5,5 +5,5 @@
   sessions, not calendar time; the assistant checks them when a batch
   closes and proposes, and the owner decides. A starting policy, expected
   to be superseded.
-- Its first application: two batch postmortems, POSTMORTEM-tmp5eoc7
-  (pull requests 535 to 540) and POSTMORTEM-tmpe7ifr (541 to 545).
+- Its first application: two batch postmortems, [POSTMORTEM-tmp5eoc7](record/postmortems.d/POSTMORTEM-tmp5eoc7.md)
+  (pull requests 535 to 540) and [POSTMORTEM-tmpe7ifr](record/postmortems.d/POSTMORTEM-tmpe7ifr.md) (541 to 545).
