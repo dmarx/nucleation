@@ -41,12 +41,12 @@ An answer measures, for named receivers and budgets, the bounded risk on a
 communicative decision before and after a rendering, Δ_q(r, T) in A15's
 notation, and shows how it varies with r.
 
-## Note of 2026-11-20: presupposes QUESTION-110
+## Note of 2026-11-20: presupposes [QUESTION-110](QUESTION-110.md)
 
 Filed by the question-dependency sweep the owner asked for on 2026-11-20.
-Any answer to this question must use QUESTION-110's concept or result:
+Any answer to this question must use [QUESTION-110](QUESTION-110.md)'s concept or result:
 QUESTION-111 asks how the cost of recovering communicative distinctions
 changes under framing, which must use the notion of recovery cost
-QUESTION-110 asks how to define. This question: "how does the cost of
-recovering them change under framing"; QUESTION-110: "How should the cost
+[QUESTION-110](QUESTION-110.md) asks how to define. This question: "how does the cost of
+recovering them change under framing"; [QUESTION-110](QUESTION-110.md): "How should the cost
 of recovering a distinction from a representation be defined".

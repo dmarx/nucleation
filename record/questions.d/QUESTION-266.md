@@ -112,14 +112,14 @@ and dissociations hold.
 A single measure presented as felt valence, or any measure of layer 3
 validated only by reports that are themselves layer 3.
 
-## Note of 2026-11-20: presupposes QUESTION-268
+## Note of 2026-11-20: presupposes [QUESTION-268](QUESTION-268.md)
 
 Filed by the question-dependency sweep the owner asked for on 2026-11-20.
-Any answer to this question must use QUESTION-268's concept or result:
+Any answer to this question must use [QUESTION-268](QUESTION-268.md)'s concept or result:
 266's first layer, potential, is to be measured as 'which ranking wins the
 system's conflicts, for how long, and whether it returns', which is
 exactly the measurement 268 asks for, so any operationalization of the
 three layers must use 268's answer. This question: "an ordering serving as
-the negotiation's potential in the system's conflicts"; QUESTION-268:
+the negotiation's potential in the system's conflicts"; [QUESTION-268](QUESTION-268.md):
 "What record of an organization's or an animal's conduct shows that one
 ordering prevails in the negotiation among its perspectives".
