@@ -73,7 +73,7 @@ Bohn, Kachel and Tomasello report that when speech is blocked, young children (i
 ## WORK 2. Tomasello, *Origins of Human Communication* (MIT Press, 2008)
 ====================================================================
 ### Bibliographic details (Crossref)
-Michael Tomasello. *Origins of Human Communication*. Cambridge, MA: The MIT Press, 2008 (Crossref published 2008-08-22). Jean Nicod Lectures series (per the bookseller and review pages; the IIT page says it is "based on Tomasello's Jean Nicod Lectures in Paris, 2006"). doi:10.7551/mitpress/7551.001.0001. ISBNs: e-book 9780262285070 (Crossref); hardcover 0262201771 / 9780262201773 (IIT page); paperback 9780262515207 (MIT Press URL). The paperback appeared 2010; Bohn et al. cite it as 2010.
+Michael Tomasello. *Origins of Human Communication*. Cambridge, MA: The MIT Press, 2008 (Crossref published 2008-08-22). Jean Nicod Lectures series (per the bookseller and review pages; the IIT page says it is "based on Tomasello's Jean Nicod Lectures in Paris, 2006"). doi:10.7551/mitpress/7551.001.0001. ISBNs: e-book 9780262285070 (Crossref); hardcover 0262201771 / 9780262201773 (IIT page); paperback 9780262515207 (MIT Press URL). Bohn et al. cite it as "(MIT Press, Cambridge, MA, 2010)", presumably the paperback; its date was not verified.
 Chapters (Crossref chapter DOIs 10.7551/mitpress/7551.003.00xx, with pages):
 1 A Focus on Infrastructure 1–12; 2 Primate Intentional Communication 13–56; 3 Human Cooperative Communication 57–108; 4 Ontogenetic Origins 109–168; 5 Phylogenetic Origins 169–242; 6 The Grammatical Dimension 243–318; 7 From Ape Gestures to Human Language 319–346; References 347–372; Author Index 373–378; Subject Index 379–394. (The IIT page's contents list agrees.)
 ### Full text: NOT REACHED. Every copy found:
@@ -91,7 +91,7 @@ C. Supplementary, read in full but thin: Tomasello's own 2006 Jean Nicod Lecture
 --------------------------------------------------------------------
 ### Stand-in A. Tomasello (2021), "Communicating Without Conventions: The Co-operation Model"
 Provenance: https://cadernos.abralin.org/index.php/cadernos/article/download/286/278 (publisher open access, CC BY 4.0 per the landing page https://cadernos.abralin.org/index.php/cadernos/article/view/286). PDF, HTTP 200, 2026-11-20. Read in full: abstract to conclusion, pp. 1–25. The reference list was skimmed.
-Bibliographic details: Michael Tomasello (Duke University | MPI EVA). "Communicating Without Conventions: The Co-Operation Model." *Cadernos de Linguística* 2(1): 01–27 (article e286). Published 2021-01-13 (received 2020-09-06). Crossref DOI 10.25189/2675-4916.2021.v2.n1.id286 resolves. The DOI printed in the PDF footer, 10.25189/2675-4916.2020.V2.N1.ID286, returns 404 at Crossref. Use the 2021 form.
+Bibliographic details: Michael Tomasello (Duke University | MPI EVA). "Communicating Without Conventions: The Co-Operation Model." *Cadernos de Linguística* 2(1): 01–27 (article e286). Published 2021-01-13 (printed "Recebido: 09/06/2020", "Aceito: 07/17/2020"). Crossref DOI 10.25189/2675-4916.2021.v2.n1.id286 resolves. The DOI printed in the PDF footer, 10.25189/2675-4916.2020.V2.N1.ID286, returns 404 at Crossref. Use the 2021 form.
 How far it stands in: high for the book's core account. It states explicitly that it follows "Tomasello (2008)" and is organized as the book's argument in miniature:
 - natural gestures (pointing and pantomime) as complete communicative acts (≈ ch. 1, 3);
 - ape gestures and their failure in the object-choice task (≈ ch. 2);
