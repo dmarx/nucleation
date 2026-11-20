@@ -2,7 +2,7 @@
 number: 754
 status: Proposed
 formerly:
-- CLAIM-tmp1l2s7
+- CLAIM-754
 title: 'A learner''s acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared'
 version: 1
 role: thesis
@@ -134,3 +134,17 @@ differing by domain; Hernandez and colleagues ([THEORY-2059](../theory.d/THEORY-
 whether pretraining helps depends on later data and size; Akter and
 colleagues ([THEORY-2069](../theory.d/THEORY-2069.md)) find pretraining choices that barely move
 base scores move what fine-tuning reaches. Analogies.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+He and colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)) give the clearest illustration on
+record: a shortcut model ahead on present held-out accuracy is behind a
+grokked one in acquiring compositions with new facts; observational,
+single runs, not matched. Ito and colleagues ([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)) show
+networks stopped at one criterion that differ in what they can reach.
+Driscoll and colleagues ([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md)) and Furuta and colleagues
+([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)) give interface-relative instances: with learning
+confined to one input or to the unfrozen part, what is reachable depends
+on what is held and on which part was transferred. Illustrations, not
+tests.

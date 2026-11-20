@@ -1,0 +1,64 @@
+---
+status: Read
+paper: LIT-tmpaqjh5
+title: 'Thomm and colleagues — Limits of Transformer Language Models on Learning to Compose Algorithms'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from arXiv 2402.05785v5 (PDF, 5
+    Nov 2024): §§1–7 and appendix C in full; appendix B in part; appendices
+    A and D skimmed; prompt listings skipped. Running notes on the branch
+    claude/readers/task-composition (ADR-108). Quotations rechecked by the
+    filer by script against the downloaded text.
+date: '2026-11-19'
+summary: >-
+  Composition against sub-tasks under joint training: little benefit from
+  the sub-tasks; the reverse, composition first then a sub-task, saves.
+  Single runs; no intervention.
+---
+<!-- inactive-ok-file: CLAIM-756 THEORY-2065 THEORY-2071 THEORY-2067 THEORY-2075 — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmp8n812: Thomm and colleagues — Limits of Transformer Language Models on Learning to Compose Algorithms
+
+## Key results
+
+1. **Joint, not staged.** They "train a LLaMA model from scratch on all
+   sub-tasks concurrently (sampling from them uniformly at random)" (§4.1).
+2. **Headline.** "LLaMA requires more data samples than relearning all
+   sub-tasks from scratch to learn the compositional task" (abstract);
+   "LLaMA obtains no significant benefit from learning the sub-tasks"
+   (§4.1). At some sizes the mix is ahead (PEN at 500K, 0.93 against 0.74),
+   at others behind.
+3. **Reading.** "we speculate that the sub-tasks are not properly reused,
+   and the tasks are rather learned every time from scratch" (§4.1), not
+   tested by probing.
+4. **Reverse direction.** "when learning the decomposition task, the models
+   benefit from being previously pre-trained on the composition task"
+   (§4.2), against an untabulated scratch baseline.
+5. **Single runs.** "Each row in the tables C.2, C.3 C.4, C.5, C.6, and C.8
+   corresponds to one run with the respective data mix" (App. C.3).
+
+## Bearing on the record
+
+- **[LEAD-006](../leads.d/LEAD-006.md)**, qualifies: prior research the lead must face, not its
+  experiment; no staged acquisition of the shared structure, no matched
+  first stage, no intervention.
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, a limit on when the effect appears, not a counterexample:
+  learning sub-tasks alongside does not lower the composition's cost here.
+- **[CLAIM-596](../claims.d/CLAIM-596.md)** and **[QUESTION-397](../questions.d/QUESTION-397.md)**, parallel: accuracy at a sample size
+  cannot tell a changed rate from a head start; the no-reuse reading goes
+  beyond the data.
+- **[THEORY-2065](../theory.d/THEORY-2065.md)** (Skill-it), in tension: mixing in prerequisites
+  saved steps there and composed samples barely here; different measures.
+- **[THEORY-2071](../theory.d/THEORY-2071.md)**, **[THEORY-2067](../theory.d/THEORY-2067.md)**, **[THEORY-2075](../theory.d/THEORY-2075.md)**: contrast,
+  staged designs that do find savings.
+- **[THEORY-253](../theory.d/THEORY-253.md)**, parallel: skills progress together under gradient
+  descent.
+
+## Limitations
+
+One seed per cell; coarse sample grids; the mixed arm sees more data;
+sub-task sizes not minimal; one model scale; the theory rests on a strong
+memorization assumption.

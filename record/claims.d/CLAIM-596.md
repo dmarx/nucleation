@@ -2,7 +2,7 @@
 number: 596
 status: Active
 formerly:
-- CLAIM-tmpqlcgm
+- CLAIM-596
 title: 'Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so the route is identified by the rate of that later step, compared with and without the nucleus, and not by the yields'
 version: 2
 history:
@@ -130,3 +130,15 @@ strict curricula look like head starts, an early lead that closes, while a
 curriculum warm-up keeps improving after the baseline converges; read from
 a figure, one run, no rate quantity. Supports the claim's diagnosis; no
 status change.
+
+## Note of 2026-11-19: the task-composition readings, read
+<!-- inactive-ok-file: THEORY-tmp80vhs THEORY-tmpezk6j THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Two task-composition readings measure the rate of a later step against a
+component, which this claim asks for: Goudar and colleagues
+([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)) bar the readout from a reused subspace and later
+learning returns to naive speed; Maennel and colleagues ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md))
+separate a weight-scale route from an alignment route by rescaling and
+covariance resampling, and final accuracy moves against speed. Thomm and
+colleagues ([THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)) read sample-size endpoints as no reuse, which
+this claim says such endpoints cannot show.
