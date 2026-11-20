@@ -209,12 +209,12 @@ distance exists, and this claim's own test is still not run.
 
 ## Note of 2026-11-20 (later): the critical distance as a number of restatements
 
-CLAIM-tmphedau, a linear Gaussian model of restatement, gives the number of
+[CLAIM-tmphedau](CLAIM-tmphedau.md), a linear Gaussian model of restatement, gives the number of
 restatements before a feature first passes the distance δ this claim calls
 critical: about δ²/σ² when the feature is copied with random error σ;
 ln(D/(D − δ))/ln(1/a) when it is pulled toward a convention at distance
 D > δ; and, on average, never when the convention lies within δ. So the
 critical distance, with the step's constants, predicts when an idea will be
-taken for new. CLAIM-tmpsn2rb draws the consequence that ideas far from the
+taken for new. [CLAIM-tmpsn2rb](CLAIM-tmpsn2rb.md) draws the consequence that ideas far from the
 collaborators' framings are lost soonest. Neither tests the critical
 distance itself, which this claim's own test still awaits.

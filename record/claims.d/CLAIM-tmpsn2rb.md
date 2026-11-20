@@ -27,15 +27,15 @@ uses:
 - TERM-tmp7i7ed
 summary: >-
   A prediction the formal account of drift makes for the record's own
-  exchanges. CLAIM-191 says uncoded restatements drift toward the
-  collaborators' framings; CLAIM-180 says an idea is lost past a critical
-  distance; CLAIM-tmphedau gives the crossing time for contraction toward
+  exchanges. [CLAIM-191](CLAIM-191.md) says uncoded restatements drift toward the
+  collaborators' framings; [CLAIM-180](CLAIM-180.md) says an idea is lost past a critical
+  distance; [CLAIM-tmphedau](CLAIM-tmphedau.md) gives the crossing time for contraction toward
   a convention at distance D, which is short when D is large and infinite
   when D is below the critical distance. Together: the ideas furthest
   from the collaborators' framings are lost first. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-180 CLAIM-191 CLAIM-tmpdx6l8 TERM-tmp7i7ed CLAIM-176 — Proposed; the claims this rests on and bears on -->
+<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-180 CLAIM-191 CLAIM-tmpdx6l8 CLAIM-176 — Proposed; the claims this rests on and bears on -->
 
 # CLAIM-tmpsn2rb: In the record's exchanges, the ideas lost soonest, re-derived as though new or silently redefined, are those furthest from the collaborators' own framings: contraction toward those framings carries a distant idea past the critical distance in a few restatements and never carries a near one past it, so the most original ideas are the most fragile until coded
 
@@ -43,12 +43,12 @@ summary: >-
 
 Three entries meet here.
 
-- CLAIM-191: "without anchors, restatements drift toward the collaborators'
-  own framings rather than at random". In CLAIM-tmpdx6l8's terms the
+- [CLAIM-191](CLAIM-191.md): "without anchors, restatements drift toward the collaborators'
+  own framings rather than at random". In [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md)'s terms the
   framings are the fixed point of the contracting part of a session's step.
-- CLAIM-180: a restatement that has drifted past a critical distance is
+- [CLAIM-180](CLAIM-180.md): a restatement that has drifted past a critical distance is
   "taken for new".
-- CLAIM-tmphedau: under contraction toward a convention at distance D from
+- [CLAIM-tmphedau](CLAIM-tmphedau.md): under contraction toward a convention at distance D from
   the source, the displacement reaches δ after n* = ln(D/(D − δ))/ln(1/a)
   restatements when D > δ, and never on average when D < δ.
 
@@ -61,10 +61,10 @@ the ones the record most needs to keep.
 
 ## What follows for the record
 
-CLAIM-176's rule codes an idea at its second occurrence. On this claim, the
+[CLAIM-176](CLAIM-176.md)'s rule codes an idea at its second occurrence. On this claim, the
 ideas most at risk may not get a second occurrence in recognizable form: by
 the time a distant idea recurs, it may be re-derived as though new, which is
-the failure CLAIM-176 meant to catch. Coding distant ideas at their first
+the failure [CLAIM-176](CLAIM-176.md) meant to catch. Coding distant ideas at their first
 occurrence, or flagging them for it, would be the remedy this claim
 suggests. It is a suggestion, not a decision.
 
@@ -75,4 +75,4 @@ suggests. It is a suggestion, not a decision.
   owner included, and is relative to them.
 - Not that the drift of the record's ideas is contraction. If it is mostly
   diffusive, distance from the framings does not set the rate, which is
-  defeater (b). LEAD-tmpexvp6 asks which.
+  defeater (b). [LEAD-tmpexvp6](../leads.d/LEAD-tmpexvp6.md) asks which.

@@ -138,11 +138,11 @@ status review on the owner's ruling.
 
 ## Note of 2026-11-20: when the bound is tight
 
-The bound adds per-step discrepancies linearly, Σ εᵢ ∏ⱼ>ᵢ Lⱼ. CLAIM-tmphedau's
+The bound adds per-step discrepancies linearly, Σ εᵢ ∏ⱼ>ᵢ Lⱼ. [CLAIM-tmphedau](CLAIM-tmphedau.md)'s
 model separates the cases. For a systematic error, a constant bias μ copied
 at L = 1, displacement after n steps is nμ and the bound is tight. For
 independent, zero-mean errors of size σ, the root-mean-square displacement is
 √n·σ, so the bound overstates typical drift by a factor of about √n. Which
-holds is the question whether drift is directed (CLAIM-191). CLAIM-208's
+holds is the question whether drift is directed ([CLAIM-191](CLAIM-191.md)). [CLAIM-208](CLAIM-208.md)'s
 point stands: neither case lets the constants be estimated from one
 restatement per step.

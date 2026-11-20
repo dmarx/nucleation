@@ -28,11 +28,11 @@ uses:
 summary: >-
   A formal account of drift, at the owner's request of 2026-11-20
   ("connect to drift (which I think we can account for formally now if we
-  haven't already)"). The record held drift as a phenomenon (CLAIM-177),
-  three explanations of it (CLAIM-180, CLAIM-186, CLAIM-191) and bounds
-  (CLAIM-056, CLAIM-107), but no model that gives its kinds. This splits
-  drift, by the parts of a restatement step (CLAIM-tmpdx6l8), into four
-  kinds with their rates, builds CLAIM-081's independence of drift and
+  haven't already)"). The record held drift as a phenomenon ([CLAIM-177](CLAIM-177.md)),
+  three explanations of it ([CLAIM-180](CLAIM-180.md), [CLAIM-186](CLAIM-186.md), [CLAIM-191](CLAIM-191.md)) and bounds
+  ([CLAIM-056](CLAIM-056.md), [CLAIM-107](CLAIM-107.md)), but no model that gives its kinds. This splits
+  drift, by the parts of a restatement step ([CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md)), into four
+  kinds with their rates, builds [CLAIM-081](CLAIM-081.md)'s independence of drift and
   retention, and gives the number of restatements before an idea passes a
   critical distance. Derived and checked by simulation (2026-11-20). The
   wording is the assistant's (Claude, in this session); adopting it is the
@@ -50,12 +50,12 @@ One feature of an idea, restated once per step:
 
 with c the step's fixed point (the convention), μ a systematic bias (taken
 only with a = 1, where it is not absorbed into c), and σ the random error.
-This is CLAIM-tmpw6wkt's model with a bias added. **Drift** is the
+This is [CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md)'s model with a bias added. **Drift** is the
 displacement dₙ = xₙ − x₀. Its mean square is bias squared plus variance.
 
 ## The four kinds
 
-| Part (TERM-tmp7i7ed) | E[dₙ \| x₀] | Var(dₙ \| x₀) | Kind |
+| Part ([TERM-tmp7i7ed](../terms.d/TERM-tmp7i7ed.md)) | E[dₙ \| x₀] | Var(dₙ \| x₀) | Kind |
 |---|---|---|---|
 | contracting, a < 1 | (1 − aⁿ)(c − x₀) | σ²(1 − a²ⁿ)/(1 − a²) | directed, saturating at the convention |
 | copied with error, a = 1, μ = 0 | 0 | nσ² | undirected, diffusive, RMS √n·σ |
@@ -72,16 +72,16 @@ depend on μ: a constant shift is invertible and loses nothing. So:
 
 - copied with bias and no error (μ ≠ 0, σ = 0): drift nμ, retention whole;
 - contracting: drift bounded by |c − x₀| plus noise, retention lost
-  geometrically (CLAIM-tmpw6wkt);
+  geometrically ([CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md));
 - copied with error: drift √n·σ, retention lost as 1/n.
 
 Every combination of large or small drift with high or low retention occurs.
-CLAIM-081 and CLAIM-270 hold that the two are different profiles; this
+[CLAIM-081](CLAIM-081.md) and [CLAIM-270](CLAIM-270.md) hold that the two are different profiles; this
 constructs each pairing in one model.
 
 ## Passing a critical distance
 
-Let an idea be lost, in CLAIM-180's sense, when its displacement first
+Let an idea be lost, in [CLAIM-180](CLAIM-180.md)'s sense, when its displacement first
 reaches δ.
 
 - **Copied with error.** The expected exit time of a Gaussian walk from
@@ -112,11 +112,11 @@ Simulated on 2026-11-20 (scripts in the curation entry of 2026-11-20,
 ## What it does not say
 
 - Not that restatement is linear, Gaussian or one feature at a time. The
-  conserved case holds for any Markov steps (CLAIM-635); the rest is this
+  conserved case holds for any Markov steps ([CLAIM-635](CLAIM-635.md)); the rest is this
   model's.
 - Not that distance is the only drift that matters. A change of identity
-  with every distance small (CLAIM-031, CLAIM-114) is outside it.
+  with every distance small ([CLAIM-031](CLAIM-031.md), [CLAIM-114](CLAIM-114.md)) is outside it.
 - Not that drift is loss. The biased, noiseless case drifts without bound
-  and loses nothing; CLAIM-189's legitimate change can be drift of that kind.
+  and loses nothing; [CLAIM-189](CLAIM-189.md)'s legitimate change can be drift of that kind.
 - Nothing about distortion that breaks the triangle inequality
-  (QUESTION-017): the model is metric.
+  ([QUESTION-017](../questions.d/QUESTION-017.md)): the model is metric.

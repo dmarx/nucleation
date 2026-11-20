@@ -23,17 +23,17 @@ rests_on:
 uses:
 - TERM-tmp7i7ed
 summary: >-
-  CLAIM-186's arrival against anchoring, as a queue. Under Poisson
+  [CLAIM-186](CLAIM-186.md)'s arrival against anchoring, as a queue. Under Poisson
   arrivals, exponential coding times and one restatement per unit of
   waiting time, the drift an idea accrues before it is coded follows from
-  the mean sojourn 1/(κ − λ) and CLAIM-tmphedau's rates. The overload case,
-  λ ≥ κ, is CLAIM-705's in another line. Coding at the k-th occurrence
-  (CLAIM-176's rule is k = 2) caps an idea's uncoded restatements at
+  the mean sojourn 1/(κ − λ) and [CLAIM-tmphedau](CLAIM-tmphedau.md)'s rates. The overload case,
+  λ ≥ κ, is [CLAIM-705](CLAIM-705.md)'s in another line. Coding at the k-th occurrence
+  ([CLAIM-176](CLAIM-176.md)'s rule is k = 2) caps an idea's uncoded restatements at
   k − 1. Derived and checked by simulation (2026-11-20). The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmphedau TERM-tmp7i7ed CLAIM-186 CLAIM-176 CLAIM-705 CLAIM-tmpz7t76 — Proposed; the model this extends, and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-186 CLAIM-176 CLAIM-705 CLAIM-tmpz7t76 — Proposed; the model this extends, and the claims it bears on -->
 
 # CLAIM-tmpve51e: If ideas arrive at rate λ, are coded by one first-come coder at rate κ > λ, and are restated once per unit of time while they wait, an idea's expected drift before it is coded is σ²/(κ − λ) in mean square for features copied with error and (c − x₀)·ln(1/a)/(κ − λ + ln(1/a)) in mean for contracted ones, so drift tracks the ratio of arrival to anchoring hyperbolically and grows without bound as the ratio reaches one; coding at a fixed occurrence caps it at that many restatements' worth
 
@@ -42,7 +42,7 @@ summary: >-
 Ideas arrive as a Poisson process of rate λ. One coder files them first
 come, first served, with exponential coding times of rate κ. Until it is
 coded, an idea is restated once per unit of time, and its features drift as
-in CLAIM-tmphedau, taken in continuous time. Once coded, it is conserved.
+in [CLAIM-tmphedau](CLAIM-tmphedau.md), taken in continuous time. Once coded, it is conserved.
 
 ## The result
 
@@ -57,16 +57,16 @@ The time W an idea waits uncoded is the M/M/1 sojourn, exponential with rate
 - **Copied with bias.** E[d] = μ/(κ − λ).
 
 All three grow without bound as ρ → 1, hyperbolically and not linearly in ρ.
-For ρ ≥ 1 the queue is unstable and waits grow without bound, CLAIM-705's
+For ρ ≥ 1 the queue is unstable and waits grow without bound, [CLAIM-705](CLAIM-705.md)'s
 result for challenges outpacing their resolution.
 
 **Coding at a fixed occurrence.** If an idea is coded the k-th time it turns
 up, it is restated uncoded at most k − 1 times, whatever the arrival rate,
-so its drift is at most k − 1 steps' worth: for k = 2, CLAIM-176's rule, one
+so its drift is at most k − 1 steps' worth: for k = 2, [CLAIM-176](CLAIM-176.md)'s rule, one
 step, σ² + μ² in mean square plus (1 − a)(c − x₀) toward the convention. The
 cap holds because the rule ties coding to the idea's own recurrence and not
 to a coder's free time; it says nothing about the cost of keeping up, which
-is CLAIM-176's other half.
+is [CLAIM-176](CLAIM-176.md)'s other half.
 
 ## Checks
 
@@ -85,4 +85,4 @@ mean wait by E[σ²W] and was not simulated separately.
   mean wait still diverges as ρ → 1.
 - Not whether drift accrues per restatement or per unit of time. The model
   restates once per unit of time, which makes the two the same; where they
-  differ is CLAIM-tmpz7t76.
+  differ is [CLAIM-tmpz7t76](CLAIM-tmpz7t76.md).

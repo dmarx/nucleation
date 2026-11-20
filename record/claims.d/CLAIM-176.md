@@ -178,13 +178,13 @@ filed in shapes it, is unanswered.
 
 ## Note of 2026-11-20: what the rule caps, and what it may miss
 
-CLAIM-tmpve51e: coding an idea at its k-th occurrence caps its uncoded
+[CLAIM-tmpve51e](CLAIM-tmpve51e.md): coding an idea at its k-th occurrence caps its uncoded
 restatements at k − 1, so under this rule (k = 2) an idea's drift before
 coding is at most one restatement's worth, whatever the arrival rate. That
 is a formal sense of "captures exactly the drift that defeats an argument":
 the cap is set by the idea's own recurrence, not by a coder keeping up.
 
-CLAIM-tmpsn2rb qualifies it. If drift toward the collaborators' framings is
+[CLAIM-tmpsn2rb](CLAIM-tmpsn2rb.md) qualifies it. If drift toward the collaborators' framings is
 contraction, an idea far from them can pass the critical distance before it
 recurs in recognizable form, and then its second occurrence is a
 re-derivation as though new, the case this rule is meant to catch. That

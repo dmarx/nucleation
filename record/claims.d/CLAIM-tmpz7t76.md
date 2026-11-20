@@ -20,9 +20,9 @@ rests_on:
 - CLAIM-tmphedau
 - CLAIM-186
 summary: >-
-  CLAIM-186 says drift tracks arrival relative to anchoring, and names as
+  [CLAIM-186](CLAIM-186.md) says drift tracks arrival relative to anchoring, and names as
   its rival that pace alone, not anchoring, is what matters. In
-  CLAIM-tmpve51e's queue the two cannot be told apart, since an idea is
+  [CLAIM-tmpve51e](CLAIM-tmpve51e.md)'s queue the two cannot be told apart, since an idea is
   restated once per unit of time. Separate them and the rival's answer
   depends on what drift accrues per: restatements or time. Which holds is
   an empirical question the record's exchange history could answer. The
@@ -35,19 +35,19 @@ summary: >-
 
 ## The claim
 
-CLAIM-186's defeater names its rival: "slowing an exchange without anchoring
+[CLAIM-186](CLAIM-186.md)'s defeater names its rival: "slowing an exchange without anchoring
 anything reduces drift as much as anchoring does at the same pace, so that
 pace alone, not anchoring, is what matters."
 
-CLAIM-tmpve51e computes drift before coding under a queue in which each
+[CLAIM-tmpve51e](CLAIM-tmpve51e.md) computes drift before coding under a queue in which each
 waiting idea is restated once per unit of time. There, steps and time are the
-same, and the rival cannot be told from CLAIM-186. Separate them:
+same, and the rival cannot be told from [CLAIM-186](CLAIM-186.md). Separate them:
 
 - **Drift accrues per restatement.** An idea's drift is set by the number of
-  times it is restated uncoded (CLAIM-tmphedau's rates are per step). An
+  times it is restated uncoded ([CLAIM-tmphedau](CLAIM-tmphedau.md)'s rates are per step). An
   idea never coded is restated as often as the argument returns to it,
   whatever the pace, so slowing alone does not bound its drift. Only coding
-  does. CLAIM-186 holds and its rival fails.
+  does. [CLAIM-186](CLAIM-186.md) holds and its rival fails.
 - **Drift accrues per unit of time.** If ideas decay between restatements,
   as memory decays, a slower exchange gives each idea more time to drift
   between returns, and slowing makes matters worse. If what decays is
@@ -57,11 +57,11 @@ same, and the rival cannot be told from CLAIM-186. Separate them:
 For memoryless collaborators, each session reconstructs from what it is
 given, and nothing decays between sessions that was not already lost at the
 last restatement. That makes per-restatement accrual the natural reading for
-the record's own case (CLAIM-191), and so favours CLAIM-186. It is a reading,
+the record's own case ([CLAIM-191](CLAIM-191.md)), and so favours [CLAIM-186](CLAIM-186.md). It is a reading,
 not a finding.
 
 ## How to tell
 
 In the exchange history, compare ideas restated equally often over
 different elapsed times, and equally long-lived ideas restated different
-numbers of times. LEAD-tmpexvp6 includes this.
+numbers of times. [LEAD-tmpexvp6](../leads.d/LEAD-tmpexvp6.md) includes this.

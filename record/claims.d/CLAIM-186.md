@@ -203,7 +203,7 @@ or differently anchored exchange to compare, and [ARG-028](../arguments.d/ARG-02
 
 ## Note of 2026-11-20: arrival against anchoring as a queue
 
-CLAIM-tmpve51e models this claim's ratio. With ideas arriving at rate λ,
+[CLAIM-tmpve51e](CLAIM-tmpve51e.md) models this claim's ratio. With ideas arriving at rate λ,
 coded first come first served at rate κ, and restated once per unit of
 waiting time, an idea's expected drift before coding is σ²/(κ − λ) in mean
 square for features copied with error. So drift does track arrival relative
@@ -211,7 +211,7 @@ to anchoring, as claimed, but hyperbolically in ρ = λ/κ, without bound as ρ
 reaches one. The model supports the claim's form and sharpens its shape; it
 is a model, not evidence that exchanges behave so.
 
-CLAIM-tmpz7t76 bears on the rival this claim's defeater names, that pace
+[CLAIM-tmpz7t76](CLAIM-tmpz7t76.md) bears on the rival this claim's defeater names, that pace
 alone reduces drift as much as anchoring: it turns on whether drift accrues
 per restatement, where the rival fails, or per unit of time, where it can
-hold. LEAD-tmpexvp6 includes the comparison that would tell.
+hold. [LEAD-tmpexvp6](../leads.d/LEAD-tmpexvp6.md) includes the comparison that would tell.

@@ -149,9 +149,9 @@ pragmatic-transport aside no longer takes this premise with it.
 ## Note of 2026-11-20: two shapes of directed drift
 
 This claim says restatements drift "toward the collaborators' own framings
-rather than at random". CLAIM-tmphedau separates two directed kinds: drift
+rather than at random". [CLAIM-tmphedau](CLAIM-tmphedau.md) separates two directed kinds: drift
 toward a fixed point, which levels off at the framing, and drift by a
 constant bias with no fixed point, which grows linearly without end. The
-claim reads as the first, and CLAIM-tmpdx6l8 takes it so; its defeater
+claim reads as the first, and [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md) takes it so; its defeater
 tests direction only, which both kinds have. The shape of displacement
-against the number of restatements would tell them apart (LEAD-tmpexvp6).
+against the number of restatements would tell them apart ([LEAD-tmpexvp6](../leads.d/LEAD-tmpexvp6.md)).
