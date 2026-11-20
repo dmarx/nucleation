@@ -190,8 +190,8 @@ been run.
 
 ## Note of 2026-11-20: a mechanism for drift, and for why a code bypasses it
 
-CLAIM-tmpdx6l8 reads a restatement from memory or a summary as a copy with
-error, and CLAIM-tmpw6wkt shows that a feature copied with error
+[CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md) reads a restatement from memory or a summary as a copy with
+error, and [CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md) shows that a feature copied with error
 random-walks, its spread growing as √n while its start is lost as 1/n. That
 is a mechanism for a restatement's drifting, step by step, past the critical
 distance this claim names. A code read with its file is a copy without

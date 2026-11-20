@@ -66,11 +66,11 @@ says; none has yet been assessed as an answer, and none is linked by
 
 ## Note of 2026-11-20: conservation by design
 
-CLAIM-tmpdx6l8 bears on this question from the other side. The question asks
+[CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) bears on this question from the other side. The question asks
 which observables actual kernels conserve. The record's own design makes
 some conserved by construction: a coded entry read verbatim is copied
-exactly, so its text is harmonic for the session's step, as CLAIM-107 and
-CLAIM-635 require. Its interpretation is not (ARG-tmp5ahr5). So for the
+exactly, so its text is harmonic for the session's step, as [CLAIM-107](../claims.d/CLAIM-107.md) and
+[CLAIM-635](../claims.d/CLAIM-635.md) require. Its interpretation is not ([ARG-tmp5ahr5](../arguments.d/ARG-tmp5ahr5.md)). So for the
 record's restatements a partial answer is: the stored text of coded entries,
 exactly; the form fixed by the schema, by contraction rather than
 conservation; the rest, at best within a defect. It does not answer the

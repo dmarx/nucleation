@@ -122,13 +122,13 @@ defect of [QUESTION-006](../questions.d/QUESTION-006.md) is compatible with attr
 
 ## Note of 2026-11-20: applied to the record's own entries
 
-CLAIM-tmpdx6l8 uses this claim as the result that makes forgetting and
+[CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md) uses this claim as the result that makes forgetting and
 anchoring one contraction: a chain keeps exactly what its steps conserve, so
 a record anchors content by having sessions copy it rather than reconstruct
-it. ARG-tmp5ahr5 is the application, and finds it holds for stored text and
+it. [ARG-tmp5ahr5](../arguments.d/ARG-tmp5ahr5.md) is the application, and finds it holds for stored text and
 only loosely for interpretation.
 
-CLAIM-tmpw6wkt adds a rate between this claim's two cases. The witness
+[CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md) adds a rate between this claim's two cases. The witness
 here for "a bounded defect does not prevent forgetting", the two-state flip
 chain, is contracting (eigenvalue 1 − 2p) and forgets geometrically. A
 feature the step leaves neutral but copies with error, on an unbounded

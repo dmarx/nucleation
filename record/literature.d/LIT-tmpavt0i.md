@@ -4,7 +4,7 @@ status_note: >-
   filed 2026-11-20, not read. Registered from the session of 2026-11-20 on
   an entry's life cycle, where the assistant named semicontraction from
   memory as the general form of contraction with a conserved part
-  (CLAIM-tmpdx6l8). arXiv 2005.09774 is open; no reading was attempted.
+  ([CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)). arXiv 2005.09774 is open; no reading was attempted.
 title: 'Weak and Semi-Contraction for Network Systems and Diffusively Coupled Oscillators'
 version: 1
 history:
@@ -30,11 +30,11 @@ summary: >-
   contraction and semicontraction, contraction with respect to a
   seminorm, applied to network systems and diffusively coupled
   oscillators. Here as the general form of contraction that keeps a
-  conserved part, on which CLAIM-tmpdx6l8 leans through the readings the
-  record holds (THEORY-960, THEORY-2044); it may give that claim a
+  conserved part, on which [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) leans through the readings the
+  record holds ([THEORY-960](../theory.d/THEORY-960.md), [THEORY-2044](../theory.d/THEORY-2044.md)); it may give that claim a
   stronger footing than an analogy. Unverified until read.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 LEAD-tmpywiwn — Proposed or Open; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed or Open; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: THEORY-2043 THEORY-2044 — Proposed; the contraction readings this work extends -->
 
 # LIT-tmpavt0i: Weak and Semi-Contraction for Network Systems and Diffusively Coupled Oscillators
@@ -44,7 +44,7 @@ Transactions on Automatic Control (2022), DOI 10.1109/TAC.2021.3073096.
 
 ## Standing in the record
 
-Registered on 2026-11-20 as the semicontraction theory CLAIM-tmpdx6l8 names
+Registered on 2026-11-20 as the semicontraction theory [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) names
 for contraction with a conserved part. The record holds the contraction
-founding (THEORY-2043) and partial contraction (THEORY-2044), not this. Not
-read; LEAD-tmpywiwn is the plan to read it.
+founding ([THEORY-2043](../theory.d/THEORY-2043.md)) and partial contraction ([THEORY-2044](../theory.d/THEORY-2044.md)), not this. Not
+read; [LEAD-tmpywiwn](../leads.d/LEAD-tmpywiwn.md) is the plan to read it.

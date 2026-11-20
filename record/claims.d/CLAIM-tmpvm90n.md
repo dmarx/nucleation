@@ -44,8 +44,8 @@ summary: >-
   increasingly narrow inductive prior towards desired outcomes", related
   to "the evolution of an item on the record and how its local degrees of
   freedom change over its life cycle". The account is the assistant's,
-  restated at U5 in the terms of CLAIM-tmpdx6l8: an entry's free features
-  are those copied with error (TERM-tmp7i7ed), and filing, coding and
+  restated at U5 in the terms of [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md): an entry's free features
+  are those copied with error ([TERM-tmp7i7ed](../terms.d/TERM-tmp7i7ed.md)), and filing, coding and
   citation move them into the contracting or the conserved part. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
@@ -72,14 +72,14 @@ and thereby developing an increasingly narrow inductive prior towards desired
 outcomes, to the evolution of an item on the record and how its local degrees
 of freedom change over its life cycle".
 
-**What the degrees of freedom are.** CLAIM-tmpdx6l8 splits the features of
+**What the degrees of freedom are.** [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md) splits the features of
 an entry by what a restatement step does to them: it pulls them onto its own
 fixed point (contracting), copies them exactly (conserved), or copies them
 with error (neutral). Only the last kind is free: a contracted feature has
 somewhere it goes, a conserved one stays where it was, and a feature copied
 with error wanders, its spread growing as √n while its start is forgotten as
-1/n (CLAIM-tmpw6wkt). An entry's **local degrees of freedom** are those
-features (TERM-tmp7i7ed). The distribution over its next revision is
+1/n ([CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md)). An entry's **local degrees of freedom** are those
+features ([TERM-tmp7i7ed](../terms.d/TERM-tmp7i7ed.md)). The distribution over its next revision is
 narrow when few of them remain.
 
 **The life cycle moves features out of the free part.**
@@ -97,7 +97,7 @@ History notes say it in their own words: late in an entry's life they mostly
 end "No other change."
 
 **Two kinds of constraint, two parts.** Juarrero, after Gatlin
-(THEORY-1335), separates constraints that take a system away from
+([THEORY-1335](../theory.d/THEORY-1335.md)), separates constraints that take a system away from
 equiprobability from those that take it away from independence. The first
 kind is the schema: the same for every entry of a scheme, a convention every
 restatement contracts onto. The second is the relations: particular to the
@@ -106,26 +106,26 @@ change if this one does. They are what make the text, in effect, conserved.
 
 **Enabling turns into governing.** In Juarrero's account, enabling
 constraints couple processes into a dynamic whose constraints then confine
-the components (THEORY-1335). Coding an idea enables it: it can be cited.
+the components ([THEORY-1335](../theory.d/THEORY-1335.md)). Coding an idea enables it: it can be cited.
 Once claims rest on it, that web holds its text. The entry made the
-constraint that binds it. CLAIM-184 states the cost: anchors entrench.
+constraint that binds it. [CLAIM-184](CLAIM-184.md) states the cost: anchors entrench.
 
-**Slowing is what makes an entry a constraint.** CLAIM-478: where some
+**Slowing is what makes an entry a constraint.** [CLAIM-478](CLAIM-478.md): where some
 degrees of freedom settle fast relative to others, the relation they settle
 into is a constraint over the window between the two time scales. Within a
 session an assistant's framing is fast, and contracts onto its own
 conventions; the filed entry is slow. Coding is the point at which an idea
-passes from the one scale to the other (compare CLAIM-191: a code restores
+passes from the one scale to the other (compare [CLAIM-191](CLAIM-191.md): a code restores
 continuity), and a slowed entry can ground newer, faster ones.
 
-**What narrows is the text, not the identity.** CLAIM-031: "one changed
+**What narrows is the text, not the identity.** [CLAIM-031](CLAIM-031.md): "one changed
 constraint can change the act" while most observables stay stable. A status
 or role transition does that: a claim moved Active to Superseded, or thesis
-to granted, keeps its body and changes what it is. CLAIM-195 holds that what
+to granted, keeps its body and changes what it is. [CLAIM-195](CLAIM-195.md) holds that what
 counts as the same claim persisting is fixed by an amendable decision; the
 record has put identity in the code and its controlled fields, not in the
 prose. So credence and voice stay free after the text has all but closed,
-and that is how the record makes a phase change (CLAIM-114) deliberately and
+and that is how the record makes a phase change ([CLAIM-114](CLAIM-114.md)) deliberately and
 not by drift.
 
 ## What it does not say
@@ -136,18 +136,18 @@ not by drift.
   the more inbound edges the entry has.
 - Not that narrowing is good. Moving content into the conserved part too
   early is premature convergence; Proposed status, `promote_when` and
-  `defeated_if` keep chosen features free on purpose, and CLAIM-184 is the
+  `defeated_if` keep chosen features free on purpose, and [CLAIM-184](CLAIM-184.md) is the
   risk.
 - Not that a settled entry was settled by being conserved. Contraction also
   settles, onto the convention; the two are told apart only by retention
-  (CLAIM-tmp4qvx2).
+  ([CLAIM-tmp4qvx2](CLAIM-tmp4qvx2.md)).
 - The inductive prior is an analogy for the narrowing distribution over
-  next revisions. A prior is soft and lint is hard; DP-3's ladder (prose,
+  next revisions. A prior is soft and lint is hard; [DP-3](../../docs/design-principles.md#dp-3)'s ladder (prose,
   convention, mechanism, guarantee) is the same hardening applied to the
   record's norms rather than its entries.
 
 ## Tests
 
-LEAD-tmp6do6f counts revisions against inbound references (defeater (a));
-LEAD-tmp84yvk measures retention against the originating turn (defeater
+[LEAD-tmp6do6f](../leads.d/LEAD-tmp6do6f.md) counts revisions against inbound references (defeater (a));
+[LEAD-tmp84yvk](../leads.d/LEAD-tmp84yvk.md) measures retention against the originating turn (defeater
 (b)).

@@ -48,11 +48,11 @@ line:
 summary: >-
   The owner asked at U2 how stabilization relates to the record's account
   of contraction, and at U5 whether they are one phenomenon, one
-  description generalizing the other. They are. CLAIM-635 holds that a
+  description generalizing the other. They are. [CLAIM-635](CLAIM-635.md) holds that a
   feature every step conserves exactly keeps information about the start
-  for ever; DeGroot's consensus keeps exactly πF (THEORY-960); partial
+  for ever; DeGroot's consensus keeps exactly πF ([THEORY-960](../theory.d/THEORY-960.md)); partial
   contraction keeps what lies along the property it contracts toward
-  (THEORY-2044). So anchoring is contraction with the source's features in
+  ([THEORY-2044](../theory.d/THEORY-2044.md)). So anchoring is contraction with the source's features in
   the conserved part, and forgetting is contraction with them outside it.
   "Monotone" does not separate them: distance to the fixed set falls at
   every step in both. The wording is the assistant's (Claude, in this
@@ -93,52 +93,52 @@ holds what such a chain keeps.
 
 - **Global contraction forgets.** If every step brings any two states
   closer by a factor below one, all chains reach one fixed point, which
-  depends only on the steps (THEORY-2043, Lohmiller and Slotine:
+  depends only on the steps ([THEORY-2043](../theory.d/THEORY-2043.md), Lohmiller and Slotine:
   "initial conditions are forgotten"). This is attraction toward a
-  convention, reached "whatever its start" (CLAIM-068, TERM-027).
+  convention, reached "whatever its start" ([CLAIM-068](CLAIM-068.md), [TERM-027](../terms.d/TERM-027.md)).
 - **Contraction with a conserved part keeps exactly that part.** In
   DeGroot's averaging, F⁽ⁿ⁾ = PⁿF, disagreement contracts to nothing, yet
   "πF⁽ⁿ⁾ = πPⁿF = πF at every round, so the consensus can only be πF"
-  (THEORY-960): the limit keeps one weighted average of the start and
+  ([THEORY-960](../theory.d/THEORY-960.md)): the limit keeps one weighted average of the start and
   nothing else. In partial contraction, "what is contracted is the distance
   to the property, and what lies along it is kept", so synchronized
   oscillators keep "a common phase that the initial conditions fix"
-  (THEORY-2044). For Markov steps in general, CLAIM-635: a feature with
+  ([THEORY-2044](../theory.d/THEORY-2044.md)). For Markov steps in general, [CLAIM-635](CLAIM-635.md): a feature with
   K f = f at every step keeps information about the start bounded below at
   every generation, so the chain "cannot converge to a law independent of
   its start". The control literature calls a system contracting except on
-  a subspace semicontracting (LIT-tmpavt0i, LIT-tmpru0xs, not yet read).
+  a subspace semicontracting ([LIT-tmpavt0i](../literature.d/LIT-tmpavt0i.md), [LIT-tmpru0xs](../literature.d/LIT-tmpru0xs.md), not yet read).
 
 So a chain is **anchored** to its source on the features its steps copy
 exactly, and **forgets** it on the rest. Stabilization and contraction are
 not two mechanisms; they are one contraction, and which features of the
 source survive is fixed by the conserved part of the step.
 
-**Exactly, not approximately.** CLAIM-635: "a bounded conservation defect
-does not prevent forgetting". CLAIM-tmpw6wkt gives the rates: a contracted
+**Exactly, not approximately.** [CLAIM-635](CLAIM-635.md): "a bounded conservation defect
+does not prevent forgetting". [CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md) gives the rates: a contracted
 feature forgets geometrically, a feature copied with any error forgets as
 1/n while it random-walks, and only a feature copied exactly keeps its
 start. A paraphrase is a copy with error. That is a mechanism for
-CLAIM-180's finding that a restatement drifted far enough is taken for new,
-and for CLAIM-191's that a code restores continuity: reading a code and its
+[CLAIM-180](CLAIM-180.md)'s finding that a restatement drifted far enough is taken for new,
+and for [CLAIM-191](CLAIM-191.md)'s that a code restores continuity: reading a code and its
 file verbatim is the record's exact copy.
 
 **The record's design, restated.** Each feature of an entry lies in one of
-four parts of the step (TERM-tmp7i7ed):
+four parts of the step ([TERM-tmp7i7ed](../terms.d/TERM-tmp7i7ed.md)):
 
 | Part | Step does | Over many restatements | On the record |
 |---|---|---|---|
 | contracting | pulls toward the step's own fixed point | start forgotten; settles on the convention | form: fields, vocabulary, voice, prose conventions |
 | conserved | copies exactly | start kept | coded content read verbatim |
 | neutral, copied with error | copies with error | random walk; start forgotten as 1/n | uncoded content: the entry's local degrees of freedom |
-| expansive | magnifies | amplifies | needs an enlarged state (CLAIM-059) |
+| expansive | magnifies | amplifies | needs an enlarged state ([CLAIM-059](CLAIM-059.md)) |
 
 The record puts content in the conserved part, by giving it a code and
 having sessions read it rather than reconstruct it, and leaves form in the
 contracting part: the schema is the convention, and lint makes the
-contraction onto it fast. TERM-027's attractor, "a shared decoding
+contraction onto it fast. [TERM-027](../terms.d/TERM-027.md)'s attractor, "a shared decoding
 convention rather than a preserved historical object", is for form what the
-record designs it to be. CLAIM-181 holds that the record fixes the
+record designs it to be. [CLAIM-181](CLAIM-181.md) holds that the record fixes the
 grammar an argument is expressed in; this claim says by what dynamic the
 grammar is kept and the content is not lost to it.
 
@@ -152,17 +152,17 @@ habits.
 ## What it does not say
 
 - Not that the source is kept in full. Only its value on the conserved part
-  is kept. CLAIM-094 marks the same limit for a harmonic observable: it
+  is kept. [CLAIM-094](CLAIM-094.md) marks the same limit for a harmonic observable: it
   conserves its mean and is not thereby a symmetry. The text of a coded
-  entry is conserved; how a session interprets it is not, and CLAIM-031's
+  entry is conserved; how a session interprets it is not, and [CLAIM-031](CLAIM-031.md)'s
   point, that one changed constraint can change the act while observables
   hold, applies to interpretation.
-- Not that the record's restatements are Markov or linear. CLAIM-635 needs
+- Not that the record's restatements are Markov or linear. [CLAIM-635](CLAIM-635.md) needs
   only Markov steps, possibly different at each step; the table's rates are
-  CLAIM-tmpw6wkt's linear Gaussian model. ARG-tmp5ahr5 answers whether the
+  [CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md)'s linear Gaussian model. [ARG-tmp5ahr5](../arguments.d/ARG-tmp5ahr5.md) answers whether the
   mapping holds.
-- Not that the constants can be estimated. CLAIM-208 stands: a single
+- Not that the constants can be estimated. [CLAIM-208](CLAIM-208.md) stands: a single
   restatement per step does not identify a step's sensitivity.
 - Not that the record cannot amplify. The record is an enlarged state, which
-  CLAIM-059 says amplification needs; whether it enables an expansive part
+  [CLAIM-059](CLAIM-059.md) says amplification needs; whether it enables an expansive part
   is left open.

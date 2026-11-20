@@ -49,8 +49,8 @@ scales fixed before any data are seen ([CLAIM-208](../claims.d/CLAIM-208.md)'s d
 
 | | Retained | Not retained |
 |---|---|---|
-| Settled | conserved (CLAIM-tmpdx6l8, [CLAIM-tmpvm90n](../claims.d/CLAIM-tmpvm90n.md)) | contracted ([CLAIM-068](../claims.d/CLAIM-068.md)) |
-| Not settled | still open | copied with error, drifting (CLAIM-tmpw6wkt) |
+| Settled | conserved ([CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md), [CLAIM-tmpvm90n](../claims.d/CLAIM-tmpvm90n.md)) | contracted ([CLAIM-068](../claims.d/CLAIM-068.md)) |
+| Not settled | still open | copied with error, drifting ([CLAIM-tmpw6wkt](../claims.d/CLAIM-tmpw6wkt.md)) |
 
 Not-retained is not by itself a defect: [CLAIM-189](../claims.d/CLAIM-189.md) holds that a developing
 argument changes legitimately. The measure is of mechanism.

@@ -2,8 +2,8 @@
 status: Deferred
 status_note: >-
   filed 2026-11-20, not read. Found on the arXiv API while checking
-  LIT-tmpavt0i: its abstract names Markov chains and ergodic coefficients
-  among semicontracting systems, the case CLAIM-635 and CLAIM-270 treat.
+  [LIT-tmpavt0i](LIT-tmpavt0i.md): its abstract names Markov chains and ergodic coefficients
+  among semicontracting systems, the case [CLAIM-635](../claims.d/CLAIM-635.md) and [CLAIM-270](../claims.d/CLAIM-270.md) treat.
   arXiv 2201.03103 is open; no reading was attempted.
 title: 'Dual Seminorms, Ergodic Coefficients and Semicontraction Theory'
 version: 1
@@ -32,11 +32,11 @@ summary: >-
   algorithms and dynamical flow systems such as Markov chains"; it
   develops seminorms, projection and distance seminorms, and ergodic
   coefficients. Here because it may join the record's two vocabularies,
-  the Markov retention results (CLAIM-635, CLAIM-270) and contraction
-  analysis (THEORY-2043, THEORY-2044), which CLAIM-tmpdx6l8 joins by
+  the Markov retention results ([CLAIM-635](../claims.d/CLAIM-635.md), [CLAIM-270](../claims.d/CLAIM-270.md)) and contraction
+  analysis ([THEORY-2043](../theory.d/THEORY-2043.md), [THEORY-2044](../theory.d/THEORY-2044.md)), which [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) joins by
   argument. Unverified until read.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 LEAD-tmpywiwn LIT-tmpavt0i — Proposed, Open or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 LIT-tmpavt0i — Proposed, Open or Deferred; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: CLAIM-635 THEORY-2043 THEORY-2044 — Proposed; the results this work may join -->
 
 # LIT-tmpru0xs: Dual Seminorms, Ergodic Coefficients and Semicontraction Theory
@@ -46,7 +46,7 @@ Transactions on Automatic Control (2024), DOI 10.1109/TAC.2023.3302788.
 
 ## Standing in the record
 
-Registered on 2026-11-20 beside LIT-tmpavt0i. Its abstract places Markov
+Registered on 2026-11-20 beside [LIT-tmpavt0i](LIT-tmpavt0i.md). Its abstract places Markov
 chains among semicontracting systems, so it may state in one theory what
-CLAIM-tmpdx6l8 puts together from CLAIM-635, THEORY-960 and THEORY-2044. Not
-read; LEAD-tmpywiwn is the plan to read it.
+[CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) puts together from [CLAIM-635](../claims.d/CLAIM-635.md), [THEORY-960](../theory.d/THEORY-960.md) and [THEORY-2044](../theory.d/THEORY-2044.md). Not
+read; [LEAD-tmpywiwn](../leads.d/LEAD-tmpywiwn.md) is the plan to read it.

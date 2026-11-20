@@ -29,7 +29,7 @@ summary: >-
 
 Treat restating an entry, by a session reading it, a filer revising it or a
 manuscript drafted from it, as one step of a chain. The step does one of
-four things to each feature of the entry (CLAIM-tmpdx6l8):
+four things to each feature of the entry ([CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)):
 
 - **contracting**: pulls it toward the step's own fixed point, the
   convention, whatever it was before;
@@ -38,17 +38,17 @@ four things to each feature of the entry (CLAIM-tmpdx6l8):
 - **expansive**: magnifies a difference in it.
 
 The **conserved part** of the step is the set of features it copies
-exactly. The sense is fixed against DeGroot's invariant πF (THEORY-960) and
-the property partial contraction leaves free (THEORY-2044); in the control
+exactly. The sense is fixed against DeGroot's invariant πF ([THEORY-960](../theory.d/THEORY-960.md)) and
+the property partial contraction leaves free ([THEORY-2044](../theory.d/THEORY-2044.md)); in the control
 literature a system contracting except on a subspace is semicontracting
-(LIT-tmpavt0i).
+([LIT-tmpavt0i](../literature.d/LIT-tmpavt0i.md)).
 
 An entry's **local degrees of freedom** are its features copied with error.
 They are free in the sense that nothing holds them: a contracted feature
 goes to the convention and a conserved one stays put, while one copied with
-error random-walks and loses its start as 1/n (CLAIM-tmpw6wkt). The life
+error random-walks and loses its start as 1/n ([CLAIM-tmpw6wkt](../claims.d/CLAIM-tmpw6wkt.md)). The life
 cycle of an entry is the movement of features out of this part
-(CLAIM-tmpvm90n).
+([CLAIM-tmpvm90n](../claims.d/CLAIM-tmpvm90n.md)).
 
 ## Not to be confused with
 
@@ -57,7 +57,7 @@ cycle of an entry is the movement of features out of this part
 - **Degrees of freedom of a dynamical system** in the physicist's sense, the
   number of independent coordinates. A feature can be a coordinate of the
   entry and still not be free in this sense, because the step holds it.
-- **What may legitimately change.** CLAIM-189 holds that a developing
+- **What may legitimately change.** [CLAIM-189](../claims.d/CLAIM-189.md) holds that a developing
   argument changes legitimately. A feature that is not free can still be
   changed, by a deliberate revision that announces itself; the term is about
   what restatement does unprompted.

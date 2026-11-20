@@ -23,8 +23,8 @@ rests_on:
 - CLAIM-635
 - CLAIM-270
 summary: >-
-  The rate that sets apart the three kinds of feature in CLAIM-tmpdx6l8.
-  CLAIM-635 holds the exact case (a feature conserved exactly keeps its
+  The rate that sets apart the three kinds of feature in [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md).
+  [CLAIM-635](CLAIM-635.md) holds the exact case (a feature conserved exactly keeps its
   start for ever) and shows that a bounded defect allows forgetting, with
   a two-state flip chain as witness. That witness is itself contracting.
   This adds the neutral case on an unbounded state: a feature copied with
@@ -60,7 +60,7 @@ and, the pair being jointly Gaussian,
   the start is forgotten, but only as 1/n, and the feature does not settle;
   it random-walks with spread √n·σ.
 - **Copied exactly (a = 1, σ = 0).** xₙ = x₀: the start is kept whole. This
-  is CLAIM-635's case.
+  is [CLAIM-635](CLAIM-635.md)'s case.
 
 **Check.** Simulated with 200,000 chains (s = 1, σ = 0.1, c = 3) for
 a = 1, 0.9 and 0.5, at n = 10, 100 and 400: the closed form matched the
@@ -69,15 +69,15 @@ above the sampling floor of about 10⁻⁵ nats; at a = 1, n·I rose toward
 s²/(2σ²) = 50 (12.0, 34.7, 44.6). Script in the curation entry of
 2026-11-20, 230350.
 
-## What it adds to CLAIM-635
+## What it adds to [CLAIM-635](CLAIM-635.md)
 
-CLAIM-635 shows that exact conservation keeps a lower bound on retention
+[CLAIM-635](CLAIM-635.md) shows that exact conservation keeps a lower bound on retention
 for ever, and that a bounded defect allows forgetting. Its witness, a
 two-state chain flipping with probability p, is contracting (its
 nonconstant eigenvalue is 1 − 2p), so it forgets geometrically. This claim
 gives the case between: a feature the step leaves neutral but copies with
 error. It forgets too, but at a rate slower by an exponential. The three
-rates are what CLAIM-tmpdx6l8's three kinds of feature are distinguished by.
+rates are what [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md)'s three kinds of feature are distinguished by.
 
 ## What it does not say
 
@@ -86,6 +86,6 @@ rates are what CLAIM-tmpdx6l8's three kinds of feature are distinguished by.
   shrinks its trace below any fixed resolution. Forgetting in information
   needs noise.
 - Not that restatement is linear or Gaussian. The rates are for this
-  model; CLAIM-635 holds the exact case for any Markov kernels. That the
+  model; [CLAIM-635](CLAIM-635.md) holds the exact case for any Markov kernels. That the
   neutral case forgets polynomially and not geometrically beyond this
   model is not shown.
