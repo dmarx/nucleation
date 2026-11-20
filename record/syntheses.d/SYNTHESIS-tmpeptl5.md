@@ -35,25 +35,25 @@ integrates:
 <!-- inactive-ok-file: CLAIM-732 CLAIM-719 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmpeptl5: In the record a collective's correction runs through separable achievements, from admission to recognition, credibility, uptake and a part in revising standards, any of which can fail while the others hold; selection and self-scoring need different remedies; and effective action, governance and correctability by others are maintained separately
 
-*A thematic account, across lines, of principle P10 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own (ADR-075, step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which ADR-083's one account per scope does not anticipate.*
+*A thematic account, across lines, of principle P10 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
 
 ## The account
 
 **Separable achievements.** Each of these is Active and interpretive:
 
-- **Having, knowing, deploying.** What a system has, what it knows it has and what it can deploy within a deadline are different (CLAIM-296).
-- **Access, authority, action.** Access to a signal, its authority over action and action on it are separable (CLAIM-349).
-- **The ladder of uptake.** Admission, recognition in apt terms, credibility, uptake, and a part in revising the standards of uptake are "separable, each possible without the later ones" (CLAIM-403).
-- **Three achievements for a discrepancy to change action.** Legibility, volitional efficacy and correctability (CLAIM-523).
+- **Having, knowing, deploying.** What a system has, what it knows it has and what it can deploy within a deadline are different ([CLAIM-296](../claims.d/CLAIM-296.md)).
+- **Access, authority, action.** Access to a signal, its authority over action and action on it are separable ([CLAIM-349](../claims.d/CLAIM-349.md)).
+- **The ladder of uptake.** Admission, recognition in apt terms, credibility, uptake, and a part in revising the standards of uptake are "separable, each possible without the later ones" ([CLAIM-403](../claims.d/CLAIM-403.md)).
+- **Three achievements for a discrepancy to change action.** Legibility, volitional efficacy and correctability ([CLAIM-523](../claims.d/CLAIM-523.md)).
 
-**Six stages for an objection, Proposed.** CLAIM-732 (Proposed, interpretive): an objection is effective only if six achievements hold together. Its chance of success is no greater than that of its weakest stage.
+**Six stages for an objection, Proposed.** [CLAIM-732](../claims.d/CLAIM-732.md) (Proposed, interpretive): an objection is effective only if six achievements hold together. Its chance of success is no greater than that of its weakest stage.
 
-**Selection and scoring.** CLAIM-466 (Active, demonstrated): lock-in from selectively admitted evidence and from self-scoring "need different remedies". CLAIM-404 (Active, interpretive): an organization can be governed from outside through the evidence its procedures receive or the criteria by which they weigh it. CLAIM-416 (Active, interpretive): perspectives compete over the tests that measure them. CLAIM-342 (Active, interpretive): a loop that selects its own evidence "can lock in", and evidence that does not pass through the interpretation keeps it honest.
+**Selection and scoring.** [CLAIM-466](../claims.d/CLAIM-466.md) (Active, demonstrated): lock-in from selectively admitted evidence and from self-scoring "need different remedies". [CLAIM-404](../claims.d/CLAIM-404.md) (Active, interpretive): an organization can be governed from outside through the evidence its procedures receive or the criteria by which they weigh it. [CLAIM-416](../claims.d/CLAIM-416.md) (Active, interpretive): perspectives compete over the tests that measure them. [CLAIM-342](../claims.d/CLAIM-342.md) (Active, interpretive): a loop that selects its own evidence "can lock in", and evidence that does not pass through the interpretation keeps it honest.
 
-**Correctability.** CLAIM-462 (Active, interpretive): capacity for effective action can grow while correctability by others degrades, "so the first is no evidence of the second". CLAIM-099 (Active, interpretive): maintaining effective action and maintaining the capacity to govern among regimes are not the same achievement. CLAIM-719 (Proposed, interpretive): first-order responsiveness is no evidence of responsiveness to reasons for revising the mechanism. CASE-138 (Active) is Challenger to Columbia.
+**Correctability.** [CLAIM-462](../claims.d/CLAIM-462.md) (Active, interpretive): capacity for effective action can grow while correctability by others degrades, "so the first is no evidence of the second". [CLAIM-099](../claims.d/CLAIM-099.md) (Active, interpretive): maintaining effective action and maintaining the capacity to govern among regimes are not the same achievement. [CLAIM-719](../claims.d/CLAIM-719.md) (Proposed, interpretive): first-order responsiveness is no evidence of responsiveness to reasons for revising the mechanism. [CASE-138](../cases.d/CASE-138.md) (Active) is Challenger to Columbia.
 
 ## Not stated on the record
 
-- **A collective learns only if every link holds, up to revision of the standards of uptake.** The manuscript's P10 stated this. CLAIM-403's separability, and CLAIM-523's three achievements, which do not include the top rung, allow a collective to change its procedures on a contribution while its standards of uptake stay fixed.
-- **Its self-evaluation confirms itself without independent evidence,** as a necessity. CLAIM-342 says such a loop "can lock in".
-- **That the weakest stage bounds the ladder of uptake.** The weakest-stage bound is CLAIM-732's, Proposed, and about objections.
+- **A collective learns only if every link holds, up to revision of the standards of uptake.** The manuscript's P10 stated this. [CLAIM-403](../claims.d/CLAIM-403.md)'s separability, and [CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements, which do not include the top rung, allow a collective to change its procedures on a contribution while its standards of uptake stay fixed.
+- **Its self-evaluation confirms itself without independent evidence,** as a necessity. [CLAIM-342](../claims.d/CLAIM-342.md) says such a loop "can lock in".
+- **That the weakest stage bounds the ladder of uptake.** The weakest-stage bound is [CLAIM-732](../claims.d/CLAIM-732.md)'s, Proposed, and about objections.
