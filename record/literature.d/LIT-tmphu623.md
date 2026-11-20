@@ -1,0 +1,50 @@
+---
+status: Active
+status_note: >-
+  Read from a whole-book copy in a course-papers folder on a faculty site;
+  the owner ruled on 2026-11-19 that this copy counts as lawful (curation
+  entry of that date). Published 1962; the exact day is not known, so the
+  first of the year stands in. Read in the 1970 second edition. Read on
+  2026-11-19 ([NOTE-tmp8hiqg](../notes.d/NOTE-tmp8hiqg.md)).
+title: 'The Structure of Scientific Revolutions'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Registered and read on 2026-11-19 at the owner's request (the owner's
+    suggestion of 2026-11-19), from the 1970 second edition, a PDF in a
+    course-papers folder on a faculty site (the owner's ruling of 2026-11-19
+    on its standing is in the curation entry). Not held before;
+    bibliographic details from the text.
+tags:
+- philosophy-of-science
+- learning-theory
+- epistemology
+- anthology-candidate
+date: '2026-11-19'
+published: '1962-01-01'
+url: 'https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf'
+first_author: 'Kuhn'
+keywords: []
+implementations: []
+summary: >-
+  Kuhn (1962; 2nd ed. 1970). Normal science is puzzle-solving governed by
+  a paradigm, which gives a criterion for choosing problems assumed
+  soluble and so makes the community "an immensely efficient instrument";
+  the same commitment restricts vision and resists change, and its
+  precision makes anomaly visible; lasting anomaly brings crisis, and a
+  revolution reconstructs the field, changing its problems, standards and
+  some learned similarity relations, with losses as well as gains. The
+  Postscript locates the paradigm in exemplars, problem-solutions from
+  which students acquire a rule-free similarity relation. Read in
+  [NOTE-tmp8hiqg](../notes.d/NOTE-tmp8hiqg.md); account [THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md).
+---
+
+# LIT-tmphu623: The Structure of Scientific Revolutions
+
+Thomas S. Kuhn (1962). "The Structure of Scientific Revolutions". University of Chicago Press; 2nd edition, enlarged, with the Postscript—1969 (1970); copy read: https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf.
+
+## Standing in the record
+
+Registered and read on 2026-11-19 at the owner's request, under the owner's suggestion of 2026-11-19.

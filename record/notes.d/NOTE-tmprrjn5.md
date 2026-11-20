@@ -1,0 +1,83 @@
+---
+status: Read
+paper: LIT-tmpvmfv7
+title: 'Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Read on 2026-11-19 by a delegated reader from the author's essay on her
+    university course page (National and Kapodistrian University of Athens,
+    course PHS269; ADR-074), with the Stanford Encyclopedia of Philosophy
+    entry on Kuhn and Matthews' 2022 newsletter essay as further stand-ins:
+    the whole essay; the SEP entry §§1–3; Matthews pp. 1–6. Running notes on
+    the branch claude/readers/kuhn (ADR-108). Quotations rechecked by the
+    filer by script against the downloaded text.
+date: '2026-11-19'
+summary: >-
+  Kuhn's essential tension, through a stand-in: convergent training in a
+  tradition is a precondition of breaking with it, because a precise
+  paradigm makes anomaly visible. Carries the thesis and two quoted
+  sentences, not the essay.
+---
+<!-- inactive-ok-file: CLAIM-758 CLAIM-756 CLAIM-754 THEORY-834 THEORY-148 — Proposed or newly filed; entries this reading bears on -->
+
+# NOTE-tmprrjn5: Kindi — Thomas Kuhn and why radicals need tradition. The surprising role of dogma in scientific revolutions
+
+## Contribution
+
+An account of Kuhn's 1959 essay and its later companions: dogmatic
+commitment instilled by training is a precondition of scientific
+revolution, against the creativity research that prized divergent
+thinking.
+
+## Key results
+
+1. **The thesis, in Kuhn's words as quoted.** The scientist must be "a
+   traditionalist and an iconoclast" (Kuhn 1977, p. 227); "only
+   investigations firmly rooted in the contemporary scientific tradition
+   are likely to break with that tradition and give rise to a new one"
+   (p. 229).
+2. **The two modes.** "Convergence builds traditions and divergence, at
+   crucial junctures, draws attention to new possibilities" (Kindi's
+   gloss).
+3. **The mechanism, from Structure.** "The more precise and far reaching
+   that paradigm is, the more sensitive an indicator it provides of
+   anomaly" (Structure, p. 65, as Kindi quotes it).
+4. **Training.** The Stanford Encyclopedia entry: "an inculcation of that
+   commitment is a key element in scientific training and in the
+   formation of the mind-set of a successful scientist".
+5. **Andersen's reading of the essay on education** (2000, as Matthews
+   quotes it): an empirical claim that science education "does lead to
+   convergent thought" and a normative one that "the development of
+   convergent thought through rigorous training is necessary".
+
+## Bearing on the record
+
+- **[CLAIM-758](../claims.d/CLAIM-758.md)**, qualifies by analogy, and points to something the record
+  lacks: the same stabilization that raises the cost of moving out of a
+  tradition also makes the need to move visible. Consolidation could raise
+  the cost of a later acquisition while lowering the cost of detecting
+  that it is needed.
+- **[CLAIM-756](../claims.d/CLAIM-756.md)**, parallel: training in a tradition is worth having for
+  what it makes possible later, recognizing anomaly and innovating; the
+  later good is the ability to see failure, not a cheaper acquisition.
+- **[CLAIM-754](../claims.d/CLAIM-754.md)**, supports the inquiry frontier interpretively: training
+  fixes which anomalies a scientist can formulate.
+- **[QUESTION-495](../questions.d/QUESTION-495.md)**, a partial answer, interpretive: deep investment in
+  present competence is what pays for later revolutionary learning, which
+  cuts against reading the question as a choice between the two.
+- **[THEORY-834](../theory.d/THEORY-834.md)** (Collins), in tension: Kuhn holds rootedness enables the
+  break; Collins that rootedness alone blinds, and the break needs
+  experience from outside as well.
+- **[THEORY-148](../theory.d/THEORY-148.md)** (Zollman), a formal counterpart: dogmatic agents do best
+  in some networks.
+- **[TERM-117](../terms.d/TERM-117.md)**, parallel: a paradigm is a nucleus that shapes later
+  formation, including its own overthrow.
+
+## Limitations
+
+A stand-in: the essay's own text was not reached, so its discussion of
+textbooks, its examples and its account of the individual's cost are
+unread; the anomaly mechanism quoted is from Structure.

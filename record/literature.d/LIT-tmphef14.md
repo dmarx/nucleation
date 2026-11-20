@@ -1,0 +1,48 @@
+---
+status: Active
+status_note: >-
+  The primary source of the exemplar account and of
+  "generalization-sketch" (used by [THEORY-673](../theory.d/THEORY-673.md)): prior problem-solving
+  leaves a learned similarity relation that makes new problems tractable.
+  Published 1974; the exact day is not known, so the first of the year
+  stands in. Read on 2026-11-19 ([NOTE-tmpvzqac](../notes.d/NOTE-tmpvzqac.md)).
+title: 'Second Thoughts on Paradigms'
+version: 1
+history:
+- version: 1
+  date: '2026-11-19'
+  note: >-
+    Registered and read on 2026-11-19 at the owner's request (the owner's
+    suggestion of 2026-11-19), from a course-materials PDF on a university
+    lecture page (an unofficial transcription without original pagination,
+    figures or footnotes; ADR-074); citation confirmed from a Czech
+    translation on a research-institute site. Not held before; bibliographic
+    details from the text.
+tags:
+- philosophy-of-science
+- learning-theory
+- epistemology
+date: '2026-11-19'
+published: '1974-01-01'
+url: 'https://www.uomustansiriyah.edu.iq/media/lectures/10/10_2019_02_17!07_45_06_PM.pdf'
+first_author: 'Kuhn'
+keywords: []
+implementations: []
+summary: >-
+  Kuhn (1974), in Suppe's The Structure of Scientific Theories. Paradigm
+  splits into the disciplinary matrix and the exemplar, a concrete
+  problem-solution. Symbolic laws are generalization-sketches; students
+  working exemplars acquire a learned perception of similarity, not rules,
+  so a new problem is seen as like a solved one and the formalism follows.
+  Knowledge stored in the similarity relation differs from knowledge
+  stored as rules, and serves only in the environment it was learned in.
+  Read in [NOTE-tmpvzqac](../notes.d/NOTE-tmpvzqac.md); account [THEORY-tmpndxv9](../theory.d/THEORY-tmpndxv9.md).
+---
+
+# LIT-tmphef14: Second Thoughts on Paradigms
+
+Thomas S. Kuhn (1974). "Second Thoughts on Paradigms". In F. Suppe (ed.), The Structure of Scientific Theories, University of Illinois Press, pp. 459–482; reprinted in The Essential Tension (1977); copy read: https://www.uomustansiriyah.edu.iq/media/lectures/10/10_2019_02_17!07_45_06_PM.pdf.
+
+## Standing in the record
+
+Registered and read on 2026-11-19 at the owner's request, under the owner's suggestion of 2026-11-19.

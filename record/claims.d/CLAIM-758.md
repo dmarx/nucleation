@@ -237,3 +237,18 @@ and random-label pretraining can leave later-layer units permanently
 inactive at the switch, reducing later capacity ([THEORY-2093](../theory.d/THEORY-2093.md)). He and
 colleagues ([THEORY-2092](../theory.d/THEORY-2092.md)) qualify: longer training to grokking does not
 raise later cost there. No time course of stabilization in any of them.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Kuhn qualifies this claim. Structure ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md)) describes the
+pattern, training "almost perfectly equipped" for puzzles and resistant to
+a fresh approach, but counts the same rigidity as functional for the
+community, since anomaly is visible only against a precise paradigm; and a
+late convert can still work in the new paradigm as a foreigner, a raised
+cost rather than an impossibility. Through a stand-in ([THEORY-tmptbea0](../theory.d/THEORY-tmptbea0.md)),
+the 1959 essay holds that rooted training is a precondition of breaking
+with a tradition. Together they suggest something this claim lacks:
+consolidation that raises the cost of a later acquisition can lower the
+cost of detecting that it is needed. Analogy, about communities of
+scientists.

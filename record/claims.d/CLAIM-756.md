@@ -162,3 +162,18 @@ mixing sub-tasks in gives little ([THEORY-2089](../theory.d/THEORY-2089.md)), an
 grokked modules raise later cost as often as they lower it
 ([THEORY-2086](../theory.d/THEORY-2086.md)). None nets the first stage's cost or tests the
 valuation. No status change.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+The owner proposed Kuhn as corroborating theory. Structure
+([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md), corroborates) and "Second Thoughts on Paradigms"
+([THEORY-tmpndxv9](../theory.d/THEORY-tmpndxv9.md), corroborates) give interpretive and historical support
+for the premise: a paradigm's value lies mainly in the later
+puzzle-solving it makes tractable, and working exemplars leaves a
+similarity relation by which new problems are seen as like solved ones,
+leaving "only manipulative difficulties". This is evidence of a different
+kind from the record's measured instances: history of the physical
+sciences read interpretively, with no cost accounting. It does not touch
+the claim's own content, valuation by effect on later acquisitions. No
+status change.

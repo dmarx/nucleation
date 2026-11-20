@@ -141,3 +141,12 @@ for a shared subtask ([THEORY-2087](../theory.d/THEORY-2087.md)) and a reused de
 grokked modules are often obstructive for polynomials composed on their
 own operation ([THEORY-2086](../theory.d/THEORY-2086.md)); and random-label pretraining helps or
 hurts by setting ([THEORY-2093](../theory.d/THEORY-2093.md)).
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+A Kuhnian paradigm is an analogue: an achievement "sufficiently
+open-ended" to leave problems to solve, identified by what it does to
+later development ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md)); productive for puzzles within it and
+obstructive for anomalies, which it nonetheless makes visible. No
+comparator or interventional measure.

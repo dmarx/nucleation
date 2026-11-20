@@ -2,7 +2,7 @@
 number: 148
 status: Proposed
 formerly:
-- THEORY-tmpqnfk9
+- THEORY-148
 promote_when: >-
   A demonstration outside the bandit-model family: either a different
   formal model of inquiry, or real groups, in which keeping alternatives
@@ -79,3 +79,12 @@ They report this observation, that transient diversity is necessary,
   similar shape in an epistemic setting: what protects a minority option
   is, past a point, what stops the group from settling. The parallel is the
   record's, and no relation is declared.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+[NOTE-564](../notes.d/NOTE-564.md) places Zollman "against Kuhn". Structure ([THEORY-tmpg10ux](THEORY-tmpg10ux.md)) needs
+that qualified: Kuhn himself argues that individual variability in
+applying shared values "may be the community's way of distributing risk".
+The disagreement is over whether diversity needs differences in how values
+are applied, not over valuing diversity.

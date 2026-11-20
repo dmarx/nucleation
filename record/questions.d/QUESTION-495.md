@@ -2,7 +2,7 @@
 number: 495
 status: Open
 formerly:
-- QUESTION-tmpwqepn
+- QUESTION-495
 title: 'What would make a learning process optimal, when some of the most valuable consequences of learning are changes in what the learner can later learn, ask and afford, which cannot be specified in advance; and when is investing in future learnability better than improving present competence?'
 version: 1
 tags:
@@ -107,3 +107,14 @@ very data-poor additive settings. Hernandez and colleagues
 ([THEORY-2059](../theory.d/THEORY-2059.md)) propose using their transfer exponent to choose between
 collecting more fine-tuning data and growing the model, and list the ideal
 pretraining ratio for a data-limited target as open.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmptbea0 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+A partial historical answer from Kuhn ([THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md), and through a
+stand-in [THEORY-tmptbea0](../theory.d/THEORY-tmptbea0.md)): invest in the paradigm while its tools keep
+solving its problems, retool only at crisis, and keep the capacity to
+change through variable individual judgement and new entrants; deep
+investment in present competence is itself what pays for later
+revolutionary learning, which cuts against reading the question as a
+choice between the two.

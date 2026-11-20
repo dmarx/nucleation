@@ -2,7 +2,7 @@
 number: 131
 status: Proposed
 formerly:
-- TERM-tmp1ix99
+- TERM-131
 title: 'learning, of a declared system over a declared horizon: an experience-dependent change in the system''s retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller''s response'
 version: 2
 history:
@@ -137,3 +137,12 @@ version 3 would ask a claim using this term to say which kind of retention
 it means, localized or identified-but-distributed; it waits on the owner's
 ruling. [THEORY-1024](../theory.d/THEORY-1024.md) suggests a third property, editability, that comes
 apart from localization.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+Kuhn's exemplars ([THEORY-tmpndxv9](../theory.d/THEORY-tmpndxv9.md), [THEORY-tmpg10ux](../theory.d/THEORY-tmpg10ux.md)) illustrate the term: a
+retained change in what one sees as similar, learned by doing problems,
+which alters what one can later do and leaves the knowledge in the
+organization rather than in statable rules, corrigible through further
+education and misfits with the environment.

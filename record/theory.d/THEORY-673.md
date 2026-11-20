@@ -2,7 +2,7 @@
 number: 673
 status: Proposed
 formerly:
-- THEORY-tmpxplka
+- THEORY-673
 promote_when: >-
   Two results together. A treatment showing which Price partition a given
   causal model licenses, so that the schema's specialisation is not an
@@ -129,3 +129,13 @@ generalization-sketch whose value lies in guiding model construction, and
 that the tautology and predictive-power charges ask of it what only its
 specialisations can supply. Wave 5 found no change to the premises, the
 rivals or the promote_when since batch 056.
+
+## Note of 2026-11-19: Kuhn, read
+<!-- inactive-ok-file: THEORY-tmpg10ux THEORY-tmpndxv9 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+
+The reading of f = ma as a generalization-sketch is confirmed in
+Structure's Postscript ("a law-sketch or a law-schema", [THEORY-tmpg10ux](THEORY-tmpg10ux.md))
+and in "Second Thoughts on Paradigms" ([THEORY-tmpndxv9](THEORY-tmpndxv9.md), the primary source
+of "generalization-sketch"). The citation this account inherits, "Kuhn
+1970, p. 465", is not in Structure; it is presumably the 1974 essay's
+pagination in Suppe's volume, which runs to p. 482.
