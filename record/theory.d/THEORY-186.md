@@ -13,7 +13,7 @@ promote_when: >-
   later silent-alignment analysis that supplies one would serve. Further
   simulations of small hand-built datasets cannot settle it.
 title: 'A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data''s spectrum, not from nonlinearity'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-09'
@@ -41,6 +41,11 @@ history:
     review, at the status review's ruling (the owner delegated these
     rulings; ADR-058): it uses only the decoupled, balanced solution. The
     supports edge here is removed. The claim and status are unchanged.
+- version: 5
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpmugkp shows the staged order
+    depends on the update rule. No change of status or title.
 tags:
 - representation-learning
 - learning-theory
@@ -60,6 +65,7 @@ extends:
 bears_on:
 - QUESTION-025
 ---
+<!-- inactive-ok-file: CLAIM-tmpmugkp QUESTION-tmpvcusw — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 — Proposed; accounts this one underlies or is set beside -->
 
 # THEORY-186: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
@@ -171,3 +177,14 @@ out as settling it.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 Background ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues extend this line of deep linear analysis to stochastic gradient flow, where collapse keeps weak noisy singular modes from being learned (§6).
+
+## Note of 2026-11-20: the order depends on the update rule
+
+CLAIM-tmpmugkp grounds on this reading. Gradient descent learns modes
+strongest first because it moves each at a rate set by its strength. Under
+steepest descent in the spectral norm, which moves every singular direction
+by the same step, a two-layer linear network learns the same modes in time
+proportional to √s, weakest first. The staged, coarse-to-fine order this
+reading reports is therefore a property of gradient descent as well as of
+depth and data. QUESTION-tmpvcusw asks whether the reversal shows in trained
+networks. A qualification of scope, not of the reading's result.
