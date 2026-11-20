@@ -127,10 +127,10 @@ procedural paper ([THEORY-2075](../theory.d/THEORY-2075.md)) finds the first pha
 non-monotonically. Background for the question's mechanisms.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2090 THEORY-2091 THEORY-2092 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
-Ito and colleagues ([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)): the order of pretraining stages
+Ito and colleagues ([THEORY-2091](../theory.d/THEORY-2091.md)): the order of pretraining stages
 decides whether compositional generalization appears at all. He and
-colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)): grokking unfolds as saturation, then bridge
+colleagues ([THEORY-2092](../theory.d/THEORY-2092.md)): grokking unfolds as saturation, then bridge
 recovery, then integration of facts. Driscoll and colleagues
-([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md)): slow acquisition of motifs, then fast recombination.
+([THEORY-2090](../theory.d/THEORY-2090.md)): slow acquisition of motifs, then fast recombination.

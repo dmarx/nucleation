@@ -6,7 +6,7 @@
 
 **Superseded** — replaced by a better-framed lead, named in `superseded_by`.
 
-0 of 12 LEAD documents. Back to the [full index](../README.md).
+0 of 13 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

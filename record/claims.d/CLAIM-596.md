@@ -132,13 +132,13 @@ a figure, one run, no rate quantity. Supports the claim's diagnosis; no
 status change.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmp80vhs THEORY-tmpezk6j THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2088 THEORY-2089 THEORY-2093 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Two task-composition readings measure the rate of a later step against a
 component, which this claim asks for: Goudar and colleagues
-([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)) bar the readout from a reused subspace and later
-learning returns to naive speed; Maennel and colleagues ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md))
+([THEORY-2088](../theory.d/THEORY-2088.md)) bar the readout from a reused subspace and later
+learning returns to naive speed; Maennel and colleagues ([THEORY-2093](../theory.d/THEORY-2093.md))
 separate a weight-scale route from an alignment route by rescaling and
 covariance resampling, and final accuracy moves against speed. Thomm and
-colleagues ([THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)) read sample-size endpoints as no reuse, which
+colleagues ([THEORY-2089](../theory.d/THEORY-2089.md)) read sample-size endpoints as no reuse, which
 this claim says such endpoints cannot show.

@@ -6,7 +6,7 @@
 
 **Reading** — read a work, or register and read one.
 
-5 of 12 LEAD documents. Back to the [full index](../README.md).
+5 of 13 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

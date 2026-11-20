@@ -6,7 +6,7 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-8 of 12 LEAD documents. Back to the [full index](../README.md).
+9 of 13 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -18,3 +18,4 @@
 | [LEAD-009](../../../record/leads.d/LEAD-009.md) v2 | Read the pretraining works that measure what the owner said the literature ought to show: Brown and colleagues on few-shot in-context learning (GPT-3) and Howard and Ruder on sample-efficient fine-tuning (ULMFiT) | The owner's suggestion of 2026-11-19, after the readings of McDermott and colleagues and Anguita and colleagues did not show acquired organization making later learning cheaper in cost terms: invoke the GPT paper showing pretraining enables few-shot in-context learning. Howard and Ruder added as the work that measures labelled-sample cost directly. Neither is held. | Done |
 | [LEAD-010](../../../record/leads.d/LEAD-010.md) | Calibrate the Pythia study: pilot two task families on four checkpoints of one model and confirm that each family is learnable and that adaptation cost is measurable before any arm is added | The first step of [CASE-294](../../../record/cases.d/CASE-294.md), as ChatGPT's review set it: four checkpoints of Pythia-70M-deduped, two synthetic task families, three seeds, the primary estimand the minimum adaptation budget to a reliability threshold. | Open |
 | [LEAD-012](../../../record/leads.d/LEAD-012.md) | Run the Pythia study: measure across checkpoints whether the cost of acquiring held-out task families rises while the pretraining objective improves, with forgetting measured and the secondary arms added only after the primary contrast | [CASE-294](../../../record/cases.d/CASE-294.md)'s study proper, once its calibration pilot is done: the record's main test of overconsolidation and of the deadline claim's two branches. | Open |
+| [LEAD-013](../../../record/leads.d/LEAD-013.md) | Run the identity-acquisition study: when does a capability reachable by sampling become reliable in training, and does reliability coincide with the learned identity becoming localized | The owner's suggestion of 2026-11-19 that the unfinished identity projects ([LIT-2875](../../../record/literature.d/LIT-2875.md), [LIT-2873](../../../record/literature.d/LIT-2873.md)) offer a directional experiment for accidental against reliable capability. Complements the backlog audit's lead for [CLAIM-699](../../../record/claims.d/CLAIM-699.md) (pull request 542), which compares RL with best-of-N at matched compute. | Open |

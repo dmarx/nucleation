@@ -78,23 +78,23 @@ Jurafsky ([THEORY-2067](../theory.d/THEORY-2067.md)) transfer frozen structure t
 targeted search of the task-composition literature is still to do.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpezk6j THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpowquo THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2086 THEORY-2087 THEORY-2088 THEORY-2089 THEORY-2090 THEORY-2091 THEORY-2092 THEORY-2093 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 The search this lead asked for, and eight readings. No work runs the full
 design. The parts are covered separately. (a) A later cost with and
-without the earlier learning: Zhang, Lepori and Pavlick ([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md)),
-Goudar and colleagues ([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)), Ito and colleagues
-([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md), pretraining counted), Driscoll and colleagues
-([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md)), Furuta and colleagues ([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)). (b)
-Organizations compared: only He and colleagues ([THEORY-tmpowquo](../theory.d/THEORY-tmpowquo.md)), where a
+without the earlier learning: Zhang, Lepori and Pavlick ([THEORY-2087](../theory.d/THEORY-2087.md)),
+Goudar and colleagues ([THEORY-2088](../theory.d/THEORY-2088.md)), Ito and colleagues
+([THEORY-2091](../theory.d/THEORY-2091.md), pretraining counted), Driscoll and colleagues
+([THEORY-2090](../theory.d/THEORY-2090.md)), Furuta and colleagues ([THEORY-2086](../theory.d/THEORY-2086.md)). (b)
+Organizations compared: only He and colleagues ([THEORY-2092](../theory.d/THEORY-2092.md)), where a
 shortcut model with higher first-stage accuracy than a grokked one
 composes new facts worse; not matched, observational, single runs. (c) An
 intervention on the learned component: a frozen transplant of the located
 subnetwork against a size-matched random one (Zhang, Lepori and Pavlick),
 a readout barred from the reused subspace (Goudar and colleagues),
-covariance resampling (Maennel and colleagues, [THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)). Against
+covariance resampling (Maennel and colleagues, [THEORY-2093](../theory.d/THEORY-2093.md)). Against
 the lead's hope: mixing sub-tasks in gives little (Thomm and colleagues,
-[THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)), and transplanting g's own grokked module often raises
+[THEORY-2089](../theory.d/THEORY-2089.md)), and transplanting g's own grokked module often raises
 the cost of h∘g (Furuta and colleagues). For the memorization arm, Maennel
 and colleagues show a random-label first stage changes later cost through
 input statistics, so that arm needs covariance and norm controls. The gap:

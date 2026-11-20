@@ -147,18 +147,18 @@ effect on later ones, the accounting this claim says is missing. None
 tests the claim's own content. No status change.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpezk6j THEORY-tmpmir63 THEORY-tmpoqh3f THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2086 THEORY-2087 THEORY-2088 THEORY-2089 THEORY-2090 THEORY-2091 THEORY-2093 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Four of the eight task-composition readings add evidence for the premise
 (corroborates): a transplanted subnetwork for a shared subtask lowers
-later sample cost against a size-matched random one ([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md));
+later sample cost against a size-matched random one ([THEORY-2087](../theory.d/THEORY-2087.md));
 earlier problems cut later problems' trials to criterion, and barring the
-reused subspace removes the saving ([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)); learned motifs make
-a new task learnable through one input vector ([THEORY-tmpmir63](../theory.d/THEORY-tmpmir63.md));
+reused subspace removes the saving ([THEORY-2088](../theory.d/THEORY-2088.md)); learned motifs make
+a new task learnable through one input vector ([THEORY-2090](../theory.d/THEORY-2090.md));
 primitives lower a composition's cost with pretraining counted
-([THEORY-tmpoqh3f](../theory.d/THEORY-tmpoqh3f.md)); and random-label pretraining, of no direct value on the
-later task, often lowers its cost ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)). Two mark limits:
-mixing sub-tasks in gives little ([THEORY-tmpezk6j](../theory.d/THEORY-tmpezk6j.md)), and transplanted
+([THEORY-2091](../theory.d/THEORY-2091.md)); and random-label pretraining, of no direct value on the
+later task, often lowers its cost ([THEORY-2093](../theory.d/THEORY-2093.md)). Two mark limits:
+mixing sub-tasks in gives little ([THEORY-2089](../theory.d/THEORY-2089.md)), and transplanted
 grokked modules raise later cost as often as they lower it
-([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)). None nets the first stage's cost or tests the
+([THEORY-2086](../theory.d/THEORY-2086.md)). None nets the first stage's cost or tests the
 valuation. No status change.

@@ -133,11 +133,11 @@ test; Petty and colleagues ([THEORY-2078](../theory.d/THEORY-2078.md)) find code
 output composition and obstructs natural-language transduction. Analogies.
 
 ## Note of 2026-11-19: the task-composition readings, read
-<!-- inactive-ok-file: THEORY-tmp442o6 THEORY-tmp51mqd THEORY-tmp80vhs THEORY-tmpw5877 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2086 THEORY-2087 THEORY-2088 THEORY-2093 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Applications from the task-composition readings: a transplanted subnetwork
-for a shared subtask ([THEORY-tmp51mqd](../theory.d/THEORY-tmp51mqd.md)) and a reused decision subspace
-([THEORY-tmp80vhs](../theory.d/THEORY-tmp80vhs.md)) are productive against declared comparators; frozen
+for a shared subtask ([THEORY-2087](../theory.d/THEORY-2087.md)) and a reused decision subspace
+([THEORY-2088](../theory.d/THEORY-2088.md)) are productive against declared comparators; frozen
 grokked modules are often obstructive for polynomials composed on their
-own operation ([THEORY-tmp442o6](../theory.d/THEORY-tmp442o6.md)); and random-label pretraining helps or
-hurts by setting ([THEORY-tmpw5877](../theory.d/THEORY-tmpw5877.md)).
+own operation ([THEORY-2086](../theory.d/THEORY-2086.md)); and random-label pretraining helps or
+hurts by setting ([THEORY-2093](../theory.d/THEORY-2093.md)).

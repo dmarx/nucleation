@@ -6,8 +6,8 @@
 
 **Individuation** — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024).
 
-0 of 12 LEAD documents. Back to the [full index](../README.md).
+1 of 13 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-013](../../../record/leads.d/LEAD-013.md) | Run the identity-acquisition study: when does a capability reachable by sampling become reliable in training, and does reliability coincide with the learned identity becoming localized | The owner's suggestion of 2026-11-19 that the unfinished identity projects ([LIT-2875](../../../record/literature.d/LIT-2875.md), [LIT-2873](../../../record/literature.d/LIT-2873.md)) offer a directional experiment for accidental against reliable capability. Complements the backlog audit's lead for [CLAIM-699](../../../record/claims.d/CLAIM-699.md) (pull request 542), which compares RL with best-of-N at matched compute. | Open |

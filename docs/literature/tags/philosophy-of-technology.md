@@ -6,7 +6,7 @@
 
 **Philosophy of technology** — what technology is and what it does to those who live with it — the autonomy of technique, technological determinism and the social shaping of technology, lock-in and practical compulsion, automation and deskilling, technical codes and the politics of artifacts, design that steers or captures its users, critical theory of technology and convivial tools. A technology's regulation stays with society-and-governance, a measured effect of one product with social-science and a verdict on what is owed with ethics, unless the work argues about technology as such; how software is built is software-engineering (group: philosophy; ADR-098).
 
-83 of 2871 LIT documents. Back to the [full index](../README.md).
+83 of 2881 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
