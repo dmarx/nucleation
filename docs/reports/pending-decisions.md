@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1928 document(s) awaiting a decision, 42 undated.**
+**1929 document(s) awaiting a decision, 42 undated.**
 
 ## LITs
 
-90 of the 1928.
+90 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-1155 of the 1928.
+1155 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1268,7 +1268,7 @@
 
 ## ADRs
 
-36 of the 1928.
+37 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1299,19 +1299,20 @@
 | 2026-11-15 | Proposed | [ADR-100](../../record/decisions.d/ADR-100.md) | 0 | 62 | 7 | The organizational-normativity line is split in two: organizational-normativity keeps what a normative judgment needs and the wrong beyond harm; what wholes and parts owe each other, and what those who govern an arrangement others depend on owe, become the line dependence-and-domination, because those parts relate to the first two almost only through its root questions |
 | 2026-11-17 | Proposed | [ADR-101](../../record/decisions.d/ADR-101.md) | 0 | 12 | 2 | A repository's documented machine interface to an open-access full text is a lawful route in its own right, and a bot check on the repository's website does not bar it; Europe PMC's REST API is the first such route |
 | 2026-11-18 | Proposed | [ADR-104](../../record/decisions.d/ADR-104.md) | 0 | 33 | 30 | A work capability-restraint-relational-freedom is added for the owner's manuscript from the exchange Assess Depp Heard Abuse: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step |
-| 2026-11-18 | Proposed | [ADR-102](../../record/decisions.d/ADR-102.md) | 0 | 8 | 0 | A copy its host says is published with the rights holders' permission, and a reply posted by the scholar it answers beside that scholar's own paper, count as lawful copies to read, beside the kinds already admitted |
+| 2026-11-18 | Proposed | [ADR-102](../../record/decisions.d/ADR-102.md) | 0 | 11 | 0 | A copy its host says is published with the rights holders' permission, and a reply posted by the scholar it answers beside that scholar's own paper, count as lawful copies to read, beside the kinds already admitted |
 | 2026-11-18 | Proposed | [ADR-103](../../record/decisions.d/ADR-103.md) | 0 | 1 | 0 | A line rightful-power is added beside dependence-and-domination and organizational-normativity, without moving any entry out of them: its root questions carry it first, and an entry carries it when it takes part in its argument |
 | 2026-11-18 | Proposed | [ADR-105](../../record/decisions.d/ADR-105.md) | 0 | 0 | 0 | Docs runs on pushes to the default branch wait for one another and are never cancelled: one concurrency group serializes view generation, so two merges minutes apart no longer race |
 | 2026-11-19 | Proposed | [ADR-106](../../record/decisions.d/ADR-106.md) | 0 | 21 | 16 | A work cost-structure-of-possibility is added for the owner's manuscript from the exchange Topological protection explained: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step |
 | 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 19 | 13 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
 | 2026-11-19 | Proposed | [ADR-109](../../record/decisions.d/ADR-109.md) | 0 | 14 | 2 | The record keeps its research opportunities as LEADs, plans to advance a question or claim by any method, with a status for whether each is still worth following and a stage for how far it is worked out; and a question may presuppose another |
+| 2026-11-20 | Proposed | [ADR-113](../../record/decisions.d/ADR-113.md) | 0 | 6 | 0 | Anything a course page hosts counts as a lawful copy to read, whole in-copyright books included |
 | 2026-11-20 | Proposed | [ADR-110](../../record/decisions.d/ADR-110.md) | 0 | 3 | 1 | A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded |
 | 2026-11-20 | Proposed | [ADR-112](../../record/decisions.d/ADR-112.md) | 0 | 3 | 2 | The record keeps postmortems as POSTMORTEMs, reviews of how a change to the record has worked out once used, which review the decisions behind the change, link the pull requests that carried it and the discussions that asked for the review, and name the decisions their recommendations prompt |
 | 2026-11-20 | Proposed | [ADR-111](../../record/decisions.d/ADR-111.md) | 0 | 2 | 1 | LEADs get a priority for triage and a blocked_on note; the stage ladder separates a specified design from a costed one; a lead may advance a reading or a term as well as a question or claim; and derived converses are stated as computed, not stored |
 
 ## QUESTIONs
 
-6 of the 1928.
+6 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1324,7 +1325,7 @@
 
 ## CLAIMs
 
-323 of the 1928.
+323 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1654,7 +1655,7 @@
 
 ## CASEs
 
-106 of the 1928.
+106 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1767,7 +1768,7 @@
 
 ## TERMs
 
-36 of the 1928.
+36 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1810,7 +1811,7 @@
 
 ## ARGs
 
-79 of the 1928.
+79 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1896,7 +1897,7 @@
 
 ## SYNTHESISs
 
-97 of the 1928.
+97 of the 1929.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

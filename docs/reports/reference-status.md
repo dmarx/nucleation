@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1042 documents cited without acknowledgement.** Not listed: 35590 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1042 documents cited without acknowledgement.** Not listed: 35606 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3056,8 +3056,8 @@ goal-conduciveness valence, organizational: a regime in which the negotiation am
 - [`record/decisions.d/ADR-052.md:49`](../../record/decisions.d/ADR-052.md)
 - [`record/literature.d/LIT-1438.md:108`](../../record/literature.d/LIT-1438.md)
 - [`record/literature.d/LIT-1449.md:93`](../../record/literature.d/LIT-1449.md)
-- [`record/questions.d/QUESTION-269.md:18`](../../record/questions.d/QUESTION-269.md)
-- [`record/questions.d/QUESTION-269.md:35`](../../record/questions.d/QUESTION-269.md)
+- [`record/questions.d/QUESTION-269.md:20`](../../record/questions.d/QUESTION-269.md)
+- [`record/questions.d/QUESTION-269.md:37`](../../record/questions.d/QUESTION-269.md)
 - [`record/terms.d/TERM-078.md:46`](../../record/terms.d/TERM-078.md)
 - [`record/terms.d/TERM-078.md:119`](../../record/terms.d/TERM-078.md)
 - [`record/terms.d/TERM-078.md:125`](../../record/terms.d/TERM-078.md)
@@ -4067,7 +4067,7 @@ A delegated reader keeps running notes in the repository, outside the record, on
 
 13 citations in 13 files await a look; 6 other citations of it are acknowledged.
 
-- [`.claude/skills/read-and-file/SKILL.md:171`](../../.claude/skills/read-and-file/SKILL.md)
+- [`.claude/skills/read-and-file/SKILL.md:175`](../../.claude/skills/read-and-file/SKILL.md)
 - [`record/decisions.d/ADR-110.md:90`](../../record/decisions.d/ADR-110.md)
 - [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
 - [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
@@ -4655,8 +4655,8 @@ The record's iterated-learning readings bear on lexical, structural and function
 - [`record/decisions.d/ADR-061.md:119`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:327`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:332`](../../record/decisions.d/ADR-061.md)
-- [`record/questions.d/QUESTION-014.md:59`](../../record/questions.d/QUESTION-014.md)
-- [`record/questions.d/QUESTION-014.md:63`](../../record/questions.d/QUESTION-014.md)
+- [`record/questions.d/QUESTION-014.md:61`](../../record/questions.d/QUESTION-014.md)
+- [`record/questions.d/QUESTION-014.md:65`](../../record/questions.d/QUESTION-014.md)
 - [`record/theory.d/THEORY-489.md:99`](../../record/theory.d/THEORY-489.md)
 
 ### [CLAIM-247](../../record/claims.d/CLAIM-247.md) — Superseded
@@ -4875,8 +4875,8 @@ Kirby, Cornish and Smith show structure emerging under transmission with an expe
 - [`record/decisions.d/ADR-061.md:102`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:327`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:332`](../../record/decisions.d/ADR-061.md)
-- [`record/questions.d/QUESTION-014.md:50`](../../record/questions.d/QUESTION-014.md)
-- [`record/questions.d/QUESTION-014.md:59`](../../record/questions.d/QUESTION-014.md)
+- [`record/questions.d/QUESTION-014.md:52`](../../record/questions.d/QUESTION-014.md)
+- [`record/questions.d/QUESTION-014.md:61`](../../record/questions.d/QUESTION-014.md)
 - [`record/theory.d/THEORY-489.md:96`](../../record/theory.d/THEORY-489.md)
 
 ### [CLAIM-072](../../record/claims.d/CLAIM-072.md) — Superseded
@@ -5003,7 +5003,7 @@ The potential account of valence is an account of goal-conduciveness valence, no
 - [`record/claims.d/CLAIM-441.md:85`](../../record/claims.d/CLAIM-441.md)
 - [`record/claims.d/CLAIM-449.md:82`](../../record/claims.d/CLAIM-449.md)
 - [`record/decisions.d/ADR-061.md:122`](../../record/decisions.d/ADR-061.md)
-- [`record/questions.d/QUESTION-266.md:80`](../../record/questions.d/QUESTION-266.md)
+- [`record/questions.d/QUESTION-266.md:82`](../../record/questions.d/QUESTION-266.md)
 - [`record/terms.d/TERM-076.md:209`](../../record/terms.d/TERM-076.md)
 - [`record/terms.d/TERM-076.md:276`](../../record/terms.d/TERM-076.md)
 
@@ -7731,7 +7731,7 @@ Frijda's emotion and the potential account's system valence sit on opposite side
 
 - [`record/claims.d/CLAIM-283.md:139`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-484.md:48`](../../record/claims.d/CLAIM-484.md)
-- [`record/questions.d/QUESTION-269.md:48`](../../record/questions.d/QUESTION-269.md)
+- [`record/questions.d/QUESTION-269.md:50`](../../record/questions.d/QUESTION-269.md)
 - [`record/theory.d/THEORY-055.md:64`](../../record/theory.d/THEORY-055.md)
 
 ### [CLAIM-483](../../record/claims.d/CLAIM-483.md) — Proposed
@@ -9829,7 +9829,7 @@ The record keeps its research opportunities as LEADs, plans to advance a questio
 
 2 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
-- [`.claude/skills/read-and-file/SKILL.md:398`](../../.claude/skills/read-and-file/SKILL.md)
+- [`.claude/skills/read-and-file/SKILL.md:402`](../../.claude/skills/read-and-file/SKILL.md)
 - [`CLAUDE.md:33`](../../CLAUDE.md)
 
 ### [ADR-112](../../record/decisions.d/ADR-112.md) — Proposed
@@ -12119,7 +12119,7 @@ Manipulation: Theory and Practice
 
 Epistemic Injustice: Power and the Ethics of Knowing
 
-1 citation in 1 file awaits a look; 40 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 41 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-069.md:81`](../../record/decisions.d/ADR-069.md)
 
@@ -12591,7 +12591,7 @@ The Ideal Victim
 
 Two Faces of Responsibility
 
-1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2008.md:18`](../../record/notes.d/NOTE-2008.md)
 
@@ -13713,7 +13713,7 @@ Kuhn holds that a scientific community's paradigm, learned from exemplary proble
 
 1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-2884.md:44`](../../record/literature.d/LIT-2884.md)
+- [`record/literature.d/LIT-2884.md:45`](../../record/literature.d/LIT-2884.md)
 
 ### [THEORY-2095](../../record/theory.d/THEORY-2095.md) — Proposed
 
