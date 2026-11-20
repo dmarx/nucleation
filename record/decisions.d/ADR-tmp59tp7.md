@@ -1,0 +1,92 @@
+---
+status: Proposed
+title: 'Every work read for the record gets its own LIT, a stand-in or a supplement as much as the work it stands beside, and is filed as what it is'
+version: 1
+tags:
+- record
+date: '2026-11-20'
+summary: >-
+  On the owner's instruction of 2026-11-20. A work read in place of an
+  unreadable one (a stand-in), or beside another to supply a passage, a
+  figure or a confirmation (a supplement), is registered as a LIT of its
+  own and read in a NOTE of its own, with its own copy, extent and status.
+  It is never filed under the work it stands for, and never left as a
+  mention in another work's NOTE history when the record quotes it or
+  relies on it. The skill already said this for neighbours; this decision
+  states it for every such reading and makes the THEORY depend on use: a
+  stand-in that carries the original's account gets one, a supplement read
+  for a passage need not. Rejected: keeping supplements as mentions, which
+  left quoted evidence with no entry; and filing a stand-in's text under
+  the original's code, which presents it as something it is not. First
+  application: five works quoted in [NOTE-2177](../notes.d/NOTE-2177.md) and [NOTE-2184](../notes.d/NOTE-2184.md) without
+  entries.
+---
+<!-- inactive-ok-file: LIT-2882 LIT-2917 — Unavailable; the unread works the first application's readings stood in for -->
+
+# ADR-tmp59tp7: Every work read for the record gets its own LIT, a stand-in or a supplement as much as the work it stands beside, and is filed as what it is
+
+## Context
+
+When the record cannot read a work, the read-and-file skill sends the
+reader to neighbours, and says a neighbour is a work in its own right with
+a LIT, a NOTE and a THEORY. In practice readers also read further works
+beside a stand-in or beside a work they did reach: an encyclopedia entry
+for a passage, a newsletter essay that reports a third author, more posts
+by the same author. These were named in the NOTE history of the work they
+supported, and quoted in its Key results, but had no entry. On 2026-11-20
+the owner asked about them when a batch of texts for
+mathematics-of-meaning#5 left them out for want of a code, and ruled that
+readings meant to stand in for an Unavailable work should generally get
+their own LIT "rather than pretending that they're something they're not".
+
+Two cases were found: [NOTE-2177](../notes.d/NOTE-2177.md) (Kindi's essay, itself a stand-in for
+Kuhn's "The Essential Tension", [LIT-2882](../literature.d/LIT-2882.md)) quotes the Stanford Encyclopedia
+entry on Kuhn and Matthews's 2022 opinion piece; [NOTE-2184](../notes.d/NOTE-2184.md) (Recht's
+announcement post, a stand-in for The Irrational Decision, [LIT-2917](../literature.d/LIT-2917.md))
+quotes three more of his posts.
+
+## Decision
+
+1. **Every work read for the record gets its own LIT and NOTE.** That
+   includes a stand-in for an unreadable work and a supplement read beside
+   any work. The NOTE gives its own copy, what was read, and an honest
+   status (`Read` or `Skimmed`).
+2. **It is filed as what it is.** A stand-in is never filed under the
+   original's code, quoted as if it were the original, or given the
+   original's status. The original's LIT names it and says how far it
+   stands in; its own LIT says what it was read for.
+3. **A mention is enough only for what the record neither quotes nor relies
+   on**: a catalogue page used for a date, a translation used to confirm a
+   citation, a review consulted for bibliography. Those stay in the NOTE
+   history.
+4. **The THEORY follows use.** A stand-in that carries the original's
+   account gets a THEORY, as before. A supplement read for a passage does
+   not need one; its NOTE names the NOTE it was read for.
+5. **A NOTE that quotes another work names that work's code**, so that the
+   quotation can be traced to an entry.
+
+## Alternatives considered
+
+- **Keep supplements as mentions.** Cheapest, and it was the practice; but
+  quoted evidence then has no entry, no status and no copy of its own, and
+  the texts cannot be kept by code.
+- **A THEORY for every supplement.** Uniform, but a passage read for one
+  point is not an account the record holds; it would add Proposed theories
+  nothing uses.
+- **File the supplement's text under the supported work's code** (as a
+  `__2` copy). That is right for a second copy of the same work and wrong
+  for a different work: it presents one work as another.
+
+## Consequences
+
+- **First application:** five LITs and NOTEs, [LIT-tmp8rse1](../literature.d/LIT-tmp8rse1.md), [LIT-tmp6zzyw](../literature.d/LIT-tmp6zzyw.md), [LIT-tmp2puod](../literature.d/LIT-tmp2puod.md), [LIT-tmpxfyzg](../literature.d/LIT-tmpxfyzg.md), [LIT-tmp65czg](../literature.d/LIT-tmp65czg.md): the
+  Stanford Encyclopedia entry on Kuhn and Matthews's opinion piece (read
+  beside [LIT-2885](../literature.d/LIT-2885.md)), and Recht's posts "Mathematical Pluralism", "The
+  Rational Landscapes" and "The Rationality of the Language Machines" (read
+  beside [LIT-2918](../literature.d/LIT-2918.md)). [NOTE-2177](../notes.d/NOTE-2177.md) and [NOTE-2184](../notes.d/NOTE-2184.md) get dated notes naming them.
+  Their texts go to mathematics-of-meaning#5 under their permanent codes
+  once this merges.
+- **The read-and-file skill** states the rule in step 5 and in the
+  reader's brief.
+- **Earlier filings** may hold more such mentions; a sweep is left to the
+  owner's call.

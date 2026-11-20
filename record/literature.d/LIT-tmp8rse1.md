@@ -1,0 +1,48 @@
+---
+status: Active
+status_note: >-
+  Read in part on 2026-11-19 (§§1–3) by the reader of the Kuhn works, as a
+  further stand-in beside Kindi's essay for Kuhn's unread "The Essential
+  Tension" ([LIT-2882](LIT-2882.md)); [NOTE-2177](../notes.d/NOTE-2177.md) quotes it. Registered on 2026-11-20 under
+  [ADR-tmp59tp7](../decisions.d/ADR-tmp59tp7.md).
+title: 'Thomas Kuhn'
+version: 1
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Registered on 2026-11-20 at the owner's request under ADR-tmp59tp7: it
+    was read beside another work and quoted in that work's NOTE, but had
+    no entry of its own. Read on 2026-11-19 by the delegated reader of the
+    Kuhn works (running notes on the branch claude/readers/kuhn): §§1–3
+    only, from the HTML of the revision of 2025-09-02. Quotation rechecked
+    by the filer by script against the downloaded text.
+tags:
+- philosophy-of-science
+- learning-theory
+date: '2026-11-20'
+published: '2004-08-13'
+url: 'https://plato.stanford.edu/entries/thomas-kuhn/'
+first_author: 'Bird'
+keywords: []
+implementations: []
+summary: >-
+  Bird's encyclopedia entry on Kuhn: his life and the development of
+  Structure, normal science, paradigms and exemplars, revolution and
+  incommensurability, and his later work. Cited in the record for the
+  claim that inculcating commitment is part of scientific training. Read
+  in [NOTE-tmpykqcy](../notes.d/NOTE-tmpykqcy.md).
+---
+<!-- inactive-ok-file: ADR-tmp59tp7 — Proposed; the decision under which this work is registered -->
+
+# LIT-tmp8rse1: Thomas Kuhn
+
+Alexander Bird (2004; substantive revision 2025-09-02). "Thomas Kuhn". Stanford Encyclopedia of Philosophy; copy read: https://plato.stanford.edu/entries/thomas-kuhn/.
+
+## Standing in the record
+
+Registered on 2026-11-20 at the owner's request under [ADR-tmp59tp7](../decisions.d/ADR-tmp59tp7.md): it was
+read beside another work and quoted in that work's NOTE, but had no entry
+of its own. It was read in support of Kindi's essay on "The Essential
+Tension" ([LIT-2885](LIT-2885.md), [NOTE-2177](../notes.d/NOTE-2177.md)), and is filed so that what the record
+quotes from it has an entry that says what it is.
