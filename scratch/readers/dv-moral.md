@@ -24,3 +24,16 @@ Quotes verified by script (/tmp/claude-0/-home-user-nucleation/5941a951-7543-5f3
 
 ## Step 5: Report (final)
 See SubagentHandback report; copied below.
+
+# dv-moral report: Piaget's Moral Judgment of the Child (1932) against later fairness research
+
+## Search and choice
+- Not held: no title or DOI below occurs under record/. The record has no LIT for Moral Judgment of the Child.
+- OpenAlex: refused ("Rate limit exceeded", daily budget used up). Stopped there and did not retry.
+- Chosen: (1) Killen & Smetana 2015, a handbook chapter that judges Piaget 1932 directly. (2) McAuliffe, Blake, Steinbeis & Warneken 2017, the ages for equality and its enforcement. (3) Killen 2018, a commentary on Tomasello's Natural History of Human Morality that also places Piaget against the newer findings, so it answers the question on collaboration-based accounts.
+- Passed over: Carpendale (with Müller and Smith, by Cambridge Core's listing), "Piaget's theory of moral development", Cambridge Companion to Piaget (2009), ch. 12. Only the paywalled Cambridge Core page was found. No lawful copy, so not fetched. No other Carpendale reassessment turned up.
+
+## Copies (all 2026-11-20)
+- KS: https://www.sas.rochester.edu/psy/people/faculty/smetana_judith/assets/pdf/KillenSmetana_2015_Origins.pdf. Kind: author's faculty page (Smetana, Rochester); the PDF is a ProQuest Ebook Central print of the published chapter. Fetched, 49 pp.
+- MC: https://discovery.ucl.ac.uk/id/eprint/10045323 (UCL institutional repository) returned HTTP 403 and https://discovery-pp.ucl.ac.uk/id/eprint/10045323 (UCL staging) returned HTTP 403. Stopped at both. https://scholarlypublications.universiteitleiden.nl/download/1887/74634/1?col=81522199280002711 (Leiden institutional repository; author manuscript, 26 pp, version listed as "Not Applicable (or Unknown)") was fetched. https://www.nature.com/articles/s41562-016-0042 (publisher, paywalled) was not fetched.
+- K18: https://par.nsf.gov/servlets/purl/10079930. Kind: NSF Public Access Repository, publisher PDF. Fetched, 37 pp. Uses fi/fl ligatures, so normalise with NFKC before checking quotes.
