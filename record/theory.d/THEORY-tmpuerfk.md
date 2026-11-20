@@ -14,7 +14,7 @@ promote_when: >-
   to 5-year-olds on three of four tasks, or an independent study
   replicates above-chance tacit coordination at 4 to 5.
 summary: >-
-  From the reading of LIT-tmptcx2n in NOTE-tmpl7udu. Proposed until its
+  From the reading of [LIT-tmptcx2n](../literature.d/LIT-tmptcx2n.md) in [NOTE-tmpl7udu](../notes.d/NOTE-tmpl7udu.md). Proposed until its
   promote_when is met.
 ---
 

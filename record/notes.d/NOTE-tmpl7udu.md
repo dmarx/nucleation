@@ -52,7 +52,7 @@ Pure coordination; alignment; group-based reasoning.
 - **The owner's view**, a qualification: tacit coordination appears from
   about 4–5, not 3; no three-year-olds were tested, the partner was a
   puppet, and which reasoning children used is not tested.
-- **THEORY-1630**, a parallel: the authors present "we" reasoning as
+- **[THEORY-1630](../theory.d/THEORY-1630.md)**, a parallel: the authors present "we" reasoning as
   escaping the regress.
 
 ## Limitations

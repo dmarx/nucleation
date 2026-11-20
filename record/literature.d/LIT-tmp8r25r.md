@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpwm5cj) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpwm5cj](../notes.d/NOTE-tmpwm5cj.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   publisher's PDF on the file store of the École normale supérieure (PSL),
   a university site with no surrounding course or faculty page; read under
@@ -35,7 +35,7 @@ summary: >-
   second-order false-belief reasoning to coordinate with a peer in a
   four-box game without communication, choosing the box the partner
   falsely believes (or falsely believes they believe) holds the most
-  reward. Read in NOTE-tmpwm5cj; account THEORY-tmpjqrp3.
+  reward. Read in [NOTE-tmpwm5cj](../notes.d/NOTE-tmpwm5cj.md); account [THEORY-tmpjqrp3](../theory.d/THEORY-tmpjqrp3.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpjqrp3 — Proposed; this reading's account -->
 

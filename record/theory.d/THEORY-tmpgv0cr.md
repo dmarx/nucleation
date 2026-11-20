@@ -15,7 +15,7 @@ promote_when: >-
   negotiation predicts later fairness judgments independently of
   collaborative experience.
 summary: >-
-  From the reading of LIT-tmpwjmfm in NOTE-tmpqf0zu. Proposed until its
+  From the reading of [LIT-tmpwjmfm](../literature.d/LIT-tmpwjmfm.md) in [NOTE-tmpqf0zu](../notes.d/NOTE-tmpqf0zu.md). Proposed until its
   promote_when is met.
 ---
 

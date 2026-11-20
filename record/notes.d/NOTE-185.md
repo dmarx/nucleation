@@ -139,7 +139,7 @@ For ML practice it carries nothing actionable. The dossier's suggestion that it 
 ## Note of 2026-11-20: Killen 2018, read
 
 The Killen and Dahl objection this note records is stated at length in
-Killen's commentary on A Natural History of Human Morality (LIT-tmpwjmfm,
-NOTE-tmpqf0zu): cooperation and morality "are not one and the same",
+Killen's commentary on A Natural History of Human Morality ([LIT-tmpwjmfm](../literature.d/LIT-tmpwjmfm.md),
+[NOTE-tmpqf0zu](NOTE-tmpqf0zu.md)): cooperation and morality "are not one and the same",
 interdependence coexists with independent autonomous thinking, and peer
 conflict, not collaboration alone, drives moral change.

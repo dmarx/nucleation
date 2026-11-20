@@ -61,11 +61,11 @@ domains; equality, equity and merit.
 
 ## Bearing on the record
 
-- **THEORY-495**, a qualification: equal sharing at 3 after joint work is
+- **[THEORY-495](../theory.d/THEORY-495.md)**, a qualification: equal sharing at 3 after joint work is
   confirmed, but its motive was never examined; the chapter places early
   obligation in the moral/conventional distinction, not in joint
   commitments.
-- **LIT-837** (Piaget), background: supplies the 1932 moral theory the
+- **[LIT-837](../literature.d/LIT-837.md)** (Piaget), background: supplies the 1932 moral theory the
   record lacks, with its assessment.
 
 ## Limitations

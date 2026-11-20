@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpugvuz) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpugvuz](../notes.d/NOTE-tmpugvuz.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   author manuscript in the Leiden University institutional repository; the
   UCL repository copies returned 403. Pages are the manuscript's.
@@ -33,8 +33,8 @@ summary: >-
   fairness: refusing to get less than a peer by about 4, costly punishment
   of unfairness to self and others by 6–8, refusing an advantage by about
   8 (varying by culture); three-year-olds already state equal division as
-  the norm but keep more for themselves. Read in NOTE-tmpugvuz; account
-  THEORY-tmpitywd.
+  the norm but keep more for themselves. Read in [NOTE-tmpugvuz](../notes.d/NOTE-tmpugvuz.md); account
+  [THEORY-tmpitywd](../theory.d/THEORY-tmpitywd.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpitywd — Proposed; this reading's account -->
 

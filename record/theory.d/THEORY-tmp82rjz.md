@@ -14,7 +14,7 @@ promote_when: >-
   independent study replicates the predominance of level-1 reasoning and
   the larger share of team reasoning in larger games.
 summary: >-
-  From the reading of LIT-tmpv1f6c in NOTE-tmppyrwx. Proposed until its
+  From the reading of [LIT-tmpv1f6c](../literature.d/LIT-tmpv1f6c.md) in [NOTE-tmppyrwx](../notes.d/NOTE-tmppyrwx.md). Proposed until its
   promote_when is met.
 ---
 

@@ -59,5 +59,5 @@ Pettit's is open on his own site.
 
 Of the symposium pieces listed with this précis, Killen's "The origins of
 morality: Social equality, fairness, and justice" turned out to be open in
-the NSF Public Access Repository and was read on 2026-11-20 (LIT-tmpwjmfm,
-NOTE-tmpqf0zu).
+the NSF Public Access Repository and was read on 2026-11-20 ([LIT-tmpwjmfm](LIT-tmpwjmfm.md),
+[NOTE-tmpqf0zu](../notes.d/NOTE-tmpqf0zu.md)).

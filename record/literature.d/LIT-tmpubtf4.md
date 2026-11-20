@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpvfh43) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpvfh43](../notes.d/NOTE-tmpvfh43.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   CeDEx discussion paper, an institutional working paper; pages are the
   working paper's.
@@ -33,7 +33,7 @@ summary: >-
   coordinators in one-shot coordination games and find two modes: in one
   sample coordinators team-reason (choose the rule best for the pair), in
   another they predict others' pre-reflective picks, as cognitive
-  hierarchy theory says. Read in NOTE-tmpvfh43; account THEORY-tmpuucqv.
+  hierarchy theory says. Read in [NOTE-tmpvfh43](../notes.d/NOTE-tmpvfh43.md); account [THEORY-tmpuucqv](../theory.d/THEORY-tmpuucqv.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpuucqv — Proposed; this reading's account -->
 

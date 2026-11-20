@@ -16,7 +16,7 @@ promote_when: >-
   and need in middle childhood, and a role for peer relations in concepts
   of fairness.
 summary: >-
-  From the reading of LIT-tmpjcyb9 in NOTE-tmpfrpvx. Proposed until its
+  From the reading of [LIT-tmpjcyb9](../literature.d/LIT-tmpjcyb9.md) in [NOTE-tmpfrpvx](../notes.d/NOTE-tmpfrpvx.md). Proposed until its
   promote_when is met.
 ---
 

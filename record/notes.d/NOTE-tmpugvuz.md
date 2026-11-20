@@ -62,13 +62,13 @@ third-party punishment; knowing versus following a norm.
 
 ## Bearing on the record
 
-- **THEORY-495**, a contrast that sharpens it: with windfalls,
+- **[THEORY-495](../theory.d/THEORY-495.md)**, a contrast that sharpens it: with windfalls,
   three-year-olds know the equal norm and do not follow it; after
   collaboration they do. So collaboration bears on following the norm, not
   on knowing it.
-- **NOTE-185**, a parallel: supplies the baseline without collaboration
+- **[NOTE-185](NOTE-185.md)**, a parallel: supplies the baseline without collaboration
   that its sharing studies are read against.
-- **THEORY-tmpqxwyk** (Schelling), a parallel: equality as an "objective
+- **[THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md)** (Schelling), a parallel: equality as an "objective
   benchmark" fits its salience, though the paper argues nothing about
   salience.
 

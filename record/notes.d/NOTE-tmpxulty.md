@@ -58,7 +58,7 @@ objective perspective; epistemic vigilance.
 
 ## Bearing on the record
 
-- **THEORY-495**, support: the same shared-intentionality infrastructure,
+- **[THEORY-495](../theory.d/THEORY-495.md)**, support: the same shared-intentionality infrastructure,
   applied to belief.
 - **The owner's question**, an answer from Tomasello: at 3 children
   coordinate perspectives poorly and are pulled to the real; second-order

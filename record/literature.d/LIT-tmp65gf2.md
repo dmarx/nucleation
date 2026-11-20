@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmp0vxg5) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmp0vxg5](../notes.d/NOTE-tmp0vxg5.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   open-access full text in Europe PMC (CC BY).
 title: 'Five-Year-Olds'' Systematic Errors in Second-Order False Belief Tasks Are Due to First-Order Theory of Mind Strategy Selection: A Computational Modeling Study'
@@ -32,7 +32,7 @@ summary: >-
   second-order false-belief tasks one to three years after first-order
   ones, that 5- to 6-year-olds who fail mostly answer at first order, and
   model this as failure to select a second-order strategy. Read in
-  NOTE-tmp0vxg5; account THEORY-tmpsn2t0.
+  [NOTE-tmp0vxg5](../notes.d/NOTE-tmp0vxg5.md); account [THEORY-tmpsn2t0](../theory.d/THEORY-tmpsn2t0.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpsn2t0 — Proposed; this reading's account -->
 

@@ -16,7 +16,7 @@ line:
 advances:
 - CLAIM-tmpue255
 summary: >-
-  The crossed design that would test CLAIM-tmpue255: commitment against no
+  The crossed design that would test [CLAIM-tmpue255](../claims.d/CLAIM-tmpue255.md): commitment against no
   commitment, crossed at age five and over with a salient against no
   salient split, and at age three with a stated equality norm against a
   novel division with no stated norm. First step: search for published
@@ -49,12 +49,12 @@ stated as the norm against a novel division with no stated norm.
 | No commitment | Keep more, as with windfalls | Keep more |
 
 **Measure the motive** as well as the split: protest, justification and
-leave-taking, as THEORY-495's evidence does. Killen and Smetana report
+leave-taking, as [THEORY-495](../theory.d/THEORY-495.md)'s evidence does. Killen and Smetana report
 that no study has examined why three-year-olds share equally after joint
 work.
 
 ## First step
 
 Search the developmental literature for studies that cross commitment with
-collaboration (THEORY-495's own promote_when) or with salience, before
+collaboration ([THEORY-495](../theory.d/THEORY-495.md)'s own promote_when) or with salience, before
 designing anything.

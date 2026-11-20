@@ -15,7 +15,7 @@ promote_when: >-
   and switching tasks only in ways explicable without assigning the view
   to anyone, and that this changes when they pass false belief.
 summary: >-
-  From the reading of LIT-tmp3asyo in NOTE-tmpwl20t. Proposed until its
+  From the reading of [LIT-tmp3asyo](../literature.d/LIT-tmp3asyo.md) in [NOTE-tmpwl20t](../notes.d/NOTE-tmpwl20t.md). Proposed until its
   promote_when is met.
 ---
 

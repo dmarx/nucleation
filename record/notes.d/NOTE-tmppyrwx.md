@@ -51,7 +51,7 @@ Cognitive hierarchy; strong Stackelberg reasoning; team reasoning.
 
 ## Bearing on the record
 
-- **THEORY-1630**, a parallel: team reasoning is cheap and occurs, but is
+- **[THEORY-1630](../theory.d/THEORY-1630.md)**, a parallel: team reasoning is cheap and occurs, but is
   a minority mode in these games.
 - **The owner's view**, background: what team reasoning needs is a
   first-order belief about the partner's mode of reasoning, not nested

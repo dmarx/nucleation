@@ -15,7 +15,7 @@ promote_when: >-
   perception to co-present partners, and level-2 visual and false-belief
   success co-occurring at 4 to 5 years.
 summary: >-
-  From the reading of LIT-tmpkr3mt in NOTE-tmpivq5d. Proposed until its
+  From the reading of [LIT-tmpkr3mt](../literature.d/LIT-tmpkr3mt.md) in [NOTE-tmpivq5d](../notes.d/NOTE-tmpivq5d.md). Proposed until its
   promote_when is met.
 ---
 

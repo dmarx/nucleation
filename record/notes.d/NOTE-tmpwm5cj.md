@@ -65,10 +65,10 @@ belief in action.
 - **The owner's question**, the upper anchor: recursive mutual expectation
   in coordination is shown at 6, about half the children succeeding;
   nothing like it is shown at 3.
-- **THEORY-tmpqxwyk** (Schelling), support at 6 and over: children
+- **[THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md)** (Schelling), support at 6 and over: children
   coordinate by meeting of minds, as Schelling describes; the authors cite
   Schelling and Lewis for the need for recursion.
-- **THEORY-495**, background: the authors suggest cooperation helps
+- **[THEORY-495](../theory.d/THEORY-495.md)**, background: the authors suggest cooperation helps
   children deploy higher-order reasoning.
 
 ## Limitations

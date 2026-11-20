@@ -60,9 +60,9 @@ persons; overestimation of shared perception.
   young children treat as mutually given comes from a shared history with
   a partner, not from recursive inference from co-presence (the Clark and
   Marshall route is rejected for young children).
-- **THEORY-tmpqxwyk** (Schelling), a qualification of its
+- **[THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md)** (Schelling), a qualification of its
   mutual-expectation reading for young children.
-- **THEORY-495**, support: perspective-taking serves cooperation before
+- **[THEORY-495](../theory.d/THEORY-495.md)**, support: perspective-taking serves cooperation before
   competition.
 
 ## Limitations

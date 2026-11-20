@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpq433n) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpq433n](../notes.d/NOTE-tmpq433n.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   authors' manuscript of 11 July 2012 on the first author's site; its own
   pages are cited.
@@ -33,7 +33,7 @@ summary: >-
   encountering and registration, enough for systematic success on
   false-belief tasks about location but not about identity or
   quantification, since registration lacks representational content and
-  embedding. Read in NOTE-tmpq433n; account THEORY-tmpqv5vx.
+  embedding. Read in [NOTE-tmpq433n](../notes.d/NOTE-tmpq433n.md); account [THEORY-tmpqv5vx](../theory.d/THEORY-tmpqv5vx.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpqv5vx — Proposed; this reading's account -->
 

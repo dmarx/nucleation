@@ -145,16 +145,16 @@ reading.
 Readings filed for the owner's question whether three-year-olds have the
 theory of mind a mutual-expectation reading of equal sharing needs. They
 bear on this account four ways. (1) With windfalls, three-year-olds state
-equal division as the norm but keep more for themselves (THEORY-tmpitywd),
+equal division as the norm but keep more for themselves ([THEORY-tmpitywd](THEORY-tmpitywd.md)),
 so collaboration bears on following the norm, not on knowing it. (2)
-Recursive mindreading arrives years after three (THEORY-tmpj4l2c,
-THEORY-tmpsn2t0), and Tomasello himself holds that three-year-olds
-coordinate perspectives poorly (THEORY-tmpf3zwk); recursive coordination
-is shown at six (THEORY-tmpjqrp3). (3) Tacit coordination on salience
-appears from about five, not three (LIT-tmpkwxfx, abstract;
-THEORY-tmpuerfk). (4) Killen (THEORY-tmpgv0cr) gives a rival reading: the
+Recursive mindreading arrives years after three ([THEORY-tmpj4l2c](THEORY-tmpj4l2c.md),
+[THEORY-tmpsn2t0](THEORY-tmpsn2t0.md)), and Tomasello himself holds that three-year-olds
+coordinate perspectives poorly ([THEORY-tmpf3zwk](THEORY-tmpf3zwk.md)); recursive coordination
+is shown at six ([THEORY-tmpjqrp3](THEORY-tmpjqrp3.md)). (3) Tacit coordination on salience
+appears from about five, not three ([LIT-tmpkwxfx](../literature.d/LIT-tmpkwxfx.md), abstract;
+[THEORY-tmpuerfk](THEORY-tmpuerfk.md)). (4) Killen ([THEORY-tmpgv0cr](THEORY-tmpgv0cr.md)) gives a rival reading: the
 "we" does not suffice, independent judgment and peer conflict do. Killen
 and Smetana note the motive behind the equal sharing was never examined
-(THEORY-tmpoak8v). The owner's claim CLAIM-tmpue255 builds on this
+([THEORY-tmpoak8v](THEORY-tmpoak8v.md)). The owner's claim [CLAIM-tmpue255](../claims.d/CLAIM-tmpue255.md) builds on this
 account, reading the joint commitment as the motive and a known equal
 default as the content.

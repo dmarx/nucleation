@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpdzuru) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpdzuru](../notes.d/NOTE-tmpdzuru.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: a
   scanned PDF with OCR on Meltzoff's lab site (Institute for Learning &
   Brain Sciences, University of Washington), a research-group page.
@@ -34,7 +34,7 @@ summary: >-
   what others have experienced by 14 months before what they can see
   (2–2.5 years), taking another's differing view by 3 (level 2A) and
   confronting two views of one object only at about 4.5 (2B). Read in
-  NOTE-tmpdzuru; account THEORY-tmpbelph.
+  [NOTE-tmpdzuru](../notes.d/NOTE-tmpdzuru.md); account [THEORY-tmpbelph](../theory.d/THEORY-tmpbelph.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpbelph — Proposed; this reading's account -->
 

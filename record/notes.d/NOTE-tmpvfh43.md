@@ -51,7 +51,7 @@ reasoning; cognitive hierarchy; Hi-Lo games.
 
 ## Bearing on the record
 
-- **THEORY-1630** (Sugden, team reasoning), a parallel: an empirical test
+- **[THEORY-1630](../theory.d/THEORY-1630.md)** (Sugden, team reasoning), a parallel: an empirical test
   by the same author, showing team reasoning operates in some contexts
   only.
 - **The owner's view**, support and qualification: an odd-one-out or

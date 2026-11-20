@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpfrpvx) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpfrpvx](../notes.d/NOTE-tmpfrpvx.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: a
   print of the published chapter on Smetana's faculty page at the
   University of Rochester.
@@ -33,7 +33,7 @@ summary: >-
   and friendship foster fairness and that strict equality comes before
   equity, wrong that early morality is heteronomous; by 3–4 children judge
   moral wrongs independently of authority, weigh intentions and prefer
-  equal distribution. Read in NOTE-tmpfrpvx; account THEORY-tmpoak8v.
+  equal distribution. Read in [NOTE-tmpfrpvx](../notes.d/NOTE-tmpfrpvx.md); account [THEORY-tmpoak8v](../theory.d/THEORY-tmpoak8v.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpoak8v — Proposed; this reading's account -->
 

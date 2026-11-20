@@ -54,7 +54,7 @@ non-subject-related perspective-taking.
 
 ## Bearing on the record
 
-- **LIT-837** (Piaget), support for a charitable reading of his concept.
+- **[LIT-837](../literature.d/LIT-837.md)** (Piaget), support for a charitable reading of his concept.
 - **The owner's question**, a qualification from the other side: on this
   reading a three-year-old's "we" would be undifferentiated rather than
   recursive, which also avoids second-order theory of mind. The paper says

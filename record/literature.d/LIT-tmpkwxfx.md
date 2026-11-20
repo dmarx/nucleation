@@ -6,7 +6,7 @@ status_note: >-
   PMC has no open copy, and OpenAlex's rate limit was spent. The abstract
   was read on the Duke Scholars record
   (scholars.duke.edu/publication/1167966). The authors' own description of
-  the study, in LIT-tmp8r25r (p. 288), adds that the 5- and 8-year-olds
+  the study, in [LIT-tmp8r25r](LIT-tmp8r25r.md) (p. 288), adds that the 5- and 8-year-olds
   favoured the non-salient options when they chose independently.
 title: 'Children use salience to solve coordination problems'
 version: 1

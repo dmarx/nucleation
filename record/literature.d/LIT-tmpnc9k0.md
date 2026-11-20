@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpt1we4) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpt1we4](../notes.d/NOTE-tmpt1we4.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: a
   typeset proof on the author's institute page at Göttingen; no printed
   page numbers, so PDF pages are cited; volume and pages beyond the DOI
@@ -35,7 +35,7 @@ summary: >-
   explicit belief–desire meta-representation arrives about 4; recursive
   mindreading develops gradually afterwards; infant implicit false-belief
   findings have repeatedly failed direct replication. Read in
-  NOTE-tmpt1we4; account THEORY-tmpj4l2c.
+  [NOTE-tmpt1we4](../notes.d/NOTE-tmpt1we4.md); account [THEORY-tmpj4l2c](../theory.d/THEORY-tmpj4l2c.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpj4l2c — Proposed; this reading's account -->
 

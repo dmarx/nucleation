@@ -14,7 +14,7 @@ promote_when: >-
   four-year transitions and reports the outcome of large multi-lab
   replications of implicit false-belief tasks.
 summary: >-
-  From the reading of LIT-tmpnc9k0 in NOTE-tmpt1we4. Proposed until its
+  From the reading of [LIT-tmpnc9k0](../literature.d/LIT-tmpnc9k0.md) in [NOTE-tmpt1we4](../notes.d/NOTE-tmpt1we4.md). Proposed until its
   promote_when is met.
 ---
 

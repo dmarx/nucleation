@@ -60,7 +60,7 @@ difference; implicit versus explicit theory of mind.
   after age 3, so the three-year-olds' equal split cannot rest on "I
   expect you to expect"; but joint attention and joint intention are
   available from the earlier perception–goal psychology.
-- **THEORY-tmpqxwyk** (Schelling), a qualification: its mutual-expectation
+- **[THEORY-tmpqxwyk](../theory.d/THEORY-tmpqxwyk.md)** (Schelling), a qualification: its mutual-expectation
   reading is not available at 3.
 
 ## Limitations

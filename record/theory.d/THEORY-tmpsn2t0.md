@@ -14,7 +14,7 @@ promote_when: >-
   second-order failure, again gives mostly first-order wrong answers on
   second-order false-belief questions.
 summary: >-
-  From the reading of LIT-tmp65gf2 in NOTE-tmp0vxg5. Proposed until its
+  From the reading of [LIT-tmp65gf2](../literature.d/LIT-tmp65gf2.md) in [NOTE-tmp0vxg5](../notes.d/NOTE-tmp0vxg5.md). Proposed until its
   promote_when is met.
 ---
 

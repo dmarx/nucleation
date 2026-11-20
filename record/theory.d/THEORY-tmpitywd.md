@@ -13,7 +13,7 @@ promote_when: >-
   Independent studies replicate the order of the signatures and the gap at
   age three between stating the equality norm and following it.
 summary: >-
-  From the reading of LIT-tmpsa6vs in NOTE-tmpugvuz. Proposed until its
+  From the reading of [LIT-tmpsa6vs](../literature.d/LIT-tmpsa6vs.md) in [NOTE-tmpugvuz](../notes.d/NOTE-tmpugvuz.md). Proposed until its
   promote_when is met.
 ---
 

@@ -14,7 +14,7 @@ promote_when: >-
   above-control choice of the falsely believed box in both the first- and
   second-order conditions.
 summary: >-
-  From the reading of LIT-tmp8r25r in NOTE-tmpwm5cj. Proposed until its
+  From the reading of [LIT-tmp8r25r](../literature.d/LIT-tmp8r25r.md) in [NOTE-tmpwm5cj](../notes.d/NOTE-tmpwm5cj.md). Proposed until its
   promote_when is met.
 ---
 

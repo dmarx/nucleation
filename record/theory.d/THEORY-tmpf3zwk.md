@@ -15,7 +15,7 @@ promote_when: >-
   than infant implicit false-belief performance does, and that children
   with impoverished joint attention or language are delayed accordingly.
 summary: >-
-  From the reading of LIT-tmpppuzs in NOTE-tmpxulty. Proposed until its
+  From the reading of [LIT-tmpppuzs](../literature.d/LIT-tmpppuzs.md) in [NOTE-tmpxulty](../notes.d/NOTE-tmpxulty.md). Proposed until its
   promote_when is met.
 ---
 

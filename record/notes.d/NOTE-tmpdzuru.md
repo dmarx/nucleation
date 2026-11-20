@@ -66,13 +66,13 @@ hypothesis; over-attribution of shared experience.
 
 ## Bearing on the record
 
-- **THEORY-495**, support: joint engagement comes before
+- **[THEORY-495](../theory.d/THEORY-495.md)**, support: joint engagement comes before
   perspective-taking, as the shared-intentionality account holds.
 - **The owner's question on the recursive reading**, a qualification: by 3
   children take another's view but do not yet confront two, so a
   three-year-old's equal split need not rest on "I expect you to expect".
   The chapter says nothing of coordination or focal points.
-- **LIT-837** (Piaget), a contrast: the three-mountains task
+- **[LIT-837](../literature.d/LIT-837.md)** (Piaget), a contrast: the three-mountains task
   underestimated children.
 
 ## Limitations

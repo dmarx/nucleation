@@ -69,10 +69,10 @@ reasoner intends each member's benefit with no larger self in play.
 <!-- inactive-ok-file: THEORY-tmpuucqv THEORY-tmp82rjz THEORY-tmpuerfk — Proposed; the accounts cited -->
 
 Three readings of 2026-11-20 test team reasoning. Bardsley, Mehta, Starmer
-and Sugden (THEORY-tmpuucqv) find it in one adult sample and
+and Sugden ([THEORY-tmpuucqv](THEORY-tmpuucqv.md)) find it in one adult sample and
 cognitive-hierarchy guessing in another; Colman, Pulford and Lawrence
-(THEORY-tmp82rjz) find level-1 reasoning dominant and team reasoning a
+([THEORY-tmp82rjz](THEORY-tmp82rjz.md)) find level-1 reasoning dominant and team reasoning a
 minority that grows with game size, and note it needs a belief that the
-other team-reasons; Perez-Zapata and colleagues (THEORY-tmpuerfk) find
+other team-reasons; Perez-Zapata and colleagues ([THEORY-tmpuerfk](THEORY-tmpuerfk.md)) find
 tacit coordination in children from 4–5. Team reasoning avoids nested
 beliefs but conditions on expecting the partner to reason alike.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpwl20t) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpwl20t](../notes.d/NOTE-tmpwl20t.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   publisher's open-access PDF.
 title: 'Interpretational Complexities in Developmental Research and a Piagetian Reading of the False-Belief Task'
@@ -32,8 +32,8 @@ summary: >-
   and other, misread by later critics as a preference for one's own view;
   before about 4.5, children switch between vantage points without
   assigning them to subjects, and passing false belief marks the other's
-  becoming an epistemically separate subject. Read in NOTE-tmpwl20t;
-  account THEORY-tmpvst9f.
+  becoming an epistemically separate subject. Read in [NOTE-tmpwl20t](../notes.d/NOTE-tmpwl20t.md);
+  account [THEORY-tmpvst9f](../theory.d/THEORY-tmpvst9f.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpvst9f — Proposed; this reading's account -->
 

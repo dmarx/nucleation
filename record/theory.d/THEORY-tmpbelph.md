@@ -16,7 +16,7 @@ promote_when: >-
   passing a level-2 colour-filter task while failing tasks that need two
   perspectives confronted.
 summary: >-
-  From the reading of LIT-tmprz3g8 in NOTE-tmpdzuru. Proposed until its
+  From the reading of [LIT-tmprz3g8](../literature.d/LIT-tmprz3g8.md) in [NOTE-tmpdzuru](../notes.d/NOTE-tmpdzuru.md). Proposed until its
   promote_when is met.
 ---
 

@@ -30,9 +30,9 @@ summary: >-
   recursive mindreading comes years later and three-year-olds do not
   coordinate tacitly on salience; it is a default the children already
   state as the norm but follow only after collaborating. Support is argued
-  in ARG-tmp3r9ay.
+  in [ARG-tmp3r9ay](../arguments.d/ARG-tmp3r9ay.md).
 ---
-<!-- inactive-ok-file: THEORY-495 THEORY-tmpqxwyk THEORY-tmpitywd THEORY-tmpj4l2c THEORY-tmpsn2t0 THEORY-tmpf3zwk THEORY-tmpjqrp3 THEORY-tmpgv0cr THEORY-tmpoak8v LIT-tmpkwxfx ARG-tmp3r9ay — Proposed or newly filed; the accounts this claim draws on and the argument for it -->
+<!-- inactive-ok-file: THEORY-495 THEORY-tmpitywd THEORY-tmpj4l2c THEORY-tmpsn2t0 THEORY-tmpf3zwk THEORY-tmpjqrp3 LIT-tmpkwxfx ARG-tmp3r9ay — Proposed or newly filed; the accounts this claim draws on and the argument for it -->
 
 # CLAIM-tmpue255: In children's equal division of jointly earned spoils, the joint "we" supplies the motive to settle the division and the equal split supplies its content as the conspicuous solution the situation affords, so the obligation reading and the coordination reading are complementary, and at age three the conspicuous split is a known default rather than a focal point found by mutual expectation
 
@@ -47,7 +47,7 @@ Schelling and Tomasello "may not be rivals at all":
 
 Two things are needed to divide jointly earned spoils equally: a reason to
 settle the division at all, and a division to settle on. On this claim the
-joint commitment of THEORY-495 supplies the first and the conspicuousness
+joint commitment of [THEORY-495](../theory.d/THEORY-495.md) supplies the first and the conspicuousness
 of the equal split, in Schelling's sense, supplies the second. Schelling
 himself joins them: "the moral force of fairness is greatly reinforced by
 the power of a" focal point (1957, pp. 211–212).
@@ -55,20 +55,20 @@ the power of a" focal point (1957, pp. 211–212).
 ## What the readings show at age three
 
 - **No mutual expectation.** Explicit first-order false belief arrives at
-  about 4 (THEORY-tmpj4l2c), second-order belief one to three years later
-  (THEORY-tmpsn2t0), and recursive mindreading is recruited for
-  coordination at 6 (THEORY-tmpjqrp3). Tomasello himself holds that
-  three-year-olds coordinate perspectives poorly (THEORY-tmpf3zwk). So at
+  about 4 ([THEORY-tmpj4l2c](../theory.d/THEORY-tmpj4l2c.md)), second-order belief one to three years later
+  ([THEORY-tmpsn2t0](../theory.d/THEORY-tmpsn2t0.md)), and recursive mindreading is recruited for
+  coordination at 6 ([THEORY-tmpjqrp3](../theory.d/THEORY-tmpjqrp3.md)). Tomasello himself holds that
+  three-year-olds coordinate perspectives poorly ([THEORY-tmpf3zwk](../theory.d/THEORY-tmpf3zwk.md)). So at
   3 the equal split cannot be a focal point reached by "I expect you to
   expect".
 - **No tacit coordination on salience.** In a coordination game without
   communication, only 5- and 8-year-olds chose the salient option above
-  chance, not 3-year-olds (LIT-tmpkwxfx, abstract); tacit coordination
-  appears from about 4–5 (THEORY-tmpuerfk).
+  chance, not 3-year-olds ([LIT-tmpkwxfx](../literature.d/LIT-tmpkwxfx.md), abstract); tacit coordination
+  appears from about 4–5 ([THEORY-tmpuerfk](../theory.d/THEORY-tmpuerfk.md)).
 - **The norm is already known.** By 3 children "state explicitly that
   equality is a norm" but with windfalls "keep more for themselves"
-  (THEORY-tmpitywd); after collaboration they split equally (THEORY-495,
-  NOTE-185).
+  ([THEORY-tmpitywd](../theory.d/THEORY-tmpitywd.md)); after collaboration they split equally ([THEORY-495](../theory.d/THEORY-495.md),
+  [NOTE-185](../notes.d/NOTE-185.md)).
 
 So at age three the conspicuous solution is best read as a default the
 child already holds, an affordance in the owner's plain sense, which the
@@ -83,4 +83,4 @@ readings of the same day).
 If equal division after collaboration does not track the joint commitment,
 the "we" is not what supplies the motive. If three-year-olds do not hold
 the equal norm before collaborating, the content is not a known default.
-The test is LEAD LEAD-tmpxakgu.
+The test is LEAD [LEAD-tmpxakgu](../leads.d/LEAD-tmpxakgu.md).

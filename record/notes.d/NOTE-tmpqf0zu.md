@@ -59,12 +59,12 @@ disequilibrium; the ingroup deviant.
 
 ## Bearing on the record
 
-- **THEORY-495**, a rival reading: Killen accepts the sharing data but
+- **[THEORY-495](../theory.d/THEORY-495.md)**, a rival reading: Killen accepts the sharing data but
   denies that the "we" suffices to ground fairness; peer conflict and
   independent judgment do. She does not engage joint commitment as such.
-- **NOTE-185**, a full statement of the Killen and Dahl objection that the
+- **[NOTE-185](NOTE-185.md)**, a full statement of the Killen and Dahl objection that the
   note records.
-- **LIT-504** and the précis registered on the base branch, a partial
+- **[LIT-504](../literature.d/LIT-504.md)** and the précis registered on the base branch, a partial
   stand-in: page-cited summaries of the book's three moralities and its
   me-you-we sequence; this commentary was listed as closed in the curation
   entry that registered the précis, and is open here.

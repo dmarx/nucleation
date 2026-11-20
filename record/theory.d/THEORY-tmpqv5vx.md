@@ -13,7 +13,7 @@ promote_when: >-
   A study finds subjects who succeed on location false-belief tasks but
   fail matched identity false-belief tasks, as the construction predicts.
 summary: >-
-  From the reading of LIT-tmp7jtyk in NOTE-tmpq433n. Proposed until its
+  From the reading of [LIT-tmp7jtyk](../literature.d/LIT-tmp7jtyk.md) in [NOTE-tmpq433n](../notes.d/NOTE-tmpq433n.md). Proposed until its
   promote_when is met.
 ---
 

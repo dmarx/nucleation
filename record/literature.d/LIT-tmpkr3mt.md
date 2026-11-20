@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpivq5d) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpivq5d](../notes.d/NOTE-tmpivq5d.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   publisher's open-access PDF.
 title: 'The primacy of social over visual perspective-taking'
@@ -32,8 +32,8 @@ summary: >-
   or said comes at least a year before level-1 visual perspective-taking,
   because joint attention builds a common ground with particular partners
   while co-presence breeds an illusion of shared perception; the lag
-  disappears at level 2 (4–5 years). Read in NOTE-tmpivq5d; account
-  THEORY-tmpvoer4.
+  disappears at level 2 (4–5 years). Read in [NOTE-tmpivq5d](../notes.d/NOTE-tmpivq5d.md); account
+  [THEORY-tmpvoer4](../theory.d/THEORY-tmpvoer4.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpvoer4 — Proposed; this reading's account -->
 

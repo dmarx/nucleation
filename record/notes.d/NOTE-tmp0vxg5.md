@@ -48,7 +48,7 @@ First- and second-order theory of mind; strategy selection; ACT-R.
 
 ## Bearing on the record
 
-- **THEORY-495 and the owner's question**, a qualification: an account of
+- **[THEORY-495](../theory.d/THEORY-495.md) and the owner's question**, a qualification: an account of
   three-year-olds' equal splitting that needs "I expect you to expect" is
   ruled out by these ages.
 

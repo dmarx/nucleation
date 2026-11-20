@@ -14,7 +14,7 @@ promote_when: >-
   Amsterdam and Nottingham results and the same two-mode conclusion, or
   another study replicates the dependence of mode on context.
 summary: >-
-  From the reading of LIT-tmpubtf4 in NOTE-tmpvfh43. Proposed until its
+  From the reading of [LIT-tmpubtf4](../literature.d/LIT-tmpubtf4.md) in [NOTE-tmpvfh43](../notes.d/NOTE-tmpvfh43.md). Proposed until its
   promote_when is met.
 ---
 

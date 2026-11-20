@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmppyrwx) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmppyrwx](../notes.d/NOTE-tmppyrwx.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   accepted manuscript in the University of Leicester's institutional
   repository (figshare article 10150418); pages are the manuscript's.
@@ -33,7 +33,7 @@ summary: >-
   level-1 cognitive hierarchy reasoning predominates, strong Stackelberg
   reasoning is frequent in smaller games and team reasoning takes a larger
   share in larger ones; most players consider several modes. Read in
-  NOTE-tmppyrwx; account THEORY-tmp82rjz.
+  [NOTE-tmppyrwx](../notes.d/NOTE-tmppyrwx.md); account [THEORY-tmp82rjz](../theory.d/THEORY-tmp82rjz.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp82rjz — Proposed; this reading's account -->
 

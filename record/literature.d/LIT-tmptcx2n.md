@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpl7udu) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpl7udu](../notes.d/NOTE-tmpl7udu.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   PsyArXiv preprint (doi 10.31234/osf.io/96hbp); the Birmingham repository
   and publisher copies were blocked. A preprint, so wording may differ
@@ -33,8 +33,8 @@ summary: >-
   Perez-Zapata, McKenzie-Smart, Charest and Apperly find that children of
   4–5 and 6–7, like adults, converge above chance on the same answers in
   pure coordination games without communication, less often than adults
-  and sometimes on different answers. Read in NOTE-tmpl7udu; account
-  THEORY-tmpuerfk.
+  and sometimes on different answers. Read in [NOTE-tmpl7udu](../notes.d/NOTE-tmpl7udu.md); account
+  [THEORY-tmpuerfk](../theory.d/THEORY-tmpuerfk.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpuerfk — Proposed; this reading's account -->
 

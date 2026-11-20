@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpxulty) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpxulty](../notes.d/NOTE-tmpxulty.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   open-access full text in Europe PMC (CC BY-NC-ND), fetched as XML
-  through Europe PMC's documented interface (ADR-101).
+  through Europe PMC's documented interface ([ADR-101](../decisions.d/ADR-101.md)).
 title: 'How children come to understand false beliefs: A shared intentionality account'
 version: 1
 history:
@@ -34,7 +34,7 @@ summary: >-
   competition, while older children understand false belief by
   coordinating conflicting perspectives, including an objective one, in
   joint attention and conversation, through shared intentionality. Read in
-  NOTE-tmpxulty; account THEORY-tmpf3zwk.
+  [NOTE-tmpxulty](../notes.d/NOTE-tmpxulty.md); account [THEORY-tmpf3zwk](../theory.d/THEORY-tmpf3zwk.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpf3zwk — Proposed; this reading's account -->
 

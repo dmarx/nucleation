@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-20 (NOTE-tmpqf0zu) for the owner's question whether
+  Read on 2026-11-20 ([NOTE-tmpqf0zu](../notes.d/NOTE-tmpqf0zu.md)) for the owner's question whether
   three-year-olds' equal sharing can rest on mutual expectation. Copy: the
   publisher's PDF in the NSF Public Access Repository.
 title: 'The origins of morality: Social equality, fairness, and justice'
@@ -33,7 +33,7 @@ summary: >-
   not sufficient: independent judgments of fairness exist from early
   childhood alongside group-minded cooperation, and Piaget's peer
   conflict, not collaboration alone, drives moral change. Read in
-  NOTE-tmpqf0zu; account THEORY-tmpgv0cr.
+  [NOTE-tmpqf0zu](../notes.d/NOTE-tmpqf0zu.md); account [THEORY-tmpgv0cr](../theory.d/THEORY-tmpgv0cr.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpgv0cr — Proposed; this reading's account -->
 
