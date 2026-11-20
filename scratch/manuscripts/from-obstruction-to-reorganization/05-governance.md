@@ -9,7 +9,7 @@ The record holds 114 decision records: 70 Active, 37 Proposed, 5 Superseded, 1 D
 - **ADR-071.** Each logical unit of work gets its own branch and pull request, and a decision travels with its first application. A reviewer therefore judges a rule by what it does.
 - **ADR-072.** The second-occurrence rule applies to process: a decision or principle is written when its occasion recurs.
 
-Thirty-seven decisions are still Proposed although their changes are in force. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§6.1) therefore codes ratification separately from status.
+Thirty-seven decisions are still Proposed. The census codes 26 of them as applied, and the remaining 11 as undeterminable from the decision itself. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§6.1) therefore codes ratification separately from status.
 
 ### 7.2 Reviewing the argument, from October
 
@@ -47,7 +47,7 @@ Compiling a norm has a cost. CASE-131 records a link fixer writing a dependency 
 
 ### 7.4 POSTMORTEM, and one complete cycle
 
-Two decisions of 19–20 November, both Proposed, made review of the grammar's changes a record type:
+Two decisions of 20 November, both Proposed, made review of the grammar's changes a record type:
 
 - **ADR-112** created POSTMORTEM, which `reviews` decisions and names those its recommendations `prompted`.
 - **ADR-110** set six triggers for one: a schema change in use, a batch of five or more pull requests, a bulk filing, a decision revised soon after landing, a process incident, and the owner's request. Each is counted in use or in sessions, not by the calendar. The owner "expects this to be superseded".

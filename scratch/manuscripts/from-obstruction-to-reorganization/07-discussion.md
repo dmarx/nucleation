@@ -45,7 +45,7 @@ Could an assistant detect when the grammar needs changing, without being asked? 
 | One word, several senses | Repeated reports of a missing word; one tag carrying senses that readings keep apart | `self-and-personhood` (ADR-024), `learning-theory` (ADR-036) |
 | A line made of separate inquiries | Relations dense within candidate parts and sparse across them | 25 within, 8 out, 3 in (ADR-082) |
 
-One of these is already a tool: `scratch/formal/line_parts.py` (ADR-083) has driven five splits. The others are sketches.
+One of these is already a tool: `scratch/formal/line_parts.py` (ADR-083) has driven four splits. The others are sketches.
 
 Four limits apply to all of them:
 

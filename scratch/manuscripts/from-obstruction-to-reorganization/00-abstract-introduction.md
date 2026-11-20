@@ -10,7 +10,7 @@ Arguments developed across many sessions with AI collaborators who keep no memor
 
 We read the grammar as part of the inquiry, using the record's own account of inquiry as specification. Changing the grammar is then the inquiry acting on its own regime: refining it by adding distinctions, or revising what counts as an answer, a criterion or a unit of inquiry.
 
-We then study one record, Nucleation, kept with the Luria tool over its first eight weeks (25 September to 20 November 2026). It grew from 214 to over 10,000 files and from five to thirteen schemes. Every one of its 114 decisions was coded against a fixed codebook, with a second coder on a random 30 (κ 0.81–1.00 on the fields used).
+We then study one record, Nucleation, kept with the Luria tool over its first eight weeks (25 September to 20 November 2026). It grew from 214 to over 10,000 files and from five to thirteen schemes. Every one of its 114 decisions was coded against a fixed codebook, with a second coder on a random 30. Agreement was κ 0.81–1.00 on whether a change was a refinement or a revision and on who noticed, proposed, decided and ratified it, and κ 0.65 on the form a misfit took.
 
 Eighty-eight decisions changed the grammar: 62 refinements, 25 revisions and one act of restraint. In most changes made in answer to a misfit, the misfit had first been forced into the nearest category or kept in free text. An audit of all 34 rewordings and removals of vocabulary terms finds two things. Every one came with a decision, and entries were carried through whenever they had to move. When only a term's meaning changed, the 237 entries carrying it were not revisited. Grammar changes migrated 2,664 entries, and ten caused errors that the record later found.
 

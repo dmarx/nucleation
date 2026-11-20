@@ -19,7 +19,7 @@
 
 - **Agreement.** Agreement between coders was high on the fields the argument uses (κ 0.81–1.00), moderate on the form of the misfit (0.65) and low on outcome (0.38), which is not used.
 - **One model.** All five coders were instances of one model. Their agreement may partly reflect shared bias, so a human coder is needed.
-- **Missing records.** Thirty-one decisions do not record who decided. The census codes these as unknown rather than guessing.
+- **Missing records.** Thirty-one of the 88 grammar changes, and 42 of all 114 decisions, do not record who decided. The census codes these as unknown rather than guessing.
 
 **External validity.**
 

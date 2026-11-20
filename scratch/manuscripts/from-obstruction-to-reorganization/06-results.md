@@ -39,7 +39,7 @@ ADR-049 is the cleanest instance of CLAIM-470's distinctive clause: an inquiry r
 
 The term-change audit read every commit to `luria.yaml` across the whole history and found 34 events: 25 term declarations reworded and 9 terms removed.
 
-- **Every event came with a decision record in the same unit of work** (34 of 34).
+- **Every event came with a decision record in the same unit of work** (34 of 34). One event's unit is a single commit, not a pull request.
 - **Removals were carried through.** In every removal whose term was in use, every carrying entry was changed in the same unit:
 
   | Term removed | Carrying entries changed |
@@ -51,8 +51,8 @@ The term-change audit read every commit to `luria.yaml` across the whole history
   | `hypothesis` (SYNTHESIS route) | 9 of 9 |
   | `derived` | 3 of 3 |
 
-- **Splits moved the entries that moved.** `Deferred`: 177 of 345, exactly the entries reassigned. `ecology` lost `endosymbiosis`: 13 of 50. Each split line moved the entries its decision named.
-- **Widening needed no re-reading, and got none.** `learning-theory` was widened by ADR-036, and 1 of its 92 carrying entries was touched. A widened word still holds every entry that held it before.
+- **Splits moved the entries that moved.** `Deferred`: 177 of 345, exactly the entries reassigned. `ecology` lost `endosymbiosis`: 13 of 50. Each line split moved at least the entries its decision named. The audit counts slightly more entries touched than each decision names, for example 44 against 43, because entries are touched for other reasons in the same unit.
+- **Widening needed no re-reading, and got almost none.** `learning-theory` was widened by ADR-036, and 1 of its 92 carrying entries was touched. A widened word still holds every entry that held it before.
 - **One redefinition in place was not carried through.** ADR-048 changed what `anthology-candidate` means, from "this work's filing here is in doubt" to "the anthology may want this work as well". None of the 237 entries carrying it was touched. The decision announced the change, but nothing located it in the entries. A reader of an old flag today reads it under a meaning it was not written with.
 
 There is a second failure, of a different kind (§7.5). A correction to a postmortem's body did not reach its summary, and the generated view propagated the uncorrected summary.
@@ -90,7 +90,7 @@ Ratification did not become steadily less explicit either. No owner involvement 
 
 **What did change was who, other than the owner, did the noticing.**
 
-- **Early.** Most needs were noticed by *filing agents*, subagents reading a batch of works who found no word for what they read. These were refinements: 18 of the 20 changes filing agents noticed. Most were vocabulary terms, added under the owner's standing permission or with no recorded approval.
+- **Early.** Most needs were noticed by *filing agents*, subagents reading a batch of works who found no word for what they read. These were refinements: 18 of the 20 changes filing agents noticed. Most were vocabulary terms. Half were approved explicitly (10 of 20); the rest had no recorded approval (8) or came under a standing permission (2).
 - **Late.** Most needs were noticed by *review procedures*: status reviews, synthesis reviews, reading reviews and postmortems. These are run by assistants, to procedures the owner asked for and set up. They noticed revisions as well as refinements: 8 of their 20.
 - **Throughout.** Revisions were noticed by the owner (13) or by a procedure (8), almost never by an assistant working unprompted (1) or by a filing agent (2).
 

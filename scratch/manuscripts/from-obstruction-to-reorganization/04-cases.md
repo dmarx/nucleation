@@ -33,7 +33,7 @@ The low κ on outcome comes from a convention the codebook left open: coders spl
 Revision is not rare: it makes up 28% of grammar changes. It is concentrated in the middle period. The level at which changes happened moved over the eight weeks:
 
 - **Early:** vocabularies and their terms, in 35 of 43 decisions.
-- **Middle:** statuses, lint patterns and relations.
+- **Middle:** vocabularies still (8 of 20), then lint patterns, relations and statuses.
 - **Late:** relations (13 of 25), fields, views and lines.
 
 **Who noticed.** The table shows who noticed the need for each grammar change.
@@ -56,11 +56,11 @@ Who noticed depends strongly on the kind of change:
 **Ratification.** Of the 88 changes:
 
 - 48 record the owner's approval of that change;
-- 6 cite a standing permission ("The owner authorised extending the vocabulary as the record sees fit", ADR-031);
+- 6 cite a standing permission ("The owner authorised extending the vocabulary as the record sees fit", ADR-034);
 - 4 were ratified only by merging, or by a review procedure the owner had delegated ("merging it is the assent");
 - 30 record no owner involvement at all.
 
-The owner is the decider in 49 changes and an assistant in 6. The decider is not stated in 31.
+The owner is the decider in 49 changes, an assistant in 6 and a review procedure in 2. The decider is not stated in 31.
 
 **Costs and errors.** Fifty-eight changes state how many existing entries they migrated: 2,664 in all, median 6. Ten grammar changes were followed by a recorded error that the change caused (§6.9). Four were undone within days (ADR-015 in part, ADR-076, ADR-077, ADR-080).
 
@@ -110,13 +110,13 @@ Among the 766 claims on 20 November:
 
 Thirty-nine Proposed claims are demonstrated, and 185 Active ones are interpretive, so how a claim is supported and whether it is accepted vary independently. This change also caused an error later. Two readings of `warrant` were in use, and one batch relabelled a claim on the reading the owner then rejected (version 2, 19 October).
 
-### 6.4 Refinement of an answer space, done twice: Deferred, Unavailable, Unfetched (ADR-041, ADR-053)
+### 6.4 Revision of an answer space, done twice: Deferred, Unavailable, Unfetched (ADR-041, ADR-053)
 
 *Revision of a status vocabulary; noticed by the owner.*
 
 `Deferred` on a LIT held two situations: not yet tried, and tried without reaching a lawful copy. On 13 October, 177 of the 345 Deferred LITs carried a free-text note of a failed search. The distinction existed only in prose, and ADR-041 moved those 177 to a new status, `Unavailable`. It declined a further split, between "no lawful copy found" and "found but not fetchable by this client", because "eight entries do not justify a sixth status".
 
-On 25 October the owner supplied two such works by hand and asked for a status for "content that would be easy for me to access where you encountered obstacles". ADR-053 found **43** such entries, not eight. It also argued from an asymmetry of cost: clearing such an entry means only that the owner supplies a copy. So it added `Unfetched`, and made the owner's queue a generated page. Both a larger count and a change in what the distinction was for led to the reversal of ADR-041's restraint. Today 2,115 LITs are Active, 531 Unavailable, 179 Unfetched and 58 Deferred.
+On 25 October the owner supplied two such works by hand and asked for a status for "content that would be easy for me to access where you encountered obstacles". ADR-053 found **43** such entries, not eight. It also argued from an asymmetry of cost: clearing such an entry means only that the owner supplies a copy. So it added `Unfetched`, and made the owner's queue a generated page. Both a larger count and a change in what the distinction was for led to the reversal of ADR-041's restraint. Today 2,114 LITs are Active, 531 Unavailable, 179 Unfetched and 58 Deferred.
 
 ### 6.5 Revision of a boundary: CLAIM and ARG (ADR-032, ADR-061)
 
@@ -140,7 +140,7 @@ On 8 November the owner asked what the admitted syntheses added. ADR-084 withdre
 
 A *line* names the inquiry an entry belongs to. When the record tried to write an account of the `nucleating-argument` line, the account fell into five parts. Three were densely linked to one another, and two were not. "What a record of a developing argument keeps" had 25 relations inside it, 8 going out and 3 coming in.
 
-ADR-083 turned the observation into a rule, and `scratch/formal/line_parts.py` into a tool: it counts stored relations within and across a line's candidate parts. Five lines have since been split:
+ADR-083 turned the observation into a rule, and `scratch/formal/line_parts.py` into a tool: it counts stored relations within and across a line's candidate parts. Four lines have since been split:
 
 - `nucleating-argument` in three (ADR-082, 43 entries);
 - `readiness` (ADR-087, 30 entries; 69 of 79 relations within parts);
