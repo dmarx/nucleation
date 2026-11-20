@@ -4,7 +4,7 @@
 
 **moral-psychology**.
 
-50 of 2178 NOTE documents. Back to the [full index](../README.md).
+51 of 2179 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -58,3 +58,4 @@
 | [NOTE-2053](../../../record/notes.d/NOTE-2053.md) | King — Two Faces of Desert | Watson's attributability carries desert as fittingness and his accountability desert as fairness, which depends on the blamer's standing and on the agent's opportunity to avoid sanction; neither notion of desert extends to the other face, so the two faces come apart further. King quotes Watson 1996 by page throughout. | Read |
 | [NOTE-2058](../../../record/notes.d/NOTE-2058.md) | Strawson — Freedom and Resentment | Holding responsible consists in the participant reactive attitudes, which rest on a demand for goodwill or regard; excusing pleas leave the agent a full participant, exempting pleas invite the objective attitude, and a general thesis of determinism neither does nor could rationally undermine the framework. | Read |
 | [NOTE-2065](../../../record/notes.d/NOTE-2065.md) | Stern — Darwall on Second-Personal Ethics | Darwall's account, as Stern sketches it: moral obligation consists in what persons have legitimate authority to demand of one another, not in actual demands, and better guidance does not make authority. Stern objects that obligations to aid a sufferer need no second-personal demand, so wronging may suffice for obligation. | Read |
+| [NOTE-2179](../../../record/notes.d/NOTE-2179.md) | Alexander — A Biological Interpretation of Moral Systems | Moral systems as indirect reciprocity: conflicts of reproductive interest, softened by nepotism and reciprocity, with returns from observers rather than the person helped. Selects for conscience, self-deception and indiscriminate altruism as social investment; practised morality is in-group cohesion. Verbal model, individual-level selection. Stand-in for the 1987 book. | Read |

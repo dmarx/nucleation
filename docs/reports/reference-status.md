@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1042 documents cited without acknowledgement.** Not listed: 35606 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1045 documents cited without acknowledgement.** Not listed: 35616 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3872,6 +3872,27 @@ A macro feature can supervene on a system's present state and still carry inform
 - [`record/theory.d/THEORY-707.md:80`](../../record/theory.d/THEORY-707.md)
 - [`record/theory.d/THEORY-712.md:86`](../../record/theory.d/THEORY-712.md)
 
+### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
+
+A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
+
+14 citations in 14 files await a look; 6 other citations of it are acknowledged.
+
+- [`.claude/skills/read-and-file/SKILL.md:175`](../../.claude/skills/read-and-file/SKILL.md)
+- [`record/decisions.d/ADR-110.md:90`](../../record/decisions.d/ADR-110.md)
+- [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
+- [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
+- [`record/notes.d/NOTE-2169.md:16`](../../record/notes.d/NOTE-2169.md)
+- [`record/notes.d/NOTE-2170.md:17`](../../record/notes.d/NOTE-2170.md)
+- [`record/notes.d/NOTE-2171.md:19`](../../record/notes.d/NOTE-2171.md)
+- [`record/notes.d/NOTE-2173.md:17`](../../record/notes.d/NOTE-2173.md)
+- [`record/notes.d/NOTE-2174.md:16`](../../record/notes.d/NOTE-2174.md)
+- [`record/notes.d/NOTE-2175.md:16`](../../record/notes.d/NOTE-2175.md)
+- [`record/notes.d/NOTE-2176.md:18`](../../record/notes.d/NOTE-2176.md)
+- [`record/notes.d/NOTE-2177.md:18`](../../record/notes.d/NOTE-2177.md)
+- [`record/notes.d/NOTE-2178.md:18`](../../record/notes.d/NOTE-2178.md)
+- [`record/notes.d/NOTE-2179.md:18`](../../record/notes.d/NOTE-2179.md)
+
 ### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Proposed
 
 Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
@@ -4060,26 +4081,6 @@ Emotion categories are populations of variable instances grouped by the perceive
 - [`record/questions.d/QUESTION-044.md:54`](../../record/questions.d/QUESTION-044.md)
 - [`record/questions.d/QUESTION-360.md:59`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:95`](../../record/terms.d/TERM-098.md)
-
-### [ADR-108](../../record/decisions.d/ADR-108.md) — Proposed
-
-A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed
-
-13 citations in 13 files await a look; 6 other citations of it are acknowledged.
-
-- [`.claude/skills/read-and-file/SKILL.md:175`](../../.claude/skills/read-and-file/SKILL.md)
-- [`record/decisions.d/ADR-110.md:90`](../../record/decisions.d/ADR-110.md)
-- [`record/notes.d/NOTE-2167.md:18`](../../record/notes.d/NOTE-2167.md)
-- [`record/notes.d/NOTE-2168.md:16`](../../record/notes.d/NOTE-2168.md)
-- [`record/notes.d/NOTE-2169.md:16`](../../record/notes.d/NOTE-2169.md)
-- [`record/notes.d/NOTE-2170.md:17`](../../record/notes.d/NOTE-2170.md)
-- [`record/notes.d/NOTE-2171.md:19`](../../record/notes.d/NOTE-2171.md)
-- [`record/notes.d/NOTE-2173.md:17`](../../record/notes.d/NOTE-2173.md)
-- [`record/notes.d/NOTE-2174.md:16`](../../record/notes.d/NOTE-2174.md)
-- [`record/notes.d/NOTE-2175.md:16`](../../record/notes.d/NOTE-2175.md)
-- [`record/notes.d/NOTE-2176.md:18`](../../record/notes.d/NOTE-2176.md)
-- [`record/notes.d/NOTE-2177.md:18`](../../record/notes.d/NOTE-2177.md)
-- [`record/notes.d/NOTE-2178.md:18`](../../record/notes.d/NOTE-2178.md)
 
 ### [ARG-036](../../record/arguments.d/ARG-036.md) — Proposed
 
@@ -4697,7 +4698,7 @@ An operator framework flexible enough to redescribe any dynamical process explai
 
 Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies
 
-10 citations in 3 files await a look; 86 other citations of it are acknowledged.
+10 citations in 3 files await a look; 87 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-018.md:22`](../../record/decisions.d/ADR-018.md)
 - [`record/decisions.d/ADR-018.md:50`](../../record/decisions.d/ADR-018.md)
@@ -7427,7 +7428,7 @@ The feeling of fluency is an inference about the precision of one's own processi
 
 Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them
 
-5 citations in 5 files await a look; 5 other citations of it are acknowledged.
+5 citations in 5 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:124`](../../record/claims.d/CLAIM-039.md)
 - [`record/theory.d/THEORY-408.md:115`](../../record/theory.d/THEORY-408.md)
@@ -12771,6 +12772,14 @@ On Social Facts
 
 - [`record/literature.d/LIT-1686.md:54`](../../record/literature.d/LIT-1686.md)
 
+### [LIT-504](../../record/literature.d/LIT-504.md) — Unavailable
+
+A Natural History of Human Morality
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2179.md:145`](../../record/notes.d/NOTE-2179.md)
+
 ### [LIT-509](../../record/literature.d/LIT-509.md) — Proposed
 
 Moral Molecules: Morality as a Combinatorial System
@@ -12786,6 +12795,14 @@ Moral universals: A machine-reading analysis of 256 societies
 1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-653.md:84`](../../record/theory.d/THEORY-653.md)
+
+### [LIT-514](../../record/literature.d/LIT-514.md) — Unavailable
+
+Moral Origins: The Evolution of Virtue, Altruism, and Shame
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-2179.md:145`](../../record/notes.d/NOTE-2179.md)
 
 ### [LIT-546](../../record/literature.d/LIT-546.md) — Unavailable
 
@@ -13730,6 +13747,14 @@ Kuhn, as Kindi reads his 1959 essay, holds that innovation in a mature science d
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2885.md:42`](../../record/literature.d/LIT-2885.md)
+
+### [THEORY-2097](../../record/theory.d/THEORY-2097.md) — Proposed
+
+Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-2886.md:45`](../../record/literature.d/LIT-2886.md)
 
 ### [THEORY-221](../../record/theory.d/THEORY-221.md) — Proposed
 

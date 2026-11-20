@@ -4,7 +4,7 @@
 
 **natural-sciences**.
 
-243 of 2178 NOTE documents. Back to the [full index](../README.md).
+244 of 2179 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -251,3 +251,4 @@
 | [NOTE-2115](../../../record/notes.d/NOTE-2115.md) | Rudner and others 2013 — Anomalous edge states and the bulk-edge correspondence for periodically-driven two dimensional systems |  | Read |
 | [NOTE-2124](../../../record/notes.d/NOTE-2124.md) | Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors |  | Skimmed |
 | [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |
+| [NOTE-2179](../../../record/notes.d/NOTE-2179.md) | Alexander — A Biological Interpretation of Moral Systems | Moral systems as indirect reciprocity: conflicts of reproductive interest, softened by nepotism and reciprocity, with returns from observers rather than the person helped. Selects for conscience, self-deception and indiscriminate altruism as social investment; practised morality is in-group cohesion. Verbal model, individual-level selection. Stand-in for the 1987 book. | Read |

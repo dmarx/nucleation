@@ -101,7 +101,7 @@ reduction to a single threshold. None of the five does.
 
 ## Note of 2026-11-20: Alexander 1985, read
 
-Alexander's own statement ([LIT-tmp629tl](../literature.d/LIT-tmp629tl.md), read in [NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md)) bears out
+Alexander's own statement ([LIT-2886](../literature.d/LIT-2886.md), read in [NOTE-2179](../notes.d/NOTE-2179.md)) bears out
 the credit this reading gives him: "The essence of moral systems seems to
 lie in patterns of indirect reciprocity" (p. 10). Two differences: his
 indirect reciprocity is a verbal model with no rule like q > c/b, and it

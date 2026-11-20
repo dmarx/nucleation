@@ -5,16 +5,16 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1929 document(s) awaiting a decision, 42 undated.**
+**1930 document(s) awaiting a decision, 42 undated.**
 
 ## LITs
 
-90 of the 1929.
+90 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-11-12 | Deferred | [LIT-2380](../../record/literature.d/LIT-2380.md) | 1 | 5 | 0 | Pathogen infection induces sickness behaviors through neuromodulators linked to stress and satiety in C. elegans |
-| 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 0 | 96 | 10 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
+| 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 0 | 97 | 10 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
 | 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 0 | 61 | 8 | Adding causality to the information-theoretic perspective on individuality |
 | 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 0 | 42 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
 | 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 0 | 22 | 0 | The Computational Foundations of Collective Intelligence |
@@ -106,7 +106,7 @@
 
 ## THEORYs
 
-1155 of the 1929.
+1156 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -404,11 +404,11 @@
 | 2026-10-16 | Proposed | [THEORY-485](../../record/theory.d/THEORY-485.md) | 0 | 11 | 0 | Wave-function realism falsifies causal closure restricted to spacetime but is compatible with closure relative to fundamental physics, so quantum ontology opens no causal gap for non-physical causes; what it forces on the physicalist is a criterion of the physical and a bridge from dynamical to causal completeness |
 | 2026-10-16 | Proposed | [THEORY-554](../../record/theory.d/THEORY-554.md) | 0 | 11 | 0 | On the grounds of moral standing now commonly accepted, together with scientific premises that are not unreasonable, the aggregate interests of insects or the interests of near-future AI could outweigh humanity's; no capacity yet proposed secures human priority, and the books that state those grounds retreat to moderate advice without a principle that supplies the stopping point |
 | 2026-10-16 | Proposed | [THEORY-565](../../record/theory.d/THEORY-565.md) | 0 | 11 | 0 | From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled |
+| 2026-10-16 | Proposed | [THEORY-663](../../record/theory.d/THEORY-663.md) | 0 | 11 | 5 | Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them |
 | 2026-10-16 | Proposed | [THEORY-443](../../record/theory.d/THEORY-443.md) | 0 | 10 | 0 | Being a biological individual is not being an organism: evolutionary (Darwinian) individuality and physiological individuality come apart, and each is found among parts of organisms and groups of organisms as well as among organisms, so a part or a group can be an individual of one kind and not the other |
 | 2026-10-16 | Proposed | [THEORY-500](../../record/theory.d/THEORY-500.md) | 0 | 10 | 3 | Ventromedial prefrontal cortex stores links between kinds of situation and the body states they produced, and re-enacting those states when an option is imagined marks it good or bad, overtly as a feeling or covertly as a bias, pruning the options before reasoning weighs them; without the marks, choice under uncertainty fails despite intact knowledge and intellect |
 | 2026-10-16 | Proposed | [THEORY-532](../../record/theory.d/THEORY-532.md) | 0 | 10 | 0 | Systems pushed from equilibrium develop structures that degrade the applied gradient faster, and living systems and maturing ecosystems are such structures, continuous with convection cells and vortices, so the second law is a necessary but not a sufficient condition for life |
 | 2026-10-16 | Proposed | [THEORY-604](../../record/theory.d/THEORY-604.md) | 0 | 10 | 0 | Most mathematical dualities are adjunctions between one category and the opposite of another, which become dual equivalences on their fixed points; what makes them dualities rather than equivalences is the reversal of arrows, so many of the 'dualities' physicists name are, in the mathematician's sense, equivalences or symmetries |
-| 2026-10-16 | Proposed | [THEORY-663](../../record/theory.d/THEORY-663.md) | 0 | 10 | 5 | Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them |
 | 2026-10-16 | Proposed | [THEORY-453](../../record/theory.d/THEORY-453.md) | 0 | 9 | 0 | Basic physical objects can be nothing beyond the bearers of their relations: relations give them identity conditions wherever they discern them, and where nothing discerns them, as with entangled systems of one kind or points of a symmetric space-time, a primitive numerical diversity that is not a thisness suffices; general relativity's tensor and fibre-bundle formulations fit this reading but do not require it |
 | 2026-10-16 | Proposed | [THEORY-476](../../record/theory.d/THEORY-476.md) | 0 | 9 | 1 | If continuant persons are maximal aggregates of person-stages interrelated by the psychological relation R, then the relation of belonging to one person is R itself, so Parfit's premises do not show that identity is not what matters; the price is that persons overlap in fission and are counted by a relation weaker than identity |
 | 2026-10-16 | Proposed | [THEORY-563](../../record/theory.d/THEORY-563.md) | 0 | 9 | 0 | Consciousness is a real pattern in the brain's content-bearing states, a description that trades predictive accuracy for compression, and so coarse that describing the brain through it is metaphor; on that reading there is no Cartesian theatre, whether a given content was conscious can lack an answer when two descriptions compress and predict equally, and first-person reports are fallible as literal descriptions of the brain but authoritative as an author's |
@@ -1226,6 +1226,7 @@
 | 2026-11-19 | Proposed | [THEORY-2020](../../record/theory.d/THEORY-2020.md) | 0 | 2 | 0 | Javed and White show that a representation meta-trained by differentiating through online SGD updates on correlated streams (OML), then frozen beneath a small online-learned predictor, lets that predictor learn sequential regression and classification tasks with far less forgetting than pre-trained or sparsity-trained representations, and that such representations come out highly sparse with no dead units. |
 | 2026-11-19 | Proposed | [THEORY-2085](../../record/theory.d/THEORY-2085.md) | 0 | 2 | 0 | The owner hypothesizes that a text-to-image model learns a named identity in phases, from domination by biases carried by parts of the name, through stabilized coarse attributes, to a unique identity it can apply flexibly, and then to overfitting, and that giving an identity its own concept direction is a detectable change in the weights |
 | 2026-11-19 | Proposed | [THEORY-2036](../../record/theory.d/THEORY-2036.md) | 0 | 0 | 0 | Miyato and colleagues build network layers from unit vectors on a sphere updated by a generalised Kuramoto rule with a data-dependent symmetry-breaking bias, and report that the bias and norm-based readouts are needed for stable training |
+| 2026-11-20 | Proposed | [THEORY-2097](../../record/theory.d/THEORY-2097.md) | 0 | 2 | 1 | Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others |
 | undated | Proposed | [THEORY-1931](../../record/theory.d/THEORY-1931.md) | 0 | 16 | 0 | The Hong Kong Monetary Authority proposes that agentic AI in banking be governed by authority defined in advance and technically enforced, with human oversight counted only where it is effective: a formal approval step is not oversight when the volume or velocity of actions outruns review, intervention must be designed around detection, decision and stopping time so that it comes before harm becomes irreversible, and where oversight cannot keep pace the agent's authority, scope or velocity should be reduced |
 | undated | Proposed | [THEORY-1947](../../record/theory.d/THEORY-1947.md) | 0 | 16 | 0 | Citron argues that automated administrative decision systems merge adjudication and rulemaking while observing the procedures of neither: programmers make unreviewed rules when they translate policy into code, and opacity, missing notice and audit trails and automation bias in human reviewers leave individuals without a meaningful hearing, which she proposes to restore by technological due process |
 | undated | Proposed | [THEORY-1946](../../record/theory.d/THEORY-1946.md) | 0 | 15 | 0 | Rubel, Castro and Pham argue that agency laundering is a distinct wrong of accountability: an agent responsible for a domain makes a process, person or technology partly causally responsible for outcomes in it, ascribes it morally relevant qualities, and so obscures its own causal role and forestalls others' demands for an account, a wrong possible while the agent meets its substantive role responsibilities and one that ordinary algorithm use need not commit |
@@ -1268,7 +1269,7 @@
 
 ## ADRs
 
-37 of the 1929.
+37 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1303,7 +1304,7 @@
 | 2026-11-18 | Proposed | [ADR-103](../../record/decisions.d/ADR-103.md) | 0 | 1 | 0 | A line rightful-power is added beside dependence-and-domination and organizational-normativity, without moving any entry out of them: its root questions carry it first, and an entry carries it when it takes part in its argument |
 | 2026-11-18 | Proposed | [ADR-105](../../record/decisions.d/ADR-105.md) | 0 | 0 | 0 | Docs runs on pushes to the default branch wait for one another and are never cancelled: one concurrency group serializes view generation, so two merges minutes apart no longer race |
 | 2026-11-19 | Proposed | [ADR-106](../../record/decisions.d/ADR-106.md) | 0 | 21 | 16 | A work cost-structure-of-possibility is added for the owner's manuscript from the exchange Topological protection explained: a claim is a member when the manuscript or an addition offered for it states the claim's proposition or uses it as a step |
-| 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 19 | 13 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
+| 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 20 | 14 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
 | 2026-11-19 | Proposed | [ADR-109](../../record/decisions.d/ADR-109.md) | 0 | 14 | 2 | The record keeps its research opportunities as LEADs, plans to advance a question or claim by any method, with a status for whether each is still worth following and a stage for how far it is worked out; and a question may presuppose another |
 | 2026-11-20 | Proposed | [ADR-113](../../record/decisions.d/ADR-113.md) | 0 | 6 | 0 | Anything a course page hosts counts as a lawful copy to read, whole in-copyright books included |
 | 2026-11-20 | Proposed | [ADR-110](../../record/decisions.d/ADR-110.md) | 0 | 3 | 1 | A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded |
@@ -1312,7 +1313,7 @@
 
 ## QUESTIONs
 
-6 of the 1929.
+6 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1325,7 +1326,7 @@
 
 ## CLAIMs
 
-323 of the 1929.
+323 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1655,7 +1656,7 @@
 
 ## CASEs
 
-106 of the 1929.
+106 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1768,7 +1769,7 @@
 
 ## TERMs
 
-36 of the 1929.
+36 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1811,7 +1812,7 @@
 
 ## ARGs
 
-79 of the 1929.
+79 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1897,7 +1898,7 @@
 
 ## SYNTHESISs
 
-97 of the 1929.
+97 of the 1930.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|

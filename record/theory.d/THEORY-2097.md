@@ -1,9 +1,12 @@
 ---
+number: 2097
 status: Proposed
+formerly:
+- THEORY-tmp5lj70
 title: 'Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers'' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others'
 version: 1
 source:
-- LIT-tmp629tl
+- LIT-2886
 tags:
 - moral-psychology
 - natural-sciences
@@ -18,13 +21,13 @@ promote_when: >-
   it as self-sacrifice; practised morality is in-group cohesion that may
   be directed against other groups.
 summary: >-
-  From the reading of [LIT-tmp629tl](../literature.d/LIT-tmp629tl.md) in [NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md), a stand-in for the
+  From the reading of [LIT-2886](../literature.d/LIT-2886.md) in [NOTE-2179](../notes.d/NOTE-2179.md), a stand-in for the
   book [LIT-495](../literature.d/LIT-495.md). A verbal model at the level of individual selection.
   Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: LIT-495 — Unfetched; the book this account is meant to stand for -->
 
-# THEORY-tmp5lj70: Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others
+# THEORY-2097: Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others
 
 ## The account
 

@@ -130,8 +130,8 @@ things qualify the claim.
 
 ## Note of 2026-11-20: Alexander 1985, read
 
-An illustration, by analogy: Alexander ([LIT-tmp629tl](../literature.d/LIT-tmp629tl.md), read in
-[NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md)) holds that morality arose "as a force leading to
+An illustration, by analogy: Alexander ([LIT-2886](../literature.d/LIT-2886.md), read in
+[NOTE-2179](../notes.d/NOTE-2179.md)) holds that morality arose "as a force leading to
 cohesiveness within human groups but specifically excluding and directed
 against other human groups" (p. 3), so cooperation within groups trades
 against the coexistence of groups, and he reaches this without group

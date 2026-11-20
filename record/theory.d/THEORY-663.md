@@ -120,7 +120,7 @@ before the account and for other purposes.
 
 ## Note of 2026-11-20: Alexander 1985, read
 
-Alexander ([LIT-tmp629tl](../literature.d/LIT-tmp629tl.md), read in [NOTE-tmpnkurw](../notes.d/NOTE-tmpnkurw.md)) credits this paper with
+Alexander ([LIT-2886](../literature.d/LIT-2886.md), read in [NOTE-2179](../notes.d/NOTE-2179.md)) credits this paper with
 the idea he calls indirect reciprocity, under Trivers's name "generalized
 reciprocity" (note 3, p. 18), and cites it for the cost condition and for
 self-deception (pp. 12–13). Background: it confirms the record's reading
