@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpeb6u7
 title: 'Run the suppressed-against-removed capability study with a benign sleeper-agent stand-in'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Show whether action readiness with control precedence can be had without hedonic valence, reading Veit first-hand'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 - reading

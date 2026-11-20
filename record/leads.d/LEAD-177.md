@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpvo4ci
 title: 'Construct systems with identical sensory correlations but different memory persistence, downstream use and adaptive capacity, starting with a forager that learns its own failure criteria'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - formal
 - empirical

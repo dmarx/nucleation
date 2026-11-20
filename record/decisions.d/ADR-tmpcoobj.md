@@ -1,0 +1,109 @@
+---
+status: Proposed
+title: 'LEADs get a priority for triage and a blocked_on note; the stage ladder separates a specified design from a costed one; a lead may advance a reading or a term as well as a question or claim; and derived converses are stated as computed, not stored'
+version: 1
+tags:
+- record
+- taxonomy
+date: '2026-11-20'
+summary: >-
+  Carries out recommendations 1 to 5 of [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md), the review of
+  [ADR-109](ADR-109.md) after the backlog audit filed 184 leads. A `priority` (high,
+  medium, low) for triage, backfilled from the audit's ratings (59 high,
+  125 medium). The stage `specified` no longer needs a cost, which no
+  source gave; a new stage `costed` holds what does; 53 leads whose design
+  is in a CASE move from idea to specified, and one to costed. A plain
+  `blocked_on` field says what a lead waits on that the record cannot do;
+  two reading leads carry one. `advances` may name a THEORY (a replication
+  that would meet its promote_when) or a TERM (the operationalization it
+  waits on), with `advanced_by` derived on both. The blurbs of the derived
+  converses now say they are computed for every reader and never stored,
+  which is how luria treats a directed pair; they had said they were
+  written by `luria link --fix`. QUESTION `presupposes` is kept, unused,
+  until a sweep of question dependencies. Rejected: sorting the index by
+  priority in place of line; a `blocked` status; dropping question
+  dependencies; storing the converses.
+---
+<!-- inactive-ok-file: ADR-109 POSTMORTEM-tmp7fylf — Proposed or Draft; the decision revised and the review that prompted it -->
+
+# ADR-tmpcoobj: LEADs get a priority for triage and a blocked_on note; the stage ladder separates a specified design from a costed one; a lead may advance a reading or a term as well as a question or claim; and derived converses are stated as computed, not stored
+
+## Context
+
+[POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) reviewed [ADR-109](ADR-109.md) a day after the backlog audit filed
+184 leads, and found the scheme in use but weak where the owner most
+wanted it: the backlog could not be sorted for triage; 96 per cent of
+leads sat at stage idea, because `specified` required a cost no source
+gave; about 30 reading leads waited on copies, which could be said only in
+prose; opportunities whose only target was a reading or a term had been
+set aside without a decision; QUESTION `presupposes` was unused; and the
+converse blurbs said they were written by `luria link --fix`.
+
+On the last point the postmortem was wrong in part. Reading luria's own
+code: for a directed pair, the primary side is stored and the derived side
+is computed for every reader by `edges()`, and never written back
+(relations.py, [DP-2](../../docs/design-principles.md#dp-2) and [DP-3](../../docs/design-principles.md#dp-3)). The converses were never meant to be
+stored. What misled was the blurbs. The 161 back-references a dry run of
+`luria link` reports are completions of undirected pairs elsewhere in the
+record, not these.
+
+## Decision
+
+1. **Priority.** A LEAD field `priority`, optional, from a closed vocabulary:
+high (would move a central entry, or settle a defeat condition), medium
+(an entry in force or a question with some weight), low. Set by the owner
+or an audit, revised freely. The per-value pages luria generates give the
+triage view. First application: the 184 audit leads take the audit's
+ratings, 59 high and 125 medium; the 13 others are left unrated for the
+owner.
+2. **Stages.** idea; specified (what would be done and what would count, in
+the lead or in the CASE it is designed in, no cost needed); costed
+(specified, and roughly what it would cost); underway. First application:
+53 leads at idea with an `operationalized_in` CASE move to specified;
+[LEAD-166](../leads.d/LEAD-166.md), whose source states the design and its cost, moves to costed;
+the three other specified leads stay.
+3. **Blocked.** A plain field `blocked_on`, a list of what the lead waits on
+that the record cannot do itself (a copy the owner must supply, a host to
+allow, an owner's ruling), removed when it clears. Not a status: a lead
+can be blocked at any stage, and still be worth following. First
+application: [LEAD-126](../leads.d/LEAD-126.md) and [LEAD-130](../leads.d/LEAD-130.md), each waiting in part on copies behind
+SSRN or PhilArchive.
+4. **Scope.** `advances` may name a THEORY, for a replication or study that
+would meet its `promote_when`, or a TERM, for the operationalization or
+measure it waits on; THEORY and TERM gain a derived `advanced_by`. No lead
+uses this yet; the audit's set-aside items are listed in its curation
+entry (224759) for the owner to promote.
+5. **Converses.** Every derived converse this session added (`advanced_by`,
+`operationalizes`, `presupposed_by` on LEAD and QUESTION, `reviewed_by`,
+`prompted_by`) now says it is derived from the primary side, computed for
+every reader and never stored.
+6. **Question dependencies.** QUESTION `presupposes` stays. It is unused
+because no sweep has looked for dependencies among the 451 open questions;
+one is left for a later decision, not filed here.
+
+[ADR-109](ADR-109.md) stands, amended on these points; its status note says so. The
+config blurbs name "the decision revising the LEAD scheme" rather than a
+temporary code.
+
+## Alternatives considered
+
+- **Group the leads index by priority instead of line.** The line grouping
+is how the rest of the record is read; the per-priority pages give the
+triage view without losing it.
+- **A `blocked` status.** Status says whether a lead is worth following; a
+blocked lead still is. A status would also hide what it waits on.
+- **Keep the cost in `specified`.** It left 52 designed studies looking like
+hunches; the cost is better its own stage.
+- **Drop question dependencies.** The owner supported them; the field is
+cheap, and the lack of use reflects that no one has looked.
+- **Store the converses by running relation completion.** Against luria's
+design: a derived side is one fact with one home, and storing it invites
+drift.
+
+## Consequences
+
+The backlog can be read by priority and by stage: 59 high, 125 medium, 13
+unrated; 137 at idea, 56 specified, 1 costed, 3 underway. Two leads say
+what blocks them. Readings and terms can be advanced by leads.
+[POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md) names this decision in `prompted`, and its item on the
+converses is corrected.

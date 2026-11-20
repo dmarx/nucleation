@@ -6,6 +6,7 @@ formerly:
 title: 'Re-run the toy-model-of-superposition check: SGD at n = 1,000 and on both sides of n = 600, and posterior sampling across n for the chain''s critical sample sizes'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

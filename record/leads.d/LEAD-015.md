@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp0ccpq
 title: 'Derive the two-institution version of the symmetry-breaking condition, building the coupled meaning-influence model for two regulators'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - formal
 tags:

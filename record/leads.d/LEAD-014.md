@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp0523n
 title: 'Run the curation-completeness study: an agent given a source and the record as it stood produces the filing''s accounting, scored against the filing and its later corrections'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

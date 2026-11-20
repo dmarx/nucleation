@@ -6,6 +6,7 @@ formerly:
 title: 'Decide whether share-dependent advantage counts as independent scoring, and close the term of the reinforcing-authority claim'
 version: 1
 stage: idea
+priority: high
 method:
 - conceptual
 tags:

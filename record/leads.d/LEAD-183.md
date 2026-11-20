@@ -6,6 +6,7 @@ formerly:
 title: 'Test a non-monotone constraint-architecture predictor of productive nuclei in a system other than the one it was built for, and look for multi-fold origami data in which a fold''s melting temperature rises once a neighbour has closed'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 - reading

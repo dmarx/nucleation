@@ -6,6 +6,7 @@ formerly:
 title: 'Read Peng and colleagues on maternal microchimerism and specify the comparison of own-maternal-cell tolerance against donor-supplied tolerogenic cells'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - empirical

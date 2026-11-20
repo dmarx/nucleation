@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpweaab
 title: 'Use the tolerance-indexed simulation to test whether penalizing newly recognized violations produces avoidance of inquiry'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

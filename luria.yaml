@@ -547,7 +547,8 @@ vocabularies:
         blurb: replaced by a better-framed lead, named in `superseded_by`
   lead-stages:
     label: Lead stages
-    blurb: How far a LEAD has been worked out, beside whether it is still worth following (ADR-109).
+    blurb: How far a LEAD has been worked out, beside whether it is still worth following (ADR-109;
+      the decision revising the LEAD scheme).
     alert: Closed.
     terms:
       idea:
@@ -555,11 +556,29 @@ vocabularies:
         blurb: named, with what it would advance; how it would be done is not yet said
       specified:
         label: Specified
-        blurb: says what would be done, what result would count for and against what it advances, and
-          roughly what it would cost
+        blurb: says what would be done and what result would count for and against what it advances, in
+          the lead or in the CASE it is designed in
+      costed:
+        label: Costed
+        blurb: specified, and says roughly what it would cost
       underway:
         label: Underway
         blurb: being done
+  lead-priorities:
+    label: Lead priorities
+    blurb: How much a LEAD would move the record if done, for triage; set by the owner or by an audit and
+      revised freely (the decision revising the LEAD scheme).
+    alert: Closed.
+    terms:
+      high:
+        label: High
+        blurb: would move a central entry, one many others rest on, or settle a defeat condition
+      medium:
+        label: Medium
+        blurb: would move an entry in force or a question with some weight in its line
+      low:
+        label: Low
+        blurb: would move a single entry little else depends on
   lead-methods:
     label: Lead methods
     blurb: What kind of work a LEAD is. Experiment is one kind among several (CLAIM-764, ADR-109).
@@ -583,6 +602,21 @@ vocabularies:
       operationalization:
         label: Operationalization
         blurb: work out how a question or claim could be advanced at all
+  postmortem-statuses:
+    label: Postmortem statuses
+    blurb: Where a POSTMORTEM stands. A postmortem is never deleted; it is accepted, or replaced by a
+      fuller review of the same change (the decision adding the POSTMORTEM scheme).
+    alert: Closed.
+    terms:
+      Draft:
+        label: Draft
+        blurb: written and not yet accepted by the owner
+      Accepted:
+        label: Accepted
+        blurb: the owner accepts its account of what happened and what it recommends
+      Superseded:
+        label: Superseded
+        blurb: replaced by a later review of the same change, named in `superseded_by`
   question-statuses:
     label: Question statuses
     blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
@@ -1019,6 +1053,15 @@ schemes:
     render: index
     allocate: merge
     references:
+      advanced_by:
+        label: Advanced by
+        blurb: the leads that would advance this reading, as a replication that would meet its `promote_when`, derived from their `advances`, computed
+          for every reader and never stored (the decision revising the LEAD scheme)
+        scheme: LEAD
+        required: false
+        many: true
+        converse: advances
+        derived: true
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
@@ -1219,6 +1262,24 @@ schemes:
         forbidden_when:
           status:
           - Active
+      reviewed_by:
+        label: Reviewed by
+        blurb: the postmortems that review how this decision has worked, derived from their `reviews`, computed for
+          every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)
+        scheme: POSTMORTEM
+        required: false
+        many: true
+        converse: reviews
+        derived: true
+      prompted_by:
+        label: Prompted by
+        blurb: the postmortems whose recommendations this decision carries out, derived from their
+          `prompted`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)
+        scheme: POSTMORTEM
+        required: false
+        many: true
+        converse: prompted
+        derived: true
   DP:
     title: Design principles
     blurb: >-
@@ -1297,7 +1358,8 @@ schemes:
         converse: presupposed_by
       presupposed_by:
         label: Presupposed by
-        blurb: the questions and leads that presuppose this one, written by `luria link --fix` (ADR-109)
+        blurb: the questions and leads that presuppose this one, derived from their `presupposes`, computed
+          for every reader and never stored (ADR-109; the decision revising the LEAD scheme)
         scheme: [QUESTION, LEAD]
         required: false
         many: true
@@ -1305,8 +1367,8 @@ schemes:
         derived: true
       advanced_by:
         label: Leads on it
-        blurb: the leads that would advance this question, written by `luria link --fix` from their
-          `advances` (ADR-109)
+        blurb: the leads that would advance this question, derived from their `advances`, computed for
+          every reader and never stored (ADR-109; the decision revising the LEAD scheme)
         scheme: LEAD
         required: false
         many: true
@@ -1371,8 +1433,8 @@ schemes:
     references:
       advanced_by:
         label: Leads on it
-        blurb: the leads that would advance this claim, by testing, grounding or objecting to it, written
-          by `luria link --fix` from their `advances` (ADR-109)
+        blurb: the leads that would advance this claim, by testing, grounding or objecting to it, derived
+          from their `advances`, computed for every reader and never stored (ADR-109; the decision revising the LEAD scheme)
         scheme: LEAD
         required: false
         many: true
@@ -1590,8 +1652,8 @@ schemes:
     references:
       operationalizes:
         label: Design for
-        blurb: the leads this case's study design would carry out, written by `luria link --fix` from
-          their `operationalized_in` (ADR-109)
+        blurb: the leads this case's study design would carry out, derived from their
+          `operationalized_in`, computed for every reader and never stored (ADR-109; the decision revising the LEAD scheme)
         scheme: LEAD
         required: false
         many: true
@@ -1731,6 +1793,15 @@ schemes:
     render: index
     allocate: merge
     references:
+      advanced_by:
+        label: Advanced by
+        blurb: the leads that would advance this term, as the operationalization or measure it waits on, derived from their `advances`, computed
+          for every reader and never stored (the decision revising the LEAD scheme)
+        scheme: LEAD
+        required: false
+        many: true
+        converse: advances
+        derived: true
       integrated_by:
         label: Accounted for in
         blurb: the accounts (SYNTHESIS) that integrate this entry, a line's or a part's, written by `luria
@@ -1958,9 +2029,9 @@ schemes:
     references:
       advances:
         label: Advances
-        blurb: the questions and claims this lead would move, by answering, narrowing, testing, grounding
-          or objecting (ADR-109)
-        scheme: [QUESTION, CLAIM]
+        blurb: the questions, claims, readings and terms this lead would move, by answering, narrowing,
+          testing, grounding, replicating, operationalizing or objecting (ADR-109; the decision revising the LEAD scheme)
+        scheme: [QUESTION, CLAIM, THEORY, TERM]
         required: true
         many: true
         converse: advanced_by
@@ -1981,7 +2052,8 @@ schemes:
         converse: presupposed_by
       presupposed_by:
         label: Presupposed by
-        blurb: the leads that presuppose this one, written by `luria link --fix`
+        blurb: the leads that presuppose this one, derived from their `presupposes`, computed for every
+          reader and never stored (the decision revising the LEAD scheme)
         scheme: LEAD
         required: false
         many: true
@@ -2003,6 +2075,15 @@ schemes:
       stage:
         vocabulary: lead-stages
         required: true
+      priority:
+        vocabulary: lead-priorities
+        required: false
+      blocked_on:
+        label: Blocked on
+        blurb: what the lead waits on that the record cannot do itself, in words, such as a copy the
+          owner must supply, a host to allow, or an owner's ruling; removed when it clears (the decision revising the LEAD scheme)
+        many: true
+        required: false
       method:
         vocabulary: lead-methods
         many: true
@@ -2017,6 +2098,68 @@ schemes:
         many: true
         required: true
     axis: line
+    retires_on: Superseded
+    successor: superseded_by
+
+  POSTMORTEM:
+    title: Postmortems
+    blurb: >-
+      A review of how a change to the record has worked out once it has been used: what the
+      decisions behind it changed, how the record has used the change since, what went well and
+      what did not, and what to do next. It reviews the decisions (ADR) and links the pull requests
+      that carried them and the discussions that prompted the review; its recommendations become
+      decisions of their own, which it names in `prompted`. A postmortem says what happened, not
+      what the record believes about its subject (the decision adding the POSTMORTEM scheme).
+    dir: record/postmortems.d
+    output: docs/postmortems
+    active: Accepted
+    render: index
+    allocate: merge
+    references:
+      reviews:
+        label: Reviews
+        blurb: the decisions whose changes this postmortem reviews
+        scheme: ADR
+        required: true
+        many: true
+        converse: reviewed_by
+      prompted:
+        label: Prompted
+        blurb: the decisions that carry out this postmortem's recommendations, added once they are filed
+        scheme: ADR
+        required: false
+        many: true
+        converse: prompted_by
+      superseded_by:
+        scheme: POSTMORTEM
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Accepted
+    fields:
+      status:
+        vocabulary: postmortem-statuses
+      tags:
+        vocabulary: adr-tags
+        many: true
+        required: true
+        closed: false
+      pull_requests:
+        label: Pull requests
+        blurb: the pull requests that carried the reviewed change, as URLs
+        many: true
+        required: true
+      discussions:
+        label: Discussions
+        blurb: where the review was asked for or held, as URLs (a session, an issue, a pull request
+          thread)
+        many: true
+        required: false
+    axis: tags
     retires_on: Superseded
     successor: superseded_by
 

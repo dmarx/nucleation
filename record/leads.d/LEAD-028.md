@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp2zwcx
 title: 'Compute turns per filed entry and set inbound references and turns per anchor against drift judged blind, to test the anchoring theses on the record''s own exchanges'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

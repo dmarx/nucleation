@@ -6,6 +6,7 @@ formerly:
 title: 'Do the move-by-move reading of identity failures against structure failures on a second exchange, and on one with another owner or another assistant family'
 version: 1
 stage: idea
+priority: high
 method:
 - empirical
 tags:

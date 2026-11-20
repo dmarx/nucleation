@@ -6,6 +6,7 @@ formerly:
 title: 'Search for human studies that separate the germline route of intergenerational trauma from the uterine, parenting and cultural routes, and for studies of descendants'' distress against group identification'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

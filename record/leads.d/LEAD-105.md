@@ -6,6 +6,7 @@ formerly:
 title: 'Run the crossed intervention on a conventionally trained network: change the optimizer with the network fixed, and disrupt a learned state with the optimizer fixed'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Read the contact works and search for single studies that contrast extended with direct contact, or the order of cooperation and debate'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

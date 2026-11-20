@@ -6,6 +6,7 @@ formerly:
 title: 'On one dynamical model, compare a fixed preexisting partition, one recovered from measured dynamics, and one produced by coupling to an apparatus, and ask whether they make different counterfactual predictions'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 - conceptual

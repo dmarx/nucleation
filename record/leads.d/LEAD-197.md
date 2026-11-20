@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpzraiq
 title: 'Run the assisted-learning study: learners matched on starting skill, practising under an assistant that does the hard step for them or one that does not'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

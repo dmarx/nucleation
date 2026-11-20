@@ -1,0 +1,90 @@
+---
+status: Proposed
+title: 'The record keeps postmortems as POSTMORTEMs, reviews of how a change to the record has worked out once used, which review the decisions behind the change, link the pull requests that carried it and the discussions that asked for the review, and name the decisions their recommendations prompt'
+version: 1
+tags:
+- record
+- taxonomy
+date: '2026-11-20'
+summary: >-
+  On 2026-11-20 the owner asked for a postmortem of the session's changes
+  to luria.yaml, then for a scheme to hold such reviews, related to the
+  decisions they review, with the pull requests and the discussion linked.
+  A new scheme, POSTMORTEM: it `reviews` one or more ADRs (converse
+  `reviewed_by`, derived on ADR), may name the decisions its
+  recommendations `prompted` (converse `prompted_by`), and carries
+  `pull_requests` and `discussions` as URL lists. Statuses Draft,
+  Accepted, Superseded. First application: [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md), on
+  [ADR-106](ADR-106.md), [ADR-107](ADR-107.md) and [ADR-109](ADR-109.md). Rejected: a curation entry; a workbench
+  entry; new history versions on each reviewed ADR; reviews as dated notes
+  on the ADRs.
+---
+
+<!-- inactive-ok-file: ADR-106 ADR-109 POSTMORTEM-tmp7fylf — Proposed or newly filed; the decisions reviewed and the first application -->
+
+# ADR-tmpk8vnc: The record keeps postmortems as POSTMORTEMs, reviews of how a change to the record has worked out once used, which review the decisions behind the change, link the pull requests that carried it and the discussions that asked for the review, and name the decisions their recommendations prompt
+
+## Context
+
+The session of 2026-11-19 changed luria.yaml three times: a work for the
+owner's manuscript ([ADR-106](ADR-106.md)), the explication argument form ([ADR-107](ADR-107.md)) and
+the LEAD scheme ([ADR-109](ADR-109.md)). The next day the owner asked for a postmortem
+of those changes. The review found things no single entry holds: how much
+of each change is used, what turned out unused or misleading, what the
+changes cost the process, and what to decide next.
+
+The record had nowhere to put that. A curation entry says what one
+contribution filed; a workbench entry is a working session; an ADR's
+history records a restatement of the decision, not an assessment of how it
+worked; and a dated note on each ADR would split one review across several
+files with no place for what spans them. The owner asked for a scheme, a
+relationship to the decisions, and links to the pull requests and to the
+discussion.
+
+## Decision
+
+- A new scheme, POSTMORTEM, in record/postmortems.d. Statuses Draft
+(written, not yet accepted), Accepted (the owner accepts its account) and
+Superseded (a later review of the same change replaces it).
+- `reviews`: the ADRs whose changes it reviews, required, many; converse
+`reviewed_by`, derived on ADR. This is the relationship between a
+postmortem and the decision for the change.
+- `prompted`: the ADRs that carry out its recommendations, optional, added
+once they are filed; converse `prompted_by` on ADR. A recommendation
+becomes a decision of its own; the postmortem does not change the record
+by itself.
+- `pull_requests`: the pull requests that carried the reviewed change, as
+URLs, required. `discussions`: where the review was asked for or held, as
+URLs, optional: a session, an issue, a pull request thread. These are
+plain lists, not references, because their targets are outside the record.
+- Tags from the open decision tags, as on ADRs. Sections in the body: what
+changed, how it has been used, what worked, what did not, what the change
+cost the process, and recommendations.
+- Config blurbs for the scheme cite no temporary codes; they name "the
+decision adding the POSTMORTEM scheme", one of the first application's own
+recommendations.
+
+## Alternatives considered
+
+- **A curation entry.** Curation records what a contribution filed and left;
+a review of a change made earlier, across several pull requests, is not
+one contribution, and curation has no relation to the decisions.
+- **A workbench entry.** The workbench holds working sessions, not records
+meant to be accepted and acted on, and it has no relation to decisions
+either.
+- **A new version of each reviewed ADR.** A version restates the decision;
+an assessment of how it worked is a different kind of thing, and it often
+spans several decisions.
+- **Dated notes on the ADRs.** Splits one review across files, with no place
+for what spans them, and no status for the owner to accept.
+- **References for the pull requests.** They are not record entries; a URL
+list is enough, and `luria` lints nothing it could check about them.
+
+## Consequences
+
+A change to the record can be reviewed once it has been used, and the
+review is found from the decision it reviews. Its recommendations become
+ADRs that point back to it. The first application, [POSTMORTEM-tmp7fylf](../postmortems.d/POSTMORTEM-tmp7fylf.md),
+reviews [ADR-106](ADR-106.md), [ADR-107](ADR-107.md) and [ADR-109](ADR-109.md) and recommends a decision on LEAD
+priority, the stage ladder, derived converses, lead scope and question
+dependencies, and three process rules.

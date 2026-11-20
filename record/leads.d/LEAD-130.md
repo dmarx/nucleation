@@ -6,6 +6,9 @@ formerly:
 title: 'Read the works on epistemic oppression and exploitation'
 version: 1
 stage: idea
+priority: high
+blocked_on:
+- 'copies of the works behind PhilArchive and SSRN, which the owner must supply; the others can be read now'
 method:
 - reading
 tags:

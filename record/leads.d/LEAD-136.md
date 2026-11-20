@@ -6,6 +6,7 @@ formerly:
 title: 'Specify measures that separate aggregate, shared orientation, norm and corporate judgment in a real fanbase, with a test of a visible minority holding a stance the private majority rejects'
 version: 1
 stage: idea
+priority: medium
 method:
 - operationalization
 - empirical

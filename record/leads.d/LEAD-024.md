@@ -6,6 +6,7 @@ formerly:
 title: 'Fit Twitch Plays Pokemon''s anarchy-mode input logs with a drift process against a switching model'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

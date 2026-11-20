@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpk92q1
 title: 'Code a corpus of public postmortems for the highest organizational level named among contributing causes and for action items above the reviewing team''s authority, internal reviews against independent ones'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 tags:

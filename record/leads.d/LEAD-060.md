@@ -6,6 +6,7 @@ formerly:
 title: 'State the criterion that separates reframing a communicative act from changing it, and test it by having judges sort pairs of renderings into the two classes'
 version: 1
 stage: idea
+priority: high
 method:
 - conceptual
 - empirical

@@ -6,6 +6,7 @@ formerly:
 title: 'Work the matched constructions of A102 to test whether reasonable rejection explains them without importing principles of standing'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 tags:

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpfk582
 title: 'Build the coupled meaning-influence model with its linearization, and place a reduced form of it inside its predecessor models or find a phenomenon it produces that they cannot'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - formal
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Read dual control and the value-of-information literature for shared observe-and-act budgets'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

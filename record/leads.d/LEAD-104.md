@@ -6,6 +6,7 @@ formerly:
 title: 'Write the model of the competence-restriction loop, with reinstatement made a threshold on capacity'
 version: 1
 stage: idea
+priority: medium
 method:
 - formal
 tags:

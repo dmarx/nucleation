@@ -6,6 +6,7 @@ formerly:
 title: 'Fit a weighting of the fidelity profile''s components on one set of renderings and judges and test it on another, against the best single component'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

@@ -6,6 +6,7 @@ formerly:
 title: 'Measure the quantities of the pragmatic-geometry account in released language models'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpq1z2m
 title: 'Fit the dynamic beta-Bernoulli feature model to a mechanistic organizational simulator that does not assume its prior, with a shared-driver null, and score it on held-out interventions on the coupling'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 - formal

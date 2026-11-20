@@ -6,6 +6,7 @@ formerly:
 title: 'Remove core units from Ito and Kaneko''s core-periphery system and see whether the periphery refills the core'
 version: 1
 stage: idea
+priority: high
 method:
 - empirical
 tags:

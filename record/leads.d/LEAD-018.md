@@ -6,6 +6,7 @@ formerly:
 title: 'Read Millikan''s teleosemantics, owed by two claims'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

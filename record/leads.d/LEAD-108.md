@@ -6,6 +6,7 @@ formerly:
 title: 'State one cost model for stored work and check whether it prices the cockpit''s speed bugs, a filed argument and a LEGO bin with the same terms'
 version: 1
 stage: idea
+priority: high
 method:
 - conceptual
 - formal

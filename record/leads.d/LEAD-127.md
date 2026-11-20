@@ -6,6 +6,7 @@ formerly:
 title: 'Search for evidence that thwarting a candidate basic need causes a functional deficit, and thwarting a matched enhancer does not, under intervention'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

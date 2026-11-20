@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp3ub60
 title: 'Measure the dancing couple: is the pair a gap-isolated block during the dance and not after it, with direction, compensation and the time-lagged form of the block criterion'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 - formal

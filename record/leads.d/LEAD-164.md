@@ -6,6 +6,7 @@ formerly:
 title: 'Find a held case that checks a measured correspondence against evidence the measurement did not itself produce'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - conceptual

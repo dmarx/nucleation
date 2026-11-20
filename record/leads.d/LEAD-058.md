@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmp9sjbd
 title: 'Run HiddenBench hidden-profile tasks under conversation, the published structured protocol and a governed record, tracing each clue through admission, interpretation, credit and use'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - empirical
 - reading

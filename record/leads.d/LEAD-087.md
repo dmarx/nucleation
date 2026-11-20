@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpewble
 title: 'Run the study of perspective without collective agency, after saying in advance what distinguishes a shared perspective from correlated responses'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - operationalization
 - empirical

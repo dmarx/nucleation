@@ -6,6 +6,7 @@ formerly:
 title: 'Find a non-arbitrary way to choose the constraint set for an agent''s regulatory capacities'
 version: 1
 stage: idea
+priority: medium
 method:
 - conceptual
 - formal

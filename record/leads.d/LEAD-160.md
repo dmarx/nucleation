@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpt6mca
 title: 'Run the world-model achievements study under matched competence'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

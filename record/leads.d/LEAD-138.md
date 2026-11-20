@@ -6,6 +6,7 @@ formerly:
 title: 'Read the endosymbiosis primaries behind the integration question and its cases'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 tags:

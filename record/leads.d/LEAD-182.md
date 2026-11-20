@@ -6,6 +6,7 @@ formerly:
 title: 'Find or run an adequately powered Contextuality-by-Default test on human pragmatic judgements, with signalling accounted for and outcome coding fixed in advance'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 - empirical

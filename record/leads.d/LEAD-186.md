@@ -6,6 +6,7 @@ formerly:
 title: 'Read the owed IP-Adapter work and test whether a LoRA learned on one base model is reusable on its successor'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - empirical

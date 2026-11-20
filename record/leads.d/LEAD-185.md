@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpxhlvi
 title: 'Study contested and accepted open-source successions, timing the community''s verdicts against the move'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - historical
 - empirical

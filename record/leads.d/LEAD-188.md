@@ -6,6 +6,7 @@ formerly:
 title: 'Find production testimony of how the fan redub reached the reshoot, and compare a circulation-network model with the list of identifiable contributions'
 version: 1
 stage: idea
+priority: medium
 method:
 - historical
 - empirical

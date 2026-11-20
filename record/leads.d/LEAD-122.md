@@ -6,6 +6,7 @@ formerly:
 title: 'Count, in the workbench reconstructions, the share of moves of comparable content filed by contributor and by kind of move'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

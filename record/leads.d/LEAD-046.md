@@ -6,6 +6,7 @@ formerly:
 title: 'Settle the residue of the intention-based rival for teasing and reproach: read the intention-based line and run the elicited test the sounding case names, holding intention fixed and varying the audience''s standing'
 version: 1
 stage: idea
+priority: high
 method:
 - reading
 - conceptual

@@ -6,6 +6,7 @@ formerly:
 title: 'Read the inputs to the loot-box study'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

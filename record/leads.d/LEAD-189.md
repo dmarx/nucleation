@@ -6,6 +6,7 @@ formerly:
 title: 'Read the blameless post-incident practice and check the Tempe prosecution'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 - historical

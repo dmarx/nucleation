@@ -6,6 +6,7 @@ formerly:
 title: 'Read the radically open dialectical behaviour therapy works and the organizational flexibility sources'
 version: 1
 stage: idea
+priority: medium
 method:
 - reading
 tags:

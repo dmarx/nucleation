@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmpw70h3
 title: 'Run the robust-governance study: four governance architectures over cooperative, honestly dissenting and adversarial specialists, including an evaluator-capture variant'
 version: 1
-stage: idea
+stage: specified
+priority: medium
 method:
 - empirical
 tags:

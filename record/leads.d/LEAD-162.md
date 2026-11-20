@@ -5,7 +5,8 @@ formerly:
 - LEAD-tmptk22h
 title: 'Construct and validate a measure of footing and stance: a definition given to judges, reliability between and within judges at a target fixed in advance, and known-groups validity on reattributed sentences'
 version: 1
-stage: idea
+stage: specified
+priority: high
 method:
 - operationalization
 - empirical

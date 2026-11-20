@@ -6,6 +6,7 @@ formerly:
 title: 'Compute Bourrat''s individuality measures on a model of an evolutionary transition'
 version: 1
 stage: idea
+priority: high
 method:
 - formal
 tags:

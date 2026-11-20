@@ -6,6 +6,7 @@ formerly:
 title: 'Learn a non-abelian task with no matrix representation imposed, and recover its irreducibles from the weights without supplying the group, or show them unrecoverable'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:

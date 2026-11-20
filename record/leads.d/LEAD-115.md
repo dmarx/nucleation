@@ -6,6 +6,7 @@ formerly:
 title: 'For subject-verb agreement across a relative clause, compare sparse feature circuits from dictionaries of different seeds and widths matched for fidelity'
 version: 1
 stage: idea
+priority: medium
 method:
 - empirical
 tags:
