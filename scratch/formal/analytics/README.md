@@ -23,7 +23,7 @@ Needs `apache-hamilton` (formerly `sf-hamilton`, the same package under its old 
 - `--growth_ref` (default `origin/main`, else `main`) and `--growth_dates` (default the manuscript's four dates): the dated snapshots of §12.5.
 - `--census_dir` (default `../decision-census/census`): the hand-coded census.
 
-`fast` takes about 25 s on the current record, almost all of it reading every entry's frontmatter. `all` adds the history replays, which take several minutes.
+`fast` takes about 25 s on the current record, almost all of it reading every entry's frontmatter. `all` adds the history replays and takes about 8.5 minutes (record_rates about 4.5, schema_rates about 3, the term-change audit about 35 s).
 
 Output: `{"computed_at": {rev, sha, short, date, subject}, "run_at", "inputs", "values": {node: value}}`. `date` is the commit's committer date. The `analytics.json` in this directory is one such run, kept so the figures can be compared with the next one.
 
