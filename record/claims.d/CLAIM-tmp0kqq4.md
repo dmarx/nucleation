@@ -111,4 +111,4 @@ recorded with the copy.
 
 ## Reframings
 
-**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of CLAIM-tmp1xigl: "general terms". Before: a claim about how this record's copies go stale. After: a claim about any inquiry whose sources are revised, with RETRO-004's summary as the case. The argument is unchanged.
+**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of [CLAIM-tmp1xigl](CLAIM-tmp1xigl.md): "general terms". Before: a claim about how this record's copies go stale. After: a claim about any inquiry whose sources are revised, with [RETRO-004](../retrospectives.d/RETRO-004.md)'s summary as the case. The argument is unchanged.

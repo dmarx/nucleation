@@ -159,4 +159,4 @@ a test.
 
 ## Reframings
 
-**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of CLAIM-tmp1xigl: "general terms". Before: a claim about how this record anchors its entries. After: a claim about any inquiry that keeps its sources, with the record as the instance that raised it. The argument and its bearing are unchanged.
+**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of [CLAIM-tmp1xigl](CLAIM-tmp1xigl.md): "general terms". Before: a claim about how this record anchors its entries. After: a claim about any inquiry that keeps its sources, with the record as the instance that raised it. The argument and its bearing are unchanged.

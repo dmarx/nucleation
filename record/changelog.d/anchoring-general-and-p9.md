@@ -1,3 +1,3 @@
 ### Changed
 
-- At the owner's rulings of 2026-11-21: the two objections to CLAIM-772 are restated in general terms (CLAIM-tmppkqzl and CLAIM-tmp0kqq4, version 2), and the P9 account SYNTHESIS-tmprksq1 (version 2) integrates CLAIM-772, ARG-124, CLAIM-tmp1xigl, the two objections, CLAIM-315 and CLAIM-184.
+- At the owner's rulings of 2026-11-21: the two objections to [CLAIM-772](record/claims.d/CLAIM-772.md) are restated in general terms ([CLAIM-tmppkqzl](record/claims.d/CLAIM-tmppkqzl.md) and [CLAIM-tmp0kqq4](record/claims.d/CLAIM-tmp0kqq4.md), version 2), and the P9 account [SYNTHESIS-tmprksq1](record/syntheses.d/SYNTHESIS-tmprksq1.md) (version 2) integrates [CLAIM-772](record/claims.d/CLAIM-772.md), [ARG-124](record/arguments.d/ARG-124.md), [CLAIM-tmp1xigl](record/claims.d/CLAIM-tmp1xigl.md), the two objections, [CLAIM-315](record/claims.d/CLAIM-315.md) and [CLAIM-184](record/claims.d/CLAIM-184.md).
