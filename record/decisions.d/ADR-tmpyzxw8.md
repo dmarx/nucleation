@@ -11,7 +11,7 @@ summary: >-
   ("this feels like a good example of noticing a distinction. earmarking
   for the retro") was filed as a devlog note: "oh nice, let's persist and
   standardize that as a new convention with an ADR. I feel like those are
-  separable." Separable from ADR-115, which has the assistant take devlog
+  separable." Separable from [ADR-115](ADR-115.md), which has the assistant take devlog
   notes on its own judgment: an earmark is the owner's request that a note
   exist, and the retrospective owes it an answer.
 ---
@@ -21,13 +21,13 @@ summary: >-
 
 ## Context
 
-ADR-115 made the devlog the place for notes taken during the work, for the
+[ADR-115](ADR-115.md) made the devlog the place for notes taken during the work, for the
 next retrospective, and asked the assistant to file them as the work goes,
 on its own judgment of what is going right or wrong. On 2026-11-21 the owner
 did something different: reviewing pull request 570, they marked a moment
 themselves, "this feels like a good example of noticing a distinction.
 earmarking for the retro". The assistant filed it as a devlog note, and the
-owner asked for that to become a convention, separate from ADR-115.
+owner asked for that to become a convention, separate from [ADR-115](ADR-115.md).
 
 The two differ in whose judgment starts the note and in what is owed to it.
 A note the assistant takes is material a retrospective may use. A note the
@@ -64,19 +64,19 @@ that it was looked at and set aside, and why. An earmark is not closed until
 a retrospective has answered it.
 
 **Not an earmark.** A remark that something went well, without asking that
-it be kept for the retrospective, leaves the assistant's ADR-115 judgment
+it be kept for the retrospective, leaves the assistant's [ADR-115](ADR-115.md) judgment
 where it is; the assistant may still file a note, tagged `retro` only.
 
 ## Alternatives considered
 
-- **Fold it into ADR-115.** One decision on the devlog. The owner asked for
-  this to be separate, and the difference is real: ADR-115 is about the
+- **Fold it into [ADR-115](ADR-115.md).** One decision on the devlog. The owner asked for
+  this to be separate, and the difference is real: [ADR-115](ADR-115.md) is about the
   assistant's notes, this about the owner's requests and what a
   retrospective owes them.
 - **A field or a scheme for earmarks.** A relation from the retrospective to
   each earmark would let lint check that every one was answered. It is a
   change to `luria.yaml`, and a tag is enough to find them; if earmarks go
-  unanswered in practice, a field is the next rung of DP-3's ladder.
+  unanswered in practice, a field is the next rung of [DP-3](../../docs/design-principles.md#dp-3)'s ladder.
 - **Leave earmarks in the conversation or the pull request.** The status
   quo. A retrospective reads the devlog, not the comments, so they would be
   lost.
