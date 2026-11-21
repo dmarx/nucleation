@@ -1,10 +1,20 @@
 ---
 number: 1
-status: Draft
+status: Superseded
 formerly:
 - POSTMORTEM-tmp5eoc7
 title: 'The batch of 2026-11-19: pull requests 535 to 540, a stacked series folded top-down'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Converted to a retrospective, RETRO-tmpb4hv3, by the decision adding
+    the RETRO scheme (ADR-tmpupzg0): it reviews how a change or a batch
+    went, which is now a RETRO's job; a POSTMORTEM is kept for something
+    that went wrong. Retired by status; the body is unchanged.
+superseded_by:
+- RETRO-tmpb4hv3
 tags:
 - record
 - process
@@ -32,6 +42,7 @@ summary: >-
   not delete. What changes: four small rules, and the reader-branch ending
   [ADR-108](../decisions.d/ADR-108.md) left open.
 ---
+<!-- inactive-ok-file: RETRO-tmpb4hv3 ADR-tmpupzg0 — Draft or Proposed; the retrospective this was converted to, and the decision converting it -->
 <!-- inactive-ok-file: ADR-108 ADR-110 POSTMORTEM-002 — Proposed or newly filed; the decisions this postmortem reviews -->
 
 # POSTMORTEM-001: The batch of 2026-11-19: pull requests 535 to 540, a stacked series folded top-down
