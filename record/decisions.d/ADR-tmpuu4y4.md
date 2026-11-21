@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'An earmarked devlog note has a standard form: tagged retro and earmarked, quoting the earmark and where it was made, and saying what was earmarked, why it may matter and what is missing, in the assistant''s words marked as its own'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "571-A" chose ADR-tmpyzxw8. This reading
+    is kept as one not taken, not as a mistake.
 tags:
 - record
 - process
@@ -9,7 +16,7 @@ date: '2026-11-21'
 summary: >-
   Reading B of the owner's request ([ADR-tmpyzxw8](ADR-tmpyzxw8.md)), its second half: the standard form of an earmarked note, apart from the obligation to keep and answer it ([ADR-tmp7kh0t](ADR-tmp7kh0t.md)). An alternative to [ADR-tmpyzxw8](ADR-tmpyzxw8.md) and [ADR-tmps83ka](ADR-tmps83ka.md).
 ---
-<!-- inactive-ok-file: ADR-tmpyzxw8 ADR-tmp7kh0t ADR-tmps83ka ADR-115 — Proposed; the alternative readings of one request, and the decisions they sit beside -->
+<!-- inactive-ok-file: ADR-tmp7kh0t ADR-tmps83ka ADR-115 ADR-068 — Proposed; the alternative readings of one request, and the decisions they sit beside -->
 
 # ADR-tmpuu4y4: An earmarked devlog note has a standard form: tagged retro and earmarked, quoting the earmark and where it was made, and saying what was earmarked, why it may matter and what is missing, in the assistant's words marked as its own
 
