@@ -55,7 +55,6 @@ bears_on:
 draws_on:
 - THEORY-068
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
 

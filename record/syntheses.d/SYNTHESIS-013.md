@@ -34,7 +34,7 @@ integrates:
 - QUESTION-108
 - ARG-028
 ---
-<!-- inactive-ok-file: ADR-083 ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-013: An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
 

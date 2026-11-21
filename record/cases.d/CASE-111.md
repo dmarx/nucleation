@@ -38,7 +38,6 @@ draws_on:
 - THEORY-136
 - THEORY-214
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 
 # CASE-111: A fold in boundary maintenance: in ḃ = μb + κb² − b³ with cooperative repair (κ > 0), an unmaintained and a maintained state are both stable for −κ²/4 < μ < 0, so maintenance lost past the fold is not restored by returning the parameter, and recovery slows to zero as the fold nears
 

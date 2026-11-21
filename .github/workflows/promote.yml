@@ -18,7 +18,9 @@ name: Promote
 
 on:
   schedule:
-    - cron: "37 10 * * *"
+    # 03:45 Pacific standard time (04:45 in daylight time); GitHub runs
+    # schedules in UTC and cannot follow daylight saving.
+    - cron: "45 11 * * *"
   workflow_dispatch:
 
 concurrency:

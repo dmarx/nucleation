@@ -87,7 +87,6 @@ summary: >-
   [CLAIM-670](CLAIM-670.md). Alicea ([LIT-2522](../literature.d/LIT-2522.md)) is Unavailable. Interpretive. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-428 — Proposed; the record's claims this one joins or sets beside, cited with their standing -->
 <!-- inactive-ok-file: LIT-2522 — Unavailable; registered from the same exchange, unread -->

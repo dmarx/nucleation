@@ -42,7 +42,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-005 — Proposed; the reading CLAIM-370 was split from, named, not leaned on -->
-<!-- inactive-ok-file: ADR-075 ADR-084 SYNTHESIS-030 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-030 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: NOTE-227 — Superseded; cited with its standing -->
 
 # CLAIM-641: The integral operator with kernel w(u,v)/√(w(u)w(v)) to which the spectral contrastive analysis applies the spectral theorem is the conditional-expectation operator of the positive pairs carried to Lebesgue measure by multiplication by √w, so that kernel is square-integrable exactly when the positive-pair χ²-divergence is finite, with squared norm 1 + χ², and the two operators have one spectrum

@@ -40,7 +40,7 @@ draws_on:
 - THEORY-126
 - THEORY-127
 ---
-<!-- inactive-ok-file: ADR-095 THEORY-126 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-126 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 <!-- inactive-ok-file: THEORY-125 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-104: A fanbase is said to hate its owner or general manager, though it has no procedure for forming a view, some fans approve of the person, and nobody has counted

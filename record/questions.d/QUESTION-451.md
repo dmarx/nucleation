@@ -24,7 +24,7 @@ summary: >-
   primitive. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 THEORY-052 — Proposed; the reading review that raised it, and the theory's reading cited as a parallel -->
+<!-- inactive-ok-file: THEORY-052 — Proposed; the reading review that raised it, and the theory's reading cited as a parallel -->
 
 # QUESTION-451: Is need frustration, as self-determination theory measures it, a process distinct from low need satisfaction, or does the evidence for the distinction rest on item keying and correlations that a single dimension would also produce?
 

@@ -57,7 +57,6 @@ summary: >-
 draws_on:
 - THEORY-1275
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-197: The toy model of superposition with six features in two dimensions, with each feature's reconstruction loss taken as a demand: at the 5-gon critical point five features are met at 0.0158 and the dropped one only at 1/3, at the 6-gon every feature is met at 0.0482, so the posterior's 5 → 6 transition strictly enlarges the compatibility complex for common tolerances from 0.0482 to 1/3, loses its five-feature face below 0.0482, and at the critical points changes no Betti number, only which features can be met at all

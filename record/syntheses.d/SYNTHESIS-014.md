@@ -31,7 +31,7 @@ integrates:
 - CLAIM-189
 - QUESTION-099
 ---
-<!-- inactive-ok-file: ADR-083 CLAIM-178 CLAIM-180 CLAIM-182 CLAIM-185 CLAIM-191 CLAIM-192 CLAIM-483 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-178 CLAIM-180 CLAIM-182 CLAIM-185 CLAIM-191 CLAIM-192 CLAIM-483 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-014: In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members'
 

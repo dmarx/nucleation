@@ -55,7 +55,6 @@ summary: >-
 bears_on:
 - QUESTION-285
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-621 — Proposed; the earlier statement whose consistency gap this restates, cited as open -->
 
 # THEORY-1074: In Di Biagio and Rovelli's relational account two classical subsystems' perspectives merge, agreeing on a variable's value and on each other's, when they couple to that variable or to each other, and a coupling to a complementary variable can remove a relative fact from a perspective that did not interact; that this answers the combination problem and keeps perspectives consistent is shown only in worked examples computed relative to a single outside system

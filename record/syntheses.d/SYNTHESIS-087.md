@@ -23,7 +23,7 @@ integrates:
 - CLAIM-375
 - CLAIM-502
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-285 SYNTHESIS-050 — Proposed; components, decisions and accounts cited with their standing -->
+<!-- inactive-ok-file: CLAIM-285 SYNTHESIS-050 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: TERM-053 — Superseded; cited as the entry of its time -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 

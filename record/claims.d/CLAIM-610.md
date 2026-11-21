@@ -106,7 +106,6 @@ summary: >-
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-611 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
 <!-- inactive-ok-file: CLAIM-487 CLAIM-545 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->

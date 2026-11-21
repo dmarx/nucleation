@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1055 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-476 THEORY-621 — Proposed or new; the claims, reading and term the question presses on, cited as open -->
-<!-- inactive-ok-file: SYNTHESIS-068 SYNTHESIS-064 SYNTHESIS-012 SYNTHESIS-050 ADR-083 ADR-084 CLAIM-160 CLAIM-171 — Proposed; the part accounts, decisions on scope and components cited in the note of 2026-11-12 on a cross-line account -->
+<!-- inactive-ok-file: SYNTHESIS-068 SYNTHESIS-064 SYNTHESIS-012 SYNTHESIS-050 CLAIM-160 CLAIM-171 — Proposed; the part accounts, decisions on scope and components cited in the note of 2026-11-12 on a cross-line account -->
 <!-- inactive-ok-file: LIT-1653 LIT-1657 — Deferred or Unavailable; registered works the question would read, cited as unread -->
 
 # QUESTION-285: What organization turns an interaction into a measurement, a measurement into a record that something uses, and observation into inquiry, without a conscious investigator; and what keeps an apparatus that revises its own discriminations answerable to what it did not produce?

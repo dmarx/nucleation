@@ -57,7 +57,6 @@ draws_on:
 - THEORY-391
 - THEORY-812
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-034 CLAIM-573 QUESTION-008 — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 THEORY-812 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 

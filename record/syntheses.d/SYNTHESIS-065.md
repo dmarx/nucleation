@@ -36,7 +36,7 @@ summary: >-
   those and have their own account. The line's account is built over it.
   The account adds nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-075 ARG-033 ARG-040 CLAIM-082 CLAIM-220 CLAIM-242 THEORY-159 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-033 ARG-040 CLAIM-082 CLAIM-220 CLAIM-242 THEORY-159 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-034 CLAIM-489 — Rejected; components, cited as the correction they record -->
 <!-- inactive-ok-file: CLAIM-072 CLAIM-115 CLAIM-254 — Superseded; cited as the entries their successors replaced, and not integrated -->
 <!-- inactive-ok-file: LIT-775 — Unavailable; Lévi-Strauss, unread here, CLAIM-489's ground -->

@@ -159,4 +159,3 @@ general assumptions" without giving them.
   the *system* has synergy. The reading gives a counterexample under MMI,
   a parity of two self-copying bits, with Ψ = 1 bit and no unique
   information.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

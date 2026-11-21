@@ -56,7 +56,6 @@ summary: >-
 draws_on:
 - THEORY-646
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-355 THEORY-646 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
 
 # CASE-114: The imagined owner

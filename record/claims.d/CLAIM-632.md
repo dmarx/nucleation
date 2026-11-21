@@ -111,7 +111,6 @@ summary: >-
 <!-- inactive-ok-file: CASE-237 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; the inference from use counts this replaces -->
-<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit and the review that filed this entry -->
 
 # CLAIM-632: Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
 

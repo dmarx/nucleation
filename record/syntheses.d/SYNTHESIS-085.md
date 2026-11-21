@@ -23,7 +23,6 @@ integrates:
 - QUESTION-251
 - QUESTION-168
 ---
-<!-- inactive-ok-file: ADR-075 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: QUESTION-251 — Answered; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-082 — Proposed; cited with its standing -->
 

@@ -69,7 +69,6 @@ summary: >-
   components'.
 ---
 <!-- inactive-ok-file: ARG-017 CLAIM-001 CLAIM-005 CLAIM-034 CLAIM-052 CLAIM-063 CLAIM-105 CLAIM-117 CLAIM-127 CLAIM-138 CLAIM-147 CLAIM-202 CLAIM-220 CLAIM-228 CLAIM-244 CLAIM-258 CLAIM-298 CLAIM-637 CLAIM-638 — Proposed; components and citations, open, with their standing -->
-<!-- inactive-ok-file: ADR-075 — Proposed; the decision whose step 5 tested the links not stated -->
 <!-- inactive-ok-file: QUESTION-008 — Deferred; a component, set aside and not answered -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; cited as the claim a component narrows -->
 <!-- inactive-ok-file: ARG-014 ARG-037 — Rejected; components, the verdicts on support that failed -->

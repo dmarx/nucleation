@@ -163,4 +163,3 @@ gluing exists, and the presheaf of causal functions is not a sheaf.
 [LIT-843](../literature.d/LIT-843.md)'s Example 7.2 is an independent second instance of the same kind.
 That is everything the title asserts. The characterisation, which says
 exactly which spaces fail, is [QUESTION-143](../questions.d/QUESTION-143.md).
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

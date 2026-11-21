@@ -91,7 +91,7 @@ bears_on:
 - QUESTION-069
 ---
 <!-- inactive-ok-file: SYNTHESIS-105 CLAIM-754 CLAIM-758 — Proposed; the part account integrated on 2026-11-19 and its hinge -->
-<!-- inactive-ok-file: ADR-083 CASE-270 CASE-271 CASE-272 CASE-273 CASE-274 CASE-275 CLAIM-641 CLAIM-695 CLAIM-696 CLAIM-697 CLAIM-698 CLAIM-699 CASE-193 CASE-226 CLAIM-263 CLAIM-367 CLAIM-498 CLAIM-499 CLAIM-555 CLAIM-620 CLAIM-621 TERM-098 THEORY-196 THEORY-288 THEORY-614 — Proposed; components, citations and the decisions this account follows, with their standing -->
+<!-- inactive-ok-file: CASE-270 CASE-271 CASE-272 CASE-273 CASE-274 CASE-275 CLAIM-641 CLAIM-695 CLAIM-696 CLAIM-697 CLAIM-698 CLAIM-699 CASE-193 CASE-226 CLAIM-263 CLAIM-367 CLAIM-498 CLAIM-499 CLAIM-555 CLAIM-620 CLAIM-621 TERM-098 THEORY-196 THEORY-288 THEORY-614 — Proposed; components, citations and the decisions this account follows, with their standing -->
 <!-- inactive-ok-file: QUESTION-244 QUESTION-286 QUESTION-291 QUESTION-294 — Answered; components and citations, with their standing -->
 
 # SYNTHESIS-030: The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner's demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, what classification leaves in the last layers, whether modes describe learned networks, and how latent capability is elicited and at what cost, with smaller families and eighteen entries linked to no other; the parts meet mostly through the acquisition questions, and the line is a candidate to split

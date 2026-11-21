@@ -128,4 +128,4 @@ converse (Hilbert–Schmidt only if χ² is finite), and it is Active.
 Mathematics the record proves does not wait on a source. What this THEORY
 still waits on is what the sources show, and whether features reach the
 eigenfunctions.
-<!-- inactive-ok-file: CLAIM-641 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-641 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

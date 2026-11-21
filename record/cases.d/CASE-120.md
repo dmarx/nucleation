@@ -38,7 +38,6 @@ bears_on:
 draws_on:
 - THEORY-733
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # CASE-120: Six units with uniform coupling, A = αI + β(11ᵀ − I): their sum is exactly dynamically independent at every coupling tried, while a single unit and the sum of three are not, and no grouping of the units is a weakly coupled block
 

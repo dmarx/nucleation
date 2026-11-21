@@ -39,7 +39,6 @@ draws_on:
 - THEORY-012
 - THEORY-168
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed; cited for its note on which version of Contextuality-by-Default to cite -->
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
 

@@ -77,7 +77,6 @@ summary: >-
   bound that level. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-084 — Proposed; the test this claim is filed under -->
 
 # CLAIM-639: Knowing each configuration's requirement to within ε fixes every transition threshold to within ε but not which of a system's own reachable classes an observer's partitions can agree with: where two merges of the merge tree lie within 2ε of each other, an error within ε can reorder them, replacing a level that agrees under some order of probe costs with one that agrees under none
 

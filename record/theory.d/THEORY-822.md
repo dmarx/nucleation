@@ -199,4 +199,3 @@ Pfante et al. 2014, [LIT-1837](../literature.d/LIT-1837.md), which Rosas et al. 
 with the equivalence this entry generalizes for Markov spatial
 coarse-grainings, is registered and Unavailable, so the record still holds
 it second-hand. The entry is unchanged.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

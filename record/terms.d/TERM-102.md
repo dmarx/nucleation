@@ -45,7 +45,6 @@ summary: >-
 draws_on:
 - THEORY-120
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 <!-- inactive-ok-file: ADR-056 THEORY-029 THEORY-120 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

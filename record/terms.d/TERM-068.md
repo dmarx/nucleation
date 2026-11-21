@@ -42,7 +42,6 @@ draws_on:
 - THEORY-820
 - THEORY-822
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and agency readings that use organizational closure, cited as open -->
 
