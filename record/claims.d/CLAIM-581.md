@@ -31,7 +31,7 @@ history:
 - version: 4
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmpxi826 shows this claim's tree is
+    A dated note: CLAIM-780 shows this claim's tree is
     the small-noise limit of a chain's log commute-time geometry. No change of status or title.
 role: thesis
 warrant: demonstrated
@@ -77,7 +77,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmp9lm3d — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
+<!-- inactive-ok-file: CLAIM-780 CLAIM-770 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CASE-236 CLAIM-646 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 
 # CLAIM-581: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists
@@ -228,12 +228,12 @@ In the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa
 
 ## Note of 2026-11-20: the tree as the limit of a time geometry
 
-[CLAIM-tmpxi826](CLAIM-tmpxi826.md) shows that for a chain with symmetric rates ε^U, the log
+[CLAIM-780](CLAIM-780.md) shows that for a chain with symmetric rates ε^U, the log
 commute time between two states is within log max(E, n − 1) of log n plus
 log(1/ε) times this claim's threshold, the minimax barrier. So as time
 scales separate, the time geometry of the state space converges, after
 scaling, to this claim's ultrametric, and the tree of budgeted classes is
 what that geometry becomes. This claim's peak-capacity threshold is thereby
-also the exponent of a transition time. [CLAIM-tmp9lm3d](CLAIM-tmp9lm3d.md) adds that the tree
+also the exponent of a transition time. [CLAIM-770](CLAIM-770.md) adds that the tree
 changes only where two barriers cross. A bearing of use; nothing here
 changes this claim's derivation.

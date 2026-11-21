@@ -6,7 +6,7 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-4 of 198 LEAD documents. Back to the [full index](../README.md).
+5 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [LEAD-070](../../../record/leads.d/LEAD-070.md) | Find where the effort that positive affect frees goes, measured against an ordering that participants' own conflicts reveal, reading Carver first-hand | It settles the sign of clause 3 of [CLAIM-440](../../../record/claims.d/CLAIM-440.md). Named in [CLAIM-505](../../../record/claims.d/CLAIM-505.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-123](../../../record/leads.d/LEAD-123.md) | Build the three-perspective agenda model with a latent Condorcet cycle, in which a chair or a legibility regime controls which pairwise contests enter the record | Named in [CLAIM-448](../../../record/claims.d/CLAIM-448.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-127](../../../record/leads.d/LEAD-127.md) | Search for evidence that thwarting a candidate basic need causes a functional deficit, and thwarting a matched enhancer does not, under intervention | Named in [QUESTION-369](../../../record/questions.d/QUESTION-369.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-200](../../../record/leads.d/LEAD-200.md) v2 | Check whether a hierarchy of time scales, seen from one level, decays hyperbolically rather than exponentially: whether relaxation summed over the levels of an ultrametric tree gives a power law, and whether hyperbolic discounting is exponential discounting averaged over a spread of hazard rates, which would tie Ainslie's account of will to the time geometry of a hierarchy | The third sense of hyperbolicity the assistant named on 2026-11-20, kept apart because it rests on memory. Two classical results are recalled, not read: power-law relaxation on ultrametric spaces ([LIT-2954](../../../record/literature.d/LIT-2954.md)) and hyperbolic discounting from uncertain hazard rates ([LIT-2949](../../../record/literature.d/LIT-2949.md)). If both hold, hyperbolic discounting ([THEORY-1117](../../../record/theory.d/THEORY-1117.md)) is what a hierarchy of time scales looks like from one of its levels. Low priority: speculative until read. | Done |

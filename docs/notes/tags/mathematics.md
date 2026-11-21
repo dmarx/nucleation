@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-313 of 2217 NOTE documents. Back to the [full index](../README.md).
+318 of 2235 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -321,3 +321,8 @@
 | [NOTE-2120](../../../record/notes.d/NOTE-2120.md) | Belkin and Niyogi 2001 — Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering |  | Read |
 | [NOTE-2124](../../../record/notes.d/NOTE-2124.md) | Teo and Kane 2010 — Topological Defects and Gapless Modes in Insulators and Superconductors |  | Skimmed |
 | [NOTE-2130](../../../record/notes.d/NOTE-2130.md) | DeVille and Lerman 2013 — Modular dynamical systems on networks |  | Read |
+| [NOTE-2218](../../../record/notes.d/NOTE-2218.md) | Bachas and Huberman — Complexity and ultradiffusion | Ultradiffusion on an ultrametric tree solved as one exponential mode per branch point; power-law relaxation on infinite uniform trees, exponent ln b/(ln(1/g) − ln b) in per-pair terms, unstable when gb ≥ 1; exponential decay on any finite tree. Stands in for Ogielski and Stein, whose results it says it partly rederives. | Read |
+| [NOTE-2225](../../../record/notes.d/NOTE-2225.md) | Bovier, Eckhoff, Gayrard and Klein — Metastability and low lying spectra | For reversible chains with generically separated metastable points: minus log capacity is an ultrametric up to ln 3; mean exit times are valley mass over capacity; each metastable point owns one low-lying eigenvalue with an eigenvector near its valley's indicator. Large-N, generic, sharp to (1 + o(1)). A large-N limit with escape-probability definitions, not the record's small-noise ε^U form. | Read |
+| [NOTE-2229](../../../record/notes.d/NOTE-2229.md) | Jafarpour, Cisneros-Velarde and Bullo — Weak and semi-contraction | Semi-contraction (contraction in a seminorm) contracts trajectories only transverse to the seminorm's kernel and keeps nothing by itself; trajectories may diverge along the kernel. Convergence to a point needs weak contraction too, and where the limit lies is fixed by a separate exact invariant (vᵀx in affine averaging). | Read |
+| [NOTE-2231](../../../record/notes.d/NOTE-2231.md) | De Pasquale, Smith, Bullo and Valcher — Dual seminorms and ergodic coefficients | Ergodic coefficients are induced matrix seminorms; projection and distance seminorms are dual, so the Markov–Dobrushin coefficient bounds both averaging and the flow of distributions. Under invariance or conservation, only the part off the kernel contracts; differences along the kernel may persist or grow. No result says what the limit keeps of the start. | Read |
+| [NOTE-2234](../../../record/notes.d/NOTE-2234.md) | Anchugina, Ryan and Slinko — Aggregating time preferences with decreasing impatience | Restates Sozou's result in one sentence; its subject, aggregating exponential discounters into decreasing impatience, not read beyond §4.1. | Skimmed |

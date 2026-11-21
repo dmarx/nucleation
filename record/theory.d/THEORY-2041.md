@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmp2yj4t reads the ordered phase as
+    A dated note: CLAIM-767 reads the ordered phase as
     the contracting row of the record's drift model. No change of status or title.
 source:
 - LIT-2825
@@ -40,7 +40,7 @@ summary: >-
   tmpyahtz ([THEORY-2051](THEORY-2051.md)) claims to avoid over a whole symmetry-broken
   phase. Read in its NOTE.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmphedau — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
+<!-- inactive-ok-file: CLAIM-767 CLAIM-773 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 
 # THEORY-2041: Schoenholz and colleagues show, in mean-field theory of wide random fully connected networks with bounded activations and in experiments on MNIST and CIFAR-10, that the correlation between two inputs approaches its limit over a depth scale that diverges only at the order-to-chaos transition, that gradients vanish or explode over the same scale on either side, that networks train when their depth is below about six times that scale, and that dropout removes the transition and so caps trainable depth
@@ -60,10 +60,10 @@ The direct ancestor, read ([THEORY-2031](THEORY-2031.md); [NOTE-2099](../notes.d
 
 ## Note of 2026-11-20: the ordered phase as contraction in depth
 
-[CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md) reads depth as a restatement chain. In this reading's ordered
+[CLAIM-767](../claims.d/CLAIM-767.md) reads depth as a restatement chain. In this reading's ordered
 phase each layer pulls the correlation between inputs toward its fixed point,
-which is the contracting row of [CLAIM-tmphedau](../claims.d/CLAIM-tmphedau.md)'s drift model: the input is
+which is the contracting row of [CLAIM-773](../claims.d/CLAIM-773.md)'s drift model: the input is
 forgotten geometrically, over this reading's depth scale. A residual skip
-connection moves the chain to the copied-with-error row. [CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md)
+connection moves the chain to the copied-with-error row. [CLAIM-767](../claims.d/CLAIM-767.md)
 grounds on this reading for that row; it adds nothing to the reading's
 mean-field result.

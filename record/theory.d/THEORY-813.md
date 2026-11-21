@@ -10,7 +10,7 @@ history:
 - version: 2
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmpqwoxz reads the lazy regime as a
+    A dated note: CLAIM-775 reads the lazy regime as a
     separation of rates between features and fit. No change of status or title.
 tags:
 - learning-theory
@@ -35,7 +35,7 @@ extends:
 answers:
 - QUESTION-192
 ---
-<!-- inactive-ok-file: CLAIM-tmpqwoxz CLAIM-478 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
+<!-- inactive-ok-file: CLAIM-775 CLAIM-478 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 
 # THEORY-813: Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces
 
@@ -61,7 +61,7 @@ A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): Poole and colleagues' layerwi
 
 ## Note of 2026-11-20: the lazy regime as two levels
 
-[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md) reads the lazy, kernel regime this reading describes as a
+[CLAIM-775](../claims.d/CLAIM-775.md) reads the lazy, kernel regime this reading describes as a
 separation of rates: the hidden features move by a vanishing amount while the
 output is fit, so the features act as a slow level constraining the fast
 readout, in the sense of [CLAIM-478](../claims.d/CLAIM-478.md) (version 5). Feature learning, which this

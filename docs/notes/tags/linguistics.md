@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-46 of 2217 NOTE documents. Back to the [full index](../README.md).
+47 of 2235 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -54,3 +54,4 @@
 | [NOTE-2163](../../../record/notes.d/NOTE-2163.md) | Papadimitriou and Jurafsky — Learning Music Helps You Read | TILT: train an LSTM on a first corpus, freeze it, finetune only embeddings on Spanish. Code, music and paired-token languages transfer far better than random text; flat pairs equal nesting; transfer among natural languages tracks syntactic distance. No full-finetuning arm and no cost measure. | Read |
 | [NOTE-2183](../../../record/notes.d/NOTE-2183.md) | Keller — Sprachwandel | Language as conventions changed by systematic breaches; a phenomenon of the third kind, like a path trodden across a lawn; invisible-hand explanation in three stages, from speakers' maxims to structure; structural, not specific, predictions. In German. | Read |
 | [NOTE-2212](../../../record/notes.d/NOTE-2212.md) | Bohn, Kachel and Tomasello — Young children spontaneously recreate core properties of language in a new modality | Children aged 3–8 in pairs create iconic gestures to communicate when sound is cut; signs converge within pairs, drift slightly toward arbitrariness with reduced effort, and combine compositionally for complex relations, not in German word order. N = 198. | Read |
+| [NOTE-2222](../../../record/notes.d/NOTE-2222.md) | Tenney, Das and Pavlick — BERT and the classical pipeline | Probing frozen BERT finds syntactic information best extracted lower and more locally, semantic information higher and spread across many layers; the order holds in aggregate and is weak in the middle, where tasks overlap and their order changes between metrics and models; individual examples revise lower-level decisions from higher-level information. | Read |

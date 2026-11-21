@@ -29,8 +29,8 @@ history:
 - version: 2
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmpy75jv grounds on this reading,
-    and CLAIM-tmp9lm3d states its loss of levels in a barrier model. No change of status or title.
+    A dated note: CLAIM-781 grounds on this reading,
+    and CLAIM-770 states its loss of levels in a barrier model. No change of status or title.
 tags:
 - complex-systems
 - philosophy-of-science
@@ -47,7 +47,7 @@ summary: >-
   model, and the loss of control when rates converge is asserted with
   institutional and oncological examples, not shown.
 ---
-<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmp9lm3d CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
+<!-- inactive-ok-file: CLAIM-780 CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim it is prior art for, cited as open -->
 
 # THEORY-1558: In hierarchically organized systems, levels are demarcated by sharp discontinuities in characteristic process and relaxation rates, the embedding level being slower than its components, and a level controls another by constraint only while their rates stay separated: when the cycling rates converge, the control asymmetry and the distinction between the levels are lost, whatever the signal amplitude
@@ -125,12 +125,12 @@ chapter offers none of either and tests neither.
 ## Note of 2026-11-20: the loss of levels, in a model
 
 This reading holds that "when the cycling rates converge, the control
-asymmetry and the distinction between the levels are lost". [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md)
-and [CLAIM-tmp9lm3d](../claims.d/CLAIM-tmp9lm3d.md) give a version in a barrier model: two levels whose
+asymmetry and the distinction between the levels are lost". [CLAIM-780](../claims.d/CLAIM-780.md)
+and [CLAIM-770](../claims.d/CLAIM-770.md) give a version in a barrier model: two levels whose
 barriers differ by Δu are separated in the log commute-time geometry by
 about log(1/ε)·Δu, and cannot be told apart once that falls below the
 geometry's slack; the tree changes only where two barriers cross.
-[CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md) grounds on this reading for the claim that one rate gap both
+[CLAIM-781](../claims.d/CLAIM-781.md) grounds on this reading for the claim that one rate gap both
 makes a level and spaces it. The model supports the reading's form; it is
 not evidence that Juarrero's levels are of this kind, which is what
 promote_when asks.

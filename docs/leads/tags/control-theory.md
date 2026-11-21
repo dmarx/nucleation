@@ -6,8 +6,8 @@
 
 **Control theory** — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066).
 
-0 of 198 LEAD documents. Back to the [full index](../README.md).
+1 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-205](../../../record/leads.d/LEAD-205.md) v2 | Read the two semicontraction papers, to see whether contraction with respect to a seminorm states in one theory what the record puts together from Markov retention and partial contraction, and whether its conditions say which features a restatement conserves | Read [LIT-2945](../../../record/literature.d/LIT-2945.md) (Jafarpour, Cisneros-Velarde and Bullo) and [LIT-2953](../../../record/literature.d/LIT-2953.md) (De Pasquale, Smith, Bullo and Valcher), both open on arXiv, under read-and-file. [CLAIM-772](../../../record/claims.d/CLAIM-772.md) joins [CLAIM-635](../../../record/claims.d/CLAIM-635.md), [THEORY-960](../../../record/theory.d/THEORY-960.md) and [THEORY-2044](../../../record/theory.d/THEORY-2044.md) by argument ([ARG-124](../../../record/arguments.d/ARG-124.md)); if semicontraction already joins them, the claim can rest on a reading and not only on the application. | Done |

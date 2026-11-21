@@ -6,7 +6,7 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-26 of 198 LEAD documents. Back to the [full index](../README.md).
+27 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -36,3 +36,4 @@
 | [LEAD-165](../../../record/leads.d/LEAD-165.md) | Run the language-model experiments on frame commutation and on in-context learning against test-time training | Named in [CLAIM-074](../../../record/claims.d/CLAIM-074.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-172](../../../record/leads.d/LEAD-172.md) | Run the modular-addition checkpoint study and its prospective test: fit the coupled feature-circuit description on early checkpoints and predict later functional change under held-out training interventions | The first test of the owner's hypothesis that wave mathematics applies to learning, for a question cited over a hundred times. Named in [QUESTION-275](../../../record/questions.d/QUESTION-275.md) and [CASE-272](../../../record/cases.d/CASE-272.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-194](../../../record/leads.d/LEAD-194.md) | Resolve the tension between the claims on curation as revision and on admission | Named in the curation entry of 2026-11-11 (061331). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-202](../../../record/leads.d/LEAD-202.md) v2 | Read the μP, depth-scaling and modular papers registered on 2026-11-20, to test the three claims that relate the record's rate and drift results to them: the order of learning under spectral steepest descent, residual depth scaling as a choice of drift kind, and parameterization as an allocation of rates among modules | Seven works, all open on arXiv, registered Deferred: Yang and Hu ([LIT-2943](../../../record/literature.d/LIT-2943.md)), Tensor Programs VI ([LIT-2939](../../../record/literature.d/LIT-2939.md)), Bordelon and colleagues ([LIT-2955](../../../record/literature.d/LIT-2955.md)), the spectral condition ([LIT-2947](../../../record/literature.d/LIT-2947.md)), the modular norm ([LIT-2938](../../../record/literature.d/LIT-2938.md)), modular duality ([LIT-2952](../../../record/literature.d/LIT-2952.md)) and lazy training ([LIT-2941](../../../record/literature.d/LIT-2941.md)). The claims rest on recollections and abstracts until they are read. All seven were read on 2026-11-21. | Done |

@@ -2,4 +2,18 @@
 
 # Development log
 
-Nothing filed yet.
+Notes taken during the work, to revisit at the next retrospective (RETRO) - what seems to be going right and why, what is going wrong, the wrong theories and how they were found out. Each retrospective reads the entries filed since the last (the decision adding the RETRO scheme).
+
+## Currently — [November 2026](2026-11.md)
+
+- [21 Nov 00:31 — Going wrong: the wrong theories of the session of 2026-11-20 and 21, how each was found out, and a docs-check failure nobody looked at](2026-11.md#going-wrong-the-wrong-theories-of-the-session-of-2026-11-20-and-21-how-each-was-found-out-and-a-docs-check-failure-nobody-looked-at)
+- [21 Nov 00:31 — Going right: the record already held most of the formal pieces, and the owner's reframings turned the assistant's first answers into better claims](2026-11.md#going-right-the-record-already-held-most-of-the-formal-pieces-and-the-owners-reframings-turned-the-assistants-first-answers-into-better-claims)
+- [21 Nov 00:31 — Going right: delegated readers checked the session's claims against the works they rested on, and caught three of the assistant's errors before they merged](2026-11.md#going-right-delegated-readers-checked-the-sessions-claims-against-the-works-they-rested-on-and-caught-three-of-the-assistants-errors-before-they-merged)
+
+## All books
+
+3 entries across 1 book, newest first.
+
+| Book | Entries | First | Last |
+|---|--:|---|---|
+| [2026-11](2026-11.md) | 3 | 2026-11-21 | 2026-11-21 |

@@ -6,8 +6,8 @@
 
 **Anthology candidate** — a curation flag, not a subject — somebody judged the Anthology of the SOTA may want this work as well; it stays here unless a transfer is decided, and is never a primary topic (ADR-005, ADR-048; group: flags).
 
-0 of 198 LEAD documents. Back to the [full index](../README.md).
+1 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-202](../../../record/leads.d/LEAD-202.md) v2 | Read the μP, depth-scaling and modular papers registered on 2026-11-20, to test the three claims that relate the record's rate and drift results to them: the order of learning under spectral steepest descent, residual depth scaling as a choice of drift kind, and parameterization as an allocation of rates among modules | Seven works, all open on arXiv, registered Deferred: Yang and Hu ([LIT-2943](../../../record/literature.d/LIT-2943.md)), Tensor Programs VI ([LIT-2939](../../../record/literature.d/LIT-2939.md)), Bordelon and colleagues ([LIT-2955](../../../record/literature.d/LIT-2955.md)), the spectral condition ([LIT-2947](../../../record/literature.d/LIT-2947.md)), the modular norm ([LIT-2938](../../../record/literature.d/LIT-2938.md)), modular duality ([LIT-2952](../../../record/literature.d/LIT-2952.md)) and lazy training ([LIT-2941](../../../record/literature.d/LIT-2941.md)). The claims rest on recollections and abstracts until they are read. All seven were read on 2026-11-21. | Done |

@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 129 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 130 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -266,3 +266,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-122](../record/arguments.d/ARG-122.md) — The formal-language and procedural first phases show that an earlier acquisition can lower a later one's cost with its own cost counted, but the compute-matched null shows this is not a general property of pretraining with a first phase, so they support the claim's premise as possibility and no more *(Proposed, existence)*
 - [CLAIM-766](../record/claims.d/CLAIM-766.md) — In children's equal division of jointly earned spoils, the joint "we" supplies the motive to settle the division and the equal split supplies its content as the conspicuous solution the situation affords, so the obligation reading and the coordination reading are complementary, and at age three the conspicuous split is a known default rather than a focal point found by mutual expectation *(Proposed, thesis)*
   - [ARG-123](../record/arguments.d/ARG-123.md) — The age-three pattern, equality stated as a norm but kept to only after collaboration, with mutual expectation and tacit salience unavailable at that age, is best explained by a joint commitment that motivates settling a division whose content is an already-known equal default *(Proposed, abduction)*
+- [CLAIM-772](../record/claims.d/CLAIM-772.md) — Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema *(Proposed, thesis)*
+  - [ARG-124](../record/arguments.d/ARG-124.md) — Applying the conservation results for contracting chains to the restatement of the record's entries: the retention bound for exactly conserved observables and DeGroot's conserved average carry over if a session's restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which holds for the text and not for its interpretation *(Proposed, formal-application)*
