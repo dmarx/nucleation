@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Alternative B to ADR-075''s step 5: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator''s summary in an exchange, keeps ADR-075''s rule and is filed only for what passes the test'
+title: 'Alternative B for the admission test of a synthesis: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator''s summary in an exchange, keeps the existing rule and is filed only for what passes the test'
 version: 1
 tags:
 - record
@@ -17,7 +17,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-tmpi2grj ADR-tmpkiuac — Proposed; the alternatives filed with this one -->
 
-# ADR-tmpoxu5i: Alternative B to [ADR-075](ADR-075.md)'s step 5: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator's summary in an exchange, keeps [ADR-075](ADR-075.md)'s rule and is filed only for what passes the test
+# ADR-tmpoxu5i: Alternative B for the admission test of a synthesis: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator's summary in an exchange, keeps the existing rule and is filed only for what passes the test
 
 *Filed with two alternatives, [ADR-tmpi2grj](ADR-tmpi2grj.md) (A, which gives the shared context in full) and [ADR-tmpkiuac](ADR-tmpkiuac.md) (C). The owner chooses.*
 

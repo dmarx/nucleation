@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Alternative C to ADR-075''s step 5: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down'
+title: 'Alternative C for the admission test of a synthesis: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down'
 version: 1
 tags:
 - record
@@ -18,7 +18,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-tmpi2grj ADR-tmpoxu5i — Proposed; the alternatives filed with this one -->
 
-# ADR-tmpkiuac: Alternative C to [ADR-075](ADR-075.md)'s step 5: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down
+# ADR-tmpkiuac: Alternative C for the admission test of a synthesis: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down
 
 *Filed with two alternatives, [ADR-tmpi2grj](ADR-tmpi2grj.md) (A, which gives the shared context in full) and [ADR-tmpoxu5i](ADR-tmpoxu5i.md) (B). The owner chooses.*
 

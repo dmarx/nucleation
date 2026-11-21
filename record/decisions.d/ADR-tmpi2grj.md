@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Alternative A to ADR-075''s step 5: the test for a claim whose premises are claims decides whether a synthesis also yields a claim, not whether it is kept; a synthesis that organizes held components is filed as an account of its own scope whether or not it yields a claim, and only a recap, a synthesis that adds nothing but labels, stays in the curation entry'
+title: 'Alternative A for the admission test of a synthesis: the test for a claim whose premises are claims decides whether a synthesis also yields a claim, not whether it is kept; a synthesis that organizes held components is filed as an account of its own scope whether or not it yields a claim, and only a recap, a synthesis that adds nothing but labels, stays in the curation entry'
 version: 1
 tags:
 - record
@@ -20,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-tmpoxu5i ADR-tmpkiuac — Proposed; the alternatives filed with this one -->
 
-# ADR-tmpi2grj: Alternative A to [ADR-075](ADR-075.md)'s step 5: the test for a claim whose premises are claims decides whether a synthesis also yields a claim, not whether it is kept; a synthesis that organizes held components is filed as an account of its own scope whether or not it yields a claim, and only a recap, a synthesis that adds nothing but labels, stays in the curation entry
+# ADR-tmpi2grj: Alternative A for the admission test of a synthesis: the test for a claim whose premises are claims decides whether a synthesis also yields a claim, not whether it is kept; a synthesis that organizes held components is filed as an account of its own scope whether or not it yields a claim, and only a recap, a synthesis that adds nothing but labels, stays in the curation entry
 
 *Filed with two alternatives, [ADR-tmpoxu5i](ADR-tmpoxu5i.md) (B) and [ADR-tmpkiuac](ADR-tmpkiuac.md) (C). The owner chooses. The context is shared and given in full here.*
 
