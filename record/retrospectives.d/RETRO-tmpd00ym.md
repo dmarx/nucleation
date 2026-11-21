@@ -62,8 +62,7 @@ summary: >-
   periodic executive summaries. The review is the assistant's (Claude, in this
   session); adopting its recommendations is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpw70lb ADR-tmp9sp9d — Active, new; the decisions this review prompted -->
-<!-- inactive-ok-file: ADR-tmpcb96w ADR-tmpcjfyy CLAIM-tmpcg4uu CLAIM-tmp7ijze CLAIM-tmpewm5i — Proposed, Rejected or new; the entries this review names -->
+<!-- inactive-ok-file: ADR-tmpcjfyy CLAIM-tmpcg4uu CLAIM-tmp7ijze CLAIM-tmpewm5i — Proposed, Rejected or new; the entries this review names -->
 
 # RETRO-tmpd00ym: The filing of Rich Get Richer Power Laws and the evening after: an exchange, eight readings, a manuscript refresh and two decisions on how the record files, in five pull requests; what went right was separate readers checking the drafters' work and the owner's corrections becoming rules the same evening, and what went wrong was the assistant settling for one reading, one framing or one file where the owner wanted all of them
 
@@ -131,11 +130,11 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
 
 ## The owner's responses, 2026-11-21
 
-The owner: "adopt". The assistant read it as covering both things then waiting on the owner: this review with its five recommendations, and ADR-tmpcb96w. Both were taken (ADR-tmpw70lb, its first rule).
+The owner: "adopt". The assistant read it as covering both things then waiting on the owner: this review with its five recommendations, and [ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md). Both were taken ([ADR-tmpw70lb](../decisions.d/ADR-tmpw70lb.md), its first rule).
 
-- **1 and 5:** adopted as ADR-tmpw70lb, conduct in the dialectic regime: think out loud, relay findings, executive summaries, and file every reading before asking.
-- **2, 3 and 4:** adopted as ADR-tmp9sp9d, parallel filing in one working tree.
-- **ADR-tmpcb96w:** Active.
+- **1 and 5:** adopted as [ADR-tmpw70lb](../decisions.d/ADR-tmpw70lb.md), conduct in the dialectic regime: think out loud, relay findings, executive summaries, and file every reading before asking.
+- **2, 3 and 4:** adopted as [ADR-tmp9sp9d](../decisions.d/ADR-tmp9sp9d.md), parallel filing in one working tree.
+- **[ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md):** Active.
 
 ## What it does not say
 
