@@ -54,7 +54,7 @@ seemingly trivial variations" (§1, p. 227).
    developed in [Gabaix 99, Kesten 73]."
 6. Another simpler mechanism may exist (§6, p. 238): "Just because one finds a compelling mechanism
    to explain a power law does not mean that there are not other, perhaps simpler, explanations."
-   With equal letter probabilities, monkeys give q_j = q r_j^(log_n(1-q)) - 1 (p. 239). The paper
+   With equal letter probabilities, monkeys give q_j = q · r_j^(log_n(1-q) - 1) for rank r_j = n^j (p. 239). The paper
    rebuts Perline's claim that unequal letters give a lognormal: "for each value of m we obtain a
    slightly different lognormal distribution", so the limit "need not be lognormal" (p. 240).
 7. Random stopping time (§7, pp. 241-242): "instead of examining X_t for a specific value of t, we
