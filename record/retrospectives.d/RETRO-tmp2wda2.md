@@ -1,7 +1,15 @@
 ---
 status: Draft
 title: 'The owner''s rulings on the promotion pull request of 2026-11-21 and the hour after: one list of rulings became twelve pull requests, a promotion and a back-merge; what went right was ruling inline and choosing among filed alternatives, and what went wrong was the assistant reaching for a script or a memory where the tool already held the rule'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's responses, the same hour: a go for recommendations 1 and 5;
+    2 and 3 too broad as worded; 4 to be elaborated. Recorded under "The
+    owner's responses", with 2 and 3 restated narrower and 4 set out. The
+    recommendations as first written are kept above.
 tags:
 - record
 - process
@@ -95,6 +103,34 @@ The devlog entries of 09:05:39 and 09:37:39, filed on pull request 594 as the wo
 3. **Have a second reader check any classification a finding rests on**, or put it to the owner. That applies to the term audit's kinds of change as much as to the census's decisions.
 4. **Append to a shared description; do not rewrite it.** Where a workflow writes the description, as the Promotion PR workflow now does, check after each push that additions survive.
 5. **When a hold lifts, say the next step and take it** in the same turn.
+
+## The owner's responses, 2026-11-21
+
+1. **Bump luria to 1.11.0.** "go". Done in pull request 601. All nine pins move. Diffing the two wheels shows the only other change is a commented-out template note.
+2. **Check the tool before scripting.** "2 should be narrower than any mechanical change, should reflect on whether it's reasonable that the luria CLI might be able to handle the thing first." Restated: before writing a script that changes the record's files, ask whether the change is the kind the luria CLI exists to make, such as rewriting codes, linking references, completing relations, scaffolding entries, or migrating a field. If it plausibly is, read the relevant `luria … --help` first. A one-off edit of content, or a change luria has no reason to know about, needs no such check.
+3. **A second reader for classifications.** The owner's skepticism "might be just a response to the word 'any'". Restated: when a finding turns on an interpretive classification, and one reader made it, have that classification checked before the finding is filed, by a second reader or by the owner. An interpretive classification here means one like whether a term's meaning changed, or whether a change was a revision. Classifications read off a field, a count or a diff need no second reader.
+4. **Shared PR descriptions.** To be elaborated; see the next section.
+5. **When a hold lifts, say the next step and take it.** "go". Filed as a convention in its own pull request.
+
+## Shared PR descriptions, elaborated
+
+**The failure.** The promotion pull request's description was edited by three writers. The workflow wrote it on opening. The assistant in this session added the choices waiting on the owner. Another session, tending the same pull request, rewrote it at 08:08 to fix its account of the batch. GitHub keeps one body and the last write wins. The other session read the description, rebuilt it from what it knew, and wrote it back. The list of choices, which it had not written, was dropped without anyone deciding to drop it. Nothing failed loudly. The assistant found the loss only because it re-read the description before its own next edit.
+
+**What is not the problem.** The workflow. `promotion-pr.sh` writes the body once, when it opens the pull request, and never again, so additions made after that survive its later runs. Recommendation 4's second half, to check after each push that a workflow-written body keeps additions, is withdrawn.
+
+**The proposal: sections with owners, and a check before writing.**
+
+- **Sections.** A shared description is divided into sections, each opened by a marker naming what it holds, such as `<!-- section: batch -->` and `<!-- section: choices -->`. Each writer edits only the sections it is responsible for and copies the others through byte for byte. The batch table is kept by whoever merges into staging. The choices are kept by whoever adds them. The owner's inline rulings live inside the choices section and are never removed by anyone but the owner.
+- **Read, then write, then check.** Read the body and its `updated_at` immediately before writing. Write only if `updated_at` is unchanged. Otherwise read again and merge the change into the newer body. After writing, read the body back once to confirm.
+- **Additions, not reconstructions.** A writer who finds the body wrong corrects the line that is wrong, and does not regenerate the body from its own picture of the batch.
+
+**Alternatives considered.**
+
+- **Choices as comments, not in the description.** Comments are append-only, so nothing is lost. But the owner's inline rulings worked because each answer sat under its question in one place. Comments scatter that.
+- **A file on staging holding the choices**, regenerated into the description. It is durable and reviewable, but heavier than the problem, and a file merged into main then needs clearing.
+- **One writer only.** All edits go through the session that opened the description. That is simple, but it does not fit a record where several sessions merge into staging in one night.
+
+**Lean:** sections with owners plus the read-then-write check. It keeps the owner's way of ruling, and costs one extra read per edit. If the owner agrees, it would be filed as a short convention, with this pull request description as its first application.
 
 ## What it does not say
 
