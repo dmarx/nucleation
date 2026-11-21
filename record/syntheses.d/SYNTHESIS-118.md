@@ -1,5 +1,8 @@
 ---
+number: 118
 status: Proposed
+formerly:
+- SYNTHESIS-tmpt1te9
 title: 'The learning-and-inquiry line is eight part accounts and three claims integrated directly, which meet only through relations their components store, most of them at self-formation, and which no entry orders as a sequence'
 version: 1
 defeated_if: >-
@@ -47,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-109 SYNTHESIS-110 SYNTHESIS-111 SYNTHESIS-112 SYNTHESIS-113 SYNTHESIS-114 SYNTHESIS-115 SYNTHESIS-116 CLAIM-794 — Proposed; part accounts and a component of this account, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-732 CLAIM-719 CLAIM-762 CLAIM-780 CLAIM-090 CLAIM-182 CLAIM-184 CLAIM-189 CLAIM-191 CLAIM-315 CLAIM-772 CLAIM-789 CLAIM-790 CLAIM-793 ARG-035 ARG-124 TERM-131 — Proposed or Open; the part accounts and components cited, with their standing -->
 
-# SYNTHESIS-tmpt1te9: The learning-and-inquiry line is eight part accounts and three claims integrated directly, which meet only through relations their components store, most of them at self-formation, and which no entry orders as a sequence
+# SYNTHESIS-118: The learning-and-inquiry line is eight part accounts and three claims integrated directly, which meet only through relations their components store, most of them at self-formation, and which no entry orders as a sequence
 
 *The account of the learning-and-inquiry line, over the accounts of its
 parts ([ADR-083](../decisions.d/ADR-083.md)). The line was added by [ADR-130](../decisions.d/ADR-130.md) (Active) on 2026-11-21. It
