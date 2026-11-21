@@ -53,11 +53,11 @@ The term-change audit read every commit to `luria.yaml` across the whole history
 
 - **Splits moved the entries that moved.** `Deferred`: 177 of 345, exactly the entries reassigned. `ecology` lost `endosymbiosis`: 13 of 50. Each line split moved at least the entries its decision named. The audit counts slightly more entries touched than each decision names, for example 44 against 43, because entries are touched for other reasons in the same unit.
 - **Widening needed no re-reading, and got almost none.** `learning-theory` was widened by ADR-036, and 1 of its 92 carrying entries was touched. A widened word still holds every entry that held it before.
-- **One redefinition in place was not carried through.** ADR-048 changed what `anthology-candidate` means, from "this work's filing here is in doubt" to "the anthology may want this work as well". None of the 237 entries carrying it was touched. The decision announced the change, but nothing located it in the entries. A reader of an old flag today reads it under a meaning it was not written with.
+- **No redefinition in place.** An earlier version of this section read ADR-048's rewording of `anthology-candidate`, none of whose 237 entries was touched, as a redefinition left untraced. The owner ruled otherwise (2026-11-21): the flag did not change meaning. It records, as it always did, that someone judged the anthology may want the work; ADR-048 changed what that implies about filing here. Revisiting flags is the anthology's process. So nothing needed to be carried through, and the history holds no change of meaning alone (CLAIM-tmpj5aiv, version 2).
 
 There is a second failure, of a different kind (§14.5). A correction to a postmortem's body did not reach its summary, and the generated view propagated the uncorrected summary.
 
-**Verdict: supported for removals, splits and widenings. Falsified in one instance of in-place redefinition, and in one derived summary.** The record traced its grammar changes at the level of the grammar. It traced them at the level of entries when entries had to move. When only a meaning moved, the entries did not record it. By CLAIM-666's criterion, that a faithful migration preserves the accountability structure, ADR-048's migration was not faithful.
+**Verdict: supported for removals, splits and widenings, and falsified in one derived summary. The exception E3 predicts, where only a meaning changes, is untested.** The record traced its grammar changes at the level of the grammar, and at the level of entries whenever entries had to move. The history offers no case of a meaning changing alone, so E3's exception neither held nor failed. That is a gap in the test, not support for the theory.
 
 ### 15.3 E4: costs, and errors caused by grammar changes
 

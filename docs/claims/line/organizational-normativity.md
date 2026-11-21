@@ -6,7 +6,7 @@
 
 **Normative judgment about organizations** — whether an organization's own dynamics ground norms of function and failure, and what judging an organization needs beyond them — fixed relata before a judgment is well-defined, viability that does not establish what ought to persist, histories a present state does not show, a failure norm set by a system's own upkeep, and a bounded duty of answerability for the wrong beyond harm, with the routes by which an organization becomes normatively less informed; split from will-organization (ADR-089). What wholes and parts owe each other, and what those who govern an arrangement others depend on owe, is a line of its own (ADR-100).
 
-47 of 788 CLAIM documents. Back to the [full index](../README.md).
+47 of 794 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
