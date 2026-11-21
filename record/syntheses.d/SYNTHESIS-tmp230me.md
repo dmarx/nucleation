@@ -28,7 +28,7 @@ integrates:
 - CLAIM-455
 ---
 
-<!-- inactive-ok-file: CLAIM-770 CLAIM-780 CLAIM-781 QUESTION-500 QUESTION-501 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
+<!-- inactive-ok-file: CLAIM-770 CLAIM-780 CLAIM-781 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
 
 # SYNTHESIS-tmp230me: Growth in observing resource splits what can be told apart, growth in acting resource merges what can be turned into one another, and optimal categories at a larger budget can re-carve rather than refine: what the record holds on how categories change as resources grow
 
@@ -65,6 +65,6 @@ integrates:
 
 Filed since, and candidates for this account's components at its next synthesis review:
 
-- **CLAIM-770** (Proposed, demonstrated): the tree of classes reachable within a budget keeps its shape while barriers move, and changes only where two barriers cross. A distinction between levels comes into being or passes away at such a crossing. This is a case, in one model, of the re-carving this account's optimal-partition clause describes.
-- **CLAIM-780** and **CLAIM-781** (Proposed): how a hierarchy's levels show in a chain's time geometry, and what rate separation between levels does.
-- **QUESTION-500** and **QUESTION-501** (Open): what rate ratio is enough for a level to show, and whether well-separated levels require separated rates.
+- **[CLAIM-770](../claims.d/CLAIM-770.md)** (Proposed, demonstrated): the tree of classes reachable within a budget keeps its shape while barriers move, and changes only where two barriers cross. A distinction between levels comes into being or passes away at such a crossing. This is a case, in one model, of the re-carving this account's optimal-partition clause describes.
+- **[CLAIM-780](../claims.d/CLAIM-780.md)** and **[CLAIM-781](../claims.d/CLAIM-781.md)** (Proposed): how a hierarchy's levels show in a chain's time geometry, and what rate separation between levels does.
+- **[QUESTION-500](../questions.d/QUESTION-500.md)** and **[QUESTION-501](../questions.d/QUESTION-501.md)** (Open): what rate ratio is enough for a level to show, and whether well-separated levels require separated rates.
