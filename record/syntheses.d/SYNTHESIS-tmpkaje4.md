@@ -30,7 +30,7 @@ integrates:
 - CLAIM-761
 - QUESTION-457
 ---
-<!-- inactive-ok-file: CLAIM-tmphigw4 CLAIM-tmpm9ep1 CLAIM-tmpj4fzn CLAIM-tmp8v75o TERM-tmp7m4at TERM-tmp0g123 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
+<!-- inactive-ok-file: CLAIM-784 CLAIM-786 CLAIM-785 CLAIM-783 TERM-134 TERM-133 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 # SYNTHESIS-tmpkaje4: Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question
 
@@ -66,14 +66,14 @@ integrates:
 Filed since, and candidates for this account's components at its next
 synthesis review:
 
-- **[CLAIM-tmphigw4](../claims.d/CLAIM-tmphigw4.md)** and **[CLAIM-tmpm9ep1](../claims.d/CLAIM-tmpm9ep1.md)**: engineering as a form of
+- **[CLAIM-784](../claims.d/CLAIM-784.md)** and **[CLAIM-786](../claims.d/CLAIM-786.md)**: engineering as a form of
   inquiry, read two ways; reflexive when building revises the
   specification, with the record's staging branch as the case
-  ([CASE-tmpi16kb](../cases.d/CASE-tmpi16kb.md)), where building found a requirement review had missed.
-- **[CLAIM-tmpj4fzn](../claims.d/CLAIM-tmpj4fzn.md)** and **[CLAIM-tmp8v75o](../claims.d/CLAIM-tmp8v75o.md)**: an entry's accrued predicates
+  ([CASE-299](../cases.d/CASE-299.md)), where building found a requirement review had missed.
+- **[CLAIM-785](../claims.d/CLAIM-785.md)** and **[CLAIM-783](../claims.d/CLAIM-783.md)**: an entry's accrued predicates
   are constraints, and the revisions open to it are their intersection;
   descriptors hold an entry where it is and impositions move it. This gives
   "stored specifications that cheapen some questions and entrench against
   others" a model.
-- **[TERM-tmp7m4at](../terms.d/TERM-tmp7m4at.md)** (a predicate read as a test) and **[TERM-tmp0g123](../terms.d/TERM-tmp0g123.md)**
+- **[TERM-134](../terms.d/TERM-134.md)** (a predicate read as a test) and **[TERM-133](../terms.d/TERM-133.md)**
   (stabilization in the control-theoretic sense).
