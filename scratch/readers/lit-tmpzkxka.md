@@ -215,10 +215,10 @@ Held entries the first search missed:
 - **THEORY-082** (Amari: natural gradient needs invertible Fisher; singular in multilayer perceptrons) and
   **LIT-tmp0z602** (Amari, Park & Ozeki 2006, Deferred): the paper cites the same work as [42] for "metric
   singularities (i.e. model boundaries)" in network training, and Eq. (46) as Amari's natural-gradient flow,
-  which it shows reduces to the geodesic equation when all nonlinearity is parameter-effects curvature.
+  which it states (without the derivation) reduces to the geodesic equation when all nonlinearity is parameter-effects curvature.
   *Parallel*.
 - **LIT-1299 / NOTE-1018** (Machta et al., parameter space compression): *background*, the same group's later
-  use of the hyperribbon.
+  work on sloppiness (not checked for the hyperribbon).
 - **LIT-tmpd3swn** (Deferred): is this paper's ref. [22], the PRL predecessor ("of which this work is a
   continuation", p.2).
 Nothing held on Levenberg–Marquardt, geodesic acceleration or curvature of least-squares manifolds (NOTE-1554,
