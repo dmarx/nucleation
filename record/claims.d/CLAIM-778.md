@@ -157,6 +157,17 @@ not by drift.
   convention, mechanism, guarantee) is the same hardening applied to the
   record's norms rather than its entries.
 
+## Reframings
+<!-- inactive-ok-file: ADR-tmpd4rgx — Proposed; the decision this section follows, 2026-11-21 -->
+
+**2026-11-20, the owner at U5 of the session ([ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md)).** The same turn
+that reframed [CLAIM-772](CLAIM-772.md). Before: an entry's degrees of freedom narrowed "as
+constraints accumulate on it", after Juarrero's two kinds of constraint
+([THEORY-1335](../theory.d/THEORY-1335.md)). After: its free features are the ones a restatement copies
+with error, and the life cycle moves them into the contracting or the
+conserved part. It changed the account and the title, in version 2;
+Juarrero, the rate argument and identity by status were kept.
+
 ## Tests
 
 [LEAD-199](../leads.d/LEAD-199.md) counts revisions against inbound references (defeater (a));
