@@ -83,7 +83,7 @@ leave out is filed too, as an option. In practice:
 
 - rival claims, each with its own `defeated_if`, or one claim with the
   readings as `supposed` alternatives where only one can be the record's;
-- rival senses of a term, under ADR-050, or rival terms;
+- rival senses of a term, under [ADR-050](ADR-050.md), or rival terms;
 - for a decision the owner asked for, an alternative Proposed decision per
   reading, each saying what it would change, for the owner to choose; the
   others then go Rejected, which keeps the readings on the record.
