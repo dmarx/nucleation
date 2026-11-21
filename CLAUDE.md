@@ -96,8 +96,9 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
                                   # term, arg, adr, dp, changelog, curation, workbench
 
 **The dialectic regime** ([ADR-127](record/decisions.d/ADR-127.md)). The owner switches it on and off
-("dialectic on", "dialectic off"); it is on until switched off, and a new
-session starts off. While it is on, file the argument the exchange develops
+("dialectic on", "dialectic off"); it is on until switched off. Its state is
+the conversation's: a restarted worker or a resumed or summarized
+conversation keeps it, and only a new conversation starts off. While it is on, file the argument the exchange develops
 as you go, without offering first: new entries in the argument schemes
 (those of [ADR-032](record/decisions.d/ADR-032.md), and WORKBENCH and LEAD, and any that join them),
 revisions to what the regime filed, dated notes, Reframings, corrections,
