@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'First Contact''s one failure is a choice of level: a shared-autonomy assistant that stabilizes the lander overrides the user''s commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user''s goals live; the task knowledge it assumes away is knowledge of that level'
+title: 'First Contact''s one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user''s commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user''s goals live; the task knowledge it assumes away is knowledge of that level'
 version: 1
 role: thesis
 warrant: interpretive
@@ -19,6 +19,8 @@ date: '2026-11-21'
 line:
 - will-organization
 - distributed-agency
+grounds:
+- THEORY-tmp3tb8i
 rests_on:
 - CLAIM-tmpydua7
 - CLAIM-361
@@ -36,17 +38,20 @@ summary: >-
   The assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpydua7 TERM-tmp0g123 CLAIM-478 — Proposed or Open; the claims and term this joins -->
+<!-- inactive-ok-file: THEORY-tmp3tb8i CLAIM-tmpydua7 TERM-tmp0g123 CLAIM-478 — Proposed or Open; the claims and term this joins -->
 
-# CLAIM-tmpspx4i: First Contact's one failure is a choice of level: a shared-autonomy assistant that stabilizes the lander overrides the user's commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user's goals live; the task knowledge it assumes away is knowledge of that level
+# CLAIM-tmpspx4i: First Contact's one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user's commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user's goals live; the task knowledge it assumes away is knowledge of that level
 
 ## The failure
 
 In the fifth domain, shared-autonomy Lunar Lander, the one-step score
 I(x_t; (s_t, s_{t+1})) correlated strongly *negatively* with task success.
 The assistant helps by preventing crashes, "which necessarily involves
-ignoring a large fraction of the user's commands" (the paper, as the
-anthology reads it, [ANTH-NOTE-250](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/notes.d/NOTE-250.md)). Taking the score at the episode's length
+ignoring a large fraction of the user's commands" (§5.1; NOTE-tmp7qgd8).
+The assistant is not First Contact's own: it is the deep-RL copilot of a
+prior study, Shared Autonomy via Deep RL, whose logged data First Contact
+re-scores, and the state there is only the lander's horizontal position
+(A.3). Taking the score at the episode's length
 restored a positive correlation, and the authors name choosing Δ, which
 "requires prior knowledge of the timescale of the user's desired influence",
 as the primary limit on the method. [CLAIM-361](CLAIM-361.md) already reads this as a proxy
@@ -79,6 +84,13 @@ says a channel has a level: help that stabilizes one level can look, at that
 level, like the channel failing. A diagnosis of an obstruction ([CLAIM-556](CLAIM-556.md)'s
 levels, [QUESTION-404](../questions.d/QUESTION-404.md)) needs the level at which influence is judged, chosen
 before scoring, as [CLAIM-361](CLAIM-361.md) requires of the horizon.
+
+**A second assisted domain.** The one domain where the score did not
+predict reward, ISQL (ρ = 0.11), is also Lunar Lander played "on their own,
+and with assistance". The paper does not say at which Δ it was scored.
+If at a short horizon, this claim predicts the same masking there; if at
+the episode, ISQL is a case the level reading does not explain. Reading the
+ISQL data at several Δ would tell.
 
 ## What it does not say
 

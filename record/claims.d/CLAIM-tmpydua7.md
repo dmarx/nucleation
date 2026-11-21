@@ -23,6 +23,8 @@ date: '2026-11-21'
 line:
 - will-organization
 - distributed-agency
+grounds:
+- THEORY-tmp3tb8i
 rests_on:
 - CLAIM-532
 - CLAIM-361
@@ -96,8 +98,12 @@ result is a case where the same score covers both.
 
 **The test it suggests.** [CLAIM-532](CLAIM-532.md)'s transfer test applies directly: a
 channel serves a class, so an interface learned on some targets should help
-on new targets in the same domain. The paper's targets vary between
-episodes, which is consistent with transfer; it did not test it as such.
+on new targets in the same domain. The local reading (NOTE-tmp7qgd8) finds
+no such test: targets are "randomly-sampled" each episode and the interface
+is a single rotation, or a linear map that ignores state, so it cannot
+encode a particular target. The channel reading holds by construction, and
+defeater (a) is excluded by design, not tested. User adaptation is assumed
+(Fig. 1), shown within episodes, and not measured across them.
 
 ## What it does not say
 
@@ -106,5 +112,7 @@ episodes, which is consistent with transfer; it did not test it as such.
 - Not that mutual information measures every channel the record means.
   It measures the channel at a horizon Δ; which horizon is the subject of
   [CLAIM-tmpspx4i](CLAIM-tmpspx4i.md).
-- Not read here. The paper is the anthology's; the figures are from its
-  reading.
+- Not the paper's own framing of the score's other half: it also rewards
+  information flowing from the state to the user (the perception term),
+  which ties the channel to the user's adaptation as well as the
+  interface's.

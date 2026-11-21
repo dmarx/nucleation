@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuw92f
 title: 'Empowerment is the channel capacity from an agent''s next n actions to its sensor n steps later, an open-loop, interventional measure of how many perceptibly different futures the agent can bring about, which counts no control the agent cannot perceive; given side information about the channel''s state it is never lower, so it is ordered by what the agent can read, from full state through its own sensor history to none'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -16,6 +16,11 @@ history:
     scalar", because it is "open-loop, depends on the horizon and
     ignores cost and viability". The claim does not need it. No other
     change.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    A dated note: a parallel from First Contact's horizon Δ (NOTE-tmp7qgd8).
+    No change of status or title.
 tags:
 - information-theory
 - agency
@@ -33,6 +38,7 @@ corroborates:
 - CLAIM-354
 ---
 <!-- inactive-ok-file: THEORY-1336 — Proposed; the cart-pole result, cited for what this definition does not say -->
+<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i THEORY-tmp3tb8i — Proposed; the dated note of 2026-11-21 -->
 
 # THEORY-1344: Empowerment is the channel capacity from an agent's next n actions to its sensor n steps later, an open-loop, interventional measure of how many perceptibly different futures the agent can bring about, which counts no control the agent cannot perceive; given side information about the channel's state it is never lower, so it is ordered by what the agent can read, from full state through its own sensor history to none
 
@@ -64,3 +70,13 @@ possibly know" (2008, p. 4).
   cart-pole the maxima are not ([THEORY-1336](THEORY-1336.md)).
 - That it measures cost, viability or closed-loop control.
 - That it is a universal drive in organisms.
+
+## Note of 2026-11-21: Reddy, Levine and Dragan, read
+
+A parallel, not evidence. First Contact (NOTE-tmp7qgd8) scores an interface
+by the information from command to the state Δ steps later, and names the
+choice of Δ as its primary limit. Empowerment here is channel capacity from
+actions to the sensor n steps later, so it carries the same choice of
+horizon; First Contact cites empowerment as the measure of influence it
+extends by scoring intuitiveness as well. CLAIM-tmpspx4i reads the horizon
+as the level at which influence is judged.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbeh2e
 title: 'An unresolved discrepancy is an occasion for self-formation, the transformation dimension of a will-organization, and not a guarantee of it; it suffices for self-formation that the agent''s own activity on such a discrepancy produce a maintained capacity, either a new distinction, its policy coming to depend on a feature of its situation it did not depend on, or a new channel, the outcomes it can reach under its own policy growing, that outlasts the discrepancy and serves a class of later ones, as shown by transfer to discrepancies of the same class after the inducing conditions are gone and by interventions on the processes that produce the capacity while it forms'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -54,6 +54,12 @@ history:
     this one; the four that cite it complement it, and CLAIM-544's use,
     "self-formation ... that adds a channel or a distinction", reads as
     one route. Status unchanged.
+- version: 6
+  date: '2026-11-21'
+  note: >-
+    A dated note: First Contact, read locally (NOTE-tmp7qgd8), is a case of
+    the new-channel route that runs neither of this claim's tests. No change
+    of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -116,6 +122,7 @@ summary: >-
   than mechanism.
 ---
 <!-- inactive-ok-file: ADR-075 — Proposed; the decision the Admission section follows -->
+<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i THEORY-tmp3tb8i — Proposed; the dated note of 2026-11-21 -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
@@ -232,3 +239,16 @@ the same day for the restated claim (version 5).
 ## Note of 2026-11-07: the action route, from the second share of "Individuation, Possibility, and Disposition"
 
 A58 §8 reads this claim rightly. Its second route, "**An organization can overcome a limitation by changing what it can do, not only by improving what it can see.**", is this claim's new channel. A calls it "easy to overlook", but [CLAIM-572](CLAIM-572.md) prices it against observation on one budget. [CASE-194](../cases.d/CASE-194.md) supports the two routes as separate repairs, and limits the action route to cases with a hedge ([ARG-060](../arguments.d/ARG-060.md)). No status changes.
+
+## Note of 2026-11-21: Reddy, Levine and Dragan, read
+
+A qualifying case. First Contact (LIT-tmpw3fnx, read in NOTE-tmp7qgd8)
+learns an interface with no task knowledge by maximizing command-to-outcome
+information while the user adapts; CLAIM-tmpydua7 reads it as this claim's
+new channel, formed to repair a failure of information split between the
+interface and the user. The paper runs neither of this claim's tests: no
+transfer once the inducing conditions are gone, no intervention on what
+produces the capacity beyond a random-interface baseline. User adaptation
+is assumed (Fig. 1) and shown only within episodes. Its gesture interface,
+one that "emerged through co-adaptation", is suggestive of a channel formed
+rather than installed, from a single user. Nothing here moves the status.
