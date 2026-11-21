@@ -117,7 +117,7 @@ bears_on:
 
 ### Components filed after the coverage check
 
-- TERM-tmpol232 (the assistant's, Proposed): "separation" in three senses, of scales or levels, of classes, and spectral. In this part, sense 1 is the bulk-and-tail separation of scales and the separation of levels at criticality.
+- [TERM-tmpol232](../terms.d/TERM-tmpol232.md) (the assistant's, Proposed): "separation" in three senses, of scales or levels, of classes, and spectral. In this part, sense 1 is the bulk-and-tail separation of scales and the separation of levels at criticality.
 - [CLAIM-tmpjbee7](../claims.d/CLAIM-tmpjbee7.md) (A's, A17 §5, Proposed): critical systems are "harder to separate but easier to classify": fluctuations stay consequential across scales, so levels do not separate, while microscopic detail becomes irrelevant to the exponents. It sits beside [CLAIM-478](../claims.d/CLAIM-478.md) and uses [TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md).
 - [ARG-tmp09yqc](../arguments.d/ARG-tmp09yqc.md) (A's bridge, Rejected by the assistant): [THEORY-661](../theory.d/THEORY-661.md) does not carry A13 §9's step from a finite correlation length to near-decomposability in Simon's sense, since Simon's weak-interaction condition holds for large blocks even at criticality.
 - [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md) (A's argument, Rejected by the assistant): A1's cities example of cumulative advantage, weighed against [THEORY-1499](../theory.d/THEORY-1499.md)'s reading of city sizes recovering after bombing.
@@ -150,14 +150,14 @@ Links A's syntheses draw across these components that no entry states, tested at
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in NOTE-tmp0rhkc; the reading is
 THEORY-tmp23821) **supports** this account's thesis that a power law does
-not identify its mechanism, by the passages noted on CLAIM-tmp8h6nt
+not identify its mechanism, by the passages noted on [CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md)
 (§6's "perhaps simpler, explanations", §2's lognormal that looks straight on
 a log-log plot, §8's "not clear that a definitive answer is possible"). It
 also supplies two links between components that the account lists as
 mechanisms: a floor turns Gibrat's lognormal into a power law (§5.1), and
 so does an exponentially distributed observation time (§7). The floor is a
-reflecting minimum, not CLAIM-tmpiervv's additive term; see that claim's
+reflecting minimum, not [CLAIM-tmpiervv](../claims.d/CLAIM-tmpiervv.md)'s additive term; see that claim's
 note of this date. The account's mapping is unchanged; the reading enters
 through the claims it corroborates.

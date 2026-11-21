@@ -149,7 +149,7 @@ bears_on:
 
 ### Components filed after the coverage check
 
-- TERM-tmpol232 (the assistant's, Proposed): "separation" in three senses, of scales or levels, of classes, and spectral. In this part, senses 2 and 3 are decodability and spectral detectability.
+- [TERM-tmpol232](../terms.d/TERM-tmpol232.md) (the assistant's, Proposed): "separation" in three senses, of scales or levels, of classes, and spectral. In this part, senses 2 and 3 are decodability and spectral detectability.
 - [CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md) (A's, A39 §6, supposed, Proposed): model reduction moves toward the model manifold's boundaries and feature differentiation away from singular strata, so learning and compression may be opposite movements through one stratified space. A calls it "not an established general law"; [ARG-tmpj0r42](../arguments.d/ARG-tmpj0r42.md) notes that such boundaries often lie at infinite parameter values.
 - [ARG-tmp0rq99](../arguments.d/ARG-tmp0rq99.md) (the assistant's, Proposed): [CLAIM-tmpet76z](../claims.d/CLAIM-tmpet76z.md) closes A29's feedback loop as a route to activity, for [CLAIM-tmp526xr](../claims.d/CLAIM-tmp526xr.md).
 - [ARG-tmpgt6ax](../arguments.d/ARG-tmpgt6ax.md) (the assistant's, Proposed): [CLAIM-tmpuc8ro](../claims.d/CLAIM-tmpuc8ro.md) narrows [CLAIM-tmpv5asv](../claims.d/CLAIM-tmpv5asv.md); a power law in training relaxation does not indicate a hierarchy of singular orders.
