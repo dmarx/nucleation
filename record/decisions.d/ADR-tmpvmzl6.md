@@ -10,7 +10,7 @@ summary: >-
   The owner, 2026-11-21: "we're probably overdue to promote some ADRs that
   are functionally already adopted. we should probably encapsulate that as
   another ADR-steered audit skill. write that ADR and kick off an audit".
-  ADR-057's status review ranks claims by reliance and judges credence; a
+  [ADR-057](ADR-057.md)'s status review ranks claims by reliance and judges credence; a
   decision's status is adoption, not credence, and nothing reviewed it.
   Forty-eight decisions stood Proposed on staging, many of them carried as
   steps in a skill, built into the configuration or a workflow, and excused
@@ -19,7 +19,6 @@ summary: >-
   its evidence derived by a script each pass. First application: the pass
   of 2026-11-21.
 ---
-<!-- inactive-ok-file: ADR-057 — Active; the status review this sits beside -->
 
 # ADR-tmpvmzl6: A decision's status is reviewed for adoption in a protocol of its own: a pass derives, from the record and its tooling, the evidence that each Proposed decision is already in force, sorts them into adopt, adopt after a look, and leave, and puts its recommendations to the owner as a checklist; the owner rules, and the pass changes statuses in its own pull request
 
@@ -30,10 +29,10 @@ practice the record applies a decision from the pull request that proposes
 it (CLAUDE.md: a decision goes with a demonstration of its effects), so a
 decision can be in force for weeks while its status says otherwise. The cost
 is not only a wrong label: every entry that cites such a decision carries an
-`inactive-ok` directive excusing it, ADR-095 alone 106 times, and the
+`inactive-ok` directive excusing it, [ADR-095](ADR-095.md) alone 106 times, and the
 decisions index shows as pending what the record already does.
 
-ADR-057's status review does not reach them. It ranks Proposed entries by
+[ADR-057](ADR-057.md)'s status review does not reach them. It ranks Proposed entries by
 reliance and asks whether the evidence warrants belief; a decision's status
 says whether the record has adopted a rule, which is a question about
 practice and tooling, not about evidence.
@@ -43,7 +42,7 @@ practice and tooling, not about evidence.
 **An adoption review**, in its own pass, with its steps in the
 `adoption-review` skill and these invariants:
 
-1. **Evidence is derived, each pass, and kept nowhere** (as ADR-057 has it
+1. **Evidence is derived, each pass, and kept nowhere** (as [ADR-057](ADR-057.md) has it
    for reliance). `scratch/tools/adoption_signals.py` reports, for each
    Proposed decision: its age; how many files cite it; how many
    `inactive-ok` directives excuse it, and how many of those say it is being
@@ -74,7 +73,7 @@ practice and tooling, not about evidence.
 
 ## Alternatives considered
 
-- **Fold it into ADR-057's status review.** One review, but its ranking by
+- **Fold it into [ADR-057](ADR-057.md)'s status review.** One review, but its ranking by
   reliance and its test of credence are the wrong instruments for a rule
   whose question is whether it is in force.
 - **Adopt on merge.** Treat a decision as Active once its pull request
