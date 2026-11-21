@@ -92,7 +92,7 @@ variable at long wavelengths. The theory does neither.
 
 The exchange uses this theory as a route to scale-free behaviour in an
 ordered phase rather than at a transition (A26 §4, A27 §7), filed as one
-of the routes of CLAIM-tmpsr8r4. It adds two things this reading does not
+of the routes of [CLAIM-tmpsr8r4](../claims.d/CLAIM-tmpsr8r4.md). It adds two things this reading does not
 hold, both unread here:
 
 - **Giant number fluctuations.** In ordered active matter the count in a
@@ -100,7 +100,7 @@ hold, both unread here:
   particles, a prediction A attributes to the Toner–Tu theory; A adds that
   "some initially predicted exponents differ from those obtained in
   large-scale simulations". The long 1998 paper is registered as
-  LIT-tmp71zbs, unread; the simulation study is unnamed.
+  [LIT-tmp71zbs](../literature.d/LIT-tmp71zbs.md), unread; the simulation study is unnamed.
 - **A universality class for the ordered phase.** A27 §7 cites a 2024
   Physical Review Letters paper using the functional renormalization
   group to propose one, "with scaling exponents consistent with numerical
@@ -109,5 +109,5 @@ hold, both unread here:
 A's framing, "In certain active systems, scaling is a property of the
 phase itself" (A26 §4), agrees with this reading's broken-symmetry slow
 modes and goes beyond it only in calling the result scale-free; the
-exponents remain THEORY-1095's question.
+exponents remain [THEORY-1095](THEORY-1095.md)'s question.
 

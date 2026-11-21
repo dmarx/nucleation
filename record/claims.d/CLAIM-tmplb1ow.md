@@ -25,9 +25,9 @@ grounds:
 complements:
 - CLAIM-tmpninc2
 summary: >-
-  Reading (b) of the owner's conjecture CLAIM-tmpr9au6 (U5 of the exchange
+  Reading (b) of the owner's conjecture [CLAIM-tmpr9au6](CLAIM-tmpr9au6.md) (U5 of the exchange
   "Rich Get Richer Power Laws"), filed as the alternative to reading (a),
-  CLAIM-tmpvrbdt. "Separated" is taken as two scales, not a gap. In the
+  [CLAIM-tmpvrbdt](CLAIM-tmpvrbdt.md). "Separated" is taken as two scales, not a gap. In the
   Poisson cascade the median stays at 2 while the cutoff grows as
   2/(1 − R)^2, so the ratio of tail scale to bulk scale is about 93 at
   R = 0.9, 9,900 at 0.99 and a million at 0.999. At R = 1 the
@@ -38,12 +38,12 @@ summary: >-
   disappears; as a ratio it diverges. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpr9au6 CLAIM-tmpvrbdt CLAIM-tmpninc2 CASE-tmpi5vfh ARG-tmpfug10 LEAD-tmpp8z85 CLAIM-769 THEORY-2131 — Proposed or new; the owner's conjecture, the other reading, the claims, case, argument and lead filed with it, and held entries cited as contrasts -->
+<!-- inactive-ok-file: CLAIM-tmpr9au6 CLAIM-tmpvrbdt CLAIM-tmpninc2 CASE-tmpi5vfh CLAIM-769 THEORY-2131 — Proposed or new; the owner's conjecture, the other reading, the claims, case, argument and lead filed with it, and held entries cited as contrasts -->
 
 # CLAIM-tmplb1ow: Read as a separation of scales, a bulk separated from a sparse tail is what a continuous transition shows from below: the bulk keeps a fixed small scale while the cutoff of the tail grows without bound as the transition nears, and at the transition the separating scale is gone, so that no size marks off the extraordinary
 
-**This is reading (b) of CLAIM-tmpr9au6, one of two alternatives.** The
-other, reading (a), is CLAIM-tmpvrbdt. The owner chooses.
+**This is reading (b) of [CLAIM-tmpr9au6](CLAIM-tmpr9au6.md), one of two alternatives.** The
+other, reading (a), is [CLAIM-tmpvrbdt](CLAIM-tmpvrbdt.md). The owner chooses.
 
 ## The claim
 
@@ -53,7 +53,7 @@ size, which stays small. The tail's scale is the cutoff s_c, beyond which
 sizes are exponentially suppressed.
 
 **Below the transition the two scales pull apart.** In the Poisson
-cascade (CASE-tmpi5vfh), the law is C(R)·s^(−3/2)·e^(−s/s_c) with
+cascade ([CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md)), the law is C(R)·s^(−3/2)·e^(−s/s_c) with
 s_c = 1/(R − 1 − ln R) ≈ 2/(1 − R)^2, while the bulk does not move:
 
 | R | P(S = 1) | median | 90th percentile | s_c | s_c / median |
@@ -90,26 +90,26 @@ structure"), and this entry keeps them apart.
 
 ## Checked against the record
 
-- **CLAIM-769** (a power law from averaging exponentials over a spread of
-  rates; THEORY-2131's gamma mixture). It gives a bulk with a power-law
+- **[CLAIM-769](CLAIM-769.md)** (a power law from averaging exponentials over a spread of
+  rates; [THEORY-2131](../theory.d/THEORY-2131.md)'s gamma mixture). It gives a bulk with a power-law
   tail and no transition at all. So a bulk with a long tail does not by
   itself mark the near side of a transition. What reading (b) adds is the
   *movement*: a cutoff that runs away as a control parameter changes,
   with the bulk held fixed. A fixed mixture has no such parameter.
-- **THEORY-1315** (critical slowing down: variance σ²/(2|λ|) and lag-1
+- **[THEORY-1315](../theory.d/THEORY-1315.md)** (critical slowing down: variance σ²/(2|λ|) and lag-1
   autocorrelation e^(λΔ) rise as the dominant eigenvalue goes to zero).
   The cutoff is the size-domain counterpart. In the cascade, the mean
   1/(1 − R), the variance R/(1 − R)^3 and the cutoff ≈ 2/(1 − R)^2 all
   diverge at R = 1, at different rates. The variance rises *because* the
   cutoff does, since the variance is carried by the tail. So the record's
   variance warning and this reading are not independent evidence of
-  nearness to a transition. LEAD-tmpp8z85 asks what the cutoff adds.
+  nearness to a transition. [LEAD-tmpp8z85](../leads.d/LEAD-tmpp8z85.md) asks what the cutoff adds.
 
 ## Checked, and how
 
 With `python3 -I`, from the Borel law in closed form, with tail sums to
 5 × 10⁶ and the analytic remainder sqrt(2/(πN)) beyond at R = 1. The
-code is in CASE-tmpi5vfh.
+code is in [CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md).
 
 ## What it does not say
 
@@ -119,4 +119,4 @@ code is in CASE-tmpi5vfh.
   beyond s_ξ is not τ. This is the lattice-animal exponent, a standard
   result not checked here. Neither changes the separation of scales.
 - Not that the tail is negligible. With τ = 3/2 < 2 it carries most of
-  the total size (CLAIM-tmpninc2).
+  the total size ([CLAIM-tmpninc2](CLAIM-tmpninc2.md)).

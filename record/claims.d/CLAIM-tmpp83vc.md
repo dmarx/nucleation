@@ -43,7 +43,7 @@ summary: >-
   The thesis is the owner's. The title takes the reading on which the
   record can file it: transitions as changes of the dominant singularity,
   with resolution as the tool that computes their learning coefficients
-  (A37 §3; CLAIM-305). The alternative reading is set out in the body.
+  (A37 §3; [CLAIM-305](CLAIM-305.md)). The alternative reading is set out in the body.
 ---
 
 <!-- inactive-ok-file: LIT-tmp3njir LIT-tmp0z602 LIT-tmpv9upr CLAIM-tmpcbfdj CLAIM-tmp9bp04 — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
@@ -66,7 +66,7 @@ must say which reading it takes. There are two.
 - **(a) Training performs a resolution.** A phase transition would be the
   network passing through, or carrying out, a blow-up of a singular
   point. The record does not support this. A blow-up reparametrizes the
-  states and adds no observation (CLAIM-305). A37 §3 agrees: resolution
+  states and adds no observation ([CLAIM-305](CLAIM-305.md)). A37 §3 agrees: resolution
   "doesn't mean that training literally performs an algebraic blow-up.
   Resolution is an analytical tool that reveals the structure hidden
   inside a singular parameterization."
@@ -74,18 +74,18 @@ must say which reading it takes. There are two.
   resolution computes what decides it.** This is the reading the title
   files. Regions of parameter space with different learning coefficients
   compete in the free energy F ≈ nL + λ log n − (m − 1) log log n
-  (THEORY-087). As n grows, the dominant region can switch from a simpler,
+  ([THEORY-087](../theory.d/THEORY-087.md)). As n grows, the dominant region can switch from a simpler,
   worse-fitting one to a richer one, at n(L_A − L_B) ≈ (λ_B − λ_A) log n
   (A37 §5). The record holds such Bayesian transitions in a toy model, and
-  their partial agreement with SGD's order (THEORY-1275, QUESTION-363).
+  their partial agreement with SGD's order ([THEORY-1275](../theory.d/THEORY-1275.md), [QUESTION-363](../questions.d/QUESTION-363.md)).
   Resolution is how each λ is found.
 
 On (b), what the owner's suggestion adds to the exchange is the proposal
 that the stages of representational development are such switches, or at
 least leave their mark in local learning coefficients. The record holds
 one reading in favour: weight-refined coefficients of attention heads
-diverge by function over training (THEORY-975). Hoogland et al.
-(LIT-tmp3njir, unread) report stagewise changes in the coefficient in
+diverge by function over training ([THEORY-975](../theory.d/THEORY-975.md)). Hoogland et al.
+([LIT-tmp3njir](../literature.d/LIT-tmp3njir.md), unread) report stagewise changes in the coefficient in
 transformers.
 
 ## How the exchange developed it
@@ -93,18 +93,18 @@ transformers.
 - **Dynamics are separate.** "The fact that a singularity exists does not
   tell us when or whether gradient descent will move away from it" (A37
   §4). Plateaus near singularities are Amari's and Wei's work
-  (LIT-tmp0z602, LIT-tmpv9upr, unread). How slowly a flow leaves or
+  ([LIT-tmp0z602](../literature.d/LIT-tmp0z602.md), [LIT-tmpv9upr](../literature.d/LIT-tmpv9upr.md), unread). How slowly a flow leaves or
   reaches a singular point is not fixed by its learning coefficient
-  (CLAIM-tmpcbfdj).
+  ([CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md)).
 - **Three transitions** (A37 §5): Bayesian (the dominant posterior region
   changes), dynamical (the optimizer's trajectory reorganizes) and
   semantic (a new distinction becomes stable and decodable). "These may
   be related, but they're not equivalent." The record holds the first two
-  apart in QUESTION-363. The third, and A43's split of the semantic event
+  apart in [QUESTION-363](../questions.d/QUESTION-363.md). The third, and A43's split of the semantic event
   into encoded, stable and expressed, is added there as a dated note of
   this date.
 - **A worked mechanism** in which a feature switches on at a threshold
-  where the local coefficient dips from 1 to 3/4 is CLAIM-tmp9bp04.
+  where the local coefficient dips from 1 to 3/4 is [CLAIM-tmp9bp04](CLAIM-tmp9bp04.md).
 
 ## A correction to A37's chart
 
@@ -121,4 +121,4 @@ survives: the simpler region wins at small n and the richer one later.
 
 It does not say that every stage of learning is a singular transition,
 nor that the Bayesian order in n is the training order in t. That bridge
-is QUESTION-363, open.
+is [QUESTION-363](../questions.d/QUESTION-363.md), open.

@@ -41,14 +41,18 @@ summary: >-
   only if the environment has correlations across scales, and large
   cascades help only if they keep inputs distinguishable. The works are
   unread. A's illustrative mechanism, a memory–noise tradeoff in a scalar
-  linear model, does not hold as stated (CLAIM-tmpd1shn), though the
+  linear model, does not hold as stated ([CLAIM-tmpd1shn](CLAIM-tmpd1shn.md)), though the
   conclusion survives. The wording is A's (the other assistant in the
   exchange "Rich Get Richer Power Laws", A15); adopting it is the owner's
   call.
+rests_on:
+- CLAIM-tmpd1shn
+bears_on:
+- QUESTION-tmp2hhlc
 ---
-<!-- inactive-ok-file: QUESTION-tmp2hhlc CLAIM-tmpd1shn ARG-tmpubyzo — filed with this claim from the same exchange, Open or Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpd1shn ARG-tmpubyzo — filed with this claim from the same exchange, Open or Proposed -->
 <!-- inactive-ok-file: LIT-tmp7sbn6 LIT-tmpe6jga LIT-tmpkvpg4 — Deferred, registered 2026-11-21 from the exchange, unread -->
-<!-- inactive-ok-file: THEORY-2041 THEORY-1431 CLAIM-769 CLAIM-626 — Proposed, bearing on the claim -->
+<!-- inactive-ok-file: CLAIM-769 CLAIM-626 — Proposed, bearing on the claim -->
 
 # CLAIM-tmpask80: Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment
 
@@ -62,21 +66,21 @@ A15 gives five strands, each A's unless a work is named.
    Different input histories produce sufficiently distinguishable internal
    states" (A15 §3). An ordered network forgets; a chaotic one separates
    but cannot be read reliably; near the transition both can hold, the
-   edge-of-chaos result (LIT-tmpkvpg4, unread).
+   edge-of-chaos result ([LIT-tmpkvpg4](../literature.d/LIT-tmpkvpg4.md), unread).
 2. **A bound on capacity.** "Dambre and colleagues showed that, under
    specified conditions, a reservoir's total information-processing
    capacity is bounded by its number of independent state variables.
    Different dynamical regimes can redistribute that capacity between
-   linear memory and nonlinear transformations" (A15 §3; LIT-tmp7sbn6,
+   linear memory and nonlinear transformations" (A15 §3; [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md),
    unread).
 3. **Sensitivity, reliability, speed.** Near criticality susceptibility,
    fluctuations and relaxation time all grow, so "exactly critical may not
    be exactly optimal" (A15 §6). A finite integration window moves the
    best discrimination of inputs away from the critical point
-   (LIT-tmpe6jga, unread).
+   ([LIT-tmpe6jga](../literature.d/LIT-tmpe6jga.md), unread).
 4. **The environment sets the value of multiscale memory.** A superposition
    of exponential relaxations with rates spread as λ^(α−1) gives power-law
-   memory without criticality (A15 §4; the record's CLAIM-769), but "the
+   memory without criticality (A15 §4; the record's [CLAIM-769](CLAIM-769.md)), but "the
    computational value depends on whether the environment itself contains
    meaningful correlations across those timescales" (A15 §4, §8).
 5. **Magnitude is not discriminability.** Rare large cascades may carry
@@ -98,18 +102,18 @@ criticality depends on what the system needs to accomplish.**"
   information and uncertainty." But input and noise pass through the same
   filter, so their ratio in the state does not depend on a, and nor does
   the total memory capacity. The gain only spreads capacity over lags.
-  The conclusion A wants survives, by a different route: CLAIM-tmpd1shn,
-  and ARG-tmpubyzo for how far it carries.
+  The conclusion A wants survives, by a different route: [CLAIM-tmpd1shn](CLAIM-tmpd1shn.md),
+  and [ARG-tmpubyzo](../arguments.d/ARG-tmpubyzo.md) for how far it carries.
 - **Marginal stability is not criticality.** The scalar model at a → 1 is
   at the edge of linear stability, which A rightly says "resembles
-  critical slowing down"; it is not a collective transition. CLAIM-626
+  critical slowing down"; it is not a collective transition. [CLAIM-626](CLAIM-626.md)
   holds that slowing has no single organizational meaning.
 - **Misattribution.** A15 §3 names "Bertschinger, Natschläger, and
   Legenstein" for the 2004 study. The 2004 Neural Computation paper is by
-  Bertschinger and Natschläger (LIT-tmpkvpg4); Legenstein is an author of
+  Bertschinger and Natschläger ([LIT-tmpkvpg4](../literature.d/LIT-tmpkvpg4.md)); Legenstein is an author of
   a separate paper with Maass (2007), not registered.
 - **Two transitions.** A runs the order-to-chaos transition and branching
-  criticality together (QUESTION-tmp2hhlc, point 1).
+  criticality together ([QUESTION-tmp2hhlc](../questions.d/QUESTION-tmp2hhlc.md), point 1).
 - **Power-law memory's range.** The Γ(α) integral converges for α > 0,
   and with rates confined to [λ_min, λ_max] the power law holds for
   1/λ_max ≪ t ≪ 1/λ_min; the long-time end, where memory matters, is set
@@ -121,4 +125,4 @@ criticality depends on what the system needs to accomplish.**"
   toward long memory, which some tasks need.
 - Not that brains are critical. A15 §5 calls the evidence "contested",
   and the record holds only that 1/f structure does not discriminate
-  mechanism (CLAIM-692).
+  mechanism ([CLAIM-692](CLAIM-692.md)).

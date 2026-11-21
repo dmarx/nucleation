@@ -11,13 +11,6 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 - learned-structure
-bearing:
-- THEORY-2041
-- THEORY-2051
-- THEORY-1431
-- CLAIM-692
-- CLAIM-tmpask80
-- CLAIM-tmpd1shn
 summary: >-
   A's open direction at the close of A13 of the exchange "Rich Get Richer
   Power Laws", "whether scale-free systems have a distinctive
@@ -25,14 +18,14 @@ summary: >-
   especially capable of storing memories, propagating signals, adapting,
   or performing calculations", which A calls "considerably more subtle"
   than the edge of chaos, and which A15 takes up. The record holds the
-  order-to-chaos transition in deep networks (THEORY-2041, THEORY-2051), a
-  reservoir (THEORY-1431) and 1/f in brains (CLAIM-692), and no question
+  order-to-chaos transition in deep networks ([THEORY-2041](../theory.d/THEORY-2041.md), [THEORY-2051](../theory.d/THEORY-2051.md)), a
+  reservoir ([THEORY-1431](../theory.d/THEORY-1431.md)) and 1/f in brains ([CLAIM-692](../claims.d/CLAIM-692.md)), and no question
   on criticality and computation. The wording is A's (the other assistant
   in the exchange "Rich Get Richer Power Laws", A13 and A15); adopting it
   is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-2041 THEORY-2051 THEORY-1431 — Proposed readings bearing on the question -->
-<!-- inactive-ok-file: CLAIM-tmpask80 CLAIM-tmpd1shn ARG-tmpubyzo — filed with this question from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpask80 CLAIM-tmpd1shn — filed with this question from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpkvpg4 LIT-tmp7sbn6 LIT-tmpe6jga — Deferred, registered 2026-11-21 from the exchange, unread -->
 
 # QUESTION-tmp2hhlc: Do systems near a dynamical transition, or with scale-free dynamics, have a distinctive computational capacity, or does nearness to the transition only redistribute a bounded capacity among kinds of computation, by task?
@@ -43,20 +36,20 @@ A15 opens on the hope: "**A system near criticality may be especially
 capable of preserving information about the past while remaining
 sensitive to new information from its environment.**" It then gives the
 reasons to doubt that it is a general advantage: a bound on total
-capacity (Dambre and colleagues, LIT-tmp7sbn6, unread), a three-way
+capacity (Dambre and colleagues, [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), unread), a three-way
 tradeoff of sensitivity, reliability and speed, and a finite-window study
 in which the best discrimination moves off the critical point
-(LIT-tmpe6jga, unread). A's answer is CLAIM-tmpask80; one exactly solved
-case is CLAIM-tmpd1shn.
+([LIT-tmpe6jga](../literature.d/LIT-tmpe6jga.md), unread). A's answer is [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md); one exactly solved
+case is [CLAIM-tmpd1shn](../claims.d/CLAIM-tmpd1shn.md).
 
 Three things keep it open.
 
 1. **Which transition.** A runs together the order-to-chaos transition
    of recurrent networks, where the edge-of-chaos results live
-   (Bertschinger and Natschläger, LIT-tmpkvpg4, unread; the record's
-   THEORY-2041 for deep networks), and branching criticality of neural
+   (Bertschinger and Natschläger, [LIT-tmpkvpg4](../literature.d/LIT-tmpkvpg4.md), unread; the record's
+   [THEORY-2041](../theory.d/THEORY-2041.md) for deep networks), and branching criticality of neural
    avalanches, where a branching ratio of one separates dying from
-   exploding cascades (QUESTION-091). They are different transitions: the
+   exploding cascades ([QUESTION-091](QUESTION-091.md)). They are different transitions: the
    first is a change in the sign of the largest Lyapunov exponent of a
    deterministic map, the second a change in the mean offspring number of
    a stochastic cascade. A network can sit at one and not the other. A
@@ -87,4 +80,4 @@ result, once read, may answer the first part for reservoirs with fading
 memory and i.i.d. input. An adaptive system that tunes its own distance
 from the transition by task (A15 §7, quasicriticality) would make the
 question one of control rather than of a fixed operating point, as
-QUESTION-091 asks for organizations.
+[QUESTION-091](QUESTION-091.md) asks for organizations.

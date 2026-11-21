@@ -18,11 +18,11 @@ line:
 summary: >-
   A7 §2 of the exchange "Rich Get Richer Power Laws" offers the Poisson
   cascade as showing "exactly the qualitative behavior you're suggesting"
-  for the owner's U5 (CLAIM-tmpr9au6), then at §4 denies that there is "a
+  for the owner's U5 ([CLAIM-tmpr9au6](../claims.d/CLAIM-tmpr9au6.md)), then at §4 denies that there is "a
   genuine gap between the bulk and the tail". Both are right, of different
-  readings. The cascade supports reading (b), CLAIM-tmplb1ow: fixed bulk,
+  readings. The cascade supports reading (b), [CLAIM-tmplb1ow](../claims.d/CLAIM-tmplb1ow.md): fixed bulk,
   runaway cutoff, no separating scale at R = 1. Against reading (a),
-  CLAIM-tmpvrbdt, it is evidence that the near side has no gap, and the
+  [CLAIM-tmpvrbdt](../claims.d/CLAIM-tmpvrbdt.md), it is evidence that the near side has no gap, and the
   percolation and epidemic simulations place the gap on the far side.
   Proposed. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -39,12 +39,12 @@ summary: >-
    sparsely populated tail**."
 2. A7 §4: "In a conventional continuous critical transition, there isn't
    usually a genuine gap between the bulk and the tail."
-3. In the cascade (CASE-tmpi5vfh) the median stays at 2 while s_c runs
+3. In the cascade ([CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md)) the median stays at 2 while s_c runs
    from 187 to about 2 × 10⁶ as R goes from 0.9 to 0.999, and the law
    is strictly decreasing at every size.
 4. So the example bears out the owner's sentence read as two scales
-   pulling apart (CLAIM-tmplb1ow), and tells against it read as a gap
-   (CLAIM-tmpvrbdt). The percolation and epidemic runs (CASE-tmpykltu)
+   pulling apart ([CLAIM-tmplb1ow](../claims.d/CLAIM-tmplb1ow.md)), and tells against it read as a gap
+   ([CLAIM-tmpvrbdt](../claims.d/CLAIM-tmpvrbdt.md)). The percolation and epidemic runs ([CASE-tmpykltu](../cases.d/CASE-tmpykltu.md))
    find the gap only above threshold.
 
 A's two sentences are not in conflict. They answer different readings of
@@ -60,7 +60,7 @@ A's two sentences are not in conflict. They answer different readings of
   checked has one.
 - **Does it tell the hypothesis apart from its rivals?** Partly. A bulk
   with a long power-law tail and no transition is also produced by a
-  mixture of exponential rates (CLAIM-769). What separates reading (b)
+  mixture of exponential rates ([CLAIM-769](../claims.d/CLAIM-769.md)). What separates reading (b)
   from that rival is the movement of the cutoff with a control parameter,
   which a fixed mixture lacks. A single snapshot of a distribution cannot
   separate them.

@@ -30,12 +30,12 @@ summary: >-
   me suspecting this pair often manifests as a bulk mass separated by a
   low mass long tail below the critical transition." The sentence admits
   two readings that would be filed differently, a gap in support
-  (CLAIM-tmpvrbdt) and a separation of scales (CLAIM-tmplb1ow); both are
+  ([CLAIM-tmpvrbdt](CLAIM-tmpvrbdt.md)) and a separation of scales ([CLAIM-tmplb1ow](CLAIM-tmplb1ow.md)); both are
   filed, as alternatives, for the owner to choose. Checked on the two
   cases, reading (a) fails below a continuous transition and reading (b)
   holds.
 ---
-<!-- inactive-ok-file: CLAIM-tmpvrbdt CLAIM-tmplb1ow CASE-tmpi5vfh CASE-tmpykltu ARG-tmpfug10 CLAIM-tmpninc2 LEAD-tmpp8z85 CLAIM-769 — Proposed or new; the readings, cases and claims filed with this one from the same exchange, and a held claim cited as a contrast -->
+<!-- inactive-ok-file: CLAIM-tmpvrbdt CLAIM-tmplb1ow CASE-tmpi5vfh CASE-tmpykltu ARG-tmpfug10 CLAIM-tmpninc2 CLAIM-769 — Proposed or new; the readings, cases and claims filed with this one from the same exchange, and a held claim cited as a contrast -->
 
 # CLAIM-tmpr9au6: Where criticality and power laws go together, the distribution often shows, below the transition, a bulk of probability mass separated from a long tail of low mass
 
@@ -55,13 +55,13 @@ little probability lies apart from it.
 
 "Separated" can mean two things, and they come apart on the cases:
 
-- **Reading (a), a gap in support** (CLAIM-tmpvrbdt): between the bulk and
+- **Reading (a), a gap in support** ([CLAIM-tmpvrbdt](CLAIM-tmpvrbdt.md)): between the bulk and
   the tail lies a range of sizes that almost never occurs. On the cases
-  checked (CASE-tmpi5vfh, CASE-tmpykltu), this does not happen below a
+  checked ([CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md), [CASE-tmpykltu](../cases.d/CASE-tmpykltu.md)), this does not happen below a
   continuous transition. The distribution falls without a break. A gap
   appears on the far side, between the finite clusters and the giant one,
   or between minor and major outbreaks.
-- **Reading (b), a separation of scales** (CLAIM-tmplb1ow): the bulk has
+- **Reading (b), a separation of scales** ([CLAIM-tmplb1ow](CLAIM-tmplb1ow.md)): the bulk has
   one scale and the tail is limited by another, much larger one, and the
   ratio grows as the transition nears. On the same cases this holds below
   the transition. At it the tail's limiting scale is gone.
@@ -71,15 +71,15 @@ first agrees ("a substantial concentration of probability at small sizes,
 alongside an increasingly extended but sparsely populated tail"), then
 denies (a) ("there isn't usually a genuine gap between the bulk and the
 tail"), then ends on (b): "the scale separating ordinary from
-extraordinary behavior ceases to be fixed". ARG-tmpfug10 says which reading
+extraordinary behavior ceases to be fixed". [ARG-tmpfug10](../arguments.d/ARG-tmpfug10.md) says which reading
 A's example bears out.
 
 ## What it does not say
 
 - Not that a bulk with a long tail marks nearness to a transition. A
   mixture of exponential rates gives a power-law tail with no transition
-  anywhere (CLAIM-769), as do the other mechanisms A lists at A5.
+  anywhere ([CLAIM-769](CLAIM-769.md)), as do the other mechanisms A lists at A5.
 - Not that the tail is unimportant because it holds little probability.
-  The tail can carry most of the total size (CLAIM-tmpninc2).
-- Not a claim about which systems are near criticality. LEAD-tmpp8z85 is
+  The tail can carry most of the total size ([CLAIM-tmpninc2](CLAIM-tmpninc2.md)).
+- Not a claim about which systems are near criticality. [LEAD-tmpp8z85](../leads.d/LEAD-tmpp8z85.md) is
   the proposed test.

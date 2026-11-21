@@ -41,8 +41,8 @@ summary: >-
   (2026-11-21): where a hyperribbon and Watanabe's strata meet and where
   they do not. It fills the ledger's gap that A39's bridge rested on a
   hyperribbon reading the record does not hold, by stating the bridge in
-  quantities the record does hold (THEORY-1253's learning capacity,
-  THEORY-087's learning coefficient), each checked numerically. The
+  quantities the record does hold ([THEORY-1253](../theory.d/THEORY-1253.md)'s learning capacity,
+  [THEORY-087](../theory.d/THEORY-087.md)'s learning coefficient), each checked numerically. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -53,7 +53,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpcgvcp holds that sloppiness and singularity are different
+[CLAIM-tmpcgvcp](CLAIM-tmpcgvcp.md) holds that sloppiness and singularity are different
 properties. This claim says where they nevertheless meet, and how to
 tell them apart where they look alike. It answers U24, the owner's bet
 that the two accounts connect, and gives it a precise form.
@@ -61,7 +61,7 @@ that the two accounts connect, and gives it a precise form.
 **Where they meet (1): at the edges.** Near a stratum where two mechanisms
 merge, the small Fisher eigenvalue is proportional to the squared
 distance from the stratum: 4v²/(1 + u²) in F(a, b) = (a + b, ab), and about
-5.6 v² in a sum of two exponentials with rates u ± v (CASE-tmpb2gly).
+5.6 v² in a sum of two exponentials with rates u ± v ([CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)).
 The sum of exponentials is the textbook sloppy model, and equal rates
 are a fold edge of its image. So at least some of a hyperribbon's thin
 directions end at singular strata, and near them the hyperribbon's
@@ -70,9 +70,9 @@ the owner's bet that holds as stated.
 
 **Where they meet (2): at a finite sample size.** Treat the slope
 λ(n) = −d log Z_n/d log n as a learning coefficient at scale n. This is the
-learning capacity of THEORY-1253, and what a local learning-coefficient
+learning capacity of [THEORY-1253](../theory.d/THEORY-1253.md), and what a local learning-coefficient
 estimate at an inverse temperature of order n measures (Lau et al.,
-LIT-tmpnbl2d, unread). In a regular model with Fisher eigenvalues e_i
+[LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), unread). In a regular model with Fisher eigenvalues e_i
 and a Gaussian prior of variance s², each direction contributes exactly
 
   n e_i s² / (1 + 2 n e_i s²),
@@ -82,8 +82,8 @@ direction that the data cannot yet resolve contributes to λ(n) what a flat
 direction contributes: nothing. So, at one n, a sloppy regular model and
 a singular model both show λ(n) < d/2. LaMont and Wiggins already call a
 model "predictively sloppy" when its capacity falls below ½ dim Θ, and
-give freeze-out as the mechanism (THEORY-1253; NOTE-1481, their C3).
-CLAIM-tmpj0k4q, filed from the same exchange, counts the directions a
+give freeze-out as the mechanism ([THEORY-1253](../theory.d/THEORY-1253.md); [NOTE-1481](../notes.d/NOTE-1481.md), their C3).
+[CLAIM-tmpj0k4q](CLAIM-tmpj0k4q.md), filed from the same exchange, counts the directions a
 data set resolves, logarithmic in n for a geometric spectrum. This claim
 reads that count in the learning coefficient and adds the contrast with
 the singular case and the test that separates them.
@@ -105,7 +105,7 @@ the singular case and the test that separates them.
   the inverse of the smallest eigenvalue.
 - In a singular model λ(n) stays below its learning coefficient, below
   d/2, at every n. With multiplicity m > 1 it creeps up as
-  λ − (m − 1)/log n (THEORY-1253), at a rate of (m − 1)/(log n)²: about
+  λ − (m − 1)/log n ([THEORY-1253](../theory.d/THEORY-1253.md)), at a rate of (m − 1)/(log n)²: about
   0.006 to 0.008 per unit of log n between 10⁴ and 10⁶ for a²b², 30 to 40
   times slower than the sloppy climb.
 
@@ -120,13 +120,13 @@ levels off below it.
 - It does not say the hyperribbon's widths, which are geodesic widths of
   the model image, equal the inverse square roots of local Fisher
   eigenvalues. The record holds neither the widths nor that relation
-  (CLAIM-tmpcgvcp). The claim is stated in eigenvalues, which the record
+  ([CLAIM-tmpcgvcp](CLAIM-tmpcgvcp.md)). The claim is stated in eigenvalues, which the record
   holds.
 - It does not say every sloppy direction ends at a stratum. A linear
-  model is sloppy and never singular (CLAIM-tmpcgvcp).
+  model is sloppy and never singular ([CLAIM-tmpcgvcp](CLAIM-tmpcgvcp.md)).
 - It does not apply as stated to deep networks, where n, d and the
-  spectrum grow together (QUESTION-tmp7d1ws). Hoogland et al.
-  (LIT-tmp3njir, unread) report learning-coefficient estimates changing
+  spectrum grow together ([QUESTION-tmp7d1ws](../questions.d/QUESTION-tmp7d1ws.md)). Hoogland et al.
+  ([LIT-tmp3njir](../literature.d/LIT-tmp3njir.md), unread) report learning-coefficient estimates changing
   across stages. On this claim, a rise in an estimate over training could
   be a sloppy direction coming into resolution as much as a change of
   singular stratum. The estimate's dependence on its inverse temperature

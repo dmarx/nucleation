@@ -35,6 +35,7 @@ summary: >-
   not say that the material learns: only the linear readout is trained.
 bears_on:
 - QUESTION-388
+- QUESTION-tmp2hhlc
 ---
 
 # THEORY-1431: A multistable origami metamaterial driven by a fixed sequence of tension and compression can serve as the reservoir of a reservoir computer: a trained linear readout of its sequence of stable configurations classifies inputs better than the same readout of the raw inputs, and a retained buffer of cells carries input history

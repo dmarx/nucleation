@@ -19,7 +19,7 @@ summary: >-
   (2026-11-21), with its three kinds of weakness (A41 §5) and A37 §7's
   warning that singular values are not singularities, put together as one
   term so that a claim about a "small" or "weak" direction says which.
-  The record had pieces in THEORY-078 and THEORY-084 and no term. The
+  The record had pieces in [THEORY-078](../theory.d/THEORY-078.md) and [THEORY-084](../theory.d/THEORY-084.md) and no term. The
   wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A37, A41), assembled by the assistant (Claude, in this
   session); adopting it is the owner's call.
@@ -52,21 +52,21 @@ higher-order effects. Genuine parameter redundancy with no change to the
 implemented function." The Fisher matrix in 4 and 5 is relative to a
 stated observation (I = JᵀJ/σ² for Gaussian noise, or a pullback such as
 Wᵀ(diag p − ppᵀ)W to a hidden state), and changing the observation changes
-the ranking (CLAIM-tmppkdjz).
+the ranking ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)).
 
 ## What it must not be confused with
 
 - **Singular value and singularity.** "It's important not to confuse the
   singular values in that result with algebraic singularities in
   Watanabe's theory" (A37 §7). The strong singular modes Saxe et al.'s
-  networks learn first (THEORY-186) are sense 2, applied to a
+  networks learn first ([THEORY-186](../theory.d/THEORY-186.md)) are sense 2, applied to a
   correlation matrix. A singularity is sense 5. A small singular value is
   not a singularity: polynomial regression has an ill-conditioned design
-  and no singular point (CLAIM-tmpcgvcp).
+  and no singular point ([CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md)).
 - **Sloppy and singular.** Sense 4 and sense 5 differ in kind, not in
-  degree, though 4 can approach 5 near a stratum (CLAIM-tmpcgvcp,
-  CASE-tmpb2gly).
+  degree, though 4 can approach 5 near a stratum ([CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md),
+  [CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)).
 - **Weak and unimportant.** None of the six says a direction does not
   matter to the task. A label can sit wholly in a sense-1 weak direction
-  (CLAIM-tmppkdjz), and THEORY-420 holds a reading in which zeroing
+  ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)), and [THEORY-420](../theory.d/THEORY-420.md) holds a reading in which zeroing
   sense-2 weak directions can damage a trained transformer.

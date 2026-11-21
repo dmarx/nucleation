@@ -60,8 +60,8 @@ Each step below was checked by the assistant with `python3 -I`
   L_min(q) = ½(q − s)² + λq and q* = (s − λ)₊. Direct minimization gives
   q* = 0.0000, 0.5000, 1.0000 at s = 0.5, 1.5, 2.0 (λ = 1). This is the
   scalar case of what the record holds for factorizations: weight decay
-  narrows a factorization's gauge (CLAIM-148), and acts as a nuclear-norm
-  penalty that soft-thresholds a learned map (THEORY-180).
+  narrows a factorization's gauge ([CLAIM-148](CLAIM-148.md)), and acts as a nuclear-norm
+  penalty that soft-thresholds a learned map ([THEORY-180](../theory.d/THEORY-180.md)).
 - **Pitchfork.** At a = b = 0 the Hessian is [[λ, −s], [−s, λ]], with
   eigenvalues λ ± s. One goes soft at s = λ, and for s > λ minima appear
   at a = b = ±√(s − λ). Per coordinate on a = b = x, gradient flow is
@@ -72,7 +72,7 @@ Each step below was checked by the assistant with `python3 -I`
   μ > 0, growth from x₀ takes about (1/μ) ln(1/x₀): a plateau. A's two
   caveats stand. A start at exactly 0 never leaves. And with s and λ
   fixed, training does not cross the threshold unless something drifts
-  (CLAIM-tmpl9zw4 supplies the drift).
+  ([CLAIM-tmpl9zw4](CLAIM-tmpl9zw4.md) supplies the drift).
 - **The local coefficient dips.** With u = (a + b)/√2, v = (a − b)/√2, at
   s = λ, L − L_min = λv² + (u² − v²)²/8 exactly (agreeing to six digits at
   three random points), ≍ v² + u⁴, so the local Gibbs integral scales as
@@ -117,8 +117,8 @@ Each step below was checked by the assistant with `python3 -I`
 
 ## Related work
 
-A42 cites the "Feature Lottery" preprint (LIT-tmp1ai3v, unread) for a
+A42 cites the "Feature Lottery" preprint ([LIT-tmp1ai3v](../literature.d/LIT-tmp1ai3v.md), unread) for a
 pitchfork account of concept emergence in a Gaussian-mixture probe
-framework, and Wang et al.'s refined coefficients (THEORY-975). The record
-holds the pitchfork normal form in another domain (CLAIM-408) and the
-plateau-time law without weight decay (THEORY-740).
+framework, and Wang et al.'s refined coefficients ([THEORY-975](../theory.d/THEORY-975.md)). The record
+holds the pitchfork normal form in another domain ([CLAIM-408](CLAIM-408.md)) and the
+plateau-time law without weight decay ([THEORY-740](../theory.d/THEORY-740.md)).

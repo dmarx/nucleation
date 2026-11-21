@@ -43,15 +43,15 @@ summary: >-
   combinations of parameters and barely to the rest; such a model can be
   hard to fit and still predictive, and "simplicity can be a property of
   how a system responds to observation". The record held the spectra in
-  two worked cases (THEORY-774, THEORY-777) but not the general claim.
+  two worked cases ([THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md)) but not the general claim.
   A's analogy to neural networks is recorded and not adopted: sloppiness
   assumes a regular Fisher matrix, which overparameterized networks lack.
   The wording is A's (the other assistant in the exchange "Rich Get
   Richer Power Laws", A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, one of the two worked cases -->
-<!-- inactive-ok-file: LIT-tmpsqbr9 LIT-tmpm1tji LIT-tmp0fpti LIT-tmpd3swn — Deferred, registered 2026-11-21 from the exchange, unread -->
-<!-- inactive-ok-file: TERM-tmp5z2du CLAIM-tmpj0k4q — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-tmpsqbr9 LIT-tmpm1tji LIT-tmp0fpti — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: TERM-tmp5z2du — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
 
 # CLAIM-tmpficzj: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
@@ -66,7 +66,7 @@ second is surprisingly small."
 
 They come apart when the model is **sloppy**: its Fisher eigenvalues,
 under the experiment in question, spread over many decades, so its
-manifold of predictions is a hyperribbon (TERM-tmp5z2du). Three
+manifold of predictions is a hyperribbon ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)). Three
 consequences follow, all A's:
 
 1. **Hard to fit, still predictive.** "A model can be extremely difficult
@@ -89,18 +89,18 @@ consequences follow, all A's:
 
 The record has the two cases the general claim rests on in physics: in the
 hopping model, eigenvalues separate by a factor of order t when the
-density is seen after t steps (THEORY-774); in the critical Ising model
+density is seen after t steps ([THEORY-774](../theory.d/THEORY-774.md)); in the critical Ising model
 under decimation, the irrelevant directions fall by up to six decades
-while two stay (THEORY-777), and the Fisher information lost is a
-conditional covariance (THEORY-742). Machta and colleagues read both as
+while two stay ([THEORY-777](../theory.d/THEORY-777.md)), and the Fisher information lost is a
+conditional covariance ([THEORY-742](../theory.d/THEORY-742.md)). Machta and colleagues read both as
 "a model is sloppy because it is observed at a scale much larger than its
-own" (LIT-1299, as read in its note). The breadth of the claim, across
+own" ([LIT-1299](../literature.d/LIT-1299.md), as read in its note). The breadth of the claim, across
 systems biology models, rests on Gutenkunst and colleagues
-(LIT-tmpsqbr9) and the reviews (LIT-tmpm1tji, LIT-tmp0fpti), all
+([LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md)) and the reviews ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md), [LIT-tmp0fpti](../literature.d/LIT-tmp0fpti.md)), all
 Deferred and unread: the weakest grounds, so the claim is interpretive
 and Proposed.
 
-It sits beside CLAIM-401 and SYNTHESIS-075: adequacy relative to a
+It sits beside [CLAIM-401](CLAIM-401.md) and [SYNTHESIS-075](../syntheses.d/SYNTHESIS-075.md): adequacy relative to a
 declared target. Sloppiness is the parametric face of that relativity:
 which directions are stiff depends on which observables are fitted.
 
@@ -108,9 +108,9 @@ which directions are stiff depends on which observables are fitted.
 
 - **Not that the sloppy directions do not matter.** They matter for
   other observables; the claim is relative to the experiment
-  (TERM-tmp5z2du, condition 1).
+  ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md), condition 1).
 - **Not that a hierarchy of sensitivities indicates criticality** or a
-  power law in event sizes (A19 §5; TERM-tmp5z2du).
+  power law in event sizes (A19 §5; [TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)).
 - **Not, yet, that it holds for neural networks.** A19 §10 presses the
   analogy: "A neural network may contain billions of parameters, but only
   some combinations may significantly affect particular outputs or
@@ -120,7 +120,7 @@ which directions are stiff depends on which observables are fitted.
   network is singular, its Fisher matrix degenerate on sets of
   parameters, and the record's account of its effective parameter count
   is the learning coefficient, which falls below half the parameter count
-  where the optimal set is degenerate (THEORY-087, THEORY-1253). How a
+  where the optimal set is degenerate ([THEORY-087](../theory.d/THEORY-087.md), [THEORY-1253](../theory.d/THEORY-1253.md)). How a
   hyperribbon and a singular stratification relate is the owner's
   question at U24 and is filed with that turn.
 
@@ -129,7 +129,7 @@ which directions are stiff depends on which observables are fitted.
 A19 §5's table pairs "critical exponents" with the "rates at which
 perturbations grow or shrink under rescaling". For the Fisher eigenvalues
 the rate the record holds is b^(2y−d) per step, with the dimension d in
-it (THEORY-777), and the metric passes exactly to the coarse data only
-when the renormalized Hamiltonian stays in the family (THEORY-742). A's
+it ([THEORY-777](../theory.d/THEORY-777.md)), and the metric passes exactly to the coarse data only
+when the renormalized Hamiltonian stays in the family ([THEORY-742](../theory.d/THEORY-742.md)). A's
 own caveat in the same section ("One should not equate stiffness and RG
 relevance in every setting") stands.

@@ -39,7 +39,7 @@ an ordering question about three events in acquiring a distinction:
 Do they come in a fixed order, and does the first precede the others?
 "Weak" needs a spectrum: representation variance, a weight matrix's
 singular values, the Hessian, or the Fisher. These can rank directions in
-opposite orders (CLAIM-tmppkdjz; the senses are sorted in TERM-tmpnxjq4).
+opposite orders ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md); the senses are sorted in [TERM-tmpnxjq4](../terms.d/TERM-tmpnxjq4.md)).
 The question is open until it is answered for a stated spectrum.
 
 ## Candidate answers in the exchange
@@ -48,25 +48,25 @@ The question is open until it is answered for a stated spectrum.
   distinction may first appear as a change in task sensitivity within a
   spectrally quiet subspace, potentially preceding a visible change in
   variance or an identifiable transition in local singularity structure."
-  The recent work A41 found is Staats et al. (held: THEORY-420), Acharya
-  et al. (LIT-tmp0gbj6), Song et al. (LIT-tmp83hha) and Xu (LIT-tmp4det7),
+  The recent work A41 found is Staats et al. (held: [THEORY-420](../theory.d/THEORY-420.md)), Acharya
+  et al. ([LIT-tmp0gbj6](../literature.d/LIT-tmp0gbj6.md)), Song et al. ([LIT-tmp83hha](../literature.d/LIT-tmp83hha.md)) and Xu ([LIT-tmp4det7](../literature.d/LIT-tmp4det7.md)),
   the last three unread. None tracks a direction through learning toward
   a new distinction, so none answers the question. They show that small
   directions can matter at a checkpoint.
 - **A42's mechanism.** A factored feature switched on just above its
   threshold has variance of order ε² and a gain in fit of order ε
-  (CLAIM-tmp9bp04), so in that model events 1 and 2 coincide at s = λ.
+  ([CLAIM-tmp9bp04](../claims.d/CLAIM-tmp9bp04.md)), so in that model events 1 and 2 coincide at s = λ.
   Its variance stays small after the stability change.
-- **A43's three times** (CLAIM-tmpl9zw4): encoded, stable, expressed. On
+- **A43's three times** ([CLAIM-tmpl9zw4](../claims.d/CLAIM-tmpl9zw4.md)): encoded, stable, expressed. On
   this account event 1 can precede event 2 by any amount, and event 3
   lags event 2 by a delay that grows with how long the feature sat below
   threshold.
-- **A measurement caution** (CLAIM-tmpcg4uu). A change in an estimated
+- **A measurement caution** ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). A change in an estimated
   learning coefficient can be a sloppy direction coming into resolution
   rather than a change of stratum. Event 2 needs the estimate's dependence
   on its inverse temperature, not one value.
 
-A proposed test is LEAD-tmpfrw11.
+A proposed test is [LEAD-tmpfrw11](../leads.d/LEAD-tmpfrw11.md).
 
 ## What would count as an answer
 

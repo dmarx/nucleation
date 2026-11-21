@@ -57,36 +57,36 @@ summary: >-
 
 A27 §8's table, with the routes A adds in A10, A24 and A26. "Criticality"
 here is a transition reached by tuning a control parameter
-(TERM-tmpt3vht: a fixed point with relevant directions).
+([TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md): a fixed point with relevant directions).
 
 | Route | Why no intrinsic scale | Tuned? | Where |
 |---|---|---|---|
 | Criticality | correlation length diverges at a transition | yes | A6 §2, A8 §1 |
 | Broken continuous symmetry | no θ² restoring term, so long-wavelength cost ∝ k²; transverse C(r) ∝ r^(−(d−2)) through the ordered phase | no | A27 §2–3 |
-| Line of fixed points (2D XY) | marginal direction; C(r) ∝ r^(−η(T)), η = T/2πρ_s, over a range of T | no | A12 §7, A27 §5; LIT-tmp6l8le |
-| Nonequilibrium growth (KPZ) | W(L, t) = L^α F(t/L^z), α = ½, z = 3/2 in 1D, generically | no | A24 §3; LIT-tmpd6yec, LIT-tmpecowz |
+| Line of fixed points (2D XY) | marginal direction; C(r) ∝ r^(−η(T)), η = T/2πρ_s, over a range of T | no | A12 §7, A27 §5; [LIT-tmp6l8le](../literature.d/LIT-tmp6l8le.md) |
+| Nonequilibrium growth (KPZ) | W(L, t) = L^α F(t/L^z), α = ½, z = 3/2 in 1D, generically | no | A24 §3; [LIT-tmpd6yec](../literature.d/LIT-tmpd6yec.md), [LIT-tmpecowz](../literature.d/LIT-tmpecowz.md) |
 | Sustained flux (turbulence) | constant transfer rate across the inertial range | no | A23 §2 |
-| Ordered active matter | giant number fluctuations, ΔN ∝ ⟨N⟩^φ with φ > ½, in the ordered phase | no | A26 §4, A27 §7; THEORY-1085, LIT-tmp71zbs |
+| Ordered active matter | giant number fluctuations, ΔN ∝ ⟨N⟩^φ with φ > ½, in the ordered phase | no | A26 §4, A27 §7; [THEORY-1085](../theory.d/THEORY-1085.md), [LIT-tmp71zbs](../literature.d/LIT-tmp71zbs.md) |
 | Coarsening | L(t) ∝ t^(1/2) (nonconserved) or t^(1/3) (conserved), well below T_c | no | A26 §3 |
 | Cumulative advantage | growth with attachment ∝ size | no | A1, A27 §8 |
 | Geometric recursion | a fractal; Sierpiński D = log 3/log 2 = 1.585 | no | A10 §3 |
-| Broad relaxation spectra | a superposition of exponentials over a wide spread of rates | no | A23 §7, A27 §8; CLAIM-769 |
+| Broad relaxation spectra | a superposition of exponentials over a wide spread of rates | no | A23 §7, A27 §8; [CLAIM-769](CLAIM-769.md) |
 | Brownian motion | B(at) =d √a B(t) | no | A10 §6 |
 
 The derivations A gives were rechecked: the BKT exponent from
 ⟨Δθ²⟩ = (T/πρ_s) ln r gives exp(−½⟨Δθ²⟩) = r^(−T/2πρ_s); the 2D
 infrared integral ∫k^(d−3) dk diverges logarithmically (Mermin–Wagner,
-LIT-tmph28ji); an explicit field μ²θ² gives ξ = √ρ_s/μ; KPZ's z = α/β =
+[LIT-tmph28ji](../literature.d/LIT-tmph28ji.md)); an explicit field μ²θ² gives ξ = √ρ_s/μ; KPZ's z = α/β =
 (½)/(⅓) = 3/2, so a tenfold length is 10^1.5 = 31.6-fold in time against
 100-fold for diffusion (A24 §6); 1D directed percolation's
 ν∥/ν⊥ = 1.7338/1.0969 = 1.581 (A24 §2). The Gaussian spin-wave route is
-checked numerically in CLAIM-tmpwl8y8.
+checked numerically in [CLAIM-tmpwl8y8](CLAIM-tmpwl8y8.md).
 
 ## A's further distinctions folded in
 
 - **Structure is not scaling.** A Turing instability selects a band of
   wavenumbers and so a characteristic wavelength ℓ* = 2π/k* (A26 §2;
-  THEORY-543): "the emergence of structure and the emergence of scaling
+  [THEORY-543](../theory.d/THEORY-543.md)): "the emergence of structure and the emergence of scaling
   symmetry are two distinct phenomena." A26 §6 sorts the cases as scale
   selection (Turing), scale evolution (coarsening, whose dynamic scaling
   C(r, t) = F(r/L(t)) is "self-similar transformation, rather than a
@@ -108,7 +108,7 @@ checked numerically in CLAIM-tmpwl8y8.
   characteristic scale" (A27 §6).
 - **Many reported scale-free networks are not** (A10 §6), which A
   attributes to "rigorous studies", plainly Broido and Clauset
-  (LIT-tmp1cgul, unread).
+  ([LIT-tmp1cgul](../literature.d/LIT-tmp1cgul.md), unread).
 
 ## What would show criticality instead
 
@@ -122,10 +122,10 @@ satisfy the scaling relations among several observables. A24 §9 adds that
 the cutoff behaves differently by route: near criticality it grows on
 approach, in turbulence it is set by the injection and dissipation
 scales, and a KPZ interface has universal scaling without power-law
-tails at all. LEAD-tmpng7or proposes making this a protocol.
+tails at all. [LEAD-tmpng7or](../leads.d/LEAD-tmpng7or.md) proposes making this a protocol.
 
-Two neighbours filed from the same exchange: CLAIM-tmp8h6nt holds that a
-power-law distribution does not identify its mechanism, and CLAIM-tmp1dlyp
+Two neighbours filed from the same exchange: [CLAIM-tmp8h6nt](CLAIM-tmp8h6nt.md) holds that a
+power-law distribution does not identify its mechanism, and [CLAIM-tmp1dlyp](CLAIM-tmp1dlyp.md)
 lists mechanisms with no positive feedback. This claim is narrower in one
 way and wider in another: it concerns criticality in particular, and
 scale-covariant laws (correlations, spectra, dynamic scaling) as well as
@@ -139,7 +139,7 @@ distributions.
 - A12 §8's third row, "Stable scale-free dynamics", is not defined beyond
   the BKT example and as written cannot be told from "critical scaling".
   This claim reads it as scaling with no tuned direction, which is the
-  open part of QUESTION-tmp3lkep.
+  open part of [QUESTION-tmp3lkep](../questions.d/QUESTION-tmp3lkep.md).
 
 ## What it does not say
 
@@ -152,5 +152,5 @@ distributions.
   a tuned transition.
 - That self-organized criticality is ruled out. It is a route that ends at
   a critical point without outside tuning (A24 §4; Bak, Tang and
-  Wiesenfeld, LIT-tmpl2b2l), and whether a given system takes it is
-  QUESTION-tmp3lkep.
+  Wiesenfeld, [LIT-tmpl2b2l](../literature.d/LIT-tmpl2b2l.md)), and whether a given system takes it is
+  [QUESTION-tmp3lkep](../questions.d/QUESTION-tmp3lkep.md).

@@ -34,8 +34,8 @@ summary: >-
   earlier hyperribbon (A19 §4): "i bet wattanabe's stratification account
   connects nicely to that hyperribbon account from earlier". The thesis is
   the owner's. A39 took it up and added that the two are "related but not
-  the same" (CLAIM-tmpcgvcp); where they meet and part is
-  CLAIM-tmpcg4uu, the assistant's.
+  the same" ([CLAIM-tmpcgvcp](CLAIM-tmpcgvcp.md)); where they meet and part is
+  [CLAIM-tmpcg4uu](CLAIM-tmpcg4uu.md), the assistant's.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpcgvcp CLAIM-tmpcg4uu CASE-tmpb2gly ARG-tmpj0r42 LIT-tmpd3swn LIT-tmpzkxka LIT-354 — Proposed or new, or Deferred works not yet read, or Unavailable; filed with this claim -->
@@ -47,15 +47,15 @@ summary: >-
 U24, verbatim: "i bet wattanabe's stratification account connects nicely
 to that hyperribbon account from earlier".
 
-Watanabe's account (his book LIT-354 is Unavailable; its core is read in LIT-616 and THEORY-087) divides a model's
+Watanabe's account (his book [LIT-354](../literature.d/LIT-354.md) is Unavailable; its core is read in [LIT-616](../literature.d/LIT-616.md) and [THEORY-087](../theory.d/THEORY-087.md)) divides a model's
 parameter space into strata on which the map from parameters to
 distributions has different local structure. The learning coefficient
 on a stratum sets the Bayesian complexity penalty. The hyperribbon account
-(Transtrum, Machta and Sethna, LIT-tmpd3swn and LIT-tmpzkxka, registered
+(Transtrum, Machta and Sethna, [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md) and [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), registered
 from the exchange and unread) describes a sloppy model's image as a
 ribbon whose widths fall off geometrically, so that most parameter
 combinations barely move the predictions. The record holds the
-eigenvalue spread behind it for one model (THEORY-774). The owner bets
+eigenvalue spread behind it for one model ([THEORY-774](../theory.d/THEORY-774.md)). The owner bets
 that the two connect.
 
 ## Where it stands
@@ -63,14 +63,14 @@ that the two connect.
 - **A's development (A39).** The connection is "especially clear at the
   boundaries of model manifolds": in F(a, b) = (a + b, ab), a sloppy
   direction becomes exactly degenerate as two mechanisms merge
-  (CASE-tmpb2gly). But "a model can be highly sloppy without being
-  singular", and the reverse; that part is CLAIM-tmpcgvcp.
-- **The assistant's statement (CLAIM-tmpcg4uu).** They meet at fold edges,
+  ([CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)). But "a model can be highly sloppy without being
+  singular", and the reverse; that part is [CLAIM-tmpcgvcp](CLAIM-tmpcgvcp.md).
+- **The assistant's statement ([CLAIM-tmpcg4uu](CLAIM-tmpcg4uu.md)).** They meet at fold edges,
   where the sloppy eigenvalue is the squared distance to a stratum. This
   includes the textbook sloppy model, the sum of exponentials, at equal
   rates. They also meet at finite sample size, where an unresolved sloppy
   direction and a singular one both hold the learning coefficient below
-  d/2. They part in how the coefficient moves as data grow. ARG-tmpj0r42
+  d/2. They part in how the coefficient moves as data grow. [ARG-tmpj0r42](../arguments.d/ARG-tmpj0r42.md)
   weighs how far this supports the bet.
 - **Not yet shown.** Any connection between the hyperribbon's geometric
   widths, as distinct from its local Fisher eigenvalues, and the

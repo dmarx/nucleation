@@ -39,6 +39,8 @@ summary: >-
   without singular support loses information as sites are discarded. The
   caption's rate 2^(−d−y) disagrees with the bands and with the
   supplement's b^(2y−d).
+bears_on:
+- QUESTION-tmpzlagu
 ---
 
 # THEORY-777: In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4

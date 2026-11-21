@@ -20,7 +20,7 @@ line:
 - formal-apparatus
 summary: >-
   How far the assistant's statement of where sloppiness and singular
-  strata meet (CLAIM-tmpcg4uu) and its construction (CASE-tmpb2gly)
+  strata meet ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)) and its construction ([CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md))
   support the owner's U24 in the exchange "Rich Get Richer Power Laws"
   (2026-11-21). In part: the connection holds at fold edges and at finite
   n, and the construction says nothing about the widths that define a
@@ -34,19 +34,19 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpa8hb2, the owner's, bets that the two accounts "connect nicely".
+[CLAIM-tmpa8hb2](../claims.d/CLAIM-tmpa8hb2.md), the owner's, bets that the two accounts "connect nicely".
 Two results bear on it.
 
 - **At the edges.** In the textbook sloppy model, a sum of exponentials,
   equal rates are a fold edge of the image. There the smaller Fisher
   eigenvalue is proportional to the squared distance from the stratum and
   vanishes on it, and the learning coefficient at a true point on the edge
-  is 3/4 against 1 (CASE-tmpb2gly, CLAIM-tmpcg4uu). A thin direction of
+  is 3/4 against 1 ([CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md), [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). A thin direction of
   the hyperribbon thus ends on a singular stratum, and its eigenvalue
   measures the distance to it.
 - **At finite n.** A sloppy direction the data cannot resolve holds the
-  learning coefficient below d/2, as a singular one does (CLAIM-tmpcg4uu;
-  THEORY-1253's freeze-out). The two accounts describe the same shortfall
+  learning coefficient below d/2, as a singular one does ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md);
+  [THEORY-1253](../theory.d/THEORY-1253.md)'s freeze-out). The two accounts describe the same shortfall
   in Bayesian complexity at a given n, and come apart only as n grows.
 
 If both hold, the stratification and the hyperribbon are connected: in
@@ -62,16 +62,16 @@ learning-coefficient estimate measures both at once.
   fold-edge result is specific: a stratum at the end of a sloppy
   direction is not what two unrelated accounts would predict.
 - **Does it tell the bet apart from its rivals?** The rival is
-  CLAIM-tmpcgvcp read as "different and unrelated". Its own examples
+  [CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md) read as "different and unrelated". Its own examples
   (a linear model sloppy and never singular; Y ∼ N(ab, 1) singular with no
   spread) show the properties can occur apart. They do not show they never
   meet, and the edge result shows they do. The rival "sloppiness is
   singularity" is refuted by the same linear model.
 - **Does the measure measure what it is said to?** Here is the gap. A
   hyperribbon is defined by the geodesic widths of the model image
-  (LIT-tmpd3swn, LIT-tmpzkxka, unread), not by Fisher eigenvalues at a
+  ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), unread), not by Fisher eigenvalues at a
   point. The evidence is stated in eigenvalues. Whether the manifold
-  boundaries that Transtrum and Qiu's reduction follows (LIT-tmpdz70v,
+  boundaries that Transtrum and Qiu's reduction follows ([LIT-tmpdz70v](../literature.d/LIT-tmpdz70v.md),
   unread) are singular strata in general is open. Many lie at infinite
   parameter values, a rate going to 0 or ∞, where the model loses a
   parameter in the limit rather than folding at a finite point. A39 §6

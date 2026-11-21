@@ -45,7 +45,7 @@ magnitude". At τ = 2, "Each logarithmic size interval contributes roughly
 equally". For τ > 2, "Smaller scales contribute more total magnitude".
 Critical branching has τ = 3/2, and its mean below criticality,
 E[S] = 1/(1 − R), diverges as R → 1⁻. So two readings of the owner's U5
-(CLAIM-tmpr9au6) part:
+([CLAIM-tmpr9au6](CLAIM-tmpr9au6.md)) part:
 
 - "**Most observations are small:** Often true near criticality."
 - "**Most of the total activity comes from small observations:** Not
@@ -64,7 +64,7 @@ misleading."
 ## Checked, with the finite numbers (the assistant's)
 
 A says a system "may" be dominated by rare large events but gives no
-finite estimate. For the Poisson cascade at R = 0.99 (CASE-tmpi5vfh),
+finite estimate. For the Poisson cascade at R = 0.99 ([CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md)),
 computed from the Borel law:
 
 | cascades larger than | share of cascades | share of all events |
@@ -89,5 +89,5 @@ largest accessible scales" is this.
   τ ≈ 2.055 (A5 §2). There the sites per logarithmic bin fall slowly with
   size, though the mean size of the cluster a given site belongs to still
   diverges at p_c, since s³n_s ∝ s^(3−τ) grows.
-- The complement on the scale side is CLAIM-tmplb1ow: the bulk stays put
+- The complement on the scale side is [CLAIM-tmplb1ow](CLAIM-tmplb1ow.md): the bulk stays put
   while the tail lengthens.

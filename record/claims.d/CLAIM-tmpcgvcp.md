@@ -54,15 +54,15 @@ is I = JᵀJ/σ² (A39 §1). Two different things can make a direction weak.
 
 - **Sloppiness.** J has full rank, but its singular values spread over
   many decades. The model is regular: the Fisher matrix is invertible, the
-  learning coefficient is d/2 (THEORY-087), and every direction is
+  learning coefficient is d/2 ([THEORY-087](../theory.d/THEORY-087.md)), and every direction is
   identified given enough data. The record holds the eigenvalue spread
-  for a physics model (THEORY-774); the hyperribbon reading of it, a
-  hierarchy of widths of the model image (TERM-tmp5z2du), is in the Transtrum works
-  registered from the exchange (LIT-tmpd3swn, LIT-tmpzkxka), not yet read.
+  for a physics model ([THEORY-774](../theory.d/THEORY-774.md)); the hyperribbon reading of it, a
+  hierarchy of widths of the model image ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)), is in the Transtrum works
+  registered from the exchange ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)), not yet read.
 - **Singularity.** J loses rank on a set of parameters, a stratum, where
   some parameter change has no first-order effect on the predictions.
-  The Fisher matrix is not invertible there (THEORY-082), and the
-  learning coefficient can fall below d/2 (THEORY-087).
+  The Fisher matrix is not invertible there ([THEORY-082](../theory.d/THEORY-082.md)), and the
+  learning coefficient can fall below d/2 ([THEORY-087](../theory.d/THEORY-087.md)).
 
 They come apart in both directions. The assistant's checks:
 
@@ -70,7 +70,7 @@ They come apart in both directions. The assistant's checks:
   [0, 1], 50 points, is linear in its parameters, so its Fisher matrix is
   constant and never loses rank. Its eigenvalues span ratios of
   1.4 × 10⁴, 1.3 × 10⁷ and 1.2 × 10¹⁰ for 4, 6 and 8 coefficients.
-- **Singular everywhere, no spread.** CASE-152's Y ∼ N(ab, 1) has a
+- **Singular everywhere, no spread.** [CASE-152](../cases.d/CASE-152.md)'s Y ∼ N(ab, 1) has a
   Fisher matrix of rank at most 1 at every point: one zero eigenvalue
   everywhere, and an image that is a line, not a ribbon of graded
   widths.
@@ -83,11 +83,11 @@ have the same Fisher matrix at the origin, rank 1, and learning
 coefficients ½ + ¼ = 3/4 and ½ + ⅙ = 2/3. Resolution of singularities,
 or a direct computation of the volume scaling, supplies what the point
 spectrum lacks. It does so as a tool for computing the coefficient, not as
-a change in what can be observed (CLAIM-305).
+a change in what can be observed ([CLAIM-305](CLAIM-305.md)).
 
 A37 §1 adds a third distinction the claim keeps: a singularity of the
 parameter-to-prediction map is not a singularity of the image. In
-CASE-tmpb2gly the image p ≤ s²/4 has a smooth edge while the map folds
+[CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md) the image p ≤ s²/4 has a smooth edge while the map folds
 along a = b. "The network's space of realizable functions is therefore
 better understood as a stratified geometric object than as one globally
 smooth manifold of fixed dimension" (A37 §1).
@@ -99,9 +99,9 @@ measure over parameters".
 
 ## What it does not say
 
-It does not say the two are unrelated. CASE-tmpb2gly shows a sloppy
+It does not say the two are unrelated. [CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md) shows a sloppy
 eigenvalue that is the shadow of a nearby stratum, and the textbook
 sloppy model has such strata at its edges. Where they meet, and how a
 learning coefficient measured at finite n confounds them, is
-CLAIM-tmpcg4uu. Whether the connection is a good one is the owner's
-CLAIM-tmpa8hb2.
+[CLAIM-tmpcg4uu](CLAIM-tmpcg4uu.md). Whether the connection is a good one is the owner's
+[CLAIM-tmpa8hb2](CLAIM-tmpa8hb2.md).

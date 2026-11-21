@@ -516,12 +516,12 @@ independent and their sums average out, so a block description is closed
 to a good approximation; at a critical point ξ is unbounded and no block
 size gives that window. A does not show the bridge it asserts, that a
 finite ξ makes a system nearly decomposable in Simon's sense
-(THEORY-661): decay of correlations between blocks is weak
+([THEORY-661](../theory.d/THEORY-661.md)): decay of correlations between blocks is weak
 statistical dependence, and Simon's near-decomposability is weak
 interaction, a statement about rates. The two meet through dynamic
 scaling, τ ∝ ξ^z, which ties the loss of the spatial window to the loss of
 this claim's temporal one near a continuous transition; slowing there is
-of the collective mode, the case CLAIM-626 separates from the others.
+of the collective mode, the case [CLAIM-626](CLAIM-626.md) separates from the others.
 The assistant's reading (Claude, in this session). The exchange's other
 point here, that criticality is not the maximum of complexity, is
-CLAIM-tmp99m8g. No status change.
+[CLAIM-tmp99m8g](CLAIM-tmp99m8g.md). No status change.

@@ -94,16 +94,16 @@ of rate and time swapped: the wait is random there, the rate in Sozou.
 
 A5 §4 of that exchange gives the same average as a route to power laws:
 exponential waiting times whose rates are gamma-distributed give
-P(T > t) = (b/(b + t))^a, which is THEORY-2131's gamma case read as a
+P(T > t) = (b/(b + t))^a, which is [THEORY-2131](../theory.d/THEORY-2131.md)'s gamma case read as a
 survival function. The assistant checked it by two million draws (a = 1.5,
 b = 2: 0.0680 against 0.0680 at t = 10). The exchange adds two things this
 claim does not state. The first is the name superstatistics (Beck,
-LIT-tmp1b7mm, registered and unread). The second is a caution: "If a
+[LIT-tmp1b7mm](../literature.d/LIT-tmp1b7mm.md), registered and unread). The second is a caution: "If a
 dataset displays a power law, that does not necessarily mean any
 individual entity follows power-law dynamics." The caution applies here
 too. A power law in the population's escape does not show a power law in
 any one state's dynamics, only a spread of exponential rates. The
-exchange's catalogue is CLAIM-tmp1dlyp (item 4). The same mechanism is
+exchange's catalogue is [CLAIM-tmp1dlyp](CLAIM-tmp1dlyp.md) (item 4). The same mechanism is
 also why a bulk with a long tail does not by itself mark a system near a
-transition, which bears on the owner's conjecture CLAIM-tmpr9au6 and its
-reading CLAIM-tmplb1ow. The claim is unchanged.
+transition, which bears on the owner's conjecture [CLAIM-tmpr9au6](CLAIM-tmpr9au6.md) and its
+reading [CLAIM-tmplb1ow](CLAIM-tmplb1ow.md). The claim is unchanged.

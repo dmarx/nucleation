@@ -28,11 +28,11 @@ summary: >-
 ## The question
 
 Watanabe's free energy F_n = nL + λ log n − (m − 1) log log n + O(1)
-(THEORY-087) is an expansion in n with the model fixed. The exchange's
+([THEORY-087](../theory.d/THEORY-087.md)) is an expansion in n with the model fixed. The exchange's
 other results are in proportional limits: the spiked-covariance threshold
 at β = √γ, γ = D/N, and the concentration of high-dimensional embeddings.
 A37 §9: "These are not interchangeable." The record holds a proportional
-limit in which generalization error jumps with the load (THEORY-521, in
+limit in which generalization error jumps with the load ([THEORY-521](../theory.d/THEORY-521.md), in
 perceptrons), but nothing that connects such a limit to a learning
 coefficient.
 
@@ -42,10 +42,10 @@ Two parts.
    energy whose leading complexity term is still governed by a
    singularity invariant, and what plays λ's role?
 2. **Measurement.** Local learning-coefficient estimates (Lau et al.,
-   LIT-tmpnbl2d, unread) are made at one network size and one inverse
+   [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), unread) are made at one network size and one inverse
    temperature. In the proportional regime, does a change in the estimate
    over training measure a change of singular stratum? Or is it confounded
-   with sloppy directions coming into resolution, which CLAIM-tmpcg4uu
+   with sloppy directions coming into resolution, which [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)
    shows can mimic a coefficient below d/2 at fixed n?
 
 A37 also asks "whether a feature becomes spectrally detectable before,

@@ -58,7 +58,7 @@ output gab = s − λ/g. Checked: at g = 1.5, s = λ = 1, direct minimization
 gives gab = 0.3333 = s − λ/g. "The fine distinction's statistical signal
 can be present throughout training, yet the computational structure
 needed to exploit it may not become stable until a more general feature
-reaches sufficient strength." It extends CLAIM-tmp9bp04 by making the
+reaches sufficient strength." It extends [CLAIM-tmp9bp04](CLAIM-tmp9bp04.md) by making the
 threshold depend on what has been learned, which supplies the drift that
 claim lacked.
 
@@ -67,8 +67,8 @@ t_c* = inf{t : g_c(t)s_c > λ_c}, the order of activation follows the gates'
 dependencies, but "a strong fine-grained signal may cross its threshold
 unusually early", so "the structural prediction is more accurately a
 partial order of dependencies than a universal coarse-to-fine chronology".
-The record's THEORY-283 has features recovered at sample counts set by
-their weights, and THEORY-740 has modes learned at times set by their
+The record's [THEORY-283](../theory.d/THEORY-283.md) has features recovered at sample counts set by
+their weights, and [THEORY-740](../theory.d/THEORY-740.md) has modes learned at times set by their
 strengths. Both are orders by signal strength. This adds an order by
 dependency.
 
@@ -101,7 +101,7 @@ claim is about.
 **From the optimum's derivative to influence.** A43 §15 notes that
 ∂q*/∂s jumps from 0 to 1 at activation, and links it to Lee et al.'s
 finding that training-data influence changes sign and peaks at stage
-transitions (LIT-tmpw25ne, unread). The ledger notes that the step from
+transitions ([LIT-tmpw25ne](../literature.d/LIT-tmpw25ne.md), unread). The ledger notes that the step from
 the derivative to a per-example influence is not made. In this model it
 is short. With φ(x) = ±1, the empirical loss depends on the data only
 through ŝ = (1/n)Σ y_iφ(x_i). Up-weighting example i by δ moves ŝ by
@@ -118,4 +118,4 @@ That networks are built from such gates, or that the parent's own
 dynamics leave the child's threshold where the exogenous-g model puts it.
 The coupled dynamics of g are not given (the ledger's gap at A43; left
 open here). The strata-to-semantics correspondence the exchange hopes the
-gates realize is QUESTION-tmpsy8qn.
+gates realize is [QUESTION-tmpsy8qn](../questions.d/QUESTION-tmpsy8qn.md).

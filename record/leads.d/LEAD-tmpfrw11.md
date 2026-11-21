@@ -27,7 +27,7 @@ summary: >-
   research design, A39 §8's combined measurement, A41 §7's tracking of
   variance, task sensitivity and the learning coefficient, and A43 §16's
   "decisive experiment" with interventions and a control. The assistant
-  adds one measurement from CLAIM-tmpcg4uu: estimate the learning
+  adds one measurement from [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md): estimate the learning
   coefficient at several inverse temperatures, so that a sloppy direction
   coming into resolution is not read as a change of stratum. The wording
   is A's (the other assistant in the exchange "Rich Get Richer Power
@@ -63,8 +63,8 @@ model where the answer is known in advance.
   reorganization).
 - Interventions (A43 §16; A42 §9): raise a parent's strength with the
   fine data fixed (the gated model predicts the child's onset at
-  g_c s_c = λ_c, CLAIM-tmpl9zw4); raise regularization (onset delayed or
-  suppressed, CLAIM-tmp9bp04); add fine examples before, near and after
+  g_c s_c = λ_c, [CLAIM-tmpl9zw4](../claims.d/CLAIM-tmpl9zw4.md)); raise regularization (onset delayed or
+  suppressed, [CLAIM-tmp9bp04](../claims.d/CLAIM-tmp9bp04.md)); add fine examples before, near and after
   onset (their effect should depend on which side of threshold the
   feature is). Causal ablations of quiet subspaces, "holding perturbation
   norms and relevant baseline effects comparable", repeated in other
@@ -76,10 +76,10 @@ model where the answer is known in advance.
   transition.
 
 **The assistant's addition.** Estimate the learning coefficient (Lau
-et al., LIT-tmpnbl2d) at two or more inverse temperatures at each
+et al., [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md)) at two or more inverse temperatures at each
 checkpoint. A sloppy regular direction coming into resolution raises the
 estimate at the rate of about ½ per direction resolved. A change of
-singular stratum moves its level (CLAIM-tmpcg4uu). One temperature cannot
+singular stratum moves its level ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). One temperature cannot
 separate them.
 
 **Not yet said.** The architecture, the size of the hierarchy and how

@@ -41,8 +41,6 @@ summary: >-
   it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the decimated spectrum this complements -->
-<!-- inactive-ok-file: TERM-tmpt3vht — filed by another drafter from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-tmp99m8g LEAD-tmpl5wxz — filed with this claim from the same exchange, Proposed or Open -->
 
 # CLAIM-tmpq8q9t: At the critical point of a lattice model the Fisher information about a relevant coupling of renormalization-group eigenvalue y grows with linear size L as L^(2y) when 2y exceeds the dimension d and only as L^d ln L when 2y = d; in the two-dimensional Ising model the field's grows per spin as L^(7/4) and the coupling's only as ln L, so critical sensitivity lies along the field and is not shared by every control parameter
 
@@ -73,14 +71,14 @@ analytic part of order L^d. So the total information about g grows as
 L^(2y) when 2y > d, as L^d ln L when 2y = d, and only extensively, as
 L^d, when 2y < d. Per site the excess is L^(2y−d), the same exponent the
 record holds for the Fisher eigenvalues under decimation, b^(2y−d) per
-step (THEORY-777).
+step ([THEORY-777](../theory.d/THEORY-777.md)).
 
 In the 2D Ising model y_h = 15/8 and y_t = 1, so 2y_h − d = 7/4 = γ/ν and
 2y_t − d = 0 = α/ν. Per spin, the information about the field grows as
 L^(7/4); about the coupling K, Var(E)/N grows only as ln L, with the
 exact amplitude (8/π) ln L ≈ 2.55 ln L from the logarithmic specific
 heat. Both relevant directions stand out from the irrelevant ones, as
-THEORY-777 and the note on LIT-1299 report, but by very different
+[THEORY-777](../theory.d/THEORY-777.md) and the note on [LIT-1299](../literature.d/LIT-1299.md) report, but by very different
 amounts, and the ratio grows as L^(7/4)/ln L. "Acutely sensitive" is true
 of the field, mildly of the temperature.
 
@@ -112,6 +110,6 @@ L = 4 to 9.4 at L = 10.
   direction: where both relevant eigenvalues exceed d/2 both grow as
   powers. The anisotropy is ordered by y.
 - Not that this measures distinguishability from coarse data. It is the
-  information in the full configuration; under decimation THEORY-777
+  information in the full configuration; under decimation [THEORY-777](../theory.d/THEORY-777.md)
   finds the two relevant directions kept and the rest lost, which is a
-  different contraction (THEORY-742).
+  different contraction ([THEORY-742](../theory.d/THEORY-742.md)).

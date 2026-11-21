@@ -63,7 +63,7 @@ multifractality".
 A stationary Gaussian field is fixed by its two-point function, and every
 linear functional of it, its value at a point included, is Gaussian. So
 any power-law two-point function, C(r) ∝ r^(−a) with 0 < a < d, or
-equivalently a spectrum S(k) ∝ k^(a−d) (TERM-tmpyi882), gives scale-free
+equivalently a spectrum S(k) ∝ k^(a−d) ([TERM-tmpyi882](../terms.d/TERM-tmpyi882.md)), gives scale-free
 correlations with Gaussian one-point values. The equipartition spectrum
 of A27 §3, ⟨|θ_k|²⟩ ∝ T/(ρ_s k²), is the case a = d − 2.
 
@@ -89,14 +89,14 @@ bounded marginal, and C(r) ∝ r^(−1/4).
 
 ## What follows
 
-Heavy-tailed marginals (TERM-tmpyi882's sense 1) and scale-covariant laws
+Heavy-tailed marginals ([TERM-tmpyi882](../terms.d/TERM-tmpyi882.md)'s sense 1) and scale-covariant laws
 (its senses 2 and 3) are independent. Fitting a power law to a histogram
 tests the first and says nothing about the second; a system can be
 scale-free in the sense that matters for its organization while every
 measured magnitude is thin-tailed. This is the step the ledgers asked for
 before the exchange's other claims about "scale-free" could be filed
-cleanly; CLAIM-tmpbe2gh uses the same Gaussian field to separate scale
-invariance from transfer across scales, and CLAIM-tmpsr8r4 uses the
+cleanly; [CLAIM-tmpbe2gh](CLAIM-tmpbe2gh.md) uses the same Gaussian field to separate scale
+invariance from transfer across scales, and [CLAIM-tmpsr8r4](CLAIM-tmpsr8r4.md) uses the
 Goldstone case as a route to scaling without criticality.
 
 ## What it does not say
@@ -104,6 +104,6 @@ Goldstone case as a route to scaling without criticality.
 - That heavy tails and scale-free correlations never come together. At a
   percolation threshold cluster sizes are heavy-tailed and correlations
   are power laws; the claim is that neither requires the other.
-- That the owner's bulk-and-tail intuition (U5, CLAIM-tmpr9au6) is wrong. It is a claim
+- That the owner's bulk-and-tail intuition (U5, [CLAIM-tmpr9au6](CLAIM-tmpr9au6.md)) is wrong. It is a claim
   about event-size distributions, sense 1; A27 §9 calls this example a
   refinement of it, not a refutation.

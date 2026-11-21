@@ -57,7 +57,7 @@ Whitney stratification refining them exists for such maps and does
 satisfy it, so its incidence relation is a partial order. An answer must
 say which stratification it uses.
 
-**The smallest case.** In F(a, b) = (a + b, ab) (CASE-tmpb2gly), the rank
+**The smallest case.** In F(a, b) = (a + b, ab) ([CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)), the rank
 strata are {a ≠ b} (rank 2, dimension 2) and {a = b} (rank 1, dimension
 1), and {a = b} lies in the closure of {a ≠ b}. The incidence order has
 two elements: "two mechanisms merged" below "two mechanisms distinct".
@@ -68,7 +68,7 @@ proposes: a two-element chain mapped onto "undifferentiated" below
 "differentiated". It is a stipulation, not a finding. The question is
 whether trained networks supply such a map nontrivially.
 
-**The gate model.** In CLAIM-tmpl9zw4, a parent gate g moves a child's
+**The gate model.** In [CLAIM-tmpl9zw4](../claims.d/CLAIM-tmpl9zw4.md), a parent gate g moves a child's
 threshold. The child's inactive stratum {a = b = 0} lies in the closure of
 its active ones, and the gate's dependency order is a candidate for the
 semantic order. That is one construction of a partial Φ, in a model where
@@ -81,7 +81,7 @@ synthetic hierarchy), its strata computed or their learning coefficients
 estimated, and the map Φ exhibited: which incidence relations carry
 semantic refinements and which refinements happen inside one stratum. A
 negative answer is a model in which refinements and stratum changes are
-unrelated. CLAIM-555 holds a nearby identification, of the compatibility
+unrelated. [CLAIM-555](../claims.d/CLAIM-555.md) holds a nearby identification, of the compatibility
 complex of a training distribution's demands with the singular geometry,
 from which a semantic order might be read. The entailment-cone side of
-the exchange (Ganea et al., LIT-866) is another theme of the same filing.
+the exchange (Ganea et al., [LIT-866](../literature.d/LIT-866.md)) is another theme of the same filing.

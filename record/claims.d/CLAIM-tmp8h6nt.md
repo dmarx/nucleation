@@ -36,8 +36,8 @@ summary: >-
   (the other assistant in the exchange "Rich Get Richer Power Laws", A1
   and A3); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpjai28 LIT-tmpwdtfj LIT-tmpl2b2l LIT-tmp1cgul — Deferred; registered from this exchange and not read -->
-<!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmpiervv CLAIM-tmply70l LEAD-tmpp8z85 THEORY-777 THEORY-789 — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
+<!-- inactive-ok-file: LIT-tmpjai28 LIT-tmp1cgul — Deferred; registered from this exchange and not read -->
+<!-- inactive-ok-file: CLAIM-tmpiervv CLAIM-tmply70l THEORY-777 THEORY-789 — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
 
 # CLAIM-tmp8h6nt: A power-law distribution does not identify the mechanism that produced it, nor does a shared power law show a shared mechanism or universality class; the mechanism has to be read from the dynamics, whether gain scales with size, whether there are floors or resets, whether the cutoff grows with the system, after the tail has been fitted against alternatives such as the lognormal
 
@@ -61,8 +61,8 @@ summary: >-
   invariance, f(ax) = a^(−γ) f(x), "However, two systems displaying power
   laws are not necessarily in the same universality class, and a common
   distribution alone does not imply a common mechanism" (A3 §7). The
-  record holds universality only in its Ising readings (THEORY-777,
-  THEORY-789).
+  record holds universality only in its Ising readings ([THEORY-777](../theory.d/THEORY-777.md),
+  [THEORY-789](../theory.d/THEORY-789.md)).
 - **Read the dynamics** (A3 §5). For attachment: do "participants with
   twice as many existing connections receive roughly twice as many new
   ones"? For multiplicative growth: is growth "approximately proportional
@@ -72,12 +72,12 @@ summary: >-
   system size."
 - **Fit first.** "a straight line on a log-log plot is not sufficient
   evidence of a power law, much less evidence of a particular generating
-  mechanism" (A3 §5). Clauset, Shalizi and Newman (LIT-tmpjai28) fit the
+  mechanism" (A3 §5). Clauset, Shalizi and Newman ([LIT-tmpjai28](../literature.d/LIT-tmpjai28.md)) fit the
   tail by maximum likelihood and compare it with the lognormal and other
   alternatives. A3 §3 adds that a power law in earthquakes or fires "does
   not establish that they are self-organized critical; the empirical
   evidence and applicability remain debated." Broido and Clauset
-  (LIT-tmp1cgul), whom A alludes to later (A10), carry the same caution
+  ([LIT-tmp1cgul](../literature.d/LIT-tmp1cgul.md)), whom A alludes to later (A10), carry the same caution
   over to networks.
 
 ## What the tests leave open (the assistant's)
@@ -93,10 +93,10 @@ summary: >-
   one of these, the test cannot tell cumulative advantage from
   heterogeneity, the same confusion A warns of at A5 §4 for mixtures.
 - **The tests overlap.** Linear attachment is proportional growth
-  (CLAIM-tmply70l), so the attachment test and the Gibrat test answer
+  ([CLAIM-tmply70l](CLAIM-tmply70l.md)), so the attachment test and the Gibrat test answer
   yes together. What separates them is entry and floors
-  (CLAIM-tmpiervv), which the multiplicative test asks about.
-- **The cutoff test** for criticality is LEAD-tmpp8z85.
+  ([CLAIM-tmpiervv](CLAIM-tmpiervv.md)), which the multiplicative test asks about.
+- **The cutoff test** for criticality is [LEAD-tmpp8z85](../leads.d/LEAD-tmpp8z85.md).
 
 ## Not supported
 

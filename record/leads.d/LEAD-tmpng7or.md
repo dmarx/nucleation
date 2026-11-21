@@ -29,27 +29,27 @@ summary: >-
   mechanism is known. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpsr8r4 CLAIM-tmplb1ow CLAIM-tmp8h6nt CLAIM-tmpwl8y8 CLAIM-tmpyy261 LEAD-tmpp8z85 — filed from the same exchange on 2026-11-21, Proposed or Open -->
+<!-- inactive-ok-file: CLAIM-tmpsr8r4 CLAIM-tmplb1ow CLAIM-tmp8h6nt CLAIM-tmpwl8y8 CLAIM-tmpyy261 — filed from the same exchange on 2026-11-21, Proposed or Open -->
 
 # LEAD-tmpng7or: Write and try a protocol that reads which mechanism maintains an observed power law from how its cutoff, its rescaled distributions, its dynamics and its response to a symmetry-breaking field behave
 
 ## Sketch
 
-**Why.** CLAIM-tmpsr8r4 holds that a power law does not show criticality,
+**Why.** [CLAIM-tmpsr8r4](../claims.d/CLAIM-tmpsr8r4.md) holds that a power law does not show criticality,
 and A24 §1 that a stationary histogram cannot name its mechanism. The
 exchange offers discriminating observations one at a time; A24 §9's
 summary of them ("What is the tail actually measuring?") still reads the
 mechanism from a static cutoff. A protocol that uses dynamics and
-response as well would make CLAIM-tmpsr8r4 usable, and test
-A10 §8's reading, which CLAIM-tmplb1ow states as the separation-of-scales
+response as well would make [CLAIM-tmpsr8r4](../claims.d/CLAIM-tmpsr8r4.md) usable, and test
+A10 §8's reading, which [CLAIM-tmplb1ow](../claims.d/CLAIM-tmplb1ow.md) states as the separation-of-scales
 reading of the owner's U5, that the extremes near a continuous transition
 follow the same law as the bulk: "The extreme events aren't governed by
 fundamentally different rules", with A's hedge that this "is not
 universally true for all heavy-tailed phenomena". An event above the
 extrapolated law, a dragon king, is exactly an extreme with different
 rules, and the data collapse is the check that tells the two apart.
-CLAIM-tmp8h6nt makes the general point that a distribution does not
-identify its mechanism; LEAD-tmpp8z85 is the cutoff row of this table
+[CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md) makes the general point that a distribution does not
+identify its mechanism; [LEAD-tmpp8z85](LEAD-tmpp8z85.md) is the cutoff row of this table
 taken alone, as an early-warning sign.
 
 **Observations, and what each mechanism predicts.**
@@ -64,21 +64,21 @@ taken alone, as an early-warning sign.
 | odd-order statistics of increments | zero in a Z₂-symmetric equilibrium model | zero (Gaussian) | nonzero (4/5 law) | nonzero skewness | either |
 
 The table is a first draft from A's turns and the assistant's checks in
-CLAIM-tmpwl8y8 and CLAIM-tmpyy261; writing the protocol includes
+[CLAIM-tmpwl8y8](../claims.d/CLAIM-tmpwl8y8.md) and [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md); writing the protocol includes
 checking each cell.
 
 **Trial.** Simulate one system per column where the answer is known:
 critical branching at several R and sizes; the Gaussian spin-wave field
-with and without μ; the linear shell cascade of CLAIM-tmpyy261 and, if
+with and without μ; the linear shell cascade of [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md) and, if
 affordable, a shell model of turbulence; a 1D KPZ discretization; an
 exponential mixture over a gamma spread of rates. Apply the protocol blind
 to each and score how often it names the mechanism. Then add a
 dragon-king case (one mechanism for the bulk, another for the top
-events) and see whether the collapse check catches it (CLAIM-tmplb1ow).
+events) and see whether the collapse check catches it ([CLAIM-tmplb1ow](../claims.d/CLAIM-tmplb1ow.md)).
 
 **What would count.** The protocol names the mechanism in each simulated
 case from observations a field study could make. If two columns cannot be
-told apart by any row, that pair goes into CLAIM-tmpsr8r4 as a limit.
+told apart by any row, that pair goes into [CLAIM-tmpsr8r4](../claims.d/CLAIM-tmpsr8r4.md) as a limit.
 
 **Cost.** A few days of simulation and writing; no outside data. The
 trajectory-level rows answer A24 §10's proposal of a "universality of

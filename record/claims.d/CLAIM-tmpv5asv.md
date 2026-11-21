@@ -53,7 +53,7 @@ learning times. However, that would not automatically establish a
 scale-free collective phase. It could be a collection of algebraically
 relaxing singular modes."
 
-The premise is CLAIM-tmpcbfdj: a degenerate direction relaxes as a power
+The premise is [CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md): a degenerate direction relaxes as a power
 of t with no collective mode and no tuning to a critical point. The
 claim offers this as a rival explanation of observed slow relaxation in
 training, beside criticality. It does not say which explanation holds for
@@ -65,7 +65,7 @@ But if the dependency structure itself becomes self-similar, or if the
 relevant thresholds and relaxation times follow a broad scaling
 distribution, then the sequence of feature activations might produce
 power laws … That would be an additional mechanism to derive and test —
-not a consequence of singularity theory alone." The record's LEAD-200
+not a consequence of singularity theory alone." The record's [LEAD-200](../leads.d/LEAD-200.md)
 (Done) checked the related question whether relaxation summed over an
 ultrametric tree gives a power law.
 
@@ -73,8 +73,8 @@ ultrametric tree gives a power law.
 
 The ledger notes that A gives no step from one algebraic mode to the
 broad distribution of timescales an observed power law needs. One
-quartic mode gives t^(−1/2), and CLAIM-tmpcbfdj shows it needs a balanced
-start. CLAIM-tmpuc8ro, the assistant's, supplies one step. A population
+quartic mode gives t^(−1/2), and [CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md) shows it needs a balanced
+start. [CLAIM-tmpuc8ro](CLAIM-tmpuc8ro.md), the assistant's, supplies one step. A population
 of independent factored modes from a small random start relaxes on
 average as a power law with a logarithmic correction. The cause is that
 the conserved imbalance of each mode sets its exponential rate, and those
