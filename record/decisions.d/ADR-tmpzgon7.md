@@ -31,7 +31,7 @@ summary: >-
   will become awkward for me or you to continue because of next steps or
   whatever."
 ---
-<!-- inactive-ok-file: ADR-tmpq5b9e ADR-tmp9pqps — Proposed; the decisions on merges into staging, 2026-11-21 -->
+<!-- inactive-ok-file: ADR-tmp9pqps — Proposed; the decisions on merges into staging, 2026-11-21 -->
 <!-- inactive-ok-file: ADR-115 ADR-tmpd4rgx — Proposed; the decisions on devlog notes and on reframings this regime files under -->
 
 # ADR-tmpzgon7: A dialectic regime, switched on and off by the owner and on until switched off: while it is on, the assistant files the argument of the exchange as it goes, reports each filing as it lands, and reverts a filing when the owner interjects, rather than offering to file and waiting to be told; status changes, decisions, configuration, CI, delegated readings, outside services and merges still wait for the owner
