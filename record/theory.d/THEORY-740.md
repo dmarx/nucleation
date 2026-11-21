@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpyyddn
 title: 'A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data''s spectrum'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -17,6 +17,11 @@ history:
     and LIT-864. They were re-derived for the split, written out below
     (ADR-047 v2). THEORY-186 keeps the random-start claim and extends this
     one.
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpmugkp gives the
+    spectral-steepest-descent counterpart of this reading's arrival times. No change of status or title.
 tags:
 - representation-learning
 - learning-theory
@@ -34,6 +39,7 @@ summary: >-
   does not say that random starts follow the solution, which is
   [THEORY-186](THEORY-186.md)'s.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmugkp — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this core was split from and that extends it, and the depth account set beside it, cited as open -->
 
 # THEORY-740: A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data's spectrum
@@ -85,3 +91,12 @@ close.
   depth beyond two layers, which is [THEORY-187](THEORY-187.md)'s.
 - **Not discontinuities.** Each rise is smooth, and sharp only relative to
   the plateau before it.
+
+## Note of 2026-11-20: arrival times under equalized rates
+
+This reading gives each mode's wait as of order its inverse strength times
+the log of the inverse initial scale. [CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md) gives the counterpart
+when each layer's update is the polar factor of its gradient: from the same
+decoupled, balanced start, a mode reaches half its strength at √(s/2)/lr, so
+the order of arrival reverses. Checked by simulation from a random small
+start. A bearing of use; this reading's derivation is not affected.

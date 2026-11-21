@@ -5,7 +5,13 @@ formerly:
 - THEORY-tmpit8ng
 promote_when: 'A result beyond the one-dimensional case where the NTK and the NNGP differ by more than a within-class rescaling. That could be a derivation for multi-dimensional or multi-class data, or a measurement of NC1, with a stated metric, on networks trained in a verified lazy regime (the tangent kernel measured to stay fixed) on real data. The measurement should show NC1 staying at its initial value while the same architecture, trained out of the lazy regime, collapses. The account is refuted by a lazy-regime network, kernel verified static, whose hidden features'' NC1 falls substantially below its value at initialization. More Gaussian-mixture simulations of NNGP against NTK cannot settle it, and neither can finite networks whose regime is not checked.'
 title: 'Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpqwoxz reads the lazy regime as a
+    separation of rates between features and fit. No change of status or title.
 tags:
 - learning-theory
 - representation-learning
@@ -29,6 +35,7 @@ extends:
 answers:
 - QUESTION-192
 ---
+<!-- inactive-ok-file: CLAIM-tmpqwoxz CLAIM-478 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 
 # THEORY-813: Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces
 
@@ -51,3 +58,13 @@ A verified-lazy network on real data whose NC1 stays at its initial value while 
 
 ## Note of 2026-11-19: Poole and colleagues, read
 A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): Poole and colleagues' layerwise covariance recursion is, in substance, the kernel recursion of the infinite-width regime; they predate the name and do not make the identification.
+
+## Note of 2026-11-20: the lazy regime as two levels
+
+[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md) reads the lazy, kernel regime this reading describes as a
+separation of rates: the hidden features move by a vanishing amount while the
+output is fit, so the features act as a slow level constraining the fast
+readout, in the sense of [CLAIM-478](../claims.d/CLAIM-478.md) (version 5). Feature learning, which this
+reading says alone produces neural collapse, is then what happens when the
+hidden layers are not slower than the readout by a factor that grows with
+width. A bearing of use; nothing here tests the reading.

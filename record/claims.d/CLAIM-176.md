@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp2jolp
 title: 'Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-11'
@@ -32,6 +32,12 @@ history:
     2026-10-11 records that the two nucleation works since read
     (NOTE-708, NOTE-709) do not support a threshold that is a count. The
     text is unchanged.
+- version: 5
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpve51e shows the second-occurrence rule caps
+    drift per idea, and CLAIM-tmpsn2rb names the ideas it may miss. No
+    change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,6 +70,7 @@ complements:
 - CLAIM-179
 - CLAIM-186
 ---
+<!-- inactive-ok-file: CLAIM-tmpve51e CLAIM-tmpsn2rb — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-483 — Proposed; the comparative premise split from CLAIM-177 on 2026-10-27 -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -172,3 +179,18 @@ filed in shapes it, is unanswered.
 ## Note of 2026-11-20: what holds it back
 
 Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07, which records that inbound references per code were counted on 2026-11-06, and [CLAIM-181](CLAIM-181.md)'s of 2026-11-07 to 2026-11-10, line bookkeeping only. So [CLAIM-185](CLAIM-185.md) no longer waits on that count but on its first defeater's comparison with content restated afresh, [CLAIM-483](CLAIM-483.md) still waits on a second exchange read move by move, and [CLAIM-181](CLAIM-181.md)'s objection, that the grammar a coded thing is filed in shapes it, is still unanswered. No record that codes on first occurrence or only on request has had its drift and filing cost set beside this one's.
+
+## Note of 2026-11-20: what the rule caps, and what it may miss
+
+[CLAIM-tmpve51e](CLAIM-tmpve51e.md): coding an idea at its k-th occurrence caps its uncoded
+restatements at k − 1, so under this rule (k = 2) an idea's drift before
+coding is at most one restatement's worth, whatever the arrival rate. That
+is a formal sense of "captures exactly the drift that defeats an argument":
+the cap is set by the idea's own recurrence, not by a coder keeping up.
+
+[CLAIM-tmpsn2rb](CLAIM-tmpsn2rb.md) qualifies it. If drift toward the collaborators' framings is
+contraction, an idea far from them can pass the critical distance before it
+recurs in recognizable form, and then its second occurrence is a
+re-derivation as though new, the case this rule is meant to catch. That
+bears on this claim's second defeater, drift that sits in things said only
+once.

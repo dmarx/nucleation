@@ -1,0 +1,53 @@
+---
+status: Read
+paper: LIT-tmp40ldm
+title: 'Lad, Lee, Gurnee and Tegmark — Stages of inference'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 by a delegated reader from arXiv 2406.19384v3 (16
+    Jun 2025): the abstract, §§1–6 and the text and captions of Appendices
+    A.1–A.11; Figure 5 read from the rendered page. Running notes on the
+    branch claude/readers/stages-lad (ADR-108). Quotations the filing
+    leans on rechecked by the filer by script against the downloaded text.
+date: '2026-11-21'
+summary: >-
+  Deleting or swapping a middle layer at inference leaves most top-1
+  predictions unchanged in GPT-2 and Pythia while first-layer
+  interventions are catastrophic; from this and probes across 16 models
+  the authors hypothesize four ordered stages (detokenization, feature
+  engineering, prediction ensembling, residual sharpening), the second
+  half more specialized than the first.
+---
+<!-- inactive-ok-file: ADR-108 THEORY-1011 THEORY-1030 THEORY-1226 — Proposed, Rejected; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpcvuyr — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+
+# NOTE-tmp9qijr: Lad, Lee, Gurnee and Tegmark — Stages of inference
+
+## Contribution
+
+A sensitivity profile of depth under drop and swap; a four-stage framework synthesizing prior interpretability findings; a few new tests.
+
+## Key results
+
+1. **The measure**: "relative accuracy" is "the fraction of predictions that are the same between the intervened model and the baseline model"; the abstract's 72–95% is not derived in the body.
+2. **First layer** (§3.1): "Intervening on the first layer is catastrophic for model performance for every model".
+3. **Middle robust** (§3.1): the middle layers "are remarkably robust to both deletion and minor order changes".
+4. **Specialization** (A.4): a change about halfway through, "suggesting a transition from iterative refinement to more specialized computations".
+5. **Hedges and conclusion** (§6): "Stage boundaries are approximate, and multiple stages may co-occur within a single layer"; yet the stages suggest inference "not as a flat pipeline but as an ordered composition of specialized computational regimes".
+6. **Scope**: interventions on GPT-2 and Pythia (8 models); stage signatures on 16 models in five families.
+
+## Assumptions and concepts
+
+Zero ablation; folded layer norms; the untuned logit lens; aggregate statistics over tokens. Concepts: iterative inference against circuits, relative accuracy, the four stages, prediction and suppression neurons.
+
+## Bearing on the record
+
+- **[CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)** (supports both halves; qualifies). Robust middle, sensitive first layer, ordered stages. Corrections written into version 2: robustness comes from two families only; relative accuracy is agreement with the original model; the fourth stage is residual sharpening; the middle is interchangeable behaviourally, not functionally, since the second half is specialized; and the stages include a lift to "higher-level representations", closer to ordered phases than to pure refinement.
+- **Recheck**: [THEORY-1033](../theory.d/THEORY-1033.md) and [THEORY-1030](../theory.d/THEORY-1030.md) (Geva and colleagues), [THEORY-1011](../theory.d/THEORY-1011.md) (ROME: middle-layer facts), [THEORY-1024](../theory.d/THEORY-1024.md)/1026 (localization does not predict where edits work), [THEORY-1226](../theory.d/THEORY-1226.md) (a middle band of workspace-like content).
+
+## Limitations
+
+Two older families for interventions; correlational stage evidence, partly borrowed; approximate boundaries; untuned logit lens; minor figure-reference errors.

@@ -34,7 +34,7 @@ name: Pages
 
 on:
   workflow_run:
-    workflows: [Docs]
+    workflows: [Docs, Promote]
     types: [completed]
     branches: [main]
   # Catches up merges the gate skipped. Off the hour, as scheduled runs

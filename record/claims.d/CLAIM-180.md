@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7vmnc
 title: 'Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether'
-version: 4
+version: 6
 history:
 - version: 2
   date: '2026-10-14'
@@ -40,6 +40,17 @@ history:
     holds only the derivation, which the claim does not use. The
     Capacity point gains the report's dependence of the critical
     distance on load. The claim is unchanged.
+- version: 5
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpw6wkt and CLAIM-tmpdx6l8 give a mechanism
+    for the drift this claim describes. No change of status or title.
+- version: 6
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmphedau turns the critical distance into a
+    number of restatements, and CLAIM-tmpsn2rb draws a prediction. No
+    change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,6 +84,8 @@ summary: >-
 bears_on:
 - QUESTION-038
 ---
+<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-tmpsn2rb — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 CLAIM-tmpw6wkt — Proposed; filed in the contribution of 2026-11-20 on an entry's life cycle -->
 <!-- inactive-ok-file: CLAIM-024 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, no copy obtainable, named as where the critical distance comes from, not leaned on beyond that -->
@@ -181,3 +194,27 @@ keyed retrieval that is not evidence about records. [CLAIM-182](CLAIM-182.md) st
 at this review, and the test this claim proposes, restatement distance set
 against re-derivation and a count of coded against uncoded items, has not
 been run.
+
+## Note of 2026-11-20: a mechanism for drift, and for why a code bypasses it
+
+[CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md) reads a restatement from memory or a summary as a copy with
+error, and [CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md) shows that a feature copied with error
+random-walks, its spread growing as √n while its start is lost as 1/n. That
+is a mechanism for a restatement's drifting, step by step, past the critical
+distance this claim names. A code read with its file is a copy without
+error, so the feature never enters the walk; that is a reason, in the
+chain's terms, why "a code bypasses retrieval by content altogether". A
+parallel that bears on the mechanism; it is not evidence that the critical
+distance exists, and this claim's own test is still not run.
+
+## Note of 2026-11-20 (later): the critical distance as a number of restatements
+
+[CLAIM-tmphedau](CLAIM-tmphedau.md), a linear Gaussian model of restatement, gives the number of
+restatements before a feature first passes the distance δ this claim calls
+critical: about δ²/σ² when the feature is copied with random error σ;
+ln(D/(D − δ))/ln(1/a) when it is pulled toward a convention at distance
+D > δ; and, on average, never when the convention lies within δ. So the
+critical distance, with the step's constants, predicts when an idea will be
+taken for new. [CLAIM-tmpsn2rb](CLAIM-tmpsn2rb.md) draws the consequence that ideas far from the
+collaborators' framings are lost soonest. Neither tests the critical
+distance itself, which this claim's own test still awaits.

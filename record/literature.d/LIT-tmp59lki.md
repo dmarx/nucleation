@@ -1,0 +1,34 @@
+---
+status: Active
+title: 'Random walk on p-adics in glassy systems'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Registered and read on 2026-11-21 as a supplementary stand-in for
+    Ogielski and Stein (LIT-tmpslg57), for the description of their model
+    and the binary-tree exponent (ADR-114). Identifier checked on the
+    arXiv API (v1 2005-05-24), no email address sent. Not held before.
+tags:
+- complex-systems
+- probabilistic-modeling
+date: '2026-11-21'
+published: '2005-05-24'
+arxiv: 'cond-mat/0505585'
+first_author: 'Lukierska-Walasek'
+summary: >-
+  Lukierska-Walasek and Topolski (2005). Read in [NOTE-tmpikcji](../notes.d/NOTE-tmpikcji.md). A p-adic
+  generalization of Ogielski and Stein's tree model, restating it, with a
+  temperature-dependent power law t^(−T ln 2/Δ) for linearly growing
+  barriers and the Kohlrausch law for logarithmically growing ones.
+---
+<!-- inactive-ok-file: ADR-114 LIT-tmpslg57 — Proposed, Unfetched; cited in the readings of 2026-11-21 -->
+
+# LIT-tmp59lki: Random walk on p-adics in glassy systems
+
+Lukierska-Walasek and Topolski. arXiv cond-mat/0505585 (2005).
+
+## Standing in the record
+
+Registered on 2026-11-21 as a stand-in for Ogielski and Stein's model ([LIT-tmpslg57](LIT-tmpslg57.md)); read in [NOTE-tmpikcji](../notes.d/NOTE-tmpikcji.md). Quoted, not given a THEORY: the record uses its description of the model and its exponent in total-rate form.

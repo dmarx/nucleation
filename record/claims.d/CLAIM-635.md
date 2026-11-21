@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp008ey
 title: 'Under Markov reconstruction kernels, an observable conserved exactly at every step and not constant on the support of the starting law keeps information about the start at every generation, bounded below independently of the generation, so such a chain cannot converge to a law independent of its start, while a bounded conservation defect does not prevent forgetting'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -19,6 +19,13 @@ history:
     The status is credence in the derivation, not in ADR-075, which is
     Proposed and supplies only the admission route. The claim is
     unchanged.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    A dated note: applied to the restatement of the record's entries by
+    CLAIM-tmpdx6l8 (ARG-tmp5ahr5), and its neutral case given a rate by
+    CLAIM-tmpw6wkt. No change of status or title. Merged
+    beside the status review's version 2 on 2026-11-21.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -55,6 +62,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 CLAIM-tmpw6wkt ARG-tmp5ahr5 — Proposed; filed in the contribution of 2026-11-20 on an entry's life cycle -->
 <!-- inactive-ok-file: CLAIM-068 ADR-075 — Proposed; cited for the convergence this claim excludes, open -->
 
 # CLAIM-635: Under Markov reconstruction kernels, an observable conserved exactly at every step and not constant on the support of the starting law keeps information about the start at every generation, bounded below independently of the generation, so such a chain cannot converge to a law independent of its start, while a bounded conservation defect does not prevent forgetting
@@ -167,3 +175,18 @@ defect of [QUESTION-006](../questions.d/QUESTION-006.md) is compatible with attr
 - That any pragmatic observable is conserved exactly by actual kernels.
 - That retention keeps the whole distribution of the observable: only its
   conditional mean is kept ([CLAIM-094](CLAIM-094.md)).
+
+## Note of 2026-11-20: applied to the record's own entries
+
+[CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md) uses this claim as the result that makes forgetting and
+anchoring one contraction: a chain keeps exactly what its steps conserve, so
+a record anchors content by having sessions copy it rather than reconstruct
+it. [ARG-tmp5ahr5](../arguments.d/ARG-tmp5ahr5.md) is the application, and finds it holds for stored text and
+only loosely for interpretation.
+
+[CLAIM-tmpw6wkt](CLAIM-tmpw6wkt.md) adds a rate between this claim's two cases. The witness
+here for "a bounded defect does not prevent forgetting", the two-state flip
+chain, is contracting (eigenvalue 1 − 2p) and forgets geometrically. A
+feature the step leaves neutral but copies with error, on an unbounded
+state, forgets too, but only as 1/n in the linear Gaussian model. A bearing
+of use, not evidence about this claim's derivation.

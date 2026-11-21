@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmpl1yih
 title: 'By which dynamical transitions do the distinctions individuation needs come into being and pass away (instability that amplifies small differences, nucleation across a finite barrier from a locally stable state, bifurcation of the set of attractors, noise- or rate-induced tipping), and are a form''s creation, its stabilization and its coming to have a constitutive role three separate achievements?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmp9lm3d and CLAIM-tmpy75jv bear on the
+    question. No change of status or title.
 tags:
 - complex-systems
 - individuation
@@ -25,6 +31,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: CLAIM-tmp9lm3d CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2038 THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
@@ -313,3 +320,15 @@ No status change.
 <!-- inactive-ok-file: THEORY-2031 — Proposed; cited from the readings of 2026-11-19 -->
 
 Poole and colleagues ([THEORY-2031](../theory.d/THEORY-2031.md), bears_on; [NOTE-2099](../notes.d/NOTE-2099.md)), in wide random networks: the chaotic phase is instability that amplifies small differences, χ1 the per-layer stretch and its logarithm a Lyapunov exponent; the ordered phase is the route by which differences pass away, nearby inputs converging; and new distinctions are made as a curve gains turns at a fixed curvature. Reading the fixed curvature as the stabilization of a form would be an analogy. It adds to the reading of Schoenholz and colleagues the same transition seen as creating distinctions rather than as how far they survive.
+
+## Note of 2026-11-20: crossings of time scales
+
+[CLAIM-tmp9lm3d](../claims.d/CLAIM-tmp9lm3d.md) gives a partial answer for systems a barrier landscape
+describes: the tree of levels is fixed while barriers move without crossing,
+and a distinction between levels is made or unmade only where two barriers
+cross, with the two levels indistinguishable in the time geometry near the
+crossing. That is creation and loss of a distinction by a crossing of time
+scales. It does not touch the question's other transitions (instability,
+bifurcation of the attractors, tipping) or its second half, whether
+creation, stabilization and constitutive role are separate achievements.
+[CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md) bears on the question through it.

@@ -1,0 +1,56 @@
+---
+status: Read
+paper: LIT-tmpj34ir
+title: 'Yang, Simon and Bernstein — A spectral condition for feature learning'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 by a delegated reader from arXiv 2310.17813v2 (14
+    May 2024): the abstract, §§1–8 and Appendices A, B, D and E in full;
+    Appendix C skimmed. Running notes on the branch
+    claude/readers/spectral-condition (ADR-108). Quotations the filing
+    leans on rechecked by the filer by script against the downloaded text.
+date: '2026-11-21'
+summary: >-
+  Features and their per-step changes stay of order one per entry at every
+  width when each weight matrix and each update has spectral norm
+  Θ(√(fan-out/fan-in)); μP is the unique stable abc-parametrization
+  meeting this, NTP violates it. The condition rescales gradients; it is
+  not orthogonalization.
+---
+<!-- inactive-ok-file: ADR-108 THEORY-1874 THEORY-212 — Proposed; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpmugkp CLAIM-tmpqwoxz — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+
+# NOTE-tmpxtw1l: Yang, Simon and Bernstein — A spectral condition for feature learning
+
+## Contribution
+
+An elementary linear-algebra route to μP; the spectral norm argued as the right measure of update size because updates have low stable rank; natural norms.
+
+## Key results
+
+1. **The equivalence** (§1): "µP is equivalent to scaling the spectral norm of any weight matrix or update like √(fan-out/fan-in)."
+2. **Condition 1** (§1.1): ‖W_l‖∗ = Θ(√(n_l/n_{l−1})) and ‖∆W_l‖∗ = Θ(√(n_l/n_{l−1})).
+3. **Uniqueness** (Theorem 1, App. B): "µP is the unique stable abc-parametrization with this property."
+4. **Maximal, not necessary** (§3.4): the desideratum can be met with ∆W_l = 0 for later layers, "However, Condition 1 is the unique maximal scaling".
+5. **No layer special** (§5.1): "from a spectral point of view, no layer is special."
+6. **NTP fails** (§5.3): NTP "causes ∆Wℓ to vanish in spectral norm" as hidden widths grow.
+7. **Updates are structured** (§3.1.1): "they have low rank and align to incoming vectors".
+8. **Normalization** (§4, eq. 17): the update divides the gradient by its spectral norm and keeps its singular spectrum.
+
+## Assumptions and concepts
+
+Width only (depth, schedule and global prefactors hidden); Assumptions 1–4 in the main text; Theorem 1 under tensor-programs conditions. Concepts: spectral, Frobenius and stable-rank norms, alignment, natural norms, maximal scaling.
+
+## Bearing on the record
+
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (supports and qualifies): every hidden layer's features change at the same order under the maximal scaling, and NTP's updates vanish in spectral norm. Qualifications: these are per-step update sizes in width, not rates in time; equal order is what the maximal scaling gives, not what feature learning requires.
+- **[CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md)** (no bearing): eq. 17 rescales the gradient as a whole and keeps its spectrum; it is not the polar factor. It supplies the per-layer size a spectral steepest-descent step should have.
+- **[LIT-tmpj34ir](../literature.d/LIT-tmpj34ir.md)**: the earlier summary's "fan-out over fan-in" should read √(fan-out/fan-in); corrected.
+- **Recheck**: [THEORY-212](../theory.d/THEORY-212.md), [THEORY-086](../theory.d/THEORY-086.md) (kernel-regime eigenspace rates), [THEORY-1874](../theory.d/THEORY-1874.md) (low-rank fine-tuning updates).
+
+## Limitations
+
+Width only; heuristic main-text argument; small experiments (three-layer MLPs on two CIFAR-10 classes); nothing on dynamics beyond the size of a step.

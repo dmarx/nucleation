@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpq06t8
 title: 'Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,11 @@ history:
     status review's ruling (the owner delegated these rulings), on the full
     reading of Lawvere (NOTE-1585); THEORY-1376, Active at the same review,
     is added to corroborated_by (ADR-058). No status change.
+- version: 4
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmpxi826 shows this claim's tree is
+    the small-noise limit of a chain's log commute-time geometry. No change of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -72,6 +77,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmp9lm3d — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CASE-236 CLAIM-646 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 
 # CLAIM-581: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists
@@ -219,3 +225,15 @@ Lawvere: "An R_cart-category is just an ultrametric space" (1973, p. 152; [NOTE-
 ## Note of 2026-11-12: a construction from "Identify Synthesis Opportunities"
 
 In the exchange of 2026-11-08 (https://chatgpt.com/share/6af51819-4de8-83ea-b5aa-5edc65869c44, A11 and A12), A built a chain and a complete graph on the same configurations, filed as [CASE-236](../cases.d/CASE-236.md). Every pair has threshold 1 in both, so this claim's ultrametric and its classes are the same in both; the least cumulative cost from one end to the other is n against 1. It illustrates the step above that under additive costs "within budget of each other" is not an equivalence: in the chain at budget 1, 0 is within budget of 1 and 1 of 2, and 0 not of 2. A's claim that the threshold structure does not fix cumulative costs is filed as [CLAIM-646](CLAIM-646.md), Proposed; it states formally what the note of 2026-11-05 on replicating tiles observed. No status change.
+
+## Note of 2026-11-20: the tree as the limit of a time geometry
+
+[CLAIM-tmpxi826](CLAIM-tmpxi826.md) shows that for a chain with symmetric rates ε^U, the log
+commute time between two states is within log max(E, n − 1) of log n plus
+log(1/ε) times this claim's threshold, the minimax barrier. So as time
+scales separate, the time geometry of the state space converges, after
+scaling, to this claim's ultrametric, and the tree of budgeted classes is
+what that geometry becomes. This claim's peak-capacity threshold is thereby
+also the exponent of a transition time. [CLAIM-tmp9lm3d](CLAIM-tmp9lm3d.md) adds that the tree
+changes only where two barriers cross. A bearing of use; nothing here
+changes this claim's derivation.

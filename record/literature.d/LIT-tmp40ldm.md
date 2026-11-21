@@ -1,0 +1,42 @@
+---
+status: Active
+title: 'The Remarkable Robustness of LLMs: Stages of Inference?'
+version: 2
+history:
+- version: 1
+  date: '2026-11-20'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API (v1 2024-06-27), and
+    its abstract read there; no email address sent. Not held: no hit for
+    the arXiv id or the title in record/literature.d.
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 in NOTE-tmp9qijr, by a delegated reader from arXiv
+    2406.19384v3 (16 Jun 2025); the reading is THEORY-tmpthk75. Status
+    Deferred to Active; summary rewritten from the reading.
+tags:
+- representation-learning
+- learning-theory
+- anthology-candidate
+date: '2026-11-20'
+published: '2024-06-27'
+arxiv: '2406.19384'
+first_author: 'Lad'
+summary: >-
+  Lad, Lee, Gurnee and Tegmark (2024; v3 2025). Read in [NOTE-tmp9qijr](../notes.d/NOTE-tmp9qijr.md).
+  Robust middle layers and four hypothesized stages of inference. Here for
+  [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), which it supports and qualifies.
+---
+<!-- inactive-ok-file: THEORY-tmpthk75 — Proposed; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpcvuyr — Proposed; filed in this contribution of 2026-11-20 -->
+
+# LIT-tmp40ldm: The Remarkable Robustness of LLMs: Stages of Inference?
+
+Lad, Lee, Gurnee and Tegmark. arXiv 2406.19384 (2024).
+
+## Standing in the record
+
+Registered on 2026-11-20 for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), on what transformer depth
+organizes. Read on 2026-11-21 in [NOTE-tmp9qijr](../notes.d/NOTE-tmp9qijr.md); the reading is [THEORY-tmpthk75](../theory.d/THEORY-tmpthk75.md). Flagged anthology-candidate: the anthology may want it for
+machine-learning practice.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpghha4
 title: 'Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -42,6 +42,11 @@ history:
     review, at the status review's ruling (the owner delegated these
     rulings; ADR-057), dropped this claim from CLAIM-068's rests_on,
     whose body never uses it. The claim is unchanged.
+- version: 5
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-tmphedau says when this bound is tight. No change
+    of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +74,7 @@ summary: >-
   kernels in total variation, contraction coefficients do not exceed
   one.
 ---
+<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-191 — Proposed; filed in, or cited by, the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-056: Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives
@@ -129,3 +135,14 @@ the claim adds to [CLAIM-267](CLAIM-267.md) is that a serial reconstruction chai
 composition of transports measured against a reference transport
 ([CLAIM-106](CLAIM-106.md)). The new condition tests exactly that. Promoted by the tenth
 status review on the owner's ruling.
+
+## Note of 2026-11-20: when the bound is tight
+
+The bound adds per-step discrepancies linearly, Σ εᵢ ∏ⱼ>ᵢ Lⱼ. [CLAIM-tmphedau](CLAIM-tmphedau.md)'s
+model separates the cases. For a systematic error, a constant bias μ copied
+at L = 1, displacement after n steps is nμ and the bound is tight. For
+independent, zero-mean errors of size σ, the root-mean-square displacement is
+√n·σ, so the bound overstates typical drift by a factor of about √n. Which
+holds is the question whether drift is directed ([CLAIM-191](CLAIM-191.md)). [CLAIM-208](CLAIM-208.md)'s
+point stands: neither case lets the constants be estimated from one
+restatement per step.
