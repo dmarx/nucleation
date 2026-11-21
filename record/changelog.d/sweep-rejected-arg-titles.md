@@ -8,3 +8,4 @@
   - QUESTION-tmpss7dl asks whether a pragmatic frame takes part in determining meaning. CLAIM-109's thesis is held open, now that the route to it is rejected and the claim superseded.
   - QUESTION-tmp4xg7u asks how common signalling is in language data under unbiased estimation. This is ARG-037's empirical question.
   - CASE-tmpqo06u is the HKB model near its fold, an instance of CLAIM-521's dissociation. ARG-068's body computed it, and the numbers were rechecked.
+- QUESTION-tmp2b8au asks whether cumulative advantage shapes the upper tail of city sizes even where relative sizes recover after a shock. It comes from a review of all 37 Rejected arguments for undocumented questions, where it was the only one to clear the bar, and was filed on the owner's prompt. ARG-tmp2w77g is corrected: the record holds three readings on city sizes, not one.
