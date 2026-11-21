@@ -22,6 +22,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-tmppkdjz CLAIM-tmp9bp04 CLAIM-tmpl9zw4 CLAIM-tmpcg4uu TERM-tmpnxjq4 LIT-tmp0gbj6 LIT-tmp83hha LIT-tmp4det7 — Proposed or new, filed with this question, or Deferred works registered from the exchange and not yet read -->
+<!-- inactive-ok-file: THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # QUESTION-tmp82zpm: Does recent work on the informativeness of small-eigenvalue subspaces during learning bear on the signature of a transition the exchange proposed, in which a previously weak direction becomes informative, a local degeneracy changes and a new distinction becomes independently decodable?
 
@@ -91,3 +92,17 @@ answer is the order found, and whether it survives a change of
 coordinates that leaves the function unchanged. A41 warns that
 low-variance rankings can change under "harmless representation
 reparameterizations".
+
+## Note of 2026-11-21: Lau et al., read
+
+A caution from the estimator's source (NOTE-tmp92pjh, THEORY-tmpousrw) on
+reading a change in local learning-coefficient estimates as a transition:
+the estimate is made at one inverse temperature, β* = 1/log n, with a
+localizer of precision γ, and both set which directions count (on a
+quadratic loss, Σ ½·te_i/(te_i + γ), t = n/log n); consistency is a
+conjecture; and an unsettled sampler underestimates ("If the step size is
+too low, the sampler may not equilibriate, leading to underestimation",
+App. H). A change in the estimate over training is evidence of a change of
+stratum only with the sampler settings fixed across checkpoints, settling
+checked, and β and γ varied (LEAD-tmpfrw11, CLAIM-tmpcg4uu). The paper
+itself has no dynamical content beyond its Outlook.

@@ -15,12 +15,13 @@ complements:
 draws_on:
 - THEORY-756
 - THEORY-087
+- THEORY-tmp3gj1j
 summary: >-
   For a stationary process, I_pred(T) = I(X_{1:T}; X_{T+1:2T}), and its
   limit as T grows, the excess entropy. The exchange "Rich Get Richer
   Power Laws" uses it at A13 §5 and A21 §3–4, after Bialek, Nemenman and
-  Tishby ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)) and Crutchfield and Feldman ([LIT-tmpzs7sj](../literature.d/LIT-tmpzs7sj.md)), both
-  unread. The record held causal states and statistical
+  Tishby (LIT-tmpys7v3, read on 2026-11-21 as THEORY-tmp3gj1j) and
+  Crutchfield and Feldman (LIT-tmpzs7sj, unread). The record held causal states and statistical
   complexity ([TERM-062](TERM-062.md), [THEORY-756](../theory.d/THEORY-756.md)) but no word for how past–future
   information grows with the window, nor A's distinction between a
   process hard to predict because it is random and one hard to predict
@@ -31,8 +32,9 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A13 and A21); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpys7v3 LIT-tmpzs7sj — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpzs7sj — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: CLAIM-tmpyxiwv — filed with this term from the same exchange, Proposed -->
+<!-- inactive-ok-file: ARG-tmpvo4gr CLAIM-tmp99m8g THEORY-tmp3gj1j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # TERM-tmpxml4k: predictive information, or excess entropy, of a process: the mutual information between a block of its past and the adjoining block of its future, read as a function of block length
 
@@ -51,7 +53,7 @@ ordinary, irreducible randomness disappears from this expression" (A21
 finite or not (A13 §5).
 
 Three regimes of growth (A21 §4, after Bialek, Nemenman and Tishby,
-[LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md), unread): bounded, as for a finite-state process; c log T, as
+LIT-tmpys7v3, read; THEORY-tmp3gj1j): bounded, as for a finite-state process; c log T, as
 for a model with finitely many parameters learned from the data; and
 c T^μ with 0 < μ < 1, as in some nonparametric problems. A's own caveat:
 "these regimes are not a one-to-one classification of physical
@@ -108,7 +110,36 @@ session, not kept; the method is as stated).
 
 ## Sources
 
-Bialek, Nemenman and Tishby 2001 ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)) and Crutchfield and
-Feldman 2003 ([LIT-tmpzs7sj](../literature.d/LIT-tmpzs7sj.md)), both Deferred and unread. The relation to
+Bialek, Nemenman and Tishby 2001 (LIT-tmpys7v3, read on 2026-11-21 in
+NOTE-tmpilbkz) and Crutchfield and Feldman 2003 (LIT-tmpzs7sj, Deferred and
+unread). The relation to
 parameter count (½ log T per parameter) is the same coefficient the record
 holds as the Bayesian Occam penalty ([THEORY-087](../theory.d/THEORY-087.md)).
+
+## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
+
+Read in NOTE-tmpilbkz (THEORY-tmp3gj1j). It supports the term's regimes,
+its distinction and its condition 1, and differs from it in one
+convention.
+
+- **The future is infinite in the paper.** Its headline
+  I_pred(T) = lim_{T′→∞} I_pred(T, T′) = S₁(T), the subextensive entropy (Eq.
+  9); this term's I_pred(T) = I(X_{1:T}; X_{T+1:2T}) is the paper's Eq. 6 with
+  T′ = T, a case it covers and does not feature. The regimes and the
+  logarithmic coefficient are the same under both: S₁ = (K/2) log T gives
+  (K/2) log(T/2) here. For power-law growth S₁ = cT^μ the term's quantity is
+  2S₁(T) − S₁(2T) = (2 − 2^μ)cT^μ, a constant factor smaller.
+- **The regimes are theirs:** "it may either stay finite, or grow to
+  infinity together with T; in the latter case the rate of growth may be
+  slow (logarithmic) or fast (sublinear power)" (§3).
+- **The distinction is theirs too:** a complexity measure "should be zero
+  both for purely regular and for purely random systems" (§5); entropy's
+  extensive part cancels.
+- **Condition 1** is the paper's own setting: parameters drawn once and
+  fixed (Eq. 21), and the data–parameter information equal to I_pred.
+  **Condition 2** is in the paper as K*, predictability from intrinsic
+  long-range correlations, which "the subextensive entropy makes no
+  distinction" from unknown parameters (Eq. 69).
+- **"Not a sign of criticality."** The paper leans the other way, asserting
+  without proof that predictive information diverges at critical points
+  (§6, fn. 9); A's caveat stays A's (CLAIM-tmp99m8g, ARG-tmpvo4gr).

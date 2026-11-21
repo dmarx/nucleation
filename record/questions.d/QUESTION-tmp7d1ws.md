@@ -21,8 +21,9 @@ summary: >-
   is the owner's call.
 ---
 
-<!-- inactive-ok-file: THEORY-521 CLAIM-tmpcg4uu LIT-tmpnbl2d — Proposed or new, or a Deferred work registered from the exchange and not yet read -->
+<!-- inactive-ok-file: THEORY-521 CLAIM-tmpcg4uu — Proposed or new, or a Deferred work registered from the exchange and not yet read -->
 <!-- inactive-ok-file: THEORY-tmp0covn THEORY-tmp0zr7o CLAIM-tmp8mvx8 — Proposed; readings and a claim of 2026-11-21 cited in the dated note -->
+<!-- inactive-ok-file: THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # QUESTION-tmp7d1ws: What replaces singular learning theory's fixed-dimension asymptotics, n → ∞ with the parameter count held fixed, when width or parameter count grows in proportion to the data, and does a learning coefficient estimated in that regime still measure the singular geometry?
 
@@ -43,8 +44,8 @@ Two parts.
    energy whose leading complexity term is still governed by a
    singularity invariant, and what plays λ's role?
 2. **Measurement.** Local learning-coefficient estimates (Lau et al.,
-   [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), unread) are made at one network size and one inverse
-   temperature. In the proportional regime, does a change in the estimate
+   LIT-tmpnbl2d, read on 2026-11-21) are made at one network size, one
+   inverse temperature, β* = 1/log n, and one localizer precision γ. In the proportional regime, does a change in the estimate
    over training measure a change of singular stratum? Or is it confounded
    with sloppy directions coming into resolution, which [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)
    shows can mimic a coefficient below d/2 at fixed n?
@@ -73,3 +74,26 @@ D, N → ∞: a proportional limit in which the signal's rank does not grow.
 That is the regime the question asks about only if the learned structure
 stays finite-rank, which CLAIM-tmp8mvx8's row 5 shows can fail. The
 readings `bear_on` the question as background, not as an answer.
+
+## Note of 2026-11-21: Lau et al., read
+
+Read in NOTE-tmp92pjh (THEORY-tmpousrw). Partial evidence on part 2, none
+on part 1.
+
+- **In one family with d > n, the estimate tracked the coefficient.** The
+  deep-linear-network calibration includes runs at 10M and 100M
+  parameters with n = 10⁶ (Table 1), and the estimates still track
+  Aoyagi's exact values within the scatter of Fig. J.2, mostly
+  underestimating by up to about 0.8 in relative error. That is a
+  realizable, noiseless linear family, not a proportional limit: widths
+  were not varied with d/n fixed, and the outputs carry effectively no
+  noise.
+- **The estimate has two cut-offs.** On a quadratic loss it is
+  Σ ½·te_i/(te_i + γ) with t = n/log n (NOTE-tmp92pjh), so both the sample
+  size and the localizer decide which directions count; part 2's confound
+  with sloppy directions coming into resolution (CLAIM-tmpcg4uu) runs
+  through both.
+- **Consistency is conjectured** in the paper (App. D), at β* only, with
+  the conditions on γ open; it says nothing on the d-grows-with-n regime.
+
+The relation is written from THEORY-tmpousrw.

@@ -1,31 +1,56 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A invokes it without naming it at A19, A38–A43 for the hyperribbon geometry of sloppy model manifolds. No reading was attempted; a lawful copy has not been sought.
+  read 2026-11-21 (NOTE-tmpamhd2, Read) from arXiv 0909.3884v2; filed as
+  THEORY-tmpkoje5. The letter that named the hyper-ribbon: worth reading
+  for the geometric reading of sloppiness, its interpolation argument and
+  its one width-spectrum comparison.
 title: 'Why are nonlinear fits so challenging?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-21'
   note: >-
     Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id, the title, Transtrum or "hyperribbon" in record/literature.d.
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Read in full from the arXiv preprint 0909.3884v2 (16 December 2009) in
+    NOTE-tmpamhd2; status Deferred → Active; THEORY-tmpkoje5 filed. Venue
+    corrected from the text and the arXiv record: Phys. Rev. Lett. 104,
+    060201 (2010), doi:10.1103/PhysRevLett.104.060201 (the journal text not
+    sought). The summary is rewritten from the reading: v1's 'widths falling
+    geometrically' is the paper's ('thinner than the last by a roughly
+    constant factor'), but the tie to the spectrum is an observation in one
+    model, and the paper's spelling is 'hyper-ribbon'.
 tags:
 - information-geometry
 - model-comparison
 date: '2026-11-21'
 published: '2009-09-22'
 arxiv: '0909.3884'
+doi: '10.1103/PhysRevLett.104.060201'
 first_author: 'Transtrum'
 keywords: []
 implementations: []
 summary: >-
-  Transtrum, Machta & Sethna (2010), Why are nonlinear fits so challenging?, arXiv 0909.3884. Sloppy models' manifolds of predictions are hyperribbons, with widths falling geometrically, which explains why nonlinear least-squares fits get lost and how geodesic methods help. Here as the hyperribbon picture the exchange returns to from A38 on (exchange "Rich Get Richer Power Laws", A19, A38–A43). Unverified until read.
+  Transtrum, Machta & Sethna (2010), Why are nonlinear fits so
+  challenging?, Phys. Rev. Lett. 104, 060201; arXiv 0909.3884. Casts
+  least-squares fitting as geometry: the model manifold in data space,
+  with metric JᵀJ, is typically bounded and a 'hyper-ribbon', its widths
+  each thinner than the last by a roughly constant factor, explained by
+  polynomial interpolation for analytic models of one variable; in one
+  eight-parameter model the geodesic widths track √λ over four decades.
+  Fits fail where algorithms run into the boundaries, mostly at infinite
+  parameter values; geodesic acceleration lifted Levenberg–Marquardt's
+  success on one test from 33% to 65%.
 ---
+<!-- inactive-ok-file: ARG-tmp97cwb CLAIM-tmpa8hb2 TERM-tmp5z2du TERM-tmptiim0 THEORY-tmpkoje5 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # LIT-tmpd3swn: Why are nonlinear fits so challenging?
 
-Transtrum, Machta & Sethna (2010). arXiv 0909.3884.
+Transtrum, Machta & Sethna (2010). Phys. Rev. Lett. 104, 060201; arXiv 0909.3884.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A invokes it without naming it at A19, A38–A43 for the hyperribbon geometry of sloppy model manifolds. It bears on the hyperribbon picture the exchange returns to from A38 on. Not read.
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A19 and A38–A43 for the hyperribbon geometry of sloppy model manifolds. Read the same day (NOTE-tmpamhd2) and filed as THEORY-tmpkoje5. The record uses it for the hyper-ribbon (TERM-tmp5z2du), for sloppiness (TERM-tmptiim0) and for the boundaries where the owner's bet connects strata to the hyperribbon (CLAIM-tmpa8hb2, ARG-tmp97cwb). The fuller treatment is LIT-tmpzkxka.

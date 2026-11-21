@@ -24,7 +24,6 @@ line:
 grounds:
 - THEORY-774
 - THEORY-777
-- LIT-tmpm1tji
 uses:
 - TERM-tmp5z2du
 summary: >-
@@ -43,7 +42,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the compression half -->
 <!-- inactive-ok-file: TERM-tmp5z2du CLAIM-tmpyxiwv — filed with this claim from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpm1tji — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
+<!-- inactive-ok-file: ARG-tmpu5yj6 THEORY-tmpd7a4j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmpj0k4q: A model has no single practical dimension: the number of parameter directions a data set resolves grows with the data, as a power of the sample size when the Fisher spectrum falls as a power of rank and as its logarithm when it falls exponentially, so zooming out and demanding precision move effective dimension in opposite directions
 
@@ -83,8 +82,9 @@ ln n/a = 9.2, 18.4, 27.6, 36.8 and 55.3. (A numpy script of this session,
 not kept; the method is as stated.)
 
 The work cited for the sloppy-model setting, Transtrum and colleagues'
-review ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md)), is Deferred: registered, not read. The count above
-does not depend on it.
+review (LIT-tmpm1tji), was read on 2026-11-21 and corroborates the
+compression half only (THEORY-tmpd7a4j, ARG-tmpu5yj6; see the note below).
+The count above does not depend on it.
 
 ## What it does not say
 
@@ -105,3 +105,30 @@ does not depend on it.
   measure across the fractal, parameter and predictive settings, and its
   table of "complexity as a function of scale" is an analogy, not a
   result. Which of these dimensions agree is [QUESTION-tmpzlagu](../questions.d/QUESTION-tmpzlagu.md).
+
+## Note of 2026-11-21: Transtrum et al. (2015), Transtrum, Machta & Sethna (2010, 2011) and Bialek, Nemenman & Tishby, read
+
+- **The review** (NOTE-tmphbpab) supports the compression half: the
+  hopping model's manifold is a "hyper-blob" after one step and "as time
+  proceeds, the model manifold contracts onto a hyper-ribbon". It says
+  nothing of resolved directions growing with data; its nearest remark is
+  the EGFR figure's cut at eigenvalues below 1. It was in the grounds,
+  unread; it carries less, and corroborates (ARG-tmpu5yj6).
+- **The 2010 letter** (NOTE-tmpamhd2) is a parallel: points added within the
+  radius of convergence "supply little new information", each
+  cross-section a constant factor thinner, a geometric fall, which on this
+  claim's terms gives logarithmic growth.
+- **The 2011 paper** (NOTE-tmpzxtnv) gives a count of the same kind in
+  noise rather than n: the expected number of parameters not evaporated at
+  a best fit grows as log(W₀/σ)/|log ∆| for widths W₀∆ⁿ (Eq. 37), and "the
+  errors must be smaller than the narrowest width for there to be no
+  evaporated parameters". Background.
+- **Bialek, Nemenman and Tishby** (NOTE-tmpilbkz) corroborate the power-law
+  half: with K ∼ N^ν effective parameters each new sample carries
+  ∼ N^(ν−1) bits (§4.5), and in their worked nonparametric case the
+  predictive information is "directly proportional to the number of bins
+  that can be put in the range of x", which grows as √N (§4.6). They warn
+  that "If the number of parameters grows constantly, then the scenario
+  where the data overwhelms all the unknowns is far from certain". Their
+  count is through the density of divergences, not a Fisher threshold
+  nλ ≳ 1.

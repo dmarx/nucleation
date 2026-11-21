@@ -24,8 +24,8 @@ grounds:
 - CASE-tmpb2gly
 - THEORY-087
 - THEORY-774
-- LIT-tmpd3swn
-- LIT-tmpzkxka
+- THEORY-tmpkoje5
+- THEORY-tmpgsgka
 bears_on:
 - QUESTION-tmpsy8qn
 summary: >-
@@ -38,7 +38,8 @@ summary: >-
   [CLAIM-tmpcg4uu](CLAIM-tmpcg4uu.md), the assistant's.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpcgvcp CLAIM-tmpcg4uu CASE-tmpb2gly ARG-tmpj0r42 LIT-tmpd3swn LIT-tmpzkxka LIT-354 — Proposed or new, or Deferred works not yet read, or Unavailable; filed with this claim -->
+<!-- inactive-ok-file: CLAIM-tmpcgvcp CLAIM-tmpcg4uu CASE-tmpb2gly ARG-tmpj0r42 LIT-354 — Proposed or new, or Deferred works not yet read, or Unavailable; filed with this claim -->
+<!-- inactive-ok-file: ARG-tmp97cwb CLAIM-tmpnu4ar THEORY-tmpgsgka THEORY-tmpkoje5 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmpa8hb2: Watanabe's stratification of a model's parameter space connects to the hyperribbon account of sloppy models
 
@@ -51,8 +52,8 @@ Watanabe's account (his book [LIT-354](../literature.d/LIT-354.md) is Unavailabl
 parameter space into strata on which the map from parameters to
 distributions has different local structure. The learning coefficient
 on a stratum sets the Bayesian complexity penalty. The hyperribbon account
-(Transtrum, Machta and Sethna, [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md) and [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), registered
-from the exchange and unread) describes a sloppy model's image as a
+(Transtrum, Machta and Sethna, LIT-tmpd3swn and LIT-tmpzkxka, registered
+from the exchange and read on 2026-11-21: THEORY-tmpkoje5, THEORY-tmpgsgka) describes a sloppy model's image as a
 ribbon whose widths fall off geometrically, so that most parameter
 combinations barely move the predictions. The record holds the
 eigenvalue spread behind it for one model ([THEORY-774](../theory.d/THEORY-774.md)). The owner bets
@@ -74,10 +75,34 @@ that the two connect.
   weighs how far this supports the bet.
 - **Not yet shown.** Any connection between the hyperribbon's geometric
   widths, as distinct from its local Fisher eigenvalues, and the
-  stratification. The record holds no reading of the widths.
+  stratification. The record holds no reading of the widths. (2026-11-21: it now does,
+  THEORY-tmpgsgka, which explains the widths by interpolation and not by
+  strata; see the note below.)
 
 ## What it does not say
 
 It does not say that sloppiness is singularity, nor that the
 stratification explains the hyperribbon's geometric hierarchy. The
 owner's word is "connects".
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011), read
+
+A dated note on the owner's claim; its text and status are not changed
+beyond the bracketed update above. Read in NOTE-tmpamhd2 and
+NOTE-tmpzxtnv; the THEORYs replace the unread LITs in its grounds.
+
+- **Supports the connection at the edges, now from the originators.**
+  "Model boundaries correspond to points on the manifold where the metric
+  is singular" (2011, p. 10), including the finite "fold line" at equal
+  rates, the edge of CASE-tmpb2gly. Every edge of a hyper-ribbon is a locus
+  of rank loss of the metric whose spectrum makes the model sloppy.
+- **Leaves the widths unconnected.** The papers derive the geometric fall
+  of the widths from the interpolation error of analytic functions, a
+  property of sampling, with no strata in it; and the widths match √λ only
+  in natural units from a central point.
+- **Qualifies "stratification".** Most boundaries lie at infinite parameter
+  values ("Since most boundaries occur at infinite parameter values",
+  2010, p. 3; in log parameters all of them), where Watanabe's strata, at
+  finite points, would need a compactification (CLAIM-tmpnu4ar's gap).
+  ARG-tmp97cwb weighs this: support at the edges, none yet for the
+  widths.

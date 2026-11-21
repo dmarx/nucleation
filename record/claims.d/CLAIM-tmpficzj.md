@@ -30,7 +30,7 @@ grounds:
 - THEORY-777
 - THEORY-742
 - LIT-tmpsqbr9
-- LIT-tmpm1tji
+- THEORY-tmpd7a4j
 - LIT-tmp0fpti
 - LIT-1299
 uses:
@@ -50,10 +50,11 @@ summary: >-
   Richer Power Laws", A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, one of the two worked cases -->
-<!-- inactive-ok-file: LIT-tmpsqbr9 LIT-tmpm1tji LIT-tmp0fpti — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpsqbr9 LIT-tmp0fpti — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: TERM-tmp5z2du — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
 <!-- inactive-ok-file: ARG-tmpmvc5e — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: ARG-tmpv3nqz THEORY-tmpd7a4j THEORY-tmpgsgka THEORY-tmpkoje5 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmpficzj: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
 
@@ -97,9 +98,10 @@ conditional covariance ([THEORY-742](../theory.d/THEORY-742.md)). Machta and col
 "a model is sloppy because it is observed at a scale much larger than its
 own" ([LIT-1299](../literature.d/LIT-1299.md), as read in its note). The breadth of the claim, across
 systems biology models, rests on Gutenkunst and colleagues
-([LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md)) and the reviews ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md), [LIT-tmp0fpti](../literature.d/LIT-tmp0fpti.md)), all
-Deferred and unread: the weakest grounds, so the claim is interpretive
-and Proposed.
+(LIT-tmpsqbr9) and the reviews (LIT-tmpm1tji, LIT-tmp0fpti). The 2015
+review was read on 2026-11-21 and grounds the claim through
+THEORY-tmpd7a4j (see the note below); the survey and the 2023 review are
+Deferred and unread, so the claim stays interpretive and Proposed.
 
 It sits beside [CLAIM-401](CLAIM-401.md) and [SYNTHESIS-075](../syntheses.d/SYNTHESIS-075.md): adequacy relative to a
 declared target. Sloppiness is the parametric face of that relativity:
@@ -134,4 +136,43 @@ the rate the record holds is b^(2y−d) per step, with the dimension d in
 it ([THEORY-777](../theory.d/THEORY-777.md)), and the metric passes exactly to the coarse data only
 when the renormalized Hamiltonian stays in the family ([THEORY-742](../theory.d/THEORY-742.md)). A's
 own caveat in the same section ("One should not equate stiffness and RG
-relevance in every setting") stands.
+relevance in every setting") stands. It is A's, not the sources': the 2015
+review says the Ising model develops stiff directions "along precisely
+those parameter combinations deemed 'relevant' under the renormalization
+group" (LIT-tmpm1tji, §V; note of 2026-11-21).
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
+
+Read in NOTE-tmpamhd2, NOTE-tmpzxtnv and NOTE-tmphbpab (THEORY-tmpkoje5,
+THEORY-tmpgsgka, THEORY-tmpd7a4j).
+
+- **Consequence 1 is theirs.** 2015, §I: "As long as the model predictions
+  depend on the same stiff parameter combinations as the data, the
+  predictions of the model will be constrained in spite of large numbers
+  of poorly determined parameters." 2010: "although parameters cannot be
+  reliably extracted by fitting degenerate models, it is still possible to
+  constrain the outcome of new experiments". 2011: "one can still make
+  falsifiable predictions about model behavior without knowing the
+  parameter values". The review grounds the claim (THEORY-tmpd7a4j
+  replaces the unread LIT in its grounds); the 2010 and 2011 papers
+  corroborate it. Consequence 3 matches the review's thesis, "simple
+  theories of macroscopic behavior are hidden inside complicated
+  microscopic processes".
+- **The second clause of defeated_if** (a spread removed by
+  reparametrization) is conceded by the sources for the eigenvalues ("the
+  FIM can be transformed into any positive definite matrix by a simple
+  linear transformation of parameters") and answered with the widths of
+  the model manifold, which are invariant (TERM-tmp5z2du). The claim is
+  safer read over widths than over eigenvalues.
+- **Neural networks.** The originators did apply the hyper-ribbon to
+  networks: the 2011 paper finds the geodesic widths of a 4-4-2 tanh
+  network, weights as parameters, tracking its singular values (Fig. 6b);
+  the 2015 review treats an autoencoder's code ("parameters θ_α giving the
+  outputs of the digital neurons") as parameters and reports unpublished
+  work showing "a clear hyperribbon structure". The 2011 paper's count
+  makes finite singular points of the metric generic when the data number
+  fewer than twice the parameters (M < 2N), which is the overparameterized
+  regime. So "Not, yet, that it holds for neural networks" stands for
+  overparameterized networks: the small network is regular where measured
+  and the autoencoder's parameters are not its weights (ARG-tmpv3nqz,
+  Rejected as an inference to this claim for such networks).

@@ -28,8 +28,8 @@ grounds:
 - THEORY-774
 - CASE-152
 - CASE-tmpb2gly
-- LIT-tmpd3swn
-- LIT-tmpzkxka
+- THEORY-tmpkoje5
+- THEORY-tmpgsgka
 uses:
 - TERM-tmp5z2du
 summary: >-
@@ -43,7 +43,8 @@ summary: >-
   Laws", A39); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-tmp5z2du CASE-tmpb2gly CLAIM-tmpcg4uu CLAIM-tmpa8hb2 LIT-tmpd3swn LIT-tmpzkxka — Proposed or new, or Deferred works not yet read; filed with this claim -->
+<!-- inactive-ok-file: TERM-tmp5z2du CASE-tmpb2gly CLAIM-tmpcg4uu CLAIM-tmpa8hb2 — Proposed or new, or Deferred works not yet read; filed with this claim -->
+<!-- inactive-ok-file: ARG-tmpddtmr THEORY-tmpgsgka THEORY-tmpkoje5 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmpcgvcp: Sloppiness and singularity are different properties of a statistical model: sloppiness is a spread of small but nonzero Fisher eigenvalues in a regular model, singularity is rank loss on a stratum of parameter space, so a model can be sloppy everywhere and singular nowhere or singular everywhere with no spread, and at a singular point the Fisher spectrum does not give the learning coefficient
 
@@ -58,7 +59,8 @@ is I = JᵀJ/σ² (A39 §1). Two different things can make a direction weak.
   identified given enough data. The record holds the eigenvalue spread
   for a physics model ([THEORY-774](../theory.d/THEORY-774.md)); the hyperribbon reading of it, a
   hierarchy of widths of the model image ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)), is in the Transtrum works
-  registered from the exchange ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)), not yet read.
+  registered from the exchange (LIT-tmpd3swn, LIT-tmpzkxka), read on
+  2026-11-21 (THEORY-tmpkoje5, THEORY-tmpgsgka; see the note below).
 - **Singularity.** J loses rank on a set of parameters, a stratum, where
   some parameter change has no first-order effect on the predictions.
   The Fisher matrix is not invertible there ([THEORY-082](../theory.d/THEORY-082.md)), and the
@@ -105,3 +107,28 @@ sloppy model has such strata at its edges. Where they meet, and how a
 learning coefficient measured at finite n confounds them, is
 [CLAIM-tmpcg4uu](CLAIM-tmpcg4uu.md). Whether the connection is a good one is the owner's
 [CLAIM-tmpa8hb2](CLAIM-tmpa8hb2.md).
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011), read
+
+Read in NOTE-tmpamhd2 and NOTE-tmpzxtnv; the THEORYs replace the unread
+LITs in the grounds (ARG-tmpddtmr).
+
+- **Supports the separating example.** Linear polynomial fitting, with its
+  Hilbert-matrix Hessian, is among the 2011 paper's own sloppy examples
+  (Fig. 2b), and its manifold is a hyper-ellipse with the Vandermonde
+  singular values as axes when the coefficients are confined to a ball.
+- **Qualifies the framing.** "Model boundaries correspond to points on the
+  manifold where the metric is singular" (2011, p. 10): a bounded sloppy
+  manifold's edges are loci of rank loss. Usually at parameters running to
+  0 or ∞ ("boundaries typically do not exist (i.e. they lie at parameter
+  values equal to ∞)"), sometimes on finite fold lines such as θ₁ = θ₂,
+  generic when the data number fewer than twice the parameters. So the
+  defeater, "a spread of nonzero Fisher eigenvalues forces rank loss
+  somewhere in the parameter space", is pressed but not met: the forced
+  singularities lie at infinity, and finite ones occur only in some
+  models. The claim's "regular" is a property of the interior.
+- **"The textbook sloppy model has such strata at its edges"** is the
+  papers': the 2010 letter lists θ₁ = θ₂ among the two-exponential
+  manifold's boundaries, and the 2011 paper calls it the "fold line", where
+  "No parameters were at extreme values, but the model behavior was
+  nonetheless singular".

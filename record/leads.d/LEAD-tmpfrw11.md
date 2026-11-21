@@ -1,7 +1,18 @@
 ---
 status: Open
 title: 'In a small network trained on a synthetic hierarchy whose signal strengths and dependencies are known, date for each distinction the onset of decodability, the sign change of its stability eigenvalue, its gain in held-out fit and any change in the local learning coefficient, with its variance and task sensitivity along the way; then move the onsets by changing parent strength, regularization and the timing of fine examples'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The assistant's addition revised in place, the lead having been filed
+    in this pull request, after the reading of Lau et al. (LIT-tmpnbl2d,
+    NOTE-tmp92pjh): estimating at several inverse temperatures is the
+    record's proposal, not the paper's, which fixes β* = 1/log n; the
+    localizer's precision γ is varied too; sampler settings are held fixed
+    across compared checkpoints; and the sampler's settling is checked
+    (App. H), since an unsettled sampler underestimates.
 stage: idea
 priority: medium
 method:
@@ -27,15 +38,19 @@ summary: >-
   research design, A39 §8's combined measurement, A41 §7's tracking of
   variance, task sensitivity and the learning coefficient, and A43 §16's
   "decisive experiment" with interventions and a control. The assistant
-  adds one measurement from [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md): estimate the learning
-  coefficient at several inverse temperatures, so that a sloppy direction
-  coming into resolution is not read as a change of stratum. The wording
+  adds one measurement from CLAIM-tmpcg4uu: estimate the learning
+  coefficient at several inverse temperatures and localizer precisions,
+  with the sampler held fixed and checked for settling, so that a sloppy
+  direction coming into resolution, or an unsettled sampler, is not read as
+  a change of stratum. The multi-temperature protocol is the record's, not
+  Lau et al.'s. The wording
   is A's (the other assistant in the exchange "Rich Get Richer Power
   Laws", A37–A43), merged by the assistant (Claude, in this session);
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpcg4uu CLAIM-tmp9bp04 CLAIM-tmpl9zw4 LIT-tmpnbl2d — Proposed or new, filed with this lead, or a Deferred work registered from the exchange and not yet read -->
+<!-- inactive-ok-file: CLAIM-tmpcg4uu CLAIM-tmp9bp04 CLAIM-tmpl9zw4 — Proposed or new, filed with this lead, or a Deferred work registered from the exchange and not yet read -->
+<!-- inactive-ok-file: THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # LEAD-tmpfrw11: In a small network trained on a synthetic hierarchy whose signal strengths and dependencies are known, date for each distinction the onset of decodability, the sign change of its stability eigenvalue, its gain in held-out fit and any change in the local learning coefficient, with its variance and task sensitivity along the way; then move the onsets by changing parent strength, regularization and the timing of fine examples
 
@@ -75,12 +90,27 @@ model where the answer is known in advance.
   information becoming accessible is told apart from a stability
   transition.
 
-**The assistant's addition.** Estimate the learning coefficient (Lau
-et al., [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md)) at two or more inverse temperatures at each
-checkpoint. A sloppy regular direction coming into resolution raises the
-estimate at the rate of about ½ per direction resolved. A change of
-singular stratum moves its level ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). One temperature cannot
-separate them.
+**The assistant's addition.** Estimate the learning coefficient with Lau
+et al.'s estimator (LIT-tmpnbl2d, THEORY-tmpousrw) at two or more inverse
+temperatures at each checkpoint, and at two or more localizer precisions
+γ. A sloppy regular direction coming into resolution raises the estimate
+at the rate of about ½ per direction resolved. A change of singular
+stratum moves its level (CLAIM-tmpcg4uu). One temperature cannot separate
+them. The protocol is the record's: the paper fixes β* = 1/log n and sets
+γ per experiment (1 or 100), and its consistency argument (App. D) is made
+only at β*.
+
+- **Vary γ as well as β.** On a quadratic loss the estimate is
+  Σ ½·te_i/(te_i + γ) with t = nβ (NOTE-tmp92pjh), so γ is a second cut-off:
+  a direction with curvature below about γ/t counts as flat.
+- **Hold the sampler fixed.** Step size, chain length, burn-in and batch
+  size the same across compared checkpoints, as the paper does within a
+  set of relative comparisons (§5.2, App. K).
+- **Check settling.** "If the step size is too low, the sampler may not
+  equilibriate, leading to underestimation" (App. H.1); the loss trace
+  after burn-in and the MALA acceptance rate (App. H, Fig. J.3) are the
+  paper's diagnostics. An underestimate from poor mixing mimics a lower
+  coefficient, and would be read as a stratum change.
 
 **Not yet said.** The architecture, the size of the hierarchy and how
 "the relevant stability eigenvalue" is found in a network with more than

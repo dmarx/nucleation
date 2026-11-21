@@ -290,3 +290,21 @@ For [CASE-152](../cases.d/CASE-152.md)'s model, a fit of λ log n − β log log
 λ, not d/2, and the Gaussian (d/2) log n overcharges it by about
 ½ log n + log log n. The scripts were written by the reviewer, re-run by
 the reviewing session, and are not in the record.
+
+## Note of 2026-11-21: Bialek, Nemenman & Tishby and Lau et al., read
+
+Two parallels.
+
+- **Bialek, Nemenman and Tishby** (NOTE-tmpilbkz) derive the same (d/2)
+  coefficient as the information the data carry about the parameters,
+  (K/2) log₂ N, "independent even of the prior" (§4.2, Eq. 63), and note that
+  when "the determinant of F is zero" a smaller "phase space dimension"
+  takes K's place (Eq. 64): the regular-model shadow of this reading's
+  λ log n. Their (K/2) log N is the predictive information, which equals
+  the data–parameter information.
+- **Lau et al.** (NOTE-tmp92pjh) give a local version, Fₙ(B(w*)) = nLₙ(w*) +
+  λ(w*) log n − (m(w*) − 1) log log n + O_P(1) (App. B, Eq. 21), under the
+  added condition that w* is "at least as degenerate as any nearby
+  minimiser", and call the Laplace form "ill-defined for neural networks".
+
+Neither changes the reading; no relation is written.

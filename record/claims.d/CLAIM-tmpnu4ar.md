@@ -28,6 +28,7 @@ summary: >-
   Get Richer Power Laws", A39); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpa8hb2 ARG-tmpj0r42 CLAIM-tmpcg4uu CLAIM-tmp85eq8 LIT-tmpdz70v — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
+<!-- inactive-ok-file: THEORY-tmpd7a4j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmpnu4ar: Model reduction and feature differentiation may be movements in opposite directions through one stratified space of effective models: reduction moves toward the boundaries of the model manifold, where parameters stop mattering, and differentiation moves away from singular strata, where redundant features become separately usable
 
@@ -82,3 +83,22 @@ connection between two accounts of it.
   moves toward strata.
 - Not that feature differentiation is a resolution of a singularity in
   the algebraic sense ([CLAIM-tmp85eq8](CLAIM-tmp85eq8.md) and its argument).
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
+
+- **The reduction half is corroborated** by the 2015 review
+  (THEORY-tmpd7a4j): the manifold boundary approximation "approximate[s] a
+  high-dimensional, but thin model manifold by its boundary", reducing the
+  EGFR model from 48 parameters to 12 (§IV). The 2010 letter: "Most
+  parameters in these models have bounded effects", settable to limiting
+  values with finite predictions.
+- **The gap is theirs too, unresolved.** "Since most boundaries occur at
+  infinite parameter values" (2010, p. 3); in log parameters all of them do,
+  and the model graph stretches them to infinity (2011, §IV). The finite
+  ones are fold lines, generic only with fewer data than twice the
+  parameters. So "boundaries at infinity become strata" still needs the
+  compactification this claim's gap names. The duality stays supposed.
+- **The boundaries are singular.** "Model boundaries correspond to points
+  on the manifold where the metric is singular" (2011, p. 10): reduction
+  moves toward rank loss of the metric, which fits the claim's picture of
+  one stratified space.

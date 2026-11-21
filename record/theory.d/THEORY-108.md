@@ -196,3 +196,13 @@ the zero solution and nothing is learned. Below it the distribution has
 finite spread, which shrinks as T rises. It is a temperature-driven phase
 in an analytically solvable model, not a measurement in the networks
 this account studies. No typed edge.
+
+## Note of 2026-11-21: Lau et al., read
+
+A parallel. Lau et al. (NOTE-tmp92pjh, App. E) argue that Hessian-based
+flatness is ill-defined for singular models: the Laplace term
+(d/2) log n + ½ log det H is "ill-defined for neural networks", and a
+Gaussian posterior is the wrong shape there. That supports this reading's
+preference for connectivity and output similarity over endpoint
+curvature, from the side of singular learning; it is an argument, not a
+test on this reading's data. No relation is written.

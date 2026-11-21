@@ -26,7 +26,7 @@ rests_on:
 - CLAIM-tmpj0k4q
 grounds:
 - THEORY-087
-- LIT-tmpys7v3
+- THEORY-tmp3gj1j
 uses:
 - TERM-tmpxml4k
 - TERM-tmp5z2du
@@ -45,7 +45,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpj0k4q TERM-tmpxml4k — filed with this claim from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpys7v3 — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
+<!-- inactive-ok-file: ARG-tmpy9b4f THEORY-tmp3gj1j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmpyxiwv: When past and future are independent given a shared parameter, the shape of the Fisher spectrum fixes how predictive information grows: in a linear-Gaussian model it grows as (d/2) ln T with d resolved directions, as T^(1/p) when the spectrum falls as j^(−p), and as (ln T)²/(4a) when it falls as e^(−aj), so the power-law regime of Bialek, Nemenman and Tishby follows from a power-law spectrum
 
@@ -114,8 +114,9 @@ The assistant computed 2G(T) − G(2T) on a two-million-term spectrum
   0.88, 0.91 and 0.94 at T = 10², 10⁴, 10⁶, 10⁸, 10¹², approaching 1 as
   the subleading terms fade.
 
-The three regimes are Bialek, Nemenman and Tishby's ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)), as A21
-§4 states them; the work is Deferred: registered, not read. The derivation
+The three regimes are Bialek, Nemenman and Tishby's (LIT-tmpys7v3), as A21
+§4 states them; the work was read on 2026-11-21 (THEORY-tmp3gj1j), and
+what it carries is in the note below. The derivation
 and the check above do not depend on it; what does is the attribution of
 the regimes, taken from A.
 
@@ -133,3 +134,35 @@ the regimes, taken from A.
 - **Not that criticality produces it.** No transition enters; A21 §4's
   caveat that these regimes "are not a one-to-one classification of
   physical criticality" stands.
+
+## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
+
+Read in NOTE-tmpilbkz, filed as THEORY-tmp3gj1j, which replaces the unread
+LIT in this claim's grounds. What it carries (ARG-tmpy9b4f):
+
+- **(d/2) ln T is theirs.** §4.1, Eq. 41: linear regression with Gaussian
+  noise and a prior on the coefficients gives S₁(N) → (K/2) log₂ N,
+  independent of the basis; §4.2 gives the same for any K-parameter family.
+  Their I_pred has an infinite future and equals the data–parameter
+  information, which is Step 1 in that form; with this claim's T′ = T it
+  becomes (K/2) log(T/2), as stated above.
+- **T^(1/p) is an instance of their §4.5 result, as to exponent only.**
+  Their power law, N^(μ/(μ+1)), is derived in the annealed approximation
+  from an essential singularity of the density of divergences; this
+  claim's model is a case of it. The filer computed their annealed quantity
+  in this model: S₁^(a) = G(N) + ½ Σ Nλ_j/(1 + Nλ_j), which for λ_j = j^(−p) grows
+  as N^(1/p) with a coefficient larger than the exact G's by a factor
+  tending to 1 + 1/p (1.501 at p = 2, 1.341 at p = 3, N = 10⁶; NOTE-tmpilbkz).
+  So the exponent agrees and the paper's coefficients should not be cited
+  for it; the exact G above is the right object. The mapping is this
+  claim's, not the paper's, which knew of no complete Bayesian family of
+  power-law scalings (p. 32).
+- **(ln T)²/(4a) is not in the paper.** It is this claim's.
+
+The title's "the power-law regime of Bialek, Nemenman and Tishby follows
+from a power-law spectrum" should be read with that qualification: their
+regime, by their mechanism, as to exponent. Their conditions also bear: no
+long-range correlations given the parameters (Eq. 65, of which this
+claim's conditional independence is a stronger form), and a degenerate
+Fisher matrix lowering the dimension (Eq. 64), which agrees with the
+exclusion of singular models above.

@@ -190,3 +190,12 @@ gap in z² growing as 2 log log n (3.1, 4.6 and 5.5 at n = 10⁴, 10⁸ and
 in a family where switching the candidate off makes the model singular.
 The scripts were written by the reviewer, re-run by the reviewing
 session, and are not in the record.
+
+## Note of 2026-11-21: Lau et al., read
+
+A parallel. Lau et al. (NOTE-tmp92pjh, App. E) contrast the Laplace
+penalty (d/2) log n + ½ log det H, "ill-defined for neural networks", with
+the singular λ log n; "For a very benign type of degeneracy" the Laplace
+form is valid. That is this claim's point that a Gaussian Occam term
+overcharges singular candidates, stated for the local coefficient. No
+relation is written; the paper adds no new case.

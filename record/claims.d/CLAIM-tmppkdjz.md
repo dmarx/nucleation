@@ -158,3 +158,17 @@ This claim complements [CLAIM-450](CLAIM-450.md). That claim has distinguishabil
 usability and efficacy coming apart for a communicative distinction. This
 one has several geometries of the same learned model coming apart in the
 order they give.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2011) and Transtrum et al. (2015), read
+
+A parallel that supports the claim's metric-dependence. Both say the
+Fisher spectrum depends on the parametrization: "one can always
+reparametrize the manifold to make the metric at a point any symmetric,
+positive definite matrix" (2011, p. 6; NOTE-tmpzxtnv); "the FIM can be
+transformed into any positive definite matrix by a simple linear
+transformation of parameters" (2015, §III; NOTE-tmphbpab). Their answer is
+to measure in the metric of the predictions, the model manifold's widths,
+which is one of the metrics this claim sets side by side. They do not
+compare that metric with the others the claim names. No relation is
+written: the readings bear on the claim as background, not as evidence
+for its ordering result.

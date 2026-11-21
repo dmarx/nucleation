@@ -28,6 +28,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the relevant-direction count -->
 <!-- inactive-ok-file: CLAIM-tmpj0k4q CLAIM-tmpyxiwv TERM-tmpxml4k — filed with this question from the same exchange, Proposed or Open -->
 <!-- inactive-ok-file: SYNTHESIS-084 THEORY-1558 — Proposed, cited as the open state of the RG–information correspondence and of rate-demarcated levels -->
+<!-- inactive-ok-file: THEORY-tmp3gj1j THEORY-tmpgsgka — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # QUESTION-tmpzlagu: Do the effective dimensions of one system, the number of its stiff Fisher directions at a given resolution, the dimension of its predictive states, the number of its relevant renormalization-group directions and its fractal dimension, agree, and when do they come apart?
 
@@ -82,3 +83,22 @@ in learning admit one chain; this asks whether counts agree. A21 §10's
 further question, whether multiscale complexity lies in the number of
 levels or in how freely information moves between them, is held in part
 by [THEORY-581](../theory.d/THEORY-581.md), [THEORY-1558](../theory.d/THEORY-1558.md) and [QUESTION-219](QUESTION-219.md) and is not filed separately.
+
+## Note of 2026-11-21: Bialek, Nemenman & Tishby and Transtrum, Machta & Sethna (2010, 2011), read
+
+More effective dimensions the question does not list, and none resolves
+it:
+
+- **Bialek, Nemenman and Tishby** (NOTE-tmpilbkz, THEORY-tmp3gj1j) separate
+  the parameter count K, a "phase space dimension" d that replaces K when
+  the Fisher matrix is degenerate (Eq. 64), and the VC dimension, below
+  which the (d/2) log N law does not hold. Their d is the regular-model
+  counterpart of a learning coefficient's 2λ.
+- **Transtrum, Machta and Sethna 2011** (NOTE-tmpzxtnv, THEORY-tmpgsgka)
+  count the parameters not evaporated at a best fit, growing as
+  log(W₀/σ)/|log ∆| for widths W₀∆ⁿ (Eq. 37), and summarize the manifold by
+  "three numbers", W₀, ∆ and N.
+- **The 2010 letter** speaks of "few effective degrees of freedom" without
+  defining the count (NOTE-tmpamhd2).
+
+Relations are written from THEORY-tmp3gj1j and THEORY-tmpgsgka.

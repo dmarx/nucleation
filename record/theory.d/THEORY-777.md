@@ -42,6 +42,7 @@ summary: >-
 bears_on:
 - QUESTION-tmpzlagu
 ---
+<!-- inactive-ok-file: TERM-tmp5z2du — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-777: In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4
 
@@ -144,3 +145,17 @@ figure by eye. Whether the lowest groups' decay is signal is a question
 about the study's internal validity ([ADR-065](../decisions.d/ADR-065.md) §7), so the condition stays.
 Nothing rests on this entry, so narrowing it to what Machta et al. report
 would free nothing.
+
+## Note of 2026-11-21: Transtrum et al. (2015), read
+
+Supports the direction of this reading and states it more strongly than
+the record does. The review: the Ising model "observed on long length
+scales, develops stiff directions along precisely those parameter
+combinations deemed 'relevant' under the renormalization group" (§V;
+NOTE-tmphbpab), restating Machta et al. (LIT-1299). It gives no rate; this
+reading's b^(2y−d) per step, with the dimension in it, and the record's
+caution against equating stiffness with relevance in general (A19 §5;
+TERM-tmp5z2du) are not the review's. A commented-out sentence in its
+source, that RG arguments "derive the presence of sloppiness", is not in
+the published text. The review is not independent of this reading's
+source, so it does not meet the promote_when.

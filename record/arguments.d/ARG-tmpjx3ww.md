@@ -27,7 +27,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmppkdjz LIT-tmp0gbj6 LIT-tmp83hha LIT-tmp4det7 LIT-tmpd3swn — Proposed, filed with this argument, or Deferred works registered from the exchange and not yet read -->
+<!-- inactive-ok-file: CLAIM-tmppkdjz LIT-tmp0gbj6 LIT-tmp83hha LIT-tmp4det7 — Proposed, filed with this argument, or Deferred works registered from the exchange and not yet read -->
 
 # ARG-tmpjx3ww: The recent findings that small spectral directions matter support the claim that a model's metrics can rank directions in opposite orders, but do not show that the hyperribbon account mistook a hierarchy of widths for one of importance, since a hyperribbon is already measured in the metric of the predictions and the findings concern other spectra
 
@@ -56,7 +56,8 @@ combinations are distinguishable under a particular observation metric."
   concept separation, training progress, predictive change). That is an
   instance of metrics disagreeing, which is [CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md). For the
   second, no. A hyperribbon is defined in the Fisher metric of the
-  model's predictions under its stated noise ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), unread): its
+  model's predictions under its stated noise (LIT-tmpd3swn, LIT-tmpzkxka,
+  read on 2026-11-21; see the note below): its
   thin directions are those that change the predictions little, which is
   what "unimportant for prediction" means. None of the four findings
   measures that spectrum for parameters. Xu's G_pred is a predictive
@@ -83,3 +84,17 @@ true by the hyperribbon's definition. It is not a lesson of the
 small-eigenvalue work. The parts of A41 that conflate representation
 variance with a parameter-space Fisher hierarchy are the ledger's gap
 at L26, recorded here.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
+
+Supports the argument's premise. The hyper-ribbon is defined by distances
+in data space under g = JᵀJ (NOTE-tmpamhd2), with residuals in units of
+their errors in the 2011 paper (NOTE-tmpzxtnv; the 2010 letter states no
+noise model, so "under its stated noise" is the 2011 paper's). The papers
+frame the hierarchy as what the data constrain, not as importance: "only a
+few stiff parameter combinations need to be tuned to fit most of the
+data" (2010). The 2015 review does call combinations "that have little effect on
+model behavior" "unimportant", relative to the fitted behaviour, and
+warns that "if even a single parameter remains unknown ... large
+predictive uncertainty can still result" (NOTE-tmphbpab): importance
+relative to observation, as this argument reads it.

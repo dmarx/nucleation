@@ -17,6 +17,7 @@ variant_of:
 draws_on:
 - THEORY-087
 - THEORY-1253
+- THEORY-tmpgsgka
 summary: >-
   A39 §§2–4 of the exchange "Rich Get Richer Power Laws" (2026-11-21),
   answering the owner's U24, with the assistant's checks and two
@@ -29,7 +30,8 @@ summary: >-
   the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpcgvcp LIT-tmpd3swn LIT-tmpzkxka — a Proposed claim filed with this case, and Deferred works registered from the exchange and not yet read -->
+<!-- inactive-ok-file: CLAIM-tmpcgvcp — a Proposed claim filed with this case, and Deferred works registered from the exchange and not yet read -->
+<!-- inactive-ok-file: THEORY-tmpgsgka — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CASE-tmpb2gly: Two mechanisms that merge: in F(a, b) = (a + b, ab), and in a sum of two exponentials with rates u ± v, the predictions depend on the difference v only through v², so the smaller Fisher eigenvalue falls as v² and is zero on the stratum a = b, where the model image has a smooth fold edge, the learning coefficient at a true point on the edge is 3/4 against 1 inside, and a smooth prior pushed into prediction space diverges at the edge as the inverse square root of the distance
 
@@ -107,3 +109,18 @@ concentration at the edge survives conditioning on data. Gradient
 training samples no posterior, so nothing here transfers to it. The
 case is stipulated: its numbers are facts of the definition, not
 observations of any network.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011), read
+
+Read in NOTE-tmpamhd2 and NOTE-tmpzxtnv. The case's addition, the same
+edge in the textbook sloppy model, is the originators' own example: the
+2010 letter's Fig. 1 is e^(−θ₁t) + e^(−θ₂t), with "Boundaries ... when θµ =
+0, ∞ and when θ1 = θ2"; the 2011 paper calls θ₁ = θ₂ the "fold line", the
+one boundary not at extreme parameter values, where "the model behavior
+was nonetheless singular", and notes extremely skewed coordinates "where
+the parameters are nearly equal (near the fold line)". In its model graph
+"the fold has opened up like a folded sheet of paper". That supports the
+case's identification of the edge as a singular stratum and its location.
+The v² law, the learning coefficient 3/4 and the pushed-forward density
+are not in the papers; they stay the case's. The case now draws on
+THEORY-tmpgsgka for its component.

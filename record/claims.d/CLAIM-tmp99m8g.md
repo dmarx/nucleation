@@ -21,7 +21,6 @@ line:
 - formal-apparatus
 grounds:
 - THEORY-262
-- LIT-tmpys7v3
 uses:
 - TERM-tmpxml4k
 summary: >-
@@ -40,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-262 — Proposed reading, the neural-complexity measure -->
 <!-- inactive-ok-file: CLAIM-tmpq8q9t — filed with this claim from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpys7v3 — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
+<!-- inactive-ok-file: ARG-tmpvo4gr THEORY-tmp3gj1j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmp99m8g: Entropy, correlation and scaling are distinct properties of a system, and a critical point is not the maximum of complexity: what is special there is the absence of a finite correlation scale, while entropy density, predictive information, the number of relevant directions and the cost of simulation need not peak there
 
@@ -110,9 +109,10 @@ does not have a finite characteristic distance".
   size; the record keeps the analogy as A's and does not adopt it.
 
 Predictive information, one of the measures A21 §8 says need not peak at
-criticality, is Bialek, Nemenman and Tishby's ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)), which is
-Deferred: registered, not read. The worked case and the corrections above
-were checked in this session and do not depend on the work.
+criticality, is Bialek, Nemenman and Tishby's (LIT-tmpys7v3), read on
+2026-11-21 (THEORY-tmp3gj1j; see the note below). The worked case and the
+corrections above were checked in this session and do not depend on the
+work.
 
 ## What it does not say
 
@@ -121,3 +121,24 @@ were checked in this session and do not depend on the work.
   at long range, susceptibility) do peak there.
 - Not that no measure peaks at criticality, nor which measures do: that
   depends on the measure and the observation (A21 §8).
+
+## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
+
+Read in NOTE-tmpilbkz (THEORY-tmp3gj1j). It was in this claim's grounds,
+unread, for predictive information; it carries less than a ground for the
+claim as titled, and moves to corroborating it (ARG-tmpvo4gr).
+
+- **Supports** the separation of entropy from complexity:
+  "predictability is a deviation from extensivity"; complexity "should be
+  zero both for purely regular and for purely random systems"; "most of
+  what we observe is irrelevant to the problem of predicting the future".
+- **Leans against** A21 §8's "may or may not diverge" for predictive
+  information: "At critical points the predictive information will diverge
+  with the size of the system" (§6), with the link to scaling dimensions
+  left "to be worked out" (fn. 9). Asserted, not shown; and about growth
+  with size at the critical point, not about a maximum across parameters.
+  The paper does not claim complexity in general peaks there, and notes
+  logarithmic divergence in learning with no transition.
+- The claim's thesis is about "every sensible complexity measure"; one
+  measure asserted to diverge at criticality does not defeat it, by its
+  own defeated_if.

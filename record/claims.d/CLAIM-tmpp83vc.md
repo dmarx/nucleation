@@ -48,6 +48,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-tmp0z602 LIT-tmpv9upr CLAIM-tmpcbfdj CLAIM-tmp9bp04 CLAIM-tmp85eq8 CLAIM-tmpgzb8v ARG-tmpbmruy — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
+<!-- inactive-ok-file: CLAIM-tmpcg4uu THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-tmpp83vc: Singularity theory's account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built
 
@@ -110,3 +111,17 @@ survives: the simpler region wins at small n and the richer one later.
 It does not say that every stage of learning is a singular transition,
 nor that the Bayesian order in n is the training order in t. That bridge
 is [QUESTION-363](../questions.d/QUESTION-363.md), open.
+
+## Note of 2026-11-21: Lau et al., read
+
+A caution from the estimator's source (NOTE-tmp92pjh, THEORY-tmpousrw) on
+reading a change in local learning-coefficient estimates as a transition:
+the estimate is made at one inverse temperature, β* = 1/log n, with a
+localizer of precision γ, and both set which directions count (on a
+quadratic loss, Σ ½·te_i/(te_i + γ), t = n/log n); consistency is a
+conjecture; and an unsettled sampler underestimates ("If the step size is
+too low, the sampler may not equilibriate, leading to underestimation",
+App. H). A change in the estimate over training is evidence of a change of
+stratum only with the sampler settings fixed across checkpoints, settling
+checked, and β and γ varied (LEAD-tmpfrw11, CLAIM-tmpcg4uu). The paper
+itself has no dynamical content beyond its Outlook.

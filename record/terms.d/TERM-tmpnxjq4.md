@@ -26,6 +26,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-186 THEORY-084 THEORY-078 CLAIM-tmpcgvcp CLAIM-tmppkdjz CASE-tmpb2gly — Proposed or new; cited for the sense each fixes -->
+<!-- inactive-ok-file: TERM-tmptiim0 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # TERM-tmpnxjq4: weak direction (in a learned model), in six senses that come apart
 
@@ -70,3 +71,18 @@ the ranking ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)).
   matter to the task. A label can sit wholly in a sense-1 weak direction
   ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)), and [THEORY-420](../theory.d/THEORY-420.md) holds a reading in which zeroing
   sense-2 weak directions can damage a trained transformer.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2011) and Transtrum et al. (2015), read
+
+Qualifies sense 4 (sloppy: vᵀIv with I invertible, "identified given
+enough data"). In the sources a sloppy direction runs to the manifold's
+boundary, mostly at parameters going to 0 or ∞: "Any parameter can be
+varied by an infinite amount and the model could still fit the data"
+(2015, §I), and best fits to noisy data "evaporate" parameters to extreme
+values along directions thinner than the noise (2011, §III). Near the
+point where I is evaluated, more data do identify the direction; globally,
+at a fixed design, a sloppy combination can be unidentified because it
+runs to a boundary, where the metric is singular (2011, p. 10). Sense 4
+holds locally; the sources' sloppiness mixes it with a global failure of
+identification that sense 5 (singular) captures at the edges
+(TERM-tmptiim0, version 2).

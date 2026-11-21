@@ -30,6 +30,7 @@ summary: >-
   Chentsov's, cited and not held.
 ---
 <!-- inactive-ok-file: LIT-354 THEORY-078 — Proposed or Unavailable; named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-tmp0z602 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-082: Steepest descent is defined only relative to a metric, and Amari's proof that natural-gradient learning is Fisher efficient needs the Fisher information at the optimum to be invertible, the condition whose failure WBIC calls singular; in a multilayer perceptron it fails wherever an output weight is zero
 
@@ -115,3 +116,15 @@ hierarchical layers are singular.
   about C² informative directions over a large null space. That is the
   empirical shape of a Fisher with no inverse, though not by itself a
   measurement of singularity.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2011), read
+
+A parallel. The 2011 paper (NOTE-tmpzxtnv) cites Amari, Park and Ozeki
+(LIT-tmp0z602) for metric singularities in network training and equates
+them with model-manifold boundaries, where the metric JᵀJ is singular
+(§III, p. 10). It also states, without derivation, that Amari's
+natural-gradient flow (its Eq. 46) reduces to the geodesic equation when
+all the nonlinearity is parameter-effects curvature. Both bear on this
+reading's condition that Fisher efficiency needs an invertible Fisher
+matrix: on the sloppy picture, invertibility fails exactly at the edges of
+the model manifold. No relation is written.

@@ -32,6 +32,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpficzj CLAIM-tmpcgvcp CLAIM-tmpcg4uu ARG-tmpj0r42 THEORY-777 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Proposed reading the record already held -->
+<!-- inactive-ok-file: ARG-tmpv3nqz LIT-tmp0z602 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # ARG-tmpmvc5e: The behaviour of sloppy models carries over to overparameterized neural networks, so that a network's behavioural complexity is set by a few stiff combinations of its parameters as in a sloppy model
 
@@ -89,3 +90,24 @@ in the strong form A19 §10 calls "strong". Its weak form, that few
 combinations matter, holds of networks but is not the sloppy-model claim
 and does not need it. Rejected as an inference to [CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md) for
 networks; [CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md) itself, for regular models, is untouched.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2011) and Transtrum et al. (2015), read
+
+A dated note; the status is not changed. Read in NOTE-tmpzxtnv and
+NOTE-tmphbpab. Two bearings:
+
+- **The premise is the originators' own.** The 2011 paper's count (Eq. 16):
+  "if M < 2N there will exist nontrivial singular points of the metric at
+  non-extreme values of the parameters", and it equates network metric
+  singularities with model boundaries, citing Amari, Park and Ozeki
+  (LIT-tmp0z602). An overparameterized network has M < 2N, so on their
+  own terms its metric is singular at finite parameters, as this
+  argument's "relevant difference" says.
+- **But the originators did press the analogy, on small cases.** The 2011
+  paper's 4-4-2 tanh network has geodesic widths tracking its singular
+  values (Fig. 6b), and the 2015 review reports "a clear hyperribbon
+  structure" for an autoencoder's code, unpublished. The A19 §10 analogy
+  therefore has a source in the programme, which this argument did not
+  record. Neither case is an overparameterized network in its weights:
+  ARG-tmpv3nqz weighs them and finds they do not carry CLAIM-tmpficzj
+  there. The verdict here stands on that.
