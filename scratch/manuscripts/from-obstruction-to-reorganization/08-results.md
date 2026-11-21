@@ -23,9 +23,16 @@ The census cannot count misfits that were noticed and left, or never noticed at 
 | The grammar had made the record assert something false | 4 |
 | Unknown | 4 |
 
-In 63 of the 71 changes made in answer to a misfit (89%), the move had first been forced into a category or kept in prose. Noticing came after the grammar had already absorbed the move. That is CLAIM-181's mechanism, observed, and P5's "borne, not learned from" until something made it an obstruction. It is also why the denominator matters: every one of these misfits sat in the record, forced or in prose, until someone noticed it.
+In 63 of the 71 changes made in answer to a misfit (89%), the move had first been forced into a category or kept in prose. Noticing came after the grammar had already absorbed the move. That is CLAIM-181's mechanism, observed, and P5's "borne, not learned from" until something made it an obstruction. It is also why the denominator matters: every one of these misfits sat in the record, forced or in prose, until someone noticed it. With the fifth batch (§13.1; one coder), the share is 65 of 74 (88%): ADR-115 and ADR-130 each answered a misfit already forced into a category.
 
-**E2 is supported.** Twenty-five of the 88 grammar changes (28%) were revisions, with agreement κ = 0.84 on the distinction. They include five kinds:
+**Absorption seen outside the grammar (added 2026-11-21).** Two of 21 November's changes answered losses of the same shape in the record's intake, where the census does not look:
+
+- **The decoder.** The tool that turns a shared exchange into text had dropped visible turns' code and code output, and left reasoning summaries and hidden drafts out without a count. Nothing failed. The owner noticed only because two counts of the same exchange's assistant turns disagreed, 96 and 43 (pull request 608; curation entry of 2026-11-21, 18:01).
+- **Gaps in a source's argument.** The filing procedure's idea ledger had been noticing where a source skipped a derivation, left a condition unstated or got a number wrong, but nothing said what to do with what it noticed (ADR-tmpcb96w, Context). The gaps were held in prose until the owner asked, once, for them to be filled, and then asked for that to become the rule.
+
+Both are stage 1 of the cycle: a loss absorbed without trace until a count or a request made it an obstruction. Neither is in the census's denominator.
+
+**E2 is supported.** Twenty-five of the 88 grammar changes (28%) were revisions, with agreement κ = 0.84 on the distinction. With the fifth batch, 27 of 91 (30%): ADR-115 narrowed POSTMORTEM and reassigned its three entries to a new scheme, and ADR-130 moved "inquiry as specification" out of `record-as-apparatus` into a new line. They include five kinds:
 
 - **What counts as an answer.** ADR-049 redefined `Answered` so that an Active THEORY, or several entries together, can answer a question as posed. ADR-059 redefined what a status means for an ARG.
 - **Boundaries between kinds of entry.** ADR-058 (`grounds` and `corroborates`), ADR-060 (`answers` split from `bears_on`) and ADR-061 (CLAIM and ARG).
@@ -53,17 +60,24 @@ The term-change audit read every commit to `luria.yaml` across the whole history
 
 - **Splits moved the entries that moved.** `Deferred`: 177 of 345, exactly the entries reassigned. `ecology` lost `endosymbiosis`: 13 of 50. Each line split moved at least the entries its decision named. The audit counts slightly more entries touched than each decision names, for example 44 against 43, because entries are touched for other reasons in the same unit.
 - **Widening needed no re-reading, and got almost none.** `learning-theory` was widened by ADR-036, and 1 of its 92 carrying entries was touched. A widened word still holds every entry that held it before.
-- **No redefinition in place.** An earlier version of this section read ADR-048's rewording of `anthology-candidate`, none of whose 237 entries was touched, as a redefinition left untraced. The owner ruled otherwise (2026-11-21): the flag did not change meaning. It records, as it always did, that someone judged the anthology may want the work; ADR-048 changed what that implies about filing here. Revisiting flags is the anthology's process. So nothing needed to be carried through, and the history holds no change of meaning alone (CLAIM-tmpj5aiv, version 2).
+- **No redefinition in place.** An earlier version of this section read ADR-048's rewording of `anthology-candidate`, none of whose 237 entries was touched, as a redefinition left untraced. The owner ruled otherwise (2026-11-21): the flag did not change meaning. It records, as it always did, that someone judged the anthology may want the work; ADR-048 changed what that implies about filing here. Revisiting flags is the anthology's process. So nothing needed to be carried through, and the history holds no change of meaning alone (CLAIM-791, version 2).
+
+**Extended to 21 November (added 2026-11-21).** Rerun by the analytics pipeline to `main` at `56479304e`, the audit finds 36 events, 26 reworded and 10 removed, each with a decision in its unit. The two new events are both ADRs of 21 November:
+
+- **The work renamed** (ADR-135). The old key's 23 carriers were all changed in the unit, as for every removal before it. The decision left dated prose mentioning the old name as written, since such entries "describe what was true when they were written".
+- **`record-as-apparatus` narrowed** (ADR-130). "Inquiry as specification" left its blurb for the new line. 7 of its 80 carriers were touched in the unit. ADR-130 gathers eleven entries into the new line by name and leaves "the claims behind P5 and P8 that no other line holds as its own question" to the next synthesis review. The synthesis review of the same afternoon filed the new line's account; its curation entry records no re-reading of the line that was narrowed (curation entry, 14:58).
+
+This is the first change since the census of what an existing term covers, made in place. It is the case E3's exception is about, and so far it is untested rather than failed: the decision named where its carry-through would happen and did not claim to have done it. Whether the other 73 carriers include entries about inquiry in general, which belong in the new line, is a check this draft has not run. One caveat on the method applies from 21 November: the audit takes a unit of work to be the pull request that reached `main`, and under staging that is the promotion of a whole batch (here pull request 599), not the decision's own pull request (605). Counts of entries "touched in the unit" are therefore more lenient for events after staging began.
 
 There is a second failure, of a different kind (§14.5). A correction to a postmortem's body did not reach its summary, and the generated view propagated the uncorrected summary.
 
-**Verdict: supported for removals, splits and widenings, and falsified in one derived summary. The exception E3 predicts, where only a meaning changes, is untested.** The record traced its grammar changes at the level of the grammar, and at the level of entries whenever entries had to move. The history offers no case of a meaning changing alone, so E3's exception neither held nor failed. That is a gap in the test, not support for the theory.
+**Verdict: supported for removals, splits and widenings, and falsified in one derived summary. The exception E3 predicts, where only a meaning changes, is untested, and since 21 November it has a case to test (ADR-130).** The record traced its grammar changes at the level of the grammar, and at the level of entries whenever entries had to move. The history offers no case of a meaning changing alone, so E3's exception neither held nor failed. That is a gap in the test, not support for the theory.
 
 ### 15.3 E4: costs, and errors caused by grammar changes
 
 **Supported.**
 
-- Fifty-eight grammar changes state a migration: 2,664 existing entries changed in all, median 6 per change.
+- Fifty-eight grammar changes state a migration: 2,664 existing entries changed in all, median 6 per change. With the fifth batch, 61 and 2,701, median 6.
 - Ten grammar changes caused an error that was later recorded (§13.9). Two migrations went wrong in ways the census codes elsewhere (ADR-065, ADR-085).
 - Four changes were undone within days.
 
@@ -92,6 +106,8 @@ The record has since filed a reason the question is hard, at the level of entrie
 
 Ratification did not become steadily less explicit either. No owner involvement is recorded for 17 of 43 changes, then 1 of 20, then 12 of 25.
 
+The fifth batch (21 November, one coder) is too small to extend these series: three grammar changes, one noticed by the owner, one by the assistant, one by a review procedure, all three ratified explicitly. Across all 22 decisions of that day the owner noticed 18 and decided every one, in words each decision quotes. Two things changed the recording, not necessarily the involvement: rulings are now written inline on the promotion pull request and quoted into the decision, and a request with several readings now reaches the owner as several filed decisions to choose among (§13.8).
+
 **E5: noticing moved from incidental to institutional.** What changed was who, other than the owner, did the noticing.
 
 - **Early.** Most needs were noticed by *filing agents*, subagents reading a batch of works who found no word for what they read. These were refinements: 18 of the 20 changes filing agents noticed. Most were vocabulary terms. Half were approved explicitly (10 of 20); the rest had no recorded approval (8) or came under a standing permission (2).
@@ -105,7 +121,7 @@ In the flywheel's terms (§7.2, stage 2), noticing that depended on who happened
 - **by procedure:** "merging it is the assent";
 - **case by case, and explicit:** ADR-089, where the owner "left the split to the assistant's judgement".
 
-Judgment about revisions largely stayed with the owner. In QUESTION-388's terms, the criteria for revising the record's regime remained the owner's. On P8, that is why the record's reflexive inquiry is self-governing only at the level of the owner-and-procedures system, not at the level of its assistants.
+Judgment about revisions largely stayed with the owner. The two revisions of 21 November fit: ADR-115 was the owner's request, and ADR-130 was a review procedure's candidate that the owner adopted. ADR-129 states the division as a rule: the cross-line audit "proposes it and does not make it", since a line is "a decision about the `lines` vocabulary, for the owner". In QUESTION-388's terms, the criteria for revising the record's regime remained the owner's. On P8, that is why the record's reflexive inquiry is self-governing only at the level of the owner-and-procedures system, not at the level of its assistants.
 
 ### 15.5 E7: the bound on all of the above
 
@@ -116,3 +132,5 @@ Every figure in §§15.1–15.4 is a count taken in the record's own grammar and
 - **CASE-084.** A record can trace every commitment perfectly and still exclude the right explanation from its vocabulary.
 
 None of these is answered here. Section 19 proposes the measurements that could.
+
+A fourth applies from 21 November. The line `learning-and-inquiry` was added for this paper's theme (ADR-130), and the accounts under it were written for it. By CLAIM-402's argument, the record now acts on a category the theory supplied, and regularities found under that line after its creation are partly products of the line.

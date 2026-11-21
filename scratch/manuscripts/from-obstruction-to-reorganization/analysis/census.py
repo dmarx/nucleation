@@ -45,6 +45,8 @@ def table(counter, title, keyname):
 
 
 def period(day):
+    if day >= "2026-11-21":  # batch 5, coded single-handed on 2026-11-21
+        return "21 Nov"
     w = week_of(day)
     return "25 Sep-15 Oct" if w <= 3 else "16 Oct-5 Nov" if w <= 6 else "6-20 Nov"
 
@@ -60,7 +62,7 @@ def main(d="census"):
     print(table(Counter(o for r in g for o in r["operation"]), "Operation", "operation"))
     print(table(Counter(r["residue"] for r in g), "Residue before the decision", "residue"))
     print(table(Counter(r["outcome"] for r in g), "Outcome", "outcome"))
-    pers = ["25 Sep-15 Oct", "16 Oct-5 Nov", "6-20 Nov"]
+    pers = ["25 Sep-15 Oct", "16 Oct-5 Nov", "6-20 Nov", "21 Nov"]
     for field in ("regime", "level", "trigger", "noticer", "proposer", "ratification"):
         listy = isinstance(g[0][field], list)
         vals = lambda r: r[field] if listy else [r[field]]  # noqa: E731
@@ -72,6 +74,15 @@ def main(d="census"):
             rs = [r for r in g if period(r["date"]) == p]
             c = Counter(v for r in rs for v in vals(r))
             print(f"| {p} | {len(rs)} | " + " | ".join(str(c[k]) for k in cats) + " |")
+    print("\n**All decisions coded, by period**\n")
+    print("| period | n | grammar changes | Rejected | ratification explicit | decider owner |")
+    print("|---|---:|---:|---:|---:|---:|")
+    for p in pers:
+        rs = [r for r in rows if period(r["date"]) == p]
+        print(f"| {p} | {len(rs)} | {sum(r['grammar_change'] is True for r in rs)} | "
+              f"{sum(r['status'] == 'Rejected' for r in rs)} | "
+              f"{sum(r['ratification'] == 'explicit' for r in rs)} | "
+              f"{sum(r['decider'] == 'owner' for r in rs)} |")
     print(table(Counter(f"{r['noticer']} / {r['regime']}" for r in g),
                 "Noticer by regime", "noticer / regime"))
     mig = [r["migration"] for r in g if isinstance(r.get("migration"), int)]
@@ -80,6 +91,19 @@ def main(d="census"):
     harm = [r for r in g if r.get("later_harm")]
     print(f"\nGrammar changes with recorded later harm: {len(harm)}: "
           + ", ".join(r["adr"] for r in harm))
+    rec = Path(d).resolve().parents[4] / "record" / "decisions.d"
+    if rec.is_dir():
+        drift = []
+        for r in rows:
+            f = rec / f"{r['adr']}.md"
+            if f.exists():
+                for line in f.read_text().split("---")[1].splitlines():
+                    if line.startswith("status:"):
+                        now = line.split(":", 1)[1].strip()
+                        if now != r["status"]:
+                            drift.append(f"{r['adr']} {r['status']}->{now}")
+        print(f"\nCoded status changed in the record since coding: {len(drift)}"
+              + (": " + ", ".join(drift) if drift else ""))
     rp = d / "recode.json"
     if rp.exists():
         second = {r["adr"]: r for r in json.loads(rp.read_text())}

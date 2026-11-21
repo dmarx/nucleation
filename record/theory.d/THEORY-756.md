@@ -39,6 +39,8 @@ summary: >-
   target, the observed future. The redefined dive is still an entropy rate.
 corroborates:
 - CLAIM-152
+bears_on:
+- QUESTION-tmpzlagu
 ---
 <!-- inactive-ok-file: THEORY-157 — Proposed; named as the general sufficiency result this is an instance of, nothing here rests on it -->
 # THEORY-756: The growth rate of thermodynamic depth is the entropy rate of whichever macrostate process it is computed over, so the choice of macrostates sets it anywhere from zero up; among partitions of a stationary process's past that predict every finite stretch of the future as well as the whole past does, the causal states are the coarsest, so they have the least entropy and the least entropy rate

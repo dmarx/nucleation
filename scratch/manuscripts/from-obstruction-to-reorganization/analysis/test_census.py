@@ -28,3 +28,10 @@ def test_week_of_counts_from_the_scaffold():
 def test_crosstab_counts_pairs():
     rows = [{"a": "x", "b": "p"}, {"a": "x", "b": "q"}, {"a": "y", "b": "p"}]
     assert crosstab(rows, "a", "b") == {("x", "p"): 1, ("x", "q"): 1, ("y", "p"): 1}
+
+
+def test_period_puts_21_november_apart():
+    from census import period
+    assert period("2026-11-20") == "6-20 Nov"
+    assert period("2026-11-21") == "21 Nov"
+    assert period("2026-10-15") == "25 Sep-15 Oct"

@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A names it at A3, A5, A24 for the sandpile model of self-organized criticality. No reading was attempted; a lawful copy has not been sought.
+title: 'Self-organized criticality: An explanation of the 1/f noise'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on Crossref on 2026-11-21, no email address sent. Not held: no hit for the DOI, the title, Bak or Wiesenfeld in record/literature.d (LIT-521 and LIT-525 mention self-organized criticality but are other works).
+tags:
+- complex-systems
+- thermodynamics
+date: '2026-11-21'
+published: '1987-07-27'
+doi: '10.1103/PhysRevLett.59.381'
+first_author: 'Bak'
+keywords: []
+implementations: []
+summary: >-
+  Bak, Tang & Wiesenfeld (1987), Self-organized criticality: An explanation of the 1/f noise, Physical Review Letters, DOI 10.1103/PhysRevLett.59.381. The sandpile model: a slowly driven threshold system organizes itself to a critical state with power-law avalanche sizes and 1/f noise, without tuning. Here as the exchange's third route to heavy tails, criticality reached without tuning, set against preferential attachment (exchange "Rich Get Richer Power Laws", A3, A5, A24). Unverified until read.
+---
+
+# LIT-tmpl2b2l: Self-organized criticality: An explanation of the 1/f noise
+
+Bak, Tang & Wiesenfeld (1987). Physical Review Letters. DOI 10.1103/PhysRevLett.59.381.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A names it at A3, A5, A24 for the sandpile model of self-organized criticality. It bears on the exchange's third route to heavy tails, criticality reached without tuning, set against preferential attachment. Not read.

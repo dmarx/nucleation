@@ -104,6 +104,7 @@ integrates:
 - CLAIM-356
 - CLAIM-367
 ---
+<!-- inactive-ok-file: CLAIM-tmpjbee7 ARG-tmp09yqc CLAIM-tmplb1ow TERM-tmpol232 — Proposed or new; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
 <!-- inactive-ok-file: ARG-015 CLAIM-155 CLAIM-157 CLAIM-158 CLAIM-165 CLAIM-166 CLAIM-167 CLAIM-168 CLAIM-170 CLAIM-174 CLAIM-367 CLAIM-393 CLAIM-396 TERM-063 — Proposed; components of this part, with their standing -->
 <!-- inactive-ok-file: CASE-163 CASE-166 CASE-225 CLAIM-161 CLAIM-286 CLAIM-327 CLAIM-417 CLAIM-425 CLAIM-544 CLAIM-616 — Proposed; components of sibling parts, cited for the links stated to them -->
 <!-- inactive-ok-file: SYNTHESIS-018 SYNTHESIS-026 SYNTHESIS-036 SYNTHESIS-041 — Proposed; the audit this account follows and the other lines' accounts that also set out some of its components -->
@@ -661,3 +662,14 @@ Integrating sentences across the components, tested at this review by
   ([TERM-049](../terms.d/TERM-049.md), [CLAIM-157](../claims.d/CLAIM-157.md), [CLAIM-165](../claims.d/CLAIM-165.md)).
 - That any factor has passed [CLAIM-174](../claims.d/CLAIM-174.md)'s tests ([CLAIM-174](../claims.d/CLAIM-174.md), [QUESTION-228](../questions.d/QUESTION-228.md)).
 - Anything with standing of its own.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+Three entries filed from that exchange bear on this account's scope and are not yet among its components, for its next version to weigh:
+
+- **A case where the block test fails.** [CLAIM-tmpjbee7](../claims.d/CLAIM-tmpjbee7.md) (A's, A17 §5, Proposed): near a critical point a system becomes "harder to separate but easier to classify". Fluctuations stay consequential across scales, so no gap-isolated block forms, and the criterion here finds no unit. Yet the class the system belongs to is easy to tell, through universality. So failing the block test does not mean the system lacks describable structure. It means the structure is not of the block kind.
+- **Correlation is not coupling.** [ARG-tmp09yqc](../arguments.d/ARG-tmp09yqc.md) (Rejected; A's bridge, the assistant's verdict): a finite correlation length does not give near-decomposability in [THEORY-661](../theory.d/THEORY-661.md)'s sense. Simon's condition is weak interaction between blocks, and it holds for large blocks even at criticality. This bears on what [CLAIM-157](../claims.d/CLAIM-157.md)'s gap is measured in: a gap in coupling, not in correlation.
+- **Separation in size.** [CLAIM-tmplb1ow](../claims.d/CLAIM-tmplb1ow.md) (the assistant's, Proposed) holds a separation of scales between a bulk and a tail that closes at a continuous transition. That is a third kind of gap beside this account's coupling gap and [CLAIM-478](../claims.d/CLAIM-478.md)'s rate gap.
+
+[TERM-tmpol232](../terms.d/TERM-tmpol232.md) (filed the same day) names these as kinds of "separation" in one sense, and keeps them apart from the separation of classes and the spectral separation the exchange also uses. No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).
+

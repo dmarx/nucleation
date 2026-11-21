@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A cites it at A32 for spiked covariance through nonlinear layers. No reading was attempted; a lawful copy has not been sought.
+title: 'Nonlinear spiked covariance matrices and signal propagation in deep neural networks'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id, the title or "spiked" in record/literature.d.
+tags:
+- learning-theory
+- anthology-candidate
+date: '2026-11-21'
+published: '2024-02-15'
+arxiv: '2402.10127'
+first_author: 'Wang'
+keywords: []
+implementations: []
+summary: >-
+  Wang, Wu & Fan (2024), Nonlinear spiked covariance matrices and signal propagation in deep neural networks, COLT 2024 (PMLR 247); arXiv 2402.10127. The spectrum of conjugate kernels with spiked input covariance: how spikes propagate, grow or vanish through nonlinear layers. Here as the exchange's question of how a BBP-type transition carries through a deep network (exchange "Rich Get Richer Power Laws", A32). Unverified until read.
+---
+
+# LIT-tmpfmeic: Nonlinear spiked covariance matrices and signal propagation in deep neural networks
+
+Wang, Wu & Fan (2024). COLT 2024 (PMLR 247); arXiv 2402.10127.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A cites it at A32 for spiked covariance through nonlinear layers. It bears on the exchange's question of how a BBP-type transition carries through a deep network. Not read.

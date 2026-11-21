@@ -1,0 +1,57 @@
+---
+status: Proposed
+title: "The squared overlap between a spike's sample and population eigenvectors, and its vanishing below the threshold, are Paul's theorem for real Gaussian spiked covariance and Benaych-Georges and Nadakuditi's for the additive model, which carry the claim's eigenvector clause"
+version: 1
+form: formal-application
+grounds:
+- THEORY-tmp6808g
+- THEORY-tmp4zojc
+concludes:
+- CLAIM-tmp5y856
+tags:
+- mathematical-statistics
+- representation-learning
+date: '2026-11-21'
+line:
+- learned-structure
+summary: >-
+  [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md) says the top eigenvector carries information about the
+  spike's direction only above β = √(D/N), and [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md), which
+  illustrates it, gives the squared overlap (1 − γ/β²)/(1 + γ/β). The BBP
+  paper has nothing on eigenvectors. Paul's Theorem 4 (real Gaussian,
+  γ < 1) and Benaych-Georges and Nadakuditi's (10) (additive model) both
+  give exactly this overlap and its vanishing below the threshold. The
+  wording is the assistant's (Claude, in this session); adopting it is the
+  owner's call.
+---
+<!-- inactive-ok-file: CLAIM-tmp5y856 CASE-tmp59xy5 THEORY-tmp6808g THEORY-tmp4zojc — Proposed; the claim, case and readings this argument joins -->
+
+# ARG-tmpnwmcr: The squared overlap between a spike's sample and population eigenvectors, and its vanishing below the threshold, are Paul's theorem for real Gaussian spiked covariance and Benaych-Georges and Nadakuditi's for the additive model, which carry the claim's eigenvector clause
+
+## The inference
+
+Paul, Theorem 4: for a simple spike ℓ > 1 + √γ, |⟨p, e⟩|² →
+(1 − γ/(ℓ − 1)²)/(1 + γ/(ℓ − 1)); for ℓ ≤ 1 + √γ, ⟨p, e⟩ → 0.
+Benaych-Georges and Nadakuditi, (10): |⟨ũ, u⟩|² → 1 − c(1 + θ²)/(θ²(θ² + c))
+for θ ≥ c^(1/4), 0 otherwise. With β = ℓ − 1 = θ² and c = γ both are
+(1 − γ/β²)/(1 + γ/β); the filer checked the identity by hand:
+1 − γ(1 + β)/(β(β + γ)) = (β² − γ)/(β(β + γ)).
+
+## Critical questions (formal application)
+
+**Does the mapping premise hold?** Yes, by the identity above; the
+threshold is the same point at which the eigenvalue separates.
+
+**Are the models' assumptions met?** [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)'s spiked covariance
+Σ = I + βvvᵀ with real Gaussian samples is Paul's model, for γ < 1. For
+γ ≥ 1 Paul is silent; Benaych-Georges and Nadakuditi's general theorems
+cover the additive model there by transposition, but the record has read
+only their §3.1 (c ≤ 1). So the clause is carried for γ < 1 by both, and
+for γ ≥ 1 by neither as read. The claim's simulations are at γ ≤ 1.
+
+## Verdict
+
+[THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md) goes into [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)'s grounds; [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md)
+corroborates it (its model is the additive one, which the claim's case uses
+but the claim's own statement does not). [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md) draws on both for
+its overlap.

@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A names it at A27 for the Mermin-Wagner theorem, no continuous symmetry breaking in two dimensions at finite temperature. No reading was attempted; a lawful copy has not been sought.
+title: 'Absence of Ferromagnetism or Antiferromagnetism in One- or Two-Dimensional Isotropic Heisenberg Models'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on Crossref on 2026-11-21, no email address sent. Not held: no hit for the DOI, the title or Mermin as author in record/literature.d (Mermin-Wagner is mentioned only in LIT-1670's summary).
+tags:
+- natural-sciences
+- thermodynamics
+date: '2026-11-21'
+published: '1966-11-28'
+doi: '10.1103/PhysRevLett.17.1133'
+first_author: 'Mermin'
+keywords: []
+implementations: []
+summary: >-
+  Mermin & Wagner (1966), Absence of Ferromagnetism or Antiferromagnetism in One- or Two-Dimensional Isotropic Heisenberg Models, Physical Review Letters, DOI 10.1103/PhysRevLett.17.1133. The Mermin-Wagner theorem: isotropic Heisenberg models with short-range interactions in one or two dimensions have no spontaneous magnetization at finite temperature. Here as the exchange's contrast with flocking, where long-range order in two dimensions does occur (exchange "Rich Get Richer Power Laws", A27). Unverified until read.
+---
+
+# LIT-tmph28ji: Absence of Ferromagnetism or Antiferromagnetism in One- or Two-Dimensional Isotropic Heisenberg Models
+
+Mermin & Wagner (1966). Physical Review Letters. DOI 10.1103/PhysRevLett.17.1133.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A names it at A27 for the Mermin-Wagner theorem, no continuous symmetry breaking in two dimensions at finite temperature. It bears on the exchange's contrast with flocking, where long-range order in two dimensions does occur. Not read.

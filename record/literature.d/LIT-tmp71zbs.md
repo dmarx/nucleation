@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A names it at A26, A27 for the Toner-Tu hydrodynamic theory of flocking. No reading was attempted; a lawful copy has not been sought.
+title: 'Flocks, herds, and schools: A quantitative theory of flocking'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id or the title in record/literature.d; LIT-1670 is Toner and Tu's 1995 PRL (adap-org/9506001), a different and shorter work.
+tags:
+- complex-systems
+- natural-sciences
+date: '2026-11-21'
+published: '1998-04-16'
+arxiv: 'cond-mat/9804180'
+first_author: 'Toner'
+keywords: []
+implementations: []
+summary: >-
+  Toner & Tu (1998), Flocks, herds, and schools: A quantitative theory of flocking, Physical Review E (doi 10.1103/PhysRevE.58.4828, 1998-10-01); arXiv cond-mat/9804180. The long version of the hydrodynamic theory of flocking: active self-propelled particles in two dimensions can have true long-range order, with giant number fluctuations. Here as the exchange's example of long-range order out of equilibrium (exchange "Rich Get Richer Power Laws", A26, A27). Unverified until read.
+---
+
+# LIT-tmp71zbs: Flocks, herds, and schools: A quantitative theory of flocking
+
+Toner & Tu (1998). Physical Review E (doi 10.1103/PhysRevE.58.4828, 1998-10-01); arXiv cond-mat/9804180.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A names it at A26, A27 for the Toner-Tu hydrodynamic theory of flocking. It bears on the exchange's example of long-range order out of equilibrium. Not read.

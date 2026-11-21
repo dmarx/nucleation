@@ -20,6 +20,7 @@ date: '2026-11-19'
 bears_on:
 - QUESTION-281
 - QUESTION-125
+- QUESTION-tmp2hhlc
 promote_when: >-
   An independent study of deep fully connected tanh networks reproduces
   the measured correlation depth scale against the mean-field prediction,
