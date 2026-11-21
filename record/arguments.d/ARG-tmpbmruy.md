@@ -15,10 +15,10 @@ line:
 - learned-structure
 summary: >-
   The owner's U23 in the exchange "Rich Get Richer Power Laws"
-  (CLAIM-tmpp83vc) admits two readings, filed as alternatives:
-  CLAIM-tmp85eq8, training carries out a resolution, and CLAIM-tmpgzb8v,
+  ([CLAIM-tmpp83vc](../claims.d/CLAIM-tmpp83vc.md)) admits two readings, filed as alternatives:
+  [CLAIM-tmp85eq8](../claims.d/CLAIM-tmp85eq8.md), training carries out a resolution, and [CLAIM-tmpgzb8v](../claims.d/CLAIM-tmpgzb8v.md),
   a transition is a change of the dominant singularity with resolution
-  as the tool that computes it. Supposing reading (a), CLAIM-305 makes the
+  as the tool that computes it. Supposing reading (a), [CLAIM-305](../claims.d/CLAIM-305.md) makes the
   transition change nothing the network computes, which a phase
   transition in learning cannot be; so (a) goes. What follows is only the
   second clause of (b), that resolution enters as a tool; that the
@@ -32,10 +32,10 @@ summary: >-
 
 ## The inference
 
-1. Suppose reading (a), CLAIM-tmp85eq8: at a phase transition in
+1. Suppose reading (a), [CLAIM-tmp85eq8](../claims.d/CLAIM-tmp85eq8.md): at a phase transition in
    learning, the network carries out, or passes through, a blow-up π of a
    singular point w₀ of its parameter space.
-2. CLAIM-305 (Active): the model on the blown-up space is p(x | π(u)), so
+2. [CLAIM-305](../claims.d/CLAIM-305.md) (Active): the model on the blown-up space is p(x | π(u)), so
    every point u over w₀ gives the distribution p(x | w₀). "States that no
    data could tell apart before" remain indistinguishable, and the Fisher
    information can stay degenerate there.
@@ -50,7 +50,7 @@ summary: >-
    transitions only as an analytical tool, which brings the loss to a
    normal form and yields the learning coefficients that decide which
    region dominates. That is the second clause of reading (b),
-   CLAIM-tmpgzb8v, and A37 §3's own gloss.
+   [CLAIM-tmpgzb8v](../claims.d/CLAIM-tmpgzb8v.md), and A37 §3's own gloss.
 
 ## Critical questions
 
@@ -58,24 +58,24 @@ summary: >-
   Unacceptable. A transition that changes nothing observable is no
   transition in learning; step 4 is the minimal sense the owner's "phase
   transitions in learning" needs. Step 3 is not an approximation: the
-  pulled-back model is a function of u only through π(u) (CLAIM-305's
+  pulled-back model is a function of u only through π(u) ([CLAIM-305](../claims.d/CLAIM-305.md)'s
   defeater says only a different model escapes it). There is also a
   category problem the reductio does not need: training moves the
   parameters within the original space, and a blow-up is a change of the
   space analysed, not a motion in it.
-- **Is the premise the one to blame?** The other premises are CLAIM-305,
+- **Is the premise the one to blame?** The other premises are [CLAIM-305](../claims.d/CLAIM-305.md),
   which is demonstrated and in force, and step 4, which is what the
   owner's words take for granted. The one that can give is a sense of
   "resolution". A looser sense remains: a network "resolves" a degeneracy
   when it moves off a singular stratum and redundant parameters acquire
   separate effects. That is no blow-up, and it is not reading (a); it is
-  close to A39 §6's feature differentiation (CLAIM-tmpnu4ar) and to the
+  close to A39 §6's feature differentiation ([CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md)) and to the
   dominance picture of (b). If the owner meant it, the owner's thesis
   survives in that form and this argument does not touch it.
 
 ## Verdict
 
-CLAIM-305 tells against reading (a). It supports reading (b) only in its
+[CLAIM-305](../claims.d/CLAIM-305.md) tells against reading (a). It supports reading (b) only in its
 clause that resolution is a tool for computing learning coefficients; that
 learning transitions are changes in which singular region dominates is
 reading (b)'s own thesis and is not established here. Proposed. The choice

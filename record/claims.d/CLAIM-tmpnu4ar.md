@@ -39,7 +39,7 @@ A39 §6 sets two processes side by side:
   mechanisms. Move toward a reduced limiting model, often located at a
   manifold boundary." This is Transtrum and Qiu's manifold boundary
   approximation method, which "deliberately moves toward model boundaries
-  to obtain simpler effective theories" (LIT-tmpdz70v, Deferred:
+  to obtain simpler effective theories" ([LIT-tmpdz70v](../literature.d/LIT-tmpdz70v.md), Deferred:
   registered, not read).
 - **Feature differentiation**: "Redundant mechanisms → separately
   distinguishable features. Move away from a degenerate configuration into
@@ -62,17 +62,17 @@ singularity in finite parameter coordinates."
 ## Where it stands in the record
 
 The duality needs the two endpoints to lie in one space: the boundaries
-reduction approaches and the strata differentiation leaves. ARG-tmpj0r42
+reduction approaches and the strata differentiation leaves. [ARG-tmpj0r42](../arguments.d/ARG-tmpj0r42.md)
 finds that this is not yet shown. Many of the boundaries the reduction
 method follows lie at infinite parameter values, a rate going to 0 or ∞,
 where the model loses a parameter in the limit rather than folding at a
 finite point; only some are singular strata at finite coordinates, as the
-fold edge of a sum of exponentials is (CLAIM-tmpcg4uu). So the claim is
+fold edge of a sum of exponentials is ([CLAIM-tmpcg4uu](CLAIM-tmpcg4uu.md)). So the claim is
 supposed: it holds where the boundary is a stratum, and elsewhere it needs
 a compactification of the parameter space in which boundaries at infinity
 become strata, which neither A nor the record supplies.
 
-It complements the owner's bet at U24 (CLAIM-tmpa8hb2) by naming a
+It complements the owner's bet at U24 ([CLAIM-tmpa8hb2](CLAIM-tmpa8hb2.md)) by naming a
 direction of travel through the shared space, where the bet names a
 connection between two accounts of it.
 
@@ -81,4 +81,4 @@ connection between two accounts of it.
 - Not that training never compresses. A names pruning and collapse as
   moves toward strata.
 - Not that feature differentiation is a resolution of a singularity in
-  the algebraic sense (CLAIM-tmp85eq8 and its argument).
+  the algebraic sense ([CLAIM-tmp85eq8](CLAIM-tmp85eq8.md) and its argument).

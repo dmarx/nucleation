@@ -115,5 +115,5 @@ locational fundamentals. So for Japanese city sizes the evidence fits a
 stable attractor better than path-dependent rich-get-richer growth. This
 says nothing about whether cumulative advantage shapes the upper tail of
 the city-size distribution while relative sizes stay anchored. The
-exchange does not take that up. The argument is ARG-tmp2w77g. The reading
+exchange does not take that up. The argument is [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md). The reading
 is unchanged.

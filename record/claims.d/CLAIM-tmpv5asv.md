@@ -58,7 +58,7 @@ relaxing singular modes."
 The premise is [CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md): a degenerate direction relaxes as a power
 of t with no collective mode and no tuning to a critical point. The works
 on plateaus near singularities the claim grounds in, Amari's and Wei's
-(LIT-tmp0z602, LIT-tmpv9upr), are Deferred: registered, not read. The
+([LIT-tmp0z602](../literature.d/LIT-tmp0z602.md), [LIT-tmpv9upr](../literature.d/LIT-tmpv9upr.md)), are Deferred: registered, not read. The
 claim offers this as a rival explanation of observed slow relaxation in
 training, beside criticality. It does not say which explanation holds for
 any network.
@@ -78,12 +78,12 @@ ultrametric tree gives a power law.
 The ledger notes that A gives no step from one algebraic mode to the
 broad distribution of timescales an observed power law needs. What one
 mode does, and the balanced start its algebraic decay needs, is
-CLAIM-tmpcbfdj. CLAIM-tmpuc8ro, the assistant's, supplies one step: a
+[CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md). [CLAIM-tmpuc8ro](CLAIM-tmpuc8ro.md), the assistant's, supplies one step: a
 population of such modes from a random start, which relaxes on average as
 a power law. That route needs no criticality and no hierarchy of
 degeneracies, which narrows A's alternative. A power law in training
 relaxation does not even indicate a hierarchy of singular orders;
-ARG-tmpgt6ax argues this.
+[ARG-tmpgt6ax](../arguments.d/ARG-tmpgt6ax.md) argues this.
 
 ## Cross-reference
 

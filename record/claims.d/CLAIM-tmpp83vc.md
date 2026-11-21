@@ -42,12 +42,12 @@ summary: >-
   The thesis and its wording are the owner's, at U23. "As resolutions of
   singularities" admits two readings that would be filed differently, and
   both are filed as alternatives for the owner to choose: (a) training
-  carries out a resolution (CLAIM-tmp85eq8), and (b) a transition is a
+  carries out a resolution ([CLAIM-tmp85eq8](CLAIM-tmp85eq8.md)), and (b) a transition is a
   change of the dominant singularity, with resolution as the tool that
-  computes its learning coefficients (CLAIM-tmpgzb8v, A37's reframing).
+  computes its learning coefficients ([CLAIM-tmpgzb8v](CLAIM-tmpgzb8v.md), A37's reframing).
 ---
 
-<!-- inactive-ok-file: LIT-tmp3njir LIT-tmp0z602 LIT-tmpv9upr CLAIM-tmpcbfdj CLAIM-tmp9bp04 CLAIM-tmp85eq8 CLAIM-tmpgzb8v ARG-tmpbmruy — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
+<!-- inactive-ok-file: LIT-tmp0z602 LIT-tmpv9upr CLAIM-tmpcbfdj CLAIM-tmp9bp04 CLAIM-tmp85eq8 CLAIM-tmpgzb8v ARG-tmpbmruy — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
 
 # CLAIM-tmpp83vc: Singularity theory's account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built
 
@@ -64,16 +64,16 @@ which so far rested on concentration of measure, spectral detectability
 "As resolutions of singularities" can be read two ways, and they would be
 filed differently, so each is filed as an alternative. The owner chooses.
 
-- **Reading (a), training performs a resolution** (CLAIM-tmp85eq8): a
+- **Reading (a), training performs a resolution** ([CLAIM-tmp85eq8](CLAIM-tmp85eq8.md)): a
   phase transition is the network carrying out, or passing through, a
   blow-up of a singular point. The statement is the assistant's.
-- **Reading (b), a change of the dominant singularity** (CLAIM-tmpgzb8v):
+- **Reading (b), a change of the dominant singularity** ([CLAIM-tmpgzb8v](CLAIM-tmpgzb8v.md)):
   regions with different fits and learning coefficients compete in the
   free energy, the dominant one can switch as n grows, and resolution is
   how each coefficient is found. The wording is A's, at A37 §3 and §5.
 
-The assistant's view, that the record's CLAIM-305 tells against reading (a)
-and leaves (b), is argued in ARG-tmpbmruy; it is a verdict on the
+The assistant's view, that the record's [CLAIM-305](CLAIM-305.md) tells against reading (a)
+and leaves (b), is argued in [ARG-tmpbmruy](../arguments.d/ARG-tmpbmruy.md); it is a verdict on the
 readings, not a choice between them for the owner.
 
 ## How the exchange developed it

@@ -77,7 +77,7 @@ invisible, so the formula overcounts near threshold even in the sparse
 regime (rows 1 and 3).
 
 The threshold the count applies is Baik, Ben Arous and Péché's
-(LIT-tmpipm3o), which is Deferred: registered, not read. The simulation
+([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)), which is Deferred: registered, not read. The simulation
 counts outliers directly against the edge of the noise bulk, so the check
 does not depend on the work.
 

@@ -18,9 +18,9 @@ line:
 summary: >-
   A30 §5 of the exchange "Rich Get Richer Power Laws" tabulates how the
   participation ratio D_PR grows with width under λ_j ∝ j^(−α)
-  (CLAIM-tmpy688z), and A30 §9 proposes measuring, across embedding
+  ([CLAIM-tmpy688z](../claims.d/CLAIM-tmpy688z.md)), and A30 §9 proposes measuring, across embedding
   dimensions, "Does the effective dimension grow with ambient dimension?".
-  CLAIM-tmpym2vz computes that just above α = 1 the bounded regime is
+  [CLAIM-tmpym2vz](../claims.d/CLAIM-tmpym2vz.md) computes that just above α = 1 the bounded regime is
   approached only at widths exponential in 1/(α − 1), and that between
   widths 10⁴ and 10⁶ the local slopes at α = 0.9, 1 and 1.1 are 0.29, 0.17
   and 0.09, none at its asymptote. So the regimes hold as asymptotic
@@ -28,20 +28,20 @@ summary: >-
   Proposed. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpym2vz CLAIM-tmpy688z TERM-tmplplcf LEAD-tmpp88ld — new and Proposed or Open, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpym2vz CLAIM-tmpy688z — new and Proposed or Open, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # ARG-tmp96hze: The finite-width computation for a rank power-law spectrum supports the participation-ratio regimes as asymptotic statements and qualifies their use: just either side of an exponent of 1 they separate only at widths no network has, so they cannot be read from width scaling
 
 ## The inference
 
-CLAIM-tmpy688z, from A30 §5: D_PR grows as D for α < 1/2, as D/log D at
+[CLAIM-tmpy688z](../claims.d/CLAIM-tmpy688z.md), from A30 §5: D_PR grows as D for α < 1/2, as D/log D at
 1/2, as D^(2(1−α)) between 1/2 and 1, as (log D)² at 1, and tends to a
 constant above 1. A30 states them as "Asymptotic behavior", "assuming an
 ideal rank-power-law spectrum". A30 §9 then applies them: train at several
 embedding dimensions D and ask whether the participation ratio grows with
 D, to tell which regime a learned representation is in.
 
-CLAIM-tmpym2vz supplies the finite-D behaviour. For α > 1 the share of
+[CLAIM-tmpym2vz](../claims.d/CLAIM-tmpym2vz.md) supplies the finite-D behaviour. For α > 1 the share of
 the limit reached is about 1 − D^(−(α−1)), so the bounded regime is within
 a fixed fraction of its limit only at D ≈ e^(c/(α−1)). At Stringer's
 smoothness bound α = 1 + 2/m, width 768 gives D_PR between 13 and 29 for m
@@ -51,14 +51,14 @@ from 10 to 100, and half the limit needs width 1.2 × 10⁵ at m = 20 and
 So the asymptotic table is correct and its application in A30 §9 is not
 available near α = 1: no measured growth of D_PR with width at real widths
 places α either side of 1. The exponent has to be fitted from the spectrum
-directly, as LEAD-tmpp88ld now specifies.
+directly, as [LEAD-tmpp88ld](../leads.d/LEAD-tmpp88ld.md) now specifies.
 
 ## Critical questions
 
 - **Does the mapping premise hold?** The computation is for the same
   object as A30's table, a pure rank power law, so the mapping is exact.
   It was done with Hurwitz zeta partial sums and checked against direct
-  summation (CLAIM-tmpym2vz).
+  summation ([CLAIM-tmpym2vz](../claims.d/CLAIM-tmpym2vz.md)).
 - **Are the model's assumptions met in the new domain?** The new domain
   is the widths at which networks are trained, 10² to 10⁴. The
   assumption the asymptotics need, D large enough that the partial sums
@@ -73,7 +73,7 @@ directly, as LEAD-tmpp88ld now specifies.
 
 ## Verdict
 
-CLAIM-tmpym2vz supports CLAIM-tmpy688z as an asymptotic statement and
+[CLAIM-tmpym2vz](../claims.d/CLAIM-tmpym2vz.md) supports [CLAIM-tmpy688z](../claims.d/CLAIM-tmpy688z.md) as an asymptotic statement and
 qualifies its use: near α = 1 the regimes separate only at astronomical
 widths, so width scaling of the participation ratio cannot identify them.
 Proposed.

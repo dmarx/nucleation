@@ -48,8 +48,8 @@ summary: >-
 
 **Which gap.** The exchange names several thresholds: a cone's half-angle
 tracking π/2 − a/√D, with a bias κ of order √D changing its occupancy
-(CLAIM-tmpqqngq, A35 §1); the BBP threshold √(D/N) at which a covariance spike
-separates from the bulk (CLAIM-tmp5y856, A32 §2); and the ordering of a mean-field
+([CLAIM-tmpqqngq](CLAIM-tmpqqngq.md), A35 §1); the BBP threshold √(D/N) at which a covariance spike
+separates from the bulk ([CLAIM-tmp5y856](CLAIM-tmp5y856.md), A32 §2); and the ordering of a mean-field
 O(D) alignment model at J/T = D (A32 §7). A33 §9 lists them as "a hierarchy
 of geometric thresholds" that "need not occur simultaneously", without
 relating them. They can be put on one axis, the alignment strength.
@@ -58,7 +58,7 @@ relating them. They can be put on one axis, the alignment strength.
 bias κ, and write x = √D·u, so the null is near N(0, I) and the tilt shifts
 x along μ by c = κ/√D (A35 §1).
 
-CLAIM-tmpqqngq, on which this claim rests, gives two of the scales: a
+[CLAIM-tmpqqngq](CLAIM-tmpqqngq.md), on which this claim rests, gives two of the scales: a
 fixed-share cone changes occupancy smoothly once c is of order one, κ ∼ √D,
 and an order-one cosine or a cone of fixed angle needs κ ∼ D, a factor √D
 beyond. This claim adds the spectral one:
@@ -148,7 +148,7 @@ Computed in this session (python3 -I, numpy, scipy):
   magnitude near the bifurcation, is what the claim uses.
 
 The spiked-covariance threshold and formulas are Baik, Ben Arous and
-Péché's (LIT-tmpipm3o), which is Deferred: registered, not read. The checks
+Péché's ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)), which is Deferred: registered, not read. The checks
 above compare simulated outliers with the formulas directly, so they do not
 depend on the work.
 
@@ -159,6 +159,6 @@ depend on the work.
   give m ≈ 0, as A30 §7 notes, so the order parameter for "onset of
   learning as symmetry breaking" (A30 §10) is still to be named. The claim
   is about the models the exchange used.
-- Not that the hyperbolic entailment cones of THEORY-189 have the √D
+- Not that the hyperbolic entailment cones of [THEORY-189](../theory.d/THEORY-189.md) have the √D
   aperture threshold: the cone here is a spherical cap about the origin
-  (ARG-tmpwo5ou).
+  ([ARG-tmpwo5ou](../arguments.d/ARG-tmpwo5ou.md)).

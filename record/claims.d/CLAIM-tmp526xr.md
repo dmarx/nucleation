@@ -28,7 +28,7 @@ grounds:
 - LIT-tmp9yk0t
 summary: >-
   A29 §2–§4 and §11 of the exchange "Rich Get Richer Power Laws"
-  (2026-11-21), answering the owner's U18 (QUESTION-tmpvu6cb). Under gradient flow,
+  (2026-11-21), answering the owner's U18 ([QUESTION-tmpvu6cb](../questions.d/QUESTION-tmpvu6cb.md)). Under gradient flow,
   embeddings move as particles coupled by a representation-space tangent
   kernel that changes as features are learned; that much makes the
   active-matter reading a useful weak analogy. A strong active-matter
@@ -78,30 +78,30 @@ directions.
 
 A29 §11 grades the whole proposal into three hypotheses of increasing
 strength (collective dynamics, nonequilibrium self-organization, critical
-active dynamics), set out in QUESTION-tmpvu6cb. This claim is the first step of that
+active dynamics), set out in [QUESTION-tmpvu6cb](../questions.d/QUESTION-tmpvu6cb.md). This claim is the first step of that
 ladder and the rule for climbing to the second.
 
 ## What the record holds
 
-- THEORY-086: the kernel regime fits by tangent-kernel eigenspace in
-  function space; THEORY-813: feature learning, not the lazy regime, is what
+- [THEORY-086](../theory.d/THEORY-086.md): the kernel regime fits by tangent-kernel eigenspace in
+  function space; [THEORY-813](../theory.d/THEORY-813.md): feature learning, not the lazy regime, is what
   changes the representation. Neither writes the kernel between
   embeddings or reads it as a mobility.
-- THEORY-209 and THEORY-779: SGD's stationary state, with probability
+- [THEORY-209](../theory.d/THEORY-209.md) and [THEORY-779](../theory.d/THEORY-779.md): SGD's stationary state, with probability
   currents in the quadratic approximation and damped oscillators under
   momentum. These are the held candidates for the irreversibility the
   strong reading needs, located in parameter space.
 - For contrastive learning A29 §3 writes an attraction–repulsion energy on
   the sphere, with collapse, dispersion and structured regimes; the record
-  holds the pieces (THEORY-2033, THEORY-305, THEORY-2012). A29 cites a 2026
+  holds the pieces ([THEORY-2033](../theory.d/THEORY-2033.md), [THEORY-305](../theory.d/THEORY-305.md), [THEORY-2012](../theory.d/THEORY-2012.md)). A29 cites a 2026
   ICML paper for geometry-dependent changes between unimodal and multimodal
-  regimes (LIT-tmp9yk0t, Deferred: registered, not read).
+  regimes ([LIT-tmp9yk0t](../literature.d/LIT-tmp9yk0t.md), Deferred: registered, not read).
 
 ## Gaps
 
 - A29 gives no mechanism by which the coupled system becomes active. The
-  assistant's CLAIM-tmpet76z shows the coupling cannot be one: under gradient flow
-  the loss is a Lyapunov function whatever the kernel does. ARG-tmp0rq99
+  assistant's [CLAIM-tmpet76z](CLAIM-tmpet76z.md) shows the coupling cannot be one: under gradient flow
+  the loss is a Lyapunov function whatever the kernel does. [ARG-tmp0rq99](../arguments.d/ARG-tmp0rq99.md)
   argues that this closes A29 §2's feedback loop as a route to activity.
 - The "particles" are data embeddings, which nothing propels. An
   orientation-like degree of freedom, which polar active matter has, is

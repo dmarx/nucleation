@@ -138,7 +138,7 @@ direction learned "in the spectral tail"; and "a change in the mapping
 between representations and outputs". On this claim's terms, the first and
 third move a direction's rank under G_task, or under the pulled-back
 Fisher, while its rank under C_repr stays put; only the second changes the
-variance spectrum. Which one occurs is QUESTION-tmp82zpm's to settle.
+variance spectrum. Which one occurs is [QUESTION-tmp82zpm](../questions.d/QUESTION-tmp82zpm.md)'s to settle.
 
 ## What the small-eigenvalue findings add, and do not
 

@@ -68,7 +68,7 @@ They are said of different objects. Separation is about the system's
 states: whether blocks larger than some scale are nearly independent, so
 that a description of block sums is closed. Classification is about the
 renormalization flow: whether perturbations away from the fixed point
-grow or shrink under coarse-graining. In the terms of TERM-tmpt3vht, a
+grow or shrink under coarse-graining. In the terms of [TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md), a
 critical system sits at a fixed point with a few relevant directions and
 many irrelevant ones. Its fluctuations are scale-free, so no block size
 gives independence; and the irrelevant directions shrink, so systems that
@@ -76,11 +76,11 @@ differ only along them share the fixed point's exponents. The record's
 reading of the coarse-grained Fisher information on the critical Ising
 model shows the second half directly: two stiff directions survive
 decimation while the irrelevant ones fall by up to six decades
-(THEORY-777).
+([THEORY-777](../theory.d/THEORY-777.md)).
 
 ## Where it sits
 
-- **CLAIM-478 and its note of this date.** That claim has rate
+- **[CLAIM-478](CLAIM-478.md) and its note of this date.** That claim has rate
   differences making levels: where some degrees of freedom settle faster
   than others, their relation is a constraint over the window between the
   rates. The note adds the spatial window a finite correlation length
@@ -88,16 +88,16 @@ decimation while the irrelevant ones fall by up to six decades
   in time. This claim is the other side of that loss: what goes at
   criticality is the separation of levels, and what remains, and
   sharpens, is the classification by universality class. It complements
-  CLAIM-478 rather than objecting to it.
+  [CLAIM-478](CLAIM-478.md) rather than objecting to it.
 - **Sloppiness.** "Easier to classify" is the parametric face of
-  CLAIM-tmpficzj: many microscopic models give nearly the same large-scale
+  [CLAIM-tmpficzj](CLAIM-tmpficzj.md): many microscopic models give nearly the same large-scale
   predictions.
 
 ## What it does not say
 
 - Not that every critical system is fully classified by a few numbers.
   Marginal directions give logarithmic corrections or lines of fixed
-  points with varying exponents (TERM-tmpt3vht).
+  points with varying exponents ([TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md)).
 - Not that universality needs criticality. Irrelevant directions shrink
   under coarse-graining at any fixed point, including the trivial ones of
   ordered and disordered phases; what is special at a critical one is that

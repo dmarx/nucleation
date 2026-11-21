@@ -110,7 +110,7 @@ does not have a finite characteristic distance".
   size; the record keeps the analogy as A's and does not adopt it.
 
 Predictive information, one of the measures A21 §8 says need not peak at
-criticality, is Bialek, Nemenman and Tishby's (LIT-tmpys7v3), which is
+criticality, is Bialek, Nemenman and Tishby's ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)), which is
 Deferred: registered, not read. The worked case and the corrections above
 were checked in this session and do not depend on the work.
 

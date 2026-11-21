@@ -83,7 +83,7 @@ ln n/a = 9.2, 18.4, 27.6, 36.8 and 55.3. (A numpy script of this session,
 not kept; the method is as stated.)
 
 The work cited for the sloppy-model setting, Transtrum and colleagues'
-review (LIT-tmpm1tji), is Deferred: registered, not read. The count above
+review ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md)), is Deferred: registered, not read. The count above
 does not depend on it.
 
 ## What it does not say

@@ -114,7 +114,7 @@ The assistant computed 2G(T) − G(2T) on a two-million-term spectrum
   0.88, 0.91 and 0.94 at T = 10², 10⁴, 10⁶, 10⁸, 10¹², approaching 1 as
   the subleading terms fade.
 
-The three regimes are Bialek, Nemenman and Tishby's (LIT-tmpys7v3), as A21
+The three regimes are Bialek, Nemenman and Tishby's ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)), as A21
 §4 states them; the work is Deferred: registered, not read. The derivation
 and the check above do not depend on it; what does is the attribution of
 the regimes, taken from A.

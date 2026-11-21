@@ -17,9 +17,9 @@ summary: >-
   A1 §5 of the exchange "Rich Get Richer Power Laws" lists cities among
   the settings of cumulative advantage ("Large cities attract businesses,
   workers, and investment"), offering them as an instance of the
-  mechanism CLAIM-tmpepx9m states. In its strong form, that city sizes
+  mechanism [CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md) states. In its strong form, that city sizes
   follow from attachment in proportion to size, the record's one reading
-  on city sizes tells against it: in Davis and Weinstein (THEORY-1499) the
+  on city sizes tells against it: in Davis and Weinstein ([THEORY-1499](../theory.d/THEORY-1499.md)) the
   bombing of Japanese cities, which destroyed almost half the structures
   in the cities targeted, was undone within about fifteen years, where growth that depends only on
   current size would have kept them on a lower path. Rejected as evidence
@@ -37,7 +37,7 @@ summary: >-
 A1 §5's table of domains pairs "Cities" with "Large cities attract
 businesses, workers, and investment", and A1's opening says cumulative advantage
 helps explain why "a few cities become enormous". Read as evidence for
-CLAIM-tmpepx9m, it says: city sizes show the mechanism, growth with
+[CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md), it says: city sizes show the mechanism, growth with
 attachment linear in current size and continual entry. A1 hedges the
 table as a whole ("they don't all necessarily exhibit a pure power-law
 distribution"), not this row.
@@ -53,7 +53,7 @@ distribution"), not this row.
   it. What tells them apart is the response to a shock. Under growth that
   depends only on current size, a city that loses much of its population
   grows from then on in proportion to its smaller size and stays on a
-  lower path; under anchoring by location it returns. THEORY-1499 (Davis
+  lower path; under anchoring by location it returns. [THEORY-1499](../theory.d/THEORY-1499.md) (Davis
   and Weinstein, Active) has the test: across 303 Japanese cities,
   wartime destruction was undone one for one by 1960, or by about
   three-quarters with trend growth controlled, and wholly by 1965, with
@@ -70,7 +70,7 @@ distribution"), not this row.
 
 ## Verdict
 
-Rejected as evidence for CLAIM-tmpepx9m: the cities example, in its
+Rejected as evidence for [CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md): the cities example, in its
 strong form, is not supported, and the record's one reading on city sizes
 cuts against it. The claim does not rest on cities; its own text points
-to THEORY-1499 as a limit on where its mechanism applies, and that stands.
+to [THEORY-1499](../theory.d/THEORY-1499.md) as a limit on where its mechanism applies, and that stands.

@@ -519,7 +519,7 @@ size gives that window. A does not show the bridge it asserts, that a
 finite ξ makes a system nearly decomposable in Simon's sense
 ([THEORY-661](../theory.d/THEORY-661.md)): decay of correlations between blocks is weak
 statistical dependence, and Simon's near-decomposability is weak
-interaction, a statement about rates. ARG-tmp09yqc sets out why the reading does
+interaction, a statement about rates. [ARG-tmp09yqc](../arguments.d/ARG-tmp09yqc.md) sets out why the reading does
 not carry the bridge. The two meet through dynamic
 scaling, τ ∝ ξ^z, which ties the loss of the spatial window to the loss of
 this claim's temporal one near a continuous transition; slowing there is
@@ -528,4 +528,4 @@ The assistant's reading (Claude, in this session). The exchange's other
 point here, that criticality is not the maximum of complexity, is
 [CLAIM-tmp99m8g](CLAIM-tmp99m8g.md). A17 §5's companion point, that at
 criticality a system becomes harder to separate into levels and easier to
-classify, is CLAIM-tmpjbee7. No status change.
+classify, is [CLAIM-tmpjbee7](CLAIM-tmpjbee7.md). No status change.

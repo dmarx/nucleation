@@ -19,9 +19,9 @@ summary: >-
   "Different levels become approximately autonomous when the details of
   smaller scales become irrelevant to the behavior of larger ones", and
   that critical systems are exceptional because "that separation becomes
-  less complete". The note of 2026-11-21 on CLAIM-478 puts this as a
+  less complete". The note of 2026-11-21 on [CLAIM-478](../claims.d/CLAIM-478.md) puts this as a
   bridge from a finite correlation length to near-decomposability in
-  Simon's sense (THEORY-661), and finds it unshown. This is that
+  Simon's sense ([THEORY-661](../theory.d/THEORY-661.md)), and finds it unshown. This is that
   inference, and it fails: Simon's condition is weak interaction between
   blocks, which any short-range system satisfies for large blocks,
   critical or not, while a correlation length measures statistical
@@ -45,16 +45,16 @@ become harder to draw." So characteristic scales would explain "*when*
 relatively independent levels of description can emerge and *when* they
 cannot".
 
-Put in the record's terms (the note of 2026-11-21 on CLAIM-478): with a
+Put in the record's terms (the note of 2026-11-21 on [CLAIM-478](../claims.d/CLAIM-478.md)): with a
 finite correlation length ξ, a system is nearly decomposable into blocks
-larger than ξ, and THEORY-661 then gives Simon's result, fast dynamics
+larger than ξ, and [THEORY-661](../theory.d/THEORY-661.md) then gives Simon's result, fast dynamics
 within blocks and slow aggregate dynamics between them, which is a
 separation of levels; at a critical point ξ is unbounded and the
 separation fails.
 
 ## Critical questions
 
-- **Does the work say this, read in context?** No. THEORY-661's condition
+- **Does the work say this, read in context?** No. [THEORY-661](../theory.d/THEORY-661.md)'s condition
   is on interaction: "the matrix of interaction coefficients is
   block-diagonal with off-diagonal entries below a small ε", for a
   partition the theorem takes as given. Its conclusion is about time
@@ -80,17 +80,17 @@ separation fails.
   L, and at T_c the internal time grows as L^z with the block, so no block
   size gives a window. That is dynamic scaling, τ ∝ ξ^z, which A17 §5
   states and the record holds only as a standard result; and the slowing
-  is of the collective mode, the case CLAIM-626 separates from the others.
-  THEORY-661 contributes the shape of the conclusion, fast within and
+  is of the collective mode, the case [CLAIM-626](../claims.d/CLAIM-626.md) separates from the others.
+  [THEORY-661](../theory.d/THEORY-661.md) contributes the shape of the conclusion, fast within and
   slow between, and not the premise that puts a finite-ξ system in its
   scope.
 
 ## Verdict
 
-Rejected as an inference from THEORY-661: Simon's near-decomposability
+Rejected as an inference from [THEORY-661](../theory.d/THEORY-661.md): Simon's near-decomposability
 does not carry a finite correlation length to autonomous levels, since its
 interaction condition is met by short-range systems at criticality too.
-The spatial counterpart of CLAIM-478 that A13 §9 suggests may still hold,
-through dynamic scaling; that route needs its own grounds. CLAIM-478 itself,
-about rate differences, is untouched, and CLAIM-tmpjbee7 states what
+The spatial counterpart of [CLAIM-478](../claims.d/CLAIM-478.md) that A13 §9 suggests may still hold,
+through dynamic scaling; that route needs its own grounds. [CLAIM-478](../claims.d/CLAIM-478.md) itself,
+about rate differences, is untouched, and [CLAIM-tmpjbee7](../claims.d/CLAIM-tmpjbee7.md) states what
 criticality does remove.

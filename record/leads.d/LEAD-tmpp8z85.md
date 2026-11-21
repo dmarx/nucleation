@@ -50,7 +50,7 @@ observed power laws reflect genuine critical phenomena". It is also A3
 
 ## What a test must face (the assistant's)
 
-This lead is the cutoff row of LEAD-tmpng7or's protocol, which reads the
+This lead is the cutoff row of [LEAD-tmpng7or](LEAD-tmpng7or.md)'s protocol, which reads the
 mechanism behind a power law from its cutoff, collapse, dynamics and
 response together and subsumes the cutoff test. What this lead adds is
 the comparison with the variance and autocorrelation warnings below.

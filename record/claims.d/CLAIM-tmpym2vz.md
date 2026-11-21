@@ -99,8 +99,8 @@ Three consequences:
 So the exchange's bridge holds in a narrower form: a power-law spectrum
 governs concentration, but near α = 1 it does so through slowly varying,
 nearly m-independent participation ratios of a few tens, not through
-distinct regimes a network of real width could exhibit. ARG-tmp96hze sets
-out how this qualifies CLAIM-tmpy688z.
+distinct regimes a network of real width could exhibit. [ARG-tmp96hze](../arguments.d/ARG-tmp96hze.md) sets
+out how this qualifies [CLAIM-tmpy688z](CLAIM-tmpy688z.md).
 
 ## What it does not say
 

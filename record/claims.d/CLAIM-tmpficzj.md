@@ -124,7 +124,7 @@ which directions are stiff depends on which observables are fitted.
   where the optimal set is degenerate ([THEORY-087](../theory.d/THEORY-087.md), [THEORY-1253](../theory.d/THEORY-1253.md)). How a
   hyperribbon and a singular stratification relate is the owner's
   question at U24 and is filed with that turn. The analogy and why it
-  fails are ARG-tmpmvc5e.
+  fails are [ARG-tmpmvc5e](../arguments.d/ARG-tmpmvc5e.md).
 
 ## Errors in the turn
 

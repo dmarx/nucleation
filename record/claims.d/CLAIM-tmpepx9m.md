@@ -117,7 +117,7 @@ agree.
   A1 §5's domain table (citations, social networks, cities, wealth,
   platforms, language) lists plausible feedbacks, "but they don't all
   necessarily exhibit a pure power-law distribution". On cities, see the
-  note of 2026-11-21 on [THEORY-1499](../theory.d/THEORY-1499.md), and ARG-tmp2w77g for why the
+  note of 2026-11-21 on [THEORY-1499](../theory.d/THEORY-1499.md), and [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md) for why the
   cities example does not support this claim.
 - Not the opposition A later draws between rich-get-richer and
   criticality ([CLAIM-tmp9a83b](CLAIM-tmp9a83b.md)).
