@@ -71,7 +71,7 @@ What moved is mostly definitional. The 53 leads that moved to `specified` were t
 
 ### 14.5 A correction that did not propagate
 
-POSTMORTEM-002 (now RETRO-004) in its first version called the missing converse fields a defect. On reading luria's code, the filer found that luria computes converses by design, and corrected the body the same day. The frontmatter summary was not corrected. It still says the converses "are declared but never written", and the generated postmortem index carries that sentence.
+POSTMORTEM-002 (now RETRO-004) in its first version called the missing converse fields a defect. On reading luria's code, the filer found that luria computes converses by design, and corrected the body the same day. The frontmatter summary was not corrected. It said the converses "are declared but never written", and the generated postmortem index carried that sentence until the owner had it corrected on 2026-11-21 (RETRO-004, version 3).
 
 A correction to an authored text did not reach the compressed representation derived from it. When the review became RETRO-004, the stale summary was carried over unchanged. The record now holds this as the case of a general point about anchoring: an exact copy is anchored to the version it was taken from, so it keeps what a revision of its source removed (CLAIM-tmp0kqq4, Proposed; §5.3). All three reviews, now RETRO-002 to RETRO-004, are Drafts.
 

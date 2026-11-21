@@ -1,0 +1,1299 @@
+{
+ "computed_at": {
+  "rev": "HEAD",
+  "sha": "cf3d7351e72825e869d97a8c13faf7dbf64e7dd0",
+  "short": "cf3d7351e",
+  "date": "2026-11-21T08:58:48+00:00",
+  "subject": "Test the analytics pipeline on a fixture record and on the manuscript's commits"
+ },
+ "run_at": "2026-11-21T09:07:23+00:00",
+ "inputs": {
+  "rev": "HEAD",
+  "census_dir": "/home/user/nucleation-analytics/scratch/formal/decision-census/census",
+  "term_changes_rev": "HEAD",
+  "growth_ref": "origin/main",
+  "growth_dates": [
+   "2026-09-25",
+   "2026-10-15",
+   "2026-11-01",
+   "2026-11-19"
+  ]
+ },
+ "values": {
+  "anthology_candidate_count": 649,
+  "case_kind_by_standing": {
+   "construction": {
+    "documented": 2,
+    "fictional": 51,
+    "stipulated": 38
+   },
+   "executed-study": {
+    "documented": 4,
+    "fictional": 2,
+    "stipulated": 7
+   },
+   "proposed-study": {
+    "fictional": 1,
+    "stipulated": 54
+   },
+   "reported-study": {
+    "documented": 12
+   },
+   "specimen": {
+    "documented": 62,
+    "stipulated": 13
+   },
+   "thought-experiment": {
+    "documented": 1,
+    "fictional": 29,
+    "stipulated": 24
+   }
+  },
+  "claim_warrant_by_status": {
+   "demonstrated": {
+    "Active": 205,
+    "Proposed": 39,
+    "Rejected": 1,
+    "Superseded": 5
+   },
+   "empirical": {
+    "Active": 10,
+    "Proposed": 24,
+    "Superseded": 1
+   },
+   "interpretive": {
+    "Active": 188,
+    "Deferred": 3,
+    "Proposed": 276,
+    "Rejected": 9,
+    "Superseded": 33
+   }
+  },
+  "decision_status_counts": {
+   "Active": 107,
+   "Proposed": 8,
+   "Rejected": 6,
+   "Superseded": 5,
+   "Deferred": 1
+  },
+  "entries_by_scheme": {
+   "ADR": 127,
+   "ARG": 124,
+   "CASE": 300,
+   "CLAIM": 794,
+   "DP": 6,
+   "LEAD": 205,
+   "LIT": 2956,
+   "NOTE": 2236,
+   "POSTMORTEM": 4,
+   "QUESTION": 504,
+   "RETRO": 6,
+   "SYNTHESIS": 116,
+   "TERM": 134,
+   "THEORY": 2147
+  },
+  "entries_by_scheme_status": {
+   "ADR": {
+    "Active": 107,
+    "Proposed": 8,
+    "Rejected": 6,
+    "Superseded": 5,
+    "Deferred": 1
+   },
+   "ARG": {
+    "Proposed": 80,
+    "Rejected": 35,
+    "Active": 8,
+    "Deferred": 1
+   },
+   "CASE": {
+    "Active": 191,
+    "Proposed": 105,
+    "Superseded": 3,
+    "Deferred": 1
+   },
+   "CLAIM": {
+    "Active": 403,
+    "Proposed": 339,
+    "Superseded": 39,
+    "Rejected": 10,
+    "Deferred": 3
+   },
+   "DP": {
+    "Active": 6
+   },
+   "LEAD": {
+    "Open": 199,
+    "Done": 6
+   },
+   "LIT": {
+    "Active": 2133,
+    "Unavailable": 531,
+    "Unfetched": 181,
+    "Deferred": 58,
+    "Proposed": 32,
+    "Rejected": 15,
+    "Superseded": 6
+   },
+   "NOTE": {
+    "Read": 2046,
+    "Skimmed": 150,
+    "Superseded": 40
+   },
+   "POSTMORTEM": {
+    "Superseded": 3,
+    "Draft": 1
+   },
+   "QUESTION": {
+    "Open": 462,
+    "Answered": 35,
+    "Deferred": 6,
+    "Superseded": 1
+   },
+   "RETRO": {
+    "Draft": 6
+   },
+   "SYNTHESIS": {
+    "Proposed": 105,
+    "Superseded": 11
+   },
+   "TERM": {
+    "Active": 84,
+    "Proposed": 37,
+    "Superseded": 11,
+    "Deferred": 2
+   },
+   "THEORY": {
+    "Proposed": 1205,
+    "Active": 935,
+    "Rejected": 5,
+    "Superseded": 2
+   }
+  },
+  "entry_count": 9659,
+  "lead_stage_counts": {
+   "idea": 139,
+   "specified": 58,
+   "underway": 7,
+   "costed": 1
+  },
+  "lit_status_counts": {
+   "Active": 2133,
+   "Unavailable": 531,
+   "Unfetched": 181,
+   "Deferred": 58,
+   "Proposed": 32,
+   "Rejected": 15,
+   "Superseded": 6
+  },
+  "luria_yaml_lines": 2592,
+  "record_file_count": 10626,
+  "repo_file_count": 11769,
+  "scheme_count": 14,
+  "topic_term_count": 69,
+  "vocabulary_count": 20,
+  "vocabulary_term_counts": {
+   "topics": 69,
+   "lit-statuses": 7,
+   "note-statuses": 4,
+   "theory-statuses": 5,
+   "synthesis-statuses": 3,
+   "statuses": 5,
+   "adr-tags": 4,
+   "claim-roles": 5,
+   "claim-warrants": 3,
+   "case-standing": 3,
+   "case-kinds": 6,
+   "arg-forms": 11,
+   "lead-statuses": 4,
+   "lead-stages": 4,
+   "lead-priorities": 3,
+   "lead-methods": 6,
+   "postmortem-statuses": 3,
+   "question-statuses": 5,
+   "lines": 18,
+   "works": 11
+  },
+  "census_agreement": {
+   "n": 30,
+   "fields": {
+    "grammar_change": {
+     "agreement": 0.9666666666666667,
+     "kappa": 0.9230769230769231
+    },
+    "regime": {
+     "agreement": 0.9,
+     "kappa": 0.8392857142857143
+    },
+    "trigger": {
+     "agreement": 0.8666666666666667,
+     "kappa": 0.8070739549839229
+    },
+    "noticer": {
+     "agreement": 0.8666666666666667,
+     "kappa": 0.8243045387994145
+    },
+    "proposer": {
+     "agreement": 0.9,
+     "kappa": 0.847715736040609
+    },
+    "decider": {
+     "agreement": 1.0,
+     "kappa": 1.0
+    },
+    "ratification": {
+     "agreement": 1.0,
+     "kappa": 1.0
+    },
+    "residue": {
+     "agreement": 0.7333333333333333,
+     "kappa": 0.6470588235294117
+    },
+    "outcome": {
+     "agreement": 0.7666666666666667,
+     "kappa": 0.3768545994065284
+    },
+    "level": {
+     "mean_jaccard": 0.7722222222222223
+    },
+    "operation": {
+     "mean_jaccard": 0.7522222222222222
+    },
+    "component": {
+     "mean_jaccard": 0.8833333333333333
+    }
+   }
+  },
+  "census_coverage": {
+   "decisions_in_record": 127,
+   "decisions_coded": 114,
+   "uncoded_count": 13,
+   "uncoded": [
+    "ADR-115",
+    "ADR-116",
+    "ADR-117",
+    "ADR-118",
+    "ADR-119",
+    "ADR-120",
+    "ADR-121",
+    "ADR-122",
+    "ADR-123",
+    "ADR-124",
+    "ADR-125",
+    "ADR-126",
+    "ADR-127"
+   ],
+   "coded_not_in_record": [],
+   "last_coded_date": "2026-11-20"
+  },
+  "census_status_drift": {
+   "changed_count": 34,
+   "changed": {
+    "ADR-068": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-075": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-078": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-079": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-081": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-082": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-083": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-084": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-085": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-086": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-087": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-088": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-089": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-090": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-091": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-092": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-093": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-094": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-095": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-096": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-097": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-098": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-099": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-100": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-101": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-102": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-103": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-104": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-105": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-106": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-109": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-111": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-113": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-114": {
+     "coded": "Proposed",
+     "now": "Active"
+    }
+   }
+  },
+  "census_summary": {
+   "decisions_coded": 114,
+   "grammar_changes": 88,
+   "regime": {
+    "refine": 62,
+    "revise": 25,
+    "restraint": 1
+   },
+   "component": {
+    "language": 77,
+    "criteria": 17,
+    "observations": 15,
+    "answer_space": 14,
+    "resources": 5,
+    "interventions": 3
+   },
+   "operation": {
+    "add": 78,
+    "remove": 5,
+    "redefine": 12,
+    "decline": 9,
+    "narrow": 8,
+    "rename": 2,
+    "split": 9,
+    "widen": 13,
+    "other": 1,
+    "withdraw": 1
+   },
+   "residue": {
+    "unknown": 4,
+    "false_statement": 4,
+    "forced_category": 43,
+    "prose_only": 20,
+    "prospective": 17
+   },
+   "outcome": {
+    "in_force": 76,
+    "reversed": 4,
+    "superseded": 1,
+    "rejected": 1,
+    "unknown": 6
+   },
+   "by_period": {
+    "regime": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "refine": 37,
+      "restraint": 0,
+      "revise": 6
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "refine": 8,
+      "restraint": 1,
+      "revise": 11
+     },
+     "6-20 Nov": {
+      "n": 25,
+      "refine": 17,
+      "restraint": 0,
+      "revise": 8
+     }
+    },
+    "level": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "field": 5,
+      "line": 3,
+      "lint": 2,
+      "process": 4,
+      "relation": 6,
+      "scheme": 3,
+      "status": 2,
+      "term": 24,
+      "view": 2,
+      "vocabulary": 35
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "field": 3,
+      "line": 1,
+      "lint": 5,
+      "process": 5,
+      "relation": 5,
+      "scheme": 1,
+      "status": 4,
+      "term": 1,
+      "view": 3,
+      "vocabulary": 8
+     },
+     "6-20 Nov": {
+      "n": 25,
+      "field": 8,
+      "line": 6,
+      "lint": 2,
+      "process": 2,
+      "relation": 13,
+      "scheme": 4,
+      "status": 5,
+      "term": 6,
+      "view": 8,
+      "vocabulary": 4
+     }
+    },
+    "trigger": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "assistant_in_session": 1,
+      "external_assistant": 1,
+      "filing_agent": 13,
+      "incident": 1,
+      "owner_request": 24,
+      "review_or_audit": 3,
+      "unknown": 0
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "assistant_in_session": 1,
+      "external_assistant": 3,
+      "filing_agent": 1,
+      "incident": 1,
+      "owner_request": 8,
+      "review_or_audit": 5,
+      "unknown": 1
+     },
+     "6-20 Nov": {
+      "n": 25,
+      "assistant_in_session": 1,
+      "external_assistant": 0,
+      "filing_agent": 3,
+      "incident": 0,
+      "owner_request": 10,
+      "review_or_audit": 11,
+      "unknown": 0
+     }
+    },
+    "noticer": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "assistant": 1,
+      "external_assistant": 0,
+      "filing_agent": 16,
+      "owner": 9,
+      "review_process": 4,
+      "unknown": 13
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "assistant": 3,
+      "external_assistant": 1,
+      "filing_agent": 1,
+      "owner": 10,
+      "review_process": 4,
+      "unknown": 1
+     },
+     "6-20 Nov": {
+      "n": 25,
+      "assistant": 2,
+      "external_assistant": 0,
+      "filing_agent": 3,
+      "owner": 7,
+      "review_process": 12,
+      "unknown": 1
+     }
+    },
+    "proposer": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "assistant": 8,
+      "external_assistant": 1,
+      "filing_agent": 9,
+      "owner": 15,
+      "review_process": 0,
+      "unknown": 10
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "assistant": 9,
+      "external_assistant": 1,
+      "filing_agent": 0,
+      "owner": 8,
+      "review_process": 0,
+      "unknown": 2
+     },
+     "6-20 Nov": {
+      "n": 25,
+      "assistant": 10,
+      "external_assistant": 0,
+      "filing_agent": 1,
+      "owner": 9,
+      "review_process": 1,
+      "unknown": 4
+     }
+    },
+    "ratification": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "explicit": 22,
+      "merge_assent": 0,
+      "none_recorded": 17,
+      "standing_permission": 4
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "explicit": 14,
+      "merge_assent": 3,
+      "none_recorded": 1,
+      "standing_permission": 2
+     },
+     "6-20 Nov": {
+      "n": 25,
+      "explicit": 12,
+      "merge_assent": 1,
+      "none_recorded": 12,
+      "standing_permission": 0
+     }
+    }
+   },
+   "noticer_by_regime": {
+    "review_process / refine": 12,
+    "filing_agent / revise": 2,
+    "filing_agent / refine": 18,
+    "unknown / refine": 14,
+    "owner / revise": 13,
+    "owner / refine": 12,
+    "assistant / refine": 5,
+    "review_process / revise": 8,
+    "external_assistant / refine": 1,
+    "owner / restraint": 1,
+    "unknown / revise": 1,
+    "assistant / revise": 1
+   },
+   "decider": {
+    "owner": 49,
+    "unknown": 31,
+    "assistant": 6,
+    "review_process": 2
+   },
+   "ratification": {
+    "explicit": 48,
+    "none_recorded": 30,
+    "standing_permission": 6,
+    "merge_assent": 4
+   },
+   "migrations_stated": 58,
+   "entries_migrated": 2664,
+   "migration_median": 6,
+   "later_harm": [
+    "ADR-015",
+    "ADR-043",
+    "ADR-047",
+    "ADR-057",
+    "ADR-076",
+    "ADR-077",
+    "ADR-090",
+    "ADR-104",
+    "ADR-107",
+    "ADR-109"
+   ]
+  },
+  "commit_counts": {
+   "all": 3651,
+   "non_merge": 2955,
+   "non_merge_bot": 1047
+  },
+  "growth_snapshots": {
+   "2026-09-25": {
+    "commit": "f5c040c6a",
+    "date": "2026-09-25T22:46:52+00:00",
+    "repo_files": 315,
+    "record_files": 214,
+    "schemes": 5,
+    "vocabularies": 6,
+    "topic_terms": 19,
+    "luria_yaml_lines": 481
+   },
+   "2026-10-15": {
+    "commit": "b84ad2e37",
+    "date": "2026-10-15T20:01:25+00:00",
+    "repo_files": 4072,
+    "record_files": 3419,
+    "schemes": 10,
+    "vocabularies": 14,
+    "topic_terms": 62,
+    "luria_yaml_lines": 1468
+   },
+   "2026-11-01": {
+    "commit": "55cd0d814",
+    "date": "2026-11-01T17:12:06+00:00",
+    "repo_files": 7597,
+    "record_files": 6875,
+    "schemes": 10,
+    "vocabularies": 14,
+    "topic_terms": 67,
+    "luria_yaml_lines": 1736
+   },
+   "2026-11-19": {
+    "commit": "eed84a74e",
+    "date": "2026-11-19T22:19:12+00:00",
+    "repo_files": 11112,
+    "record_files": 10058,
+    "schemes": 12,
+    "vocabularies": 18,
+    "topic_terms": 69,
+    "luria_yaml_lines": 2379
+   }
+  },
+  "record_rates_report": [
+   "history: 2955 non-merge commits over 74.3 days (2026-09-08 to 2026-11-21); authored 1908, bot 1047",
+   "",
+   "Documents (rate of change per document-day; tau = 1/rate):",
+   "  CLAIM body (authored)              objects=  795 changed= 87% changes= 3099 object-days=    21739 rate=0.1426/day tau=     7.0 d; within a day of filing 31%; settled tau=    9.7 d",
+   "  CLAIM status (authored)            objects=  795 changed= 36% changes=  306 object-days=    21739 rate=0.0141/day tau=    71.0 d; within a day of filing 26%; settled tau=   92.8 d",
+   "  CLAIM edge (authored)              objects=  795 changed= 67% changes= 1274 object-days=    21739 rate=0.0586/day tau=    17.1 d; within a day of filing 25%; settled tau=   21.9 d",
+   "  CLAIM body (bot repair)            objects=  795 changed=100% changes= 3758 object-days=    21739 rate=0.1729/day tau=     5.8 d",
+   "  THEORY body (authored)             objects= 2147 changed= 48% changes= 2036 object-days=    51423 rate=0.0396/day tau=    25.3 d; within a day of filing 28%; settled tau=   33.5 d",
+   "  THEORY status (authored)           objects= 2147 changed= 23% changes=  487 object-days=    51423 rate=0.0095/day tau=   105.6 d; within a day of filing 38%; settled tau=  162.7 d",
+   "  THEORY edge (authored)             objects= 2147 changed= 42% changes= 1375 object-days=    51423 rate=0.0267/day tau=    37.4 d; within a day of filing 9%; settled tau=   39.6 d",
+   "  THEORY body (bot repair)           objects= 2147 changed=100% changes= 4610 object-days=    51423 rate=0.0896/day tau=    11.2 d",
+   "  LIT body (authored)                objects= 2956 changed= 60% changes= 2874 object-days=    85791 rate=0.0335/day tau=    29.9 d; within a day of filing 51%; settled tau=   58.4 d",
+   "  LIT status (authored)              objects= 2956 changed= 46% changes= 1455 object-days=    85791 rate=0.0170/day tau=    59.0 d; within a day of filing 61%; settled tau=  146.6 d",
+   "  LIT edge (authored)                objects= 2956 changed=  2% changes=   55 object-days=    85791 rate=0.0006/day tau=  1559.8 d; within a day of filing 51%; settled tau= 3068.4 d",
+   "  LIT body (bot repair)              objects= 2956 changed= 99% changes= 5284 object-days=    85791 rate=0.0616/day tau=    16.2 d",
+   "  QUESTION body (authored)           objects=  505 changed= 53% changes=  945 object-days=    13423 rate=0.0704/day tau=    14.2 d; within a day of filing 30%; settled tau=   19.7 d",
+   "  QUESTION status (authored)         objects=  505 changed=  1% changes=    6 object-days=    13423 rate=0.0004/day tau=  2237.1 d; within a day of filing 17%; settled tau= 2584.4 d",
+   "  QUESTION edge (authored)           objects=  505 changed=  3% changes=   17 object-days=    13423 rate=0.0013/day tau=   789.6 d; within a day of filing 29%; settled tau= 1076.8 d",
+   "  QUESTION body (bot repair)         objects=  505 changed=100% changes= 1626 object-days=    13423 rate=0.1211/day tau=     8.3 d",
+   "  TERM body (authored)               objects=  134 changed= 78% changes=  350 object-days=     3960 rate=0.0884/day tau=    11.3 d; within a day of filing 30%; settled tau=   15.6 d",
+   "  TERM status (authored)             objects=  134 changed= 25% changes=   34 object-days=     3960 rate=0.0086/day tau=   116.5 d; within a day of filing 41%; settled tau=  191.4 d",
+   "  TERM edge (authored)               objects=  134 changed= 54% changes=  104 object-days=     3960 rate=0.0263/day tau=    38.1 d; within a day of filing 9%; settled tau=   40.3 d",
+   "  TERM body (bot repair)             objects=  134 changed=100% changes=  593 object-days=     3960 rate=0.1497/day tau=     6.7 d",
+   "  CASE body (authored)               objects=  300 changed= 66% changes=  534 object-days=     7750 rate=0.0689/day tau=    14.5 d; within a day of filing 34%; settled tau=   21.2 d",
+   "  CASE status (authored)             objects=  300 changed=  5% changes=   15 object-days=     7750 rate=0.0019/day tau=   516.7 d; within a day of filing 33%; settled tau=  745.2 d",
+   "  CASE edge (authored)               objects=  300 changed= 42% changes=  183 object-days=     7750 rate=0.0236/day tau=    42.4 d; within a day of filing 16%; settled tau=   48.4 d",
+   "  CASE body (bot repair)             objects=  300 changed=100% changes=  973 object-days=     7750 rate=0.1255/day tau=     8.0 d",
+   "  ALL body (authored)                objects= 9660 changed= 57% changes=12159 object-days=   256526 rate=0.0474/day tau=    21.1 d; within a day of filing 37%; settled tau=   32.4 d",
+   "  ALL status (authored)              objects= 9660 changed= 26% changes= 2667 object-days=   256526 rate=0.0104/day tau=    96.2 d; within a day of filing 53%; settled tau=  199.0 d",
+   "  ALL edge (authored)                objects= 9660 changed= 19% changes= 3159 object-days=   256526 rate=0.0123/day tau=    81.2 d; within a day of filing 19%; settled tau=   96.3 d",
+   "  ALL body (bot repair)              objects= 9660 changed= 99% changes=22685 object-days=   256526 rate=0.0884/day tau=    11.3 d",
+   "",
+   "Authored relation instances (edges):",
+   "  declared=18075 removed=1283 standing=16785",
+   "  removals per edge-day=0.00361 tau=277 d; removed edges lived: median=6.07 d",
+   "",
+   "Grammar (luria.yaml), per declared piece:",
+   "  scheme declarations                objects=   14 changed=  0% changes=    0 object-days=      516 rate=0.0000/day tau=     inf d",
+   "  relation declarations              objects=  119 changed= 22% changes=   67 object-days=     3459 rate=0.0194/day tau=    51.6 d",
+   "  field declarations                 objects=   63 changed= 19% changes=   38 object-days=     2056 rate=0.0185/day tau=    54.1 d",
+   "  commits changing any scheme, relation type or field: 38 (0.51/day)",
+   "  commits changing a vocabulary: 68 (0.91/day): arg-forms 3, case-kinds 1, case-standing 1, claim-roles 1, claim-warrants 1, lead-methods 1, lead-priorities 1, lead-stages 2, lead-statuses 1, lines 15, lit-statuses 2, postmortem-statuses 1, question-statuses 1, synthesis-admission 4, synthesis-routes 4, synthesis-statuses 5, topics 35, works 8",
+   "  luria version pin changes: 10",
+   "  scheme filed on days: [18, 18, 18, 18, 18, 31, 31, 31, 31, 31, 60, 73, 73, 74]",
+   "  relation filed on days: [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 25, 25, 28, 28, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 37, 37, 41, 41, 41, 41, 45, 45, 45, 45, 50, 50, 50, 50, 50, 50, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 61, 64, 64, 64, 64, 64, 64, 64, 64, 65, 65, 65, 65, 65, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 74, 74, 74]",
+   "  field filed on days: [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 36, 38, 50, 60, 60, 60, 60, 60, 60, 60, 60, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 73, 74, 74, 74, 74]"
+  ],
+  "schema_rates_report": [
+   "nucleation-analytics: luria.yaml from 2026-09-25 to 2026-11-21 (56.5 days); declared now: term 179, vocabulary 20, member 170, scheme 14, remote 6",
+   "",
+   "Rates, by level (all events since luria.yaml was first written):",
+   "  doc added              events= 9647 per day= 170.68 days with one= 55 of   57 median gap= 1.0 d gap CV=0.22 first half/second half=4498/5149",
+   "  term added             events=  188 per day=   3.33 days with one= 31 of   57 median gap= 1.0 d gap CV=0.74 first half/second half=136/52",
+   "  term changed           events=   34 per day=   0.60 days with one= 18 of   57 median gap= 2.0 d gap CV=0.88 first half/second half=8/26",
+   "  term removed           events=    9 per day=   0.16 days with one=  4 of   57 median gap= 1.0 d gap CV=1.30 first half/second half=2/7",
+   "  vocabulary added       events=   22 per day=   0.39 days with one=  7 of   57 median gap= 9.5 d gap CV=0.81 first half/second half=14/8",
+   "  vocabulary removed     events=    2 per day=   0.04 days with one=  1 of   57 median gap= nan d gap CV= nan first half/second half=0/2",
+   "  member added           events=  182 per day=   3.22 days with one= 18 of   57 median gap= 2.0 d gap CV=0.81 first half/second half=107/75",
+   "  member changed         events=  140 per day=   2.48 days with one= 21 of   57 median gap= 1.0 d gap CV=0.96 first half/second half=26/114",
+   "  member removed         events=   12 per day=   0.21 days with one=  2 of   57 median gap=32.0 d gap CV= nan first half/second half=1/11",
+   "  scheme added           events=   14 per day=   0.25 days with one=  6 of   57 median gap=12.0 d gap CV=0.96 first half/second half=10/4",
+   "  remote added           events=    6 per day=   0.11 days with one=  2 of   57 median gap=16.0 d gap CV= nan first half/second half=6/0",
+   "  remote changed         events=    1 per day=   0.02 days with one=  1 of   57 median gap= nan d gap CV= nan first half/second half=1/0",
+   "",
+   "Rates, by level (the first luria.yaml commit left out):",
+   "  doc added              events= 9640 per day= 170.55 days with one= 55 of   57 median gap= 1.0 d gap CV=0.22 first half/second half=4491/5149",
+   "  term added             events=  156 per day=   2.76 days with one= 31 of   57 median gap= 1.0 d gap CV=0.74 first half/second half=104/52",
+   "  term changed           events=   34 per day=   0.60 days with one= 18 of   57 median gap= 2.0 d gap CV=0.88 first half/second half=8/26",
+   "  term removed           events=    9 per day=   0.16 days with one=  4 of   57 median gap= 1.0 d gap CV=1.30 first half/second half=2/7",
+   "  vocabulary added       events=   16 per day=   0.28 days with one=  6 of   57 median gap= 7.0 d gap CV=0.93 first half/second half=8/8",
+   "  vocabulary removed     events=    2 per day=   0.04 days with one=  1 of   57 median gap= nan d gap CV= nan first half/second half=0/2",
+   "  member added           events=  154 per day=   2.72 days with one= 17 of   57 median gap= 2.0 d gap CV=0.82 first half/second half=79/75",
+   "  member changed         events=  140 per day=   2.48 days with one= 21 of   57 median gap= 1.0 d gap CV=0.96 first half/second half=26/114",
+   "  member removed         events=   12 per day=   0.21 days with one=  2 of   57 median gap=32.0 d gap CV= nan first half/second half=1/11",
+   "  scheme added           events=    9 per day=   0.16 days with one=  5 of   57 median gap= 6.5 d gap CV=1.09 first half/second half=5/4",
+   "  remote added           events=    1 per day=   0.02 days with one=  1 of   57 median gap= nan d gap CV= nan first half/second half=1/0",
+   "  remote changed         events=    1 per day=   0.02 days with one=  1 of   57 median gap= nan d gap CV= nan first half/second half=1/0",
+   "",
+   "How each declaration came in (share of the units of work that declared one):",
+   "  baseline   units=474 filing documents= 85% touching an ADR= 27% adding an ADR= 20%  (every pull request touching the record)",
+   "  term       units= 52 filing documents=100% touching an ADR= 96% adding an ADR= 94% ",
+   "  vocabulary units=  7 filing documents=100% touching an ADR=100% adding an ADR= 86% also adding a term=100%",
+   "  member     units= 22 filing documents=100% touching an ADR=100% adding an ADR= 95% also adding a term= 50% also adding a vocabulary= 32%",
+   "  scheme     units=  6 filing documents=100% touching an ADR=100% adding an ADR=100% also adding a term= 83% also adding a vocabulary= 83% also adding a member=100%",
+   "  remote     units=  2 filing documents=100% touching an ADR=100% adding an ADR=100% also adding a term= 50% also adding a vocabulary= 50% also adding a member= 50% also adding a scheme= 50%",
+   "  terms added after the first hour: 156; used in the frontmatter of a document the same unit changed: 89%"
+  ],
+  "term_change_summary": {
+   "events": 34,
+   "by_kind": {
+    "changed": 25,
+    "removed": 9
+   },
+   "adr_in_unit": 34,
+   "unit_is_commit": 1,
+   "untouched_with_carriers": [
+    "topics:anthology-candidate",
+    "topics:ecology"
+   ],
+   "events_list": [
+    {
+     "date": "2026-10-02",
+     "commit": "6b856b652",
+     "pr": 70,
+     "vocabulary": "topics",
+     "term": "identity",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 41,
+     "carriers_touched": 41
+    },
+    {
+     "date": "2026-10-02",
+     "commit": "9e196e4f4",
+     "pr": 70,
+     "vocabulary": "topics",
+     "term": "identity",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 41,
+     "carriers_touched": 41
+    },
+    {
+     "date": "2026-10-03",
+     "commit": "309687463",
+     "pr": 80,
+     "vocabulary": "topics",
+     "term": "agency",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 79,
+     "carriers_touched": 42
+    },
+    {
+     "date": "2026-10-03",
+     "commit": "309687463",
+     "pr": 80,
+     "vocabulary": "topics",
+     "term": "individuation",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 57,
+     "carriers_touched": 36
+    },
+    {
+     "date": "2026-10-03",
+     "commit": "309687463",
+     "pr": 80,
+     "vocabulary": "topics",
+     "term": "self-and-personhood",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 42,
+     "carriers_touched": 42
+    },
+    {
+     "date": "2026-10-09",
+     "commit": "9ed7192ce",
+     "pr": 111,
+     "vocabulary": "topics",
+     "term": "learning-theory",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 92,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-10-13",
+     "commit": "e5c862888",
+     "pr": 137,
+     "vocabulary": "lit-statuses",
+     "term": "Deferred",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 345,
+     "carriers_touched": 177
+    },
+    {
+     "date": "2026-10-13",
+     "commit": "38a7ccfbc",
+     "pr": 141,
+     "vocabulary": "case-standing",
+     "term": "stipulated",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 35,
+     "carriers_touched": 35
+    },
+    {
+     "date": "2026-10-19",
+     "commit": "84a4e06f9",
+     "pr": 247,
+     "vocabulary": "topics",
+     "term": "anthology-candidate",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 237,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-10-21",
+     "commit": "c58bf0f4f",
+     "pr": null,
+     "vocabulary": "question-statuses",
+     "term": "Answered",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-10-25",
+     "commit": "7a0c6ca9b",
+     "pr": 331,
+     "vocabulary": "lit-statuses",
+     "term": "Unavailable",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 323,
+     "carriers_touched": 35
+    },
+    {
+     "date": "2026-10-27",
+     "commit": "f61c6076e",
+     "pr": 339,
+     "vocabulary": "topics",
+     "term": "ecology",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 50,
+     "carriers_touched": 13
+    },
+    {
+     "date": "2026-10-28",
+     "commit": "67157a67e",
+     "pr": 335,
+     "vocabulary": "topics",
+     "term": "ecology",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 37,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-07",
+     "commit": "8ef81fb31",
+     "pr": 422,
+     "vocabulary": "synthesis-statuses",
+     "term": "Proposed",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 5,
+     "carriers_touched": 5
+    },
+    {
+     "date": "2026-11-07",
+     "commit": "8ef81fb31",
+     "pr": 422,
+     "vocabulary": "synthesis-statuses",
+     "term": "Unadmitted",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-07",
+     "commit": "8235cc101",
+     "pr": 440,
+     "vocabulary": "lines",
+     "term": "nucleating-argument",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 82,
+     "carriers_touched": 44
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Current",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 2,
+     "carriers_touched": 2
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Proposed",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 15,
+     "carriers_touched": 15
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Rejected",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Superseded",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-admission",
+     "term": "admitted",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 12,
+     "carriers_touched": 12
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-admission",
+     "term": "unadmitted",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 5,
+     "carriers_touched": 5
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-routes",
+     "term": "hypothesis",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 9,
+     "carriers_touched": 9
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-routes",
+     "term": "derived",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 3,
+     "carriers_touched": 3
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-routes",
+     "term": "integration",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "4723fe658",
+     "pr": 442,
+     "vocabulary": "lines",
+     "term": "nucleating-argument",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 48,
+     "carriers_touched": 5
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "4723fe658",
+     "pr": 442,
+     "vocabulary": "lines",
+     "term": "records-of-inquiry",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 25,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "4723fe658",
+     "pr": 442,
+     "vocabulary": "lines",
+     "term": "record-as-apparatus",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 20,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-10",
+     "commit": "d196064da",
+     "pr": 452,
+     "vocabulary": "lines",
+     "term": "readiness",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 85,
+     "carriers_touched": 34
+    },
+    {
+     "date": "2026-11-11",
+     "commit": "eb9e3dadc",
+     "pr": 460,
+     "vocabulary": "lines",
+     "term": "will-organization",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 220,
+     "carriers_touched": 30
+    },
+    {
+     "date": "2026-11-15",
+     "commit": "01651fbc3",
+     "pr": 506,
+     "vocabulary": "lines",
+     "term": "organizational-normativity",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 76,
+     "carriers_touched": 34
+    },
+    {
+     "date": "2026-11-19",
+     "commit": "44c192ec3",
+     "pr": 528,
+     "vocabulary": "arg-forms",
+     "term": "explication",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 1,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-19",
+     "commit": "fe0aa5921",
+     "pr": 528,
+     "vocabulary": "arg-forms",
+     "term": "explication",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 1,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-20",
+     "commit": "4ff25d9be",
+     "pr": 546,
+     "vocabulary": "lead-stages",
+     "term": "specified",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 4,
+     "carriers_touched": 2
+    }
+   ]
+  }
+ }
+}

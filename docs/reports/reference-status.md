@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1052 documents cited without acknowledgement.** Not listed: 35495 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1060 documents cited without acknowledgement.** Not listed: 35623 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-1149 citations in 836 files await a look; 50 other citations of it are acknowledged.
+1149 citations in 836 files await a look; 51 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-165.md:50`](../../record/cases.d/CASE-165.md)
 - [`record/cases.d/CASE-206.md:26`](../../record/cases.d/CASE-206.md)
@@ -1371,7 +1371,7 @@ A delegated reader keeps running notes in the repository, outside the record, on
 
 A claim moved into the SYNTHESIS scheme keeps its standing and its relations: an admitted Active claim becomes a Current synthesis, and the scheme gains grounds, uses and corroborated_by so that nothing is dropped
 
-41 citations in 35 files await a look; 11 other citations of it are acknowledged.
+41 citations in 35 files await a look; 13 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/admitted.md:18`](../syntheses/admission/admitted.md)
 - [`docs/syntheses/admission/admitted.md:22`](../syntheses/admission/admitted.md)
@@ -1695,7 +1695,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 A decision's status is reviewed for adoption in a protocol of its own: a pass derives, from the record and its tooling, the evidence that each Proposed decision is already in force, sorts them into adopt, adopt after a look, and leave, and puts its recommendations to the owner as a checklist; the owner rules, and the pass changes statuses in its own pull request
 
-34 citations in 34 files await a look; 3 other citations of it are acknowledged.
+34 citations in 34 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-068.md:24`](../../record/decisions.d/ADR-068.md)
 - [`record/decisions.d/ADR-075.md:44`](../../record/decisions.d/ADR-075.md)
@@ -2150,7 +2150,7 @@ Rate differences help make structure and not only mark it: where some degrees of
 
 Syntheses get a scheme of their own, SYNTHESIS, with statuses about the integration, a closed admission route, components whose standing is derived, and a generated current-account view
 
-21 citations in 6 files await a look; 46 other citations of it are acknowledged.
+21 citations in 6 files await a look; 48 other citations of it are acknowledged.
 
 - [`docs/README.md:8`](../README.md)
 - [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
@@ -2365,7 +2365,7 @@ No action is selfless in the sense of aiming at a good that is no self's: what i
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-18 citations in 13 files await a look; 72 other citations of it are acknowledged.
+18 citations in 13 files await a look; 75 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:16`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:26`](../syntheses/role/thesis.md)
@@ -2635,7 +2635,7 @@ The human sense of obligation is internalized pressure from a joint agent 'we' t
 
 The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
 
-16 citations in 10 files await a look; 43 other citations of it are acknowledged.
+16 citations in 10 files await a look; 45 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:13`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:23`](../syntheses/role/thesis.md)
@@ -3292,7 +3292,7 @@ A manuscript should be a view over the argument and not its only copy: a draft w
 
 Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation
 
-12 citations in 8 files await a look; 32 other citations of it are acknowledged.
+12 citations in 8 files await a look; 35 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:17`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:28`](../syntheses/role/thesis.md)
@@ -3442,7 +3442,7 @@ The manuscript argues only that preserving the proposition is insufficient; that
 
 The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
 
-11 citations in 10 files await a look; 83 other citations of it are acknowledged.
+11 citations in 10 files await a look; 84 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:14`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:24`](../syntheses/role/thesis.md)
@@ -4118,7 +4118,7 @@ Detection, Estimation, and Modulation Theory, Part I
 
 learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response
 
-9 citations in 9 files await a look; 24 other citations of it are acknowledged.
+9 citations in 9 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2139.md:89`](../../record/notes.d/NOTE-2139.md)
 - [`record/notes.d/NOTE-2143.md:77`](../../record/notes.d/NOTE-2143.md)
@@ -4244,7 +4244,7 @@ Generated views of the record, fed back into the exchange, become instruments of
 
 Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 
-8 citations in 6 files await a look; 35 other citations of it are acknowledged.
+8 citations in 6 files await a look; 41 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:15`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:25`](../syntheses/role/thesis.md)
@@ -4804,7 +4804,7 @@ A shared interpretation's coherence, its fidelity to evidence and the plurality 
 
 In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured
 
-7 citations in 7 files await a look; 14 other citations of it are acknowledged.
+7 citations in 7 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-298.md:132`](../../record/claims.d/CLAIM-298.md)
 - [`record/literature.d/LIT-1064.md:21`](../../record/literature.d/LIT-1064.md)
@@ -5111,7 +5111,7 @@ Matched ordinary behaviour and differing responses to intervention show that org
 
 Inbound references per code and turns per filed entry show which structures anchor and that drift falls as anchoring keeps up with arrival
 
-6 citations in 2 files await a look; 21 other citations of it are acknowledged.
+6 citations in 2 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-185.md:219`](../../record/claims.d/CLAIM-185.md)
 - [`record/claims.d/CLAIM-185.md:228`](../../record/claims.d/CLAIM-185.md)
@@ -6579,6 +6579,28 @@ Consciousness in an inferring system requires three things: a unified generative
 - [`record/questions.d/QUESTION-255.md:214`](../../record/questions.d/QUESTION-255.md)
 - [`record/theory.d/THEORY-662.md:119`](../../record/theory.d/THEORY-662.md)
 
+### [ADR-115](../../record/decisions.d/ADR-115.md) — Proposed
+
+A RETRO scheme holds retrospectives, reviews of how a change or a stretch of work went, including what went right; POSTMORTEM is kept for something that went wrong; the devlog holds notes taken during the work for the next retrospective; and the existing postmortems become retrospectives
+
+4 citations in 2 files await a look; 25 other citations of it are acknowledged.
+
+- [`CLAUDE.md:40`](../../CLAUDE.md)
+- [`CLAUDE.md:41`](../../CLAUDE.md)
+- [`CLAUDE.md:47`](../../CLAUDE.md)
+- [`record/cases.d/CASE-300.md:186`](../../record/cases.d/CASE-300.md)
+
+### [ADR-116](../../record/decisions.d/ADR-116.md) — Proposed
+
+Work merges into a staging branch through pull requests, and a Promote workflow merges staging into main nightly or on demand, concretizing a batch's temporary codes at once and merging main back; so units cite each other's codes without stacking, and the tooling fits how the work is done
+
+4 citations in 3 files await a look; 13 other citations of it are acknowledged.
+
+- [`CLAUDE.md:143`](../../CLAUDE.md)
+- [`CLAUDE.md:150`](../../CLAUDE.md)
+- [`record/cases.d/CASE-300.md:186`](../../record/cases.d/CASE-300.md)
+- [`record/decisions.d/ADR-127.md:54`](../../record/decisions.d/ADR-127.md)
+
 ### [ARG-022](../../record/arguments.d/ARG-022.md) — Rejected
 
 The 2016 Contextuality-by-Default paper grounds the criterion the manuscript's general observational covers need
@@ -6693,7 +6715,7 @@ Drift is retrieval failure outside a critical distance: a restatement close enou
 
 Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
-4 citations in 4 files await a look; 58 other citations of it are acknowledged.
+4 citations in 4 files await a look; 61 other citations of it are acknowledged.
 
 - [`docs/syntheses/admission/unadmitted.md:14`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:24`](../syntheses/role/thesis.md)
@@ -7646,26 +7668,6 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 - [`record/claims.d/CLAIM-446.md:277`](../../record/claims.d/CLAIM-446.md)
 - [`record/claims.d/CLAIM-451.md:152`](../../record/claims.d/CLAIM-451.md)
 
-### [ADR-115](../../record/decisions.d/ADR-115.md) — Proposed
-
-A RETRO scheme holds retrospectives, reviews of how a change or a stretch of work went, including what went right; POSTMORTEM is kept for something that went wrong; the devlog holds notes taken during the work for the next retrospective; and the existing postmortems become retrospectives
-
-3 citations in 1 file await a look; 24 other citations of it are acknowledged.
-
-- [`CLAUDE.md:40`](../../CLAUDE.md)
-- [`CLAUDE.md:41`](../../CLAUDE.md)
-- [`CLAUDE.md:47`](../../CLAUDE.md)
-
-### [ADR-116](../../record/decisions.d/ADR-116.md) — Proposed
-
-Work merges into a staging branch through pull requests, and a Promote workflow merges staging into main nightly or on demand, concretizing a batch's temporary codes at once and merging main back; so units cite each other's codes without stacking, and the tooling fits how the work is done
-
-3 citations in 2 files await a look; 13 other citations of it are acknowledged.
-
-- [`CLAUDE.md:143`](../../CLAUDE.md)
-- [`CLAUDE.md:150`](../../CLAUDE.md)
-- [`record/decisions.d/ADR-127.md:54`](../../record/decisions.d/ADR-127.md)
-
 ### [ARG-002](../../record/arguments.d/ARG-002.md) — Rejected
 
 Interpretive framings change a reader's state as non-commuting measurements do, so the frame participates in determining which meaning becomes actual
@@ -8116,6 +8118,16 @@ A critique of produced wants cannot rest on how they were formed, by whatever pr
 - [`record/claims.d/CLAIM-689.md:36`](../../record/claims.d/CLAIM-689.md)
 - [`record/claims.d/CLAIM-689.md:92`](../../record/claims.d/CLAIM-689.md)
 
+### [CLAIM-790](../../record/claims.d/CLAIM-790.md) — Proposed
+
+In any inquiry, anchoring is one mechanism, a fixed reference that each reconstruction is pulled toward, and what it secures is set by what the reference is tied to: tied to the target by a channel independent of the inquirer, it gives the inquiry's states content and makes a discrepancy register; tied to an earlier state of the inquiry, it gives continuity and not correctness; tied to nothing, it is bias
+
+3 citations in 2 files await a look; 9 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-789.md:117`](../../record/claims.d/CLAIM-789.md)
+- [`record/claims.d/CLAIM-793.md:14`](../../record/claims.d/CLAIM-793.md)
+- [`record/claims.d/CLAIM-793.md:165`](../../record/claims.d/CLAIM-793.md)
+
 ### [LIT-079](../../record/literature.d/LIT-079.md) — Proposed
 
 Causal Claims in Economics
@@ -8312,7 +8324,7 @@ Instabilities and pattern formation in crystal growth
 
 3 citations in 3 files await a look.
 
-- [`record/claims.d/CLAIM-181.md:187`](../../record/claims.d/CLAIM-181.md)
+- [`record/claims.d/CLAIM-181.md:193`](../../record/claims.d/CLAIM-181.md)
 - [`record/claims.d/CLAIM-186.md:34`](../../record/claims.d/CLAIM-186.md)
 - [`record/literature.d/LIT-1664.md:60`](../../record/literature.d/LIT-1664.md)
 
@@ -9000,7 +9012,7 @@ Low supervisory cost shows that an organization does not dominate its processes
 
 Griffiths and Kalish's convergence theorem and Kirby, Cornish and Smith's chains show that serial transmission is filtered by the transmitters' inductive biases
 
-2 citations in 2 files await a look; 9 other citations of it are acknowledged.
+2 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-027.md:76`](../../record/arguments.d/ARG-027.md)
 - [`record/claims.d/CLAIM-090.md:94`](../../record/claims.d/CLAIM-090.md)
@@ -9144,7 +9156,7 @@ Northstar simply prefers speed: the governing relations are revealed preferences
 
 Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
 
-2 citations in 2 files await a look; 39 other citations of it are acknowledged.
+2 citations in 2 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1895.md:65`](../../record/literature.d/LIT-1895.md)
 - [`record/literature.d/LIT-768.md:45`](../../record/literature.d/LIT-768.md)
@@ -9256,6 +9268,15 @@ Where a slowly revised governing level (a statute, an objective, a classificatio
 
 - [`record/claims.d/CLAIM-736.md:189`](../../record/claims.d/CLAIM-736.md)
 - [`record/terms.d/TERM-124.md:150`](../../record/terms.d/TERM-124.md)
+
+### [CLAIM-791](../../record/claims.d/CLAIM-791.md) — Proposed
+
+In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone
+
+2 citations in 2 files await a look.
+
+- [`record/cases.d/CASE-300.md:196`](../../record/cases.d/CASE-300.md)
+- [`record/syntheses.d/SYNTHESIS-115.md:21`](../../record/syntheses.d/SYNTHESIS-115.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -9723,7 +9744,7 @@ Principles of Crystal Nucleation and Growth
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-176.md:29`](../../record/claims.d/CLAIM-176.md)
-- [`record/claims.d/CLAIM-181.md:187`](../../record/claims.d/CLAIM-181.md)
+- [`record/claims.d/CLAIM-181.md:193`](../../record/claims.d/CLAIM-181.md)
 
 ### [LIT-928](../../record/literature.d/LIT-928.md) — Unavailable
 
@@ -9958,6 +9979,15 @@ Does acting as one require that an agent's interests synchronize?
 
 - [`record/claims.d/CLAIM-261.md:25`](../../record/claims.d/CLAIM-261.md)
 - [`record/questions.d/QUESTION-078.md:13`](../../record/questions.d/QUESTION-078.md)
+
+### [RETRO-004](../../record/retrospectives.d/RETRO-004.md) — Draft
+
+The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme
+
+2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+
+- [`record/retrospectives.d/RETRO-006.md:150`](../../record/retrospectives.d/RETRO-006.md)
+- [`record/retrospectives.d/RETRO-006.md:193`](../../record/retrospectives.d/RETRO-006.md)
 
 ### [SYNTHESIS-021](../../record/syntheses.d/SYNTHESIS-021.md) — Proposed
 
@@ -10710,7 +10740,7 @@ In a multi-agent system run against a world utility, a private utility is factor
 
 A dialectic regime, switched on and off by the owner and on until switched off: while it is on, the assistant files the argument of the exchange as it goes, reports each filing as it lands, and reverts a filing when the owner interjects, rather than offering to file and waiting to be told; status changes, decisions, configuration, CI, delegated readings, outside services and merges still wait for the owner
 
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`CLAUDE.md:98`](../../CLAUDE.md)
 
@@ -11006,7 +11036,7 @@ Identifying agents by their will-organization is circular: will-organization is 
 
 For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents
 
-1 citation in 1 file awaits a look; 67 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 68 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-139.md:35`](../../record/claims.d/CLAIM-139.md)
 
@@ -11222,7 +11252,7 @@ The duties to comply with a justified rule and to support the institution that a
 
 Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system's own operations and are reused
 
-1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 33 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-2140.md:90`](../../record/notes.d/NOTE-2140.md)
 
@@ -11230,15 +11260,23 @@ Collapsing differences that do not matter into equivalence classes is how those 
 
 That an entry has stopped changing does not show what stopped it: settling is the decay of its contracted features onto the convention, and retention is the start's value on what is copied exactly, so contraction and conservation both settle an entry and are told apart only by retention against a reference fixed outside the record's later restatements, measured as a diagnostic of mechanism and not as a standard of quality
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-133.md:73`](../../record/terms.d/TERM-133.md)
+
+### [CLAIM-772](../../record/claims.d/CLAIM-772.md) — Proposed
+
+Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema
+
+1 citation in 1 file awaits a look; 63 other citations of it are acknowledged.
+
+- [`record/retrospectives.d/RETRO-006.md:71`](../../record/retrospectives.d/RETRO-006.md)
 
 ### [CLAIM-779](../../record/claims.d/CLAIM-779.md) — Proposed
 
 In a linear Gaussian restatement step with per-step noise, the information a feature keeps about its start falls geometrically, as a to the power 2n, where the step contracts the feature, and only as 1/n where the step copies it with error: a feature copied with any error drifts slowly instead of settling, and only a feature copied exactly keeps its start
 
-1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-783.md:74`](../../record/claims.d/CLAIM-783.md)
 
@@ -11246,9 +11284,25 @@ In a linear Gaussian restatement step with per-step noise, the information a fea
 
 For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so after scaling by log(1/ε) the time geometry of the state space converges to that ultrametric, the tree of classes reachable within a budget, and a level of the tree shows in the geometry once the rate ratio across it exceeds max(E, n − 1) squared; that the geometry is hyperbolic with bounded δ is not the content, since the logarithm of any metric is nearly an ultrametric
 
-1 citation in 1 file awaits a look; 37 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 38 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-787.md:103`](../../record/claims.d/CLAIM-787.md)
+
+### [CLAIM-789](../../record/claims.d/CLAIM-789.md) — Proposed
+
+In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-793.md:155`](../../record/claims.d/CLAIM-793.md)
+
+### [CLAIM-792](../../record/claims.d/CLAIM-792.md) — Proposed
+
+In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/claims.d/CLAIM-794.md:83`](../../record/claims.d/CLAIM-794.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -12104,7 +12158,7 @@ The two-step mechanism of nucleation of crystals in solution
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-181.md:187`](../../record/claims.d/CLAIM-181.md)
+- [`record/claims.d/CLAIM-181.md:193`](../../record/claims.d/CLAIM-181.md)
 
 ### [NOTE-1716](../../record/notes.d/NOTE-1716.md) — Skimmed
 
@@ -12194,6 +12248,14 @@ boyd (2008), Taken Out of Context: collapsed contexts
 
 - [`record/claims.d/CLAIM-317.md:37`](../../record/claims.d/CLAIM-317.md)
 
+### [POSTMORTEM-002](../../record/postmortems.d/POSTMORTEM-002.md) — Superseded
+
+The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme
+
+1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-789.md:73`](../../record/claims.d/CLAIM-789.md)
+
 ### [QUESTION-019](../../record/questions.d/QUESTION-019.md) — Superseded
 
 What is it like to be Microsoft?
@@ -12241,6 +12303,14 @@ A symmetry principle can be borrowed for reconstruction kernels but a conservati
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/syntheses.d/SYNTHESIS-067.md:62`](../../record/syntheses.d/SYNTHESIS-067.md)
+
+### [SYNTHESIS-066](../../record/syntheses.d/SYNTHESIS-066.md) — Proposed
+
+The pragmatic-transport line is twelve part accounts, of communicative kinds, of fidelity relative to receivers, of the communicative object and its obstructions, of what the line adds and how it is tested, of language models as a test bed, of composition in conditional generation, of directed transport by kernels, of the act a rendering keeps besides its proposition, of Saussure's value, of frames and the judgement–observation loop, of reconstruction chains, and of conservation under kernels, with eleven moved promotion conditions integrated directly; the parts meet at what survives a rendering, which most of their questions refine, at the anchoring of a correspondence, at fidelity as a profile and at the frame as a configuration; four claims are filed by derivation and no link between the parts passes the claim test
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/retrospectives.d/RETRO-006.md:135`](../../record/retrospectives.d/RETRO-006.md)
 
 ### [SYNTHESIS-067](../../record/syntheses.d/SYNTHESIS-067.md) — Proposed
 
@@ -12926,7 +12996,7 @@ Kuhn holds that the exemplars of a science, shared concrete problem-solutions, t
 
 Kuhn, as Kindi reads his 1959 essay, holds that innovation in a mature science depends on convergent thinking as much as on divergent, because training that commits a scientist firmly to a tradition is what lets research recognize where the tradition fails and break with it
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-2885.md:42`](../../record/literature.d/LIT-2885.md)
 
@@ -13078,7 +13148,7 @@ If continuant persons are maximal aggregates of person-stages interrelated by th
 
 Social ontology asks two separable questions about a social category: what grounds a fact of that kind, the conditions something must meet, and what anchors those conditions, the facts that put them in place; theories of the field, such as convention, collective acceptance and practice, answer the second, and a theory can be individualist about one and not the other
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-360.md:61`](../../record/questions.d/QUESTION-360.md)
 
