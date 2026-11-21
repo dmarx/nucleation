@@ -2,7 +2,7 @@
 number: 182
 status: Proposed
 formerly:
-- CLAIM-182
+- CLAIM-tmpdj0qe
 title: 'Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses'
 version: 3
 history:

@@ -2,7 +2,7 @@
 number: 183
 status: Proposed
 formerly:
-- CLAIM-183
+- CLAIM-tmpors2p
 title: 'Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism'
 version: 4
 history:

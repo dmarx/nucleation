@@ -2,7 +2,7 @@
 number: 195
 status: Active
 formerly:
-- CLAIM-195
+- CLAIM-tmptfikp
 title: 'For an argument, the constraint set that persistence is relative to is fixed by an amendable decision, not discovered: the record stipulates what counts as the same claim persisting, which makes the choice explicit without making it non-arbitrary'
 version: 2
 history:

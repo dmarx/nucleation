@@ -2,7 +2,7 @@
 number: 250
 status: Proposed
 formerly:
-- CLAIM-250
+- CLAIM-tmptwfru
 title: 'What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes'
 version: 2
 history:

@@ -2,7 +2,7 @@
 number: 181
 status: Proposed
 formerly:
-- CLAIM-181
+- CLAIM-tmpas8q0
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
 version: 8
 history:

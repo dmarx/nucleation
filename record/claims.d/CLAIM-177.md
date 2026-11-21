@@ -2,7 +2,7 @@
 number: 177
 status: Active
 formerly:
-- CLAIM-177
+- CLAIM-tmp4qgbo
 title: 'In the record''s exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
 version: 3
 history:

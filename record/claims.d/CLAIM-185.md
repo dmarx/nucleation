@@ -2,7 +2,7 @@
 number: 185
 status: Proposed
 formerly:
-- CLAIM-185
+- CLAIM-tmpu984q
 title: 'The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors'
 version: 3
 history:

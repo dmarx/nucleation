@@ -2,7 +2,7 @@
 number: 786
 status: Proposed
 formerly:
-- CLAIM-786
+- CLAIM-tmpm9ep1
 title: 'Building something is a method of inquiring into it: an artifact made to a specification drawn from a theory tests that theory, and its failures to behave as specified are findings about the theory, not only about the artifact; the record itself, built to study how an argument develops, is inquiry by this method'
 version: 1
 role: thesis
