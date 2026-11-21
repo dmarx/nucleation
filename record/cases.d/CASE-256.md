@@ -35,7 +35,6 @@ summary: >-
   boundaries; or the arrangement constrains without being a duty-bearer,
   and the obligation falls on the agents or roles that maintain it.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-671 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
 # CASE-256: Member and non-member under one arrangement: a person's vulnerability, the controlling actors' capacities and the institutional consequences held fixed, with the person a constituent of the organization in one case and affected by the same arrangement without being a constituent in the other, to test whether membership adds an obligation

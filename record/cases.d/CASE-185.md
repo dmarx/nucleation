@@ -57,7 +57,6 @@ draws_on:
 - THEORY-1132
 - THEORY-1156
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the record's theses and measures this design would test, cited as open -->
 
 # CASE-185: A proposed study: direct and relay translations of one set of source utterances through three languages, to find whether agreement between the routes, the task-relative loss on each route, and the preservation of response to later framing come apart, and whether correspondences fitted between the communities' response structures on some items predict receivers' judgements on held-out items, translators and situations

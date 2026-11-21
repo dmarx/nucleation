@@ -6,8 +6,8 @@
 
 **Taxonomy** — the topic vocabulary and what enforces it.
 
-1 of 3 POSTMORTEM documents. Back to the [full index](../README.md).
+1 of 4 POSTMORTEM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [POSTMORTEM-002](../../../record/postmortems.d/POSTMORTEM-002.md) | The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme | The owner asked on 2026-11-20 for a postmortem of the session's luria.yaml changes. The work vocabulary entry is used and fine. The explication form works but was filed before its source was read, and rewritten twice. The LEAD scheme holds 197 leads but its stage ladder does not discriminate (96 per cent at idea), it has no priority field for triage, question dependencies are unused, leads cannot target theories or terms, there is no blocked state, and its derived converses are declared but never written. Recommendations for one decision, and three process rules. | Draft |
+| [POSTMORTEM-002](../../../record/postmortems.d/POSTMORTEM-002.md) v2 | The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme | The owner asked on 2026-11-20 for a postmortem of the session's luria.yaml changes. The work vocabulary entry is used and fine. The explication form works but was filed before its source was read, and rewritten twice. The LEAD scheme holds 197 leads but its stage ladder does not discriminate (96 per cent at idea), it has no priority field for triage, question dependencies are unused, leads cannot target theories or terms, there is no blocked state, and its derived converses are declared but never written. Recommendations for one decision, and three process rules. | Superseded — by [RETRO-004](../../../record/retrospectives.d/RETRO-004.md) |

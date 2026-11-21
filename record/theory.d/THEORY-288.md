@@ -153,4 +153,3 @@ non-trivial findings are three:
   models with ReLU, an S_n primitive. Bird conjectures that such
   geometries depend on the activation's group. That is untested, and
   [THEORY-021](THEORY-021.md) does not depend on it.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

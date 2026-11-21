@@ -29,7 +29,7 @@ summary: >-
   2026-11-15 from the continuation of the exchange "Explain String
   Theory", and all are Proposed. It maps them and adds nothing.
 ---
-<!-- inactive-ok-file: SYNTHESIS-026 SYNTHESIS-029 SYNTHESIS-034 SYNTHESIS-096 CLAIM-698 CLAIM-696 CASE-270 CASE-272 CLAIM-263 CLAIM-629 THEORY-022 THEORY-1872 — Proposed; the components, the entries they cite and the decisions this account follows -->
+<!-- inactive-ok-file: SYNTHESIS-026 SYNTHESIS-029 SYNTHESIS-034 SYNTHESIS-096 CLAIM-698 CLAIM-696 CASE-270 CASE-272 CLAIM-263 THEORY-022 THEORY-1872 — Proposed; the components, the entries they cite and the decisions this account follows -->
 
 # SYNTHESIS-097: Whether the mathematics of modes applies to learned networks is held as the owner's hypothesis with A's test, which asks that independently justified modes and their couplings out-predict feature, circuit and parameter accounts; the assistant's rule that such a mode must be invariant under the network's function-preserving symmetries, with a construction in which a spectrum over unit order fails it; and one proposed study on modular addition, where the task supplies the modes; nothing in it has been run
 

@@ -23,6 +23,14 @@
 #                  two branches cannot conflict on them. On a fork the
 #                  repair cannot be pushed; the action warns and the lint
 #                  still runs on the repaired tree.
+#   back-merge     on push, after docs-lint: merges main into staging, so
+#                  staging carries the codes docs-generate just concretized,
+#                  however main was changed (a promotion merged by hand, a
+#                  pull request into main, a Promote run). It waits for
+#                  docs-generate because that job's commit is pushed with
+#                  GITHUB_TOKEN and starts no run of its own. A conflict
+#                  leaves this job red and main finished
+#                  (.github/scripts/back-merge.sh).
 #   collect        assembles changelog fragments on a cadence, never
 #                  per-merge (LU-ADR-002 — a per-merge bot commit races
 #                  in-flight rebases, reintroducing the conflict fragments
@@ -103,6 +111,18 @@ jobs:
       - uses: dmarx/luria/actions/lint@main
         with:
           pip-spec: luria==1.10.0
+
+  back-merge:
+    if: github.event_name == 'push'
+    needs: [docs-generate, docs-lint]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: .github/scripts/back-merge.sh
 
   docs-check:
     if: github.event_name == 'pull_request'

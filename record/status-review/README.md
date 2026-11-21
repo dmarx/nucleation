@@ -86,6 +86,13 @@ the NOTEs on its sources. It proposes exact text and edits nothing.
   which sense it means.
 - **An ARG** whose body names its own rejection condition goes Rejected
   when the condition is met.
+- **A CASE** goes Active when it is demonstrated. For a proposed study, that
+  means the study has been run. Trust in its design is what filing it
+  already expresses, so a proposed study that has not been run stays
+  Proposed, however good the design. A claim's `grounds` on the study that
+  would test it stays too: it is not corroboration under ADR-058, and
+  "no evidence yet" is a blocker note, not a reason to drop the edge (the
+  owner's ruling of 2026-11-20, on CASE-223 and CLAIM-617).
 
 **Narrowing.** Narrow a title only to make it promotable, and route every
 clause the narrowing drops by ADR-047's "Where a narrowing's dropped claims

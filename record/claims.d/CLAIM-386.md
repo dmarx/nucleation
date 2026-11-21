@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CLAIM-tmp614wx
 title: 'For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part from the blocks'' own dynamics vanishes iff every block has equal column sums, and then the whole defect is ε·QC(I − VQ)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-781 identifies this claim's
+    coupling ratio with the spacing of a level in a tree-like time geometry. No change of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -34,6 +40,7 @@ summary: >-
 bears_on:
 - QUESTION-221
 ---
+<!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 
 # CLAIM-386: For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part from the blocks' own dynamics vanishes iff every block has equal column sums, and then the whole defect is ε·QC(I − VQ)
 
@@ -108,3 +115,12 @@ aggregate also changes some block. Same structure, not shown to be the
 debate's part–whole relation: Q is a linear map, not a mechanism.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-20: the closure margin as a spacing
+
+[CLAIM-781](CLAIM-781.md) uses this claim's result: the Simon–Ando aggregate closes to
+order ε, the ratio of between-block to within-block coupling. It argues that
+log(1/ε) is also the spacing between the block's level and the next in the
+log commute-time geometry [CLAIM-780](CLAIM-780.md) derives, so the margin by which a
+level closes is the margin by which it shows in the geometry. An application
+of this claim, not a change to it.

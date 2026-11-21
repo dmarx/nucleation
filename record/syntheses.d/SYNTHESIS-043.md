@@ -54,8 +54,8 @@ summary: >-
   [ADR-088](../decisions.d/ADR-088.md)). The account adds nothing of its own; its standing is its
   components'.
 ---
-<!-- inactive-ok-file: SYNTHESIS-106 CLAIM-761 — Proposed; the part account integrated on 2026-11-19 and its hinge -->
-<!-- inactive-ok-file: CLAIM-646 CLAIM-654 CLAIM-663 CLAIM-697 CLAIM-695 CLAIM-699 CLAIM-639 CASE-236 CLAIM-478 ADR-075 ADR-083 ADR-084 ADR-085 ADR-088 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 CLAIM-625 TERM-116 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: SYNTHESIS-106 — Proposed; the part account integrated on 2026-11-19 and its hinge -->
+<!-- inactive-ok-file: CLAIM-646 CLAIM-654 CLAIM-663 CLAIM-697 CLAIM-695 CLAIM-699 CASE-236 CLAIM-478 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 TERM-116 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-010 — Superseded; cited as the entries their claims returned to, and not integrated -->
 
 # SYNTHESIS-043: The realizability line is four accounts, of reaching under resources, of budgeted individuation, of assembly and productive nucleation, and of persisting organized individuals, which meet at the separation of assembling, persisting and regenerating a form; the first three are densely joined, the persistence part points out and receives nothing, and no link between the parts that no part states passes the claim test

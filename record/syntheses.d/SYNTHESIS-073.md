@@ -27,7 +27,7 @@ integrates:
 - CLAIM-335
 - CLAIM-343
 ---
-<!-- inactive-ok-file: ADR-075 THEORY-497 — Proposed; components, decisions and accounts cited with their standing -->
+<!-- inactive-ok-file: THEORY-497 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-079 — Proposed; cited with its standing -->
 
 # SYNTHESIS-073: Granger causality and transfer entropy are predictive quantities relative to a stated information set: complete measurement is not enough for an interventional reading, Granger causation from a macro variable to its micro base has no intervention to stand for, transfer entropy adds synergy to unique information and so is not flow from the source alone, and a ΦID verdict on three or more parts rests on which axiom of redundancy is dropped

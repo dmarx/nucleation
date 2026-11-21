@@ -42,7 +42,7 @@ corroborates:
 bears_on:
 - QUESTION-453
 ---
-<!-- inactive-ok-file: CLAIM-491 THEORY-655 ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
+<!-- inactive-ok-file: CLAIM-491 THEORY-655 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the kin domain it credits to "Hamilton, 1964" -->
 

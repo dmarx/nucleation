@@ -54,7 +54,6 @@ bears_on:
 bounds:
 - CLAIM-369
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1162: In a consumer-resource model whose species-resource benefits and impacts have correlation rho, the replica-symmetric cavity fixed point loses stability where rho squared equals surviving species over non-depleted resources
 

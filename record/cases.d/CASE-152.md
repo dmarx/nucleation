@@ -35,7 +35,6 @@ draws_on:
 - THEORY-082
 - THEORY-087
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-152: Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength of an attempted influence and b the receiver's responsiveness, the settings (a, b) = (0, 1) and (1, 0) give the same response distribution; K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at the origin, and the real log canonical threshold is ½ with multiplicity 2, not the regular d/2 = 1, while changing b with a held fixed separates the two
 

@@ -59,7 +59,6 @@ corroborates:
 bears_on:
 - QUESTION-398
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-2140 — Unavailable; cited from the reading of Watson (1995) as open -->
 
 # THEORY-1473: Watson finds, across seven Brazilian cities, that condominial sewerage cost a third to a quarter of conventional sewerage and performed as well in about half the cases, that upkeep devolved to residents' blocks rarely worked, and that the systems lasted where agencies kept up trunk maintenance, monitoring, education and backup on feeder lines in face-to-face contact with residents and decayed where agencies withdrew from or refused the networks

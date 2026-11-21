@@ -233,7 +233,6 @@ suggested, and is [QUESTION-317](../questions.d/QUESTION-317.md)'s:
   permutation. Lubana et al.'s mechanism barriers name the case its account
   leaves out. This is for the coordinator to report there; the anthology is
   not edited from here.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
 
 ## Note of 2026-11-15: orthogonal and spectral quantities in merging that are not this symmetry
 

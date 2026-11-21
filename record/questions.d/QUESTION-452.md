@@ -23,7 +23,6 @@ summary: >-
   slowly. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; the reading review that raised it -->
 
 # QUESTION-452: Does keeping a maintained organization precise cost dissipation in proportion to the precision, so that how exactly a self-maintaining structure holds its state is bounded by what it spends, and does that bound separate organizations that persist from structures that merely last?
 

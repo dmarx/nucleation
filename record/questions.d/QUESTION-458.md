@@ -24,7 +24,7 @@ summary: >-
   the owner's; the comparison class and the test are A's, and adopting
   them is the owner's call.
 ---
-<!-- inactive-ok-file: SYNTHESIS-012 CLAIM-181 ADR-084 — Proposed; the record's own account of its grammar, cited as open -->
+<!-- inactive-ok-file: SYNTHESIS-012 CLAIM-181 — Proposed; the record's own account of its grammar, cited as open -->
 <!-- inactive-ok-file: LIT-2305 LIT-2291 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-2507 LIT-2475 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CLAIM-667 CASE-253 — filed from the same exchange, Proposed -->

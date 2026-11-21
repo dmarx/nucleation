@@ -53,7 +53,6 @@ summary: >-
   relations, not branching identity, and rests on one documented case
   with no data on how supporters divided.
 ---
-<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
 
 # CLAIM-328: When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity

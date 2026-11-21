@@ -24,7 +24,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 CLAIM-491 CLAIM-603 — Proposed; the reading review that raised it, and the claims it asks about -->
+<!-- inactive-ok-file: CLAIM-491 CLAIM-603 — Proposed; the reading review that raised it, and the claims it asks about -->
 
 # QUESTION-453: When partners in an organization cooperate at a cost to themselves, which of the evolutionary routes to cooperation, relatedness, repeated meeting or conventions backed by retaliation, does its structure realize, and does any of them need the extended self the owner's thesis posits?
 

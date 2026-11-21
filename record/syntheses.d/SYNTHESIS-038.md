@@ -183,15 +183,14 @@ summary: >-
   with this line's. The account adds nothing of its own; its standing is
   its components'.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 SYNTHESIS-095 SYNTHESIS-092 SYNTHESIS-093 — Proposed; the split and its line rule, and the new line's account and part accounts, cited at version 5 -->
-<!-- inactive-ok-file: ADR-083 ADR-084 ADR-089 ARG-063 CASE-239 CASE-241 CLAIM-511 CLAIM-608 CLAIM-650 CLAIM-652 — Proposed; decisions, components and citations, with their standing -->
+<!-- inactive-ok-file: SYNTHESIS-095 SYNTHESIS-092 SYNTHESIS-093 — Proposed; the split and its line rule, and the new line's account and part accounts, cited at version 5 -->
+<!-- inactive-ok-file: ARG-063 CASE-239 CASE-241 CLAIM-511 CLAIM-608 CLAIM-650 CLAIM-652 — Proposed; decisions, components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-091 SYNTHESIS-094 — Proposed; the part accounts this account is built over -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: CASE-247 CLAIM-656 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-648 CLAIM-657 CLAIM-682 CLAIM-685 TERM-122 TERM-123 TERM-124 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-102 SYNTHESIS-104 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-098 SYNTHESIS-103 — filed at the interim synthesis review of 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CLAIM-746 ARG-114 CLAIM-745 CASE-289 CLAIM-741 CASE-283 CLAIM-743 CLAIM-720 CASE-286 CLAIM-735 CLAIM-729 CASE-282 CLAIM-742 TERM-127 CLAIM-733 CLAIM-714 CLAIM-717 CASE-291 CASE-284 CLAIM-719 TERM-128 CLAIM-722 CLAIM-713 CLAIM-737 CLAIM-739 CLAIM-723 CLAIM-740 CLAIM-707 CLAIM-708 CLAIM-748 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, Proposed or Open -->
-<!-- inactive-ok-file: ADR-082 — Proposed; the first decision splitting a line, cited for where a split is decided -->
 <!-- inactive-ok-file: ARG-112 ARG-117 CASE-277 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-712 CLAIM-715 TERM-110 — Proposed; components, directly integrated entries and citations at version 7, with their standing -->
 <!-- inactive-ok-file: THEORY-1914 THEORY-1917 THEORY-1928 THEORY-1932 THEORY-1933 THEORY-1946 THEORY-1952 THEORY-1954 THEORY-1959 THEORY-1971 THEORY-1975 THEORY-1976 THEORY-1984 — readings of 2026-11-16 or 2026-11-18, Proposed; cited at version 7 as the support components have -->
 

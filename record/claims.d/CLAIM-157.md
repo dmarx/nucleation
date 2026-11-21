@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-10-11'
@@ -75,6 +75,11 @@ history:
     this test misses is QUESTION-219". The three questions' first line,
     distributed-agency, is already this claim's (ADR-085). Reading review of
     2026-11-11, by question. No other change.
+- version: 11
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-781 reads the gap-isolated block
+    as a class of the tree of time scales. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -123,6 +128,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-219
 ---
+<!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: LIT-1642 — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
@@ -321,3 +327,15 @@ members persists, and the notebook's coupling needs the time-lagged test
 and a yes would meet the `defeated_if`. The duration clause also has no
 window or tolerance, and it holds only if "persists" is read on the
 trajectory ([NOTE-1215](../notes.d/NOTE-1215.md)).
+
+## Note of 2026-11-20: the blocks nest into one tree
+
+This claim's unit is the gap-isolated block. Under [CLAIM-780](CLAIM-780.md), where a
+chain's rates are ε^U, the blocks isolated by a gap at some time scale are
+the classes of one tree, the tree of [CLAIM-581](CLAIM-581.md)'s budgeted classes, and the
+log commute-time geometry is that tree. So the candidate systems a state
+space offers at different targets nest; two blocks at different scales are
+either nested or disjoint. [CLAIM-781](CLAIM-781.md) argues that the gap this claim
+compares with the Occam factor is the one that spaces the block's level in
+the tree. That this claim's blocks are blocks of components and the tree's
+are blocks of states is a difference the note does not settle.

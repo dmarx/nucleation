@@ -50,7 +50,6 @@ draws_on:
 - THEORY-956
 - THEORY-962
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-159: Authority geometry and response geometry: when an organization's response is the authority-weighted mixture p_π(y | c) = Σ πᵢ pᵢ(y | c), the Fisher metric of its responses is the pullback JᵀD⁻¹J of the categorical (Shahshahani) metric on the shares π and never exceeds it; it vanishes along any redistribution between processes that respond alike under the probes used, so two specialists who both answer yes with probability 0.8 in routine contexts carry no information about their shares there, while a rare context in which they answer 0.9 and 0.1 carries 0.64/(p(1 − p)) per observation, p = 0.1 + 0.8π
 

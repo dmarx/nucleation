@@ -52,7 +52,6 @@ summary: >-
   burden of justification. Interpretive. The wording is A's; adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: THEORY-1859 THEORY-1863 THEORY-1847 THEORY-1856 THEORY-1846 ARG-103 — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1835 THEORY-1840 THEORY-1867 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-184 — Proposed; the record's nearest claim, cited with its standing -->

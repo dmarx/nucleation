@@ -45,7 +45,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-461 CLAIM-212 — Proposed; the objection this places, the distinction it bears on and the compensation claim, cited as open -->
-<!-- inactive-ok-file: ADR-075 CLAIM-258 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: CLAIM-258 — Proposed; cited with its standing -->
 
 # CLAIM-636: Where a literal rendering loses nothing the source offers on the declared report problems, no rendering made from the source without the situation, a compensating one included, is a better report for an ideal receiver, so compensation serves report fidelity only as a gain in a code-bound reader's usable information, or where the literal rendering itself loses a distinction the reports concern
 

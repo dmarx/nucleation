@@ -119,4 +119,3 @@ irreducible.
   wrong.** Their folds are the V → ∞ statements. What changes at finite
   size is that a maintained regime has a lifetime, and loses it before the
   fold.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

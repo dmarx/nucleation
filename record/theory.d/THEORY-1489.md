@@ -54,7 +54,6 @@ summary: >-
 corroborates:
 - CLAIM-597
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Underwood et al. (2013) as open -->
 
 # THEORY-1489: Underwood, Silbernagle, Nishimoto and Uyehara report that Hawai'i's endangered Coot, Stilt and Gallinule were stable or rising statewide from 1986 to 2007, with refuges where invasive plants, predators and water levels are actively managed holding on average 34–42% of each species on about 15% of the wetland, and hold that without perpetual active management of those wetlands the birds likely would decline

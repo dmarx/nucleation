@@ -74,7 +74,6 @@ draws_on:
 - THEORY-691
 - THEORY-1299
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->

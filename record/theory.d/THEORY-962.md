@@ -180,4 +180,3 @@ renders identically cannot be told apart by any statistic.
   lemma with D = N_ab, and its corrected lower bound takes the kernel
   vector of the stacked signal matrices of N_ab, as here
   ([THEORY-961](THEORY-961.md)).
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

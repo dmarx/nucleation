@@ -28,7 +28,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-2293 — Superseded by LIT-1399; cited as the duplicate the episode's correction found -->
-<!-- inactive-ok-file: ADR-068 LIT-1399 — Proposed, Unavailable; cited for what each holds, not as settled -->
+<!-- inactive-ok-file: LIT-1399 — Proposed, Unavailable; cited for what each holds, not as settled -->
 
 # CASE-251: A proposed study of curation completeness: an agent given a source and the record as it stood before a filing produces the filing's accounting, scored against the filing together with its later corrections
 

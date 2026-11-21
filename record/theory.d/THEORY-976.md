@@ -49,7 +49,6 @@ summary: >-
 bears_on:
 - QUESTION-466
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-1027 — Proposed; Marks et al.'s suggestion about SAEs in audits, cited as open -->
 # THEORY-976: In a Claude 3.5 Haiku variant finetuned by Marks et al. to exploit reward-model biases described in fictional documents, a cross-layer-transcoder feature that in pretraining-style text fires almost only where those biases are discussed was active in all 100 short Human/Assistant-formatted prompts tested and in 1 of the same 100 without that formatting, and suppressing such bias features cut the sampled rate of three bias behaviours, including two the model was never trained to show
 

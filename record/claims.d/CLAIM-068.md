@@ -164,3 +164,12 @@ such study is held. [ARG-027](../arguments.d/ARG-027.md), which argued that the 
 readings show stance stabilization, is Rejected. [CASE-068](../cases.d/CASE-068.md)'s diffusion
 chains show an evaluative signal kept and amplified, not chains from
 different stances converging.
+
+## Note of 2026-11-20: what holds it back
+
+The move the worklist names was checked: [CLAIM-090](CLAIM-090.md)'s version 4 added only
+a bearing on [QUESTION-137](../questions.d/QUESTION-137.md), and [CLAIM-090](CLAIM-090.md) stays Proposed, still waiting on
+a chain whose endpoint matches a prior measured on its own transmitters.
+This claim's own wait is unchanged: no study the record holds starts
+chains from different stances, which its defeat condition and [CLAIM-234](CLAIM-234.md)'s
+concession ask for ([LEAD-187](../leads.d/LEAD-187.md)).

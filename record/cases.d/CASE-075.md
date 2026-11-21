@@ -33,7 +33,6 @@ illustrates:
 draws_on:
 - THEORY-068
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 
 # CASE-075: Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs
 

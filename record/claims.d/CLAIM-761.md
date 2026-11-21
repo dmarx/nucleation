@@ -1,10 +1,32 @@
 ---
 number: 761
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqpd2p
 title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). Its premises CLAIM-303, CLAIM-475 and CLAIM-582 are
+    Active and nothing objects to it. The step from amortization to
+    capability was re-checked: if a task is feasible when its least
+    per-task cost, retrieval and verification included, is within the
+    budget B, then stored work that cuts that cost from 12 to 3 makes the
+    task feasible at B = 5 whatever the 100 its construction cost, and B is
+    unchanged. CLAIM-475, Active, gives the instance the record already
+    holds, a stabilized specification that makes questions cheaper to ask,
+    and its entrenchment. Nothing meets the defeated_if. In the witnesses
+    offered the acquired organization lowers the least cost; the gain is
+    not CLAIM-582's reliability under a fixed mechanism, since the claim
+    counts a cost-lowering constraint as a change of mechanism, as
+    CLAIM-582 does; and the third disjunct, read as a gain that could be
+    had without the work of forming the constraint, is not met, since
+    each witness stipulates that the framework is acquired at a cost.
+    CLAIM-755, which the body cites for the two separations, stays
+    Proposed and is not a premise. Interpretive. The title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

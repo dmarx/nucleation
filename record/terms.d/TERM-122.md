@@ -43,7 +43,6 @@ summary: >-
   who are owed, and the bearers of what is owed, are kept apart as
   [QUESTION-460](../questions.d/QUESTION-460.md) keeps them.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: THEORY-1835 THEORY-1840 THEORY-1849 THEORY-1864 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: TERM-012 TERM-006 — Deferred; the term this one rivals and the term that absorbed it, set aside with the authenticity line -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-511 SYNTHESIS-023 — Proposed; the record's nearest entries, cited with their standing -->
