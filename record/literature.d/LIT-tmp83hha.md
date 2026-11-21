@@ -1,0 +1,32 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A cites it at A41 for the finding that the top Hessian subspace carries little of the learning. No reading was attempted; a lawful copy has not been sought.
+title: 'Does SGD really happen in tiny subspaces?'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id or the title in record/literature.d.
+tags:
+- loss-landscapes
+- learning-theory
+- anthology-candidate
+date: '2026-11-21'
+published: '2024-05-25'
+arxiv: '2405.16002'
+first_author: 'Song'
+keywords: []
+implementations: []
+summary: >-
+  Song, Ahn & Yun (2025), Does SGD really happen in tiny subspaces?, ICLR 2025; arXiv 2405.16002. Gradients align with the dominant Hessian subspace, yet projecting updates onto it stalls learning; progress happens in the bulk subspace. Here as the exchange's point that the small directions of a spectrum can matter (exchange "Rich Get Richer Power Laws", A41). Unverified until read.
+---
+
+# LIT-tmp83hha: Does SGD really happen in tiny subspaces?
+
+Song, Ahn & Yun (2025). ICLR 2025; arXiv 2405.16002.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A cites it at A41 for the finding that the top Hessian subspace carries little of the learning. It bears on the exchange's point that the small directions of a spectrum can matter. Not read.

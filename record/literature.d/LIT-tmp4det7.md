@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A cites it at A41 for the weight of the unembedding's smallest singular directions. No reading was attempted; a lawful copy has not been sought.
+title: 'The Smallest Singular Directions of the Unembedding Matter Disproportionately for Next-Token Prediction'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id, the title or "Unembedding" in record/literature.d. The exchange's URL was an unresolved template variable; the arXiv id was found by title.
+tags:
+- representation-learning
+- anthology-candidate
+date: '2026-11-21'
+published: '2026-05-16'
+arxiv: '2605.17084'
+first_author: 'Xu'
+keywords: []
+implementations: []
+summary: >-
+  Xu (2026), The Smallest Singular Directions of the Unembedding Matter Disproportionately for Next-Token Prediction, arXiv 2605.17084. The smallest singular directions of a language model's unembedding carry a disproportionate share of next-token prediction. Here as the exchange's point that the small directions of a spectrum can matter (exchange "Rich Get Richer Power Laws", A41). Unverified until read.
+---
+
+# LIT-tmp4det7: The Smallest Singular Directions of the Unembedding Matter Disproportionately for Next-Token Prediction
+
+Xu (2026). arXiv 2605.17084.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A cites it at A41 for the weight of the unembedding's smallest singular directions. It bears on the exchange's point that the small directions of a spectrum can matter. Not read.
