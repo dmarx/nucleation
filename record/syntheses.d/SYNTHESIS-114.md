@@ -57,7 +57,7 @@ integrates:
 - [CLAIM-424](../claims.d/CLAIM-424.md) (Active, interpretive) separates the capacity to revise one's standards from revising them well.
 - [CLAIM-025](../claims.d/CLAIM-025.md) (Active, interpretive) holds that an operative regime, its governing organization and the capacity to transform it "can persist or fail separately".
 
-**Stored work, Proposed.** [CLAIM-761](../claims.d/CLAIM-761.md) (Proposed, interpretive): a stabilized constraint can be stored work that changes which activities are realizable within a fixed budget, and "the persistence that buys it can entrench".
+**Stored work.** [CLAIM-761](../claims.d/CLAIM-761.md) (Active since 2026-11-20, interpretive): a stabilized constraint can be stored work that changes which activities are realizable within a fixed budget, and "the persistence that buys it can entrench".
 
 **Improving the improver.** [QUESTION-457](../questions.d/QUESTION-457.md) (Open) asks whether a collective keeping its inquiry in a governed record can become a better improver without losing the capacity to detect failures in its apparatus.
 

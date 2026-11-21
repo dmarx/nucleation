@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp4vrjc
 title: 'From interconnection to individuation the record holds distinct achievements in a partial order: interconnection makes effective constraints that gluing only expresses, coupling separates time scales only where it dissipates differences, an individuation is well defined once its criterion is fixed and its senses need different evidence, where maintenance is realized is shown only by interventions on production relative to a declared boundary, and assembling, persisting, regenerating and being supplied come apart, while how distinctions are made and unmade, and when relations constitute an entity, stay open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    At the synthesis review of 2026-11-21: three claims filed after this
+    account that bear on QUESTION-281 are integrated (CLAIM-672, CLAIM-770,
+    CLAIM-781), and a dated note maps what they say of the question. The
+    question stays Open. The account's body is otherwise unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the individuation part of the distributed-agency line left out without
@@ -91,6 +99,9 @@ integrates:
 - QUESTION-335
 - CLAIM-497
 - QUESTION-281
+- CLAIM-672
+- CLAIM-770
+- CLAIM-781
 ---
 <!-- inactive-ok-file: ARG-056 ARG-072 CASE-163 CASE-194 CASE-225 CASE-227 CASE-231 CLAIM-157 CLAIM-167 CLAIM-170 CLAIM-174 CLAIM-274 CLAIM-327 CLAIM-367 CLAIM-417 CLAIM-477 CLAIM-478 CLAIM-510 CLAIM-511 CLAIM-514 CLAIM-519 CLAIM-544 CLAIM-603 CLAIM-606 CLAIM-610 CLAIM-611 CLAIM-612 CLAIM-615 CLAIM-616 CLAIM-618 CLAIM-626 SYNTHESIS-029 SYNTHESIS-032 SYNTHESIS-037 SYNTHESIS-041 SYNTHESIS-042 SYNTHESIS-043 SYNTHESIS-046 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-047 ARG-068 CLAIM-473 THEORY-787 — Rejected; components and citations, with their standing -->
@@ -734,3 +745,13 @@ step 5 at this review and not filed:
   argument in their first sense; they carry distributed-agency by
   [ADR-085](../decisions.d/ADR-085.md)'s rule.
 - Anything with standing of its own.
+
+## Note of 2026-11-21: three later bearings on QUESTION-281
+
+Filed after this account, three claims bear on QUESTION-281: by which transitions do the distinctions individuation needs come into being and pass away, and are creation, stabilization and role three achievements? All three are Proposed.
+
+- **CLAIM-672** (demonstrated, in Conway's Life): the same still life can persist as a fixed point, by repairing itself, or by being rebuilt by the pattern it serves, and taking on a role is what moved it between these. Stabilization and role come apart but are not independent.
+- **CLAIM-770** (demonstrated, first line formal-apparatus): in a barrier model, the tree of budgeted classes depends only on the order of the barrier values. A distinction between levels is made or unmade only where two barriers cross, and near a crossing the two levels cannot be told apart.
+- **CLAIM-781** (interpretive): one rate ratio is both a level's closure margin and, in logarithm, its spacing in the tree, so the two fail together as rates converge.
+
+For barrier landscapes, then, the record answers the question's first clause: distinctions come and go at crossings of time scales (CLAIM-770). For the second clause it holds a separation in one system (CLAIM-672) and a coupling in another (CLAIM-781). It does not hold the question's own test: one stated system in which creation, stabilization and role are all shown separately. Nothing here joins them, and the review found no link between them that passes as a claim.
