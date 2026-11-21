@@ -34,7 +34,7 @@ A general theory, through a free-probability integral transform, of when a
 low-rank perturbation of a large rectangular random matrix shows in its
 extreme singular values and vectors. The abstract: the extreme singular
 values move "if and only if the singular values of the perturbing matrix
-are above a certain critical threshold". The reading is THEORY-tmp4zojc.
+are above a certain critical threshold". The reading is [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md).
 
 ## Key results
 
@@ -65,26 +65,26 @@ In the record's notation, n = D, m = N, c = γ = D/N and β = θ²: the
 threshold is β > √γ, the top eigenvalue of the uncentred second moment
 (1/N)ZZᵀ is σ² = (1 + β)(1 + γ/β), and the squared overlap is
 1 − γ(1 + β)/(β(β + γ)) = (1 − γ/β²)/(1 + γ/β). These are the spiked
-formulas of BBP (THEORY-tmp0covn), Baik and Silverstein (THEORY-tmp0zr7o)
-and Paul (THEORY-tmp6808g), for a different model: a signal added to the
+formulas of BBP ([THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md)), Baik and Silverstein ([THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md))
+and Paul ([THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md)), for a different model: a signal added to the
 data matrix rather than a covariance acting on the samples.
 
 ## Bearing on the record
 
-- **CASE-tmp59xy5** (gives its model). z = √β·s·v + ε with s = ±1 is the
+- **[CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md)** (gives its model). z = √β·s·v + ε with s = ±1 is the
   data matrix √β·vsᵀ + E; scaled by 1/√N it is X_n + P_n with
   P_n = √β·v(s/√N)ᵀ, a rank-one perturbation of singular value θ = √β. So
   the case's threshold, outlier and overlap are (9) and (10), not BBP's,
-  whose samples are Gaussian. ARG-tmpe2vrk.
-- **CLAIM-tmpk33au** (gives the mean-shift step). N samples of
+  whose samples are Gaussian. [ARG-tmpe2vrk](../arguments.d/ARG-tmpe2vrk.md).
+- **[CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)** (gives the mean-shift step). N samples of
   N(cμ, I), seen by PCA on the uncentred second moment, are
   cμ1ᵀ + E, a rank-one perturbation of singular value θ = c; the threshold
-  θ > γ^(1/4) gives κ_BBP = √D·(D/N)^(1/4). ARG-tmpe2vrk.
-- **CLAIM-tmp5y856** (corroborates the eigenvector clause, for the
-  additive model). ARG-tmpnwmcr.
-- **CLAIM-tmpqbo50** (fits its hidden-layer model). With φ independent of
+  θ > γ^(1/4) gives κ_BBP = √D·(D/N)^(1/4). [ARG-tmpe2vrk](../arguments.d/ARG-tmpe2vrk.md).
+- **[CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)** (corroborates the eigenvector clause, for the
+  additive model). [ARG-tmpnwmcr](../arguments.d/ARG-tmpnwmcr.md).
+- **[CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md)** (fits its hidden-layer model). With φ independent of
   ξ, h = bφu + σξ is again an additive rank-one model.
-- **NOTE-666, LIT-862, NOTE-659** (already cite it): Saxe and colleagues'
+- **[NOTE-666](NOTE-666.md), [LIT-862](../literature.d/LIT-862.md), [NOTE-659](NOTE-659.md)** (already cite it): Saxe and colleagues'
   coherence threshold is its Theorem 2.9, θ > c^(1/4).
 
 ## Limitations

@@ -41,7 +41,7 @@ The first proof that the spiked threshold is sharp, and the first limiting
 laws for the largest sample eigenvalue across it, the "BBP transition". The
 method is a Fredholm-determinant formula for the largest eigenvalue that
 exists only for complex samples (an HCIZ integral over the unitary group).
-The reading is THEORY-tmp0covn.
+The reading is [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md).
 
 ## Key results
 
@@ -98,44 +98,44 @@ samples, γ_rec = D/N, spike β = ℓ − 1. Then γ_BBP⁻¹ = √γ_rec, the t
 (1 + β)(1 + γ_rec/β), and the edge is (1 + √γ_rec)². All agree with the
 entries. But BBP needs γ_rec ≤ 1. What the entries need beyond that is in
 three other works: real or non-Gaussian samples, any γ_rec and each of
-several spikes in Baik and Silverstein (THEORY-tmp0zr7o); the eigenvector
-overlap in Paul (THEORY-tmp6808g); the additive, uncentred models in
-Benaych-Georges and Nadakuditi (THEORY-tmp4zojc).
+several spikes in Baik and Silverstein ([THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md)); the eigenvector
+overlap in Paul ([THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md)); the additive, uncentred models in
+Benaych-Georges and Nadakuditi ([THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md)).
 
 ## Bearing on the record
 
-- **CLAIM-tmp5y856** (supports the threshold, qualifies the rest). Corollary
+- **[CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)** (supports the threshold, qualifies the rest). Corollary
   1.1 gives β > √γ and the location; the opening (β − √γ)²/β is
   (1 + β)(1 + γ/β) − (1 + √γ)² by algebra. The eigenvector sentence is
   Paul's or Benaych-Georges and Nadakuditi's, not BBP's; real data needs
   Baik and Silverstein. BBP's own "phase transition" is a change in the law
   of λ_1, of fluctuation order M^(−2/3) to M^(−1/2), which fits the claim's
-  reading of it as a detectability transition. ARG-tmppdhhb, ARG-tmpvalfs,
-  ARG-tmpnwmcr.
-- **CASE-tmp59xy5** (qualifies). The formulas are exact after the change of
+  reading of it as a detectability transition. [ARG-tmppdhhb](../arguments.d/ARG-tmppdhhb.md), [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md),
+  [ARG-tmpnwmcr](../arguments.d/ARG-tmpnwmcr.md).
+- **[CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md)** (qualifies). The formulas are exact after the change of
   notation, but the ±1 mixture is real and non-Gaussian; it is Benaych-Georges
-  and Nadakuditi's additive rank-one model, not BBP's. ARG-tmpe2vrk.
-- **CLAIM-tmpk33au** (qualifies). BBP centres by the sample mean, which
+  and Nadakuditi's additive rank-one model, not BBP's. [ARG-tmpe2vrk](../arguments.d/ARG-tmpe2vrk.md).
+- **[CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)** (qualifies). BBP centres by the sample mean, which
   would remove a mean shift; PCA of the uncentred second moment seeing a
   mean shift c as a spike β = c² is Benaych-Georges and Nadakuditi's
   additive model (θ = c), whose threshold θ > γ^(1/4) gives the claim's
-  κ_BBP = √D·(D/N)^(1/4). ARG-tmpe2vrk.
-- **CLAIM-tmp8mvx8** (qualifies). BBP gives only λ_1; a count of outliers
+  κ_BBP = √D·(D/N)^(1/4). [ARG-tmpe2vrk](../arguments.d/ARG-tmpe2vrk.md).
+- **[CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md)** (qualifies). BBP gives only λ_1; a count of outliers
   needs Baik and Silverstein's per-spike limits, finitely many spikes. Its
   M is the number of samples of the covariance estimate, which supports the
   claim's "Which N" correction; the claim's remark that an outlier within
   about N^(−2/3) of the edge is invisible is Theorem 1.1(a) and 1.2.
-  ARG-tmpvalfs.
-- **CLAIM-tmpqbo50** (supports the formulas, qualifies the range). Its
+  [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md).
+- **[CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md)** (supports the formulas, qualifies the range). Its
   outlier and edge are Corollary 1.1 rescaled by σ²; its γ = 4 row lies
-  outside BBP's M ≥ N and needs Baik and Silverstein. ARG-tmpvalfs.
-- **QUESTION-tmp7d1ws** (background). The proportional limit M/N → γ²
+  outside BBP's M ≥ N and needs Baik and Silverstein. [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md).
+- **[QUESTION-tmp7d1ws](../questions.d/QUESTION-tmp7d1ws.md)** (background). The proportional limit M/N → γ²
   is the regime it names.
-- **Parallels and background, no edge**: NOTE-666 and LIT-862 (a coherence
+- **Parallels and background, no edge**: [NOTE-666](NOTE-666.md) and [LIT-862](../literature.d/LIT-862.md) (a coherence
   threshold that is Benaych-Georges and Nadakuditi's θ > c^(1/4), called
-  there a BBP transition); NOTE-659 (outliers at the upper and lower
-  edges); NOTE-660 (the spiked model borrowed for analogy vectors);
-  NOTE-689 and NOTE-805 (thresholds compared to BBP's).
+  there a BBP transition); [NOTE-659](NOTE-659.md) (outliers at the upper and lower
+  edges); [NOTE-660](NOTE-660.md) (the spiked model borrowed for analogy vectors);
+  [NOTE-689](NOTE-689.md) and [NOTE-805](NOTE-805.md) (thresholds compared to BBP's).
 
 ## Limitations
 

@@ -294,10 +294,10 @@ factorisation) against Sharma et al. (LASER).
 ## Note of 2026-11-21: Baik, Ben Arous and Péché, read
 
 **Background**, with one point of support. The two works named for the
-upper outlier are now registered and read: LIT-tmpipm3o (NOTE-tmpggv08) and
-LIT-tmp1q78e (NOTE-tmpor0h4). The reading above of the lower outlier as
+upper outlier are now registered and read: [LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md) ([NOTE-tmpggv08](NOTE-tmpggv08.md)) and
+[LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md) ([NOTE-tmpor0h4](NOTE-tmpor0h4.md)). The reading above of the lower outlier as
 "the same transition at the lower edge for a noise with one reduced
 covariance direction", which the paper does not name so, has a source:
-Baik and Silverstein (LIT-tmpjtw0k, NOTE-tmpmlr3x) give, for c < 1, the
+Baik and Silverstein ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), [NOTE-tmpmlr3x](NOTE-tmpmlr3x.md)) give, for c < 1, the
 almost-sure limit of a sample eigenvalue below the lower edge for a spike
 below one ((1.12)–(1.13)). No edge.

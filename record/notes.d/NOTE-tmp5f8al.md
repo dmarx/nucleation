@@ -31,7 +31,7 @@ summary: >-
 For the real Gaussian spiked covariance model, the limits and a central
 limit theorem for the outlying sample eigenvalues, and the phase transition
 of the sample eigenvectors with its exact overlap. The reading is
-THEORY-tmp6808g.
+[THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md).
 
 ## Key results
 
@@ -61,19 +61,19 @@ phase transition; retarded learning (Hoyle and Rattray).
 ## Connections
 
 With β = ℓ − 1, Theorem 4's squared overlap is (1 − γ/β²)/(1 + γ/β), the
-formula of CASE-tmp59xy5 and the eigenvector clause of CLAIM-tmp5y856.
-Benaych-Georges and Nadakuditi (LIT-tmp1q78e) give the same overlap for an
+formula of [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md) and the eigenvector clause of [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md).
+Benaych-Georges and Nadakuditi ([LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md)) give the same overlap for an
 additive rank-one perturbation, by another model. Baik and Silverstein
-(LIT-tmpjtw0k) note that Paul obtained their eigenvalue limits for real
+([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md)) note that Paul obtained their eigenvalue limits for real
 Gaussian samples with γ < 1. Physicists had the phase transition first,
 by heuristic methods (Hoyle and Rattray, not registered).
 
 ## Bearing on the record
 
-- **CLAIM-tmp5y856** (grounds the eigenvector clause): "only then does its
+- **[CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)** (grounds the eigenvector clause): "only then does its
   eigenvector carry information about v" is Theorem 4, not BBP.
-  ARG-tmpnwmcr.
-- **CASE-tmp59xy5** (gives its overlap formula, for the covariance-spike
+  [ARG-tmpnwmcr](../arguments.d/ARG-tmpnwmcr.md).
+- **[CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md)** (gives its overlap formula, for the covariance-spike
   reading of the case); the case's ±1 mixture is strictly
   Benaych-Georges and Nadakuditi's model, which gives the same formula.
 

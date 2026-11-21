@@ -31,7 +31,7 @@ summary: >-
 The almost-sure limits of every sample eigenvalue of a spiked population
 model, for real and complex samples that need not be Gaussian, at any ratio
 of variables to samples. It settles for limits the real case that BBP left
-as a conjecture. The reading is THEORY-tmp0zr7o.
+as a conjecture. The reading is [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md).
 
 ## Key results
 
@@ -65,31 +65,31 @@ sample eigenvalues; the outlier map α ↦ α + cα/(α − 1).
 
 ## Connections
 
-Restates BBP's threshold and location (THEORY-tmp0covn) in the almost-sure
+Restates BBP's threshold and location ([THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md)) in the almost-sure
 sense and widens them to real and non-Gaussian samples, to c > 1, and to
 every spike. It does not restate BBP's fluctuation laws. It notes that Paul
-(LIT-tmpxru3g) obtained the same limits for real Gaussian samples with
+([LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md)) obtained the same limits for real Gaussian samples with
 c < 1. In the record's notation (c = D/N = γ, α = 1 + β): threshold β > √γ
 and outlier (1 + β)(1 + γ/β), the same formulas the entries use.
 
 ## Bearing on the record
 
-- **CLAIM-tmp5y856** (grounds its threshold for real data). The claim's
+- **[CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)** (grounds its threshold for real data). The claim's
   setting is real-valued; this is the theorem that covers it.
-  ARG-tmpvalfs.
-- **CLAIM-tmp8mvx8** (grounds the count). Counting K_det outliers needs
+  [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md).
+- **[CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md)** (grounds the count). Counting K_det outliers needs
   (1.10), one outlier per spike above threshold, for a fixed number of
   spikes; a hierarchy whose rank grows with D is outside it, which the
-  claim's row 5 shows. ARG-tmpvalfs.
-- **CLAIM-tmpqbo50** (grounds its γ = 4 row). D > N is outside BBP and
-  inside this theorem, with the same threshold and location. ARG-tmpvalfs.
-- **CLAIM-tmpk33au** (grounds the precursor's threshold). The mean-field
+  claim's row 5 shows. [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md).
+- **[CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md)** (grounds its γ = 4 row). D > N is outside BBP and
+  inside this theorem, with the same threshold and location. [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md).
+- **[CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)** (grounds the precursor's threshold). The mean-field
   precursor treats the ordering mode as a covariance spike in real data.
-  ARG-tmpvalfs.
-- **CASE-tmp59xy5** (does not cover it). Its ±1 mixture has a coordinate
+  [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md).
+- **[CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md)** (does not cover it). Its ±1 mixture has a coordinate
   along v that is not distributed like the others, so it is not T^(1/2)Z
   with i.i.d. Z; it falls under Benaych-Georges and Nadakuditi
-  (LIT-tmp1q78e) instead.
+  ([LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md)) instead.
 
 ## Limitations
 

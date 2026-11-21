@@ -16,10 +16,10 @@ date: '2026-11-21'
 source:
 - LIT-tmpxru3g
 summary: >-
-  Paul (2007), LIT-tmpxru3g, read in NOTE-tmp5f8al (statements only). The
+  Paul (2007), [LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md), read in [NOTE-tmp5f8al](../notes.d/NOTE-tmp5f8al.md) (statements only). The
   eigenvector half of the spiked transition, for real Gaussian data with
-  γ < 1, which CLAIM-tmp5y856 and CASE-tmp59xy5 state and the BBP paper
-  does not prove (ARG-tmpnwmcr). Proposed until Theorem 4 is confirmed.
+  γ < 1, which [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md) and [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md) state and the BBP paper
+  does not prove ([ARG-tmpnwmcr](../arguments.d/ARG-tmpnwmcr.md)). Proposed until Theorem 4 is confirmed.
 ---
 <!-- inactive-ok-file: NOTE-tmp5f8al — Skimmed; the reading this account is filed from -->
 <!-- inactive-ok-file: CLAIM-tmp5y856 CASE-tmp59xy5 ARG-tmpnwmcr — Proposed; the entries this reading carries, and the argument of 2026-11-21 -->
@@ -28,8 +28,8 @@ summary: >-
 
 ## Source
 
-Paul, Statistica Sinica 17 (2007): 1617–1642. LIT-tmpxru3g, read in
-NOTE-tmp5f8al.
+Paul, Statistica Sinica 17 (2007): 1617–1642. [LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md), read in
+[NOTE-tmp5f8al](../notes.d/NOTE-tmp5f8al.md).
 
 ## The account
 

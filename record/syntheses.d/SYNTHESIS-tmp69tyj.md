@@ -150,8 +150,8 @@ Links A's syntheses draw across these components that no entry states, tested at
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in NOTE-tmp0rhkc; the reading is
-THEORY-tmp23821) **supports** this account's thesis that a power law does
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); the reading is
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)) **supports** this account's thesis that a power law does
 not identify its mechanism, by the passages noted on [CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md)
 (§6's "perhaps simpler, explanations", §2's lognormal that looks straight on
 a log-log plot, §8's "not clear that a definitive answer is possible"). It

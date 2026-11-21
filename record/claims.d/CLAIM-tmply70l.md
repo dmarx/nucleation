@@ -114,8 +114,8 @@ A tree grown to N = 300,000 by linear attachment, one link per node:
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
-THEORY-tmp23821) **supports the age half and leaves the identification
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); the reading is
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)) **supports the age half and leaves the identification
 open**. §7 gives multiplicative growth observed at an exponentially
 distributed time as a power law ("we examine the random variable X_T where
 T itself is a random variable"), with Huberman and Adamic's exponentially
@@ -125,5 +125,5 @@ Pareto as the exact law: for zero drift, density ∝ x^(−1−√(2λ)) above 1
 exponent with a uniform share α, (2 − α)/(1 − α) in density, is 3 at
 α = ½, the Barabási–Albert k^(−3). But the paper keeps §3 and §7 apart and
 never casts attachment in log-time, so the identification this claim makes
-is not in it. It moves from `grounds` to `corroborates` (ARG-tmpp2xln).
+is not in it. It moves from `grounds` to `corroborates` ([ARG-tmpp2xln](../arguments.d/ARG-tmpp2xln.md)).
 Status unchanged.

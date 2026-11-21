@@ -17,16 +17,16 @@ date: '2026-11-21'
 line:
 - learned-structure
 summary: >-
-  CLAIM-tmp5y856, CLAIM-tmp8mvx8 and CLAIM-tmpk33au cited the BBP paper
-  (LIT-tmpipm3o) in their grounds, unread, for the threshold β > √(D/N),
+  [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md), [CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md) and [CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md) cited the BBP paper
+  ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)) in their grounds, unread, for the threshold β > √(D/N),
   the outlier, the eigenvector overlap and a count of outliers;
-  CLAIM-tmpqbo50 uses the same through CLAIM-tmp5y856. Read, the paper
+  [CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md) uses the same through [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md). Read, the paper
   proves the threshold and outlier for the largest eigenvalue of complex
   Gaussian, centred samples with D ≤ N, and nothing about eigenvectors. The
   claims are about real data, eigenvectors, several outliers, D > N and
   additive models. So the paper moves from their grounds to corroborates,
   and the clauses rest on Baik and Silverstein, Paul, and Benaych-Georges
-  and Nadakuditi (ARG-tmpvalfs, ARG-tmpnwmcr, ARG-tmpe2vrk). The wording is
+  and Nadakuditi ([ARG-tmpvalfs](ARG-tmpvalfs.md), [ARG-tmpnwmcr](ARG-tmpnwmcr.md), [ARG-tmpe2vrk](ARG-tmpe2vrk.md)). The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
@@ -38,7 +38,7 @@ summary: >-
 
 Each of the four claims states the spiked threshold β > √γ (γ = D/N), the
 outlier (1 + β)(1 + γ/β) and the edge (1 + √γ)², and attributes them to
-"the BBP transition". Read as a source, THEORY-tmp0covn would carry all of
+"the BBP transition". Read as a source, [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md) would carry all of
 it.
 
 ## Critical questions (source)
@@ -55,15 +55,15 @@ treats only λ_1.
   real case is a "Conjecture" (p. 11), and the method is "not applicable
   to real sample matrices" (p. 13). The claims' constructions and
   simulations are real.
-- *Eigenvectors.* CLAIM-tmp5y856's "only then does its eigenvector carry
+- *Eigenvectors.* [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)'s "only then does its eigenvector carry
   information" and the overlap formula are Paul's Theorem 4 and
   Benaych-Georges and Nadakuditi's (10).
 - *Several outliers and D > N.* BBP needs M ≥ N (γ ≤ 1) and gives only
-  the largest eigenvalue; CLAIM-tmp8mvx8 counts outliers and
-  CLAIM-tmpqbo50 has a γ = 4 row. Both are Baik and Silverstein's.
+  the largest eigenvalue; [CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md) counts outliers and
+  [CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md) has a γ = 4 row. Both are Baik and Silverstein's.
 - *Additive models.* BBP's samples are Gaussian with covariance Σ and the
   covariance is centred by the sample mean. A ±1 mixture along v, or a mean
-  shift seen in the uncentred second moment (CLAIM-tmpk33au), is a rank-one
+  shift seen in the uncentred second moment ([CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)), is a rank-one
   perturbation of the data matrix, which is Benaych-Georges and
   Nadakuditi's.
 
@@ -74,7 +74,7 @@ supplements, and the paper agrees with them where it applies.
 
 ## Verdict
 
-LIT-tmpipm3o leaves the grounds of CLAIM-tmp5y856, CLAIM-tmp8mvx8 and
-CLAIM-tmpk33au; THEORY-tmp0covn corroborates all four claims. The name "BBP
+[LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md) leaves the grounds of [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md), [CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md) and
+[CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md); [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md) corroborates all four claims. The name "BBP
 threshold" can stay, as the field uses it, with the attributions corrected
 in dated notes on each entry.

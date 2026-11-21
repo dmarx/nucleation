@@ -322,11 +322,11 @@ to word embeddings of translation-symmetric co-occurrence.
 
 A **parallel**, with no edge. The two works this note names for the
 coherence threshold are now registered and read: the BBP paper as
-LIT-tmpipm3o (NOTE-tmpggv08) and Benaych-Georges and Nadakuditi as
-LIT-tmp1q78e (NOTE-tmpor0h4, §3.1 only). The threshold θ > c^(1/4) cited
+[LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md) ([NOTE-tmpggv08](NOTE-tmpggv08.md)) and Benaych-Georges and Nadakuditi as
+[LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md) ([NOTE-tmpor0h4](NOTE-tmpor0h4.md), §3.1 only). The threshold θ > c^(1/4) cited
 here as their Theorem 2.9 is the one §3.1 states for a Gaussian matrix with
 a non-zero mean. BBP itself proves the covariance form, for complex Gaussian
 samples and the largest eigenvalue; "the BBP transition … in
 Benaych-Georges and Nadakuditi's form" is the right way to put it, since the
 semantic-development model is additive, the model the record's
-CASE-tmp59xy5 and CLAIM-tmpk33au also turned out to use.
+[CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md) and [CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md) also turned out to use.

@@ -17,11 +17,11 @@ date: '2026-11-21'
 source:
 - LIT-tmpjtw0k
 summary: >-
-  Baik and Silverstein (2006), LIT-tmpjtw0k, read in NOTE-tmpmlr3x (§1
+  Baik and Silverstein (2006), [LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), read in [NOTE-tmpmlr3x](../notes.d/NOTE-tmpmlr3x.md) (§1
   only). The real, non-Gaussian, any-ratio, every-spike version of the
   BBP threshold and outlier, for limits. The record's spiked-matrix claims
   rest on it where BBP's complex Gaussian top-eigenvalue result does not
-  reach (ARG-tmpvalfs). Proposed until the theorems are confirmed.
+  reach ([ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md)). Proposed until the theorems are confirmed.
 bears_on:
 - QUESTION-tmp7d1ws
 ---
@@ -33,7 +33,7 @@ bears_on:
 ## Source
 
 Baik and Silverstein, arXiv math/0408165 (2004); J. Multivariate Anal. 97
-(2006). LIT-tmpjtw0k, read in NOTE-tmpmlr3x (§1).
+(2006). [LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), read in [NOTE-tmpmlr3x](../notes.d/NOTE-tmpmlr3x.md) (§1).
 
 ## The account
 
@@ -49,7 +49,7 @@ spike, the top eigenvalue tends to (1 + √c)² if the spike is at most
 ## What this does not say
 
 - Not the fluctuations, which it leaves open; those are BBP's, for complex
-  Gaussian samples (THEORY-tmp0covn).
+  Gaussian samples ([THEORY-tmp0covn](THEORY-tmp0covn.md)).
 - Not anything about eigenvectors.
 - Not a number of spikes growing with p.
 - Not models whose entries are not identically distributed, such as a

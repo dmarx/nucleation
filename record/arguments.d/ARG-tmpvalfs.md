@@ -19,11 +19,11 @@ line:
 summary: >-
   The record's spiked-matrix claims apply the threshold β > √(D/N) and the
   outlier (1 + β)(1 + γ/β) to real-valued data, to each of several spikes
-  (CLAIM-tmp8mvx8), at D > N (CLAIM-tmpqbo50's γ = 4 row) and to a
-  mean-field ordering mode (CLAIM-tmpk33au). Baik and Silverstein's
-  theorem (THEORY-tmp0zr7o) is the result that covers those settings, for
+  ([CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md)), at D > N ([CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md)'s γ = 4 row) and to a
+  mean-field ordering mode ([CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)). Baik and Silverstein's
+  theorem ([THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md)) is the result that covers those settings, for
   limits, with finitely many fixed spikes. The application holds in the
-  sparse regime and fails, as CLAIM-tmp8mvx8 already finds, when the
+  sparse regime and fails, as [CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md) already finds, when the
   number of spikes grows with D. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
@@ -47,25 +47,25 @@ eigenvalue tends to (1 + √c)² otherwise (1.14). With c = γ = D/N and
 the filer checked the algebra, α + cα/(α − 1) = (1 + β)(1 + γ/β).
 
 **Are the model's assumptions met in the new domain?**
-- *CLAIM-tmp5y856*: real Gaussian data with a covariance spike, Σ = I + βvvᵀ;
+- *[CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)*: real Gaussian data with a covariance spike, Σ = I + βvvᵀ;
   met. (Its illustrating case, a ±1 mixture, is not of this form; see
-  ARG-tmpe2vrk.)
-- *CLAIM-tmp8mvx8*: orthogonal spikes β_j = Cj^(−α), each giving its own
+  [ARG-tmpe2vrk](ARG-tmpe2vrk.md).)
+- *[CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md)*: orthogonal spikes β_j = Cj^(−α), each giving its own
   outlier; met while K is fixed as D grows. The claim's own row 5 (K/D =
   0.4, 84 outliers against 143 predicted) is where the assumption fails,
   and the claim already says "Sparse regime only".
-- *CLAIM-tmpqbo50*: σ²I + ℓuuᵀ at γ = 4, 1, 0.25, 0.01; the γ = 4 row is
+- *[CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md)*: σ²I + ℓuuᵀ at γ = 4, 1, 0.25, 0.01; the γ = 4 row is
   D > N, which BBP excludes and this theorem covers (c > 1, same
   threshold 1 + √c). Its hidden-layer model h = bφu + σξ is T^(1/2)Z only
-  if φ is Gaussian; otherwise it is the additive model of ARG-tmpe2vrk,
+  if φ is Gaussian; otherwise it is the additive model of [ARG-tmpe2vrk](ARG-tmpe2vrk.md),
   with the same formulas.
-- *CLAIM-tmpk33au*: the mean-field precursor treats the ordering mode below
+- *[CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)*: the mean-field precursor treats the ordering mode below
   K = D as a covariance spike of strength θ² = γ(K/D)/(1 − K/D) in real
   Gaussian-approximated data; met within that approximation, which the
   claim states.
 
 ## Verdict
 
-THEORY-tmp0zr7o goes into the grounds of all four claims. What it does not
+[THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md) goes into the grounds of all four claims. What it does not
 supply is fluctuations, which only the claims' remarks about the
 N^(−2/3) window near the edge need; those are BBP's, for complex data.

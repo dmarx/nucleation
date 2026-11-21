@@ -119,8 +119,8 @@ attachment.
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
-THEORY-tmp23821) **corroborates item 6** and **finds two omissions**.
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); the reading is
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)) **corroborates item 6** and **finds two omissions**.
 
 - **Item 6.** §7: a lognormal of mean 0 and variance t, stopped at an
   exponential time of rate λ, has density ∝ x^(−1−√(2λ)) above 1 and
@@ -140,5 +140,5 @@ THEORY-tmp23821) **corroborates item 6** and **finds two omissions**.
   version. No positive feedback is involved, though an optimizer is.
 
 The catalogue is A's and does not claim completeness ("What it does not
-say"), so these are additions, not defeaters. THEORY-tmp23821
+say"), so these are additions, not defeaters. [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)
 `corroborates` this claim. Status unchanged.

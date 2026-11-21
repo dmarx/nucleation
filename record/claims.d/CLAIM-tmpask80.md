@@ -73,8 +73,8 @@ A15 gives five strands, each A's unless a work is named.
    specified conditions, a reservoir's total information-processing
    capacity is bounded by its number of independent state variables.
    Different dynamical regimes can redistribute that capacity between
-   linear memory and nonlinear transformations" (A15 §3; LIT-tmp7sbn6,
-   read 2026-11-21, THEORY-tmpr5fuq; see the dated note).
+   linear memory and nonlinear transformations" (A15 §3; [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md),
+   read 2026-11-21, [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md); see the dated note).
 3. **Sensitivity, reliability, speed.** Near criticality susceptibility,
    fluctuations and relaxation time all grow, so "exactly critical may not
    be exactly optimal" (A15 §6). A finite integration window moves the
@@ -131,9 +131,9 @@ criticality depends on what the system needs to accomplish.**"
 
 ## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
 
-Dambre and colleagues' paper (LIT-tmp7sbn6) was read in full with its
-supplement (NOTE-tmpkp5gf; the reading is THEORY-tmpr5fuq). It **supports
-strand 2** and **qualifies the thesis** (ARG-tmp53559).
+Dambre and colleagues' paper ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md)) was read in full with its
+supplement ([NOTE-tmpkp5gf](../notes.d/NOTE-tmpkp5gf.md); the reading is [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)). It **supports
+strand 2** and **qualifies the thesis** ([ARG-tmp53559](../arguments.d/ARG-tmp53559.md)).
 
 - **Strand 2 holds, with its conditions stated.** The total is bounded by
   the number N of observed variables for i.i.d. input, a linear readout and
@@ -148,7 +148,7 @@ strand 2** and **qualifies the thesis** (ARG-tmp53559).
 - **Not shown: allocation against distance from the transition.** The
   paper's redistributing "regimes" are input scalings and sampling periods
   at a fixed spectral radius near the edge, not distances from it. The
-  thesis's use of strand 2 for distance rests on CLAIM-tmpd1shn and the
+  thesis's use of strand 2 for distance rests on [CLAIM-tmpd1shn](CLAIM-tmpd1shn.md) and the
   other strands.
 - **Which edge.** The paper's edge is the undriven system's loss of linear
   stability, marginal stability, not a collective critical point, as the
@@ -159,4 +159,4 @@ strand 2** and **qualifies the thesis** (ARG-tmp53559).
   fading memory whose capacity is not bounded by its state variables,
   cannot be met: Theorem 4 bounds every system.
 
-THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in `grounds`. Status unchanged.
+[THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md) replaces [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md) in `grounds`. Status unchanged.

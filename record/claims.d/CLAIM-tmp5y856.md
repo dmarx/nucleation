@@ -54,9 +54,9 @@ become distinguishable from the random background").
 For a spiked covariance Σ = I + βvvᵀ estimated from N samples at γ = D/N, the
 top sample eigenvalue separates from the Marchenko–Pastur bulk only for
 β > β_c = √γ, opening as (β − √γ)²/β, and only then does its eigenvector
-carry information about v (the BBP transition, LIT-tmpipm3o, read 2026-11-21:
+carry information about v (the BBP transition, [LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read 2026-11-21:
 the eigenvalue for complex data; the real case is Baik and Silverstein's,
-LIT-tmpjtw0k, and the eigenvector clause Paul's, LIT-tmpxru3g; see the note
+[LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), and the eigenvector clause Paul's, [LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md); see the note
 of 2026-11-21 below).
 A32 §2: "This is not necessarily the moment when the network first learns
 anything. The signal existed below the threshold. Rather, it is the moment
@@ -108,8 +108,8 @@ decodability.
 
 ## Note of 2026-11-21: Baik, Ben Arous and Péché, read
 
-The BBP paper (LIT-tmpipm3o) was read (NOTE-tmpggv08; the reading is
-THEORY-tmp0covn), with three works beside it. It **supports the threshold**
+The BBP paper ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)) was read ([NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md); the reading is
+[THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md)), with three works beside it. It **supports the threshold**
 and **qualifies the attribution**.
 
 - **Supported.** Corollary 1.1 gives the threshold β > √γ and the outlier
@@ -124,11 +124,11 @@ and **qualifies the attribution**.
   least as many samples as variables, and only for the largest
   eigenvalue; the real case is its "Conjecture". For real data, this
   claim's setting, the threshold and location are Baik and Silverstein's
-  (LIT-tmpjtw0k, THEORY-tmp0zr7o). "Only then does its eigenvector carry
+  ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md)). "Only then does its eigenvector carry
   information about v" and the overlap are Paul's Theorem 4
-  (LIT-tmpxru3g, THEORY-tmp6808g), with Benaych-Georges and Nadakuditi's
-  (10) for the additive model (LIT-tmp1q78e, THEORY-tmp4zojc).
+  ([LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md), [THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md)), with Benaych-Georges and Nadakuditi's
+  (10) for the additive model ([LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md), [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md)).
 
-LIT-tmpipm3o leaves `grounds` (ARG-tmppdhhb), and THEORY-tmp0zr7o and
-THEORY-tmp6808g join it (ARG-tmpvalfs, ARG-tmpnwmcr); THEORY-tmp0covn and
-THEORY-tmp4zojc corroborate. The claim's content is unchanged.
+[LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md) leaves `grounds` ([ARG-tmppdhhb](../arguments.d/ARG-tmppdhhb.md)), and [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md) and
+[THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md) join it ([ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md), [ARG-tmpnwmcr](../arguments.d/ARG-tmpnwmcr.md)); [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md) and
+[THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md) corroborate. The claim's content is unchanged.

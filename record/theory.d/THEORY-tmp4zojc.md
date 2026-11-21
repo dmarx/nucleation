@@ -20,11 +20,11 @@ source:
 corroborates:
 - CLAIM-tmp5y856
 summary: >-
-  Benaych-Georges and Nadakuditi (2012), LIT-tmp1q78e, read in NOTE-tmpor0h4
+  Benaych-Georges and Nadakuditi (2012), [LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md), read in [NOTE-tmpor0h4](../notes.d/NOTE-tmpor0h4.md)
   (§3.1 only). The additive, signal-plus-noise form of the spiked
-  transition: the model the record's two-class mixture (CASE-tmp59xy5) and
-  mean-shift step (CLAIM-tmpk33au) actually use, with the same formulas as
-  the spiked covariance model (ARG-tmpe2vrk). Proposed until §3.1 and the
+  transition: the model the record's two-class mixture ([CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md)) and
+  mean-shift step ([CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)) actually use, with the same formulas as
+  the spiked covariance model ([ARG-tmpe2vrk](../arguments.d/ARG-tmpe2vrk.md)). Proposed until §3.1 and the
   theorems behind it are confirmed.
 ---
 <!-- inactive-ok-file: NOTE-tmpor0h4 — Skimmed; the reading this account is filed from -->
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Benaych-Georges and Nadakuditi, arXiv 1103.2221 (2011); J. Multivariate
-Anal. 111 (2012). LIT-tmp1q78e, read in NOTE-tmpor0h4 (§3.1).
+Anal. 111 (2012). [LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md), read in [NOTE-tmpor0h4](../notes.d/NOTE-tmpor0h4.md) (§3.1).
 
 ## The account
 

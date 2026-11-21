@@ -43,7 +43,7 @@ either power law or lognormal distributions, depending on seemingly
 trivial variations." Its own additions are small: a Fibonacci version of
 the monkeys-typing example (§6), the observation that the monkeys' power
 law is a geometric mixture of approximately lognormal variables (§7), and
-a recursive-tree model of file sizes. The reading is THEORY-tmp23821.
+a recursive-tree model of file sizes. The reading is [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md).
 
 ## Key results
 
@@ -132,40 +132,40 @@ geometric mixture of lognormals.
 
 ## Bearing on the record
 
-- **CLAIM-tmpiervv** (supports, and qualifies). The lognormal half is §5.
+- **[CLAIM-tmpiervv](../claims.d/CLAIM-tmpiervv.md)** (supports, and qualifies). The lognormal half is §5.
   The floor half is §5.1, in a different form: a reflecting minimum, not
   Kesten's additive B. The paper states neither E[A^κ] = 1 nor Kesten's
   conditions. Its example does instantiate the formula: E[F^κ] =
   (2/3)·2^(−κ) + (1/3)·2^κ = 1 at κ = 1, which is its m/x, and
-  E[ln F] = −0.231 < 0 with E[F] = 1. ARG-tmpk3nh6.
-- **CLAIM-tmpepx9m** (background, with one point of support). The history
+  E[ln F] = −0.231 < 0 with E[F] = 1. [ARG-tmpk3nh6](../arguments.d/ARG-tmpk3nh6.md).
+- **[CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md)** (background, with one point of support). The history
   of the feedback (Yule, Simon, the Web models) and a shifted linear kernel
   moving the exponent, which the claim's `defeated_if` allows. It says
   nothing on sublinear or superlinear kernels, and nothing like A3's
   "preferential attachment alone does not guarantee this result". The
-  kernel regimes are Krapivsky, Redner and Leyvraz's (LIT-tmp959qu).
-  ARG-tmpuhci1.
-- **CLAIM-tmp8h6nt** and **SYNTHESIS-tmp69tyj** (support). §6's sentence
+  kernel regimes are Krapivsky, Redner and Leyvraz's ([LIT-tmp959qu](../literature.d/LIT-tmp959qu.md)).
+  [ARG-tmpuhci1](../arguments.d/ARG-tmpuhci1.md).
+- **[CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md)** and **[SYNTHESIS-tmp69tyj](../syntheses.d/SYNTHESIS-tmp69tyj.md)** (support). §6's sentence
   is almost the claim's first clause; §2 and §8 add that the two laws may
   not be separable by the plot. It offers no fitting method and none of
-  the claim's dynamical tests. ARG-tmpl9rzj.
-- **CLAIM-tmply70l** (supports the age half, leaves the identification
+  the claim's dynamical tests. [ARG-tmpl9rzj](../arguments.d/ARG-tmpl9rzj.md).
+- **[CLAIM-tmply70l](../claims.d/CLAIM-tmply70l.md)** (supports the age half, leaves the identification
   open). §7 gives multiplicative growth with exponential ages as a power
   law, and §3's model always has entry; the paper keeps §3 and §7 apart
-  and never casts attachment in log-time. ARG-tmpp2xln.
-- **CLAIM-tmp1dlyp** (supports item 6, and finds two omissions). §7 adds
+  and never casts attachment in log-time. [ARG-tmpp2xln](../arguments.d/ARG-tmpp2xln.md).
+- **[CLAIM-tmp1dlyp](../claims.d/CLAIM-tmp1dlyp.md)** (supports item 6, and finds two omissions). §7 adds
   the zero-drift exponent 1 + √(2λ) to item 6. The catalogue leaves out
   random typing (§6) and optimization (§4), neither of which needs a
   positive feedback.
-- **QUESTION-tmp21jtb** (bears on it). Three exponent formulas, each a
+- **[QUESTION-tmp21jtb](../questions.d/QUESTION-tmp21jtb.md)** (bears on it). Three exponent formulas, each a
   balance: (2 − α)/(1 − α) from the mixing probability, 1 + √(2λ) from the
   stopping rate against the variance, and κ from the up and down
   probabilities.
-- **THEORY-2131** and **CLAIM-769** (parallels, no edge). §7 averages a
+- **[THEORY-2131](../theory.d/THEORY-2131.md)** and **[CLAIM-769](../claims.d/CLAIM-769.md)** (parallels, no edge). §7 averages a
   time-indexed family over an exponential spread of times and gets a power
   law, as Sozou averages exponentials over a spread of hazards. The paper
   does not draw the connection.
-- **CLAIM-tmp9a83b**: no bearing; the paper does not discuss criticality.
+- **[CLAIM-tmp9a83b](../claims.d/CLAIM-tmp9a83b.md)**: no bearing; the paper does not discuss criticality.
 
 ## Limitations
 

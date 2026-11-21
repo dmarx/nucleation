@@ -66,10 +66,10 @@ stratum.
 
 **Background.** The proportional-limit result this question cites, the
 spiked-covariance threshold β = √γ with γ = D/N, is now read: BBP prove it
-for complex Gaussian samples with D ≤ N (LIT-tmpipm3o, NOTE-tmpggv08;
-THEORY-tmp0covn), and Baik and Silverstein for real samples at any γ
-(LIT-tmpjtw0k; THEORY-tmp0zr7o). Both hold the number of spikes fixed as
+for complex Gaussian samples with D ≤ N ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), [NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md);
+[THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md)), and Baik and Silverstein for real samples at any γ
+([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md); [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md)). Both hold the number of spikes fixed as
 D, N → ∞: a proportional limit in which the signal's rank does not grow.
 That is the regime the question asks about only if the learned structure
-stays finite-rank, which CLAIM-tmp8mvx8's row 5 shows can fail. The
+stays finite-rank, which [CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md)'s row 5 shows can fail. The
 readings `bear_on` the question as background, not as an answer.

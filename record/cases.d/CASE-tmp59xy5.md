@@ -55,9 +55,9 @@ Finding v without labels is a separate matter. In the limit D, N → ∞ with
 Marchenko–Pastur edge (1 + √γ)² only when β > √γ, at
 (1 + β)(1 + γ/β), with squared eigenvector overlap
 (1 − γ/β²)/(1 + γ/β); below, the overlap tends to zero (the BBP transition,
-Baik, Ben Arous and Péché, LIT-tmpipm3o, read 2026-11-21; for this
+Baik, Ben Arous and Péché, [LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read 2026-11-21; for this
 mixture the theorem that applies is Benaych-Georges and Nadakuditi's,
-LIT-tmp1q78e, and the overlap is also Paul's, LIT-tmpxru3g; see the note
+[LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md), and the overlap is also Paul's, [LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md); see the note
 of 2026-11-21 below).
 
 "Semantically informative structure can exist in an embedding cloud whose
@@ -87,7 +87,7 @@ problem is different, as A32 says.
 
 ## Note of 2026-11-21: Baik, Ben Arous and Péché, read
 
-The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
+The BBP paper ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read in [NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md); [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md))
 **qualifies** the case's attribution; its numbers stand.
 
 - The formulas are exact after the change of notation, but z = √β·s·v + ε
@@ -95,13 +95,13 @@ The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
   samples, and not Baik and Silverstein's T^(1/2)Z with identically
   distributed entries either (the coordinate along v differs).
 - It is exactly Benaych-Georges and Nadakuditi's additive rank-one model
-  (§3.1; LIT-tmp1q78e, THEORY-tmp4zojc): the data matrix √β·vsᵀ + E,
+  (§3.1; [LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md), [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md)): the data matrix √β·vsᵀ + E,
   divided by √N, is a Gaussian matrix plus a perturbation of singular
   value θ = √β, so the threshold θ > γ^(1/4) is β > √γ, the outlier is
-  (1 + β)(1 + γ/β) and the overlap (1 − γ/β²)/(1 + γ/β) (ARG-tmpe2vrk).
+  (1 + β)(1 + γ/β) and the overlap (1 − γ/β²)/(1 + γ/β) ([ARG-tmpe2vrk](../arguments.d/ARG-tmpe2vrk.md)).
 - The overlap is also Paul's Theorem 4 for the covariance-spike reading
-  (LIT-tmpxru3g, THEORY-tmp6808g; ARG-tmpnwmcr).
+  ([LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md), [THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md); [ARG-tmpnwmcr](../arguments.d/ARG-tmpnwmcr.md)).
 
-The case `draws_on` THEORY-tmp4zojc and THEORY-tmp6808g for its check of
+The case `draws_on` [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md) and [THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md) for its check of
 the PCA column. The "Deferred: registered, not read" parenthesis above is
 updated.

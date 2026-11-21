@@ -72,8 +72,8 @@ whose exponent is not such a root.
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
-THEORY-tmp23821) **bears on** the question with three exponent formulas,
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); the reading is
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)) **bears on** the question with three exponent formulas,
 each a balance, which is evidence for the partial pattern above:
 
 - preferential attachment with a uniform share α: density exponent
@@ -88,5 +88,5 @@ None is a counterexample of the kind "What would answer it" asks for. The
 second is also a root of a balance, though the paper does not put it so:
 κ = √(2λ) solves κ²/2 = λ, the growth rate of E[X_t^κ] for the
 zero-drift log-walk set equal to the stopping rate (the filer's
-reading, from the paper's integral). THEORY-tmp23821 `bears_on`
+reading, from the paper's integral). [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md) `bears_on`
 this question.

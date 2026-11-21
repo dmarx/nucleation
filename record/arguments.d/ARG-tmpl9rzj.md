@@ -14,14 +14,14 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 summary: >-
-  Whether Mitzenmacher's survey (LIT-tmpwdtfj), read, carries
-  CLAIM-tmp8h6nt's first clause, that a power law does not identify the
+  Whether Mitzenmacher's survey ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)), read, carries
+  [CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md)'s first clause, that a power law does not identify the
   mechanism that produced it. It does: §6 says almost that sentence, and the
   survey shows one law (Zipf's) reached by preferential attachment,
   optimization and random typing, and a lognormal that looks straight on a
   log-log plot. It does not carry the claim's remedy: it has no fitting
   method, and its own empirical test is the log-log line. The reading stays
-  in the claim's grounds, as THEORY-tmp23821. The wording is the
+  in the claim's grounds, as [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp8h6nt THEORY-tmp23821 — Proposed; the claim and the reading this argument joins -->
@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmp8h6nt: a power-law distribution does not identify its mechanism,
+[CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md): a power-law distribution does not identify its mechanism,
 nor does a shared law show a shared mechanism; the mechanism has to be read
 from the dynamics, after the tail is fitted against the lognormal.
 
@@ -51,12 +51,12 @@ yes. The positive half, read the dynamics and fit first, is not in the
 paper: §2 calls the log-log line "a simple empirical test", and the
 dynamical tests the claim names (gain proportional to size, floors and
 resets, a cutoff that moves with system size) are not discussed. Those
-rest on Clauset, Shalizi and Newman (LIT-tmpjai28) and on A.
+rest on Clauset, Shalizi and Newman ([LIT-tmpjai28](../literature.d/LIT-tmpjai28.md)) and on A.
 
 **Does the claim lean on the reading for more than it holds?** No, so
 long as it is cited for the first clause.
 
 ## Verdict
 
-Support for the first clause. LIT-tmpwdtfj is replaced in the claim's
-grounds by THEORY-tmp23821.
+Support for the first clause. [LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md) is replaced in the claim's
+grounds by [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md).

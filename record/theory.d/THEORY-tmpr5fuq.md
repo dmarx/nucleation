@@ -20,13 +20,13 @@ source:
 bears_on:
 - QUESTION-tmp2hhlc
 summary: >-
-  Dambre, Verstraeten, Schrauwen and Massar (2012), LIT-tmp7sbn6, read in
-  NOTE-tmpkp5gf with the supplement. The bound needs only i.i.d. input, a
+  Dambre, Verstraeten, Schrauwen and Massar (2012), [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), read in
+  [NOTE-tmpkp5gf](../notes.d/NOTE-tmpkp5gf.md) with the supplement. The bound needs only i.i.d. input, a
   linear readout and infinite data; fading memory and full rank are the
   conditions for equality; unobserved noise is a further input and takes
-  part of the total. The record uses it for CLAIM-tmpask80's bound
-  (ARG-tmp53559) and CLAIM-tmpd1shn, which is an instance of Theorem 7
-  (ARG-tmpr04sw). Its edge is the undriven system's stability edge, and its
+  part of the total. The record uses it for [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md)'s bound
+  ([ARG-tmp53559](../arguments.d/ARG-tmp53559.md)) and [CLAIM-tmpd1shn](../claims.d/CLAIM-tmpd1shn.md), which is an instance of Theorem 7
+  ([ARG-tmpr04sw](../arguments.d/ARG-tmpr04sw.md)). Its edge is the undriven system's stability edge, and its
   sweep is input scaling. Proposed until the theorems are confirmed.
 ---
 <!-- inactive-ok-file: CLAIM-tmpask80 CLAIM-tmpd1shn ARG-tmp53559 ARG-tmpr04sw — Proposed; the claims that use this reading, and the arguments of 2026-11-21 -->
@@ -36,8 +36,8 @@ summary: >-
 ## Source
 
 Dambre, Verstraeten, Schrauwen and Massar, Scientific Reports 2: 514
-(2012), LIT-tmp7sbn6, read in full with its Supplementary Information in
-NOTE-tmpkp5gf.
+(2012), [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), read in full with its Supplementary Information in
+[NOTE-tmpkp5gf](../notes.d/NOTE-tmpkp5gf.md).
 
 ## The account
 

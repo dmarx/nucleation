@@ -103,8 +103,8 @@ process with neither gives a lognormal that only widens.
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review (LIT-tmpwdtfj) was read in full (NOTE-tmp0rhkc;
-the reading is THEORY-tmp23821). It **corroborates** the claim and
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)) was read in full ([NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md);
+the reading is [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)). It **corroborates** the claim and
 **qualifies** its floor; it is not a ground for the Kesten half.
 
 - **Supports the lognormal half.** "if the ln Fk are independent and
@@ -133,7 +133,7 @@ the reading is THEORY-tmp23821). It **corroborates** the claim and
   the random observation time is the entry route (§7, Reed's double
   Pareto).
 
-So LIT-tmpwdtfj leaves this claim's `grounds` and THEORY-tmp23821
-`corroborates` it (ARG-tmpk3nh6). The Kesten half still rests on Kesten
-(LIT-tmpx9axf), unread, and the "What it does not say" caveat on the
+So [LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md) leaves this claim's `grounds` and [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)
+`corroborates` it ([ARG-tmpk3nh6](../arguments.d/ARG-tmpk3nh6.md)). The Kesten half still rests on Kesten
+([LIT-tmpx9axf](../literature.d/LIT-tmpx9axf.md)), unread, and the "What it does not say" caveat on the
 conditions stands. Status unchanged.

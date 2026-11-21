@@ -111,7 +111,7 @@ reading [CLAIM-tmplb1ow](CLAIM-tmplb1ow.md). The claim is unchanged.
 ## Note of 2026-11-21: Mitzenmacher, read
 
 A **parallel**, adding a case, with no edge. Mitzenmacher's §7
-(LIT-tmpwdtfj, read in NOTE-tmp0rhkc; THEORY-tmp23821) is a further instance
+([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)) is a further instance
 of a power law from averaging over a spread: there the spread is of
 observation times, a lognormal of variance t averaged over exponentially
 distributed t, not of rates. Montroll and Schlesinger's geometric mixture of
