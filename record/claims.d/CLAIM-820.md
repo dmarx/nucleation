@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpficzj
 title: "A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    After the readings of LIT-2999 (NOTE-tmp1feoo) and LIT-2979
+    (NOTE-tmphbnqd). The survey's reading, THEORY-tmpks8pd, replaces the
+    unread LIT in the grounds (ARG-tmpddl7x); the reduction method's
+    reading corroborates. The claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,7 +40,7 @@ grounds:
 - THEORY-774
 - THEORY-777
 - THEORY-742
-- LIT-2999
+- THEORY-tmpks8pd
 - THEORY-2154
 - LIT-2958
 - LIT-1299
@@ -53,11 +61,11 @@ summary: >-
   Richer Power Laws", A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, one of the two worked cases -->
-<!-- inactive-ok-file: LIT-2999 LIT-2958 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-2958 — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: TERM-135 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
 <!-- inactive-ok-file: ARG-142 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: ARG-150 THEORY-2154 THEORY-2155 THEORY-2156 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: ARG-150 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-tmpks8pd THEORY-tmpt1tw7 ARG-tmpddl7x — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-820: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
 
@@ -179,3 +187,30 @@ Read in [NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.m
   overparameterized networks: the small network is regular where measured
   and the autoencoder's parameters are not its weights ([ARG-150](../arguments.d/ARG-150.md),
   Rejected as an inference to this claim for such networks).
+
+## Note of 2026-11-21: Gutenkunst et al. (2007) and Transtrum & Qiu (2014), read
+
+- **The survey supports the claim for systems-biology models, in one
+  model for predictions** ([NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md), [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md); [ARG-tmpddl7x](../arguments.d/ARG-tmpddl7x.md)).
+  Across seventeen models the spectra "span many decades" with "no
+  well-defined cutoff", and an idealized fit "leaves many parameters with
+  greater than 100% uncertainty" in most. In the PC12 model, after a fit in
+  which "Not a single parameter was constrained to better than a factor of
+  50", a prediction is tight, while matching it by measurement needs "all
+  24 involved parameters" to ±25%. The abstract generalizes ("modelers
+  should focus on predictions rather than on parameters"); tight
+  predictions are tested in one model only.
+- **Relative to the observables fitted**, in the paper's words:
+  "exhaustive experiments designed to decouple the system and separately
+  measure each parameter will naturally not yield sloppy parameter
+  sensitivities."
+- **The second clause of defeated_if.** The survey answers it otherwise
+  than the later papers: the bare parametrization is "fundamental to the
+  system, not an artifact of the modeling process", and the PC12 model
+  with every rate and concentration set to 1 "remains sloppy". That tells
+  against an artefact of scales, not against reparametrization in
+  general, which the widths answer (the note above).
+- **Transtrum and Qiu corroborate** ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)), in
+  the claim's own terms: "such models have more complexity in their
+  description than in their predictions" (para. 6), and the EGFR model's
+  48 parameters reduce to 12 with nearly the same predictions.

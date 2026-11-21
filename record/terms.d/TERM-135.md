@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp5z2du
 title: 'hyperribbon: a model manifold whose widths across successive orthogonal directions fall roughly geometrically, the prediction-space face of a sloppy Fisher spectrum'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-21'
@@ -22,6 +22,19 @@ history:
     metric is singular; the caution against equating stiffness with RG
     relevance is A's, not the review's. The statements that the sources were
     unread are replaced.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    Edited in place after the readings of LIT-2979 (Transtrum & Qiu 2014,
+    NOTE-tmphbnqd), LIT-2999 (Gutenkunst et al. 2007, NOTE-tmp1feoo) and
+    LIT-2960 (Amari, Park & Ozeki 2006, NOTE-tmptlwkf). The title and the
+    definition stand. Added: the manifold boundary approximation needs a
+    hierarchy of edges and corners as well as of widths, so a hyperribbon
+    without corners, which the definition admits, is a case the method
+    cannot use (the paper's ellipsoid); and condition 2 is limited to the
+    sloppy-model literature's models, since in networks the singular sets
+    are interior. The statements that the reduction method and the survey
+    are unread are replaced.
 tags:
 - information-geometry
 - mathematical-statistics
@@ -38,6 +51,7 @@ draws_on:
 - THEORY-774
 - THEORY-777
 - THEORY-742
+- THEORY-tmpt1tw7
 summary: >-
   The shape the exchange "Rich Get Richer Power Laws" gives, at A19 §4,
   to the set of predictions a sloppy model can make: long in a few
@@ -57,9 +71,9 @@ summary: >-
   A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the record's evidence for the critical-Ising spectrum -->
-<!-- inactive-ok-file: LIT-2958 LIT-2979 LIT-2999 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-2958 — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: CLAIM-825 — filed with this term from the same exchange, Proposed -->
-<!-- inactive-ok-file: CASE-302 TERM-140 THEORY-2154 THEORY-2155 THEORY-2156 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: CASE-302 TERM-140 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-tmpt1tw7 THEORY-tmpks8pd THEORY-tmpbobud — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # TERM-135: hyperribbon: a model manifold whose widths across successive orthogonal directions fall roughly geometrically, the prediction-space face of a sloppy Fisher spectrum
 
@@ -143,7 +157,13 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
    manifold folds or pinches, and the Bayesian count of effective
    parameters is set by the learning coefficient rather than by the
    spectrum ([THEORY-087](../theory.d/THEORY-087.md), [THEORY-1253](../theory.d/THEORY-1253.md)). How the two pictures meet is the
-   owner's question at U24, left to the filing of that turn.
+   owner's question at U24, left to the filing of that turn. The
+   condition is the sloppy-model literature's, for its own models. In
+   neural networks the points of rank loss lie inside parameter space at
+   finite values, a unit switched off or two units coinciding, and in the
+   space of distributions at a cone apex, not at an edge ([LIT-2960](../literature.d/LIT-2960.md),
+   [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)), so a network near such a set is not a regular
+   interior between singular edges.
 
 ## What it is not
 
@@ -168,6 +188,14 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
   rate b^(2y−d) per step, with the dimension d in it, not b^y
   ([THEORY-777](../theory.d/THEORY-777.md)), and the exact transfer of the metric needs the
   renormalized Hamiltonian to stay in the family ([THEORY-742](../theory.d/THEORY-742.md)).
+- **Not enough for boundary reduction.** A hierarchy of widths is not a
+  hierarchy of edges. Transtrum and Qiu's reduction method needs "the
+  model manifold be bounded with a hierarchy of boundaries", and gives the
+  counter-example: polynomial fitting with a bounded coefficient vector is
+  "an ellipsoid with a hierarchy of widths but without a hierarchy of
+  edges; i.e., there are no corners" ([LIT-2979](../literature.d/LIT-2979.md), para. 21). Such a manifold
+  is a hyperribbon by this definition, and the method cannot use it
+  ([THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)).
 - **Not a count of parameters.** Neither a hyperribbon's dimension nor
   its number of "wide" directions is fixed: how many directions a data set
   resolves grows with the data ([CLAIM-825](../claims.d/CLAIM-825.md)), and which of several
@@ -183,8 +211,10 @@ to the manifold's boundary, which A19 §4 names: Transtrum and Qiu 2014
 ([LIT-2979](../literature.d/LIT-2979.md)). The empirical base in systems biology: Gutenkunst and
 colleagues 2007 ([LIT-2999](../literature.d/LIT-2999.md)). The two papers and the 2015 review were
 read on 2026-11-21 ([NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.md), [NOTE-2242](../notes.d/NOTE-2242.md)) and filed
-as [THEORY-2156](../theory.d/THEORY-2156.md), [THEORY-2155](../theory.d/THEORY-2155.md) and [THEORY-2154](../theory.d/THEORY-2154.md); the 2023 review,
-the reduction method and the survey are Deferred and unread. The
+as [THEORY-2156](../theory.d/THEORY-2156.md), [THEORY-2155](../theory.d/THEORY-2155.md) and [THEORY-2154](../theory.d/THEORY-2154.md); the reduction
+method and the survey were read the same day ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md),
+[NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)) and filed as [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md) and [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md); the
+2023 review is Deferred and unread. The
 definition rests on those readings, on A's wording and on the record's
 readings of [THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md) and [THEORY-742](../theory.d/THEORY-742.md).
 
@@ -214,3 +244,21 @@ made in place above (version 2). What the readings support and qualify:
 - **Their scope:** the 2010 letter excludes "Multiparameter models whose
   parameters are individually measured by the data" and models "with
   sensitive, chaotic dependence on parameters".
+
+## Note of 2026-11-21: Transtrum & Qiu (2014), Gutenkunst et al. (2007) and Amari, Park & Ozeki (2006), read
+
+- **Transtrum and Qiu ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md)) support the definition**: "the
+  manifold is bounded with a hierarchy of widths, qualitatively described
+  as a hyper-ribbon" (para. 8), spelt with the hyphen. **They add** that
+  widths are not enough for their method, which needs nested edges and
+  corners; an ellipsoid has the widths and "no corners" (para. 21). Made
+  in place above, under "What it is not" (version 3). The reduced model
+  sits at a "hypercorner", and after reduction "the lack of small
+  eigenvalues" shows the reduced model is no longer sloppy.
+- **Gutenkunst and colleagues ([NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)): background.** The survey
+  has no model manifold and no widths; its ellipsoids are in parameter
+  space, axes ∝ 1/√λ (Fig. 1A). It is the empirical base the definition's
+  sources cite, and accurately.
+- **Amari, Park and Ozeki ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)) limit condition 2** to the
+  sloppy-model literature's models: network singularities are interior,
+  at finite parameters (made in place above).

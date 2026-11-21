@@ -132,3 +132,11 @@ title's "at the point estimates" and its "not across their spread"
 already hedge. The estimate also depends on the localizer's precision γ
 and on per-point sampler settings, neither of which the paper's
 calibration covers. No status change.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Background ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)): the later paper cites this one as its only
+empirical precedent, transitions of SGD and of the Bayesian posterior
+"reflected as sudden changes in the estimated LLC" (§5), and extends the
+coefficient's use to stages of transformer training. No relation
+written.

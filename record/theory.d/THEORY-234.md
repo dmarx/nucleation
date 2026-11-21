@@ -175,3 +175,12 @@ span a subspace Γ̃ ⊆ Ñ of dimension dim Γ, on which f̃ represents q
 linearly. The argument uses Γ ⊆ N, to see f only through P_M f, and
 Γ_q ⊆ M, to see the right-hand side only through P_M f. It gives
 sufficiency, not necessity, which is why the title says "when".
+
+## Note of 2026-11-21: Acharya, Rimal & Dhakal, and Xu, read
+
+Qualifies two readings ([NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)). Both measure
+energy or length in the final representation in a Euclidean metric, which
+the equivalence this account states, h ↦ Ah with W ↦ WA⁻¹, changes while
+leaving the predictions unchanged. Acharya et al.'s energy fractions and
+Xu's singular ranking are not invariant under it; vᵀΣv is, and so is Xu's
+quotient of metrics. No relation written.

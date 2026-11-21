@@ -24,6 +24,7 @@ summary: >-
   importance disagree for several matrix types.
 ---
 <!-- inactive-ok-file: LIT-369 THEORY-078 — Proposed; a neighbour in the random-matrix reading of trained weights, and the bulk-edge convention this account qualifies, named and not leaned on -->
+<!-- inactive-ok-file: LIT-tmpcvxug — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
 # THEORY-420: In trained transformers, zeroing a decile of a weight matrix's singular values does damage that falls monotonically with their size in square matrices, whose random-matrix null reaches zero, but not in rectangular ones, whose null has a positive lower edge: there the smallest decile is never the least damaging and can be among the most
 
@@ -102,3 +103,16 @@ treats it. In rectangular matrices it was not.
 - **The anthology** holds the paper as [ANTH-LIT-517](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-517.md), read for
   low-rank-plus-quantisation practice. [NOTE-659](../notes.d/NOTE-659.md) reports that its key
   results state the lower-end overlap more broadly than the paper finds.
+
+## Note of 2026-11-21: Xu, and Acharya, Rimal & Dhakal, read
+
+A parallel and a contrast ([NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)). Xu cites this
+account's source for the same divergence of magnitude and consequence
+"inside the network", and both measure damage under removal without
+refitting against a ranking by magnitude. But Xu replaces a component of
+the final hidden state along the unembedding's least-amplified
+directions, not weight singular values inside blocks, and its bottom
+singular values "decline smoothly" with no gap below a bulk, so its effect
+does not rest on an outlier mechanism. Acharya, Rimal and Dhakal also cite
+this account's source, and LASER ([LIT-tmpcvxug](../literature.d/LIT-tmpcvxug.md)), which removes small
+singular components to improve a model. No relation written.

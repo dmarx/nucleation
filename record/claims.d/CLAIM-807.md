@@ -46,6 +46,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-180 CLAIM-828 LIT-2961 — Proposed or new, or a Deferred work registered from the exchange and not yet read -->
+<!-- inactive-ok-file: THEORY-tmpg4aat — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
 
 # CLAIM-807: A factored feature under weight decay, ŷ = abφ, switches on at a sharp threshold: its strength is q* = (s − λ)₊, the origin loses stability through a pitchfork in the parameters at s = λ, relaxation there is algebraic and the local coefficient of the regularized loss dips from 1 to 3/4, and just above threshold the feature's variance is of order ε² while its gain in fit is of order ε, so a newly active feature is quiet but consequential
 
@@ -125,3 +126,12 @@ pitchfork account of concept emergence in a Gaussian-mixture probe
 framework, and Wang et al.'s refined coefficients ([THEORY-975](../theory.d/THEORY-975.md)). The record
 holds the pitchfork normal form in another domain ([CLAIM-408](CLAIM-408.md)) and the
 plateau-time law without weight decay ([THEORY-740](../theory.d/THEORY-740.md)).
+
+## Note of 2026-11-21: Wei et al. (2008), read
+
+A contrast. This claim has an algebraic relaxation at a threshold. Wei
+and colleagues' plateaus near overlap singularities have none: the paper
+derives orbits, not time courses, and its long plateau is a noise-driven
+walk along a line of equivalent models ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md), [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md)).
+The two mechanisms of slow learning near a singular set are different
+and the claim does not depend on theirs.
