@@ -10,10 +10,10 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 summary: >-
-  The question ARG-tmp2w77g's third critical question raised and left
-  open. ARG-tmp2w77g rejected the cities example of the exchange "Rich
-  Get Richer Power Laws" as evidence for CLAIM-tmpepx9m, because in Davis
-  and Weinstein (THEORY-1499) Japanese cities returned to their prewar
+  The question [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md)'s third critical question raised and left
+  open. [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md) rejected the cities example of the exchange "Rich
+  Get Richer Power Laws" as evidence for [CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md), because in Davis
+  and Weinstein ([THEORY-1499](../theory.d/THEORY-1499.md)) Japanese cities returned to their prewar
   relative sizes after the bombing, which growth that depends only on
   current size would not do. That settles the ranking of cities, not the
   shape of the distribution's upper tail: cumulative advantage could still
@@ -30,27 +30,27 @@ summary: >-
 
 ## Why it is a question
 
-Two things are kept apart in ARG-tmp2w77g. One is relative city size after a
-shock. Davis and Weinstein measure it (THEORY-1499, THEORY-1503), and on that
+Two things are kept apart in [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md). One is relative city size after a
+shock. Davis and Weinstein measure it ([THEORY-1499](../theory.d/THEORY-1499.md), [THEORY-1503](../theory.d/THEORY-1503.md)), and on that
 the record's evidence favours a stable attractor over path-dependent growth.
 The other is the shape of the size distribution's upper tail. The rejection
 does not bear on it: an account in which locational fundamentals fix each
 city's rank while proportional growth with the entry of new cities spreads
-the sizes (CLAIM-tmpepx9m, CLAIM-tmply70l) would predict both the Japanese
+the sizes ([CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md), [CLAIM-tmply70l](../claims.d/CLAIM-tmply70l.md)) would predict both the Japanese
 return and a heavy tail. Nor does the record's other reading on city
-persistence settle it: Bleakley and Lin (THEORY-1505) read the lasting density
+persistence settle it: Bleakley and Lin ([THEORY-1505](../theory.d/THEORY-1505.md)) read the lasting density
 of portage cities as path dependence under local increasing returns, which is
-a claim about levels at particular sites, not about the tail. CLAIM-tmp8h6nt
+a claim about levels at particular sites, not about the tail. [CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md)
 holds that a fitted power law cannot itself name the mechanism. So whether
 cumulative advantage contributes to the tail, rather than the distribution of
-fundamentals or multiplicative growth with a floor (CLAIM-tmpiervv), is open.
+fundamentals or multiplicative growth with a floor ([CLAIM-tmpiervv](../claims.d/CLAIM-tmpiervv.md)), is open.
 
 ## What would answer it
 
 - **Yes.** A data set of cities over time in which growth rates scale with
   current size and new cities keep entering, with the tail exponent the
   entry rate predicts, and in which the tail is fitted against a lognormal
-  first, by CLAIM-tmp8h6nt; or a model calibrated to the Japanese data in
+  first, by [CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md); or a model calibrated to the Japanese data in
   which ranks return after the shock while the tail is set by attachment.
 - **No.** A tail reproduced by the distribution of locational fundamentals
   alone, with growth that does not depend on size, or by multiplicative

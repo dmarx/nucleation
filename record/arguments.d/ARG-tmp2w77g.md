@@ -40,7 +40,7 @@ summary: >-
   leaves, whether cumulative advantage shapes the upper tail while
   relative sizes stay anchored, is now held open as QUESTION-tmp2b8au.
 ---
-<!-- inactive-ok-file: CLAIM-tmpepx9m QUESTION-tmp2b8au — new and Proposed or Open, filed from the exchange "Rich Get Richer Power Laws" or on 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpepx9m — new and Proposed or Open, filed from the exchange "Rich Get Richer Power Laws" or on 2026-11-21 -->
 
 # ARG-tmp2w77g: The other assistant's account of large cities attracting businesses, workers and investment shows that city sizes follow from attachment in proportion to size, an instance of cumulative advantage
 
@@ -89,7 +89,7 @@ to [THEORY-1499](../theory.d/THEORY-1499.md) as a limit on where its mechanism a
 
 ## Note of 2026-11-21: the record's other readings on city sizes
 
-This argument first called THEORY-1499 "the record's one reading on city sizes". The record also holds THEORY-1503, Davis and Weinstein's test of unique against multiple equilibria on the same bombing data, and THEORY-1505, Bleakley and Lin's finding that US cities at historical portage sites remain 60–100% denser than comparable sites long after their transport advantage ended.
+This argument first called [THEORY-1499](../theory.d/THEORY-1499.md) "the record's one reading on city sizes". The record also holds [THEORY-1503](../theory.d/THEORY-1503.md), Davis and Weinstein's test of unique against multiple equilibria on the same bombing data, and [THEORY-1505](../theory.d/THEORY-1505.md), Bleakley and Lin's finding that US cities at historical portage sites remain 60–100% denser than comparable sites long after their transport advantage ended.
 
-The two pull in different directions. Davis and Weinstein find recovery to the prior path, which tells against growth that depends only on current size. Bleakley and Lin find persistence after the original advantage is gone, which is path dependence: history matters. Path dependence is not attachment in proportion to size, though. It can come from sunk infrastructure or from agglomeration around a fixed site, with no size-proportional growth at all. So the verdict stands: neither reading is evidence that city sizes follow from cumulative advantage in the strong form. What the pair leaves open is the shape of the size distribution's upper tail, now QUESTION-tmp2b8au. The note is the assistant's (Claude, in this session).
+The two pull in different directions. Davis and Weinstein find recovery to the prior path, which tells against growth that depends only on current size. Bleakley and Lin find persistence after the original advantage is gone, which is path dependence: history matters. Path dependence is not attachment in proportion to size, though. It can come from sunk infrastructure or from agglomeration around a fixed site, with no size-proportional growth at all. So the verdict stands: neither reading is evidence that city sizes follow from cumulative advantage in the strong form. What the pair leaves open is the shape of the size distribution's upper tail, now [QUESTION-tmp2b8au](../questions.d/QUESTION-tmp2b8au.md). The note is the assistant's (Claude, in this session).
 
