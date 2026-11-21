@@ -71,6 +71,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-772 ARG-124 CLAIM-777 CLAIM-776 CLAIM-782 CLAIM-773 CLAIM-779 CLAIM-768 CLAIM-790 CLAIM-793 CLAIM-789 CLAIM-315 — Proposed or Open; filed on 2026-11-21 and cited in these notes -->
 
 <!-- inactive-ok-file: CLAIM-090 ARG-035 CLAIM-191 CLAIM-182 CLAIM-189 SYNTHESIS-066 CLAIM-184 RETRO-004 — Proposed or Open; components of this account, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-778 CLAIM-180 CLAIM-tmp9bp04 ARG-tmpjx3ww — Proposed; filed or revised 2026-11-21 and cited in the note of that date -->
 # SYNTHESIS-115: In the record, iterated transmission can forget its origin while staying far from it, serial reconstruction is filtered by the transmitters' biases with convergence to the prior proved for sampling learners, arguments restated across memoryless sessions lose identity, an anchor is held to secure what its reference is tied to, re-reading a kept source to settle interpretation on an offset rather than a drift, and exact copies of a revised source to go stale, and what a record can secure is held to be traceability
 
 *A thematic account, across lines, of principle P9 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
@@ -162,3 +163,19 @@ clause on anchors would read "an anchor secures what it is tied to". That
 is the form the manuscript now states. As with the note above, these are
 candidates for this account's components at its next synthesis review, and
 none is added here.
+
+## Note of 2026-11-21: the synthesis review, and the filing of "Rich Get Richer Power Laws"
+
+Two events of the same day bear on this account's components. For its next version to weigh:
+
+- **Admissions of two components.** The synthesis review of 2026-11-21 (curation entry of 14:58) admitted parts of two components.
+  - CLAIM-191: only its direction clause passes, by a separating case. Its narrower sentence is that restatements of uncoded content move, "as judged by blind raters", toward the assistant's default framings. The code clause adds nothing to CLAIM-182 with CLAIM-180.
+  - CLAIM-772: only its record-design half passes, as a narrower empirical sentence. Its general half is CLAIM-635 with CLAIM-779.
+
+  It also admitted one sentence of CLAIM-778, not a component: inbound edges make an entry's title and claim, in effect, conserved. A rough count leans toward that claim's defeater. Whether to retitle each claim is open for the owner. If the owner retitles them, this account's clauses on CLAIM-191 and CLAIM-772 would follow.
+- **Further instances of drift toward a collaborator's framing.** The independent coverage reread of the filing of "Rich Get Richer Power Laws" (curation entry of 18:01) found two kinds:
+  - three owner entries carrying A's framing in the owner's voice, since retitled;
+  - A's syntheses telling the owner's ideas as A's own, and dropping owner turns and their results. ARG-tmpjx3ww records that A41 misstates A19.
+
+  These bear on CLAIM-177 and CLAIM-191's direction clause. They were caught by an independent reader, which CLAIM-793 predicts is what such errors need. They were not judged by blind raters, so they are not CLAIM-191's narrower test.
+- **Stored whole, read in part.** The owner's "you were cut off" (U27) concerned a turn the share holds whole, in two fragments either side of a web search; the owner probably saw only the first (recorded in CLAIM-tmp9bp04). Storage kept the text, and the reading did not reach all of it. The assistant reads this as a case for this account's point that storage is not anchoring (CLAIM-182). No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).

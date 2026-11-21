@@ -34,6 +34,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-tmp5y856 CLAIM-tmpk33au CLAIM-tmpqbo50 CASE-tmp59xy5 CLAIM-tmpjbee7 TERM-tmpol232 — Proposed or new; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
 
 <!-- inactive-ok-file: CLAIM-770 CLAIM-780 CLAIM-781 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
+<!-- inactive-ok-file: CLAIM-tmpgzb8v CLAIM-tmp85eq8 CLAIM-tmpp83vc ARG-tmpbmruy CLAIM-tmpr4k9z CLAIM-tmpyxiwv CLAIM-tmpask80 ARG-tmpubyzo CLAIM-tmpd1shn — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the second note of that date -->
 
 # SYNTHESIS-109: Growth in observing resource splits what can be told apart, growth in acting resource merges what can be turned into one another, and optimal categories at a larger budget can re-carve rather than refine: what the record holds on how categories change as resources grow
 
@@ -83,3 +84,16 @@ This account's "what can be told apart" is the second of the three senses of sep
 - **Telling apart without levels.** Near a critical point the class is easy to tell while no level separates ([CLAIM-tmpjbee7](../claims.d/CLAIM-tmpjbee7.md)). Separation of classes and separation of levels are independent.
 
 No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).
+
+## Note of 2026-11-21: re-carving and orders in a learner
+
+The note above concerns this account's first clause, what can be told apart. The same exchange also bears on its optimal-partition clause and on its claim that refinement is one case among several. For the next version to weigh:
+
+- **A learner's transition as a re-carving, on one reading only.** The owner suggested that singularity theory's account of "phase transitions in learning as resolutions of singularities" might be useful (CLAIM-tmpp83vc, U23). The record files two readings as alternatives, and the owner has not chosen between them.
+  - Reading (b), CLAIM-tmpgzb8v (A's): a transition is a change in which singular region dominates as the sample grows, between regions that fit differently. If adopted, it is a case of this account's re-carving with the sample as the budget: the best model at a larger sample need not refine the best at a smaller one. No entry states that tie to CLAIM-387; it is the assistant's reading.
+  - Reading (a), CLAIM-tmp85eq8: training carries out a resolution. It gives no such case, and ARG-tmpbmruy argues from CLAIM-305 that it fails.
+- **Orders that need not be chains.** CLAIM-tmpr4k9z (A's): semantic entailment among a representation's regions, and Blackwell refinement among its checkpoints, are partial orders, "neither of which need be a chain". This agrees with the account's "What it does not say": splitting is not the normal case.
+- **Resolved directions grow with data.** CLAIM-tmpyxiwv (the assistant's, demonstrated): when past and future share a parameter, predictive information grows as (d/2) ln T with d resolved directions, and faster under a power-law Fisher spectrum. The number of directions a learner can tell apart is then itself a function of the observing budget.
+- **A fixed capacity, redistributed.** CLAIM-tmpask80 (A's), with ARG-tmpubyzo and CLAIM-tmpd1shn (the assistant's): nearness to a dynamical transition redistributes a capacity bounded by the number of independent state variables, rather than raising it. This is a budget for distinctions held fixed while its allocation moves, which is neither of this account's two directions.
+
+The readings of the works behind these are being filed: Bialek, Nemenman and Tishby, Dambre and colleagues, and the BBP papers. No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).

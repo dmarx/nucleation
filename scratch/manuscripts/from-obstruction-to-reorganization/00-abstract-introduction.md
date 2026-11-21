@@ -11,13 +11,13 @@ We present a general theory of learning and inquiry, intended to apply to any sy
 **The theory.**
 
 - **Distinctions are relative.** A distinction is relative to a target and a regime. A new one is needed exactly when situations treated alike call for different acceptable actions.
-- **Budgets pull both ways.** More resource for observing splits categories; more resource for acting merges them. Optimal categories at a larger budget can re-carve rather than refine.
-- **Learning as the formation of a maintained capacity.** One central kind of learning forms a maintained capacity: a new distinction or a new channel. An unresolved discrepancy is a sufficient occasion for it, but does not guarantee it. It is tested by transfer and by intervention while it forms.
+- **Budgets pull both ways.** More resource for observing splits categories; more resource for acting merges them. What can be told apart at a given budget also depends on the kind of observer. Optimal categories at a larger budget can re-carve rather than refine.
+- **Learning as the formation of a maintained capacity.** One central kind of learning forms a maintained capacity: a new distinction or a new channel. An unresolved discrepancy is a sufficient occasion for it, but does not guarantee it. It is tested by transfer and by intervention while it forms. In the record's models of a trained network, a new distinction can be active before a passive observer can see it.
 - **Three ledgers.** Forming, keeping and changing a capacity are separate costs. A capacity's maintenance is known only by intervention, and support that does the work a capacity is learned from erodes it.
 - **Inquiry is a form of specification that can revise what counts as an answer.** It becomes reflexive when its language, answer space, criteria or resources become its object.
 - **Transmission and collectives.** Without anchors, transmitted content drifts toward the transmitters' priors, and an anchor secures only what it is tied to: the target, or the inquiry's own past. A collective learns only through a chain of separable achievements, from admission to the revision of its own standards.
 
-The theory is assembled from claims held in a research record, Nucleation, each cited with its standing. It is stated as ten principles and a predicted cycle: misfit, absorption, noticing, diagnosis, revision, carry-through, maintenance, and reuse.
+The theory is assembled from claims held in a research record, Nucleation, each cited with its standing. It is stated as ten principles and a predicted cycle: misfit, absorption, noticing, diagnosis, revision, carry-through, maintenance, and reuse. The record now holds the principles' parts as a line of inquiry of its own, with an account that maps them and adds nothing.
 
 **The machinery.** Nucleation is kept with Luria, a tool for typed, versioned and interlinked documents whose schema is changed only by recorded decision. We show how each principle has a mechanism in the record. The record holds the theory as content and runs on mechanisms that embody it.
 
@@ -54,7 +54,7 @@ The project began with a narrower question: when an argument is developed across
 
 The answer proposed in a predecessor manuscript, "luria: nucleating an argument", was **anchoring**. Arguments developed with memoryless AI assistants were observed to fail at identity rather than structure (CLAIM-177), and addressable structure gives later argument something to grow on (CLAIM-182, CLAIM-185). The predecessor also recorded an objection against itself: the anchors are written in a grammar fixed before the inquiry knows what it needs (CLAIM-181, adapting Shipman and Marshall, LIT-756).
 
-Meeting that objection required a more general account. It needed an account of what a distinction is for, of when a system should draw a new one, of what learning produces, and of how an inquiry can change the terms in which it inquires. The record's lines on formal apparatus, realizability, will-organization, distributed agency and transmission had been building such an account for other reasons. Part I assembles it.
+Meeting that objection required a more general account. It needed an account of what a distinction is for, of when a system should draw a new one, of what learning produces, and of how an inquiry can change the terms in which it inquires. The record's lines on formal apparatus, realizability, will-organization, distributed agency and transmission had been building such an account for other reasons. Part I assembles it. Since 2026-11-21 the record holds the assembly's parts as a line of their own, `learning-and-inquiry` (ADR-130), and the line on learned structure gives Part I a worked model of how a trained network comes to draw a new distinction (§§2.3, 3.2).
 
 ### 1.3 Questions
 
@@ -85,7 +85,8 @@ Meeting that objection required a more general account. It needed an account of 
 | Record | The repository of typed documents the project keeps |
 | Grammar | What `luria.yaml` declares: schemes, fields, relations, vocabularies, statuses, lines and lint patterns |
 | Owner | The single human researcher who directs the project |
-| Line | A named inquiry within the record. Entries carry one or more |
+| Line | A named inquiry within the record. Entries carry one or more. Part I's is `learning-and-inquiry` (ADR-130) |
+| Separation | In three senses that come apart: of scales or levels, of classes (what an observer can tell apart), and spectral (an eigenvalue leaving a noise bulk) (TERM-tmpol232, Proposed) |
 | Decision record (ADR) | A dated document stating a decision, its context, alternatives and consequences |
 | Filing agent | A subagent that reads and files a batch of works |
 | A12, U9 | Numbered assistant (A) and user (U) turns of a filed exchange |

@@ -2,6 +2,8 @@
 
 # Background digest: learning and transmission
 
+**Update of 2026-11-21.** This digest is a snapshot read on 2026-11-20 and is left as read. Since then the record has gathered the manuscript's principle accounts as a line, `learning-and-inquiry` (ADR-130, Active), over SYNTHESIS-109 to SYNTHESIS-116, with a line account, SYNTHESIS-tmpt1te9 (Proposed). **Statuses changed since:** CLAIM-629, CLAIM-633 and CLAIM-635 are Active. **New material bearing on this digest:** SYNTHESIS-tmpsejrp (Proposed), a part account of `learned-structure` on how a high-dimensional representation comes to draw a new distinction, from the exchange "Rich Get Richer Power Laws"; TERM-tmpol232 (separation, in three senses) and TERM-tmptiim0 (sloppy), both Proposed; the admissions of CLAIM-191 (direction clause only) and CLAIM-772 (a narrower record-design sentence), and CLAIM-778, at the synthesis review of 2026-11-21; CLAIM-789, CLAIM-790 and CLAIM-793 (formerly temporary codes; all Proposed) on anchoring. Part I §§2.3, 2.5, 3.2 and 5.2–5.3 use them.
+
 The record's lines `learned-structure` and `pragmatic-transport`, read for the manuscript's part on a general theory of learning and inquiry.
 
 Read on 2026-11-20. The learned-structure line comes from SYNTHESIS-030 (its line account) and its part accounts SYNTHESIS-025, 026, 028, 029, 033, 034, 096, 097 and 105. The pragmatic-transport line comes from SYNTHESIS-066 (its line account) and its part accounts SYNTHESIS-058 to 065 and 067 to 070. The CLAIM, TERM, CASE and QUESTION entries the brief names, and the ones these accounts lean on most, were then read in their front matter and, where needed, their bodies.

@@ -34,6 +34,7 @@ integrates:
 - CLAIM-522
 - TERM-100
 ---
+<!-- inactive-ok-file: CLAIM-tmpl9zw4 CLAIM-tmpqbo50 CLAIM-tmp9bp04 LEAD-tmpfrw11 — Proposed or Open; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
 
 # SYNTHESIS-113: A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity's maintenance comes from is shown only by intervention on its production
 
@@ -68,3 +69,13 @@ shared-autonomy assistant: whether help that raises a user's long-horizon
 influence erodes their unassisted capacity, and whether a score taken with
 the help present can show it. A candidate component at the next synthesis
 review.
+
+## Note of 2026-11-21: when a capacity forms, and when it shows
+
+Filed since, from the exchange "Rich Get Richer Power Laws", and bearing on this account's clauses on intervention. For its next version to weigh:
+
+- **Formation has more than one date.** CLAIM-522 and TERM-100 separate maintenance by an agent from maintenance supplied from outside only by intervention on production. CLAIM-532, after CASE-191, makes the same point for formation, by intervention "while it forms". In a model of a gated feature, "the time a feature becomes unstable, the time it becomes visible and the time its information was first encoded can all differ" (CLAIM-tmpl9zw4, A's). An intervention made during formation then needs a declared date.
+- **Present before a passive observer sees it.** A newly active feature is "quiet but consequential": its variance is of order ε² while its gain in fit is of order ε (CLAIM-tmp9bp04, A's). Sample PCA detects it only after a lag scaling as √(D/N) (CLAIM-tmpqbo50, the assistant's). That is a case, in a learner, of this account's point that passive observation can miss what an intervention or a task-tied probe shows (CLAIM-414). The tie is the assistant's reading.
+- **The test proposed.** LEAD-tmpfrw11 (Open) would date, for each distinction of a synthetic hierarchy, decodability, the sign change of its stability eigenvalue, held-out gain and the local coefficient.
+
+These concern how a capacity forms and is detected, not how it is kept or lost. The account's clauses on disuse and support are not touched. No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).
