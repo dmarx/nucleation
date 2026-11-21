@@ -25,7 +25,6 @@ summary: >-
   The question's wording is the filer's; the hunch is the owner's.
 ---
 <!-- inactive-ok-file: THEORY-2003 THEORY-2005 THEORY-2055 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-759 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2014 THEORY-2035 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-492: In networks trained on relational-rule tasks under varied data diversity, does the emergence of role abstraction (a quotient of inputs by token relabelling) coincide with balanced-partition (fibration) structure among the network's units, or can either occur without the other?

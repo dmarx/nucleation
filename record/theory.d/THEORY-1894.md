@@ -1,16 +1,28 @@
 ---
 number: 1894
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpmapw3
-promote_when: >-
-  An independent measurement on another model and task with an automatic
-  verifier showing coverage rising with the number of independent samples
-  over at least two orders of magnitude, and on a task without one showing
-  majority-vote or reward-model accuracy plateauing while coverage keeps
-  rising.
 title: 'Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065. The title reports what Brown and colleagues
+    find, keeping their hedges ("often log-linearly"; coverage, not
+    success, without a verifier); NOTE-1972 read the sections the title
+    draws on in full (abstract, §1, §2, §3.1, §4, §5), and nothing in the
+    record contradicts the report. The old promote_when asked for a
+    measurement by others: "An independent measurement on another model
+    and task with an automatic verifier showing coverage rising with the
+    number of independent samples over at least two orders of magnitude,
+    and on a task without one showing majority-vote or reward-model
+    accuracy plateauing while coverage keeps rising." It moves word for
+    word to THEORY-2130, Proposed, which extends this entry and
+    asserts the authors' wider thesis. CLAIM-697 now lists this entry
+    under corroborated_by, not grounds (ADR-058).
 tags:
 - learning-theory
 - anthology-candidate
@@ -24,6 +36,7 @@ corroborates:
 - CLAIM-567
 - CLAIM-576
 - CLAIM-654
+- CLAIM-697
 summary: >-
   Brown et al. (2024), [LIT-2622](../literature.d/LIT-2622.md), read in [NOTE-1972](../notes.d/NOTE-1972.md). Repeated
   sampling is a budget: it raises what the process reaches at some attempt

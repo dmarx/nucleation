@@ -52,7 +52,7 @@ integrates:
 - QUESTION-435
 - QUESTION-444
 ---
-<!-- inactive-ok-file: CLAIM-584 CLAIM-632 CASE-200 CASE-203 CASE-210 TERM-107 TERM-108 TERM-110 TERM-112 TERM-113 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-584 CASE-200 CASE-203 CASE-210 TERM-107 TERM-108 TERM-110 TERM-112 TERM-113 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; a component, the inference the part rejects -->
 <!-- inactive-ok-file: SYNTHESIS-009 — Superseded; cited as the entry CLAIM-632 returned from -->
 

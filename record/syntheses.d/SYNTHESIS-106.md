@@ -50,7 +50,7 @@ summary: >-
   join and three claims around it. It maps the components and adds
   nothing. Filed at the owner's request of 2026-11-19.
 ---
-<!-- inactive-ok-file: ARG-120 ARG-121 CASE-295 CLAIM-478 CLAIM-755 CLAIM-756 CLAIM-760 CLAIM-761 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: ARG-120 ARG-121 CASE-295 CLAIM-478 CLAIM-755 CLAIM-756 — Proposed; cited in this filing of 2026-11-19 -->
 
 # SYNTHESIS-106: Stored work and the cost structure of possibility: a stabilized constraint that supplies cheaper operations can move a task under a per-task budget, so amortization becomes capability expansion, within the limits that persistence is not amortization and an added restriction enlarges nothing; economic and dynamical separation of time scales come apart; an acquisition can be worth making for what it does to the cost of others; and a fall in one party's cost may be work transferred, not saved
 

@@ -31,7 +31,6 @@ summary: >-
   bound. So the case illustrates [CLAIM-632](../claims.d/CLAIM-632.md) and [CLAIM-587](../claims.d/CLAIM-587.md), and A's claim is
   not filed. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-632 — Proposed; the claim the construction illustrates -->
 
 # CASE-237: Two complementary capacities whose success probabilities each rise from 0.8 to 0.85 while the probability that both hold falls from 0.8 to 0.7, because they went from failing together to failing apart
 

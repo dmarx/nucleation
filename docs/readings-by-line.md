@@ -17,13 +17,13 @@ that are Superseded or Rejected do not count. They are read off the
 relations when this page is built, so a reading gains or loses a line as
 the argument around it changes.
 
-Of 934 readings in force,
-802 serve at least one line and 132
+Of 935 readings in force,
+803 serve at least one line and 132
 serve none.
 
 | line | readings it uses |
 |---|---|
-| Distributed agency | 384 |
+| Distributed agency | 385 |
 | Will-organization | 57 |
 | Normative judgment about organizations | 7 |
 | Wholes, parts and dependence | 0 |
@@ -35,11 +35,11 @@ serve none.
 | What a record of inquiry keeps | 9 |
 | The record as its own apparatus | 12 |
 | Evidence for experience | 11 |
-| How training finds structure | 107 |
+| How training finds structure | 108 |
 | Formal apparatus | 105 |
 | Readiness and slack | 15 |
 | Withdrawing transient support | 55 |
-| Resource-bounded realizability and individuation | 52 |
+| Resource-bounded realizability and individuation | 53 |
 | Flourishing and meaning in life | 1 |
 
 ## Distributed agency
@@ -428,6 +428,7 @@ serve none.
 - [THEORY-1635](../record/theory.d/THEORY-1635.md): Zahavi argues, reconstructing Husserl, that seeing oneself as one of us requires second-person address and taking over the other's perspective on oneself, which keeps the self–other difference while downplaying it, and that a we is not an enlarged I *(used by 1)*
 - [THEORY-1825](../record/theory.d/THEORY-1825.md): On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China *(used by 2)*
 - [THEORY-1830](../record/theory.d/THEORY-1830.md): On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance *(used by 1)*
+- [THEORY-1894](../record/theory.d/THEORY-1894.md): Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage *(used by 8; also learned-structure, realizability)*
 
 ## Will-organization
 
@@ -814,6 +815,7 @@ serve none.
 - [THEORY-1339](../record/theory.d/THEORY-1339.md): In Lu et al.'s synthetic multi-turn conversations, with frontier models playing the user (100 conversations of up to 15 turns per domain, three target and three user models), the mean position of a chat model's responses along the Assistant Axis stays in the Assistant range in coding conversations and, apart from some drift in Gemma, in writing ones, and drifts to the non-Assistant end in therapy-like and AI-philosophy ones; ridge regression on embeddings of the latest user message predicts the next response's position (R² 0.53–0.77) but not its change from the previous response (R² 0.10), from which the authors infer that position depends most strongly on the most recent user message rather than on where it was before, the message itself depending on the conversation *(used by 1)*
 - [THEORY-1350](../record/theory.d/THEORY-1350.md): The Persona Selection Model holds that pre-training gives a language model a distribution over personas, that post-training updates it into a posterior over Assistant personas which runtime context keeps conditioning, and that the Assistant's traits are a key determiner of behaviour; it disowns a single coherent persona and exhaustiveness, and names as open a router that selects personas and could carry goals no persona has *(used by 2; also distributed-agency)*
 - [THEORY-1357](../record/theory.d/THEORY-1357.md): Lake, Salakhutdinov and Tenenbaum report that a model representing handwritten characters as probabilistic programs, composing strokes from primitives fit to 30 background alphabets into types whose executions give tokens, erred 3.3% against people's 4.5% on 20-way one-shot classification within 10 held-out Omniglot alphabets, and that judges identified its exemplars and new characters at 49–59%, near chance; removing compositionality raised its error to 14.0% and made its productions easier to detect, inflating its learned token-level variability raised error to 11.0% and made exemplars easier to detect, and replacing its learned type-level priors with uniform ones left classification unchanged (3.5%) and exemplars not reliably easier to detect, but made its new characters easier to detect (64–69%) *(used by 1)*
+- [THEORY-1894](../record/theory.d/THEORY-1894.md): Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage *(used by 8; also realizability, distributed-agency)*
 
 ## Formal apparatus
 
@@ -1053,6 +1055,7 @@ serve none.
 - [THEORY-1455](../record/theory.d/THEORY-1455.md): Shirt-Ediss, Torelli and colleagues report that, for four DNA origami designs each folded from three scaffold sequences with fully complementary staples under one protocol, the sequence that their energy model scored highest in off-target staple–scaffold, scaffold–scaffold, staple–staple and hairpin binding gave the fewest well-folded AFM objects in every design (0–20% against up to about 66–75%), and they attribute the loss to kinetic trapping and scaffold aggregation *(used by 1)*
 - [THEORY-1456](../record/theory.d/THEORY-1456.md): Rothemund shows that a 7-kilobase single-stranded scaffold routed through a shape, with about 200 unpurified staple strands in excess designed to bind only the scaffold, folds in one two-hour anneal from 95 °C to 20 °C into designed shapes about 100 nm across, with AFM-judged yields of well-formed structures from about 1% to 90% by design and at least 70% for rigid designs on circular scaffold; he proposes, without testing, that strand invasion, staple excess and cooperative staple binding account for this *(used by 1)*
 - [THEORY-1457](../record/theory.d/THEORY-1457.md): Majikes, Patrone, Kearsley, Zwolak and Liddle find, in a single-fold DNA origami model with a topology-reporting fluorophore and quencher, that the folded-state yield after annealing rises with staple excess to a turnover between about 1x and 5x and then falls, below 50 % at high excess for fold distances of 131, 1187 and 3407 bases, independent of staple motif at the one fold distance where motif was tested and, by the authors' report of a supplementary control, unchanged by a twofold slower anneal, as an equilibrium model predicts when each fold domain can be occupied by a separate staple, the blocked state, with folded over blocked equal to the fold's j-factor over the free staple concentration; they propose, without testing it, that whole origami escapes this through cooperativity and strand displacement along a nucleation front *(used by 2)*
+- [THEORY-1894](../record/theory.d/THEORY-1894.md): Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage *(used by 8; also learned-structure, distributed-agency)*
 
 ## Flourishing and meaning in life
 

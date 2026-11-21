@@ -278,3 +278,7 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Bansal et al.** ([THEORY-1791](../theory.d/THEORY-1791.md)): §6.3's anchoring point (AI answer shown first) is a human-side instance. Mention only.
 
 The claim is unchanged.
+
+## Note of 2026-11-20: what holds it back
+
+Rechecked after [CASE-178](../cases.d/CASE-178.md)'s revisions of 2026-11-07 (line bookkeeping) and 2026-11-12 (it draws on [THEORY-1279](../theory.d/THEORY-1279.md)), and this claim's own of 2026-11-19, which joins a work. None bears on what holds it: [CASE-178](../cases.d/CASE-178.md)'s falling rate of grammar changes is still open between maturing and entrenching (note of 2026-11-12), the first half, that an early anchor locks in its framing so that alternatives become hard to reach, has no result on this record, and the loop [TERM-020](../terms.d/TERM-020.md) requires is not shown.

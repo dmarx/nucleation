@@ -86,7 +86,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-610 — filed from the same exchange, Superseded -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-003 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
-<!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 SYNTHESIS-007 — Proposed or Superseded; parts of the supposed account, cited as held -->
+<!-- inactive-ok-file: CLAIM-487 CLAIM-545 SYNTHESIS-007 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->
 
 # SYNTHESIS-004: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next

@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp68daz
 title: 'Whether demands or local descriptions can be met or agree together is decided only against a declared structure of comparison, and where it fails the failure is certified by a dual witness, a cycle or a set of multipliers, that re-centring and a change of chart leave in place, while a budgeted magnitude keeps its value only with the metric carried along; whether a compatible state can be selected depends on what the agent can read; quiet is not met, so raising a threshold relieves nothing and a third complex decides when frustration forces an unmet demand that is acted on; an input below a fold''s threshold, or conditions restored after a capacity was lost, can leave the visible regime as it was; and agreement among routes or descriptions is coherence, not fidelity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    CLAIM-629's residual clause restated as narrowed at the status review
+    of 2026-11-20: a Euclidean residual can change along rescalings, not
+    always does.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the frustration part of the formal-apparatus line (frustration
@@ -45,7 +52,7 @@ integrates:
 - CLAIM-496
 - TERM-097
 ---
-<!-- inactive-ok-file: CLAIM-628 CLAIM-629 CLAIM-631 CLAIM-634 — Proposed; components, with their standing -->
+<!-- inactive-ok-file: CLAIM-628 CLAIM-631 CLAIM-634 — Proposed; components, with their standing -->
 <!-- inactive-ok-file: CLAIM-263 CLAIM-553 CLAIM-555 CLAIM-618 — Proposed; cited for what components relate to or leave out -->
 <!-- inactive-ok-file: SYNTHESIS-026 SYNTHESIS-027 SYNTHESIS-036 SYNTHESIS-041 SYNTHESIS-044 SYNTHESIS-048 SYNTHESIS-051 SYNTHESIS-056 SYNTHESIS-064 — Proposed; the other lines' accounts that already integrate members -->
 <!-- inactive-ok-file: ADR-075 ADR-084 — Proposed; the test applied and the decision on accounts -->
@@ -114,7 +121,7 @@ because its `line` includes formal-apparatus.*
   synthesis review of 2026-11-07; Proposed) carries the unbudgeted verdict
   from two charts to two points of one chart: it is constant on the orbits
   of any function-preserving symmetry that is a diffeomorphism, while a
-  residual in a fixed Euclidean norm changes along rescalings, "So
+  residual in a fixed Euclidean norm can change along rescalings, "So
   quotienting before diagnosing matters only for the budgeted test."
 - **What a reparametrization cannot do.** [CLAIM-305](../claims.d/CLAIM-305.md) (the record's
   correction of the owner's monograph; Active): resolving a singularity by

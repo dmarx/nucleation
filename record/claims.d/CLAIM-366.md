@@ -60,7 +60,6 @@ summary: >-
   training trajectories ([QUESTION-127](../questions.d/QUESTION-127.md)). The practice corollary, not
   to diagnose task conflict by gradient cosine, is the anthology's.
 ---
-<!-- inactive-ok-file: CLAIM-629 — Proposed; the corollary the note of 2026-11-07 points to -->
 
 # CLAIM-366: Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back
 

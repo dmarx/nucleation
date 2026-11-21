@@ -41,7 +41,7 @@ summary: >-
   owner's; the three options and the profile are A's wording, and adopting
   them is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-098 CLAIM-329 TERM-104 — Proposed; terms and claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: TERM-098 TERM-104 — Proposed; terms and claims cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-222 CLAIM-621 CLAIM-620 CASE-226 CASE-230 — filed from the same exchange, Proposed -->
 
 # QUESTION-439: When rival communities use one expression with different application rules, inferences, practical responses and conditions of revision, is there one concept with context-dependent extension, several historically related concepts sharing an expression, or an organization of the rivalry among the uses; what observations tell these apart; and in which sense of individuation, if any, is the concept or the symbol individuated?

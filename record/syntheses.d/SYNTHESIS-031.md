@@ -46,7 +46,7 @@ summary: >-
   integrated here. The account adds nothing of its own; its standing is
   its components'.
 ---
-<!-- inactive-ok-file: CASE-200 CASE-210 CLAIM-632 TERM-107 TERM-110 TERM-112 TERM-113 — Proposed; components cited with their standing -->
+<!-- inactive-ok-file: CASE-200 CASE-210 TERM-107 TERM-110 TERM-112 TERM-113 — Proposed; components cited with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; a component of SYNTHESIS-027, the inference that part rejects -->
 <!-- inactive-ok-file: SYNTHESIS-009 SYNTHESIS-010 — Superseded; the readiness line's former syntheses, returned to CLAIM-632 and CLAIM-600 -->
 

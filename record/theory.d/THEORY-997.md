@@ -39,7 +39,6 @@ summary: >-
   not yet show reorganization. Fine-tuning only, one model for most
   results, arithmetic only.
 ---
-<!-- inactive-ok-file: CLAIM-329 — Proposed; the claim this account bears on, cited as open -->
 
 # THEORY-997: When a pretrained language model is fine-tuned on a task it initially fails, it acquires the task mainly by reconnecting components it already has rather than by recruiting new ones: the circuits found before and after keep most of their nodes and change most of their edges, as Wang, Hu, Du, Cheng, Wang and Zou propose from LoRA fine-tuning of Pythia-1.4B on arithmetic
 

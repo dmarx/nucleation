@@ -45,7 +45,6 @@ summary: >-
   the regime changes while the block's gap does not. All numbers were
   recomputed.
 ---
-<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 
 # CLAIM-521: An organization's present coupling strength need not reveal the stability of the process maintaining it: in a constructed system whose maintained connector and capacities set a three-unit coupling, the recovery rate of the maintenance goes to zero at its saddle-node while the coupling's spectral gap there stays near 0.989

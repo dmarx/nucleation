@@ -82,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Superseded -->
 <!-- inactive-ok-file: CLAIM-611 — filed from the same exchange, Proposed; restored from this entry, which it supersedes -->
 <!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-625 CLAIM-612 CLAIM-623 CLAIM-616 CLAIM-618 CASE-225 CASE-231 CASE-224 — filed from the same exchange, Proposed; components and restored owner contributions -->
+<!-- inactive-ok-file: CLAIM-612 CLAIM-623 CLAIM-616 CLAIM-618 CASE-225 CASE-231 CASE-224 — filed from the same exchange, Proposed; components and restored owner contributions -->
 <!-- inactive-ok-file: SYNTHESIS-001 — filed from the same exchange, Superseded by CLAIM-615; the later thesis that rested on this one -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 — Proposed; components, cited with their standing -->
 

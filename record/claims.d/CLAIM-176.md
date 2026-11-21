@@ -176,6 +176,10 @@ and filing cost set beside this one's, so whether "second" is the right
 number is untested. [CLAIM-181](CLAIM-181.md)'s objection, that the grammar a coded thing is
 filed in shapes it, is unanswered.
 
+## Note of 2026-11-20: what holds it back
+
+Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07, which records that inbound references per code were counted on 2026-11-06, and [CLAIM-181](CLAIM-181.md)'s of 2026-11-07 to 2026-11-10, line bookkeeping only. So [CLAIM-185](CLAIM-185.md) no longer waits on that count but on its first defeater's comparison with content restated afresh, [CLAIM-483](CLAIM-483.md) still waits on a second exchange read move by move, and [CLAIM-181](CLAIM-181.md)'s objection, that the grammar a coded thing is filed in shapes it, is still unanswered. No record that codes on first occurrence or only on request has had its drift and filing cost set beside this one's.
+
 ## Note of 2026-11-20: what the rule caps, and what it may miss
 
 [CLAIM-tmpve51e](CLAIM-tmpve51e.md): coding an idea at its k-th occurrence caps its uncoded

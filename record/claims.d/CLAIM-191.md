@@ -146,6 +146,16 @@ the formal-apparatus line, and this claim's `rests_on` now names
 are where the record first argued the point. The change is that setting
 pragmatic-transport aside no longer takes this premise with it.
 
+## Note of 2026-11-20: what holds it back
+
+Two premises are Proposed. [CLAIM-090](CLAIM-090.md), on which the direction clause
+rests, waits on a chain whose endpoint matches a prior measured on its
+own transmitters ([QUESTION-137](../questions.d/QUESTION-137.md)); [CLAIM-182](CLAIM-182.md), on which the code clause
+rests, waits on a count of re-derivation before and after the same
+stored content got addresses. The direction prediction itself is
+untested in this claim's setting: no blind rating of re-derivations
+across sessions is held.
+
 ## Note of 2026-11-20: two shapes of directed drift
 
 This claim says restatements drift "toward the collaborators' own framings

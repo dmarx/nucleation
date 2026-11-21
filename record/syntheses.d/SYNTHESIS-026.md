@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp4xa7p
 title: 'Whether a learner''s demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -16,6 +16,12 @@ history:
     integrated here beside CLAIM-356, with a bullet in the account and
     a line in the components. Nothing else changes; the title is
     unchanged.
+- version: 3
+  date: '2026-11-20'
+  note: >-
+    CLAIM-629's residual clause restated as narrowed at the status review
+    of 2026-11-20 (its old "only where ... changes along rescalings" was a
+    mis-statement: the residual can also stay constant along a rescaling).
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the learned-structure line (the frustration diagnoses of a
@@ -50,7 +56,7 @@ bears_on:
 - QUESTION-122
 - QUESTION-127
 ---
-<!-- inactive-ok-file: ADR-083 CASE-193 CLAIM-170 CLAIM-174 CLAIM-187 CLAIM-263 CLAIM-367 CLAIM-555 CLAIM-629 — Proposed; components, citations and the decisions this account follows, with their standing -->
+<!-- inactive-ok-file: ADR-083 CASE-193 CLAIM-170 CLAIM-174 CLAIM-187 CLAIM-263 CLAIM-367 CLAIM-555 — Proposed; components, citations and the decisions this account follows, with their standing -->
 <!-- inactive-ok-file: QUESTION-286 — Answered; components and citations, with their standing -->
 
 # SYNTHESIS-026: Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
@@ -70,8 +76,9 @@ bears_on:
 - **Symmetry orbits.** [CLAIM-629](../claims.d/CLAIM-629.md) (the assistant's derivation, Proposed)
   answers [QUESTION-127](../questions.d/QUESTION-127.md) for the symmetries that act as diffeomorphisms:
   common descent is constant on their orbits, and a residual in a fixed
-  Euclidean norm is constant only where the symmetry's derivative is
-  orthogonal, so it changes along rescalings across a ReLU. Its item 3
+  Euclidean norm is constant on the orbits of a symmetry whose derivative
+  is orthogonal, and not in general otherwise: it can change along
+  rescalings across a ReLU. Its item 3
   joins it to [CLAIM-263](../claims.d/CLAIM-263.md): "Dividing by [CLAIM-263](../claims.d/CLAIM-263.md)'s symmetry group before
   testing for common descent changes nothing." [CLAIM-366](../claims.d/CLAIM-366.md)'s note of
   2026-11-07 narrows its own disclaimer to symmetries that are not
