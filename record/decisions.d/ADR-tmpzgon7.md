@@ -38,8 +38,8 @@ step behind the exchange it documents.
 The safeguards that made asking first prudent now exist elsewhere. Work lands
 in `staging` through pull requests, never in `main` directly (ADR-116).
 Nothing reaches `main` until a promotion the owner or the Promote workflow
-makes. Every change is a commit, so any filing can be reverted without loss
-(DP-1's audit trail). The assistant's wording is already marked as its own
+makes. Every change is a commit, so any filing can be reverted without loss.
+The assistant's wording is already marked as its own
 and every new claim enters Proposed. What remains of the risk is filing a
 framing the owner would not have filed, and that is cheaper to revert once
 than to prevent by asking each time.
