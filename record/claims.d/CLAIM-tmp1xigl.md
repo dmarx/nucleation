@@ -38,9 +38,9 @@ summary: >-
   myopic about the literal luria record rather than the broader behavior
   of anchoring during a general inquiry." The record files anchoring in
   three places that it has not joined: transmission (a restatement held to
-  its source, CLAIM-191, CLAIM-772), correspondence (a map given content by
-  independently measured distinctions, CLAIM-011) and judgment (an
-  estimate pulled toward a value that carries no evidence, CLAIM-315). They
+  its source, [CLAIM-191](CLAIM-191.md), [CLAIM-772](CLAIM-772.md)), correspondence (a map given content by
+  independently measured distinctions, [CLAIM-011](CLAIM-011.md)) and judgment (an
+  estimate pulled toward a value that carries no evidence, [CLAIM-315](CLAIM-315.md)). They
   are one mechanism, a reconstruction pulled toward a fixed reference, and
   they differ in what the reference is tied to. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
