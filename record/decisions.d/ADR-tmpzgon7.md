@@ -56,12 +56,12 @@ starts off until the owner switches it on.
 develops in the record's own argument:
 
 - new entries in the **argument schemes**: the schemes of argument
-  development, QUESTION, CLAIM, CASE, TERM and ARG (ADR-032), and those
-  that have joined them since, WORKBENCH and LEAD (ADR-109), which plans
+  development, QUESTION, CLAIM, CASE, TERM and ARG ([ADR-032](ADR-032.md)), and those
+  that have joined them since, WORKBENCH and LEAD ([ADR-109](ADR-109.md)), which plans
   how to advance a question or a claim. The class is named rather than
   listed so that it extends as it does: a scheme added later to the
   record's own argument is covered without amending this decision. Each new
-  entry passes ADR-072's test that an idea gets a code when it has content
+  entry passes [ADR-072](ADR-072.md)'s test that an idea gets a code when it has content
   of its own and is not already held;
 - revisions to entries filed while the regime is on, before they merge;
 - dated notes on held entries;

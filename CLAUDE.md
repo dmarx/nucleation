@@ -96,7 +96,7 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
 ("dialectic on", "dialectic off"); it is on until switched off, and a new
 session starts off. While it is on, file the argument the exchange develops
 as you go, without offering first: new entries in the argument schemes
-(those of ADR-032, and WORKBENCH and LEAD, and any that join them),
+(those of [ADR-032](record/decisions.d/ADR-032.md), and WORKBENCH and LEAD, and any that join them),
 revisions to what the regime filed, dated notes, Reframings, corrections,
 devlog notes. Put them in one open pull request into `staging`,
 one commit per turn; answer first, then report what was filed; revert
