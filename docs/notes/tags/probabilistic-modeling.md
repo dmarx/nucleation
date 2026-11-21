@@ -4,7 +4,7 @@
 
 **probabilistic-modeling**.
 
-172 of 2236 NOTE documents. Back to the [full index](../README.md).
+173 of 2247 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -180,3 +180,4 @@
 | [NOTE-2224](../../../record/notes.d/NOTE-2224.md) | Lukierska-Walasek and Topolski — Random walk on p-adics in glassy systems | Restates Ogielski and Stein's model, hopping on a regular tree with rates set by ultrametric distance, and derives a temperature-dependent power law t^(−T ln 2/Δ) for linearly growing barriers (total-rate form) and the Kohlrausch law for logarithmically growing ones. | Read |
 | [NOTE-2225](../../../record/notes.d/NOTE-2225.md) | Bovier, Eckhoff, Gayrard and Klein — Metastability and low lying spectra | For reversible chains with generically separated metastable points: minus log capacity is an ultrametric up to ln 3; mean exit times are valley mass over capacity; each metastable point owns one low-lying eigenvalue with an eigenvector near its valley's indicator. Large-N, generic, sharp to (1 + o(1)). A large-N limit with escape-probability definitions, not the record's small-noise ε^U form. | Read |
 | [NOTE-2231](../../../record/notes.d/NOTE-2231.md) | De Pasquale, Smith, Bullo and Valcher — Dual seminorms and ergodic coefficients | Ergodic coefficients are induced matrix seminorms; projection and distance seminorms are dual, so the Markov–Dobrushin coefficient bounds both averaging and the flow of distributions. Under invariance or conservation, only the part off the kernel contracts; differences along the kernel may persist or grow. No result says what the limit keeps of the start. | Read |
+| [NOTE-2237](../../../record/notes.d/NOTE-2237.md) | Mitzenmacher, A Brief History of Generative Models for Power Law and Lognormal Distributions, read for how small changes turn a lognormal into a power law | An expository survey, not a source of new theorems: preferential attachment (Yule, Simon, the Web-graph models), Mandelbrot's optimization, Gibrat's multiplicative process and its lognormal, and the small changes that turn that lognormal into a power law, a lower reflecting barrier (Champernowne) or a random, exponentially distributed observation time (Reed's double Pareto). Its floor is a reflecting minimum, not Kesten's additive term, and it gives the general floor result without conditions; it treats only linear attachment kernels. | Read |

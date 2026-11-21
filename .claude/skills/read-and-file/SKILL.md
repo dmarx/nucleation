@@ -76,7 +76,7 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   nothing covers the rest unless the lead lists it. Write the list (an idea
   ledger) before briefing anyone. A drafter handed a short candidate list
   files that list and nothing else.
-- **Give the ledger a gaps column** (ADR-tmpcb96w). For each item, note
+- **Give the ledger a gaps column** (ADR-137). For each item, note
   what the source's own argument needs and does not supply: an unstated
   premise or condition, a result asserted without its derivation, a
   number, formula or attribution that does not check, a test proposed
@@ -266,7 +266,7 @@ not a finding.
   or finding that a reading carries less than a claim cited it for. "X
   does not show Y" is the ARG from X to Y, Rejected. A claim's own
   `rests_on` needs no ARG.
-- **An ARG's title names its route** (ADR-tmp44npm): its grounds and the
+- **An ARG's title names its route** (ADR-136): its grounds and the
   step, before the conclusion ("X, by analogy, shows that Y"), never the
   bare conclusion, since the title travels without its status. A Rejected
   ARG's summary says where its conclusion's own standing lives: the claim
@@ -295,7 +295,7 @@ not a finding.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
 
-## 9a. Fill the gaps (ADR-tmpcb96w)
+## 9a. Fill the gaps (ADR-137)
 
 Every filing of an exchange, a pasted synthesis or an upload fills the gaps
 the ledger found, not only when the owner asks.
@@ -423,7 +423,7 @@ Write a curation entry (`luria new curation`) with three parts:
 - **what was filed**, with codes;
 - **what was left, and why**: a citation that couldn't be identified,
   an idea already covered, a slogan;
-- **gaps** (ADR-tmpcb96w): every gap the ledger found, filled (with
+- **gaps** (ADR-137): every gap the ledger found, filled (with
   codes) or left (with the reason).
 
 Nothing in the source is dropped silently. Add a changelog fragment

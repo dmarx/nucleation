@@ -42,7 +42,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-2141 THEORY-2131 LIT-2954 CLAIM-777 LEAD-200 CLAIM-781 — Proposed, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
-<!-- inactive-ok-file: LIT-tmp1b7mm CLAIM-tmp1dlyp CLAIM-tmpr9au6 CLAIM-tmplb1ow THEORY-tmp23821 — Deferred or new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
+<!-- inactive-ok-file: LIT-2962 CLAIM-795 CLAIM-840 CLAIM-829 THEORY-2150 — Deferred or new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
 
 # CLAIM-769: Seen from one of its states, a tree of rate differences relaxes as a power of time, not exponentially, because the escape it sees is an average of exponentials over a spread of rates; hyperbolic discounting is the same kind of average, so a hierarchy of time scales is one origin of hyperbolic-like discounting, though the exact hyperbola needs a particular spread: per-level rates falling by the square of the branching on a uniform tree, or an exponential spread of hazards
 
@@ -98,20 +98,20 @@ P(T > t) = (b/(b + t))^a, which is [THEORY-2131](../theory.d/THEORY-2131.md)'s g
 survival function. The assistant checked it by two million draws (a = 1.5,
 b = 2: 0.0680 against 0.0680 at t = 10). The exchange adds two things this
 claim does not state. The first is the name superstatistics (Beck,
-[LIT-tmp1b7mm](../literature.d/LIT-tmp1b7mm.md), registered and unread). The second is a caution: "If a
+[LIT-2962](../literature.d/LIT-2962.md), registered and unread). The second is a caution: "If a
 dataset displays a power law, that does not necessarily mean any
 individual entity follows power-law dynamics." The caution applies here
 too. A power law in the population's escape does not show a power law in
 any one state's dynamics, only a spread of exponential rates. The
-exchange's catalogue is [CLAIM-tmp1dlyp](CLAIM-tmp1dlyp.md) (item 4). The same mechanism is
+exchange's catalogue is [CLAIM-795](CLAIM-795.md) (item 4). The same mechanism is
 also why a bulk with a long tail does not by itself mark a system near a
-transition, which bears on the owner's conjecture [CLAIM-tmpr9au6](CLAIM-tmpr9au6.md) and its
-reading [CLAIM-tmplb1ow](CLAIM-tmplb1ow.md). The claim is unchanged.
+transition, which bears on the owner's conjecture [CLAIM-840](CLAIM-840.md) and its
+reading [CLAIM-829](CLAIM-829.md). The claim is unchanged.
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
 A **parallel**, adding a case, with no edge. Mitzenmacher's §7
-([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)) is a further instance
+([LIT-3003](../literature.d/LIT-3003.md), read in [NOTE-2237](../notes.d/NOTE-2237.md); [THEORY-2150](../theory.d/THEORY-2150.md)) is a further instance
 of a power law from averaging over a spread: there the spread is of
 observation times, a lognormal of variance t averaged over exponentially
 distributed t, not of rates. Montroll and Schlesinger's geometric mixture of

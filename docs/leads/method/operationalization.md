@@ -6,7 +6,7 @@
 
 **Operationalization** — work out how a question or claim could be advanced at all.
 
-9 of 206 LEAD documents. Back to the [full index](../README.md).
+9 of 211 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,7 +6,7 @@
 
 **Withdrawing transient support** — when support that establishes or sustains a party can be withdrawn without its decline — supplied upkeep that never becomes optional, supply that does the party's work and lowers the capacity it keeps, a savings buffer as a stock of time, dependency against division of labour by who supplies, and independence from what founded an organization against independence from what feeds it; split from readiness (ADR-087).
 
-2 of 118 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 120 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

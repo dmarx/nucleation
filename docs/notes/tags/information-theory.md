@@ -4,7 +4,7 @@
 
 **information-theory**.
 
-143 of 2236 NOTE documents. Back to the [full index](../README.md).
+145 of 2247 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -151,3 +151,5 @@
 | [NOTE-2097](../../../record/notes.d/NOTE-2097.md) | Still 2017 (PRL 2020) — Thermodynamic cost and benefit of memory |  | Read |
 | [NOTE-2123](../../../record/notes.d/NOTE-2123.md) | Rupe and Crutchfield 2018 — Local Causal States and Discrete Coherent Structures |  | Read |
 | [NOTE-2236](../../../record/notes.d/NOTE-2236.md) | Reddy, Levine and Dragan — First Contact, read for the record's account of learning occasioned by obstruction | An interface scored and trained by the mutual information between the user's command and the state change it induces, with no task knowledge. Read here for what the anthology's reading did not need: who supplies the assistance in the failing domain (a prior study's copilot), that a second assisted domain is the one the score does not predict, that user adaptation is assumed and not measured, and that no transfer or unassisted-skill test is run. | Read |
+| [NOTE-2243](../../../record/notes.d/NOTE-2243.md) | Bialek, Nemenman & Tishby — predictive information and its three regimes of growth | Predictive information, the mutual information between a series' past and its future, is the subextensive part of its entropy, and its growth falls in three classes: finite, logarithmic, power law. A model with K parameters drawn once from a prior gives (K/2) log N (a smaller dimension when the parameterization is degenerate); an essential singularity in the density of nearby models gives N^(μ/(μ+1)) in the annealed approximation, N^(1/2) for a smooth density under a field-theory prior. The divergent part is argued to be the unique measure of complexity. | Read |
+| [NOTE-2244](../../../record/notes.d/NOTE-2244.md) | Dambre, Verstraeten, Schrauwen and Massar, Information Processing Capacity of Dynamical Systems, read for the bound on total capacity and its conditions | A normalized measure of how well a linear readout of a driven system's N observed variables reconstructs each function of its past inputs, and two theorems: capacities for orthogonal functions sum to at most N for i.i.d. input and infinite data (Theorem 4), and to exactly N over a complete basis when the system also has fading memory and N linearly independent variables (Theorem 7). Noise counts as a further input. Simulations show the total near N up to the undriven system's edge of stability and a memory–nonlinearity trade-off as input scaling grows. | Read |

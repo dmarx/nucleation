@@ -15,7 +15,7 @@ bears_on:
 - QUESTION-125
 - QUESTION-392
 - QUESTION-281
-- QUESTION-tmp2hhlc
+- QUESTION-507
 promote_when: >-
   An independent reproduction, or a peer-reviewed version, showing the
   training advantage beyond Fashion-MNIST, MNIST and toy sequence tasks.

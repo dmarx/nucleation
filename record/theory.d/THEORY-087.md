@@ -81,7 +81,7 @@ extends:
 bounds:
 - CLAIM-384
 bears_on:
-- QUESTION-tmpzlagu
+- QUESTION-517
 ---
 <!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->
 <!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; an account that presupposes this one and one that extends it, named in Connections -->
@@ -295,14 +295,14 @@ the reviewing session, and are not in the record.
 
 Two parallels.
 
-- **Bialek, Nemenman and Tishby** ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)) derive the same (d/2)
+- **Bialek, Nemenman and Tishby** ([NOTE-2243](../notes.d/NOTE-2243.md)) derive the same (d/2)
   coefficient as the information the data carry about the parameters,
   (K/2) log₂ N, "independent even of the prior" (§4.2, Eq. 63), and note that
   when "the determinant of F is zero" a smaller "phase space dimension"
   takes K's place (Eq. 64): the regular-model shadow of this reading's
   λ log n. Their (K/2) log N is the predictive information, which equals
   the data–parameter information.
-- **Lau et al.** ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md)) give a local version, Fₙ(B(w*)) = nLₙ(w*) +
+- **Lau et al.** ([NOTE-2239](../notes.d/NOTE-2239.md)) give a local version, Fₙ(B(w*)) = nLₙ(w*) +
   λ(w*) log n − (m(w*) − 1) log log n + O_P(1) (App. B, Eq. 21), under the
   added condition that w* is "at least as degenerate as any nearby
   minimiser", and call the Laplace form "ill-defined for neural networks".

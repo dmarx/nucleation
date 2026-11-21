@@ -6,8 +6,9 @@
 
 **Information geometry** — the geometry of statistical models — the Fisher information as a metric, natural gradient, curvature and its Kronecker and block structure, and the spectra of Fisher and Hessian matrices in learned models (ADR-026).
 
-1 of 206 LEAD documents. Back to the [full index](../README.md).
+2 of 211 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-059](../../../record/leads.d/LEAD-059.md) | File the demonstrated corollary that answers part of the question on reinforcing loops | Named in the curation entry of 2026-11-07 (082259). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-208](../../../record/leads.d/LEAD-208.md) | Compute the effective dimensions of the two-dimensional Ising model at and away from its critical point on one set of finite lattices, the stiff Fisher count at several sample sizes, the growth of predictive information, the relevant directions and the cluster dimension, to see which agree | A test for [QUESTION-517](../../../record/questions.d/QUESTION-517.md), which A raised at A19's close and A21 §1 of the exchange "Rich Get Richer Power Laws" and left without a method. On periodic L×L Ising lattices at T_c and at two temperatures either side, compute in one observation scheme (decimated spins, as in [THEORY-777](../../../record/theory.d/THEORY-777.md)): the number of Fisher eigenvalues resolved by n samples for several n; the growth of past–future information along a spatial transfer direction; the count of eigenvalues that do not decay under decimation; and the fractal dimension of the clusters. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

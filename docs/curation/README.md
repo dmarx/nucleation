@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [21 Nov 18:45 — Readings of 2026-11-21 from the exchange Rich Get Richer Power Laws: eight works read, three supplements registered and read, grounds re-attributed where a work carried less than it was cited for, and the sloppy and hyper-ribbon terms revised against their sources](2026-11.md#readings-of-2026-11-21-from-the-exchange-rich-get-richer-power-laws-eight-works-read-three-supplements-registered-and-read-grounds-re-attributed-where-a-work-carried-less-than-it-was-cited-for-and-the-sloppy-and-hyper-ribbon-terms-revised-against-their-sources)
+- [21 Nov 18:01 — Filing of the exchange Rich Get Richer Power Laws: ninety-two entries across five themes, the owner's ideas in the owner's voice, gaps filled with checked derivations, two part accounts, and the syntheses audited](2026-11.md#filing-of-the-exchange-rich-get-richer-power-laws-ninety-two-entries-across-five-themes-the-owners-ideas-in-the-owners-voice-gaps-filled-with-checked-derivations-two-part-accounts-and-the-syntheses-audited)
 - [21 Nov 14:58 — Synthesis review of 2026-11-21](2026-11.md#synthesis-review-of-2026-11-21)
 - [21 Nov 08:55 — First cross-line audit, of the eight principle accounts of 2026-11-20: each is a bridge on its own, and together they indicate one candidate line, a general theory of learning and inquiry](2026-11.md#first-cross-line-audit-of-the-eight-principle-accounts-of-2026-11-20-each-is-a-bridge-on-its-own-and-together-they-indicate-one-candidate-line-a-general-theory-of-learning-and-inquiry)
 - [21 Nov 06:03 — A local reading of First Contact, in the context of the record's account of learning occasioned by obstruction](2026-11.md#a-local-reading-of-first-contact-in-the-context-of-the-records-account-of-learning-occasioned-by-obstruction)
@@ -125,10 +127,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-313 entries across 3 books, newest first.
+315 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 116 | 2026-11-01 | 2026-11-21 |
+| [2026-11](2026-11.md) | 118 | 2026-11-01 | 2026-11-21 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
