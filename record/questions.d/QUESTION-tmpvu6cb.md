@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Can the representational manifold a deep network learns be modelled as an active-matter system in high dimension, and if so in which sense: coupled motion under optimization, sustained nonequilibrium currents, or critical collective dynamics?'
+title: 'What follows if the representational manifold a deep network learns, a high-dimensional system, is modelled as an active-matter system?'
 version: 1
 tags:
 - representation-learning
@@ -13,14 +13,14 @@ summary: >-
   The owner's, at U18 of the exchange "Rich Get Richer Power Laws"
   (2026-11-21): "how about if high dimensional systems? consider a
   representational manifold learned by a DNN modeled as an active matter
-  system". The other assistant's answer (A29) grades the idea into three
-  hypotheses of increasing strength, and the owner's next turn (U19) adds
-  concentration of measure as the baseline any such model has to beat
-  (CLAIM-tmpfwwfy).
+  system". The other assistant's answer (A29 §11) grades the idea into
+  three hypotheses of increasing strength, which the body sets out as A's,
+  and the owner's next turn (U19) adds concentration of measure as the
+  baseline any such model has to beat (CLAIM-tmpfwwfy).
 ---
 <!-- inactive-ok-file: CLAIM-tmpfwwfy CLAIM-tmp526xr CLAIM-tmpet76z CLAIM-tmpu6t8z TERM-tmplplcf CLAIM-tmp41gfr CLAIM-tmpqqngq LEAD-tmpp88ld THEORY-1095 THEORY-2051 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 
-# QUESTION-tmpvu6cb: Can the representational manifold a deep network learns be modelled as an active-matter system in high dimension, and if so in which sense: coupled motion under optimization, sustained nonequilibrium currents, or critical collective dynamics?
+# QUESTION-tmpvu6cb: What follows if the representational manifold a deep network learns, a high-dimensional system, is modelled as an active-matter system?
 
 ## Why it is a question
 
@@ -35,8 +35,8 @@ THEORY-779). It has nothing on what would make a population of learned
 representations an active-matter system, or on which dimension would govern
 its collective behaviour.
 
-A29 §11 separates three things the question could mean, "of increasing
-strength", and warns that "these hypotheses shouldn't be collapsed into a
+The grading below is A's, not the owner's. A29 §11 separates three
+things the question could mean, "of increasing strength", and warns that "these hypotheses shouldn't be collapsed into a
 single assertion":
 
 1. **Collective representation dynamics**: embeddings "behave like coupled

@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'When a network acquires a new distinction, does a direction that was weak become informative first, before a local degeneracy changes and before the distinction becomes decodable, and in which of the model''s spectra was it weak?'
+title: 'Does recent work on the informativeness of small-eigenvalue subspaces during learning bear on the signature of a transition the exchange proposed, in which a previously weak direction becomes informative, a local degeneracy changes and a new distinction becomes independently decodable?'
 version: 1
 tags:
 - learning-theory
@@ -11,36 +11,51 @@ line:
 - learned-structure
 summary: >-
   The owner's U25 in the exchange "Rich Get Richer Power Laws"
-  (2026-11-21). It quotes A39's proposed test ("a previously weak direction
-  becomes informative, a local degeneracy changes, and a new semantic
-  distinction becomes independently decodable") and adds: "I think there's
-  been some recent work in the informativeness of small-eigenvalue
-  subspaces during learning that might be relevant here". The question is
-  the owner's pointer, put as the question it raises; A41's candidate
-  answer is set out in the body.
+  (2026-11-21). It quotes A39's proposed signature of a transition ("a
+  previously weak direction becomes informative, a local degeneracy
+  changes, and a new semantic distinction becomes independently
+  decodable") and adds: "I think there's been some recent work in the
+  informativeness of small-eigenvalue subspaces during learning that might
+  be relevant here". The question is the owner's pointer, put as the
+  question it raises. The ordering of the three events and the sorting of
+  "weak" by spectrum are A41's, set out in the body as A's.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmppkdjz CLAIM-tmp9bp04 CLAIM-tmpl9zw4 CLAIM-tmpcg4uu TERM-tmpnxjq4 LIT-tmp0gbj6 LIT-tmp83hha LIT-tmp4det7 — Proposed or new, filed with this question, or Deferred works registered from the exchange and not yet read -->
 
-# QUESTION-tmp82zpm: When a network acquires a new distinction, does a direction that was weak become informative first, before a local degeneracy changes and before the distinction becomes decodable, and in which of the model's spectra was it weak?
+# QUESTION-tmp82zpm: Does recent work on the informativeness of small-eigenvalue subspaces during learning bear on the signature of a transition the exchange proposed, in which a previously weak direction becomes informative, a local degeneracy changes and a new distinction becomes independently decodable?
 
 ## The question
 
 U25 quotes A39 §8's test line and adds, verbatim: "I think there's been
 some recent work in the informativeness of small-eigenvalue subspaces
-during learning that might be relevant here". The owner's pointer raises
-an ordering question about three events in acquiring a distinction:
+during learning that might be relevant here". The owner's question is
+whether that work bears on A39's signature: does what is known about
+small-eigenvalue subspaces during learning tell for or against transitions
+in which a weak direction becomes informative, a local degeneracy changes,
+and a distinction becomes decodable?
 
-1. a direction that was weak becomes informative;
-2. a local degeneracy changes (a learning coefficient, a rank, a
-   stability eigenvalue);
-3. the distinction becomes decodable or is used.
+## How A41 sharpened it
 
-Do they come in a fixed order, and does the first precede the others?
-"Weak" needs a spectrum: representation variance, a weight matrix's
-singular values, the Hessian, or the Fisher. These can rank directions in
-opposite orders ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md); the senses are sorted in [TERM-tmpnxjq4](../terms.d/TERM-tmpnxjq4.md)).
-The question is open until it is answered for a stated spectrum.
+Two refinements in the body are A's, from A41, not the owner's.
+
+- **An order.** A41 §7 tracks the parts of A39's signature on one clock,
+  testing "whether transitions in semantic decodability coincide with
+  changes in one, two, or all three" of variance, task sensitivity and a
+  local learning coefficient. As events:
+  1. a direction that was weak becomes informative;
+  2. a local degeneracy changes (a learning coefficient, a rank, a
+     stability eigenvalue);
+  3. the distinction becomes decodable or is used.
+  A41 §8 predicts that the first can precede the others (quoted below).
+- **A taxonomy of "weak".** A41 §1 and §4: "weak" needs a spectrum, and a
+  model has several ("A direction can be small in one of these geometries
+  and extremely important in another"): representation variance, a weight matrix's singular values,
+  the Hessian and the Fisher, which can rank directions in opposite orders
+  ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md); the senses are sorted in [TERM-tmpnxjq4](../terms.d/TERM-tmpnxjq4.md)).
+
+On A41's sharpening the question is open until it is answered for a
+stated spectrum.
 
 ## Candidate answers in the exchange
 

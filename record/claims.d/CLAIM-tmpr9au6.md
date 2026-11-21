@@ -31,9 +31,11 @@ summary: >-
   low mass long tail below the critical transition." The sentence admits
   two readings that would be filed differently, a gap in support
   ([CLAIM-tmpvrbdt](CLAIM-tmpvrbdt.md)) and a separation of scales ([CLAIM-tmplb1ow](CLAIM-tmplb1ow.md)); both are
-  filed, as alternatives, for the owner to choose. Checked on the two
-  cases, reading (a) fails below a continuous transition and reading (b)
-  holds.
+  filed, as alternatives, for the owner to choose. The verdict on the two
+  readings is the assistant's (Claude, in this session), from its checks in
+  CASE-tmpi5vfh and CASE-tmpykltu, argued in ARG-tmpfug10: below a
+  continuous transition reading (a) fails and reading (b) holds. The
+  conjecture is the owner's, at U5.
 ---
 <!-- inactive-ok-file: CLAIM-tmpvrbdt CLAIM-tmplb1ow CASE-tmpi5vfh CASE-tmpykltu ARG-tmpfug10 CLAIM-tmpninc2 CLAIM-769 — Proposed or new; the readings, cases and claims filed with this one from the same exchange, and a held claim cited as a contrast -->
 

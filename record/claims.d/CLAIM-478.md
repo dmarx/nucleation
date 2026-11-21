@@ -114,6 +114,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: CASE-207 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmp99m8g — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
+<!-- inactive-ok-file: ARG-tmp09yqc CLAIM-tmpjbee7 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-478: Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another
 
@@ -518,10 +519,13 @@ size gives that window. A does not show the bridge it asserts, that a
 finite ξ makes a system nearly decomposable in Simon's sense
 ([THEORY-661](../theory.d/THEORY-661.md)): decay of correlations between blocks is weak
 statistical dependence, and Simon's near-decomposability is weak
-interaction, a statement about rates. The two meet through dynamic
+interaction, a statement about rates. ARG-tmp09yqc sets out why the reading does
+not carry the bridge. The two meet through dynamic
 scaling, τ ∝ ξ^z, which ties the loss of the spatial window to the loss of
 this claim's temporal one near a continuous transition; slowing there is
 of the collective mode, the case [CLAIM-626](CLAIM-626.md) separates from the others.
 The assistant's reading (Claude, in this session). The exchange's other
 point here, that criticality is not the maximum of complexity, is
-[CLAIM-tmp99m8g](CLAIM-tmp99m8g.md). No status change.
+[CLAIM-tmp99m8g](CLAIM-tmp99m8g.md). A17 §5's companion point, that at
+criticality a system becomes harder to separate into levels and easier to
+classify, is CLAIM-tmpjbee7. No status change.

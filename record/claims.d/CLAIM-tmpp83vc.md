@@ -1,19 +1,20 @@
 ---
 status: Proposed
-title: 'Singular learning theory''s account of phase transitions in learning, as changes in which singularity dominates, may be useful for describing how a network''s representations reorganize in stages'
+title: 'Singularity theory''s account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A study of a network that passes through representational stages, with
-  local learning coefficients measured across them, in which the stages
-  coincide with no change in the dominant singular region or its
-  coefficient, and are fully accounted for by an account that uses no
-  singular geometry, such as the order of the data's spectral modes
-  alone; or a showing that the Bayesian order SLT predicts and the order
-  of training's stages are unrelated in general. A transition SLT cannot
-  compute for a large network does not defeat it; the claim is that the
-  account is useful, not that it is tractable everywhere.
+  A showing that singular learning theory adds nothing to the account of
+  progressive learning under either reading of the suggestion: that no
+  transition in learning is the network carrying out a resolution
+  (reading a, CLAIM-tmp85eq8), and that representational stages, with
+  local learning coefficients measured across them, coincide with no
+  change in the dominant singular region and are fully accounted for by
+  concentration, spectral detectability and cone geometry without
+  singular geometry (reading b, CLAIM-tmpgzb8v). A transition the theory
+  cannot compute for a large network does not defeat it; the claim is that
+  the account might be useful, not that it is tractable everywhere.
 tags:
 - learning-theory
 - loss-landscapes
@@ -28,8 +29,6 @@ grounds:
 - LIT-tmp3njir
 - LIT-tmp0z602
 - LIT-tmpv9upr
-rests_on:
-- CLAIM-305
 bears_on:
 - QUESTION-363
 - QUESTION-217
@@ -40,15 +39,17 @@ summary: >-
   through concentration of measure, spectral detectability and entailment
   cones: "singularity theory has an account for phase transitions in
   learning as resolutions of singularities that might be useful here".
-  The thesis is the owner's. The title takes the reading on which the
-  record can file it: transitions as changes of the dominant singularity,
-  with resolution as the tool that computes their learning coefficients
-  (A37 §3; [CLAIM-305](CLAIM-305.md)). The alternative reading is set out in the body.
+  The thesis and its wording are the owner's, at U23. "As resolutions of
+  singularities" admits two readings that would be filed differently, and
+  both are filed as alternatives for the owner to choose: (a) training
+  carries out a resolution (CLAIM-tmp85eq8), and (b) a transition is a
+  change of the dominant singularity, with resolution as the tool that
+  computes its learning coefficients (CLAIM-tmpgzb8v, A37's reframing).
 ---
 
-<!-- inactive-ok-file: LIT-tmp3njir LIT-tmp0z602 LIT-tmpv9upr CLAIM-tmpcbfdj CLAIM-tmp9bp04 — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
+<!-- inactive-ok-file: LIT-tmp3njir LIT-tmp0z602 LIT-tmpv9upr CLAIM-tmpcbfdj CLAIM-tmp9bp04 CLAIM-tmp85eq8 CLAIM-tmpgzb8v ARG-tmpbmruy — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
 
-# CLAIM-tmpp83vc: Singular learning theory's account of phase transitions in learning, as changes in which singularity dominates, may be useful for describing how a network's representations reorganize in stages
+# CLAIM-tmpp83vc: Singularity theory's account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built
 
 ## The claim
 
@@ -58,35 +59,22 @@ in learning as resolutions of singularities that might be useful here".
 which so far rested on concentration of measure, spectral detectability
 (BBP) and entailment cones.
 
-## Two readings of "as resolutions of singularities"
+## Two readings, filed as alternatives
 
-The ledger notes that A37 reframed the owner's wording, and that the record
-must say which reading it takes. There are two.
+"As resolutions of singularities" can be read two ways, and they would be
+filed differently, so each is filed as an alternative. The owner chooses.
 
-- **(a) Training performs a resolution.** A phase transition would be the
-  network passing through, or carrying out, a blow-up of a singular
-  point. The record does not support this. A blow-up reparametrizes the
-  states and adds no observation ([CLAIM-305](CLAIM-305.md)). A37 §3 agrees: resolution
-  "doesn't mean that training literally performs an algebraic blow-up.
-  Resolution is an analytical tool that reveals the structure hidden
-  inside a singular parameterization."
-- **(b) A transition is a change of the dominant singularity, and
-  resolution computes what decides it.** This is the reading the title
-  files. Regions of parameter space with different learning coefficients
-  compete in the free energy F ≈ nL + λ log n − (m − 1) log log n
-  ([THEORY-087](../theory.d/THEORY-087.md)). As n grows, the dominant region can switch from a simpler,
-  worse-fitting one to a richer one, at n(L_A − L_B) ≈ (λ_B − λ_A) log n
-  (A37 §5). The record holds such Bayesian transitions in a toy model, and
-  their partial agreement with SGD's order ([THEORY-1275](../theory.d/THEORY-1275.md), [QUESTION-363](../questions.d/QUESTION-363.md)).
-  Resolution is how each λ is found.
+- **Reading (a), training performs a resolution** (CLAIM-tmp85eq8): a
+  phase transition is the network carrying out, or passing through, a
+  blow-up of a singular point. The statement is the assistant's.
+- **Reading (b), a change of the dominant singularity** (CLAIM-tmpgzb8v):
+  regions with different fits and learning coefficients compete in the
+  free energy, the dominant one can switch as n grows, and resolution is
+  how each coefficient is found. The wording is A's, at A37 §3 and §5.
 
-On (b), what the owner's suggestion adds to the exchange is the proposal
-that the stages of representational development are such switches, or at
-least leave their mark in local learning coefficients. The record holds
-one reading in favour: weight-refined coefficients of attention heads
-diverge by function over training ([THEORY-975](../theory.d/THEORY-975.md)). Hoogland et al.
-([LIT-tmp3njir](../literature.d/LIT-tmp3njir.md), unread) report stagewise changes in the coefficient in
-transformers.
+The assistant's view, that the record's CLAIM-305 tells against reading (a)
+and leaves (b), is argued in ARG-tmpbmruy; it is a verdict on the
+readings, not a choice between them for the owner.
 
 ## How the exchange developed it
 

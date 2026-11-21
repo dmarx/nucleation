@@ -40,6 +40,8 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpcbfdj CLAIM-tmpuc8ro — Proposed; claims filed with this one -->
 <!-- inactive-ok-file: LEAD-200 — Done; the check of relaxation over an ultrametric tree, cited for what it did -->
+<!-- inactive-ok-file: ARG-tmpgt6ax — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: LIT-tmp0z602 LIT-tmpv9upr — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
 
 # CLAIM-tmpv5asv: Some of the slow, power-law-like relaxation seen in training deep networks may be the algebraic relaxation of degenerate singular modes rather than critical slowing down in a collective phase, and a dependency tree of feature transitions yields power laws only if its thresholds or relaxation times are themselves broadly or self-similarly distributed
 
@@ -54,7 +56,9 @@ scale-free collective phase. It could be a collection of algebraically
 relaxing singular modes."
 
 The premise is [CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md): a degenerate direction relaxes as a power
-of t with no collective mode and no tuning to a critical point. The
+of t with no collective mode and no tuning to a critical point. The works
+on plateaus near singularities the claim grounds in, Amari's and Wei's
+(LIT-tmp0z602, LIT-tmpv9upr), are Deferred: registered, not read. The
 claim offers this as a rival explanation of observed slow relaxation in
 training, beside criticality. It does not say which explanation holds for
 any network.
@@ -72,16 +76,14 @@ ultrametric tree gives a power law.
 ## The gap, and where it is filled
 
 The ledger notes that A gives no step from one algebraic mode to the
-broad distribution of timescales an observed power law needs. One
-quartic mode gives t^(−1/2), and [CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md) shows it needs a balanced
-start. [CLAIM-tmpuc8ro](CLAIM-tmpuc8ro.md), the assistant's, supplies one step. A population
-of independent factored modes from a small random start relaxes on
-average as a power law with a logarithmic correction. The cause is that
-the conserved imbalance of each mode sets its exponential rate, and those
-rates are distributed down to zero. That route needs no criticality and
-no hierarchy of degeneracies, which narrows A's alternative. A
-power law in training relaxation does not even indicate a hierarchy of
-singular orders.
+broad distribution of timescales an observed power law needs. What one
+mode does, and the balanced start its algebraic decay needs, is
+CLAIM-tmpcbfdj. CLAIM-tmpuc8ro, the assistant's, supplies one step: a
+population of such modes from a random start, which relaxes on average as
+a power law. That route needs no criticality and no hierarchy of
+degeneracies, which narrows A's alternative. A power law in training
+relaxation does not even indicate a hierarchy of singular orders;
+ARG-tmpgt6ax argues this.
 
 ## Cross-reference
 

@@ -29,6 +29,7 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A32); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpipm3o — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
 
 # CLAIM-tmp8mvx8: If learned signal strengths fall as a power law in rank, the number of directions PCA can separate from the noise bulk grows as a power of the sample-to-dimension ratio and of the signal gain, a cascade of detectability thresholds and not a self-organized critical process, and the power law then belongs to the hierarchy of signal strengths, not to the spectrum, whose bulk with a few outliers is no heavy tail
 
@@ -74,6 +75,11 @@ longer the identity plus a finite-rank perturbation, and the bulk itself
 moves. And at finite N an outlier within about N^(−2/3) of the edge is
 invisible, so the formula overcounts near threshold even in the sparse
 regime (rows 1 and 3).
+
+The threshold the count applies is Baik, Ben Arous and Péché's
+(LIT-tmpipm3o), which is Deferred: registered, not read. The simulation
+counts outliers directly against the edge of the noise bulk, so the check
+does not depend on the work.
 
 ## Corrections the filing found
 

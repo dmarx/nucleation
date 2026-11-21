@@ -40,6 +40,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpqqngq CLAIM-tmp5y856 ARG-tmpwo5ou — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: LIT-tmpipm3o — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
 
 # CLAIM-tmpk33au: The occupancy threshold of a cone holding a fixed share of random directions, the BBP threshold and the alignment bifurcation are three different thresholds on one scale of alignment strength: the first at κ of order √D, the second at κ = √D·(D/N)^(1/4), the third at a coupling of order D; only the last is a transition of the system, and in the mean-field alignment model the ordering mode becomes BBP-detectable at coupling D/(1 + √(D/N)), an early warning before the bifurcation at D
 
@@ -57,22 +58,23 @@ relating them. They can be put on one axis, the alignment strength.
 bias κ, and write x = √D·u, so the null is near N(0, I) and the tilt shifts
 x along μ by c = κ/√D (A35 §1).
 
-1. **A fixed-share cone** changes occupancy when c is of order one:
-   κ ∼ √D. Its occupancy, Q = 1 − Φ(a − c), is smooth in c at every D.
-2. **PCA on N such vectors** sees a mean shift c along μ as a spike
-   β = c² in the uncentred second moment, so the BBP threshold β > √γ,
-   γ = D/N, falls at c = γ^(1/4), that is κ_BBP = √D·(D/N)^(1/4). It is
-   the same order as the cone threshold when N is proportional to D, earlier
-   by γ^(1/4) when N ≫ D, later when N ≪ D. It is a non-analytic change in
-   what the estimator returns, not in the population.
-3. **An order-one cosine**, or a cone of fixed angle, needs κ ∼ D (CLAIM-tmpqqngq),
-   a factor √D beyond the first two. The fixed-angle occupancy becomes a
-   step in κ/D as D grows, still with no interaction: a concentration step.
+CLAIM-tmpqqngq, on which this claim rests, gives two of the scales: a
+fixed-share cone changes occupancy smoothly once c is of order one, κ ∼ √D,
+and an order-one cosine or a cone of fixed angle needs κ ∼ D, a factor √D
+beyond. This claim adds the spectral one:
+
+- **PCA on N such vectors** sees a mean shift c along μ as a spike
+  β = c² in the uncentred second moment, so the BBP threshold β > √γ,
+  γ = D/N, falls at c = γ^(1/4), that is κ_BBP = √D·(D/N)^(1/4). It is
+  the same order as the cone threshold when N is proportional to D, earlier
+  by γ^(1/4) when N ≫ D, later when N ≪ D. It is a non-analytic change in
+  what the estimator returns, not in the population.
 
 None of these is a transition of the system: the population changes
 smoothly in κ in each. When κ is imposed by a task (one direction given by
-labels), the first two are detectability thresholds of one smooth family,
-and the third is where alignment becomes visible to the eye.
+labels), the cone threshold and the BBP threshold are detectability
+thresholds of one smooth family, and the scale κ ∼ D is where alignment
+becomes visible to the eye.
 
 **When the tilt is self-generated.** In A32 §7's model,
 H = −(J/2N)‖Σ_i u_i‖² at temperature T, write K = J/T. The mean-field
@@ -144,6 +146,11 @@ Computed in this session (python3 -I, numpy, scipy):
   at 0.7, γ = 1) and overshoot near it (11.1 against 8.4 at 0.9), where
   the unit-norm constraint saturates the mode. The onset, not the
   magnitude near the bifurcation, is what the claim uses.
+
+The spiked-covariance threshold and formulas are Baik, Ben Arous and
+Péché's (LIT-tmpipm3o), which is Deferred: registered, not read. The checks
+above compare simulated outliers with the formulas directly, so they do not
+depend on the work.
 
 ## What it does not say
 

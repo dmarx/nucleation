@@ -37,6 +37,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpet76z THEORY-2033 THEORY-813 THEORY-2012 LIT-tmp9yk0t — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: ARG-tmp0rq99 THEORY-209 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-tmp526xr: Reading a network's representations as active matter splits into a weak analogy, that embeddings move collectively under optimization and noise through a shared-parameter kernel, and a strong model, that their dynamics carry sustained nonequilibrium currents or persistent orientation-like degrees of freedom not reducible to gradient relaxation; the weak reading follows from gradient flow, the strong one has to be shown, and its flocking observable is alignment of velocities, not clustering of positions
 
@@ -100,7 +101,8 @@ ladder and the rule for climbing to the second.
 
 - A29 gives no mechanism by which the coupled system becomes active. The
   assistant's CLAIM-tmpet76z shows the coupling cannot be one: under gradient flow
-  the loss is a Lyapunov function whatever the kernel does.
+  the loss is a Lyapunov function whatever the kernel does. ARG-tmp0rq99
+  argues that this closes A29 §2's feedback loop as a route to activity.
 - The "particles" are data embeddings, which nothing propels. An
   orientation-like degree of freedom, which polar active matter has, is
   named (p_i) but not given dynamics of its own.

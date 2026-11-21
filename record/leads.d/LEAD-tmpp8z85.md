@@ -50,6 +50,11 @@ observed power laws reflect genuine critical phenomena". It is also A3
 
 ## What a test must face (the assistant's)
 
+This lead is the cutoff row of LEAD-tmpng7or's protocol, which reads the
+mechanism behind a power law from its cutoff, collapse, dynamics and
+response together and subsumes the cutoff test. What this lead adds is
+the comparison with the variance and autocorrelation warnings below.
+
 - **Data cost.** In the Poisson cascade ([CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md)), the share of
   cascades beyond s_c is about 0.05·(1 − R): 5.8 × 10⁻³ at R = 0.9 and
   5.0 × 10⁻⁵ at 0.999. So the events that locate the cutoff become rarer

@@ -22,9 +22,9 @@ summary: >-
   entailment regions (CLAIM-tmpr4k9z). The filing finds the analogy carries to the
   angular part of a hyperbolic cone, in the tangent space at its apex, and
   not to the radial structure that makes Ganea's cones what they are; so it
-  supports the conclusion only in that narrower form. Proposed: the verdict
-  is the filer's (Claude, in this session); adopting it is the owner's
-  call.
+  supports the conclusion only in that narrower form. Proposed. The
+  wording is the assistant's (Claude, in this session); adopting it is the
+  owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpqqngq CLAIM-tmpr4k9z CLAIM-tmpdwm3z — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 

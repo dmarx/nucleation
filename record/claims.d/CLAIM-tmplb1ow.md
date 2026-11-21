@@ -78,7 +78,9 @@ s = 10 to 100,000. Below, a size near s_c marks off the extraordinary
 event. At the transition no size does. This is A's closing line at A7,
 "At the transition, the scale separating ordinary from extraordinary
 behavior ceases to be fixed", and A8 §4, where the conditional
-exceedance at criticality is A's own example (checked).
+exceedance at criticality is A's own example (checked). The owner's U6 quoted that closing line
+back and asked A to "elaborate"; the line it picked out bears on this
+reading.
 
 **What "closes" means.** As a ratio, the separation of scales does not
 close at the transition. It diverges, as the table shows. What closes is

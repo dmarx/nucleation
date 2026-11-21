@@ -38,6 +38,7 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpy688z TERM-tmplplcf CLAIM-tmpfwwfy LIT-tmp7uzka — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read -->
+<!-- inactive-ok-file: ARG-tmp96hze — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-tmpym2vz: A rank power-law spectrum with exponent just above 1, as Stringer's smoothness bound α ≥ 1 + 2/m requires of a smooth code of an m-dimensional stimulus manifold, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1
 
@@ -98,7 +99,8 @@ Three consequences:
 So the exchange's bridge holds in a narrower form: a power-law spectrum
 governs concentration, but near α = 1 it does so through slowly varying,
 nearly m-independent participation ratios of a few tens, not through
-distinct regimes a network of real width could exhibit.
+distinct regimes a network of real width could exhibit. ARG-tmp96hze sets
+out how this qualifies CLAIM-tmpy688z.
 
 ## What it does not say
 

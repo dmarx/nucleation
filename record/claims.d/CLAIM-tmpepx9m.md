@@ -40,6 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpx3y6w LIT-tmp5cw2k LIT-tmp959qu LIT-tmpwdtfj LIT-tmpw4ye0 — Deferred; the works A cites or invokes, registered from this exchange and not read -->
 <!-- inactive-ok-file: CLAIM-tmply70l CLAIM-tmp9a83b CLAIM-tmp8h6nt CLAIM-184 CLAIM-677 THEORY-1927 THEORY-188 — Proposed or new; claims filed from the same exchange and held entries cited as neighbours -->
+<!-- inactive-ok-file: ARG-tmp2w77g — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-tmpepx9m: Cumulative advantage gives a power law only in a particular form: attachment linear in current size together with continual entry of new units; with no preference the tail is exponential, with sublinear preference stretched-exponential, and with superlinear preference one unit takes almost every new link
 
@@ -116,6 +117,7 @@ agree.
   A1 §5's domain table (citations, social networks, cities, wealth,
   platforms, language) lists plausible feedbacks, "but they don't all
   necessarily exhibit a pure power-law distribution". On cities, see the
-  note of 2026-11-21 on [THEORY-1499](../theory.d/THEORY-1499.md).
+  note of 2026-11-21 on [THEORY-1499](../theory.d/THEORY-1499.md), and ARG-tmp2w77g for why the
+  cities example does not support this claim.
 - Not the opposition A later draws between rich-get-richer and
   criticality ([CLAIM-tmp9a83b](CLAIM-tmp9a83b.md)).

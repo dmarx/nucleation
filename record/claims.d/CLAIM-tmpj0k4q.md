@@ -43,6 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the compression half -->
 <!-- inactive-ok-file: TERM-tmp5z2du CLAIM-tmpyxiwv — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-tmpm1tji — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
 
 # CLAIM-tmpj0k4q: A model has no single practical dimension: the number of parameter directions a data set resolves grows with the data, as a power of the sample size when the Fisher spectrum falls as a power of rank and as its logarithm when it falls exponentially, so zooming out and demanding precision move effective dimension in opposite directions
 
@@ -80,6 +81,10 @@ floor of a small count biases it up). For λ_j = e^(−0.5 j) the count is
 9, 18, 27, 36 and 55 at n = 10², 10⁴, 10⁶, 10⁸ and 10¹², against
 ln n/a = 9.2, 18.4, 27.6, 36.8 and 55.3. (A numpy script of this session,
 not kept; the method is as stated.)
+
+The work cited for the sloppy-model setting, Transtrum and colleagues'
+review (LIT-tmpm1tji), is Deferred: registered, not read. The count above
+does not depend on it.
 
 ## What it does not say
 

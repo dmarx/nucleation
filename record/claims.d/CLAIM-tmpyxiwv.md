@@ -45,6 +45,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpj0k4q TERM-tmpxml4k — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-tmpys7v3 — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
 
 # CLAIM-tmpyxiwv: When past and future are independent given a shared parameter, the shape of the Fisher spectrum fixes how predictive information grows: in a linear-Gaussian model it grows as (d/2) ln T with d resolved directions, as T^(1/p) when the spectrum falls as j^(−p), and as (ln T)²/(4a) when it falls as e^(−aj), so the power-law regime of Bialek, Nemenman and Tishby follows from a power-law spectrum
 
@@ -112,6 +113,11 @@ The assistant computed 2G(T) − G(2T) on a two-million-term spectrum
 - λ_j = e^(−0.5 j): the ratio of I_pred to (ln T)²/(4a) is 0.74, 0.83,
   0.88, 0.91 and 0.94 at T = 10², 10⁴, 10⁶, 10⁸, 10¹², approaching 1 as
   the subleading terms fade.
+
+The three regimes are Bialek, Nemenman and Tishby's (LIT-tmpys7v3), as A21
+§4 states them; the work is Deferred: registered, not read. The derivation
+and the check above do not depend on it; what does is the attribution of
+the regimes, taken from A.
 
 ## What it does not say
 

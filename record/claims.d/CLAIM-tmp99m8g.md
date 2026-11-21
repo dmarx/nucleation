@@ -40,6 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-262 — Proposed reading, the neural-complexity measure -->
 <!-- inactive-ok-file: CLAIM-tmpq8q9t — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: LIT-tmpys7v3 — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
 
 # CLAIM-tmp99m8g: Entropy, correlation and scaling are distinct properties of a system, and a critical point is not the maximum of complexity: what is special there is the absence of a finite correlation scale, while entropy density, predictive information, the number of relevant directions and the cost of simulation need not peak there
 
@@ -107,6 +108,11 @@ does not have a finite characteristic distance".
   sums, one over distances of a weight that falls slower than the number
   of terms grows, the other over event sizes of a probability times a
   size; the record keeps the analogy as A's and does not adopt it.
+
+Predictive information, one of the measures A21 §8 says need not peak at
+criticality, is Bialek, Nemenman and Tishby's (LIT-tmpys7v3), which is
+Deferred: registered, not read. The worked case and the corrections above
+were checked in this session and do not depend on the work.
 
 ## What it does not say
 

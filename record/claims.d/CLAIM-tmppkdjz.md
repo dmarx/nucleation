@@ -99,6 +99,47 @@ on the small coordinate, accuracy is Φ(ε/√(ε²σ² + τ²)), which falls to
 only down to the scale of the noise downstream of it. Finite precision,
 weight decay on the readout and additive noise all set that scale.
 
+## Task sensitivity relative to variance (A41 §4, §6)
+
+Added 2026-11-21, from the same turn; the wording quoted is A's (the other
+assistant in the exchange "Rich Get Richer Power Laws", A41), the check
+the assistant's.
+
+**A coordinate for the disagreement (A41 §4).** "One possible construction
+is a generalized eigenvalue problem: G_task v = λ(C_repr + εI)v, where εI
+provides regularization. The leading generalized eigenvectors identify
+directions with high task sensitivity relative to their representation
+variance." It sorts directions into large variance and little task
+importance, small variance and little, and small variance but high
+importance, and "The third class is the one the recent studies make
+particularly interesting." A adds that it "is not a substitute for mutual
+information, and the specific matrices must be chosen carefully."
+
+With G_task the outer product of the difference of class means, the
+problem is Fisher's linear discriminant, and the leading eigenvalue is a
+squared Mahalanobis separation. On this claim's variance toy (writing δ
+for A's regularizer, since ε is the toy's scale), the means differ by 2ε
+along the second coordinate, whose variance is ε²(1 + σ²), so the leading
+generalized eigenvalue is 4ε²/(ε²(1 + σ²) + δ), along that coordinate. At
+δ = 0 it is 4/(1 + σ²) = 3.85 at σ = 0.2 for every ε: the smallest-variance
+direction ranks first, as the claim says it should. At δ = 10⁻⁴ it is 3.81,
+1.96 and 0.040 at ε = 0.1, 0.01 and 0.001. The regularizer acts as the
+readout-noise floor τ² of the section above: below it, a low-variance
+direction loses its rank. So δ is not a numerical convenience; it states
+the precision at which "quiet" directions are read. Checked with
+`python3 -I` (scipy's generalized symmetric eigensolver).
+
+**Reallocating importance without reallocating variance (A41 §6).**
+"Progressive learning could involve the network reallocating *functional
+importance* across the spectrum without necessarily reallocating much
+variance." A names three mechanisms it calls different: a downstream layer
+learning to read a feature whose "raw variance changes very little"; a new
+direction learned "in the spectral tail"; and "a change in the mapping
+between representations and outputs". On this claim's terms, the first and
+third move a direction's rank under G_task, or under the pulled-back
+Fisher, while its rank under C_repr stays put; only the second changes the
+variance spectrum. Which one occurs is QUESTION-tmp82zpm's to settle.
+
 ## What the small-eigenvalue findings add, and do not
 
 A41 cites four findings: small singular values of transformer weights

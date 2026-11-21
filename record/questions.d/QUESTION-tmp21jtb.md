@@ -15,10 +15,10 @@ summary: >-
   produces which exponent**. Some exponents are determined by geometry,
   some by dimensionality, some by the balance of growth and extinction,
   and others by the distribution of underlying parameters." A raised it
-  and left it. The wording is A's (the other assistant in the exchange
-  "Rich Get Richer Power Laws", A5); adopting it is the owner's call. The
-  section "A partial pattern" is the assistant's (Claude, in this
-  session), checked with python3 -I.
+  and left it. The section "A partial pattern" is the assistant's
+  (Claude, in this session), checked with python3 -I. The wording is A's
+  (the other assistant in the exchange "Rich Get Richer Power Laws", A5);
+  adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmply70l CLAIM-tmpiervv CLAIM-tmpdusls CLAIM-tmp8h6nt CLAIM-769 THEORY-2141 — Proposed or new; claims filed from the same exchange and held claims and readings that give exponents -->
 

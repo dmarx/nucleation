@@ -20,9 +20,10 @@ summary: >-
   follows the Borel law. Every figure A gives was rechecked with python3 -I
   from the closed form. A's cutoff table holds to within 16% at R = 0.8 and
   0.7% at R = 0.99, as A says ("increasingly accurate as R approaches 1").
-  Stipulated: a model, not a measured system. The example is A's; the
-  checks and the added rows are the assistant's (Claude, in this session).
-  Adopting it is the owner's call.
+  Stipulated: a model, not a measured system. The checks and the added
+  rows are the assistant's (Claude, in this session). The example's
+  wording is A's (the other assistant in the exchange "Rich Get Richer
+  Power Laws", A5, A7 and A8); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmplb1ow CLAIM-tmpninc2 CLAIM-tmpvrbdt CLAIM-tmpdusls — Proposed or new; the claims filed with this case from the same exchange -->
 

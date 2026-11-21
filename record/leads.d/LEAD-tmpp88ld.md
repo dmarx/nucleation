@@ -28,8 +28,8 @@ summary: >-
   PCA develops a separated eigenvalue, that would provide a clean
   demonstration of learning-associated semantic structure remaining below
   an unsupervised spectral threshold." The design is A's (the other
-  assistant in the exchange "Rich Get Richer Power Laws"); adopting it is
-  the owner's call.
+  assistant in the exchange "Rich Get Richer Power Laws", A29, A30, A32,
+  A33 and A35); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp5y856 CLAIM-tmp6mjfc CLAIM-tmpk33au CLAIM-tmpym2vz CLAIM-tmpqqngq CLAIM-tmp41gfr CLAIM-tmp526xr THEORY-1136 CLAIM-193 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 
@@ -73,6 +73,20 @@ CLAIM-tmpk33au), cone order (CLAIM-tmp6mjfc) and collective dynamics (CLAIM-tmp5
     the geometric null, not criticality (A35 §7).
   - A detached top eigenvalue that grows before global alignment appears:
     the spectral precursor of an alignment bifurcation (CLAIM-tmpk33au).
+- **Rate of cone refinement** (A33 §10, with A33 §8's "Scale-free
+  refinement" row). Define a concept's specificity by the reference mass of
+  its admissible region, I_i(t) = −log P₀(C_i(t)), with P₀ a fixed
+  geometric reference measure, which "avoids comparing raw Euclidean cone
+  volumes across dimensions or using an ill-defined uniform measure on an
+  unbounded hyperbolic space". Then ask whether I_i(t) ∼ t^γ over a
+  training regime, "or whether the times at which new semantic distinctions
+  become stable follow a hierarchical or heavy-tailed distribution", and
+  whether different levels of the hierarchy refine on different time
+  scales. A33: "Neither scaling relation follows automatically from the
+  cone model. But both are concrete hypotheses." Measure both at the
+  widths and probe sizes above: a law that holds "over multiple system
+  sizes" (A33 §8) is what would distinguish scale-free refinement from a
+  geometric null.
 - **Locality without circularity.** A29 §9 bins velocity correlations by
   distance on the learned manifold, while A30 §3 argues that meaningful
   locality may be what learning creates. Measuring locality on a geometry the

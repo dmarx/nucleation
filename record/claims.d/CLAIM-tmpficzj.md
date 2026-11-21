@@ -53,6 +53,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmpsqbr9 LIT-tmpm1tji LIT-tmp0fpti — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: TERM-tmp5z2du — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
+<!-- inactive-ok-file: ARG-tmpmvc5e — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-tmpficzj: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
 
@@ -122,7 +123,8 @@ which directions are stiff depends on which observables are fitted.
   is the learning coefficient, which falls below half the parameter count
   where the optimal set is degenerate ([THEORY-087](../theory.d/THEORY-087.md), [THEORY-1253](../theory.d/THEORY-1253.md)). How a
   hyperribbon and a singular stratification relate is the owner's
-  question at U24 and is filed with that turn.
+  question at U24 and is filed with that turn. The analogy and why it
+  fails are ARG-tmpmvc5e.
 
 ## Errors in the turn
 

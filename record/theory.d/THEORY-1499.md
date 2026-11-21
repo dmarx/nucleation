@@ -52,6 +52,7 @@ bears_on:
 - QUESTION-421
 ---
 <!-- inactive-ok-file: CLAIM-tmpepx9m — new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
+<!-- inactive-ok-file: ARG-tmp2w77g — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # THEORY-1499: Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals
 
@@ -114,4 +115,5 @@ locational fundamentals. So for Japanese city sizes the evidence fits a
 stable attractor better than path-dependent rich-get-richer growth. This
 says nothing about whether cumulative advantage shapes the upper tail of
 the city-size distribution while relative sizes stay anchored. The
-exchange does not take that up. The reading is unchanged.
+exchange does not take that up. The argument is ARG-tmp2w77g. The reading
+is unchanged.

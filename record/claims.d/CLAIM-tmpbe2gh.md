@@ -86,8 +86,7 @@ that A shows no physical system like it. One is at hand:
   entropies, blind to the reflection x → −x, cannot see it.
 
 The other separations: dependence without transfer is the equilibrium
-critical field (correlated across distances, zero currents under
-detailed balance; [CLAIM-tmpyy261](CLAIM-tmpyy261.md)); transfer without exact
+critical field, CLAIM-tmpyy261's row for criticality without a cascade; transfer without exact
 self-similarity is intermittent turbulence, multifractal with
 ζ(q) ≠ q/3 (A23 §4–5); a power law with neither is a sample of
 independent Pareto draws ([CLAIM-tmpwl8y8](CLAIM-tmpwl8y8.md)).

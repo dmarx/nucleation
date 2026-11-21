@@ -49,8 +49,10 @@ universally true for all heavy-tailed phenomena". An event above the
 extrapolated law, a dragon king, is exactly an extreme with different
 rules, and the data collapse is the check that tells the two apart.
 [CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md) makes the general point that a distribution does not
-identify its mechanism; [LEAD-tmpp8z85](LEAD-tmpp8z85.md) is the cutoff row of this table
-taken alone, as an early-warning sign.
+identify its mechanism; [LEAD-tmpp8z85](LEAD-tmpp8z85.md) is the cutoff row of this lead's
+protocol taken alone, as an early-warning sign; this lead subsumes its
+cutoff test, and it stays a lead of its own for its comparison with the
+variance warning.
 
 **Observations, and what each mechanism predicts.**
 
