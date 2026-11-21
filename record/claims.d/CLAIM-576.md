@@ -171,7 +171,7 @@ A, at A32 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 
 ## Note of 2026-11-15: inference budgets, and RL post-training as the hard case
 
-<!-- inactive-ok-file: THEORY-1894 CLAIM-697 THEORY-1880 THEORY-1899 THEORY-1896 THEORY-1908 CLAIM-695 — Proposed; the readings and claims filed 2026-11-15 from the continuation of "Explain String Theory", cited as cases and as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-697 THEORY-1880 THEORY-1899 THEORY-1896 THEORY-1908 CLAIM-695 — Proposed; the readings and claims filed 2026-11-15 from the continuation of "Explain String Theory", cited as cases and as open, nothing here rests on them -->
 
 Readings filed on 2026-11-15 give the claim machine-learning cases on each side of its distinction between a budget making an existing process affordable and a change making a new process possible.
 
@@ -180,3 +180,7 @@ Readings filed on 2026-11-15 give the claim machine-learning cases on each side 
 - **The test.** ProRL ([THEORY-1908](../theory.d/THEORY-1908.md), [CLAIM-695](CLAIM-695.md)) reports new strategies under prolonged RL, with pass@k rising from zero on some tasks. It does not settle the matter, since "zero" is read at k ≤ 128 from a distilled start.
 
 The claim's question, whether a change makes a process possible or only cheaper, is here answered per training run, by matched-budget coverage. None of these readings is listed as corroborating the architecture clause: whether a change of weights is a change of architecture in this claim's sense is the claim's own question, and they do not answer it. No status change.
+
+## Note of 2026-11-20: what holds it back
+
+The wait of 2026-11-06 is not over. Its named entries have moved without supplying what it waits on: [CASE-194](../cases.d/CASE-194.md) was revised on 2026-11-11 (what it illustrates of [CLAIM-346](CLAIM-346.md), and a bearing on [QUESTION-097](../questions.d/QUESTION-097.md)) and is still Proposed, so the observational way is still held only through a Proposed case; [CLAIM-583](CLAIM-583.md)'s revision of 2026-11-11 corrected stale text; and [TERM-114](../terms.d/TERM-114.md) gained draws_on [THEORY-1435](../theory.d/THEORY-1435.md) (2026-11-12) and a note on a proposed authority component (2026-11-17), neither of which is a comparison. No comparison is yet on file that the repertoire makes and a costed configuration space with its moves ([TERM-114](../terms.d/TERM-114.md)) does not, which the first and novelty clauses of the defeat condition ask, and the readings of 2026-11-15 leave the architecture clause unanswered, as the note of that date says.

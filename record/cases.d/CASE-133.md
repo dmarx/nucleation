@@ -35,7 +35,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1380 LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-329 CLAIM-417 CLAIM-423 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 CLAIM-423 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-133: American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders
 

@@ -84,7 +84,6 @@ summary: >-
   A's; the status review adopted it on 2026-11-06.
 ---
 <!-- inactive-ok-file: ARG-075 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-615 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-134 CLAIM-170 CLAIM-544 — Proposed; the record's open theses on structural identity and willed agents, its open term for the senses of individuation, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 

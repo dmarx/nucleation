@@ -1,10 +1,28 @@
 ---
 number: 629
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqvtgm
-title: 'Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on an orbit only where the symmetry''s derivative is orthogonal, so it holds across permutations and orthogonal maps and changes along rescalings'
-version: 1
+title: 'Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on every orbit of such a symmetry whose derivative is orthogonal, so across permutations and orthogonal maps, and not in general otherwise: it can change along rescalings'
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings). Its premises CLAIM-366 and CLAIM-365 are Active, nothing
+    objects to it, and the derivation was re-derived step by step and
+    re-run with firing controls (scratch/formal/claim629_orbit_controls.py).
+    The title's second clause is corrected as a mis-statement (README §2,
+    kind 3): the residual is guaranteed constant where the derivative is
+    orthogonal, and need not change where it is not; in the check it was
+    unchanged on 108 of 300 rescalings. The old clause read "a frustration
+    residual budgeted in a fixed Euclidean norm is constant on an orbit only
+    where the symmetry's derivative is orthogonal, so it holds across
+    permutations and orthogonal maps and changes along rescalings". It
+    answered QUESTION-127, of which it answers only a part, so under
+    ADR-049 that part is split off as QUESTION-tmpr6jhg, which this claim
+    now answers, and QUESTION-127 narrows to the rest.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -29,7 +47,7 @@ rests_on:
 - CLAIM-366
 - CLAIM-365
 answers:
-- QUESTION-127
+- QUESTION-tmpr6jhg
 summary: >-
   A by-product of the second synthesis review of 2026-11-07, where the
   reader of the learned-structure cluster found the cluster did not
@@ -46,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-263 CLAIM-555 — Proposed; the symmetry group and the neighbouring claims, cited with their standing -->
 
-# CLAIM-629: Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on an orbit only where the symmetry's derivative is orthogonal, so it holds across permutations and orthogonal maps and changes along rescalings
+# CLAIM-629: Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on every orbit of such a symmetry whose derivative is orthogonal, so across permutations and orthogonal maps, and not in general otherwise: it can change along rescalings
 
 ## The claim
 
@@ -65,8 +83,8 @@ isomorphism of Θ, so each is such a σ.
 2. **A budgeted residual in a fixed norm is not.** [CLAIM-365](CLAIM-365.md)'s residual
    Φ_r = max over the simplex of Σλᵢεᵢ − r‖Σλᵢgᵢ‖ depends on the gradients'
    norms. Since ‖Dσᵀ g‖ = ‖g‖ for every g only when Dσ is orthogonal, Φ_r in
-   the Euclidean norm is constant along permutation and orthogonal orbits and
-   changes along rescalings. With f = v·relu(ux), one demand at x = 1, y = 1,
+   the Euclidean norm is constant along permutation and orthogonal orbits,
+   and along rescalings it can change, though at some points it does not. With f = v·relu(ux), one demand at x = 1, y = 1,
    and a = ½, the squared gradient norm is 612 at (u, v) = (4, 1) and 288 at
    its image (2, 2).
 3. **So quotienting before diagnosing matters only for the budgeted test.**
@@ -82,6 +100,27 @@ three demands and 300 random parameter points. The chain rule holds at
 every point. Common descent, decided by linear programming, agrees across
 every rescaling and every swap of the hidden units. The Euclidean Φ_r
 differs on 192 of the 300 rescalings and on none of the swaps.
+
+At the status review of 2026-11-20, scratch/formal/claim629_orbit_controls.py
+re-ran the common-descent comparison on 400 points with controls. Both
+verdicts occur (292 points with 0 in the hull, 108 with common descent), so
+agreement is not forced. A linear map that is not a symmetry, rescaling u₁
+alone, changes the verdict on 16 points, and a shuffled assignment of
+gradients to demands on 101, so the comparison can tell gradient sets apart.
+Every rescaling and swap still agrees.
+
+**Re-derived at the review.** From L_i(σθ) = L_i(θ) the chain rule gives
+g_i(θ) = Dσ(θ)ᵀ g_i(σθ). If Σλᵢ g_i(σθ) = 0 with λ in the simplex, the same
+λ gives Σλᵢ g_i(θ) = Dσᵀ 0 = 0, and the converse uses (Dσᵀ)⁻¹; so
+0 ∈ conv{g_i} at θ exactly when at σθ, and by Gordan's alternative
+([CLAIM-366](CLAIM-366.md)'s criterion) so is common descent. The ε_i are the declared
+improvements and do not move, so in the dual Φ_r = max_λ Σλᵢεᵢ − r‖Σλᵢgᵢ‖
+only the norm can change. For orthogonal Dσ, ‖Dσᵀ v‖ = ‖v‖ for every v and
+Φ_r is equal at the two points. For Dσ = diag(½, 2) and f = v·relu(ux),
+x = y = 1: at (4, 1) the gradient is 2(4 − 1)(1, 4) = (6, 24), norm² 612; at
+(2, 2) it is 6(2, 2), norm² 288. Unequal gradient norms can still leave
+Φ_r unchanged, as on 108 of the 300 rescalings in the check, which is why
+the title says "not in general" rather than "only where".
 
 ## Relation to the record
 

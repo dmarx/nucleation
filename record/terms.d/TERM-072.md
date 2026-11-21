@@ -86,7 +86,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-627 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-104 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: ADR-050 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-137 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # TERM-072: perspective, and which sense: organizational, represented or phenomenal

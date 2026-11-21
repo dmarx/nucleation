@@ -71,11 +71,11 @@ summary: >-
   account is built over it. It adds nothing of its own; its standing is
   its components'.
 ---
-<!-- inactive-ok-file: CLAIM-618 CLAIM-632 ARG-061 — Proposed; components, with their standing -->
+<!-- inactive-ok-file: CLAIM-618 ARG-061 — Proposed; components, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-024 SYNTHESIS-027 SYNTHESIS-040 SYNTHESIS-041 SYNTHESIS-042 SYNTHESIS-043 SYNTHESIS-045 SYNTHESIS-051 SYNTHESIS-056 SYNTHESIS-068 CLAIM-631 CLAIM-634 CASE-203 ADR-075 ADR-084 — Proposed; the accounts that already integrate the members, and entries cited for what they hold, nothing here resting on their being settled -->
 <!-- inactive-ok-file: SYNTHESIS-009 — Superseded; cited as the entry CLAIM-632 returned from -->
 <!-- inactive-ok-file: ARG-053 — Rejected; cited as the argument CLAIM-561 undercuts -->
-<!-- inactive-ok-file: CLAIM-639 SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-079 SYNTHESIS-080 SYNTHESIS-088 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-079 SYNTHESIS-080 SYNTHESIS-088 — Proposed; cited with its standing -->
 
 # SYNTHESIS-076: Reaching under a budget is not holding, and telling apart is not turning into one another: feasible, reachable and reliably reached come apart, a transition's threshold is the least peak over admissible paths, stable under error and a frontier rather than a total when there are several resources, a budget grows a compatibility complex and a reachability filtration that do not fix each other, observing budgets split what can be told apart while acting budgets under peak costs merge what can be reached, the category chosen decides what counts as the same, navigating and diagnosing have complexities of their own, and the same split recurs for control inputs and for synchronization demands indexed by control parameters
 

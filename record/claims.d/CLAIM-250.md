@@ -114,3 +114,7 @@ can be defined over justificatory relations while content changes; it does
 not argue that these, rather than some core of propositions, are what should
 be preserved, and no case tests its defeat condition. It is not adopted at
 this review.
+
+## Note of 2026-11-20: what holds it back
+
+Rechecked after [CLAIM-295](CLAIM-295.md)'s revision of 2026-11-19, which joins the work cost-structure-of-possibility and changes nothing else. [CLAIM-295](CLAIM-295.md) stays Proposed: its computational clause still has no decision that a bounded agent can make with a kept history and not with a state built for the same tasks, so the justification named in the note of 2026-10-15 is not held. No case tests this claim's defeat condition.

@@ -53,7 +53,7 @@ summary: >-
   one. It adds nothing of its own; its standing is its components'.
 ---
 <!-- inactive-ok-file: CASE-164 CLAIM-477 CLAIM-478 THEORY-072 THEORY-085 — Proposed; a component and the entries components cite, with their standing -->
-<!-- inactive-ok-file: CASE-203 CASE-227 CLAIM-044 CLAIM-632 — Proposed; entries of other parts whose stated links to these components are listed -->
+<!-- inactive-ok-file: CASE-203 CASE-227 CLAIM-044 — Proposed; entries of other parts whose stated links to these components are listed -->
 <!-- inactive-ok-file: SYNTHESIS-019 SYNTHESIS-029 SYNTHESIS-030 SYNTHESIS-036 SYNTHESIS-041 SYNTHESIS-047 SYNTHESIS-048 SYNTHESIS-054 — Proposed; other lines' accounts that already integrate components, named and not integrated -->
 <!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is drafted under -->
 <!-- inactive-ok-file: QUESTION-244 — Answered; cited with its standing -->

@@ -67,7 +67,6 @@ draws_on:
 - THEORY-1288
 ---
 <!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
-<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: TERM-098 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed, Open or new; the entries this term serves -->

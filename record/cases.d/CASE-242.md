@@ -164,7 +164,7 @@ control ([CASE-202](CASE-202.md)) is not part of the run either.
 
 ## Note of 2026-11-12: the chain as a readiness question
 
-<!-- inactive-ok-block: CLAIM-632 CASE-210 — Proposed; the readiness claim and case, cited with their standing -->
+<!-- inactive-ok-block: CASE-210 — Proposed; the readiness claim and case, cited with their standing -->
 The chain's response to a fire, sensor and relay and actuator, is a
 conjunction of capacities in the readiness line's sense ([CLAIM-587](../claims.d/CLAIM-587.md)), and
 per-component tests bound its readiness between the sum of their
