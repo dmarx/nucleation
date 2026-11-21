@@ -113,6 +113,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1343 — Proposed; the large-system argument of a reading cited as open -->
 <!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: CASE-207 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmp99m8g — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
 
 # CLAIM-478: Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another
 
@@ -498,3 +499,29 @@ scales. [CLAIM-781](CLAIM-781.md) argues that the gap that makes each level, by 
 of its slow variable, is the gap that spaces it in the tree. Support for the
 claim's form in a model; it does not test the claim's defeater (a), which
 asks about the systems the record's individuation claims treat.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+A13 §9 of that exchange gives this claim's spatial counterpart: "Different
+levels become approximately autonomous when the details of smaller scales
+become irrelevant to the behavior of larger ones. Critical systems are
+exceptional because that separation becomes less complete", so
+characteristic scales would explain "*when* relatively independent levels
+of description can emerge and *when* they cannot". The wording is A's (the
+other assistant in that exchange, A13).
+
+What it adds is a window in space beside this claim's window in time:
+with a finite correlation length ξ, blocks much larger than ξ are nearly
+independent and their sums average out, so a block description is closed
+to a good approximation; at a critical point ξ is unbounded and no block
+size gives that window. A does not show the bridge it asserts, that a
+finite ξ makes a system nearly decomposable in Simon's sense
+(THEORY-661): decay of correlations between blocks is weak
+statistical dependence, and Simon's near-decomposability is weak
+interaction, a statement about rates. The two meet through dynamic
+scaling, τ ∝ ξ^z, which ties the loss of the spatial window to the loss of
+this claim's temporal one near a continuous transition; slowing there is
+of the collective mode, the case CLAIM-626 separates from the others.
+The assistant's reading (Claude, in this session). The exchange's other
+point here, that criticality is not the maximum of complexity, is
+CLAIM-tmp99m8g. No status change.

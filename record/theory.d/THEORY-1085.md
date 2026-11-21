@@ -34,6 +34,7 @@ bears_on:
 - QUESTION-281
 ---
 <!-- inactive-ok-file: THEORY-1095 CLAIM-478 CLAIM-157 — Proposed or Open; neighbours cited as open -->
+<!-- inactive-ok-file: LIT-tmp71zbs CLAIM-tmpsr8r4 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws"; Deferred and Proposed -->
 
 # THEORY-1085: In Toner and Tu's hydrodynamic theory, a flock's ordered state is a broken continuous symmetry of a coarse-grained velocity field: speed fluctuations relax in a finite time of order 1/α and are dropped, leaving as slow degrees of freedom the transverse velocity and the conserved density, which propagate as sound at ω = ±cq⊥; no individual member appears in the description, which is offered for a universality class of microscopic rules
 
@@ -86,3 +87,27 @@ variable at long wavelengths. The theory does neither.
   velocity is slow because the symmetry is broken is the standard reading
   of a theory of this form, and is how [CLAIM-478](../claims.d/CLAIM-478.md) would use it; the
   paper states only the modes and their dispersion.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+The exchange uses this theory as a route to scale-free behaviour in an
+ordered phase rather than at a transition (A26 §4, A27 §7), filed as one
+of the routes of CLAIM-tmpsr8r4. It adds two things this reading does not
+hold, both unread here:
+
+- **Giant number fluctuations.** In ordered active matter the count in a
+  region fluctuates as ΔN ∝ ⟨N⟩^φ with φ > ½, against ½ for independent
+  particles, a prediction A attributes to the Toner–Tu theory; A adds that
+  "some initially predicted exponents differ from those obtained in
+  large-scale simulations". The long 1998 paper is registered as
+  LIT-tmp71zbs, unread; the simulation study is unnamed.
+- **A universality class for the ordered phase.** A27 §7 cites a 2024
+  Physical Review Letters paper using the functional renormalization
+  group to propose one, "with scaling exponents consistent with numerical
+  simulations". The paper is not named and is not registered.
+
+A's framing, "In certain active systems, scaling is a property of the
+phase itself" (A26 §4), agrees with this reading's broken-symmetry slow
+modes and goes beyond it only in calling the result scale-free; the
+exponents remain THEORY-1095's question.
+
