@@ -14,7 +14,7 @@ summary: >-
   reframe showed up as a version's history note, a curation entry's
   narrative, or a term's senses, and not in the body a reader reads. An
   entry reframed now carries a Reframings section in its prose. First
-  application: the two reframes of 2026-11-20 on CLAIM-772 and CLAIM-778.
+  application: the two reframes of 2026-11-20 on [CLAIM-772](../claims.d/CLAIM-772.md) and [CLAIM-778](../claims.d/CLAIM-778.md).
 ---
 <!-- inactive-ok-file: CLAIM-772 CLAIM-778 — Proposed; the first application -->
 
@@ -25,7 +25,7 @@ summary: >-
 Much of the record's recent development has come by reframing: the owner
 restating an account in other terms, and the record's entries following.
 On 2026-11-20 the owner asked whether stabilization and contraction were
-one phenomenon, and CLAIM-772 was rewritten as one contraction; CLAIM-778
+one phenomenon, and [CLAIM-772](../claims.d/CLAIM-772.md) was rewritten as one contraction; [CLAIM-778](../claims.d/CLAIM-778.md)
 moved from "constraints accumulate" to "copied with error". On 2026-11-21
 the owner reframed the narrowing as the accrual of predicates, each a
 constraint, and fixed "stabilization" in its control-theoretic sense.
@@ -38,7 +38,7 @@ not look:
   a reframe changes no wording.
 - **A curation entry** tells the story of a filing, the reframe among other
   things, and is not linked from the entry as its framing.
-- **A term's senses** (ADR-050; TERM-071, TERM-088) hold several
+- **A term's senses** ([ADR-050](ADR-050.md); [TERM-071](../terms.d/TERM-071.md), [TERM-088](../terms.d/TERM-088.md)) hold several
   framings of one word side by side. That is the nearest the record had to
   a convention, and it works for terms because a term's senses are its
   content.
@@ -74,7 +74,7 @@ and to, in prose the entry keeps.
 **Terms.** A term's senses stay how a term holds framings side by side. A
 reframe of a term that keeps its definition goes in a Reframings section as
 for any entry. One that changes the definition is a new term that supersedes
-the old (ADR-032), and the new term's Reframings section names the
+the old ([ADR-032](ADR-032.md)), and the new term's Reframings section names the
 framing it replaced.
 
 **Not a reframe.** Correcting an error is not a reframe, nor is a revision
@@ -106,15 +106,15 @@ curation entry quotes it.
   ordered. The `read-and-file` skill's steps do not change; this is a
   convention of the body, not of intake.
 - No lint checks it. If reframes go unrecorded in practice, a lint rule or
-  a field is the next rung of DP-3's ladder.
+  a field is the next rung of [DP-3](../../docs/design-principles.md#dp-3)'s ladder.
 
 ## First application
 
 The two reframes of 2026-11-20 are recorded in Reframings sections on
-CLAIM-772 (two mechanisms reframed as one contraction, at the owner's
-question whether stabilization was monotone contraction) and CLAIM-778
+[CLAIM-772](../claims.d/CLAIM-772.md) (two mechanisms reframed as one contraction, at the owner's
+question whether stabilization was monotone contraction) and [CLAIM-778](../claims.d/CLAIM-778.md)
 (the narrowing reframed from accumulating constraints to features copied
 with error). The reframe of 2026-11-21, predicates as constraints and
 stabilization in the control-theoretic sense, is filed in pull request 568;
-its Reframings paragraph on CLAIM-778 is added once both pull requests are
+its Reframings paragraph on [CLAIM-778](../claims.d/CLAIM-778.md) is added once both pull requests are
 in staging, so neither cites the other's temporary codes.

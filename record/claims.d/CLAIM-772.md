@@ -207,11 +207,11 @@ habits.
 ## Reframings
 <!-- inactive-ok-file: ADR-tmpd4rgx — Proposed; the decision this section follows, 2026-11-21 -->
 
-**2026-11-20, the owner at U5 of the session (ADR-tmpd4rgx).** "Are you sure
+**2026-11-20, the owner at U5 of the session ([ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md)).** "Are you sure
 these are different things? I'm wondering if maybe it's the same phenomenon,
 and maybe one description generalizes the other. Isn't stabilization just
 monotone contraction?" Before: constraint and contraction were two
-mechanisms acting on different terms of CLAIM-056's drift bound, constraint
+mechanisms acting on different terms of [CLAIM-056](CLAIM-056.md)'s drift bound, constraint
 bounding what a step injects and contraction forgetting the start. After:
 one contraction, with forgetting and anchoring told apart by what each step
 copies exactly. It changed the account and the title, in version 2; the
