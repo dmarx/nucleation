@@ -147,7 +147,8 @@ into staging ([ADR-116](record/decisions.d/ADR-116.md)). Only that workflow, or 
 main. Whenever staging differs from main, a pull request from staging into main is
 open for the owner's review; the Promotion PR workflow opens it on a push to
 staging ([ADR-125](record/decisions.d/ADR-125.md)). When you merge into staging, add the choices waiting
-on the owner to its description.
+on the owner to its description, in its marked sections, reading it just
+before you write ([ADR-tmpdywz3](record/decisions.d/ADR-tmpdywz3.md)).
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
 own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by [ADR-116](record/decisions.d/ADR-116.md)): the filing of one source,
