@@ -1,0 +1,119 @@
+---
+status: Proposed
+title: 'Whether a direction in a learned model is small depends on the metric it is measured in, and the metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component, and the predictive Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight matrix''s smallest singular direction above its largest'
+version: 1
+role: thesis
+warrant: demonstrated
+defeated_if: >-
+  An error in either construction: the classifier on z = (X, ε(Y + η))
+  not reaching accuracy Φ(1/σ) for every ε > 0 when it reads the second
+  coordinate exactly, or the stated unembedding not giving the stated
+  orders under WᵀW and the pulled-back Fisher. Findings that in trained
+  networks the metrics mostly agree do not defeat it; the claim is that
+  they can disagree, and says how much more it would take to show they
+  do in practice.
+tags:
+- information-geometry
+- representation-learning
+- learning-theory
+date: '2026-11-21'
+line:
+- learned-structure
+complements:
+- CLAIM-450
+grounds:
+- THEORY-420
+- THEORY-084
+- LIT-tmp0gbj6
+- LIT-tmp83hha
+- LIT-tmp4det7
+bears_on:
+- QUESTION-tmp82zpm
+uses:
+- TERM-tmpnxjq4
+summary: >-
+  A41 §§2–4 and §8 of the exchange "Rich Get Richer Power Laws"
+  (2026-11-21), answering the owner's U25 on recent work about informative
+  small-eigenvalue subspaces: "A direction can be thin under one metric and
+  consequential under another", and "a hyperribbon tells us which parameter
+  combinations are distinguishable under a particular observation metric".
+  The assistant checked both constructions, built the unembedding example
+  A asserted without one, and corrected the scope of the variance toy.
+  The wording is A's (the other assistant in the exchange "Rich Get Richer
+  Power Laws", A41); adopting it is the owner's call.
+---
+
+<!-- inactive-ok-file: TERM-tmpnxjq4 ARG-tmpjx3ww LIT-tmp0gbj6 LIT-tmp83hha LIT-tmp4det7 — Proposed or new, or Deferred works registered from the exchange and not yet read -->
+
+# CLAIM-tmppkdjz: Whether a direction in a learned model is small depends on the metric it is measured in, and the metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component, and the predictive Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight matrix's smallest singular direction above its largest
+
+## The claim
+
+A41 lists four spectra, each with its own meaning for "small": a
+representation's covariance, a weight matrix's WᵀW, the loss Hessian and
+the Fisher matrix (TERM-tmpnxjq4 sorts the senses). "A direction can be
+small in one of these geometries and extremely important in another."
+Two constructions show the orders can be reversed, not just
+uncorrelated.
+
+**Variance against label (A41 §3).** z = (X, ε(Y + η)), with X ∼ N(0, 1),
+Y = ±1 and η ∼ N(0, σ²). The label's coordinate has variance
+ε²(1 + σ²), the smallest of the two for small ε, and it carries all the
+label: reading its sign gives accuracy Φ(1/σ) for every ε > 0
+(Φ(5) = 0.9999997 at σ = 0.2). What matters is Mahalanobis separation,
+not variance.
+
+**Logit distance against prediction (A41 §2).** With logits ℓ = Wh + b and
+p = softmax(ℓ), KL(p_h ‖ p_{h+δh}) ≈ ½ δhᵀ G_pred δh, where
+G_pred = Wᵀ(diag p − ppᵀ)W is the categorical Fisher pulled back to h, and
+G_logit = WᵀW measures raw logit change. A credits the distinction to Xu
+(LIT-tmp4det7, unread).
+
+## The assistant's additions
+
+**An example of the reversal**, which A asserts without one (the ledger's
+gap at L19). Six tokens and two hidden dimensions. Tokens 1 and 2 are
+near-tied candidates (biases 10.001 and 10) that differ only along e₂,
+with weights ±0.05. Tokens 3–6 are implausible (bias 0) with weights ±3
+and ±2 along e₁. The singular values of W are 5.10 (e₁) and 0.071 (e₂).
+
+| direction | vᵀG_logit v | vᵀG_pred v | step of 0.05: logit change | KL | top token |
+|---|---|---|---|---|---|
+| e₁ (largest) | 26.0 | 0.00059 | 0.255 | 7.4 × 10⁻⁷ | unchanged |
+| e₂ (smallest) | 0.0050 | 0.0025 | 0.0035 | 3.1 × 10⁻⁶ | flips 1 → 2 |
+
+The logit metric ranks e₁ above e₂ by 5,200 to 1. The predictive metric
+ranks e₂ above e₁ by 4 to 1. The reversal is not generic: for random
+500 × 20 Gaussian unembeddings at a random hidden state, the Spearman
+correlation between singular value and vᵀG_pred v averaged 0.85 over 200
+draws (range 0.33 to 0.99). That trained unembeddings show the reversal
+systematically is Xu's empirical claim, not checked here. Checked with
+`python3 -I` (`t5/check5.py`, `check6.py`).
+
+**A limit on the variance toy.** A's caption says it "assumes
+arbitrarily precise measurements". With fixed additive readout noise τ
+on the small coordinate, accuracy is Φ(ε/√(ε²σ² + τ²)), which falls to ½ as
+ε → 0. At σ = 0.2 and τ = 0.01 it is 1.000, 1.000, 0.837 and 0.540 at
+ε = 1, 0.1, 0.01, 0.001. A Monte Carlo of 10⁶ draws gives 0.8368 at
+ε = 0.01 against 0.8366. So a low-variance direction carries its label
+only down to the scale of the noise downstream of it. Finite precision,
+weight decay on the readout and additive noise all set that scale.
+
+## What the small-eigenvalue findings add, and do not
+
+A41 cites four findings: small singular values of transformer weights
+matter (Staats et al.; the record holds this reading, THEORY-420, which
+includes the fine-tuning order); concept directions sit in the
+low-variance tail of the unembedding covariance (Acharya et al.,
+LIT-tmp0gbj6); SGD progresses in the Hessian's bulk, not its top
+subspace (Song et al., LIT-tmp83hha); and the unembedding's smallest
+directions move next-token distributions most (Xu, LIT-tmp4det7). The
+last three are unread. They bear on this claim as instances of metrics
+disagreeing. A41 §8 also presents them as a correction to the hyperribbon
+account. ARG-tmpjx3ww weighs that, and finds they do not bear on it: a
+hyperribbon is already defined in the metric of the predictions.
+
+This claim complements CLAIM-450. That claim has distinguishability,
+usability and efficacy coming apart for a communicative distinction. This
+one has several geometries of the same learned model coming apart in the
+order they give.
