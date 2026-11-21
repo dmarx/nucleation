@@ -37,7 +37,7 @@ summary: >-
   behaviour they explain. The authors call identity a nonpecuniary
   motive and never call it self-interest. Filed from [NOTE-1311](../notes.d/NOTE-1311.md).
 ---
-<!-- inactive-ok-file: CLAIM-491 ADR-091 — Proposed; the claim that names this work, and the tie rule under which its edge to QUESTION-300 was removed -->
+<!-- inactive-ok-file: CLAIM-491 — Proposed; the claim that names this work, and the tie rule under which its edge to QUESTION-300 was removed -->
 
 # THEORY-1588: Akerlof and Kranton propose putting identity, a self-image tied to social categories and their prescriptions, into the utility function, so that one's own and others' departures from the prescriptions cost utility, and use it to account for gender-typed occupations, oppositional identities and the asymmetry in housework
 

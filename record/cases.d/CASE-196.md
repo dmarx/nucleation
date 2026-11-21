@@ -39,7 +39,6 @@ summary: >-
 draws_on:
 - THEORY-598
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-196: Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium
 

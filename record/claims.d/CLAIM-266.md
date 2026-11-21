@@ -63,7 +63,6 @@ summary: 'The general content of [CLAIM-149](CLAIM-149.md), filed alone under [A
 bears_on:
 - QUESTION-258
 ---
-<!-- inactive-ok-file: ADR-085 — Proposed; the line rule the history note of 2026-11-11 applies -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 <!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1730 THEORY-1733 THEORY-1738 THEORY-1743 THEORY-1754 THEORY-1757 THEORY-1759 THEORY-1760 THEORY-1769 THEORY-1770 THEORY-1772 THEORY-1776 THEORY-1782 THEORY-1784 THEORY-1785 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1803 THEORY-1804 THEORY-1811 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

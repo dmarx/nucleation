@@ -43,7 +43,6 @@ draws_on:
 - THEORY-1421
 - THEORY-1416
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2076 — Unfetched; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-2085 — Unavailable; Halfin and Whitt, cited through the neighbour that stands in for it -->
 <!-- inactive-ok-file: TERM-113 — Proposed; terms of the same filing, cited as filed -->

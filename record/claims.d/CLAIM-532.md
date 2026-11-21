@@ -121,7 +121,6 @@ summary: >-
   sufficient condition, with its products defined by behaviour rather
   than mechanism.
 ---
-<!-- inactive-ok-file: ADR-075 — Proposed; the decision the Admission section follows -->
 <!-- inactive-ok-file: CLAIM-tmpydua7 — Proposed; the dated note of 2026-11-21 -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->

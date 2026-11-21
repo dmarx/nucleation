@@ -188,7 +188,6 @@ with H. Nothing in the paper shows that the slack must reach K(Pr(·|H)).
 [NOTE-801](../notes.d/NOTE-801.md)'s "α can be as large as K(H)" describes the bound, not the gap.
 For recursive priors other than m, the K(P) term of step 3's prior half
 remains, and the narrowed title does not cover them.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
 
 ## Note of 2026-11-19: Carnap, read
 Background ([NOTE-2110](../notes.d/NOTE-2110.md)): Carnap 1950 states the problem a universal prior answers. What holds for every admissible measure leaves every value open (§59), and "There is not a lack of suitable functions but an overabundance, in- deed an infinity of them" (§47), so one must be chosen. He chooses by adequacy and consequences (§110A), not by a universal measure.

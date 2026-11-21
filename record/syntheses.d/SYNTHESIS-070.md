@@ -45,7 +45,7 @@ integrates:
 - CASE-040
 - ARG-011
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-004 CLAIM-005 CLAIM-059 CLAIM-078 CLAIM-082 CLAIM-095 CLAIM-105 CLAIM-117 CLAIM-127 CLAIM-129 CLAIM-142 CLAIM-160 CLAIM-171 CLAIM-189 CLAIM-191 CLAIM-202 CLAIM-204 CLAIM-220 CLAIM-228 CLAIM-240 CLAIM-242 CLAIM-244 CLAIM-250 CLAIM-486 CLAIM-504 — Proposed; components and citations, open, with their standing given in the text -->
+<!-- inactive-ok-file: CLAIM-004 CLAIM-005 CLAIM-059 CLAIM-078 CLAIM-082 CLAIM-095 CLAIM-105 CLAIM-117 CLAIM-127 CLAIM-129 CLAIM-142 CLAIM-160 CLAIM-171 CLAIM-189 CLAIM-191 CLAIM-202 CLAIM-204 CLAIM-220 CLAIM-228 CLAIM-240 CLAIM-242 CLAIM-244 CLAIM-250 CLAIM-486 CLAIM-504 — Proposed; components and citations, open, with their standing given in the text -->
 <!-- inactive-ok-file: ARG-011 ARG-026 ARG-031 — Rejected; arguments whose verdicts the account reports -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-083 CLAIM-100 CLAIM-115 CLAIM-139 CLAIM-203 CLAIM-229 — Superseded; cited as the history of the theses and claims they were replaced by -->
 

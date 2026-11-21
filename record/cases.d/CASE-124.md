@@ -59,7 +59,7 @@ draws_on:
 - THEORY-846
 - THEORY-142
 ---
-<!-- inactive-ok-file: ADR-095 THEORY-142 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-142 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CASE-124: A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ

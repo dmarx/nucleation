@@ -63,7 +63,7 @@ summary: >-
   outside the line. The account adds nothing of its own; its standing is
   its components'.
 ---
-<!-- inactive-ok-file: ADR-100 SYNTHESIS-095 — Proposed; the split of organizational-normativity and the new line's account, cited at version 2 -->
+<!-- inactive-ok-file: SYNTHESIS-095 — Proposed; the split of organizational-normativity and the new line's account, cited at version 2 -->
 <!-- inactive-ok-file: CLAIM-657 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-094 — Proposed; the line's account, the sibling part accounts and a citation -->
 <!-- inactive-ok-file: CLAIM-677 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-624 CLAIM-667 CLAIM-545 TERM-122 ARG-103 THEORY-1859 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the definition TERM-122 rivals, set aside -->

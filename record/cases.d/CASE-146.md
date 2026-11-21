@@ -43,7 +43,7 @@ draws_on:
 - THEORY-044
 ---
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
-<!-- inactive-ok-file: ADR-095 THEORY-044 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-044 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 
 # CASE-146: Two friendships across a group line: in one, the friend becomes an exception and the person's view of the friend's group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns
 

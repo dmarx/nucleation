@@ -40,7 +40,6 @@ summary: >-
   wrong of the kind A names. The term is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CASE-257 CLAIM-428 CLAIM-669 CLAIM-670 CLAIM-624 TERM-083 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-682 CASE-261 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 

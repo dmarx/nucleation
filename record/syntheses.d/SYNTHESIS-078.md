@@ -23,7 +23,7 @@ integrates:
 - CLAIM-596
 - CLAIM-599
 ---
-<!-- inactive-ok-file: ADR-075 SYNTHESIS-013 SYNTHESIS-045 — Proposed; components, decisions and accounts cited with their standing -->
+<!-- inactive-ok-file: SYNTHESIS-013 SYNTHESIS-045 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-076 — Proposed; cited with its standing -->
 
 # SYNTHESIS-078: Neither persistence nor yields nor minimal sets identify a productive or generative nucleus: the committor ignores how long a state persists, two assemblies can agree in both arms of the nucleus intervention and differ in the downstream rate, and productive sets need not be closed upward because two productive nuclei can combine into a trap

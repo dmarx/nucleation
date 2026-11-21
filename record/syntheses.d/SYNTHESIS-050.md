@@ -141,10 +141,9 @@ integrates:
 - CLAIM-690
 - CASE-264
 ---
-<!-- inactive-ok-file: ADR-100 — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: ARG-110 — Proposed; cited at version 2 -->
 <!-- inactive-ok-file: CLAIM-690 CASE-264 CLAIM-671 TERM-124 SYNTHESIS-092 — Proposed; components and citations added at version 2, with their standing -->
-<!-- inactive-ok-file: ADR-075 ARG-036 ARG-044 CASE-163 CASE-166 CLAIM-271 CLAIM-274 CLAIM-276 CLAIM-281 CLAIM-285 CLAIM-286 CLAIM-327 CLAIM-336 CLAIM-337 CLAIM-338 CLAIM-367 CLAIM-417 CLAIM-428 CLAIM-430 CLAIM-445 CLAIM-446 CLAIM-451 CLAIM-500 CLAIM-511 CLAIM-553 CLAIM-624 SYNTHESIS-036 SYNTHESIS-037 SYNTHESIS-038 SYNTHESIS-039 SYNTHESIS-044 TERM-066 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-036 ARG-044 CASE-163 CASE-166 CLAIM-271 CLAIM-274 CLAIM-276 CLAIM-281 CLAIM-285 CLAIM-286 CLAIM-327 CLAIM-336 CLAIM-337 CLAIM-338 CLAIM-367 CLAIM-417 CLAIM-428 CLAIM-430 CLAIM-445 CLAIM-446 CLAIM-451 CLAIM-500 CLAIM-511 CLAIM-553 CLAIM-624 SYNTHESIS-036 SYNTHESIS-037 SYNTHESIS-038 SYNTHESIS-039 SYNTHESIS-044 TERM-066 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-278 TERM-053 CLAIM-427 — Superseded; CLAIM-278 and TERM-053 are components the part's links run through, and CLAIM-427 is named by components as they stand -->
 <!-- inactive-ok-file: ARG-042 — Rejected; a component, the verdict on support that CLAIM-520 undercuts -->
 <!-- inactive-ok-file: QUESTION-239 QUESTION-241 QUESTION-253 QUESTION-295 — Answered; components, cited for their answers -->

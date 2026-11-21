@@ -62,7 +62,7 @@ draws_on:
 - THEORY-1738
 - THEORY-1801
 ---
-<!-- inactive-ok-file: ADR-095 THEORY-142 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-142 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: THEORY-1738 THEORY-1743 THEORY-1772 THEORY-1784 THEORY-1801 THEORY-1805 THEORY-1808 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 

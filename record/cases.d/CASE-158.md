@@ -55,7 +55,6 @@ draws_on:
 - THEORY-958
 - THEORY-955
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-278 TERM-066 — Proposed; the objection this design is built to meet and the claim and term it bears on, nothing here rests on their being settled -->
 
 # CASE-158: Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot

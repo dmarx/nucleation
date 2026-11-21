@@ -42,7 +42,6 @@ summary: >-
 draws_on:
 - THEORY-1394
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the paper the book stands in for, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-107 — Proposed; a term of the same filing, cited as filed -->
 

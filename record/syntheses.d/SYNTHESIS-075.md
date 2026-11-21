@@ -49,7 +49,7 @@ integrates:
 - ARG-041
 - QUESTION-335
 ---
-<!-- inactive-ok-file: ARG-041 CASE-164 CLAIM-142 CLAIM-295 SYNTHESIS-017 SYNTHESIS-029 SYNTHESIS-048 SYNTHESIS-054 SYNTHESIS-064 ADR-075 ADR-083 ADR-084 — Proposed; a component, the claims and case cited as filed, the other lines' accounts that already integrate members, and the decisions this account is drafted under -->
+<!-- inactive-ok-file: ARG-041 CASE-164 CLAIM-142 CLAIM-295 SYNTHESIS-017 SYNTHESIS-029 SYNTHESIS-048 SYNTHESIS-054 SYNTHESIS-064 — Proposed; a component, the claims and case cited as filed, the other lines' accounts that already integrate members, and the decisions this account is drafted under -->
 <!-- inactive-ok-file: QUESTION-324 QUESTION-288 QUESTION-289 QUESTION-248 — Answered; a component and the questions members answer, cited as answered -->
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account the causal members replace, cited as rejected -->
 <!-- inactive-ok-file: SYNTHESIS-073 SYNTHESIS-088 — Proposed; cited with its standing -->

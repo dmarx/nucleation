@@ -95,7 +95,7 @@ summary: >-
   mechanism matters, with a specimen. The account adds nothing of its own;
   its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-100 SYNTHESIS-091 — Proposed; the split of organizational-normativity, and the sibling part account, cited at version 2 -->
+<!-- inactive-ok-file: SYNTHESIS-091 — Proposed; the split of organizational-normativity, and the sibling part account, cited at version 2 -->
 <!-- inactive-ok-file: CLAIM-511 SYNTHESIS-038 SYNTHESIS-056 THEORY-1561 — Proposed; the line's account, the account that integrates this part's members again, and citations -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CLAIM-663 CLAIM-445 CASE-228 CASE-229 CASE-246 CASE-247 CASE-249 ARG-055 ARG-058 ARG-059 ARG-062 ARG-063 ARG-064 ARG-092 TERM-118 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-070 — Deferred; a component, set aside -->

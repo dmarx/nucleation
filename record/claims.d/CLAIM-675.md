@@ -90,7 +90,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2006 THEORY-2015 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-754 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 <!-- inactive-ok-file: THEORY-1847 THEORY-1839 THEORY-1848 THEORY-1863 THEORY-1856 THEORY-343 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-105 THEORY-1841 THEORY-1844 THEORY-1845 THEORY-1850 THEORY-1852 THEORY-1857 THEORY-1860 THEORY-1866 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2225 until 2027-05-13 — Unfetched; Bainbridge's paper, cited with its standing as unread; asked again by that date whether a lawful copy is reached -->

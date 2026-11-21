@@ -163,4 +163,4 @@ happened; he does not show that neither can.
   representation, the question for a machine is whether it has the
   introspective mechanisms, which sharpens rather than settles [THEORY-023](THEORY-023.md)'s
   mimicry point. The application is the record's, not Frankish's.
-<!-- inactive-ok-file: CLAIM-355 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-355 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

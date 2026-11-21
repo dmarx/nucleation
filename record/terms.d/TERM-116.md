@@ -39,7 +39,6 @@ summary: >-
 draws_on:
 - THEORY-032
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 
 # TERM-116: relational profiles of a configuration, and which: incoming, the cost of producing it from each other configuration; outgoing, the cost of turning it into each; observational, what the tests affordable at a budget can tell it from, with the minimum distinguishing budget at a threshold; and maintenance, what preserves or regenerates its enabling constraints, which Yoneda does not supply
 

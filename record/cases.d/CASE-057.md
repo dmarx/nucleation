@@ -37,7 +37,6 @@ illustrates:
 bears_on:
 - QUESTION-036
 ---
-<!-- inactive-ok-file: ADR-092 — Proposed; the decision whose relation the history note of 2026-11-11 applies -->
 <!-- inactive-ok-file: CLAIM-137 — Proposed; the owner's character thesis, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-138 — Proposed; the Newman counter and the individuation thesis, cited as open -->
 

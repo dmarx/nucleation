@@ -79,7 +79,6 @@ summary: >-
   operation. Interpretive. Filed on 2026-11-13 from the items the first
   filing left. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1859 THEORY-1841 THEORY-1842 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 

@@ -47,7 +47,6 @@ corroborates:
 bears_on:
 - QUESTION-234
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1025: The inputs causal scrubbing samples for a treeified hypothesis are the unique maximum-entropy distribution, on finite inputs, among those that give the inputs of every interpretation node the joint distribution they have on the data, so whatever the hypothesis does not claim is resampled as independently as the claims allow
 

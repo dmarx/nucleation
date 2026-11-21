@@ -54,7 +54,6 @@ draws_on:
 - THEORY-1267
 - THEORY-1290
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-190: A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance
 

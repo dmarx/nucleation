@@ -94,7 +94,7 @@ summary: >-
   about an authority. The account adds nothing of its own; its standing is its
   components'.
 ---
-<!-- inactive-ok-file: ADR-100 SYNTHESIS-094 — Proposed; the split of organizational-normativity, and the sibling part account, cited at version 2 -->
+<!-- inactive-ok-file: SYNTHESIS-094 — Proposed; the split of organizational-normativity, and the sibling part account, cited at version 2 -->
 <!-- inactive-ok-file: SYNTHESIS-038 THEORY-464 — Proposed; the line's account, and a citation -->
 <!-- inactive-ok-file: CLAIM-511 CLAIM-608 CLAIM-648 CLAIM-649 CLAIM-650 CASE-239 CASE-240 CASE-241 CASE-243 ARG-043 ARG-082 ARG-083 THEORY-220 THEORY-444 THEORY-1285 TERM-083 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-081 — Rejected; a component, with its standing -->

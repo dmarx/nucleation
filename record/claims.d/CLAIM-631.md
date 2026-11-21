@@ -60,7 +60,6 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that filed this entry -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed, the owner's; used only for the scalar corollary -->
 
 # CLAIM-631: Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all

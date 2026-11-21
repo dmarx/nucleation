@@ -79,7 +79,7 @@ integrates:
 - CASE-029
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-009 CLAIM-037 CLAIM-044 CLAIM-095 CLAIM-103 CLAIM-105 CLAIM-119 CLAIM-201 CLAIM-251 CLAIM-627 — Proposed; components and citations, with their standing -->
-<!-- inactive-ok-file: ADR-075 ARG-029 CASE-230 CLAIM-005 CLAIM-029 CLAIM-033 CLAIM-052 CLAIM-054 CLAIM-076 CLAIM-078 CLAIM-087 CLAIM-117 CLAIM-127 CLAIM-128 CLAIM-129 CLAIM-137 CLAIM-142 CLAIM-147 CLAIM-151 CLAIM-202 CLAIM-204 CLAIM-220 CLAIM-224 SYNTHESIS-030 SYNTHESIS-036 — Proposed; entries of other parts and decisions, cited for the links they state -->
+<!-- inactive-ok-file: ARG-029 CASE-230 CLAIM-005 CLAIM-029 CLAIM-033 CLAIM-052 CLAIM-054 CLAIM-076 CLAIM-078 CLAIM-087 CLAIM-117 CLAIM-127 CLAIM-128 CLAIM-129 CLAIM-137 CLAIM-142 CLAIM-147 CLAIM-151 CLAIM-202 CLAIM-204 CLAIM-220 CLAIM-224 SYNTHESIS-030 SYNTHESIS-036 — Proposed; entries of other parts and decisions, cited for the links they state -->
 <!-- inactive-ok-file: ARG-004 ARG-010 ARG-022 ARG-032 ARG-057 — Rejected; components, cited with their verdicts -->
 <!-- inactive-ok-file: CLAIM-069 TERM-002 — Superseded; cited as the history the components answer or replace -->
 <!-- inactive-ok-file: QUESTION-246 QUESTION-247 QUESTION-332 — Answered; cited with its standing -->

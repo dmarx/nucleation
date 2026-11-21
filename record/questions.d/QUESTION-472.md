@@ -61,7 +61,6 @@ summary: >-
 ---
 <!-- unresolved-ok-file: QUESTION-tmpbzq36 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: THEORY-1917 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-<!-- inactive-ok-file: ADR-093 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: TERM-124 — Proposed; the record's term for domination, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-713 CASE-264 — Proposed; the dependence claims and this exchange's normative-manipulation claims, cited with their standing -->
 

@@ -142,4 +142,3 @@ frame from attention or imagery with the individuated object as the
 measure, and the criterion promote_when asks for first, saying which
 learned tunings are frames, is not stated. The evidence it rereads shows
 changed weightings and estimates, not different objects.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

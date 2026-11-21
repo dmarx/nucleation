@@ -47,7 +47,6 @@ summary: >-
   This entry gathers them. Not run; the stipulated part is the design. The
   design is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-082 ADR-084 — Proposed; historical episodes the study would draw on, cited as open -->
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 — filed from the same exchange, Proposed; the claims its interaction and its secondary estimand would test -->
 <!-- inactive-ok-file: THEORY-1728 THEORY-1730 THEORY-1733 THEORY-1755 THEORY-1756 THEORY-1762 THEORY-1766 THEORY-1786 THEORY-1790 THEORY-1792 THEORY-1807 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 

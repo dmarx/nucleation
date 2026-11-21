@@ -69,7 +69,6 @@ draws_on:
 - THEORY-1090
 ---
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-251 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->

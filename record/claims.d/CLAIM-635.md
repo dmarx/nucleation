@@ -63,7 +63,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-772 CLAIM-779 ARG-124 — Proposed; filed in the contribution of 2026-11-20 on an entry's life cycle -->
-<!-- inactive-ok-file: CLAIM-068 ADR-075 — Proposed; cited for the convergence this claim excludes, open -->
+<!-- inactive-ok-file: CLAIM-068 — Proposed; cited for the convergence this claim excludes, open -->
 
 # CLAIM-635: Under Markov reconstruction kernels, an observable conserved exactly at every step and not constant on the support of the starting law keeps information about the start at every generation, bounded below independently of the generation, so such a chain cannot converge to a law independent of its start, while a bounded conservation defect does not prevent forgetting
 

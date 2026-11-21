@@ -36,7 +36,6 @@ summary: >-
   parameter, so it is filed as the question of what fixes it. The term is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: TERM-121 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 

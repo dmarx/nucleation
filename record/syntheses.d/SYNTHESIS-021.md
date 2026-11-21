@@ -46,7 +46,6 @@ summary: >-
 <!-- inactive-ok-file: CASE-014 — Deferred; a component of a part, set aside -->
 <!-- inactive-ok-file: CLAIM-003 — Proposed; a component of a part, reopened on 2026-11-11 -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; a component of SYNTHESIS-018, replaced by QUESTION-015 -->
-<!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
 # SYNTHESIS-021: The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts
 

@@ -75,7 +75,6 @@ summary: >-
   [CLAIM-545](../claims.d/CLAIM-545.md) at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)),
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
-<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that moved this entry -->
 <!-- inactive-ok-file: CLAIM-545 — Superseded by this entry, which it was -->
 <!-- inactive-ok-file: CLAIM-624 CASE-225 CLAIM-616 TERM-083 — Proposed or Superseded; cited in dated notes carried over from CLAIM-545 -->
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->

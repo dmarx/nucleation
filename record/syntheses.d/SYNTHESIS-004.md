@@ -84,7 +84,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-610 — filed from the same exchange, Superseded -->
-<!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-003 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
 <!-- inactive-ok-file: CLAIM-487 CLAIM-545 SYNTHESIS-007 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->

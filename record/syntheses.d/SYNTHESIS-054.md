@@ -106,7 +106,7 @@ integrates:
 ---
 <!-- inactive-ok-file: ARG-015 CLAIM-155 CLAIM-157 CLAIM-158 CLAIM-165 CLAIM-166 CLAIM-167 CLAIM-168 CLAIM-170 CLAIM-174 CLAIM-367 CLAIM-393 CLAIM-396 TERM-063 — Proposed; components of this part, with their standing -->
 <!-- inactive-ok-file: CASE-163 CASE-166 CASE-225 CLAIM-161 CLAIM-286 CLAIM-327 CLAIM-417 CLAIM-425 CLAIM-544 CLAIM-616 — Proposed; components of sibling parts, cited for the links stated to them -->
-<!-- inactive-ok-file: ADR-075 SYNTHESIS-018 SYNTHESIS-026 SYNTHESIS-036 SYNTHESIS-041 — Proposed; the audit this account follows and the other lines' accounts that also set out some of its components -->
+<!-- inactive-ok-file: SYNTHESIS-018 SYNTHESIS-026 SYNTHESIS-036 SYNTHESIS-041 — Proposed; the audit this account follows and the other lines' accounts that also set out some of its components -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; a component, the objection CLAIM-167 answered -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; a component, the agent question set aside -->
 <!-- inactive-ok-file: QUESTION-092 QUESTION-242 QUESTION-243 QUESTION-248 QUESTION-263 QUESTION-287 — Answered; components, cited with their answers -->

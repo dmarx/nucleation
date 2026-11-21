@@ -66,7 +66,6 @@ draws_on:
 - THEORY-1113
 - THEORY-1584
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 
 <!-- inactive-ok-file: CLAIM-157 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1113 LIT-1125 LIT-1131 LIT-1682 — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->

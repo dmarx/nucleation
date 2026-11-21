@@ -98,4 +98,3 @@ outside every cycle. The gauge-fixing argument rules out both.
 - **That this is new mathematics.** The paper's contribution is the
   statement on general relational graphs and the reading across three
   literatures, which it says itself (p. 3).
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -44,7 +44,6 @@ integrates:
 <!-- inactive-ok-file: QUESTION-009 — Deferred; a question the components cite -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; a component, replaced by QUESTION-015 -->
 <!-- inactive-ok-file: QUESTION-015 — Answered; the question that replaced QUESTION-019 -->
-<!-- inactive-ok-file: ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
 # SYNTHESIS-018: A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired
 
