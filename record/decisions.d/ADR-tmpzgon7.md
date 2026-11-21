@@ -94,6 +94,23 @@ assistant may say which it would choose and why. The rule is the owner's,
 there are multiple valid ways to interpret something, err on the side of
 filing all of the alternatives".
 
+**A go-ahead covers the whole message it answers.** When the owner answers
+a message of the assistant's with a go-ahead (a "yes", "file it", "do it",
+or switching the regime on), the go-ahead greenlights everything that
+message proposed, not only its last item or the one most recently
+discussed. The owner, 2026-11-21, after switching the regime on in reply to
+a message proposing several filings: "part of the implication was that I
+was greenlighting everything in the previous comment". Two limits:
+
+- it covers an action the regime reserves to the owner (below) only where
+  the message named that action as a proposal; a reserved action the
+  message only mentioned still waits;
+- where the message left a choice among alternatives to the owner, the
+  go-ahead keeps the alternatives filed and chooses none, since they cannot
+  all be chosen. **Alternative reading:** the go-ahead adopts the choice the
+  assistant said it leaned to. Filed here as an alternative under the rule
+  for several readings; the owner says which holds.
+
 **Still the owner's word, regime or not:**
 
 - a change of status on a held entry (promotion, rejection, supersession);
