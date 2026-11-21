@@ -1,0 +1,898 @@
+[
+ {
+  "adr": "ADR-030",
+  "date": "2026-10-06",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner asked for that literature to be held here, as the cautionary evidence for the extension",
+  "noticer": "unknown",
+  "proposer": "assistant",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "New topic word for a new batch; the nine works were being filed, not retagged. Proposer coded assistant as author of the decision; no owner approval recorded."
+ },
+ {
+  "adr": "ADR-031",
+  "date": "2026-10-09",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "Readers of the manuscript batch reported both gaps independently",
+  "noticer": "filing_agent",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner authorised the extension.",
+  "residue": "forced_category",
+  "migration": 13,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Migration summed from the retag list (3+4+3+2+1). The deferred translation word is an alternative, later added by ADR-033; not coded as decline."
+ },
+ {
+  "adr": "ADR-032",
+  "date": "2026-10-07",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "scheme",
+   "field",
+   "relation",
+   "status",
+   "vocabulary",
+   "line",
+   "view",
+   "lint",
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language",
+   "answer_space",
+   "observations",
+   "resources"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner wanted it to hold their own argument as it develops",
+  "noticer": "owner",
+  "proposer": "unknown",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "Accepted by the owner: status Proposed → Active.",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Design 'worked out in a session' with no named proposer. The filing rule (second-time) is the resources element; later narrowed by ADR-072 and refined by ADR-046."
+ },
+ {
+  "adr": "ADR-033",
+  "date": "2026-10-09",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "the owner asked for the 46 works dropped from the manuscript's bibliography to be registered",
+  "noticer": "unknown",
+  "proposer": "assistant",
+  "decider": "unknown",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "forced_category",
+  "migration": 2,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Completes the deferral in ADR-031. Migration counts Gutt and Hofstadter, retagged; the five new works were being registered. Residue inferred from 'linguistics is a loose fit'."
+ },
+ {
+  "adr": "ADR-034",
+  "date": "2026-10-09",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "Readers registering the What Survives Translation? bibliography reported both gaps.",
+  "noticer": "filing_agent",
+  "proposer": "assistant",
+  "decider": "assistant",
+  "ratification": "standing_permission",
+  "ratification_quote": "The owner authorised extending the vocabulary as the record sees fit on 2026-10-09",
+  "residue": "forced_category",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "At least 16 LITs retagged plus unnumbered THEORYs; no total stated."
+ },
+ {
+  "adr": "ADR-035",
+  "date": "2026-10-09",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "No word fitted, so the reader tagged them by their sheaf and contextuality content. The owner asked for a topic.",
+  "noticer": "filing_agent",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner chose one word for both clusters, and asked that tags be added without removing others.",
+  "residue": "forced_category",
+  "migration": 20,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Assistant's draft causal-structure was replaced by the owner's suggested single word. Migration: 5 first-tagged plus 15 added beside existing tags."
+ },
+ {
+  "adr": "ADR-036",
+  "date": "2026-10-09",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "widen"
+  ],
+  "regime": "revise",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "Five readers reported the same gap. Each tagged the work `learning-theory` as the nearest fit",
+  "noticer": "filing_agent",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner ruled that its description be widened rather than a new word added.",
+  "residue": "forced_category",
+  "migration": 0,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Regime revise because an existing word's meaning changes; nothing was retagged, so a refine reading is defensible. A separate word was offered to the owner, who chose widening."
+ },
+ {
+  "adr": "ADR-037",
+  "date": "2026-10-11",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "scheme",
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language",
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "register MoM as a remote and then dual file anything we need from there on nucleation directly",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "Accepted by the owner: status Proposed → Active.",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Adds a remote record (schemes in luria.yaml) and a dual-filing rule; level 'scheme' stands for the remote's schemes, as no level fits a remote exactly."
+ },
+ {
+  "adr": "ADR-038",
+  "date": "2026-10-11",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "relation",
+   "lint",
+   "process"
+  ],
+  "operation": [
+   "add",
+   "narrow"
+  ],
+  "regime": "refine",
+  "component": [
+   "language",
+   "criteria"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "the concept pass found the day's load-bearing words",
+  "noticer": "review_process",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "go ahead with all four, explain: cited",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "v1 is a citation convention; v2 adds explain: cited on CLAIM uses, a lint. 'uses: is narrower than citation' coded narrow. 25 citations and 13 uses entries; entry count not stated."
+ },
+ {
+  "adr": "ADR-039",
+  "date": "2026-10-12",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "line"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "In the third synthesis pass (workbench of 2026-10-12), 102 Active or Proposed THEORYs still had no edge to any CLAIM or",
+  "noticer": "review_process",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "add both lines, they're approved",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "low",
+  "note": "Owner asked for questions to place unlinked readings and corrected the assistant's reluctance to propose lines. Residue: readings were unplaced rather than misfiled; forcing was the rejected option."
+ },
+ {
+  "adr": "ADR-040",
+  "date": "2026-10-12",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "field",
+   "line"
+  ],
+  "operation": [
+   "widen",
+   "add"
+  ],
+  "regime": "revise",
+  "component": [
+   "language",
+   "answer_space",
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "Raised by the owner on 2026-10-12.",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "approved, go ahead with the yaml change and group A",
+  "residue": "forced_category",
+  "migration": 38,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "line becomes many-valued and set-aside rule changes. Migration summed: 24 group A, 7 group B originals, 3 re-pointed, 3 group C tagged, 1 split (CLAIM-187); seven new claims not counted."
+ },
+ {
+  "adr": "ADR-041",
+  "date": "2026-10-13",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "status",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "split",
+   "narrow"
+  ],
+  "regime": "revise",
+  "component": [
+   "answer_space"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "differentiate 'looked for a legal copy but couldn't find one' from 'we haven't even attempted reading this yet'",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "standing_permission",
+  "ratification_quote": "Accepted at the owner's request of 2026-10-31 to bring overdue statuses up to date.",
+  "residue": "prose_only",
+  "migration": 177,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "In force from filing; formally accepted in a blanket status catch-up. Amended by ADR-053 (Unfetched split off), which is a refinement, not recorded harm."
+ },
+ {
+  "adr": "ADR-042",
+  "date": "2026-10-14",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "field",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "widen"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "are we able to construct something like a typology of CASEs?",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "Approved on 2026-10-14, with the sixth term renamed from the draft's \"run-here\" to `executed-study`.",
+  "residue": "forced_category",
+  "migration": 81,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Stipulated blurb widened as a clarification. Proposer coded assistant as drafter of the 'Proposed' design; owner renamed one term."
+ },
+ {
+  "adr": "ADR-043",
+  "date": "2026-10-15",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "field",
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "answer_space"
+  ],
+  "trigger": "external_assistant",
+  "trigger_quote": "that's a useful distinction, do we have anything like this already segregating CLAIMs? if not, we should consider adding it.",
+  "noticer": "owner",
+  "proposer": "external_assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "Accepted by the owner on 2026-10-15.",
+  "residue": "prose_only",
+  "migration": 315,
+  "outcome": "in_force",
+  "later_harm": "v2 (2026-10-19): two readings of warrant were in use, and batch 022 relabelled CLAIM-052 `empirical` on the reading the owner then rejected.",
+  "confidence": "medium",
+  "note": "Distinction and terms came from the pasted exchange (A8, A9, A18); owner asked at U9 and later made the field required. Migration is every claim classified (87+12+216), pilot included."
+ },
+ {
+  "adr": "ADR-044",
+  "date": "2026-10-15",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "relation"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "incident",
+  "trigger_quote": "Filing `supports: CLAIM-296` made `luria link --fix` write `rests_on: [the new claim]` onto",
+  "noticer": "unknown",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "accept ADR-044 and apply it",
+  "residue": "false_statement",
+  "migration": 1,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "The link fixer's converse made the record assert a false dependence; owner asked for a relation; ADR's 'Proposed' design coded as assistant's."
+ },
+ {
+  "adr": "ADR-045",
+  "date": "2026-10-15",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "assistant_in_session",
+  "trigger_quote": "The curation entry of 2026-10-15 03:31 flagged the stopgap, and the owner answered",
+  "noticer": "assistant",
+  "proposer": "assistant",
+  "decider": "assistant",
+  "ratification": "standing_permission",
+  "ratification_quote": "don't hesitate to extend the vocabulary as needed",
+  "residue": "forced_category",
+  "migration": 6,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Five works had been tagged information-retrieval as a stopgap; owner's answer is general permission. Migration: five LITs plus QUESTION-114. Noticer assistant inferred from the curation journal flag."
+ },
+ {
+  "adr": "ADR-046",
+  "date": "2026-10-18",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "status",
+   "relation"
+  ],
+  "operation": [
+   "add",
+   "redefine"
+  ],
+  "regime": "revise",
+  "component": [
+   "language",
+   "answer_space"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "I think we might currently lack a way to express proposed and/or competing definitions of a given term",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "Accepted by the owner on 2026-10-21, at the second review of nucleation#305: status Proposed → Active.",
+  "residue": "prose_only",
+  "migration": 4,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Redefines TERM status as standing of a definition and reassigns TERM-010/043 from supersedes to refines; residue also included a forced supersedes and a false retirement on the term-revisions chain."
+ },
+ {
+  "adr": "ADR-047",
+  "date": "2026-10-19",
+  "status": "Superseded",
+  "grammar_change": true,
+  "level": [
+   "process",
+   "lint"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "interventions",
+   "criteria",
+   "resources"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "The promotion audit of 2026-10-19 (curation entries of that date, PR [#165](https://github.com/dmarx/nucleation/issues/165)) found a mismatch",
+  "noticer": "review_process",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner proposed an incremental procedure the same day, and asked for it to start in a new pull request.",
+  "residue": "prospective",
+  "migration": null,
+  "outcome": "superseded",
+  "later_harm": "v4 (2026-10-20): narrowing had been losing the wider claims it dropped; of 93 THEORYs narrowed and promoted, 53 kept the wider form only in their body.",
+  "confidence": "medium",
+  "note": "grammar_change true only for check.py on the audit queue. Superseded by ADR-057 on 2026-10-27 (8 days); evidence rulings stand."
+ },
+ {
+  "adr": "ADR-048",
+  "date": "2026-10-19",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary",
+   "process"
+  ],
+  "operation": [
+   "remove",
+   "redefine"
+  ],
+  "regime": "revise",
+  "component": [
+   "criteria",
+   "resources"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "The owner said to assume the anthology does not hold these works, and that the boundary rule should go.",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "the boundary rule should go",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Mainly a filing boundary; grammar_change true because the topic vocabulary's blurb and the anthology-candidate flag's meaning in luria.yaml change. The misfit was cost of a per-filing check, which no residue value names."
+ },
+ {
+  "adr": "ADR-049",
+  "date": "2026-10-21",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "status",
+   "process"
+  ],
+  "operation": [
+   "widen",
+   "redefine"
+  ],
+  "regime": "revise",
+  "component": [
+   "answer_space",
+   "criteria"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "An audit of the questions on 2026-10-21 (curation entry of that date) found that 44 Open questions already listed an Active CLAIM or THEORY",
+  "noticer": "review_process",
+  "proposer": "unknown",
+  "decider": "owner",
+  "ratification": "none_recorded",
+  "ratification_quote": "",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Answered blurb now admits Active THEORYs and requires full scope. Owner rejected the first proposal (require a CLAIM), so decider coded owner; no approval of the final text is recorded. Split candidates listed, not counted as migrated."
+ },
+ {
+  "adr": "ADR-050",
+  "date": "2026-10-22",
+  "status": "Deferred",
+  "grammar_change": false,
+  "level": [
+   "term",
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "language"
+  ],
+  "trigger": "other",
+  "trigger_quote": "the owner relayed a proposal, \"Toward a controlled vocabulary for Nucleation\"",
+  "noticer": "unknown",
+  "proposer": "unknown",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "Deferred at the owner's decision of 2026-10-31.",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "deferred",
+  "later_harm": "",
+  "confidence": "low",
+  "note": "A usage protocol in prose; the lint pattern was only conditional on adoption, so not coded as a proposed grammar change. Relayed proposal's author unnamed (possibly an external assistant). New TERMs are record entries, adopted separately."
+ },
+ {
+  "adr": "ADR-051",
+  "date": "2026-10-23",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "relation"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "filing_agent",
+  "trigger_quote": "The reading agent gave the CASE `supports: THEORY-891`, and lint refused it",
+  "noticer": "filing_agent",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "update the nucleation config to permit linking CASEs, THEORYs, LITs, and NOTEs",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Provenance relation; no backfill of existing cases. The owner's request named the linkage; the field name and scope are the decision's."
+ },
+ {
+  "adr": "ADR-052",
+  "date": "2026-10-23",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "At the owner's direction (2026-10-23) the method is recorded as a rule for the record's own argument.",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "At the owner's direction (2026-10-23) the method is recorded as a rule for the record's own argument.",
+  "residue": "prose_only",
+  "migration": 0,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "A working rule for stating claims, no luria.yaml change. Prompted by the owner's 2026-10-17 correction and two reviews that found cardinal measures reversing ordinal facts. No sweep."
+ },
+ {
+  "adr": "ADR-053",
+  "date": "2026-10-25",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "status",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "split",
+   "narrow"
+  ],
+  "regime": "revise",
+  "component": [
+   "answer_space",
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "a status for content that would be easy for me to access where you encountered obstacles",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "Accepted by the owner on 2026-10-25, at nucleation#331: status Proposed → Active.",
+  "residue": "prose_only",
+  "migration": 34,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Amends ADR-041 (reverses its rejected two-word alternative). Migration per v2 note: 34 of 37 moved. Narrowed by ADR-064, later ADR-074."
+ },
+ {
+  "adr": "ADR-054",
+  "date": "2026-10-26",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "remove"
+  ],
+  "regime": "none",
+  "component": [
+   "resources"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "just make a PR and push your commits there and let the CI handle the linting instead of duplicating work and waiting around locally",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "At the owner's direction (2026-10-26), work is committed and pushed to its pull request as it is made.",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "v2 (2026-10-27): pushing as you go raced the docs-check repair, and overtaken runs linted red on nucleation#334 and #338; docs.yml now cancels overtaken runs.",
+  "confidence": "high",
+  "note": "Working-practice change (removes the local pre-push gate); CI workflow edit in v2 is not a luria.yaml or lint change. Residue does not apply to a process rule."
+ },
+ {
+  "adr": "ADR-055",
+  "date": "2026-10-27",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "vocabulary"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "On 2026-10-27 the owner asked for the topic, and a further seventeen works came with it.",
+  "noticer": "external_assistant",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner asked for it (2026-10-27).",
+  "residue": "forced_category",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Eighteen works had been tagged ecology or natural-sciences; the exchange (an assistant exchange, unnumbered) warned of the obscured mechanism. Retag count of pre-existing entries not stated; ecology's blurb now points to the new word."
+ },
+ {
+  "adr": "ADR-056",
+  "date": "2026-10-27",
+  "status": "Rejected",
+  "grammar_change": true,
+  "level": [
+   "field",
+   "vocabulary"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "restraint",
+  "component": [
+   "language"
+  ],
+  "trigger": "external_assistant",
+  "trigger_quote": "maybe this is a particular 'kind' within the TERM schema we should distinguish.",
+  "noticer": "owner",
+  "proposer": "external_assistant",
+  "decider": "review_process",
+  "ratification": "merge_assent",
+  "ratification_quote": "run at the owner's request on 2026-10-31",
+  "residue": "prose_only",
+  "migration": 0,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Proposed a TERM kind field (A12's four kinds), pilot first. Rejected on its own pilot test (5 of 16 forced arbitrary choices), run at the owner's request; no owner words approving the rejection."
+ },
+ {
+  "adr": "ADR-057",
+  "date": "2026-10-27",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "lint",
+   "view",
+   "process"
+  ],
+  "operation": [
+   "add",
+   "redefine",
+   "remove",
+   "decline"
+  ],
+  "regime": "revise",
+  "component": [
+   "criteria",
+   "observations",
+   "interventions",
+   "resources"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "claims that a lot of interesting downstream material depends on but which is currently in proposed state",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "The owner accepted this decision on 2026-10-27.",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "v5 (2026-10-29): targets passed the concessions check on revisions made for something else (CLAIM-056, CLAIM-024); v8 (2026-11-06): CLAIM-518 was listed as ready because a partial concession counted as the whole objection.",
+  "confidence": "medium",
+  "note": "Replaces ADR-047; adds stale_days, report patterns in fail_on, baseline and load-bearing class; declines the held_back_by field. Interpretive promotions now have a route via PR merge. Residue: blockers and owner rulings sat in a hand-off string; low certainty."
+ },
+ {
+  "adr": "ADR-058",
+  "date": "2026-10-27",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "relation"
+  ],
+  "operation": [
+   "widen",
+   "add"
+  ],
+  "regime": "revise",
+  "component": [
+   "language"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "The third status review ([ADR-057](ADR-057.md)) read the record's 38 credence inversions.",
+  "noticer": "review_process",
+  "proposer": "unknown",
+  "decider": "review_process",
+  "ratification": "merge_assent",
+  "ratification_quote": "The review that adopted this decision moved the edges it found.",
+  "residue": "forced_category",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Redraws the grounds/corroborates boundary and moves existing edges, hence revise. Adopted inside a status-review pass whose PR merge is the owner's ruling under ADR-057; the number of edges moved is not stated."
+ }
+]
