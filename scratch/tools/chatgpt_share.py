@@ -18,8 +18,18 @@ which a dict's keys are `_<i>` pointers to string entries and its values are
 indices into the table. The decoder rebuilds the conversation, walks from
 `current_node` back to the root, so that only the branch that was shared
 comes out, and numbers the turns U1… for the user and A1… for the assistant.
-It drops system and tool messages, assistant messages addressed to a tool,
-hidden context and redacted plugin output.
+The numbered turns are the visible ones: what the share page shows.
+
+Everything else the assistant produced on the branch is kept too, under the
+visible turn it leads to, as labelled blocks marked "not shown on the share
+page": its reasoning summaries and recaps, code it ran and that code's
+output, tool calls that carry text, any other assistant content, and hidden
+drafts of its answers with a line of their own. A hidden copy whose every
+line also appears in a visible turn is a duplicate. It is counted, not
+repeated. So are tool calls without text, web and other tool results, and
+redacted plugin output. The counts close the file, so nothing is dropped
+without a trace. System messages and hidden user context are not the
+assistant's and stay out. `--visible_only` gives the visible turns alone.
 
 Since November 2026 some share pages carry the transcript instead as one
 JSON script, `<script id="octane-conversation-transcript">`, whose `rows`
@@ -58,12 +68,14 @@ class Turn:
     role: str
     time: str
     text: str
+    extras: list[tuple[str, str]] = field(default_factory=list)
 
 
 @dataclass
 class Exchange:
     title: str
     turns: list[Turn] = field(default_factory=list)
+    omitted: dict[str, int] = field(default_factory=dict)
 
 
 def _octane_text(row: dict) -> str:
@@ -162,13 +174,68 @@ def _conversation(table: list) -> dict:
 
 
 def _text(content: dict) -> str:
+    """A message's text: its `parts`, or, for content stored whole (code,
+    execution output), its `text`."""
     parts = content.get("parts") or []
-    return "\n".join(p if isinstance(p, str) else (p.get("text", "") if isinstance(p, dict) else "")
-                     for p in parts if p).strip("\n")
+    joined = "\n".join(p if isinstance(p, str) else (p.get("text", "") if isinstance(p, dict) else "")
+                       for p in parts if p).strip("\n")
+    return joined or (content.get("text") or "").strip("\n")
 
 
-def decode(html: str) -> Exchange:
-    """Decode a share page's HTML into the shared branch's numbered turns."""
+def _lines(text: str) -> list[str]:
+    return [" ".join(line.split()) for line in text.split("\n") if line.strip()]
+
+
+def _visible(m: dict, role: str, text: str) -> bool:
+    content = m.get("content") or {}
+    if not text.strip() or content.get("content_type") not in ("text", "multimodal_text"):
+        return False
+    if (m.get("metadata") or {}).get("is_visually_hidden_from_conversation"):
+        return False
+    return not (role == "assistant" and (m.get("recipient") not in (None, "all") or text.strip() == REDACTED))
+
+
+def _extra(m: dict, role: str, text: str, seen: set[str]) -> tuple[str, str] | str | None:
+    """What a message adds beside the visible turns: an (kind, text) extra,
+    a counted omission (a str), or None for what is not the assistant's."""
+    content = m.get("content") or {}
+    ctype = content.get("content_type")
+    rec = m.get("recipient") or "all"
+    if role == "tool":
+        name = (m.get("author") or {}).get("name") or "tool"
+        if ctype == "execution_output" and text.strip():
+            return ("code output", text)
+        return f"tool results ({name})" if text.strip() else None
+    if role != "assistant":
+        return None
+    if text.strip() == REDACTED:
+        return "redacted plugin output"
+    if ctype == "thoughts":
+        th = [t for t in content.get("thoughts") or [] if isinstance(t, dict)]
+        body = "\n\n".join(": ".join(x for x in (t.get("summary"), t.get("content")) if x) for t in th)
+        return ("reasoning", body) if body.strip() else "empty reasoning"
+    if ctype == "reasoning_recap":
+        body = content.get("content") or ""
+        return ("reasoning recap", body) if body.strip() else "empty reasoning recaps"
+    if ctype == "code":
+        body = content.get("text") or ""
+        return ("code", body) if body.strip() else "empty code"
+    if ctype == "model_editable_context":
+        body = content.get("model_set_context") or ""
+        return ("model context", body) if body.strip() else "empty model context"
+    if rec != "all":
+        return (f"tool call to {rec}", text) if text.strip() else f"tool calls without text ({rec})"
+    if (m.get("metadata") or {}).get("is_visually_hidden_from_conversation") and text.strip():
+        if all(line in seen for line in _lines(text)):
+            return "hidden copies wholly contained in visible turns"
+        return ("hidden draft", text)
+    body = text or content.get("text") or ""
+    return (ctype or "content", body) if body.strip() else f"empty {ctype or 'content'}"
+
+
+def decode(html: str, visible_only: bool = False) -> Exchange:
+    """Decode a share page's HTML into the shared branch's numbered turns,
+    with everything else the assistant produced attached as extras."""
     octane = OCTANE.search(html)
     if octane:
         return _decode_octane(html, octane.group(1))
@@ -181,29 +248,44 @@ def decode(html: str) -> Exchange:
         node = mapping[cur]
         chain.append(node)
         cur = node.get("parent")
+    messages = [n["message"] for n in reversed(chain) if n.get("message")]
+    seen = {line for m in messages
+            for line in _lines(_text(m.get("content") or {}))
+            if _visible(m, (m.get("author") or {}).get("role"), _text(m.get("content") or {}))}
     exchange = Exchange(title=conv.get("title") or "")
     counts = {"user": 0, "assistant": 0}
-    for node in reversed(chain):
-        m = node.get("message")
-        if not m:
-            continue
+    pending: list[tuple[str, str]] = []
+
+    def attach_pending() -> None:
+        last = next((t for t in reversed(exchange.turns) if t.role == "assistant"), None)
+        if pending and last is not None:
+            last.extras.extend(pending)
+            pending.clear()
+
+    for m in messages:
         role = (m.get("author") or {}).get("role")
-        content = m.get("content") or {}
-        text = _text(content)
-        if role not in counts or not text.strip():
+        text = _text(m.get("content") or {})
+        if role in counts and _visible(m, role, text):
+            if role == "user":
+                attach_pending()
+            counts[role] += 1
+            ts = m.get("create_time")
+            when = (datetime.datetime.fromtimestamp(ts, datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+                    if ts else "")
+            label = ("U" if role == "user" else "A") + str(counts[role])
+            turn = Turn(label, role, when, text)
+            if role == "assistant":
+                turn.extras, pending = pending, []
+            exchange.turns.append(turn)
             continue
-        if content.get("content_type") not in ("text", "multimodal_text"):
+        if visible_only:
             continue
-        if (m.get("metadata") or {}).get("is_visually_hidden_from_conversation"):
-            continue
-        if role == "assistant" and (m.get("recipient") not in (None, "all") or text.strip() == REDACTED):
-            continue
-        counts[role] += 1
-        ts = m.get("create_time")
-        when = (datetime.datetime.fromtimestamp(ts, datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-                if ts else "")
-        label = ("U" if role == "user" else "A") + str(counts[role])
-        exchange.turns.append(Turn(label, role, when, text))
+        got = _extra(m, role, text, seen)
+        if isinstance(got, str):
+            exchange.omitted[got] = exchange.omitted.get(got, 0) + 1
+        elif got:
+            pending.append(got)
+    attach_pending()
     if not exchange.turns:
         raise ShareFormatError("the shared branch has no user or assistant turns")
     return exchange
@@ -211,13 +293,23 @@ def decode(html: str) -> Exchange:
 
 def render(exchange: Exchange) -> str:
     """The verbatim text: a TITLE line, then one headed block per turn."""
-    blocks = [f"===== {t.label} ({t.role}){' ' + t.time if t.time else ''} =====\n{t.text}\n" for t in exchange.turns]
-    return f"TITLE: {exchange.title}\n\n" + "\n".join(blocks)
+    blocks = []
+    for t in exchange.turns:
+        block = f"===== {t.label} ({t.role}){' ' + t.time if t.time else ''} =====\n{t.text}\n"
+        for kind, text in t.extras:
+            block += f"\n----- {t.label} · {kind} (not shown on the share page) -----\n{text}\n"
+        blocks.append(block)
+    out = f"TITLE: {exchange.title}\n\n" + "\n".join(blocks)
+    if exchange.omitted:
+        counted = "; ".join(f"{k}: {v}" for k, v in sorted(exchange.omitted.items()))
+        out += f"\n[omitted from this file, counted: {counted}]\n"
+    return out
 
 
-def main(page: str) -> None:
-    """Print the decoded exchange from a saved share page."""
-    print(render(decode(Path(page).read_text(encoding="utf-8"))), end="")
+def main(page: str, visible_only: bool = False) -> None:
+    """Print the decoded exchange from a saved share page; --visible_only
+    leaves out everything the share page does not show."""
+    print(render(decode(Path(page).read_text(encoding="utf-8"), visible_only=visible_only)), end="")
 
 
 if __name__ == "__main__":

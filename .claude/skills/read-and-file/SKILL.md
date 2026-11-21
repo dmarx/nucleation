@@ -41,11 +41,21 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 
   Save both files in their own new directory in the scratchpad. The
   decoder writes the shared branch only, as `===== U1 (user) <time> =====`
-  and `===== A1 (assistant) … =====` blocks under a `TITLE:` line. It drops
-  system and tool messages, hidden context and redacted plugin output. If
-  the page has changed shape, it stops with `ShareFormatError`: report
-  that, and do not file from a partial transcript or reconstruct one by
-  hand. Never put an email address in the request (ADR-008).
+  and `===== A1 (assistant) … =====` blocks under a `TITLE:` line: the
+  turns the share page shows. Under each assistant turn it adds what the
+  page does not show, as `----- A1 · <kind> (not shown on the share
+  page) -----` blocks: the assistant's reasoning summaries and recaps,
+  code it ran and that code's output, tool calls with text, and hidden
+  drafts with a line of their own. Duplicates, empty messages, tool calls
+  without text and web results are counted in a closing `[omitted from
+  this file, counted: …]` line, so every assistant message is either in
+  the file or in that count. The reasoning blocks are the other
+  assistant's working, not turns of the exchange: they are its voice, and
+  ideas in them are filed, if at all, as that assistant's. Pass
+  `--visible_only` for the visible turns alone. If the page has changed
+  shape, the decoder stops with `ShareFormatError`: report that, and do
+  not file from a partial transcript or reconstruct one by hand. Never
+  put an email address in the request (ADR-008).
 - **Keep the source whole.** Save it verbatim to the scratchpad, and point
   every reader and drafter at that file. A condensation written for a
   brief is the lead's own text. Label it so and keep it in a separate
