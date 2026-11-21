@@ -115,8 +115,9 @@ included, greenlights everything the message it answers proposed, and adopts
 the lean you stated where it left a choice. When in doubt (harm hard to
 undo, a wide blast radius, something the owner may have missed), stop on
 that item and raise it plainly, CRM style: what, the concern, your
-recommendation, and that you are waiting. Suggest switching off when going on would
-be awkward.
+recommendation, and that you are waiting. A scheduled check-in that finds nothing
+doubles the next interval, stops after three empty, and says nothing.
+Suggest switching off when going on would be awkward.
 
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
 upload or a work, and for reading registered works. Its steps are the
