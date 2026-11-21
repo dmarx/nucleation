@@ -28,6 +28,8 @@ integrates:
 - CLAIM-455
 ---
 
+<!-- inactive-ok-file: CLAIM-770 CLAIM-780 CLAIM-781 QUESTION-500 QUESTION-501 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
+
 # SYNTHESIS-tmp230me: Growth in observing resource splits what can be told apart, growth in acting resource merges what can be turned into one another, and optimal categories at a larger budget can re-carve rather than refine: what the record holds on how categories change as resources grow
 
 *A thematic account, across lines, of principle P2 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
@@ -58,3 +60,11 @@ integrates:
 
 - That any particular learner re-carves.
 - That splitting is the normal case. Which case holds depends on the conditions each component states.
+
+## Note of 2026-11-21: where a level of the tree comes and goes
+
+Filed since, and candidates for this account's components at its next synthesis review:
+
+- **CLAIM-770** (Proposed, demonstrated): the tree of classes reachable within a budget keeps its shape while barriers move, and changes only where two barriers cross. A distinction between levels comes into being or passes away at such a crossing. This is a case, in one model, of the re-carving this account's optimal-partition clause describes.
+- **CLAIM-780** and **CLAIM-781** (Proposed): how a hierarchy's levels show in a chain's time geometry, and what rate separation between levels does.
+- **QUESTION-500** and **QUESTION-501** (Open): what rate ratio is enough for a level to show, and whether well-separated levels require separated rates.

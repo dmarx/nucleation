@@ -35,6 +35,8 @@ integrates:
 - CLAIM-664
 ---
 
+<!-- inactive-ok-file: CLAIM-772 ARG-124 CLAIM-777 CLAIM-776 CLAIM-782 CLAIM-773 CLAIM-779 CLAIM-768 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
+
 <!-- inactive-ok-file: CLAIM-090 ARG-035 CLAIM-191 CLAIM-182 CLAIM-189 SYNTHESIS-066 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmprksq1: In the record, iterated transmission can forget its origin while staying far from it, serial reconstruction is filtered by the transmitters' biases with convergence to the prior proved for sampling learners, arguments restated across memoryless sessions lose identity, several mechanisms are offered as anchors, and what a record can secure is held to be traceability
 
@@ -63,3 +65,20 @@ integrates:
 
 - **A stable code is [CLAIM-635](../claims.d/CLAIM-635.md)'s exactly conserved observable, so an address anchors.** The manuscript's P9 offered this reading, and it does not follow. One argument restated is a point mass, which [CLAIM-635](../claims.d/CLAIM-635.md) excludes. A conserved code keeps which item the chain started from, not its content. Address-based anchoring consults stored content, which takes the chain outside [CLAIM-635](../claims.d/CLAIM-635.md)'s Markov hypothesis. [CLAIM-tmpj5aiv](../claims.d/CLAIM-tmpj5aiv.md) records a code kept exactly while its term's meaning changed.
 - **That the four anchors are one mechanism.** [SYNTHESIS-066](SYNTHESIS-066.md) declined that join.
+
+## Note of 2026-11-21: the "Not stated" link, now held in a narrower form
+
+This account put under "Not stated on the record" the reading of a stable code as CLAIM-635's exactly conserved observable. It gave three reasons: one argument restated is a point mass; a code conserves which item, not its content; and anchoring by address consults stored content, outside CLAIM-635's Markov hypothesis. Filed since, the record holds a narrower form of the link, Proposed:
+
+- **CLAIM-772:** forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly. The record copies content exactly by code *and verbatim reading*, and leaves form to contract onto its schema.
+- **ARG-124:** the conservation results carry over if a session's restatement is a Markov step and reading a coded entry verbatim copies its text exactly. The mapping "holds for the text and not for its interpretation".
+
+So the three reasons still hold against the code alone. The narrower link, that what anchors is the exact copying of an entry's text which the code makes possible, is now an entry of its own. The same night filed a formal account of drift that bears on this theme:
+
+- CLAIM-773 and CLAIM-779 (drift and retention by the part of a step each feature lies in);
+- CLAIM-777 (drift before coding as a queue);
+- CLAIM-776 (the ideas furthest from the collaborators' framings are lost first);
+- CLAIM-782 (slowing an exchange, against anchoring);
+- CLAIM-768 (settling does not show what stopped an entry).
+
+All are candidates for this account's components at its next synthesis review, which settles them; none is added here.
