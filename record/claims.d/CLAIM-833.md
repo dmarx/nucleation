@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpnu4ar
 title: "Model reduction and feature differentiation may be movements in opposite directions through one stratified space of effective models: reduction moves toward the boundaries of the model manifold, where parameters stop mattering, and differentiation moves away from singular strata, where redundant features become separately usable"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    After the reading of LIT-2979 (NOTE-tmphbnqd). Its reading,
+    THEORY-tmpt1tw7, replaces the LIT in the grounds; the method supports
+    the reduction half and leaves the learning half open (ARG-tmpmou4i).
+    The sentence calling the work unread is updated. The claim and its
+    status are unchanged.
 role: supposed
 warrant: interpretive
 tags:
@@ -16,7 +25,7 @@ line:
 complements:
 - CLAIM-808
 grounds:
-- LIT-2979
+- THEORY-tmpt1tw7
 summary: >-
   A39 §6 of the exchange "Rich Get Richer Power Laws" (2026-11-21),
   answering the owner's U24 on Watanabe's stratification and the
@@ -30,8 +39,8 @@ summary: >-
   unread. The wording is A's (the other assistant in the exchange "Rich
   Get Richer Power Laws", A39); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-808 ARG-138 CLAIM-812 CLAIM-802 LIT-2979 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
-<!-- inactive-ok-file: THEORY-2154 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: CLAIM-808 ARG-138 CLAIM-812 CLAIM-802 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
+<!-- inactive-ok-file: THEORY-2154 THEORY-tmpt1tw7 ARG-tmpmou4i TERM-135 LIT-tmptm9ww — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-833: Model reduction and feature differentiation may be movements in opposite directions through one stratified space of effective models: reduction moves toward the boundaries of the model manifold, where parameters stop mattering, and differentiation moves away from singular strata, where redundant features become separately usable
 
@@ -43,8 +52,8 @@ A39 §6 sets two processes side by side:
   mechanisms. Move toward a reduced limiting model, often located at a
   manifold boundary." This is Transtrum and Qiu's manifold boundary
   approximation method, which "deliberately moves toward model boundaries
-  to obtain simpler effective theories" ([LIT-2979](../literature.d/LIT-2979.md), Deferred:
-  registered, not read).
+  to obtain simpler effective theories" ([LIT-2979](../literature.d/LIT-2979.md), read
+  on 2026-11-21 as THEORY-tmpt1tw7).
 - **Feature differentiation**: "Redundant mechanisms → separately
   distinguishable features. Move away from a degenerate configuration into
   a richer functional regime." A network "with two indistinguishable
@@ -105,3 +114,35 @@ connection between two accounts of it.
   on the manifold where the metric is singular" (2011, p. 10): reduction
   moves toward rank loss of the metric, which fits the claim's picture of
   one stratified space.
+
+## Note of 2026-11-21: Transtrum & Qiu (2014), read
+
+- **The reduction half is supported by its primary source**
+  (NOTE-tmphbnqd, THEORY-tmpt1tw7; ARG-tmpmou4i). The method is
+  "Approximating the manifold by its boundary" (Fig. 2): along the path
+  "the smallest eigenvalue separates from the others and approaches zero"
+  (para. 11), the limit there is evaluated to remove one parameter
+  combination, and the reduced model "is represented by a hypercorner of
+  the original manifold". Reduction moves toward rank loss of the metric,
+  as the claim says.
+- **The geometry is nested, not yet stratified.** The boundaries form "a
+  hierarchy of boundaries", edges ending in corners, which is the shape of
+  a stratified closure; but the paper never says "stratum" and does not
+  cite singular learning theory. Most of its boundaries are at infinite
+  parameter values (all of them for the Ising chain, Jμ → ±∞), finite
+  points only in the closure of the manifold in prediction space; only the
+  merging of two terms lies at finite parameters. The compactification gap
+  stands. The authors' account of the hierarchy as a topology (Transtrum,
+  Hart & Qiu, LIT-tmptm9ww) is registered and unread.
+- **The learning half is left open.** Nothing on training, networks, or a
+  move away from a singular configuration. The nearest thing is a move in
+  modelling: the Ising section generalizes a two-parameter Hamiltonian to
+  couplings Jμ "to reflect a more flexible microscopic formulation",
+  leaving the hypercorner for the interior, with renormalization as the
+  way back; parallel to differentiation in model building, not in
+  learning.
+- **A third condition.** The method needs edges, not only widths: an
+  ellipsoid with "a hierarchy of widths but without a hierarchy of edges"
+  has "no corners" to reduce to (para. 21). So where the duality's
+  reduction half applies is narrower than where a hyperribbon is
+  (TERM-135, version 3).

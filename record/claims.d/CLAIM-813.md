@@ -135,3 +135,18 @@ LITs in the grounds ([ARG-133](../arguments.d/ARG-133.md)).
   manifold's boundaries, and the 2011 paper calls it the "fold line", where
   "No parameters were at extreme values, but the model behavior was
   nonetheless singular".
+
+## Note of 2026-11-21: Transtrum & Qiu (2014) and Amari, Park & Ozeki (2006), read
+
+Two parallels, neither moving the claim.
+
+- **Transtrum and Qiu** (NOTE-tmphbnqd): the reduction method starts in a
+  sloppy, regular interior and ends at a boundary where "the smallest
+  eigenvalue ... approaches zero"; the reduced EGFR model shows "lack of
+  small eigenvalues", regular and no longer sloppy. The two properties
+  occur at different places on one path, which fits the claim.
+- **Amari, Park and Ozeki** (NOTE-tmptlwkf): in a perceptron the Fisher
+  matrix loses rank on continua at finite parameters, "not isolated but
+  form a continuum", which the claim's "rank loss on a stratum" describes;
+  near such a set the model is not a sloppy regular interior. A case of
+  singular without sloppy, of the kind the claim allows.

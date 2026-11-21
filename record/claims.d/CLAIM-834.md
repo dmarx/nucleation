@@ -50,7 +50,8 @@ summary: >-
   computes its learning coefficients ([CLAIM-823](CLAIM-823.md), A37's reframing).
 ---
 
-<!-- inactive-ok-file: LIT-2960 LIT-3000 CLAIM-811 CLAIM-807 CLAIM-802 CLAIM-823 ARG-132 — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
+<!-- inactive-ok-file: CLAIM-811 CLAIM-807 CLAIM-802 CLAIM-823 ARG-132 — claims filed with this one -->
+<!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat THEORY-tmpr9w2r — Proposed readings, filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-812 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-834: Singularity theory's account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built
@@ -85,7 +86,8 @@ readings, not a choice between them for the owner.
 - **Dynamics are separate.** "The fact that a singularity exists does not
   tell us when or whether gradient descent will move away from it" (A37
   §4). Plateaus near singularities are Amari's and Wei's work
-  ([LIT-2960](../literature.d/LIT-2960.md), [LIT-3000](../literature.d/LIT-3000.md), unread). How slowly a flow leaves or
+  ([LIT-2960](../literature.d/LIT-2960.md), [LIT-3000](../literature.d/LIT-3000.md), read on 2026-11-21; the dated note
+  below). How slowly a flow leaves or
   reaches a singular point is not fixed by its learning coefficient
   ([CLAIM-811](CLAIM-811.md)).
 - **Three transitions** (A37 §5): Bayesian (the dominant posterior region
@@ -128,3 +130,36 @@ App. H). A change in the estimate over training is evidence of a change of
 stratum only with the sampler settings fixed across checkpoints, settling
 checked, and β and γ varied ([LEAD-207](../leads.d/LEAD-207.md), [CLAIM-812](CLAIM-812.md)). The paper
 itself has no dynamical content beyond its Outlook.
+
+## Note of 2026-11-21: Amari, Park & Ozeki (2006), Wei et al. (2008) and Hoogland et al., read
+
+Four readings bear on U23; none of them decides between its readings.
+
+- **Amari, Park and Ozeki: background, and A37's "dynamics are separate"
+  borne out** (NOTE-tmptlwkf, THEORY-tmpbobud). Their account of learning
+  near singularities uses the Fisher metric and fast and slow manifolds,
+  never resolution: algebraic geometry is "Another general framework …
+  which we do not summarize here" (p. 1024). A smooth prior favours
+  singular points "with an infinitely large factor" (p. 1029), which is
+  consonant with reading (b), the Bayesian competition between regions,
+  but gives no account of a transition.
+- **Wei and colleagues: the same point, sharper** (NOTE-tmpl89m0,
+  THEORY-tmpg4aat). One singular set is reached, crossed or left according
+  to the signature of a residual matrix and a conserved quantity of the
+  flow (Theorem 1, Eq. 3.15); its existence does not fix the dynamics. No
+  learning coefficient appears, and no transition is read as a
+  resolution. Background for reading (b) at most.
+- **Hoogland and colleagues, read by the other filer in this batch**
+  (LIT-2966, NOTE-tmp2pgi8, THEORY-tmpr9w2r), are the measured stages
+  reading (b) would have to meet. The paper calls its link to singular
+  learning an analogy: "an analogy to the singular learning process
+  informs our methodology for stage division"; it never calls a stage a
+  singularity; and, by that reading, three of its stages show decreases of the estimated
+  local learning coefficient that it does not explain (of one, "This may
+  be related to interaction between heads"). Neither reading of U23
+  accounts for those decreases: reading (a) has no stage at which training
+  carries out a resolution, and reading (b), as filed, has the dominant
+  region move to a richer one as n grows, with a higher coefficient,
+  where the paper's coefficient falls. Whether a fall can be a change of
+  dominant region at fixed n over training time is the bridge of
+  QUESTION-363, still open.

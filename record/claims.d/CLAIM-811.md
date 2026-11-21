@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmpcbfdj
 title: 'Gradient flow into a degenerate minimum relaxes algebraically, not exponentially, and how slowly is not fixed by the learning coefficient: on the balanced line of a k-fold product loss the decay is t^(−1/(2k−2)) while the real log canonical threshold stays ½ and only its multiplicity grows to k'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    After the readings of LIT-2960 (NOTE-tmptlwkf) and LIT-3000
+    (NOTE-tmpl89m0). LIT-3000 leaves the grounds: it derives orbits, not
+    time courses, and has no algebraic relaxation (ARG-tmp0cg6w). LIT-2960
+    leaves the grounds too: its Eq. 5.13 is an instance of the first
+    part's law, independent of the claim's derivation, so its reading
+    corroborates the claim (ARG-tmp1klwj). The claim and its status are
+    unchanged; "What it does not say" is updated.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,8 +38,6 @@ grounds:
 - THEORY-1253
 - CASE-152
 - THEORY-740
-- LIT-2960
-- LIT-3000
 summary: >-
   A39 §5 and A42 §6 of the exchange "Rich Get Richer Power Laws"
   (2026-11-21): a quartic direction relaxes as t^(−1/2), "algebraically
@@ -42,7 +51,8 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: LIT-2960 LIT-3000 CLAIM-843 CLAIM-844 — Deferred works registered from the exchange and not yet read, or claims filed with this one -->
+<!-- inactive-ok-file: CLAIM-843 CLAIM-844 — claims filed with this one -->
+<!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat ARG-tmp1klwj ARG-tmp0cg6w — Proposed or Rejected; filed 2026-11-21 from the readings of Amari, Park & Ozeki and Wei et al. -->
 
 # CLAIM-811: Gradient flow into a degenerate minimum relaxes algebraically, not exponentially, and how slowly is not fixed by the learning coefficient: on the balanced line of a k-fold product loss the decay is t^(−1/(2k−2)) while the real log canonical threshold stays ½ and only its multiplicity grows to k
 
@@ -88,6 +98,32 @@ sees is [CLAIM-843](CLAIM-843.md).
 
 That observed slow relaxation in a network is singular. That reading is
 A's further claim, [CLAIM-844](CLAIM-844.md). Amari's and Wei's analyses of plateaus
-at and near singularities ([LIT-2960](../literature.d/LIT-2960.md), [LIT-3000](../literature.d/LIT-3000.md)) are cited in the
-exchange and not yet read, so the record does not yet hold their
-distinction between the two kinds of plateau.
+at and near singularities ([LIT-2960](../literature.d/LIT-2960.md), [LIT-3000](../literature.d/LIT-3000.md)) were read on
+2026-11-21 (THEORY-tmpbobud, THEORY-tmpg4aat); the dated note below says
+what they add. Their distinction between two kinds of plateau is on and
+near the overlap singularity, not milder and stronger degeneracy.
+
+## Note of 2026-11-21: Amari, Park & Ozeki (2006) and Wei et al. (2008), read
+
+- **Amari, Park and Ozeki: an instance of the first part.** In a gaussian
+  mixture whose truth lies on the singularity, Eq. 5.13 gives
+  u̇ = −ηc₂(v)²u³ with v̇ of order u⁴ (NOTE-tmptlwkf, p. 1040): the
+  claim's quartic case, k = 2. The paper states no rate; u̇ = −au³
+  integrates to u = u₀/√(1 + 2au₀²t), so u ∝ t^(−1/2) (the reader's
+  derivation, checked by the filer). And the flow reaches the critical set
+  at a generic point: "u converges to 0 without significantly changing v",
+  the entering component being "extremely slow near C" (p. 1034), which
+  parallels this claim's qualification. Silent on learning coefficients.
+  It corroborates and is not a ground (ARG-tmp1klwj). The paper also holds
+  the distinction this claim said the record lacked: the truth at, near,
+  or far from the singularity (§4), with plateaus in the regular case
+  from slow escape along a slow manifold.
+- **Wei and colleagues: parallel, not grounds.** No time course, power law
+  or exponent is derived (NOTE-tmpl89m0), so the paper leaves the
+  t^(−1/(2k−2)) open and is moved out of the grounds (ARG-tmp0cg6w). By
+  analogy it supports the qualification's shape: a first integral C of the
+  averaged flow decides whether the flow reaches the overlap line
+  (C < C₀) or passes to the elimination singularity, and "in most cases,
+  the model parameter reaches R∗2", where an output weight is zero, as an
+  off-balance flow on a²b² ends at b = 0. Different models; an analogy,
+  and no edge.

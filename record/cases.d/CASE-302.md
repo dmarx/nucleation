@@ -127,3 +127,11 @@ case's identification of the edge as a singular stratum and its location.
 The v² law, the learning coefficient 3/4 and the pushed-forward density
 are not in the papers; they stay the case's. The case now draws on
 [THEORY-2155](../theory.d/THEORY-2155.md) for its component.
+
+## Note of 2026-11-21: Transtrum & Qiu (2014), read
+
+Supports: in the sum of exponentials, one of the boundaries the manifold
+boundary approximation follows is where "two terms merge together"
+(NOTE-tmphbnqd, para. 12), the case's stratum. It is the only kind of
+boundary in that model at finite parameter values. The letter does not
+compute how the eigenvalue goes to zero there.
