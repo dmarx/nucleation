@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'Whenever staging is ahead of main, a pull request from staging into main is open for the owner, kept by the assistant: opened when the first merge into staging leaves it ahead, its description kept to what the batch holds and the choices waiting in it'
 version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed and ruled on the same night, before merging: the owner chose among
+    the two readings with "577-automate this". This reading, the assistant
+    keeping the pull request by convention, is kept as the one not taken.
 tags:
 - record
 - process

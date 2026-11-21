@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'Whenever staging is ahead of main, a pull request from staging into main is open for the owner, kept by a workflow: on every push to staging, a job opens one if none is open, so the review point exists without anyone remembering it'
 version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed and ruled on the same night, before merging: the owner chose among
+    the two readings with "577-automate this". This reading is adopted, and
+    the job is written in the same pull request.
 tags:
 - record
 - process
@@ -33,17 +40,23 @@ assistant keeps; ADR-tmpwi4rk, a workflow that keeps it. The owner chooses.
 
 ## Decision
 
-A job on every push to staging checks whether staging is ahead of main and
-whether a pull request from staging into main is open, and opens one if not,
-with a description generated from the merge commits since main: one line
-per pull request merged into staging. The owner reviews and merges it as in
+A job on every push to staging (`.github/workflows/promotion-pr.yml`,
+running `.github/scripts/promotion-pr.sh`) checks whether staging's content
+differs from main's and whether a pull request from staging into main is
+open, and opens one if not, with a description generated from the merge
+commits since main: one line per pull request merged into staging. It tests
+a content diff, not a commit count, because right after a promotion the
+back-merge leaves staging one merge commit ahead of main with the same tree.
+The owner reviews and merges it as in
 [ADR-tmp6xm7w](ADR-tmp6xm7w.md).
 
-The job is not written in this pull request. A change to CI waits for the
-owner under the regime; if this reading is chosen, the job is its first
-application. The back-merge from main into staging ([ADR-116](ADR-116.md), version 2) is
-a push the workflow token makes, which starts no run, so the job would also
-run after the Docs run on main, as the back-merge does.
+The job uses the REST API, and runs only on pushes to staging and by hand.
+The back-merge from main into staging (ADR-116, version 2) pushes with the
+workflow token and starts no run, which is right: after a promotion the two
+agree. A pull request the job opens with that token starts no docs-check of
+its own; each pull request into staging was checked, and Promote lints the
+merged tree before it pushes. The repository must allow GitHub Actions to
+create pull requests.
 
 ## Alternatives considered
 
@@ -60,5 +73,9 @@ run after the Docs run on main, as the back-merge does.
 
 ## First application
 
-None yet: the job is written if this reading is chosen. Pull request 576
-was opened by hand meanwhile.
+The job, in this pull request, run dry against the repository on
+2026-11-21: with pull request 576 open it reported one already open; with
+that check bypassed it would have opened one listing the merges since main;
+on equal trees the content test passes over. Pull request 576 was opened by
+hand meanwhile, and the job takes over from the next push to staging after a
+promotion.
