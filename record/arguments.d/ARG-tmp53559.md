@@ -14,11 +14,11 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-tmpask80, after A15, rests its strand 2 on Dambre and colleagues:
+  [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md), after A15, rests its strand 2 on Dambre and colleagues:
   total information-processing capacity "is bounded by its number of
   independent state variables", and "different dynamical regimes can
   redistribute that capacity between linear memory and nonlinear
-  transformations". Read (THEORY-tmpr5fuq), the paper supports both, and
+  transformations". Read ([THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)), the paper supports both, and
   more strongly than stated: the total is constant at N in the
   fading-memory regime and falls past the stability edge, so it cannot
   rise near it. It does not show the redistribution moving with distance
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-Strand 2 of CLAIM-tmpask80 quotes A15 §3: "under specified conditions, a
+Strand 2 of [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md) quotes A15 §3: "under specified conditions, a
 reservoir's total information-processing capacity is bounded by its number
 of independent state variables. Different dynamical regimes can
 redistribute that capacity between linear memory and nonlinear
@@ -74,13 +74,13 @@ for equality, fading memory and full rank as well.
 2 as worded, no. For the thesis, the paper shows that total capacity is
 fixed and that something (input scaling) redistributes it, which makes the
 thesis possible; that distance from a transition is one such redistributor
-rests on the scalar case (CLAIM-tmpd1shn, ARG-tmpubyzo) and on the claim's
+rests on the scalar case ([CLAIM-tmpd1shn](../claims.d/CLAIM-tmpd1shn.md), [ARG-tmpubyzo](ARG-tmpubyzo.md)) and on the claim's
 other strands.
 
 ## Verdict
 
 Support for strand 2 and for the bound clause of the title; a
-qualification of the thesis, recorded in a dated note on CLAIM-tmpask80.
-THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in the claim's grounds. The claim's
+qualification of the thesis, recorded in a dated note on [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md).
+[THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md) replaces [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md) in the claim's grounds. The claim's
 `defeated_if` clause on the bound is safe: Theorem 4 bounds every system,
 with or without fading memory.

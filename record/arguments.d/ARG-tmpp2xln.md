@@ -14,9 +14,9 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-tmply70l, the assistant's derivation that the Barabási–Albert power
+  [CLAIM-tmply70l](../claims.d/CLAIM-tmply70l.md), the assistant's derivation that the Barabási–Albert power
   law is the age mechanism in logarithmic time, listed Mitzenmacher
-  (LIT-tmpwdtfj) among its grounds. Read, the survey gives the age
+  ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)) among its grounds. Read, the survey gives the age
   mechanism for Gibrat growth (§7: exponential ages on an exponentially
   growing Web, Reed's double Pareto) and an attachment model that always
   has entry (§3), but treats them separately and never casts attachment in
@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmply70l: what separates linear preferential attachment from
+[CLAIM-tmply70l](../claims.d/CLAIM-tmply70l.md): what separates linear preferential attachment from
 Gibrat's lognormal growth is continual entry, because the mean-field
 attachment solution is proportional growth with exponentially distributed
 log-ages.
@@ -56,6 +56,6 @@ as a ground suggested the identification was the survey's. It is not.
 
 ## Verdict
 
-LIT-tmpwdtfj moves from the claim's grounds to `corroborates` on
-THEORY-tmp23821. The claim still grounds on Barabási and Albert and on
+[LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md) moves from the claim's grounds to `corroborates` on
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md). The claim still grounds on Barabási and Albert and on
 Reed (both unread) and on its own derivation.

@@ -149,9 +149,9 @@ Computed in this session (python3 -I, numpy, scipy):
   magnitude near the bifurcation, is what the claim uses.
 
 The spiked-covariance threshold and formulas are Baik, Ben Arous and
-Péché's (LIT-tmpipm3o), read on 2026-11-21; for the mean-shift step the
-theorem that applies is Benaych-Georges and Nadakuditi's (LIT-tmp1q78e), and
-for the precursor Baik and Silverstein's (LIT-tmpjtw0k): see the note of
+Péché's ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)), read on 2026-11-21; for the mean-shift step the
+theorem that applies is Benaych-Georges and Nadakuditi's ([LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md)), and
+for the precursor Baik and Silverstein's ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md)): see the note of
 2026-11-21 below. The checks
 above compare simulated outliers with the formulas directly, so they do not
 depend on the work.
@@ -169,7 +169,7 @@ depend on the work.
 
 ## Note of 2026-11-21: Baik, Ben Arous and Péché, read
 
-The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
+The BBP paper ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read in [NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md); [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md))
 **qualifies** this claim's attribution; its result stands.
 
 - **The mean-shift step is not BBP's.** BBP centres the sample covariance
@@ -177,16 +177,16 @@ The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
   remove a mean shift, and its samples are complex Gaussian. PCA on the
   uncentred second moment of N samples of N(cμ, I) sees cμ1ᵀ + E, a
   rank-one additive perturbation of singular value θ = c (after dividing
-  by √N). Benaych-Georges and Nadakuditi's §3.1 (LIT-tmp1q78e,
-  THEORY-tmp4zojc) gives the threshold θ > γ^(1/4), so
+  by √N). Benaych-Georges and Nadakuditi's §3.1 ([LIT-tmp1q78e](../literature.d/LIT-tmp1q78e.md),
+  [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md)) gives the threshold θ > γ^(1/4), so
   **κ_BBP = √D·(D/N)^(1/4) stands, on that theorem**, and the outlier
-  (1 + c²)(1 + γ/c²) matches the check above (ARG-tmpe2vrk). The name "BBP
+  (1 + c²)(1 + γ/c²) matches the check above ([ARG-tmpe2vrk](../arguments.d/ARG-tmpe2vrk.md)). The name "BBP
   threshold" is the field's and can stay.
 - **The precursor** treats the ordering mode below K = D as a covariance
   spike in real data, which is Baik and Silverstein's real-case theorem
-  (LIT-tmpjtw0k, THEORY-tmp0zr7o; ARG-tmpvalfs).
+  ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md); [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md)).
 - **Scope.** §3.1 states D ≤ N; the claim's "later when N ≪ D" lies beyond
   what was read.
 
-LIT-tmpipm3o leaves `grounds` for THEORY-tmp4zojc and THEORY-tmp0zr7o
-(ARG-tmppdhhb); THEORY-tmp0covn corroborates.
+[LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md) leaves `grounds` for [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md) and [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md)
+([ARG-tmppdhhb](../arguments.d/ARG-tmppdhhb.md)); [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md) corroborates.

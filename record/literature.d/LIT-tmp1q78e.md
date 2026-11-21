@@ -28,13 +28,13 @@ keywords: []
 implementations: []
 summary: >-
   Benaych-Georges & Nadakuditi (2012), arXiv 1103.2221; J. Multivariate
-  Anal. 111. Read in NOTE-tmpor0h4. The extreme singular values and
+  Anal. 111. Read in [NOTE-tmpor0h4](../notes.d/NOTE-tmpor0h4.md). The extreme singular values and
   singular vectors of a large random rectangular matrix plus a fixed-rank
   perturbation, with a threshold below which the perturbation is
   invisible. For a Gaussian matrix with a non-zero mean (§3.1), the
   threshold is a perturbation singular value above c^(1/4), with closed
   forms for the outlier and the overlaps. Here because the record's
-  mixture and mean-shift models (CASE-tmp59xy5, CLAIM-tmpk33au) are such
+  mixture and mean-shift models ([CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md), [CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)) are such
   additive perturbations, not spiked covariance samples.
 ---
 <!-- inactive-ok-file: NOTE-tmpor0h4 THEORY-tmp4zojc — Skimmed or Proposed; the reading of 2026-11-21 -->
@@ -47,8 +47,8 @@ Benaych-Georges & Nadakuditi (2012). arXiv 1103.2221; J. Multivariate Anal.
 
 ## Standing in the record
 
-Registered on 2026-11-21 as a supplement read beside LIT-tmpipm3o
-(ADR-114), and read in NOTE-tmpor0h4; the reading is THEORY-tmp4zojc.
-Already cited by NOTE-666 and LIT-862 for the coherence threshold of Saxe
-and colleagues' semantic development, and named in NOTE-659, without an
+Registered on 2026-11-21 as a supplement read beside [LIT-tmpipm3o](LIT-tmpipm3o.md)
+([ADR-114](../decisions.d/ADR-114.md)), and read in [NOTE-tmpor0h4](../notes.d/NOTE-tmpor0h4.md); the reading is [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md).
+Already cited by [NOTE-666](../notes.d/NOTE-666.md) and [LIT-862](LIT-862.md) for the coherence threshold of Saxe
+and colleagues' semantic development, and named in [NOTE-659](../notes.d/NOTE-659.md), without an
 entry of its own until now.

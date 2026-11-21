@@ -14,10 +14,10 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-tmpd1shn derives that in x(t+1) = a·x(t) + u(t) + η(t) the total
+  [CLAIM-tmpd1shn](../claims.d/CLAIM-tmpd1shn.md) derives that in x(t+1) = a·x(t) + u(t) + η(t) the total
   linear memory capacity for u is s²/(s² + σ²) at every |a| < 1, and called
   it "the scalar case of the bound" attributed to Dambre and colleagues.
-  Read (THEORY-tmpr5fuq), it is the equality case, Theorem 7, once η is
+  Read ([THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)), it is the equality case, Theorem 7, once η is
   counted as the paper's second i.i.d. input: over functions of u and η the
   capacities sum to N = 1 at every a, u's share is s²/(s² + σ²), and at
   σ² = s² it is ½ = N/K, the paper's own linear benchmark. That a does not
@@ -63,7 +63,7 @@ capacity for a single input should equal N/K" with K = 2 (Fig. 4).
 
 The claim's derivation is an instance of Theorem 7, not only of the bound,
 and its independence of a is the theorem's, since the conditions hold at
-every |a| < 1. THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in the claim's
+every |a| < 1. [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md) replaces [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md) in the claim's
 grounds. The readout-noise formula s²/(s² + σ² + ρ(1 − a²)) is not in the
 paper; it is consistent with it if ν is a third input entering only the
 observation. Nothing in the paper bears on the lag optimum a² = k/(k + 1).

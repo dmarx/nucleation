@@ -37,7 +37,7 @@ A15 opens on the hope: "**A system near criticality may be especially
 capable of preserving information about the past while remaining
 sensitive to new information from its environment.**" It then gives the
 reasons to doubt that it is a general advantage: a bound on total
-capacity (Dambre and colleagues, LIT-tmp7sbn6, read 2026-11-21: see the
+capacity (Dambre and colleagues, [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), read 2026-11-21: see the
 dated note), a three-way
 tradeoff of sensitivity, reliability and speed, and a finite-window study
 in which the best discrimination moves off the critical point
@@ -86,8 +86,8 @@ question one of control rather than of a fixed operating point, as
 
 ## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
 
-Dambre and colleagues' paper (LIT-tmp7sbn6, read in NOTE-tmpkp5gf; the
-reading is THEORY-tmpr5fuq) **answers the first part** of "What would
+Dambre and colleagues' paper ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), read in [NOTE-tmpkp5gf](../notes.d/NOTE-tmpkp5gf.md); the
+reading is [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)) **answers the first part** of "What would
 answer it" and **leaves the rest open**.
 
 - **Measure and bound: given**, for systems driven by i.i.d. input with a
@@ -101,7 +101,7 @@ answer it" and **leaves the rest open**.
   radius.
 - **Point 1, which transition.** The paper's edge is the stability edge
   of a deterministic map, neither branching criticality nor, strictly,
-  the onset of chaos; CLAIM-tmpyy261 separates chaos, criticality and
+  the onset of chaos; [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md) separates chaos, criticality and
   cascades, and this is a further thing.
 - **Point 3, which environment.** The paper takes i.i.d. input on purpose,
   "so that any measured structure will be due to the dynamical system
@@ -109,4 +109,4 @@ answer it" and **leaves the rest open**.
   insight". It cannot speak to the value of multiscale memory in a
   correlated environment.
 
-THEORY-tmpr5fuq `bears_on` this question.
+[THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md) `bears_on` this question.

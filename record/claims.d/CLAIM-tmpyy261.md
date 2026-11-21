@@ -144,12 +144,12 @@ outcomes").
 
 ## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
 
-A **contrast**, no edge. Dambre and colleagues (LIT-tmp7sbn6, read in
-NOTE-tmpkp5gf; THEORY-tmpr5fuq) put their reservoirs "close to the edge of
+A **contrast**, no edge. Dambre and colleagues ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), read in
+[NOTE-tmpkp5gf](../notes.d/NOTE-tmpkp5gf.md); [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)) put their reservoirs "close to the edge of
 stability" and measure capacity up to and past the undriven system's
 bifurcation. That edge is a third thing beside this claim's three: the
 loss of linear stability of a fixed point (spectral radius 1 for the echo
 state network), marginal stability, which is neither chaos nor
 criticality in the claim's senses, though the logistic map's route
 continues to the period-doubling accumulation point the claim names. The
-reading's bearing on computation is filed on CLAIM-tmpask80.
+reading's bearing on computation is filed on [CLAIM-tmpask80](CLAIM-tmpask80.md).

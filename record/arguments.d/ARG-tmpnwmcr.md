@@ -15,8 +15,8 @@ date: '2026-11-21'
 line:
 - learned-structure
 summary: >-
-  CLAIM-tmp5y856 says the top eigenvector carries information about the
-  spike's direction only above β = √(D/N), and CASE-tmp59xy5, which
+  [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md) says the top eigenvector carries information about the
+  spike's direction only above β = √(D/N), and [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md), which
   illustrates it, gives the squared overlap (1 − γ/β²)/(1 + γ/β). The BBP
   paper has nothing on eigenvectors. Paul's Theorem 4 (real Gaussian,
   γ < 1) and Benaych-Georges and Nadakuditi's (10) (additive model) both
@@ -42,7 +42,7 @@ for θ ≥ c^(1/4), 0 otherwise. With β = ℓ − 1 = θ² and c = γ both are
 **Does the mapping premise hold?** Yes, by the identity above; the
 threshold is the same point at which the eigenvalue separates.
 
-**Are the models' assumptions met?** CLAIM-tmp5y856's spiked covariance
+**Are the models' assumptions met?** [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)'s spiked covariance
 Σ = I + βvvᵀ with real Gaussian samples is Paul's model, for γ < 1. For
 γ ≥ 1 Paul is silent; Benaych-Georges and Nadakuditi's general theorems
 cover the additive model there by transposition, but the record has read
@@ -51,7 +51,7 @@ for γ ≥ 1 by neither as read. The claim's simulations are at γ ≤ 1.
 
 ## Verdict
 
-THEORY-tmp6808g goes into CLAIM-tmp5y856's grounds; THEORY-tmp4zojc
+[THEORY-tmp6808g](../theory.d/THEORY-tmp6808g.md) goes into [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)'s grounds; [THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md)
 corroborates it (its model is the additive one, which the claim's case uses
-but the claim's own statement does not). CASE-tmp59xy5 draws on both for
+but the claim's own statement does not). [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md) draws on both for
 its overlap.

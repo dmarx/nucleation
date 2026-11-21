@@ -46,8 +46,8 @@ Not Sozou's own treatment of preference reversal or updating; not that every spr
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-A **parallel**, with no edge. Mitzenmacher's §7 (LIT-tmpwdtfj, read in
-NOTE-tmp0rhkc; THEORY-tmp23821) has this account's structure with the roles
+A **parallel**, with no edge. Mitzenmacher's §7 ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in
+[NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); [THEORY-tmp23821](THEORY-tmp23821.md)) has this account's structure with the roles
 moved: a family indexed by time, here a lognormal of variance t, averaged
 over an exponential distribution of the time, gives a power law,
 ∫ λe^(−λt)·lognormal_t dt ∝ x^(−1−√(2λ)) for x above 1. Sozou averages

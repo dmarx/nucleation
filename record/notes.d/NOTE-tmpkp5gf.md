@@ -41,7 +41,7 @@ linear and nonlinear, short and long memory, that a driven system does
 with a linear readout, and the theorem that its total is fixed by the
 number of independent observed variables. It generalizes Jaeger's (2002)
 linear memory capacity to a complete basis of functions of the input
-history. The reading is THEORY-tmpr5fuq.
+history. The reading is [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md).
 
 ## Key results
 
@@ -109,7 +109,7 @@ unobserved input; the link to Wiener-series system modelling.
 
 ## Bearing on the record
 
-- **CLAIM-tmpask80** (supports strand 2, qualifies the thesis). The bound
+- **[CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md)** (supports strand 2, qualifies the thesis). The bound
   and the redistribution between linear memory and nonlinearity are here.
   But the total is *constant* at N throughout the fading-memory regime and
   *falls* past the edge (Fig. 1), so for this measure nearness to the edge
@@ -117,30 +117,30 @@ unobserved input; the link to Wiener-series system modelling.
   redistribution the paper shows is driven by input scaling at a fixed
   spectral radius, not by distance from the transition; and its edge is the
   undriven system's loss of linear stability, not a collective critical
-  point. ARG-tmp53559.
-- **ARG-tmpubyzo** (supports, and closes its stated gap). The conditions it
+  point. [ARG-tmp53559](../arguments.d/ARG-tmp53559.md).
+- **[ARG-tmpubyzo](../arguments.d/ARG-tmpubyzo.md)** (supports, and closes its stated gap). The conditions it
   had not checked are: for the bound, i.i.d. input, a linear readout and
   infinite data; for equality, fading memory and rank N, with noise
   counted as an input. "Raises nothing in total" holds for every
   fading-memory system with N independent variables; how the allocation
   moves with distance from the edge is not studied.
-- **CLAIM-tmpd1shn** (an instance of Theorem 7). The scalar reservoir with
+- **[CLAIM-tmpd1shn](../claims.d/CLAIM-tmpd1shn.md)** (an instance of Theorem 7). The scalar reservoir with
   |a| < 1 has fading memory and N = 1. With η as the paper's second input
   v, x lies in the span of the degree-one functions of u and η, so over the
   full basis the capacities sum to 1 at every a; the u-functions take
   s²/(s² + σ²). At σ² = s² the u-share is ½ = N/K with K = 2, the paper's
   linear benchmark. The claim's "scalar case of the bound" understates it:
   it is the equality case. The readout-noise result is not in the paper.
-  ARG-tmpr04sw.
-- **QUESTION-tmp2hhlc** (answers the first part). A capacity measure and its
+  [ARG-tmpr04sw](../arguments.d/ARG-tmpr04sw.md).
+- **[QUESTION-tmp2hhlc](../questions.d/QUESTION-tmp2hhlc.md)** (answers the first part). A capacity measure and its
   bound, for i.i.d.-driven systems with a linear readout; not the
   allocation against distance from a transition. The i.i.d. input is
   chosen "so that any measured structure will be due to the dynamical
   system itself", so the paper cannot speak to point 3, the environment.
-- **CLAIM-tmpyy261** (bears on it). The paper's edge is the stability edge
+- **[CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md)** (bears on it). The paper's edge is the stability edge
   of a deterministic map: neither chaos in the strict sense nor branching
   criticality.
-- **THEORY-1431, NOTE-1907, NOTE-1988** (a parallel, a background and a
+- **[THEORY-1431](../theory.d/THEORY-1431.md), [NOTE-1907](NOTE-1907.md), [NOTE-1988](NOTE-1988.md)** (a parallel, a background and a
   contrast; no edges). The origami reservoir is a physical system with a
   trained linear readout to which the measure would apply; Andrieu and
   colleagues' contraction is the condition that gives fading memory;

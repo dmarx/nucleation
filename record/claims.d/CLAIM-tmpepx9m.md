@@ -64,7 +64,7 @@ does not guarantee this result. The combination of growth, the form of
 attachment, and other model assumptions determines the distribution." And
 "unequal outcomes can arise without unequal innate abilities", though
 "observed success can reflect a mixture of quality, luck, timing, and
-cumulative advantage". A3 cites Mitzenmacher's review (LIT-tmpwdtfj) here;
+cumulative advantage". A3 cites Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)) here;
 read, the review does not say this (corrected 2026-11-21: see the note of
 that date below). A3's
 Alice and Bob make the point that under linear attachment the leader
@@ -126,8 +126,8 @@ agree.
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review (LIT-tmpwdtfj) was read in full (NOTE-tmp0rhkc;
-the reading is THEORY-tmp23821). It **corroborates** one clause and the
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)) was read in full ([NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md);
+the reading is [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)). It **corroborates** one clause and the
 history, and does not carry the sentence it was cited beside.
 
 - **Supports.** The feedback's lineage, Yule (1925), Simon (1955) and the
@@ -140,10 +140,10 @@ history, and does not carry the sentence it was cited beside.
   guarantee this result". The review never varies the kernel's exponent,
   never removes entry, and has no such sentence. Its α is a mixing
   probability, not the exponent of k^α. The kernel regimes in the claim's
-  title are Krapivsky, Redner and Leyvraz's (LIT-tmp959qu, unread) and the
-  filing's simulations; the need for entry is CLAIM-tmply70l's
+  title are Krapivsky, Redner and Leyvraz's ([LIT-tmp959qu](../literature.d/LIT-tmp959qu.md), unread) and the
+  filing's simulations; the need for entry is [CLAIM-tmply70l](CLAIM-tmply70l.md)'s
   derivation.
 
-So LIT-tmpwdtfj leaves this claim's `grounds`, and THEORY-tmp23821
-`corroborates` it; ARG-tmpuhci1 gives the reasons. The claim's status is
+So [LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md) leaves this claim's `grounds`, and [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)
+`corroborates` it; [ARG-tmpuhci1](../arguments.d/ARG-tmpuhci1.md) gives the reasons. The claim's status is
 unchanged.

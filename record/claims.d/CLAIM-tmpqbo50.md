@@ -173,20 +173,20 @@ separated by a window of stated width.
 
 ## Note of 2026-11-21: Baik, Ben Arous and Péché, read
 
-The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
+The BBP paper ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read in [NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md); [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md))
 **supports the formulas** and **qualifies the range**.
 
 - The outlier σ²(1 + ℓ)(1 + γ/ℓ) and the edge σ²(1 + √γ)² are BBP's
   Corollary 1.1 rescaled by σ².
 - **The γ = 4 row is outside BBP**, which needs at least as many samples
   as variables (γ ≤ 1). It is inside Baik and Silverstein's theorem
-  (LIT-tmpjtw0k, THEORY-tmp0zr7o), which holds at any ratio with the same
-  threshold 1 + √γ and location, for real samples (ARG-tmpvalfs). The row
+  ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md)), which holds at any ratio with the same
+  threshold 1 + √γ and location, for real samples ([ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md)). The row
   stands on that theorem.
 - With φ independent of ξ and not Gaussian, h = bφu + σξ is an additive
-  rank-one model, Benaych-Georges and Nadakuditi's (THEORY-tmp4zojc), with
+  rank-one model, Benaych-Georges and Nadakuditi's ([THEORY-tmp4zojc](../theory.d/THEORY-tmp4zojc.md)), with
   the same formulas.
 - The window's lower end, an outlier within about N^(−2/3) of the edge, is
   BBP's edge scale (Theorem 1.1(a)).
 
-THEORY-tmp0zr7o joins `grounds`; THEORY-tmp0covn corroborates.
+[THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md) joins `grounds`; [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md) corroborates.

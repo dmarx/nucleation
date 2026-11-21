@@ -27,13 +27,13 @@ keywords: []
 implementations: []
 summary: >-
   Baik & Silverstein (2006), arXiv math/0408165; J. Multivariate Anal. 97.
-  Read in NOTE-tmpmlr3x. Almost-sure limits for the sample eigenvalues of
+  Read in [NOTE-tmpmlr3x](../notes.d/NOTE-tmpmlr3x.md). Almost-sure limits for the sample eigenvalues of
   a spiked population model with real or complex, not necessarily
   Gaussian, samples at any ratio of variables to samples: each spike above
   1 + √c gives its own outlier at α + cα/(α − 1). Here because the
-  record's spiked-matrix claims (CLAIM-tmp5y856, CLAIM-tmp8mvx8,
-  CLAIM-tmpqbo50, CLAIM-tmpk33au) are about real data, several outliers or
-  D > N, which the BBP paper (LIT-tmpipm3o) does not cover.
+  record's spiked-matrix claims ([CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md), [CLAIM-tmp8mvx8](../claims.d/CLAIM-tmp8mvx8.md),
+  [CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md), [CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)) are about real data, several outliers or
+  D > N, which the BBP paper ([LIT-tmpipm3o](LIT-tmpipm3o.md)) does not cover.
 ---
 <!-- inactive-ok-file: NOTE-tmpmlr3x THEORY-tmp0zr7o — Skimmed or Proposed; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmp5y856 CLAIM-tmp8mvx8 CLAIM-tmpqbo50 CLAIM-tmpk33au — Proposed; the claims that rely on this work -->
@@ -44,7 +44,7 @@ Baik & Silverstein (2006). arXiv math/0408165; J. Multivariate Anal. 97.
 
 ## Standing in the record
 
-Registered on 2026-11-21 as a supplement read beside LIT-tmpipm3o
-(ADR-114), and read in NOTE-tmpmlr3x; the reading is THEORY-tmp0zr7o. It
+Registered on 2026-11-21 as a supplement read beside [LIT-tmpipm3o](LIT-tmpipm3o.md)
+([ADR-114](../decisions.d/ADR-114.md)), and read in [NOTE-tmpmlr3x](../notes.d/NOTE-tmpmlr3x.md); the reading is [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md). It
 carries the spiked threshold and outlier location into the settings the
 record's claims use: real samples, any aspect ratio, several spikes.

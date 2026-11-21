@@ -66,7 +66,7 @@ Let u and η be independent white sequences of variance s² and σ², and
   of its variance.
 - **Total capacity.** Σ_{k≥0} m_k = s²/(s² + σ²), independent of a. At
   σ = 0 it is 1, the number of state variables: the scalar case of the
-  bound A attributes to Dambre and colleagues (LIT-tmp7sbn6, read 2026-11-21:
+  bound A attributes to Dambre and colleagues ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), read 2026-11-21:
   the equality case of their Theorem 7, see the dated note), and
   of Jaeger's earlier bound on linear memory capacity, not registered.
 - **Where the gain matters.** It moves capacity between lags: at a = 0.5,
@@ -110,9 +110,9 @@ runs of 4,000,000 steps summed over 1,500 lags gave 0.804, 0.795 and
 
 ## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
 
-Dambre and colleagues' paper (LIT-tmp7sbn6) was read in full with its
-supplement (NOTE-tmpkp5gf; the reading is THEORY-tmpr5fuq). It **supports**
-the claim, which turns out to be **a case of its Theorem 7** (ARG-tmpr04sw).
+Dambre and colleagues' paper ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md)) was read in full with its
+supplement ([NOTE-tmpkp5gf](../notes.d/NOTE-tmpkp5gf.md); the reading is [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)). It **supports**
+the claim, which turns out to be **a case of its Theorem 7** ([ARG-tmpr04sw](../arguments.d/ARG-tmpr04sw.md)).
 
 - With |a| < 1 the reservoir has fading memory and N = 1. Count η as the
   paper's second i.i.d. input v: x lies in the span of the degree-one
@@ -133,4 +133,4 @@ the claim, which turns out to be **a case of its Theorem 7** (ARG-tmpr04sw).
   ν is a third input that enters only the observation. Nothing in the
   paper bears on the lag optimum a² = k/(k + 1).
 
-THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in `grounds`. Status unchanged.
+[THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md) replaces [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md) in `grounds`. Status unchanged.

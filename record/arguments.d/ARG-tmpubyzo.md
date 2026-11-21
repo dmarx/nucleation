@@ -61,7 +61,7 @@ stability, not a collective critical point.
 
 - **Not the generality.** One linear scalar case cannot show that every
   system near every transition redistributes rather than raises. That
-  rests on Dambre and colleagues' bound (LIT-tmp7sbn6), whose conditions
+  rests on Dambre and colleagues' bound ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md)), whose conditions
   were unchecked when this argument was filed. (Revised 2026-11-21, after
   the reading: see the note of that date below. The generality holds for
   the total, not for how the allocation moves with distance from the
@@ -74,8 +74,8 @@ stability, not a collective critical point.
 
 ## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
 
-Dambre and colleagues' paper (LIT-tmp7sbn6) was read in full with its
-supplement (NOTE-tmpkp5gf; the reading is THEORY-tmpr5fuq). It **supports**
+Dambre and colleagues' paper ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md)) was read in full with its
+supplement ([NOTE-tmpkp5gf](../notes.d/NOTE-tmpkp5gf.md); the reading is [THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)). It **supports**
 this argument and **closes the gap** its "What it does not show" named.
 
 - **The conditions, checked.** The bound (Theorem 4) needs only i.i.d.
@@ -86,8 +86,8 @@ this argument and **closes the gap** its "What it does not show" named.
   functions of all inputs, and the capacities for the signal alone sum to
   less. As first filed, this argument named the conditions "(fading
   memory, i.i.d. input)", which ran the two together.
-- **Not merely analogous.** CLAIM-tmpd1shn is a case of Theorem 7, with N =
-  1 and η as the second input (ARG-tmpr04sw).
+- **Not merely analogous.** [CLAIM-tmpd1shn](../claims.d/CLAIM-tmpd1shn.md) is a case of Theorem 7, with N =
+  1 and η as the second input ([ARG-tmpr04sw](ARG-tmpr04sw.md)).
 - **How general.** "Raises nothing in total" holds for every fading-memory
   system with N independent observed variables: their total is N
   throughout that regime, and the paper finds it falling past the
@@ -98,5 +98,5 @@ this argument and **closes the gap** its "What it does not show" named.
 - **Which edge.** The paper's edge is linear stability, as this argument
   already says of a = 1.
 
-THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in `grounds`. ARG-tmp53559 gives the
-paper's direct bearing on CLAIM-tmpask80. Status unchanged.
+[THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md) replaces [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md) in `grounds`. [ARG-tmp53559](ARG-tmp53559.md) gives the
+paper's direct bearing on [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md). Status unchanged.

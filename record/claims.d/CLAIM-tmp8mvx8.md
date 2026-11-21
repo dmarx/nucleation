@@ -77,8 +77,8 @@ invisible, so the formula overcounts near threshold even in the sparse
 regime (rows 1 and 3).
 
 The threshold the count applies is Baik, Ben Arous and Péché's
-(LIT-tmpipm3o), read on 2026-11-21; the count of several outliers is Baik
-and Silverstein's (LIT-tmpjtw0k): see the note of 2026-11-21 below. The simulation
+([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)), read on 2026-11-21; the count of several outliers is Baik
+and Silverstein's ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md)): see the note of 2026-11-21 below. The simulation
 counts outliers directly against the edge of the noise bulk, so the check
 does not depend on the work.
 
@@ -94,13 +94,13 @@ does not depend on the work.
 
 ## Note of 2026-11-21: Baik, Ben Arous and Péché, read
 
-The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
+The BBP paper ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read in [NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md); [THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md))
 **qualifies** the attribution and **supports** both corrections above.
 
 - **The count is not BBP's.** BBP gives the law of the largest eigenvalue
   only. That each spike above threshold gives its own outlier is Baik and
   Silverstein's (1.10), for real or complex samples and a fixed number of
-  spikes (LIT-tmpjtw0k, THEORY-tmp0zr7o; ARG-tmpvalfs). A hierarchy whose
+  spikes ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md), [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md); [ARG-tmpvalfs](../arguments.d/ARG-tmpvalfs.md)). A hierarchy whose
   rank grows with D is outside both, which row 5 shows: this supports
   "Sparse regime only".
 - **Which N.** BBP's M is the number of samples from which the covariance
@@ -112,5 +112,5 @@ The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
   M^(−1/3) in the spike (for complex data; the real case is conjectured
   there to scale the same way).
 
-LIT-tmpipm3o leaves `grounds` for THEORY-tmp0zr7o (ARG-tmppdhhb);
-THEORY-tmp0covn corroborates.
+[LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md) leaves `grounds` for [THEORY-tmp0zr7o](../theory.d/THEORY-tmp0zr7o.md) ([ARG-tmppdhhb](../arguments.d/ARG-tmppdhhb.md));
+[THEORY-tmp0covn](../theory.d/THEORY-tmp0covn.md) corroborates.

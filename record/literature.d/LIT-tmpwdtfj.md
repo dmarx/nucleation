@@ -26,13 +26,13 @@ keywords: []
 implementations: []
 summary: >-
   Mitzenmacher (2004), Internet Mathematics 1(2): 226–251. Read in
-  NOTE-tmp0rhkc. A survey of generative models: preferential attachment
+  [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md). A survey of generative models: preferential attachment
   from Yule and Simon to the Web graph, Mandelbrot's optimization, Gibrat's
   multiplicative lognormal, Miller's random typing, and the small changes
   that turn a lognormal into a power law, a lower reflecting barrier
   (Champernowne) or an exponentially distributed observation time (Reed's
   double Pareto). Here for the record's power-law mechanism claims
-  (CLAIM-tmpiervv, CLAIM-tmp8h6nt, CLAIM-tmp1dlyp), which it corroborates;
+  ([CLAIM-tmpiervv](../claims.d/CLAIM-tmpiervv.md), [CLAIM-tmp8h6nt](../claims.d/CLAIM-tmp8h6nt.md), [CLAIM-tmp1dlyp](../claims.d/CLAIM-tmp1dlyp.md)), which it corroborates;
   it does not state Kesten's exponent equation or treat nonlinear
   attachment kernels.
 ---
@@ -47,7 +47,7 @@ Mitzenmacher (2004). Internet Mathematics 1(2): 226–251. DOI
 
 Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A names it at A3 for the review of generative models that separate power-law from lognormal outcomes. It bears on the exchange's contrast between preferential attachment and multiplicative (lognormal) growth.
 
-Read on 2026-11-21 in NOTE-tmp0rhkc; the reading is THEORY-tmp23821. The
+Read on 2026-11-21 in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); the reading is [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md). The
 exchange's reasons for citing it hold, with three cautions: its floor is a
 reflecting minimum, not Kesten's additive term, and it gives no exponent
 equation or conditions; it has nothing on attachment kernels other than

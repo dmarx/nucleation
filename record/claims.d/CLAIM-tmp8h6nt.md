@@ -118,8 +118,8 @@ intervention, and no source. They are noted here and not filed.
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
-THEORY-tmp23821) **supports the first clause** and does not reach the
+Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); the reading is
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md)) **supports the first clause** and does not reach the
 remedy. "Just because one finds a compelling mechanism to explain a power
 law does not mean that there are not other, perhaps simpler, explanations"
 (§6, p. 238) is nearly the claim's opening. It shows Zipf's law reached by
@@ -129,6 +129,6 @@ for several orders of magnitude" (§2), so that "it is not clear that a
 definitive answer is possible" (§8). It **qualifies** nothing here but
 leaves the second half unsupported: §2 calls the log-log line "a simple
 empirical test", and there is no fitting method and none of the three
-dynamical tests. THEORY-tmp23821 replaces the work in `grounds`
-(ARG-tmpl9rzj). Random typing and optimization are also mechanisms
-CLAIM-tmp1dlyp's catalogue leaves out (see its note of this date).
+dynamical tests. [THEORY-tmp23821](../theory.d/THEORY-tmp23821.md) replaces the work in `grounds`
+([ARG-tmpl9rzj](../arguments.d/ARG-tmpl9rzj.md)). Random typing and optimization are also mechanisms
+[CLAIM-tmp1dlyp](CLAIM-tmp1dlyp.md)'s catalogue leaves out (see its note of this date).

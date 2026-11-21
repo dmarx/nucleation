@@ -14,8 +14,8 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-tmpiervv grounded itself in Kesten (LIT-tmpx9axf), Mitzenmacher
-  (LIT-tmpwdtfj) and THEORY-696. Read, Mitzenmacher gives the claim's
+  [CLAIM-tmpiervv](../claims.d/CLAIM-tmpiervv.md) grounded itself in Kesten ([LIT-tmpx9axf](../literature.d/LIT-tmpx9axf.md)), Mitzenmacher
+  ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)) and [THEORY-696](../theory.d/THEORY-696.md). Read, Mitzenmacher gives the claim's
   lognormal half (§5) and a floor turning it into a power law (§5.1), but
   the floor is a reflecting minimum, not the additive term B of
   W' = AW + B, and the paper states neither E[A^κ] = 1 nor any condition.
@@ -32,10 +32,10 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpiervv: i.i.d. multiplicative growth gives a lognormal; the same
+[CLAIM-tmpiervv](../claims.d/CLAIM-tmpiervv.md): i.i.d. multiplicative growth gives a lognormal; the same
 growth "with an additive floor" gives a stationary Pareto tail with κ
 solving E[A^κ] = 1, even when E[log A] < 0. Read as a source,
-THEORY-tmp23821 would carry both halves.
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md) would carry both halves.
 
 ## Critical questions (source)
 
@@ -67,6 +67,6 @@ observation time is random or a lower boundary is put into effect".
 
 ## Verdict
 
-LIT-tmpwdtfj moves from the claim's grounds to `corroborates` on
-THEORY-tmp23821. The claim's "additive floor" is one kind of floor; a
-reflecting barrier is another, and a dated note on CLAIM-tmpiervv says so.
+[LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md) moves from the claim's grounds to `corroborates` on
+[THEORY-tmp23821](../theory.d/THEORY-tmp23821.md). The claim's "additive floor" is one kind of floor; a
+reflecting barrier is another, and a dated note on [CLAIM-tmpiervv](../claims.d/CLAIM-tmpiervv.md) says so.

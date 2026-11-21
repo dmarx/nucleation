@@ -273,6 +273,6 @@ old envelope, and [LIT-883](../literature.d/LIT-883.md)'s steps are what its ans
 A **contrast**, no edge. The resolvability bound here, a mode resolvable
 above P^(−1/2) by matrix Bernstein and Weyl, is a sufficient condition from
 a worst-case perturbation bound. The BBP threshold it is compared to, now
-read (LIT-tmpipm3o, NOTE-tmpggv08; for real data Baik and Silverstein,
-LIT-tmpjtw0k), is sharp in the proportional limit: a spike β is seen
+read ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), [NOTE-tmpggv08](NOTE-tmpggv08.md); for real data Baik and Silverstein,
+[LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md)), is sharp in the proportional limit: a spike β is seen
 exactly when β > √(D/N). The two differ in kind, not only in constant.

@@ -27,7 +27,7 @@ corroborates:
 bears_on:
 - QUESTION-tmp21jtb
 summary: >-
-  Mitzenmacher (2004), LIT-tmpwdtfj, read in NOTE-tmp0rhkc. A survey: its
+  Mitzenmacher (2004), [LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md). A survey: its
   results are other people's, given intuitively. What the record uses is
   the map of small changes (a floor, a random observation time) that turn
   multiplicative growth's lognormal into a power law, and the warning that
@@ -40,8 +40,8 @@ summary: >-
 
 ## Source
 
-Mitzenmacher (2004), Internet Mathematics 1(2): 226–251, LIT-tmpwdtfj, read
-in full in NOTE-tmp0rhkc.
+Mitzenmacher (2004), Internet Mathematics 1(2): 226–251, [LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read
+in full in [NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md).
 
 ## The account
 

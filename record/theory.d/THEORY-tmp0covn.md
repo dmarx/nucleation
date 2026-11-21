@@ -24,12 +24,12 @@ corroborates:
 bears_on:
 - QUESTION-tmp7d1ws
 summary: >-
-  Baik, Ben Arous and Péché (2005), LIT-tmpipm3o, read in NOTE-tmpggv08:
+  Baik, Ben Arous and Péché (2005), [LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read in [NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md):
   the BBP transition. The record's spiked-matrix claims use its threshold
   and outlier, but for real data, eigenvectors, more variables than samples
   and several outliers they rest on Baik and Silverstein, Paul, and
   Benaych-Georges and Nadakuditi, which this paper corroborates
-  (ARG-tmppdhhb). Proposed until a second reading confirms it.
+  ([ARG-tmppdhhb](../arguments.d/ARG-tmppdhhb.md)). Proposed until a second reading confirms it.
 ---
 <!-- inactive-ok-file: THEORY-tmp0zr7o ARG-tmppdhhb — Proposed; the neighbouring reading and the argument of 2026-11-21 -->
 
@@ -38,7 +38,7 @@ summary: >-
 ## Source
 
 Baik, Ben Arous and Péché, arXiv math/0403022v2; Ann. Probab. 33(5), 2005.
-LIT-tmpipm3o, read in NOTE-tmpggv08 (§1, §2.1, §6; proofs skipped).
+[LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), read in [NOTE-tmpggv08](../notes.d/NOTE-tmpggv08.md) (§1, §2.1, §6; proofs skipped).
 
 ## The account
 
@@ -60,7 +60,7 @@ M^(−1/3) in ℓ (Theorem 1.2).
 ## What this does not say
 
 - Not the real case, which it states as a conjecture; Baik and Silverstein
-  give the almost-sure limits for it (THEORY-tmp0zr7o).
+  give the almost-sure limits for it ([THEORY-tmp0zr7o](THEORY-tmp0zr7o.md)).
 - Not anything about eigenvectors.
 - Not the case of more variables than samples.
 - Not why the threshold is where it is: "we do not have an intuitive
