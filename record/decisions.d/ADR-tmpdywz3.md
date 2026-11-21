@@ -15,9 +15,9 @@ summary: >-
   lost without anyone deciding to drop it. Shared descriptions are now
   divided into sections opened by markers. Each writer edits its own
   sections and copies the rest through unchanged. The owner's inline rulings
-  are removed only by the owner. An edit reads the body and its update time
-  just before writing, writes only if it is unchanged, and reads the body
-  back. A wrong line is corrected, not the body rebuilt. Rejected: choices
+  are removed only by the owner. An edit compares the body's text just before
+  writing with the text it last read, writes only if it is unchanged, and
+  reads the body back. A wrong line is corrected, not the body rebuilt. Rejected: choices
   as comments, a file on staging, and a single writer.
 ---
 
@@ -41,7 +41,7 @@ GitHub keeps one body, and the last write wins. At 08:08 the other session rewro
    - **Choices:** whoever adds a choice keeps it, and marks it done when it is done.
    - **The owner's rulings,** written inside the choices section, are never removed or reworded by anyone but the owner.
    - A writer copies every section it does not keep through byte for byte.
-3. **Read, then write, then check.** Read the body and its `updated_at` immediately before writing. Write only if `updated_at` is unchanged since that read; otherwise read again and merge into the newer body. After writing, read the body back once and confirm the other sections are intact.
+3. **Read, then write, then check.** Keep the body as last read, and compare it with the body as it is immediately before writing: the text, not the pull request's `updated_at`, which also moves whenever the pull request's head moves. Write only if the text is unchanged; otherwise merge into the newer text. After writing, read the body back once and confirm the other sections are intact.
 4. **Correct the line, do not rebuild the body.** A writer who finds a section wrong fixes the wrong line, in that section, and says so in the turn that does it.
 5. **Scope.** This applies to any pull request description with more than one writer. The promotion pull request is the standing case. A pull request with one writer needs no markers.
 
@@ -55,3 +55,4 @@ GitHub keeps one body, and the last write wins. At 08:08 the other session rewro
 
 - The first application is the open promotion pull request, 599. Its description is restructured into marked sections in the turn this decision is filed, with nothing removed.
 - CLAUDE.md's paragraph on working through staging, which says to add the choices waiting to the promotion pull request, gains a pointer to this decision.
+- Found in the first application: `updated_at` is not the check. Merging a pull request into staging moved #599's head and its `updated_at` with no change to the text, so the decision compares the text itself.
