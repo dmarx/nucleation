@@ -1,7 +1,13 @@
 ---
-status: Draft
+status: Accepted
 title: "The filing of Rich Get Richer Power Laws and the evening after: an exchange, eight readings, a manuscript refresh and two decisions on how the record files, in five pull requests; what went right was separate readers checking the drafters' work and the owner's corrections becoming rules the same evening, and what went wrong was the assistant settling for one reading, one framing or one file where the owner wanted all of them"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Accepted at the owner's "adopt" of 2026-11-21. The recommendations
+    became ADR-tmpw70lb (1 and 5) and ADR-tmp9sp9d (2 to 4).
 tags:
 - record
 date: '2026-11-21'
@@ -17,6 +23,9 @@ reviews:
 - ADR-128
 - ADR-tmpcb96w
 - ADR-tmp44npm
+prompted:
+- ADR-tmpw70lb
+- ADR-tmp9sp9d
 pull_requests:
 - https://github.com/dmarx/nucleation/pull/608
 - https://github.com/dmarx/nucleation/pull/609
@@ -53,7 +62,7 @@ summary: >-
   periodic executive summaries. The review is the assistant's (Claude, in this
   session); adopting its recommendations is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpcb96w ADR-tmpcjfyy CLAIM-tmpcg4uu CLAIM-tmp7ijze CLAIM-tmpewm5i — Proposed, Rejected or new; the entries this review names -->
+<!-- inactive-ok-file: ADR-tmpcjfyy CLAIM-tmpcg4uu CLAIM-tmp7ijze CLAIM-tmpewm5i — Proposed, Rejected or new; the entries this review names -->
 
 # RETRO-tmpd00ym: The filing of Rich Get Richer Power Laws and the evening after: an exchange, eight readings, a manuscript refresh and two decisions on how the record files, in five pull requests; what went right was separate readers checking the drafters' work and the owner's corrections becoming rules the same evening, and what went wrong was the assistant settling for one reading, one framing or one file where the owner wanted all of them
 
@@ -118,6 +127,14 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
    - **The staging and promotion pull requests stay the place to intervene,** not the place to follow along. This is a change in how the dialectic regime is conducted, so a decision amending [ADR-127](../decisions.d/ADR-127.md)'s practice is the natural home once the owner rules on it.
 
 [ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md) (gap filling) waits on the owner's adoption and is not reviewed here beyond its first application, which went well. The four corrections in "What did not go well" each came from the owner; the separate readers caught everything else.
+
+## The owner's responses, 2026-11-21
+
+The owner: "adopt". The assistant read it as covering both things then waiting on the owner: this review with its five recommendations, and [ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md). Both were taken ([ADR-tmpw70lb](../decisions.d/ADR-tmpw70lb.md), its first rule).
+
+- **1 and 5:** adopted as [ADR-tmpw70lb](../decisions.d/ADR-tmpw70lb.md), conduct in the dialectic regime: think out loud, relay findings, executive summaries, and file every reading before asking.
+- **2, 3 and 4:** adopted as [ADR-tmp9sp9d](../decisions.d/ADR-tmp9sp9d.md), parallel filing in one working tree.
+- **[ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md):** Active.
 
 ## What it does not say
 

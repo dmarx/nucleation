@@ -1,0 +1,52 @@
+---
+status: Active
+title: "In the dialectic regime the assistant thinks out loud while filing, relays what delegated work finds, closes each batch with an executive summary, and files every reading of an ambiguous turn before asking which was meant"
+version: 1
+tags:
+- record
+date: '2026-11-21'
+summary: >-
+  Active at the owner's "adopt" of 2026-11-21, which accepted the
+  retrospective [RETRO-tmpd00ym](../retrospectives.d/RETRO-tmpd00ym.md) and its recommendations 1 and 5. The
+  owner's earmark (devlog of 22:30:41): 'one of the reasons I chose the name 'dialectic' for this mode of engagement was to evoke exchanging ideas. it would be helpful if you were more transparent within this space about what you are filing so I have an opportunity to monitor your activity. maybe more 'thinking out loud' in addition to something like a periodic checkin to provide an executive summary could be helpful.' The
+  regime's rule that every turn that files ends with a Filed block
+  ([ADR-127](ADR-127.md)) was being met, but a Filed block is a receipt, and the
+  reasoning that decided what to file lived in briefs, commits and pull
+  requests. Decided: say what is being filed and why before or while
+  filing; relay what delegated work found and decided, not only codes;
+  close each batch, or a long stretch, with a short executive summary;
+  and, where a turn admits several readings, file each before asking
+  which was meant. The pull requests stay the place to intervene.
+  Rejected: a fixed check-in schedule, and a separate channel. Amends
+  the practice of [ADR-127](ADR-127.md) without changing its rules.
+---
+
+# ADR-tmpw70lb: In the dialectic regime the assistant thinks out loud while filing, relays what delegated work finds, closes each batch with an executive summary, and files every reading of an ambiguous turn before asking which was meant
+
+## Context
+
+The dialectic regime ([ADR-127](ADR-127.md)) has the assistant file the argument an exchange develops as it goes, end each turn that files with a Filed block, and leave the staging and promotion pull requests as the owner's place to intervene. On the evening of 2026-11-21 that was met to the letter. But the owner caught the assistant four times settling for less than the record wanted ([RETRO-tmpd00ym](../retrospectives.d/RETRO-tmpd00ym.md)), and three of those catches came when the owner happened to read a result. The reasoning behind each filing was out of sight: in drafters' briefs, commit messages and pull-request descriptions, which the owner follows only through GitHub. The owner earmarked it for the retro: "one of the reasons I chose the name "dialectic" for this mode of engagement was to evoke exchanging ideas. it would be helpful if you were more transparent within this space about what you are filing so I have an opportunity to monitor your activity. maybe more "thinking out loud" in addition to something like a periodic checkin to provide an executive summary could be helpful."
+
+Twice in the same evening, a turn that admitted several readings ended by asking which was meant, though CLAUDE.md already said to file each.
+
+## Decision
+
+While the dialectic regime is on:
+
+- **Think out loud.** Before or while filing, the assistant says in the conversation what it is about to file and why: the readings it sees, the entry kind it chooses, its lean, and what it is leaving out. The Filed block then confirms what the owner has already seen proposed.
+- **Relay what delegated work finds.** When a reader, drafter or checker reports, the assistant says what was found and decided, and what it changes in the record's argument, not only which codes were filed.
+- **Executive summaries.** At the close of each batch, and after any long stretch of filing, the assistant gives a short summary: what changed in the record's argument, what waits on the owner, and what it would do next.
+- **File every reading first.** A turn that would end by asking the owner which reading was meant instead files each reading, marked as alternatives, and says which the assistant leans to. It asks only where the readings conflict or cannot all be filed.
+- **The pull requests stay the place to intervene,** not the place to follow along.
+
+## Alternatives considered
+
+- **A fixed check-in schedule** (every N turns, or every hour). Batches vary too much in size for any fixed period, and a summary is most useful where a batch closes.
+- **A separate channel** (a status page or digest file). The owner asked for the conversation itself: "I'd like to maintain the more natural discoursive flow for exchanging ideas that we have in the chat here."
+- **Status quo.** The Filed block alone, which is what the retrospective found wanting.
+
+## Consequences
+
+- CLAUDE.md's paragraph on the dialectic regime gains two sentences, in this pull request.
+- Turns get longer before they file. The cost is paid in words, against corrections caught before rather than after filing.
+- The first application was the turn that proposed this decision, which set out its plan before filing it.
