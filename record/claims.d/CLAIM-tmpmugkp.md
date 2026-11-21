@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'In a two-layer linear network learning from small weights, steepest descent in the spectral norm, which moves every singular direction of each layer at the same rate, learns the modes of the input–output correlation in a time proportional to the square root of their strength, weakest first, where gradient descent learns them in a time proportional to the inverse of their strength, strongest first: equalizing rates within a layer reverses and compresses the staged hierarchy of learning rather than removing it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    A dated note: this claim is about the order of learning in training
+    time and does not bear on what a network's depth organizes. No change
+    of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,6 +43,7 @@ summary: >-
   Derived and checked by simulation. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpcvuyr CLAIM-tmp2yj4t — Proposed; the claims on depth this note points to -->
 <!-- inactive-ok-file: LIT-tmpp6b7j CLAIM-tmpy75jv CLAIM-478 THEORY-186 — Proposed, Deferred or Open; the work this applies and the claims it bears on -->
 
 # CLAIM-tmpmugkp: In a two-layer linear network learning from small weights, steepest descent in the spectral norm, which moves every singular direction of each layer at the same rate, learns the modes of the input–output correlation in a time proportional to the square root of their strength, weakest first, where gradient descent learns them in a time proportional to the inverse of their strength, strongest first: equalizing rates within a layer reverses and compresses the staged hierarchy of learning rather than removing it
@@ -107,3 +115,14 @@ entry of 2026-11-20, 234553). Steps to half-learn each mode:
   unless the rate decays.
 - Nothing about which optimizer to use. It describes the order in which a
   linear network learns, not what anyone should do.
+
+## Note of 2026-11-20: not a claim about depth
+
+The owner first read this claim as evidence against transformer depth
+corresponding to a hierarchy. It is not evidence either way. It concerns the
+order in which a two-layer network's modes are learned over training time,
+under two update rules; it says nothing about what successive layers of a
+deep network represent. A network could learn its modes in any order and
+still arrange its layers as a hierarchy, or learn coarse to fine without
+one. What bears on depth is [CLAIM-tmp2yj4t](CLAIM-tmp2yj4t.md), and the claim filed on depth is
+[CLAIM-tmpcvuyr](CLAIM-tmpcvuyr.md). Cite this claim for depth only with that caution.
