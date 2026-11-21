@@ -21,7 +21,7 @@ summary: >-
   order of learning.
 ---
 <!-- inactive-ok-file: ADR-108 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpmugkp CLAIM-tmpqwoxz QUESTION-tmpvcusw — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpmugkp CLAIM-tmpqwoxz — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # NOTE-tmpuc566: Bernstein and Newhouse — Modular duality
 
@@ -45,10 +45,10 @@ A squared norm models higher-order terms; RMS-scale inputs; well-normed modules;
 
 ## Bearing on the record
 
-- **CLAIM-tmpmugkp** (supports the mechanism; qualifies). The map is the polar factor, scaled by √(d_out/d_in) (1 for the claim's square layers), and every singular value of the update has the same magnitude. Qualifications: the claim's √(s/2)/lr uses the fixed-rate update of eq. 2, not Proposition 1's exact steepest step; practical updates use Newton–Schulz, exact only in the limit; non-square layers or unequal masses give unequal steps between layers. The paper says nothing about the order of learning, so the claim's result is neither confirmed nor contested.
-- **QUESTION-tmpvcusw** (supports its premise): the text gives Newton–Schulz convergence only in the limit.
-- **CLAIM-tmpqwoxz** (supports its sentence on dualization; mass second-hand).
-- **Recheck**: THEORY-427 (Shampoo, held) is the natural neighbour; Carlson and colleagues' spectral descent and Flynn's duality-structure gradient descent are not held.
+- **[CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md)** (supports the mechanism; qualifies). The map is the polar factor, scaled by √(d_out/d_in) (1 for the claim's square layers), and every singular value of the update has the same magnitude. Qualifications: the claim's √(s/2)/lr uses the fixed-rate update of eq. 2, not Proposition 1's exact steepest step; practical updates use Newton–Schulz, exact only in the limit; non-square layers or unequal masses give unequal steps between layers. The paper says nothing about the order of learning, so the claim's result is neither confirmed nor contested.
+- **[QUESTION-tmpvcusw](../questions.d/QUESTION-tmpvcusw.md)** (supports its premise): the text gives Newton–Schulz convergence only in the limit.
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (supports its sentence on dualization; mass second-hand).
+- **Recheck**: [THEORY-427](../theory.d/THEORY-427.md) (Shampoo, held) is the natural neighbour; Carlson and colleagues' spectral descent and Flynn's duality-structure gradient descent are not held.
 
 ## Limitations
 

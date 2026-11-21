@@ -24,9 +24,9 @@ published: '2024-06-27'
 arxiv: '2406.19384'
 first_author: 'Lad'
 summary: >-
-  Lad, Lee, Gurnee and Tegmark (2024; v3 2025). Read in NOTE-tmp9qijr.
+  Lad, Lee, Gurnee and Tegmark (2024; v3 2025). Read in [NOTE-tmp9qijr](../notes.d/NOTE-tmp9qijr.md).
   Robust middle layers and four hypothesized stages of inference. Here for
-  CLAIM-tmpcvuyr, which it supports and qualifies.
+  [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), which it supports and qualifies.
 ---
 <!-- inactive-ok-file: THEORY-tmpthk75 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpcvuyr — Proposed; filed in this contribution of 2026-11-20 -->
@@ -38,5 +38,5 @@ Lad, Lee, Gurnee and Tegmark. arXiv 2406.19384 (2024).
 ## Standing in the record
 
 Registered on 2026-11-20 for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), on what transformer depth
-organizes. Read on 2026-11-21 in NOTE-tmp9qijr; the reading is THEORY-tmpthk75. Flagged anthology-candidate: the anthology may want it for
+organizes. Read on 2026-11-21 in [NOTE-tmp9qijr](../notes.d/NOTE-tmp9qijr.md); the reading is [THEORY-tmpthk75](../theory.d/THEORY-tmpthk75.md). Flagged anthology-candidate: the anthology may want it for
 machine-learning practice.

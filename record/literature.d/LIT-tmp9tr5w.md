@@ -24,9 +24,9 @@ published: '2020-11-30'
 arxiv: '2011.14522'
 first_author: 'Yang'
 summary: >-
-  Yang and Hu (2020), Tensor Programs IV. Read in NOTE-tmpl3qeq. Width
+  Yang and Hu (2020), Tensor Programs IV. Read in [NOTE-tmpl3qeq](../notes.d/NOTE-tmpl3qeq.md). Width
   exponents per layer, the dichotomy between feature learning and kernel
-  limits, and μP. Here for CLAIM-tmpqwoxz, which it supports.
+  limits, and μP. Here for [CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md), which it supports.
 ---
 <!-- inactive-ok-file: THEORY-tmp7n7a9 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpqwoxz — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
@@ -38,6 +38,6 @@ Yang and Hu. arXiv 2011.14522 (2020).
 ## Standing in the record
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
-and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in NOTE-tmpl3qeq; the reading is THEORY-tmp7n7a9. Read on 2026-11-21 in NOTE-tmpl3qeq; the reading is THEORY-tmp7n7a9. Flagged anthology-candidate: the
+and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in [NOTE-tmpl3qeq](../notes.d/NOTE-tmpl3qeq.md); the reading is [THEORY-tmp7n7a9](../theory.d/THEORY-tmp7n7a9.md). Read on 2026-11-21 in [NOTE-tmpl3qeq](../notes.d/NOTE-tmpl3qeq.md); the reading is [THEORY-tmp7n7a9](../theory.d/THEORY-tmp7n7a9.md). Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

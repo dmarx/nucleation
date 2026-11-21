@@ -24,12 +24,12 @@ published: '2023-09-28'
 arxiv: '2309.16620'
 first_author: 'Bordelon'
 summary: >-
-  Bordelon, Noci, Li, Hanin and Pehlevan (2023). Read in NOTE-tmpo9k2m. μP
+  Bordelon, Noci, Li, Hanin and Pehlevan (2023). Read in [NOTE-tmpo9k2m](../notes.d/NOTE-tmpo9k2m.md). μP
   plus 1/√depth branches; diffusion from initialization and drift from
-  learning in the depth limit. Here for CLAIM-tmp2yj4t, which it supports.
+  learning in the depth limit. Here for [CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md), which it supports.
 ---
 <!-- inactive-ok-file: THEORY-tmpybeh6 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmphedau — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
+<!-- inactive-ok-file: CLAIM-tmp2yj4t — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
 
 # LIT-tmpu5m2v: Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit
 
@@ -38,6 +38,6 @@ Bordelon, Noci, Li, Hanin and Pehlevan. arXiv 2309.16620 (2023).
 ## Standing in the record
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
-and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in NOTE-tmpo9k2m; the reading is THEORY-tmpybeh6. Read on 2026-11-21 in NOTE-tmpo9k2m; the reading is THEORY-tmpybeh6. Flagged anthology-candidate: the
+and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in [NOTE-tmpo9k2m](../notes.d/NOTE-tmpo9k2m.md); the reading is [THEORY-tmpybeh6](../theory.d/THEORY-tmpybeh6.md). Read on 2026-11-21 in [NOTE-tmpo9k2m](../notes.d/NOTE-tmpo9k2m.md); the reading is [THEORY-tmpybeh6](../theory.d/THEORY-tmpybeh6.md). Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

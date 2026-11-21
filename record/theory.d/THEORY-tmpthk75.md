@@ -15,16 +15,16 @@ source:
 - LIT-tmp40ldm
 summary: >-
   Ordered stages around a behaviourally robust middle, the second half
-  specialized (CLAIM-tmpcvuyr). Proposed until its promote_when is met.
+  specialized ([CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)). Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: THEORY-1030 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpcvuyr LIT-tmp40ldm NOTE-tmp9qijr THEORY-tmpky55f THEORY-tmpuxsx9 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpcvuyr THEORY-tmpky55f THEORY-tmpuxsx9 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmpthk75: Lad, Lee, Gurnee and Tegmark find that in GPT-2 and Pythia models deleting or swapping a single middle layer at inference leaves most top-1 predictions unchanged while first-layer interventions are catastrophic, and, from this and from probes, logit-lens and neuron statistics across 16 models in five families, hypothesize four ordered stages of inference: detokenization, feature engineering, prediction ensembling and residual sharpening
 
 ## Source
 
-Lad, Lee, Gurnee and Tegmark, LIT-tmp40ldm, read in NOTE-tmp9qijr from arXiv 2406.19384v3 (16 Jun 2025).
+Lad, Lee, Gurnee and Tegmark, [LIT-tmp40ldm](../literature.d/LIT-tmp40ldm.md), read in [NOTE-tmp9qijr](../notes.d/NOTE-tmp9qijr.md) from arXiv 2406.19384v3 (16 Jun 2025).
 
 ## What was actually shown
 
@@ -36,4 +36,4 @@ Not that stages are levels of knowledge; not robustness beyond GPT-2 and Pythia;
 
 ## Connections
 
-THEORY-tmpuxsx9 (Layers as Painters); THEORY-1033, THEORY-1030; THEORY-tmpky55f.
+[THEORY-tmpuxsx9](THEORY-tmpuxsx9.md) (Layers as Painters); [THEORY-1033](THEORY-1033.md), [THEORY-1030](THEORY-1030.md); [THEORY-tmpky55f](THEORY-tmpky55f.md).

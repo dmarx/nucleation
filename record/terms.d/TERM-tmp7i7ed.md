@@ -32,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpq3h4k THEORY-tmprwljl — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2044 CLAIM-189 — Proposed; the partial-contraction reading the term's "conserved part" is fixed against, and the claim on legitimate change -->
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 CLAIM-tmpw6wkt CLAIM-tmpvm90n LIT-tmpavt0i — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 CLAIM-tmpw6wkt CLAIM-tmpvm90n — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
 
 # TERM-tmp7i7ed: local degrees of freedom (of an entry)
 
@@ -52,7 +52,7 @@ The **conserved part** of the step is the set of features it copies
 exactly. The sense is fixed against DeGroot's invariant πF ([THEORY-960](../theory.d/THEORY-960.md)) and
 the property partial contraction leaves free ([THEORY-2044](../theory.d/THEORY-2044.md)). It is not the kernel
 of a seminorm in which the step contracts: in semicontraction theory
-(THEORY-tmprwljl, THEORY-tmpq3h4k) the kernel is only where the step does not
+([THEORY-tmprwljl](../theory.d/THEORY-tmprwljl.md), [THEORY-tmpq3h4k](../theory.d/THEORY-tmpq3h4k.md)) the kernel is only where the step does not
 contract, and may hold features copied with error or magnified. The
 conserved part is the smaller set the step copies exactly, the exact
 invariants, such as DeGroot's πF or vᵀx in affine averaging.

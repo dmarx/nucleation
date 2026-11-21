@@ -76,4 +76,4 @@ its front matter ([NOTE-1562](../notes.d/NOTE-1562.md)).
 
 ## Note of 2026-11-21: a related Bovier paper read
 
-This reading's promote_when names Bovier, Eckhoff, Gayrard and Klein 2004, on reversible diffusions. The record read on 2026-11-21 their 2000 paper on reversible Markov chains (THEORY-tmph10k5), which gives sharp exit times as valley mass over capacity and one low-lying eigenvalue per metastable point. It is the discrete counterpart and does not itself meet the promote_when, which asks for the diffusion result.
+This reading's promote_when names Bovier, Eckhoff, Gayrard and Klein 2004, on reversible diffusions. The record read on 2026-11-21 their 2000 paper on reversible Markov chains ([THEORY-tmph10k5](THEORY-tmph10k5.md)), which gives sharp exit times as valley mass over capacity and one low-lying eigenvalue per metastable point. It is the discrete counterpart and does not itself meet the promote_when, which asks for the diffusion result.

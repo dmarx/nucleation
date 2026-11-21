@@ -5,10 +5,10 @@ status_note: >-
   journals.aps.org/prl/abstract/10.1103/PhysRevLett.55.1634, answered HTTP
   403 and was not retried; OpenAlex gives oa_status closed with no
   repository copy; Semantic Scholar lists no open PDF; a web search found
-  no author, institution or course copy. Unfetched (ADR-053): the
+  no author, institution or course copy. Unfetched ([ADR-053](../decisions.d/ADR-053.md)): the
   publisher's copy exists and this client could not reach it. Neighbours
-  read in its place: Bachas and Huberman (LIT-tmpkmjuj) and
-  Lukierska-Walasek and Topolski (LIT-tmp59lki).
+  read in its place: Bachas and Huberman ([LIT-tmpkmjuj](LIT-tmpkmjuj.md)) and
+  Lukierska-Walasek and Topolski ([LIT-tmp59lki](LIT-tmp59lki.md)).
 title: 'Dynamics on Ultrametric Spaces'
 version: 2
 history:
@@ -35,7 +35,7 @@ doi: '10.1103/PhysRevLett.55.1634'
 first_author: 'Ogielski'
 summary: >-
   Ogielski and Stein (1985), Physical Review Letters. Not read; reached
-  through neighbours (NOTE-tmp69i8d, NOTE-tmpikcji). As they restate it:
+  through neighbours ([NOTE-tmp69i8d](../notes.d/NOTE-tmp69i8d.md), [NOTE-tmpikcji](../notes.d/NOTE-tmpikcji.md)). As they restate it:
   thermally activated hopping among the leaves of a regular tree, with
   rates set by ultrametric distance, relaxes as a power of time. The
   exponent as Bachas and Huberman give it, per-pair rates falling by g per
@@ -59,4 +59,4 @@ classical treatment of dynamics on such spaces. Not read.
 
 ## Neighbours (2026-11-21)
 
-Not read. Bachas and Huberman (LIT-tmpkmjuj, NOTE-tmp69i8d, THEORY-tmppuotc) stand in for the result and its conditions; they write that "Some of the results of this section have already been derived in" a list that includes this paper. Lukierska-Walasek and Topolski (LIT-tmp59lki, NOTE-tmpikcji) stand in for the model, which they describe as "a regular Cayley tree with M levels and fixed branching ratio", and say their eq. (32) "has the same form as corresponding equation (6)" of this paper. Neither quotes its exponent.
+Not read. Bachas and Huberman ([LIT-tmpkmjuj](LIT-tmpkmjuj.md), [NOTE-tmp69i8d](../notes.d/NOTE-tmp69i8d.md), [THEORY-tmppuotc](../theory.d/THEORY-tmppuotc.md)) stand in for the result and its conditions; they write that "Some of the results of this section have already been derived in" a list that includes this paper. Lukierska-Walasek and Topolski ([LIT-tmp59lki](LIT-tmp59lki.md), [NOTE-tmpikcji](../notes.d/NOTE-tmpikcji.md)) stand in for the model, which they describe as "a regular Cayley tree with M levels and fixed branching ratio", and say their eq. (32) "has the same form as corresponding equation (6)" of this paper. Neither quotes its exponent.

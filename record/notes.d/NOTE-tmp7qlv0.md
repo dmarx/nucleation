@@ -23,7 +23,7 @@ summary: >-
   Pythia 6.9B only the first layer is crucial when deleted.
 ---
 <!-- inactive-ok-file: ADR-108 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmpcvuyr LIT-tmp8pcca — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmpcvuyr — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # NOTE-tmp7qlv0: Belrose, Ostrovsky, McKinney, Furman, Smith, Halawi, Biderman and Steinhardt — The tuned lens
 
@@ -45,9 +45,9 @@ Pre-LayerNorm models; the final distribution as target; features as directions; 
 
 ## Bearing on the record
 
-- **CLAIM-tmpcvuyr** (supports; qualifies). Smooth perplexity, gradient-aligned updates and cheap deletion beyond layer 1 support refinement; but what is refined is one prediction, readable through a per-layer affine map, while the representation's basis drifts. Version 2 says "refining one prediction". No stages appear in prediction quality.
-- **CLAIM-tmp2yj4t** (corroborates the systematic row): residual updates aligned with −∇L at every layer are a correlated, biased contribution, small in magnitude; smooth drift with layer separation is consistent with accumulation along a restatement chain; the outlier onset and final-layer jump are discontinuities a uniform model would not predict.
-- **LIT-tmp8pcca**: the anthology holds this paper as ANTH-LIT-569; cited on the entry.
+- **[CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)** (supports; qualifies). Smooth perplexity, gradient-aligned updates and cheap deletion beyond layer 1 support refinement; but what is refined is one prediction, readable through a per-layer affine map, while the representation's basis drifts. Version 2 says "refining one prediction". No stages appear in prediction quality.
+- **[CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md)** (corroborates the systematic row): residual updates aligned with −∇L at every layer are a correlated, biased contribution, small in magnitude; smooth drift with layer separation is consistent with accumulation along a restatement chain; the outlier onset and final-layer jump are discontinuities a uniform model would not predict.
+- **[LIT-tmp8pcca](../literature.d/LIT-tmp8pcca.md)**: the anthology holds this paper as [ANTH-LIT-569](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-569.md); cited on the entry.
 
 ## Limitations
 

@@ -14,19 +14,19 @@ date: '2026-11-21'
 source:
 - LIT-tmpru0xs
 summary: >-
-  The discrete-time, Markov-side sibling of THEORY-tmprwljl. It joins
+  The discrete-time, Markov-side sibling of [THEORY-tmprwljl](THEORY-tmprwljl.md). It joins
   averaging and distribution flows in one seminorm framework, and confirms
   that semicontraction is a statement about forgetting off a kernel, not
   about what is kept on it. Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: CLAIM-635 THEORY-2044 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: LIT-tmpru0xs NOTE-tmprv9nt THEORY-tmprwljl — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: THEORY-tmprwljl — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmpq3h4k: De Pasquale, Smith, Bullo and Valcher show that ergodicity coefficients are induced matrix seminorms and that projection and distance seminorms are dual, so one coefficient bounds both averaging and the flow of distributions, and that in systems leaving a seminorm's kernel or its complement invariant only the part off the kernel contracts, while differences along it may persist or grow
 
 ## Source
 
-De Pasquale, Smith, Bullo and Valcher, LIT-tmpru0xs, read in NOTE-tmprv9nt from arXiv 2201.03103v3 (20 Dec 2022), which extends the submitted IEEE TAC version.
+De Pasquale, Smith, Bullo and Valcher, [LIT-tmpru0xs](../literature.d/LIT-tmpru0xs.md), read in [NOTE-tmprv9nt](../notes.d/NOTE-tmprv9nt.md) from arXiv 2201.03103v3 (20 Dec 2022), which extends the submitted IEEE TAC version.
 
 ## What was actually shown
 
@@ -38,4 +38,4 @@ It does not say what a semicontracting chain's limit keeps of its start, has no 
 
 ## Connections
 
-THEORY-tmprwljl (the continuous-time sibling, its ref [17]); THEORY-960; THEORY-2044 (partial contraction, contrasted in the text); CLAIM-635 and CLAIM-270 (what the record holds on retention, which this does not address); CLAIM-260 (nonexpansive later kernels, which τ₁ ≤ 1 gives for stochastic matrices).
+[THEORY-tmprwljl](THEORY-tmprwljl.md) (the continuous-time sibling, its ref [17]); [THEORY-960](THEORY-960.md); [THEORY-2044](THEORY-2044.md) (partial contraction, contrasted in the text); [CLAIM-635](../claims.d/CLAIM-635.md) and [CLAIM-270](../claims.d/CLAIM-270.md) (what the record holds on retention, which this does not address); [CLAIM-260](../claims.d/CLAIM-260.md) (nonexpansive later kernels, which τ₁ ≤ 1 gives for stochastic matrices).

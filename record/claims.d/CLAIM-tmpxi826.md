@@ -120,7 +120,7 @@ hierarchy. For any metric d, d(x, z) ≤ 2·max(d(x, y), d(y, z)), so log d
 satisfies the ultrametric inequality up to ln 2, and effective resistance is
 a metric: the log commute-time geometry of every chain, whatever its rates,
 is nearly an ultrametric. The reader of Bovier and colleagues pointed this
-out (NOTE-tmpjot4l), and the assistant checked it: over 400 random 9-point
+out ([NOTE-tmpjot4l](../notes.d/NOTE-tmpjot4l.md)), and the assistant checked it: over 400 random 9-point
 metrics the four-point δ of log d never exceeded 0.66 (curation entry of
 2026-11-21). The flat chains below have small δ for that reason. What the
 rates add is which ultrametric, the minimax barrier scaled by log(1/ε), and
@@ -174,8 +174,8 @@ Run under `python3 -I` on 2026-11-20 (scripts in the curation entry of
 - Not that the result is new to mathematics. Freidlin–Wentzell theory and
   the metastability literature hold the small-noise asymptotics of
   transition times. The record holds both, which version 1 wrongly denied:
-  Freidlin and Wentzell (LIT-2035, THEORY-1366), Berglund on Kramers' law
-  (LIT-2037, THEORY-1370), and now Bovier and colleagues (THEORY-tmph10k5),
+  Freidlin and Wentzell ([LIT-2035](../literature.d/LIT-2035.md), [THEORY-1366](../theory.d/THEORY-1366.md)), Berglund on Kramers' law
+  ([LIT-2037](../literature.d/LIT-2037.md), [THEORY-1370](../theory.d/THEORY-1370.md)), and now Bovier and colleagues ([THEORY-tmph10k5](../theory.d/THEORY-tmph10k5.md)),
   whose minus log capacity is an ultrametric up to ln 3 between metastable
   points, a slack independent of n and E, for general reversible chains
   under genericity.

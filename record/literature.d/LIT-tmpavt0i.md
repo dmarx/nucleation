@@ -29,10 +29,10 @@ doi: '10.1109/TAC.2021.3073096'
 first_author: 'Jafarpour'
 summary: >-
   Jafarpour, Cisneros-Velarde and Bullo (2020; IEEE TAC 2022). Read in
-  NOTE-tmpouiuu. Semi-contraction contracts only off a seminorm's kernel
+  [NOTE-tmpouiuu](../notes.d/NOTE-tmpouiuu.md). Semi-contraction contracts only off a seminorm's kernel
   and keeps nothing by itself; weak contraction adds non-expansion; in
   their averaging examples the limit is fixed by a conserved functional
-  vᵀx. Here for CLAIM-tmpdx6l8, which it qualifies.
+  vᵀx. Here for [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md), which it qualifies.
 ---
 <!-- inactive-ok-file: THEORY-tmprwljl — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed or Open; filed in this contribution of 2026-11-20 -->
@@ -47,4 +47,4 @@ Transactions on Automatic Control (2022), DOI 10.1109/TAC.2021.3073096.
 
 Registered on 2026-11-20 as the semicontraction theory [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) names
 for contraction with a conserved part. The record holds the contraction
-founding ([THEORY-2043](../theory.d/THEORY-2043.md)) and partial contraction ([THEORY-2044](../theory.d/THEORY-2044.md)), not this. Read on 2026-11-21 in NOTE-tmpouiuu; the reading is THEORY-tmprwljl.
+founding ([THEORY-2043](../theory.d/THEORY-2043.md)) and partial contraction ([THEORY-2044](../theory.d/THEORY-2044.md)), not this. Read on 2026-11-21 in [NOTE-tmpouiuu](../notes.d/NOTE-tmpouiuu.md); the reading is [THEORY-tmprwljl](../theory.d/THEORY-tmprwljl.md).

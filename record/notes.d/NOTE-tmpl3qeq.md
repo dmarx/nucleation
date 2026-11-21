@@ -48,10 +48,10 @@ MLPs in the main text; SGD, batch 1, discrete time; width-independent training t
 
 ## Bearing on the record
 
-- **CLAIM-tmpqwoxz** (supports; defeater (a) not met; qualified). In every kernel-regime parametrization hidden features change by Θ(n^{−r}), r > 0, while the output changes by Θ(1): a width-growing rate difference, the ε^U form with ε = 1/n per layer. Qualifications, written into the claim's version 2: uniformity among hidden layers is not what μP adds (NTP has a uniform body too, at r = ½); what μP adds is no gap between body and readout; and the fixed hidden layers are not idle in fitting (they contribute through the initial readout), they are fixed as features and kernel. The separation is proved only over O(1) steps.
-- **CLAIM-478** (version 5; supports by instance): the fixed kernel is the relation the slow degrees of freedom settle into, and the fast output follows kernel gradient descent in it.
-- **THEORY-813** (supports its premise): Theorem H.13 fixes all feature kernels in the kernel regime.
-- **Recheck**: THEORY-212 (Dominé and colleagues, "From Lazy to Rich") is the held finite-size per-layer analogue and is added to CLAIM-tmpqwoxz's grounds; Mei, Misiakiewicz and Montanari's time-scale reading of NTK against mean-field is not held.
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (supports; defeater (a) not met; qualified). In every kernel-regime parametrization hidden features change by Θ(n^{−r}), r > 0, while the output changes by Θ(1): a width-growing rate difference, the ε^U form with ε = 1/n per layer. Qualifications, written into the claim's version 2: uniformity among hidden layers is not what μP adds (NTP has a uniform body too, at r = ½); what μP adds is no gap between body and readout; and the fixed hidden layers are not idle in fitting (they contribute through the initial readout), they are fixed as features and kernel. The separation is proved only over O(1) steps.
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (version 5; supports by instance): the fixed kernel is the relation the slow degrees of freedom settle into, and the fast output follows kernel gradient descent in it.
+- **[THEORY-813](../theory.d/THEORY-813.md)** (supports its premise): Theorem H.13 fixes all feature kernels in the kernel regime.
+- **Recheck**: [THEORY-212](../theory.d/THEORY-212.md) (Dominé and colleagues, "From Lazy to Rich") is the held finite-size per-layer analogue and is added to [CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)'s grounds; Mei, Misiakiewicz and Montanari's time-scale reading of NTK against mean-field is not held.
 
 ## Limitations
 

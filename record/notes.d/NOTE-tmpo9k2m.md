@@ -47,10 +47,10 @@ Width to infinity first, then depth; one weight matrix per block in the main the
 
 ## Bearing on the record
 
-- **CLAIM-tmp2yj4t** (supports both rows directly; defeater (b) not met). The paper names the random part diffusion and the learned part drift, and the skip connection as the source of the correlation. Qualification written into version 2: α = ½ is the smallest exponent that keeps diffusion of order one, not one the random part needs; with η ∝ L^(2α−1) the learned change per block is 1/L across the family (the reader's arithmetic). The no-skip row is not addressed here.
-- **CLAIM-tmphedau** (supports by analogy): eq. 62 is the copied-with-error-plus-bias case in continuous depth, with state-dependent drift and non-Gaussian fields.
-- **CLAIM-tmpcvuyr** (weak support, with caution): the limit treats blocks as a continuum with no built-in rate differences between groups; App. K.2.1's frozen inner layers are a rate difference within each block.
-- **Recheck**: THEORY-187 (Saxe and colleagues: in deep linear networks without skips the step size falls with depth) is a contrast worth noting; Hayou, Li and colleagues' covariance SDE, Noci and colleagues and Hayou and Yang are not held.
+- **[CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md)** (supports both rows directly; defeater (b) not met). The paper names the random part diffusion and the learned part drift, and the skip connection as the source of the correlation. Qualification written into version 2: α = ½ is the smallest exponent that keeps diffusion of order one, not one the random part needs; with η ∝ L^(2α−1) the learned change per block is 1/L across the family (the reader's arithmetic). The no-skip row is not addressed here.
+- **[CLAIM-tmphedau](../claims.d/CLAIM-tmphedau.md)** (supports by analogy): eq. 62 is the copied-with-error-plus-bias case in continuous depth, with state-dependent drift and non-Gaussian fields.
+- **[CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)** (weak support, with caution): the limit treats blocks as a continuum with no built-in rate differences between groups; App. K.2.1's frozen inner layers are a rate difference within each block.
+- **Recheck**: [THEORY-187](../theory.d/THEORY-187.md) (Saxe and colleagues: in deep linear networks without skips the step size falls with depth) is a contrast worth noting; Hayou, Li and colleagues' covariance SDE, Noci and colleagues and Hayou and Yang are not held.
 
 ## Limitations
 

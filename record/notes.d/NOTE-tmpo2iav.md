@@ -46,10 +46,10 @@ Smooth models, Lipschitz losses, gradient flow; zero or bounded initial output; 
 
 ## Bearing on the record
 
-- **CLAIM-tmpqwoxz** (defeater (a) not met; qualified). The lazy limit is one in which the differential, kernel and parameters change by O(1/α) while the loss falls by O(1): a separation of rates. But the slow quantity is the whole parameter vector, readout included, set by the scale α, not hidden layers against the readout; the two levels are the fast output and the slow parameters or tangent kernel. Version 2 says so and takes the hidden-against-readout form from Yang and Hu (THEORY-tmp7n7a9) and Dominé and colleagues (THEORY-212).
-- **CLAIM-478** (version 5; supports the mechanism in one case): the slow tangent kernel acts as a fixed metric, a constraint, on the fast flow of the output (§2.3: "gradient flow of R in a time-dependent and non degenerate metric").
-- **THEORY-813** (supports its premise); **THEORY-2077** (corroborates nearby: initialization scale sets the regime).
-- **Recheck**: LIT-1232 (Chizat and Bach, mean-field, held) is the non-lazy counterpart; QUESTION-081 asks whether the relative scale survives SGD and on what time scale.
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (defeater (a) not met; qualified). The lazy limit is one in which the differential, kernel and parameters change by O(1/α) while the loss falls by O(1): a separation of rates. But the slow quantity is the whole parameter vector, readout included, set by the scale α, not hidden layers against the readout; the two levels are the fast output and the slow parameters or tangent kernel. Version 2 says so and takes the hidden-against-readout form from Yang and Hu ([THEORY-tmp7n7a9](../theory.d/THEORY-tmp7n7a9.md)) and Dominé and colleagues ([THEORY-212](../theory.d/THEORY-212.md)).
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (version 5; supports the mechanism in one case): the slow tangent kernel acts as a fixed metric, a constraint, on the fast flow of the output (§2.3: "gradient flow of R in a time-dependent and non degenerate metric").
+- **[THEORY-813](../theory.d/THEORY-813.md)** (supports its premise); **[THEORY-2077](../theory.d/THEORY-2077.md)** (corroborates nearby: initialization scale sets the regime).
+- **Recheck**: [LIT-1232](../literature.d/LIT-1232.md) (Chizat and Bach, mean-field, held) is the non-lazy counterpart; [QUESTION-081](../questions.d/QUESTION-081.md) asks whether the relative scale survives SGD and on what time scale.
 
 ## Limitations
 

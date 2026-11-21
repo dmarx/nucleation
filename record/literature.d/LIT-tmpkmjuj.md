@@ -22,7 +22,7 @@ doi: '10.1088/0305-4470/20/14/036'
 url: 'https://www.slac.stanford.edu/pubs/slacpubs/4000/slac-pub-4077.pdf'
 first_author: 'Bachas'
 summary: >-
-  Bachas and Huberman (1987), J. Phys. A. Read in NOTE-tmp69i8d as a
+  Bachas and Huberman (1987), J. Phys. A. Read in [NOTE-tmp69i8d](../notes.d/NOTE-tmp69i8d.md) as a
   stand-in for Ogielski and Stein. Ultradiffusion on any ultrametric tree
   solved exactly as one exponential mode per branch point; on infinite
   uniform trees a power-law relaxation with exponent ln b/(ln(1/g) − ln
@@ -36,4 +36,4 @@ Bachas and Huberman. SLAC-PUB-4077 (March 1987); J. Phys. A 20 (1987), 4995–50
 
 ## Standing in the record
 
-Registered on 2026-11-21 as a stand-in for Ogielski and Stein (LIT-tmpslg57), whose results it says it partly rederives, and read in NOTE-tmp69i8d; the reading is THEORY-tmppuotc.
+Registered on 2026-11-21 as a stand-in for Ogielski and Stein ([LIT-tmpslg57](LIT-tmpslg57.md)), whose results it says it partly rederives, and read in [NOTE-tmp69i8d](../notes.d/NOTE-tmp69i8d.md); the reading is [THEORY-tmppuotc](../theory.d/THEORY-tmppuotc.md).

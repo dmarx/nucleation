@@ -24,9 +24,9 @@ published: '2024-10-28'
 arxiv: '2410.21265'
 first_author: 'Bernstein'
 summary: >-
-  Bernstein and Newhouse (2024). Read in NOTE-tmpuc566. Modular
+  Bernstein and Newhouse (2024). Read in [NOTE-tmpuc566](../notes.d/NOTE-tmpuc566.md). Modular
   dualization; for linear layers the scaled polar factor
-  √(d_out/d_in)·UVᵀ. Here for CLAIM-tmpmugkp, whose update rule it
+  √(d_out/d_in)·UVᵀ. Here for [CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md), whose update rule it
   confirms.
 ---
 <!-- inactive-ok-file: THEORY-tmpgdk30 — Proposed; cited in the readings of 2026-11-21 -->
@@ -39,6 +39,6 @@ Bernstein and Newhouse. arXiv 2410.21265 (2024).
 ## Standing in the record
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
-and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in NOTE-tmpuc566; the reading is THEORY-tmpgdk30. Read on 2026-11-21 in NOTE-tmpuc566; the reading is THEORY-tmpgdk30. Flagged anthology-candidate: the
+and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in [NOTE-tmpuc566](../notes.d/NOTE-tmpuc566.md); the reading is [THEORY-tmpgdk30](../theory.d/THEORY-tmpgdk30.md). Read on 2026-11-21 in [NOTE-tmpuc566](../notes.d/NOTE-tmpuc566.md); the reading is [THEORY-tmpgdk30](../theory.d/THEORY-tmpgdk30.md). Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

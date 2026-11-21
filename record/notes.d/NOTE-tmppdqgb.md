@@ -46,10 +46,10 @@ Width to infinity first under μP, then depth; one-layer biasless perceptron blo
 
 ## Bearing on the record
 
-- **CLAIM-tmp2yj4t** (supports; defeater (b) not met). The two rows are stated in the paper's own words: independent Θ(1/√L) contributions summing diffusively, correlated Θ(1/L) contributions summing coherently, a "noise term" and a "drift term". The assistant's recollection of the mechanism (1/√L twice for SGD; η/√L for Adam) is confirmed. Qualifications written into the claim's version 2: the drift term includes the correlated part of the initial weights' action, not only learned updates; one multiplier serves both rows; and the "fundamental limitations" of deeper blocks are a clash between the two existing rows, not a further kind.
-- **CLAIM-tmpcvuyr** (qualifies): Depth-μP makes adjacent blocks maximally different (a rough path), not interchangeable increments; only the redundant parametrizations make neighbours alike; and transformers' two-layer blocks have no optimal parametrization in this theory. The claim's bullet is revised.
-- **CLAIM-tmpqwoxz** (bears): within a block the dynamics are in the kernel regime while the network learns features across blocks, lazy and feature-learning regimes at different scales at once.
-- **CLAIM-tmphedau** (supports by application): continuity exponents ½ and 1 are the √n and n rows in depth.
+- **[CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md)** (supports; defeater (b) not met). The two rows are stated in the paper's own words: independent Θ(1/√L) contributions summing diffusively, correlated Θ(1/L) contributions summing coherently, a "noise term" and a "drift term". The assistant's recollection of the mechanism (1/√L twice for SGD; η/√L for Adam) is confirmed. Qualifications written into the claim's version 2: the drift term includes the correlated part of the initial weights' action, not only learned updates; one multiplier serves both rows; and the "fundamental limitations" of deeper blocks are a clash between the two existing rows, not a further kind.
+- **[CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)** (qualifies): Depth-μP makes adjacent blocks maximally different (a rough path), not interchangeable increments; only the redundant parametrizations make neighbours alike; and transformers' two-layer blocks have no optimal parametrization in this theory. The claim's bullet is revised.
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (bears): within a block the dynamics are in the kernel regime while the network learns features across blocks, lazy and feature-learning regimes at different scales at once.
+- **[CLAIM-tmphedau](../claims.d/CLAIM-tmphedau.md)** (supports by application): continuity exponents ½ and 1 are the √n and n rows in depth.
 
 ## Limitations
 

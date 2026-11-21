@@ -29,13 +29,13 @@ doi: '10.1109/TAC.2023.3302788'
 first_author: 'De Pasquale'
 summary: >-
   De Pasquale, Smith, Bullo and Valcher (2022; IEEE TAC 2024). Read in
-  NOTE-tmprv9nt. Ergodicity coefficients as induced seminorms; one
+  [NOTE-tmprv9nt](../notes.d/NOTE-tmprv9nt.md). Ergodicity coefficients as induced seminorms; one
   coefficient for averaging and for distribution flows; only the part off
-  the kernel contracts. Here for CLAIM-tmpdx6l8, which it qualifies.
+  the kernel contracts. Here for [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md), which it qualifies.
 ---
 <!-- inactive-ok-file: THEORY-tmpq3h4k — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 LIT-tmpavt0i — Proposed, Open or Deferred; filed in this contribution of 2026-11-20 -->
-<!-- inactive-ok-file: CLAIM-635 THEORY-2043 THEORY-2044 — Proposed; the results this work may join -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed, Open or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-635 THEORY-2044 — Proposed; the results this work may join -->
 
 # LIT-tmpru0xs: Dual Seminorms, Ergodic Coefficients and Semicontraction Theory
 
@@ -46,4 +46,4 @@ Transactions on Automatic Control (2024), DOI 10.1109/TAC.2023.3302788.
 
 Registered on 2026-11-20 beside [LIT-tmpavt0i](LIT-tmpavt0i.md). Its abstract places Markov
 chains among semicontracting systems, so it may state in one theory what
-[CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) puts together from [CLAIM-635](../claims.d/CLAIM-635.md), [THEORY-960](../theory.d/THEORY-960.md) and [THEORY-2044](../theory.d/THEORY-2044.md). Read on 2026-11-21 in NOTE-tmprv9nt; the reading is THEORY-tmpq3h4k.
+[CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) puts together from [CLAIM-635](../claims.d/CLAIM-635.md), [THEORY-960](../theory.d/THEORY-960.md) and [THEORY-2044](../theory.d/THEORY-2044.md). Read on 2026-11-21 in [NOTE-tmprv9nt](../notes.d/NOTE-tmprv9nt.md); the reading is [THEORY-tmpq3h4k](../theory.d/THEORY-tmpq3h4k.md).

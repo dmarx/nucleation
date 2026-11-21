@@ -28,9 +28,9 @@ doi: '10.1007/s002200200609'
 first_author: 'Bovier'
 summary: >-
   Bovier, Eckhoff, Gayrard and Klein (2000; Comm. Math. Phys. 2002). Read
-  in NOTE-tmpjot4l. Capacity, exit times and low-lying spectrum of
+  in [NOTE-tmpjot4l](../notes.d/NOTE-tmpjot4l.md). Capacity, exit times and low-lying spectrum of
   reversible chains with metastable points; minus log capacity almost
-  ultrametric (slack ln 3). Here for CLAIM-tmpxi826, which it supports and
+  ultrametric (slack ln 3). Here for [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md), which it supports and
   corrects.
 ---
 <!-- inactive-ok-file: THEORY-tmph10k5 — Proposed; cited in the readings of 2026-11-21 -->
@@ -47,4 +47,4 @@ Communications in Mathematical Physics 228 (2002), 219–255, DOI
 Registered on 2026-11-20 beside [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md). Not read; [LEAD-tmpdv2tt](../leads.d/LEAD-tmpdv2tt.md) is
 the plan to read it, with Fenichel ([LIT-1638](LIT-1638.md)).
 
-Read on 2026-11-21 in NOTE-tmpjot4l; the reading is THEORY-tmph10k5.
+Read on 2026-11-21 in [NOTE-tmpjot4l](../notes.d/NOTE-tmpjot4l.md); the reading is [THEORY-tmph10k5](../theory.d/THEORY-tmph10k5.md).

@@ -18,18 +18,18 @@ source:
 - LIT-tmp9tr5w
 summary: >-
   The width side of the record's reading of parameterizations as rate
-  allocations (CLAIM-tmpqwoxz): per-layer rates ε^(r_l) with ε = 1/n, and
+  allocations ([CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)): per-layer rates ε^(r_l) with ε = 1/n, and
   the kernel regime as a body slower than the readout by a factor growing
   with width. Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: THEORY-212 THEORY-813 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpqwoxz LIT-tmp9tr5w NOTE-tmpl3qeq THEORY-tmpbyw89 THEORY-tmpecd1x THEORY-tmpig1z0 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpqwoxz THEORY-tmpbyw89 THEORY-tmpecd1x THEORY-tmpig1z0 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmp7n7a9: Yang and Hu show that in any nontrivial stable abc-parametrization of a wide MLP each layer's update changes its output by a power of width, so that the network either learns features, when the smallest exponent is zero, or has every feature and feature kernel fixed in the infinite-width limit while its output evolves by kernel gradient descent, and that μP is the unique stable parametrization with every exponent zero and the readout updated and initialized maximally
 
 ## Source
 
-Yang and Hu, LIT-tmp9tr5w, read in NOTE-tmpl3qeq from arXiv 2011.14522v3 (15 Jul 2022, 65 pp.).
+Yang and Hu, [LIT-tmp9tr5w](../literature.d/LIT-tmp9tr5w.md), read in [NOTE-tmpl3qeq](../notes.d/NOTE-tmpl3qeq.md) from arXiv 2011.14522v3 (15 Jul 2022, 65 pp.).
 
 ## What was actually shown
 
@@ -41,4 +41,4 @@ Nothing about width-growing training times, finite width, or depth (Tensor Progr
 
 ## Connections
 
-THEORY-212 (the per-layer, finite-size form); THEORY-tmpecd1x (Chizat and colleagues on lazy training); THEORY-tmpig1z0 (the spectral condition, an equivalent statement of μP); THEORY-tmpbyw89 (the depth counterpart); THEORY-813.
+[THEORY-212](THEORY-212.md) (the per-layer, finite-size form); [THEORY-tmpecd1x](THEORY-tmpecd1x.md) (Chizat and colleagues on lazy training); [THEORY-tmpig1z0](THEORY-tmpig1z0.md) (the spectral condition, an equivalent statement of μP); [THEORY-tmpbyw89](THEORY-tmpbyw89.md) (the depth counterpart); [THEORY-813](THEORY-813.md).

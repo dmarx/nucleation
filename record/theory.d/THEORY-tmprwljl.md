@@ -16,20 +16,20 @@ date: '2026-11-21'
 source:
 - LIT-tmpavt0i
 summary: >-
-  The reading the record needed for CLAIM-tmpdx6l8's appeal to
+  The reading the record needed for [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)'s appeal to
   semicontraction. Semicontraction is the forgetting half of the record's
   picture only: it contracts what lies off the kernel. The keeping half
-  comes from an exact invariant (vᵀx, as πF in THEORY-960). Proposed until
+  comes from an exact invariant (vᵀx, as πF in [THEORY-960](THEORY-960.md)). Proposed until
   its promote_when is met.
 ---
 <!-- inactive-ok-file: THEORY-2043 THEORY-2044 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 LIT-tmpavt0i NOTE-tmpouiuu THEORY-tmpq3h4k — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 THEORY-tmpq3h4k — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmprwljl: Jafarpour, Cisneros-Velarde and Bullo show that a continuous-time system contracting in a seminorm converges to a translate of the seminorm's kernel without fixing where on it each trajectory ends, and may diverge along it; that one also weakly contracting, with a kernel of equilibria, converges to a single equilibrium; and that in affine averaging that equilibrium is fixed by a conserved linear functional, not by the seminorm
 
 ## Source
 
-Jafarpour, Cisneros-Velarde and Bullo, LIT-tmpavt0i, read in NOTE-tmpouiuu from arXiv 2005.09774v8 (4 Oct 2020; the technical report, with Appendices D–F beyond the IEEE TAC version).
+Jafarpour, Cisneros-Velarde and Bullo, [LIT-tmpavt0i](../literature.d/LIT-tmpavt0i.md), read in [NOTE-tmpouiuu](../notes.d/NOTE-tmpouiuu.md) from arXiv 2005.09774v8 (4 Oct 2020; the technical report, with Appendices D–F beyond the IEEE TAC version).
 
 ## What was actually shown
 
@@ -41,4 +41,4 @@ Nothing about discrete time, Markov chains, noise or approximate conservation. I
 
 ## Connections
 
-THEORY-960 (DeGroot: the same invariant, πF, in discrete time); THEORY-2044 and THEORY-2043 (partial and full contraction); THEORY-tmpq3h4k (De Pasquale and colleagues, the discrete-time sibling); CLAIM-481 (Laplacian flow, kernel as exact compatibility).
+[THEORY-960](THEORY-960.md) (DeGroot: the same invariant, πF, in discrete time); [THEORY-2044](THEORY-2044.md) and [THEORY-2043](THEORY-2043.md) (partial and full contraction); [THEORY-tmpq3h4k](THEORY-tmpq3h4k.md) (De Pasquale and colleagues, the discrete-time sibling); [CLAIM-481](../claims.d/CLAIM-481.md) (Laplacian flow, kernel as exact compatibility).

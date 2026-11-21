@@ -18,7 +18,7 @@ published: '2016-04-06'
 arxiv: '1604.01819'
 first_author: 'Anchugina'
 summary: >-
-  Anchugina, Ryan and Slinko (2016). Read in part in NOTE-tmpzdxq3
+  Anchugina, Ryan and Slinko (2016). Read in part in [NOTE-tmpzdxq3](../notes.d/NOTE-tmpzdxq3.md)
   (introduction and §4.1): aggregating exponential discounters yields
   decreasing impatience; it restates Sozou's exponential-prior result.
 ---
@@ -30,4 +30,4 @@ Anchugina, Ryan and Slinko. arXiv 1604.01819 (2016).
 
 ## Standing in the record
 
-Registered on 2026-11-21 for its restatement of Sozou (LIT-tmpk0e2v); read in part in NOTE-tmpzdxq3. Quoted, not given a THEORY.
+Registered on 2026-11-21 for its restatement of Sozou ([LIT-tmpk0e2v](LIT-tmpk0e2v.md)); read in part in [NOTE-tmpzdxq3](../notes.d/NOTE-tmpzdxq3.md). Quoted, not given a THEORY.

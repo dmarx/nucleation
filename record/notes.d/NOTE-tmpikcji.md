@@ -32,7 +32,7 @@ summary: >-
 
 ## Bearing on the record
 
-Stands in, with Bachas and Huberman (NOTE-tmp69i8d), for LIT-tmpslg57. Its exponent is in total-rate form, ln 2 over the log of the ratio of total escape rates, which agrees with Bachas and Huberman's per-pair form once the branching is counted.
+Stands in, with Bachas and Huberman ([NOTE-tmp69i8d](NOTE-tmp69i8d.md)), for [LIT-tmpslg57](../literature.d/LIT-tmpslg57.md). Its exponent is in total-rate form, ln 2 over the log of the ratio of total escape rates, which agrees with Bachas and Huberman's per-pair form once the branching is counted.
 
 ## Limitations
 

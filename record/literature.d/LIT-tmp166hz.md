@@ -24,9 +24,9 @@ published: '2019-05-15'
 arxiv: '1905.05950'
 first_author: 'Tenney'
 summary: >-
-  Tenney, Das and Pavlick (2019). Read in NOTE-tmpb5hqz. A probed ordering
+  Tenney, Das and Pavlick (2019). Read in [NOTE-tmpb5hqz](../notes.d/NOTE-tmpb5hqz.md). A probed ordering
   of linguistic information by layer in BERT, weak in the middle and
-  revised per example. Here for CLAIM-tmpcvuyr, which it qualifies.
+  revised per example. Here for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), which it qualifies.
 ---
 <!-- inactive-ok-file: THEORY-tmp3dee0 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpcvuyr — Proposed; filed in this contribution of 2026-11-20 -->
@@ -38,5 +38,5 @@ Tenney, Das and Pavlick. arXiv 1905.05950 (2019).
 ## Standing in the record
 
 Registered on 2026-11-20 for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), on what transformer depth
-organizes. Read on 2026-11-21 in NOTE-tmpb5hqz; the reading is THEORY-tmp3dee0. Flagged anthology-candidate: the anthology may want it for
+organizes. Read on 2026-11-21 in [NOTE-tmpb5hqz](../notes.d/NOTE-tmpb5hqz.md); the reading is [THEORY-tmp3dee0](../theory.d/THEORY-tmp3dee0.md). Flagged anthology-candidate: the anthology may want it for
 machine-learning practice.

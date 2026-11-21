@@ -46,9 +46,9 @@ Well-normed atoms, not maintained during training; sharpness bounds for atoms; u
 
 ## Bearing on the record
 
-- **CLAIM-tmpqwoxz** (supports; defeater (b) not met; qualified). Mass is a free per-module parameter apportioning update size, and zero mass freezes a module, the claim's limiting case of a slow module as constraint. Qualification written into version 2: masses set O(1) ratios and depth shares; width exponents are set by each atom's norm. The paper aims at balance and says nothing about levels or the lazy regime.
-- **CLAIM-tmp2yj4t** (qualifies): the paper uses a 1/L branch multiplier at initialization as well, justified by sharpness and unit sensitivity, not by drift; on the claim's table random contributions at initialization would then vanish as √L/L, which the paper neither discusses nor measures.
-- **Recheck**: THEORY-082 (steepest descent defined only relative to a metric) is the held ground for reading the modular norm as a choice of metric; THEORY-1640 (LoRA: frozen weights plus a low-rank update) is a practical instance of mass-zero freezing.
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (supports; defeater (b) not met; qualified). Mass is a free per-module parameter apportioning update size, and zero mass freezes a module, the claim's limiting case of a slow module as constraint. Qualification written into version 2: masses set O(1) ratios and depth shares; width exponents are set by each atom's norm. The paper aims at balance and says nothing about levels or the lazy regime.
+- **[CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md)** (qualifies): the paper uses a 1/L branch multiplier at initialization as well, justified by sharpness and unit sensitivity, not by drift; on the claim's table random contributions at initialization would then vanish as √L/L, which the paper neither discusses nor measures.
+- **Recheck**: [THEORY-082](../theory.d/THEORY-082.md) (steepest descent defined only relative to a metric) is the held ground for reading the modular norm as a choice of metric; [THEORY-1640](../theory.d/THEORY-1640.md) (LoRA: frozen weights plus a low-rank update) is a practical instance of mass-zero freezing.
 
 ## Limitations
 

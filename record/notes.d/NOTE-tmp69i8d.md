@@ -37,10 +37,10 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmp7rohc** (step 1 confirmed): the assistant's own check of 2026-11-21 fitted exponents to ln b/ln(1/(bg)), which equals ln b/(ln(1/g) − ln b); the lead's first guess, ln b/ln(1/g), holds only for g the ratio of total escape rates. A finite designed tree shows a power-law window that ends exponentially.
-- **CLAIM-tmp6q7ma** (grounds): a tree of rate differences seen from one state decays as a power of time.
-- **CLAIM-tmpxi826** (supports by setting): the metric tree here, rates e^(−h) at the common ancestor, is that claim's limit; this paper supplies the dynamics on it.
-- **CLAIM-tmpy75jv** (qualifies): a level stays a level only while its rate ratio beats the branching; the number of states in a block matters, not only the spread of rates within it.
+- **[LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md)** (step 1 confirmed): the assistant's own check of 2026-11-21 fitted exponents to ln b/ln(1/(bg)), which equals ln b/(ln(1/g) − ln b); the lead's first guess, ln b/ln(1/g), holds only for g the ratio of total escape rates. A finite designed tree shows a power-law window that ends exponentially.
+- **[CLAIM-tmp6q7ma](../claims.d/CLAIM-tmp6q7ma.md)** (grounds): a tree of rate differences seen from one state decays as a power of time.
+- **[CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md)** (supports by setting): the metric tree here, rates e^(−h) at the common ancestor, is that claim's limit; this paper supplies the dynamics on it.
+- **[CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md)** (qualifies): a level stays a level only while its rate ratio beats the branching; the number of states in a block matters, not only the spread of rates within it.
 
 ## Limitations
 

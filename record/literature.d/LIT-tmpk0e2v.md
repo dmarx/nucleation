@@ -8,9 +8,9 @@ status_note: >-
   Cloudflare challenges (403); pmc.ncbi.nlm.nih.gov/articles/PMC1689473/
   with a reCAPTCHA; an author's manuscript at
   dklevine.com/users/levucla/hyperbolic.pdf with HTTP 401. None was
-  retried or worked around. Unfetched (ADR-053). Neighbours read in its
-  place: Fedus and colleagues (LIT-tmpa91zo) and Anchugina, Ryan and
-  Slinko (LIT-tmpjj3rr).
+  retried or worked around. Unfetched ([ADR-053](../decisions.d/ADR-053.md)). Neighbours read in its
+  place: Fedus and colleagues ([LIT-tmpa91zo](LIT-tmpa91zo.md)) and Anchugina, Ryan and
+  Slinko ([LIT-tmpjj3rr](LIT-tmpjj3rr.md)).
 title: 'On hyperbolic discounting and uncertain hazard rates'
 version: 2
 history:
@@ -38,12 +38,12 @@ doi: '10.1098/rspb.1998.0534'
 first_author: 'Sozou'
 summary: >-
   Sozou (1998), Proceedings of the Royal Society B. Not read; reached
-  through neighbours (NOTE-tmpanyxy, NOTE-tmpzdxq3). As they restate it:
+  through neighbours ([NOTE-tmpanyxy](../notes.d/NOTE-tmpanyxy.md), [NOTE-tmpzdxq3](../notes.d/NOTE-tmpzdxq3.md)). As they restate it:
   discounting as survival with a constant but unknown hazard rate averages
   exponentials over the prior on the hazard, its Laplace transform; an
   exponential prior gives exactly the hyperbola 1/(1 + kt), a gamma prior
-  1/(1 + bt)^c, a uniform prior (1 − e^(−kt))/(kt). Here for LEAD-tmp7rohc
-  and THEORY-1117.
+  1/(1 + bt)^c, a uniform prior (1 − e^(−kt))/(kt). Here for [LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md)
+  and [THEORY-1117](../theory.d/THEORY-1117.md).
 ---
 <!-- inactive-ok-file: ADR-114 NOTE-tmpanyxy NOTE-tmpzdxq3 THEORY-tmp2kqhd — Proposed, Skimmed; cited in the readings of 2026-11-21 -->
 
@@ -58,4 +58,4 @@ Registered on 2026-11-20 for [LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md). Not r
 
 ## Neighbours (2026-11-21)
 
-Not read. Fedus and colleagues (LIT-tmpa91zo, NOTE-tmpanyxy, THEORY-tmp2kqhd) stand in for the derivation: "Sozou (1998) shows that under an exponential prior of hazard" the "expected survival rate for the agent is hyperbolic", and "We reproduce two figures from Sozou (1998)". Anchugina, Ryan and Slinko (LIT-tmpjj3rr, NOTE-tmpzdxq3) restate the exponential-prior result in one sentence.
+Not read. Fedus and colleagues ([LIT-tmpa91zo](LIT-tmpa91zo.md), [NOTE-tmpanyxy](../notes.d/NOTE-tmpanyxy.md), [THEORY-tmp2kqhd](../theory.d/THEORY-tmp2kqhd.md)) stand in for the derivation: "Sozou (1998) shows that under an exponential prior of hazard" the "expected survival rate for the agent is hyperbolic", and "We reproduce two figures from Sozou (1998)". Anchugina, Ryan and Slinko ([LIT-tmpjj3rr](LIT-tmpjj3rr.md), [NOTE-tmpzdxq3](../notes.d/NOTE-tmpzdxq3.md)) restate the exponential-prior result in one sentence.

@@ -46,10 +46,10 @@ Deterministic linear or C¹ nonlinear systems, possibly time-varying; exact inva
 
 ## Bearing on the record
 
-- **CLAIM-tmpdx6l8** (qualifies). One framework covers DeGroot-type averaging and Markov flows, which supports reading forgetting and anchoring as one contraction. But semicontraction guarantees only that the part off the kernel forgets; keeping the start needs the parallel map to be the identity on a conserved functional, as πF in DeGroot or 1ᵀx under Aᵀ. Revised (version 3).
-- **THEORY-960** (supports and generalizes): the spread contraction of DeGroot with τ₁ as factor, extended to time-varying matrices and ℓp; the consensus value itself is not stated.
-- **CLAIM-635** (no bearing on the bound): the paper has no information measure. The reader infers that a non-constant harmonic observable rules out strong semicontraction in the consensus seminorm, consistent with CLAIM-635 needing reducible or time-dependent chains.
-- **Recheck** found the paper's setting near CLAIM-388 (exact closure of a sum), CLAIM-386 and QUESTION-221 (near-decomposability, the approximate invariance the paper does not cover) and THEORY-155 (iterated learning converging to the prior: global contraction in total variation).
+- **[CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)** (qualifies). One framework covers DeGroot-type averaging and Markov flows, which supports reading forgetting and anchoring as one contraction. But semicontraction guarantees only that the part off the kernel forgets; keeping the start needs the parallel map to be the identity on a conserved functional, as πF in DeGroot or 1ᵀx under Aᵀ. Revised (version 3).
+- **[THEORY-960](../theory.d/THEORY-960.md)** (supports and generalizes): the spread contraction of DeGroot with τ₁ as factor, extended to time-varying matrices and ℓp; the consensus value itself is not stated.
+- **[CLAIM-635](../claims.d/CLAIM-635.md)** (no bearing on the bound): the paper has no information measure. The reader infers that a non-constant harmonic observable rules out strong semicontraction in the consensus seminorm, consistent with [CLAIM-635](../claims.d/CLAIM-635.md) needing reducible or time-dependent chains.
+- **Recheck** found the paper's setting near [CLAIM-388](../claims.d/CLAIM-388.md) (exact closure of a sum), [CLAIM-386](../claims.d/CLAIM-386.md) and [QUESTION-221](../questions.d/QUESTION-221.md) (near-decomposability, the approximate invariance the paper does not cover) and [THEORY-155](../theory.d/THEORY-155.md) (iterated learning converging to the prior: global contraction in total variation).
 
 ## Limitations
 

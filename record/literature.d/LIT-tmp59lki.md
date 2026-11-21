@@ -18,7 +18,7 @@ published: '2005-05-24'
 arxiv: 'cond-mat/0505585'
 first_author: 'Lukierska-Walasek'
 summary: >-
-  Lukierska-Walasek and Topolski (2005). Read in NOTE-tmpikcji. A p-adic
+  Lukierska-Walasek and Topolski (2005). Read in [NOTE-tmpikcji](../notes.d/NOTE-tmpikcji.md). A p-adic
   generalization of Ogielski and Stein's tree model, restating it, with a
   temperature-dependent power law t^(−T ln 2/Δ) for linearly growing
   barriers and the Kohlrausch law for logarithmically growing ones.
@@ -31,4 +31,4 @@ Lukierska-Walasek and Topolski. arXiv cond-mat/0505585 (2005).
 
 ## Standing in the record
 
-Registered on 2026-11-21 as a stand-in for Ogielski and Stein's model (LIT-tmpslg57); read in NOTE-tmpikcji. Quoted, not given a THEORY: the record uses its description of the model and its exponent in total-rate form.
+Registered on 2026-11-21 as a stand-in for Ogielski and Stein's model ([LIT-tmpslg57](LIT-tmpslg57.md)); read in [NOTE-tmpikcji](../notes.d/NOTE-tmpikcji.md). Quoted, not given a THEORY: the record uses its description of the model and its exponent in total-rate form.

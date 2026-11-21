@@ -25,8 +25,8 @@ arxiv: '2405.14813'
 first_author: 'Large'
 summary: >-
   Large, Liu, Huh, Bahng, Isola and Bernstein (2024). Read in
-  NOTE-tmpzip1x. The modular norm, with per-module mass apportioning
-  learning. Here for CLAIM-tmpqwoxz, which it supports.
+  [NOTE-tmpzip1x](../notes.d/NOTE-tmpzip1x.md). The modular norm, with per-module mass apportioning
+  learning. Here for [CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md), which it supports.
 ---
 <!-- inactive-ok-file: THEORY-tmphj4hu — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpqwoxz — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
@@ -38,6 +38,6 @@ Large, Liu, Huh, Bahng, Isola and Bernstein. arXiv 2405.14813 (2024).
 ## Standing in the record
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
-and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in NOTE-tmpzip1x; the reading is THEORY-tmphj4hu. Read on 2026-11-21 in NOTE-tmpzip1x; the reading is THEORY-tmphj4hu. Flagged anthology-candidate: the
+and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in [NOTE-tmpzip1x](../notes.d/NOTE-tmpzip1x.md); the reading is [THEORY-tmphj4hu](../theory.d/THEORY-tmphj4hu.md). Read on 2026-11-21 in [NOTE-tmpzip1x](../notes.d/NOTE-tmpzip1x.md); the reading is [THEORY-tmphj4hu](../theory.d/THEORY-tmphj4hu.md). Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

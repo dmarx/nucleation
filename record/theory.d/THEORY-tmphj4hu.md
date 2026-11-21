@@ -16,17 +16,17 @@ date: '2026-11-21'
 source:
 - LIT-tmp4b6aq
 summary: >-
-  The modular norm read for CLAIM-tmpqwoxz: mass is a hand-set allocation
+  The modular norm read for [CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md): mass is a hand-set allocation
   of learning among modules, in ratios, with width handled by the atoms'
   norms. Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: CLAIM-tmpqwoxz LIT-tmp4b6aq NOTE-tmpzip1x THEORY-tmpgdk30 THEORY-tmpig1z0 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpqwoxz THEORY-tmpgdk30 THEORY-tmpig1z0 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmphj4hu: Large, Liu, Huh, Bahng, Isola and Bernstein define a modular norm on a network's weights, built recursively from per-module norms, masses and sensitivities, in which each module's contribution to the linearized change in output is bounded by its share of the total mass, zero mass freezing a module; normalizing updates in it made learning rates transfer across width and depth in their experiments, and a 1/L residual construction has depth-independent sharpness
 
 ## Source
 
-Large, Liu, Huh, Bahng, Isola and Bernstein, LIT-tmp4b6aq, read in NOTE-tmpzip1x from arXiv 2405.14813v1 (23 May 2024).
+Large, Liu, Huh, Bahng, Isola and Bernstein, [LIT-tmp4b6aq](../literature.d/LIT-tmp4b6aq.md), read in [NOTE-tmpzip1x](../notes.d/NOTE-tmpzip1x.md) from arXiv 2405.14813v1 (23 May 2024).
 
 ## What was actually shown
 
@@ -38,4 +38,4 @@ Nothing about the lazy regime, levels or time scales; Proposition 3 does not sho
 
 ## Connections
 
-THEORY-tmpgdk30 (modular duality, built on this norm); THEORY-tmpig1z0 (the spectral condition, the atoms' norm for linear layers); THEORY-082.
+[THEORY-tmpgdk30](THEORY-tmpgdk30.md) (modular duality, built on this norm); [THEORY-tmpig1z0](THEORY-tmpig1z0.md) (the spectral condition, the atoms' norm for linear layers); [THEORY-082](THEORY-082.md).

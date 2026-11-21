@@ -27,7 +27,7 @@ summary: >-
 
 ## Bearing on the record
 
-Corroborates Fedus and colleagues' restatement (NOTE-tmpanyxy) for LIT-tmpk0e2v. Aggregating exponential discounters into a decreasing-impatience curve is the same averaging LEAD-tmp7rohc names.
+Corroborates Fedus and colleagues' restatement ([NOTE-tmpanyxy](NOTE-tmpanyxy.md)) for [LIT-tmpk0e2v](../literature.d/LIT-tmpk0e2v.md). Aggregating exponential discounters into a decreasing-impatience curve is the same averaging [LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md) names.
 
 ## Limitations
 

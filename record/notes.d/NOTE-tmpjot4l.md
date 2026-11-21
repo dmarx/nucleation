@@ -23,7 +23,7 @@ summary: >-
   definitions, not the record's small-noise ε^U form.
 ---
 <!-- inactive-ok-file: ADR-108 THEORY-1366 THEORY-1370 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmp9lm3d CLAIM-tmpxi826 CLAIM-tmpy75jv QUESTION-tmp4ma9f QUESTION-tmpv6fxp — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmp9lm3d CLAIM-tmpxi826 CLAIM-tmpy75jv — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # NOTE-tmpjot4l: Bovier, Eckhoff, Gayrard and Klein — Metastability and low lying spectra
 
@@ -47,12 +47,12 @@ Reversible, discrete-time, finite state space growing with N; metastability and 
 
 ## Bearing on the record
 
-- **CLAIM-tmpxi826** (supports and generalizes, and corrects one sentence). The paper's almost-ultrametric is the general reversible counterpart of the claim's bound, with a slack (ln 3) independent of N, n and E, and barriers measured from wells as the claim guessed. The claim's sentence that the record "holds neither" Freidlin–Wentzell nor metastability theory was wrong: LIT-2035 (Freidlin and Wentzell, THEORY-1366) and LIT-2037 (Berglund, THEORY-1370) are held. The reader also observed that the logarithm of any metric satisfies the ultrametric inequality up to ln 2 (d(x,z) ≤ 2·max(d(x,y), d(y,z))), so bounded hyperbolicity of a log commute-time geometry holds for every chain; what the rates add is which ultrametric and how far apart its levels are. The claim is restated (version 3).
-- **CLAIM-581** (supports by analogy): the capacity ultrametric is the probabilistic counterpart of the peak-cost threshold.
-- **CLAIM-tmp9lm3d** (qualifies): genericity excludes near-crossings; the degenerate-case remark is the paper's form of levels blurring there.
-- **CLAIM-tmpy75jv** (supports and qualifies): one eigenvalue per metastable point with eigenvector near the valley indicator is the spectral form of a closing aggregate; the ratio that matters combines rates, masses and the shape of the space.
-- **QUESTION-tmpv6fxp** (bears): separation here can come from geometry and entropy (the factor N^{−(d−2)/2}), not rates alone; the question is restated.
-- **QUESTION-tmp4ma9f** (bears): the ultrametric slack is ln 3 independent of n and E, supporting the suspicion that the proven factor's size dependence is an artefact.
+- **[CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md)** (supports and generalizes, and corrects one sentence). The paper's almost-ultrametric is the general reversible counterpart of the claim's bound, with a slack (ln 3) independent of N, n and E, and barriers measured from wells as the claim guessed. The claim's sentence that the record "holds neither" Freidlin–Wentzell nor metastability theory was wrong: [LIT-2035](../literature.d/LIT-2035.md) (Freidlin and Wentzell, [THEORY-1366](../theory.d/THEORY-1366.md)) and [LIT-2037](../literature.d/LIT-2037.md) (Berglund, [THEORY-1370](../theory.d/THEORY-1370.md)) are held. The reader also observed that the logarithm of any metric satisfies the ultrametric inequality up to ln 2 (d(x,z) ≤ 2·max(d(x,y), d(y,z))), so bounded hyperbolicity of a log commute-time geometry holds for every chain; what the rates add is which ultrametric and how far apart its levels are. The claim is restated (version 3).
+- **[CLAIM-581](../claims.d/CLAIM-581.md)** (supports by analogy): the capacity ultrametric is the probabilistic counterpart of the peak-cost threshold.
+- **[CLAIM-tmp9lm3d](../claims.d/CLAIM-tmp9lm3d.md)** (qualifies): genericity excludes near-crossings; the degenerate-case remark is the paper's form of levels blurring there.
+- **[CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md)** (supports and qualifies): one eigenvalue per metastable point with eigenvector near the valley indicator is the spectral form of a closing aggregate; the ratio that matters combines rates, masses and the shape of the space.
+- **[QUESTION-tmpv6fxp](../questions.d/QUESTION-tmpv6fxp.md)** (bears): separation here can come from geometry and entropy (the factor N^{−(d−2)/2}), not rates alone; the question is restated.
+- **[QUESTION-tmp4ma9f](../questions.d/QUESTION-tmp4ma9f.md)** (bears): the ultrametric slack is ln 3 independent of n and E, supporting the suspicion that the proven factor's size dependence is an artefact.
 
 ## Limitations
 

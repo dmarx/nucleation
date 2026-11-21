@@ -25,8 +25,8 @@ arxiv: '2310.02244'
 first_author: 'Yang'
 summary: >-
   Yang, Yu, Zhu and Hayou (2023), Tensor Programs VI. Read in
-  NOTE-tmppdqgb. Depth-μP, feature diversity, and the per-block Θ(1/√L)
-  and Θ(1/L) contributions. Here for CLAIM-tmp2yj4t, which it supports.
+  [NOTE-tmppdqgb](../notes.d/NOTE-tmppdqgb.md). Depth-μP, feature diversity, and the per-block Θ(1/√L)
+  and Θ(1/L) contributions. Here for [CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md), which it supports.
 ---
 <!-- inactive-ok-file: THEORY-tmpbyw89 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmp2yj4t — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
@@ -38,6 +38,6 @@ Yang, Yu, Zhu and Hayou. arXiv 2310.02244 (2023).
 ## Standing in the record
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
-and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in NOTE-tmppdqgb; the reading is THEORY-tmpbyw89. Read on 2026-11-21 in NOTE-tmppdqgb; the reading is THEORY-tmpbyw89. Flagged anthology-candidate: the
+and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in [NOTE-tmppdqgb](../notes.d/NOTE-tmppdqgb.md); the reading is [THEORY-tmpbyw89](../theory.d/THEORY-tmpbyw89.md). Read on 2026-11-21 in [NOTE-tmppdqgb](../notes.d/NOTE-tmppdqgb.md); the reading is [THEORY-tmpbyw89](../theory.d/THEORY-tmpbyw89.md). Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

@@ -44,12 +44,12 @@ Continuous time, deterministic, f twice differentiable; convex invariant domains
 
 ## Bearing on the record
 
-- **CLAIM-tmpdx6l8** (qualifies). The paper supports one framework for global and partial contraction (a seminorm with trivial kernel is a norm, p. 3), but semi-contraction alone keeps nothing: the kernel is where the system does not contract, which is not a part it conserves. What a limit keeps is fixed by an exact conserved functional (vᵀx), DeGroot's mechanism (THEORY-960). The claim is revised to say so (version 3).
-- **TERM-tmp7i7ed** (qualifies). The kernel of a seminorm may hold neutral or expansive directions; the term's conserved part is the exactly conserved functionals, not the kernel. Revised (version 2).
-- **ARG-tmp5ahr5** (qualifies). ODEs only; strengthens the argument's reliance on an exact invariant.
-- **THEORY-960** (supports, continuous-time counterpart): the consensus value is fixed by the invariant vᵀx as DeGroot's by πF.
-- **THEORY-2044** (supports): Remark 14 presents Theorem 13(ii) as a generalization of partial contraction.
-- **THEORY-1161** (Friedkin–Johnsen, held; the reader's recheck): "anchoring on initial positions" re-injects the start as a persistent input, the b term here, a different sense of anchoring from keeping a conserved part; named in CLAIM-tmpdx6l8's limits.
+- **[CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)** (qualifies). The paper supports one framework for global and partial contraction (a seminorm with trivial kernel is a norm, p. 3), but semi-contraction alone keeps nothing: the kernel is where the system does not contract, which is not a part it conserves. What a limit keeps is fixed by an exact conserved functional (vᵀx), DeGroot's mechanism ([THEORY-960](../theory.d/THEORY-960.md)). The claim is revised to say so (version 3).
+- **[TERM-tmp7i7ed](../terms.d/TERM-tmp7i7ed.md)** (qualifies). The kernel of a seminorm may hold neutral or expansive directions; the term's conserved part is the exactly conserved functionals, not the kernel. Revised (version 2).
+- **[ARG-tmp5ahr5](../arguments.d/ARG-tmp5ahr5.md)** (qualifies). ODEs only; strengthens the argument's reliance on an exact invariant.
+- **[THEORY-960](../theory.d/THEORY-960.md)** (supports, continuous-time counterpart): the consensus value is fixed by the invariant vᵀx as DeGroot's by πF.
+- **[THEORY-2044](../theory.d/THEORY-2044.md)** (supports): Remark 14 presents Theorem 13(ii) as a generalization of partial contraction.
+- **[THEORY-1161](../theory.d/THEORY-1161.md)** (Friedkin–Johnsen, held; the reader's recheck): "anchoring on initial positions" re-injects the start as a persistent input, the b term here, a different sense of anchoring from keeping a conserved part; named in [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)'s limits.
 
 ## Limitations
 

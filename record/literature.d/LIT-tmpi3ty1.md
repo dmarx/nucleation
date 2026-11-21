@@ -25,9 +25,9 @@ published: '2024-07-12'
 arxiv: '2407.09298'
 first_author: 'Sun'
 summary: >-
-  Sun, Pickett, Nain and Jones (2024; AAAI 2025). Read in NOTE-tmpekh8j. A
+  Sun, Pickett, Nain and Jones (2024; AAAI 2025). Read in [NOTE-tmpekh8j](../notes.d/NOTE-tmpekh8j.md). A
   robust, shared but non-redundant middle in transformer depth. Here for
-  CLAIM-tmpcvuyr, which it supports and corrects.
+  [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), which it supports and corrects.
 ---
 <!-- inactive-ok-file: THEORY-tmpuxsx9 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpcvuyr — Proposed; filed in this contribution of 2026-11-20 -->
@@ -39,5 +39,5 @@ Sun, Pickett, Nain and Jones. arXiv 2407.09298 (2024).
 ## Standing in the record
 
 Registered on 2026-11-20 for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), on what transformer depth
-organizes. Read on 2026-11-21 in NOTE-tmpekh8j; the reading is THEORY-tmpuxsx9. Flagged anthology-candidate: the anthology may want it for
+organizes. Read on 2026-11-21 in [NOTE-tmpekh8j](../notes.d/NOTE-tmpekh8j.md); the reading is [THEORY-tmpuxsx9](../theory.d/THEORY-tmpuxsx9.md). Flagged anthology-candidate: the anthology may want it for
 machine-learning practice.

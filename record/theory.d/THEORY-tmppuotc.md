@@ -16,7 +16,7 @@ source:
 - LIT-tmpkmjuj
 summary: >-
   Ultradiffusion, read as the stand-in for Ogielski and Stein. It is what
-  a tree of rate differences (CLAIM-tmpxi826's limit) looks like from one
+  a tree of rate differences ([CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md)'s limit) looks like from one
   state over time: a power law, not an exponential. Proposed until its
   promote_when is met.
 ---
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Bachas and Huberman, LIT-tmpkmjuj, read in NOTE-tmp69i8d from the SLAC preprint, as a stand-in for Ogielski and Stein (LIT-tmpslg57, Unfetched).
+Bachas and Huberman, [LIT-tmpkmjuj](../literature.d/LIT-tmpkmjuj.md), read in [NOTE-tmp69i8d](../notes.d/NOTE-tmp69i8d.md) from the SLAC preprint, as a stand-in for Ogielski and Stein ([LIT-tmpslg57](../literature.d/LIT-tmpslg57.md), Unfetched).
 
 ## What was actually shown
 
@@ -38,4 +38,4 @@ Nothing about trees whose levels are not uniform beyond §3's remarks, and nothi
 
 ## Connections
 
-CLAIM-tmpxi826 (the tree in the limit); THEORY-tmph10k5 (Bovier and colleagues: the hierarchy of metastable sets); CLAIM-tmp6q7ma (hyperbolic-like discounting from a tree of rates); the assistant's check of 2026-11-21 (curation entry of that date), which fitted the same exponent on finite trees.
+[CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md) (the tree in the limit); [THEORY-tmph10k5](THEORY-tmph10k5.md) (Bovier and colleagues: the hierarchy of metastable sets); [CLAIM-tmp6q7ma](../claims.d/CLAIM-tmp6q7ma.md) (hyperbolic-like discounting from a tree of rates); the assistant's check of 2026-11-21 (curation entry of that date), which fitted the same exponent on finite trees.

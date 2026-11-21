@@ -20,13 +20,13 @@ summary: >-
   be fetched. Proposed until Sozou is read.
 ---
 <!-- inactive-ok-file: NOTE-tmpanyxy NOTE-tmpzdxq3 — Skimmed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: LIT-tmpk0e2v CLAIM-tmpve51e CLAIM-tmp6q7ma THEORY-1117 THEORY-067 CLAIM-198 — Proposed, Deferred, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: LIT-tmpk0e2v CLAIM-tmpve51e CLAIM-tmp6q7ma THEORY-067 CLAIM-198 — Proposed, Deferred, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmp2kqhd: Fedus and colleagues restate Sozou's result that an agent discounting future reward by its probability of surviving to collect it, with a constant but unknown hazard rate, discounts by the Laplace transform of its prior over the hazard, so that an exponential prior gives exactly the hyperbola 1/(1 + kt), a gamma prior 1/(1 + bt)^c and a uniform prior (1 − e^(−kt))/(kt)
 
 ## Source
 
-Fedus, Gelada, Bengio, Bellemare and Larochelle, LIT-tmpa91zo, read in NOTE-tmpanyxy, restating Sozou (LIT-tmpk0e2v, Unfetched); corroborated by Anchugina, Ryan and Slinko (NOTE-tmpzdxq3).
+Fedus, Gelada, Bengio, Bellemare and Larochelle, [LIT-tmpa91zo](../literature.d/LIT-tmpa91zo.md), read in [NOTE-tmpanyxy](../notes.d/NOTE-tmpanyxy.md), restating Sozou ([LIT-tmpk0e2v](../literature.d/LIT-tmpk0e2v.md), Unfetched); corroborated by Anchugina, Ryan and Slinko ([NOTE-tmpzdxq3](../notes.d/NOTE-tmpzdxq3.md)).
 
 ## What was actually shown
 
@@ -38,4 +38,4 @@ Not Sozou's own treatment of preference reversal or updating; not that every spr
 
 ## Connections
 
-THEORY-1117 and THEORY-067 (Ainslie); CLAIM-198 (preference reversal); CLAIM-tmpve51e (the same integral with rate and time swapped); CLAIM-tmp6q7ma.
+[THEORY-1117](THEORY-1117.md) and [THEORY-067](THEORY-067.md) (Ainslie); [CLAIM-198](../claims.d/CLAIM-198.md) (preference reversal); [CLAIM-tmpve51e](../claims.d/CLAIM-tmpve51e.md) (the same integral with rate and time swapped); [CLAIM-tmp6q7ma](../claims.d/CLAIM-tmp6q7ma.md).

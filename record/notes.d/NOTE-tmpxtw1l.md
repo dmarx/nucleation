@@ -21,7 +21,7 @@ summary: >-
   not orthogonalization.
 ---
 <!-- inactive-ok-file: ADR-108 THEORY-1874 THEORY-212 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpmugkp CLAIM-tmpqwoxz LIT-tmpj34ir — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpmugkp CLAIM-tmpqwoxz — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # NOTE-tmpxtw1l: Yang, Simon and Bernstein — A spectral condition for feature learning
 
@@ -46,10 +46,10 @@ Width only (depth, schedule and global prefactors hidden); Assumptions 1–4 in 
 
 ## Bearing on the record
 
-- **CLAIM-tmpqwoxz** (supports and qualifies): every hidden layer's features change at the same order under the maximal scaling, and NTP's updates vanish in spectral norm. Qualifications: these are per-step update sizes in width, not rates in time; equal order is what the maximal scaling gives, not what feature learning requires.
-- **CLAIM-tmpmugkp** (no bearing): eq. 17 rescales the gradient as a whole and keeps its spectrum; it is not the polar factor. It supplies the per-layer size a spectral steepest-descent step should have.
-- **LIT-tmpj34ir**: the earlier summary's "fan-out over fan-in" should read √(fan-out/fan-in); corrected.
-- **Recheck**: THEORY-212, THEORY-086 (kernel-regime eigenspace rates), THEORY-1874 (low-rank fine-tuning updates).
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (supports and qualifies): every hidden layer's features change at the same order under the maximal scaling, and NTP's updates vanish in spectral norm. Qualifications: these are per-step update sizes in width, not rates in time; equal order is what the maximal scaling gives, not what feature learning requires.
+- **[CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md)** (no bearing): eq. 17 rescales the gradient as a whole and keeps its spectrum; it is not the polar factor. It supplies the per-layer size a spectral steepest-descent step should have.
+- **[LIT-tmpj34ir](../literature.d/LIT-tmpj34ir.md)**: the earlier summary's "fan-out over fan-in" should read √(fan-out/fan-in); corrected.
+- **Recheck**: [THEORY-212](../theory.d/THEORY-212.md), [THEORY-086](../theory.d/THEORY-086.md) (kernel-regime eigenspace rates), [THEORY-1874](../theory.d/THEORY-1874.md) (low-rank fine-tuning updates).
 
 ## Limitations
 

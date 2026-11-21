@@ -44,8 +44,8 @@ Frozen encoder; probe-extractable information counted as encoded; one model fami
 
 ## Bearing on the record
 
-- **CLAIM-tmpcvuyr** (qualifies; supports more than it defeats). The ordering is of overlapping regions at which a probe best extracts each kind of information, not a sequence of levels each depending on the last; defeater (b) is not met. Version 2 rewords the claim's sentence on this paper accordingly.
-- **Recheck**: THEORY-1030 and THEORY-1033 (Geva and colleagues, held: a shallow-to-semantic gradient across FFN layers, and the residual stream refining the prediction) carry both halves of CLAIM-tmpcvuyr in one reading and are added to its grounds; THEORY-104 (best readout below the top) matches the drop in the last one or two layers.
+- **[CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)** (qualifies; supports more than it defeats). The ordering is of overlapping regions at which a probe best extracts each kind of information, not a sequence of levels each depending on the last; defeater (b) is not met. Version 2 rewords the claim's sentence on this paper accordingly.
+- **Recheck**: [THEORY-1030](../theory.d/THEORY-1030.md) and [THEORY-1033](../theory.d/THEORY-1033.md) (Geva and colleagues, held: a shallow-to-semantic gradient across FFN layers, and the residual stream refining the prediction) carry both halves of [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md) in one reading and are added to its grounds; [THEORY-104](../theory.d/THEORY-104.md) (best readout below the top) matches the drop in the last one or two layers.
 
 ## Limitations
 

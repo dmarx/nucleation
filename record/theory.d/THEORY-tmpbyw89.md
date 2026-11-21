@@ -18,17 +18,17 @@ source:
 - LIT-tmp4peep
 summary: >-
   The depth side of the record's drift reading of residual networks
-  (CLAIM-tmp2yj4t): the diffusive and systematic rows in the paper's own
+  ([CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md)): the diffusive and systematic rows in the paper's own
   terms, and deeper blocks as a clash between them. Proposed until its
   promote_when is met.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmphedau LIT-tmp4peep NOTE-tmppdqgb THEORY-tmp7n7a9 THEORY-tmpybeh6 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmphedau THEORY-tmp7n7a9 THEORY-tmpybeh6 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmpbyw89: Yang, Yu, Zhu and Hayou show that in the infinite-width-then-depth limit of residual networks with one-layer blocks, training is stable and nontrivial only when the branch multiplier exponent is at least one half and the two exponents sum to one, and that Depth-μP, both exponents one half, uniquely maximizes feature diversity, each block contributing an independent order 1/√L at initialization and a correlated order 1/L through its update; for deeper blocks no parametrization keeps their layers interacting without instability or redundancy
 
 ## Source
 
-Yang, Yu, Zhu and Hayou, LIT-tmp4peep, read in NOTE-tmppdqgb from arXiv 2310.02244v5 (12 Oct 2023).
+Yang, Yu, Zhu and Hayou, [LIT-tmp4peep](../literature.d/LIT-tmp4peep.md), read in [NOTE-tmppdqgb](../notes.d/NOTE-tmppdqgb.md) from arXiv 2310.02244v5 (12 Oct 2023).
 
 ## What was actually shown
 
@@ -40,4 +40,4 @@ Nothing about networks without skips, trained behaviour beyond the limit, or blo
 
 ## Connections
 
-THEORY-tmpybeh6 (Bordelon and colleagues, the same rows by DMFT); THEORY-tmp7n7a9 (the width side); CLAIM-tmphedau (the drift table it instantiates).
+[THEORY-tmpybeh6](THEORY-tmpybeh6.md) (Bordelon and colleagues, the same rows by DMFT); [THEORY-tmp7n7a9](THEORY-tmp7n7a9.md) (the width side); [CLAIM-tmphedau](../claims.d/CLAIM-tmphedau.md) (the drift table it instantiates).

@@ -84,4 +84,4 @@ attractors themselves.
 
 ## Note of 2026-11-21: genericity and the degenerate case
 
-Bovier and colleagues (THEORY-tmph10k5) assume genericity, that relevant times differ by factors going to infinity, which excludes exactly the near-crossings where this claim says levels blur. Their remark on the degenerate case, where times "differ only by constant factors" and the spectrum "will have to be computed specially through a finite dimensional, non-trivial diagonalisation problem", is their form of the same point. A parallel, not further evidence about the tree's changes.
+Bovier and colleagues ([THEORY-tmph10k5](../theory.d/THEORY-tmph10k5.md)) assume genericity, that relevant times differ by factors going to infinity, which excludes exactly the near-crossings where this claim says levels blur. Their remark on the degenerate case, where times "differ only by constant factors" and the spectrum "will have to be computed specially through a finite dimensional, non-trivial diagonalisation problem", is their form of the same point. A parallel, not further evidence about the tree's changes.

@@ -36,10 +36,10 @@ summary: >-
 
 ## Bearing on the record
 
-- **LEAD-tmp7rohc** (step 2): confirms the discounting half through Sozou: hyperbolic discounting is exponential discounting averaged over a spread of hazard rates, exactly so for an exponential spread; a gamma spread gives a power-law tail.
-- **THEORY-1117** (Ainslie; qualifies): a rational, survival-based origin for the curve Ainslie takes as given; Ainslie's account of interests is untouched.
-- **CLAIM-tmpve51e** (qualifies): its E[a^W] = r/(r + ln(1/a)) is the same Laplace-transform integral with the roles of rate and time swapped: the wait is random there, the rate here.
-- **CLAIM-tmp6q7ma** (grounds).
+- **[LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md)** (step 2): confirms the discounting half through Sozou: hyperbolic discounting is exponential discounting averaged over a spread of hazard rates, exactly so for an exponential spread; a gamma spread gives a power-law tail.
+- **[THEORY-1117](../theory.d/THEORY-1117.md)** (Ainslie; qualifies): a rational, survival-based origin for the curve Ainslie takes as given; Ainslie's account of interests is untouched.
+- **[CLAIM-tmpve51e](../claims.d/CLAIM-tmpve51e.md)** (qualifies): its E[a^W] = r/(r + ln(1/a)) is the same Laplace-transform integral with the roles of rate and time swapped: the wait is random there, the rate here.
+- **[CLAIM-tmp6q7ma](../claims.d/CLAIM-tmp6q7ma.md)** (grounds).
 
 ## Limitations
 

@@ -20,7 +20,7 @@ arxiv: '1902.06865'
 first_author: 'Fedus'
 summary: >-
   Fedus, Gelada, Bengio, Bellemare and Larochelle (2019). Read in
-  NOTE-tmpanyxy as a stand-in for Sozou: discounting as survival under an
+  [NOTE-tmpanyxy](../notes.d/NOTE-tmpanyxy.md) as a stand-in for Sozou: discounting as survival under an
   uncertain hazard, the discount function as the Laplace transform of the
   prior, an exponential prior giving 1/(1 + kt); and hyperbolic
   discounting in reinforcement learning approximated by learning over many
@@ -34,4 +34,4 @@ Fedus, Gelada, Bengio, Bellemare and Larochelle. arXiv 1902.06865 (2019).
 
 ## Standing in the record
 
-Registered on 2026-11-21 as a stand-in for Sozou (LIT-tmpk0e2v), whose derivation it restates and two of whose figures it reproduces; read in NOTE-tmpanyxy; the reading is THEORY-tmp2kqhd. Flagged anthology-candidate for its reinforcement-learning method.
+Registered on 2026-11-21 as a stand-in for Sozou ([LIT-tmpk0e2v](LIT-tmpk0e2v.md)), whose derivation it restates and two of whose figures it reproduces; read in [NOTE-tmpanyxy](../notes.d/NOTE-tmpanyxy.md); the reading is [THEORY-tmp2kqhd](../theory.d/THEORY-tmp2kqhd.md). Flagged anthology-candidate for its reinforcement-learning method.

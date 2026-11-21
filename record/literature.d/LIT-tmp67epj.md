@@ -25,9 +25,9 @@ published: '2018-12-19'
 arxiv: '1812.07956'
 first_author: 'Chizat'
 summary: >-
-  Chizat, Oyallon and Bach (2018; NeurIPS 2019). Read in NOTE-tmpo2iav.
+  Chizat, Oyallon and Bach (2018; NeurIPS 2019). Read in [NOTE-tmpo2iav](../notes.d/NOTE-tmpo2iav.md).
   Lazy training produced by scale; parameters and tangent kernel slow,
-  output fast. Here for CLAIM-tmpqwoxz, which it supports and qualifies.
+  output fast. Here for [CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md), which it supports and qualifies.
 ---
 <!-- inactive-ok-file: THEORY-tmpecd1x — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpqwoxz — Proposed; filed in this contribution of 2026-11-20 or the one it builds on -->
@@ -39,6 +39,6 @@ Chizat, Oyallon and Bach. arXiv 1812.07956 (2018).
 ## Standing in the record
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
-and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in NOTE-tmpo2iav; the reading is THEORY-tmpecd1x. Read on 2026-11-21 in NOTE-tmpo2iav; the reading is THEORY-tmpecd1x. Flagged anthology-candidate: the
+and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in [NOTE-tmpo2iav](../notes.d/NOTE-tmpo2iav.md); the reading is [THEORY-tmpecd1x](../theory.d/THEORY-tmpecd1x.md). Read on 2026-11-21 in [NOTE-tmpo2iav](../notes.d/NOTE-tmpo2iav.md); the reading is [THEORY-tmpecd1x](../theory.d/THEORY-tmpecd1x.md). Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

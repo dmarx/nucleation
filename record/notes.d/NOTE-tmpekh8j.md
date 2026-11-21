@@ -46,8 +46,8 @@ Cosine similarity and skip-robustness as evidence of a shared space; frozen mode
 
 ## Bearing on the record
 
-- **CLAIM-tmpcvuyr** (supports, with corrections). Defeater (a) is not met for Llama2, Mistral or BERT. Corrections written into version 2: middle layers cannot be "repeated" (copies are catastrophic; only looping a parallel block is benign); "nearly interchangeable" overstates, the paper's phrase is uniformity without redundancy; the loss is graceful, not modest everywhere, steep for math and reasoning and for Pythia.
-- **Recheck**: LIT-657 (InfoRidge, held: middle blocks add the most information), LIT-850 and THEORY-176 (model stitching; a caution on reading skip-robustness as a shared space).
+- **[CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)** (supports, with corrections). Defeater (a) is not met for Llama2, Mistral or BERT. Corrections written into version 2: middle layers cannot be "repeated" (copies are catastrophic; only looping a parallel block is benign); "nearly interchangeable" overstates, the paper's phrase is uniformity without redundancy; the loss is graceful, not modest everywhere, steep for math and reasoning and for Pythia.
+- **Recheck**: [LIT-657](../literature.d/LIT-657.md) (InfoRidge, held: middle blocks add the most information), [LIT-850](../literature.d/LIT-850.md) and [THEORY-176](../theory.d/THEORY-176.md) (model stitching; a caution on reading skip-robustness as a shared space).
 
 ## Limitations
 

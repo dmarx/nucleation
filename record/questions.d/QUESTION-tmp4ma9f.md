@@ -26,7 +26,7 @@ summary: >-
   "rate differences" to "scale separation".
 ---
 <!-- inactive-ok-file: THEORY-tmph10k5 CLAIM-tmpxi826 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpy75jv CLAIM-478 — Proposed; filed in, or restated by, the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
+<!-- inactive-ok-file: CLAIM-tmpy75jv CLAIM-478 — Proposed; filed in, or restated by, the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 
 # QUESTION-tmp4ma9f: What rate ratio between the levels of a hierarchy, set against the spread of rates within a level and the size of the state space, is enough for a level to show in a chain's time geometry and keep its place in the tree: the proven sufficient factor, the square of the larger of the edge count and one less than the state count, is far above the ratios at which simulated hierarchies show
 
@@ -55,4 +55,4 @@ rate differences between levels that exceed those within.
 
 ## Note of 2026-11-21: a size-independent slack in the metastability literature
 
-Bovier and colleagues (THEORY-tmph10k5, read in NOTE-tmpjot4l) show that minus the logarithm of the capacity between metastable points is an ultrametric up to an additive ln 3, independent of N, n and E (Corollary 2.6, from Lemma 2.5, which holds for any points). That supports the suspicion here that CLAIM-tmpxi826's size-dependent factor is an artefact of worst-case bounds. It does not settle the question: their slack bounds the defect among capacities, not the distance from the minimax-barrier ultrametric, which still carries prefactors, and their results beyond §2 assume diverging time ratios.
+Bovier and colleagues ([THEORY-tmph10k5](../theory.d/THEORY-tmph10k5.md), read in [NOTE-tmpjot4l](../notes.d/NOTE-tmpjot4l.md)) show that minus the logarithm of the capacity between metastable points is an ultrametric up to an additive ln 3, independent of N, n and E (Corollary 2.6, from Lemma 2.5, which holds for any points). That supports the suspicion here that [CLAIM-tmpxi826](../claims.d/CLAIM-tmpxi826.md)'s size-dependent factor is an artefact of worst-case bounds. It does not settle the question: their slack bounds the defect among capacities, not the distance from the minimax-barrier ultrametric, which still carries prefactors, and their results beyond §2 assume diverging time ratios.

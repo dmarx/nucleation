@@ -16,17 +16,17 @@ source:
 - LIT-tmp166hz
 summary: >-
   The main evidence for an ordering of abstraction by depth, read as
-  overlapping regions rather than dependent levels (CLAIM-tmpcvuyr).
+  overlapping regions rather than dependent levels ([CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)).
   Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: THEORY-1030 THEORY-104 — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-tmpcvuyr LIT-tmp166hz NOTE-tmpb5hqz THEORY-tmpthk75 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpcvuyr THEORY-tmpthk75 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmp3dee0: Tenney, Das and Pavlick find in frozen BERT, by probes pooling layers with learned weights, syntactic information best extracted lower and more locally and semantic information higher and spread across many layers, an ordering that holds in aggregate, overlaps in the middle, and is revised for individual examples from higher-level information
 
 ## Source
 
-Tenney, Das and Pavlick, LIT-tmp166hz, read in NOTE-tmpb5hqz from arXiv 1905.05950v2 (9 Aug 2019).
+Tenney, Das and Pavlick, [LIT-tmp166hz](../literature.d/LIT-tmp166hz.md), read in [NOTE-tmpb5hqz](../notes.d/NOTE-tmpb5hqz.md) from arXiv 1905.05950v2 (9 Aug 2019).
 
 ## What was actually shown
 
@@ -38,4 +38,4 @@ Not that later layers depend on earlier ones, nor how the information is used; n
 
 ## Connections
 
-THEORY-1030, THEORY-1033 (Geva and colleagues); THEORY-104; THEORY-tmpthk75 (Lad and colleagues' stages).
+[THEORY-1030](THEORY-1030.md), [THEORY-1033](THEORY-1033.md) (Geva and colleagues); [THEORY-104](THEORY-104.md); [THEORY-tmpthk75](THEORY-tmpthk75.md) (Lad and colleagues' stages).

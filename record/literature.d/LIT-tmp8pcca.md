@@ -25,10 +25,10 @@ arxiv: '2303.08112'
 first_author: 'Belrose'
 summary: >-
   Belrose, Ostrovsky, McKinney, Furman, Smith, Halawi, Biderman and
-  Steinhardt (2023; v6 2025). Read in NOTE-tmp7qlv0. The tuned lens:
+  Steinhardt (2023; v6 2025). Read in [NOTE-tmp7qlv0](../notes.d/NOTE-tmp7qlv0.md). The tuned lens:
   smooth refinement of one prediction with depth, gradient-aligned
   residual updates, drifting representations. Held by the anthology as
-  ANTH-LIT-569. Here for CLAIM-tmpcvuyr, which it supports and qualifies.
+  [ANTH-LIT-569](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-569.md). Here for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), which it supports and qualifies.
 ---
 <!-- inactive-ok-file: THEORY-tmpky55f — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpcvuyr — Proposed; filed in this contribution of 2026-11-20 -->
@@ -40,5 +40,5 @@ Belrose, Ostrovsky, McKinney, Furman, Smith, Halawi, Biderman and Steinhardt. ar
 ## Standing in the record
 
 Registered on 2026-11-20 for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), on what transformer depth
-organizes. Read on 2026-11-21 in NOTE-tmp7qlv0; the reading is THEORY-tmpky55f. Flagged anthology-candidate: the anthology may want it for
+organizes. Read on 2026-11-21 in [NOTE-tmp7qlv0](../notes.d/NOTE-tmp7qlv0.md); the reading is [THEORY-tmpky55f](../theory.d/THEORY-tmpky55f.md). Flagged anthology-candidate: the anthology may want it for
 machine-learning practice.

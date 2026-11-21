@@ -18,16 +18,16 @@ source:
 - LIT-tmpi3ty1
 summary: >-
   Evidence for a broad, robust middle in transformer depth, with the
-  correction that it is uniform without being redundant (CLAIM-tmpcvuyr).
+  correction that it is uniform without being redundant ([CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)).
   Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: CLAIM-tmpcvuyr LIT-tmpi3ty1 NOTE-tmpekh8j THEORY-tmpky55f THEORY-tmpthk75 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+<!-- inactive-ok-file: CLAIM-tmpcvuyr THEORY-tmpky55f THEORY-tmpthk75 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmpuxsx9: Sun, Pickett, Nain and Jones report that in frozen pretrained transformers the hidden states fall into a few beginning layers, a large middle and one or two ending layers, and that the middle layers share a representation space but do different work: skipping, reordering or running them in parallel degrades benchmarks gracefully, replacing them with copies of one layer is catastrophic, and math and reasoning tasks depend most on layer order
 
 ## Source
 
-Sun, Pickett, Nain and Jones, LIT-tmpi3ty1, read in NOTE-tmpekh8j from arXiv 2407.09298v4 (12 Feb 2025; the AAAI 2025 paper with appendix).
+Sun, Pickett, Nain and Jones, [LIT-tmpi3ty1](../literature.d/LIT-tmpi3ty1.md), read in [NOTE-tmpekh8j](../notes.d/NOTE-tmpekh8j.md) from arXiv 2407.09298v4 (12 Feb 2025; the AAAI 2025 paper with appendix).
 
 ## What was actually shown
 
@@ -39,4 +39,4 @@ Not that middle layers are redundant or interchangeable in function; not tested 
 
 ## Connections
 
-THEORY-tmpthk75 (Lad and colleagues, its closest neighbour); THEORY-tmpky55f (tuned lens); LIT-657.
+[THEORY-tmpthk75](THEORY-tmpthk75.md) (Lad and colleagues, its closest neighbour); [THEORY-tmpky55f](THEORY-tmpky55f.md) (tuned lens); [LIT-657](../literature.d/LIT-657.md).

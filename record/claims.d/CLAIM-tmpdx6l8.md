@@ -89,7 +89,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-tmpq3h4k THEORY-tmprwljl — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-635 CLAIM-068 CLAIM-191 CLAIM-181 CLAIM-059 CLAIM-180 THEORY-2044 THEORY-2043 — Proposed; open, cited for what each holds -->
-<!-- inactive-ok-file: CLAIM-tmpw6wkt TERM-tmp7i7ed ARG-tmp5ahr5 LIT-tmpavt0i LIT-tmpru0xs — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-tmpw6wkt TERM-tmp7i7ed ARG-tmp5ahr5 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
 
 # CLAIM-tmpdx6l8: Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema
 
@@ -127,9 +127,9 @@ holds what such a chain keeps.
   calls a system contracting except on a subspace semicontracting. Read on
   2026-11-21, it contracts what lies off a seminorm's kernel and keeps
   nothing by itself: trajectories may diverge along the kernel
-  (THEORY-tmprwljl, Jafarpour and colleagues), and only the part off the
+  ([THEORY-tmprwljl](../theory.d/THEORY-tmprwljl.md), Jafarpour and colleagues), and only the part off the
   kernel contracts, differences along it may persist or grow
-  (THEORY-tmpq3h4k, De Pasquale and colleagues). Where their examples fix
+  ([THEORY-tmpq3h4k](../theory.d/THEORY-tmpq3h4k.md), De Pasquale and colleagues). Where their examples fix
   the limit, an exact conserved functional fixes it, vᵀx with v the
   dominant left eigenvector, as πF in DeGroot. So the part this claim calls
   conserved is not a seminorm's kernel but the functionals each step
@@ -179,7 +179,7 @@ habits.
 ## What it does not say
 
 - Not that anchoring means only this. Friedkin and Johnsen's "anchoring on
-  initial positions" (THEORY-1161) re-injects the start as a persistent input
+  initial positions" ([THEORY-1161](../theory.d/THEORY-1161.md)) re-injects the start as a persistent input
   at every step; the record also does that when a session rereads the
   originating turn. That is a second route to keeping the source, by a
   constant drive rather than by conservation, and the claim does not cover

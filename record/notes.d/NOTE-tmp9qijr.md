@@ -45,8 +45,8 @@ Zero ablation; folded layer norms; the untuned logit lens; aggregate statistics 
 
 ## Bearing on the record
 
-- **CLAIM-tmpcvuyr** (supports both halves; qualifies). Robust middle, sensitive first layer, ordered stages. Corrections written into version 2: robustness comes from two families only; relative accuracy is agreement with the original model; the fourth stage is residual sharpening; the middle is interchangeable behaviourally, not functionally, since the second half is specialized; and the stages include a lift to "higher-level representations", closer to ordered phases than to pure refinement.
-- **Recheck**: THEORY-1033 and THEORY-1030 (Geva and colleagues), THEORY-1011 (ROME: middle-layer facts), THEORY-1024/1026 (localization does not predict where edits work), THEORY-1226 (a middle band of workspace-like content).
+- **[CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)** (supports both halves; qualifies). Robust middle, sensitive first layer, ordered stages. Corrections written into version 2: robustness comes from two families only; relative accuracy is agreement with the original model; the fourth stage is residual sharpening; the middle is interchangeable behaviourally, not functionally, since the second half is specialized; and the stages include a lift to "higher-level representations", closer to ordered phases than to pure refinement.
+- **Recheck**: [THEORY-1033](../theory.d/THEORY-1033.md) and [THEORY-1030](../theory.d/THEORY-1030.md) (Geva and colleagues), [THEORY-1011](../theory.d/THEORY-1011.md) (ROME: middle-layer facts), [THEORY-1024](../theory.d/THEORY-1024.md)/1026 (localization does not predict where edits work), [THEORY-1226](../theory.d/THEORY-1226.md) (a middle band of workspace-like content).
 
 ## Limitations
 
