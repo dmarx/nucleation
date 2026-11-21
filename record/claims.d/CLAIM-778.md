@@ -188,3 +188,30 @@ prior is the intersection weighted by enforcement, and lint is its hard
 limit. Version 1's wording, "as constraints accumulate on it", is restored in
 substance there. Nothing here changes.
 
+## Admission
+
+Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.md), step 5) by a reader briefed neutrally.
+
+**What it adds.** Most of the claim maps its premises. [CLAIM-772](CLAIM-772.md) already places content in the conserved part and form in the contracting part, and [TERM-132](../terms.d/TERM-132.md) already describes the life cycle as features leaving the free part. One sentence adds something: inbound `rests_on` and `grounds` edges that accrue after coding make an entry's title and claim, in effect, conserved. Substantive revisions become rarer after such edges arrive, while status stays free.
+
+**The route, and a risk.** A realistic separating case passes. The premises concern unprompted copying error, and [TERM-132](../terms.d/TERM-132.md) puts deliberate, announced revision outside it. If heavily cited entries draw more audits and revisions, because scrutiny follows citation, substantive revision rises with inbound edges while every premise holds. The record has instances: [CLAIM-478](CLAIM-478.md) was retitled in version 5 while cited, and [CLAIM-772](CLAIM-772.md) was rewritten twice. A rough count over current files gave this:
+
+| Inbound edges | Claims | Share retitled |
+|---|---|---|
+| 0 | 495 | 0.08 |
+| 1–2 | 228 | 0.08 |
+| 3–5 | 53 | 0.17 |
+| 6 or more | 18 | 0.17 |
+
+The count does not control for age or timing. If the pattern holds once those are controlled ([LEAD-199](../leads.d/LEAD-199.md)), it meets this claim's defeater (a), and shows the claim false rather than merely separate.
+
+**A narrower sentence that would survive the scrutiny confound:** per audit or reframing an entry undergoes, the chance of a substantive revision falls as inbound edges accrue, because each edge adds a downstream recheck.
+
+## Note of 2026-11-21: [CLAIM-478](CLAIM-478.md) misstated
+
+The same audit found two misstatements of [CLAIM-478](CLAIM-478.md).
+
+1. The body paraphrases its superseded version 4 ("settle fast relative to others … the window between the two time scales"). Version 5 says "settle faster than others by more than the rates vary among them", which adds that the gap between levels must exceed the spread within them.
+2. The heading "Slowing is what makes an entry a constraint" goes against [CLAIM-478](CLAIM-478.md)'s own "Not that slowness makes a constraint effective". Slowness makes a constraint available, not effective.
+
+Two smaller ones: [CLAIM-195](CLAIM-195.md) names codes, versions and supersession, not "controlled fields"; and [CLAIM-779](CLAIM-779.md)'s rates are carried over without its linear Gaussian model. No change of status.
