@@ -19,20 +19,20 @@ rests_on:
 objects_to:
 - CLAIM-tmpnf9by
 summary: >-
-  One of two alternative readings of where CLAIM-tmpfls41's null scoring
+  One of two alternative readings of where [CLAIM-tmpfls41](CLAIM-tmpfls41.md)'s null scoring
   sits among the routes to certifying categories that the manuscript's
-  §2.4 lists from CLAIM-402: evidence that does not pass through the
+  §2.4 lists from [CLAIM-402](CLAIM-402.md): evidence that does not pass through the
   categories, a model of the effect of using them, or an intervention. On
   this reading null scoring is a fourth route, because what it models is
   the measure, not the categories' use. The other reading is
-  CLAIM-tmpnf9by. The owner chooses. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+  [CLAIM-tmpnf9by](CLAIM-tmpnf9by.md). The owner chooses. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 date: '2026-11-21'
 ---
-<!-- inactive-ok-file: CLAIM-tmp41gfr CLAIM-tmp6mjfc CLAIM-tmpet76z CLAIM-tmpsr8r4 CLAIM-tmp8h6nt CLAIM-tmpfls41 CLAIM-tmpz5c3x CLAIM-tmpnf9by SYNTHESIS-tmp69tyj SYNTHESIS-tmpsejrp — Proposed or new; filed 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpfls41 CLAIM-tmpnf9by — Proposed or new; filed 2026-11-21 -->
 
 # CLAIM-tmpz5c3x: Scoring against a null is a fourth route to certifying categories, beside evidence that does not pass through them, a model of the effect of using them, and an intervention
 
-**Reading (a), an alternative to CLAIM-tmpnf9by.** The three routes the manuscript draws from CLAIM-402 all concern how the system's categories affect the evidence. A null concerns how the measure behaves when there are no learned categories at all. It needs no model of the categories' effect, since there is nothing to model, and no intervention on the system, since it can be computed for an ensemble the system never was. So it is a separate route.
+**Reading (a), an alternative to [CLAIM-tmpnf9by](CLAIM-tmpnf9by.md).** The three routes the manuscript draws from [CLAIM-402](CLAIM-402.md) all concern how the system's categories affect the evidence. A null concerns how the measure behaves when there are no learned categories at all. It needs no model of the categories' effect, since there is nothing to model, and no intervention on the system, since it can be computed for an ensemble the system never was. So it is a separate route.
 
 **What would favour it.** Cases where the null is computed analytically or from an ensemble (the Gaussian annulus, random cones) and involves no account of the categories at all.
 
