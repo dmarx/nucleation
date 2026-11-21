@@ -31,6 +31,7 @@ summary: >-
   improves its improver). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: ADR-tmpd4rgx ADR-tmpyzxw8 ADR-tmpvmzl6 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 <!-- inactive-ok-file: ADR-089 — Proposed; cited in this filing of 2026-11-20 -->
 
@@ -71,3 +72,19 @@ The census of the record's decisions ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.m
 [QUESTION-388](../questions.d/QUESTION-388.md) asks what separates a programmable system from one that governs its own reconfiguration. By this claim, the record's reconfiguration was self-governed at the level of the owner together with the owner's procedures, and not at the level of its assistants. The criteria for revision stayed with the owner.
 
 [CLAIM-673](CLAIM-673.md) says an arrangement that does the work through which a collective governs it can erode the capacity to govern it. That makes the pattern a candidate for the risk [CLAIM-673](CLAIM-673.md) names. It is not shown to be an instance of it.
+
+## Note of 2026-11-21: three more procedures built to look
+
+The night after this claim was drafted added three procedures of the kind it
+describes, each built after a misfit was met by hand:
+
+- **ADR-tmpd4rgx**: reframes, which had no place in an entry, get a section
+  of their own; the owner noticed the gap.
+- **ADR-tmpyzxw8** (Active): an owner's earmark for the retrospective
+  becomes a note the next retrospective must answer.
+- **ADR-tmpvmzl6**: an adoption review, after 48 decisions were found
+  Proposed while applied; its first pass adopted 34.
+
+And one guard moved upstream: luria now refuses a title that cites a code,
+after the same misfit caught the filer three times (dmarx/luria#403). Each
+is a case of noticing becoming procedural; none was counted by the census.

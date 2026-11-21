@@ -27,6 +27,7 @@ integrates:
 - TERM-131
 - QUESTION-488
 ---
+<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i QUESTION-tmp6iu8e THEORY-tmp3tb8i — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 <!-- inactive-ok-file: TERM-131 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmpxuvmn: An unresolved discrepancy, read as frustration among maintained demands, is an occasion and a sufficient condition for self-formation, a maintained new distinction or channel that outlasts it and transfers, and not a guarantee of it; the record defines learning more broadly and does not identify the two
@@ -53,3 +54,22 @@ integrates:
 
 - **Learning is the formation of a maintained capacity occasioned by a discrepancy.** The manuscript's P5 stated this. It turns [CLAIM-532](../claims.d/CLAIM-532.md)'s sufficient condition into a definition and relabels self-formation as learning. Latent learning separates the two: exploration without reward forms a map later used, so learning by [TERM-131](../terms.d/TERM-131.md) occurs with no discrepancy.
 - **That a discrepancy below threshold is never learned from, in general.** The threshold belongs to [CASE-191](../cases.d/CASE-191.md)'s construction.
+
+## Note of 2026-11-21: progress since this account was drafted
+
+Filed since, and candidates for this account's components at its next
+synthesis review (not added here, since an account adds nothing and its
+components are the review's to settle):
+
+- **CLAIM-tmpydua7**: First Contact read as this account's route, a new
+  channel formed to repair a failure of information split between two
+  parties (the interface acts, the user knows the task); grounded on a local
+  reading, THEORY-tmp3tb8i.
+- **CLAIM-tmpspx4i**: help that stabilizes one level can look, at that
+  level, like the channel failing; the horizon at which a channel is judged
+  is a level of a rate hierarchy.
+- **QUESTION-tmp6iu8e**: whether stabilizing help erodes the capacity it
+  stands in for, invisibly to a score taken with the help present.
+
+First Contact runs neither of CLAIM-532's tests (NOTE-tmp7qgd8), so it
+illustrates the route without certifying it.

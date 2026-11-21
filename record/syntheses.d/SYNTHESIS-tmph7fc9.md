@@ -30,6 +30,7 @@ integrates:
 - CLAIM-522
 - TERM-100
 ---
+<!-- inactive-ok-file: QUESTION-tmp6iu8e — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 # SYNTHESIS-tmph7fc9: A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity's maintenance comes from is shown only by intervention on its production
 
@@ -56,3 +57,11 @@ integrates:
 
 - **Maintenance is known only by intervention,** for capacities in general. The manuscript's P7 stated this. [CLAIM-558](../claims.d/CLAIM-558.md) and [TERM-115](../terms.d/TERM-115.md) hold it for capacities that operation seldom calls on. A capacity exercised daily is shown by operation.
 - **That whether a capacity is maintained and where its maintenance comes from are one question.** [CLAIM-522](../claims.d/CLAIM-522.md) is about the second.
+
+## Note of 2026-11-21: progress since this account was drafted
+
+**QUESTION-tmp6iu8e**, filed since, asks this account's question of a
+shared-autonomy assistant: whether help that raises a user's long-horizon
+influence erodes their unassisted capacity, and whether a score taken with
+the help present can show it. A candidate component at the next synthesis
+review.

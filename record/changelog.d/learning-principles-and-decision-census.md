@@ -11,3 +11,9 @@
 ### Changed
 
 - [CLAIM-181](record/claims.d/CLAIM-181.md) and [CLAIM-419](record/claims.d/CLAIM-419.md) take notes of 2026-11-20 with the census's counts.
+
+### Changed (refresh of 2026-11-21)
+
+- Retargeted to staging and brought up to date with it; dated notes on
+  SYNTHESIS-tmpxuvmn, SYNTHESIS-tmpkaje4, SYNTHESIS-tmph7fc9, CLAIM-tmpmtv1b
+  and CASE-tmpnkuie naming the night's filings that bear on them.

@@ -30,6 +30,7 @@ integrates:
 - CLAIM-761
 - QUESTION-457
 ---
+<!-- inactive-ok-file: CLAIM-tmphigw4 CLAIM-tmpm9ep1 CASE-tmpi16kb CLAIM-tmpj4fzn CLAIM-tmp8v75o TERM-tmp7m4at TERM-tmp0g123 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 <!-- inactive-ok-file: CLAIM-761 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmpkaje4: Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question
@@ -60,3 +61,20 @@ integrates:
 ## Not stated on the record
 
 - **Reflexive inquiry is self-governed only where the criteria of revision are the system's own and remain revisable.** The manuscript's P8 stated this. Whether criteria are the system's own is exactly what [QUESTION-388](../questions.d/QUESTION-388.md) asks. Requiring the criteria of revision, and not only the governing standards, to be one's own goes beyond [CLAIM-485](../claims.d/CLAIM-485.md), and opens the regress [CLAIM-424](../claims.d/CLAIM-424.md)'s `defeated_if` names.
+
+## Note of 2026-11-21: progress since this account was drafted
+
+Filed since, and candidates for this account's components at its next
+synthesis review:
+
+- **CLAIM-tmphigw4** and **CLAIM-tmpm9ep1**: engineering as a form of
+  inquiry, read two ways; reflexive when building revises the
+  specification, with the record's staging branch as the case
+  (CASE-tmpi16kb), where building found a requirement review had missed.
+- **CLAIM-tmpj4fzn** and **CLAIM-tmp8v75o**: an entry's accrued predicates
+  are constraints, and the revisions open to it are their intersection;
+  descriptors hold an entry where it is and impositions move it. This gives
+  "stored specifications that cheapen some questions and entrench against
+  others" a model.
+- **TERM-tmp7m4at** (a predicate read as a test) and **TERM-tmp0g123**
+  (stabilization in the control-theoretic sense).
