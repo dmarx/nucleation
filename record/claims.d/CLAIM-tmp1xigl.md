@@ -45,7 +45,7 @@ summary: >-
   they differ in what the reference is tied to. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-191 CLAIM-184 CLAIM-185 CLAIM-772 THEORY-2096 THEORY-487 CLAIM-tmppkqzl CLAIM-tmp0kqq4 — Proposed; the anchoring claims and readings this joins, and the objections it generalizes -->
+<!-- inactive-ok-file: CLAIM-191 CLAIM-184 CLAIM-185 CLAIM-772 THEORY-2096 THEORY-487 CLAIM-217 SYNTHESIS-066 CLAIM-315 CLAIM-tmppkqzl CLAIM-tmp0kqq4 — Proposed; the anchoring claims and readings this joins, and the objections it generalizes -->
 
 # CLAIM-tmp1xigl: In any inquiry, anchoring is one mechanism, a fixed reference that each reconstruction is pulled toward, and what it secures is set by what the reference is tied to: tied to the target by a channel independent of the inquirer, it gives the inquiry's states content and makes a discrepancy register; tied to an earlier state of the inquiry, it gives continuity and not correctness; tied to nothing, it is bias
 
@@ -118,6 +118,21 @@ the reader's prior that offsets every reading of an anchored text
 ([CLAIM-tmppkqzl](CLAIM-tmppkqzl.md)) is anchoring of the third kind inside one of the
 second; the stale summary ([CLAIM-tmp0kqq4](CLAIM-tmp0kqq4.md)) is the second kind not
 following a revision.
+
+**Against [SYNTHESIS-066](../syntheses.d/SYNTHESIS-066.md)'s refusal.** That review declined to file
+"anchoring as the line's one condition": the join of [CLAIM-011](CLAIM-011.md)'s anchoring,
+[CLAIM-342](CLAIM-342.md)'s independent evidence and [CLAIM-217](CLAIM-217.md)'s competent uptake as one
+requirement. Its reasons were that what the independent measure is differs
+in each, a free parameter, and that "passes through the interpreter" was
+equivocal. This claim does not make that join. Those three entries fall in
+one row of the table, and the claim leaves "independent of the inquirer"
+as that row's free parameter, as the review found it. What the claim adds
+is a join across rows, which the review did not test: the pull that makes
+an estimate biased ([CLAIM-315](CLAIM-315.md)) and the pull that keeps a restatement
+faithful ([CLAIM-191](CLAIM-191.md)) are the same pull, and only the tie differs. The
+admission route is the separating case: [CLAIM-011](CLAIM-011.md) and [CLAIM-315](CLAIM-315.md) are
+anchoring with the same pull and opposite effects on fidelity to the
+target, and nothing on the record but the tie tells them apart.
 
 ## What it does not say
 
