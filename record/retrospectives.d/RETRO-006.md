@@ -1,7 +1,17 @@
 ---
+number: 6
 status: Draft
+formerly:
+- RETRO-tmp4n9h8
 title: 'The manuscript "From Obstruction to Reorganization", the filing of its principles and census, and the exchange on anchoring, 2026-11-20 to 21: what went right was independent readers checking the drafter and the owner widening a frame, and what went wrong was a drafter''s restatements overreaching in one direction, integrations stated as principles before the admission test, and no devlog notes taken'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's responses to the six recommendations, given on the
+    promotion pull request the same day, are recorded with what was done
+    about each.
 tags:
 - record
 - process
@@ -37,9 +47,9 @@ summary: >-
   Six recommendations, none yet a decision.
 ---
 <!-- inactive-ok-file: ADR-127 ADR-115 — Proposed; the decisions this reviews -->
-<!-- inactive-ok-file: CLAIM-tmp1xigl CLAIM-tmppkqzl CLAIM-tmp0kqq4 — Proposed; filed in pull request 583, cited for what they hold -->
+<!-- inactive-ok-file: CLAIM-790 CLAIM-793 CLAIM-789 — Proposed; filed in pull request 583, cited for what they hold -->
 
-# RETRO-tmp4n9h8: The manuscript "From Obstruction to Reorganization", the filing of its principles and census, and the exchange on anchoring, 2026-11-20 to 21: what went right was independent readers checking the drafter and the owner widening a frame, and what went wrong was a drafter's restatements overreaching in one direction, integrations stated as principles before the admission test, and no devlog notes taken
+# RETRO-006: The manuscript "From Obstruction to Reorganization", the filing of its principles and census, and the exchange on anchoring, 2026-11-20 to 21: what went right was independent readers checking the drafter and the owner widening a frame, and what went wrong was a drafter's restatements overreaching in one direction, integrations stated as principles before the admission test, and no devlog notes taken
 
 ## What it covers
 
@@ -73,15 +83,18 @@ pull requests, their commits and the session's transcript.
   step 5. It found that no principle passed as a claim and that six links
   overreached. Each found what the drafter, rereading its own text, had
   not. Why it worked: the readers did not share the drafter's framing,
-  which is the channel [CLAIM-tmppkqzl](../claims.d/CLAIM-tmppkqzl.md) says is the only one that can see a
+  which is the channel [CLAIM-793](../claims.d/CLAIM-793.md) says is the only one that can see a
   framing's offset.
 - **The census was fixed before it was run.** The codebook was written
   before any decision was coded. A second coder took a seeded random 30,
   agreement was reported per field, and the scripts have tests. Two
   findings came out that nobody had looked for: noticing moved from filing
-  agents to review procedures while revision stayed with the owner; and 0
-  of 237 `anthology-candidate` flags were revisited when the flag's meaning
-  changed.
+  agents to review procedures while revision stayed with the owner; and
+  removals and splits were carried through every entry that had to move.
+  (A third, that 0 of 237 `anthology-candidate` flags were revisited when
+  the flag's meaning changed, was withdrawn at the owner's ruling of
+  2026-11-21: the flag's meaning did not change, and revisiting it is the
+  anthology's process.)
 - **The admission test did its job.** Applied to a general theory
   assembled from the record, it found that the theory is mostly the record
   rearranged. Its own content lies in one prediction, the census and the
@@ -93,7 +106,7 @@ pull requests, their commits and the session's transcript.
   the literal luria record rather than the broader behavior of anchoring
   during a general inquiry." The assistant's first two objections were
   right about the record and too narrow. The general account
-  ([CLAIM-tmp1xigl](../claims.d/CLAIM-tmp1xigl.md)) joins three senses of anchoring the record held
+  ([CLAIM-790](../claims.d/CLAIM-790.md)) joins three senses of anchoring the record held
   apart, and the two objections become local cases of it. The owner: "naw
   you nailed it this time." This repeats the pattern of the devlog entry of
   2026-11-21 00:31:49: the owner's reframings turn first answers into
@@ -118,7 +131,7 @@ pull requests, their commits and the session's transcript.
   them to be filed, and it then forced corrections back into the
   manuscript. Applied at drafting, it would have caught the overreach
   before it was written into §§2–7.
-- **A prior refusal was found after filing.** [CLAIM-tmp1xigl](../claims.d/CLAIM-tmp1xigl.md) joined
+- **A prior refusal was found after filing.** [CLAIM-790](../claims.d/CLAIM-790.md) joined
   anchorings that [SYNTHESIS-066](../syntheses.d/SYNTHESIS-066.md)'s review had declined to join in a
   related form. The refusal was found only while drafting a note on the P9
   account, and the claim was amended on its branch to answer it. This is
@@ -134,7 +147,7 @@ pull requests, their commits and the session's transcript.
   census counts decisions to 2026-11-20, while about twenty more were filed
   the next night and 34 moved to Active. The manuscript needed three
   refreshes in a day. Each refresh was a hand-copied update of a derived
-  text, which is [CLAIM-tmp0kqq4](../claims.d/CLAIM-tmp0kqq4.md)'s hazard, and one of them carried [RETRO-004](RETRO-004.md)'s
+  text, which is [CLAIM-789](../claims.d/CLAIM-789.md)'s hazard, and one of them carried [RETRO-004](RETRO-004.md)'s
   stale summary forward until a reader noticed.
 - **No devlog notes were taken.** [ADR-115](../decisions.d/ADR-115.md) asks for a note filed as the
   work goes, in the pull request it concerns. None was. This retrospective
@@ -160,8 +173,28 @@ pull requests, their commits and the session's transcript.
    sessions outside the dialectic regime.
 5. **Say in [ADR-127](../decisions.d/ADR-127.md) whether a worker restart is a new session.**
 6. **Rerun the census at the next promotion** and date its figures, or
-   state in [CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md) the date its counts are as of. It does state this
+   state in [CASE-300](../cases.d/CASE-300.md) the date its counts are as of. It does state this
    now; the manuscript should too, wherever it quotes them.
+
+## The owner's responses, 2026-11-21
+
+The owner answered on the promotion pull request, 582, with a reply under each recommendation. In the order above:
+
+1. **Run the admission test at drafting.** "my concern is potentially rejecting content we might want prematurely." Not adopted as written. The concern is about what a failed test does, not when it runs. Three alternative decisions on [ADR-075](../decisions.d/ADR-075.md)'s step 5 answer it (pull request 594). Under alternative A, a failure loses nothing and becomes a line under "Not stated" in an account, so running the test early would be harmless. Under C, the test moves to the synthesis review. The recommendation waits on that choice.
+2. **Search accounts' "Not stated" sections before filing a join.** No reply. It stands.
+3. **Have a manuscript name the staging commit it was brought up to date against.** "don't we get this for free via git blame or git log?" Mostly, yes. `git log` on the manuscript's directory gives each refresh, and the refresh's commit sits on a staging base that fixes the record's state. What it does not give is which passages a refresh checked: a refresh touches some sections and leaves others as of an earlier state. That is narrower than the recommendation, and the README's dated refresh notes already carry it. Withdrawn.
+4. **File devlog notes as the work goes.** No reply. It stands.
+5. **Say in [ADR-127](../decisions.d/ADR-127.md) whether a worker restart is a new session.** "it's not. if the worker was in dialectic mode when the container was stopped, it still is when the container comes back. the determination here should be the state of the literal dialectic." Done: [ADR-127](../decisions.d/ADR-127.md) version 3 and CLAUDE.md (pull request 595).
+6. **Rerun the census at the next promotion.** "we should pipeline an analytics workflow so we can trigger all of the numbers we need to be to be recalculated as needed. consider Apache Hamilton here." Taken up as a tool, built on its own branch with Apache Hamilton. The hand-coded part of the census cannot be recomputed for new decisions; the tool reports how many decisions are not yet coded, so that staleness shows.
+
+The owner's other rulings on the same pull request, about the work this retrospective reviews:
+
+- The `anthology-candidate` finding was wrong: the flag did not change meaning (pull request 587).
+- [RETRO-004](RETRO-004.md)'s summary is corrected (588).
+- The work is renamed after the manuscript's directory (589).
+- A human second coder is filed as a lead (591).
+- The anchoring objections are restated in general terms and taken into the P9 account (592).
+- Cross-line accounts are permitted, with an audit for missing lines (593).
 
 ## What it does not say
 

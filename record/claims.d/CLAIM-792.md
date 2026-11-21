@@ -1,5 +1,8 @@
 ---
+number: 792
 status: Proposed
+formerly:
+- CLAIM-tmpmtv1b
 title: 'In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision'
 version: 1
 role: thesis
@@ -19,12 +22,12 @@ date: '2026-11-20'
 line:
 - record-as-apparatus
 grounds:
-- CASE-tmpnkuie
+- CASE-300
 bears_on:
 - QUESTION-388
 - QUESTION-457
 summary: >-
-  A finding of the decision census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)), filed at the owner's
+  A finding of the decision census ([CASE-300](../cases.d/CASE-300.md)), filed at the owner's
   direction from the manuscript on the record. It answers no question
   outright. It bears on [QUESTION-388](../questions.d/QUESTION-388.md) (what makes reconfiguration self-
   governed) and [QUESTION-457](../questions.d/QUESTION-457.md) (whether a collective keeping a governed record
@@ -34,11 +37,11 @@ summary: >-
 <!-- inactive-ok-file: ADR-120 ADR-124 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 
-# CLAIM-tmpmtv1b: In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision
+# CLAIM-792: In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision
 
 ## The claim
 
-The census of the record's decisions ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) coded, for each of the 88 that changed the grammar, who noticed the need, who proposed the change, who decided it and how the owner ratified it. Agreement on these fields between two coders on a random 30 was κ 0.82, 0.85, 1.00 and 1.00.
+The census of the record's decisions ([CASE-300](../cases.d/CASE-300.md)) coded, for each of the 88 that changed the grammar, who noticed the need, who proposed the change, who decided it and how the owner ratified it. Agreement on these fields between two coders on a random 30 was κ 0.82, 0.85, 1.00 and 1.00.
 
 **Who noticed changed over the eight weeks.**
 

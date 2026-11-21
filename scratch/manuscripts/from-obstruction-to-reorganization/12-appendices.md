@@ -10,7 +10,7 @@
 6. **Who noticed, by period and by refinement or revision (§13.1).**
 7. **The flywheel observed (§16.1).** Figure 1, annotated with the record's counts at each stage.
 8. **CASE kind against standing (§13.2),** as a 6 × 3 heatmap.
-9. **Term changes (§15.2).** Carrying entries and the share touched, grouped by removal, split, widening and redefinition.
+9. **Term changes (§15.2).** Carrying entries and the share touched, grouped by removal, split and widening or restatement.
 10. **LEAD stages before and after ADR-111 (§14.4),** captioned as a migration.
 
 ## Appendix B. Source map

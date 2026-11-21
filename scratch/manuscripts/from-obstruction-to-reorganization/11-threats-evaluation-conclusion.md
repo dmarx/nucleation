@@ -98,7 +98,7 @@ Part I set out a theory of how systems learn and inquire.
 - **Transmission.** Without anchors, transmission drifts toward the transmitters. An anchor secures what it is tied to: tied to the target, content and a discrepancy that registers; tied to the inquiry's own past, continuity; tied to nothing, bias. What a record can secure is traceable change, not fidelity.
 - **Collectives** learn through a chain of separable achievements, any of which can fail while the others hold, and they confirm themselves without independent evidence.
 
-From these principles the theory predicts a cycle for any inquiry held in a revisable apparatus. Misfits are absorbed before they are noticed. Noticing is the scarce step. Diagnosis weighs actions, not just data. Revision includes merging and withdrawal as well as splitting. Carry-through fails where only a meaning moves. Maintenance fails where a correction stops short. Each turn stores work that later turns use, and that also entrenches.
+From these principles the theory predicts a cycle for any inquiry held in a revisable apparatus. Misfits are absorbed before they are noticed. Noticing is the scarce step. Diagnosis weighs actions, not just data. Revision includes merging and withdrawal as well as splitting. Carry-through is predicted to fail where only a meaning moves. Maintenance fails where a correction stops short. Each turn stores work that later turns use, and that also entrenches.
 
 Part II showed that the record in which the theory was developed is an apparatus of exactly this kind, and that each principle has a mechanism in its machinery. Many of those mechanisms were adopted for local reasons before the claims they embody were argued.
 
@@ -106,7 +106,7 @@ Part III traced what the machinery did over eight weeks:
 
 - **The grammar changed 88 times:** 62 refinements and 25 revisions, including a redefinition of what counts as an answer and the withdrawal of an abstraction that had overreached.
 - **Absorption came first.** In almost nine cases in ten, the misfit had first been absorbed, forced or held in prose.
-- **Carry-through was traced, with one exception.** Removals reached every entry that used the removed term. A redefinition reached none.
+- **Carry-through was traced where entries had to move.** Removals reached every entry that used the removed term, and splits moved the entries they had to. A correction failed to reach one derived summary. No change of meaning alone is in the history, so that predicted failure is untested.
 - **The costs were real.** 2,664 entries were migrated, and ten changes caused errors that later checks found.
 - **Noticing became institutional.** It moved from whoever happened to meet a misfit to procedures built to look.
 - **Judgment about revision stayed with the owner,** who governs the criteria.

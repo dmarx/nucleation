@@ -40,7 +40,7 @@ The moments are numbered for reference, not as a sequence. The record holds that
    - *Predicted failure:* splitting for its own sake (over-naming) or failing to split where actions differ.
 4. **The apparatus is changed** (P2, P8), by refinement or by revision. Revision includes merging, re-carving and withdrawing a distinction that did not earn its keep, not only splitting.
 5. **The change is carried through what already exists** (P6, P9). Existing entries are re-read and re-classified. This is the transition cost, and it must be traceable, or the change is itself a silent redefinition (P9 applied to the apparatus).
-   - *Predicted failure:* when only a meaning changes, nothing forces the entries to follow.
+   - *Predicted failure:* when only a meaning changes, nothing forces the entries to follow. (Untested on the record: its history holds no such change, §15.2.)
 6. **The change is maintained** (P7). A check enforces it, a review exercises it, a procedure carries it into the next session.
    - *Predicted failure:* a procedure is recorded but not exercised, and decays. Or a correction stops one level short, reaching the source but not what is derived from it.
 7. **The new distinction or channel serves later cases** (P5's transfer test, P8's frontier). Questions that were expressible but not askable become askable. New misfits become noticeable because there are now finer categories to misfit. Kuhn, as one reading has him, makes the same point about sciences: firm commitment to a tradition is what lets research recognize where the tradition fails (THEORY-2096, Proposed).

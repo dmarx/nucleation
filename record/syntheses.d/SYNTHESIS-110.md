@@ -1,5 +1,8 @@
 ---
+number: 110
 status: Proposed
+formerly:
+- SYNTHESIS-tmp40uze
 title: 'Whether a distinction must be drawn and whether it earns a name are settled in the record by different entries, the first by what acceptable actions require and the second by evidence against Occam cost and by retrieval under a deadline, which pull in opposite directions with copy count'
 version: 1
 defeated_if: >-
@@ -25,7 +28,7 @@ integrates:
 ---
 
 <!-- inactive-ok-file: CLAIM-762 — Proposed or Open; components of this account, cited with their standing -->
-# SYNTHESIS-tmp40uze: Whether a distinction must be drawn and whether it earns a name are settled in the record by different entries, the first by what acceptable actions require and the second by evidence against Occam cost and by retrieval under a deadline, which pull in opposite directions with copy count
+# SYNTHESIS-110: Whether a distinction must be drawn and whether it earns a name are settled in the record by different entries, the first by what acceptable actions require and the second by evidence against Occam cost and by retrieval under a deadline, which pull in opposite directions with copy count
 
 *A thematic account, across lines, of principle P4 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
 
